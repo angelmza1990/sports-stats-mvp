@@ -1,3 +1,7 @@
+.lede a {
+  color: inherit;
+}
+
 :root {
   --p-djokovic: var(--series-1);
   --p-nadal: var(--series-2);

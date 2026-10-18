@@ -1,8 +1,9 @@
 name: Update data
 
 # Rebuilds every dataset twice a year:
-#   July 1      - after the NBA Finals and the first half of the tennis season
-#   December 31 - after the ATP Finals
+#   July 1      - after the NBA Finals, the Australian Open and Roland Garros
+#   (Slams the ATP files don't cover yet are rebuilt from Wikipedia draw pages)
+#   December 31 - after Wimbledon, the US Open and the ATP Finals
 # A monthly keepalive stops GitHub from disabling the schedule
 # (scheduled workflows in public repos are paused after 60 days without activity).
 
@@ -47,6 +48,11 @@ jobs:
         continue-on-error: true
         run: python3 scripts/build_big_three.py --refresh
 
+      - name: Rebuild tennis (Grand Slams)
+        id: slams
+        continue-on-error: true
+        run: python3 scripts/build_grand_slams.py --refresh
+
       - name: Rebuild basketball (NBA Rings)
         id: nba
         continue-on-error: true
@@ -57,7 +63,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tennis/big-three/data basketball/nba-rings/data
+          git add tennis/big-three/data tennis/grand-slams/data basketball/nba-rings/data
           if git diff --cached --quiet; then
             echo "No data changes."
             echo "changed=false" >> "$GITHUB_OUTPUT"
@@ -75,7 +81,7 @@ jobs:
         run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
 
       - name: Report failed builds
-        if: steps.tennis.outcome == 'failure' || steps.nba.outcome == 'failure'
+        if: steps.tennis.outcome == 'failure' || steps.slams.outcome == 'failure' || steps.nba.outcome == 'failure'
         run: |
-          echo "::error::A data build failed validation (tennis: ${{ steps.tennis.outcome }}, nba: ${{ steps.nba.outcome }}). The previous data was kept; check the step logs."
+          echo "::error::A data build failed validation (big three: ${{ steps.tennis.outcome }}, grand slams: ${{ steps.slams.outcome }}, nba: ${{ steps.nba.outcome }}). The previous data was kept; check the step logs."
           exit 1
