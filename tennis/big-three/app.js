@@ -8,7 +8,7 @@
   const IDS = PLAYERS.map((p) => p.id);
   const byId = Object.fromEntries(PLAYERS.map((p) => [p.id, p]));
   const color = (id) => `var(--p-${id})`;
-  const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const reduceMotion = Viz.reduceMotion;
   const DAY = 864e5;
 
   const parseDate = d3.utcParse("%Y-%m-%d");
@@ -35,142 +35,13 @@
   };
   const LEVELS = { G: "Grand Slam", M: "Masters 1000", F: "ATP Finals", O: "Olympics", A: "ATP Tour", D: "Davis Cup" };
 
-  /* ---------- DOM helpers ---------- */
+  const { el, table, responsive, showTip, hideTip, tooltipOn, barPath, ttTitle, ttNote } = Viz;
 
-  function el(tag, className, text) {
-    const node = document.createElement(tag);
-    if (className) node.className = className;
-    if (text != null) node.textContent = text;
-    return node;
-  }
-
-  function swatch(pid, cls) {
-    const i = el("i", cls);
-    i.style.setProperty("--c", color(pid));
-    return i;
-  }
-
-  function legend(container, kind) {
-    const root = document.getElementById(container);
-    PLAYERS.forEach((p) => {
-      const item = el("span");
-      item.append(swatch(p.id, kind === "line" ? "line" : ""), document.createTextNode(p.name));
-      root.append(item);
-    });
-  }
-
-  function segmented(containerId, initial, onChange) {
-    const root = document.getElementById(containerId);
-    const buttons = METRICS.map((m) => {
-      const b = el("button", null, m.label);
-      b.type = "button";
-      b.setAttribute("role", "tab");
-      b.setAttribute("aria-selected", String(m.key === initial));
-      b.addEventListener("click", () => {
-        buttons.forEach((x) => x.setAttribute("aria-selected", String(x === b)));
-        onChange(m.key);
-      });
-      root.append(b);
-      return b;
-    });
-  }
-
-  function table(containerId, headers, rows) {
-    const root = document.getElementById(containerId);
-    const wrap = el("div", "scroll");
-    const t = el("table");
-    const head = el("tr");
-    headers.forEach((h) => head.append(el("th", null, h)));
-    const thead = el("thead");
-    thead.append(head);
-    t.append(thead);
-    const body = el("tbody");
-    rows.forEach((r) => {
-      const tr = el("tr");
-      r.forEach((c) => tr.append(el("td", null, c)));
-      body.append(tr);
-    });
-    t.append(body);
-    wrap.append(t);
-    root.replaceChildren(wrap);
-  }
-
-  /** Re-render a chart whenever its container changes width. */
-  function responsive(containerId, render) {
-    const node = document.getElementById(containerId);
-    let lastWidth = 0;
-    const run = () => {
-      const width = Math.floor(node.clientWidth);
-      if (width && width !== lastWidth) {
-        lastWidth = width;
-        render(width);
-      }
-    };
-    new ResizeObserver(() => requestAnimationFrame(run)).observe(node);
-    run();
-    return () => {
-      lastWidth = 0;
-      run();
-    };
-  }
-
-  /* ---------- Tooltip ---------- */
-
-  const tip = document.getElementById("tooltip");
-
-  function showTip(event, build) {
-    tip.replaceChildren();
-    build(tip);
-    tip.hidden = false;
-    moveTip(event);
-  }
-
-  function moveTip(event) {
-    let x, y;
-    if (event.clientX != null && event.type.startsWith("pointer")) {
-      x = event.clientX;
-      y = event.clientY;
-    } else {
-      const r = event.target.getBoundingClientRect();
-      x = r.right;
-      y = r.top + r.height / 2;
-    }
-    const { width, height } = tip.getBoundingClientRect();
-    let left = x + 14;
-    let top = y + 14;
-    if (left + width > innerWidth - 8) left = x - width - 14;
-    if (top + height > innerHeight - 8) top = y - height - 14;
-    tip.style.left = `${Math.max(8, left)}px`;
-    tip.style.top = `${Math.max(8, top)}px`;
-  }
-
-  function hideTip() {
-    tip.hidden = true;
-  }
-
-  const ttTitle = (text) => el("div", "tt-title", text);
-  const ttNote = (text) => el("div", "tt-note", text);
-  function ttRow(pid, value, label) {
-    const row = el("div", "tt-row");
-    row.append(swatch(pid), el("b", null, String(value)), document.createTextNode(label ?? byId[pid].name));
-    return row;
-  }
-
-  /** Wire hover + keyboard focus on a selection of marks to the tooltip. */
-  function tooltipOn(selection, build) {
-    selection
-      .attr("tabindex", 0)
-      .on("pointerenter pointermove", (event, d) => showTip(event, (t) => build(t, d)))
-      .on("focus", (event, d) => showTip(event, (t) => build(t, d)))
-      .on("pointerleave blur", hideTip);
-  }
-
-  /** Bar path with a 4px rounded data end and a square baseline. */
-  function barPath(x, y, w, h, r = 4) {
-    if (w <= 0) return `M${x},${y}h0v${h}h0Z`;
-    const rr = Math.min(r, w, h / 2);
-    return `M${x},${y}h${w - rr}a${rr},${rr} 0 0 1 ${rr},${rr}v${h - 2 * rr}a${rr},${rr} 0 0 1 -${rr},${rr}h-${w - rr}Z`;
-  }
+  const swatch = (pid, cls) => Viz.swatch(color(pid), cls);
+  const ttRow = (pid, value, label) => Viz.ttRow(color(pid), value, label ?? byId[pid].name);
+  const legend = (containerId, kind) =>
+    Viz.legend(containerId, PLAYERS.map((p) => ({ label: p.name, color: color(p.id) })), kind);
+  const segmented = (containerId, initial, onChange) => Viz.segmented(containerId, METRICS, initial, onChange);
 
   const count = (list, pid) => list.filter((t) => t.player === pid).length;
   const years = (list) => list.map((t) => t.date.getUTCFullYear()).join(", ");
