@@ -1,0 +1,81 @@
+name: Update data
+
+# Rebuilds every dataset twice a year:
+#   July 1      - after the NBA Finals and the first half of the tennis season
+#   December 31 - after the ATP Finals
+# A monthly keepalive stops GitHub from disabling the schedule
+# (scheduled workflows in public repos are paused after 60 days without activity).
+
+on:
+  schedule:
+    - cron: "0 9 1 7 *"
+    - cron: "0 9 31 12 *"
+    - cron: "0 9 15 * *" # keepalive
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  actions: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  keepalive:
+    if: github.event.schedule == '0 9 15 * *'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Keep the scheduled workflow enabled
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/update-data.yml/enable"
+
+  update:
+    if: github.event.schedule != '0 9 15 * *'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild tennis (Big Three)
+        id: tennis
+        continue-on-error: true
+        run: python3 scripts/build_big_three.py --refresh
+
+      - name: Rebuild basketball (NBA Rings)
+        id: nba
+        continue-on-error: true
+        run: python3 scripts/build_nba_rings.py --refresh
+
+      - name: Commit and push changes
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tennis/big-three/data basketball/nba-rings/data
+          if git diff --cached --quiet; then
+            echo "No data changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update data ($(date -u +%Y-%m-%d))"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Pushes made with GITHUB_TOKEN don't trigger other workflows, so ask Pages to rebuild.
+      - name: Rebuild GitHub Pages
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
+
+      - name: Report failed builds
+        if: steps.tennis.outcome == 'failure' || steps.nba.outcome == 'failure'
+        run: |
+          echo "::error::A data build failed validation (tennis: ${{ steps.tennis.outcome }}, nba: ${{ steps.nba.outcome }}). The previous data was kept; check the step logs."
+          exit 1
