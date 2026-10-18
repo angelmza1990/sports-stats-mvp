@@ -1,0 +1,7 @@
+# Raw downloads (rebuilt by scripts/build_big_three.py)
+data/raw/
+
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
