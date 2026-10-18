@@ -1,0 +1,206 @@
+:root {
+  --slam-ao: var(--series-1);
+  --slam-rg: var(--series-2);
+  --slam-w: var(--series-3);
+  --slam-uso: var(--series-4);
+  --loss: var(--axis);
+}
+
+.lede a {
+  color: inherit;
+}
+
+/* Stat tiles */
+
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.stat {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+
+.stat .label {
+  font-size: 13px;
+  color: var(--ink-2);
+}
+
+.stat .value {
+  font-size: 32px;
+  font-weight: 650;
+  line-height: 1.1;
+}
+
+.stat .detail {
+  font-size: 13px;
+  color: var(--ink-muted);
+}
+
+/* Flags */
+
+.flag {
+  width: 20px;
+  height: 15px;
+  object-fit: cover;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px var(--border);
+  flex: none;
+  vertical-align: -2px;
+}
+
+.flag-code {
+  display: inline-grid;
+  place-items: center;
+  width: 20px;
+  height: 15px;
+  border-radius: 2px;
+  background: var(--wash);
+  box-shadow: 0 0 0 1px var(--border);
+  font-size: 7px;
+  font-weight: 700;
+  color: var(--ink-2);
+  flex: none;
+}
+
+.race-ticker .flag {
+  margin-right: 6px;
+}
+
+/* Nations */
+
+.nation-counts {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.nation-count {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  position: relative;
+  overflow: hidden;
+}
+
+.nation-count::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 3px;
+  background: var(--c);
+}
+
+.nation-count .label {
+  font-size: 13px;
+  color: var(--ink-2);
+}
+
+.nation-count .value {
+  font-size: 28px;
+  font-weight: 650;
+  line-height: 1.15;
+}
+
+.nation-count .detail {
+  font-size: 12px;
+  color: var(--ink-muted);
+}
+
+.nation-head,
+.nation-row {
+  display: grid;
+  grid-template-columns: 20px minmax(0, 10em) minmax(0, 1fr) 3.2em 4.5em;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+}
+
+.nation-head {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink-2);
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.nation-row {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.nation-row:last-child {
+  border-bottom: 0;
+}
+
+.nation-row:hover,
+.nation-row:focus-visible {
+  outline: none;
+  background: var(--wash);
+}
+
+.nation-row .name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nation-head .num,
+.nation-row .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.nation-row .num.strong {
+  font-weight: 650;
+}
+
+.stack {
+  display: flex;
+  gap: 2px;
+  height: 10px;
+}
+
+.stack span {
+  background: var(--c);
+  min-width: 2px;
+}
+
+.stack span:last-child {
+  border-radius: 0 4px 4px 0;
+}
+
+@media (max-width: 760px) {
+  .stat-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .nation-counts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .nation-counts .nation-count:first-child {
+    grid-column: 1 / -1;
+  }
+
+  .nation-head,
+  .nation-row {
+    grid-template-columns: 20px minmax(0, 7.5em) minmax(0, 1fr) 2.6em 3.6em;
+    gap: 8px;
+  }
+}
+
+svg .badge-text {
+  fill: var(--ink-2);
+  font-weight: 700;
+}
