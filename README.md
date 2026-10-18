@@ -23,6 +23,17 @@ Federer, Nadal and Djokovic by the numbers:
 | Rafael Nadal | 22 | 36 | 0 | 92 | 24–16 vs Federer |
 | Roger Federer | 20 | 28 | 6 | 103 | |
 
+### 🏀 [NBA Rings](https://angelmza1990.github.io/sports-stats-mvp/basketball/nba-rings/)
+
+Every NBA championship since 1947:
+
+- **The race for the most rings:** an animated bar chart race of championships by franchise, season by season, with team logos
+- **East vs West:** the conference split overall and by decade
+- **Every champion:** one tile per season with the Finals result and MVP
+- **Rings by franchise:** all 30 teams grouped by conference, including the ones still waiting
+- **How the Finals were won:** sweeps to Game 7s
+- **Finals MVP leaders**
+
 ## How it works
 
 ```
@@ -33,26 +44,40 @@ Federer, Nadal and Djokovic by the numbers:
 │   ├── app.js                    # All charts (D3 v7)
 │   ├── style.css
 │   └── data/big-three.json       # Generated dataset
-├── scripts/build_big_three.py    # Data pipeline
-└── data/manual/                  # Hand-curated results newer than the source data
+├── basketball/nba-rings/         # NBA Rings infographic
+├── scripts/
+│   ├── build_big_three.py        # Tennis data pipeline
+│   └── build_nba_rings.py        # NBA data pipeline
+├── data/
+│   ├── manual/                   # Hand-curated tennis results newer than the source data
+│   └── nba/franchises.json       # Every NBA franchise and its historical names
+└── .github/workflows/            # Automatic data updates
 ```
 
 The site is plain HTML, CSS and JavaScript with no build step, served by GitHub Pages.
 
+### Automatic updates
+
+A [GitHub Actions workflow](.github/workflows/update-data.yml) rebuilds every dataset **twice a year**, on July 1 (after the NBA Finals) and December 31 (after the ATP Finals), commits any changes and republishes the site. It can also be run by hand from the Actions tab. If a dataset fails validation, the previous version is kept and the run is marked as failed.
+
 ### Rebuilding the data
 
 ```bash
-python3 scripts/build_big_three.py            # uses cached raw files in data/raw/
-python3 scripts/build_big_three.py --refresh  # re-downloads the raw match files
+python3 scripts/build_big_three.py --refresh  # tennis: re-downloads the raw match files
+python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia table
 ```
 
-The script downloads ATP match results, extracts every title and every Big Three head-to-head match, and **checks the result against the official totals** (Grand Slams, Masters 1000, ATP Finals, titles and head-to-head records). The build fails if any number is off.
+Leave out `--refresh` to use the cached copies in `data/raw/`.
+
+**Tennis.** The script downloads ATP match results, extracts every title and every Big Three head-to-head match, and **checks the result against the official totals** (Grand Slams, Masters 1000, ATP Finals, titles and head-to-head records). The build fails if any number is off.
 
 Rules applied:
 
 - Walkovers are excluded from head-to-head and win-loss records, as on the ATP site.
 - Team events (ATP Cup, United Cup, Laver Cup, Davis Cup) don't count as titles; the Olympics do.
 - Dates are the estimated day of each final (the source data only has the start of each tournament).
+
+**NBA.** The script reads Wikipedia's [List of NBA champions](https://en.wikipedia.org/wiki/List_of_NBA_champions) table, maps every historical team name to its current franchise (the Minneapolis Lakers count for the Lakers, the Seattle SuperSonics for the Thunder) and checks that every season is present and that all titles through 2026 match the known totals. A new team name makes the build fail until it is added to [`data/nba/franchises.json`](data/nba/franchises.json).
 
 ### Running locally
 
@@ -64,8 +89,10 @@ python3 -m http.server 8000
 ## Data & credits
 
 - Match data: [Jeff Sackmann / Tennis Abstract](https://www.tennisabstract.com/) ATP dataset, via an [archive mirror](https://github.com/Aneeshers/tennis-sackmann-archive). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-- Results newer than the dataset are added by hand in [`data/manual/`](data/manual/), each with a source link.
+- Tennis results newer than the dataset are added by hand in [`data/manual/`](data/manual/), each with a source link.
+- NBA championships: [Wikipedia](https://en.wikipedia.org/wiki/List_of_NBA_champions), CC BY-SA 4.0.
+- NBA team logos are loaded from ESPN's public CDN. Team names and logos are trademarks of their respective teams and the NBA, shown for identification only. This project is not affiliated with the NBA.
 
 ## License
 
-Code is released under the [MIT License](LICENSE). The data keeps its original CC BY-NC-SA 4.0 license.
+Code is released under the [MIT License](LICENSE). Data keeps its original license (CC BY-NC-SA 4.0 for tennis, CC BY-SA 4.0 for NBA).
