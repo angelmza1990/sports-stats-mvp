@@ -15,18 +15,16 @@ import argparse
 import csv
 import json
 import sys
-import urllib.request
 from collections import Counter
-from datetime import date, datetime, timedelta
+from datetime import date, datetime
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-RAW_DIR = ROOT / "data" / "raw"
+from tennis_data import ROOT, download, final_date, is_walkover
+
 SUPPLEMENT = ROOT / "data" / "manual" / "big_three_supplement.csv"
 OUTPUT = ROOT / "tennis" / "big-three" / "data" / "big-three.json"
 
-SOURCE_URL = "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_{year}.csv"
-FIRST_YEAR, LAST_YEAR = 1998, 2026
+FIRST_YEAR = 1998
 
 PLAYERS = {
     "Novak Djokovic": {"id": "djokovic", "name": "Novak Djokovic", "short": "Djokovic", "country": "Serbia", "born": "1987-05-22", "retired": None},
@@ -64,27 +62,8 @@ EXPECTED = {
 }
 
 
-def download(refresh: bool) -> list[Path]:
-    RAW_DIR.mkdir(parents=True, exist_ok=True)
-    paths = []
-    for year in range(FIRST_YEAR, LAST_YEAR + 1):
-        path = RAW_DIR / f"atp_matches_{year}.csv"
-        if refresh or not path.exists():
-            print(f"downloading {year}...", file=sys.stderr)
-            urllib.request.urlretrieve(SOURCE_URL.format(year=year), path)
-        paths.append(path)
-    return paths
 
 
-def final_date(row: dict) -> date:
-    """Estimate the final's date from the tournament start date.
-
-    Two-week events (Slams, 96/128 draws) end on the second Sunday,
-    everything else on the first Sunday.
-    """
-    start = datetime.strptime(row["tourney_date"], "%Y%m%d").date()
-    two_weeks = row["tourney_level"] == "G" or int(row["draw_size"] or 0) >= 96
-    return start + timedelta(days=13 if two_weeks else 6)
 
 
 def clean_name(name: str) -> str:
@@ -101,8 +80,6 @@ def clean_level(row: dict) -> str:
     return row["tourney_level"]
 
 
-def is_walkover(score: str) -> bool:
-    return "W/O" in score.upper()
 
 
 def load_rows(paths: list[Path]) -> list[dict]:
@@ -234,7 +211,7 @@ def main() -> None:
     parser.add_argument("--refresh", action="store_true", help="re-download raw CSV files")
     args = parser.parse_args()
 
-    data = build(load_rows(download(args.refresh)), load_supplement())
+    data = build(load_rows(download(FIRST_YEAR, date.today().year, args.refresh)), load_supplement())
     errors = validate(data)
     if errors:
         sys.exit("validation failed:\n  " + "\n  ".join(errors))
