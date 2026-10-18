@@ -473,6 +473,70 @@
       : "";
   })();
 
+  /* ---------- Most repeated Finals ---------- */
+
+  (function repeatedFinals() {
+    const root = document.getElementById("pairs-list");
+    const pairs = d3.groups(seasons, (s) => [s.champion, s.runnerUp].sort().join("|"))
+      .filter(([, list]) => list.length >= 2)
+      .sort((a, b) => b[1].length - a[1].length || b[1][b[1].length - 1].year - a[1][a[1].length - 1].year);
+    pairs.slice(0, 10).forEach(([key, list]) => {
+      const [a, b] = key.split("|");
+      const wa = list.filter((s) => s.champion === a).length;
+      const wb = list.length - wa;
+      const [first, second] = wa >= wb ? [a, b] : [b, a];
+      const row = el("div", "pair-row");
+      const countBox = el("div", "count", String(list.length));
+      countBox.append(el("small", null, "Finals"));
+      const players = el("div", "players");
+      [first, second].forEach((fid, i) => {
+        const span = el("span");
+        span.append(logo(fid), document.createTextNode(byId[fid].name));
+        players.append(span);
+        if (i === 0) players.append(el("span", "vs", "vs"));
+      });
+      const h2h = el("div", "h2h", wa === wb ? `Tied ${wa}–${wb}` : `${byId[first].short} ${Math.max(wa, wb)}–${Math.min(wa, wb)}`);
+      const meta = el("div", "meta", list.map((s) => `${s.year} ${shortName(s.championName, s.champion)}`).join(" · "));
+      row.append(countBox, players, h2h, meta);
+      root.append(row);
+    });
+  })();
+
+  /* ---------- Runners-up ---------- */
+
+  (function runnersUp() {
+    const root = document.getElementById("runners-table");
+    const lost = d3.groups(seasons, (s) => s.runnerUp)
+      .map(([fid, list]) => ({ fid, list, won: ringCount(fid) }))
+      .sort((a, b) => b.list.length - a.list.length || b.won - a.won);
+    const t = el("table");
+    const head = el("tr");
+    [["Franchise"], ["Finals lost", "num", "Lost"], ["Finals played", "num", "Played"], ["Rings", "num"], ["Lost Finals", "years"]].forEach(([h, cls, short]) => {
+      const th = el("th", cls);
+      th.append(el("span", short ? "long" : null, h));
+      if (short) th.append(el("span", "short", short));
+      head.append(th);
+    });
+    t.append(head);
+    lost.forEach(({ fid, list, won }) => {
+      const tr = el("tr");
+      const years = list.map((s) => `${s.year} (${shortName(s.championName, s.champion)})`).join(", ");
+      const name = el("td");
+      const span = el("span", "who");
+      span.append(logo(fid), document.createTextNode(byId[fid].name));
+      name.append(span, el("div", "sub", years));
+      tr.append(
+        name,
+        el("td", "num strong", String(list.length)),
+        el("td", "num", String(list.length + won)),
+        el("td", "num", String(won)),
+        el("td", "years", years)
+      );
+      t.append(tr);
+    });
+    root.replaceChildren(t);
+  })();
+
   /* ---------- Series length ---------- */
 
   (function seriesLength() {
