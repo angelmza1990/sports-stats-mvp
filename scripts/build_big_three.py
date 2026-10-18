@@ -46,7 +46,10 @@ TOURNEY_NAMES = {
     "Atp Cup": "ATP Cup",
 }
 
-# Known official totals, used as a sanity check on every build.
+# Players who can still add to their totals; their checks are minimums.
+ACTIVE = {"djokovic"}
+
+# Known official totals (October 2026), used as a sanity check on every build.
 EXPECTED = {
     "titles": {"djokovic": 102, "federer": 103, "nadal": 92},
     "G": {"djokovic": 24, "nadal": 22, "federer": 20},
@@ -146,6 +149,10 @@ def build(rows: list[dict], supplement: list[dict]) -> dict:
                 "score": row["score"],
             })
 
+    # Supplement rows fill the gap until the source data catches up; drop any it now covers.
+    covered = {(r["winner_name"], clean_name(r["tourney_name"]), r["_date"].year) for r in rows if r["round"] == "F"}
+    supplement = [r for r in supplement if (r["winner_name"], clean_name(r["tourney_name"]), r["_date"].year) not in covered]
+
     for row in rows + supplement:
         w = row["winner_name"]
         if row["round"] != "F" or w not in PLAYERS:
@@ -193,20 +200,33 @@ def build(rows: list[dict], supplement: list[dict]) -> dict:
 
 def validate(data: dict) -> list[str]:
     errors = []
+
+    def check(label: str, pid: str, got: int, expected: int) -> None:
+        ok = got >= expected if pid in ACTIVE else got == expected
+        if not ok:
+            errors.append(f"{label} {pid}: got {got}, expected {'at least ' if pid in ACTIVE else ''}{expected}")
+
     totals = Counter(t["player"] for t in data["titles"])
     for pid, n in EXPECTED["titles"].items():
-        if totals[pid] != n:
-            errors.append(f"titles {pid}: got {totals[pid]}, expected {n}")
+        check("titles", pid, totals[pid], n)
     for level in ("G", "M", "F", "O"):
         counts = Counter(t["player"] for t in data["titles"] if t["level"] == level)
         for pid, n in EXPECTED[level].items():
-            if counts[pid] != n:
-                errors.append(f"{level} {pid}: got {counts[pid]}, expected {n}")
+            check(level, pid, counts[pid], n)
     wins = Counter((m["winner"], m["loser"]) for m in data["h2h"])
     for (a, b), (wa, wb) in EXPECTED["h2h"].items():
         if (wins[(a, b)], wins[(b, a)]) != (wa, wb):
             errors.append(f"h2h {a}-{b}: got {wins[(a, b)]}-{wins[(b, a)]}, expected {wa}-{wb}")
     return errors
+
+
+def unchanged(data: dict) -> bool:
+    """True if the output already holds the same data (ignoring the build date)."""
+    if not OUTPUT.exists():
+        return False
+    old = json.loads(OUTPUT.read_text(encoding="utf-8"))
+    strip = lambda d: {**d, "meta": {k: v for k, v in d["meta"].items() if k != "generated"}}
+    return strip(old) == strip(data)
 
 
 def main() -> None:
@@ -219,6 +239,9 @@ def main() -> None:
     if errors:
         sys.exit("validation failed:\n  " + "\n  ".join(errors))
 
+    if unchanged(data):
+        print(f"{OUTPUT.relative_to(ROOT)} is up to date")
+        return
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps(data, separators=(",", ":")), encoding="utf-8")
     print(f"wrote {OUTPUT.relative_to(ROOT)}: {len(data['titles'])} titles, {len(data['h2h'])} h2h matches")
