@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NBA Rings · Basketball</title>
+  <meta name="description" content="Every NBA championship since 1947: a franchise bar chart race, East vs West, every champion and the Finals MVP leaders.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body>
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Basketball</p>
+    <h1>NBA Rings</h1>
+    <p class="lede">
+      Every NBA championship since the league's first Finals in 1947: who won, how the rings piled up, and how they split between East and West.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most rings</h2>
+        <p>Championships won by each franchise, season by season. Bars are colored by the franchise's current conference.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="legend" id="race-legend"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Season">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="race-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="conferences">
+      <div class="block-head">
+        <h2>East vs West</h2>
+        <p>Which side of the bracket each champion came from. Before the conferences were formed in 1971, the Finals were played between the Eastern and Western Division winners.</p>
+      </div>
+      <div class="card">
+        <div class="versus" id="versus"></div>
+        <h3 class="sub">Titles by decade</h3>
+        <div class="legend" id="decade-legend"></div>
+        <div id="decade-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="decade-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="wall">
+      <div class="block-head">
+        <h2>Every champion</h2>
+        <p>All Finals winners, one tile per season. The color strip marks the conference they won it from. Hover or tap a tile for the Finals result and MVP.</p>
+      </div>
+      <div class="wall" id="wall-grid" role="list"></div>
+    </section>
+
+    <section class="block" id="franchises">
+      <div class="block-head">
+        <h2>Rings by franchise</h2>
+        <p>All 30 current teams, grouped by today's conference. Titles won under earlier names and cities count for the current franchise.</p>
+      </div>
+      <div class="conf-columns" id="franchise-columns"></div>
+      <p class="footnote" id="defunct-note"></p>
+    </section>
+
+    <section class="block" id="series">
+      <div class="block-head">
+        <h2>How the Finals were won</h2>
+        <p>Length of every Finals series, from sweeps to Game 7s, split by the winner's conference.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="series-legend"></div>
+        <div id="series-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="series-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="mvp">
+      <div class="block-head">
+        <h2>Finals MVP leaders</h2>
+        <p>The award was first given in 1969. Every logo is one Finals MVP, shown with the team it was won for.</p>
+      </div>
+      <div class="card">
+        <div class="mvp-list" id="mvp-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> <a href="https://en.wikipedia.org/wiki/List_of_NBA_champions">Wikipedia, List of NBA champions</a> (CC BY-SA 4.0).
+      Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> titles are credited to the current franchise (the Minneapolis Lakers count for the Lakers, the Seattle SuperSonics for the Thunder).
+      The 1948 Baltimore Bullets folded in 1954 and are unrelated to today's Wizards. Logos show each franchise's current identity.
+    </p>
+    <p>
+      Team names and logos are trademarks of their respective teams and the NBA, shown here for identification only.
+      This project is not affiliated with or endorsed by the NBA.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
