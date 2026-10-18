@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Big Three · Tennis</title>
+  <meta name="description" content="Federer, Nadal and Djokovic by the numbers: a Grand Slam race over time, Masters 1000 titles, head-to-head records and more.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body>
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Tennis</p>
+    <h1>The Big Three</h1>
+    <p class="lede">
+      For two decades, Roger Federer, Rafael Nadal and Novak Djokovic split almost every big title in men's tennis between them.
+      This is how they did it, one trophy at a time.
+    </p>
+    <div class="player-cards" id="player-cards"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the record</h2>
+        <p>Cumulative titles won, month by month since 2001. Pick a category and press play.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Title category" id="race-metric"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Timeline">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="race-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="age">
+      <div class="block-head">
+        <h2>Who got there faster?</h2>
+        <p>Titles won by age. Federer started early, Nadal dominated his early twenties, and Djokovic won more after turning 30 than anyone before him.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Title category" id="age-metric"></div>
+        </div>
+        <div class="legend" id="age-legend"></div>
+        <div id="age-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="age-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="slams">
+      <div class="block-head">
+        <h2>Each one had a kingdom</h2>
+        <p>Grand Slam titles by tournament. Hover a bar to see the years.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="slams-legend"></div>
+        <div class="multiples" id="slams-chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="slams-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="masters">
+      <div class="block-head">
+        <h2>Masters 1000, event by event</h2>
+        <p>Titles at each of the nine Masters 1000 tournaments (Hamburg became Madrid's clay slot in 2009; Madrid's indoor event became Shanghai).</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="masters-legend"></div>
+        <div id="masters-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="masters-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="h2h">
+      <div class="block-head">
+        <h2>Head to head</h2>
+        <p>150 matches between them. Every dot is one match: above the line for the player on the left, below for the player on the right.</p>
+      </div>
+      <div class="h2h-grid" id="h2h-cards"></div>
+    </section>
+
+    <section class="block" id="surface">
+      <div class="block-head">
+        <h2>Titles by surface</h2>
+        <p>All tour-level titles, split by court surface. Carpet was phased out of the tour in 2009.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="surface-legend"></div>
+        <div id="surface-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="surface-table"></div>
+        </details>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> match results from Jeff Sackmann's ATP dataset
+      (<a href="https://github.com/Aneeshers/tennis-sackmann-archive">archive mirror</a>, CC BY-NC-SA 4.0),
+      with titles newer than the dataset added by hand from news reports.
+      <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> walkovers are left out of head-to-head records. Team events (ATP Cup, United Cup, Laver Cup, Davis Cup) don't count as titles.
+      Dates are the estimated day of each final.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <div class="tooltip" id="tooltip" role="status" hidden></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
