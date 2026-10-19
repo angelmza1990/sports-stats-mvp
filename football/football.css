@@ -445,7 +445,7 @@ svg .badge-text {
 .rank-head,
 .rank-row {
   display: grid;
-  grid-template-columns: 24px minmax(0, 12em) minmax(0, 1fr) 3em 4.5em;
+  grid-template-columns: 24px minmax(0, 12em) minmax(0, 1fr) 3.4em 6.4em;
   align-items: center;
   gap: 10px;
   font-size: 14px;
@@ -522,4 +522,18 @@ svg .badge-text {
   .rank-row .bar-cell {
     display: none;
   }
+}
+
+/* Full-width sticky selector bar (international tournaments) */
+
+.filter-bar.wrap-bar {
+  margin: 0;
+  padding: 10px 0;
+}
+
+.filter-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
 }
