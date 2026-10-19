@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World Club Champions · Football</title>
+  <meta name="description" content="Every Intercontinental Cup, FIFA Club World Cup and FIFA Intercontinental Cup final: a world titles bar chart race, titles by club, confederation and country.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/world-club-champions.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Football</p>
+    <h1>World Club Champions</h1>
+    <p class="lede">
+      The Intercontinental Cup (1960–2004), the FIFA Club World Cup (since 2000) and the new FIFA Intercontinental Cup (since 2024):
+      every final that crowned a club champion of the world. Also see the <a href="../copa-libertadores/">Copa Libertadores</a> and the <a href="../champions-league/">Champions League</a>.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most world titles</h2>
+        <p>All three competitions combined, final by final. Bars are colored by the club's confederation.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="legend" id="race-legend"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Final">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <div class="filter-bar">
+      <span class="filter-label">Competition</span>
+      <div class="segmented" role="tablist" aria-label="Competition" id="competition-filter"></div>
+      <p class="filter-note">Applies to every section below.</p>
+    </div>
+
+    <section class="block tight" id="clubs">
+      <div class="block-head">
+        <h2>Titles by club</h2>
+        <p>World titles and finals lost, split by competition.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="clubs-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="confederations">
+      <div class="block-head">
+        <h2>By continent</h2>
+        <p>Titles and runners-up by confederation. Only Europe and South America have won it; clubs from North America, Asia and Africa have reached the final.</p>
+      </div>
+      <div class="card">
+        <div class="versus" id="versus"></div>
+        <div id="confederations-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="countries">
+      <div class="block-head">
+        <h2>By country</h2>
+        <p>Titles and runners-up by country, and how many different clubs have won. Hover a row for the clubs.</p>
+      </div>
+      <div class="card">
+        <p class="country-note" id="country-note"></p>
+        <div id="countries-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="rivalries">
+      <div class="block-head">
+        <h2>The most repeated finals</h2>
+        <p>Matchups that met more than once for the world title.</p>
+      </div>
+      <div class="card">
+        <div class="pair-list" id="pairs-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="finals">
+      <div class="block-head">
+        <h2>Every final</h2>
+        <p>Two-legged ties (until 1979) show every leg, plus play-offs where needed.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="finals-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> <a href="https://en.wikipedia.org/wiki/List_of_world_champion_football_clubs">Wikipedia, List of world champion football clubs</a> (CC BY-SA 4.0).
+      Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> FIFA recognised the Intercontinental Cup winners as club world champions in 2017. The 1975 and 1978 Intercontinental Cups were not played.
+      In 2000 both a Club World Championship (January) and an Intercontinental Cup (November) were held. “a.e.t.” means after extra time and “pens” a penalty shoot-out.
+    </p>
+    <p>
+      Club names and crests are trademarks of their respective clubs, shown here for identification only (crests via ESPN's public CDN; flags by <a href="https://flagpedia.net">Flagpedia</a>).
+      This project is not affiliated with FIFA.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
