@@ -1,0 +1,245 @@
+/* Shared styles for the football competition pages. */
+
+.lede a {
+  color: inherit;
+}
+
+/* Stat tiles */
+
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.stat {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+
+.stat .label {
+  font-size: 13px;
+  color: var(--ink-2);
+}
+
+.stat .value {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 32px;
+  font-weight: 650;
+  line-height: 1.1;
+}
+
+.stat .detail {
+  font-size: 13px;
+  color: var(--ink-muted);
+}
+
+/* Crests, badges and flags */
+
+.crest {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  flex: none;
+}
+
+.crest-lg {
+  width: 36px;
+  height: 36px;
+}
+
+.crest-badge {
+  display: inline-grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: var(--wash);
+  border: 1px solid var(--border);
+  color: var(--ink-2);
+  font-size: 8px;
+  font-weight: 700;
+  flex: none;
+}
+
+.crest-badge.crest-lg {
+  width: 36px;
+  height: 36px;
+  font-size: 11px;
+}
+
+svg .badge-circle {
+  fill: var(--surface-raised);
+  stroke: var(--border);
+}
+
+svg .badge-text {
+  fill: var(--ink-2);
+  font-size: 8px;
+  font-weight: 700;
+}
+
+.flag {
+  width: 20px;
+  height: 15px;
+  object-fit: cover;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px var(--border);
+  flex: none;
+}
+
+.flag-code {
+  display: inline-grid;
+  place-items: center;
+  width: 20px;
+  height: 15px;
+  border-radius: 2px;
+  background: var(--wash);
+  box-shadow: 0 0 0 1px var(--border);
+  font-size: 7px;
+  font-weight: 700;
+  color: var(--ink-2);
+  flex: none;
+}
+
+.club {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.race-ticker .crest {
+  width: 22px;
+  height: 22px;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+.data-table td.score {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-2);
+}
+
+.data-table td.rank {
+  color: var(--ink-muted);
+  width: 2em;
+}
+
+.data-table.tall {
+  max-height: 640px;
+  overflow-y: auto;
+}
+
+.data-table.tall th {
+  position: sticky;
+  top: 0;
+  background: var(--surface);
+  z-index: 1;
+}
+
+.pair-row .players .club {
+  font-weight: 600;
+}
+
+/* Countries */
+
+.country-note {
+  color: var(--ink-2);
+  font-size: 14px;
+  margin: 0 0 12px;
+}
+
+.country-head,
+.country-row {
+  display: grid;
+  grid-template-columns: 20px minmax(0, 9em) minmax(0, 1fr) 2.6em minmax(0, 1fr) 2.6em 3em;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+}
+
+.country-head {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink-2);
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.country-row {
+  padding: 7px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.country-row:last-child {
+  border-bottom: 0;
+}
+
+.country-row:hover,
+.country-row:focus-visible {
+  outline: none;
+  background: var(--wash);
+}
+
+.country-row .name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.country-head .num,
+.country-row .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.country-row .num.strong {
+  font-weight: 650;
+}
+
+.bar-wrap .bar {
+  height: 10px;
+  border-radius: 0 4px 4px 0;
+  min-width: 2px;
+}
+
+.bar.won {
+  background: var(--ink-2);
+}
+
+.bar.lost {
+  background: var(--axis);
+}
+
+@media (max-width: 760px) {
+  .stat-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .country-head,
+  .country-row {
+    grid-template-columns: 20px minmax(0, 1fr) 2.4em 2.4em 2.6em;
+    gap: 8px;
+  }
+
+  .country-head > :nth-child(3),
+  .country-head > :nth-child(5),
+  .country-row .bar-wrap {
+    display: none;
+  }
+
+  .club {
+    white-space: normal;
+  }
+}

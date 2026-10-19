@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Champions League · Football</title>
+  <meta name="description" content="Every European Cup and Champions League final since 1956: a titles bar chart race, champions and runners-up, repeated finals, countries, all-time club records, top scorers and most appearances.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/champions-league.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Football</p>
+    <h1>Champions League</h1>
+    <p class="lede">Europe's club championship, from the first European Cup in 1956 to today's Champions League: who won it, who came close, and the clubs and players who defined it. Also see the <a href="../copa-libertadores/">Copa Libertadores</a>.</p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most titles</h2>
+        <p>Titles won by each club, final by final since 1956. Bars are colored by the club's country.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="legend" id="race-legend"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Season">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="champions">
+      <div class="block-head">
+        <h2>Champions and runners-up</h2>
+        <p>Every club that has reached a final, or every final one by one.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="View" id="champions-tabs"></div>
+        </div>
+        <div class="data-table tall" id="champions-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="rivalries">
+      <div class="block-head">
+        <h2>The most repeated finals</h2>
+        <p>Matchups that met more than once with the trophy on the line.</p>
+      </div>
+      <div class="card">
+        <div class="pair-list" id="pairs-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="countries">
+      <div class="block-head">
+        <h2>Titles and runners-up by country</h2>
+        <p>Finals won and lost by each country's clubs, and how many different clubs have won it. Hover a row for the clubs.</p>
+      </div>
+      <div class="card">
+        <p class="country-note" id="country-note"></p>
+        <div id="countries-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="records">
+      <div class="block-head">
+        <h2>All-time club records</h2>
+        <p>UEFA's all-time ranking: the top 25 clubs, qualifying rounds included.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Record" id="records-tabs"></div>
+        </div>
+        <div id="records-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="records-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="players">
+      <div class="block-head">
+        <h2>Player records</h2>
+        <p>All-time top scorers and the players with at least 100 appearances (qualifying rounds excluded).</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Record" id="players-tabs"></div>
+        </div>
+        <div class="data-table" id="players-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> <a href="https://en.wikipedia.org/wiki/List_of_European_Cup_and_UEFA_Champions_League_finals">Wikipedia: list of finals</a>, <a href="https://en.wikipedia.org/wiki/European_Cup_and_UEFA_Champions_League_records_and_statistics">records and statistics</a>, <a href="https://en.wikipedia.org/wiki/List_of_UEFA_Champions_League_top_scorers">top scorers</a>, <a href="https://en.wikipedia.org/wiki/List_of_footballers_with_100_or_more_UEFA_Champions_League_appearances">100+ appearances</a> (CC BY-SA 4.0). Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p><strong>Notes:</strong> “a.e.t.” means after extra time and “pens” a penalty shoot-out. Includes the European Cup (1955–56 to 1991–92). Seasons are shown as played (2025–26 ended in May 2026). West German clubs count for Germany in country totals; Red Star Belgrade's 1991 title counts for Yugoslavia. Steaua București's crest is not shown because the club's record is disputed between two current clubs.</p>
+    <p>
+      Club names and crests are trademarks of their respective clubs, shown here for identification only (crests via ESPN's public CDN; flags by <a href="https://flagpedia.net">Flagpedia</a>).
+      This project is not affiliated with UEFA.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../football.js"></script>
+</body>
+</html>
