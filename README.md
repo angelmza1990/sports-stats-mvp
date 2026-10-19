@@ -96,13 +96,18 @@ Every league champion since 1891: a titles race with or without the amateur era,
 
 The Argentine page's format for six more countries, one page each with a shared front end: every national champion (Italy since 1898, England since 1888, France since 1894, Germany since 1903, Spain since 1929, Brazil since 1937), a titles race with and without the early era (before Serie A, the Premier League, the professional league, the Bundesliga or the 1971 Campeonato Brasileiro), titles by club, the all-time table where Wikipedia publishes one, the top scorer of every season and the all-time scorers.
 
-### 🏉🏐🏑🏀 International team tournaments
+### 🏊 [Olympic Swimming](https://angelmza1990.github.io/sports-stats-mvp/swimming/olympics/)
+
+Every Olympic swimming medal since 1896, men's and women's (and the mixed medley relay): a race of gold medals by nation, the medal table overall and by stroke, the most decorated swimmers (Phelps 23-3-2, Ledecky 9-4-1) and, for every event, current or discontinued, the full podium at each Games with times and who has won it most.
+
+### 🏉🏐🏑🏀🤾 International team tournaments
 
 One page per sport, each with a selector for every competition and gender:
 [Rugby World Cup](https://angelmza1990.github.io/sports-stats-mvp/rugby/international/) (men and women),
 [Basketball World Cup & Olympics](https://angelmza1990.github.io/sports-stats-mvp/basketball/international/),
 [Volleyball World Championship & Olympics](https://angelmza1990.github.io/sports-stats-mvp/volleyball/international/) and
-[Field Hockey World Cup & Olympics](https://angelmza1990.github.io/sports-stats-mvp/hockey/international/) (men and women).
+[Field Hockey World Cup & Olympics](https://angelmza1990.github.io/sports-stats-mvp/hockey/international/) and
+[Handball World Championship & Olympics](https://angelmza1990.github.io/sports-stats-mvp/handball/international/) (men and women).
 Each shows a race of titles, finals or podiums, champions and podium finishes, results by continent, hosts, repeated finals, teams per edition and, where the sources record them, the all-time table, appearances and player records.
 
 ### 🏎️ [Formula 1](https://angelmza1990.github.io/sports-stats-mvp/motorsport/formula-1/)
@@ -128,7 +133,8 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 ├── football/                     # Football pages (shared common.js, league.js for national leagues) + one folder per page
 ├── motorsport/formula-1/         # Formula 1 page
 ├── international/tournament.js   # Shared page for team tournaments
-├── rugby|basketball|volleyball|hockey/international/  # One page per sport (data/ per competition)
+├── rugby|basketball|volleyball|hockey|handball/international/  # One page per sport (data/ per competition)
+├── swimming/olympics/            # Olympic swimming page
 ├── scripts/
 │   ├── tennis_data.py            # Shared ATP + Wikipedia draw helpers
 │   ├── build_big_three.py        # Big Three data pipeline
@@ -140,7 +146,8 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
 │   ├── build_f1.py               # Formula 1 pipeline
 │   ├── build_atp_records.py      # ATP and WTA career records pipeline
-│   ├── build_tournaments.py      # Rugby, basketball, volleyball and hockey tournaments
+│   ├── build_tournaments.py      # Rugby, basketball, volleyball, hockey and handball tournaments
+│   ├── build_swimming.py         # Olympic swimming medalists
 │   └── wikitables.py             # Generic Wikipedia table parser
 ├── data/
 │   ├── manual/                   # Hand-curated tennis results and nationality fixes
@@ -167,7 +174,8 @@ python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, Engl
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
-python3 scripts/build_tournaments.py --refresh  # rugby, basketball, volleyball, hockey
+python3 scripts/build_tournaments.py --refresh  # rugby, basketball, volleyball, hockey, handball
+python3 scripts/build_swimming.py --refresh     # swimming: Olympic medalists
 ```
 
 Leave out `--refresh` to use the cached copies in `data/raw/`.
@@ -201,6 +209,8 @@ Rules applied:
 **Formula 1.** Drivers' and constructors' champions and the all-time race wins come from Wikipedia's F1 lists. The build checks one champion per season, the title counts of the record holders and the constructors' title totals.
 
 **ATP records.** Titles and match records are counted from the ATP match files (plus the Wikipedia-sourced Slams and the manual supplement); weeks at No. 1 and year-end No. 1s come from Wikipedia. The build checks Federer's 103 titles and 1,251–275 record, Nadal's 92 titles and the weeks at No. 1 of the leaders.
+
+**Olympic swimming.** Wikipedia's lists of Olympic medalists in swimming have one table per event; the script reads every medalist, nation and time, splits ties (two swimmers sharing a medal) and keeps every named relay swimmer. The build checks the number of pool events at each Games since 1968 (35 in 2020 and 2024) and the career medals of the most decorated swimmers. The pages' own medal tables, kept by hand, don't always match their event lists, so they are only compared as a warning.
 
 **Team tournaments.** One config per competition (in `build_tournaments.py`) names the Wikipedia page and table for its editions and, where they exist, its participation table, all-time table and player records. The parser reads flag templates of every sport, so champion, runner-up, third and fourth come out as country codes; each build checks the title counts of the most successful nations.
 

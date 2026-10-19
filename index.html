@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sports Stats</title>
-  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, basketball, football, rugby, volleyball, field hockey and Formula 1.">
+  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, basketball, football, swimming, handball, rugby, volleyball, field hockey and Formula 1.">
   <link rel="stylesheet" href="assets/theme.css">
   <script src="assets/theme.js"></script>
   <style>
@@ -373,6 +373,48 @@
     </section>
 
     <section class="sport">
+      <h2>Swimming</h2>
+      <div class="gallery">
+        <a class="tile" href="swimming/olympics/">
+          <div class="art" style="--tint: linear-gradient(135deg, #0b5f8a, #1aa3c8)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="78" cy="34" r="12" fill="#f4f4f4"/>
+              <path d="M24 62c10-14 26-20 44-14l-8 14" fill="none" stroke="#f4f4f4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M12 82c8-6 16-6 24 0s16 6 24 0 16-6 24 0 16 6 24 0" fill="none" stroke="#bfe9f5" stroke-width="5" stroke-linecap="round"/>
+              <path d="M12 98c8-6 16-6 24 0s16 6 24 0 16-6 24 0 16 6 24 0" fill="none" stroke="#bfe9f5" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+            </svg>
+            <div class="stat" data-stat="swimming"><strong>23</strong><span>Phelps gold medals</span></div>
+          </div>
+          <div class="body">
+            <h3>Olympic Swimming</h3>
+            <p>Every Olympic swimming medal since 1896, men's and women's: the gold medal race, the medal table by stroke, the most decorated swimmers and the podium of every event.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <section class="sport">
+      <h2>Handball</h2>
+      <div class="gallery">
+        <a class="tile" href="handball/international/">
+          <div class="art" style="--tint: linear-gradient(135deg, #8a2b12, #c4471f)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <rect x="20" y="24" width="80" height="58" fill="none" stroke="#f4f4f4" stroke-width="6"/>
+              <path d="M20 40h80M20 56h80M40 24v58M60 24v58M80 24v58" stroke="#f4f4f4" stroke-width="1.5" opacity="0.6"/>
+              <circle cx="86" cy="92" r="16" fill="#f4c542"/>
+              <path d="M74 86c8 4 16 4 24 0M78 100c6-6 10-14 10-24" fill="none" stroke="#8a2b12" stroke-width="2.5"/>
+            </svg>
+            <div class="stat" data-stat="handball"><strong>6</strong><span>France world titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Handball World Championship & Olympics</h3>
+            <p>Every IHF World Championship and Olympic tournament, men's and women's: champions, hosts, repeated finals, appearances and player medals.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <section class="sport">
       <h2>Rugby</h2>
       <div class="gallery">
         <a class="tile" href="rugby/international/">
@@ -535,6 +577,14 @@
         basketballInt: ["basketball/international/data/basketball-olympics-men.json", (d) => {
           const [code, n] = most(d.editions, (e) => e.champion);
           return [String(n), `${d.teams[code].name} Olympic golds`];
+        }],
+        swimming: ["swimming/olympics/data/swimming-olympics.json", (d) => {
+          const s = d.swimmers.slice().sort((a, b) => b.gold - a.gold)[0];
+          return [String(s.gold), `${s.name.split(" ").slice(-1)[0]} gold medals`];
+        }],
+        handball: ["handball/international/data/handball-wc-men.json", (d) => {
+          const [code, n] = most(d.editions, (e) => e.champion);
+          return [String(n), `${d.teams[code].name} world titles`];
         }],
         rugby: ["rugby/international/data/rugby-wc-men.json", (d) => {
           const [code, n] = most(d.editions, (e) => e.champion);
