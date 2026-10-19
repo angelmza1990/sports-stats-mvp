@@ -82,6 +82,7 @@ COMPETITIONS = {
         "appearances": ("Copa Libertadores records and statistics", r"===\s*Appearances\s*===", 0,
                         {"nation": 1, "player": 2, "apps": 3, "goals": 4, "from": 5, "to": 6, "clubs": 7}),
         "season_year": lambda s: int(s[:4]),
+        "full_alltime": True,  # the historical table lists every club that has taken part
         # Titles through the 2025 final, frozen; later seasons may only add to them.
         "history_through": 2025,
         "history": {
@@ -204,8 +205,11 @@ def parse_alltime(rows: list[list[dict]], cols: dict, clubs: ClubIndex) -> list[
         if row[0]["header"] or len(row) <= max(cols.values()) or W.number(cell(row, cols["pld"])) is None:
             continue
         country = W.flag_code(cell(row, cols["country"]))
+        club = clubs.resolve(cell(row, cols["club"]), country)
+        if not club:
+            continue
         out.append({
-            "club": clubs.resolve(cell(row, cols["club"]), country),
+            "club": club,
             "country": country,
             **{k: W.number(cell(row, cols[k])) for k in ("part", "pld", "w", "d", "l", "gf", "ga", "pts")},
         })
@@ -248,15 +252,19 @@ def build(key: str, refresh: bool) -> dict:
     keep = set()
     for metric, n in (("w", 20), ("gf", 20), ("part", 20), ("pld", 20), ("pts", 30)):
         keep |= {r["club"] for r in sorted(alltime, key=lambda r: -(r[metric] or 0))[:n]}
-    alltime = [r for r in alltime if r["club"] in keep]
-    used = {f["champion"] for f in finals} | {f["runnerUp"] for f in finals} | keep
+    if not comp.get("full_alltime"):
+        alltime = [r for r in alltime if r["club"] in keep]
+    used = {f["champion"] for f in finals} | {f["runnerUp"] for f in finals} | {r["club"] for r in alltime}
 
     codes = {f["championCountry"] for f in finals} | {f["runnerUpCountry"] for f in finals}
     codes |= {r["country"] for r in alltime} | {p["nation"] for p in scorers + appearances}
     codes |= {clubs.clubs[c]["country"] for c in used}
     codes.discard(None)
 
-    unmapped = sorted(label for cid, label in clubs.unmapped.items() if cid in used)
+    # Only warn for clubs that are prominent on the page (finalists and the top of the table).
+    prominent = {f["champion"] for f in finals} | {f["runnerUp"] for f in finals}
+    prominent |= {r["club"] for r in sorted(alltime, key=lambda r: -(r["pts"] or 0))[:40]}
+    unmapped = sorted(label for cid, label in clubs.unmapped.items() if cid in prominent)
     if unmapped:
         print(f"{key}: clubs shown without a crest mapping (add them to {CLUBS.name}): {unmapped}", file=sys.stderr)
 
@@ -481,8 +489,11 @@ def build_argentina(key: str, refresh: bool) -> dict:
         if cid and n:
             official[cid] = official.get(cid, 0) + n
 
+    alltime, periods = argentina_alltime(clubs, refresh)
     used = {t["champion"] for t in titles} | {t["runnerUp"] for t in titles if t["runnerUp"]}
-    unmapped = sorted(label for cid, label in clubs.unmapped.items() if cid in used)
+    used |= {r["club"] for rows in alltime.values() for r in rows}
+    top = {r["club"] for rows in alltime.values() for r in sorted(rows, key=lambda r: -r["pts"])[:40]}
+    unmapped = sorted(label for cid, label in clubs.unmapped.items() if cid in top | {t["champion"] for t in titles})
     if unmapped:
         print(f"{key}: clubs shown without a crest mapping (add them to {CLUBS.name}): {unmapped}", file=sys.stderr)
     return {
@@ -492,12 +503,48 @@ def build_argentina(key: str, refresh: bool) -> dict:
             "through": titles[-1]["season"],
             "sources": [f"https://en.wikipedia.org/wiki/{ARG_PAGE.replace(' ', '_')}"],
             "associations": DISSIDENT,
+            "alltimePeriods": periods,
+            "alltimeSource": f"https://es.wikipedia.org/wiki/{ARG_ALLTIME_PAGE.replace(' ', '_')}",
         },
+        "alltime": alltime,
         "countries": {"ARG": {"name": "Argentina", "flag": "ar"}},
         "clubs": {c: {"name": clubs.clubs[c]["name"], "country": "ARG", "crest": clubs.clubs[c]["espn"]} for c in sorted(used)},
         "titles": titles,
         "_official": official,
     }
+
+
+ARG_ALLTIME_PAGE = "Anexo:Clasificación histórica de la Primera División de Argentina de fútbol"
+ARG_ALLTIME = [
+    ("amateur", r"==\s*Clasificación histórica de la era amateur"),
+    ("professional", r"==\s*Clasificación histórica de la era profesional"),
+    ("total", r"==\s*Tabla de clasificación histórica total"),
+]
+ARG_COLUMNS = {"Pts.": "pts", "PJ": "pld", "G": "w", "E": "d", "P": "l", "GF": "gf", "GC": "ga", "Des.": "deducted", "Títulos": "titles"}
+
+
+def argentina_alltime(clubs: ClubIndex, refresh: bool) -> tuple[dict, dict]:
+    text = W.fetch_raw(ARG_ALLTIME_PAGE, RAW_DIR / f"es-{slug(ARG_ALLTIME_PAGE)}.wiki", refresh, lang="es")
+    tables, periods = {}, {}
+    for era, anchor in ARG_ALLTIME:
+        heading = re.search(anchor + r"[^\n]*", text).group(0)
+        span = re.search(r"\((\d{4})\s*[-–]\s*(\d{4})\)", heading)
+        periods[era] = f"{span.group(1)}–{span.group(2)}" if span else None
+        grid = W.parse_table(W.find_table(text, anchor, 0))
+        labels = W.header_labels(grid[0])
+        index = {ARG_COLUMNS[l]: i for i, l in enumerate(labels) if l in ARG_COLUMNS}
+        rows = []
+        for row in grid[1:]:
+            if len(row) < len(labels) or W.number(row[index["pld"]]["text"]) is None:
+                continue
+            values = {k: W.number(row[i]["text"]) for k, i in index.items()}
+            if values.get("pts") is None:
+                continue  # club listed without a record (disaffiliated)
+            club = club_from_cell(row[1]["text"], clubs)
+            if club:
+                rows.append({"club": club, **values})
+        tables[era] = rows
+    return tables, periods
 
 
 def validate_argentina(key: str, data: dict) -> list[str]:

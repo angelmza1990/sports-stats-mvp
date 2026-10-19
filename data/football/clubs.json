@@ -2,6 +2,16 @@
  "_note": "Clubs shown with a crest. 'aliases' are Wikipedia link targets and labels that refer to the club; 'espn' is the ESPN CDN team id for the crest (null = lettered badge). 'country' is today's country; finals keep the country of the time.",
  "clubs": [
   {
+   "id": "club-atletico-all-boys",
+   "name": "All Boys",
+   "country": "ARG",
+   "espn": "9786",
+   "aliases": [
+    "All Boys",
+    "Club Atlético All Boys"
+   ]
+  },
+  {
    "id": "almagro",
    "name": "Almagro",
    "country": "ARG",
@@ -22,12 +32,52 @@
    ]
   },
   {
+   "id": "club-atletico-argentino-de-quilmes",
+   "name": "Argentino de Quilmes",
+   "country": "ARG",
+   "espn": "17693",
+   "aliases": [
+    "Argentino de Quilmes",
+    "Club Atlético Argentino de Quilmes"
+   ]
+  },
+  {
    "id": "argentinos-juniors",
    "name": "Argentinos Juniors",
    "country": "ARG",
    "espn": "3",
    "aliases": [
     "Argentinos Juniors"
+   ]
+  },
+  {
+   "id": "club-atletico-atlanta",
+   "name": "Atlanta",
+   "country": "ARG",
+   "espn": "10146",
+   "aliases": [
+    "Atlanta",
+    "Club Atlético Atlanta"
+   ]
+  },
+  {
+   "id": "club-atletico-tucuman",
+   "name": "Atlético Tucumán",
+   "country": "ARG",
+   "espn": "9785",
+   "aliases": [
+    "Atlético Tucumán",
+    "Club Atlético Tucumán"
+   ]
+  },
+  {
+   "id": "asociacion-mutual-social-y-deportiva-atletico-de-rafaela",
+   "name": "Atlético de Rafaela",
+   "country": "ARG",
+   "espn": "9747",
+   "aliases": [
+    "Atlético de Rafaela",
+    "Asociación Mutual Social y Deportiva Atlético de Rafaela"
    ]
   },
   {
@@ -110,6 +160,16 @@
    ]
   },
   {
+   "id": "club-atletico-colegiales-munro",
+   "name": "Colegiales",
+   "country": "ARG",
+   "espn": "10149",
+   "aliases": [
+    "Colegiales",
+    "Club Atlético Colegiales (Munro)"
+   ]
+  },
+  {
    "id": "colon",
    "name": "Colón",
    "country": "ARG",
@@ -129,6 +189,16 @@
    ]
   },
   {
+   "id": "club-atletico-defensores-de-belgrano",
+   "name": "Defensores de Belgrano",
+   "country": "ARG",
+   "espn": "10151",
+   "aliases": [
+    "Defensores de Belgrano",
+    "Club Atlético Defensores de Belgrano"
+   ]
+  },
+  {
    "id": "del-plata",
    "name": "Del Plata",
    "country": "ARG",
@@ -139,6 +209,26 @@
    ]
   },
   {
+   "id": "club-deportivo-espanol-de-buenos-aires",
+   "name": "Deportivo Español",
+   "country": "ARG",
+   "espn": "17701",
+   "aliases": [
+    "Deportivo Español",
+    "Club Deportivo Español de Buenos Aires"
+   ]
+  },
+  {
+   "id": "club-deportivo-mandiyu",
+   "name": "Deportivo Mandiyú",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Deportivo Mandiyú",
+    "Club Deportivo Mandiyú"
+   ]
+  },
+  {
    "id": "dock-sud",
    "name": "Dock Sud",
    "country": "ARG",
@@ -146,6 +236,16 @@
    "aliases": [
     "Dock Sud",
     "Sportivo Dock Sud"
+   ]
+  },
+  {
+   "id": "club-el-porvenir",
+   "name": "El Porvenir",
+   "country": "ARG",
+   "espn": "10061",
+   "aliases": [
+    "El Porvenir",
+    "Club El Porvenir"
    ]
   },
   {
@@ -179,6 +279,16 @@
    ]
   },
   {
+   "id": "club-atletico-excursionistas",
+   "name": "Excursionistas",
+   "country": "ARG",
+   "espn": "10054",
+   "aliases": [
+    "Excursionistas",
+    "Club Atlético Excursionistas"
+   ]
+  },
+  {
    "id": "ferro-carril-oeste",
    "name": "Ferro Carril Oeste",
    "country": "ARG",
@@ -206,6 +316,16 @@
    "aliases": [
     "Gimnasia y Esgrima (BA)",
     "Gimnasia y Esgrima de Buenos Aires"
+   ]
+  },
+  {
+   "id": "club-atletico-gimnasia-y-esgrima-jujuy",
+   "name": "Gimnasia y Esgrima (J)",
+   "country": "ARG",
+   "espn": "5263",
+   "aliases": [
+    "Gimnasia y Esgrima (J)",
+    "Club Atlético Gimnasia y Esgrima (Jujuy)"
    ]
   },
   {
@@ -250,6 +370,16 @@
    ]
   },
   {
+   "id": "instituto-atletico-central-cordoba",
+   "name": "Instituto",
+   "country": "ARG",
+   "espn": "2975",
+   "aliases": [
+    "Instituto",
+    "Instituto Atlético Central Córdoba"
+   ]
+  },
+  {
    "id": "lanus",
    "name": "Lanús",
    "country": "ARG",
@@ -257,6 +387,16 @@
    "aliases": [
     "Club Atlético Lanús",
     "Lanús"
+   ]
+  },
+  {
+   "id": "club-atletico-liberal-argentino",
+   "name": "Liberal Argentino",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Liberal Argentino",
+    "Club Atlético Liberal Argentino"
    ]
   },
   {
@@ -319,6 +459,16 @@
    ]
   },
   {
+   "id": "club-olimpo",
+   "name": "Olimpo",
+   "country": "ARG",
+   "espn": "2636",
+   "aliases": [
+    "Olimpo",
+    "Club Olimpo"
+   ]
+  },
+  {
    "id": "platense",
    "name": "Platense",
    "country": "ARG",
@@ -355,6 +505,7 @@
    "espn": "15",
    "aliases": [
     "Racing",
+    "Racing Club",
     "Racing Club de Avellaneda"
    ]
   },
@@ -398,6 +549,16 @@
    ]
   },
   {
+   "id": "club-san-fernando",
+   "name": "San Fernando",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "San Fernando",
+    "Club San Fernando"
+   ]
+  },
+  {
    "id": "san-isidro",
    "name": "San Isidro",
    "country": "ARG",
@@ -418,12 +579,42 @@
    ]
   },
   {
+   "id": "club-atletico-san-martin-san-juan",
+   "name": "San Martín (SJ)",
+   "country": "ARG",
+   "espn": "7845",
+   "aliases": [
+    "San Martín (SJ)",
+    "Club Atlético San Martín (San Juan)"
+   ]
+  },
+  {
+   "id": "club-atletico-san-martin-tucuman",
+   "name": "San Martín (T)",
+   "country": "ARG",
+   "espn": "17814",
+   "aliases": [
+    "San Martín (T)",
+    "Club Atlético San Martín (Tucumán)"
+   ]
+  },
+  {
    "id": "sportivo-barracas",
    "name": "Sportivo Barracas",
    "country": "ARG",
    "espn": "17706",
    "aliases": [
     "Sportivo Barracas"
+   ]
+  },
+  {
+   "id": "club-social-y-sportivo-buenos-aires",
+   "name": "Sportivo Buenos Aires",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Sportivo Buenos Aires",
+    "Club Social y Sportivo Buenos Aires"
    ]
   },
   {
@@ -456,6 +647,16 @@
    ]
   },
   {
+   "id": "club-atletico-talleres-remedios-de-escalada",
+   "name": "Talleres (RdE)",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Talleres (RdE)",
+    "Club Atlético Talleres (Remedios de Escalada)"
+   ]
+  },
+  {
    "id": "temperley",
    "name": "Temperley",
    "country": "ARG",
@@ -481,7 +682,9 @@
    "country": "ARG",
    "espn": "20",
    "aliases": [
+    "Club Atlético Unión (Santa Fe)",
     "Unión",
+    "Unión (SF)",
     "Unión de Santa Fe"
    ]
   },
@@ -762,6 +965,17 @@
    "espn": "2672",
    "aliases": [
     "Deportivo Cali"
+   ]
+  },
+  {
+   "id": "junior-de-barranquilla",
+   "name": "Junior",
+   "country": "COL",
+   "espn": "4815",
+   "aliases": [
+    "Junior",
+    "Junior de Barranquilla",
+    "Atlético Junior"
    ]
   },
   {
@@ -1167,6 +1381,16 @@
    ]
   },
   {
+   "id": "club-america",
+   "name": "América",
+   "country": "MEX",
+   "espn": "227",
+   "aliases": [
+    "América",
+    "Club América"
+   ]
+  },
+  {
    "id": "cruz-azul",
    "name": "Cruz Azul",
    "country": "MEX",
@@ -1241,6 +1465,16 @@
    "aliases": [
     "Cerro Porteño",
     "Club Cerro Porteño"
+   ]
+  },
+  {
+   "id": "club-guarani",
+   "name": "Guaraní",
+   "country": "PAR",
+   "espn": "7385",
+   "aliases": [
+    "Guaraní",
+    "Club Guaraní"
    ]
   },
   {

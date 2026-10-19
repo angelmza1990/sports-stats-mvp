@@ -11,14 +11,14 @@ import urllib.request
 from pathlib import Path
 
 USER_AGENT = "sports-stats-mvp/1.0 (https://github.com/angelmza1990/sports-stats-mvp)"
-RAW_URL = "https://en.wikipedia.org/w/index.php?title={title}&action=raw"
+RAW_URL = "https://{lang}.wikipedia.org/w/index.php?title={title}&action=raw"
 
 
-def fetch_raw(title: str, cache: Path, refresh: bool, pause: float = 3.0) -> str:
+def fetch_raw(title: str, cache: Path, refresh: bool, pause: float = 3.0, lang: str = "en") -> str:
     """Raw wikitext of a page, cached on disk. Pauses between downloads to respect rate limits."""
     if refresh or not cache.exists():
-        print(f"downloading Wikipedia: {title}", file=sys.stderr)
-        url = RAW_URL.format(title=urllib.parse.quote(title.replace(" ", "_")))
+        print(f"downloading Wikipedia ({lang}): {title}", file=sys.stderr)
+        url = RAW_URL.format(lang=lang, title=urllib.parse.quote(title.replace(" ", "_")))
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
         for attempt in range(4):
             try:
@@ -158,6 +158,15 @@ def strip_refs(text: str) -> str:
     return re.sub(r"\{\{(?:efn|refn|sfn|notetag|#tag:ref)[^{}]*(?:\{\{[^{}]*\}\}[^{}]*)*\}\}", "", text, flags=re.I)
 
 
+def header_labels(row: list[dict]) -> list[str]:
+    """Header labels, reading abbreviation/tooltip templates ({{Abbr|Pts|Points}} -> "Pts")."""
+    out = []
+    for c in row:
+        m = re.search(r"\{\{\s*(?:abreviatura|abbr|tooltip)\s*\|([^|}]+)", c["text"], re.I)
+        out.append((m.group(1) if m else plain(c["text"])).strip())
+    return out
+
+
 def links(text: str) -> list[tuple[str, str]]:
     """All [[target|text]] links as (target, text)."""
     out = []
@@ -169,10 +178,25 @@ def links(text: str) -> list[tuple[str, str]]:
     return out
 
 
+def person(text: str) -> str | None:
+    """A person's name from a cell: {{sortname|First|Last}} or the first link."""
+    m = re.search(r"\{\{\s*sortname\s*\|([^|}]*)\|([^|}]*)(?:\|([^|}]*))?[^}]*\}\}", text, re.I)
+    if m:
+        first, last, target = (m.group(1) or "").strip(), (m.group(2) or "").strip(), (m.group(3) or "").strip()
+        return f"{first} {last}".strip() if not target or "=" in target else re.sub(r"\s*\([^)]*\)$", "", target)
+    found = links(text)
+    if found:
+        target, label = found[0]
+        return label if "(" in target or label == target else label
+    return plain(text) or None
+
+
 def plain(text: str) -> str:
     """Readable text: links -> their label, templates and markup removed."""
     text = strip_refs(text)
-    text = re.sub(r"\{\{(?:nowrap|nobr|small|center)\|([^{}]*)\}\}", r"\1", text, flags=re.I)
+    text = re.sub(r"\{\{\s*sortname\s*\|([^|}]*)\|([^|}]*)[^}]*\}\}", r"\1 \2", text, flags=re.I)
+    text = re.sub(r"\{\{\s*sort\s*\|[^|{}]*\|(.*?)\}\}", r"\1", text, flags=re.I)
+    text = re.sub(r"\{\{(?:nowrap|nobr|small|center|maybe|nowrap begin|bold|big)\|([^{}]*)\}\}", r"\1", text, flags=re.I)
     text = re.sub(r"\[\[(?:[^\]|]+\|)?([^\]]+)\]\]", r"\1", text)
     text = re.sub(r"\{\{[^{}]*\}\}", "", text)
     text = re.sub(r"<[^>]+>", "", text)
@@ -181,8 +205,9 @@ def plain(text: str) -> str:
 
 
 def number(text: str) -> int | None:
-    m = re.search(r"-?\d[\d,]*", plain(text))
-    return int(m.group(0).replace(",", "")) if m else None
+    # Accepts "1,234" and the Spanish-style "1.234" thousands separators.
+    m = re.search(r"-?\d{1,3}(?:[.,]\d{3})+(?!\d)|-?\d+", plain(text).replace("−", "-"))
+    return int(re.sub(r"[.,]", "", m.group(0))) if m else None
 
 
 COUNTRY_NAMES = {
@@ -202,8 +227,46 @@ COUNTRY_NAMES = {
     "montenegro": "MNE", "north macedonia": "MKD", "armenia": "ARM", "belarus": "BLR", "kazakhstan": "KAZ",
     "cyprus": "CYP", "luxembourg": "LUX", "malta": "MLT", "latvia": "LVA", "lithuania": "LTU", "estonia": "EST",
     "moldova": "MDA", "azerbaijan": "AZE", "east germany": "GDR", "czechia": "CZE", "dr congo": "COD",
-    "paraguay national": "PAR",
+    "paraguay national": "PAR", "kingdom of yugoslavia": "YUG", "dutch east indies": "DEI", "zaire": "ZAI",
+    "cuba": "CUB", "haiti": "HAI", "el salvador": "SLV", "north korea": "PRK", "kuwait": "KUW", "iraq": "IRQ",
+    "indonesia": "IDN", "south africa": "RSA", "kingdom of italy": "ITA", "nazi germany": "GER", "fr yugoslavia": "FRY",
+    "serbia and montenegro": "SCG", "trinidad and tobago": "TRI", "angola": "ANG", "new zealand": "NZL", "qatar": "QAT",
+    "saudi arabia": "KSA", "iran": "IRN", "china": "CHN", "tunisia": "TUN", "united arab emirates": "UAE",
 }
+
+
+def flag_codes(text: str) -> list[str]:
+    """Every country code from flag-like templates in a cell, in order (e.g. co-hosts)."""
+    out = []
+    for m in re.finditer(r"\{\{[^{}]*\}\}", text):
+        code = flag_code(m.group(0))
+        if code and code not in out:
+            out.append(code)
+    return out
+
+
+def all_tables(wikitext: str) -> list[list[list[dict]]]:
+    """Every top-level table on a page, parsed."""
+    out, pos = [], 0
+    while True:
+        start = wikitext.find("\n{|", pos)
+        if start < 0:
+            return out
+        try:
+            table = find_table(wikitext[start:], r"^", 0)
+        except LookupError:
+            return out
+        out.append(parse_table(table))
+        pos = start + len(table)
+
+
+def table_with_headers(wikitext: str, *needles: str) -> list[list[dict]]:
+    """The first table whose header rows contain every needle (case-insensitive)."""
+    for grid in all_tables(wikitext):
+        head = " ".join(plain(c["text"]).lower() for row in grid[:2] for c in row)
+        if all(n.lower() in head for n in needles):
+            return grid
+    raise LookupError(f"no table with headers {needles}")
 
 
 def flag_code(text: str) -> str | None:
@@ -211,7 +274,7 @@ def flag_code(text: str) -> str | None:
     for m in re.finditer(r"\{\{\s*([^{}|]+?)\s*(?:\|([^{}|]*))?(?:\|[^{}]*)?\}\}", text):
         name, arg = m.group(1).strip(), (m.group(2) or "").strip()
         lname = name.lower()
-        if lname in ("flagicon", "fbaicon", "fba", "flagcountry", "flag", "fb", "flagathlete", "flagu", "fbicon"):
+        if lname.startswith(("flag", "fb")) and lname not in ("flagathlete",):
             if re.fullmatch(r"[A-Z]{3}", arg):
                 return arg
             code = COUNTRY_NAMES.get(arg.lower())
