@@ -55,7 +55,16 @@ Two pages with the same structure, one per competition:
 - **The most repeated finals**
 - **Titles and runners-up by country**
 - **All-time club records:** most wins, goals and participations
+- **All-time points table**
 - **Player records:** all-time top scorers and most appearances
+
+### 🌍 [World Club Champions](https://angelmza1990.github.io/sports-stats-mvp/football/world-club-champions/)
+
+The Intercontinental Cup (1960–2004), the FIFA Club World Cup and the FIFA Intercontinental Cup, combined or one at a time: a world titles race, titles by club, by continent (confederation) and by country, repeated finals and every final.
+
+### 🇦🇷 [Argentine Primera División](https://angelmza1990.github.io/sports-stats-mvp/football/argentine-primera/)
+
+Every league champion since 1891: a titles race with or without the amateur era, titles by club split by era, the amateur years when rival associations crowned their own champions (1912–14, 1919–26, 1931–34) and every season.
 
 ## How it works
 
@@ -69,7 +78,7 @@ Two pages with the same structure, one per competition:
 │   └── data/big-three.json       # Generated dataset
 ├── tennis/grand-slams/           # Grand Slams infographic
 ├── basketball/nba-rings/         # NBA Rings infographic
-├── football/                     # Copa Libertadores + Champions League (shared football.js)
+├── football/                     # Football pages (shared common.js) + one folder per page
 ├── scripts/
 │   ├── tennis_data.py            # Shared ATP + Wikipedia draw helpers
 │   ├── build_big_three.py        # Big Three data pipeline
@@ -113,7 +122,7 @@ Rules applied:
 
 **NBA.** The script reads Wikipedia's [List of NBA champions](https://en.wikipedia.org/wiki/List_of_NBA_champions) table, maps every historical team name to its current franchise (the Minneapolis Lakers count for the Lakers, the Seattle SuperSonics for the Thunder) and checks that every season is present and that all titles through 2026 match the known totals. A new team name makes the build fail until it is added to [`data/nba/franchises.json`](data/nba/franchises.json).
 
-**Football.** The script reads each competition's list of finals, all-time club table, all-time top scorers and most-appearance table from Wikipedia, and maps clubs to crests through [`data/football/clubs.json`](data/football/clubs.json) (a club missing from that file still appears, with a lettered badge). It checks that there is one final per season and that every club's title count matches the known history.
+**Football.** For the Libertadores and Champions League, the script reads each competition's list of finals, all-time club table, all-time top scorers and most-appearance table from Wikipedia, and maps clubs to crests through [`data/football/clubs.json`](data/football/clubs.json) (a club missing from that file still appears, with a lettered badge). It checks that there is one final per season and that every club's title count matches the known history. The world champions page combines the three competitions from Wikipedia's list of world champion clubs (checked against known title counts and the number of finals per competition). The Argentine page reads the list of Primera División champions and must match, club by club, the title totals on the same page; amateur and professional titles and the rival associations come from the season labels (FAF, AAmF, LAF).
 
 ### Running locally
 
@@ -129,7 +138,7 @@ python3 -m http.server 8000
 - Flags: [Flagpedia](https://flagpedia.net) (flagcdn.com).
 - NBA championships: [Wikipedia](https://en.wikipedia.org/wiki/List_of_NBA_champions), CC BY-SA 4.0.
 - Football finals, club records and player records: Wikipedia (CC BY-SA 4.0).
-- NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, CONMEBOL or UEFA.
+- NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, FIFA, CONMEBOL, UEFA or the AFA.
 
 ## License
 
