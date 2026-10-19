@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Argentine Primera División · Football</title>
-  <meta name="description" content="Every Argentine Primera División champion since 1891: a titles bar chart race with and without the amateur era, titles by club, the years of rival associations and every season.">
+  <meta name="description" content="Every Argentine Primera División champion since 1891: a titles bar chart race with and without the amateur era, titles by club, the years of rival associations, every season and every national cup.">
   <link rel="stylesheet" href="../../assets/theme.css">
   <link rel="stylesheet" href="../../assets/viz.css">
   <link rel="stylesheet" href="../football.css">
@@ -114,6 +114,21 @@
       </div>
     </section>
 
+    <section class="block" id="cups">
+      <div class="block-head">
+        <h2>National cups</h2>
+        <p>Every official national cup of the Primera División, from the 1900 Cup Tie Competition to today, with who played it, how it was played and who won it most. <span id="cups-count"></span></p>
+      </div>
+      <div class="controls">
+        <div class="segmented" role="tablist" aria-label="Era" id="cups-era"></div>
+      </div>
+      <div class="card">
+        <h3 class="sub" id="cups-leaders-title">Most cup titles</h3>
+        <div id="cups-leaders"></div>
+      </div>
+      <div class="cup-grid" id="cups-list"></div>
+    </section>
+
     <section class="block" id="seasons">
       <div class="block-head">
         <h2>Every champion</h2>
@@ -132,7 +147,9 @@
     </p>
     <p>
       <strong>Notes:</strong> the professional era starts with the Liga Argentina de Football in 1931; the amateur championships that continued until 1934 count as amateur titles.
-      Domestic cups (such as the Copa de la Liga Profesional) are not league titles.
+      Domestic cups (such as the Copa de la Liga Profesional) are not league titles; they have their own section, from
+      <a href="https://es.wikipedia.org/wiki/Copas_nacionales_del_f%C3%BAtbol_argentino">Spanish Wikipedia's list of national cups</a>, with each club's total checked against that page's own table.
+      A cup counts as amateur or professional by the era it was played in; the Copa Ibarguren was played in both. Shared titles (the 1952 Copa Ibarguren) count for both clubs, and unfinished editions are left out.
       Top scorers come from Wikipedia's <a href="https://en.wikipedia.org/wiki/List_of_Argentine_Primera_Divisi%C3%B3n_top_scorers">list of Primera División top scorers</a>; tournaments with joint top scorers list each of them.
       The all-time tables come from <a id="alltime-source" href="https://es.wikipedia.org/wiki/Anexo:Clasificaci%C3%B3n_hist%C3%B3rica_de_la_Primera_Divisi%C3%B3n_de_Argentina_de_f%C3%BAtbol">Spanish Wikipedia</a> (based on RSSSF) and are shown as published: two points per win until 1994–95 and three since, with deducted points subtracted. A few totals in the source don't add up exactly. The 1891 title was shared by St. Andrew's and Old Caledonians.
       Clubs that no longer exist or have no crest available show their initials.

@@ -1,0 +1,105 @@
+{
+ "_note": "Descriptions of the Argentine national cups, keyed by the cup's name on Spanish Wikipedia's 'Copas nacionales del fútbol argentino' (the source of every edition). Written from that page's notes and each cup's article.",
+ "cups": {
+  "Copa de Competencia Chevallier Boutell": {
+   "name": "Copa Chevallier Boutell (Cup Tie Competition)",
+   "description": "The first cup in Argentine football, named after Francis Chevallier Boutell, president of the Argentine Association Football League, who donated the trophy. Until 1906 it brought together two semi-finalists from the Buenos Aires league, one club from Rosario and one from Montevideo, with semi-finals in Rosario and Montevideo and the final always in Buenos Aires. From 1907 it became a Río de la Plata cup between the Argentine and Uruguayan winners, so only the editions up to 1906 count as a national cup."
+  },
+  "Copa de Honor": {
+   "name": "Copa de Honor Municipalidad de Buenos Aires",
+   "description": "Organised by the Argentine association for the Primera División clubs of Greater Buenos Aires and clubs of the Rosario league. It was played as a knockout competition alongside the league. Its last edition, in 1936, replaced the first half of that year's league and counts as a Primera División title, not a cup."
+  },
+  "Copa de Competencia Jockey Club": {
+   "name": "Copa de Competencia Jockey Club",
+   "description": "Began in 1907 as the Argentine section of the Cup Tie Competition, whose winner faced the Uruguayan representative in the final. It became a separate cup in 1913 and first carried the Jockey Club trophy in 1916. A knockout competition among the clubs of the Primera División, joined in some years by clubs of the Rosario league; after the 1919 split it was played only irregularly until 1933."
+  },
+  "Copa Dr. Carlos Ibarguren": {
+   "name": "Copa Ibarguren",
+   "description": "In practice a single match between two champions. From 1913 to 1941 (not held from 1926 to 1936) the champion of the Buenos Aires league met the champion of the Rosario league; from 1942 the national champion met the regional league that won the Copa Presidente de la Nación. After 1944 it was played only sporadically, and it disappeared after 1958. It is the only cup played in both the amateur and the professional eras."
+  },
+  "Copa de Competencia La Nación": {
+   "name": "Copa de Competencia La Nación",
+   "description": "The cup of the Federación Argentina de Football, a dissident association, for its Primera and Segunda División clubs and those of the dissident Rosario federation. Like the other dissident Copas de Competencia, it was a knockout competition of single matches at neutral grounds. It counts as official because its organiser later merged into today's AFA."
+  },
+  "Copa de Competencia de la Asociación Amateurs": {
+   "name": "Copa de Competencia (Asociación Amateurs)",
+   "description": "The cup of the dissident Asociación Amateurs de Football, played by its Primera División clubs, with clubs from the Rosario amateur association added in the first edition. A knockout competition of single matches at neutral grounds."
+  },
+  "Copa Estímulo": {
+   "name": "Copa Estímulo",
+   "description": "Played by the Primera División clubs of the official association in 1920 and 1926, during the breaks while the national team played the South American Championship. Clubs were split into groups played as round robins, and the group winners went on to knockout rounds. Huracán won the 1920 edition without playing the final, after Banfield left the association."
+  },
+  "Campeonato Porteño": {
+   "name": "Campeonato Porteño",
+   "description": "A single match to celebrate the merger of the two rival leagues: the champions of the Asociación Argentina de Football and the Asociación Amateurs de Football, Boca Juniors and Independiente, played for the title. The first match was abandoned and annulled, the replay also ended 0–0, and with no decider the title was declared void."
+  },
+  "Copa de Competencia de la Liga Argentina": {
+   "name": "Copa de Competencia (Liga Argentina)",
+   "description": "The knockout cup of the Liga Argentina de Football, the professional league that the leading clubs founded in 1931 when they broke away from the amateur association. It was played alongside the league, and the Liga Argentina later merged with the amateur body to form today's AFA."
+  },
+  "Copa Beccar Varela": {
+   "name": "Copa Beccar Varela",
+   "description": "Named after Adrián Beccar Varela, president of the AFA's predecessor from 1927 to 1929, and organised by the professional Liga Argentina de Football for its Primera División clubs. The first edition was decided by a final triangular; the second also had clubs from provincial leagues and Uruguayan guests."
+  },
+  "Copa Escobar": {
+   "name": "Copa Adrián C. Escobar",
+   "description": "Donated by AFA president Adrián C. Escobar, it brought together the top seven clubs of the current Primera División table in a knockout played over a single weekend. Matches lasted two halves of 20 minutes and draws were decided by corner kicks, so the champion could play three times in one day."
+  },
+  "Copa de la República": {
+   "name": "Copa de la República",
+   "description": "Considered a forerunner of today's Copa Argentina: eight clubs in a knockout, four from the Primera División and four from regional leagues indirectly affiliated with the AFA, qualified by geographic zones. As in the Copa Escobar, draws were decided by corner kicks. In 1944 and 1945 the Primera División places went to the semi-finalists of the Copa de Competencia Británica."
+  },
+  "Copa de Competencia Británica": {
+   "name": "Copa de Competencia Británica",
+   "description": "Its trophy was donated by the British ambassador on behalf of King George VI and the Football Association. A knockout of single matches among the clubs of the current Primera División; in 1944 and 1945 its four semi-finalists qualified for the Copa de la República."
+  },
+  "Copa Juan Domingo Perón": {
+   "name": "Copa Juan Domingo Perón",
+   "description": "A special tournament organised by the AFA and the government of Buenos Aires Province before the 1955 season, for six Primera División clubs and one Primera B club from the province. The seven teams played a knockout with winners' and losers' rounds, with draws decided by corners after extra time. Although regional, the AFA recognised it as an official national title in 2024, after a claim by Lanús."
+  },
+  "Copa Suecia": {
+   "name": "Copa Suecia",
+   "description": "Played while the league stopped for the 1958 World Cup in Sweden; the Swedish ambassador donated the trophy. The 16 Primera División clubs were split into two groups of eight playing home and away, and the group winners met in a final that was only played in April 1960."
+  },
+  "Copa Argentina": {
+   "name": "Copa Argentina",
+   "description": "Argentina's national cup, open to clubs of every division: a knockout of single matches, decided by penalties after a draw, with 64 clubs in the final phase. First held in 1969 and revived in 2011, its winner qualifies for the Copa Libertadores (since 2012) and the Supercopa Argentina."
+  },
+  "Copa Centenario": {
+   "name": "Copa Centenario",
+   "description": "Organised for the AFA's centenary by the 18 clubs of the 1992–93 Primera División, leaving out the two relegated ones. After a first round of two-legged ties, mostly between traditional rivals, it was played as a double-elimination tournament; the winner of the winners' bracket hosted the final and only needed a draw."
+  },
+  "Supercopa Argentina": {
+   "name": "Supercopa Argentina",
+   "description": "A single match at a neutral ground between the league champion and the Copa Argentina winner; since 2025 the Copa Argentina winner faces the winner of the Trofeo de Campeones. Extra time and penalties decide a draw."
+  },
+  "Copa Campeonato": {
+   "name": "Copa Campeonato",
+   "description": "The final of the 2013–14 season: a single match in San Luis between the champions of the Torneo Inicial 2013 (San Lorenzo) and the Torneo Final 2014 (River Plate). The winner qualified for the Supercopa Argentina and the Copa Sudamericana."
+  },
+  "Copa del Bicentenario": {
+   "name": "Copa del Bicentenario",
+   "description": "A one-off match for the bicentenary of Argentine independence between the champions of the two short championships played between 2014 and 2016: Racing (2014) and Lanús (2016)."
+  },
+  "Copa de la Superliga": {
+   "name": "Copa de la Superliga",
+   "description": "The cup of the Superliga, played by its 26 clubs: the top six of the 2018–19 table went straight to the round of 16 and the other 20 played a preliminary round. Ties were two-legged up to the semi-finals and the final was a single match at a neutral ground; the winner qualified for the Copa Libertadores. The 2020 edition was cancelled because of the COVID-19 pandemic."
+  },
+  "Trofeo de Campeones de la Superliga": {
+   "name": "Trofeo de Campeones de la Superliga",
+   "description": "A single match between the champions of the 2018–19 Superliga and the 2019 Copa de la Superliga. A second edition, planned for 2020, was cancelled with the Copa de la Superliga."
+  },
+  "Copa de la Liga Profesional": {
+   "name": "Copa de la Liga Profesional",
+   "description": "Created at the end of 2020, when the pandemic left the Copa de la Superliga unfinished, to award its place in the Copa Libertadores; the first edition was named after Diego Maradona. Played by the clubs of the current Primera División in two groups, followed by knockout rounds, until its last edition in 2024."
+  },
+  "Trofeo de Campeones de la Liga Profesional": {
+   "name": "Trofeo de Campeones",
+   "description": "A single match between the league champion and the Copa de la Liga winner until 2024, and since 2025 between the champions of the Apertura and the Clausura. Since 2022 its winner plays the Supercopa Internacional."
+  },
+  "Supercopa Internacional": {
+   "name": "Supercopa Internacional",
+   "description": "The winner of the Trofeo de Campeones against the club with the best record over the whole season, in a single match at a neutral venue. The first edition was played in Abu Dhabi under an agreement with the emirate's sports council."
+  }
+ }
+}

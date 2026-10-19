@@ -502,9 +502,11 @@ def build_argentina(key: str, refresh: bool) -> dict:
 
     alltime, periods = argentina_alltime(clubs, refresh)
     scorers, alltime_scorers = argentina_scorers(clubs, refresh)
+    cups, cup_official = argentina_cups(clubs, refresh)
     used = {t["champion"] for t in titles} | {t["runnerUp"] for t in titles if t["runnerUp"]}
     used |= {r["club"] for rows in alltime.values() for r in rows}
     used |= {c for sc in scorers for c in sc["clubs"]}
+    used |= {c for cup in cups for e in cup["editions"] for c in (e["champion"], e["runnerUp"]) if c}
     top = {r["club"] for rows in alltime.values() for r in sorted(rows, key=lambda r: -r["pts"])[:40]}
     unmapped = sorted(label for cid, label in clubs.unmapped.items() if cid in top | {t["champion"] for t in titles})
     if unmapped:
@@ -518,7 +520,9 @@ def build_argentina(key: str, refresh: bool) -> dict:
             "associations": DISSIDENT,
             "alltimePeriods": periods,
             "alltimeSource": f"https://es.wikipedia.org/wiki/{ARG_ALLTIME_PAGE.replace(' ', '_')}",
+            "cupsSource": f"https://es.wikipedia.org/wiki/{ARG_CUPS_PAGE.replace(' ', '_')}",
         },
+        "cups": cups,
         "alltime": alltime,
         "scorers": scorers,
         "alltimeScorers": alltime_scorers,
@@ -527,6 +531,7 @@ def build_argentina(key: str, refresh: bool) -> dict:
         "clubs": {c: {"name": clubs.clubs[c]["name"], "country": "ARG", "crest": clubs.clubs[c]["espn"]} for c in sorted(used)},
         "titles": titles,
         "_official": official,
+        "_cupOfficial": cup_official,
     }
 
 
@@ -602,9 +607,102 @@ def argentina_scorers(clubs: ClubIndex, refresh: bool) -> tuple[list[dict], list
     return out, top
 
 
+ARG_CUPS_PAGE = "Copas nacionales del fútbol argentino"
+ARG_CUPS_INFO = ROOT / "data" / "football" / "argentine_cups.json"
+
+
+def argentina_cups(clubs: ClubIndex, refresh: bool) -> tuple[list[dict], dict]:
+    """Every official national cup of the Primera División, amateur and professional, from Spanish Wikipedia.
+
+    Returns the cups (in order of first edition) and the page's own title counts per club: for the
+    amateur era and overall (its professional summary lags behind its own list, the overall one doesn't)."""
+    text = W.fetch_raw(ARG_CUPS_PAGE, RAW_DIR / f"es-{slug(ARG_CUPS_PAGE)}.wiki", refresh, lang="es")
+    text = text[:re.search(r"==\s*Segunda división", text).start()]
+    info = json.loads(ARG_CUPS_INFO.read_text(encoding="utf-8"))["cups"]
+    cups: dict[str, dict] = {}
+    official: dict[str, Counter] = {}
+    labels: dict[str, str] = {}  # link label ("Estudiantes (LP)") -> club, to read the overall table
+    era_of: dict[str, str] = {}  # era of each cup's table, for cups that never had a champion
+    for era, anchor in (("amateur", r"===\s*Durante el amateurismo"), ("professional", r"===\s*Durante el profesionalismo")):
+        start = re.search(anchor, text).start()
+        grids = W.all_tables(text[start:])
+        editions, totals = grids[0], grids[1]
+        for row in editions[1:]:
+            if len(row) < 4:
+                continue
+            name = W.plain(W.strip_refs(row[1]["text"]))
+            season = W.plain(row[0]["text"])
+            if name not in info:
+                sys.exit(f"argentine cups: {name!r} is missing from {ARG_CUPS_INFO.name}")
+            cup = cups.setdefault(name, {"key": slug(name), "name": info[name]["name"], "source": name,
+                                         "description": info[name]["description"], "editions": [], "unfinished": []})
+            era_of.setdefault(name, era)
+            if re.search(r"incomplet|desiert|suspend", W.plain(row[2]["text"]), re.I):
+                cup["unfinished"].append(season)  # no champion
+                continue
+            # A shared title ("River Plate - Liga Cultural") lists both champions.
+            parts = [f"[[{t}|{x}]]" for t, x in W.links(W.strip_refs(row[2]["text"]))] or [W.strip_refs(row[2]["text"])]
+            champions = [cid for part in parts if (cid := club_from_cell(part, clubs))]
+            if not champions or not re.match(r"\d{4}", season):
+                continue
+            for part, cid in zip(parts, champions):
+                if W.links(part):
+                    labels[W.links(part)[0][1].lower()] = cid
+            runner = club_from_cell(W.strip_refs(row[3]["text"]), clubs) if W.plain(row[3]["text"]) not in ("", "–", "-") else None
+            if runner and W.links(row[3]["text"]):
+                labels[W.links(row[3]["text"])[0][1].lower()] = runner
+            for champion in champions:
+                cup["editions"].append({"season": season, "year": int(season[:4]), "era": era, "champion": champion,
+                                        "runnerUp": None if len(champions) > 1 else runner, "shared": len(champions) > 1})
+        if era == "amateur":
+            official[era] = Counter()
+            for row in totals[1:]:
+                cid = club_from_cell(row[0]["text"], clubs) if len(row) > 1 else None
+                if cid:
+                    official[era][cid] += W.number(row[1]["text"]) or 0
+    # The overall table names clubs in plain text, sometimes spelled differently from the lists.
+    norm = lambda x: re.sub(r"[^a-z() ]", "", unicodedata.normalize("NFKD", x.lower().replace("&", "y")).encode("ascii", "ignore").decode()).strip()
+    base = lambda x: re.sub(r"\s*\(.*?\)", "", x).strip()
+    known = {norm(k): v for k, v in labels.items()}
+
+    def by_label(label: str) -> str:
+        """Exact label, else the same name without its "(city)" suffix or with a longer form, if only one club fits."""
+        key = norm(label)
+        if key in known:
+            return known[key]
+        fits = {v for k, v in known.items() if base(k) == base(key)}
+        if len(fits) != 1:
+            fits = {v for k, v in known.items() if base(key).startswith(base(k) + " ") or base(k).startswith(base(key) + " ")}
+        return fits.pop() if len(fits) == 1 else label
+
+    official["all"] = Counter()
+    overall = next(g for g in W.all_tables(text) if "palmarés global" in W.plain(g[0][0]["text"]).lower())
+    for row in overall[2:]:
+        label, won = W.plain(row[0]["text"]), W.number(row[1]["text"])
+        if won:
+            official["all"][by_label(label)] += won
+    out = []
+    for cup in cups.values():
+        eras = {e["era"] for e in cup["editions"]} or {era_of[cup["source"]]}
+        cup["era"] = eras.pop() if len(eras) == 1 else "both"
+        years = sorted({e["year"] for e in cup["editions"]} | {int(x[:4]) for x in cup["unfinished"]})
+        cup["years"] = f"{years[0]}" if years[0] == years[-1] else f"{years[0]}–{years[-1]}"
+        out.append(cup)
+    return out, official
+
+
 def validate_argentina(key: str, data: dict) -> list[str]:
     errors = []
     official = data.pop("_official")
+    cup_official = data.pop("_cupOfficial")
+    for era, expected in cup_official.items():
+        got = Counter(e["champion"] for cup in data["cups"] for e in cup["editions"] if era == "all" or e["era"] == era)
+        diff = {data["clubs"].get(c, {}).get("name", c): (got.get(c, 0), expected.get(c, 0))
+                for c in set(got) | set(expected) if got.get(c, 0) != expected.get(c, 0)}
+        if diff:
+            errors.append(f"{era} cups differ from the page's own totals (got, expected): {diff}")
+    if len(data["cups"]) < 20:
+        errors.append(f"only {len(data['cups'])} cups")
     counted = Counter(t["champion"] for t in data["titles"])
     diff = {data["clubs"].get(c, {}).get("name", c): (counted.get(c, 0), official.get(c, 0))
             for c in set(counted) | set(official) if counted.get(c, 0) != official.get(c, 0)}

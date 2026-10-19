@@ -266,5 +266,76 @@
     ], rows.reverse());
   })();
 
+  /* ---------- National cups ---------- */
+
+  (function cups() {
+    const ERA_LABEL = { amateur: "Amateur", professional: "Professional", both: "Amateur and professional" };
+    const list = data.cups;
+    const counts = d3.rollup(list, (v) => v.length, (c) => c.era);
+    const both = counts.get("both") ?? 0;
+    document.getElementById("cups-count").textContent =
+      `${list.length} cups: ${counts.get("amateur") ?? 0} amateur, ${counts.get("professional") ?? 0} professional` +
+      (both ? ` and ${both === 1 ? "one" : both} played in both eras.` : ".");
+    const editionsOf = (cup) => new Set(cup.editions.map((e) => e.season)).size;
+    const winsIn = (cup, era) => cup.editions.filter((e) => era === "all" || e.era === era);
+
+    function board(root, editions, limit) {
+      const byClub = d3.rollups(editions, (v) => v, (e) => e.champion)
+        .sort((a, b) => b[1].length - a[1].length || d3.min(a[1], (e) => e.year) - d3.min(b[1], (e) => e.year));
+      F.rankList(root, byClub.slice(0, limit).map(([club, won]) => ({
+        icon: F.crest(club), label: clubName(club), value: won.length,
+        second: editions.filter((e) => e.runnerUp === club).length || null,
+        tip: (t) => {
+          t.append(ttTitle(`${clubName(club)}: ${won.length} ${won.length === 1 ? "title" : "titles"}`));
+          t.append(ttNote(won.map((e) => `${e.cupName ? `${e.cupName} ` : ""}${e.season}`).join(" · ")));
+        },
+      })), ["Club", "Titles", "Finals lost"]);
+    }
+
+    function card(cup, era) {
+      const box = el("article", "card cup-card");
+      box.append(el("h3", null, cup.name));
+      const meta = el("div", "cup-meta");
+      const played = editionsOf(cup);
+      const n = played + cup.unfinished.length;
+      meta.append(el("span", `era-tag ${cup.era === "professional" ? "professional" : cup.era === "both" ? "both" : ""}`, ERA_LABEL[cup.era]),
+        el("span", null, `${cup.years} · ${n} ${n === 1 ? "edition" : "editions"}` +
+          (cup.unfinished.length ? ` (${cup.unfinished.join(", ")} not finished)` : "")));
+      box.append(meta, el("p", "cup-desc", cup.description));
+      const wins = winsIn(cup, era);
+      if (!wins.length) {
+        box.append(el("p", "muted", "No champion was crowned."));
+        return box;
+      }
+      const leaders = el("div");
+      box.append(leaders);
+      board(leaders, wins, 5);
+      const details = el("details");
+      details.append(el("summary", null, played === 1 ? "The final" : `Every edition (${played})`));
+      const tableBox = el("div", "data-table");
+      details.append(tableBox);
+      F.richTable(tableBox, [
+        { label: "Season", render: (e) => e.season },
+        { label: "Champion", render: (e) => (e.shared ? F.withSub(F.clubLabel(e.champion), "shared title") : F.clubLabel(e.champion)) },
+        { label: "Runner-up", render: (e) => (e.runnerUp ? F.clubLabel(e.runnerUp) : "–") },
+      ], wins.slice().reverse());
+      box.append(details);
+      return box;
+    }
+
+    function render(era) {
+      const shown = list.filter((c) => era === "all" || c.era === era || c.era === "both");
+      const all = shown.flatMap((c) => winsIn(c, era).map((e) => ({ ...e, cupName: c.name })));
+      document.getElementById("cups-leaders-title").textContent =
+        `Most cup titles${era === "all" ? "" : `, ${era} era`} (${all.length} titles in ${shown.length} cups)`;
+      board(document.getElementById("cups-leaders"), all, 12);
+      document.getElementById("cups-list").replaceChildren(...shown.map((c) => card(c, era)));
+    }
+    Viz.segmented("cups-era", [
+      { key: "all", label: "All cups" }, { key: "amateur", label: "Amateur era" }, { key: "professional", label: "Professional era" },
+    ], "all", render);
+    render("all");
+  })();
+
   document.getElementById("data-through").textContent = `Covers every title through ${data.meta.through}.`;
 })();
