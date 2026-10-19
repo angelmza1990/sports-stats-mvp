@@ -266,6 +266,47 @@
     ], rows.reverse());
   })();
 
+  /* ---------- All national titles: leagues and cups ---------- */
+
+  (function nationalTitles() {
+    const all = [
+      ...titles.map((t) => ({ club: t.champion, era: t.era, kind: "league", label: t.season })),
+      ...data.cups.flatMap((c) => c.editions.map((e) => ({ club: e.champion, era: e.era, kind: "cup", label: `${c.name} ${e.season}` }))),
+    ];
+    const count = (list, era, kind) => list.filter((t) => (!era || t.era === era) && (!kind || t.kind === kind)).length;
+    const cell = (list, era) => {
+      const n = count(list, era);
+      if (!n) return el("span", "muted", "–");
+      const wrap = el("span");
+      wrap.append(el("small", "muted", `${count(list, era, "league")} L · ${count(list, era, "cup")} C  `), el("strong", null, String(n)));
+      return wrap;
+    };
+    document.getElementById("titles-total").textContent =
+      `${all.length} titles: ${count(all, null, "league")} leagues and ${count(all, null, "cup")} cups. L = league titles, C = cups.`;
+
+    function render(era) {
+      const scoped = all.filter((t) => era === "all" || t.era === era);
+      const rows = d3.groups(scoped, (t) => t.club).map(([club, list]) => ({ club, list: all.filter((t) => t.club === club), scoped: list }))
+        .sort((a, b) => b.scoped.length - a.scoped.length || count(b.scoped, null, "league") - count(a.scoped, null, "league")
+          || d3.ascending(clubName(a.club), clubName(b.club)));
+      F.richTable(document.getElementById("titles-table"), [
+        { label: "#", cls: "num rank", render: (r) => String(rows.indexOf(r) + 1) },
+        { label: "Club", render: (r) => F.clubLabel(r.club) },
+        { label: "Titles", cls: "num strong", render: (r) => String(r.scoped.length) },
+        { label: "Leagues", short: "L", cls: "num", render: (r) => String(count(r.scoped, null, "league")) },
+        { label: "Cups", short: "C", cls: "num", render: (r) => String(count(r.scoped, null, "cup")) },
+        ...(era === "all" ? [
+          { label: "Amateur era", short: "Am.", cls: "num hide-sm", render: (r) => cell(r.list, "amateur") },
+          { label: "Professional era", short: "Pro", cls: "num hide-sm", render: (r) => cell(r.list, "professional") },
+        ] : []),
+      ], rows);
+    }
+    Viz.segmented("titles-era", [
+      { key: "all", label: "All eras" }, { key: "professional", label: "Professional era" }, { key: "amateur", label: "Amateur era" },
+    ], "all", render);
+    render("all");
+  })();
+
   /* ---------- National cups ---------- */
 
   (function cups() {
