@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ballon d'Or · Football</title>
+  <meta name="description" content="Every Ballon d'Or winner since 1956: nationality, the club he played for and the youth academy that formed him, with charts by nation, club and academy.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/ballon-dor.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Football</p>
+    <h1>Ballon d'Or</h1>
+    <p class="lede">
+      Every winner of football's most famous individual award since 1956: where he was from, the club he played for when he won it, and the academy that formed him.
+      Also see the <a href="../champions-league/">Champions League</a>.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most Ballons d'Or</h2>
+        <p>Awards won by player, nationality, club at the time or youth academy, year by year.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Group by" id="race-metric"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Year">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="winners">
+      <div class="block-head">
+        <h2>Every winner</h2>
+        <p>Nationality, club at the time of the award and youth academy, most recent first.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="winners-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="breakdown">
+      <div class="block-head">
+        <h2>Nations, clubs and academies</h2>
+        <p>Awards and different winners by nationality, by the club they played for, and by the academy that formed them. Hover a row for the names.</p>
+      </div>
+      <div class="card">
+        <h3 class="sub">By nationality</h3>
+        <div id="by-nation"></div>
+      </div>
+      <div class="grid-2" style="margin-top:16px">
+        <div class="card">
+          <h3 class="sub">Club at the time of the award</h3>
+          <div id="by-club"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Youth academy that formed the winner</h3>
+          <div id="by-academy"></div>
+        </div>
+      </div>
+      <p class="footnote" id="academy-note"></p>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> <a href="https://en.wikipedia.org/wiki/Ballon_d%27Or">Wikipedia, Ballon d'Or</a> and each winner's Wikipedia article for his youth career (CC BY-SA 4.0).
+      Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> men's award only; it was not given in 2020. Until 1995 only European players were eligible.
+      Nationality is the one represented at the time (Di Stéfano won for Spain). The youth academy is the last youth club before the player's senior debut.
+    </p>
+    <p>
+      Club names and crests are trademarks of their respective clubs, shown here for identification only (crests via ESPN's public CDN; flags by <a href="https://flagpedia.net">Flagpedia</a>).
+      This project is not affiliated with France Football or L'Équipe.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

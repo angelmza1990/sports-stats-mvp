@@ -439,3 +439,87 @@ svg .badge-text {
 .host-chip strong {
   color: var(--ink);
 }
+
+/* Ranked list rows (icon, name, bar, values) */
+
+.rank-head,
+.rank-row {
+  display: grid;
+  grid-template-columns: 24px minmax(0, 12em) minmax(0, 1fr) 3em 4.5em;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+}
+
+.rank-head {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink-2);
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.rank-row {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.rank-row:last-child {
+  border-bottom: 0;
+}
+
+.rank-row:hover,
+.rank-row:focus-visible {
+  outline: none;
+  background: var(--wash);
+}
+
+.rank-row .name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.rank-row .bar {
+  height: 10px;
+  border-radius: 0 4px 4px 0;
+  background: var(--c, var(--ink-2));
+  min-width: 2px;
+}
+
+.rank-head .num,
+.rank-row .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.rank-row .num.strong {
+  font-weight: 650;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.grid-2 .card h3,
+.card > h3.sub:first-child {
+  margin-top: 0;
+}
+
+@media (max-width: 760px) {
+  .grid-2 {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .rank-head,
+  .rank-row {
+    grid-template-columns: 24px minmax(0, 1fr) 2.6em 3.6em;
+  }
+
+  .rank-head > :nth-child(3),
+  .rank-row .bar-cell {
+    display: none;
+  }
+}

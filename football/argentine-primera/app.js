@@ -127,6 +127,60 @@
     render("total");
   })();
 
+  /* ---------- Top scorers ---------- */
+
+  (function scorers() {
+    const list = data.scorers;
+    const byClub = d3.rollups(list.flatMap((sc) => sc.clubs.map((c) => ({ ...sc, club: c }))), (v) => v, (d) => d.club)
+      .sort((a, b) => b[1].length - a[1].length).slice(0, 12);
+    F.rankList(document.getElementById("scorer-clubs"), byClub.map(([club, v]) => ({
+      icon: F.crest(club), label: clubName(club), value: v.length, second: new Set(v.map((d) => d.player)).size,
+      tip: (t) => {
+        t.append(ttTitle(`${clubName(club)}: ${v.length} top scorers`));
+        t.append(ttNote(v.map((d) => `${d.season} ${d.player} (${d.goals})`).join(" · ")));
+      },
+    })), ["Club", "Times", "Players"]);
+
+    const byPlayer = d3.rollups(list, (v) => v, (d) => d.player).sort((a, b) => b[1].length - a[1].length || d3.max(b[1], (d) => d.goals) - d3.max(a[1], (d) => d.goals)).slice(0, 12);
+    F.rankList(document.getElementById("scorer-players"), byPlayer.map(([player, v]) => ({
+      icon: F.flag(v[0].nation), label: player, value: v.length, second: d3.max(v, (d) => d.goals),
+      tip: (t) => {
+        t.append(ttTitle(player));
+        v.forEach((d) => t.append(Viz.ttRow("var(--ink-2)", d.goals, `${d.season} · ${d.clubs.map(clubName).join(" / ")}`)));
+      },
+    })), ["Player", "Titles", "Best"]);
+
+    const playerCell = (name, nation, sub) => {
+      const span = el("span", "club");
+      span.append(F.flag(nation), document.createTextNode(name));
+      return sub ? F.withSub(span, sub) : span;
+    };
+    const clubsCell = (ids) => {
+      const wrap = el("div", "stack-clubs");
+      ids.forEach((c) => wrap.append(F.clubLabel(c)));
+      return wrap;
+    };
+    const views = {
+      season: () => F.richTable(document.getElementById("scorers-table"), [
+        { label: "Tournament", render: (d) => d.season },
+        { label: "Top scorer", render: (d) => playerCell(d.player, d.nation, d.clubs.map(clubName).join(" / ")) },
+        { label: "Club", cls: "hide-sm", render: (d) => clubsCell(d.clubs) },
+        { label: "Goals", cls: "num strong", render: (d) => String(d.goals) },
+        { label: "Matches", short: "M", cls: "num hide-sm", render: (d) => (d.matches ? String(d.matches) : "–") },
+      ], list.slice().reverse()),
+      alltime: () => F.richTable(document.getElementById("scorers-table"), [
+        { label: "#", cls: "num rank", render: (d) => String(data.alltimeScorers.indexOf(d) + 1) },
+        { label: "Player", render: (d) => playerCell(d.player, d.nation) },
+        { label: "Career", cls: "years", render: (d) => d.career },
+        { label: "Goals", cls: "num strong", render: (d) => String(d.goals) },
+        { label: "Matches", short: "M", cls: "num", render: (d) => String(d.matches ?? "–") },
+        { label: "Per match", short: "Ratio", cls: "num", render: (d) => (d.matches ? (d.goals / d.matches).toFixed(2) : "–") },
+      ], data.alltimeScorers),
+    };
+    Viz.segmented("scorers-tabs", [{ key: "season", label: "Every tournament" }, { key: "alltime", label: "All-time scorers" }], "season", (k) => views[k]());
+    views.season();
+  })();
+
   /* ---------- Amateur era: timeline of splits + year-by-year table ---------- */
 
   (function amateurEra() {

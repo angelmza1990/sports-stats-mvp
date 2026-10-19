@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Formula 1 · Motorsport</title>
+  <meta name="description" content="Every Formula One World Champion since 1950: bar chart races of drivers', constructors' and nations' titles, titles by nationality and constructor, and all-time race wins.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/formula-1.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Motorsport</p>
+    <h1>Formula 1</h1>
+    <p class="lede">
+      Every World Champion since the first championship in 1950: the drivers, the constructors and the countries behind them, plus the all-time race winners.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most championships</h2>
+        <p>World titles season by season: drivers', constructors' (since 1958) or drivers' titles by nationality.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Championship" id="race-metric"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Season">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="champions">
+      <div class="block-head">
+        <h2>Every champion</h2>
+        <p>Drivers' and constructors' World Champions, most recent first.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Championship" id="champions-tabs"></div>
+        </div>
+        <div class="data-table tall" id="champions-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="breakdown">
+      <div class="block-head">
+        <h2>By nationality and constructor</h2>
+        <p>Drivers' titles by the champion's nationality, and championships by constructor. Hover a row for the names.</p>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">Drivers' titles by nationality</h3>
+          <div id="by-nation"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Titles by constructor</h3>
+          <div class="controls">
+            <div class="segmented" role="tablist" aria-label="Championship" id="constructor-tabs"></div>
+          </div>
+          <div id="by-constructor"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="wins">
+      <div class="block-head">
+        <h2>Most Grand Prix wins</h2>
+        <p>All-time race wins by driver, constructor and the drivers' nationality, including the current season.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Group by" id="wins-tabs"></div>
+        </div>
+        <div id="wins-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> Wikipedia's <span id="sources"></span> (CC BY-SA 4.0). Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> the constructors' championship started in 1958. In 1954 Juan Manuel Fangio won the title driving for both Maserati and Mercedes, so that title counts for both in the constructor breakdown.
+      Constructors are shown with the nationality they are licensed in. Flags by <a href="https://flagpedia.net">Flagpedia</a>. This project is not affiliated with Formula One or the FIA.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

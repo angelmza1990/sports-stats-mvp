@@ -258,8 +258,10 @@ window.Football = function (data) {
           g.append("path").attr("class", "mark").attr("fill", (d) => opts.colorOf(d.id)).property("_w", 0);
           g.append("text").attr("class", "label-name").attr("x", nations ? -10 : -34).attr("y", barH / 2).attr("dy", "0.35em").attr("text-anchor", "end");
           if (!nations) g.append("g").attr("transform", `translate(-28,${(barH - 15) / 2})`).each(function (d) { svgFlag(d3.select(this), clubs[d.id]?.country); });
-          g.append("g").attr("class", "crest-slot").each(function (d) { svgCrest(d3.select(this), d.id, crestSize); })
-            .attr("transform", `translate(${crestSize / 2 + 4},${barH / 2})`);
+          if (opts.icons !== false) {
+            g.append("g").attr("class", "crest-slot").each(function (d) { svgCrest(d3.select(this), d.id, crestSize); })
+              .attr("transform", `translate(${crestSize / 2 + 4},${barH / 2})`);
+          }
           g.append("text").attr("class", "label-value").attr("y", barH / 2).attr("dy", "0.35em").property("_v", 0);
           return g;
         },
@@ -274,7 +276,8 @@ window.Football = function (data) {
         return (k) => barPath(0, 0, (this._w = i(k)), barH);
       });
       rows.select("g.crest-slot").transition(t).attr("transform", (d) => `translate(${x(d.n) + crestSize / 2 + 4},${barH / 2})`);
-      rows.select("text.label-value").transition(t).attr("x", (d) => x(d.n) + crestSize + 10)
+      const valueGap = opts.icons === false ? 8 : crestSize + 10;
+      rows.select("text.label-value").transition(t).attr("x", (d) => x(d.n) + valueGap)
         .tween("text", function (d) {
           const i = d3.interpolateRound(this._v, d.n);
           return (k) => (this.textContent = this._v = i(k));
@@ -366,7 +369,32 @@ window.Football = function (data) {
     return frames;
   }
 
+  /**
+   * Ranked rows with an icon, a bar and up to two numbers.
+   * rows: [{icon: Node, label, value, second?, tip?(t)}]; headers: [first, value, second]
+   */
+  function rankList(root, rows, headers) {
+    root.replaceChildren();
+    const maxN = d3.max(rows, (r) => r.value) || 1;
+    const head = el("div", "rank-head");
+    head.append(el("span"), el("span", null, headers[0]), el("span"), el("span", "num", headers[1]), el("span", "num", headers[2] ?? ""));
+    root.append(head);
+    rows.forEach((r) => {
+      const row = el("div", "rank-row");
+      const cell = el("div", "bar-cell");
+      const bar = el("div", "bar");
+      bar.style.width = `${(r.value / maxN) * 100}%`;
+      if (r.color) bar.style.setProperty("--c", r.color);
+      cell.append(bar);
+      row.append(r.icon ?? el("span"), el("span", "name", r.label), cell, el("span", "num strong", String(r.value)),
+        el("span", "num", r.second != null ? String(r.second) : ""));
+      if (r.tip) Viz.tooltipOnNode(row, r.tip);
+      root.append(row);
+    });
+  }
+
   return {
+    rankList,
     clubs, countries, clubName, countryName, fit, scoreText, crest, svgCrest, flag, svgFlag, clubLabel,
     richTable, withSub, statTiles, repeatedFinals, groupRows, race, titleFrames,
   };
