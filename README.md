@@ -62,13 +62,21 @@ Two pages with the same structure, one per competition:
 
 Every men's World Cup from 1930 to 2026: a race of titles, finals or top-four finishes; champions, runners-up and podiums; results by confederation; hosts and how far they went; repeated finals; teams, matches, goals and attendance per tournament; the all-time points table; team appearances; top scorers, most matches and most tournaments by player; and the top scorer, best player and winning coach of every edition.
 
+### 🥇 [Ballon d'Or](https://angelmza1990.github.io/sports-stats-mvp/football/ballon-dor/)
+
+Every winner since 1956 with his nationality, the club he played for and the youth academy that formed him: a race by player, nationality, club or academy, and breakdowns by nation, club at the time and academy.
+
 ### 🌍 [World Club Champions](https://angelmza1990.github.io/sports-stats-mvp/football/world-club-champions/)
 
 The Intercontinental Cup (1960–2004), the FIFA Club World Cup and the FIFA Intercontinental Cup, combined or one at a time: a world titles race, titles by club, by continent (confederation) and by country, repeated finals and every final.
 
 ### 🇦🇷 [Argentine Primera División](https://angelmza1990.github.io/sports-stats-mvp/football/argentine-primera/)
 
-Every league champion since 1891: a titles race with or without the amateur era, titles by club split by era, the all-time table (total, professional and amateur), the amateur years when rival associations crowned their own champions (1912–14, 1919–26, 1931–34) and every season.
+Every league champion since 1891: a titles race with or without the amateur era, titles by club split by era, the all-time table (total, professional and amateur), the top scorer of every tournament and his club, the all-time scorers, the amateur years when rival associations crowned their own champions (1912–14, 1919–26, 1931–34) and every season.
+
+### 🏎️ [Formula 1](https://angelmza1990.github.io/sports-stats-mvp/motorsport/formula-1/)
+
+Every World Champion since 1950: bar chart races of drivers', constructors' and nations' titles, every champion, titles by nationality and by constructor, and the all-time Grand Prix winners by driver, constructor and nationality.
 
 ## How it works
 
@@ -83,6 +91,7 @@ Every league champion since 1891: a titles race with or without the amateur era,
 ├── tennis/grand-slams/           # Grand Slams infographic
 ├── basketball/nba-rings/         # NBA Rings infographic
 ├── football/                     # Football pages (shared common.js) + one folder per page
+├── motorsport/formula-1/         # Formula 1 page
 ├── scripts/
 │   ├── tennis_data.py            # Shared ATP + Wikipedia draw helpers
 │   ├── build_big_three.py        # Big Three data pipeline
@@ -90,6 +99,7 @@ Every league champion since 1891: a titles race with or without the amateur era,
 │   ├── build_nba_rings.py        # NBA data pipeline
 │   ├── build_football.py         # Football club competitions pipeline
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
+│   ├── build_f1.py               # Formula 1 pipeline
 │   └── wikitables.py             # Generic Wikipedia table parser
 ├── data/
 │   ├── manual/                   # Hand-curated tennis results and nationality fixes
@@ -112,6 +122,7 @@ python3 scripts/build_grand_slams.py --refresh # tennis: Open Era Grand Slams
 python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia table
 python3 scripts/build_football.py --refresh   # football: club competitions and Argentine league
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
+python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 ```
 
 Leave out `--refresh` to use the cached copies in `data/raw/`.
@@ -132,6 +143,10 @@ Rules applied:
 
 **World Cup.** The script combines six Wikipedia pages (editions, finals, records and statistics, top goalscorers, team and player appearances) and checks that every edition since 1930 is present, that title counts match history and that each edition has its final, podium, hosts and tournament totals.
 
+**Ballon d'Or.** Winners, nationality and club come from Wikipedia's Ballon d'Or article; the youth academy is read from each winner's own article (the last youth club in the infobox, with youth sides such as "Sporting CP (youth)" credited to the parent club). The build checks the number of awards of the multiple winners and that every year is present.
+
+**Formula 1.** Drivers' and constructors' champions and the all-time race wins come from Wikipedia's F1 lists. The build checks one champion per season, the title counts of the record holders and the constructors' title totals.
+
 ### Running locally
 
 ```bash
@@ -146,7 +161,7 @@ python3 -m http.server 8000
 - Flags: [Flagpedia](https://flagpedia.net) (flagcdn.com).
 - NBA championships: [Wikipedia](https://en.wikipedia.org/wiki/List_of_NBA_champions), CC BY-SA 4.0.
 - Football finals, club records and player records: Wikipedia (CC BY-SA 4.0).
-- NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, FIFA, CONMEBOL, UEFA or the AFA.
+- NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, FIFA, CONMEBOL, UEFA, the AFA, France Football, Formula One or the FIA.
 
 ## License
 
