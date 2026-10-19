@@ -1,9 +1,21 @@
+/* Shared by the Grand Slams, Masters 1000 and WTA 1000 pages. */
+
 :root {
-  --slam-ao: var(--series-1);
-  --slam-rg: var(--series-2);
-  --slam-w: var(--series-3);
-  --slam-uso: var(--series-4);
   --loss: var(--axis);
+}
+
+/* Tournament picker (pages with more scopes than fit as pills) */
+
+.scope-select select {
+  font: inherit;
+  font-size: 14px;
+  background: var(--surface-raised);
+  color: var(--ink);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 7px 32px 7px 14px;
+  max-width: 100%;
+  cursor: pointer;
 }
 
 .lede a {
@@ -79,7 +91,7 @@
 
 .nation-counts {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 12px;
   margin-bottom: 16px;
 }

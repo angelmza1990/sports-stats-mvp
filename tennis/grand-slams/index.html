@@ -7,16 +7,16 @@
   <meta name="description" content="Open Era men's Grand Slam singles: a champions bar chart race, title leaders at each Slam, nations, match records, repeated finals and runners-up.">
   <link rel="stylesheet" href="../../assets/theme.css">
   <link rel="stylesheet" href="../../assets/viz.css">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="../series.css">
   <script src="../../assets/theme.js"></script>
 </head>
-<body>
+<body data-src="data/grand-slams.json" data-series='{"title": "Grand Slam", "played": "Majors played", "firstNote": "the first Open Era major"}'>
   <header class="hero wrap">
     <p class="kicker"><a href="../../">Sports Stats</a> · Tennis</p>
     <h1>Grand Slams</h1>
     <p class="lede">
       Every men's singles major of the Open Era, from Roland Garros 1968 to today: who won them, where they came from, and who kept coming back.
-      Also see <a href="../big-three/">The Big Three</a>.
+      Also see <a href="../grand-slams-women/">the women's Grand Slams</a>, <a href="../masters-1000/">Masters 1000</a> and <a href="../big-three/">The Big Three</a>.
     </p>
     <div class="stat-row" id="stats"></div>
   </header>
@@ -142,6 +142,6 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
   <script src="../../assets/viz.js"></script>
-  <script src="app.js"></script>
+  <script src="../series.js"></script>
 </body>
 </html>

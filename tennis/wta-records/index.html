@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WTA Records · Tennis</title>
+  <meta name="description" content="Open Era WTA records: titles, weeks at No. 1, matches won and played, all by surface, and the nations behind them.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/wta-records.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Tennis</p>
+    <h1>WTA Records</h1>
+    <p class="lede">
+      The Open Era's all-time leaders in women's tennis since 1968: titles, weeks at No. 1, matches won and played, on every surface, and the countries they came from.
+      Also see <a href="../grand-slams-women/">the women's Grand Slams</a>, <a href="../wta-1000/">WTA 1000</a> and <a href="../atp-records/">ATP Records</a>.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most titles</h2>
+        <p>Career titles in the Open Era, year by year.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Year">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="leaders">
+      <div class="block-head">
+        <h2>All-time leaders</h2>
+        <p>Pick a record and a surface. Win percentage needs at least 300 matches (100 on a single surface).</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Record" id="leaders-metric"></div>
+          <div class="segmented" role="tablist" aria-label="Surface" id="leaders-surface"></div>
+        </div>
+        <div id="leaders-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="surfaces">
+      <div class="block-head">
+        <h2>Kings of each surface</h2>
+        <p>Most titles on hard, clay, grass and carpet, with each player's win-loss record on that surface.</p>
+      </div>
+      <div class="grid-2" id="surface-grid"></div>
+    </section>
+
+    <section class="block" id="table">
+      <div class="block-head">
+        <h2>Career records</h2>
+        <p>The leading players, with their titles by tournament level and surface. Hover a name for the surface win-loss records.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="players-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="nations">
+      <div class="block-head">
+        <h2>Nations</h2>
+        <p>Titles, title-winning players, match wins and No. 1s by country (nationality at the time).</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Measure" id="nations-tabs"></div>
+        </div>
+        <div id="nations-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="year-end">
+      <div class="block-head">
+        <h2>Year-end No. 1</h2>
+        <p>The player who finished each season at the top of the rankings, since rankings began in 1975.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="year-end-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> match results from Jeff Sackmann's WTA dataset (<a href="https://github.com/Aneeshers/tennis-sackmann-archive">archive mirror</a>, CC BY-NC-SA 4.0);
+      weeks at No. 1 and year-end No. 1s from <a href="https://en.wikipedia.org/wiki/List_of_WTA_number_1_ranked_singles_tennis_players">Wikipedia</a> (CC BY-SA 4.0).
+      <span id="data-through"></span> Updated automatically twice a year.
+    </p>
+    <p>
+      <strong>Notes:</strong> titles count tour-level events (Grand Slams, the WTA Finals, every tier of the WTA Tour and the Olympics); the Billie Jean King Cup and other team events don't.
+      Match records include the Billie Jean King Cup and exclude walkovers. The match data is incomplete for the 1970s and 80s, so some early totals differ from the WTA's own tally
+      (Evert's 157 titles show as 147, Navratilova's 167 as 169). WTA 1000 counts Tier I (1990–2008), Premier Mandatory and Premier 5 (2009–2020) and WTA 1000 titles.
+      Nationality is the one represented at the time; players who compete as neutrals are shown under their country.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="../records.js"></script>
+</body>
+</html>

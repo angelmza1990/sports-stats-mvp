@@ -1,22 +1,36 @@
-/* Grand Slams: every chart on the page, built with D3 v7. */
+/* Tennis tournament series (Grand Slams, Masters 1000, WTA 1000): every chart on the page, built with D3 v7.
+   The page sets data-src (the dataset) and data-series (labels). Bars are split by tournament
+   (data.colorBy = "event") or by surface ("surface"). */
 (async function () {
   "use strict";
 
   const { el, table, responsive, tooltipOn, tooltipOnNode, ttTitle, ttNote, barPath } = Viz;
-  const data = await d3.json("data/grand-slams.json");
+  const data = await d3.json(document.body.dataset.src);
+  const CFG = JSON.parse(document.body.dataset.series || "{}");
+  const TITLE = CFG.title ?? data.meta.name; // "Grand Slam", "Masters 1000"...
 
-  const SLAMS = data.slams;
-  const SLAM_META = {
-    "Australian Open": { short: "AO", color: "var(--slam-ao)" },
-    "Roland Garros": { short: "RG", color: "var(--slam-rg)" },
-    Wimbledon: { short: "W", color: "var(--slam-w)" },
-    "US Open": { short: "USO", color: "var(--slam-uso)" },
-  };
-  const TABS = [{ key: "All", label: "All Slams" }, ...SLAMS.map((s) => ({ key: s, label: s }))];
+  const EVENTS = data.events.map((e) => e.key);
+  const SHORT = { "Australian Open": "AO", "Roland Garros": "RG", Wimbledon: "W", "US Open": "USO" };
+  const short = (event) => SHORT[event] ?? event;
+  const SURFACE_COLOR = { Hard: "var(--series-1)", Clay: "var(--series-2)", Grass: "var(--series-3)", Carpet: "var(--series-4)" };
+  const BY_EVENT = data.colorBy === "event";
+  const KEYS = data.colors; // the series each bar is split into
+  const COLOR = Object.fromEntries(KEYS.map((k, i) => [k, BY_EVENT ? `var(--series-${i + 1})` : SURFACE_COLOR[k]]));
+  const keyOf = (e) => (BY_EVENT ? e.event : e.surface);
+  const keyClass = (k) => k.replace(/\W+/g, "");
+  const TABS = data.tabs;
+  const tabBy = Object.fromEntries(TABS.map((t) => [t.key, t]));
   const countries = data.countries;
   const editions = data.editions.map((e) => ({ ...e, date: d3.utcParse("%Y-%m-%d")(e.date) }));
-  const inScope = (scope) => (scope === "All" ? editions : editions.filter((e) => e.slam === scope));
-  const editionName = (e) => `${SLAM_META[e.slam].short} ${e.label}`;
+  const inScope = (scope) => {
+    if (scope === "All") return editions;
+    const set = new Set(tabBy[scope].events ?? [scope]);
+    return editions.filter((e) => set.has(e.event));
+  };
+  /** Colors shown for a scope: one tournament's own color, or every series. */
+  const keysFor = (scope) => (BY_EVENT && scope !== "All" ? KEYS.filter((k) => (tabBy[scope].events ?? [scope]).includes(k)) : KEYS);
+  const scopeColor = (scope) => (BY_EVENT && COLOR[scope]) || "var(--ink-2)";
+  const editionName = (e) => `${short(e.event)} ${e.label}`;
   const surname = (name) => name.split(" ").slice(1).join(" ") || name;
 
   // Each player's nationality: the one they won (or reached) most finals under.
@@ -29,8 +43,8 @@
     return (name) => tally.get(name);
   })();
 
-  Viz.legend("race-legend", SLAMS.map((s) => ({ label: s, color: SLAM_META[s].color })));
-  Viz.legend("leaders-legend", SLAMS.map((s) => ({ label: s, color: SLAM_META[s].color })));
+  Viz.legend("race-legend", KEYS.map((k) => ({ label: k, color: COLOR[k] })));
+  Viz.legend("leaders-legend", KEYS.map((k) => ({ label: k, color: COLOR[k] })));
 
   /* ---------- Flags ---------- */
 
@@ -70,9 +84,24 @@
     return span;
   }
 
-  /** Tabs for "All Slams" + each major. */
+  /** Tabs for every scope ("All" + each tournament); a dropdown when there are too many for pills. */
   function slamTabs(containerId, onChange, initial = "All") {
-    Viz.segmented(containerId, TABS, initial, onChange);
+    if (TABS.length <= 6) {
+      Viz.segmented(containerId, TABS, initial, onChange);
+      return;
+    }
+    const root = document.getElementById(containerId);
+    root.className = "scope-select";
+    const select = el("select");
+    select.setAttribute("aria-label", "Tournament");
+    TABS.forEach((t) => {
+      const o = el("option", null, t.label);
+      o.value = t.key;
+      o.selected = t.key === initial;
+      select.append(o);
+    });
+    select.addEventListener("change", () => onChange(select.value));
+    root.append(select);
   }
 
   /* ---------- Stacked horizontal bars (leaders, match records) ---------- */
@@ -125,7 +154,7 @@
     const titles = d3.rollup(editions, (v) => v.length, (e) => e.champion);
     const [leader, n] = d3.greatest(titles, (d) => d[1]);
     const tiles = [
-      { label: "Majors played", value: String(editions.length), detail: `Since Roland Garros 1968` },
+      { label: CFG.played ?? "Finals played", value: String(editions.length), detail: `Since ${editions[0].event} ${editions[0].label}` },
       { label: "Different champions", value: String(champions.size), detail: `${d3.sum(titles.values(), (v) => v === 1)} won exactly one` },
       { label: "Champion nations", value: String(nations.size), detail: `${countryName(d3.greatest(d3.rollup(editions, (v) => v.length, (e) => e.championIoc), (d) => d[1])[0])} leads` },
       { label: "Most titles", value: String(n), detail: leader, ioc: playerIoc(leader) },
@@ -145,16 +174,16 @@
 
   (function race() {
     const TOP = 10;
-    const tally = new Map(); // player -> {slam: n}
+    const tally = new Map(); // player -> {series key: n}
     const reached = new Map();
     const frames = [{ edition: null, ranked: [] }];
     editions.forEach((e, i) => {
-      const c = tally.get(e.champion) ?? Object.fromEntries(SLAMS.map((s) => [s, 0]));
-      c[e.slam]++;
+      const c = tally.get(e.champion) ?? Object.fromEntries(KEYS.map((k) => [k, 0]));
+      c[keyOf(e)]++;
       tally.set(e.champion, c);
       reached.set(e.champion, i);
       const ranked = [...tally.entries()]
-        .map(([name, counts]) => ({ name, counts: { ...counts }, total: d3.sum(SLAMS, (s) => counts[s]), since: reached.get(name) }))
+        .map(([name, counts]) => ({ name, counts: { ...counts }, total: d3.sum(KEYS, (k) => counts[k]), since: reached.get(name) }))
         .sort((a, b) => b.total - a.total || a.since - b.since)
         .slice(0, TOP);
       frames.push({ edition: e, ranked });
@@ -182,12 +211,12 @@
     const yPos = (i) => margin.top + i * rowH + (rowH - barH) / 2;
 
     function drawSegments(row, counts) {
-      const nonzero = SLAMS.filter((s) => counts[s] > 0.001);
+      const nonzero = KEYS.filter((k) => counts[k] > 0.001);
       let x0 = 0;
-      SLAMS.forEach((s) => {
-        const path = row.select(`path.seg-${SLAM_META[s].short}`);
-        const w = x(counts[s] || 0);
-        const i = nonzero.indexOf(s);
+      KEYS.forEach((k) => {
+        const path = row.select(`path.seg-${keyClass(k)}`);
+        const w = x(counts[k] || 0);
+        const i = nonzero.indexOf(k);
         if (i < 0) {
           path.attr("d", null);
           return;
@@ -205,7 +234,7 @@
       x.domain([0, Math.max(5, maxN * 1.05)]).range([0, width - margin.left - margin.right]);
       const t = svg.transition().duration(duration).ease(d3.easeLinear);
 
-      svg.attr("aria-label", `Most Grand Slam titles after ${frame.edition ? editionName(frame.edition) : "1968"}: ` +
+      svg.attr("aria-label", `Most ${TITLE} titles after ${frame.edition ? editionName(frame.edition) : editions[0].year}: ` +
         frame.ranked.map((d) => `${d.name} ${d.total}`).join(", "));
 
       const ticks = x.ticks(narrow ? 4 : 6).filter(Number.isInteger);
@@ -223,12 +252,12 @@
       const rows = bars.selectAll("g.row").data(frame.ranked, (d) => d.name).join(
         (enter) => {
           const g = enter.append("g").attr("class", "row").attr("opacity", 0).attr("transform", `translate(${margin.left},${yPos(TOP)})`);
-          SLAMS.forEach((s) => g.append("path").attr("class", `mark seg-${SLAM_META[s].short}`).attr("fill", SLAM_META[s].color));
+          KEYS.forEach((k) => g.append("path").attr("class", `mark seg-${keyClass(k)}`).attr("fill", COLOR[k]));
           g.append("text").attr("class", "label-name").attr("x", -34).attr("y", barH / 2).attr("dy", "0.35em").attr("text-anchor", "end");
           g.append("g").attr("class", "flag-slot").attr("transform", `translate(-28,${(barH - 15) / 2})`)
             .each(function (d) { svgFlag(d3.select(this), playerIoc(d.name)); });
           g.append("text").attr("class", "label-value").attr("y", barH / 2).attr("dy", "0.35em");
-          g.property("_c", Object.fromEntries(SLAMS.map((s) => [s, 0])));
+          g.property("_c", Object.fromEntries(KEYS.map((k) => [k, 0])));
           return g;
         },
         (u) => u,
@@ -244,18 +273,19 @@
           return (k) => {
             this._c = interp(k);
             const end = drawSegments(row, this._c);
-            label.attr("x", end + 8).text(Math.round(d3.sum(SLAMS, (s) => this._c[s])));
+            label.attr("x", end + 8).text(Math.round(d3.sum(KEYS, (k) => this._c[k])));
           };
         });
 
       const e = frame.edition;
-      dateEl.textContent = e ? e.label.replace(/ \(.*\)/, "") : "1968";
+      dateEl.textContent = e ? e.label.replace(/ \(.*\)/, "") : String(editions[0].year);
       scrub.value = state.idx;
       tickerEl.replaceChildren();
       if (!e) {
-        tickerEl.textContent = "Press play to start at Roland Garros 1968, the first Open Era major.";
+        const first = editions[0];
+        tickerEl.textContent = `Press play to start at ${first.event} ${first.label}${CFG.firstNote ? `, ${CFG.firstNote}` : ""}.`;
       } else {
-        tickerEl.append(flag(e.championIoc), el("strong", null, `${e.slam} ${e.label} · ${e.champion}`),
+        tickerEl.append(flag(e.championIoc), el("strong", null, `${e.event} ${e.label} · ${e.champion}`),
           document.createTextNode(` def. ${e.runnerUp}, ${e.score}`));
       }
     }
@@ -329,25 +359,27 @@
       const groups = d3.groups(list, (e) => e.champion).map(([name, eds]) => ({ name, eds }));
       const top = topWithTies(groups, 10, (g) => g.eds.length)
         .sort((a, b) => b.eds.length - a.eds.length || a.eds[0].date - b.eds[0].date);
+      const keys = keysFor(scope);
       const rows = top.map((g) => ({
         name: g.name,
         ioc: playerIoc(g.name),
-        parts: (scope === "All" ? SLAMS : [scope]).map((s) => ({ color: SLAM_META[s].color, value: g.eds.filter((e) => e.slam === s).length })),
+        parts: keys.map((k) => ({ color: COLOR[k], value: g.eds.filter((e) => keyOf(e) === k).length })),
         label: String(g.eds.length),
         tip: (t) => {
           t.append(ttTitle(g.name));
-          (scope === "All" ? SLAMS : [scope]).forEach((s) => {
-            const won = g.eds.filter((e) => e.slam === s);
-            if (won.length) t.append(Viz.ttRow(SLAM_META[s].color, won.length, `${s}: ${won.map((e) => e.label).join(", ")}`));
+          d3.groups(g.eds, (e) => e.event).sort((a, b) => b[1].length - a[1].length).forEach(([event, won]) => {
+            t.append(Viz.ttRow(COLOR[event] ?? "var(--ink-muted)", won.length, `${event}: ${won.map((e) => e.label).join(", ")}`));
           });
         },
       }));
-      document.getElementById("leaders-legend").hidden = scope !== "All";
-      hstack("leaders-chart", rows, `Most ${scope === "All" ? "Grand Slam" : scope} titles in the Open Era`);
-      table("leaders-table", ["Player", "Nation", "Titles", ...(scope === "All" ? SLAMS.map((s) => SLAM_META[s].short) : ["Years"])],
+      document.getElementById("leaders-legend").hidden = BY_EVENT && scope !== "All";
+      hstack("leaders-chart", rows, `Most ${scope === "All" ? TITLE : tabBy[scope].label} titles`);
+      const split = BY_EVENT && scope !== "All" ? [] : KEYS;
+      table("leaders-table", ["Player", "Nation", "Titles", ...split.map(short), "Won"],
         groups.sort((a, b) => b.eds.length - a.eds.length).map((g) => [
           g.name, countryName(playerIoc(g.name)), String(g.eds.length),
-          ...(scope === "All" ? SLAMS.map((s) => String(g.eds.filter((e) => e.slam === s).length)) : [g.eds.map((e) => e.label).join(", ")]),
+          ...split.map((k) => String(g.eds.filter((e) => keyOf(e) === k).length)),
+          g.eds.map((e) => (scope === "All" || tabBy[scope].events ? editionName(e) : e.label)).join(", "),
         ]));
     }
     slamTabs("leaders-tabs", render);
@@ -376,7 +408,7 @@
       t.append(head);
       top.forEach((g) => {
         const tr = el("tr");
-        const years = g.eds.map((e) => `${scope === "All" ? editionName(e) : e.label} (${surname(e.champion)})`).join(", ");
+        const years = g.eds.map((e) => `${scope === "All" || tabBy[scope].events ? editionName(e) : e.label} (${surname(e.champion)})`).join(", ");
         const name = el("td");
         name.append(who(g.name, playerIoc(g.name)), el("div", "sub", years));
         tr.append(
@@ -401,7 +433,7 @@
     TABS.forEach(({ key, label }) => {
       const list = inScope(key);
       const box = el("div", "nation-count");
-      box.style.setProperty("--c", key === "All" ? "var(--ink-muted)" : SLAM_META[key].color);
+      box.style.setProperty("--c", BY_EVENT && COLOR[key] ? COLOR[key] : "var(--ink-muted)");
       box.append(el("div", "label", label), el("div", "value", String(new Set(list.map((e) => e.championIoc)).size)),
         el("div", "detail", `nations · ${new Set(list.map((e) => e.champion)).size} champions`));
       counts.append(box);
@@ -423,11 +455,11 @@
         const row = el("div", "nation-row");
         const stack = el("div", "stack");
         stack.style.width = `${(n.eds.length / maxN) * 100}%`;
-        (scope === "All" ? SLAMS : [scope]).forEach((s) => {
-          const k = n.eds.filter((e) => e.slam === s).length;
+        keysFor(scope).forEach((key) => {
+          const k = n.eds.filter((e) => keyOf(e) === key).length;
           if (!k) return;
           const seg = el("span");
-          seg.style.setProperty("--c", SLAM_META[s].color);
+          seg.style.setProperty("--c", COLOR[key]);
           seg.style.flex = String(k);
           stack.append(seg);
         });
@@ -457,7 +489,7 @@
       render();
     });
     function render() {
-      const winColor = scope === "All" ? "var(--ink-2)" : SLAM_META[scope].color;
+      const winColor = scopeColor(scope);
       Viz.legend("matches-legend", [{ label: "Won", color: winColor }, { label: "Lost", color: "var(--loss)" }]);
       const value = sort === "won" ? (r) => r.won : (r) => r.won + r.lost;
       const list = data.matchRecords[scope].slice().sort((a, b) => value(b) - value(a) || b.won - a.won).slice(0, 10);
@@ -467,11 +499,11 @@
         parts: [{ color: winColor, value: r.won }, { color: "var(--loss)", value: r.lost }],
         label: `${r.won}–${r.lost}`,
         tip: (t) => {
-          t.append(ttTitle(`${r.player} · ${scope === "All" ? "all majors" : scope}`));
+          t.append(ttTitle(`${r.player} · ${tabBy[scope].label}`));
           t.append(Viz.ttRow(winColor, r.won, "won"), Viz.ttRow("var(--loss)", r.lost, "lost"));
           t.append(ttNote(`${r.won + r.lost} matches · ${((r.won / (r.won + r.lost)) * 100).toFixed(1)}% won`));
         },
-      })), `${sort === "won" ? "Most matches won" : "Most matches played"} at ${scope === "All" ? "Grand Slams" : scope}`);
+      })), `${sort === "won" ? "Most matches won" : "Most matches played"}: ${tabBy[scope].label}`);
       table("matches-table", ["Player", "Nation", "Won", "Lost", "Played", "Win %"], list.map((r) => [
         r.player, countryName(r.ioc), String(r.won), String(r.lost), String(r.won + r.lost), `${((r.won / (r.won + r.lost)) * 100).toFixed(1)}%`,
       ]));
@@ -513,7 +545,7 @@
         pb.append(flag(playerIoc(second)), document.createTextNode(second));
         players.append(pa, el("span", "vs", "vs"), pb);
         const h2h = el("div", "h2h", wa === wb ? `Tied ${wa}–${wb}` : `${surname(first)} ${Math.max(wa, wb)}–${Math.min(wa, wb)}`);
-        const meta = el("div", "meta", eds.map((e) => `${scope === "All" ? editionName(e) : e.label} ${surname(e.champion)}`).join(" · "));
+        const meta = el("div", "meta", eds.map((e) => `${scope === "All" || tabBy[scope].events ? editionName(e) : e.label} ${surname(e.champion)}`).join(" · "));
         row.append(count, players, h2h, meta);
         root.append(row);
       });
@@ -525,7 +557,9 @@
   /* ---------- Footer ---------- */
 
   const wiki = data.meta.fromWikipedia;
-  document.getElementById("wiki-note").textContent = wiki.length
-    ? `${wiki.join(" and ")} rebuilt from the Wikipedia draw pages (CC BY-SA 4.0), which the ATP dataset doesn't cover yet. Covers every major through ${data.meta.through}.`
-    : `Covers every major through ${data.meta.through}.`;
+  const tour = data.meta.tour.toUpperCase();
+  const list = (xs) => (xs.length > 1 ? `${xs.slice(0, -1).join(", ")} and ${xs[xs.length - 1]}` : xs[0]);
+  document.getElementById("wiki-note").textContent = (wiki.length
+    ? `${list(wiki)} rebuilt from the Wikipedia draw pages (CC BY-SA 4.0), which the ${tour} dataset doesn't cover yet. `
+    : "") + `Covers every final through ${data.meta.through}.`;
 })();

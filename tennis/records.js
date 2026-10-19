@@ -1,4 +1,4 @@
-/* ATP Records: Open Era career leaders. */
+/* ATP and WTA Records: Open Era career leaders. The page sets data-src. */
 (async function () {
   "use strict";
 
@@ -13,6 +13,7 @@
   const entities = {};
   Object.keys(nationOf).forEach((n) => (entities[slug(n)] = { name: n, country: nationOf[n], crest: null }));
   const F = Football({ clubs: entities, countries: raw.countries });
+  const WTA = raw.meta.tour === "wta";
   const pct = (w, l) => (w + l ? (100 * w) / (w + l) : 0);
   const fmtPct = (v) => `${v.toFixed(1)}%`;
   const who = (p) => {
@@ -125,7 +126,7 @@
     { label: "Player", render: (p) => F.withSub(who(p), SURFACES.map((s) => `${s} ${p.surface[s].won}–${p.surface[s].lost}`).join(" · ")) },
     { label: "Titles", cls: "num strong", render: (p) => String(p.titles) },
     { label: "Slams", cls: "num hide-sm", render: (p) => String(p.levels.G) },
-    { label: "Masters", cls: "num hide-sm", render: (p) => String(p.levels.M) },
+    { label: WTA ? "WTA 1000" : "Masters", cls: "num hide-sm", render: (p) => String(p.levels.M) },
     { label: "Weeks No. 1", short: "No. 1", cls: "num", render: (p) => String(p.weeks || "–") },
     { label: "Won", cls: "num hide-sm", render: (p) => String(p.won) },
     { label: "Played", cls: "num", render: (p) => String(p.won + p.lost) },

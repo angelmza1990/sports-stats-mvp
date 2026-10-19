@@ -1,4 +1,4 @@
-"""Shared tennis data helpers: ATP match files and Grand Slam draws from Wikipedia."""
+"""Shared tennis data helpers: ATP/WTA match files and tournament draws from Wikipedia."""
 
 from __future__ import annotations
 
@@ -16,7 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = ROOT / "data" / "raw"
 
-SOURCE_URL = "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/atp/atp_matches_{year}.csv"
+SOURCE_URL = "https://raw.githubusercontent.com/Aneeshers/tennis-sackmann-archive/main/{tour}/{tour}_matches_{year}.csv"
 WIKI_API = "https://en.wikipedia.org/w/api.php"
 USER_AGENT = "sports-stats-mvp/1.0 (https://github.com/angelmza1990/sports-stats-mvp)"
 
@@ -24,17 +24,19 @@ SLAMS = ["Australian Open", "Roland Garros", "Wimbledon", "US Open"]
 SLAM_NAMES = {
     "Australian Open": "Australian Open",
     "Australian Open-2": "Australian Open",
+    "Australian Open 2": "Australian Open",
     "Roland Garros": "Roland Garros",
     "Wimbledon": "Wimbledon",
     "US Open": "US Open",
     "Us Open": "US Open",
 }
 WIKI_SLAM_TITLES = {
-    "Australian Open": "{year} Australian Open – Men's singles",
-    "Roland Garros": "{year} French Open – Men's singles",
-    "Wimbledon": "{year} Wimbledon Championships – Men's singles",
-    "US Open": "{year} US Open – Men's singles",
+    "Australian Open": "{year} Australian Open – {gender}'s singles",
+    "Roland Garros": "{year} French Open – {gender}'s singles",
+    "Wimbledon": "{year} Wimbledon Championships – {gender}'s singles",
+    "US Open": "{year} US Open – {gender}'s singles",
 }
+GENDER = {"atp": "Men", "wta": "Women"}
 # Rough (month, day) by which each Slam is over, used to decide what should exist.
 SLAM_DONE_BY = {"Australian Open": (2, 5), "Roland Garros": (6, 15), "Wimbledon": (7, 20), "US Open": (9, 20)}
 # Approximate start dates, used only for Slams rebuilt from Wikipedia.
@@ -43,15 +45,15 @@ SLAM_START = {"Australian Open": (1, 15), "Roland Garros": (5, 25), "Wimbledon":
 OPEN_ERA_START = "19680401"
 
 
-def download(first_year: int, last_year: int, refresh: bool = False) -> list[Path]:
+def download(first_year: int, last_year: int, refresh: bool = False, tour: str = "atp") -> list[Path]:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     paths = []
     for year in range(first_year, last_year + 1):
-        path = RAW_DIR / f"atp_matches_{year}.csv"
+        path = RAW_DIR / f"{tour}_matches_{year}.csv"
         if refresh or not path.exists():
-            print(f"downloading {year}...", file=sys.stderr)
+            print(f"downloading {tour} {year}...", file=sys.stderr)
             try:
-                urllib.request.urlretrieve(SOURCE_URL.format(year=year), path)
+                urllib.request.urlretrieve(SOURCE_URL.format(tour=tour, year=year), path)
             except urllib.error.HTTPError as err:
                 # The source may not have a file for the current season yet.
                 if err.code == 404 and year == last_year:
@@ -88,6 +90,21 @@ def ascii_key(name: str) -> str:
     """Accent- and case-insensitive key for matching player names across sources."""
     plain = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z]", "", plain.lower())
+
+
+# Countries that didn't exist yet: the match files list today's country for the whole career.
+SUCCESSOR_STATES = [
+    ({"CZE", "SVK"}, "TCH", date(1992, 12, 31)),
+    ({"RUS", "UKR", "BLR", "GEO", "KAZ", "UZB", "LAT", "LTU", "EST", "ARM", "AZE", "MDA", "TJK", "TKM", "KGZ"}, "URS", date(1991, 12, 25)),
+    ({"SRB", "CRO", "SLO", "BIH", "MKD", "MNE"}, "YUG", date(1991, 6, 24)),
+]
+
+
+def country_at(ioc: str, when: date) -> str:
+    for successors, old, until in SUCCESSOR_STATES:
+        if ioc in successors and when <= until:
+            return old
+    return ioc
 
 
 def ascii_name(name: str) -> str:
@@ -178,7 +195,9 @@ def _set_part(cell_w: str, cell_l: str) -> str | None:
 
 def parse_slam_draw(wikitext: str) -> list[dict]:
     """Every match in a Wikipedia singles draw page as dicts with winner/loser/score/round."""
-    matches = []
+    # Qualifying brackets share the page; some draws repeat the quarterfinals in two brackets.
+    wikitext = re.split(r"\n==\s*Qualifying\s*==", wikitext)[0]
+    matches, seen = [], set()
     for tpl in _templates(wikitext, r"\d+TeamBracket"):
         p = _params(tpl)
         rounds = sorted({int(k[2:]) for k in p if re.fullmatch(r"RD\d+", k)})
@@ -210,6 +229,10 @@ def parse_slam_draw(wikitext: str) -> list[dict]:
                 else:
                     parts = [part for sw, sl in zip(sets_w, sets_l) if (part := _set_part(sw, sl))]
                     score = " ".join(parts) + (" RET" if "<sup>r</sup>" in raw else "")
+                pair = frozenset((players[w][0], players[l][0]))
+                if pair in seen:
+                    continue
+                seen.add(pair)
                 matches.append({
                     "round": code,
                     "winner_name": players[w][0], "winner_ioc": players[w][1],
@@ -219,25 +242,43 @@ def parse_slam_draw(wikitext: str) -> list[dict]:
     return matches
 
 
-def slam_from_wikipedia(slam: str, year: int, refresh: bool, known_names: dict[str, str]) -> list[dict]:
-    """A whole Slam as ATP-style rows, built from its Wikipedia draw page."""
-    title = WIKI_SLAM_TITLES[slam].format(year=year)
+def draw_from_wikipedia(title: str, base: dict, refresh: bool, known_names: dict[str, str],
+                        known_iocs: dict[str, str] | None = None) -> list[dict]:
+    """A whole singles draw as match-file-style rows, built from its Wikipedia draw page.
+
+    base holds the tournament columns (tourney_name, tourney_level, tourney_date, surface...).
+    Players are renamed to their match-file spelling; known_iocs fills flags the page leaves
+    blank (players competing as neutrals)."""
     cache = RAW_DIR / "wikipedia" / f"{ascii_key(title)}.json"
     matches = parse_slam_draw(fetch_wikitext(title, cache, refresh))
-    if len(matches) != 127 or sum(m["round"] == "F" for m in matches) != 1:
-        raise ValueError(f"{title}: parsed {len(matches)} matches, expected 127 with one final")
-    month, day = SLAM_START[slam]
-    tourney_date = f"{year}{month:02d}{day:02d}"
+    players = {m[f"{side}_name"] for m in matches for side in ("winner", "loser")}
+    # A single-elimination draw has one match fewer than it has players.
+    if not matches or len(matches) != len(players) - 1 or sum(m["round"] == "F" for m in matches) != 1:
+        raise ValueError(f"{title}: parsed {len(matches)} matches for {len(players)} players")
     rows = []
     for m in matches:
-        row = {
-            "tourney_name": slam, "tourney_level": "G", "tourney_date": tourney_date, "draw_size": "128",
-            "surface": {"Roland Garros": "Clay", "Wimbledon": "Grass"}.get(slam, "Hard"),
-            "winner_age": "", "source": "wikipedia", **m,
-        }
+        row = {"winner_age": "", "source": "wikipedia", **base, "draw_size": str(len(players)), **m}
         for side in ("winner", "loser"):
-            row[f"{side}_name"] = known_names.get(ascii_key(row[f"{side}_name"]), ascii_name(row[f"{side}_name"]))
+            name = known_names.get(ascii_key(row[f"{side}_name"]), ascii_name(row[f"{side}_name"]))
+            row[f"{side}_name"] = name
+            if not row[f"{side}_ioc"] and known_iocs:
+                row[f"{side}_ioc"] = known_iocs.get(name, "")
         rows.append(row)
+    return rows
+
+
+def slam_from_wikipedia(slam: str, year: int, refresh: bool, known_names: dict[str, str], tour: str = "atp",
+                        known_iocs: dict[str, str] | None = None) -> list[dict]:
+    """A whole Slam as match-file-style rows, built from its Wikipedia draw page."""
+    title = WIKI_SLAM_TITLES[slam].format(year=year, gender=GENDER[tour])
+    month, day = SLAM_START[slam]
+    base = {
+        "tourney_name": slam, "tourney_level": "G", "tourney_date": f"{year}{month:02d}{day:02d}",
+        "surface": {"Roland Garros": "Clay", "Wimbledon": "Grass"}.get(slam, "Hard"),
+    }
+    rows = draw_from_wikipedia(title, base, refresh, known_names, known_iocs)
+    if len(rows) != 127:
+        raise ValueError(f"{title}: parsed {len(rows)} matches, expected 127")
     return rows
 
 

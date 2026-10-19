@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Women's Grand Slams · Tennis</title>
+  <meta name="description" content="Open Era women's Grand Slam singles: a champions bar chart race, title leaders at each Slam, nations, match records, repeated finals and runners-up.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../series.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/grand-slams-women.json" data-series='{"title": "Grand Slam", "played": "Majors played", "firstNote": "the first Open Era major"}'>
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Tennis</p>
+    <h1>Women's Grand Slams</h1>
+    <p class="lede">
+      Every women's singles major of the Open Era, from Roland Garros 1968 to today: who won them, where they came from, and who kept coming back.
+      Also see <a href="../wta-1000/">WTA 1000</a>, <a href="../wta-records/">WTA Records</a> and <a href="../grand-slams/">the men's Grand Slams</a>.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most majors</h2>
+        <p>The Open Era's top 10 women's Grand Slam champions, updated after every major. Each bar is split by tournament.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="legend" id="race-legend"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Grand Slam">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="leaders">
+      <div class="block-head">
+        <h2>Most titles</h2>
+        <p>The leading champions overall and at each of the four majors.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Tournament" id="leaders-tabs"></div>
+        </div>
+        <div class="legend" id="leaders-legend"></div>
+        <div id="leaders-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="leaders-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="runners-up">
+      <div class="block-head">
+        <h2>So close: most runner-up finishes</h2>
+        <p>Finals lost, overall and at each major.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Tournament" id="runners-tabs"></div>
+        </div>
+        <div class="data-table" id="runners-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="nations">
+      <div class="block-head">
+        <h2>Nations</h2>
+        <p>How many countries have produced a champion, and how many titles and different champions each one has.</p>
+      </div>
+      <div class="nation-counts" id="nation-counts"></div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Tournament" id="nations-tabs"></div>
+        </div>
+        <div class="nation-list" id="nations-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="matches">
+      <div class="block-head">
+        <h2>Match records</h2>
+        <p>Most matches won and played. Each bar shows wins and losses.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Tournament" id="matches-tabs"></div>
+          <div class="segmented" role="tablist" aria-label="Sort by" id="matches-sort"></div>
+        </div>
+        <div class="legend" id="matches-legend"></div>
+        <div id="matches-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="matches-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="finals">
+      <div class="block-head">
+        <h2>The most repeated finals</h2>
+        <p>The matchups that kept meeting with a major on the line.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Tournament" id="finals-tabs"></div>
+        </div>
+        <div class="pair-list" id="finals-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> match results from Jeff Sackmann's WTA dataset
+      (<a href="https://github.com/Aneeshers/tennis-sackmann-archive">archive mirror</a>, CC BY-NC-SA 4.0).
+      <span id="wiki-note"></span> Updated automatically twice a year.
+    </p>
+    <p>
+      <strong>Notes:</strong> Open Era women's singles only, from Roland Garros 1968 (the January 1968 Australian Championships were still amateur).
+      There was no Australian Open in 1986 and two in 1977; Wimbledon 2020 was cancelled.
+      Nationality is the one represented at the time (Mandlíková for Czechoslovakia and Seles for Yugoslavia, for example); Germany includes West Germany.
+      Players who compete as neutrals are shown under their country (Russia, Belarus).
+      Walkovers are left out of match records. Flags by <a href="https://flagpedia.net">Flagpedia</a>.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../series.js"></script>
+</body>
+</html>

@@ -1,13 +1,14 @@
-"""Build the Open Era ATP records dataset used by tennis/atp-records.
+"""Build the Open Era career records datasets used by tennis/atp-records and tennis/wta-records.
 
 Counts titles and match wins (overall and by surface) for every player from
-Jeff Sackmann's ATP match files since April 1968, adds the Grand Slams the
-files don't cover yet (from Wikipedia draws) and the manual title supplement,
-and reads weeks at No. 1 and year-end No. 1s from Wikipedia.
+Jeff Sackmann's ATP and WTA match files since April 1968, adds the Grand Slams
+the files don't cover yet (from Wikipedia draws) and the manual ATP title
+supplement, and reads weeks at No. 1 and year-end No. 1s from Wikipedia.
 
 Usage:
-    python3 scripts/build_atp_records.py            # use cached files
-    python3 scripts/build_atp_records.py --refresh  # re-download everything
+    python3 scripts/build_atp_records.py              # both tours, cached files
+    python3 scripts/build_atp_records.py --tour wta   # WTA only
+    python3 scripts/build_atp_records.py --refresh    # re-download everything
 """
 
 from __future__ import annotations
@@ -27,39 +28,65 @@ from tennis_data import (
     read_matches, slam_from_wikipedia,
 )
 
-OUTPUT = ROOT / "tennis" / "atp-records" / "data" / "atp-records.json"
 SUPPLEMENT = ROOT / "data" / "manual" / "big_three_supplement.csv"
-NO1_PAGE = "List of ATP number 1 ranked singles tennis players"
 SURFACES = ["Hard", "Clay", "Grass", "Carpet"]
-TITLE_LEVELS = set("GMAFO")  # Davis Cup (D) and team events are not titles
 TEAM_EVENTS = ("atp cup", "united cup", "laver cup")
 TOP_N = 60
 
-EXPECTED_TITLES = {"Roger Federer": 103, "Rafael Nadal": 92}
-# Counted from match data, a few pre-1990 totals can differ by one from the ATP's own tally.
-NEAR_TITLES = {"John McEnroe": 77, "Ivan Lendl": 94, "Jimmy Connors": 109}
-ACTIVE_MIN = {"Novak Djokovic": 101}
-EXPECTED_WEEKS = {"Novak Djokovic": 428, "Roger Federer": 310, "Pete Sampras": 286}
+TOURS = {
+    "atp": {
+        "output": ROOT / "tennis" / "atp-records" / "data" / "atp-records.json",
+        "no1": "List of ATP number 1 ranked singles tennis players",
+        # Davis Cup (D) counts for match records only; team events are not titles.
+        "levels": {"G", "M", "A", "F", "O", "D"},
+        "title_levels": set("GMAFO"),
+        "titles": {"Roger Federer": 103, "Rafael Nadal": 92},
+        # Counted from match data, a few pre-1990 totals can differ by one from the ATP's own tally.
+        "near": {"John McEnroe": (77, 1), "Ivan Lendl": (94, 1), "Jimmy Connors": (109, 1)},
+        "active": {"Novak Djokovic": 101},
+        "weeks": {"Novak Djokovic": 428, "Roger Federer": 310, "Pete Sampras": 286},
+        "record": ("Roger Federer", 1251, 275),
+    },
+    "wta": {
+        "output": ROOT / "tennis" / "wta-records" / "data" / "wta-records.json",
+        "no1": "List of WTA number 1 ranked singles tennis players",
+        # W: tour events before 2000; T1-T5: the tiers (1988-2008); PM/P/I: Premier and International (2009-2020)
+        # and WTA 1000/500/250 since 2021. Billie Jean King Cup (D) counts for match records only.
+        "levels": {"G", "F", "O", "W", "T1", "T2", "T3", "T4", "T5", "PM", "P", "I", "D"},
+        "title_levels": {"G", "F", "O", "W", "T1", "T2", "T3", "T4", "T5", "PM", "P", "I"},
+        "titles": {"Serena Williams": 73, "Venus Williams": 49, "Martina Hingis": 43, "Justine Henin": 43,
+                   "Kim Clijsters": 41, "Maria Sharapova": 36},
+        # The WTA's early records are incomplete in the match data.
+        "near": {"Martina Navratilova": (167, 3), "Steffi Graf": (107, 2), "Chris Evert": (157, 12)},
+        "active": {},
+        "weeks": {"Steffi Graf": 377, "Martina Navratilova": 332, "Serena Williams": 319, "Chris Evert": 260},
+        "record": None,
+    },
+}
 
 
-def load(refresh: bool) -> tuple[list[dict], list[str]]:
-    paths = download(1968, date.today().year, refresh)
-    rows = read_matches(paths, lambda r: r["tourney_date"] >= OPEN_ERA_START and r["tourney_level"] in "GMAFOD")
+def load(refresh: bool, tour: str) -> tuple[list[dict], list[str]]:
+    cfg = TOURS[tour]
+    paths = download(1968, date.today().year, refresh, tour)
+    rows = read_matches(paths, lambda r: r["tourney_date"] >= OPEN_ERA_START and r["tourney_level"] in cfg["levels"])
+    rows = [r for r in rows if "qual" not in r["tourney_name"].lower()]
     known = {ascii_key(r[f"{s}_name"]): r[f"{s}_name"] for r in rows for s in ("winner", "loser")}
+    iocs = {r[f"{s}_name"]: r[f"{s}_ioc"] for r in rows for s in ("winner", "loser")}
     added = []
     slam_rows = [r for r in rows if r["tourney_level"] == "G" and r["tourney_name"] in SLAM_NAMES]
     for slam, year in missing_slams(slam_rows):
         try:
-            rows.extend(slam_from_wikipedia(slam, year, refresh, known))
+            rows.extend(slam_from_wikipedia(slam, year, refresh, known, tour, iocs))
             added.append(f"{slam} {year}")
         except LookupError as err:
             print(f"skipping {slam} {year}: {err}", file=sys.stderr)
     return rows, added
 
 
-def build(refresh: bool) -> dict:
-    rows, added = load(refresh)
-    overrides = load_overrides()
+def build(refresh: bool, tour: str) -> dict:
+    cfg = TOURS[tour]
+    rows, added = load(refresh, tour)
+    overrides = load_overrides(tour)
     stats: dict[str, Counter] = defaultdict(Counter)
     iocs: dict[str, Counter] = defaultdict(Counter)
     title_years: dict[str, list] = defaultdict(list)
@@ -71,7 +98,7 @@ def build(refresh: bool) -> dict:
         for side in ("winner", "loser"):
             name = r[f"{side}_name"]
             iocs[name][nationality(name, r[f"{side}_ioc"], when, overrides)] += 1
-        if r["round"] == "F" and r["tourney_level"] in TITLE_LEVELS and not r["tourney_name"].lower().startswith(TEAM_EVENTS):
+        if r["round"] == "F" and r["tourney_level"] in cfg["title_levels"] and not r["tourney_name"].lower().startswith(TEAM_EVENTS):
             w = r["winner_name"]
             stats[w]["titles"] += 1
             if surface:
@@ -88,7 +115,7 @@ def build(refresh: bool) -> dict:
 
     # Titles newer than the match files (e.g. Djokovic's 2026 Beijing title).
     with SUPPLEMENT.open(encoding="utf-8", newline="") as f:
-        for r in csv.DictReader(f):
+        for r in csv.DictReader(f) if tour == "atp" else []:
             year = int(r["final_date"][:4])
             if r["round"] == "F" and str(year) > last_date[:4] or (r["round"] == "F" and r["final_date"] > last_date):
                 w = r["winner_name"]
@@ -97,16 +124,32 @@ def build(refresh: bool) -> dict:
                 stats[w][f"level_{r['tourney_level']}"] += 1
                 title_years[w].append(year)
 
+    # The WTA's level codes don't mark its top tier consistently: count WTA 1000 titles (and Tier I,
+    # Premier Mandatory and Premier 5) from the WTA 1000 dataset, limited to finals in the match files.
+    if tour == "wta":
+        thousand = json.loads((ROOT / "tennis" / "wta-1000" / "data" / "wta-1000.json").read_text(encoding="utf-8"))
+        for c in stats.values():
+            c["level_M"] = 0
+        for e in thousand["editions"]:
+            if e["source"] == "match data":
+                stats[e["champion"]]["level_M"] += 1
+
     # Weeks at No. 1 and year-end No. 1s.
-    text = W.fetch_raw(NO1_PAGE, RAW_DIR / "wikipedia" / "list-of-atp-number-1-ranked-singles-tennis-players.wiki", refresh)
+    text = W.fetch_raw(cfg["no1"], RAW_DIR / "wikipedia" / f"{cfg['no1'].lower().replace(' ', '-')}.wiki", refresh)
     by_key = {ascii_key(n): n for n in stats}
+    winners = sorted((n for n in stats if stats[n]["titles"]), key=lambda n: -stats[n]["titles"])
+
+    def lookup(name: str) -> str:
+        """Match-file spelling; married names on Wikipedia ("Evonne Goolagong Cawley") match the name they extend."""
+        key = ascii_key(name)
+        return by_key.get(key) or next((n for n in winners if key.startswith(ascii_key(n))), name)
     weeks = {}
-    totals = next(g for g in W.all_tables(text) if W.header_labels(g[0])[:3] == ["No.", "Player", "Total"])
+    totals = next(g for g in W.all_tables(text) if W.header_labels(g[0])[:3] in (["No.", "Player", "Total"], ["No.", "Player", "Weeks"]))
     for row in totals[1:]:
         if len(row) < 3 or W.number(row[2]["text"]) is None:
             continue
         name = W.person(row[1]["text"])
-        key = by_key.get(ascii_key(name), name)
+        key = lookup(name)
         weeks[key] = W.number(row[2]["text"])
         iocs[key][W.flag_code(row[1]["text"])] += 0
     year_end = []
@@ -119,7 +162,7 @@ def build(refresh: bool) -> dict:
                 name = re.sub(r"\s*\(\d+\)\s*$", "", W.person(cell) or "").strip()
                 # The current season's year-end No. 1 isn't decided until the season ends.
                 if year and name and 1973 <= year < date.today().year:
-                    year_end.append({"year": year, "player": by_key.get(ascii_key(name), name)})
+                    year_end.append({"year": year, "player": lookup(name)})
     year_end = sorted({y["year"]: y for y in year_end}.values(), key=lambda y: y["year"])
 
     def nation(name: str) -> str | None:
@@ -168,11 +211,12 @@ def build(refresh: bool) -> dict:
     return {
         "meta": {
             "generated": date.today().isoformat(),
-            "through": f"ATP match data through {datetime.strptime(last_date, '%Y%m%d').strftime('%B %Y')}" + (f", plus {', '.join(added)}" if added else ""),
+            "through": f"{tour.upper()} match data through {datetime.strptime(last_date, '%Y%m%d').strftime('%B %Y')}" + (f", plus {', '.join(added)}" if added else ""),
             "sources": [
-                "Jeff Sackmann / Tennis Abstract ATP match data (CC BY-NC-SA 4.0)",
-                f"https://en.wikipedia.org/wiki/{NO1_PAGE.replace(' ', '_')}",
+                f"Jeff Sackmann / Tennis Abstract {tour.upper()} match data (CC BY-NC-SA 4.0)",
+                f"https://en.wikipedia.org/wiki/{cfg['no1'].replace(' ', '_')}",
             ],
+            "tour": tour,
         },
         "countries": {c: {"name": COUNTRIES.get(c, (c, None))[0], "flag": COUNTRIES.get(c, (c, None))[1]} for c in sorted(codes)},
         "players": players,
@@ -183,25 +227,28 @@ def build(refresh: bool) -> dict:
     }
 
 
-def validate(data: dict) -> list[str]:
+def validate(data: dict, tour: str) -> list[str]:
+    cfg = TOURS[tour]
     errors = []
     by = {p["name"]: p for p in data["players"]}
-    for name, n in EXPECTED_TITLES.items():
+    for name, n in cfg["titles"].items():
         if by.get(name, {}).get("titles") != n:
             errors.append(f"{name}: {by.get(name, {}).get('titles')} titles, expected {n}")
-    for name, n in NEAR_TITLES.items():
-        if abs(by.get(name, {}).get("titles", 0) - n) > 1:
+    for name, (n, tolerance) in cfg["near"].items():
+        if abs(by.get(name, {}).get("titles", 0) - n) > tolerance:
             errors.append(f"{name}: {by.get(name, {}).get('titles')} titles, expected about {n}")
-    for name, n in ACTIVE_MIN.items():
+    for name, n in cfg["active"].items():
         if by.get(name, {}).get("titles", 0) < n:
             errors.append(f"{name}: fewer than {n} titles")
-    for name, n in EXPECTED_WEEKS.items():
+    for name, n in cfg["weeks"].items():
         if by.get(name, {}).get("weeks", 0) < n:
             errors.append(f"{name}: {by.get(name, {}).get('weeks')} weeks at No. 1, expected at least {n}")
-    fed = by.get("Roger Federer", {})
-    if (fed.get("won"), fed.get("lost")) != (1251, 275):
-        errors.append(f"Federer win-loss {fed.get('won')}-{fed.get('lost')}, expected 1251-275")
-    if len(data["yearEnd"]) < 50:
+    if cfg["record"]:
+        name, won, lost = cfg["record"]
+        p = by.get(name, {})
+        if (p.get("won"), p.get("lost")) != (won, lost):
+            errors.append(f"{name} win-loss {p.get('won')}-{p.get('lost')}, expected {won}-{lost}")
+    if len(data["yearEnd"]) < 49:
         errors.append("year-end No. 1 list incomplete")
     if any(not p["nation"] for p in data["players"]):
         errors.append(f"players without nationality: {[p['name'] for p in data['players'] if not p['nation']][:5]}")
@@ -211,20 +258,28 @@ def validate(data: dict) -> list[str]:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--refresh", action="store_true", help="re-download raw files")
+    parser.add_argument("--tour", choices=list(TOURS), action="append", help="default: both")
     args = parser.parse_args()
-    data = build(args.refresh)
-    errors = validate(data)
-    if errors:
-        sys.exit("validation failed:\n  " + "\n  ".join(errors))
-    if OUTPUT.exists():
-        old = json.loads(OUTPUT.read_text(encoding="utf-8"))
-        strip = lambda d: {**d, "meta": {k: v for k, v in d["meta"].items() if k != "generated"}}
-        if strip(old) == strip(data):
-            print(f"{OUTPUT.relative_to(ROOT)} is up to date")
-            return
-    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT.write_text(json.dumps(data, separators=(",", ":"), ensure_ascii=False), encoding="utf-8")
-    print(f"wrote {OUTPUT.relative_to(ROOT)}: {len(data['players'])} players")
+    failed = False
+    for tour in args.tour or list(TOURS):
+        output = TOURS[tour]["output"]
+        data = build(args.refresh, tour)
+        errors = validate(data, tour)
+        if errors:
+            print(f"{tour}: validation failed:\n  " + "\n  ".join(errors), file=sys.stderr)
+            failed = True
+            continue
+        if output.exists():
+            old = json.loads(output.read_text(encoding="utf-8"))
+            strip = lambda d: {**d, "meta": {k: v for k, v in d["meta"].items() if k != "generated"}}
+            if strip(old) == strip(data):
+                print(f"{output.relative_to(ROOT)} is up to date")
+                continue
+        output.parent.mkdir(parents=True, exist_ok=True)
+        output.write_text(json.dumps(data, separators=(",", ":"), ensure_ascii=False), encoding="utf-8")
+        print(f"wrote {output.relative_to(ROOT)}: {len(data['players'])} players")
+    if failed:
+        sys.exit(1)
 
 
 if __name__ == "__main__":
