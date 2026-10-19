@@ -283,7 +283,8 @@ def flag_code(text: str) -> str | None:
     for m in re.finditer(r"\{\{\s*([^{}|]+?)\s*(?:\|([^{}|]*))?(?:\|[^{}]*)?\}\}", text):
         name, arg = m.group(1).strip(), (m.group(2) or "").strip()
         lname = name.lower()
-        if lname.startswith(("flag", "fb")) and lname not in ("flagathlete",):
+        # flag templates, plus the sport-specific ones ({{ru-big|…}}, {{bk-big|…}}, {{vb|…}}, {{fh-big|…}}).
+        if lname.startswith(("flag", "fb", "ru-", "bk", "vb", "fh", "ru")) and lname not in ("flagathlete",):
             if re.fullmatch(r"[A-Z]{3}", arg):
                 return arg
             code = COUNTRY_NAMES.get(arg.lower())
