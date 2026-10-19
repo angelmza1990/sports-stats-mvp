@@ -108,7 +108,7 @@ def parse_table(table: str) -> list[list[dict]]:
     """Rows of cells ({text, attrs, header}) with rowspans and colspans expanded."""
     body = table.split("\n", 1)[1] if "\n" in table else ""
     # Drop nested tables entirely.
-    rows_raw = re.split(r"\n\|-[^\n]*", "\n" + body)
+    rows_raw = re.split(r"\n[ \t]*\|-[^\n]*", "\n" + body)
     grid: list[list[dict]] = []
     pending: dict[int, tuple[int, dict]] = {}
     for raw in rows_raw:

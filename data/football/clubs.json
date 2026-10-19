@@ -2,12 +2,82 @@
  "_note": "Clubs shown with a crest. 'aliases' are Wikipedia link targets and labels that refer to the club; 'espn' is the ESPN CDN team id for the crest (null = lettered badge). 'country' is today's country; finals keep the country of the time.",
  "clubs": [
   {
+   "id": "almagro",
+   "name": "Almagro",
+   "country": "ARG",
+   "espn": "2",
+   "aliases": [
+    "Almagro",
+    "Club Almagro"
+   ]
+  },
+  {
+   "id": "alumni",
+   "name": "Alumni",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Alumni",
+    "Alumni Athletic Club"
+   ]
+  },
+  {
    "id": "argentinos-juniors",
    "name": "Argentinos Juniors",
    "country": "ARG",
    "espn": "3",
    "aliases": [
     "Argentinos Juniors"
+   ]
+  },
+  {
+   "id": "banfield",
+   "name": "Banfield",
+   "country": "ARG",
+   "espn": "235",
+   "aliases": [
+    "Banfield",
+    "Club Atlético Banfield"
+   ]
+  },
+  {
+   "id": "barracas-ac",
+   "name": "Barracas AC",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Barracas AC",
+    "Barracas Athletic Club"
+   ]
+  },
+  {
+   "id": "barracas-central",
+   "name": "Barracas Central",
+   "country": "ARG",
+   "espn": "10060",
+   "aliases": [
+    "Barracas Central"
+   ]
+  },
+  {
+   "id": "belgrano",
+   "name": "Belgrano",
+   "country": "ARG",
+   "espn": "4",
+   "aliases": [
+    "Belgrano",
+    "Club Atlético Belgrano"
+   ]
+  },
+  {
+   "id": "belgrano-ac",
+   "name": "Belgrano AC",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Belgrano AC",
+    "Belgrano Athletic",
+    "Belgrano Athletic Club"
    ]
   },
   {
@@ -21,6 +91,64 @@
    ]
   },
   {
+   "id": "buenos-aires-rosario-railway",
+   "name": "Buenos Aires & Rosario Railway",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Buenos Aires & Rosario Railway",
+    "Buenos Aires and Rosario Railway A.C."
+   ]
+  },
+  {
+   "id": "chacarita-juniors",
+   "name": "Chacarita Juniors",
+   "country": "ARG",
+   "espn": "6",
+   "aliases": [
+    "Chacarita Juniors"
+   ]
+  },
+  {
+   "id": "colon",
+   "name": "Colón",
+   "country": "ARG",
+   "espn": "7",
+   "aliases": [
+    "Club Atlético Colón",
+    "Colón"
+   ]
+  },
+  {
+   "id": "defensa-y-justicia",
+   "name": "Defensa y Justicia",
+   "country": "ARG",
+   "espn": "8950",
+   "aliases": [
+    "Defensa y Justicia"
+   ]
+  },
+  {
+   "id": "del-plata",
+   "name": "Del Plata",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Club Atlético Del Plata",
+    "Del Plata"
+   ]
+  },
+  {
+   "id": "dock-sud",
+   "name": "Dock Sud",
+   "country": "ARG",
+   "espn": "10103",
+   "aliases": [
+    "Dock Sud",
+    "Sportivo Dock Sud"
+   ]
+  },
+  {
    "id": "estudiantes",
    "name": "Estudiantes",
    "country": "ARG",
@@ -29,6 +157,86 @@
     "Club Estudiantes de La Plata",
     "Estudiantes",
     "Estudiantes de La Plata"
+   ]
+  },
+  {
+   "id": "estudiantes-ba",
+   "name": "Estudiantes (BA)",
+   "country": "ARG",
+   "espn": "17352",
+   "aliases": [
+    "Estudiantes (BA)",
+    "Estudiantes de Buenos Aires"
+   ]
+  },
+  {
+   "id": "estudiantil-porteno",
+   "name": "Estudiantil Porteño",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Estudiantil Porteño"
+   ]
+  },
+  {
+   "id": "ferro-carril-oeste",
+   "name": "Ferro Carril Oeste",
+   "country": "ARG",
+   "espn": "9743",
+   "aliases": [
+    "Club Ferro Carril Oeste",
+    "Ferro Carril Oeste"
+   ]
+  },
+  {
+   "id": "flores",
+   "name": "Flores",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Flores",
+    "Flores Athletic Club"
+   ]
+  },
+  {
+   "id": "gimnasia-y-esgrima-ba",
+   "name": "Gimnasia y Esgrima (BA)",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Gimnasia y Esgrima (BA)",
+    "Gimnasia y Esgrima de Buenos Aires"
+   ]
+  },
+  {
+   "id": "gimnasia-y-esgrima-lp",
+   "name": "Gimnasia y Esgrima (LP)",
+   "country": "ARG",
+   "espn": "9",
+   "aliases": [
+    "Club de Gimnasia y Esgrima La Plata",
+    "Gimnasia y Esgrima (LP)",
+    "Gimnasia y Esgrima La Plata"
+   ]
+  },
+  {
+   "id": "godoy-cruz",
+   "name": "Godoy Cruz",
+   "country": "ARG",
+   "espn": "6756",
+   "aliases": [
+    "Godoy Cruz",
+    "Godoy Cruz Antonio Tomba"
+   ]
+  },
+  {
+   "id": "huracan",
+   "name": "Huracán",
+   "country": "ARG",
+   "espn": "10",
+   "aliases": [
+    "Club Atlético Huracán",
+    "Huracán"
    ]
   },
   {
@@ -52,12 +260,92 @@
    ]
   },
   {
+   "id": "lobos",
+   "name": "Lobos",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Lobos",
+    "Lobos Athletic Club"
+   ]
+  },
+  {
+   "id": "lomas-ac",
+   "name": "Lomas AC",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Lomas AC",
+    "Lomas Athletic",
+    "Lomas Athletic Club"
+   ]
+  },
+  {
+   "id": "lomas-academy",
+   "name": "Lomas Academy",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Lomas Academy"
+   ]
+  },
+  {
    "id": "newell-s-old-boys",
    "name": "Newell's Old Boys",
    "country": "ARG",
    "espn": "14",
    "aliases": [
     "Newell's Old Boys"
+   ]
+  },
+  {
+   "id": "nueva-chicago",
+   "name": "Nueva Chicago",
+   "country": "ARG",
+   "espn": "236",
+   "aliases": [
+    "Club Atlético Nueva Chicago",
+    "Nueva Chicago"
+   ]
+  },
+  {
+   "id": "old-caledonians",
+   "name": "Old Caledonians",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Old Caledonians",
+    "Old Caledonians Football Club"
+   ]
+  },
+  {
+   "id": "platense",
+   "name": "Platense",
+   "country": "ARG",
+   "espn": "7764",
+   "aliases": [
+    "Club Atlético Platense",
+    "Platense"
+   ]
+  },
+  {
+   "id": "porteno",
+   "name": "Porteño",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Club Atlético Porteño",
+    "Porteño"
+   ]
+  },
+  {
+   "id": "quilmes",
+   "name": "Quilmes",
+   "country": "ARG",
+   "espn": "2741",
+   "aliases": [
+    "Quilmes",
+    "Quilmes Atlético Club"
    ]
   },
   {
@@ -71,6 +359,16 @@
    ]
   },
   {
+   "id": "racing-c",
+   "name": "Racing (C)",
+   "country": "ARG",
+   "espn": "19145",
+   "aliases": [
+    "Racing (C)",
+    "Racing de Córdoba"
+   ]
+  },
+  {
    "id": "river-plate",
    "name": "River Plate",
    "country": "ARG",
@@ -81,6 +379,35 @@
    ]
   },
   {
+   "id": "rosario-ac",
+   "name": "Rosario AC",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Club Atlético del Rosario",
+    "Rosario AC"
+   ]
+  },
+  {
+   "id": "rosario-central",
+   "name": "Rosario Central",
+   "country": "ARG",
+   "espn": "17",
+   "aliases": [
+    "Rosario Central"
+   ]
+  },
+  {
+   "id": "san-isidro",
+   "name": "San Isidro",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Club Atlético San Isidro",
+    "San Isidro"
+   ]
+  },
+  {
    "id": "san-lorenzo",
    "name": "San Lorenzo",
    "country": "ARG",
@@ -88,6 +415,74 @@
    "aliases": [
     "San Lorenzo",
     "San Lorenzo de Almagro"
+   ]
+  },
+  {
+   "id": "sportivo-barracas",
+   "name": "Sportivo Barracas",
+   "country": "ARG",
+   "espn": "17706",
+   "aliases": [
+    "Sportivo Barracas"
+   ]
+  },
+  {
+   "id": "sportivo-palermo",
+   "name": "Sportivo Palermo",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "Sportivo Palermo"
+   ]
+  },
+  {
+   "id": "st-andrew-s",
+   "name": "St. Andrew's",
+   "country": "ARG",
+   "espn": null,
+   "aliases": [
+    "St. Andrew's",
+    "St. Andrew's Athletic Club"
+   ]
+  },
+  {
+   "id": "talleres-c",
+   "name": "Talleres (C)",
+   "country": "ARG",
+   "espn": "19",
+   "aliases": [
+    "Talleres (C)",
+    "Talleres de Córdoba"
+   ]
+  },
+  {
+   "id": "temperley",
+   "name": "Temperley",
+   "country": "ARG",
+   "espn": "10162",
+   "aliases": [
+    "Club Atlético Temperley",
+    "Temperley"
+   ]
+  },
+  {
+   "id": "tigre",
+   "name": "Tigre",
+   "country": "ARG",
+   "espn": "7767",
+   "aliases": [
+    "Club Atlético Tigre",
+    "Tigre"
+   ]
+  },
+  {
+   "id": "union",
+   "name": "Unión",
+   "country": "ARG",
+   "espn": "20",
+   "aliases": [
+    "Unión",
+    "Unión de Santa Fe"
    ]
   },
   {
@@ -330,6 +725,15 @@
    "espn": "4132",
    "aliases": [
     "Unión Española"
+   ]
+  },
+  {
+   "id": "tp-mazembe",
+   "name": "TP Mazembe",
+   "country": "COD",
+   "espn": "10674",
+   "aliases": [
+    "TP Mazembe"
    ]
   },
   {
@@ -735,6 +1139,34 @@
    ]
   },
   {
+   "id": "kashima-antlers",
+   "name": "Kashima Antlers",
+   "country": "JPN",
+   "espn": "7115",
+   "aliases": [
+    "Kashima Antlers"
+   ]
+  },
+  {
+   "id": "al-hilal",
+   "name": "Al Hilal",
+   "country": "KSA",
+   "espn": "929",
+   "aliases": [
+    "Al Hilal",
+    "Al Hilal SFC"
+   ]
+  },
+  {
+   "id": "raja-casablanca",
+   "name": "Raja Casablanca",
+   "country": "MAR",
+   "espn": "8618",
+   "aliases": [
+    "Raja Casablanca"
+   ]
+  },
+  {
    "id": "cruz-azul",
    "name": "Cruz Azul",
    "country": "MEX",
@@ -751,6 +1183,16 @@
    "aliases": [
     "C.D. Guadalajara",
     "Guadalajara"
+   ]
+  },
+  {
+   "id": "pachuca",
+   "name": "Pachuca",
+   "country": "MEX",
+   "espn": "234",
+   "aliases": [
+    "Pachuca",
+    "C.F. Pachuca"
    ]
   },
   {
@@ -937,6 +1379,16 @@
    "aliases": [
     "Galatasaray",
     "Galatasaray S.K. (football)"
+   ]
+  },
+  {
+   "id": "al-ain",
+   "name": "Al Ain",
+   "country": "UAE",
+   "espn": "7128",
+   "aliases": [
+    "Al Ain",
+    "Al Ain FC"
    ]
   },
   {

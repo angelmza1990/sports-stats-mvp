@@ -49,7 +49,24 @@ COUNTRIES = {
     "ARM": ("Armenia", "am"), "BLR": ("Belarus", "by"), "GDR": ("East Germany", None), "COD": ("DR Congo", "cd"),
     "CYP": ("Cyprus", "cy"), "KAZ": ("Kazakhstan", "kz"), "ISL": ("Iceland", "is"), "HON": ("Honduras", "hn"),
     "PAN": ("Panama", "pa"), "JAM": ("Jamaica", "jm"), "MKD": ("North Macedonia", "mk"), "KOS": ("Kosovo", "xk"),
+    "KSA": ("Saudi Arabia", "sa"), "UAE": ("United Arab Emirates", "ae"), "QAT": ("Qatar", "qa"), "TUN": ("Tunisia", "tn"),
+    "NZL": ("New Zealand", "nz"), "CHN": ("China", "cn"), "IRN": ("Iran", "ir"),
 }
+
+CONFEDERATIONS = {
+    "CONMEBOL": {"ARG", "BRA", "URU", "PAR", "CHI", "COL", "ECU", "PER", "BOL", "VEN"},
+    "CONCACAF": {"MEX", "CRC", "USA", "HON", "PAN", "JAM", "CAN", "SLV", "GUA", "TRI"},
+    "AFC": {"JPN", "KOR", "KSA", "UAE", "QAT", "CHN", "IRN", "AUS"},
+    "CAF": {"EGY", "MAR", "COD", "TUN", "RSA", "ALG", "NGA", "CMR", "GHA", "CIV", "SEN"},
+    "OFC": {"NZL"},
+}
+
+
+def confederation(code: str | None) -> str:
+    for name, codes in CONFEDERATIONS.items():
+        if code in codes:
+            return name
+    return "UEFA"
 
 LEG_NOTES = {"CEDFF2": "penalties", "FBCEB1": "extra time", "D0F0C0": "playoff", "D1F7A5": "replay"}
 
@@ -59,7 +76,7 @@ COMPETITIONS = {
         "output": ROOT / "football" / "copa-libertadores" / "data" / "copa-libertadores.json",
         "finals": ("List of Copa Libertadores finals", r"==\s*List of finals\s*==", 1),
         "alltime": ("Historical table of the Copa Libertadores", r"==\s*Ranking\s*==", 0,
-                    {"club": 1, "country": 2, "part": 3, "pld": 5, "w": 6, "d": 7, "l": 8, "gf": 9, "ga": 10}),
+                    {"club": 1, "country": 2, "part": 3, "pld": 5, "w": 6, "d": 7, "l": 8, "gf": 9, "ga": 10, "pts": 12}),
         "scorers": ("List of Copa Libertadores top scorers", r"==\s*All-time top scorers\s*==", 0,
                     {"nation": 1, "player": 2, "goals": 3, "apps": 4, "clubs": 7}),
         "appearances": ("Copa Libertadores records and statistics", r"===\s*Appearances\s*===", 0,
@@ -74,6 +91,7 @@ COMPETITIONS = {
             "San Lorenzo": 1, "Colo-Colo": 1, "Once Caldas": 1, "LDU Quito": 1, "Corinthians": 1,
             "Atlético Mineiro": 1, "Vasco da Gama": 1, "Fluminense": 1, "Botafogo": 1,
         },
+        "pointsRule": "3 points per win, 1 per draw",
         "notes": [
             "All-time club records come from Wikipedia's historical table and include every stage of the competition.",
         ],
@@ -83,7 +101,7 @@ COMPETITIONS = {
         "output": ROOT / "football" / "champions-league" / "data" / "champions-league.json",
         "finals": ("List of European Cup and UEFA Champions League finals", r"==\s*List of finals\s*==", 1),
         "alltime": ("European Cup and UEFA Champions League records and statistics", r"===\s*All-time points table\s*===", 0,
-                    {"club": 1, "country": 1, "part": 2, "pld": 3, "w": 4, "d": 5, "l": 6, "gf": 7, "ga": 8}),
+                    {"club": 1, "country": 1, "part": 2, "pld": 3, "w": 4, "d": 5, "l": 6, "gf": 7, "ga": 8, "pts": 10}),
         "scorers": ("List of UEFA Champions League top scorers", r"==\s*All-time top scorers\s*==", 0,
                     {"nation": 1, "player": 1, "goals": 2, "apps": 3, "years": 5, "clubs": 6}),
         "appearances": ("List of footballers with 100 or more UEFA Champions League appearances", r"==\s*Players\s*==", 0,
@@ -97,6 +115,7 @@ COMPETITIONS = {
             "Steaua București": 1, "Marseille": 1, "Borussia Dortmund": 1, "Manchester City": 1, "Feyenoord": 1,
             "Aston Villa": 1, "PSV Eindhoven": 1, "Red Star Belgrade": 1,
         },
+        "pointsRule": "2 points per win, 1 per draw; ties won on penalties count as draws",
         "notes": [
             "Includes the European Cup (1955–1992). Seasons are labelled by the year of the final.",
             "All-time club records list Wikipedia's top 25, including qualifying rounds.",
@@ -130,7 +149,7 @@ class ClubIndex:
         target, text = found[0]
         cid = self.alias.get(target.lower()) or self.alias.get(text.lower())
         if not cid:
-            cid = slug(text)
+            cid = slug(target)  # the linked article identifies the club even when labels differ
             if cid not in self.clubs:
                 self.clubs[cid] = {"id": cid, "name": text, "country": country, "espn": None, "aliases": []}
                 self.unmapped[cid] = f"{text} ({target})"
@@ -188,7 +207,7 @@ def parse_alltime(rows: list[list[dict]], cols: dict, clubs: ClubIndex) -> list[
         out.append({
             "club": clubs.resolve(cell(row, cols["club"]), country),
             "country": country,
-            **{k: W.number(cell(row, cols[k])) for k in ("part", "pld", "w", "d", "l", "gf", "ga")},
+            **{k: W.number(cell(row, cols[k])) for k in ("part", "pld", "w", "d", "l", "gf", "ga", "pts")},
         })
     return out
 
@@ -227,8 +246,8 @@ def build(key: str, refresh: bool) -> dict:
 
     # Keep the clubs that lead any all-time metric, plus every finalist.
     keep = set()
-    for metric in ("w", "gf", "part", "pld"):
-        keep |= {r["club"] for r in sorted(alltime, key=lambda r: -(r[metric] or 0))[:20]}
+    for metric, n in (("w", 20), ("gf", 20), ("part", 20), ("pld", 20), ("pts", 30)):
+        keep |= {r["club"] for r in sorted(alltime, key=lambda r: -(r[metric] or 0))[:n]}
     alltime = [r for r in alltime if r["club"] in keep]
     used = {f["champion"] for f in finals} | {f["runnerUp"] for f in finals} | keep
 
@@ -249,6 +268,7 @@ def build(key: str, refresh: bool) -> dict:
             "sources": [f"https://en.wikipedia.org/wiki/{t[0].replace(' ', '_')}" for t in
                         (comp["finals"], comp["alltime"], comp["scorers"], comp["appearances"])],
             "notes": comp["notes"],
+            "pointsRule": comp["pointsRule"],
         },
         "countries": {c: {"name": COUNTRIES[c][0], "flag": COUNTRIES[c][1]} if c in COUNTRIES else {"name": c, "flag": None}
                       for c in sorted(codes)},
@@ -280,14 +300,229 @@ def validate(key: str, data: dict) -> list[str]:
             errors.append(f"missing country in final {f['season']}")
     if len(data["alltime"]) < 20:
         errors.append(f"all-time table too short ({len(data['alltime'])} clubs)")
+    for r in data["alltime"]:
+        if r["pts"] is None or r["w"] is None:
+            errors.append(f"all-time row without points: {r}")
     for label in ("scorers", "appearances"):
         if len(data[label]) < 10 or any(p.get("goals" if label == "scorers" else "apps") is None for p in data[label]):
             errors.append(f"{label} table incomplete")
     return errors
 
 
+# ---------- World club champions (Intercontinental Cup + Club World Cup + FIFA Intercontinental Cup) ----------
+
+WORLD_PAGE = "List of world champion football clubs"
+WORLD_COMPETITIONS = [
+    # key, label, anchor, table index after anchor, columns
+    ("IC", "Intercontinental Cup", r"===\s*Intercontinental Cup \(1960", 1, {"year": 0, "champion": 1, "score": 2, "runnerUp": 3}),
+    ("CWC", "FIFA Club World Cup", r"===\s*FIFA Club World Cup \(2000", 1, {"year": 1, "champion": 3, "score": 4, "runnerUp": 5}),
+    ("FIC", "FIFA Intercontinental Cup", r"===\s*FIFA Intercontinental Cup \(2024", 0,
+     {"year": 0, "championCountry": 1, "champion": 2, "score": 3, "runnerUp": 4, "runnerUpCountry": 5}),
+]
+# Month each final was played, to order finals within a year (most were in December).
+WORLD_MONTHS = {("CWC", 2000): 1, ("CWC", 2021): 2, ("CWC", 2025): 7}
+WORLD_HISTORY_THROUGH = 2025
+WORLD_HISTORY = {
+    "Real Madrid": 9, "Milan": 4, "Bayern Munich": 4, "Barcelona": 3, "Boca Juniors": 3, "Peñarol": 3, "Nacional": 3,
+    "Inter Milan": 3, "São Paulo": 3, "Corinthians": 2, "Juventus": 2, "Ajax": 2, "Porto": 2, "Independiente": 2,
+    "Santos": 2, "Manchester United": 2, "Chelsea": 2, "Liverpool": 1, "Manchester City": 1, "Paris Saint-Germain": 1,
+    "Internacional": 1, "Grêmio": 1, "Flamengo": 1, "Vélez Sarsfield": 1, "River Plate": 1, "Racing": 1, "Estudiantes": 1,
+    "Olimpia": 1, "Feyenoord": 1, "Atlético Madrid": 1, "Borussia Dortmund": 1, "Red Star Belgrade": 1,
+}
+OUTPUTS = {
+    "world-club-champions": ROOT / "football" / "world-club-champions" / "data" / "world-club-champions.json",
+    "argentine-primera": ROOT / "football" / "argentine-primera" / "data" / "argentine-primera.json",
+}
+
+
+def first_score(text: str) -> str:
+    m = re.search(r"\d+\s*[–-]\s*\d+", W.strip_refs(text))
+    return m.group(0).replace("-", "–").replace(" ", "") if m else W.plain(text)
+
+
+def build_world(key: str, refresh: bool) -> dict:
+    text = W.fetch_raw(WORLD_PAGE, RAW_DIR / f"{slug(WORLD_PAGE)}.wiki", refresh)
+    clubs = ClubIndex()
+    finals: dict[tuple, dict] = {}
+    for comp, label, anchor, nth, cols in WORLD_COMPETITIONS:
+        for row in W.parse_table(W.find_table(text, anchor, nth)):
+            if len(row) <= max(cols.values()):
+                continue
+            year_text = W.plain(cell(row, cols["year"]))
+            if not re.fullmatch(r"\d{4}", year_text) or not W.links(cell(row, cols["champion"])):
+                continue
+            if not re.search(r"\d+\s*[–-]\s*\d+", cell(row, cols["score"])):
+                continue  # final not played (1975, 1978)
+            year = int(year_text)
+            c_cell, r_cell = cell(row, cols["champion"]), cell(row, cols["runnerUp"])
+            c_country = W.flag_code(cell(row, cols.get("championCountry", cols["champion"])))
+            r_country = W.flag_code(cell(row, cols.get("runnerUpCountry", cols["runnerUp"])))
+            attrs = row[cols["score"]]["attrs"].upper()
+            note = next((v for k, v in LEG_NOTES.items() if k in attrs), None)
+            leg = {"score": first_score(cell(row, cols["score"])), **({"note": note} if note else {})}
+            k = (comp, year)
+            if k not in finals:
+                finals[k] = {
+                    "competition": comp, "season": str(year), "year": year, "month": WORLD_MONTHS.get(k, 12),
+                    "champion": clubs.resolve(c_cell, c_country), "championCountry": c_country,
+                    "runnerUp": clubs.resolve(r_cell, r_country), "runnerUpCountry": r_country,
+                    "legs": [leg],
+                }
+            elif comp == "IC":
+                finals[k]["legs"].append(leg)  # two-legged ties and play-offs
+    order = {c[0]: i for i, c in enumerate(WORLD_COMPETITIONS)}
+    rows = sorted(finals.values(), key=lambda f: (f["year"], f["month"], order[f["competition"]]))
+    for f in rows:
+        f["championConfederation"] = confederation(f["championCountry"])
+        f["runnerUpConfederation"] = confederation(f["runnerUpCountry"])
+    used = {f["champion"] for f in rows} | {f["runnerUp"] for f in rows}
+    unmapped = sorted(label for cid, label in clubs.unmapped.items() if cid in used)
+    if unmapped:
+        print(f"{key}: clubs shown without a crest mapping (add them to {CLUBS.name}): {unmapped}", file=sys.stderr)
+    codes = {f["championCountry"] for f in rows} | {f["runnerUpCountry"] for f in rows} | {clubs.clubs[c]["country"] for c in used}
+    codes.discard(None)
+    return {
+        "meta": {
+            "generated": date.today().isoformat(),
+            "competition": "World club champions",
+            "through": f"{rows[-1]['year']}",
+            "sources": [f"https://en.wikipedia.org/wiki/{WORLD_PAGE.replace(' ', '_')}"],
+            "competitions": {c[0]: c[1] for c in WORLD_COMPETITIONS},
+        },
+        "countries": {c: {"name": COUNTRIES.get(c, (c, None))[0], "flag": COUNTRIES.get(c, (c, None))[1]} for c in sorted(codes)},
+        "clubs": {c: {"name": clubs.clubs[c]["name"], "country": clubs.clubs[c]["country"], "crest": clubs.clubs[c]["espn"]} for c in sorted(used)},
+        "finals": rows,
+    }
+
+
+def validate_world(key: str, data: dict) -> list[str]:
+    errors = []
+    names = {cid: c["name"] for cid, c in data["clubs"].items()}
+    history = Counter(names[f["champion"]] for f in data["finals"] if f["year"] <= WORLD_HISTORY_THROUGH)
+    if history != Counter(WORLD_HISTORY):
+        diff = {k: (history.get(k, 0), WORLD_HISTORY.get(k, 0)) for k in set(history) | set(WORLD_HISTORY)
+                if history.get(k, 0) != WORLD_HISTORY.get(k, 0)}
+        errors.append(f"world titles through {WORLD_HISTORY_THROUGH} differ (got, expected): {diff}")
+    per_comp = Counter(f["competition"] for f in data["finals"] if f["year"] <= 2025)
+    if per_comp != Counter({"IC": 43, "CWC": 21, "FIC": 2}):
+        errors.append(f"unexpected number of finals per competition: {dict(per_comp)}")
+    for f in data["finals"]:
+        if not f["championCountry"] or not f["runnerUpCountry"] or f["champion"] == f["runnerUp"]:
+            errors.append(f"bad final {f['competition']} {f['year']}")
+    return errors
+
+
+# ---------- Argentine Primera División ----------
+
+ARG_PAGE = "List of Argentine Primera División champions"
+DISSIDENT = {
+    "FAF": "Federación Argentina de Football",
+    "AAmF": "Asociación Amateurs de Football",
+    "LAF": "Liga Argentina de Football",
+}
+
+
+def club_from_cell(text: str, clubs: ClubIndex) -> str | None:
+    """Champion cells link the club; a few early clubs are plain text."""
+    if W.plain(text).startswith("(") or "not held" in text.lower():
+        return None
+    if W.links(text):
+        return clubs.resolve(text, "ARG")
+    name = re.sub(r"\(\d+\)", "", W.plain(text)).strip()
+    if not name or name.startswith("("):
+        return None
+    cid = slug(name)
+    if cid not in clubs.clubs:
+        clubs.clubs[cid] = {"id": cid, "name": name, "country": "ARG", "espn": None, "aliases": []}
+    clubs.used.add(cid)
+    return cid
+
+
+def build_argentina(key: str, refresh: bool) -> dict:
+    text = W.fetch_raw(ARG_PAGE, RAW_DIR / f"{slug(ARG_PAGE)}.wiki", refresh)
+    clubs = ClubIndex()
+    titles = []
+    seen = set()
+    for row in W.parse_table(W.find_table(text, r"==\s*Primera División champions", 0)):
+        if len(row) < 4 or row[0]["header"]:
+            continue
+        label = W.plain(cell(row, 1))
+        m = re.match(r"(\d{4})", label)
+        if not m:
+            continue
+        year = int(m.group(1))
+        champion = club_from_cell(cell(row, 2), clubs)
+        if not champion:
+            continue
+        key_row = (label, champion)
+        if key_row in seen:
+            continue
+        seen.add(key_row)
+        assoc = next((a for a in DISSIDENT if re.search(rf"\b{a}\b", label)), None)
+        professional = year >= 1935 or assoc == "LAF"
+        runner = club_from_cell(cell(row, 3), clubs) if W.plain(cell(row, 3)) not in ("", "–") else None
+        titles.append({
+            "season": label, "year": year, "champion": champion, "runnerUp": runner,
+            "era": "professional" if professional else "amateur",
+            "association": assoc,
+        })
+    # Mark the years with rival associations (each crowned its own champion).
+    split_years = {t["year"] for t in titles if t["association"]}
+    for t in titles:
+        t["split"] = t["year"] in split_years
+
+    # Official count per club from the same page, for validation.
+    official = {}
+    for row in W.parse_table(W.find_table(text, r"==\s*Titles by club", 0)):
+        if len(row) < 3 or row[0]["header"]:
+            continue
+        cid = club_from_cell(cell(row, 1), clubs)
+        n = W.number(cell(row, 2))
+        if cid and n:
+            official[cid] = official.get(cid, 0) + n
+
+    used = {t["champion"] for t in titles} | {t["runnerUp"] for t in titles if t["runnerUp"]}
+    unmapped = sorted(label for cid, label in clubs.unmapped.items() if cid in used)
+    if unmapped:
+        print(f"{key}: clubs shown without a crest mapping (add them to {CLUBS.name}): {unmapped}", file=sys.stderr)
+    return {
+        "meta": {
+            "generated": date.today().isoformat(),
+            "competition": "Argentine Primera División",
+            "through": titles[-1]["season"],
+            "sources": [f"https://en.wikipedia.org/wiki/{ARG_PAGE.replace(' ', '_')}"],
+            "associations": DISSIDENT,
+        },
+        "countries": {"ARG": {"name": "Argentina", "flag": "ar"}},
+        "clubs": {c: {"name": clubs.clubs[c]["name"], "country": "ARG", "crest": clubs.clubs[c]["espn"]} for c in sorted(used)},
+        "titles": titles,
+        "_official": official,
+    }
+
+
+def validate_argentina(key: str, data: dict) -> list[str]:
+    errors = []
+    official = data.pop("_official")
+    counted = Counter(t["champion"] for t in data["titles"])
+    diff = {data["clubs"].get(c, {}).get("name", c): (counted.get(c, 0), official.get(c, 0))
+            for c in set(counted) | set(official) if counted.get(c, 0) != official.get(c, 0)}
+    if diff:
+        errors.append(f"titles differ from the page's own 'Titles by club' table (got, expected): {diff}")
+    names = {cid: c["name"] for cid, c in data["clubs"].items()}
+    leaders = Counter(names[t["champion"]] for t in data["titles"])
+    if leaders["River Plate"] < 38 or leaders["Boca Juniors"] < 35:
+        errors.append(f"River/Boca totals look wrong: {leaders['River Plate']}, {leaders['Boca Juniors']}")
+    return errors
+
+
+EXTRA = {
+    "world-club-champions": (build_world, validate_world),
+    "argentine-primera": (build_argentina, validate_argentina),
+}
+
+
 def write(key: str, data: dict) -> None:
-    out = COMPETITIONS[key]["output"]
+    out = COMPETITIONS[key]["output"] if key in COMPETITIONS else OUTPUTS[key]
     if out.exists():
         old = json.loads(out.read_text(encoding="utf-8"))
         strip = lambda d: {**d, "meta": {k: v for k, v in d["meta"].items() if k != "generated"}}
@@ -296,19 +531,20 @@ def write(key: str, data: dict) -> None:
             return
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(data, separators=(",", ":"), ensure_ascii=False), encoding="utf-8")
-    print(f"wrote {out.relative_to(ROOT)}: {len(data['finals'])} finals, through {data['meta']['through']}")
+    print(f"wrote {out.relative_to(ROOT)}: {len(data.get('finals') or data.get('titles'))} rows, through {data['meta']['through']}")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--refresh", action="store_true", help="re-download the Wikipedia pages")
-    parser.add_argument("competition", nargs="*", choices=[*COMPETITIONS, []], help="default: all")
+    parser.add_argument("competition", nargs="*", choices=[*COMPETITIONS, *EXTRA, []], help="default: all")
     args = parser.parse_args()
 
     failed = False
-    for key in args.competition or COMPETITIONS:
-        data = build(key, args.refresh)
-        errors = validate(key, data)
+    for key in args.competition or [*COMPETITIONS, *EXTRA]:
+        builder, validator = EXTRA.get(key, (build, validate))
+        data = builder(key, args.refresh)
+        errors = validator(key, data)
         if errors:
             print(f"{key}: validation failed:\n  " + "\n  ".join(errors), file=sys.stderr)
             failed = True
