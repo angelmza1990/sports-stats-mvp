@@ -171,7 +171,7 @@ def header_labels(row: list[dict]) -> list[str]:
     """Header labels, reading abbreviation/tooltip templates ({{Abbr|Pts|Points}} -> "Pts")."""
     out = []
     for c in row:
-        m = re.search(r"\{\{\s*(?:abreviatura|abbr|tooltip)\s*\|([^|}]+)", c["text"], re.I)
+        m = re.search(r"\{\{\s*(?:abreviatura|abreviaci[oó]n|abbr|tooltip)\s*\|([^|}]+)", c["text"], re.I)
         out.append((m.group(1) if m else plain(c["text"])).strip())
     return out
 

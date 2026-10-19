@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>German Football Champions · Football</title>
+  <meta name="description" content="Every German football champion since 1903: a titles bar chart race with and without the years before the Bundesliga, titles by club, the all-time Bundesliga table, every top scorer and every season.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/bundesliga.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Football</p>
+    <h1>German football champions</h1>
+    <p class="lede">
+      Every German champion since 1903: the national finals between regional champions and, since 1963–64, the Bundesliga.
+      Also see the other leagues: <a href="../serie-a/">Serie A</a>, <a href="../la-liga/">La Liga</a>, <a href="../premier-league/">England</a>, <a href="../ligue-1/">Ligue 1</a>, <a href="../brasileirao/">Brasileirão</a>, <a href="../argentine-primera/">Argentina</a>.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most league titles</h2>
+        <p>Championships won by each club, title by title. Switch to the Bundesliga era to start in 1963–64.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Era" id="race-era"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Season">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <div class="filter-bar" id="era-bar">
+      <span class="filter-label">Era</span>
+      <div class="segmented" role="tablist" aria-label="Era" id="era-filter"></div>
+      <p class="filter-note">Applies to the titles table and the season list below.</p>
+    </div>
+
+    <section class="block tight" id="clubs">
+      <div class="block-head">
+        <h2>Titles by club</h2>
+        <p>German titles and runner-up finishes, split between the years before the Bundesliga and the Bundesliga era.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="clubs-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="alltime">
+      <div class="block-head">
+        <h2>All-time table</h2>
+        <p>Every Bundesliga match each club has played since 1963–64, ranked by points (three per win for every season).</p>
+      </div>
+      <div class="card">
+        <p class="country-note" id="alltime-note"></p>
+        <div class="data-table tall" id="alltime-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="scorers">
+      <div class="block-head">
+        <h2>Top scorers</h2>
+        <p>The top scorer of every Bundesliga season and the club he played for, plus the all-time leading scorers of the Bundesliga.</p>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">Clubs with the most top scorers</h3>
+          <div id="scorer-clubs"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Most scoring titles</h3>
+          <div id="scorer-players"></div>
+        </div>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="View" id="scorers-tabs"></div>
+        </div>
+        <div class="data-table tall" id="scorers-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="seasons">
+      <div class="block-head">
+        <h2>Every champion</h2>
+        <p>All league titles, most recent first.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="seasons-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> <a href="https://en.wikipedia.org/wiki/List_of_German_football_champions">Wikipedia, List of German football champions</a> (CC BY-SA 4.0); top scorers from
+      <a href="https://en.wikipedia.org/wiki/List_of_Bundesliga_top_scorers_by_season">List of Bundesliga top scorers by season</a> and <a href="https://en.wikipedia.org/wiki/Bundesliga">Bundesliga</a>, the all-time table from <a id="alltime-source" href="#">All-time Bundesliga table</a>.
+      Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> before 1963 the title was decided by a final between regional champions; there was no champion in 1904 (the final was not played) and none from 1945 to 1947. East German champions (1950–1991) are not included. Clubs keep the titles of their earlier names (SpVgg Fürth for Greuther Fürth, VfB Leipzig for Lokomotive Leipzig).
+      Every club's title count is checked against the totals table on the same Wikipedia page. Clubs that no longer exist or have no crest available show their initials.
+    </p>
+    <p>
+      Club names and crests are trademarks of their respective clubs, shown here for identification only (crests via ESPN's public CDN).
+      This project is not affiliated with the DFB or the DFL.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../common.js"></script>
+  <script src="../league.js"></script>
+</body>
+</html>

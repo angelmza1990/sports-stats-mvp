@@ -51,6 +51,16 @@
    ]
   },
   {
+   "id": "arsenal-de-sarandi",
+   "name": "Arsenal de Sarandí",
+   "country": "ARG",
+   "espn": "2635",
+   "aliases": [
+    "Arsenal de Sarandí",
+    "Arsenal Fútbol Club"
+   ]
+  },
+  {
    "id": "club-atletico-atlanta",
    "name": "Atlanta",
    "country": "ARG",
@@ -700,6 +710,17 @@
    ]
   },
   {
+   "id": "rapid-wien",
+   "name": "Rapid Wien",
+   "country": "AUT",
+   "espn": "519",
+   "aliases": [
+    "SK Rapid Wien",
+    "Rapid Wien",
+    "Rapid Vienna"
+   ]
+  },
+  {
    "id": "anderlecht",
    "name": "Anderlecht",
    "country": "BEL",
@@ -761,6 +782,27 @@
    ]
   },
   {
+   "id": "bahia",
+   "name": "Bahia",
+   "country": "BRA",
+   "espn": "9967",
+   "aliases": [
+    "Esporte Clube Bahia",
+    "EC Bahia",
+    "Bahia"
+   ]
+  },
+  {
+   "id": "bangu",
+   "name": "Bangu",
+   "country": "BRA",
+   "espn": "10265",
+   "aliases": [
+    "Bangu Atlético Clube",
+    "Bangu"
+   ]
+  },
+  {
    "id": "botafogo",
    "name": "Botafogo",
    "country": "BRA",
@@ -778,6 +820,17 @@
    "aliases": [
     "Corinthians",
     "Sport Club Corinthians Paulista"
+   ]
+  },
+  {
+   "id": "coritiba",
+   "name": "Coritiba",
+   "country": "BRA",
+   "espn": "3456",
+   "aliases": [
+    "Coritiba Foot Ball Club",
+    "Coritiba FBC",
+    "Coritiba"
    ]
   },
   {
@@ -811,6 +864,27 @@
    ]
   },
   {
+   "id": "fortaleza",
+   "name": "Fortaleza",
+   "country": "BRA",
+   "espn": "6272",
+   "aliases": [
+    "Fortaleza Esporte Clube",
+    "Fortaleza EC",
+    "Fortaleza"
+   ]
+  },
+  {
+   "id": "goias",
+   "name": "Goiás",
+   "country": "BRA",
+   "espn": "3395",
+   "aliases": [
+    "Goiás Esporte Clube",
+    "Goiás"
+   ]
+  },
+  {
    "id": "gremio",
    "name": "Grêmio",
    "country": "BRA",
@@ -818,6 +892,17 @@
    "aliases": [
     "Grêmio",
     "Grêmio Foot-Ball Porto Alegrense"
+   ]
+  },
+  {
+   "id": "guarani",
+   "name": "Guarani",
+   "country": "BRA",
+   "espn": "3448",
+   "aliases": [
+    "Guarani FC",
+    "Guarani Futebol Clube",
+    "Guarani"
    ]
   },
   {
@@ -831,6 +916,16 @@
    ]
   },
   {
+   "id": "nautico",
+   "name": "Náutico",
+   "country": "BRA",
+   "espn": "7633",
+   "aliases": [
+    "Clube Náutico Capibaribe",
+    "Náutico"
+   ]
+  },
+  {
    "id": "palmeiras",
    "name": "Palmeiras",
    "country": "BRA",
@@ -838,6 +933,27 @@
    "aliases": [
     "Palmeiras",
     "Sociedade Esportiva Palmeiras"
+   ]
+  },
+  {
+   "id": "portuguesa",
+   "name": "Portuguesa",
+   "country": "BRA",
+   "espn": "4773",
+   "aliases": [
+    "Associação Portuguesa de Desportos",
+    "Portuguesa"
+   ]
+  },
+  {
+   "id": "bragantino",
+   "name": "Red Bull Bragantino",
+   "country": "BRA",
+   "espn": "6079",
+   "aliases": [
+    "Clube Atlético Bragantino",
+    "Red Bull Bragantino",
+    "Bragantino"
    ]
   },
   {
@@ -863,6 +979,16 @@
    ]
   },
   {
+   "id": "sport-recife",
+   "name": "Sport Recife",
+   "country": "BRA",
+   "espn": "7635",
+   "aliases": [
+    "Sport Club do Recife",
+    "Sport Recife"
+   ]
+  },
+  {
    "id": "sao-caetano",
    "name": "São Caetano",
    "country": "BRA",
@@ -884,6 +1010,16 @@
    ]
   },
   {
+   "id": "treze",
+   "name": "Treze",
+   "country": "BRA",
+   "espn": "4902",
+   "aliases": [
+    "Treze Futebol Clube",
+    "Treze"
+   ]
+  },
+  {
    "id": "vasco-da-gama",
    "name": "Vasco da Gama",
    "country": "BRA",
@@ -891,6 +1027,17 @@
    "aliases": [
     "CR Vasco da Gama",
     "Vasco da Gama"
+   ]
+  },
+  {
+   "id": "vitoria",
+   "name": "Vitória",
+   "country": "BRA",
+   "espn": "3457",
+   "aliases": [
+    "Esporte Clube Vitória",
+    "EC Vitória",
+    "Vitória"
    ]
   },
   {
@@ -1113,6 +1260,28 @@
    ]
   },
   {
+   "id": "birmingham-city",
+   "name": "Birmingham City",
+   "country": "ENG",
+   "espn": "392",
+   "aliases": [
+    "Birmingham City F.C.",
+    "Birmingham City FC",
+    "Birmingham City"
+   ]
+  },
+  {
+   "id": "blackburn-rovers",
+   "name": "Blackburn Rovers",
+   "country": "ENG",
+   "espn": "365",
+   "aliases": [
+    "Blackburn Rovers F.C.",
+    "Blackburn Rovers FC",
+    "Blackburn Rovers"
+   ]
+  },
+  {
    "id": "blackpool-f-c",
    "name": "Blackpool",
    "country": "ENG",
@@ -1124,6 +1293,94 @@
    ]
   },
   {
+   "id": "bolton-wanderers",
+   "name": "Bolton Wanderers",
+   "country": "ENG",
+   "espn": "358",
+   "aliases": [
+    "Bolton Wanderers F.C.",
+    "Bolton Wanderers FC",
+    "Bolton Wanderers"
+   ]
+  },
+  {
+   "id": "bournemouth",
+   "name": "Bournemouth",
+   "country": "ENG",
+   "espn": "349",
+   "aliases": [
+    "AFC Bournemouth",
+    "A.F.C. Bournemouth",
+    "Bournemouth"
+   ]
+  },
+  {
+   "id": "brentford",
+   "name": "Brentford",
+   "country": "ENG",
+   "espn": "337",
+   "aliases": [
+    "Brentford F.C.",
+    "Brentford FC",
+    "Brentford"
+   ]
+  },
+  {
+   "id": "brighton-hove-albion",
+   "name": "Brighton & Hove Albion",
+   "country": "ENG",
+   "espn": "331",
+   "aliases": [
+    "Brighton & Hove Albion F.C.",
+    "Brighton & Hove Albion FC",
+    "Brighton & Hove Albion"
+   ]
+  },
+  {
+   "id": "bristol-city",
+   "name": "Bristol City",
+   "country": "ENG",
+   "espn": "333",
+   "aliases": [
+    "Bristol City F.C.",
+    "Bristol City FC",
+    "Bristol City"
+   ]
+  },
+  {
+   "id": "burnley",
+   "name": "Burnley",
+   "country": "ENG",
+   "espn": "379",
+   "aliases": [
+    "Burnley F.C.",
+    "Burnley FC",
+    "Burnley"
+   ]
+  },
+  {
+   "id": "cardiff-city",
+   "name": "Cardiff City",
+   "country": "ENG",
+   "espn": "347",
+   "aliases": [
+    "Cardiff City F.C.",
+    "Cardiff City FC",
+    "Cardiff City"
+   ]
+  },
+  {
+   "id": "charlton-athletic",
+   "name": "Charlton Athletic",
+   "country": "ENG",
+   "espn": "372",
+   "aliases": [
+    "Charlton Athletic F.C.",
+    "Charlton Athletic FC",
+    "Charlton Athletic"
+   ]
+  },
+  {
    "id": "chelsea",
    "name": "Chelsea",
    "country": "ENG",
@@ -1131,6 +1388,61 @@
    "aliases": [
     "Chelsea",
     "Chelsea F.C."
+   ]
+  },
+  {
+   "id": "coventry-city",
+   "name": "Coventry City",
+   "country": "ENG",
+   "espn": "388",
+   "aliases": [
+    "Coventry City F.C.",
+    "Coventry City FC",
+    "Coventry City"
+   ]
+  },
+  {
+   "id": "crystal-palace",
+   "name": "Crystal Palace",
+   "country": "ENG",
+   "espn": "384",
+   "aliases": [
+    "Crystal Palace F.C.",
+    "Crystal Palace FC",
+    "Crystal Palace"
+   ]
+  },
+  {
+   "id": "derby-county",
+   "name": "Derby County",
+   "country": "ENG",
+   "espn": "374",
+   "aliases": [
+    "Derby County F.C.",
+    "Derby County FC",
+    "Derby County"
+   ]
+  },
+  {
+   "id": "everton",
+   "name": "Everton",
+   "country": "ENG",
+   "espn": "368",
+   "aliases": [
+    "Everton F.C.",
+    "Everton FC",
+    "Everton"
+   ]
+  },
+  {
+   "id": "fulham",
+   "name": "Fulham",
+   "country": "ENG",
+   "espn": "370",
+   "aliases": [
+    "Fulham F.C.",
+    "Fulham FC",
+    "Fulham"
    ]
   },
   {
@@ -1145,6 +1457,17 @@
    ]
   },
   {
+   "id": "ipswich-town",
+   "name": "Ipswich Town",
+   "country": "ENG",
+   "espn": "373",
+   "aliases": [
+    "Ipswich Town F.C.",
+    "Ipswich Town FC",
+    "Ipswich Town"
+   ]
+  },
+  {
    "id": "leeds-united",
    "name": "Leeds United",
    "country": "ENG",
@@ -1152,6 +1475,17 @@
    "aliases": [
     "Leeds United",
     "Leeds United F.C."
+   ]
+  },
+  {
+   "id": "leicester-city",
+   "name": "Leicester City",
+   "country": "ENG",
+   "espn": "375",
+   "aliases": [
+    "Leicester City F.C.",
+    "Leicester City FC",
+    "Leicester City"
    ]
   },
   {
@@ -1185,6 +1519,39 @@
    ]
   },
   {
+   "id": "middlesbrough",
+   "name": "Middlesbrough",
+   "country": "ENG",
+   "espn": "369",
+   "aliases": [
+    "Middlesbrough F.C.",
+    "Middlesbrough FC",
+    "Middlesbrough"
+   ]
+  },
+  {
+   "id": "newcastle-united",
+   "name": "Newcastle United",
+   "country": "ENG",
+   "espn": "361",
+   "aliases": [
+    "Newcastle United F.C.",
+    "Newcastle United FC",
+    "Newcastle United"
+   ]
+  },
+  {
+   "id": "norwich-city",
+   "name": "Norwich City",
+   "country": "ENG",
+   "espn": "381",
+   "aliases": [
+    "Norwich City F.C.",
+    "Norwich City FC",
+    "Norwich City"
+   ]
+  },
+  {
    "id": "nottingham-forest",
    "name": "Nottingham Forest",
    "country": "ENG",
@@ -1192,6 +1559,50 @@
    "aliases": [
     "Nottingham Forest",
     "Nottingham Forest F.C."
+   ]
+  },
+  {
+   "id": "oldham-athletic",
+   "name": "Oldham Athletic",
+   "country": "ENG",
+   "espn": "332",
+   "aliases": [
+    "Oldham Athletic F.C.",
+    "Oldham Athletic FC",
+    "Oldham Athletic"
+   ]
+  },
+  {
+   "id": "portsmouth",
+   "name": "Portsmouth",
+   "country": "ENG",
+   "espn": "385",
+   "aliases": [
+    "Portsmouth F.C.",
+    "Portsmouth FC",
+    "Portsmouth"
+   ]
+  },
+  {
+   "id": "preston-north-end",
+   "name": "Preston North End",
+   "country": "ENG",
+   "espn": "394",
+   "aliases": [
+    "Preston North End F.C.",
+    "Preston North End FC",
+    "Preston North End"
+   ]
+  },
+  {
+   "id": "queens-park-rangers",
+   "name": "Queens Park Rangers",
+   "country": "ENG",
+   "espn": "334",
+   "aliases": [
+    "Queens Park Rangers F.C.",
+    "Queens Park Rangers FC",
+    "Queens Park Rangers"
    ]
   },
   {
@@ -1206,6 +1617,39 @@
    ]
   },
   {
+   "id": "sheffield-united",
+   "name": "Sheffield United",
+   "country": "ENG",
+   "espn": "398",
+   "aliases": [
+    "Sheffield United F.C.",
+    "Sheffield United FC",
+    "Sheffield United"
+   ]
+  },
+  {
+   "id": "sheffield-wednesday",
+   "name": "Sheffield Wednesday",
+   "country": "ENG",
+   "espn": "399",
+   "aliases": [
+    "Sheffield Wednesday F.C.",
+    "Sheffield Wednesday",
+    "The Wednesday"
+   ]
+  },
+  {
+   "id": "southampton",
+   "name": "Southampton",
+   "country": "ENG",
+   "espn": "376",
+   "aliases": [
+    "Southampton F.C.",
+    "Southampton FC",
+    "Southampton"
+   ]
+  },
+  {
    "id": "stoke-city-f-c",
    "name": "Stoke City",
    "country": "ENG",
@@ -1214,6 +1658,28 @@
     "Stoke City F.C.",
     "Stoke City",
     "Stoke City"
+   ]
+  },
+  {
+   "id": "sunderland",
+   "name": "Sunderland",
+   "country": "ENG",
+   "espn": "366",
+   "aliases": [
+    "Sunderland F.C.",
+    "Sunderland FC",
+    "Sunderland"
+   ]
+  },
+  {
+   "id": "swansea-city",
+   "name": "Swansea City",
+   "country": "ENG",
+   "espn": "318",
+   "aliases": [
+    "Swansea City A.F.C.",
+    "Swansea City AFC",
+    "Swansea City"
    ]
   },
   {
@@ -1227,12 +1693,123 @@
    ]
   },
   {
+   "id": "watford",
+   "name": "Watford",
+   "country": "ENG",
+   "espn": "395",
+   "aliases": [
+    "Watford F.C.",
+    "Watford FC",
+    "Watford"
+   ]
+  },
+  {
+   "id": "west-bromwich-albion",
+   "name": "West Bromwich Albion",
+   "country": "ENG",
+   "espn": "383",
+   "aliases": [
+    "West Bromwich Albion F.C.",
+    "West Bromwich Albion FC",
+    "West Bromwich Albion"
+   ]
+  },
+  {
+   "id": "west-ham-united",
+   "name": "West Ham United",
+   "country": "ENG",
+   "espn": "371",
+   "aliases": [
+    "West Ham United F.C.",
+    "West Ham United FC",
+    "West Ham United"
+   ]
+  },
+  {
+   "id": "wigan-athletic",
+   "name": "Wigan Athletic",
+   "country": "ENG",
+   "espn": "350",
+   "aliases": [
+    "Wigan Athletic F.C.",
+    "Wigan Athletic FC",
+    "Wigan Athletic"
+   ]
+  },
+  {
+   "id": "wimbledon",
+   "name": "Wimbledon",
+   "country": "ENG",
+   "espn": null,
+   "aliases": [
+    "Wimbledon F.C.",
+    "Wimbledon FC",
+    "Wimbledon"
+   ]
+  },
+  {
+   "id": "wolverhampton-wanderers",
+   "name": "Wolverhampton Wanderers",
+   "country": "ENG",
+   "espn": "380",
+   "aliases": [
+    "Wolverhampton Wanderers F.C.",
+    "Wolverhampton Wanderers FC",
+    "Wolverhampton Wanderers"
+   ]
+  },
+  {
+   "id": "alaves",
+   "name": "Alavés",
+   "country": "ESP",
+   "espn": "96",
+   "aliases": [
+    "Deportivo Alavés",
+    "Alavés"
+   ]
+  },
+  {
+   "id": "albacete",
+   "name": "Albacete",
+   "country": "ESP",
+   "espn": "2737",
+   "aliases": [
+    "Albacete Balompié",
+    "Albacete"
+   ]
+  },
+  {
+   "id": "almeria",
+   "name": "Almería",
+   "country": "ESP",
+   "espn": "6832",
+   "aliases": [
+    "UD Almería",
+    "Unión Deportiva Almería",
+    "Almería"
+   ]
+  },
+  {
+   "id": "athletic-bilbao",
+   "name": "Athletic Bilbao",
+   "country": "ESP",
+   "espn": "93",
+   "aliases": [
+    "Athletic Bilbao",
+    "Athletic Club",
+    "Atlético Bilbao"
+   ]
+  },
+  {
    "id": "atletico-madrid",
    "name": "Atlético Madrid",
    "country": "ESP",
    "espn": "1068",
    "aliases": [
-    "Atlético Madrid"
+    "Atlético Madrid",
+    "Atlético Aviación",
+    "Club Atlético de Madrid",
+    "Atlético de Madrid"
    ]
   },
   {
@@ -1242,7 +1819,42 @@
    "espn": "83",
    "aliases": [
     "Barcelona",
-    "FC Barcelona"
+    "FC Barcelona",
+    "Fútbol Club Barcelona"
+   ]
+  },
+  {
+   "id": "castellon",
+   "name": "Castellón",
+   "country": "ESP",
+   "espn": "4438",
+   "aliases": [
+    "CD Castellón",
+    "Club Deportivo Castellón",
+    "Castellón"
+   ]
+  },
+  {
+   "id": "celta-vigo",
+   "name": "Celta Vigo",
+   "country": "ESP",
+   "espn": "85",
+   "aliases": [
+    "RC Celta de Vigo",
+    "Real Club Celta de Vigo",
+    "Celta Vigo",
+    "Celta de Vigo"
+   ]
+  },
+  {
+   "id": "cadiz",
+   "name": "Cádiz",
+   "country": "ESP",
+   "espn": "3842",
+   "aliases": [
+    "Cádiz CF",
+    "Cádiz Club de Fútbol",
+    "Cádiz"
    ]
   },
   {
@@ -1253,7 +1865,174 @@
    "aliases": [
     "Deportivo de La Coruña",
     "Deportivo de La Coruña",
-    "Deportivo La Coruna"
+    "Deportivo La Coruna",
+    "Real Club Deportivo de La Coruña",
+    "RC Deportivo de La Coruña"
+   ]
+  },
+  {
+   "id": "eibar",
+   "name": "Eibar",
+   "country": "ESP",
+   "espn": "3752",
+   "aliases": [
+    "SD Eibar",
+    "Sociedad Deportiva Eibar",
+    "Eibar"
+   ]
+  },
+  {
+   "id": "elche",
+   "name": "Elche",
+   "country": "ESP",
+   "espn": "3751",
+   "aliases": [
+    "Elche CF",
+    "Elche Club de Fútbol",
+    "Elche"
+   ]
+  },
+  {
+   "id": "espanyol",
+   "name": "Espanyol",
+   "country": "ESP",
+   "espn": "88",
+   "aliases": [
+    "RCD Espanyol",
+    "Real Club Deportivo Espanyol",
+    "Espanyol",
+    "RCD Espanyol de Barcelona"
+   ]
+  },
+  {
+   "id": "getafe",
+   "name": "Getafe",
+   "country": "ESP",
+   "espn": "2922",
+   "aliases": [
+    "Getafe CF",
+    "Getafe Club de Fútbol",
+    "Getafe"
+   ]
+  },
+  {
+   "id": "girona",
+   "name": "Girona",
+   "country": "ESP",
+   "espn": "9812",
+   "aliases": [
+    "Girona FC",
+    "Girona Fútbol Club",
+    "Girona"
+   ]
+  },
+  {
+   "id": "granada",
+   "name": "Granada",
+   "country": "ESP",
+   "espn": "3747",
+   "aliases": [
+    "Granada CF",
+    "Granada Club de Fútbol",
+    "Granada"
+   ]
+  },
+  {
+   "id": "hercules",
+   "name": "Hércules",
+   "country": "ESP",
+   "espn": null,
+   "aliases": [
+    "Hércules CF",
+    "Hércules de Alicante CF",
+    "Hércules de Alicante Club de Fútbol",
+    "Hércules"
+   ]
+  },
+  {
+   "id": "las-palmas",
+   "name": "Las Palmas",
+   "country": "ESP",
+   "espn": "98",
+   "aliases": [
+    "UD Las Palmas",
+    "Unión Deportiva Las Palmas",
+    "Las Palmas"
+   ]
+  },
+  {
+   "id": "levante",
+   "name": "Levante",
+   "country": "ESP",
+   "espn": "1538",
+   "aliases": [
+    "Levante UD",
+    "Levante Unión Deportiva",
+    "Levante"
+   ]
+  },
+  {
+   "id": "mallorca",
+   "name": "Mallorca",
+   "country": "ESP",
+   "espn": "84",
+   "aliases": [
+    "RCD Mallorca",
+    "Real Club Deportivo Mallorca",
+    "Mallorca"
+   ]
+  },
+  {
+   "id": "malaga",
+   "name": "Málaga",
+   "country": "ESP",
+   "espn": "99",
+   "aliases": [
+    "Málaga CF",
+    "Málaga Club de Fútbol",
+    "Málaga"
+   ]
+  },
+  {
+   "id": "osasuna",
+   "name": "Osasuna",
+   "country": "ESP",
+   "espn": "97",
+   "aliases": [
+    "CA Osasuna",
+    "Club Atlético Osasuna",
+    "Osasuna"
+   ]
+  },
+  {
+   "id": "racing-santander",
+   "name": "Racing Santander",
+   "country": "ESP",
+   "espn": "87",
+   "aliases": [
+    "Racing de Santander",
+    "Real Racing Club de Santander",
+    "Racing Santander"
+   ]
+  },
+  {
+   "id": "rayo-vallecano",
+   "name": "Rayo Vallecano",
+   "country": "ESP",
+   "espn": "101",
+   "aliases": [
+    "Rayo Vallecano",
+    "Rayo Vallecano de Madrid"
+   ]
+  },
+  {
+   "id": "real-betis",
+   "name": "Real Betis",
+   "country": "ESP",
+   "espn": "244",
+   "aliases": [
+    "Real Betis",
+    "Real Betis Balompié"
    ]
   },
   {
@@ -1263,7 +2042,84 @@
    "espn": "86",
    "aliases": [
     "Real Madrid",
-    "Real Madrid CF"
+    "Real Madrid CF",
+    "Real Madrid Club de Fútbol",
+    "Madrid FC"
+   ]
+  },
+  {
+   "id": "real-murcia",
+   "name": "Real Murcia",
+   "country": "ESP",
+   "espn": "2738",
+   "aliases": [
+    "Real Murcia",
+    "Real Murcia CF",
+    "Real Murcia Club de Fútbol"
+   ]
+  },
+  {
+   "id": "real-oviedo",
+   "name": "Real Oviedo",
+   "country": "ESP",
+   "espn": "92",
+   "aliases": [
+    "Real Oviedo",
+    "Oviedo"
+   ]
+  },
+  {
+   "id": "real-sociedad",
+   "name": "Real Sociedad",
+   "country": "ESP",
+   "espn": "89",
+   "aliases": [
+    "Real Sociedad",
+    "Real Sociedad de Fútbol"
+   ]
+  },
+  {
+   "id": "real-valladolid",
+   "name": "Real Valladolid",
+   "country": "ESP",
+   "espn": "95",
+   "aliases": [
+    "Real Valladolid",
+    "Real Valladolid Club de Fútbol",
+    "Valladolid"
+   ]
+  },
+  {
+   "id": "sevilla",
+   "name": "Sevilla",
+   "country": "ESP",
+   "espn": "243",
+   "aliases": [
+    "Sevilla FC",
+    "Sevilla",
+    "Sevilla Fútbol Club"
+   ]
+  },
+  {
+   "id": "sporting-gijon",
+   "name": "Sporting Gijón",
+   "country": "ESP",
+   "espn": "3788",
+   "aliases": [
+    "Sporting de Gijón",
+    "Real Sporting de Gijón",
+    "Sporting Gijón"
+   ]
+  },
+  {
+   "id": "tenerife",
+   "name": "Tenerife",
+   "country": "ESP",
+   "espn": "245",
+   "aliases": [
+    "CD Tenerife",
+    "Club Deportivo Tenerife",
+    "Tenerife"
    ]
   },
   {
@@ -1273,7 +2129,8 @@
    "espn": "94",
    "aliases": [
     "Valencia",
-    "Valencia CF"
+    "Valencia CF",
+    "Valencia Club de Fútbol"
    ]
   },
   {
@@ -1284,7 +2141,49 @@
    "aliases": [
     "Villarreal CF",
     "Villarreal",
-    "Villarreal"
+    "Villarreal",
+    "Villarreal Club de Fútbol"
+   ]
+  },
+  {
+   "id": "real-zaragoza",
+   "name": "Zaragoza",
+   "country": "ESP",
+   "espn": "91",
+   "aliases": [
+    "Real Zaragoza",
+    "Zaragoza"
+   ]
+  },
+  {
+   "id": "ajaccio",
+   "name": "Ajaccio",
+   "country": "FRA",
+   "espn": "2503",
+   "aliases": [
+    "AC Ajaccio",
+    "Ajaccio"
+   ]
+  },
+  {
+   "id": "auxerre",
+   "name": "Auxerre",
+   "country": "FRA",
+   "espn": "172",
+   "aliases": [
+    "AJ Auxerre",
+    "Auxerre"
+   ]
+  },
+  {
+   "id": "bordeaux",
+   "name": "Bordeaux",
+   "country": "FRA",
+   "espn": "159",
+   "aliases": [
+    "FC Girondins de Bordeaux",
+    "Girondins de Bordeaux",
+    "Bordeaux"
    ]
   },
   {
@@ -1296,6 +2195,47 @@
     "AS Cannes",
     "AS Cannes",
     "Cannes"
+   ]
+  },
+  {
+   "id": "laval",
+   "name": "Laval",
+   "country": "FRA",
+   "espn": "3266",
+   "aliases": [
+    "Stade Lavallois",
+    "Laval"
+   ]
+  },
+  {
+   "id": "le-havre",
+   "name": "Le Havre",
+   "country": "FRA",
+   "espn": "3236",
+   "aliases": [
+    "Le Havre AC",
+    "Le Havre"
+   ]
+  },
+  {
+   "id": "lens",
+   "name": "Lens",
+   "country": "FRA",
+   "espn": "175",
+   "aliases": [
+    "RC Lens",
+    "Lens"
+   ]
+  },
+  {
+   "id": "lille",
+   "name": "Lille",
+   "country": "FRA",
+   "espn": "166",
+   "aliases": [
+    "Lille OSC",
+    "Lille",
+    "Olympique Lillois"
    ]
   },
   {
@@ -1320,6 +2260,16 @@
    ]
   },
   {
+   "id": "metz",
+   "name": "Metz",
+   "country": "FRA",
+   "espn": "177",
+   "aliases": [
+    "FC Metz",
+    "Metz"
+   ]
+  },
+  {
    "id": "monaco",
    "name": "Monaco",
    "country": "FRA",
@@ -1327,6 +2277,16 @@
    "aliases": [
     "AS Monaco FC",
     "Monaco"
+   ]
+  },
+  {
+   "id": "montpellier",
+   "name": "Montpellier",
+   "country": "FRA",
+   "espn": "274",
+   "aliases": [
+    "Montpellier HSC",
+    "Montpellier"
    ]
   },
   {
@@ -1341,6 +2301,36 @@
    ]
   },
   {
+   "id": "nantes",
+   "name": "Nantes",
+   "country": "FRA",
+   "espn": "165",
+   "aliases": [
+    "FC Nantes",
+    "Nantes"
+   ]
+  },
+  {
+   "id": "nice",
+   "name": "Nice",
+   "country": "FRA",
+   "espn": "2502",
+   "aliases": [
+    "OGC Nice",
+    "Nice"
+   ]
+  },
+  {
+   "id": "nimes",
+   "name": "Nîmes",
+   "country": "FRA",
+   "espn": "7730",
+   "aliases": [
+    "Nîmes Olympique",
+    "Nîmes"
+   ]
+  },
+  {
    "id": "paris-saint-germain",
    "name": "Paris Saint-Germain",
    "country": "FRA",
@@ -1348,6 +2338,17 @@
    "aliases": [
     "Paris Saint-Germain",
     "Paris Saint-Germain FC"
+   ]
+  },
+  {
+   "id": "rc-paris",
+   "name": "RC Paris",
+   "country": "FRA",
+   "espn": null,
+   "aliases": [
+    "Racing Club de France Football",
+    "RC Paris",
+    "Racing Paris"
    ]
   },
   {
@@ -1372,6 +2373,26 @@
    ]
   },
   {
+   "id": "roubaix",
+   "name": "Roubaix",
+   "country": "FRA",
+   "espn": null,
+   "aliases": [
+    "RC Roubaix",
+    "Roubaix"
+   ]
+  },
+  {
+   "id": "rouen",
+   "name": "Rouen",
+   "country": "FRA",
+   "espn": "9009",
+   "aliases": [
+    "FC Rouen",
+    "Rouen"
+   ]
+  },
+  {
    "id": "saint-etienne",
    "name": "Saint-Étienne",
    "country": "FRA",
@@ -1379,6 +2400,58 @@
    "aliases": [
     "AS Saint-Étienne",
     "Saint-Étienne"
+   ]
+  },
+  {
+   "id": "sochaux",
+   "name": "Sochaux",
+   "country": "FRA",
+   "espn": "272",
+   "aliases": [
+    "FC Sochaux-Montbéliard",
+    "Sochaux"
+   ]
+  },
+  {
+   "id": "strasbourg",
+   "name": "Strasbourg",
+   "country": "FRA",
+   "espn": "180",
+   "aliases": [
+    "RC Strasbourg Alsace",
+    "RC Strasbourg",
+    "Strasbourg"
+   ]
+  },
+  {
+   "id": "sete",
+   "name": "Sète",
+   "country": "FRA",
+   "espn": null,
+   "aliases": [
+    "FC Sète",
+    "FC Sète 34",
+    "Sète"
+   ]
+  },
+  {
+   "id": "toulouse",
+   "name": "Toulouse",
+   "country": "FRA",
+   "espn": "179",
+   "aliases": [
+    "Toulouse FC",
+    "Toulouse"
+   ]
+  },
+  {
+   "id": "tours",
+   "name": "Tours",
+   "country": "FRA",
+   "espn": "6992",
+   "aliases": [
+    "Tours FC",
+    "Tours"
    ]
   },
   {
@@ -1390,6 +2463,71 @@
     "Valenciennes FC",
     "Valenciennes",
     "Valenciennes"
+   ]
+  },
+  {
+   "id": "1-fc-kaiserslautern",
+   "name": "1. FC Kaiserslautern",
+   "country": "GER",
+   "espn": "130",
+   "aliases": [
+    "1. FC Kaiserslautern"
+   ]
+  },
+  {
+   "id": "1-fc-koln",
+   "name": "1. FC Köln",
+   "country": "GER",
+   "espn": "122",
+   "aliases": [
+    "1. FC Köln"
+   ]
+  },
+  {
+   "id": "1-fc-nurnberg",
+   "name": "1. FC Nürnberg",
+   "country": "GER",
+   "espn": "269",
+   "aliases": [
+    "1. FC Nürnberg"
+   ]
+  },
+  {
+   "id": "1-fc-saarbrucken",
+   "name": "1. FC Saarbrücken",
+   "country": "GER",
+   "espn": "18741",
+   "aliases": [
+    "1. FC Saarbrücken"
+   ]
+  },
+  {
+   "id": "1860-munich",
+   "name": "1860 Munich",
+   "country": "GER",
+   "espn": "135",
+   "aliases": [
+    "TSV 1860 Munich",
+    "1860 Munich"
+   ]
+  },
+  {
+   "id": "alemannia-aachen",
+   "name": "Alemannia Aachen",
+   "country": "GER",
+   "espn": "2997",
+   "aliases": [
+    "Alemannia Aachen"
+   ]
+  },
+  {
+   "id": "arminia-bielefeld",
+   "name": "Arminia Bielefeld",
+   "country": "GER",
+   "espn": "2506",
+   "aliases": [
+    "Arminia Bielefeld",
+    "DSC Arminia Bielefeld"
    ]
   },
   {
@@ -1410,6 +2548,18 @@
    "aliases": [
     "Bayern Munich",
     "FC Bayern Munich"
+   ]
+  },
+  {
+   "id": "blau-weiss-berlin",
+   "name": "Blau-Weiß 90 Berlin",
+   "country": "GER",
+   "espn": null,
+   "aliases": [
+    "Blau-Weiß 1890 Berlin",
+    "SpVg Blau-Weiß 90 Berlin",
+    "SpVgg Blau-Weiß 1890 Berlin",
+    "Union 92 Berlin"
    ]
   },
   {
@@ -1442,6 +2592,15 @@
    ]
   },
   {
+   "id": "eintracht-braunschweig",
+   "name": "Eintracht Braunschweig",
+   "country": "GER",
+   "espn": "3067",
+   "aliases": [
+    "Eintracht Braunschweig"
+   ]
+  },
+  {
    "id": "eintracht-frankfurt",
    "name": "Eintracht Frankfurt",
    "country": "GER",
@@ -1451,12 +2610,302 @@
    ]
   },
   {
+   "id": "energie-cottbus",
+   "name": "Energie Cottbus",
+   "country": "GER",
+   "espn": "123",
+   "aliases": [
+    "FC Energie Cottbus",
+    "Energie Cottbus"
+   ]
+  },
+  {
+   "id": "fc-augsburg",
+   "name": "FC Augsburg",
+   "country": "GER",
+   "espn": "3841",
+   "aliases": [
+    "FC Augsburg"
+   ]
+  },
+  {
+   "id": "fsv-frankfurt",
+   "name": "FSV Frankfurt",
+   "country": "GER",
+   "espn": "6608",
+   "aliases": [
+    "FSV Frankfurt"
+   ]
+  },
+  {
+   "id": "fortuna-dusseldorf",
+   "name": "Fortuna Düsseldorf",
+   "country": "GER",
+   "espn": "9707",
+   "aliases": [
+    "Fortuna Düsseldorf"
+   ]
+  },
+  {
+   "id": "greuther-furth",
+   "name": "Greuther Fürth",
+   "country": "GER",
+   "espn": "3070",
+   "aliases": [
+    "SpVgg Greuther Fürth",
+    "SpVgg Fürth",
+    "Greuther Fürth"
+   ]
+  },
+  {
    "id": "hamburger-sv",
    "name": "Hamburger SV",
    "country": "GER",
    "espn": "127",
    "aliases": [
     "Hamburger SV"
+   ]
+  },
+  {
+   "id": "hannover-96",
+   "name": "Hannover 96",
+   "country": "GER",
+   "espn": "2428",
+   "aliases": [
+    "Hannover 96"
+   ]
+  },
+  {
+   "id": "hansa-rostock",
+   "name": "Hansa Rostock",
+   "country": "GER",
+   "espn": "128",
+   "aliases": [
+    "FC Hansa Rostock",
+    "Hansa Rostock"
+   ]
+  },
+  {
+   "id": "hertha-bsc",
+   "name": "Hertha BSC",
+   "country": "GER",
+   "espn": "129",
+   "aliases": [
+    "Hertha BSC",
+    "Hertha Berlin"
+   ]
+  },
+  {
+   "id": "holstein-kiel",
+   "name": "Holstein Kiel",
+   "country": "GER",
+   "espn": "7884",
+   "aliases": [
+    "Holstein Kiel"
+   ]
+  },
+  {
+   "id": "karlsruher-sc",
+   "name": "Karlsruher SC",
+   "country": "GER",
+   "espn": "4471",
+   "aliases": [
+    "Karlsruher SC"
+   ]
+  },
+  {
+   "id": "kickers-offenbach",
+   "name": "Kickers Offenbach",
+   "country": "GER",
+   "espn": "9864",
+   "aliases": [
+    "Kickers Offenbach"
+   ]
+  },
+  {
+   "id": "msv-duisburg",
+   "name": "MSV Duisburg",
+   "country": "GER",
+   "espn": "3308",
+   "aliases": [
+    "MSV Duisburg",
+    "Meidericher SV"
+   ]
+  },
+  {
+   "id": "mainz-05",
+   "name": "Mainz 05",
+   "country": "GER",
+   "espn": "2950",
+   "aliases": [
+    "1. FSV Mainz 05",
+    "Mainz 05"
+   ]
+  },
+  {
+   "id": "preussen-munster",
+   "name": "Preußen Münster",
+   "country": "GER",
+   "espn": "9867",
+   "aliases": [
+    "SC Preußen Münster",
+    "Preußen Münster"
+   ]
+  },
+  {
+   "id": "rb-leipzig",
+   "name": "RB Leipzig",
+   "country": "GER",
+   "espn": "11420",
+   "aliases": [
+    "RB Leipzig"
+   ]
+  },
+  {
+   "id": "rot-weiss-essen",
+   "name": "Rot-Weiss Essen",
+   "country": "GER",
+   "espn": "9705",
+   "aliases": [
+    "Rot-Weiss Essen"
+   ]
+  },
+  {
+   "id": "rot-weiss-oberhausen",
+   "name": "Rot-Weiß Oberhausen",
+   "country": "GER",
+   "espn": "7264",
+   "aliases": [
+    "Rot-Weiß Oberhausen",
+    "Rot-Weiss Oberhausen"
+   ]
+  },
+  {
+   "id": "sc-freiburg",
+   "name": "SC Freiburg",
+   "country": "GER",
+   "espn": "126",
+   "aliases": [
+    "SC Freiburg"
+   ]
+  },
+  {
+   "id": "schalke-04",
+   "name": "Schalke 04",
+   "country": "GER",
+   "espn": "133",
+   "aliases": [
+    "FC Schalke 04",
+    "Schalke 04"
+   ]
+  },
+  {
+   "id": "st-pauli",
+   "name": "St. Pauli",
+   "country": "GER",
+   "espn": "270",
+   "aliases": [
+    "FC St. Pauli",
+    "St. Pauli"
+   ]
+  },
+  {
+   "id": "stuttgarter-kickers",
+   "name": "Stuttgarter Kickers",
+   "country": "GER",
+   "espn": "7023",
+   "aliases": [
+    "Stuttgarter Kickers"
+   ]
+  },
+  {
+   "id": "hoffenheim",
+   "name": "TSG Hoffenheim",
+   "country": "GER",
+   "espn": "7911",
+   "aliases": [
+    "TSG 1899 Hoffenheim",
+    "TSG Hoffenheim",
+    "1899 Hoffenheim"
+   ]
+  },
+  {
+   "id": "1-fc-union-berlin",
+   "name": "Union Berlin",
+   "country": "GER",
+   "espn": "598",
+   "aliases": [
+    "1. FC Union Berlin",
+    "Union Berlin"
+   ]
+  },
+  {
+   "id": "lokomotive-leipzig",
+   "name": "VfB Leipzig",
+   "country": "GER",
+   "espn": null,
+   "aliases": [
+    "1. FC Lokomotive Leipzig",
+    "Lokomotive Leipzig",
+    "VfB Leipzig"
+   ]
+  },
+  {
+   "id": "vfb-stuttgart",
+   "name": "VfB Stuttgart",
+   "country": "GER",
+   "espn": "134",
+   "aliases": [
+    "VfB Stuttgart"
+   ]
+  },
+  {
+   "id": "vfl-bochum",
+   "name": "VfL Bochum",
+   "country": "GER",
+   "espn": "121",
+   "aliases": [
+    "VfL Bochum"
+   ]
+  },
+  {
+   "id": "vfl-wolfsburg",
+   "name": "VfL Wolfsburg",
+   "country": "GER",
+   "espn": "138",
+   "aliases": [
+    "VfL Wolfsburg"
+   ]
+  },
+  {
+   "id": "viktoria-berlin",
+   "name": "Viktoria Berlin",
+   "country": "GER",
+   "espn": "17490",
+   "aliases": [
+    "FC Viktoria 1889 Berlin",
+    "Viktoria 89 Berlin",
+    "Viktoria Berlin"
+   ]
+  },
+  {
+   "id": "waldhof-mannheim",
+   "name": "Waldhof Mannheim",
+   "country": "GER",
+   "espn": "6610",
+   "aliases": [
+    "SV Waldhof Mannheim",
+    "Waldhof Mannheim"
+   ]
+  },
+  {
+   "id": "werder-bremen",
+   "name": "Werder Bremen",
+   "country": "GER",
+   "espn": "137",
+   "aliases": [
+    "SV Werder Bremen",
+    "Werder Bremen"
    ]
   },
   {
@@ -1481,6 +2930,134 @@
    ]
   },
   {
+   "id": "ascoli",
+   "name": "Ascoli",
+   "country": "ITA",
+   "espn": "3346",
+   "aliases": [
+    "Ascoli Calcio 1898 FC",
+    "Ascoli"
+   ]
+  },
+  {
+   "id": "atalanta",
+   "name": "Atalanta",
+   "country": "ITA",
+   "espn": "105",
+   "aliases": [
+    "Atalanta BC",
+    "Atalanta B.C.",
+    "Atalanta"
+   ]
+  },
+  {
+   "id": "bari",
+   "name": "Bari",
+   "country": "ITA",
+   "espn": "106",
+   "aliases": [
+    "SSC Bari",
+    "S.S.C. Bari",
+    "Bari"
+   ]
+  },
+  {
+   "id": "bologna",
+   "name": "Bologna",
+   "country": "ITA",
+   "espn": "107",
+   "aliases": [
+    "Bologna F.C. 1909",
+    "Bologna FC 1909",
+    "Bologna"
+   ]
+  },
+  {
+   "id": "brescia",
+   "name": "Brescia",
+   "country": "ITA",
+   "espn": "108",
+   "aliases": [
+    "Brescia Calcio",
+    "Brescia"
+   ]
+  },
+  {
+   "id": "cagliari",
+   "name": "Cagliari",
+   "country": "ITA",
+   "espn": "2925",
+   "aliases": [
+    "Cagliari Calcio",
+    "Cagliari"
+   ]
+  },
+  {
+   "id": "casale",
+   "name": "Casale",
+   "country": "ITA",
+   "espn": null,
+   "aliases": [
+    "A.S. Casale Calcio",
+    "AS Casale Calcio",
+    "Casale"
+   ]
+  },
+  {
+   "id": "catania",
+   "name": "Catania",
+   "country": "ITA",
+   "espn": "3258",
+   "aliases": [
+    "Catania FC",
+    "Calcio Catania",
+    "Catania"
+   ]
+  },
+  {
+   "id": "cesena",
+   "name": "Cesena",
+   "country": "ITA",
+   "espn": "3337",
+   "aliases": [
+    "Cesena FC",
+    "A.C. Cesena",
+    "Cesena"
+   ]
+  },
+  {
+   "id": "chievo",
+   "name": "Chievo",
+   "country": "ITA",
+   "espn": null,
+   "aliases": [
+    "AC ChievoVerona",
+    "A.C. ChievoVerona",
+    "Chievo"
+   ]
+  },
+  {
+   "id": "como",
+   "name": "Como",
+   "country": "ITA",
+   "espn": "2572",
+   "aliases": [
+    "Como 1907",
+    "Como"
+   ]
+  },
+  {
+   "id": "empoli",
+   "name": "Empoli",
+   "country": "ITA",
+   "espn": "2574",
+   "aliases": [
+    "Empoli FC",
+    "Empoli F.C.",
+    "Empoli"
+   ]
+  },
+  {
    "id": "fiorentina",
    "name": "Fiorentina",
    "country": "ITA",
@@ -1491,12 +3068,48 @@
    ]
   },
   {
+   "id": "foggia",
+   "name": "Foggia",
+   "country": "ITA",
+   "espn": "4054",
+   "aliases": [
+    "Calcio Foggia 1920",
+    "Foggia"
+   ]
+  },
+  {
+   "id": "genoa",
+   "name": "Genoa",
+   "country": "ITA",
+   "espn": "3263",
+   "aliases": [
+    "Genoa C.F.C.",
+    "Genoa CFC",
+    "Genoa"
+   ]
+  },
+  {
+   "id": "hellas-verona",
+   "name": "Hellas Verona",
+   "country": "ITA",
+   "espn": "119",
+   "aliases": [
+    "Hellas Verona F.C.",
+    "Hellas Verona FC",
+    "Hellas Verona",
+    "Verona"
+   ]
+  },
+  {
    "id": "inter-milan",
    "name": "Inter Milan",
    "country": "ITA",
    "espn": "110",
    "aliases": [
-    "Inter Milan"
+    "Inter Milan",
+    "Ambrosiana-Inter",
+    "Ambrosiana",
+    "Internazionale"
    ]
   },
   {
@@ -1510,6 +3123,39 @@
    ]
   },
   {
+   "id": "lazio",
+   "name": "Lazio",
+   "country": "ITA",
+   "espn": "112",
+   "aliases": [
+    "S.S. Lazio",
+    "SS Lazio",
+    "Lazio"
+   ]
+  },
+  {
+   "id": "lecce",
+   "name": "Lecce",
+   "country": "ITA",
+   "espn": "113",
+   "aliases": [
+    "US Lecce",
+    "U.S. Lecce",
+    "Lecce"
+   ]
+  },
+  {
+   "id": "livorno",
+   "name": "Livorno",
+   "country": "ITA",
+   "espn": "2926",
+   "aliases": [
+    "US Livorno 1915",
+    "U.S. Livorno 1915",
+    "Livorno"
+   ]
+  },
+  {
    "id": "milan",
    "name": "Milan",
    "country": "ITA",
@@ -1517,6 +3163,17 @@
    "aliases": [
     "AC Milan",
     "Milan"
+   ]
+  },
+  {
+   "id": "modena",
+   "name": "Modena",
+   "country": "ITA",
+   "espn": "2573",
+   "aliases": [
+    "Modena FC",
+    "Modena F.C.",
+    "Modena"
    ]
   },
   {
@@ -1531,6 +3188,102 @@
    ]
   },
   {
+   "id": "novara",
+   "name": "Novara",
+   "country": "ITA",
+   "espn": "3954",
+   "aliases": [
+    "Novara FC",
+    "Novara Calcio",
+    "Novara"
+   ]
+  },
+  {
+   "id": "novese",
+   "name": "Novese",
+   "country": "ITA",
+   "espn": null,
+   "aliases": [
+    "U.S.D. Novese",
+    "USD Novese",
+    "Novese"
+   ]
+  },
+  {
+   "id": "padova",
+   "name": "Padova",
+   "country": "ITA",
+   "espn": "3952",
+   "aliases": [
+    "Calcio Padova",
+    "Padova"
+   ]
+  },
+  {
+   "id": "palermo",
+   "name": "Palermo",
+   "country": "ITA",
+   "espn": "2923",
+   "aliases": [
+    "Palermo FC",
+    "Palermo F.C.",
+    "Palermo"
+   ]
+  },
+  {
+   "id": "parma",
+   "name": "Parma",
+   "country": "ITA",
+   "espn": "115",
+   "aliases": [
+    "Parma Calcio 1913",
+    "Parma"
+   ]
+  },
+  {
+   "id": "perugia",
+   "name": "Perugia",
+   "country": "ITA",
+   "espn": "116",
+   "aliases": [
+    "AC Perugia Calcio",
+    "A.C. Perugia Calcio",
+    "Perugia"
+   ]
+  },
+  {
+   "id": "pisa",
+   "name": "Pisa",
+   "country": "ITA",
+   "espn": "3956",
+   "aliases": [
+    "Pisa SC",
+    "Pisa S.C.",
+    "Pisa"
+   ]
+  },
+  {
+   "id": "pro-patria",
+   "name": "Pro Patria",
+   "country": "ITA",
+   "espn": "3963",
+   "aliases": [
+    "Aurora Pro Patria 1919",
+    "Pro Patria"
+   ]
+  },
+  {
+   "id": "pro-vercelli",
+   "name": "Pro Vercelli",
+   "country": "ITA",
+   "espn": null,
+   "aliases": [
+    "F.C. Pro Vercelli 1892",
+    "FC Pro Vercelli 1892",
+    "Pro Vercelli"
+   ]
+  },
+  {
    "id": "roma",
    "name": "Roma",
    "country": "ITA",
@@ -1541,6 +3294,17 @@
    ]
   },
   {
+   "id": "spal",
+   "name": "SPAL",
+   "country": "ITA",
+   "espn": null,
+   "aliases": [
+    "SPAL",
+    "S.P.A.L.",
+    "SPAL 2013"
+   ]
+  },
+  {
    "id": "sampdoria",
    "name": "Sampdoria",
    "country": "ITA",
@@ -1548,6 +3312,61 @@
    "aliases": [
     "Sampdoria",
     "U.C. Sampdoria"
+   ]
+  },
+  {
+   "id": "sassuolo",
+   "name": "Sassuolo",
+   "country": "ITA",
+   "espn": "3997",
+   "aliases": [
+    "US Sassuolo Calcio",
+    "U.S. Sassuolo Calcio",
+    "Sassuolo"
+   ]
+  },
+  {
+   "id": "torino",
+   "name": "Torino",
+   "country": "ITA",
+   "espn": "239",
+   "aliases": [
+    "Torino F.C.",
+    "Torino FC",
+    "Torino",
+    "Torino Football Club"
+   ]
+  },
+  {
+   "id": "triestina",
+   "name": "Triestina",
+   "country": "ITA",
+   "espn": null,
+   "aliases": [
+    "U. Triestina 2012",
+    "US Triestina Calcio 1918",
+    "Triestina"
+   ]
+  },
+  {
+   "id": "udinese",
+   "name": "Udinese",
+   "country": "ITA",
+   "espn": "118",
+   "aliases": [
+    "Udinese Calcio",
+    "Udinese"
+   ]
+  },
+  {
+   "id": "venezia",
+   "name": "Venezia",
+   "country": "ITA",
+   "espn": "17530",
+   "aliases": [
+    "Venezia FC",
+    "Venezia F.C.",
+    "Venezia"
    ]
   },
   {

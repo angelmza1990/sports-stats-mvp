@@ -52,6 +52,7 @@ COUNTRIES = {
     "KSA": ("Saudi Arabia", "sa"), "UAE": ("United Arab Emirates", "ae"), "QAT": ("Qatar", "qa"), "TUN": ("Tunisia", "tn"),
     "NZL": ("New Zealand", "nz"), "CHN": ("China", "cn"), "IRN": ("Iran", "ir"),
     "LBR": ("Liberia", "lr"), "GBR": ("United Kingdom", "gb"), "MON": ("Monaco", "mc"), "MOZ": ("Mozambique", "mz"),
+    "RSA": ("South Africa", "za"), "TRI": ("Trinidad and Tobago", "tt"), "CGO": ("Congo", "cg"), "LUX": ("Luxembourg", "lu"),
 }
 
 CONFEDERATIONS = {
@@ -144,12 +145,20 @@ class ClubIndex:
         self.unmapped: dict[str, str] = {}
         self.used: set[str] = set()
 
+    def by_label(self, text: str, country: str | None) -> str | None:
+        """A club known by this label; labels like "Everton" or "Palermo" are shared across countries,
+        so a label only matches a club of the same country when the country is known."""
+        cid = self.alias.get(text.lower())
+        if cid and country and self.clubs[cid]["country"] not in (country, None):
+            return None
+        return cid
+
     def resolve(self, cell: str, country: str | None) -> str | None:
         found = W.links(cell)
         if not found:
             return None
         target, text = found[0]
-        cid = self.alias.get(target.lower()) or self.alias.get(text.lower())
+        cid = self.alias.get(target.lower()) or self.by_label(text, country)
         if not cid:
             cid = slug(target)  # the linked article identifies the club even when labels differ
             if cid not in self.clubs:
