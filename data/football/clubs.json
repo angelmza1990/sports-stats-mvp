@@ -1,0 +1,984 @@
+{
+ "_note": "Clubs shown with a crest. 'aliases' are Wikipedia link targets and labels that refer to the club; 'espn' is the ESPN CDN team id for the crest (null = lettered badge). 'country' is today's country; finals keep the country of the time.",
+ "clubs": [
+  {
+   "id": "argentinos-juniors",
+   "name": "Argentinos Juniors",
+   "country": "ARG",
+   "espn": "3",
+   "aliases": [
+    "Argentinos Juniors"
+   ]
+  },
+  {
+   "id": "boca-juniors",
+   "name": "Boca Juniors",
+   "country": "ARG",
+   "espn": "5",
+   "aliases": [
+    "Boca Juniors",
+    "Club Atlético Boca Juniors"
+   ]
+  },
+  {
+   "id": "estudiantes",
+   "name": "Estudiantes",
+   "country": "ARG",
+   "espn": "8",
+   "aliases": [
+    "Club Estudiantes de La Plata",
+    "Estudiantes",
+    "Estudiantes de La Plata"
+   ]
+  },
+  {
+   "id": "independiente",
+   "name": "Independiente",
+   "country": "ARG",
+   "espn": "11",
+   "aliases": [
+    "Club Atlético Independiente",
+    "Independiente"
+   ]
+  },
+  {
+   "id": "lanus",
+   "name": "Lanús",
+   "country": "ARG",
+   "espn": "12",
+   "aliases": [
+    "Club Atlético Lanús",
+    "Lanús"
+   ]
+  },
+  {
+   "id": "newell-s-old-boys",
+   "name": "Newell's Old Boys",
+   "country": "ARG",
+   "espn": "14",
+   "aliases": [
+    "Newell's Old Boys"
+   ]
+  },
+  {
+   "id": "racing",
+   "name": "Racing",
+   "country": "ARG",
+   "espn": "15",
+   "aliases": [
+    "Racing",
+    "Racing Club de Avellaneda"
+   ]
+  },
+  {
+   "id": "river-plate",
+   "name": "River Plate",
+   "country": "ARG",
+   "espn": "16",
+   "aliases": [
+    "Club Atlético River Plate",
+    "River Plate"
+   ]
+  },
+  {
+   "id": "san-lorenzo",
+   "name": "San Lorenzo",
+   "country": "ARG",
+   "espn": "18",
+   "aliases": [
+    "San Lorenzo",
+    "San Lorenzo de Almagro"
+   ]
+  },
+  {
+   "id": "velez-sarsfield",
+   "name": "Vélez Sarsfield",
+   "country": "ARG",
+   "espn": "21",
+   "aliases": [
+    "Club Atlético Vélez Sarsfield",
+    "Vélez Sarsfield",
+    "Vélez Sársfield"
+   ]
+  },
+  {
+   "id": "anderlecht",
+   "name": "Anderlecht",
+   "country": "BEL",
+   "espn": "441",
+   "aliases": [
+    "Anderlecht",
+    "RSC Anderlecht"
+   ]
+  },
+  {
+   "id": "club-brugge",
+   "name": "Club Brugge",
+   "country": "BEL",
+   "espn": "570",
+   "aliases": [
+    "Club Brugge",
+    "Club Brugge KV"
+   ]
+  },
+  {
+   "id": "bolivar",
+   "name": "Bolívar",
+   "country": "BOL",
+   "espn": "2681",
+   "aliases": [
+    "Bolívar",
+    "Club Bolívar"
+   ]
+  },
+  {
+   "id": "the-strongest",
+   "name": "The Strongest",
+   "country": "BOL",
+   "espn": "2687",
+   "aliases": [
+    "The Strongest"
+   ]
+  },
+  {
+   "id": "athletico-paranaense",
+   "name": "Athletico Paranaense",
+   "country": "BRA",
+   "espn": "3458",
+   "aliases": [
+    "Athletico Paranaense",
+    "Atlético Paranaense",
+    "Club Athletico Paranaense",
+    "Clube Atlético Paranaense"
+   ]
+  },
+  {
+   "id": "atletico-mineiro",
+   "name": "Atlético Mineiro",
+   "country": "BRA",
+   "espn": "7632",
+   "aliases": [
+    "Atlético Mineiro",
+    "Clube Atlético Mineiro"
+   ]
+  },
+  {
+   "id": "botafogo",
+   "name": "Botafogo",
+   "country": "BRA",
+   "espn": "6086",
+   "aliases": [
+    "Botafogo",
+    "Botafogo de Futebol e Regatas"
+   ]
+  },
+  {
+   "id": "corinthians",
+   "name": "Corinthians",
+   "country": "BRA",
+   "espn": "874",
+   "aliases": [
+    "Corinthians",
+    "Sport Club Corinthians Paulista"
+   ]
+  },
+  {
+   "id": "cruzeiro",
+   "name": "Cruzeiro",
+   "country": "BRA",
+   "espn": "2022",
+   "aliases": [
+    "Cruzeiro",
+    "Cruzeiro Esporte Clube"
+   ]
+  },
+  {
+   "id": "flamengo",
+   "name": "Flamengo",
+   "country": "BRA",
+   "espn": "819",
+   "aliases": [
+    "Clube de Regatas do Flamengo",
+    "Flamengo"
+   ]
+  },
+  {
+   "id": "fluminense",
+   "name": "Fluminense",
+   "country": "BRA",
+   "espn": "3445",
+   "aliases": [
+    "Fluminense",
+    "Fluminense FC"
+   ]
+  },
+  {
+   "id": "gremio",
+   "name": "Grêmio",
+   "country": "BRA",
+   "espn": "6273",
+   "aliases": [
+    "Grêmio",
+    "Grêmio Foot-Ball Porto Alegrense"
+   ]
+  },
+  {
+   "id": "internacional",
+   "name": "Internacional",
+   "country": "BRA",
+   "espn": "1936",
+   "aliases": [
+    "Internacional",
+    "Sport Club Internacional"
+   ]
+  },
+  {
+   "id": "palmeiras",
+   "name": "Palmeiras",
+   "country": "BRA",
+   "espn": "2029",
+   "aliases": [
+    "Palmeiras",
+    "Sociedade Esportiva Palmeiras"
+   ]
+  },
+  {
+   "id": "santos",
+   "name": "Santos",
+   "country": "BRA",
+   "espn": "2674",
+   "aliases": [
+    "Santos",
+    "Santos FC",
+    "Santos Futebol Clube"
+   ]
+  },
+  {
+   "id": "sao-caetano",
+   "name": "São Caetano",
+   "country": "BRA",
+   "espn": null,
+   "aliases": [
+    "Associação Desportiva São Caetano",
+    "São Caetano"
+   ]
+  },
+  {
+   "id": "sao-paulo",
+   "name": "São Paulo",
+   "country": "BRA",
+   "espn": "2026",
+   "aliases": [
+    "São Paulo",
+    "São Paulo FC",
+    "São Paulo Futebol Clube"
+   ]
+  },
+  {
+   "id": "vasco-da-gama",
+   "name": "Vasco da Gama",
+   "country": "BRA",
+   "espn": "3454",
+   "aliases": [
+    "CR Vasco da Gama",
+    "Vasco da Gama"
+   ]
+  },
+  {
+   "id": "cobreloa",
+   "name": "Cobreloa",
+   "country": "CHI",
+   "espn": "2678",
+   "aliases": [
+    "Cobreloa"
+   ]
+  },
+  {
+   "id": "colo-colo",
+   "name": "Colo-Colo",
+   "country": "CHI",
+   "espn": "2688",
+   "aliases": [
+    "Club Social y Deportivo Colo-Colo",
+    "Colo-Colo"
+   ]
+  },
+  {
+   "id": "universidad-catolica",
+   "name": "Universidad Católica",
+   "country": "CHI",
+   "espn": "885",
+   "aliases": [
+    "Club Deportivo Universidad Católica",
+    "Universidad Católica"
+   ]
+  },
+  {
+   "id": "universidad-de-chile",
+   "name": "Universidad de Chile",
+   "country": "CHI",
+   "espn": "4139",
+   "aliases": [
+    "Club Universidad de Chile",
+    "Universidad de Chile"
+   ]
+  },
+  {
+   "id": "union-espanola",
+   "name": "Unión Española",
+   "country": "CHI",
+   "espn": "4132",
+   "aliases": [
+    "Unión Española"
+   ]
+  },
+  {
+   "id": "america-de-cali",
+   "name": "América de Cali",
+   "country": "COL",
+   "espn": "8109",
+   "aliases": [
+    "América de Cali",
+    "Corporación Deportiva América"
+   ]
+  },
+  {
+   "id": "atletico-nacional",
+   "name": "Atlético Nacional",
+   "country": "COL",
+   "espn": "5264",
+   "aliases": [
+    "Atlético Nacional"
+   ]
+  },
+  {
+   "id": "deportivo-cali",
+   "name": "Deportivo Cali",
+   "country": "COL",
+   "espn": "2672",
+   "aliases": [
+    "Deportivo Cali"
+   ]
+  },
+  {
+   "id": "once-caldas",
+   "name": "Once Caldas",
+   "country": "COL",
+   "espn": "2919",
+   "aliases": [
+    "Once Caldas"
+   ]
+  },
+  {
+   "id": "dinamo-zagreb",
+   "name": "Dinamo Zagreb",
+   "country": "CRO",
+   "espn": "597",
+   "aliases": [
+    "Dinamo Zagreb",
+    "GNK Dinamo Zagreb"
+   ]
+  },
+  {
+   "id": "barcelona-sc",
+   "name": "Barcelona SC",
+   "country": "ECU",
+   "espn": "2686",
+   "aliases": [
+    "Barcelona S.C.",
+    "Barcelona SC",
+    "Barcelona Sporting Club"
+   ]
+  },
+  {
+   "id": "el-nacional",
+   "name": "El Nacional",
+   "country": "ECU",
+   "espn": "882",
+   "aliases": [
+    "El Nacional",
+    "Club Deportivo El Nacional"
+   ]
+  },
+  {
+   "id": "emelec",
+   "name": "Emelec",
+   "country": "ECU",
+   "espn": "2668",
+   "aliases": [
+    "Club Sport Emelec",
+    "Emelec"
+   ]
+  },
+  {
+   "id": "independiente-del-valle",
+   "name": "Independiente del Valle",
+   "country": "ECU",
+   "espn": "17086",
+   "aliases": [
+    "Independiente del Valle"
+   ]
+  },
+  {
+   "id": "ldu-quito",
+   "name": "LDU Quito",
+   "country": "ECU",
+   "espn": "4816",
+   "aliases": [
+    "L.D.U. Quito",
+    "LDU Quito",
+    "Liga Deportiva Universitaria de Quito"
+   ]
+  },
+  {
+   "id": "arsenal",
+   "name": "Arsenal",
+   "country": "ENG",
+   "espn": "359",
+   "aliases": [
+    "Arsenal",
+    "Arsenal F.C."
+   ]
+  },
+  {
+   "id": "aston-villa",
+   "name": "Aston Villa",
+   "country": "ENG",
+   "espn": "362",
+   "aliases": [
+    "Aston Villa",
+    "Aston Villa F.C."
+   ]
+  },
+  {
+   "id": "chelsea",
+   "name": "Chelsea",
+   "country": "ENG",
+   "espn": "363",
+   "aliases": [
+    "Chelsea",
+    "Chelsea F.C."
+   ]
+  },
+  {
+   "id": "leeds-united",
+   "name": "Leeds United",
+   "country": "ENG",
+   "espn": "357",
+   "aliases": [
+    "Leeds United",
+    "Leeds United F.C."
+   ]
+  },
+  {
+   "id": "liverpool",
+   "name": "Liverpool",
+   "country": "ENG",
+   "espn": "364",
+   "aliases": [
+    "Liverpool",
+    "Liverpool F.C."
+   ]
+  },
+  {
+   "id": "manchester-city",
+   "name": "Manchester City",
+   "country": "ENG",
+   "espn": "382",
+   "aliases": [
+    "Manchester City",
+    "Manchester City F.C."
+   ]
+  },
+  {
+   "id": "manchester-united",
+   "name": "Manchester United",
+   "country": "ENG",
+   "espn": "360",
+   "aliases": [
+    "Manchester United",
+    "Manchester United F.C."
+   ]
+  },
+  {
+   "id": "nottingham-forest",
+   "name": "Nottingham Forest",
+   "country": "ENG",
+   "espn": "393",
+   "aliases": [
+    "Nottingham Forest",
+    "Nottingham Forest F.C."
+   ]
+  },
+  {
+   "id": "tottenham-hotspur",
+   "name": "Tottenham Hotspur",
+   "country": "ENG",
+   "espn": "367",
+   "aliases": [
+    "Tottenham Hotspur",
+    "Tottenham Hotspur F.C."
+   ]
+  },
+  {
+   "id": "atletico-madrid",
+   "name": "Atlético Madrid",
+   "country": "ESP",
+   "espn": "1068",
+   "aliases": [
+    "Atlético Madrid"
+   ]
+  },
+  {
+   "id": "barcelona",
+   "name": "Barcelona",
+   "country": "ESP",
+   "espn": "83",
+   "aliases": [
+    "Barcelona",
+    "FC Barcelona"
+   ]
+  },
+  {
+   "id": "real-madrid",
+   "name": "Real Madrid",
+   "country": "ESP",
+   "espn": "86",
+   "aliases": [
+    "Real Madrid",
+    "Real Madrid CF"
+   ]
+  },
+  {
+   "id": "valencia",
+   "name": "Valencia",
+   "country": "ESP",
+   "espn": "94",
+   "aliases": [
+    "Valencia",
+    "Valencia CF"
+   ]
+  },
+  {
+   "id": "marseille",
+   "name": "Marseille",
+   "country": "FRA",
+   "espn": "176",
+   "aliases": [
+    "Marseille",
+    "Olympique de Marseille"
+   ]
+  },
+  {
+   "id": "monaco",
+   "name": "Monaco",
+   "country": "FRA",
+   "espn": "174",
+   "aliases": [
+    "AS Monaco FC",
+    "Monaco"
+   ]
+  },
+  {
+   "id": "paris-saint-germain",
+   "name": "Paris Saint-Germain",
+   "country": "FRA",
+   "espn": "160",
+   "aliases": [
+    "Paris Saint-Germain",
+    "Paris Saint-Germain FC"
+   ]
+  },
+  {
+   "id": "reims",
+   "name": "Reims",
+   "country": "FRA",
+   "espn": "3243",
+   "aliases": [
+    "Reims",
+    "Stade de Reims"
+   ]
+  },
+  {
+   "id": "saint-etienne",
+   "name": "Saint-Étienne",
+   "country": "FRA",
+   "espn": "178",
+   "aliases": [
+    "AS Saint-Étienne",
+    "Saint-Étienne"
+   ]
+  },
+  {
+   "id": "bayer-leverkusen",
+   "name": "Bayer Leverkusen",
+   "country": "GER",
+   "espn": "131",
+   "aliases": [
+    "Bayer 04 Leverkusen",
+    "Bayer Leverkusen"
+   ]
+  },
+  {
+   "id": "bayern-munich",
+   "name": "Bayern Munich",
+   "country": "GER",
+   "espn": "132",
+   "aliases": [
+    "Bayern Munich",
+    "FC Bayern Munich"
+   ]
+  },
+  {
+   "id": "borussia-dortmund",
+   "name": "Borussia Dortmund",
+   "country": "GER",
+   "espn": "124",
+   "aliases": [
+    "Borussia Dortmund"
+   ]
+  },
+  {
+   "id": "borussia-monchengladbach",
+   "name": "Borussia Mönchengladbach",
+   "country": "GER",
+   "espn": "268",
+   "aliases": [
+    "Borussia Mönchengladbach"
+   ]
+  },
+  {
+   "id": "eintracht-frankfurt",
+   "name": "Eintracht Frankfurt",
+   "country": "GER",
+   "espn": "125",
+   "aliases": [
+    "Eintracht Frankfurt"
+   ]
+  },
+  {
+   "id": "hamburger-sv",
+   "name": "Hamburger SV",
+   "country": "GER",
+   "espn": "127",
+   "aliases": [
+    "Hamburger SV"
+   ]
+  },
+  {
+   "id": "panathinaikos",
+   "name": "Panathinaikos",
+   "country": "GRE",
+   "espn": "443",
+   "aliases": [
+    "Panathinaikos",
+    "Panathinaikos F.C."
+   ]
+  },
+  {
+   "id": "fiorentina",
+   "name": "Fiorentina",
+   "country": "ITA",
+   "espn": "109",
+   "aliases": [
+    "ACF Fiorentina",
+    "Fiorentina"
+   ]
+  },
+  {
+   "id": "inter-milan",
+   "name": "Inter Milan",
+   "country": "ITA",
+   "espn": "110",
+   "aliases": [
+    "Inter Milan"
+   ]
+  },
+  {
+   "id": "juventus",
+   "name": "Juventus",
+   "country": "ITA",
+   "espn": "111",
+   "aliases": [
+    "Juventus",
+    "Juventus FC"
+   ]
+  },
+  {
+   "id": "milan",
+   "name": "Milan",
+   "country": "ITA",
+   "espn": "103",
+   "aliases": [
+    "AC Milan",
+    "Milan"
+   ]
+  },
+  {
+   "id": "roma",
+   "name": "Roma",
+   "country": "ITA",
+   "espn": "104",
+   "aliases": [
+    "A.S. Roma",
+    "Roma"
+   ]
+  },
+  {
+   "id": "sampdoria",
+   "name": "Sampdoria",
+   "country": "ITA",
+   "espn": "2734",
+   "aliases": [
+    "Sampdoria",
+    "U.C. Sampdoria"
+   ]
+  },
+  {
+   "id": "cruz-azul",
+   "name": "Cruz Azul",
+   "country": "MEX",
+   "espn": "218",
+   "aliases": [
+    "Cruz Azul"
+   ]
+  },
+  {
+   "id": "guadalajara",
+   "name": "Guadalajara",
+   "country": "MEX",
+   "espn": "219",
+   "aliases": [
+    "C.D. Guadalajara",
+    "Guadalajara"
+   ]
+  },
+  {
+   "id": "uanl",
+   "name": "UANL",
+   "country": "MEX",
+   "espn": "232",
+   "aliases": [
+    "Tigres UANL",
+    "UANL"
+   ]
+  },
+  {
+   "id": "ajax",
+   "name": "Ajax",
+   "country": "NED",
+   "espn": "139",
+   "aliases": [
+    "AFC Ajax",
+    "Ajax"
+   ]
+  },
+  {
+   "id": "feyenoord",
+   "name": "Feyenoord",
+   "country": "NED",
+   "espn": "142",
+   "aliases": [
+    "Feyenoord"
+   ]
+  },
+  {
+   "id": "psv-eindhoven",
+   "name": "PSV Eindhoven",
+   "country": "NED",
+   "espn": "148",
+   "aliases": [
+    "PSV Eindhoven"
+   ]
+  },
+  {
+   "id": "cerro-porteno",
+   "name": "Cerro Porteño",
+   "country": "PAR",
+   "espn": "2671",
+   "aliases": [
+    "Cerro Porteño",
+    "Club Cerro Porteño"
+   ]
+  },
+  {
+   "id": "libertad",
+   "name": "Libertad",
+   "country": "PAR",
+   "espn": "2670",
+   "aliases": [
+    "Club Libertad",
+    "Libertad"
+   ]
+  },
+  {
+   "id": "olimpia",
+   "name": "Olimpia",
+   "country": "PAR",
+   "espn": "2675",
+   "aliases": [
+    "Club Olimpia",
+    "Olimpia"
+   ]
+  },
+  {
+   "id": "alianza-lima",
+   "name": "Alianza Lima",
+   "country": "PER",
+   "espn": "2680",
+   "aliases": [
+    "Alianza Lima",
+    "Club Alianza Lima"
+   ]
+  },
+  {
+   "id": "sporting-cristal",
+   "name": "Sporting Cristal",
+   "country": "PER",
+   "espn": "2673",
+   "aliases": [
+    "Club Sporting Cristal",
+    "Sporting Cristal"
+   ]
+  },
+  {
+   "id": "universitario",
+   "name": "Universitario",
+   "country": "PER",
+   "espn": "2685",
+   "aliases": [
+    "Club Universitario de Deportes",
+    "Universitario"
+   ]
+  },
+  {
+   "id": "benfica",
+   "name": "Benfica",
+   "country": "POR",
+   "espn": "1929",
+   "aliases": [
+    "Benfica",
+    "S.L. Benfica"
+   ]
+  },
+  {
+   "id": "porto",
+   "name": "Porto",
+   "country": "POR",
+   "espn": "437",
+   "aliases": [
+    "FC Porto",
+    "Porto"
+   ]
+  },
+  {
+   "id": "steaua-bucuresti",
+   "name": "Steaua București",
+   "country": "ROU",
+   "espn": null,
+   "aliases": [
+    "CSA Steaua București (football)",
+    "Steaua București"
+   ]
+  },
+  {
+   "id": "celtic",
+   "name": "Celtic",
+   "country": "SCO",
+   "espn": "256",
+   "aliases": [
+    "Celtic",
+    "Celtic F.C."
+   ]
+  },
+  {
+   "id": "rangers",
+   "name": "Rangers",
+   "country": "SCO",
+   "espn": "257",
+   "aliases": [
+    "Rangers",
+    "Rangers F.C."
+   ]
+  },
+  {
+   "id": "partizan",
+   "name": "Partizan",
+   "country": "SRB",
+   "espn": "541",
+   "aliases": [
+    "FK Partizan",
+    "Partizan"
+   ]
+  },
+  {
+   "id": "red-star-belgrade",
+   "name": "Red Star Belgrade",
+   "country": "SRB",
+   "espn": "2290",
+   "aliases": [
+    "Red Star Belgrade"
+   ]
+  },
+  {
+   "id": "malmo-ff",
+   "name": "Malmö FF",
+   "country": "SWE",
+   "espn": "2720",
+   "aliases": [
+    "Malmö FF"
+   ]
+  },
+  {
+   "id": "galatasaray",
+   "name": "Galatasaray",
+   "country": "TUR",
+   "espn": "432",
+   "aliases": [
+    "Galatasaray",
+    "Galatasaray S.K. (football)"
+   ]
+  },
+  {
+   "id": "dynamo-kyiv",
+   "name": "Dynamo Kyiv",
+   "country": "UKR",
+   "espn": "440",
+   "aliases": [
+    "Dynamo Kyiv",
+    "FC Dynamo Kyiv"
+   ]
+  },
+  {
+   "id": "nacional",
+   "name": "Nacional",
+   "country": "URU",
+   "espn": "2684",
+   "aliases": [
+    "Club Nacional",
+    "Club Nacional de Football",
+    "Nacional"
+   ]
+  },
+  {
+   "id": "penarol",
+   "name": "Peñarol",
+   "country": "URU",
+   "espn": "2683",
+   "aliases": [
+    "Club Atlético Peñarol",
+    "Peñarol"
+   ]
+  },
+  {
+   "id": "deportivo-tachira",
+   "name": "Deportivo Táchira",
+   "country": "VEN",
+   "espn": "4818",
+   "aliases": [
+    "Deportivo Táchira",
+    "Deportivo Táchira Fútbol Club"
+   ]
+  }
+ ]
+}
