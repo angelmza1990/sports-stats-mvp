@@ -34,6 +34,10 @@ Every Open Era men's singles major since Roland Garros 1968:
 - **Match records:** most matches won and played at each major
 - **The most repeated finals**
 
+### 🎾 [ATP Records](https://angelmza1990.github.io/sports-stats-mvp/tennis/atp-records/)
+
+Open Era career leaders: a race of career titles, leaders in titles, weeks at No. 1, matches won and played and win percentage (overall and by surface), the kings of each surface, career records, nations and every year-end No. 1.
+
 ### 🏀 [NBA Rings](https://angelmza1990.github.io/sports-stats-mvp/basketball/nba-rings/)
 
 Every NBA championship since 1947:
@@ -74,6 +78,15 @@ The Intercontinental Cup (1960–2004), the FIFA Club World Cup and the FIFA Int
 
 Every league champion since 1891: a titles race with or without the amateur era, titles by club split by era, the all-time table (total, professional and amateur), the top scorer of every tournament and his club, the all-time scorers, the amateur years when rival associations crowned their own champions (1912–14, 1919–26, 1931–34) and every season.
 
+### 🏉🏐🏑🏀 International team tournaments
+
+One page per sport, each with a selector for every competition and gender:
+[Rugby World Cup](https://angelmza1990.github.io/sports-stats-mvp/rugby/international/) (men and women),
+[Basketball World Cup & Olympics](https://angelmza1990.github.io/sports-stats-mvp/basketball/international/),
+[Volleyball World Championship & Olympics](https://angelmza1990.github.io/sports-stats-mvp/volleyball/international/) and
+[Field Hockey World Cup & Olympics](https://angelmza1990.github.io/sports-stats-mvp/hockey/international/) (men and women).
+Each shows a race of titles, finals or podiums, champions and podium finishes, results by continent, hosts, repeated finals, teams per edition and, where the sources record them, the all-time table, appearances and player records.
+
 ### 🏎️ [Formula 1](https://angelmza1990.github.io/sports-stats-mvp/motorsport/formula-1/)
 
 Every World Champion since 1950: bar chart races of drivers', constructors' and nations' titles, every champion, titles by nationality and by constructor, and the all-time Grand Prix winners by driver, constructor and nationality.
@@ -92,6 +105,8 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 ├── basketball/nba-rings/         # NBA Rings infographic
 ├── football/                     # Football pages (shared common.js) + one folder per page
 ├── motorsport/formula-1/         # Formula 1 page
+├── international/tournament.js   # Shared page for team tournaments
+├── rugby|basketball|volleyball|hockey/international/  # One page per sport (data/ per competition)
 ├── scripts/
 │   ├── tennis_data.py            # Shared ATP + Wikipedia draw helpers
 │   ├── build_big_three.py        # Big Three data pipeline
@@ -100,6 +115,8 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_football.py         # Football club competitions pipeline
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
 │   ├── build_f1.py               # Formula 1 pipeline
+│   ├── build_atp_records.py      # ATP career records pipeline
+│   ├── build_tournaments.py      # Rugby, basketball, volleyball and hockey tournaments
 │   └── wikitables.py             # Generic Wikipedia table parser
 ├── data/
 │   ├── manual/                   # Hand-curated tennis results and nationality fixes
@@ -123,6 +140,8 @@ python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia 
 python3 scripts/build_football.py --refresh   # football: club competitions and Argentine league
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
+python3 scripts/build_atp_records.py --refresh  # tennis: ATP career records
+python3 scripts/build_tournaments.py --refresh  # rugby, basketball, volleyball, hockey
 ```
 
 Leave out `--refresh` to use the cached copies in `data/raw/`.
@@ -147,6 +166,10 @@ Rules applied:
 
 **Formula 1.** Drivers' and constructors' champions and the all-time race wins come from Wikipedia's F1 lists. The build checks one champion per season, the title counts of the record holders and the constructors' title totals.
 
+**ATP records.** Titles and match records are counted from the ATP match files (plus the Wikipedia-sourced Slams and the manual supplement); weeks at No. 1 and year-end No. 1s come from Wikipedia. The build checks Federer's 103 titles and 1,251–275 record, Nadal's 92 titles and the weeks at No. 1 of the leaders.
+
+**Team tournaments.** One config per competition (in `build_tournaments.py`) names the Wikipedia page and table for its editions and, where they exist, its participation table, all-time table and player records. The parser reads flag templates of every sport, so champion, runner-up, third and fourth come out as country codes; each build checks the title counts of the most successful nations.
+
 ### Running locally
 
 ```bash
@@ -161,7 +184,7 @@ python3 -m http.server 8000
 - Flags: [Flagpedia](https://flagpedia.net) (flagcdn.com).
 - NBA championships: [Wikipedia](https://en.wikipedia.org/wiki/List_of_NBA_champions), CC BY-SA 4.0.
 - Football finals, club records and player records: Wikipedia (CC BY-SA 4.0).
-- NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, FIFA, CONMEBOL, UEFA, the AFA, France Football, Formula One or the FIA.
+- NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, FIFA, CONMEBOL, UEFA, the AFA, France Football, Formula One, the FIA, World Rugby, FIBA, the FIVB, the FIH or the IOC.
 
 ## License
 
