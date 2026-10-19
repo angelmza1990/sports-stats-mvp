@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Handball World Championship & Olympics · Handball</title>
+  <meta name="description" content="Every IHF World Championship and Olympic handball tournament, men's and women's: champions, hosts, repeated finals, appearances and player medals.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-datasets='[{"key": "handball-wc-men", "label": "World Championship \u00b7 Men", "src": "data/handball-wc-men.json"}, {"key": "handball-wc-women", "label": "World Championship \u00b7 Women", "src": "data/handball-wc-women.json"}, {"key": "handball-olympics-men", "label": "Olympics \u00b7 Men", "src": "data/handball-olympics-men.json"}, {"key": "handball-olympics-women", "label": "Olympics \u00b7 Women", "src": "data/handball-olympics-women.json"}]'>
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Handball</p>
+    <h1>Handball World Championship & Olympics</h1>
+    <p class="lede">Every IHF World Championship and every Olympic handball tournament, men's and women's, since the first World Championship in 1938.</p>
+  </header>
+
+  <div class="filter-bar wrap-bar">
+    <div class="wrap filter-inner">
+      <span class="filter-label">Competition</span>
+      <div class="segmented" role="tablist" aria-label="Competition" id="competition"></div>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <div class="stat-row" id="stats" style="margin-top:24px"></div>
+
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most titles</h2>
+        <p><span data-gender></span>: titles, finals or podium finishes by nation, edition by edition. Bars are colored by continent.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Measure" id="race-metric"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Edition">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="champions">
+      <div class="block-head">
+        <h2>Champions and the podium</h2>
+        <p>Every team that has finished in the top four, or every edition one by one.</p>
+      </div>
+      <div class="card">
+        <div class="controls"><div class="segmented" role="tablist" aria-label="View" id="champions-tabs"></div></div>
+        <div class="data-table tall" id="champions-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="continents">
+      <div class="block-head">
+        <h2>By continent</h2>
+        <p>Titles and runner-up finishes by continent. Hover a row for the nations.</p>
+      </div>
+      <div class="card"><div id="continents-list"></div></div>
+    </section>
+
+    <section class="block" id="hosts">
+      <div class="block-head">
+        <h2>Hosts</h2>
+        <p>Who hosted each edition and how far the hosts went.</p>
+      </div>
+      <div class="card">
+        <p class="country-note" id="hosts-note"></p>
+        <div class="host-summary" id="hosts-summary"></div>
+        <div class="data-table tall" id="hosts-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="rivalries">
+      <div class="block-head">
+        <h2>The most repeated finals</h2>
+        <p>Matchups that met more than once with the title on the line.</p>
+      </div>
+      <div class="card"><div class="pair-list" id="pairs-list"></div></div>
+    </section>
+
+    <section class="block" id="growth">
+      <div class="block-head">
+        <h2>How the tournament grew</h2>
+        <p>Teams (and, where recorded, matches and attendance) at every edition.</p>
+      </div>
+      <div class="card">
+        <div class="controls"><div class="segmented" role="tablist" aria-label="Measure" id="growth-tabs"></div></div>
+        <div id="growth-chart" class="chart"></div>
+      </div>
+    </section>
+
+    <section class="block" id="alltime">
+      <div class="block-head">
+        <h2>All-time table</h2>
+        <p>Every team's accumulated record in the competition.</p>
+      </div>
+      <div class="card">
+        <p class="country-note" id="alltime-note"></p>
+        <div class="data-table tall" id="alltime-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="participation">
+      <div class="block-head">
+        <h2>Most appearances</h2>
+        <p>Editions played by each nation. Hover a row for the best finish and every result.</p>
+      </div>
+      <div class="card"><div id="participation-list"></div></div>
+    </section>
+
+    <section class="block" id="players">
+      <div class="block-head">
+        <h2>Player records</h2>
+        <p>Players with the most medals.</p>
+      </div>
+      <div class="card">
+        <div class="controls"><div class="segmented" role="tablist" aria-label="Record" id="players-tabs"></div></div>
+        <div class="data-table tall" id="players-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> Wikipedia: <span id="sources"></span> (CC BY-SA 4.0). Updated automatically twice a year. <span id="data-through"></span></p>
+    <p><strong>Notes:</strong> Some early editions were decided by a final round robin instead of a final; the final standings are shown. The 1936 Olympic tournament was field handball, played outdoors with eleven players a side; indoor handball joined the Olympics in 1972 (men) and 1976 (women). Germany and West Germany are shown as they appear on Wikipedia. Sections appear only when the source has the data for that competition. Flags by <a href="https://flagpedia.net">Flagpedia</a>. This project is not affiliated with the IHF or the IOC.</p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="../../international/tournament.js"></script>
+</body>
+</html>

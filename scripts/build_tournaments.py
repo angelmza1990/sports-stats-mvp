@@ -1,4 +1,4 @@
-"""Build datasets for international team tournaments (rugby, basketball, volleyball, field hockey).
+"""Build datasets for international team tournaments (rugby, basketball, volleyball, field hockey, handball).
 
 Every competition is described by a config: the Wikipedia page and table that
 list its editions (champion, runner-up, third, fourth, hosts, teams), plus
@@ -55,13 +55,13 @@ MORE_TEAMS = {
     "BAR": ("Barbados", "bb"), "GHA": ("Ghana", "gh"), "INA": ("Indonesia", "id"), "SGP": ("Singapore", "sg"), "SIN": ("Singapore", "sg"),
     "BAN": ("Bangladesh", "bd"), "SRI": ("Sri Lanka", "lk"), "KSA": ("Saudi Arabia", "sa"), "UAE": ("United Arab Emirates", "ae"),
     "KUW": ("Kuwait", "kw"), "BRN": ("Bahrain", "bh"), "IRQ": ("Iraq", "iq"), "SYR": ("Syria", "sy"), "MGL": ("Mongolia", "mn"),
-    "CPV": ("Cape Verde", "cv"), "MOZ": ("Mozambique", "mz"), "MLI": ("Mali", "ml"), "COD": ("DR Congo", "cd"), "RWA": ("Rwanda", "rw"),
+    "BHR": ("Bahrain", "bh"), "CPV": ("Cape Verde", "cv"), "MOZ": ("Mozambique", "mz"), "MLI": ("Mali", "ml"), "COD": ("DR Congo", "cd"), "RWA": ("Rwanda", "rw"),
 }
 
 CONTINENTS = {
     "Europe": "BGR GRC CIS IRE ROM ENG SCO WAL IRL NIR FRA ITA ESP POR GER FRG GDR NED BEL LUX SUI AUT POL CZE TCH SVK HUN ROU BUL GRE TUR YUG FRY SCG SRB CRO SLO SVN MNE BIH MKD ALB URS RUS UKR BLR EUN ROC LTU LAT EST FIN SWE NOR DEN ISL GEO ARM AZE ISR GBR BOH",
     "Americas": "USA CAN MEX CUB PUR DOM PAN CRC HON SLV GUA JAM TRI TTO HAI BAR BRA ARG URU PAR CHI PER BOL ECU COL VEN",
-    "Asia": "LIB PRC JPN KOR PRK CHN TPE HKG PHI THA MAS SIN SGP INA IND PAK BAN SRI IRN IRI IRQ KUW KSA QAT UAE BRN JOR LBN SYR KAZ UZB MGL DEI",
+    "Asia": "LIB PRC JPN KOR PRK CHN TPE HKG PHI THA MAS SIN SGP INA IND PAK BAN SRI IRN IRI IRQ KUW KSA QAT UAE BRN BHR JOR LBN SYR KAZ UZB MGL DEI",
     "Africa": "LBA CAF DRC RSA EGY MAR ALG TUN NGR NGA SEN CIV CMR ANG ZIM RHO KEN GHA NAM CPV MOZ MLI COD ZAI SSD SUD RWA",
     "Oceania": "TON AUS NZL FIJ SAM TGA PNG ANZ",
 }
@@ -80,6 +80,7 @@ P = {  # Wikipedia pages
     "olybask": "Basketball at the Summer Olympics",
     "vb": "FIVB Men's Volleyball World Cup", "wvb": "FIVB Women's Volleyball World Cup", "olyvb": "Volleyball at the Summer Olympics",
     "hk": "Men's FIH Hockey World Cup", "whk": "Women's FIH Hockey World Cup", "olyhk": "Field hockey at the Summer Olympics",
+    "hb": "IHF World Men's Handball Championship", "whb": "IHF World Women's Handball Championship", "olyhb": "Handball at the Summer Olympics",
 }
 
 
@@ -203,6 +204,31 @@ COMPETITIONS = {
         "editions": ed(P["olyhk"], "year", "host", "gold medal match", nth=1, olympics=True),
         "participation": (P["olyhk"], ("#team", "1980", "1984"), 1),
         "history": {"NED": 4, "AUS": 3}, "history_min": True, "history_through": 2024,
+    },
+    # ---------- Handball ----------
+    "handball-wc-men": {
+        "sport": "handball", "label": "World Championship", "gender": "Men", "unit": "goals",
+        "editions": ed(P["hb"], "year", "host", "final", "third place match"),
+        "players": [("Most medals", P["hb"], ("rank", "player", "country", "gold"), 0, {"Total": "value", "Player": "name", "Country": "team", "Gold": "gold"})],
+        "history": {"FRA": 6, "SWE": 4, "ROU": 4, "DEN": 4}, "history_min": True, "history_through": 2025,
+    },
+    "handball-wc-women": {
+        "sport": "handball", "label": "World Championship", "gender": "Women", "unit": "goals",
+        "editions": ed(P["whb"], "year", "host", "final", "third place match"),
+        "players": [("Most medals", P["whb"], ("rank", "player", "country", "gold"), 0, {"Total": "value", "Player": "name", "Country": "team", "Gold": "gold"})],
+        "history": {"RUS": 4, "NOR": 4, "URS": 3}, "history_min": True, "history_through": 2025,
+    },
+    "handball-olympics-men": {
+        "sport": "handball", "label": "Olympic Games", "gender": "Men", "unit": "goals",
+        "editions": ed(P["olyhb"], "year", "host", "gold medal match", nth=0, olympics=True),
+        "participation": (P["olyhb"], ("#nation", "1936", "1972"), 0),
+        "history": {"FRA": 3, "YUG": 2, "URS": 2}, "history_min": True, "history_through": 2024,
+    },
+    "handball-olympics-women": {
+        "sport": "handball", "label": "Olympic Games", "gender": "Women", "unit": "goals",
+        "editions": ed(P["olyhb"], "year", "host", "gold medal match", nth=1, olympics=True),
+        "participation": (P["olyhb"], ("#nation", "1976", "1980"), 1),
+        "history": {"DEN": 3, "NOR": 3, "URS": 2}, "history_min": True, "history_through": 2024,
     },
 }
 
