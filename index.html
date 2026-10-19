@@ -4,135 +4,294 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sports Stats</title>
-  <meta name="description" content="Data-driven sports infographics by Angel Villanueva.">
+  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, basketball, football and Formula 1.">
   <link rel="stylesheet" href="assets/theme.css">
   <script src="assets/theme.js"></script>
   <style>
-    header { padding: 72px 0 32px; }
+    header { padding: 72px 0 24px; }
     h1 { font-size: clamp(40px, 8vw, 64px); letter-spacing: -0.03em; line-height: 1; margin: 0 0 16px; }
-    .lede { color: var(--ink-2); font-size: 19px; max-width: 600px; margin: 0; }
+    .lede { color: var(--ink-2); font-size: 19px; max-width: 620px; margin: 0; }
+    .sport { margin-top: 40px; }
+    .sport h2 {
+      display: flex; align-items: center; gap: 10px;
+      font-size: 13px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+      color: var(--ink-muted); margin: 0 0 12px;
+    }
+    .sport h2::after { content: ""; flex: 1; height: 1px; background: var(--border); }
     .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
     .tile {
-      display: block; text-decoration: none; color: inherit;
+      display: flex; flex-direction: column; text-decoration: none; color: inherit; overflow: hidden;
       background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
-      padding: 20px; transition: transform 0.15s ease, box-shadow 0.15s ease;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
     }
-    .tile:hover, .tile:focus-visible { transform: translateY(-2px); box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08); }
-    .tile h2 { font-size: 20px; margin: 4px 0 6px; }
-    .tile p { color: var(--ink-2); margin: 0; font-size: 15px; }
-    .tile svg { display: block; width: 100%; height: auto; margin-bottom: 16px; }
-    .tile.soon { opacity: 0.6; pointer-events: none; }
+    .tile:hover, .tile:focus-visible { transform: translateY(-2px); box-shadow: 0 8px 28px rgba(0, 0, 0, 0.12); outline: none; }
+    .art {
+      position: relative; height: 132px; display: flex; align-items: center; justify-content: space-between;
+      padding: 0 20px; background: var(--tint); color: var(--art-ink, #fff); overflow: hidden;
+    }
+    .art svg { width: 104px; height: 104px; flex: none; filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.18)); }
+    .art .stat { text-align: right; line-height: 1.05; }
+    .art .stat strong { display: block; font-size: 34px; font-weight: 750; letter-spacing: -0.02em; }
+    .art .stat span { font-size: 12px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; opacity: 0.85; }
+    .body { padding: 16px 20px 20px; }
+    .body h3 { font-size: 20px; margin: 0 0 6px; }
+    .body p { color: var(--ink-2); margin: 0; font-size: 15px; }
+    .tile.soon { opacity: 0.55; pointer-events: none; }
+    .tile.soon .art { --tint: var(--wash); color: var(--ink-muted); }
   </style>
 </head>
 <body>
   <header class="wrap">
     <p class="kicker">Portfolio · Data visualization</p>
     <h1>Sports Stats</h1>
-    <p class="lede">Interactive infographics on the numbers behind sport's great rivalries, built with D3 and open data.</p>
+    <p class="lede">Interactive infographics on the numbers behind sport's great champions and rivalries, built with D3 and open data and updated twice a year.</p>
   </header>
 
   <main class="wrap">
-    <div class="gallery">
-      <a class="tile" href="tennis/big-three/">
-        <svg viewBox="0 0 280 96" aria-hidden="true">
-          <path d="M0,10h196a4,4 0 0 1 4,4v16a4,4 0 0 1 -4,4h-196Z" fill="var(--series-1)"/>
-          <path d="M0,40h180a4,4 0 0 1 4,4v16a4,4 0 0 1 -4,4h-180Z" fill="var(--series-2)"/>
-          <path d="M0,70h164a4,4 0 0 1 4,4v16a4,4 0 0 1 -4,4h-164Z" fill="var(--series-3)"/>
-          <text x="208" y="27" font-size="14" font-weight="600" fill="var(--ink)">24</text>
-          <text x="192" y="57" font-size="14" font-weight="600" fill="var(--ink)">22</text>
-          <text x="176" y="87" font-size="14" font-weight="600" fill="var(--ink)">20</text>
-        </svg>
-        <p class="kicker">Tennis</p>
-        <h2>The Big Three</h2>
-        <p>Federer, Nadal and Djokovic: the Grand Slam race, Masters 1000 titles and every head-to-head match.</p>
-      </a>
-      <a class="tile" href="tennis/grand-slams/">
-        <svg viewBox="0 0 280 96" aria-hidden="true">
-          <path d="M0,10h70v24h-70Z" fill="var(--series-1)"/><path d="M72,10h40v24h-40Z" fill="var(--series-2)"/><path d="M114,10h56v24h-56Z" fill="var(--series-3)"/><path d="M172,10h44a4,4 0 0 1 4,4v16a4,4 0 0 1 -4,4h-44Z" fill="var(--series-4)"/>
-          <path d="M0,40h22v24h-22Z" fill="var(--series-1)"/><path d="M24,40h116v24h-116Z" fill="var(--series-2)"/><path d="M142,40h22v24h-22Z" fill="var(--series-3)"/><path d="M166,40h30a4,4 0 0 1 4,4v16a4,4 0 0 1 -4,4h-30Z" fill="var(--series-4)"/>
-          <path d="M0,70h44v24h-44Z" fill="var(--series-1)"/><path d="M46,70h10v24h-10Z" fill="var(--series-2)"/><path d="M58,70h70v24h-70Z" fill="var(--series-3)"/><path d="M130,70h46a4,4 0 0 1 4,4v16a4,4 0 0 1 -4,4h-46Z" fill="var(--series-4)"/>
-        </svg>
-        <p class="kicker">Tennis</p>
-        <h2>Grand Slams</h2>
-        <p>Every Open Era men's major: the champions race, title leaders at each Slam, nations, match records, repeated finals and runners-up.</p>
-      </a>
-      <a class="tile" href="basketball/nba-rings/">
-        <svg viewBox="0 0 280 96" aria-hidden="true">
-          <path d="M8,96v-38a4,4 0 0 1 4,-4h24a4,4 0 0 1 4,4v38Z" fill="var(--series-1)"/>
-          <path d="M56,96v-80a4,4 0 0 1 4,-4h24a4,4 0 0 1 4,4v80Z" fill="var(--series-1)"/>
-          <path d="M104,96v-52a4,4 0 0 1 4,-4h24a4,4 0 0 1 4,4v52Z" fill="var(--series-2)"/>
-          <path d="M152,96v-76a4,4 0 0 1 4,-4h24a4,4 0 0 1 4,4v76Z" fill="var(--series-2)"/>
-          <path d="M200,96v-60a4,4 0 0 1 4,-4h24a4,4 0 0 1 4,4v60Z" fill="var(--series-1)"/>
-          <path d="M248,96v-44a4,4 0 0 1 4,-4h24a4,4 0 0 1 4,4v44Z" fill="var(--series-2)"/>
-        </svg>
-        <p class="kicker">Basketball</p>
-        <h2>NBA Rings</h2>
-        <p>Every championship since 1947: the franchise race, East vs West, every champion and the Finals MVP leaders.</p>
-      </a>
-      <a class="tile" href="football/copa-libertadores/">
-        <svg viewBox="0 0 280 96" aria-hidden="true">
-          <path d="M0,4h196a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-196Z" fill="var(--series-2)"/>
-          <path d="M0,36h168a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-168Z" fill="var(--series-2)"/>
-          <path d="M0,68h140a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-140Z" fill="var(--series-3)"/>
-        </svg>
-        <p class="kicker">Football</p>
-        <h2>Copa Libertadores</h2>
-        <p>Every final since 1960: the titles race, champions and runners-up, countries, club records, top scorers and appearances.</p>
-      </a>
-      <a class="tile" href="football/champions-league/">
-        <svg viewBox="0 0 280 96" aria-hidden="true">
-          <path d="M0,4h246a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-246Z" fill="var(--series-1)"/>
-          <path d="M0,36h112a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-112Z" fill="var(--series-3)"/>
-          <path d="M0,68h96a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-96Z" fill="var(--series-2)"/>
-        </svg>
-        <p class="kicker">Football</p>
-        <h2>Champions League</h2>
-        <p>Every European Cup and Champions League final since 1956, with club and player records.</p>
-      </a>
-      <a class="tile" href="football/world-cup/">
-        <svg viewBox="0 0 280 96" aria-hidden="true">
-          <path d="M8,96v-76a4,4 0 0 1 4,-4h18a4,4 0 0 1 4,4v76Z" fill="var(--series-2)"/>
-          <path d="M44,96v-62a4,4 0 0 1 4,-4h18a4,4 0 0 1 4,4v62Z" fill="var(--series-1)"/>
-          <path d="M80,96v-62a4,4 0 0 1 4,-4h18a4,4 0 0 1 4,4v62Z" fill="var(--series-1)"/>
-          <path d="M116,96v-48a4,4 0 0 1 4,-4h18a4,4 0 0 1 4,4v48Z" fill="var(--series-2)"/>
-          <path d="M152,96v-34a4,4 0 0 1 4,-4h18a4,4 0 0 1 4,4v34Z" fill="var(--series-2)"/>
-          <path d="M188,96v-34a4,4 0 0 1 4,-4h18a4,4 0 0 1 4,4v34Z" fill="var(--series-1)"/>
-          <path d="M224,96v-34a4,4 0 0 1 4,-4h18a4,4 0 0 1 4,4v34Z" fill="var(--series-1)"/>
-        </svg>
-        <p class="kicker">Football</p>
-        <h2>FIFA World Cup</h2>
-        <p>Every World Cup since 1930: champions, hosts, the all-time table, top scorers, appearances and how the tournament grew.</p>
-      </a>
-      <a class="tile" href="football/world-club-champions/">
-        <svg viewBox="0 0 280 96" aria-hidden="true">
-          <path d="M0,4h176a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-176Z" fill="var(--series-1)"/>
-          <path d="M0,36h120a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-120Z" fill="var(--series-2)"/>
-          <path d="M0,68h96a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-96Z" fill="var(--series-1)"/>
-        </svg>
-        <p class="kicker">Football</p>
-        <h2>World Club Champions</h2>
-        <p>Intercontinental Cup, Club World Cup and FIFA Intercontinental Cup: titles by club, continent and country.</p>
-      </a>
-      <a class="tile" href="football/argentine-primera/">
-        <svg viewBox="0 0 280 96" aria-hidden="true">
-          <path d="M0,4h236a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-236Z" fill="var(--series-1)"/>
-          <path d="M0,36h216a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-216Z" fill="var(--series-1)"/>
-          <path d="M0,68h110a4,4 0 0 1 4,4v14a4,4 0 0 1 -4,4h-110Z" fill="var(--series-1)"/>
-        </svg>
-        <p class="kicker">Football</p>
-        <h2>Argentine Primera División</h2>
-        <p>Every league champion since 1891, with and without the amateur era, and the years of rival associations.</p>
-      </a>
-      <div class="tile soon">
-        <p class="kicker">Coming soon</p>
-        <h2>More sports</h2>
-        <p>Next up: Formula 1.</p>
+    <section class="sport">
+      <h2>Tennis</h2>
+      <div class="gallery">
+        <a class="tile" href="tennis/big-three/">
+          <div class="art" style="--tint: linear-gradient(135deg, #1f6f43, #2e8b57)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="60" r="44" fill="#d8e94a"/>
+              <path d="M24 36c18 10 18 38 0 48M96 36c-18 10-18 38 0 48" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+            </svg>
+            <div class="stat" data-stat="bigThree"><strong>24 · 22 · 20</strong><span>Grand Slams</span></div>
+          </div>
+          <div class="body">
+            <h3>The Big Three</h3>
+            <p>Federer, Nadal and Djokovic: the Grand Slam race, Masters 1000 titles and every head-to-head match.</p>
+          </div>
+        </a>
+        <a class="tile" href="tennis/grand-slams/">
+          <div class="art" style="--tint: linear-gradient(135deg, #b5552b, #d9774a)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <path d="M38 24h44v14c0 18-10 30-22 32-12-2-22-14-22-32Z" fill="#f4c542"/>
+              <path d="M38 30H26c0 14 6 22 16 24M82 30h12c0 14-6 22-16 24" fill="none" stroke="#f4c542" stroke-width="5"/>
+              <rect x="55" y="70" width="10" height="16" fill="#f4c542"/>
+              <rect x="42" y="86" width="36" height="10" rx="2" fill="#e0a92a"/>
+              <circle cx="88" cy="88" r="14" fill="#d8e94a"/>
+              <path d="M77 80c6 3 6 13 0 16M99 80c-6 3-6 13 0 16" fill="none" stroke="#fff" stroke-width="2.5"/>
+            </svg>
+            <div class="stat" data-stat="slams"><strong>234</strong><span>majors since 1968</span></div>
+          </div>
+          <div class="body">
+            <h3>Grand Slams</h3>
+            <p>Every Open Era men's major: the champions race, title leaders at each Slam, nations, match records, repeated finals and runners-up.</p>
+          </div>
+        </a>
       </div>
-    </div>
+    </section>
+
+    <section class="sport">
+      <h2>Basketball</h2>
+      <div class="gallery">
+        <a class="tile" href="basketball/nba-rings/">
+          <div class="art" style="--tint: linear-gradient(135deg, #1d3d8f, #c8102e)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="52" cy="58" r="38" fill="#e8742a"/>
+              <path d="M14 58h76M52 20v76M24 32c16 12 16 40 0 52M80 32c-16 12-16 40 0 52" fill="none" stroke="#3b1d0e" stroke-width="3"/>
+              <circle cx="92" cy="86" r="16" fill="none" stroke="#f4c542" stroke-width="7"/>
+              <rect x="84" y="62" width="16" height="10" rx="3" fill="#f4c542"/>
+            </svg>
+            <div class="stat" data-stat="nba"><strong>18</strong><span>Celtics rings</span></div>
+          </div>
+          <div class="body">
+            <h3>NBA Rings</h3>
+            <p>Every championship since 1947: the franchise race, East vs West, every champion, repeated Finals and the Finals MVP leaders.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <section class="sport">
+      <h2>Football</h2>
+      <div class="gallery">
+        <a class="tile" href="football/world-cup/">
+          <div class="art" style="--tint: linear-gradient(135deg, #0b5d3b, #1a8a5a)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="30" r="20" fill="#f4c542"/>
+              <path d="M44 40c-6 16 2 28 8 36h16c6-8 14-20 8-36-6 8-26 8-32 0Z" fill="#e0a92a"/>
+              <rect x="50" y="76" width="20" height="10" fill="#f4c542"/>
+              <rect x="42" y="86" width="36" height="8" fill="#1a6b3c"/>
+              <rect x="40" y="94" width="40" height="8" rx="2" fill="#f4c542"/>
+            </svg>
+            <div class="stat" data-stat="worldCup"><strong>23</strong><span>World Cups</span></div>
+          </div>
+          <div class="body">
+            <h3>FIFA World Cup</h3>
+            <p>Every World Cup since 1930: champions, hosts, the all-time table, top scorers, appearances and how the tournament grew.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/ballon-dor/">
+          <div class="art" style="--tint: linear-gradient(135deg, #3a2a05, #8a6510)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <defs><radialGradient id="gold" cx="35%" cy="30%" r="75%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.5" stop-color="#f4c542"/><stop offset="1" stop-color="#b8860b"/></radialGradient></defs>
+              <circle cx="60" cy="56" r="40" fill="url(#gold)"/>
+              <path d="M60 38l14 10-5 16H51l-5-16Z" fill="#a8750a"/>
+              <path d="M60 38V18M74 48l18-6M69 64l11 15M51 64L40 79M46 48l-18-6" stroke="#a8750a" stroke-width="3"/>
+              <rect x="44" y="96" width="32" height="10" rx="3" fill="#f4c542"/>
+            </svg>
+            <div class="stat" data-stat="ballon"><strong>8</strong><span>Messi wins</span></div>
+          </div>
+          <div class="body">
+            <h3>Ballon d'Or</h3>
+            <p>Every winner since 1956, with his nationality, his club and the academy that formed him.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/champions-league/">
+          <div class="art" style="--tint: linear-gradient(135deg, #0a1f5c, #1e3a8a)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <path d="M42 22h36c0 30-6 44-18 48-12-4-18-18-18-48Z" fill="#dfe6ef"/>
+              <path d="M42 30c-22-4-28 24-6 30M78 30c22-4 28 24 6 30" fill="none" stroke="#dfe6ef" stroke-width="7" stroke-linecap="round"/>
+              <rect x="54" y="70" width="12" height="14" fill="#c3ccd8"/>
+              <path d="M40 84h40l6 14H34Z" fill="#dfe6ef"/>
+              <path d="M24 106l4-8 4 8-8-5h8ZM88 106l4-8 4 8-8-5h8Z" fill="#fff"/>
+            </svg>
+            <div class="stat" data-stat="ucl"><strong>15</strong><span>Real Madrid titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Champions League</h3>
+            <p>Every European Cup and Champions League final since 1956, with the all-time table and player records.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/copa-libertadores/">
+          <div class="art" style="--tint: linear-gradient(135deg, #5a1a1a, #9b2c2c)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="22" r="9" fill="#f4c542"/>
+              <path d="M56 30h8l2 8H54Z" fill="#f4c542"/>
+              <path d="M40 38h40c0 22-8 34-20 36-12-2-20-14-20-36Z" fill="#dfe6ef"/>
+              <rect x="55" y="74" width="10" height="10" fill="#c3ccd8"/>
+              <path d="M38 84h44l-4 22H42Z" fill="#3b2a1a"/>
+              <rect x="44" y="90" width="32" height="3" fill="#f4c542"/><rect x="44" y="97" width="32" height="3" fill="#f4c542"/>
+            </svg>
+            <div class="stat" data-stat="libertadores"><strong>7</strong><span>Independiente titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Copa Libertadores</h3>
+            <p>Every final since 1960: the titles race, champions and runners-up, countries, the all-time table and player records.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/world-club-champions/">
+          <div class="art" style="--tint: linear-gradient(135deg, #0e4d64, #137c8b)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="60" r="42" fill="#2a9db5"/>
+              <path d="M30 44c10 4 14-4 22 2s0 14 8 18 14-6 20 0M38 82c8-6 16 2 24-4M56 20c-4 10 6 12 2 20" fill="none" stroke="#8fd16a" stroke-width="7" stroke-linecap="round"/>
+              <ellipse cx="60" cy="60" rx="42" ry="16" fill="none" stroke="#fff" stroke-width="2" opacity="0.6"/>
+              <path d="M60 18v84" stroke="#fff" stroke-width="2" opacity="0.6"/>
+            </svg>
+            <div class="stat" data-stat="world"><strong>66</strong><span>world titles</span></div>
+          </div>
+          <div class="body">
+            <h3>World Club Champions</h3>
+            <p>Intercontinental Cup, Club World Cup and FIFA Intercontinental Cup: titles by club, continent and country.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/argentine-primera/">
+          <div class="art" style="--tint: linear-gradient(180deg, #74acdf 0 33%, #ffffff 33% 66%, #74acdf 66%); --art-ink: #13324f">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="60" r="40" fill="#fff" stroke="#13324f" stroke-width="3"/>
+              <path d="M60 40l14 10-5 16H51l-5-16Z" fill="#13324f"/>
+              <path d="M60 40V20M74 50l19-6M69 66l12 16M51 66L39 82M46 50l-19-6" stroke="#13324f" stroke-width="3"/>
+              <circle cx="100" cy="22" r="10" fill="#f6b40e"/>
+            </svg>
+            <div class="stat" data-stat="argentina"><strong>38</strong><span>River Plate titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Argentine Primera División</h3>
+            <p>Every league champion since 1891, with and without the amateur era, all-time tables, top scorers and the years of rival associations.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <section class="sport">
+      <h2>Motorsport</h2>
+      <div class="gallery">
+        <a class="tile" href="motorsport/formula-1/">
+          <div class="art" style="--tint: linear-gradient(135deg, #1a1a1a, #b3141c)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <g transform="translate(72 18)">
+                <rect width="36" height="24" fill="#fff"/>
+                <path d="M0 0h6v6H0zM12 0h6v6h-6zM24 0h6v6h-6zM6 6h6v6H6zM18 6h6v6h-6zM30 6h6v6h-6zM0 12h6v6H0zM12 12h6v6h-6zM24 12h6v6h-6zM6 18h6v6H6zM18 18h6v6h-6zM30 18h6v6h-6z" fill="#111"/>
+              </g>
+              <path d="M70 18v52" stroke="#ddd" stroke-width="3"/>
+              <path d="M8 84h18l10-10h30l8-8h14l6 8h14v10H8Z" fill="#e10600"/>
+              <rect x="6" y="72" width="8" height="12" fill="#e10600"/>
+              <rect x="98" y="78" width="16" height="6" fill="#e10600"/>
+              <circle cx="30" cy="88" r="11" fill="#111"/><circle cx="30" cy="88" r="4" fill="#999"/>
+              <circle cx="92" cy="88" r="11" fill="#111"/><circle cx="92" cy="88" r="4" fill="#999"/>
+            </svg>
+            <div class="stat" data-stat="f1"><strong>7 · 7</strong><span>Schumacher · Hamilton</span></div>
+          </div>
+          <div class="body">
+            <h3>Formula 1</h3>
+            <p>Every World Champion since 1950: races of drivers', constructors' and nations' titles, plus the all-time Grand Prix winners.</p>
+          </div>
+        </a>
+      </div>
+    </section>
   </main>
 
   <footer class="site-footer wrap">
     <p>Made by <a href="https://github.com/angelmza1990">Angel Villanueva</a> · <a href="https://github.com/angelmza1990/sports-stats-mvp">Source on GitHub</a></p>
   </footer>
+  <script>
+    // Card numbers come from each page's data, so they stay current after the automatic updates.
+    // The numbers in the markup are the fallback if a file can't be loaded.
+    (function () {
+      const most = (rows, key) => {
+        const counts = new Map();
+        rows.forEach((r) => { const k = key(r); if (k) counts.set(k, (counts.get(k) || 0) + 1); });
+        return [...counts].sort((a, b) => b[1] - a[1])[0];
+      };
+      const STATS = {
+        bigThree: ["tennis/big-three/data/big-three.json", (d) => {
+          const n = (id) => d.titles.filter((t) => t.player === id && t.level === "G").length;
+          return [d.players.map((p) => n(p.id)).join(" · "), "Grand Slams"];
+        }],
+        slams: ["tennis/grand-slams/data/grand-slams.json", (d) => [String(d.editions.length), "majors since 1968"]],
+        nba: ["basketball/nba-rings/data/nba-rings.json", (d) => {
+          const [id, n] = most(d.seasons, (s) => s.champion);
+          return [String(n), `${d.franchises.find((f) => f.id === id).short} rings`];
+        }],
+        worldCup: ["football/world-cup/data/world-cup.json", (d) => [String(d.editions.length), "World Cups"]],
+        ballon: ["football/ballon-dor/data/ballon-dor.json", (d) => {
+          const [name, n] = most(d.winners, (w) => w.player);
+          return [String(n), `${name.split(" ").slice(-1)[0]} wins`];
+        }],
+        ucl: ["football/champions-league/data/champions-league.json", (d) => {
+          const [id, n] = most(d.finals, (f) => f.champion);
+          return [String(n), `${d.clubs[id].name} titles`];
+        }],
+        libertadores: ["football/copa-libertadores/data/copa-libertadores.json", (d) => {
+          const [id, n] = most(d.finals, (f) => f.champion);
+          return [String(n), `${d.clubs[id].name} titles`];
+        }],
+        world: ["football/world-club-champions/data/world-club-champions.json", (d) => [String(d.finals.length), "world titles"]],
+        argentina: ["football/argentine-primera/data/argentine-primera.json", (d) => {
+          const [id, n] = most(d.titles, (t) => t.champion);
+          return [String(n), `${d.clubs[id].name} titles`];
+        }],
+        f1: ["motorsport/formula-1/data/formula-1.json", (d) => {
+          const counts = new Map();
+          d.champions.forEach((c) => counts.set(c.driver, (counts.get(c.driver) || 0) + 1));
+          const max = Math.max(...counts.values());
+          const top = [...counts].filter(([, n]) => n === max).map(([id]) => d.drivers[id].name.split(" ").slice(-1)[0]);
+          return [top.map(() => max).join(" · "), top.join(" · ")];
+        }],
+      };
+      document.querySelectorAll("[data-stat]").forEach((box) => {
+        const [url, compute] = STATS[box.dataset.stat] || [];
+        if (!url) return;
+        fetch(url).then((r) => r.json()).then((d) => {
+          const [value, label] = compute(d);
+          box.querySelector("strong").textContent = value;
+          box.querySelector("span").textContent = label;
+        }).catch(() => {});
+      });
+    })();
+  </script>
 </body>
 </html>
