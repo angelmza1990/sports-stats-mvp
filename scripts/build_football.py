@@ -51,6 +51,7 @@ COUNTRIES = {
     "PAN": ("Panama", "pa"), "JAM": ("Jamaica", "jm"), "MKD": ("North Macedonia", "mk"), "KOS": ("Kosovo", "xk"),
     "KSA": ("Saudi Arabia", "sa"), "UAE": ("United Arab Emirates", "ae"), "QAT": ("Qatar", "qa"), "TUN": ("Tunisia", "tn"),
     "NZL": ("New Zealand", "nz"), "CHN": ("China", "cn"), "IRN": ("Iran", "ir"),
+    "LBR": ("Liberia", "lr"), "GBR": ("United Kingdom", "gb"), "MON": ("Monaco", "mc"), "MOZ": ("Mozambique", "mz"),
 }
 
 CONFEDERATIONS = {
@@ -340,6 +341,7 @@ WORLD_HISTORY = {
 OUTPUTS = {
     "world-club-champions": ROOT / "football" / "world-club-champions" / "data" / "world-club-champions.json",
     "argentine-primera": ROOT / "football" / "argentine-primera" / "data" / "argentine-primera.json",
+    "ballon-dor": ROOT / "football" / "ballon-dor" / "data" / "ballon-dor.json",
 }
 
 
@@ -490,8 +492,10 @@ def build_argentina(key: str, refresh: bool) -> dict:
             official[cid] = official.get(cid, 0) + n
 
     alltime, periods = argentina_alltime(clubs, refresh)
+    scorers, alltime_scorers = argentina_scorers(clubs, refresh)
     used = {t["champion"] for t in titles} | {t["runnerUp"] for t in titles if t["runnerUp"]}
     used |= {r["club"] for rows in alltime.values() for r in rows}
+    used |= {c for sc in scorers for c in sc["clubs"]}
     top = {r["club"] for rows in alltime.values() for r in sorted(rows, key=lambda r: -r["pts"])[:40]}
     unmapped = sorted(label for cid, label in clubs.unmapped.items() if cid in top | {t["champion"] for t in titles})
     if unmapped:
@@ -507,7 +511,10 @@ def build_argentina(key: str, refresh: bool) -> dict:
             "alltimeSource": f"https://es.wikipedia.org/wiki/{ARG_ALLTIME_PAGE.replace(' ', '_')}",
         },
         "alltime": alltime,
-        "countries": {"ARG": {"name": "Argentina", "flag": "ar"}},
+        "scorers": scorers,
+        "alltimeScorers": alltime_scorers,
+        "countries": {c: {"name": COUNTRIES.get(c, (c, None))[0], "flag": COUNTRIES.get(c, (c, None))[1]}
+                      for c in sorted({"ARG"} | {sc["nation"] for sc in scorers + alltime_scorers if sc["nation"]})},
         "clubs": {c: {"name": clubs.clubs[c]["name"], "country": "ARG", "crest": clubs.clubs[c]["espn"]} for c in sorted(used)},
         "titles": titles,
         "_official": official,
@@ -547,6 +554,45 @@ def argentina_alltime(clubs: ClubIndex, refresh: bool) -> tuple[dict, dict]:
     return tables, periods
 
 
+ARG_SCORERS_PAGE = "List of Argentine Primera División top scorers"
+
+
+def argentina_scorers(clubs: ClubIndex, refresh: bool) -> tuple[list[dict], list[dict]]:
+    """Top scorer(s) of every tournament, and the all-time scorers."""
+    text = W.fetch_raw(ARG_SCORERS_PAGE, RAW_DIR / f"{slug(ARG_SCORERS_PAGE)}.wiki", refresh)
+    out = []
+    for row in W.table_with_headers(text, "season", "player", "club", "goals"):
+        if len(row) < 4 or row[0]["header"]:
+            continue
+        season = W.plain(row[0]["text"])
+        if not re.match(r"\d{4}", season) or "(" in W.plain(row[1]["text"])[:1]:
+            continue
+        player = W.person(row[1]["text"])
+        goals = [int(n) for n in re.findall(r"\d+", W.plain(row[3]["text"]))]
+        if not player or not goals:
+            continue
+        club_ids = []
+        for part in re.split(r"<br\s*/?>", row[2]["text"]):
+            cid = club_from_cell(part, clubs)
+            if cid:
+                club_ids.append(cid)
+        matches = [int(n) for n in re.findall(r"\d+", W.plain(row[4]["text"]))] if len(row) > 4 else []
+        out.append({
+            "season": season, "year": int(season[:4]),
+            "player": re.sub(r"\s*\(\d+\)$", "", player), "nation": W.flag_code(row[1]["text"]),
+            "clubs": club_ids, "goals": max(goals), "matches": max(matches) if matches else None,
+        })
+    top = []
+    for row in W.table_with_headers(text, "player", "career", "goals"):
+        if len(row) < 5 or W.number(row[3]["text"]) is None:
+            continue
+        top.append({
+            "player": W.person(row[1]["text"]), "nation": W.flag_code(row[1]["text"]),
+            "career": W.plain(row[2]["text"]), "goals": W.number(row[3]["text"]), "matches": W.number(row[4]["text"]),
+        })
+    return out, top
+
+
 def validate_argentina(key: str, data: dict) -> list[str]:
     errors = []
     official = data.pop("_official")
@@ -559,12 +605,125 @@ def validate_argentina(key: str, data: dict) -> list[str]:
     leaders = Counter(names[t["champion"]] for t in data["titles"])
     if leaders["River Plate"] < 38 or leaders["Boca Juniors"] < 35:
         errors.append(f"River/Boca totals look wrong: {leaders['River Plate']}, {leaders['Boca Juniors']}")
+    if len(data["scorers"]) < 150 or not data["alltimeScorers"] or data["alltimeScorers"][0]["goals"] < 290:
+        errors.append("top scorers tables look incomplete")
+    return errors
+
+
+# ---------- Ballon d'Or ----------
+
+BALLON_PAGE = "Ballon d'Or"
+BALLON_HISTORY_THROUGH = 2025
+BALLON_HISTORY = {
+    "Lionel Messi": 8, "Cristiano Ronaldo": 5, "Johan Cruyff": 3, "Michel Platini": 3, "Marco van Basten": 3,
+    "Alfredo Di Stéfano": 2, "Franz Beckenbauer": 2, "Kevin Keegan": 2, "Karl-Heinz Rummenigge": 2, "Ronaldo": 2,
+}
+
+
+YOUTH_SUFFIX = re.compile(r"\s*(\(youth\)|youth sector|youth academy|under-\d+s(?: and academy)?|reserves and academy|academy|junior team|primavera|\bB\b)$", re.I)
+
+
+def infobox_youth(wikitext: str) -> list[dict]:
+    """Youth clubs from a player's infobox, in order ({'club': cell, 'years': text})."""
+    clubs = {int(m.group(1)): m.group(2) for m in re.finditer(r"\|\s*youthclubs(\d+)\s*=([^\n]*)", wikitext)}
+    years = {int(m.group(1)): m.group(2) for m in re.finditer(r"\|\s*youthyears(\d+)\s*=([^\n]*)", wikitext)}
+    return [{"club": clubs[i].strip(), "years": W.plain(years.get(i, ""))} for i in sorted(clubs) if W.plain(clubs[i])]
+
+
+def build_ballon(key: str, refresh: bool) -> dict:
+    text = W.fetch_raw(BALLON_PAGE, RAW_DIR / f"{slug(BALLON_PAGE)}.wiki", refresh)
+    clubs = ClubIndex()
+    winners = []
+    for row in W.table_with_headers(text, "year", "rank", "player", "team"):
+        if len(row) < 4 or not W.plain(row[1]["text"]).startswith("1st"):
+            continue
+        year = W.number(row[0]["text"])
+        found = W.links(row[2]["text"])
+        if not year or not found:
+            continue  # not awarded / to be announced
+        target, name = found[0]
+        team_country = W.flag_code(row[3]["text"])
+        winners.append({
+            "year": year, "player": re.sub(r"\s*\(\d+\)$", "", name), "article": target,
+            "nation": W.flag_code(row[2]["text"]),
+            "club": clubs.resolve(row[3]["text"], team_country), "clubCountry": team_country,
+        })
+    winners.sort(key=lambda w: w["year"])
+
+    # Youth academies, from each winner's own article.
+    academies = {}
+    for article in dict.fromkeys(w["article"] for w in winners):
+        page = W.fetch_raw(article, RAW_DIR / "players" / f"{slug(article)}.wiki", refresh, pause=1.5)
+        redirect = re.match(r"#REDIRECT\s*\[\[([^\]]+)\]\]", page, re.I)
+        if redirect:
+            page = W.fetch_raw(redirect.group(1), RAW_DIR / "players" / f"{slug(redirect.group(1))}.wiki", refresh, pause=1.5)
+        youth = []
+        for y in infobox_youth(page):
+            found = W.links(y["club"])
+            name = W.plain(y["club"])
+            if found:
+                # Youth sides often link their own article ("Sporting CP (youth)"): credit the parent club.
+                target = YOUTH_SUFFIX.sub("", found[0][0]).strip()
+                label = YOUTH_SUFFIX.sub("", found[0][1]).strip()
+                cid = clubs.resolve(f"[[{target}|{label}]]", None)
+                if cid in clubs.unmapped:
+                    # Not a curated club: name it after its article (a reserve side's label can mislead).
+                    clubs.clubs[cid]["name"] = re.sub(r"\s*\([^)]*\)$|\s+(A\.F\.C\.|F\.C\.|FC|AFC|CF)$", "", target)
+                name = clubs.clubs[cid]["name"]
+            else:
+                cid = slug(name)
+                clubs.clubs.setdefault(cid, {"id": cid, "name": name, "country": None, "espn": None, "aliases": []})
+            youth.append({"club": cid, "name": name, "years": y["years"]})
+        academies[article] = youth
+    for w in winners:
+        w["youth"] = academies.get(w["article"], [])
+        last = next((y for y in reversed(w["youth"]) if y["club"]), None)
+        w["academy"] = last["club"] if last else None
+        del w["article"]
+
+    used = {w["club"] for w in winners} | {y["club"] for w in winners for y in w["youth"] if y["club"]}
+    used.discard(None)
+    codes = {w["nation"] for w in winners} | {w["clubCountry"] for w in winners} | {clubs.clubs[c]["country"] for c in used}
+    codes.discard(None)
+    prominent = {w["club"] for w in winners} | {w["academy"] for w in winners if w["academy"]}
+    unmapped = sorted(label for cid, label in clubs.unmapped.items() if cid in prominent)
+    if unmapped:
+        print(f"{key}: clubs shown without a crest mapping (add them to {CLUBS.name}): {unmapped}", file=sys.stderr)
+    return {
+        "meta": {
+            "generated": date.today().isoformat(),
+            "competition": "Ballon d'Or",
+            "through": str(winners[-1]["year"]),
+            "sources": [f"https://en.wikipedia.org/wiki/{BALLON_PAGE.replace(' ', '_')}", "Wikipedia player articles (youth careers)"],
+        },
+        "countries": {c: {"name": COUNTRIES.get(c, (c, None))[0], "flag": COUNTRIES.get(c, (c, None))[1]} for c in sorted(codes)},
+        "clubs": {c: {"name": clubs.clubs[c]["name"], "country": clubs.clubs[c]["country"], "crest": clubs.clubs[c]["espn"]} for c in sorted(used)},
+        "winners": winners,
+    }
+
+
+def validate_ballon(key: str, data: dict) -> list[str]:
+    errors = []
+    wins = Counter(w["player"] for w in data["winners"] if w["year"] <= BALLON_HISTORY_THROUGH)
+    for name, n in BALLON_HISTORY.items():
+        if wins[name] != n:
+            errors.append(f"{name}: {wins[name]} wins, expected {n}")
+    expected = [y for y in range(1956, BALLON_HISTORY_THROUGH + 1) if y != 2020]
+    years = [w["year"] for w in data["winners"] if w["year"] <= BALLON_HISTORY_THROUGH]
+    if years != expected:
+        errors.append(f"unexpected years: missing {sorted(set(expected) - set(years))}")
+    for w in data["winners"]:
+        if not w["nation"] or not w["club"]:
+            errors.append(f"{w['year']}: missing nationality or club")
+    if sum(1 for w in data["winners"] if w["academy"]) < len(data["winners"]) * 0.8:
+        errors.append("too many winners without a youth academy")
     return errors
 
 
 EXTRA = {
     "world-club-champions": (build_world, validate_world),
     "argentine-primera": (build_argentina, validate_argentina),
+    "ballon-dor": (build_ballon, validate_ballon),
 }
 
 
@@ -578,7 +737,7 @@ def write(key: str, data: dict) -> None:
             return
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(data, separators=(",", ":"), ensure_ascii=False), encoding="utf-8")
-    print(f"wrote {out.relative_to(ROOT)}: {len(data.get('finals') or data.get('titles'))} rows, through {data['meta']['through']}")
+    print(f"wrote {out.relative_to(ROOT)}: {len(data.get('finals') or data.get('titles') or data.get('winners'))} rows, through {data['meta']['through']}")
 
 
 def main() -> None:

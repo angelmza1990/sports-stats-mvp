@@ -841,6 +841,17 @@
    ]
   },
   {
+   "id": "santa-cruz-futebol-clube",
+   "name": "Santa Cruz Futebol Clube",
+   "country": "BRA",
+   "espn": "4929",
+   "aliases": [
+    "Santa Cruz Futebol Clube",
+    "Santa Cruz Futebol Clube",
+    "Santa Cruz"
+   ]
+  },
+  {
    "id": "santos",
    "name": "Santos",
    "country": "BRA",
@@ -880,6 +891,17 @@
    "aliases": [
     "CR Vasco da Gama",
     "Vasco da Gama"
+   ]
+  },
+  {
+   "id": "fc-maritsa-plovdiv",
+   "name": "FC Maritsa Plovdiv",
+   "country": "BUL",
+   "espn": null,
+   "aliases": [
+    "FC Maritsa Plovdiv",
+    "FC Maritsa Plovdiv",
+    "Maritsa Plovdiv"
    ]
   },
   {
@@ -998,6 +1020,28 @@
    ]
   },
   {
+   "id": "dukla-prague",
+   "name": "Dukla Prague",
+   "country": "CZE",
+   "espn": null,
+   "aliases": [
+    "Dukla Prague",
+    "Dukla Prague",
+    "Dukla Prague"
+   ]
+  },
+  {
+   "id": "fc-viktoria-plzen",
+   "name": "FC Viktoria Plzeň",
+   "country": "CZE",
+   "espn": "11706",
+   "aliases": [
+    "FC Viktoria Plzeň",
+    "FC Viktoria Plzeň",
+    "Viktoria Plzen"
+   ]
+  },
+  {
    "id": "barcelona-sc",
    "name": "Barcelona SC",
    "country": "ECU",
@@ -1069,6 +1113,17 @@
    ]
   },
   {
+   "id": "blackpool-f-c",
+   "name": "Blackpool",
+   "country": "ENG",
+   "espn": "346",
+   "aliases": [
+    "Blackpool F.C.",
+    "Blackpool",
+    "Blackpool"
+   ]
+  },
+  {
    "id": "chelsea",
    "name": "Chelsea",
    "country": "ENG",
@@ -1076,6 +1131,17 @@
    "aliases": [
     "Chelsea",
     "Chelsea F.C."
+   ]
+  },
+  {
+   "id": "huddersfield-town-a-f-c",
+   "name": "Huddersfield Town",
+   "country": "ENG",
+   "espn": "335",
+   "aliases": [
+    "Huddersfield Town A.F.C.",
+    "Huddersfield Town",
+    "Huddersfield Town"
    ]
   },
   {
@@ -1129,6 +1195,28 @@
    ]
   },
   {
+   "id": "scunthorpe-united-f-c",
+   "name": "Scunthorpe United",
+   "country": "ENG",
+   "espn": "313",
+   "aliases": [
+    "Scunthorpe United F.C.",
+    "Scunthorpe United",
+    "Scunthorpe United"
+   ]
+  },
+  {
+   "id": "stoke-city-f-c",
+   "name": "Stoke City",
+   "country": "ENG",
+   "espn": "336",
+   "aliases": [
+    "Stoke City F.C.",
+    "Stoke City",
+    "Stoke City"
+   ]
+  },
+  {
    "id": "tottenham-hotspur",
    "name": "Tottenham Hotspur",
    "country": "ENG",
@@ -1158,6 +1246,17 @@
    ]
   },
   {
+   "id": "deportivo-de-la-coruna",
+   "name": "Deportivo La Coruña",
+   "country": "ESP",
+   "espn": "90",
+   "aliases": [
+    "Deportivo de La Coruña",
+    "Deportivo de La Coruña",
+    "Deportivo La Coruna"
+   ]
+  },
+  {
    "id": "real-madrid",
    "name": "Real Madrid",
    "country": "ESP",
@@ -1175,6 +1274,39 @@
    "aliases": [
     "Valencia",
     "Valencia CF"
+   ]
+  },
+  {
+   "id": "villarreal-cf",
+   "name": "Villarreal",
+   "country": "ESP",
+   "espn": "102",
+   "aliases": [
+    "Villarreal CF",
+    "Villarreal",
+    "Villarreal"
+   ]
+  },
+  {
+   "id": "as-cannes",
+   "name": "Cannes",
+   "country": "FRA",
+   "espn": "21306",
+   "aliases": [
+    "AS Cannes",
+    "AS Cannes",
+    "Cannes"
+   ]
+  },
+  {
+   "id": "olympique-lyonnais",
+   "name": "Lyon",
+   "country": "FRA",
+   "espn": "167",
+   "aliases": [
+    "Olympique Lyonnais",
+    "Olympique Lyonnais",
+    "Lyon"
    ]
   },
   {
@@ -1198,6 +1330,17 @@
    ]
   },
   {
+   "id": "as-nancy",
+   "name": "Nancy",
+   "country": "FRA",
+   "espn": "3267",
+   "aliases": [
+    "AS Nancy",
+    "AS Nancy",
+    "Nancy"
+   ]
+  },
+  {
    "id": "paris-saint-germain",
    "name": "Paris Saint-Germain",
    "country": "FRA",
@@ -1218,6 +1361,17 @@
    ]
   },
   {
+   "id": "stade-rennais-fc",
+   "name": "Rennes",
+   "country": "FRA",
+   "espn": "169",
+   "aliases": [
+    "Stade Rennais FC",
+    "Stade Rennais",
+    "Rennes"
+   ]
+  },
+  {
    "id": "saint-etienne",
    "name": "Saint-Étienne",
    "country": "FRA",
@@ -1225,6 +1379,17 @@
    "aliases": [
     "AS Saint-Étienne",
     "Saint-Étienne"
+   ]
+  },
+  {
+   "id": "valenciennes-fc",
+   "name": "Valenciennes",
+   "country": "FRA",
+   "espn": "6732",
+   "aliases": [
+    "Valenciennes FC",
+    "Valenciennes",
+    "Valenciennes"
    ]
   },
   {
@@ -1266,6 +1431,17 @@
    ]
   },
   {
+   "id": "dynamo-dresden",
+   "name": "Dynamo Dresden",
+   "country": "GER",
+   "espn": "7017",
+   "aliases": [
+    "Dynamo Dresden",
+    "Dynamo Dresden",
+    "Dynamo Dresden"
+   ]
+  },
+  {
    "id": "eintracht-frankfurt",
    "name": "Eintracht Frankfurt",
    "country": "GER",
@@ -1291,6 +1467,17 @@
    "aliases": [
     "Panathinaikos",
     "Panathinaikos F.C."
+   ]
+  },
+  {
+   "id": "ferencvarosi-tc",
+   "name": "Ferencvárosi TC",
+   "country": "HUN",
+   "espn": "622",
+   "aliases": [
+    "Ferencvárosi TC",
+    "Ferencvárosi TC",
+    "Ferencvaros"
    ]
   },
   {
@@ -1333,6 +1520,17 @@
    ]
   },
   {
+   "id": "ssc-napoli",
+   "name": "Napoli",
+   "country": "ITA",
+   "espn": "114",
+   "aliases": [
+    "SSC Napoli",
+    "SSC Napoli",
+    "Napoli"
+   ]
+  },
+  {
    "id": "roma",
    "name": "Roma",
    "country": "ITA",
@@ -1350,6 +1548,17 @@
    "aliases": [
     "Sampdoria",
     "U.C. Sampdoria"
+   ]
+  },
+  {
+   "id": "vicenza-calcio",
+   "name": "Vicenza",
+   "country": "ITA",
+   "espn": "120",
+   "aliases": [
+    "Vicenza Calcio",
+    "Vicenza Calcio",
+    "Vicenza"
    ]
   },
   {
@@ -1427,6 +1636,17 @@
    "aliases": [
     "Tigres UANL",
     "UANL"
+   ]
+  },
+  {
+   "id": "c-d-maxaquene",
+   "name": "C.D. Maxaquene",
+   "country": "MOZ",
+   "espn": null,
+   "aliases": [
+    "C.D. Maxaquene",
+    "C.D. Maxaquene",
+    "Maxaquene"
    ]
   },
   {
@@ -1548,6 +1768,17 @@
    ]
   },
   {
+   "id": "sporting-cp",
+   "name": "Sporting CP",
+   "country": "POR",
+   "espn": "2250",
+   "aliases": [
+    "Sporting CP",
+    "Sporting CP",
+    "Sporting CP"
+   ]
+  },
+  {
    "id": "steaua-bucuresti",
    "name": "Steaua București",
    "country": "ROU",
@@ -1555,6 +1786,17 @@
    "aliases": [
     "CSA Steaua București (football)",
     "Steaua București"
+   ]
+  },
+  {
+   "id": "fc-dynamo-moscow",
+   "name": "Dynamo Moscow",
+   "country": "RUS",
+   "espn": "596",
+   "aliases": [
+    "FC Dynamo Moscow",
+    "FC Dynamo Moscow",
+    "Dynamo Moscow"
    ]
   },
   {
@@ -1636,6 +1878,17 @@
    ]
   },
   {
+   "id": "fc-chornomorets-odesa",
+   "name": "FC Chornomorets Odesa",
+   "country": "UKR",
+   "espn": null,
+   "aliases": [
+    "FC Chornomorets Odesa",
+    "FC Chornomorets Odesa",
+    "Chornomorets Odesa"
+   ]
+  },
+  {
    "id": "nacional",
    "name": "Nacional",
    "country": "URU",
@@ -1654,6 +1907,17 @@
    "aliases": [
     "Club Atlético Peñarol",
     "Peñarol"
+   ]
+  },
+  {
+   "id": "inter-miami-cf",
+   "name": "Inter Miami",
+   "country": "USA",
+   "espn": "20232",
+   "aliases": [
+    "Inter Miami CF",
+    "Inter Miami",
+    "Inter Miami"
    ]
   },
   {

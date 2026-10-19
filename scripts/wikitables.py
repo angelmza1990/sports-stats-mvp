@@ -67,7 +67,9 @@ def find_table(wikitext: str, anchor: str, nth: int = 0) -> str:
     if not m:
         raise LookupError(f"anchor not found: {anchor}")
     pos = m.end()
+    table = None
     for _ in range(nth + 1):
+        table = None
         start = wikitext.find("\n{|", pos)
         if start < 0:
             raise LookupError(f"no table after {anchor}")
@@ -76,6 +78,11 @@ def find_table(wikitext: str, anchor: str, nth: int = 0) -> str:
             line_end = wikitext.find("\n", i)
             line_end = len(wikitext) if line_end < 0 else line_end
             line = wikitext[i:line_end].lstrip()
+            if depth == 1 and re.match(r"^=+[^=].*=+\s*$", line):
+                # A section heading can't sit inside a table: the source forgot its closing "|}".
+                table = wikitext[start + 1:i]
+                pos = i
+                break
             if line.startswith("{|"):
                 depth += 1
             elif line.startswith("|}"):
@@ -85,6 +92,8 @@ def find_table(wikitext: str, anchor: str, nth: int = 0) -> str:
                     pos = line_end
                     break
             i = line_end + 1
+        if table is None:
+            raise LookupError(f"unterminated table after {anchor}")
     return table
 
 
@@ -196,7 +205,7 @@ def plain(text: str) -> str:
     text = strip_refs(text)
     text = re.sub(r"\{\{\s*sortname\s*\|([^|}]*)\|([^|}]*)[^}]*\}\}", r"\1 \2", text, flags=re.I)
     text = re.sub(r"\{\{\s*sort\s*\|[^|{}]*\|(.*?)\}\}", r"\1", text, flags=re.I)
-    text = re.sub(r"\{\{(?:nowrap|nobr|small|center|maybe|nowrap begin|bold|big)\|([^{}]*)\}\}", r"\1", text, flags=re.I)
+    text = re.sub(r"\{\{(?:nowrap|nobr|small|center|maybe|nowrap begin|bold|big|F1|F1GP)\|([^{}]*)\}\}", r"\1", text, flags=re.I)
     text = re.sub(r"\[\[(?:[^\]|]+\|)?([^\]]+)\]\]", r"\1", text)
     text = re.sub(r"\{\{[^{}]*\}\}", "", text)
     text = re.sub(r"<[^>]+>", "", text)
