@@ -33,6 +33,8 @@
     .art .stat { text-align: right; line-height: 1.05; }
     .art .stat strong { display: block; font-size: 34px; font-weight: 750; letter-spacing: -0.02em; }
     .art .stat span { font-size: 12px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; opacity: 0.85; }
+    /* Flag backgrounds: the number sits on a light panel so it reads over any stripe. */
+    .art.flag .stat { background: rgba(255, 255, 255, 0.9); color: #1b1b1b; padding: 8px 12px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15); }
     .body { padding: 16px 20px 20px; }
     .body h3 { font-size: 20px; margin: 0 0 6px; }
     .body p { color: var(--ink-2); margin: 0; font-size: 15px; }
@@ -81,6 +83,21 @@
             <p>Every Open Era men's major: the champions race, title leaders at each Slam, nations, match records, repeated finals and runners-up.</p>
           </div>
         </a>
+        <a class="tile" href="tennis/masters-1000/">
+          <div class="art" style="--tint: linear-gradient(135deg, #1d3a6b, #2f5fa8)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <rect x="26" y="30" width="68" height="52" rx="6" fill="#f4f4f4"/>
+              <text x="60" y="66" text-anchor="middle" font-size="26" font-weight="700" fill="#1d3a6b" font-family="system-ui, sans-serif">1000</text>
+              <circle cx="92" cy="90" r="14" fill="#d8e94a"/>
+              <path d="M81 82c6 3 6 13 0 16M103 82c-6 3-6 13 0 16" fill="none" stroke="#fff" stroke-width="2.5"/>
+            </svg>
+            <div class="stat" data-stat="masters"><strong>40</strong><span>Djokovic titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Masters 1000</h3>
+            <p>Every ATP Masters 1000 final since 1990: the champions race, title leaders at each tournament, nations, match records and repeated finals.</p>
+          </div>
+        </a>
         <a class="tile" href="tennis/atp-records/">
           <div class="art" style="--tint: linear-gradient(135deg, #12355b, #1e5799)">
             <svg viewBox="0 0 120 120" aria-hidden="true"><ellipse cx="50" cy="42" rx="30" ry="34" fill="none" stroke="#f4f4f4" stroke-width="7"/><path d="M30 30h40M26 44h48M30 58h40M40 14v58M50 10v66M60 14v58" stroke="#f4f4f4" stroke-width="2" opacity="0.8"/><path d="M66 70l26 30" stroke="#3b2a1a" stroke-width="10" stroke-linecap="round"/><circle cx="92" cy="40" r="12" fill="#d8e94a"/></svg>
@@ -89,6 +106,50 @@
           <div class="body">
             <h3>ATP Records</h3>
             <p>Open Era career leaders: titles, weeks at No. 1, matches won and played, by surface, and the nations behind them.</p>
+          </div>
+        </a>
+        <a class="tile" href="tennis/grand-slams-women/">
+          <div class="art" style="--tint: linear-gradient(135deg, #7a2e6b, #b34a8f)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <path d="M38 24h44v14c0 18-10 30-22 32-12-2-22-14-22-32Z" fill="#f4c542"/>
+              <path d="M38 30H26c0 14 6 22 16 24M82 30h12c0 14-6 22-16 24" fill="none" stroke="#f4c542" stroke-width="5"/>
+              <rect x="55" y="70" width="10" height="16" fill="#f4c542"/>
+              <rect x="42" y="86" width="36" height="10" rx="2" fill="#e0a92a"/>
+              <circle cx="88" cy="88" r="14" fill="#d8e94a"/>
+              <path d="M77 80c6 3 6 13 0 16M99 80c-6 3-6 13 0 16" fill="none" stroke="#fff" stroke-width="2.5"/>
+            </svg>
+            <div class="stat" data-stat="slamsWomen"><strong>23</strong><span>Serena Williams majors</span></div>
+          </div>
+          <div class="body">
+            <h3>Women's Grand Slams</h3>
+            <p>Every Open Era women's major: the champions race, title leaders at each Slam, nations, match records, repeated finals and runners-up.</p>
+          </div>
+        </a>
+        <a class="tile" href="tennis/wta-1000/">
+          <div class="art" style="--tint: linear-gradient(135deg, #4b2a7a, #7b4bb3)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <rect x="26" y="30" width="68" height="52" rx="6" fill="#f4f4f4"/>
+              <text x="60" y="66" text-anchor="middle" font-size="26" font-weight="700" fill="#4b2a7a" font-family="system-ui, sans-serif">1000</text>
+              <circle cx="92" cy="90" r="14" fill="#d8e94a"/>
+              <path d="M81 82c6 3 6 13 0 16M103 82c-6 3-6 13 0 16" fill="none" stroke="#fff" stroke-width="2.5"/>
+            </svg>
+            <div class="stat" data-stat="wta1000"><strong>23</strong><span>Serena Williams titles</span></div>
+          </div>
+          <div class="body">
+            <h3>WTA 1000</h3>
+            <p>Every final of the WTA's top tier below the Slams since 1990 (Tier I, Premier Mandatory and Premier 5, WTA 1000): champions, nations and match records.</p>
+          </div>
+        </a>
+        <a class="tile" href="tennis/wta-records/">
+          <div class="art" style="--tint: linear-gradient(135deg, #5b1f4a, #94336f)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <ellipse cx="50" cy="42" rx="30" ry="34" fill="none" stroke="#f4f4f4" stroke-width="7"/><path d="M30 30h40M26 44h48M30 58h40M40 14v58M50 10v66M60 14v58" stroke="#f4f4f4" stroke-width="2" opacity="0.8"/><path d="M66 70l26 30" stroke="#3b2a1a" stroke-width="10" stroke-linecap="round"/><circle cx="92" cy="40" r="12" fill="#d8e94a"/>
+            </svg>
+            <div class="stat" data-stat="wta"><strong>377</strong><span>weeks at No. 1</span></div>
+          </div>
+          <div class="body">
+            <h3>WTA Records</h3>
+            <p>Open Era career leaders in women's tennis: titles, weeks at No. 1, matches won and played, by surface, and the nations behind them.</p>
           </div>
         </a>
       </div>
@@ -223,6 +284,91 @@
             <p>Every league champion since 1891, with and without the amateur era, all-time tables, top scorers and the years of rival associations.</p>
           </div>
         </a>
+        <a class="tile" href="football/serie-a/">
+          <div class="art flag" style="--tint: linear-gradient(90deg, #009246 0 33%, #ffffff 33% 66%, #ce2b37 66%); --art-ink: #1b1b1b">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="60" r="40" fill="#fff" stroke="#1b1b1b" stroke-width="3"/>
+              <path d="M60 40l14 10-5 16H51l-5-16Z" fill="#1b1b1b"/>
+              <path d="M60 40V20M74 50l19-6M69 66l12 16M51 66L39 82M46 50l-19-6" stroke="#1b1b1b" stroke-width="3"/>
+            </svg>
+            <div class="stat" data-stat="seriea"><strong>36</strong><span>Juventus titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Serie A</h3>
+            <p>Every Italian champion since 1898, with and without the years before Serie A, the all-time table, every capocannoniere and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/la-liga/">
+          <div class="art flag" style="--tint: linear-gradient(180deg, #aa151b 0 25%, #f1bf00 25% 75%, #aa151b 75%); --art-ink: #5a0d10">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="60" r="40" fill="#fff" stroke="#5a0d10" stroke-width="3"/>
+              <path d="M60 40l14 10-5 16H51l-5-16Z" fill="#5a0d10"/>
+              <path d="M60 40V20M74 50l19-6M69 66l12 16M51 66L39 82M46 50l-19-6" stroke="#5a0d10" stroke-width="3"/>
+            </svg>
+            <div class="stat" data-stat="laliga"><strong>36</strong><span>Real Madrid titles</span></div>
+          </div>
+          <div class="body">
+            <h3>La Liga</h3>
+            <p>Every Spanish champion since 1929: the titles race, titles by club, the all-time table, every Pichichi and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/premier-league/">
+          <div class="art flag" style="--tint: linear-gradient(90deg, transparent 43%, #ce1124 43% 57%, transparent 57%), linear-gradient(180deg, #ffffff 40%, #ce1124 40% 60%, #ffffff 60%); --art-ink: #1b1b1b">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="60" r="40" fill="#fff" stroke="#1b1b1b" stroke-width="3"/>
+              <path d="M60 40l14 10-5 16H51l-5-16Z" fill="#1b1b1b"/>
+              <path d="M60 40V20M74 50l19-6M69 66l12 16M51 66L39 82M46 50l-19-6" stroke="#1b1b1b" stroke-width="3"/>
+            </svg>
+            <div class="stat" data-stat="england"><strong>20</strong><span>Liverpool titles</span></div>
+          </div>
+          <div class="body">
+            <h3>English football champions</h3>
+            <p>Every top-flight champion since 1888, with and without the Football League era, the all-time Premier League table and every top scorer.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/ligue-1/">
+          <div class="art flag" style="--tint: linear-gradient(90deg, #002395 0 33%, #ffffff 33% 66%, #ed2939 66%); --art-ink: #1b1b1b">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="60" r="40" fill="#fff" stroke="#1b1b1b" stroke-width="3"/>
+              <path d="M60 40l14 10-5 16H51l-5-16Z" fill="#1b1b1b"/>
+              <path d="M60 40V20M74 50l19-6M69 66l12 16M51 66L39 82M46 50l-19-6" stroke="#1b1b1b" stroke-width="3"/>
+            </svg>
+            <div class="stat" data-stat="ligue1"><strong>14</strong><span>Paris Saint-Germain titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Ligue 1</h3>
+            <p>Every French champion since 1894, with and without the amateur era, every top scorer and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/bundesliga/">
+          <div class="art flag" style="--tint: linear-gradient(180deg, #000000 0 33%, #dd0000 33% 66%, #ffce00 66%); --art-ink: #1b1b1b">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="60" r="40" fill="#fff" stroke="#1b1b1b" stroke-width="3"/>
+              <path d="M60 40l14 10-5 16H51l-5-16Z" fill="#1b1b1b"/>
+              <path d="M60 40V20M74 50l19-6M69 66l12 16M51 66L39 82M46 50l-19-6" stroke="#1b1b1b" stroke-width="3"/>
+            </svg>
+            <div class="stat" data-stat="bundesliga"><strong>35</strong><span>Bayern Munich titles</span></div>
+          </div>
+          <div class="body">
+            <h3>German football champions</h3>
+            <p>Every German champion since 1903, with and without the years before the Bundesliga, the all-time Bundesliga table and every top scorer.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/brasileirao/">
+          <div class="art" style="--tint: linear-gradient(135deg, #009c3b, #00b347)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <path d="M60 8l52 52-52 52-52-52Z" fill="#fedf00"/>
+              <circle cx="60" cy="60" r="40" fill="#fff" stroke="#002776" stroke-width="3"/>
+              <path d="M60 40l14 10-5 16H51l-5-16Z" fill="#002776"/>
+              <path d="M60 40V20M74 50l19-6M69 66l12 16M51 66L39 82M46 50l-19-6" stroke="#002776" stroke-width="3"/>
+            </svg>
+            <div class="stat" data-stat="brasileirao"><strong>12</strong><span>Palmeiras titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Brasileirão</h3>
+            <p>Every Brazilian national champion since 1937, with and without the years before 1971, the all-time table, every top scorer and every season.</p>
+          </div>
+        </a>
       </div>
     </section>
 
@@ -339,6 +485,46 @@
         }],
         world: ["football/world-club-champions/data/world-club-champions.json", (d) => [String(d.finals.length), "world titles"]],
         argentina: ["football/argentine-primera/data/argentine-primera.json", (d) => {
+          const [id, n] = most(d.titles, (t) => t.champion);
+          return [String(n), `${d.clubs[id].name} titles`];
+        }],
+        slamsWomen: ["tennis/grand-slams-women/data/grand-slams-women.json", (d) => {
+          const [name, n] = most(d.editions, (e) => e.champion);
+          return [String(n), `${name} majors`];
+        }],
+        masters: ["tennis/masters-1000/data/masters-1000.json", (d) => {
+          const [name, n] = most(d.editions, (e) => e.champion);
+          return [String(n), `${name.split(" ").slice(-1)[0]} titles`];
+        }],
+        wta1000: ["tennis/wta-1000/data/wta-1000.json", (d) => {
+          const [name, n] = most(d.editions, (e) => e.champion);
+          return [String(n), `${name} titles`];
+        }],
+        wta: ["tennis/wta-records/data/wta-records.json", (d) => {
+          const p = d.players.slice().sort((a, b) => b.weeks - a.weeks)[0];
+          return [String(p.weeks), `weeks at No. 1, ${p.name.split(" ").slice(-1)[0]}`];
+        }],
+        seriea: ["football/serie-a/data/serie-a.json", (d) => {
+          const [id, n] = most(d.titles, (t) => t.champion);
+          return [String(n), `${d.clubs[id].name} titles`];
+        }],
+        laliga: ["football/la-liga/data/la-liga.json", (d) => {
+          const [id, n] = most(d.titles, (t) => t.champion);
+          return [String(n), `${d.clubs[id].name} titles`];
+        }],
+        england: ["football/premier-league/data/premier-league.json", (d) => {
+          const [id, n] = most(d.titles, (t) => t.champion);
+          return [String(n), `${d.clubs[id].name} titles`];
+        }],
+        ligue1: ["football/ligue-1/data/ligue-1.json", (d) => {
+          const [id, n] = most(d.titles, (t) => t.champion);
+          return [String(n), `${d.clubs[id].name} titles`];
+        }],
+        bundesliga: ["football/bundesliga/data/bundesliga.json", (d) => {
+          const [id, n] = most(d.titles, (t) => t.champion);
+          return [String(n), `${d.clubs[id].name} titles`];
+        }],
+        brasileirao: ["football/brasileirao/data/brasileirao.json", (d) => {
           const [id, n] = most(d.titles, (t) => t.champion);
           return [String(n), `${d.clubs[id].name} titles`];
         }],

@@ -34,9 +34,23 @@ Every Open Era men's singles major since Roland Garros 1968:
 - **Match records:** most matches won and played at each major
 - **The most repeated finals**
 
+### 🎾 [Masters 1000](https://angelmza1990.github.io/sports-stats-mvp/tennis/masters-1000/)
+
+Every ATP Masters 1000 final since the series began in 1990 (as the Championship Series, the Super 9 and the Masters Series), with the same sections as the Grand Slams page: a race of titles split by surface, the leaders overall, at each of the nine current tournaments and at the former ones (Hamburg, Stockholm, Essen, Stuttgart), runners-up, nations, match records and repeated finals.
+
 ### 🎾 [ATP Records](https://angelmza1990.github.io/sports-stats-mvp/tennis/atp-records/)
 
 Open Era career leaders: a race of career titles, leaders in titles, weeks at No. 1, matches won and played and win percentage (overall and by surface), the kings of each surface, career records, nations and every year-end No. 1.
+
+### 🎾 Women's tennis: [Grand Slams](https://angelmza1990.github.io/sports-stats-mvp/tennis/grand-slams-women/), [WTA 1000](https://angelmza1990.github.io/sports-stats-mvp/tennis/wta-1000/) and [WTA Records](https://angelmza1990.github.io/sports-stats-mvp/tennis/wta-records/)
+
+The same three pages for the WTA: every Open Era women's major, every final of the WTA's top tier below the Slams since 1990 (Tier I, Premier Mandatory and Premier 5, and WTA 1000), and the Open Era career leaders in titles, weeks at No. 1 and matches.
+
+| | Grand Slams | WTA 1000 (since 1990) | Weeks at No. 1 |
+|---|---:|---:|---:|
+| Serena Williams | 23 | 23 | 319 |
+| Steffi Graf | 22 | 15 | 377 |
+| Martina Navratilova | 18 | 3 | 332 |
 
 ### 🏀 [NBA Rings](https://angelmza1990.github.io/sports-stats-mvp/basketball/nba-rings/)
 
@@ -78,6 +92,10 @@ The Intercontinental Cup (1960–2004), the FIFA Club World Cup and the FIFA Int
 
 Every league champion since 1891: a titles race with or without the amateur era, titles by club split by era, the all-time table (total, professional and amateur), the top scorer of every tournament and his club, the all-time scorers, the amateur years when rival associations crowned their own champions (1912–14, 1919–26, 1931–34) and every season.
 
+### ⚽ National leagues: [Serie A](https://angelmza1990.github.io/sports-stats-mvp/football/serie-a/), [La Liga](https://angelmza1990.github.io/sports-stats-mvp/football/la-liga/), [England](https://angelmza1990.github.io/sports-stats-mvp/football/premier-league/), [Ligue 1](https://angelmza1990.github.io/sports-stats-mvp/football/ligue-1/), [Germany](https://angelmza1990.github.io/sports-stats-mvp/football/bundesliga/) and [Brasileirão](https://angelmza1990.github.io/sports-stats-mvp/football/brasileirao/)
+
+The Argentine page's format for six more countries, one page each with a shared front end: every national champion (Italy since 1898, England since 1888, France since 1894, Germany since 1903, Spain since 1929, Brazil since 1937), a titles race with and without the early era (before Serie A, the Premier League, the professional league, the Bundesliga or the 1971 Campeonato Brasileiro), titles by club, the all-time table where Wikipedia publishes one, the top scorer of every season and the all-time scorers.
+
 ### 🏉🏐🏑🏀 International team tournaments
 
 One page per sport, each with a selector for every competition and gender:
@@ -101,21 +119,27 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── app.js                    # All charts (D3 v7)
 │   ├── style.css
 │   └── data/big-three.json       # Generated dataset
-├── tennis/grand-slams/           # Grand Slams infographic
+├── tennis/series.js              # Shared app for Grand Slams, Masters 1000 and WTA 1000
+├── tennis/records.js             # Shared app for ATP and WTA Records
+├── tennis/grand-slams/           # Grand Slams (men); also grand-slams-women/
+├── tennis/masters-1000/          # ATP Masters 1000; also wta-1000/
+├── tennis/atp-records/           # ATP Records; also wta-records/
 ├── basketball/nba-rings/         # NBA Rings infographic
-├── football/                     # Football pages (shared common.js) + one folder per page
+├── football/                     # Football pages (shared common.js, league.js for national leagues) + one folder per page
 ├── motorsport/formula-1/         # Formula 1 page
 ├── international/tournament.js   # Shared page for team tournaments
 ├── rugby|basketball|volleyball|hockey/international/  # One page per sport (data/ per competition)
 ├── scripts/
 │   ├── tennis_data.py            # Shared ATP + Wikipedia draw helpers
 │   ├── build_big_three.py        # Big Three data pipeline
-│   ├── build_grand_slams.py      # Grand Slams data pipeline
+│   ├── build_grand_slams.py      # Grand Slams data pipeline (men and women)
+│   ├── build_masters.py          # ATP Masters 1000 and WTA 1000 pipeline
 │   ├── build_nba_rings.py        # NBA data pipeline
 │   ├── build_football.py         # Football club competitions pipeline
+│   ├── build_leagues.py          # Italy, Spain, England, France, Germany and Brazil leagues
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
 │   ├── build_f1.py               # Formula 1 pipeline
-│   ├── build_atp_records.py      # ATP career records pipeline
+│   ├── build_atp_records.py      # ATP and WTA career records pipeline
 │   ├── build_tournaments.py      # Rugby, basketball, volleyball and hockey tournaments
 │   └── wikitables.py             # Generic Wikipedia table parser
 ├── data/
@@ -135,12 +159,14 @@ A [GitHub Actions workflow](.github/workflows/update-data.yml) rebuilds every da
 
 ```bash
 python3 scripts/build_big_three.py --refresh  # tennis: re-downloads the raw match files
-python3 scripts/build_grand_slams.py --refresh # tennis: Open Era Grand Slams
+python3 scripts/build_grand_slams.py --refresh # tennis: Open Era Grand Slams, men and women
+python3 scripts/build_masters.py --refresh    # tennis: ATP Masters 1000 and WTA 1000
 python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia table
 python3 scripts/build_football.py --refresh   # football: club competitions and Argentine league
+python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, England, Ligue 1, Germany, Brasileirão
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
-python3 scripts/build_atp_records.py --refresh  # tennis: ATP career records
+python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
 python3 scripts/build_tournaments.py --refresh  # rugby, basketball, volleyball, hockey
 ```
 
@@ -156,9 +182,17 @@ Rules applied:
 
 **Grand Slams.** The script reads every Grand Slam match since Roland Garros 1968 from the same ATP files. Any major the files don't cover yet is rebuilt match by match from its Wikipedia draw page (all 127 matches must parse, or the build fails). Nationality is the one represented at the time: a small [override file](data/manual/slam_nationality_overrides.csv) corrects players the ATP lists under today's country (Lendl and Kodeš for Czechoslovakia, for example). The build checks title totals for the all-time leaders and the number of editions of each major.
 
+**Women's Grand Slams** use the same pipeline with the WTA match files and the women's draw pages. A [separate override file](data/manual/wta_nationality_overrides.csv) restores the nationality of the time where the WTA lists today's (Navratilova and Mandlíková for Czechoslovakia, Seles for Yugoslavia); for every player, Czech, Slovak, former Soviet and former Yugoslav codes before those countries existed become Czechoslovakia, the Soviet Union and Yugoslavia.
+
+**Masters 1000 and WTA 1000.** Wikipedia's yearly results tables (one page per season since 1990) decide which finals count, which matters for the WTA, whose level codes in the match files don't mark its top tier consistently. Each final is matched to its tournament in the ATP or WTA match files by its two finalists, and every match of that tournament feeds the match records; events the files don't cover yet are rebuilt from their Wikipedia draw pages (a draw must have one match fewer than it has players). The builds check the title counts of the all-time leaders and the number of finals in each season; the ATP titles by country match Wikipedia's own table.
+
+**WTA records** are counted like the ATP's, from tour-level finals in the WTA match files. The match data is incomplete for the 1970s and 80s, so the builds check recent careers exactly (Serena Williams's 73 titles) and early ones within a tolerance (Evert, Navratilova).
+
 **NBA.** The script reads Wikipedia's [List of NBA champions](https://en.wikipedia.org/wiki/List_of_NBA_champions) table, maps every historical team name to its current franchise (the Minneapolis Lakers count for the Lakers, the Seattle SuperSonics for the Thunder) and checks that every season is present and that all titles through 2026 match the known totals. A new team name makes the build fail until it is added to [`data/nba/franchises.json`](data/nba/franchises.json).
 
 **Football.** For the Libertadores and Champions League, the script reads each competition's list of finals, all-time club table, all-time top scorers and most-appearance table from Wikipedia, and maps clubs to crests through [`data/football/clubs.json`](data/football/clubs.json) (a club missing from that file still appears, with a lettered badge). It checks that there is one final per season and that every club's title count matches the known history. The world champions page combines the three competitions from Wikipedia's list of world champion clubs (checked against known title counts and the number of finals per competition). The Argentine page reads the list of Primera División champions and must match, club by club, the title totals on the same page; amateur and professional titles and the rival associations come from the season labels (FAF, AAmF, LAF). Its all-time tables come from Spanish Wikipedia (based on RSSSF) and are shown as published.
+
+**National leagues.** One config per league (in `build_leagues.py`) names the Wikipedia list of champions, the top scorer pages and, where one exists, the all-time table (from Italian, Spanish or English Wikipedia). Every club's title count must match the totals table on the same page; the only documented exception is Rouen's 1944–45 wartime title, which the French totals table counts and the season list doesn't. Renamed clubs keep their titles through the aliases in `clubs.json` (Ambrosiana-Inter for Inter, Atlético Aviación for Atlético Madrid, SpVgg Fürth for Greuther Fürth), and a club's label only matches a club of the same country, so Chile's Everton or Arsenal de Sarandí never borrow an English crest.
 
 **World Cup.** The script combines six Wikipedia pages (editions, finals, records and statistics, top goalscorers, team and player appearances) and checks that every edition since 1930 is present, that title counts match history and that each edition has its final, podium, hosts and tournament totals.
 
@@ -179,12 +213,12 @@ python3 -m http.server 8000
 
 ## Data & credits
 
-- Match data: [Jeff Sackmann / Tennis Abstract](https://www.tennisabstract.com/) ATP dataset, via an [archive mirror](https://github.com/Aneeshers/tennis-sackmann-archive). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+- Match data: [Jeff Sackmann / Tennis Abstract](https://www.tennisabstract.com/) ATP and WTA datasets, via an [archive mirror](https://github.com/Aneeshers/tennis-sackmann-archive). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 - Tennis results newer than the dataset are added by hand in [`data/manual/`](data/manual/), each with a source link, or rebuilt from Wikipedia draw pages (CC BY-SA 4.0).
 - Flags: [Flagpedia](https://flagpedia.net) (flagcdn.com).
 - NBA championships: [Wikipedia](https://en.wikipedia.org/wiki/List_of_NBA_champions), CC BY-SA 4.0.
 - Football finals, club records and player records: Wikipedia (CC BY-SA 4.0).
-- NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, FIFA, CONMEBOL, UEFA, the AFA, France Football, Formula One, the FIA, World Rugby, FIBA, the FIVB, the FIH or the IOC.
+- NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, FIFA, CONMEBOL, UEFA, the AFA, the FIGC, the RFEF, LaLiga, the FA, the Premier League, the LFP, the DFB, the DFL, the CBF, the ATP, the WTA, France Football, Formula One, the FIA, World Rugby, FIBA, the FIVB, the FIH or the IOC.
 
 ## License
 
