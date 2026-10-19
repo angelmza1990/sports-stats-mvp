@@ -1,0 +1,89 @@
+/* Olympic swimming: medal colors and the results table. */
+
+:root {
+  --gold: #c9971a;
+  --silver: #9a9fa6;
+  --bronze: #b06a36;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --gold: #d6a730;
+    --silver: #a9aeb5;
+    --bronze: #c07a45;
+  }
+}
+
+:root[data-theme="dark"] {
+  --gold: #d6a730;
+  --silver: #a9aeb5;
+  --bronze: #c07a45;
+}
+
+.medal-dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--c);
+  margin-right: 6px;
+  vertical-align: 1px;
+}
+
+.medal-bar {
+  display: flex;
+  gap: 2px;
+  height: 10px;
+  min-width: 60px;
+}
+
+.medal-bar span {
+  background: var(--c);
+  min-width: 2px;
+}
+
+.medal-bar span:last-child {
+  border-radius: 0 4px 4px 0;
+}
+
+.scope-select select {
+  font: inherit;
+  font-size: 14px;
+  background: var(--surface-raised);
+  color: var(--ink);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 7px 32px 7px 14px;
+  max-width: 100%;
+  cursor: pointer;
+}
+
+.event-meta {
+  font-size: 13px;
+  color: var(--ink-2);
+}
+
+.event-leaders {
+  margin: 8px 0 16px;
+}
+
+.medalist + .medalist {
+  margin-top: 4px;
+}
+
+.medalist .time {
+  font-size: 12px;
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+  margin-left: 6px;
+}
+
+.medalist .team {
+  font-size: 12px;
+  color: var(--ink-muted);
+  margin-top: 2px;
+}
+
+.results-table td {
+  vertical-align: top;
+}

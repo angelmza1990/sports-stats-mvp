@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Olympic Swimming · Swimming</title>
+  <meta name="description" content="Every Olympic swimming medal since 1896, men's and women's: a gold medal race by nation, the medal table by stroke, the most decorated swimmers and the full results of every event.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/swimming-olympics.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Swimming</p>
+    <h1>Olympic Swimming</h1>
+    <p class="lede">Every Olympic swimming medal since Athens 1896, men's and women's: who won, where they came from and the full podium of every event, including the ones no longer swum.</p>
+  </header>
+
+  <div class="filter-bar wrap-bar">
+    <div class="wrap filter-inner">
+      <span class="filter-label">Events</span>
+      <div class="segmented" role="tablist" aria-label="Events" id="gender"></div>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <div class="stat-row" id="stats" style="margin-top:24px"></div>
+
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most gold medals</h2>
+        <p>Olympic swimming gold medals by nation, Games by Games.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Games">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="medals">
+      <div class="block-head">
+        <h2>Medal table</h2>
+        <p>Medals won by each nation, overall or by stroke. Relays count once per team.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Stroke" id="medals-stroke"></div>
+        </div>
+        <div class="legend" id="medals-legend"></div>
+        <div class="data-table tall" id="medals-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="swimmers">
+      <div class="block-head">
+        <h2>The most decorated swimmers</h2>
+        <p>Career Olympic medals, individual and relay.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="swimmers-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="events">
+      <div class="block-head">
+        <h2>Results by event</h2>
+        <p>Pick an event for its full podium at every Games, with times where the source lists them, and who has won it most.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="scope-select"><select id="event-select" aria-label="Event"></select></div>
+          <span class="event-meta" id="event-meta"></span>
+        </div>
+        <div class="grid-2 event-leaders">
+          <div>
+            <h3 class="sub">Gold medals by nation</h3>
+            <div id="event-nations"></div>
+          </div>
+          <div>
+            <h3 class="sub">Most medals in this event</h3>
+            <div id="event-swimmers"></div>
+          </div>
+        </div>
+        <div class="data-table" id="event-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> Wikipedia, <span id="sources"></span> (CC BY-SA 4.0). Updated automatically twice a year. <span id="data-through"></span></p>
+    <p>
+      <strong>Notes:</strong> pool events only; the 10 km marathon swim is open water. Nations are shown as they competed (East and West Germany, the United Team of Germany, the Soviet Union, Australasia).
+      Ties are shared medals: when two swimmers tie, both receive the medal and the next one isn't awarded. Swimmers' relay medals follow the team members listed by the source, which for a few early relays leaves out swimmers who only swam the heats.
+      Early Games held events that are no longer swum (yards races in 1904, an obstacle race and underwater swimming in 1900); they are listed under discontinued events.
+      Flags by <a href="https://flagpedia.net">Flagpedia</a>. This project is not affiliated with World Aquatics or the IOC.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
