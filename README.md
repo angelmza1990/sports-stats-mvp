@@ -58,13 +58,17 @@ Two pages with the same structure, one per competition:
 - **All-time points table**
 - **Player records:** all-time top scorers and most appearances
 
+### 🏆 [FIFA World Cup](https://angelmza1990.github.io/sports-stats-mvp/football/world-cup/)
+
+Every men's World Cup from 1930 to 2026: a race of titles, finals or top-four finishes; champions, runners-up and podiums; results by confederation; hosts and how far they went; repeated finals; teams, matches, goals and attendance per tournament; the all-time points table; team appearances; top scorers, most matches and most tournaments by player; and the top scorer, best player and winning coach of every edition.
+
 ### 🌍 [World Club Champions](https://angelmza1990.github.io/sports-stats-mvp/football/world-club-champions/)
 
 The Intercontinental Cup (1960–2004), the FIFA Club World Cup and the FIFA Intercontinental Cup, combined or one at a time: a world titles race, titles by club, by continent (confederation) and by country, repeated finals and every final.
 
 ### 🇦🇷 [Argentine Primera División](https://angelmza1990.github.io/sports-stats-mvp/football/argentine-primera/)
 
-Every league champion since 1891: a titles race with or without the amateur era, titles by club split by era, the amateur years when rival associations crowned their own champions (1912–14, 1919–26, 1931–34) and every season.
+Every league champion since 1891: a titles race with or without the amateur era, titles by club split by era, the all-time table (total, professional and amateur), the amateur years when rival associations crowned their own champions (1912–14, 1919–26, 1931–34) and every season.
 
 ## How it works
 
@@ -84,7 +88,8 @@ Every league champion since 1891: a titles race with or without the amateur era,
 │   ├── build_big_three.py        # Big Three data pipeline
 │   ├── build_grand_slams.py      # Grand Slams data pipeline
 │   ├── build_nba_rings.py        # NBA data pipeline
-│   ├── build_football.py         # Football data pipeline
+│   ├── build_football.py         # Football club competitions pipeline
+│   ├── build_world_cup.py        # FIFA World Cup pipeline
 │   └── wikitables.py             # Generic Wikipedia table parser
 ├── data/
 │   ├── manual/                   # Hand-curated tennis results and nationality fixes
@@ -105,7 +110,8 @@ A [GitHub Actions workflow](.github/workflows/update-data.yml) rebuilds every da
 python3 scripts/build_big_three.py --refresh  # tennis: re-downloads the raw match files
 python3 scripts/build_grand_slams.py --refresh # tennis: Open Era Grand Slams
 python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia table
-python3 scripts/build_football.py --refresh   # football: both competitions
+python3 scripts/build_football.py --refresh   # football: club competitions and Argentine league
+python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
 ```
 
 Leave out `--refresh` to use the cached copies in `data/raw/`.
@@ -122,7 +128,9 @@ Rules applied:
 
 **NBA.** The script reads Wikipedia's [List of NBA champions](https://en.wikipedia.org/wiki/List_of_NBA_champions) table, maps every historical team name to its current franchise (the Minneapolis Lakers count for the Lakers, the Seattle SuperSonics for the Thunder) and checks that every season is present and that all titles through 2026 match the known totals. A new team name makes the build fail until it is added to [`data/nba/franchises.json`](data/nba/franchises.json).
 
-**Football.** For the Libertadores and Champions League, the script reads each competition's list of finals, all-time club table, all-time top scorers and most-appearance table from Wikipedia, and maps clubs to crests through [`data/football/clubs.json`](data/football/clubs.json) (a club missing from that file still appears, with a lettered badge). It checks that there is one final per season and that every club's title count matches the known history. The world champions page combines the three competitions from Wikipedia's list of world champion clubs (checked against known title counts and the number of finals per competition). The Argentine page reads the list of Primera División champions and must match, club by club, the title totals on the same page; amateur and professional titles and the rival associations come from the season labels (FAF, AAmF, LAF).
+**Football.** For the Libertadores and Champions League, the script reads each competition's list of finals, all-time club table, all-time top scorers and most-appearance table from Wikipedia, and maps clubs to crests through [`data/football/clubs.json`](data/football/clubs.json) (a club missing from that file still appears, with a lettered badge). It checks that there is one final per season and that every club's title count matches the known history. The world champions page combines the three competitions from Wikipedia's list of world champion clubs (checked against known title counts and the number of finals per competition). The Argentine page reads the list of Primera División champions and must match, club by club, the title totals on the same page; amateur and professional titles and the rival associations come from the season labels (FAF, AAmF, LAF). Its all-time tables come from Spanish Wikipedia (based on RSSSF) and are shown as published.
+
+**World Cup.** The script combines six Wikipedia pages (editions, finals, records and statistics, top goalscorers, team and player appearances) and checks that every edition since 1930 is present, that title counts match history and that each edition has its final, podium, hosts and tournament totals.
 
 ### Running locally
 
