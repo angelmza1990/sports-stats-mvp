@@ -46,6 +46,17 @@ Every NBA championship since 1947:
 - **How the Finals were won:** sweeps to Game 7s
 - **Finals MVP leaders**
 
+### ⚽ [Copa Libertadores](https://angelmza1990.github.io/sports-stats-mvp/football/copa-libertadores/) and [Champions League](https://angelmza1990.github.io/sports-stats-mvp/football/champions-league/)
+
+Two pages with the same structure, one per competition:
+
+- **The race for the most titles:** an animated bar chart race by club, with crests and flags
+- **Champions and runners-up:** by club, or every final with its score
+- **The most repeated finals**
+- **Titles and runners-up by country**
+- **All-time club records:** most wins, goals and participations
+- **Player records:** all-time top scorers and most appearances
+
 ## How it works
 
 ```
@@ -58,14 +69,18 @@ Every NBA championship since 1947:
 │   └── data/big-three.json       # Generated dataset
 ├── tennis/grand-slams/           # Grand Slams infographic
 ├── basketball/nba-rings/         # NBA Rings infographic
+├── football/                     # Copa Libertadores + Champions League (shared football.js)
 ├── scripts/
 │   ├── tennis_data.py            # Shared ATP + Wikipedia draw helpers
 │   ├── build_big_three.py        # Big Three data pipeline
 │   ├── build_grand_slams.py      # Grand Slams data pipeline
-│   └── build_nba_rings.py        # NBA data pipeline
+│   ├── build_nba_rings.py        # NBA data pipeline
+│   ├── build_football.py         # Football data pipeline
+│   └── wikitables.py             # Generic Wikipedia table parser
 ├── data/
 │   ├── manual/                   # Hand-curated tennis results and nationality fixes
-│   └── nba/franchises.json       # Every NBA franchise and its historical names
+│   ├── nba/franchises.json       # Every NBA franchise and its historical names
+│   └── football/clubs.json       # Football clubs, their Wikipedia aliases and crest ids
 └── .github/workflows/            # Automatic data updates
 ```
 
@@ -81,6 +96,7 @@ A [GitHub Actions workflow](.github/workflows/update-data.yml) rebuilds every da
 python3 scripts/build_big_three.py --refresh  # tennis: re-downloads the raw match files
 python3 scripts/build_grand_slams.py --refresh # tennis: Open Era Grand Slams
 python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia table
+python3 scripts/build_football.py --refresh   # football: both competitions
 ```
 
 Leave out `--refresh` to use the cached copies in `data/raw/`.
@@ -97,6 +113,8 @@ Rules applied:
 
 **NBA.** The script reads Wikipedia's [List of NBA champions](https://en.wikipedia.org/wiki/List_of_NBA_champions) table, maps every historical team name to its current franchise (the Minneapolis Lakers count for the Lakers, the Seattle SuperSonics for the Thunder) and checks that every season is present and that all titles through 2026 match the known totals. A new team name makes the build fail until it is added to [`data/nba/franchises.json`](data/nba/franchises.json).
 
+**Football.** The script reads each competition's list of finals, all-time club table, all-time top scorers and most-appearance table from Wikipedia, and maps clubs to crests through [`data/football/clubs.json`](data/football/clubs.json) (a club missing from that file still appears, with a lettered badge). It checks that there is one final per season and that every club's title count matches the known history.
+
 ### Running locally
 
 ```bash
@@ -110,8 +128,9 @@ python3 -m http.server 8000
 - Tennis results newer than the dataset are added by hand in [`data/manual/`](data/manual/), each with a source link, or rebuilt from Wikipedia draw pages (CC BY-SA 4.0).
 - Flags: [Flagpedia](https://flagpedia.net) (flagcdn.com).
 - NBA championships: [Wikipedia](https://en.wikipedia.org/wiki/List_of_NBA_champions), CC BY-SA 4.0.
-- NBA team logos are loaded from ESPN's public CDN. Team names and logos are trademarks of their respective teams and the NBA, shown for identification only. This project is not affiliated with the NBA.
+- Football finals, club records and player records: Wikipedia (CC BY-SA 4.0).
+- NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, CONMEBOL or UEFA.
 
 ## License
 
-Code is released under the [MIT License](LICENSE). Data keeps its original license (CC BY-NC-SA 4.0 for tennis, CC BY-SA 4.0 for NBA).
+Code is released under the [MIT License](LICENSE). Data keeps its original license (CC BY-NC-SA 4.0 for the ATP match data, CC BY-SA 4.0 for Wikipedia).
