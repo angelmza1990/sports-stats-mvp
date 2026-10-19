@@ -93,6 +93,40 @@
   Viz.segmented("era-filter", ERAS, "all", render);
   render("all");
 
+  /* ---------- All-time tables (total, professional, amateur) ---------- */
+
+  (function allTime() {
+    const TABS = [
+      { key: "total", label: "All eras" },
+      { key: "professional", label: "Professional era" },
+      { key: "amateur", label: "Amateur era" },
+    ];
+    const periods = data.meta.alltimePeriods;
+    const sign = (n) => (n > 0 ? `+${n}` : String(n));
+    function render(key) {
+      const rows = (data.alltime[key] || []).slice().sort((a, b) => b.pts - a.pts || (b.gf - b.ga) - (a.gf - a.ga));
+      const note = { total: "Amateur and professional eras combined", professional: "Professional era", amateur: "Amateur era" }[key];
+      const off = rows.filter((r) => r.pld !== r.w + r.d + r.l).length;
+      document.getElementById("alltime-note").textContent = `${note}, ${periods[key] ?? ""}: ${rows.length} clubs.` +
+        (off ? ` In ${off} rows the source's wins, draws and losses don't add up to matches played; figures are shown as published.` : "");
+      F.richTable(document.getElementById("alltime-table"), [
+        { label: "#", cls: "num rank", render: (r) => String(rows.indexOf(r) + 1) },
+        { label: "Club", render: (r) => F.clubLabel(r.club) },
+        { label: "Played", short: "P", cls: "num", render: (r) => String(r.pld) },
+        { label: "W", cls: "num", render: (r) => String(r.w) },
+        { label: "D", cls: "num", render: (r) => String(r.d) },
+        { label: "L", cls: "num", render: (r) => String(r.l) },
+        { label: "GF", cls: "num hide-sm", render: (r) => String(r.gf) },
+        { label: "GA", cls: "num hide-sm", render: (r) => String(r.ga) },
+        { label: "GD", cls: "num hide-sm", render: (r) => sign(r.gf - r.ga) },
+        ...(key === "total" ? [{ label: "Titles", cls: "num", render: (r) => String(counts.get(r.club) ?? 0) }] : []),
+        { label: "Points", short: "Pts", cls: "num strong", render: (r) => String(r.pts) },
+      ], rows);
+    }
+    Viz.segmented("alltime-tabs", TABS, "total", render);
+    render("total");
+  })();
+
   /* ---------- Amateur era: timeline of splits + year-by-year table ---------- */
 
   (function amateurEra() {

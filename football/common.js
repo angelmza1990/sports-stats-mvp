@@ -5,6 +5,8 @@ window.Football = function (data) {
   const { el, barPath } = Viz;
   const clubs = data.clubs;
   const countries = data.countries;
+  // Nations mode (national teams): flags stand in for crests.
+  const nations = Boolean(data.nationMode);
 
   const clubName = (id) => clubs[id]?.name ?? id;
   const countryName = (code) => countries[code]?.name ?? code;
@@ -19,6 +21,7 @@ window.Football = function (data) {
   const initials = (name) => name.replace(/\(.*?\)/g, "").replace(/[^A-Za-zÀ-ÿ ]/g, "").split(" ").filter(Boolean).slice(0, 3).map((w) => w[0]).join("").toUpperCase();
 
   function crest(id, cls = "crest") {
+    if (nations) return flag(id);
     const club = clubs[id];
     const badge = () => {
       const b = el("span", `crest-badge ${cls}`, initials(club?.name ?? id));
@@ -42,6 +45,14 @@ window.Football = function (data) {
   function svgCrest(g, id, size) {
     const club = clubs[id];
     g.selectAll("*").remove();
+    if (nations) {
+      const fg = g.append("g").attr("transform", `translate(${-size / 2},${-size * 0.375})`);
+      fg.append("rect").attr("width", size).attr("height", size * 0.75).attr("rx", 2).attr("fill", "var(--wash)").attr("stroke", "var(--border)");
+      const iso = countries[id]?.flag;
+      if (iso) fg.append("image").attr("href", `https://flagcdn.com/${iso}.svg`).attr("width", size).attr("height", size * 0.75).attr("preserveAspectRatio", "xMidYMid slice");
+      else fg.append("text").attr("class", "badge-text").attr("x", size / 2).attr("y", size * 0.375).attr("dy", "0.35em").attr("text-anchor", "middle").text(id);
+      return;
+    }
     const badge = () => {
       g.selectAll("*").remove();
       g.append("circle").attr("r", size / 2 - 1).attr("class", "badge-circle");
@@ -87,7 +98,7 @@ window.Football = function (data) {
 
   function clubLabel(id, withFlag = false) {
     const span = el("span", "club");
-    if (withFlag) span.append(flag(clubs[id]?.country));
+    if (withFlag && !nations) span.append(flag(clubs[id]?.country));
     span.append(crest(id), document.createTextNode(clubName(id)));
     return span;
   }
@@ -245,8 +256,8 @@ window.Football = function (data) {
         (enter) => {
           const g = enter.append("g").attr("class", "row").attr("opacity", 0).attr("transform", `translate(${margin.left},${yPos(TOP)})`);
           g.append("path").attr("class", "mark").attr("fill", (d) => opts.colorOf(d.id)).property("_w", 0);
-          g.append("text").attr("class", "label-name").attr("x", -34).attr("y", barH / 2).attr("dy", "0.35em").attr("text-anchor", "end");
-          g.append("g").attr("transform", `translate(-28,${(barH - 15) / 2})`).each(function (d) { svgFlag(d3.select(this), clubs[d.id]?.country); });
+          g.append("text").attr("class", "label-name").attr("x", nations ? -10 : -34).attr("y", barH / 2).attr("dy", "0.35em").attr("text-anchor", "end");
+          if (!nations) g.append("g").attr("transform", `translate(-28,${(barH - 15) / 2})`).each(function (d) { svgFlag(d3.select(this), clubs[d.id]?.country); });
           g.append("g").attr("class", "crest-slot").each(function (d) { svgCrest(d3.select(this), d.id, crestSize); })
             .attr("transform", `translate(${crestSize / 2 + 4},${barH / 2})`);
           g.append("text").attr("class", "label-value").attr("y", barH / 2).attr("dy", "0.35em").property("_v", 0);

@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FIFA World Cup · Football</title>
+  <meta name="description" content="Every FIFA World Cup since 1930: champions and runners-up, hosts, the all-time points table, top scorers, most appearances, repeated finals, and goals, teams and matches per tournament.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/world-cup.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Football</p>
+    <h1>FIFA World Cup</h1>
+    <p class="lede">
+      Every men's World Cup from Uruguay 1930 to the first 48-team tournament in 2026: who won, who hosted, who scored, and how the tournament grew.
+      Also see the <a href="../world-club-champions/">World Club Champions</a>.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most World Cups</h2>
+        <p>Titles, finals or top-four finishes by national team, tournament by tournament.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Measure" id="race-metric"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Tournament">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="champions">
+      <div class="block-head">
+        <h2>Champions, runners-up and the podium</h2>
+        <p>Every team that has finished in the top four, or every final one by one.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="View" id="champions-tabs"></div>
+        </div>
+        <div class="data-table tall" id="champions-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="confederations">
+      <div class="block-head">
+        <h2>By continent</h2>
+        <p>Titles and finals lost by confederation. Only Europe and South America have won the World Cup.</p>
+      </div>
+      <div class="card">
+        <div class="versus" id="versus"></div>
+        <div id="confederations-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="hosts">
+      <div class="block-head">
+        <h2>Hosts</h2>
+        <p>Who hosted each tournament and how far the hosts went.</p>
+      </div>
+      <div class="card">
+        <p class="country-note" id="hosts-note"></p>
+        <div class="host-summary" id="hosts-summary"></div>
+        <div class="data-table tall" id="hosts-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="rivalries">
+      <div class="block-head">
+        <h2>The most repeated finals</h2>
+        <p>Matchups that met more than once in a World Cup final.</p>
+      </div>
+      <div class="card">
+        <div class="pair-list" id="pairs-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="tournaments">
+      <div class="block-head">
+        <h2>How the tournament grew</h2>
+        <p>Teams, matches, goals and attendance at every World Cup.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Measure" id="growth-tabs"></div>
+        </div>
+        <div id="growth-chart" class="chart"></div>
+        <details class="table-view" open>
+          <summary>View data table</summary>
+          <div id="growth-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="points">
+      <div class="block-head">
+        <h2>All-time points table</h2>
+        <p>Every national team's accumulated World Cup record.</p>
+      </div>
+      <div class="card">
+        <p class="country-note" id="points-note"></p>
+        <div class="data-table tall" id="points-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="appearances">
+      <div class="block-head">
+        <h2>Most appearances by national team</h2>
+        <p>Tournaments played, debut and best result. Brazil has played every edition.</p>
+      </div>
+      <div class="card">
+        <div id="appearances-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="appearances-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="players">
+      <div class="block-head">
+        <h2>Player records</h2>
+        <p>All-time top scorers, most matches played and most tournaments.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Record" id="players-tabs"></div>
+        </div>
+        <div class="data-table tall" id="players-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="awards">
+      <div class="block-head">
+        <h2>Top scorers and best players by tournament</h2>
+        <p>The tournament's top scorer (Golden Boot), best player (Golden Ball, from 1982) and the winning coach.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="awards-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> Wikipedia's <span id="sources"></span> (CC BY-SA 4.0). Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> No World Cup was held in 1942 or 1946. The 1950 title was decided in a final round, not a single final; its decisive match is shown.
+      West Germany (1954–1990) is listed as in FIFA's records; the all-time table merges it with Germany. “a.e.t.” means after extra time and “pens” a penalty shoot-out.
+      Flags by <a href="https://flagpedia.net">Flagpedia</a>. This project is not affiliated with FIFA.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

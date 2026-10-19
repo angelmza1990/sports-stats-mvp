@@ -102,8 +102,9 @@
   /* ---------- All-time points table ---------- */
 
   (function pointsTable() {
-    const rows = data.alltime.slice().sort((a, b) => b.pts - a.pts || (b.gf - b.ga) - (a.gf - a.ga)).slice(0, 30);
-    document.getElementById("points-note").textContent = `${data.meta.pointsRule}. Top ${rows.length} clubs.`;
+    const rows = data.alltime.slice().sort((a, b) => b.pts - a.pts || (b.gf - b.ga) - (a.gf - a.ga));
+    document.getElementById("points-note").textContent =
+      `${data.meta.pointsRule}. ${rows.length} clubs${rows.length <= 25 ? " (the published top 25)" : ", every club that has taken part"}.`;
     const sign = (n) => (n > 0 ? `+${n}` : String(n));
     F.richTable(document.getElementById("points-table"), [
       { label: "#", cls: "num rank", render: (r) => String(rows.indexOf(r) + 1) },

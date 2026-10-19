@@ -415,3 +415,27 @@ svg .badge-text {
   margin: 4px 0 0;
   color: var(--ink-2);
 }
+
+/* World Cup hosts */
+
+.host-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 16px;
+}
+
+.host-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 13px;
+  color: var(--ink-2);
+}
+
+.host-chip strong {
+  color: var(--ink);
+}
