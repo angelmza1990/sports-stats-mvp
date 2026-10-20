@@ -43,6 +43,7 @@
   --volleyball: #c79300;
   --hockey: #1d8c84;
   --motorsport: #d42020;
+  --boxing: #b91c1c;
 
   /* Medal colors */
   --gold: #c9971a;
@@ -79,6 +80,7 @@
     --volleyball: #e8b923;
     --hockey: #34b3a9;
     --motorsport: #f05252;
+    --boxing: #ef4444;
     --gold: #d6a730;
     --silver: #a9aeb5;
     --bronze: #c07a45;
@@ -113,6 +115,7 @@
   --volleyball: #e8b923;
   --hockey: #34b3a9;
   --motorsport: #f05252;
+  --boxing: #ef4444;
   --gold: #d6a730;
   --silver: #a9aeb5;
   --bronze: #c07a45;
@@ -128,6 +131,7 @@
 [data-sport="volleyball"] { --sport: var(--volleyball); }
 [data-sport="hockey"] { --sport: var(--hockey); }
 [data-sport="motorsport"] { --sport: var(--motorsport); }
+[data-sport="boxing"] { --sport: var(--boxing); }
 
 *,
 *::before,

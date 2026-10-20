@@ -23,7 +23,10 @@
       ["football/premier-league/", "England"], ["football/ligue-1/", "Ligue 1"], ["football/bundesliga/", "Germany"],
       ["football/brasileirao/", "Brasileirão"],
     ] },
-    { sport: "olympics", label: "Olympics", pages: [["olympics/", "Olympic Games"], ["swimming/olympics/", "Swimming"]] },
+    { sport: "olympics", label: "Olympics", pages: [
+      ["olympics/", "Olympic Games"], ["swimming/olympics/", "Swimming"], ["tennis/olympics/", "Tennis"],
+      ["football/olympics/", "Football"], ["boxing/olympics/", "Boxing"],
+    ] },
     { sport: "basketball", label: "Basketball", pages: [["basketball/nba-rings/", "NBA Rings"], ["basketball/international/", "World Cup & Olympics"]] },
     { sport: "team", label: "Team sports", pages: [
       ["handball/international/", "Handball"], ["rugby/international/", "Rugby"], ["volleyball/international/", "Volleyball"],
@@ -35,7 +38,8 @@
   const here = location.href.startsWith(SITE.href) ? location.href.slice(SITE.href.length).replace(/index\.html$/, "").split(/[?#]/)[0] : "";
   const folder = here.split("/")[0];
   if (folder) root.dataset.sport = folder;
-  const active = MAP.find((g) => g.pages.some(([p]) => here.startsWith(p) && p.length > 1)) ?? null;
+  // The menu group holding this page (Olympic tennis sits under Olympics, not Tennis).
+  const active = MAP.find((g) => g.pages.some(([p]) => here === p)) ?? MAP.find((g) => g.pages.some(([p]) => here.startsWith(p))) ?? null;
 
   function current() {
     if (root.dataset.theme) return root.dataset.theme;

@@ -66,8 +66,8 @@
     <h1>Sports<br>Stats</h1>
     <p class="lede">Interactive infographics on the numbers behind sport's great champions and rivalries, built with D3 and open data and updated twice a year.</p>
     <dl class="home-figures">
-      <div><dt>Infographics</dt><dd>28</dd></div>
-      <div><dt>Sports</dt><dd>10</dd></div>
+      <div><dt>Infographics</dt><dd>31</dd></div>
+      <div><dt>Sports</dt><dd>11</dd></div>
       <div><dt>Seasons covered</dt><dd>1888–2026</dd></div>
     </dl>
     <nav class="jump" aria-label="Sports">
@@ -383,8 +383,8 @@
     <section class="sport" data-sport="olympics" id="olympics">
       <div class="sport-head">
         <h2>Olympics</h2>
-        <p>Every Summer and Winter Games since 1896.</p>
-        <span class="count">2 pages</span>
+        <p>Every Summer and Winter Games since 1896, and the Olympic history of swimming, tennis, football and boxing.</p>
+        <span class="count">5 pages</span>
       </div>
       <div class="gallery">
         <a class="tile" href="olympics/">
@@ -418,6 +418,50 @@
           <div class="body">
             <h3>Olympic Swimming</h3>
             <p>Every Olympic swimming medal since 1896, men's and women's: the gold medal race, the medal table by stroke, the most decorated swimmers and the podium of every event.</p>
+          </div>
+        </a>
+        <a class="tile" href="tennis/olympics/">
+          <div class="art" style="--tint: linear-gradient(135deg, #1f6f43, #0a7bc2)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="56" r="34" fill="#d8e94a"/>
+              <path d="M34 34c14 10 14 34 0 44M86 34c-14 10-14 34 0 44" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+              <circle cx="96" cy="96" r="12" fill="#f4c542"/>
+            </svg>
+            <div class="stat" data-stat="olyTennis"><strong>10</strong><span>Great Britain golds</span></div>
+          </div>
+          <div class="body">
+            <h3>Olympic Tennis</h3>
+            <p>Every Olympic tennis medal, 1896–1924 and since 1988: singles, doubles and mixed, the medal table by event and the podium of every event.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/olympics/">
+          <div class="art" style="--tint: linear-gradient(135deg, #1e4fa3, #0a7bc2)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="56" cy="56" r="36" fill="#fff" stroke="#13324f" stroke-width="3"/>
+              <path d="M56 36l14 10-5 16H47l-5-16Z" fill="#13324f"/>
+              <path d="M56 36V20M70 46l19-6M65 62l12 16M47 62L35 78M42 46l-19-6" stroke="#13324f" stroke-width="3"/>
+              <circle cx="96" cy="96" r="12" fill="#f4c542"/>
+            </svg>
+            <div class="stat" data-stat="olyFootball"><strong>3</strong><span>Great Britain gold medals</span></div>
+          </div>
+          <div class="body">
+            <h3>Olympic Football</h3>
+            <p>Every Olympic football tournament, men's since 1900 and women's since 1996: gold medallists, podiums, hosts and repeated finals.</p>
+          </div>
+        </a>
+        <a class="tile" href="boxing/olympics/">
+          <div class="art" style="--tint: linear-gradient(135deg, #7f1d1d, #b91c1c)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <path d="M30 46c0-14 10-22 26-22h10c14 0 22 10 22 24v14c0 10-8 18-18 18H50c-12 0-20-8-20-18Z" fill="#f4f4f4"/>
+              <path d="M40 80h40v14a6 6 0 0 1-6 6H46a6 6 0 0 1-6-6Z" fill="#e5e5e5"/>
+              <path d="M58 32c-10 0-16 6-16 14" fill="none" stroke="#b91c1c" stroke-width="4" stroke-linecap="round"/>
+              <circle cx="96" cy="96" r="12" fill="#f4c542"/>
+            </svg>
+            <div class="stat" data-stat="olyBoxing"><strong>50</strong><span>United States golds</span></div>
+          </div>
+          <div class="body">
+            <h3>Olympic Boxing</h3>
+            <p>Every Olympic boxing medal since 1904, men's and women's: the medal table by weight class, the most decorated boxers and every podium.</p>
           </div>
         </a>
       </div>
@@ -635,6 +679,22 @@
           return [String(n), `${d.teams[code].name} Olympic golds`];
         }],
         olympics: ["olympics/data/olympics.json", (d) => [String(d.games.length), "Games since 1896"]],
+        olyTennis: ["tennis/olympics/data/tennis-olympics.json", (d) => ((d, label) => {
+          const n = new Map();
+          d.events.forEach((e) => e.results.forEach((r) => r.gold.forEach((g) => { const c = g.team ?? g.athletes[0].nation; n.set(c, (n.get(c) || 0) + 1); })));
+          const [code, v] = [...n].sort((a, b) => b[1] - a[1])[0];
+          return [String(v), `${d.nations[code].name} ${label}`];
+        })(d, "golds")],
+        olyBoxing: ["boxing/olympics/data/boxing-olympics.json", (d) => ((d, label) => {
+          const n = new Map();
+          d.events.forEach((e) => e.results.forEach((r) => r.gold.forEach((g) => { const c = g.team ?? g.athletes[0].nation; n.set(c, (n.get(c) || 0) + 1); })));
+          const [code, v] = [...n].sort((a, b) => b[1] - a[1])[0];
+          return [String(v), `${d.nations[code].name} ${label}`];
+        })(d, "golds")],
+        olyFootball: ["football/olympics/data/football-olympics-men.json", (d) => {
+          const [code, n] = most(d.editions, (e) => e.champion);
+          return [String(n), `${d.teams[code].name} gold medals`];
+        }],
         swimming: ["swimming/olympics/data/swimming-olympics.json", (d) => {
           const s = d.swimmers.slice().sort((a, b) => b.gold - a.gold)[0];
           return [String(s.gold), `${s.name.split(" ").slice(-1)[0]} gold medals`];
