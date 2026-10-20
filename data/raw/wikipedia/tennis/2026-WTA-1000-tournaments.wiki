@@ -1,0 +1,313 @@
+{{Short description|Women's professional tennis tour}}
+{{further|2026 WTA Tour}}
+{{Infobox tennis circuit season
+| name          = 2026 WTA 1000
+| duration      = February 8 – October 18
+| edition       = 37th
+| tournaments   = 10
+| most_tournament_titles = {{flagicon|}} [[Aryna Sabalenka]] (2)
+| most_tournament_finals = {{flagicon|USA}} [[Coco Gauff]] (3)
+| previous = [[2025 WTA 1000 tournaments|2025]]
+| next = [[2027 WTA 1000 tournaments|2027]]
+}}
+
+The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[tennis]] organized by the [[Women's Tennis Association|WTA]] called the [[WTA Tour]].<ref>{{cite web |title=Tournament Calendar |url=https://www.wtatennis.com/tournaments?level=WTA+1000&status=all |access-date=15 February 2026 |publisher=Women's Tennis Association}}</ref> The tier consists of ten mandatory events.
+
+{{Toc limit|3}}
+
+==Tournaments==
+{| class="wikitable plainrowheaders nowrap"
+|-
+! scope="col" |Tournament
+! scope="col" |Location
+! scope="col" |Surface
+! scope="col" |Date
+! scope="col" |Prize money
+|-
+! scope="row"|[[WTA Qatar Open|Qatar Open]]
+|[[Doha]], Qatar
+|style="text-align:center"|Hard
+|Feb 8 – 14
+|style="text-align:center"|$4,088,211
+|-
+! scope="row"|[[Dubai Tennis Championships]]
+|[[Dubai]], United Arab Emirates
+|style="text-align:center"|Hard
+|Feb 15 – 21
+|style="text-align:center"|$4,088,211
+|-
+! scope="row"|[[Indian Wells Open]]
+|[[Indian Wells, California|Indian Wells]], United States
+|style="text-align:center"|Hard
+|Mar 4 – 15
+|style="text-align:center"|$9,415,725
+|-
+! scope="row"|[[Miami Open (tennis)|Miami Open]]
+|[[Miami]], United States
+|style="text-align:center"|Hard
+|Mar 17 – 29
+|style="text-align:center"|$9,415,725
+|-
+! scope="row"|[[Madrid Open (tennis)|Madrid Open]]
+|[[Madrid]], Spain
+|style="text-align:center"|Clay (red)
+|Apr 21 – May 3
+|style="text-align:center"|$8,235,540
+|-
+! scope="row"|[[Italian Open (tennis)|Italian Open]]
+|[[Rome]], Italy
+|style="text-align:center"|Clay (red)
+|May 5 – 17
+|style="text-align:center"|$8,312,293
+|-
+! scope="row"|[[Canadian Open (tennis)|Canadian Open]]
+|[[Toronto]], Canada
+|style="text-align:center"|Hard
+|Aug 2 – 13
+|style="text-align:center"|$7,433,076
+|-
+! scope="row"|[[Cincinnati Open]]
+|[[Cincinnati]], United States
+|style="text-align:center"|Hard
+|Aug 13 – 24
+|style="text-align:center"|$7,433,076
+|-
+! scope="row"|[[China Open (tennis)|China Open]]
+|[[Beijing]], China
+|style="text-align:center"|Hard
+|Sep 30 – Oct 11
+|style="text-align:center"|$9,415,725
+|-
+! scope="row"|[[Wuhan Open]]
+|[[Wuhan]], China
+|style="text-align:center"|Hard
+|Oct 12 – 18
+|style="text-align:center"|$4,088,211
+|}
+
+== Results ==
+<noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
+
+{| class="wikitable plainrowheaders"
+|-
+! scope="col" style="min-width:7em"| Tournament
+! scope="col"| Singles champions
+! scope="col"| Runners-up
+! scope="col"| Score
+! scope="col"| Doubles champions
+! scope="col"| Runners-up
+! scope="col"| Score
+|-
+!rowspan="2" scope="row"| '''[[2026 Qatar TotalEnergies Open|Qatar Open]]''' <br /> {{small|[[2026 Qatar TotalEnergies Open – Singles|Singles]] – [[2026 Qatar TotalEnergies Open – Doubles|Doubles]]}}
+|rowspan="2" style="background:#ddfddd;"|{{#invoke:flag|icon|CZE}} [[Karolína Muchová]]*
+|rowspan="2"|{{#invoke:flag|icon|CAN}} [[Victoria Mboko]]
+|rowspan="2"|6–4, 7–5
+|{{#invoke:flag|icon|KAZ}} [[Anna Danilina]]
+|rowspan="2"|{{#invoke:flag|icon|TPE}} [[Hsieh Su-wei]] <br /> {{#invoke:flag|icon|LAT}} [[Jeļena Ostapenko]]
+|rowspan="2"|0–6, 7–6<sup>(7–3)</sup>, [10–8]
+|-
+|style="background:#ddfddd;"|{{#invoke:flag|icon|SRB}} [[Aleksandra Krunić]]*
+|-
+! scope="row"| '''[[2026 Dubai Tennis Championships|Dubai Championships]]''' <br /> {{small|[[2026 Dubai Tennis Championships – Women's singles|Singles]] – [[2026 Dubai Tennis Championships – Women's doubles|Doubles]]}}
+|{{#invoke:flag|icon|USA}} [[Jessica Pegula]]
+|{{#invoke:flag|icon|UKR}} [[Elina Svitolina]]
+|6–2, 6–4
+|{{#invoke:flag|icon|CAN}} [[Gabriela Dabrowski]] <br /> {{#invoke:flag|icon|BRA}} [[Luisa Stefani]]
+|{{#invoke:flag|icon|GER}} [[Laura Siegemund]] <br /> {{flagicon|}} [[Vera Zvonareva]]
+|6–1, 6–3
+|-
+! scope="row"| '''[[2026 BNP Paribas Open|Indian Wells Open]]''' <br /> {{small|[[2026 BNP Paribas Open – Women's singles|Singles]] – [[2026 BNP Paribas Open – Women's doubles|Doubles]]}}
+|{{flagicon|}} [[Aryna Sabalenka]]
+|{{#invoke:flag|icon|KAZ}} [[Elena Rybakina]]
+|3–6, 6–3, 7–6<sup>(8–6)</sup>
+|{{#invoke:flag|icon|CZE}} [[Kateřina Siniaková]] <br /> {{#invoke:flag|icon|USA}} [[Taylor Townsend]]
+|{{#invoke:flag|icon|KAZ}} [[Anna Danilina]] <br /> {{#invoke:flag|icon|SRB}} [[Aleksandra Krunić]]
+|7–6<sup>(7–4)</sup>, 6–4
+|-
+! scope="row"| '''[[2026 Miami Open|Miami Open]]''' <br /> {{small|[[2026 Miami Open – Women's singles|Singles]] – [[2026 Miami Open – Women's doubles|Doubles]]}}
+|{{flagicon|}} Aryna Sabalenka
+|{{#invoke:flag|icon|USA}} [[Coco Gauff]]
+|6–2, 4–6, 6–3
+|{{#invoke:flag|icon|CZE}} Kateřina Siniaková <br /> {{#invoke:flag|icon|USA}} Taylor Townsend
+|{{#invoke:flag|icon|ITA}} [[Sara Errani]] <br /> {{#invoke:flag|icon|ITA}} [[Jasmine Paolini]]
+|7–6<sup>(7–0)</sup>, 6–1
+|-
+! scope="row"| '''[[2026 Mutua Madrid Open|Madrid Open]]''' <br /> {{small|[[2026 Mutua Madrid Open – Women's singles|Singles]] – [[2026 Mutua Madrid Open – Women's doubles|Doubles]]}}
+|style="background:#ddfddd;"|{{#invoke:flag|icon|UKR}} [[Marta Kostyuk]]*
+|{{flagicon|}} [[Mirra Andreeva]]
+|6–3, 7–5
+|{{#invoke:flag|icon|CZE}} Kateřina Siniaková <br /> {{#invoke:flag|icon|USA}} Taylor Townsend
+|{{flagicon|}} Mirra Andreeva <br /> {{flagicon|}} [[Diana Shnaider]]
+|7–6<sup>(7–2)</sup>, 6–2
+|-
+! scope="row"| '''[[2026 Italian Open|Italian Open]]''' <br /> {{small|[[2026 Italian Open – Women's singles|Singles]] – [[2026 Italian Open – Women's doubles|Doubles]]}}
+|{{#invoke:flag|icon|UKR}} Elina Svitolina
+|{{#invoke:flag|icon|USA}} Coco Gauff
+|6–4, 6–7<sup>(3–7)</sup>, 6–2
+|{{flagicon|}} Mirra Andreeva <br /> {{flagicon|}} [[Diana Shnaider]]
+|{{#invoke:flag|icon|ESP}} [[Cristina Bucșa]] <br /> {{#invoke:flag|icon|USA}} [[Nicole Melichar-Martinez]]
+|6–3, 6–3
+|-
+! scope="row"| '''[[2026 National Bank Open|Canadian Open]]''' <br /> {{small|[[2026 National Bank Open – Women's singles|Singles]] – [[2026 National Bank Open – Women's doubles|Doubles]]}}
+|{{#invoke:flag|icon|POL}} [[Iga Świątek]]
+|{{#invoke:flag|icon|KAZ}} Elena Rybakina
+|6–2, 6–3
+|{{#invoke:flag|icon|CZE}} Kateřina Siniaková <br /> {{#invoke:flag|icon|CHN}} [[Zhang Shuai]]
+|{{#invoke:flag|icon|ITA}} Sara Errani <br /> {{#invoke:flag|icon|USA}} Nicole Melichar-Martinez
+|6–3, 6–4
+|-
+!rowspan="2" scope="row"| '''[[2026 Cincinnati Open|Cincinnati Open]]''' <br /> {{small|[[2026 Cincinnati Open – Women's singles|Singles]] – [[2026 Cincinnati Open – Women's doubles|Doubles]]}}
+|rowspan="2"|{{#invoke:flag|icon|USA}} Coco Gauff
+|rowspan="2"|{{#invoke:flag|icon|USA}} Jessica Pegula
+|rowspan="2"|6–2, 6–4
+|{{#invoke:flag|icon|CZE}} [[Marie Bouzková]]
+|rowspan="2"|{{#invoke:flag|icon|BEL}} [[Magali Kempen]] <br /> {{flagicon|}} [[Alexandra Panova]]
+|rowspan="2"|6–1, 6–2
+|-
+|style="background:#ddfddd;"|{{#invoke:flag|icon|CZE}} [[Linda Nosková]]*
+|-
+! scope="row"| '''[[2026 China Open (tennis)|China Open]]''' <br /> {{small|[[2026 China Open – Women's singles|Singles]] – [[2026 China Open – Women's doubles|Doubles]]}}
+|style="background:#ddfddd;"|{{#invoke:flag|icon|CHN}} [[Zheng Qinwen]]*
+|{{flagicon|}} Mirra Andreeva
+|7–5, 6–4
+|{{#invoke:flag|icon|CAN}} Gabriela Dabrowski <br /> {{#invoke:flag|icon|BRA}} Luisa Stefani
+|{{#invoke:flag|icon|CZE}} Kateřina Siniaková <br /> {{#invoke:flag|icon|CHN}} Zhang Shuai
+|6–1, 6–2
+|-
+! scope="row"| '''[[2026 Wuhan Open|Wuhan Open]]''' <br /> {{small|[[2026 Wuhan Open – Singles|Singles]] – [[2026 Wuhan Open – Doubles|Doubles]]}}
+|style="background:#ddfddd;"|{{#invoke:flag|icon|POL}} [[Maja Chwalińska]]*
+|{{flagicon|GBR}} [[Sonay Kartal]]
+|2–6, 6–4, 6–2
+|{{#invoke:flag|icon|CAN}} Gabriela Dabrowski <br /> {{#invoke:flag|icon|BRA}} Luisa Stefani
+|{{#invoke:flag|icon|CZE}} Kateřina Siniaková <br /> {{#invoke:flag|icon|AUS}} [[Storm Hunter]]
+|7–5, 6–4
+|}
+
+== Tournament details ==
+'''Key'''
+{{div col|colwidth=25em}}
+* Q = [[Glossary of tennis terms#Qualifier|Qualifier]]
+* WC = [[Glossary of tennis terms#Wild Card|Wild card]]
+* LL = [[Glossary of tennis terms#Lucky Loser|Lucky loser]]
+* Alt = [[Glossary of tennis terms#Alternate|Alternate]]
+* ITF = [[Glossary of tennis terms#ITF|ITF entry]]
+* PR = [[Glossary of tennis terms#Protected Ranking|Protected ranking]]
+* SR = [[Glossary of tennis terms#Special ranking|Special ranking]]
+* SE = [[Glossary of tennis terms#Special Exempt|Special exempt]]
+* JE = [[Glossary of tennis terms#Junior exempt|Junior exempt]]
+* JR = [[Glossary of tennis terms#Junior ranking|Junior Accelerator Programme entrant]]
+* CO = College Accelerator Programme entrant
+* NG = [[Next Gen ATP Finals#History|Next Gen Accelerator Program entrant]]
+* w/o = [[Glossary of tennis terms#Walkover|Walkover]]
+* r = [[Glossary of tennis terms#Retirement|Retired]]
+* d = [[Glossary of tennis terms#Default|Defaulted]]
+{{div col end}}
+
+=== Qatar Open ===
+==== Singles ====
+{{Main if exists|2026 Qatar TotalEnergies Open – Singles}}
+{{#section-h:2026 Qatar TotalEnergies Open – Singles|Finals}}
+
+==== Doubles ====
+{{Main if exists|2026 Qatar TotalEnergies Open – Doubles}}
+{{#section-h:2026 Qatar TotalEnergies Open – Doubles|Finals}}
+
+=== Dubai Championships ===
+==== Singles ====
+{{Main if exists|2026 Dubai Tennis Championships – Women's singles}}
+{{#section-h:2026 Dubai Tennis Championships – Women's singles|Finals}}
+
+==== Doubles ====
+{{Main if exists|2026 Dubai Tennis Championships – Women's doubles}}
+{{#section-h:2026 Dubai Tennis Championships – Women's doubles|Finals}}
+
+=== Indian Wells Open ===
+==== Singles ====
+{{Main if exists|2026 BNP Paribas Open – Women's singles}}
+{{#section-h:2026 BNP Paribas Open – Women's singles|Finals}}
+
+==== Doubles ====
+{{Main if exists|2026 BNP Paribas Open – Women's doubles}}
+{{#section-h:2026 BNP Paribas Open – Women's doubles|Finals}}
+
+=== Miami Open ===
+==== Singles ====
+{{Main if exists|2026 Miami Open – Women's singles}}
+{{#section-h:2026 Miami Open – Women's singles|Finals}}
+
+==== Doubles ====
+{{Main if exists|2026 Miami Open – Women's doubles}}
+{{#section-h:2026 Miami Open – Women's doubles|Finals}}
+
+=== Madrid Open ===
+==== Singles ====
+{{Main if exists|2026 Mutua Madrid Open – Women's singles}}
+{{#section-h:2026 Mutua Madrid Open – Women's singles|Finals}}
+
+==== Doubles ====
+{{Main if exists|2026 Mutua Madrid Open – Women's doubles}}
+{{#section-h:2026 Mutua Madrid Open – Women's doubles|Finals}}
+
+=== Italian Open ===
+==== Singles ====
+{{Main if exists|2026 Italian Open – Women's singles}}
+{{#section-h:2026 Italian Open – Women's singles|Finals}}
+
+==== Doubles ====
+{{Main if exists|2026 Italian Open – Women's doubles}}
+{{#section-h:2026 Italian Open – Women's doubles|Finals}}
+
+=== Canadian Open ===
+==== Singles ====
+{{Main if exists|2026 National Bank Open – Women's singles}}
+{{#section-h:2026 National Bank Open – Women's singles|Finals}}
+
+==== Doubles ====
+{{Main if exists|2026 National Bank Open – Women's doubles}}
+{{#section-h:2026 National Bank Open – Women's doubles|Finals}}
+
+=== Cincinnati Open ===
+==== Singles ====
+{{Main if exists|2026 Cincinnati Open – Women's singles}}
+{{#section-h:2026 Cincinnati  Open – Women's singles|Finals}}
+
+==== Doubles ====
+{{Main if exists|2026 Cincinnati  Open – Women's doubles}}
+{{#section-h:2026 Cincinnati  Open – Women's doubles|Finals}}
+
+=== China Open ===
+==== Singles ====
+{{Main if exists|2026 China Open – Women's singles}}
+{{#section-h:2026 China Open – Women's singles|Finals}}
+
+==== Doubles ====
+{{Main if exists|2026 China Open – Women's doubles}}
+{{#section-h:2026 China Open – Women's doubles|Finals}}
+
+=== Wuhan Open ===
+==== Singles ====
+{{Main if exists|2026 Wuhan Open – Singles}}
+{{#section-h:2026 Wuhan Open – Singles|Finals}}
+
+==== Doubles ====
+{{Main if exists|2026 Wuhan Open – Doubles}}
+{{#section-h:2026 Wuhan Open – Doubles|Finals}}
+
+== See also ==
+* [[WTA 1000 tournaments]]
+* [[2026 WTA Tour]]
+* [[2026 ATP Masters 1000 tournaments]]
+* [[2026 ATP Tour]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.wtatennis.com/ Women's Tennis Association (WTA) official website]
+* [http://www.itftennis.com/ International Tennis Federation (ITF) official website]
+
+{{WTA 1000 tournaments}}
+{{2026 WTA Tour}}
+{{DEFAULTSORT:2026 WTA 1000 tournaments}}
+[[Category:WTA 1000 tournaments seasons]]
+[[Category:2026 WTA Tour]]

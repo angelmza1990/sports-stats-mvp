@@ -59,7 +59,7 @@
     };
     if (!iso) return fallback();
     const img = el("img", "flag");
-    img.src = `https://flagcdn.com/${iso}.svg`;
+    img.src = Viz.flagUrl(iso);
     img.alt = countryName(ioc);
     img.title = countryName(ioc);
     img.loading = "lazy";
@@ -72,7 +72,7 @@
     g.selectAll("*").remove();
     g.append("rect").attr("width", 20).attr("height", 15).attr("rx", 2).attr("fill", "var(--wash)").attr("stroke", "var(--border)");
     if (iso) {
-      g.append("image").attr("href", `https://flagcdn.com/${iso}.svg`).attr("width", 20).attr("height", 15).attr("preserveAspectRatio", "xMidYMid slice");
+      g.append("image").attr("href", Viz.flagUrl(iso)).attr("width", 20).attr("height", 15).attr("preserveAspectRatio", "xMidYMid slice");
     } else {
       g.append("text").attr("x", 10).attr("y", 7.5).attr("dy", "0.35em").attr("text-anchor", "middle").attr("class", "badge-text").attr("font-size", 7).text(ioc);
     }

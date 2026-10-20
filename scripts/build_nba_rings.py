@@ -15,6 +15,7 @@ import argparse
 import json
 import re
 import sys
+import urllib.error
 import urllib.request
 from collections import Counter
 from datetime import date
@@ -49,8 +50,15 @@ def fetch(refresh: bool) -> str:
         print("downloading Wikipedia page...", file=sys.stderr)
         RAW.parent.mkdir(parents=True, exist_ok=True)
         req = urllib.request.Request(API, headers={"User-Agent": USER_AGENT})
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            RAW.write_bytes(resp.read())
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                body = resp.read()
+            RAW.write_bytes(body)
+        except (urllib.error.URLError, TimeoutError, OSError) as err:
+            if not RAW.exists():
+                raise
+            # The saved snapshot (data/raw/, kept in the repo) stands in when the page can't be fetched.
+            print(f"warning: could not download the page ({err}); using the saved copy", file=sys.stderr)
     return json.loads(RAW.read_text(encoding="utf-8"))["parse"]["wikitext"]
 
 

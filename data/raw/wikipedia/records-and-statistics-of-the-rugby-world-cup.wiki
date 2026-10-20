@@ -1,0 +1,1746 @@
+{{Short description|none}}
+{{Use dmy dates|date=April 2025}}
+<!-- This short description is INTENTIONALLY "none" - please see WP:SDNONE before you consider changing it! -->
+{{List dispute|Removal of head-to-head stats}}
+{{main|Rugby World Cup}}'''Rugby World Cup records''' have been accumulating since the first [[Rugby World Cup]] tournament was held in 1987.
+
+==Team records==
+
+=== Titles ===
+{| class="wikitable"
+|+Most titles won 
+|-
+! Titles  !! Team !! Tournaments
+|-
+! 4
+| {{ru|RSA}} ||align=center| [[1995 Rugby World Cup|1995]], [[2007 Rugby World Cup|2007]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|-
+! 3
+| {{ru|NZL}} ||align=center| [[1987 Rugby World Cup|1987]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]]
+|-
+! 2 
+| {{ru|AUS}} ||align=center| [[1991 Rugby World Cup|1991]], [[1999 Rugby World Cup|1999]]
+|-
+! 1 
+| {{ru|ENG}} ||align=center| [[2003 Rugby World Cup|2003]]
+|}
+
+=== Title win rate ===
+
+<!--
+This section uses the rounded calculation template:
+{{rndcalc|WINS/WORLD CUPS ENTERED*100|DECIMAL PLACES}}
+-->
+{| class="wikitable"
+|+ Win rate 
+|-
+! Win rate !! Team 
+|-
+! {{rndcalc|4/8*100|0}}% <!-- South Africa has entered eight, not ten, World Cups --> 
+| {{ru|RSA}} 
+|-
+! {{rndcalc|3/10*100|0}}% 
+| {{ru|NZL}} 
+|-
+! {{rndcalc|2/10*100|0}}%
+| {{ru|AUS}} 
+|-
+! {{rndcalc|1/10*100|0}}% 
+| {{ru|ENG}} 
+|}
+
+=== Most semi-finals ===
+{| class="wikitable"
+|+Most semi-finals 
+|-
+! {{tooltip|App|Appearances}} !! Team !! Tournaments
+|-
+! 9
+|{{ru|NZL}} ||align=center| [[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|-
+!rowspan="4"| 6
+|{{ru|AUS}} ||align=center| [[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]]
+|-
+|{{ru|ENG}} ||align=center| [[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|-
+|{{ru|FRA}} ||align=center| [[1987 Rugby World Cup|1987]], [[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]]
+|-
+|{{ru|RSA}} ||align=center| [[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2007 Rugby World Cup|2007]], [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|}
+
+=== Most quarter-finals ===
+{| class="wikitable"
+|+Most quarter-finals
+|-
+! {{tooltip|App|Appearances}}!! Team  !! Tournaments
+|-
+!rowspan="2"| 10
+| {{ru|NZL}} ||align=center| [[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|-
+| {{ru|FRA}} ||align=center| [[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|-
+!rowspan="2"| 9
+| {{ru|AUS}} ||align=center| [[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]]
+|-
+| {{ru|ENG}} ||align=center| [[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|-
+!rowspan="2"| 8
+| {{ru|IRE}} ||align=center| [[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]], [[2003 Rugby World Cup|2003]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|-
+|{{ru|RSA}} ||align=center| [[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|}
+
+=== Most appearances ===
+{| class="wikitable"
+|+Most appearances 
+|-
+! {{tooltip|App|Appearances}} !! Team(s)
+|-
+! 10
+|{{ru|ARG}}, {{ru|AUS}}, {{ru|ENG}}, {{ru|FRA}}, {{ru|IRE}}, {{ru|ITA}}, {{ru|JPN}}, {{ru|NZL}}, {{ru|SCO}}, {{ru|WAL}} 
+|-
+! 9
+|{{ru|CAN}}, {{ru|FJI}}, {{ru|ROU}}, {{ru|SAM}}, {{ru|TON}}
+|-
+! 8
+|{{ru|ZAF}}, {{ru|USA}}
+|-
+! 7
+|{{ru|NAM}}
+|-
+! 6
+|{{ru|GEO}}
+|}
+
+*'''10''' teams appeared in every World Cup:
+*{{ru|SAM}}/Western Samoa also qualified for every World Cup but was not invited to the [[1987 Rugby World Cup]]. 
+*{{ru|RSA}} was banned from competing in [[1987 Rugby World Cup|1987]] and [[1991 Rugby World Cup|1991]] due to the [[Sporting boycott of South Africa during the apartheid era|sporting boycott of South Africa]], but appeared in every World Cup since the ban was lifted.
+
+=== Points ===
+
+{| class="wikitable sortable" 
+|+Most overall pool points by a team<ref>{{cite web|url=http://stats.espnscrum.com/statsguru/rugby/stats/index.html?class=1;spanmax1=31+Dec+2019;spanmin1=01+Jan+1987;spanval1=span;template=results;trophy=17;type=team |title=Team Records|publisher=ESPN|access-date=13 November 2019}}</ref>
+|-
+! Pool points !!Team !!Pld !!W !!D !!L !!PF !!PA !!PD !!W% !!TB !!LB 
+|-
+! 238
+| {{Ru|NZL}} || 64 || 54 || 1 || 9 || 2,888 || 842 || +2,046 || {{formatnum: {{Decimals| {{#expr: 54 *100 /64}} |2}} }} || 20 || 0 
+|-
+! 186
+| {{Ru|RSA}} || 50 || 42 || 0 || 8 || 1,720 || 641 || +1,079 || {{formatnum: {{Decimals| {{#expr: 42 *100 /50}} |2}} }} || 16 || 2
+|-
+! 156
+| {{Ru|AUS}} || 57 || 44 || 0 || 13 || 1,887 || 845 || +1,042 || {{formatnum: {{Decimals| {{#expr: 44 *100 /57}} |2}} }} || 15 || 2
+|-
+! 153
+| {{Ru|ENG}} || 58 || 42 || 1 || 15 || 1,790 || 822 || +968 || {{formatnum: {{Decimals| {{#expr: 42 *100 /58}} |2}} }} || 12 || 1
+|-
+! 147 
+| {{Ru|FRA}} || 58 || 40 || 2 || 16 || 1,823 || 1,027 || +796 || {{formatnum: {{Decimals| {{#expr: 40 *100 /58}} |2}} }} || 13 || 3
+|}
+
+<small>'''Last updated: 28 October 2023'''</small>
+
+{| class="wikitable"
+|+Most points by a team in a single match<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/team/most_points_match.html?id=17;type=trophy |title=Most team points in a match |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref> 
+|-
+! Points !!Team !!Opponent !!Score !!Date
+|-
+! 145
+| {{ru|NZL}} || {{ru|JPN}} || 145–17 || 4 June 1995
+|-
+! 142
+| {{ru|AUS}} || {{ru|NAM}} || 142–0 || 24 October 2003
+|-
+! 111
+| {{ru|ENG}} || {{ru|URU}} || 111–13 || 2 November 2003
+|-
+! 108
+| {{ru|NZL}} || {{ru|POR}} || 108–13 || 15 September 2007
+|-
+!rowspan="2"| 101
+| {{ru|NZL}} || {{ru|ITA}} || 101–3 || 14 October 1999
+|-
+| {{ru|ENG}} || {{ru|TON}} || 101–10 || 15 October 1999
+|}
+
+=== Margins ===
+
+{| class="wikitable"
+|+Biggest winning margins<ref>{{cite web |url=https://www.rugbyworldcup.com/statistics/team-records |title=All Time RWC Team Records |publisher=Rugbyworldcup.com |date=26 September 2015 |access-date=26 September 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150927164415/https://www.rugbyworldcup.com/statistics/team-records |archive-date=27 September 2015 }}</ref>
+|-
+! Margin !! Team !! Opponent !! Score !! Date
+|-
+! 142
+| {{ru|AUS}} || {{ru|NAM}} || 142–0 || 24 October 2003
+|-
+! 128
+| {{ru|NZL}} || {{ru|JPN}} || 145–17 || 4 June 1995
+|-
+!rowspan="2"| 98
+| {{ru|NZL}} || {{ru|ITA}} || 101–3 || 14 October 1999
+|-
+| {{ru|ENG}} || {{ru|URU}} || 111–13 || 2 November 2003
+|-
+! 96
+| {{ru|FRA}} || {{ru|NAM}} || 96–0 || 21 September 2023
+|}
+
+=== Tries ===
+
+{| class="wikitable"
+|+Most tries by a team in a single match<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/team/most_tries_match.html?id=17;type=trophy |title=Most team tries in a match |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Tries !! Team !! Opponent !! Score !! Date
+|-
+! 22
+| {{ru|AUS}} || {{ru|NAM}} || 142–0 || 24 October 2003
+|-
+! 21
+| {{ru|NZL}} || {{ru|JPN}} || 145–17 || 4 June 1995
+|-
+! 17
+| {{ru|ENG}} || {{ru|URU}} || 111–13 || 2 November 2003
+|-
+! 16
+| {{ru|NZL}} || {{ru|POR}} || 108–13 || 15 September 2007
+|-
+! rowspan="3"| 14
+| {{ru|NZL}} || {{ru|ITA}} || 101–3 || 14 October 1999
+|-
+| {{ru|FRA}} || {{ru|NAM}} || 96–0 || 21 September 2023
+|-
+| {{ru|NZL}} || {{ru|ITA}} || 96–17 || 29 September 2023
+|}
+
+==Player records==
+
+=== Points ===
+[[File:ST_vs_RCT_2012_12_Jonny_Wilkinson_kicking_a_penalty_(cropped).jpg|thumbnail|Jonny Wilkinson holds the record for the most points scored (277), most penalties (58) and most drop goals (14) in Rugby World Cups.]]
+
+{| class="wikitable" 
+|+Most overall points<ref>{{cite web|url=https://www.rugbyworldcup.com/statistics/player-stats |title=All Time RWC Player Statistics |publisher=Rugbyworldcup.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Points !! Name !! Team !! App. !! Tries !! Con. !! Pen. !! Drop !! Tournaments
+|-
+! 277
+|align="left"| [[Jonny Wilkinson]]
+| {{ru|ENG}}
+| 19 || 1 || 28 || 58 || 14
+| [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]]
+|-
+! 227
+|align="left"| [[Gavin Hastings]]
+| {{ru|SCO}}
+| 13 || 9 || 39 || 36 || 0
+| [[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]]
+|-
+! rowspan=2|195
+|align="left"| [[Handré Pollard]]
+| {{ru|RSA}}
+| 17 || 0 || 24 || 46 || 3
+| [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|-
+|align="left"| [[Michael Lynagh]]
+| {{ru|AUS}}
+| 15 || 4 || 36 || 33 || 2
+| [[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]]
+|-
+! 191
+|align="left"| [[Dan Carter]]
+| {{ru|NZL}}
+| 15 || 3 || 58 || 17 || 3
+| [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]]
+|}
+:<small>Key: App = Appearances. Con = conversions. Pen = penalties. Drop = drop goals.</small>
+
+{| class="wikitable"
+|+Most points in one tournament<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_points_tournament.html?id=17;type=trophy |title=Most individual points in a tournament/season |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Points !! Name !! Team !! Tournament
+|-
+! 126
+| [[Grant Fox]] || {{ru|NZL}}
+| align=center| [[1987 Rugby World Cup|1987]]
+|-
+! 113
+| [[Jonny Wilkinson]] || {{ru|ENG}} 
+| align=center| [[2003 Rugby World Cup|2003]]
+|-
+! 112
+| [[Thierry Lacroix]] || {{ru|FRA}}
+| align=center| [[1995 Rugby World Cup|1995]]
+|-
+! 105
+| [[Percy Montgomery]] || {{ru|RSA}}
+| align=center| [[2007 Rugby World Cup|2007]]
+|-
+! 104
+| [[Gavin Hastings]] || {{ru|SCO}}
+| align=center| [[1995 Rugby World Cup|1995]]
+|}
+
+{| class="wikitable"
+|+Most points in a match by a player<ref>{{cite web |url=https://www.rugbyworldcup.com/statistics/player-records |title=All Time RWC Player Records |publisher=Rugbyworldcup.com |date=26 September 2015 |access-date=26 September 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150927155834/https://www.rugbyworldcup.com/statistics/player-records |archive-date=27 September 2015 }}</ref>
+|-
+! Points !! Name !! Team !! Opponent!! Date
+|-
+! 45
+| [[Simon Culhane]] || {{ru|NZL}} || {{ru|JPN}} || 4 June 1995
+|-
+! 44
+| [[Gavin Hastings]] || {{ru|SCO}} || {{ru|CIV}} || 26 May 1995
+|-
+! 42
+| [[Mat Rogers]] || {{ru|AUS}} || {{ru|NAM}} || 25 October 2003
+|-
+!rowspan="2"| 36
+| [[Tony Brown (rugby union)|Tony Brown]] || {{ru|NZL}} || {{ru|ITA}} || 14 October 1999
+|-
+| [[Paul Grayson (rugby union)|Paul Grayson]] || {{ru|ENG}} || {{ru|TGA}} || 15 October 1999
+|}
+
+=== Tries ===
+{{multiple image
+| caption_align     = center
+| header_align      = center
+| image1            = Habana,_Bryan_(Canon).jpg
+| alt1              = Habana Bryan
+| width1            = 170
+| image2            = Jonah_Lomu_(cropped).jpg
+| alt2              = Jonah Lomu
+| width2            = 160
+| footer_align      = center
+| footer            = Bryan Habana and Jonah Lomu share the record for the most tries (15) in Rugby World Cups, and share the record for most tries in a single World Cup tournament (8) with Julian Savea and Will Jordan (below) for the men. However Portia Woodman-Wickliffe has scored the most tries in the world in one game at 13 tries in the Women's Rugby World Cup 2017 for the Black Ferns.
+}}
+
+[[File:Julian Savea September 2015 RWC.jpg|thumb|upright|[[Julian Savea]] scored a joint record eight tries in New Zealand's progress to the 2015 final, including two hat-tricks]][[File:Will Jordan 2024.jpg|thumb|upright|[[Will Jordan (rugby union)|Will Jordan]]]]
+
+{| class="wikitable"
+|+Most overall tries<ref>{{cite web|url=https://www.rugbyworldcup.com/stats/alltime/players/tries |title=RWC ALL TIME MOST TRIES SCORED |publisher=Rugbyworldcup.com |date=30 September 2019 |access-date=30 September 2019}}</ref>
+|-
+! Tries !! Name !! Team !! Tournaments 
+|-
+!rowspan="2"| 15
+| [[Jonah Lomu]] || {{ru|NZL}} ||align=center| 1995–1999
+|-
+| [[Bryan Habana]] || {{ru|RSA}} ||align=center| 2007–2015
+|-
+! 14
+| [[Drew Mitchell]] || {{ru|AUS}} ||align=center| 2007–2015
+|-
+! 13
+| [[Doug Howlett]] || {{ru|NZL}} ||align=center| 2003–2007
+|-
+! 12
+| [[Adam Ashley-Cooper]] || {{ru|AUS}} ||align=center| 2007–2019
+|}
+
+{| class="wikitable"
+|+Most tries in one tournament<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_tries_tournament.html?id=17;type=trophy |title=Most individual tries in a tournament/season |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Tries !! Name !! Team !! Tournament
+|-
+! rowspan="4" | 8
+| [[Jonah Lomu]] || {{ru|NZL}}
+| align="center" | [[1999 Rugby World Cup|1999]]
+|-
+| [[Bryan Habana]] || {{ru|RSA}}
+| align=center| [[2007 Rugby World Cup|2007]]
+|-
+| [[Julian Savea]] || {{ru|NZL}}
+| align=center| [[2015 Rugby World Cup|2015]]
+|-
+|[[Will Jordan (rugby union)|Will Jordan]]
+|{{ru|NZL}}
+| align=center| [[2023 Rugby World Cup|2023]]
+|-
+!rowspan="6”| 7
+| [[Marc Ellis (rugby)|Marc Ellis]] || {{ru|NZL}}
+| align=center| [[1995 Rugby World Cup|1995]]
+|-
+| [[Jonah Lomu]] || {{ru|NZL}}
+| align=center| [[1995 Rugby World Cup|1995]]
+|-
+| [[Doug Howlett]] || {{ru|NZL}}
+| align=center| [[2003 Rugby World Cup|2003]]
+|-
+| [[Mils Muliaina]] || {{ru|NZL}}
+| align=center| [[2003 Rugby World Cup|2003]]
+|-
+| [[Drew Mitchell]] || {{ru|AUS}}
+| align=center| [[2007 Rugby World Cup|2007]]
+|-
+| [[Josh Adams (rugby union)|Josh Adams]] || {{ru|WAL}}
+| align= center| [[2019 Rugby World Cup|2019]]
+|}
+
+{| class="wikitable"
+|+Most tries in a match by a player<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_tries_match.html?id=17;type=trophy |title=Most individual tries in a match |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Tries !! Name !! Team !! Opponent!! Date
+|-
+! 6
+| [[Marc Ellis (rugby)|Marc Ellis]] || {{ru|NZL}} || {{ru|JPN}} || 4 June 1995
+|-
+|-
+!rowspan="3"| 5
+| [[Chris Latham (rugby union)|Chris Latham]] || {{ru|AUS}} || {{ru|NAM}} || 25 October 2003
+|-
+| [[Josh Lewsey]] || {{ru|ENG}} || {{ru|URU}} || 2 November 2003
+|-
+| [[Henry Arundell]] || {{ru|ENG}} || {{ru|CHI}} || 23 September 2023
+|-
+!rowspan="13"| 4
+| [[John Gallagher (rugby)|John Gallagher]] || {{ru|NZL}} || {{ru|FJI}} || 27 May 1987
+|-
+| [[Craig Green (rugby union)|Craig Green]] || {{ru|NZL}} || {{ru|FJI}} || 27 May 1987
+|-
+| [[Ieuan Evans]] || {{ru|WAL}} || {{ru|CAN}} || 3 June 1987
+|-
+| [[Brian Robinson (rugby union)|Brian Robinson]] || {{ru|IRE}} || {{ru|ZIM}} || 6 October 1991
+|-
+| [[Gavin Hastings]] || {{ru|SCO}} || {{ru|CIV}} || 26 May 1995
+|-
+| [[Chester Williams]] || {{ru|RSA}} || {{ru|SAM}} || 10 June 1995
+|-
+| [[Jonah Lomu]] || {{ru|NZL}} || {{ru|ENG}} || 18 June 1995
+|-
+| [[Keith Wood]] || {{ru|IRE}} || {{ru|USA}} || 2 October 1999
+|-
+| [[Mils Muliaina]] || {{ru|NZL}} || {{ru|CAN}} || 17 October 2003
+|-
+| [[Bryan Habana]] || {{ru|RSA}} || {{ru|SAM}} || 9 September 2007
+|-
+| [[Vereniki Goneva]] || {{ru|FIJ}} || {{ru|NAM}} || 10 September 2011
+|-
+| [[Zac Guildford]] || {{ru|NZL}} || {{ru|CAN}} || 2 October 2011
+|-
+| [[Darcy Graham]] || {{ru|SCO}} || {{ru|ROM}} || 30 September 2023
+|}
+
+'''Youngest try scorer in a World Cup game'''
+*[[George North]] ({{ru|WAL}}), aged {{age in years and days|1992|4|13|2011|9|26}} (2 tries v {{ru|NAM}}, 26 September 2011)<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/youngest_tryscorer.html?id=17;type=trophy |title=Youngest tryscorer |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+
+'''Oldest try scorer in a World Cup game'''
+*[[Diego Ormaechea]] ({{ru|URU}}), aged {{age in years and days|1959|9|19|1999|10|2}} (v {{ru|ESP}}, 2 October 1999)<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/oldest_tryscorer.html?id=17;type=trophy |title=Oldest tryscorer |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+
+=== Conversions ===
+[[File:Dan_Carter_1024x768.jpg|thumbnail|Dan Carter holds the record for the most conversions in Rugby World Cups.]]
+
+{| class="wikitable"
+|+Most overall conversions<ref>{{cite web|url=https://www.rugbyworldcup.com/stats/alltime/players/conversions |title=RWC ALL TIME MOST CONVERSIONS |publisher=Rugbyworldcup.com |date=26 September 2015 |access-date=26 September 2015}}</ref><ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_conversions.html?id=17;type=trophy |title=Most individual conversions|publisher=Espnscrum.com |date=2 October 2015 |access-date=2 October 2015}}</ref>
+|-
+! Con. !! Name !! Team !! Tournaments
+|-
+! 58
+| [[Dan Carter]] || {{ru|NZL}} ||align=center| 2003–2015
+|-
+! 39
+| [[Gavin Hastings]] || {{ru|SCO}} ||align=center| 1987–1995
+|-
+! 38
+| [[Richie Mo'unga]] || {{ru|NZL}} ||align=center| 2019–2023
+|-
+! 37
+| [[Grant Fox]] || {{ru|NZL}} ||align=center| 1987–1991
+|-
+! 36
+| [[Michael Lynagh]] || {{ru|AUS}} ||align=center| 1987–1995
+|}
+
+{| class="wikitable"
+|+Most conversions in one tournament<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_conversions_tournament.html?id=17;type=trophy |title=Most individual conversions in a tournament/season |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Con. !! Name !! Team !! Tournament
+|-
+! 30
+| [[Grant Fox]] || {{ru|NZL}}
+| align=center| [[1987 Rugby World Cup|1987]]
+|-
+! 23
+| [[Dan Carter]] || {{ru|NZL}}
+| align=center| [[2015 Rugby World Cup|2015]]
+|-
+! 21
+| [[Thomas Ramos (rugby union)|Thomas Ramos]] || {{ru|FRA}}
+| align=center| [[2023 Rugby World Cup|2023]]
+|-
+!rowspan="5"| 20
+| [[Michael Lynagh]] || {{ru|AUS}}
+| align=center| [[1987 Rugby World Cup|1987]]
+|-
+| [[Simon Culhane]] || {{ru|NZL}}
+| align=center| [[1995 Rugby World Cup|1995]]
+|-
+| [[Leon MacDonald]] || {{ru|NZL}}
+| align=center| [[2003 Rugby World Cup|2003]]
+|-
+| [[Nick Evans (rugby union)|Nick Evans]] || {{ru|NZL}}
+| align=center| [[2007 Rugby World Cup|2007]]
+|-
+| [[Richie Mo'unga]] || {{ru|NZL}}
+| align=center| [[2019 Rugby World Cup|2019]]
+|}
+
+{| class="wikitable"
+|+Most conversions in a match by a player<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_conversions_match.html?id=17;type=trophy |title=Most individual conversions in a match |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Con. !! Name !! Team !! Opponent !! Date
+|-
+! 20
+| [[Simon Culhane]] || {{ru|NZL}} || {{ru|JPN}} || 4 June 1995
+|-
+! 16
+| [[Mat Rogers]] || {{ru|AUS}} || {{ru|NAM}} || 25 October 2003
+|-
+! 14
+| [[Nick Evans (rugby union)|Nick Evans]] || {{ru|NZL}} || {{ru|POR}} || 15 September 2007
+|-
+!rowspan="3"| 12
+| [[Paul Grayson (rugby union)|Paul Grayson]] || {{ru|ENG}} || {{ru|TON}} || 15 October 1999
+|-
+| [[Leon MacDonald]] || {{ru|NZL}} || {{ru|TON}} || 24 October 2003
+|-
+| [[Thomas Ramos (rugby union)|Thomas Ramos]] || {{ru|FRA}} || {{ru|NAM}} || 21 September 2023
+|}
+
+=== Penalty goals ===
+
+[[File:Gavin_Hastings.jpg|thumbnail|Scotland's Gavin Hastings was the first player to kick eight penalties in a Rugby World Cup match.]]
+
+{| class="wikitable"
+|+Most overall penalties<ref>{{cite web|url=https://www.rugbyworldcup.com/stats/alltime/players/penalties |title=RWC ALL TIME MOST PENALTIES SCORED |publisher=Rugbyworldcup.com |date=26 September 2015 |access-date=26 September 2015}}</ref><ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_penalty_goals.html?id=17;type=trophy |title=Most individual penalty goals |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Pen. !! Name !! Team !! Tournaments
+|-
+! 58
+| [[Jonny Wilkinson]] || {{ru|ENG}} ||align=center| 1999–2011
+|-
+! 46
+| [[Handré Pollard]] || {{ru|RSA}} ||align=center| 2015–2023
+|-
+! 36
+| [[Gavin Hastings]] || {{ru|SCO}} ||align=center| 1987–1995
+|-
+! 35
+| [[Gonzalo Quesada]] || {{ru|ARG}} ||align=center| 1999–2003
+|-
+!rowspan="2"| 33
+| [[Michael Lynagh]] || {{ru|AUS}} ||align=center| 1987–1995
+|-
+| [[Andrew Mehrtens]] || {{ru|NZL}} ||align=center| 1995–1999
+|}
+
+{| class="wikitable"
+|+Most penalties in one tournament<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_penalty_goals_tournament.html?id=17;type=trophy |title=Most individual penalty goals in a tournament/season |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Pen. !! Name !! Team !! Tournament
+|-
+! 31
+| [[Gonzalo Quesada]] || {{ru|ARG}}
+| align=center| [[1999 Rugby World Cup|1999]] 
+|-
+! 26
+| [[Thierry Lacroix]] || {{ru|FRA}}
+| align=center| [[1995 Rugby World Cup|1995]]
+|-
+! rowspan="2" |23
+| [[Jonny Wilkinson]]|| {{ru|ENG}}
+| align="center" | [[2003 Rugby World Cup|2003]]
+|-
+| [[Handré Pollard]]|| {{ru|RSA}}
+| align="center" | [[2015 Rugby World Cup|2015]]
+|-
+!rowspan="2"|21
+| [[Grant Fox]] || {{ru|NZL}}
+| align=center| [[1987 Rugby World Cup|1987]]
+|-
+| [[Elton Flatley]] || {{ru|AUS}}
+| align=center| [[2003 Rugby World Cup|2003]]
+|}
+
+{| class="wikitable"
+|+Most penalties in a match by a player<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_penalty_goals_match.html?id=17;type=trophy |title=Most individual penalty goals in a match |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Pen. !! Name !! Team !! Opponent!! Date
+|-
+!rowspan="4"| 8
+| [[Gavin Hastings ]] || {{ru|SCO}} || {{ru|TON}} || 30 May 1995
+|-
+| [[Thierry Lacroix]] || {{ru|FRA}} || {{ru|IRE}} || 10 June 1995
+|-
+| [[Gonzalo Quesada]] || {{ru|ARG}} || {{ru|SAM}} || 10 October 1999
+|-
+| [[Matt Burke (rugby union, born 1973)|Matt Burke]] || {{ru|AUS}} || {{ru|RSA}} || 30 October 1999
+|-
+!rowspan="7"| 7
+| [[Gonzalo Quesada]] || {{ru|ARG}} || {{ru|JPN}} || 16 October 1999
+|-
+| [[Jonny Wilkinson]] || {{ru|ENG}} || {{ru|FIJ}} || 20 October 1999
+|-
+| [[David Humphreys (rugby union)|David Humphreys]] || {{ru|IRE}} || {{ru|ARG}} || 20 October 1999
+|-
+| [[Gonzalo Quesada]] || {{ru|ARG}} || {{ru|IRE}} || 20 October 1999
+|-
+| [[Matt Burke (rugby union, born 1973)|Matt Burke]] || {{ru|AUS}} || {{ru|FRA}} || 6 November 1999
+|-
+| [[Piri Weepu]] || {{ru|NZL}} || {{ru|ARG}} || 9 October 2011
+|-
+| [[Dan Biggar]] || {{ru|WAL}} || {{ru|ENG}} || 26 September 2015
+|}
+
+=== Drop goals ===
+
+{| class="wikitable"
+|+Most overall drop goals<ref>{{cite web|url=https://www.rugbyworldcup.com/stats/alltime/players/dropgoals |title=RWC ALL TIME MOST DROP GOALS |publisher=Rugbyworldcup.com |date=26 September 2015 |access-date=26 September 2015}}</ref><ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_drop_goals.html?id=17;type=trophy |title=Most individual drop goals |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Drop !! Name !! Team !! Tournaments
+|-
+! 14
+| [[Jonny Wilkinson]] || {{ru|ENG}} ||align=center| 1999–2011
+|-
+! 6
+| [[Jannie de Beer]] || {{ru|RSA}} ||align=center| 1999
+|-
+!rowspan="2"| 5
+| [[Rob Andrew]] || {{ru|ENG}} ||align=center| 1987–1995
+|-
+| [[Gareth Rees (rugby union)|Gareth Rees]] || {{ru|CAN}} ||align=center| 1987–1999
+|-
+! 4
+| [[Juan Martín Hernández]] || {{ru|ARG}} ||align=center| 2003–2015
+|}
+
+{| class="wikitable"
+|+Most drop goals in one tournament<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_drop_goals_tournament.html?id=17;type=trophy |title=Most individual drop goals in a tournament/season |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Drop !! Name !! Team !! Tournament
+|-
+! 8
+| [[Jonny Wilkinson]] || {{ru|ENG}}
+| align=center| [[2003 Rugby World Cup|2003]]
+|-
+! 6
+| [[Jannie de Beer]] || {{ru|RSA}}
+| align=center| [[1999 Rugby World Cup|1999]]
+|-
+! 5
+| [[Jonny Wilkinson]] || {{ru|ENG}}
+| align=center| [[2007 Rugby World Cup|2007]]
+|-
+! 4
+| [[Juan Martín Hernández]] || {{ru|ARG}}
+| align=center| [[2007 Rugby World Cup|2007]]
+|-
+!rowspan="8"|3
+| [[Jonathan Davies (rugby, born 1962)|Jonathan Davies]] || {{ru|WAL}}
+| align=center| [[1987 Rugby World Cup|1987]]
+|-
+| [[Rob Andrew]] || {{ru|ENG}}
+| align=center| [[1995 Rugby World Cup|1995]]
+|-
+| [[Andrew Mehrtens]] || {{ru|NZL}}
+| align=center| [[1995 Rugby World Cup|1995]]
+|-
+| [[Joel Stransky]] || {{ru|RSA}}
+| align=center| [[1995 Rugby World Cup|1995]]
+|-
+| [[Gregor Townsend]] || {{ru|SCO}}
+| align=center| [[1999 Rugby World Cup|1999]]
+|-
+| [[Theuns Kotzé]] || {{ru|NAM}}
+| align=center| [[2011 Rugby World Cup|2011]]
+|-
+| [[Dan Parks]] || {{ru|SCO}}
+| align=center| [[2011 Rugby World Cup|2011]]
+|-
+| [[George Ford (rugby union)|George Ford]] || {{ru|ENG}}
+| align=center| [[2023 Rugby World Cup|2023]]
+|}
+
+{| class="wikitable"
+|+Most drop goals in a match by a player<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_drop_goals_match.html?id=17;type=trophy |title=Most individual drop goals in a match |publisher=Espnscrum.com |date=26 September 2015 |access-date=26 September 2015}}</ref>
+|-
+! Drop !! Name !! Team !! Opponent !! Date
+|-
+! 5
+| [[Jannie de Beer]] || {{ru|RSA}} || {{ru|ENG}} || 24 October 1999
+|-
+! rowspan="4"|3
+| [[Juan Martín Hernández]] || {{ru|ARG}} || {{ru|IRE}} || 30 September 2007
+|-
+| [[George Ford (rugby union)|George Ford]] || {{ru|ENG}} || {{ru|ARG}} || 9 September 2023
+|-
+| [[Theuns Kotzé]] || {{ru|NAM}} || {{ru|FIJ}} || 10 September 2011
+|-
+| [[Jonny Wilkinson]] || {{ru|ENG}} || {{ru|FRA}} || 16 November 2003
+|}
+
+=== Appearance statistics ===
+[[File:Sam Whitelock ONZM (cropped).jpg|thumbnail|Sam Whitelock holds the appearance record in Rugby World Cups with 26 matches.]]
+
+{| class="wikitable"
+|+Most appearances, matches<ref>{{cite web |url=https://www.rugbyworldcup.com/stats/alltime/players/matches |title=RWC ALL TIME MOST MATCHES PLAYED |publisher=Rugbyworldcup.com |date=2 October 2019 |access-date=2 October 2019 |archive-date=26 September 2015 |archive-url=https://web.archive.org/web/20150926232003/http://www.rugbyworldcup.com/stats/alltime/players/matches |url-status=dead }}</ref><ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/player/most_matches.html?id=17;type=trophy |title=Most matches |publisher=Espnscrum.com |date=2 October 2019 |access-date=2 October 2019}}</ref>
+|-
+! App. !! Name !! Team !! Tournaments
+|-
+!26
+| [[Sam Whitelock]] || {{ru|NZL}} || align=center| 2011–2023
+|-
+!rowspan="3"| 22
+| [[Agustin Creevy]] || {{ru|ARG}} || align=center| 2011–2023
+|-
+| [[Jason Leonard]] || {{ru|ENG}} || align=center| 1991–2003
+|-
+| [[Richie McCaw]] || {{ru|NZL}} || align=center| 2003–2015
+|-
+!rowspan="2"| 21
+| [[Alun Wyn Jones]] || {{ru|WAL}} || align=center| 2007–2019
+|-
+| [[James Slipper]] || {{ru|AUS}} || align=center| 2011–2023
+|}
+
+{| class="wikitable"
+|+Most appearances, tournaments
+|-
+! App. !! Name !! Team !! Tournaments
+|-
+!rowspan="3"| 5
+| [[Brian Lima]] || {{ru|SAM}} || align=center| 1991–2007
+|-
+| [[Mauro Bergamasco]] || {{ru|ITA}} || align=center| 1999–2015
+|-
+| [[Sergio Parisse]] || {{ru|ITA}} || align=center| 2003–2019
+|-
+!rowspan="63"| 4
+| [[Gareth Rees (rugby union)|Gareth Rees]] || {{ru|CAN}} || align=center| 1987–1999
+|-
+| [[Pedro Sporleder]] || {{ru|ARG}} || align=center| 1991–2003
+|-
+| [[Al Charron]] || {{ru|CAN}} || align=center| 1991–2003
+|-
+| [[Jason Leonard]] || {{ru|ENG}} || align=center| 1991–2003
+|-
+| [[Fabien Galthié]] || {{ru|FRA}} || align=center| 1991–2003
+|-
+| [[Carlo Checchinato]] || {{ru|ITA}} || align=center| 1991–2003
+|-
+| [[George Gregan]] || {{ru|AUS}} || align=center| 1995–2007
+|-
+| [[Mike James (rugby union)|Mike James]] || {{ru|CAN}} || align=center| 1995–2007
+|-
+| [[Rod Snow]] || {{ru|CAN}} || align=center| 1995–2007
+|-
+| [[Mike Catt]] || {{ru|ENG}} || align=center| 1995–2007
+|-
+| [[Alessandro Troncon]] || {{ru|ITA}} || align=center| 1995–2007
+|-
+| [[Gareth Thomas (rugby, born 1974)|Gareth Thomas]] || {{ru|WAL}} || align=center| 1995–2007
+|-
+| [[Romeo Gontineac]] || {{ru|ROM}} || align=center| 1995–2007
+|-
+| [[Felipe Contepomi]] || {{ru|ARG}} || align=center| 1999–2011
+|-
+| [[Mario Ledesma]] || {{ru|ARG}} || align=center| 1999–2011
+|-
+| [[Martín Scelzo]] || {{ru|ARG}} || align=center| 1999–2011
+|-
+| [[Jonny Wilkinson]] || {{ru|ENG}} || align=center| 1999–2011
+|-
+| [[Nicky Little]] || {{ru|FIJ}} || align=center| 1999–2011
+|-
+| [[Brian O'Driscoll]] || {{ru|IRE}} || align=center| 1999–2011
+|-
+| [[Chris Paterson]] || {{ru|SCO}} || align=center| 1999–2011
+|-
+| [[Stephen Jones (rugby union)|Stephen Jones]] || {{ru|WAL}} || align=center| 1999–2011
+|-
+| [[James Pritchard (rugby)|James Pritchard]] || {{ru|CAN}} || align=center| 2003–2015
+|-
+| [[Jamie Cudmore]] || {{ru|CAN}} || align=center| 2003–2015
+|-
+| [[Giorgi Chkhaidze]] || {{ru|GEO}} || align=center| 2003–2015
+|-
+| [[Merab Kvirikashvili]] || {{ru|GEO}} || align=center| 2003–2015
+|-
+| [[Paul O'Connell]] || {{ru|IRE}} || align=center| 2003–2015
+|-
+| [[Andrea Masi]] || {{ru|ITA}} || align=center| 2003–2015
+|-
+| [[Martin Castrogiovanni]] || {{ru|ITA}} || align=center| 2003–2015
+|-
+| [[Dan Carter]] || {{ru|NZL}} || align=center| 2003–2015
+|-
+| [[Keven Mealamu]] || {{ru|NZL}} || align=center| 2003–2015
+|-
+| [[Richie McCaw]] || {{ru|NZL}} || align=center| 2003–2015
+|-
+| [[Dănuț Dumbravă]] || {{ru|ROM}} || align=center| 2003–2015
+|-
+| [[Ovidiu Tonița]] || {{ru|ROM}} || align=center| 2003–2015
+|-
+| [[Paulică Ion]] || {{ru|ROM}} || align=center| 2003–2015
+|-
+| [[Schalk Burger]] || {{ru|RSA}} || align=center| 2003–2015
+|-
+| [[Victor Matfield]] || {{ru|RSA}} || align=center| 2003–2015
+|-
+| [[Gethin Jenkins]] || {{ru|WAL}} || align=center| 2003–2015
+|-
+| [[Juan Manuel Leguizamón]] || {{ru|ARG}} || align=center| 2007–2019
+|-
+| [[Adam Ashley-Cooper]] || {{ru|AUS}} || align=center| 2007–2019
+|-
+| [[DTH van der Merwe|D. T. H. van der Merwe]] || {{ru|CAN}} || align=center| 2007–2019
+|-
+| [[Davit Kacharava]] || {{ru|GEO}} || align=center| 2007–2019
+|-
+| [[Mamuka Gorgodze]] || {{ru|GEO}} || align=center| 2007–2019
+|-
+| [[Rory Best]] || {{ru|IRE}} || align=center| 2007–2019
+|-
+| [[Alessandro Zanni]] || {{ru|ITA}} || align=center| 2007–2019
+|-
+| [[Luke Thompson (rugby union)|Luke Thompson]] || {{ru|JPN}} || align=center| 2007–2019
+|-
+| [[Eugene Jantjies]] || {{ru|NAM}} || align=center| 2007–2019
+|-
+| [[Alun-Wyn Jones]] || {{ru|WAL}} || align=center| 2007–2019
+|-
+| [[Agustin Creevy]] || {{ru|ARG}} || align=center| 2011–2023
+|-
+| [[Nicolas Sanchez (rugby union)|Nicolas Sanchez]] || {{ru|ARG}} || align=center| 2011–2023
+|-
+| [[James Slipper]] || {{ru|AUS}} || align=center| 2011–2023
+|-
+| [[Dan Cole (rugby union)|Dan Cole]] || {{ru|ENG}} || align=center| 2011–2023
+|-
+| [[Courtney Lawes]] || {{ru|ENG}} || align=center| 2011–2023
+|-
+| [[Ben Youngs]] || {{ru|ENG}} || align=center| 2011–2023
+|-
+| [[Lasha Khmaladze]] || {{ru|GEO}} || align=center| 2011–2023
+|-
+| [[Alexander Todua]] || {{ru|GEO}} || align=center| 2011–2023
+|-
+| [[Keith Earls]] || {{ru|IRE}} || align=center| 2011–2023
+|-
+| [[Conor Murray]] || {{ru|IRE}} || align=center| 2011–2023
+|-
+| [[Johnny Sexton]] || {{ru|IRE}} || align=center| 2011–2023
+|-
+| [[Shota Horie]] || {{ru|JPN}} || align=center| 2011–2023
+|-
+| [[Michael Leitch]] || {{ru|JPN}} || align=center| 2011–2023
+|-
+| [[PJ van Lill]] || {{ru|NAM}} || align=center| 2011–2023
+|-
+| [[Sam Whitelock]] || {{ru|NZL}} || align=center| 2011–2023
+|-
+| [[George North]] || {{ru|WAL}} || align=center| 2011–2023
+|}
+
+{| class="wikitable"
+|+Most winning appearances<ref>{{cite web|url=http://stats.espnscrum.com/statsguru/rugby/stats/index.html?class=1;filter=advanced;orderby=matches;result=1;template=results;trophy=17;type=player |title=Player Records: Overall figures, Rugby World Cup, won match |publisher=[[ESPN (UK)]] |date=2 October 2019 |access-date=2 October 2019}}</ref>
+|-
+! App. !! Name !! Team !! Tournaments
+|-
+!23
+| [[Sam Whitelock]] || {{ru|NZL}} || align=center| 2011–2023
+|-
+!20
+| [[Richie McCaw]] || {{ru|NZL}} || align=center| 2003–2015
+|-
+! 19
+| [[Keven Mealamu]] || {{ru|NZL}} || align=center| 2003–2015
+|-
+! 18
+| [[Sonny Bill Williams]] || {{ru|NZL}} || align=center| 2011–2019
+|-
+! 17
+| [[François Steyn]] || {{ru|RSA}} || align=center| 2007, 2011, 2019
+|}
+
+{| class="wikitable"
+|+Most losing appearances<ref>{{cite web|url=http://stats.espnscrum.com/statsguru/rugby/stats/index.html?class=1;filter=advanced;orderby=matches;result=2;template=results;trophy=17;type=player |title=Player Records: Overall figures, Rugby World Cup, lost match |publisher=[[ESPN (UK)]] |date=2 October 2019 |access-date=2 October 2019}}</ref>
+|-
+! App. !! Name !! Team !! Tournaments
+|-
+! 14
+| [[Eugene Jantjies]] || {{ru|NAM}} || align=center| 2007–2019
+|-
+!rowspan="3"| 12
+| [[PJ van Lill]] || {{ru|NAM}} || align=center| 2011–2023
+|-
+| [[Ovidiu Tonița]] || {{ru|ROU}} || align=center| 2003–2015
+|-
+| [[D. T. H. van der Merwe|D.T.H. van der Merwe]] || {{ru|CAN}} || align=center| 2007–2019
+|-
+!rowspan="8"| 11
+| [[Jacques Burger]] || {{ru|NAM}} || align=center| 2007–2015
+|-
+| [[Jamie Cudmore]] || {{ru|CAN}} || align=center| 2003–2015
+|-
+| [[Tinus du Plessis]] || {{ru|NAM}} || align=center| 2007–2015
+|-
+| [[Romeo Gontineac]] || {{ru|ROU}} || align=center| 1995–2007
+|-
+| Hugo Horn || {{ru|NAM}} || align=center| 1999–2011
+|-
+| [[Merab Kvirikashvili]] || {{ru|GEO}} || align=center| 2003–2015
+|-
+| [[Johnny Redelinghuys]] || {{ru|NAM}} || align=center| 2007–2015
+|-
+| [[Aranos Coetzee]] || {{ru|NAM}} || align=center| 2015–2023
+|}
+
+'''Oldest player to appear in a World Cup match'''
+*[[Diego Ormaechea]], {{ru|URU}}, aged {{age in years and days|1959|9|19|1999|10|15}} (v {{ru|RSA}}, [[1999 Rugby World Cup#Pool A|15 October 1999]])<ref name="Griffiths 2011-09-12">{{cite web|url=http://www.espnscrum.com/2011-rugby-world-cup/rugby/story/148929.html |title=Victors in the Five/Six Nations, Tri-Nations and the World Cup, the youngest and oldest players, referees and close encounters |first=John |last=Griffiths |work=Ask John |publisher=ESPN Scrum |date=12 September 2011 |access-date=13 September 2011}}</ref><ref>For the specific match where Ormaeches established the current record, see the [http://www.espnscrum.com/statsguru/rugby/player/11594.html?class=1;orderby=date;orderbyad=reverse;template=results;type=player;view=match list of his Test matches] at ESPN Scrum.</ref>
+
+'''Oldest player to appear in a World Cup final'''
+*[[Duane Vermeulen]], {{ru|RSA}}, aged {{age in years and days|1986|7|3|2023|10|28}} (v {{ru|NZL}}, [[2023 Rugby World Cup final|28 October 2023]])
+
+'''Oldest player to win a World Cup final'''
+*[[Schalk Brits]], {{ru|RSA}}, aged {{age in years and days|1981|5|16|2019|11|02}} (v {{ru|ENG}}, [[2019 Rugby World Cup final|2 November 2019]])
+
+'''Youngest player to appear in a World Cup match'''
+*[[Vasil Lobzhanidze]], {{ru|GEO}}, aged {{age in years and days|1996|10|14|2015|9|19}} (v {{ru|TGA}}, [[2015 Rugby World Cup Pool C#Tonga vs Georgia|19 September 2015]])<ref>{{cite web|url=http://en.espn.co.uk/scrum/rugby/story/275225.html |title=Georgia spring first surprise by taking down Tonga |agency=[[Press Association|PA Sport]] |publisher=[[ESPN (UK)]] |date=19 September 2015 |access-date=19 September 2015}}</ref>
+
+'''Youngest player to appear in a World Cup final'''
+*[[Jonah Lomu]], {{ru|NZL}}, aged {{age in years and days|1975|5|12|1995|6|24}} (v {{ru|RSA}}, [[1995 Rugby World Cup final|24 June 1995]])<ref name="Griffiths 2011-09-12"/>
+
+'''Youngest player to win a World Cup final'''
+*[[François Steyn]], {{ru|RSA}}, aged {{age in years and days|1987|5|14|2007|10|20}} (v {{ru|ENG}}, [[2007 Rugby World Cup final|20 October 2007]])<ref name="Griffiths 2011-09-12"/>
+
+==By tournament==
+{| class="wikitable"
+!width=30|Year
+!Top points scorers
+!Top try scorers
+!colspan=4| Team records
+|-
+! rowspan=3| [[1987 Rugby World Cup|1987]]
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''126*''' – [[Grant Fox]] ({{ru|NZL}})<br />
+'''{{0}}82''' – [[Michael Lynagh]] ({{ru|AUS}})<br />
+'''{{0}}62''' – [[Gavin Hastings]] ({{ru|SCO}})
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''6''' – [[Craig Green (rugby union)|Craig Green]] ({{ru|NZL}})<br />
+'''6''' – [[John Kirwan (rugby)|John Kirwan]] ({{ru|NZL}})
+| Most points in a match ||align=center| '''74''' || {{ru|NZL}} (74–13 v Fiji)
+|-
+| Biggest winning margin ||align=center| '''64''' || {{ru|NZL}} (70–6 v Italy)
+|- style="border-bottom:2px solid black"
+| Most tries in a match ||align=center| '''13''' || {{ru|FRA}} (70–12 v Zimbabwe)
+|-
+! rowspan=3| [[1991 Rugby World Cup|1991]]
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''68''' – [[Ralph Keyes (rugby union)|Ralph Keyes]] ({{ru|IRE}})<br />
+'''66''' – [[Michael Lynagh]] ({{ru|AUS}})<br />
+'''61''' – [[Gavin Hastings]] ({{ru|SCO}})
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''6''' – [[David Campese]] ({{ru|AUS}})<br />
+'''6''' – [[Jean-Baptiste Lafond]] ({{ru|FRA}})
+| Most points in a match ||align=center| '''55''' || {{ru|IRE}} (55–11 v Zimbabwe)
+|-
+| Biggest winning margin ||align=center| '''44''' || {{ru|IRE}} (55–11 v Zimbabwe)<br />{{ru|JPN}} (52–8 v Zimbabwe)
+|- style="border-bottom:2px solid black"
+| Most tries in a match ||align=center| '''9''' || {{ru|JPN}} (52–8 v Zimbabwe)
+|-
+! rowspan=3| [[1995 Rugby World Cup|1995]]
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''112''' – [[Thierry Lacroix]] ({{ru|FRA}})<br />
+'''104''' – [[Gavin Hastings]] ({{ru|SCO}})<br />
+'''{{0}}84''' – [[Andrew Mehrtens]] ({{ru|NZL}})
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''7''' – [[Jonah Lomu]] ({{ru|NZL}})<br />
+'''7''' – [[Marc Ellis (rugby)|Marc Ellis]] ({{ru|NZL}})
+| Most points in a match ||align=center| '''145*'''
+| style="border-bottom:2px solid black" rowspan=3| {{ru|NZL}} (145–17 v Japan)
+|-
+| Biggest winning margin ||align=center| '''128'''
+|- style="border-bottom:2px solid black"
+| Most tries in a match ||align=center| '''21'''
+|-
+! rowspan=3| [[1999 Rugby World Cup|1999]]
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''102''' – [[Gonzalo Quesada]] ({{ru|ARG}})<br />
+'''101''' – [[Matt Burke (rugby union, born 1973)|Matt Burke]] ({{ru|AUS}})<br />
+'''{{0}}97''' – [[Jannie de Beer]] ({{ru|RSA}})
+| style="border-bottom:2px solid black" rowspan=3 valign=top| '''8*''' – [[Jonah Lomu]] ({{ru|NZL}})
+| Most points in a match ||align=center| '''101''' || {{ru|ENG}} (101–10 v Tonga)<br />{{ru|NZL}} (101–3 v Italy)
+|-
+| Biggest winning margin ||align=center| '''98''' || style="border-bottom:2px solid black" rowspan=2| {{ru|NZL}} (101–3 v Italy)
+|- style="border-bottom:2px solid black" 
+| Most tries in a match ||align=center| '''14'''
+|-
+! rowspan=3| [[2003 Rugby World Cup|2003]]
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''113''' – [[Jonny Wilkinson]] ({{ru|ENG}})<br />
+'''103''' – [[Frédéric Michalak]] ({{ru|FRA}})<br />
+'''100''' – [[Elton Flatley]] ({{ru|AUS}})
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''7''' – [[Doug Howlett]] ({{ru|NZL}})<br />
+'''7''' – [[Mils Muliaina]] ({{ru|NZL}})
+| Most points in a match ||align=center| '''142'''
+| style="border-bottom:2px solid black" rowspan=3| {{ru|AUS}} (142–0 v Namibia)
+|-
+| Biggest winning margin ||align=center| '''142*'''
+|- style="border-bottom:2px solid black" 
+| Most tries in a match ||align=center| '''22*'''
+|-
+! rowspan=3| [[2007 Rugby World Cup|2007]]
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''105''' – [[Percy Montgomery]] ({{ru|RSA}})<br />
+'''{{0}}91''' – [[Felipe Contepomi]] ({{ru|ARG}})<br />
+'''{{0}}67''' – [[Jonny Wilkinson]] ({{ru|ENG}})
+| style="border-bottom:2px solid black" rowspan=3 valign=top| '''8*''' – [[Bryan Habana]] ({{ru|RSA}})
+| Most points in a match ||align=center| '''108'''
+| style="border-bottom:2px solid black" rowspan=3| {{ru|NZL}} (108–13 v Portugal)
+|-
+| Biggest winning margin ||align=center| '''95'''
+|- style="border-bottom:2px solid black" 
+| Most tries in a match ||align=center| '''16'''
+|-
+! rowspan=3| [[2011 Rugby World Cup|2011]]
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''62''' – [[Morné Steyn]] ({{ru|RSA}})<br />
+'''52''' – [[James O'Connor (rugby)|James O'Connor]] ({{ru|AUS}})<br />
+'''45''' – [[Kurt Morath]] ({{ru|TON}})
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''6''' – [[Chris Ashton]] ({{ru|ENG}})<br />
+'''6''' – [[Vincent Clerc]] ({{ru|FRA}})
+| Most points in a match ||align=center| '''87'''
+|rowspan=2| {{ru|RSA}} (87–0 v Namibia)
+|-
+| Biggest winning margin ||align=center| '''87'''
+|- style="border-bottom:2px solid black" 
+| Most tries in a match ||align=center| '''12'''|| {{ru|RSA}} (87–0 v Namibia)<br />{{ru|WAL}} (81–7 v Namibia)<br />{{ru|NZL}} (79–15 v Canada)
+|-
+! rowspan=3| [[2015 Rugby World Cup|2015]]
+| style="border-bottom:2px solid black" rowspan=3 valign=top|
+'''97''' – [[Nicolás Sánchez (rugby union)|Nicolás Sánchez]] ({{ru|ARG}})<br />
+'''93''' – [[Handré Pollard]] ({{ru|RSA}})<br />
+'''82''' – [[Bernard Foley]] ({{ru|AUS}})
+| style="border-bottom:2px solid black" rowspan=3 valign=top| '''8*''' – [[Julian Savea]] ({{ru|NZL}})
+| Most points in a match ||align=center| '''65''' || {{ru|AUS}} (65–3 v Uruguay)
+|-
+| Biggest winning margin ||align=center| '''64'''
+| style="border-bottom:2px solid black" rowspan=2| {{ru|RSA}} (64–0 v United States)
+|- style="border-bottom:2px solid black" 
+| Most tries in a match ||align=center| '''10'''
+|-
+! rowspan=3| [[2019 Rugby World Cup|2019]]
+| rowspan=3 valign=top|
+'''69''' – [[Handré Pollard]] ({{ru|RSA}})<br />
+'''58''' – [[Owen Farrell]] ({{ru|ENG}})<br />
+'''54''' – [[Richie Mo'unga]] ({{ru|NZL}})<br />
+| rowspan=3 valign=top| '''7''' – [[Josh Adams (rugby union)|Josh Adams]] ({{ru|WAL}})
+| Most points in a match ||align=center| '''71''' || {{ru|NZL}} (71–9 v Namibia)
+|-
+| Biggest winning margin ||align=center| '''63''' || {{ru|NZL}} (63–0 v Canada)
+|-
+| Most tries in a match ||align=center| '''11''' || {{ru|NZL}} (71–9 v Namibia)
+|-
+! rowspan=3| [[2023 Rugby World Cup|2023]]
+| rowspan=3 valign=top|
+'''75''' – [[Owen Farrell]] ({{ru|ENG}})<br />
+'''74''' – [[Thomas Ramos (rugby union)|Thomas Ramos]] ({{ru|FRA}})<br />
+'''67''' – [[Emiliano Boffelli]] ({{ru|ARG}})
+| rowspan=3 valign=top| 
+'''8*''' – [[Will Jordan (rugby union)|Will Jordan]] ({{ru|NZL}})
+| Most points in a match ||align=center| '''96''' || {{ru|FRA}} (96–0 v Namibia)<br /> {{ru|NZL}} (96–17 v Italy)
+|-
+| Biggest winning margin ||align=center| '''96''' || {{ru|FRA}} (96–0 v Namibia)
+|-
+| Most tries in a match ||align=center| '''14''' || {{ru|FRA}} (96–0 v Namibia)<br /> {{ru|NZL}} (96–17 v Italy)
+|}
+Note: '''*''' denotes an all-time record
+
+==Miscellaneous==
+
+=== Winning coaches and captains ===
+A foreign coach has never managed a World Cup-winning team.
+
+{| class="wikitable" 
+|-
+! Year
+! Host(s)
+! Champion
+! Winning coach
+! Winning captain
+|-
+| [[1987 Rugby World Cup|1987]]
+| {{flagcountry|AUS}}<br />'''{{flagcountry|NZL}}'''
+| {{ru|NZL}}
+| {{flagicon|NZL}} [[Brian Lochore]]
+| {{flagicon|NZL}} [[David Kirk]]
+|-
+| [[1991 Rugby World Cup|1991]]
+| '''{{flagcountry|ENG}}'''<br />{{flagcountry|FRA}}<br />{{flagcountry|IRL}}<br />{{flagcountry|SCO}}<br />{{flagcountry|WAL}}
+| {{ru|AUS}}
+| {{flagicon|AUS}} [[Bob Dwyer]]
+| {{flagicon|AUS}} [[Nick Farr-Jones]]
+|-
+| [[1995 Rugby World Cup|1995]]
+| {{flagcountry|RSA}}
+| {{ru|RSA}}
+| {{flagicon|RSA}} [[Kitch Christie]]
+| {{flagicon|RSA}} [[Francois Pienaar]]
+|-
+| [[1999 Rugby World Cup|1999]]
+| '''{{flagcountry|WAL}}'''<br />{{flagcountry|ENG}}<br />{{flagcountry|FRA}}<br />{{flagcountry|IRE}}<br />{{flagcountry|SCO}}
+| {{ru|AUS}}
+| {{flagicon|AUS}} [[Rod MacQueen]]
+| {{flagicon|AUS}} [[John Eales]]
+|-
+| [[2003 Rugby World Cup|2003]]
+| {{flagcountry|AUS}}
+| {{ru|ENG}}
+| {{flagicon|ENG}} [[Clive Woodward]]
+| {{flagicon|ENG}} [[Martin Johnson (rugby union)|Martin Johnson]]
+|-
+| [[2007 Rugby World Cup|2007]]
+| '''{{flagcountry|FRA}}'''<br />{{flagcountry|SCO}}<br />{{flagcountry|WAL}}
+| {{ru|RSA}}
+| {{flagicon|RSA}} [[Jake White]]
+| {{flagicon|RSA}} [[John Smit]]
+|-
+| [[2011 Rugby World Cup|2011]]
+| {{flagcountry|NZL}}
+| {{ru|NZL}}
+| {{flagicon|NZL}} [[Graham Henry]]
+| {{flagicon|NZL}} [[Richie McCaw]]
+|-
+| [[2015 Rugby World Cup|2015]]
+| '''{{flagcountry|ENG}}'''<br />{{flagcountry|WAL}}
+| {{ru|NZL}} 
+| {{flagicon|NZL}} [[Steve Hansen]] 
+| {{flagicon|NZL}} [[Richie McCaw]]
+|-
+| [[2019 Rugby World Cup|2019]]
+| {{flagcountry|JPN}}
+| {{ru|RSA}} 
+| {{flagicon|RSA}} [[Rassie Erasmus]] 
+| {{flagicon|RSA}} [[Siya Kolisi]]
+|-
+| [[2023 Rugby World Cup|2023]]
+| {{flagcountry|FRA}}
+| {{ru|RSA}}
+| {{flagicon|RSA}} [[Jacques Nienaber]] 
+| {{flagicon|RSA}} [[Siya Kolisi]]
+|}
+
+=== Discipline ===
+{{further|List of Rugby World Cup red cards}}
+
+{|class="wikitable" style="text-align:center"
+|-
+!scope=col|Team
+!scope=col|Red cards
+!scope=col|Tournaments
+|-
+|align="left"|{{ru|Canada}}
+|4||align="left"|[[1995 Rugby World Cup|1995]], [[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2019 Rugby World Cup|2019]]
+|-
+|align="left"|{{ru|Samoa}}
+|4||align="left"|[[1991 Rugby World Cup|1991]], [[2011 Rugby World Cup|2011]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|-
+|align="left"|{{ru|Tonga}} 
+|4||align="left"|[[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2007 Rugby World Cup|2007]], [[2023 Rugby World Cup|2023]]
+|-
+|align="left"|{{ru|Namibia}}
+|3||align="left"|[[2007 Rugby World Cup|2007]], [[2023 Rugby World Cup|2023]], [[2023 Rugby World Cup|2023]]
+|-
+|align="left"|{{ru|Argentina}} 
+|2||align="left"|[[1991 Rugby World Cup|1991]], [[2019 Rugby World Cup|2019]]
+|-
+|align="left"|{{ru|New Zealand}} 
+|2||align="left"|[[2023 Rugby World Cup|2023]], [[2023 Rugby World Cup|2023]]
+|-
+|align="left"|{{ru|South Africa}}
+|2||align="left"|[[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]]
+|-
+|align="left"|{{ru|Uruguay}}
+|2||align="left"|[[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]]
+|-
+|align="left"|{{ru|Wales}} 
+|2||align="left"|[[1987 Rugby World Cup|1987]], [[2011 Rugby World Cup|2011]]
+|-
+|}
+
+=== Draws ===
+
+{| class=wikitable
+|-
+! Team
+! Score
+! Opponent
+! Date
+|-
+| {{ru|FRA}}
+| 20–20
+| {{ru|SCO}}
+| 23 May 1987
+|-
+| {{ru|CAN}}
+| 12–12
+| {{ru|JPN}}
+| 12 September 2007
+|-
+| {{ru|CAN}}
+| 23–23
+| {{ru|JPN}}
+| 27 September 2011
+|-
+| {{ru|NZL}}
+| 0–0<sup>([[#Typhoon Hagibis|1]])</sup>
+| {{ru|ITA}}
+| 12 October 2019
+|-
+| {{ru|ENG}}
+| 0–0<sup>([[#Typhoon Hagibis|1]])</sup>
+| {{ru|FRA}}
+| 12 October 2019
+|-
+| {{ru|NAM}}
+| 0–0<sup>([[#Typhoon Hagibis|1]])</sup>
+| {{ru|CAN}}
+| 13 October 2019
+|-
+| {{ru|GEO}}
+| 18–18
+| {{ru|POR}}
+| 23 September 2023
+|}
+{{plainlist|
+*{{anchor|Typhoon Hagibis}}<sup>1</sup>{{small| During the [[2019 Rugby World Cup|2019 tournament]], [[Typhoon Hagibis]] caused the matches New Zealand v Italy, England v France and Namibia v Canada to be cancelled and recorded as 0–0 draws.}}
+}}
+
+=== Nil points ===
+
+{| class="wikitable"
+|-
+! Team 
+! Score
+! Opponent
+! Date
+|-
+| {{ru|CIV}}
+| 0–'''89'''
+| {{ru|SCO}}
+| 26 May 1995
+|-
+| {{ru|CAN}}
+| 0–'''20'''
+| {{ru|RSA}}
+| 3 June 1995
+|-
+| {{ru|ESP}}
+| 0–'''48'''
+| {{ru|SCO}}
+| 16 October 1999
+|-
+| {{ru|NAM}}
+| 0–'''142'''
+| {{ru|AUS}}
+| 25 October 2003
+|-
+|-
+| {{ru|ENG}}
+| 0–'''36'''
+| {{ru|RSA}}
+| 14 September 2007
+|-
+| {{ru|ROM}}
+| 0–'''42'''
+| {{ru|SCO}}
+| 18 September 2007
+|-
+| {{ru|SCO}}
+| 0–'''40'''
+| {{ru|NZL}}
+| 23 September 2007
+|-
+| {{ru|NAM}}
+| 0–'''30'''
+| {{ru|GEO}}
+| 26 September 2007
+|-
+| {{ru|NAM}}
+| 0–'''87'''
+| {{ru|RSA}}
+| 22 September 2011
+|-
+| {{ru|FIJ}}
+| 0–'''66'''
+| {{ru|WAL}}
+| 2 October 2011
+|-
+| {{ru|USA}}
+| 0–'''64'''
+| {{ru|RSA}}
+| 7 October 2015
+|-
+| {{ru|SAM}}
+| 0–'''34'''
+| {{ru|SCO}}
+| 30 September 2019
+|-
+| {{ru|CAN}}
+| 0–'''63'''
+| {{ru|NZL}}
+| 2 October 2019
+|-
+| {{ru|RUS}}
+| 0–'''35'''
+| {{ru|IRE}}
+| 3 October 2019
+|-
+| {{ru|RUS}}
+| 0–'''61'''
+| {{ru|SCO}}
+| 9 October 2019
+|-
+| {{ru|NZL}}
+| 0–0<sup>([[#Typhoon Hagibis|1]])</sup>
+| {{ru|ITA}}
+| 12 October 2019
+|-
+| {{ru|ENG}}
+| 0–0<sup>([[#Typhoon Hagibis|1]])</sup>
+| {{ru|FRA}}
+| 12 October 2019
+|-
+| {{ru|NAM}}
+| 0–0<sup>([[#Typhoon Hagibis|1]])</sup>
+| {{ru|CAN}}
+| 13 October 2019
+|-
+| {{ru|ROM}}
+| 0–'''76'''
+| {{ru|SAF}}
+| 17 September 2023
+|-
+| {{ru|NAM}}
+| 0–'''96'''
+| {{ru|FRA}}
+| 21 September 2023
+|-
+| {{ru|CHI}}
+| 0–'''71'''
+| {{ru|ENG}}
+| 23 September 2023
+|-
+| {{ru|ROM}}
+| 0–'''84'''
+| {{ru|SCO}}
+| 30 September 2023
+|-
+| {{ru|URU}}
+| 0–'''73'''
+| {{ru|NZL}}
+| 5 October 2023
+|}
+{{plainlist|
+*{{anchor|Typhoon Hagibis}}<sup>1</sup><small> During the [[2019 Rugby World Cup|2019 tournament]], [[Typhoon Hagibis]] caused the matches New Zealand v Italy, England v France and Namibia v Canada to be cancelled and recorded as 0–0 draws.</small>
+}}
+
+=== Highest attendance ===
+*89,267 – {{ru|Ireland}} v {{ru|Romania}}, 27 September [[2015 Rugby World Cup Pool D#Ireland vs Romania|2015]] at [[Wembley Stadium]], London, England<ref>{{cite web|url=http://stats.espnscrum.com/scrum/rugby/records/team/highest_attendance.html?id=17;type=trophy |title=Rugby World Cup - Highest attendance |publisher=[[ESPN]] |date=2 November 2019 |access-date=2 November 2019}}</ref>
+
+=== Highest attendance (final) ===
+* 82,957 – {{ru|Australia}} v {{ru|England}}, 22 November [[2003 Rugby World Cup final|2003]] at [[Stadium Australia]], Sydney, Australia<ref>[https://www.austadiums.com/sport/event/1071 2003 Rugby World Cup Final]</ref>
+
+=== Lowest attendance ===
+*2,000 – {{ru|Argentina}} v {{ru|Italy}}, 28 May [[1987 Rugby World Cup Pool 3|1987]] at [[Lancaster Park]], Christchurch, New Zealand
+
+=== Hosting ===
+[[File:Eden_Park_cropped.jpg|thumbnail|Eden Park was the first stadium to host the World Cup Final twice.]]
+
+*[[Eden Park]] in [[Auckland]] Park was the first stadium to host the [[Rugby World Cup Final]] twice, with the 1987 and 2011 finals having been held there. [[Twickenham Stadium]] has also hosted the final twice in 1991 and 2015, as has the [[Stade de France]] in 2007 and 2023.
+*The record for the city that has been a part of the most Rugby World Cups is currently four, and is held by [[Cardiff]], which hosted matches in [[1991 Rugby World Cup|1991]], [[1999 Rugby World Cup|1999]], [[2007 Rugby World Cup|2007]] and [[2015 Rugby World Cup|2015]]. If the definition of "city" includes its metropolitan area, [[Paris]] has also hosted matches in four tournaments. Paris hosted matches in 1991; its adjacent suburb of [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]] hosted matches in 1999 and 2023; and both cities hosted matches in 2007. [[Edinburgh]] and [[Toulouse]] have hosted matches in three tournaments.
+
+=== Head-to-head ===
+The highest number of head-to-head matches between two nations currently stands at eight, encompassing four teams ([[Australia national rugby union team|Australia]], [[France national rugby union team|France]], [[New Zealand national rugby union team|New Zealand]], and [[Wales national rugby union team|Wales]]) in two [[Rugby World Cup]] [[Rivalry#Sports|rivalries]]. The following table lists the head-to-head statistics of the Rugby World Cup, ranging from the inaugural tournament in [[1987 Rugby World Cup|1987]] to the latest tournament in [[2023 Rugby World Cup|2023]]. It is organised first numerically, with the more head-to-head meetings appearing at the top of the table and the fewer meetings, such as one meeting between two nations appearing at the bottom of the table, and second, alphabetically by teams.
+
+{| class="wikitable"
+|-
+!Legend
+|-
+|R1
+|Round 1 (pool stage)
+|-
+|R2
+|Round 2 (quarter-final playoff / last 16)<sup>([[#R2|2]])</sup>
+|-
+|QF
+|Quarter-finals
+|-
+|SF
+|Semi-finals
+|-
+|3rd
+|3rd/4th place playoff (bronze final)
+|-
+|F
+|Final
+|}
+
+{| class="wikitable" style="text-align: center"
+|-
+!width=100px | Games
+!width=150px | Team 1
+!width=100px | Head-to-head wins (draws)
+!width=150px | Team 2
+!width=200px | Year(s)
+!width=200px | Rounds
+|-
+|rowspan=2|'''<big>8</big>'''
+|align=left|{{ru|AUS}} 
+| 5–3 
+|align=left|{{ru|WAL}}
+|align=left| {{nowrap|[[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1999 Rugby World Cup|1999]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]}}
+|align=left|[[1987 Rugby World Cup#Third-place play-off|3rd]], [[1991 Rugby World Cup#Pool 3|R1]], [[1999 Rugby World Cup#Quarter-finals|QF]], [[2007 Rugby World Cup Pool B|R1]], [[2011 Rugby World Cup#Bronze final: Wales vs Australia|3rd]], [[2015 Rugby World Cup Pool A|R1]], [[2019 Rugby World Cup Pool D|R1]], [[2023 Rugby World Cup Pool C|R1]]
+|-
+|align=left|{{ru|FRA}}
+| 3–5
+|align=left|{{ru|NZL}}
+|align=left| [[1987 Rugby World Cup|1987]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]], [[2023 Rugby World Cup|2023]]
+|align=left| [[1987 Rugby World Cup#Final|F]], [[1999 Rugby World Cup#Semi-finals|SF]], [[2003 Rugby World Cup#Third-place play-off|3rd]], [[2007 Rugby World Cup#Quarter-finals|QF]], [[2011 Rugby World Cup Pool A|R1]], [[2011 Rugby World Cup#Final: France vs New Zealand|F]], [[2015 Rugby World Cup#Quarter-finals|QF]], [[2023 Rugby World Cup Pool A|R1]]
+|-
+|rowspan=2|'''<big>7</big>'''
+|align=left|{{ru|AUS}} 
+| 3–4
+|align=left|{{ru|ENG}}
+|align=left| [[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]]
+|align=left| [[1987 Rugby World Cup#Pool 1|R1]], [[1991 Rugby World Cup#Final|F]], [[1995 Rugby World Cup#Quarter-finals|QF]], [[2003 Rugby World Cup#Final 2|F]], [[2007 Rugby World Cup#Quarter-finals|QF]], [[2015 Rugby World Cup Pool A|R1]], [[2019 Rugby World Cup#Quarter-finals|QF]]
+|-
+|align=left|{{ru|ITA}}
+| 0–6 <br> (& 1 Draw)<sup>([[#Typhoon Hagibis|3]])</sup>
+|align=left|{{ru|NZL}}
+|align=left|[[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|align=left|[[1987 Rugby World Cup#Pool 3|R1]], [[1991 Rugby World Cup#Pool 1|R1]], [[1999 Rugby World Cup#Pool B|R1]], [[2003 Rugby World Cup#Pool D|R1]], [[2007 Rugby World Cup Pool C|R1]], [[2019 Rugby World Cup Pool B|R1]], [[2023 Rugby World Cup Pool B|R1]]
+|-
+|rowspan=3|'''<big>6</big>'''
+|align=left|{{ru|ENG}}
+| 3–2 <br> (& 1 Draw)<sup>([[#Typhoon Hagibis|3]])</sup>
+|align=left|{{ru|FRA}}
+|align=left|[[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]], [[2019 Rugby World Cup|2019]]
+|align=left|[[1991 Rugby World Cup#Quarter-finals|QF]], [[1995 Rugby World Cup#Third-place play-off|3rd]], [[2003 Rugby World Cup#Semi-finals|SF]], [[2007 Rugby World Cup#Semi-finals|SF]], [[2011 Rugby World Cup#Quarter-finals|QF]], [[2019 Rugby World Cup Pool C|R1]]
+|-
+|align=left| {{ru|ENG}}
+| 1–5
+|align=left|{{ru|RSA}}
+|align=left|[[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2007 Rugby World Cup|2007]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|align=left|[[1999 Rugby World Cup#Quarter-finals|QF]], [[2003 Rugby World Cup#Pool C|R1]], [[2007 Rugby World Cup Pool A|R1]], [[2007 Rugby World Cup Final|F]], [[2019 Rugby World Cup#Final|F]], [[2023 Rugby World Cup#Semi-finals|SF]]
+|-
+|align=left|{{ru|NZL}}
+| 3–3
+|align=left|{{ru|RSA}}
+|align=left|[[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|align=left|[[1995 Rugby World Cup final|F]], [[1999 Rugby World Cup#Third-place play-off|3rd]], [[2003 Rugby World Cup#Quarter-finals|QF]], [[2015 Rugby World Cup#Semi-finals|SF]], [[2019 Rugby World Cup Pool B|R1]], [[2023 Rugby World Cup#Final|F]]
+|-
+|rowspan=5|'''<big>5</big>'''
+|align=left|{{ru|ARG}}
+| 0–5
+|align=left|{{ru|ENG}}
+|align=left|[[1995 Rugby World Cup|1995]], [[2011 Rugby World Cup|2011]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]], [[2023 Rugby World Cup|2023]]
+|align=left|[[1995 Rugby World Cup#Pool B|R1]], [[2011 Rugby World Cup Pool B|R1]], [[2019 Rugby World Cup Pool C|R1]], [[2023 Rugby World Cup Pool D|R1]], [[2023 Rugby World Cup|3rd]]
+|-
+|align=left|{{ru|AUS}}
+| 4–1 
+|align=left|{{ru|IRE}}
+|align=left|[[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2011 Rugby World Cup|2011]]
+|align=left|[[1987 Rugby World Cup#Quarter-finals|QF]], [[1991 Rugby World Cup#Quarter-finals|QF]], [[1999 Rugby World Cup#Pool E|R1]], [[2003 Rugby World Cup#Pool A|R1]], [[2011 Rugby World Cup Pool C|R1]]
+|-
+|align=left|{{ru|FIJ}}
+| 1–4 
+|align=left|{{ru|WAL}}
+|align=left|[[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]], [[2019 Rugby World Cup|2019]], [[2023 Rugby World Cup|2023]]
+|align=left|[[2007 Rugby World Cup Pool B|R1]], [[2011 Rugby World Cup Pool D|R1]], [[2015 Rugby World Cup Pool A|R1]], [[2019 Rugby World Cup Pool D|R1]], [[2023 Rugby World Cup Pool C|R1]]
+|-
+|align=left|{{ru|NZL}}
+| 5–0 
+|align=left|{{ru|SCO}}
+|align=left|[[1987 Rugby World Cup|1987]], [[1991 Rugby World Cup|1991]], [[1995 Rugby World Cup|1995]], [[1999 Rugby World Cup|1999]], [[2007 Rugby World Cup|2007]]
+|align=left|[[1987 Rugby World Cup#Quarter-finals|QF]], [[1991 Rugby World Cup#Third-place play-off|3rd]], [[1995 Rugby World Cup#Quarter-finals|QF]], [[1999 Rugby World Cup#Quarter-finals|QF]], [[2007 Rugby World Cup Pool C|R1]]
+|-
+|align=left|{{ru|SAM}}<sup>([[#SAM|1]])</sup>
+| 0–5 
+|align=left|{{ru|RSA}}
+|align=left|[[1995 Rugby World Cup|1995]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]], [[2011 Rugby World Cup|2011]], [[2015 Rugby World Cup|2015]]
+|align=left|[[1995 Rugby World Cup#Quarter-finals|QF]], [[2003 Rugby World Cup#Pool C|R1]], [[2007 Rugby World Cup Pool A|R1]], [[2011 Rugby World Cup Pool D|R1]], [[2015 Rugby World Cup Pool B|R1]]
+|-
+|}
+
+{{plainlist|
+*{{anchor|SAM}}<sup>1</sup><small> Samoa competed as Western Samoa from 1924 to 1997.</small>
+*{{anchor|R2}}<sup>2</sup><small> Round 2 was introduced at the 1999 Rugby World Cup and consisted of the five group runners-up and the best third-placed team playoff for one of three places in the quarter-final. It was discontinued for the 2003 to 2023 Rugby World Cups. Round 2 will be re-introduced for the [[2027 Men's Rugby World Cup|2027 Rugby World Cup]], and will consist of the last 16 teams made up from the top two placed teams from six groups and the best four third-placed teams.<ref>{{cite news |last=Phillips |first=Mitch |date=24 October 2023 |title=World Cup expands to 24 teams amid radical new calendar |url=https://www.reuters.com/sports/world-rugby-announce-expanded-world-cup-new-nations-league-2023-10-24/ |work=[[Reuters]] |access-date=16 November 2023 |url-status=live |archive-url=https://web.archive.org/web/20231031131110/https://www.reuters.com/sports/world-rugby-announce-expanded-world-cup-new-nations-league-2023-10-24/ |archive-date=31 October 2023 }}</ref></small>
+*{{anchor|Typhoon Hagibis}}<sup>3</sup><small> Three Rugby World Cup 2019 matches; involving Namibia versus Canada, New Zealand versus Italy, and England versus France, were cancelled and recorded as a 0–0 draw due to [[Typhoon Hagibis]].</small>
+}}
+
+==== Tier 1 nations head-to-head ====
+The table below shows the current dominance in the head-to-head meetings of Tier 1 nations at the [[Rugby World Cup]] from the first tournament in [[1987 Rugby World Cup|1987]] to the latest tournament in [[2023 Rugby World Cup|2023]] (as of 20 October). Currently, [[New Zealand national rugby union team|New Zealand]] has the best record amongst the other Tier 1 nations, achieving more wins and culminating in a superior head-to-head record over seven other Tier 1 nations, and equal with two others ([[Australia national rugby union team|Australia]] and [[South Africa national rugby union team|South Africa]]). [[Italy national rugby union team|Italy]] are at the bottom of the table, and have an inferior head-to-head record with eight other Tier 1 nations, and parity with one other nation ([[Argentina national rugby union team|Argentina]]). However, as of the 2023 tournament Japan are the bottom team. There are two Tier 1 head-to-head meetings that have never been played at a Rugby World Cup: [[England national rugby union team|England]]–[[Ireland national rugby union team|Ireland]], and [[Scotland national rugby union team|Scotland]]–[[Wales national rugby union team|Wales]].
+
+{| class="wikitable" style="text-align:center; width:85%"
+|-
+!style="width:125px" rowspan=2|Team ranking
+!colspan=11| Tier 1 nations head-to-head wins (draws)
+!rowspan=13|
+!colspan=4| Total head-to-head meetings
+|-
+!style="width:140px"|[[Argentina national rugby union team|Argentina]]
+!style="width:140px"|[[Australia national rugby union team|Australia]]
+!style="width:140px"|[[England national rugby union team|England]]
+!style="width:140px"|[[France national rugby union team|France]]
+!style="width:140px"|[[Ireland national rugby union team|Ireland]]
+!style="width:140px"|[[Italy national rugby union team|Italy]]
+!style="width:140px"|[[Japan national rugby union team|Japan]]
+!style="width:140px"|{{nowrap|[[New Zealand national rugby union team|New Zealand]]}}
+!style="width:140px"|[[Scotland national rugby union team|Scotland]]
+!style="width:140px"|{{nowrap|[[South Africa national rugby union team|South Africa]]}}
+!style="width:140px"|[[Wales national rugby union team|Wales]]
+!style=width:95px|{{nowrap|Superior}}
+!style=width:95px|{{nowrap|Equal}}
+!style=width:95px|{{nowrap|Inferior}}
+!style=width:95px|{{nowrap|Never played}}
+|-
+| style="text-align:Left;" | {{nowrap|{{ru|NZL}}}}
+| style="background: #BBF3BB;"| 4–0
+| style="background: #FFFFBB;"| 2–2
+| style="background: #BBF3BB;"| 3–1
+| style="background: #BBF3BB;"| 5–3
+| style="background: #BBF3BB;"| 3–0
+| style="background: #BBF3BB;"| {{nowrap|6–0 <small>(1)</small><sup>([[#Typhoon Hagibis|1]])</sup>}}
+| style="background: #BBF3BB;"| 2–0
+| style="background: #ccccff" | —
+| style="background: #BBF3BB;"| 5–0
+| style="background: #FFFFBB;"| 3–3
+| style="background: #BBF3BB;"| 4–0
+| 8
+| 2
+| 0 
+| {{N/A}}
+|-
+| style="text-align:Left;" | {{ru|AUS}}
+| style="background: #BBF3BB" | 3–0
+| style="background: #ccccff" | —
+| style="background: #FFBBBB" | 3–4
+| style="background: #FFFFBB" | 1–1
+| style="background: #BBF3BB" | 4–1
+| style="background: #BBF3BB" | 1–0
+| style="background: #BBF3BB;"| 2–0
+| style="background: #FFFFBB" | 2–2
+| style="background: #BBF3BB" | 2–0
+| style="background: #BBF3BB" | 2–1
+| style="background: #BBF3BB" | 5–3
+| 7
+| 2
+| 1
+| {{N/A}}
+|-
+| style="text-align:Left;" | {{ru|RSA}}
+| style="background: #BBF3BB;"| 2–0
+| style="background: #FFBBBB" | 1–2
+| style="background: #BBF3BB;"| 5–1
+| style="background: #BBF3BB;"| 2–0
+| style="background: #FFBBBB" | 0–1
+| style="background: #BBF3BB;"| 1–0
+| style="background: #FFFFBB" | 1–1
+| style="background: #FFFFBB" | 3–3
+| style="background: #BBF3BB;"| 3–0
+| style="background: #ccccff" | —
+| style="background: #BBF3BB;"| 3–0
+| 6
+| 2
+| 2
+| {{N/A}}
+|-
+| style="text-align:Left;" | {{ru|ENG}}
+| style="background: #BBF3BB;"| 5–0
+| style="background: #BBF3BB;"| 4–3
+| style="background: #ccccff" | —
+| style="background: #BBF3BB;"| {{nowrap|3–2 <small>(1)</small><sup>([[#Typhoon Hagibis|1]])</sup>}}
+| {{N/A|''NP''}}
+| style="background: #BBF3BB;"| 3–0
+| style="background: #BBF3BB;"| 1–0
+| style="background: #FFBBBB" | 1–3
+| style="background: #BBF3BB;"| 2–0
+| style="background: #FFBBBB" | 1–5
+| style="background: #FFBBBB" | 1–2
+| 6
+| 0
+| 3
+| 1
+|-
+| style="text-align:Left;" | {{ru|WAL}}
+| style="background: #BBF3BB;"| 2–1
+| style="background: #FFBBBB" | 3–5
+| style="background: #BBF3BB;"| 2–1
+| style="background: #FFFFBB" | 1–1
+| style="background: #BBF3BB;"| 2–1
+| style="background: #BBF3BB;"| 1–0
+| style="background: #BBF3BB;"| 3–0
+| style="background: #FFBBBB" | 0–4
+| {{N/A|''NP''}}
+| style="background: #FFBBBB" | 0–3
+| style="background: #ccccff" | —
+| 5
+| 1
+| 3
+| 1
+|-
+| style="text-align:Left;" | {{ru|FRA}}
+| style="background: #FFFFBB" | 2–2
+| style="background: #FFFFBB" | 1–1
+| style="background: #FFBBBB" | {{nowrap|2–3 <small>(1)</small><sup>([[#Typhoon Hagibis|1]])</sup>}}
+| style="background: #ccccff" | —
+| style="background: #BBF3BB;"| 3–1
+| style="background: #BBF3BB;"| 2–0
+| style="background: #BBF3BB;"| 2–0
+| style="background: #FFBBBB" | 3–5
+| style="background: #BBF3BB;"| {{nowrap|2–0 <small>(1)</small>}}
+| style="background: #FFBBBB" | 0–2
+| style="background: #FFFFBB" | 1–1
+| 4
+| 3
+| 3
+| {{N/A}}
+|-
+| style="text-align:Left;" | {{ru|IRE}}
+| style="background: #FFBBBB" | 1–3
+| style="background: #FFBBBB" | 1–4
+| {{N/A|''NP''}}
+| style="background: #FFBBBB" | 1–3
+| style="background: #ccccff" | —
+| style="background: #BBF3BB;"| 2–0
+| style="background: #BBF3BB;"| 2–1
+| style="background: #FFBBBB" | 0–3
+| style="background: #BBF3BB;"| 2–1
+| style="background: #BBF3BB;"| 1–0
+| style="background: #FFBBBB" | 1–2
+| 4
+| 0
+| 5
+| 1
+|-
+| style="text-align:Left;" | {{ru|ARG}}
+| style="background: #ccccff" | —
+| style="background: #FFBBBB" | 0–3
+| style="background: #FFBBBB" | 0–5
+| style="background: #FFFFBB" | 2–2
+| style="background: #BBF3BB;"| 3–1
+| style="background: #FFFFBB" | 1–1
+| style="background: #BBF3BB;"| 2–0
+| style="background: #FFBBBB" | 0–4
+| style="background: #BBF3BB;"| 2–0
+| style="background: #FFBBBB" | 0–2
+| style="background: #FFBBBB" | 1–2
+| 3
+| 2
+| 5
+| 0
+|-
+| style="text-align:Left;" | {{ru|SCO}}
+| style="background: #FFBBBB" | 0–2
+| style="background: #FFBBBB" | 0–2
+| style="background: #FFBBBB" | 0–2
+| style="background: #FFBBBB" | {{nowrap|0–2 <small>(1)</small>}}
+| style="background: #FFBBBB" | 1–2
+| style="background: #BBF3BB;"| 1–0
+| style="background: #BBF3BB;"| 3–1
+| style="background: #FFBBBB" | 0–5
+| style="background: #ccccff" | —
+| style="background: #FFBBBB" | 0–3
+| {{N/A|''NP''}}
+| 2
+| 0
+| 7
+| 1
+|-
+| style="text-align:Left;" | {{ru|JPN}}
+| style="background: #FFBBBB" | 0–2
+| style="background: #FFBBBB" | 0–2
+| style="background: #FFBBBB" | 0–2
+| style="background: #FFBBBB" | 0–2
+| style="background: #FFBBBB" | 1–2
+| {{N/A|''NP''}}
+| style="background: #ccccff" | —
+| style="background: #FFBBBB" | 0–2
+| style="background: #FFBBBB" | 1–3
+| style="background: #FFFFBB" | 1–1
+| style="background: #FFBBBB" | 0–3
+| 0
+| 1
+| 8
+| 1
+|-
+| style="text-align:Left;" | {{ru|ITA}}
+| style="background: #FFFFBB" | 1–1
+| style="background: #FFBBBB" | 0–1
+| style="background: #FFBBBB" | 0–3
+| style="background: #FFBBBB" | 0–2
+| style="background: #FFBBBB" | 0–2
+| style="background: #ccccff" | —
+| {{N/A|''NP''}}
+| style="background: #FFBBBB" | {{nowrap|0–6 <small>(1)</small><sup>([[#Typhoon Hagibis|1]])</sup>}}
+| style="background: #FFBBBB" | 0–1
+| style="background: #FFBBBB" | 0–1
+| style="background: #FFBBBB" | 0–1
+| 0
+| 1
+| 8
+| 1
+|}
+{{plainlist|
+*{{anchor|Typhoon Hagibis}}<sup>1</sup><small> Two Tier 1 [[2019 Rugby World Cup|Rugby World Cup 2019]] matches; involving New Zealand versus Italy, and England versus France, were cancelled and recorded as a 0–0 draw due to [[Typhoon Hagibis]].</small>
+}}
+
+=== Trivia ===
+*England became the first sole host nation to be eliminated in the pool stage of a [[Rugby World Cup]] in 2015. Wales, as joint hosts, were eliminated in the pool stage in 1991.
+*Four match-ups have occurred twice in the same World Cup:
+**2007 Argentina defeated France in the opening match 17–12, and went on to beat them 34–10 in the bronze final. 
+**2007 South Africa defeated England 36–0 in the pool stage, and went on to play them in the final, winning 15–6. 
+**2011 New Zealand defeated France 37–17 in the pool stage, and went on to play them in the final, winning 8–7.
+**2023 England defeated Argentina 27–10 in the pool stage, and went on to beat them 26–23 in the bronze final.
+*There are two tier 1 head-to-head meetings that have never been played at a [[Rugby World Cup]]: [[England national rugby union team|England]] versus [[Ireland national rugby union team|Ireland]], and [[Scotland national rugby union team|Scotland]] versus [[Wales national rugby union team|Wales]].
+*Four nations have reached a [[Rugby World Cup Final]] having previously lost a game in that tournament: England in 1991 and 2007, South Africa in 2019 and 2023, New Zealand in 2023 and France in 2011, the latter being the only team to reach the final having lost two games. The 2023 final is the only one with both teams having previously lost a game in the tournament.
+*New Zealand have been involved in four World Cup opening matches, the most by any other team. The All Blacks defeated Italy in 1987, England in 1991, and Tonga in 2011, but lost to France in 2023. Argentina have participated in three World Cup opening matches. The Pumas participated in the first three World Cup openers of the professional era – losing to Wales and Australia in 1999 and 2003 respectively, and defeating France in 2007.
+*France and New Zealand are the only nations to have made it to at least the quarter-finals of every Rugby World Cup. Furthermore, South Africa have also done so since they started participating in 1995.
+*France is the only non English-speaking country to have made it to a Rugby World Cup final – in 1987, 1999 and 2011. It is also the only country to reach a final without ever winning it.
+*The only Tier 2 country to have participated in every Rugby World Cup is Japan, with Canada only failing to qualify for the first time in 2023, making it to one quarter-final in 1991 and Japan reaching the quarter finals in 2019. 
+*Japan is the only team to have won three matches in a tournament where they did not progress beyond the pool stage, losing out to South Africa and Scotland in their pool by points difference in 2015.
+*Among the Tier 1 nations, Italy is the only one not to have made it to at least the quarter-finals in any Rugby World Cup. Conversely, four Tier 2 countries have made it to the quarter-finals – Fiji in 1987, 2007 and 2023, Samoa (then called Western Samoa) in 1991 and 1995, Canada in 1991 and Japan in 2019. 
+**Arguably, Argentina in 1999 could also be regarded as having been a Tier 2 nation at the time, since they were not yet in the southern-hemisphere Rugby Championship: although official "Tiers" were not recognised at the time, this match can be regarded as the start of their actual period of achievement which led to them later earning recognition at the top table. Similarly, Japan's achievements in 2019, added to their defeat of South Africa in 2015, were eventually recognised by formally admitting them to the definition of a Tier 1 nation in May 2023.
+*The [[2015 Rugby World Cup Final|2015 final]] between Australia and New Zealand is the highest scoring Rugby World Cup final, with New Zealand winning that match 34–17.
+*After the [[2015 Rugby World Cup Final|2015 final]], New Zealand became the first team to win the Rugby World Cup three times, and the first team to have successfully defended its title. South Africa became the second team to defend its title in [[2023 Rugby World Cup Final|2023]] and the first to win the Rugby World Cup on four occasions, as well as the first to win successive titles away from home.
+*Wales have had the most upsets in the Rugby World Cup, having lost to Samoa both in 1991 and 1999, then losing to Fiji in 2007. Other major upsets include Ireland and Scotland losing to Japan in 2019, France losing to Tonga in 2011, South Africa losing to Japan in 2015 and Australia losing to Fiji in 2023. Argentina's defeat of Ireland in 1999 was also regarded as an upset at the time.
+*South Africa became the first nation to win a World Cup after losing a match in the pool stage in 2019 and did so again in 2023.
+*Scotland were the last Tier 1 team to experience defeat in the pool stages of a Rugby World Cup. They were defeated by [[Ireland national rugby union team|Ireland]] in [[2023 Rugby World Cup|2023]].<ref>{{cite web|url=https://www.bbc.com/sport/rugby-union/67043564 |title=Rugby World Cup: Ireland 36-14 Scotland - Imperious Irish crush Scots to reach quarter-finals |publisher=[[BBC]] |date=8 September 2023 |access-date=7 October 2023}}</ref>
+
+==See also==
+{{Portal|Sports}}
+*[[List of rugby union playing countries]]
+*[[List of Rugby World Cup hat-tricks]]
+*[[Rugby World Cup try scorers]]
+*[[Rugby World Cup Overall Record]]
+*[[National team appearances in the Rugby World Cup]]
+*[[List of winners of multiple Rugby World Cups]]
+*[[List of Rugby World Cup finals]]
+*[[Rugby World Cup]]
+*[[International rugby union team records]]
+*[[International rugby union player records]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.rugbyworldcup.com/statistics/team-stats All time RWC team statistics] on Rugbyworldcup.com
+*[https://www.rugbyworldcup.com/statistics/player-stats All time RWC player statistics] on Rugbyworldcup.com
+*[http://stats.espnscrum.com/scrum/rugby/records/index.html?id=17;type=trophy IRB Rugby World Cup Records] on Espnscrum.com
+
+{{Rugby Union World Cup}}
+
+[[Category:Rugby World Cup records and statistics| ]]

@@ -1,0 +1,1071 @@
+{{short description|Premier League records}}
+{{for|the all time English league statistics|Football records and statistics in England}}
+{{Use British English|date=June 2015}}
+{{Use dmy dates|date=October 2020}}
+The [[Premier League]] is an English professional league for [[association football]] clubs. At the top of the [[English football league system]], it is the country's primary football competition and is contested by 20 clubs. The competition was formed in February 1992 following the decision of clubs in the [[Football League First Division]] to [[Foundation of the Premier League|break away from The Football League]], in order to take advantage of a lucrative television rights deal.
+
+{{updated|24 May 2026.}}
+
+==Team records==
+===Titles===
+*Most titles: 13,<!-- Premier League ONLY do not change to 20 --> [[Manchester United]] ([[1992–93 FA Premier League|1992–93]], [[1993–94 FA Premier League|1993–94]], [[1995–96 FA Premier League|1995–96]], [[1996–97 FA Premier League|1996–97]], [[1998–99 FA Premier League|1998–99]], [[1999–2000 FA Premier League|1999–2000]], [[2000–01 FA Premier League|2000–01]], [[2002–03 FA Premier League|2002–03]], [[2006–07 FA Premier League|2006–07]], [[2007–08 Premier League|2007–08]], [[2008–09 Premier League|2008–09]], [[2010–11 Premier League|2010–11]], [[2012–13 Premier League|2012–13]])<ref name="WinnerList">{{cite web|url=https://www.rsssf.org/tablese/engchamp.html|title=England – List of Champions|publisher=Rec.Sport.Soccer Statistics Foundation|date=26 September 2014|access-date=12 February 2015}}</ref>
+*Most consecutive title wins: 4, [[Manchester City F.C.|Manchester City]] ([[2020–21 Premier League|2020–21]], [[2021–22 Premier League|2021–22]], [[2022–23 Premier League|2022–23]], [[2023–24 Premier League|2023–24]])<ref name="WinnerList"/>
+*Biggest title-winning margin: 19 points, [[2017–18 Premier League|2017–18]]; [[Manchester City F.C.|Manchester City]] (100 points) over [[Manchester United F.C.|Manchester United]] (81 points)<ref name="cityrecords3">{{cite news|url=http://www.skysports.com/football/news/15126/11371144/which-records-have-manchester-city-broken-this-season|title=Which records have Manchester City broken this season?|date=14 May 2018|access-date=17 May 2018|website=Sky Sports}}</ref>
+*Smallest title-winning margin: 0 points and +8 [[goal difference]] – [[2011–12 Premier League|2011–12]]; [[Manchester City F.C.|Manchester City]] (+64) over [[Manchester United F.C.|Manchester United]] (+56). Both ended with 89 points, but Manchester City won the title with a superior goal difference, the first and only time that goal difference has decided the Premier League title.<ref>{{cite web |url=http://www.premierleague.com/en-gb/news/news/2011-12/may/manchester-city-win-barclays-premier-league.html |archive-url=https://web.archive.org/web/20150404150622/https://www.premierleague.com/en-gb/news/news/2011-12/may/manchester-city-win-barclays-premier-league.html |archive-date=4 April 2015 |title=Manchester City win Barclays Premier League title|publisher=Premier League|date=13 May 2012|access-date=12 February 2015}}</ref>
+*Earliest title win with the most games remaining: 7 games, [[Liverpool F.C.|Liverpool]] ([[2019–20 Premier League|2019–20]])<ref>{{cite web|date=25 June 2020|title=Liverpool win Premier League: Reds' 30-year wait for top-flight title ends|url=https://www.bbc.com/sport/football/53183857|access-date=25 June 2020|publisher=BBC}}</ref>{{Efn|Because of the league's suspension due to the [[COVID-19 pandemic in the United Kingdom]], Liverpool's title win on 25 June is also the ''latest'' a team has clinched the title; no other Premier League season has played matches in June.|name=l|group=note}}
+*Undefeated title win: [[Arsenal F.C.|Arsenal]] ([[2003–04 Arsenal F.C. season|2003–04]])<ref name="Garside">{{cite news |url=https://www.telegraph.co.uk/sport/football/6907122/The-Arsenal-side-Arsne-Wenger-created-truly-were-the-Invincibles.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/6907122/The-Arsenal-side-Arsne-Wenger-created-truly-were-the-Invincibles.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |location=London |work=[[The Daily Telegraph]] |first=Kevin |last=Garside |title=The Arsenal side Arsène Wenger created truly were the Invincibles |date=29 December 2009 }}{{cbignore}}</ref>
+
+===Points===
+====Most points====
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|update=complete
+
+<!--Update team positions here-->
+|team_order = MC1718, LV1920, MC1819, LV1819, CH0405, MC2122, CH1617, LV2122, MU9394, MC2324
+
+<!--Override equal team positions here if and only if Pts, GD & GF are all equal. Remove when no longer needed. Example: "|pos_XXX=21", where XXX is the team ID from the previous section.-->
+
+<!--Update team results here and then (if needed) positions above. Don't forget to update the date (update parameter).-->
+|win_MC1718=32|draw_MC1718=4 |loss_MC1718=2|gf_MC1718=106|ga_MC1718=27<!-- Manchester City (2017–18) -->
+|win_LV1920=32|draw_LV1920=3 |loss_LV1920=3|gf_LV1920=85|ga_LV1920=33<!-- Liverpool (2019–20) -->
+|win_MC1819=32|draw_MC1819=2 |loss_MC1819=4|gf_MC1819=95|ga_MC1819=23<!-- Manchester City (2018–19) -->
+|win_LV1819=30|draw_LV1819=7 |loss_LV1819=1|gf_LV1819=89|ga_LV1819=22<!-- Manchester City (2018–19) -->
+|win_CH0405=29|draw_CH0405=8 |loss_CH0405=1|gf_CH0405=72|ga_CH0405=15<!-- Chelsea (2004–05) -->
+|win_MC2122=29|draw_MC2122=6 |loss_MC2122=3|gf_MC2122=99|ga_MC2122=26<!-- Manchester City (2021–22) -->
+|win_CH1617=30|draw_CH1617=3 |loss_CH1617=5|gf_CH1617=85|ga_CH1617=33<!-- Chelsea (2016–17) -->
+|win_LV2122=28|draw_LV2122=8 |loss_LV2122=2|gf_LV2122=94|ga_LV2122=26<!-- Liverpool (2021–22) -->
+|win_MU9394=27|draw_MU9394=11|loss_MU9394=4|gf_MU9394=80|ga_MU9394=38<!-- Manchester United (1993–94) -->
+|win_MC2324=28|draw_MC2324=7 |loss_MC2324=3|gf_MC2324=96|ga_MC2324=34<!-- Manchester City (2023–24) -->
+
+|name_MC1718=[[2017–18 Manchester City F.C. season|Manchester City (2017–18)]]
+|name_LV1920=[[2019–20 Liverpool F.C. season|Liverpool (2019–20)]]
+|name_MC1819=[[2018–19 Manchester City F.C. season|Manchester City (2018–19)]]
+|name_LV1819=[[2018–19 Liverpool F.C. season|Liverpool (2018–19)]]
+|name_CH0405=[[2004–05 Chelsea F.C. season|Chelsea (2004–05)]]
+|name_MC2122=[[2021–22 Manchester City F.C. season|Manchester City (2021–22)]]
+|name_CH1617=[[2016–17 Chelsea F.C. season|Chelsea (2016–17)]]
+|name_LV2122=[[2021–22 Liverpool F.C. season|Liverpool (2021–22)]]
+|name_MU9394=[[1993–94 Manchester United F.C. season|Manchester United (1993–94)]]
+|name_MC2324=[[2023–24 Manchester City F.C. season|Manchester City (2023–24)]]
+
+|status_MC1718=C
+|status_LV1920=C
+|status_MC1819=C
+|status_LV1819=R
+|status_CH0405=C
+|status_MC2122=C
+|status_CH1617=C
+|status_LV2122=R
+|status_MU9394=C
+|status_MC2324=C
+
+|status_text_R=Runners-up
+}}</onlyinclude>
+
+====Fewest points====
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|update=complete
+
+<!--Update team positions here-->
+|team_order = DB0708, SO2425, SN0506, SU2324, HU1819, AV1516, PO0910,  SN0203, WO2526, NO1920
+
+<!--Override equal team positions here if and only if Pts, GD & GF are all equal. Remove when no longer needed. Example: "|pos_XXX=21", where XXX is the team ID from the previous section.-->
+
+<!--Update team results here and then (if needed) positions above. Don't forget to update the date (update parameter).-->
+|win_DB0708=1 |draw_DB0708=8 |loss_DB0708=29|gf_DB0708=20|ga_DB0708=89<!-- Derby County (2007–08) -->
+|win_SO2425=2 |draw_SO2425=6 |loss_SO2425=30|gf_SO2425=26|ga_SO2425=86<!-- Southampton (2024–25) -->
+|win_SN0506=3 |draw_SN0506=6 |loss_SN0506=29|gf_SN0506=26|ga_SN0506=86<!-- Sunderland (2005–06) -->
+|win_SU2324=3 |draw_SU2324=7 |loss_SU2324=28|gf_SU2324=35|ga_SU2324=104<!-- Sheffield United (2023–24) -->
+|win_HU1819=3 |draw_HU1819=7 |loss_HU1819=28|gf_HU1819=22|ga_HU1819=76<!-- Huddersfield Town (2018–19) -->
+|win_AV1516=3 |draw_AV1516=8 |loss_AV1516=27|gf_AV1516=27|ga_AV1516=76<!-- Aston Villa (2015–16) -->
+|win_SN0203=4 |draw_SN0203=7 |loss_SN0203=27|gf_SN0203=21|ga_SN0203=65<!-- Sunderland (2002–03) -->
+|win_PO0910=7 |draw_PO0910=7 |loss_PO0910=24|gf_PO0910=34|ga_PO0910=66<!-- Portsmouth (2009–10) -->
+|win_WO2526=3 |draw_WO2526=11 |loss_WO2526=24|gf_WO2526=27|ga_WO2526=68<!-- Wolverhampton Wanderers (2025–26) -->
+|win_NO1920=5 |draw_NO1920=6 |loss_NO1920=27|gf_NO1920=26|ga_NO1920=75<!-- Norwich City (2019–20) -->
+
+|adjust_points_PO0910=-9
+|hth_PO0910=Portsmouth were docked nine points for entering administration.
+
+|name_DB0708=[[2007–08 Derby County F.C. season|Derby County (2007–08)]]
+|name_SO2425=[[2024–25 Southampton F.C. season|Southampton (2024–25)]]
+|name_SN0506=[[2005–06 Sunderland AFC season|Sunderland (2005–06)]]
+|name_SU2324=[[2023–24 Sheffield United F.C. season|Sheffield United (2023–24)]]
+|name_HU1819=[[2018–19 Huddersfield Town A.F.C. season|Huddersfield Town (2018–19)]]
+|name_AV1516=[[2015–16 Aston Villa F.C. season|Aston Villa (2015–16)]]
+|name_SN0203=[[2002–03 Sunderland A.F.C. season|Sunderland (2002–03)]]
+|name_PO0910=[[2009–10 Portsmouth F.C. season|Portsmouth (2009–10)]]
+|name_WO2526=[[2025–26 Wolverhampton Wanderers F.C. season|Wolverhampton Wanderers (2025–26)]]
+|name_NO1920=[[2019–20 Norwich City F.C. season|Norwich City (2019–20)]]
+
+|status_DB0708=R
+|status_SO2425=R
+|status_SN0506=R
+|status_SU2324=R
+|status_HU1819=R
+|status_AV1516=R
+|status_SN0203=R
+|status_PO0910=R
+|status_WO2526=R
+|status_NO1920=R
+
+|status_text_R=Relegated
+}}</onlyinclude>
+
+====Records====
+*Most points in a season: 100, [[Manchester City F.C.|Manchester City]] ([[2017–18 Premier League#League table|2017–18]])<ref name="cityrecords3"/>
+*Most home points in a season: 55<ref>{{Cite web|url=http://www.premierleague.com/en-gb/news/features/man-city-target-perfect-home-record.html|archiveurl=https://web.archive.org/web/20160610005646/http://www.premierleague.com/en-gb/news/features/man-city-target-perfect-home-record.html|url-status=dead|title=Manchester City aim for perfect home record<!-- Bot generated title -->|archivedate=10 June 2016}}</ref>
+**[[Chelsea F.C.|Chelsea]] ([[2005–06 FA Premier League#Results|2005–06]])
+**[[Manchester United F.C.|Manchester United]] ([[2010–11 Premier League#Results|2010–11]])
+**[[Manchester City F.C.|Manchester City]] ([[2011–12 Premier League#Results|2011–12]])<ref name="autogenerated1">{{cite web|url=http://www.statto.com/football/stats/england/premier-league/2011-2012/table|title=English Premier League Table 2011–2012|website=statto.com|url-status=live|archive-url=https://web.archive.org/web/20150420115154/http://www.statto.com/football/stats/england/premier-league/2011-2012/table|archive-date=20 April 2015}}</ref>
+** [[Liverpool F.C.|Liverpool]] ([[2019–20 Premier League#Results|2019–20]])
+*Most away points in a season: 50, [[Manchester City F.C.|Manchester City]] ([[2017–18 Premier League#Results|2017–18]])<ref name="cityrecords3"/>
+*Fewest points in a season: 11, [[Derby County F.C.|Derby County]] ([[2007–08 FA Premier League#League table|2007–08]])<ref>{{cite web |date=6 March 2025|title=5 Lowest Ever Premier League Point Totals (In The Noughties) |url=http://www.90min.com/posts/108787-5-lowest-ever-premier-league-point-totals-in-the-noughties |publisher=90min |access-date=22 April 2015 |archive-date=26 October 2021 |archive-url=https://web.archive.org/web/20211026061409/https://www.90min.com/posts/108787-5-lowest-ever-premier-league-point-totals-in-the-noughties |url-status=dead }}</ref>
+*Fewest home points in a season: 6, [[Southampton F.C.|Southampton]] ([[2024–25 Premier League#Results|2024–25]])<ref name="Independent"/>
+*Fewest away points in a season: 3, [[Derby County F.C.|Derby County]] ([[2007–08 Premier League#Results|2007–08]])<ref name="Independent"/>
+*Most points in a season without winning the league: 97, [[Liverpool F.C.|Liverpool]] ([[2018–19 Premier League|2018–19]])<ref>{{Cite web|date=25 June 2020|title=Liverpool 2019/20 stats: Major Premier League records the Reds could break this season|url=https://www.squawka.com/en/jurgen-klopp-liverpool-records-premier-league-title/|access-date=18 July 2020|website=Squawka}}</ref>
+*Fewest points in a season while winning the league: 75, [[Manchester United F.C.|Manchester United]] ([[1996–97 FA Premier League#League table|1996–97]])<ref>{{cite web|url=http://hitrowz.com/2014/07/15/what-does-it-take-to-win-the-premier-league|title=hitrowz.com|url-status=dead|archive-url=https://archive.today/20150422182519/http://hitrowz.com/2014/07/15/what-does-it-take-to-win-the-premier-league|archive-date=22 April 2015}}</ref>
+*Most points in a season while being relegated:
+**42 games: 49, [[Crystal Palace F.C.|Crystal Palace]] ([[1992–93 FA Premier League#League table|1992–93]])<ref name="autogenerated5">{{cite web|url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/11469196/Premier-League-relegation-battle-how-many-points-do-you-need-to-stay-up.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/competitions/premier-league/11469196/Premier-League-relegation-battle-how-many-points-do-you-need-to-stay-up.html |archive-date=12 January 2022 |url-access=subscription |url-status=live|title=Premier League relegation battle – how many points do you need to stay up?|work=[[The Daily Telegraph]]|date=13 March 2015 |access-date=26 November 2016}}{{cbignore}}</ref>
+**38 games: 42, [[West Ham United F.C.|West Ham United]] ([[2002–03 FA Premier League#League table|2002–03]])<ref name=autogenerated5 />
+*Most points while bottom of the league:
+**42 games: 40, [[Nottingham Forest F.C.|Nottingham Forest]] ([[1992–93 FA Premier League#League table|1992–93]])
+**38 games: 34, [[Nottingham Forest F.C.|Nottingham Forest]] ([[1996–97 FA Premier League#League table|1996–97]])
+*Most points in a season by a team promoted in the previous season:
+**42 games: 77, [[Newcastle United F.C.|Newcastle United]] ([[1993–94 FA Premier League#League table|1993–94]]) and [[Nottingham Forest F.C.|Nottingham Forest]] ([[1994–95 FA Premier League#League table|1994–95]])
+**38 games: 66, [[Ipswich Town F.C.|Ipswich Town]] ([[2000–01 FA Premier League#League table|2000–01]])<ref>{{cite web |first=Michael |last=Plant |title=The 6 Highest Finishes Achieved by Sides Promoted to the Premier League |url=https://www.90min.com/posts/4565698-the-6-highest-finishes-achieved-by-sides-promoted-to-the-premier-league |website=90min |access-date=15 May 2019 |date=13 February 2017}}</ref>
+
+===Wins===
+*Most wins in total: 775, [[Manchester United F.C.|Manchester United]]<ref>{{cite news |title=Premier League Club Stats |publisher=Premier League |url=https://www.premierleague.com/stats/top/clubs/wins?se=-1 |access-date=29 May 2023}}</ref>
+*Most wins in a season: 32
+**[[Manchester City F.C.|Manchester City]] ([[2017–18 Premier League#League table|2017–18]], [[2018–19 Premier League|2018–19]])<ref>{{cite web |first=Haran |last=Naresh |title=Manchester City 2018/19 Review: End of Season Report Card for the Citizens |url=https://www.90min.com/posts/6367974-manchester-city-2018-19-review-end-of-season-report-card-for-the-citizens |work=BBC Sport |access-date=15 May 2019 |date=14 May 2019}}</ref>
+**[[Liverpool F.C.|Liverpool]] ([[2019–20 Premier League#League table|2019–20]])<ref name="records19-20">{{cite web |url=https://www.premierleague.com/news/1561869 |title=Which Premier League records have Liverpool set? |publisher=Premier League |access-date=26 July 2020}}</ref>
+*Most home wins in a season: 18<ref name="PLrecords">{{cite web |url=https://www.premierleague.com/stats/records |title=Premier League Records |publisher=Premier League |access-date=5 April 2019}}</ref>
+**[[Chelsea F.C.|Chelsea]] ([[2005–06 FA Premier League#Results|2005–06]])
+**[[Manchester United F.C.|Manchester United]] ([[2010–11 Premier League#Results|2010–11]])
+**[[Manchester City F.C.|Manchester City]] ([[2011–12 Premier League#Results|2011–12]],<ref name=autogenerated1/> [[2018–19 Premier League#Results|2018–19]])
+**[[Liverpool F.C.|Liverpool]] ([[2019–20 Premier League#Results|2019–20]])<ref name="records19-20"/>
+*Most away wins in a season: 16, [[Manchester City F.C.|Manchester City]] ([[2017–18 Premier League#Results|2017–18]])<ref name="cityrecords3"/>
+*Fewest wins in a season: 1, [[Derby County F.C.|Derby County]] ([[2007–08 Premier League#League table|2007–08]])<ref name="Independent"/>
+*Fewest home wins in a season: 1<ref name="Independent"/>
+**[[Sunderland A.F.C.|Sunderland]] ([[2005–06 FA Premier League#Results|2005–06]])
+**[[Derby County F.C.|Derby County]] ([[2007–08 Premier League#Results|2007–08]])
+**[[Ipswich Town F.C.|Ipswich Town]], [[Southampton F.C.|Southampton]] ([[2024–25 Premier League#Results|2024–25]])
+*Fewest away wins in a season: 0<ref name="Independent"/><ref>{{cite web|url=https://www.theguardian.com/football/2005/may/16/match.fulham|title=Norwich fail the ultimate road test|work=[[The Guardian]]|date=16 May 2005|access-date=12 February 2015}}</ref><ref>{{cite web|url=http://www.goal.com/en-gb/match/manchester-city-vs-hull-city/1483482/preview|title=Manchester City – Hull City Tigers Preview: Pellegrini's men look to bounce back from shock defeat|publisher=goal.com|date=30 August 2013|access-date=12 February 2015}}</ref>
+**[[Leeds United F.C.|Leeds United]] ([[1992–93 FA Premier League#Results|1992–93]])
+**[[Coventry City F.C.|Coventry City]] ([[1999–2000 FA Premier League#Results|1999–2000]])
+**[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] ([[2003–04 FA Premier League#Results|2003–04]], [[2025–26 Premier League#Results|2025–26]])
+**[[Norwich City F.C.|Norwich City]] ([[2004–05 FA Premier League#Results|2004–05]])
+**[[Derby County F.C.|Derby County]] ([[2007–08 Premier League#Results|2007–08]])
+**[[Hull City A.F.C.|Hull City]] ([[2009–10 Premier League#Results|2009–10]])
+*Most consecutive wins: 18
+**[[Manchester City F.C.|Manchester City]] (26 August – 27 December 2017)<ref name="city18">{{Cite news|url=https://www.bbc.co.uk/sport/football/42410914|title=Newcastle United 0–1 Manchester City|access-date=27 December 2017|date=27 December 2017|website=BBC Sport|first=Mike|last=Henson}}</ref><ref name="cityrecords3" />
+**[[Liverpool F.C.|Liverpool]] (27 October 2019 – 24 February 2020)<ref>{{Cite web|url=https://www.standard.co.uk/sport/football/liverpool-equal-premier-league-winning-run-record-a4370351.html|title=Liverpool equal Premier League winning run record with victory over West Ham|access-date=21 March 2021|date=24 February 2020|website=London Evening Standard|first=Malik|last=Ouzia}}</ref>
+*Most consecutive wins from the start of a season: 9, [[Chelsea F.C.|Chelsea]] ([[2005–06 FA Premier League|2005–06]])<ref name="winsfromstart">{{Cite news|url=https://thefootballfaithful.com/best-ever-starts-premier-league-season/|title=Six best ever starts to a Premier League season|access-date=23 September 2019|date=19 September 2019|publisher=The Football Faithful|first=Harry|last=Diamond}}</ref>
+*Most consecutive wins to the end of a season: 14, [[Manchester City F.C.|Manchester City]] ([[2018–19 Premier League|2018–19]])<ref>{{cite web |first=Phil |last=McNulty |title=Brighton 1–4 Man City |url=https://www.bbc.co.uk/sport/football/48165997 |website=BBC Sport |access-date=15 May 2019 |date=14 May 2019}}</ref>
+*Most consecutive home wins: 24, [[Liverpool F.C.|Liverpool]] (9 February 2019 – 5 July 2020)<ref name="records19-20"/>
+*Most consecutive away wins: 12, [[Manchester City F.C.|Manchester City]] (19 December 2020 – 14 May 2021)<ref>{{cite news |title=City set new English football away wins record |url=https://www.mancity.com/news/mens/manchester-city-12-premier-league-away-wins-record-63756622 |publisher=Manchester City F.C. |date=14 May 2021 |access-date=14 May 2021}}</ref>
+*Most consecutive matches without a win: 32, [[Derby County F.C.|Derby County]] ([[2007–08 Premier League|2007–08]])<ref name="Independent">{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/brad-friedel-and-other-incredible-premier-league-records-8202614.html?action=gallery&ino=3|title=Brad Friedel and other incredible Premier League records|work=[[The Independent]]|access-date=12 February 2015}}</ref>
+*Most consecutive matches without a win from the start of a season: 19, [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] ([[2025–26 Premier League|2025–26]])<ref>{{Cite news |last= |first= |date=27 December 2025 |title=Liverpool condemn Wolves to record for longest winless Premier League start |url=https://www.reuters.com/sports/soccer/liverpool-condemn-wolves-record-longest-winless-premier-league-start-2025-12-27/ |access-date=27 December 2025 |website=Reuters}}</ref>
+*Defeated all league opponents at least once in a season:<ref>{{cite news|url=https://www.premierleague.com/news/666355|title=Which records have Man City broken in 2017/18?|date=13 May 2018|publisher=Premier League|access-date=13 May 2020}}</ref>
+**[[Chelsea F.C.|Chelsea]] ([[2005–06 FA Premier League#Results|2005–06]])
+**[[Manchester United F.C.|Manchester United]] ([[2010–11 Premier League#Results|2010–11]], [[2017–18 Premier League#Results|2017–18]])
+**[[Manchester City F.C.|Manchester City]] ([[2017–18 Premier League#Results|2017–18]], [[2018–19 Premier League#Results|2018–19]])
+**[[Liverpool F.C.|Liverpool]] ([[2019–20 Premier League#Results|2019–20]])
+*Most different stadiums won at: 59 (of 61), [[Liverpool F.C.|Liverpool]]<ref>{{cite web |last1=Doyle |first1=Ian |title=Liverpool address stadium problem as Premier League difference made clearer |url=https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-address-stadium-problem-premier-28745099 |website=[[Liverpool Echo]] |access-date=7 March 2024 |date=4 March 2024}}</ref>
+
+===Defeats===
+*Most defeats in total: 478, [[West Ham United F.C.|West Ham United]]<ref name="premierleague.com">{{cite web|url=https://www.premierleague.com/stats/top/clubs/losses?co=1&se=-1&co=-1 |title=Premier League Club Statistics, Team & Player Stats |publisher=Premier League }}</ref>
+*Most defeats in a season: 30, [[Southampton F.C.|Southampton]] ([[2024–25 Premier League#League table|2024–25]])
+*Most home defeats in a season: 15
+**[[Watford F.C.|Watford]] ([[2021–22 Premier League#Results|2021–22]])<ref name="21/22 records" />
+**[[Southampton F.C.|Southampton]] ([[2024–25 Premier League#League table|2024–25]])
+*Most away defeats in a season: 17, [[Burnley F.C.|Burnley]] ([[2009–10 Premier League#Results|2009–10]])<ref name="PLrecords"/>
+*Fewest defeats in a season: 0, [[Arsenal F.C.|Arsenal]] ([[2003–04 Arsenal F.C. season|2003–04]])<ref name="Garside"/>
+*Fewest home defeats in a season: 0
+**[[Manchester United F.C.|Manchester United]] ([[1995–96 FA Premier League#Results|1995–96]], [[1999–2000 FA Premier League#Results|1999–2000]], [[2010–11 Premier League#Results|2010–11]])<ref>{{cite web|url=http://www.statto.com/football/stats/england/premier-league/1995-1996/table|title=English Premier League Table 1995–1996 |publisher=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20150219143600/http://www.statto.com/football/stats/england/premier-league/1995-1996/table|archive-date=19 February 2015}}</ref><ref>{{cite web|url=http://www.statto.com/football/stats/england/premier-league/1999-2000/table|title=English Premier League Table 1999–2000 |publisher=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20150505020643/http://www.statto.com/football/stats/england/premier-league/1999-2000/table|archive-date=5 May 2015}}</ref><ref>{{cite web|url=http://www.statto.com/football/stats/england/premier-league/2010-2011/table|title=English Premier League Table 2010–2011 |publisher=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20150504124800/http://www.statto.com/football/stats/england/premier-league/2010-2011/table|archive-date=4 May 2015}}</ref>
+**[[Arsenal F.C.|Arsenal]] ([[1998–99 FA Premier League#Results|1998–99]], [[2003–04 FA Premier League#Results|2003–04]], [[2007–08 FA Premier League#Results|2007–08]])<ref>{{cite web|url=http://www.statto.com/football/stats/england/premier-league/1998-1999/table|title=English Premier League Table 1998–1999 |publisher=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20150505042957/http://www.statto.com/football/stats/england/premier-league/1998-1999/table|archive-date=5 May 2015}}</ref><ref name="autogenerated6">{{cite web|url=http://www.statto.com/football/stats/england/premier-league/2003-2004/table|title=English Premier League Table 2003–2004 |publisher=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20150504124724/http://www.statto.com/football/stats/england/premier-league/2003-2004/table|archive-date=4 May 2015}}</ref><ref name="autogenerated8">{{cite web|url=http://www.statto.com/football/stats/england/premier-league/2007-2008/table|title=English Premier League Table 2007–2008 |publisher=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20150504124734/http://www.statto.com/football/stats/england/premier-league/2007-2008/table|archive-date=4 May 2015}}</ref>
+**[[Chelsea F.C.|Chelsea]] ([[2004–05 FA Premier League#Results|2004–05]], [[2005–06 FA Premier League#Results|2005–06]], [[2006–07 FA Premier League#Results|2006–07]], [[2007–08 Premier League#Results|2007–08]], [[2014–15 Premier League#Results|2014–15]])<ref name=autogenerated8 /><ref>{{cite web|url=http://www.statto.com/football/stats/england/premier-league/2004-2005/table|title=English Premier League Table 2004–2005 |publisher=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20130304182816/http://www.statto.com/football/stats/england/premier-league/2004-2005/table|archive-date=4 March 2013}}</ref><ref>{{cite web|url=http://www.statto.com/football/stats/england/premier-league/2005-2006/table|title=English Premier League Table 2005–2006 |publisher=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20150504124932/http://www.statto.com/football/stats/england/premier-league/2005-2006/table|archive-date=4 May 2015}}</ref><ref>{{cite web|url=http://www.statto.com/football/stats/england/premier-league/2006-2007/table|title=English Premier League Table 2006–2007 |website=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20150504124729/http://www.statto.com/football/stats/england/premier-league/2006-2007/table|archive-date=4 May 2015}}</ref><ref>{{cite web|url=http://www.statto.com/football/stats/england/premier-league/2014-2015/table|title=English Premier League Table 2014–2015 |publisher=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20150523060235/http://www.statto.com/football/stats/england/premier-league/2014-2015/table|archive-date=23 May 2015}}</ref>
+**[[Liverpool F.C.|Liverpool]] ([[2008–09 Premier League#Results|2008–09]], [[2017–18 Premier League#Results|2017–18]], [[2018–19 Premier League#Results|2018–19]], [[2019–20 Premier League#Results|2019–20]], [[2021–22 Premier League#Results|2021–22]])<ref>{{cite web|url=http://www.statto.com/football/stats/england/premier-league/2008-2009/table|title=English Premier League Table 2008–2009 |publisher=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20150711124522/http://www.statto.com/football/stats/england/premier-league/2008-2009/table|archive-date=11 July 2015}}</ref><ref>{{cite web |url=https://www.bbc.co.uk/sport/football/53412782 |title=Liverpool 5–3 Chelsea: Champions win thriller before receiving trophy |work=BBC Sport |date=26 July 2020}}</ref><ref>{{cite web |url=https://www.premierleague.com/tables?co=1&se=418&ha=H |title=Premier League Table, Form Guide & Season Archives |work= Premier League |access-date= 22 May 2022}}</ref>
+**[[Manchester City F.C.|Manchester City]] ([[2011–12 Premier League#Results|2011–12]], [[2023–24 Premier League#results|2023–24]])<ref name=autogenerated1/>
+**[[Tottenham Hotspur F.C.|Tottenham Hotspur]] ([[2016–17 Premier League#Results|2016–17]])
+*Fewest away defeats in a season: 0
+**[[Arsenal F.C.|Arsenal]] ([[2001–02 FA Premier League#Results|2001–02]], [[2003–04 FA Premier League#Results|2003–04]])<ref name=autogenerated6 /><ref>{{cite web|url=http://www.statto.com/football/stats/england/premier-league/2001-2002/table|title=English Premier League Table 2001–2002 |publisher=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20150403193308/http://www.statto.com/football/stats/england/premier-league/2001-2002/table|archive-date=3 April 2015}}</ref>
+**[[Manchester United F.C.|Manchester United]] ([[2020–21 Premier League#Results|2020–21]])<ref name="20/21 records">{{cite news|url=https://www.premierleague.com/news/2159799|title=Which Premier League records were broken in 2020/21?|publisher=Premier League|date=25 May 2021|access-date=25 May 2021}}</ref>
+*Most consecutive matches undefeated: 49, [[Arsenal F.C.|Arsenal]] (7 May 2003 – [[Battle of the Buffet|24 October 2004]])<ref>{{cite web|url=http://www.arsenal.com/history/the-wenger-years/the-2004-invincibles|title='The Invincibles' go 49 games unbeaten|date=24 February 2024 |publisher=Arsenal Media Group}}</ref>
+*Most consecutive home matches undefeated: 86, [[Chelsea F.C.|Chelsea]] (20 March 2004 – 5 October 2008)<ref>{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/brad-friedel-and-other-incredible-premier-league-records-8202614.html?action=gallery&ino=4|title=Brad Friedel and other incredible Premier League records|date=8 October 2012}}</ref>
+*Most consecutive away matches undefeated: 29, [[Manchester United F.C.|Manchester United]] (17 February 2020 – 19 September 2021)<ref name="21/22 records">{{cite news|url=https://www.premierleague.com/news/2637035|title=Which Premier League records were broken in 2021/22|publisher=Premier League|date=1 June 2022|access-date=1 June 2022}}</ref>
+*Most consecutive defeats over more than one season: 20, [[Sunderland A.F.C.|Sunderland]] ([[2002–03 FA Premier League#Results|2002–03]], [[2005–06 FA Premier League#Results|2005–06]])<ref>{{cite web|url=http://www.statto.com/football/stats/england/premier-league/records |title=English Premier League Records – Statto.com |publisher=Statto Organisation |url-status=live |archive-url=https://web.archive.org/web/20111107021729/http://www.statto.com/football/stats/england/premier-league/records |archive-date=7 November 2011 }}</ref>
+*Most consecutive defeats from the start of a season: 7
+**[[Portsmouth F.C.|Portsmouth]] ([[2009–10 Premier League|2009–10]])
+**[[Crystal Palace F.C.|Crystal Palace]] ([[2017–18 Premier League|2017–18]])<ref>{{cite web|title=Manchester United 4–0 Crystal Palace|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/41370357|date=30 September 2017|access-date=2 January 2021}}</ref>
+*Defeats against all league opponents at least once in a season:
+**[[Sheffield United F.C.|Sheffield United]] ([[2023–24 Premier League|2023–24]])
+**[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] ([[2025–26 Premier League|2025–26]])
+
+===Draws===
+*Most draws in total: 366, [[Everton F.C.|Everton]]<ref name="alltimetable">{{cite web |title=All-time Premier League Table |url=https://www.football365.com/premier-league/table/all-time-premier-league-table |website=Football365 |access-date=15 May 2026}}</ref>
+*Most draws in a season (42 games): 18
+**[[Manchester City F.C.|Manchester City]] ([[1993–94 FA Premier League#League table|1993–94]])<ref name="PLrecords"/>
+**[[Sheffield United F.C.|Sheffield United]] ([[1993–94 FA Premier League#League table|1993–94]])<ref name="PLrecords"/>
+**[[Southampton F.C.|Southampton]] ([[1994–95 FA Premier League#League table|1994–95]])<ref name="PLrecords"/>
+*Most draws in a season (38 games): 18, [[AFC Bournemouth|Bournemouth]] ([[2025–26 Premier League#League table|2025–26]])<ref name="PLrecords" />
+*Most home draws in a season: 10
+**[[Sheffield Wednesday F.C.|Sheffield Wednesday]] ([[1996–97 FA Premier League#Results|1996–97]])<ref name="PLrecords"/>
+**[[Leicester City F.C.|Leicester City]] ([[1997–98 FA Premier League#Results|1997–98]], [[2003–04 FA Premier League|2003–04]])<ref name="PLrecords"/>
+**[[Manchester United F.C.|Manchester United]] ([[2016–17 Premier League#Results|2016–17]])<ref name="PLrecords"/>
+**[[AFC Bournemouth|Bournemouth]] ([[2025–26 Premier League#Results|2025–26]])<ref name="PLrecords"/>
+*Most away draws in a season: 10
+**[[Newcastle United F.C.|Newcastle United]] ([[2003–04 FA Premier League#Results|2003–04]])<ref name="PLrecords"/>
+**[[Manchester United F.C.|Manchester United]] ([[2010–11 Premier League#Results|2010–11]])<ref>{{Cite web|url=http://footballdatabase.com/league-scores-tables/england-premier-league-2010-11|title=England Premier League 2010/11, Results and Standings|website=footballdatabase.com|access-date=22 July 2019}}</ref>
+*Fewest draws in a season: 2<ref name="records2018/19">{{cite web |first=Naveen |last=Joseph |title=5 Premier League records that were broken this season |url=https://www.foxsportsasia.com/football/1097190/5-premier-league-records-that-were-broken-this-season/ |website=FOX Sports Asia |access-date=14 May 2019 |date=13 May 2019 |archive-date=14 May 2019 |archive-url=https://web.archive.org/web/20190514170914/https://www.foxsportsasia.com/football/1097190/5-premier-league-records-that-were-broken-this-season/ |url-status=dead }}</ref>
+**[[Manchester City F.C.|Manchester City]] ([[2018–19 Premier League#League table|2018–19]])
+**[[Tottenham Hotspur F.C.|Tottenham Hotspur]] ([[2018–19 Premier League#League table|2018–19]])
+**[[Sheffield United F.C.|Sheffield United]] ([[2020–21 Premier League#League table|2020–21]])
+*Fewest home draws in a season: 0<ref name="PLrecords"/>
+**[[Manchester City F.C.|Manchester City]] ([[2008–09 Premier League#Results|2008–09]], [[2018–19 Premier League#Results|2018–19]])
+**[[Manchester United F.C.|Manchester United]] ([[2012–13 Premier League#Results|2012–13]])
+**[[Chelsea F.C.|Chelsea]] ([[2016–17 Premier League#Results|2016–17]])
+**[[Tottenham Hotspur F.C.|Tottenham Hotspur]] ([[2023–24 Premier League#Results|2023–24]])
+*Fewest away draws in a season: 0
+**[[Tottenham Hotspur F.C.|Tottenham Hotspur]] ([[2018–19 Premier League#Results|2018–19]])<ref name="PLrecords"/><ref>{{cite news |title=Bournemouth break bold resistance of nine-man Spurs |url=https://www.irishtimes.com/sport/soccer/english-soccer/bournemouth-break-bold-resistance-of-nine-man-spurs-1.3881505 |newspaper=The Irish Times |access-date=5 May 2019 |date=4 May 2019}}</ref>
+**[[Leeds United F.C.|Leeds United]] ([[2020–21 Premier League#Results|2020–21]])<ref name="PLrecords"/>
+*Most consecutive draws: 7
+**[[Norwich City F.C.|Norwich City]] ([[1993–94 FA Premier League|1993–94]])<ref name="PLrecords"/>
+**[[Southampton F.C.|Southampton]] ([[1994–95 FA Premier League|1994–95]])<ref name="PLrecords"/>
+**[[Manchester City F.C.|Manchester City]] ([[2009–10 Premier League|2009–10]])<ref name="PLrecords"/>
+*Most consecutive matches without a draw: 32, [[Tottenham Hotspur F.C.|Tottenham Hotspur]] (30 April 2018 – 27 February 2019)<ref>{{cite web |title=El Tottenham acumula ya 32 partidos de Premier sin empatar |url=https://www.marca.com/futbol/premier-league/2019/02/28/5c77d3be268e3eb4528b45a0.html |website=Marca|location=Spain |access-date=28 February 2019 |language=es |date=28 February 2019}}</ref>
+
+===Goals===
+*Most goals scored in a season: 106, [[Manchester City F.C.|Manchester City]] ([[2017–18 Premier League|2017–18]])<ref name="cityrecords3"/>
+*Fewest goals scored in a season: 20
+**[[Derby County F.C.|Derby County]] ([[2007–08 Premier League|2007–08]])<ref>{{cite web|url=http://www.90min.com/posts/437559-the-five-worst-premier-league-teams-in-history/5-derby-county-2007-2008|title=The Five Worst Premier League Teams in History:5-derby-county-2007-2008|date=20 October 2013|website=90min}}</ref>
+**[[Sheffield United F.C.|Sheffield United]] ([[2020–21 Premier League|2020–21]])<ref name="20/21 records"/>
+*Most goals conceded in a season: 104, [[Sheffield United F.C.|Sheffield United]] ([[2023–24 Premier League|2023–24]])<ref name="PLrecords"/>
+*Fewest goals conceded in a season: 15, [[Chelsea F.C.|Chelsea]] ([[2004–05 FA Premier League|2004–05]])<ref name="autogenerated9">{{cite news|url=http://www.chelseafc.com/news/features/the-record-breakers---part-four.html|title=The Record Breakers – Part Four|publisher=Chelsea F.C.|date=5 July 2013}}</ref>
+*Most own goals scored in a season: 8, [[Leicester City F.C.|Leicester City]] ([[2003–04 Premier League|2003–04]])<ref>{{cite web|url= https://www.premierleague.com/stats/top/clubs/own_goals?se=12 |title=Premier League Club Stats - Own goals|publisher=Premier League|access-date=17 May 2022}}</ref>
+*Best goal difference in a season: 79, [[Manchester City F.C.|Manchester City]] ([[2017–18 Premier League|2017–18]])<ref name="cityrecords3"/>
+*Best home goal difference in a season: 54, [[Chelsea F.C.|Chelsea]] ([[2009–10 Premier League|2009–10]])<ref>{{cite web|url=https://www.sportsmole.co.uk/football/premier-league/2009-10/|title=Premier League 2009-10 Overview|publisher=Sports Mole|access-date=5 March 2024}}</ref>
+*Best away goal difference in a season: 32, [[Manchester City F.C.|Manchester City]] ([[2017–18 Premier League|2017–18]])<ref>{{cite web|url=https://www.sportsmole.co.uk/football/premier-league/2017-18/|title=Premier League 2017-18 Overview|publisher=Sports Mole|access-date=5 March 2024}}</ref>
+*Worst goal difference in a season: −69
+**[[Derby County F.C.|Derby County]] ([[2007–08 Premier League|2007–08]])<ref>{{cite web|url=https://www.independent.co.uk/sport/football/premier-league/derby-county-200708-premier-league-results-wins-crystal-palace-vs-chelsea-a7996406.html|title=As Crystal Palace dice with disaster, remembering the worst Premier League team of all: 2007/08 Derby County|work=The Independent|date=13 October 2017}}</ref>
+**[[Sheffield United F.C.|Sheffield United]] ([[2023–24 Premier League|2023–24]])<ref name="PLrecords"/>
+*Worst home goal difference in a season: −38, [[Sheffield United F.C.|Sheffield United]] ([[2023–24 Premier League|2023–24]])<ref name="PLrecords"/>
+*Worst away goal difference in a season (21 games): −47, [[Ipswich Town F.C.|Ipswich Town]] ([[1994–95 Premier League|1994–95]])<ref>{{cite web|url=https://www.sportsmole.co.uk/football/premier-league/1994-95/|title=Premier League 1994-95 Overview|publisher=Sports Mole|access-date=5 March 2024}}</ref>
+*Worst away goal difference in a season (19 games): −38, [[Derby County F.C.|Derby County]] ([[2007–08 Premier League|2007–08]])<ref>{{cite web|url=https://www.sportsmole.co.uk/football/premier-league/2007-08/|title=Premier League 2007-08 Overview|publisher=Sports Mole|access-date=5 March 2024}}</ref>
+*Highest finish with a negative goal difference: 3rd, [[Norwich City F.C.|Norwich City]] ([[1992–93 Premier League|1992–93]], −4)<ref>{{cite news|url=https://news.paddypower.com/football/2017/09/26/bonkers-beautiful-season-of-norwich/|title=The bonkers and beautiful season that was Norwich 1992-93|date=26 September 2017|website=Paddy Power News}}</ref>
+*Lowest finish with a positive goal difference: 16th, [[Manchester City F.C.|Manchester City]] ([[2003–04 Premier League|2003–04]], +1)<ref>{{cite news|url=https://www.skysports.com/football/news/11667/5657036/home-sweet-home|title=Home sweet home|website=Sky Sports}}</ref>
+*Most goals scored in a season by a relegated team: 55, [[Blackpool F.C.|Blackpool]] ([[2010–11 Premier League|2010–11]])<ref>{{cite web|url=http://www.just-football.com/2012/10/how-to-avoid-relegation-from-the-premier-league-a-statistical-analysis/|title=How to avoid relegation from the Premier League – A statistical analysis|website=Just Football|date=5 October 2012}}</ref>
+*Most goals scored at home in a season: 68, [[Chelsea F.C.|Chelsea]] ([[2009–10 Premier League|2009–10]])<ref name=autogenerated9 />
+*Fewest goals scored at home in a season: 9, [[Fulham F.C.|Fulham]] ([[2020–21 Premier League|2020–21]])<ref name="20/21 records"/>
+*Most goals conceded at home in a season: 57, [[Sheffield United F.C.|Sheffield United]] ([[2023–24 Premier League|2023–24]])<ref name="PLrecords"/>
+*Fewest goals conceded at home in a season: 4, [[Manchester United F.C.|Manchester United]] ([[1994–95 Premier League|1994–95]])<ref name="PLrecords"/>
+*Fewest goals conceded away in a season: 9, [[Chelsea F.C.|Chelsea]] ([[2004–05 Premier League|2004–05]])<ref name="PLrecords"/>
+*Most goals scored away in a season: 48, [[Liverpool F.C.|Liverpool]] ([[2013–14 Premier League|2013–14]])<ref name="PLrecords"/>
+*Fewest goals scored away in a season: 7, [[Norwich City F.C.|Norwich City]] ([[2019–20 Premier League|2019–20]])<ref name="PLrecords"/>
+*Most goals conceded away in a season (21 games): 59, [[Ipswich Town F.C.|Ipswich Town]] ([[1994–95 Premier League|1994–95]])<ref name="PLrecords"/>
+*Most goals conceded away in a season (19 games): 55, [[Wigan Athletic F.C.|Wigan Athletic]] ([[2009–10 Premier League|2009–10]])<ref name="PLrecords"/>
+*Scored in every match: [[Arsenal F.C.|Arsenal]] ([[2001–02 FA Premier League|2001–02]]) (38 games)<ref>{{cite web|url=http://www.arsenal.com/history/club-records/sequences|archive-url=https://web.archive.org/web/20080812085654/http://www.arsenal.com/history/club-records/sequences|url-status=dead|archive-date=12 August 2008|title=Sequences – Club Records – History|publisher=Arsenal F.C.|date=12 August 2008}}</ref>
+*Most consecutive matches scored in: 55, [[Arsenal F.C.|Arsenal]] (19 May 2001 – 30 November 2002)<ref>{{cite news|website=BBC Sport|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/2535721.stm|title=Man Utd's surge continues|date=7 December 2002|access-date=19 January 2020}}</ref>
+*Most consecutive away matches scored in: 27, [[Arsenal F.C.|Arsenal]]<ref>{{cite news |date=23 December 2024 |title=Amazing Premier League records that may never be beaten |url=https://www.premierleague.com/en/news/4204873 |access-date=20 September 2025 |publisher=Premier League}}</ref>
+*Most clean sheets in a season: 25, [[Chelsea F.C.|Chelsea]] ([[2004–05 FA Premier League|2004–05]])
+*Fewest clean sheets in a season: 1, [[Sheffield United F.C.|Sheffield United]] ([[2023–24 Premier League|2023–24]])
+*Most goals scored in total: 2,413, [[Manchester United F.C.|Manchester United]]<ref name="alltimetable"/>
+*Most goals conceded in total: 1,684
+**[[Tottenham Hotspur F.C.|Tottenham Hotspur]]<ref name="alltimetable"/>
+**[[West Ham United F.C.|West Ham United]]<ref name="alltimetable"/>
+*Most own goals scored in total: 62, [[Everton F.C.|Everton]]<ref>{{cite web|url=https://www.premierleague.com/en/stats/own-goals-conceded/all-seasons |title=Premier League Club Stats - Own Goals|access-date=29 May 2023|publisher=Premier League}}</ref>
+
+===Disciplinary===
+*Most yellow cards in total: 2,171, [[Chelsea F.C.|Chelsea]]<ref>{{cite web|url=https://www.premierleague.com/en/stats/top/clubs?statMetric=yellowCards&season=all|title=Premier League Club Stats - Yellow cards|publisher=Premier League}}</ref>
+*Most red cards in total: 113, [[Everton F.C.|Everton]]<ref>{{cite web|url=https://www.premierleague.com/en/stats/top/clubs?statMetric=totalRedCards&season=all|title=Premier League Club Stats - Red cards|publisher=Premier League}}</ref>
+*Most yellow cards in a season: 105, [[Chelsea F.C.|Chelsea]] ([[2023–24 Premier League|2023–24]])<ref>{{cite web|url=https://www.premierleague.com/stats/top/clubs/total_yel_card?se=578|title=Premier League Club Stats - Yellow cards|access-date=13 May 2024|publisher=Premier League}}</ref>
+*Fewest yellow cards in a season: 12, [[Coventry City F.C.|Coventry City]] ([[1993–94 Premier League|1993–94]])<ref>{{cite web|url=https://www.premierleague.com/stats/top/clubs/total_yel_card?se=2|title=Premier League Club Stats - Yellow cards|date=3 June 2020|publisher=Premier League}}</ref>
+*Most red cards in a season: 9
+**[[Sunderland A.F.C.|Sunderland]] ([[2009–10 Premier League|2009–10]])<ref>{{cite web|url=https://www.premierleague.com/stats/top/clubs/total_red_card?se=20|title=Premier League Club Stats - Red cards|date=3 June 2020|publisher=Premier League}}</ref>
+**[[Queens Park Rangers F.C.|Queens Park Rangers]] ([[2011–12 Premier League|2011–12]])<ref>{{cite web|url=https://www.premierleague.com/stats/top/clubs/total_red_card?se=18|title=Premier League Club Stats - Red cards|date=3 June 2020|publisher=Premier League}}</ref>
+*Most yellow cards in one match: 14
+**[[AFC Bournemouth|Bournemouth]] (6) 0–1 [[Chelsea F.C.|Chelsea]] (8), 14 September 2024
+*Most yellow cards for a single team in one game: 9 for [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in a 2–2 draw at [[Chelsea F.C.|Chelsea]], 2 May 2016<ref>{{cite web|url=https://www.mirror.co.uk/sport/row-zed/tottenham-become-first-team-premier-7883601|title=Spurs broke a record at Stamford Bridge… just not the one they wanted|first=Thomas|last=Bristow|date=3 May 2016|publisher=Mirror}}</ref>
+*Most penalties awarded to a team in a season: 14, [[Manchester United F.C.|Manchester United]] ([[2019–20 Premier League|2019–20]])<ref>{{cite web|url=https://www.espn.com/soccer/manchester-united/story/4147645/manchester-united-break-premier-league-penalty-record-on-final-day|title=Manchester United break Premier League penalty record on final day|date=26 July 2020|access-date=26 July 2020|publisher=ESPN}}</ref>
+*Most penalties conceded by a team in a season: 13, [[Hull City A.F.C.|Hull City]] ([[2016–17 Premier League|2016–17]])<ref>{{cite web|url=https://www.goal.com/en-us/news/premier-league-hull-city-penalty-record-relegated-football/1cvotcytdfz1k1gtkmt76ypqu8|title=Premier League: Relegated Hull City set penalty record|date=17 May 2017|website=Goal.com}}</ref>
+
+===Awards===
+*Most [[Premier League Golden Boot|Golden Boot]] winners: 8<ref>{{cite news|url=https://www.premierleague.com/news/1206108|title=Premier League Golden Boot award winners|date=23 May 2021|publisher=Premier League}}</ref>
+**[[Liverpool F.C.|Liverpool]] ([[1997–98 FA Premier League|1997–98]]{{dagger}}, [[1998–99 FA Premier League|1998–99]]{{dagger}}, [[2013–14 Premier League|2013–14]], [[2017–18 Premier League|2017–18]], [[2018–19 Premier League|2018–19]] (2){{dagger}}, [[2021–22 Premier League|2021–22]]{{dagger}}, [[2024–25 Premier League|2024–25]])
+*Most [[Premier League Golden Glove|Golden Glove]] winners: 7<ref>{{cite news|url=https://www.premierleague.com/news/1206130|title=Premier League Golden Glove award winners|date=23 May 2021|publisher=Premier League}}</ref>
+**[[Manchester City F.C.|Manchester City]] ([[2010–11 Premier League|2010–11]], [[2011–12 Premier League|2011–12]], [[2012–13 Premier League|2012–13]], [[2014–15 Premier League|2014–15]], [[2019–20 Premier League|2019–20]], [[2020–21 Premier League|2020–21]], [[2021–22 Premier League|2021–22]]{{dagger}})
+
+''{{dagger}} Indicates multiple award winners in the same season''
+
+===Attendances===
+*Highest attendance, single match: 83,222, [[Tottenham Hotspur F.C.|Tottenham Hotspur]] 1–0 [[Arsenal F.C.|Arsenal]] (at [[Wembley Stadium]], 10 February 2018)<ref>{{cite news |url=http://metro.co.uk/2018/02/10/harry-kane-talismanic-tottenham-sink-arsenal-front-record-breaking-wembley-crowd-7302499/ |title=Harry Kane talismanic as Tottenham sink Arsenal in front of record-breaking Wembley crowd |first=Tom |last=Olver|date=10 February 2018|work=Metro }}</ref>
+*Lowest attendance, single match: 3,039, [[Wimbledon F.C.|Wimbledon]] 1–3 [[Everton F.C.|Everton]] (at [[Selhurst Park]], 26 January 1993)<ref>{{cite web|url=http://www.kgbanswers.co.uk/lowest-ever-premiership-attendance/3345406|title=Lowest ever premiership attendance? – Kgb Answers|access-date=22 April 2015|archive-url=https://web.archive.org/web/20160129075743/http://www.kgbanswers.co.uk/lowest-ever-premiership-attendance/3345406|archive-date=29 January 2016|url-status=dead}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/blog/2017/jan/26/premier-league-lowest-attendance-wimbledon-everton|title=It was one man and his dog' – the day just 3,036 watched a Premier League match|date=26 January 2017|work=The Guardian|access-date=26 January 2017}}</ref>
+*Highest season average attendance: 75,821 – [[Old Trafford]], [[Manchester United F.C.|Manchester United]] ([[2006–07 Manchester United F.C. season|2006–07]])<ref name="attendance3"/>
+*Lowest season average attendance: 8,353 – [[Selhurst Park]], [[Wimbledon F.C.|Wimbledon]] ([[1992–93 Wimbledon F.C. season|1992–93]])<ref name="attendance3">{{cite news |url=https://www.premierleague.com/stats/records |title=Premier League Records |date=15 May 2018|publisher=Premier League}}</ref>
+
+These figures do not take into account the [[2019–20 Premier League|2019–20]] and [[2020–21 Premier League|2020–21]] seasons, when many matches had an attendance of zero due to public health measures adopted to control the [[COVID-19 pandemic in England|COVID-19 pandemic]].
+
+==Player records==
+===Appearances===
+{{further|List of footballers with 500 or more Premier League appearances}}
+*Most Premier League appearances: 658, [[James Milner]] (10 November 2002 to 24 May 2026)
+*Most different clubs played for: 8, [[Marcus Bent]] (for [[Crystal Palace F.C.|Crystal Palace]], [[Blackburn Rovers F.C.|Blackburn Rovers]], [[Ipswich Town F.C.|Ipswich Town]], [[Leicester City F.C.|Leicester City]], [[Everton F.C.|Everton]], [[Charlton Athletic F.C.|Charlton Athletic]], [[Wigan Athletic F.C.|Wigan Athletic]], and [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]])<ref>{{cite news|url=https://www.skysports.com/football/news/12038/9484615/tylers-stats-and-facts-column-which-player-played-for-the-most-teams|title=Tyler's stats and facts column: Which player played for the most teams?|website=Sky Sports|access-date=21 January 2020}}</ref>
+*Oldest player: [[John Burridge]], 43 years and 162 days (for [[Manchester City F.C.|Manchester City]] ''v.'' [[Queens Park Rangers F.C.|Queens Park Rangers]], 14 May 1995)<ref>{{Cite news|url=https://www.telegraph.co.uk/football/2016/04/27/the-premier-leagues-25-oldest-players-ever/john-burridge/ |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/football/2016/04/27/the-premier-leagues-25-oldest-players-ever/john-burridge/ |archive-date=12 January 2022 |url-access=subscription |url-status=live|title=The Premier League's 25 oldest players ever|work=[[The Daily Telegraph]]|access-date=26 November 2016}}{{cbignore}}</ref>
+*Youngest player: '''[[Ethan Nwaneri]]''', 15 years and 181 days (for [[Arsenal F.C.|Arsenal]] ''v.'' [[Brentford F.C.|Brentford]], 18 September 2022)<ref>{{cite news|url=https://www.bbc.com/sport/football/62946036|title=Arsenal: Ethan Nwaneri, 15, becomes youngest Premier League player|date=18 September 2022|website=BBC Sport|access-date=18 September 2022}}</ref>
+*Most consecutive Premier League appearances: 310, [[Brad Friedel]] (14 August 2004 until 7 October 2012)<ref>{{cite web|url=https://www.bbc.co.uk/sport/0/football/19862362|archive-url=https://archive.today/20130419192359/http://www.bbc.co.uk/sport/0/football/19862362|url-status=dead|archive-date=19 April 2013|website=BBC Sport|title=Sunday football – Live|access-date=7 October 2012}}</ref>
+*Most Premier League appearances as a substitute: 218, [[James Milner]]<ref name="20/21 records"/>
+*Most seasons appeared in: 24, [[James Milner]] (every season from [[2002–03 FA Premier League|2002–03]] to [[2025–26 Premier League|2025–26]])
+
+Players currently playing in the Premier League are highlighted in '''bold'''.
+
+{|class="wikitable sortable nowrap" style="text-align: center" id="Most_appearances_(career)"
+|+Most appearances (career)<ref name=plstats>{{cite web|url=https://www.premierleague.com/en/stats/top/players?statMetric=appearances&season=all|title=Premier League Player Stats: Appearances – All Seasons |publisher=[[Premier League]]|access-date=8 July 2020}}</ref>
+|-
+! Rank
+!style="width:175px"| Player
+! Games
+!style="width:60px"| Position
+!style="width:60px"| First season
+!style="width:60px"| Last season
+|-
+|1
+|style="text-align:left"| {{flagicon|ENG}} {{sortname|James|Milner}} || '''658''' || [[Midfielder]] || [[2002–03 Premier League|2002–03]] || [[2025–26 Premier League|2025–26]]
+|-
+|2
+|style="text-align:left"| {{flagicon|ENG}} {{sortname|Gareth|Barry}} || '''653''' || Midfielder || [[1997–98 Premier League|1997–98]] || [[2017–18 Premier League|2017–18]]
+|-
+|3
+|style="text-align:left"| {{flagicon|WAL}} {{sortname|Ryan|Giggs}} || '''632''' || Midfielder || [[1992–93 Premier League|1992–93]] || [[2013–14 Premier League|2013–14]]
+|-
+|4
+|style="text-align:left"| {{flagicon|ENG}} {{sortname|Frank|Lampard}} || '''609'''|| Midfielder || [[1995–96 Premier League|1995–96]] || [[2014–15 Premier League|2014–15]]
+|-
+|5
+|style="text-align:left"| {{flagicon|ENG}} {{sortname|David|James|David James (footballer, born 1970)}} || '''572'''|| [[Goalkeeper (association football)|Goalkeeper]] || [[1992–93 Premier League|1992–93]] || [[2009–10 Premier League|2009–10]]
+|-
+|6
+|style="text-align:left"| {{flagicon|WAL}} {{sortname|Gary|Speed}} || '''535''' || Midfielder || [[1992–93 Premier League|1992–93]] || [[2007–08 Premier League|2007–08]]
+|-
+|7
+|style="text-align:left"| {{flagicon|ENG}} {{sortname|Emile|Heskey}} || '''516''' || [[Forward (association football)|Forward]] || [[1994–95 Premier League|1994–95]] || [[2011–12 Premier League|2011–12]]
+|-
+|8
+|style="text-align:left"| {{flagicon|AUS}} {{sortname|Mark|Schwarzer}} || '''514''' || Goalkeeper || [[1996–97 Premier League|1996–97]] || [[2014–15 Premier League|2014–15]]
+|-
+|9
+|style="text-align:left"| {{flagicon|ENG}} {{sortname|Jamie|Carragher}} || '''508''' || [[Defender (association football)|Defender]] || [[1996–97 Premier League|1996–97]] || [[2012–13 Premier League|2012–13]]
+|-
+|10
+|style="text-align:left"| {{flagicon|ENG}} {{sortname|Phil|Neville}} || '''505''' || Defender || [[1994–95 Premier League|1994–95]] || [[2012–13 Premier League|2012–13]]
+|}
+
+===Goalscoring===
+{{further|List of footballers with 100 or more Premier League goals}}
+{{further|List of English football first tier top scorers}}
+*First Premier League goal: [[Brian Deane]] (for [[Sheffield United F.C.|Sheffield United]] ''v.'' [[Manchester United F.C.|Manchester United]], 15 August 1992)<ref>{{cite web|title=Brian Deane: The story of the first Premier League goal|url= https://www.skysports.com/football/news/11095/11867410/brian-deane-the-story-of-the-first-premier-league-goal|website=[[Sky Sports]]|date=23 November 2019|access-date=20 October 2020}}</ref>
+*Most Premier League goals: 260, [[Alan Shearer]]<ref>{{cite web|url=http://soccerlens.com/all-time-premier-league-top-scorers/5804/|title=Premier League Top Scorers – Most Premier League Goals|date=25 May 2012|publisher=Soccerlens}}</ref>
+*Most Premier League goals at one club: 213, [[Harry Kane]] (for [[Tottenham Hotspur F.C.|Tottenham Hotspur]])
+*Oldest goalscorer: 40 years and 268 days, [[Teddy Sheringham]] (for [[West Ham United F.C.|West Ham United]] ''v.'' [[Portsmouth F.C.|Portsmouth]], 26 December 2006)<ref>{{cite web|url=http://www.statbunker.com/alltimestats/AllTimeOldestScorer?comp_code=EPL|title=Oldest goal scorers Premier League}}</ref>
+*Youngest goalscorer: 16 years and 73 days, '''[[Max Dowman]]''' (for [[Arsenal F.C.|Arsenal]] ''v.'' [[Everton F.C.|Everton]], 14 March 2026)<ref>{{cite web|url=https://www.nytimes.com/athletic/live-blogs/arsenal-vs-everton-live-score-updates-premier-league-result/SA0AA5ZQfK5O/|author1=Nancy Froston |author2=Ed Mackey|title=Arsenal move 10 points clear at Premier League summit after Everton win: Live updates and reaction|website=[[The Athletic]]|date=14 March 2026|access-date=14 March 2026}}</ref>
+*Most consecutive Premier League matches scored in: 11, [[Jamie Vardy]] (for [[Leicester City F.C.|Leicester City]], 29 August – 28 November 2015)<ref>{{cite news|url=http://www.beinsports.com/us/premier-league/news/jamie-vardy-streak-finally-ends-as-riyad-mahr/150401|title=Jamie Vardy Streak Finally Ends as Riyad Mahrez Steals Show with Hat-Trick and Sends Leicester City to Top|website=beIN Sports|access-date=26 November 2016}}</ref>
+*Most consecutive home Premier League matches scored in: 15, [[Alan Shearer]] (for [[Newcastle United F.C.|Newcastle United]], 21 August 1996 – 11 May 1997)<ref>{{cite news |url=https://www.bbc.com/sport/articles/cle092ylyn3o |title=Newcastle v Tottenham: Pick of the stats |date=11 April 2024 |website=BBC Sport}}</ref>
+*Most consecutive away Premier League matches scored in: 9, [[Robin van Persie]] (for [[Arsenal F.C.|Arsenal]], 1 January – 22 May 2011)<ref>{{cite news |url=https://www.skysports.com/football/news/11979/6947218/numbers-game |title=Numbers game |date=24 May 2011|access-date=30 April 2013 |website=Sky Sports}}</ref>
+
+Players currently playing in the Premier League are highlighted in '''bold'''.
+
+{|class="wikitable sortable nowrap" style="text-align: center"
+|+Most goals (career)<ref name="autogenerated7">{{cite web |url=https://www.premierleague.com/en/stats/top/players?statMetric=goals&season=all |title=Premier League Player Stats: Goals – All Seasons |publisher=Premier League |access-date=1 September 2018 }}</ref>
+|-
+! Rank
+!style="width:175px"| Player
+!style="width:50px"| Goals
+! Games
+!style="width:40px"| {{Abbr|Ratio|Goals per game}}
+!style="width:50px"| Position
+!style="width:60px"| First goal
+!style="width:60px"| Last goal
+|-
+| 1
+|style="text-align:left"| {{flagicon|ENG}} [[Alan Shearer]] || '''260''' || 441 || {{Decimals|{{#expr:260/441}}|2}} || [[Forward (association football)|Forward]] || [[1992–93 Premier League|1992–93]] || [[2005–06 Premier League|2005–06]]
+|-
+| 2
+|style="text-align:left"| {{flagicon|ENG}} [[Harry Kane]] || '''213''' || 320 || {{Decimals|{{#expr:213/320}}|2}}|| Forward || [[2013–14 Premier League|2013–14]] || [[2022–23 Premier League|2022–23]]
+|-
+| 3
+|style="text-align:left"| {{flagicon|ENG}} [[Wayne Rooney]] || '''208''' || 491 || {{Decimals|{{#expr:208/491}}|2}} || Forward || [[2002–03 Premier League|2002–03]] || [[2017–18 Premier League|2017–18]]
+|-
+| 4
+|style="text-align:left"| {{flagicon|EGY}} [[Mohamed Salah]] || '''193''' || 328 || {{Decimals|{{#expr:193/328}}|2}} || Forward || [[2013–14 Premier League|2013–14]] || [[2025–26 Premier League|2025–26]]
+|-
+| 5
+|style="text-align:left"| {{flagicon|ENG}} [[Andy Cole]] || '''187'''|| 414 || {{Decimals|{{#expr:187/414}}|2}} || Forward || [[1993–94 Premier League|1993–94]] || [[2006–07 Premier League|2006–07]]
+|-
+| 6
+| style="text-align:left"| {{flagicon|ARG}} [[Sergio Agüero]] || '''184''' || 275 || {{Decimals|{{#expr:184/275}}|2}} || Forward || [[2011–12 Premier League|2011–12]] || [[2020–21 Premier League|2020–21]]
+|-
+| 7
+| style="text-align:left" | {{flagicon|ENG}} [[Frank Lampard]]|| '''177'''|| 609 || {{Decimals|{{#expr:177/609}}|2}}|| [[Midfielder]]|| [[1997–98 Premier League|1997–98]]|| [[2014–15 Premier League|2014–15]]
+|-
+| 8
+|style="text-align:left"| {{flagicon|FRA}} [[Thierry Henry]] || '''175''' || 258 || {{Decimals|{{#expr:175/258}}|2}} || Forward || [[1999–2000 Premier League|1999–2000]] || [[2011–12 Premier League|2011–12]]
+|-
+| 9
+|style="text-align:left"| {{flagicon|ENG}} [[Robbie Fowler]] || '''163''' || 379 || {{Decimals|{{#expr:163/379}}|2}} || Forward || [[1993–94 Premier League|1993–94]] || [[2006–07 Premier League|2006–07]]
+|-
+| 10
+|style="text-align:left"| {{flagicon|ENG}} [[Jermain Defoe]] || '''162''' || 496 || {{Decimals|{{#expr:162/496}}|2}} || Forward || [[2001–02 Premier League|2001–02]] || [[2017–18 Premier League|2017–18]]
+|}
+
+{{further|Premier League Golden Boot}}
+*Most goals in a season: 36, '''[[Erling Haaland]]''' ([[Manchester City F.C.|Manchester City]], [[2022–23 Premier League|2022–23]])<ref>{{Cite news |title=City's Haaland named Premier League Player of the Season |url=https://www.reuters.com/sports/soccer/citys-haaland-named-premier-league-player-season-2023-05-27/ |archive-url=https://web.archive.org/web/20230528085116/https://www.reuters.com/sports/soccer/citys-haaland-named-premier-league-player-season-2023-05-27/ |archive-date=2023-05-28 |access-date=2026-07-15 |work=Reuters |language=en-US}}</ref>
+*Most matches scored in during a Premier League season: 26<ref>{{cite tweet |author=Opta Sports |date=28 May 2023 |title=@HKane has scored in 26 different Premier League games this season, the joint-most games any player has scored in within a single campaign in the competition, along with Andrew Cole in 1993-94. Ceaseless. |number=1662846143514943490 |access-date=29 May 2023 |user=OptaJoe}}</ref>
+**[[Andy Cole]] ([[Newcastle United F.C.|Newcastle United]], [[1993–94 FA Premier League|1993–94]])
+**[[Harry Kane]] ([[Tottenham Hotspur F.C.|Tottenham Hotspur]], [[2022–23 Premier League|2022–23]])
+*Most Premier League goals in a calendar year: 39, [[Harry Kane]] ([[Tottenham Hotspur F.C.|Tottenham Hotspur]], 2017)<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/42360004|title=Tottenham Hotspur 5–2 Southampton|website=BBC Sport|date=26 December 2017|access-date=26 December 2017|first=Caroline|last=Chapman}}</ref>
+*Most Premier League teams scored against: 39, [[Frank Lampard]]<ref name="Lampard">{{cite news |title=Numbers that make Lampard a legend |url=https://www.premierleague.com/news/322739 |date=2 February 2017 |access-date=1 July 2023 |publisher=Premier League}}</ref>
+*Number of teams scored against in a season: 17
+**20-team league:<ref name="salah1">{{cite news|url=http://www.espn.com/soccer/liverpool/story/3495573/liverpools-mohamed-salah-breaks-premier-league-goals-records-wins-golden-boot|publisher=ESPN|date=13 May 2018|access-date=17 May 2018|title=Liverpool's Mohamed Salah breaks Premier League goals records, wins Golden Boot}}</ref>
+***[[Ian Wright]] ([[Arsenal F.C.|Arsenal]], [[1996–97 FA Premier League|1996–97]])
+***[[Robin van Persie]] ([[Arsenal F.C.|Arsenal]], [[2011–12 Premier League|2011–12]])
+***[[Mohamed Salah]] ([[Liverpool F.C.|Liverpool]], [[2017–18 Premier League|2017–18]], [[2024–25 Premier League|2024–25]])
+**''22-team league:''{{citation needed|date=May 2018}}
+***[[Andy Cole]] ([[Newcastle United F.C.|Newcastle United]], [[1993–94 FA Premier League|1993–94]])
+***[[Alan Shearer]] ([[Blackburn Rovers F.C.|Blackburn Rovers]], [[1994–95 FA Premier League|1994–95]])
+*Fastest goal: 7.69 seconds, [[Shane Long]] (for [[Southampton F.C.|Southampton]] ''v.'' [[Watford F.C.|Watford]], 23 April 2019)<ref>{{cite web |title=Long scores fastest goal in Premier League history |url=https://www.premierleague.com/news/1195500 |publisher=Premier League |access-date=23 April 2019 |date=23 April 2019}}</ref><ref>{{cite web|url=https://sportstar.thehindu.com/football/epl/fastest-premier-league-goal-shane-long-southampton-watford-ledley-king-records/article26926076.ece|title=Southampton's Shane Long scores fastest Premier League goal ever after seven seconds|first=Guy|last=Atkinson|date=24 April 2019|publisher=[[Sportstar]]|access-date=4 May 2019}}</ref>
+*Fastest goal on Premier League debut: 28 seconds, [[Odsonne Édouard]] (for [[Crystal Palace F.C.|Crystal Palace]] ''v.'' Tottenham Hotspur, 11 September 2021)<ref>{{Cite web|date=2021-09-12|title=Crystal Palace debutant Edouard set a Premier League record vs Spurs|url=https://www.101greatgoals.com/news/crystal-palace-debutant-odsonne-edouard-set-a-remarkable-premier-league-record-vs-spurs/|access-date=2021-09-14|website=Football (soccer) greatest goals and highlights {{!}} 101 Great Goals|language=en-GB|archive-date=4 December 2021|archive-url=https://web.archive.org/web/20211204153623/https://www.101greatgoals.com/news/crystal-palace-debutant-odsonne-edouard-set-a-remarkable-premier-league-record-vs-spurs/|url-status=dead}}</ref>
+*Latest goal: 103rd minute, [[Oli McBurnie]] (for Sheffield United ''v.'' West Ham United, 21 January 2024)<ref>{{Cite news |title=Latest ever Premier League goal scored in Blades draw |url=https://www.bbc.com/sport/football/67972912 |access-date=2024-01-21 |work=BBC Sport |language=en-GB}}</ref>
+*Most seasons scored in: 21, [[Ryan Giggs]] (every season from [[1992–93 FA Premier League|1992–93]] to [[2012–13 Premier League|2012–13]])<ref name="autogenerated10">{{cite web|url=http://www.manchestereveningnews.co.uk/sport/football/football-news/ryan-giggs-manchester-united-scoring-6987354|title=Will Giggs continue his scoring streak?|first=Simon|last=Bajkowski|date=15 April 2014|work=Manchester Evening News}}</ref>
+*Most consecutive seasons to score at least 30 goals: 3, [[Alan Shearer]] (1993–1996 for [[Blackburn Rovers F.C.|Blackburn Rovers]])<ref>{{cite web|url=https://www.espn.com/soccer/|title=Soccer Teams, Scores, Stats, News, Fixtures, Results, Tables|publisher=ESPN}}</ref>
+*Most consecutive seasons to score at least 25 goals: 4, [[Alan Shearer]] (1993–1996 for [[Blackburn Rovers F.C.|Blackburn Rovers]], 1996–1997 for [[Newcastle United F.C.|Newcastle United]])<ref name="autogenerated4">{{cite web|url=http://hitrowz.com/2013/07/14/the-myth-of-the-20-goal-a-season-forward/|title=hitrowz.com|url-status=dead|archive-url=https://archive.today/20150424201341/http://hitrowz.com/2013/07/14/the-myth-of-the-20-goal-a-season-forward/|archive-date=24 April 2015}}</ref>
+*Most consecutive seasons to score at least 20 goals: 5<ref name="henryaguero">{{cite web|url=https://www.premierleague.com/news/1184169|title=Aguero one goal from matching Henry's record|date=19 April 2019|access-date=14 January 2020|publisher=Premier League}}</ref>
+**[[Thierry Henry]] (2001–2006 for [[Arsenal F.C.|Arsenal]])
+**[[Sergio Agüero]] (2014–2019 for [[Manchester City F.C.|Manchester City]])
+*Most consecutive seasons to score at least 15 goals: 9, [[Harry Kane]] (2014–2023 for [[Tottenham Hotspur F.C.|Tottenham Hotspur]])<ref>{{Cite web|url=https://www.planetsport.com/soccer/news/antonio-conte-backing-harry-kane-break-every-goal-scoring-record|title=Antonio Conte backing Harry Kane to break every goal-scoring record|website=planetsport|date=5 January 2023 }}</ref>
+*Most consecutive seasons to score at least 10 goals: 11, [[Wayne Rooney]] (2004–2015 for [[Manchester United F.C.|Manchester United]])<ref>{{Cite web|url=https://www.skysports.com/football/news/11662/9864797/the-201415-premier-league-season-in-stats-and-facts|title=The 2014/15 Premier League season in stats and facts|website=Sky Sports}}</ref>
+*Most consecutive seasons to score at least 1 goal: 21, [[Ryan Giggs]] (1992–2013 for [[Manchester United F.C.|Manchester United]])<ref name=autogenerated10 />
+*Most different clubs to score for: 7, [[Craig Bellamy]] (for [[Coventry City F.C.|Coventry City]], [[Newcastle United F.C.|Newcastle United]], [[Blackburn Rovers F.C.|Blackburn Rovers]], [[Liverpool F.C.|Liverpool]], [[West Ham United F.C.|West Ham United]], [[Manchester City F.C.|Manchester City]], [[Cardiff City F.C.|Cardiff City]])<ref>{{cite web|url=https://www.mirror.co.uk/sport/football/match-reports/cardiff-2-1-norwich-match-report-3054466|title=Cardiff 2-1 Norwich: Craig Bellamy becomes the first player to score for SEVEN different Premier League clubs|first=Ken|last=Gorman|website=[[Daily Mirror]]|date=1 February 2014}}</ref>
+*Most scored from headers: 53, [[Peter Crouch]]<ref>{{cite web |url=https://www.guinnessworldrecords.com/world-records/464813-most-football-soccer-premier-league-headed-goals |title=Most football (soccer) Premier League headed goals |publisher=Guinness World Records }}</ref>
+*Most scored from outside the box: 41, [[Frank Lampard]]<ref name="Lampard"/>
+*Most goals scored as a substitute in a single season: 8, [[Adam Le Fondre]] ([[Reading F.C.|Reading]], [[2012–13 Premier League|2012–13]])<ref>{{cite news |title=Super-subs set RECORD for goals off the bench in a season |url=https://www.premierleague.com/news/3951036 |date=3 April 2024 |access-date=21 September 2024 |publisher=Premier League}}</ref>
+*Most goals scored as a teenager in their debut season: 13, [[Eli Junior Kroupi]] ([[AFC Bournemouth|Bournemouth]], [[2025–26 Premier League|2025-26]])<ref>{{Cite web |date=20 May 2026 |title=City draw gives Cherries historic Euro vision |url=https://www.afcb.co.uk/news/2026/may/19/match-report-v-man-city/ |url-status=live |access-date=20 May 2026 |website=AFC Bournemouth Club Website}}</ref>
+*Most own goals: 10, [[Richard Dunne]]<ref>{{cite web|url=https://www.independent.ie/sport/soccer/premier-league/richard-dunne-becomes-first-ever-player-to-bring-premier-league-own-goals-into-double-figures-30677133.html|title=Richard Dunne becomes first ever player to bring Premier League own goals into double figures|work=The Independent|date=20 October 2014 }}</ref>
+*Most own goals in a season: 4
+**[[Martin Škrtel]] ([[Liverpool F.C.|Liverpool]], [[2013–14 Premier League|2013–14]])<ref name=owngoals/>
+** '''[[Lewis Dunk]]''' ([[Brighton & Hove Albion F.C.|Brighton & Hove Albion]], [[2017–18 Premier League|2017–18]])<ref name="owngoals">{{cite news|url=http://www.goal.com/en/news/lewis-dunk-equals-own-goals-premier-league-record-brighton/ons930fyz4d51thscxzalszk8|title=Brighton's Lewis Dunk equals Premier League record for own goals in a season|website=Goal.com|access-date=28 February 2018}}</ref>
+*Most goals in a calendar month: 10 (December 2013), [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] ([[Liverpool F.C.|Liverpool]])<ref>{{cite news|url=http://www.premierleague.com/en-gb/news/news/2013-14/dec/luis-suarez-sets-bpl-goal-record-in-calendar-month.html|title=Luis Suarez sets record for goals scored in a month|publisher=Premier League|date=14 December 2013|access-date=24 April 2015|archive-date=18 January 2014|archive-url=https://web.archive.org/web/20140118121754/http://www.premierleague.com/en-gb/news/news/2013-14/dec/luis-suarez-sets-bpl-goal-record-in-calendar-month.html|url-status=dead}}</ref>
+
+====Penalties====
+*Most penalties scored: 56, [[Alan Shearer]]<ref>{{cite news |title=Baines moves into top ten of penalty specialists |url=https://www.premierleague.com/news/510534 |publisher=Premier League |access-date=28 December 2019 |date=6 November 2017}}</ref>
+*Most penalties missed: 11
+**[[Alan Shearer]]<ref name="pens missed">{{cite news|url=https://www.liverpoolecho.co.uk/sport/football/football-news/stat-explains-exactly-wayne-rooney-14398366|title=The stat which explains exactly why Wayne Rooney has been stripped of Everton penalty duty|publisher=Liverpool Echo|date=12 March 2018}}</ref>
+**[[Wayne Rooney]]<ref name="pens missed"/>
+*Oldest penalty goalscorer: 39 years and 239 days, [[James Milner]] (for [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] ''v.'' [[Manchester City F.C.|Manchester City]], 31 August 2025)<ref>{{cite web|url=https://www.premierleague.com/en/news/4403452/| date= 31 August 2025| website=[[Premier League]]|title=Milner becomes second-oldest scorer in Premier League history}}</ref>
+
+{|class="wikitable sortable nowrap" style="text-align: center"
+|+Most penalties scored (career)<ref>{{cite web|url=https://theanalyst.com/eu/2023/01/best-penalty-takers-in-the-premier-league|title=The Best Penalty Takers in the Premier League|website=The Analyst|date=13 January 2022}}</ref><ref>{{cite web|url=https://www.premierleague.com/stats/top/players/att_pen_goal?co=1&se=-1&co=1&cl=-1&iso=-1&po=-1?se=-1|title=Official Premier League penalties for PL careers started after 2006/07 season|publisher=Premier League|date=28 January 2022}}</ref>
+|-
+! Rank
+!style="width:175px"| Player
+!style="width:50px"| Scored
+! Taken
+!style="width:40px"| {{Abbr|Ratio|Conversion rate}}
+!style="width:50px"| Playing position
+|-
+| 1
+|style="text-align:left"| {{flagicon|ENG}} [[Alan Shearer]] || '''56''' || 67 || {{Decimals|{{#expr:56/67}}|2}} || [[Forward (association football)|Forward]]
+|-
+| 2
+|style="text-align:left"| {{flagicon|ENG}} [[Frank Lampard]] || '''43''' || 50 || {{Decimals|{{#expr:43/50}}|2}} || [[Midfielder]]
+|-
+| 3
+|style="text-align:left"| {{flagicon|EGY}} [[Mohamed Salah]] || '''35''' || 41 || {{Decimals|{{#expr:35/41}}|2}} || Forward
+|-
+| 4
+|style="text-align:left"| {{flagicon|ENG}} [[Harry Kane]] || '''33''' || 37 || {{Decimals|{{#expr:33/37}}|2}} || Forward
+|-
+| 5
+|style="text-align:left"| {{flagicon|ENG}} [[Steven Gerrard]] || '''32''' || 41 || {{Decimals|{{#expr:32/41}}|2}} || Midfielder
+|-
+| 6
+|style="text-align:left"| {{flagicon|ENG}} [[Mark Noble]] || '''28''' || 33 || {{Decimals|{{#expr:28/33}}|2}} || Midfielder
+|-
+|rowspan="2"| 7
+|style="text-align:left"| {{flagicon|ARG}} [[Sergio Agüero]] ||rowspan="2"| '''27''' || 33 || {{Decimals|{{#expr:27/33}}|2}} || Forward
+|-
+|style="text-align:left"| {{flagicon|ENG}} [[Jamie Vardy]] || 34 || {{Decimals|{{#expr:27/34}}|2}} || Forward
+|-
+|rowspan="2"| 9
+|style="text-align:left"| {{flagicon|ENG}} [[Matt Le Tissier]] ||rowspan="2"| '''25''' || 26 || {{Decimals|{{#expr:25/26}}|2}} || Midfielder
+|-
+|style="text-align:left"| {{flagicon|POR}} '''[[Bruno Fernandes]]''' || 31 || {{Decimals|{{#expr:25/31}}|2}} || Midfielder
+|-
+|}
+
+====Free kicks====
+{|class="wikitable sortable nowrap" style="text-align: center"
+|+Most direct free kick goals scored (career)<ref>{{cite news|url=https://www.goal.com/en/lists/beckham-ronaldo-ward-prowse-most-premier-league-free-kick-goals/bltc4ba544cb6c58e9e|title=Beckham, Ronaldo, Ward-Prowse & most Premier League free kick goals |date=14 January 2023|website=Goal.com}}</ref><ref>{{cite web|url=https://www.premierleague.com/stats/top/players/att_freekick_goal?co=1&se=-1&co=1&cl=-1&iso=-1&po=-1?se=-1|title=Premier League Player Stats: Freekicks scored – All Seasons (since 2006–07)|publisher=Premier League|access-date=26 April 2017}}</ref>
+|-
+! Rank
+!style="width:175px"| Player
+!style="width:50px"| Goals
+! Games
+!style="width:40px"| {{Abbr|Ratio|Goals per game}}
+!style="width:50px"| Playing position
+|-
+| 1
+|style="text-align:left"| {{flagicon|ENG}} [[David Beckham]] || '''18''' || 265 || {{Decimals|{{#expr:18/265}}|3}} || [[Midfielder]]
+|-
+| 2
+|style="text-align:left"| {{flagicon|ENG}} [[James Ward-Prowse]] || '''17''' || 422 || {{Decimals|{{#expr:17/422}}|3}} || Midfielder
+|-
+|rowspan="3"| 3
+|style="text-align:left"| {{flagicon|ITA}} [[Gianfranco Zola]] ||rowspan="3"| '''12''' || 229 || {{Decimals|{{#expr:12/229}}|3}} || [[Forward (association football)|Forward]]
+|-
+|style="text-align:left"| {{flagicon|POR}} [[Cristiano Ronaldo]] || 236 || {{Decimals|{{#expr:12/236}}|3}} || Forward
+|-
+|style="text-align:left"| {{flagicon|FRA}} [[Thierry Henry]] || 258 || {{Decimals|{{#expr:12/258}}|3}} || Forward
+|-
+|rowspan="2"| 6
+|style="text-align:left"| {{flagicon|FRA}} [[Laurent Robert]] ||rowspan="2"| '''11''' || 150 || {{Decimals|{{#expr:11/150}}|3}} || Forward
+|-
+|style="text-align:left"| {{flagicon|SWE}} [[Sebastian Larsson]] || 282 || {{Decimals|{{#expr:11/282}}|3}} || Midfielder
+|-
+|rowspan="2"| 8
+|style="text-align:left"| {{flagicon|IRL}} [[Ian Harte]] ||rowspan="2"| '''10''' || 237 || {{Decimals|{{#expr:10/237}}|3}} || [[Defender (association football)|Defender]]
+|-
+|style="text-align:left"| {{flagicon|NOR}} [[Morten Gamst Pedersen]] || 260 || {{Decimals|{{#expr:10/260}}|3}} || Midfielder
+|-
+|rowspan="4"| 10
+|style="text-align:left"| {{flagicon|ENG}} '''[[James Maddison]]''' ||rowspan="4"| '''9''' || 225 || {{Decimals|{{#expr:9/225}}|3}} || Midfielder
+|-
+|style="text-align:left"| {{flagicon|ENG}} [[Jamie Redknapp]] || 295 || {{Decimals|{{#expr:9/295}}|3}} || Midfielder
+|-
+|style="text-align:left"| {{flagicon|PER|football}} [[Nolberto Solano]] || 302 || {{Decimals|{{#expr:9/302}}|3}} || Midfielder
+|-
+|style="text-align:left"| {{flagicon|ENG}} [[Frank Lampard]] || 609 || {{Decimals|{{#expr:9/609}}|3}} || Midfielder
+|}
+
+====Hat-tricks & multiple goal records====
+{{further|List of Premier League hat-tricks}}
+*Most Premier League hat-tricks: 12, [[Sergio Agüero]]<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/50996712|title=Aston Villa 1–6 Manchester City: Sergio Aguero becomes highest overseas scorer in Premier League history|access-date=12 January 2020|first=Simon|last=Stone|date=12 January 2020|work=BBC Sport}}</ref>
+*Most Premier League hat-tricks in a season: 5, [[Alan Shearer]] ([[Blackburn Rovers F.C.|Blackburn Rovers]], [[1995–96 FA Premier League|1995–96]])<ref>{{cite web|url=https://www.theguardian.com/football/2007/oct/10/theknowledge.sport|title=Who has scored the most hat-tricks in a single season?|first1=James|last1=Dart|first2=Nicky|last2=Bandini|date=10 October 2007|work=The Guardian}}</ref>
+*Youngest player to score a Premier League hat-trick: 18 years and 62 days, [[Michael Owen]] ([[Sheffield Wednesday]] 3–3 ''[[Liverpool F.C.|Liverpool]]'', 14 February 1998)<ref>{{cite web |url=https://www.fastscore.com/match/sheffield-wednesday/liverpool/15487 |title=Sheffield Wednesday 3–3 Liverpool |website=FastScore.com |access-date=12 October 2020 }}</ref><ref>{{Cite web |url=https://www.statbunker.com/alltimestats/AllTimeYoungestScorer?comp_code=EPL |publisher=Statbunker|title= Premier League » All time - Youngest Goal Scorers|access-date=13 January 2020}}</ref>
+*Oldest player to score a Premier League hat-trick: 37 years and 146 days, [[Teddy Sheringham]] (''[[Portsmouth F.C.|Portsmouth]]'' 4–0 [[Bolton Wanderers]], 26 August 2003)<ref>{{cite web|url=https://ronaldo.com/football-news/five-of-the-oldest-hat-trick-scorers-in-europes-big-leagues/4/|title=Five of the oldest hat-trick scorers in Europe's big leagues|date=9 December 2019|access-date=13 January 2020|archive-date=13 January 2020|archive-url=https://web.archive.org/web/20200113141018/https://ronaldo.com/football-news/five-of-the-oldest-hat-trick-scorers-in-europes-big-leagues/4/|url-status=dead}}</ref>
+*Most goals in a match: 5<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/9221096.stm|title=Man Utd 7–1 Blackburn|date=27 November 2010|website=BBC Sport}}</ref>
+**[[Andy Cole]] (''[[Manchester United F.C.|Manchester United]]'' [[Manchester United F.C. 9–0 Ipswich Town F.C.|9–0]] [[Ipswich Town F.C.|Ipswich Town]], 4 March 1995)
+**[[Alan Shearer]] (''[[Newcastle United F.C.|Newcastle United]]'' 8–0 [[Sheffield Wednesday F.C.|Sheffield Wednesday]], 19 September 1999)
+**[[Jermain Defoe]] (''[[Tottenham Hotspur F.C.|Tottenham Hotspur]]'' 9–1 [[Wigan Athletic F.C.|Wigan Athletic]], 22 November 2009)
+**[[Dimitar Berbatov]] (''[[Manchester United F.C.|Manchester United]]'' 7–1 [[Blackburn Rovers F.C.|Blackburn Rovers]], 27 November 2010)
+**[[Sergio Agüero]] (''[[Manchester City F.C.|Manchester City]]'' 6–1 [[Newcastle United F.C.|Newcastle United]], 3 October 2015)
+*Most hat-tricks against a single club: 3, [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] (''[[Liverpool F.C.|Liverpool]]'' ''v.'' [[Norwich City F.C.|Norwich City]])<ref>{{cite news|url=http://www.express.co.uk/sport/football/446824/Liverpool-s-Luis-Suarez-makes-history-against-Norwich-City|title=Liverpool's Luis Suarez makes history against Norwich City|first=Gary|last=Chappell|publisher=Daily Express|date=5 December 2013}}</ref>
+*Fastest Premier League hat-trick: 2 minutes 56 seconds, [[Sadio Mané]] (''[[Southampton F.C.|Southampton]]'' 6–1 [[Aston Villa F.C.|Aston Villa]], 16 May 2015)<ref>{{cite web|url=https://www.mirror.co.uk/sport/row-zed/sadio-mane-scores-fastest-hat-trick-5706661|title=The funniest tweets of disbelief as Sadio Mane scores three-minute hat-trick|first=Richard|last=Innes|publisher=Daily Mirror|date=16 May 2015}}</ref>
+*Most goals in one half: 5, [[Jermain Defoe]] (''[[Tottenham Hotspur F.C.|Tottenham Hotspur]]'' 9–1 [[Wigan Athletic F.C.|Wigan Athletic]], 22 November 2009)<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/8365091.stm|title=Tottenham 9-1 Wigan|date=22 November 2009|website=BBC Sport}}</ref>
+*Most goals scored by a substitute in a match: 4, [[Ole Gunnar Solskjær]] ([[Nottingham Forest F.C.|Nottingham Forest]] [[Nottingham Forest 1–8 Manchester United|1–8]] ''[[Manchester United F.C.|Manchester United]]'', 6 February 1999)<ref>{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/the-biggest-wins-in-the-premier-league-1826280.html?action=gallery&ino=4|title=The biggest wins in the Premier League|date=23 August 2010|work=The Independent}}</ref>
+*Most consecutive Premier League goal-scoring appearances by a player against a single opponent: 9, [[Sadio Mané]] (''[[Liverpool F.C.|Liverpool]]'' ''v.'' [[Crystal Palace F.C.|Crystal Palace]], 19 August 2017 to 18 September 2021)<ref>{{cite news|date=24 May 2021|title=Sadio Mané catches up with Robin Van Persie|url=https://news.in-24.com/sports/news/71152.html|access-date=6 June 2021|website=News in 24 Sports|archive-date=6 June 2021|archive-url=https://web.archive.org/web/20210606171539/https://news.in-24.com/sports/news/71152.html|url-status=dead}}</ref><ref>{{cite web|title=Goals by Sadio Mané against Crystal Palace - LFChistory - Stats galore for Liverpool FC!|url=https://www.lfchistory.net/Players/Player/GoalsPerTeam/1303-75|access-date=6 June 2021|website=LFC History}}</ref>
+*Most own goals scored by a player in a match: 2
+**[[Jamie Carragher]] (Liverpool player; [[Liverpool F.C.|Liverpool]] 2–3 [[Manchester United]], 11 September 1999)<ref>{{cite news|url=http://www.theguardian.com/football/1999/sep/11/newsstory.sport6|title=Liverpool 2 - 3 Manchester United|date=11 September 1999|work=The Guardian}}</ref>
+**[[Michael Proctor (footballer)|Michael Proctor]] (Sunderland player; [[Sunderland F.C.|Sunderland]] 1–3 [[Charlton Athletic]], 1 February 2003)<ref>{{cite book|url=https://books.google.com/books?id=E-saDAAAQBAJ&dq=Sunderland%27s+Michael+Proctor+then+scored+twice+for+Charlton+in+2003.&pg=PA71-IA26|title=The Mammoth Football Quiz Book|first=Nick|last=Holt|date=24 November 2016|publisher=Little, Brown Book Group|isbn=9781472137623 |via=Google Books}}</ref>
+**[[Jonathan Walters]] (Stoke City player; [[Stoke City F.C.|Stoke City]] 0–4 [[Chelsea F.C.|Chelsea]], 12 January 2013)<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/20919045|title=Stoke 0–4 Chelsea|date=12 January 2013|work=BBC Sport}}</ref>
+**[[Wout Faes]] (Leicester City player; [[Liverpool F.C.|Liverpool]] 2–1 [[Leicester City F.C.|Leicester City]], 30 December 2022)<ref>{{cite web|url=https://www.si.com/fannation/soccer/futbol/news/wout-faes-not-the-1st-epl-player-to-score-2-own-goals-in-1-game|title=Wout Faes Is Not The First Premier League Player To Score Two Own Goals In One Game|first=Robert|last=Summerscales|website=Futbol on FanNation|date=30 December 2022 }}</ref>
+**[[Craig Dawson]] (Wolverhampton Wanderers player; [[Everton F.C.|Everton]] 4–0 [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]], 4 December 2024)<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/live/cq8v8p4031et|title=Everton 4-0 Wolves: Ashley Young, Orel Mangala and Craig Dawson's two own goals pile pressure on Gary O'Neil|first=Shamoon|last=Hafez|website=BBC Sport|date=4 December 2024|access-date=19 December 2024 }}</ref>
+**[[Maxime Estève]] (Burnley player; [[Manchester City F.C.|Manchester City]] 5–1 [[Burnley F.C.|Burnley]], 27 September 2025)<ref>{{cite web|url= https://www.bbc.co.uk/sport/football/live/cx27lln0xjjt|title=Man City 5–1 Burnley|date=27 September 2025|work=BBC Sport}}</ref>
+
+===Assists===
+Players currently playing in the Premier League are highlighted in '''bold'''.
+
+{|class="wikitable sortable nowrap" style="text-align: center"
+|+ Most assists (career)<ref name="PL-assists">{{cite web|url=https://www.premierleague.com/en/stats/top/players?statMetric=goalAssists&season=all|title=Premier League Player Stats: Assists – All Seasons|publisher=Premier League|access-date=26 April 2017}}</ref>
+|-
+!Rank
+!style="width:175px"| Player
+!Assists
+!Games
+!style="width:40px"| {{Abbr|Ratio|Assists per game}}
+!style="width:50px"| Position
+!style="width:60px"| First assist
+!style="width:60px"| Last assist
+|-
+| 1
+|style="text-align:left"| {{flagicon|WAL}} [[Ryan Giggs]] || '''162''' || 632 || {{Decimals|{{#expr:162/632}}|2}} || [[Midfielder]] || [[1992–93 Premier League|1992–93]] || [[2012–13 Premier League|2012–13]]
+|-
+| 2
+|style="text-align:left"| {{flagicon|BEL}} [[Kevin De Bruyne]] || '''119''' || 288 || {{Decimals|{{#expr:119/288}}|2}} || Midfielder || [[2013–14 Premier League|2013–14]] || [[2024–25 Premier League|2024–25]]
+|-
+| 3
+|style="text-align:left"| {{flagicon|ESP}} [[Cesc Fàbregas]] || '''111''' || 350 || {{Decimals|{{#expr:111/350}}|2}} || Midfielder || [[2004–05 Premier League|2004–05]] || [[2017–18 Premier League|2017–18]]
+|-
+| 4
+|style="text-align:left"| {{flagicon|ENG}} [[Wayne Rooney]] || '''103''' || 491 || {{Decimals|{{#expr:103/491}}|2}} || [[Forward (association football)|Forward]] || [[2002–03 Premier League|2002–03]] || [[2017–18 Premier League|2017–18]]
+|-
+| 5
+|style="text-align:left"| {{flagicon|ENG}} [[Frank Lampard]] || '''102''' || 609 || {{Decimals|{{#expr:102/609}}|2}} || Midfielder || [[1997–98 Premier League|1997–98]] || [[2014–15 Premier League|2014–15]]
+|-
+| rowspan="2" | 6
+|style="text-align:left"| {{flagicon|NED}} [[Dennis Bergkamp]] || '''94''' || 315 || {{Decimals|{{#expr:94/315}}|2}} || Forward || [[1995–96 Premier League|1995–96]] || [[2005–06 Premier League|2005–06]]
+|-
+|style="text-align:left"| {{flagicon|EGY}} [[Mohamed Salah]] || '''94''' || 328 || {{Decimals|{{#expr:94/328}}|2}} || Forward || [[2013–14 Premier League|2013–14]] || [[2025–26 Premier League|2025–26]]
+|-
+| 8
+|style="text-align:left"| {{flagicon|ESP}} [[David Silva]] || '''93''' || 309 || {{Decimals|{{#expr:93/309}}|2}} || Midfielder || [[2010–11 Premier League|2010–11]] || [[2019–20 Premier League|2019–20]]
+|-
+| 9
+|style="text-align:left"| {{flagicon|ENG}} [[Steven Gerrard]] || '''92''' || 504 || {{Decimals|{{#expr:92/504}}|2}} || Midfielder || [[1999–2000 Premier League|1999–2000]] || [[2014–15 Premier League|2014–15]]
+|-
+| 10
+|style="text-align:left"| {{flagicon|ENG}} [[James Milner]] || '''90''' || 658 || {{Decimals|{{#expr:90/658}}|2}} || Midfielder || [[2004–05 Premier League|2004–05]] || [[2025–26 Premier League|2025–26]]
+|}
+
+*Only player with 20+ goals and 20+ assists in a season: [[Thierry Henry]] (24 goals, 20 assists, 2002-03)<ref>{{cite news |title=Players in the Premier League with 20 goals and 20 assists in a season |url=https://www.statmuse.com/fc/ask/players-in-the-premier-league-with-20-goals-and-20-assists-in-a-season |publisher=StatMuse |date=26 May 2026 |access-date=26 May 2026}}</ref>
+*Most Premier League assists in a season: 21, '''[[Bruno Fernandes]]''' ([[Manchester United F.C.|Manchester United]], [[2025–26 Premier League|2025–26]])<ref>{{cite news |title=Fernandes breaks Premier League record with 21st assist of the season |url=https://www.premierleague.com/en/news/4615664/fernandes-breaks-premier-league-record-with-21st-assist-of-the-season |publisher=Premier League |date=24 May 2026 |access-date=24 May 2026}}</ref>
+*Quickest player to reach 50 assists: [[Kevin De Bruyne]], 123 matches<ref>{{cite news |title=De Bruyne sets League record for quickest 50 assists |url=https://www.premierleague.com/news/1319107 |publisher=Premier League |date=27 August 2019}}</ref>
+*Most consecutive Premier League matches with an assist: 7, [[Mesut Özil]] (for [[Arsenal F.C.|Arsenal]], 26 September – 21 November 2015)<ref>{{Cite web|url=https://www.skysports.com/football/news/15118/10061734/mesut-ozil-breaks-premier-league-assist-record-against-tottenham|title=Mesut Ozil breaks Premier League assist record against Tottenham|website=Sky Sports}}</ref>
+*Most assists from one player to another: 24<ref>{{cite news |title=Top 10 duos in Premier League history for combined goals and assists |url=https://www.bbc.co.uk/sport/football/66096883 |work=BBC Sport }}</ref>
+**[[Frank Lampard]] to [[Didier Drogba]]
+**[[Harry Kane]] to [[Son Heung-min]]
+*Most goals/assists between two players: 47, [[Harry Kane]] and [[Son Heung-min]]<ref name="combinations">{{cite news |title=Premier League Records|url=https://www.premierleague.com/stats/records |publisher=Premier League |date=19 February 2023}}</ref>
+*Most goals/assists between two players in a season: 14, [[Harry Kane]] and [[Son Heung-min]] ([[Tottenham Hotspur F.C.|Tottenham Hotspur]], [[2020–21 Premier League|2020–21]])<ref name="combinations"/>
+*Most individual assist givers in one match for the same team: 7, [[Crystal Palace F.C.|Crystal Palace]] 0–7 [[Liverpool F.C.|Liverpool]] (19 December 2020)<ref name="20/21 records"/>
+*Most assists in a single Premier League match: 4<ref>[https://web.archive.org/web/20150708094159/http://www.premierleague.com/en-gb/history/records/ Premier League Records], Premier League</ref>
+**[[Dennis Bergkamp]] (''[[Arsenal F.C.|Arsenal]]'' 5–0 [[Leicester City F.C.|Leicester City]], 20 February 1999)
+**[[José Antonio Reyes]] (''[[Arsenal F.C.|Arsenal]]'' 7–0 [[Middlesbrough F.C.|Middlesbrough]], 14 January 2006)
+**[[Cesc Fàbregas]] (''[[Arsenal F.C.|Arsenal]]'' 6–2 [[Blackburn Rovers F.C.|Blackburn Rovers]], 4 October 2009)
+**[[Emmanuel Adebayor]] (''[[Tottenham Hotspur F.C.|Tottenham Hotspur]]'' 5–0 [[Newcastle United F.C.|Newcastle United]], 11 February 2012)
+**[[Santi Cazorla]] (''[[Arsenal F.C.|Arsenal]]'' 4–1 [[Wigan Athletic F.C.|Wigan Athletic]], 14 May 2013)
+**[[Dušan Tadić]] (''[[Southampton F.C.|Southampton]]'' 8–0 [[Sunderland A.F.C.|Sunderland]], 18 October 2014)<ref>[https://www.standard.co.uk/sport/football/southampton-8-sunderland-0-dusan-tadic-equals-premier-league-assist-record-in-rout-9803884.html Southampton 8 Sunderland 0: Dusan Tadic equals Premier League assist record as Saints decimate Black Cats], ''London Evening Standard''</ref>
+**[[Harry Kane]] ([[Southampton F.C.|Southampton]] 2–5 ''[[Tottenham Hotspur F.C.|Tottenham Hotspur]]'', 20 September 2020) – only instance in which all four assists were to a single player ([[Son Heung-min]])<ref>[https://talksport.com/football/762334/harry-kane-assists-premier-league-record-heung-min-son-gareth-bale-tottenham/ Harry Kane sets Premier League record as partnership with Heung-min Son continues to thrive – with Gareth Bale set to bolster Tottenham attack], ''Talk Sport''</ref>
+**[[Paul Pogba]] (''[[Manchester United F.C.|Manchester United]]'' 5–1 [[Leeds United F.C.|Leeds United]], 14 August 2021)<ref>[https://www.bbc.co.uk/sport/football/58124893 Fernandes hat-trick helps Man Utd thump Leeds], ''BBC Sport''</ref>
+**'''[[Jérémy Doku]]''' (''[[Manchester City F.C.|Manchester City]]'' 6–1 [[AFC Bournemouth|Bournemouth]], 4 November 2023)<ref>{{Cite news |title=Doku shines as Man City thrash Bournemouth to go top |work=BBC Sport |url=https://www.bbc.com/sport/football/67247518 |access-date=4 November 2023|date=4 November 2023}}</ref>
+
+===Goalkeepers===
+{{further|Premier League Golden Glove}}
+{{further|List of Premier League goalkeepers with 100 or more clean sheets}}
+
+Players currently playing in the Premier League are highlighted in '''bold'''.
+
+{|class="wikitable sortable nowrap" style="text-align: center"
+|+ Most clean sheets (career)<ref>{{cite web|url=https://www.premierleague.com/en/stats/top/players?statMetric=cleanSheets&season=all&position=Goalkeeper|title=Premier League Player Stats: Clean Sheets – All Seasons|publisher=Premier League|access-date=11 July 2020}}</ref>
+|-
+! Rank !!style="width:175px"| Player !! Clean <br> sheets !! Games !!style="width:40px"| {{Abbr|Ratio|Clean sheets per game}} !!style="width:60px"| First season !!style="width:60px"| Last season
+|-
+| 1 ||style="text-align:left"| {{flagicon|CZE}} [[Petr Čech]] || '''202''' || 443 || {{Decimals|{{#expr:202/443}}|2}} || [[2004–05 Premier League|2004–05]] || [[2018–19 Premier League|2018–19]]
+|-
+| 2 ||style="text-align:left"| {{flagicon|ENG}} [[David James (footballer, born 1970)|David James]] || '''169''' || 572 || {{Decimals|{{#expr:169/572}}|2}} || [[1992–93 Premier League|1992–93]] || [[2009–10 Premier League|2009–10]]
+|-
+| 3 ||style="text-align:left"| {{flagicon|AUS}} [[Mark Schwarzer]] || '''152''' || 514 || {{Decimals|{{#expr:152/514}}|2}} || [[1996–97 Premier League|1996–97]] || [[2014–15 Premier League|2014–15]]
+|-
+| 4 ||style="text-align:left"| {{flagicon|ESP}} [[David de Gea]] || '''147''' || 415 || {{Decimals|{{#expr:147/415}}|2}}|| [[2011-12 Premier League|2011–12]] || [[2022–23 Premier League|2022–23]]
+|-
+| 5 ||style="text-align:left"| {{flagicon|ENG}} [[David Seaman]] || '''141''' || 344 || {{Decimals|{{#expr:141/344}}|2}} || [[1992–93 Premier League|1992–93]] || [[2003–04 Premier League|2003–04]]
+|-
+| 6 ||style="text-align:left"| {{flagicon|ENG}} [[Nigel Martyn]] || '''137''' || 372 || {{Decimals|{{#expr:137/372}}|2}} || [[1992–93 Premier League|1992–93]] || [[2005–06 Premier League|2005–06]]
+|-
+| 7 ||style="text-align:left"| {{flagicon|ESP}} [[Pepe Reina]] || '''136''' || 297 || {{Decimals|{{#expr:136/297}}|2}} || [[2005–06 Premier League|2005–06]] || [[2019–20 Premier League|2019–20]]
+|-
+|rowspan="3"| 8 ||style="text-align:left"| {{flagicon|NED}} [[Edwin van der Sar]] ||rowspan="3"|'''132''' || 313 || {{Decimals|{{#expr:132/313}}|2}} || [[2001–02 Premier League|2001–02]] || [[2010–11 Premier League|2010–11]]
+|-
+|style="text-align:left"| {{flagicon|USA}} [[Tim Howard]] || 399 || {{Decimals|{{#expr:132/399}}|2}} || [[2003–04 Premier League|2003–04]] || [[2015–16 Premier League|2015–16]]
+|-
+|style="text-align:left"| {{flagicon|USA}} [[Brad Friedel]] || 450 || {{Decimals|{{#expr:132/450}}|2}} || [[1997–98 Premier League|1997–98]] || [[2013–14 Premier League|2013–14]]
+|}
+
+*Most Premier League clean sheets (career): 202, [[Petr Čech]]<ref>{{cite web|url=https://www.premierleague.com/stats/records|title=Premier League Records|access-date=26 June 2020|publisher=Premier League}}</ref>
+*Most clean sheets in one season: 24, [[Petr Čech]] (for [[Chelsea F.C.|Chelsea]], [[2004–05 in English football|2004–05]])<ref>{{cite web|url=https://www.premierleague.com/players/2651/Petr-Cech/stats?co=1&se=13|title=Petr Cech Statistics – 2004/05|access-date=17 December 2017|publisher=Premier League}}</ref>
+*Longest consecutive run without conceding a goal: 14 matches (1,311 minutes), [[Edwin van der Sar]] (for [[Manchester United F.C.|Manchester United]], [[2008–09 Premier League|2008–09]])<ref>{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/brad-friedel-and-other-incredible-premier-league-records-8202614.html?action=gallery&ino=6|title=Brad Friedel and other incredible Premier League records|date=8 October 2012}}</ref>
+*Most clean sheets at one club: 162, [[Petr Čech]] (for [[Chelsea F.C.|Chelsea]])<ref name="PLrecords"/>
+*Most penalties saved: 13, [[David James (footballer, born 1970)|David James]]<ref name="PLrecords"/>
+*Most assists by a goalkeeper: 7, [[Ederson (footballer, born 1993)|Ederson]] (for [[Manchester City F.C.|Manchester City]]).<ref>{{Cite web |title=Most Assists By A Goalkeeper Of All-time |url=https://www.statmuse.com/fc/ask?q=most+assists+by+a+goalkeeper+of+all-time&l=pl |access-date=2025-04-13 |website=StatMuse |language=en}}</ref>
+*[[List of goalkeepers who have scored in the Premier League|Goalscoring goalkeepers]] (excluding own goals):
+**[[Peter Schmeichel]] ([[Everton F.C.|Everton]] 3–2 ''[[Aston Villa F.C.|Aston Villa]]'', 20 October 2001)<ref>{{cite news|url=https://news.bbc.co.uk/sport1/hi/football/eng_prem/1606115.stm|title=Schmeichel strike in vain|date=20 October 2001|website=BBC Sport}}</ref>
+**[[Brad Friedel]] ([[Charlton Athletic F.C.|Charlton Athletic]] 3–2 ''[[Blackburn Rovers F.C.|Blackburn Rovers]]'', 21 February 2004)<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/3496741.stm|title=Charlton 3–2 Blackburn|date=21 February 2004|website=BBC Sport}}</ref>
+**[[Paul Robinson (footballer, born 1979)|Paul Robinson]] (''[[Tottenham Hotspur F.C.|Tottenham Hotspur]]'' 3–1 [[Watford F.C.|Watford]], 17 March 2007)<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/6437237.stm|title=Tottenham 3–1 Watford|date=17 March 2007|website=BBC Sport}}</ref>
+**[[Tim Howard]] (''[[Everton F.C.|Everton]]'' 1–2 [[Bolton Wanderers F.C.|Bolton Wanderers]], 4 January 2012)<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/16343401|title=Everton 1–2 Bolton|first=Arindam|last=Rej|work=BBC Sport}}</ref>
+**[[Asmir Begović]] (''[[Stoke City F.C.|Stoke City]]'' 1–1 [[Southampton F.C.|Southampton]], 2 November 2013)<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/29061851|title=Stoke City goalkeeper Asmir Begovic enters record books|work=BBC Sport}}</ref>
+**'''[[Alisson Becker|Alisson]]''' ([[West Bromwich Albion F.C.|West Bromwich Albion]] 1–2 ''[[Liverpool F.C.|Liverpool]]'', 16 May 2021)<ref>{{cite web|last=Dawkes|first=Phil|title=West Brom 1–2 Liverpool: Alisson stunner keeps Liverpool in top-four hunt|url=https://www.bbc.co.uk/sport/football/57044633|website=BBC Sport|date=16 May 2021|access-date=16 May 2021}}</ref>
+
+===Disciplinary===
+*Most red cards for a player: 8<ref name="ReferenceA">{{cite web|url=https://www.premierleague.com/stats/all-time|title=Premier League Club Records, All-Time Team & Player Stats|publisher=Premier League}}</ref>
+**[[Richard Dunne]]
+**[[Duncan Ferguson]]
+**[[Patrick Vieira]]
+*Most red cards in a season: 3<ref name="combinations"/>
+**[[Vinnie Jones]] ([[Wimbledon F.C.|Wimbledon]], [[1995–96 FA Premier League|1995–96]])
+**[[Slaven Bilić]] ([[Everton F.C.|Everton]], [[1997–98 FA Premier League|1997–98]])
+**[[David Batty]] ([[Newcastle United F.C.|Newcastle United]], [[1997–98 FA Premier League|1997–98]])
+**[[Craig Short]] ([[Blackburn Rovers F.C.|Blackburn Rovers]], [[2001–02 FA Premier League|2001–02]])
+**[[Franck Queudrue]] ([[Middlesbrough F.C.|Middlesbrough]], [[2002–03 FA Premier League|2002–03]])
+**[[Wes Brown]] ([[Sunderland A.F.C.|Sunderland]], [[2013–14 Premier League|2013–14]])
+**[[Victor Wanyama]] ([[Southampton F.C.|Southampton]], [[2015–16 Premier League|2015–16]])
+*Most yellow cards for a player: 123, [[Gareth Barry]]<ref>{{cite web|url=https://www.premierleague.com/en/stats/top/players?statMetric=yellowCards&season=all|title=Yellow Cards|access-date=10 March 2026}}</ref>
+*Most yellow cards in a season: 14<ref name="combinations"/>
+**[[Mark Hughes]] ([[Southampton F.C.|Southampton]], [[1998–99 FA Premier League|1998–99]])
+**[[Robbie Savage]] ([[Leicester City F.C.|Leicester City]], [[2001–02 FA Premier League|2001–02]])
+**[[Cheick Tioté]] ([[Newcastle United F.C.|Newcastle United]], [[2010–11 Premier League|2010–11]])
+**[[Lee Cattermole]] ([[Sunderland A.F.C.|Sunderland]], [[2014–15 Premier League|2014–15]])
+**[[José Holebas]] ([[Watford F.C.|Watford]], [[2016–17 Premier League|2016–17]])
+**[[Étienne Capoue]] ([[Watford F.C.|Watford]], [[2018–19 Premier League|2018–19]])
+**[[João Palhinha]] ([[Fulham F.C.|Fulham]], [[2022–23 Premier League|2022–23]])
+*Most fouls: 633, [[Gareth Barry]] (since [[2006–07 FA Premier League|2006–07]], the first season for which reliable records are available)<ref>{{cite web|url=https://www.premierleague.com/stats/top/players/fouls |title=Premier League Player Stats |access-date=3 July 2020 |publisher=Premier League }}</ref>
+*Most penalties conceded in a season: 5, [[David Luiz]] ([[Arsenal F.C.|Arsenal]], [[2019–20 Premier League|2019–20]])<ref>{{cite web|url=https://www.goal.com/en-gb/amp/news/luiz-sets-premier-league-record-after-arsenal-defender/1ikknbmw3qzes18z0ndrfrzr3c|website=goal.com|title=Luiz sets Premier League record after Arsenal defender concedes fifth penalty of the season|date=26 July 2020|access-date=26 July 2020}}</ref>
+*Longest ban: 12 matches, [[Joey Barton]] – after being [[Red card (association football)|dismissed]] for violent conduct against Manchester City on 13 May 2012, Barton was found guilty of two further separate counts of violent conduct<ref>{{cite web |title=Joey Barton: QPR captain banned for 12 matches by FA |url=https://www.bbc.co.uk/sport/football/18183661 |website=BBC Sport|date=23 May 2012 |access-date=19 March 2016}}</ref>
+*Fastest booking: 24 seconds, [[Scott McTominay]] (for [[Manchester United F.C.|Manchester United]] ''v.'' [[Newcastle United F.C.|Newcastle United]], 26 December 2019)<ref>{{cite web|url=https://en.as.com/en/2019/12/26/football/1577393263_332287.html|website=AS|title=Manchester United's McTominay earns fastest yellow card in Premier League history|date=26 December 2019|access-date=2 July 2020|archive-date=24 January 2020|archive-url=https://web.archive.org/web/20200124005029/https://en.as.com/en/2019/12/26/football/1577393263_332287.html|url-status=dead}}</ref>
+*Most appearances without a booking: 201, [[John Barnes (footballer)|John Barnes]]<ref>{{cite web|url=https://www.skysports.com/football/news/11662/11560916/premier-league-good-guys-the-best-disciplinary-records|website=Sky Sports|title=Premier League good guys: The best disciplinary records|access-date=2 July 2020}}</ref>
+
+===Awards===
+*Most Premier League winner's medals: 13<ref name="PLrecords"/> 
+**[[Ryan Giggs]] ([[1992–93 FA Premier League|1992–93]], [[1993–94 FA Premier League|1993–94]], [[1995–96 FA Premier League|1995–96]], [[1996–97 FA Premier League|1996–97]], [[1998–99 FA Premier League|1998–99]], [[1999–2000 FA Premier League|1999–2000]], [[2000–01 FA Premier League|2000–01]], [[2002–03 FA Premier League|2002–03]], [[2006–07 FA Premier League|2006–07]], [[2007–08 FA Premier League|2007–08]], [[2008–09 FA Premier League|2008–09]], [[2010–11 FA Premier League|2010–11]], [[2012–13 FA Premier League|2012–13]])
+*Most [[Premier League Player of the Season|Player of the Season]] awards: 2<ref name="PLrecords"/>
+**[[Thierry Henry]] ([[2003–04 FA Premier League|2003–04]] and [[2005–06 FA Premier League|2005–06]])
+**[[Cristiano Ronaldo]] ([[2006–07 FA Premier League|2006–07]] and [[2007–08 FA Premier League|2007–08]])
+**[[Nemanja Vidić]] ([[2008–09 FA Premier League|2008–09]] and [[2010–11 FA Premier League|2010–11]])
+**[[Kevin De Bruyne]] ([[2019–20 Premier League|2019–20]] and [[2021–22 Premier League|2021–22]])
+**[[Mohamed Salah]] ([[2017–18 Premier League|2017–18]] and [[2024–25 Premier League|2024–25]])
+*Most [[Premier League Player of the Month|Player of the Month]] awards: 7<ref name="PLrecords"/>
+**[[Sergio Agüero]] (October 2013, November 2014, January 2016, April 2016, January 2018, February 2019, January 2020)<ref>{{cite news|url=https://www.premierleague.com/news/1603303|title=Aguero wins record seventh EA SPORTS Player of the Month|date=7 February 2020|work=BBC Sport|access-date=7 February 2020}}</ref>
+**[[Harry Kane]] (January 2015, February 2015, March 2016, February 2017, September 2017, December 2017, March 2022)
+**[[Mohamed Salah]] (November 2017, February 2018, March 2018, October 2021, October 2023, November 2024, February 2025)
+*Most [[Premier League Golden Boot|Golden Boot]] Awards: 4<ref>{{cite news|url=https://www.premierleague.com/news/1206108|date=23 May 2021|publisher=Premier League|title=Premier League Golden Boot award winners}}</ref>
+**[[Thierry Henry]] ([[2001–02 FA Premier League|2001–02]], [[2003–04 FA Premier League|2003–04]], [[2004–05 FA Premier League|2004–05]], [[2005–06 FA Premier League|2005–06]])
+**[[Mohamed Salah]] ([[2017–18 Premier League|2017–18]], [[2018–19 Premier League|2018–19]], [[2021–22 Premier League|2021–22]], [[2024–25 Premier League|2024–25]])
+*Most [[Premier League Playmaker of the Season|Playmaker]] Awards: 3<ref>{{cite news|url=https://www.premierleague.com/news/1206143|date=25 May 2025|publisher=Premier League|title=Premier League Playmaker award winners}}</ref>
+**[[Kevin De Bruyne]] ([[2017–18 Premier League|2017–18]], [[2019–20 Premier League|2019–20]], [[2022–23 Premier League|2022–23]])
+*Most [[Premier League Golden Glove|Golden Glove]] Awards: 4<ref>{{cite news|url=https://www.premierleague.com/news/1206130|date=23 May 2021|publisher=Premier League|title=Premier League Golden Glove award winners}}</ref>
+**[[Joe Hart]] ([[2010–11 Premier League|2010–11]], [[2011–12 Premier League|2011–12]], [[2012–13 Premier League|2012–13]], [[2014–15 Premier League|2014–15]])
+**[[Petr Čech]] ([[2010–11 Premier League|2004–05]], [[2009–10 Premier League|2009–10]], [[2013–14 Premier League|2013–14]], [[2015–16 Premier League|2015–16]])
+
+==Match records==
+
+===Scorelines===
+{{further|List of highest-scoring Premier League matches}}
+*Biggest home win: 9–0
+**[[Manchester United F.C.|Manchester United]] [[Manchester United F.C. 9–0 Ipswich Town F.C.|9–0]] [[Ipswich Town F.C.|Ipswich Town]] (4 March 1995)<ref name="autogenerated2">{{cite web|url=http://www.dangerhere.com/10-biggest-premier-league-thrashings|archive-url=https://web.archive.org/web/20130430072007/http://www.dangerhere.com/10-biggest-premier-league-thrashings/|url-status=dead|archive-date=30 April 2013|title=10 Biggest Thrashings in Premier League History|work=Danger Here|date=8 March 2013}}</ref>
+**Manchester United [[Manchester United F.C. 9–0 Southampton F.C.|9–0]] [[Southampton F.C.|Southampton]] (2 February 2021)<ref name="Manchester United 9–0 Southampton">{{cite news |url=https://www.bbc.com/sport/football/55806211|first=Simon|last=Stone |title=Man United 9–0 Southampton: United score nine against Saints|work=BBC Sport |date=2 February 2021 |access-date=2 February 2021}}</ref>
+**[[Liverpool F.C.|Liverpool]] [[Liverpool F.C. 9–0 AFC Bournemouth|9–0]] [[AFC Bournemouth|Bournemouth]] (27 August 2022)<ref name="Liverpool 9–0 Bournemouth">{{cite news |url=https://www.bbc.com/sport/football/62614438|first=Shamoon |last=Hafez|title=Liverpool 9–0 Bournemouth: Diaz, Elliott, Alexander-Arnold, Firmino, Van Dijk all score|work=BBC Sport |date=27 August 2022|access-date=27 August 2022}}</ref>
+*Biggest away win: 9–0
+**Southampton [[Southampton F.C. 0–9 Leicester City F.C.|0–9]] [[Leicester City F.C.|Leicester City]] (25 October 2019)<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/50092694|first=Steve|last=Sutcliffe|title=Southampton 0–9 Leicester City: Foxes equal record for biggest Premier League win|work=BBC Sport|date=25 October 2019|access-date=25 October 2019}}</ref>
+*Biggest aggregate win: 12 goals
+**[[Manchester City F.C.|Manchester City]] 8–0 [[Watford F.C.|Watford]] (21 September 2019) and Watford 0–4 Manchester City (21 July 2020)<ref>{{cite web |last1=Dawkes |first1=Phil |title=Watford 0–4 Manchester City: Raheem Sterling deepens Hornets' drop fears |url=https://www.bbc.co.uk/sport/football/53399056 |website=BBC Sport |access-date=21 July 2020 |date=21 July 2020}}</ref>
+**[[Sheffield United F.C.|Sheffield United]] 0–8 [[Newcastle United F.C.|Newcastle United]] (24 September 2023) and Newcastle United 5–1 Sheffield United (27 April 2024)<ref>{{cite web |last1=Howarth |first1=Matthew |title=Newcastle United 5–1 Sheffield United: Blades relegated after being thrashed by Magpies |url=https://www.bbc.co.uk/sport/football/68862604 |website=BBC Sport |access-date=27 April 2024 |date=27 April 2024}}</ref>
+*Biggest loss by reigning champions: 5 goals
+**[[Coventry City F.C.|Coventry City]] 5–0 [[Blackburn Rovers F.C.|Blackburn Rovers]] (9 December 1995), after Blackburn Rovers won the [[1994–95 FA Premier League|1994–95 season]]
+**[[Newcastle United F.C.|Newcastle United]] 5–0 [[Manchester United F.C.|Manchester United]] (20 October 1996), after Manchester United won the [[1995–96 FA Premier League|1995–96 season]]
+**[[Chelsea F.C.|Chelsea]] 5–0 [[Manchester United F.C.|Manchester United]] (3 October 1999), after Manchester United won the [[1998–99 FA Premier League|1998–99 season]]
+**[[Manchester United F.C.|Manchester United]] [[Manchester United F.C. 1–6 Manchester City F.C.|1–6]] [[Manchester City F.C.|Manchester City]] (23 October 2011), after Manchester United won the [[2010–11 Premier League|2010–11 season]]
+**[[Leicester City F.C.|Leicester City]] 1–6 [[Tottenham Hotspur]] (18 May 2017), after Leicester City won the [[2015–16 Premier League|2015–16 season]]<ref>{{cite web |last1=Rostance |first1=Tom |title=Leicester City 1–6 Tottenham Hotspur |url=https://www.bbc.co.uk/sport/football/39879805 |website=BBC Sport |access-date=11 January 2020 |date=18 May 2017}}</ref>
+**[[Aston Villa F.C.|Aston Villa]] 7–2 [[Liverpool F.C.|Liverpool]] (4 October 2020), after Liverpool won the [[2019–20 Premier League|2019–20 season]]<ref>{{cite web |last1=Begley |first1=Emlyn |title=Aston Villa 7–2 Liverpool: Ollie Watkins hat-trick as champions stunned |url=https://www.bbc.co.uk/sport/football/54313270 |website=BBC Sport |access-date=4 October 2020 |date=4 October 2020}}</ref>
+*Largest goal deficit overcome to win: 3
+**[[Leeds United F.C.|Leeds United]] 4–3 [[Derby County F.C.|Derby County]] (8 November 1997)<ref>{{cite web|url=http://www.leeds.vitalfootball.co.uk/article.asp?a=314579|title=Classic Match: 1997 Leeds 4–3 Derby – VitalFootball.co.uk|access-date=24 April 2015|archive-date=19 September 2015|archive-url=https://web.archive.org/web/20150919040415/http://www.leeds.vitalfootball.co.uk/article.asp?a=314579|url-status=dead}}</ref>
+**[[West Ham United F.C.|West Ham United]] 3–4 [[Wimbledon F.C.|Wimbledon]] (9 September 1998)<ref>{{cite web|url=http://tdifh.blogspot.com/2013/09/9-september-1998-and-everybody-says-two.html|title=This Day In Football History: 9 September 1998 – And Everybody Says A Two-Goal Lead Is The Most Dangerous|first=Brian|last=Seal|date=9 September 2013}}</ref>
+**[[Tottenham Hotspur F.C.|Tottenham Hotspur]] 3–5 [[Manchester United F.C.|Manchester United]] (29 September 2001)<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/1567733.stm|title=Man Utd's amazing comeback|date=29 September 2001|website=BBC Sport}}</ref>
+**[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] 4–3 [[Leicester City F.C.|Leicester City]] (25 October 2003)<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/3206858.stm|title=Wolves comeback stuns Leicester|date=25 October 2003|website=BBC Sport}}</ref>
+**[[AFC Bournemouth|Bournemouth]] 4–3 [[Luton Town F.C.|Luton Town]] (13 March 2024)<ref>{{cite web |last1=Smith |first1=Emma |title=Bournemouth 4–3 Luton Town: Cherries come from three goals down in remarkable Premier League win |url=https://www.bbc.co.uk/sport/football/67875771 |website=BBC Sport |access-date=13 March 2024 |date=13 March 2024}}</ref>
+*Largest goal deficit overcome to draw: 4, [[Newcastle United F.C.|Newcastle United]] 4–4 [[Arsenal F.C.|Arsenal]] (5 February 2011), with Newcastle United scoring last<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/9384154.stm|title=Newcastle 4–4 Arsenal|date=5 February 2011|website=BBC Sport}}</ref>
+*Highest scoring: [[Portsmouth F.C. 7–4 Reading F.C.|7–4]], [[Portsmouth F.C.|Portsmouth]] ''v.'' [[Reading F.C.|Reading]] (29 September 2007)<ref>{{cite web|url=http://www.givemesport.com/410882-top-five-highest-scoring-premier-league-games/page/6|archive-url=https://web.archive.org/web/20131218140404/http://www.givemesport.com/410882-top-five-highest-scoring-premier-league-games/page/6|url-status=dead|archive-date=18 December 2013|title=Top five: Highest scoring Premier League games (6)|date=15 December 2013}}</ref>
+*Highest scoring draw: 5–5, [[West Bromwich Albion F.C.|West Bromwich Albion]] ''v.'' [[Manchester United F.C.|Manchester United]] (19 May 2013)<ref>{{Cite web|url=https://www.skysports.com/football/west-bromwich-albion-vs-manchester-united/report/261938|title=Sir Alex Ferguson signs off with thriller as Manchester United draw 5-5 with West Brom|website=Sky Sports}}</ref>
+*Highest scoring in the first half: 7 goals
+**[[Blackburn Rovers F.C.|Blackburn Rovers]] 3–4 [[Leeds United F.C.|Leeds United]] (14 September 1997 – final score: 3–4)<ref>{{Cite web|url=https://www.leeds-fans.org.uk/leeds/history/83/8306.html|title=Blackburn Rovers 3 - 4 Leeds - 14/09/97|website=Leeds Fans}}</ref>
+**[[Bradford City A.F.C.|Bradford City]] 4–3 [[Derby County F.C.|Derby County]] (21 April 2000 – final score: 4–4)<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/sport/football/fa_carling_premiership/721985.stm|title=Bradford in eight-goal thriller|date=21 April 2000|website=BBC Sport}}</ref>
+**[[Reading F.C.|Reading]] 3–4 [[Manchester United F.C.|Manchester United]] (1 December 2012 – final score: 3–4)<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/20474791|title=Reading 3-4 Man Utd|work=BBC Sport}}</ref>
+**[[West Ham United F.C.|West Ham]] 2–5 [[Arsenal F.C.|Arsenal]] (30 November 2024 – final score: 2–5)<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/live/cp35gkgndylt|access-date=30 November 2024|website=BBC Sport |title=Premier League LIVE: West Ham United vs Arsenal - Premier League preview, team news, stats & head-to-head }}</ref>
+*Highest scoring in the second half: 9 goals, [[Tottenham Hotspur F.C.|Tottenham Hotspur]] 9–1 [[Wigan Athletic F.C.|Wigan Athletic]] (22 November 2009 – first half score: 1–0)<ref>{{Cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/8365091.stm|title=Tottenham 9–1 Wigan|date=22 November 2009|access-date=16 June 2019|website=BBC Sport}}</ref>
+*Most individual goal scorers in one match: 9
+**[[Portsmouth F.C.|Portsmouth]] [[Portsmouth F.C. 7–4 Reading F.C.|7–4]] [[Reading F.C.|Reading]] (29 September 2007)<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/7008200.stm|title=Portsmouth 7–4 Reading|date=29 September 2007|website=BBC Sport}}</ref>
+*Most individual goal scorers in one match for the same team: 8
+**[[Manchester United F.C.|Manchester United]] [[Manchester United F.C. 9–0 Southampton F.C.|9–0]] [[Southampton F.C.|Southampton]] (2 February 2021)<ref name="Manchester United 9–0 Southampton"/>
+**[[Sheffield United F.C.|Sheffield United]] 0–8 [[Newcastle United F.C.|Newcastle United]] (24 September 2023)<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/66835401|title=Sheffield United 0–8 Newcastle United: Visitors thrash Blades to match their record Premier League win|date=24 September 2023|access-date=24 September 2023|website=BBC Sport}}</ref>
+
+==All-time Premier League table==
+The all-time Premier League table is a cumulative record of all match results, points and goals of every team that has played in the Premier League since its inception in 1992. The table that follows is accurate as of the end of the [[2025–26 Premier League|2025–26]] season. Teams in '''bold''' are part of the [[2026–27 Premier League]]. Numbers in '''bold''' are the record (highest either positive or negative) numbers in each column.<ref name="alltimetable"/>
+<!--PLEASE DO NOT UPDATE UNTIL END OF SEASON as this causes problems in updating at the end of each season when each part of the table should be updated in full. Whilst the table is by points total, the number of Premierships won is also shown. Please do not remove without seeing comment this article's talk page. Thank you.-->
+{| class="wikitable sortable" style="text-align:center"
+|-
+!{{abbr|Pos.|Position}}
+!Club
+!Seasons
+!{{abbr|Pld|Played}}
+!{{abbr|W|Won}}
+!{{abbr|D|Drawn}}
+!{{abbr|L|Lost}}
+!{{abbr|GF|Goals for}}
+!{{abbr|GA|Goals against}}
+!{{abbr|GD|Goal difference}}
+!{{abbr|Pts|Points}}
+!{{Abbr|PPG|Points per game}}
+!{{abbr|1st|Champions}}
+!{{abbr|2nd|Runners-up}}
+!{{abbr|3rd|Third place}}
+!{{abbr|4th|Fourth place}}
+!{{abbr|5th|Fifth place}}
+!{{abbr|6th|Sixth place}}
+!{{abbr|7th|Seventh place}}
+!{{abbr|T4|Total seasons finished in first four positions}}
+!{{abbr|T7|Total seasons finished in first seven positions}}
+!{{abbr|Debut|First season in the Premier League}}
+!{{abbr|Since/Last app.|In the Premier League since/Last season in the Premier League}}
+!Relegated
+!{{abbr|Best<br>Pos.|Highest final position}}
+|- style="background:#ace1af"
+|1||style="text-align:left"|'''[[Manchester United F.C.|Manchester United]]'''
+|'''34'''||'''1,304'''||'''775'''||289||240||'''2,413'''||1,271||'''+1,142'''||'''2,614'''
+|'''2.009'''||'''13'''||7||6||1||1||3||1||'''27'''||'''32'''||[[1992–93 FA Premier League|1992–93]]||[[1992–93 FA Premier League|1992–93]]{{efn|In the top division since the 1975–76 season}}|| ||'''1'''
+|- style="background:#ace1af"
+|2||style="text-align:left"|'''[[Arsenal F.C.|Arsenal]]'''
+|'''34'''||'''1,304'''||719||316||269||2,336||1,281||+1,055||2,473
+|1.886||4||'''9'''||5||'''7'''||4||1|| ||25||30||[[1992–93 FA Premier League|1992–93]]||[[1992–93 FA Premier League|1992–93]]{{efn|In the top division since the 1919–20 season}}|| ||'''1'''
+|- style="background:#ace1af"
+|3||style="text-align:left"|'''[[Liverpool F.C.|Liverpool]]'''
+|'''34'''||'''1,304'''||694||320||290||2,331||1,329||+1,002||2,402
+|1.850||2||5||'''7'''||'''7'''||4||3||3||21||31||[[1992–93 FA Premier League|1992–93]]||[[1992–93 FA Premier League|1992–93]]{{efn|In the top division since the 1962–63 season}}|| ||'''1'''
+|- style="background:#ace1af"
+|4||style="text-align:left"|'''[[Chelsea F.C.|Chelsea]]'''
+|'''34'''||'''1,304'''||681||323||300||2,210||1,330||+880||2,366
+|1.828||5||4||6||5||2||5|| ||20||27||[[1992–93 FA Premier League|1992–93]]||[[1992–93 FA Premier League|1992–93]]{{efn|In the top division since the 1989–90 season}}|| ||'''1'''
+|- style="background:#ace1af"
+|5||style="text-align:left"|'''[[Tottenham Hotspur F.C.|Tottenham Hotspur]]'''
+|'''34'''||'''1,304'''||561||309||434||2,000||'''1,684'''||+316||1,992
+|1.541|| ||1||2||4||'''6'''||2||2||7||17||[[1992–93 FA Premier League|1992–93]]||[[1992–93 FA Premier League|1992–93]]{{efn|In the top division since the 1978–79 season}}|| ||2
+|- style="background:#ace1af"
+|6||style="text-align:left"|'''[[Manchester City F.C.|Manchester City]]'''
+|29||1,114||573||239||302||1,997||1,214||+783||1,958
+|1.747||8||4||3||1||1|| || ||16||17||[[1992–93 FA Premier League|1992–93]]||[[2002–03 FA Premier League|2002–03]]||2||'''1'''
+|- style="background:#ace1af"
+|7||style="text-align:left"|'''[[Everton F.C.|Everton]]'''
+|'''34'''||'''1,304'''||463||'''366'''||475||1,654||1,683||−29||1,747{{efn|Everton deducted 8 points for breaking [[Profit and Sustainability Rules|profit and sustainability rules]] in November 2023 and April 2024}}
+|1.341|| || || ||1||3||3||'''4'''||1||11||[[1992–93 FA Premier League|1992–93]]||[[1992–93 FA Premier League|1992–93]]{{efn|In the top division since the 1954–55 season}}|| ||4
+|- style="background:#ace1af"
+|8||style="text-align:left"|'''[[Newcastle United F.C.|Newcastle United]]'''
+|31||1,186||453||297||436||1,651||1,614||+27||1,656
+|1.400|| ||2||2||2||3||1||2||6||12||[[1993–94 FA Premier League|1993–94]]||[[2017–18 Premier League|2017–18]]||2||2
+|- style="background:#ace1af"
+|9||style="text-align:left"|'''[[Aston Villa F.C.|Aston Villa]]'''
+|31||1,190||430||328||432||1,506||1,560||−54||1,618
+|1.348|| ||1|| ||3||1||'''7'''||2||4||14||[[1992–93 FA Premier League|1992–93]]||[[2019–20 Premier League|2019–20]]||1||2
+|- style="background:#fbe08d"
+|10||style="text-align:left"|[[West Ham United F.C.|West Ham United]]
+|30||1,110||381||289||'''478'''||1,429||'''1,684'''||−255||1,393
+|1.255|| || || || ||1||1||3|| ||5||[[1993–94 FA Premier League|1993–94]]||[[2025–26 Premier League|2025–26]]||3||5
+|- style="background:#fbe08d"
+|11||style="text-align:left"|[[Southampton F.C.|Southampton]]
+|25||962||282||254||426||1,140||1,441||'''−301'''||1,100
+|1.154|| || || || || ||1||1|| ||2||[[1992–93 FA Premier League|1992–93]]||[[2024–25 Premier League|2024–25]]||3||6
+|- style="background:#fbe08d"
+|12||style="text-align:left"|[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|18||696||262||184||250||927||907||+20||970
+|1.394||1||1|| ||1|| ||3||2||3||8||[[1992–93 FA Premier League|1992–93]]||[[2011–12 Premier League|2011–12]]||2||'''1'''
+|- style="background:#ace1af"
+|13||style="text-align:left"|'''[[Leeds United F.C.|Leeds United]]'''
+|16||620||234||165||221||842||840||+2||867
+|1.409|| || ||1||2||4|| || ||3||7||[[1992–93 FA Premier League|1992–93]]||[[2025–26 Premier League|2025–26]]||2||3
+|- style="background:#ebc9fe"
+|14||style="text-align:left"|[[Leicester City F.C.|Leicester City]]
+|18||688||224||174||290||904||1,016||−112||846
+|1.230||1|| || || ||2|| || ||1||3||[[1994–95 FA Premier League|1994–95]]||[[2024–25 Premier League|2024–25]]||5||'''1'''
+|- style="background:#ace1af"
+|15||style="text-align:left"|'''[[Fulham F.C.|Fulham]]'''
+|19||722||220||185||317||842||1,050||−208||845
+|1.159|| || || || || || ||1|| ||1||[[2001–02 FA Premier League|2001–02]]||[[2022–23 Premier League|2022–23]]||3||7
+|- style="background:#ace1af"
+|16|| style="text-align:left" |'''[[Crystal Palace F.C.|Crystal Palace]]'''
+|17||654||193||177||284||736||935||−199||756
+|1.154|| || || || || || || || || ||[[1992–93 FA Premier League|1992–93]]||[[2013–14 Premier League|2013–14]]||4||10
+|- style="background:#ace1af"
+|17||style="text-align:left"|'''[[Sunderland A.F.C.|Sunderland]]'''
+|17||646||167||171||308||654||952||−298||672
+|1.040|| || || || || || ||3|| ||3||[[1996–97 FA Premier League|1996–97]]||[[2025–26 Premier League|2025–26]]||4||7
+|- style="background:#fbe08d"
+|18|| style="text-align:left" |[[Middlesbrough F.C.|Middlesbrough]]
+|15||574||165||169||240||648||794||−146||661{{efn|Middlesbrough deducted 3 points for failure to fulfil a fixture at Blackburn Rovers on 21 December 1996}}
+|1.152|| || || || || || ||1|| ||1||[[1992–93 FA Premier League|1992–93]]||[[2016–17 Premier League|2016–17]]||4||7
+|- style="background:#fbe08d"
+|19||style="text-align:left"|[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|13||494||149||128||217||575||745||−170||575
+|1.164|| || || || || ||1||1|| ||2||[[1995–96 FA Premier League|1995–96]]||[[2011–12 Premier League|2011–12]]||3||6
+|- style="background:#fbe08d"
+|20|| style="text-align:left" |{{nowrap|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]}}
+|12||456||129||110||217||490||722||−232||497
+|1.090|| || || || || || ||2|| ||2||[[2003–04 FA Premier League|2003–04]]||[[2025–26 Premier League|2025–26]]||3||7
+|- style="background:#fbe08d"
+|21||style="text-align:left"|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|13||494||117||139||238||510||772||−262||490
+|0.992|| || || || || || || || || ||[[2002–03 FA Premier League|2002–03]]||[[2020–21 Premier League|2020–21]]||5||8
+|- style="background:#fbe08d"
+|22|| style="text-align:left" |[[Stoke City F.C.|Stoke City]]
+|10||380||116||109||155||398||525||−127||457
+|1.203|| || || || || || || || || ||[[2008–09 Premier League|2008–09]]||[[2017–18 Premier League|2017–18]]||1||9
+|- style="background:#ace1af"
+|23|| style="text-align:left" |'''[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]'''
+|9||342||108||109||123||435||478||−43||433
+|1.250|| || || || || ||1|| || ||1||[[2017–18 Premier League|2017–18]]||[[2017–18 Premier League|2017–18]]|| ||6
+|- style="background:#ace1af"
+|24|| style="text-align:left" |'''[[Nottingham Forest F.C.|Nottingham Forest]]'''
+|9||350||108||98||144||422||519||−97||418{{efn|Nottingham Forest deducted 4 points for breaking profit and sustainability rules in March 2024}}
+|1.199|| || ||1|| || || || 1||1||2||[[1992–93 FA Premier League|1992–93]]||[[2022–23 Premier League|2022–23]]||3||3
+|- style="background:#ace1af"
+|25|| style="text-align:left" |'''[[AFC Bournemouth|Bournemouth]]'''
+|9||342||108||87||147||448||568||−120||411
+|1.164|| || || || || ||1|| || ||1||[[2015–16 Premier League|2015–16]]||[[2022–23 Premier League|2022–23]]||1||6
+|- style="background:#ace1af"
+|26||style="text-align:left"|'''[[Coventry City F.C.|Coventry City]]'''
+|9||354||99||112||143||387||490||−103||409
+|1.155|| || || || || || || || || ||[[1992–93 FA Premier League|1992–93]]||[[2026–27 Premier League|2026–27]]||1||11
+|- style="background:#fbe08d"
+|27||style="text-align:left"|[[Norwich City F.C.|Norwich City]]
+|10||392||99||105||188||414||669||−255||402
+|1.026|| || ||1|| || || || ||1||1||[[1992–93 FA Premier League|1992–93]]||[[2021–22 Premier League|2021–22]]||'''6'''||3
+|- style="background:#ebc9fe"
+|28||style="text-align:left"|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|8||316||101||89||126||409||453||−44||392
+|1.241|| || || || || || ||3|| ||3||[[1992–93 FA Premier League|1992–93]]||[[1999–2000 FA Premier League|1999–2000]]||1||7
+|- style="background:#cccccc"
+|29||style="text-align:left"|[[Wimbledon F.C.|Wimbledon]]{{efn|Became [[Milton Keynes Dons F.C.|Milton Keynes Dons]]<ref>{{cite web|url=http://www.wisa.org.uk/cgi/l/articles/index.cgi?action=show&id=558|archive-url=https://web.archive.org/web/20080108231655/http://www.wisa.org.uk/cgi/l/articles/index.cgi?action=show&id=558|url-status=dead|archive-date=8 January 2008|title=History and Honours of Wimbledon FC returned to Merton|date=2 August 2007|publisher=Wimbledon Independent Supporters Association|access-date=28 May 2015}}</ref>}}
+|8||316||99||94||123||384||472||−88||391
+|1.237|| || || || || ||1|| || ||1||[[1992–93 FA Premier League|1992–93]]||[[1999–2000 FA Premier League|1999–2000]]||1||6
+|- style="background:#fbe08d"
+|30|| style="text-align:left" |[[Burnley F.C.|Burnley]]
+|10||380||92||95||193||379||608||−229||371
+|1.020|| || || || || || ||1|| ||1||[[2009–10 Premier League|2009–10]]||[[2025–26 Premier League|2025–26]]||5||7
+|- style="background:#fbe08d"
+|31|| style="text-align:left" |[[Charlton Athletic F.C.|Charlton Athletic]]
+|8||304||93||82||129||342||442||−100||361
+|1.188|| || || || || || ||1|| ||1||[[1998–99 FA Premier League|1998–99]]||[[2006–07 FA Premier League|2006–07]]||2||7
+|- style="background:#ebc9fe"
+|32|| style="text-align:left" |[[Wigan Athletic F.C.|Wigan Athletic]]
+|8||304||85||76||143||316||482||−166||331
+|1.089|| || || || || || || || || ||[[2005–06 FA Premier League|2005–06]]||[[2012–13 Premier League|2012–13]]||1||10
+|- style="background:#fbe08d"
+|33|| style="text-align:left" |[[Swansea City A.F.C.|Swansea City]]
+|7||266||82||66||118||306||383||−77||312
+|1.173|| || || || || || || || || ||[[2011–12 Premier League|2011–12]]||[[2017–18 Premier League|2017–18]]||1||8
+|- style="background:#fbe08d"
+|34|| style="text-align:left" |[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|7||278||81||65||132||339||431||−92||308
+|1.108|| || || || ||1|| || || ||1||[[1992–93 FA Premier League|1992–93]]||[[2014–15 Premier League|2014–15]]||3||5
+|- style="background:#fbe08d"
+|35|| style="text-align:left" |[[Birmingham City F.C.|Birmingham City]]
+|7||266||73||82||111||273||360||−87||301
+|1.132|| || || || || || || || || ||[[2002–03 FA Premier League|2002–03]]||[[2010–11 Premier League|2010–11]]||3||9
+|- style="background:#fbe08d"
+|36||style="text-align:left"|[[Portsmouth F.C.|Portsmouth]]
+|7||266||79||65||122||292||380||−88||293{{efn|Portsmouth deducted 9 points for entering administration in March 2010}}
+|1.102|| || || || || || || || || ||[[2003–04 FA Premier League|2003–04]]||[[2009–10 Premier League|2009–10]]||1||8
+|- style="background:#fbe08d"
+|37||style="text-align:left"|[[Watford F.C.|Watford]]
+|8||304||73||66||165||310||518||−208||285
+|0.938|| || || || || || || || || ||[[1999–2000 FA Premier League|1999–2000]]||[[2021–22 Premier League|2021–22]]||4||11
+|- style="background:#fbe08d"
+|38||style="text-align:left"|[[Derby County F.C.|Derby County]]
+|7||266||68||70||128||271||420||−149||274
+|1.030|| || || || || || || || || ||[[1996–97 FA Premier League|1996–97]]||[[2007–08 Premier League|2007–08]]||2||8
+|- style="background:#ace1af"
+|39||style="text-align:left"|'''[[Brentford F.C.|Brentford]]'''
+|5||190||68||49||73||283||276||+7||253
+|1.316|| || || || || || || || || ||[[2021–22 Premier League|2021–22]]||[[2021–22 Premier League|2021–22]]|| ||9
+|- style="background:#ace1af"
+|40|| style="text-align:left" |'''[[Ipswich Town F.C.|Ipswich Town]]'''
+|6||240||61||63||116||255||394||−139||246
+|1.025|| || || || ||1|| || || ||1||[[1992–93 FA Premier League|1992–93]]||[[2026–27 Premier League|2026–27]]||3||5
+|- style="background:#fbe08d"
+|41|| style="text-align:left" |[[Sheffield United F.C.|Sheffield United]]
+|6||236||56||57||123||222||374||−152||225
+|0.953|| || || || || || || || || ||[[1992–93 FA Premier League|1992–93]]||[[2023–24 Premier League|2023–24]]||4||9
+|- style="background:#ace1af"
+|42||style="text-align:left"|'''[[Hull City A.F.C.|Hull City]]'''
+|5||190||41||48||101||181||323||−142||171
+|0.900|| || || || || || || || || ||[[2008–09 Premier League|2008–09]]||[[2026–27 Premier League|2026–27]]||3||16
+|- style="background:#ebc9fe"
+|43||style="text-align:left"|[[Reading F.C.|Reading]]
+|3||114||32||23||59||136||186||−50||119
+|1.044|| || || || || || || || || ||[[2006–07 FA Premier League|2006–07]]||[[2012–13 Premier League|2012–13]]||2||8
+|- style="background:#87CEEB"
+|44||style="text-align:left"|[[Oldham Athletic A.F.C.|Oldham Athletic]]
+|2||84||22||23||39||105||142||−37||89
+|1.060|| || || || || || || || || ||[[1992–93 FA Premier League|1992–93]]||[[1993–94 FA Premier League|1993–94]]||1||19
+|- style="background:#fbe08d"
+|45||style="text-align:left"|[[Cardiff City F.C.|Cardiff City]]
+|2||76||17||13||46||66||143||−77||64
+|0.842|| || || || || || || || || ||[[2013–14 Premier League|2013–14]]||[[2018–19 Premier League|2018–19]]||2||18
+|- style="background:#ebc9fe"
+|46||style="text-align:left"|[[Bradford City A.F.C.|Bradford City]]
+|2||76||14||20||42||68||138||−70||62
+|0.816|| || || || || || || || || ||[[1999–2000 FA Premier League|1999–2000]]||[[2000–01 FA Premier League|2000–01]]||1||17
+|- style="background:#ebc9fe"
+|47||style="text-align:left"|[[Huddersfield Town A.F.C.|Huddersfield Town]]
+|2||76||12||17||47||50||134||−84||53
+|0.697|| || || || || || || || || ||[[2017–18 Premier League|2017–18]]||[[2018–19 Premier League|2018–19]]||1||16
+|- style="background:#ebc9fe"
+|48||style="text-align:left"|[[Blackpool F.C.|Blackpool]]
+|1||38||10||9||19||55||78||−23||39
+|1.026|| || || || || || || || || ||[[2010–11 Premier League|2010–11]]||[[2010–11 Premier League|2010–11]]||1||19
+|- style="background:#ebc9fe"
+|49||style="text-align:left"|[[Barnsley F.C.|Barnsley]]
+|1||38||10||5||23||37||82||−45||35
+|0.921|| || || || || || || || || ||[[1997–98 FA Premier League|1997–98]]||[[1997–98 FA Premier League|1997–98]]||1||19
+|- style="background:#87CEEB"
+|50||style="text-align:left"|[[Swindon Town F.C.|Swindon Town]]
+|1||42||'''5'''||15||22||47||100||−53||30
+|0.714|| || || || || || || || || ||[[1993–94 Premier League|1993–94]]||[[1993–94 FA Premier League|1993–94]]||1||22
+|- style="background:#ebc9fe"
+|51||style="text-align:left"|[[Luton Town F.C.|Luton Town]]
+|1||38||6||8||24||52||85||−33||'''26'''
+|'''0.684'''|| || || || || || || || || ||[[2023–24 Premier League|2023–24]]||[[2023–24 Premier League|2023–24]]||1||18
+|}
+
+League or status at [[2026–27 in English football|2026–27]]:
+{| class="wikitable" style="font-size:95%"
+|-
+|style="width:10px;background:#ace1af"|
+|[[2026–27 Premier League]] teams
+|-
+|style="width:10px;background:#fbe08d"|
+|[[2026–27 EFL Championship]] teams
+|-
+|style="width:10px;background:#ebc9fe"|
+|[[2026–27 EFL League One]] teams
+|-
+|style="width:10px;background:#87CEEB"|
+|[[2026–27 EFL League Two]] teams
+|- <!--
+|style="width:10px;background:#ffffff"|
+|[[2026–27 National League]] teams
+|- -->
+|style="width:10px;background:#cccccc"|
+|Defunct teams
+|}
+;Notes
+{{notelist}}
+
+==Manager records==
+*Most Premier League titles: 13, [[Alex Ferguson|Sir Alex Ferguson]] ([[Manchester United F.C.|Manchester United]]) – 1993, 1994, 1996, 1997, 1999, 2000, 2001, 2003, 2007, 2008, 2009, 2011, 2013<ref>{{cite web |title=In pictures: Sir Alex Ferguson's 13 Premier League titles |url=https://www.independent.co.uk/sport/football/news-and-comment/in-pictures-sir-alex-fergusons-13-premier-league-titles-8607260.html |first=Simon|last=Rice|work=[[The Independent]] |access-date=26 February 2019 |date=8 May 2013}}</ref>
+* Most [[Premier League Manager of the Season]] award: 11, [[Alex Ferguson|Sir Alex Ferguson]] (Manchester United; [[1993–94 FA Premier League|1993–94]], 1995–96, 1996–97, 1998–99, 1999–2000, 2002–03, 2006–07, 2007–08, 2008–09, 2010–11 and 2012–13).
+* Most [[Premier League Manager of the Month]] awards: 27, [[Alex Ferguson|Sir Alex Ferguson]]<ref>{{cite web |title=Premier League Manager of the Month Awards |url=http://www.myfootballfacts.com/Premier_League_Manager_of_the_Month_Awards.html |website=myfootballfacts.com |access-date=26 February 2019}}</ref>
+*Most consecutive Premier League Manager of the Month awards: 4, [[Pep Guardiola]]<ref name="guardiola">{{cite news |url=http://www.skysports.com/football/news/11661/11204251/jermain-defoe-and-pep-guardiola-win-premier-league-awards-for-december |title=Jermain Defoe, Harry Kane, Pep Guardiola win Premier League awards for December|access-date=12 January 2018|website=Sky Sports|date=12 January 2018 }}</ref>
+*Most Premier League Manager of the Month awards in a single season: 5, [[Jürgen Klopp]] ([[2019–20 Premier League#Awards|2019–20]])<ref>{{cite news |url=https://www.premierleague.com/news/1603304|title=Klopp makes history with Barclays Manager award|access-date=7 February 2020|publisher=Premier League|date=7 February 2020 }}</ref>
+*Most promotions to the Premier League: 4, [[Steve Bruce]] ([[Birmingham City F.C.|Birmingham City]] in 2001–02 and 2006–07 and [[Hull City A.F.C.|Hull City]] in 2012–13 and 2015–16)
+*Most relegations from the Premier League: 3, [[Dave Bassett]] ([[Sheffield United F.C.|Sheffield United]] in 1993–94, [[Nottingham Forest F.C.|Nottingham Forest]] in 1996–97, and [[Leicester City F.C.|Leicester City]] in 2001–02)<ref name="autogenerated3">{{cite web|url=https://sports-view.co.uk/all-time-premier-league-manager-statistics|title=All-Time Premier League Manager Statistics – Barrie's View|date=14 January 2014}}</ref>
+*Most clubs managed: 9, [[Sam Allardyce]] ([[Bolton Wanderers F.C.|Bolton Wanderers]], [[Newcastle United F.C.|Newcastle United]], [[Blackburn Rovers F.C.|Blackburn Rovers]], [[West Ham United F.C.|West Ham United]], [[Sunderland A.F.C.|Sunderland]], [[Crystal Palace F.C.|Crystal Palace]], [[Everton F.C.|Everton]], [[West Bromwich Albion F.C.|West Bromwich Albion]], [[Leeds United F.C.|Leeds United]])<ref>{{cite web |title=Manager Profile: Sam Allardyce |url=https://www.premierleague.com/managers/2049/Sam-Allardyce/overview |publisher=Premier League |access-date=12 November 2019}}</ref>
+*Quickest to reach 50 Premier League wins: [[José Mourinho]], 63 Games<ref>{{cite web |author1=Tom Gott |title=Carlo Ancelotti Becomes 5th Fastest Manager to Reach 50 Premier League Wins |url=https://www.90min.com/posts/6526623-carlo-ancelotti-becomes-5th-fastest-manager-to-reach-50-premier-league-wins |website=90min |accessdate=3 January 2020 |archiveurl=https://web.archive.org/web/20191230173045/https://www.90min.com/posts/6526623-carlo-ancelotti-becomes-5th-fastest-manager-to-reach-50-premier-league-wins |archivedate=30 December 2019 |date=29 December 2019 |url-status=live}}</ref>
+*Quickest to reach 100 Premier League wins: [[Pep Guardiola]], 134 games<ref>{{cite web |title=No way, Jose! Pep Guardiola breaks Jose Mourinho record with 100th Premier League win |url=https://www.foxsports.com.my/football/premier-league/132835/no-way-jose-pep-guardiola-breaks-jose-mourinho-record-with-100th-premier-league-win/ |website=FOX Sports Malaysia |access-date=30 December 2019 |date=30 December 2019 |archive-date=30 December 2019 |archive-url=https://web.archive.org/web/20191230125934/https://www.foxsports.com.my/football/premier-league/132835/no-way-jose-pep-guardiola-breaks-jose-mourinho-record-with-100th-premier-league-win/ |url-status=dead }}</ref>
+*Longest spell as manager: {{age in years and days|1 October 1996|13 May 2018}}, [[Arsène Wenger]] ([[Arsenal F.C.|Arsenal]], 1 October 1996 – 13 May 2018)<ref name="Wengerlongest">{{cite news |url=http://www.skysports.com/football/news/11095/10948762/arsenal-boss-arsene-wenger-becomes-longest-serving-premier-league-manager|title=Arsenal boss Arsene Wenger becomes longest-serving Premier League manager|date=17 July 2017|access-date=16 November 2017|website=Sky Sports}}</ref>
+*Shortest spell as manager (excluding caretakers):
+**Fewest days: 30 days, [[Sam Allardyce]] ([[Leeds United F.C.|Leeds United]], 3 May – 2 June 2023)<ref name=AllardyceLeeds/>
+**Fewest games: 4 games
+***[[Frank de Boer]] ([[Crystal Palace F.C.|Crystal Palace]], 26 June – 10 September 2017)<ref>{{cite news|url=https://www.theguardian.com/football/2017/sep/11/crystal-palace-sack-frank-de-boer-roy-hodgson-sam-allardyce|title=Crystal Palace turn to Roy Hodgson after sacking Frank de Boer|date=10 September 2017|work=[[The Guardian]]}}</ref>
+***[[Sam Allardyce]] ([[Leeds United F.C.|Leeds United]], 3 May – 2 June 2023)<ref name=AllardyceLeeds>{{cite web|url=https://www.bbc.co.uk/sport/football/65745840|title=Sam Allardyce: Leeds United manager leaves club after Premier League relegation|website=BBC Sport|date=2 June 2023|access-date=2 June 2023}}</ref>
+*Oldest manager: [[Roy Hodgson]], {{age in years and days|1947|8|9|2024|2|12}} (for [[Crystal Palace F.C.|Crystal Palace]] ''v.'' [[Chelsea F.C.|Chelsea]], 12 February 2024)<ref>{{cite news |url=https://theanalyst.com/eu/2024/02/oldest-premier-league-managers/ |title=The Oldest Premier League Managers |website=Analyst.com |date=15 February 2024 |access-date=20 February 2024 }}</ref>
+*Youngest manager: [[Ryan Mason]], {{age in years and days|1991|6|13|2021|4|21}} (for [[Tottenham Hotspur F.C.|Tottenham Hotspur]] ''v.'' [[Southampton F.C.|Southampton]], 21 April 2021)<ref>{{cite web |url=https://www.goal.com/en/news/mason-wins-tottenham-debut-as-he-becomes-youngest-manager-in/7upuzxsty5471slhmmgluqnkv|title=Mason wins Tottenham debut as he becomes youngest manager in Premier League history|first=Seth|last=Vertelney|work=Goal.com|date=21 April 2021 |access-date=21 April 2021}}</ref>
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+'''General'''
+*{{cite web |url=https://www.premierleague.com/news/59886 |title=For the record: Premier League facts and figures |publisher=Premier League |access-date=22 May 2017 }}
+*{{cite web |url=https://www.premierleague.com/news/662064 |title=Records: Players |publisher=Premier League |date=7 February 2020 }}
+
+'''Specific'''
+{{Reflist}}
+
+{{Premier League}}
+
+[[Category:Premier League records and statistics| ]]
+[[Category:English football league records and statistics|1]]
+[[Category:All-time football league tables|England]]

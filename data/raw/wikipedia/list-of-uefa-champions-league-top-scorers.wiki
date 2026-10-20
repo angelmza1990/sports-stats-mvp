@@ -1,0 +1,1199 @@
+{{Short description|none}}
+{{pp-semi-indef}}
+{{Use dmy dates|date=April 2024}}
+[[File:Ronaldo in 2018.jpg|thumb|[[Cristiano Ronaldo]] is the competition's all-time top scorer with 140 goals]]
+The [[UEFA Champions League]], known until 1992 as the European Champion Clubs' Cup or colloquially as the European Cup, is an annual [[association football]] cup competition organised by [[UEFA]] since 1955. Originally a straight knockout competition open only to champion clubs, the tournament was expanded during the 1990s to incorporate a round-robin group phase and more teams. The expansion resulted in more games being played, increasing players' goalscoring chances; thus the rankings are weighted in favour of modern players: only five out of the 50 players on the list never competed in the reformed Champions League.
+
+With 140 goals, [[Cristiano Ronaldo]] is currently the all-time top scorer in the Champions League, with [[Lionel Messi]] and [[Robert Lewandowski]] being the only other players to have reached triple figures. Ronaldo has also finished as the top scorer [[List of UEFA Champions League top scorers#By player|for the most individual seasons]] in the competition's history, doing so seven times.
+
+The title of highest goalscorer had previously been held by [[Raúl (footballer)|Raúl]], who scored his 50th goal in 2005 while at [[Real Madrid CF|Real Madrid]] to overtake [[Alfredo Di Stéfano]].<ref>{{cite web |url=https://as.com/futbol/2005/09/28/mas_futbol/1127858431_850215.html |title=Raúl ya es el máximo goleador de la Copa de Europa |trans-title=Raúl is now the top scorer of the European Cup |date=28 September 2005 |access-date=25 October 2023 |work=[[Diario AS]] |location=[[Madrid]], Spain |language=es}}</ref> He held the record until November 2014,<ref>{{cite web |last=Hunter |first=Graham |url=https://www.espn.co.uk/football/story/_/id/37393011/cristiano-ronaldo-track-break |title=Look out, Messi, Ronaldo is the real record breaker |date=30 May 2014 |access-date=25 October 2023 |work=[[ESPN]]}}</ref><ref>{{cite web |last=Bate |first=Adam |url=https://www.skysports.com/football/news/11946/9527119/lionel-messi-and-cristiano-ronaldo-are-closing-in-on-rauls-uefa-champions-league-goalscoring-record-of-71 |title=Lionel Messi and Cristiano Ronaldo are closing in on Raul's UEFA Champions League goalscoring record of 71 |date=2 November 2014 |access-date=25 October 2023 |work=[[Sky Sports]]}}</ref> when his eventual tally of 71 was first equalled and then surpassed by Messi.<ref>{{cite web |last1=Arnett |first1=George |last2=Sedghi |first2=Ami |url=https://www.theguardian.com/football/datablog/2014/nov/07/champions-league-goalscoring-record-charting-messi-ronaldo-and-raul |title=Champions League goalscoring record: charting Messi, Ronaldo and Raúl |date=7 November 2014 |access-date=25 October 2023 |work=[[The Guardian]]}}</ref><ref>{{cite news |url=https://www.bbc.com/sport/football/29363780 |title=Messi breaks Champions League record |date=25 November 2014 |access-date=25 October 2023 |work=[[BBC Sport]]}}</ref> Ronaldo has remained the competition's outright top scorer since September 2015; after a back-and-forth exchange of the record between him and Messi, a hat-trick by the former against [[FC Shakhtar Donetsk|Shakhtar Donetsk]] put Ronaldo ahead with 80 goals, and he would not relinquish the top spot again after this.<ref>{{cite news |date=15 September 2015 |title=Ronaldo reaches 80 goals as Madrid fell Shakhtar |work=[[UEFA]] |url=https://www.uefa.com/uefachampionsleague/news/0225-0e91a963c678-dee34c931cf8-1000--ronaldo-reaches-80-goals-as-madrid-fell-shakhtar/ |access-date=25 October 2023}}</ref>
+
+== All-time top scorers ==
+<onlyinclude>{{updated|14 October 2026|<ref>{{cite news |date=29 November 2023 |title=Champions League all-time top scorers |work=[[UEFA]] |url=https://www.uefa.com/uefachampionsleague/news/0257-0e910cf2494a-5185150de9d4-1000--champions-league-all-time-top-scorers/ |access-date=29 November 2023 |url-status=live |archive-url=https://web.archive.org/web/20200810171331/https://www.uefa.com/uefachampionsleague/news/0257-0e910cf2494a-5185150de9d4-1000--champions-league-all-time-top-scorers/ |archive-date=10 August 2020}}</ref><ref>{{cite web |title=Champions League + European Cup – All-time Topscorers |url=http://www.worldfootball.net/alltime_goalgetter/champions-league/tore/1/ |website=WorldFootball.net |access-date=3 October 2023 |url-status=dead |archive-url=https://web.archive.org/web/20200810171345/https://www.worldfootball.net/alltime_goalgetter/champions-league/tore/1/ |archive-date=10 August 2020}}</ref>}}
+
+:A {{double-dagger}} indicates the player was from the European Cup era. 
+:Players taking part in the [[2026–27 UEFA Champions League]] are highlighted in '''bold'''.<br>
+:The table below does not include goals scored in the qualification stage of the competition.
+<!--DO NOT EDIT UNTIL THE END OF EACH MATCHWEEK TO AVOID ERRORS. WHEN UPDATING, EDIT THE GOALS SCORED, GAMES PLAYED, AND RATIO FOR ALL PLAYERS WHO HAVE PLAYED/SCORED.-->
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" | Rank
+! scope="col" | Player
+! scope="col" | Goals
+! scope="col" | {{Abbr|Apps|Appearances}}
+! scope="col" | Ratio
+! scope="col" | Years
+! scope="col" | Club(s) (Goals/Apps)
+|-
+| 1
+! scope="row" data-sort-value="Ronaldo, Cristiano" | {{flagicon|POR}} [[Cristiano Ronaldo]]
+| 140
+| 183
+| {{#expr:140/183 round 2}}
+| {{nowrap|2003–2022}}
+| style="text-align:left;" | {{nowrap|[[Manchester United F.C.|Manchester United]] (21/59)}}, {{nowrap|[[Real Madrid CF|Real Madrid]] (105/101)}}, {{nowrap|[[Juventus FC|Juventus]] (14/23)}}
+|-
+| 2
+! scope="row" data-sort-value="Messi, Lionel" | {{flagicon|ARG}} [[Lionel Messi]]
+| 129
+| 163
+| {{decimals|{{#expr:129/163 round 2}}|2}}
+| 2005–2023
+| style="text-align:left;" | {{nowrap|[[FC Barcelona|Barcelona]] (120/149)}}, {{nowrap|[[Paris Saint-Germain FC|Paris Saint-Germain]] (9/14)}}
+|-
+| 3
+! scope="row" data-sort-value="Lewandowski, Robert" | {{nowrap|{{flagicon|POL}} [[Robert Lewandowski]]}}
+| 109
+| 144
+| {{#expr:109/144 round 2}}
+| 2011–2026
+| style="text-align:left;" | {{nowrap|[[Borussia Dortmund]] (17/28)}}, {{nowrap|[[FC Bayern Munich|Bayern Munich]] (69/78)}}, {{nowrap|[[FC Barcelona|Barcelona]] (23/38)}}
+|-
+| 4
+! scope="row" data-sort-value="Benzema, Karim" | {{flagicon|FRA}} [[Karim Benzema]]
+| 90
+| 152
+| {{decimals|{{#expr:90/152 round 2}}|2}}
+| 2005–2023
+| style="text-align:left;" | {{nowrap|[[Olympique Lyonnais|Lyon]] (12/19)}}, {{nowrap|[[Real Madrid CF|Real Madrid]] (78/133)}}
+|-
+| 5
+! scope="row" data-sort-value="Mbappe, Kylian" | {{flagicon|FRA}} '''[[Kylian Mbappé]]'''
+| 72
+| 100
+| {{#expr:72/100 round 2}}
+| 2016–
+| style="text-align:left;" | {{nowrap|[[AS Monaco FC|Monaco]] (6/9)}}, {{nowrap|[[Paris Saint-Germain FC|Paris Saint-Germain]] (42/64)}}, {{nowrap|'''[[Real Madrid CF|Real Madrid]]''' (24/27)}}
+|-
+| 6
+! scope="row" data-sort-value="Raul" | {{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+| 71
+| 142
+| {{decimals|{{#expr:71/142 round 2}}|2}}
+| {{nowrap|1995–2011}}
+| style="text-align:left;" | {{nowrap|[[Real Madrid CF|Real Madrid]] (66/130)}}, {{nowrap|[[FC Schalke 04|Schalke 04]] (5/12)}}
+|-
+| 7
+! scope="row" data-sort-value="Haaland, Erling" | {{flagicon|NOR}} '''[[Erling Haaland]]'''
+| 61
+| 60
+| {{#expr:61/60 round 2}}
+| 2019–
+| style="text-align:left;" | {{nowrap|[[FC Red Bull Salzburg|Red Bull Salzburg]] (8/6)}}, {{nowrap|[[Borussia Dortmund]] (15/13)}}, {{nowrap|'''[[Manchester City F.C.|Manchester City]]''' (38/41)}}
+|-
+| rowspan="2" | 8
+! scope="row" data-sort-value="Kane, Harry" | {{flagicon|ENG}} '''[[Harry Kane]]'''  
+| 57
+| 72
+| {{#expr:57/72 round 2}}
+| 2016–
+| style="text-align:left;" | {{nowrap|[[Tottenham Hotspur F.C.|Tottenham Hotspur]] (21/32)}}, {{nowrap|'''[[FC Bayern Munich|Bayern Munich]]''' (36/40)}}
+|-
+! scope="row" data-sort-value="Muller, Thomas" | {{flagicon|GER}} [[Thomas Müller]]
+| 57
+| 163
+| {{decimals|{{#expr:57/163 round 2}}|2}}
+| 2009–2025
+| style="text-align:left;" | [[FC Bayern Munich|Bayern Munich]]
+|-
+| 10
+! scope="row" data-sort-value="Nistelrooy, Ruud van" | {{flagicon|NED}} [[Ruud van Nistelrooy]]
+| 56
+| 73
+| {{#expr:56/73 round 2}}
+| 1998–2009
+| style="text-align:left;" | {{nowrap|[[PSV Eindhoven]] (8/11)}}, {{nowrap|[[Manchester United F.C.|Manchester United]] (35/43)}}, {{nowrap|[[Real Madrid CF|Real Madrid]] (13/19)}}
+|-<noinclude>
+|-
+| rowspan="2" | 11
+! scope="row" data-sort-value="Salah, Mohamed" | {{flagicon|EGY}} [[Mohamed Salah]]
+| 50
+| 98
+| {{#expr:50/98 round 2}}
+| 2013–2026
+| style="text-align:left;" | {{nowrap|[[FC Basel|Basel]] (2/6)}}, {{nowrap|[[Chelsea F.C.|Chelsea]] (0/2)}}, {{nowrap|[[AS Roma|Roma]] (1/7)}}, {{nowrap|[[Liverpool F.C.|Liverpool]] (47/83)}}
+|-
+! scope="row" data-sort-value="Henry, Thierry" | {{flagicon|FRA}} [[Thierry Henry]]
+| 50
+| 112
+| {{#expr:50/112 round 2}}
+| 1997–2012
+| style="text-align:left;" | {{nowrap|[[AS Monaco FC|Monaco]] (7/9)}}, {{nowrap|[[Arsenal F.C.|Arsenal]] (35/77)}}, {{nowrap|[[FC Barcelona|Barcelona]] (8/26)}}
+|-
+| 13
+! scope="row" data-sort-value="Di Stefano, Alfredo" | {{Nowrap|{{flagicon|ARG}} {{flagicon|ESP|variant=1945}} [[Alfredo Di Stéfano]] {{double-dagger}}}}
+| 49
+| 58
+| {{#expr:49/58 round 2}}
+| 1955–1964
+| style="text-align:left;" | [[Real Madrid CF|Real Madrid]]
+|-<noinclude>
+|-
+| rowspan="2" | 14
+! scope="row" data-sort-value="Shevchenko, Andriy" | {{flagicon|UKR}} [[Andriy Shevchenko]]
+| 48
+| 100
+| {{#expr:48/100 round 2}}
+| 1994–2012
+| style="text-align:left;" | {{nowrap|[[FC Dynamo Kyiv|Dynamo Kyiv]] (15/26)}}, {{nowrap|[[AC Milan]] (29/59)}}, {{nowrap|[[Chelsea F.C.|Chelsea]] (4/15)}}
+|-
+! scope="row" data-sort-value="Ibrahimovic, Zlatan" | {{flagicon|SWE}} [[Zlatan Ibrahimović]]
+| 48
+| 124
+| {{decimals|{{#expr:48/124 round 2}}|2}}
+| 2001–2021
+| style="text-align:left;" | {{nowrap|[[AFC Ajax|Ajax]] (6/19)}}, {{nowrap|[[Juventus FC|Juventus]] (3/19)}}, {{nowrap|[[Inter Milan]] (6/22)}}, {{nowrap|[[FC Barcelona|Barcelona]] (4/10)}}, {{nowrap|[[AC Milan]] (9/20)}}, {{nowrap|[[Paris Saint-Germain FC|Paris Saint-Germain]] (20/33)}}, {{nowrap|[[Manchester United F.C.|Manchester United]] (0/1)}}
+|-
+| rowspan="2" | 16
+! scope="row" data-sort-value="Eusebio" | {{flagicon|POR}} [[Eusébio]] {{double-dagger}}
+| 46
+| 65
+| {{#expr:46/65 round 2}}
+| 1961–1974
+| style="text-align:left;" | [[S.L. Benfica|Benfica]]
+|-
+! scope="row" data-sort-value="Inzaghi, Filippo" | {{flagicon|ITA}} [[Filippo Inzaghi]]
+| 46
+| 81
+| {{#expr:46/81 round 2}}
+| 1997–2012
+| style="text-align:left;" | {{nowrap|[[Juventus FC|Juventus]] (17/26)}}, {{nowrap|[[AC Milan]] (29/55)}}
+|-
+| rowspan="2" | 18
+! scope="row" data-sort-value="Drogba, Didier" | {{flagicon|CIV}} [[Didier Drogba]] 
+| 44
+| 92
+| {{#expr:44/92 round 2}}
+| 2003–2015
+| style="text-align:left;" | {{nowrap|[[Olympique de Marseille|Marseille]] (5/6)}}, {{nowrap|[[Chelsea F.C.|Chelsea]] (36/74)}}, {{nowrap|[[Galatasaray S.K. (football)|Galatasaray]] (3/12)}}
+|-
+! scope="row" data-sort-value="Griezmann, Antoine" | {{flagicon|FRA}} [[Antoine Griezmann]] 
+| 44
+| 120
+| {{#expr:44/120 round 2}}
+| 2014–2026
+| style="text-align:left;" | {{nowrap|[[Real Sociedad]] (0/6)}}, {{nowrap|[[Atlético Madrid]] (40/98)}}, {{nowrap|[[FC Barcelona|Barcelona]] (4/16)}}
+|-
+| 20
+! scope="row" data-sort-value="Neymar" | {{flagicon|BRA}} [[Neymar]]	
+| 43
+| 81
+| {{#expr:43/81 round 2}}	
+| 2013–2022
+| style="text-align:left;" | {{nowrap|[[FC Barcelona|Barcelona]] (21/40)}}, {{nowrap|[[Paris Saint-Germain FC|Paris Saint-Germain]] (22/41)}}
+|-
+| 21
+! scope="row" data-sort-value="Del Piero, Alessandro" | {{flagicon|ITA}} [[Alessandro Del Piero]]
+| 42
+| 89
+| {{#expr:42/89 round 2}}
+| 1995–2009
+| style="text-align:left;" | [[Juventus FC|Juventus]]
+|-
+| 22
+! scope="row" data-sort-value="Aguero, Sergio" | {{flagicon|ARG}} [[Sergio Agüero]]
+| 41
+| 79
+| {{#expr:41/79 round 2}}
+| 2008–2021
+| style="text-align:left;" | {{nowrap|[[Atlético Madrid]] (5/14)}}, {{nowrap|[[Manchester City F.C.|Manchester City]] (36/64)}}, {{nowrap|[[FC Barcelona|Barcelona]] (0/1)}}
+|-
+| 23
+! scope="row" data-sort-value="Puskas, Ferenc" | {{flagicon|HUN}} [[Ferenc Puskás]] {{double-dagger}}
+| 36
+| 41
+| {{#expr:36/41 round 2}}
+| 1956–1966
+| style="text-align:left;" | {{nowrap|[[Budapest Honvéd FC|Budapest Honvéd]] (1/2)}}, {{nowrap|[[Real Madrid CF|Real Madrid]] (35/39)}}
+|-
+| 24
+! scope="row" data-sort-value="Cavani, Edinson" | {{flagicon|URU}} [[Edinson Cavani]]
+| 35
+| 70
+| {{decimals|{{#expr:35/70 round 2}}|2}}
+| 2011–2022
+| style="text-align:left;" | {{nowrap|[[SSC Napoli|Napoli]] (5/8)}}, {{nowrap|[[Paris Saint-Germain FC|Paris Saint-Germain]] (30/54)}}, {{nowrap|[[Manchester United F.C.|Manchester United]] (0/8)}}
+|-
+| rowspan="2"|25
+! scope="row" data-sort-value="Muller, Gerd" | {{flagicon|FRG}} [[Gerd Müller]] {{double-dagger}}
+| 34
+| 35
+| {{#expr:34/35 round 2}}
+| 1969–1977
+| style="text-align:left;" | [[FC Bayern Munich|Bayern Munich]]
+|-
+! scope="row" data-sort-value="Junior, Vinicius" | {{flagicon|BRA}} '''[[Vinícius Júnior]]'''
+| 34
+| 84
+| {{#expr:34/84 round 2}}
+| 2018–
+| style="text-align:left;" | '''[[Real Madrid CF|Real Madrid]]'''
+|-
+| 27
+! scope="row" data-sort-value="Morientes, Fernando" | {{flagicon|ESP}} [[Fernando Morientes]]
+| 33
+| 93
+| {{#expr:33/93 round 2}}
+| 1997–2009
+| style="text-align:left;" | {{nowrap|[[Real Madrid CF|Real Madrid]] (17/58)}}, {{nowrap|[[AS Monaco FC|Monaco]] (9/12)}}, {{nowrap|[[Liverpool F.C.|Liverpool]] (1/5)}}, {{nowrap|[[Valencia CF|Valencia]] (6/14)}}, {{nowrap|[[Olympique de Marseille|Marseille]] (0/4)}}
+|-
+| rowspan="2"|28
+! scope="row" data-sort-value="Dembélé, Ousmane" | {{flagicon|FRA}} '''[[Ousmane Dembélé]]'''
+| 31
+| 81
+| {{#expr:31/81 round 2}}
+| 2016–
+| style="text-align:left;" | {{nowrap|[[Borussia Dortmund]] (2/10)}}, {{nowrap|[[FC Barcelona|Barcelona]] (8/30)}}, {{nowrap|'''[[Paris Saint-Germain FC|Paris Saint-Germain]]''' (21/41)}}
+|-
+! scope="row" data-sort-value="Robben, Arjen" | {{flagicon|NED}} [[Arjen Robben]]
+| 31
+| 110
+| {{#expr:31/110 round 2}}
+| 2002–2018
+| style="text-align:left;" | {{nowrap|[[PSV Eindhoven]] (3/10)}}, {{nowrap|[[Chelsea F.C.|Chelsea]] (2/19)}}, {{nowrap|[[Real Madrid CF|Real Madrid]] (1/11)}}, {{nowrap|[[FC Bayern Munich|Bayern Munich]] (25/70)}}
+|-
+| rowspan="4" | 30
+! scope="row" data-sort-value="Etoo, Samuel" | {{flagicon|CMR}} [[Samuel Eto'o]]
+| 30
+| 78
+| {{#expr:30/78 round 2}}
+| 1999–2014
+| style="text-align:left;" | {{nowrap|[[Real Madrid CF|Real Madrid]] (0/3)}}, {{nowrap|[[RCD Mallorca|Mallorca]] (1/5)}}, {{nowrap|[[FC Barcelona|Barcelona]] (16/38)}}, {{nowrap|[[Inter Milan]] (10/23)}}, {{nowrap|[[Chelsea F.C.|Chelsea]] (3/9)}}
+|-
+! scope="row" data-sort-value="Rooney, Wayne" | {{flagicon|ENG}} [[Wayne Rooney]]
+| 30
+| 85
+| {{#expr:30/85 round 2}}
+| 2004–2015
+| style="text-align:left;" | [[Manchester United F.C.|Manchester United]]
+|-
+! scope="row" data-sort-value="Kaka" | {{flagicon|BRA}} [[Kaká]]
+| 30
+| 86
+| {{#expr:30/86 round 2}}
+| 2003–2014
+| style="text-align:left;" | {{nowrap|[[AC Milan]] (25/62)}}, {{nowrap|[[Real Madrid CF|Real Madrid]] (5/24)}}
+|-
+! scope="row" data-sort-value="Gento, Paco" | {{flagicon|ESP|variant=1945}} [[Paco Gento]] {{double-dagger}}
+| 30
+| 89
+| {{#expr:30/89 round 2}}
+| 1955–1969
+| style="text-align:left;" | [[Real Madrid CF|Real Madrid]]
+|-
+| rowspan="5" | 34
+! scope="row" data-sort-value="Trezeguet, David" | {{flagicon|FRA}} [[David Trezeguet]]
+| 29
+| 58
+| {{decimals|{{#expr:29/58 round 2}}|2}}
+| 1997–2009
+| style="text-align:left;" | {{nowrap|[[AS Monaco FC|Monaco]] (4/9)}}, {{nowrap|[[Juventus FC|Juventus]] (25/49)}}
+|-
+! scope="row" data-sort-value="Makaay, Roy" | {{flagicon|NED}} [[Roy Makaay]]
+| 29
+| 61
+| {{#expr:29/61 round 2}}
+| 2000–2007
+| style="text-align:left;" | {{nowrap|[[Deportivo de La Coruña|Deportivo La Coruña]] (12/29)}}, {{nowrap|[[FC Bayern Munich|Bayern Munich]] (17/32)}}
+|-
+! scope="row" data-sort-value="Kluivert, Patrick" | {{flagicon|NED}} [[Patrick Kluivert]]
+| 29
+| 71
+| {{#expr:29/71 round 2}}
+| 1994–2006
+| style="text-align:left;" | {{nowrap|[[AFC Ajax|Ajax]] (9/22)}}, {{nowrap|[[FC Barcelona|Barcelona]] (20/46)}}, {{nowrap|[[PSV Eindhoven]] (0/3)}}
+|-
+! scope="row" data-sort-value="Dzeko, Edin" | {{flagicon|BIH}} [[Edin Džeko]]
+| 29
+| 74
+| {{#expr:29/74 round 2}}
+| 2009–2023
+| style="text-align:left;" | {{nowrap|[[VfL Wolfsburg]] (4/6)}}, {{nowrap|[[Manchester City F.C.|Manchester City]] (3/24)}}, {{nowrap|[[AS Roma|Roma]] (15/25)}}, {{nowrap|[[Inter Milan]] (7/19)}}
+|-
+! scope="row" data-sort-value="Morata, Alvaro" | {{flagicon|ESP}} [[Álvaro Morata]]
+| 29
+| 89
+| {{#expr:29/89 round 2}}
+| 2012–2025
+| style="text-align:left;" | {{nowrap|[[Real Madrid CF|Real Madrid]] (4/15)}}, {{nowrap|[[Juventus FC|Juventus]] (15/35)}}, {{nowrap|[[Chelsea F.C.|Chelsea]] (1/7)}}, {{nowrap|[[Atlético Madrid]] (8/25)}}, {{nowrap|[[AC Milan]] (1/7)}}
+|-
+| rowspan="2" | 39
+! scope="row" data-sort-value="Papin, Jean-Pierre" | {{flagicon|FRA}} [[Jean-Pierre Papin]]
+| 28
+| 37
+| {{#expr:28/37 round 2}}
+| 1989–1994
+| style="text-align:left;" | {{nowrap|[[Olympique de Marseille|Marseille]] (19/21)}}, {{nowrap|[[AC Milan]] (7/13)}}, {{nowrap|[[FC Bayern Munich|Bayern Munich]] (2/3)}}
+|-
+! scope="row" data-sort-value="Giggs, Ryan" | {{flagicon|WAL}} [[Ryan Giggs]]
+| 28
+| 145
+| {{#expr:28/145 round 2}}
+| 1993–2014
+| style="text-align:left;" | [[Manchester United F.C.|Manchester United]]
+|-
+| rowspan="6" | 41
+! scope="row" data-sort-value="Jesus, Gabriel" | {{flagicon|BRA}} '''[[Gabriel Jesus]]'''
+| 27
+| 59
+| {{#expr:27/59 round 2}}
+| 2017–
+| style="text-align:left;" | {{nowrap|[[Manchester City F.C.|Manchester City]] (20/38)}}, {{nowrap|[[Arsenal F.C.|Arsenal]] (6/19)}}, {{nowrap|'''[[FC Barcelona|Barcelona]]''' (1/2)}}
+|-
+! scope="row" data-sort-value="Mane, Sadio" | {{flagicon|SEN}} [[Sadio Mané]]
+| 27
+| 63
+| {{#expr:27/63 round 2}}
+| 2017–2023
+| style="text-align:left;" | {{nowrap|[[Liverpool F.C.|Liverpool]] (24/55)}}, {{nowrap|[[FC Bayern Munich|Bayern Munich]] (3/8)}}
+|-
+! scope="row" data-sort-value="Martínez, Lautaro" | {{flagicon|ARG}} '''[[Lautaro Martínez]]'''
+| 27
+| 68
+| {{#expr:27/68 round 2}}
+| 2019–
+| style="text-align:left;" | '''[[Inter Milan]]'''
+|-
+! scope="row" data-sort-value="Rivaldo" | {{flagicon|BRA}} [[Rivaldo]]
+| 27
+| 73
+| {{#expr:27/73 round 2}}
+| 1997–2007
+| style="text-align:left;" | {{nowrap|[[FC Barcelona|Barcelona]] (22/43)}}, {{nowrap|[[AC Milan]] (2/13)}}, {{nowrap|[[Olympiacos F.C.|Olympiacos]] (3/17)}}
+|-
+! scope="row" data-sort-value="Suarez, Luis" | {{flagicon|URU}} [[Luis Suárez (Uruguayan footballer)|Luis Suárez]]  
+| 27
+| 73
+| {{#expr:27/73 round 2}}
+| 2010–2022
+| style="text-align:left;" | {{nowrap|[[AFC Ajax|Ajax]] (1/5)}}, {{nowrap|[[FC Barcelona|Barcelona]] (25/55)}}, {{nowrap|[[Atlético Madrid]] (1/13)}}
+|-
+! scope="row" data-sort-value="Sterling, Raheem" | {{flagicon|ENG}} [[Raheem Sterling]]
+| 27
+| 88
+| {{#expr:27/88 round 2}}
+| 2014–2025
+| style="text-align:left;" | {{nowrap|[[Liverpool F.C.|Liverpool]] (0/6)}}, {{nowrap|[[Manchester City F.C.|Manchester City]] (24/67)}}, {{nowrap|[[Chelsea F.C.|Chelsea]] (3/9)}}, {{nowrap|[[Arsenal F.C.|Arsenal]] (0/6)}}
+|-
+| rowspan="2" |47
+! scope="row" data-sort-value="Gomez, Mario" | {{flagicon|GER}} [[Mario Gómez]]
+| 26
+| 44
+| {{#expr:26/44 round 2}}
+| 2007–2013
+| style="text-align:left;" | {{nowrap|[[VfB Stuttgart]] (3/5)}}, {{nowrap|[[FC Bayern Munich|Bayern Munich]] (23/39)}}
+|-
+! scope="row" data-sort-value="Rodrygo" | {{flagicon|BRA}} '''[[Rodrygo]]'''
+| 26
+| 69
+| {{#expr:26/69 round 2}}
+| 2019–
+| style="text-align:left;" | '''[[Real Madrid CF|Real Madrid]]'''
+|-
+| rowspan="4" |49
+! scope="row" data-sort-value="Alvarez, Julián" | {{flagicon|ARG}} '''[[Julián Alvarez]]'''
+| 25
+| 44
+| {{#expr:25/44 round 2}}
+| 2022–
+| style="text-align:left;" | {{nowrap|[[Manchester City F.C.|Manchester City]] (8/17)}}, {{nowrap|'''[[Atlético Madrid]]''' (17/27)}}
+|-
+! scope="row" data-sort-value="Jardel, Mario" | {{flagicon|BRA}} [[Mário Jardel]]
+| 25
+| 46
+| {{#expr:25/46 round 2}}
+| 1996–2001
+| style="text-align:left;" | {{nowrap|[[FC Porto|Porto]] (19/32)}}, {{nowrap|[[Galatasaray S.K. (football)|Galatasaray]] (6/14)}}
+|-
+! scope="row" data-sort-value="Persie, Robin van" | {{flagicon|NED}} [[Robin van Persie]]
+| 25
+| 59
+| {{#expr:25/59 round 2}}
+| 2002–2014
+| style="text-align:left;" | {{nowrap|[[Feyenoord]] (0/2)}}, {{nowrap|[[Arsenal F.C.|Arsenal]] (18/45)}}, {{nowrap|[[Manchester United F.C.|Manchester United]] (7/12)}}
+|-
+! scope="row" data-sort-value="Crespo, Hernan" | {{flagicon|ARG}} [[Hernán Crespo]]
+| 25
+| 65
+| {{#expr:25/65 round 2}}
+| 1997–2007
+| style="text-align:left;" | {{nowrap|[[Parma Calcio 1913|Parma]] (2/6)}}, {{nowrap|[[SS Lazio|Lazio]] (2/11)}}, {{nowrap|[[Inter Milan]] (11/23)}}, {{nowrap|[[Chelsea F.C.|Chelsea]] (4/15)}}, {{nowrap|[[AC Milan]] (6/10)}}
+|-</noinclude>
+|}
+</onlyinclude>
+
+==Top scorers by season==
+The table below does not include goals scored in the qualification stage of the competition.<ref>For players active prior to the introduction of the Champions League in 1992, see: {{Cite web |last1=Di Maggio |first1=Roberto |last2=Mamrud |first2=Roberto |last3=Rota |first3=Davide |last4=Owsianski |first4=Jarek |date=8 June 2017 |title=Champions Cup/Champions League Topscorers |url=https://www.rsssf.org/ec/ec1tops.html |access-date=2 November 2017 |publisher=Rec.Sport.Soccer Statistics Foundation (RSSSF)}} For all other players, see: {{cite web |title=UEFA Champions League Statistics Handbook 2017/18: Facts and figures |publisher=[[UEFA]] |page=11 |url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/competitions/Publications/02/28/56/88/2285688_DOWNLOAD.pdf |access-date=2 November 2017}}</ref>
+
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col" | Season
+! scope="col" | Player(s)
+! scope="col" | Club(s)
+! scope="col" | Goals
+|-
+| [[1955–56 European Cup|1955–56]]
+! scope="row" data-sort-value="Milutinovic, Milos" | {{flagicon|YUG}} [[Miloš Milutinović]]
+| data-sort-value="Partizan" | {{fbaicon|YUG}} [[FK Partizan|Partizan]]
+| style="text-align:center;" | 8
+|-
+| [[1956–57 European Cup|1956–57]]
+! scope="row" data-sort-value="Viollet, Dennis" | {{flagicon|ENG}} [[Dennis Viollet]]
+| data-sort-value="Manchester United" | {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| style="text-align:center;" | 9
+|-
+| [[1957–58 European Cup|1957–58]]
+! scope="row" data-sort-value="Di Stefano, Alfredo" | {{flagicon|ESP|1945}} [[Alfredo Di Stéfano]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP|1945}} [[Real Madrid CF|Real Madrid]]
+| style="text-align:center;" | 10
+|-
+| [[1958–59 European Cup|1958–59]]
+! scope="row" data-sort-value="Fontaine, Just" | {{flagicon|FRA|1830}} [[Just Fontaine]]
+| data-sort-value="Reims" | {{fbaicon|FRA|1830}} [[Stade de Reims|Reims]]
+| style="text-align:center;" | 10
+|-
+| [[1959–60 European Cup|1959–60]]
+! scope="row" data-sort-value="Puskas, Ferenc" | {{flagicon|HUN}} [[Ferenc Puskás]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP|1945}} [[Real Madrid CF|Real Madrid]]
+| style="text-align:center;" | 12
+|-
+| [[1960–61 European Cup|1960–61]]
+! scope="row" data-sort-value="Aguas, Jose" | {{flagicon|POR}} [[José Águas]]
+| data-sort-value="Benfica" | {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+| style="text-align:center;" | 11
+|-
+| [[1961–62 European Cup|1961–62]]
+! scope="row" data-sort-value="Strehl, Heinz" | {{flagicon|FRG}} [[Heinz Strehl]]
+| data-sort-value="Nurnberg" | {{fbaicon|FRG}} [[1. FC Nürnberg]]
+| style="text-align:center;" | 8
+|-
+| [[1962–63 European Cup|1962–63]]
+! scope="row" data-sort-value="Altafini, Jose" | {{flagicon|ITA}} {{flagicon|BRA}} [[José Altafini]]
+| data-sort-value="Milan" | {{fbaicon|ITA}} [[AC Milan|Milan]]
+| style="text-align:center;" | 14
+|-
+| rowspan="3" | [[1963–64 European Cup|1963–64]]
+! scope="row" data-sort-value="Kovacevic, Vladica" | {{flagicon|YUG}} [[Vladica Kovačević]]
+| data-sort-value="Partizan" | {{fbaicon|YUG}} [[FK Partizan|Partizan]]
+| rowspan="3" style="text-align:center;" | 7
+|-
+! scope="row" data-sort-value="Mazzola, Sandro" | {{flagicon|ITA}} [[Sandro Mazzola]]
+| data-sort-value="Inter Milan" | {{fbaicon|ITA}} [[Inter Milan]]
+|-
+! scope="row" data-sort-value="Puskas, Ferenc" | {{flagicon|HUN}} [[Ferenc Puskás]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP|1945}} [[Real Madrid CF|Real Madrid]]
+|-
+| [[1964–65 European Cup|1964–65]]
+! scope="row" data-sort-value="Torres, Jose" | {{flagicon|POR}} [[José Torres (footballer, born 1938)|José Torres]]
+| data-sort-value="Benfica" | {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+| style="text-align:center;" | 11
+|-
+| rowspan="2" | [[1965–66 European Cup|1965–66]]
+! scope="row" data-sort-value="Albert, Florian" | {{flagicon|HUN}} [[Flórián Albert]]
+| data-sort-value="Ferencvaros" | {{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+| rowspan="2" style="text-align:center;" | 7
+|-
+! scope="row" data-sort-value="Eusebio" | {{flagicon|POR}} [[Eusébio]]
+| data-sort-value="Benfica" | {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|-
+| rowspan="2" | [[1966–67 European Cup|1966–67]]
+! scope="row" data-sort-value="Piepenburg, Jurgen" | {{flagicon|GDR}} [[Jürgen Piepenburg]]
+| data-sort-value="Vorwarts Berlin" | {{fbaicon|GDR}} [[FC Viktoria Frankfurt|Vorwärts Berlin]]
+| rowspan="2" style="text-align:center;" | 6
+|-
+! scope="row" data-sort-value="Van Himst, Paul" | {{flagicon|BEL}} [[Paul Van Himst]]
+| data-sort-value="Anderlecht" | {{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|-
+| [[1967–68 European Cup|1967–68]]
+! scope="row" data-sort-value="Eusebio" | {{flagicon|POR}} [[Eusébio]]
+| data-sort-value="Benfica" | {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+| style="text-align:center;" | 6
+|-
+| [[1968–69 European Cup|1968–69]]
+! scope="row" data-sort-value="Law, Denis" | {{flagicon|SCO}} [[Denis Law]]
+| data-sort-value="Manchester United" | {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| style="text-align:center;" | 9
+|-
+| [[1969–70 European Cup|1969–70]]
+! scope="row" data-sort-value="Jones, Mick" | {{flagicon|ENG}} [[Mick Jones (footballer, born 1945)|Mick Jones]]
+| data-sort-value="Leeds United" | {{fbaicon|ENG}} [[Leeds United F.C.|Leeds United]]
+| style="text-align:center;" | 8
+|-
+| [[1970–71 European Cup|1970–71]]
+! scope="row" data-sort-value="Antoniadis, Antonis" | {{flagicon|GRE|1970}} [[Antonis Antoniadis]]
+| data-sort-value="Panathinaikos" | {{fbaicon|GRE|1970}} [[Panathinaikos F.C.|Panathinaikos]]
+| style="text-align:center;" | 10
+|-
+| rowspan="4" | [[1971–72 European Cup|1971–72]]
+! scope="row" data-sort-value="Cruyff, Johan" | {{flagicon|NED}} [[Johan Cruyff]]
+| data-sort-value="Ajax" | {{fbaicon|NED}} [[AFC Ajax|Ajax]]
+| rowspan="4" style="text-align:center;" | 5
+|-
+! scope="row" data-sort-value="Dunai, Antal" | {{flagicon|HUN}} [[Antal Dunai]]
+| data-sort-value="Ujpesti Dozsa" | {{fbaicon|HUN}} [[Újpest FC|Újpest]]
+|-
+! scope="row" data-sort-value="Macari, Lou" | {{flagicon|SCO}} [[Lou Macari]]
+| data-sort-value="Celtic" | {{fbaicon|SCO}} [[Celtic F.C.|Celtic]]
+|-
+! scope="row" data-sort-value="Takac, Silvester" | {{flagicon|YUG}} [[Silvester Takač]]
+| data-sort-value="Standard Liege" | {{fbaicon|BEL}} [[Standard Liège]]
+|-
+| [[1972–73 European Cup|1972–73]]
+! scope="row" data-sort-value="Muller, Gerd" | {{flagicon|FRG}} [[Gerd Müller]]
+| data-sort-value="Bayern Munich" | {{fbaicon|FRG}} [[FC Bayern Munich|Bayern Munich]]
+| style="text-align:center;" | 11
+|-
+| [[1973–74 European Cup|1973–74]]
+! scope="row" data-sort-value="Muller, Gerd" | {{flagicon|FRG}} [[Gerd Müller]]
+| data-sort-value="Bayern Munich" | {{fbaicon|FRG}} [[FC Bayern Munich|Bayern Munich]]
+| style="text-align:center;" | 8
+|-
+| rowspan="2" | [[1974–75 European Cup|1974–75]]
+! scope="row" data-sort-value="Muller, Gerd" | {{flagicon|FRG}} [[Gerd Müller]]
+| data-sort-value="Bayern Munich" | {{fbaicon|FRG}} [[FC Bayern Munich|Bayern Munich]]
+| rowspan="2" style="text-align:center;" | 5
+|-
+! scope="row" data-sort-value="Markarov, Eduard" | {{flagicon|URS}} [[Eduard Markarov]]
+| data-sort-value="Ararat Yerevan" | {{fbaicon|URS}} [[FC Ararat Yerevan|Ararat Yerevan]]
+|-
+| [[1975–76 European Cup|1975–76]]
+! scope="row" data-sort-value="Heynckes, Jupp" | {{flagicon|FRG}} [[Jupp Heynckes]]
+| data-sort-value="Borussia Monchengladbach" | {{fbaicon|FRG}} [[Borussia Mönchengladbach]]
+| style="text-align:center;" | 6
+|-
+| rowspan="2" | [[1976–77 European Cup|1976–77]]
+! scope="row" data-sort-value="Muller, Gerd" | {{flagicon|FRG}} [[Gerd Müller]]
+| data-sort-value="Bayern Munich" | {{fbaicon|FRG}} [[FC Bayern Munich|Bayern Munich]]
+| rowspan="2" style="text-align:center;" | 5
+|-
+! scope="row" data-sort-value="Cucinotta, Franco" | {{flagicon|ITA}} [[Franco Cucinotta]]
+| data-sort-value="Zurich" | {{fbaicon|SUI}} [[FC Zürich|Zürich]]
+|-
+| [[1977–78 European Cup|1977–78]]
+! scope="row" data-sort-value="Simonsen, Allan" | {{flagicon|DEN}} [[Allan Simonsen]]
+| data-sort-value="Borussia Monchengladbach" | {{fbaicon|FRG}} [[Borussia Mönchengladbach]]
+| style="text-align:center;" | 5
+|-
+| [[1978–79 European Cup|1978–79]]
+! scope="row" data-sort-value="Sulser, Claudio" | {{flagicon|SUI}} [[Claudio Sulser]]
+| data-sort-value="Grasshopper" | {{fbaicon|SUI}} [[Grasshopper Club Zürich|Grasshopper]]
+| style="text-align:center;" | 11
+|-
+| [[1979–80 European Cup|1979–80]]
+! scope="row" data-sort-value="Lerby, Soren" | {{flagicon|DEN}} [[Søren Lerby]]
+| data-sort-value="Ajax" | {{fbaicon|NED}} [[AFC Ajax|Ajax]]
+| style="text-align:center;" | 10
+|-
+| rowspan="3" | [[1980–81 European Cup|1980–81]]
+! scope="row" data-sort-value="McDermott, Terry" | {{flagicon|ENG}} [[Terry McDermott]]
+| data-sort-value="Liverpool" | {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+| rowspan="3" style="text-align:center;" | 6
+|-
+! scope="row" data-sort-value="Souness, Graeme" | {{flagicon|SCO}} [[Graeme Souness]]
+| data-sort-value="Liverpool" | {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|-
+! scope="row" data-sort-value="Rummenigge, Karl-Heinz" | {{flagicon|FRG}} [[Karl-Heinz Rummenigge]]
+| data-sort-value="Bayern Munich" | {{fbaicon|FRG}} [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[1981–82 European Cup|1981–82]]
+! scope="row" data-sort-value="Hoeness, Dieter" | {{flagicon|FRG}} [[Dieter Hoeneß]]
+| data-sort-value="Bayern Munich" | {{fbaicon|FRG}} [[FC Bayern Munich|Bayern Munich]]
+| style="text-align:center;" | 7
+|-
+| [[1982–83 European Cup|1982–83]]
+! scope="row" data-sort-value="Rossi, Paolo" | {{flagicon|ITA}} [[Paolo Rossi]]
+| data-sort-value="Juventus" | {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+| style="text-align:center;" | 6
+|-
+| [[1983–84 European Cup|1983–84]]
+! scope="row" data-sort-value="Sokol, Viktor" | {{flagicon|URS}} [[Viktor Sokol (footballer born 1954)|Viktor Sokol]]
+| data-sort-value="Dinamo Minsk" | {{fbaicon|URS}} [[FC Dinamo Minsk|Dinamo Minsk]]
+| style="text-align:center;" | 6
+|-
+| rowspan="2" | [[1984–85 European Cup|1984–85]]
+! scope="row" data-sort-value="Nilsson, Torbjorn" | {{flagicon|SWE}} [[Torbjörn Nilsson]]
+| data-sort-value="IFK Goteborg" | {{fbaicon|SWE}} [[IFK Göteborg]]
+| rowspan="2" style="text-align:center;" | 7
+|-
+! scope="row" data-sort-value="Platini, Michel" | {{flagicon|FRA|1974}} [[Michel Platini]]
+| data-sort-value="Juventus" | {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|-
+| [[1985–86 European Cup|1985–86]]
+! scope="row" data-sort-value="Nilsson, Torbjorn" | {{flagicon|SWE}} [[Torbjörn Nilsson]]
+| data-sort-value="IFK Goteborg" | {{fbaicon|SWE}} [[IFK Göteborg]]
+| style="text-align:center;" | 6
+|-
+| [[1986–87 European Cup|1986–87]]
+! scope="row" data-sort-value="Cvetkovic, Borislav" | {{flagicon|YUG}} [[Borislav Cvetković]]
+| data-sort-value="Red Star Belgrade" | {{fbaicon|YUG}} [[Red Star Belgrade]]
+| style="text-align:center;" | 7
+|-
+| rowspan="7"| [[1987–88 European Cup|1987–88]]
+! scope="row" data-sort-value="Hagi, Gheorghe" | {{flagicon|ROU|1965}} [[Gheorghe Hagi]]
+| data-sort-value="Steaua Bucuresti" | {{fbaicon|ROU|1965}} [[FCSB|Steaua București]]
+| rowspan="7" style="text-align:center;" | 4
+|-
+! scope="row" data-sort-value="Novak, Petar" | {{flagicon|TCH}} [[Petar Novák]]
+| data-sort-value="Sparta Prague" | {{fbaicon|TCH}} [[AC Sparta Prague|Sparta Prague]]
+|-
+! scope="row" data-sort-value="Gijp, Rene van der" | {{flagicon|NED}} [[René van der Gijp]]
+| data-sort-value="Neuchatel Xamax" | {{fbaicon|SUI}} [[Neuchâtel Xamax FCS|Neuchâtel Xamax]]
+|-
+! scope="row" data-sort-value="Madjer, Rabah" | {{flagicon|ALG}} [[Rabah Madjer]]
+| data-sort-value="Porto" | {{fbaicon|POR}} [[FC Porto|Porto]]
+|-
+! scope="row" data-sort-value="McCoist, Ally" | {{flagicon|SCO}} [[Ally McCoist]]
+| data-sort-value="Rangers" | {{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|-
+! scope="row" data-sort-value="Michel" | {{flagicon|ESP}} [[Míchel (footballer, born 1963)|Míchel]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+! scope="row" data-sort-value="Aguas, Rui" | {{flagicon|POR}} [[Rui Águas (footballer)|Rui Águas]]
+| data-sort-value="Benfica" | {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|-
+| [[1988–89 European Cup|1988–89]]
+! scope="row" data-sort-value="Basten, Marco van" | {{flagicon|NED}} [[Marco van Basten]]
+| data-sort-value="Milan" | {{fbaicon|ITA}} [[AC Milan|Milan]]
+| style="text-align:center;" | 10
+|-
+| rowspan="2"| [[1989–90 European Cup|1989–90]]
+! scope="row" data-sort-value="Romario" | {{flagicon|BRA|1968}} [[Romário]]
+| data-sort-value="PSV Eindhoven" | {{fbaicon|NED}} [[PSV Eindhoven]]
+| rowspan="2" style="text-align:center;" | 6
+|-
+! scope="row" data-sort-value="Papin, Jean-Pierre" | {{flagicon|FRA|1974}} [[Jean-Pierre Papin]]
+| data-sort-value="Marseille" | {{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|-
+| rowspan="2"| [[1990–91 European Cup|1990–91]]
+! scope="row" data-sort-value="Pacult, Peter" | {{flagicon|AUT}} [[Peter Pacult]]
+| data-sort-value="Tirol Innsbruck" | {{fbaicon|AUT}} [[FC Tirol Innsbruck|Tirol Innsbruck]]
+| rowspan="2" style="text-align:center;" | 6
+|-
+! scope="row" data-sort-value="Papin, Jean-Pierre" | {{flagicon|FRA|1974}} [[Jean-Pierre Papin]]
+| data-sort-value="Marseille" | {{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|-
+| rowspan="2"| [[1991–92 European Cup|1991–92]]
+! scope="row" data-sort-value="Yuran, Sergei" | {{flagicon|CIS|1992}} [[Sergei Yuran]]
+| data-sort-value="Benfica" | {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+| rowspan="2" style="text-align:center;" | 7
+|-
+! scope="row" data-sort-value="Papin, Jean-Pierre" | {{flagicon|FRA|1974}} [[Jean-Pierre Papin]]
+| data-sort-value="Marseille" | {{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|-
+| [[1992–93 UEFA Champions League|1992–93]]
+! scope="row" data-sort-value="Romario" | {{flagicon|BRA}} [[Romário]]
+| data-sort-value="PSV Eindhoven" | {{fbaicon|NED}} [[PSV Eindhoven]]
+| style="text-align:center;" | 7
+|-
+| rowspan="2"| [[1993–94 UEFA Champions League|1993–94]]
+! scope="row" data-sort-value="Koeman, Ronald" | {{flagicon|NED}} [[Ronald Koeman]]
+| data-sort-value="Barcelona" | {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| rowspan="2" style="text-align:center;" | 8
+|-
+! scope="row" data-sort-value="Rufer, Wynton" | {{flagicon|NZL}} [[Wynton Rufer]]
+| data-sort-value="Werder Bremen" | {{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|-
+| [[1994–95 UEFA Champions League|1994–95]]
+! scope="row" data-sort-value="Weah, George" | {{flagicon|LBR}} [[George Weah]]
+| data-sort-value="Paris Saint-Germain" | {{fbaicon|FRA|1974}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| style="text-align:center;" | 7
+|-
+| [[1995–96 UEFA Champions League|1995–96]]
+! scope="row" data-sort-value="Litmanen, Jari" | {{flagicon|FIN}} [[Jari Litmanen]]
+| data-sort-value="Ajax" | {{fbaicon|NED}} [[AFC Ajax|Ajax]]
+| style="text-align:center;" | 9
+|-
+| [[1996–97 UEFA Champions League|1996–97]]
+! scope="row" data-sort-value="Pantic, Milinko" | {{flagicon|SCG}} [[Milinko Pantić]]
+| data-sort-value="Atletico Madrid" | {{fbaicon|ESP}} [[Atlético Madrid]]
+| style="text-align:center;" | 5
+|-
+| [[1997–98 UEFA Champions League|1997–98]]
+! scope="row" data-sort-value=" Del Piero, Alessandro" | {{flagicon|ITA}} [[Alessandro Del Piero]]
+| data-sort-value="Juventus" | {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+| style="text-align:center;" | 10
+|-
+| rowspan="2" | [[1998–99 UEFA Champions League|1998–99]]
+! scope="row" data-sort-value="Shevchenko, Andriy" | {{flagicon|UKR|1992}} [[Andriy Shevchenko]]
+| data-sort-value="Dynamo Kyiv" | {{fbaicon|UKR|1992}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+| rowspan="2" style="text-align:center;" | 8
+|-
+! scope="row" data-sort-value="Yorke, Dwight" | {{flagicon|TRI}} [[Dwight Yorke]]
+| data-sort-value="Manchester United" | {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|-
+| rowspan="3" | [[1999–2000 UEFA Champions League|1999–2000]]
+! scope="row" data-sort-value="Jardel, Mario" | {{flagicon|BRA}} [[Mário Jardel]]
+| data-sort-value="Porto" | {{fbaicon|POR}} [[FC Porto|Porto]]
+| rowspan="3" style="text-align:center;" | 10
+|-
+! scope="row" data-sort-value="Rivaldo" | {{flagicon|BRA}} [[Rivaldo]]
+| data-sort-value="Barcelona" | {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+! scope="row" data-sort-value="Raul" | {{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+| [[2000–01 UEFA Champions League|2000–01]]
+! scope="row" data-sort-value="Raul" | {{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| style="text-align:center;" | 7
+|-
+| [[2001–02 UEFA Champions League|2001–02]]
+! scope="row" data-sort-value="Nistelrooy, Ruud van" | {{flagicon|NED}} [[Ruud van Nistelrooy]]
+| data-sort-value="Manchester United" | {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| style="text-align:center;" | 10
+|-
+| [[2002–03 UEFA Champions League|2002–03]]
+! scope="row" data-sort-value="Nistelrooy, Ruud van" | {{flagicon|NED}} [[Ruud van Nistelrooy]]
+| data-sort-value="Manchester United" | {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| style="text-align:center;" | 12
+|-
+| [[2003–04 UEFA Champions League|2003–04]]
+! scope="row" data-sort-value="Morientes, Fernando" | {{flagicon|ESP}} [[Fernando Morientes]]
+| data-sort-value="Monaco" | {{fbaicon|FRA|1974}} [[AS Monaco FC|Monaco]]
+| style="text-align:center;" | 9
+|-
+| [[2004–05 UEFA Champions League|2004–05]]
+! scope="row" data-sort-value="Nistelrooy, Ruud van" | {{flagicon|NED}} [[Ruud van Nistelrooy]]
+| data-sort-value="Manchester United" | {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| style="text-align:center;" | 8
+|-
+| [[2005–06 UEFA Champions League|2005–06]]
+! scope="row" data-sort-value="Shevchenko, Andriy" | {{flagicon|UKR|1992}} [[Andriy Shevchenko]]
+| data-sort-value="Milan" | {{fbaicon|ITA|2003}} [[AC Milan|Milan]]
+| style="text-align:center;" | 9
+|-
+| [[2006–07 UEFA Champions League|2006–07]]
+! scope="row" data-sort-value="Kaka" | {{flagicon|BRA}} [[Kaká]]
+| data-sort-value="Milan" | {{fbaicon|ITA}} [[AC Milan|Milan]]
+| style="text-align:center;" | 10
+|-
+| [[2007–08 UEFA Champions League|2007–08]]
+! scope="row" data-sort-value="Ronaldo, Cristiano" | {{flagicon|POR}} [[Cristiano Ronaldo]]
+| data-sort-value="Manchester United" | {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| style="text-align:center;" | 8
+|-
+| [[2008–09 UEFA Champions League|2008–09]]
+! scope="row" data-sort-value="Messi, Lionel" | {{flagicon|ARG}} [[Lionel Messi]]
+| data-sort-value="Barcelona" | {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| style="text-align:center;" | 9
+|-
+| [[2009–10 UEFA Champions League|2009–10]]
+! scope="row" data-sort-value="Messi, Lionel" | {{flagicon|ARG}} [[Lionel Messi]]
+| data-sort-value="Barcelona" | {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| style="text-align:center;" | 8
+|-
+| [[2010–11 UEFA Champions League|2010–11]]
+! scope="row" data-sort-value="Messi, Lionel" | {{flagicon|ARG}} [[Lionel Messi]]
+| data-sort-value="Barcelona" | {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| style="text-align:center;" | 12
+|-
+| [[2011–12 UEFA Champions League|2011–12]]
+! scope="row" data-sort-value="Messi, Lionel" | {{flagicon|ARG}} [[Lionel Messi]]
+| data-sort-value="Barcelona" | {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| style="text-align:center;" | 14
+|-
+| [[2012–13 UEFA Champions League|2012–13]]
+! scope="row" data-sort-value="Ronaldo, Cristiano" | {{flagicon|POR}} [[Cristiano Ronaldo]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| style="text-align:center;" | 12
+|-
+| [[2013–14 UEFA Champions League|2013–14]]
+! scope="row" data-sort-value="Ronaldo, Cristiano" | {{flagicon|POR}} [[Cristiano Ronaldo]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| style="text-align:center;" | 17
+|-
+| rowspan="3" | [[2014–15 UEFA Champions League|2014–15]]
+! scope="row" data-sort-value="Neymar" | {{flagicon|BRA}} [[Neymar]]
+| data-sort-value="Barcelona" | {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| rowspan="3" style="text-align:center;" | 10
+|-
+! scope="row" data-sort-value="Ronaldo, Cristiano" | {{flagicon|POR}} [[Cristiano Ronaldo]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+! scope="row" data-sort-value="Messi, Lionel" | {{flagicon|ARG}} [[Lionel Messi]]
+| data-sort-value="Barcelona" | {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+| [[2015–16 UEFA Champions League|2015–16]]
+! scope="row" data-sort-value="Ronaldo, Cristiano" | {{flagicon|POR}} [[Cristiano Ronaldo]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| style="text-align:center;" | 16
+|-
+| [[2016–17 UEFA Champions League|2016–17]]
+! scope="row" data-sort-value="Ronaldo, Cristiano" | {{flagicon|POR}} [[Cristiano Ronaldo]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| style="text-align:center;" | 12
+|-
+| [[2017–18 UEFA Champions League|2017–18]]
+! scope="row" data-sort-value="Ronaldo, Cristiano" | {{flagicon|POR}} [[Cristiano Ronaldo]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| style="text-align:center;" | 15
+|-
+| [[2018–19 UEFA Champions League|2018–19]]
+! scope="row" data-sort-value="Messi, Lionel" | {{flagicon|ARG}} [[Lionel Messi]]
+| data-sort-value="Barcelona" | {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| style="text-align:center;" | 12
+|-
+| [[2019–20 UEFA Champions League|2019–20]]
+! scope="row" data-sort-value="Lewandowski, Robert" | {{flagicon|POL}} [[Robert Lewandowski]]
+| data-sort-value="Bayern Munich" | {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| style="text-align:center;" | 15
+|-
+| [[2020–21 UEFA Champions League|2020–21]]
+! scope="row" data-sort-value="Haaland, Erling" | {{flagicon|NOR}} [[Erling Haaland]]
+| data-sort-value="Borussia Dortmund" | {{fbaicon|GER}} [[Borussia Dortmund]]
+| style="text-align:center;" | 10
+|-
+| [[2021–22 UEFA Champions League|2021–22]]
+! scope="row" data-sort-value="Benzema, Karim" | {{flagicon|FRA}} [[Karim Benzema]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| style="text-align:center;" | 15
+|-
+| [[2022–23 UEFA Champions League|2022–23]]
+! scope="row" data-sort-value="Haaland, Erling" | {{flagicon|NOR}} [[Erling Haaland]]
+| data-sort-value="Manchester City" | {{fbaicon|ENG}} [[Manchester City F.C|Manchester City]]
+| style="text-align:center;" | 12
+|-
+| rowspan="2" | [[2023–24 UEFA Champions League|2023–24]]
+! scope="row" data-sort-value="Kane, Harry" | {{flagicon|ENG}} [[Harry Kane]]
+| data-sort-value="Barcelona" | {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| rowspan="2" style="text-align:center;" | 8
+|-
+! scope="row" data-sort-value="Mbappe, Kylian" | {{flagicon|FRA}} [[Kylian Mbappé]]
+| data-sort-value="Real Madrid" | {{fbaicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|-
+| rowspan="2" | [[2024–25 UEFA Champions League|2024–25]]
+! scope="row" data-sort-value="Guirassy, Serhou" | {{flagicon|GUI}} [[Serhou Guirassy]]
+| data-sort-value="Borussia Dortmund" | {{fbaicon|GER}} [[Borussia Dortmund]]
+| rowspan="2" style="text-align:center;" | 13
+|-
+! scope="row" data-sort-value="Raphinha" | {{flagicon|BRA}} [[Raphinha]]
+| data-sort-value="Barcelona" | {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+| [[2025–26 UEFA Champions League|2025–26]]
+! scope="row" data-sort-value="Mbappe, Kylian" | {{flagicon|FRA}} [[Kylian Mbappé]]
+| data-sort-value="Real Madrid" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| style="text-align:center;" | 15
+|}
+
+===By player===
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col" | Player
+! scope="col" | Titles
+! scope="col" | Seasons
+|-
+! scope="row" data-sort-value="Ronaldo, Cristiano" | {{fbaicon|POR}} [[Cristiano Ronaldo]]
+| style="text-align:center;" | 7
+| [[2007–08 UEFA Champions League|2007–08]], [[2012–13 UEFA Champions League|2012–13]], [[2013–14 UEFA Champions League|2013–14]], [[2014–15 UEFA Champions League|2014–15]], [[2015–16 UEFA Champions League|2015–16]], [[2016–17 UEFA Champions League|2016–17]], [[2017–18 UEFA Champions League|2017–18]]
+|-
+! scope="row" data-sort-value="Messi, Lionel" | {{fbaicon|ARG}} [[Lionel Messi]]
+| style="text-align:center;" | 6
+| [[2008–09 UEFA Champions League|2008–09]], [[2009–10 UEFA Champions League|2009–10]], [[2010–11 UEFA Champions League|2010–11]], [[2011–12 UEFA Champions League|2011–12]], [[2014–15 UEFA Champions League|2014–15]], [[2018–19 UEFA Champions League|2018–19]]
+|-
+! scope="row" data-sort-value="Muller, Gerd" | {{fbaicon|FRG}} [[Gerd Müller]]
+| style="text-align:center;" | 4
+| [[1972–73 European Cup|1972–73]], [[1973–74 European Cup|1973–74]], [[1974–75 European Cup|1974–75]], [[1976–77 European Cup|1976–77]]
+|-
+! scope="row" data-sort-value="Papin, Jean-Pierre" | {{fbaicon|FRA|1974}} [[Jean-Pierre Papin]]
+| rowspan="2" style="text-align:center;" | 3
+| [[1989–90 European Cup|1989–90]], [[1990–91 European Cup|1990–91]], [[1991–92 European Cup|1991–92]]
+|-
+! scope="row" data-sort-value="Nistelrooy, Ruud van" | {{fbaicon|NED}} [[Ruud van Nistelrooy]]
+| [[2001–02 UEFA Champions League|2001–02]], [[2002–03 UEFA Champions League|2002–03]], [[2004–05 UEFA Champions League|2004–05]]
+|-
+! scope="row" data-sort-value="Puskas, Ferenc" | {{fbaicon|HUN}} [[Ferenc Puskás]]
+| rowspan="8" style="text-align:center;" | 2
+| [[1959–60 European Cup|1959–60]], [[1963–64 European Cup|1963–64]]
+|-
+! scope="row" data-sort-value="Eusebio" | {{fbaicon|POR}} [[Eusébio]]
+| [[1965–66 European Cup|1965–66]], [[1967–68 European Cup|1967–68]]
+|-
+! scope="row" data-sort-value="Nilsson, Torbjorn" | {{fbaicon|SWE}} [[Torbjörn Nilsson]]
+| [[1984–85 European Cup|1984–85]], [[1985–86 European Cup|1985–86]]
+|-
+! scope="row" data-sort-value="Romario" | {{fbaicon|BRA}} [[Romário]]
+| [[1989–90 European Cup|1989–90]], [[1992–93 UEFA Champions League|1992–93]]
+|-
+! scope="row" data-sort-value="Raul" | {{fbaicon|ESP}} [[Raúl (footballer)|Raúl]]
+| [[1999–2000 UEFA Champions League|1999–2000]], [[2000–01 UEFA Champions League|2000–01]]
+|-
+! scope="row" data-sort-value="Shevchenko, Andriy" | {{fbaicon|UKR}} [[Andriy Shevchenko]]
+| [[1998–99 UEFA Champions League|1998–99]], [[2005–06 UEFA Champions League|2005–06]]
+|-
+! scope="row" data-sort-value="Haaland, Erling" | {{fbaicon|NOR}} [[Erling Haaland]]
+|[[2020–21 UEFA Champions League|2020–21]], [[2022–23 UEFA Champions League|2022–23]]
+|-
+! scope="row" data-sort-value="Mbappé, Kylian" | {{fbaicon|FRA}} [[Kylian Mbappé]]
+|[[2023–24 UEFA Champions League|2023–24]], [[2025–26 UEFA Champions League|2025–26]]
+|}
+
+=== By club ===
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col" | Club
+! scope="col" | Titles
+! scope="col" | Seasons
+|-
+! scope="row" | {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| style="text-align:center;" | 14
+|[[1957–58 European Cup|1957–58]], [[1959–60 European Cup|1959–60]], [[1963–64 European Cup|1963–64]], [[1987–88 European Cup|1987–88]], [[1999–2000 UEFA Champions League|1999–2000]], [[2000–01 UEFA Champions League|2000–01]], [[2012–13 UEFA Champions League|2012–13]], [[2013–14 UEFA Champions League|2013–14]], [[2014–15 UEFA Champions League|2014–15]], [[2015–16 UEFA Champions League|2015–16]], [[2016–17 UEFA Champions League|2016–17]], [[2017–18 UEFA Champions League|2017–18]], [[2021–22 UEFA Champions League|2021–22]], [[2025–26 UEFA Champions League|2025–26]]
+|-
+! scope="row" | {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| style="text-align:center;" | 10
+|[[1993–94 UEFA Champions League|1993–94]], [[1999–2000 UEFA Champions League|1999–2000]], [[2008–09 UEFA Champions League|2008–09]], [[2009–10 UEFA Champions League|2009–10]], [[2010–11 UEFA Champions League|2010–11]], [[2011–12 UEFA Champions League|2011–12]], [[2014–15 UEFA Champions League|2014–15]] (2{{refn|group=lower-alpha|name=barcelona|Two Barcelona players were joint top scorers in this season.}}), [[2018–19 UEFA Champions League|2018–19]], [[2024–25 UEFA Champions League|2024–25]]
+|-
+! scope="row" | {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| style="text-align:center;" | 8
+|[[1972–73 European Cup|1972–73]], [[1973–74 European Cup|1973–74]], [[1974–75 European Cup|1974–75]], [[1976–77 European Cup|1976–77]], [[1980–81 European Cup|1980–81]], [[1981–82 European Cup|1981–82]], [[2019–20 UEFA Champions League|2019–20]], [[2023–24 UEFA Champions League|2023–24]]
+|-
+! scope="row" | {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| style="text-align:center;" | 7
+|[[1956–57 European Cup|1956–57]], [[1968–69 European Cup|1968–69]], [[1998–99 UEFA Champions League|1998–99]], [[2001–02 UEFA Champions League|2001–02]], [[2002–03 UEFA Champions League|2002–03]], [[2004–05 UEFA Champions League|2004–05]], [[2007–08 UEFA Champions League|2007–08]]
+|-
+! scope="row" | {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+| style="text-align:center;" | 6
+|[[1960–61 European Cup|1960–61]], [[1964–65 European Cup|1964–65]], [[1965–66 European Cup|1965–66]], [[1967–68 European Cup|1967–68]], [[1987–88 European Cup|1987–88]], [[1991–92 European Cup|1991–92]]
+|-
+! scope="row" | {{fbaicon|ITA}} [[AC Milan|Milan]]
+| style="text-align:center;" | 4
+|[[1962–63 European Cup|1962–63]], [[1988–89 European Cup|1988–89]], [[2005–06 UEFA Champions League|2005–06]], [[2006–07 UEFA Champions League|2006–07]]
+|-
+! scope="row" | {{fbaicon|FRA}} [[Olympique de Marseille|Marseille]]
+| rowspan="3" style="text-align:center;" |3
+|[[1989–90 European Cup|1989–90]], [[1990–91 European Cup|1990–91]], [[1991–92 European Cup|1991–92]]
+|-
+! scope="row" | {{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|[[1971–72 European Cup|1971–72]], [[1979–80 European Cup|1979–80]], [[1995–96 UEFA Champions League|1995–96]]
+|-
+! scope="row" | {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|[[1982–83 European Cup|1982–83]], [[1984–85 European Cup|1984–85]], [[1997–98 UEFA Champions League|1997–98]]
+|-
+! scope="row" | {{fbaicon|SER}} [[FK Partizan|Partizan]]
+| rowspan="8" style="text-align:center;" |2
+|[[1955–56 European Cup|1955–56]], [[1963–64 European Cup|1963–64]]
+|-
+! scope="row" | {{fbaicon|GER}} [[Borussia Mönchengladbach]]
+|[[1975–76 European Cup|1975–76]], [[1977–78 European Cup|1977–78]]
+|-
+! scope="row" | {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|[[1980–81 European Cup|1980–81]] (2{{refn|group=lower-alpha|name=liverpool|Two Liverpool players were joint top scorers in this season.}})
+|-
+! scope="row" |{{fbaicon|SWE}} [[IFK Göteborg]]
+|[[1984–85 European Cup|1984–85]], [[1985–86 European Cup|1985–86]]
+|-
+! scope="row" | {{fbaicon|NED}} [[PSV Eindhoven]]
+|[[1989–90 European Cup|1989–90]], [[1992–93 UEFA Champions League|1992–93]]
+|-
+! scope="row" | {{fbaicon|POR}} [[FC Porto|Porto]]
+|[[1987–88 European Cup|1987–88]], [[1999–2000 UEFA Champions League|1999–2000]]
+|-
+! scope="row" | {{fbaicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|[[1994–95 UEFA Champions League|1994–95]], [[2023–24 UEFA Champions League|2023–24]]
+|-
+! scope="row" | {{fbaicon|GER}} [[Borussia Dortmund]]
+|[[2020–21 UEFA Champions League|2020–21]], [[2024–25 UEFA Champions League|2024–25]]
+|-
+! scope="row" | {{fbaicon|FRA}} [[Stade de Reims|Reims]]
+| rowspan="26" style="text-align:center;" |1
+|[[1958–59 European Cup|1958–59]]
+|-
+! scope="row" | {{fbaicon|GER}} [[1. FC Nürnberg]]
+|[[1961–62 European Cup|1961–62]]
+|-
+! scope="row" | {{fbaicon|ITA}} [[Inter Milan]]
+|[[1963–64 European Cup|1963–64]]
+|-
+! scope="row" | {{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|[[1965–66 European Cup|1965–66]]
+|-
+! scope="row" | {{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|[[1966–67 European Cup|1966–67]]
+|-
+! scope="row" | {{fbaicon|GDR}} [[1. FC Frankfurt|Vorwärts Berlin]]
+|[[1966–67 European Cup|1966–67]]
+|-
+! scope="row" | {{fbaicon|ENG}} [[Leeds United F.C.|Leeds United]]
+|[[1969–70 European Cup|1969–70]]
+|-
+! scope="row" | {{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|[[1970–71 European Cup|1970–71]]
+|-
+! scope="row" | {{fbaicon|SCO}} [[Celtic F.C.|Celtic]]
+|[[1971–72 European Cup|1971–72]]
+|-
+! scope="row" | {{fbaicon|BEL}} [[Standard Liège]]
+|[[1971–72 European Cup|1971–72]]
+|-
+! scope="row" | {{fbaicon|HUN}} [[Újpest FC|Újpest]]
+|[[1971–72 European Cup|1971–72]]
+|-
+! scope="row" | {{fbaicon|ARM}} [[FC Ararat Yerevan|Ararat Yerevan]]
+|[[1974–75 European Cup|1974–75]]
+|-
+! scope="row" | {{fbaicon|SUI}} [[FC Zürich|Zürich]]
+|[[1976–77 European Cup|1976–77]]
+|-
+! scope="row" | {{fbaicon|SUI}} [[Grasshopper Club Zürich|Grasshopper]]
+|[[1978–79 European Cup|1978–79]]
+|-
+! scope="row" |{{fbaicon|BLR}} [[FC Dinamo Minsk|Dinamo Minsk]]
+|[[1983–84 European Cup|1983–84]]
+|-
+! scope="row" |{{fbaicon|SER}} [[Red Star Belgrade]]
+|[[1986–87 European Cup|1986–87]]
+|-
+! scope="row" | {{fbaicon|SUI}} [[Neuchâtel Xamax FCS|Neuchâtel Xamax]]
+|[[1987–88 European Cup|1987–88]]
+|-
+! scope="row" | {{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]]
+|[[1987–88 European Cup|1987–88]]
+|-
+! scope="row" | {{fbaicon|ROU}} [[FCSB|Steaua București]]
+|[[1987–88 European Cup|1987–88]]
+|-
+! scope="row" | {{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|[[1987–88 European Cup|1987–88]]
+|-
+! scope="row" | {{fbaicon|AUT}} [[FC Tirol Innsbruck|Tirol Innsbruck]]
+|[[1990–91 European Cup|1990–91]]
+|-
+! scope="row" | {{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|[[1993–94 UEFA Champions League|1993–94]]
+|-
+! scope="row" | {{fbaicon|ESP}} [[Atlético Madrid]]
+|[[1996–97 UEFA Champions League|1996–97]]
+|-
+! scope="row" | {{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|[[1998–99 UEFA Champions League|1998–99]]
+|-
+! scope="row" | {{fbaicon|FRA}} [[AS Monaco FC|Monaco]]
+|[[2003–04 UEFA Champions League|2003–04]]
+|-
+! scope="row" | {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|[[2022–23 UEFA Champions League|2022–23]]
+|}
+
+===By country===
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col" | Country
+! scope="col" | Titles
+! scope="col" | Seasons
+|-
+! scope="row" | {{fba|POR}}
+| style="text-align:center;" | 12
+| [[1960–61 European Cup|1960–61]], [[1964–65 European Cup|1964–65]], [[1965–66 European Cup|1965–66]], [[1967–68 European Cup|1967–68]], [[1987–88 European Cup|1987–88]], [[2007–08 UEFA Champions League|2007–08]], [[2012–13 UEFA Champions League|2012–13]], [[2013–14 UEFA Champions League|2013–14]], [[2014–15 UEFA Champions League|2014–15]], [[2015–16 UEFA Champions League|2015–16]], [[2016–17 UEFA Champions League|2016–17]], [[2017–18 UEFA Champions League|2017–18]]
+|-
+! scope="row" | {{fba|FRG}}
+| rowspan="3" style="text-align:center;" | 8
+| [[1961–62 European Cup|1961–62]], [[1972–73 European Cup|1972–73]], [[1973–74 European Cup|1973–74]], [[1974–75 European Cup|1974–75]], [[1975–76 European Cup|1975–76]], [[1976–77 European Cup|1976–77]], [[1980–81 European Cup|1980–81]], [[1981–82 European Cup|1981–82]]
+|-
+! scope="row" | {{fba|ARG}}
+| [[1957–58 European Cup|1957–58]], [[1961–62 European Cup|1961–62]], [[2008–09 UEFA Champions League|2008–09]], [[2009–10 UEFA Champions League|2009–10]], [[2010–11 UEFA Champions League|2010–11]], [[2011–12 UEFA Champions League|2011–12]], [[2014–15 UEFA Champions League|2014–15]], [[2018–19 UEFA Champions League|2018–19]]
+|-
+! scope="row" | {{fba|FRA}}
+| [[1958–59 European Cup|1958–59]], [[1984–85 European Cup|1984–85]], [[1989–90 European Cup|1989–90]], [[1990–91 European Cup|1990–91]], [[1991–92 European Cup|1991–92]], [[2021–22 UEFA Champions League|2021–22]], [[2023–24 UEFA Champions League|2023–24]], [[2025–26 UEFA Champions League|2025–26]]
+|-
+! scope="row" | {{fba|NED}}
+| rowspan="2" style="text-align:center;" | 7
+| [[1971–72 European Cup|1971–72]], [[1987–88 European Cup|1987–88]], [[1988–89 European Cup|1988–89]], [[1993–94 UEFA Champions League|1993–94]], [[2001–02 UEFA Champions League|2001–02]], [[2002–03 UEFA Champions League|2002–03]], [[2004–05 UEFA Champions League|2004–05]]
+|-
+! scope="row" | {{fba|BRA}}
+| [[1989–90 European Cup|1989–90]], [[1992–93 European Cup|1992–93]], [[1999–2000 UEFA Champions League|1999–2000]] (2{{refn|group=lower-alpha|name=brazil|Two Brazilian players were joint top scorers in this season.}}), [[2006–07 UEFA Champions League|2006–07]], [[2014–15 UEFA Champions League|2014–15]], [[2024–25 UEFA Champions League|2024–25]]
+|-
+! scope="row" | {{fba|YUG}}
+| rowspan="2" style="text-align:center;" | 5
+| [[1955–56 European Cup|1955–56]], [[1963–64 European Cup|1963–64]], [[1971–72 European Cup|1971–72]], [[1986–87 European Cup|1986–87]], [[1996–97 UEFA Champions League|1996–97]]
+|-
+! scope="row" | {{fba|ITA}}
+| [[1962–63 European Cup|1962–63]], [[1963–64 European Cup|1963–64]], [[1976–77 European Cup|1976–77]], [[1982–83 European Cup|1982–83]], [[1997–98 UEFA Champions League|1997–98]]
+|-
+! scope="row" | {{fba|HUN}}
+| rowspan="4" style="text-align:center;" | 4
+| [[1959–60 European Cup|1959–60]], [[1963–64 European Cup|1963–64]], [[1965–66 European Cup|1965–66]], [[1971–72 European Cup|1971–72]]
+|-
+! scope="row" | {{fba|SCO}}
+| [[1968–69 European Cup|1968–69]], [[1971–72 European Cup|1971–72]], [[1980–81 European Cup|1980–81]], [[1987–88 European Cup|1987–88]]
+|-
+! scope="row" | {{fba|ESP}}
+| [[1987–88 European Cup|1987–88]], [[1999–2000 UEFA Champions League|1999–2000]], [[2000–01 UEFA Champions League|2000–01]], [[2003–04 UEFA Champions League|2003–04]]
+|-
+! scope="row" | {{fba|ENG}}
+| [[1956–57 European Cup|1956–57]], [[1969–70 European Cup|1969–70]], [[1980–81 European Cup|1980–81]], [[2023–24 UEFA Champions League|2023–24]]
+|-
+! scope="row" | {{fba|URS}} / {{fba|CIS}}
+| style="text-align:center;" | 3
+| [[1974–75 European Cup|1974–75]], [[1983–84 European Cup|1983–84]], [[1991–92 European Cup|1991–92]]
+|-
+! scope="row" | {{fba|DEN}}
+| rowspan="4" style="text-align:center;" | 2
+| [[1977–78 European Cup|1977–78]], [[1979–80 European Cup|1979–80]]
+|-
+! scope="row" | {{fba|SWE}}
+| [[1984–85 European Cup|1984–85]], [[1985–86 European Cup|1985–86]]
+|-
+! scope="row" | {{fba|UKR}}
+| [[1998–99 UEFA Champions League|1998–99]], [[2005–06 UEFA Champions League|2005–06]]
+|-
+! scope="row" | {{fba|NOR}}
+| [[2020–21 UEFA Champions League|2020–21]], [[2022–23 UEFA Champions League|2022–23]]
+|-
+! scope="row" | {{fba|BEL}}
+| rowspan="13" style="text-align:center;" | 1
+| [[1966–67 European Cup|1966–67]]
+|-
+! scope="row" | {{fba|GRE}}
+| [[1970–71 European Cup|1970–71]]
+|-
+! scope="row" | {{fba|SWI}}
+| [[1978–79 European Cup|1978–79]]
+|-
+! scope="row" | {{fba|ALG}}
+| [[1987–88 European Cup|1987–88]]
+|-
+! scope="row" | {{fba|TCH}}
+| [[1987–88 European Cup|1987–88]]
+|-
+! scope="row" | {{fba|ROU}}
+| [[1987–88 European Cup|1987–88]]
+|-
+! scope="row" | {{fba|AUT}}
+| [[1990–91 UEFA Champions League|1990–91]]
+|-
+! scope="row" | {{fba|NZL}}
+| [[1993–94 UEFA Champions League|1993–94]]
+|-
+! scope="row" | {{fba|LBR}}
+| [[1994–95 UEFA Champions League|1994–95]]
+|-
+! scope="row" | {{fba|FIN}}
+| [[1995–96 UEFA Champions League|1995–96]]
+|-
+! scope="row" | {{fba|TRI}}
+| [[1998–99 UEFA Champions League|1998–99]]
+|-
+! scope="row" | {{fba|POL}}
+| [[2019–20 UEFA Champions League|2019–20]]
+|-
+! scope="row" | {{fba|GUI}}
+| [[2024–25 UEFA Champions League|2024–25]]
+|}
+
+== See also ==
+* [[List of footballers with 100 or more UEFA Champions League appearances]]
+* [[List of UEFA Cup and Europa League top scorers]]
+* [[List of UEFA Cup Winners' Cup top scorers]]
+* [[List of UEFA Champions League hat-tricks]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+{{UEFA Champions League top scorers}}
+{{UEFA Champions League seasons}}
+
+[[Category:UEFA Champions League records and statistics|Top scorers]]
+[[Category:Lists of association football league top scorers (all-time)|UEFA Champions]]
+[[Category:Lists of association football league top scorers (by season)|UEFA Champions]]

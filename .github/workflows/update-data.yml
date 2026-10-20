@@ -100,12 +100,18 @@ jobs:
         continue-on-error: true
         run: python3 scripts/build_tournaments.py --refresh
 
+      # Flags are served from assets/flags/; fetch any that a new nation needs.
+      - name: Fetch new flags
+        continue-on-error: true
+        run: python3 scripts/fetch_flags.py
+
       - name: Commit and push changes
         id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tennis/big-three/data tennis/grand-slams/data tennis/grand-slams-women/data tennis/masters-1000/data tennis/wta-1000/data tennis/wta-records/data basketball/nba-rings/data football/copa-libertadores/data football/champions-league/data football/world-club-champions/data football/argentine-primera/data football/serie-a/data football/la-liga/data football/premier-league/data football/ligue-1/data football/bundesliga/data football/brasileirao/data football/world-cup/data football/ballon-dor/data motorsport/formula-1/data tennis/atp-records/data rugby/international/data basketball/international/data volleyball/international/data hockey/international/data handball/international/data swimming/olympics/data
+          # data/raw holds the snapshot of every source, so the data can be rebuilt if a source disappears.
+          git add data/raw assets/flags tennis/big-three/data tennis/grand-slams/data tennis/grand-slams-women/data tennis/masters-1000/data tennis/wta-1000/data tennis/wta-records/data basketball/nba-rings/data football/copa-libertadores/data football/champions-league/data football/world-club-champions/data football/argentine-primera/data football/serie-a/data football/la-liga/data football/premier-league/data football/ligue-1/data football/bundesliga/data football/brasileirao/data football/world-cup/data football/ballon-dor/data motorsport/formula-1/data tennis/atp-records/data rugby/international/data basketball/international/data volleyball/international/data hockey/international/data handball/international/data swimming/olympics/data
           if git diff --cached --quiet; then
             echo "No data changes."
             echo "changed=false" >> "$GITHUB_OUTPUT"

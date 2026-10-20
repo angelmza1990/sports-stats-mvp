@@ -1,0 +1,77 @@
+{{Short description|none}}
+{{Infobox award
+| name = 1920 Summer Olympics medals
+| image = Willis A. Lee;h95009.jpg
+| caption = American athlete [[Willis Lee]] won seven medals at the 1920 Summer Olympics, the most of any competing athlete.
+| location = [[Antwerp]], {{flagIOC|BEL|1920 Summer}}
+| award2_type = Most total medals
+| award2_winner = {{flagIOC|USA|1920 Summer|95}}
+| award1_type = Most gold medals
+| award1_winner = {{flagIOC|USA|1920 Summer|41}}
+| award3_type = Medalling NOCs
+| award3_winner = 22
+| previous = [[1912 Summer Olympics medal table|1912]]
+| main = [[All-time Olympic Games medal table|Olympics medal tables]]
+| next = [[1924 Summer Olympics medal table|1924]]
+}}
+
+[[File:1920 Summer Olympics Medal Map.svg|thumb|right|360px|World map showing the medal achievements of each country during the 1920 Summer Olympics<br /> '''Legend:'''<br />
+{{Legend2|#FFD700}} represents countries that won at least one gold medal.<br />
+{{Legend2|#808080}} represents countries that won at least one silver medal but no gold medals.<br />
+{{Legend2|#C87137}} represents countries that won at least one bronze medal (no gold or silver).<br />
+{{Legend2|#FF5555}} represents participating countries that did not win medals.<br />
+{{Legend2|#444}} represents entities that did not participate at the 1920 Summer Olympics.]]
+
+The [[1920 Summer Olympics]], now officially known as the Games of the VII Olympiad,<ref>{{Cite web |title=Exactly 100 years ago, the Games of the VII Olympiad began on ice |url=https://olympics.com/en/news/exactly-100-years-ago-the-games-of-the-vii-olympiad-began-on-ice |access-date=11 January 2025 |website=[[International Olympic Committee]]}}</ref> were an international [[multi-sport event]] held in [[Antwerp]], Belgium, from August 14 to September 12, 1920. A total of 2,622 athletes representing 29 [[National Olympic Committee|National Olympic Committees]] (NOCs) participated.<ref name=":0">{{Cite web |title=Antwerp 1920 Summer Olympics - Athletes, Medals & Results |url=https://olympics.com/en/olympic-games/antwerp-1920 |access-date=11 January 2025 |website=[[International Olympic Committee]]}}</ref> The games featured 162 events in 29 disciplines.<ref>{{Cite web |title=Olympedia – 1920 Summer Olympics Overview |url=https://www.olympedia.org/editions/7 |access-date=2025-01-11 |website=www.olympedia.org}}</ref>{{efn-ua|Including the art competition}} [[Willis Augustus Lee|Willis Lee]] won five gold medals and 7 total medals at the 1920 Summer Olympics, the most of any competing athlete.<ref>{{Cite web |title=Antwerp 1920 Olympic Athletes - Biographies, Medals & More |url=https://olympics.com/en/olympic-games/antwerp-1920/athletes |access-date=11 January 2025 |website=[[International Olympic Committee]]}}</ref>
+
+== Medal table ==
+The medal table is based on information provided by the [[International Olympic Committee]] (IOC) and is consistent with IOC conventional sorting in its published medal tables. The table uses the [[Olympic medal table]] sorting method. By default, the table is ordered by the number of gold medals the athletes from a nation have won, where a nation is an entity represented by a NOC. The number of silver medals is taken into consideration next and then the number of bronze medals.<ref>{{cite web |title=Olympic medal table: USA beat China to top spot at Paris 2024 |url=https://www.independent.co.uk/sport/olympics/olympics-2024-medal-table-count-paris-b2580716.html |website=[[The Independent]] | date=11 August 2024 |archive-url=https://web.archive.org/web/20240812015233/https://www.independent.co.uk/sport/olympics/olympics-2024-medal-table-count-paris-b2594580.html |archive-date=12 August 2024 |url-status=live |last1=Ostlere |first1=Lawrence |access-date=12 August 2024 |language=en}}</ref><ref>{{cite web |title=A Medal Count That Adds Up To Little |url=https://www.nytimes.com/2008/08/19/sports/olympics/19araton.html |website=[[The New York Times]] | date=18 August 2008 |archive-url=https://web.archive.org/web/20230321004238/https://www.nytimes.com/2008/08/19/sports/olympics/19araton.html |archive-date=21 March 2023 |url-status=live |last1=Araton |first1=Harvey |url-access=subscription |access-date=25 July 2024 }}</ref> If teams are still tied, equal ranking is given and they are listed alphabetically by their [[List of IOC country codes|IOC country code]].<ref>{{cite web |title=What happens if two countries are tied in the Olympic medal table? Tiebreaker rules explained |url=https://en.as.com/olympic_games/what-happens-if-two-countries-are-tied-in-the-olympic-medal-table-tiebreaker-rules-explained-n/ |website=[[Diario AS]] | date=10 August 2024 |archive-url=https://web.archive.org/web/20240811152350/https://en.as.com/olympic_games/what-happens-if-two-countries-are-tied-in-the-olympic-medal-table-tiebreaker-rules-explained-n/ |archive-date=11 August 2024 |url-status=live |last1=Cons |first1=Roddy |access-date=11 August 2024 |language=en-us}}</ref>
+
+*<small>''Medal table does not include [[Art competitions at the 1920 Summer Olympics|art competition medals]]''</small>
+{{Medals table
+ | caption        = 1920 Summer Olympics medal table
+ | host           = BEL
+ | flag_template  = flagIOC
+ | event          = 1920 Summer
+ | team           = 
+ | gold_USA = 41 | silver_USA = 27 | bronze_USA = 27
+ | gold_SWE = 19 | silver_SWE = 20 | bronze_SWE = 25
+ | gold_GBR = 14 | silver_GBR = 15 | bronze_GBR = 13
+ | gold_FIN = 15 | silver_FIN = 10 | bronze_FIN = 9
+ | gold_BEL = 14 | silver_BEL = 11 | bronze_BEL = 11 | host_BEL = yes 
+ | gold_NOR = 13 | silver_NOR = 9 | bronze_NOR = 9
+ | gold_ITA = 13 | silver_ITA = 5 | bronze_ITA = 5
+ | gold_FRA = 9 | silver_FRA = 19 | bronze_FRA = 13
+ | gold_NED = 4 | silver_NED = 2 | bronze_NED = 5
+ | gold_DEN = 3 | silver_DEN = 9 | bronze_DEN = 1
+ | gold_RSA = 3 | silver_RSA = 4 | bronze_RSA = 3
+ | gold_CAN = 3 | silver_CAN = 3 | bronze_CAN = 3
+ | gold_SUI = 2 | silver_SUI = 2 | bronze_SUI = 7
+ | gold_EST = 1 | silver_EST = 2 | bronze_EST = 0
+ | gold_BRA = 1 | silver_BRA = 1 | bronze_BRA = 1
+ | gold_AUS = 0 | silver_AUS = 2 | bronze_AUS = 1
+ | gold_JPN = 0 | silver_JPN = 2 | bronze_JPN = 0
+ | gold_ESP = 0 | silver_ESP = 2 | bronze_ESP = 0
+ | gold_GRE = 0 | silver_GRE = 1 | bronze_GRE = 0
+ | gold_LUX = 0 | silver_LUX = 1 | bronze_LUX = 0
+ | gold_TCH = 0 | silver_TCH = 0 | bronze_TCH = 2
+ | gold_NZL = 0 | silver_NZL = 0 | bronze_NZL = 1
+}}
+
+== Notes ==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IOC games|games=1920 Summer Olympics }}
+* {{cite web |title=1920 Summer Olympics |publisher=Olympedia.com |url=http://www.olympedia.org/editions/7 |access-date=24 February 2021 }}
+* {{cite web |title=Olympic Analytics/1920_1 |publisher=olympanalyt.com |url=http://olympanalyt.com/OlympAnalytics.php?param_pagetype=MedalsByCountries&param_games=1920%2F1 }}
+
+{{Olympic Games medal table}}
+{{Events at the 1920 Summer Olympics}}
+{{Top Summer Olympics medal-winning nations}}
+
+[[Category:1920 Summer Olympics|Medal count]]
+[[Category:Summer Olympics medal tables|1920]]

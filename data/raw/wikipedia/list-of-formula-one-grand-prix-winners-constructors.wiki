@@ -1,0 +1,445 @@
+{{Short description|None}}
+{{Formula One|lists}}
+{{Use British English|date=October 2026}}
+{{Use dmy dates|date=October 2026}}
+[[File:Lap4 Canada2005 Schumacher.jpg|thumb|right|[[Scuderia Ferrari]]  have won the most [[Formula One]] Grands Prix.]]
+[[Formula One]] (F1) is the highest class of [[Open wheel car|open-wheeled]] [[auto racing]] defined by the [[Fédération Internationale de l'Automobile]] (FIA), motorsport's world governing body.<ref>{{cite web |url=https://www.fia.com/organisation |title=About FIA |date=24 February 2015 |publisher=Fédération Internationale de l'Automobile (FIA) |access-date=13 April 2020 |archive-url=https://web.archive.org/web/20200501222208/https://www.fia.com/organisation |archive-date=1 May 2020 |url-status=live}}</ref> The "formula" in the name refers to a set of rules to which all participants and cars must conform. The F1 World Championship season consists of a series of races, known as [[List of Formula One Grands Prix|Grands Prix]], held usually on purpose-built [[List of Formula One circuits|circuits]], and in a few cases on [[street circuit|closed city streets]].<ref>{{harvnb|Hughes|Tremayne|2002|pp=82–83}}</ref> The results of each race are combined to determine two annual World Championships, one for [[List of Formula One World Drivers' Champions|drivers]] and one for [[List of Formula One World Constructors' Champions|constructors]].
+
+[[Scuderia Ferrari|Ferrari]] hold the record for the most Grand Prix victories, having won 250 times. [[McLaren]] are second with 205 wins, and [[Mercedes-Benz in Formula One|Mercedes]] are third with 141 wins.<ref name="Wins by number">{{cite web |url=https://www.statsf1.com/en/statistiques/constructeur/victoire/nombre.aspx |title=Constructor wins by number |publisher=StatsF1 |access-date=26 September 2026 |archive-url=https://web.archive.org/web/20240421134259/https://www.statsf1.com/en/statistiques/constructeur/victoire/nombre.aspx |archive-date=21 April 2024 |url-status=live}}</ref> Nine countries have produced winning constructors; apart from the six countries which are regarded as the [[List of international auto racing colors#Major competitors|major competitors]] (France, Germany, Italy, Japan, the United Kingdom and the United States), Canada ([[Walter Wolf Racing|Wolf]]), Ireland ([[Jordan Grand Prix|Jordan]]), and Austria ([[Red Bull Racing|Red Bull]]) have constructors that have won races despite not having a large [[automotive industry]], with all three teams being based in the UK. 
+
+British constructors have won the most Grands Prix, with 16 constructors having won 540 races between them. Italian constructors are second with 272 wins between six constructors. German constructors are third, having won 144 Grands Prix between three constructors. During the first four championship seasons ([[1950 Formula One season|1950]]–[[1953 Formula One season|1953]]), only Italian constructors won championship races, with the exception of the [[Indianapolis 500]]. Five seasons ([[1973 Formula One season|1973]], [[1986 Formula One season|1986]], [[1991 Formula One season|1991]], [[1992 Formula One season|1992]], and [[1993 Formula One season|1993]]) witnessed wins by only British constructors. Since [[1957 British Grand Prix|the first win for a British constructor]] in [[1957 Formula One season|1957]], British constructors won races in every season until {{F1|2013}}, except {{F1|2006}}.{{cn|date=September 2022}} Only one constructor ([[Benetton Formula|Benetton]]) has achieved victories under [[List of Formula One constructors#Team's nationality|two different nationalities]]. Though competing under various nationalities, since [[1984 Formula One season|1984]] all championship races with the exception of two races (the [[1996 Monaco Grand Prix]] won by the French-built [[Équipe Ligier|Ligier]] car and the [[2008 Canadian Grand Prix]] won by the Swiss-built [[BMW Sauber]] car) have been won only by cars built either in Great Britain or in Italy.{{efn|For comparison, in the shorter period of {{F1|1950}}-{{F1|1983}} there were 44 races (excluding the [[Indianapolis 500]]) won by the non-British as well as non-Italian built cars. The winning cars were built in France (32), Germany (10), Japan (1) and the United States (1).}}
+
+==By constructor==
+''All figures correct as of the [[2026 Singapore Grand Prix]]''
+
+''Note:'' All wins were achieved by [[Factory-backed|works teams]] except for [[List of Formula One constructors#Privateer teams by number of wins|20 races won by three]] [[Privateer (motorsport)|privateer teams]] between the {{F1|1958}} and {{F1|1970}} seasons.
+
+{| class="wikitable"
+|+Key
+|-
+! scope="row" width="42px" align="center" style="background-color:#FBCEB1" |{{asterisk}}
+|Constructor has competed in the {{F1|2026}} season
+|-
+! scope=row width=40px align=center style="background-color:#D0F0C0"|{{double dagger}}
+|[[List of Formula One World Constructors' Champions|Formula One World Constructors' Champion]]
+|-
+! scope=row width=40px align=center style="background-color:#cedff2"|{{dagger}}
+|Has competed in the 2026 season and is a Formula One World Constructors' Champion
+|}
+
+{|class="sortable wikitable plainrowheaders"
+|+Formula One Grand Prix wins by constructor<ref name="Wins by number"/>
+|-
+!scope=col|Rank
+!scope=col|Constructor
+!scope=col|Licensed in
+!scope=col|Wins
+!scope=col|Years active
+!scope=col|First win
+!scope=col|Last win
+|-
+|align=center|1
+!scope=row style=background:#cedff2|[[Scuderia Ferrari|Ferrari]]{{sup|{{dagger}}}}
+|{{ITA}}
+|align=center|250
+|align=center|{{F1|1950}}–
+|data-sort-value="1951-05"| [[1951 British Grand Prix]]
+|data-sort-value="2026-09"| [[2026 British Grand Prix]]
+|-
+|align=center|2
+!scope=row style=background:#cedff2|[[McLaren]]{{sup|{{dagger}}}}
+|{{GBR}}
+|align=center|205
+|align=center|[[1966 Formula One season|1966]]–
+|data-sort-value="1968-04"| [[1968 Belgian Grand Prix]]
+|data-sort-value="2026-12"| [[2026 Dutch Grand Prix]]
+|-
+|align=center|3
+!scope=row style=background:#cedff2|[[Mercedes-Benz in Formula One|Mercedes]]{{sup|{{dagger}}}}
+|{{DEU}}
+|align=center|142
+|align=center|[[1954 Formula One season|1954]]–[[1955 Formula One season|1955]], [[2010 Formula One season|2010]]–
+|data-sort-value="1954-04"| [[1954 French Grand Prix]]
+|data-sort-value="2026-15"| [[2026 Azerbaijan Grand Prix]]
+|-
+|align=center|4
+! scope="row" style="background:#cedff2" |[[Red Bull Racing]]{{sup|{{dagger}}}}{{efn|name=Nationality}}
+|{{AUT}}
+| align="center" |132
+| align="center" |[[2005 Formula One season|2005]]–
+| data-sort-value="2009-03" | [[2009 Chinese Grand Prix]]
+| data-sort-value="2026-16" | [[2026 Singapore Grand Prix]]
+|-
+|align=center|5
+! scope="row" style="background:#cedff2" |[[Williams F1|Williams]]{{sup|{{dagger}}}}
+|{{GBR}}
+| align="center" |114
+| align="center" |[[1978 Formula One season|1978]]–
+| data-sort-value="1979-09" | [[1979 British Grand Prix]]
+| data-sort-value="2012-05" | [[2012 Spanish Grand Prix]]
+|-
+|align=center|6
+!scope=row style=background:#D0F0C0|[[Team Lotus]]{{sup|{{double dagger}}}}
+|{{GBR}}
+|align=center|79
+|align=center|[[1958 Formula One season|1958]]–[[1994 Formula One season|1994]]
+|data-sort-value="1960-02"| [[1960 Monaco Grand Prix]]
+|data-sort-value="1987-05"| [[1987 Detroit Grand Prix]]
+|-
+| rowspan="2" align="center" |7
+!scope=row style=background:#D0F0C0|[[Brabham]]{{sup|{{double dagger}}}}
+|{{GBR}}
+|align=center|35
+|align=center|[[1962 Formula One season|1962]]–[[1987 Formula One season|1987]], [[1989 Formula One season|1989]]–[[1992 Formula One season|1992]]
+|data-sort-value="1964-04"| [[1964 French Grand Prix]]	
+|data-sort-value="1985-07"| [[1985 French Grand Prix]]
+|-
+!scope=row style="background-color:#D0F0C0"|[[Renault in Formula One|Renault]]{{sup|{{double dagger}}}}{{efn|name=Nationality}}
+|{{FRA}}
+|align=center|35
+|align=center|[[1977 Formula One season|1977]]–[[1985 Formula One season|1985]], [[2002 Formula One season|2002]]–[[2011 Formula One season|2011]], [[2016 Formula One season|2016]]–[[2020 Formula One season|2020]]
+|data-sort-value="1979-08"| [[1979 French Grand Prix]]
+|data-sort-value="2008-16"| [[2008 Japanese Grand Prix]]
+|-
+|align=center|9
+!scope=row style=background:#D0F0C0|[[Benetton Formula|Benetton]]{{sup|{{double dagger}}}}
+|{{GBR}}<br>{{ITA}}{{efn|Benetton held a [[List of Formula One constructors#Team's nationality|British licence]] from {{F1|1986}} to {{F1|1995}} and an Italian licence from {{F1|1996}} to {{F1|2001}}.<ref>{{harvnb|Hayhoe|Holland|2006|p=592}}</ref> They achieved 26 of their wins as a British team, and 1 as an Italian team.}}
+|align=center|27
+|align=center|[[1986 Formula One season|1986]]–[[2001 Formula One season|2001]]
+|data-sort-value="1986-15"| [[1986 Mexican Grand Prix]]
+|data-sort-value="1997-10"| [[1997 German Grand Prix]]
+|-
+|align=center|10
+!scope=row style=background:#D0F0C0|[[Tyrrell Racing|Tyrrell]]{{sup|{{double dagger}}}}
+|{{GBR}}
+|align=center|23
+|align=center|[[1970 Formula One season|1970]]–[[1998 Formula One season|1998]]
+|data-sort-value="1971-02"| [[1971 Spanish Grand Prix]]
+|data-sort-value="1983-07"| [[1983 Detroit Grand Prix]]
+|-
+|align=center|11
+!scope=row style=background:#D0F0C0|[[British Racing Motors|BRM]]{{sup|{{double dagger}}}}
+|{{GBR}}
+|align=center|17
+|align=center|[[1951 Formula One season|1951]], [[1956 Formula One season|1956]]–[[1977 Formula One season|1977]]
+|data-sort-value="1959-03"| [[1959 Dutch Grand Prix]]
+|data-sort-value="1972-04"| [[1972 Monaco Grand Prix]]
+|-
+|align=center|12
+!scope=row style=background:#D0F0C0|[[Cooper Car Company|Cooper]]{{sup|{{double dagger}}}}
+|{{GBR}}
+|align=center|16
+|align=center|[[1950 Formula One season|1950]], [[1952 Formula One season|1952]]–[[1969 Formula One season|1969]]
+|data-sort-value="1958-01"| [[1958 Argentine Grand Prix]]
+|data-sort-value="1967-01"| [[1967 South African Grand Prix]]
+|-
+|align=center|13
+!scope=row|[[Alfa Romeo in Formula One|Alfa Romeo]]{{efn|[[Alfa Romeo in Formula One|Alfa Romeo]], [[BMW Sauber]], [[Red Bull Racing|Red Bull]], [[Renault in Formula One|Renault]] and [[Shadow Racing Cars|Shadow]] were at some point [[List of Formula One constructors#Team's nationality|licensed in another country]] during their participation in Formula One, but did not record wins under these alternative nationalities.|name=Nationality}}
+|{{ITA}}
+|align=center|10
+|align=center|[[1950 Formula One season|1950]]–[[1951 Formula One season|1951]], [[1979 Formula One season|1979]]–[[1985 Formula One season|1985]], [[2019 Formula One season|2019]]–[[2023 Formula One season|2023]]
+|data-sort-value="1950-01"| [[1950 British Grand Prix]]
+|data-sort-value="1951-08"| [[1951 Spanish Grand Prix]]
+|-
+| rowspan="4" align="center" |14
+!scope=row|[[Maserati]]
+|{{ITA}}
+|align=center|9
+|align=center|[[1950 Formula One season|1950]]–[[1960 Formula One season|1960]]
+|data-sort-value="1953-09"| [[1953 Italian Grand Prix]]
+|data-sort-value="1957-06"| [[1957 German Grand Prix]]
+|-
+!scope=row style=background:#D0F0C0|[[Vanwall]]{{sup|{{double dagger}}}}
+|{{GBR}}
+|align=center|9
+|align=center|[[1954 Formula One season|1954]]–[[1960 Formula One season|1960]]
+|data-sort-value="1957-05"| [[1957 British Grand Prix]]
+|data-sort-value="1958-11"| [[1958 Moroccan Grand Prix]]
+|-
+!scope=row style=background:#D0F0C0|[[Equipe Matra Sports|Matra]]{{sup|{{double dagger}}}}
+|{{FRA}}
+|align=center|9
+|align=center|[[1967 Formula One season|1967]]–[[1972 Formula One season|1972]]
+|data-sort-value="1968-05"| [[1968 Dutch Grand Prix]]
+|data-sort-value="1969-08"| [[1969 Italian Grand Prix]]
+|-
+!scope=row|[[Equipe Ligier|Ligier]]/[[Equipe Ligier|Talbot Ligier]]{{efn|Between [[1981 Formula One season|1981]]–[[1982 Formula One season|1982]] they competed as Talbot Ligier.}}<ref>{{cite web |url=https://www.racingsportscars.com/covers/_Hockenheim-1981-08-02e.jpg |title=1981 German Grand Prix Entry list}}</ref>
+|{{FRA}}
+|align=center|9
+|align=center|[[1976 Formula One season|1976]]–[[1996 Formula One season|1996]]
+|data-sort-value="1977-08"| [[1977 Swedish Grand Prix]]
+|data-sort-value="1996-06"| [[1996 Monaco Grand Prix]]
+|-
+|align=center|18
+!scope=row style=background:#D0F0C0|[[Brawn GP|Brawn]]{{sup|{{double dagger}}}}
+|{{GBR}}
+|align=center|8
+|align=center|[[2009 Formula One season|2009]]
+|data-sort-value="2009-01"| [[2009 Australian Grand Prix]]
+|data-sort-value="2009-13"| [[2009 Italian Grand Prix]] 
+|-
+|align=center|19
+!scope=row|[[Kurtis Kraft]]
+|{{USA}}
+|align=center|5
+|align=center|[[1950 Formula One season|1950]]–[[1960 Formula One season|1960]]
+|data-sort-value="1950-03"| [[1950 Indianapolis 500]]
+|data-sort-value="1955-03"| [[1955 Indianapolis 500]]
+|-
+|align=center|20
+!scope=row|[[Jordan Grand Prix|Jordan]]
+|{{IRL}}
+|align=center|4
+|align=center|[[1991 Formula One season|1991]]–[[2005 Formula One season|2005]]
+|data-sort-value="1998-13"| [[1998 Belgian Grand Prix]]
+|data-sort-value="2003-03"| [[2003 Brazilian Grand Prix]]
+|-
+| rowspan="4" align="center" |21
+!scope=row|[[A. J. Watson|Watson]]
+|{{USA}}
+|align=center|3
+|align=center|[[1950 Formula One season|1950]]–[[1953 Formula One season|1953]], [[1956 Formula One season|1956]]–[[1960 Formula One season|1960]]
+|data-sort-value="1956-03"| [[1956 Indianapolis 500]]
+|data-sort-value="1960-03"| [[1960 Indianapolis 500]]
+|-
+!scope=row|[[March Engineering|March]]
+|{{GBR}}
+|align=center|3
+|align=center|[[1970 Formula One season|1970]]–[[1977 Formula One season|1977]], [[1981 Formula One season|1981]]–[[1982 Formula One season|1982]], [[1987 Formula One season|1987]]–[[1989 Formula One season|1989]], [[1992 Formula One season|1992]]
+|data-sort-value="1970-02"| [[1970 Spanish Grand Prix]]
+|data-sort-value="1976-13"| [[1976 Italian Grand Prix]]
+|-
+!scope=row|[[Walter Wolf Racing|Wolf]]
+|{{CAN}}
+|align=center|3
+|align=center|[[1977 Formula One season|1977]]–[[1979 Formula One season|1979]]
+|data-sort-value="1977-01"| [[1977 Argentine Grand Prix]]
+|data-sort-value="1977-16"| [[1977 Canadian Grand Prix]]
+|-
+!scope=row|[[Honda in Formula One|Honda]]
+|{{JPN}}
+|align=center|3
+|align=center|[[1964 Formula One season|1964]]–[[1968 Formula One season|1968]], [[2006 Formula One season|2006]]–[[2008 Formula One season|2008]]
+|data-sort-value="1965-10"| [[1965 Mexican Grand Prix]]
+|data-sort-value="2006-13"| [[2006 Hungarian Grand Prix]]
+|-
+| rowspan="2" align="center" |25
+!scope=row|[[George Salih|Salih]]
+|{{USA}}
+|align=center|2
+|align=center|[[1957 Formula One season|1957]]–[[1960 Formula One season|1960]]
+|data-sort-value="1957-03"| [[1957 Indianapolis 500]]
+|data-sort-value="1958-04"| [[1958 Indianapolis 500]]
+|-
+!scope=row|[[Lotus F1]]
+|{{GBR}}
+|align=center|2
+|align=center|[[2012 Formula One season|2012]]–[[2015 Formula One season|2015]]
+|data-sort-value="2012-18"| [[2012 Abu Dhabi Grand Prix]]
+|data-sort-value="2013-01"| [[2013 Australian Grand Prix]]
+|-
+| rowspan="12" align="center" |27
+! scope="row" |[[Kuzma (constructor)|Kuzma]]
+|{{USA}}
+| align="center" |1
+| align="center" |[[1951 Formula One season|1951]]–[[1960 Formula One season|1960]]
+|colspan=2 align=center data-sort-value="1952-02"| [[1952 Indianapolis 500]]
+|-
+! scope="row" |[[Porsche in motorsport|Porsche]]
+|{{DEU}}
+| align="center" |1
+| align="center" |[[1957 Formula One season|1957]]–[[1964 Formula One season|1964]]
+|colspan=2 align=center data-sort-value="1962-04"| [[1962 French Grand Prix]]
+|-
+! scope="row" |[[Anglo American Racers|Eagle]]
+|{{USA}}
+| align="center" |1
+| align="center" |[[1966 Formula One season|1966]]–[[1969 Formula One season|1969]]
+|colspan=2 align=center data-sort-value="1967-04"| [[1967 Belgian Grand Prix]]
+|-
+! scope="row" |[[Hesketh Racing|Hesketh]]
+|{{GBR}}
+| align="center" |1
+| align="center" |[[1974 Formula One season|1974]]–[[1978 Formula One season|1978]]
+|colspan=2 align=center  data-sort-value="1975-08"| [[1975 Dutch Grand Prix]]
+|-
+! scope="row" |[[Penske Racing|Penske]]
+|{{USA}}
+| align="center" |1
+| align="center" |[[1974 Formula One season|1974]]–[[1977 Formula One season|1977]]
+|colspan=2 align=center data-sort-value="1976-11"| [[1976 Austrian Grand Prix]]
+|-
+! scope="row" |[[Shadow Racing Cars|Shadow]]{{efn|name=Nationality}}<ref>{{cite web |url=http://www.racingsportscars.com/f1/entry/Zeltweg-1977-08-14-14189.html |title=1977 Austrian Grand Prix Entry list|access-date=9 August 2012|archive-url=https://web.archive.org/web/20201105130610/https://www.racingsportscars.com/f1/entry/Zeltweg-1977-08-14-14189.html|archive-date=5 November 2020|url-status=live}}</ref>
+|{{GBR}}
+| align="center" |1
+| align="center" |[[1973 Formula One season|1973]]–[[1980 Formula One season|1980]]
+|colspan=2 align=center data-sort-value="1977-12"| [[1977 Austrian Grand Prix]]
+|-
+! scope="row" |[[Stewart Grand Prix|Stewart]]
+|{{GBR}}
+| align="center" |1
+| align="center" |[[1997 Formula One season|1997]]–[[1999 Formula One season|1999]]
+|colspan=2 align=center data-sort-value="1999-14"| [[1999 European Grand Prix]]
+|-
+! scope="row" |[[BMW Sauber]]{{efn|name=Nationality}}{{efn|From [[1993 Formula One season|1993]]–[[2005 Formula One season|2005]] and [[2011 Formula One season|2011]]–[[2018 Formula One season|2018]] they competed as [[Sauber Motorsport|Sauber]]; and from {{f1|2024}}–{{f1|2025}} as [[Sauber Motorsport|Kick Sauber]].}}
+|{{DEU}}
+| align="center" |1
+| align="center" |[[1993 Formula One season|1993]]–[[2018 Formula One season|2018]], [[2024 Formula One season|2024]]-[[2025 Formula One season|2025]]
+|colspan=2 align=center data-sort-value="2008-007"| [[2008 Canadian Grand Prix]]
+|-
+! scope="row" |[[Scuderia Toro Rosso|Toro Rosso]]
+|{{ITA}}
+| align="center" |1
+| align="center" |[[2006 Formula One season|2006]]–[[2019 Formula One World Championship|2019]]
+|colspan=2 align=center data-sort-value="2008-014"| [[2008 Italian Grand Prix]]
+|-
+! scope="row"|[[Scuderia AlphaTauri|AlphaTauri]]
+|{{ITA}}
+| align="center" |1
+| align="center" |[[2020 Formula One World Championship|2020]]–[[2023 Formula One World Championship|2023]]
+|colspan=2 align=center data-sort-value="2020-08"| [[2020 Italian Grand Prix]]
+|-
+! scope="row" |[[Racing Point F1 Team|Racing Point]]
+|{{GBR}}
+| align="center" |1
+| align="center" |[[2019 Formula One World Championship|2019]]–[[2020 Formula One World Championship|2020]]
+|colspan=2 align=center data-sort-value="2020-16"| [[2020 Sakhir Grand Prix]]
+|-
+! scope="row" style="background:#FBCEB1" |[[Alpine F1 Team|Alpine]]*
+|{{FRA}}
+| align="center" |1
+| align="center" |[[2021 Formula One season|2021]]–
+|colspan=2 align=center data-sort-value="2021-11"| [[2021 Hungarian Grand Prix]]
+|}
+
+==By nationality==
+''All figures correct as of the [[2026 Singapore Grand Prix]]''
+{|class="sortable wikitable plainrowheaders"
+|+Formula One constructor wins by nationality
+|-
+!scope=col|Rank
+!scope=col|Country
+!scope=col|Wins
+!scope=col|Constructor(s)
+!First win
+!Last win
+|-
+|align=center| 1
+!scope=row|{{UK}}
+|align=center| 541
+|align=center| 16
+|align=center| [[1957 British Grand Prix]] ([[Vanwall]])
+|align=center| [[2026 Dutch Grand Prix]] ([[McLaren]])
+|-
+|align=center| 2
+!scope=row|{{ITA}}{{efn|[[1997 German Grand Prix|One]] of Benetton's 27 wins were scored with their Italian licence. All the others count towards the British totals.}}
+|align=center| 272
+|align=center| 6
+|align=center| [[1950 British Grand Prix]] ([[Alfa Romeo in Formula One|Alfa Romeo]])
+|align=center| [[2026 British Grand Prix]] ([[Scuderia Ferrari|Ferrari]])
+|-
+|align=center| 3
+!scope=row|{{GER}}
+|align=center| 144
+|align=center| 3
+|align=center| [[1954 French Grand Prix]] ([[Mercedes-Benz in Formula One|Mercedes]])
+|align=center| [[2026 Azerbaijan Grand Prix]] ([[Mercedes-Benz in Formula One|Mercedes]])
+|-
+|align=center| 4
+!scope=row|{{AUT}}
+|align=center| 132
+|align=center| 1
+|align=center| [[2009 Chinese Grand Prix]] ([[Red Bull Racing|Red Bull]])
+|align=center| [[2026 Singapore Grand Prix]] ([[Red Bull Racing|Red Bull]])
+|-
+|align=center| 5
+!scope=row|{{FRA}}
+|align=center| 54
+|align=center| 4
+|align=center| [[1968 Dutch Grand Prix]] ([[Equipe Matra Sports|Matra]])
+|align=center| [[2021 Hungarian Grand Prix]] ([[Alpine F1 Team|Alpine]])
+|-
+|align=center| 6
+!scope=row|{{USA}}
+|align=center| 13{{efn|Of these, 11 wins were at the [[Indianapolis 500]].}}
+|align=center| 6{{efn|Of these, 4 constructors only won at the [[Indianapolis 500]].}}
+|align=center| [[1950 Indianapolis 500]] ([[Kurtis Kraft]]){{efn|The [[1967 Belgian Grand Prix]] won by [[All American Racers|Eagle]], if the [[Indianapolis 500]] is excluded.}}
+|align=center| [[1976 Austrian Grand Prix]] ([[Team Penske|Penske]]){{efn|Though American-owned, [[Shadow Racing Cars|Shadow]] achieved a victory at the [[1977 Austrian Grand Prix]] having raced with a [[List of Formula One constructors#Team's nationality|British licence]]. See the {{cite news |url=http://www.racingsportscars.com/covers/_Zeltweg-1976-08-15e.jpg |title=1976 Austrian Grand Prix Entry list}} and the {{cite news |url=http://www.racingsportscars.com/f1/entry/Zeltweg-1977-08-14-14189.html |title=1977 Austrian Grand Prix Entry list}}}}
+|-
+|align=center| 7
+!scope=row|{{IRL}}
+|align=center| 4
+|align=center| 1
+|align=center| [[1998 Belgian Grand Prix]] ([[Jordan Grand Prix|Jordan]])
+|align=center| [[2003 Brazilian Grand Prix]] ([[Jordan Grand Prix|Jordan]])
+|-
+|align=center| 8
+!scope=row|{{JPN}}
+|align=center| 3
+|align=center| 1
+|align=center| [[1965 Mexican Grand Prix]] ([[Honda in Formula One|Honda]])
+|align=center| [[2006 Hungarian Grand Prix]] ([[Honda in Formula One|Honda]])
+|-
+|align=center| 9
+!scope=row|{{CAN}}
+|align=center| 3
+|align=center| 1
+|align=center| [[1977 Argentine Grand Prix]] ([[Walter Wolf Racing|Wolf]])
+|align=center| [[1977 Canadian Grand Prix]] ([[Walter Wolf Racing|Wolf]])
+|-
+|}
+
+==Record progression==
+{|class="sortable wikitable"
+|-
+!Constructor
+!Record number of wins
+!Record held between
+|-
+|{{flagicon|Italy}} [[Alfa Romeo in Formula One|Alfa Romeo]]
+|align=center|1–10
+|[[1950 British Grand Prix]] – [[1952 Italian Grand Prix]]
+|-
+|{{flagicon|Italy}} [[Scuderia Ferrari|Ferrari]]
+|align=center|11–49
+|[[1953 Argentine Grand Prix]] – [[1973 South African Grand Prix]]
+|-
+|{{flagicon|UK}} [[Team Lotus|Lotus]]
+|align=center|50–57
+|[[1973 Spanish Grand Prix]] – [[1975 Italian Grand Prix]]
+|-
+|{{flagicon|Italy}} [[Scuderia Ferrari|Ferrari]]
+|align=center|58–103
+|[[1975 United States Grand Prix]] – [[1993 Japanese Grand Prix]]
+|-
+|{{flagicon|UK}} [[McLaren]]
+|align=center|104
+|[[1993 Australian Grand Prix]] – [[1995 Monaco Grand Prix]]
+|-
+|{{flagicon|Italy}} [[Scuderia Ferrari|Ferrari]]
+|align=center|105–{{F1cstat|FER|wins}}
+|[[1995 Canadian Grand Prix]] – present
+|-
+| colspan="3" |Source:<ref>{{Cite web |title=Statistics Constructors - Wins - Chronology of the record |url=https://www.statsf1.com/en/statistiques/constructeur/victoire/chronologie-record.aspx |access-date={{F1 records date}} |website=Statsf1 |archive-url=https://web.archive.org/web/20241007110235/https://www.statsf1.com/en/statistiques/constructeur/victoire/chronologie-record.aspx |archive-date=7 October 2024 |url-status=live}}</ref>
+|}
+
+==See also==
+*[[List of Formula One World Constructors' Champions]]
+*[[List of Formula One constructors]]
+*[[List of Formula One Grand Prix winners]]
+*[[Formula_One_engines#Most_World_Championship_Grand_Prix_wins_by_engine_manufacturer|Most World Championship Grand Prix wins by engine manufacturer]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|2}}
+
+==Bibliography==
+* {{cite book |title=Grand Prix Data Book (4th ed.) |publisher=Haynes Publishing |year=2006 |first1=David |last1=Hayhoe |first2=David |last2=Holland |isbn=1-84425-223-X}} 
+* {{cite book |title=The Concise Encyclopedia of Formula 1 |publisher=Parragon |year=2002 |first1=Mark |first2=David |last1=Hughes |last2=Tremayne |author-link1=Mark Hughes (motorsport)|author-link2=David Tremayne |isbn=0-75258-766-8}}
+
+{{Formula One teams}}
+{{Formula One constructors}}
+
+[[Category:Formula One-related lists|Winners constructors]]

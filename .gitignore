@@ -1,5 +1,7 @@
-# Raw downloads (rebuilt by scripts/build_big_three.py)
-data/raw/
+# Raw downloads are kept in the repo (data/raw/) as snapshots of every source,
+# so the datasets can be rebuilt even if a source page or file disappears.
+# Only unfinished downloads are left out.
+*.part
 
 .DS_Store
 __pycache__/

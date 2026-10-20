@@ -1,0 +1,1333 @@
+{{Short description|Men's professional tennis tour}}
+{{Main|2019 ATP Tour}}
+{{Infobox tennis circuit season
+<!-- Details -->
+| name          = 2019 ATP Masters 1000
+| duration      = March 7 – November 3
+| edition       = 30th
+| tournaments   = 9
+<!-- Achievements -->
+| most_tournament_titles = {{flagicon|SRB}} [[Novak Djokovic]] <br />{{flagicon|RUS}} [[Daniil Medvedev]] <br /> {{flagicon|ESP}} [[Rafael Nadal]] (2)
+| most_tournament_finals = {{flagicon|SRB}} Novak Djokovic <br />{{flagicon|RUS}} Daniil Medvedev (3)
+<!-- Other seasons -->
+| previous = [[2018 ATP World Tour Masters 1000|2018]]
+| next     = [[2020 ATP Tour Masters 1000|2020]]
+}}
+The thirtieth edition of the [[ATP Masters]] Series.<ref>{{cite web |title=ATP Announces 2019 ATP World Tour Calendar |url=https://www.atptour.com/en/news/atp-announces-2019-atp-world-tour-calendar |accessdate=12 February 2019}}</ref><ref>[https://www.atptour.com/en/scores/results-archive?year=2019&tournamentType=1000 ATP Masters 2019] atptour.com.</ref> The champion of each Masters event is awarded 1,000 rankings points.
+{{TOC limit|3}}
+
+== Tournaments ==
+{| class="wikitable plainrowheaders nowrap"
+|-
+!scope="col"|Tournament
+!scope="col"|Country
+!scope="col"|Location
+!scope="col"|Surface
+!scope="col"|Prize money
+|-
+!scope="row"|[[Indian Wells Masters]]
+|USA
+|[[Indian Wells, California]]
+| align="center" |Hard
+| align="center" |$9,314,875
+|-
+!scope="row"|[[Miami Open (tennis)|Miami Open]]
+|USA
+|[[Miami Gardens, Florida]]
+| align="center" |Hard
+| align="center" |$9,314,875
+|-
+!scope="row"|[[Monte-Carlo Masters]]
+|France
+|[[Roquebrune-Cap-Martin]]
+| align="center" |Clay
+| align="center" |€5,585,030
+|-
+!scope="row"|[[Madrid Open (tennis)|Madrid Open]]
+|Spain
+|[[Madrid]]
+| align="center" |Clay
+| align="center" |€7,279,270
+|-
+!scope="row"|[[Italian Open (tennis)|Italian Open]]
+|Italy
+|[[Rome]]
+| align="center" |Clay
+| align="center" |€5,791,280
+|-
+!scope="row"|[[Canadian Open (tennis)|Canadian Open]]
+|Canada
+|[[Montreal]]
+| align="center" |Hard
+| align="center" |$6,338,885
+|-
+!scope="row"|[[Cincinnati Masters]]
+|USA
+|[[Mason, Ohio]]
+| align="center" |Hard
+| align="center" |$6,735,690
+|-
+!scope="row"|[[Shanghai Masters (tennis)|Shanghai Masters]]
+|China
+|[[Shanghai]]
+| align="center" |Hard
+| align="center" |$8,322,885
+|-
+!scope="row"|[[Paris Masters]]
+|France
+|[[Paris]]
+| align="center" |Hard (indoor)
+| align="center" |€5,791,280
+|}
+
+== Results ==
+<noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
+
+{|class="wikitable plainrowheaders"
+|-
+! scope="col"|Masters
+! scope="col" style="width:11em"| Singles champions
+! scope="col" style="width:11em"| Runners-up
+! scope="col" style="width:11em"| Score
+! scope="col" style="width:11em"| Doubles champions
+! scope="col" style="width:11em"| Runners-up
+! scope="col" style="width:11em"| Score
+|-
+! rowspan="2" scope="row" | {{nowrap|[[2019 BNP Paribas Open|'''Indian Wells''']]}}<br />{{small|[[2019 BNP Paribas Open – Men's singles|Singles]] – [[2019 BNP Paribas Open – Men's doubles|Doubles]]}}
+| rowspan="2" style="background:#ddfddd" |{{#invoke:flag|icon|AUT}} [[Dominic Thiem]]*
+| rowspan="2" |{{#invoke:flag|icon|SUI}} Roger Federer
+| rowspan="2" |3–6, 6–3, 7–5
+|{{#invoke:flag|icon|CRO}} Nikola Mektić
+| rowspan="2" |{{#invoke:flag|icon|POL}} Łukasz Kubot <br />{{#invoke:flag|icon|BRA}} Marcelo Melo
+| rowspan="2" |4–6, 6–4, [10–3]
+|-
+| style="background:#ddfddd"|{{#invoke:flag|icon|ARG}} [[Horacio Zeballos]]*
+|-
+! scope="row" |[[2019 Miami Open|'''Miami''']]<br />{{small|[[2019 Miami Open – Men's singles|Singles]] – [[2019 Miami Open – Men's doubles|Doubles]]}}
+|{{#invoke:flag|icon|SUI}} Roger Federer
+|{{#invoke:flag|icon|USA}} John Isner
+|6–1, 6–4
+|{{#invoke:flag|icon|USA}} Bob Bryan <br />{{#invoke:flag|icon|USA}} Mike Bryan
+|{{#invoke:flag|icon|NED}} [[Wesley Koolhof]] <br />{{#invoke:flag|icon|GRE}} [[Stefanos Tsitsipas]]
+|7–5, 7–6<sup>(10–8)</sup>
+|-
+! rowspan="2" scope="row" | {{nowrap|[[2019 Monte-Carlo Masters|'''Monte Carlo''']]}}<br />{{small|[[2019 Monte-Carlo Masters – Singles|Singles]] – [[2019 Monte-Carlo Masters – Doubles|Doubles]]}}
+| rowspan="2" style="background:#ddfddd" |{{#invoke:flag|icon|ITA}} [[Fabio Fognini]]*
+| rowspan="2" |{{#invoke:flag|icon|SRB}} [[Dušan Lajović]]
+| rowspan="2" |6–3, 6–4
+|{{#invoke:flag|icon|CRO}} Nikola Mektić
+| rowspan="2" |{{#invoke:flag|icon|NED}} Robin Haase <br />{{#invoke:flag|icon|NED}} Wesley Koolhof
+| rowspan="2" |6–7<sup>(3–7)</sup>, 7–6<sup>(7–3)</sup>, [11–9]
+|-
+| style="background:#ddfddd"|{{#invoke:flag|icon|CRO}} [[Franko Škugor]]*
+|-
+! scope="row" |[[2019 Mutua Madrid Open|'''Madrid''']]<br />{{small|[[2019 Mutua Madrid Open – Men's singles|Singles]] – [[2019 Mutua Madrid Open – Men's doubles|Doubles]]}}
+|{{#invoke:flag|icon|SRB}} Novak Djokovic
+|{{#invoke:flag|icon|GRE}} Stefanos Tsitsipas
+|6–3, 6–4
+|{{#invoke:flag|icon|NED}} Jean-Julien Rojer <br /> {{#invoke:flag|icon|ROM}} Horia Tecău
+|{{#invoke:flag|icon|ARG}} [[Diego Schwartzman]] <br /> {{#invoke:flag|icon|AUT}} [[Dominic Thiem]]
+|6–2, 6–3
+|-
+! scope="row" |[[2019 Italian Open (tennis)|'''Rome''']]<br />{{small|[[2019 Italian Open – Men's singles|Singles]] – [[2019 Italian Open – Men's doubles|Doubles]]}}
+|{{#invoke:flag|icon|ESP}} Rafael Nadal
+|{{#invoke:flag|icon|SRB}} Novak Djokovic
+|6–0, 4–6, 6–1
+|{{#invoke:flag|icon|COL}} Juan Sebastián Cabal <br /> {{#invoke:flag|icon|COL}} Robert Farah
+|{{#invoke:flag|icon|RSA}} Raven Klaasen <br /> {{#invoke:flag|icon|NZ}} Michael Venus
+|6–1, 6–3
+|-
+! scope="row" |[[2019 Rogers Cup|'''Montreal''']]<br />{{small|[[2019 Rogers Cup – Men's singles|Singles]] – [[2019 Rogers Cup – Men's doubles|Doubles]]}}
+|{{#invoke:flag|icon|ESP}} Rafael Nadal
+|{{#invoke:flag|icon|RUS}} Daniil Medvedev
+|6–3, 6–0
+|{{#invoke:flag|icon|ESP}} Marcel Granollers <br /> {{#invoke:flag|icon|ARG}} Horacio Zeballos
+|{{#invoke:flag|icon|NED}} Robin Haase <br /> {{#invoke:flag|icon|NED}} [[Wesley Koolhof]]
+|7–5, 7–5
+|-
+! rowspan="2" scope="row" |[[2019 Western & Southern Open|'''Cincinnati''']]<br />{{small|[[2019 Western & Southern Open – Men's singles|Singles]] – [[2019 Western & Southern Open – Men's doubles|Doubles]]}}
+| rowspan="2" style="background:#ddfddd" |{{#invoke:flag|icon|RUS}} [[Daniil Medvedev]]*
+| rowspan="2" |{{#invoke:flag|icon|BEL}} [[David Goffin]]
+| rowspan="2" |7–6<sup>(7–3)</sup>, 6–4
+|{{#invoke:flag|icon|CRO}} Ivan Dodig
+| rowspan="2" |{{#invoke:flag|icon|COL}} Juan Sebastián Cabal <br /> {{#invoke:flag|icon|COL}} Robert Farah
+| rowspan="2" |4–6, 6–4, [10–6]
+|-
+| style="background:#ddfddd"|{{#invoke:flag|icon|SVK}} [[Filip Polášek]]*
+|-
+! rowspan="2" scope="row" |[[2019 Rolex Shanghai Masters|'''Shanghai''']]<br />{{small|[[2019 Rolex Shanghai Masters – Singles|Singles]] – [[2019 Rolex Shanghai Masters – Doubles|Doubles]]}}
+| rowspan="2" |{{#invoke:flag|icon|RUS}} Daniil Medvedev
+| rowspan="2" |{{#invoke:flag|icon|GER}} Alexander Zverev
+| rowspan="2" |6–4, 6–1
+| style="background:#ddfddd"|{{#invoke:flag|icon|CRO}} [[Mate Pavić]]*
+| rowspan="2" |{{#invoke:flag|icon|POL}} Łukasz Kubot <br />{{#invoke:flag|icon|BRA}} Marcelo Melo
+| rowspan="2" |6–4, 6–2
+|-
+|{{#invoke:flag|icon|BRA}} Bruno Soares
+|-
+! scope="row" |[[2019 Rolex Paris Masters|'''Paris''']]<br />{{small|[[2019 Rolex Paris Masters – Singles|Singles]] – [[2019 Rolex Paris Masters – Doubles|Doubles]]}}
+|{{#invoke:flag|icon|SRB}} Novak Djokovic
+|{{#invoke:flag|icon|CAN}} [[Denis Shapovalov]]
+|6–3, 6–4
+|{{#invoke:flag|icon|FRA}} Nicolas Mahut <br />{{#invoke:flag|icon|FRA}} Pierre-Hugues Herbert
+|{{#invoke:flag|icon|RUS}} Karen Khachanov <br />{{#invoke:flag|icon|RUS}} Andrey Rublev
+|6–4, 6–1
+|}
+
+== Tournament details ==
+{{Draw key}}
+
+=== Indian Wells Masters ===
+==== Singles ====
+{{Main|2019 BNP Paribas Open – Men's singles}}
+{{8TeamBracket-Tennis3-v2
+|RD1=Quarterfinals
+|RD2=Semifinals
+|RD3=Final
+|score-width=
+|RD1-seed1=18
+|RD1-team1={{flagicon|FRA}} [[Gaël Monfils]]
+|RD1-score1-1=
+|RD1-score1-2=
+|RD1-score1-3=
+|RD1-seed2=7
+|RD1-team2='''{{flagicon|AUT}} [[Dominic Thiem]]'''
+|RD1-score2-1={{small|w/o}}
+|RD1-score2-2=
+|RD1-score2-3=
+
+|RD1-seed3=13
+|RD1-team3='''{{flagicon|CAN}} [[Milos Raonic]]'''
+|RD1-score3-1='''6'''
+|RD1-score3-2='''6'''
+|RD1-score3-3=
+|RD1-seed4=LL
+|RD1-team4={{flagicon|SRB}} [[Miomir Kecmanović]]
+|RD1-score4-1=3
+|RD1-score4-2=4
+|RD1-score4-3=
+
+|RD1-seed5=
+|RD1-team5={{flagicon|POL}} [[Hubert Hurkacz]]
+|RD1-score5-1=4
+|RD1-score5-2=4
+|RD1-score5-3=
+|RD1-seed6=4
+|RD1-team6='''{{flagicon|SUI}} [[Roger Federer]]'''
+|RD1-score6-1='''6'''
+|RD1-score6-2='''6'''
+|RD1-score6-3=
+
+|RD1-seed7=12
+|RD1-team7={{flagicon|RUS}} [[Karen Khachanov]]
+|RD1-score7-1=6<sup>2</sup>
+|RD1-score7-2=6<sup>2</sup>
+|RD1-score7-3=
+|RD1-seed8=2
+|RD1-team8='''{{flagicon|ESP}} [[Rafael Nadal]]'''
+|RD1-score8-1='''7<sup>7</sup>'''
+|RD1-score8-2='''7<sup>7</sup>'''
+|RD1-score8-3=
+
+|RD2-seed1=7
+|RD2-team1='''{{flagicon|AUT}} [[Dominic Thiem]]'''
+|RD2-score1-1='''7<sup>7</sup>'''
+|RD2-score1-2=6<sup>3</sup>
+|RD2-score1-3='''6'''
+|RD2-seed2=13
+|RD2-team2={{flagicon|CAN}} [[Milos Raonic]]
+|RD2-score2-1=6<sup>3</sup>
+|RD2-score2-2='''7<sup>7</sup>'''
+|RD2-score2-3=4
+
+|RD2-seed3=4
+|RD2-team3='''{{flagicon|SUI}} [[Roger Federer]]'''
+|RD2-score3-1={{small|w/o}}
+|RD2-score3-2=
+|RD2-score3-3=
+|RD2-seed4=2
+|RD2-team4={{flagicon|ESP}} [[Rafael Nadal]]
+|RD2-score4-1=
+|RD2-score4-2=
+|RD2-score4-3=
+
+|RD3-seed1=7
+|RD3-team1='''{{flagicon|AUT}} [[Dominic Thiem]]'''
+|RD3-score1-1=3
+|RD3-score1-2='''6'''
+|RD3-score1-3='''7'''
+|RD3-seed2=4
+|RD3-team2={{flagicon|SUI}} [[Roger Federer]]
+|RD3-score2-1='''6'''
+|RD3-score2-2=3
+|RD3-score2-3=5
+}}
+
+==== Doubles ====
+{{Main|2019 BNP Paribas Open – Men's doubles}}
+{{4TeamBracket-Tennis3-v2
+| RD1=Semifinals
+| RD2=Final
+|score-width=
+| RD1-seed1=&nbsp;
+| RD1-team1='''{{flagicon|CRO}} [[Nikola Mektić]]<br />{{flagicon|ARG}} [[Horacio Zeballos]]'''
+| RD1-score1-1='''7<sup>7</sup>'''
+| RD1-score1-2='''7<sup>7</sup>'''
+| RD1-score1-3=
+| RD1-seed2=3
+| RD1-team2={{flagicon|AUT}} [[Oliver Marach]]<br />{{flagicon|CRO}} [[Mate Pavić]]
+| RD1-score2-1=6<sup>3</sup>
+| RD1-score2-2=6<sup>3</sup>
+| RD1-score2-3=
+
+| RD1-seed3=6
+| RD1-team3='''{{flagicon|POL}} [[Łukasz Kubot]]<br />{{flagicon|BRA}} [[Marcelo Melo]]'''
+| RD1-score3-1='''7<sup>7</sup>'''
+| RD1-score3-2=2
+| RD1-score3-3='''[10]'''
+| RD1-seed4=
+| RD1-team4={{flagicon|SRB}} [[Novak Djokovic]]<br />{{flagicon|ITA}} [[Fabio Fognini]]
+| RD1-score4-1=6<sup>5</sup>
+| RD1-score4-2='''6'''
+| RD1-score4-3=[6]
+
+| RD2-seed1=&nbsp;
+| RD2-team1='''{{flagicon|CRO}} [[Nikola Mektić]]<br />{{flagicon|ARG}} [[Horacio Zeballos]]'''
+| RD2-score1-1=4
+| RD2-score1-2='''6'''
+| RD2-score1-3='''[10]'''
+| RD2-seed2=6
+| RD2-team2={{flagicon|POL}} [[Łukasz Kubot]]<br />{{flagicon|BRA}} [[Marcelo Melo]]
+| RD2-score2-1='''6'''
+| RD2-score2-2=4
+| RD2-score2-3=[3]
+}}
+
+=== Miami Open ===
+==== Singles ====
+{{Main|2019 Miami Open – Men's singles}}
+{{8TeamBracket-Tennis3-v2
+|RD1=Quarterfinals
+|RD2=Semifinals
+|RD3=Final
+|score-width=
+|RD1-seed1=22
+|RD1-team1={{flagicon|ESP}} [[Roberto Bautista Agut]]
+|RD1-score1-1=6<sup>1</sup>
+|RD1-score1-2=6<sup>5</sup>
+|RD1-score1-3=
+|RD1-seed2=7
+|RD1-team2='''{{flagicon|USA}} [[John Isner]]'''
+|RD1-score2-1='''7<sup>7</sup>'''
+|RD1-score2-2='''7<sup>7</sup>'''
+|RD1-score2-3=
+
+|RD1-seed3=Q
+|RD1-team3='''{{flagicon|CAN}} [[Félix Auger-Aliassime]]'''
+|RD1-score3-1='''7<sup>7</sup>'''
+|RD1-score3-2='''6'''
+|RD1-score3-3=
+|RD1-seed4=11
+|RD1-team4={{flagicon|CRO}} [[Borna Ćorić]]
+|RD1-score4-1=6<sup>3</sup>
+|RD1-score4-2=2
+|RD1-score4-3=
+
+|RD1-seed5=6
+|RD1-team5={{flagicon|RSA}} [[Kevin Anderson (tennis)|Kevin Anderson]]
+|RD1-score5-1=0
+|RD1-score5-2=4
+|RD1-score5-3=
+|RD1-seed6=4
+|RD1-team6='''{{flagicon|SUI}} [[Roger Federer]]'''
+|RD1-score6-1='''6'''
+|RD1-score6-2='''6'''
+|RD1-score6-3=
+
+|RD1-seed7=20
+|RD1-team7='''{{flagicon|CAN}} [[Denis Shapovalov]]'''
+|RD1-score7-1=6<sup>5</sup>
+|RD1-score7-2='''6'''
+|RD1-score7-3='''6'''
+|RD1-seed8=28
+|RD1-team8={{flagicon|USA}} [[Frances Tiafoe]]
+|RD1-score8-1='''7<sup>7</sup>'''
+|RD1-score8-2=4
+|RD1-score8-3=2
+
+|RD2-seed1=7
+|RD2-team1='''{{flagicon|USA}} [[John Isner]]'''
+|RD2-score1-1='''7<sup>7</sup>'''
+|RD2-score1-2='''7<sup>7</sup>'''
+|RD2-score1-3=
+|RD2-seed2=Q
+|RD2-team2={{flagicon|CAN}} [[Félix Auger-Aliassime]]
+|RD2-score2-1=6<sup>3</sup>
+|RD2-score2-2=6<sup>4</sup>
+|RD2-score2-3=
+
+|RD2-seed3=4
+|RD2-team3='''{{flagicon|SUI}} [[Roger Federer]]'''
+|RD2-score3-1='''6'''
+|RD2-score3-2='''6'''
+|RD2-score3-3=
+|RD2-seed4=20
+|RD2-team4={{flagicon|CAN}} [[Denis Shapovalov]]
+|RD2-score4-1=2
+|RD2-score4-2=4
+|RD2-score4-3=
+
+|RD3-seed1=7
+|RD3-team1={{flagicon|USA}} [[John Isner]]
+|RD3-score1-1=1
+|RD3-score1-2=4
+|RD3-score1-3=
+|RD3-seed2=4
+|RD3-team2='''{{flagicon|SUI}} [[Roger Federer]]'''
+|RD3-score2-1='''6'''
+|RD3-score2-2='''6'''
+|RD3-score2-3=
+}}
+
+==== Doubles ====
+{{Main|2019 Miami Open – Men's doubles}}
+{{4TeamBracket-Tennis3-v2
+| RD1=Semifinals
+| RD2=Final
+|score-width=
+| RD1-seed1=1
+| RD1-team1={{flagicon|POL}} [[Łukasz Kubot]] <br />{{flagicon|BRA}} [[Marcelo Melo]]
+| RD1-score1-1=6<sup>7</sup>
+| RD1-score1-2='''7<sup>10</sup>'''
+| RD1-score1-3=[12]
+| RD1-seed2=3
+| RD1-team2='''{{flagicon|USA}} [[Bob Bryan]] <br />{{flagicon|USA}} [[Mike Bryan]]'''
+| RD1-score2-1='''7<sup>9</sup>'''
+| RD1-score2-2=6<sup>8</sup>
+| RD1-score2-3='''[14]'''
+
+| RD1-seed3=&nbsp;
+| RD1-team3={{flagicon|CRO}} [[Ivan Dodig]] <br />{{flagicon|FRA}} [[Édouard Roger-Vasselin]]
+| RD1-score3-1=3
+| RD1-score3-2='''7<sup>7</sup>'''
+| RD1-score3-3=[8]
+| RD1-seed4=&nbsp;
+| RD1-team4='''{{flagicon|NED}} [[Wesley Koolhof]] <br />{{flagicon|GRE}} [[Stefanos Tsitsipas]]'''
+| RD1-score4-1='''6'''
+| RD1-score4-2=6<sup>2</sup>
+| RD1-score4-3='''[10]'''
+
+| RD2-seed1=3
+| RD2-team1='''{{flagicon|USA}} [[Bob Bryan]] <br />{{flagicon|USA}} [[Mike Bryan]]'''
+| RD2-score1-1='''7'''
+| RD2-score1-2='''7<sup>10</sup>'''
+| RD2-score1-3=
+| RD2-seed2=&nbsp;
+| RD2-team2={{flagicon|NED}} [[Wesley Koolhof]] <br />{{flagicon|GRE}} [[Stefanos Tsitsipas]]
+| RD2-score2-1=5
+| RD2-score2-2=6<sup>8</sup>
+| RD2-score2-3=
+}}
+
+=== Monte-Carlo Masters ===
+==== Singles ====
+{{Main|2019 Monte-Carlo Masters – Singles}}
+{{8TeamBracket-Tennis3-v2
+|RD1=Quarterfinals
+|RD2=Semifinals
+|RD3=Final
+|score-width=
+|RD1-seed1=1
+|RD1-team1={{flagicon|SRB}} [[Novak Djokovic]]
+|RD1-score1-1=3
+|RD1-score1-2='''6'''
+|RD1-score1-3=2
+|RD1-seed2=10
+|RD1-team2='''{{flagicon|RUS}} [[Daniil Medvedev]]'''
+|RD1-score2-1='''6'''
+|RD1-score2-2=4
+|RD1-score2-3='''6'''
+
+|RD1-seed3=
+|RD1-team3='''{{flagicon|SRB}} [[Dušan Lajović]]'''
+|RD1-score3-1='''6'''
+|RD1-score3-2='''7'''
+|RD1-score3-3=
+|RD1-seed4=Q
+|RD1-team4={{flagicon|ITA}} [[Lorenzo Sonego]]
+|RD1-score4-1=4
+|RD1-score4-2=5
+|RD1-score4-3=
+
+|RD1-seed5=9
+|RD1-team5={{flagicon|CRO}} [[Borna Ćorić]]
+|RD1-score5-1='''6'''
+|RD1-score5-2=3
+|RD1-score5-3=2
+|RD1-seed6=13
+|RD1-team6='''{{flagicon|ITA}} [[Fabio Fognini]]'''
+|RD1-score6-1=1
+|RD1-score6-2='''6'''
+|RD1-score6-3='''6'''
+
+|RD1-seed7=
+|RD1-team7={{flagicon|ARG}} [[Guido Pella]]
+|RD1-score7-1=6<sup>1</sup>
+|RD1-score7-2=3
+|RD1-score7-3=
+|RD1-seed8=2
+|RD1-team8='''{{flagicon|ESP}} [[Rafael Nadal]]'''
+|RD1-score8-1='''7<sup>7</sup>'''
+|RD1-score8-2='''6'''
+|RD1-score8-3=
+
+|RD2-seed1=10
+|RD2-team1={{flagicon|RUS}} [[Daniil Medvedev]]
+|RD2-score1-1=5
+|RD2-score1-2=1
+|RD2-score1-3=
+|RD2-seed2=
+|RD2-team2='''{{flagicon|SRB}} [[Dušan Lajović]]'''
+|RD2-score2-1='''7'''
+|RD2-score2-2='''6'''
+|RD2-score2-3=
+
+|RD2-seed3=13
+|RD2-team3='''{{flagicon|ITA}} [[Fabio Fognini]]'''
+|RD2-score3-1='''6'''
+|RD2-score3-2='''6'''
+|RD2-score3-3=
+|RD2-seed4=2
+|RD2-team4={{flagicon|ESP}} [[Rafael Nadal]]
+|RD2-score4-1=4
+|RD2-score4-2=2
+|RD2-score4-3=
+
+|RD3-seed1=
+|RD3-team1={{flagicon|SRB}} [[Dušan Lajović]]
+|RD3-score1-1=3
+|RD3-score1-2=4
+|RD3-score1-3=
+|RD3-seed2=13
+|RD3-team2='''{{flagicon|ITA}} [[Fabio Fognini]]'''
+|RD3-score2-1='''6'''
+|RD3-score2-2='''6'''
+|RD3-score2-3=
+}}
+
+==== Doubles ====
+{{Main|2019 Monte-Carlo Masters – Doubles}}
+
+{{4TeamBracket-Tennis3-v2
+| RD1=Semifinals
+| RD2=Final
+|score-width=
+| RD1-seed1=&nbsp;
+| RD1-team1='''{{flagicon|NED}} [[Robin Haase]] <br />{{flagicon|NED}} [[Wesley Koolhof]]'''
+| RD1-score1-1='''7<sup>7</sup>'''
+| RD1-score1-2='''6'''
+| RD1-score1-3=
+| RD1-seed2=3
+| RD1-team2={{flagicon|GBR}} [[Jamie Murray]] <br />{{flagicon|BRA}} [[Bruno Soares]]
+| RD1-score2-1=6<sup>4</sup>
+| RD1-score2-2=4
+| RD1-score2-3=
+
+| RD1-seed3=&nbsp;
+| RD1-team3={{flagicon|ARG}} [[Máximo González]] <br />{{flagicon|ARG}} [[Horacio Zeballos]]
+| RD1-score3-1=4
+| RD1-score3-2=3
+| RD1-score3-3=
+| RD1-seed4=7
+| RD1-team4='''{{flagicon|CRO}} [[Nikola Mektić]] <br />{{flagicon|CRO}} [[Franko Škugor]]'''
+| RD1-score4-1='''6'''
+| RD1-score4-2='''6'''
+| RD1-score4-3=
+
+| RD2-seed1=&nbsp;
+| RD2-team1={{flagicon|NED}} [[Robin Haase]] <br />{{flagicon|NED}} [[Wesley Koolhof]]
+| RD2-score1-1='''7<sup>7</sup>'''
+| RD2-score1-2=6<sup>3</sup>
+| RD2-score1-3=[9]
+| RD2-seed2=7
+| RD2-team2='''{{flagicon|CRO}} [[Nikola Mektić]] <br />{{flagicon|CRO}} [[Franko Škugor]]'''
+| RD2-score2-1=6<sup>3</sup>
+| RD2-score2-2='''7<sup>7</sup>'''
+| RD2-score2-3='''[11]'''
+}}
+
+=== Madrid Open ===
+==== Singles ====
+{{Main|2019 Mutua Madrid Open – Men's singles}}
+{{8TeamBracket-Tennis3-v2
+|RD1=Quarterfinals
+|RD2=Semifinals
+|RD3=Final
+|score-width=
+|RD1-seed1=1
+|RD1-team1='''{{flagicon|SRB}} [[Novak Djokovic]]'''
+|RD1-score1-1={{small|w/o}}
+|RD1-score1-2=
+|RD1-score1-3=
+|RD1-seed2=9
+|RD1-team2={{flagicon|CRO}} [[Marin Čilić]]
+|RD1-score2-1=
+|RD1-score2-2=
+|RD1-score2-3=
+
+|RD1-seed3=4
+|RD1-team3={{flagicon|SUI}} [[Roger Federer]]
+|RD1-score3-1='''6'''
+|RD1-score3-2=6<sup>11</sup>
+|RD1-score3-3=4
+|RD1-seed4=5
+|RD1-team4='''{{flagicon|AUT}} [[Dominic Thiem]]'''
+|RD1-score4-1=3
+|RD1-score4-2='''7<sup>13</sup>'''
+|RD1-score4-3='''6'''
+
+|RD1-seed5=8
+|RD1-team5='''{{flagicon|GRE}} [[Stefanos Tsitsipas]]'''
+|RD1-score5-1='''7'''
+|RD1-score5-2=3
+|RD1-score5-3='''6'''
+|RD1-seed6=3
+|RD1-team6={{flagicon|GER}} [[Alexander Zverev]]
+|RD1-score6-1=5
+|RD1-score6-2='''6'''
+|RD1-score6-3=2
+
+|RD1-seed7=
+|RD1-team7={{flagicon|SUI}} [[Stan Wawrinka]]
+|RD1-score7-1=1
+|RD1-score7-2=2
+|RD1-score7-3=
+|RD1-seed8=2
+|RD1-team8='''{{flagicon|SPA}} [[Rafael Nadal]]'''
+|RD1-score8-1='''6'''
+|RD1-score8-2='''6'''
+|RD1-score8-3=
+
+|RD2-seed1=1
+|RD2-team1='''{{flagicon|SRB}} [[Novak Djokovic]] '''
+|RD2-score1-1='''7<sup>7</sup>'''
+|RD2-score1-2='''7<sup>7</sup>'''
+|RD2-score1-3=
+|RD2-seed2=5
+|RD2-team2={{flagicon|AUT}} [[Dominic Thiem]]
+|RD2-score2-1=6<sup>2</sup>
+|RD2-score2-2=6<sup>4</sup>
+|RD2-score2-3=
+
+|RD2-seed3=8
+|RD2-team3='''{{flagicon|GRE}} [[Stefanos Tsitsipas]]'''
+|RD2-score3-1='''6'''
+|RD2-score3-2=2
+|RD2-score3-3='''6'''
+|RD2-seed4=2
+|RD2-team4={{flagicon|SPA}} [[Rafael Nadal]]
+|RD2-score4-1=4
+|RD2-score4-2='''6'''
+|RD2-score4-3=3
+
+|RD3-seed1=1
+|RD3-team1='''{{flagicon|SRB}} [[Novak Djokovic]] '''
+|RD3-score1-1='''6'''
+|RD3-score1-2='''6'''
+|RD3-score1-3=
+|RD3-seed2=8
+|RD3-team2={{flagicon|GRE}} [[Stefanos Tsitsipas]]
+|RD3-score2-1=3
+|RD3-score2-2=4
+|RD3-score2-3=
+}}
+
+==== Doubles ====
+{{Main|2019 Mutua Madrid Open – Men's doubles}}
+{{4TeamBracket-Tennis3-v2
+| RD1=Semifinals
+| RD2=Final
+|score-width=
+| RD1-seed1=&nbsp;
+| RD1-team1='''{{flagicon|NED}} [[Jean-Julien Rojer]] <br />{{flagicon|ROU}} [[Horia Tecău]]'''
+| RD1-score1-1='''6'''
+| RD1-score1-2=5
+| RD1-score1-3='''[10]'''
+| RD1-seed2=&nbsp;
+| RD1-team2={{flagicon|NED}} [[Wesley Koolhof]] <br />{{flagicon|GRE}} [[Stefanos Tsitsipas]]
+| RD1-score2-1=4
+| RD1-score2-2='''7'''
+| RD1-score2-3=[5]
+
+| RD1-seed3=&nbsp;
+| RD1-team3='''{{flagicon|ARG}} [[Diego Schwartzman]] <br />{{flagicon|AUT}} [[Dominic Thiem]]'''
+| RD1-score3-1='''6'''
+| RD1-score3-2='''6'''
+| RD1-score3-3=
+| RD1-seed4=&nbsp;
+| RD1-team4={{flagicon|ARG}} [[Guido Pella]] <br />{{flagicon|POR}} [[João Sousa]]
+| RD1-score4-1=3
+| RD1-score4-2=2
+| RD1-score4-3=
+
+| RD2-seed1=&nbsp;
+| RD2-team1='''{{flagicon|NED}} [[Jean-Julien Rojer]] <br />{{flagicon|ROU}} [[Horia Tecău]]'''
+| RD2-score1-1='''6'''
+| RD2-score1-2='''6'''
+| RD2-score1-3=
+| RD2-seed2=&nbsp;
+| RD2-team2={{flagicon|ARG}} [[Diego Schwartzman]] <br />{{flagicon|AUT}} [[Dominic Thiem]]
+| RD2-score2-1=2
+| RD2-score2-2=3
+| RD2-score2-3=
+}}
+
+=== Italian Open ===
+==== Singles ====
+{{Main|2019 Italian Open – Men's singles}}
+{{8TeamBracket-Tennis3-v2
+|RD1=Quarterfinals
+|RD2=Semifinals
+|RD3=Final
+|score-width=
+|RD1-seed1=1
+|RD1-team1='''{{flagicon|SRB}} [[Novak Djokovic]]'''
+|RD1-score1-1=4
+|RD1-score1-2='''7<sup>8</sup>'''
+|RD1-score1-3='''6'''
+|RD1-seed2=7
+|RD1-team2={{flagicon|ARG}} [[Juan Martín del Potro]]
+|RD1-score2-1='''6'''
+|RD1-score2-2=6<sup>6</sup>
+|RD1-score2-3=4
+
+|RD1-seed3=
+|RD1-team3='''{{flagicon|ARG}} [[Diego Schwartzman]]'''
+|RD1-score3-1='''6'''
+|RD1-score3-2='''6'''
+|RD1-score3-3=
+|RD1-seed4=6
+|RD1-team4={{flagicon|JPN}} [[Kei Nishikori]]
+|RD1-score4-1=4
+|RD1-score4-2=2
+|RD1-score4-3=
+
+|RD1-seed5=8
+|RD1-team5='''{{flagicon|GRE}} [[Stefanos Tsitsipas]]'''
+|RD1-score5-1={{small|w/o}}
+|RD1-score5-2=
+|RD1-score5-3=
+|RD1-seed6=3
+|RD1-team6={{flagicon|SUI}} [[Roger Federer]]
+|RD1-score6-1=
+|RD1-score6-2=
+|RD1-score6-3=
+
+|RD1-seed7=
+|RD1-team7={{flagicon|ESP}} [[Fernando Verdasco]]
+|RD1-score7-1=4
+|RD1-score7-2=0
+|RD1-score7-3=
+|RD1-seed8=2
+|RD1-team8='''{{flagicon|ESP}} [[Rafael Nadal]]'''
+|RD1-score8-1='''6'''
+|RD1-score8-2='''6'''
+|RD1-score8-3=
+
+|RD2-seed1=1
+|RD2-team1='''{{flagicon|SRB}} [[Novak Djokovic]]'''
+|RD2-score1-1='''6'''
+|RD2-score1-2=6<sup>2</sup>
+|RD2-score1-3='''6'''
+|RD2-seed2=
+|RD2-team2={{flagicon|ARG}} [[Diego Schwartzman]]
+|RD2-score2-1=3
+|RD2-score2-2='''7<sup>7</sup>'''
+|RD2-score2-3=3
+
+|RD2-seed3=8
+|RD2-team3={{flagicon|GRE}} [[Stefanos Tsitsipas]]
+|RD2-score3-1=3
+|RD2-score3-2=4
+|RD2-score3-3=
+|RD2-seed4=2
+|RD2-team4='''{{flagicon|ESP}} [[Rafael Nadal]]'''
+|RD2-score4-1='''6'''
+|RD2-score4-2='''6'''
+|RD2-score4-3=
+
+|RD3-seed1=1
+|RD3-team1={{flagicon|SRB}} [[Novak Djokovic]]
+|RD3-score1-1=0
+|RD3-score1-2='''6'''
+|RD3-score1-3=1
+|RD3-seed2=2
+|RD3-team2='''{{flagicon|ESP}} [[Rafael Nadal]]'''
+|RD3-score2-1='''6'''
+|RD3-score2-2=4
+|RD3-score2-3='''6'''
+}}
+
+==== Doubles ====
+{{Main|2019 Italian Open – Men's doubles}}
+{{4TeamBracket-Tennis3
+| RD1=Semifinals
+| RD2=Final
+|score-width=
+| RD1-seed1=1
+| RD1-team1={{flagicon|POL}} [[Łukasz Kubot]] <br /> {{flagicon|BRA}} [[Marcelo Melo]]
+| RD1-score1-1='''6'''
+| RD1-score1-2=6<sup>4</sup>
+| RD1-score1-3=[8]
+| RD1-seed2=3
+| RD1-team2='''{{flagicon|COL}} [[Juan Sebastián Cabal]]<br />{{flagicon|COL}} [[Robert Farah (tennis)|Robert Farah]]'''
+| RD1-score2-1=2
+| RD1-score2-2='''7<sup>7</sup>'''
+| RD1-score2-3='''[10]'''
+
+| RD1-seed3=5
+| RD1-team3={{flagicon|AUT}} [[Oliver Marach]]<br />{{flagicon|CRO}} [[Mate Pavić]]
+| RD1-score3-1=6<sup>4</sup>
+| RD1-score3-2='''6'''
+| RD1-score3-3=[7]
+| RD1-seed4=6
+| RD1-team4='''{{flagicon|RSA}} [[Raven Klaasen]]<br />{{flagicon|NZL}} [[Michael Venus (tennis)|Michael Venus]]'''
+| RD1-score4-1='''7<sup>7</sup>'''
+| RD1-score4-2=4
+| RD1-score4-3='''[10]'''
+
+| RD2-seed1=3
+| RD2-team1='''{{flagicon|COL}} [[Juan Sebastián Cabal]]<br />{{flagicon|COL}} [[Robert Farah (tennis)|Robert Farah]]'''
+| RD2-score1-1='''6'''
+| RD2-score1-2='''6'''
+| RD2-score1-3=
+| RD2-seed2=6
+| RD2-team2={{flagicon|RSA}} [[Raven Klaasen]]<br />{{flagicon|NZL}} [[Michael Venus (tennis)|Michael Venus]]
+| RD2-score2-1=1
+| RD2-score2-2=3
+| RD2-score2-3=
+}}
+
+=== Canadian Open ===
+==== Singles ====
+{{Main|2019 Rogers Cup – Men's singles}}
+{{8TeamBracket-Tennis3-v2
+|RD1=Quarterfinals
+|RD2=Semifinals
+|RD3=Final
+|score-width=
+|RD1-seed1=1
+|RD1-team1='''{{flagicon|ESP}} [[Rafael Nadal]]'''
+|RD1-score1-1=2
+|RD1-score1-2='''6'''
+|RD1-score1-3='''6'''
+|RD1-seed2=7
+|RD1-team2={{flagicon|ITA}} [[Fabio Fognini]]
+|RD1-score2-1='''6'''
+|RD1-score2-2=1
+|RD1-score2-3=2
+
+|RD1-seed3=16
+|RD1-team3='''{{flagicon|FRA}} [[Gaël Monfils]]'''
+|RD1-score3-1='''6'''
+|RD1-score3-2=3
+|RD1-score3-3='''7<sup>7</sup>'''
+|RD1-seed4=10
+|RD1-team4={{flagicon|ESP}} [[Roberto Bautista Agut]]
+|RD1-score4-1=4
+|RD1-score4-2='''6'''
+|RD1-score4-3=6<sup>2</sup>
+
+|RD1-seed5=6
+|RD1-team5='''{{flagicon|RUS}} [[Karen Khachanov]]'''
+|RD1-score5-1='''6'''
+|RD1-score5-2='''6'''
+|RD1-score5-3=
+|RD1-seed6=3
+|RD1-team6={{flagicon|GER}} [[Alexander Zverev]]
+|RD1-score6-1=3
+|RD1-score6-2=3
+|RD1-score6-3=
+
+|RD1-seed7=8
+|RD1-team7='''{{flagicon|RUS}} [[Daniil Medvedev]]'''
+|RD1-score7-1='''6'''
+|RD1-score7-2='''6'''
+|RD1-score7-3=
+|RD1-seed8=2
+|RD1-team8={{flagicon|AUT}} [[Dominic Thiem]]
+|RD1-score8-1=3
+|RD1-score8-2=1
+|RD1-score8-3=
+
+|RD2-seed1=1
+|RD2-team1='''{{flagicon|ESP}} [[Rafael Nadal]]'''
+|RD2-score1-1={{small|w/o}}
+|RD2-score1-2=
+|RD2-score1-3=
+|RD2-seed2=16
+|RD2-team2={{flagicon|FRA}} [[Gaël Monfils]]
+|RD2-score2-1=
+|RD2-score2-2=
+|RD2-score2-3=
+
+|RD2-seed3=6
+|RD2-team3={{flagicon|RUS}} [[Karen Khachanov]]
+|RD2-score3-1=1
+|RD2-score3-2=6<sup>6</sup>
+|RD2-score3-3=
+|RD2-seed4=8
+|RD2-team4='''{{flagicon|RUS}} [[Daniil Medvedev]]'''
+|RD2-score4-1='''6'''
+|RD2-score4-2='''7<sup>8</sup>'''
+|RD2-score4-3=
+
+|RD3-seed1=1
+|RD3-team1='''{{flagicon|ESP}} [[Rafael Nadal]]'''
+|RD3-score1-1='''6'''
+|RD3-score1-2='''6'''
+|RD3-score1-3=
+|RD3-seed2=8
+|RD3-team2={{flagicon|RUS}} [[Daniil Medvedev]]
+|RD3-score2-1=3
+|RD3-score2-2=0
+|RD3-score2-3=
+}}
+==== Doubles ====
+{{Main|2019 Rogers Cup – Men's doubles}}
+{{4TeamBracket-Tennis3-v2
+| RD1=Semifinals
+| RD2=Final
+|score-width=
+| RD1-seed1=&nbsp;
+| RD1-team1='''{{flagicon|NED}} [[Robin Haase]]<br />{{flagicon|NED}} [[Wesley Koolhof]]'''
+| RD1-score1-1='''7<sup>7</sup>'''
+| RD1-score1-2='''7<sup>9</sup>'''
+| RD1-score1-3=
+| RD1-seed2=&nbsp;
+| RD1-team2={{flagicon|IND}} [[Rohan Bopanna]]<br />{{flagicon|CAN}} [[Denis Shapovalov]]
+| RD1-score2-1=6<sup>3</sup>
+| RD1-score2-2=6<sup>7</sup>
+| RD1-score2-3=
+
+| RD1-seed3=&nbsp;
+| RD1-team3='''{{flagicon|ESP}} [[Marcel Granollers]]<br />{{flagicon|ARG}} [[Horacio Zeballos]]'''
+| RD1-score3-1='''7<sup>9</sup>'''
+| RD1-score3-2=3
+| RD1-score3-3='''[10]'''
+| RD1-seed4=&nbsp;
+| RD1-team4={{flagicon|USA}} [[Rajeev Ram]]<br />{{flagicon|GBR}} [[Joe Salisbury]]
+| RD1-score4-1=6<sup>7</sup>
+| RD1-score4-2='''6'''
+| RD1-score4-3=[7]
+
+| RD2-seed1=&nbsp;
+| RD2-team1={{flagicon|NED}} [[Robin Haase]]<br />{{flagicon|NED}} [[Wesley Koolhof]]
+| RD2-score1-1=5
+| RD2-score1-2=5
+| RD2-score1-3=
+| RD2-seed2=&nbsp;
+| RD2-team2='''{{flagicon|ESP}} [[Marcel Granollers]]<br />{{flagicon|ARG}} [[Horacio Zeballos]]'''
+| RD2-score2-1='''7'''
+| RD2-score2-2='''7'''
+| RD2-score2-3=
+}}
+
+=== Cincinnati Masters ===
+==== Singles ====
+{{Main|2019 Western & Southern Open – Men's singles}}
+{{8TeamBracket-Tennis3-v2
+|RD1=Quarterfinals
+|RD2=Semifinals
+|RD3=Final
+|score-width=
+|RD1-seed1=1
+|RD1-team1='''{{flagicon|SRB}} [[Novak Djokovic]]'''
+|RD1-score1-1='''7<sup>7</sup>'''
+|RD1-score1-2='''6'''
+|RD1-score1-3=
+|RD1-seed2=
+|RD1-team2={{flagicon|FRA}} [[Lucas Pouille]]
+|RD1-score2-1=6<sup>2</sup>
+|RD1-score2-2=1
+|RD1-score2-3=
+
+|RD1-seed3=Q
+|RD1-team3={{flagicon|RUS}} [[Andrey Rublev (tennis)|Andrey Rublev]]
+|RD1-score3-1=2
+|RD1-score3-2=3
+|RD1-score3-3=
+|RD1-seed4=9
+|RD1-team4='''{{flagicon|RUS}} [[Daniil Medvedev]]'''
+|RD1-score4-1='''6'''
+|RD1-score4-2='''6'''
+|RD1-score4-3=
+
+|RD1-seed5=11
+|RD1-team5={{flagicon|ESP}} [[Roberto Bautista Agut]]
+|RD1-score5-1=6<sup>2</sup>
+|RD1-score5-2='''6'''
+|RD1-score5-3=2
+|RD1-seed6=PR
+|RD1-team6='''{{flagicon|FRA}} [[Richard Gasquet]]'''
+|RD1-score6-1='''7<sup>7</sup>'''
+|RD1-score6-2=3
+|RD1-score6-3='''6'''
+
+|RD1-seed7=Q
+|RD1-team7={{flagicon|JPN}} [[Yoshihito Nishioka]]
+|RD1-score7-1=
+|RD1-score7-2=
+|RD1-score7-3=
+|RD1-seed8=16
+|RD1-team8='''{{flagicon|BEL}} [[David Goffin]]'''
+|RD1-score8-1={{small|w/o}}
+|RD1-score8-2=
+|RD1-score8-3=
+
+|RD2-seed1=1
+|RD2-team1={{flagicon|SRB}} [[Novak Djokovic]]
+|RD2-score1-1='''6'''
+|RD2-score1-2=3
+|RD2-score1-3=3
+|RD2-seed2=9
+|RD2-team2='''{{flagicon|RUS}} [[Daniil Medvedev]]'''
+|RD2-score2-1=3
+|RD2-score2-2='''6'''
+|RD2-score2-3='''6'''
+
+|RD2-seed3=PR
+|RD2-team3={{flagicon|FRA}} [[Richard Gasquet]]
+|RD2-score3-1=3
+|RD2-score3-2=4
+|RD2-score3-3=
+|RD2-seed4=16
+|RD2-team4='''{{flagicon|BEL}} [[David Goffin]]'''
+|RD2-score4-1='''6'''
+|RD2-score4-2='''6'''
+|RD2-score4-3=
+
+|RD3-seed1=9
+|RD3-team1='''{{flagicon|RUS}} [[Daniil Medvedev]]'''
+|RD3-score1-1='''7<sup>7</sup>'''
+|RD3-score1-2='''6'''
+|RD3-score1-3=
+|RD3-seed2=16
+|RD3-team2={{flagicon|BEL}} [[David Goffin]]
+|RD3-score2-1=6<sup>3</sup>
+|RD3-score2-2=4
+|RD3-score2-3=
+}}
+
+==== Doubles ====
+{{Main|2019 Western & Southern Open – Men's doubles}}
+{{4TeamBracket-Tennis3-v2
+| RD1=Semifinals
+| RD2=Final
+|score-width=
+| RD1-seed1=1
+| RD1-team1='''{{flagicon|COL}} [[Juan Sebastián Cabal]] <br />{{flagicon|COL}} [[Robert Farah (tennis)|Robert Farah]]'''
+| RD1-score1-1='''6'''
+| RD1-score1-2='''6'''
+| RD1-score1-3=
+| RD1-seed2=6
+| RD1-team2={{flagicon|CRO}} [[Mate Pavić]] <br />{{flagicon|BRA}} [[Bruno Soares]]
+| RD1-score2-1=3
+| RD1-score2-2=2
+| RD1-score2-3=
+
+| RD1-seed3=&nbsp;
+| RD1-team3={{flagicon|GBR}} [[Jamie Murray]] <br />{{flagicon|GBR}} [[Neal Skupski]]
+| RD1-score3-1=1
+| RD1-score3-2=4
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4='''{{flagicon|CRO}} [[Ivan Dodig]] <br />{{flagicon|SVK}} [[Filip Polášek]]'''
+| RD1-score4-1='''6'''
+| RD1-score4-2='''6'''
+| RD1-score4-3=
+
+| RD2-seed1=1
+| RD2-team1={{flagicon|COL}} [[Juan Sebastián Cabal]] <br />{{flagicon|COL}} [[Robert Farah (tennis)|Robert Farah]]
+| RD2-score1-1='''6'''
+| RD2-score1-2=4
+| RD2-score1-3=[6]
+| RD2-seed2=&nbsp;
+| RD2-team2='''{{flagicon|CRO}} [[Ivan Dodig]] <br />{{flagicon|SVK}} [[Filip Polášek]]'''
+| RD2-score2-1=4
+| RD2-score2-2='''6'''
+| RD2-score2-3='''[10]'''
+}}
+
+=== Shanghai Masters ===
+==== Singles ====
+{{Main|2019 Rolex Shanghai Masters – Singles}}
+{{8TeamBracket-Tennis3-v2
+|RD1=Quarterfinals
+|RD2=Semifinals
+|RD3=Final
+|score-width=
+|RD1-seed1=1
+|RD1-team1={{flagicon|SRB}} [[Novak Djokovic]]
+|RD1-score1-1='''6'''
+|RD1-score1-2=5
+|RD1-score1-3=3
+|RD1-seed2=6
+|RD1-team2='''{{flagicon|GRE}} [[Stefanos Tsitsipas]]'''
+|RD1-score2-1=3
+|RD1-score2-2='''7'''
+|RD1-score2-3='''6'''
+
+|RD1-seed3=3
+|RD1-team3='''{{flagicon|RUS}} [[Daniil Medvedev]]'''
+|RD1-score3-1='''6'''
+|RD1-score3-2='''7<sup>7</sup>'''
+|RD1-score3-3=
+|RD1-seed4=10
+|RD1-team4={{flagicon|ITA}} [[Fabio Fognini]]
+|RD1-score4-1=3
+|RD1-score4-2=6<sup>4</sup>
+|RD1-score4-3=
+
+|RD1-seed5=11
+|RD1-team5='''{{flagicon|ITA}} [[Matteo Berrettini]]'''
+|RD1-score5-1='''7<sup>10</sup>'''
+|RD1-score5-2='''6'''
+|RD1-score5-3=
+|RD1-seed6=4
+|RD1-team6={{flagicon|AUT}} [[Dominic Thiem]]
+|RD1-score6-1=6<sup>8</sup>
+|RD1-score6-2=4
+|RD1-score6-3=
+
+|RD1-seed7=5
+|RD1-team7='''{{flagicon|GER}} [[Alexander Zverev]]'''
+|RD1-score7-1='''6'''
+|RD1-score7-2=6<sup>7</sup>
+|RD1-score7-3='''6'''
+|RD1-seed8=2
+|RD1-team8={{flagicon|SUI}} [[Roger Federer]]
+|RD1-score8-1=3
+|RD1-score8-2='''7<sup>9</sup>'''
+|RD1-score8-3=3
+
+|RD2-seed1=6
+|RD2-team1={{flagicon|GRE}} [[Stefanos Tsitsipas]]
+|RD2-score1-1=6<sup>5</sup>
+|RD2-score1-2=5
+|RD2-score1-3=
+|RD2-seed2=3
+|RD2-team2='''{{flagicon|RUS}} [[Daniil Medvedev]]'''
+|RD2-score2-1='''7<sup>7</sup>'''
+|RD2-score2-2='''7'''
+|RD2-score2-3=
+
+|RD2-seed3=11
+|RD2-team3={{flagicon|ITA}} [[Matteo Berrettini]]
+|RD2-score3-1=3
+|RD2-score3-2=4
+|RD2-score3-3=
+|RD2-seed4=5
+|RD2-team4='''{{flagicon|GER}} [[Alexander Zverev]]'''
+|RD2-score4-1='''6'''
+|RD2-score4-2='''6'''
+|RD2-score4-3=
+
+|RD3-seed1=3
+|RD3-team1='''{{flagicon|RUS}} [[Daniil Medvedev]]'''
+|RD3-score1-1='''6'''
+|RD3-score1-2='''6'''
+|RD3-score1-3=
+|RD3-seed2=5
+|RD3-team2={{flagicon|GER}} [[Alexander Zverev]]
+|RD3-score2-1=4
+|RD3-score2-2=1
+|RD3-score2-3=
+}}
+
+==== Doubles ====
+{{Main|2019 Rolex Shanghai Masters – Doubles}}
+{{4TeamBracket-Tennis3
+| RD1=Semifinals
+| RD2=Final
+|score-width=
+| RD1-seed1=8
+| RD1-team1='''{{flagicon|CRO}} [[Mate Pavić]] <br />{{flagicon|BRA}} [[Bruno Soares]]'''
+| RD1-score1-1='''7'''
+| RD1-score1-2='''6'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|GBR}} [[Jamie Murray]] <br />{{flagicon|GBR}} [[Neal Skupski]]
+| RD1-score2-1=5
+| RD1-score2-2=4
+| RD1-score2-3=
+
+| RD1-seed3=6
+| RD1-team3={{flagicon|FRA}} [[Nicolas Mahut]] <br />{{flagicon|FRA}} [[Édouard Roger-Vasselin]]
+| RD1-score3-1=2
+| RD1-score3-2=4
+| RD1-score3-3=
+| RD1-seed4=2
+| RD1-team4='''{{flagicon|POL}} [[Łukasz Kubot]]<br />{{flagicon|BRA}} [[Marcelo Melo]]'''
+| RD1-score4-1='''6'''
+| RD1-score4-2='''6'''
+| RD1-score4-3=
+
+| RD2-seed1=8
+| RD2-team1='''{{flagicon|CRO}} [[Mate Pavić]] <br />{{flagicon|BRA}} [[Bruno Soares]]'''
+| RD2-score1-1='''6'''
+| RD2-score1-2='''6'''
+| RD2-score1-3=
+| RD2-seed2=2
+| RD2-team2={{flagicon|POL}} [[Łukasz Kubot]]<br />{{flagicon|BRA}} [[Marcelo Melo]]
+| RD2-score2-1=4
+| RD2-score2-2=2
+| RD2-score2-3=
+}}
+
+=== Paris Masters ===
+==== Singles ====
+{{Main|2019 Rolex Paris Masters – Singles}}
+{{8TeamBracket-Tennis3-v2
+|RD1=Quarterfinals
+|RD2=Semifinals
+|RD3=Final
+|score-width=
+|RD1-seed1=1
+|RD1-team1='''{{flagicon|SRB}} [[Novak Djokovic]]'''
+|RD1-score1-1='''6'''
+|RD1-score1-2='''6'''
+|RD1-score1-3=
+|RD1-seed2=7
+|RD1-team2={{flagicon|GRE}} [[Stefanos Tsitsipas]]
+|RD1-score2-1=1
+|RD1-score2-2=2
+|RD1-score2-3=
+
+|RD1-seed3=
+|RD1-team3={{flagicon|CHI}} [[Cristian Garín]]
+|RD1-score3-1=2
+|RD1-score3-2=5
+|RD1-score3-3=
+|RD1-seed4=
+|RD1-team4='''{{flagicon|BUL}} [[Grigor Dimitrov]]'''
+|RD1-score4-1='''6'''
+|RD1-score4-2='''7'''
+|RD1-score4-3=
+
+|RD1-seed5=
+|RD1-team5='''{{flagicon|CAN}} [[Denis Shapovalov]]'''
+|RD1-score5-1='''6'''
+|RD1-score5-2='''6'''
+|RD1-score5-3=
+|RD1-seed6=13
+|RD1-team6={{flagicon|FRA}} [[Gaël Monfils]]
+|RD1-score6-1=2
+|RD1-score6-2=2
+|RD1-score6-3=
+
+|RD1-seed7=WC
+|RD1-team7={{flagicon|FRA}} [[Jo-Wilfried Tsonga]]
+|RD1-score7-1=6<sup>4</sup>
+|RD1-score7-2=1
+|RD1-score7-3=
+|RD1-seed8=2
+|RD1-team8='''{{flagicon|ESP}} [[Rafael Nadal]]'''
+|RD1-score8-1='''7<sup>7</sup>'''
+|RD1-score8-2='''6'''
+|RD1-score8-3=
+
+|RD2-seed1=1
+|RD2-team1='''{{flagicon|SRB}} [[Novak Djokovic]]'''
+|RD2-score1-1='''7<sup>7</sup>'''
+|RD2-score1-2='''6'''
+|RD2-score1-3=
+|RD2-seed2=
+|RD2-team2={{flagicon|BUL}} [[Grigor Dimitrov]]
+|RD2-score2-1=6<sup>5</sup>
+|RD2-score2-2=4
+|RD2-score2-3=
+
+|RD2-seed3=
+|RD2-team3='''{{flagicon|CAN}} [[Denis Shapovalov]]'''
+|RD2-score3-1={{small|w/o}}
+|RD2-score3-2=
+|RD2-score3-3=
+|RD2-seed4=2
+|RD2-team4={{flagicon|ESP}} [[Rafael Nadal]]
+|RD2-score4-1=
+|RD2-score4-2=
+|RD2-score4-3=
+
+|RD3-seed1=1
+|RD3-team1='''{{flagicon|SRB}} [[Novak Djokovic]]'''
+|RD3-score1-1='''6'''
+|RD3-score1-2='''6'''
+|RD3-score1-3=
+|RD3-seed2=
+|RD3-team2={{flagicon|CAN}} [[Denis Shapovalov]]
+|RD3-score2-1=3
+|RD3-score2-2=4
+|RD3-score2-3=
+}}
+
+==== Doubles ====
+{{Main|2019 Rolex Paris Masters – Doubles}}
+{{4TeamBracket-Tennis3-v2
+| RD1=Semifinals
+| RD2=Final
+|score-width=
+| RD1-seed1=8
+| RD1-team1={{flagicon|CRO}} [[Ivan Dodig]] <br />{{flagicon|SVK}} [[Filip Polášek]]
+| RD1-score1-1=6<sup>7</sup>
+| RD1-score1-2='''6'''
+| RD1-score1-3=[9]
+| RD1-seed2=&nbsp;
+| RD1-team2='''{{flagicon|RUS}} [[Karen Khachanov]] <br />{{flagicon|RUS}} [[Andrey Rublev (tennis)|Andrey Rublev]]'''
+| RD1-score2-1='''7<sup>9</sup>'''
+| RD1-score2-2=0
+| RD1-score2-3='''[11]'''
+
+| RD1-seed3=7
+| RD1-team3='''{{flagicon|FRA}} [[Pierre-Hugues Herbert]] <br />{{flagicon|FRA}} [[Nicolas Mahut]]'''
+| RD1-score3-1='''7<sup>7</sup>'''
+| RD1-score3-2='''6'''
+| RD1-score3-3=
+| RD1-seed4=5
+| RD1-team4={{flagicon|GER}} [[Kevin Krawietz]] <br />{{flagicon|GER}} [[Andreas Mies]]
+| RD1-score4-1=6<sup>1</sup>
+| RD1-score4-2=0
+| RD1-score4-3=
+
+| RD2-seed1=&nbsp;
+| RD2-team1={{flagicon|RUS}} [[Karen Khachanov]] <br />{{flagicon|RUS}} [[Andrey Rublev (tennis)|Andrey Rublev]]
+| RD2-score1-1=4
+| RD2-score1-2=1
+| RD2-score1-3=
+| RD2-seed2=7
+| RD2-team2='''{{flagicon|FRA}} [[Pierre-Hugues Herbert]] <br />{{flagicon|FRA}} [[Nicolas Mahut]]'''
+| RD2-score2-1='''6'''
+| RD2-score2-2='''6'''
+| RD2-score2-3=
+}}
+
+== See also ==
+* [[ATP Tour Masters 1000]]
+* [[2019 ATP Tour]]
+* [[2019 WTA Premier Mandatory and Premier 5 tournaments]]
+* [[2019 WTA Tour]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.atpworldtour.com/ Association of Tennis Professionals (ATP) official website]
+* [http://www.itftennis.com/ International Tennis Federation (ITF) official website]
+
+{{ATP Masters tournaments}}
+{{2019 ATP World Tour}}
+{{2019 in tennis}}
+
+{{DEFAULTSORT:2019 ATP Tour Masters 1000}}
+[[Category:2019 ATP Tour|*]]
+[[Category:ATP Tour Masters 1000 seasons]]

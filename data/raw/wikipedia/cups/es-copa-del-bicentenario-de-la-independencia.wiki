@@ -1,0 +1,221 @@
+{{Ficha de campeonato
+|actual = 
+|fecha = 14 de agosto de 2016
+|anterior = 
+|edición = Única
+|imagen =Estadio Presidente Peron.jpg
+|imagen_tamaño = 
+|nombre = Copa del Bicentenario de la Independencia
+|siguiente = 
+|ubicación = [[Estadio Presidente Perón]]
+|página web = 
+|campeón       = '''[[Club Atlético Lanús|Lanús]]
+|otro finalista = [[Racing Club]]
+|mayor anotador = {{Bandera|PAR}} [[Brian Montenegro]]
+|mejor jugador  = 
+|asistentes     = 
+|participantes  = 2
+|partidos       = 1
+|victorias      = 
+|derrotas       = 
+|est_nombre1    = 
+|est1           =
+|est_nombre2    = 
+|est2           = 
+|est_nombre3    = 
+|est3           = 
+|anotaciones    = 
+|goles          = 1
+|imagen_pie=[[Estadio Presidente Perón]], sede de la final}}
+
+La '''Copa del Bicentenario de la Independencia''' o '''Copa Independencia''', conocida también como '''Copa Bicentenario''', fue una [[Copas nacionales del fútbol argentino|copa nacional]] única, organizada por la [[Asociación del Fútbol Argentino]] en 2016. Enfrentó a [[Racing Club]], campeón del [[Campeonato de Primera División 2014 (Argentina)|Campeonato de Primera División 2014]] (que dada la excepcionalidad de ese certamen no jugó oportunamente la [[Copa Campeonato]]) con [[Club Atlético Lanús]], ganador del [[Campeonato de Primera División 2016 (Argentina)|Campeonato de Primera División 2016]]. Se jugó a un solo encuentro, en el [[estadio Presidente Perón]], tras definirse la localía mediante un sorteo realizado en la sede de la Asociación del Fútbol Argentino. Lanús se consagró campeón al vencer por 1 a 0.<ref>[http://www.afa.org.ar/5077/lanus-campeon ¡Lanús campeón!]</ref>
+
+== Clubes clasificados ==
+{| border=0 cellspacing=0 cellpadding=5 style="border: 1px solid #aaaaaa;"
+|- bgcolor=#DDEEFF
+|[[Racing Club]]
+|Campeón del [[Campeonato de Primera División 2014 (Argentina)|Campeonato de Primera División 2014]]
+|- bgcolor=#edf3fe
+|[[Club Atlético Lanús|Lanús]]
+|Campeón del [[Campeonato de Primera División 2016 (Argentina)|Campeonato de Primera División 2016]]
+|}
+
+== Partido ==
+{{Partidos
+|local = [[Racing Club]]
+|resultado = 0:1''' (0:0)
+|visita = [[Club Atlético Lanús|Lanús]]
+|fecha = 14 de agosto de 2016, 16:15
+|estadio = [[Estadio Presidente Perón]]
+|refe = [[Germán Delfino]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia = 
+|goleslocal = 
+|golesvisita = {{gol|90+1}} [[Brian Montenegro]]
+|prórroga =
+|reporte = 
+}}
+
+=== Ficha ===
+{| width=100%
+|width=17%|{{Camisetas|pattern_la=_racing2016h|pattern_b=_racing2016h|pattern_ra=_racing2016h|pattern_sh=_sides on white|pattern_so=_socks
+|leftarm=7DBEFF|body=FF0000|rightarm=7DBEFF|shorts=00003F|socks=FFFFFF}}
+|width=66% rowspan=2|
+{| align=center cellpadding="3" cellspacing="0" style="background: #D0E7FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=100%
+|- bgcolor=#006699 style="color:white;"
+!width=50%|[[Archivo:Bandera-bonaerense.svg|border|50px]]<br />{{tc|Racing Club}}<br /> 0
+!width=50%|[[Archivo:Bandera-bonaerense.svg|border|50px]]<br />{{tc|Club Atlético Lanús|Lanús}}<br /> 1
+|- bgcolor=#006699 style="color:white;"
+|colspan=2|14 de agosto de 2016, 16:15 (UTC-3)<br />{{tc|Estadio Presidente Perón}}, {{tc|Avellaneda (Buenos Aires)|Avellaneda}}</span> 
+|-style="border-bottom:1px solid #aaa;"
+|width=50%|
+{|cellpadding="2" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|- style="border-bottom:1px solid #006699;"
+|width=10%|&nbsp;21||width=10%|[[Guardameta (fútbol)|ARQ]]||width=65%|{{Bandera|ARG}} [[Nelson Ibáñez]] ||width=15%|
+|-
+|&nbsp;18||[[Defensa (fútbol)|DEF]]||{{Bandera|ARG}} [[Francisco Cerro]]||
+|-
+|&nbsp;&nbsp;2||[[Defensa (fútbol)|DEF]]||{{Bandera|ARG}} [[Nicolás Sánchez (futbolista)|Nicolás Sánchez]]||
+|-
+|&nbsp;&nbsp;3||[[Defensa (fútbol)|DEF]]||{{Bandera|ARG}} [[Leandro Grimi]]||
+|- style="border-bottom:1px solid #006699;"
+|&nbsp;13||[[Defensa (fútbol)|DEF]]||{{Bandera|ARG}} [[Emanuel Insúa]]||
+|-
+|&nbsp;17||[[Centrocampista|MED]]||{{Bandera|ARG}} [[Marcos Acuña]]||
+|-
+|&nbsp;15||[[Centrocampista|MED]]||{{Bandera|ARG}} [[Ezequiel Videla]]|| {{salió|61}}
+|- style="border-bottom:1px solid #006699;"
+|&nbsp;11||[[Centrocampista|MED]]||{{Bandera|ARG}} [[Luciano Aued]]||
+|- style="border-bottom:1px solid #006699;"
+|&nbsp;10||[[Centrocampista|MED]]||{{Bandera|PAR}} [[Óscar Romero Villamayor|Óscar Romero]]||
+|-
+|&nbsp;&nbsp;9||[[Delantero|DEL]]||{{Bandera|ARG}} [[Lisandro López]] {{cap}} ||
+|- style="border-bottom:1px solid #006699;"
+|&nbsp;&nbsp;7||[[Delantero|DEL]]||{{Bandera|ARG}} [[Gustavo Bou]]||
+|-
+!colspan=2|Entrenador
+|{{Bandera|ARG}} [[Facundo Sava]]
+|}
+|width=50%|
+{|cellpadding="2" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|- style="border-bottom:1px solid #006699;"
+|width=10%|&nbsp;12||width=10%|[[Guardameta (fútbol)|ARQ]]||width=65%|{{Bandera|ARG}} [[Matías Ibáñez]]||width=15%|
+|-
+|&nbsp;&nbsp;4||[[Defensa (fútbol)|DEF]]||{{Bandera|ARG}} [[José Luis Gómez (futbolista)|José Luis Gómez]]||
+|-
+|&nbsp;14||[[Defensa (fútbol)|DEF]]||{{Bandera|ARG}} [[Luis Marcelo Herrera|Marcelo Herrera]]||
+|-
+|&nbsp;&nbsp;6||[[Defensa (fútbol)|DEF]]||{{Bandera|ARG}} [[Diego Braghieri]]||
+|- style="border-bottom:1px solid #006699;"
+|&nbsp;21||[[Defensa (fútbol)|DEF]]||{{Bandera|ARG}} [[Nicolás Pasquini]]||
+|-
+|&nbsp;27||[[Centrocampista|MED]]||{{Bandera|ARG}} [[Román Martínez]]||
+|-
+|&nbsp;30||[[Centrocampista|MED]]||{{Bandera|ARG}} [[Iván Marcone]]||
+|- style="border-bottom:1px solid #006699;"
+|&nbsp;19||[[Centrocampista|MED]]||{{Bandera|ARG}} [[Nicolás Aguirre (futbolista)|Nicolás Aguirre]]|| {{salió|73}}
+|-
+|&nbsp;&nbsp;7||[[Delantero|DEL]]||{{Bandera|ARG}} [[Lautaro Acosta]]||
+|-
+|&nbsp;&nbsp;9||[[Delantero|DEL]]||{{Bandera|ARG}} [[José Sand]] {{cap}} ||
+|- style="border-bottom:1px solid #006699;"
+|&nbsp;10||[[Delantero|DEL]]||{{Bandera|PAR}} [[Miguel Almirón]]||
+|-
+!colspan=2|Entrenador
+|{{Bandera|ARG}} [[Jorge Almirón]]
+|}
+|-
+!colspan=2|Sustituciones
+|-style="border-bottom:1px solid #aaa;" valign=top
+|width=50%|
+{|cellpadding="2" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+|width=10%|&nbsp;&nbsp;8||[[Centrocampista|MED]]||width=65%|{{bandera|ARG}} [[Diego Hernán González|Diego González]]||width=15%|{{entró|61}}
+|}
+|width=50%|
+{|cellpadding="2" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+|width=10%|&nbsp;26||[[Centrocampista|MED]]||width=65%|{{bandera|PAR}} [[Brian Montenegro]]||width=15%|{{entró|73}}
+|}
+|-
+!colspan=2|Goles
+|-style="border-bottom:1px solid #aaa;" valign=top
+|width=50%|
+{|cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+|}
+|width=50%|
+{|cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+|width=10% align=center|{{gol}}||width=10%|90+1'|| [[Brian Montenegro]]||width=10%|0-1
+|}
+|-
+!colspan=2|Amonestaciones
+|-style="border-bottom:1px solid #aaa;" valign=top
+|width=50%|
+{|cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+|width=10% align=center|{{ama}}||width=10%|15'|| Óscar Romero
+|-
+|width=10% align=center|{{ama}}||width=10%|27'|| Marcos Acuña
+|-
+|width=10% align=center|{{ama}}||width=10%|30'|| Ezequiel Videla
+|-
+|width=10% align=center|{{ama}}||width=10%|32'|| Leandro Grimi
+|-
+|width=10% align=center|{{ama}}||width=10%|54'|| Luciano Aued
+|-
+|width=10% align=center|{{ama}}||width=10%|89'|| Emanuel Insúa
+|}
+|width=50%|
+{|cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+|width=10% align=center|{{ama}}||width=10%|32'|| Román Martínez
+|-
+|width=10% align=center|{{ama}}||width=10%|34'|| José Sand
+|-
+|width=10% align=center|{{ama}}||width=10%|52'|| Nicolás Pasquini
+|-
+|width=10% align=center|{{ama}}||width=10%|79'|| Iván Marcone
+|-
+|width=10% align=center|{{ama}}||width=10%|86'|| Marcelo Herrera
+|}
+|-
+|colspan=2 align=center|
+{|cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=60%
+|-
+!Árbitro
+|align=left|{{Bandera|ARG}} [[Germán Delfino]]
+|-valign=top
+!rowspan=2|Árbitros asistentes
+|align=left|{{Bandera|ARG}} Diego Bonfá
+|-
+|align=left|{{Bandera|ARG}} Ezequiel Brailovsky
+|-
+!Cuarto árbitro
+|align=left|{{Bandera|ARG}} [[Diego Abal]]
+|-
+|}
+|}
+|width=100%|
+{{Camisetas|pattern_la=_thinwhiteborder|pattern_b=_Lanus1617h|pattern_ra=_thinwhiteborder|pattern_sh=_lanus1617h|pattern_so=_lanus1617h
+|leftarm=58151C|body=58151C|rightarm=58151C|shorts=58151C|socks=58151C}}
+|}
+<br />
+{{clear}}
+{| cellspacing=0 width=100%
+|-
+|align=center| 
+|-
+|align=center|'''Campeón<br />[[Archivo:Modificacion_flyer_para_Editatón_del_Centenario_del_Club_Atlético_Lanús.png|80px]]<br />[[Club Atlético Lanús|C. A. Lanús]]<br />{{Ord|1.|er}} título'''
+|}
+
+== Notas y referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.afa.org.ar Sitio oficial de la AFA]
+
+{{Control de autoridades}}
+[[Categoría:Copas nacionales de fútbol de Argentina]]
+[[Categoría:Partidos del Racing Club]]

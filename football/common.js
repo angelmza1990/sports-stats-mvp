@@ -49,7 +49,7 @@ window.Football = function (data) {
       const fg = g.append("g").attr("transform", `translate(${-size / 2},${-size * 0.375})`);
       fg.append("rect").attr("width", size).attr("height", size * 0.75).attr("rx", 2).attr("fill", "var(--wash)").attr("stroke", "var(--border)");
       const iso = countries[id]?.flag;
-      if (iso) fg.append("image").attr("href", `https://flagcdn.com/${iso}.svg`).attr("width", size).attr("height", size * 0.75).attr("preserveAspectRatio", "xMidYMid slice");
+      if (iso) fg.append("image").attr("href", Viz.flagUrl(iso)).attr("width", size).attr("height", size * 0.75).attr("preserveAspectRatio", "xMidYMid slice");
       else fg.append("text").attr("class", "badge-text").attr("x", size / 2).attr("y", size * 0.375).attr("dy", "0.35em").attr("text-anchor", "middle").text(id);
       return;
     }
@@ -82,7 +82,7 @@ window.Football = function (data) {
     };
     if (!iso) return fallback();
     const img = el("img", "flag");
-    img.src = `https://flagcdn.com/${iso}.svg`;
+    img.src = Viz.flagUrl(iso);
     img.alt = countryName(code);
     img.title = countryName(code);
     img.loading = "lazy";
@@ -93,7 +93,7 @@ window.Football = function (data) {
   function svgFlag(g, code) {
     const iso = countries[code]?.flag;
     g.append("rect").attr("width", 20).attr("height", 15).attr("rx", 2).attr("fill", "var(--wash)").attr("stroke", "var(--border)");
-    if (iso) g.append("image").attr("href", `https://flagcdn.com/${iso}.svg`).attr("width", 20).attr("height", 15).attr("preserveAspectRatio", "xMidYMid slice");
+    if (iso) g.append("image").attr("href", Viz.flagUrl(iso)).attr("width", 20).attr("height", 15).attr("preserveAspectRatio", "xMidYMid slice");
   }
 
   function clubLabel(id, withFlag = false) {

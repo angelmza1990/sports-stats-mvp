@@ -3,6 +3,9 @@ window.Viz = (function () {
   "use strict";
 
   const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  // Flags are served from assets/flags/ (copied by scripts/fetch_flags.py), next to this script.
+  const ASSETS = new URL(".", document.currentScript.src);
+  const flagUrl = (iso) => new URL(`flags/${iso}.svg`, ASSETS).href;
 
   function el(tag, className, text) {
     const node = document.createElement(tag);
@@ -187,6 +190,6 @@ window.Viz = (function () {
   return {
     reduceMotion, el, swatch, legend, segmented, table, responsive,
     showTip, hideTip, ttTitle, ttNote, ttRow, tooltipOn, tooltipOnNode,
-    barPath, columnPath, isDark, onThemeChange,
+    barPath, columnPath, isDark, onThemeChange, flagUrl,
   };
 })();

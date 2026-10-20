@@ -1,0 +1,751 @@
+{{short description|None}}
+
+{{Infobox Olympic sport
+| image       = Handball pictogram.svg|
+| size        = 150
+| code        = HBL
+| sport       = handball
+| menevents   = 1
+| womenevents = 1
+}}
+'''Handball at the Summer Olympics''' refers to two different sports. [[Field handball]] was introduced for men at the [[1936 Summer Olympics]] in [[Berlin]], but dropped after that. At the [[Handball at the 1952 Summer Olympics|1952 Olympics]], field handball was a demonstration sport. [[Handball|(Indoor) handball]] was introduced for men at the [[1972 Summer Olympics]] in [[Munich]]. Women's handball competition was introduced at the [[1976 Summer Olympics]] in [[Montreal]].<ref>{{Cite web|url=https://montrealgazette.com/sports/montreal-olympics-photo-flashback-more-women-competed-thanks-to-three-new-events |archive-url=https://web.archive.org/web/20180524075011/https://montrealgazette.com/sports/montreal-olympics-photo-flashback-more-women-competed-thanks-to-three-new-events |archive-date=2018-05-24 |title=Montreal Olympics photo flashback: More women competed thanks to three new events &#124; Montreal Gazette|date=24 May 2018}}</ref>
+
+==Men's tournaments==
+===Summary===
+{| class="wikitable" style="font-size:90%; text-align: center;"
+|-
+! rowspan="2" | Year
+! rowspan="2" | Host
+! rowspan="19" |
+! colspan="3"| Gold medal match
+! rowspan="19"|
+! colspan="3"| Bronze medal match
+! rowspan="19" |
+! rowspan="2" | Teams
+|-
+! style="background-color: gold;"|Gold medalists
+! Score
+! style="background-color: silver;"|Silver medalists
+! style="background-color: #cc9966;"|Bronze medalists
+! Score
+! 4th-place finishers
+|-
+| 1936<ref>In 1936, it was played as [[Field handball]].</ref><br />[[Handball at the 1936 Summer Olympics|Details]]
+| {{flagicon|Nazi Germany}}<br />[[Berlin]]
+| '''{{hb-big|Germany|1935}}'''
+| [[Round-robin tournament|Round robin]]
+| {{hb-big|AUT}}
+| {{hb-big|SUI}}
+| [[Round-robin tournament|Round robin]]
+| {{hb-big|HUN|1920}}
+| 6
+|-
+| 1972<br />[[Handball at the 1972 Summer Olympics|Details]]
+| {{flagicon|West Germany}}<br />[[Munich]]
+| '''{{hb-big|YUG}}'''
+| '''21–16'''
+| {{hb-big|TCH}}
+| {{hb-big|ROM|1965}}
+| '''19–16'''
+| {{hb-big|GDR}}
+| 16
+|-
+| 1976<br />[[Handball at the 1976 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|Canada}}<br />[[Montreal]]
+| '''{{hb-big|URS|1955}}'''
+| '''19–15'''
+| {{hb-big|ROM|1965}}
+| {{hb-big|POL|1928}}
+| '''21–18'''
+| {{hb-big|GER|name=West Germany}}
+| 12
+|-
+| 1980<br />[[Handball at the 1980 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|Soviet Union|1955}}<br />[[Moscow]]
+| '''{{hb-big|GDR}}'''
+| '''23–22 ([[Overtime (sports)#Handball|ET]])'''
+| {{hb-big|URS|1955}}
+| {{hb-big|ROM|1965}}
+| '''20–18'''
+| {{hb-big|HUN}}
+| 12
+|-
+| 1984<br />[[Handball at the 1984 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|United States}}<br />[[Los Angeles]]
+| '''{{hb-big|YUG}}'''
+| '''18–17'''
+| {{hb-big|GER|name=West Germany}}
+| {{hb-big|ROM|1965}}
+| '''23–19'''
+| {{hb-big|DEN}}
+| 12
+|-
+| 1988<br />[[Handball at the 1988 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|South Korea|1984}}<br />[[Seoul]]
+| '''{{hb-big|URS}}'''
+| '''32–25'''
+| {{hb-big|KOR|1984}}
+| {{hb-big|YUG}}
+| '''27–23'''
+| {{hb-big|HUN}}
+| 12
+|-
+| 1992<br />[[Handball at the 1992 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|Spain}}<br />[[Barcelona]]
+| '''[[Image:Olympic flag.svg|30px|border|alt=|link=]]<br />[[Unified Team at the 1992 Summer Olympics|Unified Team]]'''
+| '''22–20'''
+| {{hb-big|SWE}}
+| {{hb-big|FRA}}
+| '''24–20'''
+| {{hb-big|ISL}}
+| 12
+|-
+| 1996<br />[[Handball at the 1996 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|United States}}<br />[[Atlanta]]
+| '''{{hb-big|CRO}}'''
+| '''27–26'''
+| {{hb-big|SWE}}
+| {{hb-big|ESP}}
+| '''27–25'''
+| {{hb-big|FRA}}
+| 12
+|-
+| 2000<br />[[Handball at the 2000 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|Australia}}<br />[[Sydney]]
+| '''{{hb-big|RUS}}'''
+| '''28–26'''
+| {{hb-big|SWE}}
+| {{hb-big|ESP}}
+| '''26–22'''
+| {{hb-big|FRY}}
+| 12
+|-
+| 2004<br />[[Handball at the 2004 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|Greece}}<br />[[Athens]]
+| '''{{hb-big|CRO}}'''
+| '''26–24'''
+| {{hb-big|GER}}
+| {{hb-big|RUS}}
+| '''28–26'''
+| {{hb-big|HUN}}
+| 12
+|-
+| 2008<br />[[Handball at the 2008 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|China}}<br />[[Beijing]]
+| '''{{hb-big|FRA}}'''
+| '''28–23'''
+| {{hb-big|ISL}}
+| {{hb-big|ESP}}
+| '''35–29'''
+| {{hb-big|CRO}}
+| 12
+|-
+| 2012<br />[[Handball at the 2012 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|Great Britain}}<br />[[London]]
+| '''{{hb-big|FRA}}'''
+| '''22–21'''
+| {{hb-big|SWE}}
+| {{hb-big|CRO}}
+| '''33–26'''
+| {{hb-big|HUN}}
+| 12
+|-
+| 2016<br />[[Handball at the 2016 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|Brazil}}<br />[[Rio de Janeiro]]
+| '''{{hb-big|DEN}}'''
+| '''28–26'''
+| {{hb-big|FRA}}
+| {{hb-big|GER}}
+| '''31–25'''
+| {{hb-big|POL}}
+| 12
+|-
+| 2020<br />[[Handball at the 2020 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|Japan}}<br />[[Tokyo]]
+| '''{{hb-big|FRA}}'''
+| '''25–23'''
+| {{hb-big|DEN}}
+| {{hb-big|ESP}}
+| '''33–31'''
+| {{hb-big|EGY}}
+| 12
+|-
+| 2024<br >[[Handball at the 2024 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|France}}<br>[[Paris]]
+| '''{{hb-big|DEN}}'''
+| '''39–26'''
+| {{hb-big|GER}}
+| {{hb-big|ESP}}
+| '''23–22'''
+| {{hb-big|SLO}}
+| 12
+|-
+| 2028<br >[[Handball at the 2028 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|United States}}<br>[[Los Angeles]]
+| 
+| 
+| 
+| 
+| 
+| 
+| 12
+|-
+| 2032<br >[[Handball at the 2032 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|Australia}}<br>[[Brisbane]]
+| 
+| 
+| 
+| 
+| 
+| 
+| 12
+|}
+
+===Medal table===
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagIOC
+ | event          = 
+ | team           = 
+ | gold_FRA = 3 | silver_FRA = 1 | bronze_FRA = 1
+ | gold_DEN = 2 | silver_DEN = 1 | bronze_DEN = 0
+ | gold_URS = 2 | silver_URS = 1 | bronze_URS = 0 | name_URS = ''{{flagIOC|URS}}''
+ | gold_CRO = 2 | silver_CRO = 0 | bronze_CRO = 1
+ | gold_YUG = 2 | silver_YUG = 0 | bronze_YUG = 1 | name_YUG = ''{{flagIOC|YUG}}''
+ | gold_GER = 1 | silver_GER = 2 | bronze_GER = 1
+ | gold_RUS = 1 | silver_RUS = 0 | bronze_RUS = 1
+ | gold_EUN = 1 | silver_EUN = 0 | bronze_EUN = 0 | name_EUN = ''{{flagIOC|EUN}}''
+ | gold_GDR = 1 | silver_GDR = 0 | bronze_GDR = 0 | name_GDR = ''{{flagIOC|GDR}}''
+ | gold_SWE = 0 | silver_SWE = 4 | bronze_SWE = 0
+ | gold_ROU = 0 | silver_ROU = 1 | bronze_ROU = 3
+ | gold_AUT = 0 | silver_AUT = 1 | bronze_AUT = 0
+ | gold_TCH = 0 | silver_TCH = 1 | bronze_TCH = 0 | name_TCH = ''{{flagIOC|TCH}}''
+ | gold_ISL = 0 | silver_ISL = 1 | bronze_ISL = 0
+ | gold_KOR = 0 | silver_KOR = 1 | bronze_KOR = 0
+ | gold_FRG = 0 | silver_FRG = 1 | bronze_FRG = 0 | name_FRG = ''{{flagIOC|FRG}}''
+ | gold_ESP = 0 | silver_ESP = 0 | bronze_ESP = 5
+ | gold_POL = 0 | silver_POL = 0 | bronze_POL = 1
+ | gold_SUI = 0 | silver_SUI = 0 | bronze_SUI = 1
+}}
+
+===Participating nations===
+;Legend
+*{{bg|gold|1st}} – Champions
+*{{bg|silver|2nd}} – Runners-up
+*{{bg|#cc9966|3rd}} – Third place
+*{{bg|#9acdff|4th}} – Fourth place
+*{{border|width=1px|color=gray|&nbsp;•&nbsp;}} – Did not enter / Did not qualify
+*{{border|width=3px|color=purple|&nbsp;&nbsp;}} – Hosts
+*= – More than one team tied for that rank
+*Q – Qualified for forthcoming tournament
+
+{| class="wikitable sortable" style="text-align:center; font-size:90%"
+! width=170|Nation
+! {{flagicon|GER|1935}}<br />[[Handball at the 1936 Summer Olympics|1936]]!!{{flagicon|GER}}<br />[[Handball at the 1972 Summer Olympics|1972]]!!{{flagicon|CAN}}<br />[[Handball at the 1976 Summer Olympics|1976]]!!{{flagicon|URS}}<br />[[Handball at the 1980 Summer Olympics|1980]]!!{{flagicon|USA}}<br />[[Handball at the 1984 Summer Olympics|1984]]!!{{flagicon|KOR}}<br />[[Handball at the 1988 Summer Olympics|1988]]!!{{flagicon|ESP}}<br />[[Handball at the 1992 Summer Olympics – Men's tournament|1992]]!!{{flagicon|USA}}<br />[[Handball at the 1996 Summer Olympics – Men's tournament|1996]]!!{{flagicon|AUS}}<br />[[Handball at the 2000 Summer Olympics – Men's tournament|2000]]!!{{flagicon|GRE}}<br />[[Handball at the 2004 Summer Olympics – Men's tournament|2004]]!!{{flagicon|CHN}}<br />[[Handball at the 2008 Summer Olympics – Men's tournament|2008]]!!{{flagicon|GBR}}<br />[[Handball at the 2012 Summer Olympics – Men's tournament|2012]]!!{{flagicon|BRA}}<br />[[Handball at the 2016 Summer Olympics – Men's tournament|2016]]!!{{flagicon|JPN}}<br />[[Handball at the 2020 Summer Olympics – Men's tournament|2020]]!!{{flagicon|FRA}}<br />[[Handball at the 2024 Summer Olympics – Men's tournament|2024]]!!{{flagicon|USA}}<br />[[Handball at the 2028 Summer Olympics – Men's tournament|2028]]!!{{flagicon|AUS}}<br />[[Handball at the 2032 Summer Olympics – Men's tournament|2032]]!!Years
+|-
+|align=left|{{hb|ALG}}
+|•||•||•||10th||12th||10th||•||10th||•||•||•||•||•||•||•|| || || '''4'''
+|-
+|align=left|{{hb|ARG}}
+|•||•||•||•||•||•||•||•||•||•||•||10th||10th||12th||12th|| || || '''4'''
+|-
+|align=left|{{hb|AUS}}
+|•||•||•||•||•||•||•||•||style="border:3px solid purple"| 12th||•||•||•||•||•||•|| || style="border:3px solid purple"|Q || '''2'''
+|-
+|align=left|{{hb|AUT}}
+| bgcolor=silver|2nd||•||•||•||•||• ||•||•||•||•||•||•||•||•||•|| || || '''1'''
+|-
+|align=left|{{hb|BHR}}
+|•||•||•||•||•||•||•||•||•||•||•||•||•||8th||•|| || || '''1'''
+|-
+|align=left|{{hb|BRA}}
+|•||•||•||•||•||•||12th||11th||•||10th||11th||•||style="border:3px solid purple"|7th||10th||•|| || || '''6'''
+|-
+|align=left|{{hb|CAN}}
+|•||•||style="border:3px solid purple"|11th||•||•||•||•||•||•||•||•||•||•||•||•|| || || '''1'''
+|-
+|align=left|{{hb|CHN}}
+|•||•||•||•||•||•||•||•||•||• ||style="border:3px solid purple"|12th||•||•||•||•|| || || '''1'''
+|-
+|align=left|{{hb|CRO}}
+|colspan=6|Part of {{hb|YUG}}||•||bgcolor=gold|1st||•||bgcolor=gold|1st||bgcolor=#9acdff|4th||bgcolor=#cc9966|3rd||5th||•||9th|| || || '''6'''
+|-
+|align=left|{{hb|CUB}}
+|•||•||•||11th||•||•||•||•||11th||•||•||•||•||•||•|| || || '''2'''
+|-
+|align=left|{{hb|DEN}}
+|•||13th||8th||9th||bgcolor=#9acdff|4th||•||•||•||•||•||7th||6th||bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=gold|1st|| || || '''9'''
+|-
+|align=left|{{hb|EGY}}
+|•||•||•||•||•||•||11th||6th||7th||12th||10th||•||9th||bgcolor=#9acdff|4th||5th|| || || '''8'''
+|-
+|align=left|{{hb|FRA}}
+|•||•||•||•||•||•||bgcolor=#cc9966|3rd||bgcolor=#9acdff|4th||6th||5th||bgcolor=gold|1st||bgcolor=gold|1st||bgcolor=silver|2nd|| bgcolor=gold|1st||style="border:3px solid purple"|8th|| || || '''9'''
+|-
+|align=left|{{hb|GER}}
+|style="border:3px solid purple" bgcolor=gold|1st||colspan=5|See {{hb|GDR|name=GDR}} and {{hb|FRG|name=FRG}}||10th||7th||5th||bgcolor=silver|2nd||9th||•||bgcolor=#cc9966|3rd||6th||bgcolor=silver|2nd|| || || '''9'''
+|-
+|align=left|{{hb|GBR}}
+|•||•||•||•||•||•||•||•||•||•||•||style="border:3px solid purple"|12th||•||•||•|| || || '''1'''
+|-
+|align=left|{{hb|GRE}}
+|•||•||•||•||•||•||•||•||•||style="border:3px solid purple"|6th||•||•||•||•||•|| || || '''1'''
+|-
+|align=left|{{hb|HUN}}
+|bgcolor=#9acdff|4th||8th||6th||bgcolor=#9acdff|4th||•||bgcolor=#9acdff|4th||7th||•||•||bgcolor=#9acdff|4th||•||bgcolor=#9acdff|4th||•||•||10th|| || || '''9'''
+|-
+|align=left|{{hb|ISL}}
+|•||12th||•||•||6th||8th||bgcolor=#9acdff|4th||•||•||9th||bgcolor=silver|2nd||5th||•||•||•|| || || '''7'''
+|-
+|align=left|{{hb|JPN}}
+|•||11th||9th||•||10th||11th||•||•||•||•||•||•||•||style="border:3px solid purple"|11th||11th|| || || '''6'''
+|-
+|align=left|{{hb|KUW}}
+|•||•||•||12th||•||•||•||12th||•||•||•||•||•||•||•|| || || '''2'''
+|-
+|align=left|{{hb|NOR}}
+|•||9th||•||•||•||•||•||•||•||•||•||•||•||7th||6th|| || || '''3'''
+|-
+|align=left|{{hb|POL}}
+|•||10th||bgcolor=#cc9966|3rd||7th||•||•||•||•||•||•||5th||•||bgcolor=#9acdff|4th||•||•|| || || '''5'''
+|-
+|align=left|{{hb|POR}}
+|•||•||•||•||•||•||•||•||•||•||•||•||•||9th||•|| || || '''1'''
+|-
+|align=left|{{hb|QAT}}
+|•||•||•||•||•||•||•||•||•||•||•||•||8th||•||•|| || || '''1'''
+|-
+|align=left|{{hb|ROU}}
+| 5th || bgcolor=#cc9966|3rd|| bgcolor=silver|2nd|| bgcolor=#cc9966|3rd|| bgcolor=#cc9966|3rd||•|| 8th ||•||•||•||•||•||•||•||•|| || || '''6'''
+|-
+|align=left|{{hb|RUS}}
+|colspan=7|See {{hb|URS}}|| 5th || bgcolor=gold|1st|| bgcolor=#cc9966|3rd|| 6th ||•||•||•||•|| || || '''4'''
+|-
+|align=left|{{hb|SRB}}
+|colspan=6|See {{hb|YUG}}||colspan=4|See {{hb|SCG}}||•|| 9th ||•||•||•|| || || '''1'''
+|-
+|align=left|{{hb|SLO}}
+|colspan=6|Part of {{hb|YUG}}||•||•|| 8th || 11th ||•||•|| 6th ||•||bgcolor=#9acdff|4th|| || || '''4'''
+|-
+|align=left|{{hb|KOR}}
+|•||•||•||•|| 11th || style="border:3px solid purple" bgcolor=silver|2nd|| 6th ||•|| 9th || 8th || 8th || 11th ||•||•||•|| || || '''7'''
+|-
+|align=left|{{hb|ESP}}
+|•|| 15th ||•|| 5th || 8th || 9th || style="border:3px solid purple"| 5th || bgcolor=#cc9966|3rd|| bgcolor=#cc9966|3rd|| 7th || bgcolor=#cc9966|3rd|| 7th ||•|| bgcolor=#cc9966|3rd||bgcolor=#cc9966|3rd|| || || '''12'''
+|-
+|align=left|{{hb|SWE}}
+|•|| 7th ||•||•|| 5th || 5th || bgcolor=silver|2nd|| bgcolor=silver|2nd|| bgcolor=silver|2nd||•||•|| bgcolor=silver|2nd|| 11th || 5th ||7th|| || || '''10'''
+|-
+|align=left|{{hb|SUI}}
+| bgcolor=#cc9966|3rd||•||•|| 8th || 7th ||•||•|| 8th ||•||•||•||•||•||•||•|| || || '''4'''
+|-
+|align=left|{{hb|TUN}}
+|•|| 16th || WD ||•||•||•||•||•|| 10th ||•||•|| 8th || 12th ||•||•|| || || '''5'''
+|-
+|align=left|{{hb|USA}}
+| 6th || 14th || 10th ||•|| style="border:3px solid purple"| 9th || 12th ||•|| style="border:3px solid purple"| 9th ||•||•||•||•||•||•||•|| style="border:3px solid purple"|Q || || '''7'''
+|-
+|align="center" colspan=19|'''Discontinued nations'''
+|-
+|align=left|''{{hb|TCH}}''
+|•|| bgcolor=silver|2nd|| 7th ||•||•|| 6th || 9th || colspan=10|See {{hb|CZE}} || '''4'''
+|-
+|align=left|''{{hb|GDR}}''
+|{{hb|size=15px|GER|name=<small>G</small>}}|| 4th ||•|| bgcolor=gold|1st||•|| 7th || colspan=11|See {{hb|GER}} || '''3'''
+|-
+|align=left|''{{hb|SCG}}''
+|colspan=6|See {{hb|YUG}}||•||•|| bgcolor=#9acdff|4th||•||colspan=7|See {{hb|SRB}}|| '''1'''{{efn-ua|name=Serbia and Montenegro|Serbia and Montenegro's total includes one appearance as [[Federal Republic of Yugoslavia]] in 2000.}}
+|-
+|align=left|''{{hb|URS}}''
+|•|| 5th || bgcolor=gold|1st||style="border:3px solid purple" bgcolor=silver|2nd||•|| bgcolor=gold|1st|| bgcolor=gold|1st || colspan=10|See {{hb|RUS}} || '''5'''{{efn-ua|name=Soviet Union|Soviet Union's total includes one appearance as [[Unified Team at the 1992 Summer Olympics|Unified Team]] in 1992.}}
+|-
+|align=left|''{{hb|GER|name=West Germany}}''
+|{{hb|size=15px|GER|name=<small>G</small>}}|| style="border:3px solid purple"|6th || bgcolor=#9acdff|4th||•|| bgcolor=silver|2nd||•||colspan=11|See {{hb|GER}} || '''3'''
+|-
+|align=left|''{{hb|YUG}}''
+|•|| bgcolor=gold|1st|| 5th || 6th || bgcolor=gold|1st|| bgcolor=#cc9966|3rd||colspan=4|See {{hb|SCG}}||colspan=7|See {{hb|SRB}}|| '''5'''
+|-
+! Total || 6 || 16 || 12 || 12 || 12 || 12 || 12 || 12 || 12 || 12 || 12 || 12 || 12 || 12 || 12 || 12 || 12 ||
+|}
+
+==Women's tournaments==
+===Summary===
+{| class="wikitable" style="font-size:90%; width: 100%; text-align: center;"
+|-
+!rowspan="2" style="width: 6%;"| Year
+!rowspan="2" style="width: 12%;"| Host
+! rowspan="17" style="width: 1%; background-color: #ffffff;" |
+!colspan="3"| Gold medal match
+!rowspan="17" style="width: 1%; background-color: #ffffff;"|
+!colspan="3"| Bronze medal match
+! rowspan="17" style="width: 1%; background-color: #ffffff;" |
+!rowspan="2" style="width: 5%;"| Teams
+|-
+!style="width: 14%; background-color: gold;"|Gold medalists
+!style="width: 9%;"|Score
+!style="width: 14%; background-color: silver;"|Silver medalists
+!style="width: 14%; background-color: #cc9966;"|Bronze medalists
+!style="width: 9%;"|Score
+!style="width: 14%;"|4th-place finishers
+|-
+| 1976<br />[[Handball at the 1976 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|Canada}}<br />[[Montreal]]
+| '''{{hbw-big|URS|1955}}'''
+| [[Round-robin tournament|Round robin]]
+| {{hbw-big|GDR}}
+| {{hbw-big|HUN}}
+| [[Round-robin tournament|Round robin]]
+| {{hbw-big|ROM|1965}}
+| 6
+|-
+| 1980<br />[[Handball at the 1980 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|Soviet Union|1955}}<br />[[Moscow]]
+| '''{{hbw-big|URS|1955}}'''
+| [[Round-robin tournament|Round robin]]
+| {{hbw-big|YUG}}
+| {{hbw-big|GDR}}
+| [[Round-robin tournament|Round robin]]
+| {{hbw-big|HUN}}
+| 6
+|-
+| 1984<br />[[Handball at the 1984 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|United States}}<br />[[Los Angeles]]
+| '''{{hbw-big|YUG}}'''
+| [[Round-robin tournament|Round robin]]
+| {{hbw-big|KOR|1984}}
+| {{hbw-big|CHN}}
+| [[Round-robin tournament|Round robin]]
+| {{hbw-big|GER|name=West Germany}}
+| 6
+|-
+| 1988<br />[[Handball at the 1988 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|South Korea|1984}}<br />[[Seoul]]
+| '''{{hbw-big|KOR|1984}}'''
+| [[Round-robin tournament|Round robin]]
+| {{hbw-big|NOR}}
+| {{hbw-big|URS}}
+| [[Round-robin tournament|Round robin]]
+| {{hbw-big|YUG}}
+| 8
+|-
+| 1992<br />[[Handball at the 1992 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|Spain}}<br />[[Barcelona]]
+| '''{{hbw-big|KOR|1984}}'''
+| '''28–21'''
+| {{hbw-big|NOR}}
+| [[Image:Olympic flag.svg|30px|border|alt=|link=]]<br /> [[Unified Team at the 1992 Summer Olympics|Unified Team]]
+| '''24–20'''
+| {{hbw-big|GER}}
+| 8
+|-
+| 1996<br />[[Handball at the 1996 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|United States}}<br />[[Atlanta]]
+| '''{{hbw-big|DEN}}'''
+| '''37–33 ([[Overtime (sports)#Handball|ET]])'''
+| {{hbw-big|KOR|1984}}
+| {{hbw-big|HUN}}
+| '''20–18'''
+| {{hbw-big|NOR}}
+| 8
+|-
+| 2000<br />[[Handball at the 2000 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|Australia}}<br />[[Sydney]]
+| '''{{hbw-big|DEN}}'''
+| '''31–27'''
+| {{hbw-big|HUN}}
+| {{hbw-big|NOR}}
+| '''22–21'''
+| {{hbw-big|KOR|1997}}
+| 10
+|-
+| 2004<br />[[Handball at the 2004 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|Greece}}<br />[[Athens]]
+| '''{{hbw-big|DEN}}'''
+| '''34–34 ([[Overtime (sports)#Handball|ET]], [[Penalty shootout#Handball|pen]]: 4–2)'''
+| {{hbw-big|KOR|1997}}
+| {{hbw-big|UKR}}
+| '''21–18'''
+| {{hbw-big|FRA}}
+| 10
+|-
+| 2008<br />[[Handball at the 2008 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|China}}<br />[[Beijing]]
+| '''{{hbw-big|NOR}}'''
+| '''34–27'''
+| {{hbw-big|RUS}}
+| {{hbw-big|KOR|1997}}
+| '''33–28'''
+| {{hbw-big|HUN}}
+| 12
+|-
+| 2012<br />[[Handball at the 2012 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|Great Britain}}<br />[[London]]
+| '''{{hbw-big|NOR}}'''
+| '''26–23'''
+| {{hbw-big|MNE}}
+| {{hbw-big|ESP}}
+| '''31–29'''
+| {{hbw-big|KOR}}
+| 12
+|-
+| 2016<br />[[Handball at the 2016 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|Brazil}}<br />[[Rio de Janeiro]]
+| '''{{hbw-big|RUS}}'''
+| '''22–19'''
+| {{hbw-big|FRA}}
+| {{hbw-big|NOR}}
+| '''36–26'''
+| {{hbw-big|NED}}
+| 12
+|-
+| 2020<br />[[Handball at the 2020 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|Japan}}<br/>[[Tokyo]]
+|'''{{hbw-big|FRA}}'''
+|'''30–25'''
+|{{hbw-big|RUS|roc-olympics|name=ROC}}
+|{{hbw-big|NOR}}
+|'''36–19'''
+|{{hbw-big|SWE}}
+| 12
+|-
+| 2024<br />[[Handball at the 2024 Summer Olympics – Women's tournament|Details]]
+| {{flagicon|France}}<br>[[Paris]]
+|'''{{hbw-big|NOR}}'''
+|'''29–21'''
+|{{hbw-big|FRA}}
+|{{hbw-big|DEN}}
+|'''30–25'''
+|{{hbw-big|SWE}}
+| 12
+|-
+| 2028<br >[[Handball at the 2028 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|United States}}<br>[[Los Angeles]]
+| 
+| 
+| 
+|
+|
+|
+| 12
+|-
+| 2032<br >[[Handball at the 2032 Summer Olympics – Men's tournament|Details]]
+| {{flagicon|Australia}}<br>[[Brisbane]]
+| 
+| 
+| 
+| 
+| 
+|
+| 12
+|}
+
+===Medal table===
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagIOC
+ | event          = 
+ | team           = 
+ | gold_NOR = 3 | silver_NOR = 2 | bronze_NOR = 3
+ | gold_DEN = 3 | silver_DEN = 0 | bronze_DEN = 1
+ | gold_KOR = 2 | silver_KOR = 3 | bronze_KOR = 1
+ | gold_URS = 2 | silver_URS = 0 | bronze_URS = 1 | name_URS = ''{{flagIOC|URS}}''
+ | gold_FRA = 1 | silver_FRA = 2 | bronze_FRA = 0
+ | gold_RUS = 1 | silver_RUS = 1 | bronze_RUS = 0
+ | gold_YUG = 1 | silver_YUG = 1 | bronze_YUG = 0 | name_YUG = ''{{flagIOC|YUG}}''
+ | gold_HUN = 0 | silver_HUN = 1 | bronze_HUN = 2
+ | gold_GDR = 0 | silver_GDR = 1 | bronze_GDR = 1 | name_GDR = ''{{flagIOC|GDR}}''
+ | gold_MNE = 0 | silver_MNE = 1 | bronze_MNE = 0
+ | gold_ROC = 0 | silver_ROC = 1 | bronze_ROC = 0 | name_ROC = ''{{flagIOC|RUS|2020 Summer}} {{Font|(ROC)|size=90%}}''
+ | gold_CHN = 0 | silver_CHN = 0 | bronze_CHN = 1
+ | gold_ESP = 0 | silver_ESP = 0 | bronze_ESP = 1
+ | gold_UKR = 0 | silver_UKR = 0 | bronze_UKR = 1
+ | gold_EUN = 0 | silver_EUN = 0 | bronze_EUN = 1 | name_EUN = ''{{flagIOC|EUN}}''
+}}
+
+===Participating nations===
+;Legend
+*{{bg|gold|1st}} – Champions
+*{{bg|silver|2nd}} – Runners-up
+*{{bg|#cc9966|3rd}} – Third place
+*{{bg|#9acdff|4th}} – Fourth place
+*{{border|width=1px|color=gray|&nbsp;•&nbsp;}} – Did not enter / Did not qualify
+*{{border|width=3px|color=purple|&nbsp;&nbsp;}} – Hosts
+*= – More than one team tied for that rank
+*Q – Qualified for forthcoming tournament
+
+{| class="wikitable sortable" style="text-align:center; font-size:90%"
+! width=170|Nation
+! {{flagicon|CAN}}<br />[[Handball at the 1976 Summer Olympics|1976]]!!{{flagicon|URS}}<br />[[Handball at the 1980 Summer Olympics|1980]]!!{{flagicon|USA}}<br />[[Handball at the 1984 Summer Olympics|1984]]!!{{flagicon|KOR}}<br />[[Handball at the 1988 Summer Olympics|1988]]!!{{flagicon|ESP}}<br />[[Handball at the 1992 Summer Olympics – Women's tournament|1992]]!!{{flagicon|USA}}<br />[[Handball at the 1996 Summer Olympics – Women's tournament|1996]]!!{{flagicon|AUS}}<br />[[Handball at the 2000 Summer Olympics – Women's tournament|2000]]!!{{flagicon|GRE}}<br />[[Handball at the 2004 Summer Olympics – Women's tournament|2004]]!!{{flagicon|CHN}}<br />[[Handball at the 2008 Summer Olympics – Women's tournament|2008]]!!{{flagicon|GBR}}<br />[[Handball at the 2012 Summer Olympics – Women's tournament|2012]]!!{{flagicon|BRA}}<br />[[Handball at the 2016 Summer Olympics – Women's tournament|2016]]!!{{flagicon|JPN}}<br />[[Handball at the 2020 Summer Olympics – Women's tournament|2020]]!!{{flagicon|FRA}}<br />[[Handball at the 2024 Summer Olympics – Women's tournament|2024]]!!{{flagicon|USA}}<br />[[Handball at the 2028 Summer Olympics – Women's tournament|2028]]!!{{flagicon|AUS}}<br />[[Handball at the 2032 Summer Olympics – Women's tournament|2032]]!!Years
+|-
+|align=left|{{hbw|ANG}}
+|•||•||•||•||•||7th||9th||9th||12th||10th||8th||10th||9th|| || || '''8'''
+|-
+|align=left|{{hbw|ARG}}
+|•||•||•||•||•||•||•||•||•||•||12th||•||•|| || || '''1'''
+|-
+|align=left|{{hbw|AUS}}
+|•||•||•||•||•||•||style="border:3px solid purple"| 10th||•||•||•||•||•||•|| || style="border:3px solid purple"|Q || '''2'''
+|-
+|align=left|{{hbw|AUT}}
+|•||•||6th||•||5th||•||5th||•||•||•||•||•||•|| || || '''3'''
+|-
+|align=left|{{hbw|BRA}}
+|•||•||•||•||•||•||8th||7th||9th||6th|| style="border:3px solid purple"| 5th || 11th ||7th|| || || '''7'''
+|-
+|align=left|{{hbw|CAN}}
+| style="border:3px solid purple"|6th||•||•||•||•||•||•||•||•||•||•||•||•|| || || '''1'''
+|-
+|align=left|{{hbw|CHN}}
+|•||•||bgcolor=cc9966|3rd||6th||•|| 5th||•||8th||style="border:3px solid purple"|6th||•||•||•||•|| || || '''5'''
+|-
+|align=left|{{hbw|CGO}}
+|•||6th||•||•||•||•||•||•||•||•||•||•||•|| || || '''1'''
+|-
+|align=left|{{hbw|CRO}}
+|colspan=4|Part of {{hbw|YUG}}||•||•||•||•||•||7th||•||•||•|| || || '''1'''
+|-
+|align=left|{{hbw|DEN}}
+|•||•||•||•||•||bgcolor=gold|1st||bgcolor=gold|1st||bgcolor=gold|1st||•||9th||•||•||bgcolor=cc9966|3rd|| || || '''5'''
+|-
+|align=left|{{hbw|FRA}}
+|•||•||•||•||•||•||6th||bgcolor=#9acdff|4th||5th|| 5th||bgcolor=silver|2nd||bgcolor=gold|1st|| style="border:3px solid purple" bgcolor=silver|2nd || || || '''7'''
+|-
+|align=left|{{hbw|GER}}
+|colspan=4|See {{hbw|GDR|name=GDR}} and {{hbw|FRG|name=FRG}}||bgcolor=#9acdff|4th||6th||•||•||11th||•||•||•||8th|| || || '''4'''
+|-
+|align=left|{{hbw|GBR}}
+|•||•||•||•||•||•||•||•||•||style="border:3px solid purple"|12th||•||•||•|| || || '''1'''
+|-
+|align=left|{{hbw|GRE}}
+|•||•||•||•||•||•||•||style="border:3px solid purple"| 10th||•||•||•||•||•|| || ||'''1'''
+|-
+|align=left|{{hbw|HUN}}
+| bgcolor=cc9966|3rd||bgcolor=#9acdff|4th||•||•||•||bgcolor=cc9966|3rd||bgcolor=silver|2nd||5th||bgcolor=#9acdff|4th||•||•||7th||6th|| || || '''8'''
+|-
+|align=left|{{hbw|CIV}}
+|•||•||•||8th||•||•||•||•||•||•||•||•||•|| || || '''1'''
+|-
+|align=left|{{hbw|JPN}}
+|5th||•||•||•||•||•||•||•||•||•||•||style="border:3px solid purple"| 12th||•|| || || '''2'''
+|-
+|align=left|{{hbw|KAZ}}
+|colspan=5|Part of {{hbw|URS}}||•||•||•||10th||•||•||•||•|| || || '''1'''
+|-
+|align=left|{{hbw|MNE}}
+|colspan=4|Part of {{hbw|YUG}}||colspan=4|Part of {{hbw|SCG}}||•||bgcolor=silver|2nd||11th||6th||•|| || || '''3'''
+|-
+|align=left|{{hbw|NED}}
+|•||•||•||•||•||•||•||•||•||•||bgcolor=#9acdff|4th||5th||5th|| || || '''3'''
+|-
+|align=left|{{hbw|NGA}}
+|•||•||•||•||8th||•||•||•||•||•||•||•||•|| || || '''1'''
+|-
+|align=left|{{hbw|NOR}}
+|•||•||•||bgcolor=silver|2nd|| bgcolor=silver|2nd||bgcolor=#9acdff|4th||bgcolor=cc9966|3rd||•||bgcolor=gold|1st||bgcolor=gold|1st||bgcolor=cc9966|3rd||bgcolor=cc9966|3rd|| bgcolor=gold|1st|| || || '''9'''
+|-
+|align=left|{{hbw|ROU}}
+|bgcolor=#9acdff|4th||•||•||•||•||•||7th||•||7th||•||9th||•||•|| || || '''4'''
+|-
+|align=left|{{hbw|RUS}}
+|colspan=5|See {{hbw|URS}}||•||•||•||bgcolor=silver|2nd||8th||bgcolor=gold|1st||bgcolor=silver|2nd||•|| || || '''4'''{{efn-ua|name=ROC|Russia's total includes one appearance as [[Russian Olympic Committee athletes at the 2020 Summer Olympics|Russian Olympic Committee]] in 2020.}}
+|-
+|align=left|{{hbw|SLO}}
+|colspan=4|Part of {{hbw|YUG}}||•||•||•||•||•||•||•||•||11th|| || || '''1'''
+|-
+|align=left|{{hbw|KOR}}
+|•||•|| bgcolor=silver|2nd|| style="border:3px solid purple" bgcolor=gold|1st|| bgcolor=gold|1st|| bgcolor=silver|2nd||bgcolor=#9acdff|4th|| bgcolor=silver|2nd|| bgcolor=cc9966|3rd||bgcolor=#9acdff|4th|| 10th || 8th || 10th || || || '''11'''
+|-
+|align=left|{{hbw|ESP}}
+|•||•||•||•||style="border:3px solid purple"|7th||•||•||6th||•||bgcolor=cc9966|3rd||6th||9th||12th|| || || '''6'''
+|-
+|align=left|{{hbw|SWE}}
+|•||•||•||•||•||•||•||•||8th||11th||7th||bgcolor=#9acdff|4th||bgcolor=#9acdff|4th|| || || '''5'''
+|-
+|align=left|{{hbw|UKR}}
+|colspan=5|Part of {{hbw|URS}}||•||•||bgcolor=cc9966|3rd||•||•||•||•||•|| || || '''1'''
+|-
+|align=left|{{hbw|USA}}
+|•||•||style="border:3px solid purple"|5th||7th||6th||style="border:3px solid purple"|8th||•||•||•||•||•||•||•|| style="border:3px solid purple"|Q || || '''5'''
+|-
+| colspan="17" align="center" |'''Discontinued nations'''
+|-
+|align=left|''{{hbw|TCH}}''
+|•||5th||•||5th||•||colspan=10|See {{hbw|CZE}} || '''2'''
+|-
+|align=left|''{{hbw|GDR}}''
+| bgcolor=silver|2nd|| bgcolor=cc9966|3rd||•||•||colspan=11|See {{hbw|GER}}||'''2'''
+|-
+|align=left|''{{hbw|URS}}''
+|bgcolor=gold|1st||style="border:3px solid purple" bgcolor=gold|1st||•||bgcolor=cc9966|3rd||bgcolor=cc9966|3rd||colspan=10|See {{hbw|RUS}}|| '''4'''{{efn-ua|name=Soviet Union|Soviet Union's total includes one appearance as [[Unified Team at the 1992 Summer Olympics|Unified Team]] in 1992.}}
+|-
+|align=left|''{{hbw|GER|name=West Germany}}''
+|•||•||bgcolor=#9acdff|4th||•||colspan=11|See {{hbw|GER}}||'''1'''
+|-
+|align=left|''{{hbw|YUG}}''
+|•|| bgcolor=silver|2nd|| bgcolor=gold|1st|| bgcolor=#9acdff|4th||colspan=4|See {{hbw|SCG}}||colspan=7|See {{hbw|SRB}}|| '''3'''
+|-
+! Total || 6 || 6 || 6 || 8 || 8 || 8 || 10 || 10 || 12 || 12 || 12 || 12 || 12 || 12 || 12 ||
+|}
+
+==Overall medal table==
+The table below include teams under the name they had at the time.<ref>{{cite web |url=http://olympanalyt.com/OlympAnalytics.php?param_pagetype=MedalsByCountries&param_dbversion=&param_country=&param_games=ALL&param_sport=Handball |title=Olympic Analytics - Medals by Countries |website=olympanalyt.com |access-date=2022-01-31}}</ref> When the Soviet Union broke up in 1991 they played one last tournament in 1992 as the Unified Team, which they won for the men and got a bronze medal for the women. Russia is a break-away from the Soviet Union and ROC is Russia under another name. Croatia is a break-away from Yugoslavia, which ceased to exist in 1992. German Democratic Republic and West Germany were created after World War II. They were united into Germany in 1990.
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = FlagIOC
+ | event          = 
+ | team           = 
+ | gold_DEN = 5 | silver_DEN = 1 | bronze_DEN = 1
+ | gold_FRA = 4 | silver_FRA = 3 | bronze_FRA = 1
+ | gold_URS = 4 | silver_URS = 1 | bronze_URS = 1 | name_URS = ''{{FlagIOC|URS}}''
+ | gold_NOR = 3 | silver_NOR = 2 | bronze_NOR = 3
+ | gold_YUG = 3 | silver_YUG = 1 | bronze_YUG = 1 | name_YUG = ''{{FlagIOC|YUG}}''
+ | gold_KOR = 2 | silver_KOR = 4 | bronze_KOR = 1
+ | gold_RUS = 2 | silver_RUS = 1 | bronze_RUS = 1
+ | gold_CRO = 2 | silver_CRO = 0 | bronze_CRO = 1
+ | gold_GER = 1 | silver_GER = 2 | bronze_GER = 1
+ | gold_GDR = 1 | silver_GDR = 1 | bronze_GDR = 1 | name_GDR = ''{{FlagIOC|GDR}}''
+ | gold_EUN = 1 | silver_EUN = 0 | bronze_EUN = 1 | name_EUN = ''{{FlagIOC|EUN}}''
+ | gold_SWE = 0 | silver_SWE = 4 | bronze_SWE = 0
+ | gold_ROU = 0 | silver_ROU = 1 | bronze_ROU = 3
+ | gold_HUN = 0 | silver_HUN = 1 | bronze_HUN = 2
+ | gold_AUT = 0 | silver_AUT = 1 | bronze_AUT = 0
+ | gold_TCH = 0 | silver_TCH = 1 | bronze_TCH = 0 | name_TCH = ''{{FlagIOC|TCH}}''
+ | gold_ISL = 0 | silver_ISL = 1 | bronze_ISL = 0
+ | gold_MNE = 0 | silver_MNE = 1 | bronze_MNE = 0
+ | gold_ROC = 0 | silver_ROC = 1 | bronze_ROC = 0 | name_ROC = ''{{flagIOC|ROC|2020 Summer}} {{Font|(ROC)|size=90%}}''
+ | gold_FRG = 0 | silver_FRG = 1 | bronze_FRG = 0 | name_FRG = ''{{FlagIOC|FRG}}''
+ | gold_ESP = 0 | silver_ESP = 0 | bronze_ESP = 6
+ | gold_CHN = 0 | silver_CHN = 0 | bronze_CHN = 1
+ | gold_POL = 0 | silver_POL = 0 | bronze_POL = 1
+ | gold_SUI = 0 | silver_SUI = 0 | bronze_SUI = 1
+ | gold_UKR = 0 | silver_UKR = 0 | bronze_UKR = 1
+}}
+
+==See also==
+*[[List of Olympic venues in handball]]
+
+==Notes==
+{{notelist-ua}}
+
+==References and notes==
+{{reflist}}
+
+==External links==
+*[https://www.olympic.org/handball/12-team-tournament-men Men's results]
+*[https://www.olympic.org/handball/12-team-tournament-women Women's results]
+
+{{Footer Olympic Champions Handball - Men's tournament}}
+{{Footer Olympic Champions Handball - Women's tournament}}
+{{Handball at the Summer Olympics}}
+{{Sports at the Olympics}}
+{{International Handball}}
+{{International Handball (Men)}}
+{{International Handball (Women)}}
+{{International Handball Federation navbox}}
+
+[[Category:Handball at the Summer Olympics| ]]
+[[Category:Sports at the Summer Olympics]]
+[[Category:Handball at multi-sport events|Olympics]]

@@ -20,15 +20,22 @@ def fetch_raw(title: str, cache: Path, refresh: bool, pause: float = 3.0, lang: 
         print(f"downloading Wikipedia ({lang}): {title}", file=sys.stderr)
         url = RAW_URL.format(lang=lang, title=urllib.parse.quote(title.replace(" ", "_")))
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-        for attempt in range(4):
-            try:
-                with urllib.request.urlopen(req, timeout=30) as resp:
-                    text = resp.read().decode("utf-8")
-                break
-            except urllib.error.HTTPError as err:
-                if err.code != 429 or attempt == 3:
-                    raise
-                time.sleep(15 * (attempt + 1))
+        try:
+            for attempt in range(4):
+                try:
+                    with urllib.request.urlopen(req, timeout=30) as resp:
+                        text = resp.read().decode("utf-8")
+                    break
+                except urllib.error.HTTPError as err:
+                    if err.code != 429 or attempt == 3:
+                        raise
+                    time.sleep(15 * (attempt + 1))
+        except (urllib.error.URLError, TimeoutError, OSError) as err:
+            # The saved snapshot (data/raw/, kept in the repo) stands in when the page can't be fetched.
+            if cache.exists():
+                print(f"warning: could not download {title} ({err}); using the saved copy", file=sys.stderr)
+                return cache.read_text(encoding="utf-8")
+            raise
         cache.parent.mkdir(parents=True, exist_ok=True)
         cache.write_text(text, encoding="utf-8")
         time.sleep(pause)

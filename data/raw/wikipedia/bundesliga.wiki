@@ -1,0 +1,1073 @@
+{{short description|German association football league}}
+{{About|the German men's football league|the German women's football league|Frauen-Bundesliga|other uses}}
+{{Use British English|date=July 2021}}
+{{Use dmy dates|date=August 2021}}
+{{Infobox football league
+| name                 = Bundesliga
+| logo                 = Bundesliga logo (2017).svg
+| pixels               = 180px
+| organiser            = [[Bundesliga-Gruppe]]
+| country              = Germany
+| confed               = [[UEFA]]
+| leader_title         = Chairman
+| leader               = [[Hans-Joachim Watzke]]
+| founded              = {{start date and age|df=yes|1963|8|24}}
+| teams                = [[#Clubs|18]] (since [[1992–93 Bundesliga|1992–93]])
+| relegation           = [[2. Bundesliga]]
+| level                = [[German football league system|1]]
+| domest_cup           = {{unbulleted list|[[DFB-Pokal]]<br />[[Franz Beckenbauer Supercup|Supercup]]}}
+| confed_cup           = {{unbulleted list|[[UEFA Champions League]]<br />[[UEFA Europa League]]<br />[[UEFA Conference League]]}}
+| champions            = [[FC Bayern Munich|Bayern Munich]] (34th title)
+| season               = [[2025-26 Bundesliga|2025–26]]
+| most successful club = Bayern Munich (34 titles)<!-- Bayern Munich currently (2026) has 35 German titles of which 34 were won in the Bundesliga era. Bayern's first title in 1932 was not a Bundesliga title! Don't add it to the total here! -->
+| most_appearances     = {{nowrap|[[Charly Körbel]] (602)}}
+| top_goalscorer       = {{nowrap|[[Gerd Müller]] (365)}}
+| tv                   = [[Bundesliga#Media coverage|List of broadcasters]]
+| website              = {{url|https://www.bundesliga.com/|bundesliga.com}}
+| current              = [[2026–27 Bundesliga]]
+}}
+The '''Bundesliga''' ({{IPA|de|ˈbʊndəsˌliːɡa|lang|De-Bundesliga.ogg}}; {{literal translation|lk=yes|Federal League}}), sometimes referred to as the '''Fußball-Bundesliga''' ({{IPA|de|ˌfuːsbal-|}}) or '''1. Bundesliga''' ({{IPA|de|ˌeːɐ̯stə-|}}), is a professional [[association football]] league in [[Germany]] and the highest level of the [[German football league system]]. The Bundesliga comprises 18 teams and operates on a system of [[promotion and relegation]] with the [[2. Bundesliga]]. Seasons run from August to May. Games are played on Fridays, Saturdays and Sundays, with a focus on Saturdays. All Bundesliga [[football club (association football)|clubs]] take part in the [[DFB-Pokal]] cup competition. The winner of the Bundesliga qualifies for the [[Franz Beckenbauer Supercup|DFL-Supercup]].
+
+The Bundesliga was founded in 1962 in [[Dortmund]]<ref>{{Cite web|url=https://www.dfb.de/en/leagues/bundesliga/history/|title=History :: Bundesliga :: Leagues :: DFB – Deutscher Fußball-Bund e.V.|website=dfb.de|access-date=17 August 2020|archive-date=28 February 2016|archive-url=https://web.archive.org/web/20160228222614/https://www.dfb.de/en/leagues/bundesliga/history/|url-status=live}}</ref>, with the first season beginning in 1963–64. It was run by the [[German Football Association|Deutscher Fußball-Bund]] (English: German Football Association) until the [[Deutsche Fußball Liga]] (English: German Football League) took over in 2001. Fifty-eight clubs have competed in the Bundesliga since its founding.<ref>{{cite web | url = https://www.bundesliga.com/de/bundesliga/news/holstein-kiel-aufstieg-klub-58-bundesligist-marcel-rapp-27233 | title = Herzlich willkommen in der Bundesliga, Holstein Kiel! | language = de | website = bundesliga.com | date = 12 May 2024 | access-date = 17 October 2024 | archive-date = 12 May 2024 | archive-url = https://web.archive.org/web/20240512035325/https://www.bundesliga.com/de/bundesliga/news/holstein-kiel-aufstieg-klub-58-bundesligist-marcel-rapp-27233 | url-status = live }}</ref> [[FC Bayern Munich|Bayern Munich]] has dominated with 34 of 63 titles, including 11 consecutive seasons between 2013 and 2023. Other champions include [[Borussia Dortmund]], [[Hamburger SV]], [[SV Werder Bremen|Werder Bremen]], [[Bayer Leverkusen]], [[Borussia Mönchengladbach]], and [[VfB Stuttgart]].
+
+The Bundesliga is one of Europe's top leagues, ranking fourth in the [[UEFA]] [[UEFA coefficient#Men's Association coefficient|league coefficient]] for 2024–25 based on results over the previous five seasons.<ref>{{cite web |title=Country coefficients |url=https://www.uefa.com/nationalassociations/uefarankings/country/ |access-date=18 November 2022 |website=[[UEFA]] |date=July 2018 |archive-date=2 November 2021 |archive-url=https://web.archive.org/web/20211102093931/https://www.uefa.com/memberassociations/uefarankings/country/ |url-status=live }}</ref> The Bundesliga led the UEFA ranking [[UEFA coefficient#Men's Association coefficient|from 1976 to 1984 and in 1990]], and has produced the [[UEFA coefficient#Top club by period|continent’s top-rated club]] seven times. Bundesliga clubs have won eight [[UEFA Champions League]], seven [[UEFA Europa League]], four [[UEFA Cup Winners' Cup|European Cup Winners' Cup]], two [[UEFA Super Cup]], two [[FIFA Club World Cup]], and three [[Intercontinental Cup (1960–2004)|Intercontinental Cup]] titles. Its players have received nine [[Ballon d'Or]] awards, two [[The Best FIFA Men's Player]] awards, six [[European Golden Shoe]], and three [[UEFA Men's Player of the Year]] awards, including [[UEFA Club Footballer of the Year]]. The Bundesliga is the second-highest league by average attendance as of 2024–25, with 38,656 spectators per game, behind only England's [[Premier League]].<ref name="Attendance2025">[https://www.weltfussball.de/zuschauer/bundesliga-2024-2025/1/ Bundesliga 2024/25 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20250526170835/https://www.weltfussball.de/zuschauer/bundesliga-2024-2025/1/ |date=26 May 2025 }} {{in lang|de}} weltfussball.de, Spectator figures 2024–25. Retrieved 25 May 2025</ref><ref name="PremierLeagueAttendance">[https://www.weltfussball.de/zuschauer/eng-premier-league-2024-2025/1/ Premier League 2024/25 » Attendance] {{Webarchive|url=https://web.archive.org/web/20250525154614/https://www.weltfussball.de/zuschauer/eng-premier-league-2024-2025/1/ |date=25 May 2025 }} weltfussball.de. Retrieved 25 May 2025</ref>
+
+==Structure==
+The Bundesliga is composed of two divisions: the 1. Bundesliga (although it is rarely referred to with the ''First'' prefix), and, below that, the 2. Bundesliga (2nd Bundesliga), which has been the second tier of German football [[Introduction of the 2. Bundesliga|since 1974]]. The Bundesligen (plural) are professional leagues. Since 2008, the [[3. Liga]] (3rd League) in Germany has also been a professional league, but may not be called Bundesliga because the league is run by the German Football Association (DFB) and not, as are the two Bundesligen, by the [[Deutsche Fußball Liga|German Football League]] (DFL).
+
+Below the level of the 3. Liga, leagues are generally subdivided on a regional basis. For example, the Regionalligen are currently made up of the Nord (North), Nordost (Northeast), Süd (South), Südwest (Southwest) and West divisions. Below this are thirteen parallel divisions, most of which are called Oberligen (upper leagues) which represent federal states or large urban and geographical areas. The levels below the [[Oberliga (football)|Oberligen]] differ between the local areas. The league structure has changed frequently and typically reflects the degree of participation in the sport in various parts of the country. In the early 1990s, changes were driven by the [[German reunification|reunification of Germany]] and the subsequent integration of the national league of East Germany.
+
+Every team in the two Bundesligen must have a licence to play in the league, or else they are relegated into the regional leagues. To obtain a licence, teams must be financially healthy and meet certain standards of conduct as organisations.
+
+As in other national leagues, there are significant benefits to being in the top division:
+*A greater share of television broadcast licence revenues goes to 1. Bundesliga sides.
+*1. Bundesliga teams draw significantly greater levels of fan support. Average attendance in the first league is 39,512 per game—approximately twice the average of the 2. Bundesliga.
+*Greater exposure through television and higher attendance levels helps 1. Bundesliga teams attract the most lucrative sponsorships.
+*1. Bundesliga teams develop substantial financial muscle through the combination of television and gate revenues, sponsorships and marketing of their team brands. This allows them to attract and retain skilled players from domestic and international sources and to construct first-class stadium facilities.
+
+The 1. Bundesliga is financially strong, and the 2. Bundesliga has begun to evolve in a similar direction, becoming more stable organizationally and financially, and reflecting an increasingly higher standard of professional play.{{citation needed|date=September 2021}}
+
+[[File:Arena Auf Schalke hosting Schalke 04 vs Dortmund in 2009.jpg|upright=1.05|thumb|right|[[Borussia Dortmund]] against rivals [[FC Schalke 04|Schalke]], known as the [[Revierderby]], in the Bundesliga in 2009]]
+No clubs have played continuously in the Bundesliga since its foundation; on 12 May 2018, Hamburger SV was the last founding club to be relegated for the first time.<ref>{{cite web|title=Holtbys Siegtreffer kann den Abstieg nicht verhindern|url=https://www.kicker.de/hsv-gegen-mgladbach-2018-bundesliga-3827891/analyse|website=[[Kicker (magazine)|Kicker]]|publisher=kicker|access-date=13 May 2018|language=de|archive-date=23 March 2024|archive-url=https://web.archive.org/web/20240323205427/https://www.kicker.de/hsv-gegen-mgladbach-2018-bundesliga-3827891/analyse|url-status=live}}</ref><ref>{{cite news |url=http://www.chicagotribune.com/sports/soccer/ct-spt-hamburg-relegated-bundesliga-20180512-story.html |title=Hamburger SV relegated from Bundesliga for first time amid chaotic scenes |date=12 May 2018 |access-date=12 May 2018 |first=Ciaran |last=Fahey |agency=Associated Press |work=[[Chicago Tribune]] |archive-date=13 May 2018 |archive-url=https://web.archive.org/web/20180513073301/http://www.chicagotribune.com/sports/soccer/ct-spt-hamburg-relegated-bundesliga-20180512-story.html |url-status=live }}</ref>
+
+In the 2008–09 season, the Bundesliga reinstated an earlier German system of promotion and relegation, which had been in use from 1981 until 1991:
+* The bottom two finishers in the Bundesliga are automatically relegated to the 2. Bundesliga, with the top two finishers in the 2. Bundesliga taking their places.
+* The third-from-bottom club in the Bundesliga will play a two-legged tie with the third-place team from the 2. Bundesliga, with the winner taking up the final place in the following season's Bundesliga.
+
+From 1992 until 2008, a different system was used, in which the bottom three finishers of the Bundesliga were automatically relegated, to be replaced by the top three finishers in the 2. Bundesliga. From 1963 until 1981 two, or later three, teams were relegated from the Bundesliga automatically, while promotion was decided either completely or partially in [[Promotion to the Bundesliga|promotion play-offs]].
+
+The season starts in early August<ref>German National Television</ref> and lasts until late May, with a winter break of six weeks (mid-December through to the end of January). Starting with the 2002-03 season, opening matches were introduced to feature defending champions on Friday nights on the first match day. Defending champions have not lost the opening matches since then, winning 19 of the 24 matches (up to the 2025-26 season). Starting with the 2021–22 season, kick off times were changed with Friday matches starting at 8:30&nbsp;pm, Saturdays at 3:30&nbsp;pm and 6:30&nbsp;pm, and Sundays at 3:30&nbsp;pm, 5:30&nbsp;pm and 7:30&nbsp;pm.<ref>{{Cite web|title=Bundesliga kick-off times to change from the 2021/22 season|url=https://bulinews.com/news/4684/bundesliga-kick-off-times-change-from-the-2021-22-season|access-date=18 August 2021|website=Bulinews|date=3 March 2020 |language=en|archive-date=18 August 2021|archive-url=https://web.archive.org/web/20210818072056/https://bulinews.com/news/4684/bundesliga-kick-off-times-change-from-the-2021-22-season|url-status=live}}</ref>
+
+==History==
+===Origins===
+{{further|History of German football}}
+Before the formation of the Bundesliga, German football was played at an amateur level in a large number of sub-regional leagues until, in 1949, part-time (semi-) professionalism was introduced and only five regional ''Oberligen (Premier Leagues)'' remained. Regional champions played in a tournament of between eight and sixteen teams to crown a national champion.<ref name=DWStart>{{cite web |last1=Sten-Ziemons |first1=Andreas |last2=Penfold |first2=Chuck |title=The Bundesliga: How it all started 6 decades ago |url=https://www.dw.com/en/the-bundesliga-how-it-all-started-6-decades-ago/a-66599558 |website=Deutsche Welle |access-date=12 May 2025 |language=en |date=24 August 2023 |archive-date=19 March 2025 |archive-url=https://web.archive.org/web/20250319014015/https://www.dw.com/en/the-bundesliga-how-it-all-started-6-decades-ago/a-66599558 |url-status=live }}</ref> On 28 January 1900, a national association, the [[German Football Association|Deutscher Fußball Bund]] (DFB) had been founded in [[Leipzig]] with 86 member clubs. The first recognized national championship team was [[VfB Leipzig]], who beat [[DFC Prague]] 7–2 in a game played at [[Altona, Hamburg|Altona]] on 31 May 1903.
+
+Through the 1950s, there were continued calls for the formation of a single top-tier professional league for the country. Disadvantages to the tournament system included the fact that the top teams from different regions would play only once a year at most, and that single-elimination tournament meant that a less-deserving team could win if they hit a lucky streak during the tournament.<ref name=DWStart /> Another concern was that professional leagues in other countries were drawing Germany's best players away from the semi-professional domestic leagues. At the international level, the German game began to falter as German teams often fared poorly against professional teams from other countries. A key supporter of the central league concept was national team head coach [[Sepp Herberger]], who doubled as a delegate to the [[Deutscher Fußball-Bund|DFB]] national assembly from Mannheim and wanted Germany to catch up with centralized systems of Italy, Spain, and England.<ref name=BundesligaStart>{{cite web|url= http://www.bundesliga.de/en/liga/news/2006/index.php?f=36345.php |title=How everything got started| archive-url=https://web.archive.org/web/20070716015251/http://www.bundesliga.de/en/liga/news/2006/index.php?f=36345.php |archive-date=16 July 2007 |publisher=bundesliga.de }}</ref>
+
+Meanwhile, in East Germany, a separate league was established with the formation of the [[DDR-Oberliga|DS-Oberliga]] (Deutscher Sportausschuss Oberliga) in 1950. The league was renamed the Football Oberliga DFV in 1958 and was generally referred to simply as the DDR-Liga or DDR-Oberliga. The league fielded 14 teams with two relegation spots.
+
+===Foundation===
+[[File:Auswahl der Bundesligavereine 1963-64.png|400px]] 
+{{main|Introduction of the Bundesliga}}
+[[File:Westfalenhalle 1 Dortmund.JPG|thumb|right|The Bundesliga was founded at the annual DFB convention at the [[Westfalenhallen]] in [[Dortmund]] on 28 July 1962.]]
+The defeat of the national team by Yugoslavia (0–1) in a [[1962 World Cup]] quarter-final game in Chile was one impetus (of many) towards the formation of a national league. At the annual [[Deutscher Fußball-Bund|DFB]] convention under new DFB president [[Hermann Gösmann]] (elected that very day) the Bundesliga was created in [[Dortmund]] at the [[Westfalenhallen]] on 28 July 1962 to begin play starting with the [[1963–64 Bundesliga|1963–64 season]].<ref name=BundesligaStart />
+
+At the time, there were five ''Oberligen'' (premier leagues) in place representing West Germany's North, South, West, Southwest, and Berlin. East Germany, behind the Iron Curtain, maintained its separate league structure. 46 clubs applied for admission to the new league. 16 teams were selected based on their success on the field, economic criteria and representation of the various Oberligen.
+*From [[Oberliga Nord (1947–63)|Oberliga Nord]]: [[Eintracht Braunschweig]], [[SV Werder Bremen|Werder Bremen]], [[Hamburger SV]]
+*From [[Oberliga West (1947–63)|Oberliga West]]: [[Borussia Dortmund]], [[1. FC Köln]], [[MSV Duisburg|Meidericher SV Duisburg]], [[SC Preußen Münster|Preußen Münster]], [[FC Schalke 04|Schalke 04]]
+*From [[Oberliga Südwest (1945–63)|Oberliga Südwest]]: [[1. FC Kaiserslautern]], [[1. FC Saarbrücken]]
+*From [[Oberliga Süd (1945–63)|Oberliga Süd]]: [[Eintracht Frankfurt]], [[Karlsruher SC]], [[1. FC Nürnberg]], [[TSV 1860 Munich|1860 Munich]], [[VfB Stuttgart]]
+*From [[Oberliga Berlin (1945–63)|Oberliga Berlin]]: [[Hertha BSC]]
+
+The first Bundesliga games were played on 24 August 1963. Early favorite 1. FC Köln was the first Bundesliga champion with second place clubs Meidericher SV and Eintracht Frankfurt.
+
+===Reunification===
+Following [[German reunification]] in 1990, the East German leagues were merged into the West German system. [[Dynamo Dresden]] and [[FC Hansa Rostock]] were seeded into the top-tier Bundesliga division ahead of the [[1991–92 Bundesliga]], with other clubs being sorted into lower tiers.{{cn|date=November 2023}}
+
+===21st century===
+[[Gazprom]] became a major sponsor of Bundesliga football in 2006, with [[Gerhard Schröder]]'s climb to the top of the company.<ref name="dwdgp">{{cite news |title=Russia's Gazprom - Corrupt politicians and the greed of the west |url=https://www.youtube.com/watch?v=kCNHwH9MxGA |agency=YouTube |publisher=DW Documentary |date=10 February 2024 |archive-date=10 February 2024 |access-date=11 February 2024 |archive-url=https://web.archive.org/web/20240210172759/https://www.youtube.com/watch?v=kCNHwH9MxGA |url-status=live }}</ref>
+
+==Competition format==
+[[File:Elia son.JPG|upright=0.9|thumb|right|[[Son Heung-min]] of [[Hamburger SV]] against [[Eljero Elia]] of [[SV Werder Bremen|Werder Bremen]] in the [[Nordderby]]]]
+
+The German football champion is decided strictly by play in the Bundesliga. Each club plays every other club once at home and once away, which makes a total of 34 matchdays per season. Originally, a victory was worth two points, with one point for a draw and none for a loss. Since the 1995–96 season, a victory has been worth three points, while a draw remains worth a single point, and zero points are given for a loss. The club with the most points at the end of the season becomes the German champion. Currently, the top four clubs in the table qualify automatically for the group phase of the [[UEFA Champions League]]. The two teams at the bottom of the table are relegated into the 2. Bundesliga, while the top two teams in the 2. Bundesliga are promoted. The 16th-placed team (third-last) in the 1. Bundesliga and the third-placed team in the 2. Bundesliga play a two-leg play-off match. The winner of this match plays the next season in the 1. Bundesliga, and the losing side in the 2. Bundesliga.
+
+If teams are level on points, tie-breakers are applied in the following order:
+#Goal difference for the entire season
+#Total goals scored for the entire season
+#Head-to-head results (total points)
+#Head-to-head goals scored
+#Head-to-head away goals scored
+#Total away goals scored for the entire season
+
+If two clubs are still tied after all of these tie-breakers have been applied, a single match is held at a neutral site to determine the placement. However, this has never been necessary in the history of the Bundesliga.
+
+In terms of team selection, matchday squads must have no more than five non-EU representatives. Nine substitutes are permitted to be selected, from which five can be used in the duration of the game.
+
+===Changes in league structure===
+* Number of teams:
+** 1963–64 to 1964–65: 16
+** 1965–66 to 1990–91: 18
+** [[1991–92 Bundesliga|1991–92]]: 20, while the [[East Germany|East German]] league was being included after [[German reunification]]
+** Since 1992–93: 18
+* Number of teams relegated (automatic relegation except as noted):
+** 1963–64 to 1973–74: 2
+** 1974–75 to 1980–81: 3
+** 1981–82 to 1990–91: 2 automatic plus the 16th-place team in the First Bundesliga played a two-leg relegation match against the third-place team of the Second Bundesliga for the final spot in the First Bundesliga
+** 1991–92: 4
+** 1992–93 to 2007–08: 3
+** Since 2008–09: 2 automatic plus the 16th-place team in the First Bundesliga playing a two-leg relegation match against the third-place team of the Second Bundesliga for the final spot in the First Bundesliga
+
+===Qualification for European competitions===
+* 1st, 2nd, 3rd, and 4th place: League phase of [[UEFA Champions League]]
+* 5th place: League phase of [[UEFA Europa League]]
+* 6th place: Play-off round of [[UEFA Conference League]]
+* Until the 2016–17 season, an additional place in the Europa League could also be granted via the [[UEFA Fair Play ranking|UEFA Fair Play]] mechanism. This rule was maintained from the UEFA Cup. The last Bundesliga team to gain entry to the UEFA Cup via the fair play rule was [[FSV Mainz 05|Mainz 05]] in [[2005–06 UEFA Cup|2005–06]].
+* [[DFB-Pokal]] (German Cup) winner: Qualifies for the group stage of Europa League regardless of league position.
+** Until 2015–16, if the Cup winner qualified for the Champions League or Europa League by more than one method, the cup winner's place in the Europa League went to the losing cup finalist if it had not already qualified for European competition, entering the competition a stage earlier than if it had won the Cup. This rule was retained from the Europa League's predecessor, the UEFA Cup. From 2015–16, the runners-up no longer qualified for the Europa League, and the Europa League berth reserved for the DFB-Pokal winners is transferred to the highest finisher below the european qualification places.
+*** Prior to 2015–16, the team that benefited from that rule did not necessarily have to be a Bundesliga member. For example, although [[2. Bundesliga]] sides [[Alemannia Aachen]] lost to [[SV Werder Bremen|Werder Bremen]] in the [[2003–04 DFB-Pokal#Final|2004 DFB-Pokal final]], Alemannia secured an entry in the [[2004–05 UEFA Cup]], because Werder qualified for the Champions League as First Bundesliga champions.
+
+The number of German clubs which may participate in UEFA competitions is determined by [[UEFA coefficients]], which takes into account the results of a particular nation's clubs in UEFA competitions over the preceding five years.
+
+;History of European qualification
+* European Cup/Champions League:
+** Up to and including 1996–97: German champion only.
+** 1997–99: Top two teams; champions automatically into group phase, runners-up entered the qualifying round.
+** 1999–2008: Top two teams automatically into first group phase (only one group phase starting in 2003–04). Depending on the DFB's [[UEFA coefficients]] standing, either one or two other clubs (most recently one) entered at the third qualifying round; winners at this level entered the group phase.
+** 2008–11: Top two teams automatically into group phase. Third placed team had to play in the play-off round for the right to play in the group stage.
+* UEFA Cup/Europa League:
+** From 1971–72 to 1998–99, UEFA member nations could send between one and four teams to the UEFA Cup. Germany was always entitled to send at least three teams to the competition and often as many as four. From 1978–79, the number of participants was determined by the DFB's UEFA coefficient standing, prior to this the method for deciding the number of participants is unknown. The best performing teams in the league other than the champion would qualify, although if one of these teams was also winner of the [[DFB-Pokal]] then they would enter the Cup Winners' Cup instead and their UEFA Cup place would be taken by the next highest-placed team in the league (5th or 6th place). Briefly in the mid-1970s the DFB decided to allocate the last UEFA Cup place to the DFB-Pokal runner-up instead of a third or fourth team qualified by performance in the league, meaning that at this point the DFB-Pokal qualified two teams for European competition (winners for the Cup Winners' Cup, runners-up for the UEFA Cup). This policy was unique amongst UEFA member associations and was dropped after only a few seasons. Starting with the 1999–2000 season and the abolition of the Cup Winners' Cup (which was then folded into the UEFA Cup), the DFB-Pokal winner now automatically qualified for the UEFA Cup alongside, depending on the DFB's UEFA coefficients standing, between one and three extra participants (if the DFB-Pokal winner also qualified for the Champions League, they were replaced by the DFB-Pokal runner-up; if they were also qualified for the Champions League, the UEFA Cup place went to the next best placed team in the league not otherwise qualified for European competition). Since 1999, the DFB has always been entitled to enter a minimum of three clubs in the UEFA Cup/Europa League, and at times as many as four (the maximum for any European federation). Teams that entered via UEFA's Fair Play mechanism, or those that entered through the now-defunct [[UEFA Intertoto Cup|Intertoto Cup]], did not count against the national quota. From [[UEFA Intertoto Cup 2006|2006]] through the final Intertoto Cup in [[UEFA Intertoto Cup 2008|2008]], only one First Bundesliga side was eligible to enter the Intertoto Cup and possibly earn a UEFA Cup berth. For the 2005–06 season, the DFB earned an extra UEFA Cup place via the Fair Play draw; this place went to [[1. FSV Mainz 05|Mainz 05]] as the highest-ranked club in the Fair Play table of the First Bundesliga not already qualified for Europe.
+* Cup Winners' Cup (abolished after 1999):
+** The winner of the DFB-Pokal entered the Cup Winners' Cup, unless that team was also league champion and therefore competing in the European Cup/Champions League, in which case their place in the Cup Winners' Cup was taken by the DFB-Pokal runner-up. Today, the DFB-Pokal winner (if not otherwise qualified for the Champions League) enters the UEFA Europa League.
+
+==Clubs==
+{{main|List of clubs in the Bundesliga}}
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!Club
+!Position in [[2025–26 Bundesliga|2025–26]]
+!First Bundesliga season
+!Number of seasons in Bundesliga
+!First season of current spell
+!Number of seasons of current spell
+!Bundesliga titles
+!National titles
+!Last title
+|-
+|style="text-align:left;" | {{sort|Augsburg|[[FC Augsburg]]}}<sup>b</sup> || 9th || 2011–12 || 16 || 2011–12 || 16 || 0 || 0 || –
+|-
+|style="text-align:left;" | [[Bayer 04 Leverkusen|Bayer Leverkusen]]<sup>b</sup> || 6th || 1979–80 || 48 || 1979–80 || 48 || 1 || 1 || 2024
+|-
+|style="text-align:left;" | [[FC Bayern Munich|Bayern Munich]]<sup>b</sup> || 1st || 1965–66 || 62 || 1965–66 || 62 || 34 || 35 || 2026
+|-
+|style="text-align:left;" | [[Borussia Dortmund]]<sup>a</sup> || 2nd || 1963–64 || 60 || 1976–77 || 51 || 5 || 8 || 2012
+|-
+|style="text-align:left;" | [[Borussia Mönchengladbach]] || 12th || 1965–66 || 59 || 2008–09 || 19 || 5 || 5 || 1977
+|-
+|style="text-align:left;" | [[Eintracht Frankfurt]]<sup>a</sup> || 8th || 1963–64 || 58 || 2012–13 || 15 || 0 || 1 || 1959
+|-
+|style="text-align:left;" | [[SV Elversberg|SC Elversberg]] || 2nd {{nowrap|([[2025–26 2. Bundesliga|2. B]])}} || 2026–27 || 1 || 2026–27 || 1 || 0 || 0 || –
+|-
+|style="text-align:left;"| {{sort|Freiburg|[[SC Freiburg]]}} || 7th || 1993–94 || 27 || 2016–17 || 11 || 0 || 0 || –
+|-
+|style="text-align:left;" | {{sort|Hamburg|[[Hamburger SV]]}}<sup>a</sup>|| 13th || 1963–64 || 57 || 2025–26 || 2 || 3 || 6 || 1983
+|-
+|style="text-align:left;"| {{sort|Hoffenheim|[[TSG 1899 Hoffenheim|TSG Hoffenheim]]}}<sup>b</sup> || 5th || 2008–09 || 19 || 2008–09 || 19 || 0 || 0 || –
+|-
+|style="text-align:left;" | {{sort|Köln|[[1. FC Köln]]}}<sup>a</sup>|| 14th || 1963–64 || 54 || 2025–26 || 2 || 1 || 2 || 1978
+|-
+|style="text-align:left;" | {{sort|Leipzig|[[RB Leipzig]]}}<sup>b</sup> || 3rd || 2016–17 || 11 || 2016–17 || 11 || 0 || 0 || –
+|-
+|style="text-align:left;" | {{sort|Mainz|[[1. FSV Mainz 05|Mainz 05]]}} || 10th || 2004–05 || 21 || 2009–10 || 18 || 0 || 0 || –
+|-
+|style="text-align:left;" | [[SC Paderborn 07|SC Paderborn]] || 3rd {{nowrap|([[2025–26 2. Bundesliga|2. B]])}} || 2014–15 || 3 || 2026–27 || 1 || 0 || 0 || –
+|-
+|style="text-align:left;" | [[FC Schalke 04|Schalke 04]]<sup>a</sup> || 1st {{nowrap|([[2025–26 2. Bundesliga|2. B]])}} || 1963–64 || 53 || 2026–27 || 1 || 0 || 7 || 1958
+|-
+|style="text-align:left;" | {{sort|Stuttgart|[[VfB Stuttgart]]}}<sup>a</sup> || 4th || 1963–64 || 60 || 2020–21 || 7 || 3 || 5 || 2007
+|-
+|style="text-align:left;" | [[1. FC Union Berlin|Union Berlin]]<sup>b</sup> || 11th || 2019–20 || 8 || 2019–20 || 8 || 0 || 0 || –
+|-
+|style="text-align:left;" | [[SV Werder Bremen|Werder Bremen]]<sup>a</sup> || 15th || 1963–64 || 62 || 2022–23 || 5 || 4 || 4 || 2004
+|}
+
+{{smalldiv|<sup>a</sup> Founding member of the Bundesliga<br />
+<sup>b</sup> Never been relegated from the Bundesliga}}
+
+===Members for 2026–27===
+{{main|2026–27 Bundesliga}}
+{{Location map+|Germany|width=400|float=right|caption=Locations of the 2026–27 Bundesliga teams|places=
+{{Location map~|Germany|lat=48.323056|long=10.886111|label=[[FC Augsburg|Augsburg]]|position=left}}
+{{Location map~|Germany|lat=52.457222|long=13.568056|label=[[1. FC Union Berlin|Berlin]]|position=left}}
+{{Location map~|Germany|lat=53.066389|long= 8.8375  |label=[[SV Werder Bremen|Bremen]]|position=left}}
+{{Location map~|Germany|lat=51.4925  |long= 7.451667|label=[[Borussia Dortmund|Dortmund]]|position=right}}
+{{Location map~|Germany|lat=49.318611|long= 7.121667|label=[[SV Elversberg|Elversberg]]|position=top}}
+{{Location map~|Germany|lat=50.068056|long= 8.645806|label=[[Eintracht Frankfurt|Frankfurt]]|position=right}}
+{{Location map~|Germany|lat=48.0216  |long= 7.8297  |label=[[SC Freiburg|Freiburg]]|position=right}}
+{{Location map~|Germany|lat=51.174722|long= 6.385556|label=[[Borussia Mönchengladbach|Gladbach]]|position=top}}
+{{Location map~|Germany|lat=53.587095|long= 9.898711|label=[[Hamburger SV|Hamburg]]|position=top}}
+{{Location map~|Germany|lat=49.238056|long= 8.8875  |label=[[TSG 1899 Hoffenheim|Hoffenheim]]|position=right}}
+{{Location map~|Germany|lat=50.933611|long= 6.874697|label=[[1. FC Köln|Köln]]|position=bottom}}
+{{Location map~|Germany|lat=51.34575 |long=12.348278|label=[[RB Leipzig|Leipzig]]|position=right}}
+{{Location map~|Germany|lat=51.038333|long= 7.002222|label=[[Bayer 04 Leverkusen|Leverkusen]]|position=right}}
+{{Location map~|Germany|lat=50.000928|long= 8.245731|label=[[1. FSV Mainz 05|Mainz]]|position=left}}
+{{Location map~|Germany|lat=48.218889|long=11.624722|label=[[FC Bayern Munich|Munich]]|position=right}}
+{{Location map~|Germany|lat=51.730703|long= 8.711028|label=[[SC Paderborn 07|Paderborn]]|position=right}}
+{{Location map~|Germany|lat=51.554498|long= 7.067554|label=[[FC Schalke 04|Schalke]]|position=top}}
+{{Location map~|Germany|lat=48.792222|long= 9.231944|label=[[VfB Stuttgart|Stuttgart]]|position=left}}
+}}
+
+{| class="wikitable sortable" style="text-align:left;"
+|-
+! Team
+! Location
+! Stadium
+! Capacity
+! class="unsortable" | {{Abbr|R.|References}}
+|-
+| data-sort-value="Augsburg" | [[FC Augsburg]]
+| [[Augsburg]]
+| [[Augsburg Arena|WWK Arena]]
+| 30,660
+| style="text-align:center"|<ref>{{cite web|url=https://www.fcaugsburg.de/page/stadion-zahlen-und-fakten-73|title=WWK Arena|website=fcaugsburg.de|publisher=FC Augsburg|language=de|access-date=19 May 2024|archive-date=29 April 2026|archive-url=https://web.archive.org/web/20260429130728/https://www.fcaugsburg.de/page/stadion-zahlen-und-fakten-73|url-status=live}}</ref>
+|-
+| data-sort-value="Berlin, Union" | [[1. FC Union Berlin|Union Berlin]]
+| [[Berlin]]
+| [[Stadion An der Alten Försterei]]
+| 22,012
+| style="text-align:center"|<ref>{{cite web|url=https://www.fc-union-berlin.de/en/stadium/home/|title=Our home since 1920|website=fc-union-berlin.de|publisher=1. FC Union Berlin|access-date=19 May 2024|archive-date=5 December 2023|archive-url=https://web.archive.org/web/20231205032937/https://www.fc-union-berlin.de/en/stadium/home/|url-status=live}}</ref>
+|-
+| data-sort-value="Bremen" | [[SV Werder Bremen|Werder Bremen]]
+| [[Bremen]]
+| [[Weserstadion]]
+| 42,100
+| style="text-align:center"|<ref>{{cite web|url=https://www.werder.de/stadion/weserstadion/das-weserstadion/|title=Das Weserstadion|website=werder.de|publisher=SV Werder Bremen|language=de|access-date=3 July 2024|archive-date=11 September 2024|archive-url=https://web.archive.org/web/20240911214848/https://www.werder.de/stadion/weserstadion/das-weserstadion/|url-status=dead}}</ref>
+|-
+| data-sort-value="Dortmund" | [[Borussia Dortmund]]
+| [[Dortmund]]
+| [[Westfalenstadion|Signal Iduna Park]]
+| 81,365
+| style="text-align:center"|<ref>{{cite web|url=https://www.bvb.de/Der-BVB/Signal-Iduna-Park/SIGNAL-IDUNA-PARK|title=Signal Iduna Park|language=de|website=bvb.de|publisher=Borussia Dortmund|access-date=19 May 2024|archive-date=30 April 2014|archive-url=https://web.archive.org/web/20140430123509/https://www.bvb.de/Der-BVB/Signal-Iduna-Park/SIGNAL-IDUNA-PARK|url-status=live}}</ref>
+|-
+| data-sort-value="Elversberg" | [[SV Elversberg]]
+| [[Spiesen-Elversberg]]
+| [[Waldstadion an der Kaiserlinde]]
+| 10,000
+| style="text-align:center"|<ref>{{cite web|url=https://sv07elversberg.de/ursapharm-arena/daten-fakten/|title=Daten & Fakten: Ursapharm-Arena an der Kaiserlinde|language=de|website=sv07elversberg.de|publisher=SV Elversberg|access-date=17 May 2026|archive-date=19 January 2026|archive-url=https://web.archive.org/web/20260119152530/https://sv07elversberg.de/ursapharm-arena/daten-fakten/|url-status=live}}</ref>
+|-
+| data-sort-value="Frankfurt" | [[Eintracht Frankfurt]]
+| [[Frankfurt]]
+| [[Waldstadion (Frankfurt)|Deutsche Bank Park]]
+| 59,500
+| style="text-align:center"|<ref>{{cite web|url=https://www.deutschebankpark.de/der-dbp/daten-und-fakten/|title=Der Deutsche Bank Park – Daten und Fakten|website=deutschebankpark.de|publisher=Deutsche Bank Park|access-date=21 March 2025|language=de|archive-date=20 October 2023|archive-url=https://web.archive.org/web/20231020062236/https://www.deutschebankpark.de/der-dbp/daten-und-fakten/|url-status=live}}</ref>
+|-
+| data-sort-value="Freiburg" | [[SC Freiburg]]
+| [[Freiburg im Breisgau]]
+| [[Europa-Park Stadion]]
+| 34,700
+| style="text-align:center"|<ref>{{cite web|url=https://www.scfreiburg.com/stadion/europa-park-stadion/|title=Europa-Park Stadion|website=scfreiburg.com|publisher=SC Freiburg|access-date=19 May 2024|language=de|archive-date=9 February 2026|archive-url=https://web.archive.org/web/20260209065648/https://www.scfreiburg.com/stadion/europa-park-stadion/|url-status=live}}</ref>
+|-
+| [[Hamburger SV]]
+| [[Hamburg]]
+| [[Volksparkstadion]]
+| 57,000
+| style="text-align:center"|<ref>{{cite web |url=https://www.hsv.de/volksparkstadion/uebersicht/das-volksparkstadion/ |title=Das Volksparkstadion: HSV |website=hsv.de |publisher=Hamburger SV |language=de |access-date=20 May 2017 |archive-date=1 December 2017 |archive-url=https://web.archive.org/web/20171201031053/https://www.hsv.de/volksparkstadion/uebersicht/das-volksparkstadion/ |url-status=live }}</ref>
+|-
+| data-sort-value="Hoffenheim" | [[TSG 1899 Hoffenheim|TSG Hoffenheim]]
+| [[Sinsheim]]
+| [[Rhein-Neckar-Arena|PreZero Arena]]
+| 30,150
+| style="text-align:center"|<ref>{{cite web|url=https://www.tsg-hoffenheim.de/en/tsg/stadium/facts-and-figures/|title=The PreZero Arena in numbers|website=tsg-hoffenheim.de|publisher=TSG 1899 Hoffenheim|access-date=19 May 2024|archive-date=19 May 2024|archive-url=https://web.archive.org/web/20240519085319/https://www.tsg-hoffenheim.de/en/tsg/stadium/facts-and-figures/|url-status=live}}</ref>
+|-
+| data-sort-value="Koln" | [[1. FC Köln]]
+| [[Cologne]]
+| [[RheinEnergieStadion]]
+| 49,698
+| style="text-align:center"|<ref>{{cite web |url=https://www.rheinenergiestadion.de/en/ |title=The RheinEnergieSTADION |website=rheinenergiestadion.de |access-date=25 October 2024 |archive-date=12 November 2024 |archive-url=https://web.archive.org/web/20241112114914/https://www.rheinenergiestadion.de/en/ |url-status=live }}</ref>
+|-
+| data-sort-value="Leipzig" | [[RB Leipzig]]
+| [[Leipzig]]
+| [[Red Bull Arena (Leipzig)|Red Bull Arena]]
+| 47,800
+| style="text-align:center"|<ref>{{cite web|url=https://rbleipzig.com/en/stadium/red-bull-arena/facts-and-stats|title=Red Bull Arena in Leipzig: All the facts and stats|website=rbleipzig.com|publisher=RasenBallsport Leipzig|access-date=25 October 2024|archive-date=30 April 2026|archive-url=https://web.archive.org/web/20260430162822/https://rbleipzig.com/en/stadium/red-bull-arena/facts-and-stats|url-status=live}}</ref>
+|-
+| data-sort-value="Leverkusen" | [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| [[Leverkusen]]
+| [[BayArena]]
+| 30,210
+| style="text-align:center"|<ref>{{cite web|url=https://www.bayer04.de/en-us/page/bayarena#info|title=BayArena|website=bayer04.de|publisher=Bayer 04 Leverkusen|access-date=18 March 2025|archive-date=25 February 2026|archive-url=https://web.archive.org/web/20260225222449/https://www.bayer04.de/en-us/page/bayarena#info|url-status=live}}</ref>
+|-
+| data-sort-value="Mainz" | [[1. FSV Mainz 05|Mainz 05]]
+| [[Mainz]]
+| [[Mewa Arena|MEWA Arena]]
+| 33,305
+| style="text-align:center"|<ref>{{cite web|url=https://www.mainz05.de/arena|title=Mewa Arena|website=mainz05.de|publisher=1. FSV Mainz 05|language=de|access-date=18 March 2025|archive-date=8 November 2025|archive-url=https://web.archive.org/web/20251108042617/https://www.mainz05.de/arena|url-status=live}}</ref>
+|-
+| data-sort-value="Monchengladbach" | [[Borussia Mönchengladbach]]
+| [[Mönchengladbach]]
+| [[Borussia-Park]]
+| 54,057
+| style="text-align:center|<ref>{{cite web|url=https://www.borussia.de/de/borussia-park/fakten/stadionzahlen|title=Borussia-Park|website=borussia.de|publisher=Borussia Mönchengladbach|access-date=19 May 2024|language=de|archive-date=19 January 2024|archive-url=https://web.archive.org/web/20240119180355/https://www.borussia.de/de/borussia-park/fakten/stadionzahlen|url-status=live}}</ref>
+|-
+| data-sort-value="Munich" | [[FC Bayern Munich|Bayern Munich]]
+| [[Munich]]
+| [[Allianz Arena]]
+| 75,000
+| style="text-align:center"|<ref>{{cite news|url=https://allianz-arena.com/en/arena/facts/general-information|title=General information – Allianz Arena|website=allianz-arena.com|publisher=FC Bayern München AG|access-date=18 March 2025|language=de|archive-date=14 December 2025|archive-url=https://web.archive.org/web/20251214144719/https://allianz-arena.com/en/arena/facts/general-information|url-status=live}}</ref>
+|-
+| data-sort-value="Paderborn" | [[SC Paderborn 07|SC Paderborn]]
+| [[Paderborn]]
+| [[Home Deluxe Arena]]
+| 15,000
+| <ref>{{cite web|url=https://www.scp07.de/Arena/Home-Deluxe-Arena/#452-Stadionordnung|title=Home Deluxe Arena|website=www.scp07.de|publisher=SC Paderborn|access-date=25 May 2026|archive-date=13 March 2026|archive-url=https://web.archive.org/web/20260313081835/https://www.scp07.de/Arena/Home-Deluxe-Arena/#452-Stadionordnung|url-status=live}}</ref>
+|-
+| data-sort-value="Schalke" | [[FC Schalke 04|Schalke 04]]
+| [[Gelsenkirchen]]
+| [[Arena AufSchalke|Veltins-Arena]]
+| 62,271
+| style="text-align:center|<ref>{{Cite web|url=https://www.kicker.de/schalke-erhoeht-stadionkapazitaet-629918/artikel|title=Schalke erhöht Stadionkapazität|website=kicker|access-date=30 May 2026|archive-date=17 March 2017|archive-url=https://web.archive.org/web/20170317165947/http://www.kicker.de/news/fussball/bundesliga/startseite/629918/artikel_schalke-erhoeht-stadionkapazitaet-um-knapp-300-plaetze.html|url-status=live}}</ref>
+|-
+| data-sort-value="Stuttgart" | [[VfB Stuttgart]]
+| [[Stuttgart]]
+| [[MHPArena]]
+| 60,058
+| style="text-align:center"|<ref>{{cite web|title=Extensive refurbishment work completed: MHP Arena Stuttgart shines in new splendor|url=https://www.mhp.com/fileadmin/www.mhp.com/NEWS/pics/MHP_en_press_release_Modernization-MHPArena.pdf|date=17 April 2024|access-date=9 May 2024|work=mhp.com|publisher=MHP Management- und IT-Beratung|archive-date=29 April 2026|archive-url=https://web.archive.org/web/20260429112937/https://www.mhp.com/fileadmin/www.mhp.com/NEWS/pics/MHP_en_press_release_Modernization-MHPArena.pdf|url-status=live}}</ref>
+|}
+
+===Seasons in Bundesliga===
+There are 59 teams that have taken part in 64 Bundesliga championships that were played from the [[1963–64 Bundesliga|1963–64 season]] until the [[2026–27 Bundesliga|2026–27 season]]. The teams in bold compete in the Bundesliga currently. The year in parentheses represents the most recent year of participation at this level. No team has played Bundesliga football in every season; the closest being [[FC Bayern Munich|Bayern Munich]] and [[SV Werder Bremen|Werder Bremen]], who have both played in 62 seasons.
+
+{{div col}}
+* '''62''' seasons: '''[[FC Bayern Munich|Bayern Munich]]''' ([[2026–27 Bundesliga|2027]]), '''[[SV Werder Bremen|Werder Bremen]]''' ([[2026–27 Bundesliga|2027]])
+* '''60''' seasons: '''[[Borussia Dortmund]]''' ([[2026–27 Bundesliga|2027]]), '''[[VfB Stuttgart]]''' ([[2026–27 Bundesliga|2027]])
+* '''59''' seasons: '''[[Borussia Mönchengladbach]]''' ([[2026–27 Bundesliga|2027]])
+* '''58''' seasons: '''[[Eintracht Frankfurt]]''' ([[2026–27 Bundesliga|2027]])
+* '''57''' seasons: '''[[Hamburger SV]]''' ([[2026–27 Bundesliga|2027]])
+* '''55''' seasons: '''[[FC Schalke 04|Schalke 04]]''' ([[2026–27 Bundesliga|2027]])
+* '''54''' seasons: '''[[1. FC Köln]]''' ([[2026–27 Bundesliga|2027]])
+* '''48''' seasons: '''[[Bayer 04 Leverkusen|Bayer Leverkusen]]''' ([[2026–27 Bundesliga|2027]])
+* '''44''' seasons: [[1. FC Kaiserslautern]] ([[2011–12 Bundesliga|2012]])
+* '''40''' seasons: [[Hertha BSC]] ([[2022–23 Bundesliga|2023]])
+* '''38''' seasons: [[VfL Bochum]] ([[2024–25 Bundesliga|2025]])
+* '''33''' seasons: [[1. FC Nürnberg]] ([[2018–19 Bundesliga|2019]])
+* '''30''' seasons: [[Hannover 96]] ([[2018–19 Bundesliga|2019]])
+* '''29''' seasons: [[VfL Wolfsburg]] ([[2025–26 Bundesliga|2026]])
+* '''28''' seasons: [[MSV Duisburg]] ([[2007–08 Bundesliga|2008]])
+* '''27''' seasons: '''[[SC Freiburg]]''' ([[2026–27 Bundesliga|2027]])
+* '''25''' seasons: [[Fortuna Düsseldorf]] ([[2019–20 Bundesliga|2020]])
+* '''24''' seasons: [[Karlsruher SC]] ([[2008–09 Bundesliga|2009]])
+* '''21''' seasons: [[Eintracht Braunschweig]] ([[2013–14 Bundesliga|2014]]), '''[[1. FSV Mainz 05|Mainz 05]]''' ([[2026–27 Bundesliga|2027]])
+* '''20''' seasons: [[TSV 1860 Munich|1860 Munich]] ([[2003–04 Bundesliga|2004]])
+* '''19''' seasons: [[Arminia Bielefeld]] ([[2021–22 Bundesliga|2022]]), '''[[TSG 1899 Hoffenheim|TSG Hoffenheim]]''' ([[2026–27 Bundesliga|2027]])
+* '''16''' seasons: '''[[FC Augsburg]]''' ([[2026–27 Bundesliga|2027]])
+* '''14''' seasons: [[KFC Uerdingen 05|KFC Uerdingen]] ([[1995–96 Bundesliga|1996]])
+* '''12''' seasons: [[FC Hansa Rostock|Hansa Rostock]] ([[2007–08 Bundesliga|2008]])
+* '''11''' seasons: '''[[RB Leipzig]]''' ([[2026–27 Bundesliga|2027]])
+* '''10''' seasons: [[FC St. Pauli]] ([[2025–26 Bundesliga|2026]])
+* '''8''' seasons: '''[[1. FC Union Berlin|Union Berlin]]''' ([[2026–27 Bundesliga|2027]])
+* '''7''' seasons: [[Rot-Weiss Essen]] ([[1976–77 Bundesliga|1977]]), [[Kickers Offenbach]] ([[1983–84 Bundesliga|1984]]), [[SV Waldhof Mannheim|Waldhof Mannheim]] ([[1989–90 Bundesliga|1990]])
+* '''6''' seasons: [[FC Energie Cottbus|Energie Cottbus]] ([[2008–09 Bundesliga|2009]])
+* '''5''' seasons: [[1. FC Saarbrücken]] ([[1992–93 Bundesliga|1993]]), [[SV Darmstadt 98|Darmstadt 98]] ([[2023–24 Bundesliga|2024]])
+* '''4''' seasons: [[Rot-Weiß Oberhausen]] ([[1972–73 Bundesliga|1973]]), [[SG Wattenscheid 09|SG Wattenscheid]] ([[1993–94 Bundesliga|1994]]), [[Dynamo Dresden]] ([[1994–95 Bundesliga|1995]]), [[Alemannia Aachen]] ([[2006–07 Bundesliga|2007]])
+* '''3''' seasons: [[Borussia Neunkirchen]] ([[1967–68 Bundesliga|1968]]), [[Wuppertaler SV]] ([[1974–75 Bundesliga|1975]]), [[FC 08 Homburg]] ([[1989–90 Bundesliga|1990]]), [[1. FC Heidenheim]] ([[2025–26 Bundesliga|2026]]), '''[[SC Paderborn 07|SC Paderborn]]''' ([[2026–27 Bundesliga|2027]])
+* '''2''' seasons: [[Tennis Borussia Berlin]] ([[1976–77 Bundesliga|1977]]), [[Stuttgarter Kickers]] ([[1991–92 Bundesliga|1992]]), [[SpVgg Unterhaching]] ([[2000–01 Bundesliga|2001]]), [[FC Ingolstadt 04|FC Ingolstadt]] ([[2016–17 Bundesliga|2017]]), [[SpVgg Greuther Fürth|Greuther Fürth]] ([[2021–22 Bundesliga|2022]])
+* '''1''' season: [[SC Preußen Münster|Preußen Münster]] ([[1963–64 Bundesliga|1964]]), [[SC Tasmania 1900 Berlin|Tasmania Berlin]] ([[1965–66 Bundesliga|1966]]), [[SC Fortuna Köln|Fortuna Köln]] ([[1973–74 Bundesliga|1974]]), [[Blau-Weiß 1890 Berlin|Blau-Weiß 90 Berlin]] ([[1986–87 Bundesliga|1987]]), [[1. FC Lokomotive Leipzig|VfB Leipzig]] ([[1993–94 Bundesliga|1994]]), [[SSV Ulm 1846|SSV Ulm]] ([[1999–2000 Bundesliga|2000]]), [[Holstein Kiel]] ([[2024–25 Bundesliga|2025]]), '''[[SV Elversberg]]''' ([[2026–27 Bundesliga|2027]])
+{{div col end}}
+
+==Business model==
+In the 2009–10 season the Bundesliga's turnover was €1.7bn, broken down into match-day revenue (€424m), sponsorship receipts (€573m) and broadcast income (€594m). That year it was the only European football league where clubs collectively made a profit. Bundesliga clubs paid less than 50% of revenue in players' wages, the lowest percentage out of the European leagues. The Bundesliga has the lowest ticket prices and the highest average attendance among [[Big Five (association football)|Europe's five major leagues]].<ref name="guardian1">{{cite web |last=Jackson |first=Jamie |url=https://www.theguardian.com/football/blog/2010/apr/11/bundesliga-premier-league |title=How the Bundesliga puts the Premier League to shame |work=The Guardian |date=11 April 2010 |access-date=30 May 2013 |archive-date=30 September 2013 |archive-url=https://web.archive.org/web/20130930004740/http://www.theguardian.com/football/blog/2010/apr/11/bundesliga-premier-league |url-status=live }}</ref>
+
+Bundesliga clubs tend to form close associations with local firms, several of which have since grown into big global companies; in a comparison of leading Bundesliga and Premiership clubs, Bayern Munich received 55% of its revenue from company sponsorship deals, while Manchester United got 37%.<ref name="guardian1"/><ref name="Evans">{{cite web |last=Evans |first=Stephen |url=https://www.bbc.co.uk/news/business-22625160 |title=German football model is a league apart |publisher=BBC |date=23 May 2013 |access-date=30 May 2013 |archive-date=6 June 2013 |archive-url=https://web.archive.org/web/20130606201958/http://www.bbc.co.uk/news/business-22625160 |url-status=live }}</ref><ref name="bloomberg1">{{cite web |last=Weil |first=Jonathan |url=https://www.bloomberg.com/news/2013-05-23/at-last-germany-secures-total-dominance-of-europe.html |title=At Last, Germany Secures Total Dominance of Europe |publisher=Bloomberg News |date=23 May 2013 |access-date=30 May 2013 |archive-date=7 June 2013 |archive-url=https://web.archive.org/web/20130607193734/http://www.bloomberg.com/news/2013-05-23/at-last-germany-secures-total-dominance-of-europe.html |url-status=live }}</ref><ref name="bloomberg2">{{cite web |last=Weil |first=Jonathan |url=https://www.bloomberg.com/news/2013-05-22/has-german-soccer-conquered-europe-not-quite.html |title=Has German Soccer Conquered Europe? Not Quite |publisher=Bloomberg News |date=22 May 2013 |access-date=30 May 2013 |archive-date=7 June 2013 |archive-url=https://web.archive.org/web/20130607215942/http://www.bloomberg.com/news/2013-05-22/has-german-soccer-conquered-europe-not-quite.html |url-status=live }}</ref>
+
+Bundesliga clubs are required to be majority-owned by German club members (known as the {{Interlanguage link multi|50+1 rule|2=de|3=50+1-Regel|preserve=1}} to discourage control by a single entity) and operate under tight restrictions on the use of debt for acquisitions (a team only receives an operating licence if it has solid financials); as a result 11 of the 18 clubs were profitable after the 2008–09 season. By contrast, in the other major European leagues numerous high-profile teams have come under ownership of foreign billionaires and a significant number of clubs have high levels of debt.<ref name="bloomberg1"/><ref name="bloomberg2"/>
+
+Exceptions to the 50+1 rule allow [[Bayer 04 Leverkusen|Bayer Leverkusen]], [[TSG 1899 Hoffenheim]], and [[VfL Wolfsburg]] to be owned by corporations or individual investors. In the cases of Bayer Leverkusen and Wolfsburg, the clubs were founded by major corporations (respectively [[Bayer AG]] and [[Volkswagen]]) as sports clubs for their employees, while Hoffenheim has long received its primary support from [[SAP SE|SAP]] co-founder [[Dietmar Hopp]], who played in the club's youth system.<ref>{{cite web |last1=Hesse |first1=Uli |title=Issues looming for Germany's footballing landscape |url=http://www.espnfc.com/german-bundesliga/10/blog/post/2219877/issues-looming-for-germanys-footballing-landscape |publisher=ESPN |access-date=8 March 2015 |date=30 December 2014 |archive-date=6 March 2015|archive-url=https://web.archive.org/web/20150306220523/http://www.espnfc.com/german-bundesliga/10/blog/post/2219877/issues-looming-for-germanys-footballing-landscape |url-status=live}}</ref>
+
+After 2000 the [[German Football Association]] and the Bundesliga required every club to run a [[youth academy]] with the aim of developing local talent for the club and the national team. As of 2010 the Bundesliga and second Bundesliga spend €75m a year on these youth academies, which train five thousand players aged 12–18. This increased the percentage of under-23-year-olds in the Bundesliga from 6% in 2000 to 15% in 2010. This in turn allows more money to be spent on the smaller number of players that are bought.<ref name="guardian1"/><ref name="bloomberg1"/><ref name="bloomberg2"/>
+
+In the 2000s, the Bundesliga was regarded as competitive, as five teams won the league title. This contrasted with the English [[Premier League]], then dominated by a "Big Four" (Manchester United, Chelsea, Liverpool, and Arsenal), as well as France's [[Ligue 1]], won seven consecutive years by [[Olympique Lyonnais|Lyon]].<ref>{{cite web | url = https://www.theguardian.com/football/blog/2013/may/04/barcelona-real-madrid-spain-pain | title = Barcelona and Real Madrid are symbolic of Spain's pain | work = The Guardian | date = 4 May 2013 | access-date = 14 July 2013 | first = Sid | last = Lowe | archive-date = 13 May 2014 | archive-url = https://web.archive.org/web/20140513060804/http://www.theguardian.com/football/blog/2013/may/04/barcelona-real-madrid-spain-pain | url-status = live }}</ref> Since then, however, a resurgent [[FC Bayern Munich|Bayern Munich]] won each year from 2013 to 2023.<ref>{{cite news |last1=Bennett |first1=John |title=Are brilliant Bayern Munich making the Bundesliga boring? |url=https://www.bbc.com/sport/0/football/25647442|access-date=23 August 2014|publisher=BBC Sport |date=23 January 2014|archive-date=9 December 2014|archive-url=https://web.archive.org/web/20141209220508/http://www.bbc.com/sport/0/football/25647442|url-status=live}}</ref><ref>{{cite news|title=Bayern Munich: Bundesliga champions in numbers|url=https://www.bbc.com/sport/0/football/26720137|access-date=23 August 2014|publisher=BBC Sport |date=26 March 2014|archive-date=27 March 2014|archive-url=https://web.archive.org/web/20140327132057/http://www.bbc.com/sport/0/football/26720137|url-status=live}}</ref>
+
+===Financial regulations===
+For a number of years, the clubs in the Bundesliga have been subject to regulations not unlike the [[UEFA Financial Fair Play Regulations]] agreed upon in September 2009.
+
+At the end of each season, clubs in the Bundesliga must apply to the [[German Football Federation]] (DFB) for a licence to participate again the following year; only when the DFB, who have access to all transfer documents and accounts, are satisfied that there is no threat of insolvency do they give approval.<ref>{{Cite news|url=https://www.bundesliga.com/en/news/Bundesliga/agblmd26-the-bundesliga-licensing-process-explained.jsp|title=The Bundesliga licensing process|date=2016 |publisher=Bundesliga|access-date=3 September 2022|archive-date=3 September 2022|archive-url=https://web.archive.org/web/20220903015042/https://www.bundesliga.com/en/news/Bundesliga/agblmd26-the-bundesliga-licensing-process-explained.jsp|url-status=live}}</ref> The DFB have a system of fines and points deductions for clubs who flout rules, and those who go into the red can only buy a player after selling one for at least the same amount. In addition, no individual is allowed to own more than 49 per cent of any Bundesliga club, the only exceptions being [[VfL Wolfsburg]], [[Bayer Leverkusen]] and current [[Regionalliga Nordost]] member [[FC Carl Zeiss Jena]] should they ever be promoted to the Bundesliga, as they were each founded as factory teams.<ref name="Evans"/>
+
+[[File:Frankfurt stadium.jpg|thumb|upright=1.25|[[Waldstadion (Frankfurt)|Deutsche Bank Park]] is the home ground of [[Eintracht Frankfurt]].]]
+
+Despite the good economic governance, there have still been some instances of clubs getting into difficulties. In 2004, [[Borussia Dortmund]] reported a debt of €118.8&nbsp;million (£83&nbsp;million).<ref name="Daily Telegraph 17 November 2004">''The Daily Telegraph'', 17 November 2004</ref> Having won the Champions League in 1997 and a number of Bundesliga titles, Dortmund had gambled on maintaining their success with an expensive group of largely foreign players but failed, narrowly escaping liquidation in 2006. In subsequent years, the club went through extensive restructuring to return to financial health, largely with young home-grown players. In 2004 [[Hertha BSC]] reported debts of £24.7&nbsp;million and were able to continue in the Bundesliga only after proving they had long term credit with their bank.<ref name="Daily Telegraph 17 November 2004"/>
+
+The leading German club [[FC Bayern Munich|Bayern Munich]] made a net profit of just €2.5&nbsp;million in 2008–09 season (group accounts),<ref>{{cite web |url=http://www.fcbayern.telekom.de/media/native/pressemitteilungen/bilanz_0809.pdf |title=Archived copy |website=www.fcbayern.telekom.de |access-date=15 January 2022 |archive-url=https://web.archive.org/web/20100821163732/http://www.fcbayern.telekom.de/media/native/pressemitteilungen/bilanz_0809.pdf |archive-date=21 August 2010 |url-status=dead}}</ref> while [[FC Schalke 04|Schalke 04]] made a net loss of €30.4&nbsp;million in 2009 financial year.<ref>{{cite web|url=http://www.schalke04.com/news/single-view/artikel/schalke-unveil-2009-financials-debt-repayment-and-firm-footballing-foundations-go-hand-in-hand.html |title= Schalke unveil 2009 financials: debt repayment and firm footballing foundations go hand in hand |access-date=7 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20120820150135/http://www.schalke04.com/news/single-view/artikel/schalke-unveil-2009-financials-debt-repayment-and-firm-footballing-foundations-go-hand-in-hand.html |archive-date=20 August 2012 }}</ref> [[Borussia Dortmund]] GmbH & Co. KGaA, made a net loss of just €2.9&nbsp;million in 2008–09 season.<ref>{{cite web |url=http://www.futbolyou.com/en/articles/BVB-AR-2009.pdf |title=Watch |work=FutbolYou-Bundesliga |access-date=14 April 2015 |language=de |archive-date=27 July 2020 |archive-url=https://web.archive.org/web/20200727053519/http://www.futbolyou.com/en/articles/BVB-AR-2009.pdf |url-status=live }}</ref>
+
+===Attendances===
+{{main|Bundesliga attendance}}
+
+The Bundesliga is one of the highest-attended association football leagues worldwide, with an average of 38,657 spectators per game during the 2024–25 season making it the second highest attended association football league globally.<ref>{{cite web |url=https://www.weltfussball.de/zuschauer/bundesliga-2024-2025/1/ |title=Bundesliga 2024/25 » Attendance |publisher=weltfussball.de |access-date=25 May 2025 |archive-date=26 May 2025 |archive-url=https://web.archive.org/web/20250526170835/https://www.weltfussball.de/zuschauer/bundesliga-2024-2025/1/ |url-status=live }}</ref> Bundesliga club [[Borussia Dortmund]] holds the record for the highest average attendance of any football club in the world.<ref>{{Cite web|url=http://billsportsmaps.com/?p=22541|title=2011–12 World Football Attendances – Best Drawing Leagues (Chart of Top-20-drawing national leagues of association football) / Plus list of 35-highest drawing association football clubs in the world in 2011–12.|accessdate=8 April 2021|archive-date=18 October 2015|archive-url=https://web.archive.org/web/20151018090110/http://billsportsmaps.com/?p=22541|url-status=live}}</ref>
+
+Out of Europe's five major football leagues ([[Premier League]], [[La Liga]], [[Ligue 1]], and [[Serie A]] ), the Bundesliga has the lowest ticket prices and the highest average attendance. Many club stadia have large terraced areas for [[Safe standing|standing fans]]. Teams limit the number of [[season ticket]]s to ensure everyone has a chance to see the games live, and the away club has the right to 10% of the available capacity. Match tickets often double as free rail passes which encourages supporters to travel and celebrate in a relaxed atmosphere. According to Bundesliga chief executive [[Christian Seifert]], tickets are inexpensive (especially for [[Safe standing|standing room]]) as "It is not in the clubs' culture so much [to raise prices]. They are very fan orientated".<ref name="guardian1"/><ref name="bloomberg1"/><ref name="bloomberg2"/> [[Uli Hoeneß]], president of Bayern Munich, was quoted as saying "We do not think the fans are like cows to be milked. Football has got to be for everybody."<ref name="Evans"/>
+
+[[File:Borussia Dortmund Hannover 96.jpg|thumb|The Bundesliga has the highest average attendance of any football league in the world. [[Borussia Dortmund]] has the highest average attendance at [[Westfalenstadion|Signal Iduna Park]] of any football club in the world.]]
+
+The [[Bundesliga attendance|spectator figures]] for league for the last ten seasons:
+{| class="wikitable"
+|+Bundesliga Spectator Statistics
+!Season
+!Overall
+!Average
+!Best supported club
+!Average
+|-
+|2011–12<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2011-2012/1/ Bundesliga 2011/2012 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20131005214820/http://www.weltfussball.de/zuschauer/bundesliga-2011-2012/1/ |date=5 October 2013 }} {{in lang|de}} weltfussball.de, Spectator figures 2011–12. Retrieved 2 June 2015</ref>
+|13,805,514
+|45,116
+| rowspan="8" |[[Borussia Dortmund]]
+|80,521
+|-
+|2012–13<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2012-2013/1/ Bundesliga 2012/2013 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20150515113321/http://www.weltfussball.de/zuschauer/bundesliga-2012-2013/1/ |date=15 May 2015 }} {{in lang|de}} weltfussball.de, Spectator figures 2012–13. Retrieved 2 June 2015</ref>
+|13,042,263
+|42,622
+|80,520
+|-
+|2013–14<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2013-2014/1/ Bundesliga 2013/2014 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20201124143914/https://www.weltfussball.de/zuschauer/bundesliga-2013-2014/1/ |date=24 November 2020 }} {{in lang|de}} weltfussball.de, Spectator figures 2013–14. Retrieved 2 June 2015</ref>
+|13,311,145
+|43,500
+|80,297
+|-
+|2014–15<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2014-2015/1/ Bundesliga 2014/2015 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20150531082511/http://www.weltfussball.de/zuschauer/bundesliga-2014-2015/1/ |date=31 May 2015 }} {{in lang|de}} weltfussball.de, Spectator figures 2014–15. Retrieved 2 June 2015</ref>
+|13,323,031
+|43,539
+|80,463
+|-
+|2015–16<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2015-2016/1/ Bundesliga 2015/2016 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20160515174252/http://www.weltfussball.de/zuschauer/bundesliga-2015-2016/1/ |date=15 May 2016 }} {{in lang|de}} weltfussball.de, Spectator figures 2015–16. Retrieved 14 May 2016</ref>
+|13,249,778
+|43,300
+|81,178
+|-
+|2016–17<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2016-2017/1/ Bundesliga 2016/2017 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20170528112154/http://www.weltfussball.de/zuschauer/bundesliga-2016-2017/1/ |date=28 May 2017 }} {{in lang|de}} weltfussball.de, Spectator figures 2016–17. Retrieved 20 May 2017</ref>
+|12,703,167
+|41,514
+|79,653
+|-
+|2017–18<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2017-2018/1/ Bundesliga 2017/2018 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20180514065354/http://www.weltfussball.de/zuschauer/bundesliga-2017-2018/1/ |date=14 May 2018 }} {{in lang|de}} weltfussball.de, Spectator figures 2017–18. Retrieved 13 May 2018</ref>
+|13,661,796
+|44,646
+|79,496
+|-
+|2018–19<ref>[https://www.weltfussball.de/zuschauer/bundesliga-2018-2019/1/ Bundesliga 2018/2019 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20210616230822/https://www.weltfussball.de/zuschauer/bundesliga-2018-2019/1/ |date=16 June 2021 }} {{in lang|de}} weltfussball.de, Spectator figures 2018–19. Retrieved 18 May 2019</ref>
+|13,298,147
+|43,458
+|80,820
+|-
+|2019–20<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2019-2020/1/ Bundesliga 2019/2020 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20200528184612/https://www.weltfussball.de/zuschauer/bundesliga-2019-2020/1/ |date=28 May 2020 }} {{in lang|de}} weltfussball.de, Spectator figures 2019–20. Retrieved 27 June 2020</ref>
+|{{0}}9,112,950
+|29,781<ref>Due to the [[COVID-19 pandemic in Germany]], several matches were played behind closed doors.</ref>
+|[[FC Bayern Munich|Bayern Munich]]
+|57,353
+|-
+|2020–21<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2020-2021/1/ Bundesliga 2020/2021 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20210514034440/https://www.weltfussball.de/zuschauer/bundesliga-2020-2021/1/ |date=14 May 2021 }} {{in lang|de}} weltfussball.de, Spectator figures 2020–21. Retrieved 22 May 2021</ref>
+|{{0|00,}}163,705
+|{{0|00,}}535<ref>Due to the COVID-19 pandemic in Germany, the majority of matches were played behind closed doors.</ref>
+| rowspan="6" |[[Borussia Dortmund]]
+|{{0}}1,282
+|-
+|2021–22<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2021-2022/1/ Bundesliga 2021/2022 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20220706090126/https://www.weltfussball.de/zuschauer/bundesliga-2021-2022/1/ |date=6 July 2022 }} {{in lang|de}} weltfussball.de, Spectator figures 2021–22. Retrieved 14 May 2022</ref>
+|{{0}}4,641,988
+|21,039<ref>Due to the COVID-19 pandemic in Germany, some matches were played behind closed doors.</ref>
+|41,789
+|-
+|2022–23<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2022-2023/1/ Bundesliga 2022/2023 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20241207172552/https://www.weltfussball.de/zuschauer/bundesliga-2022-2023/1/ |date=7 December 2024 }} {{in lang|de}} weltfussball.de, Spectator figures 2022–23. Retrieved 27 May 2023</ref>
+|13,147,701
+|42,966
+|81,228
+|-
+|2023–24<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2023-2024/1/ Bundesliga 2023/2024 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20241205112856/https://www.weltfussball.de/zuschauer/bundesliga-2023-2024/1/ |date=5 December 2024 }} {{in lang|de}} weltfussball.de, Spectator figures 2023–24. Retrieved 18 May 2024</ref>
+|12,090,797
+|39,512
+|81,305
+|-
+|2024–25<ref>[http://www.weltfussball.de/zuschauer/bundesliga-2024-2025/1/ Bundesliga 2024/2025 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20250717024424/https://www.weltfussball.de/zuschauer/bundesliga-2024-2025/1/ |date=17 July 2025 }} {{in lang|de}} weltfussball.de, Spectator figures 2024–25. Retrieved 17 May 2025</ref>
+|11,828,684
+|38,656
+|81,365
+|-
+|2025–26<ref>[https://www.kicker.de/bundesliga/tabelle Bundesliga 2025/2026 » Zuschauer] {{Webarchive|url=https://web.archive.org/web/20260424192346/https://www.kicker.de/bundesliga/tabelle |date=24 April 2026 }} {{in lang|de}} kicker.de, Spectator figures 2025–26. Retrieved 17 May 2026</ref>
+|12,947,047
+|41,483
+|81,285
+|}
+
+==Media coverage==
+===Domestic===
+The Bundesliga TV, radio, internet, and mobile broadcast rights are distributed by DFL Sports Enterprises, a subsidiary of the [[Deutsche Fußball Liga]]. The Bundesliga broadcast rights are sold along with the broadcast rights to the relegation playoffs, [[2. Bundesliga]] and [[DFL-Supercup]].<ref>{{cite web|url=http://www.bundesliga.com/en/about/our-task/|title=The core functions of the DFL|access-date=28 October 2013|archive-url=https://web.archive.org/web/20141031202100/http://www.bundesliga.com/en/about/our-task/|archive-date=31 October 2014|url-status=dead}}</ref>
+
+Bundesliga matches are broadcast on TV in Germany on [[Sky Deutschland]] and [[DAZN]].<ref>{{cite web | url = https://www.broadbandtvnews.com/2019/07/18/dazn-sublicenses-bundesliga-rights-from-eurosport-subscription-price-rises/ | title = DAZN sublicenses Bundesliga rights from Eurosport / Subscription price rises | website = Broadband TV News | date = 18 July 2019 | access-date = 26 September 2019 | archive-date = 21 July 2019 | archive-url = https://web.archive.org/web/20190721123853/https://www.broadbandtvnews.com/2019/07/18/dazn-sublicenses-bundesliga-rights-from-eurosport-subscription-price-rises/ | url-status = live }}</ref> Three Friday night matches – the openers of the first and second halves of the season, and on the final matchday before the winter break – are broadcast free-to-air on [[Sat. 1]].
+
+After [[RTL Group]] acquired Sky Deutschland in 2026, it reached an agreement with the Bundesliga to simulcast ten matches per season free-to-air on [[RTL (German TV channel)|RTL]].<ref>{{cite web |last1=Weis |first1=Manuel |title=Mehr Bundesliga im Free-TV: Dann legt RTL los |url=https://www.digitalfernsehen.de/news/inhalte/fernsehen/mehr-bundesliga-im-free-tv-dann-legt-rtl-los-1184356/ |website=DIGITAL FERNSEHEN |language=de-DE |date=2 July 2026 |access-date=17 July 2026 |archive-date=4 July 2026 |archive-url=https://web.archive.org/web/20260704190002/https://www.digitalfernsehen.de/news/inhalte/fernsehen/mehr-bundesliga-im-free-tv-dann-legt-rtl-los-1184356/ |url-status=live }}</ref>
+
+{| class="wikitable"
+|-
+! Day !! Time ([[Central European Time|CET]]) !! Broadcaster
+|-
+| Friday || 20:30 || [[Sky Sport Bundesliga]]<br />[[Sat.1]] (1st, 17th, and 18th matchdays)<br />(1 match)
+|-
+| rowspan="3" | Saturday || rowspan="2" | 15:30 || [[Sky Sport Bundesliga]] (5 matches)<br />(4 matches in case of a third game on sunday)
+|-
+|[[DAZN]] (''Konferenz'' of 4 or 5 matches)
+|-
+| 18:30 || [[Sky Sport Bundesliga]] (1 match)
+|-
+| rowspan="3" | Sunday || 15:30 || rowspan="2" | [[DAZN]] (1 match)
+|-
+| 17:30 
+|-
+| 19:30 || [[DAZN]] (1 match on 5 matchdays)
+|}
+
+Radio coverage includes the national ''Konferenz'' (whip-around coverage) on the stations of [[ARD (broadcaster)|ARD]] and full match coverage on local radio stations.
+
+===Global===
+[[File:SC Freiburg vs FSVMainz 17 août 2013 60.jpg|thumb|right|The Bundesliga is broadcast on TV in over 200 countries.]]
+
+The Bundesliga is broadcast on TV in over 200 countries. [[Versant]] (via [[USA Sports (2025–present)|USA Sports]]) would hold English rights in the United States starting with the beginning of the 2026–27 season. At least 30 matches per season are reserved for linear television on the [[USA Network]], with all remaining games appearing on [[Fandango (streaming service)|Fandango]].<ref>{{cite news |last1=Kleen |first1=Brendon |title=USA Network, Fandango secure Bundesliga rights in U.S. for $20 million annually |url=https://awfulannouncing.com/versant/usa-network-fandango-bundesliga-rights-us.html |access-date=July 14, 2026 |work=Awful Announcing |date=July 14, 2026 |archive-date=15 July 2026 |archive-url=https://web.archive.org/web/20260715010757/https://awfulannouncing.com/versant/usa-network-fandango-bundesliga-rights-us.html |url-status=live }}</ref><ref name="USATEL">{{Cite press release|date=16 July 2026|title=Bundesliga Broadens Broadcast Accessibility for Fans in U.S. with New Deals with Versant's USA Sports and NBCUniversal's Telemundo|url=https://www.bundesliga.com/en/bundesliga/news/bundesliga-broadens-broadcast-accessibility-for-fans-in-us-with-new-deals-versants-usa-sports-nbcuniversals-telemundo-38268|access-date=19 July 2026|website=Bundesliga|url-status=live|archive-date=19 July 2026|archive-url=https://web.archive.org/web/20260719220146/https://www.bundesliga.com/en/bundesliga/news/bundesliga-broadens-broadcast-accessibility-for-fans-in-us-with-new-deals-versants-usa-sports-nbcuniversals-telemundo-38268}}</ref> [[NBCUniversal]] (via [[Telemundo Deportes]]) will hold the Spanish rights starting that same season, with a few matches per week airing on [[Telemundo]] and [[Universo (TV channel)|Universo]] and all matches streaming on [[Peacock (streaming service)|Peacock]].<ref name="USATEL"/> [[ESPN]] held both the English and Spanish rights from the beginning of the 2020–21 season to the end of the 2025–26 season. 4 matches per season were reserved for linear television with the rest appearing on [[ESPN+]].<ref>{{Cite press release|date=19 August 2020|title=Exclusive Coverage of German Bundesliga Kicks Off on ESPN+, ESPN|url=https://espnpressroom.com/us/press-releases/2020/08/exclusive-coverage-of-german-bundesliga-kicks-off-on-espn-esp/|access-date=18 September 2020|website=ESPN Press Room U.S.|archive-date=3 October 2020|archive-url=https://web.archive.org/web/20201003212216/https://espnpressroom.com/us/press-releases/2020/08/exclusive-coverage-of-german-bundesliga-kicks-off-on-espn-esp/|url-status=live}}</ref><ref>{{Cite web|title=ESPN+ to be the new home of the Bundesliga in the U.S. beginning August 2020|url=https://www.bundesliga.com/en/news/Bundesliga/espn-to-broadcast-bundesliga-in-the-usa-august-2020-7272|access-date=18 September 2020|website=Bundesliga|archive-date=3 October 2020|archive-url=https://web.archive.org/web/20201003202544/https://www.bundesliga.com/en/bundesliga/news/espn-to-broadcast-bundesliga-in-the-usa-august-2020-7272|url-status=live}}</ref> In Canada, the Bundesliga is broadcast live on [[OneSoccer]].<ref>{{cite web |title= OneSoccer: Official broadcast partner of Bundesliga in Canada |date= 20 November 2025 |url= https://onesoccer.ca/a/one-soccer-becomes-official-broadcast-partner-of-bundesliga-in-canada |access-date= 17 January 2026 |archive-date= 14 January 2026 |archive-url= https://web.archive.org/web/20260114165601/https://onesoccer.ca/a/one-soccer-becomes-official-broadcast-partner-of-bundesliga-in-canada |url-status= live }}</ref>
+
+In the United Kingdom and in Ireland, the Bundesliga is broadcast live on [[Sky Sports]].<ref>{{Cite web|date=5 August 2021|title=Bundesliga to be shown live on Sky Sports for next four seasons|url=https://www.skysports.com/football/news/12040/12371653/bundesliga-to-be-shown-live-on-sky-sports-for-next-four-seasons|access-date=17 May 2022|website=Sky Sports|archive-date=26 May 2022|archive-url=https://web.archive.org/web/20220526221940/https://www.skysports.com/football/news/12040/12371653/bundesliga-to-be-shown-live-on-sky-sports-for-next-four-seasons|url-status=live}}</ref> Also in the United Kingdom, the [[BBC Sport|BBC]] have the rights to broadcast one match a week from August 2025 until 2027.<ref>{{Cite web |date=2025-08-20 |title=Bundesliga: BBC Sport secure rights to show German top-flight matches |url=https://www.bbc.com/sport/football/articles/cgjyzgj3xjwo |access-date=2025-08-20 |website=BBC Sport |language=en-GB |archive-date=20 August 2025 |archive-url=https://web.archive.org/web/20250820171434/https://www.bbc.com/sport/football/articles/cgjyzgj3xjwo |url-status=live }}</ref> In Spain, the Bundesliga is broadcast live on [[DAZN]].<ref>{{Cite web |title=DAZN OFRECERÁ LA BUNDESLIGA EN EXCLUSIVA EN ESPAÑA HASTA 2029 |url=https://dazngroup.com/press-room/dazn-ofrecera-la-bundesliga-en-exclusiva-en-espana-hasta-2029/ |access-date=2025-09-14 |website=DAZN Group |archive-date=2 July 2026 |archive-url=https://web.archive.org/web/20260702073844/https://dazngroup.com/press-room/dazn-ofrecera-la-bundesliga-en-exclusiva-en-espana-hasta-2029/ |url-status=live }}</ref>
+
+In Indonesia, Bundesliga is aired on [[MNC Group]]'s television channels, [[pay TV]], and [[Over-the-top media service|OTT]]{{efn|replacing [[ANTV]], [[TvOne (Indonesian TV network)|tvOne]] and [[Mola (Streaming service)|Mola]] that expired [[2022–23 Bundesliga|two seasons ago]]{{cn|date=August 2024}}}} in the [[2024–25 Bundesliga|2024–25 season]] while it was currently unavailable on [[BeIN Sports (Asian TV channel)|beIN Sports Asia]] in the country since the [[2023–24 Bundesliga|previous season]].<ref>{{cite Instagram|postid=C-cXdRvy-ua|user=visionplussport|author=Vision+ Sports|author-link=Vision+|title=Pertarungan divisi teratas sepak bola negeri der panzer, coming soon on Vision+|language=id|date=9 August 2024|link=no}}</ref> In the [[2025–26 Bundesliga|2025–26 season]], the broadcasting rights contract is extended.<ref>{{cite news|url=https://www.zonajakarta.com/olahraga/67315561684/catat-tanggal-kick-off-liga-sepak-bola-eropa-musim-2025-26-beserta-pemegang-hak-siar-di-indonesia|title=Catat Tanggal Kick-off Liga Sepak Bola Eropa Musim 2025-26 Beserta Pemegang Hak Siar di Indonesia|first=Rizqi|last=Arie Harnoko|website=Zona Jakarta|date=July 18, 2025|access-date=July 19, 2025|lang=id|archive-date=18 July 2025|archive-url=https://web.archive.org/web/20250718184933/https://www.zonajakarta.com/olahraga/67315561684/catat-tanggal-kick-off-liga-sepak-bola-eropa-musim-2025-26-beserta-pemegang-hak-siar-di-indonesia|url-status=live}}</ref> In Vietnam, Bundesliga is aired on TV360 from 2025–26 season.<ref>{{Cite web |author=N. Wagner |date=2025-08-12 |title=Bundesliga International signs three-year deal with Vietnamese powerhouse Viettel |url=https://www.dfl.de/en/news/bundesliga-international-signs-three-year-deal-with-vietnamese-powerhouse-viettel/ |access-date=2025-08-13 |website=DFL Deutsche Fußball Liga GmbH |language=en-US}}</ref>
+
+Taiwan's [[:zh:愛爾達電視|ELTA TV]] are expecting to aired Bundesliga for the 2024–25 season, marked the first time Bundesliga returned to Taiwanese television since the 2020–21 season.<ref>{{cite web|title=愛爾達宣佈轉播德甲 8月24日開始|url=https://tw.news.yahoo.com/%E6%84%9B%E7%88%BE%E9%81%94%E5%AE%A3%E4%BD%88%E8%BD%89%E6%92%AD%E5%BE%B7%E7%94%B2-8%E6%9C%8824%E6%97%A5%E9%96%8B%E5%A7%8B-141619874.html|work=GoGoal勁球網|via=Yahoo! Taiwan|date=21 August 2024|lang=zh|access-date=21 August 2024|archive-date=21 August 2024|archive-url=https://web.archive.org/web/20240821193939/https://tw.news.yahoo.com/%E6%84%9B%E7%88%BE%E9%81%94%E5%AE%A3%E4%BD%88%E8%BD%89%E6%92%AD%E5%BE%B7%E7%94%B2-8%E6%9C%8824%E6%97%A5%E9%96%8B%E5%A7%8B-141619874.html|url-status=live}}</ref>
+
+In 2015, digital TV operator [[StarTimes]] acquired exclusive television rights for Sub-Saharan Africa for five years starting from [[2015–16 Bundesliga|2015–16 season]].<ref name=sportsindustry-bundesliga>{{cite web|title=StarTimes confirms Bundesliga deal|url=http://www.sportindustry.co.za/news/startimes-confirms-bundesliga-deal|website=Sport Industry Group|access-date=13 July 2017|archive-date=14 April 2019|archive-url=https://web.archive.org/web/20190414111714/http://www.sportindustry.co.za/news/startimes-confirms-bundesliga-deal|url-status=dead}}</ref>
+
+In August 2025, [[MBC Group]] signed a three-year deal to broadcast all Bundesliga games on [[Shahid (streaming platform)|Shahid]] and three matches a week on free-to-air (FTA) channel [[MBC Action]] across the [[Middle East and North Africa|MENA]].<ref>{{cite web |url=https://www.dfl.de/en/news/bundesliga-international-lands-historic-three-year-deal-with-mbc-group-for-the-mena-region/ |title=Bundesliga International lands historic three-year deal with MBC GROUP for the MENA region |website=dfl.de |date=21 August 2025 |access-date=23 August 2025}}</ref><ref>{{cite web |url=https://www.broadbandtvnews.com/2025/08/21/mbc-to-show-bundesliga-matches-free-to-air-across-mena/ |title=MBC to show Bundesliga matches free-to-air across MENA |publisher=Broadband TV News |date=21 August 2025 |access-date=22 August 2025 |archive-date=22 August 2025 |archive-url=https://web.archive.org/web/20250822013627/https://www.broadbandtvnews.com/2025/08/21/mbc-to-show-bundesliga-matches-free-to-air-across-mena/ |url-status=live }}</ref> That same month, English YouTuber [[Mark Goldbridge]] secured rights to stream the 2025–26 season on his channel "That's Football", alongside another YouTube channel "The Overlap", while the [[BBC]], Sky Sports, [[Amazon Prime Video]], and Bundesliga's official YouTube channel also acquired UK and Ireland broadcast rights.<ref>{{cite web |url=https://www.bundesliga.com/en/bundesliga/news/bundesliga-international-unveils-multi-layered-strategy-in-uk-and-ireland-33589 |title=Bundesliga International unveils multi-layered strategy in UK and Ireland |publisher=Bundesliga |date=20 August 2025 |access-date=22 August 2025 |archive-date=20 August 2025 |archive-url=https://web.archive.org/web/20250820192917/https://www.bundesliga.com/en/bundesliga/news/bundesliga-international-unveils-multi-layered-strategy-in-uk-and-ireland-33589 |url-status=live }}</ref> In August 2026, former England forward [[Jamie Vardy]] became a Bundesliga rights holder, with his YouTube channel, "Jamie Vardy's Having a Party", set to broadcast seven Friday-night matches during the 2026–27 season.<ref>{{cite web |last=Stafford-Bloor |first=Sebastian |url=https://www.nytimes.com/athletic/7537221/2026/08/28/jamie-vardy-bundesliga-tv-youtube/ |title=Jamie Vardy’s YouTube channel to broadcast Bundesliga matches in UK and Ireland |publisher=The New York Times |date=28 August 2026 }}</ref>
+
+==Champions==
+{{main|List of German football champions}}
+
+In total, 13 clubs have won the ''bundesliga'', not including the former [[List of German football champions|German championship]] titles won before the Bundesliga's inception and those in the [[DDR-Oberliga|East German Oberliga]]. The record champions are [[FC Bayern Munich|Bayern Munich]] with 34 titles.<ref>{{cite web |url=https://fcbayern.com/en/club/honours/all-honours |title=Honours |publisher=FC Bayern Munich |access-date=2 November 2016 |date=20 May 2016 |archive-date=17 September 2016 |archive-url=https://web.archive.org/web/20160917001219/https://fcbayern.com/en/club/honours/all-honours |url-status=live }}</ref>
+
+===List of champions===
+{| class="wikitable sortable"
+|-
+! Season
+! Champions<ref>{{cite web|url=https://www.dfb.de/index.php?id=82905 |title=Deutsche Meister der Männer |language=de |publisher=dfb.de |access-date=4 January 2012 |url-status=dead |archive-url=https://web.archive.org/web/20140329232034/https://www.dfb.de/index.php?id=82905 |archive-date=29 March 2014 }}</ref>
+|-
+| [[1963–64 Bundesliga|1963–64]] || [[1. FC Köln]]
+|-
+| [[1964–65 Bundesliga|1964–65]] || [[SV Werder Bremen|Werder Bremen]]
+|-
+| [[1965–66 Bundesliga|1965–66]] || [[TSV 1860 Munich|1860 Munich]]
+|-
+| [[1966–67 Bundesliga|1966–67]] || [[Eintracht Braunschweig]]
+|-
+| [[1967–68 Bundesliga|1967–68]] || [[1. FC Nürnberg]]
+|-
+| [[1968–69 Bundesliga|1968–69]] || [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[1969–70 Bundesliga|1969–70]] || rowspan="2" | [[Borussia Mönchengladbach]]
+|-
+| [[1970–71 Bundesliga|1970–71]] 
+|-
+| [[1971–72 Bundesliga|1971–72]] || rowspan="3" | [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[1972–73 Bundesliga|1972–73]] 
+|-
+| [[1973–74 Bundesliga|1973–74]] 
+|-
+| [[1974–75 Bundesliga|1974–75]] || rowspan="3" | [[Borussia Mönchengladbach]]
+|-
+| [[1975–76 Bundesliga|1975–76]] 
+|-
+| [[1976–77 Bundesliga|1976–77]] 
+|-
+| [[1977–78 Bundesliga|1977–78]] || [[1. FC Köln]]
+|-
+| [[1978–79 Bundesliga|1978–79]] || [[Hamburger SV]]
+|-
+| [[1979–80 Bundesliga|1979–80]] || rowspan="2" | [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[1980–81 Bundesliga|1980–81]] 
+|-
+| [[1981–82 Bundesliga|1981–82]] || rowspan="2" | [[Hamburger SV]]
+|-
+| [[1982–83 Bundesliga|1982–83]] 
+|-
+| [[1983–84 Bundesliga|1983–84]] || [[VfB Stuttgart]]
+|-
+| [[1984–85 Bundesliga|1984–85]] || rowspan="3" | [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[1985–86 Bundesliga|1985–86]] 
+|-
+| [[1986–87 Bundesliga|1986–87]] 
+|-
+| [[1987–88 Bundesliga|1987–88]] || [[SV Werder Bremen|Werder Bremen]] 
+|-
+| [[1988–89 Bundesliga|1988–89]] || rowspan="2" | [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[1989–90 Bundesliga|1989–90]] 
+|-
+| [[1990–91 Bundesliga|1990–91]] || [[1. FC Kaiserslautern]]
+|-
+| [[1991–92 Bundesliga|1991–92]] || [[VfB Stuttgart]]
+|-
+| [[1992–93 Bundesliga|1992–93]] || [[SV Werder Bremen|Werder Bremen]]
+|-
+| [[1993–94 Bundesliga|1993–94]] || [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[1994–95 Bundesliga|1994–95]] || rowspan="2" | [[Borussia Dortmund]]
+|-
+| [[1995–96 Bundesliga|1995–96]] 
+|-
+| [[1996–97 Bundesliga|1996–97]] || [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[1997–98 Bundesliga|1997–98]] || [[1. FC Kaiserslautern]]
+|-
+| [[1998–99 Bundesliga|1998–99]] || rowspan="3" | [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[1999–2000 Bundesliga|1999–2000]] 
+|-
+| [[2000–01 Bundesliga|2000–01]] 
+|-
+| [[2001–02 Bundesliga|2001–02]] || [[Borussia Dortmund]]
+|-
+| [[2002–03 Bundesliga|2002–03]] || [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[2003–04 Bundesliga|2003–04]] || [[SV Werder Bremen|Werder Bremen]]
+|-
+| [[2004–05 Bundesliga|2004–05]] || rowspan="2" | [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[2005–06 Bundesliga|2005–06]] 
+|-
+| [[2006–07 Bundesliga|2006–07]] || [[VfB Stuttgart]]
+|-
+| [[2007–08 Bundesliga|2007–08]] || [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[2008–09 Bundesliga|2008–09]] || [[VfL Wolfsburg]]
+|-
+| [[2009–10 Bundesliga|2009–10]] || [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[2010–11 Bundesliga|2010–11]] || rowspan="2" | [[Borussia Dortmund]]
+|-
+| [[2011–12 Bundesliga|2011–12]]
+|-
+| [[2012–13 Bundesliga|2012–13]] || rowspan="11" | [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[2013–14 Bundesliga|2013–14]] 
+|-
+| [[2014–15 Bundesliga|2014–15]] 
+|-
+| [[2015–16 Bundesliga|2015–16]] 
+|-
+| [[2016–17 Bundesliga|2016–17]] 
+|-
+| [[2017–18 Bundesliga|2017–18]] 
+|-
+| [[2018–19 Bundesliga|2018–19]] 
+|-
+| [[2019–20 Bundesliga|2019–20]] 
+|-
+| [[2020–21 Bundesliga|2020–21]] 
+|-
+| [[2021–22 Bundesliga|2021–22]] 
+|-
+| [[2022–23 Bundesliga|2022–23]]
+|-
+| [[2023–24 Bundesliga|2023–24]] || [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|-
+| [[2024–25 Bundesliga|2024–25]] || rowspan="2" | [[FC Bayern Munich|Bayern Munich]]
+|-
+| [[2025–26 Bundesliga|2025–26]]
+|-
+|}
+===Performance by club===
+Clubs in '''bold''' play in 2026–27 season in the top division. The [[List of German football champions|German championship]] winners and [[List of East German football champions |DDR-Oberliga]] winners are not included in table below.
+
+{| class="wikitable sortable"
+|-
+! style="width:10%;"|Club
+! style="width:10%;"|Winners
+! style="width:10%;"|Runners-up
+! style="width:50%;"|Winning seasons
+! style="width:50%;"|Runners-up seasons
+|-
+|'''[[FC Bayern Munich|Bayern Munich]]'''
+|align=center|34
+|align=center|10
+|[[1968–69 Bundesliga|1968–69]], [[1971–72 Bundesliga|1971–72]], [[1972–73 Bundesliga|1972–73]], [[1973–74 Bundesliga|1973–74]], [[1979–80 Bundesliga|1979–80]], [[1980–81 Bundesliga|1980–81]], [[1984–85 Bundesliga|1984–85]], [[1985–86 Bundesliga|1985–86]], [[1986–87 Bundesliga|1986–87]], [[1988–89 Bundesliga|1988–89]], [[1989–90 Bundesliga|1989–90]], [[1993–94 Bundesliga|1993–94]], [[1996–97 Bundesliga|1996–97]], [[1998–99 Bundesliga|1998–99]], [[1999–2000 Bundesliga|1999–2000]], [[2000–01 Bundesliga|2000–01]], [[2002–03 Bundesliga|2002–03]], [[2004–05 Bundesliga|2004–05]], [[2005–06 Bundesliga|2005–06]], [[2007–08 Bundesliga|2007–08]], [[2009–10 Bundesliga|2009–10]], [[2012–13 Bundesliga|2012–13]], [[2013–14 Bundesliga|2013–14]], [[2014–15 Bundesliga|2014–15]], [[2015–16 Bundesliga|2015–16]], [[2016–17 Bundesliga|2016–17]], [[2017–18 Bundesliga|2017–18]], [[2018–19 Bundesliga|2018–19]], [[2019–20 Bundesliga|2019–20]], [[2020–21 Bundesliga|2020–21]], [[2021–22 Bundesliga|2021–22]], [[2022–23 Bundesliga|2022–23]], [[2024–25 Bundesliga|2024–25]], [[2025–26 Bundesliga|2025–26]]
+| 1969–70, 1970–71, 1987–88, 1990–91, 1992–93, 1995–96, 1997–98, 2003–04, 2008–09, 2011–12
+|-
+|'''[[Borussia Dortmund]]'''
+|align=center|5
+|align=center|9
+|[[1994–95 Bundesliga|1994–95]], [[1995–96 Bundesliga|1995–96]], [[2001–02 Bundesliga|2001–02]], [[2010–11 Bundesliga|2010–11]], [[2011–12 Bundesliga|2011–12]]
+| 1965–66, 1991–92, 2012–13, 2013–14, 2015–16, 2018–19, 2019–20, 2021–22, 2022–23, 2025–26
+|-
+|'''[[Borussia Mönchengladbach]]'''
+|align=center|5
+|align=center|2
+|[[1969–70 Bundesliga|1969–70]], [[1970–71 Bundesliga|1970–71]], [[1974–75 Bundesliga|1974–75]], [[1975–76 Bundesliga|1975–76]], [[1976–77 Bundesliga|1976–77]]
+| 1973–74, 1977–78
+|-
+|'''[[SV Werder Bremen|Werder Bremen]]'''
+|align=center|4
+|align=center|7
+|[[1964–65 Bundesliga|1964–65]], [[1987–88 Bundesliga|1987–88]], [[1992–93 Bundesliga|1992–93]], [[2003–04 Bundesliga|2003–04]]
+| 1967–68, 1982–83, 1984–85, 1985–86, 1994–95, 2005–06, 2007–08
+|-
+|'''[[Hamburger SV]]'''
+|align=center|3
+|align=center|5
+|[[1978–79 Bundesliga|1978–79]], [[1981–82 Bundesliga|1981–82]], [[1982–83 Bundesliga|1982–83]]
+| 1975–76, 1979–80, 1980–81, 1983–84, 1986–87
+|-
+|'''[[VfB Stuttgart]]'''
+|align=center|3
+|align=center|3
+|[[1983–84 Bundesliga|1983–84]], [[1991–92 Bundesliga|1991–92]], [[2006–07 Bundesliga|2006–07]]
+| 1978–79, 2002–03, 2023–24
+|-
+|'''[[1. FC Köln]]'''
+|align=center|2
+|align=center|5
+|[[1963–64 Bundesliga|1963–64]], [[1977–78 Bundesliga|1977–78]]
+| 1964–65, 1972–73, 1981–82, 1988–89, 1989–90
+|-
+|[[1. FC Kaiserslautern]]
+|align=center|2
+|align=center|1
+|[[1990–91 Bundesliga|1990–91]], [[1997–98 Bundesliga|1997–98]]
+| 1993–94
+|-
+|'''[[Bayer 04 Leverkusen|Bayer Leverkusen]]'''
+|align=center|1
+|align=center|6
+|[[2023–24 Bundesliga|2023–24]]
+| 1996–97, 1998–99, 1999–2000, 2001–02, 2010–11, 2024–25
+|-
+|[[TSV 1860 Munich|1860 Munich]]
+|align=center|1
+|align=center|1
+|[[1965–66 Bundesliga|1965–66]]
+| 1966–67
+|-
+|[[VfL Wolfsburg]]
+|align=center|1
+|align=center|1
+|[[2008–09 Bundesliga|2008–09]]
+| 2014–15
+|-
+|[[Eintracht Braunschweig]]
+|align=center|1
+|align=center|—
+|[[1966–67 Bundesliga|1966–67]]
+|
+|-
+|[[1. FC Nürnberg]]
+|align=center|1
+|align=center|—
+|[[1967–68 Bundesliga|1967–68]]
+|
+|-
+|'''[[FC Schalke 04|Schalke 04]]'''
+|align=center|—
+|align=center|7
+|
+| 1971–72, 1976–77, 2000–01, 2004–05, 2006–07, 2009–10, 2017–18
+|-
+|'''[[RB Leipzig]]'''
+|align=center|—
+|align=center|2
+|
+| 2016–17, 2020–21
+|-
+|[[MSV Duisburg]]
+|align=center|—
+|align=center|1
+|
+| 1963–64
+|-
+|[[Alemannia Aachen]]
+|align=center|—
+|align=center|1
+|
+| 1968–69
+|-
+|[[Hertha BSC]]
+|align=center|—
+|align=center|1
+|
+| 1974–75
+|}
+
+===Honours===
+[[File:Oliver Kahn of Munich, September 2, 2008.jpg|thumb|[[Oliver Kahn]] won eight Bundesliga championships.]]
+
+In 2004, the honour of "Verdiente Meistervereine" (roughly "distinguished champion clubs") was introduced, following a custom first practised in Italy<ref>{{cite news|title=FIFA awards special 'Club World Champion' badge to AC Milan|url=https://www.fifa.com/tournaments/archive/clubworldcup/japan2007/news/newsid=687173/index.html|archive-url=https://web.archive.org/web/20141215104842/http://www.fifa.com/tournaments/archive/clubworldcup/japan2007/news/newsid=687173/index.html|url-status=dead|archive-date=15 December 2014|access-date=8 August 2015|publisher=FIFA|date=7 February 2008}}</ref> to recognize sides that have won three or more championships since 1963 by the display of [[Star (football badge)|gold stars on their team badges]] and jerseys. Each country's usage is unique, with the following rules applying in Germany:<ref>{{cite web |url=https://media.dfl.de/sites/2/2021/03/Anhang-IV-zur-LO-2021-03-05-Stand.pdf |title=Anhang IV zur LO: Richtlinie für Spielkleidung und Ausrüstung |trans-title=Annex IV to the Licensing Regulations: Guideline for Match Clothing and Equipment |work=[[Deutsche Fußball Liga]] |page=19 |date=5 March 2021 |access-date=8 May 2021 |language=de |url-status=live |archive-url=https://web.archive.org/web/20210508000000/https://media.dfl.de/sites/2/2021/03/Anhang-IV-zur-LO-2021-03-05-Stand.pdf |archive-date=8 May 2021}} [https://megalodon.jp/ref/2021-0509-0112-02/https://media.dfl.de:443/sites/2/2021/03/Anhang-IV-zur-LO-2021-03-05-Stand.pdf Alt URL] {{Webarchive|url=https://web.archive.org/web/20210508161240/https://megalodon.jp/ref/2021-0509-0112-02/https://media.dfl.de:443/sites/2/2021/03/Anhang-IV-zur-LO-2021-03-05-Stand.pdf |date=8 May 2021 }}</ref>
+*3 Bundesliga titles: 1 star
+*5 Bundesliga titles: 2 stars
+*10 Bundesliga titles: 3 stars
+*20 Bundesliga titles: 4 stars
+*30 Bundesliga titles: 5 stars
+
+The former East German side [[BFC Dynamo]] laid claim to the three stars of a 10-time champion. The club asked for equal rights and petitioned the DFL and  the DFB to have their [[DDR-Oberliga]] titles recognized. BFC Dynamo received support from SG Dynamo Dresden and 1. FC Magdeburg in its attempts to achieve recognition for East German titles.<ref>{{cite news |last=Schulz |first=Jürgen |date=10 August 2004 |title=Verrückt? BFC will genauso viele Sterne wie die Bayern - DDR-Rekordmeister fordert Gleichbehandlung von DFL |url=http://home.snafu.de/erich.mielke/HTMLPresse/2004_08_10_2.html |language=de |newspaper=[[B.Z. (newspaper)|B.Z.]] |location=Berlin |publisher=B.Z. Ullstein GmbH |access-date=4 July 2021 |archive-date=31 July 2021 |archive-url=https://web.archive.org/web/20210731120009/https://home.snafu.de/erich.mielke/HTMLPresse/2004_08_10_2.html |url-status=live }}</ref> The DFL eventually answered that it was not the responsible body and pointed to the DFB, but the DFB remained silent for long time. BFC Dynamo eventually took matters into their own hands and emblazoned its jerseys with three stars, while a decision was still pending.<ref>{{cite news |last=Hönicke |first=Christian |date=26 March 2005 |title=Sternstunden im Sportforum |url=https://www.tagesspiegel.de/sport/sternstunden-im-sportforum/595640.html |language=de |newspaper=Der Tagesspiegel |location=Berlin |publisher=Verlag Der Tagesspiegel GmbH |access-date=1 November 2020 |archive-date=28 September 2021 |archive-url=https://web.archive.org/web/20210928064041/https://www.tagesspiegel.de/sport/sternstunden-im-sportforum/595640.html |url-status=live }}</ref> This caused some debate because the club had been the favorite club of [[Erich Mielke]] during the East German era. There were rumours that the ten titles won by the club were also due to alleged manipulation of the game by Erich Mielke, while there is no proof that referees stood under direct instructions from the [[Stasi]] and no document has ever been found in the archives that gave the Stasi a mandate to bribe referees.<ref name="StarQuality">{{cite web |url=https://www.dw.com/en/east-germanys-star-quality-in-question/a-1581269 |title=East Germany's Star Quality in Question |last=Kluempers |first=John |date=13 May 2005 |website=dw.com |location=[[Bonn]] |publisher=[[Deutsche Welle]] |access-date=4 July 2021 |archive-date=12 August 2011 |archive-url=https://web.archive.org/web/20110812220027/http://www.dw-world.de/dw/article/0,2144,1581269,00.html |url-status=live }}</ref><ref>{{cite book |last1=Mike |last2=Grix |first1=Dennis |first2=Jonathan |date=2012 |title=Sport under Communism – Behind the East German 'Miracle' |location=[[Hampshire]] |edition=1st |publisher=Palgrave Macmillan (Macmillan Publishers Limited) |page=150 =978-0-230-22784-2 }}</ref><ref>{{cite book |last=MacDougall |first=Alan |date=2014 |title=The People's Game: Football, State and Society in East Germany |location=[[Cambridge]] |edition= 1st |publisher=Cambridge University Press |page=227 |isbn=978-1-107-05203-1 }}</ref> In an interview with the ''[[Leipziger Volkszeitung]]'' in 2017, former East German referee  [[Bernd Heynemann]] concluded: "The BFC is not ten times champions because the referees only whistled for Dynamo. They were already strong as a bear."<ref name="SBBigBrother">{{cite news |last=Schäfer |first=Guido |date=11 October 2017 |title=Bernd Heynemann im Interview: "Wir brauchen kein Big Brother" |url=https://www.sportbuzzer.de/artikel/bernd-heynemann-im-interview-wir-brauchen-kein-big-brother/ |language=de |newspaper=Sportbuzzer |location=Hannover |publisher=Sportbuzzer GmbH |archive-url=https://web.archive.org/web/20201103002011/https://www.sportbuzzer.de/artikel/bernd-heynemann-im-interview-wir-brauchen-kein-big-brother/ |archive-date=3 November 2020|access-date=30 October 2020 |quote=Der BFC ist nicht x-mal Meister geworden, weil die Schiris nur für Dynamo gepfiffen haben. Die waren schon bärenstark.}}</ref> Critics in the DFB environment pointed to politically influenced championships in East Germany.<ref name="KriegSterne">{{cite news |last=Schulz |first=Jürgen |date=11 October 2004 |title=BFC Dynamo startet Krieg der Sterne |url=https://taz.de/BFC-Dynamo-startet-Krieg-der-Sterne/!689350/ |language=de |newspaper=[[Die Tageszeitung]] |publisher=taz Verlags u. Vertriebs GmbH |location=Berlin |access-date=4 July 2021 |archive-date=24 April 2022 |archive-url=https://web.archive.org/web/20220424030050/https://taz.de/BFC-Dynamo-startet-Krieg-der-Sterne/!689350/ |url-status=live }}</ref> BFC Dynamo had been supported by the Stasi and had been advantaged.<ref name="KriegSterne"/> The club had enjoyed privileged access to talents and access to a permanent training camp at Uckley in [[Königs Wusterhausen]]. However, also other clubs in East Germany had enjoyed similar advantages, which put the DFB in a difficult situation.<ref name="KriegSterne"/> Former East German referee and then [[Christian Democratic Union of Germany|CDU]] parliamentarian Bernd Heynemann spoke out for recognition of all East German titles.<ref name="StarQuality"/> The issue of recognition for titles outside the Bundesliga also affected pre-Bundesliga champions, such as [[Hertha BSC]]. The DFB finally decided in November 2005 to allow [[German football champions|all former champions]] to display a single star inscribed with the number of titles, including all German men's titles since 1903, [[Frauen-Bundesliga|women's titles]] since 1974 and East German titles.<ref>{{cite web|url=https://www.dfb.de/uploads/media/06_Durchfuehrungsbestimmungen_01.pdf |title=6 Durchführungsbestimmungen |trans-title=6 Implementing regulations |language=de |page=52 |url-status=dead |archive-url=https://web.archive.org/web/20130509151049/https://www.dfb.de/uploads/media/06_Durchfuehrungsbestimmungen_01.pdf |archive-date= 9 May 2013 }}</ref>
+
+The DFB format only applies to teams playing below the Bundesliga (below the top two divisions), since the DFL conventions apply in the Bundesliga. [[SpVgg Greuther Fürth|Greuther Fürth]] unofficially display three (silver) stars for pre-war titles in spite of being in the Bundesliga. These stars are a permanent part of their crest. However, Fürth has to leave the stars out of their jersey.
+
+Since June 2010, the following clubs have been officially allowed to wear stars while playing in the Bundesliga. The number in parentheses is for Bundesliga titles won.
+
+*[[File:Star full.svg|20px]] [[File:Star full.svg|20px]] [[File:Star full.svg|20px]] [[File:Star full.svg|20px]] [[File:Star full.svg|20px]] [[FC Bayern Munich|Bayern Munich]] (34)
+*[[File:Star full.svg|20px]] [[File:Star full.svg|20px]] [[Borussia Dortmund]] (5)
+*[[File:Star full.svg|20px]] [[File:Star full.svg|20px]] [[Borussia Mönchengladbach]] (5)
+*[[File:Star full.svg|20px]] [[SV Werder Bremen|Werder Bremen]] (4)
+*[[File:Star full.svg|20px]] [[Hamburger SV]] (3)
+*[[File:Star full.svg|20px]] [[VfB Stuttgart]] (3)
+
+In addition, a system of one star designation was adopted for use. This system is intended to take into account not only Bundesliga titles but also other (now defunct) national championships. As of July 2014, the following clubs are allowed to wear one star while playing outside the Bundesliga. The number in parentheses is for total league championships won over the course of German football history, and would be displayed within the star. Some teams listed here had different names while winning their respective championships, these names are also noted in parentheses.
+
+{{col-begin}}
+{{col-3}}
+*[[File:Star full.svg|20px]] [[FC Bayern Munich|Bayern Munich]]* (35)
+*[[File:Star full.svg|20px]] [[Berliner FC Dynamo|BFC Dynamo]] (10)
+*[[File:Star full.svg|20px]] [[1. FC Nürnberg]]** (9)
+*[[File:Star full.svg|20px]] [[Borussia Dortmund]]* (8)
+*[[File:Star full.svg|20px]] [[Dynamo Dresden]]** (8)
+*[[File:Star full.svg|20px]] [[FC Schalke 04|Schalke 04]]* (7)
+*[[File:Star full.svg|20px]] [[Hamburger SV]]** (7) (1921–22, Title declined per DFB)
+*[[File:Star full.svg|20px]] [[1. FC Frankfurt]] (as ''ASK Vorwärts Berlin'' and ''FC Vorwärts Berlin'' in the DDR-Oberliga) (6)
+*[[File:Star full.svg|20px]] [[VfB Stuttgart]]* (5)
+*[[File:Star full.svg|20px]] [[Borussia Mönchengladbach]]* (5)
+*[[File:Star full.svg|20px]] [[SV Werder Bremen|Werder Bremen]]* (4)
+*[[File:Star full.svg|20px]] [[1. FC Kaiserslautern]]** (4)
+*[[File:Star full.svg|20px]] [[FC Erzgebirge Aue]]*** (include 1955 DDR-Oberliga unofficial fall championship) (as ''SC Wismut Karl-Marx-Stadt'') (4)
+*[[File:Star full.svg|20px]] [[FC Carl Zeiss Jena]] (3)
+{{col-3}}
+*[[File:Star full.svg|20px]] [[1. FC Köln]]* (3)
+*[[File:Star full.svg|20px]] [[1. FC Lokomotive Leipzig]] (as ''VfB Leipzig'') (3)
+*[[File:Star full.svg|20px]] [[1. FC Magdeburg]]** (3)
+*[[File:Star full.svg|20px]] [[SpVgg Greuther Fürth|Greuther Fürth]]** (3)
+*[[File:Star full.svg|20px]] [[Hertha BSC]]** (2)
+*[[File:Star full.svg|20px]] [[FC Viktoria 1889 Berlin]] (as ''Berliner TuFC Viktoria 89'')*** (2)
+*[[File:Star full.svg|20px]] [[FC Rot-Weiß Erfurt]] (as ''BSG Turbine Erfurt'' and ''SC Turbine Erfurt'' in the DDR-Oberliga) (2)
+*[[File:Star full.svg|20px]] [[Dresdner SC]] (2)
+*[[File:Star full.svg|20px]] [[BSG Chemie Leipzig (1950)|BSG Chemie Leipzig]] (as ''BSG Chemie Leipzig'' in the DDR-Oberliga) (2)
+*[[File:Star full.svg|20px]] [[Hannover 96]]** (2)
+*[[File:Star full.svg|20px]] [[FSV Zwickau]]*** (as ''ZSG Horch Zwickau'' in the DDR-Oberliga) (2)
+*[[File:Star full.svg|20px]] [[Turbine Halle]] (as ''BSG Turbine Halle'' in the DDR-Oberliga) (2)
+*[[File:Star full.svg|20px]] [[FC Hansa Rostock|Hansa Rostock]]** (in the DDR-Oberliga) (1)
+{{col-3}}
+*[[File:Star full.svg|20px]] [[Karlsruher FV]] (1)
+*[[File:Star full.svg|20px]] [[Holstein Kiel]]** (1)
+*[[File:Star full.svg|20px]] [[TSV 1860 Munich|1860 Munich]]*** (1)
+*[[File:Star full.svg|20px]] [[Blau-Weiß 1890 Berlin]] (as ''Union 92 Berlin'') (1)
+*[[File:Star full.svg|20px]] [[Karlsruher SC]]** (1)
+*[[File:Star full.svg|20px]] [[Fortuna Düsseldorf]]** (1)
+*[[File:Star full.svg|20px]] [[Eintracht Frankfurt]]* (1)
+*[[File:Star full.svg|20px]] [[VfL Wolfsburg]]* (1)
+*[[File:Star full.svg|20px]] [[Bayer 04 Leverkusen|Bayer Leverkusen]]* (1)
+*[[File:Star full.svg|20px]] [[Chemnitzer FC]] (as ''FC Karl-Marx-Stadt'' in the DDR-Oberliga) (1)
+*[[File:Star full.svg|20px]] [[Freiburger FC]] (1)
+*[[File:Star full.svg|20px]] [[VfR Mannheim]] (1)
+*[[File:Star full.svg|20px]] [[Rot-Weiss Essen]]*** (1)
+*[[File:Star full.svg|20px]] [[Eintracht Braunschweig]]** (1)
+{{col-end}}
+
+<nowiki>*</nowiki> {{small|currently member of 1. Bundesliga}}<br />
+<nowiki>**</nowiki> {{small|currently member of 2. Bundesliga}}<br />
+<nowiki>***</nowiki> {{small|currently member of 3. Liga}}
+
+==Logo history==
+For the first time in 1996, the Bundesliga was given its own logo to distinguish itself. Six years later, the logo was revamped into a portrait orientation, which was used until 2010. A new logo was announced for the [[2010–11 Bundesliga|2010–11 season]] in order to modernise the brand logo for all media platforms.<ref>{{cite news |url=http://www.bundesliga.de/de/liga/news/bundesliga-mit-neuem-markenauftritt-zur-saison-2010-2011_0000152975.jsp |title=Bundesliga mit neuem Markenauftritt zur Saison 2010/2011 |trans-title=Bundesliga with a new brand image for the 2010–11 season |website=Bundesliga |publisher=Deutsche Fußball Liga |date=6 May 2010 |access-date=28 December 2016 |language=de |archive-date=29 December 2016 |archive-url=https://web.archive.org/web/20161229030849/http://www.bundesliga.de/de/liga/news/bundesliga-mit-neuem-markenauftritt-zur-saison-2010-2011_0000152975.jsp |url-status=dead }}</ref> To celebrate the 50th anniversary of the Bundesliga, a special logo was developed for the [[2012–13 Bundesliga|2012–13 season]], featuring a "50" and "1963–2013".<ref>{{cite news |url=http://www.bundesliga.de/de/liga/news/dfl-und-adidas-feiern-50-jahre-bundesliga-neues-logo-und-neuer-ball-zum-jubilaeum_0000211476.jsp |title=DFL und adidas feiern 50 Jahre Bundesliga: Neues Logo und neuer Ball zum Jubiläum |trans-title=DFL and adidas celebrate 50 years of the Bundesliga: New logo and new ball for the anniversary |website=Bundesliga |publisher=Deutsche Fußball Liga |date=4 May 2012 |access-date=28 December 2016 |language=de |archive-date=29 December 2016 |archive-url=https://web.archive.org/web/20161229030847/http://www.bundesliga.de/de/liga/news/dfl-und-adidas-feiern-50-jahre-bundesliga-neues-logo-und-neuer-ball-zum-jubilaeum_0000211476.jsp |url-status=dead }}</ref> Following the season, the 2010 logo was restored. In December 2016, it was announced that a new logo would be used for the 2017–18 season, modified slightly for digitisation requirements, featuring a matte look.<ref>{{cite news |url=http://www.bundesliga.com/en/news/Bundesliga/agmd14-bundesliga-new-logo-427141.jsp |title=Bundesliga: New brand look from 2017/18 season |website=Bundesliga |publisher=Deutsche Fußball Liga |date=12 December 2016 |access-date=28 December 2016 |archive-date=28 December 2016 |archive-url=https://web.archive.org/web/20161228124355/http://www.bundesliga.com/en/news/Bundesliga/agmd14-bundesliga-new-logo-427141.jsp |url-status=live }}</ref>
+
+==Influence and criticism==
+Former England international [[Owen Hargreaves]] hailed the Bundesliga alongside [[Pep Guardiola]] for its positive impact on nurturing young talents, noting that the Bundesliga is the best league in the world to promote young footballers.<ref>{{Cite web|url=https://www.mirror.co.uk/sport/football/news/owen-hargreaves-hails-pep-guardiolas-22023307|title=Hargreaves hails Guardiola's Bundesliga impact ahead of German football's return|first=Neil|last=McLeman|date=13 May 2020|website=mirror|accessdate=8 April 2021|archive-date=20 April 2021|archive-url=https://web.archive.org/web/20210420215058/https://www.mirror.co.uk/sport/football/news/owen-hargreaves-hails-pep-guardiolas-22023307|url-status=live}}</ref> Many young English talents have sought refuge in Germany in order to regain fitness and football skills.<ref>{{Cite web|url=https://www.bundesliga.com/en/news/Bundesliga/germany-destination-of-choice-for-frustrated-england-kids-sancho-lookman-oxford-473754.jsp|title=Breaking the grass ceiling: why England's frustrated youngsters are heading to the Bundesliga|website=bundesliga.com – the official Bundesliga website|access-date=8 April 2021|archive-date=28 January 2021|archive-url=https://web.archive.org/web/20210128135007/https://www.bundesliga.com/en/news/Bundesliga/germany-destination-of-choice-for-frustrated-england-kids-sancho-lookman-oxford-473754.jsp|url-status=dead}}</ref> Outside Europe, the [[J.League]] of Japan, which was founded in 1992, was strongly influenced by the philosophy of the Bundesliga. Since then, the J.League has managed to establish itself as one of the best football leagues in Asia, in which it shares a beneficial relationship with its German exemplar.<ref>{{Cite web|url=https://bleacherreport.com/articles/1681906-the-german-bundesligas-importance-to-japanese-football|title=German Bundesliga, Japanese Football Share Mutually Beneficial Relationship|first=Stefan|last=Bienkowski|website=Bleacher Report|accessdate=8 April 2021|archive-date=30 January 2021|archive-url=https://web.archive.org/web/20210130032112/https://bleacherreport.com/articles/1681906-the-german-bundesligas-importance-to-japanese-football|url-status=live}}</ref>
+
+The Bundesliga has earned praise for its reputation on good financial management and the physical fitness of players.<ref>{{cite journal |last1=Rosar |first1=Ulrich |last2=Hagenah |first2=Jörg |last3=Klein |first3=Marcus |date=2014 |url=https://www.researchgate.net/publication/271208716 |title=Physical Attractiveness and monetary success in German Bundesliga |journal=Soccer and Society |volume=18 |pages=102–120 |doi=10.1080/14660970.2014.980742|s2cid=144629464 }}</ref>
+
+The Bundesliga outperformed the English [[Premier League]] in 2017 in online influence in China, having been accredited for its open embrace of live-streaming and fast-forward visions.<ref>{{Cite web|url=https://www.campaignasia.com/article/bundesliga-beats-epl-for-online-influence-in-china/434069|title=Bundesliga beats EPL for online influence in China &#124; Digital|website=Campaign Asia|accessdate=8 April 2021|archive-date=1 March 2021|archive-url=https://web.archive.org/web/20210301155544/https://www.campaignasia.com/article/bundesliga-beats-epl-for-online-influence-in-china/434069|url-status=live}}</ref>
+
+The Bundesliga has at times been criticised for a perceived lack of competitiveness due to the continued dominance of FC Bayern Munich. The club has won a record 34 titles (of 61 available) in the modern Bundesliga era since 1963; a greater level of success than that of all their rivals combined. Indeed, the Bavarian club won 11 consecutive titles between the 2012–13 season and the 2022–23 season.<ref>{{cite news|url=https://playingfor90.com/2020/06/18/bayern-munich-bundesliga-boring/|title=Are Bayern Munich making the Bundesliga boring?|last=Nelson|first=Trent|date=18 June 2020|website=Goal.com|language=en|archive-date=28 May 2023|access-date=8 April 2021|archive-url=https://web.archive.org/web/20230528023037/https://playingfor90.com/2020/06/18/bayern-munich-bundesliga-boring/|url-status=live}}</ref> Former Germany international [[Stefan Effenberg]] has suggested that the league be restructured in order to end Bayern's dominance.<ref>{{cite news|url=https://www.goal.com/en/news/bundesliga-should-be-restructured-to-end-bayerns-dominance/us2bie93k13i1564eekd1in1q|title=Bundesliga should be restructured to end Bayern's dominance, says ex-Germany international Effenberg|last=France|first=Sam|date=10 July 2020|website=Goal.com|language=en|access-date=10 July 2020|archive-date=11 July 2021|archive-url=https://web.archive.org/web/20210711143642/https://www.goal.com/en/news/bundesliga-should-be-restructured-to-end-bayerns-dominance/us2bie93k13i1564eekd1in1q|url-status=live}}</ref>
+
+==Records==
+{{main|Bundesliga records and statistics#Player and manager records}}
+
+===Appearances===
+[[File:Pressekonferenz Tag der Legenden 2014 (32).jpg|thumb|upright=0.7|[[Charly Körbel]]]]
+{{see also|List of Bundesliga players}}
+{{updated|21 August 2026}}<ref>{{cite web |url=https://www.rsssf.org/players/duit-bundesliga-matches.html |title=Germany – All-Time Most Matches Played in Bundesliga |publisher=Rec.Sport.Soccer Statistics Foundation |date=21 July 2011 |access-date=4 January 2012 |archive-date=16 July 2022 |archive-url=https://web.archive.org/web/20220716192103/https://www.rsssf.org/players/duit-bundesliga-matches.html |url-status=live }}</ref>
+
+{| class="wikitable sortable" style="text-align: center;"
+|+ '''Top ten players with most appearances'''
+|-
+! Rank
+! width=150|Player
+! width=50|{{Abbr|Apps|Appearances}}
+! width=80|Years
+! Club(s)
+|-
+| 1
+| style="text-align: left;" | {{flagicon|Germany}} [[Charly Körbel]]
+| '''602'''
+| 1972–1991
+| style="text-align: left;" | [[Eintracht Frankfurt]] 602
+|-
+| 2
+| style="text-align: left;" | {{flagicon|Germany}} [[Manfred Kaltz]]
+| '''581'''
+| 1971–1991
+| style="text-align: left;" | [[Hamburger SV]] 581
+|-
+| 3
+| style="text-align: left;" | {{flagicon|Germany}} [[Oliver Kahn]]
+| '''557'''
+| 1987–2008
+| style="text-align: left;" | [[Karlsruher SC]] 128, [[FC Bayern Munich|Bayern Munich]] 429
+|-
+| 4
+| style="text-align: left;" | {{flagicon|Germany}} [[Klaus Fichtel]]
+| '''552'''
+| 1965–1988
+| style="text-align: left;" | [[FC Schalke 04|Schalke 04]] 477, [[SV Werder Bremen|Werder Bremen]] 75
+|-
+| 5
+| style="text-align: left;" | {{flagicon|Germany}} [[Miroslav Votava]]
+| '''546'''
+| 1976–1996
+| style="text-align: left;" | [[Borussia Dortmund]] 189, [[SV Werder Bremen|Werder Bremen]] 357
+|-
+| 6
+| style="text-align: left;" | {{flagicon|Germany}} '''[[Manuel Neuer]]'''
+| '''545'''
+| 2006–
+| style="text-align: left;" | [[FC Schalke 04|Schalke 04]] 156, [[FC Bayern Munich|Bayern Munich]] 388
+|-
+| 7
+| style="text-align: left;" | {{flagicon|Germany}} [[Klaus Fischer]]
+| '''535'''
+| 1968–1988
+| style="text-align: left;" | [[TSV 1860 Munich|1860 Munich]] 60, [[FC Schalke 04|Schalke 04]] 295, [[1. FC Köln]] 96, [[VfL Bochum]] 84
+|-
+| 8
+| style="text-align: left;" | {{flagicon|Germany}} [[Eike Immel]]
+| '''534'''
+| 1978–1995
+| style="text-align: left;" | [[Borussia Dortmund]] 247, [[VfB Stuttgart]] 287
+|-
+|9
+| style="text-align: left;" | {{flagicon|Germany}} '''[[Oliver Baumann]]'''
+| '''523'''
+| 2010–
+| style="text-align: left;" | [[SC Freiburg]] 131, [[TSG 1899 Hoffenheim|TSG Hoffenheim]] 387
+|-
+| 10
+| style="text-align: left;" | {{flagicon|Germany}} [[Willi Neuberger]]
+| '''520'''
+| 1966–1983
+| style="text-align: left;" | [[Borussia Dortmund]] 148, [[SV Werder Bremen|Werder Bremen]] 63, [[Wuppertaler SV]] 42, [[Eintracht Frankfurt]] 267
+|}
+{{small|'''Boldface''' indicates a player still active in the Bundesliga.}}
+
+
+===Top scorers===
+[[File: Gerd_M%C3%BCller_c1973_(cropped).jpg |thumb|upright=0.7|[[Gerd Müller]]]]
+{{see also|List of Bundesliga top scorers}}
+{{updated|7 June 2025|<ref>{{cite web | url = https://www.rsssf.org/tablesd/duittops.html | title = (West) Germany – Top Scorers | publisher = Rec.Sport.Soccer Statistics Foundation | date = 21 July 2011 | access-date = 4 January 2012 | archive-date = 8 August 2022 | archive-url = https://web.archive.org/web/20220808010827/https://www.rsssf.org/tablesd/duittops.html | url-status = live }}</ref>}}
+
+{| class="wikitable sortable" style="text-align: center;"
+|+ '''Top ten goalscorers'''
+|-
+!Rank
+!Player
+!width=50|Goals
+!width=50|{{Abbr|Apps|Appearances}}
+!Ratio
+!width=80|Years
+!Club(s)
+|-
+|1
+| align="left" |{{flagicon|GER}} {{sortname|Gerd|Müller}}||'''365'''||427||0.85
+|1965–1979
+|align=left|[[FC Bayern Munich|Bayern Munich]] 365/427
+|-
+|2
+| align="left" |{{flagicon|POL}} {{sortname|Robert|Lewandowski}}||'''312'''||384||0.82
+|2010–2022
+|align=left|[[Borussia Dortmund|Dortmund]] 74/131, [[FC Bayern Munich|Bayern Munich]] 238/253
+|-
+|3
+| align="left" |{{flagicon|GER}} {{sortname|Klaus|Fischer}}||'''268'''||535||0.50
+|1968–1988
+|align=left|[[TSV 1860 Munich|1860 Munich]] 28/60, [[FC Schalke 04|Schalke 04]] 182/295, [[1. FC Köln]] 31/96, [[VfL Bochum]] 27/84
+|-
+|4
+| align="left" |{{flagicon|GER}} {{sortname|Jupp|Heynckes}}||'''220'''||369||0.60
+|1965–1978
+|align=left|[[Borussia Mönchengladbach]] 195/283, [[Hannover 96]] 25/86
+|-
+|5
+| align="left" |{{flagicon|GER}} {{sortname|Manfred|Burgsmüller}}||'''213'''||447||0.48
+|1969–1990
+|align=left|[[Rot-Weiss Essen]] 32/74, [[Borussia Dortmund]] 135/224, [[1. FC Nürnberg]] 12/34, [[SV Werder Bremen]] 34/115
+|-
+|6
+| align="left" |{{flagicon|PER|football}} {{sortname|Claudio|Pizarro}}||'''197'''||490||0.40
+|1999–2020
+|align=left|[[SV Werder Bremen|Werder Bremen]] 109/250, [[FC Bayern Munich|Bayern Munich]] 87/224, [[1. FC Köln]] 1/16
+|-
+|7
+| align="left" |{{flagicon|GER}} {{sortname|Ulf|Kirsten}}||'''181'''||350||0.52
+|1990–2003
+|align=left|[[Bayer 04 Leverkusen|Bayer Leverkusen]] 181/350
+|-
+|8
+| align="left" |{{flagicon|GER}} {{sortname|Stefan|Kuntz}}||'''179'''||449||0.40
+|1983–1999
+|align=left|[[VfL Bochum]] 47/120, [[KFC Uerdingen 05|KFC Uerdingen]] 32/94, [[1. FC Kaiserslautern]] 75/170, [[Arminia Bielefeld]] 25/65
+|-
+|rowspan="2"|9
+| align="left" |{{flagicon|GER}} {{sortname|Dieter|Müller}}||'''177'''||303||0.58
+|1973–1986
+|align=left|[[Kickers Offenbach|Offenbach]] 0/2, [[1. FC Köln]] 159/248, [[VfB Stuttgart]] 14/30, [[1. FC Saarbrücken]] 4/23
+|-
+| align="left" |{{flagicon|GER}} {{sortname|Klaus|Allofs}}||'''177'''||424||0.42
+|1975–1993
+|align=left|[[Fortuna Düsseldorf]] 71/169, [[1. FC Köln]] 88/177, [[SV Werder Bremen|Werder Bremen]] 18/78
+|}
+
+==Notes==
+{{Notelist}}
+
+==See also==
+* [[Deutsche Fußball Liga|DFL (operator of the league)]]
+* [[Promotion to the Bundesliga]]
+* [[All-time Bundesliga table]]
+* [[List of foreign Bundesliga players]]
+* [[List of football clubs in Germany by major honours won]]
+* [[List of attendance figures at domestic professional sports leagues]] – the Bundesliga in a worldwide context
+* [[German football clubs in European competitions]]
+* [[UAE German Supercup]]
+* [[90elf]] – defunct German internet radio station that covered Bundesliga matches
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat}}
+*{{Official website}} {{in lang|de|en|es|ja|fr|pl|ar|pt}}
+*[https://www.dfb.de DFB – Deutscher Fußball Bund] (German Football Association) {{in lang|de}}
+
+{{Bundesliga}}
+{{Football in Germany}}
+{{UEFA leagues}}
+{{Top sport leagues in Germany}}
+
+{{Authority control}}
+
+[[Category:Bundesliga| ]]
+[[Category:Deutsche Fußball Liga competitions|1]]
+[[Category:Football club competitions in Germany]]
+[[Category:Top-level domestic association football leagues in Europe|Germany]]
+[[Category:Professional sports leagues in Germany]]
+[[Category:1963 establishments in West Germany]]
+[[Category:Sports leagues established in 1963]]
+[[Category:Professional football leagues in Germany]]
+[[Category:Organisations based in Frankfurt]]

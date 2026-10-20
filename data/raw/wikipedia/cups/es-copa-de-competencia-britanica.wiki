@@ -1,0 +1,144 @@
+{{Ficha de liga deportiva
+| título          = Copa de Competencia Británica "George VI"
+| temporada       = 
+| logo            = Copa Competencia Britanica.jpg
+| pixels          = 
+| deporte         = Fútbol
+| fundación       =  
+| lema            = 
+| equipos         = 16 (última edición)
+| país            = Argentina
+| continente      = 
+| primer campeón  = [[Club Atlético Huracán|Huracán]] (1944)
+| piramide        = 
+| ascenso         = 
+| descenso        = 
+| inaugural       = 1944
+| difunta         = 1948
+| copa nacional   = Sí
+| campeón         = [[Boca Juniors]] (1946)
+| más campeonatos = 
+| web             = 
+| principio       = 
+| gerente         = 
+| presidente      =
+| vicepresidente  =
+| TV              = 
+}}
+
+La '''Copa de Competencia Británica "George VI"''' fue un torneo de [[fútbol]] oficial, no
+regular, organizado por la [[Asociación del Fútbol Argentino|AFA]] entre 1944 y 1946,<ref>{{Cita web|
+|apellido = Gorgazzi
+|nombre = Osvaldo José
+|título = Argentina - Torneo Competencia "George VI" - 1946
+|año = 2001
+|editorial = RSSSF
+|url= http://www.rsssf.com/tablesa/arg-bri46.html
+|fechaacceso= 15 de abril de 2010}}</ref> que disputaban los equipos de [[Primera División de Argentina|Primera División]] del torneo oficial en curso.
+
+Se jugaba a través del sistema de eliminación directa, a único partido, y en las dos primeras ediciones, las de 1944 y 1945,<ref>{{Cita web|
+|apellido = Gorgazzi
+|nombre = Osvaldo José
+|título = Argentina - Torneo Competencia - Copa Británica - 1944
+|año = 1999/2001
+|editorial = RSSSF
+|url= http://www.rsssf.com/tablesa/arg-bri44.html
+|fechaacceso= 15 de abril de 2010}}</ref><ref>{{Cita web|
+|apellido = Gorgazzi
+|nombre = Osvaldo José
+|título = Argentina - Torneo Competencia - II Copa Británica - 1945
+|año = 1999/2001
+|editorial = RSSSF
+|url= http://www.rsssf.com/tablesa/arg-bri45.html
+|fechaacceso= 15 de abril de 2010}}</ref> clasificó a los cuatro semifinalistas a la [[Copa de la República]]. También se disputó una cuarta edición, en 1948,<ref>{{Cita web|
+|apellido = Gorgazzi
+|nombre = Osvaldo José
+|título = Argentina - Torneo Competencia "George VI" - 1948
+|año = 2001
+|editorial = RSSSF
+|url= http://www.rsssf.com/tablesa/arg-bri48.html
+|fechaacceso= 15 de abril de 2010}}</ref> pero el certamen fue abandonado en primera fase (octavos de final) y declarado ''desierto'' por la Asociación del Fútbol Argentino.
+
+En la edición de 1946, la competencia incluyó [[árbitro]]s [[ingleses]].
+
+El trofeo fue donado por el [[embajador]] británico en [[Argentina]], [[David Kelly (embajador británico)|David Kelly]], en nombre del [[Monarca|rey]] del [[Reino Unido]] (1936-1952), [[Jorge VI]], y de la [[Football Association]].
+
+== Campeones ==
+{| class="sortable" border=1 cellspacing="2" style="background: #EBF5FF; border: 1px solid; border-collapse: collapse; font-size: 90%;" width=65%
+|- bgcolor=#006699 style="color:white; border: 1px #aaa solid;" align="center"
+!width=5%|Año
+!width=10%|Campeón
+!width=5%|Resultado
+!width=10%|Subcampeón
+|- align=center
+|1944
+|{{bandera|Buenos Aires}}<br>'''[[Club Atlético Huracán|Huracán]]'''
+|'''4''' - 2
+|{{bandera|Buenos Aires}}<br>[[Club Atlético Boca Juniors|Boca Juniors]]
+|- align=center
+|[[Copa de Competencia Británica 1945|1945]]
+|{{bandera|Provincia de Buenos Aires}}<br>'''[[Racing Club]]'''
+|'''4''' - 1
+|{{bandera|Buenos Aires}}<br>[[Club Atlético Boca Juniors|Boca Juniors]]
+|- align=center
+|1946
+|{{bandera|Buenos Aires}}<br>'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|'''3''' - 1
+|{{bandera|Buenos Aires}}<br>[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|- align=center
+|1948
+|colspan=3|''Incompleta''
+|-
+|}
+
+== Palmarés ==
+{| class="sortable" border=1 width=65% cellpadding="2" cellspacing="0" style="background: #f9f9f9; border: 1px solid; border-collapse: collapse; font-size: 90%; text-align: left;"
+|- align="center" align=center style="background:#CCDDCC" "color:black;"
+! class="unsortable" bgcolor=CCDDCC|Equipo
+! bgcolor=CCDDCC|Campeonatos
+! bgcolor=CCDDCC|Subcampeonatos
+! bgcolor=CCDDCC|Años campeón
+! bgcolor=CCDDCC|Años subcampeón
+|-
+|[[Archivo:600px Mongolfiera e H.png|20px]] '''[[Club Atlético Huracán|Huracán]]'''
+| align="center"| '''1'''
+| align="center"| 0
+| align="center"| 1944
+| align="center"| -
+|- 
+|[[Archivo:600px Azzurro e Bianco (Strisce).svg|20px]] '''[[Racing Club]]'''
+| align="center"| '''1'''
+| align="center"| 0
+| align="center"| 1945
+| align="center"| -
+|- bgcolor=#F9F9F9
+|[[Archivo:600px Blu con striscia Gialla.png|20px]] '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| align="center"| '''1'''
+| align="center"| 2
+| align="center"| 1946
+| align="center"| 1944, 1945
+|- 
+|[[Archivo:Blu e Rosso (Strisce).png|20px]] '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+| align="center"| '''0'''
+| align="center"| 1
+| align="center"| -
+| align="center"| 1946
+|- 
+|}
+
+== Véase también ==
+* [[Asociación del Fútbol Argentino]]
+* [[Fútbol en Argentina]]
+* [[Primera División de Argentina]]
+* [[Anexo:Competiciones oficiales del fútbol argentino|Competiciones oficiales del fútbol argentino]]
+* [[Copas nacionales del fútbol argentino]]
+* [[Copa de la República]]
+
+== Referencias ==
+<div class="references-small">
+{{listaref}}
+</div>
+
+{{Control de autoridades}}
+[[Categoría:Copas nacionales de fútbol de Argentina]]
+[[Categoría:Competiciones extintas del fútbol en Argentina]]

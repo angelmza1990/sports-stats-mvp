@@ -53,13 +53,21 @@ def download(first_year: int, last_year: int, refresh: bool = False, tour: str =
         if refresh or not path.exists():
             print(f"downloading {tour} {year}...", file=sys.stderr)
             try:
-                urllib.request.urlretrieve(SOURCE_URL.format(tour=tour, year=year), path)
+                tmp = path.with_suffix(".part")
+                urllib.request.urlretrieve(SOURCE_URL.format(tour=tour, year=year), tmp)
+                tmp.replace(path)
             except urllib.error.HTTPError as err:
                 # The source may not have a file for the current season yet.
-                if err.code == 404 and year == last_year:
+                if err.code == 404 and year == last_year and not path.exists():
                     print(f"no data for {year} yet", file=sys.stderr)
                     continue
-                raise
+                if not path.exists():
+                    raise
+                print(f"warning: could not download {path.name} ({err}); using the saved copy", file=sys.stderr)
+            except (urllib.error.URLError, TimeoutError, OSError) as err:
+                if not path.exists():
+                    raise
+                print(f"warning: could not download {path.name} ({err}); using the saved copy", file=sys.stderr)
         paths.append(path)
     return paths
 
@@ -127,9 +135,18 @@ def fetch_wikitext(title: str, cache: Path, refresh: bool) -> str:
             "format": "json", "formatversion": "2", "redirects": "1",
         })
         req = urllib.request.Request(f"{WIKI_API}?{query}", headers={"User-Agent": USER_AGENT})
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            body = json.loads(resp.read())
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                body = json.loads(resp.read())
+        except (urllib.error.URLError, TimeoutError, OSError) as err:
+            if cache.exists():  # keep the saved snapshot
+                print(f"warning: could not download {title} ({err}); using the saved copy", file=sys.stderr)
+                return json.loads(cache.read_text(encoding="utf-8"))["parse"]["wikitext"]
+            raise
         if "error" in body:
+            if cache.exists():
+                print(f"warning: {title} is no longer on Wikipedia; using the saved copy", file=sys.stderr)
+                return json.loads(cache.read_text(encoding="utf-8"))["parse"]["wikitext"]
             raise LookupError(f"Wikipedia page not found: {title}")
         cache.parent.mkdir(parents=True, exist_ok=True)
         cache.write_text(json.dumps(body), encoding="utf-8")

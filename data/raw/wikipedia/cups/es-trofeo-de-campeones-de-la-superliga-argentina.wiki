@@ -1,0 +1,88 @@
+{{Ficha de liga deportiva
+|imagen =
+|título = Trofeo de Campeones de la Superliga Argentina
+|temporada actual = 
+|deporte = Fútbol
+|nombre oficial=
+|fundación= 2018
+|primera temporada = 2018-19
+|organizador = [[Superliga Argentina (fútbol)|Superliga Argentina]]
+|federación =[[Asociación del Fútbol Argentino]]
+|equipos = 2
+|país = {{ARG}}
+|primer campeón = [[Racing Club]]
+|campeón actual = Racing Club
+|más campeonatos = Racing Club (1)
+|difunta = 2020
+}}
+
+El '''Trofeo de Campeones de la Superliga Argentina''' fue una [[Copas nacionales del fútbol argentino|copa nacional]] de [[fútbol]], organizada por la [[Asociación del Fútbol Argentino]] a través de la [[Superliga Argentina (fútbol)|Superliga]], cuya única edición fue la de [[Trofeo de Campeones de la Superliga 2018-19|2019]]. Enfrentó a los campeones de la [[Primera División de Argentina|Superliga Argentina]] y de la [[Copa de la Superliga Argentina]].<ref>{{cita web|título=Se juega el Trofeo de Campeones|url=https://www.saf.com.ar/institucional/noticia/se-juega-el-trofeo-de-campeones|editorial=Sitio oficial de la Superliga Argentina|fecha=12 de septiembre de 2019|fechaacceso=12 de septiembre de 2019|fechaarchivo=29 de septiembre de 2019|urlarchivo=https://web.archive.org/web/20190929222317/https://www.saf.com.ar/institucional/noticia/se-juega-el-trofeo-de-campeones|deadurl=yes}}</ref>
+
+== Historia ==
+La primera y única edición enfrentó a [[Racing Club]], campeón de la [[Campeonato de Primera División 2018-19 (Argentina)|Superliga 2018-19]], y a [[Club Atlético Tigre|Tigre]], campeón de la [[Copa de la Superliga 2019]]. El partido se jugó el 14 de diciembre de 2019, en el [[Estadio José María Minella]] de [[Mar del Plata]], con triunfo de Racing Club por 2-0.<ref>{{cita web|título=Racing derrotó a Tigre y se consagró en la primera edición del Trofeo de Campeones|url=https://www.infobae.com/deportes-2/2019/12/14/racing-y-tigre-disputaran-la-primera-final-del-trofeo-de-campeones-hora-tv-y-formaciones/|editorial=Infobae|fecha=14 de diciembre de 2019|fechaacceso=9 de marzo de 2021}}</ref>
+
+La segunda edición del torneo, que tenía preclasificado a [[Club Atlético Boca Juniors|Boca Juniors]] como campeón de la [[Campeonato de Primera División 2019-20 (Argentina)|Superliga 2019-20]], fue cancelada luego de que la [[Copa de la Superliga 2020]] fuera suspendida definitivamente por la [[pandemia de covid-19]], sumado a la posterior disolución de la entidad organizadora.<ref>{{cita web|autor=Alejandro Casar González|título=Fin de temporada: las claves de la decisión y cómo queda el mapa de los torneos de la AFA|url=https://www.lanacion.com.ar/deportes/futbol/fin-temporada-claves-decision-como-queda-mapa-nid2359021|editorial=Diario La Nación|fecha=28 de abril de 2020}}</ref>
+
+== Edición ==
+{| class="sortable" border=1 width=105% cellpadding="2" cellspacing="0" style="background: #f9f9f9; border: 1px solid; border-collapse: collapse; font-size: 90%; text-align: left;" width=75%
+|+
+|- align="center" style="background:#CCDDCC" "color:black;"
+! class="unsortable" bgcolor="CCDDCC" width="12%" |Edición
+! Campeón
+! Resultado
+! Subcampeón
+! Sede del partido
+|- align="center"
+| [[Trofeo de Campeones de la Superliga 2018-19|2019]]||'''[[Racing Club]]''' {{small|(PD)}}||2:0||[[Club Atlético Tigre|Tigre]] {{small|(CSL)}}||[[Estadio José María Minella]], [[Mar del Plata]]
+|}
+
+:<small>'''(PD):''' Campeón de la Primera División.</small>
+:<small>'''(CSL):''' Campeón de la Copa de la Superliga.</small>
+
+== Palmarés ==
+{| class="sortable" border=1 width=85% cellpadding="2" cellspacing="0" style="background: #f9f9f9; border: 1px solid; border-collapse: collapse; font-size: 90%; text-align: left;" width=50%
+|- align="center" style="background:#CCDDCC" "color:black;"
+!width=25% bgcolor=CCDDCC |Equipo
+!width=10%|Título
+!Edición campeón
+|- align="center" bgcolor="#f9f9f9"
+| '''[[Racing Club]]
+|1 
+| 2019
+|}
+
+== Estadísticas ==
+
+=== Goleadores por edición ===
+{| class="sortable" border=1 width=85% cellpadding="2" cellspacing="0" style="background: #f9f9f9; border: 1px solid; border-collapse: collapse; font-size: 90%; text-align: left;" width=50%
+|- align="center" style="background:#CCDDCC" "color:black;"
+! class="unsortable" bgcolor=CCDDCC width=5%|Edición
+!width=15%|Jugador
+!width=10%|Equipo
+!width=2%|Goles
+|- align=center
+| [[Trofeo de Campeones de la Superliga 2018-19|2019]]
+| {{Bandera|PAR}} [[Matías Nicolás Rojas|Matías Rojas]]
+| [[Racing Club]]
+| '''2'''
+|}
+
+== Véase también ==
+* [[Primera División de Argentina]]
+* [[Trofeo de Campeones de la Liga Profesional de Fútbol]]
+* [[Copa de la Liga Profesional]]
+* [[Copas nacionales del fútbol argentino]]
+* [[Copa Argentina de Fútbol|Copa Argentina]]
+* [[Supercopa Argentina de Fútbol|Supercopa Argentina]]
+* [[Copa de la Superliga Argentina]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.afa.org.ar/ Sitio oficial de la AFA]
+
+{{Control de autoridades}}
+[[Categoría:Trofeo de Campeones de la Superliga]]
+[[Categoría:Copas nacionales de fútbol de Argentina]]
+[[Categoría:Competiciones extintas del fútbol en Argentina]]

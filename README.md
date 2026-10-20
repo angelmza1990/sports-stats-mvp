@@ -162,6 +162,13 @@ The site is plain HTML, CSS and JavaScript with no build step, served by GitHub 
 
 A [GitHub Actions workflow](.github/workflows/update-data.yml) rebuilds every dataset **twice a year**, on July 1 (after the NBA Finals) and December 31 (after the ATP Finals), commits any changes and republishes the site. It can also be run by hand from the Actions tab. If a dataset fails validation, the previous version is kept and the run is marked as failed.
 
+### Robustness
+
+- **The pages don't depend on the sources.** Every page reads a JSON file kept in this repository, so the site works even if Wikipedia or the tennis data mirror goes down.
+- **No third-party code or flags at view time.** D3 is served from [`assets/vendor/`](assets/vendor/) and every flag from [`assets/flags/`](assets/flags/) ([`scripts/fetch_flags.py`](scripts/fetch_flags.py) fetches any new one after each update). Only the football crests still load from ESPN's CDN, and a club shows its initials if one fails.
+- **Snapshots of every source.** [`data/raw/`](data/raw/) keeps the last downloaded copy of every Wikipedia page and match file. If a download fails, or a page is deleted, the builds use the saved copy instead, so the data can always be rebuilt.
+- **Checks before anything is published.** Each build validates its data against known totals and keeps the previous version if a check fails, and a [page check](.github/workflows/check-pages.yml) opens every page in headless Chrome on each push and fails on script errors, missing files, pages that render nothing or sideways scrolling on a phone.
+
 ### Rebuilding the data
 
 ```bash
@@ -178,7 +185,9 @@ python3 scripts/build_tournaments.py --refresh  # rugby, basketball, volleyball,
 python3 scripts/build_swimming.py --refresh     # swimming: Olympic medalists
 ```
 
-Leave out `--refresh` to use the cached copies in `data/raw/`.
+Leave out `--refresh` to rebuild from the saved copies in `data/raw/`, with no network access.
+
+To check every page locally: `npm install --no-save puppeteer-core@23.11.1 && CHROME=/path/to/chrome node scripts/check_pages.mjs`.
 
 **Tennis.** The script downloads ATP match results, extracts every title and every Big Three head-to-head match, and **checks the result against the official totals** (Grand Slams, Masters 1000, ATP Finals, titles and head-to-head records). The build fails if any number is off.
 
