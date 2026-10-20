@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Age Records · Tennis</title>
+  <meta name="description" content="The youngest and oldest world No. 1s, Grand Slam champions at every major, ATP and WTA Finals champions, and the age at which each player completed the career Grand Slam, men and women.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/age-records.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Tennis</p>
+    <h1>Age Records</h1>
+    <p class="lede">
+      The youngest and oldest world No. 1s, the youngest and oldest champions at every Grand Slam and at the season-ending Finals, and the age at which each player completed the career Grand Slam.
+      Also see <a href="../grand-slams/">Grand Slams</a>, <a href="../atp-records/">ATP Records</a> and <a href="../wta-records/">WTA Records</a>.
+    </p>
+    <div class="controls tour-switch">
+      <div class="segmented" role="tablist" aria-label="Tour" id="tour"></div>
+    </div>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="number-one">
+      <div class="block-head">
+        <h2>World No. 1 by age</h2>
+        <p>Every world No. 1 since the rankings began (1973 for men, 1975 for women), from the age they first reached the top to the age they last held it.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="no1-legend"></div>
+        <div id="no1-chart" class="chart"></div>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Record" id="no1-tabs"></div>
+        </div>
+        <div class="data-table" id="no1-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="slams">
+      <div class="block-head">
+        <h2>Grand Slam champions by age</h2>
+        <p>The age of every champion on the day each major ended, since Wimbledon 1877. Each player appears once in the tables, with their youngest or oldest title.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Tournament" id="slam-event"></div>
+          <div class="segmented" role="tablist" aria-label="Era" id="slam-era"></div>
+        </div>
+        <div class="legend" id="slam-legend"></div>
+        <div id="slam-chart" class="chart"></div>
+        <div class="grid-2">
+          <div>
+            <h3 class="sub">Youngest champions</h3>
+            <div class="data-table" id="slam-young"></div>
+          </div>
+          <div>
+            <h3 class="sub">Oldest champions</h3>
+            <div class="data-table" id="slam-old"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="finals">
+      <div class="block-head">
+        <h2 id="finals-title">Finals champions by age</h2>
+        <p id="finals-lede">The season-ending championship for the year's best eight players.</p>
+      </div>
+      <div class="card">
+        <div id="finals-chart" class="chart"></div>
+        <div class="grid-2">
+          <div>
+            <h3 class="sub">Youngest champions</h3>
+            <div class="data-table" id="finals-young"></div>
+          </div>
+          <div>
+            <h3 class="sub">Oldest champions</h3>
+            <div class="data-table" id="finals-old"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="career-slam">
+      <div class="block-head">
+        <h2>The career Grand Slam</h2>
+        <p>The players who won all four majors, and how old they were when they completed the set. Each dot is the age at one of the four titles; the ring marks the one that completed it. Some players completed it more than once.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="career-legend"></div>
+        <div id="career-chart" class="chart"></div>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <div class="data-table" id="career-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> Wikipedia (CC BY-SA 4.0): <span id="sources"></span>, plus each tournament's own page for its dates. Dates of birth from <a href="https://www.wikidata.org">Wikidata</a> (CC0). Updated automatically twice a year.</p>
+    <p>
+      <strong>Notes:</strong> ages are counted on the tournament's last day, when the singles final was played or just after it. Ages at No. 1 use the ranking dates in Wikipedia's lists; for the current No. 1, the latest date in the list.
+      The French Championships count from 1925, when they opened to players from outside French clubs; the 1941–1945 wartime editions aren't counted. Australia held two Australian Opens in 1977 (January and December). The majors go by their current names (the US Open was the U.S. National Championships until 1967). Two early champions whose exact date of birth isn't known, Arthur O'Hara Wood (1914) and Aline Terry (1893), are left out.
+      Flags by <a href="https://flagpedia.net">Flagpedia</a>.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

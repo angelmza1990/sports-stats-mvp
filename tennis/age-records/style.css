@@ -1,0 +1,36 @@
+/* Tennis age records. */
+
+.tour-switch {
+  margin: 4px 0 20px;
+}
+
+.reign-label {
+  font-size: 12px;
+  fill: var(--ink);
+  font-weight: 600;
+}
+
+.career-span {
+  stroke: var(--axis);
+  stroke-width: 2;
+}
+
+.age {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  color: var(--ink-2);
+}
+
+.age strong {
+  color: var(--ink);
+  font-size: 1.05em;
+}
+
+#slam-chart,
+#finals-chart {
+  margin-bottom: 16px;
+}
+
+.title-cell {
+  color: var(--ink-2);
+}
