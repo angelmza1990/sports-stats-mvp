@@ -66,9 +66,9 @@
     <h1>Sports<br>Stats</h1>
     <p class="lede">Interactive infographics on the numbers behind sport's great champions and rivalries, built with D3 and open data and updated twice a year.</p>
     <dl class="home-figures">
-      <div><dt>Infographics</dt><dd>32</dd></div>
+      <div><dt>Infographics</dt><dd>33</dd></div>
       <div><dt>Sports</dt><dd>12</dd></div>
-      <div><dt>Seasons covered</dt><dd>1886–2026</dd></div>
+      <div><dt>Seasons covered</dt><dd>1877–2026</dd></div>
     </dl>
     <nav class="jump" aria-label="Sports">
       <a href="#tennis" data-sport="tennis">Tennis</a>
@@ -85,8 +85,8 @@
     <section class="sport" data-sport="tennis" id="tennis">
       <div class="sport-head">
         <h2>Tennis</h2>
-        <p>Seven pages on the men's and women's tours since 1968.</p>
-        <span class="count">7 pages</span>
+        <p>Eight pages on the men's and women's tours.</p>
+        <span class="count">8 pages</span>
       </div>
       <div class="gallery">
         <a class="tile" href="tennis/big-three/">
@@ -186,6 +186,20 @@
           <div class="body">
             <h3>WTA Records</h3>
             <p>Open Era career leaders in women's tennis: titles, weeks at No. 1, matches won and played, by surface, and the nations behind them.</p>
+          </div>
+        </a>
+        <a class="tile" href="tennis/age-records/">
+          <div class="art" style="--tint: linear-gradient(135deg, #1d3f6e, #3a73b8)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="56" cy="60" r="40" fill="#f4f4f4"/><circle cx="56" cy="60" r="34" fill="none" stroke="#1d3f6e" stroke-width="2" opacity="0.4"/>
+              <path d="M56 32v28l18 12" fill="none" stroke="#1d3f6e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+              <circle cx="98" cy="28" r="12" fill="#d8e94a"/>
+            </svg>
+            <div class="stat" data-stat="ages"><strong>19</strong><span>youngest No. 1, Alcaraz</span></div>
+          </div>
+          <div class="body">
+            <h3>Age Records</h3>
+            <p>The youngest and oldest world No. 1s, champions at every Grand Slam and the season-ending Finals, and the age at which each player completed the career Grand Slam.</p>
           </div>
         </a>
       </div>
@@ -675,6 +689,12 @@
         wta: ["tennis/wta-records/data/wta-records.json", (d) => {
           const p = d.players.slice().sort((a, b) => b.weeks - a.weeks)[0];
           return [String(p.weeks), `weeks at No. 1, ${p.name.split(" ").slice(-1)[0]}`];
+        }],
+        ages: ["tennis/age-records/data/age-records.json", (d) => {
+          const p = d.tours.atp.numberOnes.slice().sort((a, b) => (Date.parse(a.first) - Date.parse(a.born)) - (Date.parse(b.first) - Date.parse(b.born)))[0];
+          const b = new Date(p.born), f = new Date(p.first);
+          const years = f.getUTCFullYear() - b.getUTCFullYear() - (f < new Date(Date.UTC(f.getUTCFullYear(), b.getUTCMonth(), b.getUTCDate())) ? 1 : 0);
+          return [String(years), `youngest No. 1, ${p.name.split(" ").slice(-1)[0]}`];
         }],
         seriea: ["football/serie-a/data/serie-a.json", (d) => {
           const [id, n] = most(d.titles, (t) => t.champion);
