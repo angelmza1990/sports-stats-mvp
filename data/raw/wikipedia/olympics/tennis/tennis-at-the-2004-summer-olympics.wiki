@@ -1,0 +1,86 @@
+{{Use dmy dates|date=March 2025}}
+{{Infobox tennis tournament year|2004|Summer Olympics|
+| logo        = File:Tennis, Athens 2004.png
+| logo_size   = 150px
+| date        = 15–22 August 2004
+| edition     = 14
+| category    =
+| surface     = Hard ([[DecoTurf]])
+| multi       = yes
+| quadrennial = yes
+| location    = [[Athens Olympic Tennis Centre]], Athens
+| champms     = {{flagIOCmedalist|[[Nicolás Massú]]|CHI|2004 Summer}}
+| champws     = {{flagIOCmedalist|[[Justine Henin]]|BEL|2004 Summer}}
+| champmd     = {{flagIOCmedalist|[[Fernando González]] / [[Nicolás Massú]]|CHI|2004 Summer}}
+| champwd     = {{flagIOCmedalist|[[Li Ting (tennis, born 1980)|Li Ting]] / [[Sun Tiantian]]|CHN|2004 Summer}}
+}}
+[[Tennis]] at the [[2004 Summer Olympics]] in Athens took place on ten separate courts at the [[Athens Olympic Tennis Centre|Olympic Tennis Centre]]. The surface was [[hardcourt]].
+
+172 players competed in four events. 2004 saw more of the top ranked players appearing, as this tournament saw world ranking points allocated to the players for the first time. [[Martina Navratilova]] made her first appearance at the [[Olympic Games]] where she partnered with [[Lisa Raymond]] in the ladies doubles.
+
+Chile finished on top of the medal table with its first two Olympic gold medals in history, as Nicolás Massú won both the men's singles and doubles with Fernando González. They saved 4 consecutive championship points en route to the title in the 4th set tiebreak of the final. González also won a bronze medal in the men's singles competition. In the women's events, Justine Henin from Belgium secured the women's singles title while Chinese pair, Li Ting and Sun Tiantian took the women's doubles.
+
+==Medal summary==
+===Events===
+<section begin=events/>
+{| {{MedalistTable|type=Event}}
+|-
+| [[Tennis at the 2004 Summer Olympics – Men's singles|Men's singles]]
+| {{flagIOCmedalist|[[Nicolás Massú]]|CHI|2004 Summer}}
+| {{flagIOCmedalist|[[Mardy Fish]]|USA|2004 Summer}}
+| {{flagIOCmedalist|[[Fernando González]]|CHI|2004 Summer}}
+|-
+| [[Tennis at the 2004 Summer Olympics – Men's doubles|Men's doubles]]
+| {{flagIOC|CHI|2004 Summer}}<br>[[Fernando González]]<br />[[Nicolás Massú]]
+| {{flagIOC|GER|2004 Summer}}<br>[[Nicolas Kiefer]]<br />[[Rainer Schüttler]]
+| {{flagIOC|CRO|2004 Summer}}<br>[[Mario Ančić]]<br />[[Ivan Ljubičić]]
+|-
+| [[Tennis at the 2004 Summer Olympics – Women's singles|Women's singles]]
+| {{flagIOCmedalist|[[Justine Henin]]|BEL|2004 Summer}}
+| {{flagIOCmedalist|[[Amélie Mauresmo]]|FRA|2004 Summer}}
+| {{flagIOCmedalist|[[Alicia Molik]]|AUS|2004 Summer}}
+|-
+| [[Tennis at the 2004 Summer Olympics – Women's doubles|Women's doubles]]
+| {{flagIOC|CHN|2004 Summer}}<br>[[Li Ting (tennis, born 1980)|Li Ting]]<br />[[Sun Tiantian]]
+| {{flagIOC|ESP|2004 Summer}}<br>[[Conchita Martínez]]<br />[[Virginia Ruano Pascual]]
+| {{flagIOC|ARG|2004 Summer}}<br>[[Paola Suárez]]<br />[[Patricia Tarabini]]
+|}<section end=events/>
+
+===Medal table===
+[[File:TennisAt2004SummerOlympics-1.jpg|thumb|right|Andy Roddick vs. Tommy Haas. 4–6, 6–3, 9–7 in 2nd round]]
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = FlagIOC
+ | event          = 2004 Summer
+ | team           = 
+ | gold_CHI = 2 | silver_CHI = 0 | bronze_CHI = 1
+ | gold_BEL = 1 | silver_BEL = 0 | bronze_BEL = 0
+ | gold_CHN = 1 | silver_CHN = 0 | bronze_CHN = 0
+ | gold_FRA = 0 | silver_FRA = 1 | bronze_FRA = 0
+ | gold_GER = 0 | silver_GER = 1 | bronze_GER = 0
+ | gold_ESP = 0 | silver_ESP = 1 | bronze_ESP = 0
+ | gold_USA = 0 | silver_USA = 1 | bronze_USA = 0
+ | gold_ARG = 0 | silver_ARG = 0 | bronze_ARG = 1
+ | gold_AUS = 0 | silver_AUS = 0 | bronze_AUS = 1
+ | gold_CRO = 0 | silver_CRO = 0 | bronze_CRO = 1
+}}
+
+==External links==
+*[https://digital.la84.org/digital/api/collection/p17103coll8/id/60071/download Official result book – Tennis]
+
+{{2004 ATP Tour}}
+{{2004 WTA Tour}}
+{{EventsAt2004SummerOlympics}}
+{{Tennis at the Summer Olympics}}
+{{2004 in tennis}}
+
+{{Coord|38|2|24|N|23|47|26|E|display=t|type:landmark}}
+
+{{DEFAULTSORT:Tennis at the 2004 Summer Olympics}}
+[[Category:Tennis at the 2004 Summer Olympics| ]]
+[[Category:Tennis at the Summer Olympics|2004]]
+[[Category:Tennis tournaments in Greece|2004 Olympics]]
+[[Category:Events at the 2004 Summer Olympics]]
+[[Category:2004 in tennis|Olympics]]
+[[Category:2004 in Greek tennis]]

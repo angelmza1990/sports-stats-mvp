@@ -8,14 +8,14 @@
   <link rel="stylesheet" href="../../assets/theme.css">
   <link rel="stylesheet" href="../../assets/viz.css">
   <link rel="stylesheet" href="../../football/football.css">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="../../olympics/events.css">
   <script src="../../assets/theme.js"></script>
 </head>
-<body data-src="data/swimming-olympics.json">
+<body data-src="data/swimming-olympics.json" data-sport-config='{"group": "Stroke", "athlete": "Swimmer", "start": "Athens 1896"}'>
   <header class="hero wrap">
     <p class="kicker"><a href="../../">Sports Stats</a> · Swimming</p>
     <h1>Olympic Swimming</h1>
-    <p class="lede">Every Olympic swimming medal since Athens 1896, men's and women's: who won, where they came from and the full podium of every event, including the ones no longer swum.</p>
+    <p class="lede">Every Olympic swimming medal since Athens 1896, men's and women's: who won, where they came from and the full podium of every event, including the ones no longer swum. Also see <a href="../../olympics/">the Olympic Games</a>, <a href="../../tennis/olympics/">Olympic tennis</a> and <a href="../../boxing/olympics/">Olympic boxing</a>.</p>
   </header>
 
   <div class="filter-bar wrap-bar">
@@ -59,20 +59,20 @@
       </div>
       <div class="card">
         <div class="controls">
-          <div class="segmented" role="tablist" aria-label="Stroke" id="medals-stroke"></div>
+          <div class="segmented" role="tablist" aria-label="Stroke" id="medals-group"></div>
         </div>
         <div class="legend" id="medals-legend"></div>
         <div class="data-table tall" id="medals-table"></div>
       </div>
     </section>
 
-    <section class="block" id="swimmers">
+    <section class="block" id="athletes">
       <div class="block-head">
         <h2>The most decorated swimmers</h2>
         <p>Career Olympic medals, individual and relay.</p>
       </div>
       <div class="card">
-        <div class="data-table tall" id="swimmers-table"></div>
+        <div class="data-table tall" id="athletes-table"></div>
       </div>
     </section>
 
@@ -93,7 +93,7 @@
           </div>
           <div>
             <h3 class="sub">Most medals in this event</h3>
-            <div id="event-swimmers"></div>
+            <div id="event-athletes"></div>
           </div>
         </div>
         <div class="data-table" id="event-table"></div>
@@ -115,6 +115,6 @@
   <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
   <script src="../../assets/viz.js"></script>
   <script src="../../football/common.js"></script>
-  <script src="app.js"></script>
+  <script src="../../olympics/events.js"></script>
 </body>
 </html>

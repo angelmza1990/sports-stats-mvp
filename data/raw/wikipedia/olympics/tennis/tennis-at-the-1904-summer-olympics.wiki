@@ -1,0 +1,69 @@
+{{Short description|none}}
+{{Infobox tennis tournament year
+| 1 = 1904
+| 2 = Summer Olympics
+| date=29 August–3 September 1904
+| edition=3rd
+| category=
+| surface=Red clay
+| multi = yes
+| quadrennial = yes
+| location=World's Fair Stadium ([[Francis Olympic Field]])
+| main_name= Tennis at the Summer Olympics{{!}}Summer Olympics
+| champms={{flagIOCathlete|[[Beals Wright]]|USA|1904 Summer}}
+| champmd={{flagIOCathlete|[[Beals Wright]] / [[Edgar Leonard]]|USA|1904 Summer}}
+}}
+[[File:Beals_C._Wright,_Boston._World's_Tennis_doubles_champion_with_E._W._Leonard_at_the_1904_Olympics.jpg | thumb | right | [[Beals Wright]] in 1904]]
+Two events in [[tennis]] were contested at the [[1904 Summer Olympics]] in [[St. Louis, Missouri|St. Louis]], United States.  The competitions were held from Monday, August 29, 1904 to Monday, September 5, 1904.<ref name="sports-reference">{{cite web |url=https://www.sports-reference.com/olympics/summer/1904/TEN/ |archive-url=https://web.archive.org/web/20200417050126/https://www.sports-reference.com/olympics/summer/1904/TEN/ |url-status=dead |archive-date=2020-04-17 |title=Tennis at the 1904 St. Louis Summer Games |accessdate=2014-01-26 |work=sports-reference.com}}</ref>
+
+==Medal summary==
+===Events===
+<section begin=events/>
+{| {{MedalistTable|type=Event}}
+|-
+| [[Tennis at the 1904 Summer Olympics – Men's singles|Men's singles]]
+| {{FlagIOCmedalist|[[Beals Wright]]|USA|1904 Summer}}
+| {{FlagIOCmedalist|[[Robert LeRoy]]|USA|1904 Summer}}
+| {{FlagIOCmedalist|[[Alphonzo Bell]]|USA|1904 Summer}} <hr> {{FlagIOCmedalist|[[Edgar Leonard]]|USA|1904 Summer}}
+|-
+| [[Tennis at the 1904 Summer Olympics – Men's doubles|Men's doubles]]
+| {{FlagIOC|USA|1904 Summer}}<br>[[Beals Wright]]<br>[[Edgar Leonard]]
+| {{FlagIOC|USA|1904 Summer}}<br>[[Robert LeRoy]]<br>[[Alphonzo Bell]]
+| {{FlagIOC|USA|1904 Summer}}<br>[[Clarence Gamble (tennis)|Clarence Gamble]]<br>[[Arthur Wear]] <hr> {{FlagIOC|USA|1904 Summer}}<br>[[Joseph Wear]]<br>[[Allen West (tennis)|Allen West]]
+|}<section end=events/>
+
+===Medal table===
+{{Medals table
+ | caption        = 
+ | host           = 
+ | show_limit     = 
+ | remaining_text = 
+ | flag_template  = flagIOC
+ | event          = 1904 Summer
+ | team           = 
+ | gold_USA = 2 | silver_USA = 2 | bronze_USA = 4
+}}
+
+==Participating nations==
+A total of 45 tennis players from 2 nations competed at the St. Louis Games:<ref name="sports-reference" />
+
+* {{flagIOC|GER|1904 Summer|2}}
+* {{flagIOC|USA|1904 Summer|43}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.olympic.org/uk/athletes/results/search_r_uk.asp International Olympic Committee results database]
+* [http://www.itftennis.com/media/80351/80351.pdf  ITF, 2008 Olympic Tennis Event Media Guide]
+
+{{Events at the 1904 Summer Olympics}}
+{{Tennis at the Summer Olympics}}
+
+{{DEFAULTSORT:Tennis At The 1904 Summer Olympics}}
+[[Category:Tennis at the 1904 Summer Olympics| ]]
+[[Category:Events at the 1904 Summer Olympics]]
+[[Category:Tennis at the Summer Olympics|1904]]
+[[Category:1904 in tennis|Olympics]]
+[[Category:Tennis tournaments in the United States|1904 Olympics]]
+[[Category:Tennis in Missouri]]

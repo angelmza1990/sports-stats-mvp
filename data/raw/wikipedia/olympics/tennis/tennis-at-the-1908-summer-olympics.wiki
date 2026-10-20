@@ -1,0 +1,112 @@
+{{short description|none}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox tennis tournament year|1908|Summer Olympics|
+| date = 6–11 May 1908 (indoor)<br />6-11 July 1908 (outdoor)
+| edition = 4th
+| surface = Wood (indoor)<br />Grass (outdoor)
+| multi = yes
+| quadrennial = yes
+| location = [[Queen's Club|Queen's Club, West Kensington]] (indoor)<br />[[All England Lawn Tennis and Croquet Club|All England Club, Wimbledon]] (outdoor)
+| champmos= {{flagIOCathlete|[[Major Ritchie]]|GBR|1908 Summer}}
+| champwos= {{flagIOCathlete|[[Dorothea Douglass Lambert Chambers|Dorothea Lambert Chambers]]|GBR|1908 Summer}}
+| champmod= {{flagIOCathlete|[[Reginald Doherty]] / [[George Hillyard]]|GBR|1908 Summer}}
+| champmis= {{flagIOCathlete|[[Arthur Gore (tennis)|Arthur Gore]]|GBR|1908 Summer}}
+| champwis= {{flagIOCathlete|[[Gwendoline Eastlake-Smith]]|GBR|1908 Summer}}
+| champmid= {{nowrap|{{flagIOCathlete|[[Herbert Roper Barrett]] / [[Arthur Gore (tennis)|Arthur Gore]]|GBR|1908 Summer}}}}
+}}
+[[Image:TV-icon-2.svg|thumb|110px|'''[https://www.youtube.com/watch?v=1A7IxdhuzhU Official 1908 Highlight Film Tennis @ 1:19]''']]
+
+Six [[tennis]] events were contested at the [[1908 Summer Olympics]] in [[London]], [[United Kingdom]].<ref name="sports-reference">{{cite web |url=https://www.sports-reference.com/olympics/summer/1908/TEN/ |archive-url=https://web.archive.org/web/20200417050320/https://www.sports-reference.com/olympics/summer/1908/TEN/ |url-status=dead |archive-date=17 April 2020 |title=Tennis at the 1908 London Summer Games |access-date=29 January 2014 |work=sports-reference.com}}</ref>
+Indoor tennis events, on what were officially called 'covered courts', were held for the first time, along with the usual outdoor events. Women's events were contested, with women's singles (but not women's doubles or mixed doubles) and indoor women's singles. The indoor events were held at the covered courts of the [[Queen's Club]] and began on 6 May 1908, ahead of the official start of the Games while the outdoor tournament was played on grass courts at the [[All England Lawn Tennis and Croquet Club]] at Worple Road from 6 July through 11 July 1908. In total 50 players, 40 men and 10 women, competed. Five nations made their tennis debuts, while five more returned to competition for a total of ten nations. Two players, [[Les Poidevin]] and Wimbledon champion [[Anthony Wilding]] were nominated for [[Australasia at the 1908 Summer Olympics|Australasia]] but through administrative bungling they were not entered.<ref>{{cite web|url=https://www.olympedia.org/games/5/sports/TEN |title=Tennis at the 1908 Summer Olympics |work=Olympedia |access-date=11 July 2020}}</ref>
+
+[[Image:Tennis pictogram.svg|100px|border|right|Tennis]]
+
+==Medal summary==
+===Events===
+====Outdoor====
+<section begin=outdoor/>
+{| {{MedalistTable|type=Event}}
+|-
+| [[Tennis at the 1908 Summer Olympics – Men's outdoor singles|Men's outdoor singles]]
+| {{flagIOCmedalist|[[Major Ritchie]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[Otto Froitzheim]]|GER|1908 Summer}}
+| {{flagIOCmedalist|[[Wilberforce Eaves]]|GBR|1908 Summer}}
+|-
+| [[Tennis at the 1908 Summer Olympics – Men's outdoor doubles|Men's outdoor doubles]]
+| {{FlagIOC|GBR|1908 Summer}}<br>[[Reginald Doherty]] <br> [[George Hillyard]]
+| {{FlagIOC|GBR|1908 Summer}}<br>[[James Cecil Parke]] <br> [[Major Ritchie]]
+| {{FlagIOC|GBR|1908 Summer}}<br>[[Clement Cazalet]] <br> [[Charles P. Dixon|Charles Dixon]]
+|-
+| [[Tennis at the 1908 Summer Olympics – Women's outdoor singles|Women's outdoor singles]]
+| {{flagIOCmedalist|[[Dorothea Lambert Chambers]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[Dora Boothby]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[Ruth Winch]]|GBR|1908 Summer}}
+|}<section end=outdoor/>
+
+====Indoor====
+<section begin=indoor/>
+{| {{MedalistTable|type=Event}}
+|-
+| [[Tennis at the 1908 Summer Olympics – Men's indoor singles|Men's indoor singles]]
+| {{flagIOCmedalist|[[Arthur Gore (tennis)|Arthur Gore]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[George Caridia]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[Major Ritchie]]|GBR|1908 Summer}}
+|-
+| [[Tennis at the 1908 Summer Olympics – Men's indoor doubles|Men's indoor doubles]]
+| {{FlagIOC|GBR|1908 Summer}}<br>[[Herbert Roper Barrett]] <br> [[Arthur Gore (tennis)|Arthur Gore]]
+| {{FlagIOC|GBR|1908 Summer}}<br>[[George Caridia]] <br> [[George Simond]]
+| {{FlagIOC|SWE|1908 Summer}}<br>[[Wollmar Boström]] <br> [[Gunnar Setterwall]]
+|-
+| [[Tennis at the 1908 Summer Olympics – Women's indoor singles|Women's indoor singles]]
+| {{flagIOCmedalist|[[Gwendoline Eastlake-Smith]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[Alice Greene]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[Märtha Adlerstråhle]]|SWE|1908 Summer}}
+|}<section end=indoor/>
+
+===Medal table===
+[[Image:London 1908 Lawn-Tennis WomensSingle.jpg|thumb|The Women's singles final.]]
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = FlagIOC
+ | event          = 1908 Summer
+ | team           = 
+ | gold_GBR = 6 | silver_GBR = 5 | bronze_GBR = 4
+ | gold_GER = 0 | silver_GER = 1 | bronze_GER = 0
+ | gold_SWE = 0 | silver_SWE = 0 | bronze_SWE = 2
+}}
+
+==Participating nations==
+50 players from 10 nations competed.<ref name="sports-reference" />
+
+* {{flagIOC|AUT|1908 Summer|3}}
+* {{flagIOC|BOH|1908 Summer|4}}
+* {{flagIOC|CAN|1908 Summer|3}}
+* {{flagIOC|FRA|1908 Summer|1}}
+* {{flagIOC|GER|1908 Summer|5}}
+* {{flagIOC|GBR|1908 Summer|22}}
+* {{flagIOC|HUN|1908 Summer|3}}
+* {{flagIOC|NED|1908 Summer|2}}
+* {{flagIOC|RSA|1908 Summer|3}}
+* {{flagIOC|SWE|1908 Summer|4}}
+
+==See also==
+* [[Jeu de paume at the 1908 Summer Olympics]] (real tennis)
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.olympic.org/uk/athletes/results/search_r_uk.asp International Olympic Committee medal database]
+* {{cite book |author=Cook, Theodore Andrea |title=The Fourth Olympiad London 1908 Official Report |publisher=[[British Olympic Association]] |location=London |url=http://www.la84foundation.org/6oic/OfficialReports/1908/1908.pdf |format=PDF |access-date=8 May 2008 |date=May 1909 |archive-date=28 May 2008 |archive-url=https://web.archive.org/web/20080528012144/http://www.la84foundation.org/6oic/OfficialReports/1908/1908.pdf |url-status=dead }}
+* [http://www.itftennis.com/media/80351/80351.pdf ITF, 2008 Olympic Tennis Event Media Guide]
+
+{{EventsAt1908SummerOlympics}}
+{{Tennis at the Summer Olympics}}
+
+[[Category:Tennis at the 1908 Summer Olympics| ]]
+[[Category:Events at the 1908 Summer Olympics]]
+[[Category:Tennis at the Summer Olympics|1908]]
+[[Category:1908 in tennis|Olympics]]
+[[Category:Tennis tournaments in London]]
+[[Category:Events at the All England Lawn Tennis and Croquet Club]]

@@ -1,9 +1,12 @@
-/* Olympic swimming: medals by nation and swimmer, and the podium of every event. */
+/* Olympic sports listed event by event (swimming, tennis, boxing): medals by nation and athlete,
+   and the podium of every event. The page sets data-src and data-sport-config:
+   {"group": "Stroke", "athlete": "Swimmer", "start": "Athens 1896", "marks": true} */
 (async function () {
   "use strict";
 
   const { el, ttTitle, ttNote } = Viz;
   const data = await d3.json(document.body.dataset.src);
+  const CFG = { group: "Event", athlete: "Athlete", ...JSON.parse(document.body.dataset.sportConfig || "{}") };
   const nations = data.nations;
   const F = Football({
     nationMode: true,
@@ -12,19 +15,20 @@
   });
   const MEDALS = ["gold", "silver", "bronze"];
   const COLOR = { gold: "var(--gold)", silver: "var(--silver)", bronze: "var(--bronze)" };
-  const STROKES = ["Freestyle", "Backstroke", "Breaststroke", "Butterfly", "Medley", "Relay"];
+  // The event groups (strokes, weight classes...), in the order the events list them.
+  const STROKES = [...new Set(data.events.map((e) => e.group))];
   const name = (c) => nations[c]?.name ?? c;
-  const nationOf = (slot) => slot.team ?? slot.swimmers[0].nation;
+  const nationOf = (slot) => slot.team ?? slot.athletes[0].nation;
   const GENDERS = [
     { key: "Men", label: "Men", test: (e) => e.gender === "Men" },
     { key: "Women", label: "Women", test: (e) => e.gender === "Women" },
-    { key: "All", label: "All events (incl. mixed relay)", test: () => true },
+    { key: "All", label: data.events.some((e) => e.gender === "Mixed") ? "All events (incl. mixed)" : "All events", test: () => true },
   ];
 
   let scope = GENDERS[0];
   let events = [];
   let race;
-  let stroke = "All";
+  let group = "All";
 
   Viz.legend("medals-legend", MEDALS.map((m) => ({ label: m[0].toUpperCase() + m.slice(1), color: COLOR[m] })));
 
@@ -39,13 +43,13 @@
     const golds = all.filter((x) => x.medal === "gold");
     const goldNations = d3.rollup(golds, (v) => v.length, (x) => nationOf(x.slot));
     const [topNation, topN] = d3.greatest(goldNations, (d) => d[1]);
-    const swimmers = data.swimmers.filter((s) => scope.key === "All" || s.gender === scope.key);
-    const best = swimmers.slice().sort((a, b) => b.gold - a.gold || b.silver - a.silver)[0];
+    const athletes = data.athletes.filter((s) => scope.key === "All" || s.gender === scope.key);
+    const best = athletes.slice().sort((a, b) => b.gold - a.gold || b.silver - a.silver)[0];
     F.statTiles("stats", [
       { label: "Events on the programme", value: String(events.filter((e) => e.current).length), detail: `plus ${events.filter((e) => !e.current).length} discontinued` },
       { label: "Gold medals awarded", value: String(golds.length), detail: `${goldNations.size} nations have won one` },
       { label: "Most gold medals", value: String(topN), detail: name(topNation), club: topNation },
-      { label: "Most golds by a swimmer", value: String(best.gold), detail: `${best.name} (${best.gold + best.silver + best.bronze} medals)` },
+      { label: `Most golds by one ${CFG.athlete.toLowerCase()}`, value: String(best.gold), detail: `${best.name} (${best.gold + best.silver + best.bronze} medals)` },
     ]);
   }
 
@@ -73,7 +77,7 @@
   /* ---------- Medal table ---------- */
 
   function medalTable() {
-    const list = medals(events.filter((e) => stroke === "All" || e.stroke === stroke));
+    const list = medals(events.filter((e) => group === "All" || e.group === group));
     const rows = d3.rollups(list, (v) => Object.fromEntries(MEDALS.map((m) => [m, v.filter((x) => x.medal === m).length])), (x) => nationOf(x.slot))
       .map(([nation, c]) => ({ nation, ...c, total: c.gold + c.silver + c.bronze }))
       .sort((a, b) => b.gold - a.gold || b.silver - a.silver || b.bronze - a.bronze);
@@ -100,10 +104,10 @@
     ], rows);
   }
 
-  /* ---------- Most decorated swimmers ---------- */
+  /* ---------- Most decorated athletes ---------- */
 
-  function swimmersTable() {
-    const rows = data.swimmers.filter((s) => scope.key === "All" || s.gender === scope.key)
+  function athletesTable() {
+    const rows = data.athletes.filter((s) => scope.key === "All" || s.gender === scope.key)
       .map((s) => ({ ...s, total: s.gold + s.silver + s.bronze }))
       .sort((a, b) => b.total - a.total || b.gold - a.gold || b.silver - a.silver).slice(0, 40);
     const who = (s) => {
@@ -111,9 +115,9 @@
       span.append(F.flag(s.nation), document.createTextNode(s.name));
       return span;
     };
-    F.richTable(document.getElementById("swimmers-table"), [
+    F.richTable(document.getElementById("athletes-table"), [
       { label: "#", cls: "num rank", render: (s) => String(rows.indexOf(s) + 1) },
-      { label: "Swimmer", render: (s) => who(s) },
+      { label: CFG.athlete, render: (s) => who(s) },
       { label: "Games", cls: "years hide-sm", render: (s) => (s.first === s.last ? String(s.first) : `${s.first}–${s.last}`) },
       ...MEDALS.map((m) => ({ label: m[0].toUpperCase() + m.slice(1), short: m[0].toUpperCase(), cls: `num${m === "gold" ? " strong" : ""}`, render: (s) => String(s[m]) })),
       { label: "Total", cls: "num", render: (s) => String(s.total) },
@@ -127,7 +131,7 @@
 
   function fillSelect() {
     select.replaceChildren();
-    const groups = [...STROKES.map((s) => ({ label: s, list: events.filter((e) => e.current && e.stroke === s) })),
+    const groups = [...STROKES.map((s) => ({ label: s, list: events.filter((e) => e.current && e.group === s) })),
       { label: "Discontinued events", list: events.filter((e) => !e.current) }];
     groups.filter((g) => g.list.length).forEach((g) => {
       const og = document.createElement("optgroup");
@@ -151,16 +155,16 @@
         const head = el("span", "club");
         head.append(F.flag(slot.team), document.createTextNode(name(slot.team)));
         row.append(head);
-        if (slot.time) row.append(el("span", "time", slot.time));
-        row.append(el("div", "team", slot.swimmers.map((s) => s.name).join(", ")));
+        if (slot.mark) row.append(el("span", "time", slot.mark));
+        row.append(el("div", "team", slot.athletes.map((s) => s.name).join(", ")));
         wrap.append(row);
       } else {
-        slot.swimmers.forEach((s) => {
+        slot.athletes.forEach((s) => {
           const row = el("div", "medalist");
           const head = el("span", "club");
           head.append(F.flag(s.nation), document.createTextNode(s.name));
           row.append(head);
-          if (slot.time) row.append(el("span", "time", slot.time));
+          if (slot.mark) row.append(el("span", "time", slot.mark));
           wrap.append(row);
         });
       }
@@ -172,7 +176,7 @@
     const ev = events.find((e) => e.key === key) ?? events[0];
     const years = ev.results.map((r) => r.year);
     document.getElementById("event-meta").textContent =
-      `${ev.gender} · ${ev.stroke}${ev.current ? "" : " · discontinued"} · ${years.length} ${years.length === 1 ? "edition" : "editions"}, ${years[0]}${years.length > 1 ? `–${years[years.length - 1]}` : ""}`;
+      `${ev.gender} · ${ev.group}${ev.current ? "" : " · discontinued"} · ${years.length} ${years.length === 1 ? "edition" : "editions"}, ${years[0]}${years.length > 1 ? `–${years[years.length - 1]}` : ""}`;
 
     const all = medals([ev]);
     const byNation = d3.rollups(all.filter((x) => x.medal === "gold"), (v) => v, (x) => nationOf(x.slot)).sort((a, b) => b[1].length - a[1].length).slice(0, 8);
@@ -182,13 +186,13 @@
       tip: (t) => { t.append(ttTitle(`${name(c)} · ${v.length} gold`)); t.append(ttNote(v.map((x) => x.r.year).join(", "))); },
     })), ["Nation", "Gold", "Medals"]);
 
-    const people = d3.rollups(all.flatMap((x) => x.slot.swimmers.map((s) => ({ ...x, s }))), (v) => v, (x) => x.s.name)
+    const people = d3.rollups(all.flatMap((x) => x.slot.athletes.map((s) => ({ ...x, s }))), (v) => v, (x) => x.s.name)
       .map(([k, v]) => ({ name: k, nation: d3.greatest(v, (x) => x.r.year).s.nation, v, gold: v.filter((x) => x.medal === "gold").length }))
       .sort((a, b) => b.v.length - a.v.length || b.gold - a.gold).slice(0, 8);
-    F.rankList(document.getElementById("event-swimmers"), people.map((p) => ({
+    F.rankList(document.getElementById("event-athletes"), people.map((p) => ({
       icon: F.flag(p.nation), label: p.name, value: p.v.length, second: p.gold, color: "var(--ink-2)",
       tip: (t) => { t.append(ttTitle(p.name)); p.v.forEach((x) => t.append(Viz.ttRow(COLOR[x.medal], x.r.year, x.medal))); },
-    })), ["Swimmer", "Medals", "Gold"]);
+    })), [CFG.athlete, "Medals", "Gold"]);
 
     const box = document.getElementById("event-table");
     F.richTable(box, [
@@ -209,19 +213,19 @@
       race = F.race(frames(), {
         colorOf: () => "var(--gold)",
         frameMs: 900,
-        emptyTicker: "Press play to start at Athens 1896.",
+        emptyTicker: `Press play to start at ${CFG.start ?? "the first Games"}.`,
         ticker: (e) => (e.top
           ? [F.flag(e.top[0]), el("strong", null, ` ${e.year} ${e.city}`), document.createTextNode(` · most golds: ${name(e.top[0])} (${e.top[1]})`)]
           : [el("strong", null, `${e.year} ${e.city}`)]),
       });
     }
     medalTable();
-    swimmersTable();
+    athletesTable();
     fillSelect();
   }
 
-  Viz.segmented("medals-stroke", [{ key: "All", label: "All" }, ...STROKES.map((s) => ({ key: s, label: s }))], "All", (k) => {
-    stroke = k;
+  Viz.segmented("medals-group", [{ key: "All", label: "All" }, ...STROKES.map((s) => ({ key: s, label: s }))], "All", (k) => {
+    group = k;
     medalTable();
   });
   Viz.segmented("gender", GENDERS, "Men", render);

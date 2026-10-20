@@ -1,0 +1,74 @@
+{{Infobox tennis tournament year|1996|Summer Olympics|
+| date=23 July–3 August 1996
+| edition=12
+| category=
+| surface=[[Hardcourt|Hard]] (Plexipave<ref>{{cite book|url=https://library.olympic.org/Default/doc/SYRACUSE/41622/the-official-report-of-the-centennial-olympic-games-atlanta-1996-the-atlanta-committee-for-the-olymp?_lg=en-GB#_ga=2.168506337.1355680719.1579667498-1156479526.1579667498|title=Official Report of the centennial Olympics|page=426|volume=II|format=[[PDF]]|year=1997|isbn=1561451517}}</ref>)
+| multi=yes
+| quadrennial=yes
+| location=[[Stone Mountain Tennis Center]], [[Atlanta]]
+| champms={{flagIOCmedalist|[[Andre Agassi]]|USA|1996 Summer}}
+| champws={{flagIOCmedalist|[[Lindsay Davenport]]|USA|1996 Summer}}
+| champmd={{flagIOCmedalist|[[Todd Woodbridge]] / [[Mark Woodforde]]|AUS|1996 Summer}} 
+| champwd={{flagIOCmedalist|[[Gigi Fernández]] / [[Mary Joe Fernández]]|USA|1996 Summer}}
+}}
+
+At the [[1996 Summer Olympics]] in [[Atlanta]], four tennis events (two for men and two for women) were contested. For the first time since the [[Tennis at the 1924 Summer Olympics|1924 Olympics]], a [[third place playoff]] was held to decide who would be awarded the bronze medal in each event.
+
+==Medal summary==
+===Events===
+<section begin=events/>
+{| {{MedalistTable|type=Event}}
+|-
+| [[Tennis at the 1996 Summer Olympics – Men's singles|Men's singles]]
+| {{flagIOCmedalist|[[Andre Agassi]]|USA|1996 Summer}}
+| {{flagIOCmedalist|[[Sergi Bruguera]]|ESP|1996 Summer}}
+| {{flagIOCmedalist|[[Leander Paes]]|IND|1996 Summer}}
+|-
+| [[Tennis at the 1996 Summer Olympics – Men's doubles|Men's doubles]]
+| {{flagIOC|AUS|1996 Summer}}<br>[[Todd Woodbridge]]<br>[[Mark Woodforde]]
+| {{flagIOC|GBR|1996 Summer}}<br>[[Neil Broad]]<br>[[Tim Henman]]
+| {{flagIOC|GER|1996 Summer}}<br>[[Marc-Kevin Goellner]]<br>[[David Prinosil]]
+|-
+| [[Tennis at the 1996 Summer Olympics – Women's singles|Women's singles]]
+| {{flagIOCmedalist|[[Lindsay Davenport]]|USA|1996 Summer}}
+| {{flagIOCmedalist|[[Arantxa Sánchez Vicario]]|ESP|1996 Summer}}
+| {{flagIOCmedalist|[[Jana Novotná]]|CZE|1996 Summer}}
+|-
+| [[Tennis at the 1996 Summer Olympics – Women's doubles|Women's doubles]]
+| {{flagIOC|USA|1996 Summer}}<br>[[Gigi Fernández]]<br> [[Mary Joe Fernández]]
+| {{flagIOC|CZE|1996 Summer}}<br>[[Jana Novotná]]<br> [[Helena Suková]]
+| {{flagIOC|ESP|1996 Summer}}<br>[[Conchita Martínez]]<br> [[Arantxa Sánchez Vicario]]
+|}<section end=events/>
+
+===Medal table===
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = FlagIOC
+ | event          = 1996 Summer
+ | team           = 
+ | gold_USA = 3 | silver_USA = 0 | bronze_USA = 0
+ | gold_AUS = 1 | silver_AUS = 0 | bronze_AUS = 0
+ | gold_ESP = 0 | silver_ESP = 2 | bronze_ESP = 1
+ | gold_CZE = 0 | silver_CZE = 1 | bronze_CZE = 1
+ | gold_GBR = 0 | silver_GBR = 1 | bronze_GBR = 0
+ | gold_GER = 0 | silver_GER = 0 | bronze_GER = 1
+ | gold_IND = 0 | silver_IND = 0 | bronze_IND = 1
+}}
+
+==References==
+* [http://www.itftennis.com/olympics/drawsheets/printabledrawsheet.asp?event=1010011399 ITF Olympic Site]
+<references />
+
+{{1996 ATP Tour}}
+{{1996 WTA Tour}}
+{{EventsAt1996SummerOlympics}}
+{{Tennis at the Summer Olympics}}
+{{1996 in tennis}}
+
+{{DEFAULTSORT:Tennis At The 1996 Summer Olympics}}
+[[Category:Tennis at the Summer Olympics|1996]]
+[[Category:Tennis at the 1996 Summer Olympics| ]]
+[[Category:Events at the 1996 Summer Olympics]]
+[[Category:1996 in tennis|Olympics]]
+[[Category:Tennis tournaments in the United States|1996 Olympics]]

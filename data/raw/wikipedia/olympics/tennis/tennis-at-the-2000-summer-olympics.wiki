@@ -1,0 +1,81 @@
+{{Use dmy dates|date=September 2024}}
+{{Infobox tennis tournament year|2000|Summer Olympics|
+| date=19-28 September 2000
+| edition=13
+| category=
+| location=[[NSW Tennis Centre]], [[Sydney]]
+| surface=Hard ([[Rebound Ace]])
+| multi=yes
+| quadrennial=yes
+| champms={{flagIOCmedalist|[[Yevgeny Kafelnikov]]|RUS|2000 Summer}}
+| champws={{flagIOCmedalist|[[Venus Williams]]|USA|2000 Summer}}
+| champmd={{flagIOCmedalist|[[Sébastien Lareau]] / [[Daniel Nestor]]|CAN|2000 Summer}}
+| champwd={{flagIOCmedalist|[[Serena Williams]] / [[Venus Williams]]|USA|2000 Summer}}
+}}
+
+[[Tennis]] was one of the 28 sports that was held at the [[2000 Summer Olympics]] in [[Sydney]], [[Australia]]. The competition which was held from 19-28 September at the [[NSW Tennis Centre]], saw four gold medals being contested with them being in the singles and doubles of both sexes.
+
+The format at the 2000 Olympics was a [[Single-elimination tournament|single-elimination]] tournament with the men's and women's singles being 64 players. They competed in six rounds of competition in the singles and five rounds in the doubles (sizes of 32). The format consisted of three set matches with five set matches being only played in the men's singles and doubles final. 
+
+The [[United States at the 2000 Summer Olympics|United States]] finished on top of the medal table with two gold medals as [[Venus Williams]] won both the [[Tennis at the 2000 Summer Olympics – Women's singles|women's singles]] and [[Tennis at the 2000 Summer Olympics – Women's doubles|doubles]] with [[Serena Williams]]. In the men's events, [[Yevgeny Kafelnikov]] from [[Russia at the 2000 Summer Olympics|Russia]] secured the [[Tennis at the 2000 Summer Olympics – Men's singles|men's singles]] title while [[Canada at the 2000 Summer Olympics|Canadian]] pair, [[Sébastien Lareau]] and [[Daniel Nestor]] took the [[Tennis at the 2000 Summer Olympics – Men's doubles|men's doubles]].
+
+==Medal summary==
+===Events===
+<section begin=events/>
+{| {{MedalistTable|type=Event}}
+|-
+|[[Tennis at the 2000 Summer Olympics – Men's singles|Men's singles]]
+| {{flagIOCmedalist|[[Yevgeny Kafelnikov]]|RUS|2000 Summer}}
+| {{flagIOCmedalist|[[Tommy Haas]]|GER|2000 Summer}}
+| {{flagIOCmedalist|[[Arnaud Di Pasquale]]|FRA|2000 Summer}}
+|-
+|[[Tennis at the 2000 Summer Olympics – Men's doubles|Men's doubles]]
+| {{FlagIOC|CAN|2000 Summer}}<br>[[Sébastien Lareau]]<br />[[Daniel Nestor]]
+| {{FlagIOC|AUS|2000 Summer}}<br>[[Todd Woodbridge]]<br />[[Mark Woodforde]]
+| {{FlagIOC|ESP|2000 Summer}}<br>[[Àlex Corretja]]<br />[[Albert Costa]]
+|-
+|[[Tennis at the 2000 Summer Olympics – Women's singles|Women's singles]]
+| {{flagIOCmedalist|[[Venus Williams]]|USA|2000 Summer}}
+| {{flagIOCmedalist|[[Elena Dementieva]]|RUS|2000 Summer}}
+| {{flagIOCmedalist|[[Monica Seles]]|USA|2000 Summer}}
+|-
+|[[Tennis at the 2000 Summer Olympics – Women's doubles|Women's doubles]]
+| {{FlagIOC|USA|2000 Summer}}<br>[[Venus Williams]]<br />[[Serena Williams]]
+| {{FlagIOC|NED|2000 Summer}}<br>[[Kristie Boogert]]<br />[[Miriam Oremans]]
+| {{FlagIOC|BEL|2000 Summer}}<br>[[Els Callens]]<br />[[Dominique Monami|Dominique Van Roost]]
+|}<section end=events/>
+
+===Medal table===
+{{Medals table
+ | caption        = 
+ | host           = AUS
+ | flag_template  = FlagIOC
+ | event          = 2000 Summer
+ | team           = 
+ | gold_USA = 2 | silver_USA = 0 | bronze_USA = 1
+ | gold_RUS = 1 | silver_RUS = 1 | bronze_RUS = 0
+ | gold_CAN = 1 | silver_CAN = 0 | bronze_CAN = 0
+ | gold_AUS = 0 | silver_AUS = 1 | bronze_AUS = 0 | host_AUS = yes
+ | gold_GER = 0 | silver_GER = 1 | bronze_GER = 0
+ | gold_NED = 0 | silver_NED = 1 | bronze_NED = 0
+ | gold_BEL = 0 | silver_BEL = 0 | bronze_BEL = 1
+ | gold_FRA = 0 | silver_FRA = 0 | bronze_FRA = 1
+ | gold_ESP = 0 | silver_ESP = 0 | bronze_ESP = 1
+}}
+
+==References==
+*[http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Report] {{Webarchive|url=https://web.archive.org/web/20070612020125/http://www.la84foundation.org/5va/reports_frmst.htm |date=2007-06-12 }}
+
+{{2000 ATP Tour}}
+{{2000 WTA Tour}}
+{{EventsAt2000SummerOlympics}}
+{{Tennis at the Summer Olympics}}
+{{2000 in tennis}}
+
+{{DEFAULTSORT:Tennis At The 2000 Summer Olympics}}
+[[Category:Tennis at the 2000 Summer Olympics| ]]
+[[Category:Tennis at the Summer Olympics|2000]]
+[[Category:Events at the 2000 Summer Olympics]]
+[[Category:2000 in tennis|Olympics]]
+[[Category:Tennis tournaments in Australia|2000 Olympics]]
+[[Category:2000 in Australian tennis|Oly]]

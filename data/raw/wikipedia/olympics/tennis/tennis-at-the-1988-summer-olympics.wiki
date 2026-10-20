@@ -1,0 +1,89 @@
+{{Short description|none}}
+{{Infobox tennis tournament year
+| 1 = 1988
+| 2 = Summer Olympics
+| date=20 September–1 October 1988
+| edition=10
+| category=
+| surface= Hard (Neodex)
+| location=[[Seoul Olympic Park Tennis Center]], [[Seoul]]
+| multi=yes
+| quadrennial=yes
+| before_year=1984
+| champms={{flagIOCathlete|[[Miloslav Mečíř]]|TCH|1988 Summer}}
+| champws={{flagIOCathlete|[[Steffi Graf]]|FRG|1988 Summer}}
+| champmd={{flagIOCathlete|[[Ken Flach]] / [[Robert Seguso]]|USA|1988 Summer}} 
+| champwd={{flagIOCathlete|[[Pam Shriver]] / [[Zina Garrison]]|USA|1988 Summer}}  
+|logo=|logo_size=150|logo_caption=Pictogram used to identify tennis at the 1988 Games}}
+[[Tennis]] returned to the [[Summer Olympic Games]] at the [[1988 Summer Olympics]] in [[Seoul]], having been left out since the [[1924 Summer Olympics]] in [[Paris]].  Tennis had been a [[demonstration sport]] at the  [[1968 Summer Olympics|1968]] and [[1984 Summer Olympics]].
+
+The tournament took place from September 20 – October 1 on outdoor [[hardcourt]]s at the [[Seoul Olympic Park Tennis Center]].
+
+==Medal summary==
+
+===Events===
+<section begin=events/>
+{| {{MedalistTable|type=Event}}
+|-
+|rowspan=2| [[Tennis at the 1988 Summer Olympics – Men's singles|Men's singles]]
+|rowspan=2| {{flagIOCmedalist|[[Miloslav Mečíř]]|TCH|1988 Summer}}
+|rowspan=2| {{flagIOCmedalist|[[Tim Mayotte]]|USA|1988 Summer}}
+| {{flagIOCmedalist|[[Stefan Edberg]]|SWE|1988 Summer}}
+|-
+| {{flagIOCmedalist|[[Brad Gilbert]]|USA|1988 Summer}}
+|-
+|rowspan=2| [[Tennis at the 1988 Summer Olympics – Men's doubles|Men's doubles]]
+|rowspan=2| {{flagIOC|USA|1988 Summer}}<br>[[Ken Flach]]<br>[[Robert Seguso]]
+|rowspan=2| {{flagIOC|ESP|1988 Summer}}<br>[[Emilio Sánchez]]<br>[[Sergio Casal]]
+| {{flagIOC|TCH|1988 Summer}}<br>[[Miloslav Mečíř]]<br>[[Milan Šrejber]]
+|-
+| {{flagIOC|SWE|1988 Summer}}<br>[[Stefan Edberg]]<br>[[Anders Järryd]]
+|-
+|rowspan=2| [[Tennis at the 1988 Summer Olympics – Women's singles|Women's singles]]
+|rowspan=2| {{flagIOCmedalist|[[Steffi Graf]]|FRG|1988 Summer}}
+|rowspan=2| {{flagIOCmedalist|[[Gabriela Sabatini]]|ARG|1988 Summer}}
+| {{flagIOCmedalist|[[Zina Garrison]]|USA|1988 Summer}}
+|-
+| {{flagIOCmedalist|[[Manuela Maleeva|Manuela Maleeva-Fragnière]]|BUL|1988 Summer}}
+|-
+|rowspan=2| [[Tennis at the 1988 Summer Olympics – Women's doubles|Women's doubles]]
+|rowspan=2| {{flagIOC|USA|1988 Summer}}<br>[[Pam Shriver]]<br>[[Zina Garrison]]
+|rowspan=2| {{flagIOC|TCH|1988 Summer}}<br>[[Jana Novotná]]<br>[[Helena Suková]]
+| {{flagIOC|AUS|1988 Summer}}<br>[[Elizabeth Smylie]]<br>[[Wendy Turnbull]]
+|-
+| {{flagIOC|FRG|1988 Summer}}<br>[[Steffi Graf]]<br>[[Claudia Kohde-Kilsch]]
+|}<section end=events/>
+
+===Medal table===
+[[Image:Seoul women's tennis results.jpg|thumb|A scoreboard that still remained in 2006, that documents the women's singles draw]]
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = FlagIOC
+ | event          = 1988 Summer
+ | team           = 
+ | gold_USA = 2 | silver_USA = 1 | bronze_USA = 2
+ | gold_TCH = 1 | silver_TCH = 1 | bronze_TCH = 1
+ | gold_FRG = 1 | silver_FRG = 0 | bronze_FRG = 1
+ | gold_ARG = 0 | silver_ARG = 1 | bronze_ARG = 0
+ | gold_ESP = 0 | silver_ESP = 1 | bronze_ESP = 0
+ | gold_SWE = 0 | silver_SWE = 0 | bronze_SWE = 2
+ | gold_AUS = 0 | silver_AUS = 0 | bronze_AUS = 1
+ | gold_BUL = 0 | silver_BUL = 0 | bronze_BUL = 1
+}}
+
+==References==
+*[http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Report] {{Webarchive|url=https://web.archive.org/web/20070612020125/http://www.la84foundation.org/5va/reports_frmst.htm |date=2007-06-12 }}
+
+{{EventsAt1988SummerOlympics}}
+{{Tennis at the Summer Olympics}}
+{{1988 Nabisco Grand Prix}}
+{{1988 WTA Tour}}
+{{1988 in tennis}}
+
+{{DEFAULTSORT:Tennis At The 1988 Summer Olympics}}
+[[Category:Tennis at the 1988 Summer Olympics| ]]
+[[Category:Tennis at the Summer Olympics|1988]]
+[[Category:Events at the 1988 Summer Olympics]]
+[[Category:1988 in tennis|Olympics]]
+[[Category:Tennis tournaments in South Korea|1988 Olympics]]

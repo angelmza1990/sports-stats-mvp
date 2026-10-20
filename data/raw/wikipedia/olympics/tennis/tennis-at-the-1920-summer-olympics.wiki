@@ -1,0 +1,99 @@
+{{short description|none}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox tennis tournament year
+| 1 = 1920
+| 2 = Summer Olympics
+| date=16–24 August 1920
+| edition=6th
+| category=
+| surface=[[Grass court|Grass]] / outdoor
+| multi = yes
+| quadrennial=yes
+| before_year = 1912
+| location=[[Beerschot Tennis Club]], [[Kontich]]
+| champms={{flagIOCathlete|[[Louis Raymond (tennis)|Louis Raymond]]|RSA|1920 Summer}}
+| champws={{flagIOCathlete|[[Suzanne Lenglen]]|FRA|1920 Summer}}
+| champmd={{flagIOCathlete|[[Noel Turnbull]] / [[Max Woosnam]]|GBR|1920 Summer}}
+| champwd={{nowrap|{{flagIOCathlete|[[Kathleen McKane Godfree|Kathleen McKane]] / [[Winifred McNair]]|GBR|1920 Summer}}}}
+| champxd={{flagIOCathlete|[[Suzanne Lenglen]] / [[Max Decugis]]|FRA|1920 Summer}}
+}}
+Final results for the [[Tennis]] competition at the [[1920 Summer Olympics]] in [[Antwerp]], [[Belgium]]. The competition was held from Monday, 16 August 1920 to Tuesday, 24 August 1920.<ref>{{cite web|url=https://www.olympedia.org/games/7/sports/TEN |title=Tennis at the 1920 Summer Olympics |work=Olympedia |access-date=11 July 2020}}</ref>
+
+==Medal summary==
+===Events===
+<section begin=events/>
+{| {{MedalistTable|type=Event}}
+|-
+| [[Tennis at the 1920 Summer Olympics – Men's singles|Men's singles]]
+| {{flagIOCmedalist|[[Louis Raymond (tennis)|Louis Raymond]]|RSA|1920 Summer}}
+| {{flagIOCmedalist|[[Ichiya Kumagae]]|JPN|1920 Summer}}
+| {{flagIOCmedalist|[[Charles Winslow]]|RSA|1920 Summer}}
+|-
+| [[Tennis at the 1920 Summer Olympics – Men's doubles|Men's doubles]]
+| {{FlagIOC|GBR|1920 Summer}}<br>[[Noel Turnbull]]<br>[[Max Woosnam]]
+| {{FlagIOC|JPN|1920 Summer}}<br>[[Seiichiro Kashio]]<br>[[Ichiya Kumagae]]
+| {{FlagIOC|FRA|1920 Summer}}<br>[[Pierre Albarran]]<br>[[Max Decugis]]
+|-
+| [[Tennis at the 1920 Summer Olympics – Women's singles|Women's singles]]
+| {{flagIOCmedalist|[[Suzanne Lenglen]]|FRA|1920 Summer}}
+| {{flagIOCmedalist|[[Dorothy Holman]]|GBR|1920 Summer}}
+| {{flagIOCmedalist|[[Kathleen McKane Godfree|Kathleen McKane]]|GBR|1920 Summer}}
+|-
+| [[Tennis at the 1920 Summer Olympics – Women's doubles|Women's doubles]]
+| {{FlagIOC|GBR|1920 Summer}}<br>[[Kathleen McKane Godfree|Kathleen McKane]]<br>[[Winifred McNair]]
+| {{FlagIOC|GBR|1920 Summer}}<br>[[Geraldine Beamish|Winifred Beamish]]<br>[[Dorothy Holman]]
+| {{FlagIOC|FRA|1920 Summer}}<br>[[Élisabeth d'Ayen]]<br>[[Suzanne Lenglen]]
+|-
+| [[Tennis at the 1920 Summer Olympics – Mixed doubles|Mixed doubles]]
+| {{FlagIOC|FRA|1920 Summer}}<br>[[Suzanne Lenglen]]<br>[[Max Decugis]]
+| {{FlagIOC|GBR|1920 Summer}}<br>[[Kathleen McKane Godfree|Kathleen McKane]]<br>[[Max Woosnam]]
+| {{FlagIOC|TCH|1920 Summer}}<br>[[Milada Skrbková]]<br>[[Ladislav Žemla]]
+|}<section end=events/>
+
+===Medal table===
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = FlagIOC
+ | event          = 1920 Summer
+ | team           = 
+ | gold_GBR = 2 | silver_GBR = 3 | bronze_GBR = 1
+ | gold_FRA = 2 | silver_FRA = 0 | bronze_FRA = 2
+ | gold_RSA = 1 | silver_RSA = 0 | bronze_RSA = 1
+ | gold_JPN = 0 | silver_JPN = 2 | bronze_JPN = 0
+ | gold_TCH = 0 | silver_TCH = 0 | bronze_TCH = 1
+}}
+
+==Participating nations==
+A total of 75 tennis players (52 men and 23 women) from 14 nations (men from 14 nations - women from 8 nations) competed at the Antwerp Games:
+
+* {{flagIOC|AUS|1920 Summer|1}} <small>(men:1 women:0)</small>
+* {{flagIOC|BEL|1920 Summer|16}} <small>(men:8 women:8)</small>
+* {{flagIOC|TCH|1920 Summer|7}} <small>(men:6 women:1)</small>
+* {{flagIOC|DEN|1920 Summer|3}} <small>(men:1 women:2)</small>
+* {{flagIOC|FRA|1920 Summer|10}} <small>(men:7 women:3)</small>
+* {{flagIOC|GBR|1920 Summer|8}} <small>(men:4 women:4)</small>
+* {{flagIOC|GRE|1920 Summer|1}} <small>(men:1 women:0)</small>
+* {{flagIOC|ITA|1920 Summer|4}} <small>(men:3 women:1)</small>
+* {{flagIOC|JPN|1920 Summer|2}} <small>(men:2 women:0)</small>
+* {{flagIOC|NOR|1920 Summer|3}} <small>(men:2 women:1)</small>
+* {{flagIOC|RSA|1920 Summer|5}} <small>(men:5 women:0)</small>
+* {{flagIOC|ESP|1920 Summer|4}} <small>(men:4 women:0)</small>
+* {{flagIOC|SWE|1920 Summer|8}} <small>(men:5 women:3)</small>
+* {{flagIOC|SUI|1920 Summer|3}} <small>(men:3 women:0)</small>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.olympic.org/uk/athletes/results/search_r_uk.asp International Olympic Committee medal database]
+* [http://www.itftennis.com/media/80351/80351.pdf  ITF, 2008 Olympic Tennis Event Media Guide]
+
+{{EventsAt1920SummerOlympics}}
+{{Tennis at the Summer Olympics}}
+
+[[Category:Tennis at the 1920 Summer Olympics| ]]
+[[Category:Tennis at the Summer Olympics|1920]]
+[[Category:Events at the 1920 Summer Olympics]]
+[[Category:1920 in tennis|Olympics]]
+[[Category:Tennis tournaments in Belgium|1920 Olympics]]

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Olympic Boxing · Boxing</title>
+  <meta name="description" content="Every Olympic boxing medal since 1904, men's and women's: a gold medal race by nation, the medal table by weight class, the most decorated boxers and the podium of every weight class.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="../../olympics/events.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/boxing-olympics.json" data-sport-config='{"group": "Weight class", "athlete": "Boxer", "start": "St. Louis 1904"}'>
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Boxing</p>
+    <h1>Olympic Boxing</h1>
+    <p class="lede">Every Olympic boxing medal since St. Louis 1904, when the sport first appeared, men's and women's (since London 2012), in every weight class, including the ones no longer contested. Also see <a href="../../olympics/">the Olympic Games</a>.</p>
+  </header>
+
+  <div class="filter-bar wrap-bar">
+    <div class="wrap filter-inner">
+      <span class="filter-label">Events</span>
+      <div class="segmented" role="tablist" aria-label="Events" id="gender"></div>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <div class="stat-row" id="stats" style="margin-top:24px"></div>
+
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most gold medals</h2>
+        <p>Olympic boxing gold medals by nation, Games by Games.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Games">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="medals">
+      <div class="block-head">
+        <h2>Medal table</h2>
+        <p>Medals won by each nation, overall or by weight band.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Weight class" id="medals-group"></div>
+        </div>
+        <div class="legend" id="medals-legend"></div>
+        <div class="data-table tall" id="medals-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="athletes">
+      <div class="block-head">
+        <h2>The most decorated boxers</h2>
+        <p>Career Olympic medals. Few boxers win more than one: most turn professional after their first Games.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="athletes-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="events">
+      <div class="block-head">
+        <h2>Results by event</h2>
+        <p>Pick a weight class for its podium at every Games and who has won it most.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="scope-select"><select id="event-select" aria-label="Event"></select></div>
+          <span class="event-meta" id="event-meta"></span>
+        </div>
+        <div class="grid-2 event-leaders">
+          <div>
+            <h3 class="sub">Gold medals by nation</h3>
+            <div id="event-nations"></div>
+          </div>
+          <div>
+            <h3 class="sub">Most medals in this event</h3>
+            <div id="event-athletes"></div>
+          </div>
+        </div>
+        <div class="data-table" id="event-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> Wikipedia, <span id="sources"></span> (CC BY-SA 4.0). Updated automatically twice a year. <span id="data-through"></span></p>
+    <p>
+      <strong>Notes:</strong> since 1952 there is no bronze medal bout, so both losing semi-finalists receive a bronze. Weight limits changed over time; each class keeps its name across Games (the source lists the limits).
+      Women's boxing joined the programme in 2012. Medals stripped for doping are left vacant, as the source shows them.
+      Boxing did not take place in 1912, when Swedish law banned it. Flags by <a href="https://flagpedia.net">Flagpedia</a>. This project is not affiliated with World Boxing, the IBA or the IOC.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="../../olympics/events.js"></script>
+</body>
+</html>

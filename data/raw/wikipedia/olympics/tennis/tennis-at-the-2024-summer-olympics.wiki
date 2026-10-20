@@ -1,0 +1,214 @@
+{{short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{see also|Tennis at the Summer Olympics}}
+{{Infobox Olympic event
+| event       = Tennis
+| games       = 2024 Summer
+| image       = [[File:Tennis – Paris 2024.svg|150px|class=skin-invert]]
+| caption  = Tennis pictogram for the 2024 Summer Olympics
+| venue       = [[Stade Roland Garros]]
+| dates       = 27 July – 4 August 2024
+| competitors =  175
+| nations     = 40+1
+|num_events = 5 (2 men, 2 women, 1 mixed)
+| prev        = [[Tennis at the 2020 Summer Olympics|2020]]
+| next        = [[Tennis at the 2028 Summer Olympics|2028]]
+}}
+{{Infobox tennis tournament year|2024|Summer Olympics|
+| Logo        =
+| Logo_size   =
+| date        = 
+| edition     = 19th
+| category    =
+| surface     = Clay
+| location    =
+| multi       = yes
+| before_year = 2020
+| after_year  = 2028
+| main_name= Tennis at the Summer Olympics{{!}}Summer Olympics
+| champms  = {{flagIOCathlete|[[Novak Djokovic]]|SRB|2024 Summer}}
+| champws  = {{flagIOCathlete|[[Zheng Qinwen]]|CHN|2024 Summer}}
+| champmd  = {{flagIOCathlete|[[Matthew Ebden]] & [[John Peers]]|AUS|2024 Summer}} 
+| champwd  ={{flagIOCathlete|[[Sara Errani]] & [[Jasmine Paolini]]|ITA|2024 Summer}}
+| champxd  =  {{flagIOCathlete|[[Kateřina Siniaková]] & [[Tomáš Macháč]]|CZE|2024 Summer}}
+}}
+The [[tennis]] tournaments at the [[2024 Summer Olympics]] in [[Paris]] ran from 27 July to 4 August at the [[Stade Roland Garros]].<ref>{{cite news|title=Roland Garros to host Paris 2024 tennis|url=https://www.sportsbusinessjournal.com/Daily/Global/2022/08/08/Paris-2024-Roland-Garros.aspx|publisher=[[Sports Business Journal]]|date=8 August 2022|accessdate=28 January 2023}}</ref> The event featured a total of 175 players across five medal events: singles and doubles for both men and women and mixed doubles.<ref name="Paris 2024">{{cite web|url=https://www.paris2024.org/en/sport/tennis/|title=Paris 2024 – Tennis|publisher=[[2024 Summer Olympics|Paris 2024]]|accessdate=28 January 2023|archive-date=30 June 2024|archive-url=https://web.archive.org/web/20240630083144/https://www.paris2024.org/en/sport/tennis|url-status=dead}}</ref><ref name=tennis-comp>{{cite news|title=Tennis at the 2024 Paris Olympic Games|url=https://www.nbcolympics.com/news/tennis-2024-paris-olympic-games|publisher=[[NBC Olympics]]|date=17 August 2022|accessdate=28 January 2023}}</ref> 
+
+Similar to previous editions, the Paris 2024 format was set in a [[single-elimination]] tournament with the men's and women's singles draws consisting of 64 players. The tennis tournaments featured six rounds in the men's and women's singles, five in the men's and women's doubles (draw size of 32), and four in the mixed doubles (draw size of 16). The players and pairs advancing to the semifinal stage put themselves into medal contention with the two losing semifinalists competing for a [[bronze medal]]. All singles matches will be best of three sets with a standard [[tiebreak (tennis)|tiebreak]] (first to seven points) in every set, including the final set.<ref name=table-tennis-qual-1>{{cite news|first=Owen|last=Lloyd|title=Men's singles tennis final at Paris 2024 to remain in best-of-three sets format|url=https://www.insidethegames.biz/articles/1132080/paris-2024-tennis-mens-singles|publisher=[[Inside the Games]]|date=2 January 2023|accessdate=28 January 2023}}</ref> In all doubles competitions, a match tiebreak (first to ten points) will be contested instead of a third set. The Paris 2024 event is the first Olympic [[clay court]] event since the [[Tennis at the 1992 Summer Olympics|Barcelona 1992]] event was played at [[Tennis de la Vall d'Hebron]].<ref name=table-tennis-qual-1/> A total of 10 NOC's won medals along with the Independent Athletes team. It was the second Olympic tournament to be played at a [[Grand Slam (tennis)|Grand Slam]] venue in the Open era and the first since the [[Tennis at the 2012 Summer Olympics|London 2012]] event was staged at the [[Wimbledon Championships]] venue, the [[All England Lawn Tennis and Croquet Club]].
+
+==Medal summary==
+[[File:2024 Summer Olympics men's singles tennis tournament's podium, 2024-08-04 (129).jpg|thumb|Men's singles tennis tournament podium]]
+A total of fifteen medals were won by ten NOC's and the Independent Athletes team.<ref>{{cite web|url=https://olympics.com/OG2024/pdf/OG2024/TEN/OG2024_TEN_C95_TEN-------------------------------.pdf|title=Medal standings|date=4 August 2024|website=www.olympics.com/|publisher=[[Paris Organising Committee for the 2024 Olympic and Paralympic Games]]|access-date=2 September 2024}}</ref>
+===Events===
+<section begin=events/>
+{|{{MedalistTable|type=Event}}
+|-
+|[[Tennis at the 2024 Summer Olympics – Men's singles|Men's singles]]
+|{{flagIOCmedalist|[[Novak Djokovic]]|SRB|2024 Summer}}
+|{{flagIOCmedalist|[[Carlos Alcaraz]]|ESP|2024 Summer}}
+|{{flagIOCmedalist|[[Lorenzo Musetti]]|ITA|2024 Summer}}
+|-
+|[[Tennis at the 2024 Summer Olympics – Men's doubles|Men's doubles]]
+|{{flagIOC|AUS|2024 Summer}}<br />[[Matthew Ebden]]<br />[[John Peers]]
+|{{flagIOC|USA|2024 Summer}}<br />[[Austin Krajicek]]<br />[[Rajeev Ram]]
+|{{flagIOC|USA|2024 Summer}}<br />[[Taylor Fritz]]<br />[[Tommy Paul (tennis)|Tommy Paul]]
+|-
+|[[Tennis at the 2024 Summer Olympics – Women's singles|Women's singles]]
+|{{flagIOCmedalist|[[Zheng Qinwen]]|CHN|2024 Summer}}
+|{{flagIOCmedalist|[[Donna Vekić]]|CRO|2024 Summer}}
+|{{flagIOCmedalist|[[Iga Świątek]]|POL|2024 Summer}}
+|-
+|[[Tennis at the 2024 Summer Olympics – Women's doubles|Women's doubles]]
+|{{flagIOC|ITA|2024 Summer}}<br />[[Sara Errani]]<br />[[Jasmine Paolini]]
+|{{flagIOC|AIN|2024 Summer}}<br />[[Mirra Andreeva]]<br />[[Diana Shnaider]]
+|{{flagIOC|ESP|2024 Summer}}<br />[[Cristina Bucșa]]<br />[[Sara Sorribes Tormo]]
+|-
+|[[Tennis at the 2024 Summer Olympics – Mixed doubles|Mixed doubles]]
+|{{flagIOC|CZE|2024 Summer}}<br />[[Kateřina Siniaková]]<br />[[Tomáš Macháč]]
+|{{flagIOC|CHN|2024 Summer}}<br />[[Wang Xinyu]]<br/>[[Zhang Zhizhen]] 
+|{{flagIOC|CAN|2024 Summer}}<br />[[Gabriela Dabrowski]]<br />[[Félix Auger-Aliassime]]
+|}<section end=events/>
+
+===Medal table===
+{{Medals table
+ | caption        =
+ | host           = FRA
+ | flag_template  = flagIOC
+ | event          = 2024 Summer
+ | team           =NOC
+ | gold_CZE = 1 | silver_CZE = 0 | bronze_CZE = 0
+ | gold_AUS = 1 | silver_AUS = 0 | bronze_AUS = 0
+ | gold_CHN = 1 | silver_CHN = 1 | bronze_CHN = 0
+ | gold_SRB = 1 | silver_SRB = 0 | bronze_SRB = 0
+ | gold_CRO = 0 | silver_CRO = 1 | bronze_CRO = 0
+ | gold_USA = 0 | silver_USA = 1 | bronze_USA = 1
+ | gold_CAN = 0 | silver_CAN = 0 | bronze_CAN = 1
+ | gold_ITA = 1 | silver_ITA = 0 | bronze_ITA = 1
+ | gold_POL = 0 | silver_POL = 0 | bronze_POL = 1
+ | gold_ESP = 0 | silver_ESP = 1 | bronze_ESP = 1
+ | gold_AIN = 0 | silver_AIN = 1 | bronze_AIN = 0|skip_AIN= yes
+}}
+
+==Tournament summary==
+In the women's singles, [[Zheng Qinwen]] beat [[Donna Vekić]] to become the first Asian tennis player to win Olympic singles gold.<ref>{{cite news|title=Paris Olympics tennis: Zheng Qinwen wins women's singles gold for China|url=https://www.bbc.com/sport/olympics/articles/c035339d8g3o|access-date=5 August 2024|work=BBC Sport|publisher=British Broadcasting Corporation|date=3 August 2024}}</ref> It was also China's second tennis gold medal after [[Li Ting (tennis, born 1980)|Li Ting]] and [[Sun Tiantian]] won the women's doubles in Athens in 2004. Zheng's gold medal followed an upset win in the semifinals over world #1 [[Iga Swiatek]] of Poland, the four-time and three-time defending French Open champion who had won 25 straight matches at Roland Garros.<ref>{{cite news|last1=Carayol|first1=Tumaini|title=Iga Swiatek's 25-match Roland Garros winning streak ended by Zheng Qinwen|url=https://www.theguardian.com/sport/article/2024/aug/01/iga-swiatek-roland-garros-streak-qinwen-zheng-paris-olympics-tennis-semi-final|access-date=5 August 2024|work=The Guardian|date=1 August 2024}}</ref> Swiatek won bronze over [[Anna Karolína Schmiedlová]].
+
+In the men's singles, [[Novak Djokovic]] of Serbia overcame French Open champion Spaniard [[Carlos Alcaraz]] in straight sets after tiebreaks in both to win gold. It marked the first Olympic gold medal in his fifth Olympic Games for Djokovic, who had won a record 24 Grand Slam men's singles titles including three French Opens ([[2016 French Open – Men's singles|2016]], [[2021 French Open – Men's singles|2021]] and [[2023 French Open – Men's singles|2023]]), as well as the first Olympic tennis gold medal for Serbia as well as his second medal after having won a bronze medal in Beijing 2008 men's singles. Djokovic also became just the fifth player to win a [[List of Grand Slam and related tennis records#Career Golden Slam|career singles Golden Slam]] consisting of all four majors and Olympic gold after [[Steffi Graf]], [[Andre Agassi]], [[Rafael Nadal]] and [[Serena Williams]]. Graf is the only player to record a Golden Slam in a calendar year after doing so in 1988, while Williams is the only player to have a career Golden Slam in both singles and doubles (with her sister [[Venus Williams|Venus]] as her partner).<ref name="Men's Singles Gold Medal Report"/> Nadal and Williams, together with former French world #1 [[Amélie Mauresmo]], were also chosen among the torchbearers during the last leg of the Olympic torch relay during the [[2024 Summer Olympics opening ceremony|opening ceremony]] despite not being French, and Djokovic beat Nadal in the second round. [[Lorenzo Musetti]] won bronze over [[Félix Auger-Aliassime]] in three sets.
+
+{{blockquote|Everything I felt in that moment when I won surpassed everything I thought or hoped that it would...Being on that court with the Serbian flag raising, singing the Serbian anthem, with the gold around my neck, I think nothing can beat that in terms of professional sport. It definitely stands out as the biggest sporting achievement I have had.|[[Novak Djokovic]] after winning the men's singles gold medal<ref name="Men's Singles Gold Medal Report">{{cite news|last1=Lofthouse|first1=Amy|title=Novak Djokovic beats Carlos Alcaraz to win Olympic tennis gold and seal 'Golden Slam'|url=https://www.bbc.com/sport/olympics/articles/cjk33v1n8n4o|access-date=5 August 2024|work=BBC Sport|publisher=British Broadcasting Corporation|date=4 August 2024}}</ref>
+}}
+
+In the men's doubles, [[Matthew Ebden]] and [[John Peers]] became the first Australian pair to win the event since "[[The Woodies]]" ([[Todd Woodbridge]] and [[Mark Woodforde]]) in Atlanta in 1996, while the United States pairs took both silver and bronze. [[Sara Errani]] and [[Jasmine Paolini]] won the women's doubles, while [[Kateřina Siniaková]] and [[Tomáš Macháč]] won the mixed doubles.
+
+The event was also [[Andy Murray]]'s last professional outing after winning gold in the London 2012 event at Wimbledon and in Rio de Janeiro four years later, where he was Great Britain's opening ceremony flagbearer, in addition to three Grand Slam singles titles and a Davis Cup with Great Britain.<ref>{{cite news|last1=Jurejko|first1=Jonathan|title=What next for Andy Murray after retirement?|url=https://www.bbc.com/sport/olympics/articles/c3grg4qp2zno|access-date=5 August 2024|work=BBC Sport|publisher=British Broadcasting Corporation|date=2 August 2024}}</ref> It was also the last event for former world #1 [[Angelique Kerber]], who had won three Grand Slam singles titles and been the silver medalist in Rio.<ref>{{cite news |last1=Harding |first1=Jonathan |title=Olympics: Angelique Kerber's fairytale run over – DW – 07/31/2024 |url=https://www.dw.com/en/olympics-angelique-kerbers-fairytale-run-over/a-69821747 |access-date=9 November 2024 |work=Deutsche Welle |date=31 May 2024 |language=en}}</ref>
+
+==Qualification==
+{{main|Tennis at the 2024 Summer Olympics – Qualification}}
+To be eligible for [[2024 Summer Olympics|Paris 2024]], a tennis player must satisfy the key criteria to play on [[Davis Cup]] or [[Billie Jean King Cup]] teams. The qualification pathway for the singles tournaments is primarily based on the [[ATP rankings|ATP]] and [[WTA rankings|WTA]] rankings of 10 June 2024, with 56 players entering each of the men's and women's singles (limited to four per [[National Olympic Committee]] (NOC)).<ref name=tennis-qual>{{cite news|first=Sheila|last=Vieira|title=How to qualify for tennis at Paris 2024. The Olympics qualification system explained|url=https://olympics.com/en/news/pathway-to-paris-2024-tennis-qualification-system-explained|publisher=[[International Olympic Committee]] |date=12 December 2022|accessdate=28 January 2023}}</ref> Six of the remaining eight slots are attributed to the NOCs with no other qualified tennis players across five continental zones (two for the Americas and one each for the rest). The final two spots are reserved, one for the host nation France and the other for the previous Olympic gold medalist or Grand Slam champion.<ref name=tennis-qual/><ref>{{cite news|title=Qualification System – Games of the XXXIII Olympiad – Tennis|url=https://stillmed.olympics.com/media/Documents/Olympic-Games/Paris-2024/Paris2024-QS-Tennis.pdf|publisher=[[International Tennis Federation|ITF]]|access-date=28 January 2023}}</ref><ref name=ITFNews>{{cite news|url=https://www.itftennis.com/en/news-and-media/articles/paris-2024-olympic-tennis-event-qualification-system/|title=Paris 2024 Olympic Tennis Event Qualification System |publisher=[[International Tennis Federation|ITF]]|date=17 May 2022|accessdate=28 January 2023}}</ref>  In the men's and women's doubles tournaments, thirty-two places will offer for the highest-ranked teams with ten of them reserved for players in the top ten of the doubles rankings, who could select his or her partner from their NOC ranked in the top 300 of either singles or doubles. The remaining spots are attributed through the combined rankings with a preference given to the singles players once the total quota is filled. One team per gender is reserved for the host nation France if none has already become eligible otherwise.<ref name=tennis-qual/> With no quota places available for the mixed doubles, all teams will consist of players already entered in either the singles or doubles, including the top 15 combined ranking teams and the host nation France.<ref name=tennis-qual/>
+
+==Schedule==
+{{see also|Tennis at the 2024 Summer Olympics – Day-by-day summaries}}
+{{Olympic schedule legend|sport=tennis}}
+{|class="wikitable olympic-schedule tennis"
+|+Schedule<ref name=tennis-sched>{{cite web|title=Paris 2024 Olympic Competition Schedule – Tennis|url=https://press.paris2024.org/download-pdf/62e3925939e99f571a09435c|work=[[2024 Summer Olympics|Paris 2024]]|format=[[PDF]]|pages=77–78|accessdate=28 January 2023}}</ref><ref>{{Cite web |title=Olympic Tennis Schedule {{!}} Paris 2024 |url=https://olympics.com/en/paris-2024/schedule/tennis}}</ref>
+! scope="col"|Date
+! scope="col"|Sat 27
+! scope="col"|Sun 28
+! scope="col"|Mon 29
+! scope="col"|Tue 30
+! scope="col"|Wed 31
+! scope="col"|Thu 1 
+! scope="col" colspan=2| Fri 2
+! scope="col"| Sat 3
+! scope="col" colspan=2| Sun 4
+|-
+! scope="col"| Start time
+! scope="col"|12:00
+! scope="col"|12:00
+! scope="col"|12:00
+! scope="col"|12:00
+! scope="col"|12:00
+! scope="col"|12:00
+! scope="col" colspan=2|12:00
+! scope="col"|12:00
+! scope="col" colspan=2|12:00
+|-
+| class="event" | [[Tennis at the 2024 Summer Olympics – Men's singles|Men's singles]] || colspan=2 class="prelims" | R64 || colspan=2 class="prelims" | R32 || class="prelims" | R16 || class="quarterfinals" | QF || colspan=2 class="semifinals" | SF || class="final" | BM || colspan=2 class="final" | F
+|-
+| class="event" | [[Tennis at the 2024 Summer Olympics – Men's doubles|Men's doubles]] || colspan=2 class="prelims" | R32 || class="prelims" | R16 || class="quarterfinals" | QF || class="semifinals" | SF || || colspan=2 class="final" | BM || class="final" | F || colspan=2|
+|-
+| class="event" | [[Tennis at the 2024 Summer Olympics – Women's singles|Women's singles]] || colspan=2 class="prelims" | R64 || class="prelims" | R32 || class="prelims" | R16 || class="quarterfinals" | QF || class="semifinals" | SF || colspan=2 class="final" | BM || class="final" | F || colspan=2|
+|-
+| class="event" | [[Tennis at the 2024 Summer Olympics – Women's doubles|Women's doubles]] || colspan=2 class="prelims" | R32 || colspan=2 class="prelims" | R16 || class="quarterfinals" | QF || class="semifinals" | SF ||colspan=2| || || class="final" | BM || class="final" | F
+|-
+| class="event" | [[Tennis at the 2024 Summer Olympics – Mixed doubles|Mixed doubles]] || || || colspan=2 class="prelims" | R16 || class="quarterfinals" | QF || class="semifinals" | SF || class="final" | BM || class="final" | F || || colspan=2|
+|}
+
+==Participating nations==
+There were 175 tennis athletes from 40 participating NOC's and the Individual Neutral Athlete team.<ref>{{cite web|url=https://olympics.com/OG2024/pdf/OG2024/TEN/OG2024_TEN_C30_TEN-------------------------------.pdf|title=Number of Entries by NOC|date=3 August 2024|website=www.olympics.com/|publisher=[[Paris Organising Committee for the 2024 Olympic and Paralympic Games]]|access-date=3 August 2024}}</ref>
+
+{{div col|colwidth=20em}}
+*{{flagIOC|ARG|2024 Summer|8}}
+*{{flagIOC|AUS|2024 Summer|9}}
+*{{flagIOC|AUT|2024 Summer|1}}
+*{{flagIOC|BEL|2024 Summer|3}}
+*{{flagIOC|BRA|2024 Summer|5}}
+*{{flagIOC|BUL|2024 Summer|1}}
+*{{flagIOC|CAN|2024 Summer|5}}
+*{{flagIOC|CHI|2024 Summer|3}}
+*{{flagIOC|CHN|2024 Summer|7}}
+*{{flagIOC|COL|2024 Summer|1}}
+*{{flagIOC|CRO|2024 Summer|4}}
+*{{flagIOC|CZE|2024 Summer|7}}
+*{{flagIOC|DEN|2024 Summer|2}}
+*{{flagIOC|EGY|2024 Summer|1}}
+*{{flagIOC|FRA|2024 Summer|9}}
+*{{flagIOC|GER|2024 Summer|10}}
+*{{flagIOC|GBR|2024 Summer|7}}
+*{{flagIOC|GRE|2024 Summer|4}}
+*{{flagIOC|HUN|2024 Summer|2}}
+*{{flagIOC|IND|2024 Summer|3}}
+*{{flagIOC|AIN|2024 Summer|7}}
+*{{flagIOC|ITA|2024 Summer|8}}
+*{{flagIOC|JPN|2024 Summer|6}}
+*{{flagIOC|KAZ|2024 Summer|3}}
+*{{flagIOC|LAT|2024 Summer|1}}
+*{{flagIOC|LBN|2024 Summer|2}}
+*{{flagIOC|MNE|2024 Summer|1}}
+*{{flagIOC|NED|2024 Summer|6}}
+*{{flagIOC|NZL|2024 Summer|2}}
+*{{flagIOC|NOR|2024 Summer|1}}
+*{{flagIOC|POL|2024 Summer|4}}
+*{{flagIOC|POR|2024 Summer|2}}
+*{{flagIOC|ROU|2024 Summer|4}}
+*{{flagIOC|SRB|2024 Summer|2}}
+*{{flagIOC|SVK|2024 Summer|1}}
+*{{flagIOC|ESP|2024 Summer|8}}
+*{{flagIOC|TPE|2024 Summer|4}}
+*{{flagIOC|TUN|2024 Summer|1}}
+*{{flagIOC|UKR|2024 Summer|5}}
+*{{flagIOC|USA|2024 Summer|11}}
+{{div col end}}
+
+==See also==
+{{Portal|Sport|Tennis|Olympic Games|France}}
+* [[Tennis at the 2023 African Games]]
+* [[Tennis at the 2022 Asian Games]]
+* [[Tennis at the 2023 Pan American Games]]
+* [[Wheelchair tennis at the 2024 Summer Paralympics]]
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{webarchive |url=https://web.archive.org/web/20240808122557/https://olympics.com/en/paris-2024/sports/tennis/ |title=Official website}}
+* {{webarchive |url=https://web.archive.org/web/20240805041152/https://olympics.com/OG2024/pdf/OG2024/TEN/OG2024_TEN_B99_TEN-------------------------------.pdf |title=Results book}}
+
+{{Events at the 2024 Summer Olympics}}
+{{Tennis at the Summer Olympics}}
+{{2024 in tennis}}
+
+[[Category:Tennis at the 2024 Summer Olympics| ]]
+[[Category:Tennis at the Summer Olympics|2024]]
+[[Category:Events at the 2024 Summer Olympics]]
+[[Category:2024 in tennis|Olympics]]
+[[Category:Tennis tournaments in France]]
+[[Category:2024 in French tennis]]

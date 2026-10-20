@@ -1,0 +1,221 @@
+{{short description|none}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox tennis tournament year
+| 1 = 1924
+| 2 = Summer Olympics
+| date     = 13–21 July 1924
+| edition  = 7th
+| category =
+| surface  = [[Clay court|Clay]] / outdoor
+| location = [[Colombes]]
+| venue = [[Stade Olympique Yves-du-Manoir]]
+| multi=yes
+| after_year=1968
+| quadrennial=yes
+| champms  = {{flagIOCathlete|[[Vincent Richards]]|USA|1924 Summer}}
+| champws  = {{flagIOCathlete|[[Helen Wills]]|USA|1924 Summer}}
+| champmd  = {{flagIOCathlete|[[Vincent Richards]] / [[Francis Hunter]]|USA|1924 Summer}} 
+| champwd  = {{flagIOCathlete|[[Hazel Hotchkiss Wightman|Hazel Wightman]] / [[Helen Wills]]|USA|1924 Summer}} 
+| champxd  = {{nowrap|{{flagIOCathlete|[[Hazel Hotchkiss Wightman|Hazel Wightman]] / [[R. Norris Williams]]|USA|1924 Summer}}}}
+}}
+Final results of the [[tennis]] competition at the [[1924 Summer Olympics]] in [[Paris]], France. After the 1924 Olympics, the tennis competition would be dropped until 1988. The mixed doubles competition did not return until the 2012 Olympics.<ref>{{cite web|url=https://www.olympedia.org/games/8/sports/TEN |title=Tennis at the 1924 Summer Olympics |work=Olympedia |access-date=11 July 2020}}</ref>
+{{Toc limit}}
+{{Clear}}
+
+==Schedule==
+{| class="wikitable" style="margin:1em auto; text-align:center"
+|-
+!Date
+!colspan=2|13 July
+!colspan=2|14 July
+!colspan=2|15 July
+!16 July
+!17 July
+!18 July
+!19 July
+!20 July
+!21 July
+|-
+!Day
+!colspan=2|Sunday
+!colspan=2|Monday
+!colspan=2|Tuesday
+!Wednesday
+!Thursday
+!Friday
+!Saturday
+!Sunday
+!Monday
+|-
+!Time
+!M
+!A
+!M
+!Afternoon
+!Morning
+!Afternoon
+!Afternoon
+!Afternoon
+!Afternoon
+!Afternoon
+!Afternoon
+!Afternoon
+|-
+|align="left"|[[Tennis at the 1924 Summer Olympics – Men's singles|Men's singles]]
+|colspan="6" bgcolor="#afeeee"|Elimination rounds
+|bgcolor="#afeeee"|Round of 16
+|bgcolor=#ffebcd|Quarterfinals
+|bgcolor=#FFFF00|Semifinals
+| —
+|bgcolor=#D8BFD8|Bronze & final
+| —
+|-
+|align="left"|[[Tennis at the 1924 Summer Olympics – Women's singles|Women's singles]]
+| —
+|colspan="4" bgcolor="#afeeee"|Elimination rounds
+|bgcolor="#afeeee"|Elimination/<br />round of 16
+|bgcolor="#afeeee"|Round of 16
+|bgcolor=#ffebcd|Quarterfinals
+|bgcolor=#FFFF00|Semifinals
+| —
+|bgcolor=#D8BFD8|Bronze & final
+| —
+|-
+|align="left"|[[Tennis at the 1924 Summer Olympics – Men's doubles|Men's doubles]]
+| —
+| —
+|colspan="3" bgcolor="#afeeee"|Elimination rounds
+|colspan="2" bgcolor="#afeeee"|Elimination/round of 16
+| —
+|bgcolor=#ffebcd|Quarterfinals
+|bgcolor=#FFFF00|Semifinals
+| —
+|bgcolor=#D8BFD8|Bronze & final
+|-
+|align="left"|[[Tennis at the 1924 Summer Olympics – Women's doubles|Women's doubles]]
+| —
+| —
+| —
+|bgcolor="#afeeee"|Elimination
+| —
+|colspan="2" bgcolor="#afeeee"|Round of 16
+|bgcolor=#ffebcd|Quarterfinals
+|bgcolor=#FFFF00|Semifinals
+|bgcolor=#D8BFD8|Bronze & final
+| —
+| —
+|-
+|align="left"|[[Tennis at the 1924 Summer Olympics – Mixed doubles|Mixed doubles]]
+| —
+| —
+| —
+|bgcolor="#afeeee"|Elimination
+|bgcolor="#afeeee"|Round of 16
+|bgcolor="#afeeee"|Elimination/<br />round of 16
+| —
+|bgcolor="#afeeee"|Round of 16
+|bgcolor=#ffebcd|Round of 16/<br />quarterfinals
+|bgcolor=#ffebcd|Quarterfinals
+|bgcolor=#FFFF00|Semifinals
+|bgcolor=#D8BFD8|Bronze & final
+|}
+
+==Medal summary==
+
+===Events===
+<section begin=events/>
+{| {{MedalistTable|type=Event}}
+|-
+| [[Tennis at the 1924 Summer Olympics – Men's singles|Men's singles]]
+| {{flagIOCmedalist|[[Vincent Richards]]|USA|1924 Summer}}
+| {{flagIOCmedalist|[[Henri Cochet]]|FRA|1924 Summer}}
+| {{flagIOCmedalist|[[Uberto De Morpurgo]]|ITA|1924 Summer}}
+|-
+| [[Tennis at the 1924 Summer Olympics – Men's doubles|Men's doubles]]
+| {{flagIOC|USA|1924 Summer}}<br />[[Vincent Richards]]<br />[[Francis Hunter]]
+| {{flagIOC|FRA|1924 Summer}}<br />[[Jacques Brugnon]]<br />[[Henri Cochet]]
+| {{flagIOC|FRA|1924 Summer}}<br />[[Jean Borotra]]<br />[[René Lacoste]]
+|-
+| [[Tennis at the 1924 Summer Olympics – Women's singles|Women's singles]]
+| {{flagIOCmedalist|[[Helen Wills]]|USA|1924 Summer}}
+| {{flagIOCmedalist|[[Julie Vlasto]]|FRA|1924 Summer}}
+| {{flagIOCmedalist|[[Kathleen McKane Godfree|Kathleen McKane]]|GBR|1924 Summer}}
+|-
+| [[Tennis at the 1924 Summer Olympics – Women's doubles|Women's doubles]]
+| {{flagIOC|USA|1924 Summer}}<br />[[Hazel Hotchkiss Wightman|Hazel Wightman]]<br />[[Helen Wills]]
+| {{flagIOC|GBR|1924 Summer}}<br />[[Phyllis Covell]]<br />[[Kathleen McKane Godfree|Kathleen McKane]]
+| {{flagIOC|GBR|1924 Summer}}<br />[[Evelyn Colyer]]<br />[[Dorothy Shepherd-Barron]]
+|-
+| [[Tennis at the 1924 Summer Olympics – Mixed doubles|Mixed doubles]]
+| {{flagIOC|USA|1924 Summer}}<br />[[Hazel Hotchkiss Wightman|Hazel Wightman]]<br />[[R. Norris Williams]]
+| {{flagIOC|USA|1924 Summer}}<br />[[Marion Zinderstein|Marion Jessup]]<br />[[Vincent Richards]]
+| {{flagIOC|NED|1924 Summer}}<br />[[Kea Bouman]]<br />[[Hendrik Timmer]]
+|}<section end=events/>
+
+===Medal table===
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagIOC
+ | event          = 1924 Summer
+ | team           = 
+ | gold_USA = 5 | silver_USA = 1 | bronze_USA = 0
+ | gold_FRA = 0 | silver_FRA = 3 | bronze_FRA = 1
+ | gold_GBR = 0 | silver_GBR = 1 | bronze_GBR = 2
+ | gold_ITA = 0 | silver_ITA = 0 | bronze_ITA = 1
+ | gold_NED = 0 | silver_NED = 0 | bronze_NED = 1
+}}
+
+==Participating nations==
+There were 124 tennis players from 28 countries.
+
+{{div col|colwidth=22em}}
+* {{flagIOC|ARG|1924 Summer|5}}
+* {{flagIOC|AUS|1924 Summer|2}}
+* {{flagIOC|BEL|1924 Summer|8}}
+* {{flagIOC|CHI|1924 Summer|2}}
+* {{flagIOC|ROC|1924 Summer|4}}<ref>{{cite book |title=Les Jeux de la VIII<sup>e</sup> Olympiade Paris 1924 – Rapport Officiel |editor=M. Avé, Comité Olympique Français |publisher=Librairie de France |location=Paris |language=fr |url=http://www.la84foundation.org/6oic/OfficialReports/1924/1924.pdf |format=PDF |access-date=16 October 2012| archive-url= https://web.archive.org/web/20110505162957/http://www.la84foundation.org/6oic/OfficialReports/1924/1924.pdf| archive-date= 5 May 2011 | quote=39 seulement s’alignérent, ne représentant plus que 24 nations, la Chine, le Portugal et la Yougoslavie ayant déclaré forfait. |url-status= live}}</ref>
+* {{flagIOC|TCH|1924 Summer|5}}
+* {{flagIOC|DEN|1924 Summer|5}}
+* {{flagIOC|FIN|1924 Summer|4}}
+* {{flagIOC|FRA|1924 Summer|10}}
+* {{flagIOC|GBR|1924 Summer|10}}
+* {{flagIOC|GRE|1924 Summer|3}}
+* {{flagIOC|HUN|1924 Summer|5}}
+* {{flagIOC|IND|1924 Summer|6}}
+* {{flagIOC|IRL|1924 Summer|4}}
+* {{flagIOC|ITA|1924 Summer|8}}
+* {{flagIOC|JPN|1924 Summer|4}}
+* {{flagIOC|LUX|1924 Summer|1}}
+* {{flagIOC|MEX|1924 Summer|2}}
+* {{flagIOC|NED|1924 Summer|5}}
+* {{flagIOC|NOR|1924 Summer|4}}
+* {{flagIOC|POR|1924 Summer|1}}
+* {{flagIOC|ROU|1924 Summer|3}}
+* {{flagIOC|RSA|1924 Summer|4}}
+* {{flagIOC|ESP|1924 Summer|8}}
+* {{flagIOC|SWE|1924 Summer|4}}
+* {{flagIOC|SUI|1924 Summer|4}}
+* {{flagIOC|USA|1924 Summer|9}}
+* {{flagIOC|YUG|1924 Summer|1}}
+{{div col end}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.olympic.org/uk/athletes/results/search_r_uk.asp International Olympic Committee medal database]
+*[http://www.itftennis.com/media/80351/80351.pdf  ITF, 2008 Olympic Tennis Event Media Guide]
+*{{cite book |title=Les Jeux de la VIII<sup>e</sup> Olympiade Paris 1924 – Rapport Officiel |editor=M. Avé, Comité Olympique Français |publisher=Librairie de France |location=Paris |pages=373–397 |language=fr |url=http://www.la84foundation.org/6oic/OfficialReports/1924/1924.pdf |format=PDF |access-date=16 October 2012| archive-url= https://web.archive.org/web/20110505162957/http://www.la84foundation.org/6oic/OfficialReports/1924/1924.pdf| archive-date= 5 May 2011 |url-status= live}}
+
+{{EventsAt1924SummerOlympics}}
+{{Tennis at the Summer Olympics}}
+{{1924 in tennis}}
+
+[[Category:Tennis at the 1924 Summer Olympics| ]]
+[[Category:Events at the 1924 Summer Olympics]]
+[[Category:Tennis at the Summer Olympics|1924]]
+[[Category:1924 in tennis|Olympics]]
+[[Category:Tennis tournaments in France|1924 Olympics]]
+[[Category:Tennis in Paris]]
+[[Category:1924 in French tennis]]

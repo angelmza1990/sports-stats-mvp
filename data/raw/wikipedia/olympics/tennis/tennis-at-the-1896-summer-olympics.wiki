@@ -1,0 +1,120 @@
+{{short description|none}}
+{{Infobox tennis tournament year
+| 1 = 1896
+| 2 = Summer Olympics
+| date = 8–11 April 1896
+| edition = 1st
+| logo = [[File:Tennis pictogram.svg|150px]]
+| category =
+| surface = Red clay
+| multi = yes
+| before_year = no
+| quadrennial = yes
+| location = [[Athens Lawn Tennis Club]]
+| champms={{flagIOCathlete|[[John Boland (Irish nationalist politician)|John Boland]]|GBR|1896 Summer}}
+| champmd={{flagIOCathlete|[[John Boland (Irish nationalist politician)|John Boland]] / [[Friedrich Traun]]|ZZX|1896 Summer}}
+}}
+
+At the [[1896 Summer Olympics]], two [[tennis]] events were contested, both for men. They began on 8 April and continued on 9 April, 10 April, and 11 April.<ref name=dates>Dates given are in the [[Gregorian calendar]]. Greece still used the [[Julian calendar]] at the time. According to that calendar, the tennis competition began on 27 March and closed on 30 March.</ref> 13 or 15 competitors from six nations, including seven [[Greece|Greeks]], took part in the tennis competition. Many of the doubles teams were of mixed nationality, including all three medalist pairs. None of the leading players of the time such as Wimbledon champion Harold Mahony, U.S champion Robert Wrenn, William Larned or Wilfred Baddeley participated. To strengthen the field, the organization added sportsmen from other Olympic events, including weightlifter [[Momčilo Tapavica]], hammer thrower [[George S. Robertson]] and 800-metres runners [[Edwin Flack]] and [[Friedrich Traun]].<ref>{{cite book|last=Gillmeister|first=Heiner|title=Tennis : A Cultural History|url=https://archive.org/details/tennisculturalhi0000gill|url-access=registration|year=1998|publisher=Leicester University Press|location=London|isbn=978-0718501952|page=[https://archive.org/details/tennisculturalhi0000gill/page/227 227]|edition=Repr.}}</ref>
+
+==Schedule==
+{| class="wikitable" style="text-align:center;margin:1em auto;"
+|-
+!Date
+!8 April
+!9 April
+!10 April
+!11 April
+|-
+!Day
+!Wednesday
+!Thursday
+!Friday
+!Saturday
+|-
+|align="left"|[[Tennis at the 1896 Summer Olympics – Men's singles|Men's singles]]
+|bgcolor="#afeeee"|Round 1
+|bgcolor=#ffebcd|Quarterfinals
+|bgcolor=#FFFF00|Semifinals
+|bgcolor=#D8BFD8|Final
+|-
+|align="left"|[[Tennis at the 1896 Summer Olympics – Men's doubles|Men's doubles]]
+|bgcolor=#ffebcd|Quarterfinals
+|bgcolor=#FFFF00|Semifinals
+| —
+|bgcolor=#D8BFD8|Final
+|}
+
+==Medal summary==
+[[Image:BASA-3K-7-422-11-1896_Summer_Olympics.jpg|thumb|right|Tennis at the 1896 Summer Olympics]]
+These medals are retroactively assigned by the [[International Olympic Committee]]; at the time, winners were given a silver medal and runners-up bronze medals. Athletes coming third received no award.
+
+===Events===
+<section begin=events/>
+{| {{MedalistTable|type=Event}}
+|-
+|rowspan=2| [[Tennis at the 1896 Summer Olympics – Men's singles|Men's singles]]
+|rowspan=2| {{flagIOCmedalist|[[John Boland (Irish nationalist politician)|John Boland]]|GBR|1896 Summer}}
+|rowspan=2| {{flagIOCmedalist|[[Dimitrios Kasdaglis|Dionysios Kasdaglis]]|GRE|1896 Summer}}
+| {{flagIOCmedalist|[[Konstantinos Paspatis]]|GRE|1896 Summer}}
+|-
+| {{flagIOCmedalist|[[Momčilo Tapavica]]|HUN|1896 Summer}}
+|-
+| [[Tennis at the 1896 Summer Olympics – Men's doubles|Men's doubles]]
+| {{flagIOC|ZZX|1896 Summer}}<br>{{flagIOCathlete|[[John Boland (Irish nationalist politician)|John Boland]]|GBR|1896 Summer}}<br>{{flagIOCathlete|[[Friedrich Traun]]|GER|1896 Summer}}
+| {{flagIOC|GRE|1896 Summer}}<br>[[Demetrios Petrokokkinos]]<br>[[Dimitrios Kasdaglis|Dionysios Kasdaglis]]
+| {{flagIOC|ZZX|1896 Summer}}<br>{{flagIOCathlete|[[Edwin Flack]]|AUS|1896 Summer}}<br>{{flagIOCathlete|[[George S. Robertson|George Robertson]]|GBR|1896 Summer}}
+|}<section end=events/>
+
+The silver-medal winning doubles team of Kasdaglis and Petrokokkinos appears in the IOC results database as a Greek team. In this regard:
+* Kasdaglis, a Greek national who resided in Alexandria after living in Great Britain for years, is listed as Greek in the IOC database for the singles event, but he is listed as Egyptian or British in some sources.
+* Petrokokkinos, who did not win a singles medal, is not identified with any nation in the IOC database, but all sources which state a nationality for Petrokokkinos list him as Greek.
+
+===Medal table===
+[[Image:1896 Olympic tennis.jpg|thumb|right|Singles final in 1896 Olympic tennis]]
+{{Medals table
+ | caption        = 
+ | host           = 
+ | show_limit     = 
+ | remaining_text = 
+ | flag_template  = flagIOC
+ | event          = 1896 Summer
+ | team           = 
+ | gold_GBR = 1 | silver_GBR = 0 | bronze_GBR = 0
+ | gold_GRE = 0 | silver_GRE = 2 | bronze_GRE = 1
+ | gold_HUN = 0 | silver_HUN = 0 | bronze_HUN = 1
+ | gold_ZZX = 1 | silver_ZZX = 0 | bronze_ZZX = 1
+}}
+
+Competitors from [[Australia at the 1896 Summer Olympics|Australia]] and [[Germany at the 1896 Summer Olympics|Germany]] won medals as a part of a mixed team in the doubles event.
+
+==Participating nations==
+A total of 13 tennis players from 6 nations competed at the Athens Games:
+
+* {{flagIOC|AUS|1896 Summer|1}}
+* {{flagIOC|FRA|1896 Summer|1}}
+* {{flagIOC|GER|1896 Summer|1}}
+* {{flagIOC|GBR|1896 Summer|2}}
+* {{flagIOC|GRE|1896 Summer|7}}
+* {{flagIOC|HUN|1896 Summer|1}}
+
+The [[International Society of Olympic Historians]] lists only thirteen players; according to them, British players Frank and George Marshall did not participate. Other sources do include the Marshalls, for a total of 15 players.
+
+==Notes==
+<references/>
+
+==References==
+* [http://www.olympic.org/uk/athletes/results/search_r_uk.asp International Olympic Committee results database]
+* {{cite book |author1=Lampros, S.P. |author2=Polites, N.G. |author3=De Coubertin, Pierre |author4=Philemon, P.J. |author5=Anninos, C. |name-list-style=amp | title=The Olympic Games: BC 776 &ndash; AD 1896 | location=Athens | publisher=Charles Beck | year=1897 }} (Digitally available at [http://www.la84foundation.org/6oic/OfficialReports/1896/1896.pdf] {{Webarchive|url=https://web.archive.org/web/20080527211831/http://www.la84foundation.org/6oic/OfficialReports/1896/1896.pdf |date=2008-05-27 }})
+* {{cite book | author1=Mallon, Bill | author2=Widlund, Ture | name-list-style=amp | title=The 1896 Olympic Games. Results for All Competitors in All Events, with Commentary | location=Jefferson | publisher=McFarland | year=1998 | isbn=0-7864-0379-9 | url-access=registration | url=https://archive.org/details/resultsofearlymo00mall }} (Excerpt available at [http://www.la84foundation.org/6oic/OfficialReports/Mallon/1896.pdf] {{Webarchive|url=https://web.archive.org/web/20080411091042/http://www.la84foundation.org/6oic/OfficialReports/Mallon/1896.pdf |date=2008-04-11 }})
+* {{cite book | author=Smith, Michael Llewellyn | title= Olympics in Athens 1896. The Invention of the Modern Olympic Games | location=London | publisher=Profile Books | year = 2004 | isbn=1-86197-342-X}}
+
+{{Events at the 1896 Summer Olympics}}
+{{Tennis at the Summer Olympics}}
+
+{{DEFAULTSORT:Tennis At The 1896 Summer Olympics}}
+[[Category:Tennis at the 1896 Summer Olympics| ]]
+[[Category:Events at the 1896 Summer Olympics]]
+[[Category:Tennis at the Summer Olympics|1896]]
+[[Category:1896 in tennis|Olympics]]
+[[Category:Tennis tournaments in Greece|1896 Olympics]]
