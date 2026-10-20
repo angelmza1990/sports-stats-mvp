@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Olympic Games · Olympics</title>
+  <meta name="description" content="Every Summer and Winter Olympic Games since 1896: a medal race by nation, the all-time medal table, the medal table of every Games, the nations that topped it, the hosts and the most decorated athletes.">
+  <link rel="stylesheet" href="../assets/theme.css">
+  <link rel="stylesheet" href="../assets/viz.css">
+  <link rel="stylesheet" href="../football/football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../assets/theme.js"></script>
+</head>
+<body data-src="data/olympics.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../">Sports Stats</a> · Olympics</p>
+    <h1>The Olympic Games</h1>
+    <p class="lede">Every Summer Games since Athens 1896 and every Winter Games since Chamonix 1924: who won the medals, who hosted, and the athletes who won the most.
+      Also see <a href="../swimming/olympics/">Olympic swimming</a>.</p>
+  </header>
+
+  <div class="filter-bar wrap-bar">
+    <div class="wrap filter-inner">
+      <span class="filter-label">Games</span>
+      <div class="segmented" role="tablist" aria-label="Games" id="season"></div>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <div class="stat-row" id="stats" style="margin-top:24px"></div>
+
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most medals</h2>
+        <p>Olympic medals won by each nation, Games by Games.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Medals" id="race-metric"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Games">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="alltime">
+      <div class="block-head">
+        <h2>All-time medal table</h2>
+        <p>Every nation's medals across all the Games, ranked by golds or by total. Nations are shown as they competed: the Soviet Union, East and West Germany and the other former teams have their own rows.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Rank by" id="alltime-sort"></div>
+        </div>
+        <div class="legend" id="alltime-legend"></div>
+        <div class="data-table tall" id="alltime-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="leaders">
+      <div class="block-head">
+        <h2>Who topped the medal table</h2>
+        <p>The nation with the most gold medals at each Games, and how many times each nation finished on top.</p>
+      </div>
+      <div class="card">
+        <div class="leader-strip" id="leader-strip"></div>
+        <div id="leader-counts"></div>
+      </div>
+    </section>
+
+    <section class="block" id="games">
+      <div class="block-head">
+        <h2>The medal table of every Games</h2>
+        <p>Pick a Games for its full medal table.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="scope-select"><select id="games-select" aria-label="Games"></select></div>
+          <span class="games-meta" id="games-meta"></span>
+        </div>
+        <div class="data-table tall" id="games-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="hosts">
+      <div class="block-head">
+        <h2>Hosts</h2>
+        <p>Every host city and how the host nation did at its own Games, plus the Games already awarded.</p>
+      </div>
+      <div class="card">
+        <div class="host-summary" id="hosts-summary"></div>
+        <div class="data-table tall" id="hosts-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="athletes">
+      <div class="block-head">
+        <h2>The most decorated Olympians</h2>
+        <p>Athletes with the most Olympic medals, or the most golds. Filter by sport or by men and women.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Rank by" id="athletes-sort"></div>
+          <div class="segmented" role="tablist" aria-label="Gender" id="athletes-gender"></div>
+          <div class="scope-select"><select id="athletes-sport" aria-label="Sport"></select></div>
+        </div>
+        <div class="data-table tall" id="athletes-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> Wikipedia (CC BY-SA 4.0): the medal table page of every Games, <span id="sources"></span>. Updated automatically twice a year. <span id="data-through"></span></p>
+    <p>
+      <strong>Notes:</strong> the all-time table follows Wikipedia's, which leaves out the art competitions held from 1912 to 1948; the medal table of each Games includes them, so for a few nations the two totals differ slightly.
+      Medal tables reflect later changes (medals stripped for doping and reallocated). "Mixed team" covers the early Games' teams of athletes from several nations.
+      The 1916, 1940 and 1944 Games were cancelled. The athlete lists cover those with the most medals and golds on Wikipedia's lists of multiple medalists.
+      Flags by <a href="https://flagpedia.net">Flagpedia</a>. This project is not affiliated with the IOC.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../assets/viz.js"></script>
+  <script src="../football/common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -96,6 +96,10 @@ Every league champion since 1891: a titles race with or without the amateur era,
 
 The Argentine page's format for six more countries, one page each with a shared front end: every national champion (Italy since 1898, England since 1888, France since 1894, Germany since 1903, Spain since 1929, Brazil since 1937), a titles race with and without the early era (before Serie A, the Premier League, the professional league, the Bundesliga or the 1971 Campeonato Brasileiro), titles by club, the all-time table where Wikipedia publishes one, the top scorer of every season and the all-time scorers.
 
+### 🏅 [The Olympic Games](https://angelmza1990.github.io/sports-stats-mvp/olympics/)
+
+Every Summer Games since 1896 and every Winter Games since 1924, separately or together: a race of gold (or all) medals by nation, the all-time medal table, the nation that topped the table at each Games, the full medal table of every Games, every host and how it did at home (plus the Games already awarded), and the most decorated Olympians, filterable by sport and by men and women.
+
 ### 🏊 [Olympic Swimming](https://angelmza1990.github.io/sports-stats-mvp/swimming/olympics/)
 
 Every Olympic swimming medal since 1896, men's and women's (and the mixed medley relay): a race of gold medals by nation, the medal table overall and by stroke, the most decorated swimmers (Phelps 23-3-2, Ledecky 9-4-1) and, for every event, current or discontinued, the full podium at each Games with times and who has won it most.
@@ -134,6 +138,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 ├── motorsport/formula-1/         # Formula 1 page
 ├── international/tournament.js   # Shared page for team tournaments
 ├── rugby|basketball|volleyball|hockey|handball/international/  # One page per sport (data/ per competition)
+├── olympics/                     # Olympic Games page (Summer and Winter)
 ├── swimming/olympics/            # Olympic swimming page
 ├── scripts/
 │   ├── tennis_data.py            # Shared ATP + Wikipedia draw helpers
@@ -148,6 +153,9 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_atp_records.py      # ATP and WTA career records pipeline
 │   ├── build_tournaments.py      # Rugby, basketball, volleyball, hockey and handball tournaments
 │   ├── build_swimming.py         # Olympic swimming medalists
+│   ├── build_olympics.py         # Olympic Games medal tables, hosts and athletes
+│   ├── fetch_flags.py            # Local copies of every flag in use
+│   ├── check_pages.mjs           # Headless check of every page
 │   └── wikitables.py             # Generic Wikipedia table parser
 ├── data/
 │   ├── manual/                   # Hand-curated tennis results and nationality fixes
@@ -156,7 +164,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 └── .github/workflows/            # Automatic data updates
 ```
 
-The site is plain HTML, CSS and JavaScript with no build step, served by GitHub Pages.
+The site is plain HTML, CSS and JavaScript with no build step, served by GitHub Pages. Every page shares the navigation, the sport colors and the type (Barlow Condensed for headlines, self-hosted under the SIL Open Font License) from [`assets/`](assets/).
 
 ### Automatic updates
 
@@ -183,6 +191,8 @@ python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
 python3 scripts/build_tournaments.py --refresh  # rugby, basketball, volleyball, hockey, handball
 python3 scripts/build_swimming.py --refresh     # swimming: Olympic medalists
+python3 scripts/build_olympics.py --refresh     # Olympic Games (Summer and Winter)
+python3 scripts/fetch_flags.py                  # download any flag a dataset now needs
 ```
 
 Leave out `--refresh` to rebuild from the saved copies in `data/raw/`, with no network access.
@@ -218,6 +228,8 @@ Rules applied:
 **Formula 1.** Drivers' and constructors' champions and the all-time race wins come from Wikipedia's F1 lists. The build checks one champion per season, the title counts of the record holders and the constructors' title totals.
 
 **ATP records.** Titles and match records are counted from the ATP match files (plus the Wikipedia-sourced Slams and the manual supplement); weeks at No. 1 and year-end No. 1s come from Wikipedia. The build checks Federer's 103 titles and 1,251–275 record, Nadal's 92 titles and the weeks at No. 1 of the leaders.
+
+**Olympic Games.** The medal table of every Games comes from the `{{Medals table}}` template on its Wikipedia page; the all-time table, the host cities and the athletes with the most medals and golds come from their own lists. Nation names and flags come from Wikipedia's comparison of IOC, FIFA and ISO codes. The build checks the leading nations at recent Games (the United States' 40-44-42 in Paris), the number of Games and the career medals of Phelps, Latynina, Bjørgen and Nurmi. The all-time table leaves out the 1912–1948 art competitions that the per-Games tables include, so the build reports, without failing, the few nations whose totals differ.
 
 **Olympic swimming.** Wikipedia's lists of Olympic medalists in swimming have one table per event; the script reads every medalist, nation and time, splits ties (two swimmers sharing a medal) and keeps every named relay swimmer. The build checks the number of pool events at each Games since 1968 (35 in 2020 and 2024) and the career medals of the most decorated swimmers. The pages' own medal tables, kept by hand, don't always match their event lists, so they are only compared as a warning.
 

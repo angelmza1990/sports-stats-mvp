@@ -1,0 +1,108 @@
+/* Olympic Games page. Medal colors are shared tokens (assets/theme.css). */
+
+.medal-bar {
+  display: flex;
+  gap: 2px;
+  height: 10px;
+  min-width: 60px;
+}
+
+.medal-bar span {
+  background: var(--c);
+  min-width: 2px;
+}
+
+.medal-bar span:last-child {
+  border-radius: 0 4px 4px 0;
+}
+
+.scope-select select {
+  font: inherit;
+  font-size: 14px;
+  background: var(--surface-raised);
+  color: var(--ink);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 7px 32px 7px 14px;
+  max-width: 100%;
+  cursor: pointer;
+}
+
+.games-meta {
+  font-size: 14px;
+  color: var(--ink-2);
+}
+
+.games-meta .flag {
+  margin-right: 4px;
+}
+
+/* One chip per Games, carrying the flag of the nation that topped its medal table. */
+.leader-strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(64px, 1fr));
+  gap: 6px;
+  margin-bottom: 20px;
+}
+
+.leader-chip {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 4px 6px;
+  border-radius: 10px;
+  background: var(--wash);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-2);
+}
+
+.leader-chip strong {
+  font-family: var(--display);
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1;
+}
+
+.leader-chip.winter {
+  box-shadow: inset 0 -3px 0 var(--olympics);
+}
+
+.leader-chip.host {
+  outline: 1.5px solid var(--gold);
+  outline-offset: -1.5px;
+}
+
+.leader-key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+  font-size: 13px;
+  color: var(--ink-2);
+  margin: -8px 0 16px;
+}
+
+.leader-key i {
+  display: inline-block;
+  width: 14px;
+  height: 10px;
+  border-radius: 3px;
+  margin-right: 6px;
+  vertical-align: -1px;
+  background: var(--wash);
+}
+
+.leader-key i.winter {
+  box-shadow: inset 0 -3px 0 var(--olympics);
+}
+
+.leader-key i.host {
+  outline: 1.5px solid var(--gold);
+  outline-offset: -1.5px;
+}
+
+.upcoming {
+  color: var(--ink-muted);
+}

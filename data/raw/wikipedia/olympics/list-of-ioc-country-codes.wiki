@@ -1,0 +1,661 @@
+{{Short description|Standard identifiers for Olympic teams}}
+<!-- This short description is INTENTIONALLY "none" – please see WP:SDNONE before you consider changing it! -->
+
+This is a list of [[International Olympic Committee]] (IOC) country codes. The IOC began to use standard codes in 1976, replacing a prior system of codes chosen by the local organizing committee of each games which often varied based on the local language.<ref>{{Cite web |title=Topend Sports {{!}} Sports Science, Fitness Testing & Event Analysis |url=https://www.topendsports.com/events/summer/countries/country-codes.htm |archive-url=https://web.archive.org/web/20260828182254/https://www.topendsports.com/events/summer/countries/country-codes.htm |archive-date=2026-08-28 |access-date=2026-08-28 |website=Topend Sports |language=en}}</ref>
+
+== Current NOCs ==
+There are 206 current NOCs ([[National Olympic Committee]]s) within the Olympic Movement. The following tables show the currently used code for each NOC and any different codes used in past Games, per the official reports from those Games. Some of the past code usage is further explained in the following sections. Codes used specifically for a Summer Games only or a Winter Games only, within the same year, are indicated by "S" and "W" respectively.
+
+{{Table alignment}}
+{| class="wikitable sortable col1center"
+!  Code
+!  National Olympic Committee
+!  Other codes used
+! class="unsortable" | Link
+|-
+| {{mono|AFG}} ||{{flag IOC|AFG}}|| ||[https://web.archive.org/web/20100916014129/http://www.olympic.org/en/content/National-Olympic-Committees/afghanistan/]
+|-
+| {{mono|ALB}} ||{{flag IOC|ALB}}|| ||[https://web.archive.org/web/20101006162733/http://www.olympic.org/en/content/National-Olympic-Committees/Albania/]
+|-
+| {{mono|ALG}} ||{{flag IOC|ALG}}|| {{hlist|AGR (1964)|AGL (1968 S) from Spanish ''Argelia''}}||[https://web.archive.org/web/20100915234756/http://www.olympic.org/en/content/National-Olympic-Committees/algeria/]
+|-
+| {{mono|AND}} ||{{flag IOC|AND}}|| ||[https://web.archive.org/web/20100916013811/http://www.olympic.org/en/content/National-Olympic-Committees/andorra/]
+|-
+| {{mono|ANG}} ||{{flag IOC|ANG}}|| ANO (as referenced in IAAF World Championships Beijing 2015 Statistics Handbook)<ref name=IAAF2015 /> ||[https://web.archive.org/web/20101007035526/http://www.olympic.org/en/content/National-Olympic-Committees/Angola/]
+|-
+| {{mono|ANT}} ||{{flag IOC|ANT}}|| ||[https://web.archive.org/web/20100916014140/http://www.olympic.org/en/content/National-Olympic-Committees/antigua-and-barbuda/]
+|-
+| {{mono|ARG}} ||{{flag IOC|ARG}}|| ||[https://web.archive.org/web/20100914051201/http://www.olympic.org/en/content/National-Olympic-Committees/argentina/]
+|-
+| {{mono|ARM}} ||{{flag IOC|ARM}}|| ||[https://web.archive.org/web/20100916013818/http://www.olympic.org/en/content/National-Olympic-Committees/armenia/]
+|-
+| {{mono|ARU}} ||{{flag IOC|ARU}}|| ||[https://web.archive.org/web/20100916013601/http://www.olympic.org/en/content/National-Olympic-Committees/aruba/]
+|-
+| {{mono|ASA}} ||{{flag IOC|ASA}}|| AMS<ref name=IAAF2015>{{cite web |url=http://iaaf-ebooks.s3.amazonaws.com/2015/Beijing-2015-Statistics-Handbook/projet/IAAF-World-Championships-Beijing-2015.pdf |archive-url=https://ghostarchive.org/archive/20221009/http://iaaf-ebooks.s3.amazonaws.com/2015/Beijing-2015-Statistics-Handbook/projet/IAAF-World-Championships-Beijing-2015.pdf |archive-date=2022-10-09 |url-status=live |title=IAAF World Championships Beijing 2015 Statistics Handbook |website=Iaaf-ebooks.s3.amazonaws.com |access-date=2022-02-22}}</ref> ||[https://web.archive.org/web/20100916014134/http://www.olympic.org/en/content/National-Olympic-Committees/american-samoa/]
+|-
+| {{mono|AUS}} ||{{flag IOC|AUS}}|| ||[https://web.archive.org/web/20100918071835/http://www.olympic.org/en/content/National-Olympic-Committees/australia/]
+|-
+| {{mono|AUT}} ||{{flag IOC|AUT}}|| current code from French ''Autriche'' ||[https://web.archive.org/web/20100916014143/http://www.olympic.org/en/content/National-Olympic-Committees/austria/]
+|-
+| {{mono|AZE}} ||{{flag IOC|AZE}}|| ||[https://web.archive.org/web/20100914044917/http://www.olympic.org/en/content/National-Olympic-Committees/azerbaijan/]
+|-
+| {{mono|BAH}} ||{{flag IOC|BAH}}|| ||[https://web.archive.org/web/20091006044511/http://www.olympic.org/en/content/National-Olympic-Committees/Bahamas/]
+|-
+| {{mono|BAN}}||{{flag IOC|BAN}}|| ||[https://web.archive.org/web/20100916013607/http://www.olympic.org/en/content/National-Olympic-Committees/bangladesh/]
+|-
+| {{mono|BAR}} ||{{flag IOC|BAR}}|| BAD (1964){{efn|Barbados did not send a delegation to the [[1964 Summer Olympics]], but is nevertheless listed as a participant with an official country code in the official Tokyo 1964 results book.<ref>{{cite web |url=https://digital.la84.org/digital/collection/p17103coll8/id/26521/rec/29 |title=Official Report 1964 v.2-page 9}}</ref>}} ||[https://web.archive.org/web/20100916013827/http://www.olympic.org/en/content/National-Olympic-Committees/barbados/]
+|-
+| {{mono|BDI}} ||{{flag IOC|BDI}}|| ||[https://web.archive.org/web/20100916013843/http://www.olympic.org/en/content/National-Olympic-Committees/burundi/]
+|-
+| {{mono|BEL}} ||{{flag IOC|BEL}}|| ||[https://web.archive.org/web/20100915234813/http://www.olympic.org/en/content/National-Olympic-Committees/belgium/]
+|-
+| {{mono|BEN}} ||{{flag IOC|BEN}}|| {{hlist|DAY (1964)|DAH (1968–1976) as [[#Historic NOCs and teams|Dahomey]]}} ||[https://web.archive.org/web/20101010091422/http://www.olympic.org/en/content/National-Olympic-Committees/Benin/]
+|-
+| {{mono|BER}} ||{{flag IOC|BER}}|| ||[https://web.archive.org/web/20100916014148/http://www.olympic.org/en/content/National-Olympic-Committees/bermuda/]
+|-
+| {{mono|BHU}} ||{{flag IOC|BHU}}|| ||[https://web.archive.org/web/20100406195116/http://www.olympic.org/en/content/National-Olympic-Committees/Bhutan/]
+|-
+| {{mono|BIH}} ||{{flag IOC|BIH}}|| BSH (1992 S), BOS<ref name=IAAF2015 />; current code from Bosnian ''Bosna i Hercegovina''||[https://web.archive.org/web/20100316051257/http://www.olympic.org/en/content/National-Olympic-Committees/bosnia-and-herzegovina/]
+|-
+| {{mono|BIZ}} ||{{flag IOC|BIZ}}|| HBR (1968–1972) from French ''Honduras britannique'' as [[#Historic NOCs and teams|British Honduras]]; also BHO<ref name=IAAF2015 />||[https://web.archive.org/web/20100918071051/http://www.olympic.org/en/content/National-Olympic-Committees/belize/]
+|-
+| {{mono|BLR}} ||{{flag IOC|BLR}}|| ||[https://web.archive.org/web/20101007035543/http://www.olympic.org/en/content/National-Olympic-Committees/Belarus/]
+|-
+| {{mono|BOL}} ||{{flag IOC|BOL}}|| ||[https://web.archive.org/web/20100916013612/http://www.olympic.org/en/content/National-Olympic-Committees/bolivia/]
+|-
+| {{mono|BOT}} ||{{flag IOC|BOT}}|| ||[https://web.archive.org/web/20100916013833/http://www.olympic.org/en/content/National-Olympic-Committees/botswana/]
+|-
+| {{mono|BRA}} ||{{flag IOC|BRA}}|| ||[https://web.archive.org/web/20100915011253/http://www.olympic.org/en/content/National-Olympic-Committees/brazil/]
+|-
+| {{mono|BRN}} ||{{flag IOC|BRN}}|| BHR<ref name=IAAF2015 /> ||[https://web.archive.org/web/20101007035528/http://www.olympic.org/en/content/National-Olympic-Committees/Bahrain/]
+|-
+| {{mono|BRU}} ||{{flag IOC|BRU}}|| ||[https://web.archive.org/web/20100916014158/http://www.olympic.org/en/content/National-Olympic-Committees/brunei-darussalam/]
+|-
+| {{mono|BUL}}||{{flag IOC|BUL}}|| ||[https://web.archive.org/web/20101006153717/http://www.olympic.org/en/content/National-Olympic-Committees/Bulgaria/]
+|-
+| {{mono|BUR}} ||{{flag IOC|BUR}}|| VOL (1972–1984) as [[#Historic NOCs and teams|Upper Volta]]; also BKF<ref name=IAAF2015 />||[https://web.archive.org/web/20100916013839/http://www.olympic.org/en/content/National-Olympic-Committees/burkina-faso/]
+|-
+| {{mono|CAF}} ||{{flag IOC|CAF}}|| AFC (1968)||[https://web.archive.org/web/20101007035629/http://www.olympic.org/en/content/National-Olympic-Committees/Central-African-Republic/]
+|-
+| {{mono|CAM}} ||{{flag IOC|CAM}}|| {{hlist|CAB (1964)|KHM (1972) as [[#Historic NOCs and teams|Khmer Republic]]}}||[https://web.archive.org/web/20100916013619/http://www.olympic.org/en/content/National-Olympic-Committees/cambodia/]
+|-
+| {{mono|CAN}} ||{{flag IOC|CAN}}|| ||[https://web.archive.org/web/20100915012528/http://www.olympic.org/en/content/National-Olympic-Committees/canada/]
+|-
+| {{mono|CAY}} ||{{flag IOC|CAY}}|| ||[https://web.archive.org/web/20101010092138/http://www.olympic.org/en/content/National-Olympic-Committees/Cayman-Islands/]
+|-
+| {{mono|CGO}} ||{{flag IOC|CGO}}|| ||[https://web.archive.org/web/20100916013629/http://www.olympic.org/en/content/National-Olympic-Committees/congo/]
+|-
+| {{mono|CHA}} ||{{flag IOC|CHA}}|| CHD (1964)||[https://web.archive.org/web/20100916013848/http://www.olympic.org/en/content/National-Olympic-Committees/chad/]
+|-
+| {{mono|CHI}} ||{{flag IOC|CHI}}|| {{hlist|CIL (1956 W|1960 S) from Italian ''Cile''}}||[https://web.archive.org/web/20100918071839/http://www.olympic.org/en/content/National-Olympic-Committees/chile/]
+|-
+| {{mono|CHN}} ||{{PRC}}<ref>The People's Republic of China uses the name China in some sports competitions.</ref><ref>[[Chinese Olympic Committee]]</ref><ref>[[China at the Olympics]]</ref>||PRC (1952 S) as People's Republic of China||[http://www.olympic.org/en/content/National-Olympic-Committees/people-s-republic-of-china/]
+|-
+| {{mono|CIV}} ||{{flag IOC|CIV|}}|| {{hlist|IVC (1964)|CML (1968) from Spanish ''Costa de Marfil''}}current code from French ''Côte d'Ivoire''||[https://www.olympic.org/cote-d-ivoire/]
+|-
+| {{mono|CMR}} ||{{flag IOC|CMR}}|| ||[https://web.archive.org/web/20100916013623/http://www.olympic.org/en/content/National-Olympic-Committees/cameroon/]
+|-
+| {{mono|COD}} ||{{flag IOC|COD}}|| {{hlist|COK (1968) as [[#Historic NOCs and teams|Congo-Kinshasa]] | ZAI (1972–1996) as [[#Historic NOCs and teams|Zaire]]}}||[https://web.archive.org/web/20100918071849/http://www.olympic.org/en/content/National-Olympic-Committees/democratic-republic-of-the-congo/]
+|-
+| {{mono|COK}} ||{{flag IOC|COK}}|| CKI<ref name=IAAF2015 /> ||[https://web.archive.org/web/20100916014209/http://www.olympic.org/en/content/National-Olympic-Committees/cook-islands/]
+|-
+| {{mono|COL}} ||{{flag IOC|COL}}|| ||[https://web.archive.org/web/20100916014205/http://www.olympic.org/en/content/National-Olympic-Committees/colombia/]
+|-
+| {{mono|COM}} ||{{flag IOC|COM}}|| ||[https://web.archive.org/web/20100916013859/http://www.olympic.org/en/content/National-Olympic-Committees/comoros/]
+|-
+| {{mono|CPV}} ||{{flag IOC|CPV}}|| CVD<ref name=IAAF2015 /> ||[https://web.archive.org/web/20101007035625/http://www.olympic.org/en/content/National-Olympic-Committees/Cape-Verde/]
+|-
+| {{mono|CRC}} ||{{flag IOC|CRC}}|| COS (1964)||[https://web.archive.org/web/20101007035654/http://www.olympic.org/en/content/National-Olympic-Committees/Costa-Rica/]
+|-
+| {{mono|CRO}} ||{{flag IOC|CRO}}|| ||[https://web.archive.org/web/20100916013903/http://www.olympic.org/en/content/National-Olympic-Committees/croatia/]
+|-
+| {{mono|CUB}} ||{{flag IOC|CUB}}|| ||[https://web.archive.org/web/20100918071844/http://www.olympic.org/en/content/National-Olympic-Committees/cuba/]
+|-
+| {{mono|CYP}} ||{{flag IOC|CYP}}|| ||[https://web.archive.org/web/20100918071148/http://www.olympic.org/en/content/National-Olympic-Committees/cyprus/]
+|-
+| {{mono|CZE}} ||{{flag IOC|CZE}}|| ||[https://olympics.com/ioc/czechia]
+|-
+| {{mono|DEN}} ||{{flag IOC|DEN}}|| {{hlist|DAN (1960 S|1968 W)|DIN (1968 S)}}previous codes taken from Italian ''Danimarca'', French ''Danemark'' and Spanish ''Dinamarca''||[https://web.archive.org/web/20101007030847/http://www.olympic.org/en/content/National-Olympic-Committees/Denmark/]
+|-
+| {{mono|DJI}} ||{{flag IOC|DJI}}|| ||[https://web.archive.org/web/20100916014215/http://www.olympic.org/en/content/National-Olympic-Committees/djibouti/]
+|-
+| {{mono|DMA}} ||{{flag IOC|DMA}}|| DMN<ref name=IAAF2015 /> ||[https://web.archive.org/web/20100916014219/http://www.olympic.org/en/content/National-Olympic-Committees/dominica/]
+|-
+| {{mono|DOM}} ||{{flag IOC|DOM}}|| ||[https://web.archive.org/web/20100316050123/http://www.olympic.org/en/content/National-Olympic-Committees/dominican-republic/]
+|-
+| {{mono|ECU}} ||{{flag IOC|ECU}}|| ||[https://web.archive.org/web/20100916013908/http://www.olympic.org/en/content/National-Olympic-Committees/ecuador/]
+|-
+| {{mono|EGY}} ||{{flag IOC|EGY}}|| {{hlist|RAU (1960|1968)|UAR (1964) as [[#Historic NOCs and teams|United Arab Republic]]}} previous codes taken from Italian ''Repubblica Araba Unita'', French ''République Arabe Unie'' and Spanish ''República Árabe Unida''||[https://web.archive.org/web/20101010092537/http://www.olympic.org/en/content/National-Olympic-Committees/Egypt/]
+|-
+| {{mono|ERI}} ||{{flag IOC|ERI}}|| ||[https://web.archive.org/web/20101006182435/http://www.olympic.org/en/content/National-Olympic-Committees/Eritrea/]
+|-
+| {{mono|ESA}} ||{{flag IOC|ESA}}|| SAL (1964–1976)||[https://web.archive.org/web/20101007035720/http://www.olympic.org/en/content/National-Olympic-Committees/El-Salvador/]
+|-
+| {{mono|ESP}} ||{{flag IOC|ESP}}|| {{hlist|SPA (1956–1964|1968 W)}}current code taken from French ''Espagne'' or Spanish ''España''||[https://web.archive.org/web/20101013001121/http://www.olympic.org/en/content/National-Olympic-Committees/Spain/]
+|-
+| {{mono|EST}} ||{{flag IOC|EST}}|| ||[https://web.archive.org/web/20101007035724/http://www.olympic.org/en/content/National-Olympic-Committees/Estonia/]
+|-
+| {{mono|ETH}} ||{{flag IOC|ETH}}|| {{hlist|ETI (1960|1968)}}||[https://web.archive.org/web/20101006162751/http://www.olympic.org/en/content/National-Olympic-Committees/Ethiopia/]
+|-
+| {{mono|FIJ}} ||{{flag IOC|FIJ}}|| FIG (1960) from Italian ''Figi''||[https://web.archive.org/web/20101007035729/http://www.olympic.org/en/content/National-Olympic-Committees/Fiji/]
+|-
+| {{mono|FIN}} ||{{flag IOC|FIN}}|| ||[https://web.archive.org/web/20101007035734/http://www.olympic.org/en/content/National-Olympic-Committees/Finland/]
+|-
+| {{mono|FRA}} ||{{flag IOC|FRA}}|| ||[https://web.archive.org/web/20101013085420/http://www.olympic.org/en/content/National-Olympic-Committees/France/]
+|-
+| {{mono|FSM}} ||{{flag IOC|FSM}}|| ||[https://web.archive.org/web/20101010093353/http://www.olympic.org/en/content/National-Olympic-Committees/Federated-States-of-Micronesia/]
+|-
+| {{mono|GAB}} ||{{flag IOC|GAB}}|| ||[https://web.archive.org/web/20101006182446/http://www.olympic.org/en/content/National-Olympic-Committees/Gabon/]
+|-
+| {{mono|GAM}} ||{{flag IOC|GAM}}|| ||[https://web.archive.org/web/20101007035739/http://www.olympic.org/en/content/National-Olympic-Committees/Gambia/]
+|-
+| {{mono|GBR}} ||{{flag IOC|GBR}}|| {{hlist|GRB (1956 W–1960)|GBI ([[Athletics at the 1956 Summer Olympics|1956 athletics]];<ref name="ListonMaguire2022">{{cite journal |last1=Liston |first1=Katie |last2=Maguire |first2=Joseph |title=The ‘Great Game’ and Sport: Identity, Contestation and Irish–British Relations in the Olympic Movement |journal=Journal of War & Culture Studies |date=2 January 2022 |volume=15 |issue=1 |pages=21–41 |doi=10.1080/17526272.2020.1864873 |url=https://pure.ulster.ac.uk/ws/portalfiles/portal/87390531/Final_Paper.pdf |access-date=13 September 2024}}</ref> 1964)}}||[https://web.archive.org/web/20091003171631/http://www.olympic.org/en/content/National-Olympic-Committees/great-britain/]
+|-
+| {{mono|GBS}} ||{{flag IOC|GBS}}|| ||[https://web.archive.org/web/20101007035749/http://www.olympic.org/en/content/National-Olympic-Committees/Guinea-Bissau/]
+|-
+| {{mono|GEO}} ||{{flag IOC|GEO}}|| ||[https://web.archive.org/web/20101010055720/http://www.olympic.org/en/content/National-Olympic-Committees/Georgia/]
+|-
+| {{mono|GEQ}} ||{{flag IOC|GEQ}}|| current code taken from the Spanish "Guinea Ecuatorial"
+ ||[https://web.archive.org/web/20101006182428/http://www.olympic.org/en/content/National-Olympic-Committees/Equatorial-Guinea/]
+|-
+| {{mono|GER}} ||{{flag IOC|GER}}|| ||[https://web.archive.org/web/20100813073108/http://www.olympic.org/en/content/National-Olympic-Committees/Germany/]
+|-
+| {{mono|GHA}} ||{{flag IOC|GHA}}|| ||[https://web.archive.org/web/20101010091428/http://www.olympic.org/en/content/National-Olympic-Committees/Ghana/]
+|-
+| {{mono|GRE}} ||{{flag IOC|GRE}}|| ||[https://web.archive.org/web/20101007035744/http://www.olympic.org/en/content/National-Olympic-Committees/Greece/]
+|-
+| {{mono|GRN}} ||{{flag IOC|GRN}}|| ||[https://web.archive.org/web/20101010090048/http://www.olympic.org/en/content/National-Olympic-Committees/Grenada/]
+|-
+| {{mono|GUA}} ||{{flag IOC|GUA}}|| GUT (1964)||[https://web.archive.org/web/20101010091026/http://www.olympic.org/en/content/National-Olympic-Committees/Guatemala/]
+|-
+| {{mono|GUI}} ||{{flag IOC|GUI}}|| ||[https://web.archive.org/web/20101010091432/http://www.olympic.org/en/content/National-Olympic-Committees/Guinea/]
+|-
+| {{mono|GUM}} ||{{flag IOC|GUM}}|| ||[http://www.olympic.org/en/content/National-Olympic-Committees/guam/]
+|-
+| {{mono|GUY}} ||{{flag IOC|GUY}}|| {{hlist|GUA (1960)|GUI (1964)}} BGU<ref name=IAAF2015 />||[https://web.archive.org/web/20101010090436/http://www.olympic.org/en/content/National-Olympic-Committees/Guyana/]
+|-
+| {{mono|HAI}} ||{{flag IOC|HAI}}|| ||[https://web.archive.org/web/20101007035755/http://www.olympic.org/en/content/National-Olympic-Committees/Haiti/]
+|-
+| {{mono|HKG}} ||{{flag IOC|HKG}}|| HOK (1960–1968)||[https://web.archive.org/web/20101009013047/http://www.olympic.org/en/content/National-Olympic-Committees/Hong-Kong/]
+|-
+| {{mono|HON}} ||{{flag IOC|HON}}|| ||[https://web.archive.org/web/20101010090736/http://www.olympic.org/en/content/National-Olympic-Committees/Honduras/]
+|-
+| {{mono|HUN}} ||{{flag IOC|HUN}}|| {{hlist|UNG (1956 W|1960 S) from Italian ''Ungheria''}}||[https://web.archive.org/web/20101021214748/http://www.olympic.org/en/content/National-Olympic-Committees/Hungary/]
+|-
+| {{mono|INA}}||{{flag IOC|INA}}|| INS (1960)||[https://web.archive.org/web/20101010054809/http://www.olympic.org/en/content/National-Olympic-Committees/Indonesia/]
+|-
+| {{mono|IND}} ||{{flag IOC|IND}}|| ||[https://web.archive.org/web/20101006162756/http://www.olympic.org/en/content/National-Olympic-Committees/India/]
+|-
+| {{mono|IRI}} ||{{flag IOC|IRI}}|| {{hlist|IRN (1956–1988)|IRA (1968 W)}}current code from ''Islamic Republic of Iran''||[https://web.archive.org/web/20101010091440/http://www.olympic.org/en/content/National-Olympic-Committees/Islamic-Republic-of-Iran/]
+|-
+| {{mono|IRL}} ||{{flag IOC|IRL}}|| current code taken from French ''Irlande''. EIR ([[Athletics at the 1956 Summer Olympics|1956 athletics]];<ref name="ListonMaguire2022"/> see {{section link|Ireland at the Olympics#Name of the country}}) ||[https://web.archive.org/web/20101010090742/http://www.olympic.org/en/content/National-Olympic-Committees/Ireland/]
+|-
+| {{mono|IRQ}} ||{{flag IOC|IRQ}}|| {{hlist|IRK (1960|1968) from French/Spanish ''Irak''}}||[https://web.archive.org/web/20101010091037/http://www.olympic.org/en/content/National-Olympic-Committees/Iraq/]
+|-
+| {{mono|ISL}} ||{{flag IOC|ISL}}|| {{hlist|ICE (1960 W|1964 S)}}current code taken from French ''Islande'', Icelandic ''Ísland'' or Spanish ''Islandia''||[https://web.archive.org/web/20101010091030/http://www.olympic.org/en/content/National-Olympic-Committees/Iceland/]
+|-
+| {{mono|ISR}} ||{{flag IOC|ISR}}|| ||[https://web.archive.org/web/20101006182451/http://www.olympic.org/en/content/National-Olympic-Committees/Israel/]
+|-
+| {{mono|ISV}} ||{{flag IOC|ISV}}|| current code taken from French ''Îles Vierges (des États-Unis)'' ||[http://www.olympic.org/en/content/National-Olympic-Committees/virgin-islands-us/]
+|-
+| {{mono|ITA}} ||{{flag IOC|ITA}}|| ||[https://web.archive.org/web/20101010044001/http://www.olympic.org/en/content/National-Olympic-Committees/Italy/]
+|-
+| {{mono|IVB}} ||{{flag IOC|IVB}}|| BVI<ref name=IAAF2015 /><br>current code taken from French ''Îles Vierges britanniques'' ||[http://www.olympic.org/en/content/National-Olympic-Committees/virgin-islands-british/]
+|-
+| {{mono|JAM}} ||{{flag IOC|JAM}}|| ||[https://web.archive.org/web/20101010055724/http://www.olympic.org/en/content/National-Olympic-Committees/Jamaica/]
+|-
+| {{mono|JOR}} ||{{flag IOC|JOR}}|| ||[https://web.archive.org/web/20101007035800/http://www.olympic.org/en/content/National-Olympic-Committees/Jordan/]
+|-
+| {{mono|JPN}} ||{{flag IOC|JPN}}|| {{hlist|GIA (1956 W|1960 S) from Italian ''Giappone''|JAP (1960 W)}}||[https://web.archive.org/web/20101009013428/http://www.olympic.org/en/content/National-Olympic-Committees/Japan/]
+|-
+| {{mono|KAZ}} ||{{flag IOC|KAZ}}|| ||[https://web.archive.org/web/20101007035805/http://www.olympic.org/en/content/National-Olympic-Committees/Kazakhstan/]
+|-
+| {{mono|KEN}} ||{{flag IOC|KEN}}|| ||[https://web.archive.org/web/20101010055730/http://www.olympic.org/en/content/National-Olympic-Committees/Kenya/]
+|-
+| {{mono|KGZ}} ||{{flag IOC|KGZ}}|| ||[https://web.archive.org/web/20101007035812/http://www.olympic.org/en/content/National-Olympic-Committees/Kyrgyzstan/]
+|-
+| {{mono|KIR}} ||{{flag IOC|KIR}}|| ||[https://web.archive.org/web/20101010091443/http://www.olympic.org/en/content/National-Olympic-Committees/Kiribati/]
+|-
+| {{mono|KOR}} ||{{flag IOC|KOR}}|| {{hlist|COR (1956 W|1960 S|1968 S|1972 S)}}previous code taken from Italian ''Corea'', French ''Corée'' and Spanish ''Corea''||[http://www.olympic.org/en/content/National-Olympic-Committees/republic-of-korea/]
+|-
+| {{mono|KOS}} ||{{flag IOC|KOS}}|| ||[http://www.olympic.org/kosovo]
+|-
+| {{mono|KSA}} ||{{flag IOC|KSA}}|| {{hlist|ARS (1968–1976) from French ''Arabie saoudite''|SAU (1980–1984)}}current code from ''Kingdom of Saudi Arabia''||[https://web.archive.org/web/20101007035828/http://www.olympic.org/en/content/National-Olympic-Committees/Saudi-Arabia/]
+|-
+| {{mono|KUW}} ||{{flag IOC|KUW}}|| ||[https://web.archive.org/web/20101010091448/http://www.olympic.org/en/content/National-Olympic-Committees/Kuwait/]
+|-
+| {{mono|LAO}} ||{{flag IOC|LAO}}|| ||[http://www.olympic.org/en/content/National-Olympic-Committees/lao-people-s-democratic-republic/]
+|-
+| {{mono|LAT}} ||{{flag IOC|LAT}}|| ||[https://web.archive.org/web/20091006045620/http://www.olympic.org/en/content/National-Olympic-Committees/Latvia/]
+|-
+| {{mono|LBA}} ||{{flag IOC|LBA}}|| {{hlist|LYA (1964)|LBY (1968 W)}}||[http://www.olympic.org/en/content/National-Olympic-Committees/libya/]
+|-
+| {{mono|LBN}} ||{{flag IOC|LIB}}|| {{hlist|LEB (1960 W|1964 S)|LIB (1964–2016) from French ''Liban''}}||[https://www.olympic.org/Lebanon/]
+|-
+| {{mono|LBR}} ||{{flag IOC|LBR}}|| ||[https://web.archive.org/web/20091006045632/http://www.olympic.org/en/content/National-Olympic-Committees/Liberia/]
+|-
+| {{mono|LCA}} ||{{flag IOC|LCA}}|| STL<ref name=IAAF2015 />||[https://web.archive.org/web/20091006050032/http://www.olympic.org/en/content/National-Olympic-Committees/Saint-Lucia/]
+|-
+| {{mono|LES}} ||{{flag IOC|LES}}|| ||[https://web.archive.org/web/20101010092150/http://www.olympic.org/en/content/National-Olympic-Committees/Lesotho/]
+|-
+| {{mono|LIE}} ||{{flag IOC|LIE}}|| {{hlist|LIC (1956 W|1964 S|1968 W)}}||[https://web.archive.org/web/20101010055740/http://www.olympic.org/en/content/National-Olympic-Committees/Liechtenstein/]
+|-
+| {{mono|LTU}} ||{{flag IOC|LTU}}|| LIT (1992 W)||[https://web.archive.org/web/20101010054813/http://www.olympic.org/en/content/National-Olympic-Committees/Lithuania/]
+|-
+| {{mono|LUX}} ||{{flag IOC|LUX}}|| ||[https://web.archive.org/web/20101010054826/http://www.olympic.org/en/content/National-Olympic-Committees/Luxembourg/]
+|-
+| {{mono|MAD}} ||{{flag IOC|MAD}}|| MAG (1964)||[https://web.archive.org/web/20091006045657/http://www.olympic.org/en/content/National-Olympic-Committees/Madagascar/]
+|-
+| {{mono|MAR}} ||{{flag IOC|MAR}}|| MRC (1964); current code from French ''Maroc''||[https://web.archive.org/web/20100924041053/http://www.olympic.org/en/content/National-Olympic-Committees/morocco/]
+|-
+| {{mono|MAS}} ||{{flag IOC|MAS}}|| MAL (1964–1988)||[https://web.archive.org/web/20101010055748/http://www.olympic.org/en/content/National-Olympic-Committees/Malaysia/]
+|-
+| {{mono|MAW}} ||{{flag IOC|MAW}}|| ||[https://web.archive.org/web/20101010092153/http://www.olympic.org/en/content/National-Olympic-Committees/Malawi/]
+|-
+| {{mono|MDA}} ||{{flag IOC|MDA}}|| MLD (1994)||[https://web.archive.org/web/20101010090758/http://www.olympic.org/en/content/National-Olympic-Committees/Republic-of-Moldova/]
+|-
+| {{mono|MDV}} ||{{flag IOC|MDV}}|| ||[https://web.archive.org/web/20101010092553/http://www.olympic.org/en/content/National-Olympic-Committees/Maldives/]
+|-
+| {{mono|MEX}} ||{{flag IOC|MEX}}|| ||[https://web.archive.org/web/20101010092602/http://www.olympic.org/en/content/National-Olympic-Committees/Mexico/]
+|-
+| {{mono|MGL}}||{{flag IOC|MGL}}|| MON (1968 W)||[https://web.archive.org/web/20101009013052/http://www.olympic.org/en/content/National-Olympic-Committees/Mongolia/]
+|-
+| {{mono|MHL}} ||{{flag IOC|MHL}}|| ||[https://web.archive.org/web/20101010091053/http://www.olympic.org/en/content/National-Olympic-Committees/Marshall-Islands/]
+|-
+| {{mono|MKD}} ||{{flag icon|North Macedonia}} [[North Macedonia at the Olympics|North Macedonia]]|| current code taken from Macedonian ''Македонија/Makedonija'' ||[https://www.olympic.org/the-republic-of-north-macedonia]
+|-
+| {{mono|MLI}} ||{{flag IOC|MLI}}|| ||[https://web.archive.org/web/20101010091047/http://www.olympic.org/en/content/National-Olympic-Committees/Mali/]
+|-
+| {{mono|MLT}} ||{{flag IOC|MLT}}|| MAT (1960–1964)||[https://web.archive.org/web/20101010091500/http://www.olympic.org/en/content/National-Olympic-Committees/Malta/]
+|-
+| {{mono|MNE}} ||{{flag IOC|MNE}}|| ||[https://web.archive.org/web/20101009013126/http://www.olympic.org/en/content/National-Olympic-Committees/Montenegro/]
+|-
+| {{mono|MON}} ||{{flag IOC|MON}}|| ||[https://web.archive.org/web/20101010090746/http://www.olympic.org/en/content/National-Olympic-Committees/Monaco/]
+|-
+| {{mono|MOZ}} ||{{flag IOC|MOZ}}|| ||[https://web.archive.org/web/20101010091057/http://www.olympic.org/en/content/National-Olympic-Committees/Mozambique/]
+|-
+| {{mono|MRI}} ||{{flag IOC|MRI}}|| ||[https://web.archive.org/web/20101010092159/http://www.olympic.org/en/content/National-Olympic-Committees/Mauritius/]
+|-
+| {{mono|MTN}} ||{{flag IOC|MTN}}|| ||[https://web.archive.org/web/20101010092559/http://www.olympic.org/en/content/National-Olympic-Committees/Mauritania/]
+|-
+| {{mono|MYA}} ||{{flag IOC|MYA}}|| {{hlist|BIR (1948–1960|1968–1988) from French '' [[#Historic NOCs and teams|Birmanie]]''|BUR (1964) as [[#Historic NOCs and teams|Burma]]}}||[https://web.archive.org/web/20101010091506/http://www.olympic.org/en/content/National-Olympic-Committees/Myanmar/]
+|-
+| {{mono|NAM}} ||{{flag IOC|NAM}}|| ||[https://web.archive.org/web/20101010090053/http://www.olympic.org/en/content/National-Olympic-Committees/Namibia/]
+|-
+| {{mono|NCA}} ||{{flag IOC|NCA}}|| {{hlist|NCG (1964)|NIC (1968)}}||[https://web.archive.org/web/20101010090447/http://www.olympic.org/en/content/National-Olympic-Committees/Nicaragua/]
+|- id="NED"
+| {{mono|NED}} ||{{flag IOC|NED}}|| {{hlist|OLA (1956 W) from Italian ''[[#Historic NOCs and teams|Olanda]]''|NET (1960 W)|PBA (1960 S) from Italian ''Paesi Bassi''|NLD (1964 S)|HOL (1968–1988) as [[#Historic NOCs and teams|Holland]]}}current code taken from Dutch ''Nederland''||[https://web.archive.org/web/20101009013434/http://www.olympic.org/en/content/National-Olympic-Committees/Netherlands/]
+|-
+| {{mono|NEP}} ||{{flag IOC|NEP}}|| ||[https://web.archive.org/web/20101008004254/http://www.olympic.org/en/content/National-Olympic-Committees/Nepal/]
+|-
+| {{mono|NGR}} ||{{flag IOC|NGR}}|| {{hlist|NIG (1960 S)|NGA (1964)}}||[https://web.archive.org/web/20101006163022/http://www.olympic.org/en/content/National-Olympic-Committees/Nigeria/]
+|-
+| {{mono|NIG}} ||{{flag IOC|NIG}}|| NGR (1964)||[https://web.archive.org/web/20101010091104/http://www.olympic.org/en/content/National-Olympic-Committees/Niger/]
+|-
+| {{mono|NOR}} ||{{flag IOC|NOR}}|| ||[https://web.archive.org/web/20101010055754/http://www.olympic.org/en/content/National-Olympic-Committees/Norway/]
+|-
+| {{mono|NRU}} ||{{flag IOC|NRU}}|| ||[https://web.archive.org/web/20101010090056/http://www.olympic.org/en/content/National-Olympic-Committees/Nauru/]
+|-
+| {{mono|NZL}} ||{{flag IOC|NZL}}|| {{hlist|NZE (1960|1968 W)}}||[https://web.archive.org/web/20101009013126/http://www.olympic.org/en/content/National-Olympic-Committees/New-Zealand/]
+|-
+| {{mono|OMA}} ||{{flag IOC|OMA}}|| OMN<ref name=IAAF2015 /> ||[https://web.archive.org/web/20101010090752/http://www.olympic.org/en/content/National-Olympic-Committees/Oman/]
+|-
+| {{mono|PAK}} ||{{flag IOC|PAK}}|| ||[https://web.archive.org/web/20101009013439/http://www.olympic.org/en/content/National-Olympic-Committees/Pakistan/]
+|-
+| {{mono|PAN}} ||{{flag IOC|PAN}}|| ||[https://web.archive.org/web/20101010090102/http://www.olympic.org/en/content/National-Olympic-Committees/Panama/]
+|-
+| {{mono|PAR}} ||{{flag IOC|PAR}}|| ||[https://web.archive.org/web/20101006162806/http://www.olympic.org/en/content/National-Olympic-Committees/Paraguay/]
+|-
+| {{mono|PER}} ||{{flag IOC|PER}}|| ||[https://web.archive.org/web/20101007035815/http://www.olympic.org/en/content/National-Olympic-Committees/Peru/]
+|-
+| {{mono|PHI}} ||{{flag IOC|PHI}}|| {{hlist|FIL (1960|1968) from Spanish ''Filipinas'' and Italian ''Filippine''}}||[https://web.archive.org/web/20101010092615/http://www.olympic.org/en/content/National-Olympic-Committees/Philippines/]
+|-
+| {{mono|PLE}} ||{{flag IOC|PLE}}|| ||[https://web.archive.org/web/20101010092203/http://www.olympic.org/en/content/National-Olympic-Committees/Palestine/]
+|-
+| {{mono|PLW}} ||{{flag IOC|PLW}}|| from archaic English ''[[Palau|Pelew]]'' ||[https://web.archive.org/web/20101010090453/http://www.olympic.org/en/content/National-Olympic-Committees/Palau/]
+|-
+| {{mono|PNG}} ||{{flag IOC|PNG}}|| {{hlist|NGY (1976–1980)|NGU (1984–1988)}}||[https://web.archive.org/web/20101010092607/http://www.olympic.org/en/content/National-Olympic-Committees/Papua-New-Guinea/]
+|-
+| {{mono|POL}} ||{{flag IOC|POL}}|| ||[https://web.archive.org/web/20101010043800/http://www.olympic.org/en/content/National-Olympic-Committees/Poland/]
+|-
+| {{mono|POR}} ||{{flag IOC|POR}}|| ||[https://web.archive.org/web/20101010090456/http://www.olympic.org/en/content/National-Olympic-Committees/Portugal/]
+|-
+| {{mono|PRK}} ||{{flag IOC|PRK}}|| {{hlist|NKO (1964 S|1968 W)|CDN (1968) from French ''Corée du Nord'' or Spanish ''Corea del Norte''}}current code from ''People's Republic of Korea''||[http://www.olympic.org/en/content/National-Olympic-Committees/democratic-people-s-republic-of-korea/]
+|-
+| {{mono|PUR}} ||{{flag IOC|PUR}}|| {{hlist|PRI (1960)|PRO (1968)}}||[https://web.archive.org/web/20101010093358/http://www.olympic.org/en/content/National-Olympic-Committees/Puerto-Rico/]
+|-
+| {{mono|QAT}} ||{{flag IOC|QAT}}|| ||[https://web.archive.org/web/20101010092210/http://www.olympic.org/en/content/National-Olympic-Committees/Qatar/]
+|-
+| {{mono|ROU}} ||{{flag IOC|ROU}}|| {{hlist|ROM (1956–1960|1972–2006)|RUM (1964–1968) from obsolete spelling ''Rumania''}}current code from French ''Roumanie''||[https://web.archive.org/web/20101006035359/http://www.olympic.org/en/content/National-Olympic-Committees/Romania/]
+|-
+| {{mono|RSA}} ||{{flag IOC|RSA}}|| SAF (1960–1972)<br />current code from ''Republic of South Africa''||[https://web.archive.org/web/20101010092218/http://www.olympic.org/en/content/National-Olympic-Committees/South-Africa/]
+|-
+| {{mono|RUS}} ||{{flag IOC|RUS}}|| From 1994 to 2016 ||[https://web.archive.org/web/20101010034957/http://www.olympic.org/en/content/National-Olympic-Committees/Russian-Federation/]
+|-
+| {{mono|RWA}} ||{{flag IOC|RWA}}|| ||[https://web.archive.org/web/20101007035822/http://www.olympic.org/en/content/National-Olympic-Committees/Rwanda/]
+|-
+| {{mono|SAM}} ||{{flag IOC|SAM}}|| WSM (1984–1996) as [[Western Samoa]]||[http://www.olympic.org/en/content/National-Olympic-Committees/samoa-until-1996-western-samoa/]
+|-
+| {{mono|SEN}} ||{{flag IOC|SEN}}|| SGL (1964)||[https://web.archive.org/web/20091006050103/http://www.olympic.org/en/content/National-Olympic-Committees/Senegal/]
+|-
+| {{mono|SEY}} ||{{flag IOC|SEY}}|| ||[https://web.archive.org/web/20091006050114/http://www.olympic.org/en/content/National-Olympic-Committees/Seychelles/]
+|-
+| {{mono|SGP}} ||{{flag IOC|SGP}}|| SIN (1959–2016)||[https://web.archive.org/web/20101010090801/http://www.olympic.org/en/content/National-Olympic-Committees/Singapore/]
+|-
+| {{mono|SKN}} ||{{flag IOC|SKN}}|| STK<ref name=IAAF2015 />||[https://web.archive.org/web/20101010090107/http://www.olympic.org/en/content/National-Olympic-Committees/Saint-Kitts-and-Nevis/]
+|-
+| {{mono|SLE}} ||{{flag IOC|SLE}}|| SLA (1968)||[https://web.archive.org/web/20101010092623/http://www.olympic.org/en/content/National-Olympic-Committees/Sierra-Leone/]
+|-
+| {{mono|SLO}} ||{{flag IOC|SLO}}|| ||[https://web.archive.org/web/20101007035838/http://www.olympic.org/en/content/National-Olympic-Committees/Slovenia/]
+|-
+| {{mono|SMR}} ||{{flag IOC|SMR}}|| SMA (1960–1964)||[https://web.archive.org/web/20101010093404/http://www.olympic.org/en/content/National-Olympic-Committees/San-Marino/]
+|-
+| {{mono|SOL}} ||{{flag IOC|SOL}}|| ||[https://web.archive.org/web/20101010092214/http://www.olympic.org/en/content/National-Olympic-Committees/Solomon-Islands/]
+|-
+| {{mono|SOM}} ||{{flag IOC|SOM}}|| ||[https://web.archive.org/web/20101010092628/http://www.olympic.org/en/content/National-Olympic-Committees/Somalia/]
+|-
+| {{mono|SRB}} ||{{flag IOC|SRB}}|| from Serbian ''Srbija''||[https://web.archive.org/web/20101007035833/http://www.olympic.org/en/content/National-Olympic-Committees/Serbia/]
+|-
+| {{mono|SRI}} ||{{flag IOC|SRI}}|| {{hlist|CEY (1948–1964|1972) as [[#Historic NOCs and teams|Ceylon]] | CEI (1968 S) from Spanish ''Ceilán''}}||[https://web.archive.org/web/20101010092223/http://www.olympic.org/en/content/National-Olympic-Committees/Sri-Lanka/]
+|-
+| {{mono|SSD}} ||{{flag IOC|SSD}}|| ||[http://www.olympic.org/en/content/National-Olympic-Committees/south-sudan/]
+|-
+| {{mono|STP}} ||{{flag IOC|STP}}|| ||[https://web.archive.org/web/20101010090502/http://www.olympic.org/en/content/National-Olympic-Committees/Sao-Tome-and-Principe/]
+|-
+| {{mono|SUD}} ||{{flag IOC|SUD}}|| ||[https://web.archive.org/web/20101010090507/http://www.olympic.org/en/content/National-Olympic-Committees/Sudan/]
+|-
+| {{mono|SUI}} ||{{flag IOC|SUI}}|| {{hlist|SVI (1956 W|1960 S) from Italian ''Svizzera''|SWI (1960 W|1964 S)}}current code from French ''Suisse''||[https://web.archive.org/web/20101013020732/http://www.olympic.org/en/content/National-Olympic-Committees/Switzerland/]
+|-
+| {{mono|SUR}} ||{{flag IOC|SUR}}|| ||[https://web.archive.org/web/20101010090513/http://www.olympic.org/en/content/National-Olympic-Committees/Suriname/]
+|-
+| {{mono|SVK}} ||{{flag IOC|SVK}}|| ||[https://web.archive.org/web/20101010090809/http://www.olympic.org/en/content/National-Olympic-Committees/Slovakia/]
+|-
+| {{mono|SWE}} ||{{flag IOC|SWE}}|| {{hlist|SVE (1956 W|1960 S) from Italian ''Svezia''|SUE (1968 S) from Spanish ''Suecia''}}||[https://web.archive.org/web/20101013021348/http://www.olympic.org/en/content/National-Olympic-Committees/Sweden/]
+|-
+| {{mono|SWZ}} ||{{flag IOC|SWZ_YO2018}} ||current code from former name ''Swaziland''||[https://web.archive.org/web/20101010092632/http://www.olympic.org/en/content/National-Olympic-Committees/Swaziland/]
+|-
+| {{mono|SYR}} ||{{flag IOC|SYR}} || SIR (1968) from Spanish ''Siria''||[https://web.archive.org/web/20101010091112/http://www.olympic.org/en/content/National-Olympic-Committees/Syrian-Arab-Republic/]
+|-
+| {{mono|TAN}} ||{{flag IOC|TAN}}|| ||[https://web.archive.org/web/20101010093414/http://www.olympic.org/en/content/National-Olympic-Committees/United-Republic-of-Tanzania/]
+|-
+| {{mono|TGA}} ||{{flag IOC|TGA}}|| TON (1984)||[https://web.archive.org/web/20101010090111/http://www.olympic.org/en/content/National-Olympic-Committees/Tonga/]
+|-
+| {{mono|THA}} ||{{flag IOC|THA}}||  ||[https://web.archive.org/web/20101010090812/http://www.olympic.org/en/content/National-Olympic-Committees/Thailand/]
+|-
+| {{mono|TJK}} ||{{flag IOC|TJK}}|| ||[http://www.olympic.org/en/content/National-Olympic-Committees/tajikistan/]
+|-
+| {{mono|TKM}} ||{{flag IOC|TKM}}||  ||[https://web.archive.org/web/20101010092230/http://www.olympic.org/en/content/National-Olympic-Committees/Turkmenistan/]
+|-
+| {{mono|TLS}} ||{{flag IOC|TLS}}|| current code taken from Portuguese ''Timor-Leste'' ||[http://www.olympic.org/en/content/National-Olympic-Committees/democratic-republic-of-timor-leste/]
+|-
+| {{mono|TOG}} ||{{flag IOC|TOG}}|| ||[https://web.archive.org/web/20101008222538/http://www.olympic.org/en/content/National-Olympic-Committees/Togo/]
+|-
+| {{mono|TPE}} ||{{flag IOC|TPE}}<ref>Official name given to the [[Republic of China]] for international organizations</ref>|| {{hlist|RCF (1956–1960) as [[#Historic NOCs and teams|Republic of China, Formosa]]||TWN (1964–1968) as [[#Historic NOCs and teams|Taiwan]] | ROC (1972–1976) as [[#Historic NOCs and teams|Republic of China]]}}||[https://web.archive.org/web/20100916013853/http://www.olympic.org/en/content/National-Olympic-Committees/chinese-taipei/]
+|-
+| {{mono|TTO}} ||{{flag IOC|TRI}}|| {{hlist|TRT (1964–1968)|TRI (1972–2012)}}||[https://web.archive.org/web/20101007035848/http://www.olympic.org/en/content/National-Olympic-Committees/Trinidad-and-Tobago/]
+|-
+| {{mono|TUN}} ||{{flag IOC|TUN}}|| ||[https://web.archive.org/web/20100924041057/http://www.olympic.org/en/content/National-Olympic-Committees/tunisia/]
+|-
+| {{mono|TUR}} ||{{flag IOC|TUR}}|| ||[https://web.archive.org/web/20101010043812/http://www.olympic.org/en/content/National-Olympic-Committees/Turkey/]
+|-
+| {{mono|TUV}} ||{{flag IOC|TUV}}|| ||[https://web.archive.org/web/20101010090517/http://www.olympic.org/en/content/National-Olympic-Committees/Tuvalu/]
+|-
+| {{mono|UAE}} ||{{flag IOC|UAE}}|| ||[https://web.archive.org/web/20101010091520/http://www.olympic.org/en/content/National-Olympic-Committees/United-Arab-Emirates/]
+|-
+| {{mono|UGA}} ||{{flag IOC|UGA}}|| ||[https://web.archive.org/web/20101010091515/http://www.olympic.org/en/content/National-Olympic-Committees/Uganda/]
+|-
+| {{mono|UKR}} ||{{flag IOC|UKR}}|| ||[https://web.archive.org/web/20101010055801/http://www.olympic.org/en/content/National-Olympic-Committees/Ukraine/]
+|-
+| {{mono|URU}} ||{{flag IOC|URU}}|| URG (1968)||[https://web.archive.org/web/20101010090523/http://www.olympic.org/en/content/National-Olympic-Committees/Uruguay/]
+|-
+| {{mono|USA}} ||{{flag IOC|USA}}|| {{hlist|SUA (1960 S) from Italian ''Stati Uniti d'America''|EUA (1968 S) from French ''États-Unis d'Amérique'' or Spanish ''Estados Unidos de América''}}||[https://web.archive.org/web/20101003110553/http://www.olympic.org/en/content/National-Olympic-Committees/United-States-of-America/]
+|-
+| {{mono|UZB}} ||{{flag IOC|UZB}}|| ||[https://web.archive.org/web/20101009013504/http://www.olympic.org/en/content/National-Olympic-Committees/Uzbekistan/]
+|-
+| {{mono|VAN}} ||{{flag IOC|VAN}}|| ||[https://web.archive.org/web/20101010090529/http://www.olympic.org/en/content/National-Olympic-Committees/Vanuatu/]
+|-
+| {{mono|VEN}} ||{{flag IOC|VEN}}|| ||[https://web.archive.org/web/20101010092637/http://www.olympic.org/en/content/National-Olympic-Committees/Venezuela/]
+|-
+| {{mono|VIE}} ||{{flag IOC|VIE}}|| {{hlist|VET (1964)|VNM (1952–1975) as [[South Vietnam|Republic of Vietnam]]}}||[http://www.olympic.org/en/content/National-Olympic-Committees/vietnam/]
+|-
+| {{mono|VIN}} ||{{flag IOC|VIN}}|| STV<ref name=IAAF2015 />||[http://www.olympic.org/en/content/National-Olympic-Committees/st-vincent-and-the-grenadines/]
+|-
+| {{mono|YEM}} ||{{flag IOC|YEM}}|| ||[https://web.archive.org/web/20101010091117/http://www.olympic.org/en/content/National-Olympic-Committees/Yemen/]
+|-
+| {{mono|ZAM}} ||{{flag IOC|ZAM}}|| NRH (1964) as [[#Historic NOCs and teams|Northern Rhodesia]]||[https://web.archive.org/web/20091006050418/http://www.olympic.org/en/content/National-Olympic-Committees/Zambia/]
+|-
+| {{mono|ZIM}} ||{{flag IOC|ZIM}}|| RHO (1960–1972) as [[#Historic NOCs and teams|Rhodesia]]||[https://web.archive.org/web/20101009013140/http://www.olympic.org/en/content/National-Olympic-Committees/Zimbabwe/]
+|}
+
+== Current NPCs ==
+Most National Paralympic Committees (NPC) cover a territory with an active NOC. In these cases the NPC codes matches the IOC codes shown above. The two current NPCs without a corresponding NOC use the following NPC codes.
+{{Table alignment}}
+{| class="wikitable sortable col1center"
+!  Code
+!  National Paralympic Committee
+!  Link
+|-
+| {{mono|FRO}} || {{flag IPC|FRO}} || [https://web.archive.org/web/20161208000319/http://www.isb.fo/ The Faroese Sport Organisation for Disabled]
+|-
+| {{mono|MAC}} || {{flag IPC|MAC}}, China || Associação Recreativa dos Deficientes de Macau
+|}
+
+== Historic NOCs and teams ==
+=== Codes still in use ===
+Fourteen historical NOCs or teams have codes that are still used in the IOC results database<ref name="IOCdb">{{cite web |url=http://www.olympic.org/uk/athletes/results/search_r_uk.asp |title=Olympic Medal Winners |publisher=International Olympic Committee |access-date=2008-02-08}}</ref> to refer to past medal winners from these teams.
+
+{{Table alignment}}
+{| class="wikitable sortable col1center"
+!  Code
+!  Nation/Team
+! Other codes used
+|-
+| {{mono|AHO}} || {{flag IOC|AHO}} || {{hlist|ATO (1960)|NAN (1964)}}code from French ''Antilles hollandaises''
+|-
+| {{mono|ANZ}} || {{flag IOC|ANZ}} || Also AUA<ref name=IAAF2015 />
+|-
+| {{mono|BOH}} || {{flag IOC|BOH}} ||
+|-
+| {{mono|BWI}} || {{flag IOC|BWI|1960 Summer}} || {{hlist|ANT (1960) from ''Antilles''}}
+|-
+| {{mono|EUA}} || {{flag IOC|EUA}} || code taken from French ''Équipe unifiée d'Allemagne''
+|-
+| {{mono|EUN}} || {{flag IOC|EUN}} || code from the French ''Équipe unifiée''
+|-
+| {{mono|FRG}} || {{flag IOC|FRG}} || {{hlist|ALL (1968 W) from French ''Allemagne''|ALE (1968 S) from Spanish ''Alemania''|GER (1972–1976)}}code FRG taken from ''Federal Republic of Germany''
+|-
+| {{mono|GDR}} || {{flag IOC|GDR}} || ODE (1968 S) from German ''Ostdeutschland''<br />code GDR taken from ''German Democratic Republic''
+|-
+| {{mono|SCG}} || {{flag IOC|SCG}} || code from Serbian ''Србија и Црна Гора / Srbija i Crna Gora''
+|-
+| {{mono|TCH}} || {{flag IOC|TCH}} || {{hlist|CSL (1956 W)|CZE (1960 W)|CSV (1960 S)|CZS (1964 S)|CHE (1968 S) from Spanish ''Checoslovaquia''}} code taken from French ''Tchécoslovaquie''
+|-
+| {{mono|URS}} || {{flag IOC|URS}} || SOV (1968 W)<br />code from French ''Union des républiques socialistes soviétiques (URSS)''
+|-
+| {{mono|VNM}} || {{flag icon|South Vietnam}} [[South Vietnam]] || Code of the [[State of Vietnam]] and then [[Republic of Vietnam]] from 1952 to 1975.<ref>{{cite web |url=https://olympics.com/en/olympic-games/munich-1972/results/shooting/50m-pistol-60-shots-mixed |title=MUNICH 1972 SHOOTING 50M PISTOL 60 SHOTS MIXED RESULTS |website=Olympic.org}}</ref><ref>{{cite web |url=https://www.luatkhoa.com/2021/07/viet-nam-cong-hoa-va-nhung-nguoi-viet-nam-dau-tien-du-olympics/ |title=Việt Nam Cộng hòa và những người Việt Nam đầu tiên dự Olympics |date=23 July 2021}}</ref><ref>{{cite web |url=https://www.olympedia.org/countries/VNM |title=South Vietnam (VNM) |website=Olympedia}}</ref>
+|-
+| {{mono|YUG}} || {{flag IOC|YUG}} || {{hlist|JUG (1956–1960|1968 W) from ''Југославија/Jugoslavija'' in native languages|YUS (1964 S)}}
+|}
+
+=== Obsolete codes ===
+Unlike the previous list, these codes no longer appear in the IOC results database. When a past athlete from one of these teams has won a medal, the new code is shown next to them instead.
+
+{{Table alignment}}
+{| class="wikitable sortable col1center"
+!  Code
+!  Nation (NOC)
+!  Years
+! Notes
+|-
+| {{mono|BIR}} || {{flag|Burma|1974}}<br />From French ''Birmanie''|| 1948–1988 || Now {{flag IOC team|MYA}}
+|-
+| {{mono|CEY}} || {{flag IOC|CEY}} || 1948–1972 || Now {{flag IOC team|SRI}}
+|-
+| {{mono|DAH}} || {{flag IOC|DAH}} || 1964–1976 || Now {{flag IOC team|BEN}}
+|-
+| {{mono|GUI}} || {{flag|British Guiana}} || 1948–1964 || Now {{flag IOC team|GUY}}.<br /> ''The code former GUI has been reassigned to {{flag IOC team|GUI}} in 1965 when its new NOC was recognized by the IOC and used publicly in their first competed games in 1968.'' All formerly known by BGU<ref name=IAAF2015 />
+|-
+| {{mono|HBR}} || {{flag IOC|HBR}}<br />From French ''Honduras britannique'' || 1968–1972 || Now {{flag IOC team|BIZ}}
+|-
+| {{mono|IHO}} || {{flag|Dutch East Indies|}}<br />code from French ''Indes orientales hollandaises'' || 1934–1938 || Now {{flag IOC team|INA}}
+|-
+| {{mono|KHM}} || {{flag IOC|KHM}}<br />From French ''République khmère''|| 1972 || Now {{flag IOC team|CAM}}
+|-
+| {{mono|MAL}} || {{flag|Malaya}}<br />From French ''Malaisie''|| 1956–1960 ||rowspan="2" | Competed independently before the formation of [[Malaysia]] in 1963.<br /> Now {{flag IOC team|MAS}}
+|-
+| {{mono|NBO}} || {{flag IOC|NBO|1956 Summer}} || 1956
+|-
+| {{mono|NRH}} || {{flag IOC|NRH}} || 1964 || Now {{flag IOC team|ZAM}}
+|-
+| {{mono|RAU}} || {{flag link|United Arab Republic|at the 1960 Summer Olympics}}<br />code from French ''République arabe unie'' || 1960 || colspan=2 | Now {{flag IOC team|EGY}} and {{flag IOC team|SYR}}
+|-
+| {{mono|RHO}} || {{flag IOC|RHO}}<br />also [[Southern Rhodesia]] and [[Federation of Rhodesia and Nyasaland]] until it became [[Zimbabwe]] in 1980 || 1960–1972 || Now {{flag IOC team|ZIM}}
+|-
+| {{mono|ROC}} || {{flag IOC|ROC}} || 1932–1976 || Medal winners from 1948 and earlier display as {{flag IOC team|ROC}}, while medal winners from after 1948 display as {{flag IOC team|TPE}} under which the team now competes.
+|-
+| {{mono|RU1}} || {{flag IOC|RU1}} || {{hlist|1900|1908–1912}} || Now {{flag IOC team|RUS}}
+|-
+| {{mono|SAA}} || {{flag IOC|SAA}} || 1952 || Competed independently before rejoining {{flag IOC team|FRG}} in 1957
+|-
+| {{mono|UAR}} || {{flag IOC|UAR}} || 1960–1968 || Now {{flag IOC team|EGY}}
+|-
+| {{mono|VOL}} || {{flag IOC|VOL}} || 1972–1984 || Now {{flag IOC team|BUR}}
+|-
+| {{mono|WSM}} || {{flaglink|WSM|name=Western Samoa|at the Olympics}} || 1984–1996 || Now {{flag IOC team|SAM}}
+|-
+| {{mono|YAR}} || {{flag IOC|YAR}}<br />code from ''Yemen Arab Republic'' || 1984–1988 ||rowspan=2 | Competed independently before [[Yemeni unification]] in 1990.<br />Now {{flag IOC team|YEM}}
+|-
+| {{mono|YMD}} || {{flag IOC|YMD|1988 Summer}}<br />code from ''Yemen Democratic Republic'' || 1988
+|-
+| {{mono|ZAI}} || {{flaglink|Zaire|at the Olympics}}<br />From French ''Zaïre''|| 1972–1996 || Now {{flag IOC team|COD}}
+|}
+
+Two other significant code changes have occurred, both because of a change in the nation's designation as used by the IOC:
+* '''HOL''' was changed to '''NED''' for the [[Netherlands]] for the 1992 Games, reflecting the change in designation from ''Holland''.
+* '''IRN''' was changed to '''IRI''' for [[Iran]] for the 1992 Games, reflecting the change in designation to ''Islamic Republic of Iran''.
+
+== Special codes for Olympics ==
+{{Table alignment}}
+{| class="wikitable sortable col1center"
+!  Code
+!  Nation/team
+!  Years
+! Notes
+|-
+| {{mono|AIN}} || {{flag IOC|AIN}}<br />from French ''Athlètes Individuels Neutres'' || 2024, 2026 || Used for Russian and Belarusian athletes competing as neutrals due to the [[Russian invasion of Ukraine]].<br />The delegation will use a flag and a one-off instrumental anthem assigned by the IOC.
+|-
+| {{mono|ANZ}} || {{flag IOC|ANZ}} || 1908–1912 || Used in the IOC's medal database<ref name="IOCdb" /> to identify the team from [[Australasia at the Olympics|Australasia]], composed of athletes from both [[Australia]] and [[New Zealand]] for the 1908 and 1912 Games.<br />Both nations competed separately by 1920.
+|-
+| {{mono|COR}} || {{flag IOC|COR|2018 Winter}}<br />from French ''Corée'' || 2018 || Used for the [[Korea women's national ice hockey team|unified Korean women's ice hockey team]] at the [[2018 Winter Olympics]].<ref>{{cite web |author=IOC |title=Olympic Korean Peninsula Declaration |url=https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/News/2018/2018-01-20-Declaration.pdf#_ga=2.100314582.978188483.1516481833-1830756157.1505501543 |archive-url=https://ghostarchive.org/archive/20221009/https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/News/2018/2018-01-20-Declaration.pdf#_ga=2.100314582.978188483.1516481833-1830756157.1505501543 |archive-date=2022-10-09 |url-status=live |access-date=20 January 2018}}</ref>
+|-
+| {{mono|EOR}} || {{flag IOC|EOR}}<br />from French ''Équipe olympique des réfugiés'' || 2016–2024 || Used for the [[Refugee Olympic Team]], for athletes who have [[Refugee|been displaced]] from their home countries. The IOC code was changed from ROT which was used in 2016.<ref>[https://www.rio2016.com/rot Rio2016.org, 3 June 2016] {{webarchive|url=https://web.archive.org/web/20160805075751/https://www.rio2016.com/rot |date=2016-08-05 }}</ref>
+|-
+| {{mono|EUA}} || {{flag IOC|EUA}}<br />from French ''Équipe unifiée d'Allemagne'' || 1956–1964 || Used in the IOC's medal database<ref name="IOCdb" /> to identify the [[United Team of Germany]], composed of athletes representing the NOCs of both [[East Germany]] and [[West Germany]] for the 1956–1964 Games.<br />The team was simply known as ''Germany'' in the official reports for those six games at the time.
+|-
+| {{mono|EUN}} || {{flag IOC|EUN}}<br />from French ''Équipe unifiée''|| 1992 || Used in 1992 (both Summer and Winter Games) for the [[Unified Team at the Olympics|Unified Team]], composed of athletes from most of the former [[Republics of the Soviet Union|Soviet republics]] that chose to compete as a unified team. It also consisted of athletes in team sports such as Ice Hockey, Basketball, Handball, and so on.  This was primarily due to the breakup of the old Soviet Union in late December of 1991 due to there being less than 7 weeks before the [[1992 Winter Olympics|Albertville Games]]. The Unified Team qualified for the Olympics in competitions as the Soviet Union.<br />[[Estonia at the Olympics|Estonia]], [[Latvia at the Olympics|Latvia]] and [[Lithuania at the Olympics|Lithuania]] entered separately in 1992, whereas [[Russia at the Olympics|Russia]] and eleven other post-Soviet nations competed independently for the first time in 1994 or 1996.
+|-
+| {{mono|IOP}} || {{flag IOC|IOP|1992 Summer}} || {{hlist|1992|2014}} || Used for ''[[Independent Olympic participants at the 1992 Summer Olympics|independent Olympic participants]]'' at the 1992 Summer Olympics as a designation used for athletes from [[Federal Republic of Yugoslavia|FR Yugoslavia]] who could not compete as a team due to [[United Nations]] sanctions.<br />At the 1992 Summer Olympics IOP was used as a designation for athletes from the [[Republic of Macedonia]] too.<br />IOP was also used during the 2014 Winter Olympics in Sochi by Indian athletes due to the Indian Olympic Association suspension.
+|-
+| {{mono|IOA}} || {{flag IOC|IOA}} || {{hlist|2000|2012|2016}} || Used for ''[[Individual Olympic Athletes at the 2000 Summer Olympics|Individual Olympic Athletes]]'' in 2000,<ref>{{cite web |url=http://www.la84foundation.org/6oic/OfficialReports/2000/Results.pdf |title=The Results |website=la84foundation.org |archive-url=https://web.archive.org/web/20070927222411/http://www.la84foundation.org/6oic/OfficialReports/2000/Results.pdf |archive-date=2007-09-27}}</ref> a designation used for athletes from [[Timor-Leste]] before the formation of its NOC.<br />IOA was used again in the 2012 Games, when it stood for ''[[Independent Olympic Athletes at the 2012 Summer Olympics|Independent Olympic Athletes]]'',<ref>{{cite web |url=http://www.london2012.com/country/independent-olympic-athletes/index.html |title=Independent Olympic Athletes |website=London2012.com |publisher=London 2012 Olympic and Paralympic Games |url-status=dead |archive-url=http://webarchive.nationalarchives.gov.uk/20130228101332/http://www.london2012.com/country/independent-olympic-athletes/index.html |archive-date=2013-02-28}}</ref> comprising athletes from the former [[Netherlands Antilles]] and a runner from [[South Sudan]].<br />The [[Netherlands Antilles Olympic Committee]]'s membership from the IOC was withdrawn the previous year, and South Sudan had not yet formed an NOC at the time.<br />IOA was used again in 2016 for athletes from Kuwait as a result of the suspension of its National Olympic Committee.<ref>{{cite news |title=Independent Olympic Athletes |url=https://www.rio2016.com/en/ioa |website=Rio2016.com |access-date=3 August 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160815202125/https://www.rio2016.com/en/ioa |archive-date=15 August 2016}}</ref>
+|-
+| {{mono|IOC}} || {{flag IOC 2|IOC|2010 Asian Games}} || 2010–2012 || Used as the country code for ''[[Kuwait Olympic Committee|Athletes from Kuwait]]'', when the [[Kuwait Olympic Committee]] was suspended the first time, at the [[Athletes from Kuwait at the 2010 Summer Youth Olympics|2010 Summer Youth Olympics]], the [[Athletes from Kuwait at the 2010 Asian Games|2010 Asian Games]] and the [[Athletes from Kuwait at the 2011 Asian Winter Games|2011 Asian Winter Games]];<br />for the second suspension in 2015–2017, athletes from Kuwait were also competing in several international competitions under the IOC flag, but this time in the team of ''Individual Olympic Athletes'' (IOA), including (but not only) in the 2016 Summer Olympics.
+|-
+| {{mono|MIX}} || {{flag IOC 2|MIX|Youth Olympics}} || 2010– || Used as the country code for Mixed NOCs at the [[Youth Olympics]].<ref name="MIX">{{cite web |url=http://www.olympic.org/content/results-and-medalists/searchresultpercountry/?athletename=&country=mix&sport2=&games2=&event2=&mengender=true&womengender=true&mixedgender=true&goldmedal=true&silvermedal=true&bronzemedal=true&worldrecord=true&olympicrecord=false&teamclassification=true&individualclassification=true&winter=true&summer=true |title=Mixed NOCs |url-status=dead |archive-url=https://web.archive.org/web/20140225180629/http://www.olympic.org/content/results-and-medalists/searchresultpercountry/?athletename=&country=mix&sport2=&games2=&event2=&mengender=true&womengender=true&mixedgender=true&goldmedal=true&silvermedal=true&bronzemedal=true&worldrecord=true&olympicrecord=false&teamclassification=true&individualclassification=true&winter=true&summer=true |archive-date=2014-02-25}}</ref><ref>{{Cite web |url=https://www.olympicchannel.com/en/youth-olympic-games-2018/medals/ |title=Medals – Youth Olympic Games, Buenos Aires 2018 |website=Olympic Channel |access-date=2018-11-18 |archive-date=2019-07-12 |archive-url=https://web.archive.org/web/20190712000308/https://www.olympicchannel.com/en/youth-olympic-games-2018/medals/ |url-status=dead}}</ref>
+|-
+| {{mono|OAR}} || {{flag IOC|OAR|2018 Winter}} || 2018 || Used for ''[[Olympic Athletes from Russia at the 2018 Winter Olympics|Olympic Athletes from Russia]]'' competing as neutral athletes due to the [[Doping in Russia|state-sponsored doping scandal]].<ref>{{cite web |url=https://www.olympic.org/news/ioc-suspends-russian-noc-and-creates-a-path-for-clean-individual-athletes-to-compete-in-pyeongchang-2018-under-the-olympic-flag |title=IOC suspends Russian NOC and creates a path for clean individual athletes to compete in PyeongChang 2018 under the Olympic Flag |website=Olympic.org |date=24 January 2018}}</ref>
+|-
+| {{mono|ROC}} || {{flag IOC|ROC_2020}}<br />from the abbreviation for ''Russian Olympic Committee'' || 2020–2022 || Used for ''[[Russian Olympic Committee athletes at the Olympics|Russian Olympic Committee athletes]]'' at the [[Russian Olympic Committee athletes at the 2020 Summer Olympics|2020 Summer Olympics]] and [[Russian Olympic Committee athletes at the 2022 Winter Olympics|2022 Winter Olympics]] following the sanctions due to the [[Doping in Russia|state-sponsored doping scandal]].<ref>{{Cite news |url=https://www.japantimes.co.jp/sports/2021/02/20/olympics/summer-olympics/russian-team-branded-roc-tokyo-olympics-part-doping-sanctions/ |title=Russian team to be branded as 'ROC' during Tokyo Olympics as part of doping sanctions |date=20 February 2021 |newspaper=[[The Japan Times]] |access-date=2022-02-22}}</ref><ref>{{cite news |date=2021-02-19 |title=Olympics: Russia to compete under ROC acronym in Tokyo as part of doping sanctions |language=en |work=Reuters |agency=Reuters |url=https://www.reuters.com/article/us-olympics-2020-russia/olympics-russia-to-compete-under-roc-acronym-in-tokyo-as-part-of-doping-sanctions-idUSKBN2AJ1UZ |access-date=2021-02-20 |archive-date=2021-02-20 |archive-url=https://web.archive.org/web/20210220020504/https://www.reuters.com/article/us-olympics-2020-russia/olympics-russia-to-compete-under-roc-acronym-in-tokyo-as-part-of-doping-sanctions-idUSKBN2AJ1UZ |url-status=live}}</ref><br />The delegation used a flag depicting the logo of the [[Russian Olympic Committee]].
+|-
+| {{mono|XXB}} || {{flag IOC|ZZX}} || 1896–1904 || Used in the IOC's medal database to identify medals won by [[mixed team at the Olympics|mixed teams]] of athletes from multiple nations (such as the combination of [[France]] and [[United Kingdom|Great Britain]]), a situation that happened several times in the Games of 1896, 1900, and 1904. Until 2021, the IOC used the code ZZX for mixed teams.<ref name="IOCdb" /><ref>{{cite web|url=https://www.olympic.org/athens-1896/tennis/doubles-men|title=Athens 1896 doubles men Results - Olympic tennis|website=Olympics|archive-url=https://web.archive.org/web/20210421164924/https://www.olympic.org/athens-1896/tennis/doubles-men|archive-date=2021-04-21|url-status=unfit}}</ref>{{efn|ZZX is visible in the page HTML for the mixed team's flag.}} In 2021, the code was changed to MIX, matching the code for mixed teams at the Youth Olympics.<ref>{{cite web|url=https://olympics.com/en/olympic-games/athens-1896/results/tennis/doubles-men|title=Athens 1896 doubles men Results - Olympic tennis|website=Olympics|url-status=unfit|archive-url=https://web.archive.org/web/20210807101359/https://www.olympic.org/athens-1896/tennis/doubles-men|archive-date=2021-08-07}}</ref> In 2024, the code was changed to XXB.<ref>{{cite web|url=https://olympics.com/en/olympic-games/athens-1896/results/tennis/doubles-men|title=Athens 1896 doubles men Results - Olympic tennis|website=Olympics|access-date=2024-09-03|archive-url=https://web.archive.org/web/20240903184515/https://olympics.com/en/olympic-games/athens-1896/results/tennis/doubles-men|archive-date=2024-09-03}}</ref>
+|}
+
+== Special codes for Paralympics ==
+{{Table alignment}}
+{| class="wikitable sortable col1center"
+!  Code
+!  Nation/Team
+!  Years
+! Notes
+|-
+| {{mono|IPP}} || {{flag IPC|IPP}} || 1992 || Used for ''[[Independent Paralympic Participants at the 1992 Summer Paralympics|Independent Paralympic Participants]]'' at the 1992 Summer Paralympics as a designation used for athletes from FR Yugoslavia and Former Yugoslavian Republic of Macedonia who could not compete as a team due to United Nations sanctions.
+|-
+| {{mono|IPA}} ||[[File:Paralympic flag (1994-2004).svg|border|24px]] [[Individual Paralympic Athletes]] || {{hlist|2000}} || De facto independent [[East Timor]] was not yet recognised as a sovereign state, and did not have a recognised National Paralympic Committee.<br />Two athletes from the country gained the opportunity to in the [[2000 Summer Paralympics]] in Sydney, but they competed officially as Individual Paralympic Athletes, rather than as representatives of an NPC.
+|-
+| {{mono|IPA}} ||[[File:Paralympic flag (2010-2019).svg|border|24px]] [[Independent Paralympic Athletes at the 2016 Summer Paralympics|Independent Paralympic Athletes]] || {{hlist|2016}}|| A team consisting of refugee and asylee Paralympic athletes competed at the [[2016 Summer Paralympics]] in Rio de Janeiro as Independent Paralympic Athletes.
+|-
+| {{mono|NPA}} || {{flag IPC|NPA|2024 Summer}} || {{hlist|2018|2024}} || Used [[Neutral Paralympic Athletes at the 2018 Winter Paralympics|in 2018]] for Russian athletes competing as neutral athletes due to the state-sponsored doping scandal.<br />Was to be used in 2022 for Russian athletes competing as neutral athletes due to the [[Russian invasion of Ukraine]],<ref name="2022-ban">{{Cite web |url=https://www.insidethegames.biz/articles/1119966/rus-blr-athletes-still-to-receive-medals |title=Russian and Belarusian athletes to still receive medals at Beijing 2022 |date=2 March 2022}}</ref> however the Russian athletes were ultimately banned before the start of the [[2022 Winter Paralympics|2022 Games]].<br />Used again in the [[2024 Summer Paralympics]] for both Russian and Belarusian athletes.<br />In 2024, the designation was banned from using the Paralympic flag and instead used a white flag with black letters displaying "NPA" (but still used the Paralympic Anthem).<ref>{{cite web |url=https://www.paralympic.org/news/ipc-publish-neutral-paralympic-athletes-regulations-paris-2024-paralympics |title=IPC publish Neutral Paralympic Athletes regulations for the Paris 2024 Paralympics}}</ref>
+|-
+| {{mono|PNA}} ||[[File:Paralympic flag (2019).svg|border|24px]] Paralympic Neutral Athletes || – || Was to be used for Belarusian athletes competing as neutral athletes due to the [[2022 Russian invasion of Ukraine]],<ref name="2022-ban" /> however the Belarusian athletes were ultimately banned before the start of the [[2022 Winter Paralympics]] and the code was not used.
+|-
+| {{mono|RPC}}  || [[File:Russian Paralympic Committee special emblem (Tokyo 2020, Beijing 2022).jpg|22px]] [[Russian Paralympic Committee athletes at the 2020 Summer Paralympics|RPC]]<br />from the abbreviation for ''Russian Paralympic Committee'' || {{hlist|2020}} || Used for ''[[Russian Paralympic Committee athletes at the 2020 Summer Paralympics|Russian Paralympic Committee athletes]]'' at the [[2020 Summer Paralympics]] following the sanctions due to the [[Doping in Russia|state-sponsored doping scandal]].<br />The delegation used a flag with an altered emblem of the [[Russian Paralympic Committee]] (the original emblem being banned due to containing the flag of Russia).<br />Was to be used in 2022 as well, however the Russian athletes were ultimately banned due to the [[2022 Russian invasion of Ukraine]].
+|-
+| {{mono|RPT}} || {{flag IPC|RPT|2020 Summer}} || {{hlist|2020|2024}} || The team represents the estimated 82 million people around the world who are refugees, and the 12 million of which have disabilities per [[UNHCR]] estimate.
+|}
+
+== Special codes for World Games ==
+The [[World Games]] are a multi-sport event comprising sports and sporting disciplines that are not contested in the Olympic Games. The World Games are governed by the [[International World Games Association]], under the patronage of the International Olympic Committee.
+
+{{Table alignment}}
+{| class="wikitable sortable col1center"
+!  Code
+!  Nation/Team
+!  Years
+! Notes
+|-
+| {{mono|HNL}}<ref>{{cite web |url=https://twg2022.com/qualified-athletes-countries/ |title=World Games 2022: Qualified Nations List |access-date=April 19, 2022 |publisher=International World Games Association}}</ref> ||{{flag decoration|Iroquois}} [[Haudenosaunee at the 2022 World Games|Haudenosaunee]] || 2022 || The [[Haudenosaunee]] (also known as the Iroquois), who invented the sport of [[lacrosse]] and which has spiritual significance to them, were initially denied a spot to compete at the [[2022 World Games]], despite the [[Haudenosaunee men's national lacrosse team|Haudenosaunee national team's]] placement at the [[2018 World Lacrosse Championship]], due to not having a recognized NOC and issues concerning other countries recognizing [[Tribal sovereignty in the United States|sovereignty]]; they were given a spot to compete after Ireland agreed to drop out of competition in a show of solidarity.<ref>{{Cite web |last=Glennon |first=Michael |date=2020-09-05 |title=Ireland sacrifice place for good of 'Medicine Game' |website=[[RTÉ.ie]] |url=https://www.rte.ie/sport/other-sport/2020/0905/1163463-iroquois-nationals-lacrosse-ireland-world-games/ |language=en}}</ref><ref name="iro">{{cite web |url=https://twg2022.com/2020/teams-for-mens-lacrosse-competition/ |title=World Lacrosse Announces Teams for Men's Lacrosse Competition at TWG 2022; Iroquois Nationals Accept Invitation to Compete |publisher=TWG 2022 Birmingham |date=7 Sep 2020 |access-date=2020-09-30}}</ref><ref>{{cite news |url=https://www.npr.org/2020/10/01/917033527/ireland-lacrosse-bows-out-of-2022-world-games-so-iroquois-nationals-can-play |publisher=National Public Radio |date=October 1, 2020 |title=Ireland Lacrosse Bows Out Of 2022 World Games So Iroquois Nationals Can Play |first=Bo |last=Hamby}}</ref>
+|}
+
+== See also ==
+{{Portal|Olympics}}
+* [[Comparison of alphabetic country codes]]
+* [[List of FIFA country codes]]
+* Lists of [[National Olympic Committee]]s by continental association:
+** [[Association of National Olympic Committees of Africa]]
+** [[European Olympic Committees]]
+** [[Oceania National Olympic Committees]]
+** [[Olympic Council of Asia]]
+** [[Pan American Sports Organization]]
+* [[List of participating nations at the Summer Olympic Games]]
+* [[List of participating nations at the Winter Olympic Games]]
+* [[List of CGF country codes]]
+* [[ISO 3166-1]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist|30em}}
+
+=== Sources ===
+{{refbegin|30em}}
+* {{cite book |title=VII Olympic Winter Games Cortina d'Ampezzo 1956 Official Report |page=70 |publisher=Società Grafica Romana |location=Rome |url=http://www.la84foundation.org/6oic/OfficialReports/1956/orw1956.pdf |archive-url=https://ghostarchive.org/archive/20221009/http://www.la84foundation.org/6oic/OfficialReports/1956/orw1956.pdf |archive-date=2022-10-09 |url-status=live |access-date=2008-01-31}}
+* {{cite book |title=VIII Olympic Winter Games Squaw Valley California 1960 Final Report |editor=Robert Rubin |publisher=California Olympic Commission |page=92 |url=http://www.la84foundation.org/6oic/OfficialReports/1960/1960w.pdf |archive-url=https://ghostarchive.org/archive/20221009/http://www.la84foundation.org/6oic/OfficialReports/1960/1960w.pdf |archive-date=2022-10-09 |url-status=live |access-date=2008-01-31}}
+* {{cite book |title=The Games of the XVII Olympiad Rome 1960, The Official Report of the Organizing Committee, Volume 2 |editor=Giacomini, Romolo |page=56 |publisher=Carlo Colombo |location=Rome |date=May 1963 |url=http://www.la84foundation.org/6oic/OfficialReports/1960/OR1960v2pt1.pdf |archive-url=https://web.archive.org/web/20080226202625/http://www.la84foundation.org/6oic/OfficialReports/1960/OR1960v2pt1.pdf |url-status=dead |archive-date=2008-02-26 |access-date=2008-02-04}}
+* {{cite book |title=The Official Report of the Games of the XVIII Olympiad, Tokyo 1964, Volume&nbsp;II |publisher=The Organizing Committee for the Games of the XVIII Olympiad |location=Tokyo |date=October 1966 |page=1 |url=http://www.la84foundation.org/6oic/OfficialReports/1964/or1964v2pt1.pdf |archive-url=https://ghostarchive.org/archive/20221009/http://www.la84foundation.org/6oic/OfficialReports/1964/or1964v2pt1.pdf |archive-date=2022-10-09 |url-status=live |access-date=2008-02-04}}
+* {{cite book |title=Xth Winter Olympic Games Official Report |publisher=Comité d'Organisation des xèmes Jeux Olympiques d'Hiver de Grenoble |year=1969 |page=401 |url=http://www.la84foundation.org/6oic/OfficialReports/1968/or1968.pdf |archive-url=https://web.archive.org/web/20080226202636/http://www.la84foundation.org/6oic/OfficialReports/1968/or1968.pdf |url-status=dead |archive-date=2008-02-26 |access-date=2008-01-31}}
+* {{cite book |title=The Official Report of the Organizing Committee of the Games of the XIX Olympiad Mexico 1968, Volume 3: The Games |editor=Trueblood, Beatrice |publisher=Organizing Committee of the Games of the XIX Olympiad |year=1969 |pages=16–17 |url=http://www.la84foundation.org/6oic/OfficialReports/1968/1968v3pt1.pdf |archive-url=https://ghostarchive.org/archive/20221009/http://www.la84foundation.org/6oic/OfficialReports/1968/1968v3pt1.pdf |archive-date=2022-10-09 |url-status=live |access-date=2008-02-05}}
+* {{cite book |title=The Official Report of XIth Winter Olympic Games, Sapporo 1972 |publisher=The Organizing Committee for the Sapporo Olympic Winter Games |year=1973 |pages=434–455 |url=http://www.la84foundation.org/6oic/OfficialReports/1972/orw1972.pdf |archive-url=https://ghostarchive.org/archive/20221009/http://www.la84foundation.org/6oic/OfficialReports/1972/orw1972.pdf |archive-date=2022-10-09 |url-status=live |access-date=2008-01-31 |isbn=0-900315-05-9}}
+* {{cite book |title=The official report of the Organizing Committee for the Games of the XXth Olympiad Munich 1972, Volume 3 The competitions |editor=Kunze, Herbert |publisher=proSport |location=Munich |year=1974 |page=14 |url=http://www.la84foundation.org/6oic/OfficialReports/1972/1972s3.pdf |archive-url=https://web.archive.org/web/20070927222651/http://www.la84foundation.org/6oic/OfficialReports/1972/1972s3.pdf |url-status=dead |archive-date=2007-09-27 |access-date=2008-02-04}}
+* {{cite book |title=XII.Olympische Winterspiele Innsbruck 1976 Final Report |editor=Bertl Neumann |publisher=Organizing Committee for the XIIth Winter Olympic Games 1976 at Innsbruck |page=163 |url=http://www.la84foundation.org/6oic/OfficialReports/1976/orw1976.pdf |archive-url=https://web.archive.org/web/20080226202233/http://www.la84foundation.org/6oic/OfficialReports/1976/orw1976.pdf |url-status=dead |archive-date=2008-02-26 |access-date=2008-01-31}}
+* {{cite book |title=Games of the XXI Olympiad Montréal 1976 Official Report, Volume&nbsp;III Results |editor=Chantigny, Louis |publisher=COJO 76 |location=Montreal |year=1978 |page=7 |url=http://www.la84foundation.org/6oic/OfficialReports/1976/1976v3.pdf |archive-url=https://web.archive.org/web/20070927222508/http://www.la84foundation.org/6oic/OfficialReports/1976/1976v3.pdf |url-status=dead |archive-date=2007-09-27 |access-date=2008-02-05}}
+* {{cite book |title=Games of the XXII Olympiad Moscow 1980, Volume 3 Participants and Results |editor=I. T. Novikov |publisher=Fizkultura i Sport |year=1981 |location=Moscow |pages=9–10 |url=http://www.la84foundation.org/6oic/OfficialReports/1980/or1980v3.pdf |archive-url=https://web.archive.org/web/20070927222426/http://www.la84foundation.org/6oic/OfficialReports/1980/or1980v3.pdf |url-status=dead |archive-date=2007-09-27 |access-date=2008-02-05}}
+* {{cite book |title=Official Report of the Organising Committee of the XlVth Winter Olympic Games 1984 at Sarajevo |publisher=Oslobodenje |location=Sarajevo |year=1984 |pages=89–90 |url=http://www.la84foundation.org/6oic/OfficialReports/1984/or1984w.pdf |access-date=2008-01-31 |url-status=dead |archive-url=https://web.archive.org/web/20111126020725/http://www.la84foundation.org/6oic/OfficialReports/1984/or1984w.pdf |archive-date=2011-11-26}}
+* {{cite book |title=Official Report of the Games of the XXIIIrd Olympiad Los Angeles 1984, Volume 2 Competition Summary and Results |publisher=Los Angeles Olympic Organizing Committee |editor=Perelman, Richard B. |year=1985 |page=202 |isbn=0-9614512-0-3 |url=http://www.la84foundation.org/6oic/OfficialReports/1984/1984v2.pdf |access-date=2008-02-05 |url-status=dead |archive-url=https://web.archive.org/web/20120830111406/http://www.la84foundation.org/6oic/OfficialReports/1984//1984v2.pdf |archive-date=2012-08-30}}
+* {{cite book |title=XV Olympic Winter Games Official Report |editor=Rodney Chapman |pages=621–645 |publisher=Calgary Olympic Development Association |isbn=0-921060-26-2 |year=1988 |url=http://www.la84foundation.org/6oic/OfficialReports/1988/orw1988pt1.pdf |access-date=2008-01-31 |url-status=dead |archive-url=https://web.archive.org/web/20110114080921/http://www.la84foundation.org/6oic/OfficialReports/1988/orw1988pt1.pdf |archive-date=2011-01-14}}
+* {{cite book |title=Games of the XXIVth Olympiad Seoul 1988 Official Report, Volume 2: Competition Summary and Results |editor=Lee Kyong-hee |publisher=Seoul Olympic Organizing Committee |date=September 1989 |pages=150–161 |url=http://www.la84foundation.org/6oic/OfficialReports/1988/1988v2.pdf |archive-url=https://web.archive.org/web/20070930155747/http://www.la84foundation.org/6oic/OfficialReports/1988/1988v2.pdf |url-status=dead |archive-date=2007-09-30 |access-date=2008-02-05}}
+* {{cite book |title=Official Report of the XVI Winter Olympic Games of Albertville and Savoie |editor=Claudie Blanc, Jean-Marc Eysseric |isbn=2-9507109-0-5 |chapter=Results |page=3 |url=http://www.la84foundation.org/6oic/OfficialReports/1992/orw1992.pdf |archive-url=https://web.archive.org/web/20080226202512/http://www.la84foundation.org/6oic/OfficialReports/1992/orw1992.pdf |url-status=dead |archive-date=2008-02-26 |access-date=2008-01-31 |year=1992 |publisher=Comité d'organisation des XVIes Jeux olympiques d'hiver d'Albertville et de la Savoie |location=Albertville, France}}
+* {{cite book |title=Official Report of the Games of the XXV Olympiad Barcelona 1992, Volume&nbsp;IV The Games |editor=Cuyàs, Romà |publisher=COOB'92 |year=1992 |pages=396–397 |isbn=84-7868-097-7 |url=http://www.la84foundation.org/6oic/OfficialReports/1992/1992s4.pdf |archive-url=https://ghostarchive.org/archive/20221009/http://www.la84foundation.org/6oic/OfficialReports/1992/1992s4.pdf |archive-date=2022-10-09 |url-status=live |access-date=2008-02-05}}
+* {{cite book |title=Official Report of the XVII Olympic Winter Games |year=1994 |chapter=Volume&nbsp;IV |page=63 |url=http://www.la84foundation.org/6oic/OfficialReports/1994/E_BOOK4.PDF |access-date=2008-01-31 |url-status=dead |archive-url=https://web.archive.org/web/20101202195105/http://www.la84foundation.org/6oic/OfficialReports/1994/E_BOOK4.PDF |archive-date=2010-12-02}}
+* {{cite book |title=The Official Report of the Centennial Olympic Games, Volume&nbsp;III The Competition Results |editor=Watkins, Ginger T. |publisher=Peachtree Publishers |location=Atlanta |year=1997 |isbn=1-56145-150-9 |pages=viii–ix |url=http://www.la84foundation.org/6oic/OfficialReports/1996/1996v3.pdf |archive-url=https://web.archive.org/web/20070927222634/http://www.la84foundation.org/6oic/OfficialReports/1996/1996v3.pdf |url-status=dead |archive-date=2007-09-27 |access-date=2008-02-05}}
+* {{cite book |title=The XVIII Olympic Winter Games Official Report |editor=Shinano Mainichi Shimbun |publisher=The Organizing Committee for the XVIII Olympic Winter Games, Nagano 1998 |year=1998 |chapter=Volume Three Competition Results and Participants |page=12 |isbn=4-7840-9827-5 |url=http://www.la84foundation.org/6oic/OfficialReports/1998/Vol3_e.pdf |archive-url=https://web.archive.org/web/20080226202657/http://www.la84foundation.org/6oic/OfficialReports/1998/Vol3_e.pdf |url-status=dead |archive-date=2008-02-26 |access-date=2008-01-31}}
+* {{cite book |title=Official Report of the XXVII Olympiad, Volume Three: Results |publisher=Sydney Organising Committee for the Olympic Games |year=2001 |isbn=0-9579616-1-8 |chapter=National Olympic Committees |pages=1–5 |url=http://www.la84foundation.org/6oic/OfficialReports/2000/Results.pdf |archive-url=https://web.archive.org/web/20070927222411/http://www.la84foundation.org/6oic/OfficialReports/2000/Results.pdf |url-status=dead |archive-date=2007-09-27 |access-date=2008-02-05 |author=Sydney Organising Committee for the Olympic Games.}}
+* {{cite web |title=List of National Olympic Committees Participating in the XIX Olympic Winter Games in Salt Lake City |url=http://multimedia.olympic.org/pdf/en_report_258.pdf |publisher=International Olympic Committee |date=2002-01-30 |access-date=2008-02-07 |url-status=dead |archive-url=https://web.archive.org/web/20080226202145/http://multimedia.olympic.org/pdf/en_report_258.pdf |archive-date=2008-02-26}}
+* {{cite book |title=Official Report of the XXVIII Olympiad, Volume Two: The Games |editor=Skarveli, Efharis |editor2=Zervos, Isabel |publisher=Athens 2004 Organising Committee for the Olympic Games |date=November 2005 |isbn=960-88101-7-5 |pages=528–529 |url=http://www.la84foundation.org/6oic/OfficialReports/2004/or2004b.pdf |access-date=2008-02-05 |archive-url=https://web.archive.org/web/20080819195306/http://www.la84foundation.org/6oic/OfficialReports/2004/or2004b.pdf |archive-date=2008-08-19}}
+{{refend}}
+
+{{Olympic Games}}
+{{Geocoding-systems}}
+
+[[Category:Lists of country codes|IOC list]]
+[[Category:Olympics-related lists|IOC Country Codes]]
+[[Category:International Olympic Committee]]

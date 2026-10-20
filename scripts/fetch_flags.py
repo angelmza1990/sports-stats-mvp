@@ -40,7 +40,10 @@ def codes_in(value) -> set[str]:
 
 def main() -> None:
     codes = set()
-    for path in ROOT.glob("*/*/data/*.json"):
+    # Every page's data/ folder (olympics/data/, tennis/grand-slams/data/...), not the raw sources in data/.
+    for path in ROOT.glob("**/data/*.json"):
+        if path.relative_to(ROOT).parts[0] in ("data", "node_modules"):
+            continue
         codes |= codes_in(json.loads(path.read_text(encoding="utf-8")))
     FLAGS.mkdir(parents=True, exist_ok=True)
     missing = sorted(c for c in codes if not (FLAGS / f"{c}.svg").exists())

@@ -4,20 +4,38 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sports Stats</title>
-  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, basketball, football, swimming, handball, rugby, volleyball, field hockey and Formula 1.">
+  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, football, the Olympic Games, swimming, basketball, handball, rugby, volleyball, field hockey and Formula 1.">
   <link rel="stylesheet" href="assets/theme.css">
   <script src="assets/theme.js"></script>
   <style>
-    header { padding: 72px 0 24px; }
-    h1 { font-size: clamp(40px, 8vw, 64px); letter-spacing: -0.03em; line-height: 1; margin: 0 0 16px; }
-    .lede { color: var(--ink-2); font-size: 19px; max-width: 620px; margin: 0; }
-    .sport { margin-top: 40px; }
-    .sport h2 {
-      display: flex; align-items: center; gap: 10px;
-      font-size: 13px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
-      color: var(--ink-muted); margin: 0 0 12px;
+    .home-hero { position: relative; isolation: isolate; padding: 64px var(--gutter) 8px; }
+    .home-hero::before {
+      content: ""; position: absolute; z-index: -1; inset: calc(-1 * var(--nav-h)) 0 0;
+      background:
+        radial-gradient(45% 70% at 90% 10%, color-mix(in srgb, var(--football) 18%, transparent), transparent 70%),
+        radial-gradient(40% 60% at 60% 0%, color-mix(in srgb, var(--tennis) 14%, transparent), transparent 70%),
+        radial-gradient(35% 60% at 100% 60%, color-mix(in srgb, var(--basketball) 12%, transparent), transparent 70%);
     }
-    .sport h2::after { content: ""; flex: 1; height: 1px; background: var(--border); }
+    .home-hero h1 {
+      font-family: var(--display); font-weight: 800; text-transform: uppercase;
+      font-size: clamp(64px, 14vw, 150px); line-height: 0.85; letter-spacing: 0.005em; margin: 0 0 20px;
+    }
+    .lede { color: var(--ink-2); font-size: clamp(17px, 2.2vw, 20px); max-width: 620px; margin: 0; }
+    .home-figures { display: flex; flex-wrap: wrap; gap: 12px 40px; margin: 32px 0 0; }
+    .home-figures div { min-width: 0; }
+    .home-figures dt { font-size: 11px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-muted); }
+    .home-figures dd { margin: 2px 0 0; font-family: var(--display); font-weight: 800; font-size: clamp(32px, 5vw, 48px); line-height: 1; }
+    .jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 32px; }
+    .jump a {
+      padding: 7px 14px; border-radius: 999px; border: 1px solid var(--border); background: var(--surface);
+      color: var(--ink); text-decoration: none; font-size: 14px; font-weight: 600; box-shadow: inset 3px 0 0 var(--sport);
+    }
+    .jump a:hover { background: var(--wash); }
+    .sport { margin-top: 64px; scroll-margin-top: calc(var(--nav-h) + 16px); }
+    .sport-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; margin: 0 0 16px; padding-top: 14px; border-top: 3px solid var(--sport); }
+    .sport-head h2 { font-family: var(--display); font-weight: 800; text-transform: uppercase; font-size: clamp(34px, 5vw, 48px); line-height: 1; margin: 0; }
+    .sport-head p { margin: 0; color: var(--ink-2); flex: 1; min-width: 240px; }
+    .sport-head .count { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-muted); }
     .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
     .tile {
       display: flex; flex-direction: column; text-decoration: none; color: inherit; overflow: hidden;
@@ -31,27 +49,44 @@
     }
     .art svg { width: 104px; height: 104px; flex: none; filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.18)); }
     .art .stat { text-align: right; line-height: 1.05; }
-    .art .stat strong { display: block; font-size: 34px; font-weight: 750; letter-spacing: -0.02em; }
+    .art .stat strong { display: block; font-family: var(--display); font-size: 44px; font-weight: 800; line-height: 0.95; }
     .art .stat span { font-size: 12px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; opacity: 0.85; }
     /* Flag backgrounds: the number sits on a light panel so it reads over any stripe. */
     .art.flag .stat { background: rgba(255, 255, 255, 0.9); color: #1b1b1b; padding: 8px 12px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15); }
     .body { padding: 16px 20px 20px; }
-    .body h3 { font-size: 20px; margin: 0 0 6px; }
+    .body h3 { font-family: var(--display); font-weight: 700; font-size: 25px; line-height: 1.05; margin: 0 0 8px; }
     .body p { color: var(--ink-2); margin: 0; font-size: 15px; }
     .tile.soon { opacity: 0.55; pointer-events: none; }
     .tile.soon .art { --tint: var(--wash); color: var(--ink-muted); }
   </style>
 </head>
 <body>
-  <header class="wrap">
+  <header class="wrap home-hero">
     <p class="kicker">Portfolio · Data visualization</p>
-    <h1>Sports Stats</h1>
+    <h1>Sports<br>Stats</h1>
     <p class="lede">Interactive infographics on the numbers behind sport's great champions and rivalries, built with D3 and open data and updated twice a year.</p>
+    <dl class="home-figures">
+      <div><dt>Infographics</dt><dd>28</dd></div>
+      <div><dt>Sports</dt><dd>10</dd></div>
+      <div><dt>Seasons covered</dt><dd>1888–2026</dd></div>
+    </dl>
+    <nav class="jump" aria-label="Sports">
+      <a href="#tennis" data-sport="tennis">Tennis</a>
+      <a href="#football" data-sport="football">Football</a>
+      <a href="#olympics" data-sport="olympics">Olympics</a>
+      <a href="#basketball" data-sport="basketball">Basketball</a>
+      <a href="#team" data-sport="handball">Team sports</a>
+      <a href="#motorsport" data-sport="motorsport">Motorsport</a>
+    </nav>
   </header>
 
   <main class="wrap">
-    <section class="sport">
-      <h2>Tennis</h2>
+    <section class="sport" data-sport="tennis" id="tennis">
+      <div class="sport-head">
+        <h2>Tennis</h2>
+        <p>Seven pages on the men's and women's tours since 1968.</p>
+        <span class="count">7 pages</span>
+      </div>
       <div class="gallery">
         <a class="tile" href="tennis/big-three/">
           <div class="art" style="--tint: linear-gradient(135deg, #1f6f43, #2e8b57)">
@@ -155,39 +190,12 @@
       </div>
     </section>
 
-    <section class="sport">
-      <h2>Basketball</h2>
-      <div class="gallery">
-        <a class="tile" href="basketball/nba-rings/">
-          <div class="art" style="--tint: linear-gradient(135deg, #1d3d8f, #c8102e)">
-            <svg viewBox="0 0 120 120" aria-hidden="true">
-              <circle cx="52" cy="58" r="38" fill="#e8742a"/>
-              <path d="M14 58h76M52 20v76M24 32c16 12 16 40 0 52M80 32c-16 12-16 40 0 52" fill="none" stroke="#3b1d0e" stroke-width="3"/>
-              <circle cx="92" cy="86" r="16" fill="none" stroke="#f4c542" stroke-width="7"/>
-              <rect x="84" y="62" width="16" height="10" rx="3" fill="#f4c542"/>
-            </svg>
-            <div class="stat" data-stat="nba"><strong>18</strong><span>Celtics rings</span></div>
-          </div>
-          <div class="body">
-            <h3>NBA Rings</h3>
-            <p>Every championship since 1947: the franchise race, East vs West, every champion, repeated Finals and the Finals MVP leaders.</p>
-          </div>
-        </a>
-        <a class="tile" href="basketball/international/">
-          <div class="art" style="--tint: linear-gradient(135deg, #3d1f0f, #b5531d)">
-            <svg viewBox="0 0 120 120" aria-hidden="true"><circle cx="48" cy="50" r="34" fill="#e8742a"/><path d="M14 50h68M48 16v68M22 28c14 10 14 34 0 44M74 28c-14 10-14 34 0 44" fill="none" stroke="#3b1d0e" stroke-width="3"/><g fill="none" stroke-width="4"><circle cx="70" cy="92" r="9" stroke="#0081c8"/><circle cx="88" cy="92" r="9" stroke="#fff"/><circle cx="106" cy="92" r="9" stroke="#ee334e"/><circle cx="79" cy="101" r="9" stroke="#fcb131"/><circle cx="97" cy="101" r="9" stroke="#00a651"/></g></svg>
-            <div class="stat" data-stat="basketballInt"><strong>17</strong><span>USA Olympic golds</span></div>
-          </div>
-          <div class="body">
-            <h3>Basketball World Cup & Olympics</h3>
-            <p>Every FIBA World Cup and Olympic tournament, men's and women's: champions, hosts, all-time tables and top scorers.</p>
-          </div>
-        </a>
+    <section class="sport" data-sport="football" id="football">
+      <div class="sport-head">
+        <h2>Football</h2>
+        <p>World and continental competitions, the Ballon d'Or and seven national leagues.</p>
+        <span class="count">12 pages</span>
       </div>
-    </section>
-
-    <section class="sport">
-      <h2>Football</h2>
       <div class="gallery">
         <a class="tile" href="football/world-cup/">
           <div class="art" style="--tint: linear-gradient(135deg, #0b5d3b, #1a8a5a)">
@@ -372,9 +380,31 @@
       </div>
     </section>
 
-    <section class="sport">
-      <h2>Swimming</h2>
+    <section class="sport" data-sport="olympics" id="olympics">
+      <div class="sport-head">
+        <h2>Olympics</h2>
+        <p>Every Summer and Winter Games since 1896.</p>
+        <span class="count">2 pages</span>
+      </div>
       <div class="gallery">
+        <a class="tile" href="olympics/">
+          <div class="art" style="--tint: linear-gradient(135deg, #0a5aa0, #1a8fd6)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <g fill="none" stroke-width="5">
+                <circle cx="32" cy="50" r="17" stroke="#ffffff"/>
+                <circle cx="60" cy="50" r="17" stroke="#1b1b1b"/>
+                <circle cx="88" cy="50" r="17" stroke="#ef4444"/>
+                <circle cx="46" cy="68" r="17" stroke="#facc15"/>
+                <circle cx="74" cy="68" r="17" stroke="#22c55e"/>
+              </g>
+            </svg>
+            <div class="stat" data-stat="olympics"><strong>55</strong><span>Games since 1896</span></div>
+          </div>
+          <div class="body">
+            <h3>The Olympic Games</h3>
+            <p>Every Summer and Winter Games: the medal race, the all-time medal table, the medal table of every Games, the hosts and the most decorated Olympians.</p>
+          </div>
+        </a>
         <a class="tile" href="swimming/olympics/">
           <div class="art" style="--tint: linear-gradient(135deg, #0b5f8a, #1aa3c8)">
             <svg viewBox="0 0 120 120" aria-hidden="true">
@@ -393,8 +423,47 @@
       </div>
     </section>
 
-    <section class="sport">
-      <h2>Handball</h2>
+    <section class="sport" data-sport="basketball" id="basketball">
+      <div class="sport-head">
+        <h2>Basketball</h2>
+        <p>The NBA and the international game.</p>
+        <span class="count">2 pages</span>
+      </div>
+      <div class="gallery">
+        <a class="tile" href="basketball/nba-rings/">
+          <div class="art" style="--tint: linear-gradient(135deg, #1d3d8f, #c8102e)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="52" cy="58" r="38" fill="#e8742a"/>
+              <path d="M14 58h76M52 20v76M24 32c16 12 16 40 0 52M80 32c-16 12-16 40 0 52" fill="none" stroke="#3b1d0e" stroke-width="3"/>
+              <circle cx="92" cy="86" r="16" fill="none" stroke="#f4c542" stroke-width="7"/>
+              <rect x="84" y="62" width="16" height="10" rx="3" fill="#f4c542"/>
+            </svg>
+            <div class="stat" data-stat="nba"><strong>18</strong><span>Celtics rings</span></div>
+          </div>
+          <div class="body">
+            <h3>NBA Rings</h3>
+            <p>Every championship since 1947: the franchise race, East vs West, every champion, repeated Finals and the Finals MVP leaders.</p>
+          </div>
+        </a>
+        <a class="tile" href="basketball/international/">
+          <div class="art" style="--tint: linear-gradient(135deg, #3d1f0f, #b5531d)">
+            <svg viewBox="0 0 120 120" aria-hidden="true"><circle cx="48" cy="50" r="34" fill="#e8742a"/><path d="M14 50h68M48 16v68M22 28c14 10 14 34 0 44M74 28c-14 10-14 34 0 44" fill="none" stroke="#3b1d0e" stroke-width="3"/><g fill="none" stroke-width="4"><circle cx="70" cy="92" r="9" stroke="#0081c8"/><circle cx="88" cy="92" r="9" stroke="#fff"/><circle cx="106" cy="92" r="9" stroke="#ee334e"/><circle cx="79" cy="101" r="9" stroke="#fcb131"/><circle cx="97" cy="101" r="9" stroke="#00a651"/></g></svg>
+            <div class="stat" data-stat="basketballInt"><strong>17</strong><span>USA Olympic golds</span></div>
+          </div>
+          <div class="body">
+            <h3>Basketball World Cup & Olympics</h3>
+            <p>Every FIBA World Cup and Olympic tournament, men's and women's: champions, hosts, all-time tables and top scorers.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <section class="sport" data-sport="handball" id="team">
+      <div class="sport-head">
+        <h2>Team sports</h2>
+        <p>World Cups, World Championships and Olympic tournaments.</p>
+        <span class="count">4 pages</span>
+      </div>
       <div class="gallery">
         <a class="tile" href="handball/international/">
           <div class="art" style="--tint: linear-gradient(135deg, #8a2b12, #c4471f)">
@@ -411,12 +480,6 @@
             <p>Every IHF World Championship and Olympic tournament, men's and women's: champions, hosts, repeated finals, appearances and player medals.</p>
           </div>
         </a>
-      </div>
-    </section>
-
-    <section class="sport">
-      <h2>Rugby</h2>
-      <div class="gallery">
         <a class="tile" href="rugby/international/">
           <div class="art" style="--tint: linear-gradient(135deg, #0c3b2e, #1d6b4f)">
             <svg viewBox="0 0 120 120" aria-hidden="true"><path d="M20 20v80M88 20v80M20 58h68" stroke="#fff" stroke-width="5"/><ellipse cx="60" cy="70" rx="30" ry="18" transform="rotate(-30 60 70)" fill="#8b4a22"/><path d="M48 62l24 14M52 58l-4 8M58 61l-4 8M64 65l-4 8M70 68l-4 8" stroke="#fff" stroke-width="3" transform="rotate(-30 60 70)"/></svg>
@@ -427,12 +490,6 @@
             <p>Every men's and women's World Cup: champions, hosts, the all-time table, top points and try scorers and appearances.</p>
           </div>
         </a>
-      </div>
-    </section>
-
-    <section class="sport">
-      <h2>Volleyball</h2>
-      <div class="gallery">
         <a class="tile" href="volleyball/international/">
           <div class="art" style="--tint: linear-gradient(135deg, #0d2c6b, #2563c9)">
             <svg viewBox="0 0 120 120" aria-hidden="true"><circle cx="60" cy="60" r="42" fill="#f6f1df"/><path d="M60 18c-14 22-14 52 6 84M24 40c26 0 54 12 70 40M30 88c10-24 34-44 64-48" fill="none" stroke="#1f5fbf" stroke-width="6"/><circle cx="60" cy="60" r="42" fill="none" stroke="#1f5fbf" stroke-width="3"/></svg>
@@ -443,12 +500,6 @@
             <p>Every FIVB World Championship and Olympic tournament, men's and women's: champions, hosts, win-loss tables and appearances.</p>
           </div>
         </a>
-      </div>
-    </section>
-
-    <section class="sport">
-      <h2>Field hockey</h2>
-      <div class="gallery">
         <a class="tile" href="hockey/international/">
           <div class="art" style="--tint: linear-gradient(135deg, #0f4c3a, #2e8b57)">
             <svg viewBox="0 0 120 120" aria-hidden="true"><path d="M30 16l34 74c3 7 12 9 18 4l8-6" fill="none" stroke="#f4c542" stroke-width="8" stroke-linecap="round"/><path d="M90 16L56 90c-3 7-12 9-18 4l-8-6" fill="none" stroke="#e6e6e6" stroke-width="8" stroke-linecap="round"/><circle cx="60" cy="104" r="8" fill="#fff"/></svg>
@@ -462,8 +513,12 @@
       </div>
     </section>
 
-    <section class="sport">
-      <h2>Motorsport</h2>
+    <section class="sport" data-sport="motorsport" id="motorsport">
+      <div class="sport-head">
+        <h2>Motorsport</h2>
+        <p>Every Formula 1 world champion.</p>
+        <span class="count">1 page</span>
+      </div>
       <div class="gallery">
         <a class="tile" href="motorsport/formula-1/">
           <div class="art" style="--tint: linear-gradient(135deg, #1a1a1a, #b3141c)">
@@ -488,6 +543,7 @@
         </a>
       </div>
     </section>
+
   </main>
 
   <footer class="site-footer wrap">
@@ -578,6 +634,7 @@
           const [code, n] = most(d.editions, (e) => e.champion);
           return [String(n), `${d.teams[code].name} Olympic golds`];
         }],
+        olympics: ["olympics/data/olympics.json", (d) => [String(d.games.length), "Games since 1896"]],
         swimming: ["swimming/olympics/data/swimming-olympics.json", (d) => {
           const s = d.swimmers.slice().sort((a, b) => b.gold - a.gold)[0];
           return [String(s.gold), `${s.name.split(" ").slice(-1)[0]} gold medals`];
