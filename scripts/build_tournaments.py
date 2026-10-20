@@ -68,7 +68,7 @@ CONTINENTS = {
 CONTINENT_OF = {code: cont for cont, codes in CONTINENTS.items() for code in codes.split()}
 
 OLYMPIC_HOSTS = {
-    1908: "GBR", 1920: "BEL", 1928: "NED", 1932: "USA", 1936: "GER", 1948: "GBR", 1952: "FIN", 1956: "AUS", 1960: "ITA",
+    1896: "GRE", 1900: "FRA", 1904: "USA", 1908: "GBR", 1912: "SWE", 1924: "FRA", 1920: "BEL", 1928: "NED", 1932: "USA", 1936: "GER", 1948: "GBR", 1952: "FIN", 1956: "AUS", 1960: "ITA",
     1964: "JPN", 1968: "MEX", 1972: "FRG", 1976: "CAN", 1980: "URS", 1984: "USA", 1988: "KOR", 1992: "ESP", 1996: "USA",
     2000: "AUS", 2004: "GRE", 2008: "CHN", 2012: "GBR", 2016: "BRA", 2020: "JPN", 2024: "FRA", 2028: "USA",
 }
@@ -80,6 +80,7 @@ P = {  # Wikipedia pages
     "olybask": "Basketball at the Summer Olympics",
     "vb": "FIVB Men's Volleyball World Cup", "wvb": "FIVB Women's Volleyball World Cup", "olyvb": "Volleyball at the Summer Olympics",
     "hk": "Men's FIH Hockey World Cup", "whk": "Women's FIH Hockey World Cup", "olyhk": "Field hockey at the Summer Olympics",
+    "olyfb": "Football at the Summer Olympics",
     "hb": "IHF World Men's Handball Championship", "whb": "IHF World Women's Handball Championship", "olyhb": "Handball at the Summer Olympics",
 }
 
@@ -205,6 +206,17 @@ COMPETITIONS = {
         "participation": (P["olyhk"], ("#team", "1980", "1984"), 1),
         "history": {"NED": 4, "AUS": 3}, "history_min": True, "history_through": 2024,
     },
+    # ---------- Football (Olympics; published under football/olympics/) ----------
+    "football-olympics-men": {
+        "sport": "football", "folder": "football/olympics", "label": "Olympic Games", "gender": "Men", "unit": "goals",
+        "editions": ed(P["olyfb"], "year", "hosts", "gold medal match", nth=0, olympics=True),
+        "history": {"HUN": 3, "GBR": 3, "URU": 2, "ARG": 2, "BRA": 2}, "history_min": True, "history_through": 2024,
+    },
+    "football-olympics-women": {
+        "sport": "football", "folder": "football/olympics", "label": "Olympic Games", "gender": "Women", "unit": "goals",
+        "editions": ed(P["olyfb"], "year", "hosts", "gold medal match", nth=1, olympics=True),
+        "history": {"USA": 5, "NOR": 1, "GER": 1, "CAN": 1}, "history_min": True, "history_through": 2024,
+    },
     # ---------- Handball ----------
     "handball-wc-men": {
         "sport": "handball", "label": "World Championship", "gender": "Men", "unit": "goals",
@@ -244,7 +256,7 @@ W.COUNTRY_NAMES.update({
     "argentina": "ARG", "new zealand": "NZL", "south africa": "RSA", "australia": "AUS", "india": "IND", "pakistan": "PAK",
     "spain": "ESP", "belgium": "BEL", "england": "ENG", "scotland": "SCO", "wales": "WAL", "ireland": "IRL",
     "philippines": "PHI", "puerto rico": "PUR", "lithuania": "LTU", "rhodesia": "RHO", "zimbabwe": "ZIM",
-    "russian olympic committee": "ROC", "roc": "ROC", "us": "USA", "usa": "USA", "brazil": "BRA", "italy": "ITA", "japan": "JPN", "china": "CHN",
+    "russian olympic committee": "ROC", "roc": "ROC", "uk": "GBR", "us": "USA", "usa": "USA", "brazil": "BRA", "italy": "ITA", "japan": "JPN", "china": "CHN",
 })
 
 
@@ -274,6 +286,9 @@ def nth_table(text: str, needles: tuple, nth: int, exact_years: bool = False) ->
     return found[nth]
 
 
+# Older FIFA codes some football pages still use, as the IOC codes the rest of the site uses.
+CODE_ALIASES = {"CSK": "TCH", "DDR": "GDR", "SPA": "ESP", "SWI": "SUI"}
+
 SCORE = re.compile(r"(\d+)\s*[–-]\s*(\d+)")
 
 
@@ -299,7 +314,7 @@ def parse_editions(cfg: dict, refresh: bool) -> list[dict]:
             rest = row[host_col + 1:teams_col]
         teams, scores = [], []
         for c in rest:
-            codes = W.flag_codes(c["text"])
+            codes = [CODE_ALIASES.get(x, x) for x in W.flag_codes(c["text"])]
             if not codes and "olympic flag" in c["text"].lower():
                 # Teams that competed under the Olympic flag.
                 codes = [{1992: "EUN", 2018: "OAR", 2020: "ROC"}.get(year, "IOA")]
@@ -525,7 +540,7 @@ def main() -> None:
             print(f"{key}: validation failed:\n  " + "\n  ".join(errors), file=sys.stderr)
             failed = True
             continue
-        out = ROOT / data["meta"]["sport"] / "international" / "data" / f"{key}.json"
+        out = ROOT / COMPETITIONS[key].get("folder", f"{data['meta']['sport']}/international") / "data" / f"{key}.json"
         if out.exists():
             old = json.loads(out.read_text(encoding="utf-8"))
             strip = lambda d: {**d, "meta": {k: v for k, v in d["meta"].items() if k != "generated"}}

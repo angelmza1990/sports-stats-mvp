@@ -287,8 +287,11 @@ def table_with_headers(wikitext: str, *needles: str) -> list[list[dict]]:
 
 def flag_code(text: str) -> str | None:
     """Country code from the first flag-like template in a cell ({{ARG}}, {{flagicon|Brazil}}, {{fba|ESP|1945}}...)."""
-    for m in re.finditer(r"\{\{\s*([^{}|]+?)\s*(?:\|([^{}|]*))?(?:\|[^{}]*)?\}\}", text):
+    for m in re.finditer(r"\{\{\s*([^{}|]+?)\s*(?:\|([^{}|]*))?((?:\|[^{}]*)?)\}\}", text):
         name, arg = m.group(1).strip(), (m.group(2) or "").strip()
+        if arg.isdigit() and m.group(3):
+            # Age-group templates put the age first: {{fbu|23|BRA}}.
+            arg = m.group(3).split("|")[1].strip()
         lname = name.lower()
         # flag templates, plus the sport-specific ones ({{ru-big|…}}, {{bk-big|…}}, {{vb|…}}, {{fh-big|…}}, {{hb-big|…}}).
         if lname.startswith(("flag", "fb", "ru-", "bk", "vb", "fh", "ru", "hb")) and lname not in ("flagathlete",):
