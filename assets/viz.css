@@ -1,8 +1,22 @@
 /* Shared chart and layout styles for every infographic. */
 
+/* Page header: sport label, a big condensed headline and the lede. */
+
 .hero {
-  padding-top: 56px;
+  position: relative;
+  isolation: isolate;
+  padding-top: 52px;
   padding-bottom: 8px;
+}
+
+/* a faint wash of the sport's color behind the header */
+.hero::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: calc(-1 * var(--nav-h)) 0 0;
+  background: radial-gradient(60% 90% at 85% 0%, color-mix(in srgb, var(--sport) 16%, transparent), transparent 70%);
+  pointer-events: none;
 }
 
 .hero .kicker a {
@@ -10,37 +24,125 @@
   text-decoration: none;
 }
 
+.hero .kicker a:hover {
+  color: var(--ink);
+}
+
 .hero h1 {
-  font-size: clamp(40px, 8vw, 72px);
-  line-height: 1;
-  letter-spacing: -0.03em;
-  margin: 0 0 16px;
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: clamp(46px, 9vw, 92px);
+  line-height: 0.92;
+  letter-spacing: 0.002em;
+  text-transform: uppercase;
+  margin: 0 0 18px;
+  max-width: 16ch;
 }
 
 .lede {
   font-size: clamp(17px, 2.2vw, 20px);
   color: var(--ink-2);
-  max-width: 640px;
+  max-width: 660px;
   margin: 0 0 32px;
+}
+
+/* Stat tiles */
+
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.stat {
+  position: relative;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 16px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.stat::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 3px;
+  background: var(--sport);
+}
+
+.stat .label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+
+/* Big numbers in the display face; long values (a country's name) wrap instead of overflowing. */
+.stat .value {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 10px;
+  min-width: 0;
+  font-family: var(--display);
+  font-size: clamp(30px, 4.6vw, 42px);
+  font-weight: 800;
+  line-height: 1;
+  overflow-wrap: anywhere;
+}
+
+.stat .detail {
+  font-size: 13px;
+  color: var(--ink-muted);
+}
+
+@media (max-width: 760px) {
+  .stat-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 /* Sections */
 
 .block {
-  margin-top: 72px;
+  margin-top: 80px;
+  scroll-margin-top: calc(var(--nav-h) + 56px);
 }
 
 .block-head h2 {
-  font-size: clamp(24px, 3.5vw, 32px);
-  letter-spacing: -0.02em;
-  line-height: 1.15;
-  margin: 0 0 8px;
+  position: relative;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: clamp(30px, 4.4vw, 42px);
+  letter-spacing: 0.005em;
+  line-height: 1;
+  margin: 0 0 10px;
+  padding-top: 14px;
+}
+
+/* the sport's color as a short rule above every section title */
+.block-head h2::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--sport);
 }
 
 .block-head p {
   color: var(--ink-2);
   margin: 0 0 20px;
-  max-width: 680px;
+  max-width: 700px;
 }
 
 .card {
@@ -48,6 +150,15 @@
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 20px;
+  box-shadow: var(--shadow);
+}
+
+h3.sub {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0.01em;
+  margin: 0 0 12px;
 }
 
 .controls {
@@ -79,11 +190,14 @@
   cursor: pointer;
 }
 
-.segmented button[aria-selected="true"] {
-  background: var(--surface-raised);
+.segmented button:hover {
   color: var(--ink);
+}
+
+.segmented button[aria-selected="true"] {
+  background: var(--ink);
+  color: var(--page);
   font-weight: 600;
-  box-shadow: 0 0 0 1px var(--border);
 }
 
 .chart {
@@ -171,11 +285,12 @@
 
 .race-date {
   margin-left: auto;
-  font-size: clamp(28px, 5vw, 44px);
-  font-weight: 700;
-  letter-spacing: -0.03em;
+  font-family: var(--display);
+  font-size: clamp(36px, 6vw, 60px);
+  font-weight: 800;
+  letter-spacing: 0.01em;
   color: var(--ink-muted);
-  line-height: 1;
+  line-height: 0.9;
   font-variant-numeric: tabular-nums;
 }
 
@@ -208,20 +323,21 @@
 
 .btn-play {
   flex: none;
-  width: 40px;
-  height: 40px;
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
   border: 0;
-  background: var(--ink);
-  color: var(--surface);
+  background: var(--sport);
+  color: #fff;
   font-size: 14px;
   cursor: pointer;
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--sport) 40%, transparent);
 }
 
 .player input[type="range"] {
   flex: 1;
   min-width: 0;
-  accent-color: var(--ink);
+  accent-color: var(--sport);
 }
 
 .player select {
@@ -356,10 +472,18 @@
 }
 
 .data-table th {
-  font-size: 12px;
-  font-weight: 600;
-  color: var(--ink-2);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
   white-space: nowrap;
+  border-bottom-color: var(--axis);
+}
+
+.data-table tbody tr:hover td,
+.data-table tr:hover td {
+  background: var(--wash);
 }
 
 .data-table td.num,

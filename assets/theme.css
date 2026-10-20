@@ -1,5 +1,7 @@
 /* Shared design tokens for every infographic in this repo. */
 
+@import url("fonts/fonts.css");
+
 :root {
   color-scheme: light;
   --page: #f9f9f7;
@@ -21,9 +23,31 @@
   --series-4: #eda100;
 
   --font: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  --radius: 12px;
+  /* Headlines and big numbers: a condensed display face, like a sports page. */
+  --display: "Barlow Condensed", "Arial Narrow", var(--font);
+  --radius: 14px;
   --gutter: 16px;
-  --max: 1080px;
+  --max: 1120px;
+  --nav-h: 56px;
+  --shadow: 0 1px 2px rgba(11, 11, 11, 0.04), 0 4px 16px rgba(11, 11, 11, 0.05);
+
+  /* Each sport's accent (set from the page's folder by theme.js). Used for markers and rules, not body text. */
+  --sport: var(--accent);
+  --tennis: #2f8f4e;
+  --football: #2264c9;
+  --basketball: #e0621b;
+  --olympics: #0a7bc2;
+  --swimming: #0a8fb8;
+  --handball: #c0263a;
+  --rugby: #6b3fa0;
+  --volleyball: #c79300;
+  --hockey: #1d8c84;
+  --motorsport: #d42020;
+
+  /* Medal colors */
+  --gold: #c9971a;
+  --silver: #9a9fa6;
+  --bronze: #b06a36;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -44,6 +68,20 @@
     --series-2: #d95926;
     --series-3: #199e70;
     --series-4: #c98500;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 4px 18px rgba(0, 0, 0, 0.25);
+    --tennis: #4cb46d;
+    --football: #4b8ef0;
+    --basketball: #f07a35;
+    --olympics: #3aa3e6;
+    --swimming: #2bb3dc;
+    --handball: #e5485c;
+    --rugby: #a07ad8;
+    --volleyball: #e8b923;
+    --hockey: #34b3a9;
+    --motorsport: #f05252;
+    --gold: #d6a730;
+    --silver: #a9aeb5;
+    --bronze: #c07a45;
   }
 }
 
@@ -64,7 +102,32 @@
   --series-2: #d95926;
   --series-3: #199e70;
   --series-4: #c98500;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 4px 18px rgba(0, 0, 0, 0.25);
+  --tennis: #4cb46d;
+  --football: #4b8ef0;
+  --basketball: #f07a35;
+  --olympics: #3aa3e6;
+  --swimming: #2bb3dc;
+  --handball: #e5485c;
+  --rugby: #a07ad8;
+  --volleyball: #e8b923;
+  --hockey: #34b3a9;
+  --motorsport: #f05252;
+  --gold: #d6a730;
+  --silver: #a9aeb5;
+  --bronze: #c07a45;
 }
+
+[data-sport="tennis"] { --sport: var(--tennis); }
+[data-sport="football"] { --sport: var(--football); }
+[data-sport="basketball"] { --sport: var(--basketball); }
+[data-sport="olympics"] { --sport: var(--olympics); }
+[data-sport="swimming"] { --sport: var(--swimming); }
+[data-sport="handball"] { --sport: var(--handball); }
+[data-sport="rugby"] { --sport: var(--rugby); }
+[data-sport="volleyball"] { --sport: var(--volleyball); }
+[data-sport="hockey"] { --sport: var(--hockey); }
+[data-sport="motorsport"] { --sport: var(--motorsport); }
 
 *,
 *::before,
@@ -97,34 +160,252 @@ a {
 }
 
 .kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   font-size: 13px;
-  font-weight: 600;
-  letter-spacing: 0.08em;
+  font-weight: 700;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: var(--ink-muted);
-  margin: 0 0 8px;
+  color: var(--ink-2);
+  margin: 0 0 14px;
+}
+
+/* A short rule in the sport's color before the section label. */
+.kicker::before {
+  content: "";
+  width: 22px;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--sport);
+}
+
+h1, h2, h3 {
+  text-wrap: balance;
+}
+
+:focus-visible {
+  outline: 2px solid var(--sport);
+  outline-offset: 2px;
+}
+
+/* ---------- Site navigation (built by theme.js) ---------- */
+
+.site-nav {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  height: var(--nav-h);
+  background: color-mix(in srgb, var(--page) 88%, transparent);
+  backdrop-filter: saturate(1.4) blur(10px);
+  -webkit-backdrop-filter: saturate(1.4) blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+
+.site-nav::after {
+  /* the current sport's color along the bottom edge */
+  content: "";
+  position: absolute;
+  inset: auto 0 -1px 0;
+  height: 2px;
+  background: var(--sport);
+  opacity: 0.85;
+}
+
+.nav-inner {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  height: 100%;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+  font-family: var(--display);
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--ink);
+  text-decoration: none;
+  white-space: nowrap;
+  margin-right: 8px;
+}
+
+.brand strong {
+  font-weight: 800;
+  color: var(--sport);
+}
+
+.nav-groups {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex: 1;
+  min-width: 0;
+}
+
+.nav-group {
+  position: relative;
+}
+
+.nav-group summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+
+.nav-group summary::-webkit-details-marker {
+  display: none;
+}
+
+.nav-group summary::after {
+  content: "";
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-left: 7px;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: translateY(-3px) rotate(45deg);
+  opacity: 0.6;
+}
+
+.nav-group summary:hover,
+.nav-group[open] summary {
+  background: var(--wash);
+  color: var(--ink);
+}
+
+.nav-group.active summary {
+  color: var(--ink);
+  box-shadow: inset 0 -2px 0 var(--sport);
+  border-radius: 8px 8px 0 0;
+}
+
+.nav-drop {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  min-width: 220px;
+  display: grid;
+  padding: 6px;
+  background: var(--surface-raised);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.18);
+}
+
+.nav-drop a {
+  padding: 7px 10px;
+  border-radius: 8px;
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.nav-drop a:hover {
+  background: var(--wash);
+}
+
+.nav-drop a[aria-current="page"] {
+  font-weight: 650;
+  box-shadow: inset 3px 0 0 var(--sport);
+}
+
+.nav-menu {
+  display: none;
+  margin-left: auto;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface-raised);
+  color: var(--ink);
+  cursor: pointer;
 }
 
 .theme-toggle {
-  position: fixed;
-  top: 12px;
-  right: 12px;
-  z-index: 20;
-  width: 36px;
-  height: 36px;
+  flex: none;
+  width: 34px;
+  height: 34px;
   border-radius: 50%;
   border: 1px solid var(--border);
   background: var(--surface-raised);
   color: var(--ink-2);
-  font-size: 16px;
+  font-size: 15px;
   cursor: pointer;
 }
 
+@media (max-width: 900px) {
+  .nav-menu {
+    display: inline-block;
+  }
+
+  /* On small screens the sports fold into a panel under the bar. */
+  .nav-groups {
+    display: none;
+    position: absolute;
+    top: var(--nav-h);
+    left: 0;
+    right: 0;
+    max-height: calc(100vh - var(--nav-h));
+    overflow-y: auto;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    padding: 8px var(--gutter) 16px;
+    background: var(--page);
+    border-bottom: 1px solid var(--border);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.15);
+  }
+
+  .site-nav.menu-open .nav-groups {
+    display: flex;
+  }
+
+  .nav-group summary {
+    padding: 10px 4px;
+    font-size: 16px;
+  }
+
+  .nav-group.active summary {
+    box-shadow: inset 3px 0 0 var(--sport);
+    padding-left: 10px;
+    border-radius: 0;
+  }
+
+  .nav-drop {
+    position: static;
+    min-width: 0;
+    box-shadow: none;
+    border: 0;
+    background: transparent;
+    padding: 0 0 8px 8px;
+  }
+}
+
+/* ---------- Footer ---------- */
+
 .site-footer {
   border-top: 1px solid var(--border);
-  margin-top: 64px;
-  padding-top: 24px;
-  padding-bottom: 48px;
+  margin-top: 80px;
+  padding-top: 28px;
+  padding-bottom: 56px;
   color: var(--ink-muted);
   font-size: 14px;
+  line-height: 1.6;
+}
+
+.site-footer strong {
+  color: var(--ink-2);
 }

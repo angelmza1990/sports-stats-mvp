@@ -1,24 +1,6 @@
 /* Olympic swimming: medal colors and the results table. */
 
-:root {
-  --gold: #c9971a;
-  --silver: #9a9fa6;
-  --bronze: #b06a36;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --gold: #d6a730;
-    --silver: #a9aeb5;
-    --bronze: #c07a45;
-  }
-}
-
-:root[data-theme="dark"] {
-  --gold: #d6a730;
-  --silver: #a9aeb5;
-  --bronze: #c07a45;
-}
+/* Medal colors (--gold, --silver, --bronze) are shared tokens in assets/theme.css. */
 
 .medal-dot {
   display: inline-block;

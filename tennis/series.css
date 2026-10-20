@@ -22,41 +22,6 @@
   color: inherit;
 }
 
-/* Stat tiles */
-
-.stat-row {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 12px;
-}
-
-.stat {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 16px;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  min-width: 0;
-}
-
-.stat .label {
-  font-size: 13px;
-  color: var(--ink-2);
-}
-
-.stat .value {
-  font-size: 32px;
-  font-weight: 650;
-  line-height: 1.1;
-}
-
-.stat .detail {
-  font-size: 13px;
-  color: var(--ink-muted);
-}
-
 /* Flags */
 
 .flag {
