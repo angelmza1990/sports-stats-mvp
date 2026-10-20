@@ -1,0 +1,516 @@
+{{Short description|Chess tournament}}
+{{For|the most recent championship|World Blitz Chess Championship 2025}}
+{{Multiple image
+| image1            = World Chess Championship 2021, game 07, Magnus Carlsen (cropped).jpg
+| footer            = Current World Blitz Champion, [[Magnus Carlsen]]
+| direction         = horizontal
+| total_width       = 300
+}}
+[[Image:Bibissara Assaubayeva photo.jpg|thumb|Current Women's World Blitz Chess Champion, [[Bibisara Assaubayeva]]]]
+
+The '''World Blitz Chess Championship''' is a [[chess tournament]] held to determine the world champion in [[chess]] played under [[Fast chess#Blitz|blitz]] [[time control]]s. Since 2012, [[FIDE]] has held an annual joint rapid and blitz chess tournament and billed it as the World Rapid & Blitz Chess Championships. The current world blitz champion is the [[Norway|Norwegian]] [[Grandmaster (chess)|Grandmaster]] [[Magnus Carlsen]]. Grandmaster [[Bibisara Assaubayeva]] from [[Kazakhstan]] is the current women's blitz world champion. [[Magnus Carlsen]] has held the title a record nine times.
+
+==Time controls==
+{{main|Fast chess}}
+For most championships up to 2008, the time limit was 5 minutes per game. Since the 2009 championships, the time limit has been 3 minutes plus a 2 second increment per move.
+
+==Early events==
+
+===Herceg Novi Blitz Tournament of 1970===
+
+On 8 April 1970, following the [[Russia (USSR) vs Rest of the World|USSR vs. Rest of the World]] 'Match of the Century' hosted in [[Belgrade]], Yugoslavia, a blitz tournament was held in [[Herceg Novi]], featuring many of the same participants from the match. The event was a 12-player double round-robin, with no tiebreaks and five minutes per player. Featuring four World Champions, the field was considered the strongest of any blitz tournament in modern history. Heading into the event, two-time World Champion Tigran Petrosian was considered the favorite to win the event, with Mikhail Tal and Viktor Korchnoi also enjoying favorable chances.<ref>{{cite web |url=http://theweekinchess.com/chessnews/events/world-blitz-2009 |title=TWIC: World Blitz Mini-Site 2009}}</ref>
+
+It was [[United States of America|American]] grandmaster Bobby Fischer, however, who put up a dominant performance, scoring 19/22 to win the tournament by 4½ points. Fischer scored 8½/10 against the five Soviet grandmasters in attendance, losing only one game in the entire tournament<ref>{{cite web |title=Herceg Novi blitz (1970) |url=https://www.chessgames.com/perl/chess.pl?tid=15864 |website=www.chessgames.com |access-date=31 December 2025}}</ref> and frequently gaining huge time advantages.{{fact|date=October 2025}} According to one report, Fischer spent no more than 2.5 minutes on any game.<ref>{{cite web |url=https://www.chess.com/blog/RookHouse/herceg-novi-1970 |title=Chess.com – Herceg-Novi 1970|date=9 May 2008 }}</ref> At the end of the tournament, runner-up Tal gave his thoughts on the American's performance.
+
+{{Blockquote|"I don't know what Petrosian, Korchnoi, Bronstein, and Smyslov counted on before the start of the tournament, but I expected them to be the most probable rivals for the top prizes. Fischer had until recently played fast chess none too strongly. Now much has changed: he is fine at fast chess. His playing is of the same kind as in tournament games: everything is simple, follows a single pattern, logical, and without any spectacular effects. He makes his moves quickly and practically without errors. Throughout the tournament I think he did not lose a whole set of pieces in this way. Fischer's result is very, very impressive."<ref>{{cite news|url=http://www.thechessdrum.net/blog/2012/03/16/bobbys-blitz-chess/ |title=The Chess Drum: Bobby's Blitz Chess|date=16 March 2012}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!style="width:20px" abbr="Rank"|Rk
+!style="width:200px"|Player
+!style="width:20px" abbr="Elo rating"|Rtg
+!style="width:20px" abbr="Points"|Pts
+|- style="background:#cfc"
+|1
+|style="text-align:left"|{{flagathlete|[[Bobby Fischer]]|USA}}
+|2720||19
+|- style="background:#f9f9f9"
+|2
+|style="text-align:left"|{{flagathlete|[[Mikhail Tal]]|URS}}
+|2590||14½
+|- style="background:#f9f9f9"
+|3
+|style="text-align:left"|{{flagathlete|[[Viktor Korchnoi]]|URS}}
+|2670||14
+|- style="background:#f9f9f9"
+|4
+|style="text-align:left"|{{flagathlete|[[Tigran Petrosian]]|URS}}
+|2650||13½
+|- style="background:#f9f9f9"
+|5
+|style="text-align:left"|{{flagathlete|[[David Bronstein]]|URS}}
+|2570||13
+|- style="background:#f9f9f9"
+|6
+|style="text-align:left"|{{flagathlete|[[Vlastimil Hort]]|CSR}}
+|2610||12
+|- style="background:#f9f9f9"
+|7
+|style="text-align:left"|{{flagathlete|[[Milan Matulović]]|YUG}}
+|2560||10½
+|- style="background:#f9f9f9"
+|8
+|style="text-align:left"|{{flagathlete|[[Vasily Smyslov]]|URS}}
+|2620||9½
+|- style="background:#f9f9f9"
+|9
+|style="text-align:left"|{{flagathlete|[[Samuel Reshevsky]]|USA}}
+|2590||8½
+|- style="background:#f9f9f9"
+|10
+|style="text-align:left"|{{flagathlete|[[Wolfgang Uhlmann]]|GDR}}
+|2570||8
+|- style="background:#f9f9f9"
+|11
+|style="text-align:left"|{{flagathlete|[[Borislav Ivkov]]|YUG}}
+|2570||7½
+|- style="background:#f9f9f9"
+|12
+|style="text-align:left"|{{flagathlete|[[Predrag Ostojić]]|YUG}}
+|2430||2
+|}
+
+===1988 World Blitz Championship===
+
+Following the Candidates' matches for the 1988 cycle, a World Blitz Championship was hosted in [[Saint John, New Brunswick]], Canada, on 19 February 1988. The event was a 32-player single-elimination tournament, with pairings determined by best-of-four matches. The field was headlined by long-time rivals Garry Kasparov and Anatoly Karpov, with the former considered the favorite to win the tournament. Notable participants included:
+
+{{colbegin}}
+# {{flagathlete|[[Garry Kasparov]]|URS}}, 2750
+# {{flagathlete|[[Anatoly Karpov]]|URS}}, 2715
+# {{flagathlete|[[Mikhail Tal]]|URS}}, 2630
+# {{flagathlete|[[Rafael Vaganian]]|URS}}, 2625
+# {{flagathlete|[[Jon Speelman]]|ENG}}, 2625
+# {{flagathlete|[[Artur Yusupov (chess player)|Artur Yusupov]]|URS}}, 2620
+# {{flagathlete|[[Yasser Seirawan]]|USA}}, 2595
+# {{flagathlete|[[Kiril Georgiev]]|BUL}}, 2595
+# {{flagathlete|[[Valery Salov]]|URS}}, 2595
+# {{flagathlete|[[Jaan Ehlvest]]|URS}}, 2585
+# {{flagathlete|[[Kevin Spraggett]]|CAN}}, 2580
+# {{flagathlete|[[Alexander Chernin]]|URS}}, 2560
+# {{flagathlete|[[Jesús Nogueiras]]|CUB}}, 2560
+# {{flagathlete|[[Maxim Dlugy]]|USA}}, 2550
+# {{flagathlete|[[Margeir Pétursson]]|ISL}}, 2540
+# {{flagathlete|[[Michael Wilder]]|USA}}, 2535
+# {{flagathlete|[[Roman Dzindzichashvili]]|URS}}, 2530
+# {{flagathlete|[[Branko Damljanović]]|YUG}}, 2525
+# {{flagathlete|[[Helgi Ólafsson]]|ISL}}, 2510
+# {{flagathlete|[[Igor Ivanov (chess player)|Igor Ivanov]]|CAN}}, 2505
+# {{flagathlete|[[Aivars Gipslis]]|URS}}, 2505
+# {{flagathlete|[[Attila Grószpéter]]|HUN}}, 2495
+# {{flagathlete|[[Bogdan Lalić]]|YUG}}, 2495
+# {{flagathlete|[[Joseph Gallagher]]|ENG}}, 2480
+{{colend}}
+
+Former world champion Anatoly Karpov fell out of contention for the championship in just the second round, after dropping his first two games against fellow Soviet grandmaster Alexander Chernin. Reigning world champion Garry Kasparov steamed ahead into the quarterfinals but lost momentum after missing an elementary mate in two against [[Bulgaria]]n grandmaster Kiril Georgiev, instead blundering stalemate;<ref>{{cite web |url=http://www.chessgames.com/perl/chessgame?gid=1258478 |title=Chessgames.com – Garry Kasparov vs Kiril Dimitrov Georgiev}}</ref> a stunned Kasparov was subsequently knocked out of the tournament. In the final, Mikhail Tal clinched the championship with a 3½–½ victory over [[Armenia]]n grandmaster Rafael Vaganian.<ref>{{cite web |url=http://www.365chess.com/tournaments/Wch-blitz_1988/20847 |title=365Chess.com – Wch-blitz 1988}}</ref><ref>{{cite web |url=https://apnews.com/1ff9e812e7ddf3b78d47be70d0ec351e |title=World Champion Eliminated From Blitz Chess Tournament |first=David |last=Goodman |author-link=David S. Goodman |website=[[Associated Press]] |date=February 20, 1988 |access-date=January 26, 2017}}</ref>
+
+{{8TeamBracket
+| team-width=200
+| RD3=Final
+| RD1-seed1=
+| RD1-team1={{flagicon|URS}} Garry Kasparov
+| RD1-score1=1
+| RD1-seed2=
+| RD1-team2={{flagicon|BUL}} Kiril Georgiev
+| RD1-score2='''3'''
+| RD1-seed3=
+| RD1-team3={{flagicon|URS}} Rafael Vaganian
+| RD1-score3='''3'''
+| RD1-seed4=
+| RD1-team4={{flagicon|USA}} Michael Wilder
+| RD1-score4=0
+| RD1-seed5=
+| RD1-team5={{flagicon|URS}} Jaan Ehlvest
+| RD1-score5=1
+| RD1-seed6=
+| RD1-team6={{flagicon|URS}} Alexander Chernin
+| RD1-score6='''3'''
+| RD1-seed7=
+| RD1-team7={{flagicon|URS}} Mikhail Tal
+| RD1-score7='''3'''
+| RD1-seed8=
+| RD1-team8={{flagicon|URS}} Artur Jussupow
+| RD1-score8=0
+| RD2-seed1=
+| RD2-team1={{flagicon|BUL}} Kiril Georgiev
+| RD2-score1=3½
+| RD2-seed2=
+| RD2-team2={{flagicon|URS}} Rafael Vaganian
+| RD2-score2='''4½'''
+| RD2-seed3=
+| RD2-team3={{flagicon|URS}} Alexander Chernin
+| RD2-score3=1½
+| RD2-seed4=
+| RD2-team4={{flagicon|URS}} Mikhail Tal
+| RD2-score4='''2½'''
+| RD3-seed1=
+| RD3-team1={{flagicon|URS}} Rafael Vaganian
+| RD3-score1=½
+| RD3-seed2=
+| RD3-team2={{flagicon|URS}} Mikhail Tal
+| RD3-score2='''3½'''
+}}
+
+Mikhail Tal, the 51-year-old former World Champion, breezed through the final rounds with 5½/7. Joining him in the finals was Rafael Vaganian, who survived a controversial semifinal against Kiril Georgiev; the Armenian nearly punched his clock after making an illegal move in Game 2, an accusation that was eventually refuted after match officials resorted to a video review and found that Vaganian's hand had stopped just short of touching the clock. The final was a one-sided affair, with Tal repeatedly utilizing exchange sacrifices to find winning combinations; down 3–0 after three games, Vaganian offered his hand in the 4th game to concede the match to Tal. After the match, Tal claimed he took the event "none too seriously"; he chain-smoked throughout the tournament, and his "preparation" for the semifinal match against Chernin reportedly consisted of a double scotch.<ref>{{cite news |url=https://www.si.com/vault/1988/03/28/117395/your-move-and-make-it-snappy |title=SPORTS ILLUSTRATED – Your Move, and Make It Snappy (1988)|newspaper=Vault }}</ref><ref>{{cite web |url=http://www.worldchessnetwork.com/English/chessHistory/salute/kings/tal.php#selection-2647.1-2650.0 |archive-url=https://archive.today/20050312101636/http://www.worldchessnetwork.com/English/chessHistory/salute/kings/tal.php#selection-2647.1-2650.0 |url-status=dead |archive-date=2005-03-12 |title=21-Player Salute: Mikhail Nekhemyevich Tal}}</ref>
+
+{| class="wikitable"
+|+1988 World Blitz Championship – Final
+!Name!!Rating!!1!!2!!3!!4!!Total
+|- align=center style="background:#ccffcc;"
+| align=left | {{flagathlete|Mikhail Tal|URS}}
+| '''2630'''
+| style="background:black; color:white" | 1
+| style="background:white; color:black" | 1
+| style="background:black; color:white" | 1
+| style="background:white; color:black" | ½
+| '''3½'''
+|- align=center
+| align=left | {{flagathlete|Rafael Vaganian|URS}}
+| 2625
+| style="background:white; color:black" | 0
+| style="background:black; color:white" | 0
+| style="background:white; color:black" | 0
+| style="background:black; color:white" | ½
+| ½
+|}
+
+===2000 World Blitz Chess Cup===
+
+The '''Plus GSM World Blitz Cup''' was a 367-player [[Swiss-system tournament]] held in [[Warsaw]], Poland, on 9 January 2000. Hosted at the Warsaw Polonia Chess Club, the event consisted of 11 rounds, with each match comprising two 5-minute games for a total of 22 games per player. Indian grandmaster [[Vishwanathan Anand]], the tournament's No. 1 seed, triumphed over a strong field that included 70 Grandmasters<ref>{{cite web |url=http://www.chess-mate.com/warsaw.htm |title=Vishy Anand Strikes At Warsaw: Rapid King Also Blitz King|archive-url=https://web.archive.org/web/20010424165718/http://www.chess-mate.com/warsaw.htm|archive-date=2001-04-24}}</ref> and nine of the world's top-20 ranked players with a 17½/22 score. Anand's run saw him pick up 14 wins, 7 draws, and only 1 loss, highlighted by a 43-move win with the black pieces against [[Anatoly Karpov]].<ref>{{cite web |url=http://www.chessgames.com/perl/chessgame?gid=1296408 |title=Chessgames.com – Anatoly Karpov vs. Viswanathan Anand, GSM World Blitz Cup 2000}}</ref> The tournament's sponsor, ''Plus GSM'', set aside  a $30,500 prize fund for the event as well as [[Nokia]] mobile communicators to be given to the top four finishers and the two top Polish players.<ref>{{cite web |url=http://theweekinchess.com/html/twic270.html#8 |title=TWIC: World Blitz Cup 2000}}</ref><ref>{{cite web |url=http://szachowavistula.pl/vistula/plgsmbl.htm |title=Plus GSM World Blitz Chess Cup – ORGANIZERS' REGULATIONS}}</ref>
+
+{{Chess diagram
+| floatright
+|Karpov vs. Anand, World Blitz Cup
+|  |  |rd|  |  |  |kd|  
+|  |rd|  |  |  |  |pd|pd
+|  |  |  |  |  |pd|  |  
+|  |  |bd|pl|pl|  |  |  
+|  |  |  |  |  |pl|  |  
+|  |pd|pd|  |  |  |pl|  
+|  |  |  |  |rl|rl|kl|pl
+|  |  |bl|  |  |  |  |  
+| Final position 
+}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!style="width:20px" abbr="Rank"|Rk
+!style="width:200px"|Player
+!style="width:20px" abbr="Elo rating"|Rtg
+!style="width:20px" abbr="Points"|Pts
+!style="width:20px" abbr="Tie-break 1"|TB1
+!style="width:20px" abbr="Tie-break 2"|TB2
+!style="width:20px" abbr="Tie-break 3"|TB3
+|- style="background:#cfc"
+|1
+|style="text-align:left"|{{flagathlete|'''[[Viswanathan Anand]]'''|IND}}
+|2769||'''17½'''||137½||166||114½
+|- style="background:#f9f9f9"
+|2
+|style="text-align:left"|{{flagathlete|[[Boris Gelfand]]|ISR}}
+|2692||17||136½||166||110
+|- style="background:#f9f9f9"
+|3
+|style="text-align:left"|{{flagathlete|[[Anatoly Karpov]]|RUS}}
+|2696||17||136||164||114½
+|- style="background:#f9f9f9"
+|4
+|style="text-align:left"|{{flagathlete|[[Vladimir Akopian]]|ARM}}
+|2660||17||132½||160½||108
+|- style="background:#f9f9f9"
+|5
+|style="text-align:left"|{{flagathlete|[[Vasyl Ivanchuk]]|UKR}}
+|2709||17||132||160||105½
+|- style="background:#f9f9f9"
+|6
+|style="text-align:left"|{{flagathlete|[[Michael Adams (chess player)|Michael Adams]]|ENG}}
+|2715||17||129||154||102½
+|- style="background:#f9f9f9"
+|7
+|style="text-align:left"|{{flagathlete|[[Vladimir Epishin]]|RUS}}
+|2667||17||125½||152½||104
+|- style="background:#f9f9f9"
+|8
+|style="text-align:left"|{{flagathlete|[[Vladislav Tkachiev]]|FRA}}
+|2670||16½||134½||164||107½
+|- style="background:#f9f9f9"
+|9
+|style="text-align:left"|{{flagathlete|[[Zdenko Kožul]]|CRO}}
+|2597||16½||133||160||105½
+|- style="background:#f9f9f9"
+|10
+|style="text-align:left"|{{flagathlete|[[Peter Svidler]]|RUS}}
+|2672||16½||132½||162||107½
+|- style="background:#f9f9f9"
+|11
+|style="text-align:left"|{{flagathlete|[[Alexei Shirov]]|ESP}}
+|2751||16½||132½||160||109½
+|- style="background:#f9f9f9"
+|12
+|style="text-align:left"|{{flagathlete|[[Andrei Shchekachev]]|RUS}}
+|2509||16½||128½||157½||101
+|- style="background:#f9f9f9"
+|13
+|style="text-align:left"|{{flagathlete|[[Mikulas Manik]]|SVK}}
+|2469||16½||128||156||104
+|- style="background:#f9f9f9"
+|14
+|style="text-align:left"|{{flagathlete|[[Rafael Vaganian]]|ARM}}
+|2618||16½||125½||153||99
+|- style="background:#f9f9f9"
+|15
+|style="text-align:left"|{{flagathlete|[[Robert Kempiński]]|POL}}
+|2528||16½||125½||149½||102
+|- style="background:#f9f9f9"
+|16
+|style="text-align:left"|{{flagathlete|[[Alexey Korotylev]]|RUS}}
+|2477||16½||122||150½||103
+|- style="background:#f9f9f9"
+|17
+|style="text-align:left"|{{flagathlete|[[Kiril Georgiev]]|BUL}}
+|2677||16||134½||161||105
+|- style="background:#f9f9f9"
+|18
+|style="text-align:left"|{{flagathlete|[[Aleksej Aleksandrov]]|BLR}}
+|2606||16||124||152½||104
+|- style="background:#f9f9f9"
+|19
+|style="text-align:left"|{{flagathlete|[[Sergey Kasparov]]|BLR}}
+|2465||16||123||150½||96½
+|- style="background:#f9f9f9"
+|20
+|style="text-align:left"|{{flagathlete|[[Paweł Blehm]]|POL}}
+|2494||16||123||149||101½
+|}
+
+==FIDE-recognized events==
+
+===FIDE World Blitz Championship (2006–2010)===
+
+The first blitz chess tournament to be recognized by FIDE as a "world championship" took place on 6 September 2006 in [[Rishon Lezion]], Israel. Structured as a 16-player round-robin, the tournament featured seven of the world's top 20 Grandmasters, as well as a young [[Magnus Carlsen]]. After 15 rounds, [[Alexander Grischuk]] and [[Peter Svidler]] finished atop the leaderboard with 10½/15; Grischuk subsequently defeated Svidler with Black in an [[Fast chess#Armageddon|armageddon]] game to win the championship.<ref>{{cite web |url=https://en.chessbase.com/post/grischuk-wins-fide-world-blitz-championship |title=CB News: Grischuk wins FIDE World Blitz Championship|date=12 September 2006}}</ref> 
+
+In 2007, the tournament (now branded as the FIDE World Blitz Cup) was held in Moscow, Russia following the [[Tal Memorial]] tournament and was re-structured as a 20-player double-round robin with a significantly stronger field. After Ukrainian grandmaster [[Vasyl Ivanchuk]] and Indian grandmaster [[Viswanathan Anand]] entered the final round tied on points, Ivanchuk defeated Anand from a disadvantaged position to win the tournament with 25½/38.<ref>{{cite web |url=http://theweekinchess.com/html/twic681.html#3 |title=TWIC 681: FIDE World Blitz Cup}}</ref>
+
+In 2008, the tournament was dubbed the IV World Blitz 2008. It reverted to a 16-player round-robin, and the time limit was 5 minutes per game.<ref>[https://theweekinchess.com/html/twic731.html The Week in Chess 731], [[The Week in Chess]], 10 November, 2008</ref> Despite a late charge from the defending champion Ivanchuk, who won seven of the final eight rounds, the tournament was won by [[Leinier Domínguez]], a 25-year-old GM from Cuba who scored 11½/15 to edge out Ivanchuk by a half-point.<ref>{{cite web |url=https://en.chessbase.com/post/dominguez-perez-wins-world-blitz-championship-in-almaty |title=Dominguez-Perez wins World Blitz Championship in Almaty|date=8 November 2008}}</ref> 
+
+In 2009, the championship returned to Moscow, where the format was once again switched to a 22-player double round-robin with revised time controls of 3 minutes per player plus a 2-second increment. The event was won by the young Norwegian [[chess prodigy]] [[Magnus Carlsen]], who finished three points clear of the field with 31/42 and went 8/8 against the 2nd through 5th-place finishers.<ref>{{cite web |url=https://en.chessbase.com/post/world-blitz-championship-carlsen-wins-by-three-point-margin |title=World Blitz Championship: Carlsen wins by three-point margin|date=18 November 2009}}</ref>
+
+2010 would prove to be the final year of the event – hosted again in Moscow, the tournament was dubbed the VI World Blitz 2010 and held immediately after the [[Tal Memorial]] tournament. Despite losing both his final games, [[Armenia]]n Grandmaster [[Levon Aronian]] was able to clinch the title with 24½/38, half a point ahead of [[Teimour Radjabov]].<ref>{{cite web |url=https://en.chessbase.com/post/aronian-wins-world-blitz-championship |title=CB News: Aronian wins World Blitz Championship|date=18 November 2010}}</ref>  In November 2010, a nine-round Swiss tournament was scheduled for February 17, 2011, to serve as a qualifying event for the World Blitz Championship 2011; however, after no bids for the event were made the tournament was eventually cancelled.<ref>{{cite web |url=http://en.chessbase.com/portals/4/files/news/2010/Aeroflot%20Open%202011%20Regulations%20(eng).pdf |title=Information and Regulations of the International Chess Open Festival "AEROFLOT OPEN 2011" and the Qualification Tournament for the World Blitz Championship 2011}}</ref>
+
+====Editions and medallists====
+{| class="wikitable"
+|-
+! Year
+! Host city
+! Champion
+! Runner-up
+! Third place
+|-
+| 2006 || {{flagicon|ISR}} [[Rishon Lezion]] || {{flagathlete|'''[[Alexander Grischuk]]'''|RUS}} || {{flagathlete|[[Peter Svidler]]|RUS}} || {{flagathlete|[[Teimour Radjabov]]|AZE}}
+|-
+| 2007 || {{flagicon|RUS}} Moscow || {{flagathlete|'''[[Vasyl Ivanchuk]]'''|UKR}} || {{flagathlete|[[Viswanathan Anand]]|IND}} || {{flagathlete|Alexander Grischuk|RUS}}
+|-
+| 2008 || {{flagicon|KAZ}} [[Almaty]] || {{flagathlete|'''[[Leinier Domínguez]]'''|CUB}} || {{flagathlete|Vasyl Ivanchuk|UKR}} || {{flagathlete|Peter Svidler|RUS}}
+|-
+| 2009 || {{flagicon|RUS}} Moscow || {{flagathlete|'''[[Magnus Carlsen]]'''|NOR}} || {{flagathlete|Viswanathan Anand|IND}} || {{flagathlete|[[Sergey Karjakin]]|RUS}} 
+|-
+| 2010 || {{flagicon|RUS}} Moscow || {{flagathlete|'''[[Levon Aronian]]'''|ARM}} || {{flagathlete|Teimour Radjabov|AZE}} || {{flagathlete|Magnus Carlsen|NOR}}
+|}
+
+===World Rapid & Blitz Chess Championships (since 2012)===
+
+On May 31, 2012, FIDE announced the inaugural World Rapid & Blitz Championships, set to take place in [[Astana]], [[Kazakhstan]], from July 1 to 11. The 2012 tournament consisted of a qualifying round, followed by the rapid and blitz events held consecutively over five days. The championship was originally structured as a 16-player [[round-robin tournament]], set to coincide with the first release of FIDE's rapid and blitz ratings in July 2012; invited were the top 9 players in the FIDE ratings list, the defending champion [[Levon Aronian]], the three medalists of the qualification competition, and three wild-card nominees by the organization committee and FIDE.<ref>{{cite web |url=https://www.fide.com/FIDE/handbook/Regulations_World_Blitz_2012.pdf |title=Regulations for the World Blitz Chess Championship 2012}}</ref> The event has since been changed to a [[Swiss tournament]] with a field of over 100 grandmasters. The top three finishers in the standings are awarded gold, silver, and bronze medals respectively; tiebreaks are determined by the average rating of opponents.<ref>{{cite web |url=https://www.fide.com/FIDE/handbook/WorldRapidBlitzChampionshipsRegulations.pdf |title=Regulations for the FIDE World Blitz Championship 2015}}</ref>
+
+The World Rapid & Blitz Chess Championships 2020 was postponed to 2021 because of the COVID-19 pandemic.<ref>{{cite web |url=https://www.fide.com/news/773 |title=World Rapid and Blitz Championship postponed to 2021}}</ref> It was planned to be held in [[Kazakhstan]] in December 2021; however, due to new regulations imposed by the Kazakh government, which would have required many participants to quarantine, the event had to be cancelled again on December 8, 2021. FIDE was considering to either hold the event in Kazakhstan in 2022, or to move it to a different host country.<ref>{{cite web|url=https://www.fide.com/news/1470|title=FIDE World Rapid & Blitz Championships will not be held in Kazakhstan in December|date=8 December 2021|access-date=8 December 2021|publisher=[[FIDE]]}}</ref> On December 10, 2021, [[Warsaw]], Poland was announced as the new host city, with the tournament taking place from December 25–30, 2021.<ref name="Warsaw2021">{{cite web|url=https://www.fide.com/news/1473|title=World Rapid & Blitz 2021 to be held in Warsaw, Poland|date=10 December 2021|access-date=10 December 2021|publisher=[[FIDE]]}}</ref>
+
+===Editions and medallists===
+====Open====
+{| class="wikitable"
+|+ World Blitz Chess Championships (since 2012)
+|-
+! Year
+! Host city
+! Champion(s)
+! Runner-up
+! Third place
+|-
+| 2012 || {{flagicon|KAZ}} [[Astana]] || {{flagathlete|'''[[Alexander Grischuk]]'''|RUS}} || {{flagathlete|[[Magnus Carlsen]]|NOR}} || {{flagathlete|[[Sergey Karjakin]]|RUS}}
+|-
+| 2013 || {{flagicon|RUS}} [[Khanty-Mansiysk]] || {{flagathlete|'''[[Lê Quang Liêm]]'''|VIE}} || {{flagathlete|[[Alexander Grischuk]]|RUS}} || {{flagathlete|[[Ruslan Ponomariov]]|UKR}} 
+|-
+| 2014 || {{flagicon|UAE}} [[Dubai]] || {{flagathlete|'''[[Magnus Carlsen]]'''|NOR}} || {{flagathlete|[[Ian Nepomniachtchi]]|RUS}} || {{flagathlete|[[Hikaru Nakamura]]|USA}} 
+|-
+| 2015 || {{flagicon|GER}} [[Berlin]] || {{flagathlete|'''[[Alexander Grischuk]]'''|RUS}} || {{flagathlete|[[Maxime Vachier-Lagrave]]|FRA}} || {{flagathlete|[[Vladimir Kramnik]]|RUS}} 
+|-
+| 2016 || {{flagicon|QAT}} [[Doha]]<ref name="fide.com">{{cite web |url=https://www.fide.com/component/content/article/1-fide-news/9975-fide-world-rapid-a-blitz-championships-winners-of-rapid.html |title=The winners of FIDE World Rapid & Blitz Championships |access-date=2017-01-10 |archive-date=2020-01-01 |archive-url=https://web.archive.org/web/20200101093356/https://www.fide.com/component/content/article/1-fide-news/9975-fide-world-rapid-a-blitz-championships-winners-of-rapid.html |url-status=dead }}</ref> || {{flagathlete|'''[[Sergey Karjakin]]'''|RUS}} || {{flagathlete|[[Magnus Carlsen]]|NOR}} || {{flagathlete|[[Daniil Dubov]]|RUS}}
+|-
+| 2017 || {{flagicon|SAU}} [[Riyadh]]<ref name="bbc.com">{{cite news |title=Saudi chess tournament starts without Israeli players |website=[[BBC News]] |date=26 December 2017 |archive-url=https://web.archive.org/web/20190826195146/https://www.bbc.com/news/world-middle-east-42484987?ocid=global_bbccom_email_26122017_top%20news%20stories |archive-date=2019-08-26 |url-status=live |url=https://www.bbc.com/news/world-middle-east-42484987?ocid=global_bbccom_email_26122017_top+news+stories}}</ref> || {{flagathlete|'''[[Magnus Carlsen]]'''|NOR}} || {{flagathlete|[[Sergey Karjakin]]|RUS}} || {{flagathlete|[[Viswanathan Anand]]|IND}}
+|-
+| 2018 || {{flagicon|RUS}} [[Saint Petersburg]] || {{flagathlete|'''[[Magnus Carlsen]]'''|NOR}} || {{flagathlete|[[Jan-Krzysztof Duda]]|POL}} || {{flagathlete|[[Hikaru Nakamura]]|USA}}
+|-
+| 2019 || {{flagicon|RUS}} [[Moscow]] || {{flagathlete|'''[[Magnus Carlsen]]'''|NOR}} || {{flagathlete|[[Hikaru Nakamura]]|USA}} || {{flagathlete|[[Vladimir Kramnik]]|RUS}}
+|-
+| 2020 || colspan=4 align=center| Not held due to [[COVID-19 pandemic]]
+|-
+| [[World Blitz Chess Championship 2021|2021]] || {{flagicon|POL}} [[Warsaw]]<ref name="Warsaw2021"/> || {{flagathlete|'''[[Maxime Vachier-Lagrave]]'''|FRA}} || {{flagathlete|[[Jan-Krzysztof Duda]]|POL}} || {{flagathlete|[[Alireza Firouzja]]|FRA}}
+|-
+| [[World Blitz Chess Championship 2022|2022]] || {{flagicon|KAZ}} [[Almaty]] || {{flagathlete|'''[[Magnus Carlsen]]'''|NOR}} || {{flagathlete|[[Hikaru Nakamura]]|USA}} || {{flagathlete|[[Haik M. Martirosyan]]|ARM}}
+|-
+| [[World Blitz Chess Championship 2023|2023]] || {{flagicon|UZB}} [[Samarkand]]|| {{flagathlete|'''[[Magnus Carlsen]]'''|NOR}} || {{flagicon|FIDE}} [[Daniil Dubov]]<ref name="FIDE" group="n"/> {{Font|{{abbr|(FIDE)|FIDE}}|size=90%}} || {{flagicon|FIDE}} [[Vladislav Artemiev]]<ref name="FIDE" group="n"/> {{Font|{{abbr|(FIDE)|FIDE}}|size=90%}}
+|-
+| [[World Blitz Chess Championship 2024|2024]] || {{flagicon|USA}} [[New York City|New York]]<ref name="ny2024">{{cite web|url=https://www.chess.com/news/view/2024-fide-world-rapid-blitz-chess-championships-held-in-new-york#:~:text=The%202024%20FIDE%20World%20Rapid,over%2Dthe%2Dboard%20annually.|title=2024 FIDE World Rapid & Blitz Championships To Be Held In New York|date=June 17, 2024}}</ref> || {{flagathlete|'''[[Magnus Carlsen]]'''|NOR}}<br>{{flagathlete|'''[[Ian Nepomniachtchi]]'''<ref name="FIDE" group="n"/>|FIDE}}
+| N/A || {{flagathlete|[[Jan-Krzysztof Duda]]|POL}}<br>{{flagathlete|[[Wesley So]]|USA}}
+|-
+| [[World Blitz Chess Championship 2025|2025]] || {{flagicon|QAT}} [[Doha]]<ref name="doha2025">{{cite web|url=https://www.fide.com/fide-world-r-b-championships-2025-to-be-held-in-doha-qatar/|title=FIDE World R & B Championships 2025 to be Held in Doha, Qatar|date=23 January 2025}}</ref> || {{flagathlete|'''[[Magnus Carlsen]]'''|NOR}}|| {{flagathlete|[[Nodirbek Abdusattorov]]|UZB}}|| {{flagathlete|[[Fabiano Caruana]]|USA}}<br>{{flagathlete|[[Arjun Erigaisi]]|IND}}
+|}
+
+
+====Women====
+{| class="wikitable"
+|+ Women's World Blitz Chess Championships (since 2012)
+|-
+! Year
+! Host city
+! Champion
+! Runner-up
+! Third place
+|-
+| 2012 || {{flagicon|GEO}} [[Batumi]]<ref>{{cite web |last1=georgian chess federation |title=Women's World Blitz Championship 2012 |url=http://chess-results.com/tnr73553.aspx?lan=1&art=4&turdet=YES&flag=30 |website=Chess-Results |access-date=2 January 2019}}</ref> || {{flagathlete|'''[[Valentina Gunina]]'''|RUS}} || {{flagathlete|[[Natalia Zhukova]]|UKR}} || {{flagathlete|[[Anna Muzychuk]]|SLO}}
+|-
+| 2013 || colspan=4 align=center| Not held
+|-
+| 2014 || {{flagicon|RUS}} [[Khanty-Mansiysk]]<ref>{{cite web |title=FIDE World Blitz Chess Championship 2014 |url=https://www.fide.com/images/stories/final_standings/2014/FIDE_World_Womens_Blitz_Chess_Championship_2014.pdf |website=FIDE |access-date=2 January 2019}}</ref> || {{flagathlete|'''[[Anna Muzychuk]]'''|SLO}} || {{flagathlete|[[Nana Dzagnidze]]|GEO}} || {{flagathlete|[[Tatiana Kosintseva]]|RUS}} 
+|-
+| 2015 || colspan=4 align=center| Not held
+|-
+| 2016 || {{flagicon|QAT}} [[Doha]]<ref>{{cite web |last1=chess house |title=FIDE Women World Blitz Ch. 2016 |url=http://chess-results.com/tnr255852.aspx?lan=1&art=4&turdet=YES&flag=30 |website=Chess-Results |access-date=2 January 2019}}</ref><ref name="fide.com"/> || {{flagathlete|'''[[Anna Muzychuk]]'''|UKR}} || {{flagathlete|[[Valentina Gunina]]|RUS}} || {{flagathlete|[[Kateryna Lagno]]|RUS}}
+|-
+| 2017 || {{flagicon|SAU}} [[Riyadh]]<ref>{{cite web |title=King Salman World Blitz Championship 2017 Women |url=http://chess-results.com/tnr323555.aspx?lan=1&art=4&turdet=YES&flag=30 |website=Chess-Results |access-date=2 January 2019}}</ref><ref name="bbc.com"/> || {{flagathlete|'''[[Nana Dzagnidze]]'''|GEO}} || {{flagathlete|[[Valentina Gunina]]|RUS}} || {{flagathlete|[[Ju Wenjun]]|CHN}}
+|-
+| 2018 || {{flagicon|RUS}} [[Saint Petersburg]]<ref>{{cite web |last1=Fedorov |first1=Vladimir |title=King Salman World Blitz Championship 2018 Women |url=http://chess-results.com/tnr399598.aspx?lan=1&art=4&flag=30 |website=Chess-Results |publisher=Swiss-Manager |access-date=2 January 2019}}</ref> || {{flagathlete|'''[[Kateryna Lagno]]'''|RUS}} || {{flagathlete|[[Sarasadat Khademalsharieh]]|IRI}} || {{flagathlete|[[Lei Tingjie]]|CHN}}
+|-
+| 2019 || {{flagicon|RUS}} [[Moscow]] || {{flagathlete|'''[[Kateryna Lagno]]'''|RUS}} || {{flagathlete|[[Anna Muzychuk]]|UKR}} || {{flagathlete|[[Tan Zhongyi]]|CHN}} 
+|-
+| 2020 || colspan=4 align=center| Not held due to [[COVID-19 pandemic]]
+|-
+| [[World Blitz Chess Championship 2021|2021]] || {{flagicon|POL}} [[Warsaw]]<ref name="Warsaw2021"/> || {{flagathlete|'''[[Bibisara Assaubayeva]]'''|KAZ}} || {{flagicon image|CFR Russia chess simplified flag infobox.svg}} [[Alexandra Kosteniuk]]<ref name="CFR" group="n">Kosteniuk and Gunina are Russians, but they competed under the [[Chess Federation of Russia]] flag, due to [[World Anti-Doping Agency|WADA]] sanctions against Russia.</ref> {{Font|{{abbr|(CFR)|Chess Federation of Russia}}|size=90%}} || {{flagicon image|CFR Russia chess simplified flag infobox.svg}} [[Valentina Gunina]]<ref name="CFR" group="n"/> {{Font|{{abbr|(CFR)|Chess Federation of Russia}}|size=90%}}
+|-
+| [[World Blitz Chess Championship 2022|2022]] || {{flagicon|KAZ}} [[Almaty]]<ref>{{cite web |title=WOMEN BLITZ - FIDE World Rapid and Blitz 2022 |url=https://worldrapidandblitz2022.fide.com/women-blitz/https://worldrapidandblitz2022.fide.com/women-blitz |website=FIDE |access-date=20 December 2022}}</ref> || {{flagathlete|'''[[Bibisara Assaubayeva]]'''|KAZ}} || {{flagathlete|[[Koneru Humpy]]|IND}} || {{flagicon|FIDE}} [[Polina Shuvalova]]<ref name="FIDE" group="n">Dubov, Artemiev, Nepomniachtchi, Shuvalova, Gunina and Lagno are Russians, but they competed under the [[FIDE]] flag due to the organization's ban of the Russian and Belarusian flags as part of its response to the 2022 [[Russian invasion of Ukraine]].</ref> {{Font|{{abbr|(FIDE)|FIDE}}|size=90%}}
+|-
+| [[World Blitz Chess Championship 2023|2023]] || {{flagicon|UZB}} [[Samarkand]]|| {{flagicon|FIDE}} '''[[Valentina Gunina]]'''<ref name="FIDE" group="n"/> {{Font|{{abbr|(FIDE)|FIDE}}|size=90%}} || {{flagathlete|[[Alexandra Kosteniuk]]|SUI}} || {{flagathlete|[[Zhu Jiner]]|CHN}}
+|-
+| [[World Blitz Chess Championship 2024|2024]] || {{flagicon|USA}} [[New York City|New York]]<ref name="ny2024">{{cite web|url=https://www.chess.com/news/view/2024-fide-world-rapid-blitz-chess-championships-held-in-new-york#:~:text=The%202024%20FIDE%20World%20Rapid,over%2Dthe%2Dboard%20annually.|title=2024 FIDE World Rapid & Blitz Championships To Be Held In New York|date=June 17, 2024}}</ref> || '''{{flagathlete|[[Ju Wenjun]]'''|CHN}} || {{flagathlete|[[Lei Tingjie]]|CHN}} || {{flagicon|FIDE}} [[Kateryna Lagno]]<ref name="FIDE" group="n" /> {{Font|{{abbr|(FIDE)|FIDE}}|size=90%}}<br>{{flagathlete|[[Vaishali Rameshbabu]]|IND}}
+|-
+| [[World Blitz Chess Championship 2025|2025]] || {{flagicon|QAT}} [[Doha]]<ref name="doha2025" /> || {{flagathlete|'''[[Bibisara Assaubayeva]]'''|KAZ}} ||{{flagathlete|[[Anna Muzychuk]]|UKR}} || {{flagathlete|[[Eline Roebers]]|NED}}<br>{{flagathlete|[[Zhu Jiner]]|CHN}}
+|}
+
+
+== Records ==
+=== Titles (open) ===
+{| class="wikitable"
+|+Most Times Champion
+(including 1970, 1988 and 2000 events)
+!Times won
+!Player
+!Year(s)
+|-
+!9
+|{{flagathlete|'''[[Magnus Carlsen]]'''|NOR}}
+|2009, 2014, 2017, 2018, 2019, 2022, 2023, 2024 (shared), 2025
+|-
+!3
+|{{flagathlete|'''[[Alexander Grischuk]]'''|RUS}}
+|2006, 2012, 2015
+|-
+! rowspan="10" |1
+|{{flagathlete|'''[[Bobby Fischer]]'''|USA}}
+|1970
+|-
+|{{flagathlete|'''[[Mikhail Tal]]'''|USSR}}
+|1988
+|-
+|{{flagathlete|'''[[Viswanathan Anand]]'''|IND}}
+|2000
+|-
+|{{flagathlete|'''[[Vasyl Ivanchuk]]'''|UKR}}
+|2007
+|-
+|{{flagathlete|'''[[Leinier Domínguez]]'''|CUB}}
+|2008
+|-
+|{{flagathlete|'''[[Levon Aronian]]'''|ARM}}
+|2010
+|-
+|{{flagathlete|'''[[Lê Quang Liêm]]'''|VIE}}
+|2013
+|-
+|{{flagathlete|'''[[Sergey Karjakin]]'''|RUS}}
+|2016
+|-
+|{{flagathlete|'''[[Maxime Vachier-Lagrave]]'''|FRA}}
+|2021
+|-
+|{{flagathlete|'''[[Ian Nepomniachtchi]]'''<ref name="FIDE" group="n"/>|FIDE}}
+|2024 (shared)
+|}
+
+=== Titles (women) ===
+
+{| class="wikitable"
+|+Most Times Champion
+(including 1992 and 2010 events)
+!Titles won
+!Player
+!Year(s)
+|-
+! rowspan="2" |3
+|{{flagicon|UKR}} {{flagicon|RUS}} '''[[Kateryna Lagno]]''' {{Font|{{abbr|(UKR / RUS)|Ukraine / Russia}}|size=90%}}
+|2010, 2018, 2019
+|-
+|{{flagathlete|'''[[Bibisara Assaubayeva]]'''|KAZ}}
+|2021, 2022, 2025
+|-
+! rowspan="2" |2
+|{{flagicon|SLO}} {{flagicon|UKR}} '''[[Anna Muzychuk]]''' {{Font|{{abbr|(SLO / UKR)|Slovenia / Ukraine}}|size=90%}}
+|2014, 2016
+|-
+|{{flagicon|RUS}} {{flagicon|FIDE}} '''[[Valentina Gunina]]'''<ref name="FIDE" group="n"/> {{Font|{{abbr|(RUS / FIDE)|Russia / FIDE}}|size=90%}}
+|2012, 2023
+|-
+! rowspan="3" |1
+|{{flagathlete|'''[[Susan Polgar]]'''|HUN}}
+|1992
+|-
+|{{flagathlete|'''[[Nana Dzagnidze]]'''|GEO}}
+|2017
+|-
+|{{flagathlete|'''[[Ju Wenjun]]'''|CHN}}
+|2024
+|}
+
+==See also==
+*[[World Rapid Chess Championship]]
+* [[Fast chess]]
+
+==Notes==
+{{reflist|group=n}}
+
+==References==
+{{Reflist}}
+
+{{Chess international championships}}
+{{World Chess Championships}}
+{{Chess|state=collapsed}}
+
+[[Category:World Blitz Chess Championship| ]]
+[[Category:Fast chess competitions|blitz]]
+[[Category:World Chess Championships|Blitz]]

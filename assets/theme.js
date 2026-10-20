@@ -32,6 +32,7 @@
       ["handball/international/", "Handball"], ["rugby/international/", "Rugby"], ["volleyball/international/", "Volleyball"],
       ["hockey/international/", "Field hockey"],
     ] },
+    { sport: "chess", label: "Chess", pages: [["chess/", "Chess"]] },
     { sport: "motorsport", label: "Motorsport", pages: [["motorsport/formula-1/", "Formula 1"]] },
   ];
   // Sport accents follow the page's first folder (swimming pages count as Olympics in the menu).

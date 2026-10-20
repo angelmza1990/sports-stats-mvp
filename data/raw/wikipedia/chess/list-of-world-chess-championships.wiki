@@ -1,0 +1,823 @@
+{{Short description|none}}
+{{Featured list}}
+{{bots|deny=Citation bot}}
+{{Use dmy dates|date=February 2020}}
+{{Use Oxford spelling|date=January 2024}}
+[[File:Lasker v. Steinitz, Philadelphia 1894 - DPLA - 73af88bcf081f1869cb65ba48577e95a.jpg|thumb|Emanuel Lasker (left) facing incumbent champion Wilhelm Steinitz (right) in Philadelphia during the [[World Chess Championship 1894|1894 World Chess Championship]]|alt=Emanuel Lasker and Wilhelm Steinitz both sitting down at a chessboard during a game. Steinitz has the White pieces, and Lasker has the Black pieces.]]
+The [[World Chess Championship]] has taken various forms over time, including both [[Glossary of chess#match|match]] and [[tournament]] play. While the concept of a world champion of [[chess]] had already existed for decades, with several events considered by some to have established the world's foremost player, an event explicitly held to decide a world champion did not take place until 1886. World Championships were initially privately organized matches, with each requiring the consent of the incumbent champion to take place. After 1948, the [[International Chess Federation]] (FIDE) began organizing the Championship under its auspices. The championship was fixed to a three-year cycle, with each challenger decided by a [[Candidates Tournament]]. In 1993, the short-lived [[Professional Chess Association]] (PCA) split from FIDE, and as a result there were two competing World Championship titles between 1993 and 2006.
+
+== Key ==
+{|class="wikitable"
+|+ {{sronly|Key to symbols and headers}}
+! scope="row" | Date
+| The year the event took place, further disambiguated as needed
+|-
+! scope="row" style="text-align:center;background-color:#ffc" | †
+| Event was a tournament, as opposed to a match.
+|-
+! scope="row" style="text-align:center" | ‡
+| Event resulted in a draw, with the champion retaining the title.
+|-
+! scope="row" style="text-align:center;background-color:#ccc" | #
+| Scheduled event did not take place.
+|-
+! scope="row" style="text-align:center;background-color:#cff" | ✻
+| Event began, but was abandoned without any result.
+|-
+! scope="row" | Winner
+| The winner of the event, or the champion otherwise retaining the title. Numerals denote the updated number of event wins or title defences by the champion.
+|-
+! scope="row" | Score
+| The performance of the eventual champion. Segments such as tiebreaks are listed sequentially. Head-to-head tournament results are given in a footnote.
+|-
+! scope="row" | Runner-up
+| The second-place finisher of the event, or the challenger for a match without a winner
+|-
+! scope="row" | {{abbr|Ref|Reference}}
+| References and footnotes corresponding to the event
+|}
+
+== Predecessor events (before 1886) ==
+Chess was first introduced to Europe during the 9th century.{{sfn|Murray|1913|p=405}} In the early modern era, following the solidification of the modern [[rules of chess]], the game continued to carry consistent prestige and public interest.{{sfn|Murray|1913|pp=774–779}} While numerous players have been characterized as the game's strongest over the centuries, the idea of an international chess match or tournament did not occur until the 18th century,{{sfn|Murray|1913|p=845}} and did not materialize until the 19th century.{{sfn|Murray|1913|p=883}} While the following events did not have the title of World Champion at stake, they have been recognized either at the time or in retrospect as indicating the world's leading player.
+
+{| class="wikitable sortable"
+|+ {{sronly|Predecessor events prior to 1886}}
+! scope="col" | Date
+! scope="col" | Location
+! scope="col" | Winner
+! scope="col" class="unsortable" | Score
+! scope="col" | Runner-up
+! scope="col" class="unsortable" | Format
+! scope="col" class="unsortable" | {{abbr|Ref|Reference}}
+|-
+! [[La Bourdonnais–McDonnell chess matches|1834]]
+| {{flagicon|UK}} [[London]]
+| data-sort-value="La Bourdonnais, Louis" | {{flagicon|France|1794}} [[Louis-Charles Mahé de La Bourdonnais|Louis de La Bourdonnais]]
+| style="text-align:center" | 18{{2pd}}7{{Dashed rule}}4{{2pd}}5{{Dashed rule}}6½{{2pd}}5½{{Dashed rule}}11½{{2pd}}6½{{Dashed rule}}7½{{2pd}}4½{{Dashed rule}}4{{2pd}}5
+| data-sort-value="McDonnell, Alexander" | {{flagicon|UK}} [[Alexander McDonnell (chess player)|Alexander McDonnell]]
+| Casual play
+|<ref>{{multiref2 | {{Cite web |last=Pope |first=Nick |title=1834 La Bourdonnais–Macdonnell Matches |url=https://www.chessarch.com/archive/1834_La_Bourdonnais-Macdonnell_Matches/index.shtml |url-status=live |archive-url=https://web.archive.org/web/20230513130229/http://www.chessarch.com/archive/1834_La_Bourdonnais-Macdonnell_Matches/index.shtml |archive-date=13 May 2023 |access-date=16 January 2024 |publisher=Chess Archaeology |ref=none}} | {{harvnb|Capablanca|1977|p=47}} | {{harvnb|Sergeant|1934|p=39|loc="Labourdonnais by his victory might fairly be entitled to call himself the leading player of the world"}} }}</ref>
+|-
+! 1843
+| {{flagicon|France|1794}} [[Paris]]
+| data-sort-value="Staunton, Howard" | {{flagicon|UK}} [[Howard Staunton]]
+| style="text-align:center" | 13{{2pd}}8
+| data-sort-value="Saint-Amant, Pierre" | {{flagicon|France|1794}} [[Pierre Saint-Amant]]
+| First to 11 wins
+|<ref>{{multiref2 | {{Cite web |last=Wall |first=Bill |date=16 August 2007 |title=Staunton Beats a Saint |url=https://www.chess.com/article/view/staunton-beats-a-saint |url-status=live |archive-url=https://web.archive.org/web/20230205201210/https://www.chess.com/article/view/staunton-beats-a-saint |archive-date=5 February 2023 |website=Chess.com}} | {{harvnb|Horowitz|1973|p=3}} | {{harvnb|Harding|2012|pp=43–46}} }}</ref>
+|- style="background-color:#ffc"
+! scope="row" style="background-color:#ffc" | [[London 1851 chess tournament|1851]]†
+| {{flagicon|UK}} London
+| data-sort-value="Anderssen, Adolf" | {{flagicon|Prussia|1803}} [[Adolf Anderssen]]
+| style="text-align:center" | 15{{2pd}}6{{efn|group=ledger1| {{csl|embedded=yes
+ | 2½{{2pd}}½ [[Lionel Kieseritzky|Kieseritzky]]
+ | 4{{2pd}}2 [[József Szén|Szén]]
+ | 4{{2pd}}1 Staunton
+ | 4½{{2pd}}2½ Wyvill
+ }}
+}}
+| data-sort-value="Wyvill, Marmaduke" | {{flagicon|UK}} [[Marmaduke Wyvill (chess player)|Marmaduke Wyvill]]
+| [[Single-elimination tournament]] with 16 players
+|<ref>{{multiref2 | {{harvnb|Horowitz|1973|p=4}} | {{Cite book |last=Staunton |first=Howard |author-link=Howard Staunton |url=https://books.google.com/books?id=_SUCAAAAYAAJ |title=The Chess Tournament: A Collection of the Games Played at this Celebrated Assemblage, Illustrated by Copious Diagrams, and Notes, Critical and Explanatory |publisher=H. G. Bohn |year=1852 |oclc=3561640}} }}</ref>
+|-
+! scope="row" | 1858
+| data-sort-value="Anderssen, Adolf" | {{flagicon|France|1794}} Paris
+| data-sort-value="Morphy, Paul" | {{flagicon|US|1858}} [[Paul Morphy]]
+| style="text-align:center" | 8{{2pd}}3
+| data-sort-value="Anderssen, Adolf" | {{flagicon|Prussia|1803}} Adolf Anderssen
+| First to 7 wins
+|<ref>{{multiref2 | {{Cite book |last=Lawson |first=David |title=Paul Morphy, The Pride and Sorrow of Chess |publisher=University of Louisiana Press |year=2010 |isbn=978-1-887366-97-7 |editor-last=Aiello |editor-first=Thomas |location=Lafayette |page=172}} | {{harvnb|Horowitz|1973|pp=5–6, 15–16}} }}</ref>
+|- style="background-color:#ffc"
+! scope="row" style="background-color:#ffc" | [[London 1862 chess tournament|1862]]†
+| {{flagicon|UK}} London
+| data-sort-value="Anderssen, Adolf" | {{flagicon|Prussia|1803}} Adolf Anderssen<!-- There are no title defences because there is no title.-->
+| style="text-align:center" | 11½{{2pd}}1½
+| data-sort-value="Paulsen, Louis" | {{flagicon|German Confederation}} [[Louis Paulsen]]
+| [[Round-robin tournament]] with 14 players
+|<ref>{{harvnb|Horowitz|1973|p=16}}; {{Cite book |last=Löwenthal |first=Johann |author-link=Johann Löwenthal |url=https://books.google.com/books?id=vO0IAAAAQAAJ |title=The Chess Congress of 1862 |publisher=H. G. Bohn |year=1864 |oclc=651260808}}</ref>
+|-
+! scope="row" | 1866
+| {{flagicon|UK}} London
+| data-sort-value="Steinitz, Wilhelm" | {{flagicon|Austrian Empire}} [[Wilhelm Steinitz]]
+| style="text-align:center" | 8{{2pd}}6
+| data-sort-value="Anderssen, Adolf" | {{flagicon|Prussia|1803}} Adolf Anderssen
+| Best of 15
+|<ref>{{multiref2 | {{harvnb|Capablanca|1977|p=47}} | {{harvnb|Murray|1913|p=888|loc="But after 1860 the opinion that the Tournament was not the best way of discovering the strongest player of the day became general, and the match became the recognized test. It was as a result of his match with Wilhelm Steinitz, in 1866, which he lost by 6 games to 8, that Anderssen's supremacy is assumed to have come to an end."}} }}</ref>
+|- style="background-color:#ffc"
+! scope="row" style="background-color:#ffc" | [[London 1883 chess tournament|1883]]†
+| {{flagicon|UK}} London
+| data-sort-value="Zukertort, Johannes" | {{flagicon|UK}} [[Johannes Zukertort]]
+| style="text-align:center" | 22{{2pd}}4
+| data-sort-value="Steinitz, Wilhelm" | {{flagicon|Austria-Hungary}} Wilhelm Steinitz
+| Double round-robin tournament with 14 players
+|<ref>{{multiref2 | {{harvnb|Winter|2023a}} | {{Cite magazine |date=27 June 1883 |title=The International Tournament of 1883 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433066639372&view=1up&seq=32 |magazine=Chess Player's Chronicle |page=26}} }}</ref>
+|}
+{{Notelist|group=ledger1}}
+
+== Privately organized matches (1886–1946) ==
+With both [[Wilhelm Steinitz]] and [[Johannes Zukertort]] seen as plausible claimants, the two [[World Chess Championship 1886|played a match]] for the first World Championship in 1886. While Steinitz would later claim that he had been the World Champion since the 1860s, no match before 1886 was played for any formal title.{{sfn|Winter|2023a}} From then until after [[World War II]], championship matches were privately organized, and the champion was not formally obliged to face an opponent. An agreement had to be reached between the champion, the challenger, and the patrons sponsoring each match, which included providing the funds for the prize pool.{{sfn|Winter|1954|pp=9–10}} Lasker's 27-year reign as World Champion is the longest in the history of organized chess since 1886, but featured two separate 10-year spans during which he did not defend his title.
+
+{| class="wikitable sortable"
+|+ {{sronly|Privately organized matches (1886–1946)}}
+! scope="col" style="width:2em"  | Date   !! scope="col" style="width:15em" class="unsortable" | Location
+! scope="col" style="width:12em" | Winner !! scope="col" style="width:5em" class="unsortable" | Score !! scope="col" style="width:12em" | Runner-up
+! scope="col" class="unsortable" | Format !! scope="col" class="unsortable"    | {{abbr|Ref|Reference}}
+|-
+! scope="row" | [[World Chess Championship 1886|1886]]
+| {{csl
+ | {{flagicon|US|1877}} [[New York City]] (1–5)
+ | [[St. Louis]] (6–9)
+ | [[New Orleans]] (10–15)
+ }}
+| data-sort-value="Steinitz, Wilhelm" | {{flagicon|Austria-Hungary}} [[Wilhelm Steinitz]]
+| style="text-align:center" | 12½{{2pd}}7½
+| data-sort-value="Zukertort, Johannes" | {{flagicon|UK}} [[Johannes Zukertort]]
+| First to 10 wins
+| {{sfn|Murray|1913|p=889}}
+|-
+! scope="row" | [[World Chess Championship 1889|1889]]
+| {{flagicon|Spanish Empire|1874}} [[Havana]]
+| data-sort-value="Steinitz, Wilhelm" | {{flagicon|US|1877}} Wilhelm Steinitz (2)
+| style="text-align:center" | 10½{{2pd}}6½
+| data-sort-value="Chigorin, Mikhail" | {{flagicon|Russia|1858}} [[Mikhail Chigorin]]
+| rowspan="3" | Best of 20, tiebreak if required
+| {{sfn|Kažić|1974|pp=208–210}}
+|-
+! scope="row" | [[World Chess Championship 1890–1891|1890–1891]]
+| {{flagicon|US|1890}} New York City
+| data-sort-value="Steinitz, Wilhelm" | {{flagicon|US|1890}} Wilhelm Steinitz (3)
+| style="text-align:center" | 10½{{2pd}}8½
+| data-sort-value="Gunsberg, Isidor" | {{flagicon|Transleithania}} [[Isidor Gunsberg]]
+|<ref>{{Cite web |last=Pope |first=Nick |title=1890 Gunsberg-Steinitz World Championship Match |url=https://chessarch.com/archive/1894.03.15_Lasker-Steinitz/index.shtml |url-status=live |archive-url=https://web.archive.org/web/20230309140202/http://www.chessarch.com/archive/1894.03.15_Lasker-Steinitz/index.shtml |archive-date=9 March 2023 |access-date=11 January 2024 |publisher=Chess Archaeology |ref=none}}</ref>
+|-
+! scope="row" | [[World Chess Championship 1892|1892]]
+| {{flagicon|Spanish Empire|1874}} Havana
+| data-sort-value="Steinitz, Wilhelm" | {{flagicon|US|1891}} Wilhelm Steinitz (4)
+| style="text-align:center" | 10{{2pd}}10{{Dashed rule}}2½{{2pd}}½
+| data-sort-value="Chigorin, Mikhail" | {{flagicon|Russia|1858}} Mikhail Chigorin
+| {{sfn|Kažić|1974|pp=208–211}}
+|-
+! scope="row" | [[World Chess Championship 1894|1894]]
+| {{csl
+ | {{flagicon|US|1891}} New York City (1–8)
+ | [[Philadelphia]] (9–11)
+ | {{flagicon|Canada|1868}} [[Montréal]] (12–19)
+ }} 
+| data-sort-value="Lasker, Emanuel" | {{flagicon|German Empire}} [[Emanuel Lasker]]
+| style="text-align:center" | 12{{2pd}}7
+| data-sort-value="Steinitz, Wilhelm" | {{flagicon|US|1891}} Wilhelm Steinitz
+| rowspan="2" | First to 10 wins
+|<ref>{{Cite web |last=Pope |first=Nick |title=1894 Lasker-Steinitz World Championship Match |url=https://chessarch.com/archive/1894.03.15_Lasker-Steinitz/index.shtml |url-status=live |archive-url=https://web.archive.org/web/20230309140202/http://www.chessarch.com/archive/1894.03.15_Lasker-Steinitz/index.shtml |archive-date=9 March 2023 |access-date=11 January 2024 |publisher=Chess Archaeology |ref=none}}</ref>
+|-
+! scope="row" | [[World Chess Championship 1896–1897|1896–1897]]
+| {{flagicon|Russia|1858}} [[Moscow]]
+| data-sort-value="Lasker, Emanuel" | {{flagicon|German Empire}} Emanuel Lasker (2)
+| style="text-align:center" | 12½{{2pd}}4½
+| data-sort-value="Steinitz, Wilhelm" | {{flagicon|US|1896}} Wilhelm Steinitz
+| {{sfn|Kažić|1974|p=213}}
+|-
+! scope="row" | [[World Chess Championship 1907|1907]]
+| {{csl
+ | {{flagicon|US|1896}} New York City (1–6, 15)
+ | Philadelphia (7–8) 
+ | [[Washington, D.C.]] (9)
+ | [[Baltimore]] (10)
+ | [[Chicago]] (11)
+ | [[Memphis, Tennessee|Memphis]] (12–14)
+}}
+| data-sort-value="Lasker, Emanuel" | {{flagicon|German Empire}} Emanuel Lasker (3)
+| style="text-align:center" | 11½{{2pd}}3½
+| data-sort-value="Marshall, Frank" | {{flagicon|US|1896}} [[Frank Marshall (chess player)|Frank Marshall]]
+| rowspan="2" | First to 8 wins
+|<ref>{{Cite news |date=24 April 1907 |title=The Championship Match |url=https://www.newspapers.com/article/free-press-prairie-farmer-world-chess-ch/138352103/ |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20240109043059/https://www.newspapers.com/article/free-press-prairie-farmer-world-chess-ch/138352103/ |archive-date=9 January 2024 |access-date=9 January 2024 |work=Free Press Prairie Farmer |page=6 |via=Newspapers.com}}</ref>
+|-
+! scope="row" | [[World Chess Championship 1908|1908]]
+| {{csl
+ | {{flagicon|German Empire}} [[Düsseldorf]] (1–4)
+ | [[Munich]] (5–16)
+ }}
+| data-sort-value="Lasker, Emanuel" | {{flagicon|German Empire}} Emanuel Lasker (4)
+| style="text-align:center" | 10½{{2pd}}5½
+| data-sort-value="Tarrasch, Siegbert" | {{flagicon|German Empire}} [[Siegbert Tarrasch]]
+|<ref>{{Cite book |last=Tarrasch |first=Siegbert |author-link=Siegbert Tarrasch |title=Der Schachwettkampf Lasker-Tarrasch um die Weltmeisterschaft im August-September 1908 |publisher=[[De Gruyter]] |year=2021 |isbn=978-3-11-251514-3 |pages=9–110 |language=de |trans-title=The Lasker–Tarrasch chess competition for the world championship in August–September 1908 |doi=10.1515/9783112515143 |orig-date=1908 |s2cid=244540032}}</ref>
+|-
+! scope="row" data-sort-value="1910-01" | [[World Chess Championship 1910 (Lasker–Schlechter)|Jan–Feb 1910]]‡
+| {{csl
+ | {{flagicon|Austria-Hungary}} [[Vienna]] (1–5)
+ | {{flagicon|German Empire}} [[Berlin]] (6–10)
+ }}
+| data-sort-value="Lasker, Emanuel" | {{flagicon|German Empire}} Emanuel Lasker (5)
+| style="text-align:center" | 5{{2pd}}5
+| data-sort-value="Schlechter, Carl" | {{flagicon|Austria-Hungary}} [[Carl Schlechter]]
+| Best of 10
+| {{sfn|Kažić|1974|p=216}}
+|-
+! scope="row" data-sort-value="1910-11" | [[World Chess Championship 1910 (Lasker–Janowski)|Nov–Dec 1910]]
+| {{flagicon|Germany|empire}} Berlin
+| data-sort-value="Lasker, Emanuel" | {{flagicon|Germany|empire}} Emanuel Lasker (6)
+| style="text-align:center" | 9½{{2pd}}1½
+| data-sort-value="Janowski, Dawid" | {{flagicon|France|1794}} [[Dawid Janowski]]
+| First to 8 wins
+| {{sfnm|Kažić|1974|1p=217|Wilson|1975|2p=151}}
+|-
+! scope="row" | [[World Chess Championship 1921|1921]]
+| {{flagicon|Cuba|1902}} Havana
+| data-sort-value="Capablanca, José Raúl" | {{flagicon|Cuba|1902}} [[José Raúl Capablanca]]
+| style="text-align:center" | 9{{2pd}}5
+| data-sort-value="Lasker, Emanuel" | {{flagicon|Weimar Republic}} Emanuel Lasker
+| Best of 24
+| {{sfn|Kažić|1974|pp=217–218}}
+|-
+! scope="row" | [[World Chess Championship 1927|1927]]
+| {{flagicon|Argentina}} [[Buenos Aires]]
+| data-sort-value="Alekhine, Alexander" | {{flagicon|France|1794}} [[Alexander Alekhine]]
+| style="text-align:center" | 18½{{2pd}}15½
+| data-sort-value="Capablanca, José Raúl" | {{flagicon|Cuba|1902}} José Raúl Capablanca
+| First to 6 wins
+| {{sfn|Kažić|1974|pp=219–220}}
+|-
+! scope="row" | [[World Chess Championship 1929|1929]]
+| {{csl
+ | {{flagicon|Germany|Weimar}} [[Wiesbaden]] (1–8, 24–25)
+ | [[Heidelberg]] (9–11)| Berlin (12–17)
+ | {{flagicon|Netherlands}} [[The Hague]] (18–19, 23)
+ | [[Rotterdam]] (20)
+ | [[Amsterdam]] (21–22)
+ }}
+| data-sort-value="Alekhine, Alexander" | {{flagicon|France|1794}} Alexander Alekhine (2)
+| style="text-align:center" | 15½{{2pd}}9½
+| data-sort-value="Bogoljubow, Efim" | {{flagicon|Weimar Republic}} [[Efim Bogoljubow]]
+| rowspan="4" | First to both 6 wins and 15 points
+| {{sfn|Verhoeven|Skinner|1998|pp=364–371}}
+|-
+! scope="row" | [[World Chess Championship 1934|1934]]
+| {{flagicon|Germany|1933}} ''12 cities''{{efn-ua| {{csl|embedded=yes
+ | {{flagicon|Germany|1933}} [[Baden-Baden]] (1–3)
+ | [[Villingen]] (4–5)
+ | [[Freiburg]] (6–8)
+ | [[Pforzheim]] (9–10)
+ | [[Stuttgart]] (11–12)
+ | Munich (13–15)
+ | [[Bayreuth]] (16)
+ | [[Kissingen]] (17–18)
+ | [[Nuremberg]] (19–20)
+ | [[Karlsruhe]] (21)
+ | [[Mannheim]] (22–24)
+ | Berlin (25–26)
+ }}
+}}
+| data-sort-value="Alekhine, Alexander" | {{flagicon|France|1794}} Alexander Alekhine (3)
+| style="text-align:center" | 15½{{2pd}}10½
+| data-sort-value="Bogoljubow, Efim" | {{flagicon|Germany|empire}} Efim Bogoljubow
+| {{sfn|Verhoeven|Skinner|1998|pp=489–491}}
+|-
+! scope="row" | [[World Chess Championship 1935|1935]]
+| {{flagicon|Netherlands}} ''12 cities''{{efn-ua| {{csl|embedded=yes
+ | {{flagicon|Netherlands}} Amsterdam (1–3, 8–9, 12–13, 18, 20, 23, 25–26, 28–30)
+ | The Hague (4, 6, 11, 22, 27)
+ | [[Delft]] (5, 24)
+ | [[Utrecht]] (7)
+ | [[Gouda, South Holland|Gouda]] (10) 
+ | [[Groningen]] (14)
+ | [[Baarn]] (15)
+ | [['s-Hertogenbosch]] (16)
+ | [[Eindhoven]] (17)
+ | [[Zeist]] (19)
+ | [[Ermelo, Netherlands|Ermelo]] (21)
+ | [[Zandvoort]] (26)
+ }}. Game 26 began on one day in Zandvoort, and was finished on a later day in Amsterdam.
+}}
+| data-sort-value="Euwe, Max" | {{flagicon|Netherlands}} [[Max Euwe]]
+| style="text-align:center" | 15½{{2pd}}14½
+| data-sort-value="Alekhine, Alexander" | {{flagicon|France|1794}} Alexander Alekhine
+|<ref>{{Cite book |last=Euwe |first=Max |author-link=Max Euwe |title=Euwe vs. Alekhine Match 1935 |last2=Alekhine |first2=Alexander |author-link2=Alexander Alekhine |publisher=Chess Digest |year=1973 |editor-last=Smith |editor-first=Ken |location=Dallas, TX |translator-last=DeVault |translator-first=Roy |oclc=3146006 |orig-date=1936}}</ref>
+|-
+! scope="row" | [[World Chess Championship 1937|1937]]
+| {{flagicon|Netherlands}} ''9 cities''{{efn-ua| {{csl|embedded=yes
+ | {{flagicon|Netherlands}} The Hague (1, 5, 9–10, 17–18, 25)
+ | Rotterdam (2, 7, 15–16, 23–24)
+ | Amsterdam (3–4, 12–13, 20–21)
+ | [[Haarlem]] (6)
+ | [[Leiden]] (8)
+ | Groningen (11)
+ | [[Zwolle]] (14)
+ | Eindhoven (19)
+ | Delft (22)
+ }}
+}}
+| data-sort-value="Alekhine, Alexander" | {{flagicon|France|1794}} Alexander Alekhine (4)
+| style="text-align:center" | 15½{{2pd}}9½
+| data-sort-value="Euwe, Max" | {{flagicon|Netherlands}} Max Euwe
+|<ref>{{Cite book |last=Botvinnik |first=Mikhail |author-link=Mikhail Botvinnik |title=Alekhine vs. Euwe Return Match 1937 |publisher=Chess Digest |year=1973 |editor-last=Smith |editor-first=Ken |location=Dallas, TX |translator-last=DeVault |translator-first=Roy |oclc=4395696 |orig-date=1937}}</ref>
+|-
+| colspan="7" data-sort-value="zzz" | ''[[Interregnum of World Chess Champions|Title vacant]] from 1946 to 1948, following the death of Alekhine.''
+|}
+{{notelist-ua}}
+
+== FIDE World Championships (1948–1990) ==
+[[File:Max Euwe, wife and Karpov 1976.jpg|thumb|From right to left: World Champion Anatoly Karpov, former World Champion and FIDE President Max Euwe, and Euwe's wife Caro Bergman. Photo taken in 1976.|alt=Anatoly Karpov, Max Euwe, and Max Euwe's wife Caro Bergman posing for a photo together. Karpov and Euwe are wearing business suits and ties, while Bergman is wearing a silken shirt and a pearl necklace.]]
+In 1946, [[Alexander Alekhine]] died while still holding the title of World Chess Champion. The [[International Chess Federation]] (FIDE), which had been founded in 1924, had been attempting to directly participate in organizing the World Championship since at least 1935. By the late 1940s, around half of the plausible contenders for the World Championship were [[Soviet]] citizens, and in 1947, the [[Soviet Chess Federation]] joined FIDE after decades of declining to do so. FIDE based the [[1948 World Chess Championship]] on the 1938 [[AVRO tournament]] that had been organized in part to select a challenger for Alekhine. The tournament ultimately featured five players, three of them Soviet citizens—including the winner, [[Mikhail Botvinnik]]. Botvinnik went on to win or retain in four further championship matches. At the same time, FIDE established the rules for the championship going forward. It was organized around a 3-year cycle, during which a series of [[Interzonal chess tournaments|Zonal and Interzonal tournaments]] were held, with their highest-scoring performers invited to a [[Candidates Tournament]]. The winner of the Candidates tournament in turn played the champion in a match for the title. A defeated champion was entitled to a rematch the following year, after which the 3-year cycle would resume. Botvinnik benefited from this rule twice, in 1958 and 1961.<ref>{{Cite web |last=Winter |first=Edward |year=2004 |title=Interregnum |url=https://www.chesshistory.com/winter/extra/interregnum.html |archive-url=https://web.archive.org/web/20230528220053/https://www.chesshistory.com/winter/extra/interregnum.html |archive-date=28 May 2023 |access-date=15 January 2024 |website=chesshistory.com}}</ref>
+
+With the exception of the American [[Bobby Fischer]] in 1972, Soviet citizens won every championship from 1948 until the [[dissolution of the Soviet Union]] in 1991. With the further exception of [[Viktor Korchnoi]], who had defected from the USSR in 1976, each challenger was also a Soviet citizen. Following [[World Chess Championship 1972|his victory]], Fischer never played another game organized by FIDE. Disagreements between the two parties—which included Fischer's insistence on a format that required the victor to get a certain number of wins, as opposed to the number of games in a match being fixed—led to his forfeiting the title in 1975. In the absence of a match, FIDE declared [[Anatoly Karpov]], winner of the 1974 Candidates Tournament, to be the World Chess Champion by default.{{sfn|Plisetsky|Voronkov|1994|pp=363–366}}
+
+While the issue had played a role in Fischer's forfeit, FIDE ultimately did change the match format going forward, such that the first to win 6 games would be champion.{{sfn|Plisetsky|Voronkov|1994|p=365}} Under these rules, Karpov twice defended his title against Korchnoi. The [[World Chess Championship 1984–1985|next match]]—which began in September 1984 and featured the 21-year-old [[Garry Kasparov]] as Karpov's challenger—ultimately saw 48 games played over the span of five months, with neither player able to get to 6 wins. In an unprecedented step, FIDE president [[Florencio Campomanes]] stepped in and declared the match to have ended with no result. A [[World Chess Championship 1985|new match]], reverted to having a set number of games, was to be played later in 1985. After nearly being knocked out early in 1984, Kasparov defeated Karpov in their rematch. Over the following decade, the two played three more championship matches, with Kasparov narrowly retaining the title in each.{{sfn|Winter|1988}}
+
+{| class="wikitable sortable"
+|+ {{sronly|FIDE World Championships (1948–1990)}}
+! scope="col" | Date      !! scope="col" class="unsortable" | Location
+! scope="col" | Winner    !! scope="col" class="unsortable" | Score
+! scope="col" | Runner-up
+! scope="col" class="unsortable" | Format    !! scope="col" class="unsortable" | {{abbr|Ref|Reference}}
+|- style="background-color:#ffc"
+! scope="row" style="background-color:#ffc" | [[World Chess Championship 1948|1948]]†
+| {{csl
+ | {{flagicon|Netherlands}} [[The Hague]] (1–10)
+ | {{flagicon|USSR|1936}} [[Moscow]] (11–20)
+ }}
+| data-sort-value="Botvinnik, Mikhail" | {{flagicon|USSR|1936}} [[Mikhail Botvinnik]]
+| style="text-align:center" | 14{{2pd}}6{{efn|group=ledger2| {{csl|embedded=yes
+ | 3{{2pd}}2 Smyslov
+ | 4{{2pd}}1 [[Paul Keres|Keres]]
+ | 3½{{2pd}}1½ [[Samuel Reshevsky|Reshevsky]]
+ | 3½{{2pd}}1½ [[Euwe]]
+ }}
+}}
+| data-sort-value="Smyslov, Vasily" | {{flagicon|USSR|1936}} [[Vasily Smyslov]]
+| Quintuple round-robin tournament with 5 players
+| {{sfnm|Horowitz|1973|1pp=120–136|Kažić|1974|2p=224}}
+|-
+! scope="row" | [[World Chess Championship 1951|1951]]‡
+| rowspan="9" | {{flagicon|Soviet Union|1955}} Moscow<!--The flag changed in 1955, but any other presentation is either unduly cluttered or confusing.-->
+| data-sort-value="Botvinnik, Mikhail" | {{flagicon|USSR|1936}} Mikhail Botvinnik (2)
+| style="text-align:center" | 12{{2pd}}12
+| data-sort-value="Bronstein, David" | {{flagicon|USSR|1936}} [[David Bronstein]]
+| rowspan="11" data-sort-value="24" | Best of 24
+| {{sfn|Kažić|1974|p=225}}
+|-
+! scope="row" | [[World Chess Championship 1954|1954]]‡
+| data-sort-value="Botvinnik, Mikhail" | {{flagicon|USSR|1936}} Mikhail Botvinnik (3)
+| style="text-align:center" | 12{{2pd}}12
+| data-sort-value="Smyslov, Vasily" | {{flagicon|USSR|1936}} Vasily Smyslov
+| {{sfn|Kažić|1974|p=226}}
+|-
+! scope="row" | [[World Chess Championship 1957|1957]]
+| data-sort-value="Smyslov, Vasily" | {{flagicon|USSR}} Vasily Smyslov
+| style="text-align:center" | 12½{{2pd}}9½
+| data-sort-value="Botvinnik, Mikhail" | {{flagicon|USSR}} Mikhail Botvinnik
+| {{sfn|Kažić|1974|p=227}}
+|-
+! scope="row" | [[World Chess Championship 1958|1958]]
+| data-sort-value="Botvinnik, Mikhail" | {{flagicon|USSR}} Mikhail Botvinnik (4)
+| style="text-align:center" | 12½{{2pd}}10½
+| {{flagicon|USSR}} Vasily Smyslov
+| {{sfn|Kažić|1974|p=227}}
+|-
+! scope="row" | [[World Chess Championship 1960|1960]]
+| data-sort-value="Tal, Mikhail" | {{flagicon|USSR}} [[Mikhail Tal]]
+| style="text-align:center" | 12½{{2pd}}8½
+| data-sort-value="Botvinnik, Mikhail" | {{flagicon|USSR}} Mikhail Botvinnik
+| {{sfn|Kažić|1974|p=228}}
+|-
+! scope="row" | [[World Chess Championship 1961|1961]]
+| data-sort-value="Botvinnik, Mikhail" | {{flagicon|USSR}} Mikhail Botvinnik (5)
+| style="text-align:center" | 13{{2pd}}8
+| data-sort-value="Tal, Mikhail" | {{flagicon|USSR}} Mikhail Tal
+| {{sfn|Kažić|1974|p=229}}
+|-
+! scope="row" | [[World Chess Championship 1963|1963]]
+| data-sort-value="Petrosian, Tigran" | {{flagicon|USSR}} [[Tigran Petrosian]]
+| style="text-align:center" | 12½{{2pd}}9½
+| data-sort-value="Botvinnik, Mikhail" | {{flagicon|USSR}} Mikhail Botvinnik
+| {{sfn|Kažić|1974|p=230}}
+|-
+! scope="row" | [[World Chess Championship 1966|1966]]
+| data-sort-value="Petrosian, Tigran" | {{flagicon|USSR}} Tigran Petrosian (2)
+| style="text-align:center" | 12½{{2pd}}11½
+| data-sort-value="Spassky, Boris" | {{flagicon|USSR}} [[Boris Spassky]]
+| {{sfn|Kažić|1974|pp=230–231}}
+|-
+! scope="row" | [[World Chess Championship 1969|1969]]
+| data-sort-value="Spassky, Boris" | {{flagicon|USSR}} Boris Spassky
+| style="text-align:center" | 12½{{2pd}}10½
+| data-sort-value="Petrosian, Tigran" | {{flagicon|USSR}} Tigran Petrosian
+| {{sfn|Kažić|1974|p=231}}
+|-
+! scope="row" | [[World Chess Championship 1972|1972]]
+| {{flagicon|Iceland}} [[Reykjavík]]
+| data-sort-value="Fischer, Bobby" | {{flagicon|US}} [[Bobby Fischer]]
+| style="text-align:center" | 12½{{2pd}}8½
+| data-sort-value="Spassky, Boris" | {{flagicon|USSR}} Boris Spassky
+| {{sfn|Kažić|1974|pp=232–241}}
+|- style="background-color:#ccc"
+! scope="row" style="background-color:#ccc" | [[World Chess Championship 1975|1975]]#
+| {{flagicon|Philippines|1936}} [[Manila]]
+| data-sort-value="Karpov, Anatoly" | {{flagicon|USSR}} [[Anatoly Karpov]]
+| data-sort-value="" style="vertical-align:middle;text-align:center" class="table-na" | — 
+| data-sort-value="Fischer, Bobby" | {{flagicon|US}} Bobby Fischer
+| {{sfn|Plisetsky|Voronkov|1994|pp=361–366}}
+|-
+! scope="row" | [[World Chess Championship 1978|1978]]
+| {{flagicon|Philippines|1936}} [[Baguio]]
+| data-sort-value="Karpov, Anatoly" | {{flagicon|USSR}} Anatoly Karpov (2)
+| style="text-align:center" | 16½{{2pd}}15½
+| data-sort-value="Korchnoi, Viktor" | {{flagicon|FIDE}} [[Viktor Korchnoi]]
+| rowspan="3" | First to 6 wins
+| {{sfn|Winter|1981|p=169}}
+|-
+! scope="row" | [[World Chess Championship 1981|1981]]
+| {{flagicon|Italy}} [[Merano]]
+| data-sort-value="Karpov, Anatoly" | {{flagicon|USSR}} Anatoly Karpov (3)
+| style="text-align:center" | 11{{2pd}}7
+| data-sort-value="Korchnoi, Viktor" | {{flagicon|Switzerland}} Viktor Korchnoi
+|<ref>{{Cite book |last=Calvo |first=R. |title=Merano 1981 Karpov–Korchnoi: Lucha por el Campeonato del mundo de ajedrez |publisher=Jaque |year=1981 |isbn=978-84-300-6139-6 |location=San Sebastián |language=es}}</ref>
+|-
+! style="background-color:#cff" scope="row" | [[World Chess Championship 1984–1985|1984–1985]]✻
+| style="text-align:left" rowspan="2" | {{flagicon|USSR}} Moscow
+| style="background-color:#cff" data-sort-value="Karpov, Anatoly" | {{flagicon|USSR}} Anatoly Karpov
+| style="text-align:center; background-color:#cff" | 25{{2pd}}23
+| style="background-color:#cff" data-sort-value="Kasparov, Garry" | {{flagicon|USSR}} [[Garry Kasparov]]
+| style="background-color:#cff" | {{sfnm|Kasparov|2008|1pp=54–254|Winter|1988}}
+|-
+! scope="row" | [[World Chess Championship 1985|1985]]
+| data-sort-value="Kasparov, Garry" | {{flagicon|USSR}} Garry Kasparov
+| style="text-align:center" | 13{{2pd}}11
+| data-sort-value="Karpov, Anatoly" | {{flagicon|USSR}} Anatoly Karpov
+| rowspan="4" | Best of 24
+| {{sfn|Kasparov|2008|pp=277–419}}
+|-
+! scope="row" | [[World Chess Championship 1986|1986]]
+| {{csl
+ | {{flagicon|UK}} [[London]] (1–12)
+ | {{flagicon|USSR}} [[Leningrad]] (13–24)
+ }}
+| data-sort-value="Kasparov, Garry" | {{flagicon|USSR}} Garry Kasparov (2)
+| style="text-align:center" | 12½{{2pd}}11½
+| data-sort-value="Karpov, Anatoly" | {{flagicon|USSR}} Anatoly Karpov
+| {{sfn|Kasparov|2009|pp=21–237}}
+|-
+! scope="row" | [[World Chess Championship 1987|1987]]‡
+| {{flagicon|Spain}} [[Seville]]
+| data-sort-value="Kasparov, Garry" | {{flagicon|USSR}} Garry Kasparov (3)
+| style="text-align:center" | 12{{2pd}}12
+| data-sort-value="Karpov, Anatoly" | {{flagicon|USSR}} Anatoly Karpov
+| {{sfn|Kasparov|2009|pp=238–428}}
+|-
+! scope="row" | [[World Chess Championship 1990|1990]]
+| {{csl
+ | {{flagicon|US}} [[New York City]] (1–12)
+ | {{flagicon|France}} [[Lyon]] (13–24)
+ }}
+| data-sort-value="Kasparov, Garry" | {{flagicon|Russia|1991}} Garry Kasparov (4)
+| style="text-align:center" | 12½{{2pd}}11½
+| data-sort-value="Karpov, Anatoly" | {{flagicon|USSR}} Anatoly Karpov
+| {{sfn|Kasparov|2010|pp=81–282}}
+|}
+{{notelist|group=ledger2}}
+
+== Split title (1993–2006) ==
+[[File:Kasparov-10.jpg|thumb|Play between Garry Kasparov (left) and Viswanathan Anand (right) in the [[World Trade Center (1973–2001)#Top of the World observation deck|Top of the World observation deck]] of 2 World Trade Center during the [[PCA World Chess Championship 1995|1995 PCA World Chess Championship]]|alt=Garry Kasparov and Viswanathan Anand both sitting down at a chessboard at the beginning of a game. Both men are wearing suits and ties. Behind them is a tall railing, and a view of most of Midtown Manhattan. Anand has the White pieces, and Kasparov has the Black pieces.]]
+In 1993, following [[Nigel Short]]'s victory in the Candidates Tournament, FIDE president Campomanes announced that [[1993 World Chess Championship|that year's Championship]] would take place in [[Manchester]], England. Both Kasparov and Short claimed that FIDE had made this decision without consulting either player, in violation of FIDE's regulations regarding the championship. Kasparov and Short responded by splitting from FIDE and forming the [[Professional Chess Association]] (PCA),<ref>{{Cite news |date=27 February 1993 |title=Kasparov Breaks With World Chess Body |url=https://www.nytimes.com/1993/02/27/arts/kasparov-breaks-with-world-chess-body.html |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20180117232417/http://www.nytimes.com/1993/02/27/arts/kasparov-breaks-with-world-chess-body.html |archive-date=17 January 2018 |access-date=16 January 2024 |work=[[The New York Times]] |issn=0362-4331}}</ref> which organized a World Championship match between the two, played in London later that year. Meanwhile, FIDE stripped Kasparov of his title and organized a championship match between Karpov and [[Jan Timman]], who had finished second and third in the Candidates Tournament.<ref>{{Cite news |date=24 April 1993 |title=A Chess Title Match Is to Start on Sept. 7 |url=https://www.nytimes.com/1993/04/24/arts/a-chess-title-match-is-to-start-on-sept-7.html |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20180117185640/http://www.nytimes.com/1993/04/24/arts/a-chess-title-match-is-to-start-on-sept-7.html |archive-date=17 January 2018 |access-date=16 January 2024 |work=The New York Times |issn=0362-4331}}</ref> For the 13 years between 1993 and 2006, there were two rival titles. While the PCA itself would fold after only a couple of years, Kasparov would retain what is referred to as "Classical" title, which would be inherited by [[Vladimir Kramnik]] upon defeating Kasparov in 2000.<ref>{{Cite news |last=McClain |first=Dylan Loeb |last2=Fleck |first2=Fiona |date=4 October 2004 |title=And They're Off, but Will Winner Be True Champion of Chess? |url=https://www.nytimes.com/2004/10/04/arts/and-theyre-off-but-will-winner-be-true-champion-of-chess.html |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20180206121105/http://www.nytimes.com/2004/10/04/arts/and-theyre-off-but-will-winner-be-true-champion-of-chess.html |archive-date=6 February 2018 |access-date=16 January 2024 |work=The New York Times |issn=0362-4331}}</ref>
+
+Meanwhile, FIDE once again began experimenting with the championship format. Beginning with the [[FIDE World Chess Championship 1998|1998 championship]], the system of Zonal, Interzonal, Candidates, and Championship stages was replaced with one single-elimination tournament featuring dozens of players competing for the championship. For the [[FIDE World Chess Championship 1999|next event in 1999]], the incumbent World Champion would not automatically qualify for the finals. Due to this additional change, Karpov—who had won three additional titles during the schism—declined to participate going forward. Each of the four Classical Championships retained a traditional match format.<ref>{{Cite news |last=McClain |first=Dylan Loeb |date=31 October 2000 |title=A Chess Match Is Waged for a World Title Whose Authenticity Is Challenged |url=https://www.nytimes.com/2000/10/31/world/a-chess-match-is-waged-for-a-world-title-whose-authenticity-is-challenged.html |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20231119182159/https://www.nytimes.com/2000/10/31/world/a-chess-match-is-waged-for-a-world-title-whose-authenticity-is-challenged.html |archive-date=19 November 2023 |access-date=16 January 2024 |work=The New York Times |issn=0362-4331}}</ref>
+
+{| class="wikitable sortable"
+|+ Classical World Chess Championships (1993–2006)
+! scope="col" | Date      !! scope="col" class="unsortable" | Location
+! scope="col" | Winner    !! scope="col" class="unsortable" | Score
+! scope="col" | Runner-up
+! scope="col" class="unsortable" | Format    !! scope="col" class="unsortable"    | {{abbr|Ref|Reference}}
+|-
+! scope="row" | [[World Chess Championship 1993|1993]]
+| {{flagicon|UK}} [[London]]
+| data-sort-value="Kasparov, Garry" | {{flagicon|Russia|1991}} [[Garry Kasparov]] (5)
+| style="text-align:center" | 12½{{2pd}}7½
+| data-sort-value="Short, Nigel" | {{flagicon|UK}} [[Nigel Short]]
+| Best of 24
+|<ref>{{Cite book |last=Keene |first=Raymond D. |author-link=Raymond Keene |url=http://archive.org/details/kasparovvshort190000keen |title=Kasparov v. Short 1993: The Official Book of the Match |publisher=Holt |year=1993 |isbn=978-0-8050-3308-3 |location=New York}}</ref>
+|-
+! scope="row" | [[Classical World Chess Championship 1995|1995]]
+| {{flagicon|US}} [[New York City]]
+| data-sort-value="Kasparov, Garry" | {{flagicon|Russia}} Garry Kasparov (6)
+| style="text-align:center" | 10½{{2pd}}7½
+| data-sort-value="Anand, Viswanathan" | {{flagicon|India}} [[Viswanathan Anand]]
+| Best of 20
+|<ref>{{Cite book |last=Keene |first=Raymond D. |url=http://archive.org/details/worldchesschampi0000keen |title=World Chess Championship: Kasparov v. Anand |publisher=Holt |year=1995 |isbn=978-0-8050-4231-3 |location=New York}}</ref>
+|-
+! scope="row" | [[Classical World Chess Championship 2000|2000]]
+| {{flagicon|UK}} London
+| data-sort-value="Kramnik, Vladimir" | {{flagicon|Russia}} [[Vladimir Kramnik]]
+| style="text-align:center" | 8½{{2pd}}6½
+| data-sort-value="Kasparov, Garry" | {{flagicon|Russia}} Garry Kasparov
+| Best of 16
+| {{sfn|Bareev|Levitov|2007|pp=29–172}}
+|-
+! scope="row" | [[Classical World Chess Championship 2004|2004]]‡
+| {{flagicon|Switzerland}} [[Brissago]]
+| data-sort-value="Kramnik, Vladimir" | {{flagicon|Russia}} Vladimir Kramnik (2)
+| style="text-align:center" | 7{{2pd}}7
+| data-sort-value="Leko, Peter" | {{flagicon|Hungary}} [[Peter Leko]]
+| Best of 14
+| {{sfn|Bareev|Levitov|2007|pp=173–300}}
+|}
+
+{| class="wikitable sortable"
+|+ FIDE World Chess Championships (1993–2006)
+! scope="col" | Date      !! scope="col" class="unsortable" | Location
+! scope="col" | Winner    !! scope="col" class="unsortable" | Score
+! scope="col" | Runner-up
+! scope="col" class="unsortable" | Format !! scope="col" class="unsortable" | {{abbr|Ref|Reference}}
+|-
+! scope="row" | [[World Chess Championship 1993|1993]]
+| {{csl
+ | {{flagicon|Netherlands}} [[Zwolle]] (1–3)
+ | [[Arnhem]] (4–6)
+ | [[Amsterdam]] (7–12)
+ | {{flagicon|Indonesia}} [[Jakarta]] (13–24)
+ }}
+| data-sort-value="Karpov, Anatoly" | {{flagicon|Russia|1991}} [[Anatoly Karpov]] (4)
+| style="text-align:center" | 12½{{2pd}}8½
+| data-sort-value="Timman, Jan" | {{flagicon|Netherlands}} [[Jan Timman]]
+| Best of 24
+|<ref>{{Cite book |title=Schachweltmeisterschaft 1993: Anatoli Karpow–Jan Timman; Garri Kasparow–Nigel Short |publisher=Beyer |year=1993 |isbn=978-3-89168-042-1 |editor-last=Uhlmann |editor-first=Wolfgang |location=Hollfeld |language=de |editor-last2=Treppner |editor-first2=Gerd}}</ref>
+|-
+! scope="row" | [[FIDE World Chess Championship 1996|1996]]
+| {{flagicon|Russia}} [[Elista]]
+| style="text-align:left" data-sort-value="Karpov, Anatoly" | {{flagicon|Russia}} Anatoly Karpov (5)
+| style="text-align:center" | 10½{{2pd}}7½
+| data-sort-value="Kamsky, Gata" | {{flagicon|US}} [[Gata Kamsky]]
+| Best of 20
+|<ref>{{Cite news |last=Byrne |first=Robert |author-link=Robert Byrne (chess player) |date=12 July 1996 |title=Draw and Match: Karpov Triumphs |url=https://www.nytimes.com/1996/07/12/arts/draw-and-match-karpov-triumphs.html |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20240114160318/https://www.nytimes.com/1996/07/12/arts/draw-and-match-karpov-triumphs.html |archive-date=14 January 2024 |access-date=14 January 2024 |work=The New York Times |issn=0362-4331}}</ref>
+|- style="background-color:#ffc"
+! scope="row" style="background-color:#ffc" | [[FIDE World Chess Championship 1998|1998]]†
+| {{flagicon|Switzerland}} [[Lausanne]]
+| data-sort-value="Karpov, Anatoly" | {{flagicon|Russia}} Anatoly Karpov (6)
+| style="text-align:center" | 3{{2pd}}3{{Dashed rule}}2{{2pd}}0<br />{{efn|group=ledger3|Karpov was automatically seeded into the final round: a best of 6, with tiebreaks as needed.}}
+| data-sort-value="Anand, Viswanathan" | {{flagicon|India}} [[Viswanathan Anand]]
+| rowspan="3" | Single-elimination tournament with 100 players
+|<ref>{{Cite news |last=Kohlmeyer |first=Dagobert |date=6 January 2018 |title=20 years ago: Anand and Karpov fight for the World Championship |url=https://en.chessbase.com/post/20-years-ago-anand-vs-karpov |url-status=live |archive-url=https://web.archive.org/web/20190223131816/https://en.chessbase.com/post/20-years-ago-anand-vs-karpov |archive-date=23 February 2019 |access-date=14 January 2024 |work=Chessbase}}</ref>
+|- style="background-color:#ffc"
+! scope="row" style="background-color:#ffc" | [[FIDE World Chess Championship 1999|1999]]†
+| {{flagicon|US}} [[Las Vegas]]
+| data-sort-value="Khalifman, Alexander" | {{flagicon|Russia}} [[Alexander Khalifman]]
+| style="text-align:center" | 18½{{2pd}}11½<br />{{efn|group=ledger3| {{csl|embedded=yes
+ | 3½{{2pd}}2½ [[Dibyendu Barua|Barua]]
+ | 2½{{2pd}}1½ Kamsky
+ | 1½{{2pd}}½ [[Asrian]]
+ | 2½{{2pd}}1½ [[Boris Gelfand|Gelfand]]
+ | 1½{{2pd}}½ [[Judit Polgár|Polgár]]
+ | 3½{{2pd}}2½ [[Nisipeanu]] | 3½{{2pd}}2½ Akopian
+ }}
+}}
+| data-sort-value="Akopian, Vladimir" | {{flagicon|Armenia}} [[Vladimir Akopian]]
+|<ref>{{Cite web |date=28 August 1999 |title=Las Vegas 1999 |url=http://lasvegas.fide.com/chess/result7.html |url-status=dead |archive-url=https://web.archive.org/web/20010425154838/http://lasvegas.fide.com/chess/result7.html |archive-date=25 April 2001 |access-date=14 January 2024 |publisher=[[FIDE|International Chess Federation (FIDE)]] }}</ref>
+|- style="background-color:#ffc"
+! scope="row" style="background-color:#ffc" | [[FIDE World Chess Championship 2000|2000]]†
+| {{csl
+ | {{flagicon|India}} [[New Delhi]] (rounds 1–6)
+ | {{flagicon|Iran}} [[Tehran]] (round 7)
+}}
+| data-sort-value="Anand, Viswanathan" | {{flagicon|India}} Viswanathan Anand
+| style="text-align:center" | 14{{2pd}}6<br />{{efn|group=ledger3|Anand had a [[bye (sports)|bye]] in the first round. {{csl|embedded=yes
+ | 1½{{2pd}}½ [[Victor Bologan|Bologan]]
+ | 1½{{2pd}}½ [[Lputian]]
+ | 1½{{2pd}}½ [[Macieja]]
+ | 3½{{2pd}}2½ Khalifman
+ | 2½{{2pd}}1½ [[Michael Adams (chess player)|Adams]]
+ | 3½{{2pd}}½ Shirov
+ }}
+}}
+| data-sort-value="Shirov, Alexei" | {{flagicon|Spain}} [[Alexei Shirov]]
+|<ref>{{Cite news |last=Byrne |first=Robert |date=7 January 2001 |title=Anand's Devious Strategy Defeats Shirov in a Match |url=https://www.nytimes.com/2001/01/07/nyregion/chess-anand-s-devious-strategy-defeats-shirov-in-a-match.html |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20240114051408/https://www.nytimes.com/2001/01/07/nyregion/chess-anand-s-devious-strategy-defeats-shirov-in-a-match.html |archive-date=14 January 2024 |access-date=14 January 2024 |work=The New York Times |issn=0362-4331}}</ref>
+|- style="background-color:#ffc"
+! scope="row" style="background-color:#ffc" | [[FIDE World Chess Championship 2002|2002]]†
+| {{flagicon|Russia}} [[Moscow]]
+| data-sort-value="Ponomariov, Ruslan" | {{flagicon|Ukraine}} [[Ruslan Ponomariov]]
+| style="text-align:center" | 19{{2pd}}9<br />{{efn|group=ledger3| {{csl|embedded=yes
+ | 1½{{2pd}}½ [[Li Wenliang (chess player)|Li]]
+ | 3{{2pd}}1 [[Tiviakov]]
+ | 2{{2pd}}0 [[Kiril Georgiev|Georgiev]]
+ | 2½{{2pd}}1½ [[Morozevich]]
+ | 3{{2pd}}1 [[Bareev]] 
+ | 2½{{2pd}}1½ [[Svidler]]
+ | 4½{{2pd}}2½ Ivanchuk
+ }}
+}}
+| data-sort-value="Ivanchuk, Vasyl" | {{flagicon|Ukraine}} [[Vasyl Ivanchuk]]
+| rowspan="2" style="text-align:left" | Single-elimination tournament with 128 players
+|<ref>{{Cite web |date=23 January 2002 |title=WCC 2001 Results |url=http://wcc2001.fide.com/read.cgi?html=result |url-status=dead |archive-url=https://web.archive.org/web/20020806223517/http://wcc2001.fide.com/read.cgi?html=result |archive-date=6 August 2002 |access-date=14 January 2024 |publisher=International Chess Federation (FIDE)}}</ref>
+|- style="background-color:#ffc"
+! scope="row" style="background-color:#ffc" | [[FIDE World Chess Championship 2004|2004]]†
+| {{flagicon|Libya|1977}} [[Tripoli, Libya|Tripoli]]
+| data-sort-value="Kasimdzhanov, Rustam" | {{flagicon|Uzbekistan}} [[Rustam Kasimdzhanov]]
+| style="text-align:center" | 20{{2pd}}10<br />{{efn|group=ledger3| {{csl|embedded=yes
+ | 2½{{2pd}}1½ [[Alejandro Ramírez (chess player)|Ramírez]]
+ | 1½{{2pd}}½ [[Ehsan Ghaem Maghami|Ghaem Maghami]]
+ | 2½{{2pd}}1½ Ivanchuk
+ | 2{{2pd}}0 [[Zoltán Almási|Almási]]
+ | 3{{2pd}}1 [[Alexander Grischuk|Grischuk]]
+ | 4{{2pd}}2 [[Veselin Topalov|Topalov]]
+ | 4½{{2pd}}3½ Adams
+ }}
+}}
+| data-sort-value="Adams, Michael" | {{flagicon|England}} [[Michael Adams (chess player)|Michael Adams]]
+|<ref>{{Cite web |date=13 July 2004 |title=WCC 2004 Results |url=http://wcclibya2004.com/results.asp |url-status=dead |archive-url=https://web.archive.org/web/20040812125700/http://wcclibya2004.com/results.asp |archive-date=12 August 2004 |access-date=14 January 2024 |publisher=International Chess Federation (FIDE)}}</ref>
+|- style="background-color:#ffc"
+! scope="row" style="background-color:#ffc" | [[FIDE World Chess Championship 2005|2005]]†
+| {{flagicon|Argentina}} [[Potrero de los Funes]]
+| data-sort-value="Topalov, Veselin" | {{flagicon|Bulgaria}} [[Veselin Topalov]]
+| style="text-align:center" | 10{{2pd}}4<br />{{efn|group=ledger3| {{csl|embedded=yes
+ | 1{{2pd}}1 Anand
+ | 1½{{2pd}}½ Svidler
+ | 1½{{2pd}}½ Morozevich
+ | 1½{{2pd}}½ [[Peter Leko|Leko]]
+ | 1½{{2pd}}½ Kasimdzhanov
+ | 1½{{2pd}}½ Adams
+ | 1½{{2pd}}½ Polgár
+ }}
+}}
+| data-sort-value="Anand, Viswanathan" | {{flagicon|India}} Viswanathan Anand
+| Double round-robin tournament with 8 players
+|<ref>{{Cite book |last=Gershon |first=Alik |title=San Luis 2005 |last2=Nor |first2=Igor |publisher=Quality Chess |year=2007 |isbn=978-91-976005-2-1 |location=Gothenburg}}</ref>
+|}
+{{Notelist|group=ledger3}}
+
+== FIDE World Championships (2006–present) ==
+[[File:World Chess Championship 2021, game 11, Ian Nepomniachtchi and Magnus Carlsen (cropped).jpg|thumb|Ian Nepomniachtchi (left) and Magnus Carlsen (right) beginning game 11 of the 2021 Championship|alt=Ian Nepomniachtchi and Magnus Carlsen both sitting down at a chessboard during a game. Both men are wearing suits and ties. Both the table they are sitting at and the walls around them bear numerous logos of the event sponsors. Nepomniachtchi has the White pieces, and Carlsen has the Black pieces.]]
+Following a period of negotiation, in 2006 the Classical Champion [[Vladimir Kramnik]] played a match against the FIDE Champion [[Veselin Topalov]] to reunify the World Championship.{{sfn|Bareev|Levitov|2007|pp=176,324–327}} Since then, the championship has remained under the auspices of FIDE. The Candidates Tournament returned, and with the exception of the [[World Chess Championship 2007|2007 tournament]], FIDE would return to a match format for the World Championship. Instead of the previous system of Zonals and Interzonals to provide candidates, the system was redesigned around the [[Chess World Cup]].<ref>{{Cite news |date=18 December 2005 |title=Levon Aronian wins FIDE World Cup |url=https://en.chessbase.com/post/levon-aronian-wins-fide-world-cup |url-status=live |archive-url=https://web.archive.org/web/20200612102354/https://en.chessbase.com/post/levon-aronian-wins-fide-world-cup |archive-date=12 June 2020 |access-date=16 January 2024 |work=Chessbase}}</ref> Later, means for selecting candidates would variously include the [[FIDE Grand Prix]], the [[FIDE Grand Swiss Tournament]], selection by rating, and wild cards selected by the venue hosting the event.<ref>{{multiref2| {{Cite web |year=2016 |title=Rules & regulations for the Candidates Tournament of the FIDE World Championship cycle 2014–2016 |url=https://www.fide.com/FIDE/handbook/regscandidates2016.pdf |url-status=live |archive-url=https://web.archive.org/web/20200510082451/https://www.fide.com/FIDE/handbook/regscandidates2016.pdf |archive-date=10 May 2020 |access-date=16 January 2024 |publisher=International Chess Federation (FIDE)}} | {{Cite press release |date=7 January 2023 |title=FIDE reforms the qualifications paths to the Candidates Tournament |url=https://www.fide.com/news/2138 |access-date=16 January 2024 |publisher=International Chess Federation (FIDE) |archive-date=28 March 2023 |archive-url=https://web.archive.org/web/20230328122358/https://www.fide.com/news/2138 |url-status=live}} }}</ref>
+
+While shorter matches had taken place at various points, the block of 12 classical games was much shorter than matches had been for much of the 20th century. In the 2018 match, all 12 classical games resulted in draws for the first time in the history of the championship. Following this, the number of games was increased to 14.<ref>{{Cite news |last=Doggers |first=Peter |date=26 April 2019 |title=2020 World Chess Championship: 14 Games, Double The Prize Fund |url=https://www.chess.com/news/view/world-chess-championship-match-regulations |url-status=live |archive-url=https://web.archive.org/web/20230928133333/https://www.chess.com/news/view/world-chess-championship-match-regulations |archive-date=28 September 2023 |access-date=15 January 2024 |work=Chess.com}}</ref> Citing a lack of motivation and interest in the format, incumbent five-time champion [[Magnus Carlsen]] declined to defend his title in 2023.<ref>{{Cite news |last=Mather |first=Victor |date=20 July 2022 |title=Lacking Motivation, Magnus Carlsen Will Give Up World Chess Title |url=https://www.nytimes.com/2022/07/20/sports/chess-magnus-carlsen-world-championship.html |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20220721011423/https://www.nytimes.com/2022/07/20/sports/chess-magnus-carlsen-world-championship.html |archive-date=21 July 2022 |access-date=15 January 2024 |work=The New York Times |issn=0362-4331}}</ref> Instead, the match featured the two best performers in the Candidates, with [[Ding Liren]] defeating [[Ian Nepomniachtchi]] to become the new World Champion. Carlsen later declined his spot in the 2024 Candidates Tournament.<ref>{{Cite news |last=Svensen |first=Tarjei J. |date=2 May 2023 |title=Carlsen On Lack Of Motivation, Classical Chess, New WC Formats & Family Life |url=https://www.chess.com/news/view/carlsen-on-his-future-personal-life-motivation-and-more |url-status=live |archive-url=https://web.archive.org/web/20230504010931/https://www.chess.com/news/view/carlsen-on-his-future-personal-life-motivation-and-more |archive-date=4 May 2023 |access-date=15 January 2024 |work=Chess.com}}</ref>
+
+{| class="wikitable sortable"
+|+ {{sronly|FIDE World Championships (2006–present)}}
+! scope="col" | Date      !! scope="col" class="unsortable" | Location
+! scope="col" | Winner    !! scope="col" class="unsortable" | Score
+! scope="col" | Runner-up
+! scope="col" | Format    !! scope="col" class="unsortable"    | {{abbr|Ref|Reference}}
+|-
+! scope="row" | [[World Chess Championship 2006|2006]]
+| {{flagicon|Russia}} [[Elista]]
+| data-sort-value="Kramnik, Vladimir" | {{flagicon|Russia}} [[Vladimir Kramnik]] (3)
+| style="text-align:center" | 6{{2pd}}6{{Dashed rule}}2½{{2pd}}1½
+| data-sort-value="Topalov, Veselin" | {{flagicon|Bulgaria}} [[Veselin Topalov]]
+| Best of 12, tiebreaks if necessary
+| {{sfn|Bareev|Levitov|2007|pp=301–398}}
+|- style="background-color:#ffc"
+! scope="row" style="background-color:#ffc" | [[World Chess Championship 2007|2007]]†
+| {{flagicon|Mexico}} [[Mexico City]]
+| data-sort-value="Anand, Viswanathan" | {{flagicon|India}} [[Viswanathan Anand]] (2)
+| style="text-align:center" | 9{{2pd}}5<br />{{efn|group=ledger4| {{csl|embedded=yes
+ | 1{{2pd}}1 Kramnik
+ | 1{{2pd}}1 [[Boris Gelfand|Gelfand]]
+ | 1{{2pd}}1 [[Peter Leko|Leko]]
+ | 1½{{2pd}}½ [[Svidler]]
+ | 1½{{2pd}}½ [[Morozevich]]
+ | 1½{{2pd}}½ [[Aronian]]
+ | 1½{{2pd}}½ [[Alexander Grischuk|Grischuk]]
+ }}
+}}
+| data-sort-value="Kramnik, Vladimir" | {{flagicon|Russia}} Vladimir Kramnik
+| Double round-robin tournament with 8 players
+|<ref>{{Cite news |date=29 September 2007 |title=Mexico 2007: Vishy Anand is world champion! |url=https://en.chessbase.com/post/mexico-2007-vishy-anand-is-world-champion- |url-status=live |archive-url=https://web.archive.org/web/20230930001838/https://en.chessbase.com/post/mexico-2007-vishy-anand-is-world-champion- |archive-date=30 September 2023 |access-date=14 January 2024 |work=Chessbase}}</ref>
+|-
+! scope="row" | [[World Chess Championship 2008|2008]]
+| {{flagicon|Germany}} [[Bonn]]
+| data-sort-value="Anand, Viswanathan" | {{flagicon|India}} Viswanathan Anand (3)
+| style="text-align:center" | 6½{{2pd}}4½
+| data-sort-value="Kramnik, Vladimir"  | {{flagicon|Russia}} Vladimir Kramnik
+| rowspan="7" | Best of 12, tiebreaks if necessary
+|<ref>{{Cite news |last=McClain |first=Dylan Loeb |date=29 October 2008 |title=Anand Retains World Championship |url=https://archive.nytimes.com/gambit.blogs.nytimes.com/2008/10/29/anand-is-world-champion-again/ |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20240114043308/https://archive.nytimes.com/gambit.blogs.nytimes.com/2008/10/29/anand-is-world-champion-again/ |archive-date=14 January 2024 |access-date=14 January 2024 |work=Gambit Blog |publisher=The New York Times}}</ref>
+|-
+! scope="row" | [[World Chess Championship 2010|2010]]
+| {{flagicon|Bulgaria}} [[Sofia]]
+| data-sort-value="Anand, Viswanathan" | {{flagicon|India}} Viswanathan Anand (4)
+| style="text-align:center" | 6½{{2pd}}5½
+| data-sort-value="Topalov, Veselin" | {{flagicon|Bulgaria}} Veselin Topalov
+|<ref>{{Cite news |last=Ris |first=Robert |date=28 April 2023 |title=Anand beats Topalov in the final game of their 2010 match |url=https://en.chessbase.com/post/robert-ris-anand-beats-topalov-2010 |url-status=live |archive-url=https://web.archive.org/web/20240114043309/https://en.chessbase.com/post/robert-ris-anand-beats-topalov-2010 |archive-date=14 January 2024 |access-date=14 January 2024 |work=Chessbase}}</ref>
+|-
+! scope="row" | [[World Chess Championship 2012|2012]]
+| {{flagicon|Russia}} [[Moscow]]
+| data-sort-value="Anand, Viswanathan" | {{flagicon|India}} Viswanathan Anand (5)
+| style="text-align:center" | 6{{2pd}}6{{Dashed rule}}2½{{2pd}}1½
+| data-sort-value="Gelfand, Boris" | {{flagicon|Israel}} [[Boris Gelfand]]
+|<ref>{{Cite news |last=Moss |first=Stephen |date=30 May 2012 |title=Anand remains king of world chess as Gelfand's time runs out |url=https://www.theguardian.com/sport/2012/may/30/viswanathan-anand-crowned-chess-champion |url-status=live |archive-url=https://web.archive.org/web/20240114043306/https://www.theguardian.com/sport/2012/may/30/viswanathan-anand-crowned-chess-champion |archive-date=14 January 2024 |access-date=14 January 2024 |work=The Guardian |issn=0261-3077}}</ref>
+|-
+! scope="row" | [[World Chess Championship 2013|2013]]
+| {{flagicon|India}} [[Chennai]]
+| data-sort-value="Carlsen, Magnus" | {{flagicon|Norway}} [[Magnus Carlsen]]
+| style="text-align:center" | 6½{{2pd}}3½
+| data-sort-value="Anand, Viswanathan" | {{flagicon|India}} Viswanathan Anand
+|<ref>{{Cite magazine |last=Kasparov |first=Garry |date=25 November 2013 |title=A New King for a New Era in Chess |url=https://time100.time.com/2013/11/25/a-new-king-for-a-new-era-in-chess/ |url-status=live |archive-url=https://web.archive.org/web/20231128111253/https://time100.time.com/2013/11/25/a-new-king-for-a-new-era-in-chess/ |archive-date=28 November 2023 |access-date=14 January 2024 |magazine=Time |issn=0040-781X}}</ref>
+|-
+! scope="row" | [[World Chess Championship 2014|2014]]
+| {{flagicon|Russia}} [[Sochi]]
+| data-sort-value="Carlsen, Magnus" | {{flagicon|Norway}} Magnus Carlsen (2)
+| style="text-align:center" | 6½{{2pd}}4½
+| data-sort-value="Anand, Viswanathan" | {{flagicon|India}} Viswanathan Anand
+|<ref>{{Cite news |last=Crowther |first=Mark |date=23 November 2014 |title=Carlsen retains World Chess Championship title after beating Anand in Game 11 |url=https://theweekinchess.com/chessnews/events/world-chess-championship-2014/carlsen-retains-world-chess-championship-title-after-beating-anand-in-game-11 |url-status=live |archive-url=https://web.archive.org/web/20230607040841/https://theweekinchess.com/chessnews/events/world-chess-championship-2014/carlsen-retains-world-chess-championship-title-after-beating-anand-in-game-11 |archive-date=7 June 2023 |access-date=14 January 2024 |work=The Week in Chess}}</ref>
+|-
+! scope="row" | [[World Chess Championship 2016|2016]]
+| {{flagicon|US}} [[New York City]]
+| data-sort-value="Carlsen, Magnus" | {{flagicon|Norway}} Magnus Carlsen (3)
+| style="text-align:center" | 6{{2pd}}6{{Dashed rule}}3{{2pd}}1
+| data-sort-value="Karjakin, Sergey" | {{flagicon|Russia}} [[Sergey Karjakin]]
+|<ref>{{Cite news |last=Graham |first=Bryan Armen |date=1 December 2016 |title=Magnus Carlsen retains world chess title after quickfire tie-breaker |url=https://www.theguardian.com/sport/2016/dec/01/magnus-carlsen-retains-world-chess-title-after-quickfire-tie-breaker |url-status=live |archive-url=https://web.archive.org/web/20230316091112/https://www.theguardian.com/sport/2016/dec/01/magnus-carlsen-retains-world-chess-title-after-quickfire-tie-breaker |archive-date=16 March 2023 |access-date=14 January 2024 |work=The Guardian |issn=0261-3077}}</ref>
+|-
+! scope="row" | [[World Chess Championship 2018|2018]]
+| {{flagicon|UK}} [[London]]
+| data-sort-value="Carlsen, Magnus" | {{flagicon|Norway}} Magnus Carlsen (4)
+| style="text-align:center" | 6{{2pd}}6{{Dashed rule}}3{{2pd}}0
+| data-sort-value="Caruana, Fabiano" | {{flagicon|US}} [[Fabiano Caruana]]
+|<ref>{{Cite news |last=Pereira |first=Antonio |date=29 November 2018 |title=Magnus Carlsen keeps the crown |url=https://en.chessbase.com/post/magnus-carlsen-world-champion-2018 |url-status=live |archive-url=https://web.archive.org/web/20230926104045/https://en.chessbase.com/post/magnus-carlsen-world-champion-2018 |archive-date=26 September 2023 |access-date=14 January 2024 |work=Chessbase}}</ref>
+|-
+! scope="row" | [[World Chess Championship 2021|2021]]
+| {{flagicon|UAE}} [[Dubai]]
+| data-sort-value="Carlsen, Magnus" | {{flagicon|Norway}} Magnus Carlsen (5)
+| style="text-align:center" | 7½{{2pd}}3½
+| data-sort-value="Nepomniachtchi, Ian" | {{flagicon image|CFR Russia chess simplified flag infobox.svg}} [[Ian Nepomniachtchi]]
+| rowspan="4" | Best of 14, tiebreaks if necessary
+|<ref>{{Cite news |last=Doggers |first=Peter |date=11 December 2021 |title=Magnus Carlsen Wins 2021 World Chess Championship |url=https://www.chess.com/news/view/fide-world-chess-championship-2021-game-11 |url-status=live |archive-url=https://web.archive.org/web/20231216180418/https://www.chess.com/news/view/fide-world-chess-championship-2021-game-11 |archive-date=16 December 2023 |access-date=14 January 2024 |work=Chess.com}}</ref>
+|-
+! scope="row" | [[World Chess Championship 2023|2023]]
+| {{flagicon|KAZ}} [[Astana]]
+| data-sort-value="Ding, Liren" | {{flagicon|China}} [[Ding Liren]]
+| style="text-align:center" | 7{{2pd}}7{{Dashed rule}}2½{{2pd}}1½
+| data-sort-value="Nepomniachtchi, Ian" | {{flagicon|FIDE}} Ian Nepomniachtchi
+|<ref>{{Cite news |last=Colodro |first=Carlos Alberto |date=30 April 2023 |title=Ding Liren is the new world chess champion! |url=https://en.chessbase.com/post/world-championship-2023-playoff |url-status=live |archive-url=https://web.archive.org/web/20240112120840/https://en.chessbase.com/post/world-championship-2023-playoff |archive-date=12 January 2024 |access-date=14 January 2024 |work=Chessbase}}</ref>
+|-
+! scope="row" | [[World Chess Championship 2024|2024]]
+| {{flag|Singapore}}
+| data-sort-value="Gukesh, Dommaraju" | {{flagicon|India}} [[Gukesh Dommaraju]]
+| style="text-align:center" | 7½{{2pd}}6½
+| data-sort-value="Ding, Liren" | {{flagicon|China}} Ding Liren
+|<ref>{{Cite news |last=McGourty |first=Colin |date=12 December 2024 |title=18-Year-Old Gukesh Becomes Youngest-Ever Undisputed Chess World Champion |url=https://www.chess.com/news/view/fide-world-chess-championship-2024-game-14 |url-status=live |archive-url=https://web.archive.org/web/20241211230604/https://www.chess.com/news/view/fide-world-chess-championship-2024-game-14 |archive-date=11 December 2024 |access-date=12 December 2024 |work=Chess.com}}</ref>
+|-
+![[World Chess Championship 2026|2026]]
+|{{flagicon|SUI}} [[Geneva]]
+| style="text-align:center" colspan="3" |{{flagicon|India}} [[Gukesh Dommaraju]] vs {{flagicon|Uzbekistan}} [[Javokhir Sindarov]]
+|
+|}
+{{Notelist|group=ledger4}}
+
+== Unrecognized championship events ==
+In 1909, amid discussions that would ultimately culminate with the [[World Chess Championship 1910 (Lasker–Janowski)|World Championship match played the following year]], Emanuel Lasker played a casual match with Dawid Janowski in Paris. This was reported in later decades as being a World Championship match.{{sfnm|Horowitz|1973|1p=64|2a1=Keene|2a2=Goodman|2y=1986|2p=6}} However, research by [[Edward Winter (chess historian)|Edward Winter]] has demonstrated that the title was not at stake.<ref>{{Cite web |last=Winter |first=Edward |year=2007 |title=Chess Notes |url=https://www.chesshistory.com/winter/winter38.html#5199._Lasker_v_Janowsky_Paris_1909 |url-status=live |archive-url=https://web.archive.org/web/20230812192451/https://www.chesshistory.com/winter/winter38.html#5199._Lasker_v_Janowsky_Paris_1909 |archive-date=12 August 2023 |access-date=15 January 2024 |website=chesshistory.com |series=5199}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|+ {{sronly|Unrecognized championship events}}
+! scope="col" | Date      !! scope="col" class="unsortable" | Location
+! scope="col" | Winner    !! scope="col" class="unsortable" | Score
+! scope="col" | Runner-up
+! scope="col" | Format
+|-
+! scope="row" | 1909
+| {{flagicon|France|1794}} [[Paris]]
+| {{flagicon|German Empire}} [[Emanuel Lasker]]
+| style="text-align:center" | 8{{2pd}}2
+| {{flagicon|France|1794}} [[Dawid Janowski]]
+| Best of 10, casual play
+|}
+
+== See also ==
+* [[List of strong chess tournaments]]
+* [[Fischer–Spassky (1992 match)]] – rematch between Bobby Fischer and Boris Spassky in Belgrade 20 years after their first match, considered by Fischer to be and billed as a World Chess Championship. Fischer won 10–5, with 15 draws.
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Works cited ===
+{{Refbegin|30em}}
+* {{Cite book |last=Bareev |first=Evgeny |title=From London to Elista |last2=Levitov |first2=Ilya |publisher=[[New in Chess]] |year=2007 |isbn=978-90-5691-219-2 |location=Alkmaar}}
+* {{Cite book |last=Capablanca |first=José Raúl |author-link=José Raúl Capablanca |title=World's Championship Matches, 1921 and 1927 |last2=Chernev |first2=Irving |author-link2=Irving Chernev |publisher=Dover |year=1977 |isbn=978-0-486-23189-1 |location=New York |ref={{sfnref|Capablanca|1977}} |orig-date=1921, 1928}}
+* {{Cite book |last=Harding |first=Tim |author-link=Tim Harding (chess player) |title=Eminent Victorian Chess Players: Ten Biographies |publisher=[[McFarland & Company|McFarland]] |year=2012 |isbn=978-0-7864-6568-2}}
+* {{Cite book |last=Horowitz |first=Al |author-link=Israel Albert Horowitz |url=https://archive.org/details/theworldchesschampionship_ahistory |title=The World Chess Championship: A History |publisher=[[Macmillan Publishers|Macmillan]] |year=1973 |isbn=978-0-7134-2762-2}}
+* {{Cite book |last=Kasparov |first=Garry |author-link=Garry Kasparov |title=Modern Chess Part 2: Kasparov vs. Karpov 1975–1985 |publisher=[[Everyman Chess]] |year=2008 |isbn=978-1-85744-433-9 |location=London |translator-last=Neat |translator-first=Kenneth Philip}}
+* {{Cite book |last=Kasparov |first=Garry |title=Modern Chess Part 3: Kasparov vs. Karpov 1986–1987 |publisher=Everyman Chess |year=2009 |isbn=978-1-85744-625-8 |location=London |translator-last=Neat |translator-first=Kenneth Philip |author-mask=3}}
+* {{Cite book |last=Kasparov |first=Garry |title=Modern Chess Part 4: Kasparov vs. Karpov 1988–2009 |publisher=Everyman Chess |year=2010 |isbn=978-1-85744-652-4 |location=London |translator-last=Neat |translator-first=Kenneth Philip |author-mask=3}}
+* {{Cite book |last=Kažić |first=B. M. |url=https://openlibrary.org/books/OL5072262M/International_championship_chess |title=International Championship Chess: A Complete Record of FIDE Events |publisher=Pitman |year=1974 |isbn=978-0-273-07078-8 |location=New York}}
+* {{Cite book |last=Keene |first=Raymond |author-link=Raymond Keene |url=https://archive.org/details/centenarymatchka0000keen/page/n3/mode/2up |title=The Centenary Match: Kasparov–Karpov III |last2=Goodman |first2=David |publisher=[[Batsford Books|Batsford]] |year=1986 |isbn=978-0-7134-5343-0 |location=London}}
+* {{Cite book |last=Murray |first=H. J. R. |author-link=H. J. R. Murray |title=[[A History of Chess]] |publisher=[[Skyhorse]] |year=2012 |isbn=978-1-63220-293-2 |edition=Original reprint |location=New York |ref={{sfnref|Murray|1913}} |orig-date=1913}}
+* {{Cite book |last=Plisetsky |first=Dmitry |title=Russians versus Fischer |last2=Voronkov |first2=Sergey |publisher=Chess World |year=1994 |isbn=978-5-900767-01-7}}
+* {{Cite book |last=Sergeant |first=Philip W. |author-link=Philip Walsingham Sergeant |title=A Century of British Chess |publisher=[[David McKay Publications|David McKay]] |year=1934 |location=Philadelphia |oclc=1835573}}
+* {{Cite book |last=Verhoeven |first=Robert G. P. |title=Alexander Alekhine's Chess Games, 1902–1946 |last2=Skinner |first2=Leonard M. |publisher=McFarland |year=1998 |isbn=978-0-7864-0117-8}}
+* {{Cite book |url=https://archive.org/details/classicalchessmatches_1907-1913 |title=Classical Chess Matches: 1907–1913 |publisher=Dover |year=1975 |isbn=978-0-486-23145-7 |editor-last=Wilson |editor-first=Fred |location=New York}}
+* {{Cite book |title=World Chess Champions |publisher=[[Pergamon Press|Pergamon]] |year=1981 |isbn=978-0-08-024117-3 |editor-last=Winter |editor-first=Edward |editor-link=Edward Winter (chess historian) |location=Oxford}}
+* {{Cite web |last=Winter |first=Edward |author-mask=3 |date=3 April 2023 |title=Early Uses of 'World Chess Champion' |url=https://www.chesshistory.com/winter/extra/champion.html |url-status=live |archive-url=https://web.archive.org/web/20230415013129/https://www.chesshistory.com/winter/extra/champion.html |archive-date=15 April 2023 |access-date=15 January 2024 |website=chesshistory.com |ref={{sfnref|Winter|2023a}}}}
+* {{Cite magazine |last=Winter |first=Edward |author-mask=3 |date=29 July 2023 |orig-date=1988 |title=The Termination |url=https://www.chesshistory.com/winter/extra/termination.html |url-status=live |archive-url=https://web.archive.org/web/20240114151010/https://www.chesshistory.com/winter/extra/termination.html |archive-date=14 January 2024 |access-date=6 January 2024 |magazine=[[New in Chess]] |via=chesshistory.com |ref={{sfnref|Winter|1988}}}}
+* {{Cite book |last=Winter |first=William |author-link=William Winter (chess player) |title=Kings of Chess: Chess Championships of the Twentieth Century |publisher=Pitman |edition=Paperback |year=2009 |orig-year=1954 |isbn=978-4-87187-828-9 |location=London |ref={{sfnref|Winter|1954}}}}
+{{Refend}}
+
+== Further reading ==
+{{Refbegin}}
+* {{Cite book |last=Davidson |first=Henry A. |title=A Short History of Chess |publisher=McKay |year=1981 |isbn=978-0-679-14550-9 |edition=1st pbk. |location=New York |orig-date=1949}}
+* {{Cite book |last=Golombek |first=Harry |author-link=Harry Golombek |title=Chess: A History |publisher=Putnam |year=1976 |isbn=978-0-399-11575-2 |location=New York}}
+* {{Cite web |editor-last=Winter |editor-first=Edward |title=World Chess Championship Rules |url=https://www.chesshistory.com/winter/extra/rules.html |access-date=9 January 2024 |via=chesshistory.com}}
+{{Refend}}
+
+== External links ==
+* {{Cite web |title=World Champions Timeline |url=https://worldchampionship.fide.com/chess-champions |website=FIDE World Championship |access-date=14 January 2024 |archive-date=7 April 2023 |archive-url=https://web.archive.org/web/20230407070851/https://worldchampionship.fide.com/chess-champions |url-status=dead }}
+
+{{Chess}}
+{{World Chess Championships|state=expanded}}
+
+{{DEFAULTSORT:Chess World Championships, List of}}
+[[Category:World Chess Championships|*]]
+[[Category:Chess-related lists|World championship matches]]

@@ -1,0 +1,2623 @@
+{{Short description|none}}
+{{Use dmy dates|date=April 2025}}
+This list of [[chess players]] is ordered by their peak [[FIDE rating]], an implementation of the [[Elo rating]] introduced by [[FIDE]] in 1971. The cut-off value is 2700 for men (players with a rating at or above this value are colloquially known as '''super grandmasters''') and 2500 for women.
+
+Only six players achieved their over-2700 peak before the year 2000 and twenty-one players achieved their respective peak between 2000 and 2009 (inclusive).
+
+== Classical ==
+<!-- Per [[WP:CHESSRATING]], only ratings published by FIDE are acceptable. Do not use unofficial self-published "live rating" sites such as 2700chess.com -->
+{| class="wikitable sortable" style="margin:auto;"
+|+ FIDE players ordered by peak Elo rating<ref>{{Cite web |title=All time Top 100 by Highest ELO Rating |url=http://chess-db.com/public/top100alltime.jsp |url-status=dead |archive-url=https://web.archive.org/web/20161209231627/http://chess-db.com/public/top100alltime.jsp |archive-date=9 December 2016 |access-date=25 January 2021 |publisher=Chess-db.com}}</ref><ref>{{Cite web |title=Records |url=https://2700chess.com/records |access-date=25 January 2021 |publisher=2700chess.com}}</ref>
+|-
+!
+! Country
+! Player
+! Peak rating
+! Achieved
+! Birth year
+! Death year
+! Notes
+|-
+| colspan=8 style="text-align: center" |
+
+=== 2800+ ===
+|-
+| 1
+| {{flag|Norway}}
+| [[Magnus Carlsen]]
+| 2882
+| 2014-05
+| 1990
+
+|
+| [[List of FIDE chess world number ones|World no. 1]] (2010, 2011, 2011–), former [[World Chess Championship|world champion]] (2013–2023)
+|-
+| 2
+| {{flag|Soviet Union}}<br />{{flag|Russia}}
+| [[Garry Kasparov]]
+| 2851
+| 1999-07
+| 1963
+|
+| Former world champion (1985–2000), former world no. 1 (1984–1993, 1995–2006), first player to achieve 2800+ rating (1990)
+|-
+| 3
+| {{flag|Italy}}<br />{{flag|United States}}
+| [[Fabiano Caruana]]
+| 2844
+| 2014-10
+| 1992
+|
+| 
+|-
+| 4
+||{{flag|Armenia}}<br />{{flag|Germany}}<br />{{flag|United States}}
+| [[Levon Aronian]]
+| 2830
+| 2014-03
+| 1982
+|
+| 
+|-
+| 5
+| {{flag|Philippines}}<br />{{flag|United States}}
+| [[Wesley So]]
+| 2822
+| 2017-02
+| 1993
+|
+| 
+|-
+| 6
+| {{flag|Azerbaijan}}
+| [[Shakhriyar Mamedyarov]]
+| 2820
+| 2018-09
+| 1985
+|
+| 
+|-
+| 7
+| {{flag|France}}
+| [[Maxime Vachier-Lagrave]]
+| 2819
+| 2016-08
+| 1990
+|
+| 
+|-
+| rowspan=2|8
+| {{flag|India}}
+| [[Viswanathan Anand]]
+| 2817
+| 2011-03
+| 1969
+|
+| Former world champion (2000–2002, 2007–2013), former world no. 1 (2007, 2008, 2010, 2011)
+|-
+| {{flag|Soviet Union}}<br />{{flag|Russia}}
+| [[Vladimir Kramnik]]
+| 2817
+| 2016-10
+| 1975
+|
+| Former world champion (2000–2006), former world no. 1 (1996, 2008)
+|-
+| rowspan=3|10
+| {{flag|Bulgaria}}
+| [[Veselin Topalov]]
+| 2816
+| 2015-07
+| 1975
+|
+| Former world champion (2005–2006), former world no. 1 (2006–2007, 2008–2009)
+|-
+| {{flag|United States}}
+| [[Hikaru Nakamura]]
+| 2816
+| 2015-10
+| 1987
+|
+| 
+|-
+| {{flag|China}}
+| [[Ding Liren]]
+| 2816
+| 2018-11
+| 1992
+|
+| Former world champion (2023–2024)
+|-
+| 13
+| {{flag|Russia}}
+| [[Alexander Grischuk]]
+| 2810
+| 2014-12
+| 1983
+|
+| 
+|-
+| 14
+| {{flag|Iran}}<br />{{flag|France}}
+| [[Alireza Firouzja]]
+| 2804
+| 2021-12
+| 2003
+|
+| Youngest player to achieve 2800+ rating
+|-
+| 15
+| {{flag|India}}
+| [[Arjun Erigaisi]]
+| 2801
+| 2024-12
+| 2003
+|
+| 
+|-
+| colspan="8" style="text-align: center" |
+
+=== 2775–2799 ===
+|-
+| 16
+| {{flag|Russia}}<br />{{flag|Netherlands}}
+| [[Anish Giri]]
+| 2798
+| 2015-10
+| 1994
+|
+| 
+|-
+| 17
+| {{flag|Russia}}
+| [[Ian Nepomniachtchi]]
+| 2795
+| 2023-03
+| 1990
+|
+|
+|-
+| 18
+| {{flag|India}}
+| [[Gukesh Dommaraju]]
+| 2794
+| 2024-10
+| 2006
+|
+| [[World Chess Championship|World Chess Champion]] (2024–)
+|-
+| 19
+| {{flag|Azerbaijan}}
+| [[Teimour Radjabov]]
+| 2793
+| 2012-11
+| 1987
+|
+| 
+|-
+| rowspan=2|20
+| {{flag|Russia}}
+| [[Alexander Morozevich]]
+| 2788
+| 2008-07
+| 1977
+|
+| 
+|-
+| {{flag|Ukraine}}<br />{{flag|Russia}}
+| [[Sergey Karjakin]]
+| 2788
+| 2011-07
+| 1990
+|
+| 
+|-
+| 22
+| {{flag|Soviet Union}}<br />{{flag|Ukraine}}
+| [[Vasyl Ivanchuk]]
+| 2787
+| 2007-10
+| 1969
+|
+| 
+|-
+| rowspan=2|23
+| {{flag|United States}}
+| [[Bobby Fischer]]
+| 2785
+| 1972-07
+| 1943
+| 2008
+| Former world champion (1972–1975), former world no. 1 (1971–1975), first player to achieve 2700+ rating
+|-
+| {{flag|India}}
+| [[R Praggnanandhaa|Rameshbabu Praggnanandhaa]]
+| 2785
+| 2025-09
+| 2005
+|
+|
+|-
+| 25
+| {{flag|Uzbekistan}}
+| [[Nodirbek Abdusattorov]]
+| 2783
+| 2024-10
+| 2004
+|
+| 
+|-
+| 26
+| {{flag|Uzbekistan}}
+| [[Javokhir Sindarov]]
+| 2782
+| 2026-10
+| 2005
+|
+|
+|-
+| 27
+| {{flag|Soviet Union}}<br />{{flag|Russia}}
+| [[Anatoly Karpov]]
+| 2780
+| 1994-07
+| 1951
+|
+| Former world champion (1975–1985, 1993–1999), former world no. 1 (1976–1983, 1985, 1994)
+|-
+| 28
+| {{flag|Soviet Union}}<br />{{flag|Belarus}}<br />{{flag|Israel}}
+| [[Boris Gelfand]]
+| 2777
+| 2013-11
+| 1968
+|
+| 
+|-
+| rowspan=2 | 29
+| {{flag|Hungary}}<br />{{flag|Romania}}
+| [[Richárd Rapport]]
+| 2776
+| 2022-04
+| 1996
+|
+| 
+|-
+| {{flag|Germany}}
+| [[Vincent Keymer]]
+| 2776
+| 2025-12
+| 2004
+|
+| 
+|-
+| colspan="8" style="text-align: center" |
+
+=== 2750–2774 ===
+|-
+| 31
+| {{flag|India}}
+| [[Pentala Harikrishna]]
+| 2770
+| 2016-12
+| 1986
+|
+|
+|-
+| 32
+| {{flag|Soviet Union}}<br />{{flag|Russia}}
+| [[Peter Svidler]]
+| 2769
+| 2013-05
+| 1976
+| 
+| 
+|-
+| 33
+| {{flag|Cuba}}<br />{{flag|United States}}
+| [[Leinier Domínguez]]
+| 2768
+| 2014-05
+| 1983
+|
+| 
+|-
+| rowspan="2" |34
+| {{flag|Ukraine}}
+| [[Pavel Eljanov]]
+| 2765
+| 2016-03
+| 1983
+|
+| 
+|-
+|| {{flag|China}}
+| [[Yu Yangyi]]
+| 2765
+| 2018-09
+| 1994
+|
+|
+|-
+| 36
+| {{flag|Ukraine}}
+| [[Ruslan Ponomariov]]
+| 2764
+| 2011-07
+| 1983
+|
+| Former world champion (2002–2004)
+|-
+| rowspan="4" |37
+| {{flag|Hungary}}
+| [[Peter Leko]]
+| 2763
+| 2005-04
+| 1979
+|
+| 
+|-
+| {{flag|Soviet Union}}<br />{{flag|United States}}<br />{{flag|France}}
+| [[Gata Kamsky]]
+| 2763
+| 2013-07
+| 1974
+|
+| 
+|-
+| {{flag|China}}
+| [[Wang Hao (chess player)|Wang Hao]]
+| 2763
+| 2020-04
+| 1989
+|
+| 
+|-
+| {{flag|China}}
+| [[Wei Yi]]
+| 2763
+| 2024-10
+| 1999
+|
+| 
+|-
+| rowspan=3|41
+| {{flag|Azerbaijan}}
+| [[Vugar Gashimov]]
+| 2761
+| 2012-01
+| 1986
+| 2014
+|
+|-
+| {{flag|England}}
+| [[Michael Adams (chess player)|Michael Adams]]
+| 2761
+| 2013-09
+| 1971
+|
+| 
+|-
+| {{flag|Russia}}
+| [[Vladislav Artemiev]]
+| 2761
+| 2019-06
+| 1998
+|
+|
+|-
+| rowspan=2|44
+| {{flag|Russia}}
+| [[Dmitry Jakovenko]]
+| 2760
+| 2009-01
+| 1983
+|
+| 
+|-
+| {{flag|Poland}}
+| [[Jan-Krzysztof Duda]]
+| 2760
+| 2021-12
+| 1998
+|
+| 
+|-
+| rowspan=2|46
+| {{flag|Russia}}
+| [[Evgeny Tomashevsky]]
+| 2758
+| 2015-09
+| 1987
+|
+|
+|-
+| {{flag|China}}
+| [[Li Chao (chess player)|Li Chao]]
+| 2758
+| 2016-06
+| 1989
+|
+|
+|-
+| 48
+| {{flag|China}}
+| [[Wang Yue (chess player)|Wang Yue]]
+| 2756
+| 2010-11
+| 1987
+|
+| 
+|-
+| 49
+| {{flag|Soviet Union}}<br />{{flag|Latvia}}<br />{{flag|Spain}}
+| [[Alexei Shirov]]
+| 2755
+| 2008-01
+| 1972
+|
+| 
+|-
+| rowspan=3|50
+| {{flag|Georgia}}<br />{{flag|Czech Republic}}<br />{{flag|Slovakia}}<br />{{flag|Armenia}}
+| [[Sergei Movsesian]]
+| 2751
+| 2009-01
+| 1978
+|
+| 
+|-
+| {{flag|Czech Republic}}
+| [[David Navara]]
+| 2751
+| 2015-05
+| 1985
+|
+| 
+|-
+| {{flag|Russia}}<br />{{flag|England}}
+| [[Nikita Vitiugov]]
+| 2751
+| 2019-11
+| 1987
+|
+| 
+|-
+| 53
+| {{flag|Poland}}
+| [[Radosław Wojtaszek]]
+| 2750
+| 2017-01
+| 1987
+|
+| 
+|-
+| colspan="8" style="text-align: center" |
+
+=== 2725–2749 ===
+|-
+| rowspan=2|54
+| {{flag|France}}
+| [[Étienne Bacrot]]
+| 2749
+| 2013-11
+| 1983
+|
+| 
+|-
+| {{flag|India}}
+| [[Aravindh Chithambaram]]
+| 2749
+| 2025-04
+| 1999
+|
+|
+|-
+| 56
+| {{flag|India}}
+| [[Vidit Santosh Gujrathi]]
+| 2747
+| 2024-02
+| 1994
+|
+|
+|-
+| 57
+| {{flag|Russia}}
+| [[Dmitry Andreikin]]
+| 2743
+| 2016-06
+| 1990
+|
+|
+|-
+| rowspan=2|58
+| {{flag|Iran}}
+| [[Parham Maghsoodloo]]
+| 2742
+| 2023-12
+| 2000
+|
+| 
+|-
+| {{flag|United States}}
+| [[Hans Niemann]]
+| 2742
+| 2026-05
+| 2003
+|
+|
+|-
+| 60
+| {{flag|Vietnam}}
+| [[Lê Quang Liêm]]
+| 2741
+| 2024-08
+| 1991
+|
+| 
+|-
+| rowspan=2| 61
+| {{flag|Soviet Union}}<br />{{flag|Russia}}<br />{{flag|Canada}}
+| [[Evgeny Bareev]]
+| 2739
+| 2003-10
+| 1966
+|
+| 
+|-
+| {{flag|Russia}}<br />{{flag|Slovenia}}
+| [[Vladimir Fedoseev]]
+| 2739
+| 2025-03
+| 1995
+|
+| 
+|-
+| 63
+| {{flag|Russia}}
+| [[Maxim Matlakov]]
+| 2738
+| 2017-11
+| 1991
+|
+|
+|-
+| rowspan=2 | 64
+| {{flag|Latvia}}<br />{{flag|Germany}}<br />{{flag|Azerbaijan}}<br />{{flag|Bulgaria}}
+| [[Arkadij Naiditsch]]
+| 2737
+| 2013-12
+| 1985
+|
+| 
+|-
+| {{flag|Iran}}
+| [[Amin Tabatabaei]]
+| 2737
+| 2026-09
+| 2001
+|
+|
+|-
+| 66
+| {{flag|Netherlands}}
+| [[Jorden van Foreest]]
+| 2736
+| 2026-04
+| 1999
+|
+|
+|-
+| 67
+| {{flag|Hungary}}
+| [[Judit Polgár]]
+| 2735
+| 2005-07
+| 1976
+|
+| Highest-ranked female player; first and only female player to achieve 2700+ rating, only female player to be ranked in the world's top 10
+|-
+| rowspan=2|68
+| {{flag|Soviet Union}}<br />{{flag|Moldova}}
+| [[Viktor Bologan]]
+| 2734
+| 2012-08
+| 1971
+|
+| 
+|-
+| {{flag|Georgia}}
+| [[Baadur Jobava]]
+| 2734
+| 2012-09
+| 1983
+|
+| 
+|-
+| rowspan="2" |70
+| {{flag|Russia}}
+| [[Vladimir Malakhov (chess player)|Vladimir Malakhov]]
+| 2732
+| 2010-07
+| 1980
+|
+|
+|-
+| {{flag|Kyrgyzstan}}<br />{{flag|Russia}}
+| [[Ernesto Inarkiev]]
+| 2732
+| 2016-09
+| 1985
+|
+|
+|-
+| rowspan="3" |72
+| {{flag|China}}
+| [[Bu Xiangzhi]]
+| 2731
+| 2019-02
+| 1985
+|
+| 
+|-
+| {{flag|United States}}
+| [[Samuel Shankland]]
+| 2731
+| 2019-02
+| 1991
+|
+|
+|-
+| {{flag|Turkey}} 
+| [[Yağız Kaan Erdoğmuş]]
+| 2731
+| 2026-10
+| 2011
+|
+| Youngest player to achieve 2700+ rating
+|-
+| rowspan=2|75
+| {{flag|Hungary}}
+| [[Zoltán Almási]]
+| 2726
+| 2011-07
+| 1976
+|
+|
+|-
+| {{flag|Ukraine}}
+| [[Alexander Moiseenko]]
+| 2726
+| 2011-09
+| 1980
+|
+|
+|-
+| rowspan=2|77
+| {{flag|Russia}}<br />{{flag|Israel}}
+| [[Evgeny Alekseev (chess player)|Evgeny Alekseev]]
+| 2725
+| 2009-09
+| 1985
+|
+|
+|-
+| {{flag|Ukraine}}
+| [[Andrei Volokitin]]
+| 2725
+| 2013-03
+| 1986
+|
+|
+|-
+| colspan="8" style="text-align: center" |
+
+=== 2700–2724 ===
+|-
+| rowspan=2|79
+| {{flag|China}}
+| [[Ni Hua]]
+| 2724
+| 2009-04
+| 1983
+|
+|
+|-
+| {{flag|Spain}}
+| [[Francisco Vallejo Pons]]
+| 2724
+| 2011-07
+| 1982
+|
+| 
+|-
+| rowspan=3|81
+| {{flag|Ukraine}}
+| [[Anton Korobov]]
+| 2723
+| 2014-01
+| 1985
+|
+| 
+|-
+| {{flag|Russia}}
+| [[Andrey Esipenko]]
+| 2723
+| 2022-03
+| 2002
+|
+|
+|-
+| {{flag|India}}
+| [[Nihal Sarin]]
+| 2723
+| 2026-04
+| 2004
+|
+|
+|-
+| rowspan=5|84
+| {{flag|India}}
+| [[Krishnan Sasikiran]]
+| 2720
+| 2012-05
+| 1981
+|
+|
+|-
+| {{flag|Russia}}
+| [[Alexander Riazantsev (chess player)|Alexander Riazantsev]]
+| 2720
+| 2012-07
+| 1985
+|
+|
+|-
+| {{flag|Ukraine}}
+| [[Alexander Areshchenko]]
+| 2720
+| 2012-12
+| 1986
+|
+| 
+|-
+| {{flag|France}}
+| [[Laurent Fressinet]]
+| 2720
+| 2015-06
+| 1981
+|
+|
+|-
+| {{flag|Russia}}
+| [[Daniil Dubov]]
+| 2720
+| 2021-12
+| 1996
+|
+|
+|-
+| 89
+| {{flag|United States}}
+| [[Awonder Liang]]
+| 2719
+| 2026-02
+| 2003
+|
+|
+|-
+|90
+| {{flag|Bulgaria}}<br />{{flag|Georgia}}
+| [[Ivan Cheparinov]]
+| 2718
+| 2018-08
+| 1986
+|
+|
+|-
+| rowspan=3|91
+| {{flag|Cuba}}<br />{{flag|United States}}
+| [[Lázaro Bruzón]]
+| 2717
+| 2012-10
+| 1982
+|
+| 
+|-
+| {{flag|Ukraine}}
+| [[Yuriy Kryvoruchko]]
+| 2717
+| 2015-11
+| 1986
+|
+| 
+|-
+| {{flag|Russia}}<br />{{flag|Serbia}}
+| [[Alexey Sarana]]
+| 2717
+| 2024-07
+| 2000
+|
+| 
+|-
+| rowspan=3|94
+| {{flag|Soviet Union}}<br />{{flag|Russia}}
+| [[Valery Salov]]
+| 2715
+| 1995-01
+| 1964
+|
+| 
+|-
+| {{flag|Uzbekistan}}
+| [[Rustam Kasimdzhanov]]
+| 2715
+| 2015-05
+| 1979
+|
+| Former world champion (2004–2005)
+|-
+| {{flag|Russia}}<br />{{flag|Austria}}
+| [[Kirill Alekseenko]]
+| 2715
+| 2019-11
+| 1997
+|
+| 
+|-
+| rowspan=2|97
+| {{flag|Netherlands}}
+| [[Loek van Wely]]
+| 2714
+| 2001-10
+| 1972
+|
+| 
+|-
+| {{flag|Russia}}
+| [[Denis Khismatullin]]
+| 2714
+| 2014-03
+| 1984
+|
+|
+|-
+| rowspan=2|99
+| {{flag|Soviet Union}}<br />{{flag|Armenia}}<br />{{flag|United States}}
+| [[Vladimir Akopian]]
+| 2713
+| 2006-07
+| 1971
+|
+| 
+|-
+| {{flag|England}}
+| [[Luke McShane]]
+| 2713
+| 2012-07
+| 1984
+|
+|
+|-
+| rowspan=6|101
+| {{flag|England}}
+| [[Nigel Short]]
+| 2712
+| 2004-04
+| 1965
+|
+| 
+|-
+| {{flag|England}}
+| [[David Howell (chess player)|David Howell]]
+| 2712
+| 2015-08
+| 1990
+|
+| 
+|-
+| {{flag|Egypt}}
+| [[Bassem Amin]]
+| 2712
+| 2019-01
+| 1988
+|
+| Only African player to achieve 2700+ rating
+|-
+| {{flag|United States}}
+| [[Jeffery Xiong]]
+| 2712
+| 2019-11
+| 2000
+|
+|
+|-
+| {{flag|Russia}}<br />{{flag|Hungary}}
+| [[Sanan Sjugirov]]
+| 2712
+| 2022-11
+| 1993
+|
+|
+|-
+| {{flag|Uzbekistan}}
+| [[Nodirbek Yakubboev]]
+| 2712
+| 2026-10
+| 2002
+|
+|
+|-
+| rowspan=2|107
+| {{flag|Soviet Union}}<br />{{flag|Russia}}
+| [[Alexey Dreev]]
+| 2711
+| 2011-07
+| 1969
+|
+|
+|-
+| {{flag|Armenia}}
+| [[Gabriel Sargissian]]
+| 2711
+| 2022-09
+| 1983
+|
+|
+|-
+| rowspan=4|109
+| {{flag|Soviet Union}}<br />{{flag|Ukraine}}<br />{{flag|Slovenia}}
+| [[Alexander Beliavsky]]
+| 2710
+| 1997-07
+| 1953
+|
+| 
+|-
+| {{flag|Russia}}<br />{{flag|Romania}}
+| [[Alexander Motylev]]
+| 2710
+| 2009-07
+| 1979
+|
+|
+|-
+| {{flag|Israel}}
+| [[Maxim Rodshtein]]
+| 2710
+| 2016-03
+| 1989
+|
+|
+|-
+| {{flag|Romania}}
+| [[Bogdan-Daniel Deac]]
+| 2710
+| 2022-09
+| 2001
+|
+| 
+|-
+| rowspan=2|113
+| {{flag|Azerbaijan}}
+| [[Rauf Mamedov]]
+| 2709
+| 2017-12
+| 1988
+|
+|
+|-
+| {{flag|England}}
+| [[Gawain Jones]]
+| 2709
+| 2019-06
+| 1987
+|
+| 
+|-
+| rowspan=3|115
+| {{flag|Ukraine}}
+| [[Zahar Efimenko]]
+| 2708
+| 2011-03
+| 1985
+|
+|
+|-
+| {{flag|Armenia}}
+| [[Haik M. Martirosyan]]
+| 2708
+| 2023-11
+| 2000
+|
+|
+|-
+| {{flag|United States}}
+| [[Samuel Sevian]]
+| 2708
+| 2026-09
+| 2000
+|
+|
+|-
+| rowspan="2" |118
+| {{flag|Romania}}<br />{{flag|Germany}}
+| [[Liviu-Dieter Nisipeanu]]
+| 2707
+| 2005-10
+| 1976
+|
+| 
+|-
+| {{flag|Russia}}
+| [[Evgeniy Najer]]
+| 2707
+| 2017-08
+| 1977
+|
+|
+|-
+| rowspan="3" |120
+| {{flag|Yugoslavia}}<br />{{flag|Bosnia and Herzegovina}}<br />{{flag|Netherlands}}
+| [[Ivan Sokolov (chess player)|Ivan Sokolov]]
+| 2706
+| 2004-01
+| 1968
+|
+| 
+|-
+| {{flag|Hungary}}
+| [[Ferenc Berkes]]
+| 2706
+| 2011-09
+| 1985
+|
+|
+|-
+| {{flag|Soviet Union}}<br />{{flag|Russia}}
+| [[Sergei Rublevsky]]
+| 2706
+| 2013-11
+| 1974
+|
+|
+|-
+| rowspan=4|123
+| {{flag|Soviet Union}}<br />{{flag|Latvia}}
+| [[Mikhail Tal]]
+| 2705
+| 1980-01
+| 1936
+| 1992
+| Former world champion (1960–1961)
+|-
+| {{flag|Soviet Union}}<br />{{flag|Russia}}<br />{{flag|Israel}}<br />{{flag|Switzerland}}
+| [[Vadim Milov]]
+| 2705
+| 2008-07
+| 1972
+|
+| 
+|-
+| {{flag|Russia}}
+| [[Boris Grachev]]
+| 2705
+| 2012-03
+| 1986
+|
+|
+|-
+| {{flag|Norway}}
+| [[Jon Ludvig Hammer]]
+| 2705
+| 2016-02
+| 1990
+|
+|
+|-
+| rowspan=2|127
+| {{flag|Czech Republic}}
+| [[Viktor Láznička]]
+| 2704
+| 2012-01
+| 1989
+|
+|
+|-
+| {{flag|United States}}
+| [[Ray Robson]]
+| 2704
+| 2023-04
+| 1994
+|
+|
+|-
+| rowspan="5" |129
+| {{flag|Soviet Union}}<br />{{flag|Israel}}
+| [[Emil Sutovsky]]
+| 2703
+| 2012-01
+| 1977
+|
+|
+|-
+| {{flag|Austria}}
+| [[Markus Ragger]]
+| 2703
+| 2017-02
+| 1988
+|
+| 
+|-
+| {{flag|Belarus}}
+| [[Vladislav Kovalev]]
+| 2703
+| 2019-02
+| 1994
+|
+| 
+|-
+| {{flag|Croatia}}
+| [[Ivan Šarić (chess player)|Ivan Šarić]]
+| 2703
+| 2019-03
+| 1990
+|
+| 
+|-
+| {{Flag|Spain}}
+| [[David Antón Guijarro]]
+| 2703
+| 2020-03
+| 1995
+|
+|
+|-
+| rowspan="6" |134
+| {{flag|Soviet Union}}<br />{{flag|Russia}}<br />{{flag|Poland}}
+| [[Michał Krasenkow]]
+| 2702
+| 2000-07
+| 1963
+|
+| 
+|-
+| {{flag|Soviet Union}}<br />{{flag|Israel}}
+| [[Ilya Smirin]]
+| 2702
+| 2001-07
+| 1968
+|
+|
+|-
+| {{flag|Soviet Union}}<br />{{flag|Germany}}<br />{{flag|Russia}}
+| [[Alexander Khalifman]]
+| 2702
+| 2001-10
+| 1966
+|
+| Former world champion (1999–2000)
+|-
+| {{flag|Soviet Union}}<br />{{flag|Bosnia and Herzegovina}}<br />{{flag|Georgia}}
+| [[Zurab Azmaiparashvili]]
+| 2702
+| 2003-07
+| 1960
+|
+| 
+|-
+| {{flag|France}}
+| [[Romain Edouard]]
+| 2702
+| 2014-06
+| 1990
+|
+|
+|-
+| {{flag|Ukraine}}<br />{{flag|Latvia}}
+| [[Igor Kovalenko]]
+| 2702
+| 2015-08
+| 1988
+|
+| 
+|-
+| rowspan=2|140
+| {{flag|Soviet Union}}<br />{{flag|Ukraine}}<br />{{flag|United States}}
+| [[Alexander Onischuk]]
+| 2701
+| 2010-07
+| 1975
+|
+| 
+|-
+| {{flag|India}}
+| [[Adhiban Baskaran]]
+| 2701
+| 2019-04
+| 1992
+|
+|
+|-
+| rowspan=2|142
+| {{flag|Denmark}}
+| [[Peter Heine Nielsen]]
+| 2700
+| 2010-07
+| 1973
+|
+| 
+|-
+| {{flag|Russia}}
+| [[Igor Lysyj]]
+| 2700
+| 2015-01
+| 1987
+|
+|
+|}
+
+== Highest-rated female players ==
+{| class="wikitable sortable" style="margin:auto;"
+|+ FIDE women players ordered by peak Elo rating
+|-
+!
+! Country
+! Player
+! Peak rating
+! Achieved
+! Birth year
+! Death year
+! Notes
+|-
+| colspan=8 style="text-align: center" |
+
+=== 2700+ ===
+|-
+| 1
+| {{flag|Hungary}}
+| [[Judit Polgár]]
+| 2735
+| 2005-07
+| 1976
+|
+| Highest-ranked female player, formerly female world no. 1 (1989–2015)
+|-
+| colspan="8" style="text-align: center" |
+
+=== 2600–2699 ===
+|-
+| 2
+| {{flag|China}}
+| [[Hou Yifan]]
+| 2686
+| 2015-03
+| 1994
+|
+| Former women's world champion (2010–2012, 2013–2015, 2016–2017), youngest female grandmaster (since 2008), female world no. 1 (since 2015)
+|-
+| 3
+| {{flag|India}}
+| [[Koneru Humpy]]
+| 2623
+| 2009-07
+| 1987
+|
+| 
+|-
+| 4
+| {{flag|Russia}}
+| [[Aleksandra Goryachkina]]
+| 2611
+| 2021-08
+| 1998
+|
+| 
+|-
+| 5
+| {{flag|Ukraine}}<br />{{flag|Slovenia}}
+| [[Anna Muzychuk]]
+| 2606
+| 2012-07
+| 1990
+|
+| 
+|-
+| 6
+| {{flag|China}}
+| [[Ju Wenjun]]
+| 2604
+| 2017-03
+| 1991
+|
+| [[Women's World Chess Champion]] (since 2018)
+|-
+| colspan="8" style="text-align: center" |
+
+=== 2500–2599 ===
+|-
+| 7
+| {{flag|Russia}}
+| [[Tatiana Kosintseva]]
+| 2581
+| 2010-11
+| 1986
+|
+| 
+|-
+| rowspan=2| 8
+| {{flag|China}}
+| [[Zhao Xue]]
+| 2579
+| 2013-09
+| 1985
+|
+|
+|-
+| {{flag|China}}
+| [[Zhu Jiner]]
+| 2579
+| 2025-11
+| 2002
+|
+|
+|-
+| 10
+| {{flag|Hungary}}<br />{{flag|United States}}
+| [[Susan Polgar]]
+| 2577
+| 2005-01
+| 1969
+|
+| Former women's world champion (1996–1999), former female world no. 1 (1984–1985, 1986)
+|-
+| 11
+| {{flag|Russia}}
+| [[Nadezhda Kosintseva]]
+| 2576
+| 2010-11
+| 1985
+|
+|
+|-
+| 12
+| {{flag|China}}
+| [[Xie Jun]]
+| 2574
+| 2008-01
+| 1970
+|
+| Former women's world champion (1991–1996, 1999–2001)
+|-
+| 13
+| {{flag|Georgia}}
+| [[Nana Dzagnidze]]
+| 2573
+| 2015-06
+| 1987
+|
+| 
+|-
+| 14
+| {{flag|China}}
+| [[Lei Tingjie]]
+| 2569
+| 2025-11
+| 1997
+|
+|
+|-
+| rowspan=2|15
+| {{flag|Ukraine}}
+| [[Mariya Muzychuk]]
+| 2563
+| 2016-03
+| 1992
+|
+| Former women's world champion (2015–2016)
+|-
+| {{flag|Ukraine}}<br />{{flag|Russia}}
+| [[Kateryna Lagno]]
+| 2563
+| 2022-10
+| 1989
+|
+| 
+|-
+| rowspan=2|17
+| {{flag|Russia}}<br />{{flag|Switzerland}}
+| [[Alexandra Kosteniuk]]
+| 2561
+| 2018-01
+| 1984
+|
+| Former women's world champion (2008–2010)
+|-
+| {{flag|China}}
+| [[Tan Zhongyi]]
+| 2561
+| 2024-12
+| 1991
+|
+| Former women's world champion (2017–2018)
+|-
+| rowspan=3|19
+| {{flag|Soviet Union}}<br />{{flag|Georgia}}
+| [[Maia Chiburdanidze]]
+| 2560
+| 1988-01
+| 1961
+|
+| Former women's world champion (1978–1991), former female world no. 1 (1980–1982, 1983, 1985–1986, 1987–1988)
+|-
+| {{flag|Soviet Union}}<br />{{flag|Ukraine}}<br />{{flag|Russia}}
+| [[Alisa Galliamova]]
+| 2560
+| 1998-07
+| 1972
+|
+| 
+|-
+| {{flag|Bulgaria}}
+| [[Antoaneta Stefanova]]
+| 2560
+| 2003-01
+| 1979
+|
+| Former women's world champion (2004–2006)
+|-
+| 22
+| {{flag|Sweden}}
+| [[Pia Cramling]]
+| 2550
+| 2008-10
+| 1963
+|
+| Former female world no. 1 (1983, 1984)
+|-
+| rowspan=2|23
+| {{flag|China}}<br />{{flag|Qatar}}
+| [[Zhu Chen]]
+| 2548
+| 2008-01
+| 1976
+|
+| Former women's world champion (2001–2004)
+|-
+| {{flag|Russia}}
+| [[Valentina Gunina]]
+| 2548
+| 2015-06
+| 1989
+|
+|
+|-
+| 25
+| {{flag|India}}
+| [[Harika Dronavalli]]
+| 2543
+| 2016-11
+| 1991
+|
+|
+|-
+| 26
+| {{flag|Lithuania}}
+| [[Viktorija Čmilytė-Nielsen]]
+| 2542
+| 2017-06
+| 1983
+|
+| 
+|-
+| 27
+| {{flag|Kazakhstan}}<br />{{flag|Russia}}
+| [[Bibisara Assaubayeva]]
+| 2538
+| 2026-07
+| 2004
+|
+| 
+|-
+| rowspan=2|28
+| nowrap | {{flag|Ukraine}}<br />{{flag|United States}}
+| [[Anna Zatonskih]]
+| 2537
+| 2011-05
+| 1978
+|
+| 
+|-
+| {{flag|France}}
+| [[Marie Sebag]]
+| 2537
+| 2013-03
+| 1986
+|
+| 
+|-
+| 30
+| {{flag|Georgia}}
+| [[Bella Khotenashvili]]
+| 2531
+| 2013-06
+| 1988
+|
+|
+|-
+| 31
+| {{flag|Georgia}}
+| [[Nino Batsiashvili]]
+| 2528
+| 2018-03
+| 1987
+|
+|
+|-
+| 32
+| {{flag|Armenia}}
+| [[Elina Danielian]]
+| 2521
+| 2011-07
+| 1978
+|
+| 
+|-
+| 33
+| nowrap |{{flag|Soviet Union}}<br />{{flag|Georgia}}
+| [[Nana Ioseliani]]
+| 2520
+| 1997-07
+| 1962
+|
+|
+|-
+| 34
+| nowrap | {{flag|Kazakhstan}}
+| [[Dinara Saduakassova]]
+| 2519
+| 2020-01
+| 1996
+|
+| 
+|-
+| 35
+| {{flag|China}}
+| [[Xu Yuhua]]
+| 2517
+| 2006-04
+| 1976
+|
+| Former women's world champion (2006–2008)
+|-
+| 36
+| {{flag|Russia}}
+| [[Polina Shuvalova]]
+| 2516
+| 2021-12
+| 2001
+|
+|
+|-
+| 37
+| {{flag|Germany}}
+| [[Elisabeth Pähtz]]
+| 2513
+| 2018-09
+| 1985
+|
+| 
+|-
+| 38
+| {{flag|China}}
+| [[Wang Lei (chess player)|Wang Lei]]
+| 2512
+| 2001-10
+| 1975
+|
+|
+|-
+| 39
+| {{flag|Vietnam}}<br />{{flag|Hungary}}
+| [[Hoang Thanh Trang]]
+| 2511
+| 2013-11
+| 1980
+|
+| 
+|-
+| 40
+| {{flag|India}}
+| [[Divya Deshmukh]]
+| 2510
+| 2026-04
+| 2005
+|
+|
+|-
+| 41
+| {{flag|Russia}}
+| [[Natalia Pogonina]]
+| 2508
+| 2014-07
+| 1985
+|
+|
+|-
+| rowspan=2|42
+| {{flag|Russia}}
+| [[Ekaterina Kovalevskaya]]
+| 2507
+| 2001-07
+| 1974
+|
+|
+|-
+| {{flag|Kazakhstan}}
+| [[Zhansaya Abdumalik]]
+| 2507
+| 2021-10
+| 2000
+|
+| 
+|-
+| rowspan=3|44
+| {{flag|Soviet Union}}<br />{{flag|Georgia}}<br />{{flag|Scotland}}
+| [[Ketevan Arakhamia-Grant]]
+| 2506
+| 2009-07
+| 1968
+|
+| 
+|-
+| {{flag|China}}
+| [[Wang Pin]]
+| 2506
+| 2000-10
+| 1974
+|
+|
+|-
+| {{flag|India}}
+| [[Vaishali Rameshbabu]]
+| 2506
+| 2024-08
+| 2001
+|
+|
+|-
+| rowspan=4|47
+| {{flag|Hungary}}
+| [[Sofia Polgar]]
+| 2505
+| 1998-07
+| 1974
+|
+|
+|-
+| {{flag|Poland}}
+| [[Monika Soćko]]
+| 2505
+| 2008-04
+| 1978
+|
+| 
+|-
+| {{flag|Russia}}
+| [[Olga Girya]]
+| 2505
+| 2017-09
+| 1991
+|
+|
+|-
+| {{flag|Russia}}<br />{{flag|Poland}}
+| [[Alina Kashlinskaya]]
+| 2505
+| 2022-06
+| 1993
+|
+| 
+|-
+| rowspan=2|51
+| {{flag|Armenia}}
+| [[Lilit Mkrtchian]]
+| 2503
+| 2010-01
+| 1982
+|
+| 
+|-
+| {{flag|China}}
+| [[Ruan Lufei]]
+| 2503
+| 2014-01
+| 1987
+|
+|
+|-
+| rowspan=3|53
+| {{flag|Soviet Union}}<br />{{flag|Kyrgyzstan}}<br />{{flag|Russia}}
+| [[Svetlana Matveeva]]
+| 2502
+| 2004-01
+| 1969
+|
+| 
+|-
+| {{flag|Ukraine}}
+| [[Anna Ushenina]]
+| 2502
+| 2007-07
+| 1985
+|
+| Former women's world champion (2012–2013)
+|-
+| {{flag|United States}}
+| [[Irina Krush]]
+| 2502
+| 2013-10
+| 1983
+|
+| 
+|-
+| rowspan=2|56
+| {{flag|China}}
+| [[Qin Kanying]]
+| 2501
+| 2000-07
+| 1974
+|
+|
+|-
+| {{flag|Moldova}}<br />{{flag|France}}
+| [[Almira Skripchenko]]
+| 2501
+| 2003-01
+| 1976
+|
+| 
+|-
+| 58
+| {{flag|Georgia}}
+| [[Lela Javakhishvili]]
+| 2500
+| 2010-03
+| 1984
+|
+|
+|}
+
+== Highest ratings by decade ==
+This section lists the top 20 active{{efn|FIDE considers a player active if they played a rated game within the past 12 months.<ref>{{Cite web |title=FIDE Rating Regulations |url=https://handbook.fide.com/chapter/B022024 |access-date=25 July 2025 |publisher=[[FIDE]]}}</ref>}} players by peak FIDE rating achieved in every decade since 1971, when FIDE started officially publishing rating lists.
+
+=== 1970s ===
+{| class="wikitable sortable" style="margin:auto;"
+|+ Chess players ordered by peak FIDE rating in 1970s
+|-
+!
+! Country
+! Player
+! Peak rating in 1970s
+! Achieved
+|-
+| 1
+| {{flag|United States}}
+| [[Bobby Fischer]]
+| 2785
+| 1972-07
+|-
+| 2
+| {{flag|Soviet Union}}
+| [[Anatoly Karpov]]
+| 2725
+| 1978-01
+|-
+| 3
+| {{flag|Soviet Union}}<br>{{flag|Switzerland}}
+| [[Viktor Korchnoi]]
+| 2695
+| 1979-01
+|-
+| 4
+| {{flag|Soviet Union}}
+| [[Boris Spassky]]
+| 2690
+| 1971-07
+|-
+| rowspan=2 | 5
+| {{flag|Denmark}}
+| [[Bent Larsen]]
+| 2660
+| 1971-07
+|-
+| {{flag|Soviet Union}}
+| [[Mikhail Tal]]
+| 2660
+| 1973-07
+|-
+| 7
+| {{flag|Hungary}}
+| [[Lajos Portisch]]
+| 2650
+| 1973-07
+|-
+| rowspan=2 | 8
+| {{flag|Soviet Union}}
+| [[Tigran Petrosian]]
+| 2645
+| 1972-07
+|-
+| {{flag|Soviet Union}}
+| [[Lev Polugaevsky]]
+| 2645
+| 1972-07
+|-
+| 10
+| {{flag|Brazil}}
+| [[Henrique Mecking]]
+| 2635
+| 1977-01
+|-
+| 11
+| {{flag|Soviet Union}}
+| [[Mikhail Botvinnik]]
+| 2630
+| 1971-07
+|-
+| rowspan=2 | 12
+| {{flag|Czechoslovakia}}<br>{{flag|United States}}
+| [[Lubomir Kavalek]]
+| 2625
+| 1974-05
+|-
+| {{flag|Netherlands}}
+| [[Jan Timman]]
+| 2625
+| 1979-01
+|-
+| rowspan=5 | 14
+| {{flag|Soviet Union}}
+| [[Vassily Smyslov]]
+| 2620
+| 1971-07
+|-
+| {{flag|Soviet Union}}
+| [[Leonid Stein]]
+| 2620
+| 1972-07
+|-
+| {{flag|Yugoslavia}}
+| [[Ljubomir Ljubojević]]
+| 2620
+| 1976-01
+|-
+| {{flag|Soviet Union}}
+| [[Efim Geller]]
+| 2620
+| 1976-01
+|-
+| {{flag|Czechoslovakia}}
+| [[Vlastimil Hort]]
+| 2620
+| 1977-01
+|-
+| rowspan=3 | 19
+| {{flag|Soviet Union}}
+| [[Paul Keres]]
+| 2615
+| 1971-07
+|-
+| {{flag|West Germany}}
+| [[Robert Hübner]]
+| 2615
+| 1974-05
+|-
+| {{flag|Czechoslovakia}}
+| [[Jan Smejkal]]
+| 2615
+| 1976-01
+|}
+
+=== 1980s ===
+{| class="wikitable sortable" style="margin:auto;"
+|+ Chess players ordered by peak FIDE rating in 1980s
+|-
+!
+! Country
+! Player
+! Peak rating in 1980s
+! Achieved
+|-
+| 1
+| {{flag|Soviet Union}}
+| [[Garry Kasparov]]
+| 2775
+| 1989-01
+|-
+| 2
+| {{flag|Soviet Union}}
+| [[Anatoly Karpov]]
+| 2755
+| 1989-07
+|-
+| 3
+| {{flag|Soviet Union}}
+| [[Mikhail Tal]]
+| 2705
+| 1980-01
+|-
+| 4
+| {{flag|Switzerland}}
+| [[Viktor Korchnoi]]
+| 2695
+| 1980-01
+|-
+| 5
+| {{flag|Netherlands}}
+| [[Jan Timman]]
+| 2675
+| 1988-01
+|-
+| 6
+| {{flag|England}}
+| [[Nigel Short]]
+| 2665
+| 1988-07
+|-
+| rowspan=2 | 7
+| {{flag|Soviet Union}}
+| [[Artur Yusupov (chess player)|Artur Yusupov]]
+| 2660
+| 1986-07
+|-
+| {{flag|Soviet Union}}
+| [[Vasyl Ivanchuk]]
+| 2660
+| 1989-07
+|-
+| rowspan=2 | 9
+| {{flag|Hungary}}
+| [[Lajos Portisch]]
+| 2655
+| 1980-01
+|-
+| {{flag|Soviet Union}}
+| [[Alexander Beliavsky]]
+| 2655
+| 1988-07
+|-
+| rowspan=5 | 11
+| {{flag|Yugoslavia}}
+| [[Ljubomir Ljubojević]]
+| 2645
+| 1983-01
+|-
+| {{flag|Soviet Union}}
+| [[Rafael Vaganian]]
+| 2645
+| 1986-01
+|-
+| {{flag|Soviet Union}}
+| [[Andrei Sokolov (Russian chess player)|Andrei Sokolov]]
+| 2645
+| 1987-01
+|-
+| {{flag|England}}
+| [[Jonathan Speelman]]
+| 2645
+| 1988-07
+|-
+| {{flag|Soviet Union}}
+| [[Valery Salov]]
+| 2645
+| 1989-07
+|-
+| rowspan=3 | 16
+| {{flag|West Germany}}
+| [[Robert Hübner]]
+| 2640
+| 1981-07
+|-
+| {{flag|Sweden}}
+| [[Ulf Andersson]]
+| 2640
+| 1983-07
+|-
+| {{flag|Soviet Union}}
+| [[Mikhail Gurevich (chess player)|Mikhail Gurevich]]
+| 2640
+| 1989-07
+|-
+| rowspan=2 | 19
+| {{flag|Soviet Union}}
+| [[Lev Polugaevsky]]
+| 2635
+| 1980-01
+|-
+| {{flag|Soviet Union}}<br>{{flag|France}}
+| [[Boris Spassky]]
+| 2635
+| 1981-01
+|}
+
+=== 1990s ===
+{| class="wikitable sortable" style="margin:auto;"
+|+ Chess players ordered by peak FIDE rating in 1990s
+|-
+!
+! Country
+! Player
+! Peak rating in 1990s
+! Achieved
+|-
+| 1
+| {{flag|Soviet Union}}<br>{{flag|Russia}}
+| [[Garry Kasparov]]
+| 2851
+| 1999-07
+|-
+| 2
+| {{flag|India}}
+| [[Viswanathan Anand]]
+| 2795
+| 1998-07
+|-
+| 3
+| {{flag|Soviet Union}}<br>{{flag|Russia}}
+| [[Vladimir Kramnik]]
+| 2790
+| 1998-01
+|-
+| 4
+| {{flag|Soviet Union}}<br>{{flag|Russia}}
+| [[Anatoly Karpov]]
+| 2780
+| 1994-07
+|-
+| 5
+| {{flag|Russia}}
+| [[Alexander Morozevich]]
+| 2758
+| 1999-07
+|-
+| 6
+| {{flag|Bulgaria}}
+| [[Veselin Topalov]]
+| 2750
+| 1996-07
+|-
+| 7
+| {{flag|United States}}
+| [[Gata Kamsky]]
+| 2745
+| 1996-07
+|-
+| rowspan=2 | 8
+| {{flag|Soviet Union}}<br>{{flag|Latvia}}<br>{{flag|Spain}}
+| [[Alexei Shirov]]
+| 2740
+| 1994-07
+|-
+| {{flag|Soviet Union}}<br>{{flag|Ukraine}}
+| [[Vasyl Ivanchuk]]
+| 2740
+| 1995-07
+|-
+| 10
+| {{flag|England}}
+| [[Michael Adams (chess player)|Michael Adams]]
+| 2716
+| 1999-01
+|-
+| 11
+| {{flag|Soviet Union}}<br>{{flag|Russia}}
+| [[Valery Salov]]
+| 2715
+| 1995-01
+|-
+| rowspan=2 | 12
+| {{flag|Soviet Union}}<br>{{flag|Russia}}
+| [[Peter Svidler]]
+| 2713
+| 1999-01
+|-
+| {{flag|Soviet Union}}<br>{{flag|Belarus}}<br>{{flag|Israel}}
+| [[Boris Gelfand]]
+| 2713
+| 1999-07
+|-
+| 14
+| {{flag|Soviet Union}}<br>{{flag|Ukraine}}<br>{{flag|Slovenia}}
+| [[Alexander Beliavsky]]
+| 2710
+| 1997-07
+|-
+| 15
+| {{flag|Hungary}}
+| [[Peter Leko]]
+| 2701
+| 1999-07
+|-
+| 16
+| {{flag|Soviet Union}}<br>{{flag|Russia}}
+| [[Evgeny Bareev]]
+| 2698
+| 1999-07
+|-
+| 17
+| {{flag|England}}
+| [[Nigel Short]]
+| 2697
+| 1999-01
+|-
+| 18
+| {{flag|Soviet Union}}<br>{{flag|Russia}}
+| [[Sergei Rublevsky]]
+| 2685
+| 1998-07
+|-
+| 19
+| {{flag|Soviet Union}}<br>{{flag|Bosnia and Herzegovina}}<br>{{flag|Georgia (country)|name=Georgia}}
+| [[Zurab Azmaiparashvili]]
+| 2681
+| 1999-01
+|-
+| rowspan=2 | 20
+| {{flag|Netherlands}}
+| [[Jan Timman]]
+| 2680
+| 1990-01
+|-
+| {{flag|Soviet Union}}<br>{{flag|Russia}}<br>{{flag|Germany}}
+| [[Artur Yusupov (chess player)|Artur Yusupov]]
+| 2680
+| 1995-07
+|}
+
+=== 2000s ===
+{| class="wikitable sortable" style="margin:auto;"
+|+ Chess players ordered by peak FIDE rating in 2000s
+|-
+!
+! Country
+! Player
+! Peak rating in 2000s
+! Achieved
+|-
+| 1
+| {{flag|Russia}}
+| [[Garry Kasparov]]
+| 2851
+| 2000-01
+|-
+| 2
+| {{flag|Bulgaria}}
+| [[Veselin Topalov]]
+| 2813
+| 2006-07
+|-
+| 3
+| {{flag|Russia}}
+| [[Vladimir Kramnik]]
+| 2811{{efn|The chart on Kramnik's [[FIDE]] profile gives his January 2002 rating as 2811.<ref>{{Cite web |title=Profile Info – Kramnik, Vladimir |url=https://ratings.fide.com/profile/4101588/chart |access-date=5 August 2021 |publisher=[[FIDE]]}}</ref> The top 100 list for January 2002 gives 2809.<ref>{{Cite web |title=Top 100 Players January 2002 - Archive |url=http://ratings.fide.com/toparc.phtml?cod=25 |access-date=5 August 2021 |publisher=[[FIDE]]}}</ref> The discrepancy appears to be due to a delay in including the rating change of +2 from Kramnik's four draws with [[Garry Kasparov]] in the Botvinnik Memorial Match in December 2001 in the top 100 lists, where it only appears in October 2002.}}
+| 2002-01
+|-
+| 4
+| {{flag|India}}
+| [[Viswanathan Anand]]
+| 2803
+| 2006-04
+|-
+| 5
+| {{flag|Norway}}
+| [[Magnus Carlsen]]
+| 2801
+| 2009-11
+|-
+| 6
+| {{flag|Russia}}
+| [[Alexander Morozevich]]
+| 2788
+| 2008-07
+|-
+| 7
+| {{flag|Ukraine}}
+| [[Vasyl Ivanchuk]]
+| 2787
+| 2007-10
+|-
+| 8
+| {{flag|Armenia}}<br>{{flag|Germany}}
+| [[Levon Aronian]]
+| 2786
+| 2009-11
+|-
+| 9
+| {{flag|Russia}}
+| [[Peter Svidler]]
+| 2765
+| 2006-01
+|-
+| 10
+| {{flag|Hungary}}
+| [[Peter Leko]]
+| 2763
+| 2005-04
+|-
+| 11
+| {{flag|Azerbaijan}}
+| [[Teimour Radjabov]]
+| 2761
+| 2009-01
+|-
+| rowspan=2 | 12
+| {{flag|Azerbaijan}}
+| [[Shakhriyar Mamedyarov]]
+| 2760
+| 2008-01
+|-
+| {{flag|Russia}}
+| [[Dmitry Jakovenko]]
+| 2760
+| 2009-01
+|-
+| rowspan=2 | 14
+| {{flag|Azerbaijan}}
+| [[Vugar Gashimov]]
+| 2758
+| 2009-11
+|-
+| {{flag|Israel}}
+| [[Boris Gelfand]]
+| 2758
+| 2009-11
+|-
+| rowspan=2 | 16
+| {{flag|Spain}}
+| [[Alexei Shirov]]
+| 2755
+| 2008-01
+|-
+| {{flag|England}}
+| [[Michael Adams (chess player)|Michael Adams]]
+| 2755
+| 2000-07
+|-
+| 18
+| {{flag|Czech Republic}}<br>{{flag|Slovakia}}
+| [[Sergei Movsesian]]
+| 2751
+| 2009-01
+|-
+| 19
+| {{flag|Russia}}
+| [[Alexander Grischuk]]
+| 2748
+| 2009-04
+|-
+| 20
+| {{flag|Ukraine}}
+| [[Ruslan Ponomariov]]
+| 2743
+| 2002-04
+|}
+
+=== 2010s ===
+{| class="wikitable sortable" style="margin:auto;"
+|+ Chess players ordered by peak FIDE rating in 2010s
+|-
+!
+! Country
+! Player
+! Peak rating in 2010s
+! Achieved
+|-
+| 1
+| {{flag|Norway}}
+| [[Magnus Carlsen]]
+| 2882
+| 2014-05
+|-
+| 2
+| {{flag|Italy}}<br>{{flag|United States}}
+| [[Fabiano Caruana]]
+| 2844
+| 2014-10
+|-
+| 3
+| {{flag|Armenia}}
+| [[Levon Aronian]]
+| 2830
+| 2014-03
+|-
+| 4
+| {{flag|Philippines}}<br>{{flag|United States}}
+| [[Wesley So]]
+| 2822
+| 2017-02
+|-
+| 5
+| {{flag|Azerbaijan}}
+| [[Shakhriyar Mamedyarov]]
+| 2820
+| 2018-09
+|-
+| 6
+| {{flag|France}}
+| [[Maxime Vachier-Lagrave]]
+| 2819
+| 2016-08
+|-
+| rowspan=2 | 7
+| {{flag|India}}
+| [[Viswanathan Anand]]
+| 2817
+| 2011-03
+|-
+| {{flag|Russia}}
+| [[Vladimir Kramnik]]
+| 2817
+| 2016-10
+|-
+| rowspan=3 | 9
+| {{flag|Bulgaria}}
+| [[Veselin Topalov]]
+| 2816
+| 2015-07
+|-
+| {{flag|United States}}
+| [[Hikaru Nakamura]]
+| 2816
+| 2015-10
+|-
+| {{flag|China}}
+| [[Ding Liren]]
+| 2816
+| 2018-11
+|-
+| 12
+| {{flag|Russia}}
+| [[Alexander Grischuk]]
+| 2810
+| 2014-12
+|-
+| 13
+| {{flag|Netherlands}}
+| [[Anish Giri]]
+| 2798
+| 2015-10
+|-
+| 14
+| {{flag|Azerbaijan}}
+| [[Teimour Radjabov]]
+| 2793
+| 2012-11
+|-
+| 15
+| {{flag|Russia}}
+| [[Sergey Karjakin]]
+| 2788
+| 2011-07
+|-
+| 16
+| {{flag|Ukraine}}
+| [[Vasyl Ivanchuk]]
+| 2779
+| 2011-03
+|-
+| 17
+| {{flag|Israel}}
+| [[Boris Gelfand]]
+| 2777
+| 2013-11
+|-
+| 18
+| {{flag|Russia}}
+| [[Ian Nepomniachtchi]]
+| 2776
+| 2019-09
+|-
+| rowspan=2 | 19
+| {{flag|Russia}}
+| [[Alexander Morozevich]]
+| 2770
+| 2012-07
+|-
+| {{flag|India}}
+| [[Pentala Harikrishna]]
+| 2770
+| 2016-12
+|}
+
+=== 2020s ===
+{| class="wikitable sortable" style="margin:auto;"
+|+ Chess players ordered by peak FIDE rating in 2020s
+|-
+!
+! Country
+! Player
+! Peak rating in 2020s
+! Achieved
+|-
+| 1
+| {{flag|Norway}}
+| [[Magnus Carlsen]]
+| 2872
+| 2020-01
+|-
+| 2
+| {{flag|United States}}
+| [[Fabiano Caruana]]
+| 2842
+| 2020-02
+|-
+| 3
+| {{flag|United States}}
+| [[Hikaru Nakamura]]
+| 2816
+| 2025-10
+|-
+| 4
+| {{flag|China}}
+| [[Ding Liren]]
+| 2811
+| 2022-10
+|-
+| 5
+| {{flag|France}}
+| [[Alireza Firouzja]]
+| 2804
+| 2021-12
+|-
+| 6
+| {{flag|India}}
+| [[Arjun Erigaisi]]
+| 2801
+| 2024-12
+|-
+| 7
+| {{flag|Russia}}
+| [[Ian Nepomniachtchi]]
+| 2795
+| 2023-03
+|-
+| 8
+| {{flag|India}}
+| [[Gukesh Dommaraju]]
+| 2794
+| 2024-10
+|-
+|rowspan=2| 9
+| {{flag|Armenia}}<br>{{flag|United States}}
+| [[Levon Aronian]]
+| 2785
+| 2022-03
+|-
+| {{flag|India}}
+| [[R Praggnanandhaa|Rameshbabu Praggnanandhaa]]
+| 2785
+| 2025-09
+|-
+| 11
+| {{flag|France}}
+| [[Maxime Vachier-Lagrave]]
+| 2784
+| 2020-10
+|-
+| 12
+| {{flag|Uzbekistan}}
+| [[Nodirbek Abdusattorov]]
+| 2783
+| 2024-10
+|-
+| rowspan=2 | 13
+| {{flag|Azerbaijan}}
+| [[Shakhriyar Mamedyarov]]
+| 2782
+| 2021-07
+|-
+| {{flag|Uzbekistan}} 
+| [[Javokhir Sindarov]]
+| 2782
+| 2026-10
+|-
+| 15
+| {{flag|Netherlands}}
+| [[Anish Giri]]
+| 2780
+| 2021-05
+|-
+| rowspan=2 | 16
+| {{flag|Russia}}
+| [[Alexander Grischuk]]
+| 2778
+| 2021-07
+|-
+| {{flag|United States}}
+| [[Wesley So]]
+| 2778
+| 2021-09
+|-
+|rowspan=2| 18
+| {{flag|Hungary}}<br>{{flag|Romania}}
+| [[Richárd Rapport]]
+| 2776
+| 2022-04
+|-
+| {{flag|Germany}}
+| [[Vincent Keymer]]
+| 2776
+| 2025-12
+|-
+| 20
+| {{flag|Azerbaijan}}
+| [[Teimour Radjabov]]
+| 2765
+| 2020-01
+|}
+
+== List of rating peaks throughout history ==
+{| class="wikitable"
+|+
+! Player
+! Rating
+! Achieved
+|-
+| rowspan="2" |[[Bobby Fischer]]
+| 2760
+| 1971-07
+|-
+| 2785
+| 1972-07
+|-
+| rowspan="6" |[[Garry Kasparov]]
+| 2800
+| 1990-01
+|-
+| 2805
+| 1993-01
+|-
+| 2815
+| 1993-07
+|-
+| 2820
+| 1997-07
+|-
+| 2825
+| 1998-01
+|-
+| 2851
+| 1999-07
+|-
+| rowspan="4" |[[Magnus Carlsen]]
+| 2861
+| 2013-01
+|-
+| 2872
+| 2013-02
+|-
+| 2881
+| 2014-03
+|-
+| 2882
+| 2014-05
+|}
+
+== See also ==
+* [[Comparison of top chess players throughout history]]
+* [[FIDE world rankings]]
+* [[List of FIDE chess world number ones]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+<references />
+
+== External links ==
+* [http://2700chess.com/records A list of chess players by peak FIDE rating] on 2700chess.com
+
+[[Category:Lists of chess players]]
+[[Category:Chess rating systems]]

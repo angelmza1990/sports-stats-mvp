@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chess · Sports Stats</title>
+  <meta name="description" content="Chess by the numbers: every World Championship match, the reigns of the world champions, rapid and blitz world champions, the world number ones month by month, head-to-head records of the greatest players in classical, rapid and blitz, records and nations.">
+  <link rel="stylesheet" href="../assets/theme.css">
+  <link rel="stylesheet" href="../assets/viz.css">
+  <link rel="stylesheet" href="../football/football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../assets/theme.js"></script>
+</head>
+<body data-src="data/chess.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../">Sports Stats</a> · Chess</p>
+    <h1>Chess</h1>
+    <p class="lede">Every World Championship since 1886, the rapid and blitz world titles, the world number ones month by month, how the greatest players fared against each other in classical, rapid and blitz, and the countries behind them.</p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="champions">
+      <div class="block-head">
+        <h2>The world champions</h2>
+        <p>Every reign of the classical world title since the first official match in 1886. From 1993 to 2006 the title was split: the classical line (Kasparov, then Kramnik) and FIDE's own champions, shown underneath.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="reign-legend"></div>
+        <div id="reign-chart" class="chart"></div>
+      </div>
+    </section>
+
+    <section class="block" id="matches">
+      <div class="block-head">
+        <h2>Every World Championship</h2>
+        <p>Every match (and the few tournaments) for the title, with the final score. Ties went to the defending champion; the 1984–85 Karpov–Kasparov match was abandoned without a result.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Era" id="matches-era"></div>
+        </div>
+        <div class="data-table tall" id="matches-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="title-rivalries">
+      <div class="block-head">
+        <h2>Rivalries for the title</h2>
+        <p>The pairs who met in World Championship matches, how many matches each one won and the games' combined score.</p>
+      </div>
+      <div class="card"><div class="pair-list" id="title-pairs"></div></div>
+    </section>
+
+    <section class="block" id="number-ones">
+      <div class="block-head">
+        <h2>World number one</h2>
+        <p>Who topped FIDE's rating list each month: classical since 1971, rapid and blitz since 2014. Months and years at number one, and the ribbon of every list.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Time control" id="no1-mode"></div>
+          <div class="segmented" role="tablist" aria-label="Section" id="no1-section"></div>
+        </div>
+        <div id="no1-ribbon" class="chart"></div>
+        <div class="legend" id="no1-legend"></div>
+        <div id="no1-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="h2h">
+      <div class="block-head">
+        <h2>Head to head</h2>
+        <p>How the greatest players fared against each other in every game in their files, split into classical, rapid and blitz. Pick a player for their record against the others, or see the most-played rivalries.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Time control" id="h2h-mode"></div>
+          <div class="scope-select"><select id="h2h-player" aria-label="Player"></select></div>
+        </div>
+        <div class="data-table tall" id="h2h-table"></div>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <h3 class="sub">The most-played rivalries</h3>
+        <div class="pair-list" id="h2h-rivalries"></div>
+      </div>
+    </section>
+
+    <section class="block" id="fast">
+      <div class="block-head">
+        <h2>Rapid and blitz world champions</h2>
+        <p>Every FIDE-recognized rapid and blitz world title, open and women's, including the early events (Fischer won the first blitz championship in 1970).</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Championship" id="fast-tabs"></div>
+        </div>
+        <div class="grid-2">
+          <div>
+            <h3 class="sub">Most titles</h3>
+            <div id="fast-leaders"></div>
+          </div>
+          <div class="data-table tall" id="fast-table"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="women">
+      <div class="block-head">
+        <h2>Women's World Championship</h2>
+        <p>Every women's world title since Vera Menchik won the first in 1927, in tournaments, matches and knockouts.</p>
+      </div>
+      <div class="card">
+        <div class="grid-2">
+          <div>
+            <h3 class="sub">Most titles</h3>
+            <div id="women-leaders"></div>
+          </div>
+          <div class="data-table tall" id="women-table"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="records">
+      <div class="block-head">
+        <h2>Records</h2>
+        <p>The longest reigns, the highest ratings, the youngest grandmasters and more.</p>
+      </div>
+      <div class="record-grid" id="record-cards"></div>
+      <div class="grid-2" style="margin-top:16px">
+        <div class="card">
+          <h3 class="sub">The rating record, step by step</h3>
+          <div class="data-table tall" id="rating-record"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Highest peak rating by decade</h3>
+          <div class="controls"><div class="segmented" role="tablist" aria-label="Decade" id="peak-decade"></div></div>
+          <div class="data-table" id="peak-list"></div>
+        </div>
+      </div>
+      <div class="grid-2" style="margin-top:16px">
+        <div class="card">
+          <h3 class="sub">Youngest grandmasters</h3>
+          <div class="data-table tall" id="youngest-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Youngest grandmaster, as the record fell</h3>
+          <div class="data-table tall" id="gm-record-table"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="nations">
+      <div class="block-head">
+        <h2>Nations</h2>
+        <p>Which countries produced the champions and the number ones, and won the Chess Olympiad. Players count for the federation they represented at the time.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="scope-select"><select id="nations-measure" aria-label="Measure"></select></div>
+        </div>
+        <div id="nations-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="other">
+      <div class="block-head">
+        <h2>The road to the title</h2>
+        <p>The winners of the Candidates Tournament, which picks the challenger, and of the Chess World Cup.</p>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">Candidates Tournament</h3>
+          <div class="data-table" id="candidates-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Chess World Cup</h3>
+          <div class="data-table" id="worldcup-table"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> Wikipedia (CC BY-SA 4.0): <span id="sources"></span>. Head-to-head games from <a href="https://www.pgnmentor.com/files.html">PGN Mentor</a>'s player files. Updated automatically twice a year. <span id="data-through"></span></p>
+    <p>
+      <strong>Notes:</strong> head-to-head records count the games in PGN Mentor's files, which don't record the time control: games are classed as rapid or blitz by their event's name (and, in knockout events, by the game's place in the round; online games count as rapid unless marked blitz). Chess960, blindfold, simultaneous, advanced and computer games are left out. Totals can differ slightly from other databases.
+      Number-one months follow FIDE's lists as published: an unchanged month keeps the previous number one, and FIDE left Kasparov off its 1994 lists after the PCA split, so those months go to Karpov.
+      Rapid and blitz rating lists began in 2014 in this record. Federations are shown as they were (Soviet Union, Czechoslovakia, Yugoslavia); players who competed under the FIDE flag are shown as neutral.
+      Flags by <a href="https://flagpedia.net">Flagpedia</a>. This project is not affiliated with FIDE.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../assets/viz.js"></script>
+  <script src="../football/common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

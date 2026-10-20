@@ -1,0 +1,936 @@
+{{Short description|none}}
+{{Use dmy dates|date=April 2025}}
+A total of seven [[chess player]]s have been the chess world number one on the official [[FIDE]] rating list since it was first published in July 1971.<ref name="History of Elo ratings 1971–2001">{{Cite web |title=History of Elo ratings 1971-2001 |url=http://www.olimpbase.org/index.php?http%3A%2F%2Fwww.olimpbase.org%2FElo%2Fsummary.html |url-status=live |archive-url=https://web.archive.org/web/20230903113646/http://www.olimpbase.org/index.php?http%3A%2F%2Fwww.olimpbase.org%2FElo%2Fsummary.html |archive-date=3 September 2023 |website=OlimpBase}}</ref>
+
+The first world number one, in July 1971, was [[Bobby Fischer]]. In January 1976 [[Anatoly Karpov]] became the highest-rated player on the FIDE list, as FIDE had dropped Fischer (whose rating was higher than Karpov's) from the list [[Bobby Fischer#Sudden obscurity|due to inactivity]]. In January 1984, [[Garry Kasparov]] became the third world number one. He would dominate for 21 years and 3 months from 1984 until his retirement from professional chess on 10 March 2005, with three brief interruptions: Anatoly Karpov briefly held the world number one ranking again in July 1985, as well as during 1994 when FIDE excluded Kasparov from the list; and the fourth world number one, [[Vladimir Kramnik]], briefly held the ranking in January 1996. In January 1990, Kasparov surpassed Fischer's peak of 2785 and became the first player ever to achieve a 2800 rating. In July 1999, he reached his peak rating, 2851. This was the highest FIDE rating in history until January 2013, when it was surpassed by [[Magnus Carlsen]].
+
+On Kasparov's retirement, the world number one ranking passed to [[Veselin Topalov]], since Kasparov was removed from the rating list in April 2006 due to inactivity. In April 2007, [[Viswanathan Anand]] became the sixth player to top the rankings.<ref>[http://www.chess.co.uk/twic/ap2007.html FIDE January 2007 Rating List: Top 100], The Week In Chess</ref> Kramnik briefly returned to the number one ranking in January 2008, but was again joint number one by rating, being placed first in the list due to having played more games in the rating period in question. For most of the period April 2007 to November 2009, the top ranking was held by either Anand or Topalov. The seventh and current world number one is [[Magnus Carlsen]], who first achieved this ranking in the January 2010 list, and has been world number one since July 2011 after having lost and reclaimed the position from Anand during 2010 and 2011.
+
+== Publication details ==
+{{More citations needed section|date=August 2019}}
+
+There were unofficial lists in 1964, 1969, 1970 and January 1971, as the [[Elo rating]] system was first introduced.{{where|date=August 2019}}
+
+From 1971 to 1980, there was one main rating list published each year (for a total of 10), initially published in July from 1971 to 1973, then once in May (1974), before switching to annual publication in January from 1975 to 1980 (in this period, some supplements and amendments were also published).
+
+From 1981 to July 2000, two lists per year were published, in January and July (for a total of 39 lists). In July 2000, the publication schedule was increased to four times a year (January, April, July, October) operating from July 2000 to July 2009 (for a total of 36 lists). In July 2009, the publication schedule was increased again, to six times a year (January, March, May, July, September, November) operating from July 2009 to July 2012 (for a total of 18 lists). In July 2012 the publication schedule was increased again to the current monthly schedule.
+
+Publication of the rating lists in the 1970s and 1980s was in ''[[Chess Informant]]'' and other chess publications. The number of games played by individuals during the rating period was added to the lists from July 1985 onwards. Player ID numbers were used from January 1990. From January 1999, the practice of rounding to the nearest five Elo points was discontinued, and ratings were then rounded to the nearest Elo point for publication. From July 2000 onwards, the ratings are available from the FIDE website.<ref name="History of Elo ratings 1971–2001" />
+
+In January 2010 former World Champion [[Boris Spassky]] criticized the current emphasis on ratings rather than World Champions.<ref>{{Cite web |last=Soltis |first=Andy |date=10 January 2010 |title=Kings don't rule |url=https://nypost.com/2010/01/10/kings-dont-rule/}}</ref> Although Spassky was World Champion during the inception of the FIDE rankings in 1971, he never became the number-one rated player in the world; since July 1971 he, Vladimir Kramnik, [[Ding Liren]], and [[Gukesh Dommaraju]] (the current Champion) are the only undisputed World Champions to never become ranked world number one during their tenure as champions {{as of|lc=y|post=.|2024|12}} (Kramnik has been ranked number one, but never while he was champion. Spassky and Ding have their peak ranking as World No. 2; Gukesh as World No. 3.)
+
+== List of world number ones ==
+=== Top players (list) ===
+The following is a list of the players ranked number one on the FIDE rating system from the first official list in July 1971 to the present day, along with their ratings during the periods in question. A rating denoted with '''bold''' text followed by an asterisk (*) is a career high rating.
+
+{| class="wikitable"
+|-
+! Year
+! ! style=min-width:120px | January
+! ! style=min-width:60px | February
+! ! style=min-width:60px | March
+! ! style=min-width:60px | April
+! ! style=min-width:60px | May
+! ! style=min-width:60px | June
+! ! style=min-width:60px | July
+! ! style=min-width:60px | August
+! ! style=min-width:60px | September
+! ! style=min-width:60px | October
+! ! style=min-width:60px | November
+! ! style=min-width:60px | December
+|-
+| style=background-color:#eaecf0 | 1971 || align=center colspan=6 style='background-color:#ddd;color:#555' | ''(before official FIDE ratings)'' || colspan=6 | {{flagicon|United States}} [[Bobby Fischer|Fischer]] (2760)
+|-
+| style=background-color:#eaecf0 | 1972 || colspan=6 | || colspan=6 | {{flagicon|United States}} Fischer ('''2785'''*)
+|-
+| style=background-color:#eaecf0 | 1973 || colspan=6 | || colspan=6 | {{flagicon|United States}} Fischer (2780)
+|-
+| style=background-color:#eaecf0 | 1974 || colspan=4 | || colspan=8 | {{flagicon|United States}} Fischer (2780)
+|-
+| style=background-color:#eaecf0 | 1975 || colspan=12 | {{flagicon|United States}} Fischer (2780)
+|-
+| style=background-color:#eaecf0 | 1976 || colspan=12 | {{flagicon|Soviet Union|1955}} [[Anatoly Karpov|Karpov]] (2695)
+|-
+| style=background-color:#eaecf0 | 1977 || colspan=12 | {{flagicon|Soviet Union|1955}} Karpov (2690)
+|-
+| style=background-color:#eaecf0 | 1978 || colspan=12 | {{flagicon|Soviet Union|1955}} Karpov (2725)
+|-
+| style=background-color:#eaecf0 | 1979 || colspan=12 | {{flagicon|Soviet Union|1955}} Karpov (2705)
+|-
+| style=background-color:#eaecf0 | 1980 || colspan=12 | {{flagicon|Soviet Union|1955}} Karpov (2725)
+|-
+| style=background-color:#eaecf0 | 1981 || colspan=6 | {{flagicon|Soviet Union}} Karpov (2690) || colspan=6 | (2700)
+|-
+| style=background-color:#eaecf0 | 1982 || colspan=6 | {{flagicon|Soviet Union}} Karpov (2720) || colspan=6 | (2700)
+|-
+| style=background-color:#eaecf0 | 1983 || colspan=12 | {{flagicon|Soviet Union}} Karpov (2710)
+|-
+| style=background-color:#eaecf0 | 1984 || colspan=6 | {{flagicon|Soviet Union}} [[Garry Kasparov|Kasparov]] (2710) || colspan=6 | (2715)
+|-
+| style=background-color:#eaecf0 | 1985 || colspan=6 | {{flagicon|Soviet Union}} Kasparov (2715) || colspan=6 | {{flagicon|Soviet Union}} Karpov (2720)
+|-
+| style=background-color:#eaecf0 | 1986 || colspan=6 | {{flagicon|Soviet Union}} Kasparov (2720) || colspan="6" | (2740)
+|-
+| style=background-color:#eaecf0 | 1987 || colspan=6 | {{flagicon|Soviet Union}} Kasparov (2735) || colspan=6 | (2740)
+|-
+| style=background-color:#eaecf0 | 1988 || colspan=6 | {{flagicon|Soviet Union}} Kasparov (2750) || colspan=6 | (2760)
+|-
+| style=background-color:#eaecf0 | 1989 || colspan=12 | {{flagicon|Soviet Union}} Kasparov (2775)
+|-
+| style=background-color:#eaecf0 | 1990 ||colspan=12 | {{flagicon|Soviet Union}} Kasparov (2800)
+|-
+| style=background-color:#eaecf0 | 1991 || colspan=6 | {{flagicon|Soviet Union}} Kasparov (2800) || colspan=6 | (2770)
+|-
+| style=background-color:#eaecf0 | 1992 || colspan=6 | {{flagicon|Russia}} Kasparov (2780) || colspan=6 | (2790)
+|-
+| style=background-color:#eaecf0 | 1993 || colspan=6 | {{flagicon|Russia}} Kasparov (2805) || colspan=6 | (2815)
+|-
+| style=background-color:#eaecf0 | 1994 || colspan=6 | {{flagicon|Russia}} [[Anatoly Karpov|Karpov]] (2740)<ref name="Kasparov 1994">Kasparov was excluded from FIDE ratings during 1994:{{Unbulleted list citebundle|{{Cite web |title=History of Elo ratings 1971-2001 |url=http://www.olimpbase.org/index.php?http%3A%2F%2Fwww.olimpbase.org%2FElo%2Fsummary.html |url-status=live |archive-url=https://web.archive.org/web/20230903113646/http://www.olimpbase.org/index.php?http%3A%2F%2Fwww.olimpbase.org%2FElo%2Fsummary.html |archive-date=3 September 2023 |website=OlimpBase}}|{{cite news|url=https://www.deseret.com/1994/2/18/19092840/kasparov-short-omitted-from-fide-s-global-rating|title=Kasparov, Short Omitted from FIDE's Global Rating|first=Harold|last=Lundstrom|newspaper=[[Deseret News]]|date=18 February 1994}}|{{cite news |last=Evans |first=Larry |date=4 November 1995 |title=Controversy over Two Rival Rating Systems |url=https://www.sun-sentinel.com/news/fl-xpm-1995-11-05-9511010243-story.html |work=[[Sun-Sentinel]] |access-date=3 September 2023 |url-status=live |url-access=subscription|archive-url=https://web.archive.org/web/20210702070806/https://www.sun-sentinel.com/news/fl-xpm-1995-11-05-9511010243-story.html |archive-date=2 July 2021}}|{{cite web|url=https://chesspulse.com/why-did-kasparov-leave-fide/|title=Why Did Kasparov Leave FIDE? A Brief History|first=Giovanni|last=Di Luca|website=Chess Pulse}}|{{cite web|url=https://www.mark-weeks.com/chess/wcc-$pca.htm|title=World Chess Championship – FIDE/PCA Chronology|website=mark-weeks.com}}}}</ref> || colspan=6 | {{flagicon|Russia}} Karpov ('''2780'''*)<ref name="Kasparov 1994" />
+|-
+| style=background-color:#eaecf0 | 1995 || colspan=6 | {{flagicon|Russia}} Kasparov (2805) || colspan="6" | (2795)
+|-
+| style=background-color:#eaecf0 | 1996 || colspan=6 | {{flagicon|Russia}} [[Vladimir Kramnik|Kramnik]] (2775) || colspan=6 | {{flagicon|Russia}} [[Garry Kasparov|Kasparov]] (2785)
+|-
+| style=background-color:#eaecf0 | 1997 || colspan=6 | {{flagicon|Russia}} Kasparov (2795) || colspan=6 | (2820)
+|-
+| style=background-color:#eaecf0 | 1998 || colspan=6 | {{flagicon|Russia}} Kasparov (2825) || colspan=6 | (2815)
+|-
+| style=background-color:#eaecf0 | 1999 || colspan=6 | {{flagicon|Russia}} Kasparov (2812) || colspan=6 | ('''2851'''*)
+|-
+| style=background-color:#eaecf0 | 2000 || colspan=6 | {{flagicon|Russia}} Kasparov ('''2851'''*) || colspan=6 | (2849)
+|-
+| style=background-color:#eaecf0 | 2001 || colspan=3 | {{flagicon|Russia}} Kasparov (2849) || colspan=3 | (2827) || colspan=6 | (2838)
+|-
+| style=background-color:#eaecf0 | 2002 || colspan=9 | {{flagicon|Russia}} Kasparov (2838) || colspan=3 | (2836)
+|-
+| style=background-color:#eaecf0 | 2003 || colspan=3 | {{flagicon|Russia}} Kasparov (2847) || colspan=9 | (2830)
+|-
+| style=background-color:#eaecf0 | 2004 || colspan=3 | {{flagicon|Russia}} Kasparov (2831) || colspan=6 | (2817) || colspan=3 | (2813)
+|-
+| style=background-color:#eaecf0 | 2005 || colspan=3 | {{flagicon|Russia}} Kasparov (2804) || colspan=9 | (2812)
+|-
+| style=background-color:#eaecf0 | 2006 || colspan=3 | {{flagicon|Russia}} Kasparov (2812) || colspan=3 | {{flagicon|Bulgaria}} [[Veselin Topalov|Topalov]] (2804) || colspan=6 | (2813)
+|-
+| style=background-color:#eaecf0 | 2007 || colspan=3 | {{flagicon|Bulgaria}} Topalov (2783) || colspan=3 | {{flagicon|India}} [[Viswanathan Anand|Anand]] (2786) || colspan=3 | (2792) || colspan=3 | (2801)
+|-
+| style=background-color:#eaecf0 | 2008 || colspan=3 | {{flagicon|Russia}} Kramnik (2799) || colspan=3 | {{flagicon|India}} Anand (2803) || colspan=3 | (2798) || colspan=3 | {{flagicon|Bulgaria}} Topalov (2791)
+|-
+| style=background-color:#eaecf0 | 2009 || colspan=3 | {{flagicon|Bulgaria}} Topalov (2796) || colspan=3 | (2812) || colspan=4 | (2813) || colspan=2 | (2810)
+|-
+| style=background-color:#eaecf0 | 2010 || colspan=2 | {{flagicon|Norway}} [[Magnus Carlsen|Carlsen]] (2810) || colspan=4 | (2813) || colspan=4 | (2826) || colspan=2 | {{flagicon|India}} Anand (2804)
+|-
+| style=background-color:#eaecf0 | 2011 || colspan=2 | {{flagicon|Norway}} Carlsen (2814) || colspan=4 | {{flagicon|India}} Anand ('''2817'''*) || colspan=2 | {{flagicon|Norway}} Carlsen (2821) || colspan=2 align=center | (2823) || colspan=2 | (2826)
+|-
+| style=background-color:#eaecf0 | 2012 || colspan=6 | {{flagicon|Norway}} Carlsen (2835) || colspan=2 align=center | (2837) || colspan=2 align=center | (2843) || colspan=2 align=center | (2848)
+|-
+| style=background-color:#eaecf0 | 2013 || {{flagicon|Norway}} Carlsen (2861) || colspan=3 align=center | (2872) || (2868) || (2864) || colspan=3 align=center | (2862) || colspan=2 align=center | (2870) || (2872)
+|-
+| style=background-color:#eaecf0 | 2014 || colspan=2 | {{flagicon|Norway}} Carlsen (2872) || colspan=2 | (2881) || ('''2882'''*) || (2881) || colspan=2 align=center | (2877) || align=center| (2870) || colspan=2 align=center | (2863) || (2862)
+|-
+| style=background-color:#eaecf0 | 2015 || {{flagicon|Norway}} Carlsen (2862) || align=center | (2865) || colspan=2 | (2863) || colspan=2 align=center | (2876) || colspan=3 align=center | (2853) || colspan=2 align=center | (2850) || (2834)
+|-
+| style=background-color:#eaecf0 | 2016 || colspan=2 | {{flagicon|Norway}} Carlsen (2844) || colspan=3 | (2851) || colspan=2 | (2855) || colspan=2 align=center | (2857) || colspan=2 align=center | (2853) || | (2840)
+|-
+| style=background-color:#eaecf0 | 2017 || {{flagicon|Norway}} Carlsen (2840) || colspan=3 align=center | (2838) || colspan=2 | (2832) || colspan=2 | (2822) || align=center | (2827) || | (2826) || colspan=2 align=center | (2837)
+|-
+| style=background-color:#eaecf0 | 2018 || {{flagicon|Norway}} Carlsen (2834) || colspan=5 align=center | (2843) || colspan=2 | (2842) || colspan=2 align=center | (2839) || colspan=2 align=center | (2835)
+|-
+| style=background-color:#eaecf0 | 2019 || {{flagicon|Norway}} Carlsen (2835) || colspan=3 align=center | (2845) || (2861) || (2875) || (2872) || ('''2882'''*) || colspan=2 align=center | (2876) || (2870) || (2872)
+|-
+| style=background-color:#eaecf0 | 2020 || {{flagicon|Norway}} Carlsen (2872) || colspan=2 align=center | (2862) || colspan=7 | (2863) || colspan=2 | (2862)
+|-
+| style=background-color:#eaecf0 | 2021 || colspan=2 | {{flagicon|Norway}} Carlsen (2862) ||colspan=6 | (2847) || colspan=3 align=center | (2855) || (2856)
+|-
+| style=background-color:#eaecf0 | 2022 || colspan=2 | {{flagicon|Norway}} Carlsen (2865) || colspan=6 | (2864) || align=center |(2861) || (2856) || colspan=2 align=center | (2859)
+|-
+| style=background-color:#eaecf0 | 2023 || {{flagicon|Norway}} Carlsen (2859) || colspan=2 align=center | (2852) || colspan=3 | (2853) || align=center colspan=2| (2835) ||align=center colspan=2| (2839) || (2829) || (2830)
+|-
+| style=background-color:#eaecf0 | 2024 || colspan=6 | {{flagicon|Norway}} Carlsen (2830) || colspan="3" align="center" | (2832) || colspan="3" align="center"|(2831)
+|-
+| style=background-color:#eaecf0 | 2025
+| {{flagicon|Norway}} Carlsen (2831) || colspan=2 align=center | (2833) || colspan=3 align=center | (2837)  || colspan=5 align=center | (2839) 
+|(2840)
+|-
+| style=background-color:#eaecf0 | 2026
+| colspan=5 align=left | {{flagicon|Norway}} Carlsen (2840) || (2841) || colspan=4 align=center | (2823) || colspan=3 align=center |
+|-
+! Year !! January !! February !! March !! April !! May !! June !! July !! August !! September !! October !! November !! December
+|}
+
+=== Timeline of world number ones ===
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:30
+PlotArea = left:100 bottom:60 top:0 right:10
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:01/01/1970 till:{{#time:d/m/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:1
+ScaleMajor = increment:2 start:1970
+ScaleMinor = increment:1 start:1972
+
+Colors =
+ id:usa value:orange legend:USA
+ id:ussr value:red legend:USSR
+ id:russia value:yellow legend:Russia
+ id:bulgaria value:green legend:Bulgaria
+ id:india value:blue legend:India
+ id:norway value:black legend:Norway
+
+LineData =
+ at:01/01/1975 color:black layer:back
+ at:01/01/1985 color:black layer:back
+ at:01/01/1995 color:black layer:back
+ at:01/01/2005 color:black layer:back
+ at:01/01/2015 color:black layer:back
+ at:01/01/2025 color:black layer:back
+ at:01/01/1980 color:black layer:back
+ at:01/01/1990 color:black layer:back
+ at:01/01/2000 color:black layer:back
+ at:01/01/2010 color:black layer:back
+ at:01/01/2020 color:black layer:back
+
+BarData =
+ bar:Fischer text:"Bobby Fischer"
+ bar:Karpov text:"Anatoly Karpov"
+ bar:Kasparov text:"Garry Kasparov"
+ bar:Kramnik text:"Vladimir Kramnik"
+ bar:Topalov text:"Veselin Topalov"
+ bar:Anand text:"Viswanathan Anand"
+ bar:Carlsen text:"Magnus Carlsen"
+
+PlotData=
+ width:10 textcolor:black align:left anchor:from shift:(10,-4)
+ bar:Fischer from:01/07/1971 till:01/01/1976 color:usa
+ bar:Karpov from:01/01/1976 till:01/01/1984 color:ussr
+ bar:Kasparov from:01/01/1984 till:01/07/1985 color:ussr
+ bar:Karpov from:01/07/1985 till:01/01/1986 color:ussr
+ bar:Kasparov from:01/01/1986 till:08/12/1991 color:ussr
+ bar:Kasparov from:09/12/1991 till:01/01/1994 color:russia
+ bar:Karpov from:01/01/1994 till:01/01/1995 color:russia
+ bar:Kasparov from:01/01/1995 till:01/01/1996 color:russia
+ bar:Kramnik from:01/01/1996 till:01/07/1996 color:russia
+ bar:Kasparov from:01/07/1996 till:01/04/2006 color:russia
+ bar:Topalov from:01/04/2006 till:01/04/2007 color:bulgaria
+ bar:Anand from:01/04/2007 till:01/01/2008 color:india
+ bar:Kramnik from:01/01/2008 till:01/04/2008 color:russia
+ bar:Anand from:01/04/2008 till:01/10/2008 color:india
+ bar:Topalov from:01/10/2008 till:01/01/2010 color:bulgaria
+ bar:Carlsen from:01/01/2010 till:01/11/2010 color:norway
+ bar:Anand from:01/11/2010 till:01/01/2011 color:india
+ bar:Carlsen from:01/01/2011 till:01/03/2011 color:norway
+ bar:Anand from:01/03/2011 till:01/07/2011 color:india
+ bar:Carlsen from:01/07/2011 till:end color:norway
+
+}}
+
+=== Player statistics ===
+Seven players have held the world number one ranking over a period of {{time interval|show=ym|1 June 1971}} <!--a full year is completed with new ratings on June 1-->, encompassing {{age in months|2003|November|1}}<!--date shifted to account for historical lower publication frequency; result is correct as long as lists are now published monthly--> rating lists. These seven players include six undisputed world chess champions, with Topalov being the only player to achieve the number one ranking without becoming undisputed world champion, though he was FIDE world champion from 2005 to 2006, and is still an active player. Spassky, Kramnik, Ding, and Gukesh are the only world champions in the period in question to never have been world number one while being champion. (Of these, Kramnik has been world number one, but only when he was not champion; Spassky, Ding, and Gukesh were never world number one.)
+
+Fischer was top of the lists successively five times over a period of 4.5 years, though he is considered to have already become the number one player in the world before the official list started, as he topped the unofficial list in 1970. Karpov topped the list 14 times, successively 11 times over a period of 8 years, once for 6 months, and twice for a year while Kasparov was excluded. Kasparov was world number one on the official list 52 times a period of 21 years and 3 months, and 31 times successively over nearly a decade from July 1996 to January 2006; he was number one 3 times successively over 1.5 years, then 16 times successively over 8 years, then twice successively for one year, and then finally 31 times over 9 years and 9 months. Kramnik was world number one 2 times (for 6 and 3 months), for a total of 9 months. Topalov was world number one successively 4 and 6 times (a total of 10 times), for 12 months and 15 months respectively (for a total of 27 months). Anand was world number one successively 2 and 3 times (a total of 5 times), for 6 months and 9 months respectively (for a total of 15 months). {{As of|2026|8|post=,}} Carlsen has been world number one 194 times, including a record 182 consecutive times since July 2011.
+
+{| class="wikitable sortable" align="center"
+|+ Time at FIDE number one and youngest age at FIDE number one
+|-
+! Player
+! Months at No. 1
+! Peak rating
+! Age at first time No. 1
+! Date at first time No. 1
+! Rating at first time No. 1
+|-
+| {{flagicon|URS}} {{flagicon|RUS}} {{sortname|Garry|Kasparov}}||255||2851||{{ayd|1963|04|13|1984|01|01}}||{{dts|1984|1|1}}||2710
+|-
+| {{flagicon|NOR}} {{sortname|Magnus|Carlsen}}||196||2882||{{ayd|1990|11|30|2010|01|01}}||{{dts|2010|1|1}}||2810
+|-
+| {{flagicon|URS}} {{flagicon|RUS}} {{sortname|Anatoly|Karpov}}||114||2780||{{ayd|1951|05|23|1976|01|01}}||{{dts|1976|1|1}}||2695
+|-
+| {{flagicon|USA}} {{sortname|Bobby|Fischer}}||54||2785||{{ayd|1943|03|09|1971|07|01}}||{{dts|1971|7|1}}||2760
+|-
+| {{flagicon|BUL}} {{sortname|Veselin|Topalov}}||27||2816||{{ayd|1975|03|15|2006|04|01}}||{{dts|2006|4|1}}||2804
+|-
+| {{flagicon|IND}} {{sortname|Viswanathan|Anand}}||24||2817||{{ayd|1969|12|11|2007|04|01}}||{{dts|2007|4|1}}||2786
+|-
+| {{flagicon|RUS}} {{sortname|Vladimir|Kramnik}}||9||2817||{{ayd|1975|06|25|1996|01|01}}||{{dts|1996|1|1}}||2775
+|}
+
+== Women ==
+=== List of world female number ones ===
+The following is a list of the players ranked number one female on the FIDE rating system from the first official list in July 1971 to the present day, along with their ratings during the periods in question. A rating denoted with '''bold''' text followed by an asterisk (*) is a career high rating.
+
+{| class="wikitable"
+! Year !! January !! February !! March !! April !! May !! June !! July !! August !! September !! October !! November !! December
+|-
+| style=background-color:#eaecf0 | 1971 || align=center colspan=6 style='background-color:#ddd;color:#555' | ''(before official FIDE ratings)'' || colspan=6 | {{flagicon|Soviet Union}} [[Nona Gaprindashvili]] (2390)
+|-
+| 1972 || colspan=6 | || colspan=6 | {{flagicon|Soviet Union}} Nona Gaprindashvili (2450)
+|-
+| 1973 || colspan=6 | || colspan=6 | {{flagicon|Soviet Union}} Nona Gaprindashvili (2420)
+|-
+| 1974 || colspan=4 | || colspan=8 | {{flagicon|Soviet Union}} Nona Gaprindashvili (2405)
+|-
+| 1975 || colspan=12 | {{flagicon|Soviet Union}} Nona Gaprindashvili (2410)
+|-
+| 1976 || colspan=12 | {{flagicon|Soviet Union}} Nona Gaprindashvili (2440)
+|-
+| 1977 || colspan=12 | {{flagicon|Soviet Union}} Nona Gaprindashvili (2445)
+|-
+| 1978 || colspan=12 | {{flagicon|Soviet Union}} Nona Gaprindashvili (2425)
+|-
+| 1979 || colspan=12 | {{flagicon|Soviet Union}} Nona Gaprindashvili (2405)
+|-
+| 1980 || colspan=12 | {{flagicon|Soviet Union}} [[Maia Chiburdanidze]] (2400)
+|-
+| 1981 || colspan=6 | {{flagicon|Soviet Union}} Maia Chiburdanidze (2425) || colspan=6 | (2405)
+|-
+| 1982 || colspan=6 | {{flagicon|Soviet Union}} Maia Chiburdanidze (2390) || colspan=6 | (2385)
+|-
+| 1983 || colspan=6 | {{flagicon|Sweden}} [[Pia Cramling]] (2355) || colspan=6 | {{flagicon|Soviet Union}} Maia Chiburdanidze (2380)
+|-
+| 1984 || colspan=6 | {{flagicon|Sweden}} Pia Cramling (2405) || colspan=6 | {{flagicon|Hungary}} [[Susan Polgar]] (2405)
+|-
+| 1985 || colspan=6 | {{flagicon|Hungary}} Susan Polgar (2430) || colspan=6 | {{flagicon|Soviet Union}} Maia Chiburdanidze (2450)
+|-
+| 1986 || colspan=6 | {{flagicon|Soviet Union}} Maia Chiburdanidze (2455) || colspan=6 | {{flagicon|Hungary}} Susan Polgar (2455)
+|-
+| 1987 || colspan=6 | {{flagicon|Soviet Union}} Maia Chiburdanidze (2530) || colspan=6 | (2550)
+|-
+| 1988 || colspan=6 | {{flagicon|Soviet Union}} Maia Chiburdanidze ('''2560'''*) || colspan=6 | (2555)
+|-
+| 1989 || colspan=12 | {{flagicon|Hungary}} [[Judit Polgár]] (2555)
+|-
+| 1990 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2550) || colspan=6 | (2540)
+|-
+| 1991 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2540) || colspan=6 | (2550)
+|-
+| 1992 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2550) || colspan=6 | (2575)
+|-
+| 1993 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2595) || colspan=6 | (2635)
+|-
+| 1994 || colspan=12 | {{flagicon|Hungary}} Judit Polgár (2630)
+|-
+| 1995 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2630) || colspan=6 | (2635)
+|-
+| 1996 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2675) || colspan=6 | (2665)
+|-
+| 1997 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2645) || colspan=6 | (2670)
+|-
+| 1998 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2675) || colspan=6 | (2665)
+|-
+| 1999 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2677) || colspan=6 | (2671)
+|-
+| 2000 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2658) || colspan=6 | (2656)
+|-
+| 2001 || colspan=3 | {{flagicon|Hungary}} Judit Polgár (2676) || colspan=3 | (2678) || colspan=6 | (2686)
+|-
+| 2002 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2677) || colspan=3 | (2681) || colspan=3 | (2685)
+|-
+| 2003 || colspan=3 | {{flagicon|Hungary}} Judit Polgár (2700) || colspan=3 | (2715) || colspan=3 | (2718) || colspan=3 | (2722)
+|-
+| 2004 || colspan=12 | {{flagicon|Hungary}} Judit Polgár (2728)
+|-
+| 2005 || colspan=3 | {{flagicon|USA}} Susan Polgar ('''2577'''*) || colspan=3 | {{flagicon|Hungary}} Judit Polgár (2732) || colspan=6 align=center | {{flagicon|Hungary}} Judit Polgár ('''2735'''*)
+|-
+| 2006 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2711) || colspan=6 | (2710)
+|-
+| 2007 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2727) || colspan=3 | (2707) || colspan=3 | (2708)
+|-
+| 2008 || colspan=3 | {{flagicon|Hungary}} Judit Polgár (2707) || colspan=3 | (2709) || colspan=6 | (2711)
+|-
+| 2009 || colspan=6 | {{flagicon|Hungary}} Judit Polgár (2693) || colspan=4 | (2687) || colspan=2 | (2680)
+|-
+| 2010 || colspan=10 | {{flagicon|Hungary}} Judit Polgár (2682) || colspan=2 | (2686)
+|-
+| 2011 || colspan=4 | {{flagicon|Hungary}} Judit Polgár (2686) || colspan=4 | (2699) || colspan=2 | (2701) || colspan=2 | (2710)
+|-
+| 2012 || colspan=2 | {{flagicon|Hungary}} Judit Polgár (2710) || colspan=5 | (2709) || colspan=2 | (2698) || colspan=3 | (2705)
+|-
+| 2013 || colspan=9 | {{flagicon|Hungary}} Judit Polgár (2696) || colspan=2 | (2689) || | (2693)
+|-
+| 2014 || colspan=3 | {{flagicon|Hungary}} Judit Polgár (2693) || colspan=3 | (2685) || colspan=2 | (2676) || colspan=4 | (2675)
+|-
+| 2015 || colspan=2 | {{flagicon|Hungary}} Judit Polgár (2675) || colspan=3 align=center | {{flagicon|China}} [[Hou Yifan]] ('''2686'''*) || colspan=2 align=center | (2676) || align=center | {{flagicon|Hungary}} Judit<br />Polgar (2675) || colspan=2 align=center | {{flagicon|China}} Hou Yifan (2671) || colspan=2 align=center | (2683)
+|-
+| 2016 || colspan=2 | {{flagicon|China}} Hou Yifan (2673) || | (2667) || colspan=4 | (2663) || colspan=2 | (2658) || (2649) || | (2635) || (2651)
+|-
+| 2017 || colspan=2 | {{flagicon|China}} Hou Yifan (2651) || colspan=2 | (2649) || (2652) || colspan=2 | (2666) || (2652) || (2670) || (2678) || colspan=2 | (2680)
+|-
+| 2018 || colspan=1 | {{flagicon|China}} Hou Yifan (2680) || colspan=2 align=center | (2654) || (2657) || colspan=7 | (2658) || (2662)
+|-
+| 2019 || colspan=5 | {{flagicon|China}} Hou Yifan (2662) || colspan=6 | (2659) || (2664)
+|-
+| 2020 || colspan=2 | {{flagicon|China}} Hou Yifan (2664) || colspan=10 | (2658)
+|-
+| 2021 || colspan=12 | {{flagicon|China}} Hou Yifan (2658)
+|-
+| 2022 || colspan=2 | {{flagicon|China}} Hou Yifan (2658) || colspan=7 | (2650) || colspan=3 |(2638)
+|-
+| 2023 || colspan=2 | {{flagicon|China}} Hou Yifan (2638) || colspan=8 | (2628) || colspan=2 align=center | (2632)
+|-
+| 2024 || colspan=7 | {{flagicon|China}} Hou Yifan (2632) || colspan=5 align=center | (2633)
+|-
+| 2025 || colspan=7 | {{flagicon|China}} Hou Yifan (2633) || align=center colspan=2 | (2609) || align=center | (2617) || align=center | (2620) || align=center | (2613)
+|-
+| 2026 
+| {{flagicon|China}} Hou Yifan (2613) || colspan=9 align=center | (2596) || 
+|-
+! Year !! January !! February !! March !! April !! May !! June !! July !! August !! September !! October !! November !! December
+|}
+
+=== Timeline ===
+{{clear}}
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:30
+PlotArea = left:100 bottom:60 top:0 right:10
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:01/01/1971 till:{{#time:d/m/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:1
+ScaleMajor = increment:2 start:1971
+ScaleMinor = increment:1 start:1972
+
+Colors =
+ id:ussr value:red legend:USSR
+ id:sweden value:rgb(0.45,0,0.8) legend:Sweden
+ id:hungary value:rgb(0,0.7,0.4) legend:Hungary
+ id:usa value:blue legend:USA
+ id:china value:rgb(0.65,0.35,0) legend:China
+
+LineData =
+ at:01/01/1975 color:black layer:back
+ at:01/01/1985 color:black layer:back
+ at:01/01/1995 color:black layer:back
+ at:01/01/2005 color:black layer:back
+ at:01/01/2015 color:black layer:back
+ at:01/01/1980 color:black layer:back
+ at:01/01/1990 color:black layer:back
+ at:01/01/2000 color:black layer:back
+ at:01/01/2010 color:black layer:back
+ at:01/01/2020 color:black layer:back
+
+BarData =
+ bar:Gaprindashvili text:"Nona Gaprindashvili"
+ bar:Chiburdanidze text:"Maia Chiburdanidze"
+ bar:Cramling text:"Pia Cramling"
+ bar:SPolgar text:"Susan Polgar"
+ bar:JPolgar text:"Judit Polgar"
+ bar:HouYifan text:"Hou Yifan"
+
+PlotData=
+ width:10 textcolor:black align:left anchor:from shift:(10,-4)
+ bar:Gaprindashvili from:01/07/1971 till:01/01/1980 color:ussr
+ bar:Chiburdanidze from:01/01/1980 till:01/01/1983 color:ussr
+ bar:Cramling from:01/01/1983 till:01/07/1983 color:sweden
+ bar:Chiburdanidze from:01/07/1983 till:01/01/1984 color:ussr
+ bar:Cramling from:01/01/1984 till:01/07/1984 color:sweden
+ bar:SPolgar from:01/07/1984 till:01/07/1985 color:hungary
+ bar:Chiburdanidze from:01/07/1985 till:01/07/1986 color:ussr
+ bar:SPolgar from:01/07/1986 till:01/01/1987 color:hungary
+ bar:Chiburdanidze from:01/01/1987 till:01/01/1989 color:ussr
+ bar:JPolgar from:01/01/1989 till:01/01/2005 color:hungary
+ bar:SPolgar from:01/01/2005 till:01/04/2005 color:usa
+ bar:JPolgar from:01/04/2005 till:01/03/2015 color:hungary
+ bar:HouYifan from:01/03/2015 till:01/08/2015 color:china
+ bar:JPolgar from:01/08/2015 till:01/09/2015 color:hungary
+ bar:HouYifan from:01/09/2015 till:end color:china
+
+}}
+
+=== Women statistics ===
+{| class="wikitable sortable"
+|+ Time at FIDE number one and youngest age at FIDE number one
+|-
+! Player
+! Months at No. 1
+! Peak rating
+! Age at first time No. 1
+! Date at first time No. 1
+! Rating at first time No. 1
+|-
+| {{flagicon|HUN}} {{sortname|Judit|Polgár}}||312||2735||{{ayd|1976|07|23|1989|01|01}}||{{dts|1989|1|1}}||2555
+|-
+| {{flagicon|CHN}} {{sortname|Hou|Yifan}}||{{age in months|2015|March|1}}||2686||{{ayd|1994|02|27|2015|03|01}}||{{dts|2015|3|1}}||2686
+|-
+| {{flagicon|URS}} {{sortname|Nona|Gaprindashvili}}||102||2495||{{ayd|1941|05|03|1971|07|01}}||{{dts|1971|7|1}}||2390
+|-
+| {{flagicon|URS}} {{sortname|Maia|Chiburdanidze}}||78||2560||{{ayd|1961|01|17|1980|01|01}}||{{dts|1980|1|1}}||2400
+|-
+| {{flagicon|HUN}} {{flagicon|USA}} {{sortname|Susan|Polgar}}||21||2577||{{ayd|1969|04|19|1984|07|01}}||{{dts|1984|7|1}}||2405
+|-
+| {{flagicon|SWE}} {{sortname|Pia|Cramling}}||12||2550||{{ayd|1963|04|23|1983|01|01}}||{{dts|1983|1|1}}||2355
+|}
+
+== List of junior world number ones ==
+FIDE publishes lists of highest-rated junior chess players; a "junior" is defined as being a player who is aged under 20 at the start of the year. The following is a list of the players ranked number one junior in the FIDE rating system from July 1999 to the present day, along with their ratings during the periods in question.
+
+{| class="wikitable"
+|-
+! Year !! January !! February !! March !! April !! May !! June !! July !! August !! September !! October !! November !! December
+|-
+| 1999 || colspan=6 align=center | ''N/A'' || colspan=6 | {{flagicon|Hungary}} [[Peter Leko]] (2701)<ref>[https://web.archive.org/web/19991127124602/http://www.worldfide.com/fide/html/top20juniors.html FIDE Top 20 Juniors july 1999], web.archive.org (november 1999).</ref>
+|-
+| 2000 || colspan=6| {{flagicon|Ukraine}} [[Ruslan Ponomariov]] (2627)<ref>[https://web.archive.org/web/20000302184005/http://www.worldfide.com/fide/html/top20juniors.html FIDE Top 20 Juniors january 2000], web.archive.org (march 2000).</ref> || colspan=3 | (2630) || colspan=3 | (2624)
+|-
+| 2001 || colspan=3| {{flagicon|Ukraine}} [[Ruslan Ponomariov]] (2677) || colspan=3 | (2673) || colspan=6 align=center | (2684)
+|-
+| 2002 || colspan=3| {{flagicon|Ukraine}} [[Ruslan Ponomariov]] (2727) || colspan=9 | (2743)
+|-
+| 2003 || colspan=3 | {{flagicon|Ukraine}} Ruslan Ponomariov (2734) || colspan=3 | (2718) || colspan=6 | {{flagicon|Russia}} [[Alexander Grischuk]] (2732)
+|-
+| 2004 || colspan=3| {{flagicon|Azerbaijan}} Teimour Radjabov (2656) || colspan=3 | (2670) || colspan=3 | (2664) || colspan=3 | (2663)
+|-
+| 2005 || colspan=3 | {{flagicon|Ukraine}} [[Andrei Volokitin]] (2685) || colspan=3 | (2679) || colspan=3 | {{flagicon|Azerbaijan}} Teimour Radjabov (2682) || colspan=3 | (2704)
+|-
+| 2006 || colspan=3| {{flagicon|Azerbaijan}} Teimour Radjabov (2700) || colspan=3 | (2717) || colspan=3 | (2728) || colspan=3 | (2729)
+|-
+| 2007 || colspan=3| {{flagicon|Azerbaijan}} Teimour Radjabov (2729) || colspan=3 | (2747) || colspan=3 | (2746) || colspan=3 | (2742)
+|-
+| 2008 || colspan=3| {{flagicon|Norway}} Magnus Carlsen (2733) || colspan=3 | (2765) || colspan=3 | (2775) || colspan=3 | (2786)
+|-
+| 2009 || colspan=3| {{flagicon|Norway}} Magnus Carlsen (2776) || colspan=3 align=center | (2770) || colspan=4 align=center | (2772) || colspan=2 align=center | (2801)
+|-
+| 2010 || colspan=2| {{flagicon|Norway}} Magnus Carlsen (2810) || colspan=4 align=center | (2813) || colspan=4 align=center | ('''2826''') || colspan=2 align=center | (2802)
+|-
+| 2011 || colspan=2 |{{flagicon|Italy}} Fabiano Caruana (2721) || colspan=2 align=center| (2716) || colspan=2 align=center| (2714) || colspan=2 align=center | {{flagicon|Vietnam}} [[Lê Quang Liêm]]<br />(2711) || colspan=2 align=center | {{flagicon|Netherlands}} [[Anish Giri]]<br />(2722) || colspan=2 align=center | {{flagicon|Italy}} Fabiano Caruana<br />(2727)
+|-
+| 2012 || colspan=2 |{{flagicon|Italy}} Fabiano Caruana (2736) || colspan=2 align=center | (2767) || colspan=2 align=center | (2770) || align=center | (2775) || colspan=2 align=center | (2773) || align=center | (2772) || align=center | (2786) || align=center |(2782)
+|-
+| 2013 || {{flagicon|Netherlands}} [[Anish Giri]] (2726) || align=center |(2722) || align=center |(2729) || align=center |(2727) || colspan=3 align=center | (2734) || colspan=2 align=center | (2737) || align=center |(2749) || align=center |(2732) || align=center |(2734)
+|-
+| 2014 || {{flagicon|Netherlands}} Anish Giri (2734) || align=center |(2746) || colspan=2 align=center | (2745) || align=center |(2746) || align=center |(2752) || align=center |(2750) || align=center |(2745) || align=center |(2758) || align=center |(2768) || align=center |(2776) || align=center |(2768)
+|-
+| rowspan=2 | 2015 || rowspan=2 align=center | {{flagicon|Hungary}} [[Richárd Rapport]]<br />(2716) || align=center rowspan=2 | (2703) || align=center rowspan=2 | (2709) ||align=center rowspan=2 | (2710) || colspan=2 align=center | {{flagicon|China}} [[Wei Yi]] || align=center rowspan=2 | (2724) || align=center rowspan=2 | (2725) || colspan=2 align=center rowspan=2 | (2734) || align=center rowspan=2 | (2737) || align=center rowspan=2 | (2730)
+|-
+| align=center | (2718) || align=center | (2721)
+|-
+| 2016 || colspan=2 | {{flagicon|Hungary}} Richárd Rapport (2721) || align=center | (2720) || align=center | (2717)|| colspan=2 align=center | (2731) || colspan=3 align=center | (2752) || align=center | (2729) || align=center | (2730) || align=center | (2717)
+|-
+| 2017 || colspan=1 | {{flagicon|China}} Wei Yi (2706) || colspan=2 align=center | (2725) || align=center | (2727) || align=center | (2732) || align=center | (2728) || align=center | (2738) || align=center | (2753) || align=center | (2748) || align=center | (2740) || align=center | (2739) || align=center | (2743)
+|-
+| rowspan=2 | 2018 || rowspan=2 | {{flagicon|China}} Wei Yi (2743) || colspan=5 rowspan=2 align=center | (2734)|| colspan=2 align=center | {{flagicon|Poland}} [[Jan-Krzysztof Duda]] || colspan=2 align=center rowspan=2 |{{flagicon|China}} Wei Yi<br />(2742) || colspan=2 align=center | {{flagicon|Poland}} [[Jan-Krzysztof Duda]]
+|-
+| align=center | (2737) || align=center | (2740) || colspan=2 align=center | (2738)
+|-
+| 2019 || colspan=3 | {{flagicon|China}} Wei Yi (2733) || align=center | (2728) || align=center | (2736) || align=center | (2741) || align=center | (2737) || align=center | (2727) || colspan=2 align=center | (2721) || align=center | (2724) || align=center | (2725)
+|-
+| rowspan=2| 2020 || colspan=2 | {{nowrap|{{flagicon image|FIDE flag icon.png}} [[Alireza Firouzja]] ([[FIDE flag player|FIDE]])}} || colspan=8 align=center rowspan=2| (2728) || align=center colspan=2 rowspan=2 | (2749)
+|-
+| align=center| (2723) || align=center| (2726)
+|-
+| 2021 || colspan=2 | {{nowrap|{{flagicon image|FIDE flag icon.png}} Alireza Firouzja ([[FIDE flag player|FIDE]])}} (2749) ||align=center colspan=4 |(2759) || colspan=2 | {{flagicon|France}} Alireza Firouzja (2759) ||align=center |(2754) || align=center colspan=2 | (2770) || align=center | (2804)
+|-
+| 2022 || colspan=5 | {{flagicon|France}} Alireza Firouzja (2804) ||align=center colspan=2 | (2793)
+| align= center colspan=2 | (2778) ||align=center colspan=3 |(2785)
+|-
+| 2023 || colspan=5 | {{flagicon|France}} Alireza Firouzja (2785) || (2786) ||colspan=5 align=center | (2777) || align=center | (2763)
+|-
+| 2024 || align=center | {{flagicon|Germany}} [[Vincent Keymer]]<br />(2743) || align=center |{{flagicon|India}} [[R Praggnanandhaa]]<br />(2747) || colspan=1 align=center | {{flagicon|Uzbekistan}} [[Nodirbek Abdusattorov|N. Abdusattorov]]<br />(2750) || colspan=2 align=center | (2765) || align=center | (2766) || colspan=1 align=center | (2769) || align=center | {{flagicon|India}} [[Gukesh D]]<br />(2766)|| colspan=1 align=center | {{flagicon|Uzbekistan}} N. Abdusattorov<br />(2766) || align=center | {{flagicon|India}} Gukesh D<br />(2794) || align=center colspan=2 | (2783)
+|-
+| 2025 || {{flagicon|India}} Gukesh D (2783) || align=center |(2777) || colspan=3 align=center |(2787) || align=center | (2776) || align=center colspan=2 |{{flagicon|India}} R Praggnanandhaa<br />(2779) || align=center |(2785) ||align=center | (2771) ||align=center | (2768) ||align=center | (2761) 
+|- 
+| 2026
+| colspan=2 | {{flagicon|India}} Gukesh D (2754) || colspan=1 align=center |(2748) || colspan=3 align=center |(2732) || colspan=1 align=center |(2717) || align=center  colspan=2 | {{flagicon|Turkiye}} [[Yağız Kaan Erdoğmuş]]<br />(2716) ||align=center | (2731)
+|-
+! Year !! January !! February !! March !! April !! May !! June !! July !! August !! September !! October !! November !! December
+|}
+
+== List of girl world number ones ==
+FIDE publishes lists of highest-rated girl chess players; a "girl" is defined as being a player who is aged under 20 at the start of the year, and female. The following is a list of the players ranked number one girl in the FIDE rating system from January 2000 to the present day, along with their ratings during the periods in question.
+
+{| class="wikitable"
+! Year !! January !! February !! March !! April !! May !! June !! July !! August !! September !! October !! November !! December
+|-
+| 2000 || colspan=6 | {{flagicon|Vietnam}} [[Hoang Thanh Trang]] (2448)<ref>[https://web.archive.org/web/20000125154313/http://www.worldfide.com/fide/html/top20girls.html FIDE Top 20 girls, january 2000], web.archive.org, january 2000.</ref> || colspan=3 | (2489) || colspan=3 | (2493)
+|-
+| 2001 || colspan=3 | {{flagicon|China}} [[Xu Yuanyuan]] (2437) || colspan=3 | {{flagicon|Lithuania}} [[Viktorija Čmilytė]] (2464) || colspan=3 | (2464) || colspan=3 | {{flagicon|India}} [[Humpy Koneru]] (2484)
+|-
+| 2002 || colspan=3 | {{flagicon|India}} Humpy Koneru (2539) || colspan=3 | (2486) || colspan=3 | (2473) || colspan=3 | (2484)
+|-
+| 2003 || colspan=3 | {{flagicon|India}} Humpy Koneru (2496) || colspan=3 | (2496) || colspan=3 | (2468)<ref>{{Cite web |title=Top 20 Girls July 2003 FIDE Top players archive |url=https://ratings.fide.com/toparc.phtml?cod=52}}</ref> || colspan=3 | {{flagicon|Ukraine}} [[Kateryna Lagno]] (2486) {{refn|group=note|FIDE erroneously states that [[Anna Muzychuk]] (rated 2325) was the highest-rated girl player in October 2003, despite their official list showing sixteen girl players more highly-rated than Muzychuk.<ref>{{Cite web |title=Top 20 Girls October 2003 FIDE Top players archive |url=https://ratings.fide.com/toparc.phtml?cod=56}}</ref>}}
+|-
+| 2004 || colspan=3 | {{flagicon|India}} Humpy Koneru (2498) || colspan=3 | (2513) || colspan=3 | {{flagicon|Russia}} [[Alexandra Kosteniuk]] (2511) || colspan=3 | (2508)
+|-
+| 2005 || colspan=3 | {{flagicon|India}} Humpy Koneru (2512) || colspan=3 | (2508) || colspan=3 | (2531) || colspan=3 | (2540)
+|-
+| 2006 || colspan=3 | {{flagicon|India}} Humpy Koneru (2537) || colspan=3 | (2548) || colspan=3 | (2545) || colspan=3 | (2545)
+|-
+| 2007 || colspan=3 | {{flagicon|India}} Humpy Koneru (2567) || colspan=3 | (2575) || colspan=3 | (2572) || colspan=3 | (2606)
+|-
+| 2008 || colspan=3 | {{flagicon|China}} [[Hou Yifan]] (2527) || colspan=3 | (2549) || colspan=3 | (2557) || colspan=3 | (2578)
+|-
+| 2009 || colspan=3 | {{flagicon|China}} Hou Yifan (2571) || colspan=3 align=center | (2590) || colspan=2 align=center | (2584) || colspan=2 align=center | (2585) || colspan=2 align=center | (2588)
+|-
+| 2010 || colspan=2 | {{flagicon|China}} Hou Yifan (2590) || colspan=2 align=center | (2570) || colspan=2 align=center |(2589) || colspan=2 align=center |(2577) || colspan=2 align=center |(2578) || colspan=2 align=center | (2591)
+|-
+| 2011 || colspan=4 | {{flagicon|China}} Hou Yifan (2602) || colspan=2 align=center | (2612) || colspan=2 align=center | (2575) || colspan=4 align=center | (2578)
+|-
+| 2012 || colspan=2 | {{flagicon|China}} Hou Yifan (2605) || colspan=2 align=center | (2639) || colspan=2 align=center | (2623) || align=center | (2617) || colspan=2 align=center | (2599) || align=center | (2605) || colspan=2 align=center | (2606)
+|-
+| 2013 || colspan=1 | {{flagicon|China}} Hou Yifan (2603) || colspan=4 align=center | (2617) || align=center | (2595) || align=center | (2600) || colspan=2 align=center | (2609) || align=center | (2621) || colspan=2 align=center | (2629)
+|-
+| 2014 || colspan=3 | {{flagicon|China}} Hou Yifan (2629) || align=center | (2618) || colspan=3 align=center | (2629) || align=center | (2661) || align=center | (2663) || colspan=3 align=center | ('''2673''')
+|-
+| rowspan=2| 2015 || colspan=12 | {{flagicon|Russia}} [[Aleksandra Goryachkina]]
+|-
+| colspan=2 align=center | (2451) || align=center | (2456) || align=center | (2473) || align=center | (2474) || colspan=2 align=center | (2486) || align=center | (2474) || align=center | (2497) || align=center | (2480) || align=center | (2478) || align=center | (2493)
+|-
+| rowspan="2" |2016 || colspan=3 | {{flagicon|Russia}} Aleksandra Goryachkina || colspan=3 align=center|{{flagicon|China}} [[Lei Tingjie]] || align=center rowspan=2 | {{flagicon|Russia}} Aleksandra<br />Goryachkina<br />(2482) || colspan=5 align=center | {{flagicon|China}} Lei Tingjie
+|-
+| align=center colspan=2 | (2502) || align=center | (2509) || align=center | (2504) || colspan=2 align=center | (2487){{refn|group=note|FIDE did not release an official list of top girl players in May 2016, perhaps as a reference to the [[HTTP 404]] computer error: such a list, if published, would have been numbered 404 on the FIDE website.<ref>{{Cite web |title=Top 100 Girls May 2016 FIDE Top players archive |url=https://ratings.fide.com/toparc.phtml?cod=404 |website=ratings.fide.com}}</ref>}} || colspan=2 align=center | (2480) || colspan=2 align=center | (2473) || align=center | (2468)
+|-
+| 2017 || colspan=2 | {{flagicon|China}} {{nowrap|[[Lei Tingjie]]}} (2467) || colspan=2 align=center | (2480) || align=center | (2471) || align=center | (2482) || align=center | (2488) || align=center | (2522) || align=center | (2514) || align=center | (2534) || colspan=3 align=center | (2528)
+|-
+| rowspan="2" | 2018 || colspan=12 | {{flagicon|Russia}} [[Aleksandra Goryachkina]]
+|-
+| colspan=2 align=center | (2493) || align=center | (2491) || align=center | (2495) || align=center | (2496) || align=center | (2505) || align=center | (2509) || colspan=2 align=center | (2535) || align=center | (2536) || align=center | (2534) || align=center | (2518)
+|-
+| rowspan="2" | 2019 || colspan=2 rowspan=2 align=left | {{flagicon|Kazakhstan}} [[Zhansaya Abdumalik]] (2468) || align=center rowspan=2 | {{flagicon|Russia}} Polina<br />[[Polina Shuvalova|Shuvalova]]<br />(2471) || colspan=5 align=center |{{flagicon|Kazakhstan}} Zhansaya Abdumalik || colspan=2 align=center | {{flagicon|China}} [[Zhu Jiner]] || colspan=2 align=center | {{flagicon|Kazakhstan}} Zhansaya Abdumalik
+|-
+| align=center | (2463) || colspan=2 align=center | (2464) || align=center | (2458) || align=center | (2457) || align=center | (2471) || align=center | (2507) || align=center | (2472) || align=center | (2465)
+|-
+| rowspan=1 | 2020 || colspan=2 | {{flagicon|Kazakhstan}} Zhansaya Abdumalik (2471) || align=center | (2461) || align=center colspan=9 | (2478)
+|-
+| 2021 || colspan=4 | {{flagicon|Russia}} [[Polina Shuvalova]] (2476) || align=center | (2484) || colspan=2 align=center | (2489) || align=center | (2507) || align=center | (2510) || align=center | (2509) || align=center | (2515) || align=center | (2516)
+|-
+| 2022 || colspan=2 | {{flagicon|China}} [[Zhu Jiner]] (2478) || align=center colspan=7 | (2464) ||align=center colspan=1 |(2484) || align= center colspan=2| (2486)
+|-
+| 2023 || colspan=4 | {{flagicon|Kazakhstan}} [[Bibisara Assaubayeva]] (2440) || align=center | (2464)|| align=center colspan=5 | (2469) || align=center | (2468) || align=center | (2472)
+|-
+| 2024 || colspan=3 | {{flagicon|Kazakhstan}} Bibisara Assaubayeva (2472) || colspan=2 align=center | (2481) || colspan=2 align=center | (2472) || align=center| {{flagicon|India}} [[Divya Deshmukh]]<br/> (2472)|| align =center| (2483)|| align =center| (2501) ||align =center| (2493) ||align=center | {{flagicon|Kazakhstan}} Bibisara<br />Assaubayeva<br />(2492)
+|-
+| 2025 || colspan=2 | {{flagicon|India}} Divya Deshmukh (2490)||align =center| (2470)||align =center| (2460)||align =center| (2469)|| align=center colspan=2 | (2463)|| align=center colspan=2 |  (2478) || align=center |  (2498)|| align=center |  (2505)|| align=center |  (2497)
+|-
+| 2026
+| {{flagicon|China}} [[Lu Miaoyi]] (2431) || align=center | (2438) || colspan=1 align=center |{{flagicon image|FIDE flag icon.png}} [[Anna Shukhman]]<br/> (2431) || colspan=1 align=center |{{flagicon|KAZ}} [[Alua Nurman]]<br/> (2443) || colspan=2 align=center |{{flagicon image|FIDE flag icon.png}} Anna Shukhman<br/> (2456) || colspan=2 align=center |{{flagicon|UKR}} [[Anastasiia Hnatyshyn]]<br/> (2465) || align=center |(2463) || align=center |{{flagicon|USA}} [[Alice Lee (chess player)|Alice Lee]]<br/> (2467) 
+|-
+! Year !! January !! February !! March !! April !! May !! June !! July !! August !! September !! October !! November !! December
+|}
+
+== Rapid and blitz ratings ==
+Since January 2012, [[FIDE]] has also calculated ratings for [[Rapid chess|Rapid]] and [[Blitz chess|Blitz]] chess, and has published top player rating lists for these time controls since May 2014.<ref name="may2014">[https://en.chessbase.com/post/nakamura-is-world-no-1-in-rapid-and-blitz Nakamura is world no.1 in Rapid and Blitz], ChessBase, May 2014.</ref>
+<ref name="chessrankings">[https://ratings.fide.com/rankings.phtml?continent=0&country=&rating=blitz&gender=&age1=0&age2=0&period=2020-12-01&period2=1 FIDE Chess Rankings and Statistics], ratings.fide.com</ref>
+
+=== Rapid chess ===
+==== Top players ====
+{| class="wikitable center" style="text-align:center"
+|-
+! Year !! style="width:14%"| January !! style="width:6%"| February !! style="width:8%"| March !! style="width:7%"| April !! style="width:8%"| May !! style="width:8%"| June !! style="width:6%"| July !! style="width:8%"| August !! style="width:6%"| September !! style="width:8%"| October !! style="width:8%"| November !! style="width:10%"| December
+|-
+| 2014 || colspan=4 | ''N/A'' || colspan=2 | {{flagicon|United States}} [[Hikaru Nakamura]] (2841)<ref name=may2014/> || colspan=6 | {{flagicon|Italy}} [[Fabiano Caruana]] (2858)
+|-
+| 2015 || colspan=2 align=left | {{flagicon|Italy}} [[Fabiano Caruana]] (2856)|| {{flagicon|Norway}} [[Magnus Carlsen|Carlsen]] (2855)|| colspan=7 | {{flagicon|United States}} [[Hikaru Nakamura]] (2850)|| colspan=2 | {{flagicon|Norway}} [[Magnus Carlsen]] (2873)
+|-
+| 2016 || colspan=6 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2878) || colspan=5 | (2894) || (2906)
+|-
+| 2017 || colspan=6 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2896) || ('''2919''') || colspan=4 | (2909) || (2908)
+|-
+| 2018 || colspan=11 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2880) || (2903)
+|-
+| rowspan=2 | 2019 || colspan=5 rowspan=2 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2869) || colspan=3 rowspan=2 | (2895) || colspan=3 |{{flagicon|France}} [[Maxime Vachier-Lagrave]] || {{flagicon|Norway}} [[Magnus Carlsen|Carlsen]]
+|-
+| colspan=2 | (2867) || (2873) || (2886)
+|-
+| 2020 || colspan=12 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2881)
+|-
+| 2021 || colspan=8 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2881) || colspan=4 | {{flagicon|Norway}} [[Magnus Carlsen]] (2842)
+|-
+| 2022 || colspan=7 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2847)
+| {{flagicon|United States}} [[Hikaru Nakamura]] (2837) || colspan=4 | {{flagicon|Norway}} [[Magnus Carlsen]] (2834)
+|-
+| 2023 || colspan=5 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2839) || colspan=7 align=left | {{flagicon|China}} [[Ding Liren]] (2830)
+|-
+| 2024 || align=left | {{flagicon|China}} [[Ding Liren]] (2830) || colspan=4 align=left | {{flagicon|Norway}} Magnus Carlsen (2823) || colspan=4 | (2827)||(2834)||(2825)||(2838)
+|-
+| 2025 || colspan=7 align=left | {{flagicon|Norway}} Magnus Carlsen (2819) || colspan=3| (2808) || colspan=2| (2824)
+|-
+| 2026
+| colspan=6 align=left | {{flagicon|Norway}} Magnus Carlsen (2832) || colspan=4 align=left | (2803) || colspan=1 align=left | 
+|-
+|}
+
+==== Top women ====
+{| class="wikitable center" style="text-align:center"
+|-
+! Year !! style="width:8"| January !! style="width:8%"| February !! style="width:10%"| March !! style="width:6%"| April !! style="width:8%"| May !! style="width:8%"| June !! style="width:8%"| July !! style="width:8%"| August !! style="width:8%"| September !! style="width:6%"| October !! style="width:8%"| November !! style="width:10%"| December
+|-
+| 2014 || colspan=4 | ''N/A'' || colspan=2 align=left | {{flagicon|Hungary}} [[Judit Polgár]] ('''2656''')<ref name=may2014/> || colspan=6 | (2646)
+|-
+| 2015 || colspan=6 align=left | {{flagicon|Hungary}} [[Judit Polgár]] (2646) || colspan=4 align=left | {{flagicon|China}} [[Hou Yifan]] (2614)|| colspan=2| (2625)
+|-
+| 2016 || colspan=3 align=left | {{flagicon|China}} [[Hou Yifan]] (2625)|| colspan=6 | (2631) || colspan=3 | (2645)
+|-
+| 2017 || colspan=2 align=left | {{flagicon|Ukraine}} [[Anna Muzychuk]] (2611) || colspan=5 align=left | {{flagicon|China}} [[Hou Yifan]] (2611) || colspan=2 | (2617) || colspan=3 | (2618)
+|-
+| 2018 || colspan=2 align=left | {{flagicon|China}} [[Hou Yifan]] (2618) || colspan=2 align=left | {{flagicon|Ukraine}} [[Anna Muzychuk]] (2611) || colspan=3 | (2597) || colspan=5 | (2609)
+|-
+| 2019 || colspan=2 align=left | {{flagicon|China}} [[Ju Wenjun]] (2618) || colspan=10 | (2613)
+|-
+| 2020 || colspan=12 align=left | {{flagicon|China}} [[Hou Yifan]] (2621)
+|-
+| 2021 || colspan=12 align=left | {{flagicon|China}} [[Hou Yifan]] (2621)
+|-
+| 2022 || align=left | {{nowrap|{{flagicon|China}} [[Ju Wenjun]] (2610)}} || colspan=2 | {{flagicon|Russia}} [[Alexandra Kosteniuk]] (2542) || colspan=5 | {{nowrap|{{flagicon image|FIDE flag icon.png}} [[Alexandra Kosteniuk]] ([[FIDE flag player|FIDE]])}} (2542) || {{flagicon|China}} [[Ju Wenjun]]<br />(2600) || colspan=3 | {{flagicon|China}} [[Hou Yifan]] (2618)
+|-
+| 2023 || colspan=4 align=left | {{flagicon|China}} [[Hou Yifan]] (2618) || colspan=4 | {{flagicon|China}} [[Ju Wenjun]] (2592) || (2581) || colspan=3 | (2575)
+|-
+| 2024 || colspan=5 align=left | {{flagicon|China}} [[Ju Wenjun]] (2566) || colspan=2 | (2550) || {{flagicon|China}} [[Hou Yifan]] (2550) || colspan=2 | {{flagicon|China}} [[Ju Wenjun]] (2536) || colspan=2 | {{flagicon|China}} [[Hou Yifan]] (2539)
+|-
+| 2025 || colspan=7 align=left | {{flagicon|China}} [[Ju Wenjun]] (2542) || colspan=5 | {{flagicon|China}} [[Hou Yifan]]  (2536)
+|-
+| 2026
+| colspan=10 align=left | {{flagicon|China}} [[Hou Yifan]] (2529) || colspan=1 |
+|-
+|}
+
+==== Top juniors ====
+{| class="wikitable center" style="text-align:center"
+|-
+! Year !! style="width:10%"| January !! style="width:8%"| February !! style="width:8%"| March !! style="width:8%"| April !! style="width:8%"| May !! style="width:8%"| June !! style="width:8%"| July !! style="width:8%"| August !! style="width:8%"| September !! style="width:8%"| October !! style="width:8%"| November !! style="width:8%"| December
+|-
+| 2014 || colspan=4 | ''N/A''|| colspan=2 align=left | {{flagicon|Hungary}} [[Richárd Rapport]] (2707)<ref name=may2014/> || (2717)|| colspan=5 | (2724)
+|-
+| 2015 || colspan=3 align=left | {{flagicon|Hungary}} [[Richárd Rapport]] (2724)|| colspan=9 | (2736)
+|-
+| 2016 || colspan=12 align=left | {{flagicon|Hungary}} [[Richárd Rapport]] (2729)
+|-
+| 2017 || colspan=5 align=left | {{flagicon|Russia}} [[Vladislav Artemiev]] (2706) || colspan=3 | (2719) || (2708) || (2712) || colspan=2 | (2687)
+|-
+| 2018 || colspan=5 align=left | {{flagicon|Russia}} [[Vladislav Artemiev]] (2767) || colspan=4 | (2733) || (2764) || colspan=2 | ('''2812''')
+|-
+| 2019 || colspan=5 align=left | {{flagicon|China}} [[Wei Yi]] (2698) || colspan=5 | (2713) || colspan=2 | {{flagicon|USA}} [[Jeffery Xiong]] (2730)
+|-
+| 2020 || colspan=12 align=left | {{flagicon|USA}} [[Jeffery Xiong]] (2730)
+|-
+| 2021 || colspan=6 align=left| {{nowrap|{{flagicon image|FIDE flag icon.png}} [[Alireza Firouzja]] ([[FIDE flag player|FIDE]])}}<!-- Firouzja is playing under FIDE flagicon, not under flagicon of Iran --> (2703) || colspan=2 align=left | {{flagicon|France}} [[Alireza Firouzja]] (2696) || colspan=2 align=left | {{flagicon|Russia}} [[Andrey Esipenko]] (2681) || colspan=2 | (2679)
+|-
+| rowspan=2 | 2022 || colspan=3 align=left rowspan=2 | {{flagicon|Russia}} [[Andrey Esipenko]] (2679) || colspan=4 align=left rowspan=2 | {{nowrap|{{flagicon image|FIDE flag icon.png}} [[Andrey Esipenko]] ([[FIDE flag player|FIDE]])}} || colspan=6 align=left | {{flagicon|France}} [[Alireza Firouzja]]
+|-
+| (2704)
+| (2732)
+| colspan=4| (2745)
+|-
+| 2023 || colspan=7 align=left | {{flagicon|France}} [[Alireza Firouzja]] (2745) || colspan=4 | (2742) || (2737)
+|-
+| 2024 || colspan=5 align=left | {{flagicon|Uzbekistan}} [[Nodirbek Abdusattorov]] (2733) || colspan=2 | (2724) || (2732)||(2723)||(2722)||(2742)||(2740)
+|-
+| 2025 || colspan=4 align=left | {{flagicon|India}} [[Praggnanandhaa R]] (2684) || colspan=2 |  (2688) || colspan=1 align=left | {{flagicon|Uzbekistan}} [[Javokhir Sindarov]] (2688) ||{{flagicon|India}} [[Praggnanandhaa R]] (2691) || colspan=2 | {{flagicon|India}} [[Gukesh D]] (2693) || (2692) || {{flagicon|Uzbekistan}} [[Javokhir Sindarov]] (2704) 
+|-
+| 2026
+| colspan=4 align=left | {{flagicon|India}} [[Gukesh D]] (2692) || (2682) || colspan=2 | (2684) || colspan=3 | (2686)
+|-
+|}
+
+==== Top girls ====
+{| class="wikitable center" style="text-align:center"
+|-
+! Year !! style="width:14%"| January !! style="width:7%"| February !! style="width:7%"| March !! style="width:7%"| April !! style="width:8%"| May !! style="width:7%"| June !! style="width:7%"| July !! style="width:8%"| August !! style="width:8%"| September !! style="width:8%"| October !! style="width:8%"| November !! style="width:8%"| December
+|-
+| 2014 || colspan=4 | ''N/A'' || colspan=8 align=left | {{flagicon|China}} [[Hou Yifan]] ('''2600''')<ref name=may2014/>
+|-
+| rowspan=2| 2015 || colspan=4 rowspan=2 align=left | {{flagicon|China}} [[Guo Qi]] (2426)|| colspan=8 align=left | {{flagicon|Russia}} [[Aleksandra Goryachkina]]
+|-
+| (2429)|| colspan=7 | (2453)
+|-
+| rowspan=2 | 2016 || colspan=5 rowspan=2 align=left | {{flagicon|China}} [[Lei Tingjie]] (2445) || colspan=5 rowspan=2 | (2446) || colspan=2 | {{flagicon|Russia}} [[Aleksandra Goryachkina]]
+|-
+| (2456) || (2466)
+|-
+| 2017 || colspan=10 align=left | {{flagicon|Russia}} [[Aleksandra Goryachkina]] (2462) || (2487) || (2460)
+|-
+| 2018 || colspan=4 align=left | {{flagicon|Russia}} [[Aleksandra Goryachkina]] (2476) || colspan=8 | (2477)
+|-
+| 2019 || colspan=5 align=left | {{flagicon|Kazakhstan}} [[Zhansaya Abdumalik]] (2490) || colspan=7 | (2484)
+|-
+| 2020 || colspan=12 align=left | {{flagicon|Kazakhstan}} [[Zhansaya Abdumalik]] (2462)
+|-
+| 2021 || colspan=8 align=left | {{flagicon|Russia}} [[Polina Shuvalova]] (2394) || colspan=2 | {{flagicon|USA}} [[Carissa Yip]] (2393) || colspan=2 | {{flagicon|Russia}} [[Polina Shuvalova]] (2400)
+|-
+| 2022 || colspan=12 align=left | {{flagicon|Kazakhstan}} [[Bibisara Assaubayeva]] (2396)
+|-
+| 2023 || align=left | {{flagicon|USA}} [[Carissa Yip]] (2393) || colspan=3 align=left | {{flagicon|Kazakhstan}} [[Bibisara Assaubayeva]] (2359) || colspan=4| (2432) || colspan=2| (2439) || colspan=2| (2436)
+|-
+| 2024 || colspan=7 align=left | {{flagicon|Kazakhstan}} [[Bibisara Assaubayeva]] (2425) || (2434) ||colspan=2|(2439)||colspan=2|(2444)
+|-
+| 2025 || colspan=7 align=left | {{flagicon|USA}} [[Alice Lee (chess player)|Alice Lee]] (2412) || colspan=5 | {{flagicon|India}} [[Divya Deshmukh]] (2419)  
+|-
+| 2026
+| colspan=3 align=left | {{flagicon|Uzbekistan}} [[Afruza Khamdamova]] (2367) || colspan=4 | {{flagicon|USA}} [[Alice Lee (chess player)|Alice Lee]] (2415) || colspan=3 | (2410) || colspan=1 |
+|-
+|}
+
+=== Blitz chess ===
+==== Top players (blitz) ====
+{| class="wikitable center" style="text-align:center"
+|-
+! Year !! style="width:18%"| January !! style="width:6%"| February !! style="width:6%"| March !! style="width:5%"| April !! style="width:6%"| May !! style="width:9%"| June !! style="width:9%"| July !! style="width:8%"| August !! style="width:8%"| September !! style="width:8%"| October !! style="width:8%"| November !! style="width:8%"| December
+|-
+| 2014 || colspan=4 | ''N/A''|| colspan=2 | {{flagicon|United States}} [[Hikaru Nakamura]] (2879)<ref name=may2014/> || colspan=6 | {{flagicon|Norway}} [[Magnus Carlsen]] (2948)
+|-
+| 2015 || colspan=3 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2948)||colspan=3 | (2933)||colspan=4 | (2914) || colspan=2 | {{flagicon|United States}} [[Hikaru Nakamura]] (2884)
+|-
+| 2016 || colspan=4 align=left| {{flagicon|Norway}} [[Magnus Carlsen]] (2890) || colspan=2 | (2915) || colspan=6 | {{flagicon|China}} [[Ding Liren]] (2875)
+|-
+| 2017 || colspan=6 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] 2914) || (2899) || colspan=4 | (2948) || ('''2986''')
+|-
+| 2018 || colspan=5 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2965) || colspan=7 | (2939)
+|-
+| rowspan=2 | 2019 || colspan=5 align=left rowspan=2 | {{flagicon|Norway}} [[Magnus Carlsen]] (2954) || rowspan=2 align=left | (2923) || colspan=2 | {{flagicon|France}} {{nowrap|[[Maxime Vachier-Lagrave]]}} || colspan=4 | {{flagicon|United States}} [[Hikaru Nakamura]]
+|-
+| (2948) || (2939) || colspan=3 |(2871) || (2885)
+|-
+| 2020 || colspan=12 align=left | {{flagicon|United States}} [[Hikaru Nakamura]] (2900)
+|-
+| 2021 || colspan=8 align=left | {{flagicon|United States}} [[Hikaru Nakamura]] (2900) || colspan=4 | {{flagicon|Norway}} [[Magnus Carlsen]] (2892)
+|-
+| 2022 || colspan=5 align=left | {{flagicon|United States}} [[Hikaru Nakamura]] (2850) || colspan=4 align=left| {{flagicon|United States}} [[Levon Aronian]] (2850) || colspan=3 | {{flagicon|United States}} [[Hikaru Nakamura]] (2909)
+|-
+| 2023 || colspan=5 align=left | {{flagicon|France}} [[Alireza Firouzja]] (2904) || colspan=6 | (2896) || {{flagicon|Norway}} [[Magnus Carlsen]] (2887)
+|-
+| 2024 || colspan=5 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2886) || colspan=5 | (2888)||(2893)||(2890)
+|-
+| 2025 || align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2889) || colspan=6 | (2883) ||  colspan=5 | (2881)
+|-
+| 2026
+| colspan=6 align=left | {{flagicon|Norway}} [[Magnus Carlsen]] (2869) || colspan=4 | (2860) || colspan=1 |
+|-
+|}
+
+==== Top women (blitz) ====
+{| class="wikitable center" style="text-align:center"
+|-
+! Year !! style="width:8%"| January !! style="width:8%"| February !! style="width:8%"| March !! style="width:6%"| April !! style="width:10%"| May !! style="width:8%"| June !! style="width:8%"| July !! style="width:8%"| August !! style="width:8%"| September !! style="width:8%"| October !! style="width:8%"| November !! style="width:8%"| December
+|-
+| 2014 || colspan=4 | ''N/A'' || colspan=2 | {{flagicon|Hungary}} [[Judit Polgár]] (2673)<ref name=may2014/>|| colspan=6 | {{flagicon|Hungary}} [[Judit Polgár]] ('''2736''')
+|-
+| 2015 || colspan=6 align=left | {{flagicon|Hungary}} [[Judit Polgár]] ('''2736''')|| colspan=6 align=left | {{flagicon|China}} [[Hou Yifan]] (2704)
+|-
+| rowspan=2 | 2016 || colspan=2 rowspan=2 align=left | {{flagicon|Russia}} [[Valentina Gunina]] (2598) || colspan=4 align=left | {{flagicon|Russia}} [[Kateryna Lagno]] || colspan=6 rowspan=2 align=left | {{flagicon|China}} [[Hou Yifan]] (2676)
+|-
+| (2594)|| colspan=3 | (2641)
+|-
+| 2017 || colspan=10 align=left | {{flagicon|Ukraine}} [[Anna Muzychuk]] (2663) || colspan=2 | {{flagicon|China}} [[Hou Yifan]] (2659)
+|-
+| 2018 || colspan=7 align=left | {{flagicon|Georgia}} [[Nana Dzagnidze]] (2580) || colspan=5 | {{flagicon|China}} [[Hou Yifan]] (2627)
+|-
+| 2019 || colspan=7 align=left | {{flagicon|China}} [[Hou Yifan]] (2627) || colspan=3 | {{flagicon|Russia}} [[Kateryna Lagno]] (2587) ||colspan=2 | (2606)
+|-
+| 2020 || colspan=12 align=left | {{flagicon|Russia}} [[Kateryna Lagno]] (2608)
+|-
+| 2021 || colspan=8 align=left | {{flagicon|Russia}} [[Kateryna Lagno]] (2608) || colspan=4 | {{flagicon|China}} [[Hou Yifan]] (2601)
+|-
+| 2022 || colspan=12 align=left | {{flagicon|Russia}} [[Kateryna Lagno]] (2522)
+|-
+| 2023 || colspan=4 align=left | {{flagicon|China}} [[Tan Zhongyi]] (2519) || colspan=8 align=left| {{flagicon|China}} [[Hou Yifan]] (2561)
+|-
+| 2024 || colspan=4 align=left | {{flagicon|China}} [[Hou Yifan]] (2561) || colspan=2 align=left | {{flagicon|China}} [[Ju Wenjun]] (2500) || {{flagicon|Russia}} Kateryna Lagno (2500) || colspan=1 | {{flagicon|China}} [[Hou Yifan]] (2529) || colspan=5|(2522)
+|-
+| 2025 || colspan=6 align=left | {{flagicon|China}} [[Hou Yifan]] (2522) || (2500) || colspan=4 | (2519) || (2521)
+|-
+| 2026
+| colspan=10 align=left | {{flagicon|China}} [[Hou Yifan]] (2521) || colspan=1 |
+|-
+|}
+
+==== Top juniors (blitz) ====
+{| class="wikitable center" style="text-align:center"
+|-
+! Year !! style="width:8%"| January !! style="width:6%"| February !! style="width:8%"| March !! style="width:10%"| April !! style="width:8%"| May !! style="width:8%"| June !! style="width:8%"| July !! style="width:8%"| August !! style="width:8%"| September !! style="width:8%"| October !! style="width:8%"| November !! style="width:8%"| December
+|-
+| 2014 || colspan=4 | ''N/A''|| colspan=2 align=left | {{flagicon|China}} [[Yu Yangyi]] (2771)<ref name=may2014/> || colspan=6 align=left | {{flagicon|Netherlands}} [[Anish Giri]] (2757)
+|-
+| rowspan=2| 2015 || colspan=4 align=left | {{flagicon|Ukraine}} [[Olexandr Bortnyk]] || colspan=3 rowspan=2 align=left | {{flagicon|Russia}} [[Vladimir Fedoseev]] (2798)|| colspan=5 rowspan=2 | {{flagicon|China}} [[Lu Shanglei]] (2780)
+|-
+| (2761)|| (2762)|| colspan=2 | (2764)
+|-
+| rowspan=2 | 2016 || colspan=2 rowspan=2 align=left| {{flagicon|Russia}} [[Daniil Dubov]] (2713)||rowspan=2 | {{nowrap|{{flagicon|Russia}} [[Vladislav Artemiev]]}} (2724) || colspan=3 rowspan=2 align=left | {{flagicon|Ukraine}} [[Olexandr Bortnyk]] (2769) || colspan=3 rowspan=2 | (2784) || colspan=3 |{{flagicon|Russia}} [[Vladislav Artemiev]]
+|-
+| (2781) || colspan=2 | (2847)
+|-
+| rowspan=2 | 2017 || colspan=2 align=left rowspan=2 | {{flagicon|Russia}} [[Vladislav Artemiev]] (2777) || rowspan=2 | (2785) || colspan=5 rowspan=2 | (2746) ||rowspan=2 | {{flagicon|China}} [[Wei Yi]] (2740) ||colspan=3 | {{flagicon|Russia}} [[Vladislav Artemiev]]
+|-
+| (2729) || colspan=2 | (2798)
+|-
+| 2018 || colspan=3 align=left | {{flagicon|Russia}} [[Vladislav Artemiev]] (2834) || (2824) || colspan=6 | (2849) || colspan="2" | (2825)
+|-
+| 2019 || colspan=3 align=left | {{flagicon|Iran}} [[Alireza Firouzja]] (2724) || colspan=4 align=left | {{flagicon|Iran}} [[Parham Maghsoodloo]] (2719) || (2729) || colspan=4 | (2735)
+|-
+| 2020 || colspan=4 align=left | {{nowrap|{{flagicon image|FIDE flag icon.png}} [[Alireza Firouzja]] ([[FIDE flag player|FIDE]])}} (2750) || colspan=6 | (2770)
+|-
+| 2021
+| colspan=6 align=left | {{nowrap|{{flagicon image|FIDE flag icon.png}} [[Alireza Firouzja]] ([[FIDE flag player|FIDE]])}} (2770) || colspan=6 align=left | {{flagicon|France}} [[Alireza Firouzja]] (2810)
+|-
+| 2022
+| colspan=7 align=left | {{flagicon|France}} [[Alireza Firouzja]] (2791) || colspan=2 | (2795) || colspan=3 | ('''2904''')
+|-
+| 2023 || colspan=5 align=left | {{flagicon|France}} [[Alireza Firouzja]] ('''2904''') || colspan=6 | (2896) || (2863)
+|-
+| 2024 || colspan=8 align=left | {{flagicon|India}} [[Nihal Sarin]] (2704)||(2711)||colspan=2 align=left | {{flagicon|Uzbekistan}} [[Nodirbek Abdusattorov]] (2715)|| {{flagicon|India}} [[Praggnanandhaa R]] (2716)
+|-
+| 2025 || colspan=5 align=left | {{flagicon|India}} [[Praggnanandhaa R]] (2717) || colspan=2 | (2734) ||(2705) || colspan=2| (2707) || (2699) || (2703)
+|-
+| 2026
+| {{flagicon|FIDE}} [[Volodar Murzin]] (2652) || colspan=3 | {{flagicon|IND}} [[Gukesh D]] (2646) || colspan=2 | {{flagicon|FIDE}} [[Volodar Murzin]] (2662) || colspan=4 | (2670) ||
+|-
+|}
+
+==== Top girls (blitz) ====
+{| class="wikitable center" style="text-align:center"
+|-
+! Year !! style="width:11%"| January !! style="width:6%"| February !! style="width:8%"| March !! style="width:8%"| April !! style="width:8%"| May !! style="width:8%"| June !! style="width:8%"| July !! style="width:8%"| August !! style="width:8%"| September !! style="width:8%"| October !! style="width:8%"| November !! style="width:8%"| December
+|-
+| 2014 || colspan=4 | ''N/A'' || colspan=8 align=left | {{flagicon|China}} [[Hou Yifan]] ('''2662''')<ref name=may2014/>
+|-
+| rowspan=2| 2015 ||colspan=6 rowspan=2 align=left| {{flagicon|China}} [[Guo Qi]] (2396)|| colspan=2 | {{flagicon|Russia}} [[Aleksandra Goryachkina]] || colspan=4 rowspan=2| {{flagicon|China}} [[Wang Jue]] (2505)
+|-
+| (2363) || (2377)
+|-
+| rowspan=2| 2016 || colspan=3 rowspan=2 align=left| {{flagicon|China}} [[Zhai Mo]] (2398)|| colspan=9 align=left |{{flagicon|China}} [[Lei Tingjie]]
+|-
+| (2415) || colspan=5 | (2434) || colspan=3 | (2446)
+|-
+| 2017 || colspan=5 align=left | {{flagicon|China}} [[Lei Tingjie]] (2446) || colspan=4 | (2451) || colspan=3 | (2461)
+|-
+| rowspan=2| 2018 || colspan=3 rowspan=2 align=left | {{flagicon|Kazakhstan}} [[Zhansaya Abdumalik]] (2457) || colspan=9 align=left | {{flagicon|Russia}} [[Aleksandra Goryachkina]]
+|-
+| (2449) || (2448) || colspan=7 | (2422)
+|-
+| 2019 || colspan=5 align=left | {{flagicon|Kazakhstan}} [[Zhansaya Abdumalik]] (2368) || colspan=7 | (2415)
+|-
+| 2020 || colspan=9 align=left | {{flagicon|Kazakhstan}} [[Zhansaya Abdumalik]] (2409) || {{nowrap|{{flagicon|Russia}} Aleksandra}} [[Aleksandra Maltsevskaya|Maltsevskaya]] (2411) || colspan=2 | {{flagicon|Kazakhstan}} [[Zhansaya Abdumalik]] (2409)
+|-
+| 2021 || colspan=9 align=left | {{flagicon|India}} [[Vaishali Rameshbabu]] (2313) || colspan=2 | {{flagicon|Russia}} [[Polina Shuvalova]] (2341) || {{flagicon|India}} [[R Vaishali]] (2313)
+|-
+| 2022 || colspan=12 align=left | {{flagicon|Kazakhstan}} [[Bibisara Assaubayeva]] (2404)
+|-
+| 2023 || colspan=4 align=left | {{flagicon|Kazakhstan}} [[Bibisara Assaubayeva]] (2440) || (2461) || colspan=4 | (2478) || colspan=3 | (2476)
+|-
+| 2024 || colspan=7 align=left | {{flagicon|Kazakhstan}} [[Bibisara Assaubayeva]] (2469) || (2457)||colspan=4|(2443)
+|-
+| 2025 ||1 align=left | {{flagicon|India}} [[Divya Deshmukh]] (2343)|| colspan=2 align=left | {{flagicon|Netherlands}} [[Eline Roebers]] (2360)|| (2349)|| {{flagicon|China}} [[Song Yuxin]] (2361) || (2373)|| align=left colspan =6| {{flagicon|India}} [[Divya Deshmukh]] (2388)
+|-
+| 2026
+| align=left | {{flagicon|Netherlands}} [[Eline Roebers]] (2413) || (2414) || colspan=5 | (2425) || (2431) || colspan=2 |(2428) || colspan=1 |
+|-
+|}
+
+== See also ==
+{{portal|Chess|World}}
+* [[Comparison of top chess players throughout history]]
+* [[Chess rating systems]]
+* [[List of chess players by peak FIDE rating]]
+
+== Notes ==
+{{reflist|group=note}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20091126000035/http://chess.eusa.ed.ac.uk/Chess/Trivia/AlltimeList.html All Time Rankings], includes "Top 10 lists from 1970 to 1997"
+* [http://www.mark-weeks.com/chess/ratings/ FIDE historical ratings] (1970–2000)
+* [https://ratings.fide.com/top_lists.phtml?list=open World Top Chess players], FIDE
+* [https://ratings.fide.com/download_lists.phtml Download ratings list] (from FIDE, goes back to February 2015)
+
+[[Category:Lists of chess players]]
+[[Category:Chess rating systems]]
