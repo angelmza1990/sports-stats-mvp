@@ -120,6 +120,10 @@ One page per sport, each with a selector for every competition and gender:
 [Handball World Championship & Olympics](https://angelmza1990.github.io/sports-stats-mvp/handball/international/) (men and women).
 Each shows a race of titles, finals or podiums, champions and podium finishes, results by continent, hosts, repeated finals, teams per edition and, where the sources record them, the all-time table, appearances and player records.
 
+### ♟️ [Chess](https://angelmza1990.github.io/sports-stats-mvp/chess/)
+
+Every World Championship since 1886 (including the 1993–2006 split title), the reigns of the world champions, the rivalries for the title, the world number ones month by month in classical, rapid and blitz (open and women's), head-to-head records of 40 of the greatest players split by time control, the rapid, blitz and women's world champions, records (ratings, youngest grandmasters, longest reigns) and nations, plus the Candidates Tournament and World Cup winners.
+
 ### 🏎️ [Formula 1](https://angelmza1990.github.io/sports-stats-mvp/motorsport/formula-1/)
 
 Every World Champion since 1950: bar chart races of drivers', constructors' and nations' titles, every champion, titles by nationality and by constructor, and the all-time Grand Prix winners by driver, constructor and nationality.
@@ -141,6 +145,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 ├── tennis/atp-records/           # ATP Records; also wta-records/
 ├── basketball/nba-rings/         # NBA Rings infographic
 ├── football/                     # Football pages (shared common.js, league.js for national leagues) + one folder per page
+├── chess/                        # Chess page
 ├── motorsport/formula-1/         # Formula 1 page
 ├── international/tournament.js   # Shared page for team tournaments
 ├── rugby|basketball|volleyball|hockey|handball/international/  # One page per sport (data/ per competition)
@@ -164,6 +169,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_olympics.py         # Olympic Games medal tables, hosts and athletes
 │   ├── olympic_events.py         # Shared parsing of Olympic medalists, event by event
 │   ├── build_olympic_sports.py   # Olympic tennis and boxing
+│   ├── build_chess.py            # Chess: world titles, number ones, records and head-to-head
 │   ├── fetch_flags.py            # Local copies of every flag in use
 │   ├── check_pages.mjs           # Headless check of every page
 │   └── wikitables.py             # Generic Wikipedia table parser
@@ -203,6 +209,7 @@ python3 scripts/build_tournaments.py --refresh  # rugby, basketball, volleyball,
 python3 scripts/build_swimming.py --refresh     # swimming: Olympic medalists
 python3 scripts/build_olympics.py --refresh     # Olympic Games (Summer and Winter)
 python3 scripts/build_olympic_sports.py --refresh  # Olympic tennis and boxing (after build_olympics.py)
+python3 scripts/build_chess.py --refresh       # chess: also re-downloads the PGN Mentor player files
 python3 scripts/fetch_flags.py                  # download any flag a dataset now needs
 ```
 
@@ -243,6 +250,8 @@ Rules applied:
 **Olympic Games.** The medal table of every Games comes from the `{{Medals table}}` template on its Wikipedia page; the all-time table, the host cities and the athletes with the most medals and golds come from their own lists. Nation names and flags come from Wikipedia's comparison of IOC, FIFA and ISO codes. The build checks the leading nations at recent Games (the United States' 40-44-42 in Paris), the number of Games and the career medals of Phelps, Latynina, Bjørgen and Nurmi. The all-time table leaves out the 1912–1948 art competitions that the per-Games tables include, so the build reports, without failing, the few nations whose totals differ.
 
 **Olympic tennis and boxing** share the swimming parser ([`olympic_events.py`](scripts/olympic_events.py)): boxing reads Wikipedia's list of medalists, one table per weight class; tennis reads the events table on each Games' tennis page, keeping doubles pairs together (a pair from two nations counts as a mixed team). The builds check the career medals of the leading players and boxers, the number of tennis events at each Games, that every boxing class since 1952 has two bronzes and the boxing gold counts of the United States and Cuba. Olympic football goes through the team tournament pipeline, which now reads age-group flags ({{fbu|23|BRA}}) and older FIFA codes (CSK, DDR).
+
+**Chess.** World Championships, women's, rapid and blitz titles, the number ones, peak ratings, the Olympiad, the Candidates, the World Cup and the youngest grandmasters come from Wikipedia. Head-to-head records count the games in [PGN Mentor](https://www.pgnmentor.com/files.html)'s files for 40 players (kept in `data/raw/chess/pgn`). PGN files don't record the time control, so each game is classed as rapid or blitz by its event name, its time control when the name gives one, its place in a knockout round (tiebreaks) and online sites (rapid unless marked blitz); Chess960, blindfold, simultaneous, advanced and computer games are left out. The build checks the rapid and blitz title counts against the records tables, months at number one against Wikipedia's totals (Kasparov's 1994 months, when FIDE left him off its lists, are the one documented gap), the title counts of the leading champions and the Karpov–Kasparov classical record.
 
 **Olympic swimming.** Wikipedia's lists of Olympic medalists in swimming have one table per event; the script reads every medalist, nation and time, splits ties (two swimmers sharing a medal) and keeps every named relay swimmer. The build checks the number of pool events at each Games since 1968 (35 in 2020 and 2024) and the career medals of the most decorated swimmers. The pages' own medal tables, kept by hand, don't always match their event lists, so they are only compared as a warning.
 

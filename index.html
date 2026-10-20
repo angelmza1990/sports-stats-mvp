@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sports Stats</title>
-  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, football, the Olympic Games, swimming, basketball, handball, rugby, volleyball, field hockey and Formula 1.">
+  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, football, the Olympic Games, swimming, basketball, handball, rugby, volleyball, field hockey, chess and Formula 1.">
   <link rel="stylesheet" href="assets/theme.css">
   <script src="assets/theme.js"></script>
   <style>
@@ -66,9 +66,9 @@
     <h1>Sports<br>Stats</h1>
     <p class="lede">Interactive infographics on the numbers behind sport's great champions and rivalries, built with D3 and open data and updated twice a year.</p>
     <dl class="home-figures">
-      <div><dt>Infographics</dt><dd>31</dd></div>
-      <div><dt>Sports</dt><dd>11</dd></div>
-      <div><dt>Seasons covered</dt><dd>1888–2026</dd></div>
+      <div><dt>Infographics</dt><dd>32</dd></div>
+      <div><dt>Sports</dt><dd>12</dd></div>
+      <div><dt>Seasons covered</dt><dd>1886–2026</dd></div>
     </dl>
     <nav class="jump" aria-label="Sports">
       <a href="#tennis" data-sport="tennis">Tennis</a>
@@ -76,6 +76,7 @@
       <a href="#olympics" data-sport="olympics">Olympics</a>
       <a href="#basketball" data-sport="basketball">Basketball</a>
       <a href="#team" data-sport="handball">Team sports</a>
+      <a href="#chess" data-sport="chess">Chess</a>
       <a href="#motorsport" data-sport="motorsport">Motorsport</a>
     </nav>
   </header>
@@ -557,6 +558,35 @@
       </div>
     </section>
 
+    <section class="sport" data-sport="chess" id="chess">
+      <div class="sport-head">
+        <h2>Chess</h2>
+        <p>World champions, number ones and the great rivalries, in classical, rapid and blitz.</p>
+        <span class="count">1 page</span>
+      </div>
+      <div class="gallery">
+        <a class="tile" href="chess/">
+          <div class="art" style="--tint: linear-gradient(135deg, #3b2412, #a8743f)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <path d="M0 0h20v20H0zM40 0h20v20H40zM80 0h20v20H80zM20 20h20v20H20zM60 20h20v20H60zM100 20h20v20h-20zM0 40h20v20H0zM40 40h20v20H40zM80 40h20v20H80zM20 60h20v20H20zM60 60h20v20H60zM100 60h20v20h-20zM0 80h20v20H0zM40 80h20v20H40zM80 80h20v20H80zM20 100h20v20H20zM60 100h20v20H60zM100 100h20v20h-20z" fill="#fff" opacity="0.12"/>
+              <g fill="#f6efe4" stroke="#2a1a0c" stroke-width="2.5" stroke-linejoin="round">
+                <path d="M60 10v14M53 17h14"/>
+                <path d="M48 30c0-7 24-7 24 0l-4 10H52Z"/>
+                <path d="M50 44h20l6 40H44Z"/>
+                <path d="M38 90h44l4 12H34Z"/>
+                <rect x="30" y="102" width="60" height="8" rx="2"/>
+              </g>
+            </svg>
+            <div class="stat" data-stat="chess"><strong>18</strong><span>world champions</span></div>
+          </div>
+          <div class="body">
+            <h3>Chess</h3>
+            <p>Every World Championship match since 1886, the world number ones month by month, head-to-head records of the greatest players, rapid and blitz titles, records and nations.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
     <section class="sport" data-sport="motorsport" id="motorsport">
       <div class="sport-head">
         <h2>Motorsport</h2>
@@ -715,6 +745,7 @@
           const [code, n] = most(d.editions, (e) => e.champion);
           return [String(n), `${d.teams[code].name} Olympic golds`];
         }],
+        chess: ["chess/data/chess.json", (d) => [String(new Set(d.reigns.map((r) => r.name)).size), "world champions"]],
         f1: ["motorsport/formula-1/data/formula-1.json", (d) => {
           const counts = new Map();
           d.champions.forEach((c) => counts.set(c.driver, (counts.get(c.driver) || 0) + 1));
