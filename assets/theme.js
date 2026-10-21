@@ -14,7 +14,7 @@
     { sport: "tennis", label: "Tennis", pages: [
       ["tennis/big-three/", "The Big Three"], ["tennis/grand-slams/", "Grand Slams"], ["tennis/masters-1000/", "Masters 1000"],
       ["tennis/atp-records/", "ATP Records"], ["tennis/grand-slams-women/", "Women's Grand Slams"], ["tennis/wta-1000/", "WTA 1000"],
-      ["tennis/wta-records/", "WTA Records"], ["tennis/number-one/", "World No. 1"], ["tennis/age-records/", "Age Records"],
+      ["tennis/wta-records/", "WTA Records"], ["tennis/finals/", "ATP & WTA Finals"], ["tennis/number-one/", "World No. 1"], ["tennis/age-records/", "Age Records"],
     ] },
     { sport: "football", label: "Football", pages: [
       ["football/world-cup/", "FIFA World Cup"], ["football/ballon-dor/", "Ballon d'Or"], ["football/champions-league/", "Champions League"],

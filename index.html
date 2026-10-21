@@ -66,7 +66,7 @@
     <h1>Sports<br>Stats</h1>
     <p class="lede">Interactive infographics on the numbers behind sport's great champions and rivalries, built with D3 and open data and updated twice a year.</p>
     <dl class="home-figures">
-      <div><dt>Infographics</dt><dd>34</dd></div>
+      <div><dt>Infographics</dt><dd>35</dd></div>
       <div><dt>Sports</dt><dd>12</dd></div>
       <div><dt>Seasons covered</dt><dd>1877–2026</dd></div>
     </dl>
@@ -85,8 +85,8 @@
     <section class="sport" data-sport="tennis" id="tennis">
       <div class="sport-head">
         <h2>Tennis</h2>
-        <p>Nine pages on the men's and women's tours.</p>
-        <span class="count">9 pages</span>
+        <p>Ten pages on the men's and women's tours.</p>
+        <span class="count">10 pages</span>
       </div>
       <div class="gallery">
         <a class="tile" href="tennis/big-three/">
@@ -186,6 +186,20 @@
           <div class="body">
             <h3>WTA Records</h3>
             <p>Open Era career leaders in women's tennis: titles, weeks at No. 1, matches won and played, by surface, and the nations behind them.</p>
+          </div>
+        </a>
+        <a class="tile" href="tennis/finals/">
+          <div class="art" style="--tint: linear-gradient(135deg, #14213d, #3c4f8a)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <rect x="14" y="22" width="92" height="76" rx="6" fill="none" stroke="#fff" stroke-width="5"/>
+              <path d="M14 48h92M14 72h92M45 22v76M75 22v76" stroke="#fff" stroke-width="3" opacity="0.6"/>
+              <circle cx="60" cy="60" r="11" fill="#d8e94a"/>
+            </svg>
+            <div class="stat" data-stat="tourFinals"><strong>7</strong><span>Djokovic titles</span></div>
+          </div>
+          <div class="body">
+            <h3>ATP & WTA Finals</h3>
+            <p>The season-ending championship: every champion, each player's results edition by edition, the leaders, records, most-played matchups, nations and host cities.</p>
           </div>
         </a>
         <a class="tile" href="tennis/number-one/">
@@ -704,6 +718,10 @@
         wta: ["tennis/wta-records/data/wta-records.json", (d) => {
           const p = d.players.slice().sort((a, b) => b.weeks - a.weeks)[0];
           return [String(p.weeks), `weeks at No. 1, ${p.name.split(" ").slice(-1)[0]}`];
+        }],
+        tourFinals: ["tennis/finals/data/finals.json", (d) => {
+          const [name, n] = most(d.tours.atp.editions, (e) => e.champion);
+          return [String(n), `${name.split(" ").slice(-1)[0]} titles`];
         }],
         numberOne: ["tennis/number-one/data/number-one.json", (d) => [String(new Set(d.tours.atp.spells.filter((s) => s.name).map((s) => s.name)).size), "ATP world No. 1s"]],
         ages: ["tennis/age-records/data/age-records.json", (d) => {

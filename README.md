@@ -42,6 +42,10 @@ Every ATP Masters 1000 final since the series began in 1990 (as the Championship
 
 Open Era career leaders: a race of career titles, leaders in titles, weeks at No. 1, matches won and played and win percentage (overall and by surface), the kings of each surface, career records, nations and every year-end No. 1.
 
+### 🎾 [ATP & WTA Finals](https://angelmza1990.github.io/sports-stats-mvp/tennis/finals/)
+
+The season-ending championships, men and women: a grid of every leading player's result at every edition, every champion and host city, the leaders in titles, finals, appearances, match wins and win percentage, records (consecutive titles and appearances, unbeaten champions, champions on debut), the most-played matchups with a player filter, nations and host cities.
+
 ### 🎾 [World No. 1](https://angelmza1990.github.io/sports-stats-mvp/tennis/number-one/)
 
 Men and women: every week at the top of the ATP and WTA rankings as a timeline by player and by nation, how many players and nations have reached No. 1 over time, the running total of weeks of the leading players and nations, the longest consecutive runs, every No. 1's weeks, spells and best run, and the players and weeks of each nation.
@@ -151,6 +155,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 ├── tennis/grand-slams/           # Grand Slams (men); also grand-slams-women/
 ├── tennis/masters-1000/          # ATP Masters 1000; also wta-1000/
 ├── tennis/atp-records/           # ATP Records; also wta-records/
+├── tennis/finals/                # ATP and WTA Finals
 ├── tennis/number-one/            # World No. 1, men and women
 ├── tennis/age-records/           # Age records, men and women
 ├── basketball/nba-rings/         # NBA Rings infographic
@@ -174,6 +179,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
 │   ├── build_f1.py               # Formula 1 pipeline
 │   ├── build_atp_records.py      # ATP and WTA career records pipeline
+│   ├── build_tour_finals.py      # ATP and WTA Finals: editions, matches, hosts
 │   ├── build_number_ones.py      # Every spell at world No. 1 (ATP and WTA)
 │   ├── build_tennis_ages.py      # Tennis age records (No. 1s, Slams, Finals, career Grand Slam)
 │   ├── build_tournaments.py      # Rugby, basketball, volleyball, hockey and handball tournaments
@@ -219,6 +225,7 @@ python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
 python3 scripts/build_tennis_ages.py --refresh  # tennis: age records (after build_grand_slams.py)
 python3 scripts/build_number_ones.py --refresh  # tennis: every spell at world No. 1
+python3 scripts/build_tour_finals.py --refresh  # tennis: ATP and WTA Finals (after build_big_three.py downloads the match files)
 python3 scripts/build_tournaments.py --refresh  # rugby, basketball, volleyball, hockey, handball
 python3 scripts/build_swimming.py --refresh     # swimming: Olympic medalists
 python3 scripts/build_olympics.py --refresh     # Olympic Games (Summer and Winter)
@@ -258,6 +265,8 @@ Rules applied:
 **Ballon d'Or.** Winners, nationality and club come from Wikipedia's Ballon d'Or article; the youth academy is read from each winner's own article (the last youth club in the infobox, with youth sides such as "Sporting CP (youth)" credited to the parent club). The build checks the number of awards of the multiple winners and that every year is present.
 
 **Formula 1.** Drivers' and constructors' champions and the all-time race wins come from Wikipedia's F1 lists. The build checks one champion per season, the title counts of the record holders and the constructors' title totals.
+
+**ATP & WTA Finals.** Every Finals match comes from the ATP and WTA match files, found by the tournament's name in each era (the Masters until 1989, then the Tour Finals, Masters Cup and the WTA's sponsor and host-city names), with walkovers left out of win-loss records. Wikipedia's list of finals gives every champion, checked against the match files edition by edition, plus the runners-up of the 1972–1974 women's editions the match files don't cover; host cities come from the venues tables. The build checks the title counts of the leaders, Federer's 59–17 record and 17 appearances, one champion per edition and a host for every year.
 
 **World No. 1.** Every spell at No. 1 comes from the table on Wikipedia's lists of ATP and WTA No. 1s, with the flag the player carried at the time. The build checks each player's weeks against the same page's totals table, the number of players who have been No. 1, the longest runs (Federer's 237 weeks, Graf's 186) and that the spells follow one another with no gaps. The 2020 ranking freeze is kept as its own spell and counts for nobody.
 
