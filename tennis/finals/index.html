@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ATP & WTA Finals · Tennis</title>
+  <meta name="description" content="The season-ending ATP Finals and WTA Finals: every champion, every player's result at every edition, the most titles, finals, appearances and match wins, the most-played matchups, records, nations and host cities.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/finals.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Tennis</p>
+    <h1>ATP & WTA Finals</h1>
+    <p class="lede">
+      The season-ending championship for the year's best players: every champion since 1970 (men) and 1972 (women), who played it most often, who won it most, the matchups that came round again and again, and where it was played.
+      Also see <a href="../grand-slams/">Grand Slams</a>, <a href="../number-one/">World No. 1</a> and <a href="../age-records/">Age Records</a>.
+    </p>
+    <div class="controls tour-switch">
+      <div class="segmented" role="tablist" aria-label="Tour" id="tour"></div>
+    </div>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="grid">
+      <div class="block-head">
+        <h2>Every result, edition by edition</h2>
+        <p>The players with the most appearances and how far they went each year they played. The numbers on the right are appearances and titles.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="grid-legend"></div>
+        <p class="card-note scroll-hint">Scroll sideways for every year →</p>
+        <div class="grid-scroll"><div id="grid-chart" class="chart"></div></div>
+      </div>
+    </section>
+
+    <section class="block" id="champions">
+      <div class="block-head">
+        <h2>Every champion</h2>
+        <p>The final of every edition (the first editions were decided by round robin alone), with the host city.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="champions-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="leaders">
+      <div class="block-head">
+        <h2>All-time leaders</h2>
+        <p>Titles, finals, appearances and match wins. Win percentage needs at least 15 matches; walkovers aren't counted.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Record" id="leaders-tabs"></div>
+        </div>
+        <div id="leaders-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="records">
+      <div class="block-head">
+        <h2>Records</h2>
+        <p>The streaks and feats of the season's last tournament.</p>
+      </div>
+      <div class="record-grid" id="record-cards"></div>
+      <div class="grid-2" style="margin-top:16px">
+        <div class="card">
+          <h3 class="sub">Unbeaten champions</h3>
+          <p class="card-note">Won the title without losing a match that week.</p>
+          <div class="data-table tall" id="unbeaten-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Champions on debut</h3>
+          <p class="card-note">Won the title at their first appearance.</p>
+          <div class="data-table tall" id="debut-table"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="h2h">
+      <div class="block-head">
+        <h2>The most-played matchups</h2>
+        <p>The pairs who met most often at the Finals, in the round robin and the knockout rounds.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="scope-select"><select id="h2h-player" aria-label="Player"></select></div>
+        </div>
+        <div class="pair-list" id="h2h-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="nations">
+      <div class="block-head">
+        <h2>Nations</h2>
+        <p>Titles, finals, players and match wins by country, for the flag each player carried at the time.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Measure" id="nation-tabs"></div>
+        </div>
+        <div id="nation-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="hosts">
+      <div class="block-head">
+        <h2>Host cities</h2>
+        <p>Where the Finals were played, year by year.</p>
+      </div>
+      <div class="card">
+        <div id="host-chart" class="chart"></div>
+        <div class="data-table" id="host-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> match results from <a href="https://github.com/JeffSackmann">Jeff Sackmann</a>'s ATP and WTA match files (CC BY-NC-SA 4.0); champions and host cities from Wikipedia (CC BY-SA 4.0): <span id="sources"></span>. Updated automatically twice a year.</p>
+    <p>
+      <strong>Notes:</strong> an appearance is an edition in which the player played at least one match, so alternates who came in for a withdrawn player count too. The 1970 and 1971 men's editions were round robins without a final.
+      The men's Masters played in January (1977–1985) count for the previous season, as the ATP lists them. The WTA held two championships in 1986, in March and November, and the 2020 edition was cancelled; the match files start with the 1975 women's edition, so 1972–1974 count only for titles and finals.
+      Earlier Finals formats included 12- and 16-player knockout draws. Flags by <a href="https://flagpedia.net">Flagpedia</a>.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

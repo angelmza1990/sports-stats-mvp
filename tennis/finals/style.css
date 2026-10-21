@@ -1,0 +1,96 @@
+/* ATP and WTA Finals. */
+
+.tour-switch {
+  margin: 4px 0 20px;
+}
+
+.grid-scroll {
+  overflow-x: auto;
+}
+
+.grid-name {
+  font-size: 12px;
+  font-weight: 600;
+  fill: var(--ink);
+}
+
+.grid-count {
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+  fill: var(--ink-muted);
+}
+
+.host-label {
+  font-size: 12px;
+  font-weight: 700;
+  fill: #fff;
+  pointer-events: none;
+}
+
+.card-note {
+  color: var(--ink-muted);
+  font-size: 13px;
+  margin: -4px 0 8px;
+}
+
+.scope-select select {
+  font: inherit;
+  font-size: 14px;
+  background: var(--surface-raised);
+  color: var(--ink);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 7px 32px 7px 14px;
+  max-width: 100%;
+  cursor: pointer;
+}
+
+.record-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.record-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  box-shadow: var(--shadow);
+  min-width: 0;
+}
+
+.record-card .label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+
+.record-card .value {
+  font-family: var(--display);
+  font-size: 34px;
+  font-weight: 800;
+  line-height: 1.05;
+  margin: 4px 0;
+}
+
+.record-card .detail {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--ink-2);
+}
+
+.scroll-hint {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .scroll-hint {
+    display: block;
+    margin: 4px 0 8px;
+  }
+}

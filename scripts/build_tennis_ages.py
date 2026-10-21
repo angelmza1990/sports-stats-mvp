@@ -357,8 +357,12 @@ def finals_champions(text: str) -> list[dict]:
             continue
         page = re.sub(r"\s+–\s+Singles$", "", ylink[0][0])
         y = re.search(r"\d{4}", page)
+        runner = W.links(row[2]["text"]) if len(row) > 2 else []
         out.append({"year": int(y.group()), "page": page, "name": W.plain(champ[0][1] or champ[0][0]), "article": champ[0][0],
-                    "nation": nation(row[1]["text"])})
+                    "nation": nation(row[1]["text"]),
+                    "runnerUp": W.plain(runner[0][1] or runner[0][0]) if runner else None,
+                    "runnerUpNation": nation(row[2]["text"]) if len(row) > 2 else None,
+                    "score": W.plain(row[3]["text"]).replace("–", "-").strip() if len(row) > 3 else None})
     return out
 
 
