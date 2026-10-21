@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World No. 1 · Tennis</title>
+  <meta name="description" content="Every world No. 1 in the ATP and WTA rankings: the timeline week by week, weeks at No. 1 over time, the longest consecutive runs, and the players and weeks of every nation.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/number-one.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Tennis</p>
+    <h1>World No. 1</h1>
+    <p class="lede">
+      Every player who has topped the ATP and WTA rankings since they began, week by week: how long each one stayed, the longest unbroken runs, and the countries they came from.
+      Also see <a href="../age-records/">Age Records</a>, <a href="../atp-records/">ATP Records</a> and <a href="../wta-records/">WTA Records</a>.
+    </p>
+    <div class="controls tour-switch">
+      <div class="segmented" role="tablist" aria-label="Tour" id="tour"></div>
+    </div>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="timeline">
+      <div class="block-head">
+        <h2>Every week at No. 1</h2>
+        <p>Who held the top spot, from the first ranking to this week. The upper band shows the player, the lower one their nation. Hover for each run.</p>
+      </div>
+      <div class="card">
+        <div id="ribbon" class="chart"></div>
+        <div class="legend" id="ribbon-legend"></div>
+        <div class="legend" id="nation-legend"></div>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <h3 class="sub">How many have reached No. 1</h3>
+        <div class="legend" id="count-legend"></div>
+        <div id="count-chart" class="chart"></div>
+      </div>
+    </section>
+
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>Weeks at No. 1 over time</h2>
+        <p>The running total of weeks at No. 1 of the players or nations with the most.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Group by" id="race-by"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+      </div>
+    </section>
+
+    <section class="block" id="streaks">
+      <div class="block-head">
+        <h2>The longest runs at No. 1</h2>
+        <p>Consecutive weeks at the top without losing the ranking.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Show" id="streak-mode"></div>
+        </div>
+        <div id="streak-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="players">
+      <div class="block-head">
+        <h2>Every No. 1</h2>
+        <p>Total weeks at No. 1, the number of separate spells, the longest of them and the first and last week at the top.</p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="player-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="nations">
+      <div class="block-head">
+        <h2>Nations</h2>
+        <p>The players and weeks at No. 1 of each country, counted for the flag the player carried at the time.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Measure" id="nation-measure"></div>
+        </div>
+        <div id="nation-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> Wikipedia (CC BY-SA 4.0): <span id="sources"></span>. Updated automatically twice a year; the current No. 1's weeks run to the day the data was built.</p>
+    <p>
+      <strong>Notes:</strong> weeks are as the ATP and WTA count them. The rankings were frozen during the COVID-19 pandemic in 2020 (shown in grey), and those weeks count for nobody.
+      Players are counted for the nation they represented during each spell: Monica Seles for Yugoslavia, then the United States; players from Russia and Belarus who competed without a flag from 2022 are shown as neutral.
+      Flags by <a href="https://flagpedia.net">Flagpedia</a>.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

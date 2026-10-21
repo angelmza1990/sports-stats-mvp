@@ -1,0 +1,31 @@
+/* Tennis world No. 1. */
+
+.tour-switch {
+  margin: 4px 0 20px;
+}
+
+.band-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  fill: var(--ink-muted);
+}
+
+.line-end {
+  font-size: 12px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.race-line {
+  stroke-linejoin: round;
+}
+
+#ribbon + .legend {
+  margin-top: 12px;
+}
+
+#nation-legend {
+  margin-top: 6px;
+}
