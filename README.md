@@ -42,6 +42,10 @@ Every ATP Masters 1000 final since the series began in 1990 (as the Championship
 
 Open Era career leaders: a race of career titles, leaders in titles, weeks at No. 1, matches won and played and win percentage (overall and by surface), the kings of each surface, career records, nations and every year-end No. 1.
 
+### 🎾 [World No. 1](https://angelmza1990.github.io/sports-stats-mvp/tennis/number-one/)
+
+Men and women: every week at the top of the ATP and WTA rankings as a timeline by player and by nation, how many players and nations have reached No. 1 over time, the running total of weeks of the leading players and nations, the longest consecutive runs, every No. 1's weeks, spells and best run, and the players and weeks of each nation.
+
 ### 🎾 [Age Records](https://angelmza1990.github.io/sports-stats-mvp/tennis/age-records/)
 
 Men and women: the youngest and oldest world No. 1s (every No. 1 drawn from the age they first reached the top to the age they last held it), the youngest and oldest champions at each Grand Slam since 1877, all time or Open Era, the youngest and oldest ATP and WTA Finals champions, and the age at which each player completed the career Grand Slam.
@@ -147,6 +151,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 ├── tennis/grand-slams/           # Grand Slams (men); also grand-slams-women/
 ├── tennis/masters-1000/          # ATP Masters 1000; also wta-1000/
 ├── tennis/atp-records/           # ATP Records; also wta-records/
+├── tennis/number-one/            # World No. 1, men and women
 ├── tennis/age-records/           # Age records, men and women
 ├── basketball/nba-rings/         # NBA Rings infographic
 ├── football/                     # Football pages (shared common.js, league.js for national leagues) + one folder per page
@@ -169,6 +174,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
 │   ├── build_f1.py               # Formula 1 pipeline
 │   ├── build_atp_records.py      # ATP and WTA career records pipeline
+│   ├── build_number_ones.py      # Every spell at world No. 1 (ATP and WTA)
 │   ├── build_tennis_ages.py      # Tennis age records (No. 1s, Slams, Finals, career Grand Slam)
 │   ├── build_tournaments.py      # Rugby, basketball, volleyball, hockey and handball tournaments
 │   ├── build_swimming.py         # Olympic swimming medalists
@@ -212,6 +218,7 @@ python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
 python3 scripts/build_tennis_ages.py --refresh  # tennis: age records (after build_grand_slams.py)
+python3 scripts/build_number_ones.py --refresh  # tennis: every spell at world No. 1
 python3 scripts/build_tournaments.py --refresh  # rugby, basketball, volleyball, hockey, handball
 python3 scripts/build_swimming.py --refresh     # swimming: Olympic medalists
 python3 scripts/build_olympics.py --refresh     # Olympic Games (Summer and Winter)
@@ -251,6 +258,8 @@ Rules applied:
 **Ballon d'Or.** Winners, nationality and club come from Wikipedia's Ballon d'Or article; the youth academy is read from each winner's own article (the last youth club in the infobox, with youth sides such as "Sporting CP (youth)" credited to the parent club). The build checks the number of awards of the multiple winners and that every year is present.
 
 **Formula 1.** Drivers' and constructors' champions and the all-time race wins come from Wikipedia's F1 lists. The build checks one champion per season, the title counts of the record holders and the constructors' title totals.
+
+**World No. 1.** Every spell at No. 1 comes from the table on Wikipedia's lists of ATP and WTA No. 1s, with the flag the player carried at the time. The build checks each player's weeks against the same page's totals table, the number of players who have been No. 1, the longest runs (Federer's 237 weeks, Graf's 186) and that the spells follow one another with no gaps. The 2020 ranking freeze is kept as its own spell and counts for nobody.
 
 **Tennis age records.** Champions come from Wikipedia's lists of Grand Slam singles champions and the ATP and WTA Finals pages; each tournament's last day is read from its own Wikipedia page and dates of birth from Wikidata. Both are kept in `data/raw/tennis/` and only new ones are looked up. Ages at No. 1 come from the first and last dates in Wikipedia's No. 1 lists, which give birth dates too. The build checks each Slam's Open Era champions against the Grand Slams pages, the known record holders (Alcaraz and Hingis the youngest No. 1s, Djokovic and Serena Williams the oldest, Chang and Lottie Dod the youngest major champions, Gore the oldest) and the players with a career Grand Slam.
 

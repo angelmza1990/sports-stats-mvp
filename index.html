@@ -66,7 +66,7 @@
     <h1>Sports<br>Stats</h1>
     <p class="lede">Interactive infographics on the numbers behind sport's great champions and rivalries, built with D3 and open data and updated twice a year.</p>
     <dl class="home-figures">
-      <div><dt>Infographics</dt><dd>33</dd></div>
+      <div><dt>Infographics</dt><dd>34</dd></div>
       <div><dt>Sports</dt><dd>12</dd></div>
       <div><dt>Seasons covered</dt><dd>1877–2026</dd></div>
     </dl>
@@ -85,8 +85,8 @@
     <section class="sport" data-sport="tennis" id="tennis">
       <div class="sport-head">
         <h2>Tennis</h2>
-        <p>Eight pages on the men's and women's tours.</p>
-        <span class="count">8 pages</span>
+        <p>Nine pages on the men's and women's tours.</p>
+        <span class="count">9 pages</span>
       </div>
       <div class="gallery">
         <a class="tile" href="tennis/big-three/">
@@ -186,6 +186,21 @@
           <div class="body">
             <h3>WTA Records</h3>
             <p>Open Era career leaders in women's tennis: titles, weeks at No. 1, matches won and played, by surface, and the nations behind them.</p>
+          </div>
+        </a>
+        <a class="tile" href="tennis/number-one/">
+          <div class="art" style="--tint: linear-gradient(135deg, #7a5a10, #c9962b)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <path d="M30 98h60M40 98V84h40v14" fill="none" stroke="#fff" stroke-width="6" stroke-linejoin="round"/>
+              <path d="M36 20h48v18c0 18-11 30-24 30S36 56 36 38Z" fill="#fff"/>
+              <path d="M36 28H22c0 14 7 22 16 22M84 28h14c0 14-7 22-16 22M60 68v16" fill="none" stroke="#fff" stroke-width="5"/>
+              <text x="60" y="50" text-anchor="middle" font-family="Barlow Condensed, sans-serif" font-weight="800" font-size="26" fill="#7a5a10">1</text>
+            </svg>
+            <div class="stat" data-stat="numberOne"><strong>29</strong><span>ATP world No. 1s</span></div>
+          </div>
+          <div class="body">
+            <h3>World No. 1</h3>
+            <p>Every week at the top of the ATP and WTA rankings: timelines by player and nation, weeks over time, the longest runs and every country's No. 1s.</p>
           </div>
         </a>
         <a class="tile" href="tennis/age-records/">
@@ -690,6 +705,7 @@
           const p = d.players.slice().sort((a, b) => b.weeks - a.weeks)[0];
           return [String(p.weeks), `weeks at No. 1, ${p.name.split(" ").slice(-1)[0]}`];
         }],
+        numberOne: ["tennis/number-one/data/number-one.json", (d) => [String(new Set(d.tours.atp.spells.filter((s) => s.name).map((s) => s.name)).size), "ATP world No. 1s"]],
         ages: ["tennis/age-records/data/age-records.json", (d) => {
           const p = d.tours.atp.numberOnes.slice().sort((a, b) => (Date.parse(a.first) - Date.parse(a.born)) - (Date.parse(b.first) - Date.parse(b.born)))[0];
           const b = new Date(p.born), f = new Date(p.first);
