@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sports Stats</title>
-  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, football, the Olympic Games, swimming, basketball, handball, rugby, volleyball, field hockey, chess and Formula 1.">
+  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, football, the Olympic Games, swimming, basketball, American football, handball, rugby, volleyball, field hockey, chess and Formula 1.">
   <link rel="stylesheet" href="assets/theme.css">
   <script src="assets/theme.js"></script>
   <style>
@@ -66,8 +66,8 @@
     <h1>Sports<br>Stats</h1>
     <p class="lede">Interactive infographics on the numbers behind sport's great champions and rivalries, built with D3 and open data and updated twice a year.</p>
     <dl class="home-figures">
-      <div><dt>Infographics</dt><dd>35</dd></div>
-      <div><dt>Sports</dt><dd>12</dd></div>
+      <div><dt>Infographics</dt><dd>36</dd></div>
+      <div><dt>Sports</dt><dd>13</dd></div>
       <div><dt>Seasons covered</dt><dd>1877–2026</dd></div>
     </dl>
     <nav class="jump" aria-label="Sports">
@@ -75,6 +75,7 @@
       <a href="#football" data-sport="football">Football</a>
       <a href="#olympics" data-sport="olympics">Olympics</a>
       <a href="#basketball" data-sport="basketball">Basketball</a>
+      <a href="#nfl" data-sport="american-football">NFL</a>
       <a href="#team" data-sport="handball">Team sports</a>
       <a href="#chess" data-sport="chess">Chess</a>
       <a href="#motorsport" data-sport="motorsport">Motorsport</a>
@@ -546,6 +547,31 @@
       </div>
     </section>
 
+    <section class="sport" data-sport="american-football" id="nfl">
+      <div class="sport-head">
+        <h2>American football</h2>
+        <p>Every Super Bowl and every NFL championship since 1920.</p>
+        <span class="count">1 page</span>
+      </div>
+      <div class="gallery">
+        <a class="tile" href="american-football/super-bowl/">
+          <div class="art" style="--tint: linear-gradient(135deg, #013369, #d50a0a)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <ellipse cx="58" cy="60" rx="44" ry="26" transform="rotate(-30 58 60)" fill="#8b4a22"/>
+              <path d="M40 72l36-24" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+              <path d="M48 58l6 8M56 53l6 8M64 48l6 8" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+              <path d="M24 84c8-4 14-10 18-16M92 36c-8 4-14 10-18 16" stroke="#fff" stroke-width="3" opacity="0.6" fill="none"/>
+            </svg>
+            <div class="stat" data-stat="superBowl"><strong>6</strong><span>Patriots · Steelers</span></div>
+          </div>
+          <div class="body">
+            <h3>Super Bowl</h3>
+            <p>Every Super Bowl since 1967 and every NFL title since 1920: the franchise race, AFC vs NFC, every champion, repeated matchups, margins, MVPs, host cities and winning coaches.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
     <section class="sport" data-sport="handball" id="team">
       <div class="sport-head">
         <h2>Team sports</h2>
@@ -681,6 +707,13 @@
           return [d.players.map((p) => n(p.id)).join(" · "), "Grand Slams"];
         }],
         slams: ["tennis/grand-slams/data/grand-slams.json", (d) => [String(d.editions.length), "majors since 1968"]],
+        superBowl: ["american-football/super-bowl/data/super-bowl.json", (d) => {
+          const counts = new Map();
+          d.games.forEach((g) => counts.set(g.champion, (counts.get(g.champion) || 0) + 1));
+          const max = Math.max(...counts.values());
+          const short = Object.fromEntries(d.franchises.map((f) => [f.id, f.short]));
+          return [String(max), [...counts].filter(([, n]) => n === max).map(([id]) => short[id]).join(" · ")];
+        }],
         nba: ["basketball/nba-rings/data/nba-rings.json", (d) => {
           const [id, n] = most(d.seasons, (s) => s.champion);
           return [String(n), `${d.franchises.find((f) => f.id === id).short} rings`];
