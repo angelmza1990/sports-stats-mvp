@@ -32,6 +32,7 @@
       ["handball/international/", "Handball"], ["rugby/international/", "Rugby"], ["volleyball/international/", "Volleyball"],
       ["hockey/international/", "Field hockey"],
     ] },
+    { sport: "american-football", label: "NFL", pages: [["american-football/super-bowl/", "Super Bowl"]] },
     { sport: "chess", label: "Chess", pages: [["chess/", "Chess"]] },
     { sport: "motorsport", label: "Motorsport", pages: [["motorsport/formula-1/", "Formula 1"]] },
   ];

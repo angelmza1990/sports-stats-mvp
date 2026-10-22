@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Super Bowl · NFL</title>
+  <meta name="description" content="Every Super Bowl since 1967 and every NFL championship since 1920: a franchise bar chart race, AFC vs NFC, every champion, the most repeated matchups, margins of victory, Super Bowl MVPs, host cities and winning coaches.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/super-bowl.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · American football</p>
+    <h1>Super Bowl</h1>
+    <p class="lede">
+      Every Super Bowl since the first AFL–NFL World Championship Game in January 1967, and every NFL championship since 1920: who won, how the titles piled up, and how they split between the AFC and the NFC.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most titles</h2>
+        <p>Super Bowls won by each franchise, game by game, or every NFL championship since 1920 (the NFL title games until 1969, the Super Bowl since). Bars are colored by the franchise's conference.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Titles" id="race-mode"></div>
+          <div class="legend" id="race-legend"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Season">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="race-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="conferences">
+      <div class="block-head">
+        <h2>AFC vs NFC</h2>
+        <p>Which conference each Super Bowl champion came from. The first four games were played between the champions of two separate leagues, the AFL and the NFL, before they merged in 1970; they count here for the AFC and the NFC.</p>
+      </div>
+      <div class="card">
+        <div class="versus" id="versus"></div>
+        <h3 class="sub">Super Bowls by decade</h3>
+        <div class="legend" id="decade-legend"></div>
+        <div id="decade-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="decade-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="wall">
+      <div class="block-head">
+        <h2>Every champion</h2>
+        <p>All Super Bowl winners, one tile per game. The color strip marks the conference. Hover or tap a tile for the score, the venue and the MVP.</p>
+      </div>
+      <div class="wall" id="wall-grid" role="list"></div>
+    </section>
+
+    <section class="block" id="franchises">
+      <div class="block-head">
+        <h2>Titles by franchise</h2>
+        <p>All 32 teams, grouped by conference. Titles won under earlier names and cities count for the current franchise.</p>
+      </div>
+      <div class="controls">
+        <div class="segmented" role="tablist" aria-label="Titles" id="franchise-mode"></div>
+      </div>
+      <div class="conf-columns" id="franchise-columns"></div>
+      <p class="footnote" id="defunct-note"></p>
+    </section>
+
+    <section class="block" id="rivalries">
+      <div class="block-head">
+        <h2>The most repeated Super Bowls</h2>
+        <p>Matchups that met more than once in the Super Bowl, counted by franchise.</p>
+      </div>
+      <div class="card">
+        <div class="pair-list" id="pairs-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="runners-up">
+      <div class="block-head">
+        <h2>So close: most Super Bowls lost</h2>
+        <p>Super Bowl defeats by franchise, with every appearance that ended in defeat.</p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="runners-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="margins">
+      <div class="block-head">
+        <h2>How the Super Bowl was won</h2>
+        <p>The winning margin of every game, from field-goal finishes to blowouts, split by the winner's conference, and the most lopsided and the closest games.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="margin-legend"></div>
+        <div id="margin-chart" class="chart"></div>
+        <div class="blowouts">
+          <div>
+            <h3 class="sub">Biggest wins</h3>
+            <div class="data-table" id="blowout-table"></div>
+          </div>
+          <div>
+            <h3 class="sub">Closest games</h3>
+            <div class="data-table" id="closest-table"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="mvp">
+      <div class="block-head">
+        <h2>Super Bowl MVP leaders</h2>
+        <p>Every logo is one Super Bowl MVP, shown with the team it was won for.</p>
+      </div>
+      <div class="card">
+        <div class="mvp-list" id="mvp-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="hosts">
+      <div class="block-head">
+        <h2>Host cities</h2>
+        <p>Where the Super Bowl has been played: metropolitan areas and stadiums, with every game held there.</p>
+      </div>
+      <div class="card">
+        <div id="host-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="people"></section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> Wikipedia (CC BY-SA 4.0): <span id="sources"></span>.
+      Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> titles are credited to the current franchise (the Baltimore Colts count for the Colts, the Oakland Raiders for the Raiders, the Houston Oilers for the Titans).
+      NFL championships follow the league's own count: the NFL title (decided by the standings until 1932 and by a championship game from 1933) through the 1969 season, then the Super Bowl. AFL titles (1960–1969) aren't included.
+      Years are those of each Super Bowl, played early in the following calendar year; league titles are listed by season. Logos show each franchise's current identity.
+    </p>
+    <p>
+      Team names and logos are trademarks of their respective teams and the NFL, shown here for identification only.
+      This project is not affiliated with or endorsed by the NFL.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="app.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="../../football/people.js"></script>
+</body>
+</html>

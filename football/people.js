@@ -73,7 +73,8 @@
     const head = el("div", "block-head");
     head.append(el("h2", null, hasPlayers ? "Coaches and players" : "Winning coaches"));
     head.append(el("p", null, cup
-      ? "The coaches who won the most titles and reached the most finals, and the players who lifted the trophy most often."
+      ? hasPlayers ? "The coaches who won the most titles and reached the most finals, and the players who lifted the trophy most often."
+        : "The coaches who won the most titles and reached the most finals, and both coaches of every final."
       : hasPlayers ? "The coaches who won the most titles, every champion's coach, and the players with the most titles."
         : "The coaches who won the most titles, and the coach of every champion."));
     const coachCard = el("div", "card");
