@@ -107,7 +107,7 @@ FLAG_NAMES = {**BY_NAME, "ENGLAND": "ENG", "SCOTLAND": "SCO", "WALES": "WAL", "N
               "CZECHOSLOVAKIA": "TCH", "BELGIUM": "BEL", "SWITZERLAND": "SUI", "IRELAND": "IRL", "SOVIET UNION": "URS",
               "PERU": "PER", "ECUADOR": "ECU", "MEXICO": "MEX", "SWEDEN": "SWE", "DENMARK": "DEN", "NORWAY": "NOR",
               "POLAND": "POL", "CROATIA": "CRO", "UNITED STATES": "USA", "BOLIVIA": "BOL", "VENEZUELA": "VEN"}
-CODE_FIX = {"DEU": "GER", "NLD": "NED", "CHE": "SUI", "SER": "SRB", "URY": "URU", "PRY": "PAR", "CHL": "CHI", "PRT": "POR",
+CODE_FIX = {"CSK": "TCH", "DDR": "GDR", "DEU": "GER", "NLD": "NED", "CHE": "SUI", "SER": "SRB", "URY": "URU", "PRY": "PAR", "CHL": "CHI", "PRT": "POR",
             "HRV": "CRO", "ROM": "ROU", "SVN": "SLO", "DNK": "DEN", "GRC": "GRE", "BGR": "BUL"}
 
 
@@ -126,6 +126,9 @@ def key(name: str) -> str:
 
 
 def nation(text: str) -> str | None:
+    player = re.search(r"\{\{\s*player\s*\|[^|{}]*\|\s*([A-Z]{3})\s*\|", text)  # {{player||AUS|[[Name]]}}
+    if player:
+        return CODE_FIX.get(player.group(1), player.group(1))
     bare = re.search(r"\{\{\s*([A-Z]{3})\s*(?:\|[^{}]*)?\}\}", text)  # {{URU}}
     if bare and not re.search(r"(?i)\{\{\s*(?:fba|fb|flagu|flagcountry|flagicon|flag|bandera|bandiera)\s*\|", text):
         return CODE_FIX.get(bare.group(1), bare.group(1))

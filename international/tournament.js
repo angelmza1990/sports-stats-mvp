@@ -53,6 +53,7 @@
 
   function render(key) {
     data = byKey[key];
+    document.dispatchEvent(new CustomEvent("competitionchange", { detail: key }));
     const eds = data.editions;
     const isOlympics = /olympic/i.test(data.meta.label);
     const winWord = isOlympics ? "gold medals" : "titles";

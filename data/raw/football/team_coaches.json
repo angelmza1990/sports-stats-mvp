@@ -1,0 +1,1847 @@
+{
+ "basketball-olympics-men": {
+  "1936": {
+   "key": "Jimmy Needles",
+   "name": "Jimmy Needles",
+   "nation": null,
+   "page": "Basketball at the 1936 Summer Olympics – Men's team squads",
+   "team": "USA"
+  },
+  "1948": {
+   "key": "Bud Browning",
+   "name": "Bud Browning",
+   "nation": "USA",
+   "page": "Basketball at the 1948 Summer Olympics – Men's team squads",
+   "team": "USA"
+  },
+  "1952": {
+   "key": "Warren Womble",
+   "name": "Warren Womble",
+   "nation": null,
+   "page": "Basketball at the 1952 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "1956": {
+   "key": "Gerry Tucker",
+   "name": "Gerry Tucker",
+   "nation": null,
+   "page": "Basketball at the 1956 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "1960": {
+   "key": "Pete Newell",
+   "name": "Pete Newell",
+   "nation": "USA",
+   "page": "Basketball at the 1960 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "1964": {
+   "key": "Hank Iba",
+   "name": "Hank Iba",
+   "nation": null,
+   "page": "Basketball at the 1964 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "1968": {
+   "key": "Hank Iba",
+   "name": "Hank Iba",
+   "nation": null,
+   "page": "Basketball at the 1968 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "1972": {
+   "from": "history",
+   "key": "Vladimir Kondrashin",
+   "name": "Vladimir Kondrashin",
+   "nation": null,
+   "page": "Soviet Union men's national basketball team",
+   "team": "URS"
+  },
+  "1976": {
+   "key": "Dean Smith",
+   "name": "Dean Smith",
+   "nation": null,
+   "page": "Basketball at the 1976 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "1980": {
+   "key": "Ranko Žeravica",
+   "name": "Ranko Žeravica",
+   "nation": "YUG",
+   "page": "Basketball at the 1980 Summer Olympics – Men's team rosters",
+   "team": "YUG"
+  },
+  "1984": {
+   "key": "Bob Knight",
+   "name": "Bob Knight",
+   "nation": null,
+   "page": "Basketball at the 1984 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "1988": {
+   "key": "Alexander Gomelsky",
+   "name": "Alexander Gomelsky",
+   "nation": null,
+   "page": "Basketball at the 1988 Summer Olympics – Men's team rosters",
+   "team": "URS"
+  },
+  "1992": {
+   "key": "Chuck Daly",
+   "name": "Chuck Daly",
+   "nation": "USA",
+   "page": "Basketball at the 1992 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "1996": {
+   "key": "Lenny Wilkens",
+   "name": "Lenny Wilkens",
+   "nation": null,
+   "page": "Basketball at the 1996 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "2000": {
+   "key": "Rudy Tomjanovich",
+   "name": "Rudy Tomjanovich",
+   "nation": "USA",
+   "page": "Basketball at the 2000 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "2004": {
+   "key": "Rubén Magnano",
+   "name": "Rubén Magnano",
+   "nation": "ARG",
+   "page": "Basketball at the 2004 Summer Olympics – Men's team rosters",
+   "team": "ARG"
+  },
+  "2008": {
+   "key": "Mike Krzyzewski",
+   "name": "Mike Krzyzewski",
+   "nation": "USA",
+   "page": "Basketball at the 2008 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "2012": {
+   "key": "Mike Krzyzewski",
+   "name": "Mike Krzyzewski",
+   "nation": null,
+   "page": "Basketball at the 2012 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "2016": {
+   "key": "Mike Krzyzewski",
+   "name": "Mike Krzyzewski",
+   "nation": null,
+   "page": "Basketball at the 2016 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "2020": {
+   "key": "Gregg Popovich",
+   "name": "Gregg Popovich",
+   "nation": null,
+   "page": "Basketball at the 2020 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "2024": {
+   "key": "Steve Kerr",
+   "name": "Steve Kerr",
+   "nation": "USA",
+   "page": "Basketball at the 2024 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  }
+ },
+ "basketball-olympics-women": {
+  "1976": {
+   "key": "Lydia Alexeeva",
+   "name": "Lydia Alexeeva",
+   "nation": null,
+   "page": "Basketball at the 1976 Summer Olympics – Women's team rosters",
+   "team": "URS"
+  },
+  "1980": null,
+  "1984": null,
+  "1988": {
+   "key": "Kay Yow",
+   "name": "Kay Yow",
+   "nation": null,
+   "page": "Basketball at the 1988 Summer Olympics – Women's team rosters",
+   "team": "USA"
+  },
+  "1992": {
+   "key": "Evgeny Gomelsky",
+   "name": "Evgeny Gomelsky",
+   "nation": "CIS",
+   "page": "Basketball at the 1992 Summer Olympics – Women's team rosters",
+   "team": "EUN"
+  },
+  "1996": null,
+  "2000": {
+   "key": "Nell Fortner",
+   "name": "Nell Fortner",
+   "nation": null,
+   "page": "Basketball at the 2000 Summer Olympics – Women's team rosters",
+   "team": "USA"
+  },
+  "2004": {
+   "key": "Van Chancellor",
+   "name": "Van Chancellor",
+   "nation": "USA",
+   "page": "Basketball at the 2004 Summer Olympics – Women's team rosters",
+   "team": "USA"
+  },
+  "2008": {
+   "key": "Anne Donovan",
+   "name": "Anne Donovan",
+   "nation": null,
+   "page": "Basketball at the 2008 Summer Olympics – Women's team rosters",
+   "team": "USA"
+  },
+  "2012": {
+   "key": "Geno Auriemma",
+   "name": "Geno Auriemma",
+   "nation": null,
+   "page": "Basketball at the 2012 Summer Olympics – Women's team rosters",
+   "team": "USA"
+  },
+  "2016": null,
+  "2020": {
+   "key": "Dawn Staley",
+   "name": "Dawn Staley",
+   "nation": "USA",
+   "page": "Basketball at the 2020 Summer Olympics – Women's team rosters",
+   "team": "USA"
+  },
+  "2024": {
+   "key": "Cheryl Reeve",
+   "name": "Cheryl Reeve",
+   "nation": "USA",
+   "page": "Basketball at the 2024 Summer Olympics – Women's team rosters",
+   "team": "USA"
+  }
+ },
+ "basketball-wc-women": {
+  "1953": null,
+  "1957": null,
+  "1959": null,
+  "1964": null,
+  "1967": null,
+  "1971": null,
+  "1975": null,
+  "1979": {
+   "from": "history",
+   "key": "Pat Summitt",
+   "name": "Pat Summitt",
+   "nation": null,
+   "page": "United States women's national basketball team",
+   "team": "USA"
+  },
+  "1983": null,
+  "1986": null,
+  "1990": null,
+  "1994": {
+   "key": "Miguel Ângelo da Luz",
+   "name": "Miguel Ângelo da Luz",
+   "nation": null,
+   "page": "1994 FIBA World Championship for Women squads",
+   "team": "BRA"
+  },
+  "1998": {
+   "from": "history",
+   "key": "Nell Fortner",
+   "name": "Nell Fortner",
+   "nation": null,
+   "page": "United States women's national basketball team",
+   "team": "USA"
+  },
+  "2002": {
+   "key": "Van Chancellor",
+   "name": "Van Chancellor",
+   "nation": "USA",
+   "page": "2002 FIBA World Championship for Women squads",
+   "team": "USA"
+  },
+  "2006": {
+   "key": "Jan Stirling",
+   "name": "Jan Stirling",
+   "nation": null,
+   "page": "2006 FIBA World Championship for Women squads",
+   "team": "AUS"
+  },
+  "2010": {
+   "key": "Geno Auriemma",
+   "name": "Geno Auriemma",
+   "nation": "USA",
+   "page": "2010 FIBA World Championship for Women squads",
+   "team": "USA"
+  },
+  "2014": {
+   "key": "Geno Auriemma",
+   "name": "Geno Auriemma",
+   "nation": null,
+   "page": "2014 FIBA World Championship for Women squads",
+   "team": "USA"
+  },
+  "2018": {
+   "key": "Dawn Staley",
+   "name": "Dawn Staley",
+   "nation": "USA",
+   "page": "2018 FIBA Women's Basketball World Cup squads",
+   "team": "USA"
+  },
+  "2022": {
+   "key": "Cheryl Reeve",
+   "name": "Cheryl Reeve",
+   "nation": "USA",
+   "page": "2022 FIBA Women's Basketball World Cup squads",
+   "team": "USA"
+  },
+  "2026": {
+   "key": "Kara Lawson",
+   "name": "Kara Lawson",
+   "nation": "USA",
+   "page": "2026 FIBA Women's Basketball World Cup squads",
+   "team": "USA"
+  }
+ },
+ "football-olympics-men": {
+  "1900": {
+   "key": "James Jones (footballer, born 1873)",
+   "name": "James Jones",
+   "nation": null,
+   "page": "Football at the 1900 Summer Olympics – Men's team squads",
+   "team": "GBR"
+  },
+  "1904": null,
+  "1908": {
+   "key": "Alfred Davis",
+   "name": "Alfred Davis",
+   "nation": null,
+   "page": "Football at the 1908 Summer Olympics – Men's team squads",
+   "team": "GBR"
+  },
+  "1912": {
+   "key": "Arthur Birch",
+   "name": "Arthur Birch",
+   "nation": null,
+   "page": "Football at the 1912 Summer Olympics – Men's team squads",
+   "team": "GBR"
+  },
+  "1920": {
+   "key": "Raoul Daufresne de la Chevalerie",
+   "name": "Raoul Daufresne de la Chevalerie",
+   "nation": null,
+   "page": "Football at the 1920 Summer Olympics – Men's team squads",
+   "team": "BEL"
+  },
+  "1924": {
+   "key": "Ernesto Figoli",
+   "name": "Ernesto Figoli",
+   "nation": "URU",
+   "page": "Football at the 1924 Summer Olympics – Men's team squads",
+   "team": "URU"
+  },
+  "1928": {
+   "key": "Primo Gianotti",
+   "name": "Primo Gianotti",
+   "nation": null,
+   "page": "Football at the 1928 Summer Olympics – Men's team squads",
+   "team": "URU"
+  },
+  "1936": {
+   "key": "Vittorio Pozzo",
+   "name": "Vittorio Pozzo",
+   "nation": null,
+   "page": "Football at the 1936 Summer Olympics – Men's team squads",
+   "team": "ITA"
+  },
+  "1948": {
+   "key": "George Raynor",
+   "name": "George Raynor",
+   "nation": "ENG",
+   "page": "Football at the 1948 Summer Olympics – Men's team squads",
+   "team": "SWE"
+  },
+  "1952": {
+   "key": "Gusztáv Sebes",
+   "name": "Gusztáv Sebes",
+   "nation": null,
+   "page": "Football at the 1952 Summer Olympics – Men's team squads",
+   "team": "HUN"
+  },
+  "1956": {
+   "key": "Gavril Kachalin",
+   "name": "Gavril Kachalin",
+   "nation": null,
+   "page": "Association football at the 1956 Summer Olympics – Men's team squads",
+   "team": "URS"
+  },
+  "1960": {
+   "key": "Aleksandar Tirnanić",
+   "name": "Aleksandar Tirnanić",
+   "nation": null,
+   "page": "Football at the 1960 Summer Olympics – Men's team squads",
+   "team": "YUG"
+  },
+  "1964": {
+   "key": "Károly Lakat",
+   "name": "Károly Lakat",
+   "nation": null,
+   "page": "Football at the 1964 Summer Olympics – Men's team squads",
+   "team": "HUN"
+  },
+  "1968": {
+   "key": "Károly Lakat",
+   "name": "Károly Lakat",
+   "nation": null,
+   "page": "Football at the 1968 Summer Olympics – Men's team squads",
+   "team": "HUN"
+  },
+  "1972": {
+   "key": "Kazimierz Górski",
+   "name": "Kazimierz Górski",
+   "nation": null,
+   "page": "Football at the 1972 Summer Olympics – Men's team squads",
+   "team": "POL"
+  },
+  "1976": {
+   "key": "Georg Buschner",
+   "name": "Georg Buschner",
+   "nation": null,
+   "page": "Football at the 1976 Summer Olympics – Men's team squads",
+   "team": "GDR"
+  },
+  "1980": {
+   "key": "František Havránek",
+   "name": "František Havránek",
+   "nation": null,
+   "page": "Football at the 1980 Summer Olympics – Men's team squads",
+   "team": "TCH"
+  },
+  "1984": {
+   "key": "Henri Michel",
+   "name": "Henri Michel",
+   "nation": null,
+   "page": "Football at the 1984 Summer Olympics – Men's team squads",
+   "team": "FRA"
+  },
+  "1988": {
+   "key": "Anatoliy Byshovets",
+   "name": "Anatoliy Byshovets",
+   "nation": null,
+   "page": "Football at the 1988 Summer Olympics – Men's team squads",
+   "team": "URS"
+  },
+  "1992": {
+   "key": "Vicente Miera",
+   "name": "Vicente Miera",
+   "nation": null,
+   "page": "Football at the 1992 Summer Olympics – Men's team squads",
+   "team": "ESP"
+  },
+  "1996": {
+   "key": "Jo Bonfrere",
+   "name": "Jo Bonfrere",
+   "nation": "NED",
+   "page": "Football at the 1996 Summer Olympics – Men's team squads",
+   "team": "NGA"
+  },
+  "2000": {
+   "key": "Jean-Paul Akono",
+   "name": "Jean-Paul Akono",
+   "nation": null,
+   "page": "Football at the 2000 Summer Olympics – Men's team squads",
+   "team": "CMR"
+  },
+  "2004": {
+   "key": "Marcelo Bielsa",
+   "name": "Marcelo Bielsa",
+   "nation": null,
+   "page": "Football at the 2004 Summer Olympics – Men's team squads",
+   "team": "ARG"
+  },
+  "2008": {
+   "key": "Sergio Batista",
+   "name": "Sergio Batista",
+   "nation": null,
+   "page": "Football at the 2008 Summer Olympics – Men's team squads",
+   "team": "ARG"
+  },
+  "2012": {
+   "key": "Luis Fernando Tena",
+   "name": "Luis Fernando Tena",
+   "nation": null,
+   "page": "Football at the 2012 Summer Olympics – Men's team squads",
+   "team": "MEX"
+  },
+  "2016": {
+   "key": "Rogério Micale",
+   "name": "Rogério Micale",
+   "nation": null,
+   "page": "Football at the 2016 Summer Olympics – Men's team squads",
+   "team": "BRA"
+  },
+  "2020": {
+   "key": "André Jardine",
+   "name": "André Jardine",
+   "nation": null,
+   "page": "Football at the 2020 Summer Olympics – Men's team squads",
+   "team": "BRA"
+  },
+  "2024": {
+   "key": "Santi Denia",
+   "name": "Santi Denia",
+   "nation": null,
+   "page": "Football at the 2024 Summer Olympics – Men's team squads",
+   "team": "ESP"
+  }
+ },
+ "football-olympics-women": {
+  "1996": {
+   "key": "Tony DiCicco",
+   "name": "Tony DiCicco",
+   "nation": null,
+   "page": "Football at the 1996 Summer Olympics – Women's team squads",
+   "team": "USA"
+  },
+  "2000": {
+   "key": "Per-Mathias Høgmo",
+   "name": "Per-Mathias Høgmo",
+   "nation": null,
+   "page": "Football at the 2000 Summer Olympics – Women's team squads",
+   "team": "NOR"
+  },
+  "2004": {
+   "key": "April Heinrichs",
+   "name": "April Heinrichs",
+   "nation": null,
+   "page": "Football at the 2004 Summer Olympics – Women's team squads",
+   "team": "USA"
+  },
+  "2008": {
+   "key": "Pia Sundhage",
+   "name": "Pia Sundhage",
+   "nation": "SWE",
+   "page": "Football at the 2008 Summer Olympics – Women's team squads",
+   "team": "USA"
+  },
+  "2012": {
+   "key": "Pia Sundhage",
+   "name": "Pia Sundhage",
+   "nation": "SWE",
+   "page": "Football at the 2012 Summer Olympics – Women's team squads",
+   "team": "USA"
+  },
+  "2016": {
+   "key": "Silvia Neid",
+   "name": "Silvia Neid",
+   "nation": null,
+   "page": "Football at the 2016 Summer Olympics – Women's team squads",
+   "team": "GER"
+  },
+  "2020": {
+   "key": "Bev Priestman",
+   "name": "Bev Priestman",
+   "nation": null,
+   "page": "Football at the 2020 Summer Olympics – Women's team squads",
+   "team": "CAN"
+  },
+  "2024": {
+   "key": "Emma Hayes",
+   "name": "Emma Hayes",
+   "nation": "GBR",
+   "page": "Football at the 2024 Summer Olympics – Women's team squads",
+   "team": "USA"
+  }
+ },
+ "handball-olympics-men": {
+  "1936": {
+   "key": "Otto-Günther Kaundinya",
+   "name": "Otto-Günther Kaundinya",
+   "nation": null,
+   "page": "Handball at the 1936 Summer Olympics – Men's team squads",
+   "team": "GER"
+  },
+  "1972": {
+   "from": "history",
+   "key": "Vlado Stenzel",
+   "name": "Vlado Stenzel",
+   "nation": "CRO",
+   "page": "Yugoslavia men's national handball team",
+   "team": "YUG"
+  },
+  "1976": {
+   "from": "history",
+   "key": "Anatoly Yevtushenko",
+   "name": "Anatoly Yevtushenko",
+   "nation": null,
+   "page": "de:Sowjetische Männer-Handballnationalmannschaft",
+   "team": "URS"
+  },
+  "1980": {
+   "from": "history",
+   "key": "Heinz Seiler",
+   "name": "Heinz Seiler",
+   "nation": null,
+   "page": "de:Männer-Handballnationalmannschaft der DDR",
+   "team": "GDR"
+  },
+  "1984": {
+   "from": "history",
+   "key": "Branislav Pokrajac",
+   "name": "Branislav Pokrajac",
+   "nation": "SRB",
+   "page": "Yugoslavia men's national handball team",
+   "team": "YUG"
+  },
+  "1988": {
+   "from": "history",
+   "key": "Anatoly Yevtushenko",
+   "name": "Anatoly Yevtushenko",
+   "nation": null,
+   "page": "de:Sowjetische Männer-Handballnationalmannschaft",
+   "team": "URS"
+  },
+  "1992": null,
+  "1996": null,
+  "2000": null,
+  "2004": {
+   "from": "history",
+   "key": "Lino Červar",
+   "name": "Lino Červar",
+   "nation": "CRO",
+   "page": "Croatia men's national handball team",
+   "team": "CRO"
+  },
+  "2008": {
+   "from": "history",
+   "key": "Claude Onesta",
+   "name": "Claude Onesta",
+   "nation": "FRA",
+   "page": "de:Französische Männer-Handballnationalmannschaft",
+   "team": "FRA"
+  },
+  "2012": {
+   "key": "Claude Onesta",
+   "name": "Claude Onesta",
+   "nation": null,
+   "page": "Handball at the 2012 Summer Olympics – Men's tournament",
+   "team": "FRA"
+  },
+  "2016": {
+   "key": "Guðmundur Guðmundsson (handballer)",
+   "name": "Guðmundur Guðmundsson",
+   "nation": "ISL",
+   "page": "Handball at the 2016 Summer Olympics – Men's team rosters",
+   "team": "DEN"
+  },
+  "2020": {
+   "key": "Guillaume Gille",
+   "name": "Guillaume Gille",
+   "nation": null,
+   "page": "Handball at the 2020 Summer Olympics – Men's team rosters",
+   "team": "FRA"
+  },
+  "2024": {
+   "key": "Nikolaj Jacobsen",
+   "name": "Nikolaj Jacobsen",
+   "nation": null,
+   "page": "Handball at the 2024 Summer Olympics – Men's team rosters",
+   "team": "DEN"
+  }
+ },
+ "handball-olympics-women": {
+  "1976": null,
+  "1980": null,
+  "1984": null,
+  "1988": null,
+  "1992": null,
+  "1996": {
+   "key": "Ulrik Wilbek",
+   "name": "Ulrik Wilbek",
+   "nation": null,
+   "page": "Handball at the 1996 Summer Olympics – Women's team squads",
+   "team": "DEN"
+  },
+  "2000": {
+   "key": "Jan Pytlick",
+   "name": "Jan Pytlick",
+   "nation": null,
+   "page": "Handball at the 2000 Summer Olympics – Women's team rosters",
+   "team": "DEN"
+  },
+  "2004": {
+   "from": "history",
+   "key": "Jan Pytlick",
+   "name": "Jan Pytlick",
+   "nation": null,
+   "page": "Denmark women's national handball team",
+   "team": "DEN"
+  },
+  "2008": {
+   "from": "history",
+   "key": "Marit Breivik",
+   "name": "Marit Breivik",
+   "nation": null,
+   "page": "Norway women's national handball team",
+   "team": "NOR"
+  },
+  "2012": {
+   "from": "history",
+   "key": "Thorir Hergeirsson",
+   "name": "Thorir Hergeirsson",
+   "nation": null,
+   "page": "Norway women's national handball team",
+   "team": "NOR"
+  },
+  "2016": {
+   "key": "Yevgeni Trefilov",
+   "name": "Yevgeni Trefilov",
+   "nation": null,
+   "page": "Handball at the 2016 Summer Olympics – Women's team rosters",
+   "team": "RUS"
+  },
+  "2020": {
+   "key": "Olivier Krumbholz",
+   "name": "Olivier Krumbholz",
+   "nation": null,
+   "page": "Handball at the 2020 Summer Olympics – Women's team rosters",
+   "team": "FRA"
+  },
+  "2024": {
+   "key": "Þórir Hergeirsson",
+   "name": "Þórir Hergeirsson",
+   "nation": "ISL",
+   "page": "Handball at the 2024 Summer Olympics – Women's team rosters",
+   "team": "NOR"
+  }
+ },
+ "handball-wc-men": {
+  "1938": null,
+  "1954": {
+   "from": "history",
+   "key": "Curt Wadmark",
+   "name": "Curt Wadmark",
+   "nation": null,
+   "page": "Sweden men's national handball team",
+   "team": "SWE"
+  },
+  "1958": {
+   "from": "history",
+   "key": "Curt Wadmark",
+   "name": "Curt Wadmark",
+   "nation": null,
+   "page": "Sweden men's national handball team",
+   "team": "SWE"
+  },
+  "1961": {
+   "from": "history",
+   "key": "Ioan Kunst Ghermănescu",
+   "name": "Ioan Kunst Ghermănescu",
+   "nation": null,
+   "page": "de:Rumänische Männer-Handballnationalmannschaft",
+   "team": "ROU"
+  },
+  "1964": null,
+  "1967": {
+   "from": "history",
+   "key": "Bedřich König",
+   "name": "Bedřich König",
+   "nation": "TCH",
+   "page": "de:Tschechoslowakische Männer-Handballnationalmannschaft",
+   "team": "TCH"
+  },
+  "1970": null,
+  "1974": {
+   "from": "history",
+   "key": "Niculae Nedeff",
+   "name": "Niculae Nedeff",
+   "nation": null,
+   "page": "de:Rumänische Männer-Handballnationalmannschaft",
+   "team": "ROU"
+  },
+  "1978": {
+   "from": "history",
+   "key": "Vlado Stenzel",
+   "name": "Vlado Stenzel",
+   "nation": null,
+   "page": "Germany men's national handball team",
+   "team": "GER"
+  },
+  "1982": {
+   "from": "history",
+   "key": "Anatoly Yevtushenko",
+   "name": "Anatoly Yevtushenko",
+   "nation": null,
+   "page": "de:Sowjetische Männer-Handballnationalmannschaft",
+   "team": "URS"
+  },
+  "1986": {
+   "from": "history",
+   "key": "Abas Arslanagić",
+   "name": "Abas Arslanagić",
+   "nation": "BIH",
+   "page": "Yugoslavia men's national handball team",
+   "team": "YUG"
+  },
+  "1990": {
+   "from": "history",
+   "key": "Bengt Johansson (handball)",
+   "name": "Bengt \"Bengan\" Johansson",
+   "nation": null,
+   "page": "Sweden men's national handball team",
+   "team": "SWE"
+  },
+  "1993": null,
+  "1995": {
+   "from": "history",
+   "key": "Daniel Costantini",
+   "name": "Daniel Costantini",
+   "nation": "FRA",
+   "page": "de:Französische Männer-Handballnationalmannschaft",
+   "team": "FRA"
+  },
+  "1997": null,
+  "1999": {
+   "from": "history",
+   "key": "Bengt Johansson (handball)",
+   "name": "Bengt \"Bengan\" Johansson",
+   "nation": null,
+   "page": "Sweden men's national handball team",
+   "team": "SWE"
+  },
+  "2001": null,
+  "2003": {
+   "key": "Lino Červar",
+   "name": "Lino Červar",
+   "nation": null,
+   "page": "2003 World Men's Handball Championship",
+   "team": "CRO"
+  },
+  "2005": {
+   "from": "history",
+   "key": "Juan Carlos Pastor",
+   "name": "Juan Carlos Pastor",
+   "nation": null,
+   "page": "de:Spanische Männer-Handballnationalmannschaft",
+   "team": "ESP"
+  },
+  "2007": {
+   "from": "history",
+   "key": "Heiner Brand",
+   "name": "Heiner Brand",
+   "nation": null,
+   "page": "Germany men's national handball team",
+   "team": "GER"
+  },
+  "2009": {
+   "key": "Claude Onesta",
+   "name": "Claude Onesta",
+   "nation": "FRA",
+   "page": "2009 World Men's Handball Championship squads",
+   "team": "FRA"
+  },
+  "2011": {
+   "key": "Claude Onesta",
+   "name": "Claude Onesta",
+   "nation": "FRA",
+   "page": "2011 World Men's Handball Championship squads",
+   "team": "FRA"
+  },
+  "2013": {
+   "key": "Valero Rivera López",
+   "name": "Valero Rivera",
+   "nation": null,
+   "page": "2013 World Men's Handball Championship squads",
+   "team": "ESP"
+  },
+  "2015": {
+   "key": "Claude Onesta",
+   "name": "Claude Onesta",
+   "nation": null,
+   "page": "2015 World Men's Handball Championship squads",
+   "team": "FRA"
+  },
+  "2017": {
+   "key": "Didier Dinart",
+   "name": "Didier Dinart",
+   "nation": null,
+   "page": "2017 World Men's Handball Championship squads",
+   "team": "FRA"
+  },
+  "2019": {
+   "key": "Nikolaj Jacobsen",
+   "name": "Nikolaj Jacobsen",
+   "nation": null,
+   "page": "2019 World Men's Handball Championship squads",
+   "team": "DEN"
+  },
+  "2021": {
+   "key": "Nikolaj Jacobsen",
+   "name": "Nikolaj Jacobsen",
+   "nation": null,
+   "page": "2021 World Men's Handball Championship squads",
+   "team": "DEN"
+  },
+  "2023": {
+   "key": "Nikolaj Jacobsen",
+   "name": "Nikolaj Jacobsen",
+   "nation": null,
+   "page": "2023 World Men's Handball Championship squads",
+   "team": "DEN"
+  },
+  "2025": {
+   "key": "Nikolaj Jacobsen",
+   "name": "Nikolaj Jacobsen",
+   "nation": null,
+   "page": "2025 World Men's Handball Championship squads",
+   "team": "DEN"
+  }
+ },
+ "handball-wc-women": {
+  "1957": null,
+  "1962": {
+   "from": "history",
+   "key": "Constantin Popescu (handball coach)",
+   "name": "Constantin Popescu",
+   "nation": "ROU",
+   "page": "Romania women's national handball team",
+   "team": "ROU"
+  },
+  "1965": {
+   "from": "history",
+   "key": "Bódog Török",
+   "name": "Bódog Török",
+   "nation": "HUN",
+   "page": "Hungary women's national handball team",
+   "team": "HUN"
+  },
+  "1971": null,
+  "1973": null,
+  "1975": null,
+  "1978": null,
+  "1982": null,
+  "1986": null,
+  "1990": null,
+  "1993": {
+   "from": "history",
+   "key": "Lothar Doering",
+   "name": "Lothar Doering",
+   "nation": "GER",
+   "page": "Germany women's national handball team",
+   "team": "GER"
+  },
+  "1995": null,
+  "1997": {
+   "key": "Ulrik Wilbek",
+   "name": "Wilbek",
+   "nation": null,
+   "page": "1997 World Women's Handball Championship",
+   "team": "DEN"
+  },
+  "1999": {
+   "from": "history",
+   "key": "Marit Breivik",
+   "name": "Marit Breivik",
+   "nation": null,
+   "page": "Norway women's national handball team",
+   "team": "NOR"
+  },
+  "2001": {
+   "from": "history",
+   "key": "Evgeny Trefilov",
+   "name": "Evgeny Trefilov",
+   "nation": "RUS",
+   "page": "Russia women's national handball team",
+   "team": "RUS"
+  },
+  "2003": {
+   "from": "history",
+   "key": "Olivier Krumbholz",
+   "name": "Olivier Krumbholz",
+   "nation": "FRA",
+   "page": "France women's national handball team",
+   "team": "FRA"
+  },
+  "2005": {
+   "key": "Yevgeni Trefilov",
+   "name": "Evgeny Trefilov",
+   "nation": null,
+   "page": "2005 World Women's Handball Championship squads",
+   "team": "RUS"
+  },
+  "2007": {
+   "key": "Yevgeni Trefilov",
+   "name": "Evgeny Trefilov",
+   "nation": null,
+   "page": "2007 World Women's Handball Championship squads",
+   "team": "RUS"
+  },
+  "2009": {
+   "from": "history",
+   "key": "Evgeny Trefilov",
+   "name": "Evgeny Trefilov",
+   "nation": "RUS",
+   "page": "Russia women's national handball team",
+   "team": "RUS"
+  },
+  "2011": {
+   "key": "Thorir Hergeirsson",
+   "name": "Thorir Hergeirsson",
+   "nation": "ISL",
+   "page": "2011 World Women's Handball Championship squads",
+   "team": "NOR"
+  },
+  "2013": {
+   "key": "Morten Soubak",
+   "name": "Morten Soubak",
+   "nation": null,
+   "page": "2013 World Women's Handball Championship squads",
+   "team": "BRA"
+  },
+  "2015": {
+   "key": "Thorir Hergeirsson",
+   "name": "Thorir Hergeirsson",
+   "nation": null,
+   "page": "2015 World Women's Handball Championship squads",
+   "team": "NOR"
+  },
+  "2017": {
+   "key": "Olivier Krumbholz",
+   "name": "Olivier Krumbholz",
+   "nation": null,
+   "page": "2017 World Women's Handball Championship squads",
+   "team": "FRA"
+  },
+  "2019": {
+   "key": "Emmanuel Mayonnade",
+   "name": "Emmanuel Mayonnade",
+   "nation": "FRA",
+   "page": "2019 World Women's Handball Championship squads",
+   "team": "NED"
+  },
+  "2021": {
+   "key": "Thorir Hergeirsson",
+   "name": "Thorir Hergeirsson",
+   "nation": "ISL",
+   "page": "2021 World Women's Handball Championship squads",
+   "team": "NOR"
+  },
+  "2023": {
+   "key": "Olivier Krumbholz",
+   "name": "Olivier Krumbholz",
+   "nation": null,
+   "page": "2023 World Women's Handball Championship squads",
+   "team": "FRA"
+  },
+  "2025": {
+   "key": "Ole Gustav Gjekstad",
+   "name": "Ole Gjekstad",
+   "nation": null,
+   "page": "2025 World Women's Handball Championship squads",
+   "team": "NOR"
+  }
+ },
+ "hockey-olympics-men": {
+  "1908": null,
+  "1920": null,
+  "1928": null,
+  "1932": null,
+  "1936": null,
+  "1948": {
+   "key": "NN Mukherjee",
+   "name": "NN Mukherjee",
+   "nation": null,
+   "page": "Field hockey at the 1948 Summer Olympics – Men's team squads",
+   "team": "IND"
+  },
+  "1952": null,
+  "1956": null,
+  "1960": null,
+  "1964": null,
+  "1968": null,
+  "1972": null,
+  "1976": {
+   "key": "Ross Gillespie",
+   "name": "Ross Gillespie",
+   "nation": null,
+   "page": "Field hockey at the 1976 Summer Olympics – Men's team squads",
+   "team": "NZL"
+  },
+  "1980": null,
+  "1984": {
+   "key": "Khwaja Zakauddin",
+   "name": "Khwaja Zakauddin",
+   "nation": null,
+   "page": "Field hockey at the 1984 Summer Olympics – Men's team squads",
+   "team": "PAK"
+  },
+  "1988": {
+   "from": "history",
+   "key": "David Whitaker (field hockey)",
+   "name": "David Whitaker",
+   "nation": null,
+   "page": "Great Britain men's national field hockey team",
+   "team": "GBR"
+  },
+  "1992": null,
+  "1996": {
+   "key": "Roelant Oltmans",
+   "name": "Roelant Oltmans",
+   "nation": null,
+   "page": "Field hockey at the 1996 Summer Olympics – Men's team squads",
+   "team": "NED"
+  },
+  "2000": {
+   "key": "Maurits Hendriks",
+   "name": "Maurits Hendriks",
+   "nation": null,
+   "page": "Field hockey at the 2000 Summer Olympics – Men's team squads",
+   "team": "NED"
+  },
+  "2004": null,
+  "2008": {
+   "key": "Markus Weise",
+   "name": "Markus Weise",
+   "nation": null,
+   "page": "Field hockey at the 2008 Summer Olympics – Men's team squads",
+   "team": "GER"
+  },
+  "2012": {
+   "key": "Markus Weise",
+   "name": "Markus Weise",
+   "nation": null,
+   "page": "Field hockey at the 2012 Summer Olympics – Men's team squads",
+   "team": "GER"
+  },
+  "2016": {
+   "key": "Carlos Retegui",
+   "name": "Carlos Retegui",
+   "nation": null,
+   "page": "Field hockey at the 2016 Summer Olympics – Men's team squads",
+   "team": "ARG"
+  },
+  "2020": {
+   "key": "Shane McLeod (field hockey)",
+   "name": "Shane McLeod",
+   "nation": null,
+   "page": "Field hockey at the 2020 Summer Olympics – Men's team squads",
+   "team": "BEL"
+  },
+  "2024": {
+   "key": "Jeroen Delmee",
+   "name": "Jeroen Delmee",
+   "nation": null,
+   "page": "Field hockey at the 2024 Summer Olympics – Men's team squads",
+   "team": "NED"
+  }
+ },
+ "hockey-olympics-women": {
+  "1980": null,
+  "1984": {
+   "from": "history",
+   "key": "Gijs van Heumen",
+   "name": "Gijs van Heumen",
+   "nation": null,
+   "page": "Netherlands women's national field hockey team",
+   "team": "NED"
+  },
+  "1988": null,
+  "1992": {
+   "key": "José Manuel Brasa",
+   "name": "José Manuel Brasa",
+   "nation": "ESP",
+   "page": "Field hockey at the 1992 Summer Olympics – Women's team squads",
+   "team": "ESP"
+  },
+  "1996": null,
+  "2000": {
+   "key": "Robert Haigh (field hockey)",
+   "name": "Robert Haigh",
+   "nation": null,
+   "page": "Field hockey at the 2000 Summer Olympics – Women's team squads",
+   "team": "AUS"
+  },
+  "2004": null,
+  "2008": {
+   "key": "Marc Lammers",
+   "name": "Marc Lammers",
+   "nation": null,
+   "page": "Field hockey at the 2008 Summer Olympics – Women's team squads",
+   "team": "NED"
+  },
+  "2012": {
+   "key": "Maximiliano Caldas",
+   "name": "Maximiliano Caldas",
+   "nation": null,
+   "page": "Field hockey at the 2012 Summer Olympics – Women's team rosters",
+   "team": "NED"
+  },
+  "2016": {
+   "key": "Danny Kerry (field hockey)",
+   "name": "Danny Kerry",
+   "nation": null,
+   "page": "Field hockey at the 2016 Summer Olympics – Women's team squads",
+   "team": "GBR"
+  },
+  "2020": {
+   "key": "Alyson Annan",
+   "name": "Alyson Annan",
+   "nation": null,
+   "page": "Field hockey at the 2020 Summer Olympics – Women's team squads",
+   "team": "NED"
+  },
+  "2024": {
+   "key": "Paul van Ass",
+   "name": "Paul van Ass",
+   "nation": null,
+   "page": "Field hockey at the 2024 Summer Olympics – Women's team squads",
+   "team": "NED"
+  }
+ },
+ "hockey-wc-men": {
+  "1971": null,
+  "1973": null,
+  "1975": null,
+  "1978": null,
+  "1982": null,
+  "1986": null,
+  "1990": null,
+  "1994": null,
+  "1998": null,
+  "2002": {
+   "key": "Bernhard Peters",
+   "name": "Bernhard Peters",
+   "nation": null,
+   "page": "2002 Men's Hockey World Cup squads",
+   "team": "GER"
+  },
+  "2006": {
+   "key": "Bernhard Peters",
+   "name": "Bernhard Peters",
+   "nation": null,
+   "page": "2006 Men's Hockey World Cup squads",
+   "team": "GER"
+  },
+  "2010": {
+   "key": "Ric Charlesworth",
+   "name": "Ric Charlesworth",
+   "nation": null,
+   "page": "2010 Men's Hockey World Cup squads",
+   "team": "AUS"
+  },
+  "2014": {
+   "key": "Ric Charlesworth",
+   "name": "Ric Charlesworth",
+   "nation": null,
+   "page": "2014 Men's Hockey World Cup squads",
+   "team": "AUS"
+  },
+  "2018": {
+   "key": "Shane McLeod (field hockey)",
+   "name": "Shane McLeod",
+   "nation": "NZL",
+   "page": "2018 Men's Hockey World Cup squads",
+   "team": "BEL"
+  },
+  "2023": {
+   "key": "André Henning",
+   "name": "André Henning",
+   "nation": null,
+   "page": "2023 Men's FIH Hockey World Cup squads",
+   "team": "GER"
+  },
+  "2026": {
+   "key": "André Henning",
+   "name": "André Henning",
+   "nation": null,
+   "page": "2026 Men's FIH Hockey World Cup squads",
+   "team": "GER"
+  }
+ },
+ "hockey-wc-women": {
+  "1974": {
+   "from": "history",
+   "key": "Jo Jurissen",
+   "name": "Jo Jurissen",
+   "nation": null,
+   "page": "Netherlands women's national field hockey team",
+   "team": "NED"
+  },
+  "1976": null,
+  "1978": {
+   "from": "history",
+   "key": "Huib Timmermans",
+   "name": "Huib Timmermans",
+   "nation": null,
+   "page": "Netherlands women's national field hockey team",
+   "team": "NED"
+  },
+  "1981": null,
+  "1983": {
+   "from": "history",
+   "key": "Gijs van Heumen",
+   "name": "Gijs van Heumen",
+   "nation": null,
+   "page": "Netherlands women's national field hockey team",
+   "team": "NED"
+  },
+  "1986": {
+   "from": "history",
+   "key": "Gijs van Heumen",
+   "name": "Gijs van Heumen",
+   "nation": null,
+   "page": "Netherlands women's national field hockey team",
+   "team": "NED"
+  },
+  "1990": {
+   "from": "history",
+   "key": "Roelant Oltmans",
+   "name": "Roelant Oltmans",
+   "nation": null,
+   "page": "Netherlands women's national field hockey team",
+   "team": "NED"
+  },
+  "1994": null,
+  "1998": {
+   "key": "Ric Charlesworth",
+   "name": "Ric Charlesworth",
+   "nation": null,
+   "page": "1998 Women's Hockey World Cup squads",
+   "team": "AUS"
+  },
+  "2002": {
+   "key": "Sergio Vigil",
+   "name": "Sergio Vigil",
+   "nation": null,
+   "page": "2002 Women's Hockey World Cup squads",
+   "team": "ARG"
+  },
+  "2006": {
+   "key": "Marc Lammers",
+   "name": "Marc Lammers",
+   "nation": null,
+   "page": "2006 Women's Hockey World Cup squads",
+   "team": "NED"
+  },
+  "2010": {
+   "key": "Carlos Retegui",
+   "name": "Carlos Retegui",
+   "nation": null,
+   "page": "2010 Women's Hockey World Cup squads",
+   "team": "ARG"
+  },
+  "2014": {
+   "key": "Maximiliano Caldas",
+   "name": "Maximiliano Caldas",
+   "nation": null,
+   "page": "2014 Women's Hockey World Cup squads",
+   "team": "NED"
+  },
+  "2018": {
+   "key": "Alyson Annan",
+   "name": "Alyson Annan",
+   "nation": null,
+   "page": "2018 Women's Hockey World Cup squads",
+   "team": "NED"
+  },
+  "2022": {
+   "key": "Jamilon Mülders",
+   "name": "Jamilon Mülders",
+   "nation": "GER",
+   "page": "2022 Women's FIH Hockey World Cup squads",
+   "team": "NED"
+  },
+  "2026": {
+   "key": "Fernando Ferrara",
+   "name": "Fernando Ferrara",
+   "nation": null,
+   "page": "2026 Women's FIH Hockey World Cup squads",
+   "team": "ARG"
+  }
+ },
+ "rugby-wc-women": {
+  "1991": {
+   "key": "Kevin O'Brien (rugby union coach)",
+   "name": "Kevin O'Brien",
+   "nation": null,
+   "page": "1991 Women's Rugby World Cup squads",
+   "team": "USA"
+  },
+  "1994": {
+   "key": "Steve Dowling",
+   "name": "Steve Dowling",
+   "nation": null,
+   "page": "1994 Women's Rugby World Cup squads",
+   "team": "ENG"
+  },
+  "1998": {
+   "key": "Darryl Suasua",
+   "name": "Darryl Suasua",
+   "nation": null,
+   "page": "1998 Women's Rugby World Cup squads",
+   "team": "NZL"
+  },
+  "2002": {
+   "key": "Darryl Suasua",
+   "name": "Darryl Suasua",
+   "nation": null,
+   "page": "2002 Women's Rugby World Cup squads",
+   "team": "NZL"
+  },
+  "2006": {
+   "key": "Jed Rowlands",
+   "name": "Jed Rowlands",
+   "nation": null,
+   "page": "2006 Women's Rugby World Cup squads",
+   "team": "NZL"
+  },
+  "2010": {
+   "from": "history",
+   "key": "Brian Evans (rugby union)",
+   "name": "Brian Evans",
+   "nation": null,
+   "page": "New Zealand women's national rugby union team",
+   "team": "NZL"
+  },
+  "2014": {
+   "key": "Gary Street",
+   "name": "Gary Street",
+   "nation": "ENG",
+   "page": "2014 Women's Rugby World Cup squads",
+   "team": "ENG"
+  },
+  "2017": {
+   "key": "Glenn Moore (rugby union)",
+   "name": "Glenn Moore",
+   "nation": "NZL",
+   "page": "2017 Women's Rugby World Cup squads",
+   "team": "NZL"
+  },
+  "2021": {
+   "key": "Wayne Smith (rugby union)",
+   "name": "Wayne Smith",
+   "nation": "NZL",
+   "page": "2021 Rugby World Cup squads",
+   "team": "NZL"
+  },
+  "2025": {
+   "key": "John Mitchell (rugby union)",
+   "name": "John Mitchell",
+   "nation": "NZL",
+   "page": "2025 Women's Rugby World Cup squads",
+   "team": "ENG"
+  }
+ },
+ "volleyball-olympics-men": {
+  "1964": {
+   "key": "Yuri Chesnokov (volleyball)",
+   "name": "Yuri Chesnokov",
+   "nation": null,
+   "page": "Volleyball at the 1964 Summer Olympics – Men's tournament",
+   "team": "URS"
+  },
+  "1968": {
+   "key": "Yuri Chesnokov (volleyball)",
+   "name": "Yuri Chesnokov",
+   "nation": null,
+   "page": "Volleyball at the 1968 Summer Olympics – Men's tournament",
+   "team": "URS"
+  },
+  "1972": {
+   "key": "Sasutaka Matsudaira",
+   "name": "Sasutaka Matsudaira",
+   "nation": null,
+   "page": "Volleyball at the 1972 Summer Olympics – Men's tournament",
+   "team": "JPN"
+  },
+  "1976": {
+   "key": "Hubert Wagner",
+   "name": "Hubert Wagner",
+   "nation": null,
+   "page": "Volleyball at the 1976 Summer Olympics – Men's tournament",
+   "team": "POL"
+  },
+  "1980": {
+   "key": "Viacheslav Platonov",
+   "name": "Viacheslav Platonov",
+   "nation": null,
+   "page": "Volleyball at the 1980 Summer Olympics – Men's tournament",
+   "team": "URS"
+  },
+  "1984": {
+   "key": "Doug Beal",
+   "name": "Doug Beal",
+   "nation": null,
+   "page": "Volleyball at the 1984 Summer Olympics – Men's tournament",
+   "team": "USA"
+  },
+  "1988": {
+   "key": "Marv Dunphy",
+   "name": "Marv Dunphy",
+   "nation": null,
+   "page": "Volleyball at the 1988 Summer Olympics – Men's tournament",
+   "team": "USA"
+  },
+  "1992": {
+   "key": "Zé Roberto (volleyball)",
+   "name": "Zé Roberto",
+   "nation": null,
+   "page": "Volleyball at the 1992 Summer Olympics – Men's tournament",
+   "team": "BRA"
+  },
+  "1996": {
+   "key": "Joop Alberda",
+   "name": "Joop Alberda",
+   "nation": null,
+   "page": "Volleyball at the 1996 Summer Olympics – Men's tournament",
+   "team": "NED"
+  },
+  "2000": {
+   "from": "history",
+   "key": "Zoran Gajić",
+   "name": "Zoran Gajić",
+   "nation": null,
+   "page": "FR Yugoslavia men's national volleyball team",
+   "team": "FRY"
+  },
+  "2004": {
+   "key": "Bernardo Rezende",
+   "name": "Bernardinho",
+   "nation": null,
+   "page": "Volleyball at the 2004 Summer Olympics – Men's tournament",
+   "team": "BRA"
+  },
+  "2008": {
+   "key": "Hugh McCutcheon",
+   "name": "Hugh McCutcheon",
+   "nation": "NZL",
+   "page": "Volleyball at the 2008 Summer Olympics – Men's team rosters",
+   "team": "USA"
+  },
+  "2012": {
+   "key": "Vladimir Alekno",
+   "name": "Vladimir Alekno",
+   "nation": null,
+   "page": "Volleyball at the 2012 Summer Olympics – Men's tournament",
+   "team": "RUS"
+  },
+  "2016": {
+   "key": "Bernardo Rezende",
+   "name": "Bernardo Rezende",
+   "nation": null,
+   "page": "Volleyball at the 2016 Summer Olympics – Men's team rosters",
+   "team": "BRA"
+  },
+  "2020": {
+   "key": "Laurent Tillie",
+   "name": "Laurent Tillie",
+   "nation": null,
+   "page": "Volleyball at the 2020 Summer Olympics – Men's team rosters",
+   "team": "FRA"
+  },
+  "2024": {
+   "key": "Andrea Giani",
+   "name": "Andrea Giani",
+   "nation": "ITA",
+   "page": "Volleyball at the 2024 Summer Olympics – Men's team rosters",
+   "team": "FRA"
+  }
+ },
+ "volleyball-olympics-women": {
+  "1964": {
+   "key": "Hirofumi Daimatsu",
+   "name": "Hirofumi Daimatsu",
+   "nation": null,
+   "page": "Volleyball at the 1964 Summer Olympics – Women's tournament",
+   "team": "JPN"
+  },
+  "1968": {
+   "key": "Givi Akhvlediani",
+   "name": "Givi Akhvlediani",
+   "nation": null,
+   "page": "Volleyball at the 1968 Summer Olympics – Women's tournament",
+   "team": "URS"
+  },
+  "1972": {
+   "key": "Givi Akhvlediani",
+   "name": "Givi Akhvlediani",
+   "nation": null,
+   "page": "Volleyball at the 1972 Summer Olympics – Women's tournament",
+   "team": "URS"
+  },
+  "1976": {
+   "key": "Shigeo Yamada",
+   "name": "Shigeo Yamada",
+   "nation": null,
+   "page": "Volleyball at the 1976 Summer Olympics – Women's tournament",
+   "team": "JPN"
+  },
+  "1980": {
+   "key": "Nikolay Karpol",
+   "name": "Nikolay Karpol",
+   "nation": null,
+   "page": "Volleyball at the 1980 Summer Olympics – Women's tournament",
+   "team": "URS"
+  },
+  "1984": {
+   "key": "Yuan Weimin",
+   "name": "Yuan Weimin",
+   "nation": null,
+   "page": "Volleyball at the 1984 Summer Olympics – Women's tournament",
+   "team": "CHN"
+  },
+  "1988": {
+   "key": "Nikolay Karpol",
+   "name": "Nikolay Karpol",
+   "nation": null,
+   "page": "Volleyball at the 1988 Summer Olympics – Women's tournament",
+   "team": "URS"
+  },
+  "1992": {
+   "key": "Eugenio George Lafita",
+   "name": "Eugenio George Lafita",
+   "nation": null,
+   "page": "Volleyball at the 1992 Summer Olympics – Women's team rosters",
+   "team": "CUB"
+  },
+  "1996": {
+   "key": "Eugenio George Lafita",
+   "name": "Eugenio George",
+   "nation": null,
+   "page": "Volleyball at the 1996 Summer Olympics – Women's tournament",
+   "team": "CUB"
+  },
+  "2000": {
+   "key": "Luis Calderon",
+   "name": "Luis Calderon",
+   "nation": null,
+   "page": "Volleyball at the 2000 Summer Olympics – Women's tournament",
+   "team": "CUB"
+  },
+  "2004": {
+   "key": "Chen Zhonghe",
+   "name": "Chen Zhonghe",
+   "nation": null,
+   "page": "Volleyball at the 2004 Summer Olympics – Women's tournament",
+   "team": "CHN"
+  },
+  "2008": {
+   "key": "José Roberto Guimarães",
+   "name": "Zé Roberto",
+   "nation": null,
+   "page": "Volleyball at the 2008 Summer Olympics – Women's tournament",
+   "team": "BRA"
+  },
+  "2012": {
+   "key": "José Roberto Guimarães",
+   "name": "Zé Roberto",
+   "nation": null,
+   "page": "Volleyball at the 2012 Summer Olympics – Women's tournament",
+   "team": "BRA"
+  },
+  "2016": {
+   "key": "Lang Ping",
+   "name": "Lang Ping",
+   "nation": null,
+   "page": "Volleyball at the 2016 Summer Olympics – Women's tournament",
+   "team": "CHN"
+  },
+  "2020": {
+   "key": "Karch Kiraly",
+   "name": "Karch Kiraly",
+   "nation": null,
+   "page": "Volleyball at the 2020 Summer Olympics – Women's team rosters",
+   "team": "USA"
+  },
+  "2024": {
+   "key": "Julio Velasco",
+   "name": "Julio Velasco",
+   "nation": "ARG",
+   "page": "Volleyball at the 2024 Summer Olympics – Women's team rosters",
+   "team": "ITA"
+  }
+ },
+ "volleyball-wc-men": {
+  "1949": null,
+  "1952": null,
+  "1956": null,
+  "1960": null,
+  "1962": null,
+  "1966": null,
+  "1970": null,
+  "1974": {
+   "from": "history",
+   "key": "Hubert Wagner",
+   "name": "Hubert Wagner",
+   "nation": null,
+   "page": "Poland men's national volleyball team",
+   "team": "POL"
+  },
+  "1978": null,
+  "1982": null,
+  "1986": {
+   "key": "Marv Dunphy",
+   "name": "Marv Dunphy",
+   "nation": null,
+   "page": "1986 FIVB Men's Volleyball World Championship squads",
+   "team": "USA"
+  },
+  "1990": {
+   "key": "Julio Velasco",
+   "name": "Julio Velasco",
+   "nation": null,
+   "page": "1990 FIVB Men's Volleyball World Championship squads",
+   "team": "ITA"
+  },
+  "1994": {
+   "from": "history",
+   "key": "Julio Velasco",
+   "name": "Julio Velasco",
+   "nation": null,
+   "page": "Italy men's national volleyball team",
+   "team": "ITA"
+  },
+  "1998": {
+   "key": "Bebeto de Freitas",
+   "name": "Bebeto de Freitas",
+   "nation": null,
+   "page": "1998 FIVB Men's Volleyball World Championship squads",
+   "team": "ITA"
+  },
+  "2002": {
+   "from": "history",
+   "key": "Bernardo Rezende",
+   "name": "Bernardo Rezende",
+   "nation": "BRA",
+   "page": "Brazil men's national volleyball team",
+   "team": "BRA"
+  },
+  "2006": {
+   "from": "history",
+   "key": "Bernardo Rezende",
+   "name": "Bernardo Rezende",
+   "nation": "BRA",
+   "page": "Brazil men's national volleyball team",
+   "team": "BRA"
+  },
+  "2010": {
+   "from": "history",
+   "key": "Bernardo Rezende",
+   "name": "Bernardo Rezende",
+   "nation": "BRA",
+   "page": "Brazil men's national volleyball team",
+   "team": "BRA"
+  },
+  "2014": {
+   "key": "Stéphane Antiga",
+   "name": "Stéphane Antiga",
+   "nation": "FRA",
+   "page": "2014 FIVB Men's Volleyball World Championship squads",
+   "team": "POL"
+  },
+  "2018": {
+   "key": "Vital Heynen",
+   "name": "Vital Heynen",
+   "nation": null,
+   "page": "2018 FIVB Men's Volleyball World Championship squads",
+   "team": "POL"
+  },
+  "2022": {
+   "key": "Ferdinando De Giorgi",
+   "name": "Ferdinando De Giorgi",
+   "nation": "ITA",
+   "page": "2022 FIVB Men's Volleyball World Championship squads",
+   "team": "ITA"
+  },
+  "2025": {
+   "key": "Ferdinando De Giorgi",
+   "name": "Ferdinando De Giorgi",
+   "nation": "ITA",
+   "page": "2025 FIVB Men's Volleyball World Championship squads",
+   "team": "ITA"
+  }
+ },
+ "volleyball-wc-women": {
+  "1952": {
+   "key": "Valentina Oskolkova",
+   "name": "Valentina Oskolkova",
+   "nation": null,
+   "page": "1952 FIVB Women's Volleyball World Championship squads",
+   "team": "URS"
+  },
+  "1956": null,
+  "1960": null,
+  "1962": null,
+  "1967": null,
+  "1970": null,
+  "1974": null,
+  "1978": null,
+  "1982": {
+   "from": "history",
+   "key": "Yuan Weimin",
+   "name": "Yuan Weimin",
+   "nation": "CHN",
+   "page": "China women's national volleyball team",
+   "team": "CHN"
+  },
+  "1986": {
+   "key": "Zhang Rongfang",
+   "name": "Zhang Rongfang",
+   "nation": null,
+   "page": "1986 FIVB Women's Volleyball World Championship squads",
+   "team": "CHN"
+  },
+  "1990": null,
+  "1994": {
+   "key": "Eugenio George",
+   "name": "Eugenio George",
+   "nation": null,
+   "page": "1994 FIVB Women's Volleyball World Championship squads",
+   "team": "CUB"
+  },
+  "1998": {
+   "key": "Antonio Perdomo",
+   "name": "Antonio Perdomo",
+   "nation": null,
+   "page": "1998 FIVB Women's World Championship squads",
+   "team": "CUB"
+  },
+  "2002": {
+   "from": "history",
+   "key": "Marco Bonitta",
+   "name": "Marco Bonitta",
+   "nation": null,
+   "page": "fr:Équipe d'Italie féminine de volley-ball",
+   "team": "ITA"
+  },
+  "2006": null,
+  "2010": null,
+  "2014": {
+   "key": "Karch Kiraly",
+   "name": "Karch Kiraly",
+   "nation": null,
+   "page": "2014 FIVB Women's Volleyball World Championship squads",
+   "team": "USA"
+  },
+  "2018": {
+   "key": "Zoran Terzić",
+   "name": "Zoran Terzić",
+   "nation": null,
+   "page": "2018 FIVB Women's Volleyball World Championship squads",
+   "team": "SRB"
+  },
+  "2022": {
+   "key": "Daniele Santarelli",
+   "name": "Daniele Santarelli",
+   "nation": "ITA",
+   "page": "2022 FIVB Women's Volleyball World Championship squads",
+   "team": "SRB"
+  },
+  "2025": {
+   "key": "Julio Velasco",
+   "name": "Julio Velasco",
+   "nation": "ARG",
+   "page": "2025 FIVB Women's Volleyball World Championship squads",
+   "team": "ITA"
+  }
+ }
+}

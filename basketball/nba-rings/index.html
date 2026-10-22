@@ -7,10 +7,11 @@
   <meta name="description" content="Every NBA championship since 1947: a franchise bar chart race, East vs West, every champion and the Finals MVP leaders.">
   <link rel="stylesheet" href="../../assets/theme.css">
   <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
   <link rel="stylesheet" href="style.css">
   <script src="../../assets/theme.js"></script>
 </head>
-<body>
+<body data-src="data/nba-rings.json">
   <header class="hero wrap">
     <p class="kicker"><a href="../../">Sports Stats</a> · Basketball</p>
     <h1>NBA Rings</h1>
@@ -128,6 +129,7 @@
         <div class="mvp-list" id="mvp-list"></div>
       </div>
     </section>
+    <section class="block" id="people"></section>
   </main>
 
   <footer class="site-footer wrap">
@@ -149,5 +151,7 @@
   <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
   <script src="../../assets/viz.js"></script>
   <script src="app.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="../../football/people.js"></script>
 </body>
 </html>
