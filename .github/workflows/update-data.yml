@@ -138,6 +138,12 @@ jobs:
         continue-on-error: true
         run: python3 scripts/build_chess.py --refresh
 
+      # After every team sport build: each coach's title is matched to their champions.
+      - name: Rebuild winning coaches of the team sports
+        id: teamcoaches
+        continue-on-error: true
+        run: python3 scripts/build_team_coaches.py
+
       # Flags are served from assets/flags/; fetch any that a new nation needs.
       - name: Fetch new flags
         continue-on-error: true
@@ -167,7 +173,7 @@ jobs:
         run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
 
       - name: Report failed builds
-        if: steps.tennis.outcome == 'failure' || steps.slams.outcome == 'failure' || steps.masters.outcome == 'failure' || steps.leagues.outcome == 'failure' || steps.nba.outcome == 'failure' || steps.football.outcome == 'failure' || steps.worldcup.outcome == 'failure' || steps.f1.outcome == 'failure' || steps.atp.outcome == 'failure' || steps.tournaments.outcome == 'failure' || steps.swimming.outcome == 'failure' || steps.olympics.outcome == 'failure' || steps.olysports.outcome == 'failure' || steps.chess.outcome == 'failure' || steps.ages.outcome == 'failure' || steps.numberone.outcome == 'failure' || steps.tourfinals.outcome == 'failure' || steps.people.outcome == 'failure'
+        if: steps.tennis.outcome == 'failure' || steps.slams.outcome == 'failure' || steps.masters.outcome == 'failure' || steps.leagues.outcome == 'failure' || steps.nba.outcome == 'failure' || steps.football.outcome == 'failure' || steps.worldcup.outcome == 'failure' || steps.f1.outcome == 'failure' || steps.atp.outcome == 'failure' || steps.tournaments.outcome == 'failure' || steps.swimming.outcome == 'failure' || steps.olympics.outcome == 'failure' || steps.olysports.outcome == 'failure' || steps.chess.outcome == 'failure' || steps.ages.outcome == 'failure' || steps.numberone.outcome == 'failure' || steps.tourfinals.outcome == 'failure' || steps.people.outcome == 'failure' || steps.teamcoaches.outcome == 'failure'
         run: |
-          echo "::error::A data build failed validation (big three: ${{ steps.tennis.outcome }}, grand slams: ${{ steps.slams.outcome }}, masters: ${{ steps.masters.outcome }}, leagues: ${{ steps.leagues.outcome }}, nba: ${{ steps.nba.outcome }}, football: ${{ steps.football.outcome }}, world cup: ${{ steps.worldcup.outcome }}, f1: ${{ steps.f1.outcome }}, atp: ${{ steps.atp.outcome }}, tournaments: ${{ steps.tournaments.outcome }}, swimming: ${{ steps.swimming.outcome }}, olympics: ${{ steps.olympics.outcome }}, olympic tennis and boxing: ${{ steps.olysports.outcome }}, chess: ${{ steps.chess.outcome }}, tennis ages: ${{ steps.ages.outcome }}, world No. 1: ${{ steps.numberone.outcome }}, tour finals: ${{ steps.tourfinals.outcome }}, football coaches and players: ${{ steps.people.outcome }}). The previous data was kept; check the step logs."
+          echo "::error::A data build failed validation (big three: ${{ steps.tennis.outcome }}, grand slams: ${{ steps.slams.outcome }}, masters: ${{ steps.masters.outcome }}, leagues: ${{ steps.leagues.outcome }}, nba: ${{ steps.nba.outcome }}, football: ${{ steps.football.outcome }}, world cup: ${{ steps.worldcup.outcome }}, f1: ${{ steps.f1.outcome }}, atp: ${{ steps.atp.outcome }}, tournaments: ${{ steps.tournaments.outcome }}, swimming: ${{ steps.swimming.outcome }}, olympics: ${{ steps.olympics.outcome }}, olympic tennis and boxing: ${{ steps.olysports.outcome }}, chess: ${{ steps.chess.outcome }}, tennis ages: ${{ steps.ages.outcome }}, world No. 1: ${{ steps.numberone.outcome }}, tour finals: ${{ steps.tourfinals.outcome }}, football coaches and players: ${{ steps.people.outcome }}, team sport coaches: ${{ steps.teamcoaches.outcome }}). The previous data was kept; check the step logs."
           exit 1
