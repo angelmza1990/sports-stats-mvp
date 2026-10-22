@@ -545,3 +545,90 @@ svg .badge-text {
   align-items: center;
   gap: 8px 12px;
 }
+
+/* Coaches and players (people.js). */
+.people-gap {
+  margin-top: 16px;
+}
+
+.people-note {
+  color: var(--ink-muted);
+  font-size: 13px;
+  margin: 10px 0 0;
+}
+
+.person-head,
+.person-row {
+  display: grid;
+  grid-template-columns: 26px minmax(0, 1fr) 3.4em 5.6em;
+  gap: 12px;
+  align-items: center;
+}
+
+.person-head {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  padding: 0 0 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.person-row {
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.person-name {
+  font-weight: 600;
+}
+
+.person-sub {
+  font-size: 12px;
+  color: var(--ink-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.person-bar {
+  height: 5px;
+  margin-top: 5px;
+  border-radius: 3px;
+  background: var(--wash);
+  overflow: hidden;
+}
+
+.person-bar span {
+  display: block;
+  height: 100%;
+  background: var(--sport);
+  border-radius: 3px;
+}
+
+.person-value {
+  font-family: var(--display);
+  font-size: 22px;
+  font-weight: 800;
+}
+
+.person-second {
+  font-size: 12px;
+  color: var(--ink-muted);
+}
+
+.person-list-short .person-head,
+.person-list-short .person-row {
+  grid-template-columns: 26px minmax(0, 1fr) 3.4em;
+}
+
+.person-list-short .person-second {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  .person-sub {
+    white-space: normal;
+  }
+}
