@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Stanley Cup · NHL</title>
+  <meta name="description" content="Every Stanley Cup Final since 1915: a franchise bar chart race, Canada vs the United States, every champion, the most repeated Finals, series lengths, Conn Smythe Trophy winners and the winning coaches.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/stanley-cup.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Ice hockey</p>
+    <h1>Stanley Cup</h1>
+    <p class="lede">
+      Every Stanley Cup Final since 1915, when the champions of the eastern and western leagues first met for the Cup, and every NHL Final since 1927: who won, how the Cups piled up, and how they split between Canada and the United States.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most Cups</h2>
+        <p>Stanley Cups won by each franchise, year by year. Bars are colored by the franchise's current conference.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="legend" id="race-legend"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Year">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="race-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="countries">
+      <div class="block-head">
+        <h2>Canada vs the United States</h2>
+        <p>Where each champion was based when it won the Cup. The Seattle Metropolitans were the first American champions, in 1917; no Canadian team has won the Cup since the Montreal Canadiens in 1993.</p>
+      </div>
+      <div class="card">
+        <div class="versus" id="versus"></div>
+        <h3 class="sub">Cups by decade</h3>
+        <div class="legend" id="decade-legend"></div>
+        <div id="decade-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="decade-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="wall">
+      <div class="block-head">
+        <h2>Every champion</h2>
+        <p>All Stanley Cup winners, one tile per Final. The color strip marks the champion's country. Hover or tap a tile for the series result and the Conn Smythe winner.</p>
+      </div>
+      <div class="wall" id="wall-grid" role="list"></div>
+    </section>
+
+    <section class="block" id="franchises">
+      <div class="block-head">
+        <h2>Cups by franchise</h2>
+        <p>All 32 current teams, grouped by today's conference. Cups won under earlier names and cities count for the current franchise (the Toronto Arenas and St. Patricks for the Maple Leafs, the Quebec Nordiques' history for the Avalanche).</p>
+      </div>
+      <div class="conf-columns" id="franchise-columns"></div>
+      <p class="footnote" id="defunct-note"></p>
+    </section>
+
+    <section class="block" id="rivalries">
+      <div class="block-head">
+        <h2>The most repeated Finals</h2>
+        <p>Matchups that met more than once with the Cup on the line, counted by franchise.</p>
+      </div>
+      <div class="card">
+        <div class="pair-list" id="pairs-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="runners-up">
+      <div class="block-head">
+        <h2>So close: most Finals lost</h2>
+        <p>Runner-up finishes by franchise, with every Final that ended in defeat.</p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="runners-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="series">
+      <div class="block-head">
+        <h2>How the Final was won</h2>
+        <p>Length of every best-of-seven Final since 1939, from sweeps to Game 7s, split by the champion's country. Earlier Finals were best-of-three or best-of-five series.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="series-legend"></div>
+        <div id="series-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="series-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="mvp">
+      <div class="block-head">
+        <h2>Conn Smythe Trophy leaders</h2>
+        <p>The most valuable player of the playoffs, awarded since 1965. Every logo is one trophy, shown with the team it was won for.</p>
+      </div>
+      <div class="card">
+        <div class="mvp-list" id="mvp-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="people"></section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> Wikipedia (CC BY-SA 4.0): <span id="sources"></span>.
+      Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> covers the Stanley Cup Final era, since 1915; the challenge cups of 1893–1914 aren't included. Until 1926 the Final was played between the NHA (then NHL) champion and the champion of the Pacific Coast and western Canada leagues.
+      No Cup was awarded in 1919 (the Final was cancelled during the flu pandemic) or in 2005 (lockout). Cups are credited to the current franchise; the original Ottawa Senators (1917–1934) are a different club from today's Senators. Logos show each franchise's current identity.
+    </p>
+    <p>
+      Team names and logos are trademarks of their respective teams and the NHL, shown here for identification only.
+      This project is not affiliated with or endorsed by the NHL.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="app.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="../../football/people.js"></script>
+</body>
+</html>

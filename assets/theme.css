@@ -44,6 +44,7 @@
   --hockey: #1d8c84;
   --motorsport: #d42020;
   --american-football: #5f7a1c;
+  --ice-hockey: #2f5f8f;
   --boxing: #b91c1c;
   --chess: #8a5a2b;
 
@@ -83,6 +84,7 @@
     --hockey: #34b3a9;
     --motorsport: #f05252;
   --american-football: #9ec24a;
+  --ice-hockey: #7fb0e0;
     --boxing: #ef4444;
     --chess: #d29a5c;
     --gold: #d6a730;
@@ -120,6 +122,7 @@
   --hockey: #34b3a9;
   --motorsport: #f05252;
   --american-football: #9ec24a;
+  --ice-hockey: #7fb0e0;
   --boxing: #ef4444;
   --chess: #d29a5c;
   --gold: #d6a730;
@@ -140,6 +143,7 @@
 [data-sport="boxing"] { --sport: var(--boxing); }
 [data-sport="chess"] { --sport: var(--chess); }
 [data-sport="american-football"] { --sport: var(--american-football); }
+[data-sport="ice-hockey"] { --sport: var(--ice-hockey); }
 
 *,
 *::before,
