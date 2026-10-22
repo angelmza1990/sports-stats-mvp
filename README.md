@@ -87,6 +87,7 @@ Two pages with the same structure, one per competition:
 - **All-time club records:** most wins, goals and participations
 - **All-time points table**
 - **Player records:** all-time top scorers and most appearances
+- **Coaches and players:** the coaches with the most titles and finals, both coaches of every final, and the players with the most titles
 
 ### 🏆 [FIFA World Cup](https://angelmza1990.github.io/sports-stats-mvp/football/world-cup/)
 
@@ -176,6 +177,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_nba_rings.py        # NBA data pipeline
 │   ├── build_football.py         # Football club competitions pipeline
 │   ├── build_leagues.py          # Italy, Spain, England, France, Germany and Brazil leagues
+│   ├── build_football_people.py  # Coaches and players with the most titles (cups and leagues)
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
 │   ├── build_f1.py               # Formula 1 pipeline
 │   ├── build_atp_records.py      # ATP and WTA career records pipeline
@@ -220,6 +222,7 @@ python3 scripts/build_masters.py --refresh    # tennis: ATP Masters 1000 and WTA
 python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia table
 python3 scripts/build_football.py --refresh   # football: club competitions and Argentine league
 python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, England, Ligue 1, Germany, Brasileirão
+python3 scripts/build_football_people.py --refresh  # football: coaches and players (after the two above)
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
@@ -257,6 +260,8 @@ Rules applied:
 **NBA.** The script reads Wikipedia's [List of NBA champions](https://en.wikipedia.org/wiki/List_of_NBA_champions) table, maps every historical team name to its current franchise (the Minneapolis Lakers count for the Lakers, the Seattle SuperSonics for the Thunder) and checks that every season is present and that all titles through 2026 match the known totals. A new team name makes the build fail until it is added to [`data/nba/franchises.json`](data/nba/franchises.json).
 
 **Football.** For the Libertadores and Champions League, the script reads each competition's list of finals, all-time club table, all-time top scorers and most-appearance table from Wikipedia, and maps clubs to crests through [`data/football/clubs.json`](data/football/clubs.json) (a club missing from that file still appears, with a lettered badge). It checks that there is one final per season and that every club's title count matches the known history. The world champions page combines the three competitions from Wikipedia's list of world champion clubs (checked against known title counts and the number of finals per competition). The Argentine national cups come from Spanish Wikipedia's list of national cups, checked club by club against its amateur and overall totals tables; their descriptions are kept in [`data/football/argentine_cups.json`](data/football/argentine_cups.json). The Argentine page reads the list of Primera División champions and must match, club by club, the title totals on the same page; amateur and professional titles and the rival associations come from the season labels (FAF, AAmF, LAF). Its all-time tables come from Spanish Wikipedia (based on RSSSF) and are shown as published.
+
+**Coaches and players.** The Champions League, Copa Libertadores, Argentina, England, Italy, Spain, France and Brazil pages show the coaches with the most titles (and, for the two cups, the most finals) and every champion's coach, plus the players with the most titles where Wikipedia keeps a list (not for Spain or France; England's covers the Premier League era, Italy's the single-group Serie A and Argentina's the professional era). Coaches come from the lists of winning managers, the Libertadores finals table on Spanish Wikipedia (both coaches of every final) and, for the Champions League runners-up, each final's line-ups (saved in `data/raw/football/final_managers.json`). Every coach's title is matched to the champion of that season on the page's own dataset by year and club, so the counts line up with the page; the build fails if fewer than 95% of the titles get a coach, and checks known records (Ancelotti's 5 Champions League titles in 6 finals, Bianchi's 4 Libertadores, Ferguson's 13 English titles, Giggs's 13 Premier League medals, Buffon's 10 scudetti, Pelé's 6 Brazilian titles and others).
 
 **National leagues.** One config per league (in `build_leagues.py`) names the Wikipedia list of champions, the top scorer pages and, where one exists, the all-time table (from Italian, Spanish or English Wikipedia). Every club's title count must match the totals table on the same page; the only documented exception is Rouen's 1944–45 wartime title, which the French totals table counts and the season list doesn't. Renamed clubs keep their titles through the aliases in `clubs.json` (Ambrosiana-Inter for Inter, Atlético Aviación for Atlético Madrid, SpVgg Fürth for Greuther Fürth), and a club's label only matches a club of the same country, so Chile's Everton or Arsenal de Sarandí never borrow an English crest.
 
