@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sports Stats</title>
-  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, football, the Olympic Games, swimming, basketball, American football, handball, rugby, volleyball, field hockey, chess and Formula 1.">
+  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, football, the Olympic Games, swimming, basketball, American football, ice hockey, handball, rugby, volleyball, field hockey, chess and Formula 1.">
   <link rel="stylesheet" href="assets/theme.css">
   <script src="assets/theme.js"></script>
   <style>
@@ -66,8 +66,8 @@
     <h1>Sports<br>Stats</h1>
     <p class="lede">Interactive infographics on the numbers behind sport's great champions and rivalries, built with D3 and open data and updated twice a year.</p>
     <dl class="home-figures">
-      <div><dt>Infographics</dt><dd>36</dd></div>
-      <div><dt>Sports</dt><dd>13</dd></div>
+      <div><dt>Infographics</dt><dd>37</dd></div>
+      <div><dt>Sports</dt><dd>14</dd></div>
       <div><dt>Seasons covered</dt><dd>1877–2026</dd></div>
     </dl>
     <nav class="jump" aria-label="Sports">
@@ -76,6 +76,7 @@
       <a href="#olympics" data-sport="olympics">Olympics</a>
       <a href="#basketball" data-sport="basketball">Basketball</a>
       <a href="#nfl" data-sport="american-football">NFL</a>
+      <a href="#nhl" data-sport="ice-hockey">NHL</a>
       <a href="#team" data-sport="handball">Team sports</a>
       <a href="#chess" data-sport="chess">Chess</a>
       <a href="#motorsport" data-sport="motorsport">Motorsport</a>
@@ -572,6 +573,34 @@
       </div>
     </section>
 
+    <section class="sport" data-sport="ice-hockey" id="nhl">
+      <div class="sport-head">
+        <h2>Ice hockey</h2>
+        <p>Every Stanley Cup Final since 1915.</p>
+        <span class="count">1 page</span>
+      </div>
+      <div class="gallery">
+        <a class="tile" href="ice-hockey/stanley-cup/">
+          <div class="art" style="--tint: linear-gradient(135deg, #0b2545, #5d8bbf)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <path d="M44 22h32l-4 22H48Z" fill="#e8edf2"/>
+              <ellipse cx="60" cy="22" rx="18" ry="5" fill="#cfd8e2"/>
+              <path d="M50 44h20v10H50Z" fill="#cfd8e2"/>
+              <path d="M44 54h32l4 14H40Z" fill="#e8edf2"/>
+              <path d="M38 68h44l4 16H34Z" fill="#cfd8e2"/>
+              <path d="M32 84h56l4 18H28Z" fill="#e8edf2"/>
+              <path d="M18 108c10 0 16-4 22-10M102 108c-10 0-16-4-22-10" stroke="#0b0b0b" stroke-width="5" stroke-linecap="round" fill="none"/>
+            </svg>
+            <div class="stat" data-stat="stanleyCup"><strong>24</strong><span>Canadiens Cups</span></div>
+          </div>
+          <div class="body">
+            <h3>Stanley Cup</h3>
+            <p>Every Final since 1915: the franchise race, Canada vs the United States, every champion, repeated Finals, series lengths, Conn Smythe winners and the winning coaches.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
     <section class="sport" data-sport="handball" id="team">
       <div class="sport-head">
         <h2>Team sports</h2>
@@ -707,6 +736,10 @@
           return [d.players.map((p) => n(p.id)).join(" · "), "Grand Slams"];
         }],
         slams: ["tennis/grand-slams/data/grand-slams.json", (d) => [String(d.editions.length), "majors since 1968"]],
+        stanleyCup: ["ice-hockey/stanley-cup/data/stanley-cup.json", (d) => {
+          const [id, n] = most(d.seasons, (s) => s.champion);
+          return [String(n), `${d.franchises.find((f) => f.id === id).short} Cups`];
+        }],
         superBowl: ["american-football/super-bowl/data/super-bowl.json", (d) => {
           const counts = new Map();
           d.games.forEach((g) => counts.set(g.champion, (counts.get(g.champion) || 0) + 1));

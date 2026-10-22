@@ -80,6 +80,10 @@ Every NBA championship since 1947:
 ### 🏈 [Super Bowl](https://angelmza1990.github.io/sports-stats-mvp/american-football/super-bowl/)
 
 Every Super Bowl since 1967 and every NFL championship since 1920, in the style of NBA Rings: a franchise bar chart race (Super Bowls or all NFL titles), AFC vs NFC by decade, every champion, titles by franchise for all 32 teams, the most repeated Super Bowls, the most Super Bowls lost, margins of victory with the biggest and closest games, the Super Bowl MVP leaders, host cities and stadiums, and the winning coaches (most titles and most Super Bowls).
+
+### 🏒 [Stanley Cup](https://angelmza1990.github.io/sports-stats-mvp/ice-hockey/stanley-cup/)
+
+Every Stanley Cup Final since 1915, in the style of NBA Rings: a franchise bar chart race, Canada vs the United States by decade, every champion, Cups by franchise for all 32 teams, the most repeated Finals, the most Finals lost, series lengths since the best-of-seven format (1939), the Conn Smythe Trophy leaders and the winning coaches (most Cups and most Finals).
 ### ⚽ [Copa Libertadores](https://angelmza1990.github.io/sports-stats-mvp/football/copa-libertadores/) and [Champions League](https://angelmza1990.github.io/sports-stats-mvp/football/champions-league/)
 
 Two pages with the same structure, one per competition:
@@ -166,6 +170,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 ├── basketball/nba-rings/         # NBA Rings infographic
 ├── football/                     # Football pages (shared common.js, league.js for national leagues) + one folder per page
 ├── american-football/super-bowl/  # Super Bowl and NFL championships
+├── ice-hockey/stanley-cup/       # Stanley Cup Finals
 ├── chess/                        # Chess page
 ├── motorsport/formula-1/         # Formula 1 page
 ├── international/tournament.js   # Shared page for team tournaments
@@ -181,6 +186,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_masters.py          # ATP Masters 1000 and WTA 1000 pipeline
 │   ├── build_nba_rings.py        # NBA data pipeline
 │   ├── build_super_bowl.py       # Super Bowls, NFL titles, MVPs and coaches
+│   ├── build_stanley_cup.py      # Stanley Cup Finals, Conn Smythe winners and coaches
 │   ├── build_football.py         # Football club competitions pipeline
 │   ├── build_leagues.py          # Italy, Spain, England, France, Germany and Brazil leagues
 │   ├── build_football_people.py  # Coaches and players with the most titles (cups and leagues)
@@ -228,6 +234,7 @@ python3 scripts/build_grand_slams.py --refresh # tennis: Open Era Grand Slams, m
 python3 scripts/build_masters.py --refresh    # tennis: ATP Masters 1000 and WTA 1000
 python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia table
 python3 scripts/build_super_bowl.py --refresh # NFL: Super Bowls, NFL champions since 1920, MVPs and coaches
+python3 scripts/build_stanley_cup.py --refresh  # NHL: Stanley Cup Finals since 1915, Conn Smythe and coaches
 python3 scripts/build_football.py --refresh   # football: club competitions and Argentine league
 python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, England, Ligue 1, Germany, Brasileirão
 python3 scripts/build_football_people.py --refresh  # football: coaches and players (after the two above)
@@ -273,6 +280,8 @@ Rules applied:
 **Coaches and players.** The Champions League, Copa Libertadores, Argentina, England, Italy, Spain, France and Brazil pages show the coaches with the most titles (and, for the two cups, the most finals) and every champion's coach, plus the players with the most titles where Wikipedia keeps a list (not for Spain or France; England's covers the Premier League era, Italy's the single-group Serie A and Argentina's the professional era). Coaches come from the lists of winning managers, the Libertadores finals table on Spanish Wikipedia (both coaches of every final) and, for the Champions League runners-up, each final's line-ups (saved in `data/raw/football/final_managers.json`). Every coach's title is matched to the champion of that season on the page's own dataset by year and club, so the counts line up with the page; the build fails if fewer than 95% of the titles get a coach, and checks known records (Ancelotti's 5 Champions League titles in 6 finals, Bianchi's 4 Libertadores, Ferguson's 13 English titles, Giggs's 13 Premier League medals, Buffon's 10 scudetti, Pelé's 6 Brazilian titles and others).
 
 **Super Bowl.** Every Super Bowl comes from Wikipedia's list of Super Bowl champions (the winner's conference from the table's AFC/NFC shading), the NFL titles of 1920–1969 from the list of NFL champions, the MVPs from the Super Bowl MVP list and both head coaches of every game from the list of Super Bowl head coaches. Every historical team name maps to today's franchise through `data/nfl/franchises.json`. League titles follow the NFL's count: the NFL championship through the 1969 season, then the Super Bowl (AFL titles aren't included). The build checks every franchise's Super Bowl wins through Super Bowl LX, one league champion per season since 1920, the Packers' 13, Bears' 9 and Giants' 8 titles, Tom Brady's 5 MVPs and Bill Belichick's 6 wins in 9 Super Bowls.
+
+**Stanley Cup.** Every Final since 1915 comes from Wikipedia's list of Stanley Cup champions (both coaches of every Final are in the same tables) and the Conn Smythe winners from the trophy's page; team names map to today's franchise through `data/nhl/franchises.json`, with the original Ottawa Senators (to 1934) kept apart from today's club. The champion's country is where it was based that year. The build checks every franchise's Cups against the same page's appearances tables, the Canadiens' 24, that only 1919 and 2005 have no champion, Patrick Roy's 3 Conn Smythes and Scotty Bowman's 9 Cups as coach.
 
 **Winning coaches (team sports).** The World Cup, World Club Champions, NBA and every international team tournament page (rugby, basketball, volleyball, field hockey, handball, Olympic football) list the coaches with the most titles and every champion's coach. Lists of winning coaches are used where Wikipedia keeps one (World Cup, Intercontinental Cup, Club World Cup, FIBA World Cup, Rugby World Cup, NBA). Otherwise each edition is followed from the competition's editions table to its squads or rosters page, where the champion's section names its head coach (FIBA roster footers, coach tables, transcluded roster templates and team articles are read too); when no such page exists, the coach in office that year comes from the champion's national team article (or its German, French, Spanish or Italian version, with names mapped back to English Wikipedia). A year with a change of coach is left blank rather than guessed, and the page says how many titles have a known coach. Found coaches are saved in `data/raw/football/team_coaches.json`, so later runs only look up the editions still missing. Checks: Pozzo's 2 World Cups, Bianchi's 3 world club titles, Phil Jackson's 11 NBA titles, Krzyzewski's 2 World Cups and 3 Olympic golds, Jacobsen's 4 handball world titles, Bernardinho's 2 Olympic golds and others; a dataset with a coach for fewer than 40% of its titles isn't written.
 
