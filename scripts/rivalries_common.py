@@ -98,7 +98,7 @@ def bold(text: str) -> bool:
 
 def score_of(text: str) -> tuple[int, int] | None:
     t = W.plain(re.sub(r"<small>.*?</small>", "", html.unescape(text), flags=re.S))
-    m = re.search(r"(\d+)\s*(?:[–\-−:]|\bx\b|×)\s*(\d+)", t)
+    m = re.search(r"(\d+)\s*(?:[–\-−:]|\b[xX]\b|×)\s*(\d+)", t)
     return (int(m.group(1)), int(m.group(2))) if m else None
 
 
@@ -327,3 +327,26 @@ def summary(data: dict) -> None:
     print(f"{data['name']}: {r['n']} official ({a} {r['a']}, draws {r['d']}, {b} {r['b']}; goals {r['ga']}-{r['gb']}), "
           f"{len(data['friendlies'])} friendlies, {len(data['ties'])} ties, through {data.get('dataThrough')}", file=sys.stderr)
     print("  " + ", ".join(f"{k} {v}" for k, v in by.most_common()), file=sys.stderr)
+
+
+def box_goals(text: str) -> str:
+    """Scorers from a football box: "[[Georges Bereta|Bereta]] {{goal|54}}<br>[[François M'Pelé|M'Pelé]] {{goal|60|pen.|70}}"
+    -> "Bereta (54), M'Pelé (60 pen, 70)"."""
+    out = []
+    for part in re.split(r"<br\s*/?>|\n|\*", text or ""):
+        mins = []
+        for tpl in re.findall(r"\{\{\s*(?:goal|gol|og|o\.g\.|own goal|pen\.?)\s*\|([^}]*)\}\}", part, re.I):
+            for arg in tpl.split("|"):
+                arg = arg.strip()
+                if re.fullmatch(r"\d+(?:\+\d+)?'?", arg):
+                    mins.append(arg.rstrip("'"))
+                elif mins and re.match(r"pen|p\b", arg, re.I):
+                    mins[-1] += " pen"
+                elif mins and re.match(r"o\.?g|og", arg, re.I):
+                    mins[-1] += " o.g."
+        if re.search(r"\{\{\s*(?:og|o\.g\.|own goal)\b", part, re.I) and mins and "o.g." not in mins[-1]:
+            mins = [m + " o.g." for m in mins]
+        name = W.plain(re.sub(r"\{\{.*?\}\}", "", part)).strip(" ,;")
+        if name:
+            out.append(f"{name} ({', '.join(mins)})" if mins else name)
+    return ", ".join(out)

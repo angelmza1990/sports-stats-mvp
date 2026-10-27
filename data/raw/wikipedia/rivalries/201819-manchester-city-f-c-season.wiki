@@ -1,0 +1,1996 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=March 2019}}
+{{Use British English|date=March 2019}}
+{{Infobox football club season
+| club               = [[Manchester City F.C.|Manchester City]]
+| season             = [[2018–19 in English football|2018–19]]
+| owner              = {{nowrap|[[City Football Group]]}}
+| manager            = {{nowrap|[[Pep Guardiola]]}}
+| chairman           = {{nowrap|[[Khaldoon Al Mubarak]]}}
+| stadium            = [[City of Manchester Stadium|Etihad Stadium]]
+| league             = [[Premier League]]
+| league result      = '''[[2018–19 Premier League|1st]]'''
+| cup1               = [[FA Cup]]
+| cup1 result        = '''[[2018–19 FA Cup|Winners]]'''
+| cup2               = [[EFL Cup]]
+| cup2 result        = '''[[2018–19 EFL Cup|Winners]]'''
+| cup3               = [[FA Community Shield]]
+| cup3 result        = '''[[2018 FA Community Shield|Winners]]'''
+| cup4               = {{nowrap|[[UEFA Champions League]]}}
+| cup4 result        = [[2018–19 UEFA Champions League|Quarter-finals]]
+| league topscorer   = <br>[[Sergio Agüero]] (21)
+| season topscorer   = <br>Sergio Agüero (32)
+| highest attendance = 54,511 v [[Liverpool F.C.|Liverpool]] (3 January 2019, Premier League)
+| lowest attendance  = 32,089 v [[Burton Albion F.C.|Burton Albion]] (9 January 2019, EFL Cup)
+| average attendance = 54,108
+| largest win        = 9–0 v Burton Albion (9 January 2019, EFL Cup)
+| largest loss       = 0–2 v [[Chelsea F.C.|Chelsea]] (8 December 2018, Premier League)
+| pattern_la1        = _mcity1819h
+| pattern_b1         = _mcity1819h
+| pattern_ra1        = _mcity1819h
+| pattern_sh1        = _usa18h
+| pattern_so1        = _mcfc1819h
+| leftarm1           = FFFFFF
+| body1              = FFFFFF
+| rightarm1          = FFFFFF
+| shorts1            = FFFFFF
+| socks1             = 1c204e
+| pattern_la2        = _mancity1819a
+| pattern_b2         = _mcfc1819a
+| pattern_ra2        = _mancity1819a
+| pattern_sh2        = _mancity1819a
+| pattern_so2        = _mcfc1819a
+| leftarm2           = 030025
+| body2              = 030025
+| rightarm2          = 030025
+| shorts2            = 030025
+| socks2             = CEFF01
+| pattern_la3        = _mancity1819t
+| pattern_b3         = _mancity1819t
+| pattern_ra3        = _mancity1819t
+| pattern_sh3        = _mancity1819t
+| pattern_so3        = _mancity1819t
+| leftarm3           = 582355
+| body3              = 582355
+| rightarm3          = 582355
+| shorts3            = 582355
+| socks3             = ff7f27
+| prevseason         = [[2017–18 Manchester City F.C. season|2017–18]]
+| nextseason         = [[2019–20 Manchester City F.C. season|2019–20]]
+}}
+The '''2018–19 season''' was [[Manchester City F.C.|Manchester City]]'s [[List of Manchester City F.C. seasons|117th season]] of competitive [[Association football|football]], 90th season in the [[English football league system|top flight]] of [[Football in England|English football]] and 22nd season in the [[Premier League]].<ref>{{cite news |title=History |url=http://www.statto.com/football/teams/manchester-city/history |publisher=Statto}}</ref> In addition to the [[2018–19 Premier League|league]], the club competed in the [[2018–19 UEFA Champions League|UEFA Champions League]], [[2018–19 FA Cup|FA Cup]], [[2018–19 EFL Cup|EFL Cup]], and [[2018 FA Community Shield|FA Community Shield]]; for the Champions League, it was their eighth consecutive season competing in the tournament. The season covered the period from 1 July 2018 to 30 June 2019.
+
+During this season, City completed a [[Treble (association football)#Domestic trebles|domestic treble]]. Apart from winning all three of the major English football tournaments, they also won the Community Shield, the first time any team has ever held all four of England's primary football trophies at the same time.<ref>{{Cite web|url=https://onefootball.com/en/news/man-city-201819-season-review-good-things-come-in-threes-25703375|title = Man City 2018/19 season review: Good things come in threes| date=14 May 2019 }}</ref> The season was the first since [[2009–10 Manchester City F.C. season|2009–10]] without [[Yaya Touré]], who departed to [[Olympiacos F.C.|Olympiacos]], and the first since [[2005–06 Manchester City F.C. season|2005–06]] without [[Joe Hart]], who joined [[Burnley F.C.|Burnley]] after two seasons of loans.
+
+==Kits==
+'''Supplier:''' [[Nike, Inc.|Nike]] / '''Sponsor:''' [[Etihad Airways]] (Front) / [[Nexen Tire]] (Sleeves)
+
+{|  border="0" style="margin-left: auto; margin-right: auto"
+|{{Football kit
+| pattern_la        = _mcity1819h
+| pattern_b         = _mcity1819h
+| pattern_ra        = _mcity1819h
+| pattern_sh        = _usa18h
+| pattern_so        = _mcfc1819h
+| leftarm           = FFFFFF
+| body              = FFFFFF
+| rightarm          = FFFFFF
+| shorts            = FFFFFF
+| socks             = 1c204e
+| title             = Home
+}}
+|{{Football kit
+| pattern_la        = _mcity1819h
+| pattern_b         = _mcity1819h
+| pattern_ra        = _mcity1819h
+| pattern_sh        = _usa18h
+| pattern_so        = _mcfc1819h2
+| leftarm           = FFFFFF
+| body              = FFFFFF
+| rightarm          = FFFFFF
+| shorts            = FFFFFF
+| socks             = FFFFFF
+| title             = Home alt.
+}}
+|{{Football kit
+| pattern_la        = _mancity1819a
+| pattern_b         = _mcfc1819a
+| pattern_ra        = _mancity1819a
+| pattern_sh        = _mancity1819a
+| pattern_so        = _mcfc1819a
+| leftarm           = 030025
+| body              = 030025
+| rightarm          = 030025
+| shorts            = 030025
+| socks             = CEFF01
+| title             = Away
+}}
+|{{Football kit
+| pattern_la        = _mancity1819a
+| pattern_b         = _mcfc1819a
+| pattern_ra        = _mancity1819a
+| pattern_sh        = _mancity1819a
+| pattern_so        = _mcfc1819h
+| leftarm           = 030025
+| body              = 030025
+| rightarm          = 030025
+| shorts            = 030025
+| socks             = 1c204e
+| title             = Away alt.
+}}
+|{{Football kit
+| pattern_la        = _mancity1819t
+| pattern_b         = _mancity1819t
+| pattern_ra        = _mancity1819t
+| pattern_sh        = _mancity1819t
+| pattern_so        = _mancity1819t
+| leftarm           = 582355
+| body              = 582355
+| rightarm          = 582355
+| shorts            = 582355
+| socks             = ff7f27
+| title             = Third
+}}
+|{{Football kit
+| pattern_la        = _mancity1819t
+| pattern_b         = _mancity1819t
+| pattern_ra        = _mancity1819t
+| pattern_sh        = 
+| pattern_so        = _mancity1819t
+| leftarm           = 182434
+| body              = 00C090
+| rightarm          = 182434
+| shorts            = ff7f27
+| socks             = ff7f27
+| title             = Third alt.
+}}
+|}
+
+==Season summary==
+In the 2018–19 season, Manchester City maintained their free scoring form under manager [[Pep Guardiola]] and became the first club in Europe's top leagues to pass 100 goals scored on 20 January 2019 when [[Danilo (footballer, born July 1991)|Danilo]] scored the first goal in City's 3–0 victory at [[Huddersfield Town F.C.|Huddersfield Town]].<ref>{{cite news |last=Davis |first=Matt |date=20 January 2019 |title=Huddersfield Town 0–3 Manchester City |url=https://www.bbc.co.uk/sport/football/46853937 |publisher=BBC Sport |archive-url=https://web.archive.org/web/20190223151314/https://www.bbc.co.uk/sport/football/46853937 |archive-date=23 February 2019 |access-date=5 March 2019}}</ref>
+
+City went on to break their own record for a top flight English club for goals scored in all competitions in a season. [[Leroy Sané]]'s goal in City's 2–0 win at [[Old Trafford]] against [[Manchester United F.C.|Manchester United]] on 24 April 2019 overtook the previous record tally of 156, which was established by [[Manuel Pellegrini]]'s City side back in their title-winning [[2013–14 Manchester City F.C. season|2013–14 season]].<ref>{{cite web |title=Super City Set New Goals Record |url=https://www.mancity.com/news/first-team/first-team-news/2019/april/united-v-city-new-goals-record |website=mancity.com |access-date=25 April 2019}}</ref> By the end of the 2018–19 season, the team reached 169 goals scored.
+
+[[File:Chelsea vs Man City 2019-02-24.svg|thumb|200px|Line-ups for the [[2019 EFL Cup final]] between Chelsea and Manchester City]]
+On 24 February, City won their sixth [[2018–19 EFL Cup|League Cup]] title when they defeated [[Chelsea F.C|Chelsea]] 4–3 on penalties after a goalless draw over 120 minutes at [[Wembley Stadium]].<ref>{{cite news |last=McNulty |first=Phil |date=24 February 2019 |title=Carabao Cup final: Chelsea 0–0 Manchester City (Man City win 4–3 on pens) |url=https://www.bbc.com/sport/football/47268861 |publisher=BBC Sport |archive-url=https://web.archive.org/web/20190228113630/https://www.bbc.com/sport/football/47268861 |archive-date=28 February 2019 |access-date=5 March 2019}}</ref>
+
+Expectations were high for City's [[2018–19 UEFA Champions League|UEFA Champions League]] campaign. The team again won their group without breaking a sweat, then routed [[FC Schalke 04|Schalke 04]] in the round of 16, winning their home match 7–0. Similar to the previous season, City were drawn against an English club in the quarter-finals, this time [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. ''The Blues'' dropped their away match 0–1, with [[Sergio Agüero]] missing a penalty. The home match was all-or-nothing for City and it proved to be one of the best matches of that season. [[Raheem Sterling]] scored in the beginning, but City quickly conceded two goals and now needed to score three to advance. The squad did exactly that, leading 4–2 with 20 minutes to play. However, [[Fernando Llorente]]'s contentious goal for Spurs meant City again needed a goal.<ref>{{Cite web|url=https://talksport.com/football/529579/manchester-city-tottenham-llorente-handball-var-mark-halsey/|title = Spurs' winner against Man City 'was handball and should have been disallowed'|date = 18 April 2019}}</ref> In added time, Sterling converted a pass from Agüero and the entire stadium started celebrating what seemed to be a certain victory. However, the goal was disallowed after a VAR review and ''the Blues'' were eliminated in a heartbreaking fashion.<ref>{{Cite web|url=https://www.scmp.com/sport/football/article/3006690/var-chaos-and-controversy-champions-league-tie-between-manchester|title=Too VAR, too soon – technology will be proved right but not yet|date=18 April 2019}}</ref>
+
+The [[2018–19 Premier League]] title race was one of the closest contests of the Premier League era. City and [[Liverpool F.C.|Liverpool]] exchanged their leads 32 times over the season, in part due to fixture rearrangements for [[2018–19 EFL Cup|EFL]] and [[2018–19 FA Cup|FA Cup]] matches and television demands. The two title contenders jointly amassed a combined total of 195 points, which at the time was the highest combined total in English top flight history.<ref>{{cite news |last1=Begley |first1=Emlyn |title=Premier League: The numbers behind remarkable title battle |work=BBC Sport |date=12 May 2019 |url=https://www.bbc.co.uk/sport/football/48136480 |access-date=12 May 2019}}</ref>
+
+On 12 May, City won their final league match of the league season 4–1 away at [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] to retain the Premier League title. In doing so, they matched their own record for 32 wins over a single season. They had to win their final 14 consecutive league matches to hold off the challenge of Liverpool, who themselves ended their season with nine-straight wins.<ref>{{cite news |last1=McNulty |first1=Phil |title=Match Report: Brighton 1-4 City |work=BBC Sport |date=10 May 2019 |url=https://www.bbc.co.uk/sport/football/48165997 |access-date=12 May 2019}}</ref>
+
+One week later, on 18 May, City defeated [[Watford F.C.|Watford]] 6–0 at Wembley [[2019 FA Cup Final|to win the FA Cup]] and complete an unprecedented English men's [[Treble (association football)#Domestic trebles|domestic treble]] and clean sweep of the major honors in English football. It was also City's first ever league and FA Cup [[Double (association football)|double]] and their sixth overall FA Cup title. The 6–0 scoreline was also the joint largest winning margin in the history of the FA Cup Final and the largest for any final in the competition since [[1903 FA Cup Final|1903]].<ref>{{cite news |last1=McNulty |first1=Phil |title=Man City 6-0 Watford: City clinch historic domestic treble |work=BBC Sport |date=17 May 2019 |url=https://www.bbc.co.uk/sport/football/48236232 |access-date=18 May 2019}}</ref> This final win of the season was Manchester City's 50th in all competitions.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/48321358|title=How big a feat is Man City's treble?|work=BBC Sport |date=18 May 2019 }}</ref>
+
+As of 9 April 2019, Manchester City had won the Carabao Cup, progressed to the final of the FA Cup, were in second place with one game in hand in the Premier League and scheduled to play Tottenham in the Champions League quarter-finals, thus making it possible to achieve the [[List of association football teams to have won four or more trophies in one season|quadruple]], a unique sweep of four major tournaments in a single season, something that had not been done by any English men's side. A win in each of City’s last twelve games of the season (potential UCL semi-finals and [[2019 UEFA Champions League Final|final]] included) would have guaranteed the quadruple for the club. However, a dramatic loss to Tottenham on away goals on 17 April ended City's quadruple hopes. Still, the Blues managed to achieve an unprecedented domestic treble.
+
+==Pre-season and friendlies==
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+
+Manchester City began their 2018–19 campaign with a tour of the United States in the [[2018 International Champions Cup]]. City played against [[Borussia Dortmund]] at [[Soldier Field]] in [[Chicago]], [[Liverpool F.C.|Liverpool]] at [[MetLife Stadium]] in [[East Rutherford, New Jersey]], and [[FC Bayern Munich|Bayern Munich]] at [[Hard Rock Stadium]] in [[Miami Gardens, Florida]].
+
+===International Champions Cup===
+{{main|2018 International Champions Cup}}
+
+{{football box collapsible
+|round = [[2018 International Champions Cup#Manchester City v Borussia Dortmund|2018 ICC]]
+|date = {{Start date|2018|7|20|df=y}}
+|time = 20:00 [[Central Daylight Time|CDT]]
+|team1 = Manchester City
+|score = 0–1
+|report = https://www.mancity.com/news/first-team/match-report/2018/july/man-city-v-borussia-dortmund-international-champions-cup-match-report-21-july
+|team2 = [[Borussia Dortmund]]
+|goals1 =
+|goals2 = [[Mario Götze|Götze]] {{goal|28|pen.}}<br>[[Dženis Burnić|Burnić]] {{yel|31}}<br>[[Mahmoud Dahoud|Dahoud]] {{yel|52}}
+|stadium = [[Soldier Field]]
+|location = [[Chicago]], United States
+|attendance = 34,629
+|referee = Armando Villarreal ([[United States Soccer Federation|United States]])
+|result = L
+}}
+{{football box collapsible
+|round = [[2018 International Champions Cup#Manchester City v Liverpool|2018 ICC]]
+|date = {{Start date|2018|7|25|df=y}}
+|time = 20:00 [[Eastern Daylight Time|EDT]]
+|team1 = Manchester City
+|score = 1–2
+|report = https://www.mancity.com/news/first-team/match-report/2018/july/man-city-v-liverpool-international-champions-cup-match-report-26-july
+|team2 = [[Liverpool F.C.|Liverpool]]
+|goals1 = [[Leroy Sané|Sané]] {{goal|57}}<br>[[Claudio Gomes|Gomes]] {{yel|85}}
+|goals2 = [[Virgil van Dijk|Van Dijk]] {{yel|30}}<br>[[Mohamed Salah|Salah]] {{goal|63}}<br>[[Sadio Mané|Mané]] {{goal|90+4|pen.}}
+|stadium = [[MetLife Stadium]]
+|location = [[East Rutherford, New Jersey|East Rutherford]], United States
+|attendance = 52,635
+|referee = [[Sorin Stoica]] (United States)
+|result = L
+}}
+{{football box collapsible
+|round = [[2018 International Champions Cup#Bayern Munich v Manchester City|2018 ICC]]
+|date = {{Start date|2018|7|28|df=y}}
+|time = 19:00 [[Eastern Daylight Time|EDT]]
+|team1 = [[FC Bayern Munich|Bayern Munich]]
+|score= 2–3
+|report = https://www.mancity.com/news/first-team/match-report/2018/july/bayern-munich-v-man-city-international-champions-cup-29-july
+|team2 = Manchester City
+|goals1 = [[Meritan Shabani|Shabani]] {{goal|15}}<br>[[Arjen Robben|Robben]] {{goal|24}}
+|goals2 = [[Bernardo Silva|B. Silva]] {{yel|40}}, {{goal|45+1||70}}<br>[[Lukas Nmecha|Nmecha]] {{goal|51}}
+|stadium = [[Hard Rock Stadium]]
+|location = [[Miami Gardens, Florida|Miami Gardens]], United States
+|attendance = 29,195
+|referee = Ted Unkel (United States)
+|result = W
+}}
+
+==Competitions==
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+
+===Overview===
+<!--Please don't remove this section because it is full overview of club season.-->
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan=2|Competition
+!colspan=8|Record
+|-
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+!{{Tooltip|Win %|Winning percentage}}
+|-
+| [[2018–19 Premier League|Premier League]]
+{{WDL|38|32|2|4|for=95|against=23|diff=yes}}
+|-
+| [[2018–19 FA Cup|FA Cup]]
+{{WDL|6|6|0|0|for=26|against=3|diff=yes}}
+|-
+| [[2018–19 EFL Cup|EFL Cup]]
+{{WDL|6|4|2|0|for=16|against=1|diff=yes}}
+|-
+| [[2018 FA Community Shield|FA Community Shield]]
+{{WDL|1|1|0|0|for=2|against=0|diff=yes}}
+|-
+| [[2018–19 UEFA Champions League|UEFA Champions League]]
+{{WDL|10|7|1|2|for=30|against=12|diff=yes}}
+|-
+! Total
+{{WDLtot|61|50|5|6|for=169|against=39|diff=yes}}
+{{fb overall competition footer}}
+
+===FA Community Shield===
+{{main|2018 FA Community Shield}}
+As champions of the [[2017–18 Premier League]], Manchester City took on the [[2017–18 FA Cup]] winners, [[Chelsea F.C.|Chelsea]], for the season-opening [[FA Community Shield]].
+
+{{football box collapsible
+|date = {{Start date|2018|8|5|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = [[2018 FA Community Shield#Match|Final]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 0–2
+|report = https://www.bbc.co.uk/sport/football/44995783
+|team2 = Manchester City
+|goals1 =
+|goals2 = [[Sergio Agüero|Agüero]] {{goal|13||58}}
+|stadium = [[Wembley Stadium]]
+|location = London
+|attendance = 72,724
+|referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+|result = W
+}}
+
+===Premier League===
+{{main|2018–19 Premier League}}
+Manchester City entered the competition as the [[2017–18 Premier League|defending champions]].
+
+====League table====
+{{:2018–19 Premier League|showteam=MCI}}
+
+====Results summary====
+{{Fb_rs|hw=18 |hd=0 |hl=1 |hgf=57 |hga=12 |aw=14 |ad=2 |al=3 |agf=38 |aga=11 }}
+{{Fb rs footer |s=[http://www.premierleague.com/en-gb/matchday/league-table.html Premier League] |date=May 2018}}
+
+====Results by matchday====
+{{#invoke:sports rbr table|table|legendpos=b|header=Matchday
+
+|label1= Ground
+|res1=[[Emirates Stadium|A]]/[[City of Manchester Stadium|H]]/[[Molineux Stadium|A]]/H/H/[[Cardiff City Stadium|A]]/H/[[Anfield|A]]/H/[[Tottenham Hotspur Stadium|A]]/H/H/[[London Stadium|A]]/H/[[Vicarage Road|A]]/[[Stamford Bridge (stadium)|A]]/H/H/[[King Power Stadium|A]]/[[St. Mary's Stadium|A]]/H/H/[[John Smith's Stadium|A]]/[[St James' Park|A]]/H/[[Goodison Park|A]]/H/H/[[Vitality Stadium|A]]/H/[[Craven Cottage|A]]/H/[[Selhurst Park|A]]/H/[[Old Trafford|A]]/[[Turf Moor|A]]/H/[[Falmer Stadium|A]]
+|label2= Result
+|res2=W/W/D/W/W/W/W/D/W/W/W/W/W/W/W/L/W/L/L/W/W/W/W/L/W/W/W/W/W/W/W/W/W/W/W/W/W/W
+|label3= Position
+|res3=5/1/5/4/3/2/1/1/1/1/1/1/1/1/1/2/2/2/3/2/2/2/2/2/2/2/2/2/1/1/1/1/1/1/1/1/1/1
+|label4= Points
+|res4=3p/6/7/10/13/16/19/20/23/26/29/32/35/38/41/41/44/44/44/47/50/53/56/56/59/62/65/68/71/74/77/80/83/86/89/92/95/98
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_98=gold
+
+|source=[https://www.premierleague.com/fixtures Premier League]
+|date=June 2018
+}}
+
+====Fixtures====
+The Premier League fixtures for the 2018–19 season were announced on 14 June 2018.<ref>{{cite news |title=Man City visit Arsenal on first weekend |url=https://www.bbc.co.uk/sport/football/44479264 |access-date=14 June 2018 |publisher=BBC Sport |date=14 June 2018}}</ref><ref>{{cite news |title=Manchester City Scores & Fixtures |url=https://www.bbc.co.uk/sport/football/teams/manchester-city/scores-fixtures |access-date=14 June 2018 |publisher=BBC Sport}}</ref>
+
+{{football box collapsible
+|date = {{start date|df=yes|2018|8|12}}
+|time = 16:00 [[British Summer Time|BST]]
+|round = [[Arsenal F.C.–Manchester City F.C. rivalry|1]]
+|score = 0–2
+|report = https://www.premierleague.com/match/38308
+|team1 = [[Arsenal F.C.|Arsenal]]
+|goals1 = [[Sokratis Papastathopoulos|Papastathopoulos]] {{yel|27}}<br>[[Granit Xhaka|Xhaka]] {{yel|52}}
+|team2 = Manchester City
+|goals2 = [[Raheem Sterling|Sterling]] {{yel|4}}, {{goal|14}}<br>[[Bernardo Silva|B. Silva]] {{goal|64}}<br>[[Kevin De Bruyne|De Bruyne]] {{yel|73}}
+|stadium = [[Emirates Stadium]]
+|location = [[Holloway, London|Holloway]]
+|attendance = 59,934 (2,917 away)
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2018|8|19|df=y}}
+|time = 13:30 [[British Summer Time|BST]]
+|round = 2
+|score = 6–1
+|report = https://www.premierleague.com/match/38325
+|team1 = Manchester City
+|goals1 = [[Sergio Agüero|Agüero]] {{goal|25||35||75}}<br>[[Gabriel Jesus]] {{goal|31}}<br>[[David Silva|D. Silva]] {{goal|48}}<br> [[Terence Kongolo|Kongolo]] {{goal|84|o.g.}}
+|team2 = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+|goals2 = [[Jon Gorenc Stanković|Stanković]] {{goal|43}}<br>[[Philip Billing|Billing]] {{yel|51}}<br>[[Christopher Schindler|Schindler]] {{yel|69}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|attendance = 54,021 (2,735 away)
+|referee = [[Andre Marriner]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2018|8|25|df=y}}
+|time = 12:30 [[British Summer Time|BST]]
+|round = 3
+|score = 1–1
+|report = https://www.premierleague.com/match/38337
+|team1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|goals1 = [[Conor Coady|Coady]] {{yel|41}}<br>[[Willy Boly|Boly]] {{goal|57}}
+|team2 = Manchester City
+|goals2 = [[Vincent Kompany|Kompany]] {{yel|12}}<br>[[David Silva|D. Silva]] {{yel|60}}<br>[[Aymeric Laporte|Laporte]] {{goal|69}}
+|stadium = [[Molineux Stadium]]
+|location = [[Wolverhampton]]
+|attendance = 31,322 (2,970 away)
+|referee = [[Martin Atkinson]]
+|result = D
+}}
+{{football box collapsible
+|date = {{Start date|2018|09|1|df=y}}
+|time = 17:30 [[British Summer Time|BST]]
+|round = 4
+|score = 2–1
+|report = https://www.premierleague.com/match/38345
+|team1 = Manchester City
+|goals1 = [[Raheem Sterling|Sterling]] {{goal|8}}<br>[[Kyle Walker|Walker]] {{yel|24}}, {{goal|52}}
+|team2 = [[Newcastle United F.C.|Newcastle United]]
+|goals2 = [[Jamal Lascelles|Lascelles]]{{yel|20}}<br>[[DeAndre Yedlin|Yedlin]] {{goal|30}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 53,946 (2,646 away)
+|referee = [[Kevin Friend]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2018|09|15|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 5
+|score = 3–0
+|report = https://www.premierleague.com/match/38352
+|team1 = Manchester City
+|goals1 = [[Leroy Sané|Sané]] {{goal|2}}<br>[[David Silva|D. Silva]] {{goal|21}}<br>[[Raheem Sterling|Sterling]] {{goal|47}}
+|team2 = [[Fulham F.C.|Fulham]]
+|goals2 = 
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 53,307 (2,215 away)
+|referee = [[Stuart Attwell]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2018|09|22|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 6
+|score = 0–5
+|report = https://www.premierleague.com/match/38361
+|team1 = [[Cardiff City F.C.|Cardiff City]]
+|goals1 = [[Joe Ralls|Ralls]] {{yel|45+1}}
+|team2 = Manchester City
+|goals2 = [[Sergio Agüero|Agüero]] {{goal|32}}<br>[[Bernardo Silva|B. Silva]] {{goal|35}}<br>[[İlkay Gündoğan|Gündoğan]] {{goal|44}}<br>[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|60}}<br>[[Riyad Mahrez|Mahrez]] {{goal|67||89}}
+|stadium = [[Cardiff City Stadium]]
+|location = [[Cardiff]]
+|attendance = 32,321 (2,908 away)
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = W
+}}
+{{football box collapsible
+|round = 7
+|date = {{Start date|2018|09|29|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|team1 = Manchester City
+|score = 2–0
+|report = https://www.premierleague.com/match/38374
+|team2 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|goals1 = [[Raheem Sterling|Sterling]] {{goal|29}}<br>[[Sergio Agüero|Agüero]] {{goal|65}}
+|goals2 = [[Anthony Knockaert|Knockaert]] {{yel|9}}<br>[[Shane Duffy|Duffy]] {{yel|42}}<br>[[Martín Montoya|Montoya]] {{yel|87}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,152 (2,809 away)
+|referee = [[Lee Mason]]
+|result = W
+}}
+{{football box collapsible
+|round = [[Liverpool F.C.–Manchester City F.C. rivalry|8]]
+|date = {{Start date|2018|10|07|df=y}}
+|time = 16:30 [[British Summer Time|BST]]
+|team1 = [[Liverpool F.C.|Liverpool]]
+|score = 0–0
+|report = https://www.premierleague.com/match/38383
+|team2 = Manchester City
+|goals1 = [[Georginio Wijnaldum|Wijnaldum]] {{yel|90}}
+|goals2 = [[Bernardo Silva|B. Silva]] {{yel|21}}<br>[[Sergio Agüero|Agüero]] {{yel|56}}<br>[[Benjamin Mendy|Mendy]] {{yel|64}}<br>[[Riyad Mahrez|Mahrez]] {{penmiss}} <small>86'</small>
+|stadium = [[Anfield Stadium|Anfield]]
+|location = [[Liverpool]]
+|attendance = 52,117 (2,876 away)
+|referee = [[Martin Atkinson]]
+|result = D
+}}
+{{football box collapsible
+|round = 9
+|date = {{Start date|2018|10|20|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|team1 = Manchester City
+|score = 5–0
+|report = https://www.premierleague.com/match/38394
+|team2 = [[Burnley F.C|Burnley]]
+|goals1 = [[Vincent Kompany|Kompany]] {{yel|1}}<br>[[Sergio Agüero|Agüero]] {{goal|17}}<br>[[Bernardo Silva|B. Silva]] {{goal|54}}<br>[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{goal|56}}<br>[[Leroy Sané|Sané]] {{yel|81}}, {{goal|90}}<br>[[Riyad Mahrez|Mahrez]] {{goal|83}}
+|goals2 = [[Jack Cork|Cork]] {{yel|11}}<br>[[Jeff Hendrick|Hendrick]] {{yel|32}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,094 (2,717 away)
+|referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+|result = W
+}}
+{{football box collapsible
+|round = 10
+|date = {{Start date|2018|10|29|df=y}}
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|score = 0–1
+|report = https://www.premierleague.com/match/38406
+|team2 = Manchester City
+|goals1 = [[Lucas Moura|Lucas]] {{yel|45}}<br>[[Ben Davies (footballer, born 1993)|Davies]] {{yel|90+4}}
+|goals2 = [[Riyad Mahrez|Mahrez]] {{goal|6}}<br>[[Aymeric Laporte|Laporte]] {{yel|53}}<br>[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|61}}
+|stadium = [[Wembley Stadium]]
+|location = [[Wembley]]
+|attendance = 56,854 (3,055 away)
+|referee = [[Kevin Friend]]
+|result = W
+}}
+{{football box collapsible
+|round = 11
+|date = 4 November 2018
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City
+|score = 6–1
+|report = https://www.premierleague.com/match/38414
+|team2 = [[Southampton F.C.|Southampton]]
+|goals1 = [[Wesley Hoedt|Hoedt]] {{goal|6|o.g.}}<br>[[Sergio Agüero|Agüero]] {{goal|12}}, {{yel|38}}<br>[[David Silva|D. Silva]] {{goal|18}}<br>[[Raheem Sterling|Sterling]] {{goal|45+2||67}}<br>[[Leroy Sané|Sané]] {{goal|90+1}}
+|goals2 = [[James Ward-Prowse|Ward-Prowse]] {{yel|10}}<br>[[Danny Ings|Ings]] {{goal|30|pen.}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 53,916 (995 away)
+|referee = [[Lee Mason]]
+|result = W
+}}
+{{football box collapsible
+|round = [[Manchester derby|12]]
+|date = 11 November 2018
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City
+|score = 3–1
+|report = https://www.premierleague.com/match/38425
+|team2 = [[Manchester United F.C.|Manchester United]]
+|goals1 = [[David Silva|D. Silva]] {{goal|12}}<br>[[Bernardo Silva|B. Silva]] {{yel|33}}<br>[[Sergio Agüero|Agüero]] {{goal|48}}<br>[[İlkay Gündoğan|Gündoğan]] {{goal|86}}
+|goals2 = [[Luke Shaw|Shaw]] {{yel|42}}<br>[[Anthony Martial|Martial]] {{goal|58|pen.}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,316 (2,862 away)
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = W
+}}
+{{football box collapsible
+|round = 13
+|date = 24 November 2018
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[West Ham United F.C.|West Ham United]]
+|score = 0–4
+|report = https://www.premierleague.com/match/38436
+|team2 = Manchester City
+|goals1 = 
+|goals2 = [[David Silva|D. Silva]] {{goal|11}}<br>[[Raheem Sterling|Sterling]] {{goal|19}}<br>[[Leroy Sané|Sané]] {{goal|34||90+3}}
+|stadium = [[London Stadium]]
+|location = [[Stratford, London|Stratford]]
+|attendance = 56,886 (2,919 away)
+|referee = [[Andre Marriner]]
+|result = W
+}}
+{{football box collapsible
+|round = 14
+|date = 1 December 2018
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City
+|score = 3–1
+|report = https://www.premierleague.com/match/38445
+|team2 = [[AFC Bournemouth|Bournemouth]]
+|goals1 = [[Bernardo Silva|B. Silva]] {{goal|16}}<br>[[Raheem Sterling|Sterling]] {{goal|57}}<br>[[İlkay Gündoğan|Gündoğan]] {{goal|79}}
+|goals2 = [[Callum Wilson (footballer, born 1992)|Wilson]] {{goal|44}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,409 (917 away)
+|referee = [[Stuart Attwell]]
+|result = W
+}}
+{{football box collapsible
+|round = 15
+|date = 4 December 2018
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Watford F.C.|Watford]]
+|score = 1–2
+|report = https://www.premierleague.com/match/38453
+|team2 = Manchester City
+|goals1 = [[Abdoulaye Doucouré|Doucouré]] {{goal|85}}
+|goals2 = [[Leroy Sané|Sané]] {{goal|40}}<br>[[Riyad Mahrez|Mahrez]] {{goal|51}}<br>[[Ederson (footballer, born 1993)|Ederson]] {{yel|90}}
+|stadium = [[Vicarage Road]]
+|location = [[Watford]]
+|attendance = 20,389 (2,024 away)
+|referee = [[Paul Tierney (referee)|Paul Tierney]]
+|result = W
+}}
+{{football box collapsible
+|round = 16
+|date = 8 December 2018
+|time = 17:30 [[Greenwich Mean Time|GMT]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 2–0
+|report = https://www.premierleague.com/match/38462
+|team2 = Manchester City
+|goals1 = [[N'Golo Kanté|Kanté]] {{goal|45}}<br>[[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|63}}<br>[[David Luiz]] {{goal|78}}<br>[[Pedro (footballer, born 1987)|Pedro]] {{yel|80}}
+|goals2 = 
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[Fulham]]
+|attendance = 40,571 (2,880 away)
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = L
+}}
+{{football box collapsible
+|round = 17
+|date = 15 December 2018
+|time = 12:30 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City
+|score = 3–1
+|report = https://www.premierleague.com/match/38473
+|team2 = [[Everton F.C.|Everton]]
+|goals1 = [[Gabriel Jesus]] {{goal|22||50}}<br>[[Raheem Sterling|Sterling]] {{goal|69}} <br>[[Fabian Delph|Delph]] {{yel|76}}
+|goals2 = [[Lucas Digne|Digne]] {{yel|19}}<br>[[Dominic Calvert-Lewin|Calvert-Lewin]] {{goal|65}}, {{yel|76}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,173 (2,982 away)
+|referee = [[Craig Pawson]]
+|result = W
+}}
+{{football box collapsible
+|round = 18
+|date = 22 December 2018
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City
+|score = 2–3
+|report = https://www.premierleague.com/match/38484
+|team2 = [[Crystal Palace F.C.|Crystal Palace]]
+|goals1 = [[İlkay Gündoğan|Gündoğan]] {{goal|27}}<br>[[Kevin De Bruyne|De Bruyne]] {{goal|85}}
+|goals2 = [[Jeffrey Schlupp|Schlupp]] {{goal|33}}<br>[[Andros Townsend|Townsend]] {{goal|35}}<br>[[Wilfried Zaha|Zaha]] {{yel|45}}<br>[[Luka Milivojević|Milivojević]] {{goal|52|pen.}}<br>[[Patrick van Aanholt|Van Aanholt]] {{yel|75}}<br>[[James McArthur|McArthur]] {{yel|80}}<br>[[Vicente Guaita|Guaita]] {{yel|90+3}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,340 (879 away)
+|referee = [[Andre Marriner]]
+|result = L
+}}
+{{football box collapsible
+|round = 19
+|date = 26 December 2018
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Leicester City F.C.|Leicester City]]
+|score = 2–1
+|report = https://www.premierleague.com/match/38492
+|team2 = Manchester City
+|goals1 = [[Marc Albrighton|Albrighton]] {{goal|19}}<br>[[Harry Maguire|Maguire]] {{yel|58}}<br>[[Ricardo Pereira (footballer, born 1993)|Pereira]] {{goal|81}}<br>[[Jamie Vardy|Vardy]] {{yel|87}}
+|goals2 = [[Bernardo Silva|B. Silva]] {{goal|14}}<br>[[John Stones|Stones]] {{yel|77}}<br>[[Fabian Delph|Delph]] {{sentoff|0|89}}<br>[[Sergio Agüero|Agüero]] {{yel|90}}
+|stadium = [[King Power Stadium]]
+|location = [[Leicester]]
+|attendance = 32,090 (3,299 away)
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = L
+}}
+{{football box collapsible
+| round      = 20
+| date       = 30 December 2018
+| time       = 14:15 [[Greenwich Mean Time|GMT]]
+| team1      = [[Southampton F.C.|Southampton]]
+| score      = 1–3
+| team2      = Manchester City
+| report     = https://www.premierleague.com/match/38505
+| goals1     = [[Pierre-Emile Højbjerg|Højbjerg]] {{goal|37}}, {{sent off|0|85}}<br>[[Charlie Austin|Austin]] {{yel|58}}<br>[[Jan Bednarek (footballer)|Bednarek]] {{yel|73}}
+| goals2     = [[David Silva|D. Silva]] {{goal|10}}<br>[[Sergio Agüero|Agüero]] {{yel|32}}, {{goal|45+3}}<br>[[James Ward-Prowse|Ward-Prowse]] {{goal|45|o.g.}}<br>[[Vincent Kompany|Kompany]] {{yel|72}}<br>[[Danilo (footballer, born July 1991)|Danilo]] {{yel|78}}
+| stadium    = [[St Mary's Stadium]]
+| location   = [[Southampton]]
+| attendance = 31,381 (3,198 away)
+| referee    = [[Paul Tierney (referee)|Paul Tierney]]
+| result     = W
+}}
+{{football box collapsible
+|round = [[Liverpool F.C.–Manchester City F.C. rivalry|21]]
+|date = 3 January 2019
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City
+|score = 2–1
+|report = https://www.premierleague.com/match/38514
+|team2 = [[Liverpool F.C.|Liverpool]]
+|goals1 = [[Vincent Kompany|Kompany]] {{yel|31}}<br>[[Sergio Agüero|Agüero]] {{goal|40}}<br>[[Aymeric Laporte|Laporte]] {{yel|45+2}}<br>[[Leroy Sané|Sané]] {{goal|72}}<br>[[Bernardo Silva|B. Silva]] {{yel|89}}<br>[[Ederson (footballer, born 1993)|Ederson]] {{yel|90+5}}
+|goals2 = [[Dejan Lovren|Lovren]] {{yel|20}}<br>[[Georginio Wijnaldum|Wijnaldum]] {{yel|38}}<br>[[Roberto Firmino|Firmino]] {{goal|64}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,511 (3,018 away)
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = W
+}}
+{{football box collapsible
+|date = 14 January 2019
+|round = 22
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City
+|score = 3–0
+|team2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|report = https://www.premierleague.com/match/38525
+|goals1 = [[Gabriel Jesus]] {{goal|10||39|pen.}}<br>[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|14}}<br>[[Conor Coady|Coady]] {{goal|78|o.g.}}
+|goals2 = [[Willy Boly|Boly]] {{sentoff|0|19}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,171 (3,000 away)
+|referee = [[Craig Pawson]]
+|result = W
+}}
+{{football box collapsible
+|round = 23
+|date = 20 January 2019
+|time = 13:30 [[Greenwich Mean Time|GMT]]
+|team1 = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+|score = 0–3
+|team2 = Manchester City
+|report = https://www.premierleague.com/match/38531
+|goals1 = [[Juninho Bacuna|Bacuna]] {{yel|30}}<br>[[Jonathan Hogg|Hogg]] {{yel|43}}
+|goals2 = [[Danilo (footballer, born July 1991)|Danilo]] {{goal|18}}<br>[[Kyle Walker|Walker]] {{yel|27}}<br>[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|50}}<br>[[Raheem Sterling|Sterling]] {{goal|54}}<br>[[Leroy Sané|Sané]] {{goal|56}}
+|stadium = [[John Smiths Stadium]]
+|location = [[Huddersfield]]
+|attendance = 24,190 (2,343 away)
+|referee = [[Andre Marriner]]
+|result = W
+}}
+{{football box collapsible
+|round = 24
+|date = 29 January 2019
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Newcastle United F.C.|Newcastle United]]
+|score = 2–1
+|report = https://www.premierleague.com/match/38545
+|team2   =Manchester City
+|goals1 = [[Ayoze Pérez|Pérez]] {{yel|54}}<br>[[Salomón Rondón|Rondón]] {{goal|66}}<br>[[Fabian Schär|Schär]] {{yel|72}}<br>[[Matt Ritchie|Ritchie]] {{goal|80|pen.}}
+|goals2 = [[Sergio Agüero|Agüero]] {{goal|1}}<br>[[Kevin De Bruyne|De Bruyne]] {{yel|17}}<br>[[Raheem Sterling|Sterling]] {{yel|34}}<br>[[Aymeric Laporte|Laporte]] {{yel|90+1}}
+|stadium = [[St James' Park]]
+|location = [[Newcastle upon Tyne|Newcastle]]
+|attendance = 50,861 (2,646 away)
+|referee = [[Paul Tierney (referee)|Paul Tierney]]
+|result = L
+}}
+{{football box collapsible
+|round = [[Arsenal F.C.–Manchester City F.C. rivalry|25]]
+|date = 3 February 2019
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|id = "Manchester City v Arsenal"
+|team1 = Manchester City
+|score = 3–1
+|report = https://www.premierleague.com/match/38555
+|team2 = [[Arsenal F.C.|Arsenal]]
+|goals1 = [[Sergio Agüero|Agüero]] {{goal|1||44||61}}<br>[[İlkay Gündoğan|Gündoğan]] {{yel|65}}
+|goals2 = [[Laurent Koscielny|Koscielny]] {{goal|11}}<br>[[Lucas Torreira|Torreira]] {{yel|40}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,483 (3,000 away)
+|referee = [[Martin Atkinson]]
+|result = W
+}}
+{{football box collapsible
+|round = 26
+|date = 6 February 2019
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|team1 = [[Everton F.C.|Everton]]
+|score = 0–2
+|report = https://www.premierleague.com/match/38573
+|team2 = Manchester City
+|goals1 = [[Kurt Zouma|Zouma]] {{yel|82}}
+|goals2 = [[Aymeric Laporte|Laporte]] {{goal|45+2}}<br>[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|73}}<br>[[Gabriel Jesus]] {{goal|90+7}}
+|stadium = [[Goodison Park]]
+|location = [[Liverpool]]
+|attendance = 39,322 (2,972 away)
+|referee = [[Craig Pawson]]
+|result = W
+}}
+{{football box collapsible
+|round = 27
+|date = 10 February 2019
+|time = 16:00 [[Greenwich Mean Time|GMT]]
+|id = "Manchester City v Chelsea"
+|team1 = Manchester City
+|score = 6–0
+|report = https://www.premierleague.com/match/38563
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Raheem Sterling|Sterling]] {{goal|4||80}}<br>[[Sergio Agüero|Agüero]] {{goal|13||19||56|pen.}}<br>[[İlkay Gündoğan|Gündoğan]] {{goal|25}}, {{yel|77}}
+|goals2 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|60}}<br>[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|69}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,452 (3,010 away)
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = W
+}}
+{{football box collapsible
+|round = 28
+|date = 27 February 2019
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|id = "Manchester City v West Ham"
+|team1 = Manchester City
+|score = 1–0
+|report = https://www.premierleague.com/match/38585
+|team2 = [[West Ham United]]
+|goals1 = [[Sergio Agüero|Agüero]] {{goal|59|pen.}}
+|goals2   =[[Ryan Fredericks|Fredericks]] {{yel|41}}<br>[[Michail Antonio|Antonio]] {{yel|87}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 53,528 (2,391 away)
+|referee = [[Stuart Attwell]]
+|result = W
+}}
+{{football box collapsible
+|round = 29
+|date = 2 March 2019
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|id = "Manchester City v Bournemouth"
+|team1 = [[AFC Bournemouth|Bournemouth]]
+|score = 0–1
+|report = https://www.premierleague.com/match/38588
+|team2 = Manchester City
+|goals1 = [[Joshua King (footballer, born 1992)|King]] {{yel|84}}
+|goals2 = [[Riyad Mahrez|Mahrez]] {{goal|55}}<br>[[Nicolás Otamendi|Otamendi]] {{yel|65}}<br>[[Kyle Walker|Walker]] {{yel|84}}
+|stadium = [[Dean Court|Vitality Stadium]]
+|location = [[Bournemouth]]
+|attendance = 10,699 (1,265 away)
+|referee = [[Kevin Friend]]
+|result = W
+}}
+{{football box collapsible
+|round = 30
+|date = 9 March 2019
+|time = 17:30 [[Greenwich Mean Time|GMT]]
+|id = "Manchester City v Watford"
+|team1 = Manchester City
+|score = 3–1
+|report = https://www.premierleague.com/match/38605
+|team2 = [[Watford F.C.|Watford]]
+|goals1 = [[Kyle Walker|Walker]] {{yel|6}}<br>[[Raheem Sterling|Sterling]] {{goal|46||50||59}}
+|goals2 = [[Tom Cleverley|Cleverley]] {{yel|18}}<br>[[Gerard Deulofeu|Deulofeu]] {{goal|66}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,104 (1,157 away)
+|referee = [[Paul Tierney (referee)|Paul Tierney]]
+|result = W
+}}
+{{football box collapsible
+|round = 31
+|date = 30 March 2019
+|time = 12:30 [[Greenwich Mean Time|GMT]]
+|id = "Manchester City v Fulham"
+|team1 = [[Fulham F.C.|Fulham]]
+|score = 0–2
+|report = https://www.premierleague.com/match/38623
+|team2 = Manchester City
+|goals1 = [[Cyrus Christie|Christie]] {{yel|67}}<br>[[Maxime Le Marchand|Le Marchand]] {{yel|80}}
+|goals2 = [[Bernardo Silva|B. Silva]] {{goal|5}}<br>[[Sergio Agüero|Agüero]] {{goal|27}}
+|stadium = [[Craven Cottage]]
+|location = [[Fulham]]
+|attendance = 25,001 (2,651 away)
+|referee = [[Kevin Friend]]
+|result = W
+}}
+{{football box collapsible
+|round = 32
+|date = 3 April 2019
+|time = 19:45 [[British Summer Time|BST]]
+|id = "Manchester City v Cardiff City"
+|team1 = Manchester City
+|score = 2–0
+|report = https://www.premierleague.com/match/38632
+|team2 = [[Cardiff City F.C.|Cardiff City]]
+|goals1 = [[Kevin De Bruyne|De Bruyne]] {{goal|6}}<br>[[Leroy Sané|Sané]] {{goal|44}}
+|goals2 = [[Joe Bennett (footballer)|Bennett]] {{yel|8}}<br>[[Lee Peltier|Peltier]] {{yel|34}}<br>[[Joe Ralls|Ralls]] {{yel|53}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 53,559 (882 away)
+|referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+|result = W
+}}
+{{football box collapsible
+|round = 33
+|date = 14 April 2019
+|time = 14:05 [[British Summer Time|BST]]
+|id = "Manchester City v Crystal Palace"
+|team1 = [[Crystal Palace F.C.|Crystal Palace]]
+|score = 1–3
+|report = https://www.premierleague.com/match/38640
+|team2 = Manchester City
+|goals1 = [[Luka Milivojević|Milivojević]] {{goal|81}}
+|goals2 = [[Raheem Sterling|Sterling]] {{goal|15||63}}<br>[[Gabriel Jesus]] {{goal|90}}
+|stadium = [[Selhurst Park]]
+|location = [[Selhurst]]
+|attendance = 25,721 (2,938 away)
+|referee = [[Martin Atkinson]]
+|result = W
+}}
+{{football box collapsible
+|round = 34
+|date = 20 April 2019
+|time = 12:30 [[British Summer Time|BST]]
+|id = "Manchester City v Tottenham Hotspur"
+|team1 = Manchester City
+|score = 1–0
+|report = https://www.premierleague.com/match/38654
+|team2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1 = [[Phil Foden|Foden]] {{goal|5}}<br>[[Raheem Sterling|Sterling]] {{yel|90+3}}
+|goals2 = [[Victor Wanyama|Wanyama]] {{yel|86}}<br>[[Jan Vertonghen|Vertonghen]] {{yel|90+3}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,489 (3,010 away)
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = W
+}}
+{{football box collapsible
+|round = [[Manchester derby|35]]
+|date = 24 April 2019
+|time = 20:00 [[British Summer Time|BST]]
+|id = "Manchester City v Manchester Utd"
+|team1 = [[Manchester United F.C.|Manchester United]]
+|score = 0–2
+|report = https://www.premierleague.com/match/38613
+|team2 = Manchester City
+|goals1 = [[Andreas Pereira|Pereira]] {{yel|24}}<br>[[Luke Shaw|Shaw]] {{yel|89}}
+|goals2 = [[Vincent Kompany|Kompany]] {{yel|10}}<br>[[Oleksandr Zinchenko (footballer)|Zinchenko]] {{yel|26}}<br>[[Bernardo Silva|B. Silva]] {{goal|54}}<br>[[Leroy Sané|Sané]] {{goal|66}}
+|stadium = [[Old Trafford]]
+|location = [[Trafford]]
+|attendance = 74,431 (2,940 away)
+|referee = [[Andre Marriner]]
+|result = W
+}}
+{{football box collapsible
+|round = 36
+|date = 28 April 2019
+|time = 14:05 [[British Summer Time|BST]]
+|id = "Burnley v Manchester City"
+|team1 = [[Burnley F.C.|Burnley]]
+|score = 0–1
+|report = https://www.premierleague.com/match/38659
+|team2 = Manchester City
+|goals1 = [[Matthew Lowton|Lowton]] {{yel|87}}
+|goals2 = [[Sergio Agüero|Agüero]] {{goal|63}}<br>[[İlkay Gündoğan|Gündoğan]] {{yel|90+5}}
+|stadium = [[Turf Moor]]
+|location = [[Burnley]]
+|attendance = 21,605 (2,458 away)
+|referee = [[Paul Tierney (referee)|Paul Tierney]]
+|result = W
+}}
+{{football box collapsible
+|round = 37
+|date = 6 May 2019
+|time = 20:00 [[British Summer Time|BST]]
+|id = "Leicester City v Manchester City"
+|team1 = Manchester City
+|score = 1–0
+|report = https://www.premierleague.com/match/38674
+|team2 = [[Leicester City F.C.|Leicester City]]
+|goals1 = [[David Silva|D. Silva]] {{yel|22}}<br>[[Vincent Kompany|Kompany]] {{yel|44}}, {{goal|70}}<br>[[Gabriel Jesus]] {{yel|89}}
+|goals2 = [[Harry Maguire|Maguire]] {{yel|35}}<br>[[Kelechi Iheanacho|Iheanacho]] {{yel|90}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 54,506 (3,010 away)
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = W
+}}
+{{football box collapsible
+|round = 38
+|date = 12 May 2019
+|time = 15:00 [[British Summer Time|BST]]
+|id = "Brighton and Hove Albion v Manchester City"
+|team1 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|score = 1–4
+|report = https://www.premierleague.com/match/38678
+|team2 = Manchester City
+|goals1 = [[Glenn Murray|Murray]] {{goal|27}}
+|goals2 = [[Sergio Agüero|Agüero]] {{goal|28}}<br>[[Aymeric Laporte|Laporte]] {{goal|38}}<br>[[Riyad Mahrez|Mahrez]] {{goal|63}}<br>[[İlkay Gündoğan|Gündoğan]] {{goal|72}}
+|stadium = [[Falmer Stadium|Amex Stadium]]
+|location = [[Falmer]]
+|attendance = 30,662 (2,942 away)
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = W
+}}
+
+===FA Cup===
+{{main|2018–19 FA Cup}}
+Manchester City entered the competition in the third round and were given a home tie against [[Rotherham United F.C.|Rotherham United]].<ref>{{cite news |title=FA Cup third-round draw: Solihull Moors or Blackpool v Arsenal, Woking v Watford |url=https://www.bbc.com/sport/football/46429233 |publisher=BBC Sport |date=3 December 2018 |access-date=4 December 2018}}</ref> The fourth round draw was made live on [[BBC]] by [[Robbie Keane]] and [[Carl Ikeme]] from [[Wolverhampton]] on 7 January 2019.<ref>{{Cite web |title=Two London Derbies And Three All Premier League Ties Among Emirates FA Cup Draw |url=http://www.thefa.com/news/2019/jan/07/fa-cup-fourth-round-draw-070119 |publisher=[[The Football Association]] |access-date=8 January 2019}}</ref> The fifth round draw was broadcast live on [[BBC]] on 28 January 2019, with [[Alex Scott (footballer, born 1984)|Alex Scott]] and [[Ian Wright]] conducting the draw.<ref>{{Cite web |title=The Draw For The Emirates FA Cup Fifth Round Was Made Live On The BBC's One Show |url=http://www.thefa.com/news/2019/jan/28/emirates-fa-cup-fifth-round-proper-draw-280119 |publisher=[[The Football Association]] |access-date=28 January 2019}}</ref> The quarter-finals draw was made on 18 February by [[Darren Fletcher]] and [[Wayne Bridge]].<ref>{{Cite web |title=Manchester City Face Swansea City In Emirates FA Cup Quarter Finals |url=http://www.thefa.com/news/2019/feb/18/fa-cup-quarter-final-draw-180219 |publisher=[[The Football Association]] |access-date=21 February 2019}}</ref>
+
+{{football box collapsible
+|round = [[2018–19 FA Cup#Third round proper|Third round]]
+|date = 6 January 2019
+|time = 14:00 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City
+|score = 7–0
+|report = https://www.bbc.co.uk/sport/football/46713168
+|team2   =[[Rotherham United F.C.|Rotherham United]]
+|goals1 = [[Raheem Sterling|Sterling]] {{goal|12}}, {{yel|35}}<br>[[Phil Foden|Foden]] {{goal|43}}<br>[[Semi Ajayi|Ajayi]] {{goal|45+1|o.g.}}<br>[[Gabriel Jesus]] {{goal|52}}<br>[[Riyad Mahrez|Mahrez]] {{goal|73}}<br>[[Nicolás Otamendi|Otamendi]] {{goal|78}}<br>[[Leroy Sané|Sané]] {{goal|85}}
+|goals2 = [[Ben Wiles|Wiles]] {{yel|24}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|attendance = 52,708
+|referee = [[David Coote (referee)|David Coote]]
+|result = W
+}}
+{{football box collapsible
+|round = [[2018–19 FA Cup#Fourth round proper|Fourth round]]
+|date = 26 January 2019
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City
+|score = 5–0
+|report = https://www.bbc.co.uk/sport/football/46928656
+|team2 = [[Burnley F.C.|Burnley]]
+|goals1 = [[Kyle Walker|Walker]] {{yel|21}}<br>[[Gabriel Jesus]] {{goal|23}}<br>[[Bernardo Silva|B. Silva]] {{goal|52}}<br>[[Kevin De Bruyne|De Bruyne]] {{goal|61}}<br>[[Kevin Long (footballer)|Long]] {{goal|73|o.g.}}<br>[[Sergio Agüero|Agüero]] {{goal|85|pen.}}
+|goals2 = 
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 50,121
+|referee = [[Graham Scott (referee)|Graham Scott]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2019|02|16|df=y}}
+|time = 17:30 [[Greenwich Mean Time|GMT]]
+|round = [[2018–19 FA Cup#Fifth round proper|Fifth round]]
+|score = 1–4
+|report = https://www.bbc.co.uk/sport/football/47180807
+|team1 = [[Newport County A.F.C.|Newport County]]
+|team2 = Manchester City
+|goals1 = [[Pádraig Amond|Amond]] {{goal|88}}
+|goals2 = [[Leroy Sané|Sané]] {{goal|51}}<br>[[Phil Foden|Foden]] {{goal|75||89}}<br>[[Riyad Mahrez|Mahrez]] {{goal|90+4}}
+|stadium = [[Rodney Parade]]
+|location = [[Newport, Wales|Newport]]
+|attendance = 9,680
+|referee = [[Andre Marriner]]
+|result = W
+}}
+{{football box collapsible
+|round = [[2018–19 FA Cup#Quarter-finals|Quarter-finals]]
+|date = 16 March 2019
+|time = 17:20 [[Greenwich Mean Time|GMT]]
+|team1 = [[Swansea City A.F.C.|Swansea City]]
+|score = 2–3
+|report = https://www.bbc.co.uk/sport/football/47505051
+|team2 = Manchester City
+|goals1 = [[Matt Grimes|Grimes]] {{goal|20|pen.}}<br>[[Bersant Celina|Celina]] {{goal|29}}
+|goals2 = [[Aymeric Laporte|Laporte]] {{yel|45+3}}<br>[[Bernardo Silva|B. Silva]] {{goal|69}}<br>[[Kristoffer Nordfeldt|Nordfeldt]] {{goal|78|o.g.}}<br>[[Sergio Agüero|Agüero]] {{goal|88}}
+|stadium = [[Liberty Stadium]]
+|location = [[Swansea]]
+|attendance = 19,783
+|referee = [[Andre Marriner]]
+|result = W
+}}
+{{football box collapsible
+|round = [[2018–19 FA Cup#Semi-finals|Semi-finals]]
+|date = 6 April 2019
+|time = 17:30 [[British Summer Time|BST]]
+|team1 = Manchester City
+|score = 1–0
+|report = https://www.bbc.co.uk/sport/football/47756588
+|team2 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|goals1 = [[Gabriel Jesus]] {{goal|4}}<br />[[Kyle Walker|Walker]] {{yel|32}}<br />[[Danilo (footballer, born July 1991)|Danilo]] {{yel|50}}
+|goals2 = [[Alireza Jahanbakhsh|Jahanbakhsh]] {{yel|32}}<br />[[Lewis Dunk|Dunk]] {{yel|72}}
+|stadium = [[Wembley Stadium]]
+|location = [[Wembley]], [[London]]
+|attendance = 71,521
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = W
+}}
+{{football box collapsible
+|round = [[2019 FA Cup Final|Final]]
+|time= 17:00 [[British Summer Time|BST]]
+|date = 18 May 2019
+|team1 = Manchester City
+|score = 6–0
+|report = http://www.thefa.com/competitions/thefacup/match-stats?season=2018&competition=1&match=1054822
+|team2 = [[Watford F.C.|Watford]]
+|goals1 = [[David Silva|D. Silva]] {{goal|26}}, {{yel|60}} <br>[[Gabriel Jesus]] {{goal|38||68}} <br>[[Kevin De Bruyne|De Bruyne]] {{goal|61}} <br>[[Raheem Sterling|Sterling]] {{goal|81||87}}
+|goals2 = [[Abdoulaye Doucouré|Doucouré]] {{yel|22}}<br>[[Kiko Femenía|Femenía]] {{yel|80}}
+|stadium = [[Wembley Stadium]]
+|location = [[Wembley]], [[London]]
+|attendance = 85,854
+|referee = [[Kevin Friend]]
+|result = W
+}}
+
+===EFL Cup===
+{{main|2018–19 EFL Cup}}
+Manchester City entered the competition in the third round as the [[2017–18 EFL Cup|defending champions]] and were drawn away to [[Oxford United F.C.|Oxford United]].<ref>{{cite news |title=Carabao Cup Round Three Draw Confirmed |url=https://www.efl.com/news/2018/august/carabao-cup-round-three-draw2/ |publisher=[[English Football League]] |date=30 August 2018 |access-date=30 August 2018}}</ref> A home tie against [[Fulham F.C.|Fulham]] was confirmed for the fourth round.<ref>{{cite news|title=Carabao Cup fourth-round draw: Frank Lampard returns to Chelsea with Derby|url=https://www.bbc.co.uk/sport/football/45695854|publisher=BBC Sport|date=29 September 2018 |access-date=29 September 2018}}</ref> The semi-finals draw was made live on [[Sky Sports]] by [[Piers Morgan]] and [[Peter Crouch]] on 19 December 2018.<ref>{{Cite web |title=Carabao Cup Semi-Final draw confirmed |url=https://www.efl.com/news/2018/december/piers-morgan-and-peter-crouch-to-make-carabao-cup-semi-final-draw/ |publisher=[[English Football League]] |access-date=20 December 2018}}</ref> City advanced to the [[2019 EFL Cup final|final]], defending their title by defeating [[Chelsea F.C.|Chelsea]] on penalties after a goalless draw over the 120 minutes.
+
+{{football box collapsible
+|round = [[2018–19 EFL Cup|Third round]]
+|date = 25 September 2018
+|time = 19:45 [[British Summer Time|BST]]
+|team1 = [[Oxford United F.C.|Oxford United]]
+|score = 0–3
+|report = https://www.bbc.co.uk/sport/football/45555893
+|team2 = Manchester City
+|goals1 = [[Luke Garbutt|Garbutt]] {{yel|37}}<br>[[Robert Dickie (footballer)|Dickie]] {{yel|82}}
+|goals2 = [[Gabriel Jesus]] {{goal|36}}<br>[[Danilo (footballer, born July 1991)|Danilo]] {{yel|64}}<br>[[Riyad Mahrez|Mahrez]] {{goal|78}}<br>[[Phil Foden|Foden]] {{goal|90+2}}
+|stadium = [[Kassam Stadium]]
+|location = [[Oxford]]
+|attendance = 11,956
+|referee = [[Roger East (referee)|Roger East]]
+|result = W
+}}
+{{football box collapsible
+|round = [[2018–19 EFL Cup|Fourth round]]
+|date = 1 November 2018
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City
+|score = 2–0
+|report = https://www.bbc.co.uk/sport/live/football/45767722
+|team2 = [[Fulham F.C.|Fulham]]
+|goals1 = [[Brahim Díaz|Brahim]] {{goal|18||65}}<br>[[Vincent Kompany|Kompany]] {{yel|80}}
+|goals2 = 
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|attendance = 35,271
+|referee = [[Martin Atkinson]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2018|12|18|df=y}}
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = [[2018–19 EFL Cup#Quarter-finals|Quarter-finals]]
+|score = 1–1
+|penaltyscore = 1–3
+|report = https://www.bbc.co.uk/sport/football/46516343
+|team1 = [[Leicester City F.C.|Leicester City]]
+|goals1 = [[Marc Albrighton|Albrighton]] {{goal|73}}
+|penalties1 = [[Harry Maguire|Maguire]] {{pengoal}}<br>[[Christian Fuchs|Fuchs]] {{penmiss}}<br>[[James Maddison|Maddison]] {{penmiss}}<br>[[Çağlar Söyüncü|Söyüncü]] {{penmiss}}
+|team2 = Manchester City
+|goals2 = [[Kevin De Bruyne|De Bruyne]] {{goal|14}}<br>[[Phil Foden|Foden]] {{yel|50}}<br>[[İlkay Gündoğan|Gündoğan]] {{yel|85}}
+|penalties2 = {{pengoal}} [[İlkay Gündoğan|Gündoğan]]<br>{{penmiss}} [[Raheem Sterling|Sterling]]<br>{{pengoal}} [[Gabriel Jesus]]<br>{{pengoal}} [[Oleksandr Zinchenko (footballer)|Zinchenko]]
+|stadium = [[King Power Stadium]]
+|location = [[Leicester]]
+|attendance = 24,644
+|referee = [[Lee Mason]]
+|result = D
+}}
+{{football box collapsible
+|round = [[2018–19 EFL Cup#Semi-finals|Semi-finals]] First leg
+|date = 9 January 2019
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City
+|score = 9–0
+|report = https://www.bbc.co.uk/sport/football/46732982
+|team2 = [[Burton Albion F.C.|Burton Albion]]
+|goals1 = [[Kevin De Bruyne|De Bruyne]] {{goal|5}}<br>[[Gabriel Jesus]] {{goal|30||34||57||65}}<br>[[Oleksandr Zinchenko (footballer)|Zinchenko]] {{goal|37}}<br>[[Phil Foden|Foden]] {{goal|62}}<br>[[Kyle Walker|Walker]] {{goal|70}}<br>[[Riyad Mahrez|Mahrez]] {{goal|83}}
+|goals2 = 
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 32,089
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = W
+}}
+{{football box collapsible
+|round = [[2018–19 EFL Cup#Semi-finals|Semi-finals]] Second leg
+|date = 23 January 2019
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|team1 = [[Burton Albion F.C.|Burton Albion]]
+|score = 0–1
+|aggregatescore = 0–10
+|report = https://www.bbc.co.uk/sport/football/46839107
+|team2 = Manchester City
+|goals1 = 
+|goals2 = [[Sergio Agüero|Agüero]] {{goal|26}}
+|stadium = [[Pirelli Stadium]]
+|location = [[Burton on Trent]]
+|attendance = 6,519
+|referee = [[Kevin Friend]]
+|result = W
+}}
+{{football box collapsible
+|round = [[2019 EFL Cup final|Final]]
+|id=|date = 24 February 2019
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 0–0
+|aet = yes
+|penaltyscore = 3–4
+|report = https://www.bbc.co.uk/sport/football/47268861
+|team2 = Manchester City
+|goals1 = [[David Luiz]] {{yel|30}}<br>[[Antonio Rüdiger|Rüdiger]] {{yel|72}}<br>[[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|88}}
+|goals2 = [[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|58}}<br>[[Nicolás Otamendi|Otamendi]] {{yel|90+1}}
+|penalties1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{penmiss}}<br>[[César Azpilicueta|Azpilicueta]] {{pengoal}}<br>[[Emerson Palmieri|Emerson]] {{pengoal}}<br>[[David Luiz]] {{penmiss}}<br>[[Eden Hazard|Hazard]] {{pengoal}}
+|penalties2 = {{pengoal}} [[İlkay Gündoğan|Gündoğan]]<br>{{pengoal}} [[Sergio Agüero|Agüero]]<br>{{penmiss}} [[Leroy Sané|Sané]]<br>{{pengoal}} [[Bernardo Silva|B. Silva]]<br>{{pengoal}} [[Raheem Sterling|Sterling]]
+|stadium = [[Wembley Stadium]]
+|location = [[London]]
+|attendance = 81,775
+|referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+|result = D
+}}
+
+===UEFA Champions League===
+{{main|2018–19 UEFA Champions League}}
+On 30 August 2018, Manchester City were drawn in Group F of the UEFA Champions League alongside [[F.C. Shakhtar Donetsk|Shakhtar Donetsk]], [[Olympique Lyonnais|Lyon]] and [[TSG 1899 Hoffenheim|1899 Hoffenheim]].<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0248-0e9902dd9fc3-3433a4b535be-1000--champions-league-group-stage-draw-made-in-monaco/ |title=Champions League group stage draw made in Monaco |publisher=[[UEFA]] |date=30 August 2018 |access-date=31 August 2018}}</ref>
+
+====Group stage====
+{{main|2018–19 UEFA Champions League group stage}}
+{{:2018–19 UEFA Champions League group stage|transcludesection=Group F|show_matches=no|showteam=MCI|only_pld_pts=no_hide_class_rules}}
+{{football box collapsible
+|round = [[2018–19 UEFA Champions League group stage#Manchester City v Lyon|1]]
+|date = 19 September 2018
+|time = 20:00 [[British Summer Time|BST]]
+|team1 = Manchester City {{flagicon|ENG}}
+|score = 1–2
+|team2 = {{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|report = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025064/index.html
+|goals1 = [[Bernardo Silva|B. Silva]] {{goal|67}}<br>[[Sergio Agüero|Agüero]] {{yel|90+1}}
+|goals2 = [[Maxwel Cornet|Cornet]] {{goal|26}}<br>[[Nabil Fekir|Fekir]] {{goal|43}}, {{yel|77}}<br>[[Bertrand Traoré|Traoré]] {{yel|90+3}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|attendance = 40,111
+|referee = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|result = L
+}}
+{{football box collapsible
+|round = [[2018–19 UEFA Champions League group stage#1899 Hoffenheim v Manchester City|2]]
+|date = 2 October 2018
+|time = 17:55 [[British Summer Time|BST]]
+|team1 = [[TSG 1899 Hoffenheim|1899 Hoffenheim]] {{flagicon|GER}}
+|score = 1–2
+|team2 = {{flagicon|ENG}} Manchester City
+|report = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025072/index.html
+|goals1 = [[Ishak Belfodil|Belfodil]] {{goal|1}}<br>[[Kerem Demirbay|Demirbay]] {{yel|57}}
+|goals2 = [[Sergio Agüero|Agüero]] {{goal|8}}, {{yel|90+4}}<br>[[Nicolás Otamendi|Otamendi]] {{yel|12}}<br>[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|36}}<br>[[Kyle Walker|Walker]] {{yel|66}}<br>[[David Silva|D. Silva]] {{goal|87}}
+|stadium = [[Rhein-Neckar-Arena]]
+|location = [[Sinsheim]]
+|attendance = 24,851
+|referee = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2018–19 UEFA Champions League group stage#Shakhtar Donetsk v Manchester City|3]]
+|date = 23 October 2018
+|time = 20:00 [[British Summer Time|BST]]
+|team1 = [[F.C. Shakhtar Donetsk|Shakhtar Donetsk]] {{flagicon|UKR}}
+|score = 0–3
+|team2 = {{flagicon|ENG}} Manchester City
+|report = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025088/index.html
+|goals1 = [[Serhiy Kryvtsov|Kryvtsov]] {{yel|87}}
+|goals2 = [[David Silva|D. Silva]] {{goal|30}}<br>[[Aymeric Laporte|Laporte]] {{goal|35}}<br>[[Bernardo Silva|B. Silva]] {{goal|71}}<br>[[Nicolás Otamendi|Otamendi]] {{yel|90+4}}
+|stadium = [[Metalist Oblast Sports Complex]]
+|location = [[Kharkiv]]
+|attendance = 37,106
+|referee = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2018–19 UEFA Champions League group stage#Manchester City v Shakhtar Donetsk|4]]
+|date = 7 November 2018
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City {{flagicon|ENG}}
+|score = 6–0
+|team2 = {{flagicon|UKR}} [[F.C. Shakhtar Donetsk|Shakhtar Donetsk]]
+|report = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025112/index.html
+|goals1 = [[David Silva|D. Silva]] {{goal|13}}<br>[[Gabriel Jesus]] {{goal|24|pen.|72|pen.|90+2}}<br>[[Raheem Sterling|Sterling]] {{goal|49}}<br>[[Riyad Mahrez|Mahrez]] {{goal|84}}
+|goals2 = 
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 52,286
+|referee = [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2018–19 UEFA Champions League group stage#Lyon v Manchester City|5]]
+|date = 27 November 2018
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Olympique Lyonnais|Lyon]] {{flagicon|FRA}}
+|score = 2–2
+|team2 = {{flagicon|ENG}} Manchester City
+|report   =https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025120/index.html
+|goals1 = [[Maxwel Cornet|Cornet]] {{goal|55||81}}<br>[[Ferland Mendy|F. Mendy]] {{yel|62}}
+|goals2 = [[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|23}}<br>[[Raheem Sterling|Sterling]] {{yel|34}}<br>[[Aymeric Laporte|Laporte]] {{goal|62}}<br>[[Sergio Agüero|Agüero]] {{goal|83}}
+|stadium = [[Parc Olympique Lyonnais]]
+|location = [[Lyon]]
+|attendance = 56,039
+|referee = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|result = D
+}}
+{{football box collapsible
+|round = [[2018–19 UEFA Champions League group stage#Manchester City v 1899 Hoffenheim|6]]
+|date = 12 December 2018
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = Manchester City {{flagicon|ENG}}
+|score = 2–1
+|team2 = {{flagicon|GER}} [[TSG 1899 Hoffenheim|1899 Hoffenheim]]
+|report = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025144/index.html?iv=true
+|goals1 = [[Leroy Sané|Sané]] {{goal|45+1||61}}
+|goals2 = [[Andrej Kramarić|Kramarić]] {{goal|16|pen.}}<br>[[Florian Grillitsch|Grillitsch]] {{yel|64}}<br>[[Joelinton]] {{yel|77}}
+|stadium = City of Manchester Stadium
+|location = Manchester
+|attendance = 50,411
+|referee = [[Andreas Ekberg]] ([[Swedish Football Association|Sweden]])
+|result = W
+}}
+
+====Knockout phase====
+{{main|2018–19 UEFA Champions League knockout phase}}
+On 17 December 2018, the round of 16 draw was made in [[Nyon]], Switzerland.<ref>{{cite web |title=UEFA Champions League round of 16 draw confirmed |url=https://www.uefa.com/uefachampionsleague/news/024c-0e994e4aa0a2-2e25ae292aec-1000--uefa-champions-league-round-of-16-draw-confirmed/ |publisher=[[UEFA]] |access-date=17 December 2018}}</ref>
+
+=====Round of 16=====
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League knockout phase#Schalke 04 v Manchester City|First leg]]
+|date       = 20 February 2019
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[FC Schalke 04|Schalke 04]] {{flagicon|GER}}
+|score      = 2–3
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000981/match=2026845/index.html
+|team2      = {{flagicon|ENG}} Manchester City
+|goals1     = [[Nabil Bentaleb|Bentaleb]] {{goal|38|pen.|45|pen.}}<br>[[Mark Uth|Uth]] {{yel|41}}<br>[[Salif Sané|Sané]] {{yel|73}}<br>[[Guido Burgstaller|Burgstaller]] {{yel|90+5}}
+|goals2     = [[Sergio Agüero|Agüero]] {{goal|18}}<br>[[Nicolás Otamendi|Otamendi]] {{sentoff|2|36|68}}<br>[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|43}}<br>[[Leroy Sané|Sané]] {{goal|85}}<br>[[Raheem Sterling|Sterling]] {{goal|90}}<br>[[Ederson (footballer, born 1993)|Ederson]] {{yel|90+5}}
+|stadium    = [[Arena AufSchalke]]
+|location   = [[Gelsenkirchen]]
+|attendance = 54,417
+|referee    = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|result     = W
+}}
+{{football box collapsible
+|round          = [[2018–19 UEFA Champions League knockout phase#Manchester City v Schalke 04|Second leg]]
+|date           = 12 March 2019
+|time           = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1          = Manchester City {{flagicon|ENG}}
+|score          = 7–0
+|aggregatescore = 10–2
+|report         = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000981/match=2026855/index.html
+|team2          = {{flagicon|GER}} [[FC Schalke 04|Schalke 04]]
+|goals1         = [[Sergio Agüero|Agüero]] {{goal|35|pen.|38}}<br>[[Leroy Sané|Sané]] {{goal|42}}<br>[[Danilo (footballer, born July 1991)|Danilo]] {{yel|48}}<br>[[Raheem Sterling|Sterling]] {{goal|56}}<br>[[Oleksandr Zinchenko (footballer)|Zinchenko]] {{yel|69}}<br>[[Bernardo Silva|B. Silva]] {{goal|71}}<br>[[Phil Foden|Foden]] {{goal|78}}<br>[[Gabriel Jesus]] {{goal|84}}
+|goals2         = [[Jeffrey Bruma|Bruma]] {{yel|33}}
+|stadium        = City of Manchester Stadium
+|location       = Manchester
+|attendance     = 51,518
+|referee        = [[Clément Turpin]] ([[French Football Federation|France]])
+|result         = W
+}}
+
+=====Quarter-finals=====
+The draw for the quarter-finals was held on 15 March 2019, 12:00 [[Central European Time|CET]], at the UEFA headquarters in Nyon, Switzerland.<ref name="drawQF">{{cite web|url=https://www.uefa.com/uefachampionsleague/draws/2019/2000982/|title=Quarter-finals & semi-finals draw|publisher=[[UEFA]]}}</ref>
+
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League knockout phase#Tottenham Hotspur v Manchester City|First leg]]
+|date       = 9 April 2019
+|time       = 20:00 [[British Summer Time|BST]]
+|team1      = [[Tottenham Hotspur F.C.|Tottenham Hotspur]] {{flagicon|ENG}}
+|score      = 1–0
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000982/match=2027151/index.html
+|team2      = {{flagicon|ENG}} Manchester City
+|goals1     = [[Danny Rose (footballer, born 1990)|Rose]] {{yel|12}}<br>[[Son Heung-min|Son]] {{goal|78}}
+|goals2     = [[Sergio Agüero|Agüero]] {{penmiss}} <small>13'</small><br>[[Aymeric Laporte|Laporte]] {{yel|28}}<br>[[Riyad Mahrez|Mahrez]] {{yel|59}}
+|location   = [[London]]
+|stadium    = [[Tottenham Hotspur Stadium]]
+|attendance = 60,044
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = L
+}}
+{{football box collapsible
+|round          = [[2018–19 UEFA Champions League knockout phase#Manchester City v Tottenham Hotspur|Second leg]]
+|date           = 17 April 2019
+|time           = 20:00 [[British Summer Time|BST]]
+|team1          = Manchester City {{flagicon|ENG}}
+|score          = 4–3
+|aggregatescore = 4–4 ([[Away goals rule|a]])
+|report         = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000982/match=2027153/index.html
+|team2          = {{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1         = [[Raheem Sterling|Sterling]] {{goal|4||21}}<br>[[Bernardo Silva|B. Silva]] {{goal|11}}<br>[[Sergio Agüero|Agüero]] {{goal|59}}
+|goals2         = [[Son Heung-min|Son]] {{goal|7||10}}, {{yel|48}}<br>[[Moussa Sissoko|Sissoko]] {{yel|41}}<br>[[Danny Rose (footballer, born 1990)|Rose]] {{yel|54}}<br>[[Fernando Llorente|Llorente]] {{goal|73}}<br>[[Victor Wanyama|Wanyama]] {{yel|77}}
+|location       = Manchester
+|stadium        = City of Manchester Stadium
+|attendance     = 53,348
+|referee        = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result         = W
+}}
+
+==Squad information==
+===First-team squad===
+{{fb si header |age=y |eu=n |bc=|style="background:#5cbfeb;color:white;font-size:70%;text-align:center;line-height:14px;width:100%"}}
+{{fb si player |bg= |p={{sortname|Claudio|Bravo}} |nb=CHL |n=1 |pos=GK |age={{Age|1983|04|13|2019|05|18}} |s={{sort|2016.0|2016}} |a=44 |g=0 |e=2020 |f={{ntsh|15.4}}£15.4m |notes=Second nationality: Spain}}<ref>{{cite web |title=Claudio Bravo already has double nationality |url=http://real-sociedad.diariovasco.com/noticias/2009-07-18/claudio-bravo-cuenta-doble-20090718.html |date=18 July 2009 |publisher=El Diario Vasco |language=es |access-date=31 July 2017 |archive-date=18 May 2019 |archive-url=https://web.archive.org/web/20190518191526/https://real-sociedad.diariovasco.com/noticias/2009-07-18/claudio-bravo-cuenta-doble-20090718.html |url-status=dead }}</ref>
+{{fb si player |bg=y |p={{sortname|Kyle|Walker}} |nb=ENG |n=2 |pos=DF |age={{Age|1990|05|28|2019|05|18}} |s={{sort|2017.0|2017}} |a=100 |g=2 |e=2022|f={{ntsh|45}}£45m}}
+{{fb si player |bg= |p={{sortname||Danilo|Danilo (footballer, born July 1991)}}
+|nb=BRA |n=3 |pos=DF |age={{Age|1991|7|15|2019|05|18}} |s={{sort|2017.0|2017}} |a=60 |g=4 |e=2022 |f={{ntsh|26.5}}£26.5m}}
+{{fb si player |bg=y |p={{sortname|Vincent|Kompany}} [[Captain (association football)|(c)]] |nb=BEL |n=4 |pos=DF |age={{Age|1986|04|10|2019|05|18}} |s={{sort|2008.0|2008}} |a=360 |g=20 |e=2019 |f={{ntsh|6}}£6m |notes=[[Captain (association football)|Captain]]}}
+{{fb si player |bg= |p={{sortname|John|Stones}} |nb=ENG |n=5 |pos=DF |age={{Age|1994|05|28|2019|05|18}} |s={{sort|2016.0|2016}} |a=109 |g=5 |e=2022 |f={{ntsh|47.5}}£47.5m}}
+{{fb si player |bg=y |p={{sortname|Raheem|Sterling}} |nb=ENG |n=7 |pos=FW |age={{Age|1994|12|08|2019|05|18}} |s={{sort|2015.0|2015}} |a=191 |g=69 |e=2023 |f={{ntsh|44}}£44m}}
+{{fb si player |bg= |p={{sortname|İlkay|Gündoğan||Gundogan, Ilkay}} |nb=GER |n=8 |pos=MF |age={{Age|1990|10|14|2019|5|18}} |s={{sort|2016.0|2016}} |a=114 |g=17 |e=2020 |f={{ntsh|20}}£20m}}
+{{fb si player |bg=y |p={{sortname|Sergio|Agüero}} |nb=ARG |n=10 |pos=FW |age={{Age|1988|06|02|2019|05|18}} |s={{sort|2011.0|2011}} |a=338 |g=231 |e=2021 |f={{ntsh|31.5}}£31.5m |notes=[[List of Manchester City F.C. records and statistics#Goalscorers|All time top goalscorer]]}}
+{{fb si player |bg= |p={{sortname|Aymeric|Laporte}} |nb=FRA |n=14 |pos=DF |age={{Age|1994|5|27|2019|05|18}} |s={{sort|2018.0|2018}} |a=64 |g=5 |e=2025 |f={{ntsh|57}}£57m}}
+{{fb si player |bg=y |p={{sortname|Eliaquim|Mangala }} |nb=FRA |n=15 |pos=DF |age={{Age|1991|2|13|2019|05|18}} |s={{sort|2014.0|2014}} |a=79 |g=0 |e=2020 |f={{ntsh|42}}£42m}}
+{{fb si player |bg= |p={{sortname|Kevin|De Bruyne}} |nb=BEL |n=17 |pos=MF |age={{Age|1991|6|28|2019|05|18}} |s={{sort|2015.0|2015}} |a=174 |g=41 |e=2023 |f={{ntsh|54.5}}£54.5m}}
+{{fb si player |bg=y |p={{sortname|Fabian|Delph}} |nb=ENG |n=18 |pos=MF |age={{Age|1989|11|21|2019|05|18}} |s={{sort|2015.0|2015}} |a=89 |g=5 |e=2020 |f={{ntsh|8}}£8m}}
+{{fb si player |bg= |p={{sortname|Leroy|Sané}} |nb=GER |n=19 |pos=FW |age={{Age|1996|01|11|2019|05|18}} |s={{sort|2016.0|2016}} |a=133 |g=39 |e=2021 |f={{ntsh|37}}£37m}}
+{{fb si player |bg=y |p={{sortname|Bernardo|Silva}} |nb=POR |n=20 |pos=MF |age={{Age|1994|08|10|2019|05|18}} |s={{sort|2017.0|2017}} |a=104 |g=22 |e=2025 |f={{ntsh|43.5}}£43.5m}}
+{{fb si player |bg= |p={{sortname|David|Silva}} |nb=ESP |n=21 |pos=MF |age={{Age|1986|01|08|2019|05|18}} |s={{sort|2010.0|2010}} |a=396 |g=71 |e=2020 |f={{ntsh|24}}£24m}}
+{{fb si player |bg=y |p={{sortname|Benjamin|Mendy}} |nb=FRA |n=22 |pos=DF |age={{Age|1994|7|17|2019|05|18}} |s={{sort|2017.0|2017}} |a=23 |g=0 |e=2022 |f={{ntsh|52}}£52m}}
+{{fb si player |bg=|p={{sortname||Fernandinho|Fernandinho (footballer, born May 1985)}} |nb=BRA |n=25 |pos=MF |age={{Age|1985|05|04|2019|05|18}} |s={{sort|2013.0|2013}} |a=273 |g=23 |e=2020 |f={{ntsh|30}}£30m}}
+{{fb si player |bg=y |p={{sortname|Riyad|Mahrez}} |nb=ALG |n=26 |pos=FW |age={{Age|1991|02|21|2019|05|18}} |s={{sort|2018.0|2018}} |a=44 |g=12 |e=2023 |f={{ntsh|60}}£60m|notes=[[List of Manchester City F.C. records and statistics#Transfers|Record signing]]}}
+{{fb si player |bg= |p={{sortname|Nicolás|Otamendi}} |nb=ARG |n=30 |pos=DF |age={{Age|1988|02|12|2019|05|18}} |s={{sort|2015.0|2015}} |a=169 |g=8 |e=2022 |f={{ntsh|28}}£28m}}
+{{fb si player |bg=y |p={{sortname||Ederson|Ederson (footballer, born 1993)}} |nb=BRA |n=31 |pos=GK |age={{Age|1993|8|17|2019|05|18}} |s={{sort|2017|2017}} |a=100 |g=0 |e=2025 |f={{ntsh|34.9}}£34.9m|notes=Second nationality: Portugal}}<ref>{{cite web |title=Who is Ederson? The man that could solve Pep Guardiola's goalkeeping issues at Man City |url=http://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-city-ederson-profile-wiki-13101135 |date=28 May 2017 |publisher=Manchester Evening News |access-date=7 December 2017}}</ref>
+{{fb si player |bg= |p={{sortname|Daniel|Grimshaw}} |nb=ENG |n=32 |pos=GK |age={{Age|1997|04|03|2019|05|18}} |s={{sort|2019|2019}} |a=0 |g=0 |e=2021 |f={{ntsh|0}}<small>[[Youth system]]</small> |notes=[[Manchester City F.C. Reserves and Academy|Academy graduate]]}}
+{{fb si player |bg=y |p={{sortname|Gabriel|Jesus}} |nb=BRA |n=33 |pos=FW |age={{Age|1997|04|03|2019|05|18}} |s={{sort|2017.1|2017}} |a=100 |g=45 |e=2023 |f={{ntsh|27}}£27m}}
+{{fb si player |bg= |p={{sortname|Philippe|Sandler}} |nb=NED|n=34 |pos=DF |age={{Age|1997|02|10|2019|05|18}} |s={{sort|2018.0|2018}} |a=2 |g=0 |e=2022 |f={{ntsh|2.6}}£2.6m }}
+{{fb si player |bg=y |p={{sortname|Oleksandr|Zinchenko|Oleksandr Zinchenko (footballer)}} |nb=UKR |n=35 |pos=MF |age={{Age|1996|12|15|2019|05|18}} |s={{sort|2016.0|2016}} |a=43 |g=1 |e=2021 |f={{ntsh|1.7}}£1.7m}}
+{{fb si player |bg= |p={{sortname|Phil|Foden}} |nb=ENG |n=47 |pos=MF |age={{Age|2000|5|28|2019|05|18}} |s={{sort|2017.0|2017}} |a=36 |g=7 |e=2024 |f={{ntsh|0}}<small>Youth system</small> |notes=Academy graduate}}
+{{fb si player |bg=y |p={{sortname|Arijanet|Muric}} |nb=KVX|n=49 |pos=GK |age={{Age|1998|11|7|2019|05|18}} |s={{sort|2018|2018}} |a=5 |g=0 |e=2020 |f={{ntsh|0}}<small>Youth system</small> |notes=Academy graduate}}
+{{fb oi footer |u=18 May 2019 |s=[https://www.mancity.com/teams/first-team Manchester City] |date=July 2018}}
+<small>''Ordered by squad number.''<br/>Appearances include league and cup appearances, including as substitute.<br/>Age stated as at the end of 2018–19 season.</small>
+
+==Statistics==
+{{updated|18 May 2019}}<ref name="Soccerbase">{{cite web |url=https://www.soccerbase.com/teams/team.sd?team_id=1718&comp_id=1&teamTabs=stats |title=Man City – Squad Stats |work=Soccerbase |access-date=7 August 2018}}</ref><ref name="ESPNstats">{{cite web |url=https://www.espnfc.com/club/manchester-city/382/statistics/discipline|title=Manchester City Statistics |publisher=ESPN |access-date=7 August 2018}}</ref><ref name="UEFA Champions League stats">{{cite web |url=https://www.uefa.com/uefachampionsleague/history/clubs/52919--man-city/|title=Man City – Squad Stats |publisher=UEFA |access-date=25 October 2018}}</ref><ref name="Office Premier League Website">{{cite web |url=https://www.premierleague.com/stats|title=Premier League – Player Stats |publisher=PremierLeague |access-date=2 January 2019}}</ref>
+
+===Squad statistics===
+<!-- If you are going to edit this table, please update it for ALL pertinent players on a match by match basis, rather than just updating arbitrary portions of it (such as a single line entry for your favourite player!). Please also appropriately modify the "Last updated" date field in the footer at the base of this table if you do make changes to it. -->
+<small>''Appearances (Apps) numbers are for appearances in competitive games only, including sub appearances.''<br />
+''Red card numbers denote:'' ''numbers in parentheses represent red cards overturned for wrongful dismissal.''</small>
+
+{| class="wikitable sortable alternance"  style="text-align:center;width:100%"
+|-
+! rowspan="2" style="width:10px"|No.
+! rowspan="2" style="width:10px"|Nat.
+! rowspan="2" scope="col" style="width:350px"|Player
+! rowspan="2" style="width:10px"|Pos.
+! colspan="4" |Premier League
+! colspan="4" |FA Cup
+! colspan="4" |League Cup
+! colspan="4" |Community Shield
+! colspan="4" |Champions League
+! colspan="4" |Total
+|- style="text-align:center"
+! width=40  |Apps
+! width=40  |{{goal}}
+! width=40  |{{yel}}
+! width=40  |{{sent off}}
+! width=40  |Apps
+! width=40  |{{goal}}
+! width=40  |{{yel}}
+! width=40  |{{sent off}}
+! width=40  |Apps
+! width=40  |{{goal}}
+! width=40  |{{yel}}
+! width=40  |{{sent off}}
+! width=40  |Apps
+! width=40  |{{goal}}
+! width=40  |{{yel}}
+! width=40  |{{sent off}}
+! width=40  |Apps
+! width=40  |{{goal}}
+! width=40  |{{yel}}
+! width=40  |{{sent off}}
+! width=40  |Apps
+! width=40  |{{goal}}
+! width=40  |{{yel}}
+! width=40  |{{sent off}}
+|-
+|1||{{flagicon|CHI}}||{{sortname|Claudio|Bravo}} ||GK|| || || || || || || || || || || || || 1 || || || || || || || || 1 || || || 
+|-
+|2||{{flagicon|ENG}}||{{sortname|Kyle|Walker}} ||DF|| 33 || 1 || 3 || || 5 || || 2 || || 3 || 1 || || || 1 || || || || 10 || || 1 || || 52 || 2 || 6 || 
+|-
+|3||{{flagicon|BRA}}||[[Danilo (footballer, born July 1991)|Danilo]] ||DF|| 11 || 1 || 1 || || 4 || || 1 || || 5 || || 1 || || || || || || 2 || || 1 || || 22 || 1 || 4 || 
+|-
+|4||{{flagicon|BEL}}||{{sortname|Vincent|Kompany}} ||DF|| 17 ||1 || 6 || || 1 || || || || 3 || || 1 || || 1 || || || || 4 || || || || 26 || 1 || 7 || 
+|-
+|5||{{flagicon|ENG}}||{{sortname|John|Stones}} ||DF|| 24 || || 1 || || 5 || || || || 3 || || || || 1 || || || || 6 || || || || 39 || || 1 || 
+|-
+|7||{{flagicon|ENG}}||{{sortname|Raheem|Sterling}} ||MF|| 34 || 17 || 3 || || 4 || 3 || 1 ||  || 3 || || || || || || || || 10 || 5 || 1 || || 51 || 25 || 5 || 
+|-
+|8||{{flagicon|GER}}||{{sortname|İlkay|Gündoğan||Gundogan, Ilkay}} ||MF|| 31 || 6 || 3 ||  || 6 || || || || 4 || || 1 || || 1 || || || || 8 || || || || 50 || 6 || 4 || 
+|-
+|10||{{flagicon|ARG}}||{{sortname|Sergio|Agüero}} ||FW|| 33 || 21 || 3 || || 2 || 2 || || || 3 || 1 || || || 1 || 2 || || || 7 || 6 || 2 || || 46 || 32 || 5 || 
+|-
+|14||{{flagicon|FRA}}||{{sortname|Aymeric|Laporte}} ||DF|| 35 || 3 || 3 || || 4 || || 1 || || 1 ||  || || || 1 || || || || 10 || 2 || 1 || || 51 || 5 || 5 || 
+|-
+|15||{{flagicon|FRA}}||{{sortname|Eliaquim|Mangala}} ||DF|| || || || || || || || || || || || || || || || || || || || || || || || 
+|-
+|17||{{flagicon|BEL}}||{{sortname|Kevin|De Bruyne}} ||MF|| 19 || 2 || 2 || || 4 || 2 || || || 5 || 2 || || || || || || || 4 || || || || 32 || 6 || 2 || 
+|-
+|18||{{flagicon|ENG}}||{{sortname|Fabian|Delph}} ||MF|| 11 || || 1 || 1 || 1 || || || || 2 ||  || || || || || || || 6 || || || || 20 || || 1 || 1
+|-
+|19||{{flagicon|GER}}||{{sortname|Leroy|Sané}} ||MF|| 31 || 10 || 1 || || 4 || 2 || || || 3 || || || || 1 || || || || 8 || 4 || || || 47 || 16 || 1 || 
+|-
+|20||{{flagicon|POR}}||{{sortname|Bernardo|Silva}} ||MF|| 36 || 7 || 3 || || 4 || 2 || || || 2 || || || || 1 || || || || 8 || 4 || || || 51 || 13 || 3 || 
+|-
+|21||{{flagicon|ESP}}||{{sortname|David|Silva}} ||MF|| 33 || 6 || 3 || || 5 || 1 || 1 || || 3 || || || || || || || || 9 || 3 || || || 50 || 10 || 4 || 
+|-
+|22||{{flagicon|FRA}}||{{sortname|Benjamin|Mendy}} ||DF|| 10 || || 1 || || 1 || || || || 1 || || || || 1 || || || || 2 || || || || 15 || || 1 || 
+|-
+|25||{{flagicon|BRA}}||[[Fernandinho (footballer, born May 1985)|Fernandinho]] ||MF|| 29 || 1 || 5 || || 3 || || ||  || 1 ||  || 1 || || 1 || || || || 8 || || 3 || || 42 || 1 || 9 || 
+|-
+|26||{{flagicon|ALG}}||{{sortname|Riyad|Mahrez}} ||MF|| 27 || 7 || || || 5 || 2 || || || 5 || 2 || || || 1 || || || || 6 || 1 || 1 || || 44 || 12 || 1 || 
+|-
+|30||{{flagicon|ARG}}||{{sortname|Nicolás|Otamendi}} ||DF|| 18 || || 1 || || 5 || 1 || || || 4 || || 1 || || 1 || || || || 5 || || 2 || 1 || 33 || 1 || 4 || 1
+|-
+|31||{{flagicon|BRA}}||[[Ederson (footballer, born 1993)|Ederson]] ||GK|| 38 || || 2 || || 6 || || || || 1 ||  || || || || || || || 10 || || 1 || || 55 || || 3 || 
+|-
+|32||{{flagicon|ENG}}||{{sortname|Daniel|Grimshaw|nolink=1}} ||GK|| || || || || || || || || || || || || || || || || || || || || || || || 
+|-
+|33||{{flagicon|BRA}}||{{sortname|Gabriel|Jesus}} ||FW|| 29 || 7 || 1 || || 6 || 5 || || || 5 || 5 || || || 1 || || || || 6 || 4 ||  || || 47 || 21 || 1 || 
+|-
+|34||{{flagicon|NED}}||{{sortname|Philippe|Sandler}} ||DF|| || || || || 1 || || || || 1 || || || || || || || || || || || || 2 || || || 
+|-
+|35||{{flagicon|UKR}}||{{sortname|Oleksandr|Zinchenko|Oleksandr Zinchenko (footballer)}} ||MF|| 14 || || 1 || || 4 || || || || 6 || 1 || || || || || || || 5 || || 1 || || 29 || 1 || 2 || 
+|-
+|47||{{flagicon|ENG}}||{{sortname|Phil|Foden}} ||MF|| 13 || 1 || || || 3 || 3 || || || 5 || 2 || 1 || || 1 || || || || 4 || 1 || || || 26 || 7 || 1 || 
+|-
+|49||{{flagicon|KVX}}||{{sortname|Arijanet|Muric}} ||GK|| || || || || || || || || 5 || || || || || || || || || || || || 5 || || || 
+|-
+|50||{{flagicon|ESP}}||{{sortname|Eric|García|Eric García (footballer, born 2001)}} ||DF|| || || || || || || || || 3 || || || || || || || || || || || || 3 || || || 
+|-
+|55||{{flagicon|ESP}}||{{sortname||Brahim|Brahim Díaz}} ||MF|| || || || || || || || || 3 || 2 || || || 1 || || || || || || || || 4 || 2 || || 
+|-
+|61||{{flagicon|ENG}}||{{sortname|Felix|Nmecha}} ||MF|| || || || || || || || || 1 || || || || || || || || || || || || 1 || || || 
+|-
+|81||{{flagicon|FRA}}||{{sortname|Claudio|Gomes}} ||MF|| || || || || || || || || 1 || || || || 1 || || || || || || || || 2 || || || 
+|-
+|82||{{flagicon|ESP}}||{{sortname|Adrián|Bernabé}} ||MF|| || || || || || || || || 1 || || || || || || || || || || || || 1 || || || 
+|-
+|83||{{flagicon|ENG}}||{{sortname|Ian|Poveda}} ||FW|| || || || || || || || || 1 || || || || || || || || || || || || 1 || || || 
+|- class="sortbottom"
+| colspan="5" |'''Own goals'''
+| 4
+| colspan="3" style="background:white;text-align:center" |
+| 3
+| colspan="3" style="background:white;text-align:center" |
+|
+| colspan="3" style="background:white;text-align:center" |
+|
+| colspan="3" style="background:white;text-align:center" |
+|
+| colspan="3" style="background:white;text-align:center" |
+| 7
+| colspan="2" style="background:white;text-align:center" |
+|- class="sortbottom"
+| colspan="5" style="background:white;text-align:center" |'''Totals'''
+|'''95'''||'''44'''||'''1'''
+| rowspan="3" style="background:white;text-align:center" |
+|'''26'''||'''6'''||'''0'''
+| rowspan="3" style="background:white;text-align:center" |
+|'''16'''||'''6'''||'''0'''
+| rowspan="3" style="background:white;text-align:center" |
+|'''2'''||'''0'''||'''0'''
+| rowspan="3" style="background:white;text-align:center" |
+|'''30'''||'''14'''||'''1'''
+| rowspan="3" style="background:white;text-align:center" |
+|'''169'''||'''69'''||'''2'''
+|}
+
+===Goalscorers===
+<small>''Includes all competitive matches. The list is sorted alphabetically by surname when total goals are equal.''</small>
+
+{| class="wikitable sortable alternance" style="text-align:center"
+|-
+! |No.
+! |Pos.
+! |Player
+! width="80" |Premier League
+! width="80" |FA Cup
+! width="80" |League Cup
+! width="80" |Community Shield
+! width="80" |Champions League
+! width="80" |TOTAL
+|-
+| 10 || FW || align="left"|{{Flagicon|ARG}} [[Sergio Agüero]] || 21 || 2 || 1 || 2 || 6 || '''32'''
+|-
+| 7 || FW || align="left"|{{Flagicon|ENG}} [[Raheem Sterling]] || 17 || 3 || 0 || 0 || 5 || '''25'''
+|-
+| 33 || FW || align="left"|{{Flagicon|BRA}} [[Gabriel Jesus]] || 7 || 5 || 5 || 0 || 4 || '''21'''
+|-
+| 19 || FW || align="left"|{{Flagicon|GER}} [[Leroy Sané]] || 10 || 2 || 0 || 0 || 4 || '''16'''
+|-
+| 20 || MF || align="left"|{{Flagicon|POR}} [[Bernardo Silva]] || 7 || 2 || 0 || 0 || 4 || '''13'''
+|-
+| 26 || FW || align="left"|{{Flagicon|ALG}} [[Riyad Mahrez]] || 7 || 2 || 2 || 0 || 1 || '''12'''
+|-
+| 21 || MF || align="left"|{{Flagicon|ESP}} [[David Silva]] || 6 || 1 || 0 || 0 || 3 || '''10'''
+|-
+| 47 || MF ||align="left"|{{Flagicon|ENG}} [[Phil Foden]] || 1 || 3 || 2 || 0 || 1 || '''7'''
+|-
+| 17 || MF ||align="left"|{{Flagicon|BEL}} [[Kevin De Bruyne]] || 2 || 2 || 2 || 0 || 0 || '''6'''
+|-
+| 8 || MF || align="left"|{{Flagicon|GER}} [[İlkay Gündoğan]] || 6 || 0 || 0 || 0 || 0 || '''6'''
+|-
+| 14 || DF || align="left"|{{Flagicon|FRA}} [[Aymeric Laporte]] || 3 || 0 || 0 || 0 || 2 || '''5'''
+|-
+| 55 || MF || align="left"|{{Flagicon|ESP}} [[Brahim Díaz|Brahim]] || 0 || 0 || 2 || 0 || 0 || '''2'''
+|-
+| 2 || DF || align="left"|{{Flagicon|ENG}} [[Kyle Walker]] || 1 || 0 || 1 || 0 || 0 || '''2'''
+|-
+| 3 || DF || align="left"|{{flagicon|BRA}} [[Danilo (footballer, born July 1991)|Danilo]] || 1 || 0 || 0 || 0 || 0 || '''1'''
+|-
+| 25 || MF || align="left"|{{flagicon|BRA}} [[Fernandinho (footballer, born May 1985)|Fernandinho]] || 1 || 0 || 0 || 0 || 0 || '''1'''
+|-
+| 4 || DF || align="left"|{{Flagicon|BEL}} [[Vincent Kompany]] || 1 || 0 || 0 || 0 || 0 || '''1'''
+|-
+| 30 || DF || align="left"|{{Flagicon|ARG}} [[Nicolás Otamendi]] || 0 || 1 || 0 || 0 || 0 || '''1'''
+|-
+| 35 || MF || align="left"|{{Flagicon|UKR}} [[Oleksandr Zinchenko (footballer)|Oleksandr Zinchenko]] || 0 || 0 || 1 || 0 || 0 || '''1'''
+|- class="sortbottom"
+| colspan="3"|Own goals || 4 || 3 || 0 || 0 || 0 || '''7'''
+|- class="sortbottom"
+| colspan="3"|'''Totals'''||'''95'''|| '''26''' || '''16''' || '''2''' ||'''30''' ||'''169'''
+|}
+
+===Hat-tricks===
+{| class="wikitable"
+|-
+! |Player
+! |Against
+! |Result
+! |Date
+! |Competition
+! |Ref
+|-
+| {{flagicon|ARG}} [[Sergio Agüero]] || [[Huddersfield Town A.F.C.|Huddersfield Town]] || 6–1 (H) || {{dts|format=dmy|2018|08|19}} || [[2018–19 Premier League|Premier League]] || <ref>{{cite news |last=Rose |first=Gary |date=19 August 2018 |title=Manchester City 6–1 Huddersfield Town |url=https://www.bbc.co.uk/sport/football/45159602 |publisher=BBC Sport |archive-url=https://web.archive.org/web/20180819054959/https://www.bbc.co.uk/sport/football/45159602 |archive-date=19 August 2018 |url-status=live |access-date=9 November 2018 |df=dmy-all}}</ref>
+|-
+| {{flagicon|BRA}} [[Gabriel Jesus]] || {{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]] || 6–0 (H) || {{dts|format=dmy|2018|11|07}} || [[2018–19 UEFA Champions League|UEFA Champions League]] || <ref>{{cite news |last=Emons |first=Michael |date=7 November 2018 |title=Manchester City 6–0 Shakhtar Donetsk |url=https://www.bbc.com/sport/football/46087295 |publisher=BBC Sport |archive-url=https://web.archive.org/web/20180819054959/https://www.bbc.co.uk/sport/football/45159602 |archive-date=19 August 2018 |url-status=live |access-date=9 November 2018 |df=dmy-all}}</ref>
+|-
+| {{flagicon|BRA}} Gabriel Jesus<sup>4</sup> || [[Burton Albion F.C.|Burton Albion]] || 9–0 (H) || {{dts|format=dmy|2019|01|09}} || [[2018–19 EFL Cup|EFL Cup]] || <ref>{{cite news |last=Emons |first=Michael |date=9 January 2019 |title=Manchester City 9–0 Burton Albion |url=https://www.bbc.co.uk/sport/football/46732982 |publisher=BBC Sport |access-date=10 March 2019}}</ref>
+|-
+| {{flagicon|ARG}} Sergio Agüero || [[Arsenal F.C.|Arsenal]] || 3–1 (H) || {{dts|format=dmy|2019|02|03}} || Premier League || <ref>{{cite news |last=McNulty |first=Phil |date=3 February 2019 |title=Manchester City 3–1 Arsenal |url=https://www.bbc.co.uk/sport/football/47018275 |publisher=BBC Sport |access-date=10 March 2019}}</ref>
+|-
+| {{flagicon|ARG}} Sergio Agüero || [[Chelsea F.C.|Chelsea]] || 6–0 (H) || {{dts|format=dmy|2019|02|10}} || Premier League || <ref>{{cite news |last=Pearlman |first=Michael |date=22 February 2019 |title=Cardiff 1–5 Watford |url=https://www.bbc.co.uk/sport/football/47248480 |publisher=BBC Sport |access-date=10 March 2019}}</ref>
+|-
+| {{flagicon|ENG}} [[Raheem Sterling]] || [[Watford F.C.|Watford]] || 3–1 (H) || {{dts|format=dmy|2019|03|09}} || Premier League || <ref>{{cite news |last=Bevan |first=Chris |date=9 March 2019 |title=Manchester City 3–1 Watford |url=https://www.bbc.co.uk/sport/football/47424851 |publisher=BBC Sport |access-date=10 March 2019}}</ref>
+|}
+<small>(H) – Home; (A) – Away; (N) – Neutral</small><br><sup>4</sup> <small>– Player scored four goals</small>
+
+===Clean sheets===
+<small>''The list is sorted by shirt number when total clean sheets are equal. Numbers in parentheses represent games where both goalkeepers participated and both kept a clean sheet; the number in parentheses is awarded to the goalkeeper who was substituted on, whilst a full clean sheet is awarded to the goalkeeper who was on the field at the start of play.''</small>
+
+{| class="wikitable sortable alternance" style="text-align:center"
+|-
+! |No.
+! |Player
+! width=80 |Premier League
+! width=80 |FA Cup
+! width=80 |League Cup
+! width=80 |Community Shield
+! width=80 |Champions League
+! width=80 |TOTAL
+|-
+| 31 || align="left"|{{flagicon|BRA}} [[Ederson (footballer, born 1993)|Ederson]] || 20 || 4 || 1 || 0 || 3 || '''28'''
+|-
+| 49 || align="left"|{{flagicon|KVX}} [[Arijanet Muric]] || 0 || 0 || 4 || 0 || 0 || '''4'''
+|-
+| 1 || align="left"|{{flagicon|CHL}} [[Claudio Bravo]] || 0 || 0 || 0 || 1 || 0 || '''1'''
+|- class="sortbottom"
+| colspan="2"|'''Totals'''||'''20'''|| '''4''' || '''5''' || '''1''' ||'''3''' || '''33'''
+|}
+
+==Awards==
+{{col-begin-small}}
+{{col-2}}
+
+===Etihad Player of the Month===
+{| class="wikitable"
+! style="width:120px;" |Month
+! style="width:160px;" |Player
+|-
+| style="text-align:center;" |August<ref>{{cite news |last=Clayton |first=David |date=6 September 2018 |title=Agüero voted August Etihad Player of the Month |url=https://www.mancity.com/news/first-team/first-team-news/2018/september/manchester-city-etihad-player-of-the-month-winner-august |publisher=Manchester City |access-date=11 September 2018}}</ref>
+| rowspan="2" style="text-align:center;" |{{flagicon|ARG}} [[Sergio Agüero]]
+|-
+| style="text-align:center;" |September<ref>{{cite news |last=Clayton |first=David |date=12 October 2018 |title=Agüero voted September Etihad Player of the Month |url=https://www.mancity.com/news/first-team/first-team-news/2018/october/manchester-city-etihad-player-of-the-month-september-sergio-aguero |publisher=Manchester City |access-date=13 October 2018}}</ref>
+|-
+| style="text-align:center;" |October<ref>{{cite news |last=Clayton |first=David |date=6 November 2018 |title=Mahrez voted October Etihad Player of the Month |url=https://www.mancity.com/news/first-team/first-team-news/2018/november/mahrez-voted-etihad-player-of-the-month-for-october |publisher=Manchester City |access-date=8 November 2018}}</ref>
+| style="text-align:center;" |{{flagicon|ALG}} [[Riyad Mahrez]]
+|-
+| style="text-align:center;" |November<ref>{{cite news |last=Clayton |first=David |date=12 December 2018 |title=ETIHAD PLAYER OF THE MONTH: RAHEEM STERLING |url=https://www.mancity.com/citytv/features/2018/december/raheem-sterling-etihad-player-of-the-month-november |publisher=Manchester City |access-date=12 December 2018}}</ref>
+| style="text-align:center;" |{{flagicon|ENG}} [[Raheem Sterling]]
+|-
+| style="text-align:center;" |December<ref>{{cite news |last=Clayton |first=David |date=12 January 2019 |title=BERNARDO VOTED ETIHAD PLAYER OF THE MONTH |url=https://www.mancity.com/news/first-team/first-team-news/2019/january/manchester-city-etihad-player-of-the-month-winner |publisher=Manchester City |access-date=12 January 2019}}</ref>
+| style="text-align:center;" |{{flagicon|POR}} [[Bernardo Silva]]
+|-
+| style="text-align:center;" |January<ref>{{cite news |last=Clayton |first=David |date=11 February 2019 |title=SERGIO VOTED ETIHAD PLAYER OF THE MONTH |url=https://twitter.com/ManCity/status/1094959240328794112 |publisher=Manchester City |access-date=11 February 2019}}</ref>
+| style="text-align:center;" |{{flagicon|ARG}} [[Sergio Agüero]]
+|-
+| style="text-align:center;" |February<ref>{{cite news |last=Clayton |first=David |date=10 March 2019 |title=ZINCHENKO VOTED FEB ETIHAD PLAYER OF THE MONTH|url=https://www.mancity.com/news/first-team/first-team-news/2019/march/olkesandr-zinchenko-voted-man-city-etihad-player-of-the-month |publisher=Manchester City |access-date=11 February 2019}}</ref>
+| style="text-align:center;" |{{flagicon|UKR}} [[Oleksandr Zinchenko (footballer)|Oleksandr Zinchenko]]
+|-
+| style="text-align:center;" |March<ref>{{cite news |last=Clayton |first=David |date=9 April 2019 |title=BERNARDO VOTED ETIHAD PLAYER OF THE MONTH |url=https://www.mancity.com/news/first-team/first-team-news/2019/april/man-city-bernardo-silva-etihad-player-of-the-month-march |publisher=Manchester City |access-date=9 April 2019}}</ref>
+| style="text-align:center;" |{{flagicon|POR}} [[Bernardo Silva]]
+|}
+
+===[[Premier League Manager of the Month]]===
+{| class="wikitable"
+! style="width:120px;" |Month
+! style="width:150px;" |Manager
+|-
+| style="text-align:center;" |February<ref>{{cite news |title=Guardiola wins February 2019 Barclays Manager of the Month |url=https://www.premierleague.com/news/1088127 |access-date=8 March 2019 |publisher=Premier League |date=8 March 2019}}</ref>
+| style="text-align:center;" rowspan="2" |{{flagicon|ESP}} [[Pep Guardiola]]
+|-
+| style="text-align:center;" |April<ref>{{cite news |title=Guardiola named Barclays Manager of the Month |url=https://www.premierleague.com/news/1205988 |access-date=7 May 2019 |publisher=Premier League |date=7 March 2019}}</ref>
+|}
+
+===[[Premier League Player of the Month]]===
+{| class="wikitable"
+! style="width:120px;" |Month
+! style="width:150px;" |Player
+|-
+| style="text-align:center;" |November<ref>{{cite news |date=12 December 2018 |title=Raheem Sterling: Man City forward named Premier League player of the month|url=https://www.bbc.co.uk/sport/football/46541899 |publisher=BBC Sport |access-date=12 December 2018}}</ref>
+| style="text-align:center;" |{{flagicon|ENG}} [[Raheem Sterling]]
+|-
+| style="text-align:center;" |February<ref>{{cite news |title=Aguero voted EA SPORTS Player of the Month |publisher=Premier League |url=https://www.premierleague.com/news/1088134 |date=8 March 2019 |access-date=8 March 2019}}</ref>
+| style="text-align:center;" |{{flagicon|ARG}} [[Sergio Agüero]]
+|}
+
+===[[Alan Hardaker Trophy]]===
+Awarded to the player of the match in the [[2019 EFL Cup Final|EFL Cup final]].
+{| class="wikitable"
+! style="width:120px;" |Year
+! style="width:150px;" |Player
+|-
+| style="text-align:center;" |2019
+| style="text-align:center;" |{{flagicon|POR}} [[Bernardo Silva]]
+|}
+
+===[[PFA Team of the Year]]===
+{| class="wikitable"
+! style="width:120px;" |Position
+! style="width:160px;" |Player<ref>{{cite web |title=PFA Premier League Team Of The Year |url=https://static.thepfa.com/news/2019/4/25/premier-league-team-of-the-year |website=PFA.com |access-date=21 May 2019}}</ref>
+|-
+| style="text-align:center;" |GK
+| style="text-align:center;" |{{flagicon|BRA}} [[Ederson (footballer, born 1993)|Ederson]]
+|-
+| style="text-align:center;" |DF
+| style="text-align:center;" |{{flagicon|FRA}} [[Aymeric Laporte]]
+|-
+| style="text-align:center;" |MF
+| style="text-align:center;" |{{flagicon|POR}} [[Bernardo Silva]]
+|-
+| style="text-align:center;" |MF
+| style="text-align:center;" |{{flagicon|BRA}} [[Fernandinho (footballer, born May 1985)|Fernandinho]]
+|-
+| style="text-align:center;" |FW
+| style="text-align:center;" |{{flagicon|ENG}} [[Raheem Sterling]]
+|-
+| style="text-align:center;" |FW
+| style="text-align:center;" |{{flagicon|ARG}} [[Sergio Agüero]]
+|}
+{{col-2}}
+
+===[[PFA Young Player of the Year]]===
+{| class="wikitable"
+! style="width:120px;" |Year
+! style="width:160px;" |Player
+|-
+| style="text-align:center;" |2019<ref>{{cite web |title=PFA Awards |url=https://www.thepfa.com/thepfa/pfa-awards |website=PFA.com |access-date=21 May 2019}}</ref>
+| style="text-align:center;" |{{flagicon|ENG}} [[Raheem Sterling]]
+|}
+
+===[[FWA Player of the Year]]===
+{| class="wikitable"
+! style="width:120px;" |Year
+! style="width:160px;" |Player
+|-
+| style="text-align:center;" |2019<ref>{{Cite web|url=http://www.theguardian.com/football/2019/apr/29/raheem-sterling-voted-footballer-of-year-football-writers-association|title=Raheem Sterling and Nikita Parris voted FWA Footballers of the Year|date=29 April 2019|website=The Guardian}}</ref>
+| style="text-align:center;" |{{flagicon|ENG}} [[Raheem Sterling]]
+|}
+
+===[[Premier League Manager of the Season]]===
+{| class="wikitable"
+! style="width:120px;" |Year
+! style="width:160px;" |Manager
+|-
+| style="text-align:center;" |2019<ref>{{cite web |last1=Omnisport |title=Guardiola named Premier League Manager of the Season |url=https://uk.sports.yahoo.com/news/guardiola-named-premier-league-manager-234905501.html |website=yahoo.com |access-date=21 May 2019}}</ref>
+| style="text-align:center;" |{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+
+===[[List of Manchester City F.C. players#Player of the Year awards|Etihad Player of the Season]]===
+Manchester City's player of the season.
+{| class="wikitable"
+! style="width:120px;" |Season
+! style="width:150px;" |Player
+|-
+| style="text-align:center;" |2018–19<ref>{{cite web |title=Man City Player of the Season Bernardo Silva makes Champions League pledge to fans |url=https://uk.sports.yahoo.com/news/man-city-player-season-bernardo-212508001.html |website=yahoo.com |publisher=Goal.com |access-date=21 May 2019}}</ref>
+| style="text-align:center;" |{{flagicon|POR}} [[Bernardo Silva]]
+|}
+{{col-end}}
+
+==Transfers and loans==
+===Transfers in===
+{| class="wikitable" style="text-align:center"
+|-
+! style="width:120px"|Date from
+! style="width:70px"|Position
+! style="width:45px"|No.
+! style="width:170px"|Name
+! style="width:220px"|From club
+! style="width:120px"|Fee
+! style="width:175px"|Joining squad
+! style="width:45px"|Ref.
+|-
+| 1 July 2018 || MF || 82 || {{flagicon|ESP}} [[Adrián Bernabé]] || {{flagicon|ESP}} [[FC Barcelona B|Barcelona B]] || Free transfer || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{Cite web|url=https://www.manchestereveningnews.co.uk/sport/football/football-news/adrian-bernabe-man-city-wiki-15197988|title=Who is Adrian Bernabe? The Man City starlet in first-team squad|first=Joe|last=Bray|date=25 September 2018|website=Manchester Evening News}}</ref>
+|-
+| 2 July 2018 || FW || 96 || {{flagicon|ENG}} Ben Knight || {{flagicon|ENG}} [[Ipswich Town F.C.|Ipswich Town]] || £700,000 || Academy || <ref>{{cite news |title='Time to move on and continue to work even harder' – Knight thanks Ipswich after completing Manchester City move |url=http://www.eadt.co.uk/sport/manchester-city-buy-ipswich-town-s-ben-knight-1-5586566 |access-date=2 July 2018 |publisher=East Anglian Daily Times |date=2 July 2018 |archive-date=2 July 2018 |archive-url=https://web.archive.org/web/20180702175731/http://www.eadt.co.uk/sport/manchester-city-buy-ipswich-town-s-ben-knight-1-5586566 |url-status=dead }}</ref>
+|-
+| 10 July 2018 || MF || 26 || {{flagicon|ALG}} [[Riyad Mahrez]] || {{flagicon|ENG}} [[Leicester City F.C.|Leicester City]] || £60,000,000 || [[Manchester City F.C.|First team]] || <ref>{{cite news |title=City sign Riyad Mahrez from Leicester |url=https://www.mancity.com/news/first-team/first-team-news/2018/july/man-city-sign-riyad-mahrez-leicester |publisher=Manchester City |date=10 July 2018 |access-date=10 July 2018 |archive-url=https://web.archive.org/web/20180711022328/https://www.mancity.com/news/first-team/first-team-news/2018/july/man-city-sign-riyad-mahrez-leicester |archive-date=11 July 2018 |url-status=dead }}</ref>
+|-
+| 25 July 2018 || MF || 81 || {{flagicon|FRA}} [[Claudio Gomes]] || {{flagicon|FRA}} [[Paris Saint-Germain Youth Academy]] || Free transfer || Academy || <ref>{{cite news |title=Man City sign Claudio Gomes |url=https://www.mancity.com/news/first-team/first-team-news/2018/july/man-city-sign-claudio-gomes |access-date=25 July 2018 |publisher=Manchester City |archive-url=https://web.archive.org/web/20191212142833/https://www.mancity.com/news/first-team/first-team-news/2018/july/man-city-sign-claudio-gomes |archive-date=12 December 2019 |url-status=dead }}</ref>
+|-
+| 31 July 2018 || DF || 34 || {{flagicon|NED}} [[Philippe Sandler]] || {{flagicon|NED}} [[PEC Zwolle]] || £2,600,000 || First team || <ref>{{cite news |title=Man City sign Philippe Sandler |url=https://www.mancity.com/news/first-team/first-team-news/2018/july/man-city-sign-philippe-sandler |archive-url=https://web.archive.org/web/20180801003645/https://www.mancity.com/news/first-team/first-team-news/2018/july/man-city-sign-philippe-sandler |url-status=dead |archive-date=1 August 2018 |access-date=31 July 2018 |publisher=Manchester City |date=31 July 2018 }}</ref>
+|-
+| 9 August 2018 || MF || — || {{flagicon|AUS}} [[Daniel Arzani]] || {{flagicon|AUS}} [[Melbourne City F.C.|Melbourne City]] || Undisclosed || Academy || <ref>{{cite news |title=City sign Daniel Arzani from Melbourne |url=https://www.mancity.com/news/first-team/first-team-news/2018/august/man-city-sign-daniel-arzani |access-date=9 August 2018 |publisher=Manchester City |date=9 August 2018}}</ref>
+|-
+| 31 August 2018 || FW || 70 || {{flagicon|NLD}} Jayden Braaf || {{flagicon|NED}} [[Jong PSV]] || Free transfer || Academy || <ref>{{cite news |title=NEWS Manchester City beat Chelsea to the signing of PSV super-talent Jayden Braaf |url=https://www.mcfcwatch.com/2018/05/30/manchester-city-beat-chelsea-to-the-signing-of-psv-super-talent-jayden-braaf/ |access-date=31 May 2018 |publisher=City Watch |date=30 May 2018 |archive-date=13 June 2018 |archive-url=https://web.archive.org/web/20180613160410/https://www.mcfcwatch.com/2018/05/30/manchester-city-beat-chelsea-to-the-signing-of-psv-super-talent-jayden-braaf/ |url-status=dead }}</ref>
+|-
+| 14 January 2019 || DF || — || {{flagicon|JPN}} [[Ko Itakura]] || {{flagicon|JPN}} [[Kawasaki Frontale]] || Undisclosed || Academy || <ref name="Itakura">{{cite news |title=Akkoord FC Groningen met Manchester City over Japanner Itakura|language=nl|url=https://www.fcgroningen.nl/nieuws/akkoord-fc-groningen-met-manchester-city-over-japanner-itakura/2 |access-date=14 January 2019 |publisher=FC Groningen |date=14 January 2019}}</ref>
+|-
+|31 January 2019 || MF || — || {{flagicon|CRO}} [[Ante Palaversa]] || {{flagicon|CRO}} [[HNK Hajduk Split|Hajduk Split]] || Undisclosed || Academy || <ref name="Palaversa">{{cite news |title=Palaversa signs for Manchester City, remains on loan to Hajduk|language=hr|url=https://hajduk.hr/vijest/palaversa-potpisao-za-manchester-city-ostaje-na-posudbi-u-hajduku-/11188|access-date=31 January 2019 |publisher=HNK Hajduk Split |date=31 January 2019}}</ref>
+|-
+|31 January 2019 || GK || — || {{flagicon|IRE}} [[Gavin Bazunu]] || {{flagicon|IRE}} [[Shamrock Rovers F.C.|Shamrock Rovers]] || £420,000 || Academy || <ref>{{cite news|title=Official: Gavin Bazunu joins Manchester City and has already made his debut|url=https://www.mcfcwatch.com/2019/02/09/official-gavin-bazunu-joins-manchester-city-and-has-already-made-his-debut/|access-date=11 February 2019|publisher=CityWatch|date=9 February 2019|archive-date=6 April 2019|archive-url=https://web.archive.org/web/20190406182139/https://www.mcfcwatch.com/2019/02/09/official-gavin-bazunu-joins-manchester-city-and-has-already-made-his-debut/|url-status=dead}}</ref>
+|-
+! colspan="5" | Total
+! colspan="3;color:red" | {{Loss}} £63,720,000
+|}
+
+===Transfers out===
+{| class="wikitable" style="text-align:center"
+|-
+! style="width:120px"|Date from
+! style="width:70px"|Position
+! style="width:45px"|No.
+! style="width:180px"|Name
+! style="width:220px"|To club
+! style="width:120px"|Fee
+! style="width:175px"|From squad
+! style="width:45px"|Ref.
+|-
+| 15 June 2018 || DF || 69 ||{{flagicon|ESP}} [[Angeliño]] || {{flagicon|NED}} [[PSV Eindhoven|PSV]] || £5,000,000 || First team || <ref>{{cite news |title=Angelino joins PSV Eindhoven |url=https://www.mancity.com/news/first-team/first-team-news/2018/june/angelino-joins-psv-eindhoven |access-date=15 June 2018 |publisher=Manchester City |date=15 June 2018}}</ref>
+|-
+| 26 June 2018 || DF || 56 ||{{flagicon|ENG}} [[Ashley Smith-Brown]] || {{flagicon|ENG}} [[Plymouth Argyle F.C.|Plymouth Argyle]] || Undisclosed || Academy || <ref>{{cite news |title=Ash Checks In |url=https://www.pafc.co.uk/news/2018/june/aws-intro/ |access-date=26 June 2018 |publisher=Plymouth Argyle |date=26 June 2018}}</ref>
+|-
+| 1 July 2018 || MF || 84 || {{flagicon|ENG}} [[Sadou Diallo]] || {{flagicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] || Released || Academy || <ref name=releasedplayers/><ref>{{cite news |title=Wolves secure Diallo signing |url=https://www.wolves.co.uk/news/academy/20180830-wolves-secure-diallo-signing/ |access-date=31 August 2018 |publisher=Wolverhampton Wanderers |date=31 August 2018}}</ref>
+|-
+| 1 July 2018 || FW || 44 || {{flagicon|NED}} [[Javairô Dilrosun]] || {{flagicon|GER}} [[Hertha BSC]] || Free transfer || Academy || <ref>{{cite news |title=Hertha Berlin sign Dutch teenager Javairo Dilrosun from Manchester City |url=https://www.bundesliga.com/en/news/Bundesliga/hertha-berlin-manchester-city-javairo-dilrosun-signing-480167.jsp |access-date=22 May 2018 |publisher=Bundesliga |date=5 May 2018 |archive-date=22 May 2018 |archive-url=https://web.archive.org/web/20180522112213/https://www.bundesliga.com/en/news/Bundesliga/hertha-berlin-manchester-city-javairo-dilrosun-signing-480167.jsp |url-status=dead }}</ref>
+|-
+| 1 July 2018 || FW || — || {{flagicon|ENG}} Bobby Duncan || {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]] || Released || Academy || <ref>{{cite news |title=Liverpool sign Manchester City's England youth star Bobby Duncan |url=https://www.telegraph.co.uk/football/2018/06/27/liverpool-sign-manchester-citys-england-youth-star-bobby-duncan/ |author=Chris Bascombe |access-date=28 June 2018 |publisher=The Telegraph |date=27 June 2018}}</ref>
+|-
+| 1 July 2018 || DF || 45 || {{flagicon|ENG}} [[Demeaco Duhaney]] || {{flagicon|ENG}} [[Huddersfield Town A.F.C.|Huddersfield Town]] || Released || Academy || <ref name=releasedplayers>{{cite news |title=Manchester City release 7 players |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-release-toure-news-14762747 |access-date=8 June 2018 |publisher=Manchester Evening News |date=8 June 2018}}</ref><ref>{{cite news |title=ENG U20 Defender Demeaco Duhaney |url=https://www.htafc.com/news/2018/august/signing-eng-u20-defender-demeaco-duhaney/ |access-date=17 August 2018 |publisher=Huddersfield Town |date=17 August 2018}}</ref>
+|-
+| 1 July 2018 || DF || — || {{flagicon|ENG}} Harold Essien || {{flagicon|ENG}} [[Middlesbrough F.C.|Middlesbrough]] || Undisclosed || Academy || <ref>{{cite news |title=Middlesbrough complete signing of young defensive duo |url=http://www.thenorthernecho.co.uk/sport/16325832.middlesbrough-complete-signing-of-young-defensive-duo/ |access-date=30 July 2018 |publisher=[[The Northern Echo]] |date=1 July 2018}}</ref>
+|-
+| 1 July 2018 || DF || 50 ||{{flagicon|ESP}} [[Pablo Maffeo]] || {{flagicon|GER}} [[VfB Stuttgart]] || £9,000,000 || First team || <ref>{{cite news |title=Pablo Maffeo to join VfB Stuttgart |url=https://www.mancity.com/news/first-team/first-team-news/2018/may/man-city-girona-stuttgart-pablo-maffeo-transfer |access-date=14 May 2018 |publisher=Manchester City |date=14 May 2018}}</ref>
+|-
+| 1 July 2018 || MF || — || {{flagicon|GHA}} [[Divine Naah]] || {{flagicon|BEL}} [[A.F.C. Tubize|Tubize]] || Free transfer || Academy || <ref>{{cite news |title=End of contract with Manchester City ... and now on final basis to AFC Tubize |url=https://www.proximus11.be/nl/proximus-league/nieuws/artikel/1866678/einde-contract-bij-manchester-city-en-nu-op-definitieve-basis-naar-afc-tubize |access-date=27 June 2018 |language=nl |publisher=Proximus11 |date=27 June 2018}}</ref>
+|-
+| 1 July 2018 || MF || 85 || {{flagicon|ENG}} [[Will Patching]] || {{flagicon|ENG}} [[Notts County F.C.|Notts County]] || Free transfer || Academy || <ref>{{cite news |title=Will Patching: Notts County to sign Man City midfielder on 1 July |url=https://www.bbc.co.uk/sport/football/44357622 |access-date=2 June 2018 |publisher=BBC Sport |date=2 June 2018}}</ref>
+|-
+| 1 July 2018 || DF || 71 || {{flagicon|ESP}} Erik Sarmiento || {{flagicon|ESP}} [[RCD Espanyol|Espanyol]] || Released || Academy || <ref name=releasedplayers/><ref>{{cite news |title=Manchester City Youngster Returns To Spanish Club after recent release |url=https://www.mcfcwatch.com/2018/07/13/manchester-city-youngster-returns-to-spanish-club-after-recent-release/ |access-date=16 July 2018 |publisher=City Watch |date=13 July 2018 |archive-date=16 August 2018 |archive-url=https://web.archive.org/web/20180816154524/https://www.mcfcwatch.com/2018/07/13/manchester-city-youngster-returns-to-spanish-club-after-recent-release/ |url-status=dead }}</ref>
+|-
+| 1 July 2018 || GK || 88 || {{flagicon|POL}} [[Paweł Sokół]] || {{flagicon|POL}} [[Korona Kielce]] || Free transfer || Academy || <ref>{{cite news |title=Manchester City goalkeeper Pawel Sokol leaves club |url=https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-city-transfer-gossip-rumours-14709505 |access-date=28 May 2018 |publisher=Manchester Evening News |date=26 May 2018}}</ref>
+|-
+| 1 July 2018 || MF || 42 ||{{flagicon|CIV}} [[Yaya Touré]] || {{flagicon|GRE}} [[Olympiacos F.C.|Olympiacos]] || Released || First team || <ref>{{cite news |title=Toure to leave Man City at end of season |url=https://www.bbc.co.uk/sport/football/44005863 |access-date=10 May 2018 |publisher=BBC Sport |date=4 May 2018}}</ref><ref>{{cite news |title=Yaya Toure 'cannot wait' to help Olympiakos win trophies |url=http://www.skysports.com/football/news/11679/11489254/yaya-toure-cannot-wait-to-help-olympiakos-win-trophies |access-date=3 September 2018 |publisher=Sky Sports |date=2 September 2018}}</ref>
+|-
+| 1 July 2018 || MF || 83 || {{flagicon|ENG}} Marcus Wood || {{flagicon|ENG}} [[Bolton Wanderers F.C.|Bolton Wanderers]] || Released || Academy || <ref name=releasedplayers/><ref>{{cite news |title=Bolton Wanderers sign Yoan Zouma and Marcus Wood |url=https://www.bwfc.co.uk/news/2018/august/bolton-wanderers-sign-yoan-zouma-and-marcus-wood/ |access-date=13 August 2018 |publisher=Bolton Wanderers |date=13 August 2018}}</ref>
+|-
+| 2 July 2018 || FW || — || {{flagicon|NGA}} [[Olarenwaju Kayode]] || {{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]] || £3,000,000 || Academy || <ref>{{cite news |title=Усиление будет |url=https://shakhtar.com/en/news/2018/june/8_news/8_sap/ |quote="Kayode will continue to play in Shakhtar. We redeemed his transfer from Manchester City and signed a five-year contract" |access-date=8 June 2018 |publisher=Shakhtar Donetsk |date=8 June 2018 |language=uk}}</ref>
+|-
+| 2 July 2018 || MF || 82 || {{flagicon|ENG}} [[Jacob Davenport]] || {{flagicon|ENG}} [[Blackburn Rovers F.C.|Blackburn Rovers]] || Undisclosed || Academy || <ref>{{cite news |title=Jacob joins! |url=https://www.rovers.co.uk/news/2018/july/jacob-joins/ |access-date=2 July 2018 |publisher=Blackburn Rovers |date=2 July 2018}}</ref>
+|-
+| 10 July 2018 || GK || 54 || {{flagicon|ENG}} [[Angus Gunn]] || {{flagicon|ENG}} [[Southampton F.C.|Southampton]] || £13,500,000 || First team || <ref>{{cite news |title=Angus Gunn: Southampton complete signing of £13.5m deal for Man City goalkeeper |url=https://www.bbc.co.uk/sport/football/44771592 |access-date=10 July 2018 |publisher=BBC Sport |date=10 July 2018}}</ref>
+|-
+| 12 July 2018 || MF || — || {{flagicon|ENG}} Pascal Kpohomouh || {{flagicon|ENG}} [[Southampton F.C.|Southampton]] || Undisclosed || Academy || <ref name="Saints sign young duo"/>
+|-
+| 12 July 2018 || FW || — || {{flagicon|ENG}} Benni Smales-Braithwaite || {{flagicon|ENG}} [[Southampton F.C.|Southampton]] || Undisclosed || Academy || <ref name="Saints sign young duo">{{cite news |title=Fifteen youngsters sign scholarships with Saints |url=https://southamptonfc.com/news/2018-07-12/scholar-signings-southampton-football-club-under-18s |access-date=30 July 2018 |publisher=Southampton F.C. |date=12 July 2018}}</ref>
+|-
+| 17 July 2018 || MF || 70 || {{flagicon|ENG}} [[Isaac Buckley-Ricketts]] || {{flagicon|ENG}} [[Peterborough United F.C.|Peterborough United]] || Undisclosed || Academy || <ref>{{cite news |title=Peterborough United complete the signing of a 'special talent' |url=https://www.peterboroughtoday.co.uk/sport/football/posh/breaking-news-peterborough-united-complete-the-signing-of-a-special-talent-1-8570953 |access-date=17 July 2018 |publisher=Peterborough Today |date=17 July 2018}}</ref>
+|-
+| 18 July 2018 || MF || 78 || {{flagicon|NED}} [[Rodney Kongolo]] || {{flagicon|NED}} [[SC Heerenveen|Heerenveen]] || £750,000 || Academy || <ref>{{cite news |title=sc Heerenveen strengthens with Rodney Kongolo |url=https://www.sc-heerenveen.nl/nieuws/sc-heerenveen-versterkt-zich-met-rodney-kongolo/10 |language=nl |access-date=18 July 2018 |publisher=SC Heerenveen |date=18 July 2018 |archive-date=18 July 2018 |archive-url=https://web.archive.org/web/20180718204919/https://www.sc-heerenveen.nl/nieuws/sc-heerenveen-versterkt-zich-met-rodney-kongolo/10 |url-status=dead }}</ref>
+|-
+| 18 July 2018 || MF || — || {{flagicon|GHA}} [[Yaw Yeboah]] || {{flagicon|ESP}} [[CD Numancia|Numancia]] || Undisclosed || Academy || <ref>{{cite news |title=Ghanaian winger becomes the latest to join Manchester City exodus with Spanish transfer |url=https://www.mcfcwatch.com/2018/07/18/ghanaian-winger-becomes-the-latest-to-join-manchester-city-exodus-with-spanish-transfer/ |access-date=18 July 2018 |publisher=City Watch |date=18 July 2018 |archive-date=18 July 2018 |archive-url=https://web.archive.org/web/20180718121945/https://www.mcfcwatch.com/2018/07/18/ghanaian-winger-becomes-the-latest-to-join-manchester-city-exodus-with-spanish-transfer/ |url-status=dead }}</ref>
+|-
+| 31 July 2018 || DF || 86 || {{flagicon|ENG}} [[Ash Kigbu]] || {{flagicon|AUT}} [[Wolfsberger AC]] || Undisclosed || Academy || <ref>{{cite news |title=WAC brings England Kigbu for central defense |url=https://derstandard.at/2000084475862/Wolfsberg-holt-Englaender-Kigbu-fuer-Innenverteidigung |language=de |access-date=31 July 2018 |publisher=[[Der Standard]] |date=31 July 2018}}</ref>
+|-
+| 31 July 2018 || MF || 59 || {{flagicon|KVX}} [[Bersant Celina]] || {{flagicon|WAL}} [[Swansea City A.F.C.|Swansea City]] || £3,000,000 || Academy || <ref>{{cite news |title=Celina joins Swans |url=https://www.swanseacity.com/news/celina-joins-swans |access-date=31 July 2018 |publisher=Swansea City |date=31 July 2018}}</ref>
+|-
+| 2 August 2018 || MF || 52 || {{flagicon|ENG}} [[Kean Bryan]] || {{flagicon|ENG}} [[Sheffield United F.C.|Sheffield United]] || Free transfer || Academy || <ref>{{cite news |title=Bryan signs |url=https://www.sufc.co.uk/news/2018/august/kean-bryan-signs/ |access-date=2 August 2018 |publisher=Sheffield United |date=2 August 2018}}</ref>
+|-
+| 4 August 2018 || MF || — || {{flagicon|ENG}} Reece Devine || {{flagicon|ENG}} [[Manchester United F.C.|Manchester United]] || Undisclosed || Academy || <ref>{{cite news |title=Manchester United complete deal for Manchester City youngster Reece Devine |url=https://metro.co.uk/2018/08/04/manchester-united-complete-deal-for-manchester-city-youngster-reece-devine-7796512/ |access-date=4 August 2018 |publisher=[[Metro (British newspaper)|Metro]] |date=4 August 2018}}</ref>
+|-
+| 7 August 2018 || GK || 13 || {{flagicon|ENG}} [[Joe Hart]] || {{flagicon|ENG}} [[Burnley F.C.|Burnley]] || £3,500,000 || First team || <ref>{{cite news |title=Joe Hart Joins Burnley |url=https://www.mancity.com/news/first-team/first-team-news/2018/august/man-city-joe-hart-joins-burnley |access-date=7 August 2018 |publisher=Manchester City |date=7 August 2018}}</ref>
+|-
+| 21 August 2018 || DF || 28 || {{flagicon|BEL}} [[Jason Denayer]] || {{flagicon|FRA}} [[Olympique Lyonnais|Lyon]] || £5,800,000 || First team || <ref>{{cite news |title=Jason Denayer joins Lyon |url=https://www.mancity.com/news/first-team/first-team-news/2018/august/man-city-jason-denayer-lyon-transfer-news |access-date=21 August 2018 |publisher=Manchester City |date=21 August 2018}}</ref>
+|-
+| 31 August 2018 || MF || 45 || {{flagicon|NGA}} [[Chidiebere Nwakali]] || {{flagicon|POL}} [[Raków Częstochowa|Raków]] || Undisclosed || Academy || <ref>{{cite news |title=Official: Chidiebere Nwakali ends four-year stay at Manchester City with move to Poland |url=https://www.mcfcwatch.com/2018/08/31/official-chidiebere-nwakali-ends-four-year-stay-at-manchester-city-with-move-to-poland/ |access-date=3 September 2018 |publisher=City Watch |date=31 August 2018 |archive-date=3 September 2018 |archive-url=https://web.archive.org/web/20180903150848/https://www.mcfcwatch.com/2018/08/31/official-chidiebere-nwakali-ends-four-year-stay-at-manchester-city-with-move-to-poland/ |url-status=dead }}</ref>
+|-
+| 6 January 2019 || MF || 55 || {{flagicon|ESP}} [[Brahim Díaz|Brahim]] || {{flagicon|ESP}} [[Real Madrid CF|Real Madrid]] || £15,500,000 || First team || <ref>{{cite news |last1=Jackson |first1=Jamie |title=Brahim Díaz on verge of joining Real Madrid from Manchester City for £15.5m |url=https://www.theguardian.com/football/2019/jan/05/brahim-diaz-real-madrid-manchester-city-transfer-news |work=[[The Guardian]] |date=5 January 2019 |access-date=6 January 2019}}</ref>
+|-
+| 18 January 2019 || DF ||79|| {{flagicon|ENG}} [[Edward Francis (footballer, born 1999)|Edward Francis]] || {{flagicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] || Undisclosed || Academy || <ref>{{cite web |title=Francis joins Wolves from Man City |url=https://www.wolves.co.uk/news/under-23/20190118-francis-joins-wolves-from-man-city/ |publisher=[[Wolverhampton Wanderers F.C.]] |access-date=19 January 2019}}</ref>
+|-
+| 29 January 2019 || FW || 84 || {{flagicon|WAL}} [[Rabbi Matondo]] || {{flagicon|GER}} [[FC Schalke 04|Schalke 04]] || £11,000,000 || Academy || <ref>{{cite web |title=Rabbi Matondo completes £11million move to Schalke |date=30 January 2019 |url=https://talksport.com/football/484971/manchester-city-transfer-news-rabbi-matondo-11m-move-schalke/ |publisher=[[Talksport]] |access-date=30 January 2019}}</ref>
+|-
+| 31 January 2019 || DF || —  || {{flagicon|IRE}} Ryan Corrigan || {{flagicon|ENG}} [[Stoke City F.C.|Stoke City]] || Undisclosed || Academy || <ref>{{cite web |title=Corrigan checks-in from Manchester City |url=https://www.stokecityfc.com/news/teenage-defender-signs |publisher= Stoke City |access-date=1 February 2019}}</ref>
+|-
+| 19 March 2019 || GK || 36  || {{flagicon|ENG}} [[Curtis Anderson (footballer)|Curtis Anderson]] || {{flagicon|USA}} [[Charlotte Independence]] || Undisclosed || Academy || <ref>{{cite web |title=U-17 World Cup Winner, Manchester City Product Sings With Independence |url=https://www.charlotteindependence.com/news_article/show/1005557 |publisher=Charlotte Independence |access-date=19 March 2019 |archive-date=10 September 2020 |archive-url=https://web.archive.org/web/20200910220107/https://www.charlotteindependence.com/news_article/show/1005557 |url-status=dead }}</ref>
+|-
+! colspan="5" | Total
+! colspan="3;color:green" | {{Gain}} £70,050,000
+|}
+{{notelist|2}}
+
+===Loans out===
+{| class="wikitable" style="text-align:center"
+|-
+! style="width:120px"|Date from
+! style="width:120px"|Date to
+! style="width:70px"|Position
+! style="width:45px"|No.
+! style="width:170px"|Name
+! style="width:220px"|To club
+! style="width:175px"|From squad
+! style="width:45px"|Ref.
+|-
+|14 February 2017|| 31 December 2018|| MF || — || {{flagicon|VEN}} [[Yangel Herrera]] || {{flagicon|USA}} [[New York City FC]] || Academy || <ref>{{cite news |title=Revealed: Where Manchester City starlet and Lyon target Yangel Herrera will play in 2018 |url=https://www.mcfcwatch.com/2017/11/28/revealed-where-manchester-city-starlet-and-lyon-target-yangel-herrera-will-play-in-2018/ |date=28 November 2017 |access-date=July 26, 2018 |publisher=City Watch |archive-date=26 July 2018 |archive-url=https://web.archive.org/web/20180726203126/https://www.mcfcwatch.com/2017/11/28/revealed-where-manchester-city-starlet-and-lyon-target-yangel-herrera-will-play-in-2018/ |url-status=dead }}</ref>
+|-
+|11 August 2017 || 9 January 2019{{efn|Ivan Ilić's planned 2 season-long loan to Red Star Belgrade was ended on 9 January.<ref name="IIlic">{{cite web |title=IZ SITIJA U ZEMUN: Zvezdin đak mora na kaljenje! |url=https://www.espreso.rs/sport/fudbal/336177/iz-sitija-u-zemun-zvezdin-djak-mora-na-kaljenje |website=Esperso |access-date=22 January 2019 |language=sr}}</ref>}}|| MF || — || {{flagicon|SRB}} [[Ivan Ilić (footballer, born 2001)|Ivan Ilić]] || {{flagicon|SRB}} [[Red Star Belgrade]] || Academy || <ref>{{cite news |last1=O'Rourke |first1=Peter |title=Man City to sign brothers Luka, Ivan Ilic from Red Star Belgrade – sources |url=http://www.espn.co.uk/football/soccer-transfers/story/3159149/manchester-city-to-sign-brothers-luka-ivan-ilic-from-red-star-belgrade-sources |publisher=[[ESPN]] |access-date=2 July 2018}}</ref>
+|-
+|21 August 2017 || 9 January 2019{{efn|Antuna's planned 2 season-long loan to FC Gronigan was ended on 9 January.<ref>{{cite news |title=Manchester City winger sent back to the Etihad six months early by loan club |url=https://www.mcfcwatch.com/2019/01/09/manchester-city-winger-sent-back-to-the-etihad-six-months-early-by-loan-club/ |website=City Watch |date=9 January 2019 |access-date=10 January 2019 |archive-date=14 April 2019 |archive-url=https://web.archive.org/web/20190414213037/https://www.mcfcwatch.com/2019/01/09/manchester-city-winger-sent-back-to-the-etihad-six-months-early-by-loan-club/ |url-status=dead }}</ref>}}  || MF || — || {{flagicon|MEX}} [[Uriel Antuna]] || {{flagicon|NED}} [[FC Groningen|Groningen]] || Academy || <ref>{{cite news |url=https://www.mcfcwatch.com/2017/08/08/dutch-side-fc-groningen-sign-manchester-city-youngster-on-two-year-loan-deal/ |title=Dutch side FC Groningen sign Manchester City youngster on two-year loan deal |publisher=City Watch |date=8 August 2017 |access-date=9 August 2017 |archive-date=7 November 2017 |archive-url=https://web.archive.org/web/20171107003048/https://www.mcfcwatch.com/2017/08/08/dutch-side-fc-groningen-sign-manchester-city-youngster-on-two-year-loan-deal/ |url-status=dead }}</ref>
+|-
+|16 January 2018 || 31 December 2018 || FW || 29 || {{flagicon|COL}} [[Marlos Moreno]] || {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] || First team || <ref>{{cite news |title=Manchester City forward Marlos Moreno joins Flamengo on loan |url=http://www.skysports.com/football/news/11679/11210637/manchester-city-forward-marlos-moreno-joins-flamengo-on-loan |date=16 January 2018 |access-date=27 July 2018 |publisher=[[Sky Sports]]}}</ref>
+|-
+|1 July 2018 || 1 January 2019{{efn|Cáceres's planned season-long loan to Melbourne City was ended on 1 January.<ref>{{cite news |title=Anthony Caceres Loan Ends |url=https://www.melbournecityfc.com.au/news/anthony-caceres-loan-ends |website=Melbourne City F.C. |date=1 January 2019 |access-date=1 January 2019}}</ref>}} || MF || — || {{flagicon|AUS}} [[Anthony Cáceres]] || {{flagicon|AUS}} [[Melbourne City FC|Melbourne City]] || Academy || <ref>{{cite news |title=Melbourne City sign Lachlan Wales, Osama Malik and Anthony Caceres |url=https://www.melbournecityfc.com.au/news/melbourne-city-sign-lachlan-wales-osama-malik-and-anthony-caceres |publisher=Melbourne City F.C. |access-date=24 June 2018}}</ref>
+|-
+|1 July 2018 || 30 June 2019 || DF || — || {{flagicon|ESP}} [[Pablo Marí]] || {{flagicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]] || Academy || <ref>{{cite news |title=Pablo Marí, new player of Deportivo |url=https://www.rcdeportivo.es/noticia/pablo-mari-nuevo-jugador-del-deportivo |publisher=Deportivo de La Coruña |language=es |access-date=1 July 2018}}</ref>
+|-
+|3 July 2018 || 30 June 2019 || MF || 65 || {{flagicon|WAL}} [[Matthew Smith (footballer, born 1999)|Matthew Smith]] || {{flagicon|NED}} [[FC Twente|Twente]] || Academy || <ref>{{cite news |title=FC Twente loans Matthew Smith from Manchester City |url=https://www.fctwente.nl/club/nieuws/fc-twente-huurt-matthew-smith-van-manchester-city |publisher=FC Twente |language=nl |access-date=3 July 2018 |archive-date=3 July 2018 |archive-url=https://web.archive.org/web/20180703190920/https://www.fctwente.nl/club/nieuws/fc-twente-huurt-matthew-smith-van-manchester-city |url-status=dead }}</ref>
+|-
+|4 July 2018 || 18 January 2019{{efn|Ed Francis's planned season long loan to Almere City was ended on 18 January when he was sold to Wolverhampton Wanderers.<ref>{{cite web |title=Francis joins Wolves from Manchester City |url=https://www.wolves.co.uk/news/under-23/20190118-francis-joins-wolves-from-man-city/# |website=Wolves.co.uk |access-date=20 January 2019}}</ref>}} || DF || 79 || {{flagicon|ENG}} [[Edward Francis (footballer, born 1999)|Edward Francis]] || {{flagicon|NED}} [[Almere City FC|Almere City]] || Academy || <ref>{{cite news |title=Almere City FC hires Edward Francis from Manchester City |url=http://almerecity.nl/ac_content_v2/nieuws/detail_sectie/nieuws/9034/almere-city-fc-huurt-edward-francis-van-manchester-city |publisher=Almere City |language=nl |access-date=4 July 2018}}</ref>
+|-
+|5 July 2018 || 30 June 2019 || MF || — || {{flagicon|AUS}} [[Luke Brattan]] || {{flagicon|AUS}} Melbourne City || Academy || <ref>{{cite news |title=Luke Brattan signs one-year contract extension |url=https://www.melbournecityfc.com.au/news/luke-brattan-signs-one-year-contract-extension |publisher=Melbourne City F.C. |access-date=5 July 2018}}</ref>
+|-
+|7 July 2018 || 30 June 2019 || MF || 76 || {{flagicon|ESP}} [[Manu García (footballer, born 1998)|Manu García]] || {{flagicon|FRA}} [[Toulouse FC|Toulouse]] || First team || <ref>{{cite news |title=Manu García, new purple |url=http://www.tfc.info/manu-garcia-nouveau-violet |publisher=Toulouse F.C. |language=fr |access-date=7 July 2018 |archive-date=16 December 2018 |archive-url=https://web.archive.org/web/20181216041045/http://www.tfc.info/manu-garcia-nouveau-violet |url-status=dead }}</ref>
+|-
+|7 July 2018 || 30 June 2019 || DF || — || {{flagicon|USA}} [[Erik Palmer-Brown]] || {{flagicon|NED}} [[NAC Breda]] || Academy || <ref>{{cite news |title=NAC leases Palmer-Brown from City |url=http://www.nac.nl/108/newsid/12621/NAC-huurt-Palmer-Brown-van-City-.html |publisher=NAC Breda |language=nl |access-date=7 July 2018 |archive-date=7 July 2018 |archive-url=https://web.archive.org/web/20180707231232/http://www.nac.nl/108/newsid/12621/NAC-huurt-Palmer-Brown-van-City-.html |url-status=dead }}</ref>
+|-
+|9 July 2018 || 30 June 2019 || MF || 75 || {{flagicon|SPA}} [[Aleix García]] || {{flagicon|SPA}} [[Girona FC|Girona]] || First team || <ref>{{cite news |title=Manchester City starlet Aleix García heading to Spain for new loan move |url=https://www.mcfcwatch.com/2018/07/08/manchester-city-starlet-aleix-garcia-heading-to-spain-for-new-loan-move/ |publisher=City Watch |access-date=18 July 2018 |archive-date=18 July 2018 |archive-url=https://web.archive.org/web/20180718144624/https://www.mcfcwatch.com/2018/07/08/manchester-city-starlet-aleix-garcia-heading-to-spain-for-new-loan-move/ |url-status=dead }}</ref>
+|-
+|12 July 2018 || 30 June 2019 || MF || 67 || {{flagicon|ESP}} [[Paolo Fernandes]] || {{flagicon|NED}} [[NAC Breda]] || Academy || <ref>{{cite news |title=Paolo Fernandes stays with NAC |url=http://www.nac.nl/108/newsid/12630/Paolo-Fernandes-blijft-bij-NAC.html |publisher=NAC Breda |language=nl |access-date=12 July 2018 |archive-date=12 July 2018 |archive-url=https://web.archive.org/web/20180712151926/http://www.nac.nl/108/newsid/12630/Paolo-Fernandes-blijft-bij-NAC.html |url-status=dead }}</ref>
+|-
+|18 July 2018 || 18 July 2019 || MF || — || {{flagicon|USA}} [[Mix Diskerud]] || {{flagicon|KOR}} [[Ulsan Hyundai]] || Academy || <ref>{{cite news |title=Official: Manchester City loan out USA midfielder to South Korean side Ulsan Hyundai |url=https://www.mcfcwatch.com/2018/07/18/official-manchester-city-loan-out-usa-midfielder-to-south-korean-side-ulsan-hyundai/ |date=18 July 2018 |access-date=18 July 2018 |publisher=City Watch |archive-date=18 July 2018 |archive-url=https://web.archive.org/web/20180718114953/https://www.mcfcwatch.com/2018/07/18/official-manchester-city-loan-out-usa-midfielder-to-south-korean-side-ulsan-hyundai/ |url-status=dead }}</ref>
+|-
+|26 July 2018 || 30 June 2019 || FW || 68 || {{flagicon|FRA}} [[Thierry Ambrose]] || {{flagicon|FRA}} [[RC Lens|Lens]] || Academy || <ref>{{cite news |title=Official: RC Lens sign Thierry Ambrose from Manchester City on loan |url=https://www.mcfcwatch.com/2018/07/26/official-rc-lens-sign-thierry-ambrose-from-manchester-city-on-loan/ |date=26 July 2018 |access-date=26 July 2018 |publisher=City Watch |archive-date=26 July 2018 |archive-url=https://web.archive.org/web/20180726233828/https://www.mcfcwatch.com/2018/07/26/official-rc-lens-sign-thierry-ambrose-from-manchester-city-on-loan/ |url-status=dead }}</ref>
+|-
+|30 July 2018 || 30 June 2019 || FW || 39 || {{flagicon|ENG}} [[Jack Harrison (footballer, born 1996)|Jack Harrison]] || {{flagicon|ENG}} [[Leeds United F.C.|Leeds United]] || Academy || <ref>{{cite news |title=Jack Harrison completes Leeds United loan switch from Manchester City |url=https://www.leeds-live.co.uk/sport/leeds-united/jack-harrison-leeds-united-loan-14970824 |access-date=30 July 2018 |publisher=[[Leeds Live]] |date=30 July 2018}}</ref>
+|-
+|31 July 2018 || 22 August 2018{{efn|Muric's planned season-long loan to NAC Breda was ended on 22 August due to an injury to Manchester City's second-choice goalkeeper [[Claudio Bravo]].<ref>{{cite news |title=Muric returns to Manchester City |url=http://www.nac.nl/108/newsid/12712/Muric-keert-terug-naar-Manchester-City.html |publisher=NAC Breda |access-date=22 August 2018 |language=nl |archive-date=1 March 2019 |archive-url=https://web.archive.org/web/20190301005602/http://www.nac.nl/108/newsid/12712/Muric-keert-terug-naar-Manchester-City.html |url-status=dead }}</ref>}} || GK || 49 || {{flagicon|MNE}} [[Arijanet Muric]] || {{flagicon|NED}} [[NAC Breda]] || First team || <ref>{{cite news |title=NAC hires Muric from City |url=http://www.nac.nl/108/newsid/12663/NAC-huurt-Muric-van-City.html |publisher=NAC Breda |language=nl |access-date=31 July 2018 |archive-url=https://web.archive.org/web/20180731153705/http://www.nac.nl/108/newsid/12663/NAC-huurt-Muric-van-City.html |archive-date=31 July 2018 |url-status=dead }}</ref>
+|-
+|3 August 2018 || 30 June 2019 || DF || 24 || {{flagicon|ENG}} [[Tosin Adarabioyo]] || {{flagicon|ENG}} [[West Bromwich Albion F.C.|West Bromwich Albion]] || First team || <ref>{{cite news |title=Albion swoop for Man City prospect |url=https://www.wba.co.uk/news/2018/august/albion-swoop-for-city-prospect/ |publisher=West Bromwich Albion |access-date=3 August 2018}}</ref>
+|-
+|3 August 2018 || 30 June 2019 || MF || — || {{flagicon|SRB}} [[Luka Ilić]] || {{flagicon|NED}} [[NAC Breda]] || Academy || <ref>{{cite news |title=NAC rents Ilić officially from Manchester City |url=http://www.nac.nl/108/newsid/12623/NAC-huurt-Ili%C4%87-officieel-van-Manchester-City.html |publisher=NAC Breda |language=nl |access-date=3 August 2018 |archive-date=3 August 2018 |archive-url=https://web.archive.org/web/20180803163751/http://www.nac.nl/108/newsid/12623/NAC-huurt-Ili%C4%87-officieel-van-Manchester-City.html |url-status=dead }}</ref>
+|-
+|7 August 2018 || 30 June 2019 || MF || 62 || {{flagicon|ENG}} [[Brandon Barker]] || {{flagicon|ENG}} [[Preston North End F.C.|Preston North End]] || Academy || <ref>{{cite news |title=Preston North End Sign Manchester City's Brandon Barker On A Season-Long Loan |url=https://www.pnefc.net/news/2018/august/preston-north-end-sign-manchester-citys-brandon-barker-on-a-season-long-loan/ |publisher=Preston North End |access-date=7 August 2018}}</ref>
+|-
+|8 August 2018 || 30 June 2019 || FW || 85 || {{flagicon|GHA}} [[Thomas Agyepong]] || {{flagicon|SCO}} [[Hibernian F.C.|Hibernian]] || Academy || <ref>{{cite news |title=Agyepong Signs Hibernian Loan Deal |url=http://www.hibernianfc.co.uk/news/9059 |publisher=Hibernian F.C. |access-date=8 August 2018 |archive-date=17 December 2019 |archive-url=https://web.archive.org/web/20191217064802/http://www.hibernianfc.co.uk/news/9059 |url-status=dead }}</ref>
+|-
+|9 August 2018 || 30 June 2019 || FW || 43 || {{flagicon|ENG}} [[Lucas Nmecha]] || {{flagicon|ENG}} [[Preston North End F.C.|Preston North End]] || First team || <ref>{{cite news |title=Lukas Nmecha joins Preston on loan |url=https://www.mancity.com/news/first-team/first-team-news/2018/august/man-city-preston-lukas-nmecha-transfer-news-season-loan |publisher=Manchester City |access-date=9 August 2018}}</ref>
+|-
+|16 August 2018 || 30 June 2019 || MF || 27 || {{flagicon|ENG}} [[Patrick Roberts]] || {{flagicon|ESP}} [[Girona FC|Girona]] || First team || <ref>{{cite news |title=Patrick Roberts, new player of Girona |url=http://www.gironafc.cat/noticia/patrick-roberts-nou-jugador-del-girona |language=ca |publisher=Girona FC |access-date=16 August 2018}}</ref>
+|-
+|17 August 2018 || 30 June 2020 || MF || — || {{flagicon|AUS}} [[Daniel Arzani]] || {{flagicon|SCO}} [[Celtic F.C.|Celtic]] || Academy || <ref>{{cite news |title=Daniel Arzani signs for Celtic on two-year loan deal |url=http://www.celticfc.net/news/14785 |publisher=Celtic F.C. |access-date=17 August 2018}}</ref>
+|-
+|30 August 2018 || 30 June 2019 || MF || — || {{flagicon|GHA}} [[Ernest Agyiri]] || {{flagicon|BEL}} [[A.F.C. Tubize|Tubize]] || Academy || <ref>{{cite news |title=Ernest Agyiri (Manchester City) on loan at AFC Tubize |url=http://www.afctubize.co.kr/fr/p5_1?uid=634&mod=document |language=fr |publisher=A.F.C. Tubize |date=31 August 2018 |access-date=31 August 2018 |archive-url=https://web.archive.org/web/20180831211833/http://www.afctubize.co.kr/fr/p5_1?uid=634&mod=document |archive-date=31 August 2018 |url-status=dead }}</ref>
+|-
+|31 August 2018 || 30 June 2019 || MF || 57 || {{flagicon|FRA}} [[Aaron Nemane]] || {{flagicon|BEL}} [[A.F.C. Tubize|Tubize]] || Academy || <ref>{{cite news |title=Aaron Nemane (Manchester City) on loan to AFC Tubize |url=http://www.afctubize.co.kr/fr/p5_1?uid=636&mod=document |language=fr |publisher=A.F.C. Tubize |date=31 August 2018 |access-date=31 August 2018 |archive-url=https://web.archive.org/web/20180831211745/http://www.afctubize.co.kr/fr/p5_1?uid=636&mod=document |archive-date=31 August 2018 |url-status=dead }}</ref>
+|-
+|31 August 2018 || 30 June 2019 || MF || 38 || {{flagicon|BRA}} [[Douglas Luiz]] || {{flagicon|ESP}} [[Girona FC|Girona]] || Academy || <ref>{{cite news |title=Douglas Luiz will wear the Girona shirt for the second season |url=http://www.gironafc.cat/noticia/douglas-luiz-vestira-la-samarreta-del-girona-per-segona-temporada |language=ca |publisher=Girona |date=31 August 2018 |access-date=31 August 2018}}</ref>
+|-
+|31 August 2018 || 4 January 2019 || DF || 58 || {{flagicon|ENG}} [[Charlie Oliver (footballer, born 1997)|Charlie Oliver]] || {{flagicon|ENG}} [[Brentford F.C. Reserves and Academy|Brentford B]] || Academy || <ref>{{cite news |title=Brentford B agree loan deal for Charlie Oliver |url=https://www.brentfordfc.com/news/2018/september/charlie-oliver-signs-02.09.18/ |publisher=Brentford FC |date=2 September 2018 |access-date=2 September 2018 |archive-date=20 July 2020 |archive-url=https://web.archive.org/web/20200720080311/https://www.brentfordfc.com/news/2018/september/charlie-oliver-signs-02.09.18/ |url-status=dead }}</ref><ref>{{cite web |title=Read Archibald, Cole And Edobor Updates As Oliver Departs |url=https://www.brentfordfc.com/news/2019/january/b-team-loan-update/ |publisher=[[Brentford F.C.]] |access-date=4 January 2019 |archive-date=13 April 2019 |archive-url=https://web.archive.org/web/20190413012544/https://www.brentfordfc.com/news/2019/january/b-team-loan-update/ |url-status=dead }}</ref>
+|-
+|31 August 2018 || 31 January 2019{{efn|Collins Tanor's planned season long loan to Hobro IK was ended on 31 January.<ref>{{cite web |title=Thisted FC henter Collins Tanor |url=https://tfcelite.thistedfc.dk/nyheder/arkiv/thisted-fc-henter-collins-tanor/ |website=Thirst FCD |access-date=7 March 2019 |archive-date=1 February 2019 |archive-url=https://web.archive.org/web/20190201065613/https://tfcelite.thistedfc.dk/nyheder/arkiv/thisted-fc-henter-collins-tanor/ |url-status=dead }}</ref>}}  || MF || —  || {{flagicon|GHA}} [[Collins Tanor]]|| {{flagicon|DEN}} [[Hobro IK|Hobro]] || Academy || <ref>{{cite news|title=Hobro IK lejer midtbanespiller i Manchester City|url=http://hikfodbold.dk/hobro-ik-lejer-midtbanespiller-i-manchester-city-n2-1862?id=1862|publisher=hikfodbold.dk|language=da|date=31 August 2018|access-date=7 November 2018|archive-date=30 September 2018|archive-url=https://web.archive.org/web/20180930232050/http://hikfodbold.dk/hobro-ik-lejer-midtbanespiller-i-manchester-city-n2-1862?id=1862|url-status=dead}}</ref>
+|-
+|1 January 2019 || 30 June 2019 || MF || — || {{flagicon|AUS}} [[Anthony Cáceres]] || {{flagicon|AUS}} [[Sydney FC]] || Academy || <ref>{{cite news |title=Sydney FC Complete Signing Of Talented Manchester City Midfielder |url=https://www.sydneyfc.com/news/sydney-fc-complete-signing-talented-manchester-city-midfielder |publisher=Sydney FC |date=2 January 2019 |access-date=6 January 2019}}</ref>
+|-
+|9 January 2019 || 30 June 2019 || MF || — || {{flagicon|SRB}} [[Ivan Ilić (footballer, born 2001)|Ivan Ilić]] || {{flagicon|SRB}} [[FK Zemun|Zemun]]  || Academy || <ref name="IIlic"/>
+|-
+|14 January 2019 || 30 June 2020 || DF || — || {{flagicon|JPN}} [[Ko Itakura]] || {{flagicon|NED}} [[FC Groningen|Groningen]] || Academy || <ref name="Itakura"/>
+|-
+|16 January 2019 || 30 June 2019|| MF || — || {{flagicon|VEN}} [[Yangel Herrera]] || {{flagicon|ESP}} [[SD Huesca|Huesca]] || Academy || <ref>{{cite news |title=Yangel Herrera, talento para el mediocentro|language=es |url=https://www.sdhuesca.es/noticia/yangel-herrera-talento-para-el-mediocentro|date=16 January 2019 |access-date=16 January 2019 |publisher=SD Huesca}}</ref>
+|-
+|24 January 2019 || 30 June 2019|| FW || 74 || {{flagicon|ENG}} [[Luke Bolton]] || {{flagicon|ENG}} [[Wycombe Wanderers F.C.|Wycombe Wanderers]] || First team || <ref>{{cite web |title=Bolton the Wanderer |url=https://www.wwfc.com/news/2019/january/bolton-the-wanderer/ |publisher=Wycombe Wanderers FC |access-date=24 January 2019}}</ref>
+|-
+|25 January 2019 || 30 June 2019|| MF || 29 || {{flagicon|COL}} [[Marlos Moreno]] || {{flagicon|MEX}} [[Santos Laguna]] || First team || <ref>{{cite web |title=Club Santos Laguna signs Marlos Moreno |url=https://www.clubsantos.mx/es/noticias/detalle/3595 |publisher=Santos Laguna |access-date=25 January 2019 |archive-date=26 January 2019 |archive-url=https://web.archive.org/web/20190126061147/https://www.clubsantos.mx/es/noticias/detalle/3595 |url-status=dead }}</ref>
+|-
+|29 January 2019 || 31 December 2019 || MF || — || {{flagicon|MEX}} [[Uriel Antuna]] || {{flagicon|USA}} [[LA Galaxy]] || Academy || <ref>{{cite web |title=LA Galaxy sign Mexican Uriel Antuna on loan from Manchester City |url=https://www.mlssoccer.com/post/2019/01/29/la-galaxy-sign-mexican-uriel-antuna-loan-manchester-city |publisher=[[Major League Soccer]] |access-date=29 January 2019}}</ref>
+|-
+|31 January 2019 || 30 June 2020 || MF || — ||{{flagicon|CRO}} [[Ante Palaversa]] || {{flagicon|CRO}} [[HNK Hajduk Split|Hajduk Split]] || Academy || <ref>{{cite news |title=Ante Palaversa: Man City complete Hajduk Split signing |work=BBC Sport |date=31 January 2019 |url=https://www.bbc.co.uk/sport/football/47073192 |access-date=7 March 2019}}</ref>
+|-
+|31 January 2019 || 30 June 2019 || MF || —  || {{flagicon|GHA}} [[Collins Tanor]]|| {{flagicon|DEN}} [[Thisted FC|Thisted]] || Academy || <ref>{{cite news|title=Thisted FC henter Collins Tanor|url=https://tfcelite.thistedfc.dk/nyheder/arkiv/thisted-fc-henter-collins-tanor/|publisher=Thisted FC|language=da|date=7 March 2019|access-date=7 March 2019|archive-date=1 February 2019|archive-url=https://web.archive.org/web/20190201065613/https://tfcelite.thistedfc.dk/nyheder/arkiv/thisted-fc-henter-collins-tanor/|url-status=dead}}</ref>
+|}
+{{notelist}}
+
+===Overall transfer activity===
+{{col-begin}}
+{{col-3}}
+
+'''Expenditure'''
+
+Summer: {{loss}} £63,300,000
+
+Winter: {{loss}} £420,000
+
+Total: {{loss}} £63,720,000
+{{col-3}}
+
+'''Income'''
+
+Summer: {{gain}} £43,550,000
+
+Winter: {{gain}} £26,500,000
+
+Total: {{gain}} £70,050,000
+{{col-3}}
+
+'''Net totals'''
+
+Summer: {{loss}} £19,750,000
+
+Winter: {{gain}} £26,080,000
+
+Total: {{gain}} £6,330,000
+{{col-end}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.mancity.com}}
+
+{{Manchester City F.C. seasons}}
+{{2018–19 in English football}}
+
+{{DEFAULTSORT:2018-19 Manchester City F.C. season}}
+[[Category:Manchester City F.C. seasons]]
+[[Category:2018–19 Premier League by team|Manchester City]]
+[[Category:2018–19 UEFA Champions League participants seasons|Manchester City]]
+[[Category:English football championship–winning seasons]]
+[[Category:2018 in sport in Manchester]]
+[[Category:2019 in sport in Manchester]]

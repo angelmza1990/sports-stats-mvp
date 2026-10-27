@@ -1,0 +1,166 @@
+{{Infobox football match
+| title                   = 1965 FA Charity Shield
+| image                   = 
+| event                   = [[FA Community Shield|FA Charity Shield]]
+| team1                   = [[Manchester United F.C.|Manchester United]]
+| team1association        = 
+| team1score              = 2
+| team2                   = [[Liverpool F.C.|Liverpool]]
+| team2association        = 
+| team2score              = 2
+| details                 = 
+| date                    = 14 August 1965
+| stadium                 = [[Old Trafford]]
+| city                    = [[Manchester]]
+| man_of_the_match1a      = 
+| man_of_the_match1atitle = 
+| man_of_the_match1b      = 
+| man_of_the_match1btitle = 
+| referee                 = [[Jim Finney]]
+| attendance              = 48,502
+| weather                 = 
+| previous                = [[1964 FA Charity Shield|1964]]
+| next                    = [[1966 FA Charity Shield|1966]]
+}}
+The '''1965 FA Charity Shield''' was the 43rd [[FA Community Shield|FA Charity Shield]], an annual [[association football|football]] match played between the winners of the previous season's [[Football League First Division|First Division]] and [[FA Cup]] competitions. The match was played on 14 August 1965 at [[Old Trafford]], [[Manchester]] and contested by [[Manchester United F.C.|Manchester United]], who had won the [[The Football League 1964–65|1964–65 First Division]], and [[Liverpool F.C.|Liverpool]], who had won the [[1964–65 FA Cup]]. The teams played out a 2–2 draw and shared the Charity Shield.<ref>{{Cite web | url = https://www.rsssf.org/tablese/engsupcuphist.html | title = England – List of FA Charity/Community Shield Matches| website = [[RSSSF]] | access-date= 15 February 2012 }}</ref>
+
+{{-}}
+
+==Match details==
+{{footballbox
+|date=14 August 1965
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Manchester United F.C.|Manchester United]]
+|score=2–2
+|report=[http://www.lfchistory.net/SeasonArchive/Game/296 Report]
+|team2=[[Liverpool F.C.|Liverpool]]
+|goals1=[[George Best|Best]] {{goal|28}}<br />[[David Herd (footballer)|Herd]] {{goal|81}}
+|goals2=[[Willie Stevenson|Stevenson]] {{goal|38}}<br />[[Ron Yeats|Yeats]] {{goal|86}}
+|stadium=[[Old Trafford]], [[Manchester]]
+|attendance=48,502
+|referee=[[Jim Finney]] 
+}}
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _whitecollarsimple
+ | pattern_ra = _whiteborder
+ | leftarm    = E20E0E
+ | body       = E20E0E
+ | rightarm   = E20E0E
+ | shorts     = FFFFFF
+ | socks      = E20E0E
+ | title      = Manchester United
+}}
+|{{Football kit
+ | pattern_la = _redborder
+ | pattern_b  = _redcollar
+ | pattern_ra = _redborder
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Liverpool}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|IRL}} [[Pat Dunne]]
+|-
+|RB ||'''2''' ||{{flagicon|IRL}} [[Shay Brennan]]
+|-
+|LB ||'''3''' ||{{flagicon|IRL}} [[Tony Dunne]]
+|-
+|RH ||'''4''' ||{{flagicon|SCO}} [[Paddy Crerand]]
+|-
+|CH ||'''5''' ||{{flagicon|IRL}} [[Noel Cantwell]] ([[Captain (association football)|c]])
+|-
+|LH ||'''6''' ||{{flagicon|ENG}} [[Nobby Stiles]]
+|-
+|OR ||'''7''' ||{{flagicon|NIR}} [[George Best]]
+|-
+|IR ||'''8''' ||{{flagicon|ENG}} [[Bobby Charlton]]
+|-
+|CF ||'''9''' ||{{flagicon|SCO}} [[David Herd (footballer)|David Herd]]
+|-
+|IL ||'''10'''||{{flagicon|SCO}} [[Denis Law]] || || {{suboff|18}}
+|-
+|OL ||'''11'''||{{flagicon|ENG}} [[John Aston, Jr.]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||'''12'''||{{flagicon|ENG}} [[Willie Anderson (footballer)|Willie Anderson]] || || {{subon|18}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCO}} [[Matt Busby]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|SCO}} [[Tommy Lawrence]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Chris Lawler]]
+|-
+|CB ||'''10'''||{{flagicon|ENG}} [[Tommy Smith (footballer, born 1945)|Tommy Smith]]
+|-
+|CB ||'''5''' ||{{flagicon|SCO}} [[Ron Yeats]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Gerry Byrne (footballer, born 1938)|Gerry Byrne]]
+|-
+|RM ||'''7''' ||{{flagicon|ENG}} [[Ian Callaghan]]
+|-
+|CM ||'''4''' ||{{flagicon|ENG}} [[Gordon Milne]]
+|-
+|CM ||'''6''' ||{{flagicon|SCO}} [[Willie Stevenson]]
+|-
+|LM ||'''11'''||{{flagicon|ENG}} [[Geoff Strong]] 
+|-
+|SS ||'''8''' ||{{flagicon|ENG}} [[Roger Hunt]]
+|-
+|ST ||'''9''' ||{{flagicon|SCO}} [[Ian St. John]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCO}} [[Bill Shankly]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes, no [[extra time]]
+*One named substitute
+*Maximum of one substitution
+|}
+
+==See also==
+*[[Liverpool F.C.–Manchester United F.C. rivalry]]
+
+==References==
+{{reflist}}
+
+{{FA Community Shield}}
+{{Liverpool F.C. matches}}
+{{Manchester United F.C. matches}}
+{{1965–66 in English football}}
+
+{{DEFAULTSORT:1965 Fa Charity Shield}}
+[[Category:FA Community Shield matches|1965]]
+[[Category:August 1965 sports events in the United Kingdom|FA Charity Shield]]
+[[Category:Liverpool F.C. matches|Charity Shield 1965]]
+[[Category:Manchester United F.C. matches|Charity Shield 1965]]
+[[Category:1965–66 in English football|Charity Shield 1965]]
+[[Category:Football matches in Manchester]]
+[[Category:1960s in Manchester]]
+[[Category:Sport in Trafford]]

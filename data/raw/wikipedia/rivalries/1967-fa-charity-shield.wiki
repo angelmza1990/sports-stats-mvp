@@ -1,0 +1,161 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title                   = 1967 FA Charity Shield
+| image                   = 1967 Charity Shield.jpg 
+| image_size              = 
+| caption                 = The [[Football programme|match programme]] cover
+| event                   = [[FA Community Shield|FA Charity Shield]]
+| team1                   = [[Manchester United F.C.|Manchester United]]
+| team1association        = 
+| team1score              = 3
+| team2                   = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| team2association        = 
+| team2score              = 3
+| details                 = 
+| date                    = 12 August 1967
+| stadium                 = [[Old Trafford]]
+| city                    = [[Manchester]]
+| man_of_the_match1a      = 
+| man_of_the_match1atitle = 
+| man_of_the_match1b      = 
+| man_of_the_match1btitle = 
+| referee                 = [[Eric Jennings]] 
+| attendance              = 54,106
+| weather                 = 
+| previous                = [[1966 FA Charity Shield|1966]]
+| next                    = [[1968 FA Charity Shield|1968]]
+}}
+The '''1967 FA Charity Shield''' was the 45th [[FA Community Shield|FA Charity Shield]], an annual [[association football|football]] match held between the winners of the previous season's [[The Football League|Football League]] and [[FA Cup]] competitions. The match was contested by [[Manchester United F.C.|Manchester United]], who had won the [[The Football League 1966–67|1966–67 Football League]], and [[Tottenham Hotspur F.C.|Tottenham Hotspur]], who had won the [[FA Cup 1966–67|1966–67 FA Cup]], at [[Old Trafford]], [[Manchester]],<ref>{{cite web|title=The Shield – A brief history|url=http://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/History.aspx|work=The FA Cup & Competitions|publisher=TheFA.com|access-date=7 February 2011}}</ref>  on 12 August 1967. The match was drawn 3–3, which meant that the two clubs shared the Shield, holding it for six months each. [[Bobby Charlton]] scored two goals for United, while [[Denis Law]] scored their third. [[Jimmy Robertson (footballer born 1944)|Jimmy Robertson]] and [[Frank Saul (footballer)|Frank Saul]] scored for Spurs, but the match is most famous for Tottenham's second goal, which was scored by goalkeeper [[Pat Jennings]]. Ball in hand, Jennings punted it downfield, only for it to bounce in front of United goalkeeper [[Alex Stepney]], over his head and into the goal.
+{{-}}
+
+==Match details==
+{{footballbox
+|date=12 August 1967
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Manchester United F.C.|Manchester United]]
+|score=3–3
+|report=[http://www.thefa.com/News/competitions/fa-community-shield/2012/jul/shield-classics-310712.aspx Report]
+|team2=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1=[[Bobby Charlton|Charlton]] {{goal}} {{goal}}<br />[[Denis Law|Law]] {{goal}}
+|goals2=[[Jimmy Robertson (footballer born 1944)|Robertson]] {{goal}}<br />[[Pat Jennings|Jennings]] {{goal}}<br />[[Frank Saul (footballer)|Saul]] {{goal}}
+|stadium=[[Old Trafford]], [[Manchester]]
+|attendance=54,106
+|referee= [[Eric Jennings]]}}
+
+{| style="width:92%"
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _whitecollarsimple
+ | pattern_ra = _whiteborder
+ | leftarm    = E20E0E
+ | body       = E20E0E
+ | rightarm   = E20E0E
+ | shorts     = FFFFFF
+ | socks      = E20E0E
+ | title      = Manchester United
+}}
+|{{Football kit
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000066
+ | socks      = FFFFFF
+ | title      = Tottenham Hotspur
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Alex Stepney]]
+|-
+|DF ||'''2''' ||{{flagicon|IRL}} [[Shay Brennan]]
+|-
+|DF ||'''3''' ||{{flagicon|IRL}} [[Tony Dunne]]
+|-
+|MF ||'''4''' ||{{flagicon|SCO}} [[Paddy Crerand]]
+|-
+|DF ||'''5''' ||{{flagicon|ENG}} [[Bill Foulkes]]
+|-
+|DF ||'''6''' ||{{flagicon|ENG}} [[Nobby Stiles]]
+|-
+|FW ||'''7''' ||{{flagicon|NIR}} [[George Best]]
+|-
+|FW ||'''8''' ||{{flagicon|ENG}} [[Brian Kidd]]
+|-
+|MF ||'''9''' ||{{flagicon|ENG}} [[Bobby Charlton]] 
+|-
+|FW ||'''10'''||{{flagicon|SCO}} [[Denis Law]] ([[Captain (association football)|c]])
+|-
+|FW ||'''11'''||{{flagicon|ENG}} [[John Aston Jr.|John Aston]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SCO}} [[Matt Busby]]
+|}
+|style="vertical-align:top"|
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%;margin:auto"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|NIR}} [[Pat Jennings]]
+|-
+|DF ||'''2''' ||{{flagicon|IRE}} [[Joe Kinnear]]
+|-
+|DF ||'''3''' ||{{flagicon|ENG}} [[Cyril Knowles]]
+|-
+|MF ||'''4''' ||{{flagicon|ENG}} [[Alan Mullery]]
+|-
+|DF ||'''5''' ||{{flagicon|WAL}} [[Mike England]]
+|-
+|DF ||'''6''' ||{{flagicon|SCO}} [[Dave Mackay]] ([[Captain (association football)|c]])
+|-
+|MF ||'''7''' ||{{flagicon|SCO}} [[Jimmy Robertson (footballer, born 1944)|Jimmy Robertson]]
+|-
+|FW ||'''8''' ||{{flagicon|ENG}} [[Jimmy Greaves]]
+|-
+|FW ||'''9''' ||{{flagicon|SCO}} [[Alan Gilzean]]
+|-
+|MF ||'''10'''||{{flagicon|ENG}} [[Terry Venables]]
+|-
+|MF ||'''11'''||{{flagicon|ENG}} [[Frank Saul (footballer)|Frank Saul]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ENG}} [[Bill Nicholson (footballer)|Bill Nicholson]]
+|}
+|}
+
+==See also==
+*[[1966–67 Football League]]
+*[[1966–67 FA Cup]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.footballsite.co.uk/Statistics/CommunityShield/1967-68CharityShield.htm Match Details]
+
+{{FA Community Shield}}
+{{Manchester United F.C. matches}}
+{{Tottenham Hotspur F.C. matches}}
+{{1967–68 in English football}}
+
+{{DEFAULTSORT:1967 Fa Charity Shield}}
+[[Category:FA Community Shield matches|1967]]
+[[Category:1967–68 in English football|Charity Shield]]
+[[Category:Manchester United F.C. matches|Charity Shield 1967]]
+[[Category:Tottenham Hotspur F.C. matches|Charity Shield 1967]]
+[[Category:August 1967 sports events in the United Kingdom|FA Charity Shield]]
+[[Category:Football matches in Manchester]]
+[[Category:1960s in Manchester]]
+[[Category:Sport in Trafford]]
+
+
+{{England-footy-competition-stub}}

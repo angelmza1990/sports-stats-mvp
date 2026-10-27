@@ -1,0 +1,2001 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=November 2018}}
+{{Use British English|date=November 2018}}
+{{Infobox football club season
+| club = [[Manchester City F.C.|Manchester City]]
+| season = [[2019–20 in English football|2019–20]]
+| owner = {{nowrap|[[City Football Group]]}}
+| manager = {{nowrap|[[Pep Guardiola]]}}
+| chairman = {{nowrap|[[Khaldoon Al Mubarak]]}}
+| stadium = [[City of Manchester Stadium]]
+| league = [[Premier League]]
+| league result = [[2019–20 Premier League|2nd]]
+| cup1 = [[FA Cup]]
+| cup1 result = [[2019–20 FA Cup#Semi-finals|Semi-finals]]
+| cup2 = [[EFL Cup]]
+| cup2 result = '''[[2019–20 EFL Cup#Final|Winners]]'''
+| cup3 = [[FA Community Shield]]
+| cup3 result = '''[[2019 FA Community Shield|Winners]]'''
+| cup4 = {{nowrap|[[UEFA Champions League]]}}
+| cup4 result = [[2019–20 UEFA Champions League#Quarter-finals|Quarter-finals]]
+| league topscorer = <br/>[[Raheem Sterling]] (20)
+| season topscorer = <br/>Raheem Sterling (31)
+| highest attendance = 54,512 vs. [[Sheffield United F.C.|Sheffield United]], 29 December 2019
+| lowest attendance = 37,143 vs. [[Southampton F.C.|Southampton]], 29 October 2019
+| average attendance = 53,097{{#tag:ref|The last six matches were played [[Behind closed doors (sport)#COVID-19 pandemic|behind closed doors]] due to the [[COVID-19 pandemic in England|COVID-19 pandemic]].|group=upper-alpha}}
+|pattern_la1 = _mancity1920h
+|pattern_b1 = _mancity1920h
+|pattern_ra1 = _mancity1920h
+|pattern_sh1 = _mancity1920h
+|pattern_so1 = _mcfc1920hlong
+|leftarm1 = 84BBFF
+|body1 = 84BBFF
+|rightarm1 = 84BBFF
+|shorts1 = FFFFFF
+|socks1 = FFFFFF
+|pattern_la2= _mancity1920a
+|pattern_b2 =_mancity1920a
+|pattern_ra2= _mancity1920a
+|pattern_sh2= _monterrey1213t1
+|pattern_so2 = _monterrey1213t1
+|leftarm2 = 000000
+|body2 = 000000
+|rightarm2 = 000000
+|shorts2 = 000000
+|socks2 = 000000
+|pattern_la3 = _mancity1920t
+|pattern_b3 = _mancity1920t
+|pattern_ra3 = _mancity1920t
+|pattern_sh3 = _mancity1920t
+|pattern_so3 =
+|leftarm3 = C8FE2E
+|body3 = C8FE2E
+|rightarm3 = C8FE2E
+|shorts3 = FF465E
+|socks3 = C8FE2E
+| prevseason = [[2018–19 Manchester City F.C. season|2018–19]]
+| nextseason = [[2020–21 Manchester City F.C. season|2020–21]]
+}}
+
+The '''2019–20 season''' was [[Manchester City F.C.|Manchester City]]'s 118th season of competitive [[Association football|football]], 91st season in the [[English football league system|top flight]] of [[Football in England|English football]] and 23rd season in the [[Premier League]]. In addition to the [[2019–20 Premier League|league]], the club competed in the [[2019–20 FA Cup|FA Cup]], as holders of both competitions. They also entered the [[2019–20 UEFA Champions League|UEFA Champions League]], hoping to win the team's first European trophy since [[1970 European Cup Winners' Cup Final|1970]]. At the start of the season, City defeated [[Liverpool F.C.|Liverpool]] to win their second consecutive and sixth overall [[2019 FA Community Shield|Community Shield]]. The Citizens also successfully retained the [[2019–20 EFL Cup|EFL Cup]], making it their third consecutive League Cup win and their fifth in seven seasons.
+
+The season covered the period from 1 July 2019 to 31 August 2020, having been extended from 30 June 2020 for an indefinite period following the suspension of all elite sport in the UK in March 2020 as part of the response to the [[COVID-19 pandemic in the United Kingdom|COVID-19 pandemic]]. The domestic season resumed on 17 June, and concluded on 26 July, while the Champions League resumed on 7 August.
+
+This was the first season since [[2007–08 Manchester City F.C. season|2007–08]] without former captain [[Vincent Kompany]], who departed to [[R.S.C. Anderlecht|Anderlecht]].
+
+==Kits==
+'''Supplier:''' [[Puma (brand)|Puma]] / '''Sponsor:''' [[Etihad Airways]] (Front) / [[Nexen Tire]] (Sleeves)
+
+{| style="margin-left: auto; margin-right: auto;" border="0"
+|{{Football kit
+| pattern_la = _mancity1920h
+| pattern_b = _mancity1920h
+| pattern_ra = _mancity1920h
+| pattern_sh = _mancity1920h
+| pattern_so = _mcfc1920hlong
+| leftarm = 84BBFF
+| body = 84BBFF
+| rightarm = 84BBFF
+| shorts = FFFFFF
+| socks = FFFFFF
+| title = Home<br />{{0}}
+}}
+|{{Football kit
+| pattern_la = _mancity1920h
+| pattern_b = _mancity1920h
+| pattern_ra = _mancity1920h
+| pattern_sh = _mancity1920h
+| pattern_so = _mcfc1920hlong2
+| leftarm = 84BBFF
+| body = 84BBFF
+| rightarm = 84BBFF
+| shorts = FFFFFF
+| socks = 84BBFF
+| title = Home<br />alternate
+}}
+|{{Football kit
+| title = Away<br />{{0}}
+| pattern_la = _mancity1920a
+| pattern_b = _mancity1920a
+| pattern_ra = _mancity1920a
+| pattern_sh = _monterrey1213t1
+| pattern_so = _monterrey1213t1
+| leftarm = 0A0A0A
+| body = 0A0A0A
+| rightarm = 0A0A0A
+| shorts = 0A0A0A
+| socks = 0A0A0A
+}}
+|{{Football kit
+| title = Third<br />{{0}}
+| pattern_la = _mancity1920t
+| pattern_b = _mancity1920t
+| pattern_ra = _mancity1920t
+| pattern_sh = _mancity1920t
+| pattern_so =
+| leftarm = C8FE2E
+| body = C8FE2E
+| rightarm = C8FE2E
+| shorts = FF465E
+| socks = C8FE2E
+}}
+|{{Football kit
+| title = Special retro kit{{#tag:ref|Used in the [[2019 FA Community Shield|Community Shield]] against Liverpool.<ref>{{cite news|title=Retro Man City's Community Shield kit is stunning 125th anniversary outfit designed by Puma for clash vs Liverpool|url=https://talksport.com/football/581052/manchester-city-kit-community-shield-liverpool/|work=talksport.com|date=4 August 2019}}</ref>|group=upper-alpha}}
+| pattern_la = _mancity125y
+| pattern_b = _mancity125y
+| pattern_ra = _mancity125y
+| pattern_sh =
+| pattern_so =
+| leftarm = 84BBFF
+| body = 84BBFF
+| rightarm = 84BBFF
+| shorts = FFFFFF
+| socks = FFFFFF
+}}
+|{{Football kit
+| title = [[2020–21 Manchester City F.C. season|2020–21]] home kit{{#tag:ref|Used in the [[2019–20 FA Cup#Semi-finals|FA Cup semi-finals]] again Arsenal, in league games 37 and 38 against Watford and Norwich City respectively, in the Champions League Round of 16 [[2019–20 UEFA Champions League#Round of 16|return leg]] against Real Madrid and in the [[2019–20 UEFA Champions League#Quarter-finals|quarter-final]] against Lyon.<ref>{{cite news|title=Manchester City 20-21 Home Kit + New Kit Font + Pre-Match Debuted|url=https://www.footyheadlines.com/2020/07/manchester-city-20-21-home-kit-new-kit.html|work=footyheadlines.com|date=19 July 2020}}</ref>|group=upper-alpha}}
+| pattern_la = _mancity2021h
+| pattern_b = _mancity2021h
+| pattern_ra = _mancity2021h
+| pattern_sh = _mancity2021h
+| pattern_so = _mancity2021h
+| leftarm = 77BBFF
+| body = 77BBFF
+| rightarm = 77BBFF
+| shorts = FFFFFF
+| socks = 77BBFF
+}}
+|}
+
+==Season review==
+Manchester City began the season as unprecedented holders of all four domestic competitions. Their first successful defence came on 4 August, as they defeated [[Liverpool F.C.|Liverpool]] on penalties at [[Wembley Stadium|Wembley]] in the [[2019 FA Community Shield]], the traditional curtain raiser to the season.
+
+Acknowledging that City would be judged by their [[2019–20 UEFA Champions League|Champions League]] performance after all,<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/51344995|title=Pep Guardiola: I'll be judged a failure at Man City without Champions League win|website=BBC Sport|date=1 February 2020|access-date=23 August 2020}}</ref> Pep Guardiola said that the new season's main objective would be to win the European title. The Cityzens progressed to the [[2019–20 UEFA Champions League knockout phase|knockout phase]] as comfortable group winners and faced old foes [[Real Madrid CF|Real Madrid]] there. City won the away game 2–1, but the remainder of the tournament was indefinitely postponed due to the [[COVID-19 pandemic in Europe|COVID-19 pandemic]]. Eventually, [[UEFA]] announced that the tournament would be resumed in August 2020 [[Behind closed doors (sport)#COVID-19 pandemic|behind closed doors]]. After eight domestic trophies were clinched with Guardiola, fans eagerly await the team's first European title since 1970. The home match against Madrid was scheduled for 7 August. Thanks to goals from [[Raheem Sterling]] and [[Gabriel Jesus]], the Citizens once again defeated Madrid 2–1, achieving a 4–2 victory on aggregate and advancing to the quarter-finals.<ref>{{cite web|url=https://www.mancity.com/news/mens/manchester-city-v-real-madrid-ucl-2nd-leg-match-report-63732423|title=City head to Lisbon after deserved win over Real Madrid|website=mancity.com|publisher=Manchester City F.C.|date=7 August 2020|access-date=23 August 2020}}</ref><ref>{{cite web |url=https://www.mancity.com/news/mens/champions-league-lyon-63732430|title=City to play Lyon in Champions League quarter-final |website=mancity.com |publisher=Manchester City F.C.|date=7 August 2020|access-date=23 August 2020}}</ref> However, Manchester City once again exited the competition at the next stage, losing 1–3 to [[Olympique Lyonnais|Lyon]] on 15 August in a one-off game held at the neutral [[Estádio José Alvalade]] in Lisbon.
+
+In the [[2019-20 Premier League|Premier League]], City were unable to maintain their consistency from the previous two seasons. Key players [[Aymeric Laporte]] and [[Leroy Sané]] endured extended injury layoffs from the beginning of the season until early 2020. Laporte's absence in particular impacted the team's defensive capabilities and their effectiveness against opposition set up to quickly counterattack on the break. City already dropped more league points (19) by the end of December 2019 than they had in their entire previous two seasons.
+
+For the second year in a row, City were the first top European team to reach 100 goals scored in all competitions when they beat [[Fulham F.C.|Fulham]] 4–0 in an [[2019–20 FA Cup|FA Cup]] fourth-round match on 26 January 2020.<ref>{{cite news|url=https://www.bbc.co.uk/sport/av/football/51240666|title=Highlights: Manchester City 4-0 Fulham|work=BBC Sport|access-date=31 January 2020}}</ref>
+
+On 14 February 2020, UEFA stated its intention to ban Manchester City from the all [[UEFA club competitions]] for the 2020–21 and 2021–22 seasons for alleged breaches of the [[UEFA Financial Fair Play Regulations]].<ref name="UEFA statement1">{{cite news |url=https://www.uefa.com/insideuefa/about-uefa/news/newsid=2638659.html |title=Club Financial Control Body Adjudicatory Chamber decision on Manchester City Football Club |website=UEFA.com |publisher=[[UEFA|Union of European Football Associations]] |date=14 February 2020 |access-date=14 February 2020}}</ref> UEFA noted the club's right to appeal at the [[Court of Arbitration for Sport]] (CAS), and Manchester City then submitted an appeal on 26 February 2020.<ref name="CAS statement1">{{cite news |url=https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_6785_.pdf |title=The Court of Arbitration For Sport (CAS) Has Registered the Appeal of Manchester City v. UEFA |website=[[Court of Arbitration for Sport]] |access-date=26 February 2020}}</ref> As part of the appeal registration, the Court of Arbitration for Sport stated a date for the final decision would be in the first half of July 2020. The appeal was heard on 8 June 2020<ref name="CAS appeal">{{cite web|first=Gabriele|last=Marcotti|url=https://www.espn.com/soccer/blog-marcottis-musings/story/4106533/man-citys-appeal-of-uefa-ban-whats-at-stake-for-city-and-financial-fair-play|title=Man City's appeal of UEFA ban: What's at stake for City and Financial Fair Play|website=ESPN.com|date=5 June 2020}}</ref> and upheld on 13 July, with the ban overturned.<ref>{{cite web |title= Decision in the arbitration procedure between Manchester City FC & UEFA |url= https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_6785_Decision.pdf |website=The Court of Arbitration for Sport|access-date=13 July 2020}}</ref>
+
+On 1 March 2020, City won their third [[2019–20 EFL Cup|EFL Cup]] in a row and their fourth in five seasons, defeating [[Aston Villa F.C.|Aston Villa]] 2–1 at Wembley Stadium in the [[2020 EFL Cup final|final]].
+
+In March, the season became affected by the [[COVID-19 pandemic in the United Kingdom|COVID-19 pandemic]].<ref>{{Cite news|url=https://www.bbc.co.uk/sport/51859553|title=Coronavirus: UK government considering banning sporting fixtures|work=BBC Sport|date=12 March 2020}}</ref> On 10 March, the match between Manchester City and [[Arsenal F.C.|Arsenal]], due to be played the next day, was postponed after a number of Arsenal players made close contact with Olympiacos owner [[Evangelos Marinakis]], who had tested positive for infection with the [[SARS-CoV-2|coronavirus]], when the two teams had met in the [[2019–20 UEFA Europa League|Europa League]] 13 days earlier.<ref>{{cite web |title=Manchester City vs. Arsenal postponed after players exposed to Olympiakos owner Evangelos Marinakis |url=https://www.espn.com/soccer/english-premier-league/story/4071980/arsenal-vs-manchester-city-postponed-after-players-exposed-to-olympiakos-owner-evangelos-marinakis |website=ESPN |access-date=10 March 2020 }}</ref> On 12 March, it was revealed that three Leicester City players were self-isolating.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/51856906|title=Coronavirus: Three Leicester City players in isolation after showing symptoms|work=BBC Sport|date=12 March 2020}}</ref> Manchester City also announced that their defender [[Benjamin Mendy]] was also self-isolating, after a family member displayed symptoms of the virus.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/51864868|title=Benjamin Mendy: Man City player self-isolating, family member in hospital|work=BBC Sport|date=12 March 2020}}</ref> Later in the evening, it was confirmed that Arsenal head coach [[Mikel Arteta]] had tested positive for coronavirus.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/51865442|title=Mikel Arteta: Arsenal manager tests positive for coronavirus|work=BBC Sport|date=13 March 2020}}</ref> On 13 March, following an emergency meeting between the Premier League, [[The Football Association]] (FA), the [[English Football League]] and the [[FA Women's Super League]], it was unanimously decided to suspend professional football in England until at least 4 April 2020.<ref>{{Cite news|url=https://www.premierleague.com/news/1645173|title=Premier League, FA, EFL and WSL unite to postpone fixtures|date=13 March 2020|work=Premier League|access-date=13 March 2020}}</ref> On 19 March, the suspension was extended to at least 30 April 2020.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/51962751|title=Coronavirus: English football suspension extended until at least 30 April|work=BBC Sport|date=19 March 2020}}</ref> At the same time, the FA agreed to extend the season indefinitely, past the scheduled end date of 1 June.
+
+In late May 2020, the [[Government of the United Kingdom|UK Government]] began to ease the lockdown measures, which had been taken to combat the COVID-19 contagion, and it was duly announced on 28 May that the Premier League clubs had agreed to play the remaining 92 Premier League and FA Cup fixtures in empty stadiums and with modified rules to minimise contagion from 17 June 2020 onward. City restarted the season with a postponed game in hand against Arsenal on 17 June, winning 3–0. On 25 June, City lost 2–1 away to [[Chelsea F.C.|Chelsea]], and as a result Liverpool were confirmed as 2019–20 Premier League champions with seven rounds of games to be played. A week later, on 2 July, City were able to assuage some of the disappointment of losing the Premier League title to their [[Liverpool F.C.–Manchester City F.C. rivalry|rivals]] when they beat Liverpool 4–0 in a home league match, with a fifth goal in stoppage time disallowed by the [[Video assistant referee|VAR]], also avenging November's controversial 1–3 loss.
+
+In beating [[Newcastle United F.C.|Newcastle United]] 5–0 on 8 July, City achieved a pass completion rate of 93.7% – the highest accuracy on record in the Premier League since 2003–04 (when detailed passing statistics were first measured). [[Riyad Mahrez]] reaching 10 Premier League goals in the season in the same game also ensured City would be the first English top-flight side to have five different players score at least 10 league goals in a single season since [[Everton F.C.|Everton]] in [[1984–85 Everton F.C. season|1984–85]] (Sterling, De Bruyne, Agüero, Jesus, Mahrez).<ref>{{cite web |last1=Hafez |first1=Shamoon |title=City vs. Newcastle match report |url=https://www.bbc.co.uk/sport/football/53283254 |website=BBC Sport |access-date=9 July 2020}}</ref> The 5–0 away victory against [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] on 11 July then confirmed that City would finish the season as runners-up to Liverpool in the league. The Blues scored 102 league goals in 2019–20; it was the fifth time they reached a century of goals after [[1936–37 Manchester City F.C. season|1936–37]], [[1957–58 Manchester City F.C. season|1957–58]], [[2013–14 Manchester City F.C. season|2013–14]] and [[2017–18 Manchester City F.C. season|2017–18]], an English record.<ref>{{cite web|url=https://www.uefa.com/printoutfiles/competitions/uefachampionsleague/2020/e/e_2030144_pk.pdf|title=UEFA Champions League - 2019/20 Season Match Press Kits|website=UEFA|date=21 December 2020}}</ref>
+
+In the restarted FA Cup, City defeated Newcastle 2–0 away from home on 28 June, advancing to the semi-finals where they faced Arsenal at Wembley. However, inform [[Pierre-Emerick Aubameyang|Aubameyang]] scored a brace and lukewarm City were shut out, being denied an opportunity to defend their title in a showcase [[2020 FA Cup final|final]]. The Gunners went on to win a record 14th FA Cup title in the final, defeating [[Chelsea F.C.|Chelsea]].
+
+The end of the 2019–20 season marked the end of [[David Silva]]'s ten-year stint with the club. Silva's final appearance in the Champions League quarter-final defeat to Lyon was his 436th for City; in doing so he entered the top 10 all-time [[List of Manchester City F.C. records and statistics#Appearances|appearance makers]] for the club, as well as becoming the first modern-era player to reach this level in 34 years. Silva also ended his career at City as the club's most decorated player at the time, with fourteen league and cup winner medals.<ref>{{cite web |last1=Edwards |first1=John |title=David Silva A Glittering Decade of Success |url=https://www.mancity.com/features/davidsilvadecadeofsuccess/ |website=mancity.com |access-date=24 August 2020}}</ref> Due to COVID-19 precautions, Silva's final appearances had to be played behind closed doors. City hoped there would be an opportunity in the following season for fans to return in order to give him a proper sendoff.
+
+[[Kevin De Bruyne]] was recognised in the end of season awards for his performances at City, being named the [[Premier League Player of the Season]] and [[PFA Players' Player of the Year]], despite Liverpool winning the Premier League title that year. De Bruyne had already won the club's own Player of the Season Award for the third time in five years, and the Premier League's [[Premier League Playmaker of the Season|Playmaker of the Season]] award for providing a league-leading 20 assists, equalling the record of most assists in a Premier League season set by [[Thierry Henry]] in [[2002–03 FA Premier League|2002–03]].<ref>{{cite web |last1=Leigh |first1=Neil |title=De Bruyne Named Premier League Player of the Season |url=https://www.mancity.com/news/mens/kevin-de-bruyne-premier-league-player-of-the-season-63733021 |website=mancity.com |access-date=24 August 2020}}</ref>
+
+==Pre-season and friendlies==
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+Manchester City played a number of pre-season matches in 2019, including the [[2019 Premier League Asia Trophy]] in China.<ref>{{Cite web|url=https://www.goal.com/en/news/man-city-2019-pre-season-friendlies-transfers-rumours/l3nu5yvdyw761j9u5xkokla1h|title=Man City 2019 pre-season: Friendlies, transfers, rumours & Premier League fixtures {{!}} Goal.com|website=www.goal.com|access-date=1 July 2019}}</ref>
+
+{{football box collapsible
+|round = [[2019 Premier League Asia Trophy|PL Asia Trophy]] Semi-final
+|date = {{Start date|2019|07|17|df=y}}
+|time = 20:30 [[China Standard Time|CST]]
+|team1 = Manchester City
+|score = 4–1
+|report = https://www.premierleague.com/news/1281256
+|team2 = [[West Ham United F.C.|West Ham United]]
+|goals1 = [[David Silva|D. Silva]] {{goal|33}}<br />[[Lukas Nmecha|Nmecha]] {{goal|36|pen.}}<br />[[Raheem Sterling|Sterling]] {{goal|59||72}}
+|goals2 = [[Mark Noble|Noble]] {{goal|26|pen.}}
+|stadium = [[Nanjing Olympic Sports Centre]]
+|location = [[Nanjing]], China
+|attendance = 
+|referee = [[Craig Pawson]] ([[The Football Association|England]])
+|result = W
+}}
+
+{{football box collapsible
+|round = [[2019 Premier League Asia Trophy|PL Asia Trophy]] Final
+|date = {{Start date|2019|07|20|df=y}}
+|time = 19:30 [[China Standard Time|CST]]
+|team1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|score = 0–0
+|penaltyscore = 3–2
+|report = https://www.premierleague.com/news/1289695
+|team2 = Manchester City
+|goals1 = [[Conor Coady|Coady]] {{yel|76}}
+|goals2 = 
+|penalties1 = [[Conor Coady|Coady]] {{penmiss}}<br />[[Ryan Bennett (footballer)|Bennett]] {{pengoal}}<br />[[Max Kilman|Kilman]] {{penmiss}}<br />[[Taylor Perry|Perry]] {{pengoal}}<br />[[Rúben Vinagre|Vinagre]] {{pengoal}}
+|penalties2 = {{penmiss}} [[İlkay Gündoğan|Gündoğan]]<br />{{penmiss}} [[David Silva|D. Silva]]<br />{{pengoal}} [[Danilo (footballer, born July 1991)|Danilo]]<br />{{pengoal}} [[Aleix García|García]]<br />{{penmiss}} [[Lukas Nmecha|Nmecha]]
+|stadium = [[Hongkou Football Stadium]]
+|location = [[Shanghai]], China
+|attendance = 
+|referee = [[Martin Atkinson]] ([[The Football Association|England]])
+|result = D
+}}
+{{football box collapsible
+|round = Friendly
+|date = {{Start date|2019|7|24|df=y}}
+|time = 20:00 [[Hong Kong Time|HKT]]
+|team1 = [[Kitchee SC]]
+|score = 1–6
+|report = https://www.mancity.com/news/first-team/match-report/2019/july/kitchee-manchester-city-match-report-24-july-hong-kong
+|team2 = Manchester City
+|goals1 = [[Law Tsz Chun]] {{goal|85}}
+|goals2 = [[David Silva|D. Silva]] {{goal|13}}<br />[[Leroy Sané|Sané]] {{goal|40||55}}<br />[[Raheem Sterling|Sterling]] {{goal|43}}<br />[[Nabil Touaizi|Touaizi]] {{goal|80}}<br />[[Iker Pozo|Pozo]] {{goal|88}}
+|stadium = [[Hong Kong Stadium]]
+|location = [[Causeway Bay]], Hong Kong
+|attendance = 
+|referee = 
+|result = W
+}}
+{{football box collapsible
+|round = EuroJapan Cup
+|date = {{Start date|2019|7|27|df=y}}
+|time = 19:30 [[Japan Standard Time|JST]]
+|team1 = [[Yokohama F. Marinos]]
+|score = 1–3
+|report = https://www.mancity.com/news/first-team/match-report/2019/july/yokohama-f-marinos-man-city-match-report-asia-tour-japan
+|team2 = Manchester City
+|goals1 = [[Keita Endo|Endo]] {{goal|23}}, {{yel|29}}<br />[[Park Iru-gyu|Park]] {{yel|36}}
+|goals2 = [[Kevin De Bruyne|De Bruyne]] {{goal|18}}<br />[[Raheem Sterling|Sterling]] {{goal|40}}<br />[[Lukas Nmecha|Nmecha]] {{goal|90+2}}
+|stadium = [[Nissan Stadium (Yokohama)|Nissan Stadium]]
+|location = [[Yokohama]], Japan
+|attendance = 65,052
+|referee = 
+|result = W
+}}
+
+==Competitions==
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+
+===Overview===
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan=2|Competition
+!colspan=8|Record
+|-
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+!{{Tooltip|Win %|Winning percentage}}
+|-
+| [[2019–20 Premier League|Premier League]]
+{{WDL|38|26|3|9|for=102|against=35|diff=yes}}
+|-
+| [[2019–20 FA Cup|FA Cup]]
+{{WDL|5|4|0|1|for=11|against=3|diff=yes}}
+|-
+| [[2019–20 EFL Cup|EFL Cup]]
+{{WDL|6|5|0|1|for=14|against=5|diff=yes}}
+|-
+| [[2019 FA Community Shield|FA Community Shield]]
+{{WDL|1|0|1|0|for=1|against=1|diff=yes}}
+|-
+| [[2019–20 UEFA Champions League|UEFA Champions League]]
+{{WDL|9|6|2|1|for=21|against=9|diff=yes}}
+|-
+! Total
+{{WDLtot|59|41|6|12|for=149|against=53|diff=yes}}
+{{fb overall competition footer}}
+
+===FA Community Shield===
+{{main|2019 FA Community Shield}}
+Due to winning both the [[2018–19 Premier League]] and [[2018–19 FA Cup]], Manchester City faced Premier League runners-up [[Liverpool F.C.|Liverpool]] in the FA Community Shield.<ref>{{Cite web|url=https://talksport.com/football/fa-cup/544710/when-is-the-community-shield-liverpool-manchester-city/|title=When is the Community Shield? Date confirmed as Liverpool's season starts early despite title heartache|date=7 June 2019|website=talkSPORT|language=en-US|access-date=1 July 2019}}</ref> Manchester City were the [[2018 FA Community Shield|defending champions]] and successfully defended their title.
+
+{{football box collapsible
+|id=|date = {{Start date|2019|08|04|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = [[2019 FA Community Shield|Final]]
+|team1 = [[Liverpool F.C.|Liverpool]]
+|score = 1–1
+|penaltyscore = 4–5
+|report = https://www.mancity.com/news/first-team/match-report/2019/august/liverpool-man-city-community-shield-match-report
+|team2 = Manchester City
+|goals1 = [[Joël Matip|Matip]] {{goal|77}}
+|goals2 = [[Raheem Sterling|Sterling]] {{goal|12}}<br />[[Kevin De Bruyne|De Bruyne]] {{yel|33}}
+|penalties1 = [[Xherdan Shaqiri|Shaqiri]] {{pengoal}}<br />[[Georginio Wijnaldum|Wijnaldum]] {{penmiss}}<br />[[Adam Lallana|Lallana]] {{pengoal}}<br />[[Alex Oxlade-Chamberlain|Oxlade-Chamberlain]] {{pengoal}}<br />[[Mohamed Salah|Salah]] {{pengoal}}
+|penalties2 = {{pengoal}} [[İlkay Gündoğan|Gündoğan]]<br />{{pengoal}} [[Bernardo Silva|B. Silva]]<br />{{pengoal}} [[Phil Foden|Foden]]<br />{{pengoal}} [[Oleksandr Zinchenko (footballer)|Zinchenko]]<br />{{pengoal}} [[Gabriel Jesus]]
+|stadium = [[Wembley Stadium]]
+|location = London
+|attendance = 77,565
+|referee = [[Martin Atkinson]]
+|result = d
+|note = Manchester City manager [[Pep Guardiola]] was cautioned {{yel}} in the 42nd minute.<ref>{{cite web|url=https://talksport.com/football/582228/pep-guardiola-yellow-card-community-shield-liverpool/|title=Manchester City boss receives yellow card for animated protests during Community Shield clash against Liverpool|date=4 August 2019}}</ref><br />Live on [[BT Sport]]
+}}
+
+===Premier League===
+{{main|2019–20 Premier League}}
+Manchester City entered the 2019–20 Premier League as two-time [[2018–19 Premier League|defending champions]].<ref>{{Cite web|url=https://www.premierleague.com/history|title=Premier League History, Origins & List of Past Champions|website=www.premierleague.com|language=en|access-date=1 July 2019}}</ref>
+
+====League table====
+{{:2019–20 Premier League|showteam=MCI}}
+
+====Results summary====
+{{Fb_rs|hw=15 |hd=2 |hl=2 |hgf=57 |hga=13 |aw=11 |ad=1 |al=7 |agf=45 |aga=22 }}
+{{Fb rs footer|date=February 2019|s=[https://www.premierleague.com/tables?co=1&se=274&ha=H Premier League]}}
+
+====Results by matchday====
+{{#invoke:sports rbr table|table|legendpos=b|header=Matchday
+
+|label1=Ground
+|res1=[[London Stadium|A]]/[[City of Manchester Stadium|H]]/[[Vitality Stadium|A]]/H/[[Carrow Road|A]]/[[City of Manchester Stadium|H]]/[[Goodison Park|A]]/H/A/H/H/A/H/A/A/H/A/H/A/H/H/A/H/A/A/H/A/A/H/H/A/H/A/H/A/H/A/H
+|label2=Result
+|res2=W/D/W/W/L/W/W/L/W/W/W/L/W/D/W/L/W/W/L/W/W/W/D/W/L/W/W/L/W/W/L/W/L/W/W/W/W/W
+|label3=Position
+|res3=1/3/2/2/2/2/2/2/2/2/2/4/3/3/3/3/3/3/3/3/3/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2
+
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color1=gold|color_2-4=green1|color_5-6=blue1|color_18–20=red1
+
+| source=[https://www.premierleague.com/tables?co=1&se=363&ha=-1 Premier League]
+|date=June 2019
+}}
+
+====Fixtures====
+On 13 June 2019, the [[Premier League]] fixtures were announced.<ref>{{cite news |title=Premier League fixtures for 2019/20 announced |url=https://www.premierleague.com/news/1240976 |publisher=Premier League |access-date=13 June 2019}}</ref><ref>{{cite web|url=https://www.premierleague.com/clubs/11/Manchester-City/fixtures|title=Manchester City FC Fixtures & Results 2019/2020|publisher=Premier League|access-date=1 July 2019}}</ref>
+
+{{football box collapsible
+|date = {{Start date|2019|08|10|df=y}}
+|time = 12:30 [[British Summer Time|BST]]
+|round = 1
+|score = 0–5
+|report = https://www.premierleague.com/match/46612
+|team1 = [[West Ham United F.C.|West Ham United]]
+|team2 = Manchester City
+|stadium = [[London Stadium]]
+|location = [[Stratford, London|Stratford]]
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = W
+|goals1 = [[Fabián Balbuena|Balbuena]] {{yel|61}}<br />[[Felipe Anderson]] {{yel|62}}
+|goals2 = [[Gabriel Jesus]] {{goal|25}}<br />[[Raheem Sterling|Sterling]] {{goal|51||75||90+1}}, {{yel|90+3}}<br />[[Sergio Agüero|Agüero]] {{goal|86|pen.}}<br />[[Kyle Walker|Walker]] {{yel|87}}
+|attendance = 59,870
+|note = Live on [[BT Sport]]
+}}
+{{football box collapsible
+|date = {{Start date|2019|08|17|df=y}}
+|time = 17:30 [[British Summer Time|BST]]
+|round = 2
+|score = 2–2
+|report = https://www.premierleague.com/match/46620
+|team1 = Manchester City
+|team2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = D
+|goals1 = [[Raheem Sterling|Sterling]] {{goal|20}}, {{yel|26}}<br />[[Sergio Agüero|Agüero]] {{goal|35}}
+|goals2 = [[Erik Lamela|Lamela]] {{goal|23}}<br />[[Lucas Moura|Lucas]] {{goal|56}}
+|attendance = 54,503
+|note = Live on [[Sky Sports]]
+}}
+{{football box collapsible
+|date = {{Start date|2019|08|25|df=y}}
+|time = 14:00 [[British Summer Time|BST]]
+|round = 3
+|score = 1–3
+|report = https://www.premierleague.com/match/46626
+|team1 = [[A.F.C. Bournemouth|Bournemouth]]
+|team2 = Manchester City
+|stadium = [[Dean Court|Vitality Stadium]]
+|location = [[Bournemouth]]
+|referee = [[Andre Marriner]]
+|result = W
+|goals1 = [[Harry Wilson (footballer, born 1997)|H. Wilson]] {{goal|45+3}}<br />[[Jefferson Lerma|Lerma]] {{yel|56}}
+|goals2 = [[Kyle Walker|Walker]] {{yel|10}}<br />[[Ederson (footballer, born 1993)|Ederson]] {{yel|13}}<br />[[Sergio Agüero|Agüero]] {{goal|15||64}}<br />[[Raheem Sterling|Sterling]] {{goal|43}}<br />[[Nicolás Otamendi|Otamendi]] {{yel|90}}
+|attendance = 10,486
+|note = Live on [[Sky Sports]]
+}}
+{{football box collapsible
+|date = {{Start date|2019|08|31|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 4
+|score = 4–0
+|report = https://www.premierleague.com/match/46641
+|team1 = Manchester City
+|team2 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Jon Moss (referee)|Jon Moss]]
+|result = W
+|goals1 = [[Kevin De Bruyne|De Bruyne]] {{goal|2}}<br />[[Aymeric Laporte|Laporte]] {{yel|36}}<br />[[Sergio Agüero|Agüero]] {{goal|42||55}}<br />[[Bernardo Silva|B. Silva]] {{goal|79}}
+|goals2 = [[Lewis Dunk|Dunk]] {{yel|83}}
+|attendance = 54,386
+}}
+{{football box collapsible
+|date = {{Start date|2019|09|14|df=y}}
+|time = 17:30 [[British Summer Time|BST]]
+|round = 5
+|score = 3–2
+|report = https://www.premierleague.com/match/46650
+|team1 = [[Norwich City F.C.|Norwich City]]
+|team2 = Manchester City
+|stadium = [[Carrow Road]]
+|location = [[Norwich]]
+|referee = [[Kevin Friend]]
+|result = L
+|goals1 = [[Kenny McLean|McLean]] {{goal|18}}, {{yel|64}}<br />[[Todd Cantwell|Cantwell]] {{goal|28}}, {{yel|87}}<br />[[Sam Byram|Byram]] {{yel|45+2}}<br />[[Teemu Pukki|Pukki]] {{goal|50}}
+|goals2 = [[Sergio Agüero|Agüero]] {{goal|45}}<br />[[Bernardo Silva|B. Silva]] {{yel|69}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{goal|88}}
+|attendance = 27,035
+|note = Live on [[Sky Sports]]
+}}
+{{football box collapsible
+|date = {{Start date|2019|09|21|df=y}}
+|time = 15:00 [[British Summer Time|BST]]
+|round = 6
+|score = 8–0
+|report = https://www.premierleague.com/match/46661
+|team1 = Manchester City
+|team2 = [[Watford F.C.|Watford]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = W
+|goals1 = [[David Silva|D. Silva]] {{goal|1}}<br />[[Sergio Agüero|Agüero]] {{goal|7|pen.}}<br />[[Riyad Mahrez|Mahrez]] {{goal|12}}<br />[[Bernardo Silva|B. Silva]] {{goal|15||48||60}}, {{yel|19}}<br />[[Nicolás Otamendi|Otamendi]] {{goal|18}}<br />[[Angeliño]] {{yel|81}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|84}}
+|goals2 = [[Kiko Femenía|Femenía]] {{yel|59}}<br />[[Gerard Deulofeu|Deulofeu]] {{yel|59}}
+|attendance = 54,273
+}}
+{{football box collapsible
+|date = {{Start date|2019|09|28|df=y}}
+|time = 17:30 [[British Summer Time|BST]]
+|round = 7
+|score = 1–3
+|report = https://www.premierleague.com/match/46669
+|team1 = [[Everton F.C.|Everton]]
+|team2 = Manchester City
+|stadium = [[Goodison Park]]
+|location = [[Liverpool]]
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = W
+|goals1 = [[Dominic Calvert-Lewin|Calvert-Lewin]] {{goal|33}}<br />[[Morgan Schneiderlin|Schneiderlin]] {{yel|59}}<br />[[Yerry Mina|Mina]] {{yel|70}}
+|goals2 = [[Gabriel Jesus]] {{goal|24}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{yel|38}}<br />[[Nicolás Otamendi|Otamendi]] {{yel|51}}<br />[[Riyad Mahrez|Mahrez]] {{goal|71}}<br />[[Raheem Sterling|Sterling]] {{goal|84}}
+|attendance = 39,222
+|note = Live on [[Sky Sports]]
+}}
+{{football box collapsible
+|date = {{Start date|2019|10|06|df=y}}
+|time = 14:00 [[British Summer Time|BST]]
+|round = 8
+|score = 0–2
+|report = https://www.premierleague.com/match/46679
+|team1 = Manchester City
+|team2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Craig Pawson]]
+|result = L
+|goals1 = [[Rodri (footballer, born 1996)|Rodri]] {{yel|50}}<br />[[João Cancelo|Cancelo]] {{yel|50}}<br />[[Ederson (footballer, born 1993)|Ederson]] {{yel|62}}<br />[[İlkay Gündoğan|Gündoğan]] {{yel|71}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|76}}
+|goals2 = [[Adama Traoré (footballer, born 1996)|Traoré]] {{goal|80||90+4}}<br />[[Rúben Neves|Neves]] {{yel|84}}<br />[[João Moutinho|Moutinho]] {{yel|86}}
+|attendance = 54,435
+}}
+{{football box collapsible
+|date = {{Start date|2019|10|19|df=y}}
+|time = 17:30 [[British Summer Time|BST]]
+|round = 9
+|score = 0–2
+|report = https://www.premierleague.com/match/46688
+|team1 = [[Crystal Palace F.C.|Crystal Palace]]
+|team2 = Manchester City
+|stadium = [[Selhurst Park]]
+|location = [[Selhurst]]
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = W
+|goals1 = [[Luka Milivojević|Milivojević]] {{yel|13}}
+|goals2 = [[Gabriel Jesus]] {{goal|39}}<br />[[David Silva|D. Silva]] {{goal|41}}<br />[[Raheem Sterling|Sterling]] {{yel|46}}
+|attendance = 25,480
+|note = Live on [[Sky Sports]]
+}}
+{{football box collapsible
+|date = {{Start date|2019|10|26|df=y}}
+|time = 12:30 [[British Summer Time|BST]]
+|round = 10
+|score = 3–0
+|report = https://www.premierleague.com/match/46699
+|team1 = Manchester City
+|team2 = [[Aston Villa F.C.|Aston Villa]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Graham Scott (referee)|Graham Scott]]
+|result = W
+|goals1 = [[Raheem Sterling|Sterling]] {{goal|46}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{sentoff|2|57|87}}<br />[[David Silva|D. Silva]] {{goal|65}}<br />[[İlkay Gündoğan|Gündoğan]] {{goal|70}}, {{yel|81}}
+|goals2 = [[Jack Grealish|Grealish]] {{yel|36}}
+|attendance = 54,506
+|note = Live on [[BT Sport]]
+}}
+{{football box collapsible
+|date = {{Start date|2019|11|2|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = 11
+|score = 2–1
+|report = https://www.premierleague.com/match/46711
+|team1 = Manchester City
+|team2 = [[Southampton F.C.|Southampton]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Lee Mason]]
+|result = W
+|goals1 = [[Raheem Sterling|Sterling]] {{yel|40}}<br />[[Sergio Agüero|Agüero]] {{goal|70}}<br />[[Kyle Walker|Walker]] {{goal|86}}<br />[[İlkay Gündoğan|Gündoğan]] {{yel|89}}<br />[[Ederson (footballer, born 1993)|Ederson]] {{yel|90+5}}
+|goals2 = [[James Ward-Prowse|Ward-Prowse]] {{goal|13}}<br />[[Pierre-Emile Højbjerg|Højbjerg]] {{yel|18}}
+|attendance = 53,922
+}}
+{{football box collapsible
+|date = {{Start date|2019|11|10|df=y}}
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|round = [[Liverpool F.C.–Manchester City F.C. rivalry|12]]
+|score = 3–1
+|report = https://www.premierleague.com/match/46718
+|team1 = [[Liverpool F.C.|Liverpool]]
+|team2 = Manchester City
+|stadium = [[Anfield]]
+|location = [[Liverpool]]
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = L
+|goals1 = [[Fabinho (footballer, born 1993)|Fabinho]] {{goal|6}}<br />[[Mohamed Salah|Salah]] {{goal|13}}<br />[[Sadio Mané|Mané]] {{goal|51}}
+|goals2 = [[Rodri (footballer, born 1996)|Rodri]] {{yel|65}}<br />[[Bernardo Silva|B. Silva]] {{goal|78}}<br />[[Gabriel Jesus]] {{yel|90+5}}
+|attendance = 53,324
+|note = Live on [[Sky Sports]]
+}}
+{{football box collapsible
+|date = {{Start date|2019|11|23|df=y}}
+|time = 17:30 [[Greenwich Mean Time|GMT]]
+|round = 13
+|score = 2–1
+|report = https://www.premierleague.com/match/46731
+|team1 = Manchester City
+|team2 = [[Chelsea F.C.|Chelsea]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Martin Atkinson]]
+|result = W
+|goals1 = [[Kevin De Bruyne|De Bruyne]] {{goal|29}}<br />[[Riyad Mahrez|Mahrez]] {{goal|37}}<br />[[İlkay Gündoğan|Gündoğan]] {{yel|90+2}}
+|goals2 = [[N'Golo Kanté|Kanté]] {{goal|21}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|61}}
+|attendance = 54,486
+|note = Live on [[Sky Sports]]
+}}
+{{football box collapsible
+|date = {{Start date|2019|11|30|df=y}}
+|time = 12:30 [[Greenwich Mean Time|GMT]]
+|round = 14
+|score = 2–2
+|report = https://www.premierleague.com/match/46740
+|team1 = [[Newcastle United F.C.|Newcastle United]]
+|team2 = Manchester City
+|stadium = [[St James' Park]]
+|location = [[Newcastle upon Tyne|Newcastle]]
+|referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+|result = D
+|goals1 = [[Jetro Willems|Willems]] {{goal|25}}<br />[[Javier Manquillo|Manquillo]] {{yel|73}}<br />[[Jonjo Shelvey|Shelvey]] {{goal|88}}
+|goals2 = [[Raheem Sterling|Sterling]] {{goal|22}}<br />[[İlkay Gündoğan|Gündoğan]] {{yel|24}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|53}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|82}}
+|attendance = 49,937
+}}
+{{football box collapsible
+|date = {{Start date|2019|12|3|df=y}}
+|time = 20:15 [[Greenwich Mean Time|GMT]]
+|round = 15
+|score = 1–4
+|report = https://www.premierleague.com/match/46746
+|team1 = [[Burnley F.C.|Burnley]]
+|team2 = Manchester City
+|stadium = [[Turf Moor]]
+|location = [[Burnley]]
+|referee = [[Jon Moss (referee)|Jon Moss]]
+|result = W
+|goals1 = [[Jeff Hendrick|Hendrick]] {{yel|86}}<br />[[Robbie Brady|Brady]] {{goal|89}}
+|goals2 = [[Bernardo Silva|B. Silva]] {{yel|15}}<br />[[Gabriel Jesus]] {{goal|24||50}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{goal|68}}<br />[[Riyad Mahrez|Mahrez]] {{goal|87}}
+|attendance = 20,101
+}}
+{{football box collapsible
+|date = {{Start date|2019|12|7|df=y}}
+|time = 17:30 [[Greenwich Mean Time|GMT]]
+|round = [[Manchester derby|16]]
+|score = 1–2
+|report = https://www.premierleague.com/match/46759
+|team1 = Manchester City
+|team2 = [[Manchester United F.C.|Manchester United]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = L
+|goals1 = [[Bernardo Silva|B. Silva]] {{yel|22}}<br />[[Kevin De Bruyne|De Bruyne]] {{yel|79}}<br />[[Nicolás Otamendi|Otamendi]] {{goal|85}}<br />[[Kyle Walker|Walker]] {{yel|90+4}}
+|goals2 = [[Marcus Rashford|Rashford]] {{goal|23|pen.}}<br />[[Anthony Martial|Martial]] {{goal|29}}<br />[[David de Gea|De Gea]] {{yel|54}}<br />[[Andreas Pereira|Pereira]] {{yel|74}}
+|attendance = 54,403
+}}
+{{football box collapsible
+|date = {{Start date|2019|12|15|df=y}}
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|round = 17
+|team1 = [[Arsenal F.C.|Arsenal]]
+|score = 0–3
+|report = https://www.premierleague.com/match/46765
+|team2 = Manchester City
+|location = [[Holloway, London|Holloway]]
+|stadium = [[Emirates Stadium]]
+|referee = [[Paul Tierney (referee)|Paul Tierney]]
+|result = W
+|goals1 = [[Sokratis Papastathopoulos|Papastathopoulos]] {{yel|72}}
+|goals2 = [[Kevin De Bruyne|De Bruyne]] {{goal|2||40}}<br />[[Raheem Sterling|Sterling]] {{goal|15}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|17}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{yel|34}}<br />[[İlkay Gündoğan|Gündoğan]] {{yel|61}}<br />[[Benjamin Mendy|Mendy]] {{yel|62}}
+|attendance = 60,031
+}}
+{{football box collapsible
+|date = {{Start date|2019|12|21|df=y}}
+|time = 17:30 [[Greenwich Mean Time|GMT]]
+|round = 18
+|score = 3–1
+|report = https://www.premierleague.com/match/46779
+|team1 = Manchester City
+|team2 = [[Leicester City F.C.|Leicester City]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = W
+|goals1 = [[Riyad Mahrez|Mahrez]] {{goal|30}}<br />[[İlkay Gündoğan|Gündoğan]] {{goal|43|pen.}}, {{yel|71}}<br />[[Kevin De Bruyne|De Bruyne]] {{yel|59}}<br />[[Gabriel Jesus]] {{goal|69}}
+|goals2 = [[Jamie Vardy|Vardy]] {{goal|22}}<br />[[Çağlar Söyüncü|Söyüncü]] {{yel|35}}<br />[[Wilfred Ndidi|Ndidi]] {{yel|51}}
+|attendance = 54,415
+}}
+{{football box collapsible
+|date = {{Start date|2019|12|27|df=y}}
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = 19
+|score = 3–2
+|report = https://www.premierleague.com/match/46794
+|team1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|team2 = Manchester City
+|stadium = [[Molineux Stadium|Molineux]]
+|location = [[Wolverhampton]]
+|referee = [[Martin Atkinson]]
+|result = L
+|goals1 = [[Adama Traoré (footballer, born 1996)|Traoré]] {{goal|55}}<br />[[Raúl Jiménez|Jiménez]] {{goal|82}}<br />[[Matt Doherty (footballer, born 1992)|Doherty]] {{goal|89}}
+|goals2 = [[Ederson (footballer, born 1993)|Ederson]] {{sentoff|0|12}}<br />[[Raheem Sterling|Sterling]] {{penmiss}} {{small|25'}} {{goal|25||50}} <br />[[Nicolás Otamendi|Otamendi]] {{yel|60}}
+|attendance = 31,737
+}}
+{{football box collapsible
+|date = {{Start date|2019|12|29|df=y}}
+|time = 18:00 [[Greenwich Mean Time|GMT]]
+|round = 20
+|score = 2–0
+|report = https://www.premierleague.com/match/46799
+|team1 = Manchester City
+|team2 = [[Sheffield United F.C.|Sheffield United]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+|result = W
+|goals1 = [[Sergio Agüero|Agüero]] {{goal|52}}<br />[[Bernardo Silva|B. Silva]] {{yel|59}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|82}}
+|goals2 = [[Enda Stevens|Stevens]] {{yel|85}}
+|attendance = 54,512
+}}
+{{football box collapsible
+|date = {{Start date|2020|1|1|df=y}}
+|time = 17:30 [[Greenwich Mean Time|GMT]]
+|round = 21
+|score = 2–1
+|report = https://www.premierleague.com/match/46809
+|team1 = Manchester City
+|team2 = [[Everton F.C.|Everton]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Andre Marriner]]
+|result = W
+|goals1 = [[Gabriel Jesus]] {{goal|51||58}}
+|goals2 = [[Yerry Mina|Mina]] {{yel|30}}<br />[[Fabian Delph|Delph]] {{yel|69}}<br />[[Richarlison]] {{goal|71}}<br />[[Tom Davies (footballer, born 1998)|Davies]] {{yel|79}}<br />[[Dominic Calvert-Lewin|Calvert-Lewin]] {{yel|86}}
+|attendance = 54,407
+}}
+{{football box collapsible
+|date = {{Start date|2020|1|12|df=y}}
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|round = 22
+|score = 1–6
+|report = https://www.premierleague.com/match/46815
+|team1 = [[Aston Villa F.C.|Aston Villa]]
+|team2 = Manchester City
+|stadium = [[Villa Park]]
+|location = [[Birmingham]]
+|referee = [[Jon Moss (referee)|Jon Moss]]
+|result = W
+|goals1 = [[Anwar El Ghazi|El Ghazi]] {{yel|53}}, {{goal|90+1|pen.}}<br />[[Jack Grealish|Grealish]] {{yel|80}}
+|goals2 = [[Riyad Mahrez|Mahrez]] {{goal|18||24}}<br />[[Sergio Agüero|Agüero]] {{goal|28||57||81}}<br />[[Gabriel Jesus]] {{goal|45+1}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|50}}
+|attendance = 41,823
+}}
+{{football box collapsible
+|date = {{Start date|2020|1|18|df=y}}
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|round = 23
+|score = 2–2
+|report = https://www.premierleague.com/match/46829
+|team1 = Manchester City
+|team2 = [[Crystal Palace F.C.|Crystal Palace]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Graham Scott (referee)|Graham Scott]]
+|result = D
+|goals1 = [[Benjamin Mendy|Mendy]] {{yel|58}}<br />[[Sergio Agüero|Agüero]] {{goal|82||87}}
+|goals2 = [[James McArthur|McArthur]] {{yel|13}}<br />[[Jordan Ayew|Ayew]] {{yel|26}}<br />[[Cenk Tosun|Tosun]] {{goal|39}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{goal|90|o.g.}}
+|attendance = 54,439
+}}
+{{football box collapsible
+|date = {{Start date|2020|1|21|df=y}}
+|time = 19:30 [[Greenwich Mean Time|GMT]]
+|round = 24
+|score = 0–1
+|report = https://www.premierleague.com/match/46840
+|team1 = [[Sheffield United F.C.|Sheffield United]]
+|team2 = Manchester City
+|stadium = [[Bramall Lane]]
+|location = [[Sheffield]]
+|referee = [[Lee Mason]]
+|result = W
+|goals1 = [[Muhamed Bešić|Bešić]] {{yel|13}}<br />[[Oliver Norwood|Norwood]] {{yel|24}}<br />[[John Fleck (footballer)|Fleck]] {{yel|43}}<br />[[Oli McBurnie|McBurnie]] {{yel|84}}
+|goals2 = [[Gabriel Jesus]] {{penmiss}} {{small|36'}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|45+2}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{yel|53}}<br />[[Sergio Agüero|Agüero]] {{goal|73}}, {{yel|83}}
+|attendance = 31,285
+}}
+{{football box collapsible
+|date = {{Start date|2020|2|2|df=y}}
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|round = 25
+|score = 2–0
+|report = https://www.premierleague.com/match/46852
+|team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|team2 = Manchester City
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = L
+|goals1 = [[Toby Alderweireld|Alderweireld]] {{yel|42}}<br />[[Steven Bergwijn|Bergwijn]] {{goal|63}}<br />[[Giovani Lo Celso|Lo Celso]] {{yel|66}}<br />[[Son Heung-min|Son]] {{goal|71}}
+|goals2 = [[Raheem Sterling|Sterling]] {{yel|12}}<br />[[Kyle Walker|Walker]] {{yel|33}}<br />[[İlkay Gündoğan|Gündoğan]] {{penmiss}} {{small|40'}}<br />[[Oleksandr Zinchenko (footballer)|Zinchenko]] {{sentoff|2|42|60}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{yel|90+4}}
+|attendance = 61,022
+}}
+{{football box collapsible
+|date = {{Start date|2020|2|19|df=y}}
+|time = 19:30 [[Greenwich Mean Time|GMT]]
+|round = 26
+|score = 2–0
+|report = https://www.premierleague.com/match/46860
+|team1 = Manchester City
+|team2 = [[West Ham United F.C.|West Ham United]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Kevin Friend]]
+|result = W
+|goals1 = [[Rodri (footballer, born 1996)|Rodri]] {{goal|30}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|62}}
+|goals2 = [[Arthur Masuaku|Masuaku]] {{yel|45}}
+|attendance = 52,159
+|note = Match originally scheduled for 9 February 2020 but delayed due to poor weather conditions caused by [[Storm Ciara]].
+}}
+{{football box collapsible
+|date = {{Start date|2020|2|22|df=y}}
+|time = 17:30 [[Greenwich Mean Time|GMT]]
+|round = 27
+|score = 0–1
+|report = https://www.premierleague.com/match/46869
+|team1 = [[Leicester City F.C.|Leicester City]]
+|team2 = Manchester City
+|stadium = [[King Power Stadium]]
+|location = [[Leicester]]
+|referee = [[Paul Tierney (referee)|Paul Tierney]]
+|result = W
+|goals1 = 
+|goals2 = [[Sergio Agüero|Agüero]] {{penmiss}} {{small|62'}}<br />[[Gabriel Jesus]] {{goal|80}}
+|attendance = 32,068
+}}
+{{football box collapsible
+|date = {{Start date|2020|3|8|df=y}}
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|round = [[Manchester derby|28]]
+|score = 2–0
+|report = https://www.premierleague.com/match/46891
+|team1 = [[Manchester United F.C.|Manchester United]]
+|team2 = Manchester City
+|stadium = [[Old Trafford]]
+|location = [[Manchester]]
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = L
+|goals1 = [[Anthony Martial|Martial]] {{goal|30}}<br />[[Fred (footballer, born 1993)|Fred]] {{yel|42}}<br />[[Harry Maguire|Maguire]] {{yel|90+5}}<br />[[Scott McTominay|McTominay]] {{goal|90+6}}
+|goals2 = [[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|29}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{yel|30}}<br />[[João Cancelo|Cancelo]] {{yel|59}}<br />[[Gabriel Jesus]] {{yel|90+8}}
+|attendance = 73,288
+}}
+{{football box collapsible
+|date = {{Start date|2020|6|17|df=y}}
+|time = 20:15 [[British Summer Time|BST]]
+|round = 29
+|score = 3–0
+|report = https://www.premierleague.com/match/46879
+|team1 = Manchester City
+|team2 = [[Arsenal F.C.|Arsenal]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = W
+|goals1 = [[Raheem Sterling|Sterling]] {{goal|45+2}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|51|pen.}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{yel|79}}<br />[[Phil Foden|Foden]] {{goal|90+1}}
+|goals2 = [[David Luiz]] {{sentoff|0|49}}<br />[[Kieran Tierney|Tierney]] {{yel|76}}
+|attendance = 0
+|note = The match was initially postponed from 1 March to 11 March due to Manchester City's involvement in the [[2020 EFL Cup Final]].<ref>{{cite news|url=https://www.mancity.com/news/mens/arsenal-chelsea-man-city-rearranged-fixture-63718869|title=New date for Arsenal clash confirmed|publisher=Manchester City F.C.|date=3 March 2020|access-date=3 March 2020}}</ref> Later, it was again postponed following fears that Arsenal personnel had come into contact with [[Olympiacos F.C.|Olympiacos]] owner [[Evangelos Marinakis]], who was carrying the [[SARS-CoV-2|coronavirus]].<ref>{{cite news|url=https://www.mancity.com/news/mens/man-city-arsenal-postponed-63719481|title=Club statement|publisher=Manchester City F.C.|date=11 March 2020|access-date=11 March 2020}}</ref> The match was ultimately rescheduled to 17 June.<ref name="Rescheduled">{{cite web |url=https://www.premierleague.com/news/1676717|title=Premier League confirms initial fixtures for season restart|publisher=Premier League|date=5 June 2020|access-date=5 June 2020}}</ref>
+}}
+{{football box collapsible
+|date = {{Start date|2020|6|22|df=y}}
+|time = 20:00 [[British Summer Time|BST]]
+|round = 30
+|score = 5–0
+|report = https://www.premierleague.com/match/46899
+|team1 = Manchester City
+|team2 = [[Burnley F.C.|Burnley]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Andre Marriner]]
+|result = W
+|goals1 = [[Phil Foden|Foden]] {{goal|22||63}}<br />[[Riyad Mahrez|Mahrez]] {{goal|43||45+3|pen.}}<br />[[David Silva|D. Silva]] {{goal|51}}<br />[[João Cancelo|Cancelo]] {{yel|62}}
+|goals2 = [[Josh Brownhill|Brownhill]] {{yel|43}}
+|attendance = 0
+|note = The match was postponed on 13 March due to concerns over the [[COVID-19 pandemic in the United Kingdom|coronavirus pandemic]],<ref name="Coronavirus">{{Cite news |title=Premier League, FA, EFL and WSL unite to postpone fixtures |url=https://www.premierleague.com/news/1645173  |access-date=15 March 2020 |work=[[Premier League]]}}</ref> and rescheduled to 22 June.<ref name="Rescheduled"/>
+}}
+{{football box collapsible
+|date = {{Start date|2020|6|25|df=y}}
+|time = 20:15 [[British Summer Time|BST]]
+|round = 31
+|score = 2–1
+|report = https://www.premierleague.com/match/46906
+|team1 = [[Chelsea F.C.|Chelsea]]
+|team2 = Manchester City
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|referee = [[Stuart Attwell]]
+|result = L
+|goals1 = [[Christian Pulisic|Pulisic]] {{goal|36}}<br />[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|38}}<br />[[Willian (footballer, born 1988)|Willian]] {{goal|78|pen.}}
+|goals2 = [[Kevin De Bruyne|De Bruyne]] {{goal|55}}, {{yel|76}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{sentoff|0|77}}
+|attendance = 0
+|note = The match was postponed on 19 March due to concerns over the [[COVID-19 pandemic in the United Kingdom|coronavirus pandemic]],<ref name="Postponed">{{cite web|url=https://www.premierleague.com/news/1646728|title=Joint statement from FA, Premier League and EFL|publisher=[[Premier League]]|date=19 March 2020|access-date=19 March 2020}}</ref> and rescheduled to 25 June.<ref name="Rescheduled"/>
+}}
+{{football box collapsible
+|date = {{Start date|2020|7|2|df=y}}
+|time = 20:15 [[British Summer Time|BST]]
+|round = [[Liverpool F.C.–Manchester City F.C. rivalry|32]]
+|score = 4–0
+|report = https://www.premierleague.com/match/46921
+|team1 = Manchester City
+|team2 = [[Liverpool F.C.|Liverpool]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = W
+|goals1 = [[Kevin De Bruyne|De Bruyne]] {{goal|25|pen.}}<br />[[Raheem Sterling|Sterling]] {{goal|35}}<br />[[Benjamin Mendy|Mendy]] {{yel|41}}<br />[[Phil Foden|Foden]] {{goal|45}}<br />[[Kyle Walker|Walker]] {{yel|57}}<br />[[Alex Oxlade-Chamberlain|Oxlade-Chamberlain]] {{goal|66|o.g.}}
+|goals2 = [[Joe Gomez (footballer)|Gomez]] {{yel|24}}<br />[[Jordan Henderson|Henderson]] {{yel|90+1}}
+|attendance = 0
+|note = The match was postponed on 19 March due to concerns over the [[COVID-19 pandemic in the United Kingdom|coronavirus pandemic]],<ref name="Postponed"/> and rescheduled to 2 July.<ref name="Rescheduled"/>
+}}
+{{football box collapsible
+|date = {{Start date|2020|7|5|df=y}}
+|time = 19:00 [[British Summer Time|BST]]
+|round = 33
+|score = 1–0
+|report = https://www.premierleague.com/match/46932
+|team1 = [[Southampton F.C.|Southampton]]
+|team2 = Manchester City
+|stadium = [[St. Mary's Stadium]]
+|location = [[Southampton]]
+|referee = [[Andre Marriner]]
+|result = L
+|goals1 = [[Ché Adams|Adams]] {{goal|16}}<br />[[Oriol Romeu|Romeu]] {{yel|45}}
+|goals2 = [[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|57}}<br />[[Gabriel Jesus]] {{yel|86}}
+|attendance = 0
+|note = The match was postponed on 19 March due to concerns over the [[COVID-19 pandemic in the United Kingdom|coronavirus pandemic]],<ref name="Postponed"/> and rescheduled to 5 July.<ref name="Rescheduled2">{{cite web|url=https://www.premierleague.com/news/1682467|title=Revised Premier League fixtures for 4–13 July|publisher=Premier League|date=18 June 2020|access-date=27 June 2020}}</ref>
+}}
+{{football box collapsible
+|date = {{Start date|2020|7|8|df=y}}
+|time = 18:00 [[British Summer Time|BST]]
+|round = 34
+|score = 5–0
+|report = https://www.premierleague.com/match/46941
+|team1 = Manchester City
+|goals1 = [[Gabriel Jesus]] {{goal|10}}<br />[[Riyad Mahrez|Mahrez]] {{goal|21}}<br />[[Federico Fernández (footballer)|Fernández]] {{goal|58|o.g.}}<br />[[David Silva|D. Silva]] {{goal|65}}<br />[[Raheem Sterling|Sterling]] {{goal|90+1}}
+|team2 = [[Newcastle United F.C.|Newcastle United]]
+|goals2 = 
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|attendance = 0
+|referee = [[Andrew Madley]]
+|result = W
+|note = The match was postponed on 3 April due to concerns over the [[COVID-19 pandemic in the United Kingdom|coronavirus pandemic]],<ref name="Suspended">{{cite web|url=https://www.premierleague.com/news/1651836|title=Premier League statement|publisher=[[Premier League]]|date=3 April 2020|access-date=3 April 2020}}</ref> and rescheduled to 8 July.<ref name="Rescheduled2"/>
+}}
+{{football box collapsible
+|date = {{Start date|2020|7|11|df=y}}
+|time = 20:00 [[British Summer Time|BST]]
+|round = 35
+|score = 0–5
+|report = https://www.premierleague.com/match/46947
+|team1 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|goals1 = [[Yves Bissouma|Bissouma]] {{yel|83}}
+|team2 = Manchester City
+|goals2 = [[Raheem Sterling|Sterling]] {{goal|21||53||81}}<br />[[Gabriel Jesus]] {{goal|44}}<br />[[Bernardo Silva|B. Silva]] {{goal|56}}
+|stadium = [[Falmer Stadium]]
+|location = [[Falmer]]
+|attendance = 0
+|referee = [[Graham Scott (referee)|Graham Scott]]
+|result = W
+|note = The match was postponed on 3 April due to concerns over the [[COVID-19 pandemic in the United Kingdom|coronavirus pandemic]],<ref name="Suspended"/> and rescheduled to 11 July.<ref name="Rescheduled2"/>
+}}
+{{football box collapsible
+|date = {{Start date|2020|7|15|df=y}}
+|time = 18:00 [[British Summer Time|BST]]
+|round = 36
+|score = 2–1
+|report = https://www.premierleague.com/match/46961
+|team1 = Manchester City
+|goals1 = [[David Silva|D. Silva]] {{goal|6}}<br />[[Gabriel Jesus]] {{goal|39}}<br />[[Eric García (footballer, born 2001)|García]] {{yel|90+4}}
+|team2 = [[A.F.C. Bournemouth|Bournemouth]]
+|goals2 = [[Lloyd Kelly|Kelly]] {{yel|17}}<br />[[David Brooks (footballer)|Brooks]] {{goal|88}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|attendance = 0
+|referee = [[Lee Mason]]
+|result = W
+|note = The match was postponed on 3 April due to concerns over the [[COVID-19 pandemic in the United Kingdom|coronavirus pandemic]],<ref name="Suspended"/> and rescheduled to 15 July.<ref name="Rescheduled3">{{cite web |url=https://www.premierleague.com/news/1702418|title=Revised Premier League fixtures for 14–22 July|publisher=Premier League|date=4 July 2020|access-date=7 July 2020}}</ref>
+}}
+{{football box collapsible
+|date = {{Start date|2020|7|21|df=y}}
+|time = 18:00 [[British Summer Time|BST]]
+|round = 37
+|score = 0–4
+|report = https://www.premierleague.com/match/46973
+|team1 = [[Watford F.C.|Watford]]
+|goals1 = [[Adrian Mariappa|Mariappa]] {{yel|80}}<br />[[Will Hughes|Hughes]] {{yel|90+1}}
+|team2 = Manchester City
+|goals2 = [[Raheem Sterling|Sterling]] {{goal|31||40}}, {{penmiss}} {{small|40'}}<br />[[Phil Foden|Foden]] {{goal|63}}<br />[[Aymeric Laporte|Laporte]] {{goal|66}}
+|stadium = [[Vicarage Road]]
+|location = [[Watford]]
+|attendance = 0
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = W
+|note = The match was postponed on 3 April due to concerns over the [[COVID-19 pandemic in the United Kingdom|coronavirus pandemic]],<ref name="Suspended"/> and rescheduled to 21 July.<ref name="Rescheduled3"/>
+}}
+{{football box collapsible
+|date = {{Start date|2020|7|26|df=y}}
+|time = 16:00 [[British Summer Time|BST]]
+|round = 38
+|score = 5–0
+|report = https://www.premierleague.com/match/46981
+|team1 = Manchester City
+|goals1 = [[Gabriel Jesus]] {{goal|11}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|45+1||90}}<br />[[João Cancelo|Cancelo]] {{yel|51}}<br />[[Raheem Sterling|Sterling]] {{goal|79}}<br />[[Riyad Mahrez|Mahrez]] {{goal|83}}
+|team2 = [[Norwich City F.C.|Norwich City]]
+|goals2 = [[Christoph Zimmermann|Zimmermann]] {{yel|90+1}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|attendance = 0
+|referee = [[Craig Pawson]]
+|result = W
+|note = The match was postponed on 3 April due to concerns over the [[COVID-19 pandemic in the United Kingdom|coronavirus pandemic]],<ref name="Suspended"/> and rescheduled to 26 July.<ref name="Rescheduled3"/>
+}}
+
+===FA Cup===
+{{main|2019–20 FA Cup}}
+Manchester City entered the FA Cup in the third round as [[2018–19 FA Cup|defending champions]]. The third-round draw was made on 2 December 2019.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/50637970 |title =FA Cup third round: Liverpool draw Everton in third round
+|date=2 December 2019|work=BBC Sport|access-date=2 December 2019}}</ref> The fourth-round draw was made by [[Alex Scott (footballer, born 1984)|Alex Scott]] and [[David O'Leary]] on Monday, 6 January 2020.<ref>{{Cite web |title=The Emirates FA Cup Fourth Round Draw is Complete |url=http://www.thefa.com/news/2020/jan/06/fa-cup-fourth-round-draw-060120  |publisher=[[The Football Association]] |access-date=8 January 2019}}</ref> The draw for the fifth round was made on 27 January 2020, live on ''[[The One Show]]''.<ref>{{cite news |title=FA Cup fifth-round draw: Wayne Rooney could face former side Man Utd |url=https://www.bbc.co.uk/sport/football/51271468 |access-date=28 January 2020 |work=[[BBC]]}}</ref>
+
+{{football box collapsible
+|date = {{Start date|2020|1|4|df=y}}
+|time = 19:31 [[Greenwich Mean Time|GMT]]
+|round = [[2019–20 FA Cup#Third round proper|Third round]]
+|score = 4–1
+|report = https://www.bbc.com/sport/football/50976125
+|team1 = Manchester City
+|team2 = [[Port Vale F.C.|Port Vale]]
+|goals1 = [[Oleksandr Zinchenko (footballer)|Zinchenko]] {{goal|20}}<br />[[Sergio Agüero|Agüero]] {{goal|42}}<br />[[Taylor Harwood-Bellis|Harwood-Bellis]] {{goal|58}}<br />[[Phil Foden|Foden]] {{goal|76}}
+|goals2 = [[Tom Pope|Pope]] {{goal|35}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|attendance = 52,433
+|referee = [[Lee Mason]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2020|01|26|df=y}}
+|time = 13:00 [[Greenwich Mean Time|GMT]]
+|round = [[2019–20 FA Cup#Fourth round proper|Fourth round]]
+|score = 4–0
+|report = https://www.bbc.co.uk/sport/football/51208514
+|team1 = Manchester City
+|team2 = [[Fulham F.C.|Fulham]]
+|goals1 = [[İlkay Gündoğan|Gündoğan]] {{goal|8|pen.}}<br />[[Bernardo Silva|B. Silva]] {{goal|19}}<br />[[Gabriel Jesus]] {{goal|72||75}}
+|goals2 = [[Tim Ream|Ream]] {{sentoff|0|6}}<br />[[Joe Bryan|Bryan]] {{yel|90+1}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|attendance = 39,223
+|referee = [[Kevin Friend]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2020|03|04|df=y}}
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = [[2019–20 FA Cup#Fifth round proper|Fifth round]]
+|score = 0–1
+|report = https://www.bbc.co.uk/sport/football/51698390
+|team1 = [[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|team2 = Manchester City
+|goals1 = [[Liam Palmer|Palmer]] {{yel|36}}
+|goals2 = [[Sergio Agüero|Agüero]] {{goal|53}}<br />[[Riyad Mahrez|Mahrez]] {{yel|88}}
+|stadium = [[Hillsborough Stadium]]
+|location = [[Sheffield]]
+|attendance = 20,995
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = W
+}}
+{{Football box collapsible
+|date = {{Start date|2020|06|28|df=y}}
+|time = 18:00 [[British Summer Time|BST]]
+|round = [[2019–20 FA Cup#Quarter-finals|Quarter-finals]]
+|team1 = [[Newcastle United F.C.|Newcastle United]]
+|score = 0–2
+|report = https://www.bbc.co.uk/sport/football/53054976
+|team2 = Manchester City
+|goals1 = [[Andy Carroll|Carroll]] {{yel|61}}<br />[[Joelinton]] {{yel|90+2}}
+|goals2 = [[Kevin De Bruyne|De Bruyne]] {{goal|37|pen.}}<br />[[Raheem Sterling|Sterling]] {{goal|68}}
+|stadium = [[St James' Park]]
+|location = [[Newcastle upon Tyne]]
+|attendance = 0
+|referee = [[Lee Mason]]
+|result = W
+|note = The match was postponed due to the [[COVID-19 pandemic in the United Kingdom|COVID-19 pandemic]],<ref name="Postponed"/> and rescheduled to 28 June.<ref>{{cite web |url=https://www.thefa.com/news/2020/may/29/emirates-fa-cup-rearranged-schedule-announcement-290520|title=Provisional schedule for restarted 2019-20 Emirates FA Cup campaign agreed|publisher=The Football Association|date=29 May 2020|access-date=29 May 2020}}</ref>
+}}
+{{football box collapsible
+|date = {{Start date|2020|07|18|df=y}}
+|time = 19:45 [[British Summer Time|BST]]
+|round = [[2019–20 FA Cup#Semi-finals|Semi-finals]]
+|score = 2–0
+|report = https://www.bbc.co.uk/sport/football/53419787
+|team1 = [[Arsenal F.C.|Arsenal]]
+|goals1 = [[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|19||71}}
+|team2 = Manchester City
+|goals2 = 
+|stadium = [[Wembley Stadium]]
+|location = [[Wembley]]
+|attendance = 0
+|referee = [[Jon Moss (referee)|Jon Moss]]
+|result = L
+}}
+
+===EFL Cup===
+{{main|2019–20 EFL Cup}}
+Manchester City entered the EFL Cup in the third round as [[2018–19 EFL Cup|defending champions]]. The third-round draw was confirmed on 28 August 2019, live on [[Sky Sports]].<ref>{{cite web |title=Carabao Cup Round Three draw confirmed |url=https://www.efl.com/news/2019/august/carabao-cup-round-three-draw-to-take-place-live-on-sky-sports/ |publisher=[[English Football League]] |access-date=30 August 2019}}</ref> The draw for the fourth round was made on 25 September 2019.<ref>{{cite web |title=Carabao Cup Round Four draw confirmed |url=https://www.efl.com/news/2019/september/carabao-cup-round-four-draw-confirmed/ |publisher=[[English Football League]] |access-date=26 September 2019}}</ref> The quarter-finals draw was conducted on 31 October, live on [[BBC Radio 2]].<ref>{{cite web |title=Man City to play at Oxford in EFL Cup |url=https://www.bbc.co.uk/sport/football/50246769 |publisher=[[BBC]] |access-date=31 October 2019}}</ref>
+
+{{football box collapsible
+|date = {{Start date|2019|09|24|df=y}}
+|time = 19:45 [[British Summer Time|BST]]
+|round = [[2019–20 EFL Cup#Third round|Third round]]
+|score = 0–3
+|report = https://www.bbc.co.uk/sport/football/49723452
+|team1 = [[Preston North End F.C.|Preston North End]]
+|team2 = Manchester City
+|goals1 = [[Josh Harrop|Harrop]] {{yel|51}}
+|goals2 = [[Raheem Sterling|Sterling]] {{goal|19}}<br />[[Gabriel Jesus]] {{goal|35}}<br />[[Ryan Ledson|Ledson]] {{goal|42|o.g.}}
+|stadium = [[Deepdale]]
+|location = [[Preston, Lancashire|Preston]]
+|attendance = 22,025
+|referee = [[Lee Mason]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2019|10|29|df=y}}
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = [[2019–20 EFL Cup#Fourth round|Fourth round]]
+|score = 3–1
+|report = https://www.bbc.co.uk/sport/football/50134224
+|team1 = Manchester City
+|team2 = [[Southampton F.C.|Southampton]]
+|goals1 = [[Nicolás Otamendi|Otamendi]] {{goal|20}}<br />[[Sergio Agüero|Agüero]] {{goal|38||56}}
+|goals2 = [[Oriol Romeu|Romeu]] {{yel|33}}<br />[[Jack Stephens (footballer)|Stephens]] {{goal|75}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|attendance = 37,143
+|referee = [[Jon Moss (referee)|Jon Moss]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2019|12|18|df=y}}
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = [[2019–20 EFL Cup#Quarter-finals|Quarter-finals]]
+|score = 1–3
+|report = https://www.bbc.co.uk/sport/football/50738362
+|team1 = [[Oxford United F.C.|Oxford United]]
+|team2 = Manchester City
+|stadium = [[Kassam Stadium|The Kassam Stadium]]
+|location = [[Oxford]]
+|referee = [[Andrew Madley]]
+|result = W
+|goals1 = [[Matty Taylor (footballer, born 1990)|Taylor]] {{goal|46}}
+|goals2 = [[João Cancelo|Cancelo]] {{goal|22}}<br />[[Raheem Sterling|Sterling]] {{goal|51||70}}
+|attendance = 11,817
+}}
+{{football box collapsible
+|date = {{Start date|2020|1|7|df=y}}
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|round = [[2019–20 EFL Cup#Semi-finals|Semi-finals]] First Leg
+|score = 1–3
+|report = https://www.bbc.co.uk/sport/football/50953053
+|team1 = [[Manchester United F.C.|Manchester United]]
+|team2 = Manchester City
+|stadium = [[Old Trafford]]
+|location = [[Manchester]]
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = W
+|goals1 = [[Jesse Lingard|Lingard]] {{yel|35}}<br />[[Fred (footballer, born 1993)|Fred]] {{yel|52}}<br />[[Marcus Rashford|Rashford]] {{goal|70}}<br />[[Brandon Williams (footballer)|Williams]] {{yel|73}}
+|goals2 = [[Bernardo Silva|B. Silva]] {{goal|17}}<br />[[Riyad Mahrez|Mahrez]] {{goal|33}}<br />[[Andreas Pereira|Pereira]] {{goal|39|o.g.}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{yel|63}}<br />[[Kyle Walker|Walker]] {{yel|82}}
+|attendance = 69,023
+}}
+{{football box collapsible
+|date = {{Start date|2020|1|29|df=y}}
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = [[2019–20 EFL Cup#Semi-finals|Semi-finals]] Second Leg
+|score = 0–1
+|aggregatescore = 3–2
+|report = https://www.bbc.co.uk/sport/football/51201817
+|team1 = Manchester City
+|team2 = [[Manchester United F.C.|Manchester United]]
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]]
+|referee = [[Kevin Friend]]
+|result = L
+|goals1 = [[Rodri (footballer, born 1996)|Rodri]] {{yel|57}}<br />[[Nicolás Otamendi|Otamendi]] {{yel|87}}
+|goals2 = [[Nemanja Matić|Matić]] {{goal|35}}, {{sentoff|2|51|76}}<br />[[Aaron Wan-Bissaka|Wan-Bissaka]] {{yel|90+4}}
+|attendance = 51,000
+}}
+{{football box collapsible
+|date = {{Start date|2020|3|1|df=y}}
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|round = [[2020 EFL Cup Final|Final]]
+|score = 1–2
+|report = https://www.bbc.co.uk/sport/football/51601970
+|team1 = [[Aston Villa F.C.|Aston Villa]]
+|team2 = Manchester City
+|stadium = [[Wembley Stadium]]
+|location = [[London]]
+|referee = [[Lee Mason]]
+|result = W
+|goals1 = [[Mbwana Samatta|Samatta]] {{goal|41}}<br />[[Ahmed Elmohamady|Elmohamady]] {{yel|68}}<br />[[Marvelous Nakamba|Nakamba]] {{yel|72}}<br />[[Tyrone Mings|Mings]] {{yel|90+3}}
+|goals2 = [[Sergio Agüero|Agüero]] {{goal|20}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{goal|30}}, {{yel|60}}<br />[[Raheem Sterling|Sterling]] {{yel|57}}
+|attendance = 82,145
+}}
+
+===UEFA Champions League===
+{{main|2019–20 UEFA Champions League}}
+
+====Group stage====
+{{main|2019–20 UEFA Champions League group stage#Group C}}
+Manchester City entered the competition in the group stage as the reigning Premier League champions. They were drawn in Group C with [[FC Shakhtar Donetsk|Shakhtar Donetsk]], [[GNK Dinamo Zagreb|Dinamo Zagreb]] and [[Atalanta B.C.|Atalanta]].<ref>{{cite web |title=UEFA Champions League group stage draw |url=https://www.uefa.com/uefachampionsleague/draws/2020/2001140/ |publisher=UEFA |access-date=29 August 2019}}</ref>
+
+{{:2019–20 UEFA Champions League group stage|transcludesection=Group C|show_matches=yes|showteam=MCI}}
+{{football box collapsible
+|date = {{Start date|2019|09|18|df=y}}
+|time = 20:00 [[British Summer Time|BST]]
+|round = [[2019–20 UEFA Champions League group stage#Shakhtar Donetsk v Manchester City|1]]
+|score = 0–3
+|report = https://www.uefa.com/uefachampionsleague/season=2020/matches/round=2001140/match=2027028/
+|team1 = [[Shakhtar Donetsk]] {{flagicon|UKR}}
+|team2 = {{flagicon|ENG}} Manchester City
+|goals1 = 
+|goals2 = [[Riyad Mahrez|Mahrez]] {{goal|24}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{yel|29}}<br />[[İlkay Gündoğan|Gündoğan]] {{goal|38}}<br />[[Gabriel Jesus]] {{goal|76}}
+|stadium = [[Metalist Oblast Sports Complex|Metalist Stadium]]
+|location = [[Kharkiv]], Ukraine
+|referee = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|attendance = 36,675
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2019|10|1|df=y}}
+|time = 20:00 [[British Summer Time|BST]]
+|round = [[2019–20 UEFA Champions League group stage#Manchester City v Dinamo Zagreb|2]]
+|score = 2–0
+|report = https://www.uefa.com/uefachampionsleague/season=2020/matches/round=2001140/match=2027053/
+|team1 = Manchester City {{flagicon|ENG}}
+|team2 = {{flagicon|CRO}} [[Dinamo Zagreb]]
+|goals1 = [[João Cancelo|Cancelo]] {{yel|19}}<br />[[Raheem Sterling|Sterling]] {{goal|66}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|90+4}}<br />[[Phil Foden|Foden]] {{goal|90+5}}
+|goals2 = [[Dino Perić|Perić]] {{yel|69}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]], England
+|referee = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|attendance = 49,046
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2019|10|22|df=y}}
+|time = 20:00 [[British Summer Time|BST]]
+|round = [[2019–20 UEFA Champions League group stage#Manchester City v Atalanta|3]]
+|score = 5–1
+|report = https://www.uefa.com/uefachampionsleague/season=2020/matches/round=2001140/match=2027068/
+|team1 = Manchester City {{flagicon|ENG}}
+|team2 = {{flagicon|ITA}} [[Atalanta B.C.|Atalanta]]
+|goals1 = [[Benjamin Mendy|Mendy]] {{yel|4}}<br />[[Sergio Agüero|Agüero]] {{goal|34||38|pen.}}<br />[[Raheem Sterling|Sterling]] {{goal|58||64||69}}<br />[[Kevin De Bruyne|De Bruyne]] {{yel|63}}<br />[[Phil Foden|Foden]] {{sentoff|2|76|83}}<br />[[Nicolás Otamendi|Otamendi]] {{yel|90+2}}
+|goals2 = [[Andrea Masiello|Masiello]] {{yel|10}}<br />[[Ruslan Malinovskyi|Malinovskyi]] {{goal|28|pen.}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]], England
+|referee = [[Orel Grinfeld]] ([[Israel Football Association|Israel]])
+|result = W
+|attendance = 49,308
+}}
+{{Football box collapsible
+|date = {{Start date|2019|11|6|df=y}}
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|round = [[2019–20 UEFA Champions League group stage#Atalanta v Manchester City|4]]
+|team1 = [[Atalanta B.C.|Atalanta]] {{flagicon|ITA|}}
+|score = 1–1
+|team2 = {{flagicon|ENG}} Manchester City
+|goals1 = [[Berat Djimsiti|Djimsiti]] {{yel|27}}<br />[[Rafael Toloi|Toloi]] {{yel|41}}<br />[[Josip Iličić|Iličić]] {{yel|42}}<br />[[Mario Pašalić|Pašalić]] {{goal|49}}<br />[[Timothy Castagne|Castagne]] {{yel|79}}
+|goals2 = [[Raheem Sterling|Sterling]] {{goal|7}}<br />[[Gabriel Jesus]] {{penmiss}} {{small|43'}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|70}}<br />[[Claudio Bravo|Bravo]] {{sent off|0|81}}<br />[[Benjamin Mendy|Mendy]] {{yel|90+2}}<br />[[Bernardo Silva|B. Silva]] {{yel|90+6}}
+|stadium = [[San Siro]]
+|location = [[Milan]], Italy
+|attendance = 34,326
+|referee = [[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+|report = https://www.uefa.com/uefachampionsleague/season=2020/matches/round=2001140/match=2027076/
+|result = D
+|note = The match was played at the [[San Siro]] in [[Milan]], instead of Atalanta's regular home stadium, the [[Stadio Atleti Azzurri d'Italia]] in [[Bergamo]], due to ongoing renovation.<ref>{{cite web|url=https://www.football-italia.net/140653/atalanta-play-san-siro|title=Atalanta to play at San Siro|publisher=Football Italia|date=11 July 2019|access-date=13 July 2019}}</ref>
+}}
+{{Football box collapsible
+|date = {{Start date|2019|11|26|df=y}}
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|round = [[2019–20 UEFA Champions League group stage#Manchester City v Shakhtar Donetsk|5]]
+|team1 = Manchester City {{flagicon|ENG}}
+|score = 1–1
+|team2 = {{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1 = [[İlkay Gündoğan|Gündoğan]] {{goal|56}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|90+1}}
+|goals2 = [[Manor Solomon|Solomon]] {{goal|69}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]], England
+|attendance = 52,020
+|referee = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|report = https://www.uefa.com/uefachampionsleague/season=2020/matches/round=2001140/match=2027100/index.html
+|result = D
+}}
+{{Football box collapsible
+|date = {{Start date|2019|12|11|df=y}}
+|time = 17:55 [[Greenwich Mean Time|GMT]]<br /> 18:55 [[Central European Time|CET]]
+|round = [[2019–20 UEFA Champions League group stage#Dinamo Zagreb v Manchester City|6]]
+|team1 = [[GNK Dinamo Zagreb|Dinamo Zagreb]] {{flagicon|CRO}}
+|score = 1–4
+|team2 = {{flagicon|ENG}} Manchester City
+|goals1 = [[Dani Olmo|Olmo]] {{goal|10}}<br />[[Arijan Ademi|Ademi]] {{yel|34}}
+|goals2 = [[Gabriel Jesus]] {{goal|34||50||54}}<br />[[Phil Foden|Foden]] {{goal|84}}
+|stadium = [[Stadion Maksimir]]
+|location = [[Zagreb]], Croatia
+|attendance = 29,385
+|referee = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|report = https://www.uefa.com/uefachampionsleague/season=2020/matches/round=2001140/match=2027109/index.html
+|result = W
+}}
+
+====Knockout phase====
+{{main|2019–20 UEFA Champions League knockout phase}}
+
+The draw for the round of 16 was held on 16 December 2019.<ref>{{Cite web |title=UEFA Champions League round of 16 draw |url=https://www.uefa.com/uefachampionsleague/draws/2020/2001141/ |publisher=UEFA |access-date=16 December 2019}}</ref>
+
+=====Round of 16=====
+{{football box collapsible
+|round = [[2019–20 UEFA Champions League knockout phase#Real Madrid v Manchester City|First leg]]
+|date = 26 February 2020
+|time = 21:00 [[Central European Time|CET]]
+|team1 = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score = 1–2
+|report = https://www.uefa.com/uefachampionsleague/season=2020/matches/round=2001141/match=2027121/index.html
+|team2 = {{fbaicon|ENG}} Manchester City
+|goals1 = [[Federico Valverde|Valverde]] {{yel|48}}<br />[[Luka Modrić|Modrić]] {{yel|54}}<br />[[Isco]] {{goal|60}}<br />[[Sergio Ramos|Ramos]] {{sentoff|0|86}}
+|goals2 = [[Benjamin Mendy|Mendy]] {{yel|29}}<br />[[Gabriel Jesus]] {{goal|78}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|83|pen.}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]], Spain
+|attendance = 75,615
+|referee = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2019–20 UEFA Champions League knockout phase#Manchester City v Real Madrid|Second leg]]
+|date = 7 August 2020
+|time = 20:00 [[British Summer Time|BST]]
+|team1 = Manchester City {{fbaicon|ENG}}
+|score = 2–1
+|aggregatescore = 4–2
+|report = https://www.uefa.com/uefachampionsleague/season=2020/matches/round=2001141/match=2027131/index.html
+|team2 = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1 = [[Raheem Sterling|Sterling]] {{goal|9}}<br />[[Gabriel Jesus]] {{goal|68}}
+|goals2 = [[Karim Benzema|Benzema]] {{goal|28}}<br />[[Luka Modrić|Modrić]] {{yel|81}}
+|stadium = [[City of Manchester Stadium]]
+|location = [[Manchester]], England
+|attendance = 0<ref name=UEFA>{{cite web|url=https://www.uefa.com/news-media/news/025f-0fd8ee39d484-116d3b4051d6-1000/|title=Venues for Round of 16 matches confirmed|website=UEFA|publisher=Union of European Football Associations|date=9 July 2020|access-date=10 July 2020}}</ref>
+|referee = [[Felix Brych]] ([[German Football Association|Germany]])
+|result = W
+|note = The match, originally scheduled to be played on 17 March, 21:00 CET (20:00 GMT) at the [[City of Manchester Stadium]], was indefinitely postponed as Real Madrid players were quarantined due to the [[COVID-19 pandemic in Spain]].<ref>{{cite news|url=https://www.uefa.com/news-media/news/025b-0f8e769e086d-1040c21cf0d5-1000--update-on-uefa-competition-matches-12-march-2020/|title=Update on UEFA competition matches (12 March 2020)|website=UEFA|date=12 March 2020 |access-date=12 March 2020}}</ref> On 17 June, it was rescheduled to 7 August.<ref>{{cite news |url=https://www.uefa.com/news-media/news/025e-0fb6101cfdbf-8b878372d79d-1000--uefa-competitions-to-resume-in-august/|title=UEFA competitions to resume in August|website=UEFA|publisher=Union of European Football Associations|date=17 June 2020|access-date=17 June 2020}}</ref>
+}}
+
+=====Quarter-finals=====
+{{football box collapsible
+|round = [[2019–20 UEFA Champions League knockout phase#Manchester City v Lyon|Quarter-finals]]
+|date = 15 August 2020
+|time = 21:00 [[Central European Summer Time|CEST]]
+|team1 = Manchester City {{flagicon|ENG}}
+|score = 1–3
+|report = https://www.uefa.com/uefachampionsleague/match/2030144/
+|team2 = {{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|goals1 = [[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|29}}<br />[[Rodri (footballer, born 1996)|Rodri]] {{yel|58}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|69}}
+|goals2 = [[Léo Dubois|Dubois]] {{yel|12}}<br />[[Maxwel Cornet|Cornet]] {{goal|24}}<br />[[Marcelo (footballer, born May 1987)|Marcelo]] {{yel|65}}<br />[[Moussa Dembélé (French footballer)|Dembélé]] {{goal|79||87}}
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 0<ref name=UEFA/>
+|referee = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result = L
+}}
+
+==Players==
+{{fb si header |age=y |eu=n |style="background:#5cbfeb;color:white;font-size:70%;text-align:center;line-height:14px;width:100%"}}
+{{fb si player |bg= |p={{sortname|Claudio|Bravo}} |nb=CHL |n=1 |pos=GK |age={{Age|1983|04|13|2020|08|15}} |s={{sort|2016.0|2016}} |a=61 |g=0 |e=2020 |f={{ntsh|15.4}}£15.4m |notes=Second nationality: Spain}}<ref>{{cite web |title=Claudio Bravo already has double nationality |url=http://real-sociedad.diariovasco.com/noticias/2009-07-18/claudio-bravo-cuenta-doble-20090718.html |date=18 July 2009 |publisher=El Diario Vasco |language=es |access-date=31 July 2017 |archive-date=18 May 2019 |archive-url=https://web.archive.org/web/20190518191526/https://real-sociedad.diariovasco.com/noticias/2009-07-18/claudio-bravo-cuenta-doble-20090718.html |url-status=dead }}</ref>
+{{fb si player |bg=y |p={{sortname|Kyle|Walker}} |nb=ENG |n=2 |pos=DF |age={{Age|1990|05|28|2020|08|15}} |s={{sort|2017.0|2017}} |a=142 |g=3 |e=2024|f={{ntsh|45}}£45m}}
+{{fb si player |bg= |p={{sortname|John|Stones}} |nb=ENG |n=5 |pos=DF |age={{Age|1994|05|28|2020|08|15}} |s={{sort|2016.0|2016}} |a=133 |g=5 |e=2022 |f={{ntsh|47.5}}£47.5m}}
+{{fb si player |bg=y |p={{sortname|Raheem|Sterling}} |nb=ENG |n=7 |pos=FW |age={{Age|1994|12|08|2020|08|15}} |s={{sort|2015.0|2015}} |a=243 |g=100 |e=2023 |f={{ntsh|44}}£44m}}
+{{fb si player |bg= |p={{sortname|İlkay|Gündoğan||Gundogan, Ilkay}} |nb=GER |n=8 |pos=MF |age={{Age|1990|10|14|2020|08|15}} |s={{sort|2016.0|2016}} |a=164 |g=22 |e=2023 |f={{ntsh|20}}£20m}}
+{{fb si player |bg=y |p={{sortname|Gabriel|Jesus}} |nb=BRA |n=9 |pos=FW |age={{Age|1997|04|03|2020|08|15}} |s={{sort|2017.1|2017}} |a=153 |g=68 |e=2023 |f={{ntsh|27}}£27m}}
+{{fb si player |bg= |p={{sortname|Sergio|Agüero}} |nb=ARG |n=10 |pos=FW |age={{Age|1988|06|02|2020|08|15}} |s={{sort|2011.0|2011}} |a=370 |g=254 |e=2021 |f={{ntsh|31.5}}£31.5m |notes=[[List of Manchester City F.C. records and statistics#Goalscorers|All time top goalscorer]]}}
+{{fb si player |bg=y |p={{sortname|Oleksandr|Zinchenko|Oleksandr Zinchenko (footballer)}} |nb=UKR |n=11 |pos=MF |age={{Age|1996|12|15|2020|08|15}} |s={{sort|2016.0|2016}} |a=68 |g=2 |e=2024 |f={{ntsh|1.7}}£1.7m}}
+{{fb si player |bg= |p={{sortname|Aymeric|Laporte}} |nb=FRA |n=14 |pos=DF |age={{Age|1994|5|27|2020|08|15}} |s={{sort|2018.0|2018}} |a=84 |g=6 |e=2025 |f={{ntsh|57}}£57m}}
+{{fb si player |bg=y|p={{sortname||Rodri|Rodri (footballer, born 1996)}} |nb=ESP|n=16 |pos=MF |age={{Age|1996|6|23|2020|08|15}} |s={{sort|2019.0|2019}} |a=52 |g=4 |e=2025 |f={{ntsh|62.8}}£62.8m|notes=[[List of Manchester City F.C. records and statistics#Transfers|Record signing]]}}
+{{fb si player |bg=|p={{sortname|Kevin|De Bruyne}} |nb=BEL |n=17 |pos=MF |age={{Age|1991|6|28|2020|08|15}} |s={{sort|2015.0|2015}} |a=222 |g=57 |e=2023 |f={{ntsh|54.5}}£54.5m|notes=2nd vice-captain}}
+{{fb si player |bg=y |p={{sortname|Leroy|Sané}} |nb=GER |n=19 |pos=FW |age={{Age|1996|01|11|2020|08|15}} |s={{sort|2016.0|2016}} |a=135 |g=39 |e=2021 |f={{ntsh|37}}£37m}}
+{{fb si player |bg= |p={{sortname|Bernardo|Silva}} |nb=POR |n=20 |pos=MF |age={{Age|1994|08|10|2020|08|15}} |s={{sort|2017.0|2017}} |a=156 |g=30 |e=2025 |f={{ntsh|43.5}}£43.5m}}
+{{fb si player |bg=y|p={{sortname|David|Silva}} |nb=ESP |n=21 |pos=MF |age={{Age|1986|01|08|2020|08|15}} |s={{sort|2010.0|2010}} |a=436 |g=77 |e=2020 |f={{ntsh|24}}£24m|notes=Captain}}
+{{fb si player |bg= |p={{sortname|Benjamin|Mendy}} |nb=FRA |n=22 |pos=DF |age={{Age|1994|7|17|2020|08|15}} |s={{sort|2017.0|2017}} |a=53 |g=0 |e=2022 |f={{ntsh|52}}£52m}}
+{{fb si player |bg=y|p={{sortname||Fernandinho|Fernandinho (footballer, born May 1985)}} |nb=BRA |n=25 |pos=MF |age={{Age|1985|05|04|2020|08|15}} |s={{sort|2013.0|2013}} |a=314 |g=23 |e=2021 |f={{ntsh|30}}£30m|notes=1st vice-captain}}
+{{fb si player |bg= |p={{sortname|Riyad|Mahrez}} |nb=ALG |n=26 |pos=FW |age={{Age|1991|02|21|2020|08|15}} |s={{sort|2018.0|2018}} |a=94 |g=25 |e=2023 |f={{ntsh|60}}£60m}}
+{{fb si player |bg=y |p={{sortname|João|Cancelo}} |nb=POR |n=27 |pos=DF |age={{Age|1994|05|27|2020|08|15}} |s={{sort|2019.0|2019}} |a=33 |g=1 |e=2025 |f={{ntsh|60}}£60m}}
+{{fb si player |bg=|p={{sortname|Nicolás|Otamendi}} |nb=ARG |n=30 |pos=DF |age={{Age|1988|02|12|2020|08|15}} |s={{sort|2015.0|2015}} |a=210 |g=11 |e=2022 |f={{ntsh|28}}£28m}}
+{{fb si player |bg=y|p={{sortname||Ederson|Ederson (footballer, born 1993)}} |nb=BRA |n=31 |pos=GK |age={{Age|1993|8|17|2020|08|15}} |s={{sort|2017|2017}} |a=144 |g=0 |e=2025 |f={{ntsh|34.9}}£34.9m|notes=Second nationality: Portugal}}<ref>{{cite web |title=Who is Ederson? The man that could solve Pep Guardiola's goalkeeping issues at Man City |url=http://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-city-ederson-profile-wiki-13101135 |date=28 May 2017 |publisher=Manchester Evening News |access-date=7 December 2017}}</ref>
+{{fb si player |bg= |p={{sortname|Scott|Carson}} |nb=ENG |n=33 |pos=GK |age={{Age|1985|09|03|2020|08|15}} |s={{sort|2019|2019}} |a=0 |g=0 |e=2020| f={{ntsh|0}}Loan |notes=On loan from [[Derby County F.C.|Derby County]]}}
+{{fb si player |bg=y |p={{sortname|Phil|Foden}} |nb=ENG |n=47 |pos=MF |age={{Age|2000|5|28|2020|08|15}} |s={{sort|2017.0|2017}} |a=74 |g=15 |e=2024 |f={{ntsh|0}}<small>Youth system</small> |notes=Academy graduate}}
+{{fb si player |bg= |p={{sortname|Eric|Garcia|Eric García (footballer, born 2001)}} |nb=ESP |n=50 |pos=DF |age={{Age|2001|1|9|2020|08|15}} |s={{sort|2018|2018}} |a=23 |g=0 |e=2022 |f={{ntsh|1.45}}£1.45m |notes=Academy graduate}}
+{{fb si player |bg=y |p= [[Tommy Doyle (footballer, born 2001)|Tommy Doyle]]|nb=ENG |n=69 |pos=MF |age={{Age|2001|10|17|2020|08|15}} |s={{sort|2019.0|2019}} |a=3 |g=0 |e=2021 |f={{ntsh|0}}<small>Youth system</small> |notes=Academy graduate}}
+{{fb si player |bg= |p={{sortname|Taylor|Harwood-Bellis|Taylor Harwood-Bellis}} |nb=ENG |n=78 |pos=DF |age={{Age|2002|1|30|2020|08|15}} |s= 
+{{sort|2019.0|2019}} |a=4 |g=1 |e=2021 |f={{ntsh|0}}<small>Youth system</small> |notes=Academy graduate}}
+|}
+
+==Transfers and loans==
+
+===Transfers in===
+{| class="wikitable" style="text-align:center; font-size:90%; "
+! style="background:#8FC0E9; color:#022360; width:120px;"| Date
+! style="background:#8FC0E9; color:#022360; width:50px;"| Position
+! style="background:#8FC0E9; color:#022360; width:50px;"| No.
+! style="background:#8FC0E9; color:#022360; width:150px;"| Player
+! style="background:#8FC0E9; color:#022360; width:200px;"| From
+! style="background:#8FC0E9; color:#022360; width:110px;"| Fee
+! style="background:#8FC0E9; color:#022360; width:125px;"| Team
+! style="background:#8FC0E9; color:#022360; width:25px;"| Ref.
+|-
+| 1 July 2019 || [[Association football positions#Defender|DF]] || — || {{flagicon|ESP}} Oscar Tarensi || {{flagicon|ESP}} [[RCD Espanyol|Espanyol]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Manchester City sign Espanyol teen Oscar Tarensi |date=8 May 2019 |url=https://www.football-espana.net/78153/manchester-city-sign-espanyol-teen-oscar-tarensi |publisher=Football Espana |access-date=9 July 2019}}</ref>
+|-
+| 1 July 2019 || [[Association football positions#Centre forward|CF]] || — || {{flagicon|ENG}} Daniel Ogwuru || [[Bolton Wanderers F.C.|Bolton Wanderers]] || £100,000 || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web|url=https://www.goal.com/en/news/man-city-sign-bolton-youngster-ogwuru-for-100k/17x27k2edbvmv1r4uwhlwgyo8d|title=Man City sign Bolton youngster Ogwuru for £100k|website=goal.com|publisher=Goal.com|date=14 June 2019|access-date=25 February 2020}}</ref>
+|-
+| 3 July 2019 || [[Association football positions#Defender|DF]] || 12 || {{flagicon|ESP}} [[Angeliño]] || {{flagicon|NED}} [[PSV Eindhoven]] || £5,350,000 || [[Manchester City F.C.|First team]] || <ref>{{cite web |last1=Leigh |first1=Neil |title=Manchester City resign Angelino |url=https://www.mancity.com/news/first-team/first-team-news/2019/july/man-city-sign-angelino-psv-transfer-latest-update |website=mancity.com |access-date=3 July 2019}}</ref><ref>{{cite web |last1=Brennan |first1=Stuart |title=The truth about Man City's Angelino buy-back as defender completes transfer |url=https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-city-transfer-angelino-buyback-16517641 |website=manchestereveningnews.co.uk |access-date=3 July 2019|date=3 July 2019 }}</ref>
+|-
+| 4 July 2019 || [[Association football positions#Midfielder|MF]] || 16 || {{flagicon|ESP}} [[Rodri (footballer, born 1996)|Rodri]] || {{flagicon|ESP}} [[Atlético Madrid]] || £62,800,000 || [[Manchester City F.C.|First team]] || <ref>{{cite news |title=Rodri: Manchester City pay £62.8m release clause for Atletico Madrid's Spain midfielder |url=https://www.bbc.co.uk/sport/football/48859841 |publisher=[[BBC Sport]] |access-date=4 July 2019|date=3 July 2019 }}</ref>
+|-
+| 7 July 2019 || [[Association football positions#Midfielder|MF]] || – || {{flagicon|ENG}} [[Samuel Edozie]] || [[Millwall F.C.|Millwall]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Edozie signs |url=https://twitter.com/City_Xtra/status/1147878290205630464?s=19 |publisher=[[Twitter]] |access-date=7 July 2019}}</ref>
+|-
+| 9 July 2019 || [[Association football positions#Forward|FW]] || 72 || {{flagicon|ENG}} [[Morgan Rogers]] || [[West Bromwich Albion F.C.|West Bromwich Albion]] || £4,000,000 || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite news |title=Manchester City seal £4m deal for 16-year-old Morgan Rogers from West Brom |url=https://www.telegraph.co.uk/football/2019/07/09/manchester-city-seal-4m-deal-16-year-old-morgan-rogers-west/ |newspaper=[[The Daily Telegraph|The Telegraph]] |access-date=9 July 2019|date=9 July 2019 |last1=Wallace |first1=Sam }}</ref>
+|-
+| 9 July 2019 || [[Association football positions#Goalkeeper|GK]] || – || {{flagicon|USA}} [[Zack Steffen]] || {{flagicon|USA}} [[Columbus Crew SC|Columbus Crew]] || £7,000,000 || [[Manchester City F.C.|First team]] || <ref>{{Cite web |title=Man City sign Columbus Crew goalkeeper Zach Steffen |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-zach-steffen-transfer-15538714 |publisher=[[Manchester Evening News]] |access-date=15 April 2019|date=11 December 2018 }}</ref>
+|-
+| 12 July 2019 || [[Association football positions#Midfielder|MF]] || – || {{flagicon|NOR}} [[Oscar Bobb]] || {{flagicon|NOR}} [[Vålerenga Fotball|Vålerenga]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{Cite web |title=Oscar Bobb signed for Manchester City (in Norwegian) |url=https://www.tv2.no/a/10716071/ |publisher=TV Sport 2 |access-date=15 April 2019}}</ref>
+|-
+| 14 July 2019 || [[Association football positions#Forward|FW]] || – || {{flagicon|ENG}} [[Liam Delap]] || [[Derby County F.C.|Derby County]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{Cite web |title=Liam Delap confirms transfer to Man City in Instagram post |url=https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-city-transfer-news-delap-16583433 |publisher=[[Manchester Evening News]] |access-date=15 July 2019|date=14 July 2019 }}</ref>
+|-
+| 1 August 2019 || [[Association football positions#Forward|FW]] || – || {{flagicon|ENG}} [[Josh Wilson-Esbrand]] || [[West Ham United F.C.|West Ham United]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{Cite web |title=Man City close on signing 16-year-old English starlet |url=https://nebulaeplnews.com/man-city-close-on-signing-16-year-old-english-starlet/ |publisher=nebulaeplnews.com |access-date=28 August 2019 |archive-date=28 August 2019 |archive-url=https://web.archive.org/web/20190828082105/https://nebulaeplnews.com/man-city-close-on-signing-16-year-old-english-starlet/ |url-status=dead }}</ref><ref>{{Cite web |title=Under 18s Maintain Flying Start with win at Boro |url=https://www.mancity.com/news/academy/match-report/2019/august/boro-u18s-v-city-u18s-24-aug |publisher=mancity.com |access-date=28 August 2019}}</ref>
+|-
+| 6 August 2019 || [[Association football positions#Midfielder|MF]] || – || {{flagicon|ENG}} Kane Taylor || [[Aston Villa F.C.|Aston Villa]] || £129,000 || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{Cite news |title=Manchester City beat Premier League elite to sign highly-rated 14-year-old Kane Taylor |url=https://www.telegraph.co.uk/football/2019/08/06/manchester-city-beat-premier-league-elite-sign-highly-rated/ |newspaper=The Telegraph |access-date=6 August 2019|date=6 August 2019 |last1=Wallace |first1=Sam }}</ref>
+|-
+| 7 August 2019 || [[Association football positions#Full-back|RB]] || 27 || {{Flagicon|POR}} [[João Cancelo]] || {{flagicon|ITA}} [[Juventus FC|Juventus]] || £60,000,000 || [[Manchester City F.C.|First team]] || <ref name="Joao Cancelo-Danilo Exchange">{{cite news |title=Joao Cancelo: Man City complete deal for Juventus full-back as Danilo moves other way|url=https://www.bbc.com/sport/football/49256280 |publisher=[[BBC]] |access-date=7 August 2019|work=BBC Sport |date=7 August 2019 }}</ref>
+|-
+| 7 August 2019 || [[Association football positions#Winger|RW]] || — || {{Flagicon|POR}} [[Félix Correia]] || {{flagicon|POR}} [[Sporting CP]] || £3,200,000 || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite news |title=Man City sign 18-year-old winger Correia from Sporting Lisbon |url=https://uk.reuters.com/article/uk-soccer-england-mci-correia/man-city-sign-18-year-old-winger-correia-from-sporting-lisbon-idUKKCN1UX1A3?rpc=401& |archive-url=https://web.archive.org/web/20200913020625/https://uk.reuters.com/article/uk-soccer-england-mci-correia/man-city-sign-18-year-old-winger-correia-from-sporting-lisbon-idUKKCN1UX1A3?rpc=401& |url-status=dead |archive-date=13 September 2020 |agency=UK Reuters |access-date=7 August 2019|newspaper = Reuters|date = 7 August 2019}}</ref>
+|-
+| 7 August 2019 || [[Association football positions#Full-back|RB]] || — || {{Flagicon|ESP}} [[Pedro Porro]] || {{flagicon|ESP}} [[Girona FC|Girona]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Manchester City sign Pedro Porro |url=https://www.gironafc.cat/noticia/el-manchester-city-fitxa-pedro-porro |publisher=[[Girona FC]] |access-date=8 August 2019 |language=ca}}</ref>
+|-
+| 8 August 2019 || [[Association football positions#Midfielder|MF]] || — || {{Flagicon|JPN}} [[Ryotaro Meshino]] || {{flagicon|JPN}} [[Gamba Osaka]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Ryotaro Shokuno Announcement of Complete Transfer to Manchester City FC (England) |url=https://twitter.com/GAMBA_OFFICIAL/status/1159811575605108736 |publisher=[[Gamba Osaka]] |access-date=9 August 2019 |language=ja}}</ref>
+|-
+| 1 January 2020 || [[Association football positions#Forward|FW]] || – || {{flagicon|SRB}} [[Slobodan Tedić]] || {{flagicon|SRB}} [[FK Čukarički|FK Cukaricki Beograd]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{Cite news |title=Man City agree deal for Serbian teenage forward Slobodan Tedic |url=https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-city-transfers-slobodan-tedic-16875985 |website=Manchester Evening News |access-date=16 January 2020 |date=6 September 2019 |last1=Brennan |first1=Stuart }}</ref>
+|-
+| 9 January 2020 || [[Association football positions#Midfielder|MF]] || – || {{flagicon|SCO}} Liam Smith || {{flagicon|SCO}} [[Kilmarnock F.C.|Kilmarnock]] || £250,000 || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{Cite news |title=City said I had the potential to be a top European winger – 16-year-old Liam Smith on joining Manchester City and modelling his game on Riyad Mahrez |url=https://theathletic.co.uk/1518657/2020/01/09/manchester-city-liam-smith-kilmarnock-interview/ |website=The Athletic |access-date=10 January 2020 |date=9 January 2020 |last1=Devlin |first1=Kieran }}</ref>
+|-
+|15 January 2020 || [[Association football positions#Defender|DF]] || – || {{flagicon|ENG}} Camron Gbadebo || [[Leicester City F.C.|Leicester City]] || Compensation || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{Cite news |title=Man City sign highly-rated Leicester City defender |url=https://www.leicestermercury.co.uk/sport/football/transfer-news/leicester-transfer-news-man-city-3744022 |website=Leicester Murcury |access-date=16 January 2020 |date=January 2020 |last1=Bonell |first1=Jonny }}</ref>
+|}
+
+===Transfers out===
+{| class="wikitable" style="text-align:center; font-size:90%; "
+! style="background:#8FC0E9; color:#022360; width:120px;"| Date
+! style="background:#8FC0E9; color:#022360; width:50px;"| Position
+! style="background:#8FC0E9; color:#022360; width:50px;"| No.
+! style="background:#8FC0E9; color:#022360; width:150px;"| Player
+! style="background:#8FC0E9; color:#022360; width:200px;"| To
+! style="background:#8FC0E9; color:#022360; width:110px;"| Fee
+! style="background:#8FC0E9; color:#022360; width:125px;"| Team
+! style="background:#8FC0E9; color:#022360; width:25px;"| Ref.
+|-
+| 1 July 2019 || [[Association football positions#Midfielder|MF]] || – || {{flagicon|AUS}} [[Luke Brattan]] || {{flagicon|AUS}} [[Sydney FC]] || Free transfer || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="Relist">{{cite web |title=2018/19 Premier League clubs' released lists |url=https://www.premierleague.com/news/1238381 |publisher=[[Premier League]] |access-date=7 June 2019}}</ref><ref>{{cite web |title=Sydney FC Sign Three Time A-League Winner |url=https://www.sydneyfc.com/news/sydney-fc-sign-three-time-a-league-winner |website=Sydney FC|date=19 July 2019 |access-date=29 July 2019}}</ref>
+|-
+| 1 July 2019 || [[Association football positions#Midfielder|MF]] || 72 || {{flagicon|NGA}} [[Tom Dele-Bashiru]] || [[Watford F.C.|Watford]]|| Free transfer || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="Relist"/><ref>{{cite web |title=Official: Dele-Bashiru Signs |url=https://www.watfordfc.com/teams/first-team/official-dele-bashiru-signs |publisher=[[Watford F.C.|Watford]] |access-date=24 July 2019 |archive-date=3 September 2019 |archive-url=https://web.archive.org/web/20190903165748/https://www.watfordfc.com/teams/first-team/official-dele-bashiru-signs |url-status=dead }}</ref>
+|-
+| 1 July 2019 || [[Association football positions#Defender|DF]] || 77 || {{flagicon|ENG}} [[Cameron Humphreys (footballer, born 1998)|Cameron Humphreys]] || {{flagicon|BEL}} [[S.V. Zulte Waregem|Zulte Waregem]] || Free transfer || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="Relist"/><ref>{{cite web |title=Team Essevee welcomes Cameron Humphreys |url=https://www.essevee.be/nl/team-essevee/nieuws/team-essevee-verwelkomt-cameron-humphreys |website=[[S.V. Zulte Waregem]] |language=nl}}</ref>
+|-
+| 1 July 2019 || [[Association football positions#Defender|DF]] || 4 || {{flagicon|BEL}} [[Vincent Kompany]] || {{flagicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]|| Free transfer || [[Manchester City F.C.|First team]] || <ref>{{Cite web |title=Vincent Kompany leaves Manchester City |url=https://www.mancity.com/news/first-team/first-team-news/2019/may/man-city-vincent-kompany-leaves-man-city |publisher=[[Manchester City F.C.]] |access-date=19 May 2019}}</ref>
+|-
+| 1 July 2019 || [[Association football positions#Midfielder|MF]] || 57 || {{flagicon|FRA}} [[Aaron Nemane]] || [[Torquay United F.C.|Torquay United]] || Free transfer || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="Relist"/><ref>{{cite web |title=Aaron Nemane Joins United |date=14 December 2019 |url=https://torquayunited.com/signing-aaron-nemane-joins-united/ |publisher=[[Torquay United F.C.]] |access-date=15 December 2019 |archive-date=15 December 2019 |archive-url=https://web.archive.org/web/20191215172840/https://torquayunited.com/signing-aaron-nemane-joins-united/ |url-status=dead }}</ref>
+|-
+| 1 July 2019 || [[Association football positions#Defender|DF]] || 58 || {{flagicon|ENG}} [[Charlie Oliver (footballer, born 1997)|Charlie Oliver]] || [[Southport F.C.|Southport]] || Free transfer || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="Relist"/><ref>{{cite web |title=Charlie Oliver Joins |date=15 November 2019 |url=https://southportfc.net/welcome-charlie-oliver-signs/ |publisher=[[Southport F.C.]] |access-date=15 November 2019 |archive-date=15 November 2019 |archive-url=https://web.archive.org/web/20191115173728/https://southportfc.net/welcome-charlie-oliver-signs/ |url-status=dead }}</ref>
+|-
+| 1 July 2019 || [[Association football positions#Goalkeeper|GK]] || – || {{flagicon|ENG}} Lewis Thomas || [[Burnley F.C.|Burnley]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Goal Keeper Lewis Thomas- 1st Year Scholar |url=https://www.burnleyfootballclub.com/teams/u18-team/1st-year-scholar/lewis-thomas/ |publisher=Burnley F.C |access-date=30 July 2019 |archive-date=30 July 2019 |archive-url=https://web.archive.org/web/20190730092544/https://www.burnleyfootballclub.com/teams/u18-team/1st-year-scholar/lewis-thomas/ |url-status=dead }}</ref>
+|-
+| 3 July 2019 || [[Association football positions#Centre forward|CF]] || – || {{flagicon|NGA}} Osazee Aghatise || [[Derby County F.C.|Derby County]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Derby County Sign Nigerian Midfielder From Manchester City |url=https://www.allnigeriasoccer.com/read_news.php?nid=32756 |publisher=All Nigeria Soccer |access-date=9 July 2019}}</ref>
+|-
+| 4 July 2019 || [[Association football positions#Midfielder|MF]] || – || {{flagicon|AUS}} [[Anthony Caceres]] || {{flagicon|AUS}} [[Sydney FC]]|| Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Talented Midfielder Completes Sydney FC Switch
+|date=4 July 2019 |url=https://www.sydneyfc.com/news/talented-midfielder-completes-sydney-fc-switch |publisher=[[Sydney FC]] |access-date=4 July 2019}}</ref>
+|-
+| 10 July 2019 || [[Association football positions#Centre forward|CF]] || – || {{flagicon|ENG}} Sam Bellis || [[Southampton F.C.|Southampton]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Saints capture Bellis and Rus |url=https://www.southamptonfc.com/news/2019-07-10/scholar-announcement-southampton-fc-marco-rus-sam-bellis |publisher=[[Southampton F.C.]] |access-date=29 July 2019}}</ref>
+|-
+| 11 July 2019 || [[Association football positions#Defender|DF]] || – || {{flagicon|ESP}} [[Pablo Marí]] || {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]|| £1,700,000 || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{Cite tweet |author-link=Flamengo|user=Flamengo |number=1149302112842653698|date = 11 July 2019 |title=Tem novidade no Mengão. O zagueiro espanhol Pablo Marí, de 25 anos, é o nosso novo reforço. Ele foi comprado junto ao Manchester City e assinou contrato com o Mais Querido até dezembro de 2022. Seja bem-vindo! Muito sucesso com o Manto Sagrado! 🔴⚫️ #CRF |language=pt}}</ref><ref>{{cite web |title=Man City sell first player of the summer window|url=https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-city-transfer-news-mari-16572247|publisher=[[Manchester Evening News]] |access-date=11 July 2019}}</ref>
+|-
+| 12 July 2019 || [[Association football positions#Midfielder|MF]] || – || {{flagicon|WAL}} Owen Hesketh || [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="youngstersin">{{cite web |title=Meet the new Wolves Academy scholars |url=https://www.wolves.co.uk/news/academy/20190712-meet-the-new-wolves-academy-scholars/ |publisher=[[Wolverhampton Wanderers F.C.]] |access-date=29 July 2019}}</ref>
+|-
+| 15 July 2019 || [[Association football positions#Midfielder|MF]] || 18 || {{flagicon|ENG}} [[Fabian Delph]] || [[Everton F.C.|Everton]]|| £10,000,000
+ || [[Manchester City F.C.|First team]] || <ref>{{cite web |last1=Edwards |first1=John |title=Fabian Delph leaves Man City to join Everton |url=https://www.mancity.com/news/first-team/first-team-news/2019/july/fabian-delph-leaves-man-city |publisher=[[Manchester City F.C.|Manchester City]] |access-date=15 July 2019}}</ref>
+|-
+| 16 July 2019 || [[Association football positions#Centre forward|CF]] || – || {{flagicon|NED}} Noah Ohio || {{flagicon|GER}} [[RB Leipzig]] || Free transfer || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |last1=Ohio |first1=Noah |title=Thank you @ManCityAcademy |url=https://twitter.com/noahohio9/status/1151222356477718528 |publisher=[[Twitter]] |access-date=29 July 2019}}</ref><ref>{{cite web |last1=Ohio |first1=Noah |title=It's {{as written|Officia|ll!! &#91;sic&#93;}} Delighted to have signed for RB Leipzig. |url=https://twitter.com/noahohio9/status/1162011560925159424 |publisher=[[Twitter]] |access-date=15 August 2019}}</ref>
+|-
+| 16 July 2019 || [[Association football positions#Midfielder|MF]] || – || {{flagicon|ENG}} Tom Midgley || [[Newcastle United F.C.|Newcastle United]] || Free transfer || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |last1=Midgley |first1=Tom|title=Signing confirmed |url=https://twitter.com/tom_midgley/status/1151220492251979782 |publisher=[[Twitter]] |access-date=6 August 2019}}</ref>
+|-
+| 18 July 2019 || [[Association football positions#Midfielder|MF]] || 89 || {{flagicon|ENG}} [[Taylor Richards]] || [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] || £2,500,000 || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Albion Sign Man City And England Starlet |url=https://www.brightonandhovealbion.com/news/2019/july/albion-sign-man-city-and-england-starlet/ |publisher=[[Brighton & Hove Albion F.C.]] |access-date=18 July 2019 |archive-date=18 July 2019 |archive-url=https://web.archive.org/web/20190718183255/https://www.brightonandhovealbion.com/news/2019/july/albion-sign-man-city-and-england-starlet/ |url-status=dead }}</ref>
+|-
+| 19 July 2019 || [[Association football positions#Midfielder|MF]] || 76|| {{flagicon|ESP}} [[Manu García (footballer, born 1998)|Manu García]] || {{flagicon|ESP}} [[Sporting de Gijón|Sporting Gijón]] || £4,000,000 || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Manu García returns to Sporting |url=https://www.realsporting.com/noticia/manu-garcia-regresa-al-sporting |website=[[Sporting de Gijón|Sporting Gijón]] |language=es |access-date=19 July 2019 |archive-date=19 July 2019 |archive-url=https://web.archive.org/web/20190719134957/https://www.realsporting.com/noticia/manu-garcia-regresa-al-sporting |url-status=dead }}</ref><ref>{{cite web|url=https://www.elcomercio.es/sporting/sporting-manu-garcia-20190719155147-nt.html|publisher=[[El Comercio (Spain)|El Comercio]]|date=19 July 2019|access-date=22 July 2019|language=es|title=Manu García será jugador del Sporting hasta 2024|trans-title=Manu García will be a Sporting player until 2024}}</ref>
+|-
+| 25 July 2019 || [[Association football positions#Midfielder|MF]] || 39 || {{flagicon|BRA}} [[Douglas Luiz]] || [[Aston Villa F.C.|Aston Villa]]|| £15,000,000 || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Transfer news: Douglas Luiz joins Aston Villa |url=https://www.avfc.co.uk/News/2019/07/25/douglas-luiz-arrives |publisher=[[Aston Villa F.C.|Aston Villa]] |access-date=25 July 2019}}</ref><ref>{{cite news|title=Douglas Luiz: Aston Villa sign £15m Man City midfielder |url=https://www.bbc.co.uk/sport/football/49117347|publisher=BBC Sport|access-date=25 July 2019|date=25 July 2019}}</ref>
+|-
+| 7 August 2019 || [[Association football positions#Full-back|RB]] || 3 || {{Flagicon|BRA}} [[Danilo (footballer, born July 1991)|Danilo]] || {{flagicon|ITA}} [[Juventus FC|Juventus]] || £34,100,000 || [[Manchester City F.C.|First team]] || <ref name="Joao Cancelo-Danilo Exchange"/>
+|-
+| 9 August 2019 || [[Association football positions#Midfielder|MF]] || 62 || {{Flagicon|ENG}} [[Brandon Barker]] || {{flagicon|SCO}} [[Rangers F.C.|Rangers]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Gers Sign Brandon Barker |url=https://rangers.co.uk/news/headlines/gers-sign-brandon-barker/ |publisher=[[Rangers F.C.|Rangers]] |date=9 August 2019 |access-date=9 August 2019 |archive-date=9 August 2019 |archive-url=https://web.archive.org/web/20190809163420/https://rangers.co.uk/news/headlines/gers-sign-brandon-barker/ |url-status=dead }}</ref>
+|-
+| 12 August 2019 || [[Association football positions#Centre-back|CB]] || 15 || {{Flagicon|FRA}} [[Eliaquim Mangala]] || {{flagicon|ESP}} [[Valencia CF|Valencia]] || Free transfer || [[Manchester City F.C.|First team]] || <ref>{{cite web |title=Valencia sign Mangala from Man City |url=https://www.skysports.com/football/news/11679/11784021/valencia-sign-eliaquim-mangala-from-manchester-city-on-two-year-deal |publisher=[[Sky Sports]] |access-date=13 August 2019}}</ref>
+|-
+| 16 August 2019 || [[Association football positions#Defender|DF]] || 85 || {{Flagicon|NOR}} [[Colin Rösler]] || {{flagicon|NED}} [[NAC Breda]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web|title=NAC takes over Rösler from Man City|url=http://www.nac.nl/108/newsid/13418/NAC-neemt-R%C3%B6sler-over-van-ManCity-.html|publisher=[[NAC Breda]]|language=nl|access-date=16 August 2019|archive-date=16 August 2019|archive-url=https://web.archive.org/web/20190816173020/http://www.nac.nl/108/newsid/13418/NAC-neemt-R%C3%B6sler-over-van-ManCity-.html|url-status=dead}}</ref>
+|-
+| 2 September 2019 || [[Association football positions#Defender|DF]] || 71 || {{Flagicon|NED}} [[Jeremie Frimpong]] || {{flagicon|SCO}} [[Celtic F.C.|Celtic]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Celtic sign defensive duo Lee O'Connor and Jeremie Frimpong|url=https://www.bbc.co.uk/sport/football/49559607 |publisher=BBC Sport}}</ref>
+|-
+| 2 September 2019 || [[Association football positions#Centre forward|CF]] || 80 || {{Flagicon|SWI}} [[Lorenzo González (footballer)|Lorenzo González]] || {{flagicon|ESP}} [[Málaga CF|Málaga]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Lorenzo González, new forward for Málaga CF|url=https://www.malagacf.com/en/news/lorenzo-gonzalez-new-forward-for-malaga-cf |publisher=[[Málaga CF|Málaga]]}}</ref>
+|-
+|28 November 2019 || MF || — || {{flagicon|MEX}} [[Uriel Antuna]] || {{flagicon|MEX}} [[C.D. Guadalajara|Guadalajara]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="chivasdecorazon.com.mx">{{cite news |title=Conoce a fondo a Uriel Antuna, primer refuerzo de Chivas. |url=https://www.chivasdecorazon.com.mx/es//noticias/32541/Conoce-a-fondo-a-Uriel-Antuna-primer-refuerzo-de-Chivas |language=es|date=28 November 2019|access-date=4 December 2019 |website=chivasdecorazon.com.mx}}</ref>
+|-
+| 24 January 2020 || RW || 83 || {{flagicon|ENG}} [[Ian Poveda]] || [[Leeds United F.C.|Leeds United]] || Undisclosed || [[Manchester City F.C.|First team]] || <ref>{{cite news |title=Ian Poveda completes Leeds United transfer from Manchester City |url=https://www.leeds-live.co.uk/sport/leeds-united/ian-poveda-leeds-transfer-breaking-17622275 |access-date=25 January 2020 |work=[[Leeds Live]]}}</ref>
+|-
+| 27 January 2020 || MF || 59 || {{flagicon|ENG}} Henri Ogunby || [[Burnley F.C.|Burnley]] || Undisclosed || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite news |title=U23s Add Ogunby To Ranks |url=https://www.burnleyfootballclub.com/news/2020/january/u23s-add-ogumby-to-ranks/ |access-date=26 January 2020 |publisher=Burnley F.C |archive-date=27 January 2020 |archive-url=https://web.archive.org/web/20200127115619/https://www.burnleyfootballclub.com/news/2020/january/u23s-add-ogumby-to-ranks/ |url-status=dead }}</ref>
+|}
+
+===Loans in===
+{| class="wikitable" style="text-align:center; font-size:90%; "
+! style="background:#8FC0E9; color:#022360; width:120px;"| Date
+! style="background:#8FC0E9; color:#022360; width:110px;"| Loan ends
+! style="background:#8FC0E9; color:#022360; width:50px;"| Position
+! style="background:#8FC0E9; color:#022360; width:50px;"| No.
+! style="background:#8FC0E9; color:#022360; width:150px;"| Player
+! style="background:#8FC0E9; color:#022360; width:200px;"| From
+! style="background:#8FC0E9; color:#022360; width:125px;"| Team
+! style="background:#8FC0E9; color:#022360; width:25px;"| Ref.
+|-
+|8 August 2019 || 15 August 2020{{efn|name=ex}} || [[Association football positions#Goalkeeper|GK]] || 33 || {{flagicon|ENG}} [[Scott Carson]] || [[Derby County F.C.|Derby County]] || [[Manchester City F.C.|First team]] || <ref>{{cite web |last1=Pollard |first1=Rob |title=Scott Carson signs |url=https://www.mancity.com/news/first-team/first-team-news/2019/august/man-city-scott-carson-signing |publisher=[[Manchester City F.C.]] |access-date=8 August 2019}}</ref>
+|}
+
+===Loans out===
+{| class="wikitable" style="text-align:center; font-size:90%; "
+! style="background:#8FC0E9; color:#022360; width:120px;"| Date
+! style="background:#8FC0E9; color:#022360; width:110px;"| Loan ends
+! style="background:#8FC0E9; color:#022360; width:50px;"| Position
+! style="background:#8FC0E9; color:#022360; width:50px;"| No.
+! style="background:#8FC0E9; color:#022360; width:150px;"| Player
+! style="background:#8FC0E9; color:#022360; width:200px;"| To
+! style="background:#8FC0E9; color:#022360; width:125px;"| Team
+! style="background:#8FC0E9; color:#022360; width:25px;"| Ref.
+|-
+|17 August 2018 || 30 June 2020 || MF || — || {{flagicon|AUS}} [[Daniel Arzani]] || {{flagicon|SCO}} [[Celtic F.C.|Celtic]] || Academy || <ref>{{cite news |title=Daniel Arzani signs for Celtic on two-year loan deal |url=http://www.celticfc.net/news/14785 |publisher=Celtic F.C. |access-date=17 August 2018}}</ref>
+|-
+|14 January 2019 || 30 June 2020 || DF || — || {{flagicon|JPN}} [[Ko Itakura]] || {{flagicon|NED}} [[FC Groningen|Groningen]] || Academy || <ref name="Itakura">{{cite news |title=Akkoord FC Groningen met Manchester City over Japanner Itakura|language=nl|url=https://www.fcgroningen.nl/nieuws/akkoord-fc-groningen-met-manchester-city-over-japanner-itakura/2 |access-date=14 January 2019 |publisher=FC Groningen |date=14 January 2019}}</ref>
+|-
+|29 January 2019 || 28 November 2019{{efn|Uriel Antuna's planned year long loan to LA Galaxy was ended on 28 November when he was transferred to C.D. Guadalajara.<ref name="chivasdecorazon.com.mx"/>}} || MF || — || {{flagicon|MEX}} [[Uriel Antuna]] || {{flagicon|USA}} [[LA Galaxy]] || Academy || <ref>{{cite web |title=LA Galaxy sign Mexican Uriel Antuna on loan from Manchester City |url=https://www.mlssoccer.com/post/2019/01/29/la-galaxy-sign-mexican-uriel-antuna-loan-manchester-city |publisher=[[Major League Soccer]] |access-date=29 January 2019|date=29 January 2019 }}</ref>
+|-
+| 1 July 2019 || 2 January 2020{{efn|Patrick Roberts' planned season-long loan to Norwich was ended on 2 January when he was loaned to Middlesbrough.<ref name="Roberts loan swap">{{cite web |title=Roberts joins Middlesbrough as City loan spell cut short |date=2 January 2020 |url=https://www.pinkun.com/norwich-city/patrick-roberts-city-spell-is-over-1-6448697 |publisher=[[The Pink'un]] |access-date=2 January 2020 |archive-date=2 January 2020 |archive-url=https://web.archive.org/web/20200102185153/https://www.pinkun.com/norwich-city/patrick-roberts-city-spell-is-over-1-6448697 |url-status=dead }}</ref>}} || [[Association football positions#Midfielder|MF]] || 27 || {{flagicon|ENG}} [[Patrick Roberts]] || [[Norwich City F.C|Norwich City]]|| [[Manchester City F.C.|First team]] || <ref>{{Cite news |title=Patrick Roberts: Manchester City midfielder joins Norwich on season-long loan |url=https://www.bbc.co.uk/sport/football/48465832 |publisher=[[BBC Sport]] |access-date=30 May 2019|date=30 May 2019 }}</ref>
+|-
+| 1 July 2019 || 22 July 2020{{efn|name=ex|This loan, planned to end on 30 June, was extended due to the extension of the relevant season [[Impact of the COVID-19 pandemic on association football#Europe|amidst the COVID-19 pandemic]].}} || [[Association football positions#Midfielder|MF]] || 38 || {{flagicon|ENG}} [[Jack Harrison (footballer, born 1996)|Jack Harrison]] || [[Leeds United F.C|Leeds United]]|| [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Leeds United sign Jack Harrison & Ben White |url=https://www.leedsunited.com/en/news/leeds-united-sign-jack-harrison-ben-white |publisher=Leeds United F.C. |access-date=1 July 2019|date=July 2019 }}</ref>
+|-
+| 1 July 2019 || 31 January 2020 || [[Association football positions#Midfielder|MF]] || 65 || {{flagicon|WAL}} [[Matthew Smith (footballer, born 1999)|Matthew Smith]] || [[Queens Park Rangers F.C.|Queens Park Rangers]]|| [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |last1=Morriessey |first1=Paul |title=Matt Smith joins QPR on loan from Man City |url=https://www.qpr.co.uk/news/club-news/matt-smith-joins-qpr-on-loan-from-man-city/ |publisher=QPR |access-date=1 July 2019}}</ref><ref name="Smith"/>
+|-
+| 3 July 2019 || 30 June 2020 || [[Association football positions#Forward|FW]] || 68 || {{flagicon|FRA}} [[Thierry Ambrose]] || {{flagicon|FRA}} [[FC Metz|Metz]]|| [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |last1=Morriessey |first1=Paul |title=Theirry Ambrose arrives on loan! |url=https://www.fcmetz.com/2019-2020/actualites/equipe-pro/thierry-ambrose-arrive-en-pret|publisher=FC Metz|access-date=3 July 2019|language=fr|date=3 July 2019 }}</ref>
+|-
+|3 July 2019 || 30 June 2020 || MF || — ||{{flagicon|CRO}} [[Ante Palaversa]] || {{flagicon|BEL}} [[K.V. Oostende|Oostende]] || Academy || <ref>{{cite web|title=KVO completes Palaversa arrival|url=http://www.kvo.be/nieuws/kvo-rondt-komst-palaversa-af|publisher=K.V. Oostende|access-date=3 July 2019|language=nl|archive-date=4 July 2019|archive-url=https://web.archive.org/web/20190704050718/http://www.kvo.be/nieuws/kvo-rondt-komst-palaversa-af|url-status=dead}}</ref>
+|-
+| 9 July 2019 || 30 June 2020 || [[Association football positions#Goalkeeper|GK]] || 49 || {{flagicon|KOS}} [[Arijanet Muric]] || [[Nottingham Forest F.C|Nottingham Forest]]|| [[Manchester City F.C.|First team]] || <ref>{{Cite web |title=Forest capture Muric signature |url=https://www.nottinghamforest.co.uk/news/2019/july/forest-capture-muric-signature/ |publisher=[[Nottingham Forest F.C.]] |access-date=9 July 2019}}</ref>
+|-
+| 9 July 2019 || 30 June 2020 || [[Association football positions#Goalkeeper|GK]] || — || {{flagicon|USA}} [[Zack Steffen]] || {{flagicon|GER}} [[Fortuna Düsseldorf]] || [[Manchester City F.C.|First team]] || <ref name="Zack Steffen Completes Loan Switch">{{cite web |title=Zack Steffen Completes Loan Switch |url=https://www.mancity.com/news/first-team/first-team-news/2019/july/man-city-zack-steffen-fortuna-dusseldorf-loan |publisher=[[Manchester City F.C.]] |access-date=9 July 2019}}</ref>
+|-
+| 17 July 2019 || 1 August 2020{{efn|name=ex}}  || [[Association football positions#Midfielder|MF]] || 67 || {{flagicon|ESP}} [[Paolo Fernandes]] || {{flagicon|ITA}} [[A.C. Perugia Calcio|Perugia]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="Zack Steffen Completes Loan Switch"/>
+|-
+| 17 July 2019 || 30 June 2020 || DF || 34 || {{flagicon|NED}} [[Philippe Sandler]] || {{flagicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]] || [[Manchester City F.C.|First Team]] || <ref>{{cite web |last1=Clayton |first1=David |title=Sandler joins Anderlecht |url=https://www.mancity.com/news/first-team/first-team-news/2019/july/philippe-sandler-joins-anderlecht-on-season-long-loan |website=mancity.com |access-date=17 July 2019}}</ref>
+|-
+|19 July 2019 || 31 December 2019 || MF || — || {{flagicon|USA}} [[Mix Diskerud]] || {{flagicon|KOR}} [[Ulsan Hyundai]] || Academy || <ref>{{cite web |title=울산현대, 맨체스터 시티 출신 믹스 디스커루드 임대 연장 계약 체결 |url=https://www.uhfc.tv/board/board_view.php?buid=news_n&no_seq=52207 |publisher=[[Ulsan Hyundai]] |access-date=21 July 2019 |language=ko }}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref><ref>{{cite web |last1=Croydon |first1=Daniel |title=Preview: Ulsan Hyundai vs. Gangwon FC |url=http://www.kleagueunited.com/2019/07/preview-ulsan-hyundai-vs-gangwon-fc.html |website=K League United |quote=Mix Diskerud had signed an extension to his loan deal until the end of this season}}</ref>
+|-
+| 26 July 2019 || 30 June 2020 || MF || — || {{flagicon|VEN}} [[Yangel Herrera]] || {{flagicon|ESP}} [[Granada CF|Granada]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Yangel Herrera joins Granada CF on loan |url=https://www.granadacf.es/noticia/comunicado-yangel-herrera-se-une-al-granada-cf-como-cedido |publisher=[[Granada CF|Granada]] |access-date=26 July 2019 |language=es}}</ref>
+|-
+| 31 July 2019 || 22 July 2020{{efn|name=ex}} || DF || 24 || {{flagicon|ENG}} [[Tosin Adarabioyo]] || [[Blackburn Rovers F.C.|Blackburn Rovers]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Manchester City defender signs for Rovers on loan |url=https://www.lancashiretelegraph.co.uk/sport/football/rovers/news/17806110.manchester-city-defender-signs-rovers-loan/ |publisher=[[Lancashire Telegraph]] |access-date=31 July 2019}}</ref>
+|-
+| 31 July 2019 || 26 July 2020{{efn|name=ex}} || FW || 29 || {{flagicon|COL}} [[Marlos Moreno]] || {{flagicon|POR}} [[Portimonense S.C.|Portimonense]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=SAD ADMINISTRATION PRESENTS STRENGTHENING (in Portuguese) |url=https://www.portimonense.pt/sad/noticia.php?id=12473 |publisher=[[Portimonense S.C.]] |access-date=5 August 2019}}</ref>
+|-
+| 2 August 2019 || 30 June 2020 || MF || — || {{flagicon|SER}} [[Ivan Ilić (footballer, born 2001)|Ivan Ilić]] || {{flagicon|NED}} [[NAC Breda]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="voetbal247.nl">{{cite web |title=NAC Presents Three New Acquisitions |url=https://www.voetbal247.nl/nac-presenteert-drie-nieuwe-aanwinsten/ |archive-url=https://web.archive.org/web/20190812081518/https://www.voetbal247.nl/nac-presenteert-drie-nieuwe-aanwinsten/ |url-status=usurped |archive-date=12 August 2019 |website=voetbal247.nl |access-date=12 August 2019|language=nl|date=3 August 2019 }}</ref>
+|-
+| 2 August 2019 || 30 June 2020 || MF || — || {{flagicon|SER}} [[Luka Ilić]] || {{flagicon|NED}} [[NAC Breda]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="voetbal247.nl"/>
+|-
+| 3 August 2019 || 3 January 2020{{efn|Lukas Nmecha's planned season-long loan to Wolfsburg was ended on 3 January when he was loaned to Middlesbrough.<ref name="Middlesbrough F.C">{{cite web |title=Boro Complete Loan Deal For Lukas Nmecha |url=https://www.mfc.co.uk/news/boro-complete-loan-deal-for-lukas-nmecha |publisher=[[Middlesbrough F.C.]] |access-date=3 January 2020}}</ref>}} || FW || 43 || {{flagicon|GER}} [[Lukas Nmecha]] || {{flagicon|GER}} [[VfL Wolfsburg]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |last1=Leigh |first1=Neil |title=Lukas Nmecha Joins Wolfsburg on Loan |url=https://www.mancity.com/news/first-team/first-team-news/2019/august/man-city-lukas-nmecha-season-long-loan-wolfsburg |website=mancity.com |access-date=3 August 2019}}</ref>
+|-
+| 5 August 2019 || 4 July 2020{{efn|name=ex}}  || DF || — || {{flagicon|USA}} [[Erik Palmer-Brown]] || {{flagicon|AUT}} [[FK Austria Wien|Austria Wien]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Austria Vienna Leads Palmer-Brown From Manchester City |language=de |url=http://www.fk-austria.at/de/n/news/2019/08/austria-wien-leiht-palmer-brown-von-manchester-city-aus/ |publisher=[[FK Austria Wien|Austria Wien]] |access-date=5 August 2019 |archive-date=5 August 2019 |archive-url=https://web.archive.org/web/20190805085809/http://www.fk-austria.at/de/n/news/2019/08/austria-wien-leiht-palmer-brown-von-manchester-city-aus/ |url-status=dead }}</ref>
+|-
+| 5 August 2019 || 30 June 2020 || MF || — || {{flagicon|GHA}} [[Thomas Agyepong]] || {{flagicon|BEL}} [[Waasland-Beveren]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Official: Man City loan out Ghana winger Thomas Agyepong to Belgian side Waasland Beveren|date=5 August 2019 |url=https://ghanasoccernet.com/official-man-city-loan-out-ghana-winger-thomas-agyepong-to-belgian-side-waasland-beveren |publisher=Ghana Soccernet|access-date=5 August 2019}}</ref>
+|-
+| 8 August 2019 || 30 June 2020 || MF || 74 || {{flagicon|ENG}} [[Luke Bolton]] || [[Luton Town F.C.|Luton Town]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=...and Luke Bolton completed the deadline day hat-trick |url=https://www.lutontown.co.uk/news/2019/august/luke-bolton/ |publisher=[[Luton Town F.C.]] |access-date=8 August 2019}}</ref>
+|-
+| 8 August 2019 || 19 July 2020{{efn|name=ex}}  || DF || — || {{flagicon|ESP}} [[Pedro Porro]] || {{flagicon|ESP}} [[Real Valladolid|Valladolid]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Transferts : Pedro Porro (Gérone) signe à Manchester City et est prêté à Valladolid |url=https://www.lequipe.fr/Football/Actualites/Transferts-pedro-porro-gerone-signe-a-manchester-city-et-est-prete-a-valladolid/1047252 |publisher=[[L'Équipe]] |access-date=9 August 2019 |language=ca}}</ref>
+|-
+| 14 August 2019 || 30 June 2020 || MF || — || {{flagicon|GHA}} [[Ernest Agyiri]] || {{flagicon|CYP}} [[Enosis Neon Paralimni FC|Enosis Neon Paralimni]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Enosis Neon Paralimni FC of #Cyprus have agreed a loan deal with @ManCity for Ernest #Agyiri |url=https://twitter.com/UEFAcomJohnL/status/1161691870046621697 |publisher=UEFA |access-date=27 August 2019}}</ref>
+|-
+| 22 August 2019 || 30 June 2020 || FW || — || {{flagicon|POR}} [[Félix Correia]] || {{flagicon|NED}} [[AZ Alkmaar|AZ]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=New Man City signing Felix Correia joins AZ Alkmaar on loan |url=https://www.manchestereveningnews.co.uk/sport/football/transfer-news/felix-correia-man-city-transfer-16795507 |publisher=[[Manchester Evening News]] |access-date=22 August 2019|date=22 August 2019 }}</ref>
+|-
+| 30 August 2019 || 30 June 2020 || FW || — || {{flagicon|JPN}} [[Ryotaro Meshino]] || {{flagicon|SCO}} [[Heart of Midlothian F.C.|Heart of Midlothian]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Meshino is a Jambo |url=https://www.heartsfc.co.uk/news/article/meshino-is-a-jambo |publisher=Hearts |access-date=30 August 2019}}</ref>
+|-
+| 2 September 2019 || 30 June 2020 || MF || 81 || {{flagicon|FRA}} [[Claudio Gomes]] || {{flagicon|NED}} [[PSV Eindhoven]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Jong PSV adds Gomes to selection
+ |date=2 September 2019 |url=https://www.psv.nl/media/artikel/jong-psv-voegt-gomes-toe-aan-selectie |publisher=[[PSV Eindhoven]] |access-date=2 September 2019 |language=nl}}</ref>
+|-
+| 2 September 2019 || 30 June 2020 || MF || 75 || {{flagicon|ESP}} [[Aleix García]] || {{flagicon|BEL}} [[Royal Excel Mouscron|Excel Mouscron]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=City loans Aleix García ... to Mouscron!
+ |date=2 September 2019 |url=https://www.marca.com/futbol/premier-league/2019/09/02/5d6d8702268e3ebd678b45c0.html |publisher=[[Marca (newspaper)|Marca]] |access-date=2 September 2019 |language=es}}</ref>
+|-
+| 2 September 2019 || 30 June 2020 || DF || 64 || {{flagicon|ENG}} [[Joel Latibeaudiere]] || {{flagicon|NED}} [[FC Twente|Twente]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=Twente sign Man City talent but say goodbye to 4 players |url=https://www.football-oranje.com/twente-sign-man-city-talent-but-say-goodbye-to-4-players/ |website=Football Oranje |date=2 September 2019 |access-date=2 September 2019 }}</ref>
+|-
+| 3 September 2019 || 30 June 2020 || FW || — || {{flagicon|GHA}} [[Mohammed Aminu]] || {{flagicon|NED}} [[FC Dordrecht|Dordrecht]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite web |title=FC Dordrecht gets talent from Manchester City |language=nl |url=https://www.ad.nl/dordrecht/fc-dordrecht-huurt-aminu-mohammed-van-manchester-city~a079c4ff/ |publisher=AD.NL|access-date=16 September 2019 }}</ref>
+|-
+| 2 January 2020 || 22 July 2020{{efn|name=ex}}  || [[Association football positions#Midfielder|MF]] || 27 || {{flagicon|ENG}} [[Patrick Roberts]] || [[Middlesbrough F.C.|Middlesbrough]] || [[Manchester City F.C.|First team]] || <ref name="Roberts loan swap"/>
+|-
+| 3 January 2020 || 22 July 2020{{efn|name=ex}}  || FW || 43 || {{flagicon|GER}} [[Lukas Nmecha]] || [[Middlesbrough F.C.|Middlesbrough]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="Middlesbrough F.C"/>
+|-
+| 28 January 2020 || 30 June 2020 || GK || 32 || {{flagicon|ENG}} Daniel Grimshaw || [[Hemel Hempstead Town F.C.|Hemel Hempstead Town]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref>{{cite tweet |user=hemelfc |number=1222210665085095936 |date=28 January 2020 |title= Welcome <nowiki>|</nowiki> Our final signing of the day is @Grimmy1998 who signs on loan from @ManCity. The 22 year old goalkeeper is highly thought of by Pep Guardiola and the coaching staff at the club Welcome Daniel 👊 |author=Hemel Hempstead Town |author-link=Hemel Hempstead Town F.C. }}</ref>
+|-
+| 31 January 2020 || 18 August 2020{{efn|name=ex}} || DF || 12 || {{flagicon|ESP}} [[Angeliño]] || {{flagicon|GER}} [[RB Leipzig]] || [[Manchester City F.C.|First team]] || <ref>{{cite web |title=Angelino joins Red Bull Leipzig on loan |url=https://www.mancity.com/news/first-team/first-team-news/2020/january/transfer-deadline-day-loan-news |publisher=[[Manchester City F.C.]] |date=31 January 2020 |access-date=31 January 2020 |archive-url=https://web.archive.org/web/20200131172053/https://www.mancity.com/news/first-team/first-team-news/2020/january/transfer-deadline-day-loan-news |archive-date=31 January 2020 |url-status=dead }}</ref>
+|-
+| 31 January 2020 || 22 July 2020{{efn|name=ex}}  || MF || 65 || {{flagicon|WAL}} [[Matthew Smith (footballer, born 1999)|Matthew Smith]] || [[Charlton Athletic F.C.|Charlton Athletic]] || [[Manchester City F.C. EDS and Academy|Academy]] || <ref name="Smith">{{cite news |title=Charlton Athletic sign Manchester City midfielder on loan |url=https://www.londonnewsonline.co.uk/charlton-athletic-sign-manchester-city-midfielder-on-loan/ |archive-url=https://web.archive.org/web/20200131190029/https://www.londonnewsonline.co.uk/charlton-athletic-sign-manchester-city-midfielder-on-loan/ |url-status=usurped |archive-date=31 January 2020 |access-date=31 January 2020 |work=[[London News Online]]}}</ref>
+|}
+{{notelist}}
+
+===Overall transfer activity===
+{{col-begin}}
+{{col-3}}
+
+'''Expenditure'''
+
+Total: {{loss}} £133,790,000
+{{col-3}}
+
+'''Income'''
+
+Total: {{gain}} £64,600,000
+{{col-3}}
+
+'''Net totals'''
+
+Total: {{loss}} £77,979,000
+{{col-end}}
+
+==Statistics==
+
+===Squad statistics===
+{{updated|15 August 2020}}
+<!-- If you are going to edit this table, please update it for ALL pertinent players on a match by match basis, rather than just updating arbitrary portions of it (such as a single line entry for your favourite player!). Please also appropriately modify the "Last updated" date field in the footer at the base of this table if you do make changes to it. -->
+<small>''Appearances (Apps) numbers are for appearances in competitive games only, including sub appearances.''<br/></small>
+<small>''Red card numbers denote:'' ''numbers in parentheses represent red cards overturned for wrongful dismissal.''</small>
+
+{| class="wikitable sortable alternance" style="text-align:center;width:100%"
+|-
+! rowspan="2" style="width:10px"|No.
+! rowspan="2" style="width:10px"|Nat.
+! rowspan="2" scope="col" style="width:350px"|Player
+! rowspan="2" style="width:10px"|Pos.
+! colspan="4" |Premier League
+! colspan="4" |FA Cup
+! colspan="4" |League Cup
+! colspan="4" |Community Shield
+! colspan="4" |Champions League
+! colspan="4" |Total
+|- style="text-align:center"
+! width=40 |Apps
+! width=40 |{{goal}}
+! width=40 |{{yel}}
+! width=40 |{{sent off}}
+! width=40 |Apps
+! width=40 |{{goal}}
+! width=40 |{{yel}}
+! width=40 |{{sent off}}
+! width=40 |Apps
+! width=40 |{{goal}}
+! width=40 |{{yel}}
+! width=40 |{{sent off}}
+! width=40 |Apps
+! width=40 |{{goal}}
+! width=40 |{{yel}}
+! width=40 |{{sent off}}
+! width=40 |Apps
+! width=40 |{{goal}}
+! width=40 |{{yel}}
+! width=40 |{{sent off}}
+! width=40 |Apps
+! width=40 |{{goal}}
+! width=40 |{{yel}}
+! width=40 |{{sent off}}
+|-
+|1||{{flagicon|CHI}}||{{sortname|Claudio|Bravo}} ||GK|| 4 || || || || 4 || || || || 6 || || || || 1 || || || || 2 || || || 1 || 17 || || || 1
+|-
+|2||{{flagicon|ENG}}||{{sortname|Kyle|Walker}} ||DF|| 29 || 1|| 5 || || 2 || || || || 4 || || 1 || || 1 || || || || 6 || || || || 42 || 1|| 6 ||
+|-
+|5||{{flagicon|ENG}}||{{sortname|John|Stones}} ||DF|| 16 || || || || 3 || || || || 3 || || || || 1 || || || || 1 || || || || 24 || || || 
+|-
+|7||{{flagicon|ENG}}||{{sortname|Raheem|Sterling}} ||MF|| 33 || 20 || 5 || || 4 || 1 || || || 5 || 3 || 1 || || 1 || 1 || || || 9 || 6 || || || 52 || 31 || 6 ||
+|-
+|8||{{flagicon|GER}}||{{sortname|İlkay|Gündoğan||Gundogan, Ilkay}} ||MF|| 31 || 2 || 7 || || 4 || 1 || || || 5 || || || || 1 || || || || 9 || 2 || || || 50 || 5 || 7 ||
+|-
+|9||{{flagicon|BRA}}||{{sortname|Gabriel|Jesus}} ||FW|| 34 || 14 || 3 || || 4 || 2 || || || 6 || 1 || || || 1 || || || || 8 || 6 || || || 53 || 23 || 3 || 
+|-
+|10||{{flagicon|ARG}}||{{sortname|Sergio|Agüero}} ||FW|| 24 || 16 || 1 || || 2 || 2 || || || 3 || 3 || || || || || || || 3 || 2 || || || 32 || 23 || 1 || 
+|-
+|11||{{flagicon|UKR}}||{{sortname|Oleksandr|Zinchenko|Oleksandr Zinchenko (footballer)}} ||MF|| 19 || || || 1 || 1 || 1 || || || 2 || || || || 1 || || || || 2 || || || || 25 || 1 || || 1
+|-
+|12||{{flagicon|ESP}}||[[Angeliño]] ||DF|| 6 || || 1 || || 2 || || || || 3 || || || || || || || || 1 || || || || 12 || || 1 || 
+|-
+|14||{{flagicon|FRA}}||{{sortname|Aymeric|Laporte}} ||DF|| 15 || 1 || 1 || || 2 || || || || || || || || || || || || 3 || || || || 20 || 1 || 1 || 
+|-
+|16||{{flagicon|ESP}}||[[Rodri (footballer, born 1996)|Rodri]]||MF|| 35 || 3 || 8 || || 4 || || || || 4 || 1 || 3 || || 1 || || || || 8 || || 2 || || 52 || 4 || 12 || 
+|-
+|17||{{flagicon|BEL}}||{{sortname|Kevin|De Bruyne}} ||MF|| 35 || 13 || 3 || || 2 || 1 || || || 3 || || || || 1 || || 1 || || 7 || 2 || 1 || || 48 || 16 || 5 || 
+|-
+|19||{{flagicon|GER}}||{{sortname|Leroy|Sané}} ||MF|| 1 || || || || || || || || || || || || 1 || || || || || || || || 2 || || || 
+|-
+|20||{{flagicon|POR}}||{{sortname|Bernardo|Silva}} ||MF|| 35 || 6 || 5 || || 3 || 1 || || || 6 || 1 || || || 1 || || || || 7 || || 1 || || 52 || 8 || 6 || 
+|-
+|21||{{flagicon|ESP}}||{{sortname|David|Silva}} ||MF|| 27|| 6 || || || 4 || || || || 3 || || || || 1 || || || || 4 || || || || 39 || 6 || || 
+|-
+|22||{{flagicon|FRA}}||{{sortname|Benjamin|Mendy}} ||DF|| 19 || || 3 || || 3 || || || || 2 || || || || || || || || 6 || || 3 || || 30 || || 6 || 
+|-
+|25||{{flagicon|BRA}}||[[Fernandinho (footballer, born May 1985)|Fernandinho]] ||MF|| 30 || || 7 || 2 || 1 || || || || 2 || || || || || || || || 8 || || 4 || || 41 || || 11 || 2
+|-
+|26||{{flagicon|ALG}}||{{sortname|Riyad|Mahrez}} ||MF|| 33 || 11 || || || 5 || || 1 || || 5 || 1 || || || || || || || 7 || 1 || || || 50 || 13 || 1 || 
+|-
+|27||{{flagicon|POR}}||{{sortname|João|Cancelo}} ||DF|| 17 || || 3 || || 4 || || || || 4 || 1 || || || || || || || 8 || || 1 || || 33 || 1 || 4 || 
+|-
+|30||{{flagicon|ARG}}||{{sortname|Nicolás|Otamendi}} ||DF|| 24 || 2 || 4 || || 3 || || || || 3 || 1 || 1 || || 1 || || || || 8 || || 1 || || 39 || 3 || 6 || 
+|-
+|31||{{flagicon|BRA}}||{{sortname||Ederson|Ederson (footballer, born 1993)}} ||GK|| 35 || || 3 || 1 || 1 || || || || || || || || || || || || 8 || || || || 44 || || 3 || 1
+|-
+|33||{{flagicon|ENG}}||{{sortname|Scott|Carson}} ||GK|| || || || || || || || || || || || || || || || || || || || || || || || 
+|-
+|47||{{flagicon|ENG}}||{{sortname|Phil|Foden}} ||MF|| 23 || 5 || || || 4 || 1 || || || 5 || || || || 1 || || || || 5 || 2 || || 1 || 38 || 8 || || 1
+|-
+|50||{{flagicon|ESP}}||{{sortname|Eric|García|Eric García (footballer, born 2001)}} ||DF|| 13 || || 1 || || 2 || || || || 3 || || || || || || || || 2 || || || || 20 || || 1 || 
+|-
+|69||{{flagicon|ENG}}||{{sortname|Tommy|Doyle|Tommy Doyle (footballer, born 2001)}} ||MF|| 1 || || || || 1 || || || || 1 || || || || || || || || || || || || 3 || || ||
+|-
+|78||{{flagicon|ENG}}||{{sortname|Taylor|Harwood-Bellis}} ||DF|| || || || || 1 || 1 || || || 2 || || || || || || || || 1 || || || || 4 || 1 || || 
+|-
+|82||{{flagicon|ESP}}||{{sortname|Adrián|Bernabé}} ||MF|| || || || || || || || || 3 || || || || || || || || || || || || 3 || || || 
+|- class="sortbottom"
+| colspan="5" |'''Own goals'''
+| 2
+| colspan="3" style="background:white;text-align:center" |
+| 
+| colspan="3" style="background:white;text-align:center" |
+| 2
+| colspan="3" style="background:white;text-align:center" |
+| 
+| colspan="3" style="background:white;text-align:center" |
+|
+| colspan="3" style="background:white;text-align:center" |
+| 4
+| colspan="2" style="background:white;text-align:center" |
+|- class="sortbottom"
+| colspan="5" style="background:white;text-align:center" |'''Totals'''
+|'''102'''||'''60'''||'''4'''
+| rowspan="3" style="background:white;text-align:center" |
+|'''11'''||'''1'''||'''0'''
+| rowspan="3" style="background:white;text-align:center" |
+|'''14'''||'''6'''||'''0'''
+| rowspan="3" style="background:white;text-align:center" |
+|'''1'''||'''1'''||'''0'''
+| rowspan="3" style="background:white;text-align:center" |
+|'''21'''||'''13'''||'''2'''
+| rowspan="3" style="background:white;text-align:center" |
+|'''149'''||'''81'''||'''6'''
+|}
+
+===Goalscorers===
+<small>''Includes all competitive matches. The list is sorted alphabetically by surname when total goals are equal.''</small>
+
+{| class="wikitable sortable alternance" style="text-align:center"
+|-
+! |No.
+! |Pos.
+! |Player
+! width="80" |Premier League
+! width="80" |FA Cup
+! width="80" |League Cup
+! width="80" |Community Shield
+! width="80" |Champions League
+! width="80" |TOTAL
+|-
+| 7 || FW || align="left"|{{Flagicon|ENG}} [[Raheem Sterling]] || 20 || 1 || 3 || 1 || 6 || '''31'''
+|-
+| 10 || FW || align="left"|{{flagicon|ARG}} [[Sergio Agüero]] || 16 || 2 || 3 || 0 || 2 || '''23'''
+|-
+| 9 || FW || align="left"|{{flagicon|BRA}} [[Gabriel Jesus]] || 14 || 2 || 1 || 0 || 6 || '''23'''
+|-
+| 17 || MF || align="left"|{{flagicon|BEL}} [[Kevin De Bruyne]] || 13 || 1 || 0 || 0 || 2 || '''16'''
+|-
+| 26 || FW || align="left"|{{flagicon|ALG}} [[Riyad Mahrez]] || 11 || 0 || 1 || 0 || 1 || '''13'''
+|-
+| 47 || MF || align="left"|{{flagicon|ENG}} [[Phil Foden]] || 5 || 1 || 0 || 0 || 2 || '''8'''
+|-
+| 20 || MF || align="left"|{{flagicon|POR}} [[Bernardo Silva]] || 6 || 1 || 1 || 0 || 0 || '''8'''
+|-
+| 21 || MF || align="left"|{{flagicon|ESP}} [[David Silva]] || 6 || 0 || 0 || 0 || 0 || '''6'''
+|-
+| 8 || MF || align="left" |{{flagicon|GER}} [[İlkay Gündoğan]]|| 2 || 1 || 0 || 0 ||2 ||'''5'''
+|-
+| 16 || MF || align="left"|{{flagicon|ESP}} [[Rodri (footballer, born 1996)|Rodri]] || 3 || 0 || 1 || 0 || 0 || '''4'''
+|-
+| 30 || DF || align="left"|{{flagicon|ARG}} [[Nicolás Otamendi]] || 2 || 0 || 1 || 0 || 0 || '''3'''
+|-
+| 27 || DF || align="left"|{{flagicon|POR}} [[João Cancelo]] || 0 || 0 || 1 || 0 || 0 || '''1'''
+|-
+| 78 || DF || align="left"|{{flagicon|ENG}} [[Taylor Harwood-Bellis]] || 0 || 1 || 0 || 0 || 0 || '''1'''
+|-
+| 14 || DF || align="left"|{{flagicon|FRA}} [[Aymeric Laporte]] || 1 || 0 || 0 || 0 || 0 || '''1'''
+|-
+| 2 || DF || align="left"|{{flagicon|ENG}} [[Kyle Walker]] || 1 || 0 || 0 || 0 || 0 || '''1'''
+|-
+| 11 || MF || align="left"|{{flagicon|UKR}} [[Oleksandr Zinchenko (footballer)|Oleksandr Zinchenko]] || 0 || 1 || 0 || 0 || 0 || '''1'''
+|- class="sortbottom"
+| colspan="3"|Own goals || 2 || 0 || 2 || 0 || 0 || '''4'''
+|- class="sortbottom"
+| colspan="3"|'''Totals'''||'''102'''|| '''11''' || '''14''' || '''1''' ||'''21''' ||'''149'''
+|}
+
+===Hat-tricks===
+{| class="wikitable"
+|-
+! |Player
+! |Against
+! |Result
+! |Date
+! |Competition
+! |Ref
+|-
+| {{flagicon|ENG}} [[Raheem Sterling]] || [[West Ham United F.C.|West Ham United]] || 5–0 (A) || {{dts|format=dmy|2019|08|10}} || [[2019–20 Premier League|Premier League]] || <ref>{{cite web |title=West Ham 0-5 Manchester City |url=https://www.premierleague.com/match/46612 |website=Premier League |access-date=11 August 2019}}</ref>
+|-
+| {{flagicon|POR}} [[Bernardo Silva]] || [[Watford F.C.|Watford]] || 8–0 (H) || {{dts|format=dmy|2019|09|21}} || Premier League ||
+|-
+| {{flagicon|ENG}} [[Raheem Sterling]]|| {{flagicon|ITA}} [[Atalanta B.C.|Atalanta]] || 5–1 (H) || {{dts|format=dmy|2019|10|22}} || [[2019-20 UEFA Champions League|UEFA Champions League]] ||
+|-
+| {{flagicon|BRA}} [[Gabriel Jesus]] || {{flagicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]] || 4–1 (A) || {{dts|format=dmy|2019|12|11}} || UEFA Champions League || 
+|-
+| {{flagicon|ARG}} [[Sergio Agüero]] || [[Aston Villa F.C.|Aston Villa]] || 6–1 (A) || {{dts|format=dmy|2020|01|12}} || Premier League ||
+|-
+| {{flagicon|ENG}} [[Raheem Sterling]] || [[Brighton and Hove Albion F.C.|Brighton]] || 5–0 (A) || {{dts|format=dmy|2020|07|11}} || Premier League ||
+|}
+<small>(H) – Home; (A) – Away</small>
+
+===Clean sheets===
+<small>''The list is sorted by shirt number when total clean sheets are equal. Numbers in parentheses represent games where both goalkeepers participated and both kept a clean sheet; the number in parentheses is awarded to the goalkeeper who was substituted on, whilst a full clean sheet is awarded to the goalkeeper who was on the field at the start of play.''</small>
+
+{| class="wikitable sortable alternance" style="text-align:center"
+|-
+! colspan="3" | 
+! colspan="6" |Clean sheets
+|-
+! |No.
+! |Player
+! width=80 |Games Played
+! width=80 |Premier League
+! width=80 |FA Cup
+! width=80 |League Cup
+! width=80 |Community Shield
+! width=80 |Champions League
+! width=80 |TOTAL
+|-
+| 31 || {{flagicon|BRA}} [[Ederson (footballer, born 1993)|Ederson]] || 44 || 16 || 0 || 0 || 0 || 2 || '''18'''
+|-
+| 1 || {{flagicon|CHL}} [[Claudio Bravo]] || 15 (2) || 1 || 3 || 1 || 0 || 0 || '''5'''
+|-
+| 2 || {{flagicon|ENG}} [[Kyle Walker]] || 0 (1) || 0 || 0 || 0 || 0 || 0 || '''0'''
+|- class="sortbottom"
+| colspan="3"|'''Totals'''||'''17'''|| '''3''' || '''1''' || '''0''' ||'''2''' || '''23'''
+|}
+
+==Awards==
+{{col-begin-small}}
+{{col-2}}
+
+===Etihad Player of the Month===
+{| class="wikitable"
+|-
+! |Month
+! |Player
+! |Ref.
+|-
+|August||{{flagicon|ARG}} [[Sergio Agüero]] ||<ref>{{cite web |last1=Clayton |first1=David |title=Sergio Aguero Wins Etihad Player of the Month Vote |url=https://www.mancity.com/news/first-team/first-team-news/2019/september/man-city-etihad-potm-august-winner-sergio-aguero |website=mancity.com |access-date=13 September 2019}}</ref>
+|-
+|September||{{flagicon|ALG}} [[Riyad Mahrez]] ||<ref>{{cite web |last1=Clayton |first1=David |title=Mahrez Voted September Etihad Player of the Month |url=https://www.mancity.com/news/first-team/first-team-news/2019/october/man-city-etihad-potm-september-riyad-mahrez-wins-september-vote |website=mancity.com |access-date=13 October 2019}}</ref>
+|-
+|October||{{flagicon|ENG}} [[Raheem Sterling]] ||<ref>{{cite web |last1=Clayton |first1=David |title=Etihad Player of the Month: Winner Announced |url=https://www.mancity.com/news/first-team/first-team-news/2019/november/man-city-etihad-potm-october-winner-announced |website=mancity.com |access-date=1 December 2019}}</ref>
+|-
+|November||{{flagicon|BEL}} [[Kevin De Bruyne]] ||<ref>{{cite web |last1=Clayton |first1=David |title=De Bruyne Is November Etihad Player of the Month |url=https://www.mancity.com/news/first-team/first-team-news/2019/december/kevin-de-bruyne-wins-etihad-player-of-the-month |website=mancity.com |access-date=20 December 2019}}</ref>
+|-
+|December||{{flagicon|ALG}} [[Riyad Mahrez]] ||<ref>{{cite web |title=Vote for Your Etihad Player of the Month |url=https://www.mancity.com/news/first-team/first-team-news/2020/january/etihad-player-of-the-month-december |website=mancity.com |access-date=8 March 2020}}</ref>
+|-
+|January||{{flagicon|ARG}} [[Sergio Agüero]] ||<ref>{{cite web |last1=Edwards |first1=John |title=Sergio Aguero Wins Etihad Player of the Month |url=https://www.mancity.com/news/first-team/first-team-news/2020/february/sergio-aguero-named-etihad-player-of-the-month-january |website=mancity.com |access-date=8 March 2020}}</ref>
+|-
+|February||{{flagicon|BEL}} [[Kevin De Bruyne]] ||<ref>{{cite web |last1=Pollard |first1=Rob |title=De Bruyne Named Etihad Player of the Month! |url=https://www.mancity.com/news/mens/de-bruyne-etihad-player-of-the-month-63718845 |website=mancity.com |access-date=8 March 2020}}</ref>
+|}
+
+===Premier League Player of the Month===
+{| class="wikitable"
+|-
+! |Month
+! |Player
+! |Ref.
+|-
+|January||{{flagicon|ARG}} [[Sergio Agüero]] ||<ref>{{cite web |last1=Maston |first1=Tom |title=Aguero wins record-breaking seventh Premier League Player of the Month prize |url=https://www.goal.com/en-tza/news/aguero-record-premier-league-player-of-the-month/1ihvu0naqx1f312sclc977tnzn |website=Goal.com |access-date=8 March 2020}}</ref>
+|}
+Agüero's win in January 2020 was at the time his seventh overall, the most in the competition's history.
+
+===Premier League Goal of the Month===
+{| class="wikitable"
+|-
+! |Month
+! |Player
+! |Ref.
+|-
+|November||{{flagicon|BEL}} [[Kevin De Bruyne]] ||<ref>{{cite news |title=De Bruyne claims Budweiser Goal of the Month |url=https://www.premierleague.com/news/1527738 |access-date=13 December 2019 |work=Premier League |date=13 December 2019}}</ref>
+|-
+|July|||{{flagicon|BEL}} [[Kevin De Bruyne]] ||<ref>{{cite news |title=De Bruyne completes double with Budweiser Goal of the Month |url=https://www.premierleague.com/news/1747213 |access-date=5 August 2020 |work=Premier League |date=5 August 2020}}</ref>
+|}
+
+===PFA Players' Player of the Year===
+{| class="wikitable"
+|-
+! |Season
+! |Player
+! |Ref.
+|-
+|2019–20||{{flagicon|BEL}} [[Kevin De Bruyne]] ||<ref name="PFA Awards">{{cite web |title=PFA Player of the Year: Kevin de Bruyne and Beth England named 2020 winners |url=https://www.bbc.co.uk/sport/football/54044861 |website=BBC Sport |access-date=9 September 2020}}</ref>
+|}
+
+===Premier League Player of the Season===
+{| class="wikitable"
+|-
+! |Season
+! |Player
+! |Ref.
+|-
+|2019–20||{{flagicon|BEL}} [[Kevin De Bruyne]] ||<ref>{{cite web |last1=Leigh |first1=Neil |title=De Bruyne Named Premier League Player of the Season |url=https://www.mancity.com/news/mens/kevin-de-bruyne-premier-league-player-of-the-season-63733021 |website=mancity.com |access-date=16 August 2020}}</ref>
+|}
+
+===UEFA Men's Midfielder of the Season===
+{| class="wikitable"
+|-
+! |Season
+! |Player
+! |Ref.
+|-
+|2019–20||{{flagicon|BEL}} [[Kevin De Bruyne]] ||<ref>{{cite web |last1=Pollard |first1=Rob |title=De Bruyne Named UEFA Midfielder of the Season |url=https://www.mancity.com/news/mens/kevin-de-bruyne-uefa-midfielder-of-the-season-63737160 |website=mancity.com |access-date=1 October 2020}}</ref>
+|}
+{{col-2}}
+
+===PFA Team of the Year===
+{| class="wikitable"
+|-
+! |Season
+! |Position
+! |Player
+! |Ref.
+|-
+| rowspan="2" style="text-align:center;" |2019–20|| rowspan="2" style="text-align:center;"|MF||{{flagicon|BEL}} [[Kevin De Bruyne]] || rowspan="2" style="text-align:center;"| <ref name="PFA Awards"/>
+|-
+| {{flagicon|ESP}} [[David Silva]]
+|-
+|}
+
+===Etihad Player of the Season===
+{| class="wikitable"
+|-
+! |Season
+! |Player
+! |Ref.
+|-
+|2019–20||{{flagicon|BEL}} [[Kevin De Bruyne]] ||<ref>{{cite web|url=https://www.mancity.com/citytv/mens/de-bruyne-etihad-player-of-the-season-63732324|title=De Bruyne wins Etihad Player of the Season award!|publisher=Manchester City|website=mancity.com|date=6 August 2020|access-date=6 August 2020}}</ref>
+|}
+City's player of the season as voted for by the clubs' fans.
+
+===UEFA Team of the Year===
+{| class="wikitable"
+|-
+! |Year
+! |Player
+! |Ref
+|-
+|2019||{{flagicon|BEL}} [[Kevin De Bruyne]] ||<ref>{{cite web |title=UEFA.com fans' Team of the Year 2019 revealed |url=https://www.uefa.com/uefachampionsleague/news/025a-0e9f89606f80-08eb0bd0350b-1000--uefa-com-fans-team-of-the-year-2019-revealed/?referrer=%2Fuefachampionsleague%2Fnews%2Fnewsid%3D2637433 |website=UEFA |access-date=8 March 2020}}</ref>
+|}
+
+===UEFA Champions League Squad of the Season===
+{| class="wikitable"
+|-
+! |Season
+! |Position
+! |Player
+! |Ref.
+|-
+| rowspan="6" style="text-align:center;" |2019–20|| style="text-align:center;"|DF ||{{flagicon|ESP}} [[Angeliño]]{{efn|Angeliño played in the group stage for Manchester City and in the knockout phase for [[RB Leipzig]] while on loan.}}||rowspan="3"| <ref>{{cite web |title=Video UEFA Champions League Squad of the Season |url=https://www.uefa.com/uefachampionsleague/news/0260-103d6b6179e6-7a1932c7a58c-1000--official-squad-of-the-season/ |website=UEFA |date=28 August 2020 |access-date=29 August 2020}}</ref>
+|-
+| style="text-align:center;"|MF || {{flagicon|BEL}} [[Kevin De Bruyne]]
+|-
+| style="text-align:center;"|FW || {{flagicon|ENG}} [[Raheem Sterling]]
+|}
+
+===Premier League Golden Glove===
+{| class="wikitable" style="text-align:center"
+|-
+! |Season
+! |Player
+! |Clean Sheets
+! |Ref.
+|-
+|2019–20|| {{flagicon|BRA}} [[Ederson (footballer, born 1993)|Ederson]] || 16 ||<ref>{{cite web |last1=Bray |first1=Joe |title=Man City goalkeeper Ederson wins Golden Glove award with clean sheet vs Norwich |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/breaking-ederson-wins-golden-glove-18664960 |website=Manchester Evening News |date=26 July 2020 |access-date=26 July 2020}}</ref>
+|}
+
+===Premier League Playmaker of the Season===
+{| class="wikitable" style="text-align:center"
+|-
+! |Year
+! |Season
+! |Assists
+! |Ref.
+|-
+|2019–20|| {{flagicon|BEL}} [[Kevin De Bruyne]] || 20 ||<ref>{{cite web |title=Kevin de Bruyne: Twentieth assist of season equals Thierry Henry's record |url=https://www.bbc.co.uk/sport/football/53545450 |website=BBC Sport |access-date=26 July 2020}}</ref>
+|}
+De Bruyne's total of 20 assists for the season also equalled the Premier League [[Premier League records and statistics#Assists|record]] set by [[Thierry Henry]] in 2002–03.
+{{col-end}}
+
+==Notes==
+{{notelist}}
+{{reflist|group=upper-alpha}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.mancity.com}}
+
+{{Manchester City F.C. seasons}}
+{{2019–20 in English men's football}}
+
+{{DEFAULTSORT:Manchester City F.C. season 2019-20}}
+[[Category:Manchester City F.C. seasons|2019-20]]
+[[Category:2019–20 Premier League by team|Manchester City]]
+[[Category:2019–20 UEFA Champions League participants seasons|Manchester City]]
+[[Category:2019 in sport in Manchester]]
+[[Category:2020 in sport in Manchester]]

@@ -1,0 +1,2323 @@
+{{Short description|English football club season}}
+{{Use British English|date=May 2022}}
+{{Use dmy dates|date=May 2022}}
+{{Infobox football club season
+|club               = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|season             = [[2021–22 in English football|2021–22]]
+|chairman           = [[Daniel Levy (businessman)|Daniel Levy]]
+|image=Manchester United v Tottenham Hotspur, 12 March 2022 (07).jpg
+|caption=Spurs players in March 2022
+|owner              = [[ENIC Group|ENIC International Ltd.]]
+|mgrtitle           = Head coach
+|manager            = [[Nuno Espírito Santo]]<br>''(until 1 November)''<br>[[Antonio Conte]] ''<br>(from 2 November)''
+|stadium            = [[Tottenham Hotspur Stadium]]
+|league             = [[Premier League]]
+|league result      = [[2021–22 Premier League|4th]]
+|cup1               = [[FA Cup]]
+|cup1 result        = [[2021–22 FA Cup|Fifth round]]
+|cup2               = [[EFL Cup]]
+|cup2 result        = [[2021–22 EFL Cup|Semi-finals]]
+|cup3               = [[UEFA Europa Conference League]]
+|cup3 result        = [[2021–22 UEFA Europa Conference League|Group stage]]
+|league topscorer   = <br>[[Son Heung-min]] (23)
+|season topscorer   = <br>[[Harry Kane]] (27)
+|highest attendance = 62,027 v [[Arsenal F.C.|Arsenal]]<br>12 May 2022
+|lowest attendance  = League: 40,539 v [[Crystal Palace F.C.|Crystal Palace]], 28 December 2021<br>All: 25,121 v [[NŠ Mura|Mura]], 30 September 2021
+|average attendance = {{formatnum:{{#expr: (((1073936)/19) round 0)}}}}
+|largest win        = 5–0 v [[Everton F.C.|Everton]] (7 March 2022)<br>5–0 v [[Norwich City F.C.|Norwich City]] (22 May 2022)
+|largest loss       = 0–3 v [[Crystal Palace F.C.|Crystal Palace]] (11 September 2021)<br>0–3 v [[Chelsea F.C.|Chelsea]] (19 September 2021)<br>0–3 v [[Manchester United F.C.|Manchester United]] (30 October 2021)<br>0–3 ({{Tooltip|awd.|Awarded}}) v [[Stade Rennais F.C.|Rennes]] (9 December 2021)
+|pattern_la1        = _tottenham2122h
+|pattern_b1         = _tottenham2122h
+|pattern_ra1        = _tottenham2122h
+|pattern_sh1        = _tottenham2122h
+|pattern_so1        =
+|leftarm1           = FFFFFF
+|body1              = FFFFFF
+|rightarm1          = FFFFFF
+|shorts1            = 00164D
+|socks1             = 00164D
+|alt1               = A white shirt with dark blue shorts and socks.
+|pattern_la2        = _tottenham2122a
+|pattern_b2         = _tottenham2122a
+|pattern_ra2        = _tottenham2122a
+|pattern_sh2        = _monterrey1213t1
+|pattern_so2        = _monterrey1213t1
+|leftarm2           = 000000
+|body2              = 000000
+|rightarm2          = 000000
+|shorts2            = 000000
+|socks2             = 000000
+|alt2               = A mix of black and purple with specks of white shirt with black shorts and socks.
+|pattern_la3        = _tottenham2122t
+|pattern_b3         = _tottenham2122t
+|pattern_ra3        = _tottenham2122t
+|pattern_sh3        = _tottenham2122t
+|pattern_so3        = _socks
+|leftarm3           = 8000ff
+|body3              = 8000ff
+|rightarm3          = 8000ff
+|shorts3            = 8000ff
+|socks3             = 8000ff
+|alt3               = Four squares, the top left and bottom right light and dark green, and the top right and bottom left purple, with purple shorts and socks.
+|prevseason         = [[2020–21 Tottenham Hotspur F.C. season|2020–21]]
+|nextseason         = [[2022–23 Tottenham Hotspur F.C. season|2022–23]]
+}}
+The '''2021–22 season''' was [[Tottenham Hotspur F.C.|Tottenham Hotspur]]'s 30th season in the [[Premier League]], 44th successive season in the top division of the [[English football league system]] and 140th season in existence. After finishing seventh in the [[2020–21 Premier League]], Tottenham qualified for the play-off round of the newly formed [[UEFA Europa Conference League]]. At the end of June, the club announced [[Nuno Espírito Santo]] as the new head coach on a two-year contract.<ref>{{cite web |title=Nuno Espírito Santo appointed new Head Coach |url=https://www.tottenhamhotspur.com/news/2021/june/nuno-espirito-santo-appointed-new-head-coach/ |publisher=Tottenham Hotspur F.C. |date=30 June 2021 |access-date=2 July 2021}}</ref> However, Tottenham announced that they had removed Nuno, along with his coaching staff Ian Cathro, Rui Barbosa and Antonio Dias, stating they had been "relieved of their duties" on 1 November 2021.<ref>{{cite news |url=https://www.tottenhamhotspur.com/news/2021/october/club-announcement/ |title=Club Announcement |work=Tottenham Hotspur F.C. |date=1 November 2021 |access-date=1 November 2021 }}</ref> [[Antonio Conte]] was appointed as Nuno's successor the following day.<ref>{{cite news |url=https://www.tottenhamhotspur.com/news/2021/october/antonio-conte-appointed-new-head-coach/ |title=Antonio Conte appointed new Head Coach |work=Tottenham Hotspur F.C. |date=2 November 2021 |access-date=2 November 2021 }}</ref>
+
+== Season squad ==
+{| class="wikitable" style="text-align:center;width:80%" 
+|-
+! style="background:#000080; color:white; text-align:center;" | Squad No.
+! style="background:#000080; color:white; text-align:center;" | Name
+! style="background:#000080; color:white; text-align:center;" | Nationality
+! style="background:#000080; color:white; text-align:center;" | Position(s)
+! style="background:#000080; color:white; text-align:center;" | Date of birth (age)
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Goalkeepers
+|-
+| 1
+| [[Hugo Lloris]] ''([[Captain (association football)|C]])''
+| {{flagicon|France}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|df=yes|2022|6|30| 1986|12|26}}
+|-
+| 22
+| [[Pierluigi Gollini]]
+| {{flagicon|Italy}}
+| GK
+| {{Birth date and age2|df=yes|2022|6|30| 1995|3|18}}
+|-
+| 40
+| [[Brandon Austin]]
+| {{flagicon|USA}}
+| GK
+| {{Birth date and age2|df=yes|2022|6|30|1999|1|7}}
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Defenders
+|-
+| 2
+| [[Matt Doherty (footballer, born 1992)|Matt Doherty]]
+| {{flagicon|Ireland}}
+| [[Right back (association football)|RB]] / [[Right wing-back|RWB]]
+| {{Birth date and age2|df=yes|2022|6|30|1992|01|16}}
+|-
+| 3
+| [[Sergio Reguilón]]
+| {{flagicon|Spain}}
+| [[Left back (association football)|LB]] / [[Left wing-back|LWB]]
+| {{Birth date and age2|df=yes|2022|6|30|1996|12|16}}
+|-
+| 4
+| [[Cristian Romero (footballer, born 1998)|Cristian Romero]]
+| {{flagicon|Argentina}}
+| [[Centre back|CB]]
+| {{Birth date and age2|df=yes|2022|6|30|1998|04|27}}
+|-
+| 6
+| [[Davinson Sánchez]]
+| {{flagicon|Colombia}}
+| CB
+| {{Birth date and age2|df=yes|2022|6|30|1996|06|12}}
+|-
+| 12
+| [[Emerson Royal]]
+| {{flagicon|Brazil}}
+| RB / RWB
+| {{Birth date and age2|df=yes|2022|6|30|1999|01|14}}
+|-
+| 14
+| [[Joe Rodon]]
+| {{flagicon|Wales}}
+| CB
+| {{Birth date and age2|df=yes|2022|6|30|1997|10|22}}
+|-
+| 15
+| [[Eric Dier]]
+| {{flagicon|England}}
+| CB
+| {{Birth date and age2|df=yes|2022|6|30|1994|01|15}}
+|-
+| 19
+| [[Ryan Sessegnon]]
+| {{flagicon|England}}
+| LB / LWB
+| {{Birth date and age2|df=yes|2022|6|30|2000|05|18}}
+|-
+| 25
+| [[Japhet Tanganga]]
+| {{flagicon|England}}
+| RB / CB
+| {{Birth date and age2|df=yes|2022|6|30|1999|03|31}}
+|-
+| 33
+| [[Ben Davies (footballer, born 1993)|Ben Davies]]
+| {{flagicon|Wales}}
+| CB / LB
+| {{Birth date and age2|df=yes|2022|6|30|1993|04|24}}
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Midfielders
+|-
+| 5
+| [[Pierre-Emile Højbjerg]]
+| {{flagicon|Denmark}}
+| [[Defensive midfield|DM]] / [[Central Midfielder|CM]]
+| {{birth date and age2|df=yes|2022|6|30|1995|8|5}}
+|-
+| 8
+| [[Harry Winks]]
+| {{flagicon|England}}
+| CM / DM
+| {{Birth date and age2|df=yes|2022|6|30|1996|02|02}}
+|-
+| 29
+| [[Oliver Skipp]]
+| {{flagicon|England}}
+| DM / CM
+| {{Birth date and age2|df=yes|2022|6|30|2000|09|16}}
+|-
+| 30
+| [[Rodrigo Bentancur]]
+| {{flagicon|Uruguay}}
+| DM / CM
+| {{Birth date and age2|df=yes|2022|6|30|1997|06|25}}
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Forwards
+|-
+| 7
+| [[Son Heung-min]]
+| {{flagicon|South Korea}}
+| [[Left winger (football)|LW]] / [[Forward (association football)|ST]] / [[Right winger (football)|RW]] / [[Second striker|SS]]
+| {{Birth date and age2|df=yes|2022|6|30|1992|07|08}}
+|-
+| 10
+| [[Harry Kane]] ''([[Vice Captain (association football)|VC]])''
+| {{flagicon|England}}
+| ST / SS
+| {{Birth date and age2|df=yes|2022|6|30|1993|07|28}}
+|-
+| 21
+| [[Dejan Kulusevski]]
+| {{flagicon|Sweden}}
+| RW / LW
+| {{Birth date and age2|df=yes|2022|6|30|2000|04|25}}
+|-
+| 23
+| [[Steven Bergwijn]]
+| {{flagicon|Netherlands}}
+| LW / RW
+| {{Birth date and age2|df=yes|2022|6|30|1997|10|08}}
+|-
+| 27
+| [[Lucas Moura]]
+| {{flagicon|Brazil}}
+| RW / LW / SS
+| {{Birth date and age2|df=yes|2022|6|30|1992|08|13}}
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Out on loan
+|-
+| 11
+| [[Bryan Gil]]
+| {{flagicon|Spain}}
+| LW / RW / [[Attacking midfielder|AM]]
+| {{Birth date and age2|df=yes|2022|6|30|2001|02|11}}
+|-
+| 18
+| [[Giovani Lo Celso]]
+| {{flagicon|Argentina}}
+| CM / AM
+| {{Birth date and age2|df=yes|2022|6|30|1996|04|09}}
+|-
+| 28
+| [[Tanguy Ndombele]]
+| {{flagicon|France}}
+| AM / CM
+| {{Birth date and age2|df=yes|2022|6|30|1996|12|28}}
+|-
+| 38
+| [[Cameron Carter-Vickers]]
+| {{flagicon|United States}}
+| CB
+| {{Birth date and age2|df=yes|2022|6|30|1997|12|31}}
+|-
+| 41
+| [[Alfie Whiteman]]
+| {{flagicon|England}}
+| GK
+| {{Birth date and age2|df=yes|2022|6|30|1998|10|2}}
+|-
+| 47
+| [[Jack Clarke (footballer, born 2000)|Jack Clarke]]
+| {{flagicon|England}}
+| RW / LW
+| {{Birth date and age2|df=yes|2022|6|30|2000|11|23}}
+|-
+|–
+| [[Pape Matar Sarr]]
+| {{flagicon|Senegal}}
+| CM
+| {{Birth date and age2|df=yes|2022|6|30|2002|09|14}}
+|}
+{{Fb rs footer|u=31 January 2022|s=[https://www.tottenhamhotspur.com/teams/first-team/players/ Tottenham Hotspur F.C.], [https://www.premierleague.com/clubs/21/Tottenham-Hotspur/squad?se=418 Premier League]|date=February 2022}}
+
+== Transfers ==
+=== Released ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#081159; width:145px;" | Date from
+! style="background:#FFFFFF; color:#081159; width:50px;" | Position
+! style="background:#FFFFFF; color:#081159; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#081159; width:200px;" | Name
+! style="background:#FFFFFF; color:#081159; width:215px;" | To
+! style="background:#FFFFFF; color:#081159; width:110px;" | Notes
+! style="background:#FFFFFF; color:#081159;" | Ref.
+|-
+| 1 July 2021 || CM || {{flagicon|ENG}} || [[Chay Cooper]] || {{flagicon|ENG}} [[Colchester United F.C.|Colchester United]] || Released || <ref name="Retained List"/><ref>{{cite news |last=Waldron |first=Jonathan |date=3 September 2021 |title=Colchester United sign former Spurs youngster Chay Cooper |url=https://www.gazette-news.co.uk/news/19558277.colchester-united-sign-former-spurs-youngster-chay-cooper/ |newspaper=Daily Gazette |location=Colchester |access-date=28 September 2021 }}</ref>
+|-
+| 1 July 2021 || RB || {{flagicon|ENG}} || Keenan Ferguson || {{flagicon|ENG}} [[Boston United F.C.|Boston United]]|| Released || <ref name="Retained List"/>{{Efn|After being released, Ferguson signed for Boston United.<ref>{{cite web |title= Keen-in! Former Tottenham Hotspur and Sheffield United youngster Ferguson signs for Boston United |url= https://www.lincolnshireworld.com/sport/football/keen-in-former-tottenham-hotspur-and-sheffield-united-youngster-ferguson-signs-for-boston-united-3332167 |publisher=Lincolnshire World |date=3 August 2021 |access-date=8 August 2021}}</ref>}}
+|-
+| 1 July 2021 || GK || {{flagicon|ARG}} || [[Paulo Gazzaniga]] || {{flagicon|ENG}} [[Fulham F.C.|Fulham]] || Released || <ref name="Retained List"/>{{Efn|After being released, Gazzaniga signed for Fulham.<ref>{{cite web |title=Fulham Sign Wilson & Gazzaniga |url=https://www.fulhamfc.com/news/2021/july/Fulham-Sign-Wilson-Gazzaniga/ |work=Fulham F.C. |first= Geoff |last=Pruce |date=25 July 2021 |access-date=25 July 2021}}</ref>}}
+|-
+| 1 July 2021 || DM || {{flagicon|ENG}} || [[George Marsh (footballer, born 1998)|George Marsh]] || {{flagicon|ENG}} [[AFC Wimbledon]] || Released || <ref name="Retained List"/>{{Efn|After being released, Marsh signed for AFC Wimbledon.<ref>{{cite web |title= George Marsh: AFC Wimbledon sign former Tottenham Hotspur midfielder |url= https://www.bbc.com/sport/football/57735842 |work=BBC Sport |date=6 July 2021|access-date=6 July 2021}}</ref>}}
+|-
+| 1 July 2021 || CM || {{flagicon|CYP}} || [[Jack Roles]] || {{flagicon|ENG}} [[Crystal Palace F.C.|Crystal Palace]] || Released || <ref name="Retained List"/>{{Efn|After being released, Roles had a trial with Crystal Palace and then was signed by the club on 1 July 2021.<ref>{{cite web |url=https://tbrfootball.com/22-year-old-hints-he-has-completed-palace-move-with-instagram-post-after-leaving-tottenham-this-summer/ |title=22-year-old hints he has completed Palace move with Instagram post, after leaving Tottenham this summer |work=The Boot Room |first=Will |last=Butcher |date=27 August 2021 |accessdate=18 October 2021 }}</ref><ref>{{cite web |url=https://www.cpfc.co.uk/teams/under-23/jack-roles/ |work=Crystal Palace F.C. |title=Crystal Palace profile |accessdate=24 October 2021}}</ref>}}
+|-
+| 1 July 2021 || LB || {{flagicon|ENG}} || [[Danny Rose (footballer, born 1990)|Danny Rose]] || {{flagicon|ENG}} [[Watford F.C.|Watford]] || Released || <ref name="Retained List" />{{Efn|After being released, Rose signed for Watford.<ref>{{cite web |title=Rose Returns To Watford |url=https://www.watfordfc.com/index.php/news/official-rose-returns-to-watford |work=Watford F.C. |date=16 June 2021|access-date=16 June 2021}}</ref>}}
+|-
+| 1 July 2021 || CB || {{flagicon|ENG}} || [[Aaron Skinner]] || {{flagicon|ENG}} [[Bamber Bridge F.C.|Bamber Bridge]] || Released || <ref name="Retained List"/><ref>{{Cite web |date=2021-11-23 |title=Former Tottenham youngster joins Bamber Bridge - The Pitching In Northern Premier League |url=https://www.thenpl.co.uk/former-tottenham-youngster-joins-bamber-bridge-68342 |access-date=2023-08-18 |website=www.thenpl.co.uk |language=en}}</ref>
+|-
+| 1 July 2021 || CF || {{flagicon|ENG}} || [[Kazaiah Sterling]] || {{flagicon|ENG}} [[Potters Bar Town F.C.|Potters Bar Town]] || Released || <ref name="Retained List"/><ref>{{cite web|url=https://www.whtimes.co.uk/sport/kazaiah-sterling-makes-debut-for-potters-bar-town-8384440|title=Potters Bar Town taking it game by game after handing debut to former Tottenham Hotspur and Sunderland striker|website=whtimes.co.uk|date=4 October 2021|accessdate=5 October 2021}}</ref>
+|-
+| 1 July 2021 || RW || {{flagicon|ENG}} || [[Shilow Tracey]] || {{flagicon|ENG}} [[Cambridge United F.C.|Cambridge United]] || Released || <ref name="Retained List"/>{{Efn|After being released, Tracey signed for Cambridge United.<ref>{{cite web |title=Shilow Tracey re-signs with U's |url=https://www.cambridge-united.co.uk/news/2021/june/shilow-tracey-cambridge-united-transfer-news-sky-bet-league-one-efl-english-football-league-thursday-17th-june-2021/ |work=Cambridge United F.C. |date=17 June 2021 |access-date=17 June 2021}}</ref>}}
+|-
+| 1 July 2021 || LW || {{flagicon|ENG}} || Tarrelle Whittaker || {{flagicon|WAL}} [[Swansea City A.F.C.|Swansea City]] || Released || <ref name="Retained List"/>{{Efn|After being released, Whittaker signed for Swansea City.<ref>{{cite web |title=Swansea City Academy Reveal New Scholars And Pro Deals |url=https://www.swanseacity.com/news/swansea-city-academy-reveal-new-scholars-and-pro-deals |work=Swansea City A.F.C |date=7 July 2021 |access-date=7 July 2021}}</ref>}}
+|-
+| 1 July 2021 || CF || {{flagicon|GHA}} || Enock Asante ||  || Released || <ref name="Retained List">{{cite web |title=Player update |url=https://www.tottenhamhotspur.com/news/2021/may/player-update/ |publisher=Tottenham Hotspur F.C. |date=27 May 2021 |access-date=27 May 2021}}</ref>
+|-
+| 1 July 2021 || RM || {{flagicon|ENG}} || Eddie Carrington ||  || Released || <ref name="Retained List"/>
+|-
+| 1 July 2021 || CF || {{flagicon|ENG}} || [[Rodel Richards]] || || Released || <ref name="Retained List"/> 
+|-
+| 31 August 2021 || RB || {{flagicon|Ivory Coast}} || [[Serge Aurier]] || {{flagicon|ESP}} [[Villarreal CF|Villarreal]] || Released || <ref>{{cite web |title=Player Update - Serge Aurier |url=https://www.tottenhamhotspur.com/news/2021/august/player-update-serge-aurier/ |work=Tottenham Hotspur F.C. |date=31 August 2021 |access-date=31 August 2021}}</ref>{{Efn|After being released, Aurier signed for Villarreal.<ref>{{cite web |title=Villarreal complete signing of former Tottenham Hotspur defender |url=https://www.goal.com/en/news/aurier-villarreal-complete-signing-of-former-tottenham/17738inh44qy01l9e60luq1s1x |publisher=Goal |access-date=17 January 2022}}</ref>}}
+|-
+| 21 September 2021 || CM || {{flagicon|WAL}} || [[Elliot Thorpe]] || {{flagicon|ENG}} [[Luton Town F.C.|Luton Town]] || End of contract || {{Efn|After Thorpe's contract expired, he signed for Luton Town.<ref>{{cite web |title=Elliot Thorpe: Luton Town sign Wales U21 midfielder following Tottenham exit |url=https://www.bbc.com/sport/football/58678407 |publisher=BBC |date=24 September 2021 |access-date=12 February 2022}}</ref>}}
+|-
+| 7 December 2021 || LB || {{flagicon|ENG}} || Jeremy Kyezu || || Mutual consent || <ref name="spurs-dec-update"/>
+|-
+| 10 February 2022 || CM || {{flagicon|SCO}} || [[Michael Craig (footballer, born 2003)|Michael Craig]] || {{flagicon|ENG}} [[Reading F.C.|Reading]]  || Released || <ref>{{cite web |title=Whiteman returns to Degerfors |url=https://www.tottenhamhotspur.com/news/2022/february/whiteman-returns-to-degerfors/ |publisher=Tottenham Hotspur F.C. |access-date=11 February 2022}}</ref>
+|}
+*<small>Note: Players will join other clubs after being released or terminated from their contract. Only the following clubs are mentioned when that club signed the player in the same transfer window.</small>
+{{notelist}}
+
+=== Loans in ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#081159; width:120px;" | Date from
+! style="background:#FFFFFF; color:#081159; width:50px;" | Position
+! style="background:#FFFFFF; color:#081159; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#081159; width:200px;" | Name
+! style="background:#FFFFFF; color:#081159; width:200px;" | From
+! style="background:#FFFFFF; color:#081159; width:120px;" | Date until
+! style="background:#FFFFFF; color:#081159;" | Ref.
+|-
+| 24 July 2021 || GK || {{flagicon|ITA}} || [[Pierluigi Gollini]] || {{flagicon|ITA}} [[Atalanta B.C.|Atalanta]] || End of season || <ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2021/july/gollini-loan-agreed/ |title=Gollini loan agreed |date=24 July 2021 |work=Tottenham Hotspur F.C. |accessdate=24 July 2021 }}</ref>
+|-
+| 6 August 2021 || CB || {{flagicon|ARG}} || [[Cristian Romero (footballer, born 1998)|Cristian Romero]] || {{flagicon|ITA}} [[Atalanta B.C.|Atalanta]] || End of season || <ref>{{cite web |title=Romero signs from Atalanta |url=https://www.tottenhamhotspur.com/news/2021/august/romero-signs-from-atalanta/ |work=Tottenham Hotspur F.C. |date=6 August 2021 |access-date=6 August 2021}}</ref>
+|-
+| 31 January 2022 || RW || {{flagicon|SWE}} || [[Dejan Kulusevski]] || {{flagicon|ITA}} [[Juventus FC|Juventus]] || End of next season || <ref>{{cite web |title=Kulusevski joins from Juventus |url=https://www.tottenhamhotspur.com/news/2022/january/kulusevski-joins-from-juventus/ |publisher=Tottenham Hotspur F.C. |access-date=31 January 2022}}</ref>
+|}
+
+=== Loans out ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#081159; width:120px;" | Date from
+! style="background:#FFFFFF; color:#081159; width:50px;" | Position
+! style="background:#FFFFFF; color:#081159; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#081159; width:200px;" | Name
+! style="background:#FFFFFF; color:#081159; width:200px;" | To
+! style="background:#FFFFFF; color:#081159; width:110px;" | Date until
+! style="background:#FFFFFF; color:#081159;" | Ref.
+|-
+| 29 July 2021 || FW || {{flagicon|IRL}} || [[Troy Parrott]] || {{flagicon|ENG}} [[Milton Keynes Dons F.C.|Milton Keynes Dons]] || End of season || <ref>{{cite web |title=MK Dons loan for Parrott |url=https://www.tottenhamhotspur.com/news/2021/july/mk-dons-loan-for-parrott/ |work=Tottenham Hotspur F.C. |date=29 July 2021 |access-date=29 July 2021}}</ref>
+|-
+|2 August 2021
+|FW
+|{{flagicon|ENG}}
+|[[Kion Etete]]
+|{{flagicon|ENG}} [[Northampton Town F.C.|Northampton Town]]
+|4 January 2022
+|<ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2021/august/new-contract-and-northampton-loan-for-etete/ |title=New contract and Northampton loan for Etete |work=Tottenham Hotspur F.C. |date=2 August 2021 |accessdate=2 August 2021 }}</ref><ref>{{cite web |title= Etete recalled from Northampton loan |url= https://www.tottenhamhotspur.com/news/2022/january/etete-recalled-from-northampton-loan/ |work=Tottenham Hotspur F.C. |date=4 January 2022 |access-date=10 January 2022}}</ref>
+|-
+|7 August 2021
+|MF
+|{{flagicon|ENG}}
+|[[Jamie Bowden (footballer)|Jamie Bowden]]
+|{{flagicon|ENG}} [[Oldham Athletic A.F.C.|Oldham Athletic]]
+|10 January 2022
+|<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/58128361 |title=Oldham Athletic sign Jamie Bowden, Ousseynou Cisse, Danny Rogers & Jacob Blyth |work=BBC Sport |date=7 August 2021 |accessdate=7 August 2021 }}</ref><ref>{{cite web |title= Bowden recalled from Oldham |url= https://www.tottenhamhotspur.com/news/2022/january/bowden-recalled-from-oldham/ |work=Tottenham Hotspur F.C. |date=10 January 2022 |access-date=10 January 2022}}</ref>
+|-
+|12 August 2021
+|GK
+|{{flagicon|ENG}}
+|[[Alfie Whiteman]]
+|{{flagicon|SWE}} [[Degerfors IF|Degerfors]]
+|December 2021
+|<ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2021/august/whiteman-loaned-to-degerfors-if/ |title=Whiteman loaned to Degerfors IF |work=Tottenham Hotspur F.C. |date=12 August 2021 |accessdate=12 August 2021}}</ref>
+|-
+| 27 August 2021 || MF || {{flagicon|SEN}} || [[Pape Matar Sarr]] || {{flagicon|FRA}} [[FC Metz|Metz]] || End of season || <ref name="PapeMatarSarr"/>
+|-
+|31 August 2021
+|MF
+|{{flagicon|ENG}}
+|[[J'Neil Bennett]]
+|{{flagicon|ENG}} [[Crewe Alexandra F.C.|Crewe Alexandra]]
+|January 2022
+|<ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2021/august/crewe-loan-for-bennett/ |title=Crewe loan for Bennett |work=Tottenham Hotspur F.C. |date=31 August 2021 |accessdate=31 August 2021 }}</ref>
+|-
+|31 August 2021
+|DF
+|{{flagicon|USA}}
+|[[Cameron Carter-Vickers]]
+|{{flagicon|SCO}} [[Celtic F.C.|Celtic]]
+|End of season
+|<ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2021/august/celtic-loan-for-carter-vickers/ | title=Celtic loan for Carter-Vickers |work=Tottenham Hotspur F.C. |date=31 August 2021 |accessdate=31 August 2021 }}</ref>
+|-
+| 17 January 2022 || FW || {{flagicon|ENG}} || [[Kion Etete]] || {{flagicon|ENG}} [[Cheltenham Town F.C.|Cheltenham Town]] || End of season || <ref>{{cite web |title=Cheltenham loan for Etete |url=https://www.tottenhamhotspur.com/news/2022/january/cheltenham-loan-for-etete/ |publisher=Tottenham Hotspur |access-date=17 January 2022}}</ref>
+|-
+| 26 January 2022 || RW || {{flagicon|ENG}} || [[Jack Clarke (footballer, born 2000)|Jack Clarke]] || {{fbaicon|ENG}} [[Sunderland A.F.C.|Sunderland]] || End of season || <ref>{{cite web |title=Sunderland loan for Clarke |url=https://www.tottenhamhotspur.com/news/2022/january/sunderland-loan-for-clarke/ |publisher=Tottenham Hotspur FC |access-date=26 January 2022}}</ref>
+|-
+| 27 January 2022 || CM || {{flagicon|ENG}} || [[Nile John]] || {{fbaicon|ENG}} [[Charlton Athletic F.C.|Charlton Athletic]] || April 2022 || <ref>{{cite web |title=Charlton Athletic sign top Tottenham prospect Nile John on loan |date=27 January 2022 |url=https://londonnewsonline.co.uk/charlton-athletic-sign-top-tottenham-prospect-nile-john-on-loan/ |archive-url=https://web.archive.org/web/20220127124726/https://londonnewsonline.co.uk/charlton-athletic-sign-top-tottenham-prospect-nile-john-on-loan/ |url-status=usurped |archive-date=27 January 2022 |publisher=London News Online |access-date=27 January 2022}}</ref>
+|-
+| 31 January 2022 || CM || {{Flagicon|France}} || [[Tanguy Ndombele]] || {{Flagicon|France}} [[Olympique Lyonnais|Lyon]] || End of season || <ref>{{Cite web |title=Lyon loan for Ndombele |url=https://www.tottenhamhotspur.com/news/2022/january/lyon-loan-for-ndombele/ |access-date=2022-01-31 |website=Tottenham Hotspur|language=en}}</ref>
+|-
+| 31 January 2022 || LW || {{flagicon|ESP}} || [[Bryan Gil]] || {{fbaicon|ESP}} [[Valencia CF|Valencia]] || End of season || <ref>{{cite web |title=Bryan loaned to Valencia |url=https://www.tottenhamhotspur.com/news/2022/january/bryan-loaned-to-valencia/ |publisher=Tottenham Hotspur FC |access-date=31 January 2022}}</ref>
+|-
+| 31 January 2022 || CM || {{flagicon|ARG}} || [[Giovani Lo Celso]] || {{fbaicon|ESP}} [[Villarreal CF|Villarreal]] || End of season || <ref>{{cite web |title=Villarreal loan for Lo Celso |url=https://www.tottenhamhotspur.com/news/2022/january/villarreal-loan-for-lo-celso/ |publisher=Tottenham Hotspur FC |access-date=31 January 2022}}</ref>
+|-
+|10 February 2022 || GK ||{{flagicon|ENG}} || [[Alfie Whiteman]] || {{flagicon|SWE}} [[Degerfors IF|Degerfors]] || December 2022 ||<ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2022/february/whiteman-returns-to-degerfors/ |title=Whiteman returns to Degerfors |work=Tottenham Hotspur F.C. |date=10 February 2022 |accessdate=11 February 2022}}</ref>
+|-
+|10 February 2022 || GK ||{{flagicon|POL}} || Kacper Kurylowicz || {{flagicon|ENG}} [[Potters Bar Town F.C.|Potters Bar Town]] || End of season ||<ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2022/february/whiteman-returns-to-degerfors/ |title=Whiteman returns to Degerfors |work=Tottenham Hotspur F.C. |date=10 February 2022 |accessdate=11 February 2022}}</ref>
+|}
+
+=== Transfers in ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#081159; width:120px;" | Date from
+! style="background:#FFFFFF; color:#081159; width:50px;" | Position
+! style="background:#FFFFFF; color:#081159; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#081159; width:200px;" | Name
+! style="background:#FFFFFF; color:#081159; width:200px;" | From
+! style="background:#FFFFFF; color:#081159; width:110px;" | Fee
+! style="background:#FFFFFF; color:#081159;" | Ref.
+|-
+| 26 July 2021 || LW || {{flagicon|ESP}} || [[Bryan Gil]] || {{flagicon|ESP}} [[Sevilla FC|Sevilla]] || £21,600,000<small>+[[Erik Lamela|Lamela]]</small> || <ref name="GilLamela">{{cite web |title=Bryan Gil joins, Lamela to Sevilla |url=https://www.tottenhamhotspur.com/news/2021/july/bryan-gil-joins-lamela-to-sevilla/ |work=Tottenham Hotspur F.C. |date=26 July 2021 |access-date=26 July 2021}}</ref><ref>{{cite web |title=Tottenham transfer news: Spurs fully agree swap deal with Sevilla for winger Bryan Gil with Erik Lamela to join Spanish side |url=https://www.skysports.com/football/news/11675/12364532/tottenham-transfer-news-spurs-fully-agree-swap-deal-with-sevilla-for-winger-bryan-gil-with-erik-lamela-to-join-spanish-side |work=Sky Sports News |date=26 July 2021 |access-date=27 July 2021}}</ref>
+|-
+| 27 August 2021 || DM || {{flagicon|SEN}} || [[Pape Matar Sarr]] || {{flagicon|FRA}} [[FC Metz|Metz]] || Undisclosed || <ref name="PapeMatarSarr">{{cite web |title=Pape Matar Sarr signs from Metz |url=https://www.tottenhamhotspur.com/news/2021/august/pape-matar-sarr-signs-from-metz/ |work=Tottenham Hotspur F.C. |date=27 August 2021 |access-date=27 August 2021}}</ref>
+|-
+| 31 August 2021 || RB || {{flagicon|BRA}} || [[Emerson Royal]] || {{flagicon|ESP}} [[FC Barcelona|Barcelona]] || £25,800,000 || <ref>{{cite web |title=Emerson Royal completes move |url=https://www.tottenhamhotspur.com/news/2021/august/emerson-royal-completes-move/ |work=Tottenham Hotspur F.C. |date=31 August 2021 |access-date=31 August 2021}}</ref><ref>{{cite web |title=Tottenham sign Brazil right-back Emerson Royal from Barcelona for £25.8m and let Serge Aurier leave as a free agent. |url=https://www.bbc.com/sport/football/58402643 |work=BBC Sport |date=31 August 2021 |access-date=1 September 2021}}</ref>
+|-
+| 7 December 2021 || LB || {{flagicon|ENG}} || [[Charlie Sayers]] || {{flagicon|ENG}} [[Southend United F.C.|Southend United]] || Undisclosed  || <ref name="spurs-dec-update">{{cite web |url=https://www.tottenhamhotspur.com/news/2021/december/academy-player-update/ |title=Academy player update |work=Tottenham Hotspur F.C. |date=7 December 2021 | accessdate=8 December 2021 }}</ref>
+|-
+| 31 January 2022 || CM || {{flagicon|URU}} || [[Rodrigo Bentancur]] || {{flagicon|ITA}} [[Juventus FC|Juventus]] || £15,860,000 || <ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2022/january/bentancur-completes-move/ |title=Bentancur completes move |work=Tottenham Hotspur F.C. |date=31 January 2022 | accessdate=31 January 2022 }}</ref><ref>{{cite web |url=https://cartilagefreecaptain.sbnation.com/2022/1/31/22909844/tottenham-hotspur-transfer-news-rumors-rodrigo-bentancur-juventus-purchase-done-deal |title=DONE DEAL: Juventus midfielder Rodrigo Bentancur moves to Tottenham on permanent transfer |work=Tottenham Hotspur F.C. |date=31 January 2022 |access-date=22 May 2022}}</ref>
+|}
+
+=== Transfers out ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#081159; width:125px;" | Date from
+! style="background:#FFFFFF; color:#081159; width:50px;" | Position
+! style="background:#FFFFFF; color:#081159; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#081159; width:200px;" | Name
+! style="background:#FFFFFF; color:#081159; width:200px;" | To
+! style="background:#FFFFFF; color:#081159; width:110px;" | Fee
+! style="background:#FFFFFF; color:#081159;" | Ref.
+|-
+| 11 June 2021 || CB || {{flagicon|ARG}} || [[Juan Foyth]] || {{flagicon|ESP}} [[Villarreal CF|Villarreal]] || Undisclosed || <ref>{{cite web |title=Foyth move made permanent |url=https://www.tottenhamhotspur.com/news/2021/june/foyth-move-made-permanent/ |work=Tottenham Hotspur F.C. |date=11 June 2021 |access-date=12 June 2021}}</ref>
+|-
+| 26 July 2021 || RW || {{flagicon|ARG}} || [[Erik Lamela]] || {{flagicon|ESP}} [[Sevilla FC|Sevilla]] || Part exchange || <ref name="GilLamela" />
+|-
+| 27 July 2021 || DF || {{flagicon|BEL}} || [[Toby Alderweireld]] || {{flagicon|QAT}} [[Al-Duhail SC|Al-Duhail]] || £13,000,000 || <ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2021/july/toby-departs-for-qatar/ |title= Toby departs for Qatar |work=Tottenham Hotspur F.C. | date=27 July 2021 |accessdate=27 July 2021 }}</ref><ref>{{cite web |url=https://www.standard.co.uk/sport/football/toby-alderweireld-tottenham-exit-qatar-b947851.html |title=Toby Alderweireld bids emotional farewell to Tottenham after completing £13m transfer to Qatar |work=Evening Standard |location=London |first= Giuseppe |last=Muro |date=27 July 2021 |accessdate=26 August 2021 }}</ref>
+|-
+| 3 August 2021 || GK || {{flagicon|ENG}} || [[Joe Hart]] || {{flagicon|SCO}} [[Celtic F.C.|Celtic]] || Undisclosed || <ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2021/august/hart-joins-celtic/ |title=Hart joins Celtic |work=Tottenham Hotspur F.C. |date=3 August 2021 |accessdate=3 August 2021 }}</ref>
+|-
+| 5 August 2021 || DF || {{flagicon|ENG}} || [[Jubril Okedina]] || {{flagicon|ENG}} [[Cambridge United F.C.|Cambridge United]] || Undisclosed || <ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2021/august/okedina-seals-cambridge-transfer/ |title= Okedina seals Cambridge transfer |work=Tottenham Hotspur F.C. |date=5 August 2021 |accessdate=5 August 2021 }}</ref>
+|-
+| 11 August 2021 || DF || {{flagicon|ENG}} || [[Dennis Cirkin]] || {{flagicon|ENG}} [[Sunderland A.F.C.|Sunderland]] || Undisclosed || <ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2021/august/cirkin-makes-sunderland-transfer/ |title=Cirkin makes Sunderland transfer |work=Tottenham Hotspur F.C. |date=11 August 2021 |accessdate=11 August 2021 }}</ref>
+|-
+| 17 August 2021 || DF || {{flagicon|ENG}} || [[TJ Eyoma|Timothy Eyoma]] || {{flagicon|ENG}} [[Lincoln City F.C.|Lincoln City]] || Undisclosed || <ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2021/august/lincoln-move-for-eyoma/ |title= Lincoln move for Eyoma |work=Tottenham Hotspur F.C. |date=17 August 2021 |accessdate=17 August 2021 }}</ref>
+|-
+| 27 August 2021 || CM || {{flagicon|FRA}} || [[Moussa Sissoko]] || {{flagicon|ENG}} [[Watford F.C.|Watford]] || £3,000,000 || <ref>{{cite web |title=Moussa Sissoko: Watford sign midfielder from Tottenham for around £3m |url=https://www.bbc.co.uk/sport/football/58362850 |work=BBC Sport |date=27 August 2021 |access-date=27 August 2021}}</ref>
+|-
+| 18 January 2022 || RW || {{flagicon|ENG}} || [[Dilan Markanday]] || {{flagicon|ENG}} [[Blackburn Rovers F.C.|Blackburn Rovers]] || Undisclosed || <ref>{{cite web |title=Markanday joins Blackburn |url=https://www.tottenhamhotspur.com/news/2022/january/markanday-joins-blackburn/ |work=Tottenham Hotspur F.C. |date=18 January 2022 |access-date=18 January 2022}}</ref>
+|-
+| 31 January 2022 || AM || {{flagicon|ENG}} || [[Dele Alli]] || {{flagicon|ENG}} [[Everton F.C.|Everton]] || Free || <ref>{{cite web |title=Dele departs for Everton |url=https://www.tottenhamhotspur.com/news/2022/january/dele-departs-for-everton/ |work=Tottenham Hotspur F.C. |date=31 January 2022 |access-date=1 February 2022}}</ref>
+|}
+
+== Pre-season and friendlies ==
+Tottenham scheduled an away match against [[Leyton Orient F.C.|Leyton Orient]] for the JE3 Foundation Trophy in memory of [[Justin Edinburgh]]. Tottenham then scheduled two friendlies, one away to [[Colchester United F.C.|Colchester United]],<ref>{{cite news |url=https://www.tottenhamhotspur.com/news/2021/july/colchester-united-added-to-pre-season-schedule/ |title=Colchester United added to pre-season schedule |work=Tottenham Hotspur F.C. |date=8 July 2021 |access-date=26 December 2021 }}</ref> and one away to [[Milton Keynes Dons F.C.|Milton Keynes Dons]].<ref>{{cite news |url=https://www.tottenhamhotspur.com/news/2021/june/leyton-orient-and-mk-dons-friendlies-confirmed/ |title=Leyton Orient and MK Dons friendlies confirmed |work=Tottenham Hotspur F.C. |date=28 June 2021 |access-date=28 June 2021 }}</ref> Tottenham announced the club would come together with both [[Arsenal F.C.|Arsenal]] and [[Chelsea F.C.|Chelsea]] to support mental health in The Mind Series in August 2021. They would play away to Chelsea and home to Arsenal.<ref>{{cite news |title=Arsenal, Chelsea and Spurs to compete in The Mind Series |url=https://www.tottenhamhotspur.com/news/2021/june/arsenal-chelsea-and-spurs-to-compete-in-the-mind-series/ |work=Tottenham Hotspur F.C. |date=22 June 2021 |access-date=24 June 2021}}</ref>
+
+{{footballbox collapsible
+| date = 17 July 2021
+| time = 15:00 [[British Summer Time|BST]]
+| round = JE3 Foundation Trophy
+| team1 = [[Leyton Orient F.C.|Leyton Orient]] 
+| score = 1–1
+| report = https://www.tottenhamhotspur.com/news/2021/july/all-square-at-orient-in-first-game-of-pre-season/
+| team2 =  Tottenham Hotspur
+| goals1 =
+*[[Ruel Sotiriou|Sotiriou]] {{goal|72}}
+| goals2 =
+*[[Dane Scarlett|Scarlett]] {{goal|38}}
+| stadium = [[Brisbane Road]]
+| location = [[Leyton]]
+| attendance = 
+| referee = John Busby
+| result = D
+}}
+{{footballbox collapsible
+| date = 21 July 2021
+| time = 19:45 [[British Summer Time|BST]]
+| team1 = [[Colchester United F.C.|Colchester United]] 
+| score = 0–3
+| report = https://www.tottenhamhotspur.com/news/2021/july/colchester-v-spurs-pre-season-friendly-match-report/
+| team2 = Tottenham Hotspur
+| goals1 =
+*[[Brendan Wiredu|Wiredu]] {{yel|58}}
+| goals2 =
+*[[Son Heung-min|Son]] {{goal|11}}
+*[[Lucas Moura]] {{goal|14}}
+*[[Dele Alli|Alli]] {{goal|38}}
+| stadium = [[Colchester Community Stadium|JobServe Community Stadium]]
+| location = [[Colchester]]
+| attendance =
+| referee = Craig Hicks
+| result = W
+}}
+{{footballbox collapsible
+| date = 28 July 2021
+| time = 19:45 [[British Summer Time|BST]]
+| team1 = [[Milton Keynes Dons F.C.|Milton Keynes Dons]] 
+| score = 1–3
+| report = https://www.tottenhamhotspur.com/news/2021/july/dele-marks-homecoming-with-a-goal-in-pre-season-win-at-mk-dons/
+| team2 = Tottenham Hotspur
+| goals1 =
+*[[Matt O'Riley|O'Riley]] {{penmiss}} <small>4'</small>
+*[[John Freeman (footballer)|Freeman]] {{goal|84}}
+| goals2 =
+*[[Son Heung-min|Son]] {{goal|35}}
+*[[Dele Alli|Alli]] {{goal|57}}
+*[[Lucas Moura]] {{goal|81}}
+| referee = John Busby
+| stadium = [[Stadium MK]]
+| location = [[Milton Keynes]]
+| attendance = 15,795
+| result = W
+}}
+{{footballbox collapsible
+| date = 4 August 2021
+| time = 19:45 [[British Summer Time|BST]]
+| round = The Mind Series
+| team1 = [[Chelsea F.C.|Chelsea]] 
+| score = 2–2
+| report = https://www.tottenhamhotspur.com/news/2021/august/chelsea-2-2-spurs-mind-series-match-report/
+| team2 =  Tottenham Hotspur
+| goals1 =
+*[[Hakim Ziyech|Ziyech]] {{goal|16||49}}
+*[[Ethan Ampadu|Ampadu]] {{yel|83}}
+| goals2 =
+*[[Lucas Moura]] {{goal|56}}
+*[[Steven Bergwijn|Bergwijn]] {{goal|70}}
+| referee = [[Keith Stroud]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| location = [[Fulham]]
+| attendance = 25,000<ref>{{cite web |title=Chelsea vs Tottenham Hotspur summary |url=https://www.espn.com/soccer/match/_/gameId/608537 |work=[[ESPN.com]] |date=4 August 2021 |access-date=29 December 2021 }}</ref>
+| result = D
+}}
+{{footballbox collapsible
+| date = 8 August 2021
+| time = 14:00 [[British Summer Time|BST]]
+| round = The Mind Series
+| team1 = Tottenham Hotspur 
+| score = 1–0
+| report = https://www.tottenhamhotspur.com/news/2021/august/spurs-v-arsenal-mind-series-report/
+| team2 =  [[Arsenal F.C.|Arsenal]]
+| goals1 =
+*[[Dele Alli|Alli]] {{yel|33}}
+*[[Oliver Skipp|Skipp]] {{yel|45+1}}
+*[[Sergio Reguilón|Reguilón]] {{yel|74}}
+*[[Son Heung-Min|Son]] {{goal|79}}
+| goals2 =
+*[[Kieran Tierney|Tierney]] {{yel|56}}
+*[[Granit Xhaka|Xhaka]] {{yel|57}}
+| referee = [[David Coote (referee)|David Coote]]
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance = 25,000<ref>{{cite web |title=Tottenham Hotspur vs Arsenal summary |url=https://www.espn.com/soccer/match/_/gameId/608538 |work=[[ESPN.com]] |date=8 August 2021 |access-date=29 December 2021 }}</ref>
+| result = W
+}}
+
+== Competitions ==
+=== Overview ===
+{{Fb overview2
+|c=4
+|c1=[[2021–22 Premier League|Premier League]] |fm1=15 August 2021 |lm1=22 May 2022 |sr1=Matchday 1 |fp1=4th |w1=22 |d1=5 |l1=11 |f1=69 |a1=40
+|c2=[[2021–22 FA Cup|FA Cup]] |fm2=9 January 2022 |lm2=1 March 2022 |sr2=Third round |fp2=Fifth round |w2=2 |d2=0 |l2=1 |f2=6 |a2=3
+|c3=[[2021–22 EFL Cup|EFL Cup]] |fm3=22 September 2021|lm3=12 January 2022 |sr3=Third round |fp3=Semi-finals |w3=2 |d3=1 |l3=2 |f3=5 |a3=6
+|c4=[[2021–22 UEFA Europa Conference League|UEFA Europa Conference League]] |fm4=19 August 2021 |lm4=9 December 2021 |sr4=Play-off round |fp4=Group stage |w4=3 |d4=1 |l4=4 |f4=14 |a4=12
+|s=[https://int.soccerway.com/teams/england/tottenham-hotspur-football-club/675/ Soccerway]
+}}
+
+=== Premier League ===
+{{main|2021–22 Premier League}}
+
+==== League table ====
+{{:2021–22 Premier League|showteam=TOT}}
+
+==== Results summary ====
+{{Fb_rs |hw=13 |hd=1 |hl=5 |hgf=38 |hga=19 |aw=9 |ad=4 |al=6 |agf=31 |aga=21 }}
+{{Fb rs footer |date=August 2021|s=[https://www.premierleague.com/clubs/21/Tottenham-Hotspur/stats?se=418 Premier League]}}
+
+==== Results by matchday ====
+{{#invoke:sports rbr table|table|legendpos=b|header=Matchday
+|label1= Ground
+| res1= H/[[Molineux Stadium|A]]/H/[[Selhurst Park|A]]/H/[[Emirates Stadium|A]]/H/[[St James' Park|A]]/[[London Stadium|A]]/H/[[Goodison Park|A]]/H/H/H/H/H/[[St Mary's Stadium|A]]/[[Vicarage Road|A]]/[[King Power Stadium|A]]/[[Stamford Bridge (stadium)|A]]/H/H/[[City of Manchester Stadium|A]]/[[Turf Moor|A]]/[[Elland Road|A]]/H/[[Old Trafford|A]]/[[Falmer Stadium|A]]/H/H/[[Villa Park|A]]/H/[[Brentford Community Stadium|A]]/H/[[Anfield|A]]/H/H/[[Carrow Road|A]]
+|label2= Result
+| res2= W/W/W/L/L/L/W/W/L/L/D/W/W/W/D/W/D/W/W/L/L/L/W/L/W/W/L/W/W/W/W/L/D/W/D/W/W/W
+|label3= Position
+| res3= 10/5/1/7/7/11/8/5/6/9/9/7/6/5/7/7/5/7/6/5/7/7/8/8/8/7/7/7/5/4/4/4/5/5/5/5/4/4
+
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color1=gold |color_2-4=green1 |color_5-6=blue1 |color_7=yellow1 |color_18–20=red1
+
+|source=<ref>{{cite web |title=2021–22 Tottenham Premier League results and fixtures |url=https://fbref.com/en/squads/361ca564/2021-2022/matchlogs/s11160/schedule/Tottenham-Hotspur-Scores-and-Fixtures-Premier-League |publisher=fbref.com |access-date=1 January 2022 |language=en }}</ref>
+|updated=complete
+|date=May 2021
+}}
+
+==== Matches ====
+The league fixtures were announced on 16 June 2021.<ref>{{cite web |title=Fixtures 21/22 - list in full |url=https://www.tottenhamhotspur.com/news/2021/june/fixtures-2122-list-in-full/ |work=Tottenham Hotspur F.C. |date=16 June 2021 |access-date=16 June 2021}}</ref>
+
+{{Footballbox collapsible
+|round = 1
+|date = 15 August 2021
+|time = 16:30 [[British Summer Time|BST]]
+|team1 = Tottenham Hotspur
+|score = 1–0
+|report = https://www.premierleague.com/match/66350
+|team2 = [[Manchester City F.C.|Manchester City]]
+|goals1 = 
+*[[Son Heung-min|Son]] {{goal|55}}
+*[[Lucas Moura]] {{yel|66}}
+*[[Davinson Sánchez|Sánchez]] {{yel|90+1}}
+|goals2 = 
+*[[Jack Grealish|Grealish]] {{yel|90+1}}
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 58,262
+|result = W
+}}
+{{Footballbox collapsible
+|round = 2
+|date = 22 August 2021
+|time = 14:00 [[British Summer Time|BST]]
+|team1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|score = 0–1
+|report = https://www.premierleague.com/match/66361
+|team2 = Tottenham Hotspur
+|goals1 = 
+*[[Raúl Jiménez|Jiménez]] {{yel|57}}
+|goals2 = 
+*[[Dele Alli|Alli]] {{goal|10|pen.}}
+*[[Japhet Tanganga|Tanganga]] {{yel|38}}
+*[[Oliver Skipp|Skipp]] {{yel|44}}
+*[[Pierre-Emile Højbjerg|Højbjerg]] {{yel|85}}
+*[[Harry Kane|Kane]] {{yel|90+1}}
+|referee = [[Stuart Attwell]]
+|stadium = [[Molineux Stadium]]
+|location = [[Wolverhampton]]
+|attendance = 30,368
+|result = W
+}}
+{{Footballbox collapsible
+|round = 3
+|date = 29 August 2021
+|time = 14:00 [[British Summer Time|BST]]
+|team1 = Tottenham Hotspur
+|score = 1–0
+|report = https://www.premierleague.com/match/66369
+|team2 = [[Watford F.C.|Watford]]
+|goals1 = 
+*[[Son Heung-min|Son]] {{goal|42}}
+*[[Harry Kane|Kane]] {{yel|45+1}}
+*[[Dele Alli|Alli]] {{yel|61}}
+*[[Oliver Skipp|Skipp]] {{yel|85}}
+|goals2 = 
+*[[Peter Etebo|Etebo]] {{yel|29}}
+*[[Moussa Sissoko|Sissoko]] {{yel|54}}
+*[[Emmanuel Dennis|Dennis]] {{yel|90+4}}
+|referee = [[Andre Marriner]]
+|stadium = [[Tottenham Hotspur Stadium]] 
+|location = [[Tottenham]] 
+|attendance = 57,672
+|result = W
+}}
+{{Footballbox collapsible
+|round = 4
+|date = 11 September 2021
+|time = 12:30 [[British Summer Time|BST]] 
+|team1 = [[Crystal Palace F.C.|Crystal Palace]] 
+|team2 = Tottenham Hotspur
+|score = 3–0
+|report = https://www.premierleague.com/match/66375
+|goals1 = 
+*[[Wilfried Zaha|Zaha]] {{yel|53}}, {{goal|76|pen.}}
+*[[Odsonne Édouard|Édouard]] {{goal|84||90+2}}
+*[[Conor Gallagher|Gallagher]] {{yel|89}}
+|goals2 = 
+*[[Japhet Tanganga|Tanganga]] {{sentoff|2|53|58}}
+*[[Lucas Moura]] {{yel|81}}
+|stadium = [[Selhurst Park]] 
+|location = [[Selhurst]] 
+|referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+|attendance = 22,740
+|result = L
+}}
+{{Footballbox collapsible
+|round = 5
+|date = 19 September 2021 
+|time = 16:30 [[British Summer Time|BST]] 
+|team1 = Tottenham Hotspur
+|team2 = [[Chelsea F.C.|Chelsea]] 
+|score = 0–3
+|report = https://www.premierleague.com/match/66389
+|goals1 =
+|goals2 =
+*[[Thiago Silva]] {{goal|49}}
+*[[N'Golo Kanté|Kanté]] {{goal|57}}
+*[[Timo Werner|Werner]] {{yel|80}}
+*[[Antonio Rüdiger|Rüdiger]] {{goal|90+2}}
+|stadium = [[Tottenham Hotspur Stadium]] 
+|referee = [[Paul Tierney (referee)|Paul Tierney]]
+|location = [[Tottenham]] 
+|attendance = 60,059
+|result = L
+}}
+{{Footballbox collapsible
+|round = 6
+|date = 26 September 2021
+|time = 16:30 [[British Summer Time|BST]] 
+|team1 = [[Arsenal F.C.|Arsenal]]
+|team2 = Tottenham Hotspur 
+|score = 3–1
+|report = https://www.premierleague.com/match/66392
+|goals1 = 
+*[[Emile Smith Rowe|Smith Rowe]] {{goal|12}}
+*[[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|27}}
+*[[Bukayo Saka|Saka]] {{goal|34}}
+*[[Martin Ødegaard|Ødegaard]] {{yel|89}}
+*[[Albert Sambi Lokonga|Lokonga]] {{yel|90+1}}
+|goals2 = 
+*[[Oliver Skipp|Skipp]] {{yel|67}}
+*[[Son Heung-min|Son]] {{goal|79}}
+|stadium = [[Emirates Stadium]] 
+|location = [[Holloway, London|Holloway]] 
+|referee = [[Craig Pawson]]
+|attendance = 59,919
+|result = L
+}}
+{{Footballbox collapsible
+|round = 7
+|date = 3 October 2021
+|time = 14:00 [[British Summer Time|BST]]
+|team1 = Tottenham Hotspur
+|score = 2–1
+|report = https://www.premierleague.com/match/66409
+|team2 = [[Aston Villa F.C.|Aston Villa]]
+|goals1 =
+*[[Pierre-Emile Højbjerg|Højbjerg]] {{goal|27}}
+*[[Oliver Skipp|Skipp]] {{yel|36}}
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{yel|68}}
+*[[Matt Targett|Targett]] {{goal|71|o.g.}}
+|goals2 = 
+*[[Jacob Ramsey|J. Ramsey]] {{yel|31}}
+*[[Ollie Watkins|Watkins]] {{goal|67}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 53,076
+|referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+|result = W
+}}
+{{Football box collapsible
+|round = 8
+|date = 17 October 2021
+|time = 16:30 [[British Summer Time|BST]]
+|team1 = [[Newcastle United F.C.|Newcastle United]]
+|score = 2–3
+|report = https://www.premierleague.com/match/66418
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Callum Wilson (footballer, born 1992)|Wilson]] {{goal|2}}
+*[[Sean Longstaff|Longstaff]] {{yel|34}}
+*[[Ciaran Clark|Clark]] {{yel|54}}
+*[[Isaac Hayden|Hayden]] {{yel|68}}
+*[[Jonjo Shelvey|Shelvey]] {{sentoff|2|78|83}}
+*[[Eric Dier|Dier]] {{goal|89|o.g.}}
+*[[Joelinton]] {{yel|90+4}}
+|goals2 =
+*[[Tanguy Ndombele|Ndombele]] {{goal|17}}
+*[[Harry Kane|Kane]] {{goal|22}}
+*[[Son Heung-min|Son]] {{goal|45+3}}
+*[[Emerson Royal|Emerson]] {{yel|64}}
+|stadium = [[St James' Park]]
+|location = [[Newcastle upon Tyne]]
+|attendance = 52,214
+|referee = [[Andre Marriner]]
+|result = W
+}}
+{{football box collapsible
+|round = 9
+| date = 24 October 2021 
+| time = 14:00 [[British Summer Time|BST]]
+| team1 = [[West Ham United F.C.|West Ham United]] 
+| team2 = Tottenham Hotspur 
+| score = 1–0
+| report = https://www.premierleague.com/match/66431
+| goals1 = 
+*[[Tomáš Souček|Souček]] {{yel|21}}
+*[[Angelo Ogbonna|Ogbonna]] {{yel|37}}
+*[[Michail Antonio|Antonio]] {{goal|72}}
+| goals2 =
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{yel|60}}
+| stadium = [[London Stadium]] 
+| location  = [[Stratford, London|Stratford]] 
+| attendance = 59,924
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| result = L
+}}
+{{Football box collapsible
+|round = 10
+|date = 30 October 2021 
+|time = 17:30 [[British Summer Time|BST]]
+|team1 = Tottenham Hotspur
+|score = 0–3
+|report = https://www.premierleague.com/match/66439
+|team2 = [[Manchester United F.C.|Manchester United]]
+|goals1 =
+*[[Ben Davies (footballer, born 1993)|Davies]] {{yel|78}}
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{yel|90+2}}
+|goals2 =
+*[[Luke Shaw|Shaw]] {{yel|19}}
+*[[Harry Maguire|Maguire]] {{yel|22}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|39}}
+*[[Edinson Cavani|Cavani]] {{goal|64}}
+*[[Fred (footballer, born 1993)|Fred]] {{yel|73}}
+*[[Marcus Rashford|Rashford]] {{goal|86}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 60,356
+|referee = [[Stuart Attwell]]
+|result = L
+}}
+{{Football box collapsible
+|round = 11
+|date = 7 November 2021
+|time = 14:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Everton F.C.|Everton]]
+|score = 0–0
+|report = https://www.premierleague.com/match/66447
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Fabian Delph|Delph]] {{yel|26}}
+*[[Richarlison]] {{yel|69}}
+*[[Mason Holgate|Holgate]] {{sentoff|0|90+2}}
+|goals2 =
+*[[Sergio Reguilón|Reguilón]] {{yel|12}}
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{yel|69}}
+*[[Tanguy Ndombele|Ndombele]] {{yel|87}}
+*[[Oliver Skipp|Skipp]] {{yel|90+4}}
+|stadium = [[Goodison Park]]
+|location = [[Walton, Liverpool|Walton]]
+|attendance = 39,059
+|referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+|result = D
+}}
+{{Football box collapsible
+|round = 12
+|date = 21 November 2021
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|team1 = Tottenham Hotspur
+|score = 2–1
+|report = https://www.premierleague.com/match/66459
+|team2 = [[Leeds United F.C.|Leeds United]]
+|goals1 =
+*[[Pierre-Emile Højbjerg|Højbjerg]] {{goal|58}}
+*[[Sergio Reguilón|Reguilón]] {{goal|69}}
+*[[Emerson Royal|Emerson]] {{yel|90+1}}
+|goals2 =
+*[[Joe Gelhardt|Gelhardt]] {{yel|30}}
+*[[Daniel James (footballer)|James]] {{goal|44}}
+*[[Adam Forshaw|Forshaw]] {{yel|65}}
+*[[Liam Cooper|Cooper]] {{yel|67}}
+*[[Kalvin Phillips|Phillips]] {{yel|90+4}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 58,989
+|referee = [[Andre Marriner]]
+|result = W
+}}
+{{Footballbox collapsible
+|round = 13
+|date = 2 December 2021
+|time = 19:30 [[Greenwich Mean Time|GMT]]
+|team1 = Tottenham Hotspur
+|score = 2–0
+|report = https://www.premierleague.com/match/66481
+|team2 = [[Brentford F.C.|Brentford]]
+|goals1 = 
+*[[Sergi Canós|Canós]] {{goal|12|o.g.}}
+*[[Son Heung-min|Son]] {{goal|65}}
+|goals2 = 
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 54,202
+|referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+|result = W
+}}
+{{Footballbox collapsible
+|round = 14
+|date = 5 December 2021
+|time = 14:00 [[Greenwich Mean Time|GMT]]
+|team1 = Tottenham Hotspur
+|score = 3–0
+|report = https://www.premierleague.com/match/66488
+|team2 = [[Norwich City F.C.|Norwich City]]
+|goals1 = 
+*[[Lucas Moura]] {{goal|10}}
+*[[Sergio Reguilón|Reguilón]] {{yel|16}}
+*[[Davinson Sánchez|Sánchez]] {{goal|67}}
+*[[Son Heung-min|Son]] {{goal|77}}
+|goals2 = 
+*[[Teemu Pukki|Pukki]] {{yel|14}}
+*[[Billy Gilmour|Gilmour]] {{yel|34}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 57,088
+|referee = [[Jarred Gillett]]
+|result = W
+}}
+{{Football box collapsible
+|round = 15
+|date = 19 December 2021
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|team1 = Tottenham Hotspur
+|score = 2–2
+|report = https://www.premierleague.com/match/66518
+|team2 = [[Liverpool F.C.|Liverpool]]
+|goals1 =
+*[[Harry Kane|Kane]] {{goal|13}} {{yel|20}}
+*[[Emerson Royal|Emerson]] {{yel|28}}
+*[[Harry Winks|Winks]] {{yel|47}}
+*[[Ben Davies (footballer, born 1993)|Davies]] {{yel|58}}
+*[[Son Heung-min|Son]] {{goal|74}}
+|goals2 =
+*[[Tyler Morton|Morton]] {{yel|23}}
+*[[Diogo Jota|Jota]] {{goal|35}}
+*[[Andrew Robertson|Robertson]] {{goal|69}}, {{sentoff|0|77}}
+*[[Naby Keïta|Keïta]] {{yel|84}}
+*[[Ibrahima Konaté|Konaté]] {{yel|85}}
+*[[Konstantinos Tsimikas|Tsimikas]] {{yel|90+5}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 45,421
+|referee = [[Paul Tierney (referee)|Paul Tierney]]
+|result = D
+}}
+{{Football box collapsible
+|round = 16
+|date = 26 December 2021
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = Tottenham Hotspur
+|score = 3–0
+|report = https://www.premierleague.com/match/66529
+|team2 = [[Crystal Palace F.C.|Crystal Palace]] 
+|goals1 =
+*[[Harry Kane|Kane]] {{goal|32}}
+*[[Lucas Moura]] {{goal|34}}
+*[[Davinson Sánchez|Sánchez]] {{yel|69}}
+*[[Son Heung-min|Son]] {{goal|74}}
+|goals2 =
+*[[Wilfried Zaha|Zaha]] {{sentoff|2|26|37}}
+*[[James Tomkins (footballer)|Tomkins]] {{yel|45+2}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 40,539
+|referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+|result = W
+}}
+{{Football box collapsible
+|round = 17
+|date = 28 December 2021
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Southampton F.C.|Southampton]]
+|score = 1–1
+|report = https://www.premierleague.com/match/66540
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Kyle Walker-Peters|Walker-Peters]] {{yel|13}}
+*[[James Ward-Prowse|Ward-Prowse]] {{goal|25}}
+*[[Mohammed Salisu|Salisu]] {{sentoff|2|27|39}}
+*[[Adam Armstrong (footballer)|Armstrong]] {{yel|51}}
+|goals2 =
+*[[Harry Kane|Kane]] {{goal|41|pen.}}
+*[[Sergio Reguilón|Reguilón]] {{yel|45+1}}
+*[[Harry Winks|Winks]] {{yel|69}}
+|stadium = [[St Mary's Stadium]]
+|location = [[Southampton]]
+|attendance = 31,304
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = D
+}}
+{{Football box collapsible
+|round = 18
+|date = 1 January 2022
+|time = 15:00 [[Greenwich Mean Time|GMT]]
+|team1 = [[Watford F.C.|Watford]]
+|score = 0–1
+|report = https://www.premierleague.com/match/66551
+|team2 = Tottenham Hotspur
+|goals1 =
+|goals2 =
+*[[Oliver Skipp|Skipp]] {{yel|61}}
+*[[Davinson Sánchez|Sánchez]] {{goal|90+6}}
+|stadium = [[Vicarage Road]]
+|location = [[Watford]]
+|attendance = 20,391
+|referee = [[Robert Jones (referee)|Robert Jones]]
+|result = W
+}}
+{{Football box collapsible
+|round = 19
+|date = 19 January 2022
+|time = 19:30 [[Greenwich Mean Time|GMT]]
+|team1 = [[Leicester City F.C.|Leicester City]]
+|score = 2–3
+|report = https://www.premierleague.com/match/66507
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Patson Daka|Daka]] {{goal|24}}
+*[[Hamza Choudhury|Choudhury]] {{yel|55}}
+*[[James Maddison|Maddison]] {{goal|76}}
+|goals2 =
+*[[Harry Kane|Kane]] {{goal|38}}
+*[[Davinson Sánchez|Sánchez]] {{yel|59}}
+*[[Steven Bergwijn|Bergwijn]] {{yel|90+4}}, {{goal|90+5||90+7}}
+|stadium = [[King Power Stadium]]
+|location = [[Leicester]]
+|attendance = 31,986
+|referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+|result = W
+|note = The match was originally scheduled for 16 December 2021, but was postponed due to a [[COVID-19]] outbreak in Leicester City's squad.<ref>{{cite news|url=https://www.skysports.com/football/news/11661/12491584/leicester-vs-tottenham-premier-league-fixture-postponed-following-covid-19-outbreak|title=Leicester vs Tottenham: Premier League fixture postponed following Covid-19 outbreak|date=16 December 2021|access-date=16 December 2021|publisher=Sky Sports}}</ref>
+}}
+{{Football box collapsible
+|round = 20
+|date = 23 January 2022
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 2–0
+|report = https://www.premierleague.com/match/66564
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Thiago Silva]] {{yel|24}}, {{goal|55}}
+*[[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|42}}
+*[[Hakim Ziyech|Ziyech]] {{goal|47}}
+|goals2 =
+*[[Japhet Tanganga|Tanganga]] {{yel|37}}
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[Fulham]]
+|attendance = 40,020
+|referee = [[Paul Tierney (referee)|Paul Tierney]]
+|result = L
+}}
+{{Football box collapsible
+|round = 21
+|date = 9 February 2022
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|team1 = Tottenham Hotspur
+|score = 2–3
+|report = https://www.premierleague.com/match/66581
+|team2 = [[Southampton F.C.|Southampton]]
+|goals1 =
+*[[Jan Bednarek|Bednarek]] {{goal|18|o.g.}}
+*[[Davinson Sánchez|Sánchez]] {{yel|59}}
+*[[Son Heung-min|Son]] {{goal|70}}
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{yel|90+4}}
+|goals2 =
+*[[Armando Broja|Broja]] {{goal|23}}
+*[[Romain Perraud|Perraud]] {{yel|76}}
+*[[Oriol Romeu|Romeu]] {{yel|77}}
+*[[Mohamed Elyounoussi|Elyounoussi]] {{goal|80}}
+*[[Ché Adams|Adams]] {{goal|82}}
+*[[Fraser Forster|Forster]] {{yel|84}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 54,012
+|referee = [[David Coote (referee)|David Coote]]
+|result = L
+}}
+{{Football box collapsible
+|round = 22
+|date = 13 February 2022
+|time = 14:00 [[Greenwich Mean Time|GMT]]
+|team1 = Tottenham Hotspur
+|score = 0–2
+|report = https://www.premierleague.com/match/66590
+|team2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|goals1 = 
+* [[Lucas Moura]] {{yel|68}}
+* [[Dejan Kulusevski|Kulusevski]] {{yel|71}}
+* [[Rodrigo Bentancur|Bentancur]] {{yel|90+4}}
+|goals2 = 
+* [[Raúl Jiménez|Jiménez]] {{goal|7}}
+* [[Leander Dendoncker|Dendoncker]] {{goal|18}}
+* [[Rayan Aït-Nouri|Aït-Nouri]] {{yel|66}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 56,452
+|referee = [[Kevin Friend]]
+|result = L
+}}
+{{Football box collapsible
+|round = 23
+|date = 19 February 2022
+|time = 17:30 [[Greenwich Mean Time|GMT]]
+|team1 = [[Manchester City F.C.|Manchester City]]
+|score = 2–3
+|report = https://www.premierleague.com/match/66598
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[İlkay Gündoğan|Gündoğan]] {{goal|33}}
+*[[Riyad Mahrez|Mahrez]] {{goal|90+2|pen.}}
+|goals2 =
+*[[Dejan Kulusevski|Kulusevski]] {{goal|4}}
+*[[Harry Kane|Kane]] {{goal|59||90+5}}
+*[[Pierre-Emile Højbjerg|Højbjerg]] {{yel|64}}
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{yel|77}}
+*[[Hugo Lloris|Lloris]] {{yel|80}}
+|stadium = [[City of Manchester Stadium|Etihad Stadium]]
+|location = [[Manchester]]
+|attendance = 53,201
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = W
+}}
+{{Football box collapsible
+|round = 24
+|date = 23 February 2022
+|time = 19:30 [[Greenwich Mean Time|GMT]]
+|team1 = [[Burnley F.C.|Burnley]]
+|score = 1–0
+|report = https://www.premierleague.com/match/66465
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Ben Mee|Mee]] {{goal|71}}
+|goals2 =
+|stadium = [[Turf Moor]]
+|location = [[Burnley]]
+|attendance = 19,488
+|referee = [[Peter Bankes]]
+|result = L
+|note = The original match to be played on 28 November 2021 was postponed due to heavy snow.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/59363471 |work=BBC Sport |title=Burnley P - P Tottenham Hotspur |date=28 November 2021 |access-date=28 November 2021 }}</ref>
+}}
+{{Football box collapsible
+|round = 25
+|date = 26 February 2022
+|time = 12:30 [[Greenwich Mean Time|GMT]]
+|team1 = [[Leeds United F.C.|Leeds United]]
+|score = 0–4
+|report = https://www.premierleague.com/match/66608
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Mateusz Klich|Klich]] {{yel|52}}
+*[[Stuart Dallas|Dallas]] {{yel|53}}
+*[[Junior Firpo|Firpo]] {{yel|54}}
+*[[Rodrigo (footballer, born 1991)|Rodrigo]] {{yel|77}}
+|goals2 =
+*[[Matt Doherty (footballer, born 1992)|Doherty]] {{goal|10}}
+*[[Dejan Kulusevski|Kulusevski]] {{goal|15}}
+*[[Harry Kane|Kane]] {{goal|27}}
+*[[Ryan Sessegnon|Sessegnon]] {{yel|48}}
+*[[Son Heung-min|Son]] {{goal|85}}
+*[[Ben Davies (footballer, born 1993)|Davies]] {{yel|89}}
+|stadium = [[Elland Road]]
+|location = [[Leeds]]
+|attendance = 36,599
+|referee = [[Craig Pawson]]
+|result = W
+}}
+{{Football box collapsible
+|round = 26
+|date = 7 March 2022
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = Tottenham Hotspur
+|score = 5–0
+|report = https://www.premierleague.com/match/66619
+|team2 = [[Everton F.C.|Everton]]
+|goals1 =
+*[[Michael Keane (footballer, born 1993)|Keane]] {{goal|14|o.g.}}
+*[[Son Heung-min|Son]] {{goal|17}}, {{yel|24}}
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{yel|30}}
+*[[Harry Kane|Kane]] {{goal|37||56}}
+*[[Sergio Reguilón|Reguilón]] {{goal|46}}
+|goals2 =
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 59,647
+|referee = [[Stuart Attwell]]
+|result = W
+}}
+{{Football box collapsible
+|round = 27
+|date = 12 March 2022
+|time = 17:30 [[Greenwich Mean Time|GMT]]
+|team1 = [[Manchester United F.C.|Manchester United]]
+|score = 3–2
+|report = https://www.premierleague.com/match/66629
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|12||38||81}}
+*[[Fred (footballer, born 1993)|Fred]] {{yel|35}}
+*[[Paul Pogba|Pogba]] {{yel|85}}
+|goals2 =
+*[[Eric Dier|Dier]] {{yel|30}}
+*[[Harry Kane|Kane]] {{goal|35|pen.}}
+*[[Harry Maguire|Maguire]] {{goal|72|o.g.}}
+|stadium = [[Old Trafford]]
+|location = [[Trafford]]
+|attendance = 73,458
+|referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+|result = L
+}}
+{{Football box collapsible
+|round = 28
+|date = 16 March 2022
+|time = 19:30 [[Greenwich Mean Time|GMT]]
+|team1 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|score = 0–2
+|report = https://www.premierleague.com/match/66494
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Neal Maupay|Maupay]] {{yel|7}}
+*[[Joël Veltman|Veltman]] {{yel|45+1}}
+|goals2 =
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{goal|37}}, {{yel|54}}
+*[[Sergio Reguilón|Reguilón]] {{yel|43}}
+*[[Harry Kane|Kane]] {{goal|57}}
+|stadium = [[Falmer Stadium]]
+|location = [[Falmer]]
+|attendance = 31,144
+|referee = [[Robert Jones (referee)|Robert Jones]]
+|result = W
+|note = The match was postponed due to a [[COVID-19]] outbreak in Tottenham's squad.<ref>{{cite news|url=https://www.skysports.com/football/news/11675/12490058/tottenhams-premier-league-match-against-brighton-postponed-after-covid-19-outbreak|title=Tottenham's Premier League match against Brighton postponed after Covid-19 outbreak|date=10 December 2021|access-date=12 December 2021|publisher=Sky Sports}}</ref>
+}}
+{{Football box collapsible
+|round = 29
+|date = 20 March 2022
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|team1 = Tottenham Hotspur
+|score = 3–1
+|report = https://www.premierleague.com/match/66639
+|team2 = [[West Ham United F.C.|West Ham United]]
+|goals1 =
+*[[Kurt Zouma|Zouma]] {{goal|9|o.g.}}
+*[[Son Heung-min|Son]] {{goal|24||88}}
+|goals2 =
+*[[Craig Dawson|Dawson]] {{yel|23}}
+*[[Saïd Benrahma|Benrahma]] {{goal|35}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 58,685
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+|result = W
+}}
+{{Football box collapsible
+|round = 30
+|date = 3 April 2022
+|time = 16:30 [[British Summer Time|BST]]
+|team1 = Tottenham Hotspur
+|score = 5–1
+|report = https://www.premierleague.com/match/66649
+|team2 = [[Newcastle United F.C.|Newcastle United]]
+|goals1 =
+*[[Harry Kane|Kane]] {{yel|26}}
+*[[Ben Davies (footballer, born 1993)|Davies]] {{goal|43}}
+*[[Rodrigo Bentancur|Bentancur]] {{yel|45+3}}
+*[[Matt Doherty (footballer, born 1992)|Doherty]] {{goal|48}}
+*[[Son Heung-min|Son]] {{goal|54}}
+*[[Emerson Royal|Emerson]] {{goal|63}}
+*[[Steven Bergwijn|Bergwijn]] {{goal|83}}
+|goals2 =
+*[[Fabian Schär|Schär]] {{goal|39}}
+*[[Allan Saint-Maximin|Saint-Maximin]] {{yel|45+3}}
+*[[Joelinton]] {{yel|45+3}}
+*[[Dan Burn|Burn]] {{yel|46}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 57,553
+|referee = [[Martin Atkinson]]
+|result = W
+}}
+{{Football box collapsible
+|round = 31
+|date = 9 April 2022
+|time = 17:30 [[British Summer Time|BST]]
+|team1 = [[Aston Villa F.C.|Aston Villa]]
+|score = 0–4
+|report = https://www.premierleague.com/match/66653
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Danny Ings|Ings]] {{yel|21}}
+*[[Ashley Young|Young]] {{yel|82}}
+|goals2 =
+*[[Son Heung-min|Son]] {{goal|3||66||71}}
+*[[Pierre-Emile Højbjerg|Højbjerg]] {{yel|29}}
+*[[Dejan Kulusevski|Kulusevski]] {{goal|50}}
+*[[Emerson Royal|Emerson]] {{yel|74}}
+*[[Harry Kane|Kane]] {{yel|90+1}}
+|stadium = [[Villa Park]]
+|location = [[Birmingham]]
+|attendance = 41,949
+|referee = [[Graham Scott (referee)|Graham Scott]]
+|result = W
+}}
+{{Football box collapsible
+|round = 32
+|date = 16 April 2022
+|time = 12:30 [[British Summer Time|BST]]
+|team1 = Tottenham Hotspur
+|score = 0–1
+|report = https://www.premierleague.com/match/66668
+|team2 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|goals1 =
+*[[Dejan Kulusevski|Kulusevski]] {{yel|27}}
+*[[Rodrigo Bentancur|Bentancur]] {{yel|34}}
+*[[Emerson Royal|Emerson]] {{yel|90+4}}
+|goals2 =
+*[[Enock Mwepu|Mwepu]] {{yel|26}}
+*[[Yves Bissouma|Bissouma]] {{yel|58}}
+*[[Leandro Trossard|Trossard]] {{goal|90}}
+*[[Lewis Dunk|Dunk]] {{yel|90+5}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 58,685
+|referee = [[Craig Pawson]]
+|result = L
+}}
+{{Football box collapsible
+|round = 33
+|date = 23 April 2022
+|time = 17:30 [[British Summer Time|BST]]
+|team1 = [[Brentford F.C.|Brentford]]
+|score = 0–0
+|report = https://www.premierleague.com/match/66673
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Pontus Jansson|Jansson]] {{yel|66}}
+*[[Mads Bech Sørensen|Sørensen]] {{yel|89}}
+|goals2 =
+*[[Rodrigo Bentancur|Bentancur]] {{yel|90}}
+|stadium = [[Brentford Community Stadium]]
+|location = [[Brentford]]
+|attendance = 17,072
+|referee = [[Martin Atkinson]]
+|result = D
+}}
+{{Football box collapsible
+|round = 34
+|date = 1 May 2022
+|time = 14:00 [[British Summer Time|BST]]
+|team1 = Tottenham Hotspur
+|score = 3–1
+|report = https://www.premierleague.com/match/66688
+|team2 = [[Leicester City F.C.|Leicester City]]
+|goals1 =
+*[[Harry Kane|Kane]] {{goal|22}}
+*[[Ben Davies (footballer, born 1993)|Davies]] {{yel|26}}
+*[[Rodrigo Bentancur|Bentancur]] {{yel|58}}
+*[[Son Heung-min|Son]] {{goal|60||79}}
+|goals2 =
+*[[Marc Albrighton|Albrighton]] {{yel|48}}
+*[[Daniel Amartey|Amartey]] {{yel|63}}
+*[[Luke Thomas (footballer, born 2001)|Thomas]] {{yel|66}}
+*[[Kelechi Iheanacho|Iheanacho]] {{goal|90+1}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 59,482
+|referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+|result = W
+}}
+{{Football box collapsible
+|round = 35
+|date = 7 May 2022
+|time = 19:45 [[British Summer Time|BST]]
+|team1 = [[Liverpool F.C.|Liverpool]]
+|score = 1–1
+|report = https://www.premierleague.com/match/66699
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Kostas Tsimikas|Tsimikas]] {{yel|69}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|74}}
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{yel|80}}
+*[[Naby Keïta|Keïta]] {{yel|90+3}}
+|goals2 = 
+*[[Ben Davies (footballer, born 1993)|Davies]] {{yel|54}}
+*[[Son Heung-min|Son]] {{goal|56}}
+*[[Ryan Sessegnon|Sessegnon]] {{yel|70}}
+|stadium = [[Anfield]]
+|location = [[Liverpool]]
+|attendance = 53,177
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = D
+}}
+{{Football box collapsible
+|round = 36
+|date = 12 May 2022
+|time = 19:45 [[British Summer Time|BST]]
+|team1 = Tottenham Hotspur
+|score = 3–0
+|report = https://www.premierleague.com/match/66559
+|team2 = [[Arsenal F.C.|Arsenal]]
+|goals1 =
+*[[Ben Davies (footballer, born 1993)|Davies]] {{yel|17}}
+*[[Harry Kane|Kane]] {{goal|22|pen.|37}}
+*[[Son Heung-min|Son]] {{goal|47}}
+|goals2 =
+*[[Rob Holding|Holding]] {{sentoff|2|26|33}}
+*[[Emile Smith Rowe|Smith Rowe]] {{yel|86}}
+*[[Martin Ødegaard|Ødegaard]] {{yel|88}}
+*[[Granit Xhaka|Xhaka]] {{yel|90+1}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 62,027
+|referee = [[Paul Tierney (referee)|Paul Tierney]]
+|result = W
+|note = The match, originally scheduled for 16 January, was postponed due to an insufficient amount of available players in the Arsenal squad as a result of COVID-19, existing and recent injuries, and players away with their countries at the [[2021 Africa Cup of Nations]].
+}}
+{{Football box collapsible
+|round = 37
+|date = 15 May 2022
+|time = 12:00 [[British Summer Time|BST]]
+|team1 = Tottenham Hotspur
+|score = 1–0
+|report = https://www.premierleague.com/match/66708
+|team2 = [[Burnley F.C.|Burnley]]
+|goals1 =
+*[[Harry Kane|Kane]] {{goal|45+8|pen.}}
+*[[Lucas Moura]] {{yel|49}}
+*[[Hugo Lloris|Lloris]] {{yel|86}}
+*[[Dejan Kulusevski|Kulusevski]] {{yel|90+4}}
+|goals2 =
+*[[Connor Roberts (footballer, born 1995)|Roberts]] {{yel|27}}
+*[[Nick Pope (footballer)|Pope]] {{yel|45+8}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 61,729
+|referee = [[Kevin Friend]]
+|result = W
+}}
+{{Football box collapsible
+|round = 38
+|date = 22 May 2022
+|time = 16:00 [[British Summer Time|BST]]
+|team1 = [[Norwich City F.C.|Norwich City]]
+|score = 0–5
+|report = https://www.premierleague.com/match/66721
+|team2 = Tottenham Hotspur
+|goals1 =
+*[[Sam Byram|Byram]] {{yel|15}}
+*[[Mathias Normann|Normann]] {{yel|31}}
+*[[Tony Springett|Springett]] {{yel|74}}
+|goals2 =
+*[[Dejan Kulusevski|Kulusevski]] {{goal|16||64}}
+*[[Harry Kane|Kane]] {{goal|32}}
+*[[Son Heung-min|Son]] {{goal|70||75}}, {{yel|85}}
+|stadium = [[Carrow Road]]
+|location = [[Norwich]]
+|attendance = 27,022
+|referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+|result = W
+}}
+
+=== FA Cup ===
+{{main|2021–22 FA Cup}}
+
+Tottenham were drawn home to [[Morecambe F.C.|Morecambe]] in the third round<ref>{{cite news |title=Third round Draw |url=https://www.thefa.com/news/2021/dec/06/emirates-fa-cup-third-round-proper-draw-20210612 |date=6 December 2021 |publisher=The Football Association |access-date=9 December 2021}}</ref> and [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] in the fourth round,<ref>{{cite news |title=Fourth round Draw |url=https://www.thefa.com/news/2022/jan/09/emirates-fa-cup-fourth-round-proper-draw-20220901 |date=9 January 2022 |publisher=The Football Association |access-date=9 January 2022}}</ref> and were drawn away to [[Middlesbrough F.C.|Middlesbrough]] in the fifth round.<ref>{{cite news |title=Fifth round Draw |url=https://www.thefa.com/news/2022/feb/06/emirates-fa-cup-fifth-round-proper-draw-20220602 |date=6 February 2022 |publisher=The Football Association |access-date=6 February 2022}}</ref>
+
+{{Football box collapsible
+|date = 9 January 2022
+|time = 14:00 [[Greenwich Mean Time|GMT]]
+|round = [[2021–22 FA Cup#Third round proper|Third round]]
+|team1 = Tottenham Hotspur
+|score = 3–1
+|report = https://www.bbc.co.uk/sport/football/59911421
+|team2 = [[Morecambe F.C.|Morecambe]]
+|goals1 = 
+*[[Harry Winks|Winks]] {{goal|74}}
+*[[Lucas Moura]] {{goal|85}}
+*[[Harry Kane|Kane]] {{goal|88}}
+|goals2 = 
+*[[Anthony O'Connor (footballer)|O'Connor]] {{goal|33}}
+*[[Toumani Diagouraga|Diagouraga]] {{yel|44}}
+*[[Ryan Cooney|Cooney]] {{yel|74}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 40,310
+|referee = [[John Brooks (referee)|John Brooks]]
+|result = W
+}}
+{{Football box collapsible
+|date = 5 February 2022
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|round = [[2021–22 FA Cup#Fourth round proper|Fourth round]]
+|team1 = Tottenham Hotspur
+|score = 3–1
+|report = https://www.bbc.co.uk/sport/football/60266443
+|team2 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|goals1 = 
+*[[Harry Kane|Kane]] {{goal|13||66}}
+*[[Solly March|March]] {{goal|24|o.g.}}
+*[[Rodrigo Bentancur|Bentancur]] {{yel|86}}
+|goals2 = 
+*[[Joël Veltman|Veltman]] {{yel|57}}
+*[[Yves Bissouma|Bissouma]] {{goal|63}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 54,697
+|referee = [[Stuart Attwell]]
+|result = W
+}}
+{{Football box collapsible
+|date = 1 March 2022
+|time = 19:55 [[Greenwich Mean Time|GMT]]
+|round = [[2021–22 FA Cup#Fifth round proper|Fifth round]]
+|team1 = [[Middlesbrough F.C.|Middlesbrough]]
+|score = 1–0
+|aet = yes
+|report = https://www.bbc.co.uk/sport/football/60562796
+|team2 = Tottenham Hotspur
+|goals1 = 
+*[[Paddy McNair|McNair]] {{yel|57}}
+*[[Josh Coburn|Coburn]] {{goal|107}}
+|goals2 = 
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{yel|58}}
+|stadium = [[Riverside Stadium]]
+|location = [[Middlesbrough]]
+|attendance = 31,135
+|referee = [[Darren England]]
+|result = L
+}}
+
+=== EFL Cup ===
+{{main|2021–22 EFL Cup}}
+
+Tottenham entered the competition in the third round as one of the teams competing in [[UEFA competitions]]. They were drawn away to [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in the third round<ref>{{cite web |title=Carabao Cup Round Three draw confirmed |url=https://www.efl.com/news/2021/august/carabao-cup-round-three-draw-confirmed/ |publisher=EFL |access-date=26 August 2021}}</ref><ref>{{cite web |title=Wolves v Spurs - Carabao Cup date and KO time |url=https://www.tottenhamhotspur.com/news/2021/august/wolves-v-spurs-carabao-cup-dateko-time/ |publisher=Tottenham Hotspur F.C. |access-date=29 August 2021}}</ref> and [[Burnley F.C.|Burnley]] in the fourth round.<ref>{{cite web |title=Carabao Cup Round Four draw: confirmed ties |url=https://www.efl.com/news/2021/september/carabao-cup-round-four-draw-confirmed-ties/ |publisher=English Football League |access-date=23 September 2021}}</ref> They were drawn home to [[West Ham United F.C.|West Ham United]] in the quarter-finals.<ref>{{cite web |title=Carabao Cup Quarter-Final draw: confirmed ties |url=https://www.efl.com/news/2021/october/carabao-cup-quarter-final-confirmed-ties/ |publisher=English Football League |date=30 October 2021 |access-date=13 December 2021}}</ref> They were drawn to [[Chelsea F.C.|Chelsea]] in the semi-finals, with the first leg away and the second leg home.<ref>{{cite web |title=Carabao Cup Semi-Final draw |url=https://www.efl.com/news/2021/december/carabao-cup-semi-final-draw/ |publisher=English Football League |date=21 December 2021 |access-date=23 December 2021}}</ref>
+
+{{football box collapsible
+| round = [[2021–22 EFL Cup#Third round|Third round]]
+| date = 22 September 2021
+| time = 19:45 [[British Summer Time|BST]]
+| team1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] 
+| team2 = Tottenham Hotspur
+| score = 2–2
+| penaltyscore = 2–3
+| report = https://www.bbc.co.uk/sport/football/58566908
+| goals1 = 
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{yel|16}}
+*[[Leander Dendoncker|Dendoncker]] {{goal|38}}
+*[[Rúben Neves|Neves]] {{yel|47}}
+*[[Daniel Podence|Podence]] {{goal|58}}
+| penalties1 = 
+*[[Hwang Hee-chan|Hwang]] {{pengoal}}
+*[[João Moutinho|Moutinho]] {{pengoal}}
+*[[Rúben Neves|Neves]] {{penmiss}}
+*[[Leander Dendoncker|Dendoncker]] {{penmiss}}
+*[[Conor Coady|Coady]] {{penmiss}}
+| goals2 = 
+*[[Tanguy Ndombele|Ndombele]] {{goal|14}}, {{yel|83}}
+*[[Harry Kane|Kane]] {{goal|23}}
+| penalties2 = 
+*{{pengoal}} [[Harry Kane|Kane]]
+*{{pengoal}} [[Sergio Reguilón|Reguilón]]
+*{{pengoal}} [[Bryan Gil|Gil]]
+*{{penmiss}} [[Pierre-Emile Højbjerg|Højbjerg]]
+| stadium = [[Molineux Stadium|Molineux]]
+| location  = [[Wolverhampton]] 
+| attendance = 28,798
+| referee = [[Peter Bankes]]
+| result = D
+}}
+{{football box collapsible
+| round = [[2021–22 EFL Cup#Fourth round|Fourth round]]
+| date = 27 October 2021
+| time = 19:45 [[British Summer Time|BST]]
+| team1 = [[Burnley F.C.|Burnley]]
+| team2 = Tottenham Hotspur
+| score = 0–1
+| report = https://www.bbc.co.uk/sport/football/58976542
+| goals1 = 
+*[[Connor Roberts (footballer, born 1995)|Roberts]] {{yel|70}}
+| goals2 = 
+*[[Lucas Moura]] {{goal|68}}
+*[[Son Heung-min|Son]] {{yel|90+4}}
+| stadium = [[Turf Moor]]
+| location  = [[Burnley]]
+| attendance = 14,637
+| referee = [[Peter Bankes]]
+| result = W
+}}
+{{footballbox collapsible
+| round = [[2021–22 EFL Cup#Quarter-finals|Quarter-finals]]
+| date = 22 December 2021
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score = 2–1
+| report = https://www.bbc.co.uk/sport/football/59662106
+| team2 = [[West Ham United F.C.|West Ham United]]
+| goals1 =
+*[[Steven Bergwijn|Bergwijn]] {{goal|29}}
+*[[Lucas Moura]] {{goal|34}}
+| goals2 = 
+*[[Jarrod Bowen|Bowen]] {{goal|32}}, {{yel|37}}
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| attendance = 40,031
+| result = W
+}}
+{{footballbox collapsible
+| round = [[2021–22 EFL Cup#Semi-finals|Semi-finals]]<br>First leg
+| date = 5 January 2022
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| team1 = [[Chelsea F.C.|Chelsea]]
+| score = 2–0
+| report = https://www.bbc.co.uk/sport/football/59814563
+| team2 = Tottenham Hotspur
+| goals1 =
+*[[Kai Havertz|Havertz]] {{goal|5}}
+*[[Ben Davies (footballer, born 1993)|Davies]] {{goal|34|o.g.}}
+*[[Malang Sarr|Sarr]] {{yel|62}}
+| goals2 =
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| location = [[Fulham]]
+| referee = [[Craig Pawson]]
+| attendance = 37,868
+| result = L
+}}
+{{footballbox collapsible
+| round = [[2021–22 EFL Cup#Semi-finals|Semi-finals]]<br>Second leg
+| date = 12 January 2022
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score = 0–1
+| aggregatescore = 0–3
+| report = https://www.bbc.co.uk/sport/football/59876396
+| team2 = [[Chelsea F.C.|Chelsea]]
+| goals1 =
+| goals2 = 
+*[[Antonio Rüdiger|Rüdiger]] {{goal|18}}
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| referee = [[Andre Marriner]]
+| attendance = 45,603
+| result = L
+}}
+
+=== UEFA Europa Conference League ===
+{{main|2021–22 UEFA Europa Conference League}}
+
+==== Play-off round ====
+Tottenham were drawn against [[F.C. Paços de Ferreira|Paços de Ferreira]] in the play-off round, with the first leg away and the second leg home.<ref>{{cite web |title=Europa Conference League play-off round draw completed |url=https://www.tottenhamhotspur.com/news/2021/august/europa-conference-league-play-off-round-draw-details/ |publisher=Tottenham Hotspur FC |access-date=2 August 2021}}</ref><ref>{{cite web |title=Paços de Ferreira in Europa Conference League – dates and kick-off times confirmed |url=https://www.tottenhamhotspur.com/news/2021/august/pa%C3%A7os-de-ferreira-in-europa-conference-league-dates-and-kick-off-times-confirmed/ |publisher=Tottenham Hotspur FC |access-date=13 August 2021}}</ref>
+
+{{Footballbox collapsible
+|round = [[2021–22 UEFA Europa Conference League#Play-off round|First leg]]
+|date = 19 August 2021
+|time = 20:30 [[Central European Summer Time|CEST]]
+|team1 = [[F.C. Paços de Ferreira|Paços de Ferreira]] {{fbaicon|POR}}
+|score = 1–0
+|report = https://www.uefa.com/uefaeuropaconferenceleague/match/2033128/
+|team2 = {{fbaicon|ENG}} Tottenham Hotspur
+|goals1 = 
+*[[Hélder Ferreira (footballer, born 1997)|Ferreira]] {{yel|35}}
+*[[Lucas Silva (footballer, born 1998)|Silva]] {{goal|45}}
+*[[Vitorino Antunes|Antunes]] {{yel|66}}
+*[[Juan Delgado (Chilean footballer)|Delgado]] {{yel|74}}
+|goals2 = 
+*[[Ben Davies (footballer, born 1993)|Davies]] {{yel|31}}
+*[[Bryan Gil|Gil]] {{yel|90}}
+|referee = Maurizio Mariani ([[Italian Football Federation|Italy]])
+|stadium = [[Estádio da Mata Real]]
+|location = [[Paços de Ferreira]], Portugal
+|attendance = 2,284
+|result = L
+}}
+{{Footballbox collapsible
+|round = [[2021–22 UEFA Europa Conference League#Play-off round|Second leg]]
+|date = 26 August 2021
+|time = 19:45 [[British Summer Time|BST]]
+|team1 = Tottenham Hotspur {{fbaicon|ENG}}
+|score = 3–0
+|aggregatescore = 3–1
+|report = https://www.uefa.com/uefaeuropaconferenceleague/match/2033150/
+|team2 = {{fbaicon|POR}} [[F.C. Paços de Ferreira|Paços de Ferreira]]
+|goals1 = 
+*[[Harry Kane|Kane]] {{goal|9||35}}
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{yel|30}}
+*[[Bryan Gil|Gil]] {{yel|63}}
+*[[Giovani Lo Celso|Lo Celso]] {{goal|70}}
+|goals2 = 
+*[[Denílson Pereira Júnior|Denílson]] {{yel|41}}
+*[[Vitorino Antunes|Antunes]] {{yel|50}}
+*[[Rui Pires|Pires]] {{yel|64}}
+|referee = [[Ruddy Buquet]] ([[French Football Federation|France]])
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 30,215
+|result = W
+}}
+
+==== Group stage ====
+{{main|2021–22 UEFA Europa Conference League group stage#Group G}}
+The draw for the group stage was held on 27 August 2021<ref>{{cite web|url=https://www.uefa.com/uefaconferenceleague/draws/2022/2001498/|title=UEFA Europa Conference League group stage draw|website=[[UEFA]] |publisher=Union of European Football Associations|date=27 August 2021}}</ref> with the fixtures being released a day later.<ref>{{cite web |title=UEFA Europa Conference League - dates and KO times |url=https://www.tottenhamhotspur.com/news/2021/august/uefa-europa-conference-league-draw-details/ |publisher=Tottenham Hotspur FC |access-date=29 August 2021}}</ref>
+{{2021–22 UEFA Europa Conference League group tables|Group G|show_matches=yes|showteam=TOT}}
+
+{{Football box collapsible
+|round = 1
+|date = 16 September 2021
+|time = 18:45 [[Central European Summer Time|CEST]]
+|team1 = [[Stade Rennais F.C.|Rennes]] {{fbaicon|FRA}}
+|score = 2–2
+|report = https://www.uefa.com/uefaeuropaconferenceleague/match/2033278/
+|team2 = {{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1 = 
+*[[Flavien Tait|Tait]] {{goal|23}}
+*[[Gaëtan Laborde|Laborde]] {{goal|72}}
+*[[Jonas Martin|Martin]] {{yel|90+4}}
+|goals2 = 
+*[[Loïc Badé|Badé]] {{goal|11|o.g.}}
+*[[Pierre-Emile Højbjerg|Højbjerg]] {{goal|76}}
+*[[Bryan Gil|Gil]] {{yel|82}}
+|stadium = [[Roazhon Park]]
+|location = [[Rennes]], France
+|attendance = 22,000
+|referee = [[Halis Özkahya]] ([[Turkish Football Federation|Turkey]])
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 30 September 2021
+|time = 20:00 [[British Summer Time|BST]]
+|team1 = Tottenham Hotspur {{fbaicon|ENG}}
+|score = 5–1
+|report = https://www.uefa.com/uefaeuropaconferenceleague/match/2033282/
+|team2 = {{fbaicon|SVN}} [[NŠ Mura|Mura]]
+|goals1 = 
+*[[Dele Alli|Alli]] {{goal|4|pen.}}
+*[[Giovani Lo Celso|Lo Celso]] {{goal|8}}
+*[[Oliver Skipp|Skipp]] {{yel|61}}
+*[[Harry Kane|Kane]] {{goal|68||76||88}}
+|goals2 = 
+*[[Matko Obradović|Obradović]] {{yel|3}}
+*[[Žiga Kous|Kous]] {{goal|53}}
+*[[Amadej Maroša|Maroša]] {{yel|74}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 25,121 
+|referee = Yigal Frid ([[Israel Football Association|Israel]])
+|result = W
+}}
+{{Football box collapsible
+|round = 3
+|date = 21 October 2021
+|time = 18:45 [[Central European Summer Time|CEST]]
+|team1 = [[SBV Vitesse|Vitesse]] {{fbaicon|NED}}
+|score = 1–0
+|report = https://www.uefa.com/uefaeuropaconferenceleague/match/2033299/
+|team2 = {{fbaicon|ENG}} Tottenham Hotspur
+|goals1 = 
+*[[Matúš Bero|Bero]] {{yel|13}}
+*[[Maximilian Wittek|Wittek]] {{goal|78}}, {{yel|81}}
+*[[Thomas Buitink|Buitink]] {{yel|90}}
+|goals2 = 
+*[[Steven Bergwijn|Bergwijn]] {{yel|41}}
+*[[Davinson Sánchez|Sánchez]] {{yel|72}}
+*[[Dane Scarlett|Scarlett]] {{yel|74}}
+*[[Harry Winks|Winks]] {{yel|80}}
+|stadium = [[GelreDome]]
+|location = [[Arnhem]], Netherlands
+|attendance = 23,931
+|referee = [[Harm Osmers]] ([[German Football Association|Germany]])
+|result = L
+}}
+{{Football box collapsible
+|round = 4
+|date = 4 November 2021
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = Tottenham Hotspur {{fbaicon|ENG}}
+|score = 3–2
+|report = https://www.uefa.com/uefaeuropaconferenceleague/match/2033327/
+|team2 = {{fbaicon|NED}} [[SBV Vitesse|Vitesse]]
+|goals1 = 
+*[[Son Heung-min|Son]] {{goal|15}}
+*[[Lucas Moura]] {{goal|22}}
+*[[Jacob Rasmussen|Rasmussen]] {{goal|28|o.g.}}
+*[[Cristian Romero (footballer, born 1998)|Romero]] {{sentoff|2|37|59}}
+|goals2 = 
+*[[Jacob Rasmussen|Rasmussen]] {{goal|32}}
+*[[Matúš Bero|Bero]] {{goal|39}}
+*[[Thomas Buitink|Buitink]] {{yel|63}}
+*[[Danilho Doekhi|Doekhi]] {{sentoff|2|76|81}}
+*[[Riechedly Bazoer|Bazoer]] {{yel|80}}
+*[[Markus Schubert|Schubert]] {{sentoff|0|85}}
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 36,312
+|referee = [[Marco Di Bello]] ([[Italian Football Federation|Italy]])
+|result = W
+}}
+{{Football box collapsible
+|round = 5
+|date = 25 November 2021
+|time = 18:45 [[Central European Time|CET]]
+|team1 = [[NŠ Mura|Mura]] {{fbaicon|SVN}}
+|score = 2–1
+|report = https://www.uefa.com/uefaeuropaconferenceleague/match/2033331/
+|team2 = {{fbaicon|ENG}} Tottenham Hotspur
+|goals1 = 
+*[[Tomi Horvat|Horvat]] {{goal|11}}
+*[[Jan Gorenc|Gorenc]] {{yel|22}}
+*[[Nardin Mulahusejnović|Mulahusejnović]] {{yel|27}}
+*[[Alen Kozar|Kozar]] {{yel|35}}
+*[[Marin Karamarko|Karamarko]] {{yel|53}}
+*[[Klemen Šturm|Šturm]] {{yel|65}}
+*[[Nik Lorbek|Lorbek]] {{yel|83}}
+*[[Amadej Maroša|Maroša]] {{yel|89}}, {{goal|90+5}}
+|goals2 = 
+*[[Ryan Sessegnon|Sessegnon]] {{sentoff|2|15|32}}
+*[[Dele Alli|Alli]] {{yel|53}}
+*[[Harry Kane|Kane]] {{goal|72}}
+|stadium = [[Ljudski vrt|Stadion Ljudski vrt]]
+|location = [[Maribor]], Slovenia
+|attendance = 6,100
+|referee = António Nobre ([[Portuguese Football Federation|Portugal]])
+|result = L
+}}
+{{Football box collapsible
+|round = 6
+|date = 9 December 2021
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = Tottenham Hotspur {{fbaicon|ENG}}
+|score = 0–3 ({{Tooltip|awd.|Awarded}})
+|report = https://www.uefa.com/uefaeuropaconferenceleague/match/2033358/
+|team2 = {{fbaicon|FRA}} [[Stade Rennais F.C.|Rennes]]
+|goals1 = 
+|goals2 = 
+|stadium = [[Tottenham Hotspur Stadium]]
+|location = [[Tottenham]]
+|attendance = 
+|referee = Horațiu Feșnic ([[Romanian Football Federation|Romania]])
+|result = L
+|note = The match was voided due to a [[COVID-19]] outbreak in Tottenham's squad.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/59576387|title=Tottenham's Europa Conference League match off after 13 positive Covid-19 tests |work=BBC Sport|date=9 December 2021 |access-date=9 December 2021}}</ref> On 20 December 2021, UEFA awarded a 3–0 win to Rennes.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/59725177 |title=Tottenham out of Europa Conference League after Uefa rules they forfeited final match |work=BBC Sport |date=20 December 2021 |accessdate=23 December 2021}}</ref>
+}}
+
+== Statistics ==
+=== Appearances ===
+{{Fb rs footer|s=[https://www.premierleague.com/clubs/21/club/squad premierleague.com], [https://www.uefa.com/uefaconferenceleague/clubs/1652--tottenham/squad/ uefa.com]|date=February 2022}}
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! rowspan="2" style="vertical-align:bottom;" | {{Abbr| No. | Squad Number }}	
+! rowspan="2" style="vertical-align:bottom;" | {{Abbr| Pos | Position }}
+! rowspan="2" style="vertical-align:bottom;" | Name
+! colspan="2" style="width:85px;" | Premier League
+! colspan="2" style="width:85px;" | FA Cup
+! colspan="2" style="width:85px;" | EFL Cup
+! colspan="2" style="width:85px;" | Europa Conference League
+! colspan="2" style="width:85px;" | Total
+|-
+! Apps
+! Goals
+! Apps
+! Goals
+! Apps
+! Goals
+! Apps
+! Goals
+! Apps
+! Goals
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Goalkeepers''
+|-
+| 1
+| GK
+| align="left" | {{flagicon|FRA}} [[Hugo Lloris]]
+|| 38 || 0 || 2 || 0 || 2 || 0 || 1 || 0 || 43 || 0
+|-
+| 22
+| GK
+| align="left" | {{flagicon|ITA}} [[Pierluigi Gollini]]
+|| 0 || 0 || 1 || 0 || 3 || 0 || 6 || 0 || 10 || 0
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Defenders''
+|-
+| 2
+| DF
+| align="left" | {{flagicon|IRE}} [[Matt Doherty (footballer, born 1992)|Matt Doherty]]
+|| 9+6 || 2 || 2+1 || 0 || 3 || 0 || 5 || 0 || 19+7 || 2
+|-
+| 3
+| DF
+| align="left" | {{flagicon|ESP}} [[Sergio Reguilón]]
+|| 22+3 || 2 || 1+1 || 0 || 1+1 || 0 || 2 || 0 || 26+5 || 2
+|-
+| 4
+| DF
+| align="left" | {{flagicon|ARG}} [[Cristian Romero (footballer, born 1998)|Cristian Romero]]
+|| 21+1 || 1 || 2 || 0 || 2 || 0 || 4 || 0 || 29+1 || 1
+|-
+| 6
+| DF
+| align="left" | {{flagicon|COL}} [[Davinson Sánchez]]
+|| 17+6 || 2 || 1 || 0 || 5 || 0 || 2+1 || 0 || 25+7 || 2
+|-
+| 12
+| DF
+| align="left" | {{flagicon|BRA}} [[Emerson Royal]]
+|| 26+5 || 1 || 1+2 || 0 || 3+1 || 0 || 1+2 || 0 || 31+10 || 1
+|-
+| 14
+| DF
+| align="left" | {{flagicon|WAL}} [[Joe Rodon]]
+|| 0+3 || 0 || 1+1 || 0 || 0+1 || 0 || 4 || 0 || 5+5 || 0
+|-
+| 15
+| DF
+| align="left" | {{flagicon|ENG}} [[Eric Dier]]
+|| 35 || 0 || 1 || 0 || 1 || 0 || 2+1 || 0 || 39+1 || 0
+|-
+| 19
+| DF
+| align="left" | {{flagicon|ENG}} [[Ryan Sessegnon]]
+|| 13+2 || 0 || 2 || 0 || 0+1 || 0 || 3 || 0 || 18+3 || 0
+|-
+| 25
+| DF
+| align="left" | {{flagicon|ENG}} [[Japhet Tanganga]]
+|| 10+1 || 0 || 1 || 0 || 3+1 || 0 || 3 || 0 || 17+2 || 0
+|-
+| 33
+| DF
+| align="left" | {{flagicon|WAL}} [[Ben Davies (footballer, born 1993)|Ben Davies]]
+|| 28+1 || 1 || 3 || 0 || 5 || 0 || 5+1 || 0 || 41+2 || 1
+|-
+| 38
+| DF
+| align="left" | {{flagicon|USA}} [[Cameron Carter-Vickers]]
+|| 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 1 || 0
+|-
+| 48
+| DF
+| align="left" | {{flagicon|EST}} [[Maksim Paskotši]]
+|| 0 || 0 || 0 || 0 || 0 || 0 || 0+1 || 0 || 0+1 || 0
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Midfielders''
+|-
+| 5
+| MF
+| align="left" | {{flagicon|DEN}} [[Pierre-Emile Højbjerg]]
+|| 36 || 2 || 2 || 0 || 4+1 || 0 || 1+4 || 1 || 43+5 || 3
+|-
+| 8
+| MF
+| align="left" | {{flagicon|ENG}} [[Harry Winks]]
+|| 9+10 || 0 || 3 || 1 || 1+2 || 0 || 4+1 || 0 || 17+13 || 1
+|-
+| 18
+| MF
+| align="left" | {{flagicon|ARG}} [[Giovani Lo Celso]]
+|| 2+7 || 0 || 1 || 0 || 3+1 || 0 || 4+1 || 2 || 10+9 || 2
+|-
+| 28
+| MF
+| align="left" | {{flagicon|FRA}} [[Tanguy Ndombele]]
+|| 6+3 || 1 || 1 || 0 || 1+2 || 1 || 2+1 || 0 || 10+6 || 2
+|-
+| 29
+| MF
+| align="left" | {{flagicon|ENG}} [[Oliver Skipp]]
+|| 14+4 || 0 || 0+1 || 0 || 4+1 || 0 || 4 || 0 || 22+6 || 0
+|-
+| 30
+| MF
+| align="left" | {{flagicon|URU}} [[Rodrigo Bentancur]]
+|| 16+1 || 0 || 0+1 || 0 || 0 || 0 || 0 || 0 || 16+2 || 0
+|-
+| 43
+| MF
+| align="left" | {{flagicon|ENG}} [[Nile John]]
+|| 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 1 || 0
+|-
+| 56
+| MF
+| align="left" | {{flagicon|ENG}} [[J'Neil Bennett]]
+|| 0 || 0 || 0 || 0 || 0 || 0 || 0+1 || 0 || 0+1 || 0
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Forwards''
+|-
+| 7
+| FW
+| align="left" | {{flagicon|KOR}} [[Son Heung-min|Son Heung-Min]]
+|| 35 || 23 || 2 || 0 || 1+3 || 0 || 1+3 || 1 || 38+6 || 24
+|-
+| 10
+| FW
+| align="left" | {{flagicon|ENG}} [[Harry Kane]]
+|| 36+1 || 17 || 2+1 || 3 || 5 || 1 || 4+1 || 6 || 47+3 || 27
+|-
+| 11
+| FW
+| align="left" | {{flagicon|ESP}} [[Bryan Gil]]
+|| 0+9 || 0 || 1 || 0 || 2+2 || 0 || 6 || 0 || 9+11 || 0
+|-
+| 21
+| FW
+| align="left" | {{flagicon|SWE}} [[Dejan Kulusevski]]
+|| 14+4 || 5 || 1+1 || 0 || 0 || 0 || 0 || 0 || 15+5 || 5
+|-
+| 23
+| FW
+| align="left" | {{flagicon|NED}} [[Steven Bergwijn]]
+|| 4+21 || 3 || 0+2 || 0 || 2 || 1 || 2+1 || 0 || 8+24 || 4
+|-
+| 27
+| FW
+| align="left" | {{flagicon|BRA}} [[Lucas Moura]]
+|| 19+14 || 2 || 1+1 || 1 || 3+1 || 2 || 3+2 || 1 || 26+18 || 6
+|-
+| 44
+| FW
+| align="left" | {{flagicon|ENG}} [[Dane Scarlett]]
+|| 0+1 || 0 || 0+2 || 0 || 0 || 0 || 3+1 || 0 || 3+4 || 0
+|-
+| 47
+| FW
+| align="left" | {{flagicon|ENG}} [[Jack Clarke (footballer, born 2000)|Jack Clarke]]
+|| 0 || 0 || 0 || 0 || 0 || 0 || 0+1 || 0 || 0+1 || 0
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Players transferred out during the season''
+|-
+| 20
+| MF
+| align="left" | {{flagicon|ENG}} [[Dele Alli]]
+|| 8+2 || 1 || 1 || 0 || 1+1 || 0 || 3+2 || 1 || 13+5 || 2
+|-
+| 54
+| MF
+| align="left" | {{flagicon|ENG}} [[Dilan Markanday]]
+|| 0 || 0 || 0 || 0 || 0 || 0 || 0+1 || 0 || 0+1 || 0
+|-
+|}
+
+=== Goalscorers ===
+<!-- Table is for goals scored by Tottenham Hotspur players and NOT OWN GOALS -->
+''The list is sorted by shirt number when total goals are equal.''
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! width=10 | {{Abbr| Rnk | Ranking }}
+! width=10 | {{Abbr| Pos | Position }}
+! width=10 | {{Abbr| No. | Squad Number }}
+! width=180 | Player
+! width=50 | Premier League
+! width=50 | FA Cup
+! width=50 | EFL Cup
+! width=50 | Europa Conference League
+! width=50 | Total
+
+|-
+| rowspan="1" |1
+|| FW || 10 || align=left | {{flagicon|ENG}} [[Harry Kane]] || 17 || 3 || 1 || 6 ||'''27'''
+|-
+| rowspan="1" |2
+|| FW || 7 || align=left | {{flagicon|KOR}} [[Son Heung-min|Son Heung-Min]] || 23 || 0 || 0 || 1 ||'''24'''
+|-
+| rowspan="1" |3
+|| FW || 27 || align=left | {{flagicon|BRA}} [[Lucas Moura]] || 2 || 1 || 2 || 1 ||'''6'''
+|-
+| rowspan="1" |4
+|| FW || 21 || align=left | {{flagicon|SWE}} [[Dejan Kulusevski]] || 5 || 0 || 0 || 0 ||'''5'''
+|-
+| rowspan="1" |5
+|| FW || 23 || align=left | {{flagicon|NED}} [[Steven Bergwijn]] || 3 || 0 || 1 || 0 ||'''4'''
+|-
+| rowspan="1" |6
+|| MF || 5 || align=left | {{flagicon|DEN}} [[Pierre-Emile Højbjerg]] || 2 || 0 || 0 || 1 ||'''3'''
+|-
+| rowspan="6" |7
+|| DF || 2 || align=left | {{flagicon|IRE}} [[Matt Doherty (footballer, born 1992)|Matt Doherty]] || 2 || 0 || 0 || 0 ||'''2'''
+|-
+|| DF || 3 || align=left | {{flagicon|ESP}} [[Sergio Reguilón]] || 2 || 0 || 0 || 0 ||'''2'''
+|-
+|| DF || 6 || align="left" | {{flagicon|COL}} [[Davinson Sánchez]]|| 2 || 0 || 0 || 0 ||'''2'''
+|-
+|| MF || 18 || align="left" | {{flagicon|ARG}} [[Giovani Lo Celso]] || 0 || 0 || 0 || 2 ||'''2'''
+|-
+|| MF || 20 || align=left | {{flagicon|ENG}} [[Dele Alli]] || 1 || 0 || 0 || 1 ||'''2'''
+|-
+|| MF || 28 || align=left | {{flagicon|FRA}} [[Tanguy Ndombele]] || 1 || 0 || 1 || 0 ||'''2'''
+|-
+| rowspan="4" |13
+|| DF || 4 || align=left | {{flagicon|ARG}} [[Cristian Romero (footballer, born 1998)|Cristian Romero]] || 1 || 0 || 0 || 0 ||'''1'''
+|-
+|| MF || 8 || align=left | {{flagicon|ENG}} [[Harry Winks]] || 0 || 1 || 0 || 0 ||'''1'''
+|-
+|| DF || 12 || align=left | {{flagicon|BRA}} [[Emerson Royal]] || 1 || 0 || 0 || 0 ||'''1'''
+|-
+|| DF || 33 || align=left | {{flagicon|WAL}} [[Ben Davies (footballer, born 1993)|Ben Davies]] || 1 || 0 || 0 || 0 ||'''1'''
+|-
+! colspan="4" | Total
+!63
+!5
+!5
+!12
+!85
+|}
+{{Fb rs footer|s=[https://www.premierleague.com/stats/top/players/goals?se=363&cl=21 premierleague.com]|date=February 2022}}
+
+==== Hat-tricks ====
+{| class="wikitable"
+!Score
+| colspan="3" |The score is at the time of the goals. Tottenham's score is listed first.
+|-
+!(H)
+|Tottenham was the [[Home (sports)|home team]].
+!(A)
+|Tottenham was the [[Road (sports)|away team]].
+|}
+{|class="wikitable sortable"
+|-
+! Player !! Against !! Competition !! Minutes !! style="text-align:center"| Score after goals !! style="text-align:center"| Result !! Date
+|-
+|{{flagicon|ENG}} [[Harry Kane]]
+|{{nowrap|{{flagicon|SVN}} Mura}}
+|Europa Conference League
+|68', 76', 88'
+|'''3'''–1, '''4'''–1, '''5'''–1
+|5–1 (H)
+|30 September 2021
+|-
+|{{flagicon|KOR}} [[Heung-Min Son]]
+|{{nowrap|{{flagicon|ENG}} Aston Villa}}
+|Premier League
+|3', 66', 71'
+|'''1'''–0, '''3'''–0, '''4'''–0
+|4–0 (A)
+|9 April 2022
+|}
+
+==== Own goals ====
+{| class="wikitable"
+!Score
+| colspan="3" |The score is at the time of the own goal. Tottenham's score is listed first.
+|-
+!(H)
+|Tottenham was the [[Home (sports)|home team]].
+!(A)
+|Tottenham was the [[Road (sports)|away team]].
+|}
+{|class="wikitable sortable"
+|-
+! Player !! Against !! Competition !! Minute !! style="text-align:center"| Score after own goal !! style="text-align:center"| Result !! Date
+|-
+|{{flagicon|ENG}} [[Eric Dier]]
+|{{nowrap|{{flagicon|ENG}} Newcastle United}}
+|Premier League
+|style="text-align:center"| 89'
+|3–'''2'''
+|3–2 (A)
+|17 October 2021
+|-
+|{{flagicon|WAL}} [[Ben Davies (footballer, born 1993)|Ben Davies]]
+|{{nowrap|{{flagicon|ENG}} Chelsea}}
+|EFL Cup
+|style="text-align:center"| 34'
+|0–'''2'''
+|0–2 (A)
+|5 January 2022
+|}
+
+{{notelist}}
+
+=== Disciplinary ===
+''The list is sorted by shirt number when total cards are equal.''
+{| class="wikitable sortable" style="text-align:center"
+|-
+! rowspan="2" style="vertical-align:bottom;" | {{Abbr| Rnk | Ranking }}
+! rowspan="2" style="vertical-align:bottom;" | {{Abbr| Pos | Position }}
+! rowspan="2" style="vertical-align:bottom;" | {{Abbr| No. | Squad Number }}
+! rowspan="2" style="vertical-align:bottom;" | Name
+! colspan="3" style="width:85px;" | Premier League
+! colspan="3" style="width:85px;" | FA Cup
+! colspan="3" style="width:85px;" | EFL Cup
+! colspan="3" style="width:85px;" | Europa Conference League
+! colspan="3" style="width:85px;" | Total
+|-
+!{{Fb yellow card}}
+!{{Fb second yellow card}}
+!{{Fb red card}}
+!{{Fb yellow card}}
+!{{Fb second yellow card}}
+!{{Fb red card}}
+!{{Fb yellow card}}
+!{{Fb second yellow card}}
+!{{Fb red card}}
+!{{Fb yellow card}}
+!{{Fb second yellow card}}
+!{{Fb red card}}
+!{{Fb yellow card}}
+!{{Fb second yellow card}}
+!{{Fb red card}}
+|- 
+|1||DF||4||align=left | {{flagicon|ARG}} [[Cristian Romero (footballer, born 1998)|Cristian Romero]]
+|8||0||0||1||0||0||0||0||0||1||1||0||10||1||0
+|- 
+| rowspan="2" | 2
+||MF||29||align=left | {{flagicon|ENG}} [[Oliver Skipp]]
+|6||0||0||0||0||0||0||0||0||1||0||0||7||0||0
+|- 
+|DF||33||align=left | {{flagicon|WAL}} [[Ben Davies (footballer, born 1993)|Ben Davies]]
+|6||0||0||0||0||0||0||0||0||1||0||0||7||0||0
+|- 
+|4||MF||30||align=left | {{flagicon|URU}} [[Rodrigo Bentancur]]
+|5||0||0||1||0||0||0||0||0||0||0||0||6||0||0
+|-
+| rowspan="4" | 5
+||DF||6||align=left | {{flagicon|COL}} [[Davinson Sánchez]]
+|4||0||0||0||0||0||0||0||0||1||0||0||5||0||0
+|-
+|FW||10||align=left | {{flagicon|ENG}} [[Harry Kane]]
+|5||0||0||0||0||0||0||0||0||0||0||0||5||0||0
+|-
+|DF||12||align=left | {{flagicon|BRA}} [[Emerson Royal]]
+|5||0||0||0||0||0||0||0||0||0||0||0||5||0||0
+|-
+|DF||19||align=left | {{flagicon|ENG}} [[Ryan Sessegnon]]
+|2||0||0||0||0||0||0||0||0||1||1||0||3||1||0
+|-
+| rowspan="3" | 9
+|DF||3||align=left | {{flagicon|ESP}} [[Sergio Reguilón]]
+|4||0||0||0||0||0||0||0||0||0||0||0||4||0||0
+|-
+|DF||25||align=left | {{flagicon|ENG}} [[Japhet Tanganga]]
+|2||1||0||0||0||0||0||0||0||0||0||0||2||1||0
+|-
+|FW||27||align=left | {{flagicon|BRA}} [[Lucas Moura]]
+|4||0||0||0||0||0||0||0||0||0||0||0||4||0||0
+|-
+| rowspan="5" | 12
+|MF||5||align=left | {{flagicon|DEN}} [[Pierre-Emile Højbjerg]]
+|3||0||0||0||0||0||0||0||0||0||0||0||3||0||0
+|-
+|FW||7||align=left | {{flagicon|KOR}} [[Son Heung-Min]]
+|2||0||0||0||0||0||1||0||0||0||0||0||3||0||0
+|-
+|MF||8||align=left | {{flagicon|ENG}} [[Harry Winks]]
+|2||0||0||0||0||0||0||0||0||1||0||0||3||0||0
+|-
+|FW||11||align=left | {{flagicon|ESP}} [[Bryan Gil]]
+|0||0||0||0||0||0||0||0||0||3||0||0||3||0||0
+|-
+|FW||21||align=left | {{flagicon|SWE}} [[Dejan Kulusevski]]
+|3||0||0||0||0||0||0||0||0||0||0||0||3||0||0
+|-
+| rowspan="4" | 17
+|GK||1||align=left | {{flagicon|FRA}} [[Hugo Lloris]]
+|2||0||0||0||0||0||0||0||0||0||0||0||2||0||0
+|-
+|MF||20||align=left | {{flagicon|ENG}} [[Dele Alli]]
+|1||0||0||0||0||0||0||0||0||1||0||0||2||0||0
+|-
+|FW||23||align=left | {{flagicon|NED}} [[Steven Bergwijn]]
+|1||0||0||0||0||0||0||0||0||1||0||0||2||0||0
+|-
+|MF||28||align=left | {{flagicon|FRA}} [[Tanguy Ndombele]]
+|1||0||0||0||0||0||1||0||0||0||0||0||2||0||0
+|-
+| rowspan="2" | 21
+|DF||15||align=left | {{flagicon|ENG}} [[Eric Dier]]
+|1||0||0||0||0||0||0||0||0||0||0||0||1||0||0
+|-
+|FW||44||align=left | {{flagicon|ENG}} [[Dane Scarlett]]
+|0||0||0||0||0||0||0||0||0||1||0||0||1||0||0
+|-
+! colspan="4" | Total
+!67
+!1
+!0
+!2
+!0
+!0
+!2
+!0
+!0
+!12
+!2
+!0
+!82
+!3
+!0
+|}
+
+=== Clean sheets ===
+''The list is sorted by shirt number when total clean sheets are equal.''
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!width=10|{{Abbr| Rnk | Ranking}}
+!width=10|{{Abbr| No. | Squad Number}}
+!width=200|Player
+!width=50|Premier League
+!width=50|FA Cup
+!width=50|EFL Cup
+!width=50|Europa Conference League
+!Total
+|-
+|1
+|| 1 || align="left" |{{flagicon|FRA}} [[Hugo Lloris]] || 16 || 0 || 0 || 0 || '''16'''
+|-
+|2
+|| 22 || align="left" |{{Flagicon|ITA}} [[Pierluigi Gollini]] || 0 || 0 || 1 || 1 || '''2'''
+|-
+! colspan="3" | Total
+!16
+!0
+!1
+!1
+!18
+|}
+{{Fb rs footer|s=[https://www.premierleague.com/stats/top/players/clean_sheet premierleague.com]|date=September 2019}}
+
+== See also ==
+* [[2021–22 in English football]]
+* [[List of Tottenham Hotspur F.C. seasons]]
+
+== References ==
+{{Reflist}}
+
+{{Tottenham Hotspur F.C. seasons}}
+{{2021–22 in English men's football}}
+
+{{DEFAULTSORT:2021-22 Tottenham Hotspur F.C. Season}}
+[[Category:Tottenham Hotspur F.C. seasons]]
+[[Category:2021–22 Premier League by team|Tottenham Hotspur]]
+[[Category:2021–22 UEFA Europa Conference League participants seasons|Tottenham Hotspur]]
+[[Category:2021 in sport in London|Tottenham Hotspur]]
+[[Category:2022 in sport in London|Tottenham Hotspur]]

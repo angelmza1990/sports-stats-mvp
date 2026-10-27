@@ -1,0 +1,676 @@
+{{Info/futebol/clássico
+<!-- Identificação -->
+ |Superclássico Mineiro
+ |subtítulo = Atlético Mineiro vs Cruzeiro
+ |imagem = GeraldoII.jpg
+ |imagem_tamanho = 300px
+ |imagem_legenda = <small>Superclássico Mineiro no [[Estádio Presidente Antônio Carlos]]</small>
+|}
+<!-- Primeira partida -->
+ |partida1 = '''[[Cruzeiro Esporte Clube|Palestra Itália]]''' 3–0 [[Clube Atlético Mineiro|Atlético Mineiro]]
+ |partida1_compet = Jogo amistoso
+ |partida1_local = Prado Mineiro
+ |partida1_cidade = [[Belo Horizonte]]
+ |partida1_data = [[17 de abril]] de [[1921]]
+<!-- Última partida -->
+ |última = '''[[Clube Atlético Mineiro|Atlético Mineiro]]''' 2–1 [[Cruzeiro Esporte Clube|Cruzeiro]]
+ |última_compet = [[Copa do Brasil de Futebol de 2026|Copa do Brasil de 2026]] 
+ |última_local = [[Arena MRV]]
+ |última_cidade = [[Belo Horizonte]]
+ |última_data = [[01 de setembro]] de [[2026]]
+ |última_público =42.992 
+}}
+{| class="infobox"
+|{{EquipamentoFutebol
+ |pattern_la = _black stripes
+ |pattern_b  = _blackstripes
+ |pattern_ra = _black stripes
+ |pattern_sh = _negro
+ |pattern_so = 
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |título     = Atlético Mineiro
+}}
+|{{EquipamentoFutebol
+ |pattern_la = 
+ |pattern_b  = 
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = 
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |título     = Cruzeiro
+}}
+|}
+O '''Clássico Mineiro''', também chamado de '''Superclássico Mineiro''',<ref>[https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/ceo-do-atletico-e-direto-sobre-possivel-classico-com-cruzeiro-na-copa-do-brasil/ ''«CEO do Atlético é direto sobre possível clássico com Cruzeiro na Copa do Brasil»''] ''Itatiaia. 10 de agosto de 2026. Consultado em 10 de agosto de 2026''</ref> '''Derby Mineiro'''<ref>{{Citar web|url=https://books.google.com/books?id=vVSanqz-W_4C&pg=PA60|título=O Derby Mineiro|data=1981-10-23|acessodata=2023-12-29|website=Placar (Editora Abril)|página=58|via=[[Google Books]]|wayb=20250821130112}}</ref> ou '''Galo contra Raposa''',<ref>{{Citar web|data=10-11-1986|título=Galo x Raposa |url=https://books.google.com.br/books?id=trTODwky4osC&printsec=frontcover&hl=pt-BR |publicação=[[Placar]] |publicado=[[Editora Abril|Abril]] |página=5 |via=[[Google Books]] |número=859|wayb=20250917130514 }}</ref> é o mais importante [[clássico de futebol]] de [[Minas Gerais]] e um dos maiores do [[Brasil]], que envolve o [[Clube Atlético Mineiro]] e o [[Cruzeiro Esporte Clube]], os principais clubes de [[Belo Horizonte]] e dois [[G-12|dos maiores do país]].
+
+== História ==
+
+=== Início da rivalidade ===
+Durante a primeira metade do [[século XX]], o maior clássico de Minas Gerais era [[Clássico das Multidões (Belo Horizonte)|disputado entre Atlético e América]]. O "Galo" venceu a [[Taça Bueno Brandão|Taça Bueno Brandão em 1914]] e o primeiro [[Campeonato Mineiro de Futebol|campeonato estadual]] em 1915, enquanto o [[América Futebol Clube (Belo Horizonte)|América]] conquistou as dez edições seguintes, de 1916 a 1925. Foi apenas a partir dos [[Década de 1950|anos 50]] que a rivalidade entre Atlético e Cruzeiro começou a se firmar como a mais forte do estado. O fato de terem dividido a taça do estadual de 1956 fez crescer essa rivalidade, que explodiu anos depois, com a inauguração do [[Estádio Governador Magalhães Pinto|Mineirão]].<ref name="FIFA">{{Citar web|url=http://pt.fifa.com/classicfootball/clubs/rivalries/newsid=1115281/|título=O clássico: Atlético x Cruzeiro|acessodata=25 de janeiro de 2014|publicado=[[FIFA]]|arquivourl=https://web.archive.org/web/20140201203055/http://pt.fifa.com/classicfootball/clubs/rivalries/newsid=1115281/|arquivodata=2014-02-01|urlmorta=sim}}</ref>
+
+Até a inauguração do [[Mineirão]], em [[1965]], a vantagem do Atlético no clássico era bastante ampla. Dos 57 confrontos no [[Estádio Independência|Independência]] – inaugurado em 1950 – até então, haviam acontecido 29 vitórias atleticanas contra 17 cruzeirenses.<ref>{{citar web |url = https://www.hojeemdia.com.br/esportes/independ%C3%AAncia-demorou-a-cair-no-gosto-dos-rivais-1.28994 |título = Independência demorou a cair no gosto dos rivais |publicado = Hoje em Dia |último = RIBEIRO |primeiro = Henrique |data = 23 de agosto de 2012 |acessodata = 28 de janeiro de 2013|wayb = 20230730015805 }}</ref>
+
+=== Era Independência e Era Mineirão ===
+Jogando no [[Estádio Independência]], os alvinegros têm um retrospecto bastante favorável no Clássico. Desde o primeiro confronto no Horto, na vitória do Atlético por 1 a 0 em 25 de julho de 1954 até 2023, ocorreram 79 jogos, com 40 triunfos do "Galo", 21 da "Raposa" e 18 empates. Os atleticanos marcaram 110 gols, e os cruzeirenses, 75.<ref>{{Citar web|url=http://classicomineiro.com.br/#l6|titulo=A história do Clássico Mineiro|acessodata=2022-04-01|website=classicomineiro.com.br|wayb=20251006071739}}</ref>
+
+O surgimento do [[Mineirão]] marcou a virada e o domínio da equipe celeste, que passou a contar com atletas talentosos como [[Raul Plassmann|Raul]], [[Wilson Piazza|Piazza]], [[Dirceu Lopes]], [[Natal (futebolista)|Natal]] e [[Tostão]]. A Raposa conquistou cinco títulos mineiros consecutivos de 1965 a 1969. Anos depois, o Atlético reagiu superando a série cruzeirense, com um hexacampeonato de 1978 a 1983, com um time de craques como [[Luizinho (futebolista, 1958)|Luizinho]], [[Nelinho]], [[Toninho Cerezo|Cerezo]], [[José Reinaldo de Lima|Reinaldo]], [[Paulo Isidoro de Jesus|Paulo Isidoro]] e [[Éder Aleixo|Éder]], não dando chances ao rival.<ref name="FIFA" /> O primeiro confronto entre as duas equipes realizado no [[Mineirão]] aconteceu em 24 de outubro de 1965, e o Cruzeiro venceu o Atlético por 1 a 0.<ref>{{citar web |url=http://esporte.uol.com.br/futebol/ultimas/2007/09/16/ult59u130832.jhtm |título=Cruzeiro amplia vantagem sobre o rival Atlético na Era Mineirão |obra=[[UOL Esporte]] |data=16/09/2007|wayb=20180417211036 }}</ref> Durante 61 anos (entre 1965 e 2026), foram 256 confrontos no "Gigante da Pampulha", com vantagem celeste: 92 vitórias, contra 82 do Atlético e 82 empates. Jogando no Mineirão, o Cruzeiro marcou 297 gols no clássico, contra 277 do Atlético.<ref name=":2">{{Citar web|url=http://classicomineiro.com.br/#l7|titulo=A história do Clássico Mineiro|acessodata=2022-04-01|website=classicomineiro.com.br|wayb=20251006071739}}</ref>
+
+=== Torcida única e "Novo Mineirão" ===
+Em 2010, o estádio Mineirão foi fechado para as reformas necessárias para a [[Copa do Mundo FIFA|Copa do Mundo]]. Durante este período, as equipes mandaram seus jogos em estádios no interior do estado ([[Arena do Jacaré]] e [[Estádio Municipal Parque do Sabiá|Parque do Sabiá]]) e os clássicos passaram a contar com torcida única.<ref>{{citar web |url=http://esporte.uol.com.br/futebol/campeonatos/brasileiro/serie-a/ultimas-noticias/2010/07/08/em-reuniao-cruzeiro-e-atletico-mg-definem-classico-com-torcida-unica.jhtm |título=Por segurança, Cruzeiro e Atlético-MG farão superclássicos com torcida única |publicado=[[UOL Esporte]] |data=8 de julho de 2010|wayb=20181127064552 }}</ref> As duas torcidas só voltaram a se encontrar em 3 de fevereiro de 2013, no jogo de reinauguração do estádio. A partida entre as duas equipes, válida pela primeira rodada do [[Campeonato Mineiro de Futebol de 2013 - Módulo I|Campeonato Mineiro]], terminou com a vitória do Cruzeiro por 2 a 1.<ref>[http://globoesporte.globo.com/jogo/mineiro-2013/03-02-2013/cruzeiro-atletico-mg.html ''DAGOBERTO DECIDE, E CRUZEIRO VENCE O GALO NA REINAUGURAÇÃO DO MINERÃO'']</ref> O público presente na partida foi de 59.968 e o público pagante, de aproximadamente 53 mil pessoas.<ref>[http://www.mg.superesportes.com.br/app/noticias/especiais/novo-mineirao/1,653,1,10/2013/02/03/noticia_cruzeiro,241276/mandante-cruzeiro-se-da-bem-com-recorde-de-renda-da-historia-de-minas.shtml ''Mandante, Cruzeiro se dá bem com recorde de renda da história de Minas'']</ref>
+
+Desde a reforma do estádio em 2013, ocorreram 32 clássicos no "Novo Mineirão", com 11 vitórias e 36 gols do Cruzeiro, 10 vitórias e 34 gols do Atlético, e outros 11 empates.<ref name=":2" />
+
+=== Final da Copa do Brasil ===
+{{Principal|Final da Copa do Brasil de Futebol de 2014}}
+No dia 5 de novembro de 2014, as equipes mineiras se classificaram para a final da [[Copa do Brasil de Futebol|Copa do Brasil]]. Nas semifinais, os atleticanos impuseram uma virada sobre o Flamengo por 4 a 1 no Mineirão, após perderem por 2 a 0 no primeiro jogo. Já o Cruzeiro, que tinha acabado de ser tetracampeão brasileiro, empatou com o Santos na Vila Belmiro em 3 a 3, após ter vencido por 1 a 0 em casa.<ref name=":0">{{Citar periódico|titulo=Mesmo derrotado, Cruzeiro faz festa com a torcida pelo tetra do Brasileiro|jornal=ESPN|url=http://espn.uol.com.br/noticia/463012_mesmo-derrotado-cruzeiro-faz-festa-com-a-torcida-pelo-tetra-do-brasileiro|wayb=20170330091705}}</ref> Pela primeira vez na história, as duas equipes mineiras decidiram um título nacional.<ref name="UOL">{{citar web |url=http://esporte.uol.com.br/futebol/campeonatos/copa-do-brasil/ultimas-noticias/2014/11/06/clubes-de-minas-decidem-titulo-nacional-pela-primeira-vez-na-historia.htm |título=Clubes de Minas decidem título nacional pela primeira vez na história |publicado=[[UOL Esporte]] |data=5 de novembro de 2014|wayb=20180417211146 }}</ref>
+
+Na primeira partida, realizada no Independência, vitória do Atlético por 2 a 0.<ref name="Glonoesporte">{{citar web |url=http://globoesporte.globo.com/jogo/copa-do-brasil-2014/12-11-2014/atletico-mg-cruzeiro.html |título=Galo faz 2 a 0 no primeiro dos maiores superclássicos da história de MG |publicado=[[Globo Esporte]] |data=12 de novembro de 2014|wayb=20230409220119 }}</ref> No jogo de volta, no Mineirão, outra vitória do Atlético, dessa vez por 1 a 0, o que lhe garantiu o título inédito da [[Copa do Brasil de Futebol de 2014|Copa do Brasil de 2014]].
+
+=== A "Capital do Futebol" ===
+Após a reforma e reinauguração do Mineirão, em 2013, as equipes mineiras voltaram a destacar-se nacional e internacionalmente. Ainda em 2013 o Atlético conquistou o título inédito da [[Taça Libertadores da América|Taça Libertadores]], enquanto o Cruzeiro ganhou pela terceira vez o [[Campeonato Brasileiro de Futebol|Campeonato Brasileiro]].<ref name="UOL" /> Em 2014, além de decidirem o título da Copa do Brasil 2014, vencido pelo Atlético, as duas equipes foram protagonistas em outros campeonatos. O Atlético conquistou também o título de campeão da [[Recopa Sul-Americana de 2014|Recopa Sul-Americana]],<ref>{{Citar periódico|data=2014-07-24|titulo=Atlético-MG é campeão da Recopa Sul-Americana ao vencer o Lanús no Mineirão|jornal=O Globo|url=http://oglobo.globo.com/esportes/atletico-mg-campeao-da-recopa-sul-americana-ao-vencer-lanus-no-mineirao-13359423|wayb=20250121040825}}</ref><ref>{{Citar periódico|data=2014-12-24|titulo=O campeão da Recopa|jornal=Clube Atlético Mineiro|url=http://www.atletico.com.br/o-campeao-da-recopa/|wayb=20260305081616}}</ref> enquanto o Cruzeiro conquistou o [[Campeonato Brasileiro de Futebol de 2014 - Série A|Campeonato Brasileiro de 2014]],<ref name=":0" /> o tetracampeonato de sua história e bicampeonato seguido. Estas conquistas e destaques fizeram com que o [[New York Times]] dedicasse uma reportagem à dupla mineira, dando a Belo Horizonte o título de "Capital do Futebol".<ref>{{Citar web|url=https://www.nytimes.com/2014/11/30/sports/soccer/belo-horizonte-has-become-the-capital-of-brazilian-soccer.html?nytmobile=0|titulo=City Tarnished by Defeat Gets to Bask in Victory - NYTimes.com|acessodata=2017-03-29|ultimo=MacKENNA|primeiro=EWAN|wayb=20250121082617}}</ref><ref>{{Citar web|url=http://www.mg.superesportes.com.br/app/noticias/especiais/atletico/1,1326,1,168/2014/11/30/noticia_futebol_nacional,298888/capital-do-futebol-the-new-york-times-publica-reportagem-exaltando-clubes-de-belo-horizonte.shtml|titulo="Capital do futebol": The New York Times publica reportagem exaltando clubes de Belo Horizonte - Superesportes|acessodata=2017-03-29|obra=www.mg.superesportes.com.br|wayb=20250121041046}}</ref>
+
+== Estatísticas ==
+
+=== Confrontos diretos ===
+Muitos clássicos pelo Brasil adotam um sistema único de contagem para seus jogos, em que se trabalha com uma harmonia numérica nas estatísticas. No Clássico Mineiro, porém, a realidade é diferente. O principal motivo que faz com que as duas equipes contem as partidas de maneiras diferentes está no período do início dos clássicos, de 1921 até meados da década de 1940, quando não havia prática de se registrar em súmula oficial os dados e resultados dos jogos. Por isso, há muitos placares que são questionados e que podem até ser revistos. O Atlético Mineiro afirma que contabiliza todas as vezes que as equipes foram ao campo de jogo e se enfrentaram. Entretanto, há algumas partidas que entraram nas contas da "Raposa" que não constam nos registros do "Galo". Em 2007, os dois clubes tentaram dialogar para unificar os números e, assim, poder fazer uma divulgação mais sólida e precisa a respeito dos números. Entretanto, não houve acordo entre as partes e ambos continuaram a seguir caminhos opostos.<ref>{{Citar web|url=https://www.goal.com/br/not%C3%ADcias/cruzeiro-x-atletico-mg-quem-venceu-mais-vezes-o-classico-e-quais-sao-as-polemicas-na-contagem/o6rvcx8m9f1d1k400glznulem|título=Cruzeiro x Atlético-MG: quem venceu mais vezes o clássico e quais são as polêmicas na contagem?|website=Goal.com|autor=Lucca Fazzi|data=22-10-2023|acessodata=01-01-2024|wayb=20260306214156}}</ref>
+
+{| class="wikitable"
+|-
+| colspan="2" bgcolor="black |<div class="center"><span style="color:white;">Versão do Atlético
+|-
+|'''Número de partidas'''|| 536
+|-
+|'''Vitórias do Atlético'''||216
+|-
+|'''Vitórias do <span style="color:blue;">Cruzeiro</span>'''||176 
+|-
+|'''Empates'''||144 
+|-
+|'''Gols do Atlético'''||753
+|-
+|'''Gols do <span style="color:blue;">Cruzeiro</span>'''||667
+|}
+
+{| class="wikitable"
+|-
+| colspan="2" bgcolor="blue |<div class="center"><span style="color:white;">Versão do Cruzeiro 
+|-
+|'''Número de partidas'''||518
+|-
+|'''Vitórias do <span style="color:blue;">Cruzeiro</span>'''||175 
+|-
+|'''Vitórias do Atlético'''||204 
+|-
+|'''Empates'''||139
+|-
+|'''Gols do <span style="color:blue;">Cruzeiro</span>'''||656 
+|-
+|'''Gols do Atlético'''||722 
+|}
+
+=== Confrontos eliminatórios ===
+Listagem de confrontos oficiais em [[Competições eliminatórias|jogos de mata-mata]] a nível nacional e internacional entre Atlético e Cruzeiro:<ref>{{Citar web|url=https://www.hojeemdia.com.br/esportes/atletico-nunca-perdeu-mata-mata-nacional-para-o-cruzeiro-4-capitulo-dessa-historia-sera-em-julho-1.719908|título=Atlético nunca perdeu mata-mata nacional para o Cruzeiro: 4º capítulo dessa história será em julho|website=Hoje em Dia|autor=Alexandre Simões|data=10-06-2019|acesso-data=17-02-2024|wayb=20240217195502}}</ref><ref>{{Citar web|url=https://www.otempo.com.br/super-noticia/superfc/galo-x-cruzeiro-raposa-nunca-venceu-o-atletico-em-mata-matas-1.2194326|título=Galo x Cruzeiro: Raposa nunca venceu o Atlético em mata-matas|website=O TEMPO|data=10-06-2019|acesso-data=17-02-2024|wayb=20240217195445}}</ref>
+
+[[Campeonato Brasileiro de Futebol de 1986|'''Campeonato Brasileiro de 1986''']]
+*O Atlético elimina o Cruzeiro nas quartas de final após dois empates, uma vez que possuía a vantagem em caso de dois resultados iguais.
+[[Copa de Ouro Nicolás Leoz|'''Copa Ouro de 1993''']]
+*O Atlético elimina o Cruzeiro na semifinal nos pênaltis, em jogo único.
+[[Campeonato Brasileiro de Futebol de 1999|'''Campeonato Brasileiro de 1999''']]
+*O Atlético elimina o Cruzeiro nas quartas de final após duas vitórias.
+[[Copa do Brasil de Futebol de 2014|'''Copa do Brasil de 2014''']]
+*O Atlético derrota o Cruzeiro na final e vence a competição pela primeira vez, pelo placar agregado de 3 a 0.
+[[Copa do Brasil de Futebol de 2019|'''Copa do Brasil de 2019''']]
+*O Cruzeiro elimina o Atlético nas quartas de final pelo placar agregado de 3 a 2.<ref>{{Citar web|url=https://www.lance.com.br/futebol-nacional/cruzeiro-derrotado-mas-chega-semifinal-seguida-copa-brasil.html|título=Cruzeiro é derrotado, mas chega à 4ª semifinal seguida da Copa do Brasil|website=LANCE!|data=17-07-2019|acesso-data=17-02-2024|wayb=20240217195444}}</ref>
+[[Copa do Brasil de Futebol de 2025|'''Copa do Brasil de 2025''']]
+*O Cruzeiro elimina o Atlético nas quartas de final pelo dilatado placar agregado de 4 a 0.<ref>{{Citar web|url=https://noataque.com.br/futebol/copa-do-brasil/time/cruzeiro/noticia/2025/09/11/cruzeiro-elimina-atletico-com-gols-de-kaio-jorge-e-vai-a-semifinal-da-copa-do-brasil/|título=Cruzeiro elimina Atlético com gols de Kaio Jorge e vai à semifinal da Copa do Brasil|website=No Ataque|autor=João Victor Pena|data=11-09-2025|acesso-data=11-09-2025|wayb=20251109095334}}</ref>
+[[Copa do Brasil de Futebol de 2026|'''Copa do Brasil de 2026''']]
+
+* O Atlético elimina o Cruzeiro nas quartas de final pelo placar agregado de 3 a 2.<ref>{{Citar web|url=https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/01/atletico-mg-x-cruzeiro---copa-do-brasil.ghtm|titulo=Atlético-MG aproveita expulsão, vira com golaço de Fred e elimina Cruzeiro|data=2026-09-01|acessodata=2026-09-02|website=UOL|língua=pt-br}}</ref>
+
+Além destes sete enfrentamentos, os dois rivais já se enfrentaram em mais outros dois mata-matas em competições oficiais fora de Minas Gerais, pelas semifinais da extinta [[Copa Sul-Minas]] em [[Copa Sul-Minas de 2001|2001]] e [[Copa Sul-Minas de 2002|2002]]. Em ambos os duelos, o '''Cruzeiro''' levou a melhor e avançou para a final.
+
+Pelo [[Campeonato Mineiro de Futebol|Campeonato Mineiro]], Atlético Mineiro e Cruzeiro também já se enfrentaram pela fase semifinal em três ocasiões: [[Campeonato Mineiro de Futebol de 2005 - Segunda Divisão|2005]], [[Campeonato Mineiro de Futebol de 2006 - Módulo I|2006]] e [[Campeonato Mineiro de Futebol de 2015 - Módulo I|2015]]. Destas, os cruzeirenses saíram vencedores nas duas primeiras, enquanto que os atleticanos venceram a última.<ref>{{Citar web|url=https://ge.globo.com/mg/noticia/2015/04/cruzeiro-tem-supremacia-em-decisoes-de-semifinal-contra-o-atletico-mg.html|título=Cruzeiro tem supremacia em decisões de semifinal contra o Atlético-MG|website=Globoesporte.com|data=10-04-2015|acesso-data=31-08-2025}}</ref><ref>{{Citar web|url=https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/atletico-e-cruzeiro-farao-20-mata-mata-do-seculo-veja-historico|título=Atlético e Cruzeiro farão 20º mata-mata do século; veja histórico|website=[[Rádio Itatiaia|Itatiaia Esportes]]|autor=Lucas Barbosa, Alexandre Simões, Nuno Krause|data=12-08-2025|acesso-data=31-08-2025|wayb=20250909033239}}</ref>
+
+=== Decisões de títulos ===
+Finais de campeonatos e torneios oficias decididos por Atlético Mineiro e Cruzeiro, desconsiderando turnos do [[Campeonato Mineiro de Futebol|Campeonato Mineiro]].
+
+'''[[Copa do Brasil de Futebol|Copa do Brasil]]'''
+
+*O '''Atlético''' venceu a [[Copa do Brasil de Futebol de 2014|Copa do Brasil de 2014]] superando o Cruzeiro na final.<ref>{{Citar web|url=https://www.cbf.com.br/futebol-brasileiro/noticias/copa-brasil-masculino/atletico-mineiro-volta-a-derrotar-o-cruzeiro-e-conquista-a-copa-do-brasil-de-2014|título=Atlético Mineiro conquista a Copa do Brasil 2014|website=Confederação Brasileira de Futebol|data=27-11-2014|acesso-data=28-03-2024|wayb=20260222134111}}</ref>
+
+'''[[Campeonato Mineiro de Futebol|Campeonato Mineiro]]'''
+
+Atlético e Cruzeiro fizeram a final do Campeonato Mineiro 27 vezes.<ref>{{Citar web|url=https://www.mg.superesportes.com.br/app/noticias/futebol/interior/2022/03/27/noticia_interior,3964862/atletico-e-cruzeiro-farao-25-final-direta-no-mineiro-veja-retrospecto.shtml|título=Atlético e Cruzeiro farão 25ª final direta no Mineiro; veja retrospecto|data=27-03-2022|website=Superesportes|acesso-data=17-02-2024|wayb=20250120031912}}</ref>
+
+*O '''Cruzeiro'''  superou o Atlético na final do estadual em '''15''' oportunidades: em 1940, 1967, 1972, 1977, 1987, 1990, 1998, 2004, 2008, [[Campeonato Mineiro de Futebol de 2009 - Módulo I|2009]], 2011, 2014, [[Campeonato Mineiro de Futebol de 2018 - Módulo I|2018]], [[Campeonato Mineiro de Futebol de 2019 - Módulo I|2019]] e [[Campeonato Mineiro de Futebol de 2026 - Módulo I|2026]].
+
+*O '''Atlético''' venceu o  Cruzeiro na decisão '''11''' vezes: em 1931, 1954, 1962, 1976, 1985, 2000, 2007, [[Campeonato Mineiro de Futebol de 2013 - Módulo I|2013]], [[Campeonato Mineiro de Futebol de 2017 - Módulo I|2017]], [[Campeonato Mineiro de Futebol de 2022 - Módulo I|2022]] e [[Campeonato Mineiro de Futebol de 2024 - Módulo I|2024]].
+
+*No Campeonato Mineiro de 1956, o título acabou sendo dividido entre os dois clubes.{{Nota de rodapé|O Atlético havia vencido o título em campo após dois empates e uma vitória na terceira partida das finais, disputadas entre 23 de maio e 2 de junho de 1957. Contudo, antes do terceiro jogo, o Cruzeiro denunciou o Atlético pela escalação irregular do lateral Laércio, que foi inscrito sem a apresentação do certificado de dispensa do Exército nas duas primeiras partidas. O pedido era pelos pontos do segundo jogo, uma vez que já havia perdido o prazo para contestar o primeiro. O [[Tribunal de Justiça Desportiva]] (TJD) negou o pedido, mas após recorrer ao [[Superior Tribunal de Justiça Desportiva]] (STJD), o Cruzeiro obteve vitória e ganhou os pontos da segunda partida. A [[Federação Mineira de Futebol]] (FMF) foi obrigada pelo STJD a agendar um quarto jogo, e somente acenou com tal em outubro de 1958. Porém, o Atlético, contrário a decisão de marcar uma nova partida, havia recorrido e conseguiu uma liminar a seu favor para não disputar o jogo. A FMF decidiu então pela divisão do título do Campeonato Mineiro de 1956 entre Atlético e Cruzeiro em março de 1959, sob a ameaça da [[Confederação Brasileira de Desportos]] (CBD) de barrar os clubes com títulos estaduais pendentes da primeira edição da [[Taça Brasil de Futebol|Taça Brasil]].<ref>{{Citar web|url=https://ge.globo.com/futebol/times/cruzeiro/noticia/cruzeiro-mira-primeiro-titulo-no-independencia-ha-seis-meses-raposa-fez-festa-no-estadio.ghtml|título=Cruzeiro mira primeiro título no Independência; há seis meses, Raposa fez festa no estádio|website=Globoesporte.com|autor=Diogo Finelli|data=18-04-2019|acesso-data=08-09-2026}}</ref><ref>{{Citar web|url=https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/em-1956-escalacao-irregular-de-jogador-fez-a-quarta-final-entre-os-rivais-ter-dois-campeoes/|título=Em 1956, escalação irregular de jogador fez a quarta final entre os rivais ter dois campeões|website=[[Rádio Itatiaia|Itatiaia Esportes]]|autor=Alexandre Simões|data=21-03-2024|acesso-data=08-09-2026|wayb=20240606174404}}</ref>}}
+
+'''[[Taça Minas Gerais|Taça Minas Gerais]]'''
+
+*Considerando-se as edições da Taça Minas Gerais nas quais o torneio era independente do Campeonato Mineiro, a final deste foi decidida pelos dois em três ocasiões. O '''Atlético''' venceu as decisões de 1975 e 1976, enquanto o '''Cruzeiro''' venceu a final de 1973.{{carece de fontes|soc|data=março de 2026}}
+
+'''[[Copa dos Campeões Mineiros]]'''
+
+*O '''Cruzeiro''' venceu a Copa dos Campeões Mineiros de 1999, derrotando o Atlético na decisão. Foi a segunda e última edição do torneio, sendo que nessa ocasião, a final também era válida pelas semifinais da [[Copa Centro-Oeste]].
+
+'''[[Copa Centenário de Belo Horizonte|Copa Centenário de  Belo Horizonte]]'''
+
+*O '''Atlético''' venceu a Copa Centenário de Belo Horizonte de 1997, derrotando o Cruzeiro na decisão.
+
+=== Retrospecto pelo Campeonato Brasileiro ===
+Estatísticas considerando-se o [[Campeonato Brasileiro de Futebol|Campeonato Brasileiro Unificado]] (até 2 de maio de 2026):<ref>{{Citar web|url=https://www.itatiaia.com.br/esportes/futebol/cruzeiro/2023/06/02/cruzeiro-x-atletico-no-brasileiro-quem-venceu-mais-veja-numeros|título=Cruzeiro x Atlético no Brasileiro: quem venceu mais? Veja números|website=[[Rádio Itatiaia|Itatiaia Esportes]]|data=02-06-2023|acesso-data=06-06-2024|wayb=20240606174404}}</ref>
+{| class="wikitable" style="text-align:center;"
+|-
+!width="120"|
+!width="110"|Atlético
+!width="110"|Cruzeiro
+|-
+!Vitórias
+|29 
+|23 
+|-
+!Empates
+|colspan="2"|25 
+|-
+!Partidas
+!colspan="2"|77
+|-
+!Gols marcados
+|100 
+|94 
+|-
+!Total de gols
+!colspan="2"|194
+|}
+
+=== Maiores goleadas ===
+O maior placar da história do Clássico foi de 9 a 2, favorável ao Atlético, pelo Campeonato Mineiro de 1927.<ref>{{citar web |url=http://www.mg.superesportes.com.br/app/noticias/futebol/atletico-mg/2012/11/27/noticia_atletico_mg,235714/maior-goleada-da-historia-do-classico-mineiro-um-9-a-2-completa-85-anos.shtml |título=Maior goleada da história do clássico mineiro, um 9 a 2, completa 85 anos |obra=Superesportes |data=27/11/2012|wayb=20250615025904 }}</ref><ref>{{Citar web|url=https://ge.globo.com/futebol/times/atletico-mg/noticia/90-anos-do-9-a-2-historias-e-registros-do-polemico-classico-que-sim-existiu.ghtml|título=90 anos do 9 a 2: histórias e registros do polêmico clássico que, sim, existiu|website=Globoesporte.com|autor=Guilherme Frossard|data=27-11-2017|acesso-data=09-02-2024|wayb=20250615025903}}</ref> A maior vitória do Cruzeiro sobre o Atlético foi por 6 a 1, em jogo válido pelo Campeonato Brasileiro de 2011.<ref name="Goleada">{{Citar web |url = http://esporte.uol.com.br/futebol/campeonatos/brasileiro/serie-a/ultimas-noticias/2011/12/05/goleada-que-manteve-o-cruzeiro-na-serie-a-foi-a-maior-sofrida-pelo-atletico-para-o-rival.htm |título = Goleada que manteve o Cruzeiro na Série A foi a maior sofrida pelo Atlético para o rival |publicado = UOL Esporte |data = 5 de Dezembro de 2011 |acessodata = 28 de janeiro de 2013|wayb = 20140317045648 }}</ref>
+* Maiores goleadas do [[Clube Atlético Mineiro|'''Atlético''']]:
+{| class="wikitable"
+|-
+! Data
+! Partida
+! Evento
+! Estádio
+|-
+|27 de novembro de 1927 || [[Atlético Mineiro 9–2 Palestra Itália (1927)|Atlético 9–2 Palestra Itália]]|| Campeonato Mineiro || Campo do América (Av. Paraopeba)
+|-
+|21 de junho de 1936
+|Palestra Itália 1–6 Atlético
+|Campeonato Mineiro
+|[[Estádio Juscelino Kubitschek de Oliveira|Estádio do Barro Preto]]
+|-
+|27 de maio de 1942
+|Atlético 6–1 Palestra Mineiro
+|Amistoso
+|[[Estádio Presidente Antônio Carlos|Estádio Antônio Carlos (Lourdes)]]
+|-
+|21 de junho de 1953
+|Atlético 5–0 Cruzeiro
+|Campeonato Mineiro
+|Estádio Antônio Carlos (Lourdes)
+|-
+|7 de dezembro de 1947
+|Atlético 6–2 Cruzeiro
+|Amistoso
+|Estádio Antônio Carlos (Lourdes)
+|}
+
+*Maiores goleadas do [[Cruzeiro Esporte Clube|'''Cruzeiro''']]:
+{| class="wikitable"
+|-
+! Data
+! Partida
+! Evento
+! Estádio
+|-
+|4 de dezembro de 2011 || Cruzeiro 6–1 Atlético || Campeonato Brasileiro || [[Estádio Joaquim Henrique Nogueira|Arena do Jacaré]]
+|-
+|27 de abril de 2008
+|Atlético 0–5 Cruzeiro
+|Campeonato Mineiro
+|[[Estádio Governador Magalhães Pinto|Mineirão]]
+|-
+|26 de abril de 2009
+|Cruzeiro 5–0 Atlético
+|Campeonato Mineiro
+|Mineirão
+|-
+|4 de abril de 1999
+|Atlético 1–5 Cruzeiro
+|Copa dos Campeões Mineiros
+|Mineirão
+|}
+
+=== Maiores artilheiros ===
+
+* Maiores artilheiros do Clássico pelo Atlético:<ref name=":1">{{Citar web|url=https://www.mg.superesportes.com.br/app/noticias/futebol/interior/2023/02/10/noticia_interior,3988118/cruzeiro-x-atletico-saiba-quem-sao-os-maiores-artilheiros-do-classico.shtml|título=Cruzeiro x Atlético: saiba quem são os maiores artilheiros do clássico|website=Superesportes|data=10-02-2023|acesso-data=01-06-2024|wayb=20260124151755}}</ref>
+
+{| class="wikitable"
+!Posição
+!Jogador
+!Gols
+|- align="center"
+|1
+|[https://www.galodigital.com.br/enciclopedia/Guaracy_Januzzi Guará]
+|26
+|- align="center"
+| rowspan="2" |2
+|[[José Reinaldo de Lima|Reinaldo]]
+| rowspan="2" |16
+|- align="center"
+|[[Ubaldo Miranda|Ubaldo]]
+|- align="center"
+|3
+|[https://www.galodigital.com.br/enciclopedia/Lucas_Miranda Lucas Miranda]
+|15
+|- align="center"
+| rowspan="2" |5
+|[[Thomaz de Aquino|Tomazinho]]
+| rowspan="2" |10
+|- align="center"
+| [[Hulk (futebolista)|Hulk]]
+|}
+
+* Maiores artilheiros do Clássico pelo Cruzeiro:<ref name=":1" />
+{| class="wikitable"
+!Posição
+!Jogador
+!Gols
+|- align="center"
+|1
+|[[Leonízio Fantoni|Niginho]]
+|25
+|- align="center"
+|2
+|[https://cruzeiropedia.org/Alcides_Lemos Alcides Lemos]
+|22
+|- align="center"
+|3
+|[[Orlando Fantoni]]
+|18
+|- align="center"
+|4
+|[[Abelardo Dutra Meireles|Abelardo]]
+|15
+|- align="center"
+|5
+|[[Ítalo Fratezzi|Bengala]]
+|12
+|}
+
+=== Maiores invencibilidades ===
+Lista das maiores séries invictas do Clássico Mineiro:<ref>{{Citar periódico|titulo=Atlético-MG mira atingir a segunda maior invencibilidade em superclássicos|jornal=globoesporte.com|url=http://globoesporte.globo.com/mg/noticia/2015/06/atletico-mg-mira-atingir-segunda-maior-invencibilidade-em-classicos.html|wayb=20230410140733}}</ref>
+{| class="wikitable"
+!{{Tooltip|P.|Posição}}
+!Invicto
+!Período
+!Jogos
+!Resultados
+!Aproveitamento (%)
+|- align="center"
+|1
+|Atlético
+|1985 a 1987
+|13
+|Cinco vitórias e oito empates
+|58,97%
+|- align="center"
+|2
+|Cruzeiro
+|2007 a 2009
+|12
+|Dez vitórias e dois empates
+|88,89%
+|- align="center"
+|3
+|Atlético
+|2013 a 2015
+|11
+|Seis vitórias e cinco empates
+|69,69%
+|- align="center"
+|4
+|Atlético
+|1947 a 1948
+|10
+|Nove vitórias e um empate
+|93,33%
+|- align="center"
+|5
+|Atlético
+|1937 a 1939
+|10
+|Oito vitórias e dois empates
+|86,66%
+|- align="center"
+|6
+|Cruzeiro
+|1966 a 1968
+|10
+|Cinco vitórias e cinco empates
+|66,67%
+|- align="center"
+|7
+|Atlético
+|1970 a 1972
+|10
+|Quatro vitórias e seis empates
+|60,00%
+|- align="center"
+|8
+|Cruzeiro
+|2000 a 2002
+|10
+|Três vitórias e sete empates
+|53,33%
+|}
+
+=== Torcidas ===
+
+{{Artigo principal|[[Lista das maiores torcidas de futebol do Brasil]]}}
+
+==== Pesquisas ====
+
+'''[[AtlasIntel]] (2023)'''
+
+* '''Atlético:''' 4,3% dos torcedores
+* '''[[Cruzeiro Esporte Clube|<span style="color:#0000FF">Cruzeiro</span>]]:''' 6,1% dos torcedores
+<small>Margem de erro de 2,0 [[Percentagem|p.p.]]<ref>{{Citar web|url=https://ge.globo.com/futebol/noticia/2023/04/25/maiores-torcidas-do-brasil-pesquisa-atlas-mostra-flamengo-corinthians-e-sao-paulo-no-top-3.ghtml|título=Maiores torcidas do Brasil: pesquisa Atlas mostra Flamengo, Corinthians e São Paulo no top 3|data=25 de abril de 2023|website=Globoesporte|wayb=20260405004500}}</ref></small>
+
+'''CNN/Itatiaia/Quaest (2024)'''
+* '''Atlético:''' 4% dos torcedores.
+* '''[[Cruzeiro Esporte Clube|<span style="color:#0000FF">Cruzeiro</span>]]:''' 4% dos torcedores.
+<small>Margem de erro de 1,4 [[Percentagem|p.p.]]<ref>{{citar web|url=https://ge.globo.com/mg/futebol/noticia/2024/05/15/pesquisa-flamengo-palmeiras-sao-paulo-e-vasco-tem-crescimento-de-torcida-veja-ranking.ghtml|titulo=Pesquisa: Flamengo, Palmeiras, São Paulo e Vasco têm crescimento de torcida; veja ranking|data=15 de maio de 2024|website=Globoesporte|wayb=20260309181647}}</ref></small>
+
+==== Ranking digital (redes sociais) ====
+* '''[[Clube Atlético Mineiro|<span style="color:#000000">Atlético</span>]]:''' 12.043.283 seguidores.
+* '''[[Cruzeiro Esporte Clube|<span style="color:#0000FF">Cruzeiro</span>]]:''' 10.981.149 seguidores.
+<small>Números de julho de 2025.<ref>{{citar web|url=https://www.iboperepucom.com/br/rankings/ranking-digital-dos-clubes-brasileiros-jul-2025/|titulo=Ranking digital dos clubes brasileiros – Jul/2025|data=2 de julho de 2025|website=IBOPE {{!}} REPUCOM|wayb=20260310070641}}</ref></small>
+
+=== Maiores públicos ===
+O recorde de público presente da história do Clássico foi registrado em [[4 de maio]] de [[1969]], com 123.351 presentes, em partida realizada no [[Mineirão]], válida pelo Campeonato Mineiro.<ref name="Recorde pagante">{{citar web |url = http://www.mg.superesportes.com.br/app/noticias/especiais/novo-mineirao/2012/12/16/noticia_mineirao,237202/entre-a-gloria-e-o-drama.shtml |título = Entre a glória e o drama |publicado = [[Diários Associados|Superesportes]] |último = DRUMMOND |primeiro = Ivan |data = 16 de dezembro de 2012 |acessodata = 28 de janeiro de 2013|wayb = 20260225085122 }}</ref>
+
+Listagem dos maiores públicos da história do confronto:
+
+{| class="wikitable"
+|-
+! {{Tooltip|#|Posição}}
+! Data
+! Partida
+! Evento
+! Estádio
+! Público
+|-align="center"
+!1
+| 4 de maio de 1969 || Atlético 0–1 Cruzeiro || Campeonato Mineiro || Mineirão || 123.351
+|-align="center"
+!2
+| 9 de outubro de 1977 || Atlético 1–3 Cruzeiro || Campeonato Mineiro || Mineirão || 122.534
+|-align="center"
+!3
+| 26 de outubro de 1980 || Atlético 1–0 Cruzeiro || Campeonato Mineiro || Mineirão || 115.983
+|-align="center"
+!4
+|8 de novembro de 1981 || |Atlético 1–1 Cruzeiro || Campeonato Mineiro || Mineirão || 112.919
+|-align="center"
+!5
+| 2 de junho de 1968 || Atlético 1–2 Cruzeiro || Campeonato Mineiro || Mineirão || 110.432
+|-align="center"
+!6
+| 15 de dezembro de 1974 || Atlético 1–2 Cruzeiro || Campeonato Mineiro || Mineirão || 109.363
+|-align="center"
+!7
+| 5 de dezembro de 1982 || Atlético 2–1 Cruzeiro || Campeonato Mineiro || Mineirão || 108.935
+|-align="center"
+!8
+| 2 de agosto de 1970 || Atlético 2–1 Cruzeiro || Campeonato Mineiro || Mineirão || 106.155
+|-align="center"
+!9
+| 3 de abril de 1977 || Atlético 2–0 Cruzeiro || Campeonato Mineiro || Mineirão || 103.725
+|-align="center"
+!10
+|25 de abril de 1976 || |Atlético 2–1 Cruzeiro || |Taça Minas Gerais || Mineirão || 101.404
+|-align="center"
+!11
+| 9 de dezembro de 1984 || Atlético 1–0 Cruzeiro || Campeonato Mineiro || Mineirão || 99.174
+|-align="center"
+!12
+| 27 de março de 1977 || Atlético 2–0 Cruzeiro || Campeonato Mineiro || Mineirão || 99.044
+|-align="center"
+!13
+| 29 de janeiro de 1978 || Atlético 2–1 Cruzeiro || Campeonato Brasileiro || Mineirão || 98.778
+|-align="center"
+!14
+| 18 de setembro de 1966 || Atlético 0–2 Cruzeiro || Campeonato Mineiro || Mineirão || 97.965
+|-align="center"
+!15
+| 28 de setembro de 1969 || Atlético 1–2 Cruzeiro || Torneio Roberto Gomes Pedrosa || Mineirão || 97.928
+|-align="center"
+!16
+| 8 de fevereiro de 1987 || Atlético 0–0 Cruzeiro || Campeonato Brasileiro || Mineirão || 94.381
+|-align="center"
+!17
+| 10 de setembro de 1967 || Atlético 0–0 Cruzeiro || Campeonato Mineiro || Mineirão || 93.577
+|-align="center"
+!18
+| 7 de agosto de 1977 || Atlético 0–0 Cruzeiro || Campeonato Mineiro || Mineirão || 91.696
+|- align="center"
+!19
+|5 de março de 1967 || Atlético 0–4 Cruzeiro || Torneio Roberto Gomes Pedrosa || Mineirão || 91.042
+|-align="center"
+!20
+| 18 de fevereiro de 1979 || Atlético 2–1 Cruzeiro || Campeonato Mineiro || Mineirão || 90.894
+|-
+! colspan="6" |Maior público no Século XXI
+|-align="center"
+!–
+|6 de outubro de 2001 || Atlético 2–2 Cruzeiro || Campeonato Brasileiro || Mineirão || 84.259
+|-
+! colspan="6" |Maior público no Novo Mineirão (desde 2013)
+|-align="center"
+!–
+|11 de setembro de 2025 || Cruzeiro 2–0 Atlético || Copa do Brasil || Mineirão || 61.584{{Efn|Jogo disputado com torcida única.}}
+|-
+! colspan="6" |Maior público na Arena MRV
+|-align="center"
+!–
+|27 de agosto de 2025 || Atlético 0–2 Cruzeiro || Copa do Brasil || [[Arena MRV]] || 44.286{{Efn|Jogo disputado com torcida única.}}
+|-
+! colspan="6" |Maior público na Arena Independência
+|-align="center"
+!–
+|7 de maio de 2017 || Atlético 2–1 Cruzeiro || Campeonato Mineiro || [[Estádio Raimundo Sampaio|Independência]] || 22.411
+|-
+! colspan="6" |Maior público fora de Belo Horizonte
+|-align="center"
+!–
+|3 de junho de 2023 || Cruzeiro 0–1 Atlético || Campeonato Brasileiro || [[Estádio Municipal Parque do Sabiá|Parque do Sabiá]]<br>([[Uberlândia]]) || 34.344
+|}
+
+== Títulos ==
+''Última atualização: 08 de março de 2026''
+
+{| class="wikitable" style="text-align:center;font-size:95%"
+! [[Imagem:Flag of UNASUR.svg|borda|23px]] Competições Continentais 
+! width="100" | [[Clube Atlético Mineiro|Atlético]]
+! width="100" | [[Cruzeiro Esporte Clube|Cruzeiro]]
+|-
+| [[Copa Libertadores da América]]
+| 1
+| 2
+|-
+| [[Supercopa Libertadores]]
+| 0
+| 2
+|-
+| [[Recopa Sul-Americana]]
+| 1
+| 1
+|-
+| [[Copa Sul-Americana]]
+| 0
+| 0
+|-
+| [[Copa Master da Supercopa]]
+| 0
+| 1
+|-
+| [[Copa de Ouro Nicolás Leoz]]
+| 0
+| 1
+|-
+|[[Copa CONMEBOL|Copa Conmebol]]
+|2
+|0
+|-
+! {{BRAb}} Competições Nacionais
+! width="100" | [[Clube Atlético Mineiro|Atlético]]
+! width="100" | [[Cruzeiro Esporte Clube|Cruzeiro]]
+|-
+| [[Campeonato Brasileiro de Futebol|Campeonato Brasileiro]]
+| 3*
+| 4**
+|-
+| [[Copa do Brasil de Futebol|Copa do Brasil]]
+| 2
+| 6
+|-
+| [[Supercopa do Brasil de Futebol|Supercopa do Brasil]]
+| 1
+| 0
+|-
+| [[Copa dos Campeões da Copa Brasil]]
+| 1
+| 0
+|-
+|[[Campeonato Brasileiro de Futebol - Série B|Campeonato Brasileiro – Série B]]
+|1
+|1
+|-
+
+! [[Imagem:Brazil State Map.svg|20px]] Competições Interestaduais
+! width="100" | [[Clube Atlético Mineiro|Atlético]]
+! width="100" | [[Cruzeiro Esporte Clube|Cruzeiro]]
+|-
+|[[Copa Sul-Minas]]
+| 0
+| 2
+|-
+|[[Copa Centro-Oeste]]
+| 0
+| 1
+|-
+! {{BR-MGb}} Competições Estaduais
+! width="100" | [[Clube Atlético Mineiro|Atlético]]
+! width="100" | [[Cruzeiro Esporte Clube|Cruzeiro]]
+|-
+| [[Campeonato Mineiro de Futebol|Campeonato Mineiro]]***
+| 50
+| 39
+|-
+| Supercampeonato Mineiro****
+| 0
+| 1
+|-
+| Taça Minas Gerais (Torneio independente)*****
+| 2
+| 1 
+|-
+|Taça Minas Gerais (Turnos)*****
+|3
+|4
+|-
+| Taça Belo Horizonte
+| 3
+| 0
+|-
+| [[Copa dos Campeões Mineiros]]
+| 0
+| 2
+|-
+| [[Torneio Incentivo Mineiro - FMF]]
+| 1
+| 0
+|-
+|Torneio da FMF
+|1
+|0
+|-
+| [[Torneio Início de Minas Gerais|Torneio Início]]******
+| 8
+| 8
+|-
+| [[Copa Centenário de Belo Horizonte]]******
+| 1
+| 0
+|-
+! [[Imagem:Bandeira-de-Belo-Horizonte.svg|borda|23px]] Competições Municipais
+! width="100" | [[Clube Atlético Mineiro|Atlético]]
+! width="100" | [[Cruzeiro Esporte Clube|Cruzeiro]]
+|-
+| [[Copa Belo Horizonte]]
+| 1
+| 1
+|-
+| [[Taça Bueno Brandão]]
+| 1
+| 0
+|-
+! Total de títulos oficiais
+! 83
+! 77
+|}
+<small>* Inclui a [[Campeonato Brasileiro de Futebol de 1937|Copa dos Campeões de 1937]], unificada ao Campeonato Brasileiro pela CBF em 25 de agosto de 2023.</small>
+
+<small>** Inclui a [[Campeonato Brasileiro de Futebol de 1966|Taça Brasil de 1966]], unificada ao Campeonato Brasileiro pela CBF em dezembro de 2010.<ref>{{citar web|url=http://oglobo.globo.com/esportes/cbf-anuncia-oficialmente-unificacao-dos-titulos-de-campeao-brasileiro-2907037|título=CBF anuncia oficialmente a unificação dos títulos de campeão brasileiro|data=22 de dezembro de 2010|publicado=Jornal O Globo|wayb=20230406103712}}</ref></small>
+
+<small>*** O título do Cruzeiro do Campeonato de 1926 organizado pela Associação Mineira de Esportes Terrestres (AMET) não é reconhecido pela Federação Mineira.</small>
+
+<small>**** O Supercampeonato Mineiro de 2002 foi administrado pelos próprios times participantes, e por isso não é reconhecido como uma edição do Campeonato Mineiro pela [[Federação Mineira de Futebol|FMF]].</small>
+
+<small>***** Algumas edições da Taça Minas Gerais foram turnos do [[Campeonato Mineiro de Futebol|Campeonato Mineiro]], outras foram competições à parte do [[Campeonato Mineiro de Futebol|Campeonato Mineiro]].</small>
+
+<small>******</small> <small>A Federação Mineira de Futebol não reconhece as competições da AMET nos anos de 1926 e 1927, tornando os dois títulos do Cruzeiro do Torneio Início da AMET não oficiais.</small>
+
+<small>*******</small> <small>Em que pese a [[Copa Centenário de Belo Horizonte]] ser eventualmente citada como oficial por haver sido da [[Federação Mineira de Futebol]],  a mesma ocorreu posteriormente a maio de 1955, quando a [[FIFA]] declarou que competições internacionais oficias de clubes seriam aquelas organizadas por instituições internacionais oficiais do futebol, como [[UEFA]] e [[CONMEBOL]].<ref>[http://www.uefa.com/newsfiles/240459.pdf ''50 Years of the European Cup''. Site da UEFA. Acesso em 04/02/2013, Ver declarações atribuídas a Jules Rimet (ex-FIFA), Rodolphe Seeldrayers (FIFA) e Ebbe Schwartz (UEFA).]</ref> Assim, a competição não tem o status de oficial internacionalmente, em que pese poder ser entendida como oficial perante os clubes sob a regulação da Federação Mineira de Futebol, como por exemplo os participantes mineiros da mesma, Atlético-MG, Cruzeiro e América-MG, de modo que sua inclusão na lista de títulos entre Atlético e Cruzeiro não representa viés.</small>
+
+== Bibliografia ==
+Livro: ''Clássicos do Futebol Brasileiro'', por José Renato Sátiro Santiago Jr. e Marcelo Unt ([[2014]]).
+
+== Ver também ==
+* [[Futebol de Minas Gerais]]
+* [[História do Futebol em Minas Gerais]]
+* [[Clássico das Multidões (Belo Horizonte)|Clássico das Multidões]]
+* [[Coelho versus Leão]]
+* [[Coelho versus Raposa]]
+* [[Atlético Mineiro x Villa Nova|Galo versus Leão]]
+* [[Raposa versus Leão]]
+
+{{Notas e referências}}
+
+== Ligações externas ==
+* {{link|2=http://www.atletico.com.br/noticias/?p=3684/|3=Site oficial |4=do [[Clube Atlético Mineiro]].}}
+* {{link|2=http://www.cruzeiro.com.br/|3=Site oficial |4=do [[Cruzeiro Esporte Clube]].}}
+* {{link|2=https://www.mg.superesportes.com.br/app/noticias/especiais/classico500/2017/07/02/noticia_classico_500,412108/almanaque-do-classico-500-entre-atletico-e-cruzeiro.shtml |3=Site Superesportes|4= Almanaque do clássico.}}
+
+{{Clássicos de Futebol no Brasil}}{{Futebol de Minas Gerais}}
+{{Clube Atlético Mineiro}}
+{{Cruzeiro Esporte Clube}}
+{{Portal3|Minas Gerais|Futebol}}
+{{Controle de autoridade}}
+
+{{DEFAULTSORT:Atletico Contra Cruzeiro}}
+[[Categoria:Clube Atlético Mineiro]]
+[[Categoria:Cruzeiro Esporte Clube]]
+[[Categoria:Clássicos do futebol de Minas Gerais]]

@@ -1,0 +1,3432 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=July 2020}}
+{{Use British English|date=March 2026}}
+{{Infobox football club season
+| club = [[Chelsea F.C.|Chelsea]]
+| season = [[2020–21 in English football|2020–21]]
+| image = File:FC Krasnodar vs Chelsea Hudson-Odoi goal 2020-10-28 (cropped).jpg
+| image_size = 300px
+| alt =
+| caption = Chelsea players celebrating a goal scored against [[FC Krasnodar]] at a [[2020–21 UEFA Champions League|UEFA Champions League]] match
+| owner = [[Roman Abramovich]]
+| manager = [[Frank Lampard]]<br>''(until 25 January 2021)''<br>[[Thomas Tuchel]]<br>''(from 26 January 2021)''
+| mgrtitle = Head coach
+| chairman = [[Bruce Buck]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| league = [[Premier League]]
+| league result = [[2020–21 Premier League|4th]]
+| cup1 = [[FA Cup]]
+| cup1 result = [[2020–21 FA Cup|Runners-up]]
+| cup2 = [[EFL Cup]]
+| cup2 result = [[2020–21 EFL Cup|Fourth round]]
+| cup3 = [[UEFA Champions League]]
+| cup3 result = '''[[2020–21 UEFA Champions League|Winners]]'''
+| league topscorer = <br>[[Jorginho (footballer, born December 1991)|Jorginho]] (7)
+| season topscorer = <br>[[Tammy Abraham]]<br>[[Timo Werner]]<br>(12 each)
+| highest attendance = 
+| lowest attendance  = 
+| average attendance = 
+| largest win = 6–0<br>(vs. [[Barnsley F.C.|Barnsley]], 23 September 2020, EFL Cup)
+| largest loss = 2–5 <br>(vs. [[West Bromwich Albion F.C.|West Bromwich Albion]], 3 April 2021, Premier League)
+| pattern_la1  = _chelsea2021h
+| pattern_b1   = _chelsea2021h
+| pattern_ra1  = _chelsea2021h
+| pattern_sh1  = _chelsea2021h
+| pattern_so1  = 
+| leftarm1     = 0000FF
+| body1        = 0000FF
+| rightarm1    = 0000FF
+| shorts1      = 0000FF
+| socks1       = FFFFFF
+| pattern_la2  = _chelsea2021a
+| pattern_b2   = _chelsea2021a
+| pattern_ra2  = _chelsea2021a
+| pattern_sh2  = _chelsea2021a
+| pattern_so2  = 
+| leftarm2     = BCD3E7
+| body2        = BCD3E7
+| rightarm2    = BCD3E7
+| shorts2      = BCD3E7
+| socks2       = 000040
+| pattern_la3  = _chelsea2021t
+| pattern_b3   = _chelsea2021t
+| pattern_ra3  = _chelsea2021t
+| pattern_sh3  = 
+| pattern_so3  = _chelsea2021t
+| leftarm3     = FF5555
+| body3        = FF5555
+| rightarm3    = FF5555
+| shorts3      = FF5555
+| socks3       = 0000DD
+| prevseason   = [[2019–20 Chelsea F.C. season|2019–20]]
+| nextseason   = [[2021–22 Chelsea F.C. season|2021–22]]
+}}
+
+The '''2020–21 season''' was [[Chelsea F.C.|Chelsea]]'s 107th competitive season, 32nd consecutive season in the top flight of English football, 29th consecutive season in the [[Premier League]], and 115th year in existence as a football club.<ref>{{Cite web|title=History|url=https://www.chelseafc.com/en/about-chelsea/history|website=chelseafc.com|date=1 July 2020}}</ref> The season covered the period from 1 July 2020 to 30 June 2021.
+
+Prior to the 2020–21 season, Chelsea made numerous high-profile signings in the transfer market, bringing in the likes of [[Timo Werner]], [[Kai Havertz]], [[Ben Chilwell]], [[Hakim Ziyech]], and [[Thiago Silva]] in the close-season, as well as [[Édouard Mendy]] shortly after the season began. The Blues began this season under the management of former Chelsea player [[Frank Lampard]], in his second season at the club. However, Lampard was sacked in January and replaced by German manager [[Thomas Tuchel]], who guided the club to European glory, as on 29 May, Chelsea defeated fellow English side [[Manchester City F.C.|Manchester City]] in the [[2021 UEFA Champions League final|Champions League final]], their second title in the competition, and their first since [[2012 UEFA Champions League final|2012]].
+
+The season was the first since [[2012–13 Chelsea F.C. season|2012–13]] without [[Willian (footballer, born 1988)|Willian]], who departed to [[Arsenal F.C|Arsenal]].
+
+==Kits==
+<div class="center">
+{|
+|{{Football kit
+| pattern_la = _chelsea2021h
+| pattern_b = _chelsea2021h
+| pattern_ra = _chelsea2021h
+| pattern_sh = _chelsea2021h
+| pattern_so = 
+| leftarm = 000000
+| body = 0000FF
+| rightarm = 000000
+| shorts = FFFFFF
+| socks = FFFFFF
+| title = Home
+}}
+|{{Football kit
+| pattern_la = _chelsea2021h
+| pattern_b = _chelsea2021h
+| pattern_ra = _chelsea2021h
+| pattern_sh = _chelsea2021h
+| pattern_so = 
+| leftarm = 0000FF
+| body = 0000FF
+| rightarm = 0000FF
+| shorts = 0000FF
+| socks = 0000FF
+| title = Home alt.
+}}
+|{{football kit
+| pattern_la = _chelsea2122h
+| pattern_b  = _chelsea2122h
+| pattern_ra = _chelsea2122h
+| pattern_sh = _chelsea2122h
+| pattern_so = _chelsea2122hl
+| leftarm    = FFFFFF
+| body       = FFFFFF
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| socks      = FFFFFF
+| title = Home [[2021–22 Chelsea F.C. season|2021–22]]
+}}
+|{{Football kit
+| pattern_la = _chelsea2021a
+| pattern_b = _chelsea2021a
+| pattern_ra = _chelsea2021a
+| pattern_sh = _chelsea2021a
+| pattern_so = 
+| leftarm = BCD3E7
+| body = BCD3E7
+| rightarm = BCD3E7
+| shorts = BCD3E7
+| socks = 000040
+| title = Away
+}}
+|{{Football kit
+| pattern_la = _chelsea2021a
+| pattern_b = _chelsea2021a
+| pattern_ra = _chelsea2021a
+| pattern_sh = _chelsea2021a
+| pattern_so = 
+| leftarm = BCD3E7
+| body = BCD3E7
+| rightarm = BCD3E7
+| shorts = BCD3E7
+| socks = BCD3E7
+| title = Away alt.
+}}
+|{{Football kit
+| pattern_la = _chelsea2021t
+| pattern_b = _chelsea2021t
+| pattern_ra = _chelsea2021t
+| pattern_sh = 
+| pattern_so = _chelsea2021tl
+| leftarm = FF5555
+| body = FF5555
+| rightarm = FF5555
+| shorts = FF5555
+| socks = 0000DD
+| title = Third
+}}
+|{{Football kit
+| pattern_la = _chelsea2021t
+| pattern_b = _chelsea2021t
+| pattern_ra = _chelsea2021t
+| pattern_sh = 
+| pattern_so = 
+| leftarm = FF5555
+| body = FF5555
+| rightarm = FF5555
+| shorts = FF5555
+| socks = FFFFFF
+| title = Third alt.
+}}
+|{{Football kit
+| pattern_la = _chelsea2021t
+| pattern_b = _chelsea2021t
+| pattern_ra = _chelsea2021t
+| pattern_sh = 
+| pattern_so = _chelsea2021t2l
+| leftarm = FF5555
+| body = FF5555
+| rightarm = FF5555
+| shorts = FF5555
+| socks = FF5555
+| title = Third alt. 2
+}}
+|}
+{|
+|
+|{{Football kit
+|pattern_la = 
+|pattern_b  = _nikegardien3gsb
+|pattern_ra = 
+|pattern_sh = _black_stripes
+|pattern_so =
+|leftarm    = 0EDC6A
+|body       = 0EDC6A
+|rightarm   = 0EDC6A
+|shorts     = 0EDC6A
+|socks      = 0EDC6A
+|title      = Goalkeeper 1
+}}
+|{{Football kit
+|pattern_la = 
+|pattern_b  = _nikegardien3ob
+|pattern_ra = 
+|pattern_sh = _black_stripes
+|pattern_so = 
+|leftarm    = FF6000
+|body       = FFFFFF
+|rightarm   = FF6000
+|shorts     = FF6000
+|socks      = FF6000
+|title      = Goalkeeper 2
+}}
+|{{Football kit
+|pattern_la = 
+|pattern_b  = _nikegardien3gb
+|pattern_ra = 
+|pattern_sh = _black_stripes
+|pattern_so = 
+|leftarm    = BBBBBB
+|body       = FFFFFF
+|rightarm   = BBBBBB
+|shorts     = BBBBBB
+|socks      = BBBBBB
+|title      = Goalkeeper 3
+}}
+|{{Football kit
+|pattern_la = _nikegk2122gray1
+|pattern_b  = _nikegk2122gray
+|pattern_ra = 
+|pattern_sh = 
+|pattern_so = 
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = C0C0C0
+|shorts     = C0C0C0
+|socks      = C0C0C0
+|title      = Goalkeeper [[2021–22 Chelsea F.C. season|2021–22]]
+}}
+|
+|}</div>
+
+Starting with this season, [[Three UK]] replaced the [[Yokohama Rubber Company]] as Chelsea's shirt sponsor.
+
+==Season overview==
+{{multiple images
+| perrow = 2/2/2
+| image1 = 20180602 FIFA Friendly Match Austria vs. Germany Timo Werner 850 0621.jpg
+| image2 = 2019-06-11 Fußball, Männer, Länderspiel, Deutschland-Estland StP 2059 LR10 by Stepro.jpg
+| image3 = Ben Chilwell 2020.jpg
+| image4 = Hakim Ziyech 2020.jpg
+| total_width = 291
+| footer = [[Timo Werner]], [[Kai Havertz]], [[Ben Chilwell]] and [[Hakim Ziyech]] were the fresh signings of this club. Frank Lampard bought them to Stamford Bridge prior to his sacking.
+}}
+
+=== September ===
+
+Chelsea played their first game of the new [[2020–21 Premier League|Premier League]] season on 14 September 2020, travelling to [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] and earning a 3–1 away victory, courtesy of goals from [[Jorginho (footballer, born December 1991)|Jorginho]], [[Kurt Zouma]] and [[Reece James (footballer, born 1999)|Reece James]].<ref>{{cite web |title=Brighton 1-3 Chelsea: Frank Lampard wants title challenge after starting season with win |url= https://www.bbc.co.uk/sport/football/54052535 |website=BBC Sport |date=14 September 2020}}</ref> On 20 September, Chelsea welcomed defending champions [[Liverpool F.C.|Liverpool]] to [[Stamford Bridge (stadium)|Stamford Bridge]]. [[Andreas Christensen]] was [[Dismissal (football)|dismissed]] in the first half after a naive challenge on [[Sadio Mané]], who then proceeded to score [[Brace (association football)|two goals]] inside four minutes for Liverpool, with goalkeeper [[Kepa Arrizabalaga]] making a crucial mistake for Mané's second goal. New signing [[Timo Werner]] managed to win a penalty for Chelsea, but Jorginho had his effort saved by [[Alisson Becker|Alisson]], his first penalty miss in nine attempts, as the match ended in a 2–0 defeat for Chelsea.<ref>{{cite web |title=Chelsea 0-2 Liverpool: Sadio Mane nets double against 10-man Blues |url= https://www.bbc.co.uk/sport/football/54135434 |website=BBC Sport |date=20 September 2020}}</ref>
+
+Three days later, Chelsea faced [[Barnsley F.C.|Barnsley]] in the [[EFL Cup]], which ended in a 6–0 win for Chelsea, with [[Kai Havertz]] scoring a [[Hat-trick#Association football|hat-trick]] for the Blues.<ref>{{cite web |title=Chelsea 6-0 Barnsley: Kai Havertz hat-trick sends Blues through |url= https://www.bbc.co.uk/sport/football/54190608 |website=BBC Sport |date=23 September 2020}}</ref> Chelsea then travelled to [[The Hawthorns]] to play [[West Bromwich Albion]]. Chelsea were 3–0 down at half-time, but goals from [[Mason Mount]], [[Callum Hudson-Odoi]], and [[Tammy Abraham]] in stoppage-time managed to seal a draw as the match ended 3–3.<ref>{{cite web |title=West Brom 3-3 Chelsea: Tammy Abraham scores stoppage-time equaliser |url= https://www.bbc.co.uk/sport/football/54215342 |website=BBC Sport |date=26 September 2020}}</ref> On 29 September, Chelsea took on [[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|London rivals]] [[Tottenham Hotspur]] in the round of 16 in the EFL Cup. Timo Werner scored his first Chelsea goal to put the Blues ahead, but [[Erik Lamela]] managed to equalise in the second half. Chelsea would go on to lose 5–4 on penalties, with Mason Mount missing the decisive penalty and Chelsea finding themselves eliminated from the EFL Cup.<ref>{{cite web |title=Carabao Cup: Tottenham 1-1 Chelsea (5-4 pens) |url= https://www.bbc.com/sport/football/54298219 |website=BBC Sport |date=29 September 2020}}</ref>
+
+Reece James' goal against Brighton was nominated for the [[Premier League Goal of the Month]] award, but was won by [[Leicester City F.C.|Leicester City]]'s [[James Maddison]].<ref>{{cite web |title=Watch September 2020's Budweiser Goal of the Month contenders |url= https://www.premierleague.com/news/1848487 |website=Premier League |date=2 October 2020}}</ref><ref>{{cite web |title=Maddison wins September 2020's Budweiser Goal of the Month |url= https://www.premierleague.com/news/1857311 |website=Premier League |date=9 October 2020}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of September
+
+|highest_pos = 7
+|team7=LEE|name_LEE=[[Leeds United F.C.|Leeds United]]
+|win_LEE=2|draw_LEE=0|loss_LEE=1|gf_LEE=8|ga_LEE=7
+|team8=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|win_TOT=1|draw_TOT=1|loss_TOT=1|gf_TOT=6|ga_TOT=4
+|team9=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=1|draw_CHL=1|loss_CHL=1|gf_CHL=6|ga_CHL=6
+|team10=NEW|name_NEW=[[Newcastle United F.C.|Newcastle United]]
+|win_NEW=1|draw_NEW=1|loss_NEW=1|gf_NEW=3|ga_NEW=4
+|team11=WHU|name_WHU=[[West Ham United F.C.|West Ham United]]
+|win_WHU=1|draw_WHU=0|loss_WHU=2|gf_WHU=5|ga_WHU=4
+|update=complete|source=
+}}
+
+=== October ===
+
+Chelsea's first match of October was against [[Crystal Palace F.C.|Crystal Palace]] at home. After no goals in the first half, Chelsea managed to win 4–0, as [[Ben Chilwell]] registered a goal and an assist on his Premier League debut for Chelsea.<ref>{{cite web |title=Chelsea 4-0 Crystal Palace: Ben Chilwell scores on first Premier League start since move|url= https://www.bbc.co.uk/sport/football/54305844 |website=BBC Sport |date=3 October 2020}}</ref> Two weeks later, on 17 October, Chelsea welcomed [[Southampton F.C.|Southampton]] to Stamford Bridge. Timo Werner scored his first Premier League goals for Chelsea as the Blues were leading 2–0 inside 28 minutes, with [[Danny Ings]] managing to pull a goal back for the Saints before half-time. [[Che Adams]] scored an equaliser for Southampton 57 minutes in, but Chelsea instantly responded with a Kai Havertz goal two minutes later, his first in the Premier League. Chelsea were pegged back again in the 92nd minute, with [[Jannik Vestergaard]] levelling the game, as Chelsea managed to come out of the game with a frustrating 3–3 draw.<ref>{{cite web |title=Chelsea 3-3 Southampton: Blues must cut out individual errors — Lampard|url= https://www.bbc.co.uk/sport/football/54489178 |website=BBC Sport |date=17 October 2020}}</ref> In their next two games, Chelsea drew back-to-back games 0–0, first against [[Sevilla F.C.|Sevilla]] at home in their first [[2020–21 UEFA Champions League|Champions League]] [[2020–21 UEFA Champions League group stage|group stage]] game of the season, and then again away at [[Manchester United F.C.|Manchester United]] in the Premier League.<ref>{{cite web |title=Chelsea 0-0 Sevilla: Frank Lampard's side held in opening Champions League group game|url= https://www.bbc.co.uk/sport/football/54559696 |website=BBC Sport |date=20 October 2020}}</ref><ref>{{cite web |title=Manchester United 0-0 Chelsea: Hosts still searching for first home win this season|url= https://www.bbc.co.uk/sport/football/54580512 |website=BBC Sport |date=24 October 2020}}</ref>
+
+Chelsea then defeated [[FK Krasnodar|Krasnodar]] 4–0 away in the Champions League, with Callum Hudson-Odoi, Timo Werner, [[Hakim Ziyech]], and [[Christian Pulisic]] all on target for the Blues.<ref>{{cite web |title=FK Krasnodar 0-4 Chelsea: Hakim Ziyech and Christian Pulisic strikes put seal on emphatic win|url= https://www.bbc.co.uk/sport/football/54713315 |website=BBC Sport |date=28 October 2020}}</ref> In Chelsea's final game of the month on 31 October, they defeated [[Burnley F.C.|Burnley]] 3–0 away, with Hakim Ziyech scoring and assisting on his first Premier League start, with additional goals from Kurt Zouma and Timo Werner sealing the win for Chelsea.<ref>{{cite web |title=Burnley 0-3 Chelsea: Hakim Ziyech grabs first league goal in Blues win|url= https://www.bbc.co.uk/sport/football/54671336 |website=BBC Sport |date=31 October 2020}}</ref>
+
+As a result of his performances throughout the month, [[Thiago Silva]] was nominated for the [[Premier League Player of the Month]] award, which was eventually won by Tottenham Hotspur's [[Son Heung-min|Heung-min Son]], and Timo Werner's first goal against Southampton was nominated for Premier League Goal of the Month, but was instead given to [[West Ham United F.C.|West Ham United]]'s [[Manuel Lanzini]].<ref>{{cite web |title=October 2020's EA Sports Player of the Month shortlist|url= https://www.premierleague.com/news/1885087 |website=Premier League |date=7 November 2020}}</ref><ref>{{cite web |title=Son wins October 2020 EA Sports Player of the Month award|url= https://www.premierleague.com/news/1894987 |website=Premier League |date=13 November 2020}}</ref><ref>{{cite web |title=October 2020's Budweiser Goal of the Month contenders|url= https://www.premierleague.com/news/1885097 |website=Premier League |date=7 November 2020}}</ref><ref>{{cite web |title=Lanzini claims October 2020's Budweiser Goal of the Month award|url= https://www.premierleague.com/news/1894985 |website=Premier League |date=13 November 2020}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of October
+|res_col_header=Q
+
+|highest_pos = 2
+|team2=EVE|name_EVE=[[Everton F.C.|Everton]]
+|win_EVE=4|draw_EVE=1|loss_EVE=1|gf_EVE=13|ga_EVE=8
+|team3=WOL|name_WOL=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|win_WOL=4|draw_WOL=1|loss_WOL=2|gf_WOL=8|ga_WOL=8
+|team4=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=3|draw_CHL=3|loss_CHL=1|gf_CHL=16|ga_CHL=9
+|team5=AVL|name_AVL=[[Aston Villa F.C.|Aston Villa]]
+|win_AVL=4|draw_AVL=0|loss_AVL=1|gf_AVL=12|ga_AVL=5
+|team6=LEI|name_LEI=[[Leicester City F.C.|Leicester City]]
+|win_LEI=4|draw_LEI=0|loss_LEI=2|gf_LEI=13|ga_LEI=8
+
+|col_CLGS=green1|text_CLGS='''Qualification for the [[2021–22 UEFA Champions League#Group stage|Champions League group stage]]'''
+|result2=CLGS
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2021–22 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+=== November ===
+
+Chelsea begun November with a 3–0 home victory over [[Stade Rennais F.C.|Rennes]] in the Champions League, with the goals coming from two Timo Werner penalties and a Tammy Abraham strike.<ref>{{cite web |title=Chelsea 3-0 Rennes: Timo Werner scores twice from the penalty spot |url= https://www.bbc.co.uk/sport/football/54799447 |website=BBC Sport |date=4 November 2020}}</ref> Three days later, in Chelsea's last match before the November international break, Chelsea faced bottom of the league [[Sheffield United F.C.|Sheffield United]] at home, who had lost seven out of their first eight Premier League games this season. The match ended in a comfortable 4–1 win for the Blues, which saw Hakim Ziyech pick up two assists.<ref>{{cite web |title=Chelsea 4-1 Sheffield United: Comfortable win for Blues leaves Sheff Utd bottom |url= https://www.bbc.co.uk/sport/football/54758066 |website=BBC Sport |date=7 November 2020}}</ref>
+
+After the international break, Chelsea returned on 21 November to face [[Newcastle United F.C.|Newcastle United]] at [[St James' Park]]. Chelsea ran out 2–0 winners, with a [[Federico Fernández (footballer)|Federico Fernández]] [[own goal]] and a goal from Tammy Abraham sealing the win for Chelsea, marking the first time Chelsea were top of the Premier League under [[Frank Lampard]].<ref>{{cite web |title=Newcastle United 0-2 Chelsea: Frank Lampard's Blues make it five wins out of five |url= https://www.bbc.co.uk/sport/football/54941197 |website=BBC Sport |date=21 November 2020}}</ref> Chelsea won their sixth consecutive game in a row in their next match against Rennes in the Champions League, which saw Callum Hudson-Odoi and [[Olivier Giroud]] on the scoresheet in a 2–1 away victory, sealing qualification for the Champions League round of 16.<ref>{{cite web |title=Rennes 1-2 Chelsea: Blues seal early qualification to Champions League last 16|url= https://www.bbc.co.uk/sport/football/55047362 |website=BBC Sport |date=24 November 2020}}</ref> Chelsea next had inform London rivals Tottenham Hotspur to play at Stamford Bridge, who had already eliminated Chelsea from the EFL Cup back in September. The match ended in goalless 0–0 draw, which saw Tottenham ascend to the top of the league.<ref>{{cite web |title=Chelsea 0-0 Tottenham Hotspur: Spurs return to the top of the Premier League|url= https://www.bbc.co.uk/sport/football/55032761 |website=BBC Sport |date=29 November 2020}}</ref>
+
+Ben Chilwell's performances throughout November earned a nomination for the Premier League Player of the Month award, which was by Manchester United's [[Bruno Fernandes]], and Frank Lampard's managerial duties saw him nominated for [[Premier League Manager of the Month]], which was instead by Tottenham Hotspur's [[José Mourinho]].<ref>{{cite web |title=November 2020's EA Sports Player of the Month nominees |url= https://www.premierleague.com/news/1919105 |website=Premier League |date=5 December 2020}}</ref><ref>{{cite web |title=Fernandes wins November 2020's EA Sports Player of the Month |url= https://www.premierleague.com/news/1931610 |website=Premier League |date=11 December 2020}}</ref><ref>{{cite web |title=November 2020 Barclays Manager of the Month shortlist |url= https://www.premierleague.com/news/1919089 |website=Premier League |date=5 December 2020}}</ref><ref>{{cite web |title=Mourinho named November 2020 Barclays Manager of the Month |url= https://www.premierleague.com/news/1931855 |website=Premier League |date=11 December 2020}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of November
+|res_col_header=Q
+
+|highest_pos = 1
+|team1=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotpsur]]
+|win_TOT=6|draw_TOT=3|loss_TOT=1|gf_TOT=21|ga_TOT=9
+|team2=LIV|name_LIV=[[Liverpool F.C.|Liverpool]]
+|win_LIV=6|draw_LIV=3|loss_LIV=1|gf_LIV=17|ga_LIV=12
+|team3=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=5|draw_CHL=4|loss_CHL=1|gf_CHL=22|ga_CHL=10
+|team4=LEI|name_LEI=[[Leicester City F.C.|Leicester City]]
+|win_LEI=6|draw_LEI=0|loss_LEI=4|gf_LEI=19|ga_LEI=14
+|team5=WHU|name_WHU=[[West Ham United F.C.|West Ham United]]
+|win_WHU=5|draw_WHU=2|loss_WHU=3|gf_WHU=13|ga_WHU=7
+
+|col_CLGS=green1|text_CLGS='''Qualification for the [[2021–22 UEFA Champions League#Group stage|Champions League group stage]]'''
+|result1=CLGS
+|result2=CLGS
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2021–22 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+=== December ===
+
+Chelsea's first game of the busy December period was at Sevilla in the Champions League group stage. Frank Lampard's Blues ran out 4–0 winners, with Olivier Giroud scoring all four goals for Chelsea, ensuring that the Blues' top spot in their group was secured.<ref>{{cite web |title=Sevilla 0-4 Chelsea: Olivier Giroud scores four to put Blues top of group|url= https://www.bbc.co.uk/sport/football/55135784 |website=BBC Sport |date=2 December 2020}}</ref> On December 5, they welcomed [[Chelsea F.C.–Leeds United F.C. rivalry|bitter rivals]] [[Leeds United F.C.|Leeds United]] to Stamford Bridge, in Chelsea's first home game with 2,000 fans in attendance. Leeds took a shock lead just five minutes through [[Patrick Bamford]], but the Blues managed to equalise with an Olivier Giroud goal and defeated their rivals 3–1 to go top of the Premier League, with Kurt Zouma and Christian Pulisic also adding to the goals.<ref>{{cite web |title=Chelsea 3-1 Leeds United: Blues go top after comeback win in front of fans|url= https://www.bbc.co.uk/sport/football/55111848 |website=BBC Sport |date=5 December 2020}}</ref> Chelsea played out a 1–1 home draw three days later against Krasnodar, in their final group stage game of the Champions League.<ref>{{cite web |title=Chelsea 1-1 Krasnodar: Jorginho penalty earns Blues point|url= https://www.bbc.co.uk/sport/football/55219536 |website=BBC Sport |date=8 December 2020}}</ref>
+
+Next, Chelsea travelled to [[Goodison Park]] to play [[Everton F.C.|Everton]] on 12 December. The match ended in a 1–0 loss for Chelsea, their first away defeat of the season, putting an end to their 17-game unbeaten run and losing ground in the title race, with Tottenham and Liverpool both ahead of Chelsea, and with a game in hand.<ref>{{cite web |title=Everton 1-0 Chelsea: Gylfi Sigurdsson penalty gives hosts Goodison Park win |url= https://www.bbc.co.uk/sport/football/55197156 |website=BBC Sport |date=12 December 2020}}</ref> Chelsea then followed this up by losing again away to [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]], with a 95th-minute winner from [[Pedro Neto]] sealing a 2–1 win for Wolves.<ref>{{cite web |title=Wolverhampton Wanderers 2-1 Chelsea: Pedro Neto scores late winner for Wolves |url= https://www.bbc.co.uk/sport/football/55225714 |website=BBC Sport |date=15 December 2020}}</ref> Chelsea returned to winning ways in a 3–0 home victory against [[West Ham United F.C.|West Ham United]], with a header from Thiago Silva and a [[Brace (association football)|brace]] from Tammy Abraham sealing an emphatic victory.<ref>{{cite web |title=Chelsea 3-0 West Ham: Tammy Abraham scores twice in Blues win |url= https://www.bbc.co.uk/sport/football/55297949 |website=BBC Sport |date=21 December 2020}}</ref>
+
+On 26 December, Chelsea travelled to [[North London]] to play out-of-form [[Arsenal F.C.|Arsenal]] at the [[Emirates Stadium]]; Arsenal  were in 15th place and were winless in the last seven matches entering this game. The Gunners took a shock 2–0 lead at half-time, courtesy of an [[Alexandre Lacazette]] penalty and a [[Granit Xhaka]] free kick, before [[Bukayo Saka]] added to Arsenal's shock lead in the 56th minute. Tammy Abraham scored a consolation goal in the 85th minute, and Jorginho had a penalty saved in added time by [[Bernd Leno]], to ensure no comeback was to happen for the Blues, in a humiliating 3–1 defeat.<ref>{{cite web |title=Arsenal 3-1 Chelsea: Gunners end winless run in Premier League |url= https://www.bbc.co.uk/sport/football/55373755 |website=BBC Sport |date=26 December 2020}}</ref> Chelsea closed out 2020 with a 1–1 home draw against [[Aston Villa F.C.|Aston Villa]], with Olivier Giroud and [[Anwar El Ghazi]] scoring the only goals of the game.<ref>{{cite web |title=Chelsea 1-1 Aston Villa: Anwar El Ghazi earns point for visitors |url= https://www.bbc.co.uk/sport/football/55391050 |website=BBC Sport |date=28 December 2020}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of December
+|res_col_header=Q
+
+|highest_pos = 4
+|team4=EVE|name_EVE=[[Everton F.C.|Everton]]
+|win_EVE=9|draw_EVE=2|loss_EVE=4|gf_EVE=25|ga_EVE=18
+|team5=AVL|name_AVL=[[Aston Villa F.C.|Aston Villa]]
+|win_AVL=8|draw_AVL=2|loss_AVL=4|gf_AVL=28|ga_AVL=14
+|team6=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=7|draw_CHL=5|loss_CHL=4|gf_CHL=31|ga_CHL=18
+|team7=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotpsur]]
+|win_TOT=7|draw_TOT=5|loss_TOT=3|gf_TOT=26|ga_TOT=15
+|team8=MCI|name_MCI=[[Manchester City F.C.|Manchester City]]
+|win_MCI=7|draw_MCI=5|loss_MCI=2|gf_MCI=21|ga_MCI=12
+
+|col_CLGS=green1|text_CLGS=Qualification for the [[2021–22 UEFA Champions League#Group stage|Champions League group stage]]
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2021–22 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+=== January ===
+
+Chelsea's first match of 2021 was at home against [[Manchester City F.C.|Manchester City]] on 3 January. Chelsea struggled greatly throughout the game and were 3–0 down inside 34 minutes, with the goals coming from [[İlkay Gündoğan]], [[Phil Foden]], and former Chelsea man [[Kevin De Bruyne]]. Callum Hudson-Odoi scored a consolation goal in the 92nd minute, as the Blues suffered another embarrassing 3–1 defeat.<ref>{{cite web |title=Chelsea 1-3 Manchester City: Visitors up to fifth in ruthless display |url= https://www.bbc.co.uk/sport/football/55456856 |website=BBC Sport |date=3 January 2021}}</ref> The next week, Chelsea begun their quest for the [[2020–21 FA Cup|FA Cup]] after [[2020 FA Cup Final|coming up short the previous year]], starting off their journey with a comfortable 4–0 home victory against [[EFL League Two|League Two]] side [[Morecambe F.C.|Morecambe]] in the third round, with Mason Mount, Timo Werner, Callum Hudson-Odoi, and Kai Havertz finding the net for Chelsea.<ref>{{cite web |title=Chelsea 4-0 Morecambe: Timo Werner scores in FA Cup win |url= https://www.bbc.co.uk/sport/football/55575484 |website=BBC Sport |date=10 January 2021}}</ref>
+
+Chelsea then made a trip to [[Craven Cottage]] to take on [[West London derby|West London rivals]] [[Fulham F.C.|Fulham]]. The game saw Fulham fullback [[Antonee Robinson]] being shown a red card after a dangerous challenge on [[César Azpilicueta]]. Mason Mount managed to score the only goal of the match in the 78th minute, as Chelsea earned a hard-fought 1–0 win against their rivals.<ref>{{cite web |title=Fulham 0-1 Chelsea: Mason Mount goal settles London derby |url= https://www.bbc.co.uk/sport/football/55583120 |website=BBC Sport |date=16 January 2021}}</ref> Chelsea's next match was away at high-flying [[Leicester City F.C.|Leicester City]], who at this point were second in the league. Chelsea went on to lose this match 2–0, with first-half goals from [[Wilfred Ndidi]] and [[James Maddison]] piling more misery on the Blues' bad run of form.<ref>{{cite web |title=Leicester City 2-0 Chelsea: Leicester win to go top of Premier League |url= https://www.bbc.co.uk/sport/football/55627849 |website=BBC Sport |date=19 January 2021}}</ref> Frank Lampard's final game took place on 24 January, as Chelsea defeated [[Luton Town F.C.|Luton Town]] 3–1 in the FA Cup. However, this wasn't enough to save Lampard's job, as the very next day, Chelsea announced the sacking of Lampard after their poor run of form that included only two wins from their past eight league matches.<ref>{{cite web |title=Chelsea 3-1 Luton: Tammy Abraham hat-trick in FA Cup |url= https://www.bbc.co.uk/sport/football/55770051 |website=BBC Sport |date=24 January 2021}}</ref>
+
+The following day, it was announced that former [[Borussia Dortmund]] and [[Paris Saint-Germain F.C.|Paris Saint-Germain]] manager [[Thomas Tuchel]] would be replacing Lampard as the manager of Chelsea.<ref name="ESPNTuchel">{{cite web|url=https://www.espn.com/soccer/chelsea/story/4298088/chelsea-appoint-tuchel-to-replace-lampard-as-manager|title=Chelsea appoint Tuchel to replace Lampard as manager|website=ESPN|date=26 January 2021|access-date=27 January 2021}}</ref> Tuchel's first match in charge took place two days later, with Chelsea taking on [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] at Stamford Bridge. The match ended in a frustrating 0–0 stalemate, with Chelsea having 79% possession of the ball but were unable to find the net. Tuchel stated after the match that "we will build a team nobody wants to play against".<ref>{{cite web |title=Chelsea 0-0 Wolverhampton Wanderers: Thomas Tuchel suffers frustrating start |url= https://www.bbc.co.uk/sport/football/55728235 |website=BBC Sport |date=27 January 2021}}</ref> Chelsea's final match of the month was against [[Burnley F.C.|Burnley]] at home, which saw Tuchel claim his first win as Chelsea manager, as goals from César Azpilicueta and [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]] sealed a 2–0 victory for the Blues.<ref>{{cite web |title=Chelsea 2-0 Burnley: Thomas Tuchel records first win as boss |url= https://www.bbc.co.uk/sport/football/55769201 |website=BBC Sport |date=31 January 2021}}</ref> Alonso's strike against the Clarets earned him a nomination for the Premier League Goal of the Month award, eventually won by [[Liverpool F.C.|Liverpool]]'s [[Mohamed Salah]].<ref>{{cite web |title= January 2021's Budweiser Goal of the Month contenders |url= https://www.premierleague.com/news/2008340 |website=Premier League |date=5 February 2021}}</ref><ref>{{cite web |title= Salah wins January 2021 Budweiser Goal of the Month |url= https://www.premierleague.com/news/2021392 |website=Premier League |date=12 February 2021}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of January
+|res_col_header=Q
+
+|highest_pos = 5
+|team5=WHU|name_WHU=[[West Ham United F.C.|West Ham United]]
+|win_WHU=10|draw_WHU=5|loss_WHU=6|gf_WHU=31|ga_WHU=27
+|team6=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotpsur]]
+|win_TOT=9|draw_TOT=6|loss_TOT=5|gf_TOT=34|ga_TOT=21
+|team7=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=9|draw_CHL=6|loss_CHL=6|gf_CHL=35|ga_CHL=23
+|team8=EVE|name_EVE=[[Everton F.C.|Everton]]
+|win_EVE=10|draw_EVE=3|loss_EVE=6|gf_EVE=28|ga_EVE=23
+|team9=AVL|name_AVL=[[Aston Villa F.C.|Aston Villa]]
+|win_AVL=10|draw_AVL=2|loss_AVL=7|gf_AVL=34|ga_AVL=21
+
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2021–22 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+=== February ===
+
+Chelsea opened February with three consecutive away victories at [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and [[Sheffield United F.C.|Sheffield United]] in the league, and [[Barnsley F.C.|Barnsley]] in the FA Cup.<ref>{{cite web |title=Tottenham 0-1 Chelsea: Jorginho condemns Spurs to third Premier League loss in a row |url= https://www.bbc.co.uk/sport/football/55836547 |website=BBC Sport |date=4 February 2021}}</ref><ref>{{cite web |title=Sheffield United 1-2 Chelsea: Visitors maintain unbeaten start to Tuchel reign |url= https://www.bbc.co.uk/sport/football/55875681 |website=BBC Sport |date=7 February 2021}}</ref><ref>{{cite web |title=Barnsley 0-1 Chelsea: Tammy Abraham scores winner at Oakwell |url= https://www.bbc.co.uk/sport/football/55955768 |website=BBC Sport |date=11 February 2021}}</ref> On 15 February, Chelsea welcomed [[Newcastle United F.C.|Newcastle United]] to Stamford Bridge, with Chelsea winning 2–0 to claim their fifth victory in a row in all competitions, as Timo Werner ended his 14-game goal drought in the Premier League, dating back to November.<ref>{{cite web |title=Chelsea 2-0 Newcastle: Timo Werner ends goal drought in Blues win |url= https://www.bbc.co.uk/sport/football/55975612 |website=BBC Sport |date=15 February 2021}}</ref>
+
+Chelsea then took the trip to [[St Mary's Stadium]] to take on [[Southampton F.C.|Southampton]] on 20 February, who had lost their last six Premier League matches in a row, including a [[Manchester United F.C. 9–0 Southampton F.C.|9–0]] defeat at [[Manchester United F.C.|Manchester United]]. The Blues could only manage a 1–1 draw, with [[Takumi Minamino]] opening the scoring in the first half before Mason Mount equalised with a penalty in the second half.<ref>{{cite web |title=Southampton 1-1 Chelsea: Ralph Hassenhutl hopes Saints will kick on draw |url= https://www.bbc.co.uk/sport/football/56033661 |website=BBC Sport |date=20 February 2021}}</ref> Three days later, Chelsea travelled to Spain to play [[Atlético Madrid]] in the first leg of their Champions League [[2020–21 UEFA Champions League knockout phase|round of 16]] tie. Chelsea won the match 1–0, with an Olivier Giroud bicycle kick sealing the first leg win and a crucial away goal for Chelsea.<ref>{{cite web |title=Atletico Madrid 0-1 Chelsea: Olivier Giroud scores winner in Champions League last 16 first leg |url= https://www.bbc.co.uk/sport/football/56159008 |website=BBC Sport |date=23 February 2021}}</ref> Chelsea returned to Premier League action on 28 February, playing out a dull goalless stalemate against [[Manchester United F.C.|Manchester United]] at Stamford Bridge.<ref>{{cite web |title=Premier League: Chelsea 0-0 Manchester United – More VAR controversy in stalemate |url= https://www.bbc.co.uk/sport/football/56143444 |website=BBC Sport |date=28 February 2021}}</ref>
+
+Chelsea's league performances under Thomas Tuchel in February earned the German a nomination for the Premier League Manager of the Month award, which was won by [[Manchester City F.C.|Manchester City]]'s [[Pep Guardiola]].<ref>{{cite web |title=February 2021's Barclays Manager of the Month shortlist |url= https://www.premierleague.com/news/2050751 |website=Premier League |date=8 March 2021}}</ref><ref>{{cite web |title=Guardiola earns Man City double with February 2021 Barclays Manager award |url= https://www.premierleague.com/news/2061416 |website=Premier League |date=12 March 2021}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of February
+|res_col_header=Q
+
+|highest_pos = 3
+|team3=LEI|name_LEI=[[Leicester City F.C.|Leicester City]]
+|win_LEI=15|draw_LEI=4|loss_LEI=7|gf_LEI=45|ga_LEI=30
+|team4=WHU|name_WHU=[[West Ham United F.C.|West Ham United]]
+|win_WHU=13|draw_WHU=6|loss_WHU=7|gf_WHU=40|ga_WHU=31
+|team5=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=12|draw_CHL=8|loss_CHL=6|gf_CHL=41|ga_CHL=25
+|team6=LIV|name_LIV=[[Liverpool F.C.|Liverpool]]
+|win_LIV=12|draw_LIV=7|loss_LIV=7|gf_LIV=42|ga_LIV=29
+|team7=EVE|name_EVE=[[Everton F.C.|Everton]]
+|win_EVE=12|draw_EVE=4|loss_EVE=8|gf_EVE=36|ga_EVE=32
+
+|col_CLGS=green1|text_CLGS=Qualification for the [[2021–22 UEFA Champions League#Group stage|Champions League group stage]]
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS='''Qualification for the [[2021–22 UEFA Europa League#Group stage|Europa League group stage]]'''
+|result5=ELGS
+|update=complete|source=
+}}
+
+=== March ===
+
+Chelsea's first match of the month saw them take on [[Liverpool F.C.|Liverpool]] at [[Anfield]], who had lost their last four home games after going on a 68-game home unbeaten run between April 2017 and January 2021, the second-longest in league history, with the record belonging to Chelsea themselves after going unbeaten at home for 86 games between March 2004 and October 2008. Chelsea defeated the Reds 1–0, with a superb Mason Mount strike in the 42nd minute condemning Liverpool to their fifth home loss in a row, and Tuchel extending his unbeaten run to 10 games.<ref>{{cite web |title=Liverpool 0-1 Chelsea: Reds 'cannot rely on the past' – Andy Robertson |url= https://www.bbc.co.uk/sport/football/56191315 |website=BBC Sport |date=4 March 2021}}</ref> Next, Chelsea defeated [[Everton F.C.|Everton]] 2–0, with an own goal form [[Ben Godfrey]] and a Jorginho penalty sealing the victory for the Blues.<ref>{{cite web |title=Chelsea 2-0 Everton: Thomas Tuchel praises Kai Havertz as Blues strengthen top-four hopes |url= https://www.bbc.co.uk/sport/football/56234678 |website=BBC Sport |date=8 March 2021}}</ref>
+
+The Blues then travelled to [[Elland Road]] to play bitter rivals [[Leeds United F.C.|Leeds United]] on 13 March, which ended in a 0–0 draw.<ref>{{cite web |title=Leeds United 0-0 Chelsea: Thomas Tuchel's unbeaten run stretches to 12 games |url= https://www.bbc.co.uk/sport/football/56247499 |website=BBC Sport |date=13 March 2021}}</ref> Chelsea then played the second leg of their Champions League round of 16 tie against [[Atlético Madrid]], this time at home, with the Blues heading into the game with a 1–0 advantage and an away goal. Chelsea earned a 2–0 victory, with goals from Hakim Ziyech and [[Emerson Palmieri]] ensuring Chelsea's progression to the quarter finals of the Champions League, the first time they had done so since the [[2013–14 Chelsea F.C. season|2013–14 season]].<ref>{{cite web |title=Chelsea 2-0 Atletico Madrid (3-0 agg): Hosts reach Champions League last eight |url= https://www.bbc.co.uk/sport/football/56419713 |website=BBC Sport |date=17 March 2021}}</ref> The victory also meant that Tuchel became the first Chelsea manager to go unbeaten in his first 13 matches in charge of the club, surpassing the previous record of 12 held by [[Luiz Felipe Scolari]].<ref>{{cite web|url=https://www.90min.com/in/posts/12-games-unbeaten-thomas-tuchel-matches-luiz-felipe-scolari-and-jose-mourinho-s-chelsea-record-01f0qxbnbegh|title=12 Games Unbeaten: Thomas Tuchel Matches Luiz Felipe Scolari and Jose Mourinho's Chelsea Record|website=90 Min|date=14 March 2021|access-date=17 March 2021}}</ref> Chelsea followed this up by defeating [[Sheffield United F.C.|Sheffield United]] in the quarter finals of the FA Cup, sending the Blues through to the semi-finals.<ref>{{cite web |title=Chelsea 2-0 Sheffield United: Blues into FA Cup semi-finals after win at Stamford Bridge |url= https://www.bbc.co.uk/sport/football/56415023 |website=BBC Sport |date=21 March 2021}}</ref> Chelsea then went on a brief hiatus for the March international break.
+
+Chelsea were nominated for all three Premier League awards in March, with Andreas Christensen's defensive performances earning him a nomination for the Premier League Player of the Month award, and Mason Mount's goal against Liverpool also being nominated for Premier League Goal of the Month.<ref>{{cite web |title=March 2021's EA Sports Player of the Month contenders |url= https://www.premierleague.com/news/2075910 |website=Premier League |date=29 March 2021}}</ref><ref>{{cite web |title=Budweiser Goal of the Month shortlist for March 2021 |url= https://www.premierleague.com/news/2075913 |website=Premier League |date=29 March 2021}}</ref> Thomas Tuchel was nominated for the Premier League Manager of the Month award for the second consecutive month, this time being honoured with the award.<ref>{{cite web |url=https://www.premierleague.com/news/2080145|title=Tuchel claims Barclays Manager of the Month award |website=Premier League |date=2 April 2021 |access-date=2 April 2021}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of March
+|res_col_header=Q
+
+|highest_pos = 2
+|team2=MUN|name_MUN=[[Manchester United F.C.|Manchester United]]
+|win_MUN=16|draw_MUN=9|loss_MUN=4|gf_MUN=56|ga_MUN=32
+|team3=LEI|name_LEI=[[Leicester City F.C.|Leicester City]]
+|win_LEI=17|draw_LEI=5|loss_LEI=7|gf_LEI=53|ga_LEI=32
+|team4=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=14|draw_CHL=9|loss_CHL=6|gf_CHL=44|ga_CHL=25
+|team5=WHU|name_WHU=[[West Ham United F.C.|West Ham United]]
+|win_WHU=14|draw_WHU=7|loss_WHU=8|gf_WHU=45|ga_WHU=35
+|team6=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|win_TOT=14|draw_TOT=6|loss_TOT=9|gf_TOT=49|ga_TOT=30
+
+|col_CLGS=green1|text_CLGS='''Qualification for the [[2021–22 UEFA Champions League#Group stage|Champions League group stage]]'''
+|result2=CLGS
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2021–22 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+=== April ===
+
+Chelsea's first match after the international break saw them welcome relegation-fighting [[West Bromwich Albion F.C.|West Bromwich Albion]] to Stamford Bridge. Christian Pulisic gave Chelsea the lead 27 minutes in but just two minutes later, Thiago Silva was sent off after receiving a second yellow card. The Blues found themselves 2–1 down at half-time via a stoppage-time brace from [[Matheus Pereira (footballer, born 1996)|Matheus Pereira]]. Goals from [[Callum Robinson]] and [[Mbaye Diagne (footballer)|Mbaye Diagne]] gave the Baggies a shocking 4–1 lead. Mason Mount managed to pull one back for Chelsea, but another goal from Callum Robinson in added time capped off an embarrassing 2–5 defeat for Chelsea, ending Thomas Tuchel's 14-game unbeaten streak as manager. It was the first time Chelsea had conceded 5 goals at home since a 3–5 defeat against [[Arsenal F.C.|Arsenal]] in [[2011–12 Chelsea F.C. season|2011]], and was also the first time they had lost to West Bromwich Albion at Stamford Bridge since 1978.<ref>{{cite news|url=https://www.theguardian.com/football/live/2021/apr/03/chelsea-v-west-brom-premier-league-live|last=Glendenning|first=Barry|title=Chelsea 2-5 West Brom: Premier League – as it happened|work=The Guardian|date=3 April 2021|access-date=3 April 2021}}</ref> Chelsea bounced back from the humiliation in their next game, which was the first leg of their Champions League quarter final tie against [[FC Porto|Porto]] away, which saw a fine Mason Mount strike and a late Ben Chilwell goal give Chelsea a 2–0 victory with two crucial away goals.<ref>{{cite web |title=Porto 0-2 Chelsea: Mason Mount scores his first Champions League goal |url= https://www.bbc.co.uk/sport/football/56653905 |website=BBC Sport |date=7 April 2021}}</ref>
+
+Chelsea then travelled to [[South London]] to take on [[Crystal Palace F.C.|Crystal Palace]] away on 10 April. Goals from Kai Havertz, Kurt Zouma and a brace from Christian Pulisic saw Chelsea run out 4–1 winners, the first time they had scored more than two goals under Tuchel.<ref>{{cite web |title=Crystal Palace 1-4 Chelsea: Tuchel demands more from Havertz as Blues return to top four |url= https://www.bbc.co.uk/sport/football/56622156 |website=BBC Sport |date=10 April 2021}}</ref> The Blues then played Porto in the second leg of the Champions League quarter finals, heading into the game with a 2–0 advantage and two away goals. Chelsea were defeated 1–0 thanks to a late [[Mehdi Taremi]] overhead kick, but did enough to make it through to the Champions League semi-finals, winning 2–1 on aggregate.<ref>{{cite web |title=Champions League quarter-finals: Chelsea 0-1 Porto |url= https://www.bbc.co.uk/sport/football/56721849 |website=BBC Sport |date=13 April 2021}}</ref> Four days later, Chelsea defeated [[Manchester City F.C.|Manchester City]] in the FA Cup semi-finals, with Hakim Ziyech scoring the winner to help Chelsea advance to the [[2021 FA Cup Final|FA Cup Final]] for the second consecutive year.<ref>{{Cite news|last=Murray|first=Scott|date=17 April 2021|title=Chelsea 1-0 Manchester City: FA Cup semi-final – as it happened|work=The Guardian|url=https://www.theguardian.com/football/live/2021/apr/17/chelsea-v-manchester-city-fa-cup-semi-final-live|access-date=17 April 2021}}</ref>
+
+On 18 April, it was announced that Chelsea would be a founding member of the newly formed [[European Super League]], a proposed annual club football competition to be contested by twenty of Europe's most elite football clubs.<ref name="announcement">{{Cite press release |title=Leading European football clubs announce new Super League competition |date=18 April 2021 |url=https://thesuperleague.com/press.html|access-date=18 April 2021 |work=The Super League}}</ref> On 20 April, after two days of widespread backlash from the United Kingdom government including Prime Minister [[Boris Johnson]], [[FIFA]], [[UEFA]], the [[The Football Association|FA]], other Premier League clubs, supporters, players, and broadcasters, and after Chairman [[Bruce Buck]] met with players, Chelsea announced their intention to withdraw from the competition.<ref>{{cite web|title=Chelsea to withdraw from European Super League|url=https://www.nytimes.com/athletic/4216756/2021/04/20/chelsea-to-withdraw-from-european-super-league/|website=theathletic.com|date=21 April 2021|access-date=21 April 2021}}</ref>  This led to the five other English clubs all pulling out later that night.<ref>{{cite web|url=https://www.bbc.com/sport/football/56823501#:~:text=Manchester%20City%20were%20the%20first,have%20all%20now%20followed%20suit.|title=European Super League: All six Premier League teams withdraw from competition|website=BBC|date=21 April 2021|access-date=21 April 2021}}</ref> By 21 April, the Super League announced it was suspending its operations.<ref>{{Cite web|date=21 April 2021|title=Super League suspended: Why English clubs pulled out, and what's next for them and UEFA|url=https://www.espn.com/soccer/blog-marcottis-musings/story/4365465/super-league-suspended-why-english-clubs-pulled-outwhats-next-for-them-and-uefa|access-date=21 April 2021|website=ESPN.com|language=en}}</ref>
+
+On 20 April, Chelsea played out a 0–0 home draw against [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]], losing some ground in the top four race.<ref>{{cite web |title=Chelsea 0-0 Brighton & Hove Albion: Hosts held on dramatic night for European football |url= https://www.bbc.co.uk/sport/football/56728001 |website=BBC Sport |date=20 April 2021}}</ref> Four days later, the Blues defeated [[West Ham United F.C.|West Ham United]] 1–0 away, with a Timo Werner goal sealing the win for Chelsea. Chelsea's final match of April was against [[Real Madrid F.C.|Real Madrid]] away in the first leg of the Champions League semi-finals. Chelsea took the lead through Christian Pulisic, but [[Karim Benzema]] equalised for Real Madrid later in the first half, as the match ended in a 1–1 draw, with Chelsea entering the second leg at home a crucial away goal.<ref>{{cite web |title=Karim Benzema earns Real Madrid draw against Chelsea |url= https://www.bbc.co.uk/sport/football/56880436 |website=BBC Sport |date=27 April 2021}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of April
+|res_col_header=Q
+
+|highest_pos = 2
+|team2=MUN|name_MUN=[[Manchester United F.C.|Manchester United]]
+|win_MUN=19|draw_MUN=10|loss_MUN=4|gf_MUN=64|ga_MUN=35
+|team3=LEI|name_LEI=[[Leicester City F.C.|Leicester City]]
+|win_LEI=19|draw_LEI=6|loss_LEI=9|gf_LEI=61|ga_LEI=39
+|team4=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=16|draw_CHL=10|loss_CHL=7|gf_CHL=51|ga_CHL=31
+|team5=WHU|name_WHU=[[West Ham United F.C.|West Ham United]]
+|win_WHU=16|draw_WHU=7|loss_WHU=10|gf_WHU=53|ga_WHU=43
+|team6=LIV|name_LIV=[[Liverpool F.C.|Liverpool]]
+|win_LIV=15|draw_LIV=9|loss_LIV=9|gf_LIV=50|ga_LIV=34
+
+|col_CLGS=green1|text_CLGS='''Qualification for the [[2021–22 UEFA Champions League#Group stage|Champions League group stage]]'''
+|result2=CLGS
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2021–22 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|col_ECLPOR=yellow1|text_ECLPOR=Qualification for the [[2021–22 UEFA Europa Conference League#Play-off round|Europa Conference League play-off round]]
+|result6=ECLPOR
+|update=complete|source=
+}}
+
+=== May ===
+
+Chelsea's first fixture of May saw them defeat West London rivals [[Fulham F.C.|Fulham]] 2–0, thanks to a brace from Kai Havertz.<ref>{{cite web |title=Chelsea 2-0 Fulham: Kai Havertz double sends Cottagers closer to drop |url= https://www.bbc.co.uk/sport/football/56869465 |website=BBC Sport |date=1 May 2021}}</ref> On 5 May, Chelsea welcomed [[Real Madrid CF|Real Madrid]] to Stamford Bridge for the second leg of their semi-final, with the score being level at 1–1 and Chelsea heading into the match with an away goal. Timo Werner gave Chelsea the lead in the 28th minute, before a late tap-in from Mason Mount booked Chelsea their place in the [[2021 UEFA Champions League final|Champions League Final]] in [[Istanbul]].<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0269-1234c3a15e7c-42c644e8c262-1000--chelsea-2-0-real-madrid-hosts-cruise-into-third-final/|title=Chelsea 2-0 Real Madrid: Hosts cruise into third final|website=UEFA|date=5 May 2021}}</ref> Their win set up an all-English affair after [[Manchester City F.C.|Manchester City]] had secured their maiden appearance in the final the day before, defeating [[Paris Saint-Germain F.C.|Paris Saint-Germain]] over two legs.<ref>{{cite web|url=https://www.theguardian.com/football/2021/may/05/chelsea-real-madrid-champions-league-semi-final-second-leg-match-report|title=Chelsea power past Real Madrid to set up all-English Champions League final|website=The Guardian|date=5 May 2021}}</ref>
+
+Chelsea's next match in the Premier League was against their Champions League final opponents, Manchester City, at the [[City of Manchester Stadium]]. [[Raheem Sterling]] scored first for the Citizens 44 minutes in, with [[Sergio Agüero]] having a penalty saved by [[Édouard Mendy]] just before half-time. Hakim Ziyech scored the equaliser for the Blues in the 63rd minute, before a stoppage-time goal from Marcos Alonso saw Chelsea run out 2–1 winners, as Thomas Tuchel made it two consecutive victories against [[Pep Guardiola]].<ref>{{cite web |title=Manchester City 1-2 Chelsea: Aguero misses penalty as Chelsea make City wait for Premier League title |url= https://www.bbc.co.uk/sport/football/56953530 |website=BBC Sport |date=8 May 2021}}</ref> Next, Chelsea took on ninth-placed [[Arsenal F.C.|Arsenal]] at home, with [[Mikel Arteta]]'s Gunners already enduring a [[2020–21 Arsenal F.C. season|poor season]]. Chelsea were shockingly defeated 1–0, with a poor back pass from Jorginho allowing [[Emile Smith Rowe]] to score the winner for Arsenal, with Christian Pulisic also having a goal disallowed by [[Video assistant referee|VAR]] due to a handball. This was the first time had Chelsea had lost to Arsenal at home in nearly a decade, since a 3–5 defeat in October 2011.<ref>{{cite web |title=Chelsea 0-1 Arsenal: Blues boss Thomas Tuchel accepts responsibility for loss|url= https://www.bbc.co.uk/sport/football/56990160 |website=BBC Sport |date=12 May 2021}}</ref>
+
+On 15 May, Chelsea faced [[Leicester City F.C.|Leicester City]] in the [[2021 FA Cup final|FA Cup Final]], which was Chelsea's first chance of winning silverware this season. It was a frustrating game for Tuchel's Blues, as they were denied by [[Kasper Schmeichel]] multiple times throughout the game, with a [[Youri Tielemans]] stunner in the 63rd minute putting Leicester 1–0 up. Chelsea thought they had found their equaliser through Ben Chilwell in the 88th minute, but was ruled out by VAR for offside, as the Foxes won their first ever FA Cup and Chelsea had lost the FA Cup Final for the second straight year.<ref>{{cite web |title=Chelsea 0-1 Leicester City: Foxes list FA Cup for first time after Youri Tielemans stunner |url= https://www.bbc.co.uk/sport/football/57055571 |website=BBC Sport |date=15 May 2021}}</ref> Chelsea had an immediate rematch against Leicester City three days later in the Premier League, with goals from [[Antonio Rüdiger]] and Jorginho giving Chelsea a 2–1 victory and strengthening their top four hopes, while leaving Leicester's Champions League hopes in danger.<ref>{{cite web |title=Chelsea 2-1 Leicester City: Blues beat Foxes in crucial top-four showdown |url= https://www.bbc.co.uk/sport/football/57066729 |website=BBC Sport |date=18 May 2021}}</ref> Chelsea's final Premier League match of the season saw them travel to [[Birmingham]] to face [[Aston Villa F.C.|Aston Villa]], on 23 May. Chelsea would go on to lose 2–1, but still finished fourth and secured their place in [[2021–22 UEFA Champions League|next season's Champions League]], as elsewhere, Leicester City lost to [[Tottenham Hotspur F.C.|Tottenham Hotspur]].<ref>{{cite web |url=https://www.theguardian.com/football/2021/may/23/aston-villa-chelsea-premier-league-match-report|title=Chelsea qualify for Champions League despite stumbling at Aston Villa|website=The Guardian|date=23 May 2021|access-date=24 May 2021}}</ref>
+
+On 29 May, Chelsea faced [[Manchester City F.C.|Manchester City]] in the [[2021 UEFA Champions League final|Champions League Final]]. It was the third time in Chelsea's 116-year history that they had competed in the [[Champions League final]], losing against [[Manchester United F.C.|Manchester United]] in [[2008 UEFA Champions League final|2008]] and defeating [[FC Bayern Munich|Bayern Munich]] in [[2012 UEFA Champions League final|2012]]. Chelsea went into the match as the underdogs, similarly to 2012, and defeated Manchester City 1–0 to win the Champions League, with Kai Havertz's goal in the first-half goal sealing Chelsea's second Champions League title. Chelsea became the third English club to win the Champions League multiple times, after [[Liverpool F.C.|Liverpool]] ([[2005 UEFA Champions League final|2005]], [[2019 UEFA Champions League final|2019]]) and Manchester United ([[1999 UEFA Champions League final|1999]], [[2008 UEFA Champions League final|2008]]).<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0269-12650cedca55-37515f69768e-1000/ |title=Man. City 0–1 Chelsea: Havertz gives Blues second Champions League triumph |website=[[UEFA]] |publisher=Union of European Football Associations |date=29 May 2021 |access-date=29 May 2021}}</ref>
+
+====Final league position====
+{{:2020–21 Premier League|showteam=CHE}}
+
+==Management team==
+{| class="wikitable" style="text-align:center;width:50%;"
+|-
+! style=background:#034694;color:#FFFFFF| Position
+! style=background:#034694;color:#FFFFFF| Name
+|-
+| Head coach
+|align=left| {{flagicon|GER}} [[Thomas Tuchel]]
+|-
+| Assistant head coach
+|align=left| {{flagicon|DE}} Arno Michels
+|-
+|rowspan=3| Assistant coaches
+|align=left| {{flagicon|HUN}} [[Zsolt Lőw]]
+|-
+|align=left| {{flagicon|ENG}} [[Anthony Barry (footballer)|Anthony Barry]]
+|-
+|align=left| {{flagicon|ENG}} [[Joe Edwards (football manager)|Joe Edwards]]
+|-
+| Goalkeeper coach
+|align=left| {{flagicon|POR}} [[Henrique Hilário]]
+|-
+| Assistant goalkeeper coach
+|align=left| {{flagicon|ENG}} James Russell
+|-
+| Loan Player Technical Coach
+|align=left| {{flagicon|ITA}} [[Carlo Cudicini]]
+|}
+
+==Players==
+===Squad information===
+<small>Players and squad numbers last updated on 29 May 2021. Appearances include all competitions.<ref>{{cite web|title=First Team: Men|url=https://www.chelseafc.com/en/teams/first-team?pageTab=players|date=2 December 2020|access-date=6 January 2021}}</ref></small><br /><small>Note: Flags indicate national team as has been defined under [[FIFA eligibility rules]]. Players may hold more than one non-FIFA nationality.</small>
+{| class="wikitable sortable" style="text-align:left; font-size:90%; width:100%;"
+|-
+!style="background:#034694; color:white; text-align:center;"| No.
+!style="background:#034694; color:white; text-align:center;"| Name
+!style="background:#034694; color:white; text-align:center;"| Nat
+!style="background:#034694; color:white; text-align:center;"| Position(s)
+!style="background:#034694; color:white; text-align:center;"| Date of birth (age)
+!style="background:#034694; color:white; text-align:center;"| Signed in
+!style="background:#034694; color:white; text-align:center;"| Contract ends
+!style="background:#034694; color:white; text-align:center;"| Signed from
+!style="background:#034694; color:white; text-align:center;"| Transfer Fee
+!style="background:#034694; color:white; text-align:center;"| Apps.
+!style="background:#034694; color:white; text-align:center;"| Goals
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"| Goalkeepers
+|-
+| 1
+| [[Kepa Arrizabalaga]]
+| {{flagicon|ESP}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|df=yes|2021|06|30|1994|10|3}}
+| 2018
+| 2025<ref>{{cite web|url=https://www.athletic-club.eus/en/noticias/19263/kepa-pays-termination-clause.html|title=Kepa pays termination clause|publisher=Athletic Bilbao|date=8 August 2018|access-date=8 August 2018|archive-date=8 August 2018|archive-url=https://web.archive.org/web/20180808172052/https://www.athletic-club.eus/en/noticias/19263/kepa-pays-termination-clause.html|url-status=dead}}</ref>
+| {{flagicon|ESP}} [[Athletic Bilbao]]
+| £71.5M<ref>{{cite news|url=https://www.theguardian.com/football/2018/aug/07/chelsea-kepa-arrizabalaga-athletic-bilbao-record|title=Chelsea to pay £71.6m for Athletic Bilbao goalkeeper Kepa Arrizabalaga|newspaper=[[The Guardian]]|first=Dominic|last=Fifield|date=7 August 2018|access-date=14 August 2018}}</ref>
+| 109
+| 0
+|-
+| 13
+| [[Willy Caballero]]
+| {{flagicon|ARG}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|df=yes|2021|06|30|1981|9|28}}
+| 2017
+| 2021<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/52728657|title=Willy Caballero: Chelsea goalkeeper extends contract by a year|first=Alistair|last=Magowan|date=2020-05-19|website=BBC|access-date=2020-05-19}}</ref>
+| {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|Free<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/40466921|title=Willy Caballero: Chelsea sign former Manchester City goalkeeper|website=BBC Sport|date=1 July 2017|access-date=1 July 2017}}</ref>
+| 38
+| 0
+|-
+| 16
+| [[Édouard Mendy]]
+| {{flagicon|SEN}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|df=yes|2021|06|30|1992|3|1}}
+| 2020
+| 2025<ref>{{Cite web|title=Chelsea transfer news: Edouard Mendy makes Chelsea move|url=https://www.chelseafc.com/en/news/2020/09/24/mendy-makes-chelsea-move |publisher=Chelsea F.C. |access-date=24 September 2020}}</ref>
+| {{flagicon|FRA}} [[Stade Rennais F.C.|Rennes]]
+|£22M<ref>{{Cite news |url=https://www.skysports.com/football/news/11668/12068937/edouard-mendy-chelsea-sign-goalkeeper-from-rennes-for-22m-on-five-year-deal |title=Chelsea sign goalkeeper from Rennes for £22m on five-year deal |date=24 September 2020 |website=Sky Sports |access-date=24 September 2020}}</ref>
+| 44
+| 0
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"|Defenders
+|-
+| 2
+| [[Antonio Rüdiger]]
+| {{flagicon|GER}}
+| [[Centre back|CB]]
+| {{Birth date and age2|df=yes|2021|06|30|1993|3|3}}
+| 2017
+| 2022<ref>{{cite web | url = https://weaintgotnohistory.sbnation.com/2017/7/9/15943710/chelsea-confirm-antonio-rudiger-shirt-number| title = Antonio Rüdiger inherits Chelsea legend's shirt number | website = sbnation.com | date = 9 July 2017 | access-date = 13 August 2017 | first = David | last = Pasztor}}</ref>
+| {{flagicon|ITA}} [[A.S. Roma|Roma]]
+| £29M<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/40550502|title=Antonio Rudiger: Chelsea sign Roma defender for a reported initial fee of £29m| date = 9 July 2017 | access-date = 9 July 2017 | website = BBC Sport}}</ref>
+| 149
+| 7
+|-
+| 3
+| [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+| {{flagicon|ESP}}
+| [[Left wing-back|LWB]] / [[Left back (association football)|LB]]
+| {{Birth date and age2|df=yes|2021|06|30|1990|12|28}}
+| 2016
+| 2023<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/45963595|title=Marcos Alonso: Chelsea defender signs new contract until 2023|publisher=BBC Sport|date=24 October 2018}}</ref>
+| {{flagicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+| £24M<ref>{{cite web|url=https://www.chelseafc.com/news/latest-news/2016/08/alonso-signs.html|title=Alonso signs|publisher=Chelsea F.C|date=31 August 2016|access-date=31 August 2016}}</ref>
+| 166
+| 24
+|-
+| 4
+| [[Andreas Christensen]]
+| {{flagicon|DEN}}
+| [[Centre back|CB]]
+| {{Birth date and age2|df=yes|2021|06|30|1996|4|10}}
+| 2013
+| 2022<ref name="Andreas Christensen: Chelsea defender signs new contract">{{cite web|url=https://www.bbc.co.uk/sport/football/42629118|title=Andreas Christensen: Chelsea defender signs new contract|publisher=BBC Sport|date=9 January 2018}}</ref>
+| {{flagicon|ENG}} [[Chelsea F.C. Under-23s and Academy|Chelsea Academy]]
+| N/A
+| 127
+| 0
+|-
+| 6
+| [[Thiago Silva]] (''[[Captain (association football)|3rd captain]]'')
+| {{flagicon|BRA}}
+| [[Centre back|CB]]
+| {{Birth date and age2|df=yes|2021|06|30|1984|9|22}}
+| 2020
+| 2022<ref>{{cite web|url=https://www.chelseafc.com/en/news/2020/08/28/thiago-silva-moves-from-paris-to-london|title=Thiago Silva moves from Paris to London|publisher=Chelsea F.C.|date=28 August 2020|access-date=25 April 2021}}</ref>
+| {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| Free<ref>{{cite news |url=https://www.skysports.com/football/news/11668/12055492/thiago-silva-chelsea-sign-former-paris-saint-germain-defender-on-one-year-deal |title=Thiago Silva: Chelsea sign former Paris Saint-Germain defender on initial one-year deal |website=Sky Sports |date=28 August 2020 |access-date=25 April 2021}}</ref>
+| 34
+| 2
+|-
+| 15
+| [[Kurt Zouma]]
+| {{flagicon|FRA}}
+| [[Centre back|CB]]
+| {{Birth date and age2|df=yes|2021|06|30|1994|10|24}}
+| 2014
+| 2023<ref>{{cite magazine|url=https://www.si.com/soccer/chelsea/news/chelsea-set-to-open-contract-talks-with-kurt-zouma|title=Chelsea to open talks with defender Kurt Zouma over new contract at club|magazine=Sports Illustrated|date=12 November 2020}}</ref>
+| {{flagicon|FRA}} [[AS Saint-Étienne|Saint-Étienne]]
+| £12M<ref>{{cite news|title=Transfer Deadline Day: Kurt Zouma joins Chelsea for £12m|url=https://www.bbc.co.uk/sport/football/25973862|access-date=29 January 2015|website=BBC Sport|date=31 January 2014}}</ref>
+| 150
+| 10
+|-
+| 21
+| [[Ben Chilwell]]
+| {{flagicon|ENG}}
+| [[Left back (association football)|LB]] / [[Left wing-back|LWB]]
+| {{Birth date and age2|df=yes|2021|06|30|1996|12|21}}
+| 2020
+| 2025<ref>{{cite web |url=https://www.lcfc.com/news/1781886/leicester-city-confirm-transfer-of-ben-chilwell-to-chelsea/press-release |title=Leicester City Confirm Transfer Of Ben Chilwell To Chelsea |publisher=Leicester City F.C. |date=26 August 2020 |access-date=15 September 2020}}</ref>
+| {{flagicon|ENG}} [[Leicester City F.C.|Leicester City]]
+|£45M<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/53913585 |title=Ben Chilwell: Chelsea sign Leicester defender on five-year deal for £45m |website=BBC Sport |date=26 August 2020 |access-date=15 September 2020}}</ref>
+| 42
+| 4
+|-
+| 24
+| [[Reece James (footballer, born 1999)|Reece James]]
+| {{flagicon|ENG}}
+| [[Right back (association football)|RB]] / [[Right wing-back|RWB]]
+| {{Birth date and age2|df=yes|2021|06|30|1999|12|8}}
+| 2018
+| 2025<ref>{{cite web|url=https://www.chelseafc.com/en/news/2020/01/16/reece-james-agrees-new-long-term-chelsea-deal|title=Reece James agrees new long-term Chelsea deal|publisher=Chelsea F.C.|date=16 January 2020}}</ref>
+|{{flagicon|ENG}} [[Chelsea F.C. Under-23s and Academy|Chelsea Academy]]
+|N/A
+| 84
+| 3
+|-
+| 28
+| [[César Azpilicueta]] (''[[Captain (association football)|captain]]'')
+| {{flagicon|ESP}}
+| [[Right back (association football)|RB]] / [[Centre back|CB]] / [[Left back (association football)|LB]]
+| {{Birth date and age2|df=yes|2021|06|30|1989|8|29}}
+| 2012
+| 2022<ref>{{cite web|url=https://www.independent.co.uk/sport/football/premier-league/chelsea-news-cesar-azpilicueta-contracts-new-deal-four-year-trophies-captain-premier-league-a8666026.html|title=Cesar Azpilicueta signs new four-year Chelsea deal to 'keep the club where it belongs'|publisher=Independent|date=4 December 2018}}</ref>
+| {{flagicon|FRA}} [[Olympique de Marseille|Marseille]]
+| £7M<ref>{{cite web|url=http://www.chelseafc.com/news-article/article/2898781|title=Azpilicueta signs|publisher=Chelsea F.C.|date=24 August 2012|access-date=24 August 2012|url-status=dead|archive-url=https://web.archive.org/web/20120830171700/http://www.chelseafc.com/news-article/article/2898781|archive-date=30 August 2012}}</ref>
+| 429
+| 14
+|-
+| 33
+| [[Emerson Palmieri|Emerson]]
+| {{flagicon|ITA}}
+| [[Left back (association football)|LB]] / [[Left wing-back|LWB]]
+| {{Birth date and age2|df=yes|2021|06|30|1994|8|3}}
+| 2018
+| 2022<ref>{{Cite press release |title=Emerson signs |url=http://www.chelseafc.com/news/latest-news/2018/01/emerson-signs.html |publisher=Chelsea F.C. |date=30 January 2018 |access-date=30 January 2018}}</ref>
+| {{flagicon|ITA}} [[AS Roma|Roma]]
+| £18M<ref>{{cite press release |url=http://res.cloudinary.com/as-roma-turbine-production/image/upload/v1517341589/asroma-uat/sxgb3ihl4t9mb0p9ulvy.pdf |title=Operazioni di mercato Emerson Palmieri |date=30 January 2018 |access-date=31 January 2018 |publisher=A.S. Roma |location=Rome |language=it |archive-date=31 January 2018 |archive-url=https://web.archive.org/web/20180131140852/http://res.cloudinary.com/as-roma-turbine-production/image/upload/v1517341589/asroma-uat/sxgb3ihl4t9mb0p9ulvy.pdf |url-status=dead }}</ref>
+| 70
+| 2
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"| Midfielders
+|-
+| 5
+| [[Jorginho (footballer, born December 1991)|Jorginho]] (''[[Captain (association football)|vice-captain]]'')
+| {{flagicon|ITA}}
+| [[Central midfielder|CM]] / [[Defensive midfielder|DM]]
+| {{Birth date and age2|df=yes|2021|06|30|1991|12|20}}
+| 2018
+| 2023<ref>{{Cite news|url=https://www.bbc.com/sport/football/44430551|title=Jorginho: Napoli midfielder joins Chelsea on five-year deal|date=14 July 2018|work=BBC Sport|access-date=14 July 2018|language=en-GB}}</ref>
+| {{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+|£50M<ref>{{Cite news|url=https://www.chelseafc.com/en/news/2018/7/14/jorginho-becomes-a-blue|title=Jorginho becomes a Blue|publisher=Chelsea F.C.|access-date=14 July 2018}}</ref>
+| 141
+| 17
+|-
+| 7
+| [[N'Golo Kanté]] (''[[Captain (association football)|4th captain]]'')
+| {{flagicon|FRA}}
+| [[Central midfielder|CM]] / [[Defensive midfielder|DM]]
+| {{Birth date and age2|df=yes|2021|06|30|1991|3|21}}
+| 2016
+| 2023<ref>{{cite news |url=https://www.theguardian.com/football/2018/nov/23/chelsea-ngolo-kante-signs-new-contract-five-years |title=Sarri hopes Hazard will follow Kanté's lead and sign new Chelsea deal |newspaper=The Guardian |first1=Dominic |last1=Fifield |date=23 November 2018 |access-date=23 November 2018}}</ref>
+| {{flagicon|ENG}} [[Leicester City F.C.|Leicester City]]
+|£32M<ref>{{cite news |title=Kante Signs |url=http://www.chelseafc.com/news/latest-news/2016/07/kante-signs.html |access-date=16 July 2016 |publisher=Chelsea F.C. |date=16 July 2016}}</ref>
+| 218
+| 11
+|-
+| 17
+| [[Mateo Kovačić]]
+| {{flagicon|CRO}}
+| [[Central Midfielder|CM]]
+| {{Birth date and age2|df=yes|2021|06|30|1994|5|6}}
+| 2018
+| 2024<ref>{{cite web|url=https://www.chelseafc.com/en/news/2019/07/01/mateo-kovacic-joins-chelsea-on-a-permanent-deal|title=Mateo Kovacic joins Chelsea on a permanent deal|date=1 July 2019|work=chelseafc.com}}</ref>
+| {{flagicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| £45M<ref>{{cite web|url=https://www.realmadrid.com/en/news/2019/07/official-announcement-kovacic|title=Official Announcement: Kovacic|date=1 July 2019|work=realmadrid.com}}</ref>
+| 140
+| 2
+|-
+| 19
+| [[Mason Mount]] (''[[Captain (association football)|5th captain]]'')
+| {{flagicon|ENG}}
+| [[Central midfielder|CM]] / [[Midfielder#Attacking midfielder|AM]] / [[Striker (association football)|CF]] / [[Winger (association football)|LW]]
+| {{Birth date and age2|df=yes|2021|06|30|1999|1|10}}
+| 2017
+| 2024<ref>{{cite web |url=https://www.chelseafc.com/en/news/2019/07/15/mason-mount-commits-to-chelsea-with-new-contract-signed |title=Mason Mount commits to Chelsea with new contract signed |publisher=Chelsea F.C. |date=15 July 2019 |access-date=16 July 2019}}</ref>
+|{{flagicon|ENG}} [[Chelsea F.C. Under-23s and Academy|Chelsea Academy]]
+|N/A
+| 107
+| 17
+|-
+| 22
+| [[Hakim Ziyech]]
+| {{flagicon|MAR}}
+| [[Midfielder#Attacking midfielder|AM]] / [[Forward (association football)#Winger|RW]]
+| {{Birth date and age2|df=yes|2021|06|30|1993|3|19}}
+| 2020
+| 2025<ref>{{cite web |last1=Shread |first1=Joe |title=Hakim Ziyech signs five-year Chelsea deal ahead of summer move|url=https://www.skysports.com/football/news/11668/11941864/hakim-ziyech-signs-five-year-chelsea-deal-ahead-of-summer-move |website=Sky Sports|date=24 February 2020|access-date=24 February 2020}}</ref>
+| {{flagicon|NED}} [[AFC Ajax|Ajax]]
+| £37M<ref>{{Cite web|url=http://english.ajax.nl/streams/ajax-now/ajax-and-chelsea-reach-agreement-for-ziyech-.htm|title=Ajax and Chelsea reach agreement for Ziyech|website=Ajax English|language=en-US|access-date=14 February 2020|archive-date=26 September 2020|archive-url=https://web.archive.org/web/20200926183512/https://english.ajax.nl/streams/ajax-now/ajax-and-chelsea-reach-agreement-for-ziyech-.htm|url-status=dead}}</ref>
+| 39
+| 6
+|-
+| 23
+| [[Billy Gilmour (footballer)|Billy Gilmour]]
+| {{flagicon|SCO}}
+| [[Central midfielder|CM]]
+| {{Birth date and age2|df=yes|2021|06|30|2001|6|11}}
+| 2019
+| 2023<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/51466510 |title=Billy Gilmour: Chelsea midfielder now with first team full time |website=BBC Sport |date=11 February 2020 |access-date=13 February 2020}}</ref>
+|{{flagicon|ENG}} [[Chelsea F.C. Under-23s and Academy|Chelsea Academy]]
+| N/A
+| 22
+| 0
+|-
+| 29
+| [[Kai Havertz]]
+| {{flagicon|GER}}
+| [[Midfielder#Attacking midfielder|AM]] / [[Striker (association football)|CF]]
+| {{Birth date and age2|df=yes|2021|06|30|1999|6|11}}
+| 2020
+| 2025<ref>{{Cite web |title=Kai Havertz: Chelsea sign Bayer Leverkusen midfielder for £71m |url=https://www.bbc.com/sport/football/54023395 |date=4 September 2020 |website=BBC Sport}}</ref>
+| {{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| £62M{{ref|a|a}}<ref>{{Cite news |title=Kai Havertz completes move to Chelsea for £62million |url=https://www.telegraph.co.uk/football/2020/09/04/kai-havertz-completes-move-chelsea-62million/ |date=4 September 2020 |newspaper=The Daily Telegraph |location=London |first=Matt |last=Law}}</ref>
+| 45
+| 9
+|-
+| 55
+| [[Tino Anjorin]]
+| {{flagicon|ENG}}
+| [[Midfielder#Attacking midfielder|AM]]
+| {{Birth date and age2|df=yes|2021|06|30|2001|11|23}}
+| 2019
+| 2025
+| {{flagicon|ENG}} [[Chelsea F.C. Under-23s and Academy|Chelsea Academy]]
+| N/A
+| 5
+| 0
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"| Forwards
+|-
+| 9
+| [[Tammy Abraham]]
+| {{flagicon|ENG}}
+| [[Striker (association football)|ST]]
+| {{Birth date and age2|df=yes|2021|06|30|1997|10|2}}
+| 2016
+| 2022<ref>{{cite web |url=http://kwese.espn.com/football/story/3150431/chelsea-striker-tammy-abraham-joins-swansea-on-season-long-loan |title=Chelsea striker Tammy Abraham joins Swansea on season-long loan |work=ESPN |last=Twomey |first=Liam |date=4 July 2017 |access-date=4 July 2017}}</ref>
+|{{flagicon|ENG}} [[Chelsea F.C. Under-23s and Academy|Chelsea Academy]]
+| N/A
+| 82
+| 30
+|-
+| 10
+| [[Christian Pulisic]]
+| {{flagicon|USA}}
+| [[Left winger (association football)|LW]] / [[Right winger (association football)|RW]]
+| {{Birth date and age2|df=yes|2021|06|30|1998|9|18}}
+| 2019
+| 2024<ref>{{cite news |last=O'Hanlon |first=Ryan |date=January 2, 2019 |title=Christian Pulisic Is Headed to Chelsea. Is American Soccer Ready? |url=https://slate.com/culture/2019/01/christian-pulisic-usmnt-chelsea-soccer-winning.html |work=[[Slate (magazine)|Slate]] |access-date=January 2, 2019}}</ref>
+| {{flagicon|GER}} [[Borussia Dortmund]]
+| £58M<ref>{{cite news |title=Christian Pulisic: Chelsea sign Borussia Dortmund attacker for £58m |url=https://www.bbc.co.uk/sport/football/46734487 |publisher=BBC Sport |date=January 2, 2019 |access-date=January 2, 2019}}</ref>
+| 77
+| 17
+|-
+| 11
+| [[Timo Werner]]
+| {{flagicon|GER}}
+| [[Striker (association football)|ST]] / [[Left winger (association football)|LW]]
+| {{Birth date and age2|df=yes|2021|06|30|1996|3|6}}
+| 2020
+| 2024<ref>{{cite web|url=https://www.chelseafc.com/en/news/2020/06/18/timo-werner-transfer-agreed|title=Timo Werner transfer agreed|publisher=Chelsea F.C.|date=18 June 2020|access-date=25 April 2021}}</ref>
+| {{flagicon|GER}} [[RB Leipzig]]
+| £47.5M<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/53092225 |title=Timo Werner: Chelsea agree to sign forward from RB Leipzig on five-year deal |website=BBC Sport |date=18 June 2020 |access-date=18 June 2020}}</ref>
+| 52
+| 12
+|-
+| 18
+| [[Olivier Giroud]]
+| {{flagicon|FRA}}
+| [[Striker (association football)|ST]]
+| {{Birth date and age2|df=yes|2021|06|30|1986|9|30}}
+| 2018
+| 2022<ref>{{Cite web |date=20 May 2020 |title=Olivier Giroud signs contract extension to stay at Chelsea next season |url=https://www.theguardian.com/football/2020/may/20/olivier-giroud-signs-contract-extension-to-stay-at-chelsea-next-season |url-status=live |archive-url=https://web.archive.org/web/20200604170118/https://www.theguardian.com/football/2020/may/20/olivier-giroud-signs-contract-extension-to-stay-at-chelsea-next-season |archive-date=4 June 2020 |access-date=21 June 2020 |website=The Guardian}}</ref>
+| {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| £18M<ref>{{Cite web |title=Giroud signs for Chelsea |url=http://www.chelseafc.com/news/latest-news/2018/01/giroud-signs-for-chelsea.html |url-status=live |archive-url=https://web.archive.org/web/20180201000623/https://www.chelseafc.com/news/latest-news/2018/01/giroud-signs-for-chelsea.html |archive-date=1 February 2018 |access-date=31 January 2018 |publisher=Chelsea F.C.}}</ref>
+| 119
+| 39
+|-
+| 20
+| [[Callum Hudson-Odoi]]
+| {{flagicon|ENG}}
+| [[Right winger (association football)|RW]] / [[Left winger (association football)|LW]] / [[Right wing-back|RWB]]
+| {{Birth date and age2|df=yes|2021|06|30|2000|11|7}}
+| 2018
+| 2024<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/49966788|title=Callum Hudson-Odoi: Chelsea forward says he 'made right decision' to stay with club|date=7 October 2019|work=BBC Sport}}</ref>
+|{{flagicon|ENG}} [[Chelsea F.C. Under-23s and Academy|Chelsea Academy]]
+| N/A
+| 98
+| 13
+|-
+|}
+:a.{{note|a}} Additional costs of £10 million to be paid.
+
+==Transfers==
+
+===In===
+
+====Summer====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Date
+! scope="col" style="background-color:#034694;color:#FFFFFF"| No.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Pos.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Player
+! scope="col" style="background-color:#034694;color:#FFFFFF"| From
+! scope="col" style="background-color:#034694;color:#FFFFFF" data-sort-type="currency"| Fee
+! scope="col" class="unsortable" style="background-color:#034694;color:#FFFFFF"| Source
+|-
+|rowspan=6| 1 July 2020
+|-
+|
+| MF
+|align=left| {{flagicon|SWE}} [[Edwin Andersson]]
+|align=left| {{flagicon|SWE}} [[IFK Göteborg]]
+| £40,000
+| <ref name="Scholars">{{Cite web|title=Introducing the 2020/21 Academy scholars|url=https://www.chelseafc.com/en/news/2020/07/02/introducing-the-2020-21-academy-scholars|website=chelseafc.com|date=2 July 2020|access-date=2 July 2020}}</ref>
+|-
+|
+| FW
+|align=left| {{flagicon|ENG}} [[Malik Mothersille]]
+|align=left| {{flagicon|ENG}} [[Leyton Orient F.C.|Leyton Orient]]
+| Free
+| <ref name="Scholars"/>
+|-
+| 22
+| MF
+|align=left| {{flagicon|MAR}} [[Hakim Ziyech]]
+|align=left| {{flagicon|NED}} [[AFC Ajax|Ajax]]
+| £36,000,000
+| <ref>{{Cite web|title=Hakim Ziyech agrees personal terms|url=https://www.chelseafc.com/en/news/2020/02/23/chelsea-transfer-news--hakim-ziyech-agrees-personal-terms|website=chelseafc.com|date=23 February 2020|access-date=3 February 2020}}</ref>
+|-
+|
+| MF
+|align=left| {{flagicon|FIN}} [[Jimi Tauriainen]]
+|align=left| {{flagicon|FIN}} [[Helsingin Jalkapalloklubi|HJK]]
+| Undisclosed
+| <ref name="Scholars"/>
+|-
+| 11
+| FW
+|align=left| {{flagicon|GER}} [[Timo Werner]]
+|align=left| {{flagicon|GER}} [[RB Leipzig]]
+| £47,700,000
+| <ref>{{Cite web|title=Timo Werner transfer agreed|url=https://www.chelseafc.com/en/news/2020/06/18/timo-werner-transfer-agreed|website=chelseafc.com|date=18 June 2020|access-date=18 June 2020}}</ref>
+|-
+| 20 August 2020
+|
+| DF
+|align=left| {{flagicon|NED}} [[Xavier Mbuyamba]]
+|align=left| {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+| Free
+| <ref name="Mbuyamba">{{Cite web|title=Forward returns on loan to the Championship|url=https://www.chelseafc.com/en/news/2020/08/20/forward-returns-on-loan-to-the-championship|website=chelseafc.com|date=20 August 2020|access-date=20 August 2020}}</ref>
+|-
+| 26 August 2020
+| 21
+| DF
+|align=left| {{flagicon|ENG}} [[Ben Chilwell]]
+|align=left| {{flagicon|ENG}} [[Leicester City F.C.|Leicester City]]
+| £45,180,000
+| <ref>{{Cite web|title=Chilwell transfer to Chelsea confirmed|url=https://www.chelseafc.com/en/news/2020/08/26/chilwell-transfer-to-chelsea-confirmed?cardIndex=0-0|website=chelseafc.com|date=26 August 2020|access-date=26 August 2020}}</ref>
+|-
+| 27 August 2020
+|
+| DF
+|align=left| {{flagicon|FRA}} [[Malang Sarr]]
+|align=left| {{flagicon|FRA}} [[OGC Nice|Nice]]
+| Free
+| <ref>{{Cite web|title=Sarr Signs On|url=https://www.chelseafc.com/en/news/2020/08/27/sarr-signs-on|website=chelseafc.com|date=27 August 2020|access-date=27 August 2020}}</ref>
+|-
+|28 August 2020
+| 6
+|DF
+|align=left|{{flagicon|BRA}} [[Thiago Silva]]
+|align=left|{{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|Free
+|<ref>{{Cite web|title=Thiago Silva moves from Paris to London|url=https://www.chelseafc.com/en/news/2020/08/28/thiago-silva-moves-from-paris-to-london|date=28 August 2020|access-date=28 August 2020|website=chelseafc.com}}</ref>
+|-
+|4 September 2020
+| 29
+|MF
+|align=left|{{flagicon|GER}} [[Kai Havertz]]
+|align=left|{{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|£72,000,000
+|<ref>{{Cite web|title=Chelsea have Havertz|url=https://www.chelseafc.com/en/news/2020/09/04/chelsea-have-havertz|date=4 September 2020|access-date=4 September 2020|website=chelseafc.com}}{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+|6 September 2020
+|
+|GK
+|align=left|{{flagicon|ENG}} [[Teddy Sharman-Lowe]]
+|align=left|{{flagicon|ENG}} [[Burton Albion F.C.|Burton Albion]]
+|Undisclosed
+|<ref name= "Sharman-Lowe">{{Cite web|title=Young goalkeeper arrives from Burton|url=https://www.chelseafc.com/en/news/2020/09/06/young-goalkeeper-arrives-from-burton|date=6 September 2020|access-date=6 September 2020|website=chelseafc.com}}</ref>
+|-
+|rowspan=2|24 September 2020
+| 16
+|GK
+|align=left|{{flagicon|SEN}} [[Édouard Mendy]]
+|align=left|{{flagicon|FRA}} [[Stade Rennes|Rennes]]
+|£21,600,000
+|<ref>{{Cite web|title=Mendy makes Chelsea move|url=https://www.chelseafc.com/en/news/2020/09/24/mendy-makes-chelsea-move|date=24 September 2020|access-date=24 September 2020|website=chelseafc.com}}</ref>
+|-
+|
+|FW
+|align=left|{{flagicon|FIN}} [[Aleksi Heino]]
+|align=left|{{flagicon|FIN}} [[FC Inter Turku|Inter Turku]]
+|Undisclosed
+|<ref>{{Cite web|title=Chelsea Youth on Twitter|url=https://twitter.com/chelseayouth/status/1309195729722896385|date=24 September 2020|access-date=24 September 2020|website=twitter.com}}</ref>
+|}
+
+====Winter====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Date
+! scope="col" style="background-color:#034694;color:#FFFFFF"| No.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Pos.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Player
+! scope="col" style="background-color:#034694;color:#FFFFFF"| From
+! scope="col" style="background-color:#034694;color:#FFFFFF" data-sort-type="currency"| Fee
+! scope="col" class="unsortable" style="background-color:#034694;color:#FFFFFF"| Source
+|-
+|6 October 2020
+|
+|GK
+|align=left|{{flagicon|MAR}} [[Sami Tlemcani]]
+|align=left|{{flagicon|FRA}} [[Paris FC]]
+|Undisclosed
+|<ref>{{Cite web|title=Chelsea sign 16-year-old goalkeeper Tlemcani from Paris|url=https://en.as.com/en/2020/10/06/football/1601990356_560666.html|date=6 October 2020|access-date=6 October 2020|website=en.as.com|archive-date=11 October 2020|archive-url=https://web.archive.org/web/20201011155006/https://en.as.com/en/2020/10/06/football/1601990356_560666.html|url-status=dead}}</ref>
+|-
+|4 May 2021
+|
+|MF
+|align=left|{{flagicon|ENG}} [[Declan Frith]]
+|align=left|Unattached
+|Free
+|<ref>{{Cite news |title=Chelsea Youth on Twitter: "Congratulations to Declan Frith, who has signed a permanent deal with Chelsea after a successful trial period over the last couple of months. He will bolster the Development Squad's options on the left flank moving forward. #CFC" |url=https://twitter.com/chelseayouth/status/1389625282517258240 |publisher=Chelsea Youth |website=Twitter |date=4 May 2021 |access-date=5 May 2021}}</ref>
+|}
+
+===Out===
+
+====Summer====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Date
+! scope="col" style="background-color:#034694;color:#FFFFFF"| No.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Pos.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Player
+! scope="col" style="background-color:#034694;color:#FFFFFF"| To
+! scope="col" style="background-color:#034694;color:#FFFFFF" data-sort-type="currency"| Fee
+! scope="col" class="unsortable" style="background-color:#034694;color:#FFFFFF"| Source
+|-
+|rowspan=4| 1 July 2020
+|-
+|
+| MF
+|align=left| {{flagicon|BRA}} [[Nathan (footballer, born 1996)|Nathan]]
+|align=left| {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| £2,700,000
+| <ref>{{Cite web|title=Chelsea here Chelsea there: Good week for Chalobah, Gallagher and Guehi; Nathan departs|url=https://www.chelseafc.com/en/news/2020/07/06/chelsea-here-chelsea-there--good-week-for-chalobah--gallagher-an|website=chelseafc.com|date=6 July 2020|access-date=6 July 2020}}</ref>
+|-
+|
+| GK
+|align=left| {{flagicon|NIR}} [[Josh Clarke (footballer, born 2004)|Josh Clarke]]
+|align=left| {{flagicon|ENG}} [[A.F.C. Bournemouth|Bournemouth]]
+| Free
+| <ref>{{Cite web|title=Josh Clarke|url=https://www.afcb.co.uk/teams/under-18s/josh-clarke/|website=afcb.co.uk|access-date=9 July 2021}}</ref>
+|-
+|
+| FW
+|align=left| {{flagicon|ENG}} Adrian Akande
+|align=left| {{flagicon|WAL}} [[Swansea City F.C.|Swansea City]]
+| Free
+| <ref>{{Cite web|title=Adrian Akande Embracing Life at Swansea City|url=https://www.swanseacity.com/news/adrian-akande-embracing-life-swansea-city|website=swanseacity.com|date=13 January 2021|access-date=9 July 2021}}</ref>
+|-
+| 18 July 2020
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Josh Grant (footballer)|Josh Grant]]
+|align=left| {{flagicon|ENG}} [[Bristol Rovers F.C.|Bristol Rovers]]
+| Free
+| <ref>{{Cite web|title=Josh Grant joins the Gas!|url=https://www.bristolrovers.co.uk/news/2020/july/josh-grant-joins/|website=bristolrovers.co.uk|date=18 July 2020|access-date=18 July 2020|archive-date=18 July 2020|archive-url=https://web.archive.org/web/20200718090514/https://www.bristolrovers.co.uk/news/2020/july/josh-grant-joins/|url-status=dead}}</ref>
+|-
+| 3 August 2020
+| 50
+| GK
+|align=left| {{flagicon|CIV}} [[Nicolas Tié]]
+|align=left| {{flagicon|POR}} [[Vitória S.C.|Vitória de Guimarães]]
+| Undisclosed
+| <ref>{{Cite web|title=Chelsea here Chelsea there: Duo sign off with Serie A wins and European qualification|url=https://www.chelseafc.com/en/news/2020/08/03/chelsea-here-chelsea-there--duo-sign-off-with-serie-a-wins-and-e|website=chelseafc.com|date=3 August 2020|access-date=3 August 2020}}</ref>
+|-
+| 12 August 2020
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Jacob Maddox]]
+|align=left| {{flagicon|POR}} [[Vitória S.C.|Vitória de Guimarães]]
+| Undisclosed
+| <ref name="Pantić">{{Cite web|title=Pantic heads on loan to Serbia; Maddox moves on|url=https://www.chelseafc.com/en/news/2020/08/13/pantic-heads-on-loan-to-serbia--maddox-moves-on|website=chelseafc.com|date=13 August 2020|access-date=13 August 2020}}</ref>
+|-
+| 14 August 2020
+| 10
+| MF
+|align=left| {{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]]
+|align=left| {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| Free
+| <ref>{{Cite web|title=Welcome Willian! Brazil forward joins Arsenal|url=https://www.arsenal.com/news/welcome-willian-brazil-forward-joins-arsenal|website=arsenal.com|date=14 August 2020|access-date=14 August 2020}}</ref>
+|-
+|rowspan=2| 1 September 2020
+|
+| MF
+|align=left| {{flagicon|CRO}} [[Mario Pašalić]]
+|align=left| {{flagicon|ITA}} [[Atalanta B.C.|Atalanta]]
+| £13,500,000
+| <ref>{{Cite web|title=Pasalic joins Atalanta permanently|url=https://www.chelseafc.com/en/news/2020/06/22/pasalic-joins-atalanta-permanently|website=chelseafc.com|date=22 June 2020|access-date=22 June 2020}}</ref>
+|-
+| 11
+| MF
+|align=left| {{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+|align=left| {{flagicon|ITA}} [[A.S. Roma|Roma]]
+| Free
+| <ref>{{Cite web|title=Roma complete Pedro signing|url=https://www.asroma.com/en/news/2020/8/roma-complete-pedro-signing|website=asroma.com|date=25 August 2020|access-date=25 August 2020|archive-date=26 March 2022|archive-url=https://web.archive.org/web/20220326151758/https://www.asroma.com/en/news/2020/8/roma-complete-pedro-signing|url-status=dead}}</ref>
+|-
+| 3 October 2020
+| 49
+| DF
+|align=left| {{flagicon|POR}} [[Marcel Lavinier]]
+|align=left| {{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| Free
+| <ref>{{Cite web|title=Late Markanday winner sees off Saints|url=https://www.tottenhamhotspur.com/news/2020/october/late-markanday-winner-sees-off-saints/|website=tottenhamhotspur.com|date=3 October 2020|access-date=5 October 2020}}</ref>
+|-
+| 5 October 2020
+| 60
+| GK
+|align=left| {{flagicon|ENG}} Jake Askew
+|align=left| {{flagicon|ENG}} [[Wealdstone F.C.|Wealdstone]]
+| Free
+| <ref>{{Cite web|title=Chelsea Youth on Twitter|url=https://twitter.com/chelseayouth/status/1313537156669988864|website=twitter.com|date=6 October 2020|access-date=6 October 2020}}</ref>
+|-
+| 6 October 2020
+| 54
+| DF
+|align=left| {{flagicon|ENG}} Jordan Aina
+|align=left| {{flagicon|ENG}} [[Fulham F.C.|Fulham]]
+| Free
+| <ref name="McEachran"/>
+|-
+| 13 October 2020
+| 73
+| GK
+|align=left| {{flagicon|ENG}} Kelechi Chibueze
+|align=left| Unattached{{efn|name=KC|Chibueze joined [[Leicester City F.C.|Leicester City]] on 6 February 2021}}
+| 
+| <ref>{{Cite web|title=Premier League 2 action live on web and the 5th Stand this Saturday|url=https://www.chelseafc.com/en/news/2020/10/13/academy-live-game-preview|website=chelseafc.com|date=13 October 2020|access-date=16 October 2020}}</ref>
+|-
+| 24 November 2020
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Richard Nartey]]
+|align=left| {{flagicon|ENG}} [[Burnley F.C.|Burnley]]
+| Free
+| <ref>{{Cite news |title=It's A Done Deal For Defender Nartey |url=https://www.burnleyfootballclub.com/content/its-a-done-deal-for-defender-nartey |website=burnleyfootballclub.com |date=24 November 2020 |access-date=26 November 2020 |archive-date=24 November 2020 |archive-url=https://web.archive.org/web/20201124163343/https://www.burnleyfootballclub.com/content/its-a-done-deal-for-defender-nartey |url-status=dead }}</ref>
+|-
+| 27 November 2020
+| 58
+| DF
+|align=left| {{flagicon|ENG}} [[James Clark (footballer, born 2001)|James Clark]]
+|align=left| {{flagicon|ENG}} [[Wycombe Wanderers F.C.|Wycombe Wanderers]]
+| Free
+| <ref name="Brown"/><ref>{{cite web |title=Former Chelsea youngster joins the Chairboys |date=27 November 2020 |url=https://www.wwfc.com/news/2020/november/former-chelsea-youngster-joins-the-chairboys/ |publisher=Wycombe Wanderers FC |access-date=27 November 2020 |archive-date=5 December 2020 |archive-url=https://web.archive.org/web/20201205083336/https://www.wycombewanderers.co.uk/news/2020/november/former-chelsea-youngster-joins-the-chairboys/ |url-status=live }}</ref>
+|}
+;Notes
+{{notelist}}
+
+====Winter====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Date
+! scope="col" style="background-color:#034694;color:#FFFFFF"| No.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Pos.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Player
+! scope="col" style="background-color:#034694;color:#FFFFFF"| To
+! scope="col" style="background-color:#034694;color:#FFFFFF" data-sort-type="currency"| Fee
+! scope="col" class="unsortable" style="background-color:#034694;color:#FFFFFF"| Source
+|-
+| 13 January 2021
+| 38
+| FW
+|align=left| {{flagicon|ENG}} [[Charlie Brown (footballer, born 1999)|Charlie Brown]]
+|align=left| {{flagicon|ENG}} [[Milton Keynes Dons F.C.|Milton Keynes Dons]]
+| Undisclosed
+| <ref>{{Cite web|title=Charlie Brown Joins MK Dons|url=https://www.chelseafc.com/en/news/2021/01/12/charlie-brown-joins-mk-dons|website=chelseafc.com|date=13 January 2021|access-date=13 January 2021}}</ref>
+|-
+| 14 January 2021
+| 
+| MF
+|align=left| {{flagicon|BRA}} [[Lucas Piazon]]
+|align=left| {{flagicon|POR}} [[S.C. Braga|Braga]]
+| Undisclosed
+| <ref>{{Cite web|title=Permanent Portuguese Move for Lucas Piazon|url=https://www.chelseafc.com/en/news/2021/01/06/permanent-portuguese-move-for-lucas-piazon|website=chelseafc.com|date=14 January 2021|access-date=14 January 2021}}</ref>
+|-
+| February 2021
+| 
+| FW
+|align=left| {{flagicon|ENG}} Amani Richards
+|align=left| {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| Free
+| <ref>{{Cite web|title=Amani Richards joins Leicester City|url=https://www.arsenal.com/news/amani-richards-joins-leicester-city|website=arsenal.com|date=31 January 2022|access-date=29 June 2023}}</ref>
+|}
+
+===Loan out===
+====Summer====
+{| class="wikitable sortable" style="text-align:center;width:90%;"
+|-
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Date
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Until
+! scope="col" style="background-color:#034694;color:#FFFFFF"| No.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Pos.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Player
+! scope="col" style="background-color:#034694;color:#FFFFFF"| To
+! scope="col" style="background-color:#034694;color:#FFFFFF" data-sort-type="currency"| Fee
+! scope="col" class="unsortable" style="background-color:#034694;color:#FFFFFF"| Source
+|-
+| 1 July 2020
+| 14 January 2021
+|
+| MF
+|align=left| {{flagicon|BRA}} [[Lucas Piazon]]
+|align=left| {{flagicon|POR}} [[Rio Ave F.C.|Rio Ave]]
+| Free
+| <ref>{{Cite web|title=Lucas Piazon joins Rio Ave on loan|url=https://www.chelseafc.com/en/news/2019/09/02/lucas-piazon-joins-rio-ave-on-loan|website=chelseafc.com|date=2 September 2019|access-date=2 September 2019}}</ref>
+|-
+| 2 July 2020
+| 6 October 2020
+|
+| FW
+|align=left| {{flagicon|ENG}} [[Charlie Brown (footballer, born 1999)|Charlie Brown]]
+|align=left| {{flagicon|BEL}} [[Royale Union Saint-Gilloise|Union SG]]
+| Free
+| <ref name="Brown">{{Cite web|title=Contracts and loan extended for development squad trio|url=https://www.chelseafc.com/en/news/2020/07/02/development-squad-duo-sign-new-deals|website=chelseafc.com|date=2 July 2020|access-date=2 July 2020}}</ref>
+|-
+| 12 August 2020
+| End of season
+|
+| MF
+|align=left| {{flagicon|SRB}} [[Danilo Pantić]]
+|align=left| {{flagicon|SRB}} [[FK Čukarički|Čukarički]]
+| Free
+| <ref name="Pantić"/>
+|-
+| 17 August 2020
+| End of season
+| 31
+| GK
+|align=left| {{flagicon|ENG}} [[Jamie Cumming]]
+|align=left| {{flagicon|ENG}} [[Stevenage F.C.|Stevenage]]
+| Free
+| <ref>{{Cite web|title=First loan for young goalkeeper|url=https://www.chelseafc.com/en/news/2020/08/17/first-loan-for-young-goalkeeper|website=chelseafc.com|date=17 August 2020|access-date=17 August 2020}}</ref>
+|-
+|rowspan=2| 18 August 2020
+| End of season
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Trevoh Chalobah]]
+|align=left| {{flagicon|FRA}} [[FC Lorient|Lorient]]
+| Free
+| <ref>{{Cite web|title=New contract and French loan for Trevoh Chalobah|url=https://www.chelseafc.com/en/news/2020/08/17/new-contract-and-french-loan-for-trevoh-chalobah|website=chelseafc.com|date=18 August 2020|access-date=18 August 2020}}</ref>
+|-
+| End of season
+|
+| FW
+|align=left| {{flagicon|ENG}} [[Ike Ugbo]]
+|align=left| {{flagicon|BEL}} [[Cercle Brugge KSV|Cercle Brugge]]
+| Free
+| <ref>{{Cite web|title=Ugbo extends deal and heads to Belgium|url=https://www.chelseafc.com/en/news/2020/08/18/ugbo-extends-deal-and-heads-to-belgium|website=chelseafc.com|date=18 August 2020|access-date=18 August 2020}}</ref>
+|-
+| 20 August 2020
+| End of season
+|
+| FW
+|align=left| {{flagicon|ENG}} [[Izzy Brown]]
+|align=left| {{flagicon|ENG}} [[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+| Free
+| <ref name="Mbuyamba"/>
+|-
+| 21 August 2020
+| End of season
+| 57
+| FW
+|align=left| {{flagicon|ALB}} [[Armando Broja]]
+|align=left| {{flagicon|NED}} [[SBV Vitesse|Vitesse]]
+| Free
+| <ref>{{Cite web|title=Maiden loan move for young forward|url=https://www.chelseafc.com/en/news/2020/08/21/maiden-loan-move-for-young-forward|website=chelseafc.com|date=21 August 2020|access-date=21 August 2020}}</ref>
+|-
+| 24 August 2020
+| End of season
+|
+| GK
+|align=left| {{flagicon|ENG}} [[Jamal Blackman]]
+|align=left| {{flagicon|ENG}} [[Rotherham United F.C.|Rotherham United]]
+| Free
+| <ref>{{Cite web|title=Blackman heads to Rotherham|url=https://www.chelseafc.com/en/news/2020/08/24/blackman-heads-to-rotherham|website=chelseafc.com|date=24 August 2020|access-date=24 August 2020}}</ref>
+|-
+| 26 August 2020
+| End of season
+| 
+| DF
+|align=left| {{flagicon|ENG}} [[Marc Guehi]]
+|align=left| {{flagicon|WAL}} [[Swansea City A.F.C.|Swansea City]]
+| Free
+| <ref>{{Cite web|title=Guehi returns to Swansea on season long loan|url=https://www.chelseafc.com/en/news/2020/08/26/guehi-returns-to-swansea-on-season-long-loan|website=chelseafc.com|date=26 August 2020|access-date=26 August 2020}}</ref>
+|-
+| 6 September 2020
+| 4 January 2021
+| 
+| GK
+|align=left| {{flagicon|ENG}} [[Teddy Sharman-Lowe]]
+|align=left| {{flagicon|ENG}} [[Burton Albion F.C.|Burton Albion]]
+| Free
+| <ref name="Sharman-Lowe"/><ref>{{Cite news |title=Chelsea Here Chelsea There: Bakayoko and Napoli up to fourth |url=https://www.chelseafc.com/en/news/2021/01/04/chelsea-here-chelsea-there--bakayoko-and-napoli-up-to-fourth |publisher=[[Chelsea F.C.]] |date=4 January 2021 |access-date=8 January 2021}}</ref>
+|-
+| rowspan=2|7 September 2020
+| End of season
+| 46
+| MF
+|align=left| {{flagicon|ENG}} [[Tariq Uwakwe]]
+|align=left| {{flagicon|ENG}} [[Accrington Stanley F.C.|Accrington Stanley]]
+| Free
+| <ref>{{Cite web|title=Uwakwe completes maiden loan move to League One|url=https://www.chelseafc.com/en/news/2020/09/07/uwakwe-completes-maiden-loan-move-to-league-one|website=chelseafc.com|date=7 September 2020|access-date=7 September 2020}}</ref>
+|-
+| End of season
+| 
+| DF
+|align=left| {{flagicon|WAL}} [[Ethan Ampadu]]
+|align=left| {{flagicon|ENG}} [[Sheffield United F.C.|Sheffield United]]
+| Free
+| <ref>{{Cite web|title=Bramall Lane loan for Ampadu|url=https://www.chelseafc.com/en/news/2020/09/07/bramall-lane-loan-for-ampadu|website=chelseafc.com|date=7 September 2020|access-date=7 September 2020}}</ref>
+|-
+| 8 September 2020
+| End of season
+| 
+| MF
+|align=left| {{flagicon|BRA}} [[Kenedy (footballer)|Kenedy]]
+|align=left| {{flagicon|ESP}} [[Granada CF|Granada]]
+| Free
+| <ref>{{Cite web|title=Kenedy returns to La Liga on loan|url=https://www.chelseafc.com/en/news/2020/09/07/kenedy-returns-to-la-liga-on-loan|website=chelseafc.com|date=8 September 2020|access-date=8 September 2020}}</ref>
+|-
+| 10 September 2020
+| End of season
+| 23
+| FW
+|align=left| {{flagicon|BEL}} [[Michy Batshuayi]]
+|align=left| {{flagicon|ENG}} [[Crystal Palace F.C.|Crystal Palace]]
+| Free
+| <ref>{{Cite web|title=Contract extension and Premier League loan for Batshuayi|url=https://www.chelseafc.com/en/news/2020/09/09/contract-extension-and-premier-league-loan-for-batshuayi|website=chelseafc.com|date=10 September 2020|access-date=10 September 2020}}</ref>
+|-
+| 17 September 2020
+| End of season
+| 
+| MF
+|align=left| {{flagicon|ENG}} [[Conor Gallagher]]
+|align=left| {{flagicon|ENG}} [[West Bromwich Albion F.C.|West Bromwich Albion]]
+| Free
+| <ref>{{Cite web|title=Gallagher signs new deal and completes Premier League loan|url=https://www.chelseafc.com/en/news/2020/09/17/gallagher-signs-new-deal-and-completes-premier-league-loan|website=chelseafc.com|date=17 September 2020|access-date=17 September 2020}}</ref>
+|-
+| 18 September 2020
+| End of season
+| 
+| MF
+|align=left| {{flagicon|ENG}} [[Lewis Baker (footballer)|Lewis Baker]]
+|align=left| {{flagicon|TUR}} [[Trabzonspor]]
+| Free
+| <ref>{{Cite web|title=Loan overseas for Lewis Baker|url=https://www.chelseafc.com/en/news/2020/09/18/loan-overseas-for-lewis-baker|website=chelseafc.com|date=18 September 2020|access-date=18 September 2020}}</ref>
+|-
+| 19 September 2020
+| End of season
+| 
+| DF
+|align=left| {{flagicon|ITA}} [[Davide Zappacosta]]
+|align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| Free
+| <ref>{{Cite web|title=Zappacosta to spend season in Serie A|url=https://www.chelseafc.com/en/news/2020/09/18/zappacosta-to-spend-season-in-serie-a-|website=chelseafc.com|date=19 September 2020|access-date=19 September 2020}}</ref>
+|-
+| 21 September 2020
+| End of season
+| 41
+| MF
+|align=left| {{flagicon|ENG}} [[Luke McCormick (footballer, born 1999)|Luke McCormick]]
+|align=left| {{flagicon|ENG}} [[Bristol Rovers F.C.|Bristol Rovers]]
+| Free
+| <ref>{{Cite web|title=New loan for McCormick|url=https://www.chelseafc.com/en/news/2020/09/21/new-loan-for-mccormick|website=chelseafc.com|date=21 September 2020|access-date=21 September 2020}}</ref>
+|-
+| 27 September 2020
+| 24 January 2021
+| 70
+| GK
+|align=left| {{flagicon|USA}} Ethan Wady
+|align=left| {{flagicon|ENG}} [[Dartford F.C.|Dartford]]
+| Free
+| <ref>{{Cite web|title=Chelsea Here Chelsea There: Premier League debut for Ampadu; young goalkeeper heads to Kent|url=https://www.chelseafc.com/en/news/2020/09/28/chelsea-here-chelsea-there--premier-league-debut-for-ampadu--you|website=chelseafc.com|date=28 September 2020|access-date=28 September 2020}}</ref>
+|-
+| 30 September 2020
+| End of season
+| 8
+| MF
+|align=left| {{flagicon|ENG}} [[Ross Barkley]]
+|align=left| {{flagicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+| Free
+| <ref>{{Cite web|title=Ross Barkley moves on loan to Aston Villa|url=https://www.chelseafc.com/en/news/2020/09/30/ross-barkley-moves-on-loan-to-aston-villa|website=chelseafc.com|date=30 September 2020|access-date=30 September 2020}}</ref>
+|-
+| 2 October 2020
+| End of season
+| 44
+| MF
+|align=left| {{flagicon|ENG}} [[Jon Russell (footballer)|Jon Russell]]
+|align=left| {{flagicon|ENG}} [[Accrington Stanley F.C.|Accrington Stanley]]
+| Free
+| <ref>{{Cite web|title=Under-18s Report: Chelsea 0 Crystal Palace 1|url=https://www.chelseafc.com/en/news/2020/10/02/under-18s-report--chelsea-crystal-palace|website=chelseafc.com|date=2 October 2020|access-date=2 October 2020}}</ref>
+|-
+| 3 October 2020
+| End of season
+| 
+| DF
+|align=left| {{flagicon|USA}} [[Matt Miazga]]
+|align=left| {{flagicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+| Free
+| <ref>{{Cite web|title=Matthew Miazga strengthens RSCA's defense|url=https://www.rsca.be/en/matti|website=rsca.be|date=3 October 2020|access-date=3 October 2020}}</ref>
+|-
+|rowspan=2| 5 October 2020
+| End of season
+| 
+| MF
+|align=left| {{flagicon|FRA}} [[Tiémoué Bakayoko]]
+|align=left| {{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+| £1,800,000
+| <ref>{{Cite web|title=Bakayoko bound for Napoli|url=https://www.chelseafc.com/en/news/2020/10/05/bakayoko-bound-for-napoli-|website=chelseafc.com|date=5 October 2020|access-date=5 October 2020}}</ref>
+|-
+| End of season
+| 12
+| MF
+|align=left| {{flagicon|ENG}} [[Ruben Loftus-Cheek]]
+|align=left| {{flagicon|ENG}} [[Fulham F.C.|Fulham]]
+| Free
+| <ref>{{Cite web|title=Premier League loan for Loftus-Cheek|url=https://www.chelseafc.com/en/news/2020/10/05/premier-league-loan-for-loftus-cheek|archive-url=https://web.archive.org/web/20201006093217/https://www.chelseafc.com/en/news/2020/10/05/premier-league-loan-for-loftus-cheek|url-status=live|archive-date=6 October 2020|website=chelseafc.com|date=5 October 2020|access-date=5 October 2020}}</ref>
+|-
+|rowspan=4| 6 October 2020
+| End of season
+|
+| DF
+|align=left| {{flagicon|FRA}} [[Malang Sarr]]
+|align=left| {{flagicon|POR}} [[FC Porto|Porto]]
+| Free
+| <ref>{{Cite web|title=Portugal loan for Malang Sarr|url=https://www.chelseafc.com/en/news/2020/10/06/portugal-loan-for-malang-sarr|website=chelseafc.com|date=6 October 2020|access-date=6 October 2020}}</ref>
+|-
+| 12 December 2020
+| 
+| MF
+|align=left| {{flagicon|ENG}} [[George McEachran]]
+|align=left| {{flagicon|NED}} [[MVV Maastricht|Maastricht]]
+| Free
+| <ref name="McEachran">{{Cite web|title=McEachran moves to MVV Maastricht on loan|url=https://www.chelseafc.com/en/news/2020/10/06/mceachran-moves-to-mvv-maastricht-on-loan|website=chelseafc.com|date=6 October 2020|access-date=6 October 2020}}</ref><ref>{{cite news |title=MVV neemt afscheid van McEachran en Duin |url=https://www.mvv.nl/nieuws/mvv-neemt-afscheid-van-mceachran-en-duin |access-date=17 December 2020 |work=[[MVV Maastricht]] |date=12 December 2020 |language=nl |quote=De 20-jarige George McEachran is per onmiddellijke ingang - wegens zwaarwegende privéredenen - vertrokken bij MVV Maastricht. De Engelsman van Chelsea kwam in de eerste week van oktober over van de Londense club naar Maastricht. |archive-date=12 December 2020 |archive-url=https://web.archive.org/web/20201212110527/https://www.mvv.nl/nieuws/mvv-neemt-afscheid-van-mceachran-en-duin |url-status=dead }}</ref>
+|-
+| End of season
+| 
+| MF
+|align=left| {{flagicon|NED}} [[Marco van Ginkel]]
+|align=left| {{flagicon|NED}} [[PSV Eindhoven|PSV]]
+| Free
+| <ref>{{Cite web|title=Marco van Ginkel goes back to Dutch club|url=https://www.chelseafc.com/en/news/2020/10/06/marco-van-ginkel-goes-back-to-dutch-club-|website=chelseafc.com|date=6 October 2020|access-date=6 October 2020}}</ref>
+|-
+| 11 January 2021
+| 
+| DF
+|align=left| {{flagicon|NED}} [[Juan Castillo (footballer, born 2000)|Juan Castillo]]
+|align=left| {{flagicon|NED}} [[AZ Alkmaar|AZ]]
+| Free
+| <ref>{{Cite web|title=Dutch loan move for Castillo|url=https://www.chelseafc.com/en/news/2020/10/06/dutch-loan-move-for-castillo|website=chelseafc.com|date=6 October 2020|access-date=6 October 2020}}</ref><ref>{{Cite web|title=Familia-Castillo terug naar Chelsea|url=https://www.az.nl/nl/nieuws/familia-castillo-terug-naar-chelsea|website=az.nl|date=11 January 2021|access-date=11 January 2021|language=nl|archive-date=16 January 2021|archive-url=https://web.archive.org/web/20210116053659/https://www.az.nl/nl/nieuws/familia-castillo-terug-naar-chelsea|url-status=dead}}</ref>
+|-
+| 9 October 2020
+| End of season
+| 31
+| GK
+|align=left| {{flagicon|ENG}} [[Nathan Baxter (footballer)|Nathan Baxter]]
+|align=left| {{flagicon|ENG}} [[Accrington Stanley F.C.|Accrington Stanley]]
+| Free
+| <ref>{{cite web |title=League One Loan For Goalkeeper Nathan Baxter |url=https://www.chelseafc.com/en/news/2020/10/09/league-one-loan-for-goalkeeper-nathan-baxter|website=chelseafc.com |access-date=9 October 2020}}</ref>
+|-
+| 13 October 2020
+| End of season
+| 52
+| DF
+|align=left| {{flagicon|NED}} [[Ian Maatsen]]
+|align=left| {{flagicon|ENG}} [[Charlton Athletic F.C.|Charlton Athletic]]
+| Free
+| <ref>{{cite web |title=Chelsea defender Ian Maatsen makes loan switch to Charlton Athletic |date=13 October 2020 |url=https://londonnewsonline.co.uk/chelsea-defender-ian-maatsen-makes-loan-switch-to-charlton-athletic/ |archive-url=https://web.archive.org/web/20201021224930/https://londonnewsonline.co.uk/chelsea-defender-ian-maatsen-makes-loan-switch-to-charlton-athletic/ |url-status=usurped |archive-date=21 October 2020 |publisher=London News Online |access-date=13 October 2020}}</ref>
+|-
+| 15 October 2020
+| End of season
+| 
+| MF
+|align=left| {{flagicon|NGA}} [[Victor Moses]]
+|align=left| {{flagicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+| Free
+| <ref>{{cite web |title=Moscow Move For Moses |url=https://www.chelseafc.com/en/news/2020/10/15/moscow-move-for-moses-?cardIndex=0-0 |website=chelseafc.com|access-date=15 October 2020}}</ref>
+|-
+| 16 October 2020
+| End of season
+| 
+| DF
+|align=left| {{flagicon|ENG}} [[Jake Clarke-Salter]]
+|align=left| {{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]]
+| Free
+| <ref>{{cite web |title=Clarke-Salter returns on loan to the Championship |url=https://www.chelseafc.com/en/news/2020/10/16/clarke-salter-returns-on-loan-to-the-championship?cardIndex=0-3 |website=chelseafc.com|access-date=16 October 2020}}</ref>
+|}
+
+====Winter====
+{| class="wikitable sortable" style="text-align:center;width:90%;"
+|-
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Date
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Until
+! scope="col" style="background-color:#034694;color:#FFFFFF"| No.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Pos.
+! scope="col" style="background-color:#034694;color:#FFFFFF"| Player
+! scope="col" style="background-color:#034694;color:#FFFFFF"| To
+! scope="col" style="background-color:#034694;color:#FFFFFF" data-sort-type="currency"| Fee
+! scope="col" class="unsortable" style="background-color:#034694;color:#FFFFFF"| Source
+|-
+| 11 January 2021
+| End of season
+| 
+| DF
+|align=left| {{flagicon|NED}} [[Juan Castillo (footballer, born 2000)|Juan Castillo]]
+|align=left| {{flagicon|NED}} [[ADO Den Haag]]
+| Free
+| <ref>{{cite web |title=New loan move for Juan Castillo |url=https://www.chelseafc.com/en/news/2021/01/11/new-loan-move-for-castillo |publisher=Chelsea FC |access-date=11 January 2021}}</ref>
+|-
+| 18 January 2021
+| End of season
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Danny Drinkwater]]
+|align=left| {{flagicon|TUR}} [[Kasımpaşa S.K.|Kasımpaşa]]
+| Free
+| <ref>{{cite web|title=Drinkwater departs on loan |url=https://www.chelseafc.com/en/news/2021/01/18/drinkwater-departs-on-loan |publisher=Chelsea FC |access-date=18 January 2021}}</ref>
+|-
+| 22 January 2021
+| End of season
+| 14
+| DF
+| align=left| {{flagicon|ENG}} [[Fikayo Tomori]]
+| align=left| {{flagicon|ITA}} [[A.C. Milan|Milan]]
+| Undisclosed
+| <ref>{{Cite news|title=AC Milan Loan Move for Tomori |url=https://www.chelseafc.com/en/news/2021/01/22/ac-milan-loan-move-for-tomori |website=Chelsea F.C. |date=21 January 2021 |access-date=21 January 2021}}</ref>
+|-
+| 30 January 2021
+| End of season
+|
+| DF
+|align=left| {{flagicon|GHA}} [[Baba Rahman]]
+|align=left| {{flagicon|GRE}} [[PAOK FC|PAOK]]
+| Free
+| <ref>{{cite web|title=Baba Goes to Greece |url=https://www.chelseafc.com/en/news/2021/01/30/baba-goes-to-greece |publisher=Chelsea FC |access-date=30 January 2021}}</ref>
+|-
+| rowspan="2"|1 February 2021
+| End of season
+| 43
+| DF
+|align=left| {{flagicon|ENG}} [[Jack Wakely]]
+|align=left| {{flagicon|ENG}} [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| Free
+| <ref name="Wakey and Mothersille loan">{{cite web|title=Loan moves for Wakely and Mothersille |url=https://www.chelseafc.com/en/news/2021/02/01/loan-move-for-jack-wakely |publisher=Chelsea F.C. |access-date=1 February 2021}}</ref>
+|-
+| End of season
+| 
+| FW
+|align=left| {{flagicon|ENG}} [[Malik Mothersille]]
+|align=left| {{flagicon|ENG}} [[Derby County F.C.|Derby County]]
+| Free
+| <ref name="Wakey and Mothersille loan"/>
+|}
+
+===Overall transfer activity===
+{{col-begin}}
+{{col-3}}
+
+====Expenditure====
+Summer: {{loss}} £222,520,000
+
+Winter: {{loss}} £0
+
+Total: {{loss}} £222,520,000
+{{col-3}}
+
+====Income====
+Summer: {{gain}} £68,400,000
+
+Winter: {{gain}} £0
+
+Total: {{gain}} £68,400,000
+{{col-3}}
+
+====Net totals====
+Summer: {{loss}} £154,120,000
+
+Winter: {{nochange}} £0
+
+Total: {{loss}} £154,120,000
+{{col-end}}
+
+==Pre-season friendlies==
+{{legend2|#CCFFCC|Win|border=1px solid=#AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{Football box collapsible
+| round = [[Exhibition game#Association football|Friendly]]
+| date = 29 August 2020
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] 
+| goals1 = [[Pascal Groß|Groß]] {{goal|90|pen.}}
+| score = 1–1
+| report = https://www.bbc.co.uk/sport/football/53960784
+| team2 =  Chelsea
+| goals2 = [[Timo Werner|Werner]] {{goal|4}}<br />[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|34}}
+| location = [[Falmer]]
+| stadium = [[Falmer Stadium]]
+| attendance = 2,524
+| referee = [[Stuart Attwell]] ([[The Football Association|England]])
+| result = D
+}}
+
+==Competitions==
+
+===Premier League===
+{{main|2020–21 Premier League}}
+
+====League table====
+{{:2020–21 Premier League|showteam=CHE}}
+
+====Results summary====
+{{Fb_rs|hw=9|hd=6|hl=4|hgf=31|hga=18|aw=10|ad=4|al=5|agf=27|aga=18}}
+{{Fb_rs footer|s=[https://int.soccerway.com/teams/england/chelsea-football-club/661/statistics/ Soccerway]|date=August 2020}}
+
+====Results by matchday====
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Matchday
+| label1=Ground
+| res1= A/H/A/H/H/A/A/H/A/H/H/A/A/H/A/H/H/A/A/H/H/A/A/H/A/H/H/A/A/H/A/H/A/H/A/H/H/A
+| label2= Result
+| res2= W/L/D/W/D/D/W/W/W/D/W/L/L/W/L/D/L/W/L/D/W/W/W/W/D/D/W/W/D/L/W/D/W/W/W/L/W/L
+| label3= Position
+| pos3= 3/11/9/7/8/10/7/5/3/3/3/5/7/5/8/6/9/9/9/8/7/6/5/4/5/5/4/4/4/5/5/4/4/4/3/4/3/4
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2–4=green1|color_5–6=blue1|color_7=yellow1|color_18–20=red1
+| source=
+}}
+
+==== Score overview ====
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+{|class="wikitable" style="text-align: center;"
+|-
+!Opposition
+!Home score
+!Away score
+!Aggregate score
+!Double
+|-
+|[[Arsenal F.C.|Arsenal]]
+| style="background:#ffbbbb;"|0–1
+| style="background:#ffbbbb;"|1–3
+| style="background:#ffbbbb;"|1–4
+| {{na}}
+|-
+|[[Aston Villa F.C.|Aston Villa]]
+| style="background:#ffffbb;"|1–1
+| style="background:#ffbbbb;"|1–2
+| style="background:#ffbbbb;"|2–3
+| {{na}}
+|-
+|[[Brighton and Hove Albion F.C.|Brighton]]
+| style="background:#ffffbb;"|0–0
+| style="background:#bbf3bb;"|3–1
+| style="background:#bbf3bb;"|3–1
+|{{na}}
+|-
+|[[Burnley F.C.|Burnley]]
+| style="background:#bbf3bb;"|2–0
+| style="background:#bbf3bb;"|3–0
+| style="background:#bbf3bb;"|5–0
+|{{ya}}
+|-
+|[[Crystal Palace F.C.|Crystal Palace]]
+| style="background:#bbf3bb;"|4–0
+| style="background:#bbf3bb;"|4–1
+| style="background:#bbf3bb;"|8–1
+|{{ya}}
+|-
+|[[Everton F.C.|Everton]]
+|style="background:#bbf3bb;"|2–0
+|style="background:#ffbbbb;"|0–1
+|style="background:#bbf3bb;"|2–1
+|{{na}}
+|-
+|[[Fulham F.C.|Fulham]]
+|style="background:#bbf3bb;"|2–0
+|style="background:#bbf3bb;"|1–0
+|style="background:#bbf3bb;"|3–0
+|{{ya}}
+|-
+|[[Leeds United F.C.|Leeds United]]
+| style="background:#bbf3bb;"|3–1
+| style="background:#ffffbb;"|0–0
+| style="background:#bbf3bb;"|3–1
+|{{na}}
+|-
+|[[Leicester City F.C.|Leicester City]]
+| style="background:#bbf3bb;"|2–1
+| style="background:#ffbbbb;"|0–2
+| style="background:#ffbbbb;"|2–3
+|{{na}}
+|-
+|[[Liverpool F.C.|Liverpool]]
+| style="background:#ffbbbb;"|0–2
+| style="background:#bbf3bb;"|1–0
+| style="background:#ffbbbb;"|1–2
+|{{na}}
+|-
+|[[Manchester City F.C.|Manchester City]]
+| style="background:#ffbbbb;"|1–3
+| style="background:#bbf3bb;"|2–1
+| style="background:#ffbbbb;"|3–4
+|{{na}}
+|-
+|[[Manchester United F.C.|Manchester United]]
+| style="background:#ffffbb;"|0–0
+| style="background:#ffffbb;"|0–0
+| style="background:#ffffbb;"|0–0
+|{{na}}
+|-
+|[[Newcastle United F.C.|Newcastle United]]
+| style="background:#bbf3bb;"|2–0
+| style="background:#bbf3bb;"|2–0
+| style="background:#bbf3bb;"|4–0
+|{{ya}}
+|-
+|[[Sheffield United F.C.|Sheffield United]]
+|style="background:#bbf3bb;"|4–1
+|style="background:#bbf3bb;"|2–1
+|style="background:#bbf3bb;"|6–2
+|{{ya}}
+|-
+|[[Southampton F.C.|Southampton]]
+| style="background:#ffffbb;"|3–3
+| style="background:#ffffbb;"|1–1
+| style="background:#ffffbb;"|4–4
+|{{na}}
+|-
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| style="background:#ffffbb;"|0–0
+| style="background:#bbf3bb;"|1–0
+| style="background:#bbf3bb;"|1–0
+|{{na}}
+|-
+|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|style="background:#ffbbbb;"|2–5
+|style="background:#ffffbb;"|3–3
+|style="background:#ffbbbb;"|5–8
+|{{na}}
+|-
+|[[West Ham United F.C.|West Ham United]]
+| style="background:#bbf3bb;"|3–0
+| style="background:#bbf3bb;"|1–0
+| style="background:#bbf3bb;"|4–0
+|{{ya}}
+|-
+|[[Wolverhampton Wanderers F.C.|Wolves]]
+| style="background:#ffffbb;"|0–0
+| style="background:#ffbbbb;"|1–2
+| style="background:#ffbbbb;"|1–2
+|{{na}}
+|}
+
+====Matches====
+{{Football box collapsible
+| round = 1
+| date = 14 September 2020
+| time = 20:00 [[British Summer Time|BST]]
+| team1 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| goals1 = [[Leandro Trossard|Trossard]] {{goal|54}}<br />[[Tariq Lamptey|Lamptey]] {{yel|81}}
+| score = 1–3
+| report = https://www.premierleague.com/match/58904
+| team2 = Chelsea
+| goals2 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|23|pen.}}<br />[[Reece James (footballer, born 1999)|James]] {{goal|56}}<br />[[Kurt Zouma|Zouma]] {{goal|66}}
+| location = [[Falmer]]
+| stadium = [[Falmer Stadium]]
+| attendance = 0
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{Football box collapsible
+| round = 2
+| date = 20 September 2020
+| time = 16:30 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Andreas Christensen|Christensen]] {{sent off|0|45+1}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{penmiss}} <small>75'</small>
+| score = 0–2
+| report = https://www.premierleague.com/match/58908
+| team2 = [[Liverpool F.C.|Liverpool]]
+| goals2 = [[Sadio Mané|Mané]] {{goal|50||54}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| result = L
+}}
+{{Football box collapsible
+| round = 3
+| date = 26 September 2020
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[West Bromwich Albion F.C.|West Bromwich Albion]]
+| goals1 = [[Callum Robinson|Robinson]] {{goal|4||25}}<br />[[Kyle Bartley|Bartley]] {{goal|27}}<br />[[Darnell Furlong|Furlong]] {{yel|82}}
+| score = 3–3
+| report = https://www.premierleague.com/match/58924
+| team2 = Chelsea
+| goals2 = [[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|8}}<br />[[Reece James (footballer, born 1999)|James]] {{yel|27}}<br />[[Mason Mount|Mount]] {{goal|54}}<br />[[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|70}}<br />[[Andreas Christensen|Christensen]] {{yel|86}}<br />[[Tammy Abraham|Abraham]] {{goal|90+3}}
+| location = [[West Bromwich]]
+| stadium = [[The Hawthorns]]
+| attendance = 0
+| referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+| result = D
+}}
+{{Football box collapsible
+| round = 4
+| date = 3 October 2020
+| time = 12:30 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Ben Chilwell|Chilwell]] {{goal|50}}<br />[[César Azpilicueta|Azpilicueta]] {{yel|64}}<br />[[Kurt Zouma|Zouma]] {{goal|66}}<br />[[N'Golo Kanté|Kanté]] {{yel|70}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|78|pen.|82|pen.}}
+| score = 4–0
+| report = https://www.premierleague.com/match/58928
+| team2 = [[Crystal Palace F.C.|Crystal Palace]]
+| goals2 = 
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = W
+}}
+{{Football box collapsible
+| round = 5
+| date = 17 October 2020
+| time = 16:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Timo Werner|Werner]] {{goal|15||28}}<br />[[Ben Chilwell|Chilwell]] {{yel|48}}<br />[[Kai Havertz|Havertz]] {{goal|59}}
+| score = 3–3
+| report = https://www.premierleague.com/match/58936
+| team2 = [[Southampton F.C.|Southampton]]
+| goals2 = [[Danny Ings|Ings]] {{goal|43}}<br />[[Ché Adams|Adams]] {{goal|57}}<br />[[Oriol Romeu|Romeu]] {{yel|84}}<br />[[Jannik Vestergaard|Vestergaard]] {{goal|90+2}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Peter Bankes]]
+| result = D
+}}
+{{Football box collapsible
+| round = 6
+|id=| date = 24 October 2020
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[Manchester United F.C.|Manchester United]]
+| goals1 = [[Luke Shaw|Shaw]] {{yel|39}}<br />[[Fred (footballer, born 1993)|Fred]] {{yel|46}}<br />[[Marcus Rashford|Rashford]] {{yel|76}}
+| score = 0–0
+| report = https://www.premierleague.com/match/58952
+| team2 = Chelsea
+| goals2 = [[Kai Havertz|Havertz]] {{yel|45+1}}
+| location = [[Manchester]]
+| stadium = [[Old Trafford]]
+| attendance = 0
+| referee = [[Martin Atkinson]]
+| result = D
+}}
+{{Football box collapsible
+| round = 7
+| date = 31 October 2020
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Burnley F.C.|Burnley]]
+| goals1 = [[Kevin Long (footballer)|Long]] {{yel|49}}
+| score = 0–3
+| report = https://www.premierleague.com/match/58957
+| team2 = Chelsea
+| goals2 = [[Hakim Ziyech|Ziyech]] {{goal|26}}<br />[[Kurt Zouma|Zouma]] {{goal|63}}<br />[[Timo Werner|Werner]] {{goal|70}}
+| location = [[Burnley]]
+| stadium = [[Turf Moor]]
+| attendance = 0
+| referee = [[David Coote (referee)|David Coote]]
+| result = W
+}}
+{{Football box collapsible
+| round = 8
+| date = 7 November 2020
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Tammy Abraham|Abraham]] {{goal|23}}<br />[[Ben Chilwell|Chilwell]] {{goal|34}}<br />[[Thiago Silva]] {{goal|77}}<br />[[Timo Werner|Werner]] {{goal|80}}
+| score = 4–1
+| report = https://www.premierleague.com/match/58968
+| team2 = [[Sheffield United F.C.|Sheffield United]]
+| goals2 = [[David McGoldrick|McGoldrick]] {{goal|9}}<br />[[John Egan (footballer, born 1992)|Egan]] {{yel|37}}<br />[[Sander Berge|Berge]] {{yel|75}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+| result = W
+}}
+{{Football box collapsible
+| round = 9
+| date = 21 November 2020
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Newcastle United F.C.|Newcastle United]]
+| goals1 = [[Isaac Hayden|Hayden]] {{yel|39}}<br />[[Jacob Murphy|Murphy]] {{yel|45}}
+| score = 0–2
+| report = https://www.premierleague.com/match/58982
+| team2 = Chelsea
+| goals2 = [[Federico Fernández (footballer)|Fernández]] {{goal|10|o.g.}}<br />[[Tammy Abraham|Abraham]] {{goal|65}}
+| location = [[Newcastle upon Tyne|Newcastle]]
+| stadium = [[St James' Park]]
+| attendance = 0
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|10]]
+| date = 29 November 2020
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Hakim Ziyech|Ziyech]] {{yel|29}}<br />[[Reece James (footballer, born 1999)|James]] {{yel|53}}<br />[[Kurt Zouma|Zouma]] {{yel|55}}<br />[[Mason Mount|Mount]] {{yel|76}}
+| score = 0–0
+| report = https://www.premierleague.com/match/58988
+| team2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| goals2 = [[Steven Bergwijn|Bergwijn]] {{yel|50}}<br />[[Sergio Reguilón|Reguilón]] {{yel|89}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| result = D
+}}
+{{Football box collapsible
+| round      = [[Chelsea F.C.–Leeds United F.C. rivalry|11]]
+| date       = 5 December 2020
+| time       = 20:00 [[Greenwich Mean Time|GMT]]
+| team1      = Chelsea
+| goals1     = [[Olivier Giroud|Giroud]] {{goal|27}}<br />[[Kurt Zouma|Zouma]] {{goal|61}}<br />[[Christian Pulisic|Pulisic]] {{goal|90+3}}
+| score      = 3–1
+| report     = https://www.premierleague.com/match/58999
+| team2      = [[Leeds United F.C.|Leeds United]]
+| goals2     = [[Patrick Bamford|Bamford]] {{goal|4}}<br />[[Diego Llorente|Llorente]] {{yel|74}}<br />[[Raphinha (footballer, born 1996)|Raphinha]] {{yel|90+5}}
+| location   = [[London]]
+| stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 2,000
+| referee    = [[Kevin Friend]]
+| result     = W
+}}
+{{Football box collapsible
+| round      = 12
+| date       = 12 December 2020
+| time       = 20:00 [[Greenwich Mean Time|GMT]]
+| team1      = [[Everton F.C.|Everton]]
+| goals1     = [[Gylfi Sigurðsson|Sigurðsson]] {{goal|22|pen.}}<br />[[Richarlison]] {{yel|24}}<br />[[Abdoulaye Doucouré|Doucouré]] {{yel|80}}
+| score      = 1–0
+| report     = https://www.premierleague.com/match/59008
+| team2      = Chelsea
+| goals2     = [[N'Golo Kanté|Kanté]] {{yel|45+3}}<br />[[Reece James (footballer, born 1999)|James]] {{yel|59}}<br />[[Thiago Silva]] {{yel|65}}
+| location   = [[Liverpool]]
+| stadium    = [[Goodison Park]]
+| attendance = 2,000
+| referee    = [[Jonathan Moss (referee)|Jonathan Moss]]
+| result     = L
+}}
+{{Football box collapsible
+| round = 13
+| date = 15 December 2020
+| time = 18:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| goals1 = [[Daniel Podence|Podence]] {{goal|66}}, {{yel|77}}<br />[[Nélson Semedo|Semedo]] {{yel|90+4}}<br />[[Pedro Neto|Neto]] {{goal|90+5}}
+| score = 2–1
+| report = https://www.premierleague.com/match/59023
+| team2 = Chelsea
+| goals2 = [[Olivier Giroud|Giroud]] {{goal|49}}<br />[[Mason Mount|Mount]] {{yel|60}}<br />[[N'Golo Kanté|Kanté]] {{yel|85}}
+| location = [[Wolverhampton]]
+| stadium = [[Molineux Stadium|Molineux]]
+| attendance = 0
+| referee = [[Stuart Attwell]]
+| result = L
+}}
+{{Football box collapsible
+| round = 14
+| date = 21 December 2020
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Thiago Silva]] {{goal|10}}<br />[[Tammy Abraham|Abraham]] {{goal|78||80}}
+| score = 3–0
+| report = https://www.premierleague.com/match/59028
+| team2 = [[West Ham United F.C.|West Ham United]]
+| goals2 = 
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[Arsenal F.C.–Chelsea F.C. rivalry|15]]
+| date = 26 December 2020
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Arsenal F.C.|Arsenal]]
+| goals1 = [[Pablo Marí|Marí]] {{yel|16}}<br />[[Alexandre Lacazette|Lacazette]] {{goal|34|pen.}}<br />[[Granit Xhaka|Xhaka]] {{goal|44}}<br />[[Bukayo Saka|Saka]] {{goal|56}}<br />[[Kieran Tierney|Tierney]] {{yel|83}}
+| score = 3–1
+| report = https://www.premierleague.com/match/59036
+| team2 = Chelsea
+| goals2 = [[Thiago Silva]] {{yel|73}}<br />[[Tammy Abraham|Abraham]] {{goal|85}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{penmiss}} {{small|90+1}}
+| location = [[London]]
+| stadium = [[Emirates Stadium|Emirates]]
+| attendance = 0
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = L
+}}
+{{Football box collapsible
+| round = 16
+| date = 28 December 2020
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Olivier Giroud|Giroud]] {{goal|34}}, {{yel|71}}<br />[[César Azpilicueta|Azpilicueta]] {{yel|45+2}}<br />[[N'Golo Kanté|Kanté]] {{yel|74}}
+| score = 1–1
+| report = https://www.premierleague.com/match/59048
+| team2 = [[Aston Villa F.C.|Aston Villa]]
+| goals2 = [[Anwar El Ghazi|El Ghazi]] {{goal|50}}, {{yel|71}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Stuart Attwell]]
+| result = D
+}}
+{{Football box collapsible
+| round = 17
+| date = 3 January 2021
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Christian Pulisic|Pulisic]] {{yel|45+1}}<br />[[N'Golo Kanté|Kanté]] {{yel|53}}<br />[[Mateo Kovačić|Kovačić]] {{yel|71}}<br />[[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|90+2}}
+| score = 1–3
+| report = https://www.premierleague.com/match/59058
+| team2 = [[Manchester City F.C.|Manchester City]]
+| goals2 = [[İlkay Gündoğan|Gündoğan]] {{goal|18}}<br />[[Phil Foden|Foden]] {{goal|21}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|34}}<br />[[Bernardo Silva|Silva]] {{yel|90}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = L
+}}
+{{Football box collapsible
+| round = [[West London derby|18]]
+| date = 16 January 2021
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Fulham F.C.|Fulham]]
+| goals1 = [[Antonee Robinson|Robinson]] {{sentoff|0|44}}<br />[[Bobby Decordova-Reid|Reid]] {{yel|69}}<br />[[Ademola Lookman|Lookman]] {{yel|88}}
+| score = 0–1
+| report = https://www.premierleague.com/match/59078
+| team2 = Chelsea
+| goals2 = [[Hakim Ziyech|Ziyech]] {{yel|72}}<br />[[Mason Mount|Mount]] {{goal|78}}<br />[[Thiago Silva]] {{yel|82}}<br />[[César Azpilicueta|Azpilicueta]] {{yel|90+4}}
+| location = [[London]]
+| stadium = [[Craven Cottage]]
+| attendance = 0
+| referee = [[Peter Bankes]]
+| result = W
+}}
+{{Football box collapsible
+| round = 19
+| date = 19 January 2021
+| time = 20:15 [[Greenwich Mean Time|GMT]]
+| team1 = [[Leicester City F.C.|Leicester City]]
+| goals1 = [[Wilfred Ndidi|Ndidi]] {{goal|6}}<br />[[James Maddison|Maddison]] {{goal|41}}<br />[[Wesley Fofana (footballer)|Fofana]] {{yel|85}}
+| score = 2–0
+| report = https://www.premierleague.com/match/59070
+| team2 = Chelsea
+| goals2 = [[Kai Havertz|Havertz]] {{yel|29}}<br />[[Mateo Kovačić|Kovačić]] {{yel|51}}<br />[[Hakim Ziyech|Ziyech]] {{yel|89}}
+| location = [[Leicester]]
+| stadium = [[King Power Stadium|King Power]]
+| attendance = 0
+| referee = [[Craig Pawson]]
+| result = L
+}}
+{{Football box collapsible
+| round = 20
+| date = 27 January 2021
+| time = 18:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Ben Chilwell|Chilwell]] {{yel|62}}
+| score = 0–0
+| report = https://www.premierleague.com/match/59091
+| team2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| goals2 = [[Pedro Neto|Neto]] {{yel|51}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Andrew Madley]]
+| result = D
+}}
+{{Football box collapsible
+| round = 21
+| date = 31 January 2021
+| time = 12:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[César Azpilicueta|Azpilicueta]] {{goal|40}}<br />[[Marcos Alonso (footballer, born 1990)|Alonso]] {{goal|84}}
+| score = 2–0
+| report = https://www.premierleague.com/match/59098
+| team2 = [[Burnley F.C.|Burnley]]
+| goals2 = [[Ashley Westwood (footballer, born 1990)|Westwood]] {{yel|60}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Graham Scott (referee)|Graham Scott]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|22]]
+| date = 4 February 2021
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| goals1 = [[Toby Alderweireld|Alderweireld]] {{yel|50}}<br />[[Pierre-Emile Højbjerg|Højbjerg]] {{yel|63}}
+| score = 0–1
+| report = https://www.premierleague.com/match/59115
+| team2 = Chelsea
+| goals2 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|24|pen.}}<br />[[Christian Pulisic|Pulisic]] {{yel|79}}<br />[[N'Golo Kanté|Kanté]] {{yel|81}}<br />[[César Azpilicueta|Azpilicueta]] {{yel|88}}
+| location   = [[Tottenham]]
+| stadium    = [[Tottenham Hotspur Stadium]]
+| attendance = 0
+| referee    = [[Andre Marriner]]
+| result     = W
+}}
+{{Football box collapsible
+| round = 23
+| date = 7 February 2021
+| time = 19:15 [[Greenwich Mean Time|GMT]]
+| team1 = [[Sheffield United F.C.|Sheffield United]]
+| goals1 = [[Chris Basham|Basham]] {{yel|17}}<br />[[Antonio Rüdiger|Rüdiger]] {{goal|54|o.g.}}
+| score = 1–2
+| report = https://www.premierleague.com/match/59123
+| team2 = Chelsea
+| goals2 = [[Mason Mount|Mount]] {{goal|43}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|58|pen.}}
+| location = [[Sheffield]]
+| stadium = [[Bramall Lane]]
+| attendance = 0
+| referee = [[Kevin Friend]]
+| result = W
+}}
+{{Football box collapsible
+| round = 24
+| date = 15 February 2021
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Olivier Giroud|Giroud]] {{goal|31}}<br />[[Timo Werner|Werner]] {{goal|39}}
+| score = 2–0
+| report = https://www.premierleague.com/match/59128
+| team2 = [[Newcastle United F.C.|Newcastle United]]
+| goals2 = 
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Peter Bankes]]
+| result = W
+}}
+{{Football box collapsible
+| round      = 25
+| date       = 20 February 2021
+| time       = 12:30 [[Greenwich Mean Time|GMT]]
+| team1      = [[Southampton F.C.|Southampton]]
+| goals1     = [[Takumi Minamino|Minamino]] {{goal|33}}<br />[[Alex McCarthy|McCarthy]] {{yel|90+2}}
+| score      = 1–1
+| report     = https://www.premierleague.com/match/59143
+| team2      = Chelsea
+| goals2     = [[Mason Mount|Mount]] {{goal|54|pen.}}<br />[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|80}}
+| location   = [[Southampton]]
+| stadium    = [[St Mary's Stadium|St. Mary's]]
+| attendance = 0
+| referee    = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result     = D
+}}
+{{Football box collapsible
+| round = 26
+| date = 28 February 2021
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Ben Chilwell|Chilwell]] {{yel|62}}
+| score = 0–0
+| report = https://www.premierleague.com/match/59146
+| team2 = [[Manchester United F.C.|Manchester United]]
+| goals2 = [[Fred (footballer, born 1993)|Fred]] {{yel|50}}<br />[[Harry Maguire|Maguire]] {{yel|79}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Stuart Attwell]]
+| result = D
+}}
+{{Football box collapsible
+| round = 27
+| date = 4 March 2021
+| time = 20:15 [[Greenwich Mean Time|GMT]]
+| team1 = [[Liverpool F.C.|Liverpool]]
+| goals1 = 
+| score = 0–1
+| report = https://www.premierleague.com/match/59180
+| team2 = Chelsea
+| goals2 = [[Mason Mount|Mount]] {{goal|42}}
+| location = [[Liverpool]]
+| stadium = [[Anfield]]
+| attendance = 0
+| referee = [[Martin Atkinson]]
+| result = W
+}}
+{{Football box collapsible
+| round = 28
+| date = 8 March 2021
+| time = 18:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Ben Godfrey|Godfrey]] {{goal|31|o.g.}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|65|pen.}}
+| score = 2–0
+| report = https://www.premierleague.com/match/59159
+| team2 = [[Everton F.C.|Everton]]
+| goals2 = [[Mason Holgate|Holgate]] {{yel|17}}<br />[[Lucas Digne|Digne]] {{yel|50}}<br />[[Tom Davies (footballer, born 1998)|Davies]] {{yel|90}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[David Coote (referee)|David Coote]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[Chelsea F.C.–Leeds United F.C. rivalry|29]]
+| date = 13 March 2021
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Leeds United F.C.|Leeds United]]
+| goals1 = [[Tyler Roberts|Roberts]] {{yel|23}}<br />[[Ezgjan Alioski|Alioski]] {{yel|71}}<br />[[Rodrigo (footballer, born 1991)|Rodrigo]] {{yel|75}}
+| score = 0–0
+| report = https://www.premierleague.com/match/59170
+| team2 = Chelsea
+| goals2 = 
+| location = [[Leeds]]
+| stadium = [[Elland Road]]
+| attendance = 0
+| referee = [[Kevin Friend]]
+| result = D
+}}
+{{Football box collapsible
+| round = 30
+| date = 3 April 2021
+| time = 12:30 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Thiago Silva]] {{sentoff|2|5|29}}<br>[[Christian Pulisic|Pulisic]] {{goal|27}}<br>[[Mateo Kovačić|Kovačić]] {{yel|66}}<br>[[Mason Mount|Mount]] {{goal|71}}
+| score = 2–5
+| report = https://www.premierleague.com/match/59188
+| team2 = [[West Bromwich Albion F.C.|West Bromwich Albion]]
+| goals2 = [[Mbaye Diagne (footballer)|Diagne]] {{yel|14}}, {{goal|68}}<br>[[Matheus Pereira (footballer, born 1996)|Pereira]] {{goal|45+2||45+4}}<br>[[Callum Robinson|Robinson]] {{goal|63||90+1}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[David Coote (referee)|David Coote]]
+| result = L
+}}
+{{Football box collapsible
+| round = 31
+| date = 10 April 2021
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[Crystal Palace F.C.|Crystal Palace]]
+| goals1 = [[Cheikhou Kouyaté|Kouyaté]] {{yel|29}}<br>[[Christian Benteke|Benteke]] {{goal|63}}
+| score = 1–4
+| report = https://www.premierleague.com/match/59198
+| team2 = Chelsea
+| goals2 = [[Kai Havertz|Havertz]] {{goal|8}}<br>[[Christian Pulisic|Pulisic]] {{goal|10||78}}<br>[[Kurt Zouma|Zouma]] {{goal|30}}
+| location = [[London]]
+| stadium = [[Selhurst Park]]
+| attendance = 0
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = W
+}}
+{{Football box collapsible
+| round = 32
+| date = 20 April 2021
+| time = 20:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|35}}<br>[[Kurt Zouma|Zouma]] {{yel|35}}
+| score = 0–0
+| report = https://www.premierleague.com/match/59208
+| team2 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| goals2 = [[Ben White (footballer)|White]] {{sentoff|2|73|90+2}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Stuart Attwell]]
+| result = D
+}}
+{{Football box collapsible
+| round = 33
+| date = 24 April 2021
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[West Ham United F.C.|West Ham United]]
+| goals1 = [[Fabián Balbuena|Balbuena]] {{sentoff|0|81}}
+| score = 0–1
+| report = https://www.premierleague.com/match/59224
+| team2 = Chelsea
+| goals2 = [[Timo Werner|Werner]] {{yel|35}}, {{goal|43}}<br>[[Andreas Christensen|Christensen]] {{yel|42}}<br>[[Édouard Mendy|Mendy]] {{yel|90+4}}<br>[[N'Golo Kanté|Kanté]] {{yel|90+5}}
+| location = [[London]]
+| stadium = [[London Stadium|London]]
+| attendance = 0
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[West London derby|34]]
+| date = 1 May 2021
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Kai Havertz|Havertz]] {{goal|10||49}}<br>[[Kurt Zouma|Zouma]] {{yel|41}}
+| score = 2–0
+| report = https://www.premierleague.com/match/59228
+| team2 = [[Fulham F.C.|Fulham]]
+| goals2 = [[Ola Aina|Aina]] {{yel|90+4}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Kevin Friend]]
+| result = W
+}}
+{{Football box collapsible
+| round = 35
+| date = 8 May 2021
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[Manchester City F.C.|Manchester City]]
+| goals1 = [[Raheem Sterling|Sterling]] {{yel|12}}, {{goal|44}}<br>[[Sergio Agüero|Agüero]] {{penmiss}} {{small|45+3'}}<br>[[Gabriel Jesus]] {{yel|90}}
+| score = 1–2
+| report = https://www.premierleague.com/match/59242
+| team2 = Chelsea
+| goals2 = [[Hakim Ziyech|Ziyech]] {{goal|63}}<br>[[Marcos Alonso (footballer, born 1990)|Alonso]] {{goal|90+2}}
+| location = [[Manchester]]
+| stadium = [[City of Manchester Stadium]]
+| attendance = 0
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[Arsenal F.C.–Chelsea F.C. rivalry|36]]
+| date = 12 May 2021
+| time = 20:15 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = 
+| score = 0–1
+| report = https://www.premierleague.com/match/59251
+| team2 = [[Arsenal F.C.|Arsenal]]
+| goals2 = [[Emile Smith Rowe|Smith Rowe]] {{goal|16}}<br>[[Thomas Partey|Partey]] {{yel|90+4}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Andre Marriner]]
+| result = L
+}}
+{{Football box collapsible
+| round = 37
+| date = 18 May 2021
+| time = 20:15 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Antonio Rüdiger|Rüdiger]] {{goal|47}}<br>[[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|66|pen.}}<br>[[César Azpilicueta|Azpilicueta]] {{yel|87}}<br>[[Édouard Mendy|Mendy]] {{yel|90+1}}
+| score = 2–1
+| report = https://www.premierleague.com/match/59258
+| team2 = [[Leicester City F.C.|Leicester City]]
+| goals2 = [[Ayoze Pérez|Pérez]] {{yel|32}}<br>[[Kelechi Iheanacho|Iheanacho]] {{goal|76}}<br>[[Wesley Fofana (footballer)|Fofana]] {{yel|82}}<br>[[Wilfred Ndidi|Ndidi]] {{yel|89}}<br>[[Ricardo Pereira (footballer, born 1993)|Pereira]] {{yel|90+4}}<br>[[Daniel Amartey|Amartey]] {{yel|90+5}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 7,195
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = W
+}}
+{{Football box collapsible
+| round = 38
+| date = 23 May 2021
+| time = 16:00 [[British Summer Time|BST]]
+| team1 = [[Aston Villa F.C.|Aston Villa]]
+| goals1 = [[Bertrand Traoré|Traoré]] {{goal|43}}<br>[[Anwar El Ghazi|El Ghazi]] {{goal|52|pen.}}<br>[[John McGinn|McGinn]] {{yel|65}}<br>[[Marvelous Nakamba|Nakamba]] {{yel|74}}<br>[[Emiliano Martínez|Martínez]] {{yel|81}}
+| score = 2–1
+| report = https://www.premierleague.com/match/59267
+| team2 = Chelsea
+| goals2 = [[Jorginho (footballer, born 1995)|Jorginho]] {{yel|45}}<br>[[Timo Werner|Werner]] {{yel|45+2}}<br>[[Mateo Kovačić|Kovačić]] {{yel|49}}<br>[[Ben Chilwell|Chilwell]] {{goal|70}}<br>[[César Azpilicueta|Azpilicueta]] {{sentoff|0|89}}<br>[[Kepa Arrizabalaga|Arrizabalaga]] {{yel|90+5}}
+| location = [[Birmingham]]
+| stadium = [[Villa Park]]
+| attendance = 10,000
+| referee = [[Stuart Attwell]]
+| result = L
+}}
+
+===FA Cup===
+{{main|2020–21 FA Cup}}
+
+Chelsea got the right to enter the [[2020–21 FA Cup]] in the third round proper along with the other Premier League and Championship clubs. The third round draw was made on 30 November, and Chelsea were drawn against [[EFL League Two|League Two]] side [[Morecambe F.C.|Morecambe]].<ref>{{Cite web |title=Premier League and Championship clubs join Emirates FA Cup After third round Draw |url=https://www.thefa.com/news/2020/nov/30/emirates-fa-cup-third-round-proper-draw-301120 |publisher=The Football Association |access-date=10 December 2020}}</ref> The draw for the fourth and fifth round were made on 11 January, conducted by [[Peter Crouch]].<ref>{{cite web |title=The Emirates FA Cup fourth and fifth round draw made |url=https://www.thefa.com/news/2021/jan/11/emirates-fa-cup-fourth-and-fifth-round-draws-20211101 |publisher=The Football Association |access-date=11 January 2021}}</ref> In the fourth round, Chelsea overcame [[EFL Championship|Championship]] club [[Luton Town F.C.|Luton Town]] by a score of 3–1, with [[Tammy Abraham]] scoring all three goals for his side. In doing so, Abraham became the first Englishman to a score a hat-trick for Chelsea in the FA Cup since manager [[Frank Lampard]] in [[2006–07 FA Cup|2007]], and he became the first Chelsea youth team product to score ten or more goals in back-to-back seasons since [[Mike Fillery]] in [[1982–83 Football League|1982–83]].<ref>{{cite web|url=https://www.goal.com/en/news/abraham-matches-lampard-with-fa-cup-hat-trick-for-chelsea-vs/1kznpisap182s1eyvjen7okf4l|title=Abraham matches Lampard with FA Cup hat-trick for Chelsea vs Luton|website=Goal|date=24 January 2021|access-date=24 January 2021}}</ref> The match against Luton Town was Lampard's last in charge as he was sacked the following day.<ref name="ESPNTuchel" /> The draw for the quarter-finals was made, live on [[BT Sport]] by [[Karen Carney]] on 11 February.<ref>{{cite news | url=https://www.thefa.com/news/2021/feb/11/emirates-fa-cup-quarter-final-draw-20210211 | title=The draw for the quarter-final of the Emirates FA Cup was made on Thursday evening | website=The FA |publisher=The Football Association |date=11 February 2021 | access-date=11 February 2021}}</ref> The draw for the semi-finals was made, live on [[BBC One]] by [[Dion Dublin]] on 21 March.<ref>{{cite news | url=https://www.thefa.com/news/2021/mar/21/emirates-fa-cup-semi-final-draw-20210321 | title=See the line-up for this season's Emirates FA Cup semi-finals after Sunday's draw | website=The FA |publisher=The Football Association | date=21 March 2021 | access-date=21 March 2021}}</ref> Chelsea reached the [[2021 FA Cup Final]] after defeating [[Manchester City F.C.|Manchester City]] 1–0 in the semi-final with a goal from [[Hakim Ziyech]]. However, Chelsea would end up losing the final 1–0 to [[Leicester City F.C.|Leicester City]] following a controversial goal from [[Youri Tielemans]].<ref>{{cite news|first=Phil|last=McNulty|title= Youri Tielemans produced one of the great FA Cup final goals to give Leicester City the trophy for the first time in their history with victory over Chelsea at Wembley|date=15 May 2021|website=BBC.com|url= https://www.bbc.com/sport/football/57055571|access-date=17 May 2021}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/sport/football/57055571|title=Chelsea 0 v Leicester City 1|publisher=[[BBC Sport]]|date=15 May 2021|access-date=15 May 2021}}</ref>
+
+{{Football box collapsible
+|date = 10 January 2021
+|time = 13:30 [[Greenwich Mean Time|GMT]]
+|round = [[2020–21 FA Cup#Third round proper|Third round]]
+|team1 = Chelsea
+|score = 4–0
+|report = https://www.bbc.co.uk/sport/football/55575484
+|team2 = [[Morecambe F.C.|Morecambe]]
+|goals1 = [[Mason Mount|Mount]] {{goal|18}}<br />[[Timo Werner|Werner]] {{goal|44}}<br />[[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|49}}<br />[[Kai Havertz|Havertz]] {{goal|85}}
+|goals2 = [[Liam Gibson|Gibson]] {{yel|78}}
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 0
+|referee = [[Darren England]]
+|result = W
+}}
+{{football box collapsible
+|date = 24 January 2021
+|time = 12:00 [[Greenwich Mean Time|GMT]]
+|round = [[2020-21 FA Cup#Fourth round proper|Fourth round]]
+|team1 = Chelsea
+|score = 3–1
+|report = https://www.bbc.co.uk/sport/football/55770051
+|team2 = [[Luton Town F.C.|Luton Town]]
+|goals1 = [[Tammy Abraham|Abraham]] {{goal|11||17||74}}<br />[[Timo Werner|Werner]] {{penmiss}} <small>86'</small>
+|goals2 = [[Jordan Clark (English footballer)|Clark]] {{goal|30}}, {{yel|85}}
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 0
+|referee = [[David Coote (referee)|David Coote]]
+|result = W
+}}
+{{football box collapsible
+|date = 11 February 2021
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|round = [[2020-21 FA Cup#Fifth round proper|Fifth round]]
+|team1 = [[Barnsley F.C.|Barnsley]]
+|score = 0–1
+|report = https://www.bbc.co.uk/sport/football/55955768
+|team2 = Chelsea
+|goals1 = 
+|goals2 = 
+*[[Tammy Abraham|Abraham]] {{goal|64}}
+|stadium = [[Oakwell]]
+|location = [[Barnsley]]
+|attendance = 0
+|referee = [[Martin Atkinson]]
+|result = W
+}}
+{{Football box collapsible
+|date = 21 March 2021
+|time = 13:30 [[Greenwich Mean Time|GMT]]
+|round = [[2020–21 FA Cup#Quarter-finals|Quarter-finals]]
+|team1 = Chelsea
+|score = 2–0
+|report = https://www.bbc.co.uk/sport/football/56415023
+|team2 = [[Sheffield United F.C.|Sheffield United]]
+|goals1 =
+*[[Oliver Norwood|Norwood]] {{goal|24|o.g.}}
+*[[Hakim Ziyech|Ziyech]] {{goal|90+2}}
+|goals2 =
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]]
+|attendance = 0
+|referee = [[Andrew Madley]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[2020–21 FA Cup#Semi-finals|Semi-finals]]
+|date = 17 April 2021
+|time = 17:30 [[British Summer Time|BST]]
+|team1 = Chelsea
+|score = 1–0
+|report = https://www.bbc.co.uk/sport/football/56725442
+|team2 = [[Manchester City F.C.|Manchester City]]
+|goals1 = [[Reece James (footballer, born 1999)|James]] {{yel|34}}<br>[[Hakim Ziyech|Ziyech]] {{goal|55}}<br>[[César Azpilicueta|Azpilicueta]] {{yel|90}}
+|goals2 = [[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|65}}<br>[[Aymeric Laporte|Laporte]] {{yel|90+2}}<br>[[Rúben Dias|Dias]] {{yel|90+5}}
+|stadium = [[Wembley Stadium]]
+|location = [[London]]
+|attendance = 0
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[2021 FA Cup Final|Final]]
+|date = 15 May 2021
+|time = 17:30 [[British Summer Time|BST]]
+|team1 = Chelsea
+|score = 0–1
+|report = https://www.bbc.co.uk/sport/football/57055571
+|team2 = [[Leicester City F.C.|Leicester City]]
+|goals1 = [[Timo Werner|Werner]] {{yel|40}}
+|goals2 = [[Wesley Fofana (footballer)|Fofana]] {{yel|36}}<br>[[Youri Tielemans|Tielemans]] {{goal|63}}
+|stadium = [[Wembley Stadium]]
+|location = [[London]]
+|attendance = 20,000
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = L
+}}
+
+===EFL Cup===
+{{main|2020–21 EFL Cup}}
+
+The draw for both the second and third round were confirmed on September 6, live on [[Sky Sports]] by [[Phil Babb]].<ref>{{cite news |title=Carabao Cup: Round Two and Three draw confirmed |url=https://www.efl.com/news/2020/september/carabao-cup-round-two-draw-confirmed/ |access-date=6 September 2020 |publisher=[[English Football League]] |date=6 September 2020}}</ref> In the third round, Chelsea were drawn at home against [[EFL Championship|Championship]] side [[Barnsley F.C.|Barnsley]]. [[Tammy Abraham]] opened the scoring in the 19th minute, slotting past former Blues keeper [[Bradley Collins|Brad Collins]]. New signing [[Kai Havertz]] then latched on to [[Mason Mount]]'s pass after a clever Abraham dummy and slid left-footed effort into the bottom corner to open his Chelsea account.<ref name="BBCefl" /> [[Ross Barkley]] made it three after the break before Abraham's neat flick teed Havertz up for a simple finish inside the area. Abraham then found Havertz for his hat-trick goal in the 65th minute and [[Olivier Giroud]] finished the scoring to make it 6–0 with seven minutes to go.<ref name="BBCefl">{{cite web|url=https://www.bbc.com/sport/football/54190608|title=Kai Havertz's hat-trick in Chelsea's Carabao Cup thrashing of Barnsley will be the "first of many great nights" for him, says Blues boss Frank Lampard.|website=BBC|date=23 September 2020|access-date=21 December 2020}}</ref>
+
+The fourth round draw was conducted on 17 September 2020 by [[Laura Woods (English presenter)|Laura Woods]] and [[Lee Hendrie]] live on [[Sky Sports]]; Chelsea were handed an away game against Tottenham Hotspur, led by former manager [[José Mourinho]].<ref>{{cite web |title=Carabao Cup: Round Four draw confirmed |url=https://www.efl.com/news/2020/september/carabao-cup-round-four-draw-confirmed/|publisher=English Football League|access-date=23 September 2020 |language=en-gb |date=17 September 2020}}</ref> Chelsea went in front against Spurs with new signing Timo Werner netting his first goal for the club in the 19th minute.<ref>{{cite web |url=https://www.goal.com/en-in/match/tottenham-hotspur-v-chelsea/sagg9rj0febpb8zztm0shm38 |title=Tottenham 1-1 Chelsea (5-4 pens): Werner off the mark but Mount miss sends Spurs through |website=Goal |date=30 September 2020 |access-date=30 September 2020}}</ref> However, [[Erik Lamela]] would equalize for Tottenham with six minutes to go and the hosts would go on to win in the penalty shoot-out after a solitary miss from Chelsea midfielder [[Mason Mount]].<ref>{{cite web|url=https://www.skysports.com/football/tottenham-vs-chelsea/438838|title=Tottenham 1-1 Chelsea (5-4 pens): Spurs through to Carabao Cup quarter-finals on penalties after late equaliser|website=Sky Sports|date=29 September 2020|access-date=21 December 2020}}</ref>
+
+{{footballbox collapsible
+| date = 23 September 2020
+| time = 19:45 [[British Summer Time|BST]]
+| round = [[2020–21 EFL Cup#Third round|Third round]]
+| team1 = Chelsea
+| score = 6–0
+| report = https://www.bbc.co.uk/sport/football/54190608
+| team2 = [[Barnsley F.C.|Barnsley]]
+| goals1 = [[Tammy Abraham|Abraham]] {{goal|19}}<br />[[Kai Havertz|Havertz]] {{goal|28||55||65}}<br />[[Ross Barkley|Barkley]] {{goal|49}}<br />[[Olivier Giroud|Giroud]] {{goal|83}}
+| goals2 = [[Bradley Collins|Collins]] {{sentoff|2|45|65}}
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| location = [[London]]
+| attendance = 0
+| referee = [[Darren Bond]]
+| result = W
+}}
+{{footballbox collapsible
+| date = 29 September 2020
+| time = 19:45 [[British Summer Time|BST]]
+| round = [[2020–21 EFL Cup#Fourth round|Fourth round]]
+| team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| score = 1–1
+| penaltyscore = 5–4
+| report = https://www.bbc.co.uk/sport/football/54298219
+| team2 = Chelsea
+| goals1 = [[Serge Aurier|Aurier]] {{yel|59}}<br />[[Japhet Tanganga|Tanganga]] {{yel|61}}<br />[[Erik Lamela|Lamela]] {{goal|84}}
+| penalties1 = [[Eric Dier|Dier]] {{pengoal}}<br />[[Erik Lamela|Lamela]] {{pengoal}}<br />[[Pierre-Emile Højbjerg|Højbjerg]] {{pengoal}}<br />[[Lucas Moura|Lucas]] {{pengoal}}<br />[[Harry Kane|Kane]] {{pengoal}}
+| goals2 = [[Timo Werner|Werner]] {{goal|19}}<br />[[Mateo Kovačić|Kovačić]] {{yel|45+2}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|83}}
+| penalties2 = {{pengoal}} [[Tammy Abraham|Abraham]]<br />{{pengoal}} [[César Azpilicueta|Azpilicueta]]<br />{{pengoal}} [[Jorginho (footballer, born December 1991)|Jorginho]]<br />{{pengoal}} [[Emerson Palmieri|Emerson]]<br />{{penmiss}} [[Mason Mount|Mount]]
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[London]]
+| attendance = 0
+| referee = [[Lee Mason]]
+| result = D
+}}
+
+===UEFA Champions League===
+{{main|2020–21 UEFA Champions League}}
+The group stage draw was held on 1 October 2020 with Chelsea being placed in Group E along with [[2020 UEFA Europa League Final|Europa League]] holders [[Sevilla FC|Sevilla]] and two competition debutants in [[FC Krasnodar|Krasnodar]] of [[Russian Premier League|Russia]] and [[Stade Rennais F.C.|Stade Rennes]] of [[Ligue 1|France]].<ref>{{Cite web|url=https://www.uefa.com/uefachampionsleague/news/0262-1081d9c1805c-fff671c9455e-1000--champions-league-group-stage-draw-made/|title=Champions League group stage draw made in Geneva|date=1 October 2020|access-date=1 October 2020|website=[[UEFA]]}}</ref> Chelsea progressed as group winners having won four matches and drawing the other two.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0263-10f48bbd46dc-ae3c418e73d2-1000--champions-league-group-stage-permutations-who-needs-what-to-rea/|title=Champions League group stage permutations: Who needs what to reach the round of 16?|website=UEFA|date=9 December 2020|access-date=21 December 2020}}</ref> This included a convincing 4–0 away win versus [[Sevilla FC|Sevilla]] with [[Olivier Giroud]] scoring all four. In the draw for the round of 16, Chelsea were pitted against Spanish side [[Atlético Madrid]], setting up the eighth and ninth matches between the clubs in just over a decade, following group stage clashes in [[2009–10 UEFA Champions League|2009–10]], a solitary matchup in the [[2012 UEFA Super Cup]], a semi-final tie in [[2013–14 UEFA Champions League|2013–14]], and another group stage meeting in the Champions League in [[2017–18 UEFA Champions League|2017–18]].<ref>{{cite web|url=https://www.chelseafc.com/en/news/2020/12/14/champions-league-round-of-16-draw|title=Chelsea to Face Atletico Madrid in Champions League Round of 16|website=Chelsea FC|date=14 December 2020|access-date=21 December 2020}}</ref> Chelsea would go on to win the first leg 1–0 after a goal from Olivier Giroud. Chelsea moved on to the quarter-finals after a 2–0 second-leg win, with a goal in each half from [[Hakim Ziyech]] and [[Emerson Palmieri|Emerson]], and were drawn against [[FC Porto]]. It was the ninth meeting between the two clubs, the most recent being a 2–0 Chelsea victory in the group stage of the [[2015–16 UEFA Champions League]].<ref>{{cite web|url=https://www.90min.com/posts/chelsea-vs-fc-porto-complete-head-to-head-record|title=Chelsea vs FC Porto: Complete head-to-head record|website=90 Min|date=19 March 2021|access-date=21 March 2021}}</ref> Chelsea defeated Porto 2–0 in the first match.<ref>{{cite web|url=https://www.chelseafc.com/en/matches/match-day/2020/2197666?pageTab=news|title=FC Porto vs Chelsea - 7 April 2021 - Champions League|website=chelseafc.com|publisher=Chelsea F.C.|date=7 April 2021|access-date=29 May 2021}}</ref> They advanced 2–1 on aggregate despite losing 1–0 in the second leg to Porto. By doing this, Chelsea reached the Semi-finals, a feat they had not accomplished since [[2013–14 UEFA Champions League|2013–14]] campaign. Chelsea were drawn against [[Real Madrid CF|Real Madrid]] in the Semi-finals. The first leg was played in the [[Alfredo Di Stéfano Stadium|Alfredo Di Stéfano]]. [[Christian Pulisic]] gave Chelsea the lead before [[Karim Benzema]] equalized for the home side, the match ended in a 1–1 draw. In the second leg at [[Stamford Bridge (stadium)|Stamford Bridge]], [[Timo Werner]] and [[Mason Mount]] gave Chelsea a 2–0 win (3–1 on aggregate). This meant that Chelsea would be in the [[2021 Champions League Final|final]], the first time Chelsea had reached the final since the [[2011–12 UEFA Champions League|2011–12]] campaign. In the final at the [[Estádio do Dragão]], Chelsea would emerge victorious against [[Manchester City F.C.|Manchester City]] 1–0 with a goal from [[Kai Havertz]] sealing their first Champions League title since the 2011–12 campaign.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/57268064|title=Kai Havertz goal secures Champions League title for Chelsea|website=BBC Sport|date=29 May 2021|access-date=29 May 2021}}</ref>
+
+====Group stage====
+{{main|2020–21 UEFA Champions League group stage#Group E}}
+{{:2020–21 UEFA Champions League group stage|transcludesection=Group E|show_matches=no|showteam=CHE|title=Group E}}
+{{Football box collapsible
+|round = 1
+|date = 20 October 2020
+|time = 20:00 [[British Summer Time|BST]]
+|team1 = Chelsea {{flagicon|ENG}}
+|score = 0–0
+|report = https://www.uefa.com/uefachampionsleague/match/2029382/
+|team2 = {{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|14}}<br />[[Mason Mount|Mount]] {{yel|36}}<br />[[Ben Chilwell|Chilwell]] {{yel|64}}
+|goals2 = [[Marcos Acuña|Acuña]] {{yel|43}}<br />[[Joan Jordán|Jordán]] {{yel|87}}
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]], England
+|attendance = 0
+|referee = [[Davide Massa]] ([[Italian Football Federation|Italy]])
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 28 October 2020
+|time = 18:55 [[Central European Time|CET]]
+|team1 = [[FC Krasnodar|Krasnodar]] {{flagicon|RUS}}
+|score = 0–4
+|report = https://www.uefa.com/uefachampionsleague/match/2029390/
+|team2 = {{flagicon|ENG}} Chelsea
+|goals1 = [[Kristoffer Olsson|Olsson]] {{yel|22}}<br />[[Alyaksandr Martynovich|Martynovich]] {{yel|76}}
+|goals2 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{penmiss}} <small>14'</small><br />[[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|37}}<br />[[Timo Werner|Werner]] {{goal|76|pen.}}<br />[[Hakim Ziyech|Ziyech]] {{goal|80}}<br />[[Christian Pulisic|Pulisic]] {{goal|90}}
+|stadium = [[Krasnodar Stadium]]
+|location = [[Krasnodar]], Russia
+|attendance = 10,544
+|referee = [[Ali Palabıyık]] ([[Turkish Football Federation|Turkey]])
+|result = W
+}}
+{{Football box collapsible
+|round = 3
+|date = 4 November 2020
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = Chelsea {{flagicon|ENG}}
+|score = 3–0
+|report = https://www.uefa.com/uefachampionsleague/match/2029407/
+|team2 = {{fbicon|FRA}} [[Stade Rennais F.C.|Rennes]]
+|goals1 = [[Timo Werner|Werner]] {{goal|10|pen.|41|pen.}}<br />[[N'Golo Kanté|Kanté]] {{yel|26}}<br />[[Hakim Ziyech|Ziyech]] {{yel|32}}<br />[[Tammy Abraham|Abraham]] {{goal|50}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|65}}<br />[[Mateo Kovačić|Kovačić]] {{yel|79}}
+|goals2 = [[Dalbert Henrique|Dalbert]] {{sentoff|2|9|40}}<br />[[Romain Del Castillo|Del Castillo]] {{yel|89}}
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]], England
+|attendance = 0
+|referee = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|result = W
+}}
+{{Football box collapsible
+|round = 4
+|date = 24 November 2020
+|time = 18:55 [[Central European Time|CET]]
+|team1 = [[Stade Rennais F.C.|Rennes]] {{flagicon|FRA}}
+|score = 1–2
+|report = https://www.uefa.com/uefachampionsleague/match/2029431/
+|team2 = {{flagicon|ENG}} Chelsea
+|goals1 = [[Serhou Guirassy|Guirassy]] {{goal|85}}<br />[[Clément Grenier|Grenier]] {{yel|87}}<br />[[Benjamin Bourigeaud|Bourigeaud]] {{yel|90+3}}
+|goals2 = [[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|22}}<br />[[Olivier Giroud|Giroud]] {{goal|90+1}}
+|stadium = [[Roazhon Park]]
+|location = [[Rennes]], France
+|attendance = 0
+|referee = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result = W
+}}
+{{Football box collapsible
+|round = 5
+|date = 2 December 2020
+|time = 21:00 [[Central European Time|CET]]
+|team1 = [[Sevilla FC|Sevilla]] {{flagicon|ESP}}
+|score = 0–4
+|report = https://www.uefa.com/uefachampionsleague/match/2029438/
+|team2 = {{flagicon|ENG}} Chelsea
+|goals1 = [[Nemanja Gudelj|Gudelj]] {{yel|15}}<br />[[Oussama Idrissi|Idrissi]] {{yel|41}}<br />[[Sergi Gómez|Gómez]] {{yel|82}}<br />[[Joan Jordán|Jordán]] {{yel|90+1}}
+|goals2 = [[Olivier Giroud|Giroud]] {{goal|8||54||74||83|pen.}}<br />[[Mateo Kovačić|Kovačić]] {{yel|37}}<br />[[Christian Pulisic|Pulisic]] {{yel|43}}<br />[[Mason Mount|Mount]] {{yel|90+1}}<br />[[Hakim Ziyech|Ziyech]] {{yel|90+1}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]], Spain
+|attendance = 0
+|referee = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|result = W
+}}
+{{Football box collapsible
+|round = 6
+|date = 8 December 2020
+|time = 20:00 [[Greenwich Mean Time|GMT]]
+|team1 = Chelsea {{flagicon|ENG}}
+|score = 1–1
+|report = https://www.uefa.com/uefachampionsleague/match/2029462/
+|team2 = {{flagicon|RUS}} [[FC Krasnodar|Krasnodar]]
+|goals1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|28|pen.}}<br />[[César Azpilicueta|Azpilicueta]] {{yel|82}}
+|goals2 = [[Rémy Cabella|Cabella]] {{goal|24}}
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]], England
+|attendance = 2,000
+|referee = [[Pavel Královec]] ([[Football Association of the Czech Republic|Czech Republic]])
+|result = D
+}}
+
+====Knockout phase====
+{{main|2020–21 UEFA Champions League knockout phase}}
+
+=====Round of 16=====
+The round of 16 draw was held on 14 December 2020.<ref>{{Cite web|url=https://www.uefa.com/uefachampionsleague/news/0263-10f40a367baa-d393e355b55a-1000--champions-league-round-of-16-draw-all-you-need-to-know/|title=Champions League round of 16 draw: all you need to know|date=2 December 2020|website=[[UEFA]]}}</ref>
+
+{{Football box collapsible
+|round = [[2020–21 UEFA Champions League knockout phase#Round of 16|First leg]]
+|date = 23 February 2021
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Atlético Madrid]] {{flagicon|ESP}}
+|score = 0–1
+|report = https://www.uefa.com/uefachampionsleague/match/2029474/
+|team2 = {{flagicon|ENG}} Chelsea
+|goals1 = [[Marcos Llorente|Llorente]] {{yel|63}}<br />[[Thomas Lemar|Lemar]] {{yel|90+3}}
+|goals2 = [[Mason Mount|Mount]] {{yel|1}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|64}}<br />[[Olivier Giroud|Giroud]] {{goal|68}}
+|stadium = [[Arena Națională]]
+|location = [[Bucharest]], Romania
+|attendance = 0
+|referee = [[Felix Brych]] ([[German Football Association|Germany]])
+|result = W
+|note = The match, originally to be played at the [[Metropolitano Stadium]] in [[Madrid]], was moved to [[Arena Națională]] in [[Bucharest]], due to [[Travel restrictions related to the COVID-19 pandemic|restrictions related to the COVID-19 pandemic]] imposed by Spain on travelers from the United Kingdom out of concern of the [[Variant of Concern 202012/01|variant B.1.1.7]].<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0266-118507f7b277-e0b239dfd239-1000--champions-league-venue-changes/ |title=UEFA Champions League venue changes |website=[[UEFA]] |publisher=Union of European Football Associations |date=7 February 2021 |access-date=7 February 2021}}</ref><ref>{{cite news|url=https://www.bbc.com/sport/football/56010306|title=Champions League: Atletico Madrid v Chelsea moved to Romania|publisher=BBC Sport|date=10 February 2021|access-date=10 February 2021}}</ref>
+}}
+{{Football box collapsible
+|round = [[2020–21 UEFA Champions League knockout phase#Round of 16|Second leg]]
+|date = 17 March 2021
+|time = 20:00 [[Greenwich Mean Time|GMT]] ([[UTC±00:00|UTC±0]])
+|team1 = Chelsea {{flagicon|ENG}}
+|score = 2–0
+|aggregatescore = 3–0
+|report = https://www.uefa.com/uefachampionsleague/match/2029484/
+|team2 = {{flagicon|ESP}} [[Atlético Madrid]]
+|goals1 = [[Kai Havertz|Havertz]] {{yel|30}}<br />[[Hakim Ziyech|Ziyech]] {{goal|34}}<br />[[Emerson Palmieri|Emerson]] {{goal|90+4}}
+|goals2 = [[Renan Lodi|Lodi]] {{yel|31}}<br />[[Saúl Ñíguez|Saúl]] {{yel|51}}<br />[[José María Giménez|Giménez]] {{yel|60}}<br />[[Koke (footballer, born 1992)|Koke]] {{yel|72}}<br />[[Stefan Savić|Savić]] {{sentoff|0|82}}
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]], England
+|attendance = 0
+|referee = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|result = W
+}}
+
+=====Quarter-finals=====
+The draw for the quarter-finals was held on 19 March 2021.<ref name=draw>{{cite news|url=https://www.uefa.com/uefachampionsleague/news/0267-11c52a066cc9-9a592439da5f-1000--quarter-final-draw-live-from-12-00-cet/|title=UEFA Champions League quarter-final and semi-final draws: all you need to know|date=19 March 2021|website=[[UEFA]]}}</ref>
+
+{{Football box collapsible
+|round = [[2020–21 UEFA Champions League knockout phase#Quarter-finals|First leg]]
+|date = 7 April 2021
+|time = 20:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Porto|Porto]] {{fbaicon|POR}}
+|score = 0–2
+|report = https://www.uefa.com/uefachampionsleague/match/2029487/
+|team2 = {{fbaicon|ENG}} Chelsea
+|goals1 = [[Chancel Mbemba|Mbemba]] {{yel|63}}<br>[[Marko Grujić|Grujić]] {{yel|79}}
+|goals2 = [[Mason Mount|Mount]] {{goal|32}}<br>[[Ben Chilwell|Chilwell]] {{goal|85}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]], Spain
+|attendance = 0
+|referee = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result = W
+|note = The match was played at Ramón Sánchez Pizjuán in Seville, due to [[travel restrictions related to the COVID-19 pandemic]] between Portugal and the United Kingdom.<ref name=Portugal-UK>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0267-11ebb758081c-11eb8228434d-1000--porto-vs-chelsea-ties-moved/ |title=Porto vs Chelsea games to be played in Seville |website=[[UEFA]] |publisher=Union of European Football Associations |date=30 March 2021 |access-date=30 March 2021}}</ref>
+}}
+{{Football box collapsible
+|round = [[2020–21 UEFA Champions League knockout phase#Quarter-finals|Second leg]]
+|date = 13 April 2021
+|time = 20:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = Chelsea {{fbaicon|ENG}}
+|score = 0–1
+|aggregatescore = 2–1
+|report = https://www.uefa.com/uefachampionsleague/match/2029493/
+|team2 = {{fbaicon|POR}} [[FC Porto|Porto]]
+|goals1 =
+|goals2 = [[Sérgio Oliveira|Oliveira]] {{yel|46}}<br>[[Jesús Manuel Corona|Corona]] {{yel|74}}<br>[[Pepe (footballer, born 1983)|Pepe]] {{yel|82}}<br>[[Luis Díaz (footballer, born 1997)|Díaz]] {{yel|88}}<br>[[Mehdi Taremi|Taremi]] {{goal|90+4}}, {{yel|90+5}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]], Spain
+|attendance = 0
+|referee = [[Clément Turpin]] ([[French Football Federation|France]])
+|result = L
+|note = The match was played at Ramón Sánchez Pizjuán in Seville, due to [[travel restrictions related to the COVID-19 pandemic]] between Portugal and the United Kingdom.<ref name=Portugal-UK/>
+}}
+
+=====Semi-finals=====
+The draw for the semi-finals was held on 19 March 2021, after the quarter-final draw.<ref name=draw/>
+
+{{Football box collapsible
+|round = [[2020–21 UEFA Champions League knockout phase#Semi-finals|First leg]]
+|date = 27 April 2021
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score = 1–1
+|report = https://www.uefa.com/uefachampionsleague/match/2029495/
+|team2 = {{fbaicon|ENG}} Chelsea
+|goals1 = [[Vinícius Júnior|Vinícius]] {{yel|27}}<br>[[Karim Benzema|Benzema]] {{goal|29}}<br>[[Toni Kroos|Kroos]] {{yel|60}}<br>[[Marcelo (footballer, born 1988)|Marcelo]] {{yel|65}}<br>[[Raphaël Varane|Varane]] {{yel|78}}<br>[[Álvaro Odriozola|Odriozola]] {{yel|89}}
+|goals2 = [[Christian Pulisic|Pulisic]] {{goal|14}}, {{yel|38}}
+|stadium = [[Alfredo Di Stéfano Stadium|Alfredo Di Stéfano]]
+|location = [[Madrid]], Spain
+|attendance = 0
+|referee = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result = D
+|note = Real Madrid played their home match at Alfredo Di Stéfano, Madrid, instead of their regular stadium [[Santiago Bernabéu Stadium|Santiago Bernabéu]], Madrid.
+}}
+{{Football box collapsible
+|round = [[2020–21 UEFA Champions League knockout phase#Semi-finals|Second leg]]
+|date = 5 May 2021
+|time = 20:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = Chelsea {{fbaicon|ENG}}
+|score = 2–0
+|aggregatescore = 3–1
+|report = https://www.uefa.com/uefachampionsleague/match/2029496/
+|team2 = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|14}}<br>[[Timo Werner|Werner]] {{goal|28}}<br>[[Andreas Christensen|Christensen]] {{yel|39}}<br>[[Mason Mount|Mount]] {{goal|85}}, {{yel|87}}
+|goals2 = [[Sergio Ramos|Ramos]] {{yel|36}}<br>[[Nacho (footballer, born 1990)|Nacho]] {{yel|62}}<br>[[Toni Kroos|Kroos]] {{yel|72}}<br>[[Federico Valverde|Valverde]] {{yel|90}}
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[London]], England
+|attendance = 0
+|referee = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|result = W
+}}
+
+=====Final=====
+{{Football box collapsible
+|round = [[2021 UEFA Champions League Final|Final]]
+|date = 29 May 2021
+|time = 20:00 [[Western European Summer Time|WEST]] [[Time in Portugal|PTT]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Manchester City F.C.|Manchester City]] {{fbaicon|ENG}}
+|score = 0–1
+|report = https://www.uefa.com/uefachampionsleague/match/2029498/
+|team2 = {{fbaicon|ENG}} Chelsea
+|goals1 = [[İlkay Gündoğan|Gündoğan]] {{yel|35}}<br>[[Gabriel Jesus]] {{yel|88}}
+|goals2 = [[Kai Havertz|Havertz]] {{goal|42}}<br>[[Antonio Rüdiger|Rüdiger]] {{yel|57}}
+|stadium = [[Estádio do Dragão]]
+|location = [[Porto]], Portugal
+|attendance = 14,110
+|referee = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|result = W
+|note = The final was originally scheduled to be played in [[Atatürk Olympic Stadium]] in [[Istanbul]]. However, on 12 May, UEFA announced it had been moved to Portugal since the high COVID-19 infection rates in Turkey had led the UK government to place travel to Turkey on its red-list, meaning fans would have had to quarantine for ten days in a hotel at their expense on their return. Portugal at the same time was on the green-list which meant no travel restrictions at either end for those attending the final.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0269-1243f864391e-53c7874f0ae0-1000/|title=UEFA Champions League final to move to Portugal to allow 6,000 fans of each team to attend|website=[[UEFA]]|publisher=Union of European Football Associations|date=13 May 2021|access-date=13 May 2021}}</ref><ref>{{cite news|url=https://www.bbc.co.uk/sport/football/57071221|title=Champions League final moved to Porto and 12,000 Chelsea and Manchester City fans can attend|website=BBC Sport|date=13 May 2021|access-date=13 May 2021}}</ref>
+}}
+
+==Statistics==
+
+===Appearances and goals===
+{| class="wikitable sortable" style="text-align:center;width:100%;"
+|-
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| No.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Pos.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Player
+! colspan=2 style=background:#034694;color:#FFFFFF| Premier League
+! colspan=2 style=background:#034694;color:#FFFFFF| FA Cup
+! colspan=2 style=background:#034694;color:#FFFFFF| EFL Cup
+! colspan=2 style=background:#034694;color:#FFFFFF| UEFA Champions League
+! colspan=2 style=background:#034694;color:#FFFFFF| Total
+|-
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+|-
+| 1
+| GK
+|align=left| {{flagicon|ESP}} [[Kepa Arrizabalaga]]
+||7||0||6||0||0||0||1||0||'''14'''||'''0'''
+|-
+| 2
+| DF
+|align=left| {{flagicon|GER}} [[Antonio Rüdiger]]
+||19||1||4||0||0||0||11||0||'''34'''||'''1'''
+|-
+| 3
+| DF
+|align=left| {{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+||13||2||2||0||0||0||2||0||'''17'''||'''2'''
+|-
+| 4
+| DF
+|align=left| {{flagicon|DEN}} [[Andreas Christensen]]
+||17||0||3||0||0||0||7||0||'''27'''||'''0'''
+|-
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+||28||7||2||0||1||0||12||1||'''43'''||'''8'''
+|-
+| 6
+| DF
+|align=left| {{flagicon|BRA}} [[Thiago Silva]]
+||23||2||2||0||1||0||8||0||'''34'''||'''2'''
+|-
+| 7
+| MF
+|align=left| {{flagicon|FRA}} [[N'Golo Kanté]]
+||30||0||4||0||1||0||13||0||'''48'''||'''0'''
+|-
+| 9
+| FW
+|align=left| {{flagicon|ENG}} [[Tammy Abraham]]
+||22||6||3||4||2||1||5||1||'''32'''||'''12'''
+|-
+| 10
+| FW
+|align=left| {{flagicon|USA}} [[Christian Pulisic]]
+||27||4||6||0||0||0||10||2||'''43'''||'''6'''
+|-
+| 11
+| FW
+|align=left| {{flagicon|GER}} [[Timo Werner]]
+||35||6||4||1||1||1||12||4||'''52'''||'''12'''
+|-
+| 13
+| GK
+|align=left| {{flagicon|ARG}} [[Willy Caballero]]
+||1||0||0||0||1||0||0||0||'''2'''||'''0'''
+|-
+| 15
+| DF
+|align=left| {{flagicon|FRA}} [[Kurt Zouma]]
+||24||5||5||0||2||0||5||0||'''36'''||'''5'''
+|-
+| 16
+| GK
+|align=left| {{flagicon|SEN}} [[Édouard Mendy]]
+||31||0||0||0||1||0||12||0||'''44'''||'''0'''
+|-
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+||27||0||3||0||2||0||10||0||'''42'''||'''0'''
+|-
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+||17||4||4||0||2||1||8||6||'''31'''||'''11'''
+|-
+| 19
+| MF
+|align=left| {{flagicon|ENG}} [[Mason Mount]]
+||36||6||5||1||2||0||11||2||'''54'''||'''9'''
+|-
+| 20
+| FW
+|align=left| {{flagicon|ENG}} [[Callum Hudson-Odoi]]
+||23||2||5||1||2||0||7||2||'''37'''||'''5'''
+|-
+| 21
+| DF
+|align=left| {{flagicon|ENG}} [[Ben Chilwell]]
+||27||3||3||0||2||0||10||1||'''42'''||'''4'''
+|-
+| 22
+| FW
+|align=left| {{flagicon|MAR}} [[Hakim Ziyech]]
+||23||2||6||2||0||0||10||2||'''39'''||'''6'''
+|-
+| 23
+| MF
+|align=left| {{flagicon|SCO}} [[Billy Gilmour (footballer)|Billy Gilmour]]
+||5||0||4||0||0||0||2||0||'''11'''||'''0'''
+|-
+| 24
+| DF
+|align=left| {{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]]
+||32||1||5||0||0||0||10||0||'''47'''||'''1'''
+|-
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+||26||1||4||0||2||0||11||0||'''43'''||'''1'''
+|-
+| 29
+| MF
+|align=left| {{flagicon|GER}} [[Kai Havertz]]
+||27||4||5||1||1||3||12||1||'''45'''||'''9'''
+|-
+| 33
+| DF
+|align=left| {{flagicon|ITA}} [[Emerson Palmieri|Emerson]]
+||2||0||5||0||2||0||6||1||'''15'''||'''1'''
+|-
+| 40
+| GK
+|align=left| {{flagicon|CRO}} [[Karlo Žiger]]
+||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+| 55
+| MF
+|align=left| {{flagicon|ENG}} [[Tino Anjorin]]
+||0||0||2||0||0||0||1||0||'''3'''||'''0'''
+|-
+! colspan=15 style=background:#dcdcdc| Players have left the club
+|-
+| 8
+| MF
+|align=left| {{flagicon|ENG}} [[Ross Barkley]]
+||2||0||0||0||1||1||0||0||'''3'''||'''1'''
+|-
+| 12
+| MF
+|align=left| {{flagicon|ENG}} [[Ruben Loftus-Cheek]]
+||1||0||0||0||0||0||0||0||'''1'''||'''0'''
+|-
+| 14
+| DF
+|align=left| {{flagicon|ENG}} [[Fikayo Tomori]]
+||1||0||1||0||2||0||0||0||'''4'''||'''0'''
+|}
+{{Fb rs footer|u=29 May 2021|s=[https://fbref.com/en/squads/cff3d9bb/2020-2021/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=September 2020}}
+
+===Goalscorers===
+{| class="wikitable sortable" style="text-align:center;width:85%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Rank
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| Premier League
+! style=background-color:#034694;color:#FFFFFF| FA Cup
+! style=background-color:#034694;color:#FFFFFF| EFL Cup
+! style=background-color:#034694;color:#FFFFFF| UEFA Champions League
+! style=background-color:#034694;color:#FFFFFF| Total
+|-
+|rowspan="2"|1
+| 9
+| FW
+|align=left| {{flagicon|ENG}} [[Tammy Abraham]]
+||6||4||1||1||'''12'''
+|-
+| 11
+| FW
+|align=left| {{flagicon|GER}} [[Timo Werner]]
+||6||1||1||4|| '''12'''
+|-
+| 3
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+||4||0||1||6|| '''11'''
+|-
+|rowspan=2|4
+| 19
+| MF
+|align=left| {{flagicon|ENG}} [[Mason Mount]]
+||6||1||0||2||'''9'''
+|-
+| 29
+| MF
+|align=left| {{flagicon|GER}} [[Kai Havertz]]
+||4||1||3||1||'''9'''
+|-
+| 6
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+||7||0||0||1||'''8'''
+|-
+|rowspan="2"|7
+| 10
+| FW
+|align=left| {{flagicon|USA}} [[Christian Pulisic]]
+||4||0||0||2|| '''6'''
+|-
+| 22
+| MF
+|align=left| {{flagicon|MAR}} [[Hakim Ziyech]]
+||2||2||0||2||'''6'''
+|-
+|rowspan="2"|9
+| 15
+| DF
+|align=left| {{flagicon|FRA}} [[Kurt Zouma]]
+||5||0||0||0|| '''5'''
+|-
+| 20
+| FW
+|align=left| {{flagicon|ENG}} [[Callum Hudson-Odoi]]
+||2||1||0||2||'''5'''
+|-
+| 11
+| 21
+| DF
+|align=left| {{flagicon|ENG}} [[Ben Chilwell]]
+||3||0||0||1||'''4'''
+|-
+|rowspan="2"|12
+| 3
+| DF
+|align=left| {{flagicon|SPA}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+||2||0||0||0||'''2'''
+|-
+| 6
+| DF
+|align=left| {{flagicon|BRA}} [[Thiago Silva]]
+||2||0||0||0||'''2'''
+|-
+|rowspan="5"|14
+| 2
+| DF
+|align=left| {{flagicon|GER}} [[Antonio Rüdiger]]
+||1||0||0||0||'''1'''
+|-
+| 8
+| MF
+|align=left| {{flagicon|ENG}} [[Ross Barkley]]
+||0||0||1||0||'''1'''
+|-
+| 24
+| DF
+|align=left| {{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]]
+||1||0||0||0|| '''1'''
+|-
+| 28
+| DF
+|align=left| {{flagicon|SPA}} [[César Azpilicueta]]
+||1||0||0||0||'''1'''
+|-
+| 33
+| DF
+|align=left| {{flagicon|ITA}} [[Emerson Palmieri|Emerson]]
+||0||0||0||1||'''1'''
+|-
+|colspan="4"| '''Own goals''' ||2||1||0||0||'''3'''
+|-
+!colspan=4| Totals||58||11||7||23||99
+|}
+{{Fb rs footer|u=29 May 2021|s=[https://fbref.com/en/squads/cff3d9bb/2020-2021/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=September 2020}}
+
+===Top assists===
+{| class="wikitable sortable" style="text-align:center;width:85%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Rank
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| Premier League
+! style=background-color:#034694;color:#FFFFFF| FA Cup
+! style=background-color:#034694;color:#FFFFFF| EFL Cup
+! style=background-color:#034694;color:#FFFFFF| UEFA Champions League
+! style=background-color:#034694;color:#FFFFFF| Total
+|-
+| 1
+| 11
+| FW
+|align=left| {{flagicon|GER}} [[Timo Werner]]
+||8||1||0||3||'''12'''
+|-
+| 2
+| 19
+| MF
+|align=left| {{flagicon|ENG}} [[Mason Mount]]
+||5||0||1||2||'''8'''
+|-
+|rowspan="2"|3
+| 21
+| DF
+|align=left| {{flagicon|ENG}} [[Ben Chilwell]]
+||5||1||1||0||'''7'''
+|-
+| 29
+| MF
+|align=left| {{flagicon|GER}} [[Kai Havertz]]
+||3||1||0||3||'''7'''
+|-
+|rowspan="2"|5
+| 20
+| FW
+|align=left| {{flagicon|ENG}} [[Callum Hudson-Odoi]]
+||3||2||0||0||'''5'''
+|-
+| 24
+| DF
+|align=left| {{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]]
+||2||2||0||1|| '''5'''
+|-
+|rowspan="3"|7
+| 9
+| FW
+|align=left| {{flagicon|ENG}} [[Tammy Abraham]]
+||1||0||2||1||'''4'''
+|-
+| 10
+| MF
+|align=left| {{flagicon|USA}} [[Christian Pulisic]]
+||2||0||0||2||'''4'''
+|-
+| 22
+| MF
+|align=left| {{flagicon|MAR}} [[Hakim Ziyech]]
+||3||1||0||0||'''4'''
+|-
+|rowspan="2"|10
+| 7
+| MF
+|align=left| {{flagicon|FRA}} [[N'Golo Kanté]]
+||2||0||0||1||'''3'''
+|-
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+||2||1||0||0||'''3'''
+|-
+|rowspan="2"|12
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+||1||0||0||1||'''2'''
+|-
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+||1||0||0||1||'''2'''
+|-
+| 14
+| 2
+| DF
+|align=left| {{flagicon|GER}} [[Antonio Rüdiger]]
+||0||0||0||1||'''1'''
+|-
+!colspan="4"| Totals
+!38||9||4||16||67
+|}
+{{Fb rs footer|u=29 May 2021|s=[https://fbref.com/en/squads/cff3d9bb/2020-2021/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=September 2020}}
+
+===Clean sheets===
+{| class="wikitable sortable" style="text-align:center;width:85%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Rank
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| Premier League
+! style=background-color:#034694;color:#FFFFFF| FA Cup
+! style=background-color:#034694;color:#FFFFFF| EFL Cup
+! style=background-color:#034694;color:#FFFFFF| UEFA Champions League
+! style=background-color:#034694;color:#FFFFFF| Total
+|-
+| 1
+| 16
+| GK
+|align=left| {{flagicon|SEN}} [[Édouard Mendy]]
+||16||0||0||9||'''25'''
+|-
+| 2
+| 1
+| GK
+|align=left| {{flagicon|SPA}} [[Kepa Arrizabalaga]]
+||2||4||0||0||'''6'''
+|-
+| 3
+| 13
+| GK
+|align=left| {{flagicon|ARG}} [[Willy Caballero]]
+||0||0||1||0||'''1'''
+|-
+!colspan=4| Totals 
+!18||4||1||9||32
+|}
+{{Fb rs footer|u=29 May 2021|s=[https://fbref.com/en/squads/cff3d9bb/2020-2021/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=September 2020}}
+
+===Discipline===
+{| class="wikitable sortable" style="text-align:center;width:100%;"
+|-
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| No.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Pos.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Player
+! colspan=3 style=background:#034694;color:#FFFFFF| Premier League
+! colspan=3 style=background:#034694;color:#FFFFFF| FA Cup
+! colspan=3 style=background:#034694;color:#FFFFFF| EFL Cup
+! colspan=3 style=background:#034694;color:#FFFFFF| UEFA Champions League
+! colspan=3 style=background:#034694;color:#FFFFFF| Total
+|-
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+|-
+| 1
+| GK
+|align=left| {{flagicon|ESP}} [[Kepa Arrizabalaga]]
+||1||0||0||0||0||0||0||0||0||0||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 2
+| DF
+|align=left| {{flagicon|GER}} [[Antonio Rüdiger]]
+||0||0||0||0||0||0||0||0||0||1||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 3
+| DF
+|align=left| {{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+||2||0||0||0||0||0||0||0||0||0||0||0||'''2'''||'''0'''||'''0'''
+|-
+| 4
+| DF
+|align=left| {{flagicon|DEN}} [[Andreas Christensen]]
+||2||0||1||0||0||0||0||0||0||1||0||0||'''3'''||'''0'''||'''1'''
+|-
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+||2||0||0||0||0||0||1||0||0||4||0||0||'''7'''||'''0'''||'''0'''
+|-
+| 6
+| DF
+|align=left| {{flagicon|BRA}} [[Thiago Silva]]
+||4||1||0||0||0||0||0||0||0||0||0||0||'''4'''||'''1'''||'''0'''
+|-
+| 7
+| MF
+|align=left| {{flagicon|FRA}} [[N'Golo Kanté]]
+||7||0||0||0||0||0||0||0||0||1||0||0||'''8'''||'''0'''||'''0'''
+|-
+| 10
+| FW
+|align=left| {{flagicon|USA}} [[Christian Pulisic]]
+||2||0||0||0||0||0||0||0||0||2||0||0||'''4'''||'''0'''||'''0'''
+|-
+| 11
+| FW
+|align=left| {{flagicon|GER}} [[Timo Werner]]
+||2||0||0||1||0||0||0||0||0||0||0||0||'''3'''||'''0'''||'''0'''
+|-
+| 15
+| DF
+|align=left| {{flagicon|FRA}} [[Kurt Zouma]]
+||3||0||0||0||0||0||0||0||0||0||0||0||'''3'''||'''0'''||'''0'''
+|-
+| 16
+| GK
+|align=left| {{flagicon|SEN}} [[Édouard Mendy]]
+||2||0||0||0||0||0||0||0||0||0||0||0||'''2'''||'''0'''||'''0'''
+|-
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+||4||0||0||0||0||0||1||0||0||2||0||0||'''7'''||'''0'''||'''0'''
+|-
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+||1||0||0||0||0||0||0||0||0||0||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 19
+| MF
+|align=left| {{flagicon|ENG}} [[Mason Mount]]
+||2||0||0||0||0||0||0||0||0||4||0||0||'''6'''||'''0'''||'''0'''
+|-
+| 21
+| DF
+|align=left| {{flagicon|ENG}} [[Ben Chilwell]]
+||3||0||0||0||0||0||0||0||0||1||0||0||'''4'''||'''0'''||'''0'''
+|-
+| 22
+| MF
+|align=left| {{flagicon|MAR}} [[Hakim Ziyech]]
+||3||0||0||0||0||0||0||0||0||2||0||0||'''5'''||'''0'''||'''0'''
+|-
+| 24
+| DF
+|align=left| {{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]]
+||3||0||0||1||0||0||0||0||0||0||0||0||'''4'''||'''0'''||'''0'''
+|-
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+||5||0||1||1||0||0||0||0||0||1||0||0||'''7'''||'''0'''||'''1'''
+|-
+| 29
+| MF
+|align=left| {{flagicon|GER}} [[Kai Havertz]]
+||2||0||0||0||0||0||0||0||0||1||0||0||'''3'''||'''0'''||'''0'''
+|-
+!colspan=3| Totals
+!50||1||2||3||0||0||2||0||0||20||0||0||75||1||2
+|}
+{{Fb rs footer|u=29 May 2021|s=[https://fbref.com/en/squads/cff3d9bb/2020-2021/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=September 2020}}
+
+===Summary===
+{| class="wikitable sortable" style="text-align:center;width:50%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Competition
+! style=background-color:#034694;color:#FFFFFF| Pld
+! style=background-color:#034694;color:#FFFFFF| W
+! style=background-color:#034694;color:#FFFFFF| D
+! style=background-color:#034694;color:#FFFFFF| L
+! style=background-color:#034694;color:#FFFFFF| GF
+! style=background-color:#034694;color:#FFFFFF| GA
+! style=background-color:#034694;color:#FFFFFF| CS
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+|-
+| [[Premier League]]||38||19||10||9||58||36||18||50||1||2
+|-
+| [[FA Cup]]||6||5||0||1||11||2||4||3||0||0
+|-
+| [[EFL Cup]]||2||1||1||0||7||1||1||2||0||0
+|-
+| [[UEFA Champions League]]||13||9||3||1||23||4||8||20||0||0
+|-
+! Totals||59||34 ||14 ||11||99|| 43 ||31||75||1||2
+|}
+{{Fb rs footer|u=29 May 2021|s=[https://fbref.com/en/squads/cff3d9bb/2020-2021/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=May 2021}}
+
+==Awards==
+
+===Players===
+
+{| class="wikitable" style="text-align:center; width:75%;"
+|-
+! scope="col" style="background:#034694; color:#FFFFFF" | No.
+! scope="col" style="background:#034694; color:#FFFFFF" | Pos.
+! scope="col" style="background:#034694; color:#FFFFFF" | Player
+! scope="col" style="background:#034694; color:#FFFFFF" | Award
+! scope="col" style="background:#034694; color:#FFFFFF" | Source
+|-
+| 2
+| DF
+| style="text-align:left;" | {{flagicon|GER}} [[Antonio Rüdiger]]
+| [[2020–21 UEFA Champions League|UEFA Champions League]] Squad of the Season
+| <ref name="UEFA">{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0269-12688c451cdd-b6efcb4ce948-1000--champions-league-all-star-squad/ |title=UEFA Champions League Squad of the Season |website=[[UEFA]] |publisher=Union of European Football Associations |date=31 May 2021 |access-date=1 June 2021}}</ref>
+|-
+| 5
+| MF
+| style="text-align:left;" | {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+| [[2020–21 UEFA Champions League|UEFA Champions League]] Squad of the Season
+| <ref name="UEFA"/>
+|-
+| rowspan="2"| 7
+| rowspan="2"| MF
+| rowspan="2" style="text-align:left;" | {{flagicon|FRA}} [[N'Golo Kanté]]
+| [[List of European Cup and UEFA Champions League finals|UEFA Champions League Final]] Man of the Match
+| <ref name="MOTM">{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0269-12650d446385-97137fef37d2-1000/ |title=Champions League final Player of the Match: N'Golo Kanté |website=[[UEFA]] |publisher=Union of European Football Associations |date=29 May 2021 |access-date=29 May 2021}}</ref>
+|-
+| [[2020–21 UEFA Champions League|UEFA Champions League]] Squad of the Season
+| <ref name="UEFA"/>
+|-
+| 16
+| GK
+| style="text-align:left;" | {{flagicon|SEN}} [[Édouard Mendy]]
+| [[2020–21 UEFA Champions League|UEFA Champions League]] Squad of the Season
+| <ref name="UEFA"/>
+|-
+| rowspan="3"| 19
+| rowspan="3"| MF
+| rowspan="3" style="text-align:left;" | {{flagicon|ENG}} [[Mason Mount]]
+| Chelsea Player of the Year
+| <ref>{{Cite web |date=18 May 2021 |title=Mason Mount wins Chelsea Player of the Year award |url=https://www.chelseafc.com/en/news/2021/05/18/mason-mount-wins-chelsea-player-of-the-year-award |url-status=live |archive-url=https://web.archive.org/web/20210518145834/https://www.chelseafc.com/en/news/2021/05/18/mason-mount-wins-chelsea-player-of-the-year-award |archive-date=18 May 2021 |access-date=18 May 2021 |website=Chelsea F.C.}}</ref>
+|-
+| Premier League Academy Graduate of the Year
+| <ref>{{Cite web |url=https://www.premierleague.com/news/2160743 |archive-url=https://web.archive.org/web/20210602205602/https://www.premierleague.com/news/2160743 |title=Mount wins 2020/21 Academy Graduate award |publisher=Premier League |date=2 June 2021 |access-date=2 June 2021 |archive-date=2 June 2021}}</ref>
+|-
+| [[2020–21 UEFA Champions League|UEFA Champions League]] Squad of the Season
+| <ref name="UEFA"/>
+|-
+| 21
+| DF
+| style="text-align:left;" | {{flagicon|ENG}} [[Ben Chilwell]]
+| [[2020–21 UEFA Champions League|UEFA Champions League]] Squad of the Season
+| <ref name="UEFA"/>
+|-
+| 28
+| DF
+| style="text-align:left;" | {{flagicon|ESP}} [[César Azpilicueta]]
+| [[2020–21 UEFA Champions League|UEFA Champions League]] Squad of the Season
+| <ref name="UEFA"/>
+|-
+|}
+
+===Manager===
+{| class="wikitable" style="text-align:center; width:50%;"
+|-
+! scope="col" style="background:#034694; color:#FFFFFF" | Manager
+! scope="col" style="background:#034694; color:#FFFFFF" | Award
+! scope="col" style="background:#034694; color:#FFFFFF" | Source
+|-
+| style="text-align:left;" | {{flagicon|GER}} [[Thomas Tuchel]]
+| [[Premier League Manager of the Month]] (March)
+| <ref>{{Cite web |date=2 April 2021 |title=Tuchel claims Barclays Manager of the Month award |url=https://www.premierleague.com/news/2080145 |website=Premier League}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+{{Chelsea F.C. seasons}}
+{{2020–21 in English men's football}}
+
+{{DEFAULTSORT:2020-21 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:2020–21 Premier League by team|Chelsea]]
+[[Category:2020 in sport in London|Chelsea]]
+[[Category:2021 in sport in London|Chelsea]]
+[[Category:2020–21 UEFA Champions League participants seasons|Chelsea]]
+[[Category:UEFA Champions League–winning seasons]]

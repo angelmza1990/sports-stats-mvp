@@ -1,0 +1,151 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title              = 1934 FA Charity Shield
+| image              = 
+| event              = [[FA Community Shield|FA Charity Shield]]
+| team1              = [[Arsenal F.C.|Arsenal]]
+| team1association   = 
+| team1score         = 4
+| team2              = [[Manchester City F.C.|Manchester City]]
+| team2association   = 
+| team2score         = 0
+| details            = 
+| date               = 28 November 1934
+| stadium            = [[Arsenal Stadium|Highbury]]
+| city               = [[London]]
+| man_of_the_match1a = 
+| referee            = 
+| attendance         = 10,888
+| weather            = 
+| previous           = [[1933 FA Charity Shield|1933]]
+| next               = [[1935 FA Charity Shield|1935]]
+}}
+The '''1934 FA Charity Shield''' was the 21st [[FA Community Shield|FA Charity Shield]], a [[Association football|football]] match between the winners of the previous season's [[Football League First Division|First Division]] and [[FA Cup]] competitions. The match was contested by league champions [[Arsenal F.C.|Arsenal]] and FA Cup winners [[Manchester City F.C.|Manchester City]], and was played at [[Arsenal Stadium|Highbury]], the home ground of Arsenal. Arsenal won the game, 4–0.<ref>{{Cite web | url = https://www.rsssf.org/tablese/engsupcuphist.html | title = England &ndash; List of FA Charity/Community Shield Matches| website = [[RSSSF]] | access-date= 30 October 2013 }}</ref>
+
+==Match details==
+{{footballbox
+|date=28 November 1934
+|team1=[[Arsenal F.C.|Arsenal]]
+|score=4–0
+|report=
+|team2=[[Manchester City F.C.|Manchester City]]
+|goals1=[[Ralph Birkett|Birkett]] {{goal}}<br />[[James Marshall (footballer, born 1908)|Marshall]] {{goal}}<br />[[Ted Drake|Drake]] {{goal}}<br />[[Cliff Bastin|Bastin]] {{goal}}
+|goals2=
+|stadium=[[Arsenal Stadium|Highbury]], [[London]]
+|attendance=10,888
+|referee=
+}}
+
+{|width=92%
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _white_collar
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _ afc_1933-35
+ | leftarm    = FFFFFF
+ | body       = FF0000
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = 
+ | title      = Arsenal
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _white_collar
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = _mcfc_1921-51
+ | leftarm    = 99ccff
+ | body       = 99ccff
+ | rightarm   = 99ccff
+ | shorts     = FFFFFF
+ | socks      = 
+ | title      = {{nowrap|Manchester City}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+| ||'''1''' || {{flagicon|ENG}} [[Frank Moss (footballer born 1909)|Frank Moss]] 
+|-
+| ||'''2''' || {{flagicon|ENG}} [[George Male]]
+|-
+| ||'''3''' || {{flagicon|ENG}} [[Eddie Hapgood]] ([[Captain (association football)|c]])
+|-
+| ||'''4''' || {{flagicon|SCO}} [[Frank Hill]]
+|-
+| ||'''5''' || {{flagicon|ENG}} [[Norman Sidey]]
+|-
+| ||'''6''' || {{flagicon|ENG}} [[Wilf Copping]]
+|-
+| ||'''7''' || {{flagicon|ENG}} [[Ralph Birkett]] 
+|-
+| ||'''8''' || {{flagicon|SCO}} [[James Marshall (footballer, born 1908)|James Marshall]]
+|-
+| ||'''9''' || {{flagicon|ENG}} [[Ted Drake]]
+|-
+| ||'''10'''|| {{flagicon|WAL}} [[Bob John]]
+|-
+| ||'''11'''|| {{flagicon|ENG}} [[Cliff Bastin]]
+|-
+|colspan=4|'''Manager:''' {{flagicon|ENG}} [[George Allison]]
+|-
+|colspan="4"|
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" 
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+| ||'''1''' || {{flagicon|ENG}} [[Frank Swift]] 
+|-
+| ||'''2''' || {{flagicon|ENG}} [[Bill Dale (footballer)|Bill Dale]]
+|-
+| ||'''3'''|| {{flagicon|ENG}} [[Laurie Barnett]] 
+|-
+| ||'''4'''|| {{flagicon|SCO}} [[Matt Busby]]
+|-
+| ||'''5'''|| {{flagicon|ENG}} [[Sam Cowan]] ([[Captain (association football)|c]])
+|-
+| ||'''6''' || {{flagicon|ENG}} [[Jackie Bray]]
+|-
+| ||'''7''' || {{flagicon|ENG}} [[Ernie Toseland]]
+|-
+| ||'''8'''|| {{flagicon|SCO}} [[Jimmy McLuckie]]
+|-
+| ||'''9''' || {{flagicon|ENG}} [[Fred Tilson]]
+|-
+| ||'''10'''|| {{flagicon|ENG}} [[Jimmy Heale]]
+|-
+| ||'''11'''|| {{flagicon|ENG}} [[Eric Brook]]
+|-
+|colspan=4|'''Manager:''' {{flagicon|ENG}} [[Wilf Wild]]
+|-
+|colspan="4"|
+|}
+|}
+
+==References==
+{{reflist}}
+
+{{FA Community Shield}}
+{{Arsenal F.C. matches}}
+{{Manchester City F.C. matches}}
+{{1934–35 in English football}}
+
+[[Category:FA Community Shield matches|1934]]
+[[Category:Arsenal F.C. matches|Charity Shield 1934]]
+[[Category:Manchester City F.C. matches|Charity Shield 1934]]
+[[Category:1934–35 in English football|Comm]]
+[[Category:1934 in sport in London|Charity Shield]]
+[[Category:November 1934 sports events in the United Kingdom|Charity Shield]]
+[[Category:Sport in the London Borough of Islington]]
+[[Category:Football matches in London]]

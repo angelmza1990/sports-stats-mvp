@@ -1,0 +1,175 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title = 1983 FA Charity Shield
+| image = 1983 FA Charity Shield match programme.jpg
+| caption = Match programme cover
+| team1 = [[Manchester United F.C.|Manchester United]]
+| team1score = 2
+| team2 = [[Liverpool F.C.|Liverpool]]
+| team2score = 0
+| details = 
+| date = 20 August 1983
+| stadium = [[Wembley Stadium (1923)|Wembley Stadium]]
+| city = [[London]]
+| man_of_the_match1a = 
+| referee = Alan Robinson ([[Hampshire Football Association|Hampshire]])
+| attendance = 92,000
+| weather = 
+| previous = [[1982 FA Charity Shield|1982]]
+| next = [[1984 FA Charity Shield|1984]]
+}}
+The '''1983 FA Charity Shield''' was the 61st [[FA Community Shield|FA Charity Shield]], an annual [[association football|football]] match played between the winners of the previous season's [[Football League First Division|First Division]] and [[FA Cup]] competitions. The match was played on 20 August 1983 at [[Wembley Stadium (1923)|Wembley Stadium]] and contested by [[Liverpool F.C.|Liverpool]], who had won the [[1982–83 Football League#First Division|1982–83 First Division]], and [[Manchester United F.C.|Manchester United]], who had won the [[1982–83 FA Cup]]. Manchester United won 2–0 with a brace from captain [[Bryan Robson]]. It was Liverpool's first competitive game under the management of [[Joe Fagan]], who had been promoted from the coaching staff to replace the retiring [[Bob Paisley]].
+{{-}}
+
+==Match details==
+{{footballbox
+|date=20 August 1983
+|time=15:00 [[UTC+1]]
+|team1=[[Manchester United F.C.|Manchester United]]
+|score=2–0
+|team2=[[Liverpool F.C.|Liverpool]]
+|report = [http://www.footballsite.co.uk/Statistics/CommunityShield/1983-84CharityShield.htm Report]
+|goals1=[[Bryan Robson|Robson]] {{goal|23||60}}
+|goals2=
+|stadium=[[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=92,000
+|referee= Alan Robinson ([[Hampshire Football Association|Hampshire]])}}
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _manutda8284
+ | pattern_b  = _manutda8284
+ | pattern_ra = _manutda8284
+ | pattern_sh = _adidaswhite
+ | pattern_so = _color_3_stripes_black
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Manchester United}}
+|{{Football kit
+ | pattern_la = _liverpool84
+ | pattern_b  = _liverpool84
+ | pattern_ra = _liverpool84
+ | pattern_sh = _white_stripes
+ | pattern_so = _2_stripes_white
+ | leftarm    = DD0000
+ | body       = DD0000
+ | rightarm   = DD0000
+ | shorts     = DD0000
+ | socks      = DD0000
+ | title      = Liverpool}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Gary Bailey]]
+|-
+|DF ||'''2''' ||{{flagicon|ENG}} [[Mike Duxbury]]
+|-
+|DF ||'''3''' ||{{flagicon|SCO}} [[Arthur Albiston]]
+|-
+|MF ||'''4''' ||{{flagicon|ENG}} [[Ray Wilkins]]
+|-
+|DF ||'''5''' ||{{flagicon|IRL}} [[Kevin Moran (footballer)|Kevin Moran]]
+|-
+|DF ||'''6''' ||{{flagicon|SCO}} [[Gordon McQueen]]
+|-
+|MF ||'''7''' ||{{flagicon|ENG}} [[Bryan Robson]] ([[Captain (association football)|c]])
+|-
+|MF ||'''8''' ||{{flagicon|NED}} [[Arnold Mühren]] || || {{suboff|65}}
+|-
+|FW ||'''9''' ||{{flagicon|IRL}} [[Frank Stapleton]]
+|-
+|FW ||'''10'''||{{flagicon|NIR}} [[Norman Whiteside]]
+|-
+|MF ||'''11'''||{{flagicon|SCO}} [[Arthur Graham]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|DF ||'''12'''||{{flagicon|ENG}} [[John Gidman]] || || {{subon|65}}
+|-
+|MF ||'''13'''||{{flagicon|SCO}} [[Lou Macari]]
+|-
+|GK ||'''14'''||{{flagicon|ENG}} [[Jeff Wealands]]
+|-
+|MF ||'''15'''||{{flagicon|ENG}} [[Remi Moses]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Ron Atkinson]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ZIM}} [[Bruce Grobbelaar]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Phil Neal]]
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Alan Kennedy]] 
+|-
+|CM ||'''4''' ||{{flagicon|IRL}} [[Mark Lawrenson]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Phil Thompson]] || || {{suboff|61}}
+|-
+|CB ||'''6''' ||{{flagicon|SCO}} [[Alan Hansen]]
+|-
+|CF ||'''7''' ||{{flagicon|SCO}} [[Kenny Dalglish]]
+|-
+|RM ||'''8''' ||{{flagicon|ENG}} [[Sammy Lee (footballer)|Sammy Lee]]
+|-
+|CF ||'''9''' ||{{flagicon|WAL}} [[Ian Rush]]
+|-
+|LM ||'''10'''||{{flagicon|IRL}} [[Michael Robinson (footballer)|Michael Robinson]] || || {{suboff|61}}
+|-
+|CM ||'''11'''||{{flagicon|SCO}} [[Graeme Souness]] ([[Captain (association football)|c]])
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|MF ||'''12'''||{{flagicon|AUS}} [[Craig Johnston]] || || {{subon|61}}
+|-
+|FW ||'''13'''||{{flagicon|ENG}} [[David Hodgson (footballer)|David Hodgson]] || || {{subon|61}}
+|-
+|GK ||'''14'''||{{flagicon|ENG}} [[Bob Bolder]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ENG}} [[Joe Fagan]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match rules'''
+* 90 minutes, no [[extra time]]
+* Four named substitutes
+* Maximum of two substitutions
+|}
+
+==See also==
+* [[1982–83 Football League]]
+* [[1982–83 FA Cup]]
+
+{{FA Community Shield}}
+{{Liverpool F.C. matches}}
+{{Manchester United F.C. matches}}
+{{1983–84 in English football}}
+
+{{DEFAULTSORT:1983 Fa Charity Shield}}
+[[Category:FA Community Shield matches|1983]]
+[[Category:Football matches in London]]
+[[Category:Sports events at Wembley Stadium|1983]]
+[[Category:1983 in sport in London|Charity Shield]]
+[[Category:Manchester United F.C. matches|Charity Shield 1983]]
+[[Category:Liverpool F.C. matches|Charity Shield 1983]]
+[[Category:1983–84 in English men's football cups|Comm]]
+[[Category:August 1983 sports events in the United Kingdom]]

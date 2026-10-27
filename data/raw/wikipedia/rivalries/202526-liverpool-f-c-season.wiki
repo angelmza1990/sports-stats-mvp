@@ -1,0 +1,2449 @@
+{{Short description|English football club season}}
+{{Infobox football club season
+| club = [[Liverpool F.C.|Liverpool]]
+| season = [[2025–26 in English football|2025–26]]
+| owner = [[Fenway Sports Group]]
+| chairman = [[Tom Werner]]
+| mgrtitle = Head coach
+| manager = [[Arne Slot]]
+| stadium = [[Anfield]]
+| league = [[Premier League]]
+| league result = [[2025–26 Premier League|5th]]
+| cup1 = [[FA Cup]]
+| cup1 result = [[2025–26 FA Cup|Quarter-finals]]
+| cup2 = [[EFL Cup]]
+| cup2 result = [[2025–26 EFL Cup|Fourth round]]
+| cup3 = [[FA Community Shield]]
+| cup3 result = [[2025 FA Community Shield|Runners-up]]
+| cup4 = [[UEFA Champions League]]
+| cup4 result = [[2025–26 UEFA Champions League|Quarter-finals]]
+| league topscorer = <br> [[Hugo Ekitike]] (11)
+| season topscorer = <br> Hugo Ekitike (17)
+| highest attendance = 60,466 <br> (v. [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]], Premier League, 27 December 2025)
+| lowest attendance = 59,507 <br> (v. [[Atlético Madrid]], UEFA Champions League, 17 September 2025)
+| average attendance = {{Round|{{Average|60315|60455|60342|60337|60407|60419|60414|60429|60466|60343|60431|60416|60336|60425|60386|60401|60314|60429|60325}}|0}}
+| largest win = '''6–0''' v. [[Qarabağ FK|Qarabağ]] (H) <br> UEFA Champions League, 28 January 2026
+| largest loss = '''0–4''' v. [[Manchester City F.C.|Manchester City]] (A) <br> FA Cup, 4 April 2026
+| pattern_la1 = _liverpool2526h
+| pattern_b1 = _liverpoolfc2526h
+| pattern_ra1 = _liverpool2526h
+| pattern_sh1 = _liverpool2526h
+| pattern_so1 = _liverpool2526hl
+| leftarm1 = EE1D33
+| body1 = EE1D33
+| rightarm1 = EE1D33
+| shorts1 = EE1D33
+| socks1 = EE1D33
+| pattern_la2 = _liverpool2526a
+| pattern_b2 = _liverpool2526a
+| pattern_ra2 = _liverpool2526a
+| pattern_sh2 = _liverpool2526a
+| pattern_so2 = _liverpool2526al
+| leftarm2 = EAE6E3
+| body2 = EAE6E3
+| rightarm2 = EAE6E3
+| shorts2 = 000000
+| socks2 = EAE6E3
+| pattern_la3 = _liverpool2526t
+| pattern_b3 = _liverpool2526t
+| pattern_ra3 = _liverpool2526t
+| pattern_sh3 = _liverpool2526t
+| pattern_so3 = _liverpool2526tl
+| leftarm3 = 0BB4BB
+| body3 = 0BB4BB
+| rightarm3 = 0BB4BB
+| shorts3 = FFFFFF
+| socks3 = 0BB4BB
+| prevseason = [[2024–25 Liverpool F.C. season|2024–25]]
+| nextseason = [[2026–27 Liverpool F.C. season|2026–27]]
+}}
+The '''2025–26 season''' was [[Liverpool F.C.|Liverpool Football Club]]'s 134th overall and their 64th consecutive season in the top flight of [[Football in England|English football]]. In addition to the [[2025–26 Premier League|domestic league]], the club also participated in the [[2025–26 FA Cup|FA Cup]], the [[2025–26 EFL Cup|EFL Cup]], the [[2025 FA Community Shield|FA Community Shield]] and the [[2025–26 UEFA Champions League|UEFA Champions League]].
+
+On 30 May 2026, after a 5th place league finish and no silverware, the club announced that head coach [[Arne Slot]] had departed his role with immediate effect.<ref>{{cite news |title=Liverpool FC statement |url=https://www.liverpoolfc.com/news/liverpool-fc-statement-13 |publisher=Liverpool F.C. |date=30 May 2026}}</ref>
+
+==First-team squad==
+This was the first season since [[2015–16 Liverpool F.C. season|2015–16]] without [[Trent Alexander-Arnold]], the first since [[2020–21 Liverpool F.C. season|2020–21]] without [[Luis Díaz (footballer, born 1997)|Luis Díaz]] and the first since [[2019–20 Liverpool F.C. season|2019–20]] without [[Diogo Jota]], who died in a car accident on 3 July 2025.<ref>{{cite news |title=Liverpool forward Diogo Jota dies in car crash |url=https://www.bbc.co.uk/sport/football/articles/cr4we9z2l42o |publisher=BBC Sport |date=3 July 2025}}</ref><ref>{{cite news |title=Diogo Jota: 1996-2025 |url=https://www.liverpoolfc.com/news/diogo-jota-1996-2025 |publisher=Liverpool F.C. |date=3 July 2025}}</ref> On 11 July 2025, Jota's squad number 20 was retired across all levels in his memory.<ref name="JotaNumber">{{cite news |title=Diogo Jota: Forever our number 20 |url=https://www.liverpoolfc.com/news/diogo-jota-forever-our-number-20 |publisher=Liverpool F.C. |date=11 July 2025}}</ref>
+<!-- Do ''not'' add or remove squad members until it is OFFICIAL on the club website's squad list -->
+{| class="wikitable sortable" style="text-align:center; font-size:90%; white-space:nowrap"
+|-
+! style="background:#D10A11; color:white" | No.
+! style="background:#D10A11; color:white" | Player
+! style="background:#D10A11; color:white" | Nationality
+! style="background:#D10A11; color:white" | Date of birth (age)
+! style="background:#D10A11; color:white" | Signed from
+! style="background:#D10A11; color:white" | Apps
+! style="background:#D10A11; color:white" | Goals
+! style="background:#D10A11; color:white" | Assists
+|-
+! colspan="10" style="background:#D10A11; color:white" | Goalkeepers
+|-
+| 1
+| [[Alisson Becker]]
+| {{flagicon|BRA}}
+| {{birth date and age2|2026|6|30|df=yes|1992|10|2}}
+| {{fbaicon|ITA}} [[AS Roma|Roma]]
+| 333
+| 1
+| 3
+|-
+| 25
+| [[Giorgi Mamardashvili]]
+| {{flagicon|GEO}}
+| {{birth date and age2|2026|6|30|df=yes|2000|9|29}}
+| {{fbaicon|ESP}} [[Valencia CF|Valencia]]
+| 20
+| 0
+| 0
+|-
+| 28
+| [[Freddie Woodman]]
+| {{flagicon|ENG}}
+| {{birth date and age2|2026|6|30|df=yes|1997|3|4}}
+| {{fbaicon|ENG}} [[Preston North End F.C.|Preston North End]]
+| 4
+| 0
+| 0
+|-
+| 41
+| [[Ármin Pécsi]]
+| {{flagicon|HUN}}
+| {{birth date and age2|2026|6|30|df=yes|2005|2|24}}
+| {{fbaicon|HUN}} [[Puskás Akadémia FC|Puskás Akadémia]]
+| 0
+| 0
+| 0
+|-
+| 95
+| [[Harvey Davies]]
+| {{flagicon|ENG}}
+| {{birth date and age2|2026|6|30|df=yes|2003|9|3}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 0
+| 0
+| 0
+|-
+! colspan="10" style="background:#D10A11; color:white" | Defenders
+|-
+| 2
+| [[Joe Gomez]]
+| {{flagicon|ENG}}
+| {{birth date and age2|2026|6|30|df=yes|1997|5|23}}
+| {{fbaicon|ENG}} [[Charlton Athletic F.C.|Charlton Athletic]]
+| 274
+| 0
+| 11
+|-
+| 4
+| [[Virgil van Dijk]] ''([[Captain (association football)|captain]])''
+| {{flagicon|NED}}
+| {{birth date and age2|2026|6|30|df=yes|1991|7|8}}
+| {{fbaicon|ENG}} [[Southampton F.C.|Southampton]]
+| 374
+| 36
+| 14
+|-
+| 5
+| [[Ibrahima Konaté]]
+| {{flagicon|FRA}}
+| {{birth date and age2|2026|6|30|df=yes|1999|5|25}}
+| {{fbaicon|GER}} [[RB Leipzig]]
+| 183
+| 7
+| 4
+|-
+| 6
+| [[Milos Kerkez]]
+| {{flagicon|HUN}}
+| {{birth date and age2|2026|6|30|df=yes|2003|11|7}}
+| {{fbaicon|ENG}} [[AFC Bournemouth|Bournemouth]]
+| 48
+| 2
+| 2
+|-
+| 12
+| [[Conor Bradley]]
+| {{flagicon|NIR}}
+| {{birth date and age2|2026|6|30|df=yes|2003|7|9}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 78
+| 1
+| 12
+|-
+| 15
+| [[Giovanni Leoni]]
+| {{flagicon|ITA}}
+| {{birth date and age2|2026|6|30|df=yes|2006|12|21}}
+| {{fbaicon|ITA}} [[Parma Calcio 1913|Parma]]
+| 1
+| 0
+| 0
+|-
+| 26
+| [[Andy Robertson]] ''([[Captain (association football)#Vice-captain|vice-captain]])''
+| {{flagicon|SCO}}
+| {{birth date and age2|2026|6|30|df=yes|1994|3|11}}
+| {{fbaicon|ENG}} [[Hull City A.F.C.|Hull City]]
+| 378
+| 14
+| 69
+|-
+| 30
+| [[Jeremie Frimpong]]
+| {{flagicon|NED}}
+| {{birth date and age2|2026|6|30|df=yes|2000|12|10}}
+| {{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| 35
+| 2
+| 1
+|-
+| 46
+| [[Rhys Williams (footballer, born 2001)|Rhys Williams]]
+| {{flagicon|ENG}}
+| {{birth date and age2|2026|6|30|df=yes|2001|2|3}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 19
+| 0
+| 0
+|-
+| 47
+| [[Calvin Ramsay]]
+| {{flagicon|SCO}}
+| {{birth date and age2|2026|6|30|df=yes|2003|7|31}}
+| {{fbaicon|SCO}} [[Aberdeen F.C.|Aberdeen]]
+| 4
+| 0
+| 0
+|-
+! colspan="10" style="background:#D10A11; color:white" | Midfielders
+|-
+| 3
+| [[Wataru Endo]]
+| {{flagicon|JPN}}
+| {{birth date and age2|2026|6|30|df=yes|1993|2|9}}
+| {{fbaicon|GER}} [[VfB Stuttgart]]
+| 87
+| 2
+| 2
+|-
+| 7
+| [[Florian Wirtz]]
+| {{flagicon|GER}}
+| {{birth date and age2|2026|6|30|df=yes|2003|5|3}}
+| {{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| 49
+| 7
+| 8
+|-
+| 8
+| [[Dominik Szoboszlai]]
+| {{flagicon|HUN}}
+| {{birth date and age2|2026|6|30|df=yes|2000|10|25}}
+| {{fbaicon|GER}} [[RB Leipzig]]
+| 147
+| 28
+| 24
+|-
+| 10
+| [[Alexis Mac Allister]]
+| {{flagicon|ARG}}
+| {{birth date and age2|2026|6|30|df=yes|1998|12|24}}
+| {{fbaicon|ENG}} [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| 150
+| 19
+| 20
+|-
+| 17
+| [[Curtis Jones (footballer, born 2001)|Curtis Jones]]
+| {{flagicon|ENG}}
+| {{birth date and age2|2026|6|30|df=yes|2001|1|30}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 228
+| 22
+| 22
+|-
+| 38
+| [[Ryan Gravenberch]]
+| {{flagicon|NED}}
+| {{birth date and age2|2026|6|30|df=yes|2002|5|16}}
+| {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| 137
+| 10
+| 12
+|-
+| 42
+| [[Trey Nyoni]]
+| {{flagicon|ENG}}
+| {{birth date and age2|2026|6|30|df=yes|2007|6|30}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 20
+| 0
+| 1
+|-
+| 43
+| [[Stefan Bajcetic]]
+| {{flagicon|ESP}}
+| {{birth date and age2|2026|6|30|df=yes|2004|10|22}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 22
+| 1
+| 0
+|-
+| 53
+| [[James McConnell (footballer, born 2004)|James McConnell]]
+| {{flagicon|ENG}}
+| {{birth date and age2|2026|6|30|df=yes|2004|9|13}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 13
+| 0
+| 1
+|-
+! colspan="10" style="background:#D10A11; color:white" | Forwards
+|-
+| 9
+| [[Alexander Isak]]
+| {{flagicon|SWE}}
+| {{birth date and age2|2026|6|30|df=yes|1999|9|21}}
+| {{fbaicon|ENG}} [[Newcastle United F.C.|Newcastle United]]
+| 22
+| 4
+| 1
+|-
+| 11
+| [[Mohamed Salah]]
+| {{flagicon|EGY}}
+| {{birth date and age2|2026|6|30|df=yes|1992|6|15}}
+| {{fbaicon|ITA}} [[AS Roma|Roma]]
+| 442
+| 257
+| 120
+|-
+| 14
+| [[Federico Chiesa]]
+| {{flagicon|ITA}}
+| {{birth date and age2|2026|6|30|df=yes|1997|10|25}}
+| {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+| 50
+| 5
+| 4
+|-
+| 18
+| [[Cody Gakpo]]
+| {{flagicon|NED}}
+| {{birth date and age2|2026|6|30|df=yes|1999|5|7}}
+| {{fbaicon|NED}} [[PSV Eindhoven]]
+| 180
+| 50
+| 20
+|-
+| 22
+| [[Hugo Ekitike]]
+| {{flagicon|FRA}}
+| {{birth date and age2|2026|6|30|df=yes|2002|6|20}}
+| {{fbaicon|GER}} [[Eintracht Frankfurt]]
+| 45
+| 17
+| 6
+|-
+| 73
+| [[Rio Ngumoha]]
+| {{flagicon|ENG}}
+| {{birth date and age2|2026|6|30|df=yes|2008|8|29}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 30
+| 2
+| 1
+|}
+
+===New contracts===
+{| class="wikitable plainrowheaders sortable"
+|-
+! style="background:#D10A11; color:white" | Date
+! style="background:#D10A11; color:white" | Pos.
+! style="background:#D10A11; color:white" | No.
+! style="background:#D10A11; color:white" | Player
+! style="background:#D10A11; color:white" | Date until
+! style="background:#D10A11; color:white" | Ref.
+|-
+! colspan="6" | First team
+|-
+| 18 June 2025 || style="text-align:center" | GK || style="text-align:center" | 56 || {{flagicon|CZE}} [[Vítězslav Jaroš]] || Undisclosed || <ref name="Jaros">{{cite news |title=Vitezslav Jaros signs new LFC deal and joins Ajax on season-long loan |url=https://www.liverpoolfc.com/news/vitezslav-jaros-signs-new-lfc-deal-and-joins-ajax-season-long-loan |publisher=Liverpool F.C. |date=18 June 2025}}</ref>
+|-
+| 26 June 2025 || style="text-align:center" | GK || style="text-align:center" | 95 || {{flagicon|ENG}} [[Harvey Davies]] || Undisclosed || <ref name="Davies">{{cite news |title=Harvey Davies signs new LFC deal and makes Crawley loan move |url=https://www.liverpoolfc.com/news/harvey-davies-signs-new-lfc-deal-and-makes-crawley-loan-move |publisher=Liverpool F.C. |date=26 June 2025}}</ref>
+|-
+| 30 June 2025 || style="text-align:center" | MF || style="text-align:center" | 42 || {{flagicon|ENG}} [[Trey Nyoni]] || 30 June 2030 || <ref>{{cite news |title=Trey Nyoni signs new long-term contract with Liverpool FC |url=https://www.liverpoolfc.com/news/trey-nyoni-signs-new-long-term-contract-liverpool-fc |publisher=Liverpool F.C. |date=30 June 2025}}</ref>
+|-
+| 29 August 2025 || style="text-align:center" | MF || style="text-align:center" | 53 || {{flagicon|ENG}} [[James McConnell (footballer, born 2004)|James McConnell]] || 30 June 2030 || <ref name="McConnell">{{cite news |title=James McConnell signs new LFC contract and joins Ajax on loan |url=https://www.liverpoolfc.com/news/james-mcconnell-signs-new-lfc-contract-and-joins-ajax-loan |publisher=Liverpool F.C. |date=29 August 2025}}</ref>
+|-
+| 30 August 2025 || style="text-align:center" | FW || style="text-align:center" | 18 || {{flagicon|NED}} [[Cody Gakpo]] || 30 June 2030 || <ref>{{cite news |title=Cody Gakpo signs new Liverpool FC contract |url=https://www.liverpoolfc.com/news/cody-gakpo-signs-new-liverpool-fc-contract |publisher=Liverpool F.C. |date=30 August 2025}}</ref>
+|-
+| 25 September 2025 || style="text-align:center" | FW || style="text-align:center" | 73 || {{flagicon|ENG}} [[Rio Ngumoha]] || 30 June 2028{{efn|name=pro}} || <ref>{{cite news |title=Rio Ngumoha signs first professional contract with Liverpool FC |url=https://www.liverpoolfc.com/news/rio-ngumoha-signs-first-professional-contract-liverpool-fc |publisher=Liverpool F.C. |date=25 September 2025}}</ref>
+|-
+| 7 March 2026 || style="text-align:center" | MF || style="text-align:center" | 38 || {{flagicon|NED}} [[Ryan Gravenberch]] || 30 June 2032 || <ref name="Gravenberch">{{cite news |title=Ryan Gravenberch signs new long-term Liverpool contract |url=https://www.liverpoolfc.com/news/ryan-gravenberch-signs-new-long-term-liverpool-contract |publisher=Liverpool F.C. |date=7 March 2026}}</ref>
+|-
+! colspan="6" | Academy
+|-
+| 23 July 2025 || style="text-align:center" | FW || style="text-align:center" | 81 || {{flagicon|EGY}} [[Kareem Ahmed]] || 30 June 2026{{efn|name=pro|First professional contract.}} || <ref>{{cite news |title=Kareem Ahmed signs first professional contract with Liverpool FC |url=https://www.liverpoolfc.com/news/kareem-ahmed-signs-first-professional-contract-liverpool-fc |publisher=Liverpool F.C. |date=23 July 2025}}</ref>
+|-
+| 24 July 2025 || style="text-align:center" | MF || style="text-align:center" | 55 || {{flagicon|ENG}} Joe Bradshaw || Undisclosed{{efn|name=pro}} || <ref>{{cite news |title=Joe Bradshaw signs first professional contract with Liverpool FC |url=https://www.liverpoolfc.com/news/joe-bradshaw-signs-first-professional-contract-liverpool-fc |publisher=Liverpool F.C. |date=24 July 2025}}</ref>
+|-
+| 25 July 2025 || style="text-align:center" | DF || style="text-align:center" | 63 || {{flagicon|WAL}} [[Owen Beck (footballer)|Owen Beck]] || Undisclosed || <ref name="Beck">{{cite news |title=Owen Beck signs new Liverpool contract and joins Derby on loan |url=https://www.liverpoolfc.com/news/owen-beck-signs-new-liverpool-contract-and-joins-derby-loan |publisher=Liverpool F.C. |date=25 July 2025}}</ref>
+|-
+| 14 August 2025 || style="text-align:center" | MF || style="text-align:center" | 91 || {{flagicon|ENG}} [[Luca Stephenson]] || Undisclosed || <ref name="Stephenson">{{cite news |title=Luca Stephenson signs new LFC contract and returns to Dundee United on loan |url=https://www.liverpoolfc.com/news/luca-stephenson-signs-new-lfc-contract-and-returns-dundee-united-loan |publisher=Liverpool F.C. |date=14 August 2025}}</ref>
+|-
+| 10 September 2025 || style="text-align:center" | DF || style="text-align:center" | 90 || {{flagicon|ENG}} Emmanuel Airoboma || 30 June 2026{{efn|name=pro}} || <ref>{{cite news |title=Emmanuel Airoboma signs first professional contract with Liverpool FC |url=https://www.liverpoolfc.com/news/emmanuel-airoboma-signs-first-professional-contract-liverpool-fc |publisher=Liverpool F.C. |date=10 September 2025}}</ref>
+|-
+| 10 March 2026 || style="text-align:center" | FW || style="text-align:center" | — || {{flagicon|ENG}} Finn Inglethorpe || Undisclosed{{efn|name=pro}} || <ref>{{cite news |title=Finn Inglethorpe signs first professional contract with Liverpool FC |url=https://www.liverpoolfc.com/news/finn-inglethorpe-signs-first-professional-contract-liverpool-fc |publisher=Liverpool F.C. |date=10 March 2026}}</ref>
+|-
+| 24 March 2026 || style="text-align:center" | MF || style="text-align:center" | — || {{flagicon|ENG}} Joe Upton || Undisclosed{{efn|name=pro}} || <ref>{{cite news |title=Joe Upton signs first professional contract with Liverpool FC |url=https://www.liverpoolfc.com/news/joe-upton-signs-first-professional-contract-liverpool-fc |publisher=Liverpool F.C. |date=24 March 2026}}</ref>
+|-
+| 14 April 2026 || style="text-align:center" | DF || style="text-align:center" | — || {{flagicon|ENG}} DJ Esdaille || Undisclosed{{efn|name=pro}} || <ref>{{cite news |title=DJ Esdaille signs first professional contract with Liverpool FC |url=https://www.liverpoolfc.com/news/dj-esdaille-signs-first-professional-contract-liverpool-fc |publisher=Liverpool F.C. |date=14 April 2026}}</ref>
+|}
+{{Notelist}}
+
+===Retired numbers===
+{{see also|List of retired numbers in association football}}
+
+{| class="wikitable plainrowheaders sortable"
+|-
+! style="background:#D10A11; color:white" | No.
+! style="background:#D10A11; color:white" | Pos.
+! style="background:#D10A11; color:white" | Player
+! style="background:#D10A11; color:white" | Tenure
+! style="background:#D10A11; color:white" | Notes
+! style="background:#D10A11; color:white" | Ref.
+|-
+| style="text-align:center" | 20 || style="text-align:center" | FW || {{flagicon|POR}} [[Diogo Jota]] || 2020–25 || Posthumous honour || <ref name="JotaNumber" />
+|}
+
+==Transfers==
+===In===
+{| class="wikitable plainrowheaders sortable" width=755
+|-
+! style="background:#D10A11; color:white" | Date
+! style="background:#D10A11; color:white" | Pos.
+! style="background:#D10A11; color:white" | No.
+! style="background:#D10A11; color:white" | Player
+! style="background:#D10A11; color:white" | From
+! style="background:#D10A11; color:white" | Fee
+! style="background:#D10A11; color:white" | Ref.
+|-
+! colspan="7" | First team
+|-
+| 1 June 2025 || style="text-align:center" | DF || style="text-align:center" | 30 || {{flagicon|NED}} [[Jeremie Frimpong]] || {{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]] || {{ntsh|29.5}} £29,500,000 || <ref>{{cite news |title=Liverpool agree signing of Jeremie Frimpong from Bayer Leverkusen |url=https://www.liverpoolfc.com/news/liverpool-agree-signing-jeremie-frimpong-bayer-leverkusen |publisher=Liverpool F.C. |date=30 May 2025}}</ref>
+|-
+| 7 June 2025 || style="text-align:center" | GK || style="text-align:center" | 41 || {{flagicon|HUN}} [[Ármin Pécsi]] || {{fbaicon|HUN}} [[Puskás Akadémia FC|Puskás Akadémia]] || {{ntsh|1.5}} £1,500,000 || <ref>{{cite news |title=Liverpool agree deal to sign goalkeeper Armin Pecsi |url=https://www.liverpoolfc.com/news/liverpool-agree-deal-sign-goalkeeper-armin-pecsi |publisher=Liverpool F.C. |date=7 June 2025}}</ref>
+|-
+| 20 June 2025 || style="text-align:center" | MF || style="text-align:center" | 7 || {{flagicon|GER}} [[Florian Wirtz]] || {{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]] || {{ntsh|100}} £100,000,000{{efn|Fee may eventually rise to £116,500,000.}} || <ref>{{cite news |title=Liverpool agree signing of Florian Wirtz from Bayer Leverkusen |url=https://www.liverpoolfc.com/news/liverpool-agree-signing-florian-wirtz-bayer-leverkusen |publisher=Liverpool F.C. |date=20 June 2025}}</ref>
+|-
+| 26 June 2025 || style="text-align:center" | DF || style="text-align:center" | 6 || {{flagicon|HUN}} [[Milos Kerkez]] || {{fbaicon|ENG}} [[AFC Bournemouth|Bournemouth]] || {{ntsh|40}} £40,000,000 || <ref>{{cite news |title=Liverpool complete signing of Milos Kerkez from Bournemouth |url=https://www.liverpoolfc.com/news/liverpool-complete-signing-milos-kerkez-bournemouth |publisher=Liverpool F.C. |date=26 June 2025}}</ref>
+|-
+| 1 July 2025{{efn|The transfer was completed on 27 August 2024, both clubs agreed that Mamardashvili would join at the start of the 2025–26 season.}} || style="text-align:center" | GK || style="text-align:center" | 25 || {{flagicon|GEO}} [[Giorgi Mamardashvili]] || {{fbaicon|ESP}} [[Valencia CF|Valencia]] || {{ntsh|25}} £25,000,000{{efn|Fee may eventually rise to £29,000,000.}} || <ref>{{cite news |title=Liverpool agree deal to sign Giorgi Mamardashvili |url=https://www.liverpoolfc.com/news/liverpool-agree-deal-sign-giorgi-mamardashvili |publisher=Liverpool F.C. |date=27 August 2024}}</ref>
+|-
+| 1 July 2025 || style="text-align:center" | GK || style="text-align:center" | 28 || {{flagicon|ENG}} [[Freddie Woodman]] || {{fbaicon|ENG}} [[Preston North End F.C.|Preston North End]] || {{ntsh|0}} Free transfer || <ref>{{cite news |title=Liverpool set to sign goalkeeper Freddie Woodman |url=https://www.liverpoolfc.com/news/liverpool-set-sign-goalkeeper-freddie-woodman |publisher=Liverpool F.C. |date=27 June 2025}}</ref>
+|-
+| 23 July 2025 || style="text-align:center" | FW || style="text-align:center" | 22 || {{flagicon|FRA}} [[Hugo Ekitike]] || {{fbaicon|GER}} [[Eintracht Frankfurt]] || {{ntsh|69}} £69,000,000{{efn|Fee may eventually rise to £79,000,000.}} || <ref>{{cite news |title=Liverpool agree deal to sign Hugo Ekitike from Eintracht Frankfurt |url=https://www.liverpoolfc.com/news/liverpool-agree-deal-sign-hugo-ekitike-eintracht-frankfurt |publisher=Liverpool F.C. |date=23 July 2025}}</ref>
+|-
+| 15 August 2025 || style="text-align:center" | DF || style="text-align:center" | 15 || {{flagicon|ITA}} [[Giovanni Leoni]] || {{flagicon|ITA}} [[Parma Calcio 1913|Parma]] || {{ntsh|26}} £26,000,000{{efn|Fee may eventually rise to £30,000,000.}} || <ref>{{cite news |title=Liverpool FC complete signing of Giovanni Leoni from Parma |url=https://www.liverpoolfc.com/news/liverpool-fc-complete-signing-giovanni-leoni-parma |publisher=Liverpool F.C. |date=15 August 2025}}</ref>
+|-
+| 1 September 2025 || style="text-align:center" | FW || style="text-align:center" | 9 || {{flagicon|SWE}} [[Alexander Isak]] || {{flagicon|ENG}} [[Newcastle United F.C.|Newcastle United]] || {{ntsh|125}} £125,000,000 || <ref>{{cite news |title=Liverpool complete signing of Alexander Isak |url=https://www.liverpoolfc.com/news/liverpool-complete-signing-alexander-isak |publisher=Liverpool F.C. |date=1 September 2025}}</ref>
+|-
+! colspan="7" | Academy
+|-
+| 4 August 2025 || style="text-align:center" | FW || style="text-align:center" | 79 || {{flagicon|ENG}} [[Will Wright (footballer, born 2008)|Will Wright]] || {{fbaicon|ENG}} [[Salford City F.C.|Salford City]] || {{ntsh|0.2}} £200,000 || <ref>{{cite news |title=Will Wright completes transfer to Liverpool |url=https://www.liverpoolfc.com/news/will-wright-completes-transfer-liverpool |publisher=Liverpool F.C. |date=4 August 2025}}</ref>
+|-
+| 9 January 2026 || style="text-align:center" | DF || style="text-align:center" | 75 || {{flagicon|SEN}} [[Mor Talla Ndiaye]] || {{flagicon|SEN}} {{ill|Amitié Football Club|lt=Amitié|fr}} || {{ntsh|1}} £1,000,000 || <ref>{{cite news |title=Liverpool complete signing of Mor Talla Ndiaye |url=https://www.liverpoolfc.com/news/liverpool-complete-signing-mor-talla-ndiaye |publisher=Liverpool F.C. |date=9 January 2026}}</ref>
+|-
+! colspan="7" | {{loss}} Spending: £417,200,000
+|}
+{{Notelist}}
+
+Note<sup>1</sup>: On 26 January 2026, Liverpool completed a transfer for defender [[Ifeanyi Ndukwe]] from [[FK Austria Wien|Austria Wien]] for a reported fee of £2,600,000. Both clubs confirmed that the Austrian youth international would be joining the Premier League club at the start of the 2026–27 season.<ref>{{cite news |title=Liverpool agree deal to sign Ifeanyi Ndukwe |url=https://www.liverpoolfc.com/news/liverpool-agree-deal-sign-ifeanyi-ndukwe |publisher=Liverpool F.C. |date=26 January 2026}}</ref>
+
+Note<sup>2</sup>: On 2 February 2026, Liverpool completed a transfer for defender [[Jérémy Jacquet]] from [[Stade Rennais FC|Rennes]] for a reported fee of £55,000,000 plus £5,000,000 in potential add-ons. Both clubs confirmed that the French youth international would be joining the Premier League club at the start of the 2026–27 season.<ref>{{cite news |title=Liverpool agree deal to sign Jeremy Jacquet |url=https://www.liverpoolfc.com/news/liverpool-agree-deal-sign-jeremy-jacquet |publisher=Liverpool F.C. |date=2 February 2026}}</ref>
+
+===Out===
+{| class="wikitable plainrowheaders sortable" width=755
+|-
+! style="background:#D10A11; color:white" | Date
+! style="background:#D10A11; color:white" | Pos.
+! style="background:#D10A11; color:white" | No.
+! style="background:#D10A11; color:white" | Player
+! style="background:#D10A11; color:white" | To
+! style="background:#D10A11; color:white" | Fee
+! style="background:#D10A11; color:white" | Ref.
+|-
+! colspan="7" | First team
+|-
+| 1 June 2025 || style="text-align:center" | DF || style="text-align:center" | 66 || {{flagicon|ENG}} [[Trent Alexander-Arnold]] || {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]] || {{ntsh|8.4}} £8,400,000{{efn|Fee may eventually rise to £10,000,000.}} || <ref>{{cite news |title=Liverpool accept Real Madrid offer for Trent Alexander-Arnold transfer |url=https://www.liverpoolfc.com/news/liverpool-accept-real-madrid-offer-trent-alexander-arnold-transfer |publisher=Liverpool F.C. |date=30 May 2025}}</ref>
+|-
+| 3 June 2025 || style="text-align:center" | GK || style="text-align:center" | 62 || {{flagicon|IRL}} [[Caoimhín Kelleher]] || {{fbaicon|ENG}} [[Brentford F.C.|Brentford]] || {{ntsh|12.5}} £12,500,000{{efn|Fee may eventually rise to £18,000,000.}} || <ref>{{cite news |title=Caoimhin Kelleher joins Brentford in permanent transfer |url=https://www.liverpoolfc.com/news/caoimhin-kelleher-joins-brentford-permanent-transfer |publisher=Liverpool F.C. |date=3 June 2025}}</ref>
+|-
+| 23 June 2025 || style="text-align:center" | DF || style="text-align:center" | 47 || {{flagicon|ENG}} [[Nat Phillips]] || {{fbaicon|ENG}} [[West Bromwich Albion F.C.|West Bromwich Albion]] || {{ntsh|3}} £3,000,000 || <ref>{{cite news |title=Nat Phillips completes permanent transfer to West Bromwich Albion |url=https://www.liverpoolfc.com/news/nat-phillips-completes-permanent-transfer-west-bromwich-albion |publisher=Liverpool F.C. |date=23 June 2025}}</ref>
+|-
+| 2 July 2025 || style="text-align:center" | DF || style="text-align:center" | 78 || {{flagicon|ENG}} [[Jarell Quansah]] || {{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]] || {{ntsh|30}} £30,000,000{{efn|Fee may eventually rise to £35,000,000.}} || <ref>{{cite news |title=Jarell Quansah completes transfer to Bayer Leverkusen |url=https://www.liverpoolfc.com/news/jarell-quansah-completes-transfer-bayer-leverkusen |publisher=Liverpool F.C. |date=2 July 2025}}</ref>
+|-
+| 30 July 2025 || style="text-align:center" | FW || style="text-align:center" | 7 || {{flagicon|COL}} [[Luis Díaz (footballer, born 1997)|Luis Díaz]] || {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]] || {{ntsh|60}} £60,000,000{{efn|Fee may eventually rise to £65,500,000.}} || <ref>{{cite news |title=Luis Diaz completes transfer to Bayern Munich |url=https://www.liverpoolfc.com/news/luis-diaz-completes-permanent-move-bayern-munich |publisher=Liverpool F.C. |date=30 July 2025}}</ref>
+|-
+| 5 August 2025 || style="text-align:center" | MF || style="text-align:center" | 80 || {{flagicon|ENG}} [[Tyler Morton]] || {{fbaicon|FRA}} [[Olympique Lyonnais|Lyon]] || {{ntsh|10}} £10,000,000{{efn|Fee may eventually rise to £15,000,000.}} || <ref>{{cite news |title=Tyler Morton completes permanent transfer to Olympique Lyonnais |url=https://www.liverpoolfc.com/news/tyler-morton-completes-permanent-transfer-olympique-lyonnais |publisher=Liverpool F.C. |date=5 August 2025}}</ref>
+|-
+| 9 August 2025 || style="text-align:center" | FW || style="text-align:center" | 9 || {{flagicon|URU}} [[Darwin Núñez]] || {{fbaicon|KSA}} [[Al Hilal SFC|Al-Hilal]] || {{ntsh|46.2}} £46,200,000{{efn|Fee may eventually rise to £56,600,000.}} || <ref>{{cite news |title=Darwin Nunez completes permanent transfer to Al-Hilal |url=https://www.liverpoolfc.com/news/darwin-nunez-completes-permanent-transfer-al-hilal |publisher=Liverpool F.C. |date=9 August 2025}}</ref>
+|-
+| 18 August 2025 || style="text-align:center" | FW || style="text-align:center" | 50 || {{flagicon|SCO}} [[Ben Gannon-Doak]] || {{fbaicon|ENG}} [[AFC Bournemouth|Bournemouth]] || {{ntsh|20}} £20,000,000{{efn|Fee may eventually rise to £25,000,000.}} || <ref>{{cite news |title=Ben Doak completes permanent transfer to AFC Bournemouth |url=https://www.liverpoolfc.com/news/ben-doak-completes-permanent-transfer-afc-bournemouth |publisher=Liverpool F.C. |date=18 August 2025}}</ref>
+|-
+! colspan="7" | Academy
+|-
+| 30 June 2025 || style="text-align:center" | GK || style="text-align:center" | 75 || {{flagicon|POL}} [[Jakub Ojrzyński]] || {{fbaicon|SWE}} [[Örebro SK]] || {{ntsh|0}} Free transfer || <ref name="RetainedList">{{cite news |title=Liverpool FC confirms Premier League retained list |url=https://www.liverpoolfc.com/news/liverpool-fc-confirms-premier-league-retained-list |publisher=Liverpool F.C. |date=6 June 2025}}</ref><ref>{{cite news |title=Välkommen till ÖSK ”Kuba”! |trans-title=Welcome to ÖSK "Kuba"! |url=https://oskfotboll.se/nyheter/2025/2025-07-12-valkommen-till-osk-kuba |publisher=Örebro SK |language=sv |date=12 July 2025}}</ref>
+|-
+| 30 June 2025 || style="text-align:center" | MF || style="text-align:center" | 79 || {{flagicon|ENG}} [[Dominic Corness]] || {{fbaicon|WAL}} [[The New Saints F.C.|The New Saints]] || {{ntsh|0}} Free transfer || <ref name="RetainedList" /><ref>{{cite news |title=Dominic Corness agrees terms with The New Saints following Liverpool departure |url=https://tnsfc.co.uk/2025/06/24/dominic-corness-agrees-terms-with-the-new-saints-following-liverpool-departure/ |publisher=The New Saints F.C. |date=24 June 2025}}</ref>
+|-
+| 30 June 2025 || style="text-align:center" | FW || style="text-align:center" | 82 || {{flagicon|ENG}} [[Ranel Young]] || {{fbaicon|SRB}} [[FK Ušće Novi Beograd|Ušće]] || {{ntsh|0}} Free transfer || <ref>{{cite news |title=Liverpool striker makes shock move after rejecting new contract |url=https://www.thisisanfield.com/2025/07/liverpool-striker-makes-shock-move-after-rejecting-new-contract |publisher=This is Anfield |date=25 July 2025}}</ref>
+|-
+| 30 June 2025 || style="text-align:center" | GK || style="text-align:center" | 86 || {{flagicon|ENG}} Reece Trueman || {{fbaicon|ENG}} [[Vauxhall Motors F.C.|Vauxhall Motors]] || {{ntsh|0}} Free transfer || <ref name="RetainedList" /><ref>{{cite tweet |user=vmfc_ |number=1950194699953750304 |title=𝙍𝙚𝙚𝙘𝙚 𝙏𝙧𝙪𝙚𝙢𝙖𝙣 𝙟𝙤𝙞𝙣𝙨 🧤 |author=Vauxhall Motors F.C. |date=30 July 2025}}</ref>
+|-
+| 30 June 2025 || style="text-align:center" | DF || style="text-align:center" | 90 || {{flagicon|ENG}} Lee Jonas || {{fbaicon|WAL}} [[Flint Town United F.C.|Flint Town United]] || {{ntsh|0}} Free transfer || <ref name="RetainedList" /><ref>{{cite news |title=Lee Jonas signs 18 month deal |url=https://flinttownunited.co.uk/lee-jonas-signs-18-month-deal |publisher=Flint Town United F.C. |archive-url=https://web.archive.org/web/20260312103323/https://flinttownunited.co.uk/lee-jonas-signs-18-month-deal |archive-date=12 March 2026 |date=20 February 2026}}</ref>
+|-
+| 30 June 2025 || style="text-align:center" | DF || style="text-align:center" | — || {{flagicon|ENG}} Louis Enahoro-Marcus || {{fbaicon|ENG}} [[Leeds United F.C.|Leeds United]] || {{ntsh|0}} Free transfer || <ref name="RetainedList" /><ref>{{cite news |title=Louis Enahoro-Marcus joins Leeds United |url=https://www.leedsunited.com/en/news/louis-enahoro-marcus-joins-leeds-united |publisher=Leeds United F.C. |date=9 July 2025}}</ref>
+|-
+| 30 June 2025 || style="text-align:center" | DF || style="text-align:center" | — || {{flagicon|ENG}} Harry Evers || {{fbaicon|ENG}} [[Sheffield Wednesday F.C.|Sheffield Wednesday]] || {{ntsh|0}} Free transfer || <ref name="RetainedList" /><ref>{{cite news |title=Professional deals for six young Owls |url=https://www.swfc.co.uk/news/2025/july/02/professional-deals-for-six-young-owls |publisher=Sheffield Wednesday F.C. |date=2 July 2025}}</ref>
+|-
+| 1 January 2026 || style="text-align:center" | DF || style="text-align:center" | 77 || {{flagicon|ENG}} [[James Norris (footballer)|James Norris]] || {{fbaicon|IRL}} [[Shelbourne F.C.|Shelbourne]] || {{ntsh|0}} Undisclosed || <ref>{{cite news |title=James Norris completes permanent transfer to Shelbourne |url=https://www.liverpoolfc.com/news/james-norris-completes-permanent-transfer-shelbourne |publisher=Liverpool F.C. |date=1 January 2026}}</ref>
+|-
+| 27 February 2026 || style="text-align:center" | FW || style="text-align:center" | 51 || {{flagicon|IRL}} [[Trent Koné-Doherty]] || {{fbaicon|NOR}} [[Molde FK|Molde]] || {{ntsh|0.658}} £658,000 || <ref>{{cite news |title=Trent Kone-Doherty transfer confirmed as Liverpool agree buy-back clause |url=https://www.liverpoolfc.com/news/trent-kone-doherty-makes-permanent-move-molde-fk |publisher=Liverpool F.C. |date=27 February 2026}}</ref>
+|-
+! colspan="7" | {{gain}} Income: £190,758,000 + Undisclosed fees
+|}
+{{Notelist}}
+
+===Loans in===
+{| class="wikitable plainrowheaders sortable" width=755
+|-
+! style="background:#D10A11; color:white" | Date
+! style="background:#D10A11; color:white" | Pos.
+! style="background:#D10A11; color:white" | No.
+! style="background:#D10A11; color:white" | Player
+! style="background:#D10A11; color:white" | From
+! style="background:#D10A11; color:white" | Date until
+! style="background:#D10A11; color:white" | Ref.
+|-
+! colspan="7" | No loans in
+|}
+
+===Loans out===
+{| class="wikitable plainrowheaders sortable" width=755
+|-
+! style="background:#D10A11; color:white" | Date
+! style="background:#D10A11; color:white" | Pos.
+! style="background:#D10A11; color:white" | No.
+! style="background:#D10A11; color:white" | Player
+! style="background:#D10A11; color:white" | To
+! style="background:#D10A11; color:white" | Date until
+! style="background:#D10A11; color:white" | Ref.
+|-
+! colspan="7" | First team
+|-
+| 1 July 2025 || style="text-align:center" | GK || style="text-align:center" | 56 || {{flagicon|CZE}} [[Vítězslav Jaroš]] || {{fbaicon|NED}} [[AFC Ajax|Ajax]] || 30 June 2026 || <ref name="Jaros" />
+|-
+| 1 July 2025 || style="text-align:center" | GK || style="text-align:center" | 95 || {{flagicon|ENG}} [[Harvey Davies]] || {{fbaicon|ENG}} [[Crawley Town F.C.|Crawley Town]] || 2 February 2026{{efn|On 2 February 2026, Davies was recalled from his loan at Crawley Town.}} || <ref name="Davies" /><ref>{{cite news |title=Harvey Davies returns from Crawley Town loan |url=https://www.liverpoolfc.com/news/harvey-davies-returns-crawley-town-loan |publisher=Liverpool F.C. |date=2 February 2026}}</ref>
+|-
+| 29 August 2025 || style="text-align:center" | MF || style="text-align:center" | 53 || {{flagicon|ENG}} [[James McConnell (footballer, born 2004)|James McConnell]] || {{fbaicon|NED}} [[AFC Ajax|Ajax]] || 2 February 2026{{efn|On 2 February 2026, McConnell was recalled from his loan at Ajax.}} || <ref name="McConnell" /><ref>{{cite news |title=James McConnell returns to Liverpool from Ajax loan |url=https://www.liverpoolfc.com/news/james-mcconnell-returns-liverpool-ajax-loan |publisher=Liverpool F.C. |date=2 February 2026}}</ref>
+|-
+| 31 August 2025 || style="text-align:center" | DF || style="text-align:center" | 21 || {{flagicon|GRE}} [[Kostas Tsimikas]] || {{fbaicon|ITA}} [[AS Roma|Roma]] || 30 June 2026 || <ref>{{cite news |title=Kostas Tsimikas completes loan move to AS Roma |url=https://www.liverpoolfc.com/news/kostas-tsimikas-completes-loan-move-roma |publisher=Liverpool F.C. |date=31 August 2025}}</ref>
+|-
+| 1 September 2025 || style="text-align:center" | MF || style="text-align:center" | 19 || {{flagicon|ENG}} [[Harvey Elliott]] || {{fbaicon|ENG}} [[Aston Villa F.C.|Aston Villa]] || 30 June 2026 || <ref>{{cite news |title=Harvey Elliott joins Aston Villa on loan |url=https://www.liverpoolfc.com/news/harvey-elliott-joins-aston-villa-loan |publisher=Liverpool F.C. |date=1 September 2025}}</ref>
+|-
+! colspan="7" | Academy
+|-
+| 25 July 2025 || style="text-align:center" | DF || style="text-align:center" | 63 || {{flagicon|WAL}} [[Owen Beck (footballer)|Owen Beck]] || {{fbaicon|ENG}} [[Derby County F.C.|Derby County]] || 4 January 2026{{efn|On 4 January 2026, Beck returned from Derby County due to injury.}} || <ref name="Beck" /><ref>{{cite news |title=Owen Beck returns to Liverpool from Derby County loan |url=https://www.liverpoolfc.com/news/owen-beck-returns-liverpool-derby-county-loan |publisher=Liverpool F.C. |date=4 January 2026}}</ref>
+|-
+| 1 August 2025 || style="text-align:center" | DF || style="text-align:center" | 52 || {{flagicon|ZIM}} [[Isaac Mabaya]] || {{fbaicon|ENG}} [[Wigan Athletic F.C.|Wigan Athletic]] || 30 June 2026 || <ref>{{cite news |title=Isaac Mabaya completes loan move to Wigan |url=https://www.liverpoolfc.com/news/isaac-mabaya-completes-loan-move-wigan |publisher=Liverpool F.C. |date=1 August 2025}}</ref>
+|-
+| 14 August 2025 || style="text-align:center" | MF || style="text-align:center" | 91 || {{flagicon|ENG}} [[Luca Stephenson]] || {{fbaicon|SCO}} [[Dundee United F.C.|Dundee United]] || 30 June 2026 || <ref name="Stephenson" />
+|-
+| 22 August 2025 || style="text-align:center" | FW || style="text-align:center" | 67 || {{flagicon|WAL}} [[Lewis Koumas]] || {{fbaicon|ENG}} [[Birmingham City F.C.|Birmingham City]] || 26 January 2026{{efn|On 26 January 2026, Koumas was recalled from his loan at Birmingham City.}} || <ref>{{cite news |title=Lewis Koumas joins Birmingham on loan for 2025-26 |url=https://www.liverpoolfc.com/news/lewis-koumas-joins-birmingham-loan-2025-26 |publisher=Liverpool F.C. |date=22 August 2025}}</ref><ref>{{cite news |title=Lewis Koumas returns to Liverpool from Birmingham loan |url=https://www.liverpoolfc.com/news/lewis-koumas-returns-liverpool-birmingham-loan |publisher=Liverpool F.C. |date=26 January 2026}}</ref>
+|-
+| 28 August 2025 || style="text-align:center" | MF || style="text-align:center" | 85 || {{flagicon|ENG}} [[James Balagizi]] || {{fbaicon|ENG}} [[Forest Green Rovers F.C.|Forest Green Rovers]] || 7 January 2026{{efn|On 7 January 2026, Balagizi returned from Forest Green Rovers due to injury.}} || <ref>{{cite news |title=James Balagizi joins Forest Green Rovers on loan |url=https://www.liverpoolfc.com/news/james-balagizi-joins-forest-green-rovers-loan |publisher=Liverpool F.C. |date=28 August 2025}}</ref><ref>{{cite news |title=James Balagizi to return from loan at Forest Green Rovers |url=https://www.liverpoolfc.com/news/james-balagizi-return-loan-forest-green-rovers |publisher=Liverpool F.C. |date=6 January 2026}}</ref>
+|-
+| 21 January 2026 || style="text-align:center" | DF || style="text-align:center" | 44 || {{flagicon|ENG}} [[Luke Chambers (footballer, born 2004)|Luke Chambers]] || {{fbaicon|ENG}} [[Charlton Athletic F.C.|Charlton Athletic]] || 30 June 2026 || <ref>{{cite news |title=Luke Chambers completes loan move to Charlton Athletic |url=https://www.liverpoolfc.com/news/luke-chambers-completes-loan-move-charlton-athletic |publisher=Liverpool F.C. |date=21 January 2026}}</ref>
+|-
+| 30 January 2026 || style="text-align:center" | FW || style="text-align:center" | 67 || {{flagicon|WAL}} [[Lewis Koumas]] || {{fbaicon|ENG}} [[Hull City A.F.C.|Hull City]] || 30 June 2026 || <ref>{{cite news |title=Lewis Koumas joins Hull City on loan |url=https://www.liverpoolfc.com/news/lewis-koumas-joins-hull-city-loan |publisher=Liverpool F.C. |date=30 January 2026}}</ref>
+|-
+| 1 February 2026 || style="text-align:center" | DF || style="text-align:center" | 48 || {{flagicon|ENG}} [[Calum Scanlon]] || {{fbaicon|WAL}} [[Cardiff City F.C.|Cardiff City]] || 30 June 2026 || <ref>{{cite news |title=Calum Scanlon joins Cardiff City on loan |url=https://www.liverpoolfc.com/news/calum-scanlon-joins-cardiff-city-loan |publisher=Liverpool F.C. |date=1 February 2026}}</ref>
+|-
+| 5 March 2026 || style="text-align:center" | GK || style="text-align:center" | 93 || {{flagicon|POL}} [[Fabian Mrozek]] || {{fbaicon|USA}} [[FC Cincinnati]] || 31 December 2026 || <ref>{{cite news |title=Fabian Mrozek completes loan move to FC Cincinnati |url=https://www.liverpoolfc.com/news/fabian-mrozek-completes-loan-move-fc-cincinnati |publisher=Liverpool F.C. |date=5 March 2026}}</ref>
+|-
+| 17 March 2026 || style="text-align:center" | DF || style="text-align:center" | 69 || {{flagicon|ENG}} Josh Davidson || {{fbaicon|ENG}} [[Buxton F.C.|Buxton]] || 30 June 2026 || <ref>{{cite news |title=Josh Davidson joins Buxton on loan |url=https://www.liverpoolfc.com/news/josh-davidson-joins-buxton-loan |publisher=Liverpool F.C. |date=17 March 2026}}</ref>
+|}
+{{Notelist}}
+
+==Pre-season and friendlies==
+On 31 March 2025, Liverpool announced they would return to Asia for a pre-season tour, with one friendly confirmed against [[AC Milan]] in [[Hong Kong]].<ref>{{cite news |title=Liverpool to return to Asia for 2025 pre-season tour |url=https://www.liverpoolfc.com/news/liverpool-return-asia-2025-pre-season-tour |publisher=Liverpool F.C. |date=31 March 2025}}</ref> A week later, the second friendly of the tour was confirmed to be against [[Yokohama F. Marinos]] in [[Yokohama]], marking their first ever pre-season tour in [[Japan]].<ref>{{cite news |title=Liverpool to face Yokohama F. Marinos in second game of pre-season tour in Asia |url=https://www.liverpoolfc.com/news/liverpool-face-yokohama-f-marinos-second-game-pre-season-tour-asia |publisher=Liverpool F.C. |date=10 April 2025}}</ref> An extra friendly ahead of the Asian tour against [[Preston North End F.C.|Preston North End]] was confirmed on 5 June 2025.<ref>{{cite news |title=Liverpool to face Preston North End in first pre-season game |url=https://www.liverpoolfc.com/news/liverpool-face-preston-north-end-first-pre-season-game |publisher=Liverpool F.C. |date=5 June 2025}}</ref> Five days later, a double-header at [[Anfield]] against [[Athletic Bilbao]] was added to conclude the pre-season fixtures.<ref>{{cite news |title=Liverpool to face Athletic Club in pre-season double-header at Anfield |url=https://www.liverpoolfc.com/news/liverpool-face-athletic-club-pre-season-double-header-anfield |publisher=Liverpool F.C. |date=10 June 2025}}</ref> On 20 July 2025, a [[Behind closed doors (sport)|behind-closed-doors]] friendly was played against [[Stoke City F.C.|Stoke City]] at the [[Liverpool Training Centre]].<ref>{{cite news |title=Match report: Nunez hits hat-trick as Liverpool beat Stoke in behind-closed-doors friendly |url=https://www.liverpoolfc.com/news/match-report-nunez-hits-hat-trick-liverpool-beat-stoke-behind-closed-doors-friendly |publisher=Liverpool F.C. |date=20 July 2025}}</ref>
+
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{Football box collapsible
+| round      = [[Exhibition game#Club football|Friendly]]
+| date       = 13 July 2025
+| time       = 15:00 [[British Summer Time|BST]]
+| team1      = [[Preston North End F.C.|Preston North End]]
+| score      = 1–3
+| report     = https://www.liverpoolfc.com/news/match-report-preston-north-end-1-3-liverpool
+| team2      = Liverpool
+| goals1     = 
+*[[Liam Lindsay|Lindsay]] {{goal|83}}
+| goals2     = 
+*[[Conor Bradley|Bradley]] {{goal|33}}
+*[[Darwin Núñez|Núñez]] {{goal|53}}
+*[[Cody Gakpo|Gakpo]] {{goal|88}}
+| stadium    = [[Deepdale]]
+| location   = [[Preston, Lancashire|Preston]], England
+| attendance = 21,289
+| referee    = [[Darren England]] ([[The Football Association|England]])
+| result     = W
+}}
+{{Football box collapsible
+| round      = [[Exhibition game#Club football|BCD Friendly]]
+| date       = 20 July 2025
+| time       = 12:00 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 5–0
+| report     = https://www.liverpoolfc.com/news/match-report-nunez-hits-hat-trick-liverpool-beat-stoke-behind-closed-doors-friendly
+| team2      = [[Stoke City F.C.|Stoke City]]
+| goals1     = 
+*[[Darwin Núñez|Núñez]] {{goal|6||12||20}}
+*[[Rio Ngumoha|Ngumoha]] {{goal|23}}
+*[[Federico Chiesa|Chiesa]] {{goal|88}}
+| goals2     = 
+| stadium    = [[Liverpool Training Centre]]
+| location   = [[Kirkby]], England
+| attendance = 0 ([[Behind closed doors (sport)|behind closed doors]])
+| referee    = 
+| result     = W
+}}
+{{Football box collapsible
+| round      = [[Exhibition game#Club football|Standard Chartered Trophy]]
+| date       = 26 July 2025
+| time       = 19:30 [[Hong Kong Time|HKT]]
+| team1      = Liverpool
+| score      = 2–4
+| report     = https://www.liverpoolfc.com/news/match-report-liverpool-beaten-ac-milan-hong-kong-friendly
+| team2      = [[AC Milan|Milan]]
+| goals1     = 
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|26}}
+*[[Cody Gakpo|Gakpo]] {{goal|90+3}}
+| goals2     = 
+*[[Rafael Leão|Leão]] {{goal|10}}
+*[[Ruben Loftus-Cheek|Loftus-Cheek]] {{goal|52}}
+*[[Noah Okafor|Okafor]] {{goal|59||90+4}}
+| stadium    = [[Kai Tak Sports Park]]
+| location   = [[Kowloon]], Hong Kong
+| attendance = 49,704
+| referee    = Tam Ping Wun ([[Football Association of Hong Kong, China|Hong Kong]])
+| result     = L
+}}
+{{Football box collapsible
+| round      = [[J.League World Challenge]]
+| date       = 30 July 2025
+| time       = 19:30 [[Japan Standard Time|JST]]
+| team1      = [[Yokohama F. Marinos]]
+| score      = 1–3
+| report     = https://www.liverpoolfc.com/news/wirtz-scores-and-ekitike-debuts-liverpool-beat-yokohama-fm-round-pre-season-tour
+| team2      = Liverpool
+| goals1     = 
+*[[Asahi Uenaka|Uenaka]] {{goal|55}}
+| goals2     = 
+*[[Florian Wirtz|Wirtz]] {{goal|62}}
+*[[Trey Nyoni|Nyoni]] {{goal|68}}
+*[[Harvey Elliott|Elliott]] {{yel|83}}
+*[[Rio Ngumoha|Ngumoha]] {{goal|87}}
+| stadium    = [[Nissan Stadium (Yokohama)|Nissan Stadium]]
+| location   = [[Yokohama]], Japan
+| attendance = 67,032
+| referee    = Ryo Tanimoto ([[Japan Football Association|Japan]])
+| result     = W
+}}
+{{Football box collapsible
+| round      = [[Exhibition game#Club football|Friendly]]
+| date       = 4 August 2025
+| time       = 17:00 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 4–1
+| report     = https://www.liverpoolfc.com/news/liverpool-kick-athletic-club-double-header-anfield-4-1-win
+| team2      = [[Athletic Bilbao]]
+| goals1     = 
+*[[Rio Ngumoha|Ngumoha]] {{goal|2}}
+*[[Darwin Núñez|Núñez]] {{goal|5}}
+*[[Alex Padilla (footballer)|Padilla]] {{goal|42|o.g.}}
+*[[Harvey Elliott|Elliott]] {{goal|58}}
+| goals2     = 
+*[[Alejandro Rego|Rego]] {{yel|18}}
+*[[Gorka Guruzeta|Guruzeta]] {{goal|76}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]], England
+| attendance = 59,774
+| referee    = [[Robert Jones (referee)|Robert Jones]] ([[The Football Association|England]])
+| result     = W
+}}
+{{Football box collapsible
+| round      = [[Exhibition game#Club football|Friendly]]
+| date       = 4 August 2025
+| time       = 20:00 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 3–2
+| report     = https://www.liverpoolfc.com/news/mohamed-salah-and-cody-gakpo-help-reds-second-athletic-club-win
+| team2      = [[Athletic Bilbao]]
+| goals1     = 
+*[[Mohamed Salah|Salah]] {{goal|14}}, {{penmiss}} 81'
+*[[Cody Gakpo|Gakpo]] {{goal|55||70}}
+| goals2     = 
+*[[Oihan Sancet|Sancet]] {{goal|29}}
+*[[Iñigo Ruiz de Galarreta|Ruiz de Galarreta]] {{yel|53}}
+*[[Cody Gakpo|Gakpo]] {{goal|64|o.g.}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]], England
+| attendance = 59,774
+| referee    = [[Darren England]] ([[The Football Association|England]])
+| result     = W
+}}
+
+==Competitions==
+===Overall record===
+{{Fb overview2
+|c=5
+|c1=[[2025–26 Premier League|Premier League]] |fm1=15 August 2025 |lm1=24 May 2026 |sr1=Matchday 1 |fp1=5th |w1=17 |d1=9 |l1=12 |f1=63 |a1=53
+|c2=[[2025–26 FA Cup|FA Cup]] |fm2=12 January 2026 |lm2=4 April 2026 |sr2=Third round |fp2=Quarter-finals |w2=3 |d2=0 |l2=1 |f2=10 |a2=6
+|c3=[[2025–26 EFL Cup|EFL Cup]] |fm3=23 September 2025 |lm3=29 October 2025 |sr3=Third round |fp3=Fourth round |w3=1 |d3=0 |l3=1 |f3=2 |a3=4
+|c4=[[2025 FA Community Shield|FA Community Shield]] |dm4=10 August 2025 |sr4=Final |fp4={{won|place=2|Runners-up}} |w4=0 |d4=1 |l4=0 |f4=2 |a4=2
+|c5=[[2025–26 UEFA Champions League|UEFA Champions League]] |fm5=17 September 2025 |lm5=14 April 2026 |sr5=League phase |fp5=Quarter-finals |w5=7 |d5=0 |l5=5 |f5=24 |a5=13
+|s=[https://int.soccerway.com/teams/england/liverpool-fc/663 Soccerway]
+}}
+
+===Premier League===
+{{main|2025–26 Premier League}}
+
+====League table====
+{{:2025–26 Premier League|showteam=LIV}}
+
+====Results summary====
+{{Fb rs |hw=10 |hd=6 |hl=3 |hgf=34 |hga=20 |aw=7 |ad=3 |al=9 |agf=29 |aga=33 }}
+{{Fb rs footer |s=[https://int.soccerway.com/teams/england/liverpool-fc/663 Soccerway]}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+| header = Round
+| label1 = Ground
+| res1 = H/A/H/A/H/A/A/H/A/H/A/H/A/H/A/H/A/H/H/A/A/H/A/H/H/A/A/H/A/H/A/H/A/H/A/H/A/H
+| label2 = Result
+| res2 = W/W/W/W/W/L/L/L/L/W/L/L/W/D/D/W/W/W/D/D/D/D/L/W/L/W/W/W/L/D/L/W/W/W/L/D/L/D
+| label3 = Position
+| pos3 = 4/3/1/1/1/1/2/4/7/3/8/12/8/9/10/7/5/4/4/4/4/4/6/6/6/6/6/5/6/5/5/5/5/4/4/4/5/5
+| label4 = Points
+| pos4 = 3p/6p/9p/12p/15p/15p/15p/15p/15p/18p/18p/18p/21p/22p/23p/26p/29p/32p/33p/34p/35p/36p/36p/39p/39p/42p/45p/48p/48p/49p/49p/52p/55p/58p/58p/59p/59p/60p
+| color_W = green1 |text_W = Win
+| color_D = yellow1 |text_D = Draw
+| color_L = red1 |text_L = Loss
+| color_P = lightgrey |text_P = Postponed
+| text_H = Home |text_A = Away
+| color_1 = gold |color_2–5 = green1 |color_6–7 = blue1 |color_8 = yellow1 |color_18–20 = red1
+| source = [https://www.premierleague.com/en/tables/premier-league/2025-26/all-matchweeks Premier League]
+}}
+
+====Matches====
+The league fixtures were released on 18 June 2025.<ref>{{cite news |title=All 380 fixtures for 2025/26 Premier League season |url=https://www.premierleague.com/news/4324539 |publisher=Premier League |date=18 June 2025}}</ref><ref>{{cite news |title=Liverpool's 2025-26 Premier League fixture list revealed |url=https://www.liverpoolfc.com/news/liverpools-2025-26-premier-league-fixture-list-revealed |publisher=Liverpool F.C. |date=18 June 2025}}</ref>
+
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{Football box collapsible
+| round      = 1
+| date       = 15 August 2025
+| time       = 20:00 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 4–2
+| report     = https://www.premierleague.com/en/match/2561895
+| team2      = [[AFC Bournemouth|Bournemouth]]
+| goals1     = 
+*[[Hugo Ekitike|Ekitike]] {{goal|37}}
+*[[Milos Kerkez|Kerkez]] {{yel|43}}
+*[[Cody Gakpo|Gakpo]] {{goal|49}}
+*[[Federico Chiesa|Chiesa]] {{goal|88}}
+*[[Mohamed Salah|Salah]] {{goal|90+4}}
+| goals2     = 
+*[[David Brooks (footballer)|Brooks]] {{yel|14}}
+*[[Antoine Semenyo|Semenyo]] {{goal|64||76}}
+*[[Evanilson (footballer, born 1999)|Evanilson]] {{yel|81}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,315
+| referee    = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result     = W
+}}
+{{Football box collapsible
+| round      = 2
+| date       = 25 August 2025
+| time       = 20:00 [[British Summer Time|BST]]
+| team1      = [[Newcastle United F.C.|Newcastle United]]
+| score      = 2–3
+| report     = https://www.premierleague.com/en/match/2561913
+| team2      = Liverpool
+| goals1     = 
+*[[Dan Burn|Burn]] {{yel|44}}
+*[[Anthony Gordon (footballer)|Gordon]] {{sentoff|0|45+3}}
+*[[Bruno Guimarães]] {{yel|47}}, {{goal|57}}
+*[[William Osula|Osula]] {{goal|88}}
+| goals2     = 
+*[[Ryan Gravenberch|Gravenberch]] {{yel|8}}, {{goal|35}}
+*[[Ibrahima Konaté|Konaté]] {{yel|25}}
+*[[Hugo Ekitike|Ekitike]] {{goal|46}}
+*[[Conor Bradley|Bradley]] {{yel|87}}
+*[[Rio Ngumoha|Ngumoha]] {{goal|90+10}}
+| stadium    = [[St James' Park]]
+| location   = [[Newcastle upon Tyne]]
+| attendance = 52,230
+| referee    = [[Simon Hooper]]
+| result     = W
+| note       = Fixture was initially scheduled for 23 August, but was moved for live [[Sky Sports]] broadcast.<ref name="AugTV">{{cite news |title=Liverpool's August games against Newcastle and Arsenal rescheduled |url=https://www.liverpoolfc.com/news/liverpools-august-games-against-newcastle-and-arsenal-rescheduled |publisher=Liverpool F.C. |date=9 July 2025}}</ref>
+}}
+{{Football box collapsible
+| round      = 3
+| date       = 31 August 2025
+| time       = 16:30 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 1–0
+| report     = https://www.premierleague.com/en/match/2561919
+| team2      = [[Arsenal F.C.|Arsenal]]
+| goals1     = 
+*[[Ryan Gravenberch|Gravenberch]] {{yel|29}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|83}}
+*[[Wataru Endo|Endo]] {{yel|90+8}}
+| goals2     = 
+*[[Viktor Gyökeres|Gyökeres]] {{yel|66}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|81}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,455
+| referee    = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result     = W
+| note       = Fixture was initially scheduled for 30 August, but was moved for live [[Sky Sports]] broadcast.<ref name="AugTV" />
+}}
+{{Football box collapsible
+| round      = 4
+| date       = 14 September 2025
+| time       = 14:00 [[British Summer Time|BST]]
+| team1      = [[Burnley F.C.|Burnley]]
+| score      = 0–1
+| report     = https://www.premierleague.com/en/match/2561928
+| team2      = Liverpool
+| goals1     = 
+*[[Lesley Ugochukwu|Ugochukwu]] {{sentoff|2|16|84}}
+| goals2     = 
+*[[Milos Kerkez|Kerkez]] {{yel|22}}
+*[[Conor Bradley|Bradley]] {{yel|75}}
+*[[Mohamed Salah|Salah]] {{goal|90+5|pen.}}
+| stadium    = [[Turf Moor]]
+| location   = [[Burnley]]
+| attendance = 21,678
+| referee    = [[Michael Oliver (referee)|Michael Oliver]]
+| result     = W
+| note       = Fixture was initially scheduled for 13 September, but was moved for live [[Sky Sports]] broadcast.<ref name="SepTV">{{cite news |title=September fixtures: Changes confirmed for Liverpool's games against Burnley and Everton |url=https://www.liverpoolfc.com/news/september-fixtures-changes-confirmed-liverpools-games-against-burnley-and-everton |publisher=Liverpool F.C. |date=23 July 2025}}</ref>
+}}
+{{Football box collapsible
+| round      = [[Merseyside derby|5]]
+| date       = 20 September 2025
+| time       = 12:30 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 2–1
+| report     = https://www.premierleague.com/en/match/2561940
+| team2      = [[Everton F.C.|Everton]]
+| goals1     = 
+*[[Ryan Gravenberch|Gravenberch]] {{goal|10}}
+*[[Hugo Ekitike|Ekitike]] {{goal|29}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{yel|69}}
+*[[Florian Wirtz|Wirtz]] {{yel|82}}
+| goals2     = 
+*[[Iliman Ndiaye|Ndiaye]] {{yel|28}}
+*[[Idrissa Gueye|Gueye]] {{goal|58}}
+*[[Kiernan Dewsbury-Hall|Dewsbury-Hall]] {{yel|78}}
+*[[Jack Grealish|Grealish]] {{yel|90+4}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,342
+| referee    = [[Darren England]]
+| result     = W
+| note       = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[TNT Sports (United Kingdom)|TNT Sports]] broadcast.<ref name="SepTV" />
+}}
+{{Football box collapsible
+| round      = 6
+| date       = 27 September 2025
+| time       = 15:00 [[British Summer Time|BST]]
+| team1      = [[Crystal Palace F.C.|Crystal Palace]]
+| score      = 2–1
+| report     = https://www.premierleague.com/en/match/2561948
+| team2      = Liverpool
+| goals1     = 
+*[[Ismaïla Sarr|Sarr]] {{goal|9}}
+*[[Eddie Nketiah|Nketiah]] {{yel|78}}, {{goal|90+7}}
+| goals2     = 
+*[[Ibrahima Konaté|Konaté]] {{yel|26}}
+*[[Virgil van Dijk|Van Dijk]] {{yel|61}}
+*[[Federico Chiesa|Chiesa]] {{yel|77}}, {{goal|87}}
+| stadium    = [[Selhurst Park]]
+| location   = [[Selhurst]]
+| attendance = 25,118
+| referee    = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result     = L
+}}
+{{Football box collapsible
+| round      = [[Chelsea F.C.–Liverpool F.C. rivalry|7]]
+| date       = 4 October 2025
+| time       = 17:30 [[British Summer Time|BST]]
+| team1      = [[Chelsea F.C.|Chelsea]]
+| score      = 2–1
+| report     = https://www.premierleague.com/en/match/2561959
+| team2      = Liverpool
+| goals1     = 
+*[[Moisés Caicedo|Caicedo]] {{goal|14}}
+*[[Estêvão Willian|Estêvão]] {{goal|90+5}}
+| goals2     = 
+*[[Conor Bradley|Bradley]] {{yel|34}}
+*[[Cody Gakpo|Gakpo]] {{goal|63}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{yel|79}}
+| stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| location   = [[Fulham]]
+| attendance = 39,767
+| referee    = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result     = L
+| note       = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[Sky Sports]] broadcast.<ref name="OctTV">{{cite news |title=Fixtures update: Three Premier League changes for Liverpool in October |url=https://www.liverpoolfc.com/news/fixtures-update-three-premier-league-changes-liverpool-october |publisher=Liverpool F.C. |date=20 August 2025}}</ref>
+}}
+{{Football box collapsible
+| round      = [[Liverpool F.C.–Manchester United F.C. rivalry|8]]
+| date       = 19 October 2025
+| time       = 16:30 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 1–2
+| report     = https://www.premierleague.com/en/match/2561969
+| team2      = [[Manchester United F.C.|Manchester United]]
+| goals1     = 
+*[[Cody Gakpo|Gakpo]] {{goal|78}}
+| goals2     = 
+*[[Bryan Mbeumo|Mbeumo]] {{goal|2}}
+*[[Amad Diallo|Amad]] {{yel|52}}
+*[[Casemiro]] {{yel|57}}
+*[[Harry Maguire|Maguire]] {{goal|84}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,337
+| referee    = [[Michael Oliver (referee)|Michael Oliver]]
+| result     = L
+| note       = Fixture was initially scheduled for 18 October, but was moved for live [[Sky Sports]] broadcast.<ref name="OctTV" />
+}}
+{{Football box collapsible
+| round      = 9
+| date       = 25 October 2025
+| time       = 20:00 [[British Summer Time|BST]]
+| team1      = [[Brentford F.C.|Brentford]]
+| score      = 3–2
+| report     = https://www.premierleague.com/en/match/2561978
+| team2      = Liverpool
+| goals1     = 
+*[[Dango Ouattara|Ouattara]] {{goal|5}}
+*[[Kevin Schade|Schade]] {{goal|45}}, {{yel|76}}
+*[[Igor Thiago|Thiago]] {{goal|60|pen.}}, {{yel|90+10}}
+*[[Keane Lewis-Potter|Lewis-Potter]] {{yel|90+4}}
+| goals2     = 
+*[[Milos Kerkez|Kerkez]] {{yel|33}}, {{goal|45+5}}
+*[[Mohamed Salah|Salah]] {{yel|57}}, {{goal|89}}
+| stadium    = [[Brentford Community Stadium]]
+| location   = [[Brentford]]
+| attendance = 17,214
+| referee    = [[Simon Hooper]] / [[Tim Robinson (referee)|Tim Robinson]]{{efn|Hooper was replaced by the fourth official Robinson at half-time, after he suffered from a hamstring injury.<ref>{{cite news |title=Liverpool game delayed as referee replaced at halftime after controversial decision |url=https://www.liverpool.com/liverpool-fc-news/features/liverpool-brentford-referee-change-injured-32750802 |publisher=Liverpool.com |date=25 October 2025}}</ref>}}
+| result     = L
+| note       = Fixture was initially scheduled for a 15:00 kick-off, but was moved to 12:30 for live [[TNT Sports (United Kingdom)|TNT Sports]] broadcast,<ref name="OctTV" /> and later moved due to Liverpool's participation in the [[2025–26 UEFA Champions League league phase|UEFA Champions League league phase]] on the preceding Wednesday.<ref>{{cite news |title=Brentford v Liverpool: New kick-off time announced |url=https://www.liverpoolfc.com/news/brentford-v-liverpool-new-kick-time-announced |publisher=Liverpool F.C. |date=30 August 2025}}</ref>
+}}
+{{Football box collapsible
+| round      = 10
+| date       = 1 November 2025
+| time       = 20:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 2–0
+| report     = https://www.premierleague.com/en/match/2561989
+| team2      = [[Aston Villa F.C.|Aston Villa]]
+| goals1     = 
+*[[Mohamed Salah|Salah]] {{goal|45+1}}
+*[[Virgil van Dijk|Van Dijk]] {{yel|54}}
+*[[Ryan Gravenberch|Gravenberch]] {{goal|58}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{yel|87}}
+| goals2     = 
+*[[Matty Cash|Cash]] {{yel|57}}
+*[[Amadou Onana|Onana]] {{yel|73}}
+*[[Morgan Rogers|Rogers]] {{yel|80}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,407
+| referee    = [[Stuart Attwell]]
+| result     = W
+| note       = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[TNT Sports (United Kingdom)|TNT Sports]] broadcast.<ref name="NovTV">{{cite news |title=Three Premier League fixture changes confirmed for Liverpool in November |url=https://www.liverpoolfc.com/news/three-premier-league-fixture-changes-confirmed-liverpool-november |publisher=Liverpool F.C. |date=19 September 2025}}</ref>
+}}
+{{Football box collapsible
+| round      = [[Liverpool F.C.–Manchester City F.C. rivalry|11]]
+| date       = 9 November 2025
+| time       = 16:30 [[Greenwich Mean Time|GMT]]
+| team1      = [[Manchester City F.C.|Manchester City]]
+| score      = 3–0
+| report     = https://www.premierleague.com/en/match/2562000
+| team2      = Liverpool
+| goals1     = 
+*[[Erling Haaland|Haaland]] {{penmiss}} 13', {{goal|29}}
+*[[Nico González (footballer, born 2002)|González]] {{yel|27}}, {{goal|45+3}}
+*[[Bernardo Silva|Silva]] {{yel|41}}
+*[[Jérémy Doku|Doku]] {{goal|63}}
+| goals2     = 
+*[[Alexis Mac Allister|Mac Allister]] {{yel|36}}
+*[[Conor Bradley|Bradley]] {{yel|52}}
+*[[Curtis Jones (footballer, born 2001)|Jones]] {{yel|89}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{yel|90+1}}
+| stadium    = [[City of Manchester Stadium]]
+| location   = [[Manchester]]
+| attendance = 52,511
+| referee    = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result     = L
+| note       = Fixture was initially scheduled for 8 November, but was moved for live [[Sky Sports]] broadcast.<ref name="NovTV" />
+}}
+{{Football box collapsible
+| round      = 12
+| date       = 22 November 2025
+| time       = 15:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 0–3
+| report     = https://www.premierleague.com/en/match/2562011
+| team2      = [[Nottingham Forest F.C.|Nottingham Forest]]
+| goals1     = 
+*[[Ryan Gravenberch|Gravenberch]] {{yel|66}}
+*[[Federico Chiesa|Chiesa]] {{yel|87}}
+| goals2     = 
+*[[Murillo (footballer)|Murillo]] {{goal|33}}
+*[[Nicolò Savona|Savona]] {{goal|46}}
+*[[Morgan Gibbs-White|Gibbs-White]] {{goal|78}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,419
+| referee    = [[Andy Madley]]
+| result     = L
+}}
+{{Football box collapsible
+| round      = 13
+| date       = 30 November 2025
+| time       = 14:05 [[Greenwich Mean Time|GMT]]
+| team1      = [[West Ham United F.C.|West Ham United]]
+| score      = 0–2
+| report     = https://www.premierleague.com/en/match/2562024
+| team2      = Liverpool
+| goals1     = 
+*[[Soungoutou Magassa|Magassa]] {{yel|66}}
+*[[Lucas Paquetá|Paquetá]] {{sentoff|2|83|84}}
+| goals2     = 
+*[[Alexander Isak|Isak]] {{goal|60}}
+*[[Cody Gakpo|Gakpo]] {{goal|90+2}}
+| stadium    = [[London Stadium]]
+| location   = [[Stratford, London|Stratford]]
+| attendance = 62,469
+| referee    = [[Darren England]]
+| result     = W
+| note       = Fixture was initially scheduled for 29 November, but was moved for live [[Sky Sports]] broadcast.<ref name="NovTV" />
+}}
+{{Football box collapsible
+| round      = 14
+| date       = 3 December 2025
+| time       = 20:15 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 1–1
+| report     = https://www.premierleague.com/en/match/2562031
+| team2      = [[Sunderland A.F.C.|Sunderland]]
+| goals1     = 
+*[[Joe Gomez|Gomez]] {{yel|55}}
+*[[Nordi Mukiele|Mukiele]] {{goal|81|o.g.}}
+| goals2     = 
+*[[Enzo Le Fée|Le Fée]] {{yel|54}}
+*[[Chemsdine Talbi|Talbi]] {{goal|67}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,414
+| referee    = [[Stuart Attwell]]
+| result     = D
+| note       = Fixture was initially scheduled for a 20:00 kick-off, but was moved for live [[Sky Sports]] broadcast.<ref name="DecTV">{{cite news |title=Three Premier League fixture changes for Liverpool in December |url=https://www.liverpoolfc.com/news/three-premier-league-fixture-changes-liverpool-december |publisher=Liverpool F.C. |date=15 October 2025}}</ref>
+}}
+{{Football box collapsible
+| round      = 15
+| date       = 6 December 2025
+| time       = 17:30 [[Greenwich Mean Time|GMT]]
+| team1      = [[Leeds United F.C.|Leeds United]]
+| score      = 3–3
+| report     = https://www.premierleague.com/en/match/2562040
+| team2      = Liverpool
+| goals1     = 
+*[[Jayden Bogle|Bogle]] {{yel|20}}
+*[[Gabriel Gudmundsson|Gudmundsson]] {{yel|26}}
+*[[Dominic Calvert-Lewin|Calvert-Lewin]] {{goal|73|pen.}}
+*[[Anton Stach|Stach]] {{goal|75}}
+*[[Pascal Struijk|Struijk]] {{yel|89}}
+*[[Ao Tanaka|Tanaka]] {{goal|90+6}}
+| goals2     = 
+*[[Conor Bradley|Bradley]] {{yel|45+3}}
+*[[Hugo Ekitike|Ekitike]] {{goal|48||50}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|80}}
+*[[Virgil van Dijk|Van Dijk]] {{yel|80}}
+*[[Joe Gomez|Gomez]] {{yel|90+1}}
+| stadium    = [[Elland Road]]
+| location   = [[Leeds]]
+| attendance = 36,842
+| referee    = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result     = D
+| note       = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[Sky Sports]] broadcast.<ref name="DecTV" />
+}}
+{{Football box collapsible
+| round      = 16
+| date       = 13 December 2025
+| time       = 15:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 2–0
+| report     = https://www.premierleague.com/en/match/2562050
+| team2      = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| goals1     = 
+*[[Hugo Ekitike|Ekitike]] {{goal|1||60}}
+*[[Ibrahima Konaté|Konaté]] {{yel|64}}
+| goals2     = 
+*[[Diego Gómez (Paraguayan footballer)|Gómez]] {{yel|45+3}}
+*[[Lewis Dunk|Dunk]] {{yel|59}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,429
+| referee    = [[Craig Pawson]]
+| result     = W
+}}
+{{Football box collapsible
+| round      = 17
+| date       = 20 December 2025
+| time       = 17:30 [[Greenwich Mean Time|GMT]]
+| team1      = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| score      = 1–2
+| report     = https://www.premierleague.com/en/match/2562063
+| team2      = Liverpool
+| goals1     = 
+*[[Xavi Simons|Simons]] {{sentoff|0|33}}
+*[[Cristian Romero|Romero]] {{sentoff|2|66|90+3}}
+*[[Richarlison]] {{goal|83}}, {{yel|90+11}}
+*[[Micky van de Ven|Van de Ven]] {{yel|85}}
+*[[Rodrigo Bentancur|Bentancur]] {{yel|90+5}}
+| goals2     = 
+*[[Alexander Isak|Isak]] {{goal|56}}
+*[[Hugo Ekitike|Ekitike]] {{goal|66}}
+*[[Ibrahima Konaté|Konaté]] {{yel|76}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{yel|83}}
+*[[Alexis Mac Allister|Mac Allister]] {{yel|90+7}}
+| stadium    = [[Tottenham Hotspur Stadium]]
+| location   = [[Tottenham]]
+| attendance = 61,138
+| referee    = [[John Brooks (referee)|John Brooks]]
+| result     = W
+| note       = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[Sky Sports]] broadcast.<ref name="DecTV" />
+}}
+{{Football box collapsible
+| round      = 18
+| date       = 27 December 2025
+| time       = 15:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 2–1
+| report     = https://www.premierleague.com/en/match/2562070
+| team2      = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| goals1     = 
+*[[Ryan Gravenberch|Gravenberch]] {{goal|41}}
+*[[Florian Wirtz|Wirtz]] {{goal|42}}
+| goals2     = 
+*[[Santiago Bueno|S. Bueno]] {{goal|51}}
+*[[André (footballer, born 2001)|André]] {{yel|56}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,466
+| referee    = [[Simon Hooper]]
+| result     = W
+}}
+{{Football box collapsible
+| round      = 19
+| date       = 1 January 2026
+| time       = 17:30 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 0–0
+| report     = https://www.premierleague.com/en/match/2562080
+| team2      = [[Leeds United F.C.|Leeds United]]
+| goals1     = 
+| goals2     = 
+*[[Ethan Ampadu|Ampadu]] {{yel|61}}
+*[[Jaka Bijol|Bijol]] {{yel|62}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,343
+| referee    = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result     = D
+| note       = Fixture was initially scheduled for 30 December 2025, but was moved for live [[Sky Sports]] broadcast.<ref name="FestiveTV">{{cite news |title=Three Premier League fixture changes for Liverpool in December and New Year |url=https://www.liverpoolfc.com/news/three-premier-league-fixture-changes-liverpool-december-and-new-year |publisher=Liverpool F.C. |date=31 October 2025}}</ref>
+}}
+{{Football box collapsible
+| round      = 20
+| date       = 4 January 2026
+| time       = 15:15 [[Greenwich Mean Time|GMT]]
+| team1      = [[Fulham F.C.|Fulham]]
+| score      = 2–2
+| report     = https://www.premierleague.com/en/match/2562089
+| team2      = Liverpool
+| goals1     = 
+*[[Harry Wilson (footballer, born 1997)|Wilson]] {{goal|17}}, {{yel|71}}
+*[[Harrison Reed (footballer)|Reed]] {{goal|90+7}}
+| goals2     = 
+*[[Florian Wirtz|Wirtz]] {{goal|57}}
+*[[Cody Gakpo|Gakpo]] {{goal|90+4}}, {{yel|90+5}}
+| stadium    = [[Craven Cottage]]
+| location   = [[Fulham]]
+| attendance = 27,547
+| referee    = [[Craig Pawson]]
+| result     = D
+| note       = Fixture was initially scheduled for 3 January, but was moved to 4 January at 15:00 for live [[Sky Sports]] broadcast,<ref name="FestiveTV" /> and later delayed by 15 minutes due to a medical emergency at the stadium.<ref>{{cite news |title=Why Fulham vs Liverpool kick-off is delayed as Premier League clash put back |url=https://www.liverpool.com/liverpool-fc-news/features/breaking-liverpool-fulham-delayed-kickoff-33163956 |publisher=Liverpool.com |date=4 January 2026}}</ref>
+}}
+{{Football box collapsible
+| round      = 21
+| date       = 8 January 2026
+| time       = 20:00 [[Greenwich Mean Time|GMT]]
+| team1      = [[Arsenal F.C.|Arsenal]]
+| score      = 0–0
+| report     = https://www.premierleague.com/en/match/2562096
+| team2      = Liverpool
+| goals1     = 
+*[[Leandro Trossard|Trossard]] {{yel|12}}
+*[[Gabriel Martinelli|Martinelli]] {{yel|90+3}}
+| goals2     = 
+*[[Alexis Mac Allister|Mac Allister]] {{yel|90}}
+*[[Ibrahima Konaté|Konaté]] {{yel|90+3}}
+| stadium    = [[Emirates Stadium]]
+| location   = [[Holloway, London|Holloway]]
+| attendance = 60,258
+| referee    = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result     = D
+| note       = Fixture was initially scheduled for 7 January, but was moved for live [[Sky Sports]] broadcast.<ref name="FestiveTV" />
+}}
+{{Football box collapsible
+| round      = 22
+| date       = 17 January 2026
+| time       = 15:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 1–1
+| report     = https://www.premierleague.com/en/match/2562109
+| team2      = [[Burnley F.C.|Burnley]]
+| goals1     = 
+*[[Dominik Szoboszlai|Szoboszlai]] {{penmiss}} 32'
+*[[Milos Kerkez|Kerkez]] {{yel|40}}
+*[[Florian Wirtz|Wirtz]] {{goal|42}}
+| goals2     = 
+*[[Marcus Edwards|Edwards]] {{goal|65}}
+*[[Ashley Barnes|Barnes]] {{yel|90+1}}
+*[[Bashir Humphreys|Humphreys]] {{yel|90+2}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,431
+| referee    = [[Andy Madley]]
+| result     = D
+}}
+{{Football box collapsible
+| round      = 23
+| date       = 24 January 2026
+| time       = 17:30 [[Greenwich Mean Time|GMT]]
+| team1      = [[AFC Bournemouth|Bournemouth]]
+| score      = 3–2
+| report     = https://www.premierleague.com/en/match/2562115
+| team2      = Liverpool
+| goals1     = 
+*[[Evanilson (footballer, born 1999)|Evanilson]] {{goal|26}}
+*[[Álex Jiménez (footballer, born 2005)|Jiménez]] {{goal|33}}
+*[[Eli Junior Kroupi|Kroupi]] {{yel|45+3}}
+*[[Amine Adli|Adli]] {{goal|90+5}}
+| goals2     = 
+*[[Virgil van Dijk|Van Dijk]] {{goal|45}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|80}}
+*[[Ryan Gravenberch|Gravenberch]] {{yel|90+3}}
+| stadium    = [[Dean Court]]
+| location   = [[Bournemouth]]
+| attendance = 11,260
+| referee    = [[Michael Salisbury]]
+| result     = L
+| note       = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[Sky Sports]] broadcast.<ref name="JanTV">{{cite news |title=Two further Premier League fixture changes for Liverpool in January |url=https://www.liverpoolfc.com/news/two-further-premier-league-fixture-changes-liverpool-january |publisher=Liverpool F.C. |date=20 November 2025}}</ref>
+}}
+{{Football box collapsible
+| round      = 24
+| date       = 31 January 2026
+| time       = 20:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 4–1
+| report     = https://www.premierleague.com/en/match/2562129
+| team2      = [[Newcastle United F.C.|Newcastle United]]
+| goals1     = 
+*[[Hugo Ekitike|Ekitike]] {{goal|41||43}}
+*[[Alexis Mac Allister|Mac Allister]] {{yel|59}}
+*[[Florian Wirtz|Wirtz]] {{goal|67}}
+*[[Ibrahima Konaté|Konaté]] {{goal|90+3}}
+| goals2     = 
+*[[Anthony Gordon (footballer)|Gordon]] {{yel|11}}, {{goal|36}}
+*[[Jacob Ramsey|Ramsey]] {{yel|45+3}}
+*[[Dan Burn|Burn]] {{yel|86}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,416
+| referee    = [[Simon Hooper]]
+| result     = W
+| note       = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[TNT Sports (United Kingdom)|TNT Sports]] broadcast.<ref name="JanTV" />
+}}
+{{Football box collapsible
+| round      = [[Liverpool F.C.–Manchester City F.C. rivalry|25]]
+| date       = 8 February 2026
+| time       = 16:30 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 1–2
+| report     = https://www.premierleague.com/en/match/2562141
+| team2      = [[Manchester City F.C.|Manchester City]]
+| goals1     = 
+*[[Virgil van Dijk|Van Dijk]] {{yel|47}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|74}}, {{sentoff|0|90+13}}
+*[[Alisson Becker|Alisson]] {{yel|90+2}}
+| goals2     = 
+*[[Omar Marmoush|Marmoush]] {{yel|42}}
+*[[Marc Guéhi|Guéhi]] {{yel|69}}
+*[[Bernardo Silva|Silva]] {{goal|84}}, {{yel|90+7}}
+*[[Erling Haaland|Haaland]] {{goal|90+3|pen.}}, {{yel|90+4}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,336
+| referee    = [[Craig Pawson]]
+| result     = L
+| note       = Fixture was initially scheduled for 7 February, but was moved for live [[Sky Sports]] broadcast.<ref name="FebTV">{{cite news |title=Two Premier League fixture changes for Liverpool in February |url=https://www.liverpoolfc.com/news/two-premier-league-fixture-changes-liverpool-february-1 |publisher=Liverpool F.C. |date=17 December 2025}}</ref>
+}}
+{{Football box collapsible
+| round      = 26
+| date       = 11 February 2026
+| time       = 20:15 [[Greenwich Mean Time|GMT]]
+| team1      = [[Sunderland A.F.C.|Sunderland]]
+| score      = 0–1
+| report     = https://www.premierleague.com/en/match/2562152
+| team2      = Liverpool
+| goals1     = 
+*[[Reinildo Mandava|Mandava]] {{yel|24}}
+| goals2     = 
+*[[Virgil van Dijk|Van Dijk]] {{goal|61}}
+| stadium    = [[Stadium of Light]]
+| location   = [[Sunderland]]
+| attendance = 47,159
+| referee    = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result     = W
+| note       = Fixture was initially scheduled for a 20:00 kick-off, but was moved for live [[TNT Sports (United Kingdom)|TNT Sports]] broadcast.<ref name="FebTV" />
+}}
+{{Football box collapsible
+| round      = 27
+| date       = 22 February 2026
+| time       = 14:00 [[Greenwich Mean Time|GMT]]
+| team1      = [[Nottingham Forest F.C.|Nottingham Forest]]
+| score      = 0–1
+| report     = https://www.premierleague.com/en/match/2562161
+| team2      = Liverpool
+| goals1     = 
+*[[Morgan Gibbs-White|Gibbs-White]] {{yel|20}}
+*[[Ola Aina|Aina]] {{yel|61}}
+| goals2     = 
+*[[Alexis Mac Allister|Mac Allister]] {{goal|90+7}}
+| stadium    = [[City Ground]]
+| location   = [[West Bridgford]]
+| attendance = 30,737
+| referee    = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result     = W
+| note       = Fixture was initially scheduled for 21 February, but was moved due to Nottingham Forest's participation in the [[2025–26 UEFA Europa League knockout phase#Knockout phase play-offs|UEFA Europa League knockout phase play-offs]] on the preceding Thursday.<ref>{{cite news |title=New date announced for Nottingham Forest v Liverpool |url=https://www.liverpoolfc.com/news/new-date-announced-nottingham-forest-v-liverpool |publisher=Liverpool F.C. |date=2 February 2026}}</ref>
+}}
+{{Football box collapsible
+| round      = 28
+| date       = 28 February 2026
+| time       = 15:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 5–2
+| report     = https://www.premierleague.com/en/match/2562171
+| team2      = [[West Ham United F.C.|West Ham United]]
+| goals1     = 
+*[[Hugo Ekitike|Ekitike]] {{goal|5}}
+*[[Virgil van Dijk|Van Dijk]] {{goal|24}}
+*[[Alexis Mac Allister|Mac Allister]] {{goal|43}}
+*[[Cody Gakpo|Gakpo]] {{yel|55}}, {{goal|70}}
+*[[Axel Disasi|Disasi]] {{goal|82|o.g.}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{yel|85}}
+| goals2     = 
+*[[Soungoutou Magassa|Magassa]] {{yel|45}}
+*[[Tomáš Souček|Souček]] {{goal|49}}
+*[[Taty Castellanos|Castellanos]] {{goal|75}}
+*[[Crysencio Summerville|Summerville]] {{yel|79}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,425
+| referee    = [[Tim Robinson (referee)|Tim Robinson]]
+| result     = W
+}}
+{{Football box collapsible
+| round      = 29
+| date       = 3 March 2026
+| time       = 20:15 [[Greenwich Mean Time|GMT]]
+| team1      = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| score      = 2–1
+| report     = https://www.premierleague.com/en/match/2562184
+| team2      = Liverpool
+| goals1     = 
+*[[João Gomes (footballer, born 2001)|João Gomes]] {{yel|69}}
+*[[Rodrigo Gomes|R. Gomes]] {{goal|78}}
+*[[Santiago Bueno|S. Bueno]] {{yel|90}}
+*[[André (footballer, born 2001)|André]] {{goal|90+4}}
+| goals2     = 
+*[[Ryan Gravenberch|Gravenberch]] {{yel|22}}
+*[[Mohamed Salah|Salah]] {{goal|83}}
+| stadium    = [[Molineux Stadium]]
+| location   = [[Wolverhampton]]
+| attendance = 30,247
+| referee    = [[Thomas Bramall]]
+| result     = L
+| note       = Fixture was initially scheduled for 4 March, but was moved for live [[TNT Sports (United Kingdom)|TNT Sports]] broadcast.<ref name="MarTV">{{cite news |title=Three Premier League fixture changes for Liverpool in March |url=https://www.liverpoolfc.com/news/three-premier-league-fixture-changes-liverpool-march |publisher=Liverpool F.C. |date=21 January 2026}}</ref>
+}}
+{{Football box collapsible
+| round      = 30
+| date       = 15 March 2026
+| time       = 16:30 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 1–1
+| report     = https://www.premierleague.com/en/match/2562190
+| team2      = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| goals1     = 
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|18}}
+| goals2     = 
+*[[Richarlison]] {{goal|90}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,386
+| referee    = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result     = D
+| note       = Fixture was initially scheduled for 14 March, but was moved for live [[Sky Sports]] broadcast.<ref name="MarTV" />
+}}
+{{Football box collapsible
+| round      = 31
+| date       = 21 March 2026
+| time       = 12:45 [[Greenwich Mean Time|GMT]]
+| team1      = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| score      = 2–1
+| report     = https://www.premierleague.com/en/match/2562197
+| team2      = Liverpool
+| goals1     = 
+*[[Danny Welbeck|Welbeck]] {{goal|14||56}}, {{yel|48}}
+*[[Yankuba Minteh|Minteh]] {{yel|25}}
+*[[Diego Gómez (Paraguayan footballer)|Gómez]] {{yel|45+5}}
+*[[Lewis Dunk|Dunk]] {{yel|85}}
+*[[Mats Wieffer|Wieffer]] {{yel|90+4}}
+| goals2     = 
+*[[Milos Kerkez|Kerkez]] {{goal|30}}
+*[[Ibrahima Konaté|Konaté]] {{yel|45}}
+*[[Jeremie Frimpong|Frimpong]] {{yel|61}}
+*[[Alexis Mac Allister|Mac Allister]] {{yel|68}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{yel|79}}
+*[[Federico Chiesa|Chiesa]] {{yel|90}}
+| stadium    = [[Falmer Stadium]]
+| location   = [[Brighton and Hove]]
+| attendance = 31,680
+| referee    = [[Darren England]]
+| result     = L
+| note       = Fixture was initially scheduled for a 15:00 kick-off, but was moved to 12:30 for live [[TNT Sports (United Kingdom)|TNT Sports]] broadcast,<ref name="MarTV" /> and later delayed by 15 minutes due to a road traffic accident nearby the stadium.<ref>{{cite news |title=Brighton vs Liverpool kick-off delayed as statement released |url=https://www.liverpool.com/liverpool-fc-news/features/breaking-brighton-vs-liverpool-kick-33635854 |publisher=Liverpool.com |date=21 March 2026}}</ref>
+}}
+{{Football box collapsible
+| round      = 32
+| date       = 11 April 2026
+| time       = 17:30 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 2–0
+| report     = https://www.premierleague.com/en/match/2562210
+| team2      = [[Fulham F.C.|Fulham]]
+| goals1     = 
+*[[Rio Ngumoha|Ngumoha]] {{goal|36}}
+*[[Mohamed Salah|Salah]] {{goal|40}}
+| goals2     = 
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,401
+| referee    = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result     = W
+| note       = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[Sky Sports]] broadcast.<ref name="AprTV">{{cite news |title=Fixtures update: Two Premier League changes for Liverpool in April |url=https://www.liverpoolfc.com/news/fixtures-update-two-premier-league-changes-liverpool-april |publisher=Liverpool F.C. |date=4 March 2026}}</ref>
+}}
+{{Football box collapsible
+| round      = [[Merseyside derby|33]]
+| date       = 19 April 2026
+| time       = 14:00 [[British Summer Time|BST]]
+| team1      = [[Everton F.C.|Everton]]
+| score      = 1–2
+| report     = https://www.premierleague.com/en/match/2562219
+| team2      = Liverpool
+| goals1     = 
+*[[Jordan Pickford|Pickford]] {{yel|22}}
+*[[Beto (footballer, born 1998)|Beto]] {{goal|54}}
+*[[James Garner (footballer, born 2001)|Garner]] {{yel|90+12}}
+| goals2     = 
+*[[Mohamed Salah|Salah]] {{goal|29}}
+*[[Virgil van Dijk|Van Dijk]] {{goal|90+10}}
+| stadium    = [[Hill Dickinson Stadium]]
+| location   = [[Liverpool]]
+| attendance = 52,585
+| referee    = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result     = W
+| note       = Fixture was initially scheduled for 18 April, but was moved for live [[Sky Sports]] broadcast.<ref name="AprTV" />
+}}
+{{Football box collapsible
+| round      = 34
+| date       = 25 April 2026
+| time       = 15:00 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 3–1
+| report     = https://www.premierleague.com/en/match/2562230
+| team2      = [[Crystal Palace F.C.|Crystal Palace]]
+| goals1     = 
+*[[Alexander Isak|Isak]] {{goal|35}}
+*[[Andy Robertson|Robertson]] {{goal|40}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{yel|90}}
+*[[Florian Wirtz|Wirtz]] {{goal|90+6}}
+| goals2     = 
+*[[Daniel Muñoz (footballer)|Muñoz]] {{yel|19}}, {{goal|71}}
+*[[Dean Henderson|Henderson]] {{yel|32}}
+*[[Borna Sosa|Sosa]] {{yel|90+3}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,314
+| referee    = [[Andy Madley]]
+| result     = W
+}}
+{{Football box collapsible
+| round      = [[Liverpool F.C.–Manchester United F.C. rivalry|35]]
+| date       = 3 May 2026
+| time       = 15:30 [[British Summer Time|BST]]
+| team1      = [[Manchester United F.C.|Manchester United]]
+| score      = 3–2
+| report     = https://www.premierleague.com/en/match/2562242
+| team2      = Liverpool
+| goals1     = 
+*[[Matheus Cunha|Cunha]] {{goal|6}}
+*[[Benjamin Šeško|Šeško]] {{goal|14}}
+*[[Luke Shaw|Shaw]] {{yel|49}}
+*[[Kobbie Mainoo|Mainoo]] {{goal|77}}
+*[[Bruno Fernandes|Fernandes]] {{yel|81}}
+| goals2     = 
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|47}}
+*[[Cody Gakpo|Gakpo]] {{goal|56}}, {{yel|85}}
+*[[Curtis Jones (footballer, born 2001)|Jones]] {{yel|75}}
+| stadium    = [[Old Trafford]]
+| location   = [[Trafford]]
+| attendance = 74,027
+| referee    = [[Darren England]]
+| result     = L
+| note       = Fixture was initially scheduled for 2 May, but was moved for live [[Sky Sports]] broadcast.<ref>{{cite news |title=Premier League fixture update: Manchester United v Liverpool rescheduled |url=https://www.liverpoolfc.com/news/premier-league-fixture-update-manchester-united-v-liverpool-rescheduled |publisher=Liverpool F.C. |date=27 March 2026}}</ref>
+}}
+{{Football box collapsible
+| round      = [[Chelsea F.C.–Liverpool F.C. rivalry|36]]
+| date       = 9 May 2026
+| time       = 12:30 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 1–1
+| report     = https://www.premierleague.com/en/match/2562249
+| team2      = [[Chelsea F.C.|Chelsea]]
+| goals1     = 
+*[[Ryan Gravenberch|Gravenberch]] {{goal|6}}
+*[[Joe Gomez|Gomez]] {{yel|88}}
+*[[Alexis Mac Allister|Mac Allister]] {{yel|90+4}}
+| goals2     = 
+*[[Enzo Fernández|Fernández]] {{goal|35}}, {{yel|73}}
+*[[Jorrel Hato|Hato]] {{yel|67}}
+*[[Marc Cucurella|Cucurella]] {{yel|83}}
+*[[Moisés Caicedo|Caicedo]] {{yel|89}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,429
+| referee    = [[Craig Pawson]]
+| result     = D
+| note       = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[TNT Sports (United Kingdom)|TNT Sports]] broadcast.<ref>{{cite news |title=Liverpool v Chelsea: New fixture details announced |url=https://www.liverpoolfc.com/news/liverpool-v-chelsea-new-fixture-details-announced |publisher=Liverpool F.C. |date=1 April 2026}}</ref>
+}}
+{{Football box collapsible
+| round      = 37
+| date       = 15 May 2026
+| time       = 20:00 [[British Summer Time|BST]]
+| team1      = [[Aston Villa F.C.|Aston Villa]]
+| score      = 4–2
+| report     = https://www.premierleague.com/en/match/2562257
+| team2      = Liverpool
+| goals1     = 
+*[[Matty Cash|Cash]] {{yel|39}}
+*[[Morgan Rogers|Rogers]] {{goal|42}}
+*[[Ollie Watkins|Watkins]] {{yel|45+3}}, {{goal|57||73}}
+*[[John McGinn|McGinn]] {{yel|66}}, {{goal|89}}
+| goals2     = 
+*[[Virgil van Dijk|Van Dijk]] {{goal|52||90+2}}
+*[[Joe Gomez|Gomez]] {{yel|62}}
+| stadium    = [[Villa Park]]
+| location   = [[Birmingham]]
+| attendance = 43,033
+| referee    = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result     = L
+| note       = Fixture was initially scheduled for a 15:00 kick-off on 17 May, but was moved to 12:30 for live [[Sky Sports]] broadcast,<ref>{{cite news |title=Aston Villa v Liverpool: Premier League fixture update |url=https://www.liverpoolfc.com/news/aston-villa-v-liverpool-premier-league-fixture-update |publisher=Liverpool F.C. |date=28 April 2026}}</ref> and later moved due to Aston Villa's participation in the [[2026 UEFA Europa League final|UEFA Europa League final]] on the following Wednesday.<ref>{{cite news |title=New date confirmed for Aston Villa v Liverpool in Premier League |url=https://www.liverpoolfc.com/news/new-date-confirmed-aston-villa-v-liverpool-premier-league |publisher=Liverpool F.C. |date=7 May 2026}}</ref>
+}}
+{{Football box collapsible
+| round      = 38
+| date       = 24 May 2026
+| time       = 16:00 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 1–1
+| report     = https://www.premierleague.com/en/match/2562269
+| team2      = [[Brentford F.C.|Brentford]]
+| goals1     = 
+*[[Curtis Jones (footballer, born 2001)|Jones]] {{goal|58}}
+*[[Ibrahima Konaté|Konaté]] {{yel|79}}
+*[[Alexis Mac Allister|Mac Allister]] {{yel|90+2}}
+| goals2     = 
+*[[Kevin Schade|Schade]] {{goal|64}}
+*[[Jordan Henderson|Henderson]] {{yel|80}}
+*[[Vitaly Janelt|Janelt]] {{yel|90+3}}
+*[[Nathan Collins|Collins]] {{yel|90+5}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,325
+| referee    = [[Darren England]]
+| result     = D
+}}
+{{Notelist}}
+
+===FA Cup===
+{{main|2025–26 FA Cup}}
+
+As a Premier League side, Liverpool entered the FA Cup in the third round, and were drawn at home to League One club [[Barnsley F.C.|Barnsley]].<ref>{{cite news |title=Premier League and EFL Championship clubs join the Emirates FA Cup following the draw |url=https://www.thefa.com/news/2025/dec/08/emirates-fa-cup-third-round-proper-draw-20250812 |publisher=The Football Association |date=8 December 2025}}</ref><ref>{{cite news |title=Liverpool to host Barnsley in FA Cup third round |url=https://www.liverpoolfc.com/news/liverpool-host-barnsley-fa-cup-third-round |publisher=Liverpool F.C. |date=8 December 2025}}</ref> In the fourth round, they were drawn at home to Premier League side [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]].<ref>{{cite news |title=The draw for the Emirates FA Cup fourth round proper of 2025-26 has been made |url=https://www.thefa.com/news/2026/jan/12/emirates-fa-cup-fourth-round-proper-draw-made-20261201 |publisher=The Football Association |date=12 January 2026}}</ref><ref>{{cite news |title=Liverpool to face Brighton in FA Cup fourth round |url=https://www.liverpoolfc.com/news/liverpool-face-brighton-fa-cup-fourth-round |publisher=Liverpool F.C. |date=12 January 2026}}</ref> They were then drawn away to Premier League side [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in the fifth round,<ref>{{cite news |title=The Emirates FA Cup fifth round draw has been made with eight ties at this stage |url=https://www.thefa.com/news/2026/feb/16/emirates-fa-cup-fifth-round-draw-20261602 |publisher=The Football Association |date=16 February 2026}}</ref><ref>{{cite news |title=Liverpool to face Wolves in FA Cup fifth round |url=https://www.liverpoolfc.com/news/liverpool-face-wolves-fa-cup-fifth-round |publisher=Liverpool F.C. |date=16 February 2026}}</ref> and away to Premier League club [[Manchester City F.C.|Manchester City]] in the quarter-finals.<ref>{{cite news |title=The draw for the last eight of the Emirates FA Cup 2025-26 season has been made |url=https://www.thefa.com/news/2026/mar/09/emirates-fa-cup-quarter-final-draw-has-been-made-20260903 |publisher=The Football Association |date=9 March 2026}}</ref><ref>{{cite news |title=Liverpool to face Manchester City in FA Cup quarter-finals |url=https://www.liverpoolfc.com/news/liverpool-face-manchester-city-fa-cup-quarter-finals |publisher=Liverpool F.C. |date=9 March 2026}}</ref>
+
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{Football box collapsible
+| round      = [[2025–26 FA Cup#Third round|Third round]]
+| date       = 12 January 2026
+| time       = 19:45 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 4–1
+| report     = https://www.bbc.co.uk/sport/football/live/c4gw9n8978zt
+| team2      = [[Barnsley F.C.|Barnsley]]
+| goals1     = 
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|9}}
+*[[Joe Gomez|Gomez]] {{yel|32}}
+*[[Jeremie Frimpong|Frimpong]] {{goal|36}}
+*[[Florian Wirtz|Wirtz]] {{goal|84}}
+*[[Hugo Ekitike|Ekitike]] {{goal|90+4}}
+| goals2     = 
+*[[Adam Phillips (footballer)|Phillips]] {{goal|40}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,206
+| referee    = [[Farai Hallam]]
+| result     = W
+}}
+{{Football box collapsible
+| round      = [[2025–26 FA Cup#Fourth round|Fourth round]]
+| date       = 14 February 2026
+| time       = 20:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 3–0
+| report     = https://www.bbc.co.uk/sport/football/live/cp81ek5gxlnt
+| team2      = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| goals1     = 
+*[[Curtis Jones (footballer, born 2001)|Jones]] {{goal|42}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|56}}
+*[[Mohamed Salah|Salah]] {{goal|68|pen.}}
+| goals2     = 
+*[[Lewis Dunk|Dunk]] {{yel|15}}
+*[[Diego Gómez (Paraguayan footballer)|Gómez]] {{yel|33}}
+*[[Carlos Baleba|Baleba]] {{yel|41}}
+*[[Jan Paul van Hecke|Van Hecke]] {{yel|67}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,227
+| referee    = [[Stuart Attwell]]
+| result     = W
+}}
+{{Football box collapsible
+| round      = [[2025–26 FA Cup#Fifth round|Fifth round]]
+| date       = 6 March 2026
+| time       = 20:00 [[Greenwich Mean Time|GMT]]
+| team1      = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| score      = 1–3
+| report     = https://www.bbc.co.uk/sport/football/live/c14mvd1104xt
+| team2      = Liverpool
+| goals1     = 
+*[[Santiago Bueno|S. Bueno]] {{yel|17}}
+*[[Hwang Hee-chan]] {{goal|90+1}}
+*[[João Gomes (footballer, born 2001)|João Gomes]] {{yel|90+5}}
+| goals2     = 
+*[[Andy Robertson|Robertson]] {{goal|51}}
+*[[Mohamed Salah|Salah]] {{goal|53}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{yel|71}}
+*[[Curtis Jones (footballer, born 2001)|Jones]] {{goal|74}}
+| stadium    = [[Molineux Stadium]]
+| location   = [[Wolverhampton]]
+| attendance = 29,881
+| referee    = [[Farai Hallam]]
+| result     = W
+}}
+{{Football box collapsible
+| round      = [[2025–26 FA Cup#Quarter-finals|Quarter-finals]]
+| date       = 4 April 2026
+| time       = 12:45 [[British Summer Time|BST]]
+| team1      = [[Manchester City F.C.|Manchester City]]
+| score      = 4–0
+| report     = https://www.bbc.co.uk/sport/football/live/clydqev9y9et
+| team2      = Liverpool
+| goals1     = 
+*[[Rodri (footballer, born 1996)|Rodri]] {{yel|34}}
+*[[Erling Haaland|Haaland]] {{goal|39|pen.|45+2||57}}
+*[[Antoine Semenyo|Semenyo]] {{goal|50}}
+*[[Bernardo Silva|Silva]] {{yel|67}}
+*[[Nico González (footballer, born 2002)|González]] {{yel|88}}
+| goals2     = 
+*[[Ryan Gravenberch|Gravenberch]] {{yel|24}}
+*[[Mohamed Salah|Salah]] {{penmiss}} 64'
+*[[Milos Kerkez|Kerkez]] {{yel|65}}
+*[[Ibrahima Konaté|Konaté]] {{yel|87}}
+| stadium    = [[City of Manchester Stadium]]
+| location   = [[Manchester]]
+| attendance = 50,754
+| referee    = [[Michael Oliver (referee)|Michael Oliver]]
+| result     = L
+}}
+
+===EFL Cup===
+{{main|2025–26 EFL Cup}}
+
+As one of the Premier League clubs participating in European competitions, Liverpool entered the EFL Cup in the third round, and were drawn at home to Championship club [[Southampton F.C.|Southampton]].<ref>{{cite news |title=Carabao Cup Round Three draw confirmed |url=https://www.efl.com/news/2025/august/27/carabao-cup-round-three-draw-confirmed |publisher=English Football League |date=27 August 2025}}</ref><ref>{{cite news |title=Liverpool to host Southampton in Carabao Cup third round |url=https://www.liverpoolfc.com/news/liverpool-host-southampton-carabao-cup-third-round |publisher=Liverpool F.C. |date=27 August 2025}}</ref> In the fourth round, they were drawn at home to Premier League side [[Crystal Palace F.C.|Crystal Palace]].<ref>{{cite news |title=Carabao Cup: Round Four draw confirmed |url=https://www.efl.com/news/2025/september/24/carabao-cup--round-four-draw-confirmed- |publisher=English Football League |date=24 September 2025}}</ref><ref>{{cite news |title=Liverpool to host Crystal Palace in Carabao Cup fourth round |url=https://www.liverpoolfc.com/news/liverpool-host-crystal-palace-carabao-cup-fourth-round |publisher=Liverpool F.C. |date=24 September 2025}}</ref>
+
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{Football box collapsible
+| round      = [[2025–26 EFL Cup#Third round|Third round]]
+| date       = 23 September 2025
+| time       = 20:00 [[British Summer Time|BST]]
+| team1      = Liverpool
+| score      = 2–1
+| report     = https://www.efl.com/match-centre/g2603050
+| team2      = [[Southampton F.C.|Southampton]]
+| goals1     = 
+*[[Alexander Isak|Isak]] {{goal|43}}
+*[[Hugo Ekitike|Ekitike]] {{sentoff|2|53|86}}, {{goal|85}}
+| goals2     = 
+*[[Cameron Archer|Archer]] {{yel|45}}
+*[[Shea Charles|Charles]] {{goal|76}}
+*[[Ryan Manning|Manning]] {{yel|90+2}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 59,518
+| referee    = [[Thomas Bramall]]
+| result     = W
+}}
+{{Football box collapsible
+| round      = [[2025–26 EFL Cup#Fourth round|Fourth round]]
+| date       = 29 October 2025
+| time       = 19:45 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool
+| score      = 0–3
+| report     = https://www.efl.com/match-centre/g2606488
+| team2      = [[Crystal Palace F.C.|Crystal Palace]]
+| goals1     = 
+*[[Andy Robertson|Robertson]] {{yel|55}}
+*[[Federico Chiesa|Chiesa]] {{yel|72}}
+*[[Amara Nallo|Nallo]] {{sentoff|0|79}}
+| goals2     = 
+*[[Ismaïla Sarr|Sarr]] {{goal|41||45}}
+*[[Daichi Kamada|Kamada]] {{yel|45+2}}
+*[[Yéremy Pino|Pino]] {{goal|88}}, {{yel|90}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,420
+| referee    = [[Craig Pawson]]
+| result     = L
+}}
+
+===FA Community Shield===
+{{main|2025 FA Community Shield}}
+
+As the defending Premier League champions, Liverpool faced the reigning [[2024–25 FA Cup|FA Cup]] winners [[Crystal Palace F.C.|Crystal Palace]] in the FA Community Shield.<ref>{{cite news |title=Community Shield fixture details confirmed |url=https://www.liverpoolfc.com/news/community-shield-fixture-details-confirmed-0 |publisher=Liverpool F.C. |date=20 June 2025}}</ref>
+
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{Football box collapsible
+| round      = [[2025 FA Community Shield|Final]]
+| date       = 10 August 2025
+| time       = 15:00 [[British Summer Time|BST]]
+| team1      = [[Crystal Palace F.C.|Crystal Palace]]
+| score      = 2–2
+| report     = https://www.bbc.co.uk/sport/football/live/cy7y0p1p7ezt
+| team2      = Liverpool
+| goals1     = 
+*[[Jean-Philippe Mateta|Mateta]] {{goal|17|pen.}}
+*[[Ismaïla Sarr|Sarr]] {{goal|77}}
+| goals2     = 
+*[[Hugo Ekitike|Ekitike]] {{goal|4}}
+*[[Jeremie Frimpong|Frimpong]] {{goal|21}}
+*[[Ibrahima Konaté|Konaté]] {{yel|43}}
+*[[Florian Wirtz|Wirtz]] {{yel|44}}
+*[[Mohamed Salah|Salah]] {{yel|87}}
+| penaltyscore = 3–2
+| penalties1 = 
+*[[Jean-Philippe Mateta|Mateta]] {{pengoal}}
+*[[Eberechi Eze|Eze]] {{penmiss}}
+*[[Ismaïla Sarr|Sarr]] {{pengoal}}
+*[[Borna Sosa|Sosa]] {{penmiss}}
+*[[Justin Devenny|Devenny]] {{pengoal}}
+| penalties2 = 
+*{{penmiss}} [[Mohamed Salah|Salah]]
+*{{penmiss}} [[Alexis Mac Allister|Mac Allister]]
+*{{pengoal}} [[Cody Gakpo|Gakpo]]
+*{{penmiss}} [[Harvey Elliott|Elliott]]
+*{{pengoal}} [[Dominik Szoboszlai|Szoboszlai]]
+| stadium    = [[Wembley Stadium]]
+| location   = [[Wembley]]
+| attendance = 82,645
+| referee    = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result     = D
+}}
+
+===UEFA Champions League===
+{{main|2025–26 UEFA Champions League}}
+
+As the reigning champions in the [[2024–25 Premier League|Premier League]], Liverpool entered the UEFA Champions League in the league phase.
+
+====League phase====
+{{main|2025–26 UEFA Champions League league phase}}
+
+The league phase draw was held on 28 August 2025. Liverpool were drawn at home to [[Real Madrid CF|Real Madrid]], [[Atlético Madrid]], [[PSV Eindhoven]], [[Qarabağ FK|Qarabağ]], and away to [[Inter Milan]], [[Eintracht Frankfurt]], [[Olympique de Marseille|Marseille]] and [[Galatasaray S.K. (football)|Galatasaray]].<ref>{{cite news |title=Champions League league phase draw: All 36 teams learn their opponents |url=https://www.uefa.com/uefachampionsleague/news/029c-1e92123f27d7-f1c1fabba5f1-1000 |publisher=UEFA |date=28 August 2025}}</ref><ref>{{cite news |title=Confirmed: Liverpool's Champions League league-phase opponents |url=https://www.liverpoolfc.com/news/confirmed-liverpools-champions-league-league-phase-opponents |publisher=Liverpool F.C. |date=28 August 2025}}</ref>
+
+{{:2025–26 UEFA Champions League league phase|transcludesection=Table|showteam=LIV}}
+
+{{#invoke:sports rbr table|table|legendpos=b
+| updated = complete
+| header = Round
+| label1 = Ground
+| res1 = H/A/A/H/H/A/A/H
+| label2 = Result
+| res2 = W/L/W/W/L/W/W/W
+| label3 = Position
+| pos3 = 11/17/10/8/13/9/4/3
+| label4 = Points
+| pos4 = 3p/3p/6p/9p/9p/12p/15p/18p
+| color_W = green1 |text_W = Win
+| color_D = yellow1 |text_D = Draw
+| color_L = red1 |text_L = Loss
+| text_H = Home |text_A = Away
+| color_1–8 = green1 |color_9–16 = blue1 |color_17–24 = blue2
+| source = [https://www.uefa.com/uefachampionsleague/fixtures-results UEFA]
+}}
+
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{Football box collapsible
+| round      = 1
+| date       = 17 September 2025
+| time       = 20:00 [[British Summer Time|BST]]
+| team1      = Liverpool {{fbaicon|ENG}}
+| score      = 3–2
+| report     = https://www.uefa.com/uefachampionsleague/match/2045911
+| team2      = {{fbaicon|ESP}} [[Atlético Madrid]]
+| goals1     = 
+*[[Andy Robertson|Robertson]] {{goal|4}}
+*[[Mohamed Salah|Salah]] {{goal|6}}
+*[[Conor Bradley|Bradley]] {{yel|71}}
+*[[Virgil van Dijk|Van Dijk]] {{goal|90+2}}
+| goals2     = 
+*[[Robin Le Normand|Le Normand]] {{yel|32}}
+*[[Marcos Llorente|Llorente]] {{goal|45+3||81}}
+*[[Clément Lenglet|Lenglet]] {{yel|45+4}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]], England
+| attendance = 59,507
+| referee    = [[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
+| result     = W
+}}
+{{Football box collapsible
+| round      = 2
+| date       = 30 September 2025
+| time       = 22:00 [[Time in Turkey|TRT]]
+| team1      = [[Galatasaray S.K. (football)|Galatasaray]] {{fbaicon|TUR}}
+| score      = 1–0
+| report     = https://www.uefa.com/uefachampionsleague/match/2045927
+| team2      = {{fbaicon|ENG}} Liverpool
+| goals1     = 
+*[[Victor Osimhen|Osimhen]] {{goal|16|pen.}}
+*[[Mario Lemina|Lemina]] {{yel|36}}
+*[[Abdülkerim Bardakcı|Bardakcı]] {{yel|61}}
+*[[Ismail Jakobs|Jakobs]] {{yel|76}}
+*[[Mauro Icardi|Icardi]] {{yel|76}}
+*[[Uğurcan Çakır|Çakır]] {{yel|88}}
+| goals2     = 
+*[[Ryan Gravenberch|Gravenberch]] {{yel|45+3}}
+*[[Conor Bradley|Bradley]] {{yel|73}}
+*[[Curtis Jones (footballer, born 2001)|Jones]] {{yel|90+1}}
+| stadium    = [[Rams Park]]
+| location   = [[Istanbul]], Turkey
+| attendance = 50,651
+| referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+| result     = L
+}}
+{{Football box collapsible
+| round      = 3
+| date       = 22 October 2025
+| time       = 21:00 [[Central European Summer Time|CEST]]
+| team1      = [[Eintracht Frankfurt]] {{fbaicon|GER}}
+| score      = 1–5
+| report     = https://www.uefa.com/uefachampionsleague/match/2045950
+| team2      = {{fbaicon|ENG}} Liverpool
+| goals1     = 
+*[[Rasmus Kristensen|Kristensen]] {{goal|26}}
+*[[Ritsu Dōan|Dōan]] {{yel|52}}
+*[[Aurèle Amenda|Amenda]] {{yel|54}}
+| goals2     = 
+*[[Hugo Ekitike|Ekitike]] {{goal|35}}
+*[[Virgil van Dijk|Van Dijk]] {{goal|39}}
+*[[Ibrahima Konaté|Konaté]] {{goal|44}}
+*[[Cody Gakpo|Gakpo]] {{goal|66}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|70}}
+| stadium    = [[Waldstadion (Frankfurt)|Waldstadion]]
+| location   = [[Frankfurt]], Germany
+| attendance = 58,700
+| referee    = [[François Letexier]] ([[French Football Federation|France]])
+| result     = W
+}}
+{{Football box collapsible
+| round      = 4
+| date       = 4 November 2025
+| time       = 20:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool {{fbaicon|ENG}}
+| score      = 1–0
+| report     = https://www.uefa.com/uefachampionsleague/match/2045958
+| team2      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| goals1     = 
+*[[Alexis Mac Allister|Mac Allister]] {{yel|52}}, {{goal|61}}
+| goals2     = 
+*[[Vinícius Júnior|Vinícius]] {{yel|23}}
+*[[Dean Huijsen|Huijsen]] {{yel|45+1}}
+*[[Jude Bellingham|Bellingham]] {{yel|60}}
+*[[Álvaro Carreras|Carreras]] {{yel|90+5}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]], England
+| attendance = 59,916
+| referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+| result     = W
+}}
+{{Football box collapsible
+| round      = 5
+| date       = 26 November 2025
+| time       = 20:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool {{fbaicon|ENG}}
+| score      = 1–4
+| report     = https://www.uefa.com/uefachampionsleague/match/2045985
+| team2      = {{fbaicon|NED}} [[PSV Eindhoven]]
+| goals1     = 
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|16}}
+*[[Virgil van Dijk|Van Dijk]] {{yel|17}}
+| goals2     = 
+*[[Ivan Perišić|Perišić]] {{goal|6|pen.}}
+*[[Guus Til|Til]] {{goal|56}}
+*[[Couhaib Driouech|Driouech]] {{goal|73||90+1}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]], England
+| attendance = 59,964
+| referee    = [[Alejandro Hernández Hernández]] ([[Royal Spanish Football Federation|Spain]])
+| result     = L
+}}
+{{Football box collapsible
+| round      = 6
+| date       = 9 December 2025
+| time       = 21:00 [[Central European Time|CET]]
+| team1      = [[Inter Milan]] {{fbaicon|ITA}}
+| score      = 0–1
+| report     = https://www.uefa.com/uefachampionsleague/match/2045994
+| team2      = {{fbaicon|ENG}} Liverpool
+| goals1     = 
+*[[Lautaro Martínez|L. Martínez]] {{yel|13}}
+*[[Henrikh Mkhitaryan|Mkhitaryan]] {{yel|57}}
+*[[Alessandro Bastoni|Bastoni]] {{yel|87}}
+| goals2     = 
+*[[Hugo Ekitike|Ekitike]] {{yel|39}}
+*[[Curtis Jones (footballer, born 2001)|Jones]] {{yel|73}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|88|pen.}}
+| stadium    = [[San Siro]]
+| location   = [[Milan]], Italy
+| attendance = 73,892
+| referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+| result     = W
+}}
+{{Football box collapsible
+| round      = 7
+| date       = 21 January 2026
+| time       = 21:00 [[Central European Time|CET]]
+| team1      = [[Olympique de Marseille|Marseille]] {{fbaicon|FRA}}
+| score      = 0–3
+| report     = https://www.uefa.com/uefachampionsleague/match/2046024
+| team2      = {{fbaicon|ENG}} Liverpool
+| goals1     = 
+*[[Benjamin Pavard|Pavard]] {{yel|48}}
+| goals2     = 
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|45+1}}
+*[[Gerónimo Rulli|Rulli]] {{goal|72|o.g.}}
+*[[Cody Gakpo|Gakpo]] {{goal|90+3}}
+| stadium    = [[Stade Vélodrome]]
+| location   = [[Marseille]], France
+| attendance = 65,631
+| referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+| result     = W
+}}
+{{Football box collapsible
+| round      = 8
+| date       = 28 January 2026
+| time       = 20:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool {{fbaicon|ENG}}
+| score      = 6–0
+| report     = https://www.uefa.com/uefachampionsleague/match/2046031
+| team2      = {{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+| goals1     = 
+*[[Alexis Mac Allister|Mac Allister]] {{goal|15||61}}
+*[[Florian Wirtz|Wirtz]] {{goal|21}}
+*[[Mohamed Salah|Salah]] {{goal|50}}
+*[[Hugo Ekitike|Ekitike]] {{goal|57}}
+*[[Federico Chiesa|Chiesa]] {{goal|90}}
+| goals2     = 
+*[[Marko Janković (footballer, born 1995)|Janković]] {{yel|70}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]], England
+| attendance = 60,043
+| referee    = [[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+| result     = W
+}}
+
+====Knockout phase====
+{{main|2025–26 UEFA Champions League knockout phase}}
+
+As a top-eight team in the league phase, Liverpool entered the knockout phase directly into the round of 16.
+
+=====Round of 16=====
+The round of 16 draw was held on 27 February 2026. Liverpool were drawn against Turkish champions [[Galatasaray S.K. (football)|Galatasaray]], with the first leg away and the second leg at home.<ref name="UCLKOdraw">{{cite news |title=Champions League round of 16 draw: Paris Saint-Germain vs Chelsea, Real Madrid face Man City |url=https://www.uefa.com/uefachampionsleague/news/02a2-20067c4f43b2-99cd5d219005-1000 |publisher=UEFA |date=27 February 2026}}</ref><ref>{{cite news |title=Liverpool to face Galatasaray in Champions League last 16 |url=https://www.liverpoolfc.com/news/liverpool-face-galatasaray-champions-league-last-16 |publisher=Liverpool F.C. |date=27 February 2026}}</ref>
+
+{{Football box collapsible
+| round      = [[2025–26 UEFA Champions League knockout phase#Round of 16|First leg]]
+| date       = 10 March 2026
+| time       = 20:45 [[Time in Turkey|TRT]]
+| team1      = [[Galatasaray S.K. (football)|Galatasaray]] {{fbaicon|TUR}}
+| score      = 1–0
+| report     = https://www.uefa.com/uefachampionsleague/match/2048048
+| team2      = {{fbaicon|ENG}} Liverpool
+| goals1     = 
+*[[Mario Lemina|Lemina]] {{goal|7}}
+*[[Davinson Sánchez|Sánchez]] {{yel|90}}
+| goals2     = 
+*[[Milos Kerkez|Kerkez]] {{yel|33}}
+*[[Virgil van Dijk|Van Dijk]] {{yel|55}}
+*[[Ryan Gravenberch|Gravenberch]] {{yel|88}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{yel|90+5}}
+| stadium    = [[Rams Park]]
+| location   = [[Istanbul]], Turkey
+| attendance = 51,373
+| referee    = [[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+| result     = L
+}}
+{{Football box collapsible
+| round      = [[2025–26 UEFA Champions League knockout phase#Round of 16|Second leg]]
+| date       = 18 March 2026
+| time       = 20:00 [[Greenwich Mean Time|GMT]]
+| team1      = Liverpool {{fbaicon|ENG}}
+| score      = 4–0
+| aggregatescore = 4–1
+| report     = https://www.uefa.com/uefachampionsleague/match/2048056
+| team2      = {{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+| goals1     = 
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|25}}
+*[[Mohamed Salah|Salah]] {{penmiss}} 45+4', {{goal|62}}
+*[[Hugo Ekitike|Ekitike]] {{goal|51}}
+*[[Ryan Gravenberch|Gravenberch]] {{goal|53}}
+| goals2     = 
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]], England
+| attendance = 59,980
+| referee    = [[Paweł Raczkowski]] ([[Polish Football Association|Poland]])
+| result     = W
+}}
+
+=====Quarter-finals=====
+The quarter-finals draw were automatically determined after the round of 16 draw on 27 February 2026. As a result, Liverpool faced French champions and defending European champions [[Paris Saint-Germain FC|Paris Saint-Germain]], with the first leg away and the second leg at home.<ref name="UCLKOdraw" /><ref>{{cite news |title=Champions League quarter-final details: Liverpool to face Paris Saint-Germain |url=https://www.liverpoolfc.com/news/champions-league-quarter-final-details-liverpool-face-paris-saint-germain |publisher=Liverpool F.C. |date=18 March 2026}}</ref>
+
+{{Football box collapsible
+| round      = [[2025–26 UEFA Champions League knockout phase#Quarter-finals|First leg]]
+| date       = 8 April 2026
+| time       = 21:00 [[Central European Summer Time|CEST]]
+| team1      = [[Paris Saint-Germain FC|Paris Saint-Germain]] {{fbaicon|FRA}}
+| score      = 2–0
+| report     = https://www.uefa.com/uefachampionsleague/match/2048063
+| team2      = {{fbaicon|ENG}} Liverpool
+| goals1     = 
+*[[Désiré Doué|Doué]] {{goal|11}}
+*[[Khvicha Kvaratskhelia|Kvaratskhelia]] {{goal|65}}
+| goals2     = 
+*[[Joe Gomez|Gomez]] {{yel|28}}
+*[[Alexis Mac Allister|Mac Allister]] {{yel|31}}
+| stadium    = [[Parc des Princes]]
+| location   = [[Paris]], France
+| attendance = 47,511
+| referee    = [[José María Sánchez Martínez]] ([[Royal Spanish Football Federation|Spain]])
+| result     = L
+}}
+{{Football box collapsible
+| round      = [[2025–26 UEFA Champions League knockout phase#Quarter-finals|Second leg]]
+| date       = 14 April 2026
+| time       = 20:00 [[British Summer Time|BST]]
+| team1      = Liverpool {{fbaicon|ENG}}
+| score      = 0–2
+| aggregatescore = 0–4
+| report     = https://www.uefa.com/uefachampionsleague/match/2048069
+| team2      = {{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| goals1     = 
+*[[Alexis Mac Allister|Mac Allister]] {{yel|45+1}}
+*[[Ibrahima Konaté|Konaté]] {{yel|85}}
+| goals2     = 
+*[[Ousmane Dembélé|Dembélé]] {{goal|72||90+1}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]], England
+| attendance = 59,627
+| referee    = [[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
+| result     = L
+}}
+
+==Statistics==
+
+===Appearances===
+Players with no appearances are not included on the list.
+
+{{Efs start|[[2025–26 Premier League|Premier League]]|[[2025–26 FA Cup|FA Cup]]|[[2025–26 EFL Cup|EFL Cup]]|[[2025–26 UEFA Champions League|Champions League]]|[[2025 FA Community Shield|Community Shield]]}}
+{{Efs player |no=1  |pos=GK |nat=BRA |name=[[Alisson Becker]]                                       | 26+0| 0|2+0|0|0+0|0| 6+0|0|1+0|0}}
+{{Efs player |no=2  |pos=DF |nat=ENG |name=[[Joe Gomez]]                                            | 7+14| 0|3+1|0|2+0|0| 4+2|0|0+0|0}}
+{{Efs player |no=3  |pos=MF |nat=JPN |name=[[Wataru Endo]]                                          |  1+7| 0|0+0|0|2+0|0| 0+1|0|0+1|0}}
+{{Efs player |no=4  |pos=DF |nat=NED |name=[[Virgil van Dijk]]                                      | 38+0| 6|4+0|0|0+0|0|12+0|2|1+0|0}}
+{{Efs player |no=5  |pos=DF |nat=FRA |name=[[Ibrahima Konaté]]                                      | 36+0| 1|2+2|0|0+0|0|10+0|1|1+0|0}}
+{{Efs player |no=6  |pos=DF |nat=HUN |name=[[Milos Kerkez]]                                         | 27+7| 2|2+0|0|1+1|0| 7+2|0|1+0|0}}
+{{Efs player |no=7  |pos=MF |nat=GER |name=[[Florian Wirtz]]                                        | 27+6| 5|2+2|1|0+0|0|10+1|1|1+0|0}}
+{{Efs player |no=8  |pos=MF |nat=HUN |name=[[Dominik Szoboszlai]]                                   | 36+0| 6|4+0|2|0+0|0|12+0|5|1+0|0}}
+{{Efs player |no=9  |pos=FW |nat=SWE |name=[[Alexander Isak]]                                       |  8+6| 3|0+0|0|1+0|1| 4+3|0|0+0|0}}
+{{Efs player |no=10 |pos=MF |nat=ARG |name=[[Alexis Mac Allister]]                                  | 32+5| 2|3+1|0|1+0|0| 9+3|3|0+1|0}}
+{{Efs player |no=11 |pos=FW |nat=EGY |name=[[Mohamed Salah]]                                        | 23+4| 7|3+0|2|0+0|0| 7+3|3|1+0|0}}
+{{Efs player |no=12 |pos=DF |nat=NIR |name=[[Conor Bradley]]                                        | 12+3| 0|0+0|0|0+1|0| 1+4|0|0+0|0}}
+{{Efs player |no=14 |pos=FW |nat=ITA |name=[[Federico Chiesa]]                                      | 1+25| 2|2+1|0|2+0|0| 0+5|1|0+0|0}}
+{{Efs player |no=15 |pos=DF |nat=ITA |name=[[Giovanni Leoni]]                                       |  0+0| 0|0+0|0|1+0|0| 0+0|0|0+0|0}}
+{{Efs player |no=17 |pos=MF |nat=ENG |name=[[Curtis Jones (footballer, born 2001)|Curtis Jones]]    |18+16| 1|4+0|2|1+0|0| 5+4|0|1+0|0}}
+{{Efs player |no=18 |pos=FW |nat=NED |name=[[Cody Gakpo]]                                           | 32+4| 7|3+1|0|0+0|0| 6+5|2|1+0|0}}
+{{Efs player |no=22 |pos=FW |nat=FRA |name=[[Hugo Ekitike]]                                         | 21+7|11|1+2|1|0+1|1|11+1|3|1+0|1}}
+{{Efs player |no=25 |pos=GK |nat=GEO |name=[[Giorgi Mamardashvili]]                                 | 10+0| 0|2+0|0|1+0|0| 6+1|0|0+0|0}}
+{{Efs player |no=26 |pos=DF |nat=SCO |name=[[Andy Robertson]]                                       |11+13| 1|2+0|1|2+0|0| 5+2|1|0+1|0}}
+{{Efs player |no=28 |pos=GK |nat=ENG |name=[[Freddie Woodman]]                                      |  2+1| 0|0+0|0|1+0|0| 0+0|0|0+0|0}}
+{{Efs player |no=30 |pos=DF |nat=NED |name=[[Jeremie Frimpong]]                                     | 12+9| 0|1+2|1|1+0|0| 8+1|0|1+0|1}}
+{{Efs player |no=38 |pos=MF |nat=NED |name=[[Ryan Gravenberch]]                                     | 34+2| 5|2+1|0|0+0|0|11+0|1|0+0|0}}
+{{Efs player |no=42 |pos=MF |nat=ENG |name=[[Trey Nyoni]]                                           |  0+6| 0|0+3|0|2+0|0| 0+3|0|0+0|0}}
+{{Efs player |no=47 |pos=DF |nat=SCO |name=[[Calvin Ramsay]]                                        |  0+0| 0|0+1|0|1+0|0| 0+0|0|0+0|0}}
+{{Efs player |no=49 |pos=FW |nat=ENG |name=[[Kaide Gordon]]                                         |  0+0| 0|0+0|0|0+1|0| 0+0|0|0+0|0}}
+{{Efs player |no=65 |pos=DF |nat=ENG |name=[[Amara Nallo]]                                          |  0+0| 0|0+0|0|0+1|0| 0+1|0|0+0|0}}
+{{Efs player |no=68 |pos=MF |nat=NIR |name=[[Kieran Morrison (footballer)|Kieran Morrison]]         |  0+0| 0|0+1|0|1+0|0| 0+0|0|0+0|0}}
+{{Efs player |no=73 |pos=FW |nat=ENG |name=[[Rio Ngumoha]]                                          | 5+14| 2|2+2|0|2+0|0| 0+4|0|0+0|0}}
+{{Efs player |no=76 |pos=FW |nat=ENG |name=[[Jayden Danns]]                                         |  0+0| 0|0+0|0|0+1|0| 0+0|0|0+0|0}}
+{{Efs player |no=92 |pos=DF |nat=ENG |name=[[Wellity Lucky]]                                        |  0+0| 0|0+0|0|0+1|0| 0+0|0|0+0|0}}
+|-
+| colspan="14" | ''Player who featured but departed the club on loan during the season:''
+{{Efs player |no=19 |pos=MF |nat=ENG |name=[[Harvey Elliott]]                                       |  0+1| 0|0+0|0|0+0|0| 0+0|0|0+1|0}}
+|-
+| colspan="14" | ''Player who featured but departed the club permanently during the season:''
+{{Efs player |no=51 |pos=FW |nat=IRL |name=[[Trent Koné-Doherty]]                                   |  0+0| 0|0+0|0|0+1|0| 0+0|0|0+0|0}}
+|}
+
+===Goals===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! style="background:#D10A11; color:white; width:35px" | Rank
+! style="background:#D10A11; color:white; width:35px" | Pos.
+! style="background:#D10A11; color:white; width:35px" | No.
+! style="background:#D10A11; color:white" | Player
+! style="background:#D10A11; color:white; width:80px" | Premier League
+! style="background:#D10A11; color:white; width:80px" | FA Cup
+! style="background:#D10A11; color:white; width:80px" | EFL Cup
+! style="background:#D10A11; color:white; width:80px" | Champions League
+! style="background:#D10A11; color:white; width:80px" | Community Shield
+! style="background:#D10A11; color:white; width:80px" | Total
+|-
+! rowspan="1" | 1
+| FW || 22 || style="text-align:left" | {{flagicon|FRA}} [[Hugo Ekitike]]
+| 11 || 1 || 1 || 3 || 1
+! 17
+|-
+! rowspan="1" | 2
+| MF || 8 || style="text-align:left" | {{flagicon|HUN}} [[Dominik Szoboszlai]]
+| 6 || 2 || 0 || 5 || 0
+! 13
+|-
+! rowspan="1" | 3
+| FW || 11 || style="text-align:left" | {{flagicon|EGY}} [[Mohamed Salah]]
+| 7 || 2 || 0 || 3 || 0
+! 12
+|-
+! rowspan="1" | 4
+| FW || 18 || style="text-align:left" | {{flagicon|NED}} [[Cody Gakpo]]
+| 7 || 0 || 0 || 2 || 0
+! 9
+|-
+! rowspan="1" | 5
+| DF || 4 || style="text-align:left" | {{flagicon|NED}} [[Virgil van Dijk]]
+| 6 || 0 || 0 || 2 || 0
+! 8
+|-
+! rowspan="1" | 6
+| MF || 7 || style="text-align:left" | {{flagicon|GER}} [[Florian Wirtz]]
+| 5 || 1 || 0 || 1 || 0
+! 7
+|-
+! rowspan="1" | 7
+| MF || 38 || style="text-align:left" | {{flagicon|NED}} [[Ryan Gravenberch]]
+| 5 || 0 || 0 || 1 || 0
+! 6
+|-
+! rowspan="1" | 8
+| MF || 10 || style="text-align:left" | {{flagicon|ARG}} [[Alexis Mac Allister]]
+| 2 || 0 || 0 || 3 || 0
+! 5
+|-
+! rowspan="1" | 9
+| FW || 9 || style="text-align:left" | {{flagicon|SWE}} [[Alexander Isak]]
+| 3 || 0 || 1 || 0 || 0
+! 4
+|-
+! rowspan="3" | 10
+| FW || 14 || style="text-align:left" | {{flagicon|ITA}} [[Federico Chiesa]]
+| 2 || 0 || 0 || 1 || 0
+! 3
+|-
+| MF || 17 || style="text-align:left" | {{flagicon|ENG}} [[Curtis Jones (footballer, born 2001)|Curtis Jones]]
+| 1 || 2 || 0 || 0 || 0
+! 3
+|-
+| DF || 26 || style="text-align:left" | {{flagicon|SCO}} [[Andy Robertson]]
+| 1 || 1 || 0 || 1 || 0
+! 3
+|-
+! rowspan="4" | 13
+| DF || 5 || style="text-align:left" | {{flagicon|FRA}} [[Ibrahima Konaté]]
+| 1 || 0 || 0 || 1 || 0
+! 2
+|-
+| DF || 6 || style="text-align:left" | {{flagicon|HUN}} [[Milos Kerkez]]
+| 2 || 0 || 0 || 0 || 0
+! 2
+|-
+| DF || 30 || style="text-align:left" | {{flagicon|NED}} [[Jeremie Frimpong]]
+| 0 || 1 || 0 || 0 || 1
+! 2
+|-
+| FW || 73 || style="text-align:left" | {{flagicon|ENG}} [[Rio Ngumoha]]
+| 2 || 0 || 0 || 0 || 0
+! 2
+|-
+| colspan="4" | [[Own goal#Association football|Own goals]]
+| 2 || 0 || 0 || 1 || 0
+! 3
+|- class="sortbottom"
+! colspan="4" | Total
+! 63 !! 10 !! 2 !! 24 !! 2
+! 101
+|}
+
+===Clean sheets===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! style="background:#D10A11; color:white; width:35px" | Rank
+! style="background:#D10A11; color:white; width:35px" | No.
+! style="background:#D10A11; color:white" | Player
+! style="background:#D10A11; color:white; width:80px" | Premier League
+! style="background:#D10A11; color:white; width:80px" | FA Cup
+! style="background:#D10A11; color:white; width:80px" | EFL Cup
+! style="background:#D10A11; color:white; width:80px" | Champions League
+! style="background:#D10A11; color:white; width:80px" | Community Shield
+! style="background:#D10A11; color:white; width:80px" | Total
+|-
+! 1
+| 1 || style="text-align:left" | {{flagicon|BRA}} [[Alisson Becker]]
+| 8 || 1 || 0 || 4 || 0
+! 13
+|-
+! 2
+| 25 || style="text-align:left" | {{flagicon|GEO}} [[Giorgi Mamardashvili]]
+| 2 || 0 || 0 || 1 || 0
+! 3
+|- class="sortbottom"
+! colspan="3" | Total
+! 10 !! 1 !! 0 !! 5 !! 0
+! 16
+|}
+
+===Disciplinary record===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! rowspan="2" style="background:#D10A11; color:white; width:35px" | No.
+! rowspan="2" style="background:#D10A11; color:white; width:35px" | Pos.
+! rowspan="2" style="background:#D10A11; color:white" | Player
+! colspan="3" style="background:#D10A11; color:white; width:140px" | Premier League
+! colspan="3" style="background:#D10A11; color:white; width:140px" | FA Cup
+! colspan="3" style="background:#D10A11; color:white; width:140px" | EFL Cup
+! colspan="3" style="background:#D10A11; color:white; width:140px" | Champions League
+! colspan="3" style="background:#D10A11; color:white; width:140px" | Community Shield
+! colspan="3" style="background:#D10A11; color:white; width:140px" | Total
+|-
+! style="background:#D10A11;" | {{yel}} !! style="background:#D10A11" | {{sent off|2}} !! style="background:#D10A11" | {{sent off}} !! style="background:#D10A11" | {{yel}} !! style="background:#D10A11" | {{sent off|2}} !! style="background:#D10A11" | {{sent off}} !! style="background:#D10A11" | {{yel}} !! style="background:#D10A11" | {{sent off|2}} !! style="background:#D10A11" | {{sent off}} !! style="background:#D10A11" | {{yel}} !! style="background:#D10A11" | {{sent off|2}} !! style="background:#D10A11" | {{sent off}} !! style="background:#D10A11" | {{yel}} !! style="background:#D10A11" | {{sent off|2}} !! style="background:#D10A11" | {{sent off}} !! style="background:#D10A11" | {{yel}} !! style="background:#D10A11" | {{sent off|2}} !! style="background:#D10A11" | {{sent off}}
+|-
+| 1 || GK || style="text-align:left" | {{flagicon|BRA}} [[Alisson Becker]]
+| 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+! 1 !! 0 !! 0
+|-
+| 2 || DF || style="text-align:left" | {{flagicon|ENG}} [[Joe Gomez]]
+| 4 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0
+! 6 !! 0 !! 0
+|-
+| 3 || MF || style="text-align:left" | {{flagicon|JPN}} [[Wataru Endo]]
+| 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+! 1 !! 0 !! 0
+|-
+| 4 || DF || style="text-align:left" | {{flagicon|NED}} [[Virgil van Dijk]]
+| 4 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 2 || 0 || 0 || 0 || 0 || 0
+! 6 !! 0 !! 0
+|-
+| 5 || DF || style="text-align:left" | {{flagicon|FRA}} [[Ibrahima Konaté]]
+| 7 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 1 || 0 || 0
+! 10 !! 0 !! 0
+|-
+| 6 || DF || style="text-align:left" | {{flagicon|HUN}} [[Milos Kerkez]]
+| 4 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0
+! 6 !! 0 !! 0
+|-
+| 7 || MF || style="text-align:left" | {{flagicon|GER}} [[Florian Wirtz]]
+| 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0
+! 2 !! 0 !! 0
+|-
+| 8 || MF || style="text-align:left" | {{flagicon|HUN}} [[Dominik Szoboszlai]]
+| 8 || 0 || 1 || 1 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0
+! 10 !! 0 !! 1
+|-
+| 10 || MF || style="text-align:left" | {{flagicon|ARG}} [[Alexis Mac Allister]]
+| 7 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 3 || 0 || 0 || 0 || 0 || 0
+! 10 !! 0 !! 0
+|-
+| 11 || FW || style="text-align:left" | {{flagicon|EGY}} [[Mohamed Salah]]
+| 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0
+! 2 !! 0 !! 0
+|-
+| 12 || DF || style="text-align:left" | {{flagicon|NIR}} [[Conor Bradley]]
+| 5 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 2 || 0 || 0 || 0 || 0 || 0
+! 7 !! 0 !! 0
+|-
+| 14 || FW || style="text-align:left" | {{flagicon|ITA}} [[Federico Chiesa]]
+| 3 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+! 4 !! 0 !! 0
+|-
+| 17 || MF || style="text-align:left" | {{flagicon|ENG}} [[Curtis Jones (footballer, born 2001)|Curtis Jones]]
+| 2 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 2 || 0 || 0 || 0 || 0 || 0
+! 4 !! 0 !! 0
+|-
+| 18 || FW || style="text-align:left" | {{flagicon|NED}} [[Cody Gakpo]]
+| 3 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+! 3 !! 0 !! 0
+|-
+| 22 || FW || style="text-align:left" | {{flagicon|FRA}} [[Hugo Ekitike]]
+| 0 || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0
+! 1 !! 1 !! 0
+|-
+| 26 || DF || style="text-align:left" | {{flagicon|SCO}} [[Andy Robertson]]
+| 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+! 1 !! 0 !! 0
+|-
+| 30 || DF || style="text-align:left" | {{flagicon|NED}} [[Jeremie Frimpong]]
+| 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+! 1 !! 0 !! 0
+|-
+| 38 || MF || style="text-align:left" | {{flagicon|NED}} [[Ryan Gravenberch]]
+| 5 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 2 || 0 || 0 || 0 || 0 || 0
+! 8 !! 0 !! 0
+|-
+| 65 || DF || style="text-align:left" | {{flagicon|ENG}} [[Amara Nallo]]
+| 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 0
+! 0 !! 0 !! 1
+|- class="sortbottom"
+! colspan="3" | Total
+! 57 !! 0 !! 1 !! 5 !! 0 !! 0 !! 2 !! 1 !! 1 !! 16 !! 0 !! 0 !! 3 !! 0 !! 0
+! 83 !! 1 !! 2
+|}
+
+==Club awards==
+===Player of the Month award===
+''Awarded monthly to the player that was chosen by fans voting on [http://www.liverpoolfc.com liverpoolfc.com]''
+
+{| class="wikitable" style="text-align:left"
+|-
+! Month
+! Player
+! Ref.
+|-
+| August || {{flagicon|HUN}} [[Dominik Szoboszlai]] || <ref>{{cite news |title=Dominik Szoboszlai collects Liverpool's Player of the Month award for August |url=https://www.liverpoolfc.com/news/dominik-szoboszlai-collects-liverpools-player-month-award-august |publisher=Liverpool F.C. |date=3 October 2025}}</ref>
+|-
+| September || {{flagicon|ITA}} [[Federico Chiesa]] || <ref>{{cite news |title=Federico Chiesa collects Liverpool's Player of the Month award for September |url=https://www.liverpoolfc.com/news/federico-chiesa-voted-liverpools-player-month-september |publisher=Liverpool F.C. |date=24 October 2025}}</ref>
+|-
+| October || rowspan="2" | {{flagicon|HUN}} [[Dominik Szoboszlai]] || <ref>{{cite news |title=Dominik Szoboszlai wins second LFC Player of the Month award of the season |url=https://www.liverpoolfc.com/news/dominik-szoboszlai-wins-second-lfc-player-month-award-season |publisher=Liverpool F.C. |date=7 November 2025}}</ref>
+|-
+| November || <ref>{{cite news |title=Dominik Szoboszlai voted Liverpool's Player of the Month for November |url=https://www.liverpoolfc.com/news/dominik-szoboszlai-voted-liverpools-player-month-november |publisher=Liverpool F.C. |date=19 December 2025}}</ref>
+|-
+| December || {{flagicon|FRA}} [[Hugo Ekitike]] || <ref>{{cite news |title=Hugo Ekitike wins LFC Player of the Month award for December |url=https://www.liverpoolfc.com/news/hugo-ekitike-wins-lfc-player-month-award-december |publisher=Liverpool F.C. |date=7 January 2026}}</ref>
+|-
+| January || {{flagicon|GER}} [[Florian Wirtz]] || <ref>{{cite news |title=Florian Wirtz named Liverpool Player of the Month for January |url=https://www.liverpoolfc.com/news/florian-wirtz-named-liverpool-player-month-january |publisher=Liverpool F.C. |date=10 February 2026}}</ref>
+|-
+| February || rowspan="2" | {{flagicon|HUN}} [[Dominik Szoboszlai]] || <ref>{{cite news |title=Dominik Szoboszlai wins LFC's Player of the Month for fourth time in 2025-26 |url=https://www.liverpoolfc.com/news/dominik-szoboszlai-wins-lfcs-player-month-fourth-time-2025-26 |publisher=Liverpool F.C. |date=13 March 2026}}</ref>
+|-
+| March || <ref>{{cite news |title=Dominik Szoboszlai retains Liverpool's Player of the Month award |url=https://www.liverpoolfc.com/news/dominik-szoboszlai-retains-liverpools-player-month-award |publisher=Liverpool F.C. |date=23 April 2026}}</ref>
+|-
+| April || {{flagicon|EGY}} [[Mohamed Salah]] || <ref>{{cite news |title=Mo Salah wins LFC Player of the Month award for April |url=https://www.liverpoolfc.com/news/mo-salah-wins-lfc-player-month-award-april |publisher=Liverpool F.C. |date=22 May 2026}}</ref>
+|}
+
+===Player of the Season award===
+[[Dominik Szoboszlai]] won the Player of the Season award.<ref>{{cite news |title=Dominik Szoboszlai wins Liverpool's Men's Player of the Season award |url=https://www.liverpoolfc.com/news/dominik-szoboszlai-wins-liverpools-mens-player-season-award |date=4 June 2026 |publisher=Liverpool F.C.}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Liverpool F.C.}}
+{{Liverpool F.C. seasons}}
+{{2025–26 in English men's football}}
+
+{{DEFAULTSORT:2025-26 Liverpool F.C. season}}
+[[Category:Liverpool F.C. seasons]]
+[[Category:2025–26 Premier League by team|Liverpool F.C.]]
+[[Category:2025–26 UEFA Champions League participants seasons|Liverpool F.C.]]

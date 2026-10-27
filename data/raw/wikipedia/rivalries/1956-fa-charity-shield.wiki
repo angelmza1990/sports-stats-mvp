@@ -1,0 +1,162 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title                   = 1956 FA Charity Shield
+| image                   = 
+| event                   = [[FA Community Shield|FA Charity Shield]]
+| team1                   = [[Manchester City F.C.|Manchester City]]
+| team1association        = 
+| team1score              = 0
+| team2                   = [[Manchester United F.C.|Manchester United]]
+| team2association        = 
+| team2score              = 1
+| details                 = 
+| date                    = 24 October 1956
+| stadium                 = [[Maine Road]]
+| city                    = [[Manchester]]
+| man_of_the_match1a      = 
+| man_of_the_match1atitle = 
+| man_of_the_match1b      = 
+| man_of_the_match1btitle = 
+| referee                 = 
+| attendance              = 30,495
+| weather                 = 
+| previous                = [[1955 FA Charity Shield|1955]]
+| next                    = [[1957 FA Charity Shield|1957]]
+}}
+The '''1956 FA Charity Shield''' was the 34th [[FA Community Shield|FA Charity Shield]], an annual [[association football|football]] match held between the winners of the previous season's [[Football League First Division|Football League]] and [[FA Cup]] competitions. The match was contested by [[Manchester United F.C.|Manchester United]], who had won the [[1955–56 Football League First Division|1955–56 Football League]], and [[Manchester City F.C.|Manchester City]], who had won the [[1955–56 FA Cup]], at [[Maine Road]], [[Manchester]], on 24 October 1956. Manchester United won the match 1–0, with [[Dennis Viollet]] scoring the winning goal. United goalkeeper [[David Gaskell]] made his debut for the club during the game, taking the place of injured goalkeeper [[Ray Wood]], and, at the age of 16 years and 19 days, became the youngest player ever to play for the club.
+
+This game was the first competitive floodlit [[Manchester derby]].<ref>Steve Cawley & Gary James, ''The Pride of Manchester – A History of the Manchester Derby'' (ACL & Polar Publishing, 1991), p 320.</ref> The game was a break with tradition as Charity Shield matches were typically played at the home ground of the league champions, but as Old Trafford had yet to install lights, the game was played at Maine Road. Prior to this, the first floodlit Manchester derby was played on 26 February 1889 at the Belle Vue Athletic Ground. The match was played in aid of the Hyde Coal Mine disaster.<ref>Gary James & Keith Mellor, ''From Maine Men To Banana Citizens'' (Temple Press, 1989), p 8.</ref>
+
+==Match details==
+{{footballbox
+|date=24 October 1956
+|time=
+|team1=[[Manchester City F.C.|Manchester City]]
+|score=0–1
+|report=
+|team2=[[Manchester United F.C.|Manchester United]]
+|goals1=
+|goals2=[[Dennis Viollet|Viollet]] {{goal|75}}
+|stadium=[[Maine Road]], [[Manchester]]
+|attendance=30,495
+|referee=}}
+ {| width=92%
+|-
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_so = _hoops_sky
+ | leftarm    = 6cadff
+ | body       = 6cadff
+ | rightarm   = 6cadff
+ | shorts     = FFFFFF
+ | socks      = FFFFFF 
+ | title      = Manchester City 
+}}
+|{{Football kit
+ | pattern_la = _whiteborder
+ | pattern_b  = _vneckwhite
+ | pattern_ra = _whiteborder
+ | pattern_so = _redtopwhitestripe
+ | leftarm    = E20E0E
+ | body       = E20E0E
+ | rightarm   = E20E0E
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Manchester United }}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="3"|
+|-
+!width="25"|  !!width="200"| !!
+|-
+|'''1''' ||{{flagicon|ENG}} [[Jack Savage (English footballer)|John Savage]]
+|-
+|'''2''' ||{{flagicon|ENG}} [[Bill Leivers]]
+|-
+|'''3''' ||{{flagicon|ENG}} [[Roy Little]]
+|-
+|'''4''' ||{{flagicon|WAL|1953}} [[Roy Clarke (footballer)|Roy Clarke]]
+|-
+|'''5''' ||{{flagicon|SCO}} [[Dave Ewing]]
+|-
+|'''6''' ||{{flagicon|WAL|1953}} [[Roy Paul]] ([[Captain (association football)|c]])
+|-
+|'''7''' ||{{flagicon|ENG}} [[Jack Dyson]]
+|-
+|'''8''' ||{{flagicon|ENG}} [[Joe Hayes (footballer)|Joe Hayes]]
+|-
+|'''9''' ||{{flagicon|ENG}} [[Don Revie]]
+|-
+|'''10'''||{{flagicon|SCO}} [[Bobby Johnstone]]
+|-
+|'''11'''||{{flagicon|IRE}} [[Paddy Fagan]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|SCO}} [[Les McDowall]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ENG}} [[Ray Wood]] || || {{suboff|45}}
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Bill Foulkes]]
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Roger Byrne]] ([[Captain (association football)|c]])
+|-
+|RH ||'''4''' ||{{flagicon|ENG}} [[Eddie Colman]]
+|-
+|CH ||'''5''' ||{{flagicon|ENG}} [[Mark Jones (footballer born 1933)|Mark Jones]]
+|-
+|LH ||'''6''' ||{{flagicon|ENG}} [[Duncan Edwards]]
+|-
+|OR ||'''7''' ||{{flagicon|ENG}} [[Johnny Berry]]
+|-
+|IR ||'''8''' ||{{flagicon|IRL}} [[Billy Whelan]]
+|-
+|CF ||'''9''' ||{{flagicon|ENG}} [[Tommy Taylor]]
+|-
+|IL ||'''10'''||{{flagicon|ENG}} [[Dennis Viollet]]
+|-
+|OL ||'''11'''||{{flagicon|ENG}} [[David Pegg]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ENG}} [[David Gaskell]] || || {{subon|45}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCO}} [[Matt Busby]]
+|}
+|}
+
+==See also==
+*[[1955–56 Football League]]
+*[[1955–56 FA Cup]]
+*[[2011 FA Community Shield]] – contested by the same teams
+
+==References==
+{{reflist}}
+
+{{FA Community Shield}}
+{{Manchester City F.C. matches}}
+{{Manchester United F.C. matches}}
+{{1956–57 in English football}}
+
+{{DEFAULTSORT:1956 Fa Charity Shield}}
+[[Category:FA Community Shield matches]]
+[[Category:Manchester City F.C. matches|Charity Shield 1956]]
+[[Category:Manchester United F.C. matches|Charity Shield 1956]]
+[[Category:1956–57 in English football|Charity Shield]]
+[[Category:1950s in Manchester|Charity Shield 1956]]
+[[Category:October 1956 sports events in the United Kingdom|Charity Shield]]
+[[Category:Manchester derby matches|Charity Shield 1956]]
+[[Category:Football matches in Manchester]]

@@ -1,0 +1,177 @@
+Date,Season,home,visitor,FT,hgoal,vgoal,round,tie,aet,pen,pens,hp,vp,Venue,attendance,nonmatch,notes,neutral
+1898-02-12,1897,Manchester United,Liverpool,0-0,0,0,2,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1898-02-16,1897,Liverpool,Manchester United,2-1,2,1,2,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1899-01-28,1898,Tottenham Hotspur,Manchester United,1-1,1,1,1,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1899-02-01,1898,Manchester United,Tottenham Hotspur,3-5,3,5,1,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1903-02-07,1902,Manchester United,Liverpool,2-1,2,1,1,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1904-02-20,1903,Arsenal,Manchester City,0-2,0,2,2,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1906-03-10,1905,Manchester United,Arsenal,2-3,2,3,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1908-02-01,1907,Manchester United,Chelsea,1-0,1,0,2,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1909-01-16,1908,Manchester City,Tottenham Hotspur,3-4,3,4,1,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1910-02-05,1909,Chelsea,Tottenham Hotspur,0-1,0,1,2,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1913-02-01,1912,Arsenal,Liverpool,1-4,1,4,2,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1914-01-31,1913,Manchester City,Tottenham Hotspur,2-1,2,1,2,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1915-01-30,1914,Chelsea,Arsenal,1-0,1,0,2,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1915-02-20,1914,Manchester City,Chelsea,0-1,0,1,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1921-01-08,1920,Liverpool,Manchester United,1-1,1,1,1,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1921-01-12,1920,Manchester United,Liverpool,1-2,1,2,1,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1922-02-18,1921,Tottenham Hotspur,Manchester City,2-1,2,1,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1923-01-13,1922,Liverpool,Arsenal,0-0,0,0,1,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1923-01-17,1922,Arsenal,Liverpool,1-4,1,4,1,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1923-02-03,1922,Tottenham Hotspur,Manchester United,4-0,4,0,2,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1926-01-30,1925,Tottenham Hotspur,Manchester United,2-2,2,2,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1926-02-03,1925,Manchester United,Tottenham Hotspur,2-0,2,0,4,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1926-03-27,1925,Manchester City,Manchester United,3-0,3,0,s,initial,NA,NA,NA,NA,NA,"Bramall Lane, Sheffield","46,450",NA,NA,yes
+1927-02-19,1926,Arsenal,Liverpool,2-0,2,0,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1930-01-11,1929,Arsenal,Chelsea,2-0,2,0,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1930-01-11,1929,Tottenham Hotspur,Manchester City,2-2,2,2,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1930-01-15,1929,Manchester City,Tottenham Hotspur,4-1,4,1,3,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1931-01-24,1930,Chelsea,Arsenal,2-1,2,1,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1932-02-27,1931,Liverpool,Chelsea,0-2,0,2,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1932-03-12,1931,Arsenal,Manchester City,1-0,1,0,s,initial,NA,NA,NA,NA,NA,"Villa Park, Aston","50,337",NA,NA,yes
+1935-01-12,1934,Tottenham Hotspur,Manchester City,1-0,1,0,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1936-01-25,1935,Liverpool,Arsenal,0-2,0,2,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1937-01-30,1936,Arsenal,Manchester United,5-0,5,0,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1939-01-07,1938,Chelsea,Arsenal,2-1,2,1,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1947-01-11,1946,Chelsea,Arsenal,1-1,1,1,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1947-01-15,1946,Arsenal,Chelsea,1-1,1,1,3,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1947-01-20,1946,Arsenal,Chelsea,0-2,0,2,3,replay2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1948-01-24,1947,Manchester City,Chelsea,2-0,2,0,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1948-01-24,1947,Manchester United,Liverpool,3-0,3,0,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1949-01-08,1948,Arsenal,Tottenham Hotspur,3-0,3,0,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1950-03-04,1949,Chelsea,Manchester United,2-0,2,0,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1950-03-18,1949,Chelsea,Arsenal,2-2,2,2,s,initial,NA,NA,NA,NA,NA,"White Hart Lane, London","67,752",NA,NA,yes
+1950-03-22,1949,Arsenal,Chelsea,1-0,1,0,s,replay,yes,NA,NA,NA,NA,"White Hart Lane, London","66,482",NA,NA,yes
+1950-04-29,1949,Arsenal,Liverpool,2-0,2,0,f,initial,NA,NA,NA,NA,NA,"Wembley (original), London","100,000",NA,NA,yes
+1951-02-10,1950,Manchester United,Arsenal,1-0,1,0,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1952-04-05,1951,Chelsea,Arsenal,1-1,1,1,s,initial,NA,NA,NA,NA,NA,"White Hart Lane, London","68,084",NA,NA,yes
+1952-04-07,1951,Arsenal,Chelsea,3-0,3,0,s,replay,NA,NA,NA,NA,NA,"White Hart Lane, London","57,450",NA,NA,yes
+1954-01-30,1953,Manchester City,Tottenham Hotspur,0-1,0,1,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1955-01-29,1954,Manchester City,Manchester United,2-0,2,0,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1956-02-18,1955,Manchester City,Liverpool,0-0,0,0,5,initial,NA,NA,NA,NA,NA,NA,"70,640",NA,NA,NA
+1956-02-22,1955,Liverpool,Manchester City,1-2,1,2,5,replay,NA,NA,NA,NA,NA,NA,"57,528",NA,NA,NA
+1956-03-17,1955,Manchester City,Tottenham Hotspur,1-0,1,0,s,initial,NA,NA,NA,NA,NA,"Villa Park, Aston","69,788",NA,NA,yes
+1957-01-26,1956,Tottenham Hotspur,Chelsea,4-0,4,0,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1960-01-30,1959,Liverpool,Manchester United,1-3,1,3,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1962-01-06,1961,Liverpool,Chelsea,4-3,4,3,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1962-01-31,1961,Manchester United,Arsenal,1-0,1,0,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1962-03-31,1961,Tottenham Hotspur,Manchester United,3-1,3,1,s,initial,NA,NA,NA,NA,NA,"Hillsborough, Sheffield","65,000",NA,NA,yes
+1963-03-16,1962,Arsenal,Liverpool,1-2,1,2,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1963-03-16,1962,Manchester United,Chelsea,2-1,2,1,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1964-01-04,1963,Tottenham Hotspur,Chelsea,1-1,1,1,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1964-01-08,1963,Chelsea,Tottenham Hotspur,2-0,2,0,3,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1964-02-15,1963,Arsenal,Liverpool,0-1,0,1,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1965-02-20,1964,Chelsea,Tottenham Hotspur,1-0,1,0,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1965-03-27,1964,Liverpool,Chelsea,2-0,2,0,s,initial,NA,NA,NA,NA,NA,"Villa Park, Aston","67,686",NA,NA,yes
+1966-01-22,1965,Liverpool,Chelsea,1-2,1,2,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1967-05-20,1966,Tottenham Hotspur,Chelsea,2-1,2,1,f,initial,NA,NA,NA,NA,NA,"Wembley (original), London","100,000",NA,NA,yes
+1968-01-27,1967,Manchester United,Tottenham Hotspur,2-2,2,2,3,initial,NA,NA,NA,NA,NA,NA,"63,500",NA,NA,NA
+1968-01-31,1967,Tottenham Hotspur,Manchester United,1-0,1,0,3,replay,NA,NA,NA,NA,NA,NA,"57,200",NA,NA,NA
+1968-03-09,1967,Tottenham Hotspur,Liverpool,1-1,1,1,5,initial,NA,NA,NA,NA,NA,NA,"54,005",NA,NA,NA
+1968-03-12,1967,Liverpool,Tottenham Hotspur,2-1,2,1,5,replay,NA,NA,NA,NA,NA,NA,"53,658",NA,NA,NA
+1969-03-01,1968,Manchester City,Tottenham Hotspur,1-0,1,0,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1970-01-24,1969,Manchester United,Manchester City,3-0,3,0,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1971-01-23,1970,Chelsea,Manchester City,0-3,0,3,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1971-02-17,1970,Manchester City,Arsenal,1-2,1,2,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1971-03-06,1970,Liverpool,Tottenham Hotspur,0-0,0,0,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1971-03-16,1970,Tottenham Hotspur,Liverpool,0-1,0,1,6,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1971-05-08,1970,Arsenal,Liverpool,2-1,2,1,f,initial,yes,NA,NA,NA,NA,"Wembley (original), London","100,000",NA,NA,yes
+1973-02-03,1972,Liverpool,Manchester City,0-0,0,0,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1973-02-07,1972,Manchester City,Liverpool,2-0,2,0,4,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1973-03-17,1972,Chelsea,Arsenal,2-2,2,2,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1973-03-20,1972,Arsenal,Chelsea,2-1,2,1,6,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1977-05-21,1976,Manchester United,Liverpool,2-1,2,1,f,initial,NA,NA,NA,NA,NA,"Wembley (original), London","100,000",NA,NA,yes
+1978-01-07,1977,Chelsea,Liverpool,4-2,4,2,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1979-01-15,1978,Manchester United,Chelsea,3-0,3,0,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1979-03-10,1978,Tottenham Hotspur,Manchester United,1-1,1,1,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1979-03-14,1978,Manchester United,Tottenham Hotspur,2-0,2,0,6,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1979-03-31,1978,Liverpool,Manchester United,2-2,2,2,s,initial,NA,NA,NA,NA,NA,"Maine Road, Manchester","52,584",NA,NA,yes
+1979-04-04,1978,Manchester United,Liverpool,1-0,1,0,s,replay,NA,NA,NA,NA,NA,"Goodison Park, Liverpool","53,069",NA,NA,yes
+1979-05-12,1978,Arsenal,Manchester United,3-2,3,2,f,initial,NA,NA,NA,NA,NA,"Wembley (original), London","100,000",NA,NA,yes
+1980-01-05,1979,Tottenham Hotspur,Manchester United,1-1,1,1,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1980-01-09,1979,Manchester United,Tottenham Hotspur,0-1,0,1,3,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1980-03-08,1979,Tottenham Hotspur,Liverpool,0-1,0,1,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1980-04-12,1979,Arsenal,Liverpool,0-0,0,0,s,initial,yes,NA,NA,NA,NA,"Hillsborough, Sheffield","50,174",NA,NA,yes
+1980-04-16,1979,Arsenal,Liverpool,1-1,1,1,s,replay,yes,NA,NA,NA,NA,"Villa Park, Aston","40,579",NA,NA,yes
+1980-04-28,1979,Arsenal,Liverpool,1-1,1,1,s,replay2,yes,NA,NA,NA,NA,"Villa Park, Aston","42,975",NA,NA,yes
+1980-05-01,1979,Arsenal,Liverpool,1-0,1,0,s,replay3,NA,NA,NA,NA,NA,"Highfield Road, Coventry","35,335",NA,NA,yes
+1981-05-09,1980,Tottenham Hotspur,Manchester City,1-1,1,1,f,initial,yes,NA,NA,NA,NA,"Wembley (original), London","100,000",NA,NA,yes
+1981-05-14,1980,Tottenham Hotspur,Manchester City,3-2,3,2,f,replay,NA,NA,NA,NA,NA,"Wembley (original), London","92,000",NA,NA,yes
+1982-01-02,1981,Tottenham Hotspur,Arsenal,1-0,1,0,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1982-02-13,1981,Chelsea,Liverpool,2-0,2,0,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1982-03-06,1981,Chelsea,Tottenham Hotspur,2-3,2,3,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1983-04-16,1982,Manchester United,Arsenal,2-1,2,1,s,initial,NA,NA,NA,NA,NA,"Villa Park, Aston","46,535",NA,NA,yes
+1985-01-27,1984,Liverpool,Tottenham Hotspur,1-0,1,0,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1985-04-13,1984,Liverpool,Manchester United,2-2,2,2,s,initial,yes,NA,NA,NA,NA,"Goodison Park, Liverpool","51,690",NA,NA,yes
+1985-04-17,1984,Manchester United,Liverpool,2-1,2,1,s,replay,NA,NA,NA,NA,NA,"Maine Road, Manchester","45,775",NA,NA,yes
+1986-01-26,1985,Chelsea,Liverpool,1-2,1,2,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1987-01-10,1986,Manchester United,Manchester City,1-0,1,0,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1988-01-30,1987,Manchester United,Chelsea,2-0,2,0,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1988-02-20,1987,Arsenal,Manchester United,2-1,2,1,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1988-03-13,1987,Manchester City,Liverpool,0-4,0,4,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1991-04-14,1990,Tottenham Hotspur,Arsenal,3-1,3,1,s,initial,NA,NA,NA,NA,NA,"Wembley (original), London","77,893",NA,NA,yes
+1993-03-07,1992,Manchester City,Tottenham Hotspur,2-4,2,4,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1993-04-04,1992,Arsenal,Tottenham Hotspur,1-0,1,0,s,initial,NA,NA,NA,NA,NA,"Wembley (original), London","76,263",NA,NA,yes
+1994-05-14,1993,Manchester United,Chelsea,4-0,4,0,f,initial,NA,NA,NA,NA,NA,"Wembley (original), London","79,634",NA,NA,yes
+1995-03-11,1994,Liverpool,Tottenham Hotspur,1-2,1,2,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1996-02-18,1995,Manchester United,Manchester City,2-1,2,1,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1996-03-31,1995,Manchester United,Chelsea,2-1,2,1,s,initial,NA,NA,NA,NA,NA,"Villa Park, Aston","38,421",NA,NA,yes
+1996-05-11,1995,Manchester United,Liverpool,1-0,1,0,f,initial,NA,NA,NA,NA,NA,"Wembley (original), London","79,007",NA,NA,yes
+1997-01-05,1996,Manchester United,Tottenham Hotspur,2-0,2,0,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1997-01-26,1996,Chelsea,Liverpool,4-2,4,2,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1998-01-04,1997,Chelsea,Manchester United,3-5,3,5,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1999-01-24,1998,Manchester United,Liverpool,2-1,2,1,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1999-03-07,1998,Manchester United,Chelsea,0-0,0,0,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1999-03-10,1998,Chelsea,Manchester United,0-2,0,2,6,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1999-04-11,1998,Arsenal,Manchester United,0-0,0,0,s,initial,yes,NA,NA,NA,NA,"Villa Park, Aston","39,217",NA,NA,yes
+1999-04-14,1998,Manchester United,Arsenal,2-1,2,1,s,replay,yes,NA,NA,NA,NA,"Villa Park, Aston","30,223",NA,NA,yes
+2001-02-18,2000,Arsenal,Chelsea,3-1,3,1,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2001-02-18,2000,Liverpool,Manchester City,4-2,4,2,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2001-04-08,2000,Arsenal,Tottenham Hotspur,2-1,2,1,s,initial,NA,NA,NA,NA,NA,"Old Trafford, Manchester","63,541",NA,NA,yes
+2001-05-12,2000,Liverpool,Arsenal,2-1,2,1,f,initial,NA,NA,NA,NA,NA,"Millennium Stadium, Cardiff","72,500",NA,NA,yes
+2002-01-27,2001,Arsenal,Liverpool,1-0,1,0,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2002-03-10,2001,Tottenham Hotspur,Chelsea,0-4,0,4,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2002-05-04,2001,Arsenal,Chelsea,2-0,2,0,f,initial,NA,NA,NA,NA,NA,"Millennium Stadium, Cardiff","73,963",NA,NA,yes
+2003-01-05,2002,Manchester City,Liverpool,0-1,0,1,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2003-02-15,2002,Manchester United,Arsenal,0-2,0,2,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2003-03-08,2002,Arsenal,Chelsea,2-2,2,2,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2003-03-25,2002,Chelsea,Arsenal,1-3,1,3,6,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2004-01-25,2003,Manchester City,Tottenham Hotspur,1-1,1,1,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2004-02-04,2003,Tottenham Hotspur,Manchester City,3-4,3,4,4,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2004-02-14,2003,Manchester United,Manchester City,4-2,4,2,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2004-02-15,2003,Arsenal,Chelsea,2-1,2,1,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2004-04-03,2003,Manchester United,Arsenal,1-0,1,0,s,initial,NA,NA,NA,NA,NA,"Villa Park, Aston","39,939",NA,NA,yes
+2005-05-21,2004,Arsenal,Manchester United,0-0,0,0,f,initial,yes,yes,5-4 Arsenal,5,4,"Millennium Stadium, Cardiff","71,876",NA,NA,yes
+2006-02-18,2005,Liverpool,Manchester United,1-0,1,0,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2006-04-22,2005,Liverpool,Chelsea,2-1,2,1,s,initial,NA,NA,NA,NA,NA,"Old Trafford, Manchester","64,575",NA,NA,yes
+2007-01-06,2006,Liverpool,Arsenal,1-3,1,3,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2007-03-11,2006,Chelsea,Tottenham Hotspur,3-3,3,3,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2007-03-19,2006,Tottenham Hotspur,Chelsea,1-2,1,2,6,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2007-05-19,2006,Chelsea,Manchester United,1-0,1,0,f,initial,yes,NA,NA,NA,NA,"Wembley (new), London","89,826",NA,NA,yes
+2008-01-27,2007,Manchester United,Tottenham Hotspur,3-1,3,1,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2008-02-16,2007,Manchester United,Arsenal,4-0,4,0,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2009-01-24,2008,Manchester United,Tottenham Hotspur,2-1,2,1,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2009-04-18,2008,Chelsea,Arsenal,2-1,2,1,s,initial,NA,NA,NA,NA,NA,"Wembley (new), London","88,103",NA,NA,yes
+2011-01-09,2010,Manchester United,Liverpool,1-0,1,0,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2011-03-12,2010,Manchester United,Arsenal,2-0,2,0,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2011-04-16,2010,Manchester City,Manchester United,1-0,1,0,s,initial,NA,NA,NA,NA,NA,"Wembley (new), London","86,549",NA,NA,yes
+2012-01-08,2011,Manchester City,Manchester United,2-3,2,3,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2012-01-28,2011,Liverpool,Manchester United,2-1,2,1,4,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2012-04-15,2011,Chelsea,Tottenham Hotspur,5-1,5,1,s,initial,NA,NA,NA,NA,NA,"Wembley (new), London","85,731",NA,NA,yes
+2012-05-05,2011,Chelsea,Liverpool,2-1,2,1,f,initial,NA,NA,NA,NA,NA,"Wembley (new), London","89,041",NA,NA,yes
+2013-03-10,2012,Manchester United,Chelsea,2-2,2,2,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2013-04-01,2012,Chelsea,Manchester United,1-0,1,0,6,replay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2013-04-14,2012,Manchester City,Chelsea,2-1,2,1,s,initial,NA,NA,NA,NA,NA,"Wembley (new), London","85,621",NA,NA,yes
+2014-01-04,2013,Arsenal,Tottenham Hotspur,2-0,2,0,3,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2014-02-15,2013,Manchester City,Chelsea,2-0,2,0,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2014-02-16,2013,Arsenal,Liverpool,2-1,2,1,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015-03-09,2014,Manchester United,Arsenal,1-2,1,2,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016-02-21,2015,Chelsea,Manchester City,5-1,5,1,5,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2017-04-22,2016,Chelsea,Tottenham Hotspur,4-2,4,2,s,initial,NA,NA,NA,NA,NA,"Wembley (new), London",86355,NA,NA,yes
+2017-04-23,2016,Arsenal,Manchester City,2-1,2,1,s,initial,yes,NA,NA,NA,NA,"Wembley (new), London",85725,NA,NA,yes
+2017-03-13,2016,Chelsea,Manchester United,1-0,1,0,6,initial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2017-05-27,2016,Arsenal,Chelsea,2-1,2,1,f,initial,NA,NA,NA,NA,NA,"Wembley (new), London",89472,NA,NA,yes
+2018-04-21,2017,Manchester United,Tottenham Hotspur,2-1,2,1,Semi-final,initial,NA,NA,NA,NA,NA,Wembley Stadium,"84,667",NA,NA,yes
+2018-05-19,2017,Chelsea,Manchester United,1-0,1,0,Final,initial,NA,NA,NA,NA,NA,Wembley Stadium,"87,647",NA,NA,yes
+2019-01-25,2018,Arsenal,Manchester United,1-3,1,3,4,initial,NA,NA,NA,NA,NA,Emirates Stadium,"59,571",NA,NA,NA
+2019-02-18,2018,Chelsea,Manchester United,0-2,0,2,5,initial,NA,NA,NA,NA,NA,Stamford Bridge,"40,562",NA,NA,NA

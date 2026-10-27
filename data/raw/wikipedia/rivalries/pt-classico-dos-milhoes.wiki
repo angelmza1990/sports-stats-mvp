@@ -1,0 +1,668 @@
+{{Info/futebol/clássico
+<!-- Identificação -->
+ | clássico          = Clássico dos Milhões
+ | subtítulo         = Flamengo vs. Vasco
+ | imagem            = {{imagem múltipla
+ | align             = center
+ | direction         = vertical
+ | header            = 
+ | header_align      = 
+ | header_background = 
+ | footer            = Torcidas de Flamengo e Vasco.
+ | footer_align      = center
+ | footer_background = 
+ | width             = 
+ | image1            = Festejando el gol Flamengo.jpg
+ | width1            = 200
+ | alt1              = 
+ | caption1          = 
+ | image2            = Torcida do Vasco.jpg
+ | width2            = 200
+ | alt2              = 
+ | caption2          = 
+}}
+|imagem_tamanho  =
+|imagem_legenda  =
+<!-- Estatísticas gerais -->
+|time1           =<span style="color:red">Flamengo</span>
+|vitorias1       =168
+|gols1           =572
+|time2           =<span style="color:#000000">Vasco da Gama</span>
+|vitorias2       =139
+|gols2           =532
+|jogos           =
+|empates         =123
+<!-- Primeira partida -->
+|partida1        ={{Futebol Flamengo}} 1–3 '''{{Futebol Vasco}}'''
+|partida1_compet =[[Campeonato Carioca de Futebol de 1923|Campeonato Carioca]]
+|partida1_local  =Estádio da Rua Paysandu
+|partida1_cidade =[[Rio de Janeiro]]
+|partida1_data   =29 de abril de 1923
+|partida1_público=
+<!-- Última partida -->
+|última          ={{Futebol Flamengo}} 2–2 {{Futebol Vasco}}
+|última_compet   =[[Campeonato Brasileiro de Futebol de 2026 - Série A|Campeonato Brasileiro]]
+|última_local    =[[Estádio Jornalista Mário Filho|Estádio do Maracanã]]
+|última_cidade   =[[Rio de Janeiro]]
+|última_data     =3 de maio de 2026
+|última_público  =61872
+}}
+{| class="infobox"
+|{{EquipamentoFutebol
+ |pattern_la = _black hoops
+ |pattern_b  = _blackhoops
+ |pattern_ra = _black hoops
+ |pattern_sh = 
+ |pattern_so = _fla11h
+ |leftarm    = FF0000
+ |body       = FF0000
+ |rightarm   = FF0000
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |título     = Flamengo
+}}
+|{{EquipamentoFutebol
+ |pattern_la = _negro
+ |pattern_b  = _whiterightsash
+ |pattern_ra = _negro
+ |pattern_sh = _negro
+ |pattern_so = _negro
+ |leftarm    = FFFFFF
+ |body       = 000000
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |título     = Vasco da Gama
+}}
+|}
+O '''Clássico dos Milhões''' é o tradicional confronto entre os clubes de [[futebol]] brasileiro [[Clube de Regatas do Flamengo|Flamengo]] e [[Club de Regatas Vasco da Gama|Vasco da Gama]], ambos da cidade do [[Rio de Janeiro]], capital do [[Rio de Janeiro (estado)|estado homônimo]].<ref>{{Citar web|ultimo=Farah|primeiro=Yoosof|url=https://bleacherreport.com/articles/138569-clssico-dos-milhes-world-footballs-fiercest-rivalry|titulo=Clássico dos Milhões: World Football's Fiercest Rivalry?|acessodata=2023-10-22|website=Bleacher Report|lingua=en}}</ref> É o [[Clássico (futebol)|clássico]] de maior rivalidade e mais popular na cidade e no estado, já que reúne as duas maiores torcidas cariocas. Também é considerado um dos maiores clássicos do país devido ao grande número de torcedores dos dois clubes que envolve todo o território brasileiro.<ref>{{Citar web|titulo=Qual é o maior clássico do mundo? E o maior brasileiro? {{!}} Blogs|url=http://espn.com.br/blogs/gustavohofman/486605_qual-e-o-maior-classico-do-mundo-e-o-maior-brasileiro|lingua=pt}}</ref><ref>{{Citar web|titulo=Ranking - Os 10 maiores clássicos do futebol brasileiro|url=https://www.90min.com/pt-BR/posts/3969942-ranking-os-10-maiores-classicos-do-futebol-brasileiro|data=2016-10-19}}</ref>
+
+Esse é confronto futebolístico que mais aparece com públicos acima de 100 mil pessoas na história do futebol,<ref>{{Citar web|url=https://ge.globo.com/blogs/blog-do-pvc/post/2020/06/16/nos-70-anos-do-maracana-a-lista-dos-175-jogos-no-templo-do-futebol-com-mais-de-100-mil-pagantes.ghtml|titulo=Nos 70 anos do Maracanã, a lista dos 175 jogos no templo do futebol com mais de 100 mil pagantes|data=2020-06-16|acessodata=2023-10-22|website=ge}}</ref> além de ter a maior média de público da história do [[Campeonato Brasileiro de Futebol|Campeonato Brasileiro]].<ref>{{Citar web|url=https://tntsports.com.br/futebolbrasileiro/Flamengo-x-Vasco-tem-maior-media-de-publico-da-historia-do-Brasileirao-20200519-0016.html|titulo=Flamengo x Vasco tem maior média de público da história do Brasileirão|acessodata=2023-10-22|website=TNT Sports}}</ref> Além disso, está entre os dezessete clássicos mais antigos do futebol brasileiro, tendo sua primeira partida de futebol realizada em abril de 1923.<ref>{{Citar web|url=https://historiadofutebol.com/blog/?p=27262|titulo=OS CLÁSSICOS MAIS ANTIGOS DO BRASIL|data=2012-03-26}}</ref> Contudo, as origens do clássico remontam a década de 1900 nas competições de [[Remo (desporto)|remo]], mas com a ascensão à [[Campeonato Carioca de Futebol|primeira divisão carioca]] do time de futebol do Vasco, o duelo passou a ser mais forte nessa modalidade desportiva.<ref>{{citar web|url=https://acervo.oglobo.globo.com/em-destaque/os-apelidos-dos-classicos-dos-milhoes-de-vasco-flamengo-ao-eterno-fla-flu-18665089|titulo=Os apelidos dos clássicos, dos ‘milhões’ de Vasco e Flamengo ao eterno Fla-Flu.|data=12 de fevereiro de 2016|acessodata=9 de abril de 2020|publicado=O Globo|autor=DECKER, Augusto}}</ref><ref>{{Citar web|url=https://www.imortaisdofutebol.com/2019/11/18/flamengo-x-vasco-classico-dos-milhoes/|titulo=Flamengo x Vasco - Clássico dos Milhões|data=2019-11-18}}</ref>
+
+No futebol, o duelo mais importante envolvendo os dois times foi a [[Final da Copa do Brasil de Futebol de 2006|final]] da [[Copa do Brasil de Futebol de 2006|Copa do Brasil de 2006]], vencida pelo Flamengo por 3–0 no placar agregado.<ref>{{Citar web|url=https://www1.folha.uol.com.br/folha/esporte/ult92u106317.shtml|titulo=Flamengo vence o Vasco e conquista segundo título da Copa do Brasil|data=2006-07-26|acessodata=2023-10-22|website=folha.uol.com.br}}</ref> A maior goleada do clássico pertence ao Vasco ao [[Vasco da Gama 7–0 Flamengo (1931)|vencer o confronto por 7 a 0]] durante o [[Campeonato Carioca de Futebol|Campeonato Carioca]] de 1931.<ref>{{Citar web|url=https://www.lance.com.br/vasco/anos-aplicava-maior-goleada-historia-sobre-flamengo.html|titulo=Há 89 anos, Vasco aplicava maior goleada da história sobre o Flamengo|acessodata=2023-10-22|website=www.lance.com.br}}</ref><ref>{{Citar web|ultimo=Meneses|primeiro=Willams|url=https://vasconoticias.com.br/noticias/vasco-7-x-0-flamengo-em-1931-e-uma-das-maiores-goleadas-em-classicos-no-brasil/|titulo=Vasco 7 x 0 Flamengo, em 1931, é uma das maiores goleadas em clássicos no Brasil|data=2023-04-10|acessodata=2023-10-22|website=Vasco Notícias}}</ref>
+
+A rivalidade também se faz presente em outras modalidades, como no [[Basquetebol|basquete]], [[natação]], [[voleibol]], [[judô]], [[futebol de areia]] e [[futebol americano]]. Merecem destaque nesse contexto as finais do [[Campeonato Nacional de Basquete Masculino de 2000]],<ref>{{Citar web|url=http://esporteinterativo.com.br/brasil-de-ouro/nos-15-anos-do-titulo-brasileiro-de-2000-ex-vp-de-basquete-do-vasco-relembra-conquista-e-explica-montagem-da-equipe/|título=Nos 15 anos do título brasileiro de 2000, ex-VP de basquete do Vasco relembra conquista e explica montagem da equipe|data=30 de junho de 2015|acessadoem=15 de outubro de 2016|obra=esporteinterativo.com.br}}</ref> do [[Campeonato Brasileiro de Clubes de Futebol de Areia de 2019|Campeonato Brasileiro de Futebol de Areia de 2019]],<ref>{{Citar web|url=https://globoesporte.globo.com/eventos/futebol-de-areia/noticia/goleiro-brilha-nos-penaltis-vasco-vence-o-flamengo-e-e-campeao-do-brasileiro-de-futebol-de-areia.ghtml|título=Goleiro brilha nos pênaltis, Vasco vence o Flamengo e é campeão do Brasileiro de futebol de areia|data=3 de fevereiro de 2019|acessodata=3 de fevereiro de 2019|obra=globoesporte.com}}</ref> e da [[Copa do Brasil de Futebol de Areia]] de 2025,<ref>{{Citar web|url=https://ge.globo.com/pb/futebol/noticia/2025/10/05/vasco-vence-o-flamengo-por-5-a-4-e-se-torna-tricampeao-da-copa-do-brasil-de-beach-soccer.ghtml|título=Vasco vence o Flamengo por 5 a 4 e se torna tricampeão da Copa do Brasil de Beach Soccer|data=05/10/2025|obra=ge.globo}}</ref> vencidos pelo Vasco; e da [[Superliga Brasileira de Voleibol Feminino de 2000–01]], vencida pelo Flamengo.<ref>{{Citar web|url=http://blogs.lance.com.br/maisesportes/2011/03/02/fla-vai-homenagear-jogadoras-de-volei/|título=Fla vai homenagear jogadoras de vôlei|data=2 de março de 2011|acessadoem=19 de outubro de 2016|obra=lance.com.br|arquivourl=https://web.archive.org/web/20160404092251/http://blogs.lance.com.br/maisesportes/2011/03/02/fla-vai-homenagear-jogadoras-de-volei/|arquivodata=2016-04-04|urlmorta=yes}}</ref>
+
+== História ==
+São os únicos clubes cariocas com status de campeões da América do Sul durante o século XX.
+
+Em campeonatos brasileiros, nunca decidiram uma final, mas já se enfrentaram nas quartas de final de [[Campeonato Brasileiro de Futebol de 1983|1983]] (com vantagem para o Flamengo) e duas vezes em quadrangulares que valiam vaga para a final, tendo o Flamengo se classificado para a final em [[Campeonato Brasileiro de Futebol de 1992|1992]] e o Vasco em [[Campeonato Brasileiro de Futebol de 1997|1997]]. Nas três vezes o vencedor do duelo veio a conquistar o torneio.
+
+Um dos duelos mais marcantes da história do clássico, refere-se justamente à fase semifinal do [[Campeonato Brasileiro de Futebol de 1992|Campeonato Brasileiro de 1992]]. Nesta fase, as oito equipes melhor classificadas na fase preliminar do Campeonato Brasileiro, foram divididas em 2 grupos de 4, com os vencedores de cada grupo fazendo a final. Flamengo e Vasco ficaram no mesmo grupo e se enfrentaram duas vezes naquela fase. O Flamengo era o atual campeão carioca, mas o Vasco possuía o time considerado mais forte, tendo terminado a primeira fase em primeiro lugar (fase em que venceu o Flamengo por 4–2). Entretanto, na fase decisiva em questão, predominou o Flamengo, liderado pelo veterano Júnior. O jogo do primeiro turno da fase semifinal terminou empatado em 1–1. O segundo jogo terminou com a vitória do Flamengo por 2–0. O Flamengo acabaria por se classificar para a final, onde venceria o, [[Botafogo de Futebol e Regatas|Botafogo]], tornando-se campeão.
+
+Outro duelo marcante da história do clássico refere-se à fase semifinal do [[Campeonato Brasileiro de Futebol de 1997|Campeonato Brasileiro de 1997]]. Neste ano, a exemplo de 1992, as oito equipes melhor classificadas na fase preliminar do Campeonato Brasileiro, foram divididas em 2 grupos de 4, com os vencedores de cada grupo fazendo a final. Flamengo e Vasco ficaram novamente no mesmo grupo. O Vasco, que chegava motivado com um histórico de cinco anos sem perder para o Flamengo no campeonato nacional,  não conquistava a taça desde [[Campeonato Brasileiro de Futebol de 1989|1989]]. Por outro lado o Rubro-Negro chegava embalado para  coroar a boa fase com a quebra do ''tabu'' diante do ''cruz-maltino''. O Vasco levava vantagem no confronto direto (venceu por 1–0 na primeira fase) e a partida do primeiro turno da fase semifinal terminou empatada por 1–1. Na partida válida pelo segundo turno na fase semifinal (tratava-se da penúltima  rodada), o Flamengo precisava vencer para ainda ter chances de classificação. O Vasco não se deixou levar pela vantagem do empate e, com grande atuação do jogador Edmundo, com 3 gols, goleou o Flamengo por 4–1. O Vasco chegaria à final contra o [[Sociedade Esportiva Palmeiras|Palmeiras]] e se tornaria campeão. No Campeonato Brasileiro do ano anterior (1996), o Vasco aplicou o mesmo placar (4–1) sobre o Flamengo, também com três gols de Edmundo, um gol de Macedo (para o Vasco) e um gol de [[Bebeto]], para o Flamengo. Naquela partida de 1996, Bebeto perdeu um pênalti, e foi ovacionado pelos vascaínos com coro "Bebeto é vascaíno", em referência às juras de amor que o atacante fez ao Vasco em sua primeira passagem pelo clube.<ref>{{citar web|url=http://acervo.estadao.com.br/pagina/#!/19961007-37609-nac-0020-esp-e4-not/busca/Flamengo+Vasco+Edmundo|título=O Estado de S. Paulo - Acervo Estadão|website=estadao.com.br}}</ref>
+
+=== Disputa direta de títulos ===
+O Clássico dos Milhões foi o que mais decidiu Campeonatos Cariocas e turnos do mesmo, além de serem os maiores campeões invictos, tendo o Flamengo 7 títulos invictos, e o Vasco, 6.
+
+Em [[Campeonato Carioca de Futebol|Campeonatos Cariocas]], um ficou na primeira e o outro na segunda colocação em 23 oportunidades, com ligeira vantagem para o ''rubro-negro'': 13 títulos contra 10 dos ''cruz-maltinos''. Destaca-se pelo Vasco da Gama o famoso título do [[Campeonato Carioca de Futebol de 1958|Campeonato Carioca de 1958]], conhecido também como ''Super Campeonato Carioca''. O time do Vasco da Gama se consagraria campeão sobre o Flamengo nos anos de 1923, 1952, 1958, 1977, 1982, 1987, 1988, 1992, 1994 e 1998. Já o clube da [[Gávea]] viria a ser campeão sobre o rival nos anos de 1944, 1974, 1978, 1979, 1981, 1986, 1996, 1999, 2000, 2001, 2004, 2014 e 2019. 
+
+Em finais programadas para serem finais a equipe ''rubro-negra'' foi campeã em 1981, 1986, 1999, 2000, 2001, 2004, 2014 e 2019, perdendo apenas em 1988. Em jogos decisivos que não eram oficialmente finais, mas valeram na prática como se fossem, deu Flamengo em 1944 e 1974, enquanto Vasco em 1958, 1982 e 1987; com exceção de 1944 (pontos corridos entre 10 times), os demais jogos decisivos foram em um triangular final.<ref name=":1">{{Citar web|titulo=Há quanto tempo o Vasco não vence o Flamengo em finais de turno? Entenda a polêmica|url=https://globoesporte.globo.com/rj/futebol/campeonato-carioca/noticia/ha-quanto-tempo-o-vasco-nao-vence-o-flamengo-em-finais-de-turno-entenda-a-polemica.ghtml|acessodata=22 de abril de 2019|data=1 de abril de 2019|publicado=GloboEsporte.com}}</ref>
+
+Já na [[Taça Guanabara]], ambos os rivais viriam a terminar nas duas primeiras colações da mesma competição em 12 oportunidades. Seriam 6 títulos ''rubro-negros'' (1973, 1979, 1982, 1988, 1996 e 1999) contra 6 títulos ''cruz-maltinos'' (1976, 1977, 1986, 1992, 1998 e 2003). Apenas 1982 teve final "genuína" (vencida pelo Flamengo), enquanto 1973 (F), 1976 (V), 1986 (V), 1992 (V), 1996 (F), 1998 (V), 1999 (F) e 2003 (V) foram jogos decisivos equivalentes a uma final: Flamengo 4–5 Vasco.<ref name=":1" />
+
+Outra taça viria a fazer sucesso e se fixar como o segundo turno do [[Campeonato Carioca de Futebol|Campeonato Carioca]] a partir do ano de 1982, a [[Taça Rio]]. Nesta competição, flamenguistas e vascaínos ficaram nos dois primeiros lugares 8 vezes, com 4 títulos para cada um. Para o Vasco, os anos campeões sobre seu rival foram os de 1992, 1993, 1999 e 2001. Já para o Flamengo, o êxito ocorreu nos anos de 1996, 2000, 2011 e 2019. Em 2011 e 2019 teve-se finais "genuínas" (vencidas pelo Flamengo), já jogos decisivos equivalentes foram 1996 (título do Flamengo) e 1999 (título do Vasco).<ref name=":1" />{{Nota de rodapé|nota=Destaque para a de 2011, cuja final também foi o jogo que rendeu o título carioca. Um jogo decisivo em 1996 teve o mesmo feito para os flamenguistas. Em 1992, o Vasco também já havia sido campeão da Guanabara (sobre o próprio Flamengo, em jogo decisivo) e também foi declarado campeão direto, mas na ocasião ambos turnos eram em pontos corridos e não houve jogo decisivo no segundo turno.}}
+
+Lembrar-se-á porém da final do segundo turno de 1977, vencida pelo Vasco (jogo desempate, uma vez que os dois empataram no número de pontos), e ao jogo decisivo de 1978, vencido pelo Flamengo, antes da denominação "Taça Rio", com ambas ocasiões findando em título direto ao seu respectivo vencedor, já que também venceram o primeiro turno.<ref name=":1" />
+
+Em 1975, os times fizeram uma final "genuína" do terceiro turno, com vitória vascaína por 1–0. Em 1988, os times disputaram um jogo decisivo que rendeu o título de um terceiro turno, com vitória vascaína por 3–1.<ref name=":1" />
+
+Na copa estadual, a [[Copa Rio]], os times se enfrentaram na final da edição de 1993, com sucesso para a equipe vascaína: 3–0 no agregado. Foi a primeira e ao momento última final que o Vasco venceu o Flamengo após a final do [[Campeonato Carioca de Futebol de 1988|Campeonato Carioca de 1988]], não considerando jogos decisivos de turnos.<ref>{{Citar web |ultimo=Casado |primeiro=André |url=http://globoesporte.globo.com/futebol/noticia/2014/04/titulo-pos-cocada-historia-apagada-da-copa-rio-1993-vencida-pelo-vasco.html |titulo=Título pós-Cocada: a história apagada da Copa Rio 1993, vencida pelo Vasco |data=05/04/2014 |acessodata=2021-01-18 |website=globoesporte.com |publicado= |citacao=Trata-se da Copa Rio, torneio criado pelo ex-presidente da Federação do Rio, Eduardo Viana, e que não foi aprovado pelos clubes grandes.}}</ref> Na final do Campeonato da Capital daquele ano, fase anterior ao ''mata-mata'' quadrangular da Copa Rio, o Flamengo venceu o Vasco. No Campeonato da Capital da Copa Rio de 1991, o Flamengo venceu o Vasco em jogo decisivo, ficando com o título.
+
+No [[Torneio Municipal de Futebol do Rio de Janeiro]], 1947, o Vasco levou o título, enquanto Flamengo dividiu o vice com o Botafogo. No [[Torneio Relâmpago]], 1943, o ''Fla'' teve mais êxito, com os ''cruz-maltinos'' dividindo o vice com Fluminense e América. No [[Torneio Início do Campeonato Carioca]], este com finais, teve ''Fla'' campeão e Vasco vice em 1952, já o inverso aconteceu em 1926 e 1944.
+
+No [[Torneio Rio-São Paulo]] de [[Torneio Rio-São Paulo de 1958|1958]], os ''cruz-maltinos'' empataram na penúltima rodada por 1–1 contra os ''rubro-negros'', e no último jogo, no dia seguinte a uma derrota do ''Fla'' perante o Corinthians, para o Vasco bastava um empate, que acabou ganhando por 5–1 da Portuguesa e sendo campeão, com o rival carioca tendo ficado em segundo.
+
+Na [[Copa do Brasil de Futebol de 2006|Copa do Brasil de 2006]], os clubes se enfrentaram pela primeira vez em uma final nacional. O Flamengo venceu as duas partidas, a primeira por 2–0 e a segunda por 1–0, e com o placar de 3–0 no agregado, se sagrou bicampeão da Copa do Brasil em cima de seu rival.
+
+== Decisões ==
+=== Decisões em finais diretas ===
+{{col-begin}}
+{{col-2}}
+; Flamengo campeão, Vasco vice
+: Torneio Início de 1952.
+: Campeonato Carioca de 1981.
+: Taça Guanabara de 1982.
+: Campeonato Carioca de 1986.
+: Campeonato da Capital de 1993.
+: Campeonato Carioca de 1999.
+: Campeonato Carioca de 2000.
+: Campeonato Carioca de 2001.
+: Campeonato Carioca de 2004.
+: Copa do Brasil de 2006.
+: Taça Rio de 2011.
+: Campeonato Carioca de 2014.
+: Taça Rio de 2019.
+: Campeonato Carioca de 2019.
+{{col-2}}
+; Vasco campeão, Flamengo vice
+: Torneio Início de 1926.
+: Torneio Início de 1944.
+: Taça Danilo Leal Carneiro de 1975.
+: Taça Guanabara de 1976.
+: Taça Manoel Vargas Netto de 1977.
+: Campeonato Carioca de 1988.
+: Copa Rio de 1993.
+{{col-2}}
+{{col-end}}
+
+=== Disputas em pontos corridos ===
+Considerados os títulos quando uma equipe termina em primeiro e o rival em segundo.
+
+{{col-begin}}
+{{col-2}}
+; Flamengo campeão, Vasco vice
+: Campeonato Carioca de 1944.
+: Taça Guanabara de 1973.
+: Taça Pedro Magalhães Corrêa de 1974.
+: Campeonato Carioca de 1974.
+: Taça Rio de Janeiro de 1978.
+: Campeonato Carioca de 1978.
+: Taça Guanabara de 1979.
+: Campeonato Carioca de 1979.
+: Taça Sylvio Corrêa Pacheco de 1981.
+: Taça Euzébio de Andrade de 1987.
+: Taça Guanabara de 1988.
+: Taça Guanabara de 1996.
+: Taça Rio de 1996.
+: Campeonato Carioca de 1996.
+: Taça Guanabara de 1999.
+: Taça Rio de 2000.
+{{col-2}}
+; Vasco campeão, Flamengo vice
+: Campeonato Carioca de 1923.
+: Campeonato Carioca de 1952.
+: Torneio Rio-São Paulo de 1958.
+: Campeonato Carioca de 1958.
+: Troféu Pedro Novaes de 1973.
+: Taça Oscar Wright da Silva de 1974.
+: Taça Guanabara de 1977.
+: Campeonato Carioca de 1977.
+: Taça Gustavo de Carvalho de 1980.
+: Taça Ney Cidade Palmeiro de 1981.
+: Campeonato Carioca de 1982.
+: Taça Guanabara de 1986.
+: Campeonato Carioca de 1987.
+: Taça Jerônimo Bastos de 1988.
+: Taça Guanabara de 1992.
+: Taça Rio de 1992.
+: Campeonato Carioca de 1992.
+: Taça Rio de 1993.
+: Campeonato Carioca de 1994.
+: Taça Guanabara de 1998.
+: Campeonato Carioca de 1998.
+: Taça Rio de 1999.
+: Taça Rio de 2001.
+: Taça Guanabara de 2003.
+{{col-2}}
+{{col-end}}
+
+=== Retrospecto geral em decisões ===
+Não são contabilizadas taças ou campeonatos de cunho amistoso.
+
+{| class="wikitable sortable" style="text-align:center;"
+!Competição
+!Edições
+!Flamengo
+!Vasco da Gama
+|-
+|[[Copa do Brasil de Futebol|Copa do Brasil]]
+|1
+|1
+|0
+|-
+|[[Torneio Rio-São Paulo]]
+|1
+|0
+|1
+|-
+|[[Campeonato Carioca de Futebol|Campeonato Carioca]]
+|23
+|13
+|10
+|-
+|[[Copa Rio]]
+|1
+|0
+|1
+|-
+|[[Torneio Início do Campeonato Carioca|Torneio Início]]
+|3
+|1
+|2
+|-
+|[[Taça Guanabara]]
+|12
+|6
+|6
+|-
+|[[Taça Rio]]
+|8
+|4
+|4
+|-
+|[[Campeonato Carioca de Futebol|Outros turnos do Campeonato Carioca]]
+|11
+|4
+|7
+|-
+|[[Copa Rio|Campeonato da Capital]]
+|1
+|1
+|0
+|-
+!Total
+!61
+!30
+!31
+|}
+
+== Demais jogos eliminatórios ==
+; Em competições da [[Confederação Brasileira de Futebol|CBF]]
+: Campeonato Brasileiro de 1983: Flamengo elimina o Vasco nas quartas de finais.
+: Campeonato Brasileiro de 1992: Flamengo elimina o Vasco nas semifinais.{{nota de rodapé|nome="semis"|Estas partidas eram válidas por rodadas decisivas de quadrangulares finais, correspondendo, na prática, a semifinais dos respectivos campeonatos.}} 
+: Campeonato Brasileiro de 1997: Vasco elimina o Flamengo nas semifinais.{{nota de rodapé|nome="semis"|}} 
+: Copa do Brasil de 2015: Vasco elimina o Flamengo nas oitavas de finais.
+
+; Em competições da [[Federação de Futebol do Estado do Rio de Janeiro|FERJ]]
+: Torneio Início de 1922: Flamengo elimina o Vasco nas semifinais.
+: Torneio Início de 1925: Flamengo elimina o Vasco na primeira fase.
+: Torneio Início de 1928: Flamengo elimina o Vasco na primeira fase.
+: Torneio Início de 1932: Vasco elimina o Flamengo nas semifinais.
+: Torneio Início de 1941: Flamengo elimina o Vasco na segunda fase.
+: Torneio Início de 1943: Vasco elimina o Flamengo na segunda fase.
+: Torneio Início de 1947: Vasco elimina o Flamengo na primeira fase.
+: Torneio Início de 1949: Vasco elimina o Flamengo na primeira fase.
+: Torneio Início de 1950: Vasco elimina o Flamengo nas semifinais.
+: Torneio Início de 1959: Flamengo elimina o Vasco nas semifinais.
+: Torneio Início de 1965: Flamengo elimina o Vasco nas semifinais.
+: Campeonato Carioca de 1973: Flamengo elimina o Vasco nas semifinais.
+: Taça Guanabara de 2001: Flamengo elimina o Vasco nas semifinais.
+: Taça Guanabara de 2004: Flamengo elimina o Vasco nas semifinais.
+: Taça Guanabara de 2007: Flamengo elimina o Vasco nas semifinais.
+: Taça Guanabara de 2008: Flamengo elimina o Vasco nas semifinais.
+: Taça Rio de 2010: Flamengo elimina o Vasco nas semifinais.
+: Taça Guanabara de 2012: Vasco elimina o Flamengo nas semifinais.
+: Taça Rio de 2012: Vasco elimina o Flamengo nas semifinais.
+: Campeonato Carioca de 2015: Vasco elimina o Flamengo nas semifinais.
+: Campeonato Carioca de 2016: Vasco elimina o Flamengo nas semifinais.
+: Taça Guanabara de 2017: Flamengo elimina o Vasco nas semifinais.
+: Taça Rio de 2017: Vasco elimina o Flamengo nas semifinais.
+: Campeonato Carioca de 2022: Flamengo elimina o Vasco nas semifinais.
+: Campeonato Carioca de 2023: Flamengo elimina o Vasco nas semifinais.
+: Campeonato Carioca de 2025: Flamengo elimina o Vasco nas semifinais.
+
+== Estádios ==
+De acordo com [[O Globo]], até 24 de outubro de 2010, o clássico já havia sido disputado em 26 estádios diferentes.<ref>{{Citar web|url=http://esporte.uol.com.br/futebol/campeonatos/brasileiro/serie-a/ultimas-noticias/2010/10/19/engenhao-sera-o-26-estadio-que-recebera-o-classico-vasco-x-flamengo.jhtm|título=Engenhão será o 26º estádio que receberá o clássico Vasco x Flamengo|publicado=Universo Online|data=19 de outubro de 2010|acessodata=13 de março de 2011}}</ref> 
+
+O [[Estádio Jornalista Mário Filho]], mais conhecido como Maracanã, é um dos estádios que mais marcou a disputa entre ''rubro-negros'' e ''cruz-maltinos'', tendo recebido mais de 280 jogos do clássico carioca.<ref>{{Citar web|titulo=BuzzFla: Lembranças do Clássico dos Milhões - Flamengo|url=https://www.flamengo.com.br/noticias/futebol/buzzfla--lembrancas-do-classico-dos-milhoes}}</ref> A primeira partida do clássico no estádio apelidado de "templo do futebol" foi realizada em setembro de 1950, com vitória vascaína por 2–1.<ref name=":0">{{Citar web|titulo=Flamengo x Vasco - Clássico dos Milhões|url=https://www.imortaisdofutebol.com/2019/11/18/flamengo-x-vasco-classico-dos-milhoes/|data=2019-11-18}}</ref><ref>{{Citar web|titulo=Maracanã - Templo do Futebol|url=https://www.imortaisdofutebol.com/2018/01/29/maracana-templo-do-futebol/|data=2018-01-29}}</ref> Contudo, foi apenas a partir da [[década de 1970]] que o estádio começou a ganhar mais visibilidade no duelo entre ambos.<ref name=":0" /> Em 1974, ano em que o Vasco se tornou o primeiro clube do Rio de Janeiro a vencer o [[Campeonato Brasileiro de Futebol de 1974|Campeonato Brasileiro]], o Flamengo arruinou a chance de um ano perfeito para os rivais ao empatar por 0–0 diante de mais de 165 mil pessoas no triangular final que decidiu o [[Campeonato Carioca de Futebol de 1974|título carioca daquele ano]], a partida no Maracanã também seria o primeiro de muitos duelos entre [[Zico]] e [[Roberto Dinamite]], que se sagrariam ao longo da década como os maiores ídolos de cada clube.<ref name=":0" /> O estádio foi palco de outros momentos histórias no clássico; entre eles, a vitória flamenguista por 3–1 no [[Campeonato Carioca de Futebol de 1975|Campeonato Carioca de 1976]], partida que teve o maior público da história do confronto e um dos maiores públicos da história do estádio, com quase 175 mil presentes, e o ''[[hat-trick]]'' de [[Edmundo (futebolista)|Edmundo]] na vitória por 4–1 do Vasco na fase semifinal do [[Campeonato Brasileiro de Futebol de 1997|Campeonato Brasileiro de 1997]], em que ele se tornou o maior artilheiro em uma só edição do campeonato e foi determinante para a ida dos cruzmaltinos a final, que resultaria no tricampeonato, a derrota foi uma marca da hegemonia vascaína perante os rival estadual na [[década de 1990]].<ref>{{Citar web|titulo=Esquadrão Imortal – Vasco 1997-1998|url=https://www.imortaisdofutebol.com/2012/05/02/esquadrao-imortal-vasco-1997-1998/|data=2012-05-02|ultimo=imortaisdofutebol}}</ref><ref>{{Citar web|titulo=A história do Clássico dos Milhões de maior público: 175 mil no Fla x Vasco de 1976|url=https://trivela.com.br/a-historia-do-classico-dos-milhoes-de-maior-publico-175-mil-no-fla-x-vasco-de-1976/|primeiro=Leandro|ultimo=Stein}}</ref>
+
+O [[Estádio Vasco da Gama]], mais conhecido como São Januário, também marcou duelos importantes no clássico dos milhões. A maior goleada da história do confronto ocorreu no estádio, [[Vasco da Gama 7–0 Flamengo (1931)|os vascaínos venceram os flamenguistas por 7–0]] em partida válida pelo [[Campeonato Carioca de Futebol de 1931|Campeonato Carioca de 1931]], o jogo contou com uma grande atuação de [[Moacir Siqueira de Queirós|Russinho]], que marcou um ''[[poker-trick]]'', e ficou marcado como uma das grandes atuações de um dos melhores elencos da história do clube.<ref name=":0" /><ref>{{Citar web|titulo=SÚMULAS CARIOCAS: Vasco da Gama 7 x 0 Flamengo|url=http://sumulascariocas.blogspot.com/2009/03/vasco-da-gama-7-x-0-flamengo.html|data=17 de março de 2009|primeiro=Jorge|ultimo=Henriques}}</ref> Os vascaínos ainda teriam a felicidade de vencer os rivais dentro de casa em 21 de agosto de 1949, dia em que o clube completava 51 anos desde a criação, o primeiro tempo havia terminado em 2 a 0 para os ''rubro-negros'', os ''cruz-maltinos'' revidaram e a partida terminou em 5–2 para os donos da casa, a derrota causou uma grande crise na equipe da [[Gávea (bairro do Rio de Janeiro)|Gávea]], o Flamengo vivia um jejum de mais de quatro anos sem derrotar o Vasco, jejum esse que seria prolongado até 1951.<ref name=":0" /><ref>{{Citar web|titulo=Jornalheiros: Recordar é viver - Vasco 5, Flamengo 2|url=http://jornalheiros.blogspot.com/2009/08/recordar-e-viver-vasco-5-flamengo-2.html|data=2009-08-21|primeiro=PC|ultimo=Filho}}</ref> Apesar de diversas vitórias, uma grande derrota do clube com origens portuguesas ocorreu em São Januário no ano de 1939, o Flamengo venceu o Vasco por 6–4 no clássico dos milhões com o maior número de gols da história, a derrota representou o fim do jejum de quatorze anos sem títulos estaduais para os flamenguistas e o retorno da hegemonia rubro-negra no estado durante o início da [[década de 1940]].<ref name=":0" />
+
+== Estatísticas ==
+{{Mais notas|data=abril de 2025|Esta seção}}
+=== Números totais ===
+<small>Último jogo considerado: Flamengo 2–2 Vasco, 3 de maio de 2026, Campeonato Brasileiro.</small>
+
+{| class="wikitable"
+|-align="center"
+| colspan="2" bgcolor="#777777" |<span style="color:white;"> Estatísticas</span><ref>{{Citar web |url=http://futpedia.globo.com/confrontos/vasco-x-flamengo |título=Vasco x Flamengo|autor=Futpédia |obra= |data= |acessodata=}}</ref><ref>{{Citar web|título= Vasco é o campeão dos clássicos no Rio|URL= http://oglobo.globo.com/esportes/vasco-o-campeao-dos-classicos-no-rio-16076218|acessodata= 27 de agosto de 2015}}</ref>
+|-
+| '''Número de jogos''' ||431
+|-
+| '''Vitórias do Flamengo''' ||168
+|-
+| '''Vitórias do Vasco''' ||139
+|-
+| '''Empates''' ||124
+|-
+| '''Número de gols''' ||1102
+|-
+| '''Gols marcados pelo Flamengo''' ||574
+|-
+| '''Gols marcados pelo Vasco''' ||534
+|-
+| '''Artilheiro do Flamengo''' ||[[Zico]] (19 gols)
+|-
+| '''Artilheiro do Vasco''' ||[[Roberto Dinamite]] (27 gols)
+|}
+
+=== Principais competições ===
+Pelo [[Campeonato Brasileiro de Futebol|Campeonato Brasileiro Unificado]], foram disputadas 70 partidas, com 26 vitórias do Flamengo, 18 do Vasco, e 27 empates. O Flamengo marcou 95 gols, e o Vasco marcou 78.
+
+Pela [[Copa do Brasil de Futebol|Copa do Brasil]], foram 4 jogos, com 2 vitórias do Flamengo, 1 do Vasco, e 1 empate. O Flamengo marcou 4 gols, e o Vasco marcou 2.
+
+Pelo [[Campeonato Carioca de Futebol|Campeonato Carioca]], foram 250 jogos, sendo 102 vitórias do Flamengo, 80 do Vasco, e 68 empates. O Flamengo fez 335 gols, e o Vasco fez 305.
+
+Pelo [[Torneio Rio-São Paulo]], foram 19 jogos, com 7 vitórias do Flamengo, 4 do Vasco, e 8 empates. O Flamengo fez 26 gols, e o Vasco fez 18.
+
+=== Séries ===
+A maior série invicta é vascaína, com 23 partidas (16 vitórias e 7 empates) entre 13 de maio de 1945 e 25 de março de 1951, enquanto a maior série invicta rubro-negra é de 17 partidas (8 vitórias e 9 empates) entre 25 de fevereiro de 2017 e 4 de fevereiro de 2021.
+
+A maior série de vitórias é vascaína, com 10 vitórias entre 19 de julho de 1947 e 13 de novembro de 1949, enquanto a maior série de vitórias rubro-negra é de 5 vitórias entre 16 de setembro de 1990 e 24 de novembro de 1991. Já maior série de empates é de 6 jogos entre 28 de outubro de 2017 e 31 de março de 2019.
+
+=== Goleadas ===
+A maior goleada é do Vasco, com uma [[Vasco da Gama 7–0 Flamengo (1931)|vitória de 7–0 sobre o Flamengo]], em 26 de abril de 1931, válido pelo Campeonato Carioca. A maior goleada do Flamengo ocorreu em 2 de junho de 2024, ao vencer o Vasco pelo placar de 6–1, válido pelo Campeonato Brasileiro. A partida com mais gols foi a vitória rubro-negra por 6–4, em 17 de março de 1939, válida como um amistoso.
+
+=== Principais estádios ===
+O [[Estádio Jornalista Mário Filho|Estádio do Maracanã]] foi o mais utilizado, com 289 partidas, 115 vitórias do Flamengo, 83 vitórias do Vasco e 91 empates, 367 gols a favor do Flamengo e 320 a favor do Vasco.
+
+No [[Estádio Vasco da Gama|Estádio de São Januário]] foram 40 partidas, com 17 vitórias do Vasco, 13 do Flamengo e 10 empates, 72 gols a favor do Vasco e 57 a favor do Flamengo.
+
+No [[Estádio da Gávea]] foram 15 partidas, com 7 vitórias do Flamengo, 7 do Vasco e 1 empate, 26 gols a favor do Flamengo e 23 gols a favor do Vasco.
+
+No [[Estádio da Rua Paysandu]] foram 10 partidas, com 6 vitórias do Vasco, 3 do Flamengo e 1 empate, 17 gols a favor do Vasco e 13 a favor do Flamengo.
+
+No [[Estádio Manoel Schwartz|Estádio de Laranjeiras]] foram 24 partidas, com 9 vitórias do Flamengo, 9 do Vasco e 6 empates, 43 gols a favor do Flamengo e 41 a favor do Vasco.
+
+No [[Estádio Olímpico Nilton Santos|Estádio do Engenhão]] foram 14 partidas, com 7 vitórias do Flamengo, 2 do Vasco e 5 empates, 20 gols a favor do Flamengo e 13 a favor do Vasco.
+
+=== Títulos ===
+Sobre os títulos dos 4 grandes do futebol carioca, ver '''[[Os quatro grandes do Rio de Janeiro]]'''.
+
+== Confrontos ==
+=== Primeiro confronto ===
+{{Footballbox
+|data     =[[26 de março]] de [[1922]]
+|hora     =[[Torneio Início do Rio de Janeiro]]
+|report   =
+|time1    =Flamengo
+|time2    =Vasco da Gama
+|placar   =1 – 0
+|gols1    =[[Segreto]] {{gol}}
+|gols2    =
+|estadio  =[[Estádio das Laranjeiras (Rio de Janeiro)|Estádio das Laranjeiras]], [[Rio de Janeiro]]
+|público  =
+|arbitro  =
+}}
+
+=== Maiores goleadas === 
+* '''Do Vasco sobre o Flamengo:'''
+{{Footballbox
+ |data     =[[26 de abril]] de [[1931]]
+ |hora     =[[Campeonato Carioca de Futebol|Campeonato Carioca]]
+ |time1    = Vasco da Gama
+ |time2    = Flamengo
+ |placar   = [[Vasco da Gama 7–0 Flamengo (1931)|7 – 0]]
+ |report   = [http://sumulascariocas.blogspot.com.br/2009/03/vasco-da-gama-7-x-0-flamengo.html Fonte]
+ |estadio  =[[Estádio São Januário]], [[Rio de Janeiro]]
+ |gols1    =[[Moacir Siqueira de Queirós|Russinho]] {{gol|5}}, {{gol|30}}, {{gol|59}}, {{gol|60}}<br />[[Mário Mattos]] {{gol|27}}, {{gol|34}}<br />[[Sant'Anna (futebolista)|Sant'Anna]] {{gol|49}}
+ |gols2    =
+}}
+
+* '''Do Flamengo sobre o Vasco:'''
+{{Footballbox
+|data    =2 de junho de 2024
+|hora    =[[Campeonato Brasileiro de Futebol de 2024 - Série A|Campeonato Brasileiro]]
+|report  =[https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/02-06-2024/vasco-flamengo.ghtml Fonte]
+|time1   =Vasco da Gama
+|placar  =1 – 6
+|time2   =Flamengo
+|gols1   =[[Pablo Vegetti|Vegetti]] {{gol|8}}
+|gols2   =[[Everton Cebolinha|Everton]] {{gol|27}}<br /> [[Pedro Guilherme Abreu dos Santos|Pedro]] {{gol|32}}<br /> [[David Luiz]] {{gol|42}}<br /> [[Giorgian De Arrascaeta|Arrascaeta]] {{gol|50}}<br /> [[Bruno Henrique]] {{gol|72}}<br /> [[Gabigol|Gabriel]] {{gol|88}}
+|estadio =[[Estádio Jornalista Mário Filho|Estádio do Maracanã]], [[Rio de Janeiro]]
+|público =62228<ref name="2jun2024">{{citar web|URL=https://conteudo.cbf.com.br/sumulas/2024/14265b.pdf|título=Boletim Financeiro: Vasco 1x6 Flamengo|data=2 de junho de 2024|publicado=CBF|acessodata=4 de junho de 2024}}</ref>
+|arbitro ={{Arbitro|BR-SC|SC|[[Bráulio da Silva Machado]]}}
+}}
+
+=== Últimos confrontos ===
+{{Footballbox
+|data    =4 de fevereiro de 2024
+|hora    =[[Campeonato Carioca de Futebol de 2024|Campeonato Carioca]]
+|report  =[https://ge.globo.com/rj/futebol/campeonato-carioca/jogo/04-02-2024/vasco-flamengo.ghtml Fonte]
+|time1   =Vasco da Gama
+|placar  =0 – 0
+|time2   =Flamengo
+|gols1   =
+|gols2   =
+|estadio =[[Estádio Jornalista Mário Filho|Estádio do Maracanã]], [[Rio de Janeiro]]
+|público =56318<ref>{{citar web|URL=https://www.itatiaia.com.br/esportes/futebol/campeonato-carioca/2024/02/04/vasco-e-flamengo-empatam-no-primeiro-classico-do-campeonato-carioca|título=Vasco e Flamengo empatam no primeiro clássico do Campeonato Carioca|data=4 de fevereiro de 2024|publicado=Itatiaia|acessodata=8 de fevereiro de 2024}}</ref>
+|arbitro ={{Arbitro|BR-RJ|RJ|Wagner do Nascimento Magalhães}}
+}}
+----
+{{footballbox
+|data    =2 de junho de 2024
+|hora    =[[Campeonato Brasileiro de Futebol de 2024 - Série A|Campeonato Brasileiro]]
+|report  =[https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/02-06-2024/vasco-flamengo.ghtml Fonte]
+|time1   =Vasco da Gama
+|placar  =1 – 6
+|time2   =Flamengo
+|gols1   =[[Pablo Vegetti|Vegetti]] {{gol|8}}
+|gols2   =[[Everton Cebolinha|Everton]] {{gol|27}}<br /> [[Pedro Guilherme Abreu dos Santos|Pedro]] {{gol|32}}<br /> [[David Luiz]] {{gol|42}}<br /> [[Giorgian De Arrascaeta|Arrascaeta]] {{gol|50}}<br /> [[Bruno Henrique]] {{gol|72}}<br /> [[Gabigol|Gabriel]] {{gol|88}}
+|estadio =[[Estádio Jornalista Mário Filho|Estádio do Maracanã]], [[Rio de Janeiro]]
+|público =62228<ref name="2jun2024" />
+|arbitro ={{Arbitro|BR-SC|SC|[[Bráulio da Silva Machado]]}}
+}}
+----
+{{footballbox
+|data   =15 de setembro de 2024
+|hora   =[[Campeonato Brasileiro de Futebol de 2024 - Série A|Campeonato Brasileiro]]
+|report =[https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/15-09-2024/flamengo-vasco.ghtml Fonte]
+|time1  =Flamengo
+|placar =1 – 1
+|time2  =Vasco da Gama
+|gols1  =[[Gerson Santos da Silva|Gerson]] {{gol|71}}
+|gols2  =[[Philippe Coutinho]] {{gol|86}}
+|estadio=[[Estádio Jornalista Mário Filho|Estádio do Maracanã]], [[Rio de Janeiro]]
+|público=63830<ref>{{citar web|URL=https://www.lance.com.br/brasileirao/gerson-e-coutinho-brilham-e-flamengo-e-vasco-empatam-pelo-brasileirao.html|título=Gerson e Coutinho brilham, e Flamengo e Vasco empatam|data=15 de setembro de 2024|publicado=Lance!|acessodata=16 de setembro de 2024}}</ref>
+|arbitro={{Arbitro|BR-SP|SP|[[Raphael Claus]]}}
+}}
+----
+{{footballbox
+|data   =15 de fevereiro de 2025
+|hora   =[[Campeonato Carioca de Futebol de 2022|Campeonato Carioca]]
+|report =[https://ge.globo.com/rj/futebol/campeonato-carioca/jogo/15-02-2025/flamengo-vasco.ghtml Fonte]
+|time1  =Flamengo
+|placar =2 – 0
+|time2  =Vasco da Gama
+|gols1  =[[Bruno Henrique]] {{gol|30|[[Pênalti|pen]]}}<br /> [[Everton Cebolinha|Everton]] {{gol|88}}
+|gols2  =
+|estadio=[[Estádio Jornalista Mário Filho|Estádio do Maracanã]], [[Rio de Janeiro]]
+|público=44543
+|arbitro={{Arbitro|BR-RJ|RJ|Wagner do Nascimento Magalhães}}
+}}
+----
+{{footballbox
+|data   =1 de março de 2025
+|hora   =[[Campeonato Carioca de Futebol de 2022|Campeonato Carioca]]
+|report =[https://ge.globo.com/rj/futebol/campeonato-carioca/jogo/01-03-2025/vasco-flamengo.ghtml Fonte]
+|time1  =Vasco da Gama
+|placar =0 – 1
+|time2  =Flamengo
+|gols1  =
+|gols2  =[[Bruno Henrique]] {{gol|66}}
+|estadio=[[Estádio Olímpico Nilton Santos|Estádio Nilton Santos]], [[Rio de Janeiro]]
+|público=10966<ref>{{citar web|URL=https://extra.globo.com/esporte/noticia/2025/03/vasco-x-flamengo-pela-semifinal-do-carioca-registra-pior-publico-do-classico-em-seis-anos.ghtml|título=Vasco x Flamengo pela semifinal do Carioca registra pior público do clássico em seis anos|data=1 de março de 2025|publicado=Extra|acessodata=4 de março de 2025}}</ref>
+|arbitro={{Arbitro|BR-RJ|RJ|Bruno Arleu de Araújo}}
+}}
+----
+{{Footballbox
+|data    =8 de março de 2025
+|hora    =[[Campeonato Carioca de Futebol de 2023|Campeonato Carioca]]
+|report  =[https://ge.globo.com/rj/futebol/campeonato-carioca/jogo/08-03-2025/flamengo-vasco.ghtml Fonte]
+|time1   =Flamengo
+|placar  =2 – 1
+|time2   =Vasco da Gama
+|gols1   =[[Bruno Henrique]] {{gol|34}}<br /> [[Luiz Araújo]] {{gol|68}}
+|gols2   =[[Nuno Moreira]] {{gol|21}}
+|estadio =[[Estádio Jornalista Mário Filho|Estádio do Maracanã]], [[Rio de Janeiro]]
+|público =55096<ref>{{citar web|URL=https://ge.globo.com/futebol/times/flamengo/noticia/2025/03/08/com-mais-de-51-mil-pagantes-flamengo-tem-melhor-publico-como-mandante-em-2025-contra-o-vasco.ghtml|título=Com mais de 51 mil pagantes, Flamengo tem melhor público como mandante em 2025 contra o Vasco|data=8 de março de 2025|publicado=Extra|acessodata=8 de março de 2025}}</ref>
+|arbitro ={{Arbitro|BR-RJ|RJ|Wagner do Nascimento Magalhães}}
+}}
+----
+{{Footballbox
+|data    =19 de abril de 2025
+|hora    =[[Campeonato Brasileiro de Futebol de 2025 - Série A|Campeonato Brasileiro]]
+|report  =[https://ge.globo.com/futebol/brasileirao-serie-a/jogo/19-04-2025/vasco-flamengo.ghtml Fonte]
+|time1   =Vasco da Gama
+|placar  =0 – 0
+|time2   =Flamengo
+|gols1   =
+|gols2   =
+|estadio =[[Estádio Jornalista Mário Filho|Estádio do Maracanã]], [[Rio de Janeiro]]
+|público =37007<ref>{{citar web|URL=https://www.uol.com.br/esporte/futebol/ultimas-noticias/2025/04/19/vasco-x-flamengo---campeonato-brasileiro.htm|título=Léo Jardim brilha, e Vasco segura empate com o Flamengo no Maracanã|data=8 de março de 2025|publicado=UOL|acessodata=19 de abril de 2025}}</ref>
+|arbitro ={{Arbitro|BR-SP|SP|[[Raphael Claus]]}}
+}}
+----
+{{Footballbox
+|data    =21 de setembro de 2025
+|hora    =[[Campeonato Brasileiro de Futebol de 2025 - Série A|Campeonato Brasileiro]]
+|report  =[https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/21-09-2025/flamengo-vasco.ghtml Fonte]
+|time1   =Flamengo
+|placar  =1 – 1
+|time2   =Vasco da Gama
+|gols1   =[[Jorge Carrascal|Carrascal]] {{gol|11}}
+|gols2   =[[Rayan Vitor Simplício Rocha|Rayan]] {{gol|29}}
+|estadio =[[Estádio Jornalista Mário Filho|Estádio do Maracanã]], [[Rio de Janeiro]]
+|público =62156
+|arbitro ={{Arbitro|BR-RS|RS|[[Rafael Rodrigo Klein]]}}
+}}
+----
+{{footballbox
+|data    =21 de janeiro de 2026
+|hora    =[[Campeonato Carioca de Futebol de 2026|Campeonato Carioca]]
+|report  =[https://ge.globo.com/rj/futebol/campeonato-carioca/jogo/21-01-2026/flamengo-vasco.ghtml Fonte]
+|time1   =Flamengo
+|placar  =1 – 0
+|time2   =Vasco da Gama
+|gols1   =[[Jorge Carrascal|Carrascal]] {{gol|68}}
+|gols2   =
+|estadio =[[Estádio Jornalista Mário Filho|Estádio do Maracanã]], [[Rio de Janeiro]]
+|público =50504<ref>{{citar web|URL=https://www.terra.com.br/esportes/flamengo/diante-de-mais-de-50-mil-flamengo-vence-o-vasco-e-respira-no-carioca,38b3f5cf652698a5a267ad67743ef737xxjmdgd7.html|título=Diante de mais de 50 mil, Flamengo vence o Vasco e respira no Carioca|data=22 de janeiro de 2026|publicado=Terra|acessodata=22 de janeiro de 2026}}</ref>
+|arbitro ={{Arbitro|BR-RJ|RJ|Bruno Arleu de Araújo}}
+}}
+----
+{{Footballbox
+|data    =3 de maio de 2026
+|hora    =[[Campeonato Brasileiro de Futebol de 2026 - Série A|Campeonato Brasileiro]]
+|report  =[https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/03-05-2026/flamengo-vasco.ghtml Fonte]
+|time1   =Flamengo
+|placar  =2 – 2
+|time2   =Vasco da Gama
+|gols1   =[[Pedro Guilherme Abreu dos Santos|Pedro]] {{gol|7}}<br /> [[Jorge Luiz Frello Filho|Jorginho]] {{gol|59|[[Pênalti|pen.]]}}
+|gols2   =[[Robert Renan]] {{gol|83}}<br /> [[Hugo Moura]] {{gol|90+6}}
+|estadio =[[Estádio Jornalista Mário Filho|Estádio do Maracanã]], [[Rio de Janeiro]]
+|público =61872<ref>{{citar web|URL=https://ge.globo.com/google/amp/gato-mestre/noticia/2026/05/03/veja-os-publicos-da-14a-rodada-do-campeonato-brasileiro.ghtml|título=Veja os públicos da 14ª rodada do Campeonato Brasileiro|data=3 de maio de 2026|publicado=Ge.globo|acessodata=4 de maio de 2026}}</ref>
+|arbitro ={{Arbitro|BR-GO|GO|[[Wilton Pereira Sampaio]]}}
+}}
+
+== Maiores públicos ==
+* ''Públicos presentes conhecidos.''
+
+# Flamengo 3–1 Vasco, 174 770, [[4 de abril]] de [[1976]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 0–0 Vasco, 165 358, [[22 de dezembro]] de [[1974]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 2–1 Vasco, 161 989, [[6 de dezembro]] de [[1981]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 0–0 Vasco, 160 342, [[19 de agosto]] de [[1973]] (*), [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 2–1 Vasco, 155 098, [[1 de maio]] de [[1968]] (*), [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 0–0 Vasco, 152 059, [[28 de setembro]] de [[1977]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 0–3 Vasco, 134 787, [[24 de abril]] de [[1977]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 1–1 Vasco, 133 444, [[13 de junho]] de [[1976]] (*), [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 1–1 Vasco, 131 256, [[8 de junho]] de [[1969]] (*), [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 1–1 Vasco, 130 901, [[17 de janeiro]] de [[1959]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 0–1 Vasco, 125 988, [[7 de agosto]] de [[1975]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 1–1 Vasco, 123 063, [[7 de outubro]] de [[1956]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 2–1 Vasco, 122 596, [[15 de abril]] de [[1979]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 0–0 Vasco, 122 481, [[19 de setembro]] de [[1982]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 1–1 Vasco, 121 353, [[8 de maio]] de [[1983]], [[Campeonato Brasileiro de Futebol|Campeonato Brasileiro]]
+# Flamengo 0–2 Vasco, 121 093, [[20 de abril]] de [[1986]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 4–1 Vasco, 121 007, [[10 de janeiro]] de [[1954]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 0–0 Vasco, 120 655, [[17 de setembro]] de [[1978]] (*), [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 1–0 Vasco, 120 433, [[3 de dezembro]] de [[1978]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+# Flamengo 3–2 Vasco, 115 943, [[28 de outubro]] de [[1979]], [[Campeonato Carioca de Futebol|Campeonato Carioca]]
+(*) Rodada dupla.
+
+== Rivalidade em títulos no futebol masculino adulto ==
+Sobre os títulos dos quatro grandes clubes cariocas, ver '''[[Os quatro grandes do Rio de Janeiro]]'''.
+
+Em meados do ano de 2001, quando do final da fase mais áurea da história do Vasco da Gama, ocorrida entre 1997 e 2001, ambos os clubes ombreavam em número de conquistas oficiais relevantes. Com o conquista da [[Copa João Havelange]], o Vasco ostentava 4 títulos da Série A do [[Campeonato Brasileiro de Futebol]], em cotejo a 4 ou 5 do Flamengo (dependendo da interpretação que se atribua à [[Copa União]] de 1987), possuindo o Flamengo àquela altura 1 título da [[Copa do Brasil de Futebol]]. Em títulos interestaduais oficiais, o Vasco detinha 3 títulos do [[Torneio Rio–São Paulo]], em comparação a 1 do Flamengo. Em termos de relevantes conquistas internacionais, ambos os clubes possuíam 1 título da [[Copa Libertadores]], 1 título da [[Copa Mercosul]], possuindo o Flamengo 1 título da [[Copa Intercontinental]] (título mundial de clubes de sua época, que cumpria o papel cumprido hoje pela [[Copa do Mundo de Clubes da FIFA]]) e o Vasco 1 título do [[Campeonato Sul-Americano de Campeões de 1948]] (título sul-americano de clubes de sua época, que cumpria o papel cumprido hoje pela [[Copa Libertadores]]); possuía o Vasco ainda o título do  [[Torneio Octogonal Rivadávia Corrêa Meyer]], competição organizada em caráter oficial pela [[Confederação Brasileira de Desportos|CBD]] em 1953, e da qual o Flamengo igualmente postulou participar. Em termos de títulos oficiais mas de impacto relativamente menor, o Flamengo ostentava a [[Copa de Ouro Nicolás Leoz]] e o Vasco o [[Torneio João Havelange]]. No que diz respeito ao [[Campeonato Carioca de Futebol]], em meados do ano de 2001 o Flamengo possuía 27 conquistas em cotejo a 21 do Vasco, diferença que desaparecia quando se levassem em consideração as competições estaduais oficiais do passado, como os Torneios [[Torneio Municipal de Futebol do Rio de Janeiro|Municipal]], [[Torneio Relâmpago|Relâmpago]], [[Torneio Aberto de Futebol do Rio de Janeiro|Aberto]], [[Torneio Início do Campeonato Carioca|Início]], [[Torneio Extra|Extra]], [[Copa Rio]] e [[Taça Guanabara]]. 
+
+Após 2001, o Vasco sofreu acentuado declínio em termos de conquistas de títulos, havendo o Flamengo experimentado períodos de auge em termos de aquisição de títulos, como 2007-2009 e a partir de 2019, de modo que a diferença de estatura dos 2 clubes, em termos de conquistas de títulos oficiais, se tornou acentuada, conforme se pode observar na lista de títulos oficiais presente em '''[[Os quatro grandes do Rio de Janeiro]]'''
+
+=== Confrontos em torneios amistosos ===
+Títulos em competições amistosas com a participação de ambos os clubes.
+
+{| class="wikitable" style="text-align:center;font-size:95%"
+! Títulos amistosos
+! width="100" | Flamengo
+! width="100" | Vasco da Gama
+|-
+| Torneio Luiz Aranha (1940)
+| 0
+| 1
+|-
+| Quadrangular Internacional do Rio de Janeiro (1953)
+| 0
+| 1
+|-
+| Torneio Quarto Centenário do Rio de Janeiro (1965)
+| 0
+| 1
+|-
+| Torneio José Fernandes (1980)
+| 0
+| 1
+|-
+| Torneio João Havelange (1981)<ref>{{citar web|url=http://news.google.com/newspapers?nid=0qX8s2k1IRwC&dat=19810518&printsec=frontpage&hl=en|título=Jornal do Brasil - Google News Archive Search|website=news.google.com}}</ref><ref>Não confundir com Copa João Havelange de 2000, o Campeonato Brasileiro realizado no ano 2000, nem com o Torneio João Havelange de 1993, oficial pela CBF.</ref>
+| 0
+| 1
+|-
+| Torneio Heleno Nunes (1976)
+| 0
+| 1
+|-
+| Torneio Internacional de Verão Sul-Americano (1961)
+|1
+|0
+|-
+| Torneio Internacional de Verão do Rio de Janeiro (1970 e 1972)
+| 2
+| 0
+|-
+| Torneio Gilberto Alves (1965)
+| 1
+| 0
+|-
+| [[Torneio Super Series]]<ref>{{citar web|url=http://globoesporte.globo.com/temporeal/temporeal/25-01-2015/sao-paulo-flamengo/|título=Ao vivo: São Paulo x Flamengo - Torneio de Manaus - globoesporte.com - tempo real|website=globoesporte.com}}</ref>
+| 1
+| 0
+|-
+| Torneio Gilberto Cardoso (1955)<ref>{{citar web|url=http://news.google.com/newspapers?nid=0qX8s2k1IRwC&dat=19551231&printsec=frontpage&hl=en|título=Jornal do Brasil - Google News Archive Search|website=news.google.com}}</ref>
+| 1
+| 0
+|-
+| Títulos amistosos apenas com os dois clubes como participantes (jan/1967, jan/1973, jun/1973 e fev/1975).
+| 2
+| 2
+|-
+! Total
+!8
+!8
+|}
+
+== Ver também ==
+* [[Clássico da Rivalidade]]
+* [[Clássico Vovô]]
+* [[Clássico da Amizade]]
+* [[Fla-Flu]]
+* [[Clássico dos Gigantes]]
+
+{{Notas e referências}}
+
+== Publicações ==
+* ASSAF, Roberto e MARTINS, Clóvis. '''Flamengo x Vasco - O Clássico de Milhões'''. Relume Dumará; 1999.
+
+== Ligações externas ==
+* {{Link|pt|2=http://www.netvasco.com.br/mauroprais/futrio/flaxvas.html|3=Estatísticas detalhadas|4=no sítio do Vasco da Gama}}
+
+{{Clássicos de Futebol no Brasil}}
+{{Futebol do Rio de Janeiro}}
+{{Clube de Regatas do Flamengo}}
+{{Club de Regatas Vasco da Gama}}
+{{Portal3|Brasil|Rio de Janeiro|Futebol}}
+
+{{DEFAULTSORT:Classico Dos Milhoes}}
+[[Categoria:Clássicos do futebol do Rio de Janeiro]]
+[[Categoria:Estatísticas do Clube de Regatas do Flamengo por adversário]]
+[[Categoria:Partidas do Club de Regatas Vasco da Gama]]
+[[Categoria:Esporte da cidade do Rio de Janeiro]]
+[[Categoria:Clássicos do futebol do Brasil]]

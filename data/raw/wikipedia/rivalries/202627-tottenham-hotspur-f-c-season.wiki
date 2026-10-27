@@ -1,0 +1,1954 @@
+{{Short description|145th Season in existence of Tottenham Hotspur FC}}
+{{Infobox football club season
+| club = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| season = [[2026–27 in English football|2026–27]]
+| owner = [[ENIC Group|ENIC International Ltd.]]
+| chairman = Peter Charrington 
+| chrtitle = Non-executive chairman
+| manager = [[Roberto De Zerbi]]
+| mgrtitle = Head coach
+| stadium = [[Tottenham Hotspur Stadium]]
+| league = [[Premier League]]
+| league result = ''[[2026–27 Premier League|14th]]''
+| cup1 = [[FA Cup]]
+| cup1 result = ''[[2026–27 FA Cup|Third round]]''
+| cup2 = [[EFL Cup]]
+| cup2 result = [[2026–27 EFL Cup|Third round]]
+| league topscorer = <br>''Seven players'' (1 each)
+| season topscorer = <br>[[Ben Davies (footballer, born 1993)|Ben Davies]]<br>[[Conor Gallagher]]<br>[[Dominic Solanke]]<br>(2 each)
+| highest attendance = 61,025 v [[Newcastle United F.C.|Newcastle United]], Premier League, 29 August 2026
+| lowest attendance = 49,008 v [[Charlton Athletic F.C.|Charlton Athletic]], EFL Cup, 26 August 2026
+| average attendance = {{formatnum:{{#expr: (((61025+60477+60920+60913)/4) round 0)}}}}
+| largest win = '''5–1''' v Charlton Athletic (H), EFL Cup, 26 August 2026<br />
+| largest loss = '''0–3''' v [[Brentford F.C.|Brentford]] (A), Premier League, 22 August 2026<br />
+| pattern_la1 = _tottenham2627h
+| pattern_b1 = _tottenham2627h
+| pattern_ra1 = _tottenham2627h
+| pattern_sh1 = _tottenham2627h
+| pattern_so1 = _tottenham2627hl
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = FFFFFF
+| socks1 = FFFFFF
+| pattern_la2 = _tottenham2627a
+| pattern_b2 = _tottenham2627a
+| pattern_ra2 = _tottenham2627a
+| pattern_sh2 = _tottenham2627a
+| pattern_so2 = _tottenham2627al
+| leftarm2 = 000000
+| body2 = 000000
+| rightarm2 = 000000
+| shorts2 = 000000
+| socks2 = 000000
+| pattern_la3 = _tottenham2627t
+| pattern_b3 = _tottenham2627t
+| pattern_ra3 = _tottenham2627t
+| pattern_sh3 = _tottenham2627t
+| pattern_so3 = _tottenham2627tl
+| leftarm3 = 800080
+| body3 = 800080
+| rightarm3 = 800080
+| shorts3 = 800080
+| socks3 = 800080
+| prevseason = [[2025–26 Tottenham Hotspur F.C. season|2025–26]]
+| nextseason = 2027–28
+| updated = 24 October 2026
+}}
+The '''2026–27 season''' is the 145th season in the history of [[Tottenham Hotspur F.C.|Tottenham Hotspur Football Club]], their 49th consecutive season in the top flight of [[English football league system|English football]], and 35th consecutive season in the [[Premier League]]. In addition to the [[2026–27 Premier League|domestic league]], the club is also participating in the [[2026–27 FA Cup|FA Cup]] and the [[2025–26 EFL Cup|EFL Cup]].
+
+This season is the first since [[2020–21 Tottenham Hotspur F.C. season|2020–21]] without former captain [[Cristian Romero]], who signed for [[Atlético Madrid]] in the summer.
+
+==Squad information==
+{| class="wikitable" style="text-align:center;width:60em"
+|-
+! style="background:#000080; color:white; text-align:center;" | No.
+! style="background:#000080; color:white; text-align:center;" | Player
+! style="background:#000080; color:white; text-align:center;" | Nationality
+! style="background:#000080; color:white; text-align:center;" | Position(s)
+! style="background:#000080; color:white; text-align:center;" | Date of birth (age)
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Goalkeepers
+|-
+| 31
+| [[Antonín Kinský (footballer, born 2003)|Antonín Kinský]]
+| {{flagicon|CZE}}
+| GK
+| {{Birth date and age|df=yes|2003|3|13}}
+|-
+| 39
+| [[Martin Dúbravka]]
+| {{flagicon|SVK}}
+| GK
+| {{Birth date and age|df=yes|1989|1|15}}
+|-
+| 40
+| [[Brandon Austin]]
+| {{flagicon|USA}}
+| GK
+| {{Birth date and age|df=yes|1999|1|7}}
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Defenders
+|-
+| 3
+| [[Andy Robertson]]
+| {{flagicon|SCO}}
+| LB
+| {{birth date and age|df=yes|1994|3|11}}
+|-
+| 4
+| [[Tosin Adarabioyo]]
+| {{flagicon|ENG}}
+| CB
+| {{Birth date and age|df=yes|1997|9|24}}
+|-
+| 5
+| [[Marcos Senesi]]
+| {{flagicon|ARG}}
+| CB
+| {{Birth date and age|df=yes|1997|5|10}}
+|-
+| 6
+| [[Jan Paul van Hecke]]
+| {{flagicon|NED}}
+| CB
+| {{Birth date and age|df=yes|2000|6|8}}
+|-
+| 13
+| [[Destiny Udogie]]
+| {{flagicon|ITA}}
+| LB / LWB
+| {{Birth date and age|df=yes|2002|11|28}}
+|-
+| 23
+| [[Pedro Porro]] ''(Vice Captain)''
+| {{flagicon|ESP}}
+| RB / RWB
+| {{Birth date and age|df=yes|1999|9|13}}
+|-
+| 33
+| [[Ben Davies (footballer, born 1993)|Ben Davies]] ''(Third Captain)''
+| {{flagicon|WAL}}
+| CB / LB
+| {{Birth date and age|df=yes|1993|4|24}}
+|-
+| 37
+| [[Micky van de Ven]] ''[[Captain (association football)|(Captain)]]''
+| {{flagicon|NED}}
+| CB / LB
+| {{Birth date and age|df=yes|2001|4|19}}
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Midfielders
+|-
+| 7
+| [[Xavi Simons]]
+| {{flagicon|NED}}
+| AM / LW
+| {{Birth date and age|2003|4|21|df=yes}}
+|-
+| 8
+| [[Conor Gallagher]]
+| {{flagicon|ENG}}
+| CM / DM / AM
+| {{Birth date and age|df=yes|2000|2|6}}
+|-
+| 10
+| [[James Maddison]] ''(Fourth Captain)''
+| {{flagicon|ENG}}
+| AM / RW
+| {{Birth date and age|df=yes|1996|11|23}}
+|-
+| 14
+| [[Archie Gray]] ''(Fifth Captain)''
+| {{flagicon|ENG}}
+| DM / RB / CB / LB / CM
+| {{birth date and age|df=yes|2006|3|12}}
+|-
+| 15
+| [[Lucas Bergvall]]
+| {{flagicon|SWE}}
+| CM / AM
+| {{Birth date and age|2006|2|2|df=yes}}
+|-
+| 16
+| [[Sandro Tonali]]
+| {{flagicon|ITA}}
+| CM / DM
+| {{Birth date and age|2000|5|8|df=yes}}
+|-
+| 18
+| [[Mateus Fernandes (footballer)|Mateus Fernandes]]
+| {{flagicon|POR}}
+| CM / DM
+| {{Birth date and age|2004|7|10|df=yes}}
+|-
+| 30
+| [[Rodrigo Bentancur]]
+| {{flagicon|URU}}
+| DM / CM
+| {{Birth date and age|df=yes|1997|6|25}}
+|-
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Forwards
+|-
+| 9
+| [[Richarlison]]
+| {{flagicon|BRA}}
+| ST / LW 
+| {{Birth date and age|df=yes|1997|4|10}}
+|-
+| 11
+| [[Mathys Tel]]
+| {{flagicon|FRA}}
+| LW / RW / ST
+| {{Birth date and age|df=yes|2005|4|27}}
+|-
+| 17
+| [[Sávio (footballer, born 2004)|Sávio]]
+| {{flagicon|BRA}}
+| LW / RW
+| {{Birth date and age|df=yes|2004|4|10}}
+|-
+| 19
+| [[Dominic Solanke]]
+| {{flagicon|ENG}}
+| ST
+| {{Birth date and age|df=yes|1997|9|14}}
+|-
+| 20
+| [[Mohammed Kudus]]
+| {{flagicon|GHA}}
+| RW / AM / ST
+| {{Birth date and age|df=yes|2000|8|2}}
+|-
+| 21
+| [[Dejan Kulusevski]]
+| {{flagicon|SWE}}
+| AM / RW / ST
+| {{Birth date and age|df=yes|2000|4|25}}
+|-
+| 22
+| [[Omar Marmoush]]
+| {{flagicon|EGY}}
+| ST / LW
+| {{Birth date and age|df=yes|1999|2|7}}
+|-
+| 27
+| [[Mykhailo Mudryk]]
+| {{flagicon|UKR}}
+| LW
+| {{Birth date and age|df=yes|2001|1|5}}
+|-
+| 28
+| [[Wilson Odobert]]
+| {{flagicon|FRA}}
+| LW / RW / AM
+| {{Birth date and age|df=yes|2004|11|28}}
+|-
+! colspan="5" |Out on loan
+|-
+| 1
+| [[Guglielmo Vicario]]
+| {{flagicon|ITA}}
+| GK
+| {{Birth date and age|df=yes|1996|10|7}}
+|-
+| 25
+| [[Kōta Takai]]
+| {{flagicon|JPN}}
+| CB
+| {{Birth date and age|df=yes|2004|9|4}}
+|-
+| 29
+| [[Pape Matar Sarr]]
+| {{flagicon|SEN}}
+| CM / AM
+| {{Birth date and age|df=yes|2002|9|14}}
+|-
+| 38
+| [[Souza (footballer, born 2006)|Souza]]
+| {{flagicon|BRA}}
+| LB / RW
+| {{Birth date and age|df=yes|2006|6|16}}
+|-
+| {{N/A}}
+| [[Kevin Danso]]
+| {{flagicon|AUT}}
+| CB
+| {{Birth date and age|df=yes|1998|9|19}}
+|-
+| {{N/A}}
+| [[Radu Drăgușin]]
+| {{flagicon|ROU}}
+| CB
+| {{Birth date and age|df=yes|2002|2|3}}
+|-
+| {{N/A}}
+| [[Yang Min-hyeok]]
+| {{flagicon|KOR}}
+| RW / LW
+| {{Birth date and age|df=yes|2006|4|16}}
+|}
+{{Fb rs footer|u=2 July 2026|s=[https://www.tottenhamhotspur.com/teams/men/players/ Tottenham Hotspur F.C.]|date=July 2026}}
+
+== Transfers and contracts ==
+=== Released / out of contract ===
+{| class="wikitable nowrap" style="text-align:center" 
+|-
+! style="background:#FFFFFF; color:#081159; width:150px;" | Date from
+! style="background:#FFFFFF; color:#081159; width:50px;" | Pos.
+! style="background:#FFFFFF; color:#081159; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#081159; width:200px;" | Player
+! style="background:#FFFFFF; color:#081159; width:200px;" | Subsequent club
+! style="background:#FFFFFF; color:#081159; width:120px;" | Joined date
+! style="background:#FFFFFF; color:#081159; width:30px;" | Ref.
+|-
+| rowspan="11"| 30 June 2026 || [[Defender (association football)#Centre-back|CB]] || {{flagicon|ESP}} || Pele Arganese-McDermott || {{fbaicon|ENG}} [[Crawley Town F.C.|Crawley Town]] || rowspan="3"| 1 July 2026 || <ref name="Retained List">{{cite news |title=Men’s player update |url=https://www.tottenhamhotspur.com/news/1072684/mens-player-update |access-date=10 June 2026 |publisher=Tottenham Hotspur F.C. |date=10 June 2026}}</ref><ref>{{cite news |title=Reds Secure Pele Arganese-McDermott's Signature |url=https://www.crawleytownfc.com/news/2026/june/18/reds-secure-pele-arganese-mcdermott-s-signature/ |access-date=18 June 2026 |publisher=Crawley Town FC |date=18 June 2026}}</ref>
+|-
+| [[Midfielder#Defensive midfielder|CDM]] || {{flagicon|SCO}} || [[Matthew Craig]] || {{fbaicon|ENG}} [[Port Vale F.C.|Port Vale]] || <ref name="Retained List" /><ref>{{cite news |title=Matthew Craig is a Valiant |url=https://www.port-vale.co.uk/news/matthew-craig-valiant |access-date=24 June 2026 |publisher=Port Vale FC |date=24 June 2026}}</ref>
+|-
+| [[Forward (association football)#Winger|LW]] || {{flagicon|HUN}} || Leon Myrtaj || {{fbaicon|HUN}} [[Debreceni VSC|Debrecen]] || <ref name="Retained List" /><ref>{{cite news |title=A Tottenhamben nevelkedett fiatal játékost igazolt a DVSC |url=https://dvsc.hu/a-tottenhamben-nevelkedett-fiatal-jatekost-igazolt-a-dvsc/ |access-date=10 June 2026 |publisher=Debreceni VSC |date=30 May 2026}}</ref>
+|-
+| [[Defender (association football)#Centre-back|CB]] || {{flagicon|ENG}} || Elijah Upson || {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]] || 21 July 2026 || <ref name="Retained List" /><ref>{{cite news |title=Elijah Upson signs for Arsenal |url=https://www.arsenal.com/news/elijah-upson-signs-for-arsenal-aXZMS1u0ggbY |access-date=23 July 2026 |publisher=Arsenal FC |date=21 July 2026}}</ref>
+|-
+| [[Defender (association football)#Full-back|LB]] || {{flagicon|ENG}} || Calum Logan || {{fbaicon|ENG}} [[Reading F.C.|Reading]] || 24 August 2026 || <ref name="Retained List" /><ref>{{cite news |title=Under-21s confirm dual signing |url=https://www.readingfc.co.uk/news/2026/august/24/under-21s-confirm-dual-signing/ |access-date=24 August 2026 |publisher=Reading FC |date=24 August 2026}}</ref>
+|-
+| [[Midfielder#Defensive midfielder|CDM]] || {{flagicon|MLI}} || [[Yves Bissouma]] || {{fbaicon|NED}} [[AFC Ajax|Ajax]] || 16 September 2026 || <ref name="Retained List"/><ref>{{Cite web |url=https://english.ajax.nl/articles/ajax-signs-yves-bissouma/ |title=Ajax signs Yves Bissouma |date=2026-09-16| publisher=AFC Ajax }}</ref>
+|-
+| [[Midfielder#Defensive midfielder|CDM]] || {{flagicon|ENG}} || Leo Black || {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]] || 30 September 2026 || <ref name="Retained List" /><ref>{{cite news |title=Leo Black signs for Chelsea |url=https://www.chelseafc.com/en/news/article/leo-black-signs-for-chelsea?ssoc=1 |access-date=7 October 2026 |publisher=Chelsea FC |date=30 September 2026}}</ref>
+|-
+| [[Defender (association football)#Full-back|RB]] || {{flagicon|ENG}} || [[Tyrell Ashcroft]] || || || <ref name="Retained List" />
+|-
+| [[Midfielder#Defensive midfielder|CDM]] || {{flagicon|SLE}} || Samal Bangura || || || <ref name="Retained List" />
+|-
+| [[Midfielder#Defensive midfielder|CDM]] || {{flagicon|ENG}} || Jamel Beggs || || || <ref name="Retained List" />
+|-
+| [[Midfielder#Defensive midfielder|CDM]] || {{flagicon|JAM}} || [[Danté Cassanova]] || || || <ref name="Retained List" />
+|}
+
+=== In ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#081159; width:150px;" | Date from
+! style="background:#FFFFFF; color:#081159; width:50px;" | Pos.
+! style="background:#FFFFFF; color:#081159; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#081159; width:200px;" | Player
+! style="background:#FFFFFF; color:#081159; width:200px;" | From
+! style="background:#FFFFFF; color:#081159; width:110px;" | Fee
+! style="background:#FFFFFF; color:#081159; width:30px;" | Ref.
+|-
+| 18 June 2026
+| [[Defender (association football)#Centre-back|CB]]
+| {{flagicon|NED}}
+| [[Jan Paul van Hecke]]
+| {{fbaicon|ENG}} [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| £52,000,000
+| <ref>{{cite news |date=18 June 2026 |title=Van Hecke joins from Brighton |url=https://www.tottenhamhotspur.com/news/1073998/van-hecke-joins-from-brighton |access-date=18 June 2026 |publisher=Tottenham Hotspur F.C.}}</ref><ref>{{Cite web |last=Edwards |first=George |date=18 June 2026 |title=Tottenham complete £52million Jan Paul van Hecke transfer from Brighton |url=https://www.nytimes.com/athletic/7369508/2026/06/18/van-hecke-tottenham-transfers/ |access-date=18 June 2026 |publisher=The Athletic}}</ref>
+|-
+| 1 July 2026{{efn|The transfer was announced on 24 June, and became official on 1 July once Dúbravka's contract at Burnley expired.}}
+| [[Goalkeeper (association football)|GK]]
+| {{flagicon|SVK}}
+| [[Martin Dúbravka]]
+| {{fbaicon|ENG}} [[Burnley F.C.|Burnley]] || rowspan="3"| [[Free transfer (association football)|Free]] || <ref>{{cite news |title=Dubravka deal completed |url=https://www.tottenhamhotspur.com/news/1074879/dubravka-deal-completed |access-date=24 June 2026 |publisher=Tottenham Hotspur F.C. |date=24 June 2026}}</ref>
+|-
+| 1 July 2026{{efn|The transfer was announced on 5 June, and became official on 1 July once Robertson's contract at Liverpool expired.}}
+| [[Defender (association football)#Full-back|LB]]
+| {{flagicon|SCO}}
+| [[Andy Robertson]]
+| {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+| <ref>{{cite news |title=Robertson signing secured |url=https://www.tottenhamhotspur.com/news/1071931/robertson-signing-secured |access-date=7 June 2026 |publisher=Tottenham Hotspur F.C. |date=5 June 2026}}</ref>
+|-
+| 1 July 2026{{efn|The transfer was announced on 10 June, and became official on 1 July once Senesi's contract at Bournemouth expired.}}
+| [[Defender (association football)#Centre-back|CB]]
+| {{flagicon|ARG}}
+| [[Marcos Senesi]]
+| {{fbaicon|ENG}} [[AFC Bournemouth|Bournemouth]]
+| <ref>{{cite news |title=Senesi switch sealed|url=https://www.tottenhamhotspur.com/news/1072863/senesi-switch-sealed |access-date=10 June 2026 |publisher=Tottenham Hotspur F.C. |date=10 June 2026}}</ref>
+|-
+| 2 July 2026
+| [[Midfielder#Central midfielder|CM]]
+| {{flagicon|POR}}
+| [[Mateus Fernandes (footballer)|Mateus Fernandes]]
+| {{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+| £85,000,000
+|nowrap| <ref>{{cite news |date=2 July 2026|title=Welcome, Mateus! Fernandes signs |url=https://www.tottenhamhotspur.com/news/1076042/mateus-fernandes-signs|access-date=2 July 2026|publisher=Tottenham Hotspur F.C.}}</ref><ref>{{cite news |last=Young|first=Alex|date= 2 July 2026 |title=Tottenham announce £85m Mateus Fernandes signing as transfer record smashed|url=https://uk.sports.yahoo.com/news/tottenham-announce-85m-mateus-fernandes-091701737.html|access-date=2 July 2026|website=Yahoo Sports}}</ref>
+|-
+| 6 July 2026
+| [[Midfielder#Defensive midfielder|CDM]] 
+| {{flagicon|ITA}}
+| [[Sandro Tonali]]
+| {{fbaicon|ENG}} [[Newcastle United F.C.|Newcastle United]]
+| £92,500,000{{efn|A potential further £7,500,000 in add-ons.}} 
+|nowrap| <ref>{{cite news |title=Welcome, Sandro! Tonali makes the move to N17 |url=https://www.tottenhamhotspur.com/news/1076467/welcome-sandro-tonali-makes-the-move-to-n17 |access-date=6 July 2026 |publisher=Tottenham Hotspur F.C. |date=6 July 2026}}</ref><ref>{{cite news |title=Sandro Tonali's first words after sealing £100m Tottenham transfer from Newcastle |url=https://www.express.co.uk/sport/football/2225591/sandro-tonali-first-words-tottenham-transfer |access-date=6 July 2026 |publisher=Daily Express |date=6 July 2026}}</ref>
+|-
+| 7 July 2026
+| [[Midfielder#Attacking midfielder|CAM]]
+| {{flagicon|ENG}}
+| Cole Ramsey
+| {{fbaicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+| Free
+| <ref>{{cite news |title=Ramsey joins Under-21s |url=https://www.tottenhamhotspur.com/news/1076777/academy-ramsey-joins-under-21s |access-date=7 July 2026 |publisher=Tottenham Hotspur F.C. |date=7 July 2026}}</ref>
+|-
+| 27 July 2026
+| [[Defender (association football)#Centre-back|CB]]
+| {{flagicon|FIN}}
+| Maxwell Adedeji
+| {{fbaicon|ENG}} [[Leicester City F.C.|Leicester City]]
+| Free
+| <ref>{{cite news |title=Adedeji joins Under-21s |url=https://www.tottenhamhotspur.com/news/1080227/adedeji-joins-under-21s |access-date=27 July 2026 |publisher=Tottenham Hotspur F.C. |date=27 July 2026}}</ref>
+|-
+| 25 August 2026
+| [[Midfielder#Winger|RW]] 
+| {{flagicon|BRA}}
+| [[Sávio (footballer, born 2004)|Sávio]]
+| {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| £75,000,000{{efn|A potential further £10,000,000 in add-ons.}} 
+|nowrap| <ref>{{cite news |date=25 August 2026 |title=Sávio joins from Manchester City |url=https://www.tottenhamhotspur.com/news/1086712/savio-joins-from-manchester-city |access-date=25 August 2026 |publisher=Tottenham Hotspur F.C.}}</ref><ref>{{cite news |last=Mokbel |first=Sami |date=21 August 2026 |title=Tottenham transfer news: Savinho £75m fee agreed with Man City |url=https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo |access-date=21 August 2026 |work=BBC Sport}}</ref>
+|-
+| 28 August 2026
+| [[Goalkeeper (association football)|GK]]
+| {{flagicon|ENG}}
+| Jacob Knightbridge
+| {{fbaicon|ENG}} [[Oxford United F.C.|Oxford United]]
+| Free
+| <ref>{{cite news |title=Knightbridge joins Under-21s |url=https://www.tottenhamhotspur.com/news/1087331/academy-knightbridge-joins-under-21s |access-date=28 August 2026 |publisher=Tottenham Hotspur F.C. |date=28 August 2026}}</ref>
+|-
+| 1 September 2026
+| [[Defender (association football)#Centre-back|CB]]
+| {{flagicon|ENG}}
+| [[Tosin Adarabioyo]]
+| {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| £7,000,000
+| <ref>{{cite news |title=Welcome Tosin! Adarabioyo joins from Chelsea |url=https://www.tottenhamhotspur.com/news/1088054/welcome-tosin-adarabioyo-joins-from-chelsea |access-date=1 September 2026 |publisher=Tottenham Hotspur F.C. |date=1 September 2026}}</ref>
+|-
+| 3 September 2026
+| [[Midfielder#Defensive midfielder|CDM]] 
+| {{flagicon|GHA}}
+| Kwasi Senyah
+| {{fbaicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| Free
+| <ref>{{cite news |title=Senyah joins Academy |url=https://www.tottenhamhotspur.com/news/1088266/senyah-joins-academy |access-date=3 September 2026 |publisher=Tottenham Hotspur F.C. |date=3 September 2026}}</ref>
+|}
+{{notelist}}
+Total expenditure: {{Decrease}} £311.5&nbsp;million
+
+=== Out ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#081159; width:150px;" | Date from
+! style="background:#FFFFFF; color:#081159; width:50px;" | Pos.
+! style="background:#FFFFFF; color:#081159; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#081159; width:200px;" | Player
+! style="background:#FFFFFF; color:#081159; width:200px;" | To
+! style="background:#FFFFFF; color:#081159; width:110px;" | Fee
+! style="background:#FFFFFF; color:#081159; width:30px;" | Ref.
+|-
+| 1 July 2026
+| [[Forward (association football)#Centre forward|CF]]
+| {{flagicon|ARG}}
+| [[Alejo Véliz (footballer)|Alejo Véliz]]
+| {{fbaicon|BRA}} [[Esporte Clube Bahia|Bahia]]
+| £7,800,000{{efn|A potential further £871,000 in add-ons.}}
+|nowrap| <ref>{{cite news |title=Bahia move for Veliz |url=https://www.tottenhamhotspur.com/news/1075238/bahia-move-for-veliz|access-date=26 June 2026 |publisher=Tottenham Hotspur F.C. |date=26 June 2026}}</ref><ref>{{cite news |title=Alejo Veliz set to finalize £8m transfer to Bahia|url=https://sports.yahoo.com/articles/alejo-veliz-set-finalize-8m-131206033.html|access-date=26 June 2026 |website=Yahoo Sports |date=26 June 2026}}</ref>
+|-
+| 7 July 2026
+| [[Midfielder#Attacking midfielder|CAM]]
+| {{flagicon|ENG}}
+| [[Alfie Devine]]
+| {{fbaicon|ENG}} [[Preston North End F.C.|Preston North End]]
+| £4,500,000{{efn|A potential further £1,500,000 in add-ons.}}
+| <ref>{{cite news |title=Preston switch for Alfie |url=https://www.tottenhamhotspur.com/news/1076787/preston-switch-for-alfie |access-date=7 July 2026 |publisher=Tottenham Hotspur F.C. |date=7 July 2026}}</ref><ref>{{cite news |title=Preston North End medical underway for £6m statement signing |url=https://uk.sports.yahoo.com/news/preston-north-end-medical-underway-123950584.html |access-date=7 July 2026 |website=Yahoo Sports |date=7 July 2026}}</ref>
+|-
+| 14 July 2026
+| [[Defender (association football)#Centre-back|CB]]
+| {{flagicon|CRO}}
+| [[Luka Vušković]]
+| {{fbaicon|ENG}} [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| £46,000,000{{efn|A potential further £4,000,000 in add-ons.}}
+|nowrap| <ref>{{cite news |title=Vuskovic departs |url=https://www.tottenhamhotspur.com/news/1078172/vuskovic-departs|access-date=14 July 2026 |publisher=Tottenham Hotspur F.C. |date=14 July 2026}}</ref><ref>{{cite news |title=Luka Vuskovic joins Brighton from Tottenham|url=https://uk.sports.yahoo.com/news/luka-vuskovic-joins-brighton-tottenham-092500930.html|access-date=14 July 2026 |website=Yahoo Sports |date=14 July 2026}}</ref>
+|-
+| 20 July 2026
+| [[Forward (association football)#Winger|LW]]
+| {{flagicon|ENG}}
+| [[Tynan Thompson]]
+| {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| £4,000,000{{efn|A potential further £4,000,000 in add-ons.}}
+|nowrap| <ref>{{cite news |title=United switch for Tynan |url=https://www.tottenhamhotspur.com/news/1079069/united-switch-for-tynan|access-date=20 July 2026 |publisher=Tottenham Hotspur F.C. |date=20 July 2026}}</ref><ref>{{cite news |title=Manchester United confirm the signing of £8m star |url=https://eplindex.com/148569/manchester-united-confirm-the-signing-of-8m-star.html |access-date=20 July 2026 |website=EFL Index |date=20 July 2026}}</ref>
+|-
+| 22 July 2026
+| [[Forward (association football)#Centre forward|CF]]
+| {{flagicon|ENG}}
+| [[Will Lankshear]]
+| {{fbaicon|ENG}} [[Middlesbrough F.C.|Middlesbrough]] || £10,000,000{{efn|A potential further £10,000,000 with performance-related add-ons.}} 
+| <ref>{{cite news |title=Lankshear on the move to Boro |url=https://www.tottenhamhotspur.com/news/1079320/lankshear-on-the-move-to-boro |access-date=22 July 2026 |publisher=Tottenham Hotspur F.C. |date=22 July 2026}}</ref><ref>{{cite news |title=Tottenham striker Will Lankshear set to join Middlesbrough |url=https://sports.yahoo.com/articles/tottenham-striker-lankshear-set-join-051000414.html |access-date=22 July 2026 |website=Yahoo Sports |date=22 July 2026}}</ref>
+|-
+| 10 August 2026
+| [[Forward (association football)#Winger|LW]]
+| {{flagicon|ISR}}
+| [[Manor Solomon]]
+| {{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+| £5,000,000{{efn|A potential further £2,000,000 in add-ons.}}
+| <ref>{{cite news |title=Manor moves to West Ham |url=https://www.tottenhamhotspur.com/news/1083585/manor-moves-to-west-ham |access-date=10 August 2026 |publisher=Tottenham Hotspur F.C. |date=10 August 2026}}</ref><ref>{{cite news |title=Solomon swaps Tottenham for West Ham in £7m transfer |url=https://www.beinsports.com/en-us/soccer/championship/articles/solomon-swaps-tottenham-for-west-ham-in-7m-transfer-2026-08-10 |access-date=10 August 2026 |website=beIN Sports |date=10 August 2026}}</ref>
+|-
+| rowspan="3" | 15 August 2026
+| [[Defender (association football)#Centre-back|CB]]
+| {{flagicon|ENG}}
+| [[Ashley Phillips]]
+| {{fbaicon|ENG}} [[Middlesbrough F.C.|Middlesbrough]]
+| £7,000,000{{efn|A potential further £13,000,000 in add-ons.}} 
+| <ref>{{cite news |date=15 August 2026 |title=Phillips joins Middlesbrough |url=https://www.tottenhamhotspur.com/news/1085616/phillips-joins-middlesbrough |access-date=15 August 2026 |publisher=Tottenham Hotspur F.C.}}</ref><ref>{{cite news |last=Imber |first=Leon |date=15 August 2026 |title=Tottenham’s Ashley Phillips joins Middlesbrough in permanent deal|url=https://www.nytimes.com/athletic/7514976/2026/08/15/tottenham-transfers-ashley-phillips-middlesbrough-fee/ |access-date=15 August 2026 |publisher=The Athletic}}</ref>
+|-
+| [[Defender (association football)#Centre-back|CB]]
+| {{flagicon|ARG}}
+| [[Cristian Romero]]
+| {{fbaicon|ESP}} [[Atlético Madrid]]
+| £34,200,000
+| <ref>{{cite news |date=15 August 2026 |title=Romero moves to Atletico Madrid |url=https://www.tottenhamhotspur.com/news/1085511/romero-moves-to-atletico-madrid |access-date=15 August 2026 |publisher=Tottenham Hotspur F.C.}}</ref><ref>{{cite news |last=Mokbel |first=Sami |date=12 August 2026 |title=Tottenham transfer news: Atletico Madrid agree deal for Tottenham's Cristian Romero |url=https://www.bbc.co.uk/sport/football/articles/cy8e2vx2l30o |access-date=15 August 2026 |work=BBC Sport}}</ref>
+|-
+| [[Defender (association football)#Full-back|RB]]
+| {{flagicon|ENG}}
+| [[Djed Spence]]
+| {{fbaicon|ITA}} [[Inter Milan]]
+| £30,000,000
+| <ref>{{cite news |title=Spence departs for Inter |url=https://www.tottenhamhotspur.com/news/1085709/spence-departs-for-inter |access-date=15 August 2026 |publisher=Tottenham Hotspur F.C. |date=15 August 2026}}</ref><ref>{{cite news |title=Tottenham defender completes £30m Inter Milan move |url=https://www.skysports.com/football/news/12691/13573504/djed-spence-transfer-news-tottenham-defender-completes-30m-inter-milan-move |access-date=15 August 2026 |publisher=Sky Sports |date=15 August 2026}}</ref>
+|-
+| 1 September 2026
+| [[Forward (association football)#Centre forward|CF]]
+| {{flagicon|ENG}}
+| [[Dane Scarlett]]
+| {{fbaicon|ENG}} [[Leyton Orient F.C.|Leyton Orient]]
+| Undisclosed 
+| <ref>{{cite news |title=Scarlett departs  |url=https://www.tottenhamhotspur.com/news/1088060/scarlett-departs |access-date=2 September 2026 |publisher=Tottenham Hotspur F.C. |date=2 September 2026}}</ref>
+|}
+{{notelist}}
+
+Total income: {{Increase}} £148.5&nbsp;million
+
+=== Loaned in ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#081159; width:150px;" | Date from
+! style="background:#FFFFFF; color:#081159; width:50px;" | Pos.
+! style="background:#FFFFFF; color:#081159; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#081159; width:200px;" | Player
+! style="background:#FFFFFF; color:#081159; width:200px;" | From
+! style="background:#FFFFFF; color:#081159; width:110px;" | Date until
+! style="background:#FFFFFF; color:#081159; width:30px;" | Ref.
+|-
+| 27 August 2026
+| FW
+| {{flagicon|EGY}}
+| [[Omar Marmoush]]
+| {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| End of season
+|nowrap| <ref>{{cite news |date=27 August 2026 |title=Ahlan wa sahlan (welcome), Omar! Marmoush arrives on loan |url=https://www.tottenhamhotspur.com/news/1087177/omar-marmoush-arrives-on-loan |access-date=27 August 2026 |publisher=Tottenham Hotspur F.C.}}</ref>
+|-
+| 1 September 2026
+| LW
+| {{flagicon|UKR}}
+| [[Mykhailo Mudryk]]
+| {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| End of season
+|nowrap| <ref>{{cite news |date=1 September 2026 |title=Mudryk arrives on loan |url=https://www.tottenhamhotspur.com/news/1088045/mudryk-arrives-on-loan|access-date=1 September 2026 |publisher=Tottenham Hotspur F.C.}}</ref>
+|}
+
+=== Loaned out ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#081159; width:150px;" | Date from
+! style="background:#FFFFFF; color:#081159; width:50px;" | Pos.
+! style="background:#FFFFFF; color:#081159; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#081159; width:200px;" | Player
+! style="background:#FFFFFF; color:#081159; width:200px;" | To
+! style="background:#FFFFFF; color:#081159; width:140px;" | Loaned until
+! style="background:#FFFFFF; color:#081159; width:30px;" | Ref.
+|-
+| 1 July 2026
+| [[Goalkeeper (association football)|GK]]
+| {{flagicon|ENG}}
+| Luca Gunter
+| {{fbaicon|ENG}} [[Boreham Wood F.C.|Boreham Wood]]
+| 22 October 2026{{Efn|On 22 October, Gunter was recalled back from his initial season-long loan at Boreham Wood.}}
+| <ref>{{cite news |title=Gunter loaned to Boreham Wood |url=https://www.tottenhamhotspur.com/news/1075941/gunter-loaned-to-boreham-wood |access-date=1 July 2026 |publisher=Tottenham Hotspur F.C. |date=1 July 2026}}</ref><ref>{{cite news |title=Luca returns from loan |url=https://www.tottenhamhotspur.com/news/1179947/academy-luca-returns-from-loan |access-date=25 October 2026 |publisher=Tottenham Hotspur FC |date=22 October 2026}}</ref>
+|-
+| 8 July 2026
+| [[Defender (association football)#Centre-back|CB]]
+| {{flagicon|ROU}}
+| [[Radu Drăgușin]]
+| {{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+| End of season{{efn|name=OB|Includes an obligation to make the move permanent if specific performance-based criteria is met.}}
+| <ref>{{cite news |title=Dragusin joins Fiorentina |url=https://www.tottenhamhotspur.com/news/1076954/dragusin-joins-fiorentina |access-date=8 July 2026 |publisher=Tottenham Hotspur F.C. |date=8 July 2026}}</ref>
+|-
+| 11 July 2026
+| [[Forward (association football)#Winger|RW]]
+| {{flagicon|MAR}}
+| [[Yusuf Akhamrich]]
+| {{fbaicon|ENG}} [[Leyton Orient F.C.|Leyton Orient]]
+| End of season
+| <ref>{{cite news |title=Orient loan for Akhamrich |url=https://www.tottenhamhotspur.com/news/1077531/orient-loan-for-akhamrich |access-date=11 July 2026 |publisher=Tottenham Hotspur F.C. |date=11 July 2026}}</ref>
+|-
+| rowspan="2" | 4 August 2026
+| [[Goalkeeper (association football)|GK]]
+| {{flagicon|ENG}}
+| Blake Irow
+| {{fbaicon|ENG}} [[Cheshunt F.C.|Cheshunt]]
+| rowspan="2" | 1 September 2026
+| <ref>{{cite news |title=Cheshunt stint for Blake |url=https://www.tottenhamhotspur.com/news/1081426/academy-cheshunt-stint-for-blake |access-date=5 August 2026 |publisher=Tottenham Hotspur F.C. |date=4 August 2026}}</ref>
+|-
+| [[Goalkeeper (association football)|GK]]
+| {{flagicon|ENG}}
+| Dylan Thompson
+| {{fbaicon|ENG}} [[Enfield Town F.C.|Enfield Town]]
+| <ref>{{cite news |title=Dylan set for spell at Enfield Town |url=https://www.tottenhamhotspur.com/news/1081467/academy-dylan-set-for-spell-at-enfield-town |access-date=5 August 2026 |publisher=Tottenham Hotspur F.C. |date=4 August 2026}}</ref>
+|-
+| 5 August 2026 
+| [[Forward (association football)#Centre forward|CF]]
+| {{flagicon|IRL}}
+| [[Mason Melia]]
+| {{fbaicon|ENG}} [[Lincoln City F.C.|Lincoln City]]
+| End of season
+| <ref>{{cite news |title=Lincoln loan for Melia |url=https://www.tottenhamhotspur.com/news/1081608/lincoln-loan-for-melia |access-date=5 August 2026 |publisher=Tottenham Hotspur F.C. |date=5 August 2026}}</ref>
+|-
+| 7 August 2026
+| [[Midfielder#Central midfielder|CM]]
+| {{flagicon|ENG}}
+| [[Reiss-Alexander Russell-Denny]]
+| {{fbaicon|ENG}} [[Bristol Rovers F.C.|Bristol Rovers]]
+| End of season
+| <ref>{{cite news |title=Bristol Rovers loan for Russell-Denny |url=https://www.tottenhamhotspur.com/news/1082045/academy-bristol-rovers-loan-for-russell-denny |access-date=7 August 2026 |publisher=Tottenham Hotspur F.C. |date=7 August 2026}}</ref>
+|-
+| 12 August 2026
+| [[Forward (association football)#Winger|LW]]
+| {{flagicon|KOR}}
+| [[Yang Min-hyeok]]
+| {{fbaicon|BEL}} [[K.V.C. Westerlo|Westerlo]]
+| End of season
+| <ref>{{cite news |title=Loan move for Yang |url=https://www.tottenhamhotspur.com/news/1084291/loan-move-for-yang |access-date=12 August 2026 |publisher=Tottenham Hotspur F.C. |date=12 August 2026}}</ref>
+|-
+| 18 August 2026
+| [[Goalkeeper (association football)|GK]]
+| {{flagicon|ITA}}
+| [[Guglielmo Vicario]]
+| {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+| End of season{{efn|Option to make the move permanent.}}
+| <ref>{{cite news |title=Juventus loan for Vicario |url=https://www.tottenhamhotspur.com/news/1086109/juventus-loan-for-vicario |access-date=18 August 2026 |publisher=Tottenham Hotspur F.C. |date=18 August 2026}}</ref>
+|-
+| 24 August 2026 
+| [[Forward (association football)#Winger|RW]]
+| {{flagicon|ENG}}
+| [[Oliver Irow]]
+| {{fbaicon|ENG}} [[Plymouth Argyle F.C.|Plymouth Argyle]]
+| End of season
+| <ref>{{cite news |title=Plymouth loan for Irow |url=https://www.tottenhamhotspur.com/news/1086672/plymouth-loan-for-irow |access-date=24 August 2026 |publisher=Tottenham Hotspur F.C. |date=24 August 2026}}</ref>
+|-
+| 29 August 2026
+| [[Midfielder#Attacking midfielder|CAM]]
+| {{flagicon|NIR}}
+| [[Jamie Donley]]
+| {{fbaicon|ENG}} [[Luton Town F.C.|Luton Town]]
+| End of season
+| <ref>{{cite news |title=Luton loan for Donley |url=https://www.tottenhamhotspur.com/news/1087522/luton-loan-for-donley |access-date=29 August 2026 |publisher=Tottenham Hotspur F.C. |date=29 August 2026 }}</ref>
+|-
+| 31 August 2026
+| [[Forward (association football)#Winger|RW]]
+| {{flagicon|ENG}}
+| [[Mikey Moore]]
+| {{fbaicon|GER}} [[1. FC Köln]]
+| End of season
+| <ref>{{cite news |title=Mikey joins Köln on loan |url=https://www.tottenhamhotspur.com/news/1087833/mikey-joins-koln-on-loan |access-date=1 September 2026 |publisher=Tottenham Hotspur F.C. |date=31 August 2026}}</ref>
+|-
+| 31 August 2026
+| [[Defender (association football)#Full-back|LB]]
+| {{flagicon|BRA}} 
+| [[Souza (footballer, born 2006)|Souza]]
+| {{fbaicon|POR}} [[FC Porto|Porto]]
+| End of season
+| <ref>{{cite news |title=FC Porto loan for Souza |url=https://www.tottenhamhotspur.com/news/1087836/fc-porto-loan-for-souza |access-date=1 September 2026 |publisher=Tottenham Hotspur F.C. |date=31 August 2026}}</ref>
+|-
+| 1 September 2026
+| [[Midfielder#Central midfielder|CM]]
+| {{flagicon|SEN}}
+| [[Pape Matar Sarr]]
+| {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+| End of season{{efn|name=OB}}
+| <ref>{{cite news |title=Juve loan for Pape |url=https://www.tottenhamhotspur.com/news/1088003/juve-loan-for-pape |access-date=1 September 2026 |publisher=Tottenham Hotspur F.C. |date=1 September 2026}}</ref>
+|-
+| 1 September 2026
+| [[Defender (association football)#Centre-back|CB]] 
+| {{flagicon|JPN}}
+| [[Kōta Takai]]
+| {{fbaicon|BEL}} [[Sint-Truidense VV|Sint-Truidense]]
+| End of season
+| <ref>{{cite news |title=Takai joins Sint-Truidense VV on loan |url=https://www.tottenhamhotspur.com/news/1087933/takai-joins-sint-truidense-vv-on-loan |access-date=1 September 2026 |publisher=Tottenham Hotspur F.C. |date=1 September 2026}}</ref>
+|-
+| 1 September 2026
+| [[Defender (association football)#Centre-back|CB]] 
+| {{flagicon|AUT}}
+| [[Kevin Danso]]
+| {{fbaicon|ENG}} [[Sunderland A.F.C.|Sunderland]]
+| End of season
+| <ref>{{cite news |date=1 September 2026 |title=Kevin Danso joins Sunderland AFC on loan |url=https://www.safc.com/news/2026/september/01/kevin-danso-joins-sunderland-afc-on-loan/ |access-date=1 September 2026 |publisher=Sunderland A.F.C.}}</ref>
+|-
+| 1 September 2026
+| [[Midfielder#Central midfielder|CM]]
+| {{flagicon|ENG}}
+| [[George Abbott (footballer, born August 2005)|George Abbott]]
+| {{fbaicon|ENG}} [[Mansfield Town F.C.|Mansfield Town]]
+| End of season
+| <ref>{{cite news |date=1 September 2026 |title=Mansfield loan for Abbott |url=https://www.tottenhamhotspur.com/news/1088042/academy-mansfield-loan-for-george-abbott |access-date=1 September 2026 |publisher=Tottenham Hotspur F.C.}}</ref>
+|-
+| 1 September 2026
+| [[Forward (association football)#Winger|LW]]
+| {{flagicon|NGA}}
+| [[Damola Ajayi]]
+| {{fbaicon|ENG}} [[Barnet F.C.|Barnet]]
+| End of season
+| <ref>{{cite news |title=Barnet loan for Ajayi |url=https://www.tottenhamhotspur.com/news/1088049/barnet-loan-for-ajayi |access-date=1 September 2026 |publisher=Tottenham Hotspur F.C. |date=1 September 2026}}</ref>
+|}
+{{notelist}}
+
+=== New contract ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#081159; width:150px;" | Date from
+! style="background:#FFFFFF; color:#081159; width:50px;" | Pos.
+! style="background:#FFFFFF; color:#081159; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#081159; width:200px;" | Player
+! style="background:#FFFFFF; color:#081159; width:200px;" | Contracted until
+! style="background:#FFFFFF; color:#081159; width:30px;" | Ref.
+|-
+| 9 June 2026
+| [[Defender (association football)#Full-back|LB]]
+| {{flagicon|ENG}}
+| Maeson King
+| Undisclosed
+| <ref>{{cite news |title=New deal for King |url=https://www.tottenhamhotspur.com/news/1072556/new-deal-for-king |access-date=9 June 2026 |publisher=Tottenham Hotspur F.C. |date=9 June 2026}}</ref>
+|-
+| 10 June 2026
+| [[Defender (association football)#Full-back|LB]]
+| {{flagicon|WAL}}
+| [[Ben Davies (footballer, born 1993)|Ben Davies]]
+| 30 June 2027
+| nowrap|<ref>{{cite news |date=10 June 2026 |title=New deal for Ben |url=https://www.tottenhamhotspur.com/news/1072669/new-deal-for-ben |access-date=10 June 2026 |publisher=Tottenham Hotspur F.C.}}</ref><ref>{{cite news |title=Tottenham defender Davies signs new one-year deal |url=https://sports.yahoo.com/articles/spurs-defender-davies-signs-one-072516491.html |access-date=10 June 2026 |website=Yahoo Sports |date=10 June 2026}}</ref>
+|-
+| 11 June 2026
+| [[Forward (association football)#Winger|RW]]
+| {{flagicon|ENG}}
+| Ronny Moncur 
+| Undisclosed 
+| <ref>{{cite news |title=Moncur signs new contract |url=https://www.tottenhamhotspur.com/news/1072894/academy-ronny-moncur-signs-new-contract |access-date=11 June 2026 |publisher=Tottenham Hotspur F.C. |date=11 June 2026}}</ref>
+|-
+| 14 June 2026
+| [[Defender (association football)#Full-back|RB]]
+| {{flagicon|ESP}}
+| [[Pedro Porro]] || 30 June 2031{{efn|Includes an option for a further year.}}
+| <ref>{{cite news |title=New deal for Pedro |url=https://www.tottenhamhotspur.com/news/1073566/new-deal-for-pedro |access-date=14 June 2026 |publisher=Tottenham Hotspur F.C. |date=14 June 2026}}</ref><ref>{{cite news |title=Tottenham handed huge boost as star commits future with new long-term contract |url=https://www.standard.co.uk/sport/football/tottenham-pedro-porro-new-contract-b1286037.html |access-date=14 June 2026 |publisher=The Standard |date=14 June 2026}}</ref>
+|-
+| rowspan="2"| 30 June 2026
+| [[Forward (association football)#Centre forward|CF]]
+| {{flagicon|GUY}}
+| [[Reiss Elliott-Parris]]
+| Undisclosed
+| <ref>{{cite news |title=New deal for Elliott-Parris |url=https://www.tottenhamhotspur.com/news/1075802/academy-new-deal-for-elliott-parris |access-date=30 June 2026 |publisher=Tottenham Hotspur F.C. |date=30 June 2026}}</ref>
+|-
+| [[Goalkeeper (association football)|GK]]
+| {{flagicon|CZE}}
+| [[Antonín Kinský (footballer, born 2003)|Antonín Kinský]]
+| 30 June 2032{{efn|Includes a club option for a further year.}}
+| <ref>{{cite news |title=New deal for Kinsky |url=https://www.tottenhamhotspur.com/news/1075699/new-deal-for-kinsky |access-date=30 June 2026 |publisher=Tottenham Hotspur F.C. |date=30 June 2026}}</ref><ref>{{cite news |title=Tottenham hand Kinsky new deal after Roberto De Zerbi makes decisive No.1 call |url=https://www.teamtalk.com/tottenham-hotspur/spurs-news-antonin-kinsky-new-contract-de-zerbi-keeper-decision-sources |access-date=30 June 2026 |website=TeamTalk |date=26 June 2026}}</ref>
+|-
+| 1 July 2026{{efn|The contract agreement was announced on 9 June, and came into effect on 1 July.}}
+| [[Forward (association football)#Centre forward|CF]]
+| {{flagicon|ENG}}
+| Oliver Boast
+| Undisclosed{{efn|name=fpc|First professional contract.}}
+| <ref>{{cite news |title=Boast turns professional |url=https://www.tottenhamhotspur.com/news/1072608/boast-turns-professional |access-date=9 June 2026 |publisher=Tottenham Hotspur F.C. |date=9 June 2026}}</ref>
+|-
+| 5 August 2026
+| [[Defender (association football)#Full-back|RB]]
+| {{flagicon|GER}}
+| [[Miracle Adewole]]
+| Undisclosed
+| <ref>{{cite news |title=New deal for Adewole |url=https://www.tottenhamhotspur.com/news/1081548/academy-new-deal-for-adewole |access-date=5 August 2026 |publisher=Tottenham Hotspur F.C. |date=5 August 2026}}</ref>
+|-
+| 7 August 2026
+| [[Midfielder#Central midfielder|CM]]
+| {{flagicon|ALB}}
+| Armend Muslika
+| Undisclosed
+| <ref>{{cite news |title=Muslika turns pro |url=https://www.tottenhamhotspur.com/news/1081915/academy-muslika-turns-pro |access-date=7 August 2026 |publisher=Tottenham Hotspur F.C. |date=7 August 2026}}</ref>
+|-
+| 10 August 2026
+| [[Defender (association football)#Centre-back|CB]]
+| {{flagicon|NED}}
+| [[Micky van de Ven]]
+| 30 June 2031
+| <ref>{{cite news |title=New deal for Micky van de Ven |url=https://www.tottenhamhotspur.com/news/1083617/new-deal-for-micky-van-de-ven |access-date=10 August 2026 |publisher=Tottenham Hotspur F.C. |date=10 August 2026}}</ref>
+|-
+| 11 September 2026
+| [[Midfielder#Central midfielder|CM]]
+| {{flagicon|SWE}}
+| [[Lucas Bergvall]]
+| Undisclosed
+| <ref>{{cite news |title=New deal for Bergvall |url=https://www.tottenhamhotspur.com/news/1089510/new-deal-for-bergvall |access-date=11 September 2026 |publisher=Tottenham Hotspur F.C. |date=11 September 2026}}</ref>
+|-
+| 17 September 2026
+| [[Defender (association football)#Centre-back|CB]]
+| {{flagicon|ENG}}
+| Tyler Tingey
+| Undisclosed
+| <ref>{{cite news |title=New deal for Tingey |url=https://www.tottenhamhotspur.com/news/1090480/academy-new-deal-for-tingey |access-date=17 September 2026 |publisher=Tottenham Hotspur F.C. |date=17 September 2026}}</ref>
+|-
+| 23 September 2026
+| [[Goalkeeper (association football)|GK]]
+| {{flagicon|ENG}}
+| Blake Irow
+| Undisclosed
+| <ref>{{cite news |title=New deal for Blake Irow |url=https://www.tottenhamhotspur.com/news/1092176/academy-new-deal-for-blake-irow |access-date=23 September 2026 |publisher=Tottenham Hotspur F.C. |date=23 September 2026}}</ref>
+|-
+| 27 October 2026 || [[Goalkeeper (association football)|GK]] || {{flagicon|ENG}} || Farren Doran || Undisclosed{{efn|name=fpc}} || <ref>{{cite news |title=Pro deal for Doran |url=https://www.tottenhamhotspur.com/news/1181350/academy-pro-deal-for-doran |access-date=27 October 2026 |publisher=Tottenham Hotspur FC |date=27 October 2026}}</ref>
+|}
+{{notelist}}
+
+==Pre-season and friendlies==
+On 7 December 2025, the club announced they would take part in the [[2026 Sydney Super Cup]] with matches against [[Sydney FC]] and [[Chelsea F.C.|Chelsea]].<ref>{{cite news |title=Club to visit Sydney on 2026 pre-season tour |url=https://www.tottenhamhotspur.com/news/2025/december/club-to-visit-sydney-on-2026-pre-season-tour/ |access-date=21 January 2026 |publisher=Tottenham Hotspur F.C. |date=7 December 2025}}</ref> In March, a pre-season tour to [[New Zealand]] was also announced with a fixture against [[Auckland FC]].<ref>{{cite news |title=Club to visit Auckland as part of 2026 Pre-Season Tour |url=https://www.tottenhamhotspur.com/news/2026/march/tottenham-hotspur-to-visit-auckland-as-part-of-2026-pre-season-tour/ |access-date=30 March 2026 |publisher=Tottenham Hotspur F.C. |date=29 March 2026}}</ref> On 12 June, a [[Behind closed doors (sport)|behind closed doors]] fixture against [[Milton Keynes Dons F.C.|Milton Keynes Dons]] was announced.<ref>{{cite news |title=Fourth pre-season fixture confirmed for Men's First Team |url=https://www.tottenhamhotspur.com/news/1073110/fourth-pre-season-fixture-confirmed-for-mens-first-team-mk-dons |access-date=12 June 2026 |publisher=Tottenham Hotspur F.C. |date=12 June 2026}}</ref> On 29 June, a home fixture against [[TSG 1899 Hoffenheim|TSG Hoffenheim]] was added to the schedule.<ref>{{cite news |title=Club announces pre-season friendlies against TSG 1899 Hoffenheim |url=https://www.tottenhamhotspur.com/news/1075555/club-announces-pre-season-friendlies-against-tsg-1899-hoffenheim |access-date=29 June 2026 |publisher=Tottenham Hotspur F.C. |date=29 June 2026}}</ref> On 5 July, a second [[Behind closed doors (sport)|behind closed doors]] fixture was added against [[Getafe CF|Getafe]].<ref>{{cite news |title=Getafe fixture added to pre-season schedule |url=https://www.tottenhamhotspur.com/news/1076377/getafe-fixture-added-to-pre-season-schedule |access-date=5 July 2026 |publisher=Tottenham Hotspur F.C. |date=5 July 2026}}</ref>
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{football box collapsible 
+| round      = [[Exhibition game#Club football|Friendly]]
+| date       = 22 July 2026
+| time       = 16:00 [[British Summer Time|BST]]
+| team1      = Tottenham Hotspur
+| score      = 1−0
+| report     = https://www.tottenhamhotspur.com/news/1079398/fernandes-off-to-a-flyer-against-mk-dons
+| team2      = [[Milton Keynes Dons F.C.|Milton Keynes Dons]]
+| goals1     = 
+*[[Mateus Fernandes (footballer)|Fernandes]] {{goal|3}}
+| goals2     = 
+| stadium    = Hotspur Way Training Centre
+| location   = [[Enfield, London|Enfield]]
+| attendance = 0 ([[Behind closed doors (sport)|Behind closed doors]])
+| referee    = Constantine Hatzidakis
+| result     = W
+}}
+{{football box collapsible 
+| round      = [[Exhibition game#Club football|Friendly]]
+| date       = 26 July 2026
+| time       = 15:30 [[New Zealand Standard Time|NZST]]
+| team1      = [[Auckland FC]]
+| score      = 0–2
+| report     = https://www.tottenhamhotspur.com/news/1080047/scarlett-and-richarlison-secure-victory-at-eden-park
+| team2      = Tottenham Hotspur
+| goals2     = 
+*[[Dane Scarlett|Scarlett]] {{goal|12}}
+*[[Richarlison]] {{goal|70}}
+| stadium    = [[Eden Park]]
+| location   = [[Auckland]], New Zealand
+| attendance = 40,112
+| referee    = [[Campbell-Kirk Kawana-Waugh]] ([[New Zealand Football|New Zealand]])
+| result     = W
+}}
+{{football box collapsible 
+| round      = [[2026 Sydney Super Cup|Sydney Super Cup]]
+| date       = 29 July 2026
+| time       = 19:45 [[Australian Eastern Standard Time|AEST]]
+| team1      = [[Sydney FC]]
+| score      = 1–1
+| report     = https://www.tottenhamhotspur.com/news/1080518/victory-on-penalties-after-tel-stunner-against-sydney
+| team2      = Tottenham Hotspur
+| goals1     = 
+*[[Alexandar Popović|A. Popović]] {{yel|37}}
+*[[Takahiro Sekine|Sekine]] {{goal|55}}
+| goals2     = 
+*[[Mathys Tel|Tel]] {{goal|29}}
+| penalties1 = 
+*[[Gabriel Popovic|G. Popovic]] {{pengoal}}
+*[[Al Hassan Touré|Touré]] {{pengoal}}
+*[[Joseph Lacey|Lacey]] {{penmiss}}
+*[[Alexandar Popović|A. Popović]] {{penmiss}}
+| penaltyscore = 2–4
+| penalties2 = 
+*{{pengoal}} [[Luca Williams-Barnett|Williams-Barnett]]
+*{{pengoal}} [[Sandro Tonali|Tonali]]
+*{{pengoal}} [[Andy Robertson|Robertson]]
+*{{penmiss}} [[Jamie Donley|Donley]]
+*{{pengoal}} [[Dane Scarlett|Scarlett]]
+| stadium    = [[Sydney Football Stadium (2022)|Allianz Stadium]]
+| location   = [[Sydney]], Australia
+| attendance = 26,216 
+| referee    = Adam Kersey
+| result     = D
+}}
+{{football box collapsible 
+| round      = [[2026 Sydney Super Cup|Sydney Super Cup]]
+| date       = 1 August 2026
+| time       = 19:45 [[Australian Eastern Standard Time|AEST]]
+| team1      = [[Chelsea F.C.|Chelsea]]
+| score      = 1−2 
+| report     = https://www.tottenhamhotspur.com/news/1081274/our-10-men-victorious-against-chelsea-in-sydney
+| team2      = Tottenham Hotspur
+| goals1     = 
+*[[Estêvão Willian|Estêvão]] {{goal|21}}
+| goals2     = 
+*[[Conor Gallagher|Gallagher]] {{yel|11}}
+*[[Sandro Tonali|Tonali]] {{goal|17}}
+*[[Kevin Danso|Danso]] {{sentoff|0|49}}
+*[[Richarlison]] {{goal|90+2}}
+| stadium    = [[Stadium Australia|Accor Stadium]]
+| location   = [[Sydney]], Australia
+| attendance = 80,363
+| referee    = [[Alex King (referee)|Alex King]]
+| result     = W 
+}}
+{{football box collapsible 
+| round      = [[Exhibition game#Club football|Friendly]]
+| date       = 8 August 2026
+| time       = 15:00 [[British Summer Time|BST]]
+| team1      = Tottenham Hotspur
+| score      = 1−1
+| report     = https://www.tottenhamhotspur.com/news/1082457/gallagher-strikes-as-its-honours-even-with-getafe
+| team2      = [[Getafe CF|Getafe]]
+| goals1     = 
+*[[Conor Gallagher|Gallagher]] {{goal|60}}
+| goals2     = 
+*[[Ebrahima Drammeh Jaiteh|Ebra]] {{yel|49}}
+*[[Alberto Risco|Risco]] {{goal|55}}
+| stadium    = Hotspur Way Training Centre
+| location   = [[Enfield, London|Enfield]]
+| attendance = 0 ([[Behind closed doors (sport)|Behind closed doors]])
+| referee    = Nick Hopton
+| result     = D
+}}
+{{football box collapsible 
+| round      = [[Exhibition game#Club football|Friendly]]
+| date       = 15 August 2026
+| time       = 15:00 [[British Summer Time|BST]]
+| team1      = Tottenham Hotspur
+| score      = 3−0
+| report     = https://www.tottenhamhotspur.com/news/1085662/moore-at-the-double-as-hoffenheim-defeated-in-n17
+| team2      = [[TSG 1899 Hoffenheim|TSG Hoffenheim]]
+| goals1     = 
+*[[Richarlison]] {{goal|35}}
+*[[Mikey Moore|Moore]] {{goal|59||80}}
+| goals2     = 
+| stadium    = [[Tottenham Hotspur Stadium]]
+| location   = [[Tottenham]]
+| attendance = 54,345
+| referee    = [[Stuart Attwell]]
+| result     = W
+}}
+{{football box collapsible 
+| round      = [[Exhibition game#Club football|Friendly]]
+| date       = 16 August 2026
+| time       = 12:00 [[British Summer Time|BST]]
+| team1      = Tottenham Hotspur
+| score      = 2−2
+| report     = https://www.tottenhamhotspur.com/news/1085827/maddison-returns-davies-and-williams-barnett-on-target-in-draw-against-hoffenheim
+| team2      = [[TSG 1899 Hoffenheim|TSG Hoffenheim]]
+| goals1     = 
+*[[Ben Davies (footballer, born 1993)|Davies]] {{goal|20}}
+*[[Luca Williams-Barnett|Williams-Barnett]] {{goal|45+2}}
+| goals2     = 
+*[[Adam Hložek|Hložek]] {{goal|16|pen.}}
+*[[Valentin Gendrey|Gendrey]] {{goal|55}}
+| stadium    = Hotspur Way Training Centre 
+| location   = [[Enfield, London|Enfield]]
+| attendance = 0 ([[behind closed doors (sport)|Behind closed doors]])
+| referee    = Ruebyn Ricardo
+| result     = D
+}}
+
+==Competitions==
+===Overview===
+{{Fb overview2
+|c=5
+|c1=[[2026–27 Premier League|Premier League]] |fm1=22 August 2026 |lm1=30 May 2027 |sr1=Matchday 1 |fp1=TBD |w1=2 |d1=3 |l1=3 |f1=8 |a1=10
+|c2=[[2026–27 FA Cup|FA Cup]] |fm2=8–11 January 2027 |lm2=TBD |sr2=Third round |fp2=TBD |w2=0 |d2=0 |l2=0 |f2=0 |a2=0
+|c3=[[2026–27 EFL Cup|EFL Cup]] |fm3=26 August 2026 |lm3=15 September 2026 |sr3=Second round |fp3=Third round |w3=1 |d3=0 |l3=1 |f3=6 |a3=4
+|u=24 October 2026
+|s=[https://tottenhamhotspur.com/teams/matches?season=3695&competition=-1 Tottenham Hotspur F.C.]
+}}
+
+===Premier League===
+{{main|2026–27 Premier League}}
+
+====League table====
+{{:2026–27 Premier League|showteam=TOT}}
+
+====Results summary====
+{{Fb_rs|hw=1|hd=1|hl=2|hgf=5|hga=6|aw=1|ad=2|al=1|agf=3|aga=4}}
+{{Fb_rs footer|u=24 October 2026|s=[https://int.soccerway.com/teams/england/tottenham-hotspur-football-club/675/ Soccerway]}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+| update=24 October 2026
+| header=Round
+| label1=Ground
+| res1= A/H/A/H/H/A/H/A/H/A/H/A/H/H/A/A/H/H/A/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A
+| label2=Result
+| res2= L/L/D/D/L/D/W/W/////////////////////////////
+| label3=Position
+| res3= 19/20/18/17/20/19/16/14//////////////////////////////
+| label4=Points
+| pos4= 0p/0p/1p/2p/2p/3p/6p/9p//////////////////////////////
+| color_W=green1|text_W=Win
+| color_D=yellow1|text_D=Draw
+| color_L=red1|text_L=Loss
+| color_P=lightgrey|text_P=Postponed
+| text_H=Home|text_A=Away
+| color_1=gold|color_2–4=green1|color_5=blue1|color_18–20=red1
+| source=[https://int.soccerway.com/teams/england/tottenham-hotspur-football-club/675/ Soccerway]
+}}
+
+====Matches====
+On 19 June 2026, the [[Premier League]] fixtures were released.<ref>{{cite news |title=Fixtures 2026/27 – list in full |url=https://www.tottenhamhotspur.com/news/1074144/fixtures-202627-list-in-full |access-date=19 June 2026 |publisher=Tottenham Hotspur F.C. |date=19 June 2026}}</ref>
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{football box collapsible
+| round = 1
+| date = 22 August 2026
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[Brentford F.C.|Brentford]]
+| score = 3–0
+| report = https://www.premierleague.com/en/match/2645196
+| team2 = Tottenham Hotspur
+| goals1 =
+*[[Keane Lewis-Potter|Lewis-Potter]] {{goal|12}}
+*[[Vitaly Janelt|Janelt]] {{goal|33}}, {{yel|78}}
+*[[Michael Kayode|Kayode]] {{goal|49}}
+*[[Igor Thiago|Thiago]] {{penmiss}} 55'
+| goals2 =
+*[[Conor Gallagher|Gallagher]] {{yel|34}}
+| stadium = [[Brentford Community Stadium]]
+| location = [[Brentford]]
+| attendance = 17,180
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = L
+}}
+{{football box collapsible
+| round = 2
+| date = 29 August 2026
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = Tottenham Hotspur
+| score = 0–2
+| report = https://www.premierleague.com/en/match/2645214
+| team2 = [[Newcastle United F.C.|Newcastle United]]
+| goals1 =
+*[[Micky van de Ven|Van de Ven]] {{yel|3}}
+| goals2 =
+*[[Nico González (footballer, born 2002)|González]] {{yel|13}}
+*[[Anthony Elanga|Elanga]] {{goal|62}}
+*[[Yoane Wissa|Wissa]] {{goal|72}}
+*[[Sven Botman|Botman]] {{yel|79}}
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance = 61,025
+| referee = [[Peter Bankes]]
+| result = L
+| note = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[Sky Sports]] broadcast.<ref name="AugSepTV">{{cite news |title=Fixture changes {{!}} August and September |url=https://www.tottenhamhotspur.com/news/1076768/fixture-changes-august-and-september |access-date=7 July 2026 |publisher=Tottenham Hotspur F.C. |date=7 July 2026}}</ref>
+}}
+{{football box collapsible
+| round = 3
+| date = 5 September 2026
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = [[Nottingham Forest F.C.|Nottingham Forest]]
+| score = 0–0
+| report = https://www.premierleague.com/en/match/2645224
+| team2 = Tottenham Hotspur
+| goals1 =
+*[[Nikola Milenković|Milenković]] {{yel|52}}
+*[[James McAtee|McAtee]] {{yel|78}}
+| goals2 =
+*[[Destiny Udogie|Udogie]] {{yel|45+1}}
+*[[Mateus Fernandes (footballer)|Fernandes]] {{yel|84}}
+| stadium = [[City Ground]]
+| location = [[West Bridgford]]
+| attendance = 30,686
+| referee = [[Craig Pawson]]
+| result = D
+}}
+{{football box collapsible
+| round = 4
+| date = 12 September 2026
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = Tottenham Hotspur
+| score = 0–0
+| report = https://www.premierleague.com/en/match/2645234
+| team2 = [[Everton F.C.|Everton]]
+| goals1 =
+| goals2 =
+*[[Kiernan Dewsbury-Hall|Dewsbury-Hall]] {{yel|68}}
+*[[James Garner (footballer, born 2001)|Garner]] {{yel|84}}
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance = 60,477
+| referee = [[Darren England]]
+| result = D
+| note = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[Sky Sports]] broadcast.<ref name="AugSepTV" />
+}}
+{{football box collapsible
+| round = 5
+| date = 19 September 2026
+| time = 12:30 [[British Summer Time|BST]]
+| team1 = Tottenham Hotspur
+| score = 2–3
+| report = https://www.premierleague.com/en/match/2645244
+| team2 = [[Aston Villa F.C.|Aston Villa]]
+| goals1 =
+*[[Jan Paul van Hecke|Van Hecke]] {{yel|45+7}}, {{goal|90+8}}
+*[[Conor Gallagher|Gallagher]] {{goal|86}}
+| goals2 =
+*[[Johan Manzambi|Manzambi]] {{goal|45+4}}
+*[[Nicolas Jackson|Jackson]] {{yel|46}}, {{goal|67}}
+*[[Emiliano Buendía|Buendía]] {{goal|79}}
+*[[Matty Cash|Cash]] {{yel|90+2}}
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance = 60,920
+| referee = [[Sam Barrott]]
+| result = L
+| note = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[TNT Sports (United Kingdom)|TNT Sports]] broadcast.<ref name="AugSepTV" />
+}}
+{{football box collapsible
+| round = 6
+| date = 10 October 2026
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[Manchester United F.C.|Manchester United]]
+| score = 1–1
+| report = https://www.premierleague.com/en/match/2645253
+| team2 = Tottenham Hotspur
+| goals1 =
+*[[Bryan Mbeumo|Mbeumo]] {{goal|73}}
+*[[Luke Shaw|Shaw]] {{yel|78}}
+*[[Bruno Fernandes|Fernandes]] {{yel|84}}
+*[[Lisandro Martínez|Martínez]] {{yel|87}}
+*[[Diogo Dalot|Dalot]] {{yel|90+6}}
+| goals2 =
+*[[Conor Gallagher|Gallagher]] {{yel|4}}
+*[[Rodrigo Bentancur|Bentancur]] {{sent off|0|78}}
+*[[Jan Paul van Hecke|Van Hecke]] {{yel|78}}
+*[[Dominic Solanke|Solanke]] {{goal|90+2}}
+*[[Archie Gray|Gray]] {{yel|90+8}}
+| stadium = [[Old Trafford]]
+| location = [[Trafford]]
+| attendance = 74,129
+| referee = [[Stuart Attwell]]
+| result = D
+| note = Fixture was initially scheduled for a 15:00 kick-off, but was moved for live [[Sky Sports]] broadcast.<ref name="OctTVPicks">{{cite news |title=Fixture changes {{!}} October |url=https://www.tottenhamhotspur.com/news/1085973/fixture-changes-october |access-date=17 August 2026 |publisher=Tottenham Hotspur F.C. |date=17 August 2026}}</ref>
+}}
+
+{{football box collapsible
+| round = 7
+| date = 19 October 2026
+| time = 20:00 [[British Summer Time|BST]]
+| team1 = Tottenham Hotspur
+| score = 3–1
+| report = https://www.premierleague.com/en/match/2645264
+| team2 = [[Coventry City F.C.|Coventry City]]
+| goals1 =
+*[[James Maddison|Maddison]] {{goal|14}}
+*[[Dominic Solanke|Solanke]] {{yel|22}}
+*[[Omar Marmoush|Marmoush]] {{goal|58}}
+*[[Ben Davies (footballer, born 1993)|Davies]] {{goal|90+6}}
+| goals2 =
+*[[Caleb Yirenkyi|Yirenkyi]] {{yel|20}}
+*[[Jay Dasilva|Dasilva]] {{yel|45}}
+*[[Jack Rudoni|Rudoni]] {{goal|49}}, {{yel|64}}
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance = 60,913
+| referee = [[Andy Madley]]
+| result = W
+| note = Fixture was initially scheduled for 17 October, but was rescheduled for live [[Sky Sports]] broadcasting.<ref name="OctTVPicks" />
+}}
+{{football box collapsible
+| round = [[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|8]]
+| date = 24 October 2026
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[Chelsea F.C.|Chelsea]]
+| score = 0–2
+| report = https://www.premierleague.com/en/match/2645267
+| team2 = Tottenham Hotspur
+| goals1 =
+*[[Cole Palmer|Palmer]] {{sentoff|2|71|80}}
+*[[Pedro Neto|Neto]] {{yel|79}}
+*[[Morgan Rogers|Rogers]] {{yel|90+1}}
+| goals2 =
+*[[Conor Gallagher|Gallagher]] {{yel|67}}
+*[[Micky van de Ven|Van de Ven]] {{yel|71}}
+*[[Mateus Fernandes (footballer)|Fernandes]] {{yel|72}}
+*[[Mike Penders|Penders]] {{goal|77|o.g.}}
+*[[Mathys Tel|Tel]] {{goal|87}}
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| location = [[Fulham]]
+| attendance =
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+| note = Fixture was initially scheduled for a 15:00 kick-off, but was pushed back for live [[Sky Sports]] broadcasting.<ref name="OctTVPicks" />
+}}
+{{football box collapsible
+| round = 9
+| date = 31 October 2026
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645284
+| team2 = [[Crystal Palace F.C.|Crystal Palace]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result =
+| note = Fixture was initially scheduled for a 15:00 kick-off, but was pushed back for live [[Sky Sports]] broadcasting.<ref name="OctTVPicks" />
+}}
+{{football box collapsible
+| round = 10
+| date = 7 November 2026
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Leeds United F.C.|Leeds United]]
+| score =
+| report = http://premierleague.com/en/match/2645291
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Elland Road]]
+| location = [[Leeds]]
+| attendance =
+| referee =
+| result =
+| note = Fixture was initially scheduled for a 15:00 kick-off, but was brought forward for live [[TNT Sports (United Kingdom)|TNT Sports]] broadcasting.<ref name="NovTVPicks">{{cite news |title=Premier League fixture changes {{!}} November |url=https://www.tottenhamhotspur.com/news/1091527/premier-league-fixture-changes-november-2026 |access-date=22 September 2026 |publisher=Tottenham Hotspur FC |date=21 September 2026}}</ref>
+}}
+{{football box collapsible
+| round = 11
+| date = 21 November 2026
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645304
+| team2 = [[Ipswich Town F.C.|Ipswich Town]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 12
+| date = 29 November 2026
+| time = 14:05 [[Greenwich Mean Time|GMT]]
+| team1 = [[Sunderland A.F.C.|Sunderland]]
+| score =
+| report = https://www.premierleague.com/en/match/2645314
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Stadium of Light]]
+| location = [[Sunderland]]
+| attendance =
+| referee =
+| result =
+| note = Fixture was initially scheduled for 28 November, but was pushed back a day for live [[Sky Sports]] broadcasting.<ref name="NovTVPicks" />
+}}
+{{football box collapsible
+| round = 13
+| date = 3 December 2026
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645324
+| team2 = [[Fulham F.C.|Fulham]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+| note = Fixture was initially scheduled for 2 December, but was pushed back a day for live [[Sky Sports]] broadcasting.<ref name="DecTVPicks">{{cite news |title=Fixture changes {{!}} December |url=https://www.tottenhamhotspur.com/news/1179123/fixture-changes-december |access-date=19 October 2026 |publisher=Tottenham Hotspur FC |date=19 October 2026}}</ref>
+}}
+{{football box collapsible
+| round = [[North London derby|14]]
+| date = 6 December 2026
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645334
+| team2 = [[Arsenal F.C.|Arsenal]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+| note = Fixture was initially scheduled for 5 December, but was pushed back a day for live [[Sky Sports]] broadcasting.<ref name="DecTVPicks" />
+}}
+{{football box collapsible
+| round = 15
+| date = 14 December 2026
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Hull City A.F.C.|Hull City]]
+| score =
+| report = https://www.premierleague.com/en/match/2645340
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[MKM Stadium]]
+| location = [[Kingston upon Hull]]
+| attendance =
+| referee =
+| result =
+| note = Fixture was initially scheduled for 12 December, but was pushed back two days for live [[Sky Sports]] broadcasting.<ref name="DecTVPicks" />
+}}
+{{football box collapsible
+| round = 16
+| date = 19 December 2026
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Liverpool F.C.|Liverpool]]
+| score =
+| report = https://www.premierleague.com/en/match/2645351
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance =
+| referee =
+| result =
+| note = Fixture was initially scheduled for a 15:00 kick-off, but was pushed back for live [[Sky Sports]] broadcasting.<ref name="DecTVPicks" />
+}}
+{{football box collapsible
+| round = 17
+| date = 26 December 2026
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645364
+| team2 = [[AFC Bournemouth|Bournemouth]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 18
+| date = 29 December 2026
+| time = 19:30 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645374
+| team2 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+| note = Fixture was initially scheduled for 30 December, but was brought forward a day for live [[Sky Sports]] broadcasting.<ref name="DecJanTV">{{cite news |title=Fixture changes {{!}} Festive period |url=https://www.tottenhamhotspur.com/news/1089387/fixture-changes-festive-period |access-date=10 September 2026 |publisher=Tottenham Hotspur F.C. |date=10 September 2026}}</ref>
+}}
+{{football box collapsible
+| round = 19
+| date = 3 January 2027
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Manchester City F.C.|Manchester City]]
+| score =
+| report = https://www.premierleague.com/en/match/2645382
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Etihad Stadium]]
+| location = [[Manchester]]
+| attendance =
+| referee =
+| result =
+| note = Fixture was initially scheduled for 2 January, but was pushed back a day for live [[Sky Sports]] broadcasting.<ref name="DecJanTV" />
+}}
+{{football box collapsible
+| round = 20
+| date = 6 January 2027
+| time = 19:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Fulham F.C.|Fulham]]
+| score =
+| report = https://www.premierleague.com/en/match/2645389
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Craven Cottage]]
+| location = [[Fulham]]
+| attendance =
+| referee =
+| result =
+| note = Fixture was initially scheduled for a 15:00 kick-off, but was brought pushed back for live [[Sky Sports]] broadcasting.<ref name="DecJanTV" />
+}}
+{{football box collapsible
+| round = 21
+| date = 16 January 2027
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645404
+| team2 = [[Leeds United F.C.|Leeds United]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 22
+| date = 23 January 2027
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Crystal Palace F.C.|Crystal Palace]]
+| score =
+| report = https://www.premierleague.com/en/match/2645407
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Selhurst Park]]
+| location = [[Selhurst]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 23
+| date = 30 January 2027
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645424
+| team2 = [[Sunderland A.F.C.|Sunderland]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 24
+| date = 6 February 2027
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Ipswich Town F.C.|Ipswich Town]]
+| score =
+| report = https://www.premierleague.com/en/match/2645430
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Portman Road]]
+| location = [[Ipswich]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 25
+| date = 10 February 2027
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645444
+| team2 = [[Manchester City F.C.|Manchester City]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 26
+| date = 20 February 2027
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| score =
+| report = https://www.premierleague.com/en/match/2645448
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Falmer Stadium]]
+| location = [[Brighton and Hove]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 27
+| date = 27 February 2027
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645464l
+| team2 = [[Liverpool F.C.|Liverpool]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 28
+| date = 3 March 2027
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[AFC Bournemouth|Bournemouth]]
+| score =
+| report = https://www.premierleague.com/en/match/2645465
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Dean Court]]
+| location = [[Bournemouth]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 29
+| date = 13 March 2027
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645484
+| team2 = [[Nottingham Forest F.C.|Nottingham Forest]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 30
+| date = 20 March 2027
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Everton F.C.|Everton]]
+| score =
+| report = https://www.premierleague.com/en/match/2645488
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Hill Dickinson Stadium]]
+| location = [[Liverpool]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 31
+| date = 10 April 2027
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645504
+| team2 = [[Brentford F.C.|Brentford]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 32
+| date = 17 April 2027
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = [[Newcastle United F.C.|Newcastle United]]
+| score =
+| report = https://www.premierleague.com/en/match/2645513
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[St James' Park]]
+| location = [[Newcastle upon Tyne]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 33
+| date = 24 April 2027
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645524
+| team2 = [[Hull City A.F.C.|Hull City]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = [[North London derby|34]]
+| date = 1 May 2027
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = [[Arsenal F.C.|Arsenal]]
+| score =
+| report = https://www.premierleague.com/en/match/2645525
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Emirates Stadium]]
+| location = [[Holloway, London|Holloway]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = [[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|35]]
+| date = 8 May 2027
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645544
+| team2 = [[Chelsea F.C.|Chelsea]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 36
+| date = 15 May 2027
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = [[Coventry City F.C.|Coventry City]]
+| score =
+| report = https://www.premierleague.com/en/match/2645548
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Coventry Building Society Arena]]
+| location = [[Coventry]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 37
+| date = 23 May 2027
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = Tottenham Hotspur
+| score =
+| report = https://www.premierleague.com/en/match/2645564
+| team2 = [[Manchester United F.C.|Manchester United]]
+| goals1 =
+| goals2 =
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance =
+| referee =
+| result =
+}}
+{{football box collapsible
+| round = 38
+| date = 30 May 2027
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = [[Aston Villa F.C.|Aston Villa]]
+| score =
+| report = https://www.premierleague.com/en/match/2645566
+| team2 = Tottenham Hotspur
+| goals1 =
+| goals2 =
+| stadium = [[Villa Park]]
+| location = [[Birmingham]]
+| attendance =
+| referee =
+| result =
+}}
+
+===FA Cup===
+{{main|2026–27 FA Cup}}
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+===EFL Cup===
+{{main|2026–27 EFL Cup}}
+
+''Spurs'' entered the EFL Cup in the second round, and were drawn at home to [[Charlton Athletic F.C.|Charlton Athletic]].<ref>{{cite news |title=Charlton at home in Carabao Cup second round |url=https://www.tottenhamhotspur.com/news/1083594/charlton-in-carabao-cup-second-round-draw-2026-27 |access-date=11 August 2026 |publisher=Tottenham Hotspur F.C. |date=10 August 2026}}</ref><ref>{{cite news |title=Spurs vs Charlton, Carabao Cup {{!}} Date and KO time confirmed |url=https://www.tottenhamhotspur.com/news/1084493/spurs-vs-charlton-carabao-cup-date-and-ko-time-confirmed |access-date=14 August 2026 |publisher=Tottenham Hotspur F.C. |date=12 August 2026}}</ref> They were then drawn away to [[Liverpool F.C.|Liverpool]] in the third round.<ref>{{cite news |title=Liverpool away in the Carabao Cup third round |url=https://www.tottenhamhotspur.com/news/1087005/liverpool-away-in-the-carabao-cup-third-round |access-date=27 August 2026 |publisher=Tottenham Hotspur F.C. |date=26 August 2026}}</ref><ref>{{cite news |title=Date, kick-off time and ticket news |url=https://www.tottenhamhotspur.com/news/1087444/date-kick-off-time-and-ticket-news-liverpool-vs-spurs-carabao-cup |access-date=28 August 2026 |publisher=Tottenham Hotspur F.C. |date=28 August 2026}}</ref>
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{football box collapsible
+| round      = [[2026–27 EFL Cup#Second round|Second round]]
+| date       = 26 August 2026
+| time       = 19:45 [[British Summer Time|BST]]
+| team1      = Tottenham Hotspur
+| score      = 5–1
+| report     = https://www.efl.com/match-centre/g2679898
+| team2      = [[Charlton Athletic F.C.|Charlton Athletic]]
+| goals1     = 
+*[[Lucas Bergvall|Bergvall]] {{yel|24}}
+*[[Mikey Moore|Moore]] {{goal|41}}
+*[[Dominic Solanke|Solanke]] {{goal|45}}
+*[[Kevin Danso|Danso]] {{goal|67}}
+*[[Sávio (footballer, born 2004)|Sávio]] {{goal|82}}
+*[[Ben Davies (footballer, born 1993)|Davies]] {{goal|85}}
+| goals2     = 
+*[[Rob Apter|Apter]] {{yel|45+2}}
+*[[Lloyd Jones (English footballer)|Jones]] {{goal|87}}
+| stadium    = [[Tottenham Hotspur Stadium]]
+| location   = [[Tottenham]]
+| attendance = 49,008
+| referee    = Adam Herczeg
+| result     = W
+}}
+{{football box collapsible
+| round      = [[2026–27 EFL Cup#Third round|Third round]]
+| date       = 15 September 2026
+| time       = 20:00 [[British Summer Time|BST]]
+| team1      = [[Liverpool F.C.|Liverpool]]
+| score      = 3–1
+| report     = https://www.efl.com/match-centre/g2685175
+| team2      = Tottenham Hotspur
+| goals1     = 
+*[[Alexis Mac Allister|Mac Allister]] {{goal|21}}
+*[[Ronald Araújo|Araújo]] {{yel|36}}
+*[[Jeremie Frimpong|Frimpong]] {{yel|40}}
+*[[Cody Gakpo|Gakpo]] {{goal|54}}
+*[[Milos Kerkez|Kerkez]] {{yel|75}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|90+1}}
+| goals2     = 
+*[[Omar Marmoush|Marmoush]] {{yel|41}}
+*[[Rodrigo Bentancur|Bentancur]] {{yel|45+3}}
+*[[Conor Gallagher|Gallagher]] {{goal|69}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 60,169
+| referee    = [[Andy Madley]]
+| result     = L
+| note       = Fixture was initially scheduled for 16 September, but was brought forward a day due to scheduling clashes.<ref>{{cite news |title=Liverpool Carabao Cup tie rescheduled |url=https://www.tottenhamhotspur.com/news/1087817/liverpool-carabao-cup-tie-rescheduled-efl-statement |access-date=31 August 2026 |publisher=Tottenham Hotspur F.C. |date=31 August 2026}}</ref>
+}}
+
+==Statistics==
+===Appearances and goals===
+{{updated|match played 24 October 2026}}
+Players with no appearances are not included on the list; ''italics'' indicate a loaned in player
+{| class="wikitable sortable" style="text-align:center"
+|-
+!rowspan="2"|{{Abbr|No.|Squad number}}
+!rowspan="2"| {{Abbr|Pos.|Position}}
+!rowspan="2"|Player
+!colspan="2" style="width:85px;"|[[2026–27 Premier League|Premier League]]
+!colspan="2" style="width:85px;"|[[2026–27 FA Cup|FA Cup]]
+!colspan="2" style="width:85px;"|[[2026–27 EFL Cup|EFL Cup]]
+!colspan="2" style="width:85px;"|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+| 3 || DF || align="left" | {{flagicon|SCO}} [[Andy Robertson]]
+|| 6+1 || 0 || 0 || 0 || 0+1 || 0 || 6+2 || 0
+|-
+| 4 || DF || align="left" | {{flagicon|ENG}} [[Tosin Adarabioyo]]
+|| 1+1 || 0 || 0 || 0 || 1 || 0 || 2+1 || 0
+|-
+| 4 || DF || align="left" | {{flagicon|AUT}} [[Kevin Danso]]
+|| 0 || 0 || 0 || 0 || 0+1 || 1 || 0+1 || 1
+|-
+| 5 || DF || align="left" | {{flagicon|ARG}} [[Marcos Senesi]]
+|| 2 || 0 || 0 || 0 || 1 || 0 || 3 || 0
+|-
+| 6 || DF || align="left" | {{flagicon|NED}} [[Jan Paul van Hecke]]
+|| 8 || 1 || 0 || 0 || 1 || 0 || 9 || 1
+|-
+| 8 || MF || align="left" | {{flagicon|ENG}} [[Conor Gallagher]]
+|| 4+2 || 1 || 0 || 0 || 1 || 1 || 5+2 || 2
+|-
+| 9 || FW || align="left" | {{flagicon|BRA}} [[Richarlison]]
+|| 1 || 0 || 0 || 0 || 0 || 0 || 1 || 0
+|-
+| 10 || MF || align="left" | {{flagicon|ENG}} [[James Maddison]]
+|| 2+4 || 1 || 0 || 0 || 0+1 || 0 || 2+5 || 1
+|-
+| 11 || FW || align="left" | {{flagicon|FRA}} [[Mathys Tel]]
+|| 4+2 || 1 || 0 || 0 || 2 || 0 || 6+2 || 1
+|-
+| 13 || DF || align="left" | {{flagicon|ITA}} [[Destiny Udogie]]
+|| 2+2 || 0 || 0 || 0 || 2 || 0 || 4+2 || 0
+|-
+| 14 || MF || align="left" | {{flagicon|ENG}} [[Archie Gray]]
+|| 6+1 || 0 || 0 || 0 || 2 || 0 || 7+1 || 0
+|-
+| 15 || MF || align="left" | {{flagicon|SWE}} [[Lucas Bergvall]]
+|| 2+2 || 0 || 0 || 0 || 2 || 0 || 4+2 || 0
+|-
+| 16 || MF || align="left" | {{flagicon|ITA}} [[Sandro Tonali]]
+|| 8 || 0 || 0 || 0 || 0 || 0 || 8 || 0
+|-
+| 17 || FW || align="left" | {{flagicon|BRA}} [[Sávio (footballer, born 2004)|Sávio]]
+|| 4 || 0 || 0 || 0 || 0+2 || 1 || 4+2 || 1
+|-
+| 18 || MF || align="left" | {{flagicon|POR}} [[Mateus Fernandes (footballer)|Mateus Fernandes]]
+|| 4+4 || 0 || 0 || 0 || 1+1 || 0 || 5+5 || 0
+|-
+| 19 || FW || align="left" | {{flagicon|ENG}} [[Dominic Solanke]]
+|| 4+4 || 1 || 0 || 0 || 1+1 || 1 || 5+5 || 2
+|-
+| 20 || FW || align="left" | {{flagicon|GHA}} [[Mohammed Kudus]]
+|| 3+4 || 0 || 0 || 0 || 1 || 0 || 4+4 || 0
+|-
+| 21 || MF || align="left" | {{flagicon|SWE}} [[Dejan Kulusevski]]
+|| 0+2 || 0 || 0 || 0 || 0 || 0 || 0+2 || 0
+|-
+| 22 || FW || align="left" | {{flagicon|EGY}} [[Omar Marmoush]]
+|| 6+1 || 1 || 0 || 0 || 1 || 0 || 7+1 || 1
+|-
+| 23 || DF || align="left" | {{flagicon|ESP}} [[Pedro Porro]]
+|| 3+1 || 0 || 0 || 0 || 0+1 || 0 || 3+2 || 0
+|-
+| 27 || DF || align="left" | {{flagicon|UKR}} [[Mykhailo Mudryk]]
+|| 0+1 || 0 || 0 || 0 || 0 || 0 || 0+1 || 0
+|-
+| 30 || MF || align="left" | {{flagicon|URU}} [[Rodrigo Bentancur]]
+|| 4+2 || 0 || 0 || 0 || 2 || 0 || 6+2 || 0
+|-
+| 31 || GK || align="left"| {{flagicon|CZE}} [[Antonín Kinský (footballer, born 2003)|Antonín Kinský]]
+|| 8 || 0 || 0 || 0 || 1 || 0 || 9 || 0
+|-
+| 33 || DF || align="left"| {{flagicon|WAL}} [[Ben Davies (footballer, born 1993)|Ben Davies]]
+|| 0+2 || 1 || 0 || 0 || 1 || 1 || 1+2 || 2
+|-
+| 37 || DF || align="left"| {{flagicon|NED}} [[Micky van de Ven]]
+|| 6+1 || 0 || 0 || 0 || 0+1 || 0 || 6+2 || 0
+|-
+| 39 || GK || align="left"| {{flagicon|SVK}} [[Martin Dúbravka]]
+|| 0 || 0 || 0 || 0 || 1 || 0 || 1 || 0
+|-
+| 47 || FW || align="left"| {{flagicon|ENG}} [[Mikey Moore]]
+|| 1+1 || 0 || 0 || 0 || 1 || 1 || 2+1 || 1
+|-
+| 68 || FW || align="left"| {{flagicon|ENG}} [[Lucá Williams-Barnett]]
+|| 0 || 0 || 0 || 0 || 0+1 || 0 || 0+1 || 0
+|}
+{{Fb rs footer|s=[https://www.premierleague.com/en/stats/top/players?statMetric=appearances&season=2026&team=6 Premier League]|date=September 2026}}
+
+===Disciplinary===
+{{updated|match played 24 October 2026}}
+''The list is sorted by squad number when total cards are equal.''
+{| class="wikitable sortable" style="text-align:center"
+|-
+!rowspan="2"|Rank
+!rowspan="2"| {{Abbr|Pos.|Position }}
+!rowspan="2"|{{Abbr|No.|Squad number}}
+!rowspan="2"|Player
+!colspan="3" style="width:85px;"|[[2026–27 Premier League|Premier League]]
+!colspan="3" style="width:85px;"|[[2026–27 FA Cup|FA Cup]]
+!colspan="3" style="width:85px;"|[[2026–27 EFL Cup|EFL Cup]]
+!colspan="3" style="width:85px;"|Total
+|-
+!{{yel}}
+!{{sentoff|2}}
+!{{sentoff|0}}
+!{{yel}}
+!{{sentoff|2}}
+!{{sentoff|0}}
+!{{yel}}
+!{{sentoff|2}}
+!{{sentoff|0}}
+!{{yel}}
+!{{sentoff|2}}
+!{{sentoff|0}}
+|-
+! rowspan="1" | 1
+| MF || 30 || {{flagicon|URU}} [[Rodrigo Bentancur]] || 0 || 0 || 1 || 0 || 0 || 0 || 1 || 0 || 0 || 1 || 0 || 1
+|-
+! rowspan="1" | 2
+| MF || 8 || {{flagicon|ENG}} [[Conor Gallagher]] || 3 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 3 || 0 || 0
+|-
+! rowspan="3" | 3
+| DF || 6 || {{flagicon|NED}} [[Jan Paul van Hecke]] || 2 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 2 || 0 || 0
+|-
+| MF || 18 || {{flagicon|POR}} [[Mateus Fernandes (footballer)|Mateus Fernandes]] || 2 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 2 || 0 || 0
+|-
+| DF || 37 || {{flagicon|NED}} [[Micky van de Ven]] || 2 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 2 || 0 || 0
+|-
+! rowspan="5" | 6
+| FW || 9 || {{flagicon|ENG}} [[Dominic Solanke]] || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0
+|-
+| DF || 13 || {{flagicon|ITA}} [[Destiny Udogie]] || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0
+|-
+| DF || 14 || {{flagicon|ENG}} [[Archie Gray]] || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0
+|-
+| MF || 15 || {{flagicon|SWE}} [[Lucas Bergvall]] || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 1 || 0 || 0
+|-
+| FW || 22 || {{flagicon|EGY}} [[Omar Marmoush]] || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 1 || 0 || 0
+|-
+!colspan="4"|Totals
+! 12 !! 0 !! 1 !! 0 !! 0 !! 0 !! 3 !! 0 !! 0 !! 15 !! 0 !! 1
+|}
+{{Fb rs footer|s=[https://www.premierleague.com/en/stats/top/players?statMetric=yellowCards&season=2026&team=6 Premier League]|date=September 2026}}
+
+===Clean sheets===
+{{updated|match played 24 October 2026}}
+''The list is sorted by squad number when total clean sheets are equal.''
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!width=10|Rank
+!width=10|{{Abbr|No.|Squad number}}
+!width=200|Player
+!width:85px;"|[[2026–27 Premier League|Premier League]]
+!width:85px;"|[[2026–27 FA Cup|FA Cup]]
+!width:85px;"|[[2026–27 EFL Cup|EFL Cup]]
+!width:85px;"|Total
+|-
+! 1
+| 31 || {{flagicon|CZE}} [[Antonín Kinský (footballer, born 2003)|Antonín Kinský]] || 3 || 0 || 0 || 3
+|-
+!colspan="3"|Totals
+!3!!0!!0!!3
+|}
+{{Fb rs footer|s=[https://www.premierleague.com/en/stats/top/players?statMetric=cleanSheets&season=2026&team=6 Premier League]|date=September 2026}}
+
+==References==
+{{reflist}}
+
+{{Tottenham Hotspur F.C.}}
+{{Tottenham Hotspur F.C. seasons}}
+{{2026–27 in English men's football}}
+
+{{DEFAULTSORT:2026-27 Tottenham Hotspur F.C. season}}
+[[Category:Tottenham Hotspur F.C. seasons]]
+[[Category:2026–27 Premier League by team|Tottenham Hotspur]]
+[[Category:2026 in sport in London|Tottenham Hotspur]]
+[[Category:2027 in sport in London|Tottenham Hotspur]]

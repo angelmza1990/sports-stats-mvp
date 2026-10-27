@@ -1,0 +1,3199 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox football club season
+|club               = [[Liverpool F.C.|Liverpool]]
+|season             = [[2021–22 in English football|2021–22]]
+|image              = File:Manchester United v Liverpool, 24 October 2021 (05).jpg
+|image_size         = 300px
+|alt                =
+|caption            = Liverpool players during their Premier League match away to [[Manchester United F.C.|Manchester United]], which they won 5–0.
+|ownertitle         =
+|owner              = [[Fenway Sports Group]]
+|chrtitle           =
+|chairman           = [[Tom Werner]]
+|mgrtitle           =
+|manager            = [[Jürgen Klopp]]
+|stdtitle           =
+|stadium            = [[Anfield]]
+|league             = [[Premier League]]
+|league result      = [[2021–22 Premier League|2nd]]
+|cup1               = [[FA Cup]]
+|cup1 result        = '''[[2021–22 FA Cup|Winners]]'''
+|cup2               = [[EFL Cup]]
+|cup2 result        = '''[[2021–22 EFL Cup|Winners]]'''
+|cup3               = [[UEFA Champions League]]
+|cup3 result        = [[2021–22 UEFA Champions League|Runners-up]]
+|league topscorer   = <br>[[Mohamed Salah]] (23)
+|season topscorer   = <br>Mohamed Salah (31)
+|pattern_la1        = _liverpool2122H
+|pattern_b1         = _liverpool2122H
+|pattern_ra1        = _liverpool2122H
+|pattern_sh1        = _liverpool2122H
+|pattern_so1        = _liverpool2122H
+|leftarm1           = DD0000
+|body1              = DD0000
+|rightarm1          = DD0000
+|shorts1            = DD0000
+|socks1             = DD0000
+|pattern_la2        = _liverpool2122A
+|pattern_b2         = _liverpool2122A
+|pattern_ra2        = _liverpool2122A
+|pattern_sh2        = _liverpool2122A
+|pattern_so2        = _liverpool2122A
+|leftarm2           = ECE2D9
+|body2              = ECE2D9
+|rightarm2          = ECE2D9
+|shorts2            = 000000
+|socks2             = ECE2D9
+|pattern_la3        = _liverpool2122t
+|pattern_b3         = _liverpool2122t
+|pattern_ra3        = _liverpool2122t
+|pattern_sh3        = _liverpool2122t
+|pattern_so3        = _liverpool2122t
+|leftarm3           = FFDD00
+|body3              = FFDD00
+|rightarm3          = FFDD00
+|shorts3            = FFDD00
+|socks3             = FFDD00
+|prevseason         = [[2020–21 Liverpool F.C. season|2020–21]]
+|nextseason         = [[2022–23 Liverpool F.C. season|2022–23]]
+}}
+The '''2021–22 season''' was '''[[Liverpool F.C.|Liverpool Football Club]]''''s [[List of Liverpool F.C. seasons|130th season]] in existence and their 60th consecutive season in the [[English football league system|top flight]] of [[Football in England|English football]]. Liverpool were on course to winning a unique quadruple, as they won a record-breaking ninth [[2021–22 EFL Cup|EFL Cup]] and the [[2021–22 FA Cup|FA Cup]], beating [[Chelsea F.C.|Chelsea]] on penalties in both finals. However, they lost the [[2021–22 Premier League|Premier League]] title by one point to [[Manchester City F.C.|Manchester City]], and – in a repeat of the [[2018 UEFA Champions League final|2018 final]] – lost the [[2022 UEFA Champions League final|Champions League final]] to [[Real Madrid CF|Real Madrid]]. This was the first season since [[2015–16 Liverpool F.C. season|2015–16]] without [[Georginio Wijnaldum]], who departed to [[Paris Saint-Germain F.C.|Paris Saint-Germain]] and the first since [[2017–18 Liverpool F.C. season|2017–18]] without [[Xherdan Shaqiri]], who departed to [[Olympique Lyonnais|Lyon]].
+
+==Season overview==
+Liverpool excelled in both the [[FA Cup]] and [[EFL Cup]], beating [[Chelsea F.C.|Chelsea]] in both finals on penalties after both matches ended in goalless draws. On the final day of the season, Liverpool faced [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] at [[Anfield]], while their title challengers Manchester City faced [[Aston Villa F.C.|Aston Villa]] at the [[City of Manchester Stadium|Etihad Stadium]]. Liverpool found themselves 0–1 down early in the match, however, City were also a goal down to Villa. [[Sadio Mané]] levelled the scoreline for Liverpool, and their title hopes were kept alive by the fact that City were now 0–2 down. However, City went on to score three goals in five minutes to take the lead and, despite [[Mohamed Salah]] and [[Andy Robertson]] scoring two late goals to beat Wolves 3–1, it was not enough and the Reds were pipped to the title by a point. Meanwhile in the [[UEFA Champions League]], despite being drawn in a group with [[Atlético Madrid]], [[AC Milan]] and [[FC Porto|Porto]], Liverpool made history by becoming the first English club to win all six group stage matches. They advanced all the way to [[2022 UEFA Champions League final|the final]] where they took on [[Real Madrid CF|Real Madrid]], as they had done [[2018 UEFA Champions League final|four years earlier]]. In [[Paris]], the same city in which the Reds won the European Cup against Madrid in [[1981 European Cup final|1981]], they lost 0–1 as [[Vinícius Júnior]] scored the only goal of the game for ''Los Blancos''.
+
+==First-team squad==
+
+{| class="wikitable sortable" style="font-size:90%; white-space:nowrap;"
+|-
+! style="background:#d50000; color:white; text-align:center;"| No.
+! style="background:#d50000; color:white; text-align:center;"| Player
+! style="background:#d50000; color:white; text-align:center;"| Nationality
+! style="background:#d50000; color:white; text-align:center;"| Date of birth (age)
+! style="background:#d50000; color:white; text-align:center;"| Signed from
+! style="background:#d50000; color:white; text-align:center;"| Apps
+! style="background:#d50000; color:white; text-align:center;"| Goals
+! style="background:#d50000; color:white; text-align:center;"| Assists
+|-
+! colspan="10" style="background:#d50000; color:white; text-align:center" | '''Goalkeepers'''
+|-
+| 1
+| [[Alisson Becker]]
+| {{flagicon|Brazil}}
+| {{Birth date and age2|df=yes|2022|6|30|1992|10|2}}
+| {{fbaicon|ITA}} [[AS Roma|Roma]]
+| 184
+| 1
+| 2
+|-
+| 13
+| [[Adrián (footballer)|Adrián]]
+| {{flagicon|Spain}}
+| {{Birth date and age2|df=yes|2022|6|30|1987|01|03}}
+| {{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+| 25
+| 0
+| 0
+|-
+| 22
+| [[Loris Karius]]
+| {{flagicon|Germany}}
+| {{Birth date and age2|df=yes|2022|6|30|1993|06|22}}
+| {{fbaicon|GER}} [[1. FSV Mainz 05|Mainz 05]]
+| 49
+| 0
+| 0
+|-
+| 62
+| [[Caoimhín Kelleher]]
+| {{flagicon|Ireland}}
+| {{Birth date and age2|df=yes|2022|6|30|1998|11|23}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 17
+| 0
+| 0
+|-
+| 97
+| [[Marcelo Pitaluga]]
+| {{flagicon|Brazil}}
+| {{Birth date and age2|df=yes|2022|6|30|2002|12|20}}
+| {{fbaicon|BRA}} [[Fluminense FC|Fluminense]]
+| 0
+| 0
+| 0
+|-
+! colspan="10" style="background:#d50000; color:white; text-align:center" |'''Defenders'''
+|-
+| 4
+| [[Virgil van Dijk]] ''([[Captain (association football)#Vice-captain|3rd captain]])''
+| {{flagicon|Netherlands}}
+| {{Birth date and age2|df=yes|2022|6|30|1991|7|8}}
+| {{fbaicon|ENG}} [[Southampton F.C.|Southampton]]
+| 181
+| 16
+| 7
+|-
+| 5
+| [[Ibrahima Konaté]]
+| {{flagicon|France}}
+| {{Birth date and age2|df=yes|2022|6|30|1999|05|25}}
+| {{fbaicon|GER}} [[RB Leipzig]]
+| 29
+| 3
+| 1
+|-
+| 12
+| [[Joe Gomez]]
+| {{flagicon|England}}
+| {{Birth date and age2|df=yes|2022|6|30|1997|5|23}}
+| {{fbaicon|ENG}} [[Charlton Athletic F.C.|Charlton Athletic]]
+| 142
+| 0
+| 5
+|-
+| 21
+| [[Kostas Tsimikas]]
+| {{flagicon|Greece}}
+| {{Birth date and age2|df=yes|2022|6|30|1996|05|12}}
+| {{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+| 33
+| 0
+| 6
+|-
+| 26
+| [[Andy Robertson]] 
+| {{flagicon|Scotland}}
+| {{Birth date and age2|df=yes|2022|6|30|1994|3|11}}
+| {{fbaicon|ENG}} [[Hull City A.F.C.|Hull City]]
+| 224
+| 8
+| 52
+|-
+| 32
+| [[Joël Matip]]
+| {{flagicon|Cameroon}}
+| {{Birth date and age2|df=yes|2022|6|30|1991|8|8}}
+| {{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+| 166
+| 9
+| 6
+|-
+| 46
+| [[Rhys Williams (footballer, born 2001)|Rhys Williams]]
+| {{flagicon|England}}
+| {{Birth date and age2|df=yes|2022|6|30|2001|02|03}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 19
+| 0
+| 0
+|-
+| 66
+| [[Trent Alexander-Arnold]] ''([[Captain (association football)#Vice-captain|4th captain]])''
+| {{flagicon|England}}
+| {{Birth date and age2|df=yes|2022|6|30|1998|10|7}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 226
+| 12
+| 60
+|-
+! colspan="10" style="background:#d50000; color:white; text-align:center" |'''Midfielders'''
+|-
+| 3
+| [[Fabinho (footballer, born 1993)|Fabinho]]
+| {{flagicon|Brazil}}
+| {{Birth date and age2|df=yes|2022|6|30|1993|10|23}}
+| {{fbaicon|FRA}} [[AS Monaco FC|Monaco]]
+| 170
+| 11
+| 7
+|-
+| 6
+| [[Thiago Alcântara|Thiago]] 
+| {{flagicon|Spain}}
+| {{Birth date and age2|df=yes|2022|6|30|1991|4|11}}
+| {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| 69
+| 3
+| 5
+|-
+| 7
+| [[James Milner]] ''([[Captain (association football)#Vice-captain|vice-captain]])''
+| {{flagicon|England}}
+| {{Birth date and age2|df=yes|2022|6|30|1986|1|4}}
+| {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| 289
+| 26
+| 43
+|-
+| 8
+| [[Naby Keïta]]
+| {{flagicon|Guinea}}
+| {{Birth date and age2|df=yes|2022|6|30|1995|2|10}}
+| {{fbaicon|GER}} [[RB Leipzig]]
+| 116
+| 11
+| 6
+|-
+| 14
+| [[Jordan Henderson]] ''([[Captain (association football)|captain]])''
+| {{flagicon|England}}
+| {{Birth date and age2|df=yes|2022|6|30|1990|6|17}}
+| {{fbaicon|ENG}} [[Sunderland A.F.C.|Sunderland]]
+| 449
+| 33
+| 55
+|-
+| 15
+| [[Alex Oxlade-Chamberlain]]
+| {{flagicon|England}}
+| {{Birth date and age2|df=yes|2022|6|30|1993|8|15}}
+| {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| 133
+| 17
+| 13
+|-
+| 17
+| [[Curtis Jones (footballer, born 2001)|Curtis Jones]]
+| {{flagicon|England}}
+| {{Birth date and age2|df=yes|2022|6|30|2001|1|30}}
+| {{fbaicon|ENG}} [[Liverpool F.C. Reserves and Academy|LFC Academy]]
+| 74
+| 8
+| 9
+|-
+! colspan="10" style="background:#d50000; color:white; text-align:center" |'''Forwards'''
+|-
+| 9
+| [[Roberto Firmino]]
+| {{flagicon|Brazil}}
+| {{Birth date and age2|df=yes|2022|6|30|1991|10|2}}
+| {{fbaicon|GER}} [[TSG 1899 Hoffenheim|1899 Hoffenheim]]
+| 327
+| 98
+| 67
+|-
+| 10
+| [[Sadio Mané]]
+| {{flagicon|Senegal}}
+| {{Birth date and age2|df=yes|2022|6|30|1992|4|10}}
+| {{fbaicon|ENG}} [[Southampton F.C.|Southampton]]
+| 269
+| 120
+| 38
+|-
+| 11
+| [[Mohamed Salah]]
+| {{flagicon|Egypt}}
+| {{Birth date and age2|df=yes|2022|6|30|1992|6|15}}
+| {{fbaicon|ITA}} [[AS Roma|Roma]]
+| 254
+| 156
+| 58
+|-
+| 18
+| [[Takumi Minamino]]
+| {{flagicon|Japan}}
+| {{Birth date and age2|df=yes|2022|6|30|1995|1|16}}
+| {{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+| 55
+| 14
+| 3
+|-
+| 20
+| [[Diogo Jota]]
+| {{flagicon|Portugal}}
+| {{Birth date and age2|df=yes|2022|6|30|1996|12|4}}
+| {{fbaicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| 85
+| 34
+| 7
+|-
+| 23
+| [[Luis Díaz (footballer, born 1997)|Luis Díaz]]
+| {{flagicon|Colombia}}
+| {{Birth date and age2|df=yes|2022|6|30|1997|1|13}}
+| {{fbaicon|POR}} [[FC Porto|Porto]]
+| 26
+| 6
+| 4
+|-
+| 27
+| [[Divock Origi]]
+| {{flagicon|Belgium}}
+| {{Birth date and age2|df=yes|2022|6|30|1995|4|18}}
+| {{fbaicon|FRA}} [[Lille OSC|Lille]]
+| 175
+| 41
+| 14
+|-
+| 67
+| [[Harvey Elliott]]
+| {{flagicon|England}}
+| {{Birth date and age2|df=yes|2022|6|30|2003|4|4}}
+| {{fbaicon|ENG}} [[Fulham F.C.|Fulham]]
+| 20
+| 1
+| 1
+|}
+
+=== New contracts ===
+{| class="wikitable plainrowheaders sortable"
+|-
+! style="background:#d50000; color:white;" |'''Date'''
+! style="background:#d50000; color:white;" |'''Pos.'''
+! style="background:#d50000; color:white;" |'''No.'''
+! style="background:#d50000; color:white;" |'''Player'''
+! style="background:#d50000; color:white;" |'''Ref.'''
+|-
+| 14 June 2021
+| style="text-align:center;" |GK
+| style="text-align:center;" |13
+| {{flagicon|ESP}} [[Adrián (footballer)|Adrián]]
+|<ref>{{cite news|title=Adrian signs Liverpool FC contract extension|url=https://www.liverpoolfc.com/news/first-team/436483-adrian-signs-liverpool-fc-contract-extension|publisher=Liverpool F.C.|date=14 June 2021}}</ref>
+|-
+| 24 June 2021
+| style="text-align:center;" |GK
+| style="text-align:center;" |62
+| {{flagicon|IRE}} [[Caoimhín Kelleher]]
+|<ref>{{cite news|title=Caoimhin Kelleher signs new long-term Liverpool contract|url=https://www.liverpoolfc.com/news/first-team/436861-caoimhin-kelleher-signs-new-long-term-liverpool-contract|publisher=Liverpool F.C.|date=24 June 2021}}</ref>
+|-
+| 9 July 2021
+| style="text-align:center;" |FW
+| style="text-align:center;" |67
+| {{flagicon|ENG}} [[Harvey Elliott]]
+|<ref>{{cite news|title=Harvey Elliott signs new long-term Liverpool contract|url=https://www.liverpoolfc.com/news/first-team/437550-harvey-elliott-signs-new-long-term-liverpool-contract|publisher=Liverpool F.C.|date=9 July 2021}}</ref>
+|-
+| 30 July 2021
+| style="text-align:center;" |DF
+| style="text-align:center;" |66
+| {{flagicon|ENG}} [[Trent Alexander-Arnold]]
+|<ref>{{cite news|title=Trent Alexander-Arnold signs new long-term contract with LFC|url=https://www.liverpoolfc.com/news/first-team/439450-trent-alexander-arnold-signs-new-long-term-contract-with-lfc|publisher=Liverpool F.C.|date=30 July 2021}}</ref>
+|-
+| 3 August 2021
+| style="text-align:center;" |MF
+| style="text-align:center;" |3
+| {{flagicon|BRA}} [[Fabinho (footballer, born 1993)|Fabinho]]
+|<ref>{{cite news|title=Fabinho signs new long-term contract with Liverpool FC|url=https://www.liverpoolfc.com/news/first-team/439722-fabinho-signs-new-long-term-contract-with-liverpool-fc|publisher=Liverpool F.C.|date=3 August 2021}}</ref>
+|-
+| 4 August 2021
+| style="text-align:center;" |GK
+| style="text-align:center;" |1
+| {{flagicon|BRA}} [[Alisson Becker]]
+|<ref>{{cite news|title=Alisson Becker signs new long-term contract with Liverpool FC|url=https://www.liverpoolfc.com/news/first-team/439844-alisson-becker-signs-new-long-term-contract-with-liverpool-fc|publisher=Liverpool F.C.|date=4 August 2021}}</ref>
+|-
+| 13 August 2021
+| style="text-align:center;" |DF
+| style="text-align:center;" |4
+| {{flagicon|NED}} [[Virgil van Dijk]]
+|<ref>{{cite news|title=Virgil van Dijk signs new long-term Liverpool contract|url=https://www.liverpoolfc.com/news/first-team/440641-virgil-van-dijk-signs-new-long-term-liverpool-contract|publisher=Liverpool F.C.|date=13 August 2021}} </ref>
+|-
+| 24 August 2021
+| style="text-align:center;" |DF
+| style="text-align:center;" |26
+| {{flagicon|SCO}} [[Andy Robertson]]
+|<ref>{{cite news|title=Andy Robertson signs new long-term contract with Liverpool FC|url=https://www.liverpoolfc.com/news/first-team/441568-andy-robertson-signs-new-long-term-contract-with-liverpool-fc|publisher=Liverpool F.C.|date=24 August 2021}}</ref>
+|-
+| 31 August 2021
+| style="text-align:center;" |MF
+| style="text-align:center;" |14
+| {{flagicon|ENG}} [[Jordan Henderson]]
+|<ref>{{cite news|title=Jordan Henderson signs new contract with Liverpool FC|url=https://www.liverpoolfc.com/news/first-team/442265-jordan-henderson-signs-new-contract-with-liverpool-fc|publisher=Liverpool F.C.|date=31 August 2021}}</ref>
+|-
+| 31 August 2021
+| style="text-align:center;" |DF
+| style="text-align:center;" |47
+| {{flagicon|ENG}} [[Nat Phillips]]
+|<ref>{{cite news|title=Nathaniel Phillips signs new long-term Liverpool deal|url=https://www.liverpoolfc.com/news/first-team/442317-nathaniel-phillips-signs-new-long-term-liverpool-deal|publisher=Liverpool F.C.|date=31 August 2021}}</ref>
+|-
+| 31 August 2021
+| style="text-align:center;" |DF
+| style="text-align:center;" |46
+| {{flagicon|ENG}} [[Rhys Williams (footballer, born 2001)|Rhys Williams]]
+|<ref>{{cite news|title=Rhys Williams signs new LFC deal and completes Swansea loan|url=https://www.liverpoolfc.com/news/first-team/442346-rhys-williams-signs-new-lfc-deal-and-completes-swansea-loan|publisher=Liverpool F.C.|date=31 August 2021}}</ref>
+|}
+
+{| class="wikitable plainrowheaders sortable"
+|-
+!style="background:#d50000; color:white;"| Date
+!style="background:#d50000; color:white;" scope="col" | Coach
+!style="background:#d50000; color:white;"| Ref.
+|-
+|28 April 2022
+|{{flagicon|GER}} [[Jürgen Klopp]]
+|<ref>{{cite news |url=https://www.liverpoolfc.com/news/jurgen-klopp-signs-new-contract-liverpool-fc |title=Jürgen Klopp signs new contract with Liverpool FC |publisher=Liverpool F.C. |date=28 April 2022 |access-date=29 April 2022}}</ref>
+|}
+
+==Transfers==
+===Transfers in===
+{| class="wikitable sortable"
+|-
+! style="background:#d50000; color:white;" |'''Date'''
+! style="background:#d50000; color:white;" |'''Position'''
+! style="background:#d50000; color:white;" |'''No.'''
+! style="background:#d50000; color:white;" |'''Player'''
+! style="background:#d50000; color:white;" |'''From'''
+! style="background:#d50000; color:white;" |'''Fee'''
+! style="background:#d50000; color:white;" |'''Ref.'''
+|-
+| 1 July 2021
+| style="text-align:center;"| DF
+| style="text-align:center;"| 5
+| style="text-align:left;"| {{flagicon|FRA}} [[Ibrahima Konaté]]
+| style="text-align:left;"| {{fbaicon|GER}} [[RB Leipzig]]
+|{{ntsh|0.0}}£36,000,000
+|<ref>{{cite web |title=Liverpool agree deal to sign Ibrahima Konate from RB Leipzig |url=https://www.liverpoolfc.com/news/first-team/435628-liverpool-agree-deal-to-sign-ibrahima-konate-from-rb-leipzig |publisher=Liverpool F.C. |date=28 May 2021}}</ref>
+|-
+| 30 January 2022
+| style="text-align:center;"| FW
+| style="text-align:center;"| 23
+| style="text-align:left;"| {{flagicon|COL}} [[Luis Díaz (footballer, born 1997)|Luis Díaz]]
+| style="text-align:left;"| {{fbaicon|POR}} [[FC Porto]]
+|{{ntsh|0.0}}£47,000,000{{efn|Fee may eventually rise to £50,000,000}}
+|<ref>{{cite web |title=Liverpool complete Luis Diaz transfer from FC Porto |url=https://www.liverpoolfc.com/news/liverpool-complete-luis-diaz-transfer-fc-porto|publisher=Liverpool FC |access-date=30 January 2022}}</ref>
+|-
+! colspan="5" | Total
+! colspan="2" | {{ntsh|0.0}}£83,000,000
+|}
+
+{{notelist}}
+
+===Transfers out===
+{| class="wikitable sortable"
+|-
+! style="background:#d50000; color:white;" |'''Date'''
+! style="background:#d50000; color:white;" |'''Position'''
+! style="background:#d50000; color:white;" |'''No.'''
+! style="background:#d50000; color:white;" |'''Player'''
+! style="background:#d50000; color:white;" |'''To'''
+! style="background:#d50000; color:white;" |'''Fee'''
+! style="background:#d50000; color:white;" |'''Ref.'''
+|-
+| 1 July 2021
+| style="text-align:center;"| FW
+| style="text-align:center;"| 53
+| style="text-align:left;"| {{flagicon|ENG}} [[Joe Hardy (footballer)|Joe Hardy]]
+| style="text-align:left;"| {{flagicon|ENG}} [[Accrington Stanley F.C.|Accrington Stanley]]
+|{{ntsh|0.0}}Released
+|<ref name="Released">{{cite web |title=Reds confirm Premier League retained list |url=https://www.liverpoolfc.com/news/announcements/436031-reds-confirm-premier-league-retained-list |publisher=Liverpool F.C. |date=4 June 2021}}</ref>
+|-
+| 1 July 2021
+| style="text-align:center;"| MF
+| style="text-align:center;"| 5
+| style="text-align:left;"| {{flagicon|NED}} [[Georginio Wijnaldum]]
+| style="text-align:left;"| {{fbaicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|{{ntsh|0.0}}Released
+|<ref>{{cite web |title=Georginio Wijnaldum to join Paris Saint-Germain |url=https://www.liverpoolfc.com/news/first-team/435817-georginio-wijnaldum-to-join-paris-saint-germain |publisher=Liverpool F.C. |date=10 June 2021}}</ref>
+|-
+| 3 July 2021
+| style="text-align:center;"| GK
+| style="text-align:center;"| 73
+| style="text-align:left;"| {{flagicon|POL}} [[Kamil Grabara]]
+| style="text-align:left;"| {{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|{{ntsh|0.0}}£3,000,000
+|<ref>{{cite web |title=Kamil Grabara completes permanent move to FC Copenhagen |url=https://www.liverpoolfc.com/news/first-team/437227-kamil-grabara-completes-permanent-move-to-fc-copenhagen |publisher=Liverpool F.C. |date=3 July 2021}}</ref>
+|-
+|8 July 2021
+| style="text-align:center;"| FW
+| style="text-align:center;"| 41
+| style="text-align:left;"| {{flagicon|CAN}} [[Liam Millar]]
+| style="text-align:left;"| {{flagicon|SUI}} [[FC Basel]]
+|{{ntsh|0.0}}£1,300,000
+|<ref>{{cite web |title=Liam Millar joins FC Basel in permanent transfer|url=https://www.liverpoolfc.com/news/academy/437415-liam-millar-joins-fc-basel-in-permanent-transfer|publisher=Liverpool F.C. |date=8 July 2021}}</ref>
+|-
+| 20 July 2021
+| style="text-align:center;"| MF
+| style="text-align:center;"| 16
+| style="text-align:left;"| {{flagicon|SRB}} [[Marko Grujić]]
+| style="text-align:left;"| {{fbaicon|POR}} [[FC Porto]]
+|{{ntsh|0.0}}£10,500,000
+|<ref>{{cite web |title=Marko Grujic seals permanent transfer to FC Porto |url=https://www.liverpoolfc.com/news/first-team/438390-marko-grujic-seals-permanent-transfer-to-fc-porto# |publisher=Liverpool F.C. |date=20 July 2021}}</ref>
+|-
+| 20 July 2021
+| style="text-align:center;"| FW
+| style="text-align:center;"| —
+| style="text-align:left;"| {{flagicon|NGA}} [[Taiwo Awoniyi]]
+| style="text-align:left;"| {{fbaicon|GER}} [[1. FC Union Berlin|Union Berlin]]
+|{{ntsh|0.0}}£7,850,000{{efn|Inclusive of 10% sell-on clause}}
+|<ref>{{cite news |title=Taiwo Awoniyi joins Union Berlin in permanent move |url=https://www.liverpoolfc.com/news/first-team/438414-taiwo-awoniyi-joins-union-berlin-in-permanent-move |publisher=Liverpool F.C. |date=20 July 2021}}</ref>
+|-
+| 24 July 2021
+| style="text-align:center;"| FW
+| style="text-align:center;"| 59
+| style="text-align:left;"| {{flagicon|WAL}} [[Harry Wilson (footballer, born 1997)|Harry Wilson]]
+| style="text-align:left;"| {{fbaicon|ENG}} [[Fulham F.C.|Fulham]]
+|{{ntsh|0.0}}£12,000,000
+|<ref>{{cite news |title=Harry Wilson completes transfer to Fulham |url=https://www.liverpoolfc.com/news/first-team/438856-harry-wilson-completes-transfer-to-fulham |publisher=Liverpool F.C. |date=24 July 2021}}</ref>
+|-
+| 28 July 2021
+| style="text-align:center;"| DF
+| style="text-align:center;"| —
+| style="text-align:left;"| {{flagicon|ALG}} [[Yasser Larouci]]
+| style="text-align:left;"| {{fbaicon|FRA}} [[ES Troyes AC]]
+|{{ntsh|0.0}}Released
+|<ref>{{cite web|url=https://www.estac.fr/actualites/20071/yasser-larouci-est-bleu-blanc.html|title=YASSER LAROUCI EST BLEU & BLANC !|website=www.estac.fr|date=26 July 2021|language=fr|access-date=30 January 2022|archive-date=5 April 2022|archive-url=https://web.archive.org/web/20220405000347/https://www.estac.fr/actualites/20071/yasser-larouci-est-bleu-blanc.html|url-status=dead}}</ref>
+
+|-
+| 23 August 2021
+| style="text-align:center;"| MF
+| style="text-align:center;"| 23
+| style="text-align:left;"| {{fbaicon|SUI}} [[Xherdan Shaqiri]]
+| style="text-align:left;"| {{fbaicon|FRA}} [[Olympique Lyonnais]]
+|£9,500,000
+|<ref>{{cite news |title=Xherdan Shaqiri seals permanent move to Lyon|url=https://www.liverpoolfc.com/news/first-team/441512-xherdan-shaqiri-seals-permanent-move-to-lyon |publisher=Liverpool F.C. |date=23 August 2021}}</ref>
+|-
+| 4 January 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 77
+| style="text-align:left;"| {{flagicon|WAL}} [[Morgan Boyes]]
+| style="text-align:left;"| {{fbaicon|SCO}} [[Livingston F.C.|Livingston]]
+|{{ntsh|0.0}}Released
+|<ref>{{cite web |title=Morgan Boyes completes permanent transfer to Livingston |url=https://www.liverpoolfc.com/news/morgan-boyes-completes-permanent-transfer-livingston|publisher=Liverpool F.C. |date=4 January 2022}}</ref>
+|-
+| 4 January 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 44
+| style="text-align:left;"| {{flagicon|SCO}} [[Tony Gallacher]]
+| style="text-align:left;"| {{fbaicon|SCO}} [[St. Johnstone F.C.|St. Johnstone]]
+|{{ntsh|0.0}}Released
+|<ref>{{cite web |title=Tony Gallacher completes permanent move to St. Johnstone |url=https://www.liverpoolfc.com/news/tony-gallacher-completes-permanent-move-st-johnstone|publisher=Liverpool F.C. |date=4 January 2022}}</ref>
+|-
+! colspan="5" | Total
+! colspan="2" | {{ntsh|0.0}}£44,550,000
+|}
+{{notelist}}
+
+=== Loans out ===
+{| class="wikitable sortable"
+|-
+! style="background:#d50000; color:white;" |'''Start date'''
+! style="background:#d50000; color:white;" |'''End date'''
+! style="background:#d50000; color:white;" |'''Position'''
+! style="background:#d50000; color:white;" |'''No.'''
+! style="background:#d50000; color:white;" |'''Player'''
+! style="background:#d50000; color:white;" |'''To club'''
+! style="background:#d50000; color:white;" |'''Fee'''
+! style="background:#d50000; color:white;" |'''Ref'''
+|-
+| 1 July 2021
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| —
+| style="text-align:left;"| {{flagicon|ENG}} [[Adam Lewis (footballer)|Adam Lewis]]
+| style="text-align:left;"| {{flagicon|SCO}} [[Livingston F.C.|Livingston]]
+| None
+|<ref>{{cite web |title=Adam Lewis swaps Liverpool for Livingston |date=10 June 2021 |url=https://livingstonfc.co.uk/adam-lewis-swaps-liverpool-for-livingston/ |publisher=Livingston FC |access-date=9 January 2022}}</ref>
+|-
+| 1 July 2021
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| 72
+| style="text-align:left;"| {{flagicon|NED}} [[Sepp van den Berg]]
+| style="text-align:left;"| {{flagicon|ENG}} [[Preston North End F.C.|Preston North End]]
+| None
+|<ref>{{cite web |title=Sepp van den Berg joins Preston on loan |url=https://www.liverpoolfc.com/news/first-team/436701-sepp-van-den-berg-returns-to-preston-on-loan |publisher=Liverpool F.C. |date=21 June 2021}}</ref>
+|-
+| 2 July 2021 || End of season || {{center|FW}} || {{center|—}} || {{flagicon|GER}} [[Paul Glatzel]] || {{flagicon|ENG}} [[Tranmere Rovers F.C.|Tranmere Rovers]] || None || <ref>{{cite web |title=Paul Glatzel signs on season long loan from Liverpool |url=https://www.tranmererovers.co.uk/news/2021/july/paul-glatzel-signs-on-season-long-loan-from-liverpool/ |publisher=Tranmere Rovers FC |access-date=9 January 2022}}</ref>
+|-
+| 10 July 2021
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| —
+| style="text-align:left;"| {{flagicon|COL}} [[Anderson Arroyo]]
+| style="text-align:left;"| {{flagicon|ESP}} [[CD Mirandés|Mirandés]]
+| None
+|<ref>{{cite web |title=Liverpool defender heads to Spain for 5th loan in less than 4 years |date=10 July 2021 |url=https://www.thisisanfield.com/2021/07/liverpool-defender-heads-to-spain-for-5th-loan-in-less-than-4-years/ |publisher=This Is Anfield |access-date=9 January 2022}}</ref>
+|-
+| 16 August 2021
+| 2 January 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| 65
+| style="text-align:left;"| {{flagicon|ENG}} [[Leighton Clarkson]]
+| style="text-align:left;"| {{flagicon|ENG}} [[Blackburn Rovers F.C.|Blackburn Rovers]]
+| None
+|<ref>{{cite web |title=Leighton Clarkson seals loan switch to Blackburn |url=https://www.liverpoolfc.com/news/academy/440959-leighton-clarkson-seals-loan-switch-to-blackburn |publisher=Liverpool F.C. |date=16 August 2021}}</ref><ref>{{cite web |last1=Coates |first1=Charlotte |title='It's hurting him' - Blackburn Rovers send midfielder back to Liverpool as loan cut short |url=https://www.liverpoolecho.co.uk/sport/football/football-news/leighton-clarkson-returns-to-liverpool-22628223 |website=[[Liverpool Echo]] |date=2 January 2022 |access-date=17 January 2022}}</ref>
+|-
+| 16 August 2021
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| 28
+| style="text-align:left;"| {{flagicon|ENG}} [[Ben Davies (footballer, born 1995)|Ben Davies]]
+| style="text-align:left;"| {{flagicon|ENG}} [[Sheffield United F.C.|Sheffield United]]
+| £500,000
+|<ref>{{cite web |title=Ben Davies joins Sheffield United on loan |url=https://www.liverpoolfc.com/news/first-team/440979-ben-davies-joins-sheffield-united-on-loan |publisher=Liverpool F.C. |date=16 August 2021}}</ref>
+|-
+| 23 August 2021
+| End of season
+| style="text-align:center;"| MF
+| style="text-align:center;"| 58
+| style="text-align:left;"| {{flagicon|WAL}} [[Ben Woodburn]]
+| style="text-align:left;"| {{flagicon|SCO}} [[Heart of Midlothian F.C.|Heart of Midlothian]]
+| None
+|<ref>{{cite web |title=Ben Woodburn makes loan switch to Hearts|url=https://www.liverpoolfc.com/news/first-team/441508-ben-woodburn-makes-loan-switch-to-hearts|publisher=Liverpool F.C. |date=23 August 2021}}</ref>
+|-
+| 31 August 2021
+| End of season
+| style="text-align:center;"| MF
+| style="text-align:center;"| 64
+| style="text-align:left;"| {{flagicon|ENG}} [[Jake Cain]]
+| style="text-align:left;"| {{flagicon|WAL}} [[Newport County A.F.C.|Newport County]]
+| None
+|<ref>{{cite web |title=Jake Cain joins Exiles on season-long loan deal |url=https://www.newport-county.co.uk/news/2021/august2/jake-cain-joins-exiles-loan/ |publisher=Newport County |access-date=9 January 2022}}</ref>
+|-
+| 31 August 2021
+| End of season
+| style="text-align:center;"| MF
+| style="text-align:center;"| 50
+| style="text-align:left;"| {{flagicon|ENG}} [[Luis Longstaff]]
+| style="text-align:left;"| {{flagicon|SCO}} [[Queen's Park F.C.|Queen's Park]]
+| None
+|<ref>{{cite web |title=Liverpool Loan Signing Boosts Spiders |date=31 August 2021 |url=https://queensparkfc.co.uk/liverpool-loan-signing-boosts-spiders/ |publisher=Queen's Park FC |access-date=9 January 2022 |archive-date=7 July 2022 |archive-url=https://web.archive.org/web/20220707081238/https://queensparkfc.co.uk/liverpool-loan-signing-boosts-spiders/ |url-status=dead}}</ref>
+|-
+| 31 August 2021
+| End of season
+| style="text-align:center;"| FW
+| style="text-align:center;"| 54
+| style="text-align:left;"| {{flagicon|ENG}} [[Sheyi Ojo]]
+| style="text-align:left;"| {{flagicon|ENG}} [[Millwall F.C.|Millwall]]
+| None
+|<ref>{{cite web |title=Sheyi Ojo completes loan move to Millwall|url=https://www.liverpoolfc.com/news/first-team/442365-sheyi-ojo-completes-loan-move-to-millwall|publisher=Liverpool F.C. |date=31 August 2021}}</ref>
+|-
+| 31 August 2021
+| 20 January 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 46
+| style="text-align:left;"| {{flagicon|ENG}} [[Rhys Williams (footballer, born 2001)|Rhys Williams]]
+| style="text-align:left;"| {{flagicon|WAL}} [[Swansea City A.F.C.|Swansea City]]
+| None
+|<ref>{{cite web |title=Rhys Williams signs new LFC deal and completes Swansea loan|url=https://www.liverpoolfc.com/news/first-team/442346-rhys-williams-signs-new-lfc-deal-and-completes-swansea-loan|publisher=Liverpool F.C. |date=31 August 2021}}</ref><ref>{{cite web |title=Rhys Willams recalled from Swansea loan spell|url=https://www.swanseacity.com/news/rhys-williams-recalled-swansea-city-loan-spell|publisher=Swansea City A.F.C. |date=20 January 2022}}</ref>
+|-
+| 31 January 2022
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| 47
+| style="text-align:left;"| {{flagicon|ENG}} [[Nat Phillips]]
+| style="text-align:left;"|{{fbaicon|ENG}} [[AFC Bournemouth|Bournemouth]]
+| £1,500,000
+|<ref>{{cite web |title=Nat Phillips joins Bournemouth on loan|url=https://www.liverpoolfc.com/news/nat-phillips-joins-bournemouth-loan|publisher=Liverpool F.C. |date=31 January 2022}}</ref><ref>{{cite web |title=AFC Bournemouth complete signing of Nat Phillips |url=https://www.afcb.co.uk/news/first-team/afc-bournemouth-complete-signing-of-nat-phillips/ |publisher=AFC Bournemouth |date=31 January 2022}}</ref>
+|-
+| 31 January 2022 
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| 76 
+| style="text-align:left;"| {{flagicon|WAL}} [[Neco Williams]]
+| style="text-align:left;"| {{fbaicon|ENG}} [[Fulham FC|Fulham]] 
+| None
+|<ref>{{cite web |title=Neco Williams completes Fulham loan switch|url=https://www.liverpoolfc.com/news/neco-williams-completes-fulham-loan-switch|publisher=Liverpool F.C. |date=1 February 2022}}</ref>
+|-
+! colspan="6" | Total
+! colspan="2" | {{ntsh|0.0}}£2,000,000
+|}
+
+===Transfer summary===
+{{col-begin}}
+{{col-3}}
+
+'''Spending'''
+
+Summer: {{loss}} [[Pound sterling|£]] 36,000,000
+
+Winter: {{loss}} [[Pound sterling|£]] 37,500,000
+
+Total: {{loss}} [[Pound sterling|£]] 73,500,000
+{{col-3}}
+
+'''Income'''
+
+Summer: {{profit}} [[Pound sterling|£]] 45,050,000
+
+Winter: {{profit}} [[Pound sterling|£]] 1,500,000
+
+Total: {{profit}} [[Pound sterling|£]] 46,550,000
+{{col-3}}
+
+'''Net Expenditure'''
+
+Summer: {{profit}} [[Pound sterling|£]] 9,050,000
+
+Winter: {{loss}} [[Pound sterling|£]] 36,000,000
+
+Total: {{loss}} [[Pound sterling|£]] 26,950,000
+{{col-end}}
+
+==Pre-season and friendlies==
+On 12 July 2021, Liverpool announced that they would play four friendlies as part of a pre-season training camp in [[Austria]].<ref>{{cite news |title=Liverpool confirm pre-season fixtures in Austria |url=https://www.liverpoolfc.com/news/first-team/437657-liverpool-confirm-pre-season-fixtures-in-austria |publisher=Liverpool F.C. |access-date=12 July 2021}}</ref> On 19 July, they stated that they would complete their pre-season campaign with two home friendlies.<ref>{{cite news |title=Liverpool to play two pre-season friendlies at Anfield |url=https://www.liverpoolfc.com/news/first-team/438251-liverpool-to-play-two-pre-season-friendlies-at-anfield |publisher=Liverpool F.C. |access-date=19 July 2021}}</ref> On 29 July, the Reds confirmed that they would face [[Bologna F.C. 1909|Bologna]] in two sixty-minute matches as part of a training camp in [[France]] in between the previously announced engagements.<ref>{{cite news |title=Liverpool to contest Bologna friendlies in Evian |url=https://www.liverpoolfc.com/news/first-team/439310-liverpool-to-contest-bologna-friendlies-in-evian |publisher=Liverpool F.C. |access-date=29 July 2021}}</ref>
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{Footballbox collapsible
+|date = 20 July 2021
+|time = 18:00 [[Central European Summer Time|CEST]]
+|round = [[Pre-season friendlies|Friendly]]
+|team1 = [[FC Wacker Innsbruck (2002)|Wacker Innsbruck]] 
+|score = 1–1
+|report = https://www.liverpoolfc.com/news/first-team/438434-match-report-pre-season-wacker-innsbruck-stuttgart
+|team2 =  Liverpool
+|goals1 = [[Ronivaldo Bernardo Sales|Ronivaldo]] {{goal|17}}
+|goals2 = [[Divock Origi|Origi]] {{goal|5|pen.}}
+|location = Austria
+|attendance = 0
+|result = D
+|note = Thirty-minute mini-game
+}}
+{{Footballbox collapsible
+|date = 20 July 2021
+|time = 18:45 [[Central European Summer Time|CEST]]
+|round = [[Pre-season friendlies|Friendly]]
+|team1 = [[VfB Stuttgart]] 
+|score = 1–1
+|report = https://www.liverpoolfc.com/news/first-team/438434-match-report-pre-season-wacker-innsbruck-stuttgart
+|team2 =  Liverpool
+|goals1 = [[Philipp Förster|Förster]] {{goal|6}}
+|goals2 = [[Sadio Mané|Mané]] {{goal|20}}
+|stadium = Saalfelden Arena
+|location = [[Saalfelden]], Austria
+|attendance = 0
+|result = D
+|note = Thirty-minute mini-game
+}}
+{{Footballbox collapsible
+|date = 23 July 2021
+|time = 18:15 [[Central European Summer Time|CEST]]
+|round = [[Pre-season friendlies|Friendly]]
+|team1 = [[1. FSV Mainz 05|Mainz 05]] 
+|score = 0–1
+|report = https://www.liverpoolfc.com/news/first-team/438742-mainz-friendly-match-report-pre-season
+|team2 =  Liverpool
+|goals2 = [[Luca Kilian|Kilian]] {{goal|86|o.g.}}
+|stadium = [[Untersberg-Arena|Greisbergers Betten-Arena]]
+|location = [[Grödig]], Austria
+|attendance = 3,500
+|result = W
+}}
+{{Footballbox collapsible
+|date = 29 July 2021
+|time = 20:20 [[Central European Summer Time|CEST]]
+|round = [[Pre-season friendlies|Friendly]]
+|team1 = Liverpool
+|score = 3–4
+|report = https://www.liverpoolfc.com/news/first-team/439280-match-report-pre-season-friendly-hertha
+|team2 = [[Hertha BSC]]
+|goals1 = [[Sadio Mané|Mané]] {{goal|36}}<br>[[Takumi Minamino|Minamino]] {{goal|42}}<br>[[Ibrahima Konaté|Konaté]] {{yel|45+1}}<br>[[Joe Gomez|Gomez]] {{yel|79}}<br>[[Alex Oxlade-Chamberlain|Oxlade-Chamberlain]] {{goal|87}}
+|goals2 = [[Santiago Ascacíbar|Ascacíbar]] {{goal|20}}<br>[[Suat Serdar|Serdar]] {{goal|30}}<br>[[Davie Selke|Selke]] {{yel|45+1}}<br>[[Stevan Jovetić|Jovetić]] {{goal|66||80}}
+|referee = Daniel Pfister
+|stadium = [[Tivoli Stadion Tirol]]
+|location = [[Innsbruck]], Austria
+|attendance = 15,000
+|result = L
+}}
+{{Footballbox collapsible
+|date = 5 August 2021
+|time = 16:00 [[Central European Summer Time|CEST]]
+|round = [[Pre-season friendlies|Friendly]]
+|team1 = Liverpool
+|score = 2–0
+|report = https://www.liverpoolfc.com/news/first-team/439936-pre-season-friendlies-bologna-match-report
+|team2 =  [[Bologna F.C. 1909|Bologna]]
+|goals1 = [[Diogo Jota|Jota]] {{goal|7}}<br>[[Sadio Mané|Mané]] {{goal|14}}
+|referee = Jérémie Pignard
+|stadium = [[Stade Joseph-Moynat]]
+|location = [[Thonon-les-Bains]], France
+|attendance = 0
+|result = W
+|note = Sixty-minute mini-game
+}}
+{{Footballbox collapsible
+|date = 5 August 2021
+|time = 18:00 [[Central European Summer Time|CEST]]
+|round = [[Pre-season friendlies|Friendly]]
+|team1 = Liverpool
+|score = 1–0
+|report = https://www.liverpoolfc.com/news/first-team/439936-pre-season-friendlies-bologna-match-report
+|team2 =  [[Bologna F.C. 1909|Bologna]]
+|goals1 = [[Takumi Minamino|Minamino]] {{goal|14}}<br>[[Divock Origi|Origi]] {{penmiss}} 46'
+|referee = Hakim Ben El Hadj
+|stadium = [[Stade Joseph-Moynat]]
+|location = [[Thonon-les-Bains]], France
+|attendance = 0
+|result = W
+|note = Sixty-minute mini-game
+}}
+{{Footballbox collapsible
+|date = 8 August 2021
+|time = 16:30 [[British Summer Time|BST]]
+|round = [[Pre-season friendlies|Friendly]]
+|team1 = Liverpool 
+|score = 1–1
+|report = https://www.liverpoolfc.com/news/first-team/440199-match-report-athletic-club-friendly-anfield
+|team2 =  [[Athletic Bilbao]]
+|goals1 = [[Diogo Jota|Jota]] {{goal|13}}
+|goals2 = [[Álex Berenguer|Berenguer]] {{goal|53}}
+|referee = [[Mike Dean (referee)|Mike Dean]]
+|stadium = [[Anfield]]
+|location = [[Liverpool]]
+|attendance = 40,000
+|result = D
+}}
+{{Footballbox collapsible
+|date = 9 August 2021
+|time = 19:00 [[British Summer Time|BST]]
+|round = [[Pre-season friendlies|Friendly]]
+|team1 = Liverpool 
+|score = 3–1
+|report = https://www.liverpoolfc.com/news/first-team/440342-osasuna-anfield-friendly-match-report
+|team2 =  [[CA Osasuna|Osasuna]]
+|goals1 = [[Jesús Areso|Areso]] {{goal|14|o.g.}}<br>[[Roberto Firmino|Firmino]] {{goal|21||41}}
+|goals2 = [[Kike Barja|Kike]] {{goal|70}}
+|referee = [[Craig Pawson]]
+|stadium = [[Anfield]]
+|location = [[Liverpool]]
+|attendance = 39,000
+|result = W
+}}
+{{footballbox collapsible
+| date       = 15 August 2021
+| time       = 15:00 [[British Summer Time|BST]]
+| round      = [[Pre-season friendlies|Friendly]]
+| team1      = Liverpool 
+| score      = 4–1
+| report     = https://www.birminghammail.co.uk/sport/football/football-news/aston-villa-liverpool-traore-newcastle-21329285
+| team2      =  [[Aston Villa F.C.|Aston Villa]]
+| goals1     = [[Divock Origi|Origi]] {{goal|}}<br>[[Neco Williams|Williams]] {{goal|}}<br>[[Curtis Jones (footballer, born 2001)|Jones]] {{goal|}}<br>[[Kaide Gordon|Gordon]] {{goal|}}
+| goals2     = [[Bertrand Traoré|Traoré]] {{goal|}}
+| stadium    = [[Anfield]]
+| location   = [[Liverpool]]
+| attendance = 0
+| referee    = 
+| result     = W
+}}
+
+==Competitions==
+===Overview===
+{{Fb overview2
+|c=4
+|c1=[[2021–22 Premier League|Premier League]] |fm1=14 August 2021 |lm1=22 May 2022 |sr1=Matchday 1 |fp1=2nd |w1=28 |d1=8 |l1=2 |f1=94 |a1=26
+|c2=[[2021–22 FA Cup|FA Cup]] |fm2=8 January 2022 |lm2=14 May 2022 |sr2=Third round |fp2=Winners |w2=5 |d2=1 |l2=0 |f2=13 |a2=5
+|c3=[[2021–22 EFL Cup|EFL Cup]] |fm3=21 September 2021 |lm3=27 February 2022 |sr3=Third round |fp3=Winners |w3=3 |d3=3|l3=0 |f3=10 |a3=3
+|c4=[[2021–22 UEFA Champions League|UEFA Champions League]] |fm4=15 September 2021 |lm4=28 May 2022 |sr4=Group stage |fp4={{won|place=2|Runners-up}} |w4=10 |d4=1 |l4=2 |f4=30 |a4=14
+|s=[https://int.soccerway.com/teams/england/liverpool-fc/663/ Soccerway]
+}}
+
+===Premier League===
+{{main|2021–22 Premier League}}
+
+====League table====
+{{:2021–22 Premier League|showteam=LIV}}
+
+====Results summary====
+{{Fb_rs |hw=15 |hd=4 |hl=0 |hgf=49 |hga=9 |aw=13 |ad=4 |al=2 |agf=45 |aga=17 }}
+{{Fb rs footer |s=[https://int.soccerway.com/teams/england/liverpool-fc/663/ Soccerway]}}
+
+====Results by matchday====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Matchday
+|label1=Ground
+|rnd19=20| rnd20=21| rnd21=22| rnd22=23| rnd23=24| rnd24=25| rnd25=26| rnd26=19| rnd27=28| rnd28=29| rnd29=27| rnd30=31| rnd31=32| rnd32=30| rnd33=34| rnd34=35| rnd35=36| rnd36=33|
+|res1= A/H/H/A/H/A/H/A/A/H/A/H/H/A/A/H/H/A/A/A/H/A/H/A/H/H/H/A/A/H/A/H/H/A/H/A/A/H
+|label2= Result
+|res2= W/W/D/W/W/D/D/W/W/D/L/W/W/W/W/W/W/D/L/D/W/W/W/W/W/W/W/W/W/W/D/W/W/W/D/W/W/W
+|label3= Position
+|res3= 3/3/5/3/2/1/2/2/2/2/4/3/3/3/2/2/2/2/3/3/3/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2
+|color_W=green1|text_W=Win
+|color_D=yellow1|text_D=Draw
+|color_L=red1|text_L=Loss
+|color1=gold|color_2-4=green1|color_5–6=blue1|color_7=yellow1|color_18–20=red1
+|label4= Points
+|res4= 3p/6p/7p/10/13/14/15/18p/21/22/22/25/28/31/34/37/40/41/41/42/45/48/51/54/57/60/63/66/69/72/73/76/79/82/83/86/89/92
+|source=[https://www.premierleague.com/en/tables/premier-league/2021-22/all-matchweeks Premier League]
+}}
+
+====Matches====
+The league fixtures were revealed on 16 June 2021.<ref>{{cite web |title=Liverpool's Premier League fixture list revealed |date=16 June 2021 |url=https://www.liverpoolfc.com/news/first-team/436120-liverpool-fixture-list-revealed-premier-league |publisher=Liverpool FC |access-date=16 June 2021}}</ref>
+
+{{Football box collapsible
+| round = 1
+| date = 14 August 2021
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[Norwich City F.C.|Norwich City]]
+| score = 0–3
+| report = https://www.premierleague.com/en/match/2210278
+| team2 = Liverpool
+| goals1 = 
+*[[Todd Cantwell|Cantwell]] {{yel|53}}
+| goals2 = 
+*[[James Milner|Milner]] {{yel|25}}
+*[[Diogo Jota|Jota]] {{goal|26}}
+*[[Roberto Firmino|Firmino]] {{goal|65}}
+*[[Mohamed Salah|Salah]] {{goal|74}}
+| stadium = [[Carrow Road]]
+| location = [[Norwich]]
+| attendance = 27,023
+| referee = [[Andre Marriner]]
+| result = W
+}}
+{{footballbox collapsible
+| date = 21 August 2021
+| time = 12:30 [[British Summer Time|BST]]
+| round = 2
+| team1 = Liverpool
+| score = 2–0
+| report = https://www.premierleague.com/match/66357
+| team2 = [[Burnley F.C.|Burnley]]
+| goals1 = 
+*[[Diogo Jota|Jota]] {{goal|18}}
+*[[Sadio Mané|Mané]] {{goal|69}}
+| goals2 = 
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 52,591
+| result = W
+}}
+{{footballbox collapsible
+| date = 28 August 2021
+| time = 17:30 [[British Summer Time|BST]]
+| round = 3
+| team1 = Liverpool
+| score = 1–1
+| report = https://www.premierleague.com/match/66365
+| team2 = [[Chelsea F.C.|Chelsea]]
+| goals1 = 
+*[[Mohamed Salah|Salah]] {{goal|45+5|pen.}}
+| goals2 = 
+*[[Kai Havertz|Havertz]] {{goal|22}}
+*[[Reece James (footballer, born 1999)|James]] {{sentoff|0|45+3}}
+*[[Antonio Rüdiger|Rüdiger]] {{yel|45+3}}
+*[[Édouard Mendy|Mendy]] {{yel|45+5}}
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,100
+| result = D
+}}
+{{footballbox collapsible
+| date = 12 September 2021
+| time = 16:30 [[British Summer Time|BST]]
+| round = 4
+| team1 = [[Leeds United F.C.|Leeds United]]
+| score = 0–3
+| report = https://www.premierleague.com/match/66377
+| team2 = Liverpool
+| goals1 = 
+*[[Liam Cooper|Cooper]] {{yel|12}}
+*[[Diego Llorente|Llorente]] {{yel|30}}
+*[[Pascal Struijk|Struijk]] {{sentoff|0|60}}
+| goals2 = 
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{yel|16}}, {{goal|50}}
+*[[Mohamed Salah|Salah]] {{goal|20}}
+*[[Sadio Mané|Mané]] {{goal|90+2}}
+| referee = [[Craig Pawson]]
+| stadium = [[Elland Road]]
+| location = [[Leeds]]
+| attendance = 36,507
+| result = W
+}}
+{{footballbox collapsible
+| date = 18 September 2021
+| time = 15:00 [[British Summer Time|BST]]
+| round = 5
+| team1 = Liverpool
+| score = 3–0
+| report = https://www.premierleague.com/match/66385
+| team2 = [[Crystal Palace F.C.|Crystal Palace]]
+| goals1 = 
+*[[Jordan Henderson|Henderson]] {{yel|40}}
+*[[Sadio Mané|Mané]] {{goal|43}}
+*[[Kostas Tsimikas|Tsimikas]] {{yel|75}}
+*[[Mohamed Salah|Salah]] {{goal|78}}, {{yel|79}}
+*[[Naby Keïta|Keïta]] {{goal|89}}
+| goals2 = 
+*[[Joel Ward (footballer)|Ward]] {{yel|83}}
+| referee = [[Andy Madley]] 
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 52,985
+| result = W
+}}
+{{footballbox collapsible
+| date = 25 September 2021
+| time = 17:30 [[British Summer Time|BST]]
+| round = 6
+| team1 = [[Brentford F.C.|Brentford]]
+| score = 3–3
+| report = https://www.premierleague.com/match/66393
+| team2 = Liverpool
+| goals1 = 
+*[[Ethan Pinnock|Pinnock]] {{goal|27}}
+*[[Frank Onyeka|Onyeka]] {{yel|44}}
+*[[Vitaly Janelt|Janelt]] {{goal|63}}
+*[[Yoane Wissa|Wissa]] {{goal|82}}
+| goals2 = 
+*[[Diogo Jota|Jota]] {{goal|31}}
+*[[Mohamed Salah|Salah]] {{goal|54}}
+*[[Curtis Jones (footballer, born 2001)|Jones]] {{goal|67}}
+*[[Andy Robertson|Robertson]] {{yel|70}}
+| referee = [[Stuart Attwell]]
+| stadium = [[Brentford Community Stadium]]
+| location = [[Brentford]]
+| attendance = 16,876
+| result = D
+}}
+{{footballbox collapsible
+| date = 3 October 2021
+| time = 16:30 [[British Summer Time|BST]]
+| round = [[Liverpool F.C.–Manchester City F.C. rivalry|7]]
+| team1 = Liverpool
+| score = 2–2
+| report = https://www.premierleague.com/match/66407
+| team2 = [[Manchester City F.C.|Manchester City]]
+| goals1 = 
+*[[James Milner|Milner]] {{yel|42}}
+*[[Sadio Mane|Mané]] {{goal|59}}
+*[[Diogo Jota|Jota]] {{yel|65}}
+*[[Mohamed Salah|Salah]] {{goal|76}}
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{yel|83}}
+|goals2 = 
+*[[Ruben Dias|Dias]] {{yel|26}}
+*[[Joao Cancelo|Cancelo]] {{yel|56}}
+*[[Phil Foden|Foden]] {{goal|69}}
+*[[Bernardo Silva|Silva]] {{yel|77}}
+*[[Kevin De Bruyne|De Bruyne]] {{goal|81}}
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,102
+| result = D
+}}
+{{footballbox collapsible
+| date = 16 October 2021
+| time = 12:30 [[British Summer Time|BST]]
+| round = 8
+| team1 = [[Watford F.C.|Watford]]
+| score = 0–5
+| report = https://www.premierleague.com/match/66421
+| team2 = Liverpool
+| goals2 = 
+*[[Sadio Mané|Mané]] {{goal|8}}
+*[[Roberto Firmino|Firmino]] {{goal|37||52||90+1}}
+*[[Mohamed Salah|Salah]] {{goal|54}}
+| referee = [[Jon Moss (referee)|Jon Moss]]
+| stadium = [[Vicarage Road]]
+| location = [[Watford]]
+| attendance = 21,085
+| result = W
+}}
+{{footballbox collapsible
+| date = 24 October 2021
+| time = 16:30 [[British Summer Time|BST]]
+| round = [[Liverpool F.C.–Manchester United F.C. rivalry|9]]
+| team1 = [[Manchester United F.C.|Manchester United]]
+| score = 0–5
+| report = https://www.premierleague.com/match/66429
+| team2 = Liverpool
+| goals1 = 
+*[[Luke Shaw|Shaw]] {{yel|41}}
+*[[Cristiano Ronaldo|Ronaldo]] {{yel|45+1}}
+*[[Fred (footballer, born 1993)|Fred]] {{yel|45+3}}
+*[[Bruno Fernandes|Fernandes]] {{yel|46}}
+*[[Harry Maguire|Maguire]] {{yel|55}}
+*[[Paul Pogba|Pogba]] {{sentoff|0|60}}
+*[[Aaron Wan-Bissaka|Wan-Bissaka]] {{yel|86}}
+| goals2 = 
+*[[Naby Keïta|Keïta]] {{goal|5}}
+*[[Diogo Jota|Jota]] {{goal|13}}
+*[[Mohamed Salah|Salah]] {{goal|38||45+5||50}}
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| stadium = [[Old Trafford]]
+| location = [[Trafford]]
+| attendance = 73,088
+| result = W
+}}
+{{footballbox collapsible
+| date = 30 October 2021
+| time = 15:00 [[British Summer Time|BST]]
+| round = 10
+| team1 = Liverpool
+| score = 2–2
+| report = https://www.premierleague.com/match/66435
+| team2 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| goals1 = 
+*[[Jordan Henderson|Henderson]] {{goal|4}}
+*[[Sadio Mané|Mané]] {{goal|24}}
+*[[Takumi Minamino|Minamino]] {{yel|88}}
+*[[Andy Robertson|Robertson]] {{yel|90+4}}
+| goals2 = 
+*[[Enock Mwepu|Mwepu]] {{goal|41}}
+*[[Leandro Trossard|Trossard]] {{goal|65}}
+*[[Tariq Lamptey|Lamptey]] {{yel|90}}
+*[[Shane Duffy|Duffy]] {{yel|90+2}}
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,197
+| result = D
+}}
+{{footballbox collapsible
+| date = 7 November 2021
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| round = 11
+| team1 = [[West Ham United F.C.|West Ham United]]
+| score = 3–2
+| report = https://www.premierleague.com/match/66451
+| team2 = Liverpool
+| goals1 = 
+*[[Alisson Becker|Alisson]] {{goal|4|o.g.}}
+*[[Tomáš Souček|Souček]] {{yel|45+7}}
+*[[Pablo Fornals|Fornals]] {{goal|67}}
+*[[Kurt Zouma|Zouma]] {{goal|74}}
+| goals2 = 
+*[[Trent Alexander-Arnold|Alexander-Arnold]] {{goal|41}}, {{yel|55}}
+*[[Divock Origi|Origi]] {{goal|83}}
+| referee = [[Craig Pawson]]
+| stadium = [[London Stadium]]
+| location = [[Stratford, London|Stratford]]
+| attendance = 59,909
+| result = L
+}}
+{{footballbox collapsible
+| date = 20 November 2021
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| round = 12
+| team1 = Liverpool
+| score = 4–0
+| report = https://www.premierleague.com/match/66455
+| team2 = [[Arsenal F.C.|Arsenal]]
+| goals1 = 
+*[[Sadio Mané|Mané]] {{goal|39}}, {{yel|44}}
+*[[Jürgen Klopp|Klopp]] {{yel|32}}
+*[[Diogo Jota|Jota]] {{goal|52}}
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{yel|70}}
+*[[Mohamed Salah|Salah]] {{goal|73}}
+*[[Takumi Minamino|Minamino]] {{goal|77}}
+| goals2 = 
+*[[Mikel Arteta|Arteta]] {{yel|32}}
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,092
+| result = W
+}}
+{{footballbox collapsible
+| date = 27 November 2021
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| round = 13
+| team1 = Liverpool
+| score = 4–0
+| report = https://www.premierleague.com/match/66469
+| team2 = [[Southampton F.C.|Southampton]]
+| goals1 = 
+*[[Diogo Jota|Jota]] {{goal|2||32}}
+*[[Thiago Alcântara|Thiago]] {{goal|37}}
+*[[Virgil van Dijk|Van Dijk]] {{goal|52}}
+| goals2 = 
+*[[Jan Bednarek|Bednarek]] {{yel|11}}
+| referee = [[Andre Marriner]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,040
+| result = W
+}}
+{{footballbox collapsible
+| date = 1 December 2021
+| time = 20:15 [[Greenwich Mean Time|GMT]]
+| round = [[Merseyside derby|14]]
+| team1 = [[Everton F.C.|Everton]]
+| score = 1–4
+| report = https://www.premierleague.com/match/66473
+| team2 = Liverpool
+| goals1 = 
+*[[Andros Townsend|Townsend]] {{yel|16}}
+*[[Allan (footballer, born 1991)|Allan]] {{yel|31}}
+*[[Demarai Gray|Gray]] {{goal|38}}, {{yel|44}}
+*[[Lucas Digne|Digne]] {{yel|40}}
+| goals2 = 
+*[[Jordan Henderson|Henderson]] {{goal|9}}
+*[[Mohamed Salah|Salah]] {{goal|19||64}}
+*[[Thiago Alcântara|Thiago]] {{yel|39}}
+*[[Andy Robertson|Robertson]] {{yel|63}}
+*[[Diogo Jota|Jota]] {{goal|79}}
+*[[Virgil van Dijk|Van Dijk]] {{yel|80}}
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| stadium = [[Goodison Park]]
+| location = [[Liverpool]]
+| attendance = 39,641
+| result = W
+}}
+{{footballbox collapsible
+| date = 4 December 2021
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| round = 15
+| team1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| score = 0–1
+| report = https://www.premierleague.com/match/66491
+| team2 = Liverpool
+| goals1 = 
+*[[Leander Dendoncker|Dendoncker]] {{yel|26}}
+*[[Raúl Jiménez|Jiménez]] {{yel|88}}
+| goals2 = 
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{yel|62}}
+*[[Andy Robertson|Robertson]] {{yel|66}}
+*[[Divock Origi|Origi]] {{goal|90+4}}
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| stadium = [[Molineux Stadium|Molineux]]
+| location = [[Wolverhampton]]
+| attendance = 30,729
+| result = W
+}}
+{{footballbox collapsible
+| date = 11 December 2021
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| round = 16
+| team1 = Liverpool
+| score = 1–0
+| report = https://www.premierleague.com/match/66499
+| team2 = [[Aston Villa F.C.|Aston Villa]]
+| goals1 = 
+*[[Virgil van Dijk|Van Dijk]] {{yel|13}}
+*[[Mohamed Salah|Salah]] {{goal|67|pen.}}
+| goals2 = 
+*[[Marvelous Nakamba|Nakamba]] {{yel|19}}
+*[[Ollie Watkins|Watkins]] {{yel|24}}
+| referee = [[Stuart Attwell]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,093
+| result = W
+}}
+{{footballbox collapsible
+| date = 16 December 2021
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| round = 17
+| team1 = Liverpool
+| score = 3–1
+| report = https://www.premierleague.com/match/66510
+| team2 = [[Newcastle United F.C.|Newcastle United]]
+| goals1 = 
+*[[Diogo Jota|Jota]] {{goal|21}}
+*[[Mohamed Salah|Salah]] {{goal|25}}
+*[[Jordan Henderson|Henderson]] {{yel|70}}
+*[[Trent Alexander-Arnold|Alexander-Arnold]] {{goal|87}}
+| goals2 = 
+*[[Jonjo Shelvey|Shelvey]] {{goal|7}}
+*[[Joelinton]] {{yel|45+2}}
+*[[Ryan Fraser|Fraser]] {{yel|55}}
+*[[Isaac Hayden|Hayden]] {{yel|86}}
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 52,951
+| result = W
+}}
+{{footballbox collapsible
+| date = 19 December 2021
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| round = 18
+| team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| score = 2–2
+| report = https://www.premierleague.com/match/66518
+| team2 = Liverpool
+|goals1 = 
+*[[Harry Kane|Kane]] {{goal|13}}, {{yel|20}}
+*[[Emerson Royal|Emerson]] {{yel|28}}
+*[[Harry Winks|Winks]] {{yel|47}}
+*[[Ben Davies (footballer, born 1993)|Davies]] {{yel|58}}
+*[[Son Heung-min]] {{goal|74}}
+|goals2 = 
+*[[Tyler Morton|Morton]] {{yel|23}}
+*[[Diogo Jota|Jota]] {{goal|35}}
+*[[Andy Robertson|Robertson]] {{goal|69}}, {{sentoff|0|77}}
+*[[Naby Keïta|Keïta]] {{yel|84}}
+*[[Ibrahima Konaté|Konaté]] {{yel|85}}
+*[[Konstantinos Tsimikas|Tsimikas]] {{yel|90+5}}
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]]
+| attendance = 45,421
+| result = D
+|note = Liverpool manager [[Jürgen Klopp]] was cautioned {{yel}} in the 39th minute for arguing with the referee.
+}}
+{{footballbox collapsible
+| date = 28 December 2021
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| round = 20
+| team1 = [[Leicester City F.C.|Leicester City]]
+| score = 1–0
+| report = https://www.premierleague.com/match/66538
+| team2 = Liverpool
+| goals1 = 
+*[[Ademola Lookman|Lookman]] {{goal|59}}
+| goals2 = 
+*[[Joël Matip|Matip]] {{yel|4}}
+*[[Mohamed Salah|Salah]] {{penmiss}} 16'
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| stadium = [[King Power Stadium]]
+| location = [[Leicester]]
+| attendance = 32,230
+| result = L
+}}
+{{footballbox collapsible
+| date = 2 January 2022
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| round = 21
+| team1 = [[Chelsea F.C.|Chelsea]]
+| score = 2–2
+| report = https://www.premierleague.com/match/66544
+| team2 = Liverpool
+| goals1 = 
+*[[Christian Pulisic|Pulisic]] {{yel|17}}, {{goal|45+1}}
+*[[Mateo Kovačić|Kovačić]] {{goal|42}}
+| goals2 = 
+*[[Sadio Mané|Mané]] {{yel|1}}, {{goal|9}}
+*[[Mohamed Salah|Salah]] {{goal|26}}
+*[[Ibrahima Konaté|Konaté]] {{yel|83}}
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| location = [[Fulham]]
+| attendance = 40,072
+| result = D
+| note = Liverpool was managed by their assistant manager [[Pepijn Lijnders]] as [[Jürgen Klopp]] tested positive for COVID.
+}}
+{{footballbox collapsible
+| date = 16 January 2022
+| time = 14:00 [[Greenwich Mean Time|GMT]]
+| round = 22
+| team1 = Liverpool
+| score = 3–0
+| report = https://www.premierleague.com/match/66555
+| team2 = [[Brentford F.C.|Brentford]]
+| goals1 = 
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{goal|44}}
+*[[Alex Oxlade-Chamberlain|Oxlade-Chamberlain]] {{goal|69}}
+*[[Takumi Minamino|Minamino]] {{goal|77}}
+| goals2 = 
+*[[Kristoffer Ajer|Ajer]] {{yel|19}}
+| referee = [[Jon Moss (referee)|Jon Moss]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 52,824
+| result = W
+}}
+{{footballbox collapsible
+| date = 23 January 2022
+| time = 14:00 [[Greenwich Mean Time|GMT]]
+| round = 23
+| team1 = [[Crystal Palace F.C.|Crystal Palace]]
+| score = 1–3
+| report = https://www.premierleague.com/match/66565
+| team2 = Liverpool
+| goals1 = 
+*[[Conor Gallagher|Gallagher]] {{yel|51}}
+*[[Odsonne Édouard|Édouard]] {{goal|55}}
+*[[Will Hughes|Hughes]] {{yel|61}}
+*[[Jeffrey Schlupp|Schlupp]] {{yel|82}}
+*[[Joel Ward (footballer)|Ward]] {{yel|90+3}}
+| goals2 = 
+*[[Virgil van Dijk|Van Dijk]] {{goal|8}}
+*[[Alex Oxlade-Chamberlain|Oxlade-Chamberlain]] {{goal|32}}
+*[[Roberto Firmino|Firmino]] {{yel|81}}
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{goal|89|pen.}}
+| referee = [[Kevin Friend]]
+| stadium = [[Selhurst Park]]
+| location = [[Selhurst]]
+| attendance = 25,002
+| result = W
+}}
+{{footballbox collapsible
+| date = 10 February 2022
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| round = 24
+| team1 = Liverpool
+| score = 2–0
+| report = https://www.premierleague.com/match/66578
+| team2 = [[Leicester City F.C.|Leicester City]]
+| goals1 = 
+*[[Diogo Jota|Jota]] {{goal|34||87}}
+*[[Roberto Firmino|Firmino]] {{yel|50}}
+| goals2 = 
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,050
+| result = W
+}}
+{{footballbox collapsible
+| date = 13 February 2022
+| time = 14:00 [[Greenwich Mean Time|GMT]]
+| round = 25
+| team1 = [[Burnley F.C.|Burnley]]
+| score = 0–1
+| report = https://www.premierleague.com/match/66583
+| team2 = Liverpool
+| goals1 = 
+| goals2 = [[Jordan Henderson|Henderson]] {{yel|26}}<br>[[Fabinho (footballer, born 1993)|Fabinho]] {{goal|40}}
+| referee = [[Martin Atkinson]]
+| stadium = [[Turf Moor]]
+| location = [[Burnley]]
+| attendance = 21,239
+| result = W
+}}
+{{footballbox collapsible
+| date = 19 February 2022
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| round = 26
+| team1 = Liverpool
+| score = 3–1
+| report = https://www.premierleague.com/match/66597
+| team2 = [[Norwich City F.C.|Norwich City]]
+| goals1 = 
+*[[Sadio Mané|Mané]] {{goal|64}}
+*[[Mohamed Salah|Salah]] {{goal|67}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|81}}
+| goals2 = 
+*[[Brandon Williams (footballer)|Williams]] {{yel|40}}
+*[[Milot Rashica|Rashica]] {{goal|48}}
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,135
+| result = W
+}}
+{{footballbox collapsible
+| date = 23 February 2022
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| round = 19
+| team1 = Liverpool
+| score = 6–0
+| report = https://www.premierleague.com/match/66525
+| team2 = [[Leeds United F.C.|Leeds United]]
+| goals1 = 
+*[[Mohamed Salah|Salah]] {{goal|15|pen.|35|pen.}}
+*[[Joël Matip|Matip]] {{goal|30}}
+*[[Sadio Mané|Mané]] {{goal|80||90+1}}
+*[[Virgil van Dijk|Van Dijk]] {{goal|90+3}}
+| goals2 = 
+*[[Junior Firpo|Firpo]] {{yel|18}}
+*[[Luke Ayling|Ayling]] {{yel|33}}
+*[[Joe Gelhardt|Gelhardt]] {{yel|90+2}}
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,018
+| result = W
+| note = The match was originally scheduled for 26 December 2021, but was postponed at the request of both clubs due to a COVID outbreak in the Leeds squad.
+}}
+{{footballbox collapsible
+| date = 5 March 2022
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| round = 28
+| team1 = Liverpool
+| score = 1–0
+| report = https://www.premierleague.com/match/66615
+| team2 = [[West Ham United F.C.|West Ham United]]
+| goals1 = 
+*[[Sadio Mané|Mané]] {{goal|27}}, {{yel|90+5}}
+*[[Diogo Jota|Jota]] {{yel|89}}
+| goals2 = 
+*[[Craig Dawson|Dawson]] {{yel|31}}
+| referee = [[Jon Moss (referee)|Jon Moss]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,059
+| result = W
+}}
+{{footballbox collapsible
+| date = 12 March 2022
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| round = 29
+| team1 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| score = 0–2
+| report = https://www.premierleague.com/match/66624
+| team2 = Liverpool
+| goals1 = 
+*[[Yves Bissouma|Bissouma]] {{yel|55}}
+*[[Alexis Mac Allister|Mac Allister]] {{yel|75}}
+*[[Neal Maupay|Maupay]] {{yel|81}}
+| goals2 = 
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|19}}
+*[[Mohamed Salah|Salah]] {{goal|61|pen.}}
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{yel|84}}
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| stadium = [[Falmer Stadium]]
+| location = [[Brighton and Hove]]
+| attendance = 31,474
+| result = W
+}}
+{{footballbox collapsible
+| date = 16 March 2022
+| time = 20:15 [[Greenwich Mean Time|GMT]]
+| round = 27
+| team1 = [[Arsenal F.C.|Arsenal]]
+| score = 0–2
+| report = https://www.premierleague.com/match/66602
+| team2 = Liverpool
+| goals1 = 
+| goals2 = 
+*[[Diogo Jota|Jota]] {{goal|55}}
+*[[Roberto Firmino|Firmino]] {{goal|62}}, {{yel|63}}
+| referee = [[Andre Marriner]]
+| stadium = [[Emirates Stadium]]
+| location = [[Holloway, London|Holloway]]
+| attendance = 59,968
+| result = W
+| note = The match was originally scheduled for 26 February 2022, but was postponed due to Liverpool's participation in the EFL Cup final.
+}}
+{{footballbox collapsible
+| date = 2 April 2022
+| time = 12:30 [[British Summer Time|BST]]
+| round = 31
+| team1 = Liverpool
+| score = 2–0
+| report = https://www.premierleague.com/match/66647
+| team2 = [[Watford F.C.|Watford]]
+| goals1 = 
+*[[Diogo Jota|Jota]] {{goal|22}}
+*[[Joe Gomez|Gomez]] {{yel|45+1}}
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{goal|89|pen.}}
+| goals2 = 
+*[[Cucho Hernández|Hernández]] {{yel|59}}
+| referee = [[Stuart Attwell]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,104
+| result = W
+}}
+{{footballbox collapsible
+| date = 10 April 2022
+| time = 16:30 [[British Summer Time|BST]]
+| round = [[Liverpool F.C.–Manchester City F.C. rivalry|32]]
+| team1 = [[Manchester City F.C.|Manchester City]]
+| score = 2–2
+| report = https://www.premierleague.com/match/66657
+| team2 = Liverpool
+| goals1 = 
+*[[Kevin De Bruyne|De Bruyne]] {{goal|5}}
+*[[Gabriel Jesus]] {{goal|36}}
+*[[Bernardo Silva|Silva]] {{yel|40}}
+| goals2 = 
+*[[Diogo Jota|Jota]] {{goal|13}}
+*[[Andy Robertson|Robertson]] {{yel|28}}
+*[[Sadio Mané|Mané]] {{goal|46}}
+*[[Thiago Alcântara|Thiago]] {{yel|61}}
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{yel|83}}
+*[[Virgil van Dijk|Van Dijk]] {{yel|89}}
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| stadium = [[City of Manchester Stadium]]
+| location = [[Manchester]]
+| attendance = 53,197
+| result = D
+}}
+{{footballbox collapsible
+| date = 19 April 2022
+| time = 20:00 [[British Summer Time|BST]]
+| round = [[Liverpool F.C.–Manchester United F.C. rivalry|30]]
+| team1 = Liverpool
+| score = 4–0
+| report = https://www.premierleague.com/match/66635
+| team2 = [[Manchester United F.C.|Manchester United]]
+| goals1 = 
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|5}}
+*[[Mohamed Salah|Salah]] {{goal|22||85}}
+*[[Sadio Mané|Mané]] {{goal|68}}
+*[[Naby Keïta|Keïta]] {{yel|86}}
+| goals2 = 
+*[[Hannibal Mejbri|Mejbri]] {{yel|88}}
+*[[Bruno Fernandes|Fernandes]] {{yel|89}}
+| referee = [[Martin Atkinson]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 52,686
+| result = W
+| note = The match was originally scheduled for 20 March 2022, but was postponed due to Liverpool's participation in the FA Cup quarter-finals.
+}}
+{{footballbox collapsible
+| date = 24 April 2022
+| time = 16:30 [[British Summer Time|BST]]
+| round = [[Merseyside derby|34]]
+| team1 = Liverpool
+| score = 2–0
+| report = https://www.premierleague.com/match/66679
+| team2 = [[Everton F.C.|Everton]]
+| goals1 = 
+*[[Sadio Mané|Mané]] {{yel|45+2}}
+*[[Trent Alexander-Arnold|Alexander-Arnold]] {{yel|58}}
+*[[Andy Robertson|Robertson]] {{goal|62}}
+*[[Divock Origi|Origi]] {{goal|85}}
+| goals2 = 
+*[[Anthony Gordon (footballer)|Gordon]] {{yel|25}}
+*[[Abdoulaye Doucouré|Doucouré]] {{yel|45}}
+*[[Allan (footballer, born 1991)|Allan]] {{yel|66}}
+*[[Dele Alli|Alli]] {{yel|89}}
+*[[Richarlison]] {{yel|90+1}}
+| referee = [[Stuart Attwell]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 52,852
+| result = W
+}}
+{{footballbox collapsible
+| date = 30 April 2022
+| time = 12:30 [[British Summer Time|BST]]
+| round = 35
+| team1 = [[Newcastle United F.C.|Newcastle United]]
+| score = 0–1
+| report = https://www.premierleague.com/match/66686
+| team2 = Liverpool
+| goals1 = 
+*[[Joelinton]] {{yel|43}}
+| goals2 = 
+*[[Naby Keïta|Keïta]] {{goal|19}}
+*[[Diogo Jota|Jota]] {{yel|43}}
+*[[Joe Gomez|Gomez]] {{yel|51}}
+*[[Sadio Mané|Mané]] {{yel|69}}
+| referee = [[Andre Marriner]]
+| stadium = [[St James' Park]]
+| location = [[Newcastle upon Tyne|Newcastle]]
+| attendance = 52,281
+| result = W
+}}
+{{footballbox collapsible
+| date = 7 May 2022
+| time = 19:45 [[British Summer Time|BST]]
+| round = 36
+| team1 = Liverpool
+| score = 1–1
+| report = https://www.premierleague.com/match/66699
+| team2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| goals1 = 
+*[[Kostas Tsimikas|Tsimikas]] {{yel|69}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|74}}
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{yel|80}}
+*[[Naby Keïta|Keïta]] {{yel|90+3}}
+| goals2 = 
+*[[Ben Davies (footballer, born 1993)|Davies]] {{yel|54}}
+*[[Son Heung-min]] {{goal|56}}
+*[[Ryan Sessegnon|Sessegnon]] {{yel|70}}
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,177
+| result = D
+}}
+{{footballbox collapsible
+| date = 10 May 2022
+| time = 20:00 [[British Summer Time|BST]]
+| round = 33
+| team1 = [[Aston Villa F.C.|Aston Villa]]
+| score = 1–2
+| report = https://www.premierleague.com/match/66662
+| team2 = Liverpool
+| goals1 = 
+*[[Douglas Luiz]] {{goal|3}}
+| goals2 = 
+*[[Joël Matip|Matip]] {{goal|6}}
+*[[Sadio Mané|Mané]] {{goal|65}}
+| referee = [[Jon Moss (referee)|Jon Moss]]
+| stadium = [[Villa Park]]
+| location = [[Birmingham]]
+| attendance = 41,919
+| result = W
+| note = The match was originally scheduled for 16 April 2022, but was postponed due to Liverpool's participation in the FA Cup semi-finals.
+}}
+{{footballbox collapsible
+| date = 17 May 2022
+| time = 19:45 [[British Summer Time|BST]]
+| round = 37
+| team1 = [[Southampton F.C.|Southampton]]
+| score = 1–2
+| report = https://www.premierleague.com/match/66707
+| team2 = Liverpool
+| goals1 = 
+*[[Nathan Redmond|Redmond]] {{goal|13}}
+*[[Nathan Tella|Tella]] {{yel|69}}
+*[[Jack Stephens (footballer)|Stephens]] {{yel|74}}
+| goals2 = 
+*[[Takumi Minamino|Minamino]] {{goal|27}}
+*[[Joël Matip|Matip]] {{goal|67}}
+| referee = [[Martin Atkinson]]
+| stadium = [[St Mary's Stadium]]
+| location = [[Southampton]]
+| attendance = 31,588
+| result = W
+| note = The match was originally scheduled for 15 May 2022, but was postponed due to Liverpool's participation in the FA Cup final. 
+}}
+{{footballbox collapsible
+| date = 22 May 2022
+| time = 16:00 [[British Summer Time|BST]]
+| round = 38
+| team1 = Liverpool
+| score = 3–1
+| report = https://www.premierleague.com/match/66719
+| team2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| goals1 = 
+*[[Sadio Mané|Mané]] {{goal|24}}
+*[[Joël Matip|Matip]] {{yel|46}}
+*[[Mohamed Salah|Salah]] {{goal|84}}
+*[[Andy Robertson|Robertson]] {{goal|89}}
+| goals2 = 
+*[[Pedro Neto|Neto]] {{goal|3}}
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,097
+| result = W
+}}
+
+===FA Cup===
+{{main|2021–22 FA Cup}}
+Liverpool were drawn at home to [[Shrewsbury Town F.C.|Shrewsbury Town]] in the third round to begin their participation in the competition.<ref>{{cite news |title=Third round Draw |url=https://www.thefa.com/news/2021/dec/06/emirates-fa-cup-third-round-proper-draw-20210612 |date=6 December 2021 |publisher=The Football Association |access-date=9 December 2021}}</ref>
+
+{{Football box collapsible
+|date = 9 January 2022
+|time = 14:00 [[Greenwich Mean Time|GMT]]
+|round = [[2021–22 FA Cup#Third round proper|Third round]]
+|team1 = Liverpool
+|score = 4–1
+|report = https://www.bbc.co.uk/sport/football/59911414
+|team2 = [[Shrewsbury Town F.C.|Shrewsbury Town]]
+|goals1 = 
+*[[Kaide Gordon|Gordon]] {{goal|34}}
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{goal|44|pen.|90+3}}
+*[[Roberto Firmino|Firmino]] {{goal|79}}
+|goals2 = 
+*[[Matthew Pennington|Pennington]] {{yel|13}}
+*[[Daniel Udoh|Udoh]] {{goal|27}}
+*[[Ethan Ebanks-Landell|Ebanks-Landell]] {{yel|79}}
+*[[Josh Daniels|Daniels]] {{yel|89}}
+|stadium = [[Anfield]]
+|location = [[Liverpool]]
+|attendance = 52,226
+|referee = [[David Coote (referee)|David Coote]]
+|result = W
+}}
+{{Football box collapsible
+|date = 6 February 2022
+|time = 12:00 [[Greenwich Mean Time|GMT]]
+|round = [[2021–22 FA Cup#Fourth round proper|Fourth round]]
+|team1 = Liverpool
+|score = 3–1
+|report = https://www.bbc.co.uk/sport/football/60187991
+|team2 = [[Cardiff City F.C.|Cardiff City]]
+|goals1 = 
+*[[Caoimhín Kelleher|Kelleher]] {{yel|46}}
+*[[Diogo Jota|Jota]] {{goal|53}}
+*[[Takumi Minamino|Minamino]] {{goal|68}}
+*[[Harvey Elliott|Elliott]] {{goal|76}}
+|goals2 = 
+*[[Will Vaulks|Vaulks]] {{yel|52}}
+*[[Rubin Colwill|Colwill]] {{goal|80}}
+|stadium = [[Anfield]]
+|location = [[Liverpool]]
+|attendance = 51,268
+|referee = [[Andy Madley]]
+|result = W
+}}
+{{Football box collapsible
+|date = 2 March 2022
+|time = 20:15 [[Greenwich Mean Time|GMT]]
+|round = [[2021–22 FA Cup#Fifth round proper|Fifth round]]
+|team1 = Liverpool
+|score = 2–1
+|report = https://www.bbc.co.uk/sport/football/60562817
+|team2 = [[Norwich City F.C.|Norwich City]]
+|goals1 = 
+*[[Takumi Minamino|Minamino]] {{goal|27||39}}
+*[[Diogo Jota|Jota]] {{yel|34}}
+*[[Jordan Henderson|Henderson]] {{yel|50}}
+|goals2 = 
+*[[Sam Byram|Byram]] {{yel|17}}
+*[[Josh Sargent|Sargent]] {{yel|58}}
+*[[Lukas Rupp|Rupp]] {{goal|76}}
+*[[Kieran Dowell|Dowell]] {{yel|85}}
+|stadium = [[Anfield]]
+|location = [[Liverpool]]
+|attendance = 52,231
+|referee = [[Martin Atkinson]]
+|result = W
+}}
+{{Football box collapsible
+|date = 20 March 2022
+|time = 18:00 [[Greenwich Mean Time|GMT]]
+|round = [[2021–22 FA Cup#Quarter-finals|Quarter-finals]]
+|team1 = [[Nottingham Forest F.C.|Nottingham Forest]] 
+|score = 0–1
+|report = https://www.bbc.co.uk/sport/football/60698123
+|team2 = Liverpool
+|goals1 = 
+|goals2 = 
+*[[Joe Gomez|Gomez]] {{yel|60}}
+*[[Diogo Jota|Jota]] {{goal|78}}
+|stadium = [[City Ground]] 
+|location = [[West Bridgford]] 
+|attendance = 28,584
+|referee = [[Craig Pawson]]
+|result = W
+}}
+{{Football box collapsible
+|date = 16 April 2022
+|round = [[2021–22 FA Cup#Semi-finals|Semi-finals]]
+|time = 15:30 [[British Summer Time|BST]]
+|team1 = [[Manchester City F.C.|Manchester City]]
+|score = 2–3
+|report = https://www.bbc.co.uk/sport/football/61120882
+|team2 = Liverpool
+|goals1 = 
+*[[Gabriel Jesus]] {{yel|27}}
+*[[Jack Grealish|Grealish]] {{goal|47}}
+*[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|57}}
+*[[Bernardo Silva|Silva]] {{goal|90+1}}
+|goals2 =
+*[[Ibrahima Konaté|Konaté]] {{goal|9}}
+*[[Sadio Mané|Mané]] {{goal|17||45}}, {{yel|61}}
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{yel|37}}
+*[[Naby Keïta|Keïta]] {{yel|48}}
+|stadium = [[Wembley Stadium]]
+|location = [[Wembley]]
+|attendance = 73,793
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[2022 FA Cup Final|Final]]
+|date = 14 May 2022
+|time = 16:45 [[British Summer Time|BST]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 0–0
+|aet = yes
+|report = https://www.bbc.co.uk/sport/football/61429640
+|team2 = Liverpool
+|goals1 =
+*[[Reece James (footballer, born 1999)|James]] {{yel|77}}
+|goals2 =
+|penalties1 =
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{pengoal}}
+*[[César Azpilicueta|Azpilicueta]] {{penmiss}}
+*[[Reece James (footballer, born 1999)|James]] {{pengoal}}
+*[[Ross Barkley|Barkley]] {{pengoal}}
+*[[Jorginho (footballer, born December 1991)|Jorginho]] {{pengoal}}
+*[[Hakim Ziyech|Ziyech]] {{pengoal}}
+*[[Mason Mount|Mount]] {{penmiss}}
+|penaltyscore = 5–6
+|penalties2   =
+*{{pengoal}} [[James Milner|Milner]]
+*{{pengoal}} [[Thiago Alcântara|Thiago]]
+*{{pengoal}} [[Roberto Firmino|Firmino]]
+*{{pengoal}} [[Trent Alexander-Arnold|Alexander-Arnold]]
+*{{penmiss}} [[Sadio Mané|Mané]]
+*{{pengoal}} [[Diogo Jota|Jota]]
+*{{pengoal}} [[Kostas Tsimikas|Tsimikas]]
+|stadium = [[Wembley Stadium]]
+|location = [[Wembley]]
+|attendance = 84,897
+|referee = [[Craig Pawson]]
+|result = D
+}}
+
+===EFL Cup===
+{{main|2021–22 EFL Cup}}
+Liverpool entered the competition in the third round.
+
+{{footballbox collapsible
+| date = 21 September 2021
+| time = 19:45 [[British Summer Time|BST]]
+| round = [[2021–22 EFL Cup#Third round|Third round]]
+| team1 = [[Norwich City F.C.|Norwich City]]
+| score = 0–3
+| report = https://www.bbc.co.uk/sport/football/58553817
+| team2 = Liverpool
+| goals1 = 
+*[[Christos Tzolis|Tzolis]] {{penmiss}} 42'
+*[[Pierre Lees-Melou|Lees-Melou]] {{yel|71}}
+*[[Lukas Rupp|Rupp]] {{yel|90}}
+| goals2 = 
+*[[Takumi Minamino|Minamino]] {{goal|4||80}}
+*[[Divock Origi|Origi]] {{goal|50}}
+| stadium = [[Carrow Road]]
+| location = [[Norwich]]
+| referee = [[Darren England]]
+| attendance = 26,353
+| result = W
+}}
+{{footballbox collapsible
+| date = 27 October 2021
+| time = 19:45 [[British Summer Time|BST]]
+| round = [[2021–22 EFL Cup#Fourth round|Fourth round]]
+| team1 = [[Preston North End F.C.|Preston North End]]
+| score = 0–2
+| report = https://www.bbc.co.uk/sport/football/58976551
+| team2 = Liverpool
+| goals2 = 
+*[[Takumi Minamino|Minamino]] {{goal|62}}
+*[[Divock Origi|Origi]] {{goal|84}}
+| stadium = [[Deepdale]]
+| location = [[Preston, Lancashire|Preston]]
+| referee = [[David Coote (referee)|David Coote]]
+| attendance = 22,131
+| result = W
+}}
+{{footballbox collapsible
+| date = 22 December 2021
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| round = [[2021–22 EFL Cup#Quarter-finals|Quarter-finals]]
+| team1 = Liverpool
+| score = 3–3
+| report = https://www.bbc.co.uk/sport/football/59662105
+| team2 = [[Leicester City F.C.|Leicester City]]
+| goals1 = 
+*[[Tyler Morton|Morton]] {{yel|10}}
+*[[Alex Oxlade-Chamberlain|Oxlade-Chamberlain]] {{goal|19}}
+*[[Diogo Jota|Jota]] {{goal|68}}
+*[[Takumi Minamino|Minamino]] {{goal|90+5}}
+| goals2 = 
+*[[Jamie Vardy|Vardy]] {{goal|9||13}}
+*[[James Maddison|Maddison]] {{goal|33}}, {{yel|74}}
+*[[Luke Thomas (footballer, born 2001)|Thomas]] {{yel|89}}
+|penalties1=
+*[[James Milner|Milner]] {{pengoal}}
+*[[Roberto Firmino|Firmino]] {{pengoal}}
+*[[Alex Oxlade-Chamberlain|Oxlade-Chamberlain]] {{pengoal}}
+*[[Naby Keïta|Keïta]] {{pengoal}}
+*[[Takumi Minamino|Minamino]] {{penmiss}}
+*[[Diogo Jota|Jota]] {{pengoal}}
+|penaltyscore= 5–4
+|penalties2=
+*{{pengoal}} [[Youri Tielemans|Tielemans]]
+*{{pengoal}} [[James Maddison|Maddison]]
+*{{pengoal}} [[Marc Albrighton|Albrighton]]
+*{{penmiss}} [[Luke Thomas (footballer, born 2001)|Thomas]]
+*{{pengoal}} [[Kelechi Iheanacho|Iheanacho]]
+*{{penmiss}} [[Ryan Bertrand|Bertrand]]
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| referee = [[Andy Madley]]
+| attendance = 52,020
+| result = D
+}}
+{{footballbox collapsible
+| date = 13 January 2022
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| round = [[2021–22 EFL Cup#Semi-finals|Semi-finals first leg]]
+| team1 = Liverpool
+| score = 0–0
+| report = https://www.bbc.co.uk/sport/football/59889970
+| team2 = [[Arsenal F.C.|Arsenal]]
+| goals1 = 
+*[[Andy Robertson|Robertson]] {{yel|57}}
+| goals2 = 
+*[[Granit Xhaka|Xhaka]] {{sentoff|0|24}}
+*[[Gabriel (footballer, born 1997)|Gabriel]] {{yel|72}}
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| attendance = 52,377
+| result = D
+}}
+{{footballbox collapsible
+| date = 20 January 2022
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| round = [[2021–22 EFL Cup#Semi-finals|Semi-finals second leg]]
+| team1 = [[Arsenal F.C.|Arsenal]]
+| score = 0–2
+| aggregatescore = 0–2
+| report = https://www.bbc.co.uk/sport/football/59824287
+| team2 = Liverpool
+| goals1 = 
+*[[Alexandre Lacazette|Lacazette]] {{yel|44}}
+*[[Takehiro Tomiyasu|Tomiyasu]] {{yel|56}}
+*[[Thomas Partey|Partey]] {{sentoff|2|87|90}}
+| goals2 = 
+*[[Diogo Jota|Jota]] {{goal|19||77}}
+*[[Ibrahima Konaté|Konaté]] {{yel|63}}
+*[[Curtis Jones (footballer, born 2001)|Jones]] {{yel|82}}
+*[[Takumi Minamino|Minamino]] {{yel|90+1}}
+| stadium = [[Emirates Stadium]]
+| location = [[Holloway, London|Holloway]]
+| referee = [[Martin Atkinson]]
+| attendance = 59,360
+| result = W
+| note = The match was originally scheduled for 6 January 2022, but was postponed due to a [[COVID-19]] outbreak among Liverpool's players and staff.<ref>{{cite news|url=https://www.theguardian.com/football/2022/jan/05/liverpool-covid-arsenal-carabao-cup|title=Liverpool's Carabao Cup semi-final at Arsenal postponed after EFL ruling|first=Andy|last=Hunter|newspaper=The Guardian|date=5 January 2022|access-date=5 January 2022}}</ref>
+}}
+{{Football box collapsible
+|date = 27 February 2022
+|time = 16:30 [[Greenwich Mean Time|GMT]]
+|round = [[2022 EFL Cup Final|Final]]
+|team1 = [[Chelsea F.C.|Chelsea]]
+|score = 0–0
+|aet = yes
+|report = https://www.bbc.co.uk/sport/football/60450274
+|team2 = Liverpool
+|goals1 = 
+*[[Mateo Kovačić|Kovačić]] {{yel|90}}
+*[[N'Golo Kanté|Kanté]] {{yel|99}}
+*[[Kai Havertz|Havertz]] {{yel|105+2}}
+|goals2 =
+*[[Trent Alexander-Arnold|Alexander-Arnold]] {{yel|105+2}}
+|penalties1 =
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{pengoal}}
+*[[Romelu Lukaku|Lukaku]] {{pengoal}}
+*[[Kai Havertz|Havertz]] {{pengoal}}
+*[[Reece James (footballer, born 1999)|James]] {{pengoal}}
+*[[Jorginho (footballer, born December 1991)|Jorginho]] {{pengoal}}
+*[[Antonio Rüdiger|Rüdiger]] {{pengoal}}
+*[[N'Golo Kanté|Kanté]] {{pengoal}}
+*[[Timo Werner|Werner]] {{pengoal}}
+*[[Thiago Silva]] {{pengoal}}
+*[[Trevoh Chalobah|Chalobah]] {{pengoal}}
+*[[Kepa Arrizabalaga|Arrizabalaga]] {{penmiss}}
+|penaltyscore = 10–11
+|penalties2   =
+*{{pengoal}} [[James Milner|Milner]]
+*{{pengoal}} [[Fabinho (footballer, born 1993)|Fabinho]]
+*{{pengoal}} [[Virgil van Dijk|Van Dijk]]
+*{{pengoal}} [[Trent Alexander-Arnold|Alexander-Arnold]]
+*{{pengoal}} [[Mohamed Salah|Salah]]
+*{{pengoal}} [[Diogo Jota|Jota]]
+*{{pengoal}} [[Divock Origi|Origi]]
+*{{pengoal}} [[Andy Robertson|Robertson]]
+*{{pengoal}} [[Harvey Elliott|Elliott]]
+*{{pengoal}} [[Ibrahima Konaté|Konaté]]
+*{{pengoal}} [[Caoimhín Kelleher|Kelleher]]
+|stadium = [[Wembley Stadium]]
+|location = [[Wembley]]
+|attendance = 85,512
+|referee = [[Stuart Attwell]]
+|result = D
+}}
+
+===UEFA Champions League===
+{{main|2021–22 UEFA Champions League}}
+Liverpool entered the competition in the group stage.
+
+====Group stage====
+{{main|2021–22 UEFA Champions League group stage#Group B}}
+The draw for the group stage was held on 26 August 2021,<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/draws/2022/2001308/ |title=UEFA Champions League group stage draw |website=[[UEFA]] |publisher=Union of European Football Associations |date=26 August 2021 |access-date=29 August 2021}}</ref> with the fixtures announced a day later.<ref>{{cite web |title=Liverpool's Champions League fixture dates confirmed |url=https://www.liverpoolfc.com/news/first-team/441710-liverpool-s-champions-league-fixture-dates-confirmed |publisher=Liverpool F.C. |date=27 August 2021 |access-date=29 August 2021}}</ref>
+{{:2021–22 UEFA Champions League group stage|transcludesection=Group B|show_matches=yes|showteam=LIV}}
+
+{{Football box collapsible
+|round = 1
+|date = 15 September 2021
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Liverpool {{fbaicon|ENG}}
+|score = 3–2
+|report = https://www.uefa.com/uefachampionsleague/match/2032683/
+|team2 = {{fbaicon|ITA}} [[A.C. Milan|Milan]]
+|goals1 =
+*[[Fikayo Tomori|Tomori]] {{goal|9|o.g.}}
+*[[Mohamed Salah|Salah]] {{penmiss}} 14', {{goal|48}}
+*[[Jordan Henderson|Henderson]] {{goal|69}}
+*[[James Milner|Milner]] {{yel|90+3}}
+|goals2 =
+*[[Ismaël Bennacer|Bennacer]] {{yel|13}}
+*[[Ante Rebić|Rebić]] {{goal|42}}
+*[[Brahim Díaz|Brahim]] {{goal|44}}, {{yel|61}}
+|stadium = [[Anfield]]
+|location = [[Liverpool]], England
+|attendance = 51,445
+|referee = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result = W
+}}
+{{Football box collapsible
+|round = 2
+|date = 28 September 2021
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Porto|Porto]] {{fbaicon|POR}}
+|score = 1–5
+|report = https://www.uefa.com/uefachampionsleague/match/2032714/
+|team2 = {{fbaicon|ENG}} Liverpool
+|goals1 =
+*[[Mehdi Taremi|Taremi]] {{goal|75}}
+|goals2 =
+*[[Mohamed Salah|Salah]] {{goal|18||60}}
+*[[Sadio Mané|Mané]] {{goal|45}}
+*[[Roberto Firmino|Firmino]] {{goal|77||81}}
+|stadium = [[Estádio do Dragão]]
+|location = [[Porto]], Portugal
+|attendance = 23,520
+|referee = [[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|result = W
+}}
+{{Football box collapsible
+|round = 3
+|date = 19 October 2021
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Atlético Madrid]] {{fbaicon|ESP}}
+|score = 2–3
+|report = https://www.uefa.com/uefachampionsleague/match/2032666/
+|team2 = {{fbaicon|ENG}} Liverpool
+|goals1 =
+*[[Antoine Griezmann|Griezmann]] {{goal|20||34}}, {{sentoff|0|52}}
+*[[Luis Suárez (Uruguayan footballer)|Suárez]] {{yel|90+5}}
+|goals2 =
+*[[Mohamed Salah|Salah]] {{goal|8||76|pen.}}
+*[[Naby Keïta|Keïta]] {{goal|13}}
+*[[James Milner|Milner]] {{yel|59}}
+*[[Trent Alexander-Arnold|Alexander-Arnold]] {{yel|63}}
+|stadium = [[Metropolitano Stadium|Wanda Metropolitano]]
+|location = [[Madrid]], Spain
+|attendance = 60,725
+|referee = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|result = W
+}}
+{{Football box collapsible
+|round = 4
+|date = 3 November 2021
+|time = 20:00 [[Greenwich Mean Time|GMT]] ([[UTC±00:00|UTC±0]])
+|team1 = Liverpool {{fbaicon|ENG}}
+|score = 2–0
+|report = https://www.uefa.com/uefachampionsleague/match/2032722/
+|team2 = {{fbaicon|ESP}} [[Atlético Madrid]]
+|goals1 =
+*[[Diogo Jota|Jota]] {{goal|13}}, {{yel|85}}
+*[[Sadio Mané|Mané]] {{yel|15}}, {{goal|21}}
+*[[Joël Matip|Matip]] {{yel|90+2}}
+|goals2 =
+*[[Mario Hermoso|Hermoso]] {{yel|8}}
+*[[Felipe (footballer, born 1989)|Felipe]] {{sentoff|0|36}}
+*[[Luis Suárez (Uruguayan footballer)|Suárez]] {{yel|37}}
+*[[Koke (footballer, born 1992)|Koke]] {{yel|38}}
+*[[João Félix|Félix]] {{yel|52}}
+|stadium = [[Anfield]]
+|location = [[Liverpool]], England
+|attendance = 51,347
+|referee = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result = W
+}}
+{{Football box collapsible
+|round = 5
+|date = 24 November 2021
+|time = 20:00 [[Greenwich Mean Time|GMT]] ([[UTC±00:00|UTC±0]])
+|team1 = Liverpool {{fbaicon|ENG}}
+|score = 2–0
+|report = https://www.uefa.com/uefachampionsleague/match/2032642/
+|team2 = {{fbaicon|POR}} [[FC Porto|Porto]]
+|goals1 =
+*[[Ibrahima Konaté|Konaté]] {{yel|29}}
+*[[Thiago Alcântara|Thiago]] {{goal|52}}
+*[[Mohamed Salah|Salah]] {{goal|70}}
+*[[James Milner|Milner]] {{yel|88}}
+|goals2 =
+*[[Mateus Uribe|Uribe]] {{yel|40}}
+*[[Chancel Mbemba|Mbemba]] {{yel|75}}
+|stadium = [[Anfield]]
+|location = [[Liverpool]], England
+|attendance = 52,209
+|referee = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|result = W
+}}
+{{Football box collapsible
+|round = 6
+|date = 7 December 2021
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[A.C. Milan|Milan]] {{fbaicon|ITA}}
+|score = 1–2
+|report = https://www.uefa.com/uefachampionsleague/match/2032691/
+|team2 = {{fbaicon|ENG}} Liverpool
+|goals1 = 
+*[[Fikayo Tomori|Tomori]] {{goal|29}}
+|goals2 =
+*[[Mohamed Salah|Salah]] {{goal|36}}
+*[[Divock Origi|Origi]] {{goal|55}}
+|stadium = [[San Siro]]
+|location = [[Milan]], Italy
+|attendance = 56,237
+|referee = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result = W
+}}
+
+====Knockout phase====
+{{main|2021–22 UEFA Champions League knockout phase}}
+=====Round of 16=====
+The draw for the round of 16 took place on 13 December 2021 at [[UEFA]]'s headquarters in Nyon, Switzerland. Liverpool were drawn against reigning [[2020–21 Serie A|Serie A]] champions [[Inter Milan]].<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0265-115e77805e06-3dbc1740a323-1000/ |title=2021/22 UEFA Champions League: all you need to know |website=[[UEFA]] |publisher=Union of European Football Associations |date=19 January 2021 |access-date=19 January 2021}}</ref>
+
+{{Football box collapsible
+|round = [[2021–22 UEFA Champions League knockout phase#Round of 16|First leg]]
+|date = 16 February 2022
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Inter Milan]] {{fbaicon|ITA}}
+|score = 0–2
+|report = https://www.uefa.com/uefachampionsleague/match/2033898/
+|team2 = {{fbaicon|ENG}} Liverpool
+|goals1 =
+|goals2 =
+*[[Roberto Firmino|Firmino]] {{goal|75}}
+*[[Mohamed Salah|Salah]] {{goal|83}}
+|stadium = [[San Siro]]
+|location = [[Milan]], Italy
+|attendance = 37,918
+|referee = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2021–22 UEFA Champions League knockout phase#Round of 16|Second leg]]
+|date = 8 March 2022
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Liverpool {{fbaicon|ENG}}
+|score = 0–1
+|aggregatescore = 2–1
+|report = https://www.uefa.com/uefachampionsleague/match/2033904/
+|team2 = {{fbaicon|ITA}} [[Inter Milan]]
+|goals1 =
+*[[Diogo Jota|Jota]] {{yel|40}}
+*[[Andy Robertson|Robertson]] {{yel|47}}
+*[[Sadio Mané|Mané]] {{yel|71}}
+|goals2 =
+*[[Alexis Sánchez|Sánchez]] {{sentoff|2|45+4|63}}
+*[[Arturo Vidal|Vidal]] {{yel|45+6}}
+*[[Lautaro Martínez|Martínez]] {{goal|62}}
+*[[Alessandro Bastoni|Bastoni]] {{yel|85}}
+*[[Roberto Gagliardini|Gagliardini]] {{yel|90+4}}
+|stadium = [[Anfield]]
+|location = [[Liverpool]], England
+|attendance = 51,747
+|referee = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|result = L
+}}
+
+=====Quarter-finals=====
+The draw for the quarter-finals was held on 18 March 2022, with Liverpool being paired with [[S.L. Benfica|Benfica]].<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/draws/2022/2001310/ |title=UEFA Champions League quarter-final, semi-final and final draws|website=[[UEFA]]|publisher=Union of European Football Associations|date=13 March 2022|access-date=13 March 2022}}</ref>
+
+{{Footballbox collapsible
+|round = [[2021–22 UEFA Champions League knockout phase#Quarter-finals|First leg]]
+|date = 5 April 2022
+|time = 20:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[S.L. Benfica|Benfica]] {{fbaicon|POR}}
+|score = 1–3
+|report = https://www.uefa.com/uefachampionsleague/match/2034656/
+|team2 = {{fbaicon|ENG}} Liverpool
+|goals1 = 
+*[[Darwin Núñez|Núñez]] {{goal|49}}
+*[[Adel Taarabt|Taarabt]] {{yel|63}}
+|goals2 =
+*[[Ibrahima Konaté|Konaté]] {{goal|17}}
+*[[Sadio Mané|Mané]] {{goal|34}}
+*[[Thiago Alcântara|Thiago]] {{yel|58}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|87}}
+|stadium = [[Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+|attendance = 59,633
+|referee = [[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+|result = W
+}}
+{{Footballbox collapsible
+|round = [[2021–22 UEFA Champions League knockout phase#Quarter-finals|Second leg]]
+|date = 13 April 2022
+|time = 20:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = Liverpool {{fbaicon|ENG}}
+|score = 3–3
+|aggregatescore = 6–4
+|report = https://www.uefa.com/uefachampionsleague/match/2034658/
+|team2 = {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1 = 
+*[[Ibrahima Konaté|Konaté]] {{goal|22}}
+*[[Roberto Firmino|Firmino]] {{goal|55||65}}
+|goals2 = 
+*[[Gonçalo Ramos|Ramos]] {{goal|32}}
+*[[Roman Yaremchuk|Yaremchuk]] {{goal|73}}
+*[[Darwin Núñez|Núñez]] {{goal|83}}
+|stadium = [[Anfield]]
+|location = [[Liverpool]], England
+|attendance = 51,737
+|referee = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|result = D
+}}
+
+=====Semi-finals=====
+The draw for the semi-finals was held on 18 March 2022, after the quarter-finals draw, with Liverpool being drawn against [[Villarreal CF|Villarreal]], reigning [[2020–21 UEFA Europa League|Europa League]] champions.
+
+{{Football box collapsible
+|round = [[2021–22 UEFA Champions League knockout phase#Semi-finals|First leg]]
+|date = 27 April 2022
+|time = 20:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = Liverpool {{fbaicon|ENG}}
+|score = 2–0
+|report = https://www.uefa.com/uefachampionsleague/match/2034661/
+|team2 = {{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Virgil van Dijk|Van Dijk]] {{yel|32}}
+*[[Pervis Estupiñán|Estupiñán]] {{goal|53|o.g.}}
+*[[Sadio Mané|Mané]] {{goal|55}}
+|goals2 =
+*[[Pervis Estupiñán|Estupiñán]] {{yel|47}}
+*[[Giovani Lo Celso|Lo Celso]] {{yel|62}}
+|stadium = [[Anfield]]
+|location = [[Liverpool]], England
+|attendance = 51,586
+|referee = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2021–22 UEFA Champions League knockout phase#Semi-finals|Second leg]]
+|date = 3 May 2022
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Villarreal CF|Villarreal]] {{fbaicon|ESP}}
+|score = 2–3
+|aggregatescore = 2–5
+|report = https://www.uefa.com/uefachampionsleague/match/2034664/
+|team2 = {{fbaicon|ENG}} Liverpool
+|goals1 =
+*[[Boulaye Dia|Dia]] {{goal|3}}
+*[[Francis Coquelin|Coquelin]] {{goal|41}}
+*[[Étienne Capoue|Capoue]] {{sentoff|2|63|86}}
+*[[Giovani Lo Celso|Lo Celso]] {{yel|81}}
+*[[Pau Torres|Torres]] {{yel|85}}
+|goals2 =
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{goal|62}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|67}}
+*[[Sadio Mané|Mané]] {{goal|74}}
+*[[Trent Alexander-Arnold|Alexander-Arnold]] {{yel|77}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]], Spain
+|attendance = 23,665
+|referee = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result = W
+}}
+
+=====Final=====
+{{main|2022 UEFA Champions League final}}
+
+The final was held on 28 May 2022 in [[Paris]], with Liverpool facing 13-time winners [[Real Madrid CF|Real Madrid]]. This was Liverpool's tenth European Cup final, the most of any English club, and third in five years; it was a rematch of the [[2018 UEFA Champions League final|2018 final]], which Liverpool lost 1–3.
+
+{{Football box collapsible
+|round = [[2022 UEFA Champions League final|Final]]
+|date = {{Start date|2022|5|28|df=y}}
+|time = 21:36 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Liverpool {{fbaicon|ENG}}
+|score = 0–1
+|report = https://www.uefa.com/uefachampionsleague/match/2034586/
+|team2 = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1 = 
+*[[Fabinho (footballer, born 1993)|Fabinho]] {{yel|62}}
+|goals2 =
+*[[Vinícius Júnior|Vinícius]] {{goal|59}}
+|stadium = [[Stade de France]]
+|location = [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+|attendance = 75,000
+|referee = [[Clément Turpin]] ([[French Football Federation|France]])
+|result = L
+|note = The match was originally scheduled for 21:00, but was delayed to 21:36 due to [[2022 UEFA Champions League final chaos|security issues]] with fans entering the stadium.
+}}
+
+==Squad statistics==
+===Appearances===
+Players with no appearances are not included on the list.
+
+[[File:LFC Parade 2022 02.jpg|thumb|right|Liverpool players celebrating during a cup double parade]]
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! rowspan="2"|No.
+! rowspan="2"|Pos.
+! rowspan="2"|Nat.
+! rowspan="2"|Player
+! colspan="2"|[[2021–22 Premier League|Premier League]]
+! colspan="2"|[[2021–22 FA Cup|FA Cup]]
+! colspan="2"|[[2021–22 EFL Cup|EFL Cup]]
+! colspan="2"|[[2021–22 UEFA Champions League|Champions League]]
+! colspan="2"|Total
+|-
+!Apps
+!Starts
+!Apps
+!Starts
+!Apps
+!Starts
+!Apps
+!Starts
+!Apps
+!Starts
+|-
+|1
+|GK
+|{{Flagicon|BRA}}
+|align=left|{{sortname|Alisson||Alisson Becker}}
+|36||36||4||4||1||1||13||13||'''54'''||'''54'''
+|-
+|3
+|DM/CM/CB
+|{{Flagicon|BRA}}
+|align=left|{{sortname|Fabinho||Fabinho (footballer, born 1993)}}
+|29||26||3||3||3||3||13||9||'''48'''||'''41'''
+|-
+|4
+|CB
+|{{Flagicon|NED}}
+|align=left|{{sortname|Virgil|van Dijk}}
+|34||34||5||5||3||3||9||9||'''51'''||'''51'''
+|-
+|5
+|CB
+|{{Flagicon|FRA}}
+|align=left|{{sortname|Ibrahima|Konaté}}
+|11||11||6||6||4||1||8||8||'''29'''||'''26'''
+|-
+|6
+|CM/DM
+|{{Flagicon|ESP}}
+|align=left|{{sortname|Thiago||Thiago Alcântara}}
+|25||17||4||2||0||0||10||7||'''39'''||'''26'''
+|-
+|7
+|CM/RWB/LWB
+|{{Flagicon|ENG}}
+|align=left|{{sortname|James|Milner}}
+|24||9||3||1||4||1||8||3||'''39'''||'''14'''
+|-
+|8
+|CM/AM
+|{{Flagicon|GUI}}
+|align=left|{{sortname|Naby|Keïta}}
+|23||14||4||4||3||2||10||5||'''40'''||'''25'''
+|-
+|9
+|CF/SS/AM
+|{{Flagicon|BRA}}
+|align=left|{{sortname|Roberto|Firmino}}
+|20||10||5||2||3||3||7||2||'''35'''||'''17'''
+|-
+|10
+|LW/RW/CF
+|{{Flagicon|SEN}}
+|align=left|{{sortname|Sadio|Mané}}
+|34||32||3||2||1||1||13||11||'''51'''||'''46'''
+|-
+|11
+|RW/SS
+|{{Flagicon|EGY}}
+|align=left|{{sortname|Mohamed|Salah}}
+|35||30||2||2||1||1||13||12||'''51'''||'''45'''
+|-
+|12
+|CB/RB/LB
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Joe|Gomez}}
+|8||4||2||2||4||3||7||2||'''21'''||'''11'''
+|-
+|13
+|GK
+|{{Flagicon|ESP}}
+|align=left|{{sortname|Adrián||Adrián (footballer)}}
+|0||0||0||0||1||1||0||0||'''1'''||'''1'''
+|-
+|14
+|DM/CM
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Jordan|Henderson}}
+|35||29||5||3||5||4||12||7||'''57'''||'''43'''
+|-
+|15
+|AM/CM/RW
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Alex|Oxlade-Chamberlain}}
+|17||9||2||2||4||3||6||3||'''29'''||'''17'''
+|-
+|17
+|CM/AM
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Curtis|Jones|Curtis Jones (footballer, born 2001)}}
+|15||10||4||3||4||3||4||2||'''27'''||'''18'''
+|-
+|18
+|LW/AM/SS
+|{{Flagicon|JPN}}
+|align=left|{{sortname|Takumi|Minamino}}
+|11||1||4||2||5||4||4||2||'''24'''||'''9'''
+|-
+|20
+|LW/CF/RW
+|{{Flagicon|POR}}
+|align=left|{{sortname|Diogo|Jota}}
+|35||27||5||3||4||2||11||7||'''55'''||'''39'''
+|-
+|21
+|LB/LWB
+|{{Flagicon|GRE}}
+|align=left|{{sortname|Kostas|Tsimikas}}
+|13||9||5||3||3||3||5||4||'''26'''||'''19'''
+|-
+|23
+|LW/AM
+|{{Flagicon|COL}}
+|align=left|{{sortname|Luis|Díaz|Luis Díaz (footballer, born 1997)}}
+|13||11||5||2||1||1||7||4||'''26'''||'''18'''
+|-
+|26
+|LB/LWB
+|{{flagicon|SCO}}
+|align=left|{{sortname|Andy|Robertson}}
+|29||29||4||3||4||3||10||9||'''47'''||'''44'''
+|-
+|27
+|CF/LW
+|{{Flagicon|BEL}}
+|align=left|{{sortname|Divock|Origi}}
+|7||0||1||1||3||2||7||2||'''18'''||'''5'''
+|-
+|32
+|CB
+|{{Flagicon|CMR}}
+|align=left|{{sortname|Joël|Matip}}
+|31||31||1||0||4||4||7||7||'''43'''||'''42'''
+|-
+|45
+|CM
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Elijah|Dixon-Bonner}}
+|0||0||1||1||1||0||0||0||'''2'''||'''1'''
+|-
+|47
+|CB
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Nat|Phillips}}
+|0||0||0||0||1||0||2||1||'''3'''||'''1'''
+|-
+|49
+|AM/RW
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Kaide|Gordon}}
+|1||0||1||1||2||2||0||0||'''4'''||'''3'''
+|-
+|62
+|GK
+|{{Flagicon|IRE}}
+|align=left|{{sortname|Caoimhín|Kelleher}}
+|2||2||2||2||4||4||0||0||'''8'''||'''8'''
+|-
+|63
+|LB/LWB
+|{{Flagicon|WAL}}
+|align=left|{{sortname|Owen|Beck|Owen Beck (footballer)}}
+|0||0||0||0||2||0||0||0||'''2'''||'''0'''
+|-
+|66
+|RB/RWB
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Trent|Alexander-Arnold}}
+|32||32||3||3||3||3||9||9||'''47'''||'''47'''
+|-
+|67
+|AM/CM/RW
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Harvey|Elliott}}
+|6||4||3||1||1||0||1||1||'''11'''||'''6'''
+|-
+|76
+|RB/RWB
+|{{Flagicon|WAL}}
+|align=left|{{sortname|Neco|Williams}}
+|1||0||0||0||4||2||3||2||'''8'''||'''4'''
+|-
+|77
+|LB/LWB
+|{{Flagicon|ENG}}
+|align=left|{{sortname|James|Norris|dab=footballer}}
+|0||0||1||0||0||0||0||0||'''1'''||'''0'''
+|-
+|80
+|CM/DM
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Tyler|Morton}}
+|2||1||2||1||3||2||2||2||'''9'''||'''6'''
+|-
+|82
+|CF
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Max|Woltman}}
+|0||0||1||1||0||0||1||0||'''2'''||'''1'''
+|-
+|84
+|RB/RWB
+|{{Flagicon|NIR}}
+|align=left|{{sortname|Conor|Bradley}}
+|0||0||1||1||3||2||1||0||'''5'''||'''3'''
+|-
+|86
+|RW/LW
+|{{Flagicon|ENG}}
+|align=left|{{sortname|Harvey|Blair}}
+|0||0||0||0||1||1||0||0||'''1'''||'''1'''
+|-
+|89
+|CB
+|{{Flagicon|FRA}}
+|align=left|{{sortname|Billy|Koumetio}}
+|0||0||0||0||1||1||0||0||'''1'''||'''1'''
+|-
+|94
+|CM
+|{{Flagicon|GER}}
+|align=left|{{sortname|Melkamu|Frauendorf}}
+|0||0||1||0||0||0||0||0||'''1'''||'''0'''
+|- class="sortbottom"
+|colspan=4|'''Total'''
+|colspan=2|'''38'''||colspan=2|'''6'''||colspan=2|'''6'''||colspan=2|'''13'''||colspan=2|'''63'''
+|}
+
+===Goals===
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! style="background:#d50000; color:white; width:35px;"|{{Abbr|Rank|Ranking}}
+! style="background:#d50000; color:white; width:35px;"|{{Abbr|Pos.|Position}}
+! style="background:#d50000; color:white; width:35px;"|{{Abbr|No.|Squad Number}}
+! style="background:#d50000; color:white;"|Player
+! style="background:#d50000; color:white; width:75px;"|Premier League
+! style="background:#d50000; color:white; width:75px;"|FA Cup
+! style="background:#d50000; color:white; width:75px;"|EFL Cup
+! style="background:#d50000; color:white; width:75px;"|Champions League
+! style="background:#d50000; color:white; width:75px;"|'''Total'''
+|-
+| 1 || FW || 11 || style="text-align:left;"| {{flagicon|EGY}} [[Mohamed Salah]] ||23||0||0||8||'''31'''
+|-
+| 2 || FW || 10 || style="text-align:left;"| {{flagicon|SEN}} [[Sadio Mané]] ||16||2||0||5||'''23'''
+|-
+| 3 || FW || 20 || style="text-align:left;"| {{flagicon|POR}} [[Diogo Jota]] ||15||2||3||1||'''21'''
+|-
+| 4 || FW || 9 || style="text-align:left;"| {{flagicon|BRA}} [[Roberto Firmino]] ||5||1||0||5||'''11'''
+|-
+| 5 || FW || 18 || style="text-align:left;"| {{flagicon|JPN}} [[Takumi Minamino]] ||3||3||4||0||'''10'''
+|-
+| 6 || MF || 3 || style="text-align:left;"| {{flagicon|BRA}} [[Fabinho (footballer, born 1993)|Fabinho]] ||5||2||0||1||'''8'''
+|-
+| rowspan=2| 7
+| FW || 23 || style="text-align:left;"| {{flagicon|COL}} [[Luis Díaz (footballer, born 1997)|Luis Díaz]] ||4||0||0||2||'''6'''
+|-
+| FW || 27 || style="text-align:left;"| {{flagicon|BEL}} [[Divock Origi]] ||3||0||2||1||'''6'''
+|-
+| 9 || MF || 8 || style="text-align:left;"| {{flagicon|GUI}} [[Naby Keïta]] ||3||0||0||1||'''4'''
+|-
+| rowspan=6| 10
+| DF || 4 || style="text-align:left;"| {{flagicon|NED}} [[Virgil van Dijk]] ||3||0||0||0||'''3'''
+|-
+| DF || 5 || style="text-align:left;"| {{Flagicon|FRA}} [[Ibrahima Konaté]] ||0||1||0||2||'''3'''
+|-
+| MF || 14 || style="text-align:left;"| {{flagicon|ENG}} [[Jordan Henderson]] ||2||0||0||1||'''3'''
+|-
+| MF || 15 || style="text-align:left;"| {{flagicon|ENG}} [[Alex Oxlade-Chamberlain]] ||2||0||1||0||'''3'''
+|-
+| DF || 26 || style="text-align:left;"| {{flagicon|SCO}} [[Andy Robertson]] ||3||0||0||0||'''3'''
+|-
+| DF || 32 || style="text-align:left;"| {{flagicon|CMR}} [[Joël Matip]] ||3||0||0||0||'''3'''
+|-
+| rowspan=2| 16
+| MF || 6 || style="text-align:left;"| {{flagicon|ESP}} [[Thiago Alcântara|Thiago]] ||1||0||0||1||'''2'''
+|-
+| DF || 66 || style="text-align:left;"| {{flagicon|ENG}} [[Trent Alexander-Arnold]] ||2||0||0||0||'''2'''
+|-
+| rowspan=3| 18
+| MF || 17 || style="text-align:left;"| {{flagicon|ENG}} [[Curtis Jones (footballer, born 2001)|Curtis Jones]] ||1||0||0||0||'''1'''
+|-
+| FW || 49 || style="text-align:left;"| {{flagicon|ENG}} [[Kaide Gordon]] ||0||1||0||0||'''1'''
+|-
+| FW || 67 || style="text-align:left;"| {{Flagicon|ENG}} [[Harvey Elliott]] ||0||1||0||0||'''1'''
+|- 
+|colspan="4"| [[Own goal#Association football|Own goals]] ||0||0||0||2||'''2'''
+|- class="sortbottom"
+|colspan="4"| '''Total'''||'''94'''||'''13'''||'''10'''||'''30'''||'''147'''
+|}
+
+===Clean sheets===
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!width=10|No.
+!width=150|Player
+!width=100|Premier League
+!width=100|FA Cup
+!width=100|EFL Cup
+!width=100|Champions League
+!width=100|Total
+|-
+| 1 || style="text-align:left;"| {{flagicon|BRA}} [[Alisson Becker]] || 20 || 2 || 1 || 4 || '''27'''
+|-
+| 62 || style="text-align:left;"| {{flagicon|IRE}} [[Caoimhín Kelleher]] || 1 || 0 || 3 || 0 || '''4'''
+|-
+| 13 || style="text-align:left;"| {{flagicon|ESP}} [[Adrián (footballer)|Adrián]] || 0 || 0 || 1 || 0 || '''1'''
+|- class="sortbottom"
+| colspan="2"|'''Total'''|| '''21'''|| '''2''' || '''5''' || '''4''' || '''32'''
+|}
+
+===Disciplinary record===
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!rowspan="2"| No.
+!rowspan="2"| Pos.
+!rowspan="2"| Player
+! colspan="3" style="width:120px;"| Premier League
+! colspan="3" style="width:120px;"| FA Cup
+! colspan="3" style="width:120px;"| EFL Cup
+! colspan="3" style="width:120px;"| Champions League
+! colspan="3" style="width:120px;"| Total
+|-
+!{{yel}} !! {{sentoff|2}} !! {{sent off}} !! {{yel}} !! {{sentoff|2}} !!  {{sent off}} !! {{yel}} !! {{sentoff|2}} !!  {{sent off}} !! {{yel}} !! {{sentoff|2}} !!  {{sent off}} !!{{yel}} !! {{sentoff|2}} !!  {{sent off}}
+|-
+|3
+|MF
+|align="left"| {{flagicon|BRA}} [[Fabinho (footballer, born 1993)|Fabinho]]
+|7
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|'''9'''
+|'''0'''
+|'''0'''
+|-
+|4
+|DF
+|align="left"| {{flagicon|NED}} [[Virgil van Dijk]]
+|3
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|'''4'''
+|'''0'''
+|'''0'''
+|-
+|5
+|DF
+|align="left"| {{flagicon|FRA}} [[Ibrahima Konaté]]
+|2
+|0
+|0
+|0
+|0
+|0
+|2
+|0
+|0
+|1
+|0
+|0
+|'''5'''
+|'''0'''
+|'''0'''
+|-
+|6
+|MF
+|align="left"| {{flagicon|ESP}} [[Thiago Alcântara|Thiago]]
+|2
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|'''3'''
+|'''0'''
+|'''0'''
+|-
+|7
+|MF
+|align="left"| {{flagicon|ENG}} [[James Milner]]
+|2
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|3
+|0
+|0
+|'''5'''
+|'''0'''
+|'''0'''
+|-
+|8
+|MF
+|align="left"| {{flagicon|GUI}} [[Naby Keïta]]
+|3
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''4'''
+|'''0'''
+|'''0'''
+|-
+|9
+| FW
+| style="text-align:left;"| {{flagicon|BRA}} [[Roberto Firmino]]
+|2
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''2'''
+|'''0'''
+|'''0'''
+|-
+|10
+|FW
+|align="left"| {{flagicon|SEN}} [[Sadio Mané]]
+|5
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|2
+|0
+|0
+|'''8'''
+|'''0'''
+|'''0'''
+|-
+|11
+|FW
+|align="left"| {{flagicon|EGY}} [[Mohamed Salah]]
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''1'''
+|'''0'''
+|'''0'''
+|-
+|12
+|DF
+|align="left"| {{flagicon|ENG}} [[Joe Gomez]]
+|2
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''3'''
+|'''0'''
+|'''0'''
+|-
+|14
+|MF
+|align="left"| {{flagicon|ENG}} [[Jordan Henderson]]
+|3
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''4'''
+|'''0'''
+|'''0'''
+|-
+|17
+|MF
+|align="left"| {{flagicon|ENG}} [[Curtis Jones (footballer, born 2001)|Curtis Jones]]
+|0
+|0
+|0
+|0
+|0
+|0
+|2
+|0
+|0
+|0
+|0
+|0
+|'''2'''
+|'''0'''
+|'''0'''
+|-
+|18
+|FW
+|align="left"| {{flagicon|JPN}} [[Takumi Minamino]]
+|1
+|0
+|0
+|0
+|0
+|0
+|2
+|0
+|0
+|0
+|0
+|0
+|'''3'''
+|'''0'''
+|'''0'''
+|-
+|20
+|FW
+|align="left"| {{flagicon|POR}} [[Diogo Jota]]
+|3
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|2
+|0
+|0
+|'''6'''
+|'''0'''
+|'''0'''
+|-
+|21
+|DF
+|align="left"| {{flagicon|GRE}} [[Kostas Tsimikas]]
+|3
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''3'''
+|'''0'''
+|'''0'''
+|-
+|26
+|DF
+|align="left"| {{flagicon|SCO}} [[Andy Robertson]]
+|5
+|0
+|1
+|0
+|0
+|0
+|1
+|0
+|0
+|1
+|0
+|0
+|'''7'''
+|'''0'''
+|'''1'''
+|-
+|32
+|DF
+|align="left"| {{Flagicon|CMR}} [[Joël Matip]]
+|2
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|2
+|0
+|0
+|'''2'''
+|'''0'''
+|'''0'''
+|-
+|66
+|DF
+|align="left"| {{flagicon|ENG}} [[Trent Alexander-Arnold]]
+|2
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|2
+|0
+|0
+|'''5'''
+|'''0'''
+|'''0'''
+|-
+|80
+|MF
+|align="left"| {{flagicon|ENG}} [[Tyler Morton]]
+|1
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''2'''
+|'''0'''
+|'''0'''
+|-
+|62
+|GK
+|align="left"| {{flagicon|IRE}} [[Caoimhin Kelleher]]
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''1'''
+|'''0'''
+|'''0'''
+|-
+|colspan=3|'''Total'''
+|'''44'''
+|'''0'''
+|'''1'''
+|'''6'''
+|'''0'''
+|'''0'''
+|'''5'''
+|'''0'''
+|'''0'''
+|'''18'''
+|'''0'''
+|'''0'''
+|'''73'''
+|'''0'''
+|'''1'''
+|}
+
+==Club awards==
+===End-of-season awards===
+
+*Standard Chartered Men's Player of the Season: [[Mohamed Salah]]<ref>{{Cite news |url=https://www.liverpoolfc.com/news/mohamed-salah-voted-liverpools-mens-player-season |title=Mohamed Salah voted Liverpool's Men's Player of the Season |publisher=Liverpool F.C. |date=8 Jun 2022}}</ref>
+*Goal of the Season: [[Mohamed Salah]] (vs. Man City, 3 October 2021)
+===Player of the Month award===
+
+''Awarded monthly to the player that was chosen by fans voting on [http://www.Liverpoolfc.com Liverpoolfc.com]''
+{| class="wikitable" style="text-align:left"
+|-
+!Month
+!Player
+!{{abbr|Ref.|Reference}}
+|-
+|August
+|rowspan=3|{{flagicon|EGY}} [[Mohamed Salah]]
+|<ref>{{cite news |url=https://www.liverpoolfc.com/news/first-team/443229-salah-wins-august-s-standard-chartered-men-s-player-of-the-month |title=Salah wins August's Standard Chartered Men's Player of the Month |publisher=Liverpool F.C. |date=15 September 2021}}</ref>
+|-
+|September
+|<ref>{{cite web|url=https://www.liverpoolfc.com/news/first-team/446234-mo-salah-wins-standard-chartered-men-s-player-of-the-month-for-september|title=Mo Salah wins Standard Chartered Men's Player of the Month for September |publisher=Liverpool F.C. |date=14 October 2021}}</ref>
+|-
+|October
+|<ref>{{cite web|url=https://www.liverpoolfc.com/news/three-row-salah-wins-standard-chartered-mens-player-month|title=Three in a row: Salah wins Standard Chartered Men's Player of the Month |publisher=Liverpool F.C. |date=24 November 2021}}</ref>
+|-
+|November
+|{{flagicon|ENG}} [[Trent Alexander-Arnold]]
+|<ref>{{cite news |url=https://www.liverpoolfc.com/news/trent-alexander-arnold-voted-standard-chartered-mens-player-month|title=Trent Alexander-Arnold voted Standard Chartered Men's Player of the Month |publisher=Liverpool F.C. |date=10 December 2021}}</ref>
+|-
+|December
+|{{flagicon|EGY}} [[Mohamed Salah]]
+|<ref>{{cite news |url=https://www.liverpoolfc.com/news/mo-salah-named-standard-chartered-player-month-december|title=Mo Salah named Standard Chartered Player of the Month for December |publisher=Liverpool F.C. |date=15 January 2022}}</ref>
+|-
+|January
+|{{flagicon|BRA}} [[Fabinho (footballer, born 1993)|Fabinho]]
+|<ref>{{cite web |title=Fabinho wins Standard Chartered Men's Player of the Month award |url=https://www.liverpoolfc.com/news/fabinho-wins-standard-chartered-mens-player-month-award |publisher=Liverpool F.C. |date=18 February 2022}}</ref>
+|-
+|February
+|{{flagicon|NED}} [[Virgil van Dijk]]
+|<ref>{{cite news |title=Van Dijk wins Standard Chartered Men's Player of the Month award |url=https://www.liverpoolfc.com/news/virgil-van-dijk-voted-standard-chartered-mens-player-month |publisher=Liverpool F.C. |date=15 March 2022}}</ref>
+|-
+|March
+|{{flagicon|BRA}} [[Alisson Becker]]
+|<ref>{{cite web |title=Alisson Becker named Standard Chartered Player of the Month for March |url=https://www.liverpoolfc.com/news/alisson-becker-named-standard-chartered-player-month-march |publisher=Liverpool F.C. |date=9 April 2022}}</ref>
+|-
+|April
+|{{flagicon|ESP}} [[Thiago Alcântara|Thiago]]
+|<ref>{{cite web |title=Thiago named April's Standard Chartered Player of the Month |url=https://www.liverpoolfc.com/news/thiago-named-aprils-standard-chartered-player-month |website=[[Liverpool F.C.]] |date=17 May 2022 |access-date=17 May 2022}}</ref>
+|}
+
+==See also==
+* [[2021–22 in English football]]
+* [[List of Liverpool F.C. seasons]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*{{Official website|http://www.liverpoolfc.com/}}
+
+{{Liverpool F.C. seasons}}
+{{2021–22 in English men's football}}
+
+{{DEFAULTSORT:2021-22 Liverpool F.C. Season}}
+[[Category:Liverpool F.C. seasons]]
+[[Category:2021–22 Premier League by team|Liverpool F.C.]]
+[[Category:2021–22 UEFA Champions League participants seasons|Liverpool F.C.]]

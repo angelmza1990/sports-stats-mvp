@@ -1,0 +1,1884 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox football club season
+| club               = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| season             = [[2018–19 in English football|2018–19]]
+| owner              = {{nowrap|[[ENIC Group|ENIC International Ltd.]]}}
+| manager            = {{nowrap|[[Mauricio Pochettino]]}}
+| chairman           = {{nowrap|[[Daniel Levy (businessman)|Daniel Levy]]}}
+| stadium            = [[Wembley Stadium]] (until 2 March 2019)<br />[[Tottenham Hotspur Stadium]] (from 3 April 2019)
+| league             = [[Premier League]]
+| league result      = [[2018–19 Premier League|4th]]
+| cup1               = [[FA Cup]]
+| cup1 result        = [[2018–19 FA Cup|Fourth round]]
+| cup2               = [[EFL Cup]]
+| cup2 result        = [[2018–19 EFL Cup|Semi-finals]]
+| cup3               = [[UEFA Champions League]]
+| cup3 result        = [[2018–19 UEFA Champions League|Runners-up]]
+| league topscorer   = <br>[[Harry Kane]] (17)
+| season topscorer   = <br>Harry Kane (24)
+| highest attendance = All: 82,137<br />(3 October 2018 v. [[FC Barcelona|Barcelona]], [[2018–19 UEFA Champions League group stage#Group B|UEFA CL]])<br />Premier League: 81,332<br />(2 March 2019 v. [[Arsenal F.C.|Arsenal]])
+| lowest attendance  = All: 23,650<br />(26 September 2018 v. [[Watford F.C.|Watford]], [[2018–19 EFL Cup#Third round|EFL Cup]])<br />Premier League: 29,164<br />(30 January 2019 v. Watford)
+| average attendance = All: {{formatnum:{{#expr: ((+58297 +80188 +43268 +56854 +55465 +33012 +41645 +45154 +46356 +80062 +29164 +41219 +44154 +81332 +59215 +58308 +56251 +60043 +60124)/19) round 0}}}}<br />
+Wembley: {{formatnum:{{#expr: ((+58297 +80188 +43268 +56854 +55465 +33012 +41645 +45154 +46356 +80062 +29164 +41219 +44154 +81332)/14) round 0}}}}<br />
+Tottenham: {{formatnum:{{#expr: ((+59215 +58308 +56251 +60043 +60124)/5) round 0}}}}
+| largest win        = 7–0<br />(30 January 2019 v. [[Tranmere Rovers F.C.|Tranmere Rovers]], [[2018–19 FA Cup#Third round proper|FA Cup]])
+| largest loss       = 2–4<br />(3 October 2018  v. Barcelona, [[2018–19 UEFA Champions League group stage#Group B|UEFA CL]])
+| pattern_la1        = _tottenham1819h
+| pattern_b1         = _tottenham1819h
+| pattern_ra1        = _tottenham1819h
+| pattern_sh1        = _tottenham1819h
+| pattern_so1        = _tottenham1819hl
+| leftarm1           = FFFFFF
+| body1              = FFFFFF
+| rightarm1          = FFFFFF
+| shorts1            = 020031
+| socks1             = FFFFFF
+| pattern_la2        = _tottenham1819A
+| pattern_b2         = _tottenham1819A
+| pattern_ra2        = _tottenham1819A
+| pattern_sh2        = _tottenham1819A
+| pattern_so2        = _tottenham1819al
+| leftarm2           = 000040
+| body2              = 000040
+| rightarm2          = 000040
+| shorts2            = 000040
+| socks2             = 177CF9
+| pattern_la3        = _tottenham1819T
+| pattern_b3         = _tottenham1819T
+| pattern_ra3        = _tottenham1819T
+| pattern_sh3        = _tottenham1819T
+| pattern_so3        = _tottenham1819tl
+| leftarm3           = 182434
+| body3              = 00C090
+| rightarm3          = 182434
+| shorts3            = 00C090
+| socks3             = 1E2937
+| prevseason         = [[2017–18 Tottenham Hotspur F.C. season|2017–18]]
+| nextseason         = [[2019–20 Tottenham Hotspur F.C. season|2019–20]]
+}}
+
+The '''2018–19 season''' was [[Tottenham Hotspur F.C.|Tottenham Hotspur]]'s 27th season in the [[Premier League]] and 41st successive season in the top division of the [[English football league system]]. Along with the [[2018–19 Premier League|league]], the club competed in the [[2018–19 FA Cup|FA Cup]], [[2018–19 EFL Cup|EFL Cup]] and [[2018–19 UEFA Champions League|UEFA Champions League]].
+
+The club finished fourth in the Premier League, qualifying for next season's Champions League, and were eliminated by [[Crystal Palace F.C.|Crystal Palace]] in the fourth round of the FA Cup. Additionally, they reached the semi-finals of the EFL Cup where they faced [[Chelsea F.C.|Chelsea]]. After two legs the aggregate score was 2–2 and Spurs were eliminated 4–2 on penalties. However, after overcoming [[AFC Ajax|Ajax]] on away goals after two very dramatic legs in the semi-finals, Tottenham reached the [[2019 UEFA Champions League final|Champions League final]] for the first time in the club's history. In an all-English affair, Tottenham lost 0–2 to [[Liverpool F.C.|Liverpool]] at the [[Metropolitano Stadium|Wanda Metropolitano]] in [[Madrid]].
+
+Notably, the club made no signings during both the summer and January transfer windows. This was the first time in Premier League history where this has been done.<ref name=SummerWindow>{{cite news |title=Tottenham Hotspur's 2018 summer transfer window, summarized |work=SBNation |last=George-Miller |first=Dustin |date=9 August 2018 |url= https://cartilagefreecaptain.sbnation.com/2018/8/9/17670068/tottenham-hotspur-transfer-news-rumors-spurs-2018-summer-window-summarized |access-date=4 April 2024}}</ref><ref name=JanuaryWindow>{{cite news |title= Tottenham Hotspur January 2019 transfer window summary |work=SBNation |last=George-Miller |first=Dustin |date=31 January 2019 |url= https://cartilagefreecaptain.sbnation.com/2019/1/31/18205974/tottenham-hotspur-transfer-news-rumors-january-window-summary |access-date=4 April 2024}}</ref>
+
+For the majority of the season, the club's matches were played at [[Wembley Stadium]] due to the development of the [[Tottenham Hotspur Stadium]]. On 3 April 2019, the new stadium opened, with the first match being a Premier League game against [[Crystal Palace F.C.|Crystal Palace]]. Tottenham won 2–0, with [[Son Heung-min]] scoring the first goal at their new ground.
+
+== First-team squad ==
+{| class="wikitable" style="text-align:center;width:80%"
+|-
+! style="background:#000080; color:white; text-align:center;" | Squad no.
+! style="background:#000080; color:white; text-align:center;" | Name
+! style="background:#000080; color:white; text-align:center;" | Nationality
+! style="background:#000080; color:white; text-align:center;" | Position(s)
+! style="background:#000080; color:white; text-align:center;" | Date of birth (age)
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Goalkeepers
+|-
+| 1
+| [[Hugo Lloris]] ''([[Captain (association football)|captain]])''
+| {{flagicon|France}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|df=yes|2019|6|30|1986|12|26}}
+|-
+| 13
+| [[Michel Vorm]]
+| {{flagicon|Netherlands}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|df=yes|2019|6|30|1983|10|20}}
+|-
+| 22
+| [[Paulo Gazzaniga]]
+| {{flagicon|Argentina}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|df=yes|2019|6|30|1992|1|2}}
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Defenders
+|-
+| 2
+| [[Kieran Trippier]]
+| {{flagicon|England}}
+| [[Right back (association football)|RB]] / [[Right wing-back|RWB]]
+| {{Birth date and age2|df=yes|2019|6|30|1990|9|19}}
+|-
+| 3
+| [[Danny Rose (footballer, born 1990)|Danny Rose]]
+| {{flagicon|England}}
+| [[Left back (association football)|LB]] / [[Left wing-back|LWB]]
+| {{Birth date and age2|df=yes|2019|6|30|1990|07|02}}
+|-
+| 4
+| [[Toby Alderweireld]]
+| {{flagicon|Belgium}}
+| [[Centre back|CB]] / [[Right back (association football)|RB]]
+| {{Birth date and age2|df=yes|2019|6|30|1989|03|02}}
+|-
+| 5
+| [[Jan Vertonghen]] ''([[Vice Captain (association football)|2nd vice-captain]])''
+| {{flagicon|Belgium}}
+| [[Centre back|CB]] / [[Left back (association football)|LB]]
+| {{Birth date and age2|df=yes|2019|6|30|1987|04|24}}
+|-
+| 6
+| [[Davinson Sánchez]]
+| {{flagicon|Colombia}}
+| [[Centre back|CB]] / [[Right back (association football)|RB]]
+| {{Birth date and age2|df=yes|2019|6|30|1996|06|12}}
+|-
+| 16
+| [[Kyle Walker-Peters]]
+| {{flagicon|England}}
+| [[Right back (association football)|RB]] / [[Left back (association football)|LB]]
+| {{Birth date and age2|df=yes|2019|6|30|1997|4|13}}
+|-
+| 21
+| [[Juan Foyth]]
+| {{flagicon|Argentina}}
+| [[Centre back|CB]] / [[Defensive midfielder|DM]]
+| {{Birth date and age2|df=yes|2019|6|30|1998|01|12}}
+|-
+| 24
+| [[Serge Aurier]]
+| {{flagicon|Ivory Coast}}
+| [[Right back (association football)|RB]] / [[Right wing-back|RWB]]
+| {{Birth date and age2|df=yes|2019|6|30|1992|12|24}}
+|-
+| 33
+| [[Ben Davies (footballer, born 1993)|Ben Davies]]
+| {{flagicon|Wales}}
+| [[Left back (association football)|LB]] / [[Left wing-back|LWB]] / [[Centre back|CB]]
+| {{Birth date and age2|df=yes|2019|6|30|1993|04|24}}
+|-
+| 38
+| [[Cameron Carter-Vickers]]
+| {{flagicon|USA}}
+| [[Centre back|CB]]
+| {{Birth date and age2|df=yes|2019|6|30|1997|12|31}}
+|-
+! colspan="5" style="background:#dcdcdc; text-align:center;" | Midfielders
+|-
+| 8
+| [[Harry Winks]]
+| {{flagicon|England}}
+| [[Centre midfielder|CM]] / [[Defensive midfielder|DM]]
+| {{Birth date and age2|df=yes|2019|6|30|1996|02|02}}
+|-
+| 11
+| [[Erik Lamela]]
+| {{flagicon|Argentina}}
+| [[Right winger (football)|RW]] / [[Left winger (football)|LW]]
+| {{Birth date and age2|df=yes|2019|6|30|1992|03|04}}
+|-
+| 12
+| [[Victor Wanyama]]
+| {{flagicon|Kenya}}
+| [[Defensive midfielder|DM]] / [[Centre midfielder|CM]]
+| {{Birth date and age2|df=yes|2019|6|30|1991|06|25}}
+|-
+| 14
+| [[Georges-Kévin Nkoudou]]
+| {{flagicon|France}}
+| [[Left winger (football)|LW]]
+| {{Birth date and age2|df=yes|2019|6|30|1995|02|13}}
+|-
+| 15
+| [[Eric Dier]]
+| {{flagicon|England}}
+| [[Defensive midfielder|DM]] / [[Centre back|CB]]
+| {{Birth date and age2|df=yes|2019|6|30|1994|01|15}}
+|-
+| 17
+| [[Moussa Sissoko]]
+| {{flagicon|France}}
+| [[Centre midfielder|CM]] / [[Right midfielder|RM]]
+| {{Birth date and age2|df=yes|2019|6|30|1989|08|16}}
+|-
+| 20
+| [[Dele Alli]]
+| {{flagicon|England}}
+| [[Centre midfielder|CM]] / [[Attacking midfielder|AM]]
+| {{Birth date and age2|df=yes|2019|6|30|1996|04|11}}
+|-
+| 23
+| [[Christian Eriksen]]
+| {{flagicon|Denmark}}
+| [[Attacking midfielder|AM]] / [[Left winger (association football)|LW]] / [[Right winger (association football)|RW]]
+| {{Birth date and age2|df=yes|2019|6|30|1992|02|14}}
+|-
+| 25
+| [[Josh Onomah]]
+| {{flagicon|England}}
+| [[Centre midfielder|CM]]
+| {{Birth date and age2|df=yes|2019|6|30|1997|04|27}}
+|-
+| 27
+| [[Lucas Moura]]
+| {{flagicon|Brazil}}
+| [[Right winger (association football)|RW]]
+| {{Birth date and age2|df=yes|2019|6|30|1992|08|13}}
+|-
+| 40
+| [[Luke Amos]]
+| {{flagicon|England}}
+| [[Centre midfielder|CM]] / [[Defensive midfielder|DM]]
+| {{Birth date and age2|df=yes|2019|6|30|1997|02|23}}
+|-
+| 52
+| [[Oliver Skipp]]
+| {{flagicon|England}}
+| [[Centre midfielder|CM]] / [[Defensive midfielder|DM]]
+| {{Birth date and age2|df=yes|2019|6|30|2000|09|16}}
+|-
+! colspan="12" style="background:#dcdcdc; text-align:center;" | Forwards
+|-
+| 7
+| [[Son Heung-min]]
+| {{flagicon|South Korea}}
+| [[Striker (football)|ST]] / [[Left winger (football)|LW]] / [[Right winger (football)|RW]]
+| {{Birth date and age2|df=yes|2019|6|30|1992|07|08}}
+|-
+| 9
+| [[Vincent Janssen]]
+| {{flagicon|Netherlands}}
+| [[Striker (football)|ST]]
+| {{Birth date and age2|df=yes|2019|6|30|1994|06|15}}
+|-
+| 10
+| [[Harry Kane]] ''([[Vice Captain (association football)|1st vice-captain]])''
+| {{flagicon|England}}
+| [[Striker (football)|ST]] / [[Second striker|SS]]
+| {{Birth date and age2|df=yes|2019|6|30|1993|07|28}}
+|-
+| 18
+| [[Fernando Llorente]]
+| {{flagicon|Spain}}
+| [[Forward (association football)|FW]]
+| {{Birth date and age2|df=yes|2019|6|30|1985|02|26}}
+|-
+|}
+{{Fb rs footer|u=15 August 2018|s=[https://www.tottenhamhotspur.com/teams/first-team/players/ Tottenham Hotspur F.C.], [https://www.premierleague.com/clubs/21/club/squad premierleague.com] |date=August 2018}}
+
+== Transfers ==
+=== Released ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#000000; width:110px;" | Date from
+! style="background:#FFFFFF; color:#000000; width:50px;" | Position
+! style="background:#FFFFFF; color:#000000; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#000000; width:140px;" | Name
+! style="background:#FFFFFF; color:#000000; width:190px;" | To
+! style="background:#FFFFFF; color:#000000; width:110px;" | Fee
+! style="background:#FFFFFF; color:#000000; width:30px;" | Ref.
+|-
+| 8 June 2018 || ST || {{flagicon|England}} || [[Ryan Loft]] || [[Leicester City F.C.|Leicester City]] || Released ||<ref name=spursplayersreleased>{{cite web |url=http://www.tottenhamhotspur.com/news/player-update-080618/ |title=Player Updated |publisher=Tottenham Hotspur Football Club |date=8 June 2018 |access-date=8 June 2018 |archive-url=https://web.archive.org/web/20180611085407/http://www.tottenhamhotspur.com/news/player-update-080618/ |archive-date=11 June 2018 |url-status=dead |df=dmy-all }}</ref>{{Efn|Following Loft's release he joined Leicester City.<ref>{{cite web |url=http://www.skysports.com/football/news/11712/11437377/ryan-loft-signs-two-year-leicester-contract |title=Ryan Loft signs two-year Leicester contract |date=14 July 2018 |access-date=15 July 2018 |publisher=Sky Sports}}</ref>}}
+|-
+| 8 June 2018 || DF || {{flagicon|DR Congo}} || [[Christian Maghoma]] || {{flagicon|POL}} [[Arka Gdynia]] || Released ||<ref name=spursplayersreleased />{{Efn|Following Maghoma's release he joined Polish side Arka Gdynia.<ref>{{cite web |url=https://www.footballinsider247.com/done-deal-6ft-4-tottenham-enforcer-completes-spurs-exit-after-paperwork-finalised/ |title=Done deal: 6ft 4 Tottenham enforcer completes Spurs exit after paperwork finalised |work=Football Insider |author=David Woods |date=19 June 2018 |access-date=19 June 2018}}</ref>}}
+|-
+| 8 June 2018 || GK || {{flagicon|England}} || Luke O'Reilly || [[Carlisle United F.C.|Carlisle United]] || Released ||<ref name=spursplayersreleased />{{Efn|Following O'Reilly's release he joined Carlisle United.<ref>{{Cite news |title=Keeper signs half-season contract |publisher=Carlisle United |url=https://www.carlisleunited.co.uk/news/2018/august/oreillysigns30aug18/ |date=31 August 2018 |access-date=1 September 2018}}</ref>}}
+|-
+| 8 June 2018 || MF || {{flagicon|England}} || [[Joe Pritchard (footballer, born 1996)|Joe Pritchard]] || [[Bolton Wanderers F.C.|Bolton Wanderers]] || Released ||<ref name=spursplayersreleased />{{Efn|Following Pritchard's release he joined Bolton Wanderers.<ref>{{Cite news |title=Jack Earing signs pro deal as trio join club |publisher=Bolton Wanderers |url=https://www.bwfc.co.uk/news/2018/june/jack-earing-signs-pro-deal-as-trio-join-club/ |date=18 June 2018 |access-date=18 June 2018}}</ref>}}
+|-
+| 8 June 2018 || DF || {{flagicon|England}} || [[Nick Tsaroulla]] || Free agent || Released ||<ref name=spursplayersreleased />
+|-
+| 8 June 2018 || DF || {{flagicon|England}} || Matthew Lock || Free agent || Released ||<ref name=spursplayersreleased />
+|}
+{{notelist|2}}
+
+=== Transfers out ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#000000; width:110px;" | Date from
+! style="background:#FFFFFF; color:#000000; width:50px;" | Position
+! style="background:#FFFFFF; color:#000000; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#000000; width:140px;" | Name
+! style="background:#FFFFFF; color:#000000; width:190px;" | To
+! style="background:#FFFFFF; color:#000000; width:110px;" | Fee
+! style="background:#FFFFFF; color:#000000; width:30px;" | Ref.
+|-
+| 18 May 2018 || MF || {{flagicon|England}} || [[Keanan Bennetts]] || {{flagicon|GER}} [[Borussia Mönchengladbach]] || £2,000,000 ||<ref>{{cite web |url=https://talksport.com/football/tottenham-hotspur-fc-transfer-news-starlet-keanan-bennetts-completes-move-borussia |title=Hotspur F.C. transfer news: Starlet Keanan Bennetts completes move to Borussia Monchengladbach |work=talkSport |date=18 May 2018 |access-date=18 May 2018}}</ref><ref>{{cite news |title=Tottenham winger latest Bundesliga recruit |url=https://www.bbc.co.uk/sport/football/44173033 |access-date=21 May 2018 |work=BBC Sport |date=18 May 2018}}</ref>
+|-
+| 4 July 2018 || DF || {{flagicon|Scotland}} || Kane Patterson || [[Burnley F.C.|Burnley]] || Undisclosed ||<ref>{{cite news |title=Burnley sign ten teenagers for youth team |url=http://www.lancashiretelegraph.co.uk/sport/16332770.burnley-sign-ten-teenagers-for-youth-team/ |access-date=8 July 2018 |work=Lancashire Telegraph |date=4 July 2018}}</ref>
+|-
+| 6 July 2018 || MF || {{flagicon|England}} || [[Noni Madueke]] || {{flagicon|NED}} [[PSV Eindhoven]] || Undisclosed ||<ref>{{Cite news|url=https://www.bbc.co.uk/newsround/av/47388646|title = Why Noni Madueke rejected Manchester United for PSV Eindhoven - CBBC Newsround}}</ref>
+|-
+| 18 July 2018 || DF || {{flagicon|England}} || [[Anton Walkes]] || [[Portsmouth F.C.|Portsmouth]] || Undisclosed ||<ref>{{cite news |title=Walkes makes permanent Pompey switch |url=https://www.tottenhamhotspur.com/news/2018/july/walkes-makes-permanent-pompey-switch/ |access-date=18 July 2018 |work=Tottenham Hotspur F.C. |date=18 July 2018}}</ref><ref>{{cite web |url=https://www.bbc.co.uk/sport/football/44878866 |title=Anton Walkes: Portsmouth sign Tottenham defender for undisclosed fee |work=BBC Sport |date=18 July 2018 |access-date=18 July 2018}}</ref>
+|-
+| 1 August 2018 || ST || {{flagicon|England}} || [[Reo Griffiths]] || {{flagicon|FRA}} [[Olympique Lyonnais]] || Undisclosed ||<ref>{{cite news |title=NEWS RELEASE: ENGLISH HOPEFUL REO GRIFFITHS SIGNS 4 YEARS AT OL |url=https://www.ol.fr/fr-fr/contenus/articles/2018/08/01/communique-l-espoir-anglais-reo-griffiths-signe-4-ans-a-l-ol |access-date=18 July 2018 |work=Olympique Lyonnais |date=1 August 2018}}</ref>
+|-
+| 1 January 2019 || DF || {{flagicon|England}} || [[Jaden Brown]] || [[Huddersfield Town A.F.C.|Huddersfield Town]] || Free transfer || <ref>{{cite web |title=Town Signs ENG U19 Defender Jaden Brown |url=https://www.htafc.com/news/2019/january/transfer-town-signs-england-u19-defender-jaden-brown/ |work=Huddersfield Town A.F.C. |access-date=1 January 2019}}</ref>
+|-
+| 17 January 2019 || MF || {{flagicon|Belgium}} || [[Mousa Dembélé (Belgian footballer)|Mousa Dembélé]] || {{flagicon|CHN}} [[Guangzhou R&F F.C.|Guangzhou R&F]] || £11,000,000 || <ref>{{cite web |title=Mousa Dembele signs for Guangzhou R&F from Tottenham |url=https://www.skysports.com/football/news/11675/11609451/mousa-dembele-signs-for-guangzhou-rf-from-tottenham |work=Sky Sports |date=17 January 2019 |access-date=17 January 2019}}</ref><ref>{{cite web |url=https://www.bbc.co.uk/sport/football/46902590 |title=Mousa Dembele: Tottenham agree £11m deal with Guangzhou R&F |work=BBC Sport |date=17 January 2019 |access-date=17 January 2019}}</ref>
+|}
+
+=== Loans out ===
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#FFFFFF; color:#000000; width:110px;" | Start date
+! style="background:#FFFFFF; color:#000000; width:50px;" | Position
+! style="background:#FFFFFF; color:#000000; width:50px;" | Nationality
+! style="background:#FFFFFF; color:#000000; width:150px;" | Name
+! style="background:#FFFFFF; color:#000000; width:190px;" | To
+! style="background:#FFFFFF; color:#000000; width:110px;" | End date
+! style="background:#FFFFFF; color:#000000; width:30px;" | Ref.
+|-
+| 25 August 2018 || DF || {{flagicon|USA}} || [[Cameron Carter-Vickers]] || {{flagicon|WAL}} [[Swansea City A.F.C.|Swansea City]] || 31 May 2019 || <ref>{{cite news |title=Swans Sign Carter-Vickers |url=https://www.swanseacity.com/news/swans-sign-carter-vickers |access-date=26 August 2018 |work=Swansea City A. F. C. |date=25 August 2018}}</ref>
+|-
+| 26 August 2018 || MF || {{flagicon|ENG}} || [[Samuel Shashoua]] || {{flagicon|ESP}} [[CD Atlético Baleares|Atlético Baleares]] || 31 May 2019 || <ref>{{cite news |title=Baleares loan for Shashoua |url=https://www.tottenhamhotspur.com/news/2018/august/baleares-loan-for-shashoua/ |access-date=26 August 2018 |work=Tottenham Hotspur F. C. |date=26 August 2018}}</ref>
+|-
+| 30 August 2018 || MF || {{flagicon|ENG}} || [[Marcus Edwards]] || {{flagicon|NED}} [[S.B.V. Excelsior|Excelsior]] || 31 May 2019 || <ref>{{cite news |title=Dutch loan for Marcus |url=https://www.tottenhamhotspur.com/news/2018/august/dutch-loan-for-marcus/ |access-date=30 August 2018 |work=Tottenham Hotspur F. C. |date=30 August 2018}}</ref>
+|-
+| 31 August 2018 || DF || {{flagicon|ENG}} || [[Connor Ogilvie]] || [[Gillingham F.C.|Gillingham]] || 31 May 2019 || <ref>{{cite news |title=Ogilvie returns to Gills on loan |url=https://www.gillinghamfootballclub.com/news/2018/august/ogilvie-loan/ |access-date=31 August 2018 |work=Gillingham F.C. |date=31 August 2018}}</ref>{{Efn|On 5 January 2019, it was announced that Ogilvie would stay at Gillingham until the end of the season. His loan was initially to end on 31 December 2018.<ref>{{Cite news |title=Ogilvie extends Gills loan |url=https://www.gillinghamfootballclub.com/news/2019/january/ogilvie-extension/ |work=Gillingham F.C. |date=4 January 2019 |access-date=4 January 2019}}</ref>}}
+|-
+| 31 August 2018 || MF || {{flagicon|ENG}} || [[Josh Onomah]] || [[Sheffield Wednesday F.C.|Sheffield Wednesday]] || 31 May 2019 || <ref>{{cite news |title=Wednesday loan for Onomah |url=https://www.tottenhamhotspur.com/news/2018/august/wednesday-loan-for-onomah/ |access-date=31 August 2018 |work=Tottenham Hotspur F.C. |date=31 August 2018}}</ref>
+|-
+| 31 January 2019 || MF || {{Flagicon|FRA}} || [[Georges-Kévin Nkoudou]] || {{Flagicon|FRA}} [[AS Monaco FC|Monaco]] || 31 May 2019 || <ref>{{Cite web|url=https://www.tottenhamhotspur.com/news/2019/january/nkoudou-loan-to-monaco/|title=Nkoudou loan to Monaco|work=Tottenham Hotspur F.C. |date=31 January 2019|access-date=31 January 2019}}</ref><ref>{{cite web |url=https://www.bbc.co.uk/sport/football/47064553 |title=Georges-Kevin N'Koudou: Tottenham winger joins Monaco on loan until end of season |work=BBC Sport |date=31 January 2019 |access-date=31 January 2019 }}</ref>
+|-
+| 31 January 2019 || MF || {{flagicon|CYP}} || [[Anthony Georgiou]] || {{flagicon|ESP}} [[Levante UD|Levante]] || 31 May 2019 || <ref>{{cite web |title=Georgiou joins Levante on loan |url=https://www.tottenhamhotspur.com/news/2019/january/georgiou-joins-levante-on-loan/ |work=Tottenham Hotspur F.C. |date=31 January 2019 |access-date=31 January 2019}}</ref>
+|-
+| 31 January 2019 || FW || {{flagicon|ENG}} || [[Shayon Harrison]] || {{flagicon|AUS}} [[Melbourne City FC|Melbourne City]] || 31 May 2019 || <ref>{{cite web |title=Melbourne City to sign Tottenham striker Shayon Harrison in loan deal |date=31 January 2019 |url=https://www.theage.com.au/sport/soccer/melbourne-city-to-sign-tottenham-striker-shayon-harrison-in-loan-deal-20190201-p50v0b.html |publisher=[[The Age]] |access-date=1 February 2019}}</ref>
+|-
+| 31 January 2019 || FW || {{Flagicon|ENG}} || [[Kazaiah Sterling]] || [[Sunderland A.F.C.|Sunderland]] || 31 May 2019 || <ref>{{Cite web|url=https://www.tottenhamhotspur.com/news/2019/january/sunderland-loan-for-sterling/|title=Sunderland loan for Sterling|work=Tottenham Hotspur F.C.|date=31 January 2019|access-date=31 January 2019}}</ref>
+|-
+|3 April 2019
+|GK
+|{{Flagicon|Australia}}
+|[[Tom Glover (footballer)|Tom Glover]]
+|{{Flagicon|Sweden}} [[Helsingborgs IF]]
+|30 June 2019
+|<ref>{{Cite web|url=https://www.tottenhamhotspur.com/news/2019/april/helsingborg-loan-for-glover/|title=Helsingborg loan for Glover|work=Tottenham Hotspur F.C.|date=3 April 2019 |access-date=3 April 2019}}</ref>
+|}
+{{notelist}}
+
+=== Overall transfer activity ===
+
+{{col-begin}}
+{{col-3}}
+
+==== Expenditure ====
+Summer: {{steady}} £0
+
+Winter: {{steady}} £0
+
+Total: {{steady}} £0
+
+{{col-3}}
+
+==== Income ====
+Summer: {{increase}} £2,000,000
+
+Winter: {{increase}} £11,000,000
+
+Total: {{increase}} £13,000,000
+
+{{col-3}}
+
+==== Net totals ====
+Summer: {{increase}} £2,000,000
+
+Winter: {{increase}} £11,000,000
+
+Total: {{increase}} £13,000,000
+{{col-end}}
+
+== Friendlies ==
+
+=== Pre-season ===
+Tottenham took part in the [[2018 International Champions Cup]] with scheduled games against [[A.C. Milan]], [[FC Barcelona|Barcelona]] and [[A.S. Roma|Roma]].<ref>{{cite news |url=http://www.espn.com/soccer/international-champions-cup/story/3459323/icc-schedule-features-real-madrid-barcelona-manchester-united-manchester-city-liverpool |title=ICC schedule features Madrid, Barca, Manchester clubs, Liverpool, more |publisher=ESPN|date=17 April 2018 |access-date=7 June 2018}}</ref> After the three games played by all teams taking part Tottenham was declared champions having accumulated seven points and the best goal difference.<ref>{{cite web |url=https://www.tottenhamhotspur.com/news/2018/august/success-in-icc/ |title=Success in ICC |publisher=Tottenham Hotspur Football Club |date=12 August 2018 |access-date=26 August 2018}}</ref>
+
+==== 2018 International Champions Cup ====
+{{football box collapsible
+| date = 25 July 2018
+| time = 19:00 [[Pacific Daylight Time|PDT]]
+| round = [[2018 International Champions Cup|Int. Champions Cup]]
+| team1 = [[A.S. Roma|Roma]] 
+| score = 1–4
+| report = https://www.bbc.co.uk/sport/football/44951170
+| team2 =  Tottenham Hotspur
+| goals1 = [[Patrik Schick|Schick]] {{goal|3}}<br />[[Luca Pellegrini (footballer, born 1999)|Lu. Pellegrini]] {{yel|34}}
+| goals2 = [[Fernando Llorente|Llorente]] {{goal|9||18}}<br />[[Lucas Moura]] {{goal|28||44}}
+| stadium = [[SDCCU Stadium]]
+| location = [[San Diego]], United States
+| attendance = 18,861
+| referee = Alejandro Mariscal ([[United States Soccer Federation|United States]])
+| result = W
+}}
+{{football box collapsible
+| date = 28 July 2018
+| time = 20:00 [[Pacific Daylight Time|PDT]]
+| round = [[2018 International Champions Cup|Int. Champions Cup]]
+| team1 = [[FC Barcelona|Barcelona]] 
+| score = 2–2
+| report = https://www.bbc.co.uk/sport/football/44997041
+| team2 =  Tottenham Hotspur
+| goals1 = [[Munir El Haddadi|Munir]] {{goal|15}}<br />[[Arthur Melo|Arthur]] {{goal|29}}
+| goals2 = [[Son Heung-min|Son]] {{goal|73}}<br />[[Georges-Kévin Nkoudou|Nkoudou]] {{goal|75}}
+| penaltyscore = 5–3
+| penalties1 = [[Sergi Palencia|Palencia]] {{pengoal}}<br />[[Abel Ruiz|Ruiz]] {{pengoal}}<br />[[Ramón Rodríguez Jiménez|Monchu]] {{pengoal}}<br />[[Riqui Puig|Puig]] {{pengoal}}<br />[[Malcom (footballer)|Malcom]] {{pengoal}}
+| penalties2 = {{pengoal}} [[Son Heung-min|Son]]<br />{{pengoal}} [[Ben Davies (footballer, born 1993)|Davies]]<br />{{penmiss}} [[Anthony Georgiou|Georgiou]]<br />{{pengoal}} [[Davinson Sánchez|Sánchez]]
+| stadium = [[Rose Bowl (stadium)|Rose Bowl]]
+| location = [[Pasadena, California|Pasadena]], United States
+| attendance = 66,805
+| referee = [[Kevin Stott]] ([[United States Soccer Federation|United States]])
+| result = D
+}}
+{{football box collapsible
+| date = 31 July 2018
+| time = 19:30 [[Central Daylight Time|CDT]]
+| round = [[2018 International Champions Cup|Int. Champions Cup]]
+| team1 = Tottenham Hotspur 
+| score = 1–0
+| report = https://www.bbc.co.uk/sport/football/45028482
+| team2 = [[A.C. Milan|Milan]]
+| goals1 = [[Georges-Kévin Nkoudou|Nkoudou]] {{goal|47}}<br />[[Timothy Eyoma|Eyoma]] {{yel|53}}
+| goals2 = [[José Mauri|Mauri]] {{yel|81}}<br />[[Franck Kessié|Kessié]] {{yel|84}}
+| stadium = [[U.S. Bank Stadium]]
+| location = [[Minneapolis]], United States
+| attendance = 31,264
+| referee = Ismail Elfath ([[United States Soccer Federation|United States]])
+| result = W
+}}
+
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+
+==== Friendlies ====
+{{football box collapsible
+| date = 18 July 2018
+| time = 
+| round = [[Exhibition game#Association football|Friendly]]
+| team1 = Tottenham Hotspur 
+| score = 6–0
+| report = https://www.tottenhamhotspur.com/news/2018/july/southend-beaten-in-friendly/
+| team2 =  [[Southend United F.C.|Southend United]]
+| goals1 = [[Erik Lamela|Lamela]] {{goal|7}}, {{goal}}, {{goal}}<br />[[Fernando Llorente|Llorente]] {{goal|11}}<br />[[Lucas Moura]] {{goal|27}}<br />[[Tashan Oakley-Boothe|Oakley-Boothe]] {{goal|78}}
+| goals2 = 
+| stadium = Hotspur Way
+| location = [[London Borough of Enfield|Enfield]]
+| attendance = 0
+| referee = 
+| result = W
+}}
+{{football box collapsible
+| date = 21 July 2018
+| time = 
+| round = [[Exhibition game#Association football|Friendly]]
+| team1 = Tottenham Hotspur
+| score = 2–1
+| report = https://www.tottenhamhotspur.com/news/2018/july/late-goal-sees-off-brentford-in-friendly/
+| team2 =  [[Brentford F.C.|Brentford]]
+| goals1 = [[Fernando Llorente|Llorente]] {{goal|38}}<br />[[Georges-Kévin Nkoudou|Nkoudou]] {{goal|90}}
+| goals2 = [[Neal Maupay|Maupay]] {{goal|59}}
+| stadium = Hotspur Way
+| location = [[London Borough of Enfield|Enfield]]
+| attendance = 0
+| referee = 
+| result = W
+}}
+
+==== 2018 Costa Brava Trophy ====
+{{football box collapsible
+| date = 4 August 2018
+| time = 19:00 [[British Summer Time|BST]]
+| round = Costa Brava Trophy<ref>{{cite web |title=Girona friendly confirmed |url=https://www.tottenhamhotspur.com/news/2018/july/girona-friendly-confirmed/ |publisher=Tottenham Hotspur Football Club |access-date=6 July 2018}}</ref>
+| team1 = [[Girona FC|Girona]] 
+| score = 4–1
+| report = https://www.tottenhamhotspur.com/news/2018/august/girona-match-report/
+| team2 =  Tottenham Hotspur
+| goals1 = [[Juanpe (footballer, born 1991)|Juanpe]] {{goal|22}}<br />[[Anthony Lozano|Lozano]] {{goal|34}}<br />[[Borja García (footballer, born November 1990)|B. García]] {{yel|35}}<br />[[Álex Granell|Granell]] {{yel|44}}<br />[[Marc Muniesa|Muniesa]] {{yel|45+2}}<br />[[Portu]] {{goal|53}}<br />[[Aleix García|A. García]] {{goal|61}}<br />[[Kévin Soni|Soni]] {{yel|66}}
+| goals2 = [[Lucas Moura]] {{goal|13}}
+| stadium = [[Estadi Montilivi]]
+| location = [[Girona]], Spain
+| attendance = 7,340
+| referee = [[José Luis Munuera Montero]] ([[Royal Spanish Football Federation|Spain]])
+| result = L
+}}
+
+== Competitions ==
+
+=== Overview ===
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan=2|Competition
+!colspan=8|Record
+|-
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Games won}}
+!{{Tooltip|D|Games drawn}}
+!{{Tooltip|L|Games lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+!{{Tooltip|Win %|Winning percentage}}
+|-
+| [[2018–19 Premier League|Premier League]]
+{{WDL|38|23|2|13|for=67|against=39|diff=yes}}
+|-
+| [[2018–19 FA Cup|FA Cup]]
+{{WDL|2|1|0|1|for=7|against=2|diff=yes}}
+|-
+| [[2018–19 EFL Cup|EFL Cup]]
+{{WDL|5|3|1|1|for=9|against=5|diff=yes}}
+|-
+| [[2018–19 UEFA Champions League|Champions League]]
+{{WDL|13|6|2|5|for=20|against=19|diff=yes}}
+|-
+! Total
+{{WDLtot|58|33|5|20|for=103|against=65|diff=yes}}
+{{fb overall competition footer}}
+
+=== Premier League ===
+{{Main|2018–19 Premier League}}
+
+==== League table ====
+{{:2018–19 Premier League|showteam=TOT}}
+==== Results summary ====
+{{Fb rs|hw=12 |hd=2 |hl=5 |hgf=34 |hga=16 |aw=11 |ad=0 |al=8 |agf=33 |aga=23}}
+{{Fb rs footer |u=12 May 2019 |s=[https://www.premierleague.com/tables Premier League] |date=August 2018}}
+
+==== Results by matchday ====
+{{#invoke:sports rbr table|table|legendpos=b|header=Matchday
+
+|label1= Ground
+|res1=[[St James' Park|A]] /[[Wembley Stadium|H]] /[[Old Trafford|A]] /[[Vicarage Road|A]] /[[Wembley Stadium|H]] /[[Falmer Stadium|A]]/[[Kirklees Stadium|A]]/[[Wembley Stadium|H]]/[[London Stadium|A]]/[[Wembley Stadium|H]]/[[Molineux Stadium|A]]/[[Selhurst Park|A]]/[[Wembley Stadium|H]]/[[Emirates Stadium|A]]/[[Wembley Stadium|H]]/[[King Power Stadium|A]]/[[Wembley Stadium|H]]/[[Goodison Park|A]]/[[Wembley Stadium|H]]/[[Wembley Stadium|H]]/[[Cardiff City Stadium|A]]/[[Wembley Stadium|H]]/[[Craven Cottage|A]]/[[Wembley Stadium|H]]/[[Wembley Stadium|H]]/[[Wembley Stadium|H]]/[[Turf Moor|A]]/[[Stamford Bridge (stadium)|A]]/[[Wembley Stadium|H]]/[[St Mary's Stadium|A]]/[[Anfield|A]]/[[Tottenham Hotspur Stadium|H]]/[[Tottenham Hotspur Stadium|H]]/[[City of Manchester Stadium|A]]/[[Tottenham Hotspur Stadium|H]]/[[Tottenham Hotspur Stadium|H]]/[[Dean Court|A]]/[[Tottenham Hotspur Stadium|H]]
+|label2= Result
+|res2=W/W/W/L/L/W/W/W/W/L/W/W/W/L/W/W/W/W/W/L/W/L/W/W/W/W/L/L/D/L/L/W/W/L/W/L/L/D
+|label3= Position
+|res3=8/5/2/5/6/5/4/5/5/5/4/4/3/5/3/3/3/3/2/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/3/4/4
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_18-=red1
+
+|source=[https://www.premierleague.com/tables Premier League]
+|updated=12 May 2019
+|date=May 2017
+}}
+
+==== Fixtures ====
+On 14 June 2018, the Premier League fixtures for the forthcoming season were announced.<ref>{{cite news |title=Man City visit Arsenal on first weekend |url=https://www.bbc.co.uk/sport/football/44479264 |access-date=14 June 2018 |publisher=BBC Sport |date=14 June 2018}}</ref> Owing to delays in the completion of the club's new stadium, the first fourteen home games of the season were played at Wembley.<ref name="Kilpatrick">{{cite news |url=https://www.standard.co.uk/sport/football/tottenham-confirm-wembley-date-for-manchester-city-match-and-stadium-will-stage-champions-league-a3926521.html |title=Tottenham confirm Wembley date for Manchester City match and stadium will stage Champions League group stage |first=Dan |last=Kilpatrick |work=Evening Standard|date=3 September 2018 |access-date=25 October 2018 }}</ref> Some fixtures were updated after Sky Sports announced their live TV coverage.<ref>{{cite web |title=Fixture changes – August/September |url=https://www.tottenhamhotspur.com/news/2018/july/fixture-changes-augustseptember/ |publisher=Tottenham Hotspur Football Club |access-date=6 July 2018}}</ref>
+
+{{football box collapsible
+| date = {{Start date|2018|8|11|df=y}}
+| time = 12:30 [[British Summer Time|BST]]
+| round = 1
+| score = 1–2
+| report = https://www.premierleague.com/match/38314
+| team1 = [[Newcastle United F.C.|Newcastle United]]
+| goals1 = [[Joselu]] {{goal|11}}, {{yel|58}} <br /> [[Mohamed Diamé|Diamé]] {{yel|90}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Jan Vertonghen|Vertonghen]] {{goal|8}} <br /> [[Dele Alli|Alli]] {{goal|18}} <br /> [[Eric Dier|Dier]] {{yel|42}} <br /> [[Harry Kane|Kane]] {{yel|68}}
+| stadium = [[St James' Park]]
+| location = [[Newcastle upon Tyne]]
+| attendance = 51,749
+| referee = [[Martin Atkinson]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|8|18|df=y}}
+| time = 15:00 [[British Summer Time|BST]]
+| round = 2
+| score = 3–1
+| report = https://www.premierleague.com/match/38326
+| team1 = Tottenham Hotspur
+| goals1 = [[Lucas Moura]] {{goal|43}} <br /> [[Kieran Trippier|Trippier]] {{goal|74}} <br /> [[Harry Kane|Kane]] {{goal|77}}
+| team2 = [[Fulham F.C.|Fulham]]
+| goals2 = [[Aleksandar Mitrović|Mitrović]] {{goal|52}}
+| stadium = [[Wembley Stadium]]
+| location = [[Wembley]]
+| attendance = 58,297
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|8|27|df=y}}
+| time = 20:00 [[British Summer Time|BST]]
+| round = 3
+| score = 0–3
+| report = https://www.premierleague.com/match/38333
+| team1 = [[Manchester United F.C.|Manchester United]]
+| goals1 = [[Ander Herrera|Herrera]] {{yel|19}} <br /> [[Antonio Valencia|Valencia]] {{yel|58}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Lucas Moura]] {{yel|10}}, {{goal|52||84}} <br /> [[Harry Kane|Kane]] {{yel|24}}, {{goal|50}} <br /> [[Danny Rose (footballer, born 1990)|Rose]] {{yel|77}}
+| stadium = [[Old Trafford]]
+| location = [[Greater Manchester]]
+| attendance = 74,400
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|9|2|df=y}}
+| time = 16:00 [[British Summer Time|BST]]
+| round = 4
+| score = 2–1
+| report = https://www.premierleague.com/match/38346
+| team1 = [[Watford F.C.|Watford]]
+| goals1 = [[Étienne Capoue|Capoue]] {{yel|52}}<br />[[Troy Deeney|Deeney]] {{goal|69}}<br />[[Craig Cathcart|Cathcart]] {{goal|76}}<br />[[Isaac Success|Success]] {{yel|90+3}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Abdoulaye Doucouré|Doucouré]] {{goal|53|o.g.}}<br />[[Mousa Dembélé (Belgian footballer)|Dembélé]] {{yel|68}}
+| stadium = [[Vicarage Road]]
+| location = [[Watford]]
+| attendance = 20,141
+| referee = [[Andre Marriner]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2018|9|15|df=y}}
+| time = 12:30 [[British Summer Time|BST]]
+| round = 5
+| score = 1–2
+| report = https://www.premierleague.com/match/38355
+| team1 = Tottenham Hotspur
+| goals1 = [[Erik Lamela|Lamela]] {{goal|90+3}}
+| team2 = [[Liverpool F.C.|Liverpool]]
+| goals2 = [[Georginio Wijnaldum|Wijnaldum]] {{goal|39}} <br /> [[Roberto Firmino|Firmino]] {{goal|54}}
+| stadium = [[Wembley Stadium]]
+| location = [[Wembley]]
+| attendance = 80,188
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2018|9|22|df=y}}
+| time = 17:30 [[British Summer Time|BST]]
+| round = 6
+| score = 1–2
+| report = https://www.premierleague.com/match/38359
+| team1 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| goals1 = [[Beram Kayal|Kayal]] {{yel|61}}<br />[[Yves Bissouma|Bissouma]] {{yel|74}}<br />[[Anthony Knockaert|Knockaert]] {{goal|90+3}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Harry Kane|Kane]] {{goal|42|pen.}}<br />[[Kieran Trippier|Trippier]] {{yel|49}}<br />[[Erik Lamela|Lamela]] {{goal|76}}
+| stadium = [[Falmer Stadium|Amex Stadium]]
+| location = [[Falmer]]
+| attendance = 30,531
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|9|29|df=y}}
+| time = 15:00 [[British Summer Time|BST]]
+| round = 7
+| score = 0–2
+| report = https://www.premierleague.com/match/38373
+| team1 = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| goals1 = [[Mathias Jørgensen|Jørgensen]] {{yel|44}}<br />[[Philip Billing|Billing]] {{yel|86}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Harry Kane|Kane]] {{goal|25||34|pen.}}<br />[[Danny Rose (footballer, born 1990)|Rose]] {{yel|67}}<br />[[Harry Winks|Winks]] {{yel|81}}
+| stadium = [[Kirklees Stadium|John Smith's Stadium]]
+| location = [[Huddersfield]]
+| attendance = 23,885
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|10|6|df=y}}
+| time = 15:00 [[British Summer Time|BST]]
+| round = 8
+| score = 1–0
+| report = https://www.premierleague.com/match/38386
+| team1 = Tottenham Hotspur
+| goals1 = [[Eric Dier|Dier]] {{goal|8}}<br />[[Davinson Sánchez|Sánchez]] {{yel|51}}<br />[[Harry Kane|Kane]] {{yel|59}}<br />[[Toby Alderweireld|Alderweireld]] {{yel|68}}
+| team2 = [[Cardiff City F.C.|Cardiff City]]
+| goals2 = [[Joe Ralls|Ralls]] {{sentoff|0|58}}<br />[[Harry Arter|Arter]] {{yel|90+5}}
+| stadium = [[Wembley Stadium]]
+| location = [[Wembley]]
+| attendance = 43,268
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|10|20|df=y}}
+| time = 15:00 [[British Summer Time|BST]]
+| round = 9
+| score = 0–1
+| report = https://www.premierleague.com/match/38396
+| team1 = [[West Ham United F.C.|West Ham United]]
+| goals1 = [[Mark Noble|Noble]] {{yel|59}} <br /> [[Robert Snodgrass|Snodgrass]] {{yel|80}} <br /> [[Marko Arnautović|Arnautović]] {{yel|73}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Erik Lamela|Lamela]] {{goal|44}}
+| stadium = [[London Stadium]]
+| location = [[Stratford, London|Stratford]]
+| attendance = 56,921
+| referee = [[Martin Atkinson]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|10|29|df=y}}
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| round = 10
+| score = 0–1
+| report = https://www.premierleague.com/match/38406
+| team1 = Tottenham Hotspur
+| goals1 = [[Lucas Moura]] {{yel|45}} <br /> [[Ben Davies (footballer, born 1993)|Davies]] {{yel|90+4}}
+| team2 = [[Manchester City F.C.|Manchester City]]
+| goals2 = [[Riyad Mahrez|Mahrez]] {{goal|6}} <br /> [[Aymeric Laporte|Laporte]] {{yel|53}} <br /> [[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|61}}
+| stadium = [[Wembley Stadium]]
+| location = [[Wembley]]
+| attendance = 56,854
+| referee = [[Kevin Friend]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2018|11|03|df=y}}
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| round = 11
+| score = 2–3
+| report = https://www.premierleague.com/match/38417
+| team1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| goals1 = [[Ryan Bennett (footballer)|Bennett]] {{yel|24}}<br />[[Rúben Neves|Neves]] {{goal|68|pen.}}<br />[[Raúl Jiménez|Jiménez]] {{goal|79|pen.}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Erik Lamela|Lamela]] {{goal|27}}<br />[[Lucas Moura]] {{goal|30}}<br />[[Harry Kane|Kane]] {{goal|61}}<br />[[Juan Foyth|Foyth]] {{yel|78}}<br />[[Harry Winks|Winks]] {{yel|87}}
+| stadium = [[Molineux Stadium]]
+| location = [[Wolverhampton]]
+| attendance = 31,185
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|11|10|df=y}}
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| round = 12
+| score = 0–1
+| report = https://www.premierleague.com/match/38421
+| team1 = [[Crystal Palace F.C.|Crystal Palace]]
+| goals1 = [[James Tomkins (footballer)|Tomkins]] {{yel|40}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Juan Foyth|Foyth]] {{goal|66}}<br />[[Harry Winks|Winks]] {{yel|86}}
+| stadium = [[Selhurst Park]]
+| location = [[Selhurst]]
+| attendance = 25,685
+| referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|11|24 |df=y}}
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| round = [[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|13]]
+| score = 3–1
+| report = https://www.premierleague.com/match/38434
+| team1 = Tottenham Hotspur
+| goals1 = [[Dele Alli|Alli]] {{goal|8}}<br />[[Harry Kane|Kane]] {{goal|16}}<br />[[Son Heung-min|Son]] {{goal|54}}
+| team2 = [[Chelsea F.C.|Chelsea]]
+| goals2 = [[Antonio Rüdiger|Rüdiger]] {{yel|19}}<br />[[Eden Hazard|Hazard]] {{yel|45+3}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|72}}<br />[[Olivier Giroud|Giroud]] {{goal|85}}
+| stadium = Wembley Stadium
+| location = Wembley
+| attendance = 55,465
+| referee = [[Martin Atkinson]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|12|02 |df=y}}
+| time = 14:05 [[Greenwich Mean Time|GMT]]
+| round = [[North London derby|14]]
+| score = 4–2
+| report = https://www.premierleague.com/match/38438
+| team1 = [[Arsenal F.C.|Arsenal]]
+| goals1 = [[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|10|pen.|56}}<br />[[Shkodran Mustafi|Mustafi]] {{yel|37}}<br />[[Granit Xhaka|Xhaka]] {{yel|49}}<br />[[Alexandre Lacazette|Lacazette]] {{goal|74}}<br />[[Lucas Torreira|Torreira]] {{goal|77}}, {{yel|78}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Jan Vertonghen|Vertonghen]] {{sent off|2|9|85}}<br />[[Eric Dier|Dier]] {{goal|30}}, {{yel|32}}<br />[[Harry Kane|Kane]] {{goal|34|pen.}}<br />[[Dele Alli|Alli]] {{yel|65}}<br />[[Serge Aurier|Aurier]] {{yel|90}}
+| stadium = [[Emirates Stadium]]
+| location = [[Holloway, London|Holloway]]
+| attendance = 59,973
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2018|12|05|df=y}}
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| round = 15
+| score = 3–1
+| report = https://www.premierleague.com/match/38457
+| team1 = Tottenham Hotspur
+| goals1 = [[Harry Kane|Kane]] {{goal|9}}<br />[[Lucas Moura]] {{goal|51}}<br />[[Son Heung-min|Son]] {{goal|55}}
+| team2 = [[Southampton F.C.|Southampton]]
+| goals2 = [[Charlie Austin|Austin]] {{goal|90+3}}
+| stadium = Wembley Stadium
+| location = Wembley
+| attendance = 33,012
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|12|08|df=y}}
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| round = 16
+| score = 0–2
+| report = https://www.premierleague.com/match/38464
+| team1 = [[Leicester City F.C.|Leicester City]]
+| goals1 = [[Nampalys Mendy|Mendy]] {{yel|16}}<br />[[Marc Albrighton|Albrighton]] {{yel|64}}<br />[[Demarai Gray|Gray]] {{yel|81}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Eric Dier|Dier]] {{yel|9}}<br />[[Son Heung-min|Son]] {{goal|45+1}}<br />[[Dele Alli|Alli]] {{goal|58}}
+| stadium = [[King Power Stadium]]
+| location = [[Leicester]]
+| attendance = 31,957
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|12|15|df=y}}
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| round = 17
+| score = 1–0
+| report = https://www.premierleague.com/match/38475
+| team1 = Tottenham Hotspur
+| goals1 = [[Christian Eriksen|Eriksen]] {{goal|90+1}}
+| team2 = [[Burnley F.C.|Burnley]]
+| goals2 = [[Robbie Brady|Brady]] {{yel|63}}<br />[[Phil Bardsley|Bardsley]] {{yel|68}}
+| stadium = Wembley Stadium
+| location = Wembley
+| attendance = 41,645
+| referee = [[Graham Scott (referee)|Graham Scott]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|12|23|df=y}}
+| time = 16:00 [[Greenwich Mean Time|GMT]]
+| round = 18
+| score = 2–6
+| report = https://www.premierleague.com/match/38482
+| team1 = [[Everton F.C.|Everton]]
+| goals1 = [[Theo Walcott|Walcott]] {{goal|21}}<br />[[Gylfi Sigurðsson|Sigurðsson]] {{goal|51}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Son Heung-min|Son]] {{goal|27||61}}<br />[[Kieran Trippier|Trippier]] {{yel|32}}<br />[[Dele Alli|Alli]] {{goal|35}}<br />[[Harry Kane|Kane]] {{goal|42||74}}<br />[[Christian Eriksen|Eriksen]] {{goal|48}}, {{yel|71}}
+| stadium = [[Goodison Park]]
+| location = [[Liverpool]]
+| attendance = 39,319
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|12|26|df=y}}
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| round = 19
+| score = 5–0
+| report = https://www.premierleague.com/match/38496
+| team1 = Tottenham Hotspur
+| goals1 = [[Christian Eriksen|Eriksen]] {{goal|16}}<br />[[Son Heung-min|Son]] {{goal|23||70}}, {{yel|76}}<br />[[Lucas Moura]] {{goal|35}}<br />[[Harry Kane|Kane]] {{goal|61}}<br />[[Harry Winks|Winks]] {{yel|87}}
+| team2 = [[A.F.C. Bournemouth|Bournemouth]]
+| goals2 = [[Jefferson Lerma|Lerma]] {{yel|45+4}}
+| stadium = Wembley Stadium
+| location = Wembley
+| attendance = 45,154
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2018|12|29|df=y}}
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| round = 20
+| score = 1–3
+| report = https://www.premierleague.com/match/38506
+| team1 = Tottenham Hotspur
+| goals1 = [[Ben Davies (footballer, born 1993)|Davies]] {{yel|16}}<br />[[Harry Kane|Kane]] {{goal|22}}, {{yel|81}}<br />[[Christian Eriksen|Eriksen]] {{yel|42}}
+| team2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| goals2 = [[Willy Boly|Boly]] {{goal|72}}<br />[[Jonathan Castro Otto|Jonny]] {{yel|81}}<br />[[Raúl Jiménez|Jiménez]] {{goal|83}}, {{yel|84}}<br />[[Hélder Costa (footballer)|Hélder Costa]] {{goal|87}}
+| stadium = Wembley Stadium
+| location = Wembley
+| attendance = 46,356
+| referee = [[Stuart Attwell]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2019|01|01|df=y}}
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| round = 21
+| score = 0–3
+| report = https://www.premierleague.com/match/38510
+| team1 = [[Cardiff City F.C.|Cardiff City]]
+| goals1 = [[Sol Bamba|Bamba]] {{yel|53}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Harry Kane|Kane]] {{goal|3}}<br />[[Christian Eriksen|Eriksen]] {{goal|12}}<br />[[Son Heung-min|Son]] {{goal|26}}
+| stadium = [[Cardiff City Stadium]]
+| location = [[Cardiff]]
+| attendance = 32,485
+| referee = [[Kevin Friend]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2019|01|13|df=y}}
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| round = 22
+| score = 0–1
+| report = https://www.premierleague.com/match/38526
+| team1 = Tottenham Hotspur
+| goals1 = [[Dele Alli|Alli]] {{yel|50}}
+| team2 = [[Manchester United F.C.|Manchester United]]
+| goals2 = [[Marcus Rashford|Rashford]] {{goal|44}}<br />[[Ander Herrera|Herrera]] {{yel|67}}<br />[[Paul Pogba|Pogba]] {{yel|78}}
+| stadium = Wembley Stadium
+| location = Wembley
+| attendance = 80,062
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2019|1|20|df=y}}
+| time = 16:00 [[Greenwich Mean Time|GMT]]
+| round = 23
+| score = 1–2
+| report = https://www.premierleague.com/match/38530
+| team1 = [[Fulham F.C.|Fulham]]
+| goals1 = [[Fernando Llorente|Llorente]] {{goal|17|o.g.}}<br />[[Aleksandar Mitrović|Mitrović]] {{yel|74}}<br />[[Jean Michaël Seri|Seri]] {{yel|75}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Dele Alli|Alli]] {{goal|52}}<br />[[Davinson Sánchez|Sánchez]] {{yel|74}}<br />[[Danny Rose (footballer, born 1990)|Rose]] {{yel|79}}<br />[[Harry Winks|Winks]] {{goal|90+3}}
+| stadium = [[Craven Cottage]]
+| location = [[Fulham]]
+| attendance = 24,807
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2019|01|30 |df=y}}
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| round = 24
+| score = 2–1
+| report = https://www.premierleague.com/match/38547
+| team1 = Tottenham Hotspur
+| goals1 = [[Son Heung-min|Son]] {{goal|80}}<br />[[Fernando Llorente|Llorente]] {{goal|87}}
+| team2 = [[Watford F.C.|Watford]]
+| goals2 = [[Craig Cathcart|Cathcart]] {{goal|38}}<br />[[Adrian Mariappa|Mariappa]] {{yel|46}}<br />[[Étienne Capoue|Capoue]] {{yel|74}}<br />[[José Holebas|Holebas]] {{yel|90+1}}<br />[[Isaac Success|Success]] {{yel|90+3}}
+| stadium = Wembley Stadium
+| location = Wembley
+| attendance = 29,164
+| referee = [[Graham Scott (referee)|Graham Scott]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2019|02|02|df=y}}
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| round = 25
+| score = 1–0
+| report = https://www.premierleague.com/match/38556
+| team1 = Tottenham Hotspur
+| goals1 = [[Son Heung-min|Son]] {{goal|83}}
+| team2 = [[Newcastle United F.C.|Newcastle United]]
+| goals2 = [[DeAndre Yedlin|Yedlin]] {{yel|65}}
+| stadium = Wembley Stadium
+| location = Wembley
+| attendance = 41,219
+| referee = [[Andre Marriner]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2019|02|10|df=y}}
+| time = 13:30 [[Greenwich Mean Time|GMT]]
+| round = 26
+| score = 3–1
+| report = https://www.premierleague.com/match/38565
+| team1 = Tottenham Hotspur
+| goals1 = [[Son Heung-min|Son]] {{yel|16}}, {{goal|90+1}}<br />[[Danny Rose (footballer, born 1990)|Rose]] {{yel|20}}<br />[[Jan Vertonghen|Vertonghen]] {{yel|28}}<br />[[Davinson Sánchez|Sánchez]] {{goal|33}}<br />[[Christian Eriksen|Eriksen]] {{goal|63}}
+| team2 = [[Leicester City F.C.|Leicester City]]
+| goals2 = [[Jamie Vardy|Vardy]] {{goal|76}} <br /> [[Youri Tielemans|Tielemans]] {{yel|85}}
+| stadium = Wembley Stadium
+| location = Wembley
+| attendance = 44,154
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2019|02|23|df=y}}
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| round = 27
+| score = 2–1
+| report = https://www.premierleague.com/match/38570
+| team1 = [[Burnley F.C.|Burnley]]
+| goals1 = [[Chris Wood (footballer, born 1991)|Wood]] {{goal|57}}<br />[[Phil Bardsley|Bardsley]] {{yel|72}}<br />[[Ashley Barnes|Barnes]] {{goal|83}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Harry Kane|Kane]] {{goal|65}}<br />[[Fernando Llorente|Llorente]] {{yel|65}}<br />[[Juan Foyth|Foyth]] {{yel|69}}<br />[[Erik Lamela|Lamela]] {{yel|86}}
+| stadium = [[Turf Moor]]
+| location = [[Burnley]]
+| attendance = 21,338
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2019|02|27|df=y}}
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| round = [[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|28]]
+| score = 2–0
+| report = https://www.premierleague.com/match/38583
+| team1 = [[Chelsea F.C.|Chelsea]]
+| goals1 = [[Pedro (footballer, born 1987)|Pedro]] {{goal|57}}<br />[[Kieran Trippier|Trippier]] {{goal|84|o.g.}}<br />[[David Luiz]] {{yel|90+4}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Harry Kane|Kane]] {{yel|90+4}}
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| location = Fulham
+| attendance = 40,542
+| referee = [[Andre Marriner]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2019|03|02|df=y}}
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| round = [[North London derby|29]]
+| score = 1–1
+| report = https://www.premierleague.com/match/38594
+| team1 = Tottenham Hotspur
+| goals1 = [[Erik Lamela|Lamela]] {{yel|63}}<br />[[Danny Rose (footballer, born 1990)|Rose]] {{yel|69}}<br />[[Harry Kane|Kane]] {{goal|74|pen.}}<br />[[Fernando Llorente|Llorente]] {{yel|84}}
+| team2 = [[Arsenal F.C.|Arsenal]]
+| goals2 = [[Aaron Ramsey|Ramsey]] {{goal|16}}<br />[[Henrikh Mkhitaryan|Mkhitaryan]] {{yel|58}}<br />[[Granit Xhaka|Xhaka]] {{yel|74}}<br />[[Pierre-Emerick Aubameyang|Aubameyang]]
+ {{penmiss}} 90+1'<br />[[Lucas Torreira|Torreira]] {{sent off|0|90+5}}
+| stadium = Wembley Stadium
+| location = Wembley
+| attendance = 81,332
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = D
+}}
+{{football box collapsible
+| date = {{Start date|2019|3|9|df=y}}
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| round = 30
+| score = 2–1
+| report = https://www.premierleague.com/match/38607
+| team1 = [[Southampton F.C.|Southampton]]
+| goals1 = [[Oriol Romeu|Romeu]] {{yel|10}}<br />[[Yan Valery|Valery]] {{yel|22}} {{goal|76}}<br />[[Pierre-Emile Højbjerg|Højbjerg]] {{yel|78}}<br />[[James Ward-Prowse|Ward-Prowse]] {{goal|81}}<br />[[Nathan Redmond|Redmond]] {{yel|88}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Harry Kane|Kane]] {{goal|26}}<br />[[Kyle Walker-Peters|Walker-Peters]] {{yel|79}}<br />[[Moussa Sissoko|Sissoko]] {{yel|88}}
+| stadium = [[St Mary's Stadium]]
+| location = [[Southampton]]
+| attendance = 31,890
+| referee = [[Kevin Friend]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2019|3|31|df=y}}
+| time = 16:30 [[British Summer Time|BST]]
+| round = 31
+| score = 2–1
+| report = https://www.premierleague.com/match/38625
+| team1 = [[Liverpool F.C.|Liverpool]]
+| goals1 = [[Roberto Firmino|Firmino]] {{goal|16}}<br />[[Toby Alderweireld|Alderweireld]] {{goal|90|o.g.}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Lucas Moura]] {{goal|70}}, {{yel|79}}
+| stadium = [[Anfield]]
+| location = [[Liverpool]]
+| attendance = 53,322
+| referee = [[Martin Atkinson]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2019|4|3|df=y}}
+| time = 19:45 [[British Summer Time|BST]]
+| round = 32
+| score = 2–0
+| report = https://www.premierleague.com/match/38614
+| team1 = Tottenham Hotspur
+| goals1 = [[Dele Alli|Alli]] {{yel|29}}<br />[[Son Heung-min|Son]] {{goal|55}}<br />[[Christian Eriksen|Eriksen]] {{goal|80}}
+| team2 = [[Crystal Palace F.C.|Crystal Palace]]
+| goals2 = 
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]], London
+| attendance = 59,215
+| referee = [[Andre Marriner]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2019|4|13|df=y}}
+| time = 12:30 [[British Summer Time|BST]]
+| round = 33
+| score = 4–0
+| report = https://www.premierleague.com/match/38646
+| team1 = Tottenham Hotspur
+| goals1 = [[Victor Wanyama|Wanyama]] {{goal|24}}<br />[[Lucas Moura]] {{goal|27||87||90+3}}<br />[[Juan Foyth|Foyth]] {{yel|60}}<br />[[Jan Vertonghen|Vertonghen]] {{yel|76}}
+| team2 = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| goals2 = [[Chris Löwe|Löwe]] {{yel|45}}<br />[[Juninho Bacuna|Bacuna]] {{yel|66}}
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]], London
+| attendance = 58,308
+| referee = [[Lee Mason]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2019|4|20|df=y}}
+| time = 12:30 [[British Summer Time|BST]]
+| round = 34
+| score = 1–0
+| report = https://www.premierleague.com/match/38654
+| team1 = [[Manchester City F.C.|Manchester City]]
+| goals1 = [[Phil Foden|Foden]] {{goal|5}}<br />[[Raheem Sterling|Sterling]] {{yel|90+3}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Victor Wanyama|Wanyama]] {{yel|86}}<br />[[Jan Vertonghen|Vertonghen]] {{yel|90+3}}
+| stadium = [[City of Manchester Stadium]]
+| location = [[Manchester]]
+| attendance = 54,489
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2019|4|23|df=y}}
+| time = 19:45 [[British Summer Time|BST]]
+| round = 35
+| score = 1–0
+| report = https://www.premierleague.com/match/38635
+| team1 = Tottenham Hotspur
+| goals1 = [[Christian Eriksen|Eriksen]] {{yel|46}}, {{goal|88}}
+| team2 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| goals2 = [[Florin Andone|Andone]] {{yel|35}}<br />[[Bernardo (footballer, born 1995)|Bernardo]] {{yel|75}}
+| stadium = [[Tottenham Hotspur Stadium]]
+| location = [[Tottenham]], London
+| attendance = 56,251
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+}}
+{{football box collapsible
+| date = {{Start date|2019|4|27|df=y}}
+| time = 12:30 [[British Summer Time|BST]]
+| round = 36
+| score = 0–1
+| report = https://www.premierleague.com/match/38666
+| team1 = Tottenham Hotspur
+| goals1 = 
+| team2 = [[West Ham United F.C.|West Ham United]]
+| goals2 = [[Robert Snodgrass|Snodgrass]] {{yel|26}}<br />[[Michail Antonio|Antonio]] {{goal|67}}<br />[[Ryan Fredericks|Fredericks]] {{yel|86}}
+| stadium = Tottenham Hotspur Stadium
+| location = Tottenham, London
+| attendance = 60,043
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2019|5|4|df=y}}
+| time = 12:30 [[British Summer Time|BST]]
+| round = 37
+| score = 1–0
+| report = https://www.premierleague.com/match/38669
+| team1 = [[A.F.C. Bournemouth|Bournemouth]]
+| goals1 = [[Nathan Aké|Aké]] {{goal|90+1}}<br />[[Jefferson Lerma|Lerma]] {{yel|90+4}}
+| team2 = Tottenham Hotspur
+| goals2 = [[Eric Dier|Dier]] {{yel|11}}<br />[[Toby Alderweireld|Alderweireld]] {{yel|23}}<br />[[Moussa Sissoko|Sissoko]] {{yel|40}}<br />[[Son Heung-min|Son]] {{sentoff|0|43}}<br />[[Juan Foyth|Foyth]] {{sentoff|0|48}}<br />[[Victor Wanyama|Wanyama]] {{yel|90+3}}<br />[[Dele Alli|Alli]] {{yel|90+3}}
+| stadium = [[Dean Court|Vitality Stadium]]
+| location = [[Bournemouth]]
+| attendance = 10,630
+| referee = [[Craig Pawson]]
+| result = L
+}}
+{{football box collapsible
+| date = {{Start date|2019|5|12|df=y}}
+| time = 15:00 [[British Summer Time|BST]]
+| round = 38
+| score = 2–2
+| report = https://www.premierleague.com/match/38686
+| team1 = Tottenham Hotspur
+| goals1 = [[Eric Dier|Dier]] {{goal|3}}<br />[[Christian Eriksen|Eriksen]] {{goal|75}}
+| team2 = [[Everton F.C.|Everton]]
+| goals2 = [[Theo Walcott|Walcott]] {{goal|69}}<br />[[Morgan Schneiderlin|Schneiderlin]] {{yel|71}}<br />[[Cenk Tosun|Tosun]] {{goal|72}}<br />[[Lucas Digne|Digne]] {{yel|90}}
+| stadium = Tottenham Hotspur Stadium
+| location = Tottenham, London
+| attendance = 60,124
+| referee = [[Andre Marriner]]
+| result = D
+}}
+
+===FA Cup===
+{{main|2018–19 FA Cup}}
+Tottenham entered the competition in the third round and were handed an away tie at either [[Tranmere Rovers F.C.|Tranmere Rovers]] or [[Southport F.C.|Southport]].<ref>{{cite news|title=Southport or Tranmere away in the FA Cup|url=https://www.tottenhamhotspur.com/news/2018/december/southport-or-tranmere-in-fa-cup-third-round/|access-date=3 December 2018|work=Tottenham Hotspur F.C.|date=3 December 2018}}</ref> Tranmere Rovers won the replay 2–0, claiming the home draw to play Spurs.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/46435647 |title=Southport 0 - 2 Tranmere Rovers |work=BBC Sport |author=Tom Garry |date=17 December 2018 |access-date=18 December 2018}}</ref>
+
+{{football box collapsible
+|date = {{Start date|2019|1|4|df=y}}
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = [[2018–19 FA Cup#Third round proper|Third round]]
+|score = 0–7
+|report = https://www.bbc.co.uk/sport/football/46697997
+|team1 = [[Tranmere Rovers F.C.|Tranmere Rovers]]
+|goals1 = [[Ollie Banks|Banks]] {{yel|87}}
+|team2 = Tottenham Hotspur
+|goals2 = [[Serge Aurier|Aurier]] {{goal|40||55}}<br />[[Fernando Llorente|Llorente]] {{goal|48||71||72}}<br />[[Son Heung-min|Son]] {{goal|57}}<br />[[Harry Kane|Kane]] {{goal|82}}
+|stadium = [[Prenton Park]]
+|location = [[Birkenhead]]
+|attendance = 12,553
+|referee = [[Andre Marriner]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2019|01|27|df=y}}
+|time = 16:00 GMT
+|round = [[2018–19 FA Cup#Fourth round proper|Fourth round]]
+|score = 2–0
+|report = https://www.bbc.co.uk/sport/football/46935981
+|team1 = [[Crystal Palace F.C.|Crystal Palace]]
+|team2 = Tottenham Hotspur
+|goals1 = [[Connor Wickham|Wickham]] {{goal|9}}<br />[[Andros Townsend|Townsend]] {{goal|34|pen.}}<br />[[Christian Benteke|Benteke]] {{yel|90+2}}<br />[[Wilfried Zaha|Zaha]] {{yel|90+3}}
+|goals2 = [[Davinson Sánchez|Sánchez]] {{yel|55}}<br />[[Juan Foyth|Foyth]] {{yel|59}}
+|stadium = Selhurst Park
+|location = Selhurst
+|attendance = 19,491
+|referee = [[Kevin Friend]]
+|result = L
+}}
+
+===EFL Cup===
+{{main|2018–19 EFL Cup}}
+Due to Wembley Stadium not being available, and Tottenham's new stadium not being complete, the third-round tie against Watford took place at [[Stadium MK]], the home of [[Milton Keynes Dons F.C.|Milton Keynes Dons]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/45434114 |title=Tottenham to host Watford in Carabao Cup at MK Dons |author=<!--Not stated--> |date=6 September 2018 |publisher=BBC Sport |access-date=18 September 2018}}</ref>
+
+{{football box collapsible
+|date = {{Start date|2018|9|26|df=y}}
+|time = 20:00 [[British Summer Time|BST]]
+|round = [[2018–19 EFL Cup#Third round|Third round]]
+|score = 2–2
+|penaltyscore = 4–2
+|report = https://www.bbc.co.uk/sport/football/45569331
+|team1 = Tottenham Hotspur
+|goals1 = [[Dele Alli|Alli]] {{goal|82|pen.}}<br />[[Erik Lamela|Lamela]] {{goal|86}}, {{yel|87}}
+|penalties1 = [[Son Heung-min|Son]] {{pengoal}}<br />[[Erik Lamela|Lamela]] {{pengoal}}<br />[[Fernando Llorente|Llorente]] {{pengoal}}<br />[[Dele Alli|Alli]] {{pengoal}}
+|team2 = [[Watford F.C.|Watford]]
+|goals2 = [[Isaac Success|Success]] {{goal|46}}<br />[[Christian Kabasele|Kabasele]] {{sent off|0|81}}<br />[[Étienne Capoue|Capoue]] {{goal|89}}
+|penalties2 = {{pengoal}} [[Isaac Success|Success]]<br />{{penmiss}} [[Étienne Capoue|Capoue]]<br />{{pengoal}} [[Will Hughes|Hughes]]<br />{{penmiss}} [[Domingos Quina|Quina]]
+|stadium = [[Stadium MK]]
+|location = [[Milton Keynes]]
+|attendance = 23,650
+|referee = [[Lee Mason]]
+|result = D
+|note = This match was moved to [[Stadium MK]] in [[Milton Keynes]], as neither [[Wembley Stadium]] nor [[Tottenham Hotspur Stadium]] were available to host.<ref>{{cite web|title=Carabao Cup update|url=https://www.tottenhamhotspur.com/news/2018/september/stadium-mk-confirmed/|date=6 September 2018|work=Tottenham Hotspur F.C.|access-date=6 September 2018}}</ref>
+}}
+{{football box collapsible
+|date = {{Start date|2018|10|31|df=y}}
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = [[2018–19 EFL Cup#Fourth round|Fourth round]]
+|score = 1–3
+|report = https://www.bbc.co.uk/sport/football/45961338
+|team1 = [[West Ham United F.C.|West Ham United]]
+|goals1 = [[Lucas Pérez|Pérez]] {{goal|71}}
+|team2 = Tottenham Hotspur
+|goals2 = [[Son Heung-min|Son]] {{goal|16||54}}<br />[[Fernando Llorente|Llorente]] {{goal|75}}
+|stadium = [[London Stadium]]
+|location = [[Stratford, London|Stratford]]
+|attendance = 50,270
+|referee = [[Stuart Attwell]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2018|12|19|df=y}}
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = [[2018–19 EFL Cup#Quarter-finals|Quarter-finals]]
+|score = 0–2
+|report = https://www.bbc.co.uk/sport/football/46533822
+|team1 = [[Arsenal F.C.|Arsenal]]
+|goals1 = [[Matteo Guendouzi|Guendouzi]] {{yel|45+2}}<br />[[Granit Xhaka|Xhaka]] {{yel|77}}
+|team2 = Tottenham Hotspur
+|goals2 = [[Son Heung-min|Son]] {{goal|21}}<br />[[Dele Alli|Alli]] {{goal|59}}, {{yel|85}}<br />[[Christian Eriksen|Eriksen]] {{yel|90+4}}
+|stadium = [[Emirates Stadium]]
+|location = [[Holloway, London|Holloway]]
+|attendance = 59,016
+|referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2019|01|08|df=y}}
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = [[2018–19 EFL Cup#Semi-finals|Semi-final first leg]]
+|score = 1–0
+|report = https://www.bbc.co.uk/sport/football/46726198
+|team1 = Tottenham Hotspur
+|team2 = [[Chelsea F.C.|Chelsea]]
+|goals1 = [[Harry Kane|Kane]] {{goal|26|pen.}}<br />[[Harry Winks|Winks]] {{yel|29}}<br />[[Davinson Sánchez|Sánchez]] {{yel|59}}<br />[[Erik Lamela|Lamela]] {{yel|82}}
+|goals2 = [[Kepa Arrizabalaga|Arrizabalaga]] {{yel|25}}
+|stadium = [[Wembley Stadium]]
+|location = [[Wembley]]
+|attendance = 44,371
+|referee = [[Michael Oliver (referee)|Michael Oliver]]
+|result = W
+}}
+{{football box collapsible
+|date = {{Start date|2019|01|24|df=y}}
+|time = 19:45 [[Greenwich Mean Time|GMT]]
+|round = [[2018–19 EFL Cup#Semi-finals|Semi-final second leg]]
+|score = 2–1
+|aggregatescore = 2–2
+|penaltyscore = 4–2
+|report = https://www.bbc.co.uk/sport/football/46839114
+|team1 = [[Chelsea F.C.|Chelsea]]
+|team2 = Tottenham Hotspur
+|goals1 = [[N'Golo Kanté|Kanté]] {{goal|27}}, {{yel|56}}<br />[[Eden Hazard|Hazard]] {{goal|38}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|53}}<br />[[César Azpilicueta|Azpilicueta]] {{yel|66}}
+|penalties1 = [[Willian (footballer, born 1988)|Willian]] {{pengoal}}<br />[[César Azpilicueta|Azpilicueta]] {{pengoal}}<br />[[Jorginho (footballer, born December 1991)|Jorginho]] {{pengoal}}<br />[[David Luiz]] {{pengoal}}
+|goals2 = [[Fernando Llorente|Llorente]] {{goal|50}}<br />[[Moussa Sissoko|Sissoko]] {{yel|73}}
+|penalties2 = {{pengoal}} [[Christian Eriksen|Eriksen]]<br />{{pengoal}} [[Erik Lamela|Lamela]]<br />{{penmiss}} [[Eric Dier|Dier]]<br />{{penmiss}} [[Lucas Moura]]
+|stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location = [[Fulham]]
+|attendance = 38,610
+|referee = [[Martin Atkinson]]
+|result = L
+}}
+
+===UEFA Champions League===
+{{main|2018–19 UEFA Champions League}}
+
+====Group stage====
+{{main|2018–19 UEFA Champions League group stage#Group B}}
+{{:2018–19 UEFA Champions League group stage|transcludesection=Group B|show_matches=yes|only_pld_pts=no_hide_class_rules|showteam=TOT}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#Internazionale v Tottenham Hotspur|1]]
+|date       = 18 September 2018
+|time       = 17:55 [[British Summer Time|BST]]
+|team1      = [[Inter Milan|Internazionale]] {{flagicon|ITA}}
+|score      = 2–1
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025056/index.html
+|team2      = {{flagicon|ENG}} Tottenham Hotspur
+|goals1     = [[Milan Škriniar|Škriniar]] {{yel|21}}<br />[[Ivan Perišić|Perišić]] {{yel|43}}<br />[[Mauro Icardi|Icardi]] {{goal|86}}<br />[[Matías Vecino|Vecino]] {{goal|90+2}}
+|goals2     = [[Davinson Sánchez|Sánchez]] {{yel|38}}<br />[[Jan Vertonghen|Vertonghen]] {{yel|51}}<br />[[Christian Eriksen|Eriksen]] {{goal|53}}<br />[[Michel Vorm|Vorm]] {{yel|82}}
+|stadium    = [[San Siro]]
+|location   = [[Milan]], Italy
+|attendance = 64,123
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|result     = L
+}}
+{{Football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#Tottenham Hotspur v Barcelona|2]]
+|date       = {{Start date|2018|10|3|df=y}}
+|time       = 20:00 [[British Summer Time|BST]]
+|team1      = Tottenham Hotspur {{flagicon|ENG}}
+|score      = 2–4
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025079/index.html
+|team2      = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     = [[Toby Alderweireld|Alderweireld]] {{yel|14}}<br />[[Victor Wanyama|Wanyama]] {{yel|41}}<br />[[Erik Lamela|Lamela]] {{yel|43}}, {{goal|66}}<br />[[Harry Kane|Kane]] {{goal|52}}, {{yel|74}}<br />[[Eric Dier|Dier]] {{yel|90+3}}
+|goals2     = [[Philippe Coutinho|Coutinho]] {{goal|2}}<br />[[Ivan Rakitić|Rakitić]] {{goal|28}}<br />[[Lionel Messi|Messi]] {{goal|56||90}}<br />[[Arthur Melo|Arthur]] {{yel|59}}<br />[[Sergio Busquets|Busquets]] {{yel|71}}
+|stadium    = [[Wembley Stadium]]
+|location   = [[London]], England
+|attendance = 82,137
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|result     = L
+}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#PSV Eindhoven v Tottenham Hotspur|3]]
+|date       = 24 October 2018
+|time       = 17:55 [[British Summer Time|BST]]
+|team1      = [[PSV Eindhoven]] {{flagicon|NED}}
+|score      = 2–2
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025095/index.html
+|team2      = {{flagicon|ENG}} Tottenham Hotspur
+|goals1     = [[Hirving Lozano|Lozano]] {{goal|30}}<br />[[Angeliño]] {{yel|59}}<br />[[Luuk de Jong|De Jong]] {{goal|87}}<br />[[Denzel Dumfries|Dumfries]] {{yel|90+1}}<br />[[Pablo Rosario|Rosario]] {{yel|90+5}}
+|goals2     = [[Mousa Dembélé (Belgian footballer)|Dembélé]] {{yel|20}}<br />[[Lucas Moura]] {{goal|39}}<br />[[Harry Kane|Kane]] {{goal|55}}<br />[[Hugo Lloris|Lloris]] {{sentoff|0|79}}
+|stadium    = [[Philips Stadion]]
+|location   = [[Eindhoven]], Netherlands
+|attendance = 35,000
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result     = D
+}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#Tottenham Hotspur v PSV Eindhoven|4]]
+|date       = 6 November 2018
+|time       = 20:00 [[Greenwich Mean Time|GMT]]
+|team1      = Tottenham Hotspur {{flagicon|ENG}}
+|score      = 2–1
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025103/index.html
+|team2      = {{flagicon|NED}} [[PSV Eindhoven]]
+|goals1     = [[Son Heung-min|Son]] {{yel|63}}<br />[[Harry Kane|Kane]] {{goal|78||89}}<br />[[Kieran Trippier|Trippier]] {{yel|90+5}}
+|goals2     = [[Luuk de Jong|De Jong]] {{goal|2}}<br />[[Hirving Lozano|Lozano]] {{yel|38}}<br />[[Daniel Schwaab|Schwaab]] {{yel|90+3}}
+|stadium    = [[Wembley Stadium]]
+|location   = London, England
+|attendance = 46,588
+|referee    = [[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#Tottenham Hotspur v Internazionale|5]]
+|date       = 28 November 2018
+|time       = 20:00 [[Greenwich Mean Time|GMT]]
+|team1      = Tottenham Hotspur {{flagicon|ENG}}
+|score      = 1–0
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025128/index.html
+|team2      = {{flagicon|ITA}} [[Inter Milan|Internazionale]]
+|goals1     = [[Toby Alderweireld|Alderweireld]] {{yel|28}}<br />[[Erik Lamela|Lamela]] {{yel|45}}<br />[[Son Heung-min|Son]] {{yel|73}}<br />[[Christian Eriksen|Eriksen]] {{goal|80}}
+|goals2     = [[Stefan de Vrij|De Vrij]] {{yel|70}}<br />[[Borja Valero|Valero]] {{yel|81}}
+|stadium    = [[Wembley Stadium]]
+|location   = London, England
+|attendance = 57,132
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result     = W
+}}
+{{Football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#Barcelona v Tottenham Hotspur|6]]
+|date       = {{Start date|2018|12|11|df=y}}
+|time       = 20:00 [[Greenwich Mean Time|GMT]]
+|team1      = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score      = 1–1
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025135/index.html
+|team2      = {{flagicon|ENG}} Tottenham Hotspur
+|goals1     = [[Ousmane Dembélé|O. Dembélé]] {{goal|7}}<br />[[Nélson Semedo|Semedo]] {{yel|68}}
+|goals2     = [[Kyle Walker-Peters|Walker-Peters]] {{yel|15}}<br />[[Lucas Moura]] {{goal|85}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]], Spain
+|attendance = 69,961
+|referee    = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|result     = D
+}}
+
+====Knockout phase====
+{{main|2018–19 UEFA Champions League knockout phase}}
+
+=====Round of 16=====
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League knockout phase#Tottenham Hotspur v Borussia Dortmund|First leg]]
+|id         =
+|date       = 13 February 2019
+|time       = 20:00 [[Greenwich Mean Time|GMT]]
+|team1      = Tottenham Hotspur {{flagicon|ENG}}
+|score      = 3–0
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000981/match=2026850/index.html
+|team2      = {{flagicon|GER}} [[Borussia Dortmund]]
+|goals1     = [[Serge Aurier|Aurier]] {{yel|12}}<br />[[Son Heung-min|Son]] {{goal|47}}<br />[[Jan Vertonghen|Vertonghen]] {{goal|83}}<br />[[Fernando Llorente|Llorente]] {{goal|86}}
+|goals2     = [[Thomas Delaney|Delaney]] {{yel|53}}
+|stadium    = [[Wembley Stadium]]
+|location   = London, England
+|attendance = 71,214
+|referee    = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|result     = W
+}}
+{{football box collapsible
+|round          = [[2018–19 UEFA Champions League knockout phase#Borussia Dortmund v Tottenham Hotspur|Second leg]]
+|date           = 5 March 2019
+|time           = 20:00 [[Greenwich Mean Time|GMT]]
+|team1          = [[Borussia Dortmund]] {{flagicon|GER}}
+|score          = 0–1
+|aggregatescore = 0–4
+|report         = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000981/match=2026860/index.html
+|team2          = {{flagicon|ENG}} Tottenham Hotspur
+|goals1         = 
+|goals2         = [[Harry Kane|Kane]] {{goal|49}}
+|stadium        = [[Westfalenstadion]]
+|location       = [[Dortmund]], Germany
+|attendance     = 66,099
+|referee        = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result         = W
+}}
+
+=====Quarter-finals=====
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League knockout phase#Tottenham Hotspur v Manchester City|First leg]]
+|date       = 9 April 2019
+|time       = 20:00 [[British Summer Time|BST]]
+|team1      = Tottenham Hotspur {{flagicon|ENG}}
+|score      = 1–0
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000982/match=2027151/index.html
+|team2      = {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1     = [[Danny Rose (footballer, born 1990)|Rose]] {{yel|12}}<br />[[Son Heung-min|Son]] {{goal|78}}
+|goals2     = [[Sergio Agüero|Agüero]] {{penmiss}} <small>13'</small><br />[[Aymeric Laporte|Laporte]] {{yel|28}}<br />[[Riyad Mahrez|Mahrez]] {{yel|59}}
+|location   = London, England
+|stadium    = [[Tottenham Hotspur Stadium]]
+|attendance = 60,044
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = W
+}}
+{{football box collapsible
+|round          = [[2018–19 UEFA Champions League knockout phase#Manchester City v Tottenham Hotspur|Second leg]]
+|date           = 17 April 2019
+|time           = 20:00 [[British Summer Time|BST]]
+|team1          = [[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score          = 4–3
+|aggregatescore = 4–4 ([[Away goals rule|a]])
+|report         = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000982/match=2027153/index.html
+|team2          = {{flagicon|ENG}} Tottenham Hotspur
+|goals1         = [[Raheem Sterling|Sterling]] {{goal|4||21}}<br />[[Bernardo Silva|B. Silva]] {{goal|11}}<br />[[Sergio Agüero|Agüero]] {{goal|59}}
+|goals2         = [[Son Heung-min|Son]] {{goal|7||10}}, {{yel|48}}<br />[[Moussa Sissoko|Sissoko]] {{yel|41}}<br />[[Danny Rose (footballer, born 1990)|Rose]] {{yel|54}}<br />[[Fernando Llorente|Llorente]] {{goal|73}}<br />[[Victor Wanyama|Wanyama]] {{yel|77}}
+|location       = [[Manchester]], England
+|stadium        = [[City of Manchester Stadium]]
+|attendance     = 53,348
+|referee        = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result         = L
+}}
+
+=====Semi-finals=====
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League knockout phase#Tottenham Hotspur v Ajax|First leg]]
+|date       = 30 April 2019
+|time       = 20:00 [[British Summer Time|BST]]
+|team1      = Tottenham Hotspur {{flagicon|ENG}}
+|team2      = {{flagicon|NED}} [[AFC Ajax|Ajax]]
+|score      = 0–1
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000983/match=2027158/index.html
+|goals1     = 
+|goals2     = [[Donny van de Beek|Van de Beek]] {{goal|15}}<br />[[Nicolás Tagliafico|Tagliafico]] {{yel|30}}<br />[[Joël Veltman|Veltman]] {{yel|63}}
+|stadium    = [[Tottenham Hotspur Stadium]]
+|location   = London, England
+|attendance = 60,243
+|referee    = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|result     = L
+}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League knockout phase#Ajax v Tottenham Hotspur|Second leg]]
+|date       = 8 May 2019
+|time       = 20:00 [[British Summer Time|BST]]
+|team1      = [[AFC Ajax|Ajax]] {{flagicon|NED}}
+|team2      = {{flagicon|ENG}} Tottenham Hotspur
+|score      = 2–3
+|aggregatescore = 3–3 ([[Away goals rule|a]])
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000983/match=2027159/index.html
+|goals1     = [[Matthijs de Ligt|De Ligt]] {{goal|5}}<br />[[Hakim Ziyech|Ziyech]] {{goal|35}}, {{yel|77}}<br />[[Kasper Dolberg|Dolberg]] {{yel|50}}<br />[[André Onana|Onana]] {{yel|90+5}}
+|goals2     = [[Moussa Sissoko|Sissoko]] {{yel|16}}<br />[[Lucas Moura|Lucas]] {{goal|55||59||90+6}}<br />[[Danny Rose (footballer, born 1990)|Rose]] {{yel|76}}
+|stadium    = [[Johan Cruyff Arena]]
+|location   = [[Amsterdam]], Netherlands
+|attendance = 52,641
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|result     = W
+}}
+
+=====Final=====
+{{football box collapsible
+|round      = [[2019 UEFA Champions League Final|Final]]
+|date       = 1 June 2019
+|time       = 20:00 [[British Summer Time|BST]]
+|team1      = Tottenham Hotspur {{flagicon|ENG}}
+|score      = 0–2
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000984/match=2025486/index.html
+|team2      = {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     = 
+|goals2     = [[Mohamed Salah|Salah]] {{goal|2|pen.}}<br />[[Divock Origi|Origi]] {{goal|87}}
+|location   = [[Madrid]], Spain
+|stadium    = [[Metropolitano Stadium|Wanda Metropolitano]]
+|attendance = 63,272
+|referee    = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|result     = L
+}}
+
+== Statistics ==
+=== Appearances ===
+{{Fb rs footer|u=2 June 2019|s=[https://www.premierleague.com/clubs/21/club/squad premierleague.com], [https://www.uefa.com/uefachampionsleague/history/clubs/1652--tottenham/ uefa.com]|date=November 2017}}
+
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" style="vertical-align:bottom;" | No.
+! rowspan="2" style="vertical-align:bottom;" | Pos.
+! rowspan="2" style="vertical-align:bottom;" | Name
+! colspan="2" style="width:85px;" | Premier League
+! colspan="2" style="width:85px;" | FA Cup
+! colspan="2" style="width:85px;" | EFL Cup
+! colspan="2" style="width:85px;" | Champions League
+! colspan="2" style="width:85px;" | Total
+|-
+! Apps
+! Goals
+! Apps
+! Goals
+! Apps
+! Goals
+! Apps
+! Goals
+! Apps
+! Goals
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Goalkeepers''
+|-
+| 1
+| GK
+| align="left" | {{flagicon|FRA}} [[Hugo Lloris]]
+|| 33 || 0 || 0 || 0 || 0 || 0 || 11 || 0 || 44 || 0
+|-
+| 13
+| GK
+| align="left" | {{flagicon|NED}} [[Michel Vorm]]
+|| 2 || 0 || 0 || 0 || 0 || 0 || 1+1 || 0 || 3+1 || 0
+|-
+| 22
+| GK
+| align="left" | {{flagicon|ARG}} [[Paulo Gazzaniga]]
+|| 3 || 0 || 2 || 0 || 5 || 0 || 1 || 0 || 11 || 0
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Defenders''
+|-
+| 2
+| DF
+| align="left" | {{flagicon|ENG}} [[Kieran Trippier]]
+|| 26+1 || 1 || 1 || 0 || 2 || 0 || 7+1 || 0 || 36+2 || 1
+|-
+| 3
+| DF
+| align="left" | {{flagicon|ENG}} [[Danny Rose (footballer, born 1990)|Danny Rose]]
+|| 20+6 || 0 || 0 || 0 || 2+1 || 0 || 6+2 || 0 || 28+9 || 0
+|-
+| 4
+| DF
+| align="left" | {{flagicon|BEL}} [[Toby Alderweireld]]
+|| 33+1 || 0 || 0 || 0 || 4 || 0 || 12 || 0 || 49+1 || 0
+|-
+| 5
+| DF
+| align="left" | {{flagicon|BEL}} [[Jan Vertonghen]]
+|| 22 || 1 || 1 || 0 || 1 || 0 || 10 || 1 || 34 || 2
+|-
+| 6
+| DF
+| align="left" | {{flagicon|COL}} [[Davinson Sánchez]]
+|| 22+1 || 1 || 2 || 0 || 3+1 || 0 || 7+1 || 0 || 34+3 || 1
+|-
+| 16
+| DF
+| align="left" | {{flagicon|ENG}} [[Kyle Walker-Peters]]
+|| 4+2 || 0 || 2 || 0 || 1 || 0 || 1 || 0 || 8+2 || 0
+|-
+| 21
+| DF
+| align="left" | {{flagicon|ARG}} [[Juan Foyth]]
+|| 10+2 || 1 || 2 || 0 || 1 || 0 || 1+1 || 0 || 14+3 || 1
+|-
+| 24
+| DF
+| align="left" | {{flagicon|CIV}} [[Serge Aurier]]
+|| 6+2 || 0 || 1 || 2 || 3 || 0 || 5 || 0 || 15+2 || 2
+|-
+| 33
+| DF
+| align="left" | {{flagicon|Wales}} [[Ben Davies (footballer, born 1993)|Ben Davies]]
+|| 20+7 || 0 || 1 || 0 || 3 || 0 || 6+3 || 0 || 30+10 || 0
+|-
+| 53
+| MF
+| align="left" | {{flagicon|England}} [[Timothy Eyoma]]
+|| 0 || 0 || 0+1 || 0 || 0 || 0 || 0 || 0 || 0+1 || 0
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Midfielders''
+|-
+| 8
+| MF
+| align="left" | {{flagicon|England}} [[Harry Winks]]
+|| 17+9 || 1 || 0 || 0 || 5 || 0 || 8+2 || 0 || 30+11 || 1
+|-
+| 11
+| MF
+| align="left" | {{flagicon|ARG}} [[Erik Lamela]]
+|| 9+10 || 4 || 0+1 || 0 || 2+2 || 1 || 3+6 || 1 || 14+19 || 6
+|-
+| 12
+| MF
+| align="left" | {{flagicon|KEN}} [[Victor Wanyama]]
+|| 4+9 || 1 || 1 || 0 || 2 || 0 || 4+2 || 0 || 11+11 || 1
+|-
+| 14
+| MF
+| align="left" | {{flagicon|FRA}} [[Georges-Kévin Nkoudou]]
+|| 0+1 || 0 || 1 || 0 || 0+1 || 0 || 0 || 0 || 1+2 || 0
+|-
+| 15
+| MF
+| align="left" | {{flagicon|ENG}} [[Eric Dier]]
+|| 18+2 || 3 || 1 || 0 || 1 || 0 || 2+4 || 0 || 22+6 || 3
+|-
+| 17
+| MF
+| align="left" | {{flagicon|FRA}} [[Moussa Sissoko]]
+|| 27+2 || 0 || 0 || 0 || 4+1 || 0 || 8+2 || 0 || 39+5 || 0
+|-
+| 20
+| MF
+| align="left" | {{flagicon|ENG}} [[Dele Alli]]
+|| 22+3 || 5 || 1 || 0 || 4 || 2 || 8 || 0 || 35+3 || 7
+|-
+| 23
+| MF
+| align="left" | {{flagicon|DEN}} [[Christian Eriksen]]
+|| 30+5 || 8 || 0 || 0 || 4 || 0 || 11+1 || 2 || 45+6 || 10
+|-
+| 27
+| MF
+| align="left" | {{flagicon|BRA}} [[Lucas Moura]]
+|| 25+7 || 10 || 2 || 0 || 2+1 || 0 || 8+4 || 5 || 36+12 || 15
+|-
+| 40
+| MF
+| align="left" | {{flagicon|England}} [[Luke Amos]]
+|| 0+1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0+1 || 0
+|-
+| 47
+| MF
+| align="left" | {{flagicon|England}} [[George Marsh (footballer, born 1998)|George Marsh]]
+|| 0 || 0 || 0+1 || 0 || 0 || 0 || 0 || 0 || 0+1 || 0
+|-
+| 52
+| MF
+| align="left" | {{flagicon|ENG}} [[Oliver Skipp]]
+|| 2+6 || 0 || 2 || 0 || 0+2 || 0 || 0 || 0 || 4+8 || 0
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Forwards''
+|-
+| 7
+| FW
+| align="left" | {{flagicon|South Korea}} [[Son Heung-min]]
+|| 23+8 || 12 || 1 || 1 || 3+1 || 3 || 11+1 || 4 || 39+9 || 20
+|-
+| 9
+| FW
+| align="left" | {{flagicon|NED}} [[Vincent Janssen]]
+|| 0+3 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0+3 || 0
+|-
+| 10
+| FW
+| align="left" | {{flagicon|ENG}} [[Harry Kane]]
+|| 27+1 || 17 || 0+1 || 1 || 1+1 || 1 || 9 || 5 || 37+3 || 24
+|-
+| 18
+| FW
+| align="left" | {{flagicon|ESP}} [[Fernando Llorente]]
+|| 6+14 || 1 || 2 || 3 || 2+2 || 2 || 1+8 || 2 || 11+24 || 8
+|-
+| 50
+| FW
+| align="left" | {{flagicon|ENG}} [[Kazaiah Sterling]]
+|| 0+1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0+1 || 0
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Players transferred out during the season
+|-
+| 19
+| MF
+| align="left" | {{flagicon|Belgium}} [[Mousa Dembélé (Belgian footballer)|Mousa Dembélé]]
+|| 7+3 || 0 || 0 || 0 || 0+1 || 0 || 2 || 0 || 9+4 || 0
+|}
+
+=== Goal scorers ===
+''The list is sorted by shirt number when total goals are equal.''
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! width=10 | {{Abbr| Rnk | Ranking }}
+! width=10 | {{Abbr| Pos | Position }}
+! width=10 | {{Abbr| No. | Squad Number }}
+! width=180 | Player
+! width=50 | Premier League
+! width=50 | FA Cup
+! width=50 | EFL Cup
+! width=50 | Champions League
+! width=50 | Total
+|-
+| rowspan="1" | 1
+|| ST || 10 || align=left | {{flagicon|ENG}} [[Harry Kane]] || 17 || 1 || 1 || 5 || '''24'''
+|-
+| rowspan="1" | 2
+|| ST || 7 || align=left | {{flagicon|KOR}} [[Son Heung-min]] || 12 || 1 || 3 || 4 || '''20'''
+|-
+| rowspan="1" | 3
+|| MF || 27 || align=left | {{flagicon|BRA}} [[Lucas Moura]] || 10 || 0 || 0 || 5 ||'''15'''
+|-
+| rowspan="1" | 4
+|| MF || 23 || align=left | {{flagicon|DEN}} [[Christian Eriksen]] || 8 || 0 || 0 || 2 || '''10'''
+|-
+| rowspan="1" | 5
+|| ST || 18 || align=left | {{flagicon|ESP}} [[Fernando Llorente]] || 1 || 3 || 2 || 2 || '''8'''
+|-
+| rowspan="1" | 6
+|| MF || 20 || align=left | {{flagicon|ENG}} [[Dele Alli]] || 5 || 0 || 2 || 0 || '''7'''
+|-
+| rowspan="1" | 7
+|| MF || 11 || align=left | {{flagicon|ARG}} [[Erik Lamela]] || 4 || 0 || 1 || 1 || '''6'''
+|-
+| rowspan="1" | 8
+|| MF || 15 || align=left | {{flagicon|ENG}} [[Eric Dier]] || 3 || 0 || 0 || 0 || '''3'''
+|-
+| rowspan="2" | 9
+|| DF || 5 || align=left | {{flagicon|BEL}} [[Jan Vertonghen]] || 1 || 0 || 0 || 1 || '''2'''
+|-
+|| DF || 24 || align=left | {{flagicon|CIV}} [[Serge Aurier]] || 0 || 2 || 0 || 0 || '''2'''
+|-
+| rowspan="5" | 11
+|| DF || 2 || align=left | {{flagicon|ENG}} [[Kieran Trippier]] || 1 || 0 || 0 || 0 || '''1'''
+|-
+|| DF || 6 || align=left | {{flagicon|COL}} [[Davinson Sánchez]] || 1 || 0 || 0 || 0 || '''1'''
+|-
+|| MF || 8 || align=left | {{flagicon|ENG}} [[Harry Winks]] || 1 || 0 || 0 || 0 || '''1'''
+|-
+|| MF || 12 || align=left | {{Flagicon|KEN}} [[Victor Wanyama]] || 1 || 0 || 0 || 0 || '''1'''
+|-
+|| DF || 21 || align=left | {{flagicon|ARG}} [[Juan Foyth]] || 1 || 0 || 0 || 0 || '''1'''
+|-
+| colspan="4" |'''TOTALS'''
+|'''66'''
+|'''7'''
+|'''9'''
+|'''20'''
+|'''102'''
+|}
+{{Fb rs footer|u=12 May 2019|s=[https://www.premierleague.com/stats/top/players/goals?se=210 premierleague.com], [https://www.uefa.com/uefachampionsleague/history/clubs/1652--tottenham/ UEFA.com] |date=November 2017}}
+
+==== Hat-tricks ====
+{|class="wikitable sortable"
+|-
+! Player !! Against !! Competition !! Minutes !! style="text-align:center"| Score after goals !! style="text-align:center"| Result !! Date
+|-
+|{{flagicon|ESP}} [[Fernando Llorente]]
+|{{nowrap|{{flagicon|ENG}} [[Tranmere Rovers F.C.|Tranmere Rovers]]}}
+|FA Cup
+|48', 71', 72'
+|0–'''2''', 0–'''5''', 0–'''6'''
+|0–7 (A)
+|4 January 2019
+|-
+|{{flagicon|BRA}} [[Lucas Moura]]
+|{{nowrap|{{flagicon|ENG}} [[Huddersfield Town A.F.C.|Huddersfield Town]]}}
+|Premier League
+|27', 87', 90+3'
+|'''2'''–0, '''3'''–0, '''4'''–0
+|4–0 (H)
+|13 April 2019
+|-
+|{{flagicon|BRA}} [[Lucas Moura]]
+|{{nowrap|{{flagicon|NED}} [[AFC Ajax|Ajax]]}}
+|Champions League
+|55', 59', 90+6'
+|2–'''1''', 2–'''2''', 2–'''3'''
+|2–3 (A)
+|8 May 2019
+|}
+
+====Own goals====
+{|class="wikitable sortable"
+|-
+! Player !! Against !! Competition !! Minute !! style="text-align:center"| Score after own goal !! style="text-align:center"| Result !! Date
+|-
+|{{flagicon|ESP}} [[Fernando Llorente]]
+|{{nowrap|{{flagicon|ENG}} [[Fulham F.C.|Fulham]]}}
+|Premier League
+|style="text-align:center"| 17'
+|'''1'''–0
+|1–2 (A)
+|20 January 2019
+|-
+|{{flagicon|ENG}} [[Kieran Trippier]]
+|{{nowrap|{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]}}
+|Premier League
+|style="text-align:center"| 84'
+|'''2'''–0
+|2–0 (A)
+|27 February 2019
+|-
+|{{flagicon|BEL}} [[Toby Alderweireld]]
+|{{nowrap|{{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]}}
+|Premier League
+|style="text-align:center"| 90'
+|'''2'''–1
+|2–1 (A)
+|31 March 2019
+|}
+
+===Clean sheets===
+''The list is sorted by shirt number when total clean sheets are equal.''
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!width=10|{{Abbr| Rnk | Ranking}}
+!width=10|{{Abbr| No. | Squad Number}}
+!width=200|Player
+!width=50|Premier League
+!width=50|FA Cup
+!width=50|EFL Cup
+!width=50|Champions League
+!width=50|Total
+|-
+| rowspan="1"|1
+|| 1 ||align=left|{{flagicon|FRA}} [[Hugo Lloris]] || 12 || 0 || 0 || 3 || '''15'''
+|-
+| rowspan="1"|2
+|| 22 ||align=left|{{flagicon|ARG}} [[Paulo Gazzaniga]] || 1 || 1 || 2 || 0 || '''4'''
+|-
+|}
+{{Fb rs footer|u=23 April 2019|s=[https://www.premierleague.com/stats/top/players/clean_sheet premierleague.com], [https://www.uefa.com/uefachampionsleague/history/clubs/1652--tottenham/ uefa.com]|date=October 2017}}
+
+== References ==
+{{reflist}}
+
+{{Commons|2018–19 Tottenham Hotspur F.C. kits}}
+{{Tottenham Hotspur F.C. seasons}}
+{{2018–19 in English football}}
+
+{{DEFAULTSORT:2018-19 Tottenham Hotspur F.C. season}}
+[[Category:2018–19 Premier League by team|Tottenham Hotspur]]
+[[Category:Tottenham Hotspur F.C. seasons]]
+[[Category:2018–19 UEFA Champions League participants seasons|Tottenham Hotspur]]
+[[Category:2018 in sport in London|Tottenham]]
+[[Category:2019 in sport in London|Tottenham]]

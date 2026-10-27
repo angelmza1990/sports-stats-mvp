@@ -1,0 +1,2601 @@
+Date,Season,home,visitor,FT,hgoal,vgoal,division,tier,totgoal,goaldif,result
+1893-09-16,1893,Manchester City,Liverpool,0-1,0,1,2,2,1,-1,A
+1893-10-28,1893,Arsenal,Liverpool,0-5,0,5,2,2,5,-5,A
+1893-11-11,1893,Arsenal,Manchester City,1-0,1,0,2,2,1,1,H
+1893-12-02,1893,Liverpool,Manchester City,3-0,3,0,2,2,3,3,H
+1893-12-30,1893,Manchester City,Arsenal,0-1,0,1,2,2,1,-1,A
+1894-01-01,1893,Liverpool,Arsenal,2-0,2,0,2,2,2,2,H
+1894-09-29,1894,Arsenal,Manchester City,4-2,4,2,2,2,6,2,H
+1894-10-13,1894,Manchester United,Arsenal,3-3,3,3,2,2,6,0,D
+1894-11-03,1894,Manchester City,Manchester United,2-5,2,5,2,2,7,-3,A
+1894-12-15,1894,Manchester City,Arsenal,4-1,4,1,2,2,5,3,H
+1895-01-05,1894,Manchester United,Manchester City,4-1,4,1,2,2,5,3,H
+1895-03-30,1894,Arsenal,Manchester United,3-2,3,2,2,2,5,1,H
+1895-09-07,1895,Arsenal,Manchester City,0-1,0,1,2,2,1,-1,A
+1895-09-28,1895,Manchester City,Arsenal,1-0,1,0,2,2,1,1,H
+1895-10-05,1895,Manchester United,Manchester City,1-1,1,1,2,2,2,0,D
+1895-10-12,1895,Liverpool,Manchester United,7-1,7,1,2,2,8,6,H
+1895-11-02,1895,Manchester United,Liverpool,5-2,5,2,2,2,7,3,H
+1895-11-09,1895,Arsenal,Manchester United,2-1,2,1,2,2,3,1,H
+1895-11-16,1895,Arsenal,Liverpool,0-2,0,2,2,2,2,-2,A
+1895-11-30,1895,Manchester United,Arsenal,5-1,5,1,2,2,6,4,H
+1895-12-07,1895,Manchester City,Manchester United,2-1,2,1,2,2,3,1,H
+1896-01-01,1895,Liverpool,Manchester City,3-1,3,1,2,2,4,2,H
+1896-01-11,1895,Liverpool,Arsenal,3-0,3,0,2,2,3,3,H
+1896-04-03,1895,Manchester City,Liverpool,1-1,1,1,2,2,2,0,D
+1896-09-05,1896,Manchester City,Arsenal,1-1,1,1,2,2,2,0,D
+1896-10-03,1896,Manchester City,Manchester United,0-0,0,0,2,2,0,0,D
+1896-12-25,1896,Manchester United,Manchester City,2-1,2,1,2,2,3,1,H
+1897-03-22,1896,Manchester United,Arsenal,1-1,1,1,2,2,2,0,D
+1897-04-03,1896,Arsenal,Manchester United,0-2,0,2,2,2,2,-2,A
+1897-04-28,1896,Arsenal,Manchester City,1-2,1,2,2,2,3,-1,A
+1897-09-25,1897,Manchester City,Arsenal,4-1,4,1,2,2,5,3,H
+1897-10-16,1897,Manchester United,Manchester City,1-1,1,1,2,2,2,0,D
+1897-12-25,1897,Manchester City,Manchester United,0-1,0,1,2,2,1,-1,A
+1898-01-08,1897,Arsenal,Manchester United,5-1,5,1,2,2,6,4,H
+1898-02-05,1897,Arsenal,Manchester City,2-2,2,2,2,2,4,0,D
+1898-02-26,1897,Manchester United,Arsenal,5-1,5,1,2,2,6,4,H
+1898-09-10,1898,Manchester United,Manchester City,3-0,3,0,2,2,3,3,H
+1898-10-01,1898,Manchester City,Arsenal,3-1,3,1,2,2,4,2,H
+1898-12-03,1898,Arsenal,Manchester United,5-1,5,1,2,2,6,4,H
+1898-12-26,1898,Manchester City,Manchester United,4-0,4,0,2,2,4,4,H
+1899-04-01,1898,Manchester United,Arsenal,2-2,2,2,2,2,4,0,D
+1899-04-03,1898,Arsenal,Manchester City,0-1,0,1,2,2,1,-1,A
+1899-10-28,1899,Manchester City,Liverpool,0-1,0,1,1,1,1,-1,A
+1899-11-04,1899,Manchester United,Arsenal,2-0,2,0,2,2,2,2,H
+1900-03-03,1899,Liverpool,Manchester City,5-2,5,2,1,1,7,3,H
+1900-03-10,1899,Arsenal,Manchester United,2-1,2,1,2,2,3,1,H
+1900-11-10,1900,Arsenal,Manchester United,2-1,2,1,2,2,3,1,H
+1900-12-08,1900,Manchester City,Liverpool,3-4,3,4,1,1,7,-1,A
+1901-03-16,1900,Manchester United,Arsenal,1-0,1,0,2,2,1,1,H
+1901-04-13,1900,Liverpool,Manchester City,3-1,3,1,1,1,4,2,H
+1901-11-02,1901,Manchester City,Liverpool,2-3,2,3,1,1,5,-1,A
+1901-11-16,1901,Arsenal,Manchester United,2-0,2,0,2,2,2,2,H
+1902-03-01,1901,Liverpool,Manchester City,4-0,4,0,1,1,4,4,H
+1902-03-15,1901,Manchester United,Arsenal,0-1,0,1,2,2,1,-1,A
+1902-10-25,1902,Arsenal,Manchester United,0-1,0,1,2,2,1,-1,A
+1902-11-01,1902,Arsenal,Manchester City,1-0,1,0,2,2,1,1,H
+1902-12-20,1902,Manchester City,Arsenal,4-1,4,1,2,2,5,3,H
+1902-12-25,1902,Manchester United,Manchester City,1-1,1,1,2,2,2,0,D
+1903-03-09,1902,Manchester United,Arsenal,3-0,3,0,2,2,3,3,H
+1903-04-10,1902,Manchester City,Manchester United,0-2,0,2,2,2,2,-2,A
+1903-10-03,1903,Arsenal,Manchester United,4-0,4,0,2,2,4,4,H
+1903-10-31,1903,Manchester City,Liverpool,3-2,3,2,1,1,5,1,H
+1904-01-30,1903,Manchester United,Arsenal,1-0,1,0,2,2,1,1,H
+1904-02-27,1903,Liverpool,Manchester City,2-2,2,2,1,1,4,0,D
+1904-12-10,1904,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+1904-12-24,1904,Manchester United,Liverpool,3-1,3,1,2,2,4,2,H
+1905-04-08,1904,Manchester City,Arsenal,1-0,1,0,1,1,1,1,H
+1905-04-22,1904,Liverpool,Manchester United,4-0,4,0,2,2,4,4,H
+1905-09-02,1905,Arsenal,Liverpool,3-1,3,1,1,1,4,2,H
+1905-10-28,1905,Manchester City,Liverpool,0-1,0,1,1,1,1,-1,A
+1905-12-02,1905,Arsenal,Manchester City,2-0,2,0,1,1,2,2,H
+1905-12-25,1905,Manchester United,Chelsea,0-0,0,0,2,2,0,0,D
+1905-12-30,1905,Liverpool,Arsenal,3-0,3,0,1,1,3,3,H
+1906-03-03,1905,Liverpool,Manchester City,0-1,0,1,1,1,1,-1,A
+1906-04-07,1905,Manchester City,Arsenal,1-2,1,2,1,1,3,-1,A
+1906-04-13,1905,Chelsea,Manchester United,1-1,1,1,2,2,2,0,D
+1906-09-01,1906,Manchester City,Arsenal,1-4,1,4,1,1,5,-3,A
+1906-10-06,1906,Arsenal,Liverpool,2-1,2,1,1,1,3,1,H
+1906-10-27,1906,Liverpool,Manchester City,5-4,5,4,1,1,9,1,H
+1906-11-10,1906,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+1906-12-01,1906,Manchester City,Manchester United,3-0,3,0,1,1,3,3,H
+1906-12-25,1906,Manchester United,Liverpool,0-0,0,0,1,1,0,0,D
+1906-12-29,1906,Arsenal,Manchester City,4-1,4,1,1,1,5,3,H
+1907-02-09,1906,Liverpool,Arsenal,4-0,4,0,1,1,4,4,H
+1907-03-02,1906,Manchester City,Liverpool,1-0,1,0,1,1,1,1,H
+1907-03-16,1906,Arsenal,Manchester United,4-0,4,0,1,1,4,4,H
+1907-04-01,1906,Liverpool,Manchester United,0-1,0,1,1,1,1,-1,A
+1907-04-06,1906,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+1907-09-07,1907,Manchester United,Liverpool,4-0,4,0,1,1,4,4,H
+1907-09-21,1907,Arsenal,Manchester City,2-1,2,1,1,1,3,1,H
+1907-09-28,1907,Chelsea,Manchester United,1-4,1,4,1,1,5,-3,A
+1907-10-19,1907,Arsenal,Liverpool,2-1,2,1,1,1,3,1,H
+1907-11-09,1907,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+1907-11-16,1907,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+1907-11-23,1907,Manchester United,Arsenal,4-2,4,2,1,1,6,2,H
+1907-12-07,1907,Chelsea,Manchester City,2-2,2,2,1,1,4,0,D
+1907-12-21,1907,Manchester United,Manchester City,3-1,3,1,1,1,4,2,H
+1907-12-25,1907,Liverpool,Chelsea,1-4,1,4,1,1,5,-3,A
+1908-01-18,1907,Manchester City,Arsenal,4-0,4,0,1,1,4,4,H
+1908-01-25,1907,Manchester United,Chelsea,1-0,1,0,1,1,1,1,H
+1908-02-15,1907,Liverpool,Arsenal,4-1,4,1,1,1,5,3,H
+1908-03-07,1907,Arsenal,Chelsea,0-0,0,0,1,1,0,0,D
+1908-03-14,1907,Liverpool,Manchester City,0-1,0,1,1,1,1,-1,A
+1908-03-21,1907,Arsenal,Manchester United,1-0,1,0,1,1,1,1,H
+1908-03-25,1907,Liverpool,Manchester United,7-4,7,4,1,1,11,3,H
+1908-04-04,1907,Manchester City,Chelsea,0-3,0,3,1,1,3,-3,A
+1908-04-18,1907,Manchester City,Manchester United,0-0,0,0,1,1,0,0,D
+1908-04-20,1907,Chelsea,Liverpool,0-2,0,2,1,1,2,-2,A
+1908-09-05,1908,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+1908-09-19,1908,Manchester City,Manchester United,1-2,1,2,1,1,3,-1,A
+1908-09-26,1908,Manchester United,Liverpool,3-2,3,2,1,1,5,1,H
+1908-10-10,1908,Arsenal,Manchester City,3-0,3,0,1,1,3,3,H
+1908-10-17,1908,Liverpool,Arsenal,2-2,2,2,1,1,4,0,D
+1908-11-07,1908,Manchester United,Chelsea,0-1,0,1,1,1,1,-1,A
+1908-11-28,1908,Chelsea,Arsenal,1-2,1,2,1,1,3,-1,A
+1908-11-28,1908,Liverpool,Manchester City,1-3,1,3,1,1,4,-2,A
+1908-12-19,1908,Arsenal,Manchester United,0-1,0,1,1,1,1,-1,A
+1908-12-25,1908,Manchester City,Chelsea,1-2,1,2,1,1,3,-1,A
+1908-12-26,1908,Chelsea,Manchester City,1-2,1,2,1,1,3,-1,A
+1909-01-02,1908,Chelsea,Liverpool,3-0,3,0,1,1,3,3,H
+1909-01-23,1908,Manchester United,Manchester City,3-1,3,1,1,1,4,2,H
+1909-01-30,1908,Liverpool,Manchester United,3-1,3,1,1,1,4,2,H
+1909-02-13,1908,Manchester City,Arsenal,2-2,2,2,1,1,4,0,D
+1909-02-20,1908,Arsenal,Liverpool,5-0,5,0,1,1,5,5,H
+1909-03-13,1908,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+1909-04-03,1908,Arsenal,Chelsea,0-0,0,0,1,1,0,0,D
+1909-04-03,1908,Manchester City,Liverpool,4-0,4,0,1,1,4,4,H
+1909-04-27,1908,Manchester United,Arsenal,1-4,1,4,1,1,5,-3,A
+1909-09-04,1909,Chelsea,Liverpool,2-1,2,1,1,1,3,1,H
+1909-09-11,1909,Tottenham Hotspur,Manchester United,2-2,2,2,1,1,4,0,D
+1909-09-25,1909,Arsenal,Chelsea,3-2,3,2,1,1,5,1,H
+1909-10-09,1909,Liverpool,Manchester United,3-2,3,2,1,1,5,1,H
+1909-10-30,1909,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+1909-11-13,1909,Manchester United,Chelsea,2-0,2,0,1,1,2,2,H
+1909-11-13,1909,Tottenham Hotspur,Liverpool,1-0,1,0,1,1,1,1,H
+1909-12-04,1909,Arsenal,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1909-12-18,1909,Chelsea,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1909-12-27,1909,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+1910-01-01,1909,Liverpool,Arsenal,5-1,5,1,1,1,6,4,H
+1910-01-08,1909,Liverpool,Chelsea,5-1,5,1,1,1,6,4,H
+1910-01-22,1909,Manchester United,Tottenham Hotspur,5-0,5,0,1,1,5,5,H
+1910-02-19,1909,Manchester United,Liverpool,3-4,3,4,1,1,7,-1,A
+1910-03-12,1909,Arsenal,Manchester United,0-0,0,0,1,1,0,0,D
+1910-03-26,1909,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+1910-03-26,1909,Liverpool,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1910-03-28,1909,Chelsea,Arsenal,0-1,0,1,1,1,1,-1,A
+1910-04-16,1909,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+1910-04-30,1909,Tottenham Hotspur,Chelsea,2-1,2,1,1,1,3,1,H
+1910-09-01,1910,Arsenal,Manchester United,1-2,1,2,1,1,3,-1,A
+1910-09-17,1910,Manchester United,Manchester City,2-1,2,1,1,1,3,1,H
+1910-09-24,1910,Manchester City,Liverpool,1-2,1,2,1,1,3,-1,A
+1910-10-22,1910,Tottenham Hotspur,Manchester United,2-2,2,2,1,1,4,0,D
+1910-10-29,1910,Arsenal,Manchester City,0-1,0,1,1,1,1,-1,A
+1910-10-29,1910,Liverpool,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+1910-11-26,1910,Liverpool,Manchester United,3-2,3,2,1,1,5,1,H
+1910-12-03,1910,Tottenham Hotspur,Arsenal,3-1,3,1,1,1,4,2,H
+1910-12-26,1910,Manchester United,Arsenal,5-0,5,0,1,1,5,5,H
+1910-12-27,1910,Tottenham Hotspur,Manchester City,1-1,1,1,1,1,2,0,D
+1911-01-03,1910,Manchester City,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1911-01-21,1910,Manchester City,Manchester United,1-1,1,1,1,1,2,0,D
+1911-01-28,1910,Liverpool,Manchester City,1-1,1,1,1,1,2,0,D
+1911-03-04,1910,Manchester City,Arsenal,1-1,1,1,1,1,2,0,D
+1911-03-04,1910,Tottenham Hotspur,Liverpool,1-0,1,0,1,1,1,1,H
+1911-03-15,1910,Manchester United,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+1911-04-01,1910,Manchester United,Liverpool,2-0,2,0,1,1,2,2,H
+1911-04-08,1910,Arsenal,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1911-04-14,1910,Arsenal,Liverpool,0-0,0,0,1,1,0,0,D
+1911-04-17,1910,Liverpool,Arsenal,1-1,1,1,1,1,2,0,D
+1911-09-02,1911,Arsenal,Liverpool,2-2,2,2,1,1,4,0,D
+1911-09-02,1911,Manchester City,Manchester United,0-0,0,0,1,1,0,0,D
+1911-09-09,1911,Liverpool,Manchester City,2-2,2,2,1,1,4,0,D
+1911-10-28,1911,Manchester City,Arsenal,3-3,3,3,1,1,6,0,D
+1911-11-04,1911,Manchester United,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+1911-11-11,1911,Tottenham Hotspur,Liverpool,2-0,2,0,1,1,2,2,H
+1911-11-18,1911,Liverpool,Manchester United,3-2,3,2,1,1,5,1,H
+1911-12-25,1911,Tottenham Hotspur,Arsenal,5-0,5,0,1,1,5,5,H
+1911-12-26,1911,Arsenal,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1911-12-30,1911,Liverpool,Arsenal,4-1,4,1,1,1,5,3,H
+1911-12-30,1911,Manchester United,Manchester City,0-0,0,0,1,1,0,0,D
+1912-01-01,1911,Manchester United,Arsenal,2-0,2,0,1,1,2,2,H
+1912-01-06,1911,Manchester City,Liverpool,2-3,2,3,1,1,5,-1,A
+1912-03-02,1911,Arsenal,Manchester City,2-0,2,0,1,1,2,2,H
+1912-03-16,1911,Liverpool,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+1912-03-23,1911,Manchester United,Liverpool,1-1,1,1,1,1,2,0,D
+1912-04-05,1911,Arsenal,Manchester United,2-1,2,1,1,1,3,1,H
+1912-04-05,1911,Manchester City,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1912-04-08,1911,Tottenham Hotspur,Manchester City,0-2,0,2,1,1,2,-2,A
+1912-04-09,1911,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+1912-09-02,1912,Arsenal,Manchester United,0-0,0,0,1,1,0,0,D
+1912-09-07,1912,Liverpool,Arsenal,3-0,3,0,1,1,3,3,H
+1912-09-07,1912,Manchester United,Manchester City,0-1,0,1,1,1,1,-1,A
+1912-09-09,1912,Chelsea,Liverpool,1-2,1,2,1,1,3,-1,A
+1912-09-21,1912,Liverpool,Manchester City,1-2,1,2,1,1,3,-1,A
+1912-10-12,1912,Arsenal,Chelsea,0-1,0,1,1,1,1,-1,A
+1912-10-19,1912,Manchester United,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1912-10-26,1912,Manchester City,Chelsea,2-0,2,0,1,1,2,2,H
+1912-11-02,1912,Arsenal,Manchester City,0-4,0,4,1,1,4,-4,A
+1912-11-02,1912,Liverpool,Tottenham Hotspur,4-1,4,1,1,1,5,3,H
+1912-11-23,1912,Manchester United,Liverpool,3-1,3,1,1,1,4,2,H
+1912-12-07,1912,Tottenham Hotspur,Chelsea,1-0,1,0,1,1,1,1,H
+1912-12-14,1912,Arsenal,Tottenham Hotspur,0-3,0,3,1,1,3,-3,A
+1912-12-25,1912,Chelsea,Manchester United,1-4,1,4,1,1,5,-3,A
+1912-12-25,1912,Manchester City,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+1912-12-26,1912,Manchester United,Chelsea,4-2,4,2,1,1,6,2,H
+1912-12-26,1912,Tottenham Hotspur,Manchester City,4-0,4,0,1,1,4,4,H
+1912-12-28,1912,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+1912-12-28,1912,Manchester City,Manchester United,0-2,0,2,1,1,2,-2,A
+1913-01-18,1912,Manchester City,Liverpool,4-1,4,1,1,1,5,3,H
+1913-02-15,1912,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+1913-03-01,1912,Chelsea,Manchester City,2-1,2,1,1,1,3,1,H
+1913-03-08,1912,Manchester City,Arsenal,0-1,0,1,1,1,1,-1,A
+1913-03-08,1912,Tottenham Hotspur,Liverpool,1-0,1,0,1,1,1,1,H
+1913-03-21,1912,Manchester United,Arsenal,2-0,2,0,1,1,2,2,H
+1913-03-24,1912,Liverpool,Chelsea,1-2,1,2,1,1,3,-1,A
+1913-03-29,1912,Liverpool,Manchester United,0-2,0,2,1,1,2,-2,A
+1913-03-31,1912,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+1913-04-12,1912,Chelsea,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1913-04-19,1912,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+1913-09-06,1913,Chelsea,Tottenham Hotspur,1-3,1,3,1,1,4,-2,A
+1913-09-20,1913,Chelsea,Manchester United,0-2,0,2,1,1,2,-2,A
+1913-09-27,1913,Tottenham Hotspur,Manchester City,3-1,3,1,1,1,4,2,H
+1913-10-04,1913,Manchester United,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1913-10-18,1913,Chelsea,Liverpool,3-0,3,0,1,1,3,3,H
+1913-11-01,1913,Manchester United,Liverpool,3-0,3,0,1,1,3,3,H
+1913-11-22,1913,Manchester City,Chelsea,2-1,2,1,1,1,3,1,H
+1913-11-29,1913,Liverpool,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1913-12-06,1913,Manchester City,Manchester United,0-2,0,2,1,1,2,-2,A
+1913-12-25,1913,Liverpool,Manchester City,4-2,4,2,1,1,6,2,H
+1913-12-26,1913,Manchester City,Liverpool,1-0,1,0,1,1,1,1,H
+1913-12-27,1913,Tottenham Hotspur,Chelsea,1-2,1,2,1,1,3,-1,A
+1914-01-17,1913,Manchester United,Chelsea,0-1,0,1,1,1,1,-1,A
+1914-01-24,1913,Manchester City,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1914-02-07,1913,Tottenham Hotspur,Manchester United,2-1,2,1,1,1,3,1,H
+1914-03-18,1913,Liverpool,Chelsea,3-0,3,0,1,1,3,3,H
+1914-03-28,1913,Chelsea,Manchester City,1-0,1,0,1,1,1,1,H
+1914-04-04,1913,Tottenham Hotspur,Liverpool,0-0,0,0,1,1,0,0,D
+1914-04-11,1913,Manchester United,Manchester City,0-1,0,1,1,1,1,-1,A
+1914-04-15,1913,Liverpool,Manchester United,1-2,1,2,1,1,3,-1,A
+1914-09-05,1914,Manchester United,Manchester City,0-0,0,0,1,1,0,0,D
+1914-09-05,1914,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+1914-09-26,1914,Manchester City,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1914-10-10,1914,Chelsea,Liverpool,3-1,3,1,1,1,4,2,H
+1914-10-31,1914,Liverpool,Tottenham Hotspur,7-2,7,2,1,1,9,5,H
+1914-10-31,1914,Manchester United,Chelsea,2-2,2,2,1,1,4,0,D
+1914-11-21,1914,Tottenham Hotspur,Manchester United,2-0,2,0,1,1,2,2,H
+1914-12-05,1914,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+1914-12-25,1914,Chelsea,Manchester City,0-0,0,0,1,1,0,0,D
+1914-12-26,1914,Liverpool,Manchester United,1-1,1,1,1,1,2,0,D
+1914-12-26,1914,Manchester City,Chelsea,2-1,2,1,1,1,3,1,H
+1915-01-02,1914,Chelsea,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1915-01-02,1914,Manchester City,Manchester United,1-1,1,1,1,1,2,0,D
+1915-02-13,1914,Liverpool,Chelsea,3-3,3,3,1,1,6,0,D
+1915-03-06,1914,Tottenham Hotspur,Liverpool,1-1,1,1,1,1,2,0,D
+1915-03-13,1914,Liverpool,Manchester City,3-2,3,2,1,1,5,1,H
+1915-03-15,1914,Tottenham Hotspur,Manchester City,2-2,2,2,1,1,4,0,D
+1915-03-27,1914,Manchester United,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1915-04-02,1914,Manchester United,Liverpool,2-0,2,0,1,1,2,2,H
+1915-04-19,1914,Chelsea,Manchester United,1-3,1,3,1,1,4,-2,A
+1919-09-01,1919,Liverpool,Arsenal,2-3,2,3,1,1,5,-1,A
+1919-09-08,1919,Arsenal,Liverpool,1-0,1,0,1,1,1,1,H
+1919-10-11,1919,Chelsea,Liverpool,1-0,1,0,1,1,1,1,H
+1919-10-11,1919,Manchester City,Manchester United,3-3,3,3,1,1,6,0,D
+1919-10-18,1919,Liverpool,Chelsea,0-1,0,1,1,1,1,-1,A
+1919-10-18,1919,Manchester United,Manchester City,1-0,1,0,1,1,1,1,H
+1919-12-06,1919,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+1919-12-13,1919,Chelsea,Arsenal,3-1,3,1,1,1,4,2,H
+1919-12-26,1919,Manchester United,Liverpool,0-0,0,0,1,1,0,0,D
+1920-01-01,1919,Liverpool,Manchester United,0-0,0,0,1,1,0,0,D
+1920-01-03,1919,Arsenal,Manchester City,2-2,2,2,1,1,4,0,D
+1920-01-03,1919,Manchester United,Chelsea,0-2,0,2,1,1,2,-2,A
+1920-01-17,1919,Chelsea,Manchester United,1-0,1,0,1,1,1,1,H
+1920-01-17,1919,Manchester City,Arsenal,4-1,4,1,1,1,5,3,H
+1920-02-21,1919,Arsenal,Manchester United,0-3,0,3,1,1,3,-3,A
+1920-02-28,1919,Manchester United,Arsenal,0-1,0,1,1,1,1,-1,A
+1920-03-20,1919,Liverpool,Manchester City,1-0,1,0,1,1,1,1,H
+1920-03-27,1919,Manchester City,Liverpool,2-1,2,1,1,1,3,1,H
+1920-04-03,1919,Chelsea,Manchester City,1-0,1,0,1,1,1,1,H
+1920-04-10,1919,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+1920-08-28,1920,Liverpool,Manchester City,4-2,4,2,1,1,6,2,H
+1920-08-30,1920,Arsenal,Manchester United,2-0,2,0,1,1,2,2,H
+1920-09-04,1920,Manchester City,Liverpool,3-2,3,2,1,1,5,1,H
+1920-09-06,1920,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+1920-09-11,1920,Arsenal,Manchester City,2-1,2,1,1,1,3,1,H
+1920-09-11,1920,Manchester United,Chelsea,3-1,3,1,1,1,4,2,H
+1920-09-18,1920,Chelsea,Manchester United,1-2,1,2,1,1,3,-1,A
+1920-09-18,1920,Manchester City,Arsenal,3-1,3,1,1,1,4,2,H
+1920-09-25,1920,Manchester United,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1920-10-02,1920,Tottenham Hotspur,Manchester United,4-1,4,1,1,1,5,3,H
+1920-10-09,1920,Tottenham Hotspur,Chelsea,5-0,5,0,1,1,5,5,H
+1920-10-16,1920,Chelsea,Tottenham Hotspur,0-4,0,4,1,1,4,-4,A
+1920-11-20,1920,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+1920-11-27,1920,Manchester City,Manchester United,3-0,3,0,1,1,3,3,H
+1920-12-04,1920,Chelsea,Arsenal,1-2,1,2,1,1,3,-1,A
+1920-12-11,1920,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+1920-12-25,1920,Chelsea,Liverpool,1-1,1,1,1,1,2,0,D
+1920-12-27,1920,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+1921-01-15,1920,Chelsea,Manchester City,2-1,2,1,1,1,3,1,H
+1921-01-15,1920,Tottenham Hotspur,Arsenal,2-1,2,1,1,1,3,1,H
+1921-01-22,1920,Arsenal,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+1921-01-22,1920,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+1921-02-05,1920,Manchester United,Liverpool,1-1,1,1,1,1,2,0,D
+1921-02-09,1920,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+1921-02-12,1920,Tottenham Hotspur,Manchester City,2-0,2,0,1,1,2,2,H
+1921-03-09,1920,Manchester City,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1921-03-25,1920,Liverpool,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1921-03-28,1920,Tottenham Hotspur,Liverpool,1-0,1,0,1,1,1,1,H
+1921-05-02,1920,Arsenal,Liverpool,0-0,0,0,1,1,0,0,D
+1921-05-07,1920,Liverpool,Arsenal,3-0,3,0,1,1,3,3,H
+1921-08-31,1921,Liverpool,Manchester City,3-2,3,2,1,1,5,1,H
+1921-09-07,1921,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+1921-09-10,1921,Chelsea,Manchester United,0-0,0,0,1,1,0,0,D
+1921-09-10,1921,Manchester City,Arsenal,2-0,2,0,1,1,2,2,H
+1921-09-17,1921,Arsenal,Manchester City,0-1,0,1,1,1,1,-1,A
+1921-09-17,1921,Manchester United,Chelsea,0-0,0,0,1,1,0,0,D
+1921-09-24,1921,Chelsea,Liverpool,0-1,0,1,1,1,1,-1,A
+1921-10-01,1921,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+1921-10-08,1921,Tottenham Hotspur,Manchester United,2-2,2,2,1,1,4,0,D
+1921-10-15,1921,Manchester United,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1921-10-22,1921,Manchester City,Manchester United,4-1,4,1,1,1,5,3,H
+1921-10-22,1921,Tottenham Hotspur,Liverpool,0-1,0,1,1,1,1,-1,A
+1921-10-29,1921,Liverpool,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1921-10-29,1921,Manchester United,Manchester City,3-1,3,1,1,1,4,2,H
+1921-12-17,1921,Liverpool,Manchester United,2-1,2,1,1,1,3,1,H
+1921-12-17,1921,Tottenham Hotspur,Chelsea,0-0,0,0,1,1,0,0,D
+1921-12-24,1921,Chelsea,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+1921-12-24,1921,Manchester United,Liverpool,0-0,0,0,1,1,0,0,D
+1921-12-31,1921,Chelsea,Arsenal,0-2,0,2,1,1,2,-2,A
+1922-01-14,1921,Arsenal,Chelsea,1-0,1,0,1,1,1,1,H
+1922-02-04,1921,Manchester City,Tottenham Hotspur,3-3,3,3,1,1,6,0,D
+1922-02-11,1921,Tottenham Hotspur,Manchester City,3-1,3,1,1,1,4,2,H
+1922-02-25,1921,Liverpool,Arsenal,4-0,4,0,1,1,4,4,H
+1922-03-11,1921,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+1922-03-18,1921,Chelsea,Manchester City,0-0,0,0,1,1,0,0,D
+1922-03-22,1921,Arsenal,Liverpool,1-0,1,0,1,1,1,1,H
+1922-03-25,1921,Manchester City,Chelsea,0-0,0,0,1,1,0,0,D
+1922-04-05,1921,Arsenal,Manchester United,3-1,3,1,1,1,4,2,H
+1922-04-15,1921,Tottenham Hotspur,Arsenal,2-0,2,0,1,1,2,2,H
+1922-04-22,1921,Arsenal,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1922-08-26,1922,Liverpool,Arsenal,5-2,5,2,1,1,7,3,H
+1922-09-02,1922,Arsenal,Liverpool,1-0,1,0,1,1,1,1,H
+1922-09-23,1922,Tottenham Hotspur,Arsenal,1-2,1,2,1,1,3,-1,A
+1922-09-30,1922,Arsenal,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+1922-11-04,1922,Tottenham Hotspur,Liverpool,2-4,2,4,1,1,6,-2,A
+1922-11-11,1922,Liverpool,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1922-12-16,1922,Chelsea,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1922-12-23,1922,Tottenham Hotspur,Chelsea,3-1,3,1,1,1,4,2,H
+1922-12-30,1922,Chelsea,Liverpool,0-0,0,0,1,1,0,0,D
+1923-01-06,1922,Liverpool,Chelsea,1-0,1,0,1,1,1,1,H
+1923-01-20,1922,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+1923-01-27,1922,Manchester City,Arsenal,0-0,0,0,1,1,0,0,D
+1923-02-17,1922,Chelsea,Arsenal,0-0,0,0,1,1,0,0,D
+1923-02-24,1922,Arsenal,Chelsea,3-1,3,1,1,1,4,2,H
+1923-03-03,1922,Tottenham Hotspur,Manchester City,3-1,3,1,1,1,4,2,H
+1923-03-14,1922,Manchester City,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+1923-03-17,1922,Manchester City,Liverpool,1-0,1,0,1,1,1,1,H
+1923-03-24,1922,Liverpool,Manchester City,2-0,2,0,1,1,2,2,H
+1923-03-31,1922,Manchester City,Chelsea,3-0,3,0,1,1,3,3,H
+1923-04-07,1922,Chelsea,Manchester City,1-1,1,1,1,1,2,0,D
+1923-08-27,1923,Chelsea,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1923-09-03,1923,Tottenham Hotspur,Chelsea,0-1,0,1,1,1,1,-1,A
+1923-10-06,1923,Manchester City,Arsenal,1-0,1,0,1,1,1,1,H
+1923-10-13,1923,Arsenal,Manchester City,1-2,1,2,1,1,3,-1,A
+1923-11-17,1923,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1923-11-24,1923,Tottenham Hotspur,Arsenal,3-0,3,0,1,1,3,3,H
+1923-12-29,1923,Arsenal,Chelsea,1-0,1,0,1,1,1,1,H
+1924-01-01,1923,Liverpool,Chelsea,3-1,3,1,1,1,4,2,H
+1924-01-01,1923,Manchester City,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1924-01-05,1923,Chelsea,Arsenal,0-0,0,0,1,1,0,0,D
+1924-01-19,1923,Manchester City,Liverpool,0-1,0,1,1,1,1,-1,A
+1924-01-26,1923,Liverpool,Manchester City,0-0,0,0,1,1,0,0,D
+1924-03-01,1923,Arsenal,Liverpool,3-1,3,1,1,1,4,2,H
+1924-03-29,1923,Liverpool,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1924-04-02,1923,Liverpool,Arsenal,0-0,0,0,1,1,0,0,D
+1924-04-05,1923,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+1924-04-05,1923,Tottenham Hotspur,Liverpool,1-1,1,1,1,1,2,0,D
+1924-04-18,1923,Chelsea,Liverpool,2-1,2,1,1,1,3,1,H
+1924-04-21,1923,Tottenham Hotspur,Manchester City,4-1,4,1,1,1,5,3,H
+1924-04-30,1923,Chelsea,Manchester City,3-1,3,1,1,1,4,2,H
+1924-09-01,1924,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+1924-09-06,1924,Arsenal,Liverpool,2-0,2,0,1,1,2,2,H
+1924-09-13,1924,Liverpool,Manchester City,5-3,5,3,1,1,8,2,H
+1924-09-17,1924,Manchester City,Arsenal,2-0,2,0,1,1,2,2,H
+1924-10-25,1924,Arsenal,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1924-11-10,1924,Tottenham Hotspur,Manchester City,1-1,1,1,1,1,2,0,D
+1924-12-13,1924,Tottenham Hotspur,Liverpool,1-1,1,1,1,1,2,0,D
+1925-01-01,1924,Manchester United,Chelsea,1-0,1,0,2,2,1,1,H
+1925-01-03,1924,Liverpool,Arsenal,2-1,2,1,1,1,3,1,H
+1925-01-17,1924,Manchester City,Liverpool,5-0,5,0,1,1,5,5,H
+1925-02-28,1924,Tottenham Hotspur,Arsenal,2-0,2,0,1,1,2,2,H
+1925-04-13,1924,Chelsea,Manchester United,0-0,0,0,2,2,0,0,D
+1925-04-18,1924,Liverpool,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1925-05-02,1924,Manchester City,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1925-08-29,1925,Arsenal,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1925-09-05,1925,Manchester United,Arsenal,0-1,0,1,1,1,1,-1,A
+1925-09-05,1925,Tottenham Hotspur,Manchester City,1-0,1,0,1,1,1,1,H
+1925-09-12,1925,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+1925-09-12,1925,Manchester City,Manchester United,1-1,1,1,1,1,2,0,D
+1925-09-19,1925,Liverpool,Manchester United,5-0,5,0,1,1,5,5,H
+1925-10-17,1925,Liverpool,Manchester City,2-1,2,1,1,1,3,1,H
+1925-10-17,1925,Manchester United,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1925-10-24,1925,Tottenham Hotspur,Liverpool,3-1,3,1,1,1,4,2,H
+1925-11-07,1925,Manchester City,Arsenal,2-5,2,5,1,1,7,-3,A
+1926-01-02,1925,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+1926-01-16,1925,Arsenal,Manchester United,3-2,3,2,1,1,5,1,H
+1926-01-16,1925,Manchester City,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1926-01-23,1925,Liverpool,Arsenal,3-0,3,0,1,1,3,3,H
+1926-01-23,1925,Manchester United,Manchester City,1-6,1,6,1,1,7,-5,A
+1926-02-27,1925,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+1926-02-27,1925,Tottenham Hotspur,Manchester United,0-1,0,1,1,1,1,-1,A
+1926-03-06,1925,Liverpool,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1926-03-10,1925,Manchester United,Liverpool,3-3,3,3,1,1,6,0,D
+1926-03-20,1925,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+1926-08-28,1926,Liverpool,Manchester United,4-2,4,2,1,1,6,2,H
+1926-09-15,1926,Manchester United,Arsenal,2-2,2,2,1,1,4,0,D
+1926-09-18,1926,Arsenal,Liverpool,2-0,2,0,1,1,2,2,H
+1926-12-11,1926,Tottenham Hotspur,Liverpool,1-2,1,2,1,1,3,-1,A
+1926-12-11,1926,Manchester City,Chelsea,1-0,1,0,2,2,1,1,H
+1926-12-18,1926,Arsenal,Tottenham Hotspur,2-4,2,4,1,1,6,-2,A
+1926-12-25,1926,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+1926-12-27,1926,Manchester United,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1926-12-28,1926,Arsenal,Manchester United,1-0,1,0,1,1,1,1,H
+1927-01-15,1926,Manchester United,Liverpool,0-1,0,1,1,1,1,-1,A
+1927-02-05,1926,Liverpool,Arsenal,3-0,3,0,1,1,3,3,H
+1927-04-30,1926,Liverpool,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1927-04-30,1926,Chelsea,Manchester City,0-0,0,0,2,2,0,0,D
+1927-05-07,1926,Tottenham Hotspur,Arsenal,0-4,0,4,1,1,4,-4,A
+1927-09-24,1927,Manchester United,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+1927-11-12,1927,Manchester City,Chelsea,0-1,0,1,2,2,1,-1,A
+1927-12-17,1927,Manchester United,Arsenal,4-1,4,1,1,1,5,3,H
+1927-12-17,1927,Tottenham Hotspur,Liverpool,3-1,3,1,1,1,4,2,H
+1927-12-24,1927,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+1927-12-27,1927,Liverpool,Arsenal,0-2,0,2,1,1,2,-2,A
+1928-01-02,1927,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1928-02-04,1927,Tottenham Hotspur,Manchester United,4-1,4,1,1,1,5,3,H
+1928-03-07,1927,Arsenal,Liverpool,6-3,6,3,1,1,9,3,H
+1928-03-24,1927,Chelsea,Manchester City,0-1,0,1,2,2,1,-1,A
+1928-04-07,1927,Tottenham Hotspur,Arsenal,2-0,2,0,1,1,2,2,H
+1928-04-28,1927,Arsenal,Manchester United,0-1,0,1,1,1,1,-1,A
+1928-04-28,1927,Liverpool,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1928-05-05,1927,Manchester United,Liverpool,6-1,6,1,1,1,7,5,H
+1928-09-01,1928,Manchester City,Manchester United,2-2,2,2,1,1,4,0,D
+1928-09-15,1928,Manchester United,Liverpool,2-2,2,2,1,1,4,0,D
+1928-09-22,1928,Manchester City,Arsenal,4-1,4,1,1,1,5,3,H
+1928-10-27,1928,Arsenal,Liverpool,4-4,4,4,1,1,8,0,D
+1928-12-08,1928,Arsenal,Manchester United,3-1,3,1,1,1,4,2,H
+1928-12-08,1928,Chelsea,Tottenham Hotspur,1-1,1,1,2,2,2,0,D
+1928-12-22,1928,Manchester City,Liverpool,2-3,2,3,1,1,5,-1,A
+1929-01-05,1928,Manchester United,Manchester City,1-2,1,2,1,1,3,-1,A
+1929-02-02,1928,Arsenal,Manchester City,0-0,0,0,1,1,0,0,D
+1929-02-13,1928,Liverpool,Manchester United,2-3,2,3,1,1,5,-1,A
+1929-03-09,1928,Liverpool,Arsenal,2-4,2,4,1,1,6,-2,A
+1929-04-20,1928,Manchester United,Arsenal,4-1,4,1,1,1,5,3,H
+1929-04-20,1928,Tottenham Hotspur,Chelsea,4-1,4,1,2,2,5,3,H
+1929-05-04,1928,Liverpool,Manchester City,1-1,1,1,1,1,2,0,D
+1929-09-04,1929,Manchester City,Arsenal,3-1,3,1,1,1,4,2,H
+1929-09-11,1929,Arsenal,Manchester City,3-2,3,2,1,1,5,1,H
+1929-09-21,1929,Manchester United,Liverpool,1-2,1,2,1,1,3,-1,A
+1929-09-28,1929,Chelsea,Tottenham Hotspur,3-0,3,0,2,2,3,3,H
+1929-10-05,1929,Manchester United,Manchester City,1-3,1,3,1,1,4,-2,A
+1929-10-26,1929,Liverpool,Manchester City,1-6,1,6,1,1,7,-5,A
+1929-10-26,1929,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+1929-12-21,1929,Liverpool,Arsenal,1-0,1,0,1,1,1,1,H
+1930-01-25,1929,Liverpool,Manchester United,1-0,1,0,1,1,1,1,H
+1930-02-01,1929,Tottenham Hotspur,Chelsea,3-3,3,3,2,2,6,0,D
+1930-02-08,1929,Manchester City,Manchester United,0-1,0,1,1,1,1,-1,A
+1930-03-01,1929,Manchester City,Liverpool,4-3,4,3,1,1,7,1,H
+1930-03-12,1929,Arsenal,Manchester United,4-2,4,2,1,1,6,2,H
+1930-04-02,1929,Arsenal,Liverpool,0-1,0,1,1,1,1,-1,A
+1930-09-06,1930,Chelsea,Manchester United,6-2,6,2,1,1,8,4,H
+1930-09-27,1930,Liverpool,Chelsea,3-1,3,1,1,1,4,2,H
+1930-10-04,1930,Manchester City,Manchester United,4-1,4,1,1,1,5,3,H
+1930-10-18,1930,Manchester United,Arsenal,1-2,1,2,1,1,3,-1,A
+1930-11-01,1930,Liverpool,Manchester City,0-2,0,2,1,1,2,-2,A
+1930-11-15,1930,Chelsea,Manchester City,2-0,2,0,1,1,2,2,H
+1930-11-29,1930,Chelsea,Arsenal,1-5,1,5,1,1,6,-4,A
+1930-12-13,1930,Liverpool,Arsenal,1-1,1,1,1,1,2,0,D
+1930-12-25,1930,Manchester City,Arsenal,1-4,1,4,1,1,5,-3,A
+1930-12-26,1930,Arsenal,Manchester City,3-1,3,1,1,1,4,2,H
+1931-01-03,1930,Manchester United,Chelsea,1-0,1,0,1,1,1,1,H
+1931-01-31,1930,Chelsea,Liverpool,2-2,2,2,1,1,4,0,D
+1931-02-07,1930,Manchester United,Manchester City,1-3,1,3,1,1,4,-2,A
+1931-02-21,1930,Arsenal,Manchester United,4-1,4,1,1,1,5,3,H
+1931-03-07,1930,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+1931-03-21,1930,Manchester City,Chelsea,2-0,2,0,1,1,2,2,H
+1931-04-03,1930,Liverpool,Manchester United,1-1,1,1,1,1,2,0,D
+1931-04-04,1930,Arsenal,Chelsea,2-1,2,1,1,1,3,1,H
+1931-04-06,1930,Manchester United,Liverpool,4-1,4,1,1,1,5,3,H
+1931-04-18,1930,Arsenal,Liverpool,3-1,3,1,1,1,4,2,H
+1931-09-12,1931,Manchester United,Tottenham Hotspur,1-1,1,1,2,2,2,0,D
+1931-09-19,1931,Manchester City,Arsenal,1-3,1,3,1,1,4,-2,A
+1931-10-03,1931,Chelsea,Liverpool,2-0,2,0,1,1,2,2,H
+1931-11-21,1931,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+1931-11-21,1931,Liverpool,Manchester City,4-3,4,3,1,1,7,1,H
+1931-11-28,1931,Arsenal,Liverpool,6-0,6,0,1,1,6,6,H
+1931-12-05,1931,Chelsea,Manchester City,3-2,3,2,1,1,5,1,H
+1932-01-23,1931,Tottenham Hotspur,Manchester United,4-1,4,1,2,2,5,3,H
+1932-01-30,1931,Arsenal,Manchester City,4-0,4,0,1,1,4,4,H
+1932-04-02,1931,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+1932-04-02,1931,Manchester City,Liverpool,0-1,0,1,1,1,1,-1,A
+1932-04-06,1931,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+1932-04-09,1931,Liverpool,Arsenal,2-1,2,1,1,1,3,1,H
+1932-04-16,1931,Manchester City,Chelsea,1-1,1,1,1,1,2,0,D
+1932-09-10,1932,Manchester City,Arsenal,2-3,2,3,1,1,5,-1,A
+1932-09-10,1932,Tottenham Hotspur,Manchester United,6-1,6,1,2,2,7,5,H
+1932-10-22,1932,Liverpool,Arsenal,2-3,2,3,1,1,5,-1,A
+1932-10-29,1932,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+1932-12-10,1932,Arsenal,Chelsea,4-1,4,1,1,1,5,3,H
+1932-12-17,1932,Chelsea,Manchester City,3-1,3,1,1,1,4,2,H
+1932-12-26,1932,Liverpool,Chelsea,3-0,3,0,1,1,3,3,H
+1932-12-27,1932,Chelsea,Liverpool,0-2,0,2,1,1,2,-2,A
+1933-01-21,1932,Arsenal,Manchester City,2-1,2,1,1,1,3,1,H
+1933-01-21,1932,Manchester United,Tottenham Hotspur,2-1,2,1,2,2,3,1,H
+1933-03-04,1932,Arsenal,Liverpool,0-1,0,1,1,1,1,-1,A
+1933-03-11,1932,Liverpool,Manchester City,1-1,1,1,1,1,2,0,D
+1933-04-22,1932,Chelsea,Arsenal,1-3,1,3,1,1,4,-2,A
+1933-05-03,1932,Manchester City,Chelsea,1-4,1,4,1,1,5,-3,A
+1933-09-09,1933,Arsenal,Manchester City,1-1,1,1,1,1,2,0,D
+1933-09-16,1933,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+1933-09-23,1933,Tottenham Hotspur,Liverpool,0-3,0,3,1,1,3,-3,A
+1933-09-30,1933,Chelsea,Tottenham Hotspur,0-4,0,4,1,1,4,-4,A
+1933-10-07,1933,Liverpool,Chelsea,3-0,3,0,1,1,3,3,H
+1933-12-02,1933,Arsenal,Liverpool,2-1,2,1,1,1,3,1,H
+1933-12-02,1933,Manchester City,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1933-12-09,1933,Chelsea,Manchester City,1-2,1,2,1,1,3,-1,A
+1933-12-16,1933,Arsenal,Chelsea,2-1,2,1,1,1,3,1,H
+1933-12-16,1933,Manchester City,Liverpool,2-1,2,1,1,1,3,1,H
+1934-01-20,1933,Manchester City,Arsenal,2-1,2,1,1,1,3,1,H
+1934-01-31,1933,Arsenal,Tottenham Hotspur,1-3,1,3,1,1,4,-2,A
+1934-02-03,1933,Liverpool,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1934-02-10,1933,Tottenham Hotspur,Chelsea,2-1,2,1,1,1,3,1,H
+1934-02-21,1933,Chelsea,Liverpool,2-0,2,0,1,1,2,2,H
+1934-04-14,1933,Liverpool,Arsenal,2-3,2,3,1,1,5,-1,A
+1934-04-14,1933,Tottenham Hotspur,Manchester City,5-1,5,1,1,1,6,4,H
+1934-04-21,1933,Manchester City,Chelsea,4-2,4,2,1,1,6,2,H
+1934-04-28,1933,Chelsea,Arsenal,2-2,2,2,1,1,4,0,D
+1934-05-02,1933,Liverpool,Manchester City,3-2,3,2,1,1,5,1,H
+1934-08-29,1934,Manchester City,Liverpool,3-1,3,1,1,1,4,2,H
+1934-09-01,1934,Arsenal,Liverpool,8-1,8,1,1,1,9,7,H
+1934-09-05,1934,Liverpool,Manchester City,2-1,2,1,1,1,3,1,H
+1934-09-15,1934,Chelsea,Tottenham Hotspur,1-3,1,3,1,1,4,-2,A
+1934-10-13,1934,Arsenal,Manchester City,3-0,3,0,1,1,3,3,H
+1934-10-20,1934,Arsenal,Tottenham Hotspur,5-1,5,1,1,1,6,4,H
+1934-11-03,1934,Manchester City,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1934-11-24,1934,Chelsea,Arsenal,2-5,2,5,1,1,7,-3,A
+1934-12-08,1934,Chelsea,Liverpool,4-1,4,1,1,1,5,3,H
+1934-12-15,1934,Liverpool,Tottenham Hotspur,4-1,4,1,1,1,5,3,H
+1934-12-15,1934,Manchester City,Chelsea,2-0,2,0,1,1,2,2,H
+1935-01-05,1934,Liverpool,Arsenal,0-2,0,2,1,1,2,-2,A
+1935-01-30,1934,Tottenham Hotspur,Chelsea,1-3,1,3,1,1,4,-2,A
+1935-02-23,1934,Manchester City,Arsenal,1-1,1,1,1,1,2,0,D
+1935-03-06,1934,Tottenham Hotspur,Arsenal,0-6,0,6,1,1,6,-6,A
+1935-03-16,1934,Tottenham Hotspur,Manchester City,0-0,0,0,1,1,0,0,D
+1935-04-06,1934,Arsenal,Chelsea,2-2,2,2,1,1,4,0,D
+1935-04-20,1934,Liverpool,Chelsea,6-0,6,0,1,1,6,6,H
+1935-04-27,1934,Chelsea,Manchester City,4-2,4,2,1,1,6,2,H
+1935-04-27,1934,Tottenham Hotspur,Liverpool,5-1,5,1,1,1,6,4,H
+1935-08-31,1935,Chelsea,Liverpool,2-2,2,2,1,1,4,0,D
+1935-09-04,1935,Liverpool,Manchester City,0-2,0,2,1,1,2,-2,A
+1935-09-11,1935,Manchester City,Liverpool,6-0,6,0,1,1,6,6,H
+1935-09-21,1935,Arsenal,Manchester City,2-3,2,3,1,1,5,-1,A
+1935-09-21,1935,Manchester United,Tottenham Hotspur,0-0,0,0,2,2,0,0,D
+1935-10-12,1935,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+1935-12-25,1935,Liverpool,Arsenal,0-1,0,1,1,1,1,-1,A
+1935-12-25,1935,Manchester City,Chelsea,0-0,0,0,1,1,0,0,D
+1935-12-26,1935,Arsenal,Liverpool,1-2,1,2,1,1,3,-1,A
+1935-12-26,1935,Chelsea,Manchester City,2-1,2,1,1,1,3,1,H
+1935-12-28,1935,Liverpool,Chelsea,2-3,2,3,1,1,5,-1,A
+1936-02-05,1935,Tottenham Hotspur,Manchester United,0-0,0,0,2,2,0,0,D
+1936-03-11,1935,Manchester City,Arsenal,1-0,1,0,1,1,1,1,H
+1936-04-27,1935,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+1936-09-12,1936,Manchester United,Manchester City,3-2,3,2,1,1,5,1,H
+1936-09-16,1936,Chelsea,Liverpool,2-0,2,0,1,1,2,2,H
+1936-09-26,1936,Manchester City,Chelsea,0-0,0,0,1,1,0,0,D
+1936-10-03,1936,Manchester United,Arsenal,2-0,2,0,1,1,2,2,H
+1936-10-24,1936,Manchester United,Chelsea,0-0,0,0,1,1,0,0,D
+1936-10-31,1936,Liverpool,Arsenal,2-1,2,1,1,1,3,1,H
+1936-11-21,1936,Manchester United,Liverpool,2-5,2,5,1,1,7,-3,A
+1936-12-05,1936,Arsenal,Manchester City,1-3,1,3,1,1,4,-2,A
+1936-12-19,1936,Arsenal,Chelsea,4-1,4,1,1,1,5,3,H
+1937-01-09,1936,Manchester City,Manchester United,1-0,1,0,1,1,1,1,H
+1937-02-03,1936,Chelsea,Manchester City,4-4,4,4,1,1,8,0,D
+1937-02-06,1936,Arsenal,Manchester United,1-1,1,1,1,1,2,0,D
+1937-02-27,1936,Chelsea,Manchester United,4-2,4,2,1,1,6,2,H
+1937-03-10,1936,Arsenal,Liverpool,1-0,1,0,1,1,1,1,H
+1937-03-26,1936,Liverpool,Manchester City,0-5,0,5,1,1,5,-5,A
+1937-03-27,1936,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+1937-03-29,1936,Manchester City,Liverpool,5-1,5,1,1,1,6,4,H
+1937-04-10,1936,Manchester City,Arsenal,2-0,2,0,1,1,2,2,H
+1937-04-24,1936,Chelsea,Arsenal,2-0,2,0,1,1,2,2,H
+1937-05-01,1936,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+1937-08-28,1937,Chelsea,Liverpool,6-1,6,1,1,1,7,5,H
+1937-10-02,1937,Arsenal,Manchester City,2-1,2,1,1,1,3,1,H
+1937-10-09,1937,Chelsea,Arsenal,2-2,2,2,1,1,4,0,D
+1937-10-09,1937,Tottenham Hotspur,Manchester United,0-1,0,1,2,2,1,-1,A
+1937-11-13,1937,Manchester City,Liverpool,1-3,1,3,1,1,4,-2,A
+1937-11-20,1937,Chelsea,Manchester City,2-2,2,2,1,1,4,0,D
+1937-12-18,1937,Liverpool,Arsenal,2-0,2,0,1,1,2,2,H
+1938-01-01,1937,Liverpool,Chelsea,2-2,2,2,1,1,4,0,D
+1938-02-16,1937,Manchester City,Arsenal,1-2,1,2,1,1,3,-1,A
+1938-02-19,1937,Arsenal,Chelsea,2-0,2,0,1,1,2,2,H
+1938-02-19,1937,Manchester United,Tottenham Hotspur,0-1,0,1,2,2,1,-1,A
+1938-03-26,1937,Liverpool,Manchester City,2-0,2,0,1,1,2,2,H
+1938-04-02,1937,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+1938-04-30,1937,Arsenal,Liverpool,1-0,1,0,1,1,1,1,H
+1938-08-27,1938,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+1938-09-07,1938,Liverpool,Manchester United,1-0,1,0,1,1,1,1,H
+1938-09-24,1938,Manchester United,Chelsea,5-1,5,1,1,1,6,4,H
+1938-10-15,1938,Chelsea,Arsenal,4-2,4,2,1,1,6,2,H
+1938-11-05,1938,Manchester City,Tottenham Hotspur,2-0,2,0,2,2,2,2,H
+1938-11-12,1938,Liverpool,Arsenal,2-2,2,2,1,1,4,0,D
+1938-12-10,1938,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+1938-12-24,1938,Chelsea,Liverpool,4-1,4,1,1,1,5,3,H
+1939-01-28,1938,Chelsea,Manchester United,0-1,0,1,1,1,1,-1,A
+1939-02-18,1938,Arsenal,Chelsea,1-0,1,0,1,1,1,1,H
+1939-03-11,1938,Tottenham Hotspur,Manchester City,2-3,2,3,2,2,5,-1,A
+1939-03-18,1938,Arsenal,Liverpool,2-0,2,0,1,1,2,2,H
+1939-04-15,1938,Arsenal,Manchester United,2-1,2,1,1,1,3,1,H
+1939-05-06,1938,Manchester United,Liverpool,2-0,2,0,1,1,2,2,H
+1946-09-04,1946,Chelsea,Manchester United,0-3,0,3,1,1,3,-3,A
+1946-09-07,1946,Liverpool,Chelsea,7-4,7,4,1,1,11,3,H
+1946-09-11,1946,Manchester United,Liverpool,5-0,5,0,1,1,5,5,H
+1946-09-18,1946,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+1946-09-28,1946,Manchester United,Arsenal,5-2,5,2,1,1,7,3,H
+1946-09-28,1946,Tottenham Hotspur,Manchester City,0-0,0,0,2,2,0,0,D
+1946-10-26,1946,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+1946-11-23,1946,Liverpool,Arsenal,4-2,4,2,1,1,6,2,H
+1947-01-04,1946,Chelsea,Liverpool,3-1,3,1,1,1,4,2,H
+1947-02-01,1946,Arsenal,Manchester United,6-2,6,2,1,1,8,4,H
+1947-02-01,1946,Manchester City,Tottenham Hotspur,1-0,1,0,2,2,1,1,H
+1947-03-01,1946,Arsenal,Chelsea,1-2,1,2,1,1,3,-1,A
+1947-05-03,1946,Liverpool,Manchester United,1-0,1,0,1,1,1,1,H
+1947-05-24,1946,Arsenal,Liverpool,1-2,1,2,1,1,3,-1,A
+1947-08-27,1947,Manchester United,Liverpool,2-0,2,0,1,1,2,2,H
+1947-09-03,1947,Liverpool,Manchester United,2-2,2,2,1,1,4,0,D
+1947-09-06,1947,Arsenal,Manchester United,2-1,2,1,1,1,3,1,H
+1947-09-20,1947,Manchester City,Manchester United,0-0,0,0,1,1,0,0,D
+1947-10-11,1947,Liverpool,Chelsea,3-0,3,0,1,1,3,3,H
+1947-11-01,1947,Chelsea,Arsenal,0-0,0,0,1,1,0,0,D
+1947-11-29,1947,Chelsea,Manchester United,0-4,0,4,1,1,4,-4,A
+1947-11-29,1947,Manchester City,Liverpool,2-0,2,0,1,1,2,2,H
+1947-12-06,1947,Arsenal,Manchester City,1-1,1,1,1,1,2,0,D
+1947-12-25,1947,Liverpool,Arsenal,1-3,1,3,1,1,4,-2,A
+1947-12-27,1947,Arsenal,Liverpool,1-2,1,2,1,1,3,-1,A
+1948-01-17,1947,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+1948-02-28,1947,Chelsea,Liverpool,3-1,3,1,1,1,4,2,H
+1948-03-20,1947,Arsenal,Chelsea,0-2,0,2,1,1,2,-2,A
+1948-03-26,1947,Chelsea,Manchester City,2-2,2,2,1,1,4,0,D
+1948-03-29,1947,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+1948-04-07,1947,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+1948-04-17,1947,Liverpool,Manchester City,1-1,1,1,1,1,2,0,D
+1948-04-17,1947,Manchester United,Chelsea,5-0,5,0,1,1,5,5,H
+1948-04-24,1947,Manchester City,Arsenal,0-0,0,0,1,1,0,0,D
+1948-08-28,1948,Arsenal,Manchester United,0-1,0,1,1,1,1,-1,A
+1948-09-08,1948,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+1948-09-11,1948,Manchester City,Manchester United,0-0,0,0,1,1,0,0,D
+1948-09-15,1948,Liverpool,Arsenal,0-1,0,1,1,1,1,-1,A
+1948-10-09,1948,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+1948-10-30,1948,Chelsea,Arsenal,0-1,0,1,1,1,1,-1,A
+1948-11-13,1948,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+1948-11-13,1948,Manchester City,Liverpool,2-4,2,4,1,1,6,-2,A
+1948-12-04,1948,Arsenal,Manchester City,1-1,1,1,1,1,2,0,D
+1948-12-25,1948,Manchester United,Liverpool,0-0,0,0,1,1,0,0,D
+1948-12-27,1948,Liverpool,Manchester United,0-2,0,2,1,1,2,-2,A
+1949-01-01,1948,Manchester United,Arsenal,2-0,2,0,1,1,2,2,H
+1949-01-22,1948,Manchester United,Manchester City,0-0,0,0,1,1,0,0,D
+1949-03-05,1948,Chelsea,Liverpool,2-1,2,1,1,1,3,1,H
+1949-04-09,1948,Liverpool,Manchester City,0-1,0,1,1,1,1,-1,A
+1949-04-09,1948,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+1949-04-15,1948,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+1949-04-18,1948,Chelsea,Manchester City,1-1,1,1,1,1,2,0,D
+1949-04-23,1948,Arsenal,Chelsea,1-2,1,2,1,1,3,-1,A
+1949-04-27,1948,Manchester City,Arsenal,0-3,0,3,1,1,3,-3,A
+1949-08-24,1949,Chelsea,Arsenal,1-2,1,2,1,1,3,-1,A
+1949-08-31,1949,Arsenal,Chelsea,2-3,2,3,1,1,5,-1,A
+1949-09-03,1949,Arsenal,Liverpool,1-2,1,2,1,1,3,-1,A
+1949-09-03,1949,Manchester United,Manchester City,2-1,2,1,1,1,3,1,H
+1949-09-07,1949,Liverpool,Manchester United,1-1,1,1,1,1,2,0,D
+1949-09-10,1949,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+1949-10-08,1949,Chelsea,Manchester City,3-0,3,0,1,1,3,3,H
+1949-11-05,1949,Liverpool,Manchester City,4-0,4,0,1,1,4,4,H
+1949-11-12,1949,Manchester City,Arsenal,0-2,0,2,1,1,2,-2,A
+1949-12-26,1949,Chelsea,Liverpool,1-1,1,1,1,1,2,0,D
+1949-12-26,1949,Manchester United,Arsenal,2-0,2,0,1,1,2,2,H
+1949-12-27,1949,Arsenal,Manchester United,0-0,0,0,1,1,0,0,D
+1949-12-27,1949,Liverpool,Chelsea,2-2,2,2,1,1,4,0,D
+1949-12-31,1949,Liverpool,Arsenal,2-0,2,0,1,1,2,2,H
+1949-12-31,1949,Manchester City,Manchester United,1-2,1,2,1,1,3,-1,A
+1950-01-14,1949,Manchester United,Chelsea,1-0,1,0,1,1,1,1,H
+1950-02-25,1949,Manchester City,Chelsea,1-1,1,1,1,1,2,0,D
+1950-03-15,1949,Manchester United,Liverpool,0-0,0,0,1,1,0,0,D
+1950-03-29,1949,Manchester City,Liverpool,1-2,1,2,1,1,3,-1,A
+1950-04-01,1949,Arsenal,Manchester City,4-1,4,1,1,1,5,3,H
+1950-08-23,1950,Arsenal,Chelsea,0-0,0,0,1,1,0,0,D
+1950-08-23,1950,Liverpool,Manchester United,2-1,2,1,1,1,3,1,H
+1950-08-26,1950,Arsenal,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+1950-08-30,1950,Chelsea,Arsenal,0-1,0,1,1,1,1,-1,A
+1950-08-30,1950,Manchester United,Liverpool,1-0,1,0,1,1,1,1,H
+1950-09-06,1950,Liverpool,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1950-09-09,1950,Tottenham Hotspur,Manchester United,1-0,1,0,1,1,1,1,H
+1950-10-14,1950,Arsenal,Manchester United,3-0,3,0,1,1,3,3,H
+1950-10-14,1950,Chelsea,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+1950-11-11,1950,Chelsea,Manchester United,1-0,1,0,1,1,1,1,H
+1950-11-18,1950,Liverpool,Arsenal,1-3,1,3,1,1,4,-2,A
+1950-12-02,1950,Liverpool,Chelsea,1-0,1,0,1,1,1,1,H
+1950-12-23,1950,Tottenham Hotspur,Arsenal,1-0,1,0,1,1,1,1,H
+1951-01-13,1950,Manchester United,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1951-03-03,1950,Manchester United,Arsenal,3-1,3,1,1,1,4,2,H
+1951-03-03,1950,Tottenham Hotspur,Chelsea,2-1,2,1,1,1,3,1,H
+1951-03-31,1950,Manchester United,Chelsea,4-1,4,1,1,1,5,3,H
+1951-04-07,1950,Arsenal,Liverpool,1-2,1,2,1,1,3,-1,A
+1951-04-21,1950,Chelsea,Liverpool,1-0,1,0,1,1,1,1,H
+1951-05-05,1950,Tottenham Hotspur,Liverpool,3-1,3,1,1,1,4,2,H
+1951-08-22,1951,Chelsea,Arsenal,1-3,1,3,1,1,4,-2,A
+1951-08-25,1951,Chelsea,Liverpool,1-3,1,3,1,1,4,-2,A
+1951-08-29,1951,Arsenal,Chelsea,2-1,2,1,1,1,3,1,H
+1951-09-05,1951,Arsenal,Liverpool,0-0,0,0,1,1,0,0,D
+1951-09-12,1951,Liverpool,Arsenal,0-0,0,0,1,1,0,0,D
+1951-09-15,1951,Manchester City,Manchester United,1-2,1,2,1,1,3,-1,A
+1951-09-22,1951,Manchester City,Arsenal,0-2,0,2,1,1,2,-2,A
+1951-09-22,1951,Tottenham Hotspur,Manchester United,2-0,2,0,1,1,2,2,H
+1951-09-29,1951,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1951-10-06,1951,Tottenham Hotspur,Manchester City,1-2,1,2,1,1,3,-1,A
+1951-11-10,1951,Chelsea,Manchester United,4-2,4,2,1,1,6,2,H
+1951-11-17,1951,Tottenham Hotspur,Chelsea,3-2,3,2,1,1,5,1,H
+1951-11-24,1951,Liverpool,Manchester United,0-0,0,0,1,1,0,0,D
+1951-12-01,1951,Tottenham Hotspur,Liverpool,2-3,2,3,1,1,5,-1,A
+1951-12-08,1951,Arsenal,Manchester United,1-3,1,3,1,1,4,-2,A
+1951-12-22,1951,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+1951-12-25,1951,Chelsea,Manchester City,0-3,0,3,1,1,3,-3,A
+1951-12-26,1951,Manchester City,Chelsea,3-1,3,1,1,1,4,2,H
+1952-01-19,1951,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+1952-01-26,1951,Arsenal,Manchester City,2-2,2,2,1,1,4,0,D
+1952-01-26,1951,Manchester United,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1952-02-09,1951,Tottenham Hotspur,Arsenal,1-2,1,2,1,1,3,-1,A
+1952-02-16,1951,Manchester City,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1952-04-11,1951,Manchester City,Liverpool,1-2,1,2,1,1,3,-1,A
+1952-04-12,1951,Manchester United,Liverpool,4-0,4,0,1,1,4,4,H
+1952-04-14,1951,Liverpool,Manchester City,1-2,1,2,1,1,3,-1,A
+1952-04-19,1951,Liverpool,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1952-04-21,1951,Manchester United,Chelsea,3-0,3,0,1,1,3,3,H
+1952-04-26,1951,Manchester United,Arsenal,6-1,6,1,1,1,7,5,H
+1952-04-30,1951,Chelsea,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+1952-08-23,1952,Manchester United,Chelsea,2-0,2,0,1,1,2,2,H
+1952-08-27,1952,Arsenal,Manchester United,2-1,2,1,1,1,3,1,H
+1952-08-27,1952,Manchester City,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1952-08-30,1952,Manchester City,Manchester United,2-1,2,1,1,1,3,1,H
+1952-09-01,1952,Tottenham Hotspur,Manchester City,3-3,3,3,1,1,6,0,D
+1952-09-03,1952,Manchester United,Arsenal,0-0,0,0,1,1,0,0,D
+1952-09-06,1952,Manchester City,Liverpool,0-2,0,2,1,1,2,-2,A
+1952-09-10,1952,Liverpool,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1952-09-15,1952,Tottenham Hotspur,Liverpool,3-1,3,1,1,1,4,2,H
+1952-09-20,1952,Tottenham Hotspur,Arsenal,1-3,1,3,1,1,4,-2,A
+1952-10-25,1952,Chelsea,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1952-11-01,1952,Tottenham Hotspur,Manchester United,1-2,1,2,1,1,3,-1,A
+1952-11-15,1952,Liverpool,Arsenal,1-5,1,5,1,1,6,-4,A
+1952-11-22,1952,Arsenal,Manchester City,3-1,3,1,1,1,4,2,H
+1952-12-13,1952,Liverpool,Manchester United,1-2,1,2,1,1,3,-1,A
+1952-12-13,1952,Manchester City,Chelsea,4-0,4,0,1,1,4,4,H
+1952-12-20,1952,Chelsea,Manchester United,2-3,2,3,1,1,5,-1,A
+1953-01-03,1952,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+1953-01-17,1952,Liverpool,Manchester City,0-1,0,1,1,1,1,-1,A
+1953-02-07,1952,Arsenal,Tottenham Hotspur,4-0,4,0,1,1,4,4,H
+1953-03-14,1952,Tottenham Hotspur,Chelsea,2-3,2,3,1,1,5,-1,A
+1953-03-23,1952,Chelsea,Liverpool,3-0,3,0,1,1,3,3,H
+1953-03-25,1952,Manchester United,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+1953-04-03,1952,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+1953-04-04,1952,Arsenal,Liverpool,5-3,5,3,1,1,8,2,H
+1953-04-06,1952,Arsenal,Chelsea,2-0,2,0,1,1,2,2,H
+1953-04-11,1952,Manchester City,Arsenal,2-4,2,4,1,1,6,-2,A
+1953-04-20,1952,Manchester United,Liverpool,3-1,3,1,1,1,4,2,H
+1953-04-25,1952,Liverpool,Chelsea,2-0,2,0,1,1,2,2,H
+1953-04-29,1952,Chelsea,Manchester City,3-1,3,1,1,1,4,2,H
+1953-08-19,1953,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+1953-08-22,1953,Liverpool,Manchester United,4-4,4,4,1,1,8,0,D
+1953-09-05,1953,Manchester City,Manchester United,2-0,2,0,1,1,2,2,H
+1953-09-08,1953,Arsenal,Chelsea,1-2,1,2,1,1,3,-1,A
+1953-09-12,1953,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+1953-09-15,1953,Chelsea,Arsenal,0-2,0,2,1,1,2,-2,A
+1953-09-19,1953,Arsenal,Manchester City,2-2,2,2,1,1,4,0,D
+1953-09-26,1953,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+1953-10-10,1953,Tottenham Hotspur,Arsenal,1-4,1,4,1,1,5,-3,A
+1953-10-24,1953,Tottenham Hotspur,Manchester City,3-0,3,0,1,1,3,3,H
+1953-10-31,1953,Chelsea,Liverpool,5-2,5,2,1,1,7,3,H
+1953-11-07,1953,Liverpool,Manchester City,2-2,2,2,1,1,4,0,D
+1953-11-07,1953,Manchester United,Arsenal,2-2,2,2,1,1,4,0,D
+1953-11-07,1953,Tottenham Hotspur,Chelsea,2-1,2,1,1,1,3,1,H
+1953-11-21,1953,Liverpool,Arsenal,1-2,1,2,1,1,3,-1,A
+1953-12-12,1953,Chelsea,Manchester United,3-1,3,1,1,1,4,2,H
+1953-12-19,1953,Manchester United,Liverpool,5-1,5,1,1,1,6,4,H
+1954-01-16,1953,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+1954-01-23,1953,Liverpool,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+1954-02-06,1953,Manchester City,Arsenal,0-0,0,0,1,1,0,0,D
+1954-02-13,1953,Manchester United,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1954-02-27,1953,Arsenal,Tottenham Hotspur,0-3,0,3,1,1,3,-3,A
+1954-03-17,1953,Manchester City,Tottenham Hotspur,4-1,4,1,1,1,5,3,H
+1954-03-20,1953,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+1954-03-27,1953,Arsenal,Manchester United,3-1,3,1,1,1,4,2,H
+1954-03-27,1953,Chelsea,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1954-04-07,1953,Manchester City,Liverpool,0-2,0,2,1,1,2,-2,A
+1954-04-10,1953,Arsenal,Liverpool,3-0,3,0,1,1,3,3,H
+1954-04-16,1953,Chelsea,Manchester City,0-1,0,1,1,1,1,-1,A
+1954-04-19,1953,Manchester City,Chelsea,1-1,1,1,1,1,2,0,D
+1954-09-04,1954,Arsenal,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1954-09-08,1954,Manchester City,Arsenal,2-1,2,1,1,1,3,1,H
+1954-09-08,1954,Tottenham Hotspur,Manchester United,0-2,0,2,1,1,2,-2,A
+1954-09-11,1954,Manchester City,Chelsea,1-1,1,1,1,1,2,0,D
+1954-09-14,1954,Arsenal,Manchester City,2-3,2,3,1,1,5,-1,A
+1954-09-15,1954,Manchester United,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1954-09-25,1954,Manchester City,Manchester United,3-2,3,2,1,1,5,1,H
+1954-10-16,1954,Chelsea,Manchester United,5-6,5,6,1,1,11,-1,A
+1954-11-13,1954,Chelsea,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1954-11-20,1954,Manchester United,Arsenal,2-1,2,1,1,1,3,1,H
+1954-12-11,1954,Manchester City,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1954-12-25,1954,Arsenal,Chelsea,1-0,1,0,1,1,1,1,H
+1954-12-27,1954,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+1955-01-15,1954,Tottenham Hotspur,Arsenal,0-1,0,1,1,1,1,-1,A
+1955-01-22,1954,Chelsea,Manchester City,0-2,0,2,1,1,2,-2,A
+1955-02-12,1954,Manchester United,Manchester City,0-5,0,5,1,1,5,-5,A
+1955-03-05,1954,Tottenham Hotspur,Manchester City,2-2,2,2,1,1,4,0,D
+1955-04-02,1954,Tottenham Hotspur,Chelsea,2-4,2,4,1,1,6,-2,A
+1955-04-23,1954,Arsenal,Manchester United,2-3,2,3,1,1,5,-1,A
+1955-04-30,1954,Manchester United,Chelsea,2-1,2,1,1,1,3,1,H
+1955-08-24,1955,Manchester United,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+1955-08-27,1955,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+1955-08-31,1955,Manchester City,Arsenal,2-2,2,2,1,1,4,0,D
+1955-08-31,1955,Tottenham Hotspur,Manchester United,1-2,1,2,1,1,3,-1,A
+1955-09-03,1955,Manchester City,Manchester United,1-0,1,0,1,1,1,1,H
+1955-09-06,1955,Arsenal,Manchester City,0-0,0,0,1,1,0,0,D
+1955-09-10,1955,Tottenham Hotspur,Arsenal,3-1,3,1,1,1,4,2,H
+1955-10-01,1955,Chelsea,Manchester City,2-1,2,1,1,1,3,1,H
+1955-10-15,1955,Chelsea,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1955-11-05,1955,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+1955-11-12,1955,Manchester City,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+1955-11-19,1955,Manchester United,Chelsea,3-0,3,0,1,1,3,3,H
+1955-12-24,1955,Chelsea,Arsenal,2-0,2,0,1,1,2,2,H
+1955-12-31,1955,Manchester United,Manchester City,2-1,2,1,1,1,3,1,H
+1956-01-14,1955,Arsenal,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1956-02-11,1955,Manchester City,Chelsea,2-2,2,2,1,1,4,0,D
+1956-02-25,1955,Tottenham Hotspur,Chelsea,4-0,4,0,1,1,4,4,H
+1956-03-03,1955,Chelsea,Manchester United,2-4,2,4,1,1,6,-2,A
+1956-03-17,1955,Arsenal,Manchester United,1-1,1,1,1,1,2,0,D
+1956-03-24,1955,Tottenham Hotspur,Manchester City,2-1,2,1,1,1,3,1,H
+1956-08-22,1956,Manchester City,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+1956-08-29,1956,Tottenham Hotspur,Manchester City,3-2,3,2,1,1,5,1,H
+1956-09-05,1956,Chelsea,Manchester United,1-2,1,2,1,1,3,-1,A
+1956-09-22,1956,Manchester United,Manchester City,2-0,2,0,1,1,2,2,H
+1956-09-29,1956,Arsenal,Manchester United,1-2,1,2,1,1,3,-1,A
+1956-10-06,1956,Arsenal,Manchester City,7-3,7,3,1,1,10,4,H
+1956-10-06,1956,Chelsea,Tottenham Hotspur,2-4,2,4,1,1,6,-2,A
+1956-10-20,1956,Arsenal,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1956-11-24,1956,Tottenham Hotspur,Manchester United,2-2,2,2,1,1,4,0,D
+1956-12-08,1956,Manchester City,Chelsea,5-4,5,4,1,1,9,1,H
+1956-12-25,1956,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+1956-12-26,1956,Arsenal,Chelsea,2-0,2,0,1,1,2,2,H
+1957-01-01,1956,Manchester United,Chelsea,3-0,3,0,1,1,3,3,H
+1957-02-02,1956,Manchester City,Manchester United,2-4,2,4,1,1,6,-2,A
+1957-02-09,1956,Manchester United,Arsenal,6-2,6,2,1,1,8,4,H
+1957-02-20,1956,Tottenham Hotspur,Chelsea,3-4,3,4,1,1,7,-1,A
+1957-03-09,1956,Chelsea,Manchester City,4-2,4,2,1,1,6,2,H
+1957-03-13,1956,Tottenham Hotspur,Arsenal,1-3,1,3,1,1,4,-2,A
+1957-03-20,1956,Manchester City,Arsenal,2-3,2,3,1,1,5,-1,A
+1957-04-06,1956,Manchester United,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1957-08-24,1957,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+1957-08-28,1957,Chelsea,Manchester City,2-3,2,3,1,1,5,-1,A
+1957-08-31,1957,Manchester United,Manchester City,4-1,4,1,1,1,5,3,H
+1957-09-04,1957,Manchester City,Chelsea,5-2,5,2,1,1,7,3,H
+1957-09-21,1957,Manchester United,Arsenal,4-2,4,2,1,1,6,2,H
+1957-09-28,1957,Manchester City,Tottenham Hotspur,5-1,5,1,1,1,6,4,H
+1957-10-12,1957,Tottenham Hotspur,Arsenal,3-1,3,1,1,1,4,2,H
+1957-10-26,1957,Chelsea,Arsenal,0-0,0,0,1,1,0,0,D
+1957-11-02,1957,Arsenal,Manchester City,2-1,2,1,1,1,3,1,H
+1957-11-30,1957,Manchester United,Tottenham Hotspur,3-4,3,4,1,1,7,-1,A
+1957-12-14,1957,Manchester United,Chelsea,0-1,0,1,1,1,1,-1,A
+1957-12-21,1957,Chelsea,Tottenham Hotspur,2-4,2,4,1,1,6,-2,A
+1957-12-28,1957,Manchester City,Manchester United,2-2,2,2,1,1,4,0,D
+1958-02-01,1957,Arsenal,Manchester United,4-5,4,5,1,1,9,-1,A
+1958-02-08,1957,Tottenham Hotspur,Manchester City,5-1,5,1,1,1,6,4,H
+1958-02-22,1957,Arsenal,Tottenham Hotspur,4-4,4,4,1,1,8,0,D
+1958-03-08,1957,Arsenal,Chelsea,5-4,5,4,1,1,9,1,H
+1958-03-15,1957,Manchester City,Arsenal,2-4,2,4,1,1,6,-2,A
+1958-04-12,1957,Tottenham Hotspur,Manchester United,1-0,1,0,1,1,1,1,H
+1958-04-26,1957,Chelsea,Manchester United,2-1,2,1,1,1,3,1,H
+1958-08-23,1958,Manchester United,Chelsea,5-2,5,2,1,1,7,3,H
+1958-08-27,1958,Chelsea,Tottenham Hotspur,4-2,4,2,1,1,6,2,H
+1958-09-03,1958,Tottenham Hotspur,Chelsea,4-0,4,0,1,1,4,4,H
+1958-09-13,1958,Arsenal,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1958-09-20,1958,Arsenal,Manchester City,4-1,4,1,1,1,5,3,H
+1958-09-20,1958,Manchester United,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+1958-09-27,1958,Manchester City,Manchester United,1-1,1,1,1,1,2,0,D
+1958-10-11,1958,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+1958-11-01,1958,Manchester City,Tottenham Hotspur,5-1,5,1,1,1,6,4,H
+1958-11-15,1958,Manchester City,Chelsea,5-1,5,1,1,1,6,4,H
+1958-11-22,1958,Chelsea,Arsenal,0-3,0,3,1,1,3,-3,A
+1958-12-20,1958,Chelsea,Manchester United,2-3,2,3,1,1,5,-1,A
+1959-01-31,1958,Tottenham Hotspur,Arsenal,1-4,1,4,1,1,5,-3,A
+1959-02-07,1958,Manchester City,Arsenal,0-0,0,0,1,1,0,0,D
+1959-02-07,1958,Tottenham Hotspur,Manchester United,1-3,1,3,1,1,4,-2,A
+1959-02-14,1958,Manchester United,Manchester City,4-1,4,1,1,1,5,3,H
+1959-02-28,1958,Arsenal,Manchester United,3-2,3,2,1,1,5,1,H
+1959-03-21,1958,Tottenham Hotspur,Manchester City,3-1,3,1,1,1,4,2,H
+1959-04-04,1958,Chelsea,Manchester City,2-0,2,0,1,1,2,2,H
+1959-04-11,1958,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+1959-08-26,1959,Manchester United,Chelsea,0-1,0,1,1,1,1,-1,A
+1959-09-02,1959,Chelsea,Manchester United,3-6,3,6,1,1,9,-3,A
+1959-09-05,1959,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1959-09-12,1959,Arsenal,Manchester City,3-1,3,1,1,1,4,2,H
+1959-09-12,1959,Manchester United,Tottenham Hotspur,1-5,1,5,1,1,6,-4,A
+1959-09-19,1959,Manchester City,Manchester United,3-0,3,0,1,1,3,3,H
+1959-10-10,1959,Manchester United,Arsenal,4-2,4,2,1,1,6,2,H
+1959-10-31,1959,Manchester City,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+1959-11-14,1959,Manchester City,Chelsea,1-1,1,1,1,1,2,0,D
+1959-11-21,1959,Chelsea,Arsenal,1-3,1,3,1,1,4,-2,A
+1960-01-16,1959,Tottenham Hotspur,Arsenal,3-0,3,0,1,1,3,3,H
+1960-01-23,1959,Manchester City,Arsenal,1-2,1,2,1,1,3,-1,A
+1960-01-23,1959,Tottenham Hotspur,Manchester United,2-1,2,1,1,1,3,1,H
+1960-02-06,1959,Manchester United,Manchester City,0-0,0,0,1,1,0,0,D
+1960-04-02,1959,Chelsea,Manchester City,3-0,3,0,1,1,3,3,H
+1960-04-09,1959,Arsenal,Chelsea,1-4,1,4,1,1,5,-3,A
+1960-04-15,1959,Chelsea,Tottenham Hotspur,1-3,1,3,1,1,4,-2,A
+1960-04-16,1959,Tottenham Hotspur,Manchester City,0-1,0,1,1,1,1,-1,A
+1960-04-18,1959,Tottenham Hotspur,Chelsea,0-1,0,1,1,1,1,-1,A
+1960-04-23,1959,Arsenal,Manchester United,5-2,5,2,1,1,7,3,H
+1960-09-03,1960,Manchester City,Arsenal,0-0,0,0,1,1,0,0,D
+1960-09-03,1960,Tottenham Hotspur,Manchester United,4-1,4,1,1,1,5,3,H
+1960-09-10,1960,Arsenal,Tottenham Hotspur,2-3,2,3,1,1,5,-1,A
+1960-10-10,1960,Tottenham Hotspur,Manchester City,1-1,1,1,1,1,2,0,D
+1960-10-29,1960,Arsenal,Manchester United,2-1,2,1,1,1,3,1,H
+1960-11-12,1960,Arsenal,Chelsea,1-4,1,4,1,1,5,-3,A
+1960-11-19,1960,Chelsea,Manchester City,6-3,6,3,1,1,9,3,H
+1960-12-24,1960,Chelsea,Manchester United,1-2,1,2,1,1,3,-1,A
+1960-12-26,1960,Manchester United,Chelsea,6-0,6,0,1,1,6,6,H
+1960-12-31,1960,Manchester United,Manchester City,5-1,5,1,1,1,6,4,H
+1961-01-14,1960,Arsenal,Manchester City,5-4,5,4,1,1,9,1,H
+1961-01-16,1960,Manchester United,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1961-01-21,1960,Tottenham Hotspur,Arsenal,4-2,4,2,1,1,6,2,H
+1961-02-25,1960,Manchester City,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1961-03-04,1960,Manchester City,Manchester United,1-3,1,3,1,1,4,-2,A
+1961-03-18,1960,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+1961-03-31,1960,Tottenham Hotspur,Chelsea,4-2,4,2,1,1,6,2,H
+1961-04-03,1960,Chelsea,Tottenham Hotspur,2-3,2,3,1,1,5,-1,A
+1961-04-08,1960,Manchester City,Chelsea,2-1,2,1,1,1,3,1,H
+1961-04-15,1960,Chelsea,Arsenal,3-1,3,1,1,1,4,2,H
+1961-08-23,1961,Manchester United,Chelsea,3-2,3,2,1,1,5,1,H
+1961-08-26,1961,Tottenham Hotspur,Arsenal,4-3,4,3,1,1,7,1,H
+1961-08-30,1961,Chelsea,Manchester United,2-0,2,0,1,1,2,2,H
+1961-09-09,1961,Arsenal,Manchester City,3-0,3,0,1,1,3,3,H
+1961-09-09,1961,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1961-09-23,1961,Manchester United,Manchester City,3-2,3,2,1,1,5,1,H
+1961-10-14,1961,Tottenham Hotspur,Manchester City,2-0,2,0,1,1,2,2,H
+1961-10-21,1961,Arsenal,Manchester United,5-1,5,1,1,1,6,4,H
+1961-11-04,1961,Arsenal,Chelsea,0-3,0,3,1,1,3,-3,A
+1961-11-18,1961,Manchester City,Chelsea,2-2,2,2,1,1,4,0,D
+1961-12-23,1961,Arsenal,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1961-12-26,1961,Chelsea,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+1961-12-30,1961,Tottenham Hotspur,Chelsea,5-2,5,2,1,1,7,3,H
+1962-01-20,1961,Manchester City,Arsenal,3-2,3,2,1,1,5,1,H
+1962-01-20,1961,Tottenham Hotspur,Manchester United,2-2,2,2,1,1,4,0,D
+1962-02-10,1961,Manchester City,Manchester United,0-2,0,2,1,1,2,-2,A
+1962-03-03,1961,Manchester City,Tottenham Hotspur,6-2,6,2,1,1,8,4,H
+1962-03-24,1961,Chelsea,Arsenal,2-3,2,3,1,1,5,-1,A
+1962-04-07,1961,Chelsea,Manchester City,1-1,1,1,1,1,2,0,D
+1962-04-16,1961,Manchester United,Arsenal,2-3,2,3,1,1,5,-1,A
+1962-08-22,1962,Manchester City,Liverpool,2-2,2,2,1,1,4,0,D
+1962-08-25,1962,Arsenal,Manchester United,1-3,1,3,1,1,4,-2,A
+1962-08-29,1962,Liverpool,Manchester City,4-1,4,1,1,1,5,3,H
+1962-09-01,1962,Tottenham Hotspur,Manchester City,4-2,4,2,1,1,6,2,H
+1962-09-15,1962,Manchester United,Manchester City,2-3,2,3,1,1,5,-1,A
+1962-10-06,1962,Tottenham Hotspur,Arsenal,4-4,4,4,1,1,8,0,D
+1962-10-24,1962,Tottenham Hotspur,Manchester United,6-2,6,2,1,1,8,4,H
+1962-11-10,1962,Manchester United,Liverpool,3-3,3,3,1,1,6,0,D
+1962-11-14,1962,Liverpool,Arsenal,2-1,2,1,1,1,3,1,H
+1962-12-01,1962,Manchester City,Arsenal,2-4,2,4,1,1,6,-2,A
+1963-02-23,1962,Arsenal,Tottenham Hotspur,2-3,2,3,1,1,5,-1,A
+1963-03-09,1962,Arsenal,Liverpool,2-2,2,2,1,1,4,0,D
+1963-03-09,1962,Manchester United,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+1963-04-12,1962,Liverpool,Tottenham Hotspur,5-2,5,2,1,1,7,3,H
+1963-04-13,1962,Liverpool,Manchester United,1-0,1,0,1,1,1,1,H
+1963-04-15,1962,Tottenham Hotspur,Liverpool,7-2,7,2,1,1,9,5,H
+1963-04-20,1962,Arsenal,Manchester City,2-3,2,3,1,1,5,-1,A
+1963-05-06,1962,Manchester United,Arsenal,2-3,2,3,1,1,5,-1,A
+1963-05-11,1962,Manchester City,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1963-05-15,1962,Manchester City,Manchester United,1-1,1,1,1,1,2,0,D
+1963-09-07,1963,Chelsea,Liverpool,1-3,1,3,1,1,4,-2,A
+1963-09-21,1963,Arsenal,Manchester United,2-1,2,1,1,1,3,1,H
+1963-09-21,1963,Chelsea,Tottenham Hotspur,0-3,0,3,1,1,3,-3,A
+1963-10-02,1963,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+1963-10-15,1963,Arsenal,Tottenham Hotspur,4-4,4,4,1,1,8,0,D
+1963-11-09,1963,Manchester United,Tottenham Hotspur,4-1,4,1,1,1,5,3,H
+1963-11-16,1963,Chelsea,Arsenal,3-1,3,1,1,1,4,2,H
+1963-11-23,1963,Manchester United,Liverpool,0-1,0,1,1,1,1,-1,A
+1963-12-07,1963,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+1964-01-11,1963,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+1964-02-01,1963,Manchester United,Arsenal,3-1,3,1,1,1,4,2,H
+1964-02-01,1963,Tottenham Hotspur,Chelsea,1-2,1,2,1,1,3,-1,A
+1964-02-22,1963,Tottenham Hotspur,Arsenal,3-1,3,1,1,1,4,2,H
+1964-03-14,1963,Arsenal,Chelsea,2-4,2,4,1,1,6,-2,A
+1964-03-21,1963,Tottenham Hotspur,Manchester United,2-3,2,3,1,1,5,-1,A
+1964-03-23,1963,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+1964-03-27,1963,Tottenham Hotspur,Liverpool,1-3,1,3,1,1,4,-2,A
+1964-03-30,1963,Liverpool,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1964-04-04,1963,Liverpool,Manchester United,3-0,3,0,1,1,3,3,H
+1964-04-18,1963,Liverpool,Arsenal,5-0,5,0,1,1,5,5,H
+1964-08-22,1964,Liverpool,Arsenal,3-2,3,2,1,1,5,1,H
+1964-09-26,1964,Arsenal,Chelsea,1-3,1,3,1,1,4,-2,A
+1964-09-26,1964,Manchester United,Tottenham Hotspur,4-1,4,1,1,1,5,3,H
+1964-09-30,1964,Chelsea,Manchester United,0-2,0,2,1,1,2,-2,A
+1964-10-10,1964,Tottenham Hotspur,Arsenal,3-1,3,1,1,1,4,2,H
+1964-10-24,1964,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+1964-10-31,1964,Liverpool,Manchester United,0-2,0,2,1,1,2,-2,A
+1964-11-28,1964,Arsenal,Manchester United,2-3,2,3,1,1,5,-1,A
+1964-11-28,1964,Liverpool,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1964-12-12,1964,Arsenal,Liverpool,0-0,0,0,1,1,0,0,D
+1965-02-06,1964,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+1965-02-06,1964,Tottenham Hotspur,Manchester United,1-0,1,0,1,1,1,1,H
+1965-02-23,1964,Arsenal,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1965-03-10,1964,Chelsea,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1965-03-13,1964,Manchester United,Chelsea,4-0,4,0,1,1,4,4,H
+1965-04-09,1964,Tottenham Hotspur,Liverpool,3-0,3,0,1,1,3,3,H
+1965-04-16,1964,Chelsea,Liverpool,4-0,4,0,1,1,4,4,H
+1965-04-19,1964,Liverpool,Chelsea,2-0,2,0,1,1,2,2,H
+1965-04-24,1964,Manchester United,Liverpool,3-0,3,0,1,1,3,3,H
+1965-04-26,1964,Manchester United,Arsenal,3-1,3,1,1,1,4,2,H
+1965-09-04,1965,Arsenal,Chelsea,1-3,1,3,1,1,4,-2,A
+1965-09-11,1965,Tottenham Hotspur,Arsenal,2-2,2,2,1,1,4,0,D
+1965-09-18,1965,Manchester United,Chelsea,4-1,4,1,1,1,5,3,H
+1965-09-18,1965,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+1965-09-25,1965,Arsenal,Manchester United,4-2,4,2,1,1,6,2,H
+1965-10-09,1965,Manchester United,Liverpool,2-0,2,0,1,1,2,2,H
+1965-10-16,1965,Tottenham Hotspur,Manchester United,5-1,5,1,1,1,6,4,H
+1965-12-04,1965,Chelsea,Liverpool,0-1,0,1,1,1,1,-1,A
+1965-12-11,1965,Liverpool,Arsenal,4-2,4,2,1,1,6,2,H
+1965-12-11,1965,Tottenham Hotspur,Chelsea,4-2,4,2,1,1,6,2,H
+1965-12-18,1965,Manchester United,Tottenham Hotspur,5-1,5,1,1,1,6,4,H
+1966-01-01,1965,Liverpool,Manchester United,2-1,2,1,1,1,3,1,H
+1966-01-08,1965,Arsenal,Liverpool,0-1,0,1,1,1,1,-1,A
+1966-01-08,1965,Chelsea,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1966-02-19,1965,Chelsea,Arsenal,0-0,0,0,1,1,0,0,D
+1966-03-08,1965,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1966-03-12,1965,Chelsea,Manchester United,2-0,2,0,1,1,2,2,H
+1966-03-12,1965,Liverpool,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1966-03-19,1965,Manchester United,Arsenal,2-1,2,1,1,1,3,1,H
+1966-04-30,1965,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+1966-08-24,1966,Manchester City,Liverpool,2-1,2,1,1,1,3,1,H
+1966-08-30,1966,Liverpool,Manchester City,3-2,3,2,1,1,5,1,H
+1966-09-03,1966,Tottenham Hotspur,Arsenal,3-1,3,1,1,1,4,2,H
+1966-09-10,1966,Manchester City,Arsenal,1-1,1,1,1,1,2,0,D
+1966-09-10,1966,Tottenham Hotspur,Manchester United,2-1,2,1,1,1,3,1,H
+1966-09-17,1966,Manchester United,Manchester City,1-0,1,0,1,1,1,1,H
+1966-09-24,1966,Chelsea,Arsenal,3-1,3,1,1,1,4,2,H
+1966-10-01,1966,Manchester City,Chelsea,1-4,1,4,1,1,5,-3,A
+1966-10-08,1966,Manchester City,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+1966-10-15,1966,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+1966-10-26,1966,Chelsea,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+1966-10-29,1966,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+1966-11-05,1966,Chelsea,Manchester United,1-3,1,3,1,1,4,-2,A
+1966-12-10,1966,Manchester United,Liverpool,2-2,2,2,1,1,4,0,D
+1966-12-24,1966,Chelsea,Liverpool,1-2,1,2,1,1,3,-1,A
+1966-12-26,1966,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+1967-01-07,1966,Arsenal,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+1967-01-14,1966,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+1967-01-14,1966,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1967-01-21,1966,Manchester City,Manchester United,1-1,1,1,1,1,2,0,D
+1967-02-04,1966,Arsenal,Chelsea,2-1,2,1,1,1,3,1,H
+1967-02-11,1966,Chelsea,Manchester City,0-0,0,0,1,1,0,0,D
+1967-02-25,1966,Tottenham Hotspur,Manchester City,1-1,1,1,1,1,2,0,D
+1967-03-03,1966,Arsenal,Manchester United,1-1,1,1,1,1,2,0,D
+1967-03-18,1966,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+1967-03-25,1966,Liverpool,Manchester United,0-0,0,0,1,1,0,0,D
+1967-03-27,1966,Liverpool,Arsenal,0-0,0,0,1,1,0,0,D
+1967-03-28,1966,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+1967-04-01,1966,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+1967-05-06,1966,Liverpool,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1967-08-19,1967,Manchester City,Liverpool,0-0,0,0,1,1,0,0,D
+1967-08-22,1967,Liverpool,Arsenal,2-0,2,0,1,1,2,2,H
+1967-08-28,1967,Arsenal,Liverpool,2-0,2,0,1,1,2,2,H
+1967-09-09,1967,Liverpool,Chelsea,3-1,3,1,1,1,4,2,H
+1967-09-16,1967,Arsenal,Tottenham Hotspur,4-0,4,0,1,1,4,4,H
+1967-09-23,1967,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+1967-09-23,1967,Manchester United,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1967-09-30,1967,Manchester City,Manchester United,1-2,1,2,1,1,3,-1,A
+1967-10-07,1967,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+1967-11-04,1967,Tottenham Hotspur,Liverpool,1-1,1,1,1,1,2,0,D
+1967-11-11,1967,Liverpool,Manchester United,1-2,1,2,1,1,3,-1,A
+1967-11-18,1967,Tottenham Hotspur,Chelsea,2-0,2,0,1,1,2,2,H
+1967-11-25,1967,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+1967-12-09,1967,Manchester City,Tottenham Hotspur,4-1,4,1,1,1,5,3,H
+1967-12-16,1967,Liverpool,Manchester City,1-1,1,1,1,1,2,0,D
+1967-12-26,1967,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+1967-12-30,1967,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+1968-01-20,1967,Tottenham Hotspur,Arsenal,1-0,1,0,1,1,1,1,H
+1968-02-03,1967,Manchester City,Arsenal,1-1,1,1,1,1,2,0,D
+1968-02-03,1967,Tottenham Hotspur,Manchester United,1-2,1,2,1,1,3,-1,A
+1968-02-12,1967,Chelsea,Liverpool,3-1,3,1,1,1,4,2,H
+1968-02-24,1967,Arsenal,Manchester United,0-2,0,2,1,1,2,-2,A
+1968-03-02,1967,Manchester United,Chelsea,1-3,1,3,1,1,4,-2,A
+1968-03-27,1967,Manchester United,Manchester City,1-3,1,3,1,1,4,-2,A
+1968-04-06,1967,Manchester United,Liverpool,1-2,1,2,1,1,3,-1,A
+1968-04-12,1967,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+1968-04-13,1967,Chelsea,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1968-04-16,1967,Chelsea,Manchester City,1-0,1,0,1,1,1,1,H
+1968-04-29,1967,Liverpool,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1968-05-04,1967,Tottenham Hotspur,Manchester City,1-3,1,3,1,1,4,-2,A
+1968-08-10,1968,Liverpool,Manchester City,2-1,2,1,1,1,3,1,H
+1968-08-10,1968,Tottenham Hotspur,Arsenal,1-2,1,2,1,1,3,-1,A
+1968-08-17,1968,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+1968-08-17,1968,Manchester City,Manchester United,0-0,0,0,1,1,0,0,D
+1968-08-24,1968,Manchester United,Chelsea,0-4,0,4,1,1,4,-4,A
+1968-08-27,1968,Arsenal,Manchester City,4-1,4,1,1,1,5,3,H
+1968-08-28,1968,Manchester United,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1968-08-31,1968,Chelsea,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+1968-10-05,1968,Manchester United,Arsenal,0-0,0,0,1,1,0,0,D
+1968-10-09,1968,Manchester City,Arsenal,1-1,1,1,1,1,2,0,D
+1968-10-09,1968,Tottenham Hotspur,Manchester United,2-2,2,2,1,1,4,0,D
+1968-10-12,1968,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+1968-10-12,1968,Manchester City,Tottenham Hotspur,4-0,4,0,1,1,4,4,H
+1968-10-19,1968,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+1968-11-02,1968,Chelsea,Manchester City,2-0,2,0,1,1,2,2,H
+1968-11-09,1968,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+1968-11-23,1968,Arsenal,Chelsea,0-1,0,1,1,1,1,-1,A
+1968-12-14,1968,Manchester United,Liverpool,1-0,1,0,1,1,1,1,H
+1968-12-14,1968,Tottenham Hotspur,Manchester City,1-1,1,1,1,1,2,0,D
+1968-12-21,1968,Liverpool,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1968-12-26,1968,Arsenal,Manchester United,3-0,3,0,1,1,3,3,H
+1969-01-11,1968,Manchester City,Chelsea,4-1,4,1,1,1,5,3,H
+1969-01-18,1968,Chelsea,Liverpool,1-2,1,2,1,1,3,-1,A
+1969-03-08,1968,Manchester United,Manchester City,0-1,0,1,1,1,1,-1,A
+1969-03-15,1968,Chelsea,Manchester United,3-2,3,2,1,1,5,1,H
+1969-03-22,1968,Tottenham Hotspur,Chelsea,1-0,1,0,1,1,1,1,H
+1969-03-24,1968,Arsenal,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1969-03-31,1968,Liverpool,Arsenal,1-1,1,1,1,1,2,0,D
+1969-04-14,1968,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+1969-05-12,1968,Manchester City,Liverpool,1-0,1,0,1,1,1,1,H
+1969-08-09,1969,Liverpool,Chelsea,4-1,4,1,1,1,5,3,H
+1969-08-12,1969,Liverpool,Manchester City,3-2,3,2,1,1,5,1,H
+1969-08-16,1969,Tottenham Hotspur,Liverpool,0-2,0,2,1,1,2,-2,A
+1969-08-20,1969,Manchester City,Liverpool,0-2,0,2,1,1,2,-2,A
+1969-08-27,1969,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+1969-09-06,1969,Manchester City,Chelsea,0-0,0,0,1,1,0,0,D
+1969-09-13,1969,Manchester United,Liverpool,1-0,1,0,1,1,1,1,H
+1969-09-13,1969,Tottenham Hotspur,Manchester City,0-3,0,3,1,1,3,-3,A
+1969-09-16,1969,Arsenal,Tottenham Hotspur,2-3,2,3,1,1,5,-1,A
+1969-09-20,1969,Arsenal,Manchester United,2-2,2,2,1,1,4,0,D
+1969-09-27,1969,Chelsea,Arsenal,3-0,3,0,1,1,3,3,H
+1969-10-07,1969,Liverpool,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1969-11-15,1969,Manchester City,Manchester United,4-0,4,0,1,1,4,4,H
+1969-11-22,1969,Arsenal,Manchester City,1-1,1,1,1,1,2,0,D
+1969-11-22,1969,Manchester United,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1969-11-29,1969,Liverpool,Arsenal,0-1,0,1,1,1,1,-1,A
+1969-12-06,1969,Manchester United,Chelsea,0-2,0,2,1,1,2,-2,A
+1969-12-13,1969,Liverpool,Manchester United,1-4,1,4,1,1,5,-3,A
+1969-12-13,1969,Manchester City,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1969-12-20,1969,Chelsea,Manchester City,3-1,3,1,1,1,4,2,H
+1970-01-10,1969,Manchester United,Arsenal,2-1,2,1,1,1,3,1,H
+1970-01-17,1969,Arsenal,Chelsea,0-3,0,3,1,1,3,-3,A
+1970-02-18,1969,Manchester City,Arsenal,1-1,1,1,1,1,2,0,D
+1970-03-14,1969,Arsenal,Liverpool,2-1,2,1,1,1,3,1,H
+1970-03-21,1969,Chelsea,Manchester United,2-1,2,1,1,1,3,1,H
+1970-03-28,1969,Manchester United,Manchester City,1-2,1,2,1,1,3,-1,A
+1970-04-04,1969,Chelsea,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1970-04-13,1969,Tottenham Hotspur,Manchester United,2-1,2,1,1,1,3,1,H
+1970-04-18,1969,Chelsea,Liverpool,2-1,2,1,1,1,3,1,H
+1970-05-02,1969,Tottenham Hotspur,Arsenal,1-0,1,0,1,1,1,1,H
+1970-08-19,1970,Manchester United,Chelsea,0-0,0,0,1,1,0,0,D
+1970-08-22,1970,Arsenal,Manchester United,4-0,4,0,1,1,4,4,H
+1970-08-29,1970,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+1970-09-05,1970,Arsenal,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1970-09-05,1970,Liverpool,Manchester United,1-1,1,1,1,1,2,0,D
+1970-09-26,1970,Tottenham Hotspur,Manchester City,2-0,2,0,1,1,2,2,H
+1970-10-03,1970,Liverpool,Chelsea,1-0,1,0,1,1,1,1,H
+1970-10-10,1970,Chelsea,Manchester City,1-1,1,1,1,1,2,0,D
+1970-10-10,1970,Tottenham Hotspur,Liverpool,1-0,1,0,1,1,1,1,H
+1970-11-14,1970,Chelsea,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+1970-11-28,1970,Arsenal,Liverpool,2-0,2,0,1,1,2,2,H
+1970-12-05,1970,Manchester City,Arsenal,0-2,0,2,1,1,2,-2,A
+1970-12-05,1970,Tottenham Hotspur,Manchester United,2-2,2,2,1,1,4,0,D
+1970-12-12,1970,Manchester United,Manchester City,1-4,1,4,1,1,5,-3,A
+1970-12-19,1970,Manchester United,Arsenal,1-3,1,3,1,1,4,-2,A
+1971-01-09,1970,Chelsea,Manchester United,1-2,1,2,1,1,3,-1,A
+1971-01-12,1970,Liverpool,Manchester City,0-0,0,0,1,1,0,0,D
+1971-01-30,1970,Liverpool,Arsenal,2-0,2,0,1,1,2,2,H
+1971-02-06,1970,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+1971-02-06,1970,Manchester United,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1971-03-13,1970,Tottenham Hotspur,Chelsea,2-1,2,1,1,1,3,1,H
+1971-04-03,1970,Arsenal,Chelsea,2-0,2,0,1,1,2,2,H
+1971-04-12,1970,Chelsea,Liverpool,1-0,1,0,1,1,1,1,H
+1971-04-17,1970,Liverpool,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1971-04-17,1970,Manchester City,Chelsea,1-1,1,1,1,1,2,0,D
+1971-04-19,1970,Manchester United,Liverpool,0-2,0,2,1,1,2,-2,A
+1971-04-26,1970,Manchester City,Liverpool,2-2,2,2,1,1,4,0,D
+1971-05-01,1970,Manchester City,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1971-05-03,1970,Tottenham Hotspur,Arsenal,0-1,0,1,1,1,1,-1,A
+1971-05-05,1970,Manchester City,Manchester United,3-4,3,4,1,1,7,-1,A
+1971-08-14,1971,Arsenal,Chelsea,3-0,3,0,1,1,3,3,H
+1971-08-18,1971,Chelsea,Manchester United,2-3,2,3,1,1,5,-1,A
+1971-08-20,1971,Manchester United,Arsenal,3-1,3,1,1,1,4,2,H
+1971-08-21,1971,Chelsea,Manchester City,2-2,2,2,1,1,4,0,D
+1971-08-28,1971,Manchester City,Tottenham Hotspur,4-0,4,0,1,1,4,4,H
+1971-09-01,1971,Manchester City,Liverpool,1-0,1,0,1,1,1,1,H
+1971-09-04,1971,Tottenham Hotspur,Liverpool,2-0,2,0,1,1,2,2,H
+1971-09-25,1971,Liverpool,Manchester United,2-2,2,2,1,1,4,0,D
+1971-10-09,1971,Liverpool,Chelsea,0-0,0,0,1,1,0,0,D
+1971-10-16,1971,Chelsea,Arsenal,1-2,1,2,1,1,3,-1,A
+1971-11-06,1971,Liverpool,Arsenal,3-2,3,2,1,1,5,1,H
+1971-11-06,1971,Manchester City,Manchester United,3-3,3,3,1,1,6,0,D
+1971-11-13,1971,Arsenal,Manchester City,1-2,1,2,1,1,3,-1,A
+1971-11-13,1971,Manchester United,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1971-11-24,1971,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+1971-11-27,1971,Chelsea,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1971-12-18,1971,Liverpool,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1972-01-08,1971,Tottenham Hotspur,Manchester City,1-1,1,1,1,1,2,0,D
+1972-01-22,1971,Manchester United,Chelsea,0-1,0,1,1,1,1,-1,A
+1972-02-26,1971,Liverpool,Manchester City,3-0,3,0,1,1,3,3,H
+1972-03-04,1971,Manchester City,Arsenal,2-0,2,0,1,1,2,2,H
+1972-03-04,1971,Tottenham Hotspur,Manchester United,2-0,2,0,1,1,2,2,H
+1972-03-11,1971,Chelsea,Liverpool,0-0,0,0,1,1,0,0,D
+1972-03-18,1971,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+1972-04-03,1971,Manchester United,Liverpool,0-3,0,3,1,1,3,-3,A
+1972-04-12,1971,Manchester United,Manchester City,1-3,1,3,1,1,4,-2,A
+1972-04-15,1971,Tottenham Hotspur,Chelsea,3-0,3,0,1,1,3,3,H
+1972-04-25,1971,Arsenal,Manchester United,3-0,3,0,1,1,3,3,H
+1972-05-08,1971,Arsenal,Liverpool,0-0,0,0,1,1,0,0,D
+1972-05-11,1971,Arsenal,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+1972-08-12,1972,Liverpool,Manchester City,2-0,2,0,1,1,2,2,H
+1972-08-15,1972,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+1972-08-23,1972,Chelsea,Liverpool,1-2,1,2,1,1,3,-1,A
+1972-08-26,1972,Chelsea,Manchester City,2-1,2,1,1,1,3,1,H
+1972-08-26,1972,Manchester United,Arsenal,0-0,0,0,1,1,0,0,D
+1972-08-30,1972,Manchester United,Chelsea,0-0,0,0,1,1,0,0,D
+1972-09-02,1972,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+1972-09-16,1972,Arsenal,Liverpool,0-0,0,0,1,1,0,0,D
+1972-09-16,1972,Manchester City,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1972-10-21,1972,Tottenham Hotspur,Chelsea,0-1,0,1,1,1,1,-1,A
+1972-10-28,1972,Arsenal,Manchester City,0-0,0,0,1,1,0,0,D
+1972-10-28,1972,Manchester United,Tottenham Hotspur,1-4,1,4,1,1,5,-3,A
+1972-11-04,1972,Liverpool,Chelsea,3-1,3,1,1,1,4,2,H
+1972-11-11,1972,Manchester United,Liverpool,2-0,2,0,1,1,2,2,H
+1972-11-18,1972,Manchester City,Manchester United,3-0,3,0,1,1,3,3,H
+1972-11-25,1972,Tottenham Hotspur,Liverpool,1-2,1,2,1,1,3,-1,A
+1972-12-09,1972,Tottenham Hotspur,Arsenal,1-2,1,2,1,1,3,-1,A
+1973-01-06,1972,Arsenal,Manchester United,3-1,3,1,1,1,4,2,H
+1973-01-20,1972,Chelsea,Arsenal,0-1,0,1,1,1,1,-1,A
+1973-02-10,1972,Liverpool,Arsenal,0-2,0,2,1,1,2,-2,A
+1973-02-10,1972,Tottenham Hotspur,Manchester City,2-3,2,3,1,1,5,-1,A
+1973-02-17,1972,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+1973-03-24,1972,Manchester City,Arsenal,1-2,1,2,1,1,3,-1,A
+1973-03-24,1972,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+1973-03-27,1972,Manchester City,Chelsea,0-1,0,1,1,1,1,-1,A
+1973-03-31,1972,Liverpool,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1973-04-03,1972,Chelsea,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1973-04-14,1972,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1973-04-21,1972,Manchester United,Manchester City,0-0,0,0,1,1,0,0,D
+1973-04-28,1972,Chelsea,Manchester United,1-0,1,0,1,1,1,1,H
+1973-08-25,1973,Arsenal,Manchester United,3-0,3,0,1,1,3,3,H
+1973-09-08,1973,Liverpool,Chelsea,1-0,1,0,1,1,1,1,H
+1973-09-22,1973,Liverpool,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+1973-09-22,1973,Manchester City,Chelsea,3-2,3,2,1,1,5,1,H
+1973-09-29,1973,Manchester United,Liverpool,0-0,0,0,1,1,0,0,D
+1973-10-13,1973,Tottenham Hotspur,Arsenal,2-0,2,0,1,1,2,2,H
+1973-11-03,1973,Arsenal,Liverpool,0-2,0,2,1,1,2,-2,A
+1973-11-03,1973,Manchester United,Chelsea,2-2,2,2,1,1,4,0,D
+1973-11-10,1973,Manchester City,Arsenal,1-2,1,2,1,1,3,-1,A
+1973-11-10,1973,Tottenham Hotspur,Manchester United,2-1,2,1,1,1,3,1,H
+1973-11-17,1973,Arsenal,Chelsea,0-0,0,0,1,1,0,0,D
+1973-12-15,1973,Tottenham Hotspur,Manchester City,0-2,0,2,1,1,2,-2,A
+1973-12-22,1973,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+1973-12-29,1973,Chelsea,Liverpool,0-1,0,1,1,1,1,-1,A
+1974-01-19,1973,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+1974-02-02,1973,Manchester City,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1974-02-09,1973,Chelsea,Manchester City,1-0,1,0,1,1,1,1,H
+1974-02-16,1973,Arsenal,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1974-03-13,1973,Manchester City,Manchester United,0-0,0,0,1,1,0,0,D
+1974-03-23,1973,Arsenal,Manchester City,2-0,2,0,1,1,2,2,H
+1974-03-23,1973,Manchester United,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1974-03-30,1973,Chelsea,Manchester United,1-3,1,3,1,1,4,-2,A
+1974-04-03,1973,Tottenham Hotspur,Chelsea,1-2,1,2,1,1,3,-1,A
+1974-04-12,1973,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+1974-04-13,1973,Chelsea,Arsenal,1-3,1,3,1,1,4,-2,A
+1974-04-15,1973,Chelsea,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1974-04-16,1973,Liverpool,Manchester City,4-0,4,0,1,1,4,4,H
+1974-04-24,1973,Liverpool,Arsenal,0-1,0,1,1,1,1,-1,A
+1974-04-27,1973,Manchester United,Manchester City,0-1,0,1,1,1,1,-1,A
+1974-05-08,1973,Tottenham Hotspur,Liverpool,1-1,1,1,1,1,2,0,D
+1974-08-21,1974,Manchester City,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1974-08-24,1974,Arsenal,Manchester City,4-0,4,0,1,1,4,4,H
+1974-08-28,1974,Tottenham Hotspur,Manchester City,1-2,1,2,1,1,3,-1,A
+1974-08-31,1974,Chelsea,Liverpool,0-3,0,3,1,1,3,-3,A
+1974-09-07,1974,Liverpool,Tottenham Hotspur,5-2,5,2,1,1,7,3,H
+1974-09-14,1974,Chelsea,Arsenal,0-0,0,0,1,1,0,0,D
+1974-09-14,1974,Manchester City,Liverpool,2-0,2,0,1,1,2,2,H
+1974-10-05,1974,Manchester City,Chelsea,1-1,1,1,1,1,2,0,D
+1974-10-12,1974,Chelsea,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1974-10-16,1974,Manchester City,Arsenal,2-1,2,1,1,1,3,1,H
+1974-10-19,1974,Tottenham Hotspur,Arsenal,2-0,2,0,1,1,2,2,H
+1974-11-09,1974,Liverpool,Arsenal,1-3,1,3,1,1,4,-2,A
+1974-12-26,1974,Arsenal,Chelsea,1-2,1,2,1,1,3,-1,A
+1974-12-26,1974,Liverpool,Manchester City,4-1,4,1,1,1,5,3,H
+1975-02-01,1974,Arsenal,Liverpool,2-0,2,0,1,1,2,2,H
+1975-03-01,1974,Liverpool,Chelsea,2-2,2,2,1,1,4,0,D
+1975-03-22,1974,Tottenham Hotspur,Liverpool,0-2,0,2,1,1,2,-2,A
+1975-04-12,1974,Chelsea,Manchester City,0-1,0,1,1,1,1,-1,A
+1975-04-19,1974,Tottenham Hotspur,Chelsea,2-0,2,0,1,1,2,2,H
+1975-04-26,1974,Arsenal,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1975-08-23,1975,Liverpool,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+1975-09-06,1975,Manchester United,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+1975-09-27,1975,Manchester City,Manchester United,2-2,2,2,1,1,4,0,D
+1975-09-27,1975,Tottenham Hotspur,Arsenal,0-0,0,0,1,1,0,0,D
+1975-10-04,1975,Arsenal,Manchester City,2-3,2,3,1,1,5,-1,A
+1975-10-18,1975,Manchester United,Arsenal,3-1,3,1,1,1,4,2,H
+1975-10-18,1975,Tottenham Hotspur,Manchester City,2-2,2,2,1,1,4,0,D
+1975-11-08,1975,Liverpool,Manchester United,3-1,3,1,1,1,4,2,H
+1975-11-22,1975,Arsenal,Manchester United,3-1,3,1,1,1,4,2,H
+1975-11-22,1975,Manchester City,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1975-12-02,1975,Liverpool,Arsenal,2-2,2,2,1,1,4,0,D
+1975-12-13,1975,Tottenham Hotspur,Liverpool,0-4,0,4,1,1,4,-4,A
+1975-12-27,1975,Liverpool,Manchester City,1-0,1,0,1,1,1,1,H
+1976-01-17,1975,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+1976-02-18,1975,Manchester United,Liverpool,0-0,0,0,1,1,0,0,D
+1976-02-24,1975,Arsenal,Liverpool,1-0,1,0,1,1,1,1,H
+1976-04-03,1975,Arsenal,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+1976-04-19,1975,Manchester City,Liverpool,0-3,0,3,1,1,3,-3,A
+1976-04-24,1975,Manchester City,Arsenal,3-1,3,1,1,1,4,2,H
+1976-05-04,1975,Manchester United,Manchester City,2-0,2,0,1,1,2,2,H
+1976-09-04,1976,Arsenal,Manchester City,0-0,0,0,1,1,0,0,D
+1976-09-04,1976,Manchester United,Tottenham Hotspur,2-3,2,3,1,1,5,-1,A
+1976-09-18,1976,Liverpool,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1976-09-25,1976,Manchester City,Manchester United,1-3,1,3,1,1,4,-2,A
+1976-11-20,1976,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+1976-12-11,1976,Tottenham Hotspur,Manchester City,2-2,2,2,1,1,4,0,D
+1976-12-18,1976,Arsenal,Manchester United,3-1,3,1,1,1,4,2,H
+1976-12-27,1976,Tottenham Hotspur,Arsenal,2-2,2,2,1,1,4,0,D
+1976-12-29,1976,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+1977-02-12,1976,Manchester City,Arsenal,1-0,1,0,1,1,1,1,H
+1977-02-12,1976,Tottenham Hotspur,Manchester United,1-3,1,3,1,1,4,-2,A
+1977-02-16,1976,Manchester United,Liverpool,0-0,0,0,1,1,0,0,D
+1977-03-05,1976,Manchester United,Manchester City,3-1,3,1,1,1,4,2,H
+1977-03-09,1976,Tottenham Hotspur,Liverpool,1-0,1,0,1,1,1,1,H
+1977-04-09,1976,Liverpool,Manchester City,2-1,2,1,1,1,3,1,H
+1977-04-11,1976,Arsenal,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1977-04-16,1976,Liverpool,Arsenal,2-0,2,0,1,1,2,2,H
+1977-05-03,1976,Liverpool,Manchester United,1-0,1,0,1,1,1,1,H
+1977-05-07,1976,Manchester City,Tottenham Hotspur,5-0,5,0,1,1,5,5,H
+1977-05-14,1976,Manchester United,Arsenal,3-2,3,2,1,1,5,1,H
+1977-09-10,1977,Manchester City,Manchester United,3-1,3,1,1,1,4,2,H
+1977-09-17,1977,Manchester United,Chelsea,0-1,0,1,1,1,1,-1,A
+1977-10-01,1977,Manchester United,Liverpool,2-0,2,0,1,1,2,2,H
+1977-10-04,1977,Arsenal,Liverpool,0-0,0,0,1,1,0,0,D
+1977-10-08,1977,Liverpool,Chelsea,2-0,2,0,1,1,2,2,H
+1977-10-08,1977,Manchester City,Arsenal,2-1,2,1,1,1,3,1,H
+1977-10-29,1977,Manchester City,Liverpool,3-1,3,1,1,1,4,2,H
+1977-11-05,1977,Manchester United,Arsenal,1-2,1,2,1,1,3,-1,A
+1977-11-26,1977,Manchester City,Chelsea,6-2,6,2,1,1,8,4,H
+1977-12-26,1977,Arsenal,Chelsea,3-0,3,0,1,1,3,3,H
+1978-02-11,1977,Chelsea,Manchester United,2-2,2,2,1,1,4,0,D
+1978-02-25,1977,Liverpool,Manchester United,3-1,3,1,1,1,4,2,H
+1978-03-04,1977,Arsenal,Manchester City,3-0,3,0,1,1,3,3,H
+1978-03-04,1977,Chelsea,Liverpool,3-1,3,1,1,1,4,2,H
+1978-03-15,1977,Manchester United,Manchester City,2-2,2,2,1,1,4,0,D
+1978-03-27,1977,Chelsea,Arsenal,0-0,0,0,1,1,0,0,D
+1978-04-01,1977,Arsenal,Manchester United,3-1,3,1,1,1,4,2,H
+1978-04-25,1977,Liverpool,Arsenal,1-0,1,0,1,1,1,1,H
+1978-05-01,1977,Liverpool,Manchester City,4-0,4,0,1,1,4,4,H
+1978-05-05,1977,Chelsea,Manchester City,0-0,0,0,1,1,0,0,D
+1978-08-22,1978,Manchester City,Arsenal,1-1,1,1,1,1,2,0,D
+1978-08-26,1978,Manchester City,Liverpool,1-4,1,4,1,1,5,-3,A
+1978-08-26,1978,Tottenham Hotspur,Chelsea,2-2,2,2,1,1,4,0,D
+1978-09-02,1978,Liverpool,Tottenham Hotspur,7-0,7,0,1,1,7,7,H
+1978-09-16,1978,Chelsea,Manchester City,1-4,1,4,1,1,5,-3,A
+1978-09-23,1978,Arsenal,Manchester United,1-1,1,1,1,1,2,0,D
+1978-09-23,1978,Manchester City,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1978-09-30,1978,Manchester United,Manchester City,1-0,1,0,1,1,1,1,H
+1978-10-21,1978,Liverpool,Chelsea,2-0,2,0,1,1,2,2,H
+1978-11-18,1978,Chelsea,Tottenham Hotspur,1-3,1,3,1,1,4,-2,A
+1978-11-18,1978,Liverpool,Manchester City,1-0,1,0,1,1,1,1,H
+1978-11-22,1978,Tottenham Hotspur,Liverpool,0-0,0,0,1,1,0,0,D
+1978-11-25,1978,Chelsea,Manchester United,0-1,0,1,1,1,1,-1,A
+1978-12-02,1978,Arsenal,Liverpool,1-0,1,0,1,1,1,1,H
+1978-12-16,1978,Manchester United,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1978-12-23,1978,Tottenham Hotspur,Arsenal,0-5,0,5,1,1,5,-5,A
+1978-12-26,1978,Manchester United,Liverpool,0-3,0,3,1,1,3,-3,A
+1979-01-20,1978,Manchester City,Chelsea,2-3,2,3,1,1,5,-1,A
+1979-02-03,1978,Manchester United,Arsenal,0-2,0,2,1,1,2,-2,A
+1979-02-03,1978,Tottenham Hotspur,Manchester City,0-3,0,3,1,1,3,-3,A
+1979-02-10,1978,Manchester City,Manchester United,0-3,0,3,1,1,3,-3,A
+1979-03-03,1978,Chelsea,Liverpool,0-0,0,0,1,1,0,0,D
+1979-03-24,1978,Arsenal,Manchester City,1-1,1,1,1,1,2,0,D
+1979-04-07,1978,Liverpool,Arsenal,3-0,3,0,1,1,3,3,H
+1979-04-10,1978,Arsenal,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1979-04-14,1978,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+1979-04-16,1978,Arsenal,Chelsea,5-2,5,2,1,1,7,3,H
+1979-04-21,1978,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+1979-05-14,1978,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+1979-05-16,1978,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+1979-08-25,1979,Arsenal,Manchester United,0-0,0,0,1,1,0,0,D
+1979-09-01,1979,Tottenham Hotspur,Manchester City,2-1,2,1,1,1,3,1,H
+1979-10-06,1979,Arsenal,Manchester City,0-0,0,0,1,1,0,0,D
+1979-10-27,1979,Manchester City,Liverpool,0-4,0,4,1,1,4,-4,A
+1979-11-10,1979,Manchester City,Manchester United,2-0,2,0,1,1,2,2,H
+1979-11-17,1979,Liverpool,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1979-11-24,1979,Arsenal,Liverpool,0-0,0,0,1,1,0,0,D
+1979-12-01,1979,Tottenham Hotspur,Manchester United,1-2,1,2,1,1,3,-1,A
+1979-12-26,1979,Arsenal,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1979-12-26,1979,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+1979-12-29,1979,Manchester United,Arsenal,3-0,3,0,1,1,3,3,H
+1980-01-12,1979,Manchester City,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1980-03-11,1979,Liverpool,Manchester City,2-0,2,0,1,1,2,2,H
+1980-03-15,1979,Manchester City,Arsenal,0-3,0,3,1,1,3,-3,A
+1980-03-22,1979,Manchester United,Manchester City,1-0,1,0,1,1,1,1,H
+1980-03-29,1979,Tottenham Hotspur,Liverpool,2-0,2,0,1,1,2,2,H
+1980-04-05,1979,Manchester United,Liverpool,2-1,2,1,1,1,3,1,H
+1980-04-07,1979,Tottenham Hotspur,Arsenal,1-2,1,2,1,1,3,-1,A
+1980-04-12,1979,Manchester United,Tottenham Hotspur,4-1,4,1,1,1,5,3,H
+1980-04-19,1979,Liverpool,Arsenal,1-1,1,1,1,1,2,0,D
+1980-08-30,1980,Arsenal,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1980-09-06,1980,Manchester City,Arsenal,1-1,1,1,1,1,2,0,D
+1980-09-06,1980,Tottenham Hotspur,Manchester United,0-0,0,0,1,1,0,0,D
+1980-09-27,1980,Manchester United,Manchester City,2-2,2,2,1,1,4,0,D
+1980-10-04,1980,Manchester City,Liverpool,0-3,0,3,1,1,3,-3,A
+1980-10-11,1980,Manchester United,Arsenal,0-0,0,0,1,1,0,0,D
+1980-10-22,1980,Manchester City,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1980-10-25,1980,Liverpool,Arsenal,1-1,1,1,1,1,2,0,D
+1980-12-06,1980,Liverpool,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1980-12-13,1980,Tottenham Hotspur,Manchester City,2-1,2,1,1,1,3,1,H
+1980-12-20,1980,Arsenal,Manchester United,2-1,2,1,1,1,3,1,H
+1980-12-26,1980,Manchester United,Liverpool,0-0,0,0,1,1,0,0,D
+1981-01-17,1980,Tottenham Hotspur,Arsenal,2-0,2,0,1,1,2,2,H
+1981-02-17,1980,Manchester United,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1981-02-21,1980,Manchester City,Manchester United,1-0,1,0,1,1,1,1,H
+1981-02-24,1980,Arsenal,Manchester City,2-0,2,0,1,1,2,2,H
+1981-03-28,1980,Arsenal,Liverpool,1-0,1,0,1,1,1,1,H
+1981-04-14,1980,Liverpool,Manchester United,0-1,0,1,1,1,1,-1,A
+1981-04-25,1980,Tottenham Hotspur,Liverpool,1-1,1,1,1,1,2,0,D
+1981-05-19,1980,Liverpool,Manchester City,1-0,1,0,1,1,1,1,H
+1981-09-05,1981,Liverpool,Arsenal,2-0,2,0,1,1,2,2,H
+1981-09-26,1981,Arsenal,Manchester United,0-0,0,0,1,1,0,0,D
+1981-09-26,1981,Manchester City,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1981-10-10,1981,Manchester City,Manchester United,0-0,0,0,1,1,0,0,D
+1981-10-17,1981,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+1981-10-24,1981,Liverpool,Manchester United,1-2,1,2,1,1,3,-1,A
+1981-11-21,1981,Tottenham Hotspur,Manchester United,3-1,3,1,1,1,4,2,H
+1981-12-26,1981,Liverpool,Manchester City,1-3,1,3,1,1,4,-2,A
+1982-02-20,1981,Manchester United,Arsenal,0-0,0,0,1,1,0,0,D
+1982-02-20,1981,Tottenham Hotspur,Manchester City,2-0,2,0,1,1,2,2,H
+1982-02-27,1981,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+1982-03-06,1981,Manchester City,Arsenal,0-0,0,0,1,1,0,0,D
+1982-03-29,1981,Tottenham Hotspur,Arsenal,2-2,2,2,1,1,4,0,D
+1982-04-07,1981,Manchester United,Liverpool,0-1,0,1,1,1,1,-1,A
+1982-04-10,1981,Manchester City,Liverpool,0-5,0,5,1,1,5,-5,A
+1982-04-12,1981,Arsenal,Tottenham Hotspur,1-3,1,3,1,1,4,-2,A
+1982-04-17,1981,Manchester United,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1982-05-03,1981,Tottenham Hotspur,Liverpool,2-2,2,2,1,1,4,0,D
+1982-05-11,1981,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+1982-05-15,1981,Liverpool,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1982-09-04,1982,Arsenal,Liverpool,0-2,0,2,1,1,2,-2,A
+1982-09-11,1982,Tottenham Hotspur,Manchester City,1-2,1,2,1,1,3,-1,A
+1982-09-25,1982,Manchester United,Arsenal,0-0,0,0,1,1,0,0,D
+1982-10-16,1982,Liverpool,Manchester United,0-0,0,0,1,1,0,0,D
+1982-10-23,1982,Manchester United,Manchester City,2-2,2,2,1,1,4,0,D
+1982-11-13,1982,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1982-11-27,1982,Liverpool,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+1982-12-04,1982,Manchester City,Arsenal,2-1,2,1,1,1,3,1,H
+1982-12-27,1982,Arsenal,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1982-12-27,1982,Liverpool,Manchester City,5-2,5,2,1,1,7,3,H
+1983-01-03,1982,Liverpool,Arsenal,3-1,3,1,1,1,4,2,H
+1983-02-05,1982,Manchester City,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+1983-02-26,1982,Manchester United,Liverpool,1-1,1,1,1,1,2,0,D
+1983-03-05,1982,Manchester City,Manchester United,1-2,1,2,1,1,3,-1,A
+1983-04-04,1982,Manchester City,Liverpool,0-4,0,4,1,1,4,-4,A
+1983-04-04,1982,Tottenham Hotspur,Arsenal,5-0,5,0,1,1,5,5,H
+1983-04-23,1982,Arsenal,Manchester City,3-0,3,0,1,1,3,3,H
+1983-04-30,1982,Tottenham Hotspur,Liverpool,2-0,2,0,1,1,2,2,H
+1983-05-02,1982,Arsenal,Manchester United,3-0,3,0,1,1,3,3,H
+1983-05-11,1982,Tottenham Hotspur,Manchester United,2-0,2,0,1,1,2,2,H
+1983-09-06,1983,Arsenal,Manchester United,2-3,2,3,1,1,5,-1,A
+1983-09-10,1983,Arsenal,Liverpool,0-2,0,2,1,1,2,-2,A
+1983-09-24,1983,Manchester United,Liverpool,1-0,1,0,1,1,1,1,H
+1983-11-12,1983,Tottenham Hotspur,Liverpool,2-2,2,2,1,1,4,0,D
+1983-12-03,1983,Chelsea,Manchester City,0-1,0,1,2,2,1,-1,A
+1983-12-16,1983,Manchester United,Tottenham Hotspur,4-2,4,2,1,1,6,2,H
+1983-12-26,1983,Tottenham Hotspur,Arsenal,2-4,2,4,1,1,6,-2,A
+1984-01-02,1983,Liverpool,Manchester United,1-1,1,1,1,1,2,0,D
+1984-02-11,1983,Liverpool,Arsenal,2-1,2,1,1,1,3,1,H
+1984-03-10,1983,Liverpool,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1984-03-17,1983,Manchester United,Arsenal,4-0,4,0,1,1,4,4,H
+1984-04-21,1983,Arsenal,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+1984-05-04,1983,Manchester City,Chelsea,0-2,0,2,2,2,2,-2,A
+1984-05-12,1983,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+1984-08-25,1984,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+1984-09-05,1984,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+1984-09-08,1984,Arsenal,Liverpool,3-1,3,1,1,1,4,2,H
+1984-09-22,1984,Manchester United,Liverpool,1-1,1,1,1,1,2,0,D
+1984-10-12,1984,Tottenham Hotspur,Liverpool,1-0,1,0,1,1,1,1,H
+1984-10-20,1984,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1984-11-02,1984,Manchester United,Arsenal,4-2,4,2,1,1,6,2,H
+1984-11-24,1984,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+1984-12-01,1984,Chelsea,Liverpool,3-1,3,1,1,1,4,2,H
+1984-12-29,1984,Chelsea,Manchester United,1-3,1,3,1,1,4,-2,A
+1985-01-01,1984,Arsenal,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+1985-01-19,1984,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+1985-02-12,1984,Liverpool,Arsenal,3-0,3,0,1,1,3,3,H
+1985-02-23,1984,Arsenal,Manchester United,0-1,0,1,1,1,1,-1,A
+1985-03-12,1984,Tottenham Hotspur,Manchester United,1-2,1,2,1,1,3,-1,A
+1985-03-16,1984,Liverpool,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1985-03-31,1984,Liverpool,Manchester United,0-1,0,1,1,1,1,-1,A
+1985-04-17,1984,Tottenham Hotspur,Arsenal,0-2,0,2,1,1,2,-2,A
+1985-04-27,1984,Chelsea,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1985-05-04,1984,Liverpool,Chelsea,4-3,4,3,1,1,7,1,H
+1985-08-17,1985,Liverpool,Arsenal,2-0,2,0,1,1,2,2,H
+1985-08-24,1985,Arsenal,Manchester United,1-2,1,2,1,1,3,-1,A
+1985-08-31,1985,Manchester City,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1985-09-04,1985,Tottenham Hotspur,Chelsea,4-1,4,1,1,1,5,3,H
+1985-09-14,1985,Manchester City,Manchester United,0-3,0,3,1,1,3,-3,A
+1985-09-21,1985,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+1985-09-28,1985,Liverpool,Tottenham Hotspur,4-1,4,1,1,1,5,3,H
+1985-10-05,1985,Manchester City,Chelsea,0-1,0,1,1,1,1,-1,A
+1985-10-19,1985,Manchester United,Liverpool,1-1,1,1,1,1,2,0,D
+1985-10-26,1985,Chelsea,Manchester United,1-2,1,2,1,1,3,-1,A
+1985-11-02,1985,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+1985-11-16,1985,Manchester United,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1985-11-30,1985,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+1985-12-14,1985,Arsenal,Liverpool,2-0,2,0,1,1,2,2,H
+1985-12-21,1985,Manchester United,Arsenal,0-1,0,1,1,1,1,-1,A
+1985-12-26,1985,Manchester City,Liverpool,1-0,1,0,1,1,1,1,H
+1985-12-28,1985,Chelsea,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1986-01-01,1985,Arsenal,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1986-01-18,1985,Tottenham Hotspur,Manchester City,0-2,0,2,1,1,2,-2,A
+1986-02-09,1985,Liverpool,Manchester United,1-1,1,1,1,1,2,0,D
+1986-03-02,1985,Tottenham Hotspur,Liverpool,1-2,1,2,1,1,3,-1,A
+1986-03-08,1985,Chelsea,Manchester City,1-0,1,0,1,1,1,1,H
+1986-03-22,1985,Manchester United,Manchester City,2-2,2,2,1,1,4,0,D
+1986-03-29,1985,Tottenham Hotspur,Arsenal,1-0,1,0,1,1,1,1,H
+1986-03-31,1985,Liverpool,Manchester City,2-0,2,0,1,1,2,2,H
+1986-04-05,1985,Manchester City,Arsenal,0-1,0,1,1,1,1,-1,A
+1986-04-09,1985,Manchester United,Chelsea,1-2,1,2,1,1,3,-1,A
+1986-04-19,1985,Tottenham Hotspur,Manchester United,0-0,0,0,1,1,0,0,D
+1986-04-29,1985,Arsenal,Chelsea,2-0,2,0,1,1,2,2,H
+1986-05-03,1985,Chelsea,Liverpool,0-1,0,1,1,1,1,-1,A
+1986-08-23,1986,Arsenal,Manchester United,1-0,1,0,1,1,1,1,H
+1986-08-25,1986,Liverpool,Manchester City,0-0,0,0,1,1,0,0,D
+1986-08-30,1986,Liverpool,Arsenal,2-1,2,1,1,1,3,1,H
+1986-08-30,1986,Tottenham Hotspur,Manchester City,1-0,1,0,1,1,1,1,H
+1986-09-06,1986,Arsenal,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1986-09-13,1986,Tottenham Hotspur,Chelsea,1-3,1,3,1,1,4,-2,A
+1986-09-28,1986,Manchester United,Chelsea,0-1,0,1,1,1,1,-1,A
+1986-10-11,1986,Liverpool,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1986-10-18,1986,Chelsea,Manchester City,2-1,2,1,1,1,3,1,H
+1986-10-25,1986,Arsenal,Chelsea,3-1,3,1,1,1,4,2,H
+1986-10-26,1986,Manchester City,Manchester United,1-1,1,1,1,1,2,0,D
+1986-11-22,1986,Arsenal,Manchester City,3-0,3,0,1,1,3,3,H
+1986-12-07,1986,Manchester United,Tottenham Hotspur,3-3,3,3,1,1,6,0,D
+1986-12-14,1986,Liverpool,Chelsea,3-0,3,0,1,1,3,3,H
+1986-12-20,1986,Chelsea,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+1986-12-26,1986,Liverpool,Manchester United,0-1,0,1,1,1,1,-1,A
+1987-01-04,1986,Tottenham Hotspur,Arsenal,1-2,1,2,1,1,3,-1,A
+1987-01-17,1986,Manchester City,Liverpool,0-1,0,1,1,1,1,-1,A
+1987-01-24,1986,Manchester United,Arsenal,2-0,2,0,1,1,2,2,H
+1987-02-21,1986,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+1987-03-07,1986,Chelsea,Arsenal,1-0,1,0,1,1,1,1,H
+1987-03-07,1986,Manchester United,Manchester City,2-0,2,0,1,1,2,2,H
+1987-03-10,1986,Arsenal,Liverpool,0-1,0,1,1,1,1,-1,A
+1987-03-14,1986,Manchester City,Chelsea,1-2,1,2,1,1,3,-1,A
+1987-03-22,1986,Tottenham Hotspur,Liverpool,1-0,1,0,1,1,1,1,H
+1987-04-15,1986,Manchester City,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1987-04-20,1986,Manchester United,Liverpool,1-0,1,0,1,1,1,1,H
+1987-04-25,1986,Manchester City,Arsenal,3-0,3,0,1,1,3,3,H
+1987-05-04,1986,Tottenham Hotspur,Manchester United,4-0,4,0,1,1,4,4,H
+1987-05-09,1986,Chelsea,Liverpool,3-3,3,3,1,1,6,0,D
+1987-08-15,1987,Arsenal,Liverpool,1-2,1,2,1,1,3,-1,A
+1987-08-19,1987,Manchester United,Arsenal,0-0,0,0,1,1,0,0,D
+1987-08-22,1987,Tottenham Hotspur,Chelsea,1-0,1,0,1,1,1,1,H
+1987-08-31,1987,Manchester United,Chelsea,3-1,3,1,1,1,4,2,H
+1987-09-26,1987,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1987-10-18,1987,Tottenham Hotspur,Arsenal,1-2,1,2,1,1,3,-1,A
+1987-11-03,1987,Arsenal,Chelsea,3-1,3,1,1,1,4,2,H
+1987-11-15,1987,Manchester United,Liverpool,1-1,1,1,1,1,2,0,D
+1987-11-28,1987,Tottenham Hotspur,Liverpool,0-2,0,2,1,1,2,-2,A
+1987-12-06,1987,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+1988-01-02,1987,Chelsea,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1988-01-16,1987,Liverpool,Arsenal,2-0,2,0,1,1,2,2,H
+1988-01-24,1987,Arsenal,Manchester United,1-2,1,2,1,1,3,-1,A
+1988-02-13,1987,Chelsea,Manchester United,1-2,1,2,1,1,3,-1,A
+1988-02-23,1987,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+1988-03-06,1987,Arsenal,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1988-04-02,1987,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+1988-04-04,1987,Liverpool,Manchester United,3-3,3,3,1,1,6,0,D
+1988-04-23,1987,Liverpool,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1988-04-30,1987,Chelsea,Liverpool,1-1,1,1,1,1,2,0,D
+1988-09-03,1988,Liverpool,Manchester United,1-0,1,0,1,1,1,1,H
+1988-09-10,1988,Tottenham Hotspur,Arsenal,2-3,2,3,1,1,5,-1,A
+1988-09-17,1988,Liverpool,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1988-09-20,1988,Chelsea,Manchester City,1-3,1,3,2,2,4,-2,A
+1988-10-01,1988,Tottenham Hotspur,Manchester United,2-2,2,2,1,1,4,0,D
+1988-12-04,1988,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+1988-12-17,1988,Arsenal,Manchester United,2-1,2,1,1,1,3,1,H
+1989-01-01,1988,Manchester United,Liverpool,3-1,3,1,1,1,4,2,H
+1989-01-02,1988,Arsenal,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1989-02-05,1988,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1989-03-18,1988,Manchester City,Chelsea,2-3,2,3,2,2,5,-1,A
+1989-03-26,1988,Tottenham Hotspur,Liverpool,1-2,1,2,1,1,3,-1,A
+1989-04-02,1988,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+1989-05-26,1988,Liverpool,Arsenal,0-2,0,2,1,1,2,-2,A
+1989-08-19,1989,Liverpool,Manchester City,3-1,3,1,1,1,4,2,H
+1989-08-19,1989,Manchester United,Arsenal,4-1,4,1,1,1,5,3,H
+1989-08-26,1989,Manchester City,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1989-09-16,1989,Tottenham Hotspur,Chelsea,1-4,1,4,1,1,5,-3,A
+1989-09-23,1989,Manchester City,Manchester United,5-1,5,1,1,1,6,4,H
+1989-09-30,1989,Chelsea,Arsenal,0-0,0,0,1,1,0,0,D
+1989-10-14,1989,Arsenal,Manchester City,4-0,4,0,1,1,4,4,H
+1989-10-18,1989,Tottenham Hotspur,Arsenal,2-1,2,1,1,1,3,1,H
+1989-10-28,1989,Chelsea,Manchester City,1-1,1,1,1,1,2,0,D
+1989-10-29,1989,Liverpool,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1989-11-25,1989,Manchester United,Chelsea,0-0,0,0,1,1,0,0,D
+1989-11-26,1989,Liverpool,Arsenal,2-1,2,1,1,1,3,1,H
+1989-12-02,1989,Manchester City,Liverpool,1-4,1,4,1,1,5,-3,A
+1989-12-03,1989,Arsenal,Manchester United,1-0,1,0,1,1,1,1,H
+1989-12-16,1989,Chelsea,Liverpool,2-5,2,5,1,1,7,-3,A
+1989-12-16,1989,Manchester United,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1989-12-23,1989,Liverpool,Manchester United,0-0,0,0,1,1,0,0,D
+1990-01-13,1989,Tottenham Hotspur,Manchester City,1-1,1,1,1,1,2,0,D
+1990-01-20,1989,Arsenal,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1990-02-03,1989,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+1990-02-10,1989,Chelsea,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+1990-02-24,1989,Chelsea,Manchester United,1-0,1,0,1,1,1,1,H
+1990-03-10,1989,Manchester City,Arsenal,1-1,1,1,1,1,2,0,D
+1990-03-17,1989,Arsenal,Chelsea,0-1,0,1,1,1,1,-1,A
+1990-03-18,1989,Manchester United,Liverpool,1-2,1,2,1,1,3,-1,A
+1990-03-21,1989,Manchester City,Chelsea,1-1,1,1,1,1,2,0,D
+1990-03-21,1989,Tottenham Hotspur,Liverpool,1-0,1,0,1,1,1,1,H
+1990-04-18,1989,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+1990-04-21,1989,Liverpool,Chelsea,4-1,4,1,1,1,5,3,H
+1990-04-21,1989,Tottenham Hotspur,Manchester United,2-1,2,1,1,1,3,1,H
+1990-08-25,1990,Tottenham Hotspur,Manchester City,3-1,3,1,1,1,4,2,H
+1990-09-01,1990,Arsenal,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1990-09-15,1990,Arsenal,Chelsea,4-1,4,1,1,1,5,3,H
+1990-09-16,1990,Liverpool,Manchester United,4-0,4,0,1,1,4,4,H
+1990-09-22,1990,Chelsea,Manchester City,1-1,1,1,1,1,2,0,D
+1990-10-20,1990,Manchester United,Arsenal,0-1,0,1,1,1,1,-1,A
+1990-10-27,1990,Liverpool,Chelsea,2-0,2,0,1,1,2,2,H
+1990-10-27,1990,Manchester City,Manchester United,3-3,3,3,1,1,6,0,D
+1990-11-04,1990,Tottenham Hotspur,Liverpool,1-3,1,3,1,1,4,-2,A
+1990-11-24,1990,Liverpool,Manchester City,2-2,2,2,1,1,4,0,D
+1990-11-25,1990,Manchester United,Chelsea,2-3,2,3,1,1,5,-1,A
+1990-12-01,1990,Chelsea,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+1990-12-02,1990,Arsenal,Liverpool,3-0,3,0,1,1,3,3,H
+1990-12-15,1990,Manchester City,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1991-01-01,1990,Manchester City,Arsenal,0-1,0,1,1,1,1,-1,A
+1991-01-01,1990,Tottenham Hotspur,Manchester United,1-2,1,2,1,1,3,-1,A
+1991-01-12,1990,Tottenham Hotspur,Arsenal,0-0,0,0,1,1,0,0,D
+1991-02-02,1990,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+1991-02-03,1990,Manchester United,Liverpool,1-1,1,1,1,1,2,0,D
+1991-02-09,1990,Manchester City,Chelsea,2-1,2,1,1,1,3,1,H
+1991-03-02,1990,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+1991-03-03,1990,Liverpool,Arsenal,0-1,0,1,1,1,1,-1,A
+1991-03-09,1990,Chelsea,Manchester United,3-2,3,2,1,1,5,1,H
+1991-03-09,1990,Manchester City,Liverpool,0-3,0,3,1,1,3,-3,A
+1991-04-17,1990,Arsenal,Manchester City,2-2,2,2,1,1,4,0,D
+1991-05-04,1990,Chelsea,Liverpool,4-2,4,2,1,1,6,2,H
+1991-05-04,1990,Manchester United,Manchester City,1-0,1,0,1,1,1,1,H
+1991-05-06,1990,Arsenal,Manchester United,3-1,3,1,1,1,4,2,H
+1991-05-11,1990,Liverpool,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1991-05-20,1990,Manchester United,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1991-08-21,1991,Manchester City,Liverpool,2-1,2,1,1,1,3,1,H
+1991-08-24,1991,Tottenham Hotspur,Chelsea,1-3,1,3,1,1,4,-2,A
+1991-08-31,1991,Arsenal,Manchester City,2-1,2,1,1,1,3,1,H
+1991-09-28,1991,Tottenham Hotspur,Manchester United,1-2,1,2,1,1,3,-1,A
+1991-10-05,1991,Arsenal,Chelsea,3-2,3,2,1,1,5,1,H
+1991-10-06,1991,Manchester United,Liverpool,0-0,0,0,1,1,0,0,D
+1991-10-19,1991,Chelsea,Liverpool,2-2,2,2,1,1,4,0,D
+1991-10-19,1991,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+1991-10-19,1991,Tottenham Hotspur,Manchester City,0-1,0,1,1,1,1,-1,A
+1991-11-16,1991,Manchester City,Manchester United,0-0,0,0,1,1,0,0,D
+1991-12-01,1991,Arsenal,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1991-12-15,1991,Chelsea,Manchester United,1-3,1,3,1,1,4,-2,A
+1991-12-18,1991,Tottenham Hotspur,Liverpool,1-2,1,2,1,1,3,-1,A
+1991-12-21,1991,Liverpool,Manchester City,2-2,2,2,1,1,4,0,D
+1991-12-28,1991,Manchester City,Arsenal,1-0,1,0,1,1,1,1,H
+1992-01-01,1991,Chelsea,Manchester City,1-1,1,1,1,1,2,0,D
+1992-01-11,1991,Chelsea,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1992-01-29,1991,Liverpool,Arsenal,2-0,2,0,1,1,2,2,H
+1992-02-01,1991,Arsenal,Manchester United,1-1,1,1,1,1,2,0,D
+1992-02-01,1991,Liverpool,Chelsea,1-2,1,2,1,1,3,-1,A
+1992-02-01,1991,Manchester City,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1992-02-22,1991,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+1992-02-26,1991,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+1992-03-21,1991,Liverpool,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1992-03-28,1991,Manchester City,Chelsea,0-0,0,0,1,1,0,0,D
+1992-04-07,1991,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+1992-04-20,1991,Arsenal,Liverpool,4-0,4,0,1,1,4,4,H
+1992-04-25,1991,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+1992-04-26,1991,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+1992-05-02,1991,Manchester United,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1992-08-23,1992,Liverpool,Arsenal,0-2,0,2,1,1,2,-2,A
+1992-09-05,1992,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+1992-09-19,1992,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+1992-09-20,1992,Manchester City,Chelsea,0-1,0,1,1,1,1,-1,A
+1992-09-28,1992,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+1992-10-03,1992,Arsenal,Chelsea,2-1,2,1,1,1,3,1,H
+1992-10-18,1992,Manchester United,Liverpool,2-2,2,2,1,1,4,0,D
+1992-10-31,1992,Tottenham Hotspur,Liverpool,2-0,2,0,1,1,2,2,H
+1992-11-28,1992,Arsenal,Manchester United,0-1,0,1,1,1,1,-1,A
+1992-11-28,1992,Manchester City,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+1992-12-05,1992,Tottenham Hotspur,Chelsea,1-2,1,2,1,1,3,-1,A
+1992-12-06,1992,Manchester United,Manchester City,2-1,2,1,1,1,3,1,H
+1992-12-12,1992,Tottenham Hotspur,Arsenal,1-0,1,0,1,1,1,1,H
+1992-12-19,1992,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+1992-12-28,1992,Liverpool,Manchester City,1-1,1,1,1,1,2,0,D
+1993-01-09,1992,Chelsea,Manchester City,2-4,2,4,1,1,6,-2,A
+1993-01-09,1992,Manchester United,Tottenham Hotspur,4-1,4,1,1,1,5,3,H
+1993-01-16,1992,Manchester City,Arsenal,0-1,0,1,1,1,1,-1,A
+1993-01-31,1992,Arsenal,Liverpool,0-1,0,1,1,1,1,-1,A
+1993-02-10,1992,Chelsea,Liverpool,0-0,0,0,1,1,0,0,D
+1993-03-01,1992,Chelsea,Arsenal,1-0,1,0,1,1,1,1,H
+1993-03-06,1992,Liverpool,Manchester United,1-2,1,2,1,1,3,-1,A
+1993-03-20,1992,Chelsea,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1993-03-20,1992,Manchester City,Manchester United,1-1,1,1,1,1,2,0,D
+1993-03-24,1992,Manchester United,Arsenal,0-0,0,0,1,1,0,0,D
+1993-03-24,1992,Tottenham Hotspur,Manchester City,3-1,3,1,1,1,4,2,H
+1993-04-12,1992,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+1993-04-17,1992,Manchester United,Chelsea,3-0,3,0,1,1,3,3,H
+1993-05-08,1992,Liverpool,Tottenham Hotspur,6-2,6,2,1,1,8,4,H
+1993-05-11,1992,Arsenal,Tottenham Hotspur,1-3,1,3,1,1,4,-2,A
+1993-08-16,1993,Tottenham Hotspur,Arsenal,0-1,0,1,1,1,1,-1,A
+1993-08-21,1993,Tottenham Hotspur,Manchester City,1-0,1,0,1,1,1,1,H
+1993-08-25,1993,Liverpool,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+1993-09-01,1993,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+1993-09-11,1993,Chelsea,Manchester United,1-0,1,0,1,1,1,1,H
+1993-09-19,1993,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+1993-09-25,1993,Chelsea,Liverpool,1-0,1,0,1,1,1,1,H
+1993-10-02,1993,Liverpool,Arsenal,0-0,0,0,1,1,0,0,D
+1993-10-16,1993,Arsenal,Manchester City,0-0,0,0,1,1,0,0,D
+1993-10-16,1993,Manchester United,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1993-10-23,1993,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+1993-11-07,1993,Manchester City,Manchester United,2-3,2,3,1,1,5,-1,A
+1993-11-20,1993,Chelsea,Arsenal,0-2,0,2,1,1,2,-2,A
+1993-11-22,1993,Chelsea,Manchester City,0-0,0,0,1,1,0,0,D
+1993-12-06,1993,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1993-12-11,1993,Manchester City,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+1993-12-18,1993,Tottenham Hotspur,Liverpool,3-3,3,3,1,1,6,0,D
+1994-01-04,1993,Liverpool,Manchester United,3-3,3,3,1,1,6,0,D
+1994-01-15,1993,Manchester City,Arsenal,0-0,0,0,1,1,0,0,D
+1994-01-15,1993,Tottenham Hotspur,Manchester United,0-1,0,1,1,1,1,-1,A
+1994-01-22,1993,Liverpool,Manchester City,2-1,2,1,1,1,3,1,H
+1994-02-27,1993,Chelsea,Tottenham Hotspur,4-3,4,3,1,1,7,1,H
+1994-03-05,1993,Manchester United,Chelsea,0-1,0,1,1,1,1,-1,A
+1994-03-19,1993,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+1994-03-22,1993,Arsenal,Manchester United,2-2,2,2,1,1,4,0,D
+1994-03-26,1993,Arsenal,Liverpool,1-0,1,0,1,1,1,1,H
+1994-03-30,1993,Manchester United,Liverpool,1-0,1,0,1,1,1,1,H
+1994-04-16,1993,Arsenal,Chelsea,1-0,1,0,1,1,1,1,H
+1994-04-23,1993,Manchester United,Manchester City,2-0,2,0,1,1,2,2,H
+1994-04-30,1993,Manchester City,Chelsea,2-2,2,2,1,1,4,0,D
+1994-08-20,1994,Arsenal,Manchester City,3-0,3,0,1,1,3,3,H
+1994-08-27,1994,Tottenham Hotspur,Manchester United,0-1,0,1,1,1,1,-1,A
+1994-08-28,1994,Liverpool,Arsenal,3-0,3,0,1,1,3,3,H
+1994-08-31,1994,Chelsea,Manchester City,3-0,3,0,1,1,3,3,H
+1994-09-17,1994,Manchester United,Liverpool,2-0,2,0,1,1,2,2,H
+1994-10-15,1994,Arsenal,Chelsea,3-1,3,1,1,1,4,2,H
+1994-10-22,1994,Manchester City,Tottenham Hotspur,5-2,5,2,1,1,7,3,H
+1994-11-09,1994,Liverpool,Chelsea,3-1,3,1,1,1,4,2,H
+1994-11-10,1994,Manchester United,Manchester City,5-0,5,0,1,1,5,5,H
+1994-11-23,1994,Tottenham Hotspur,Chelsea,0-0,0,0,1,1,0,0,D
+1994-11-26,1994,Arsenal,Manchester United,0-0,0,0,1,1,0,0,D
+1994-11-26,1994,Liverpool,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1994-12-12,1994,Manchester City,Arsenal,1-2,1,2,1,1,3,-1,A
+1994-12-18,1994,Chelsea,Liverpool,0-0,0,0,1,1,0,0,D
+1994-12-26,1994,Chelsea,Manchester United,2-3,2,3,1,1,5,-1,A
+1994-12-28,1994,Liverpool,Manchester City,2-0,2,0,1,1,2,2,H
+1995-01-02,1994,Tottenham Hotspur,Arsenal,1-0,1,0,1,1,1,1,H
+1995-02-11,1994,Chelsea,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1995-02-11,1994,Manchester City,Manchester United,0-3,0,3,1,1,3,-3,A
+1995-03-08,1994,Manchester City,Chelsea,1-2,1,2,1,1,3,-1,A
+1995-03-15,1994,Manchester United,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1995-03-19,1994,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+1995-03-22,1994,Manchester United,Arsenal,3-0,3,0,1,1,3,3,H
+1995-03-22,1994,Tottenham Hotspur,Liverpool,0-0,0,0,1,1,0,0,D
+1995-04-11,1994,Tottenham Hotspur,Manchester City,2-1,2,1,1,1,3,1,H
+1995-04-12,1994,Arsenal,Liverpool,0-1,0,1,1,1,1,-1,A
+1995-04-14,1994,Manchester City,Liverpool,2-1,2,1,1,1,3,1,H
+1995-04-17,1994,Manchester United,Chelsea,0-0,0,0,1,1,0,0,D
+1995-04-29,1994,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1995-05-14,1994,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+1995-08-19,1995,Manchester City,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+1995-08-26,1995,Tottenham Hotspur,Liverpool,1-3,1,3,1,1,4,-2,A
+1995-09-10,1995,Manchester City,Arsenal,0-1,0,1,1,1,1,-1,A
+1995-09-30,1995,Chelsea,Arsenal,1-0,1,0,1,1,1,1,H
+1995-10-01,1995,Manchester United,Liverpool,2-2,2,2,1,1,4,0,D
+1995-10-14,1995,Manchester United,Manchester City,1-0,1,0,1,1,1,1,H
+1995-10-21,1995,Chelsea,Manchester United,1-4,1,4,1,1,5,-3,A
+1995-10-28,1995,Liverpool,Manchester City,6-0,6,0,1,1,6,6,H
+1995-11-04,1995,Arsenal,Manchester United,1-0,1,0,1,1,1,1,H
+1995-11-18,1995,Tottenham Hotspur,Arsenal,2-1,2,1,1,1,3,1,H
+1995-11-25,1995,Chelsea,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1995-12-02,1995,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+1995-12-16,1995,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+1995-12-17,1995,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+1995-12-23,1995,Liverpool,Arsenal,3-1,3,1,1,1,4,2,H
+1995-12-23,1995,Manchester City,Chelsea,0-1,0,1,1,1,1,-1,A
+1995-12-30,1995,Chelsea,Liverpool,2-2,2,2,1,1,4,0,D
+1996-01-01,1995,Tottenham Hotspur,Manchester United,4-1,4,1,1,1,5,3,H
+1996-01-13,1995,Tottenham Hotspur,Manchester City,1-0,1,0,1,1,1,1,H
+1996-02-03,1995,Liverpool,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1996-03-05,1995,Arsenal,Manchester City,3-1,3,1,1,1,4,2,H
+1996-03-12,1995,Chelsea,Manchester City,1-1,1,1,1,1,2,0,D
+1996-03-16,1995,Liverpool,Chelsea,2-0,2,0,1,1,2,2,H
+1996-03-20,1995,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+1996-03-24,1995,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+1996-04-06,1995,Manchester City,Manchester United,2-3,2,3,1,1,5,-1,A
+1996-04-15,1995,Arsenal,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1996-04-27,1995,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+1996-05-01,1995,Arsenal,Liverpool,0-0,0,0,1,1,0,0,D
+1996-05-04,1995,Manchester City,Liverpool,2-2,2,2,1,1,4,0,D
+1996-08-19,1996,Liverpool,Arsenal,2-0,2,0,1,1,2,2,H
+1996-09-04,1996,Arsenal,Chelsea,3-3,3,3,1,1,6,0,D
+1996-09-21,1996,Liverpool,Chelsea,5-1,5,1,1,1,6,4,H
+1996-09-29,1996,Manchester United,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1996-10-12,1996,Manchester United,Liverpool,1-0,1,0,1,1,1,1,H
+1996-10-26,1996,Chelsea,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1996-11-02,1996,Manchester United,Chelsea,1-2,1,2,1,1,3,-1,A
+1996-11-16,1996,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+1996-11-24,1996,Arsenal,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+1996-12-02,1996,Tottenham Hotspur,Liverpool,0-2,0,2,1,1,2,-2,A
+1997-01-01,1996,Chelsea,Liverpool,1-0,1,0,1,1,1,1,H
+1997-01-12,1996,Tottenham Hotspur,Manchester United,1-2,1,2,1,1,3,-1,A
+1997-02-01,1996,Tottenham Hotspur,Chelsea,1-2,1,2,1,1,3,-1,A
+1997-02-15,1996,Tottenham Hotspur,Arsenal,0-0,0,0,1,1,0,0,D
+1997-02-19,1996,Arsenal,Manchester United,1-2,1,2,1,1,3,-1,A
+1997-02-22,1996,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+1997-03-24,1996,Arsenal,Liverpool,1-2,1,2,1,1,3,-1,A
+1997-04-05,1996,Chelsea,Arsenal,0-3,0,3,1,1,3,-3,A
+1997-04-19,1996,Liverpool,Manchester United,1-3,1,3,1,1,4,-2,A
+1997-05-03,1996,Liverpool,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1997-08-10,1997,Tottenham Hotspur,Manchester United,0-2,0,2,1,1,2,-2,A
+1997-08-30,1997,Arsenal,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1997-09-21,1997,Chelsea,Arsenal,2-3,2,3,1,1,5,-1,A
+1997-09-24,1997,Manchester United,Chelsea,2-2,2,2,1,1,4,0,D
+1997-10-05,1997,Liverpool,Chelsea,4-2,4,2,1,1,6,2,H
+1997-11-08,1997,Liverpool,Tottenham Hotspur,4-0,4,0,1,1,4,4,H
+1997-11-09,1997,Arsenal,Manchester United,3-2,3,2,1,1,5,1,H
+1997-11-30,1997,Arsenal,Liverpool,0-1,0,1,1,1,1,-1,A
+1997-12-06,1997,Liverpool,Manchester United,1-3,1,3,1,1,4,-2,A
+1997-12-06,1997,Tottenham Hotspur,Chelsea,1-6,1,6,1,1,7,-5,A
+1997-12-28,1997,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+1998-01-10,1997,Manchester United,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1998-02-08,1997,Arsenal,Chelsea,2-0,2,0,1,1,2,2,H
+1998-02-28,1997,Chelsea,Manchester United,0-1,0,1,1,1,1,-1,A
+1998-03-14,1997,Manchester United,Arsenal,0-1,0,1,1,1,1,-1,A
+1998-03-14,1997,Tottenham Hotspur,Liverpool,3-3,3,3,1,1,6,0,D
+1998-04-10,1997,Manchester United,Liverpool,1-1,1,1,1,1,2,0,D
+1998-04-11,1997,Chelsea,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1998-04-25,1997,Chelsea,Liverpool,4-1,4,1,1,1,5,3,H
+1998-05-06,1997,Liverpool,Arsenal,4-0,4,0,1,1,4,4,H
+1998-08-22,1998,Liverpool,Arsenal,0-0,0,0,1,1,0,0,D
+1998-09-09,1998,Chelsea,Arsenal,0-0,0,0,1,1,0,0,D
+1998-09-20,1998,Arsenal,Manchester United,3-0,3,0,1,1,3,3,H
+1998-09-24,1998,Manchester United,Liverpool,2-0,2,0,1,1,2,2,H
+1998-10-04,1998,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+1998-11-14,1998,Arsenal,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+1998-12-05,1998,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+1998-12-12,1998,Tottenham Hotspur,Manchester United,2-2,2,2,1,1,4,0,D
+1998-12-16,1998,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+1998-12-19,1998,Chelsea,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+1998-12-29,1998,Chelsea,Manchester United,0-0,0,0,1,1,0,0,D
+1999-01-09,1998,Arsenal,Liverpool,0-0,0,0,1,1,0,0,D
+1999-01-31,1998,Arsenal,Chelsea,1-0,1,0,1,1,1,1,H
+1999-02-17,1998,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+1999-02-27,1998,Chelsea,Liverpool,2-1,2,1,1,1,3,1,H
+1999-05-01,1998,Liverpool,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+1999-05-05,1998,Liverpool,Manchester United,2-2,2,2,1,1,4,0,D
+1999-05-05,1998,Tottenham Hotspur,Arsenal,1-3,1,3,1,1,4,-2,A
+1999-05-10,1998,Tottenham Hotspur,Chelsea,2-2,2,2,1,1,4,0,D
+1999-05-16,1998,Manchester United,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+1999-08-22,1999,Arsenal,Manchester United,1-2,1,2,1,1,3,-1,A
+1999-08-28,1999,Liverpool,Arsenal,2-0,2,0,1,1,2,2,H
+1999-09-11,1999,Liverpool,Manchester United,2-3,2,3,1,1,5,-1,A
+1999-10-03,1999,Chelsea,Manchester United,5-0,5,0,1,1,5,5,H
+1999-10-16,1999,Liverpool,Chelsea,1-0,1,0,1,1,1,1,H
+1999-10-23,1999,Chelsea,Arsenal,2-3,2,3,1,1,5,-1,A
+1999-10-23,1999,Tottenham Hotspur,Manchester United,3-1,3,1,1,1,4,2,H
+1999-11-07,1999,Tottenham Hotspur,Arsenal,2-1,2,1,1,1,3,1,H
+2000-01-03,1999,Tottenham Hotspur,Liverpool,1-0,1,0,1,1,1,1,H
+2000-01-12,1999,Chelsea,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2000-01-24,1999,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+2000-02-05,1999,Tottenham Hotspur,Chelsea,0-1,0,1,1,1,1,-1,A
+2000-02-13,1999,Arsenal,Liverpool,0-1,0,1,1,1,1,-1,A
+2000-03-04,1999,Manchester United,Liverpool,1-1,1,1,1,1,2,0,D
+2000-03-19,1999,Arsenal,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2000-04-09,1999,Liverpool,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+2000-04-24,1999,Manchester United,Chelsea,3-2,3,2,1,1,5,1,H
+2000-04-29,1999,Chelsea,Liverpool,2-0,2,0,1,1,2,2,H
+2000-05-06,1999,Arsenal,Chelsea,2-1,2,1,1,1,3,1,H
+2000-05-06,1999,Manchester United,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+2000-08-21,2000,Arsenal,Liverpool,2-0,2,0,1,1,2,2,H
+2000-09-06,2000,Chelsea,Arsenal,2-2,2,2,1,1,4,0,D
+2000-09-09,2000,Liverpool,Manchester City,3-2,3,2,1,1,5,1,H
+2000-09-23,2000,Manchester United,Chelsea,3-3,3,3,1,1,6,0,D
+2000-09-23,2000,Tottenham Hotspur,Manchester City,0-0,0,0,1,1,0,0,D
+2000-10-01,2000,Arsenal,Manchester United,1-0,1,0,1,1,1,1,H
+2000-10-01,2000,Chelsea,Liverpool,3-0,3,0,1,1,3,3,H
+2000-10-28,2000,Arsenal,Manchester City,5-0,5,0,1,1,5,5,H
+2000-10-28,2000,Chelsea,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+2000-11-18,2000,Manchester City,Manchester United,0-1,0,1,1,1,1,-1,A
+2000-11-19,2000,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+2000-12-02,2000,Manchester United,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+2000-12-03,2000,Chelsea,Manchester City,2-1,2,1,1,1,3,1,H
+2000-12-17,2000,Manchester United,Liverpool,0-1,0,1,1,1,1,-1,A
+2000-12-18,2000,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+2000-12-23,2000,Liverpool,Arsenal,4-0,4,0,1,1,4,4,H
+2001-01-13,2000,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+2001-01-31,2000,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+2001-02-10,2000,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+2001-02-10,2000,Manchester City,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+2001-02-25,2000,Manchester United,Arsenal,6-1,6,1,1,1,7,5,H
+2001-03-31,2000,Arsenal,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+2001-03-31,2000,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+2001-04-11,2000,Manchester City,Arsenal,0-4,0,4,1,1,4,-4,A
+2001-04-17,2000,Tottenham Hotspur,Chelsea,0-3,0,3,1,1,3,-3,A
+2001-04-21,2000,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+2001-04-22,2000,Liverpool,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+2001-05-08,2000,Liverpool,Chelsea,2-2,2,2,1,1,4,0,D
+2001-05-19,2000,Manchester City,Chelsea,1-2,1,2,1,1,3,-1,A
+2001-05-19,2000,Tottenham Hotspur,Manchester United,3-1,3,1,1,1,4,2,H
+2001-09-08,2001,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+2001-09-16,2001,Tottenham Hotspur,Chelsea,2-3,2,3,1,1,5,-1,A
+2001-09-22,2001,Liverpool,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2001-09-29,2001,Tottenham Hotspur,Manchester United,3-5,3,5,1,1,8,-2,A
+2001-11-04,2001,Liverpool,Manchester United,3-1,3,1,1,1,4,2,H
+2001-11-17,2001,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+2001-11-25,2001,Arsenal,Manchester United,3-1,3,1,1,1,4,2,H
+2001-12-01,2001,Manchester United,Chelsea,0-3,0,3,1,1,3,-3,A
+2001-12-16,2001,Chelsea,Liverpool,4-0,4,0,1,1,4,4,H
+2001-12-23,2001,Liverpool,Arsenal,1-2,1,2,1,1,3,-1,A
+2001-12-26,2001,Arsenal,Chelsea,2-1,2,1,1,1,3,1,H
+2002-01-13,2001,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+2002-01-22,2001,Manchester United,Liverpool,0-1,0,1,1,1,1,-1,A
+2002-03-06,2001,Manchester United,Tottenham Hotspur,4-0,4,0,1,1,4,4,H
+2002-03-13,2001,Chelsea,Tottenham Hotspur,4-0,4,0,1,1,4,4,H
+2002-03-24,2001,Liverpool,Chelsea,1-0,1,0,1,1,1,1,H
+2002-04-06,2001,Arsenal,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2002-04-20,2001,Chelsea,Manchester United,0-3,0,3,1,1,3,-3,A
+2002-04-27,2001,Tottenham Hotspur,Liverpool,1-0,1,0,1,1,1,1,H
+2002-05-08,2001,Manchester United,Arsenal,0-1,0,1,1,1,1,-1,A
+2002-08-23,2002,Chelsea,Manchester United,2-2,2,2,1,1,4,0,D
+2002-09-01,2002,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+2002-09-10,2002,Arsenal,Manchester City,2-1,2,1,1,1,3,1,H
+2002-09-21,2002,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2002-09-28,2002,Manchester City,Liverpool,0-3,0,3,1,1,3,-3,A
+2002-10-06,2002,Liverpool,Chelsea,1-0,1,0,1,1,1,1,H
+2002-10-19,2002,Manchester City,Chelsea,0-3,0,3,1,1,3,-3,A
+2002-10-26,2002,Liverpool,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2002-11-03,2002,Tottenham Hotspur,Chelsea,0-0,0,0,1,1,0,0,D
+2002-11-09,2002,Manchester City,Manchester United,3-1,3,1,1,1,4,2,H
+2002-11-16,2002,Arsenal,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+2002-12-01,2002,Liverpool,Manchester United,1-2,1,2,1,1,3,-1,A
+2002-12-07,2002,Manchester United,Arsenal,2-0,2,0,1,1,2,2,H
+2002-12-15,2002,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+2002-12-23,2002,Manchester City,Tottenham Hotspur,2-3,2,3,1,1,5,-1,A
+2002-12-29,2002,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+2003-01-01,2002,Arsenal,Chelsea,3-2,3,2,1,1,5,1,H
+2003-01-18,2002,Manchester United,Chelsea,2-1,2,1,1,1,3,1,H
+2003-01-29,2002,Liverpool,Arsenal,2-2,2,2,1,1,4,0,D
+2003-02-01,2002,Chelsea,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+2003-02-09,2002,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+2003-02-22,2002,Manchester City,Arsenal,1-5,1,5,1,1,6,-4,A
+2003-03-16,2002,Tottenham Hotspur,Liverpool,2-3,2,3,1,1,5,-1,A
+2003-03-22,2002,Chelsea,Manchester City,5-0,5,0,1,1,5,5,H
+2003-04-05,2002,Manchester United,Liverpool,4-0,4,0,1,1,4,4,H
+2003-04-16,2002,Arsenal,Manchester United,2-2,2,2,1,1,4,0,D
+2003-04-18,2002,Tottenham Hotspur,Manchester City,0-2,0,2,1,1,2,-2,A
+2003-04-27,2002,Tottenham Hotspur,Manchester United,0-2,0,2,1,1,2,-2,A
+2003-05-03,2002,Liverpool,Manchester City,1-2,1,2,1,1,3,-1,A
+2003-05-11,2002,Chelsea,Liverpool,2-1,2,1,1,1,3,1,H
+2003-08-17,2003,Liverpool,Chelsea,1-2,1,2,1,1,3,-1,A
+2003-08-27,2003,Liverpool,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+2003-08-31,2003,Manchester City,Arsenal,1-2,1,2,1,1,3,-1,A
+2003-09-13,2003,Chelsea,Tottenham Hotspur,4-2,4,2,1,1,6,2,H
+2003-09-21,2003,Manchester United,Arsenal,0-0,0,0,1,1,0,0,D
+2003-09-28,2003,Manchester City,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+2003-10-04,2003,Liverpool,Arsenal,1-2,1,2,1,1,3,-1,A
+2003-10-18,2003,Arsenal,Chelsea,2-1,2,1,1,1,3,1,H
+2003-10-25,2003,Chelsea,Manchester City,1-0,1,0,1,1,1,1,H
+2003-11-08,2003,Arsenal,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2003-11-09,2003,Liverpool,Manchester United,1-2,1,2,1,1,3,-1,A
+2003-11-30,2003,Chelsea,Manchester United,1-0,1,0,1,1,1,1,H
+2003-12-13,2003,Manchester United,Manchester City,3-1,3,1,1,1,4,2,H
+2003-12-21,2003,Tottenham Hotspur,Manchester United,1-2,1,2,1,1,3,-1,A
+2003-12-28,2003,Manchester City,Liverpool,2-2,2,2,1,1,4,0,D
+2004-01-07,2003,Chelsea,Liverpool,0-1,0,1,1,1,1,-1,A
+2004-01-17,2003,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+2004-02-01,2003,Arsenal,Manchester City,2-1,2,1,1,1,3,1,H
+2004-02-11,2003,Liverpool,Manchester City,2-1,2,1,1,1,3,1,H
+2004-02-21,2003,Chelsea,Arsenal,1-2,1,2,1,1,3,-1,A
+2004-02-28,2003,Manchester City,Chelsea,0-1,0,1,1,1,1,-1,A
+2004-03-14,2003,Manchester City,Manchester United,4-1,4,1,1,1,5,3,H
+2004-03-20,2003,Manchester United,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+2004-03-28,2003,Arsenal,Manchester United,1-1,1,1,1,1,2,0,D
+2004-04-03,2003,Tottenham Hotspur,Chelsea,0-1,0,1,1,1,1,-1,A
+2004-04-09,2003,Arsenal,Liverpool,4-2,4,2,1,1,6,2,H
+2004-04-12,2003,Tottenham Hotspur,Manchester City,1-1,1,1,1,1,2,0,D
+2004-04-24,2003,Manchester United,Liverpool,0-1,0,1,1,1,1,-1,A
+2004-04-25,2003,Tottenham Hotspur,Arsenal,2-2,2,2,1,1,4,0,D
+2004-05-08,2003,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+2004-08-14,2004,Tottenham Hotspur,Liverpool,1-1,1,1,1,1,2,0,D
+2004-08-15,2004,Chelsea,Manchester United,1-0,1,0,1,1,1,1,H
+2004-08-21,2004,Liverpool,Manchester City,2-1,2,1,1,1,3,1,H
+2004-09-19,2004,Chelsea,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+2004-09-20,2004,Manchester United,Liverpool,2-1,2,1,1,1,3,1,H
+2004-09-25,2004,Manchester City,Arsenal,0-1,0,1,1,1,1,-1,A
+2004-09-25,2004,Tottenham Hotspur,Manchester United,0-1,0,1,1,1,1,-1,A
+2004-10-03,2004,Chelsea,Liverpool,1-0,1,0,1,1,1,1,H
+2004-10-16,2004,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+2004-10-24,2004,Manchester United,Arsenal,2-0,2,0,1,1,2,2,H
+2004-11-07,2004,Manchester United,Manchester City,0-0,0,0,1,1,0,0,D
+2004-11-13,2004,Tottenham Hotspur,Arsenal,4-5,4,5,1,1,9,-1,A
+2004-11-28,2004,Liverpool,Arsenal,2-1,2,1,1,1,3,1,H
+2004-12-11,2004,Manchester City,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+2004-12-12,2004,Arsenal,Chelsea,2-2,2,2,1,1,4,0,D
+2005-01-01,2004,Liverpool,Chelsea,0-1,0,1,1,1,1,-1,A
+2005-01-04,2004,Arsenal,Manchester City,1-1,1,1,1,1,2,0,D
+2005-01-04,2004,Manchester United,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+2005-01-15,2004,Liverpool,Manchester United,0-1,0,1,1,1,1,-1,A
+2005-01-15,2004,Tottenham Hotspur,Chelsea,0-2,0,2,1,1,2,-2,A
+2005-02-01,2004,Arsenal,Manchester United,2-4,2,4,1,1,6,-2,A
+2005-02-06,2004,Chelsea,Manchester City,0-0,0,0,1,1,0,0,D
+2005-02-13,2004,Manchester City,Manchester United,0-2,0,2,1,1,2,-2,A
+2005-03-19,2004,Tottenham Hotspur,Manchester City,2-1,2,1,1,1,3,1,H
+2005-04-09,2004,Manchester City,Liverpool,1-0,1,0,1,1,1,1,H
+2005-04-16,2004,Liverpool,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+2005-04-20,2004,Chelsea,Arsenal,0-0,0,0,1,1,0,0,D
+2005-04-25,2004,Arsenal,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2005-05-08,2004,Arsenal,Liverpool,3-1,3,1,1,1,4,2,H
+2005-05-10,2004,Manchester United,Chelsea,1-3,1,3,1,1,4,-2,A
+2005-08-21,2005,Chelsea,Arsenal,1-0,1,0,1,1,1,1,H
+2005-08-27,2005,Tottenham Hotspur,Chelsea,0-2,0,2,1,1,2,-2,A
+2005-09-10,2005,Manchester United,Manchester City,1-1,1,1,1,1,2,0,D
+2005-09-10,2005,Tottenham Hotspur,Liverpool,0-0,0,0,1,1,0,0,D
+2005-09-18,2005,Liverpool,Manchester United,0-0,0,0,1,1,0,0,D
+2005-10-02,2005,Liverpool,Chelsea,1-4,1,4,1,1,5,-3,A
+2005-10-22,2005,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+2005-10-22,2005,Manchester United,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+2005-10-29,2005,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+2005-11-06,2005,Manchester United,Chelsea,1-0,1,0,1,1,1,1,H
+2005-11-26,2005,Manchester City,Liverpool,0-1,0,1,1,1,1,-1,A
+2005-12-18,2005,Arsenal,Chelsea,0-2,0,2,1,1,2,-2,A
+2005-12-28,2005,Manchester City,Chelsea,0-1,0,1,1,1,1,-1,A
+2006-01-03,2005,Arsenal,Manchester United,0-0,0,0,1,1,0,0,D
+2006-01-04,2005,Manchester City,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+2006-01-14,2005,Liverpool,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2006-01-14,2005,Manchester City,Manchester United,3-1,3,1,1,1,4,2,H
+2006-01-22,2005,Manchester United,Liverpool,1-0,1,0,1,1,1,1,H
+2006-02-05,2005,Chelsea,Liverpool,2-0,2,0,1,1,2,2,H
+2006-02-14,2005,Liverpool,Arsenal,1-0,1,0,1,1,1,1,H
+2006-02-26,2005,Liverpool,Manchester City,1-0,1,0,1,1,1,1,H
+2006-03-11,2005,Chelsea,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2006-03-12,2005,Arsenal,Liverpool,2-1,2,1,1,1,3,1,H
+2006-03-25,2005,Chelsea,Manchester City,2-0,2,0,1,1,2,2,H
+2006-04-08,2005,Tottenham Hotspur,Manchester City,2-1,2,1,1,1,3,1,H
+2006-04-09,2005,Manchester United,Arsenal,2-0,2,0,1,1,2,2,H
+2006-04-17,2005,Tottenham Hotspur,Manchester United,1-2,1,2,1,1,3,-1,A
+2006-04-22,2005,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+2006-04-29,2005,Chelsea,Manchester United,3-0,3,0,1,1,3,3,H
+2006-05-04,2005,Manchester City,Arsenal,1-3,1,3,1,1,4,-2,A
+2006-08-20,2006,Chelsea,Manchester City,3-0,3,0,1,1,3,3,H
+2006-08-26,2006,Manchester City,Arsenal,1-0,1,0,1,1,1,1,H
+2006-09-09,2006,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2006-09-17,2006,Chelsea,Liverpool,1-0,1,0,1,1,1,1,H
+2006-09-17,2006,Manchester United,Arsenal,0-1,0,1,1,1,1,-1,A
+2006-09-23,2006,Liverpool,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+2006-10-22,2006,Manchester United,Liverpool,2-0,2,0,1,1,2,2,H
+2006-11-05,2006,Tottenham Hotspur,Chelsea,2-1,2,1,1,1,3,1,H
+2006-11-12,2006,Arsenal,Liverpool,3-0,3,0,1,1,3,3,H
+2006-11-25,2006,Liverpool,Manchester City,1-0,1,0,1,1,1,1,H
+2006-11-26,2006,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+2006-12-02,2006,Arsenal,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+2006-12-09,2006,Manchester United,Manchester City,3-1,3,1,1,1,4,2,H
+2006-12-10,2006,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+2006-12-17,2006,Manchester City,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+2006-12-30,2006,Tottenham Hotspur,Liverpool,0-1,0,1,1,1,1,-1,A
+2007-01-20,2006,Liverpool,Chelsea,2-0,2,0,1,1,2,2,H
+2007-01-21,2006,Arsenal,Manchester United,2-1,2,1,1,1,3,1,H
+2007-02-04,2006,Tottenham Hotspur,Manchester United,0-4,0,4,1,1,4,-4,A
+2007-03-03,2006,Liverpool,Manchester United,0-1,0,1,1,1,1,-1,A
+2007-03-14,2006,Manchester City,Chelsea,0-1,0,1,1,1,1,-1,A
+2007-03-31,2006,Liverpool,Arsenal,4-1,4,1,1,1,5,3,H
+2007-04-07,2006,Chelsea,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2007-04-14,2006,Manchester City,Liverpool,0-0,0,0,1,1,0,0,D
+2007-04-17,2006,Arsenal,Manchester City,3-1,3,1,1,1,4,2,H
+2007-04-21,2006,Tottenham Hotspur,Arsenal,2-2,2,2,1,1,4,0,D
+2007-05-05,2006,Manchester City,Manchester United,0-1,0,1,1,1,1,-1,A
+2007-05-06,2006,Arsenal,Chelsea,1-1,1,1,1,1,2,0,D
+2007-05-09,2006,Chelsea,Manchester United,0-0,0,0,1,1,0,0,D
+2007-05-13,2006,Tottenham Hotspur,Manchester City,2-1,2,1,1,1,3,1,H
+2007-08-19,2007,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+2007-08-19,2007,Manchester City,Manchester United,1-0,1,0,1,1,1,1,H
+2007-08-25,2007,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+2007-08-26,2007,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2007-09-15,2007,Tottenham Hotspur,Arsenal,1-3,1,3,1,1,4,-2,A
+2007-09-23,2007,Manchester United,Chelsea,2-0,2,0,1,1,2,2,H
+2007-10-07,2007,Liverpool,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+2007-10-27,2007,Chelsea,Manchester City,6-0,6,0,1,1,6,6,H
+2007-10-28,2007,Liverpool,Arsenal,1-1,1,1,1,1,2,0,D
+2007-11-03,2007,Arsenal,Manchester United,2-2,2,2,1,1,4,0,D
+2007-12-09,2007,Tottenham Hotspur,Manchester City,2-1,2,1,1,1,3,1,H
+2007-12-16,2007,Arsenal,Chelsea,1-0,1,0,1,1,1,1,H
+2007-12-16,2007,Liverpool,Manchester United,0-1,0,1,1,1,1,-1,A
+2007-12-22,2007,Arsenal,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2007-12-30,2007,Manchester City,Liverpool,0-0,0,0,1,1,0,0,D
+2008-01-12,2007,Chelsea,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+2008-02-02,2007,Manchester City,Arsenal,1-3,1,3,1,1,4,-2,A
+2008-02-02,2007,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+2008-02-10,2007,Chelsea,Liverpool,0-0,0,0,1,1,0,0,D
+2008-02-10,2007,Manchester United,Manchester City,1-2,1,2,1,1,3,-1,A
+2008-03-16,2007,Manchester City,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2008-03-19,2007,Tottenham Hotspur,Chelsea,4-4,4,4,1,1,8,0,D
+2008-03-23,2007,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+2008-03-23,2007,Manchester United,Liverpool,3-0,3,0,1,1,3,3,H
+2008-04-05,2007,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+2008-04-05,2007,Manchester City,Chelsea,0-2,0,2,1,1,2,-2,A
+2008-04-13,2007,Manchester United,Arsenal,2-1,2,1,1,1,3,1,H
+2008-04-26,2007,Chelsea,Manchester United,2-1,2,1,1,1,3,1,H
+2008-05-04,2007,Liverpool,Manchester City,1-0,1,0,1,1,1,1,H
+2008-05-11,2007,Tottenham Hotspur,Liverpool,0-2,0,2,1,1,2,-2,A
+2008-08-31,2008,Chelsea,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+2008-09-13,2008,Liverpool,Manchester United,2-1,2,1,1,1,3,1,H
+2008-09-13,2008,Manchester City,Chelsea,1-3,1,3,1,1,4,-2,A
+2008-09-21,2008,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+2008-10-05,2008,Manchester City,Liverpool,2-3,2,3,1,1,5,-1,A
+2008-10-26,2008,Chelsea,Liverpool,0-1,0,1,1,1,1,-1,A
+2008-10-29,2008,Arsenal,Tottenham Hotspur,4-4,4,4,1,1,8,0,D
+2008-11-01,2008,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+2008-11-08,2008,Arsenal,Manchester United,2-1,2,1,1,1,3,1,H
+2008-11-09,2008,Manchester City,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+2008-11-22,2008,Manchester City,Arsenal,3-0,3,0,1,1,3,3,H
+2008-11-30,2008,Chelsea,Arsenal,1-2,1,2,1,1,3,-1,A
+2008-11-30,2008,Manchester City,Manchester United,0-1,0,1,1,1,1,-1,A
+2008-12-13,2008,Tottenham Hotspur,Manchester United,0-0,0,0,1,1,0,0,D
+2008-12-21,2008,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+2009-01-11,2008,Manchester United,Chelsea,3-0,3,0,1,1,3,3,H
+2009-02-01,2008,Liverpool,Chelsea,2-0,2,0,1,1,2,2,H
+2009-02-08,2008,Tottenham Hotspur,Arsenal,0-0,0,0,1,1,0,0,D
+2009-02-22,2008,Liverpool,Manchester City,1-1,1,1,1,1,2,0,D
+2009-03-14,2008,Manchester United,Liverpool,1-4,1,4,1,1,5,-3,A
+2009-03-15,2008,Chelsea,Manchester City,1-0,1,0,1,1,1,1,H
+2009-03-21,2008,Tottenham Hotspur,Chelsea,1-0,1,0,1,1,1,1,H
+2009-04-04,2008,Arsenal,Manchester City,2-0,2,0,1,1,2,2,H
+2009-04-21,2008,Liverpool,Arsenal,4-4,4,4,1,1,8,0,D
+2009-04-25,2008,Manchester United,Tottenham Hotspur,5-2,5,2,1,1,7,3,H
+2009-05-10,2008,Arsenal,Chelsea,1-4,1,4,1,1,5,-3,A
+2009-05-10,2008,Manchester United,Manchester City,2-0,2,0,1,1,2,2,H
+2009-05-16,2008,Manchester United,Arsenal,0-0,0,0,1,1,0,0,D
+2009-05-16,2008,Tottenham Hotspur,Manchester City,2-1,2,1,1,1,3,1,H
+2009-05-24,2008,Liverpool,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+2009-08-16,2009,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+2009-08-29,2009,Manchester United,Arsenal,2-1,2,1,1,1,3,1,H
+2009-09-12,2009,Manchester City,Arsenal,4-2,4,2,1,1,6,2,H
+2009-09-12,2009,Tottenham Hotspur,Manchester United,1-3,1,3,1,1,4,-2,A
+2009-09-20,2009,Chelsea,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+2009-09-20,2009,Manchester United,Manchester City,4-3,4,3,1,1,7,1,H
+2009-10-04,2009,Chelsea,Liverpool,2-0,2,0,1,1,2,2,H
+2009-10-25,2009,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+2009-10-31,2009,Arsenal,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+2009-11-08,2009,Chelsea,Manchester United,1-0,1,0,1,1,1,1,H
+2009-11-21,2009,Liverpool,Manchester City,2-2,2,2,1,1,4,0,D
+2009-11-29,2009,Arsenal,Chelsea,0-3,0,3,1,1,3,-3,A
+2009-12-05,2009,Manchester City,Chelsea,2-1,2,1,1,1,3,1,H
+2009-12-13,2009,Liverpool,Arsenal,1-2,1,2,1,1,3,-1,A
+2009-12-16,2009,Tottenham Hotspur,Manchester City,3-0,3,0,1,1,3,3,H
+2010-01-20,2009,Liverpool,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+2010-01-31,2009,Arsenal,Manchester United,1-3,1,3,1,1,4,-2,A
+2010-02-07,2009,Chelsea,Arsenal,2-0,2,0,1,1,2,2,H
+2010-02-10,2009,Arsenal,Liverpool,1-0,1,0,1,1,1,1,H
+2010-02-21,2009,Manchester City,Liverpool,0-0,0,0,1,1,0,0,D
+2010-02-27,2009,Chelsea,Manchester City,2-4,2,4,1,1,6,-2,A
+2010-03-21,2009,Manchester United,Liverpool,2-1,2,1,1,1,3,1,H
+2010-04-03,2009,Manchester United,Chelsea,1-2,1,2,1,1,3,-1,A
+2010-04-14,2009,Tottenham Hotspur,Arsenal,2-1,2,1,1,1,3,1,H
+2010-04-17,2009,Manchester City,Manchester United,0-1,0,1,1,1,1,-1,A
+2010-04-17,2009,Tottenham Hotspur,Chelsea,2-1,2,1,1,1,3,1,H
+2010-04-24,2009,Arsenal,Manchester City,0-0,0,0,1,1,0,0,D
+2010-04-24,2009,Manchester United,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+2010-05-02,2009,Liverpool,Chelsea,0-2,0,2,1,1,2,-2,A
+2010-05-05,2009,Manchester City,Tottenham Hotspur,0-1,0,1,1,1,1,-1,A
+2010-08-14,2010,Tottenham Hotspur,Manchester City,0-0,0,0,1,1,0,0,D
+2010-08-15,2010,Liverpool,Arsenal,1-1,1,1,1,1,2,0,D
+2010-08-23,2010,Manchester City,Liverpool,3-0,3,0,1,1,3,3,H
+2010-09-19,2010,Manchester United,Liverpool,3-2,3,2,1,1,5,1,H
+2010-09-25,2010,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+2010-10-03,2010,Chelsea,Arsenal,2-0,2,0,1,1,2,2,H
+2010-10-24,2010,Manchester City,Arsenal,0-3,0,3,1,1,3,-3,A
+2010-10-30,2010,Manchester United,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+2010-11-07,2010,Liverpool,Chelsea,2-0,2,0,1,1,2,2,H
+2010-11-10,2010,Manchester City,Manchester United,0-0,0,0,1,1,0,0,D
+2010-11-20,2010,Arsenal,Tottenham Hotspur,2-3,2,3,1,1,5,-1,A
+2010-11-28,2010,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+2010-12-12,2010,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+2010-12-13,2010,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+2010-12-27,2010,Arsenal,Chelsea,3-1,3,1,1,1,4,2,H
+2011-01-05,2010,Arsenal,Manchester City,0-0,0,0,1,1,0,0,D
+2011-01-16,2010,Tottenham Hotspur,Manchester United,0-0,0,0,1,1,0,0,D
+2011-02-06,2010,Chelsea,Liverpool,0-1,0,1,1,1,1,-1,A
+2011-02-12,2010,Manchester United,Manchester City,2-1,2,1,1,1,3,1,H
+2011-03-01,2010,Chelsea,Manchester United,2-1,2,1,1,1,3,1,H
+2011-03-06,2010,Liverpool,Manchester United,3-1,3,1,1,1,4,2,H
+2011-03-20,2010,Chelsea,Manchester City,2-0,2,0,1,1,2,2,H
+2011-04-11,2010,Liverpool,Manchester City,3-0,3,0,1,1,3,3,H
+2011-04-17,2010,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+2011-04-20,2010,Tottenham Hotspur,Arsenal,3-3,3,3,1,1,6,0,D
+2011-04-30,2010,Chelsea,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2011-05-01,2010,Arsenal,Manchester United,1-0,1,0,1,1,1,1,H
+2011-05-08,2010,Manchester United,Chelsea,2-1,2,1,1,1,3,1,H
+2011-05-10,2010,Manchester City,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2011-05-15,2010,Liverpool,Tottenham Hotspur,0-2,0,2,1,1,2,-2,A
+2011-08-20,2011,Arsenal,Liverpool,0-2,0,2,1,1,2,-2,A
+2011-08-22,2011,Manchester United,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+2011-08-28,2011,Manchester United,Arsenal,8-2,8,2,1,1,10,6,H
+2011-08-28,2011,Tottenham Hotspur,Manchester City,1-5,1,5,1,1,6,-4,A
+2011-09-18,2011,Manchester United,Chelsea,3-1,3,1,1,1,4,2,H
+2011-09-18,2011,Tottenham Hotspur,Liverpool,4-0,4,0,1,1,4,4,H
+2011-10-02,2011,Tottenham Hotspur,Arsenal,2-1,2,1,1,1,3,1,H
+2011-10-15,2011,Liverpool,Manchester United,1-1,1,1,1,1,2,0,D
+2011-10-23,2011,Manchester United,Manchester City,1-6,1,6,1,1,7,-5,A
+2011-10-29,2011,Chelsea,Arsenal,3-5,3,5,1,1,8,-2,A
+2011-11-20,2011,Chelsea,Liverpool,1-2,1,2,1,1,3,-1,A
+2011-11-27,2011,Liverpool,Manchester City,1-1,1,1,1,1,2,0,D
+2011-12-12,2011,Chelsea,Manchester City,2-1,2,1,1,1,3,1,H
+2011-12-18,2011,Manchester City,Arsenal,1-0,1,0,1,1,1,1,H
+2011-12-22,2011,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+2012-01-03,2011,Manchester City,Liverpool,3-0,3,0,1,1,3,3,H
+2012-01-22,2011,Arsenal,Manchester United,1-2,1,2,1,1,3,-1,A
+2012-01-22,2011,Manchester City,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+2012-02-05,2011,Chelsea,Manchester United,3-3,3,3,1,1,6,0,D
+2012-02-06,2011,Liverpool,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+2012-02-11,2011,Manchester United,Liverpool,2-1,2,1,1,1,3,1,H
+2012-02-26,2011,Arsenal,Tottenham Hotspur,5-2,5,2,1,1,7,3,H
+2012-03-03,2011,Liverpool,Arsenal,1-2,1,2,1,1,3,-1,A
+2012-03-04,2011,Tottenham Hotspur,Manchester United,1-3,1,3,1,1,4,-2,A
+2012-03-21,2011,Manchester City,Chelsea,2-1,2,1,1,1,3,1,H
+2012-03-24,2011,Chelsea,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+2012-04-08,2011,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+2012-04-21,2011,Arsenal,Chelsea,0-0,0,0,1,1,0,0,D
+2012-04-30,2011,Manchester City,Manchester United,1-0,1,0,1,1,1,1,H
+2012-05-08,2011,Liverpool,Chelsea,4-1,4,1,1,1,5,3,H
+2012-08-26,2012,Liverpool,Manchester City,2-2,2,2,1,1,4,0,D
+2012-09-02,2012,Liverpool,Arsenal,0-2,0,2,1,1,2,-2,A
+2012-09-23,2012,Liverpool,Manchester United,1-2,1,2,1,1,3,-1,A
+2012-09-23,2012,Manchester City,Arsenal,1-1,1,1,1,1,2,0,D
+2012-09-29,2012,Arsenal,Chelsea,1-2,1,2,1,1,3,-1,A
+2012-09-29,2012,Manchester United,Tottenham Hotspur,2-3,2,3,1,1,5,-1,A
+2012-10-20,2012,Tottenham Hotspur,Chelsea,2-4,2,4,1,1,6,-2,A
+2012-10-28,2012,Chelsea,Manchester United,2-3,2,3,1,1,5,-1,A
+2012-11-03,2012,Manchester United,Arsenal,2-1,2,1,1,1,3,1,H
+2012-11-11,2012,Chelsea,Liverpool,1-1,1,1,1,1,2,0,D
+2012-11-11,2012,Manchester City,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2012-11-17,2012,Arsenal,Tottenham Hotspur,5-2,5,2,1,1,7,3,H
+2012-11-25,2012,Chelsea,Manchester City,0-0,0,0,1,1,0,0,D
+2012-11-28,2012,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+2012-12-09,2012,Manchester City,Manchester United,2-3,2,3,1,1,5,-1,A
+2013-01-13,2012,Arsenal,Manchester City,0-2,0,2,1,1,2,-2,A
+2013-01-13,2012,Manchester United,Liverpool,2-1,2,1,1,1,3,1,H
+2013-01-20,2012,Chelsea,Arsenal,2-1,2,1,1,1,3,1,H
+2013-01-20,2012,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+2013-01-30,2012,Arsenal,Liverpool,2-2,2,2,1,1,4,0,D
+2013-02-03,2012,Manchester City,Liverpool,2-2,2,2,1,1,4,0,D
+2013-02-24,2012,Manchester City,Chelsea,2-0,2,0,1,1,2,2,H
+2013-03-03,2012,Tottenham Hotspur,Arsenal,2-1,2,1,1,1,3,1,H
+2013-03-10,2012,Liverpool,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+2013-04-08,2012,Manchester United,Manchester City,1-2,1,2,1,1,3,-1,A
+2013-04-21,2012,Liverpool,Chelsea,2-2,2,2,1,1,4,0,D
+2013-04-21,2012,Tottenham Hotspur,Manchester City,3-1,3,1,1,1,4,2,H
+2013-04-28,2012,Arsenal,Manchester United,1-1,1,1,1,1,2,0,D
+2013-05-05,2012,Manchester United,Chelsea,0-1,0,1,1,1,1,-1,A
+2013-05-08,2012,Chelsea,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+2013-08-26,2013,Manchester United,Chelsea,0-0,0,0,1,1,0,0,D
+2013-09-01,2013,Arsenal,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2013-09-01,2013,Liverpool,Manchester United,1-0,1,0,1,1,1,1,H
+2013-09-22,2013,Manchester City,Manchester United,4-1,4,1,1,1,5,3,H
+2013-09-28,2013,Tottenham Hotspur,Chelsea,1-1,1,1,1,1,2,0,D
+2013-10-27,2013,Chelsea,Manchester City,2-1,2,1,1,1,3,1,H
+2013-11-02,2013,Arsenal,Liverpool,2-0,2,0,1,1,2,2,H
+2013-11-10,2013,Manchester United,Arsenal,1-0,1,0,1,1,1,1,H
+2013-11-24,2013,Manchester City,Tottenham Hotspur,6-0,6,0,1,1,6,6,H
+2013-12-01,2013,Tottenham Hotspur,Manchester United,2-2,2,2,1,1,4,0,D
+2013-12-14,2013,Manchester City,Arsenal,6-3,6,3,1,1,9,3,H
+2013-12-15,2013,Tottenham Hotspur,Liverpool,0-5,0,5,1,1,5,-5,A
+2013-12-23,2013,Arsenal,Chelsea,0-0,0,0,1,1,0,0,D
+2013-12-26,2013,Manchester City,Liverpool,2-1,2,1,1,1,3,1,H
+2013-12-29,2013,Chelsea,Liverpool,2-1,2,1,1,1,3,1,H
+2014-01-01,2013,Manchester United,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+2014-01-19,2013,Chelsea,Manchester United,3-1,3,1,1,1,4,2,H
+2014-01-29,2013,Tottenham Hotspur,Manchester City,1-5,1,5,1,1,6,-4,A
+2014-02-03,2013,Manchester City,Chelsea,0-1,0,1,1,1,1,-1,A
+2014-02-08,2013,Liverpool,Arsenal,5-1,5,1,1,1,6,4,H
+2014-02-12,2013,Arsenal,Manchester United,0-0,0,0,1,1,0,0,D
+2014-03-08,2013,Chelsea,Tottenham Hotspur,4-0,4,0,1,1,4,4,H
+2014-03-16,2013,Manchester United,Liverpool,0-3,0,3,1,1,3,-3,A
+2014-03-16,2013,Tottenham Hotspur,Arsenal,0-1,0,1,1,1,1,-1,A
+2014-03-22,2013,Chelsea,Arsenal,6-0,6,0,1,1,6,6,H
+2014-03-25,2013,Manchester United,Manchester City,0-3,0,3,1,1,3,-3,A
+2014-03-29,2013,Arsenal,Manchester City,1-1,1,1,1,1,2,0,D
+2014-03-30,2013,Liverpool,Tottenham Hotspur,4-0,4,0,1,1,4,4,H
+2014-04-13,2013,Liverpool,Manchester City,3-2,3,2,1,1,5,1,H
+2014-04-27,2013,Liverpool,Chelsea,0-2,0,2,1,1,2,-2,A
+2014-08-25,2014,Manchester City,Liverpool,3-1,3,1,1,1,4,2,H
+2014-08-31,2014,Tottenham Hotspur,Liverpool,0-3,0,3,1,1,3,-3,A
+2014-09-13,2014,Arsenal,Manchester City,2-2,2,2,1,1,4,0,D
+2014-09-21,2014,Manchester City,Chelsea,1-1,1,1,1,1,2,0,D
+2014-09-27,2014,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+2014-10-05,2014,Chelsea,Arsenal,2-0,2,0,1,1,2,2,H
+2014-10-18,2014,Manchester City,Tottenham Hotspur,4-1,4,1,1,1,5,3,H
+2014-10-26,2014,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+2014-11-02,2014,Manchester City,Manchester United,1-0,1,0,1,1,1,1,H
+2014-11-08,2014,Liverpool,Chelsea,1-2,1,2,1,1,3,-1,A
+2014-11-22,2014,Arsenal,Manchester United,1-2,1,2,1,1,3,-1,A
+2014-12-03,2014,Chelsea,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+2014-12-14,2014,Manchester United,Liverpool,3-0,3,0,1,1,3,3,H
+2014-12-21,2014,Liverpool,Arsenal,2-2,2,2,1,1,4,0,D
+2014-12-28,2014,Tottenham Hotspur,Manchester United,0-0,0,0,1,1,0,0,D
+2015-01-01,2014,Tottenham Hotspur,Chelsea,5-3,5,3,1,1,8,2,H
+2015-01-18,2014,Manchester City,Arsenal,0-2,0,2,1,1,2,-2,A
+2015-01-31,2014,Chelsea,Manchester City,1-1,1,1,1,1,2,0,D
+2015-02-07,2014,Tottenham Hotspur,Arsenal,2-1,2,1,1,1,3,1,H
+2015-02-10,2014,Liverpool,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+2015-03-01,2014,Liverpool,Manchester City,2-1,2,1,1,1,3,1,H
+2015-03-15,2014,Manchester United,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+2015-03-22,2014,Liverpool,Manchester United,1-2,1,2,1,1,3,-1,A
+2015-04-04,2014,Arsenal,Liverpool,4-1,4,1,1,1,5,3,H
+2015-04-12,2014,Manchester United,Manchester City,4-2,4,2,1,1,6,2,H
+2015-04-18,2014,Chelsea,Manchester United,1-0,1,0,1,1,1,1,H
+2015-04-26,2014,Arsenal,Chelsea,0-0,0,0,1,1,0,0,D
+2015-05-03,2014,Tottenham Hotspur,Manchester City,0-1,0,1,1,1,1,-1,A
+2015-05-10,2014,Chelsea,Liverpool,1-1,1,1,1,1,2,0,D
+2015-05-17,2014,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+2015-08-08,2015,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2015-08-16,2015,Manchester City,Chelsea,3-0,3,0,1,1,3,3,H
+2015-08-24,2015,Arsenal,Liverpool,0-0,0,0,1,1,0,0,D
+2015-09-12,2015,Manchester United,Liverpool,3-1,3,1,1,1,4,2,H
+2015-09-19,2015,Chelsea,Arsenal,2-0,2,0,1,1,2,2,H
+2015-09-26,2015,Tottenham Hotspur,Manchester City,4-1,4,1,1,1,5,3,H
+2015-10-04,2015,Arsenal,Manchester United,3-0,3,0,1,1,3,3,H
+2015-10-17,2015,Tottenham Hotspur,Liverpool,0-0,0,0,1,1,0,0,D
+2015-10-25,2015,Manchester United,Manchester City,0-0,0,0,1,1,0,0,D
+2015-10-31,2015,Chelsea,Liverpool,1-3,1,3,1,1,4,-2,A
+2015-11-08,2015,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+2015-11-21,2015,Manchester City,Liverpool,1-4,1,4,1,1,5,-3,A
+2015-11-29,2015,Tottenham Hotspur,Chelsea,0-0,0,0,1,1,0,0,D
+2015-12-21,2015,Arsenal,Manchester City,2-1,2,1,1,1,3,1,H
+2015-12-28,2015,Manchester United,Chelsea,0-0,0,0,1,1,0,0,D
+2016-01-13,2015,Liverpool,Arsenal,3-3,3,3,1,1,6,0,D
+2016-01-17,2015,Liverpool,Manchester United,0-1,0,1,1,1,1,-1,A
+2016-01-24,2015,Arsenal,Chelsea,0-1,0,1,1,1,1,-1,A
+2016-02-07,2015,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+2016-02-14,2015,Manchester City,Tottenham Hotspur,1-2,1,2,1,1,3,-1,A
+2016-02-28,2015,Manchester United,Arsenal,3-2,3,2,1,1,5,1,H
+2016-03-02,2015,Liverpool,Manchester City,3-0,3,0,1,1,3,3,H
+2016-03-05,2015,Tottenham Hotspur,Arsenal,2-2,2,2,1,1,4,0,D
+2016-03-20,2015,Manchester City,Manchester United,0-1,0,1,1,1,1,-1,A
+2016-04-02,2015,Liverpool,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+2016-04-10,2015,Tottenham Hotspur,Manchester United,3-0,3,0,1,1,3,3,H
+2016-04-16,2015,Chelsea,Manchester City,0-3,0,3,1,1,3,-3,A
+2016-05-02,2015,Chelsea,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+2016-05-08,2015,Manchester City,Arsenal,2-2,2,2,1,1,4,0,D
+2016-05-11,2015,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+2016-08-14,2016,Arsenal,Liverpool,3-4,3,4,1,1,7,-1,A
+2016-08-27,2016,Tottenham Hotspur,Liverpool,1-1,1,1,1,1,2,0,D
+2016-09-10,2016,Manchester United,Manchester City,1-2,1,2,1,1,3,-1,A
+2016-09-16,2016,Chelsea,Liverpool,1-2,1,2,1,1,3,-1,A
+2016-09-24,2016,Arsenal,Chelsea,3-0,3,0,1,1,3,3,H
+2016-10-02,2016,Tottenham Hotspur,Manchester City,2-0,2,0,1,1,2,2,H
+2016-10-17,2016,Liverpool,Manchester United,0-0,0,0,1,1,0,0,D
+2016-10-23,2016,Chelsea,Manchester United,4-0,4,0,1,1,4,4,H
+2016-11-06,2016,Arsenal,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+2016-11-19,2016,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+2016-11-26,2016,Chelsea,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2016-12-03,2016,Manchester City,Chelsea,1-3,1,3,1,1,4,-2,A
+2016-12-11,2016,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2016-12-18,2016,Manchester City,Arsenal,2-1,2,1,1,1,3,1,H
+2016-12-31,2016,Liverpool,Manchester City,1-0,1,0,1,1,1,1,H
+2017-01-04,2016,Tottenham Hotspur,Chelsea,2-0,2,0,1,1,2,2,H
+2017-01-15,2016,Manchester United,Liverpool,1-1,1,1,1,1,2,0,D
+2017-01-21,2016,Manchester City,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+2017-01-31,2016,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+2017-02-04,2016,Chelsea,Arsenal,3-1,3,1,1,1,4,2,H
+2017-02-11,2016,Liverpool,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+2017-03-04,2016,Liverpool,Arsenal,3-1,3,1,1,1,4,2,H
+2017-03-19,2016,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+2017-04-02,2016,Arsenal,Manchester City,2-2,2,2,1,1,4,0,D
+2017-04-05,2016,Chelsea,Manchester City,2-1,2,1,1,1,3,1,H
+2017-04-16,2016,Manchester United,Chelsea,2-0,2,0,1,1,2,2,H
+2017-04-27,2016,Manchester City,Manchester United,0-0,0,0,1,1,0,0,D
+2017-04-30,2016,Tottenham Hotspur,Arsenal,2-0,2,0,1,1,2,2,H
+2017-05-07,2016,Arsenal,Manchester United,2-0,2,0,1,1,2,2,H
+2017-05-14,2016,Tottenham Hotspur,Manchester United,2-1,2,1,1,1,3,1,H
+2017-08-20,2017,Tottenham Hotspur,Chelsea,1-2,1,2,1,1,3,-1,A
+2017-08-27,2017,Liverpool,Arsenal,4-0,4,0,1,1,4,4,H
+2017-09-09,2017,Manchester City,Liverpool,5-0,5,0,1,1,5,5,H
+2017-09-17,2017,Chelsea,Arsenal,0-0,0,0,1,1,0,0,D
+2017-09-30,2017,Chelsea,Manchester City,0-1,0,1,1,1,1,-1,A
+2017-10-14,2017,Liverpool,Manchester United,0-0,0,0,1,1,0,0,D
+2017-10-22,2017,Tottenham Hotspur,Liverpool,4-1,4,1,1,1,5,3,H
+2017-10-28,2017,Manchester United,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2017-11-05,2017,Chelsea,Manchester United,1-0,1,0,1,1,1,1,H
+2017-11-05,2017,Manchester City,Arsenal,3-1,3,1,1,1,4,2,H
+2017-11-18,2017,Arsenal,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+2017-11-25,2017,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+2017-12-02,2017,Arsenal,Manchester United,1-3,1,3,1,1,4,-2,A
+2017-12-10,2017,Manchester United,Manchester City,1-2,1,2,1,1,3,-1,A
+2017-12-16,2017,Manchester City,Tottenham Hotspur,4-1,4,1,1,1,5,3,H
+2017-12-22,2017,Arsenal,Liverpool,3-3,3,3,1,1,6,0,D
+2018-01-03,2017,Arsenal,Chelsea,2-2,2,2,1,1,4,0,D
+2018-01-14,2017,Liverpool,Manchester City,4-3,4,3,1,1,7,1,H
+2018-01-31,2017,Tottenham Hotspur,Manchester United,2-0,2,0,1,1,2,2,H
+2018-02-04,2017,Liverpool,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+2018-02-10,2017,Tottenham Hotspur,Arsenal,1-0,1,0,1,1,1,1,H
+2018-02-25,2017,Manchester United,Chelsea,2-1,2,1,1,1,3,1,H
+2018-03-01,2017,Arsenal,Manchester City,0-3,0,3,1,1,3,-3,A
+2018-03-04,2017,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+2018-03-10,2017,Manchester United,Liverpool,2-1,2,1,1,1,3,1,H
+2018-04-01,2017,Chelsea,Tottenham Hotspur,1-3,1,3,1,1,4,-2,A
+2018-04-07,2017,Manchester City,Manchester United,2-3,2,3,1,1,5,-1,A
+2018-04-14,2017,Tottenham Hotspur,Manchester City,1-3,1,3,1,1,4,-2,A
+2018-04-29,2017,Manchester United,Arsenal,2-1,2,1,1,1,3,1,H
+2018-05-06,2017,Chelsea,Liverpool,1-0,1,0,1,1,1,1,H
+2018-08-12,2018,Arsenal,Manchester City,0-2,0,2,1,1,2,-2,A
+2018-08-18,2018,Chelsea,Arsenal,3-2,3,2,1,1,5,1,H
+2018-08-27,2018,Manchester United,Tottenham Hotspur,0-3,0,3,1,1,3,-3,A
+2018-09-15,2018,Tottenham Hotspur,Liverpool,1-2,1,2,1,1,3,-1,A
+2018-09-29,2018,Chelsea,Liverpool,1-1,1,1,1,1,2,0,D
+2018-10-07,2018,Liverpool,Manchester City,0-0,0,0,1,1,0,0,D
+2018-10-20,2018,Chelsea,Manchester United,2-2,2,2,1,1,4,0,D
+2018-10-29,2018,Tottenham Hotspur,Manchester City,0-1,0,1,1,1,1,-1,A
+2018-11-03,2018,Arsenal,Liverpool,1-1,1,1,1,1,2,0,D
+2018-11-11,2018,Manchester City,Manchester United,3-1,3,1,1,1,4,2,H
+2018-11-24,2018,Tottenham Hotspur,Chelsea,3-1,3,1,1,1,4,2,H
+2018-12-02,2018,Arsenal,Tottenham Hotspur,4-2,4,2,1,1,6,2,H
+2018-12-05,2018,Manchester United,Arsenal,2-2,2,2,1,1,4,0,D
+2018-12-08,2018,Chelsea,Manchester City,2-0,2,0,1,1,2,2,H
+2018-12-16,2018,Liverpool,Manchester United,3-1,3,1,1,1,4,2,H
+2018-12-29,2018,Liverpool,Arsenal,5-1,5,1,1,1,6,4,H
+2019-01-03,2018,Manchester City,Liverpool,2-1,2,1,1,1,3,1,H
+2019-01-13,2018,Tottenham Hotspur,Manchester United,0-1,0,1,1,1,1,-1,A
+2019-01-19,2018,Arsenal,Chelsea,2-0,2,0,1,1,2,2,H
+2019-02-03,2018,Manchester City,Arsenal,3-1,3,1,1,1,4,2,H
+2019-02-10,2018,Manchester City,Chelsea,6-0,6,0,1,1,6,6,H
+2019-02-24,2018,Manchester United,Liverpool,0-0,0,0,1,1,0,0,D
+2019-02-27,2018,Chelsea,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+2019-03-02,2018,Tottenham Hotspur,Arsenal,1-1,1,1,1,1,2,0,D
+2019-03-10,2018,Arsenal,Manchester United,2-0,2,0,1,1,2,2,H
+2019-03-31,2018,Liverpool,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2019-04-14,2018,Liverpool,Chelsea,2-0,2,0,1,1,2,2,H
+2019-04-20,2018,Manchester City,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2019-04-24,2018,Manchester United,Manchester City,0-2,0,2,1,1,2,-2,A
+2019-04-28,2018,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+2019-08-11,2019,Manchester United,Chelsea,4-0,4,0,1,1,4,4,H
+2019-08-17,2019,Manchester City,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+2019-08-24,2019,Liverpool,Arsenal,3-1,3,1,1,1,4,2,H
+2019-09-01,2019,Arsenal,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+2019-09-22,2019,Chelsea,Liverpool,1-2,1,2,1,1,3,-1,A
+2019-09-30,2019,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+2019-10-20,2019,Manchester United,Liverpool,1-1,1,1,1,1,2,0,D
+2019-10-27,2019,Liverpool,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2019-11-10,2019,Liverpool,Manchester City,3-1,3,1,1,1,4,2,H
+2019-11-23,2019,Manchester City,Chelsea,2-1,2,1,1,1,3,1,H
+2019-12-04,2019,Manchester United,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2019-12-07,2019,Manchester City,Manchester United,1-2,1,2,1,1,3,-1,A
+2019-12-15,2019,Arsenal,Manchester City,0-3,0,3,1,1,3,-3,A
+2019-12-22,2019,Tottenham Hotspur,Chelsea,0-2,0,2,1,1,2,-2,A
+2019-12-29,2019,Arsenal,Chelsea,1-2,1,2,1,1,3,-1,A
+2020-01-01,2019,Arsenal,Manchester United,2-0,2,0,1,1,2,2,H
+2020-01-11,2019,Tottenham Hotspur,Liverpool,0-1,0,1,1,1,1,-1,A
+2020-01-19,2019,Liverpool,Manchester United,2-0,2,0,1,1,2,2,H
+2020-01-21,2019,Chelsea,Arsenal,2-2,2,2,1,1,4,0,D
+2020-02-02,2019,Tottenham Hotspur,Manchester City,2-0,2,0,1,1,2,2,H
+2020-02-17,2019,Chelsea,Manchester United,0-2,0,2,1,1,2,-2,A
+2020-02-22,2019,Chelsea,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2020-03-08,2019,Manchester United,Manchester City,2-0,2,0,1,1,2,2,H
+2020-06-17,2019,Manchester City,Arsenal,3-0,3,0,1,1,3,3,H
+2020-06-19,2019,Tottenham Hotspur,Manchester United,1-1,1,1,1,1,2,0,D
+2020-06-25,2019,Chelsea,Manchester City,2-1,2,1,1,1,3,1,H
+2020-07-02,2019,Manchester City,Liverpool,4-0,4,0,1,1,4,4,H
+2020-07-12,2019,Tottenham Hotspur,Arsenal,2-1,2,1,1,1,3,1,H
+2020-07-15,2019,Arsenal,Liverpool,2-1,2,1,1,1,3,1,H
+2020-07-22,2019,Liverpool,Chelsea,5-3,5,3,1,1,8,2,H
+2020-09-20,2020,Chelsea,Liverpool,0-2,0,2,1,1,2,-2,A
+2020-09-28,2020,Liverpool,Arsenal,3-1,3,1,1,1,4,2,H
+2020-10-04,2020,Manchester United,Tottenham Hotspur,1-6,1,6,1,1,7,-5,A
+2020-10-17,2020,Manchester City,Arsenal,1-0,1,0,1,1,1,1,H
+2020-10-24,2020,Manchester United,Chelsea,0-0,0,0,1,1,0,0,D
+2020-11-01,2020,Manchester United,Arsenal,0-1,0,1,1,1,1,-1,A
+2020-11-08,2020,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+2020-11-21,2020,Tottenham Hotspur,Manchester City,2-0,2,0,1,1,2,2,H
+2020-11-29,2020,Chelsea,Tottenham Hotspur,0-0,0,0,1,1,0,0,D
+2020-12-06,2020,Tottenham Hotspur,Arsenal,2-0,2,0,1,1,2,2,H
+2020-12-12,2020,Manchester United,Manchester City,0-0,0,0,1,1,0,0,D
+2020-12-16,2020,Liverpool,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2020-12-26,2020,Arsenal,Chelsea,3-1,3,1,1,1,4,2,H
+2021-01-03,2020,Chelsea,Manchester City,1-3,1,3,1,1,4,-2,A
+2021-01-17,2020,Liverpool,Manchester United,0-0,0,0,1,1,0,0,D
+2021-01-28,2020,Tottenham Hotspur,Liverpool,1-3,1,3,1,1,4,-2,A
+2021-01-30,2020,Arsenal,Manchester United,0-0,0,0,1,1,0,0,D
+2021-02-04,2020,Tottenham Hotspur,Chelsea,0-1,0,1,1,1,1,-1,A
+2021-02-07,2020,Liverpool,Manchester City,1-4,1,4,1,1,5,-3,A
+2021-02-13,2020,Manchester City,Tottenham Hotspur,3-0,3,0,1,1,3,3,H
+2021-02-21,2020,Arsenal,Manchester City,0-1,0,1,1,1,1,-1,A
+2021-02-28,2020,Chelsea,Manchester United,0-0,0,0,1,1,0,0,D
+2021-03-04,2020,Liverpool,Chelsea,0-1,0,1,1,1,1,-1,A
+2021-03-07,2020,Manchester City,Manchester United,0-2,0,2,1,1,2,-2,A
+2021-03-14,2020,Arsenal,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2021-04-03,2020,Arsenal,Liverpool,0-3,0,3,1,1,3,-3,A
+2021-04-11,2020,Tottenham Hotspur,Manchester United,1-3,1,3,1,1,4,-2,A
+2021-05-08,2020,Manchester City,Chelsea,1-2,1,2,1,1,3,-1,A
+2021-05-12,2020,Chelsea,Arsenal,0-1,0,1,1,1,1,-1,A
+2021-05-13,2020,Manchester United,Liverpool,2-4,2,4,1,1,6,-2,A
+2021-08-15,2021,Tottenham Hotspur,Manchester City,1-0,1,0,1,1,1,1,H
+2021-08-22,2021,Arsenal,Chelsea,0-2,0,2,1,1,2,-2,A
+2021-08-28,2021,Manchester City,Arsenal,5-0,5,0,1,1,5,5,H
+2021-08-28,2021,Liverpool,Chelsea,1-1,1,1,1,1,2,0,D
+2021-09-19,2021,Tottenham Hotspur,Chelsea,0-3,0,3,1,1,3,-3,A
+2021-09-25,2021,Chelsea,Manchester City,0-1,0,1,1,1,1,-1,A
+2021-09-26,2021,Arsenal,Tottenham Hotspur,3-1,3,1,1,1,4,2,H
+2021-10-03,2021,Liverpool,Manchester City,2-2,2,2,1,1,4,0,D
+2021-10-24,2021,Manchester United,Liverpool,0-5,0,5,1,1,5,-5,A
+2021-10-30,2021,Tottenham Hotspur,Manchester United,0-3,0,3,1,1,3,-3,A
+2021-11-06,2021,Manchester United,Manchester City,0-2,0,2,1,1,2,-2,A
+2021-11-20,2021,Liverpool,Arsenal,4-0,4,0,1,1,4,4,H
+2021-11-28,2021,Chelsea,Manchester United,1-1,1,1,1,1,2,0,D
+2021-12-02,2021,Manchester United,Arsenal,3-2,3,2,1,1,5,1,H
+2021-12-19,2021,Tottenham Hotspur,Liverpool,2-2,2,2,1,1,4,0,D
+2022-01-01,2021,Arsenal,Manchester City,1-2,1,2,1,1,3,-1,A
+2022-01-02,2021,Chelsea,Liverpool,2-2,2,2,1,1,4,0,D
+2022-01-15,2021,Manchester City,Chelsea,1-0,1,0,1,1,1,1,H
+2022-01-23,2021,Chelsea,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+2022-02-19,2021,Manchester City,Tottenham Hotspur,2-3,2,3,1,1,5,-1,A
+2022-03-06,2021,Manchester City,Manchester United,4-1,4,1,1,1,5,3,H
+2022-03-12,2021,Manchester United,Tottenham Hotspur,3-2,3,2,1,1,5,1,H
+2022-03-16,2021,Arsenal,Liverpool,0-2,0,2,1,1,2,-2,A
+2022-04-10,2021,Manchester City,Liverpool,2-2,2,2,1,1,4,0,D
+2022-04-19,2021,Liverpool,Manchester United,4-0,4,0,1,1,4,4,H
+2022-04-20,2021,Chelsea,Arsenal,2-4,2,4,1,1,6,-2,A
+2022-04-23,2021,Arsenal,Manchester United,3-1,3,1,1,1,4,2,H
+2022-04-28,2021,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+2022-05-07,2021,Liverpool,Tottenham Hotspur,1-1,1,1,1,1,2,0,D
+2022-05-12,2021,Tottenham Hotspur,Arsenal,3-0,3,0,1,1,3,3,H
+2023-08-13,2023,Chelsea,Liverpool,1-1,1,1,1,1,2,0,D
+2023-08-19,2023,Tottenham Hotspur,Manchester United,2-0,2,0,1,1,2,2,H
+2023-09-03,2023,Arsenal,Manchester United,3-1,3,1,1,1,4,2,H
+2023-09-24,2023,Arsenal,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+2023-09-30,2023,Tottenham Hotspur,Liverpool,2-1,2,1,1,1,3,1,H
+2023-10-08,2023,Arsenal,Manchester City,1-0,1,0,1,1,1,1,H
+2023-10-21,2023,Chelsea,Arsenal,2-2,2,2,1,1,4,0,D
+2023-10-29,2023,Manchester United,Manchester City,0-3,0,3,1,1,3,-3,A
+2023-11-06,2023,Tottenham Hotspur,Chelsea,1-4,1,4,1,1,5,-3,A
+2023-11-12,2023,Chelsea,Manchester City,4-4,4,4,1,1,8,0,D
+2023-11-25,2023,Manchester City,Liverpool,1-1,1,1,1,1,2,0,D
+2023-12-03,2023,Manchester City,Tottenham Hotspur,3-3,3,3,1,1,6,0,D
+2023-12-06,2023,Manchester United,Chelsea,2-1,2,1,1,1,3,1,H
+2023-12-17,2023,Liverpool,Manchester United,0-0,0,0,1,1,0,0,D
+2023-12-23,2023,Liverpool,Arsenal,1-1,1,1,1,1,2,0,D
+2024-01-14,2023,Manchester United,Tottenham Hotspur,2-2,2,2,1,1,4,0,D
+2024-01-31,2023,Liverpool,Chelsea,4-1,4,1,1,1,5,3,H
+2024-02-04,2023,Arsenal,Liverpool,3-1,3,1,1,1,4,2,H
+2024-02-17,2023,Manchester City,Chelsea,1-1,1,1,1,1,2,0,D
+2024-03-03,2023,Manchester City,Manchester United,3-1,3,1,1,1,4,2,H
+2024-03-10,2023,Liverpool,Manchester City,1-1,1,1,1,1,2,0,D
+2024-03-31,2023,Manchester City,Arsenal,0-0,0,0,1,1,0,0,D
+2024-04-04,2023,Chelsea,Manchester United,4-3,4,3,1,1,7,1,H
+2024-04-07,2023,Manchester United,Liverpool,2-2,2,2,1,1,4,0,D
+2024-04-23,2023,Arsenal,Chelsea,5-0,5,0,1,1,5,5,H
+2024-04-28,2023,Tottenham Hotspur,Arsenal,2-3,2,3,1,1,5,-1,A
+2024-05-02,2023,Chelsea,Tottenham Hotspur,2-0,2,0,1,1,2,2,H
+2024-05-05,2023,Liverpool,Tottenham Hotspur,4-2,4,2,1,1,6,2,H
+2024-05-12,2023,Manchester United,Arsenal,0-1,0,1,1,1,1,-1,A
+2024-05-14,2023,Tottenham Hotspur,Manchester City,0-2,0,2,1,1,2,-2,A
+2024-08-18,2024,Chelsea,Manchester City,0-2,0,2,1,1,2,-2,A
+2024-09-01,2024,Manchester United,Liverpool,0-3,0,3,1,1,3,-3,A
+2024-09-15,2024,Tottenham Hotspur,Arsenal,0-1,0,1,1,1,1,-1,A
+2024-09-22,2024,Manchester City,Arsenal,2-2,2,2,1,1,4,0,D
+2024-09-29,2024,Manchester United,Tottenham Hotspur,0-3,0,3,1,1,3,-3,A
+2024-10-20,2024,Liverpool,Chelsea,2-1,2,1,1,1,3,1,H
+2024-10-27,2024,Arsenal,Liverpool,2-2,2,2,1,1,4,0,D
+2024-11-03,2024,Manchester United,Chelsea,1-1,1,1,1,1,2,0,D
+2024-11-10,2024,Chelsea,Arsenal,1-1,1,1,1,1,2,0,D
+2024-11-23,2024,Manchester City,Tottenham Hotspur,0-4,0,4,1,1,4,-4,A
+2024-12-01,2024,Liverpool,Manchester City,2-0,2,0,1,1,2,2,H
+2024-12-04,2024,Arsenal,Manchester United,2-0,2,0,1,1,2,2,H
+2024-12-08,2024,Tottenham Hotspur,Chelsea,3-4,3,4,1,1,7,-1,A
+2024-12-15,2024,Manchester City,Manchester United,1-2,1,2,1,1,3,-1,A
+2024-12-22,2024,Tottenham Hotspur,Liverpool,3-6,3,6,1,1,9,-3,A
+2025-01-05,2024,Liverpool,Manchester United,2-2,2,2,1,1,4,0,D
+2025-01-15,2024,Arsenal,Tottenham Hotspur,2-1,2,1,1,1,3,1,H
+2025-01-25,2024,Manchester City,Chelsea,3-1,3,1,1,1,4,2,H
+2025-02-02,2024,Arsenal,Manchester City,5-1,5,1,1,1,6,4,H
+2025-02-16,2024,Tottenham Hotspur,Manchester United,1-0,1,0,1,1,1,1,H
+2025-02-23,2024,Manchester City,Liverpool,0-2,0,2,1,1,2,-2,A
+2025-02-26,2024,Tottenham Hotspur,Manchester City,0-1,0,1,1,1,1,-1,A
+2025-03-09,2024,Manchester United,Arsenal,1-1,1,1,1,1,2,0,D
+2025-03-16,2024,Arsenal,Chelsea,1-0,1,0,1,1,1,1,H
+2025-04-03,2024,Chelsea,Tottenham Hotspur,1-0,1,0,1,1,1,1,H
+2025-04-06,2024,Manchester United,Manchester City,0-0,0,0,1,1,0,0,D
+2025-04-27,2024,Liverpool,Tottenham Hotspur,5-1,5,1,1,1,6,4,H
+2025-05-04,2024,Chelsea,Liverpool,3-1,3,1,1,1,4,2,H
+2025-05-11,2024,Liverpool,Arsenal,2-2,2,2,1,1,4,0,D
+2025-05-16,2024,Chelsea,Manchester United,1-0,1,0,1,1,1,1,H

@@ -1,0 +1,3229 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=July 2019}}
+{{Use British English|date=March 2026}}
+{{Primary|date=August 2020}}
+{{Infobox football club season
+| club = [[Chelsea F.C.|Chelsea]]
+| season = 2019–20
+| image = File:Chelsea 4 Ajax 4 (49023403047).jpg
+| image_size = 300px
+| alt =
+| caption = Chelsea players after a goal scored against [[Amsterdamsche Football Club Ajax|Ajax]] at a [[2019–20 UEFA Champions League|UEFA Champions League]] match
+| owner = [[Roman Abramovich]]
+| manager = [[Frank Lampard]]
+| mgrtitle = Head coach
+| chairman = [[Bruce Buck]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| league = [[Premier League]]
+| league result = [[2019–20 Premier League|4th]]
+| cup1 = [[FA Cup]]
+| cup1 result = [[2019–20 FA Cup|Runners-up]]
+| cup2 = [[EFL Cup]]
+| cup2 result = [[2019–20 EFL Cup|Fourth round]]
+| cup3 = [[UEFA Champions League]]
+| cup3 result = [[2019–20 UEFA Champions League|Round of 16]]
+| cup4 = [[UEFA Super Cup]]
+| cup4 result = [[2019 UEFA Super Cup|Runners-up]]
+| league topscorer = <br> [[Tammy Abraham]] (15)
+| season topscorer = <br> Tammy Abraham (18)
+| highest attendance = 40,694 <br> (vs. [[Everton F.C.|Everton]], 8 March 2020, Premier League)
+| lowest attendance = 36,761 <br> (vs. [[FC Bayern Munich|Bayern Munich]], 25 February 2020, UEFA Champions League)<ref name="Note"/>
+| average attendance = 40,563 <ref name="Note">Not including matches that have been played behind closed doors.</ref>
+| largest win = 7–1 <br> (vs. [[Grimsby Town F.C.|Grimsby Town]], 25 September 2019, EFL Cup)
+| largest loss = 0–4 <br> (vs. [[Manchester United F.C.|Manchester United]], 11 August 2019, Premier League)
+| pattern_la1 = _chelsea1920h
+| pattern_b1 = _chelsea1920h
+| pattern_ra1 = _chelsea1920h
+| pattern_sh1 = _cfc201920h
+| pattern_so1 = _chelsea1920hl
+| leftarm1 = 0000FF
+| body1 = 0000FF
+| rightarm1 = 0000FF
+| shorts1 = 0000FF
+| socks1 = FFFFFF
+| pattern_la2 = _chelsea1920a
+| pattern_b2 = _chelsea1920a
+| pattern_ra2 = _chelsea1920a
+| pattern_sh2 = _usa18h
+| pattern_so2 = _chelsea1920al
+| leftarm2 = FFFFFF
+| body2 = FFFFFF
+| rightarm2 = FFFFFF
+| shorts2 = FFFFFF
+| socks2 = 0000FF
+| pattern_la3 = _chelsea1920t
+| pattern_b3 = _chelsea1920t
+| pattern_ra3 = _chelsea1920t
+| pattern_sh3 = _monterrey1213t1
+| pattern_so3 =
+| leftarm3 = 050505
+| body3 = 050505
+| rightarm3 = 050505
+| shorts3 = 050505
+| socks3 = FF3900
+| prevseason = [[2018–19 Chelsea F.C. season|2018–19]]
+| nextseason = [[2020–21 Chelsea F.C. season|2020–21]]
+}}
+
+The '''2019–20 season''' was [[Chelsea F.C.|Chelsea]]'s 106th competitive season, 31st consecutive season in the top flight of English football, 28th consecutive season in the [[Premier League]], and 114th year in existence as a football club.<ref>{{Cite web|title=History|url=https://www.chelseafc.com/en/about-chelsea/history|website=chelseafc.com|date=1 July 2019}}</ref> The season was slated to cover the period from 1 July 2019 to 30 June 2020, but due to the suspension of football due to the [[COVID-19 pandemic in Europe|COVID-19 pandemic]], it was extended to 8 August 2020.
+
+The season was the first since [[2011–12 Chelsea F.C. season|2011–12]] without [[Eden Hazard]], who departed to [[Real Madrid CF|Real Madrid]].<ref>{{Cite news|date=7 June 2019|title=Eden Hazard: Real Madrid sign Chelsea forward for fee that could exceed £150m|work=[[BBC Sport]]|publisher=[[BBC]]|url=https://www.bbc.co.uk/sport/football/48548361|access-date=30 March 2021}}</ref>
+
+On 16 June 2019, manager [[Maurizio Sarri]] departed Chelsea, signing for [[Juventus FC|Juventus]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/48633265|title=Maurizio Sarri: Juventus appoint Chelsea manager|access-date=31 December 2023|date=16 June 2019|work=BBC Sport}}</ref> On 4 July, former player [[Frank Lampard]] signed on a three-year contract, replacing Sarri as head coach.<ref>{{cite news |url=https://www.chelseafc.com/en/news/2019/07/04/frank-lampard-returns-to-chelsea |title=Frank Lampard returns to Chelsea |publisher=Chelsea Football Club |date=4 July 2019 |access-date=31 December 2023}}</ref>
+
+==Kits==
+<div class="center">
+{|
+|{{Football kit
+| pattern_la = _chelsea1920h
+| pattern_b = _chelsea1920h
+| pattern_ra = _chelsea1920h
+| pattern_sh = _cfc201920h
+| pattern_so = _chelsea1920hl
+| leftarm = 0000FF
+| body = 0000FF
+| rightarm = 0000FF
+| shorts = 0000FF
+| socks = FFFFFF
+| title = Home
+}}
+|{{Football kit
+| pattern_la = _chelsea1920h
+| pattern_b = _chelsea1920h
+| pattern_ra = _chelsea1920h
+| pattern_sh = _cfc201920h
+| pattern_so = _chelsea1920al
+| leftarm = 0000FF
+| body = 0000FF
+| rightarm = 0000FF
+| shorts = 0000FF
+| socks = 0000FF
+| title = Home alt.
+}}
+|{{Football kit
+| pattern_la = _chelsea1920f
+| pattern_b = _chelsea1920f
+| pattern_ra = _chelsea1920f
+| pattern_sh = _chelsea1920f
+| pattern_so = _chelsea1920fl
+| leftarm = 0000BB
+| body = 0000BB
+| rightarm = 0000BB
+| shorts = 0000BB
+| socks = FFDD00
+| title = Home special
+}}
+|{{Football kit
+| pattern_la = _chelsea2021h
+| pattern_b = _chelsea2021h
+| pattern_ra = _chelsea2021h
+| pattern_sh = _chelsea2021h
+| pattern_so =
+| leftarm = 0000FF
+| body = 0000FF
+| rightarm = 0000FF
+| shorts = 0000FF
+| socks = FFFFFF
+| title = Home [[2020–21 Chelsea F.C. season|2020–21]]
+}}
+|{{Football kit
+| pattern_la = _chelsea1920a
+| pattern_b = _chelsea1920a
+| pattern_ra = _chelsea1920a
+| pattern_sh = _usa18h
+| pattern_so = _chelsea1920al
+| leftarm = FFFFFF
+| body = FFFFFF
+| rightarm = FFFFFF
+| shorts = FFFFFF
+| socks = 0000FF
+| title = Away
+}}
+|{{Football kit
+| pattern_la = _chelsea1920a
+| pattern_b = _chelsea1920a
+| pattern_ra = _chelsea1920a
+| pattern_sh = _usa18h
+| pattern_so = _chelsea1920hl
+| leftarm = FFFFFF
+| body = FFFFFF
+| rightarm = FFFFFF
+| shorts = FFFFFF
+| socks = 0000FF
+| title = Away alt.
+}}
+|{{Football kit
+| pattern_la = _chelsea2021a
+| pattern_b = _chelsea2021a
+| pattern_ra = _chelsea2021a
+| pattern_sh = _chelsea2021a
+| pattern_so =
+| leftarm = BCD3E7
+| body = BCD3E7
+| rightarm = BCD3E7
+| shorts = BCD3E7
+| socks = BCD3E7
+| title = Away [[2020–21 Chelsea F.C. season|2020–21]]
+
+}}
+|{{Football kit
+| pattern_la = _chelsea1819a
+| pattern_b = _chelsea1819a
+| pattern_ra = _chelsea1819a
+| pattern_sh = _chelsea1819a
+| pattern_so = _chelsea1819a2l
+| leftarm = FFDD00
+| body = FFDD00
+| rightarm = FFDD00
+| shorts = FFDD00
+| socks = FFDD00
+| title = Away [[2018–19 Chelsea F.C. season|2018–19]]<ref>Used in an away game against Reading</ref>
+}}
+|{{Football kit
+| pattern_la = _chelsea1920t
+| pattern_b = _chelsea1920t
+| pattern_ra = _chelsea1920t
+| pattern_sh =
+| pattern_so =
+| leftarm = 050505
+| body = 050505
+| rightarm = 050505
+| shorts = 050505
+| socks = FF3900
+| title = Third
+}}
+|-
+|{{Football kit
+| pattern_la = _chelsea1920t
+| pattern_b = _chelsea1920t
+| pattern_ra = _chelsea1920t
+| pattern_sh =
+| pattern_so =
+| leftarm = 050505
+| body = 050505
+| rightarm = 050505
+| shorts = 050505
+| socks = 050505
+| title = Third alt.
+}}
+|{{Football kit
+|pattern_la = _nikegk1920yMl
+|pattern_b  = _nikegk1920y
+|pattern_ra = _nikegk1920yMl
+|pattern_sh =
+|pattern_so =
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FFAA00
+|socks      = FFAA00
+|title      = Goalkeeper 1
+}}
+|{{Football kit
+|pattern_la = _nikegk1920tMl
+|pattern_b  = _nikegk1920t
+|pattern_ra = _nikegk1920tMl
+|pattern_sh =
+|pattern_so =
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = 40FFEE
+|socks      = 40FFEE
+|title      = Goalkeeper 2
+}}
+|{{Football kit
+|pattern_la = _nikegk1920bMl
+|pattern_b  = _nikegk1920b
+|pattern_ra = _nikegk1920bMl
+|pattern_sh =
+|pattern_so =
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = 000000
+|socks      = 000000
+|title      = Goalkeeper 3
+}}
+|{{Football kit
+|pattern_la =
+|pattern_b  = _inter1920gk5
+|pattern_ra =
+|pattern_sh =
+|pattern_so =
+|leftarm    = D2D1CD
+|body       = FFFFFF
+|rightarm   = D2D1CD
+|shorts     = D2D1CD
+|socks      = D2D1CD
+|title      = Goalkeeper 4
+}}
+|{{Football kit
+|pattern_la =
+|pattern_b  = _inter1920gk4
+|pattern_ra =
+|pattern_sh =
+|pattern_so =
+|leftarm    = FF451D
+|body       = FFFFFF
+|rightarm   = FF451D
+|shorts     = FF451D
+|socks      = FF451D
+|title      = Goalkeeper 5
+}}
+|{{Football kit
+|pattern_la =
+|pattern_b  = _nikegardien3gsb
+|pattern_ra =
+|pattern_sh = _black_stripes
+|pattern_so =
+|leftarm    = 0EDC6A
+|body       = FFFFFF
+|rightarm   = 0EDC6A
+|shorts     = 0EDC6A
+|socks      = 0EDC6A
+|title      = Goalkeeper 1 [[2020–21 Chelsea F.C. season|2020–21]]
+}}
+|{{Football kit
+|pattern_la =
+|pattern_b  = _nikegardien3gb
+|pattern_ra =
+|pattern_sh = _black_stripes
+|pattern_so =
+|leftarm    = BBBBBB
+|body       = FFFFFF
+|rightarm   = BBBBBB
+|shorts     = BBBBBB
+|socks      = BBBBBB
+|title      = Goalkeeper 2 [[2020–21 Chelsea F.C. season|2020–21]]
+}}
+|{{Football kit
+|pattern_la =
+|pattern_b  = _nikegardien3ob
+|pattern_ra =
+|pattern_sh = _black_stripes
+|pattern_so =
+|leftarm    = FF6000
+|body       = FFFFFF
+|rightarm   = FF6000
+|shorts     = FF6000
+|socks      = FF6000
+|title      = Goalkeeper 3 [[2020–21 Chelsea F.C. season|2020–21]]
+}}
+|
+|}</div>
+
+==Management team==
+{| class="wikitable" style="text-align:center;width:50%;"
+|-
+! style=background:#034694;color:#FFFFFF| Position
+! style=background:#034694;color:#FFFFFF| Name
+|-
+| Head coach
+|align=left| {{flagicon|ENG}} [[Frank Lampard]]
+|-
+| Assistant head coach
+|align=left| {{flagicon|ENG}} [[Jody Morris]]
+|-
+|rowspan=2| Assistant coaches
+|align=left| {{flagicon|ENG}} [[Joe Edwards (football manager)|Joe Edwards]]
+|-
+|align=left| {{flagicon|ENG}} Chris Jones
+|-
+| Goalkeeper coach
+|align=left| {{flagicon|POR}} [[Henrique Hilário]]
+|-
+| Assistant goalkeeper coach
+|align=left| {{flagicon|ENG}} James Russell
+|}
+
+==Players==
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| Nationality
+! style=background-color:#034694;color:#FFFFFF| Date of birth (age)
+! style=background-color:#034694;color:#FFFFFF| Since
+! style=background-color:#034694;color:#FFFFFF| Ends
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+|-
+| 1
+| GK
+| [[Kepa Arrizabalaga]]
+| {{flagicon|ESP}}
+| {{Birth date and age2|df=yes|2020|06|30|1994|10|03}}
+| 2018
+| 2025
+| 95
+| 0
+|-
+| 2
+| DF
+| [[Antonio Rüdiger]]
+| {{flagicon|GER}}
+| {{Birth date and age2|df=yes|2020|06|30|1993|03|03}}
+| 2017
+| 2022
+| 115
+| 6
+|-
+| 3
+| DF
+| [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+| {{flagicon|ESP}}
+| {{Birth date and age2|df=yes|2020|06|30|1990|12|28}}
+| 2016
+| 2023
+| 149
+| 22
+|-
+| 4
+| DF
+| [[Andreas Christensen]]
+| {{flagicon|DEN}}
+| {{Birth date and age2|df=yes|2020|06|30|1996|04|10}}
+| 2013
+| 2022
+| 100
+| 0
+|-
+| 5
+| MF
+| [[Jorginho (footballer, born December 1991)|Jorginho]] <sup>'''(VC)'''</sup>
+| {{flagicon|ITA}}
+| {{Birth date and age2|df=yes|2020|06|30|1991|12|20}}
+| 2018
+| 2023
+| 98
+| 9
+|-
+| 7
+| MF
+| [[N'Golo Kanté]]
+| {{flagicon|FRA}}
+| {{Birth date and age2|df=yes|2020|06|30|1991|03|29}}
+| 2016
+| 2023
+| 170
+| 11
+|-
+| 8
+| MF
+| [[Ross Barkley]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|1993|12|05}}
+| 2018
+| 2023
+| 83
+| 10
+|-
+| 9
+| FW
+| [[Tammy Abraham]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|1997|10|02}}
+| 2016
+| 2022
+| 50
+| 18
+|-
+| 10
+| MF
+| [[Willian (footballer, born 1988)|Willian]] <sup>'''(3C)'''</sup>
+| {{flagicon|BRA}}
+| {{Birth date and age2|df=yes|2020|06|30|1988|08|09}}
+| 2013
+| 2020
+| 339
+| 63
+|-
+| 11
+| MF
+| [[Pedro (footballer, born 1987)|Pedro]]
+| {{flagicon|ESP}}
+| {{Birth date and age2|df=yes|2020|06|30|1987|07|28}}
+| 2015
+| 2020
+| 206
+| 43
+|-
+| 12
+| MF
+| [[Ruben Loftus-Cheek]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|1996|01|23}}
+| 2014
+| 2024
+| 81
+| 12
+|-
+| 13
+| GK
+| [[Willy Caballero]]
+| {{flagicon|ARG}}
+| {{Birth date and age2|df=yes|2020|06|30|1981|09|28}}
+| 2017
+| 2021
+| 36
+| 0
+|-
+| 15
+| DF
+| [[Kurt Zouma]]
+| {{flagicon|FRA}}
+| {{Birth date and age2|df=yes|2020|06|30|1994|10|27}}
+| 2014
+| 2023
+| 114
+| 5
+|-
+| 17
+| MF
+| [[Mateo Kovačić]]
+| {{flagicon|CRO}}
+| {{Birth date and age2|df=yes|2020|06|30|1994|05|06}}
+| 2019
+| 2024
+| 98
+| 2
+|-
+| 18
+| FW
+| [[Olivier Giroud]]
+| {{flagicon|FRA}}
+| {{Birth date and age2|df=yes|2020|06|30|1986|09|30}}
+| 2018
+| 2021
+| 88
+| 28
+|-
+| 19
+| MF
+| [[Mason Mount]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|1999|01|10}}
+| 2017
+| 2024
+| 53
+| 8
+|-
+| 20
+| MF
+| [[Callum Hudson-Odoi]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|2000|11|07}}
+| 2018
+| 2024
+| 61
+| 8
+|-
+| 22
+| MF
+| [[Christian Pulisic]]
+| {{flagicon|USA}}
+| {{Birth date and age2|df=yes|2020|06|30|1998|09|18}}
+| 2019
+| 2024
+| 34
+| 11
+|-
+| 23
+| FW
+| [[Michy Batshuayi]]
+| {{flagicon|BEL}}
+| {{Birth date and age2|df=yes|2020|06|30|1993|10|02}}
+| 2016
+| 2021
+| 77
+| 25
+|-
+| 24
+| DF
+| [[Reece James (footballer, born 1999)|Reece James]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|1999|12|08}}
+| 2018
+| 2025
+| 37
+| 2
+|-
+| 28
+| DF
+| [[César Azpilicueta]] <sup>'''(C)'''</sup>
+| {{flagicon|ESP}}
+| {{Birth date and age2|df=yes|2020|06|30|1989|08|28}}
+| 2012
+| 2022
+| 386
+| 13
+|-
+| 29
+| DF
+| [[Fikayo Tomori]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|1997|12|19}}
+| 2016
+| 2024
+| 23
+| 2
+|-
+| 31
+| GK
+| [[Jamie Cumming]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|1999|09|04}}
+| 2018
+| 2023
+| 0
+| 0
+|-
+| 33
+| DF
+| [[Emerson Palmieri|Emerson]]
+| {{flagicon|ITA}}
+| {{Birth date and age2|df=yes|2020|06|30|1994|08|03}}
+| 2018
+| 2022
+| 55
+| 1
+|-
+| 47
+| MF
+| [[Billy Gilmour (footballer)|Billy Gilmour]]
+| {{flagicon|SCO}}
+| {{Birth date and age2|df=yes|2020|06|30|2001|06|11}}
+| 2019
+| 2023
+| 11
+| 0
+|-
+| 55
+| MF
+| [[Tino Anjorin]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|2001|11|23}}
+| 2019
+| 2025
+| 2
+| 0
+|-
+| 57
+| FW
+| [[Armando Broja]]
+| {{flagicon|ALB}}
+| {{Birth date and age2|df=yes|2020|06|30|2001|09|10}}
+| 2020
+| 2022
+| 1
+| 0
+|-
+| 61
+| DF
+| [[Henry Lawrence (footballer)|Henry Lawrence]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|2001|09|21}}
+| 2020
+| 2022
+| 0
+| 0
+|-
+| 63
+| DF
+| [[Ian Maatsen]]
+| {{flagicon|NED}}
+| {{Birth date and age2|df=yes|2020|06|30|2002|03|10}}
+| 2019
+| 2024
+| 1
+| 0
+|-
+| 64
+| MF
+| [[Lewis Bate]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|2002|10|28}}
+| 2020
+| 2022
+| 0
+| 0
+|-
+| 66
+| DF
+| [[Dynel Simeu]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2020|06|30|2002|03|13}}
+| 2020
+| 2021
+| 0
+| 0
+|}
+{{Fb rs footer|u=8 August 2020|s=[https://www.chelseafc.com/en/teams/first-team Chelsea F.C.]|date=August 2020}}
+
+==Transfers==
+
+===In===
+
+====Summer====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| From
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+| 1 July 2019
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+|align=left| {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+| £40,500,000
+| <ref>{{Cite web|title=Mateo Kovacic joins Chelsea on a permanent deal|url=https://www.chelseafc.com/en/news/2019/07/01/mateo-kovacic-joins-chelsea-on-a-permanent-deal|website=chelseafc.com|date=1 July 2019}}</ref>
+|}
+
+====Winter====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| From
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+| 1 January 2020
+|
+| FW
+|align=left| {{flagicon|NOR}} [[Bryan Fiabema]]
+|align=left| {{flagicon|NOR}} [[Tromsø IL|Tromsø]]
+| £540,000
+| <ref>{{Cite web|title=Teenage kicks: Xavier Simons|url=https://www.chelseafc.com/en/news/2020/02/21/teenage-kicks--xavier-simons|website=chelseafc.com|date=21 February 2020}}</ref>
+
+|}
+
+===Out===
+
+====Summer====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| To
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+|rowspan=11| 1 July 2019
+|
+| MF
+|align=left| {{flagicon|BEL}} [[Kylian Hazard]]
+|align=left| {{flagicon|BEL}} [[Cercle Brugge KSV|Cercle Brugge]]
+| Undisclosed
+| <ref>{{Cite web|title=Kylian Hazard to leave Chelsea|url=https://www.chelseafc.com/en/news/2019/05/04/kylian-hazard-to-leave-chelsea|website=chelseafc.com|date=5 May 2019}}</ref>
+|-
+| 31
+| GK
+|align=left| {{flagicon|ENG}} [[Robert Green]]
+|align=left| Retired
+|
+| <ref>{{Cite web|title=Rob Green retirement interview|url=https://www.chelseafc.com/en/news/2019/05/31/rob-green-announces-retirement|website=chelseafc.com|date=31 May 2019}}</ref>
+|-
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Fankaty Dabo]]
+|align=left| {{flagicon|ENG}} [[Coventry City F.C.|Coventry City]]
+| Free
+| <ref>{{Cite web|title=Fankaty Dabo to join Coventry|url=https://www.chelseafc.com/en/news/2019/06/05/fankaty-dabo-to-join-coventry|website=chelseafc.com|date=5 June 2019}}</ref>
+|-
+| 10
+| MF
+|align=left| {{flagicon|BEL}} [[Eden Hazard]]
+|align=left| {{flagicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| £103,500,000
+| <ref>{{Cite web|title=Eden Hazard transfer deal agreed|url=https://www.chelseafc.com/en/news/2019/06/07/eden-hazard-transfer-deal-agreed|website=chelseafc.com|date=7 June 2019}}</ref>
+|-
+|
+| DF
+|align=left| {{flagicon|NGA}} [[Ola Aina]]
+|align=left| {{flagicon|ITA}} [[Torino F.C.|Torino]]
+| £8,820,000
+| <ref>{{Cite web|title=Ola Aina to sign for Torino|url=https://www.chelseafc.com/en/news/2019/06/11/ola-aina-to-sign-for-torino|website=chelseafc.com|date=11 June 2019}}</ref>
+|-
+|
+| GK
+|align=left| {{flagicon|ENG}} [[Bradley Collins]]
+|align=left| {{flagicon|ENG}} [[Barnsley F.C.|Barnsley]]
+| Free
+| <ref name="Nartey"/>
+|-
+|
+| GK
+|align=left| {{flagicon|POR}} [[Eduardo Carvalho|Eduardo]]
+|align=left| {{flagicon|POR}} [[S.C. Braga|Braga]]
+| Free
+| <ref>{{Cite web|title=Eduardo: "É incrível estar de volta"|url=https://scbraga.pt/eduardo-e-incrivel-estar-de-volta/|website=scbraga.pt|date=24 June 2019}}</ref>
+|-
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Jay Dasilva]]
+|align=left| {{flagicon|ENG}} [[Bristol City F.C.|Bristol City]]
+| £2,160,000
+| <ref>{{Cite web|title=Jay Dasilva signs for Bristol City|url=https://www.chelseafc.com/en/news/2019/06/26/jay-dasilva-signs-for-bristol-city|website=chelseafc.com|date=26 June 2019}}</ref>
+|-
+|
+| GK
+|align=left| {{flagicon|NIR}} Jared Thompson
+|align=left| Unattached{{efn|Thompson joined [[Exeter City F.C.|Exeter City]] on 18 February 2020}}
+|
+| <ref name="Thompson">{{Cite web|title=Academy trio sign new deals|url=https://www.chelseafc.com/en/news/2019/07/01/academy-trio-sign-new-deals|website=chelseafc.com|date=1 July 2019}}</ref>
+|-
+|
+| MF
+|align=left| {{flagicon|CIV}} [[Victorien Angban]]
+|align=left| {{flagicon|FRA}} [[FC Metz|Metz]]
+| £5,400,000
+| <ref name="Thompson"/>
+|-
+|
+| DF
+|align=left| {{flagicon|CZE}} [[Tomáš Kalas]]
+|align=left| {{flagicon|ENG}} [[Bristol City F.C.|Bristol City]]
+| £8,100,000
+| <ref>{{Cite web|title=Tomas Kalas makes Championship switch|url=https://www.chelseafc.com/en/news/2019/07/01/kalas-makes-championship-switch|website=chelseafc.com|date=1 July 2019}}</ref>
+|-
+| 4 July 2019
+|
+| MF
+|align=left| {{flagicon|SCO}} [[Ruben Sammut]]
+|align=left| {{flagicon|ENG}} [[Sunderland A.F.C.|Sunderland]]
+| Free
+| <ref>{{Cite web|title=Trio put pen to paper|url=https://www.safc.com/news/academy-news/2019/july/trio-join-the-under23s|website=safc.com|date=4 July 2019}}</ref>
+|-
+| 6 July 2019
+| 59
+| GK
+|align=left| {{flagicon|POL}} [[Marcin Bułka]]
+|align=left| {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| Free
+| <ref>{{Cite web|title=Marcin Bulka au Paris Saint-Germain|url=https://www.psg.fr/equipes/equipe-premiere/content/marcin-bulka-au-paris-saint-germain|website=psg.fr|date=6 July 2019|access-date=6 July 2019|archive-date=30 November 2019|archive-url=https://web.archive.org/web/20191130161608/https://www.psg.fr/equipes/equipe-premiere/content/marcin-bulka-au-paris-saint-germain|url-status=dead}}</ref>
+|-
+| 13 July 2019
+| 65
+| DF
+|align=left| {{flagicon|ENG}} [[Renedi Masampu]]
+|align=left| {{flagicon|ENG}} [[Whyteleafe F.C.|Whyteleafe]]
+| Free
+| <ref>{{Cite web|title=Pre-season report: Whyteleafe 3-3 Molesey|url=http://www.theleafe.co.uk/?content=story&page=5665398464209239782|website=theleafe.co.uk|date=15 July 2019}}</ref>
+|-
+| 14 July 2019
+| 56
+| FW
+|align=left| {{flagicon|ENG}} [[Martell Taylor-Crossdale]]
+|align=left| {{flagicon|ENG}} [[Fulham F.C.|Fulham]]
+| Free
+| <ref>{{Cite web|title=Martell Taylor-Crossdale signs|url=https://www.fulhamfc.com/news/2019/july/13/martell-taylor-crossdale-signs|website=fulhamfc.com|date=14 July 2019}}</ref>
+|-
+| 18 July 2019
+| 58
+| FW
+|align=left| {{flagicon|NED}} [[Daishawn Redan]]
+|align=left| {{flagicon|GER}} [[Hertha BSC]]
+| £2,430,000
+| <ref>{{Cite web|title=Daishawn Redan moves to Germany|url=https://www.chelseafc.com/en/news/2019/07/18/daishawn-redan-moves-to-germany|website=chelseafc.com|date=18 July 2019}}</ref>
+|-
+| 26 July 2019
+|
+| MF
+|align=left| {{flagicon|ECU}} [[Josimar Quintero]]
+|align=left| {{flagicon|ESP}} [[RCD Espanyol B|Espanyol B]]
+| Free
+| <ref>{{Cite web|title=Quintero, nou jugador de l'Espanyol B|url=https://www.rcdespanyol.com/ca/actualitat/quintero-nou-jugador-de-lespanyol-b/_n:9638/|website=rcdespanyol.com|date=26 July 2019}}</ref>
+|-
+| 27 July 2019
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Todd Kane]]
+|align=left| {{flagicon|ENG}} [[Queens Park Rangers F.C.|Queens Park Rangers]]
+| Free
+| <ref>{{Cite web|title=R's move to sign Kane & Pugh|url=https://www.qpr.co.uk/news/club-news/rs-move-to-sign-kane-pugh/|website=qpr.co.uk|date=27 July 2019}}</ref>
+|-
+| 29 July 2019
+|
+| MF
+|align=left| {{flagicon|USA}} [[Kyle Scott]]
+|align=left| {{flagicon|ENG}} [[Newcastle United F.C.|Newcastle United]]
+| Free
+| <ref>{{Cite web|title=Magpies sign young duo|url=https://www.nufc.co.uk/news/latest-news/magpies-sign-young-duo-1/|website=nufc.co.uk|date=29 July 2019}}</ref>
+|-
+| 1 August 2019
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Kasey Palmer]]
+|align=left| {{flagicon|ENG}} [[Bristol City F.C.|Bristol City]]
+| £3,420,000
+| <ref>{{Cite web|title=Kasey Palmer makes permanent switch to the Championship|url=https://www.chelseafc.com/en/news/2019/08/01/kasey-palmer-makes-permanent-switch-to-the-championship|website=chelseafc.com|date=1 August 2019}}</ref>
+|-
+| 5 August 2019
+| 24
+| DF
+|align=left| {{flagicon|ENG}} [[Gary Cahill]]
+|align=left| {{flagicon|ENG}} [[Crystal Palace F.C.|Crystal Palace]]
+| Free
+| <ref>{{Cite web|title=Gary Cahill joins Palace|url=https://www.cpfc.co.uk/news/2019/august/gary-cahill-joins-crystal-palace/|website=cpfc.co.uk|date=5 August 2019}}</ref>
+|-
+| 8 August 2019
+| 30
+| DF
+|align=left| {{flagicon|BRA}} [[David Luiz]]
+|align=left| {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| £7,830,000
+| <ref>{{Cite web|title=David Luiz departs|url=https://www.chelseafc.com/en/news/2019/08/08/david-luiz-departs-chelsea-for-arsenal|website=chelseafc.com|date=8 August 2019}}</ref>
+|-
+| 13 August 2019
+|
+| DF
+|align=left| {{flagicon|NGA}} [[Kenneth Omeruo]]
+|align=left| {{flagicon|ESP}} [[CD Leganés|Leganés]]
+| £4,500,000
+| <ref>{{Cite web|title=Kenneth Omeruo completes Leganes move|url=https://www.chelseafc.com/en/news/2019/08/13/omeruo-completes-leganes-move|website=chelseafc.com|date=13 August 2019}}</ref>
+|-
+| 2 September 2019
+| 47
+| DF
+|align=left| {{flagicon|SWE}} [[Joseph Colley]]
+|align=left| {{flagicon|ITA}} [[A.C. ChievoVerona|Chievo]]
+| Free
+| <ref>{{Cite web|title=Official: Joseph Colley is Gialloblù!|url=https://www.chievoverona.it/en/highlights/news/official-joseph-colley-giallobl%C3%B9|website=chievoverona.it|date=4 September 2019|access-date=7 September 2019|archive-date=22 February 2020|archive-url=https://web.archive.org/web/20200222150118/https://www.chievoverona.it/en/highlights/news/official-joseph-colley-giallobl%C3%B9|url-status=dead}}</ref>
+|}
+;Notes
+{{notelist}}
+
+====Winter====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| To
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+| 1 January 2020
+|
+| DF
+|align=left| {{flagicon|JAM}} [[Michael Hector]]
+|align=left| {{flagicon|ENG}} [[Fulham F.C.|Fulham]]
+| £5,310,000
+| <ref>{{Cite web|title=Michael Hector move to Fulham agreed|url=https://www.chelseafc.com/en/news/2019/09/05/michael-hector-move-to-fulham-agreed|website=chelseafc.com|date=5 September 2019}}</ref>
+|-
+|rowspan=2| 31 January 2020
+| 51
+| MF
+|align=left| {{flagicon|ENG}} [[Clinton Mola]]
+|align=left| {{flagicon|GER}} [[VfB Stuttgart|Stuttgart]]
+| £360,000
+| <ref>{{Cite web|title=Clinton Mola joins Stuttgart|url=https://www.chelseafc.com/en/news/2020/01/31/clinton-mola-joins-stuttgart|website=chelseafc.com|date=31 January 2020}}</ref>
+|-
+| 48
+| DF
+|align=left| {{flagicon|ENG}} [[Tariq Lamptey]]
+|align=left| {{flagicon|ENG}} [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| £2,970,000
+| <ref>{{Cite web|title=Lamptey signs for Brighton|url=https://www.chelseafc.com/en/news/2020/01/31/lamptey-signs-for-brighton|website=chelseafc.com|date=31 January 2020}}</ref>
+|}
+
+===Loan out===
+
+====Summer====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| Until
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| To
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+|rowspan=4| 1 July 2019
+| 23 January 2020 <ref name="Moses"/>
+|
+| MF
+|align=left| {{flagicon|NGA}} [[Victor Moses]]
+|align=left| {{flagicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+| Free
+| <ref>{{Cite web|title=Victor Moses completes Fenerbahce loan move|url=https://www.chelseafc.com/en/news/2019/1/25-/victor-moses-completes-fenerbahce-loan-move|website=chelseafc.com|date=25 January 2019}}</ref>
+|-
+| 30 June 2020
+|
+| FW
+|align=left| {{flagicon|ESP}} [[Álvaro Morata]]
+|align=left| {{flagicon|ESP}} [[Atlético Madrid]]
+| Free
+| <ref>{{Cite web|title=Morata moves to Atletico Madrid on loan|url=https://www.chelseafc.com/en/news/2019/1/26/morata-moves-to-atletico-madrid-on-loan|website=chelseafc.com|date=28 January 2019}}</ref>
+|-
+| 30 April 2020
+|
+| GK
+|align=left| {{flagicon|ENG}} [[Nathan Baxter (footballer)|Nathan Baxter]]
+|align=left| {{flagicon|SCO}} [[Ross County F.C.|Ross County]]
+| Free
+| <ref>{{Cite web|title=Goalkeeper Nathan Baxter loaned to Scottish top-flight club|url=https://www.chelseafc.com/en/news/2019/06/19/goalkeeper-nathan-baxter-loaned-to-scottish-top-flight-club|website=chelseafc.com|date=19 June 2019}}</ref>
+|-
+| 31 May 2020
+| 48
+| DF
+|align=left| {{flagicon|ENG}} [[Richard Nartey]]
+|align=left| {{flagicon|ENG}} [[Burton Albion F.C.|Burton Albion]]
+| Free
+| <ref name="Nartey">{{Cite web|title=New contract and loan for young defender|url=https://www.chelseafc.com/en/news/2019/06/26/new-contract-and-loan-for-young-defender|website=chelseafc.com|date=26 June 2019}}</ref>
+|-
+| 3 July 2019
+| 31 August 2020
+|
+| MF
+|align=left| {{flagicon|CRO}} [[Mario Pašalić]]
+|align=left| {{flagicon|ITA}} [[Atalanta B.C.|Atalanta]]
+| £1,350,000
+| <ref>{{Cite web|title=Mario Pasalic signs new contract and returns to Atalanta on loan|url=https://www.chelseafc.com/en/news/2019/07/03/mario-pasalic-signs-new-contract-and-returns-to-atalanta|website=chelseafc.com|date=3 July 2019}}</ref>
+|-
+| 5 July 2019
+| 30 June 2020
+|
+| MF
+|align=left| {{flagicon|BEL}} [[Charly Musonda (footballer, born 1996)|Charly Musonda]]
+|align=left| {{flagicon|NED}} [[SBV Vitesse|Vitesse]]
+| Free
+| <ref>{{Cite web|title=Charly Musonda joins Vitesse on loan from Chelsea|url=https://www.chelseafc.com/en/news/2019/07/05/charly-musonda-joins-vitesse-on-loan-from-chelsea|website=chelseafc.com|date=5 July 2019}}</ref>
+|-
+| 8 July 2019
+| 30 June 2020 <ref name="McEachran"/>
+|
+| MF
+|align=left| {{flagicon|BRA}} [[Nathan (footballer, born 1996)|Nathan]]
+|align=left| {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| Free
+| <ref>{{Cite web|title=Nathan extends loan in Brazil|url=https://www.chelseafc.com/en/news/2019/07/08/nathan-extends-loan-in-brazil|website=chelseafc.com|date=8 July 2019}}</ref>
+|-
+| 18 July 2019
+| 1 January 2020 <ref name="Guehi"/>
+| 49
+| MF
+|align=left| {{flagicon|ENG}} [[Luke McCormick (footballer, born 1999)|Luke McCormick]]
+|align=left| {{flagicon|ENG}} [[Shrewsbury Town F.C.|Shrewsbury Town]]
+| Free
+| <ref>{{Cite web|title=New contract and loan for midfielder Luke McCormick|url=https://www.chelseafc.com/en/news/2019/07/18/new-contract-and-loan-for-midfielder-mccormick|website=chelseafc.com|date=18 July 2019}}</ref>
+|-
+| 22 July 2019
+| 30 June 2020
+| 44
+| DF
+|align=left| {{flagicon|WAL}} [[Ethan Ampadu]]
+|align=left| {{flagicon|GER}} [[RB Leipzig]]
+| £590,000
+| <ref>{{Cite web|title=Ethan Ampadu moves on loan to the Bundesliga|url=https://www.chelseafc.com/en/news/2019/07/22/ethan-ampadu-moves-on-loan-to-the-bundesliga|website=chelseafc.com|date=22 July 2019}}</ref>
+|-
+|rowspan=3| 24 July 2019
+| 31 July 2020
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Jake Clarke-Salter]]
+|align=left| {{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]]
+| Free
+| <ref>{{Cite web|title=New contract and loan for Clarke-Salter|url=https://www.chelseafc.com/en/news/2019/07/24/new-contract-and-loan-for-clarke-salter|website=chelseafc.com|date=24 July 2019}}</ref>
+|-
+| 31 July 2020
+|
+| DF
+|align=left| {{flagicon|USA}} [[Matt Miazga]]
+|align=left| {{flagicon|ENG}} [[Reading F.C.|Reading]]
+| Free
+| <ref>{{Cite web|title=Miazga returns to the Royals|url=https://www.chelseafc.com/en/news/2019/07/24/miazga-returns-to-the-royals|website=chelseafc.com|date=24 July 2019}}</ref>
+|-
+| 22 January 2020 <ref name="Blackman"/>
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Lewis Baker (footballer)|Lewis Baker]]
+|align=left| {{flagicon|GER}} [[Fortuna Düsseldorf]]
+| Free
+| <ref>{{Cite web|title=German loan for Baker|url=https://www.chelseafc.com/en/news/2019/07/24/german-loan-for-baker|website=chelseafc.com|date=24 July 2019}}</ref>
+|-
+| 1 August 2019
+| 31 May 2020
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Dujon Sterling]]
+|align=left| {{flagicon|ENG}} [[Wigan Athletic F.C.|Wigan Athletic]]
+| Free
+| <ref>{{Cite web|title=Sterling joins Wigan on loan|url=https://www.chelseafc.com/en/news/2019/08/01/sterling-joins-wigan-on-loan|website=chelseafc.com|date=1 August 2019}}</ref>
+|-
+| 2 August 2019
+| 14 January 2020 <ref name="Gallagher"/>
+| 43
+| MF
+|align=left| {{flagicon|ENG}} [[Conor Gallagher]]
+|align=left| {{flagicon|ENG}} [[Charlton Athletic F.C.|Charlton Athletic]]
+| Free
+| <ref>{{Cite web|title=Conor Gallagher signs new contract and embarks on first loan|url=https://www.chelseafc.com/en/news/2019/08/02/conor-gallagher-signs-new-contract-and-embarks-on-first-loan|website=chelseafc.com|date=2 August 2019}}</ref>
+|-
+| 3 August 2019
+| 30 June 2020
+| 43
+| FW
+|align=left| {{flagicon|ENG}} [[Ike Ugbo]]
+|align=left| {{flagicon|NED}} [[Roda JC Kerkrade|Roda JC]]
+| Free
+| <ref>{{Cite web|title=Ugbo heads to Holland|url=https://www.chelseafc.com/en/news/2019/08/03/ugbo-heads-to-holland|website=chelseafc.com|date=3 August 2019}}</ref>
+|-
+|rowspan=5| 8 August 2019
+| 31 May 2020 <ref>{{Cite web|title=Young defender extends loan at Plymouth|url=https://www.chelseafc.com/en/news/2020/01/10/young-defender-extends-loan-at-plymouth|website=chelseafc.com|date=10 January 2020}}</ref>
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Josh Grant (footballer)|Josh Grant]]
+|align=left| {{flagicon|ENG}} [[Plymouth Argyle F.C.|Plymouth Argyle]]
+| Free
+| <ref>{{Cite web|title=Young defender joins Plymouth on loan|url=https://www.chelseafc.com/en/news/2019/08/08/young-defender-joins-plymouth-on-loan|website=chelseafc.com|date=8 August 2019}}</ref>
+|-
+| 1 January 2020 <ref name="Drinkwater"/>
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Jacob Maddox]]
+|align=left| {{flagicon|ENG}} [[Tranmere Rovers F.C.|Tranmere Rovers]]
+| Free
+| <ref>{{Cite web|title=Jacob Maddox in League One loan|url=https://www.chelseafc.com/en/news/2019/08/08/jacob-maddox-in-league-one-loan|website=chelseafc.com|date=8 August 2019}}</ref>
+|-
+| 6 January 2020
+| 6
+| MF
+|align=left| {{flagicon|ENG}} [[Danny Drinkwater]]
+|align=left| {{flagicon|ENG}} [[Burnley F.C.|Burnley]]
+| Free
+| <ref>{{Cite web|title=Danny Drinkwater joins Burnley on loan|url=https://www.chelseafc.com/en/news/2019/08/08/drinkwater-joins-burnley-on-loan|website=chelseafc.com|date=8 August 2019}}</ref>
+|-
+| 31 July 2020
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Trevoh Chalobah]]
+|align=left| {{flagicon|ENG}} [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| Free
+| <ref>{{Cite web|title=Trevoh Chalobah signs new contract and heads out on loan|url=https://www.chelseafc.com/en/news/2019/08/08/trevoh-chalobah-signs-new-contract-and-heads-out-on-loan|website=chelseafc.com|date=8 August 2019}}</ref>
+|-
+| 31 July 2020
+|
+| FW
+|align=left| {{flagicon|ENG}} [[Izzy Brown|Isaiah Brown]]
+|align=left| {{flagicon|ENG}} [[Luton Town F.C.|Luton Town]]
+| Free
+| <ref>{{Cite web|title=Izzy Brown to Luton Town on loan|url=https://www.chelseafc.com/en/news/2019/08/08/izzy-brown-to-luton-town-on-loan|website=chelseafc.com|date=8 August 2019}}</ref>
+|-
+| 21 August 2019
+| 4 August 2020 <ref name="Zappacosta"/>
+| 21
+| DF
+|align=left| {{flagicon|ITA}} [[Davide Zappacosta]]
+|align=left| {{flagicon|ITA}} [[A.S. Roma|Roma]]
+| Free
+| <ref name="Zappacosta">{{Cite web|title=Davide Zappacosta extends contract and moves to Roma on loan|url=https://www.chelseafc.com/en/news/2019/08/21/davide-zappacosta-extends-contract-and-moves-to-roma-on-loan|website=chelseafc.com|date=21 August 2019}}</ref>
+|-
+| 30 August 2019
+| 30 June 2020
+| 42
+| DF
+|align=left| {{flagicon|NED}} [[Juan Castillo (footballer, born 2000)|Juan Castillo]]
+|align=left| {{flagicon|NED}} [[AFC Ajax|Ajax]]
+| Free
+| <ref>{{Cite web|title=Juan Castillo joins Ajax on loan|url=https://www.chelseafc.com/en/news/2019/08/30/juan-castillo-joins-ajax-on-loan|website=chelseafc.com|date=30 August 2019}}</ref>
+|-
+| 31 August 2019
+| 30 June 2020
+| 14
+| MF
+|align=left| {{flagicon|FRA}} [[Tiémoué Bakayoko]]
+|align=left| {{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+| £2,700,000
+| <ref>{{Cite web|title=Monaco loan for Tiemoue Bakayoko|url=https://www.chelseafc.com/en/news/2019/08/30/monaco-loan-for-tiemoue-bakayoko|website=chelseafc.com|date=31 August 2019}}</ref>
+|-
+| 1 September 2019
+| 31 January 2020 <ref>{{Cite web|title=Our club breaks up employment contract with Danilo Pantic|url=https://www.molfehervarfc.hu/2020/01/31/our-club-breaks-up-employment-contract-with-danilo-pantic|website=molfehervarfc.hu|date=31 January 2020|access-date=31 January 2020|archive-date=5 September 2022|archive-url=https://web.archive.org/web/20220905193730/https://www.molfehervarfc.hu/2020/01/31/our-club-breaks-up-employment-contract-with-danilo-pantic|url-status=dead}}</ref>
+|
+| MF
+|align=left| {{flagicon|SRB}} [[Danilo Pantić]]
+|align=left| {{flagicon|HUN}} [[Fehérvár FC|Fehérvár]]
+| Undisclosed
+| <ref>{{Cite web|title=Danilo Pantic heads to Hungary on loan|url=https://www.chelseafc.com/en/news/2019/09/01/danilo-pantic-heads-to-hungary-on-loan|website=chelseafc.com|date=1 September 2019}}</ref>
+|-
+|rowspan=3| 2 September 2019
+| 30 June 2020
+|
+| DF
+|align=left| {{flagicon|GHA}} [[Baba Rahman]]
+|align=left| {{flagicon|ESP}} [[RCD Mallorca|Mallorca]]
+| Free
+| <ref>{{Cite web|title=New contract and new loan club for Baba Rahman|url=https://www.chelseafc.com/en/news/2019/09/02/new-contract-and-new-loan-club-for-baba-rahman|website=chelseafc.com|date=2 September 2019}}</ref>
+|-
+| 30 June 2020
+| 16
+| MF
+|align=left| {{flagicon|BRA}} [[Kenedy (footballer)|Kenedy]]
+|align=left| {{flagicon|ESP}} [[Getafe CF|Getafe]]
+| Free
+| <ref>{{Cite web|title=Spanish loan for Kenedy|url=https://www.chelseafc.com/en/news/2019/09/02/spanish-loan-for-kenedy|website=chelseafc.com|date=2 September 2019}}</ref>
+|-
+| 30 June 2021
+|
+| MF
+|align=left| {{flagicon|BRA}} [[Lucas Piazon]]
+|align=left| {{flagicon|POR}} [[Rio Ave F.C.|Rio Ave]]
+| Free
+| <ref>{{Cite web|title=Lucas Piazon joins Rio Ave on loan|url=https://www.chelseafc.com/en/news/2019/09/02/lucas-piazon-joins-rio-ave-on-loan|website=chelseafc.com|date=2 September 2019}}</ref>
+|-
+| 3 September 2019
+| 16 January 2020 <ref name="Blackman"/>
+| 32
+| GK
+|align=left| {{flagicon|ENG}} [[Jamal Blackman]]
+|align=left| {{flagicon|NED}} [[SBV Vitesse|Vitesse]]
+| Free
+| <ref>{{Cite web|title=Blackman loaned to Vitesse|url=https://www.chelseafc.com/en/news/2019/09/03/blackman-loaned-to-vitesse|website=chelseafc.com|date=3 September 2019}}</ref>
+|}
+
+====Winter====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| Until
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| To
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+| 7 January 2020
+| 30 June 2020
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Danny Drinkwater]]
+|align=left| {{flagicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+| Free
+| <ref name="Drinkwater">{{Cite web|title=Danny Drinkwater moves on loan to Aston Villa|url=https://www.chelseafc.com/en/news/2020/01/07/danny-drinkwater-moves-on-loan-to-aston-villa|website=chelseafc.com|date=7 January 2020}}</ref>
+|-
+| 10 January 2020
+| 31 July 2020
+| 44
+| DF
+|align=left| {{flagicon|ENG}} [[Marc Guehi]]
+|align=left| {{flagicon|WAL}} [[Swansea City A.F.C.|Swansea City]]
+| Free
+| <ref name="Guehi">{{Cite web|title=Maiden loan switch to the Championship for Guehi|url=https://www.chelseafc.com/en/news/2020/01/10/maiden-loan-switch-to-the-championship-for-guehi|website=chelseafc.com|date=10 January 2020}}</ref>
+|-
+| 15 January 2020
+| 31 July 2020
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Conor Gallagher]]
+|align=left| {{flagicon|WAL}} [[Swansea City A.F.C.|Swansea City]]
+| Free
+| <ref name="Gallagher">{{Cite web|title=Gallagher swaps Charlton for Swansea|url=https://www.chelseafc.com/en/news/2020/01/15/gallagher-swaps-charlton-for-swansea|website=chelseafc.com|date=15 January 2020}}</ref>
+|-
+| 22 January 2020
+| 31 May 2020
+|
+| GK
+|align=left| {{flagicon|ENG}} [[Jamal Blackman]]
+|align=left| {{flagicon|ENG}} [[Bristol Rovers F.C.|Bristol Rovers]]
+| Free
+| <ref name="Blackman">{{Cite web|title=Loan switch back to England for Jamal Blackman|url=https://www.chelseafc.com/en/news/2020/01/22/loan-switch-back-to-england-for-jamal-blackman|website=chelseafc.com|date=22 January 2020}}</ref>
+|-
+| 23 January 2020
+| 31 August 2020
+|
+| MF
+|align=left| {{flagicon|NGA}} [[Victor Moses]]
+|align=left| {{flagicon|ITA}} [[Inter Milan]]
+| £190,000
+| <ref name="Moses">{{Cite web|title=Moses makes Serie A loan switch|url=https://www.chelseafc.com/en/news/2020/01/23/moses-makes-serie-a-loan-switch|website=chelseafc.com|date=23 January 2020}}</ref>
+|-
+| 30 January 2020
+| 30 June 2020
+| 45
+| MF
+|align=left| {{flagicon|ENG}} [[George McEachran]]
+|align=left| {{flagicon|NED}} [[SC Cambuur|Cambuur]]
+| Free
+| <ref name="McEachran">{{Cite web|title=McEachran goes Dutch on first loan move|url=https://www.chelseafc.com/en/news/2020/01/29/mceachran-goes-dutch-on-first-loan-move|website=chelseafc.com|date=30 January 2020}}</ref>
+|-
+| 31 January 2020
+| 30 June 2020
+| 41
+| FW
+|align=left| {{flagicon|ENG}} [[Charlie Brown (footballer, born 1999)|Charlie Brown]]
+|align=left| {{flagicon|BEL}} [[Royale Union Saint-Gilloise|Union SG]]
+| Free
+| <ref>{{Cite web|title=Belgian loan for Charlie Brown|url=https://www.chelseafc.com/en/news/2020/01/31/belgian-loan-for-charlie-brown|website=chelseafc.com|date=31 January 2020}}</ref>
+|-
+| 2 February 2020
+| 31 July 2020
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Jacob Maddox]]
+|align=left| {{flagicon|ENG}} [[Southampton F.C.|Southampton]]
+| Free
+| <ref>{{Cite web|title=Maddox moves on loan|url=https://www.chelseafc.com/en/news/2020/01/31/maddox-moves-on-loan|website=chelseafc.com|date=2 February 2020}}</ref>
+|}
+
+===Overall transfer activity===
+{{col-begin}}
+{{col-3}}
+
+====Expenditure====
+Summer: {{loss}} £40,500,000
+
+Winter: {{loss}} £580,000
+
+Total: {{loss}} £41,080,000
+{{col-3}}
+
+====Income====
+Summer: {{gain}} £150,800,000
+
+Winter: {{gain}} £8,830,000
+
+Total: {{gain}} £159,630,000
+{{col-3}}
+
+====Net totals====
+Summer: {{gain}} £110,300,000
+
+Winter: {{gain}} £8,250,000
+
+Total: {{gain}} £118,550,000
+{{col-end}}
+
+==Friendlies==
+{{Football box collapsible
+| date = 10 July 2019
+| time = 19:45 [[Time in the Republic of Ireland|IST]]
+| team1 = [[Bohemian F.C.|Bohemians]] 
+| goals1 = [[Eric Molloy|Molloy]] {{goal|89}}
+| score = 1–1
+| report = https://www.chelseafc.com/en/news/2019/07/10/report--bohemians-v-chelsea
+| team2 = Chelsea
+| goals2 = [[Michy Batshuayi|Batshuayi]] {{goal|8}}
+| location = [[Dublin]], [[Republic of Ireland]]
+| stadium = [[Dalymount Park]]
+| attendance = 3,800
+| referee = [[Neil Doyle]] ([[Football Association of Ireland|Republic of Ireland]])
+| result = D
+}}
+{{Football box collapsible
+| date = 13 July 2019
+| time = 14:00 [[Time in the Republic of Ireland|IST]]
+| team1 = [[St Patrick's Athletic F.C.|St Patrick's Athletic]] 
+| score = 0–4
+| report = https://www.chelseafc.com/en/news/2019/07/13/report--st-patrick-s-v-chelsea
+| team2 = Chelsea
+| goals2 = [[Mason Mount|Mount]] {{goal|14}} <br> [[Emerson Palmieri|Emerson]] {{goal|31}} <br> [[Olivier Giroud|Giroud]] {{goal|67||88}} <br> [[Andreas Christensen|Christensen]] {{yel|81}}
+| location = [[Dublin]], [[Republic of Ireland]]
+| stadium = [[Richmond Park (football ground)|Richmond Park]]
+| attendance = 5,340
+| referee = Paul McLaughlin ([[Football Association of Ireland|Republic of Ireland]])
+| result = W
+}}
+{{Football box collapsible
+| date = 19 July 2019
+| time = 19:00 [[Japan Standard Time|JST]]
+| round = [[J.League World Challenge#2019 J.League World Challenge|J.League World Challenge]]
+| team1 = [[Kawasaki Frontale]] 
+| goals1 = [[Leandro Damião|Damião]] {{goal|86}}
+| score = 1–0
+| report = https://www.chelseafc.com/en/news/2019/07/19/report--kawasaki-frontale-v-chelsea
+| team2 =  Chelsea
+| location = [[Yokohama]], [[Japan]]
+| stadium = [[Nissan Stadium (Yokohama)|Nissan]]
+| attendance = 61,012
+| referee = [[Yuichi Nishimura]] ([[Japan Football Association|Japan]])
+| result = L
+}}
+{{Football box collapsible
+| date = 23 July 2019
+| time = 19:30 [[Japan Standard Time|JST]]
+| team1 = [[FC Barcelona|Barcelona]] 
+| goals1 = [[Ivan Rakitić|Rakitić]] {{goal|90+1}}
+| score = 1–2
+| report = https://www.chelseafc.com/en/news/2019/07/23/report--chelsea-v-barcelona-saitama-japan
+| team2 = Chelsea
+| goals2 = [[Tammy Abraham|Abraham]] {{goal|34}} <br> [[Ross Barkley|Barkley]] {{goal|81}}
+| location = [[Saitama (city)|Saitama]], [[Japan]]
+| stadium = [[Saitama Stadium 2002|Saitama]]
+| attendance = 51,126
+| referee = [[Masaaki Toma|Masaaki Iemoto]] ([[Japan Football Association|Japan]])
+| result = W
+}}
+{{Football box collapsible
+| date = 28 July 2019
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = [[Reading F.C.|Reading]]
+| goals1 = [[Josh Barrett (footballer)|Barrett]] {{goal|13}} <br> [[Michael Morrison (footballer)|Morrison]] {{goal|49}} <br> [[Sam Baldock|Baldock]] {{goal|71}}
+| score = 3–4
+| report = https://www.chelseafc.com/en/news/2019/07/28/report--reading-v-chelsea
+| team2 = Chelsea
+| goals2 = [[Ross Barkley|Barkley]] {{goal|22}} <br> [[Kenedy (footballer)|Kenedy]] {{goal|42}} <br> [[Mason Mount|Mount]] {{goal|57||60}}
+| location = [[Reading, Berkshire|Reading]], [[England]]
+| stadium = [[Madejski Stadium|Madejski]]
+| attendance = 19,463
+| referee = Tim Robinson ([[The Football Association|England]])
+| result = W
+}}
+{{Football box collapsible
+| date = 31 July 2019
+| time = 20:00 [[Central European Summer Time|CEST]]
+| team1 = [[FC Red Bull Salzburg|Red Bull Salzburg]] 
+| goals1 = [[Jérôme Onguéné|Onguéné]] {{goal|50}} <br> [[Takumi Minamino|Minamino]] {{yel|79}}, {{goal|85|pen.|90+2}}
+| score = 3–5
+| report = https://www.chelseafc.com/en/news/2019/07/31/report--rb-salzburg-v-chelsea
+| team2 = Chelsea
+| goals2 = [[Christian Pulisic|Pulisic]] {{goal|20||28}} <br> [[Ross Barkley|Barkley]] {{goal|23|pen.}} <br> [[Kurt Zouma|Zouma]] {{yel|41}} <br> [[Pedro (footballer, born 1987)|Pedro]] {{goal|57}} <br> [[Michy Batshuayi|Batshuayi]] {{goal|88}}
+| location = [[Salzburg]], [[Austria]]
+| stadium = [[Stadion Wals-Siezenheim|Red Bull Arena]]
+| attendance = 27,643
+| referee = Christopher Jäger ([[Austrian Football Association|Austria]])
+| result = W
+}}
+{{Football box collapsible
+| date = 3 August 2019
+| time = 17:00 [[Central European Summer Time|CEST]]
+| team1 = [[Borussia Mönchengladbach]] 
+| goals1 = [[Alassane Pléa|Pléa]] {{goal|13}} <br> [[Stefan Lainer|Lainer]] {{yel|28}} <br> [[Jonas Hofmann|Hofmann]] {{goal|39}} <br> [[Nico Elvedi|Elvedi]] {{yel|62}}
+| score = 2–2
+| report = https://www.chelseafc.com/en/news/2019/08/03/match-report--borussia-monchengladbach-v-chelsea-
+| team2 = Chelsea
+| goals2 = [[Emerson Palmieri|Emerson]] {{yel|8}} <br> [[Mateo Kovačić|Kovačić]] {{yel|24}} <br> [[Tammy Abraham|Abraham]] {{goal|59|pen.}} <br> [[Pedro (footballer, born 1987)|Pedro]] {{yel|68}} <br> [[Olivier Giroud|Giroud]] {{yel|71}} <br> [[Ross Barkley|Barkley]] {{goal|86|pen.}}
+| location = [[Mönchengladbach]], [[Germany]]
+| stadium = [[Borussia-Park]]
+| attendance = 24,500
+| referee = Martin Thomsen ([[German Football Association|Germany]])
+| result = D
+}}
+{{Football box collapsible
+| date = 10 June 2020
+| time = [[British Summer Time|BST]]
+| team1 = Chelsea 
+| goals1 = [[Pedro (footballer, born 1987)|Pedro]] {{goal|28}}
+| score = 1–0
+| report = https://www.chelseafc.com/en/news/2020/06/10/chelsea-play-reading-in-cobham-friendly
+| team2 =  [[Reading F.C.|Reading]]
+| location = [[Surrey]], [[England]]
+| stadium = [[Cobham Training Centre]]
+| attendance = 0
+| referee =
+| result = W
+}}
+{{Football box collapsible
+| date = 14 June 2020
+| time = [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Mason Mount|Mount]] {{goal|6}} <br> [[Willian (footballer, born 1988)|Willian]] {{goal|29}} <br> [[Ruben Loftus-Cheek|Loftus-Cheek]] {{goal|34||58}} <br> [[Olivier Giroud|Giroud]] {{goal|67}} <br> [[Billy Gilmour (footballer)|Gilmour]] {{goal|79||88}}
+| score = 7–1
+| report = https://www.chelseafc.com/en/news/2020/06/14/chelsea-play-qpr-in-behind-closed-doors-friendly
+| team2 =  [[Queens Park Rangers F.C.|Queens Park Rangers]]
+| goals2 = [[Luke Amos|Amos]] {{goal|90+2}}
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee =
+| result = W
+}}
+
+==Competitions==
+
+===Premier League===
+{{main article|2019–20 Premier League}}
+
+====League table====
+{{:2019–20 Premier League|showteam=CHE}}
+
+====Results summary====
+{{Fb rs |hw=11 |hd=3 |hl=5 |hgf=30 |hga=16 |aw=9 |ad=3 |al=7 |agf=39 |aga=38 }}
+{{Fb rs footer |s=[http://www.premierleague.com/en-gb/matchday/league-table.html Premier League] |date=July 2020}}
+
+====Results by matchday====
+{{#invoke:sports rbr table|table|legendpos=b|header=Matchday
+
+|label1= Ground
+|res1= A/H/A/H/A/H/H/A/H/A/A/H/A/H/H/A/H/A/H/A/A/H/A/H/A/H/H/A/H/A/H/A/H/A/A/H/A/H
+|label2= Result
+|res2= L/D/W/D/W/L/W/W/W/W/W/W/L/L/W/L/L/W/L/W/D/W/L/D/D/L/W/D/W/W/W/L/W/W/L/W/L/W
+|label3= Position
+|res3=19/15/13/11/6/11/7/5/4/4/4/3/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/3/3/3/4/4
+
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_P=#BBBBBB|text_P=Postponed
+|color1=gold|color_2-4=green1|color_5=blue1|color_18–20=red1
+
+|source=[https://www.premierleague.com/fixtures Premier League]
+|date=June 2018
+}}
+
+==== Score overview ====
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+{|class="wikitable" style="text-align: center;"
+|-
+!Opposition
+!Home score
+!Away score
+!Aggregate score
+!Double
+|-
+|[[Arsenal F.C.|Arsenal]]
+| style="background:#ffffbb;"|2–2
+| style="background:#bbf3bb;"|2–1
+| style="background:#bbf3bb;"|4–3
+| {{na}}
+|-
+|[[Aston Villa F.C.|Aston Villa]]
+| style="background:#bbf3bb;"|2–1
+| style="background:#bbf3bb;"|2–1
+| style="background:#bbf3bb;"|4–2
+| {{ya}}
+|-
+||[[AFC Bournemouth|Bournemouth]]
+| style="background:#ffbbbb;"|0–1
+| style="background:#ffffbb;"|2–2
+| style="background:#ffbbbb;"|2–3
+| {{na}}
+|-
+|[[Brighton and Hove Albion F.C.|Brighton]]
+| style="background:#bbf3bb;"|2–0
+| style="background:#ffffbb;"|1–1
+| style="background:#bbf3bb;"|3–1
+|{{na}}
+|-
+|[[Burnley F.C.|Burnley]]
+| style="background:#bbf3bb;"|3–0
+| style="background:#bbf3bb;"|4–2
+| style="background:#bbf3bb;"|7–2
+|{{ya}}
+|-
+|[[Crystal Palace F.C.|Crystal Palace]]
+| style="background:#bbf3bb;"|2–0
+| style="background:#bbf3bb;"|3–2
+| style="background:#bbf3bb;"|5–2
+|{{ya}}
+|-
+|[[Everton F.C.|Everton]]
+|style="background:#bbf3bb;"|4–0
+|style="background:#ffbbbb;"|1–3
+|style="background:#bbf3bb;"|5–3
+|{{na}}
+|-
+|[[Leicester City F.C.|Leicester City]]
+| style="background:#ffffbb;"|1–1
+| style="background:#ffffbb;"|2–2
+| style="background:#ffffbb;"|3–3
+|{{na}}
+|-
+|[[Liverpool F.C.|Liverpool]]
+| style="background:#ffbbbb;"|1–2
+| style="background:#ffbbbb;"|3–5
+| style="background:#ffbbbb;"|4–7
+|{{na}}
+|-
+|[[Manchester City F.C.|Manchester City]]
+| style="background:#bbf3bb;"|2–1
+| style="background:#ffbbbb;"|1–2
+| style="background:#ffffbb;"|3–3
+|{{na}}
+|-
+|[[Manchester United F.C.|Manchester United]]
+| style="background:#ffbbbb;"|0–2
+| style="background:#ffbbbb;"|0–4
+| style="background:#ffbbbb;"|0–6
+|{{na}}
+|-
+|[[Newcastle United F.C.|Newcastle United]]
+| style="background:#bbf3bb;"|1–0
+| style="background:#ffbbbb;"|0–1
+| style="background:#ffffbb;"|1–1
+|{{na}}
+|-
+|[[Norwich City F.C.|Norwich City]]
+| style="background:#bbf3bb;"|1–0
+| style="background:#bbf3bb;"|3–2
+| style="background:#bbf3bb;"|4–2
+| {{ya}}
+|-
+|[[Sheffield United F.C.|Sheffield United]]
+|style="background:#ffffbb;"|2–2
+|style="background:#ffbbbb;"|0–3
+|style="background:#ffbbbb;"|2–5
+|{{na}}
+|-
+|[[Southampton F.C.|Southampton]]
+| style="background:#ffbbbb;"|0–2
+| style="background:#bbf3bb;"|4–1
+| style="background:#bbf3bb;"|4–3
+|{{na}}
+|-
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| style="background:#bbf3bb;"|2–1
+| style="background:#bbf3bb;"|2–0
+| style="background:#bbf3bb;"|4–1
+|{{ya}}
+|-
+|[[Watford F.C.|Watford]]
+| style="background:#bbf3bb;"|3–0
+| style="background:#bbf3bb;"|2–1
+| style="background:#bbf3bb;"|5–1
+| {{ya}}
+|-
+|[[West Ham United F.C.|West Ham United]]
+| style="background:#ffbbbb;"|0–1
+| style="background:#ffbbbb;"|2–3
+| style="background:#ffbbbb;"|2–4
+|{{na}}
+|-
+|[[Wolverhampton Wanderers F.C.|Wolves]]
+| style="background:#bbf3bb;"|2–0
+| style="background:#bbf3bb;"|5–2
+| style="background:#bbf3bb;"|7–2
+|{{ya}}
+|}
+
+====Matches====
+{{Football box collapsible
+| round = 1
+| date = 11 August 2019
+| time = 16:30 [[British Summer Time|BST]]
+| team1 = [[Manchester United F.C.|Manchester United]]
+| goals1 = [[Marcus Rashford|Rashford]] {{goal|18|pen.|67}} <br> [[Jesse Lingard|Lingard]] {{yel|48}} <br> [[Anthony Martial|Martial]] {{goal|65}}, {{yel|80}} <br> [[Victor Lindelöf|Lindelöf]] {{yel|69}} <br> [[Daniel James (footballer)|James]] {{goal|81}}
+| score = 4–0
+| report = https://www.premierleague.com/match/46613
+| team2 = Chelsea
+| goals2 = [[Kurt Zouma|Zouma]] {{yel|36}} <br> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|52}} <br> [[Tammy Abraham|Abraham]] {{yel|57}} <br> [[N'Golo Kanté|Kanté]] {{yel|90}}
+| location = [[Manchester]]
+| stadium = [[Old Trafford]]
+| attendance = 73,620
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = L
+}}
+{{Football box collapsible
+| round = 2
+| date = 18 August 2019
+| time = 16:30 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Mason Mount|Mount]] {{goal|7}} <br> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|37}}
+| score = 1–1
+| report = https://www.premierleague.com/match/46618
+| team2 = [[Leicester City F.C.|Leicester City]]
+| goals2 = [[Wilfred Ndidi|Ndidi]] {{goal|67}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,629
+| referee = [[Oliver Langford]]
+| result = D
+}}
+{{Football box collapsible
+| round = 3
+| date = 24 August 2019
+| time = 12:30 [[British Summer Time|BST]]
+| team1 = [[Norwich City F.C.|Norwich City]]
+| goals1 = [[Todd Cantwell|Cantwell]] {{goal|6}} <br> [[Teemu Pukki|Pukki]] {{goal|30}} <br> [[Marco Stiepermann|Stiepermann]] {{yel|43}}
+| score = 2–3
+| report = https://www.premierleague.com/match/46630
+| team2 = Chelsea
+| goals2 = [[Tammy Abraham|Abraham]] {{goal|3||68}} <br> [[Mason Mount|Mount]] {{goal|17}} <br> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|33}}
+| location = [[Norwich]]
+| stadium = [[Carrow Road]]
+| attendance = 27,032
+| referee = [[Martin Atkinson]]
+| result = W
+}}
+{{Football box collapsible
+| round = 4
+| date = 31 August 2019
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Tammy Abraham|Abraham]] {{goal|19||43}}
+| score = 2–2
+| report = https://www.premierleague.com/match/46637
+| team2 = [[Sheffield United F.C.|Sheffield United]]
+| goals2 = [[Oli McBurnie|McBurnie]] {{yel|45+1}} <br> [[Callum Robinson|Robinson]] {{goal|46}} <br> [[Kurt Zouma|Zouma]] {{goal|89|o.g.}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,560
+| referee = [[Stuart Attwell]]
+| result = D
+}}
+{{Football box collapsible
+| round = 5
+| date = 14 September 2019
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| goals1 = [[Tammy Abraham|Abraham]] {{goal|69|o.g.}} <br> [[Romain Saïss|Saïss]] {{yel|79}} <br> [[Patrick Cutrone|Cutrone]] {{goal|85}}
+| score = 2–5
+| report = https://www.premierleague.com/match/46654
+| team2 = Chelsea
+| goals2 = [[Fikayo Tomori|Tomori]] {{goal|31}} <br> [[Tammy Abraham|Abraham]] {{goal|34||41||55}}, {{yel|62}} <br> [[Andreas Christensen|Christensen]] {{yel|64}} <br> [[Mason Mount|Mount]] {{goal|90+6}}
+| location = [[Wolverhampton]]
+| stadium = [[Molineux Stadium|Molineux]]
+| attendance = 31,534
+| referee = [[Graham Scott (referee)|Graham Scott]]
+| result = W
+}}
+{{Football box collapsible
+| round = 6
+| date = 22 September 2019
+| time = 16:30 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Fikayo Tomori|Tomori]] {{yel|20}} <br> [[N'Golo Kanté|Kanté]] {{goal|71}} <br> [[Mateo Kovačić|Kovačić]] {{yel|84}} <br> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|90+4}}
+| score = 1–2
+| report = https://www.premierleague.com/match/46657
+| team2 = [[Liverpool F.C.|Liverpool]]
+| goals2 = [[Trent Alexander-Arnold|Alexander-Arnold]] {{goal|14}}, {{yel|57}} <br> [[Roberto Firmino|Firmino]] {{goal|30}} <br> [[Fabinho (footballer, born 1993)|Fabinho]] {{yel|78}} <br> [[James Milner|Milner]] {{yel|86}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,638
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = L
+}}
+{{Football box collapsible
+| round = 7
+| date = 28 September 2019
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Andreas Christensen|Christensen]] {{yel|23}} <br> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|31}} <br> [[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|50|pen.}} <br> [[Willian (footballer, born 1988)|Willian]] {{goal|76}}
+| score = 2–0
+| report = https://www.premierleague.com/match/46667
+| team2 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| goals2 = [[Neal Maupay|Maupay]] {{yel|28}} <br> [[Steven Alzate|Alzate]] {{yel|33}} <br> [[Adam Webster (footballer, born 1995)|Webster]] {{yel|49}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,683
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+}}
+{{Football box collapsible
+| round = 8
+| date = 6 October 2019
+| time = 14:00 [[British Summer Time|BST]]
+| team1 = [[Southampton F.C.|Southampton]]
+| goals1 = [[Danny Ings|Ings]] {{goal|30}}
+| score = 1–4
+| report = https://www.premierleague.com/match/46682
+| team2 = Chelsea
+| goals2 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|12}} <br> [[Tammy Abraham|Abraham]] {{goal|17}} <br> [[Mason Mount|Mount]] {{goal|24}} <br> [[N'Golo Kanté|Kanté]] {{goal|40}} <br> [[Michy Batshuayi|Batshuayi]] {{goal|89}}
+| location = [[Southampton]]
+| stadium = [[St Mary's Stadium|St. Mary's]]
+| attendance = 31,473
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| result = W
+}}
+{{Football box collapsible
+| round = 9
+| date = 19 October 2019
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|23}}, {{goal|73}} <br> [[Fikayo Tomori|Tomori]] {{yel|45+1}}
+| score = 1–0
+| report = https://www.premierleague.com/match/46687
+| team2 = [[Newcastle United F.C.|Newcastle United]]
+| goals2 = [[Ciaran Clark|Clark]] {{yel|43}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,513
+| referee = [[Andre Marriner]]
+| result = W
+}}
+{{Football box collapsible
+| round = 10
+| date = 26 October 2019
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[Burnley F.C.|Burnley]]
+| goals1 = [[Jeff Hendrick|Hendrick]] {{yel|65}} <br> [[Erik Pieters|Pieters]] {{yel|67}} <br> [[Jay Rodriguez|Rodriguez]] {{goal|86}} <br> [[Dwight McNeil|McNeil]] {{goal|89}} <br> [[Robbie Brady|Brady]] {{yel|90+2}}
+| score = 2–4
+| report = https://www.premierleague.com/match/46697
+| team2 = Chelsea
+| goals2 = [[Christian Pulisic|Pulisic]] {{goal|21||45||56}} <br> [[Willian (footballer, born 1988)|Willian]] {{yel|53}}, {{goal|58}} <br> [[Callum Hudson-Odoi|Hudson-Odoi]] {{yel|77}}
+| location = [[Burnley]]
+| stadium = [[Turf Moor]]
+| attendance = 20,975
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = W
+}}
+{{Football box collapsible
+| round = 11
+| date = 2 November 2019
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Watford F.C.|Watford]]
+| goals1 = [[Christian Kabasele|Kabasele]] {{yel|46}} <br> [[Daryl Janmaat|Janmaat]] {{yel|70}} <br> [[Gerard Deulofeu|Deulofeu]] {{goal|80|pen.}} <br> [[Craig Dawson|Dawson]] {{yel|82}} <br> [[Adrian Mariappa|Mariappa]] {{yel|88}}
+| score = 1–2
+| report = https://www.premierleague.com/match/46713
+| team2 = Chelsea
+| goals2 = [[Tammy Abraham|Abraham]] {{goal|5}} <br> [[Christian Pulisic|Pulisic]] {{goal|55}} <br> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|89}} <br> [[Mason Mount|Mount]] {{yel|90+6}}
+| location = [[Watford]]
+| stadium = [[Vicarage Road]]
+| attendance = 21,011
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = W
+}}
+{{Football box collapsible
+| round = 12
+| date = 9 November 2019
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Willian (footballer, born 1988)|Willian]] {{yel|17}} <br> [[Emerson Palmieri|Emerson]] {{yel|31}} <br> [[Mateo Kovačić|Kovačić]] {{yel|33}} <br> [[Tammy Abraham|Abraham]] {{goal|52}} <br> [[Christian Pulisic|Pulisic]] {{goal|79}}
+| score = 2–0
+| report = https://www.premierleague.com/match/46716
+| team2 = [[Crystal Palace F.C.|Crystal Palace]]
+| goals2 = [[Wilfried Zaha|Zaha]] {{yel|21}} <br> [[James McCarthy (footballer)|McCarthy]] {{yel|90+3}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,525
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = W
+}}
+{{Football box collapsible
+| round = 13
+| date = 23 November 2019
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Manchester City F.C.|Manchester City]]
+| goals1 = [[Kevin De Bruyne|De Bruyne]] {{goal|29}} <br> [[Riyad Mahrez|Mahrez]] {{goal|37}} <br> [[İlkay Gündoğan|Gündoğan]] {{yel|90+1}}
+| score = 2–1
+| report = https://www.premierleague.com/match/46731
+| team2 = Chelsea
+| goals2 = [[N'Golo Kanté|Kanté]] {{goal|21}} <br> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|61}}
+| location = [[Manchester]]
+| stadium = [[City of Manchester Stadium|Etihad]]
+| attendance = 54,486
+| referee = [[Martin Atkinson]]
+| result = L
+}}
+{{Football box collapsible
+| round = 14
+| date = 30 November 2019
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| score = 0–1
+| report = https://www.premierleague.com/match/46736
+| team2 = [[West Ham United F.C.|West Ham United]]
+| goals2 = [[Aaron Cresswell|Cresswell]] {{goal|48}}, {{yel|90+5}} <br> [[Pablo Fornals|Fornals]] {{yel|65}} <br> [[Andriy Yarmolenko|Yarmolenko]] {{yel|88}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,595
+| referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+| result = L
+}}
+{{Football box collapsible
+| round = 15
+| date = 4 December 2019
+| time = 19:30 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Tammy Abraham|Abraham]] {{goal|24}} <br> [[Mason Mount|Mount]] {{yel|45}}, {{goal|48}} <br> [[Mateo Kovačić|Kovačić]] {{yel|81}}
+| score = 2–1
+| report = https://www.premierleague.com/match/46751
+| team2 = [[Aston Villa F.C.|Aston Villa]]
+| goals2 = [[Trézéguet (Egyptian footballer)|Trézéguet]] {{goal|41}} <br> [[Matt Targett (footballer)|Targett]] {{yel|64}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,628
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+}}
+{{Football box collapsible
+| round = 16
+| date = 7 December 2019
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Everton F.C.|Everton]]
+| goals1 = [[Richarlison]] {{goal|5}}, {{yel|42}} <br> [[Lucas Digne|Digne]] {{yel|30}} <br> [[Dominic Calvert-Lewin|Calvert-Lewin]] {{goal|49||84}}, {{yel|68}}
+| score = 3–1
+| report = https://www.premierleague.com/match/46758
+| team2 = Chelsea
+| goals2 = [[Mateo Kovačić|Kovačić]] {{goal|52}}
+| location = [[Liverpool]]
+| stadium = [[Goodison Park]]
+| attendance = 39,114
+| referee = [[Craig Pawson]]
+| result = L
+}}
+{{Football box collapsible
+| round = 17
+| date = 14 December 2019
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Mateo Kovačić|Kovačić]] {{yel|81}}
+| score = 0–1
+| report = https://www.premierleague.com/match/46767
+| team2 = [[AFC Bournemouth|Bournemouth]]
+| goals2 = [[Lewis Cook (footballer, born 1997)|L. Cook]] {{yel|50}} <br> [[Dan Gosling|Gosling]] {{yel|82}}, {{goal|84}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,243
+| referee = [[Graham Scott (referee)|Graham Scott]]
+| result = L
+}}
+{{Football box collapsible
+| round = 18
+| date = 22 December 2019
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| goals1 = [[Dele Alli|Alli]] {{yel|43}} <br> [[Paulo Gazzaniga|Gazzaniga]] {{yel|45+3}} <br> [[Moussa Sissoko|Sissoko]] {{yel|58}} <br> [[Son Heung-min|Son]] {{sentoff|0|62}} <br> [[Toby Alderweireld|Alderweireld]] {{yel|67}}
+| score = 0–2
+| report = https://www.premierleague.com/match/46782
+| team2 = Chelsea
+| goals2 = [[Willian (footballer, born 1988)|Willian]] {{goal|12||45+4|pen.}} <br> [[Kurt Zouma|Zouma]] {{yel|31}} <br> [[Mateo Kovačić|Kovačić]] {{yel|43}} <br> [[Antonio Rüdiger|Rüdiger]] {{yel|78}}
+| location = [[London]]
+| stadium = [[Tottenham Hotspur Stadium|Tottenham Hotspur]]
+| attendance = 61,104
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = W
+}}
+{{Football box collapsible
+| round = 19
+| date = 26 December 2019
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|58}} <br> [[N'Golo Kanté|Kanté]] {{yel|62}} <br> [[Fikayo Tomori|Tomori]] {{yel|62}}
+| score = 0–2
+| report = https://www.premierleague.com/match/46787
+| team2 = [[Southampton F.C.|Southampton]]
+| goals2 = [[Ryan Bertrand|Bertrand]] {{yel|30}} <br> [[Michael Obafemi|Obafemi]] {{goal|31}} <br> [[Nathan Redmond|Redmond]] {{goal|73}} <br> [[Sofiane Boufal|Boufal]] {{yel|90+4}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,651
+| referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+| result = L
+}}
+{{Football box collapsible
+| round = 20
+| date = 29 December 2019
+| time = 14:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Arsenal F.C.|Arsenal]]
+| goals1 = [[Matteo Guendouzi|Guendouzi]] {{yel|10}} <br> [[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|13}} <br> [[David Luiz]] {{yel|47}} <br> [[Lucas Torreira|Torreira]] {{yel|73}} <br> [[Alexandre Lacazette|Lacazette]] {{yel|77}} <br> [[Ainsley Maitland-Niles|Maitland-Niles]] {{yel|90+1}}
+| score = 1–2
+| report = https://www.premierleague.com/match/46795
+| team2 = Chelsea
+| goals2 = [[Mason Mount|Mount]] {{yel|30}} <br> [[N'Golo Kanté|Kanté]] {{yel|30}} <br> [[Antonio Rüdiger|Rüdiger]] {{yel|34}} <br> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|55}}, {{goal|83}} <br> [[Tammy Abraham|Abraham]] {{goal|87}}
+| location = [[London]]
+| stadium = [[Emirates Stadium|Emirates]]
+| attendance = 60,309
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{Football box collapsible
+| round = 21
+| date = 1 January 2020
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| goals1 = [[Lewis Dunk|Dunk]] {{yel|71}} <br> [[Alireza Jahanbakhsh|Jahanbakhsh]] {{goal|84}} <br> [[Neal Maupay|Maupay]] {{yel|90+1}}
+| score = 1–1
+| report = https://www.premierleague.com/match/46806
+| team2 = Chelsea
+| goals2 = [[César Azpilicueta|Azpilicueta]] {{goal|10}} <br> [[Kurt Zouma|Zouma]] {{yel|69}} <br> [[Mateo Kovačić|Kovačić]] {{yel|82}} <br> [[Reece James (footballer, born 1999)|James]] {{yel|90+4}}
+| location = [[Falmer]]
+| stadium = [[Falmer Stadium|Amex]]
+| attendance = 30,559
+| referee = [[Stuart Attwell]]
+| result = D
+}}
+{{Football box collapsible
+| round = 22
+| date = 11 January 2020
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|27|pen.}} <br> [[Tammy Abraham|Abraham]] {{goal|38}} <br> [[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|49}}
+| score = 3–0
+| report = https://www.premierleague.com/match/46817
+| team2 = [[Burnley F.C.|Burnley]]
+| goals2 = [[Dwight McNeil|McNeil]] {{yel|45+2}} <br> [[Ashley Westwood (footballer, born 1990)|Westwood]] {{yel|54}} <br> [[Aaron Lennon|Lennon]] {{yel|59}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,396
+| referee = [[Kevin Friend]]
+| result = W
+}}
+{{Football box collapsible
+| round = 23
+| date = 18 January 2020
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Newcastle United F.C.|Newcastle United]]
+| goals1 = [[Isaac Hayden|Hayden]] {{yel|55}}, {{goal|90+4}}
+| score = 1–0
+| report = https://www.premierleague.com/match/46830
+| team2 = Chelsea
+| goals2 = [[Emerson Palmieri|Emerson]] {{yel|84}}
+| location = [[Newcastle upon Tyne|Newcastle]]
+| stadium = [[St James' Park]]
+| attendance = 52,217
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = L
+}}
+{{Football box collapsible
+| round = 24
+| date = 21 January 2020
+| time = 20:15 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Emerson Palmieri|Emerson]] {{yel|21}} <br> [[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|28|pen.}} <br> [[Andreas Christensen|Christensen]] {{yel|59}} <br> [[César Azpilicueta|Azpilicueta]] {{goal|84}}
+| score = 2–2
+| report = https://www.premierleague.com/match/46842
+| team2 = [[Arsenal F.C.|Arsenal]]
+| goals2 = [[David Luiz]] {{sentoff|0|26}} <br> [[Gabriel Martinelli|Martinelli]] {{goal|63}} <br> [[Matteo Guendouzi|Guendouzi]] {{yel|76}} <br> [[Héctor Bellerín|Bellerín]] {{goal|87}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,577
+| referee = [[Stuart Attwell]]
+| result = D
+}}
+{{Football box collapsible
+| round = 25
+| date = 1 February 2020
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Leicester City F.C.|Leicester City]]
+| goals1 = [[Harvey Barnes|Barnes]] {{goal|54}} <br> [[James Maddison|Maddison]] {{yel|61}} <br> [[Ben Chilwell|Chilwell]] {{goal|64}} <br> [[Jonny Evans|Evans]] {{yel|90+3}}
+| score = 2–2
+| report = https://www.premierleague.com/match/46848
+| team2 = Chelsea
+| goals2 = [[Antonio Rüdiger|Rüdiger]] {{goal|46||71}} <br> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|56}} <br> [[Mateo Kovačić|Kovačić]] {{yel|76}}
+| location = [[Leicester]]
+| stadium = [[King Power Stadium|King Power]]
+| attendance = 32,186
+| referee = [[Lee Mason]]
+| result = D
+}}
+{{Football box collapsible
+| round = 26
+| date = 17 February 2020
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Willian (footballer, born 1988)|Willian]] {{yel|35}} <br> [[Antonio Rüdiger|Rüdiger]] {{yel|48}} <br> [[Kurt Zouma|Zouma]] {{yel|59}} <br> [[Pedro (footballer, born 1987)|Pedro]] {{yel|64}}
+| score = 0–2
+| report = https://www.premierleague.com/match/46858
+| team2 = [[Manchester United F.C.|Manchester United]]
+| goals2 = [[Anthony Martial|Martial]] {{goal|45}} <br> [[Fred (footballer, born 1993)|Fred]] {{yel|59}} <br> [[Harry Maguire|Maguire]] {{goal|66}} <br> [[Brandon Williams (footballer)|Williams]] {{yel|76}} <br> [[Aaron Wan-Bissaka|Wan-Bissaka]] {{yel|79}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,504
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = L
+}}
+{{Football box collapsible
+| round = 27
+| date = 22 February 2020
+| time = 12:30 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Olivier Giroud|Giroud]] {{goal|15}} <br> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{goal|48}} <br> [[Andreas Christensen|Christensen]] {{yel|65}}
+| score = 2–1
+| report = https://www.premierleague.com/match/46867
+| team2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| goals2 = [[Harry Winks|Winks]] {{yel|23}} <br> [[Giovani Lo Celso|Lo Celso]] {{yel|81}} <br> [[Antonio Rüdiger|Rüdiger]] {{goal|89|o.g.}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,608
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = W
+}}
+{{Football box collapsible
+| round = 28
+| date = 29 February 2020
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[AFC Bournemouth|Bournemouth]]
+| goals1 = [[Jefferson Lerma|Lerma]] {{goal|54}} <br> [[Joshua King (footballer, born 1992)|King]] {{goal|57}} <br> [[Adam Smith (footballer, born 1991)|Smith]] {{yel|59}} <br> [[Callum Wilson (footballer, born 1992)|C. Wilson]] {{yel|88}}
+| score = 2–2
+| report = https://www.premierleague.com/match/46876
+| team2 = Chelsea
+| goals2 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|17}} <br> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{goal|33||85}} <br> [[Andreas Christensen|Christensen]] {{yel|71}}
+| location = [[Bournemouth]]
+| stadium = [[Dean Court|Vitality]]
+| attendance = 10,667
+| referee = [[Andre Marriner]]
+| result = D
+}}
+{{Football box collapsible
+| round = 29
+| date = 8 March 2020
+| time = 14:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Mason Mount|Mount]] {{goal|14}} <br> [[Pedro (footballer, born 1987)|Pedro]] {{goal|21}} <br> [[Willian (footballer, born 1988)|Willian]] {{goal|51}} <br> [[Olivier Giroud|Giroud]] {{goal|54}} <br> [[Kurt Zouma|Zouma]] {{yel|82}}
+| score = 4–0
+| report = https://www.premierleague.com/match/46887
+| team2 = [[Everton F.C.|Everton]]
+| goals2 = [[André Gomes|Gomes]] {{yel|53}} <br> [[Mason Holgate|Holgate]] {{yel|90+1}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,694
+| referee = [[Kevin Friend]]
+| result = W
+}}
+{{Football box collapsible
+| round = 30
+| date = 21 June 2020
+| time = 16:15 [[British Summer Time|BST]]
+| team1 = [[Aston Villa F.C.|Aston Villa]]
+| goals1 = [[Kortney Hause|Hause]] {{goal|43}} <br> [[Ezri Konsa|Konsa]] {{yel|45}} <br> [[Jack Grealish|Grealish]] {{yel|90+6}}
+| score = 1–2
+| report = https://www.premierleague.com/match/46895
+| team2 = Chelsea
+| goals2 = [[Christian Pulisic|Pulisic]] {{goal|60}} <br> [[Olivier Giroud|Giroud]] {{goal|62}} <br> [[N'Golo Kanté|Kanté]] {{yel|90+4}}
+| location = [[Birmingham]]
+| stadium = [[Villa Park]]
+| attendance = 0
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| result = W
+}}
+{{Football box collapsible
+| round = 31
+| date = 25 June 2020
+| time = 20:15 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Christian Pulisic|Pulisic]] {{goal|36}} <br> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|38}} <br> [[Willian (footballer, born 1988)|Willian]] {{goal|78|pen.}}
+| score = 2–1
+| report = https://www.premierleague.com/match/46906
+| team2 = [[Manchester City F.C.|Manchester City]]
+| goals2 = [[Kevin De Bruyne|De Bruyne]] {{goal|55}}, {{yel|76}} <br> [[Fernandinho (footballer, born May 1985)|Fernandinho]] {{sentoff|0|77}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Stuart Attwell]]
+| result = W
+}}
+{{Football box collapsible
+| round = 32
+| date = 1 July 2020
+| time = 20:15 [[British Summer Time|BST]]
+| team1 = [[West Ham United F.C.|West Ham United]]
+| goals1 = [[Tomáš Souček|Souček]] {{goal|45+2}} <br> [[Michail Antonio|Antonio]] {{goal|51}} <br> [[Manuel Lanzini|Lanzini]] {{yel|65}} <br> [[Declan Rice|Rice]] {{yel|70}} <br> [[Andriy Yarmolenko|Yarmolenko]] {{goal|89}}
+| score = 3–2
+| report = https://www.premierleague.com/match/46924
+| team2 = Chelsea
+| goals2 = [[Willian (footballer, born 1988)|Willian]] {{goal|42|pen.|72}}, {{yel|82}}
+| location = [[London]]
+| stadium = [[London Stadium|London]]
+| attendance = 0
+| referee = [[Martin Atkinson]]
+| result = L
+}}
+{{Football box collapsible
+| round = 33
+| date = 4 July 2020
+| time = 20:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Olivier Giroud|Giroud]] {{goal|28}} <br> [[Willian (footballer, born 1988)|Willian]] {{goal|43|pen.}} <br> [[Ross Barkley|Barkley]] {{goal|90+2}}
+| score = 3–0
+| report = https://www.premierleague.com/match/46926
+| team2 = [[Watford F.C.|Watford]]
+| goals2 = [[Étienne Capoue|Capoue]] {{yel|21}} <br> [[Adrian Mariappa|Mariappa]] {{yel|49}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Kevin Friend]]
+| result = W
+}}
+{{Football box collapsible
+| round = 34
+| date = 7 July 2020
+| time = 18:00 [[British Summer Time|BST]]
+| team1 = [[Crystal Palace F.C.|Crystal Palace]]
+| goals1 = [[Wilfried Zaha|Zaha]] {{goal|34}} <br> [[Luka Milivojević|Milivojević]] {{yel|35}} <br> [[Christian Benteke|Benteke]] {{goal|72}}
+| score = 2–3
+| report = https://www.premierleague.com/match/46939
+| team2 = Chelsea
+| goals2 = [[Olivier Giroud|Giroud]] {{goal|6}} <br> [[Christian Pulisic|Pulisic]] {{goal|27}} <br> [[Tammy Abraham|Abraham]] {{goal|71}}
+| location = [[London]]
+| stadium = [[Selhurst Park]]
+| attendance = 0
+| referee = [[David Coote (referee)|David Coote]]
+| result = W
+}}
+{{Football box collapsible
+| round = 35
+| date = 11 July 2020
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[Sheffield United F.C.|Sheffield United]]
+| goals1 = [[George Baldock|Baldock]] {{yel|3}} <br> [[David McGoldrick|McGoldrick]] {{goal|18||77}} <br> [[Oli McBurnie|McBurnie]] {{goal|33}}
+| score = 3–0
+| report = https://www.premierleague.com/match/46951
+| team2 = Chelsea
+| location = [[Sheffield]]
+| stadium = [[Bramall Lane]]
+| attendance = 0
+| referee = [[Andre Marriner]]
+| result = L
+}}
+{{Football box collapsible
+| round = 36
+| date = 14 July 2020
+| time = 20:15 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Olivier Giroud|Giroud]] {{goal|45+3}} <br> [[Kurt Zouma|Zouma]] {{yel|60}} <br> [[Mateo Kovačić|Kovačić]] {{yel|62}}
+| score = 1–0
+| report = https://www.premierleague.com/match/46957
+| team2 = [[Norwich City F.C.|Norwich City]]
+| goals2 = [[Todd Cantwell|Cantwell]] {{yel|58}} <br> [[Emi Buendía|Buendía]] {{yel|88}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Jonathan Moss (referee)|Jonathan Moss]]
+| result = W
+}}
+{{Football box collapsible
+| round = 37
+| date = 22 July 2020
+| time = 20:15 [[British Summer Time|BST]]
+| team1 = [[Liverpool F.C.|Liverpool]]
+| goals1 = [[Naby Keïta|Keïta]] {{goal|23}} <br> [[Trent Alexander-Arnold|Alexander-Arnold]] {{goal|38}} <br> [[Georginio Wijnaldum|Wijnaldum]] {{goal|43}} <br> [[Roberto Firmino|Firmino]] {{goal|54}} <br> [[Joe Gomez (footballer)|Gomez]] {{yel|83}} <br> [[Alex Oxlade-Chamberlain|Oxlade-Chamberlain]] {{goal|84}}
+| score = 5–3
+| report = https://www.premierleague.com/match/46968
+| team2 = Chelsea
+| goals2 = [[Olivier Giroud|Giroud]] {{goal|45+3}} <br> [[Tammy Abraham|Abraham]] {{goal|61}} <br> [[Christian Pulisic|Pulisic]] {{goal|73}}
+| location = [[Liverpool]]
+| stadium = [[Anfield]]
+| attendance = 0
+| referee = [[Andre Marriner]]
+| result = L
+}}
+{{Football box collapsible
+| round = 38
+| date = 26 July 2020
+| time = 16:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Mason Mount|Mount]] {{goal|45+1}} <br> [[Olivier Giroud|Giroud]] {{yel|45+3}}, {{goal|45+4}} <br> [[César Azpilicueta|Azpilicueta]] {{yel|90+2}}
+| score = 2–0
+| report = https://www.premierleague.com/match/46977
+| team2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| goals2 = [[Diogo Jota|Jota]] {{yel|22}} <br> [[Pedro Neto|Neto]] {{yel|45+1}} <br> [[Leander Dendoncker|Dendoncker]] {{yel|83}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 0
+| referee = [[Stuart Attwell]]
+| result = W
+}}
+
+===FA Cup===
+{{main article|2019–20 FA Cup}}
+
+{{Football box collapsible
+| round = Third round
+| date = 5 January 2020
+| time = 14:01 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|6}} <br> [[Ross Barkley|Barkley]] {{goal|33}} <br> [[Reece James (footballer, born 1999)|James]] {{yel|65}}
+| score = 2–0
+| report = https://www.chelseafc.com/en/news/2020/01/05/match-report--chelsea-2-nottingham-forest-0
+| team2 = [[Nottingham Forest F.C.|Nottingham Forest]]
+| goals2 = [[Ryan Yates|Yates]] {{yel|77}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,492
+| referee = [[Peter Bankes]]
+| result = W
+}}
+{{Football box collapsible
+| round = Fourth round
+| date = 25 January 2020
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Hull City A.F.C.|Hull City]]
+| goals1 = [[Eric Lichaj|Lichaj]] {{yel|63}} <br> [[Kamil Grosicki|Grosicki]] {{goal|78}}
+| score = 1–2
+| report = https://www.chelseafc.com/en/news/2020/01/25/match-report--hull-vs-chelsea
+| team2 = Chelsea
+| goals2 = [[Michy Batshuayi|Batshuayi]] {{goal|6}} <br> [[Mateo Kovačić|Kovačić]] {{yel|46}} <br> [[Fikayo Tomori|Tomori]] {{goal|64}} <br> [[Kurt Zouma|Zouma]] {{yel|90}}
+| location = [[Kingston upon Hull|Hull]]
+| stadium = [[KCOM Stadium|KCOM]]
+| attendance = 24,109
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{Football box collapsible
+| round = Fifth round
+| date = 3 March 2020
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Willian (footballer, born 1988)|Willian]] {{goal|13}} <br> [[Ross Barkley|Barkley]] {{goal|64}}
+| score = 2–0
+| report = https://www.chelseafc.com/en/news/2020/03/03/match-report--chelsea-vs-liverpool-fa-cup
+| team2 = [[Liverpool F.C.|Liverpool]]
+| goals2 = [[Fabinho (footballer, born 1993)|Fabinho]] {{yel|61}} <br> [[James Milner|Milner]] {{yel|76}} <br> [[Sadio Mané|Mané]] {{yel|90+4}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,103
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+}}
+{{Football box collapsible
+| round = Quarter-finals
+| date = 28 June 2020
+| time = 16:00 [[British Summer Time|BST]]
+| team1 = [[Leicester City F.C.|Leicester City]]
+| goals1 = [[Çağlar Söyüncü|Söyüncü]] {{yel|23}}
+| score = 0–1
+| report = https://www.chelseafc.com/en/news/2020/06/28/match-report--leicester-vs-chelsea
+| team2 = Chelsea
+| goals2 = [[Ross Barkley|Barkley]] {{goal|63}}
+| location = [[Leicester]]
+| stadium = [[King Power Stadium|King Power]]
+| attendance = 0
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = W
+}}
+{{Football box collapsible
+| round = Semi-finals
+| date = 19 July 2020
+| time = 18:00 [[British Summer Time|BST]]
+| team1 = [[Manchester United F.C.|Manchester United]]
+| goals1 = [[Paul Pogba|Pogba]] {{yel|71}} <br> [[Bruno Fernandes|Fernandes]] {{goal|85|pen.}}
+| score = 1–3
+| report = https://www.chelseafc.com/en/news/2020/07/19/match-report--chelsea-vs-manchester-united
+| team2 = Chelsea
+| goals2 = [[Olivier Giroud|Giroud]] {{goal|45+11}} <br> [[Mason Mount|Mount]] {{goal|46}} <br> [[Harry Maguire|Maguire]] {{goal|74|o.g.}}
+| location = [[London]]
+| stadium = [[Wembley Stadium|Wembley]]
+| attendance = 0
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[2020 FA Cup Final|Final]]
+| date = 1 August 2020
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = [[Arsenal F.C.|Arsenal]]
+| goals1 = [[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|28|pen.|67}} <br> [[Dani Ceballos|Ceballos]] {{yel|73}}
+| score = 2–1
+| report = https://www.chelseafc.com/en/news/2020/08/01/fa-cup-final-match-report--chelsea-vs-arsenal
+| team2 = Chelsea
+| goals2 = [[Christian Pulisic|Pulisic]] {{goal|5}} <br> [[Mateo Kovačić|Kovačić]] {{sentoff|2|14|73}} <br> [[César Azpilicueta|Azpilicueta]] {{yel|26}} <br> [[Mason Mount|Mount]] {{yel|45+4}} <br> [[Antonio Rüdiger|Rüdiger]] {{yel|75}} <br> [[Ross Barkley|Barkley]] {{yel|89}}
+| location = [[London]]
+| stadium = [[Wembley Stadium|Wembley]]
+| attendance = 0
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = L
+}}
+
+===EFL Cup===
+{{main article|2019–20 EFL Cup}}
+
+{{Football box collapsible
+| round = Third round
+| date = 25 September 2019
+| time = 19:45 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Ross Barkley|Barkley]] {{goal|4}} <br> [[Michy Batshuayi|Batshuayi]] {{goal|7||86}} <br> [[Pedro (footballer, born 1987)|Pedro]] {{goal|43|pen.}} <br> [[Kurt Zouma|Zouma]] {{goal|56}} <br> [[Reece James (footballer, born 1999)|James]] {{goal|82}} <br> [[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|89}}
+| score = 7–1
+| report = https://www.chelseafc.com/en/news/2019/09/25/report--chelsea-vs-grimsby
+| team2 = [[Grimsby Town F.C.|Grimsby Town]]
+| goals2 = [[Matt Green (footballer)|Green]] {{goal|19}}, {{yel|28}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 39,674
+| referee = [[Keith Stroud]]
+| result = W
+}}
+{{Football box collapsible
+| round = Fourth round
+| date = 30 October 2019
+| time = 20:05 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Michy Batshuayi|Batshuayi]] {{yel|18}}, {{goal|61}} <br> [[Mateo Kovačić|Kovačić]] {{yel|90}}
+| score = 1–2
+| report = https://www.chelseafc.com/en/news/2019/10/30/match-report--chelsea-vs-manchester-united
+| team2 = [[Manchester United F.C.|Manchester United]]
+| goals2 = [[Scott McTominay|McTominay]] {{yel|11}} <br> [[Marcus Rashford|Rashford]] {{goal|25|pen.|73}} <br> [[Fred (footballer, born 1993)|Fred]] {{yel|83}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 38,645
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| result = L
+}}
+
+===UEFA Champions League===
+{{main article|2019–20 UEFA Champions League}}
+
+====Group stage====
+'''Tables'''
+{{:2019–20 UEFA Champions League group stage|transcludesection=Group H|show_matches=no|showteam=CHE|title=Group H}}
+'''Matches'''
+{{Football box collapsible
+| round = 1
+| date = 17 September 2019
+| time = 20:00 [[British Summer Time|BST]]
+| team1 = Chelsea {{flagicon|ENG}}
+| goals1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|33}} <br> [[Olivier Giroud|Giroud]] {{yel|90}}
+| score = 0–1
+| report = https://www.uefa.com/uefachampionsleague/match/2027039--chelsea-vs-valencia/
+| team2 = {{flagicon|ESP}} [[Valencia CF|Valencia]]
+| goals2 = [[Francis Coquelin|Coquelin]] {{yel|9}} <br> [[Rodrigo (footballer, born 1991)|Rodrigo]] {{goal|74}}
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 39,469
+| referee = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+| result = L
+}}
+{{Football box collapsible
+| round = 2
+| date = 2 October 2019
+| time = 21:00 [[Central European Summer Time|CEST]]
+| team1 = [[Lille OSC|Lille]] {{flagicon|FRA}}
+| goals1 = [[Victor Osimhen|Osimhen]] {{goal|33}} <br> [[Jonathan Ikoné|Ikoné]] {{yel|44}}
+| score = 1–2
+| report = https://www.uefa.com/uefachampionsleague/match/2027047--losc-vs-chelsea/
+| team2 = {{flagicon|ENG}} Chelsea
+| goals2 = [[Tammy Abraham|Abraham]] {{goal|22}} <br> [[Reece James (footballer, born 1999)|James]] {{yel|35}} <br> [[Willian (footballer, born 1988)|Willian]] {{goal|78}}
+| location = [[Lille]], [[France]]
+| stadium = [[Stade Pierre-Mauroy|Stade Pierre Mauroy]]
+| attendance = 48,523
+| referee = [[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+| result = W
+}}
+{{Football box collapsible
+| round = 3
+| date = 23 October 2019
+| time = 18:55 [[Central European Summer Time|CEST]]
+| team1 = [[AFC Ajax|Ajax]] {{flagicon|NED}}
+| goals1 = [[Dušan Tadić|Tadić]] {{yel|49}} <br> [[Lisandro Martínez|Martínez]] {{yel|65}}
+| score = 0–1
+| report = https://www.uefa.com/uefachampionsleague/match/2027063--ajax-vs-chelsea/
+| team2 = {{flagicon|ENG}} Chelsea
+| goals2 = [[Kurt Zouma|Zouma]] {{yel|84}} <br> [[Michy Batshuayi|Batshuayi]] {{goal|86}}
+| location = [[Amsterdam]], [[Netherlands]]
+| stadium = [[Johan Cruyff Arena]]
+| attendance = 52,482
+| referee = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+| result = W
+}}
+{{Football box collapsible
+| round = 4
+| date = 5 November 2019
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea {{flagicon|ENG}}
+| goals1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|5|pen.|71|pen.}} <br> [[Fikayo Tomori|Tomori]] {{yel|42}} <br> [[César Azpilicueta|Azpilicueta]] {{yel|45}}, {{goal|63}} <br> [[Reece James (footballer, born 1999)|James]] {{goal|74}}
+| score = 4–4
+| report = https://www.uefa.com/uefachampionsleague/match/2027087--chelsea-vs-ajax/
+| team2 = {{flagicon|NED}} [[AFC Ajax|Ajax]]
+| goals2 = [[Tammy Abraham|Abraham]] {{goal|2|o.g.}} <br> [[Quincy Promes|Promes]] {{goal|20}}, {{yel|62}} <br> [[Joël Veltman|Veltman]] {{sentoff|2|31|69}} <br> [[Daley Blind|Blind]] {{sentoff|2|33|68}} <br> [[Kepa Arrizabalaga|Arrizabalaga]] {{goal|35|o.g.}} <br> [[Donny van de Beek|Van de Beek]] {{goal|55}}
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 39,132
+| referee = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+| result = D
+}}
+{{Football box collapsible
+| round = 5
+| date = 27 November 2019
+| time = 18:55 [[Central European Time|CET]]
+| team1 = [[Valencia CF|Valencia]] {{flagicon|ESP}}
+| goals1 = [[Daniel Wass|Wass]] {{yel|32}}, {{goal|82}} <br> [[Carlos Soler (footballer)|Soler]] {{goal|40}} <br> [[Ezequiel Garay|Garay]] {{yel|53}} <br> [[Gabriel Paulista|Gabriel]] {{yel|87}}
+| score = 2–2
+| report = https://www.uefa.com/uefachampionsleague/match/2027095--valencia-vs-chelsea/
+| team2 = {{flagicon|ENG}} Chelsea
+| goals2 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|7}} <br> [[Mateo Kovačić|Kovačić]] {{goal|41}} <br> [[Christian Pulisic|Pulisic]] {{goal|50}} <br> [[César Azpilicueta|Azpilicueta]] {{yel|55}} <br> [[N'Golo Kanté|Kanté]] {{yel|73}} <br> [[Kepa Arrizabalaga|Arrizabalaga]] {{yel|78}}
+| location = [[Valencia]], [[Spain]]
+| stadium = [[Mestalla Stadium|Mestalla]]
+| attendance = 43,486
+| referee = [[Felix Zwayer]] ([[German Football Association|Germany]])
+| result = D
+}}
+{{Football box collapsible
+| round = 6
+| date = 10 December 2019
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea {{flagicon|ENG}}
+| goals1 = [[Tammy Abraham|Abraham]] {{goal|19}} <br> [[César Azpilicueta|Azpilicueta]] {{goal|35}} <br> [[Kurt Zouma|Zouma]] {{yel|45+1}}
+| score = 2–1
+| report = https://www.uefa.com/uefachampionsleague/match/2027119--chelsea-vs-losc/
+| team2 = {{flagicon|FRA}} [[Lille OSC|Lille]]
+| goals2 = [[Zeki Çelik|Çelik]] {{yel|40}} <br> [[Xeka]] {{yel|67}} <br> [[Loïc Rémy|Rémy]] {{goal|78}}
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,016
+| referee = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+| result = W
+}}
+
+====Knockout phase====
+{{main|2019–20 UEFA Champions League knockout phase}}
+
+=====Round of 16=====
+
+{{Football box collapsible
+| round = Round of 16 first leg
+| date = 25 February 2020
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea {{flagicon|ENG}}
+| goals1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|49}} <br> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{sentoff|0|83}}
+| score = 0–3
+| report = https://www.uefa.com/uefachampionsleague/match/2027126--chelsea-vs-bayern/
+| team2 = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| goals2 = [[Thiago Alcântara|Thiago]] {{yel|45+1}} <br> [[Joshua Kimmich|Kimmich]] {{yel|50}} <br> [[Serge Gnabry|Gnabry]] {{goal|51||54}} <br> [[Robert Lewandowski|Lewandowski]] {{goal|76}}
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 36,761
+| referee = [[Clément Turpin]] ([[French Football Federation|France]])
+| result = L
+}}
+{{Football box collapsible
+| round = Round of 16 second leg
+| date = 8 August 2020
+| time = 21:00 [[Central European Summer Time|CEST]]
+| team1 = [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+| goals1 = [[Robert Lewandowski|Lewandowski]] {{goal|10|pen.|84}} <br> [[Ivan Perišić|Perišić]] {{goal|24}} <br> [[Corentin Tolisso|Tolisso]] {{goal|76}}
+| score = 4–1
+| aggregatescore = 7–1
+| report = https://www.uefa.com/uefachampionsleague/match/2027132--bayern-vs-chelsea/
+| team2 = {{flagicon|ENG}} Chelsea
+| goals2 = [[Willy Caballero|Caballero]] {{yel|8}} <br> [[Emerson Palmieri|Emerson]] {{yel|43}} <br> [[Tammy Abraham|Abraham]] {{goal|44}}
+| location = [[Munich]], [[Germany]]
+| stadium = [[Allianz Arena]]
+| attendance = 0
+| referee = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+| result = L
+}}
+
+===UEFA Super Cup===
+{{main article|2019 UEFA Super Cup}}
+
+{{Football box collapsible
+| date = 14 August 2019
+| time = 22:00 [[Time in Turkey|TRT]]
+| team1 = [[Liverpool F.C.|Liverpool]] {{flagicon|ENG}}
+| goals1 = [[Sadio Mané|Mané]] {{goal|48||95}} <br> [[Jordan Henderson|Henderson]] {{yel|85}} <br> [[Trent Alexander-Arnold|Alexander-Arnold]] {{yel|107}}
+| score = 2–2
+| aet = yes
+| report = https://www.uefa.com/uefasupercup/match/2025638--liverpool-vs-chelsea/
+| team2 = {{flagicon|ENG}} Chelsea
+| goals2 = [[Olivier Giroud|Giroud]] {{goal|36}} <br> [[César Azpilicueta|Azpilicueta]] {{yel|79}} <br> [[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|101|pen.}}
+| penalties1 = [[Roberto Firmino|Firmino]] {{pengoal}} <br> [[Fabinho (footballer, born 1993)|Fabinho]] {{pengoal}} <br> [[Divock Origi|Origi]] {{pengoal}} <br> [[Trent Alexander-Arnold|Alexander-Arnold]] {{pengoal}} <br> [[Mohamed Salah|Salah]] {{pengoal}}
+| penaltyscore = 5–4
+| penalties2 = {{pengoal}} [[Jorginho (footballer, born December 1991)|Jorginho]] <br> {{pengoal}} [[Ross Barkley|Barkley]] <br> {{pengoal}} [[Mason Mount|Mount]] <br> {{pengoal}} [[Emerson Palmieri|Emerson]] <br> {{penmiss}} [[Tammy Abraham|Abraham]]
+| location = [[Istanbul]], [[Turkey]]
+| stadium = [[Vodafone Park]]
+| attendance = 38,434
+| referee = [[Stéphanie Frappart]] ([[French Football Federation|France]])
+| result = D
+}}
+
+==Statistics==
+
+===Appearances and goals===
+{| class="wikitable sortable" style="text-align:center;width:100%;"
+|-
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| No.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Pos.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Player
+! colspan=2 style=background:#034694;color:#FFFFFF| Premier League
+! colspan=2 style=background:#034694;color:#FFFFFF| FA Cup
+! colspan=2 style=background:#034694;color:#FFFFFF| EFL Cup
+! colspan=2 style=background:#034694;color:#FFFFFF| UEFA Champions League
+! colspan=2 style=background:#034694;color:#FFFFFF| UEFA Super Cup
+! colspan=2 style=background:#034694;color:#FFFFFF| Total
+|-
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+|-
+| 1
+| GK
+|align=left| {{flagicon|ESP}} [[Kepa Arrizabalaga]]
+||33||0||1||0||0||0||6||0||1||0||'''41'''||'''0'''
+|-
+| 2
+| DF
+|align=left| {{flagicon|GER}} [[Antonio Rüdiger]]
+||19 (1)||2||4||0||0||0||2||0||0||0||'''25 (1)'''||'''2'''
+|-
+| 3
+| DF
+|align=left| {{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+||15 (3)||4||4||0||2||0||5||0||0||0||'''26 (3)'''||'''4'''
+|-
+| 4
+| DF
+|align=left| {{flagicon|DEN}} [[Andreas Christensen]]
+||21||0||1 (1)||0||0||0||4||0||1||0||'''27 (1)'''||'''0'''
+|-
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+||27 (4)||4||3 (1)||0||1||0||7||2||1||1||'''39 (5)'''||'''7'''
+|-
+| 7
+| MF
+|align=left| {{flagicon|FRA}} [[N'Golo Kanté]]
+||20 (2)||3||1||0||0||0||4||0||1||0||'''26 (2)'''||'''3'''
+|-
+| 8
+| MF
+|align=left| {{flagicon|ENG}} [[Ross Barkley]]
+||13 (8)||1||3 (2)||3||1||1||2 (1)||0||0 (1)||0||'''19 (12)'''||'''5'''
+|-
+| 9
+| FW
+|align=left| {{flagicon|ENG}} [[Tammy Abraham]]
+||25 (9)||15||1 (2)||0||0 (1)||0||7 (1)||3||0 (1)||0||'''33 (14)'''||'''18'''
+|-
+| 10
+| MF
+|align=left| {{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]]
+||29 (7)||9||3 (1)||1||0||0||6 (1)||1||0||0||'''38 (9)'''||'''11'''
+|-
+| 11
+| MF
+|align=left| {{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+||8 (3)||1||3 (3)||0||1 (1)||1||0 (3)||0||1||0||'''13 (10)'''||'''2'''
+|-
+| 12
+| MF
+|align=left| {{flagicon|ENG}} [[Ruben Loftus-Cheek]]
+||2 (5)||0||0 (2)||0||0||0||0||0||0||0||'''2 (7)'''||'''0'''
+|-
+| 13
+| GK
+|align=left| {{flagicon|ARG}} [[Willy Caballero]]
+||5||0||5||0||2||0||2||0||0||0||'''14'''||'''0'''
+|-
+| 15
+| DF
+|align=left| {{flagicon|FRA}} [[Kurt Zouma]]
+||25 (3)||0||5||0||2||1||7||0||1||0||'''40 (3)'''||'''1'''
+|-
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+||23 (8)||1||5 (1)||0||1||0||7 (1)||1||1||0||'''37 (10)'''||'''2'''
+|-
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+||12 (6)||8||3||1||0||0||1 (2)||0||1||1||'''17 (8)'''||'''10'''
+|-
+| 19
+| MF
+|align=left| {{flagicon|ENG}} [[Mason Mount]]
+||32 (5)||7||4 (2)||1||0 (1)||0||6 (2)||0||0 (1)||0||'''42 (11)'''||'''8'''
+|-
+| 20
+| MF
+|align=left| {{flagicon|ENG}} [[Callum Hudson-Odoi]]
+||7 (15)||1||2 (2)||1||2||1||2 (3)||0||0||0||'''13 (20)'''||'''3'''
+|-
+| 22
+| MF
+|align=left| {{flagicon|USA}} [[Christian Pulisic]]
+||19 (6)||9||2||1||2||0||3 (1)||1||1||0||'''27 (7)'''||'''11'''
+|-
+| 23
+| FW
+|align=left| {{flagicon|BEL}} [[Michy Batshuayi]]
+||1 (15)||1||2||1||2||3||0 (4)||1||0||0||'''5 (19)'''||'''6'''
+|-
+| 24
+| DF
+|align=left| {{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]]
+||16 (8)||0||4 (1)||0||2||1||4 (2)||1||0||0||'''26 (11)'''||'''2'''
+|-
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+||36||2||4 (1)||0||0||0||7||2||1||0||'''48 (1)'''||'''4'''
+|-
+| 29
+| DF
+|align=left| {{flagicon|ENG}} [[Fikayo Tomori]]
+||15||1||2||1||0||0||4||0||0 (1)||0||'''21 (1)'''||'''2'''
+|-
+| 31
+| GK
+|align=left| {{flagicon|ENG}} [[Jamie Cumming]]
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+| 33
+| DF
+|align=left| {{flagicon|ITA}} [[Emerson Palmieri|Emerson]]
+||13 (2)||0||2||0||0||0||2 (1)||0||1||0||'''18 (3)'''||'''0'''
+|-
+| 47
+| MF
+|align=left| {{flagicon|SCO}} [[Billy Gilmour (footballer)|Billy Gilmour]]
+||2 (4)||0||2 (1)||0||2||0||0||0||0||0||'''6 (5)'''||'''0'''
+|-
+| 55
+| MF
+|align=left| {{flagicon|ENG}} [[Tino Anjorin]]
+||0 (1)||0||0||0||0 (1)||0||0||0||0||0||'''0 (2)'''||'''0'''
+|-
+| 57
+| FW
+|align=left| {{flagicon|ALB}} [[Armando Broja]]
+||0 (1)||0||0||0||0||0||0||0||0||0||'''0 (1)'''||'''0'''
+|-
+| 61
+| DF
+|align=left| {{flagicon|ENG}} Henry Lawrence
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+| 63
+| DF
+|align=left| {{flagicon|NED}} [[Ian Maatsen]]
+||0||0||0||0||0 (1)||0||0||0||0||0||'''0 (1)'''||'''0'''
+|-
+| 64
+| MF
+|align=left| {{flagicon|ENG}} Lewis Bate
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+| 66
+| DF
+|align=left| {{flagicon|ENG}} [[Dynel Simeu]]
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+! colspan=15 style=background:#dcdcdc| Players have left the club
+|-
+| 21
+| DF
+|align=left| {{flagicon|ITA}} [[Davide Zappacosta]]
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+| 16
+| MF
+|align=left| {{flagicon|BRA}} [[Kenedy (footballer)|Kenedy]]
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+| 44
+| DF
+|align=left| {{flagicon|ENG}} [[Marc Guehi]]
+||0||0||0||0||2||0||0||0||0||0||'''2'''||'''0'''
+|-
+| 48
+| DF
+|align=left| {{flagicon|ENG}} [[Tariq Lamptey]]
+||0 (1)||0||0 (2)||0||0||0||0||0||0||0||'''0 (3)'''||'''0'''
+|}
+{{Fb rs footer|u=8 August 2020|s=[https://fbref.com/en/squads/cff3d9bb/2019-2020/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=August 2020}}
+
+===Top scorers===
+{| class="wikitable sortable" style="text-align:center;width:85%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Rank
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| Premier League
+! style=background-color:#034694;color:#FFFFFF| FA Cup
+! style=background-color:#034694;color:#FFFFFF| EFL Cup
+! style=background-color:#034694;color:#FFFFFF| UEFA Champions League
+! style=background-color:#034694;color:#FFFFFF| UEFA Super Cup
+! style=background-color:#034694;color:#FFFFFF| Total
+|-
+| 1
+| 9
+| FW
+|align=left| {{flagicon|ENG}} [[Tammy Abraham]]
+||15||0||0||3||0||'''18'''
+|-
+|rowspan=2| 2
+| 10
+| MF
+|align=left| {{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]]
+||9||1||0||1||0
+|rowspan=2| '''11'''
+|-
+| 22
+| MF
+|align=left| {{flagicon|USA}} [[Christian Pulisic]]
+||9||1||0||1||0
+|-
+| 4
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+||8||1||0||0||1||'''10'''
+|-
+| 5
+| 19
+| MF
+|align=left| {{flagicon|ENG}} [[Mason Mount]]
+||7||1||0||0||0||'''8'''
+|-
+| 6
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+||4||0||0||2||1||'''7'''
+|-
+| 7
+| 23
+| FW
+|align=left| {{flagicon|BEL}} [[Michy Batshuayi]]
+||1||1||3||1||0||'''6'''
+|-
+| 8
+| 8
+| MF
+|align=left| {{flagicon|ENG}} [[Ross Barkley]]
+||1||3||1||0||0||'''5'''
+|-
+|rowspan=2| 9
+| 3
+| DF
+|align=left| {{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+||4||0||0||0||0
+|rowspan=2| '''4'''
+|-
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+||2||0||0||2||0
+|-
+|rowspan=2| 11
+| 7
+| MF
+|align=left| {{flagicon|FRA}} [[N'Golo Kanté]]
+||3||0||0||0||0
+|rowspan=2| '''3'''
+|-
+| 20
+| MF
+|align=left| {{flagicon|ENG}} [[Callum Hudson-Odoi]]
+||1||1||1||0||0
+|-
+|rowspan=5| 13
+| 2
+| DF
+|align=left| {{flagicon|GER}} [[Antonio Rüdiger]]
+||2||0||0||0||0
+|rowspan=5| '''2'''
+|-
+| 11
+| MF
+|align=left| {{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+||1||0||1||0||0
+|-
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+||1||0||0||1||0
+|-
+| 24
+| DF
+|align=left| {{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]]
+||0||0||1||1||0
+|-
+| 29
+| DF
+|align=left| {{flagicon|ENG}} [[Fikayo Tomori]]
+||1||1||0||0||0
+|-
+| 18
+| 15
+| DF
+|align=left| {{flagicon|FRA}} [[Kurt Zouma]]
+||0||0||1||0||0||'''1'''
+|-
+|colspan=4| Own goals
+||0||1||0||0||0||'''1'''
+|-
+|colspan=4| '''Total'''
+||'''69'''||'''11'''||'''8'''||'''12'''||'''2'''||'''102'''
+|}
+{{Fb rs footer|u=8 August 2020|s=[https://fbref.com/en/squads/cff3d9bb/2019-2020/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=August 2020}}
+
+===Top assists===
+{| class="wikitable sortable" style="text-align:center;width:85%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Rank
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| Premier League
+! style=background-color:#034694;color:#FFFFFF| FA Cup
+! style=background-color:#034694;color:#FFFFFF| EFL Cup
+! style=background-color:#034694;color:#FFFFFF| UEFA Champions League
+! style=background-color:#034694;color:#FFFFFF| UEFA Super Cup
+! style=background-color:#034694;color:#FFFFFF| Total
+|-
+| 1
+| 10
+| MF
+|align=left| {{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]]
+||7||1||0||1||0||'''9'''
+|-
+|rowspan=2| 2
+| 22
+| MF
+|align=left| {{flagicon|USA}} [[Christian Pulisic]]
+||4||0||1||1||1
+|rowspan=2| '''7'''
+|-
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+||6||1||0||0||0
+|-
+| 4
+| 20
+| MF
+|align=left| {{flagicon|ENG}} [[Callum Hudson-Odoi]]
+||5||0||0||1||0||'''6'''
+|-
+|rowspan=2| 5
+| 8
+| MF
+|align=left| {{flagicon|ENG}} [[Ross Barkley]]
+||4||1||0||0||0
+|rowspan=2| '''5'''
+|-
+| 19
+| MF
+|align=left| {{flagicon|ENG}} [[Mason Mount]]
+||5||0||0||0||0
+|-
+| 7
+| 9
+| FW
+|align=left| {{flagicon|ENG}} [[Tammy Abraham]]
+||3||0||0||1||0||'''4'''
+|-
+|rowspan=3| 8
+| 11
+| MF
+|align=left| {{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+||1||1||1||0||0
+|rowspan=3| '''3'''
+|-
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+||3||0||0||0||0
+|-
+| 24
+| DF
+|align=left| {{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]]
+||2||0||1||0||0
+|-
+|rowspan=3| 11
+| 3
+| DF
+|align=left| {{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+||2||0||0||0||0
+|rowspan=3| '''2'''
+|-
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+||2||0||0||0||0
+|-
+| 23
+| FW
+|align=left| {{flagicon|BEL}} [[Michy Batshuayi]]
+||1||0||1||0||0
+|-
+|rowspan=5| 14
+| 12
+| MF
+|align=left| {{flagicon|ENG}} [[Ruben Loftus-Cheek]]
+||1||0||0||0||0
+|rowspan=5| '''1'''
+|-
+| 15
+| DF
+|align=left| {{flagicon|FRA}} [[Kurt Zouma]]
+||0||0||0||1||0
+|-
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+||0||1||0||0||0
+|-
+| 29
+| DF
+|align=left| {{flagicon|ENG}} [[Fikayo Tomori]]
+||0||0||0||1||0
+|-
+| 33
+| DF
+|align=left| {{flagicon|ITA}} [[Emerson Palmieri|Emerson]]
+||0||0||0||1||0
+|-
+|colspan=4| '''Total'''
+||'''46'''||'''5'''||'''4'''||'''7'''||'''1'''||'''63'''
+|}
+{{Fb rs footer|u=8 August 2020|s=[https://fbref.com/en/squads/cff3d9bb/2019-2020/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=August 2020}}
+
+===Clean sheets===
+{| class="wikitable sortable" style="text-align:center;width:85%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Rank
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| Premier League
+! style=background-color:#034694;color:#FFFFFF| FA Cup
+! style=background-color:#034694;color:#FFFFFF| EFL Cup
+! style=background-color:#034694;color:#FFFFFF| UEFA Champions League
+! style=background-color:#034694;color:#FFFFFF| UEFA Super Cup
+! style=background-color:#034694;color:#FFFFFF| Total
+|-
+| 1
+| 1
+| GK
+|align=left| {{flagicon|ESP}} [[Kepa Arrizabalaga]]
+||8||1||0||1||0||'''10'''
+|-
+| 2
+| 13
+| GK
+|align=left| {{flagicon|ARG}} [[Willy Caballero]]
+||1||2||0||0||0||'''3'''
+|-
+|colspan=4| '''Total'''
+||'''9'''||'''3'''||'''0'''||'''1'''||'''0'''||'''13'''
+|}
+{{Fb rs footer|u=8 August 2020|s=[https://fbref.com/en/squads/cff3d9bb/2019-2020/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=August 2020}}
+
+===Discipline===
+{| class="wikitable sortable" style="text-align:center;width:100%;"
+|-
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| No.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Pos.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Player
+! colspan=3 style=background:#034694;color:#FFFFFF| Premier League
+! colspan=3 style=background:#034694;color:#FFFFFF| FA Cup
+! colspan=3 style=background:#034694;color:#FFFFFF| EFL Cup
+! colspan=3 style=background:#034694;color:#FFFFFF| UEFA Champions League
+! colspan=3 style=background:#034694;color:#FFFFFF| UEFA Super Cup
+! colspan=3 style=background:#034694;color:#FFFFFF| Total
+|-
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+|-
+| 1
+| GK
+|align=left| {{flagicon|ESP}} [[Kepa Arrizabalaga]]
+||0||0||0||0||0||0||0||0||0||1||0||0||0||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 2
+| DF
+|align=left| {{flagicon|GER}} [[Antonio Rüdiger]]
+||3||0||0||1||0||0||0||0||0||0||0||0||0||0||0||'''4'''||'''0'''||'''0'''
+|-
+| 3
+| DF
+|align=left| {{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+||4||0||0||0||0||0||0||0||0||0||0||1||0||0||0||'''4'''||'''0'''||'''1'''
+|-
+| 4
+| DF
+|align=left| {{flagicon|DEN}} [[Andreas Christensen]]
+||5||0||0||0||0||0||0||0||0||0||0||0||0||0||0||'''5'''||'''0'''||'''0'''
+|-
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+||10||0||0||0||0||0||0||0||0||3||0||0||0||0||0||'''13'''||'''0'''||'''0'''
+|-
+| 7
+| MF
+|align=left| {{flagicon|FRA}} [[N'Golo Kanté]]
+||4||0||0||0||0||0||0||0||0||1||0||0||0||0||0||'''5'''||'''0'''||'''0'''
+|-
+| 8
+| MF
+|align=left| {{flagicon|ENG}} [[Ross Barkley]]
+||0||0||0||1||0||0||0||0||0||0||0||0||0||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 9
+| FW
+|align=left| {{flagicon|ENG}} [[Tammy Abraham]]
+||2||0||0||0||0||0||0||0||0||0||0||0||0||0||0||'''2'''||'''0'''||'''0'''
+|-
+| 10
+| MF
+|align=left| {{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]]
+||4||0||0||0||0||0||0||0||0||0||0||0||0||0||0||'''4'''||'''0'''||'''0'''
+|-
+| 11
+| MF
+|align=left| {{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+||1||0||0||0||0||0||0||0||0||0||0||0||0||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 13
+| GK
+|align=left| {{flagicon|ARG}} [[Willy Caballero]]
+||0||0||0||0||0||0||0||0||0||1||0||0||0||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 15
+| DF
+|align=left| {{flagicon|FRA}} [[Kurt Zouma]]
+||6||0||0||1||0||0||0||0||0||2||0||0||0||0||0||'''9'''||'''0'''||'''0'''
+|-
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+||8||0||0||1||1||0||1||0||0||0||0||0||0||0||0||'''10'''||'''1'''||'''0'''
+|-
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+||1||0||0||0||0||0||0||0||0||1||0||0||0||0||0||'''2'''||'''0'''||'''0'''
+|-
+| 19
+| MF
+|align=left| {{flagicon|ENG}} [[Mason Mount]]
+||3||0||0||1||0||0||0||0||0||0||0||0||0||0||0||'''4'''||'''0'''||'''0'''
+|-
+| 20
+| MF
+|align=left| {{flagicon|ENG}} [[Callum Hudson-Odoi]]
+||1||0||0||0||0||0||0||0||0||0||0||0||0||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 23
+| FW
+|align=left| {{flagicon|BEL}} [[Michy Batshuayi]]
+||0||0||0||0||0||0||1||0||0||0||0||0||0||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 24
+| DF
+|align=left| {{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]]
+||1||0||0||1||0||0||0||0||0||1||0||0||0||0||0||'''3'''||'''0'''||'''0'''
+|-
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+||1||0||0||1||0||0||0||0||0||2||0||0||1||0||0||'''5'''||'''0'''||'''0'''
+|-
+| 29
+| DF
+|align=left| {{flagicon|ENG}} [[Fikayo Tomori]]
+||3||0||0||0||0||0||0||0||0||1||0||0||0||0||0||'''4'''||'''0'''||'''0'''
+|-
+| 33
+| DF
+|align=left| {{flagicon|ITA}} [[Emerson Palmieri|Emerson]]
+||3||0||0||0||0||0||0||0||0||1||0||0||0||0||0||'''4'''||'''0'''||'''0'''
+|-
+|colspan=3| '''Total'''
+||'''60'''||'''0'''||'''0'''||'''7'''||'''1'''||'''0'''||'''2'''||'''0'''||'''0'''||'''14'''||'''0'''||'''1'''||'''1'''||'''0'''||'''0'''||'''84'''||'''1'''||'''1'''
+|}
+{{Fb rs footer|u=8 August 2020|s=[https://fbref.com/en/squads/cff3d9bb/2019-2020/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=August 2020}}
+
+===Summary===
+{| class="wikitable sortable" style="text-align:center;width:50%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Competition
+! style=background-color:#034694;color:#FFFFFF| P
+! style=background-color:#034694;color:#FFFFFF| W
+! style=background-color:#034694;color:#FFFFFF| D
+! style=background-color:#034694;color:#FFFFFF| L
+! style=background-color:#034694;color:#FFFFFF| GF
+! style=background-color:#034694;color:#FFFFFF| GA
+! style=background-color:#034694;color:#FFFFFF| CS
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+|-
+| [[Premier League]]||38||20||6||12||69||54||9||60||0||0
+|-
+| [[FA Cup]]||6||5||0||1||11||4||3||7||1||0
+|-
+| [[EFL Cup]]||2||1||0||1||8||3||0||2||0||0
+|-
+| [[UEFA Champions League]]||8||3||2||3||12||16||1||14||0||1
+|-
+| [[UEFA Super Cup]]||1||0||1||0||2||2||0||1||0||0
+|-
+| '''Total'''||'''55'''||'''29'''||'''9'''||'''17'''||'''102'''||'''79'''||'''13'''||'''84'''||'''1'''||'''1'''
+|}
+{{Fb rs footer|u=8 August 2020|s=[https://fbref.com/en/squads/cff3d9bb/2019-2020/all_comps/Chelsea-Stats-All-Competitions FBref.com]|date=August 2020}}
+
+==Awards==
+
+===Players===
+
+{| class="wikitable" style="text-align:center;width:75%;"
+|-
+! style=background:#034694;color:#FFFFFF| No.
+! style=background:#034694;color:#FFFFFF| Pos.
+! style=background:#034694;color:#FFFFFF| Player
+! style=background:#034694;color:#FFFFFF| Award
+! style=background:#034694;color:#FFFFFF| Source
+|-
+| 17
+| MF
+| align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+| Chelsea Player of the Year
+| <ref>{{Cite web|title=Chelsea Player of the Season 2019/20: Mateo Kovacic announced as winner|url=https://www.chelseafc.com/en/news/2020/08/25/player-of-the-season--mateo-kovacic|website=chelseafc.com|date=25 August 2020}}</ref>
+|-
+| 29
+| DF
+| align=left| {{flagicon|ENG}} [[Fikayo Tomori]]
+| Chelsea Goal of the Season
+| <ref>{{Cite web|title=Chelsea Goal of the Season 2019/20: Fikayo Tomori goal against Wolves announced as the winner|url=https://www.chelseafc.com/en/news/2020/08/25/goal-of-the-season--fikayo-tomori|website=chelseafc.com|date=25 August 2020}}</ref>
+|-
+| 47
+| MF
+| align=left| {{flagicon|SCO}} [[Billy Gilmour (footballer)|Billy Gilmour]]
+| Chelsea Academy Player of the Year
+| <ref>{{Cite web|title=Chelsea Academy Player of the Season: Billy Gilmour named winner of the award|url=https://www.chelseafc.com/en/news/2020/08/25/gilmour-named-chelsea-academy-player-of-the-season-|website=chelseafc.com|date=25 August 2020}}</ref>
+|}
+
+===Manager===
+{| class="wikitable" style="text-align:center;width:50%;"
+|-
+! style=background:#034694;color:#FFFFFF| Manager
+! style=background:#034694;color:#FFFFFF| Award
+! style=background:#034694;color:#FFFFFF| Source
+|-
+|align=left| {{flagicon|ENG}} [[Frank Lampard]]
+| [[Premier League Manager of the Month]] (October)
+| <ref>{{Cite web|title=Lampard wins Barclays Manager of the Month|url=https://www.premierleague.com/news/1486153|website=premierleague.com|date=9 November 2019}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+{{Chelsea F.C. seasons}}
+{{2019–20 in English men's football}}
+
+{{DEFAULTSORT:2019-20 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:2019–20 Premier League by team|Chelsea]]
+[[Category:2019 in sport in London|Chelsea]]
+[[Category:2020 in sport in London|Chelsea]]
+[[Category:2019–20 UEFA Champions League participants seasons|Chelsea]]

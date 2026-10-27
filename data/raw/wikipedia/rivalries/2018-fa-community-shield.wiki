@@ -1,0 +1,218 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox football match
+| title              = 2018 FA Community Shield
+| image              = [[File:2018 FA Community Shield programme.png|200px]]
+| caption            = The [[Football programme|match programme]] cover
+| team1              = [[Chelsea F.C.|Chelsea]]
+| team1score         = 0
+| team2              = [[Manchester City F.C.|Manchester City]]
+| team2score         = 2
+| details            = 
+| date               = 5 August 2018
+| stadium            = [[Wembley Stadium]]
+| city               = London
+| man_of_the_match1a = [[Sergio Agüero]] {{nowrap|(Manchester City)}}<ref name="MOTM">{{cite news |last1=Burt |first1=Jason |last2=Hurrey |first2=Adam |url=https://www.telegraph.co.uk/football/2018/08/05/community-shield-2018-chelsea-vs-man-city-live-score-latest/ |title=Sergio Aguero double seals Community Shield for Manchester City as sloppy Chelsea give Maurizio Sarri plenty to ponder |work=[[The Daily Telegraph]] |date=5 August 2018 |access-date=15 May 2022}}</ref>
+| referee            = [[Jon Moss (referee)|Jon Moss]] ([[West Riding County Football Association|West Yorkshire]])<ref>{{cite web |url=http://www.thefa.com/news/2018/jul/10/fa-community-shield-jon-moss-100718 |title=Jon Moss to referee FA Community Shield between Chelsea and Man City |date=10 July 2018 |publisher=The FA |access-date=14 July 2018}}</ref>
+| attendance         = 72,724
+| weather            = 
+| previous           = [[2017 FA Community Shield|2017]]
+| next               = [[2019 FA Community Shield|2019]]
+}}
+The '''2018 FA Community Shield''' (also known as '''The FA Community Shield supported by [[McDonald's]]''' for sponsorship reasons) was the 96th [[FA Community Shield]], an annual [[Association football|football]] match played between the title holders of the [[Premier League]] and [[FA Cup]]. It was contested by [[Manchester City F.C.|Manchester City]], champions of the [[2017–18 Premier League]], and [[Chelsea F.C.|Chelsea]], winners of the [[2017–18 FA Cup]], at [[Wembley Stadium]] in London on 5 August 2018. Manchester City won 2–0, with both goals scored by [[Sergio Agüero]], who was named [[man of the match]] for his performance.<ref>{{cite web|url=https://www.theguardian.com/football/live/2018/aug/05/chelsea-v-manchester-city-community-shield-live |title =Chelsea 0 Man City 2: as it happened|date=5 August 2018|work=Guardian|access-date=9 August 2018}}</ref><ref>{{cite web|url=https://www.bbc.com/sport/football/44995783 |title =Chelsea 0 Man City 2|date=5 August 2018|work=BBC Sport|access-date=9 August 2018}}</ref>
+
+[[Arsenal F.C.|Arsenal]] were the defending champions as winners of the [[2017 FA Community Shield|2017 edition]], but did not qualify for this match, as they finished sixth in the [[2017–18 Premier League|Premier League]] and were knocked out of the [[2017–18 FA Cup|FA Cup]] in the third round.
+
+== Background ==
+This was [[Maurizio Sarri]]'s first competitive match in charge of Chelsea; meanwhile, it was [[Pep Guardiola]]'s second cup final as the manager of Manchester City, following their victory over [[Arsenal F.C.|Arsenal]] in the [[2018 EFL Cup final]].
+
+Manchester City qualified for the competition by winning the [[2017–18 Premier League]] with a record 100 points, the first of any English club in the top-flight since the introduction of the [[three points for a win]] rule.<ref>{{cite web |url=https://www.espn.com/soccer/club/manchester-city/382/blog/post/3497698/man-citys-100-point-haul-equal-to-united-treble-winners-and-arsenal-invincibles |title=Man City's 100-point haul equal to United treble winners and Arsenal 'Invincibles' |last=Mooney |first=David |date=14 May 2018 |website=ESPN.com }}</ref>
+
+Chelsea were looking to win the Community Shield for the first time since [[2009 FA Community Shield|2009]], when they beat [[Manchester United F.C.|Manchester United]] 4–1 on [[Penalty shoot-out (association football)|penalties]]. They had failed to win any of their last four appearances in the competition. Manchester City had won their last two matches at Wembley, both in 2017–18 – beating Arsenal 3–0 in the EFL Cup final in February and [[Tottenham Hotspur F.C.|Tottenham Hotspur]] 3–1 in the league in April; however, they had not won three consecutive matches at Wembley since March 1970.<ref>{{cite news |url=https://talksport.com/football/404482/community-shield-2018-chelsea-man-city-live-commentary-time/ |title=Community Shield 2018: When is the game being held and who is playing?|date=3 August 2018 |work=talkSPORT |access-date=3 August 2018 }}</ref>
+
+The two sides faced each other in the Community Shield once previously, in [[2012 FA Community Shield|2012]], a match won 3–2 by Manchester City.
+
+== Match ==
+===Details===
+<onlyinclude>{{Football box
+| date = {{Start date|2018|8|5|df=y}}
+| team1 = [[Chelsea F.C.|Chelsea]]
+| team2 = [[Manchester City F.C.|Manchester City]]
+| time = 15:00 [[British Summer Time|BST]]
+| score = 0–2
+| report = http://www.thefa.com/news/2018/aug/05/fa-community-shield-chelsea-manchester-city-report-050818
+| goals1 = 
+| goals2 = [[Sergio Agüero|Agüero]] {{goal|13||58}}
+| stadium = [[Wembley Stadium]], [[London]]
+| attendance = 72,724
+| referee = [[Jon Moss (referee)|Jon Moss]] ([[West Riding County Football Association|West Yorkshire]])<ref name="referee">{{cite news |title=Jon Moss to referee FA Community Shield between Chelsea and Man City |url=http://www.thefa.com/news/2018/jul/10/fa-community-shield-jon-moss-100718 |website=TheFA.com |publisher=The Football Association |date=10 July 2018 |access-date=5 August 2018 }}</ref>
+}}</onlyinclude>
+
+{| style="width:92%"
+|-
+|{{Football kit
+ | pattern_la = _chelsea1819h
+ | pattern_b  = _chelsea1819h
+ | pattern_ra = _chelsea1819h
+ | pattern_sh = _chelsea1819h
+ | pattern_so = _chelsea1819h
+ | leftarm    = 0000DD
+ | body       = 0000DD
+ | rightarm   = 0000DD
+ | shorts     = 0000DD
+ | socks      = FFFFFF
+ | title      = Chelsea
+}}
+|{{Football kit
+ | pattern_la = _mcity1819h
+ | pattern_b  = _mcity1819h
+ | pattern_ra = _mcity1819h
+ | pattern_sh = _usa18h
+ | pattern_so = _mcfc1819h
+ | leftarm    = 
+ | body       = 
+ | rightarm   = 
+ | shorts     = 
+ | socks      = 1c204e
+ | title      = {{nowrap|Manchester City}}
+}}
+|}
+
+{| style="width:100%"
+|-
+|style="vertical-align:top;width:40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ARG}} [[Willy Caballero]]
+|-
+|RB ||'''28'''||{{flagicon|ESP}} [[César Azpilicueta]] ([[Captain (association football)|c]])
+|-
+|CB ||'''2''' ||{{flagicon|GER}} [[Antonio Rüdiger]]
+|-
+|CB ||'''30'''||{{flagicon|BRA}} [[David Luiz]]
+|-
+|LB ||'''3''' ||{{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+|-
+|CM ||'''4''' ||{{flagicon|ESP}} [[Cesc Fàbregas]] || || {{suboff|60}}
+|-
+|CM ||'''5''' ||{{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Ross Barkley]]
+|-
+|RF ||'''11'''||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]] || || {{suboff|79}}
+|-
+|CF ||'''29'''||{{flagicon|ESP}} [[Álvaro Morata]] || || {{suboff|69}}
+|-
+|LF ||'''20'''||{{flagicon|ENG}} [[Callum Hudson-Odoi]] || || {{suboff|60}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''59'''||{{flagicon|POL}} [[Marcin Bułka]]
+|-
+|DF ||'''21'''||{{flagicon|ITA}} [[Davide Zappacosta]]
+|-
+|DF ||'''27'''||{{flagicon|DEN}} [[Andreas Christensen]]
+|-
+|MF ||'''6''' ||{{flagicon|ENG}} [[Danny Drinkwater]] || || {{subon|60}}
+|-
+|MF ||'''15'''||{{flagicon|NGA}} [[Victor Moses]] || || {{subon|79}}
+|-
+|MF ||'''22'''||{{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]] || || {{subon|60}}
+|-
+|FW ||'''19'''||{{flagicon|ENG}} [[Tammy Abraham]] || || {{subon|69}}
+|-
+|colspan=3|'''Head coach:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Maurizio Sarri]]
+|}
+|valign="top"|[[File:Chelsea vs Man City 2018-08-05.svg|300px]]
+|style="vertical-align:top;width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CHI}} [[Claudio Bravo]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Kyle Walker]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[John Stones]] || || {{suboff|90+4}}
+|-
+|CB ||'''14'''||{{flagicon|FRA}} [[Aymeric Laporte]] || || {{suboff|87}}
+|-
+|LB ||'''22'''||{{flagicon|FRA}} [[Benjamin Mendy]]
+|-
+|CM ||'''20'''||{{flagicon|POR}} [[Bernardo Silva]]
+|-
+|CM ||'''25'''||{{flagicon|BRA}} [[Fernandinho (footballer, born May 1985)|Fernandinho]] ([[Captain (association football)|c]])
+|-
+|CM ||'''47'''||{{flagicon|ENG}} [[Phil Foden]] || || {{suboff|75}}
+|-
+|RF ||'''26'''||{{flagicon|ALG}} [[Riyad Mahrez]] || || {{suboff|68}}
+|-
+|CF ||'''10'''||{{flagicon|ARG}} [[Sergio Agüero]] || || {{suboff|80}}
+|-
+|LF ||'''19'''||{{flagicon|GER}} [[Leroy Sané]] || || {{suboff|46}}
+|- 
+|colspan=3|'''Substitutes:'''
+|- 
+|GK ||'''31'''||{{flagicon|BRA}} [[Ederson (footballer, born 1993)|Ederson]]
+|-
+|DF ||'''4''' ||{{flagicon|BEL}} [[Vincent Kompany]] || || {{subon|80}}
+|-
+|DF ||'''30'''||{{flagicon|ARG}} [[Nicolás Otamendi]] || || {{subon|87}}
+|-
+|MF ||'''8''' ||{{flagicon|GER}} [[İlkay Gündoğan]] || || {{subon|46}}
+|-
+|MF ||'''55'''||{{flagicon|ESP}} [[Brahim Díaz]] || || {{subon|75}}
+|-
+|MF ||'''81'''||{{flagicon|FRA}} [[Claudio Gomes]] || || {{subon|90+4}}
+|-
+|FW ||'''33'''||{{flagicon|BRA}} [[Gabriel Jesus]] || || {{subon|68}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|}
+
+{| style="width:100%; font-size:90%;"
+|style="width:40%; vertical-align:top;"|
+'''Man of the Match:'''
+<br />[[Sergio Agüero]] (Manchester City)<ref name="MOTM"/>
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="referee"/>
+<br />Adam Nunn ([[Wiltshire Football Association|Wiltshire]])
+<br />Eddie Smart ([[Birmingham County Football Association|West Midlands]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="referee"/>
+<br />[[Paul Tierney (referee)|Paul Tierney]] ([[Lancashire County Football Association|Lancashire]])
+<br />'''[[Assistant referee (association football)|Reserve assistant referee]]:'''<ref name="referee"/>
+<br />Dan Cook ([[Hampshire Football Association|Hampshire]])
+<br />'''[[Video assistant referee]]:'''<ref name="referee"/>
+<br />[[Stuart Attwell]] ([[Birmingham County Football Association|West Midlands]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="referee"/>
+<br />Andrew Halliday ([[Army Football Association|Army]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref>{{cite web |title=Rules of the Football Association Community Shield |url=https://www.thefa.com/~/media/978792AF8BBE4927AA4583437A7DF882.ashx |format=PDF |website=TheFA.com |publisher=The Football Association |access-date=6 August 2017}}</ref>
+*90 minutes
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] (ABBA) if scores level
+*Seven named substitutes, of which up to six may be used
+|}
+
+==References ==
+{{reflist}}
+
+{{FA Community Shield}}
+{{Chelsea F.C. matches}}
+{{Manchester City F.C. matches}}
+{{2018–19 in English men's football}}
+{{2018–19 in European football (UEFA)}}
+
+[[Category:FA Community Shield matches]]
+[[Category:Football matches in London]]
+[[Category:2018–19 in English men's football cups|Community Shield]]
+[[Category:Chelsea F.C. matches|Charity Shield 2018]]
+[[Category:Manchester City F.C. matches|Charity Shield 2018]]
+[[Category:2018 in sport in London|Community Shield]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:August 2018 sports events in the United Kingdom|Community Shield]]

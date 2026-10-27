@@ -1,0 +1,313 @@
+{{Use dmy dates|date=February 2023}}
+{{Infobox football match
+| title              = 2007 FA Community Shield
+| image              = 2007 Community Shield programme.jpg
+| image_size = 200
+| caption            = Match programme cover
+| team1              = [[Chelsea F.C.|Chelsea]]
+| team1score         = 1
+| team2              = [[Manchester United F.C.|Manchester United]]
+| team2score         = 1
+| details            = Manchester United won 3–0 on [[Penalty shoot-out (association football)|penalties]]
+| date               = 5 August 2007
+| stadium            = [[Wembley Stadium]]
+| city               = [[London]]
+| man_of_the_match1a = [[Ashley Cole]] (Chelsea)
+| referee            = [[Mark Halsey]] ([[Lancashire County Football Association|Lancashire]])
+| attendance         = 80,731
+| weather            = Clear<br />{{convert|27|°C|°F}}<ref>{{cite web |title=Weather History for London, United Kingdom |url=http://www.wunderground.com/history/airport/EGLL/2007/8/5/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA |website=wunderground.com |archive-url=https://web.archive.org/web/20150621034254/http://www.wunderground.com/history/airport/EGLL/2007/8/5/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA |archive-date=21 June 2015 |url-status=dead}}</ref>
+| previous           = [[2006 FA Community Shield|2006]]
+| next               = [[2008 FA Community Shield|2008]]
+}}
+The '''2007 FA Community Shield''' (also known as '''The FA Community Shield sponsored by [[McDonald's]]''' for sponsorship reasons) was the 85th staging of the [[FA Community Shield]], an annual [[association football|football]] match played between the reigning [[Premier League]] champions and [[FA Cup]] winners. The match was played on 5 August 2007 between [[2006–07 FA Premier League]] champions [[Manchester United F.C.|Manchester United]] and [[2006–07 FA Cup]] winners [[Chelsea F.C.|Chelsea]], who beat United in the [[2007 FA Cup final|final]]. Manchester United won the game 3–0 on penalties, after the match finished 1–1. [[Ryan Giggs]] opened the scoring in the 35th minute, before [[Florent Malouda]] equalised just before half-time.
+
+The match then went to penalties, where [[Edwin van der Sar]] saved all three of Chelsea's penalties, leaving [[Wayne Rooney]] to score his penalty and win the match for United.
+
+It was the first Community Shield match to be played at the new [[Wembley Stadium]]. Manchester United and Chelsea also contested the last Community Shield (then the Charity Shield) to be played at the [[Wembley Stadium (1923)|old Wembley]] in [[2000 FA Charity Shield|2000]], with Chelsea winning the match 2–0.
+
+==Match details==
+{{football box
+|date=5 August 2007
+|time=15:00 [[Western European Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score=1–1
+|report=[http://news.bbc.co.uk/sport1/hi/football/6929113.stm Report]
+|team2=[[Manchester United F.C.|Manchester United]]
+|goals1=[[Florent Malouda|Malouda]] {{goal|45}}
+|goals2=[[Ryan Giggs|Giggs]] {{goal|35}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=80,731
+|referee=[[Mark Halsey]] ([[Lancashire County Football Association|Lancashire]])<ref name="referee"/>
+|penalties1=[[Claudio Pizarro|Pizarro]] {{penmiss}}<br />[[Frank Lampard|Lampard]] {{penmiss}}<br />[[Shaun Wright-Phillips|Wright-Phillips]] {{penmiss}}
+|penaltyscore=0–3
+|penalties2={{pengoal}} [[Rio Ferdinand|Ferdinand]]<br />{{pengoal}} [[Michael Carrick|Carrick]]<br />{{pengoal}} [[Wayne Rooney|Rooney]] }}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _chelsea0608h
+ | pattern_b  = _chelsea_07
+ | pattern_ra = _chelsea0608h
+ | pattern_sh = _chelsea0608h
+ | pattern_so = _3_stripes_blue
+ | leftarm    = 0000FF
+ | body       = 0000FF
+ | rightarm   = 0000FF
+ | shorts     = 0000FF
+ | socks      = FFFFFF
+ | title      = Chelsea
+}}
+|{{Football kit
+ | pattern_la =
+ | pattern_b  = _manutdh0709
+ | pattern_ra =
+ | pattern_sh = _thinblackline
+ | pattern_so = _whiteline
+ | leftarm    = E20E0E
+ | body       = E20E0E
+ | rightarm   = E20E0E
+ | shorts     = FFFFFF
+ | socks      = 000000
+ | title      = Manchester United
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|CZE}} [[Petr Čech]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Glen Johnson (English footballer)|Glen Johnson]] || || {{suboff|78}}
+|-
+|CB ||'''6''' ||{{flagicon|POR}} [[Ricardo Carvalho]] || {{yel|63}}
+|-
+|CB ||'''22'''||{{flagicon|ISR}} [[Tal Ben Haim]] || {{yel|33}}
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Ashley Cole]] || || {{suboff|68}}
+|-
+|DM ||'''5''' ||{{flagicon|GHA}} [[Michael Essien]]
+|-
+|DM ||'''12'''||{{flagicon|NGA}} [[Mikel John Obi]] || {{yel|90+1}}
+|-
+|CM ||'''8''' ||{{flagicon|ENG}} [[Frank Lampard]] ([[Captain (association football)|c]])
+|-
+|RW ||'''24'''||{{flagicon|ENG}} [[Shaun Wright-Phillips]]
+|-
+|LW ||'''15'''||{{flagicon|FRA|1974}} [[Florent Malouda]] || || {{suboff|52}}
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[Joe Cole]] || || {{suboff|82}}
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|GK ||'''23'''||{{flagicon|ITA}} [[Carlo Cudicini]]
+|-
+|GK ||'''40'''||{{flagicon|POR}} [[Henrique Hilário|Hilário]]
+|-
+|DF ||'''39'''||{{flagicon|ENG}} [[Harry Worley]]
+|-
+|MF ||'''9''' ||{{flagicon|ENG}} [[Steve Sidwell]] || || {{subon|78}}
+|-
+|MF ||'''19'''||{{flagicon|FRA|1974}} [[Lassana Diarra]] || || {{subon|68}}
+|-
+|FW ||'''14'''||{{flagicon|PER}} [[Claudio Pizarro]] || || {{subon|52}}
+|-
+|FW ||'''17'''||{{flagicon|ENG}} [[Scott Sinclair]] || || {{subon|82}}
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|POR}} [[José Mourinho]]
+|}
+|valign="top"|[[File:Chelsea vs Man Utd 2007-08-05.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|NED}} [[Edwin van der Sar]]
+|-
+|RB ||'''6''' ||{{flagicon|ENG}} [[Wes Brown]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Rio Ferdinand]]
+|-
+|CB ||'''15'''||{{flagicon|SRB|2004}} [[Nemanja Vidić]]
+|-
+|LB ||'''27'''||{{flagicon|FRA|1974}} [[Mikaël Silvestre]] || || {{suboff|68}}
+|-
+|RM ||'''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]]
+|-
+|CM ||'''22'''||{{flagicon|IRL}} [[John O'Shea]]
+|-
+|CM ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]]
+|-
+|LM ||'''3''' ||{{flagicon|FRA|1974}} [[Patrice Evra]]
+|-
+|SS ||'''11'''||{{flagicon|WAL}} [[Ryan Giggs]] ([[Captain (association football)|c]]) || || {{suboff|81}}
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[Wayne Rooney]] || {{yel|45+3}}
+|-
+|colspan="4"|'''Substitutes:'''
+|-
+|GK ||'''29'''||{{flagicon|POL}} [[Tomasz Kuszczak]]
+|-
+|DF ||'''19'''||{{flagicon|ESP}} [[Gerard Piqué]]
+|-
+|DF ||'''26'''||{{flagicon|ENG}} [[Phil Bardsley]]
+|-
+|MF ||'''24'''||{{flagicon|SCO}} [[Darren Fletcher]] || || {{subon|81}}
+|-
+|MF ||'''30'''||{{flagicon|ENG}} [[Lee Martin (footballer, born 1987)|Lee Martin]]
+|-
+|FW ||'''17'''||{{flagicon|POR}} [[Nani (footballer)|Nani]] || || {{subon|68}}
+|-
+|FW ||'''33'''||{{flagicon|ENG}} [[Chris Eagles]]
+|-
+|colspan="4"|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|SCO}} [[Alex Ferguson|Sir Alex Ferguson]]
+|}
+|}
+{| width=100% style="font-size:90%"
+|width=50% valign=top|
+'''Man of the match'''
+*[[Ashley Cole]] ([[Chelsea F.C.|Chelsea]])<ref>{{Cite news|first=Stuart |last=Mawhinney |title=United win on penalties |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/NewsAndFeatures/2009/CommShield2007_minbymin.aspx |publisher=The Football Association |date=5 August 2007 |access-date=19 May 2009 }}</ref>
+
+'''Match officials'''
+*Assistant referees:
+**Darren Cann ([[Norfolk County Football Association|Norfolk]])<ref name="referee">{{Cite news|title=Halsey appointed |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/NewsAndFeatures/2007/FACommunityShield2007Halsey.aspx |publisher=The Football Association |date=4 July 2007 |access-date=15 May 2009 }}</ref>
+**Martin Yerby ([[Kent County Football Association|Kent]])<ref name="referee"/>
+*Fourth official: [[Chris Foy (referee)|Chris Foy]] ([[Liverpool County Football Association|Merseyside]])<ref name="referee"/>
+|width=50% valign=top|
+'''Match rules'''
+*90 minutes.
+*Penalty shoot-out if scores level.
+*Seven named substitutes.
+*Maximum of six substitutions.
+|}
+
+==Match statistics==
+<div style="float:left;width:30%">
+
+===First half===
+{| class="wikitable" style="text-align:center"
+|-
+!width=100|Statistic
+!width=70|Chelsea
+!width=70|Manchester United
+|-
+|Total shots
+| 3 || 6
+|-
+|Shots on target
+| 2 || 2
+|-
+|Ball possession
+| 52% || 48%
+|-
+|Corner kicks
+| 1 || 3
+|-
+|Fouls committed
+| 8 || 9
+|-
+|Offsides
+| 1 || 0
+|-
+|Yellow cards
+| 1 || 1
+|-
+|Red cards
+| 0 || 0
+|}
+</div><div style="float:left;width:30%">
+
+===Second half===
+{| class="wikitable" style="text-align:center"
+|-
+!width=100|Statistic
+!width=70|Chelsea
+!width=70|Manchester United
+|-
+|Total shots
+| 2 || 4
+|-
+|Shots on target
+| 0 || 2
+|-
+|Ball possession
+| 50% || 50%
+|-
+|Corner kicks
+| 4 || 5
+|-
+|Fouls committed
+| 6 || 6
+|-
+|Offsides
+| 2 || 1
+|-
+|Yellow cards
+| 2 || 0
+|-
+|Red cards
+| 0 || 0
+|}
+</div><div style="float:left;width:30%">
+
+===Overall===
+{| class="wikitable" style="text-align:center"
+|-
+!width=100|Statistic
+!width=70|Chelsea
+!width=70|Manchester United
+|-
+|Total shots
+| 5 || 10
+|-
+|Shots on target
+| 2 || 4
+|-
+|Ball possession
+| 52% || 48%
+|-
+|Corner kicks
+| 5 || 8
+|-
+|Fouls committed
+| 14 || 15
+|-
+|Offsides
+| 3 || 1
+|-
+|Yellow cards
+| 3 || 1
+|-
+|Red cards
+| 0 || 0
+|}
+</div>{{Clear}}
+
+Source:<ref>{{Cite episode |title=2007 FA Community Shield |network=[[Sky Sports]] |series=FA Community Shield |date=5 August 2007 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.thefa.com/TheFACup/TheFACommunityShield/NewsAndFeatures/Postings/2007/04/FACommunityShield2007.htm Community Shield 2007] at TheFA.com
+
+{{FA Community Shield}}
+{{Chelsea F.C. matches}}
+{{Manchester United F.C. matches}}
+{{2007-08 in English football}}
+
+[[Category:FA Community Shield matches|2007]]
+[[Category:Football matches in London]]
+[[Category:2007–08 in English men's football cups|Fa Community Shield]]
+[[Category:2007 in sport in London|Fa Community Shield]]
+[[Category:August 2007 sports events in the United Kingdom|Fa Community Shield]]
+[[Category:Chelsea F.C. matches|Charity Shield 2007]]
+[[Category:Manchester United F.C. matches|Charity Shield 2007]]
+[[Category:Sports events at Wembley Stadium]]

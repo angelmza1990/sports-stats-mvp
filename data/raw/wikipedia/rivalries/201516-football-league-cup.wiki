@@ -1,0 +1,1682 @@
+{{Infobox football tournament season
+| title           = Football League Cup
+| year            = 2015–16
+| other_titles    = Capital One Cup, League Cup
+| image           =
+| imagesize       =
+| caption         =
+| country         =England<br />Wales
+| dates           = {{nowrap|11 August 2015 – 28 February 2016}}
+| num_teams       = 92
+| champions       = [[Manchester City F.C.|Manchester City]]
+| count           = 4
+| runner-up       = [[Liverpool F.C.|Liverpool]]
+| matches         = {{#expr:<!--First round -->+ 36<!--Second round-->+ 24<!--Third round-->+ 16<!--Fourth round-->+ 8<!--Fifth round-->+ 4<!--Semi-finals-->+ 4<!--Final-->+ 1 }}
+| goals           = {{#expr:<!--First round -->+ 4 + 3 + 4 + 3 + 1 + 4 + 5 + 1 + 1 + 3 + 3 + 4 + 3 + 3 + 1 + 3 + 7 + 2 + 3 + 1 + 2 + 1 + 2 + 5 + 1 + 3 + 3 + 3 + 1 + 3 + 4 + 1 + 4 + 4 + 3 + 2<!--Second round -->+ 8 + 3 + 5 + 1 + 3 + 4 + 3 + 3 + 1 + 9 + 5 + 5 + 3 + 3 + 3 + 5 + 2 + 5 + 3 + 3 + 2 + 1 + 0 + 8<!--Third round-->+ 3 + 1 + 3 + 1 + 1 + 5 + 4 + 3 + 3 + 3 + 5 + 1 + 5 + 6 + 3 + 2<!--Fourth round-->+ 2 + 3 + 2 + 2 + 6 + 1 + 3 + 0<!--Fifth round-->+ 2 + 2 + 5 + 7<!--Semi-finals-->+ 1 + 3 + 1 + 4<!--Final-->+ 2}}
+| attendance      = 1430554
+| top goal scorer = [[Kevin De Bruyne]] <br /> (5 goals)
+| player          =
+| prevseason      = [[2014–15 Football League Cup|2014–15]]
+| nextseason      = [[2016–17 EFL Cup|2016–17]]
+}}
+The '''2015–16 Football League Cup''' (known as the '''[[Capital One]] Cup''' for sponsorship purposes) was the 56th season of the [[EFL Cup|Football League Cup]]. It began on 11 August 2015 and concluded on 28 February 2016.<ref name="FASchedule">{{cite web |title=The 2015-16 fixture list has been released by The FA |url=http://www.thefa.com/news/2015/may/fa-fixture-list-2015-16-120515 |website=thefa.com |publisher=The FA |date=12 May 2015 |access-date=9 June 2015 }}</ref> It was a knock-out competition for the top 92 [[Association football|football]] clubs played in [[English football league system]].
+
+[[Chelsea F.C.|Chelsea]] were the defending champions, having beaten [[Tottenham Hotspur F.C.|Tottenham Hotspur]] 2–0 in the [[2015 Football League Cup Final|previous season's final]].<ref>{{cite news |url=https://www.bbc.com/sport/0/football/31572594 |title=Chelsea 2–0 Tottenham Hotspur |work=BBC Sport |publisher=British Broadcasting Corporation |first=Phil |last=McNulty |date=1 March 2015 |access-date=9 June 2015}}</ref> However, they were eliminated in the fourth round by [[Stoke City F.C.|Stoke City]] on penalties.
+
+[[Manchester City F.C.|Manchester City]] won the [[2016 Football League Cup Final|final]] on 28 February, defeating [[Liverpool F.C.|Liverpool]] 3–1 in a [[Penalty shoot-out (association football)|penalty shoot-out]] after the match had finished 1–1 after [[Overtime (sports)#Association football|extra time]].<ref>{{cite web|url=https://www.theguardian.com/football/live/2016/feb/28/liverpool-v-manchester-city-capital-one-cup-final-live|title=Liverpool 1 Man City 1 (Man City win 3-1 on penalties_|date=28 February 2016|work=The Guardian|access-date=8 March 2016}}</ref>
+
+This was the final season in which the tournament was known as the Football League Cup, as it was renamed the EFL Cup in 2016 after the Football League was rebranded as the [[English Football League]] (EFL).<ref>{{cite web|author=Press Association |url=https://www.theguardian.com/football/2015/nov/12/goodbye-football-league-hello-english-football-league-rebranding-announced |title=Goodbye Football League, hello English Football League: rebranding announced |work=The Guardian |date=2015-11-12 |access-date=2016-05-30}}</ref>
+
+==Format==
+The League Cup was open to all 92 members of the [[Premier League]] and the [[English Football League|Football League]] and was divided into seven rounds, organised so that 32 teams remained by the third round.<ref name="soccerdata">{{cite web |title=The Football League Cup |url=http://www.soccer.mistral.co.uk/books/flctext.htm |work=soccer.mistral.co.uk |publisher=SoccerData |access-date=29 August 2012 |archive-date=5 October 2018 |archive-url=https://web.archive.org/web/20181005085103/http://www.soccer.mistral.co.uk/books/flctext.htm |url-status=dead }}</ref> Teams involved in European competition during the season received a bye to the third round, the remaining Premier League teams entered at the second round, and the remaining Football League teams entered at the first round.<ref name="soccerdata"/>
+
+The League Cup was played as a [[Single-elimination tournament|knockout cup competition]] for each tie, being played as a single match (with the exception of the semi-finals) with the winner advancing to the next round. The semi-finals were played over [[two-legged tie|two legs]], with each team playing one leg at home, and the teams that scored more goals on aggregate over the two legs advancing to the final. If the score was level after 90 minutes, or if the aggregate score was level for semi-finals, then thirty minutes of [[Overtime (sports)#Association football)|extra time]] were played, divided into two fifteen-minute halves. If the aggregate scores in semi-finals were still level at the end of extra time, the tie was decided by goals scored away from home counting twice, according to the [[away goals rule]]. If the tie was not decided during extra time, it was determined by a [[Penalty shoot-out (association football)|penalty shoot-out]].<ref name="regulations">{{cite web |title=Rules |url=http://www.capitalonecup.co.uk/competition/rules/ |website=capitalonecup.co.uk |publisher=The Football League |access-date=12 August 2015 |archive-url=https://web.archive.org/web/20160314235032/http://www.capitalonecup.co.uk/competition/rules/ |archive-date=2016-03-14 |url-status=dead }}</ref>
+
+In the first five rounds, the team drawn first played at their home ground, and in the semi-finals the team drawn first played the first leg at home. The final was played on a neutral ground.<ref name="regulations" />
+
+==Team allocation==
+92 teams from the top four English tiers ([[Premier League]], [[Football League Championship]], [[Football League One]] and [[Football League Two]]) participated.
+
+===Distribution===
+The tournament was organised so that 32 teams remained by the third round.<ref name="soccerdata"/> Teams involved in European competition received a bye to the third round, the remaining Premier League teams entered at the second round, and the remaining Football League teams entered at the first round.<ref name="soccerdata"/>
+*Teams involved in European competition enter at the third round.
+*The remaining Premier League teams entered at the second round.
+*The remaining Football League teams entered at the first round.
+
+{| class="wikitable"
+|-
+!
+!Clubs entering in this round
+!Clubs advancing from previous round
+|-
+!First round<br />(72 clubs)
+|
+* 24 clubs from Football League Two
+* 24 clubs from Football League One
+* 24 clubs from Football League Championship
+|
+* N/A
+|-
+!Second round<br />(48 clubs)
+|
+* 12 Premier League clubs (not involved in European competition)
+|
+* 36 winners from first round
+|-
+!Third round<br />(32 clubs)
+|
+* 8 Premier League clubs (involved in European competition)
+|
+* 24 winners from second round
+|-
+!Fourth round<br />(16 clubs)
+|
+* No other entries
+|
+* 16 winners from third round
+|-
+!Quarter-finals<br />(8 clubs)
+|
+* No other entries
+|
+* 8 winners from fourth round
+|-
+!Semi-finals<br />(4 clubs)
+|
+* No other entries
+|
+* 4 winners from quarter-finals
+|-
+!Final<br />(2 clubs)
+|
+* No other entries
+|
+* 2 winners from semi-finals
+|}
+
+==Round and draw dates==
+The schedule was as follows.<ref name="FASchedule" /><ref name="CupSchedule">{{cite web|title=Competition Round and Draw Dates |url=http://www.capitalonecup.co.uk/fixtures-results/competition-round-dates/ |website=capitalonecup.co.uk |publisher=The Football League |access-date=12 August 2016 |url-status=dead |archive-url=https://web.archive.org/web/20130830162626/http://www.capitalonecup.co.uk/fixtures-results/Competition-Round-Dates/ |archive-date=30 August 2013 }}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Round
+!Draw date
+!First leg
+!Second leg
+|-
+|First round
+|16 June 2015<ref name="draw1">{{cite web |title=Capital One Cup 2015/16 – Round 1 seedings |url=http://www.capitalonecup.co.uk/news/article/capital-one-cup-201516-round-1-seedings-2487000.aspx |website=capitalonecup.co.uk |publisher=The Football League |date=9 June 2016 |access-date=12 August 2016 |archive-url=https://web.archive.org/web/20150923200453/http://www.capitalonecup.co.uk/news/article/capital-one-cup-201516-round-1-seedings-2487000.aspx |archive-date=23 September 2015 |url-status=dead |df=dmy-all }}</ref>
+|colspan=2|10 August 2015
+|-
+|Second round
+|13 August 2015<ref name="draw2">{{cite web |title=Capital One Cup round 2 draw information |url=http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-2-draw-information-2613335.aspx |archive-url=https://archive.today/20150813141415/http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-2-draw-information-2613335.aspx |url-status=dead |archive-date=13 August 2015 |website=capitalonecup.co.uk |publisher=The Football League |date=12 August 2016 |access-date=12 August 2015 }}</ref>
+|colspan=2|24 August 2015
+|-
+|Third round
+|25 August 2015<ref name="draw3">{{cite web |title=Capital One Cup round 3 draw information |url=http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-3-draw-information-2644021.aspx |website=capitalonecup.co.uk |publisher=The Football League |date=24 August 2015 |access-date=25 August 2015 |archive-url=https://web.archive.org/web/20160315001107/http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-3-draw-information-2644021.aspx |archive-date=15 March 2016 |url-status=dead |df=dmy-all }}</ref>
+|colspan=2|21 September 2015
+|-
+|Fourth round
+|23 September 2015<ref name="draw4">{{cite web |title=Capital One Cup draw - When is it? Who could the Merseyside clubs face?|url=http://www.liverpoolecho.co.uk/sport/football/football-news/capital-one-cup-draw-it-10115306|website=liverpoolecho.co.uk |publisher=Liverpool Echo |date=23 September 2016 |access-date=23 September 2015 }}</ref>
+|colspan=2|26 October 2015
+|-
+|Quarter-finals
+|28 October 2015
+|colspan=2|30 November 2015
+|-
+|Semi-finals
+|2 December 2015
+|4 January 2016
+|25 January 2016
+|-
+|Final
+|
+|colspan=2|28 February 2016
+|}
+
+''Note: Matches were played the week commencing on dates above except for the final, which was fixed for 28 February 2016.''
+
+==First round==
+A total of 72 teams played in the first round: 24 teams from [[Football League Two|League Two]] (tier 4), 24 teams from [[Football League One|League One]] (tier 3), and 24 teams from the [[Football League Championship|Championship]] (tier 2).<ref name="draw1"/> The draw for the first round was held on 16 June 2015.<ref name="draw1results">{{cite web |title=Capital One Cup 2015/16 Round 1 Draw |url=http://www.capitalonecup.co.uk/news/article/capital-one-cup-201516-round-1-draw-2494383.aspx |website=capitalonecup.co.uk |publisher=The Football League |date=16 June 2015 |access-date=12 August 2015 |archive-url=https://web.archive.org/web/20150617124706/http://www.capitalonecup.co.uk/news/article/capital-one-cup-201516-round-1-draw-2494383.aspx |archive-date=2015-06-17 |url-status=dead }}</ref> (Note: The numbers in parentheses are the tier for the team during the 2015–16 season.)
+
+===Matches===
+The matches were played in the week commencing 10 August 2015.<ref name="FASchedule" /><ref name="CupSchedule" />
+
+====Northern section====
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Accrington Stanley F.C.|Accrington Stanley]] (4)'''
+|score=2–2
+|aet=yes
+|penaltyscore=3–4
+|report=[https://www.bbc.co.uk/sport/football/33768289 Report]
+|team2=[[Hull City A.F.C.|Hull City]] (2)
+|goals1=[[Matt Crooks|Crooks]] {{goal|105}}<br/ >[[Terry Gornell|Gornell]] {{goal|115}}
+|goals2=[[Chuba Akpom|Akpom]] {{goal|92}}<br />[[Greg Luer|Luer]] {{goal|108}}
+|penalties1=[[Piero Mingoia|Mingoia]] {{pengoal}}<br />[[Josh Windass|Windass]] {{pengoal}}<br />[[Billy Kee|Kee]] {{penmiss}}<br />[[Sean McConville|McConville]] {{penmiss}}<br />[[Terry Gornell|Gornell]] {{pengoal}}<br />[[Matt Crooks|Crooks]] {{penmiss}}
+|penalties2={{pengoal}} [[Greg Luer|Luer]]<br />{{penmiss}} [[Harry Maguire|Maguire]]<br />{{pengoal}} [[Tom Huddlestone|Huddlestone]]<br />{{pengoal}} [[Chuba Akpom|Akpom]]<br />{{penmiss}} [[David Meyler|Meyler]]<br />{{pengoal}} [[Curtis Davies|Davies]]
+|stadium=[[Crown Ground]]
+|location=[[Accrington]]
+|attendance=2,118
+|referee=David Webb
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Blackburn Rovers F.C.|Blackburn Rovers]] (2)'''
+|score=1–2
+|report=[https://www.bbc.co.uk/sport/football/33768563 Report]
+|team2=[[Shrewsbury Town F.C.|Shrewsbury Town]] (3)
+|goals1=[[Liam Lawrence|Lawrence]] {{goal|30|o.g.}}
+|goals2=[[James Collins (footballer, born 1990)|Collins]] {{goal|9}}<br />[[Tyrone Barnett|Barnett]] {{goal|32}}
+|stadium=[[Ewood Park]]
+|location=[[Blackburn]]
+|attendance=5,280
+|referee=[[Geoff Eltringham]]
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Carlisle United F.C.|Carlisle United]] (4)
+|score=3–1
+|aet=yes
+|report=[https://www.bbc.co.uk/sport/football/33768447 Report]
+|team2='''[[Chesterfield F.C.|Chesterfield]] (3)'''
+|goals1=[[Jabo Ibehre|Ibehre]] {{goal|75||108}}<br />[[Kevin Osei|Osei]] {{goal|120}}
+|goals2=[[Emmanuel Dieseruvwe|Dieseruvwe]] {{goal|84}}
+|stadium=[[Brunton Park]]
+|location=[[Carlisle]]
+|attendance=2,950
+|referee=Sebastian Stockbridge
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Fleetwood Town F.C.|Fleetwood Town]] (3)'''
+|score=0–1
+|report=[https://www.bbc.co.uk/sport/football/33768418 Report]
+|team2=[[Hartlepool United F.C.|Hartlepool United]] (4)
+|goals1=
+|goals2=[[Billy Paynter|Paynter]] {{goal|58}}
+|stadium=[[Highbury Stadium (Fleetwood)|Highbury Stadium]]
+|location=[[Fleetwood]]
+|attendance=1,892
+|referee=Gary Sutton
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Huddersfield Town A.F.C.|Huddersfield Town]] (2)'''
+|score=1–2
+|report=[https://www.bbc.co.uk/sport/football/33768290 Report]
+|team2=[[Notts County F.C.|Notts County]] (4)
+|goals1=[[Murray Wallace (footballer)|Wallace]] {{goal|35}}
+|goals2=[[Liam Noble (footballer)|Noble]] {{goal|42||56}}
+|stadium=[[John Smith's Stadium]]
+|location=[[Huddersfield]]
+|attendance=4,238
+|referee=Jeremy Simpson
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Morecambe F.C.|Morecambe]] (4)'''
+|score=0–1
+|report=[https://www.bbc.co.uk/sport/football/33768493 Report]
+|team2=[[Sheffield United F.C.|Sheffield United]] (3)
+|goals1=
+|goals2=[[Neill Collins|Collins]] {{goal|90}}
+|stadium=[[Globe Arena (football stadium)|Globe Arena]]
+|location=[[Morecambe]]
+|attendance=2,168
+|referee=Stephen Martin
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Northampton Town F.C.|Northampton Town]] (4)
+|score=3–0
+|report=[https://www.bbc.co.uk/sport/football/33769206 Report]
+|team2='''[[Blackpool F.C.|Blackpool]] (3)'''
+|goals1=[[Chris Hackett (footballer)|Hackett]] {{goal|20}}<br />[[Dominic Calvert-Lewin|Calvert-Lewin]] {{goal|24}}<br />[[Sam Hoskins|Hoskins]] {{goal|29}}
+|goals2=
+|stadium=[[Sixfields Stadium]]
+|location=[[Northampton]]
+|attendance=2,549
+|referee=James Adcock
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Nottingham Forest F.C.|Nottingham Forest]] (2)'''
+|score=3–4
+|report=[https://www.bbc.com/sport/0/football/33768691 Report]
+|team2=[[Walsall F.C.|Walsall]] (3)
+|goals1=[[Tyler Walker (footballer)|Walker]] {{goal|32}}<br />[[Michail Antonio|Antonio]] {{goal|81||90}}
+|goals2=[[Tom Bradshaw (footballer, born 1992)|Bradshaw]] {{goal|11||14||90|pen.}}<br />[[Romaine Sawyers|Sawyers]] {{goal|79}}
+|stadium=[[City Ground]]
+|location=[[Nottingham]]
+|attendance=5,237
+|referee=Darren Handley
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Port Vale F.C.|Port Vale]] (3)
+|score=1–0
+|report=[https://www.bbc.com/sport/0/football/33768737 Report]
+|team2='''[[Burnley F.C.|Burnley]] (2)'''
+|goals1= [[Byron Moore|Moore]] {{goal|82}}
+|goals2=
+|stadium=[[Vale Park]]
+|location=[[Burslem]]
+|attendance=4,634
+|referee=Trevor Kettle
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Rochdale A.F.C.|Rochdale]] (3)
+|score=1–1
+|aet=yes
+|penaltyscore=5–3
+|report=[https://www.bbc.com/sport/0/football/33768604 Report]
+|team2='''[[Coventry City F.C.|Coventry City]] (3)'''
+|goals1=[[Donal McDermott|McDermott]] {{goal|45}}
+|goals2=[[Marcus Tudgay|Tudgay]] {{goal|84}}
+|penalties1=[[Michael Rose (footballer, born 1982)|Rose]] {{pengoal}}<br />[[Ian Henderson (footballer)|Henderson]] {{pengoal}}<br />[[Tom Kennedy (English footballer)|Kennedy]] {{pengoal}}<br />[[Joe Rafferty|Rafferty]] {{pengoal}}<br />[[Calvin Andrew|Andrew]] {{pengoal}}
+|penalties2={{pengoal}} [[Marcus Tudgay|Tudgay]]<br />{{pengoal}} [[Bryn Morris|Morris]]<br />{{pengoal}} [[James Maddison|Maddison]]<br />{{penmiss}} [[Rúben Lameiras|Lameiras]]
+|stadium=[[Spotland Stadium]]
+|location=[[Rochdale]]
+|attendance=1,986
+|referee=Eddie Ilderton
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Rotherham United F.C.|Rotherham United]] (2)
+|score=1–0
+|report=[https://www.bbc.com/sport/0/football/33769317 Report]
+|team2='''[[Cambridge United F.C.|Cambridge United]] (4)'''
+|goals1=[[Jordan Bowery|Bowery]] {{goal|45}}
+|goals2=
+|stadium=[[New York Stadium]]
+|location=[[Rotherham]]
+|attendance=4,568
+|referee=Christopher Sarginson
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Scunthorpe United F.C.|Scunthorpe United]] (3)'''
+|score=1–1
+|aet=yes
+|penaltyscore=6–7
+|report=[https://www.bbc.com/sport/0/football/33768619 Report]
+|team2=[[Barnsley F.C.|Barnsley]] (3)
+|goals1=[[Paddy Madden|Madden]] {{goal|52|pen.}}
+|goals2=[[Josh Scowen|Scowen]] {{goal|47|pen.}}
+|penalties1=[[Paddy Madden|Madden]] {{pengoal}}<br />[[Tom Hopper (footballer)|Hopper]] {{pengoal}}<br />[[Hakeeb Adelakun|Adelakun]] {{pengoal}}<br />[[Scott Laird|Laird]] {{pengoal}}<br />[[Neal Bishop|Bishop]] {{pengoal}}<br />[[Kevin van Veen|Van Veen]] {{penmiss}}<br />[[David Mirfin|Mirfin]] {{pengoal}}<br />[[Sean McAllister (footballer, born 1987)|McAllister]] {{penmiss}}
+|penalties2={{pengoal}} [[Sam Winnall|Winnall]]<br />{{pengoal}} [[Conor Hourihane|Hourihane]]<br />{{pengoal}} [[Josh Scowen|Scowen]]<br />{{pengoal}} [[Alfie Mawson|Mawson]]<br />{{pengoal}} [[Marc Roberts (footballer)|Roberts]]<br />{{penmiss}} [[Ben Pearson (footballer)|Pearson]]<br />{{pengoal}} [[Lewin Nyatanga|Nyatanga]]<br />{{pengoal}} [[James Bree (footballer)|Bree]]
+|stadium=[[Glanford Park]]
+|location=[[Scunthorpe]]
+|attendance=3,003
+|referee=Graham Salisbury
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Sheffield Wednesday F.C.|Sheffield Wednesday]] (2)
+|score=4–1
+|report=[https://www.bbc.com/sport/football/33769201 Report]
+|team2='''[[Mansfield Town F.C.|Mansfield Town]] (4)'''
+|goals1=[[Lucas João]] {{goal|13}}<br />[[José Semedo (footballer, born 1985)|Semedo]] {{goal|19}}<br />[[Kieran Lee|Lee]] {{goal|53}}<br />[[Modou Sougou|Sougou]] {{goal|84}}
+|goals2=[[Ryan Tafazolli|Tafazolli]] {{goal|45}}
+|stadium=[[Hillsborough Stadium]]
+|location=[[Sheffield]]
+|attendance=14,021
+|referee=Mark Brown
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Wigan Athletic F.C.|Wigan Athletic]] (3)'''
+|score=1–2
+|report=[https://www.bbc.com/sport/0/football/33768773 Report]
+|team2=[[Bury F.C.|Bury]] (3)
+|goals1=[[Will Grigg|Grigg]] {{goal|46|pen.}}
+|goals2=[[Leon Clarke|L. Clarke]] {{goal|63||89|pen.}}
+|stadium=[[DW Stadium]]
+|location=[[Wigan]]
+|attendance=5,484
+|referee=Mark Heywood
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[York City F.C.|York City]] (4)
+|score=2–2
+|aet=yes
+|penaltyscore=4–2
+|report=[https://www.bbc.com/sport/football/33768786 Report]
+|team2='''[[Bradford City A.F.C.|Bradford City]] (3)'''
+|goals1=[[Luke Summerfield|Summerfield]] {{goal|49|pen.}}<br />[[James Berrett|Berrett]] {{goal|85}}
+|goals2=[[Christopher Routis|Routis]] {{goal|21}}<br />[[James Hanson (footballer, born 1987)|Hanson]] {{goal|90}}
+|penalties1=[[Keith Lowe (footballer)|Lowe]] {{pengoal}}<br />[[Jake Hyde|Hyde]] {{penmiss}}<br />[[James Berrett|Berrett]] {{pengoal}}<br />[[Reece Thompson (footballer)|Thompson]] {{pengoal}}<br />[[Josh Carson|Carson]] {{pengoal}}
+|penalties2={{penmiss}} [[Tony McMahon|McMahon]]<br />{{pengoal}} [[Josh Morris (footballer, born 1991)|Morris]]<br />{{penmiss}} [[Christopher Routis|Routis]]<br />{{pengoal}} [[James Hanson (footballer, born 1987)|Hanson]]
+|stadium=[[Bootham Crescent]]
+|location=[[York]]
+|attendance=4,201
+|referee=Mark Haywood
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=20:00 [[British Summer Time|BST]]
+|team1='''[[Bolton Wanderers F.C.|Bolton Wanderers]] (2)'''
+|score=0–1
+|report=[https://www.bbc.co.uk/sport/football/33768800 Report]
+|team2=[[Burton Albion F.C.|Burton Albion]] (3)
+|goals1=
+|goals2=[[Matt Palmer (footballer)|Palmer]] {{goal|87}}
+|stadium=[[University of Bolton Stadium|Macron Stadium]]
+|location=[[Metropolitan Borough of Bolton|Bolton]]
+|attendance=5,842
+|referee=Richard Clark
+}}
+{{Footballbox collapsible
+|date=12 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Crewe Alexandra F.C.|Crewe Alexandra]] (3)'''
+|score=1–3
+|report=[https://www.bbc.com/sport/0/football/33783275 Report]
+|team2=[[Preston North End F.C.|Preston North End]] (2)
+|goals1=[[Adam King (footballer)|King]] {{goal|36}}
+|goals2=[[Jordan Hugill|Hugill]] {{goal|5|pen.}}<br />[[Will Keane|Keane]] {{goal|13}}<br />[[Josh Brownhill|Brownhill]] {{goal|86}}
+|stadium=[[Gresty Road]]
+|location=[[Crewe]]
+|attendance=2,852
+|referee=[[Scott Duncan (referee)|Scott Duncan]]
+}}
+{{Footballbox collapsible
+|date=12 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Oldham Athletic A.F.C.|Oldham Athletic]] (3)'''
+|score=1–3
+|report=[https://www.bbc.com/sport/0/football/33783308 Report]
+|team2=[[Middlesbrough F.C.|Middlesbrough]] (2)
+|goals1=[[Danny Philliskirk|Philliskirk]] {{goal|90}}
+|goals2=[[Yanic Wildschut|Wildschut]] {{goal|23}}<br />[[Christian Stuani|Stuani]] {{goal|41||61}}
+|stadium=[[Boundary Park]]
+|location=[[Oldham]]
+|attendance=4,182
+|referee=Carl Boyeson
+}}
+{{Footballbox collapsible
+|date=13 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Doncaster Rovers F.C.|Doncaster Rovers]] (3)
+|score=1–1
+|aet=yes
+|penaltyscore=4–2
+|report=[https://www.bbc.com/sport/0/football/33798614 Report]
+|team2='''[[Leeds United F.C.|Leeds United]] (2)'''
+|goals1=[[Andy Williams (footballer, born 1986)|Williams]] {{goal|31|pen.}}
+|goals2=[[Lewis Cook (footballer, born 1997)|L. Cook]] {{goal|14}}
+|penalties1=[[Nathan Tyson|Tyson]] {{pengoal}}<br />[[Andy Williams (footballer, born 1986)|Williams]] {{pengoal}}<br />[[Harry Forrester (footballer)|Forrester]] {{pengoal}}<br />[[Richard Wellens|Wellens]] {{pengoal}}
+|penalties2={{pengoal}} [[Mirco Antenucci|Antenucci]]<br />{{pengoal}} [[Luke Murphy (English footballer)|Murphy]]<br />{{penmiss}} [[Sam Byram|Byram]]<br />{{penmiss}} [[Chris Wood (footballer, born 1991)|Wood]]
+|stadium=[[Keepmoat Stadium]]
+|location=[[Doncaster]]
+|attendance=8,361
+|referee=Keith Hill
+}}
+
+====Southern section====
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Brentford F.C.|Brentford]] (2)'''
+|score=0–4
+|report=[https://www.bbc.co.uk/sport/football/33768562 Report]
+|team2=[[Oxford United F.C.|Oxford United]] (4)
+|goals1=
+|goals2=[[Liam Sercombe|Sercombe]] {{goal|5}}<br />[[Danny Hylton|Hylton]] {{goal|9}}<br />[[Kemar Roofe|Roofe]] {{goal|12}}<br />[[Johnny Mullins|Mullins]] {{goal|54}}
+|stadium=[[Griffin Park]]
+|location=[[Brentford]], [[London]]
+|attendance=5,177
+|referee=Lee Collins
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Bristol Rovers F.C.|Bristol Rovers]] (4)'''
+|score=1–2
+|report=[https://www.bbc.co.uk/sport/football/33768565 Report]
+|team2=[[Birmingham City F.C.|Birmingham City]] (2)
+|goals1= [[Ellis Harrison|Harrison]] {{goal|65}}
+|goals2=[[Jacques Maghoma|Maghoma]] {{goal|57}}<br />[[Andrew Shinnie|Shinnie]] {{goal|68}}
+|stadium=[[Memorial Stadium (Bristol)|Memorial Stadium]]
+|location=[[Bristol]]
+|attendance=5,650
+|referee=[[Andy Davies (referee)|Andy Davies]]
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Cardiff City F.C.|Cardiff City]] (2)
+|score=1–0
+|report=[https://www.bbc.co.uk/sport/football/33768564 Report]
+|team2='''[[AFC Wimbledon]] (4)'''
+|goals1=[[Craig Noone|Noone]] {{goal|45}}
+|goals2=
+|stadium=[[Cardiff City Stadium]]
+|location=[[Cardiff]], [[Wales]]
+|attendance=6,314
+|referee=Brendan Malone
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Charlton Athletic F.C.|Charlton Athletic]] (2)
+|score=4–1
+|report=[https://www.bbc.co.uk/sport/football/33769182 Report]
+|team2='''[[Dagenham & Redbridge F.C.|Dagenham & Redbridge]] (4)'''
+|goals1=[[Tony Watt|Watt]] {{goal|26}}<br />[[Karlan Ahearne-Grant|Ahearne-Grant]] {{goal|40}}<br />[[Zakarya Bergdich|Bergdich]] {{goal|57}}<br />[[Reza Ghoochannejhad|Ghoochannejhad]] {{goal|77}}
+|goals2=[[Christian Doidge|Doidge]] {{goal|69}}
+|stadium=[[The Valley (London)|The Valley]]
+|location=[[Charlton, London]]
+|attendance=5,100
+|referee=[[Stuart Attwell]]
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Colchester United F.C.|Colchester United]] (3)'''
+|score=0–1
+|aet=yes
+|report=[https://www.bbc.co.uk/sport/football/33769253 Report]
+|team2=[[Reading F.C.|Reading]] (2)
+|goals1=
+|goals2=[[Chris Gunter|Gunter]] {{goal|115}}
+|stadium=[[Colchester Community Stadium]]
+|location=[[Colchester]]
+|attendance=2,706
+|referee=[[Darren Drysdale]]
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Ipswich Town F.C.|Ipswich Town]] (2)
+|score=2–1
+|report=[https://www.bbc.co.uk/sport/football/33769154 Report]
+|team2='''[[Stevenage F.C.|Stevenage]] (4)'''
+|goals1=[[Josh Yorwerth|Yorwerth]] {{goal|55}}<br />[[Jay Tabb|Tabb]] {{goal|76}}
+|goals2=[[Christophe Berra|Berra]] {{goal|34|o.g.}}
+|stadium=[[Portman Road]]
+|location=[[Ipswich]]
+|attendance=10,449
+|referee=Frederick Graham
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Luton Town F.C.|Luton Town]] (4)
+|score=3–1
+|report=[https://www.bbc.co.uk/sport/football/33768444 Report]
+|team2='''[[Bristol City F.C.|Bristol City]] (2)'''
+|goals1=[[Jack Marriott (footballer)|Marriott]] {{goal|44||63}}<br />[[Paul Benson|Benson]] {{goal|59}}
+|goals2=[[Callum Robinson|Robinson]] {{goal|71}}
+|stadium=[[Kenilworth Road]]
+|location=[[Luton]]
+|attendance=3,948
+|referee=James Linington
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Millwall F.C.|Millwall]] (3)'''
+|score=1–2
+|aet=yes
+|report=[https://www.bbc.co.uk/sport/football/33768492 Report]
+|team2=[[Barnet F.C.|Barnet]] (4)
+|goals1=[[Steve Morison|Morison]] {{goal|76}}
+|goals2=[[John Akinde|Akinde]] {{goal|11|pen.}}<br />[[Andy Yiadom|Yiadom]] {{goal|102}}
+|stadium=[[The Den]]
+|location=[[Bermondsey]], [[London]]
+|attendance=4,454
+|referee=[[Andrew Madley]]
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Milton Keynes Dons F.C.|Milton Keynes Dons]] (2)
+|score=2–1
+|report=[https://www.bbc.co.uk/sport/football/33768448 Report]
+|team2='''[[Leyton Orient F.C.|Leyton Orient]] (4)'''
+|goals1=[[Mathieu Baudry|Baudry]] {{goal|90|o.g.}}<br />[[Carl Baker|Baker]] {{goal|90}}
+|goals2=[[Dean Lewington|Lewington]] {{goal|36|o.g.}}
+|stadium=[[Stadium MK]]
+|location=[[Milton Keynes]]
+|attendance=5,444
+|referee=[[Simon Hooper]]
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Peterborough United F.C.|Peterborough United]] (3)
+|score=2–0
+|report=[https://www.bbc.com/sport/0/football/33768514 Report]
+|team2='''[[Crawley Town F.C.|Crawley Town]] (4)'''
+|goals1=[[Conor Washington|Washington]] {{goal|2}}<br />[[Marcus Maddison|Maddison]] {{goal|49}}
+|goals2=
+|stadium=[[London Road Stadium]]
+|location=[[Peterborough]]
+|attendance=2,500
+|referee=Rob Lewis
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Plymouth Argyle F.C.|Plymouth Argyle]] (4)'''
+|score=1–2
+|report=[https://www.bbc.com/sport/0/football/33768527 Report]
+|team2=[[Gillingham F.C.|Gillingham]] (3)
+|goals1=[[Craig Tanner (footballer)|Tanner]] {{goal|78}}
+|goals2=[[Bradley Dack|Dack]] {{goal|85}}<br />[[Jake Hessenthaler|Hessenthaler]] {{goal|87}}
+|stadium=[[Home Park]]
+|location=[[Plymouth]]
+|attendance=5,120
+|referee=Kevin Johnson
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Southend United F.C.|Southend United]] (3)'''
+|score=0–1
+|report=[https://www.bbc.com/sport/0/football/33768621 Report]
+|team2=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] (2)
+|goals1=
+|goals2=[[Kazenga LuaLua|LuaLua]] {{goal|90}}
+|stadium=[[Roots Hall]]
+|location=[[Southend]]
+|attendance=4,485
+|referee=Iain Williamson
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Swindon Town F.C.|Swindon Town]] (3)'''
+|score=1–2
+|report=[https://www.bbc.com/sport/0/football/33768646 Report]
+|team2=[[Exeter City F.C.|Exeter City]] (4)
+|goals1=[[Jonathan Obika|Obika]] {{goal|65}}
+|goals2=[[Alex Nicholls (footballer)|Nicholls]] {{goal|37}}<br />[[David Wheeler (footballer)|Wheeler]] {{goal|42}}
+|stadium=[[County Ground (Swindon)|County Ground]]
+|location=[[Swindon]]
+|attendance=4,693
+|referee=Charles Breakspear
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (2)
+|score=2–1
+|report=[https://www.bbc.com/sport/0/football/33769181 Report]
+|team2='''[[Newport County A.F.C.|Newport County]] (4)'''
+|goals1=[[Nouha Dicko|Dicko]] {{goal|16}}<br />[[Benik Afobe|Afobe]] {{goal|58|pen.}}
+|goals2=[[Scott Boden|Boden]] {{goal|6}}
+|stadium=[[Molineux Stadium]]
+|location=[[Wolverhampton]]
+|attendance=9,586
+|referee=[[Darren Bond]]
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Wycombe Wanderers F.C.|Wycombe Wanderers]] (4)'''
+|score=0–1
+|report=[https://www.bbc.com/sport/0/football/33768836 Report]
+|team2=[[Fulham F.C.|Fulham]] (2)
+|goals1=
+|goals2=[[Alexander Kačaniklić|Kačaniklić]] {{goal|69}}
+|stadium=[[Adams Park]]
+|location=[[High Wycombe]]
+|attendance=4,012
+|referee=Gavin Ward
+}}
+{{Footballbox collapsible
+|date=11 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Yeovil Town F.C.|Yeovil Town]] (4)'''
+|score=0–3
+|report=[https://www.bbc.com/sport/0/football/33768850 Report]
+|team2=[[Queens Park Rangers F.C.|Queens Park Rangers]] (2)
+|goals1=
+|goals2=[[Sebastian Polter|Polter]] {{goal|16}}<br />[[Jay Emmanuel-Thomas|Emmanuel-Thomas]] {{goal|20}}<br />[[Nedum Onouha|Onouha]] {{goal|56}}
+|stadium=[[Huish Park]]
+|location=[[Yeovil]]
+|attendance=4,058
+|referee=[[Oliver Langford]]
+}}
+{{Footballbox collapsible
+|date=12 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Portsmouth F.C.|Portsmouth]] (4)
+|score=2–1
+|report=[https://www.bbc.com/sport/0/football/33783273 Report]
+|team2='''[[Derby County F.C.|Derby County]] (2)'''
+|goals1=[[Adam McGurk|McGurk]] {{goal|49}}<br />[[Conor Chaplin|Chaplin]] {{goal|76}}
+|goals2=[[Jason Shackell|Shackell]] {{goal|73}}
+|stadium=[[Fratton Park]]
+|location=[[Portsmouth]]
+|attendance=11,573
+|referee=[[Paul Tierney (referee)|Paul Tierney]]
+}}
+
+==Second round==
+
+A total of 48 teams played in the second round: 12 teams which entered in this round, and the 36 winners of the first round. The 12 teams entering this round were the teams from the [[2015–16 Premier League]] not involved in any European competition.<ref name="draw2" /> The draw for the second round was held on 13 August 2015.<ref name="draw2results">{{cite web |title=Capital One Cup 2015/16 Round 2 Draw |url=http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-2-draw-2617994.aspx |website=capitalonecup.co.uk |publisher=The Football League |date=13 August 2015 |access-date=18 August 2015 |archive-url=https://web.archive.org/web/20150816223755/http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-2-draw-2617994.aspx |archive-date=2015-08-16 |url-status=dead }}</ref> (Note: The numbers in parentheses are the tier for the team during the 2015–16 season.)
+
+===Matches===
+The matches were played in the week commencing 24 August 2015.<ref name="FASchedule" /><ref name="CupSchedule" />
+
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Aston Villa F.C.|Aston Villa]] (1)
+|score= 5–3
+|aet= yes
+|report= [https://www.bbc.co.uk/sport/football/33969962 Report]
+|team2='''[[Notts County F.C.|Notts County]] (4)'''
+|goals1 = [[Adama Traoré (footballer, born 1996)|Traoré]] {{goal|24}}<br />[[Scott Sinclair|Sinclair]] {{goal|50||78|pen.|99}}<br />[[Joe Bennett (footballer)|Bennett]] {{goal|111}}
+|goals2 = [[Genaro Snijders|Snijders]] {{goal|16}}<br />[[Jon Stead|Stead]] {{goal|45|pen.}}<br />[[Graham Burke|Burke]] {{goal|56}}
+|stadium=[[Villa Park]]
+|location=[[Aston]], [[Birmingham]]
+|attendance=21,430
+|referee=[[Chris Kavanagh (referee)|Chris Kavanagh]]
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Walsall F.C.|Walsall]] (3)
+|score= 2–1
+|report=[https://www.bbc.co.uk/sport/football/33969992 Report]
+|team2='''[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] (2)'''
+|goals1 = [[Milan Lalkovič|Lalkovič]] {{goal|65}}<br />[[Rico Henry|Henry]] {{goal|86}}
+|goals2 = [[Jake Forster-Caskey|Forster-Caskey]] {{goal|39|pen.}}
+|stadium=[[Bescot Stadium]]
+|location=[[Walsall]]
+|attendance=2,968
+|referee=[[Peter Bankes]]
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Crystal Palace F.C.|Crystal Palace]] (1)
+|score= 4–1
+|aet=yes
+|report=[https://www.bbc.co.uk/sport/football/33969809 Report]
+|team2='''[[Shrewsbury Town F.C.|Shrewsbury Town]] (3)'''
+|goals1 = [[Dwight Gayle|Gayle]] {{goal|41|pen.}}<br />[[Glenn Murray|Murray]] {{goal|95|pen.}}<br />[[Lee Chung-yong]] {{goal|97}}<br />[[Wilfried Zaha|Zaha]] {{goal|114}}
+|goals2 = [[Matt Tootle|Tootle]] {{goal|9}}
+|stadium=[[Selhurst Park]]
+|location=[[Selhurst]], [[London]]
+|attendance= 10,978
+|referee= [[Darren Bond]]
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Sheffield Wednesday F.C.|Sheffield Wednesday]] (2)
+|score= 1–0
+|report=[https://www.bbc.co.uk/sport/football/33970025 Report]
+|team2='''[[Oxford United F.C.|Oxford United]] (4)'''
+|goals1 = [[Atdhe Nuhiu|Nuhiu]] {{goal|55}}
+|goals2 = 
+|stadium=[[Hillsborough Stadium]]
+|location=[[Sheffield]]
+|attendance= 11,799
+|referee= David Webb
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Portsmouth F.C.|Portsmouth]] (4)'''
+|score=  1–2
+|report= [https://www.bbc.co.uk/sport/football/33969906 Report]
+|team2=[[Reading F.C.|Reading]] (2)
+|goals1 = [[Conor Chaplin|Chaplin]] {{goal|40}}
+|goals2 = [[Nick Blackman|Blackman]] {{goal|64}}<br />[[Garath McCleary|McCleary]] {{goal|84}}
+|stadium=[[Fratton Park]]
+|location=[[Portsmouth]]
+|attendance= 18,190
+|referee= Gavin Ward
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Hartlepool United F.C.|Hartlepool United]] (4)'''
+|score= 0–4
+|report= [https://www.bbc.co.uk/sport/football/33969810 Report]
+|team2=[[AFC Bournemouth|Bournemouth]] (1)
+|goals1=
+|goals2= [[Yann Kermorgant|Kermorgant]] {{goal|30}}<br />[[Dan Gosling|Gosling]] {{goal|34}}<br />[[Junior Stanislas|Stanislas]] {{goal|44||64}}
+|stadium=[[Victoria Park (Hartlepool)|Victoria Park]]
+|location=[[Hartlepool]]
+|attendance= 4,890
+|referee= Carl Boyeson
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Fulham F.C.|Fulham]] (2)
+|score= 3–0
+|report= [https://www.bbc.co.uk/sport/football/33970046 Report]
+|team2='''[[Sheffield United F.C.|Sheffield United]] (3)'''
+|goals1 = [[Ross McCormack|McCormack]] {{goal|62|pen.|75}}<br />[[Moussa Dembélé (footballer, born 1996)|Dembélé]] {{goal|90}}
+|goals2 = 
+|stadium=[[Craven Cottage]]
+|location=[[London]]
+|attendance= 5,927
+|referee= Dean Whitestone
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Milton Keynes Dons F.C.|Milton Keynes Dons]] (2)
+|score= 2–1
+|aet= yes
+|report= [https://www.bbc.com/sport/0/football/33969971 Report]
+|team2='''[[Cardiff City F.C.|Cardiff City]] (2)'''
+|goals1 = [[Carl Baker|Baker]] {{goal|78}} <br /> [[Josh Murphy|Murphy]] {{goal|108}}
+|goals2 = [[Alex Revell|Revell]] {{goal|53}}
+|stadium=[[Stadium MK]]
+|location=[[Milton Keynes]]
+|attendance= 5,617
+|referee= [[Tim Robinson (referee)|Tim Robinson]]
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Hull City A.F.C.|Hull City]] (2)
+|score= 1–0
+|report= [https://www.bbc.co.uk/sport/football/33969860 Report]
+|team2='''[[Rochdale A.F.C.|Rochdale]] (3)'''
+|goals1= [[Greg Luer|Luer]] {{goal|9}}
+|goals2= 
+|stadium=[[KC Stadium]]
+|location=[[Kingston upon Hull]]
+|attendance= 10,430
+|referee= Mark Haywood
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Sunderland A.F.C.|Sunderland]] (1)
+|score= 6–3
+|report= [https://www.bbc.com/sport/0/football/33970039 Report]
+|team2='''[[Exeter City F.C.|Exeter City]] (4)'''
+|goals1 = [[Jack Rodwell|Rodwell]] {{goal|12||64}}<br />[[Jermain Defoe|Defoe]] {{goal|16||39||87}}<br />[[Duncan Watmore|Watmore]] {{goal|78}}
+|goals2 = [[Emmanuel Oyeleke|Oyeleke]] {{goal|19}}<br />[[David Wheeler (footballer)|Wheeler]] {{goal|31}}<br />[[Tom McCready (footballer, born 1991)|McCready]] {{goal|43}}
+|stadium=[[Stadium of Light]]
+|location=[[Sunderland, Tyne and Wear|Sunderland]]
+|attendance= 14,360
+|referee= [[Stuart Attwell]]
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Bury F.C.|Bury]] (3)'''
+|score= 1–4
+|report= [https://www.bbc.co.uk/sport/football/33969858 Report]
+|team2=[[Leicester City F.C.|Leicester City]] (1)
+|goals1 = [[Danny Mayor|Mayor]] {{goal|49}}
+|goals2 = [[Joe Dodoo|Dodoo]] {{goal|25||86||90}}<br />[[Andrej Kramarić|Kramarić]] {{goal|41}}
+|stadium=[[Gigg Lane]]
+|location=[[Bury, Greater Manchester|Bury]]
+|attendance= 4,914
+|referee= [[Andrew Madley]]
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Doncaster Rovers F.C.|Doncaster Rovers]] (3)'''
+|score= 1–4
+|aet=yes
+|report= [https://www.bbc.co.uk/sport/football/33969812 Report]
+|team2=[[Ipswich Town F.C.|Ipswich Town]] (2)
+|goals1 = [[Andy Williams (footballer, born 1986)|Williams]] {{goal|23}}
+|goals2 = [[Brett Pitman|Pitman]] {{goal|58}}<br />[[David McGoldrick|McGoldrick]] {{goal|102}}<br />[[James Alabi|Alabi]] {{goal|105}}<br />[[Ryan Fraser|Fraser]] {{goal|113}}
+|stadium=[[Keepmoat Stadium]]
+|location=[[Doncaster]]
+|attendance= 3,729
+|referee= [[Scott Duncan (referee)|Scott Duncan]]
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Rotherham United F.C.|Rotherham United]] (2)'''
+|score= 1–2
+|report= [https://www.bbc.com/sport/0/football/33970018 Report]
+|team2=[[Norwich City F.C.|Norwich City]] (1)
+|goals1 = [[Paul Green (footballer, born 1983)|Green]] {{goal|80}}
+|goals2 = [[Jonny Howson|Howson]] {{goal|22}} <br /> [[Ricky van Wolfswinkel|Van Wolfswinkel]] {{goal|68}}
+|stadium=[[New York Stadium]]
+|location=[[Rotherham]]
+|attendance= 5,648
+|referee= Kevin Wright
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Swansea City A.F.C.|Swansea City]] (1)
+|score= 3–0
+|report= [https://www.bbc.com/sport/0/football/33970032 Report]
+|team2='''[[York City F.C.|York City]] (4)'''
+|goals1= [[Nathan Dyer|Dyer]] {{goal|2}}<br />[[Matt Grimes|Grimes]] {{goal|64}}<br />[[Marvin Emnes|Emnes]] {{goal|88}}
+|goals2=
+|stadium=[[Liberty Stadium]]
+|location=[[Swansea]]
+|attendance= 10,174
+|referee= James Adcock
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Queens Park Rangers F.C.|Queens Park Rangers]] (2)'''
+|score= 1–2
+|report=[https://www.bbc.com/sport/0/football/33969907 Report]
+|team2=[[Carlisle United F.C.|Carlisle United]] (4)
+|goals1 = [[Jay Emmanuel-Thomas|Emmanuel-Thomas]] {{goal|40}}
+|goals2 = [[Derek Asamoah|Asamoah]] {{goal|37}}<br />[[Jason Kennedy (footballer)|Kennedy]] {{goal|79}}
+|stadium=[[Loftus Road]]
+|location=[[London]]
+|attendance= 5,501
+|referee= James Linington
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Peterborough United F.C.|Peterborough United]] (3)'''
+|score= 1–4
+|report= [https://www.bbc.co.uk/sport/football/33969966 Report]
+|team2=[[Charlton Athletic F.C.|Charlton Athletic]] (2)
+|goals1 = [[Jermaine Anderson (English footballer)|J. Anderson]] {{goal|90+3}}
+|goals2 = [[Mikhail Kennedy|Kennedy]] {{goal|3}}<br />[[Karlan Ahearne-Grant|Ahearne-Grant]] {{goal|53|pen.}}<br />[[Ahmed Kashi|Kashi]] {{goal|76}}<br />[[Igor Vetokele|Vetokele]] {{goal|87}}
+|stadium=[[London Road Stadium|London Road]]
+|location=[[Peterborough]]
+|attendance= 2,771
+|referee= Gary Sutton
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Birmingham City F.C.|Birmingham City]] (2)
+|score= 2–0
+|report=[https://www.bbc.com/sport/0/football/33969862 Report]
+|team2='''[[Gillingham F.C.|Gillingham]] (3)'''
+|goals1=[[Wes Thomas|Thomas]] {{goal|35||72}}
+|goals2=
+|stadium=[[St Andrew's (stadium)|St Andrew's]]
+|location=[[Birmingham]]
+|attendance=9,275
+|referee= Graham Salisbury
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Newcastle United F.C.|Newcastle United]] (1)
+|score= 4–1
+|report= [https://www.bbc.co.uk/sport/football/33970053 Report]
+|team2='''[[Northampton Town F.C.|Northampton Town]] (4)'''
+|goals1     = [[Florian Thauvin|Thauvin]] {{goal|3}}<br />[[Siem de Jong|De Jong]] {{goal|8}}<br />[[Daryl Janmaat|Janmaat]] {{goal|56}}<br />[[Mike Williamson (footballer)|Williamson]] {{goal|63}}
+|goals2     = [[Marc Richards|Richards]] {{goal|10|pen.}}
+|stadium=[[St James' Park]]
+|location=[[Newcastle upon Tyne]]
+|attendance= 26,923
+|referee= [[David Coote (referee)|David Coote]]
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (2)
+|score= 2–1
+|report= [https://www.bbc.com/sport/0/football/33969991 Report]
+|team2='''[[Barnet F.C.|Barnet]] (4)'''
+|goals1=[[Bright Enobakhare|Enobokhare]] {{goal|3}}<br />[[Sheyi Ojo|Ojo]] {{goal|58}}
+|goals2=[[Bira Dembélé|Dembélé]] {{goal|76}}
+|stadium=[[Molineux Stadium]]
+|location=[[Wolverhampton]]
+|attendance= 7,384
+|referee= Mark Heywood
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Burton Albion F.C.|Burton Albion]] (3)'''
+|score= 1–2
+|aet=yes
+|report= [https://www.bbc.co.uk/sport/football/33969861 Report]
+|team2=[[Middlesbrough F.C.|Middlesbrough]] (2)
+|goals1 = [[George Friend|Friend]] {{goal|24|o.g.}}
+|goals2 = [[Cristhian Stuani|Stuani]] {{goal|70||109}}
+|stadium=[[Pirelli Stadium]]
+|location=[[Burton upon Trent]]
+|attendance= 3,414
+|referee= Mark Brown
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Luton Town F.C.|Luton Town]] (4)'''
+|score= 1–1
+|aet=yes
+|penalties1=[[Paul Benson|Benson]] {{pengoal}}<br />[[Cameron McGeehan|McGeehan]] {{pengoal}}<br />[[Olly Lee|Lee]] {{pengoal}}<br />[[Luke Wilkinson|Wilkinson]] {{pengoal}}<br />[[Ryan Hall (footballer)|Hall]] {{pengoal}}<br />[[Stephen O'Donnell (footballer born 1992)|O'Donnell]] {{pengoal}}<br />[[Jonathan Smith (footballer born 1986)|Smith]] {{pengoal}}<br />[[Scott Griffiths|Griffiths]] {{penmiss}}
+|penaltyscore= 7–8
+|penalties2={{pengoal}} [[Jonathan Walters|Walters]]<br />{{pengoal}} [[Joselu]]<br />{{pengoal}} [[Phil Bardsley|Bardsley]]<br />{{pengoal}} [[Steve Sidwell|Sidwell]]<br />{{pengoal}} [[Marc Wilson (Irish footballer)|Wilson]]<br />{{pengoal}} [[Mame Biram Diouf|Diouf]]<br />{{pengoal}} [[Philipp Wollscheid|Wollscheid]]<br />{{pengoal}} [[Geoff Cameron|Cameron]]
+|report= [https://www.bbc.co.uk/sport/football/33969963 Report]
+|team2=[[Stoke City F.C.|Stoke City]] (1)
+|goals1     = [[Cameron McGeehan|McGeehan]] {{goal|90}}
+|goals2     = [[Jonathan Walters|Walters]] {{goal|67}}
+|stadium=[[Kenilworth Road]]
+|location=[[Luton]]
+|attendance= 6,099
+|referee= [[Paul Tierney (referee)|Paul Tierney]]
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Preston North End F.C.|Preston North End]] (2)
+|score= 1–0
+|report= [https://www.bbc.com/sport/0/football/33969908 Report]
+|team2='''[[Watford F.C.|Watford]] (1)'''
+|goals1= [[Marnick Vermijl|Vermijl]] {{goal|8}}
+|goals2=
+|stadium=[[Deepdale]]
+|location=[[Preston, Lancashire|Preston]]
+|attendance= 6,250
+|referee= Stephen Martin
+}}
+{{Footballbox collapsible
+|date=25 August 2015
+|time=20:00 [[British Summer Time|BST]]
+|team1=[[West Bromwich Albion F.C.|West Bromwich Albion]] (1)
+|score=0–0
+|aet=yes
+|penalties1=[[Rickie Lambert|Lambert]] {{pengoal}}<br />[[Claudio Yacob|Yacob]] {{pengoal}}<br />[[Callum McManaman|McManaman]] {{pengoal}}<br />[[Darren Fletcher|Fletcher]] {{pengoal}}<br />[[James Chester|Chester]] {{pengoal}}
+|penaltyscore=5–3
+|penalties2={{pengoal}} [[A-Jay Leitch-Smith|Leitch-Smith]]<br />{{penmiss}} [[Richard Duffy|Duffy]]<br />{{pengoal}} [[Ben Purkiss|Purkiss]]<br />{{pengoal}} [[Sam Foley|Foley]]
+|report= [https://www.bbc.co.uk/sport/football/33969990 Report]
+|team2='''[[Port Vale F.C.|Port Vale]] (3)'''
+|goals1=
+|goals2=
+|stadium=[[The Hawthorns]]
+|location=[[West Bromwich]]
+|attendance=13,915
+|referee= [[Keith Stroud]]
+}}
+{{Footballbox collapsible
+|date=26 August 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Barnsley F.C.|Barnsley]] (3)'''
+|score=3–5
+|aet=yes
+|report=[https://www.bbc.com/sport/0/football/33969808 Report]
+|team2=[[Everton F.C.|Everton]] (1)
+|goals1=[[Sam Winnall|Winnall]] {{goal|22}}<br />[[Marley Watkins|Watkins]] {{goal|28}}<br />[[Daniel Crowley (footballer)|Crowley]] {{goal|60}}
+|goals2=[[Kevin Mirallas|Mirallas]] {{goal|51}}<br />[[Steven Naismith|Naismith]] {{goal|59}}<br />[[Romelu Lukaku|Lukaku]] {{goal|78||115}}<br />[[Marc Roberts (footballer)|Roberts]] {{goal|96|o.g.}}
+|stadium=[[Oakwell]]
+|location=[[Barnsley]]
+|attendance=12,290
+|referee=[[Simon Hooper]]
+}}
+
+==Third round==
+
+===Teams===
+A total of 32 teams played in the third round: 8 teams which entered in this round, and the 24 winners of the second round. The eight teams entering this round were the teams from the [[2015–16 Premier League]] involved in European competition in the 2015–16 season. There was no seeding in this round. The lowest ranked team in this round was [[Carlisle United F.C.|Carlisle United]], who played in [[Football League Two|League Two]], the fourth division of English football.<ref>{{cite web|url= https://www.bbc.com/sport/0/football/34059004|title=League Cup third-round draw: Tottenham to host rivals Arsenal|date=25 August 2015|work=BBC Sport|access-date=27 August 2015}}</ref>
+
+===Matches===
+The matches were played in the week commencing 21 September 2015.<ref name="FASchedule" /><ref name="CupSchedule" />
+
+{{Footballbox collapsible
+|date=22 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Middlesbrough F.C.|Middlesbrough]] (2)
+|score=3–0
+|report=[https://www.bbc.com/sport/0/football/34253543 Report]
+|team2='''[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (2)'''
+|goals1=[[Albert Adomah|Adomah]] {{goal|37||64}}<br />[[Diego Fabbrini|Fabbrini]] {{goal|57}} 
+|goals2=
+|stadium=[[Riverside Stadium]]
+|location=[[Middlesbrough]]
+|attendance=13,368
+|referee=Kevin Wright
+}}
+{{Footballbox collapsible
+|date=22 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Hull City A.F.C.|Hull City]] (2)
+|score=1–0
+|report=[https://www.bbc.com/sport/0/football/34253378 Report]
+|team2='''[[Swansea City A.F.C.|Swansea City]] (1)'''
+|goals1=[[David Meyler|Meyler]] {{goal|41}}
+|goals2=
+|stadium=[[KC Stadium]]
+|location=[[Kingston upon Hull]]
+|attendance=16,286
+|referee=James Linington
+}}
+{{Footballbox collapsible
+|date=22 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Leicester City F.C.|Leicester City]] (1)
+|score=2–1
+|aet=yes
+|report=[https://www.bbc.com/sport/0/football/34253542 Report]
+|team2='''[[West Ham United F.C.|West Ham United]] (1)'''
+|goals1=[[Joe Dodoo|Dodoo]] {{goal|6}}<br />[[Andy King (footballer, born 1988)|King]] {{goal|116}}
+|goals2=[[Mauro Zárate|Zárate]] {{goal|27}}
+|stadium=[[King Power Stadium]]
+|location=[[Leicester]]
+|attendance=21,268
+|referee=[[Peter Bankes]]
+}}
+{{Footballbox collapsible
+|date=22 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Aston Villa F.C.|Aston Villa]] (1)
+|score=1–0
+|report=[https://www.bbc.com/sport/0/football/34253383 Report]
+|team2='''[[Birmingham City F.C.|Birmingham City]] (2)'''
+|goals1=[[Rudy Gestede|Gestede]] {{goal|62}}
+|goals2=
+|stadium=[[Villa Park]]
+|location=[[Aston]], [[Birmingham]]
+|attendance=34,442
+|referee=[[Bobby Madley]]
+}}
+{{Footballbox collapsible
+|date=22 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Fulham F.C.|Fulham]] (2)'''
+|score=0–1
+|report=[https://www.bbc.com/sport/0/football/34253668 Report]
+|team2=[[Stoke City F.C.|Stoke City]] (1)
+|goals1=
+|goals2=[[Peter Crouch|Crouch]] {{goal|33}}
+|stadium=[[Craven Cottage]]
+|location=[[Fulham]], [[London]]
+|attendance=9,100
+|referee=[[Stuart Attwell]]
+}}
+{{Footballbox collapsible
+|date=22 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Sunderland A.F.C.|Sunderland]] (1)'''
+|score=1–4
+|report=[https://www.bbc.com/sport/0/football/34253381 Report]
+|team2=[[Manchester City F.C.|Manchester City]] (1)
+|goals1=[[Ola Toivonen|Toivonen]] {{goal|83}}
+|goals2=[[Sergio Agüero|Agüero]] {{goal|9|pen.}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|25}}<br />[[Vito Mannone|Mannone]] {{goal|33|o.g.}}<br />[[Raheem Sterling|Sterling]] {{goal|36}}
+|stadium=[[Stadium of Light]]
+|location=[[City of Sunderland|Sunderland]]
+|attendance=21,644
+|referee=[[Roger East (referee)|Roger East]]
+}}
+{{Footballbox collapsible
+|date=22 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Preston North End F.C.|Preston North End]] (2)'''
+|score=2–2
+|aet=yes
+|penaltyscore=2–3
+|report=[https://www.bbc.com/sport/0/football/34253374 Report]
+|team2=[[AFC Bournemouth|Bournemouth]] (1)
+|goals1=[[Jordan Hugill|Hugill]] {{goal|84}}<br />[[Daniel Johnson (footballer)|Johnson]] {{goal|118|pen.}}
+|goals2=[[Shaun MacDonald (footballer, born 1988)|MacDonald]] {{goal|23}}<br />[[Marc Pugh|Pugh]] {{goal|96}}
+|penalties1=[[Jordan Hugill|Hugill]] {{penmiss}}<br />[[Will Keane|Keane]] {{pengoal}}<br />[[Kyel Reid|Reid]] {{pengoal}}<br />[[Alan Browne (footballer)|Browne]] {{penmiss}}<br />[[Daniel Johnson (footballer)|Johnson]] {{penmiss}}
+|penalties2={{pengoal}} [[Junior Stanislas|Stanislas]]<br />{{pengoal}} [[Steve Cook (footballer)|Cook]]<br />{{penmiss}} [[Dan Gosling|Gosling]]<br />{{pengoal}} [[Marc Pugh|Pugh]]
+|stadium=[[Deepdale]]
+|location=[[City of Preston, Lancashire|Preston]]
+|attendance=5,643
+|referee=Nigel Miller
+}}
+{{Footballbox collapsible
+|date=22 September 2015
+|time=20:00 [[British Summer Time|BST]]
+|team1='''[[Reading F.C.|Reading]] (2)'''
+|score=1–2
+|report=[https://www.bbc.com/sport/0/football/34253669 Report]
+|team2=[[Everton F.C.|Everton]] (1)
+|goals1=[[Nick Blackman|Blackman]] {{goal|36}} 
+|goals2=[[Ross Barkley|Barkley]] {{goal|62}}<br />[[Gerard Deulofeu|Deulofeu]] {{goal|73}} 
+|stadium=[[Madejski Stadium]]
+|location=[[Reading, Berkshire|Reading]]
+|attendance=19,435
+|referee=Keith Hill
+}}
+{{Footballbox collapsible
+|date=23 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Norwich City F.C.|Norwich City]] (1)
+|score=3–0
+|report=[https://www.bbc.com/sport/0/football/34265499 Report]
+|team2='''[[West Bromwich Albion F.C.|West Bromwich Albion]] (1)'''
+|goals1=[[Matt Jarvis|Jarvis]] {{goal|62}}<br />[[Kyle Lafferty|Lafferty]] {{goal|85}}<br />[[Sébastien Pocognoli|Pocognoli]] {{goal|90|o.g.}}
+|goals2=
+|stadium=[[Carrow Road]]
+|location=[[Norwich]]
+|attendance=19,015
+|referee=[[Craig Pawson]]
+}}
+{{Footballbox collapsible
+|date=23 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Tottenham Hotspur F.C.|Tottenham Hotspur]] (1)'''
+|score=1–2
+|report=[https://www.bbc.com/sport/0/football/34265590 Report]
+|team2=[[Arsenal F.C.|Arsenal]] (1)
+|goals1=[[Calum Chambers|Chambers]] {{goal|56|o.g.}}
+|goals2=[[Mathieu Flamini|Flamini]] {{goal|26||78}}
+|stadium=[[White Hart Lane]]
+|location=[[Tottenham]], [[London]]
+|attendance=35,687
+|referee=[[Andre Marriner]]
+}}
+{{Footballbox collapsible
+|date=23 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1=[[Crystal Palace F.C.|Crystal Palace]] (1)
+|score=4–1
+|report=[https://www.bbc.com/sport/0/football/34265437 Report]
+|team2='''[[Charlton Athletic F.C.|Charlton Athletic]] (2)'''
+|goals1=[[Fraizer Campbell|Campbell]] {{goal|51}}<br />[[Dwight Gayle|Gayle]] {{goal|59|pen.|74|pen.|86}}
+|goals2=[[Mouhamadou-Naby Sarr|Sarr]] {{goal|65}}
+|stadium=[[Selhurst Park]]
+|location=[[Selhurst]], [[London]]
+|attendance=16,576
+|referee=[[Neil Swarbrick]]
+}}
+{{Footballbox collapsible
+|date=23 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Newcastle United F.C.|Newcastle United]] (1)'''
+|score=0–1
+|report=[https://www.bbc.com/sport/0/football/34265439 Report]
+|team2=[[Sheffield Wednesday F.C.|Sheffield Wednesday]] (2)
+|goals1=
+|goals2=[[Lewis McGugan|McGugan]] {{goal|76}}
+|stadium=[[St James' Park]]
+|location=[[Newcastle upon Tyne]]
+|attendance=33,986
+|referee=[[Chris Kavanagh (referee)|Chris Kavanagh]]
+}}
+{{Footballbox collapsible
+|date=23 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Walsall F.C.|Walsall]] (3)'''
+|score=1–4
+|report=[https://www.bbc.com/sport/0/football/34265632 Report]
+|team2=[[Chelsea F.C.|Chelsea]] (1)
+|goals1=[[James O'Connor (footballer, born 1984)|O'Connor]] {{goal|45}}
+|goals2=[[Ramires]] {{goal|10}}<br />[[Loïc Rémy|Rémy]] {{goal|41}}<br />[[Kenedy (footballer)|Kenedy]] {{goal|52}}<br />[[Pedro (footballer, born July 1987)|Pedro]] {{goal|90}}
+|stadium=[[Bescot Stadium]]
+|location=[[Walsall]]
+|attendance=10,525
+|referee=[[Lee Mason]]
+}}
+{{Footballbox collapsible
+|date=23 September 2015
+|time=19:45 [[British Summer Time|BST]]
+|team1='''[[Milton Keynes Dons F.C.|Milton Keynes Dons]] (2)'''
+|score=0–6
+|report=[https://www.bbc.com/sport/0/football/34265443 Report]
+|team2=[[Southampton F.C.|Southampton]] (1)
+|goals1=
+|goals2=[[Jay Rodriguez|Rodriguez]] {{goal|5||48|pen.}}<br />[[Sadio Mané|Mané]] {{goal|10||25}}<br />[[Shane Long|Long]] {{goal|68||75}}
+|stadium=[[Stadium MK]]
+|location=[[Milton Keynes]]
+|attendance=10,189
+|referee=[[Keith Stroud]]
+}}
+{{Footballbox collapsible
+|date=23 September 2015
+|time=20:00 [[British Summer Time|BST]]
+|team1=[[Manchester United F.C.|Manchester United]] (1)
+|score=3–0
+|report=[https://www.bbc.com/sport/0/football/34265442 Report]
+|team2='''[[Ipswich Town F.C.|Ipswich Town]] (2)'''
+|goals1=[[Wayne Rooney|Rooney]] {{goal|23}}<br />[[Andreas Pereira|Pereira]] {{goal|60}}<br />[[Anthony Martial|Martial]] {{goal|90+2}}
+|goals2=
+|stadium=[[Old Trafford]]
+|location=[[Old Trafford (district)|Old Trafford]], [[Manchester]]
+|attendance=56,607
+|referee=[[Simon Hooper]]
+}}
+{{Footballbox collapsible
+|date=23 September 2015
+|time=20:00 [[British Summer Time|BST]]
+|team1=[[Liverpool F.C.|Liverpool]] (1)
+|score=1–1
+|aet=yes
+|penaltyscore=3–2
+|report=[https://www.bbc.com/sport/0/football/34265500 Report]
+|team2='''[[Carlisle United F.C.|Carlisle United]] (4)'''
+|goals1=[[Danny Ings|Ings]] {{goal|23}}
+|goals2=[[Derek Asamoah|Asamoah]] {{goal|34}}
+|penalties1=[[James Milner|Milner]] {{pengoal}}<br />[[Emre Can|Can]] {{pengoal}}<br />[[Adam Lallana|Lallana]] {{penmiss}}<br />[[Philippe Coutinho|Coutinho]] {{penmiss}}<br />[[Danny Ings|Ings]] {{pengoal}}
+|penalties2={{penmiss}} [[Danny Grainger|Grainger]]<br />{{pengoal}} [[Gary Dicker|Dicker]]<br />{{penmiss}} [[Luke Joyce|Joyce]]<br />{{pengoal}} [[Alexander McQueen (footballer)|McQueen]]<br />{{penmiss}} [[Bastien Héry|Héry]]
+|stadium=[[Anfield]]
+|location=[[Liverpool]]
+|attendance=42,518
+|referee=[[Andrew Madley]]
+}}
+
+==Fourth round==
+
+===Teams===
+A total of 16 teams played in the fourth round, all winners of the third round. There was no seeding in this round. The draw for the fourth round was held on 23 September 2015 after the [[North London derby]].<ref name="draw4" /> (Note: The numbers in parentheses are the tier for the team during the 2015–16 season.) The lowest ranked teams in this round were Hull City, Middlesbrough, and Sheffield Wednesday who all played in the Championship, the second division of English football.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/34339616|title= League Cup draw: Arsenal travel to Sheffield Wednesday|date=23 September 2015|work=BBC Sport|access-date=24 September 2015}}</ref>
+
+===Matches===
+The matches were played in the week commencing 26 October 2015.<ref name="FASchedule" /><ref name="CupSchedule" /><ref>{{Cite web |url=http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-4-dates-and-times-confirmed-2710403.aspx |title = Capital One Cup round 4 dates and times confirmed  |access-date=2015-09-25 |archive-url=https://web.archive.org/web/20150925232839/http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-4-dates-and-times-confirmed-2710403.aspx |archive-date=2015-09-25 |url-status=dead }}</ref>
+
+{{Footballbox collapsible
+|date=27 October 2015
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Everton F.C.|Everton]] (1)
+|score=1–1
+|aet=yes
+|penaltyscore=4–3
+|report=[https://www.bbc.com/sport/0/football/34578026 Report]
+|team2='''[[Norwich City F.C.|Norwich City]] (1)'''
+|goals1=[[Leon Osman|Osman]] {{goal|68}}
+|goals2=[[Sébastien Bassong|Bassong]] {{goal|51}}
+|penalties1=[[Gerard Deulofeu|Deulofeu]] {{pengoal}}<br />[[Ross Barkley|Barkley]] {{pengoal}}<br />[[Romelu Lukaku|Lukaku]] {{pengoal}}<br />[[Darron Gibson|Gibson]] {{pengoal}}
+|penalties2={{pengoal}} [[Graham Dorrans|Dorrans]]<br />{{pengoal}} [[Steven Whittaker|Whittaker]]<br />{{penmiss}} [[Wes Hoolahan|Hoolahan]]<br />{{pengoal}} [[Lewis Grabban|Grabban]]<br />{{penmiss}} [[Nathan Redmond|Redmond]]
+|stadium=[[Goodison Park]]
+|location=[[Liverpool]]
+|attendance=31,694
+|referee= [[Roger East (referee)|Roger East]]
+}}
+{{Footballbox collapsible
+|date=27 October 2015
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Sheffield Wednesday F.C.|Sheffield Wednesday]] (2)
+|score=3–0
+|report=[https://www.bbc.com/sport/0/football/34578025 Report]
+|team2='''[[Arsenal F.C.|Arsenal]] (1)'''
+|goals1=[[Ross Wallace|Wallace]] {{goal|27}}<br />[[Lucas João]] {{goal|40}}<br />[[Sam Hutchinson|Hutchinson]] {{goal|51}}
+|goals2=
+|stadium= [[Hillsborough Stadium]]
+|location=[[Sheffield]]
+|attendance=35,065
+|referee= [[Graham Scott (referee)|Graham Scott]]
+}}
+{{Footballbox collapsible
+|date=27 October 2015
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Hull City A.F.C.|Hull City]] (2)
+|score=1–1
+|aet=yes
+|penaltyscore=5–4
+|report=[https://www.bbc.com/sport/0/football/34578000 Report]
+|team2='''[[Leicester City F.C.|Leicester City]] (1)'''
+|goals1=[[Abel Hernández|Hernández]] {{goal|106}}
+|goals2=[[Riyad Mahrez|Mahrez]] {{goal|100}}
+|penalties1=[[Abel Hernández|Hernández]] {{pengoal}}<br />[[Shaun Maloney|Maloney]] {{pengoal}}<br />[[Tom Huddlestone|Huddlestone]] {{pengoal}}<br />[[Chuba Akpom|Akpom]] {{pengoal}}<br />[[David Meyler|Meyler]] {{pengoal}}
+|penalties2={{penmiss}} [[Riyad Mahrez|Mahrez]]<br />{{pengoal}} [[Daniel Drinkwater|Drinkwater]]<br />{{pengoal}} [[Gökhan Inler|Inler]]<br />{{pengoal}} [[Marcin Wasilewski|Wasilewski]]<br />{{pengoal}} [[Jamie Vardy|Vardy]]
+|stadium=[[KC Stadium]]
+|location=[[Kingston upon Hull]]
+|attendance=16,818
+|referee= [[Stuart Attwell]]
+}}
+{{Footballbox collapsible
+|date=27 October 2015
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Stoke City F.C.|Stoke City]] (1)
+|score=1–1
+|aet=yes
+|penaltyscore=5–4
+|report=[https://www.bbc.com/sport/0/football/34577998 Report]
+|team2='''[[Chelsea F.C.|Chelsea]] (1)'''
+|goals1=[[Jonathan Walters|Walters]] {{goal|52}}
+|goals2=[[Loïc Rémy|Rémy]] {{goal|90+1}}
+|penalties1=[[Charlie Adam|Adam]] {{pengoal}}<br />[[Peter Odemwingie|Odemwingie]] {{pengoal}}<br />[[Xherdan Shaqiri|Shaqiri]] {{pengoal}}<br />[[Marc Wilson (Irish footballer)|Wilson]] {{pengoal}}<br />[[Marko Arnautović|Arnautović]] {{pengoal}}
+|penalties2={{pengoal}} [[Willian (footballer, born 1988)|Willian]]<br />{{pengoal}} [[Oscar (footballer, born 1991)|Oscar]]<br />{{pengoal}} [[Loïc Rémy|Rémy]]<br />{{pengoal}} [[Kurt Zouma|Zouma]]<br />{{penmiss}} [[Eden Hazard|Hazard]]
+|stadium=[[Britannia Stadium]]
+|location=[[Stoke-on-Trent]]
+|attendance=24,886
+|referee= [[Kevin Friend]]
+}}
+{{Footballbox collapsible
+|date=28 October 2015
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Manchester City F.C.|Manchester City]] (1)
+|score=5–1
+|report=[https://www.bbc.com/sport/0/football/34589630 Report]
+|team2='''[[Crystal Palace F.C.|Crystal Palace]] (1)'''
+|goals1=[[Wilfried Bony|Bony]] {{goal|22}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|44}}<br />[[Kelechi Iheanacho|Iheanacho]] {{goal|59}}<br />[[Yaya Touré|Touré]] {{goal|76|pen.}}<br />[[Manu García (footballer, born 1998)|García]] {{goal|90}}
+|goals2=[[Damien Delaney|Delaney]] {{goal|89}}
+|stadium=[[City of Manchester Stadium|Etihad Stadium]]
+|location=[[Manchester]]
+|attendance= 40,585
+|referee= [[Paul Tierney (referee)|Paul Tierney]]
+}}
+{{Footballbox collapsible
+|date=28 October 2015
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Liverpool F.C.|Liverpool]] (1)
+|score=1–0
+|report=[https://www.bbc.com/sport/0/football/34589602 Report]
+|team2='''[[AFC Bournemouth|Bournemouth]] (1)'''
+|goals1=[[Nathaniel Clyne|Clyne]] {{goal|17}}
+|goals2=
+|stadium=[[Anfield]]
+|location=[[Liverpool]]
+|attendance= 41,948
+|referee= [[Mike Jones (referee)|Mike Jones]]
+}}
+{{Footballbox collapsible
+|date=28 October 2015
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Southampton F.C.|Southampton]] (1)
+|score=2–1
+|report=[https://www.bbc.com/sport/0/football/34589610 Report]
+|team2='''[[Aston Villa F.C.|Aston Villa]] (1)'''
+|goals1=[[Maya Yoshida|Yoshida]] {{goal|51}}<br />[[Graziano Pellè|Pellè]] {{goal|77}}
+|goals2=[[Scott Sinclair|Sinclair]] {{goal|90|pen.}}
+|stadium=[[St Mary's Stadium]]
+|location=[[Southampton]]
+|attendance= 31,314
+|referee= [[Keith Stroud]]
+}}
+{{Footballbox collapsible
+|date=28 October 2015
+|time=20:00 [[Greenwich Mean Time|GMT]]
+|team1='''[[Manchester United F.C.|Manchester United]] (1)'''
+|score=0–0
+|report=[https://www.bbc.com/sport/0/football/34589631 Report]
+|team2=[[Middlesbrough F.C.|Middlesbrough]] (2)
+|goals1=
+|goals2=
+|aet=yes
+|penaltyscore=1–3
+|penalties1=[[Wayne Rooney|Rooney]] {{penmiss}}<br /> [[Andreas Pereira|Pereira]] {{pengoal}} <br /> [[Michael Carrick|Carrick]] {{penmiss}}<br /> [[Ashley Young|Young]] {{penmiss}}
+|penalties2={{pengoal}} [[Grant Leadbitter|Leadbitter]]<br /> {{penmiss}} [[David Nugent|Nugent]]<br /> {{pengoal}} [[Stewart Downing|Downing]]<br /> {{pengoal}} [[Ben Gibson (footballer)|Gibson]]
+|stadium=[[Old Trafford]]
+|location=[[Manchester]]
+|attendance=67,258<ref>{{cite web|url=https://int.soccerway.com/matches/2015/10/28/england/league-cup/manchester-united-fc/middlesbrough-football-club/2159960/|title=Manchester United vs. Middlesbrough  0 - 0|publisher=Soccerway|date=28 October 2015|access-date= 9 January 2016}}</ref>
+|referee= [[Lee Mason]]
+}}
+
+==Quarter-finals==
+
+===Teams===
+A total of eight teams played in the quarter-finals, all winners of the fourth round. There was no seeding in this round. The draw for the fifth round was held on 28 October after the completion of the fourth round.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/34664048|title= Middlesbrough face Everton in quarter-finals|date=28 October 2015|work=BBC Sport|access-date=29 October 2015}}</ref> The lowest ranked teams in this round were Hull City, Middlesbrough and Sheffield Wednesday, who all played in the Championship, the second division of English football.
+
+===Matches===
+The matches were played in the week commencing 30 November 2015.<ref name="FASchedule" /><ref name="CupSchedule" />
+{{Footballbox collapsible
+|date=1 December 2015
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1='''[[Middlesbrough F.C.|Middlesbrough]] (2)'''
+|score=0–2
+|report=[https://www.bbc.com/sport/0/football/34907304 Report]
+|team2=[[Everton F.C.|Everton]] (1)
+|goals1=
+|goals2=[[Gerard Deulofeu|Deulofeu]] {{goal|20}}<br />[[Romelu Lukaku|Lukaku]] {{goal|28}}
+|stadium=[[Riverside Stadium]]
+|location=[[Middlesbrough]]
+|attendance=31,628
+|referee= [[Roger East (referee)|Roger East]]
+}}
+{{Footballbox collapsible
+|date=1 December 2015
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Stoke City F.C.|Stoke City]] (1)
+|score=2–0
+|report=[https://www.bbc.com/sport/0/football/34907303 Report]
+|team2='''[[Sheffield Wednesday F.C.|Sheffield Wednesday]] (2)'''
+|goals1=[[Ibrahim Afellay|Afellay]] {{goal|30}}<br />[[Phil Bardsley|Bardsley]] {{goal|75}}
+|goals2=
+|stadium=[[Britannia Stadium]]
+|location=[[Stoke-on-Trent]]
+|attendance=26,779
+|referee=[[Jon Moss (referee)|Jon Moss]]<ref>{{cite web|title=Stoke City 2, Sheffield Wednesday 0 Match Report: Landmark goals for Afellay & Bardsley seal win|url=http://www.stokesentinel.co.uk/Stoke-City-Sheffield-Wednesday-match-report/story-28278206-detail/story.html|website=Stoke Sentinel|access-date=1 December 2015|archive-date=5 December 2015|archive-url=https://web.archive.org/web/20151205040555/http://www.stokesentinel.co.uk/Stoke-City-Sheffield-Wednesday-match-report/story-28278206-detail/story.html|url-status=dead}}</ref>
+}}
+{{Footballbox collapsible
+|date=1 December 2015
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Manchester City F.C.|Manchester City]] (1)
+|score=4–1
+|report=[https://www.bbc.com/sport/0/football/34907256 Report]
+|team2='''[[Hull City A.F.C.|Hull City]] (2)'''
+|goals1=[[Wilfried Bony|Bony]] {{goal|12}}<br />[[Kelechi Iheanacho|Iheanacho]] {{goal|80}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|82||87}}
+|goals2=[[Andrew Robertson (footballer)|Robertson]] {{goal|90+2}}
+|stadium=[[City of Manchester Stadium|Etihad Stadium]]
+|location=[[Manchester]]
+|attendance=38,246
+|referee=[[Neil Swarbrick]]
+}}
+{{Footballbox collapsible
+|date=2 December 2015
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1='''[[Southampton F.C.|Southampton]] (1)'''
+|score=1–6
+|report=[https://www.bbc.com/sport/0/football/34918281 Report]
+|team2=[[Liverpool F.C.|Liverpool]] (1)
+|goals1=[[Sadio Mané|Mané]] {{goal|1}}
+|goals2=[[Daniel Sturridge|Sturridge]] {{goal|25||29}}<br />[[Divock Origi|Origi]] {{goal|45||68||86}}<br />[[Jordon Ibe|Ibe]] {{goal|73}}
+|stadium=[[St Mary's Stadium]]
+|location=[[Southampton]]
+|attendance=31,592
+|referee=[[Bobby Madley]]
+}}
+
+==Semi-finals==
+
+===Teams===
+A total of four teams played in the semi-finals, all winners of the quarter-finals. There was no seeding in this round. The draw for the semi-finals was held on 2 December 2015 and all of the remaining teams were from the Premier League (top tier).<ref name="drawSFresults">{{cite web |title=League Cup semi-final draw: Manchester City to play Everton |url=https://www.bbc.com/sport/0/football/34989339 |website=www.bbc.com |publisher=BBC Sport |date=2 December 2015 |access-date=2 December 2015 }}</ref>
+
+===Matches===
+The semi-finals were played over [[two-legged tie|two legs]], with each team playing one leg at home, and the teams that scored more goals on aggregate over the two legs advanced to the final.
+
+====First leg====
+The first leg matches were played on 5 and 6 January 2016.<ref name="FASchedule" /><ref name="CupSchedule" />
+
+{{Footballbox collapsible
+|date={{Start date|2016|01|05|df=y}}
+|time=20:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Stoke City F.C.|Stoke City]] (1)
+|score=0–1
+|report=[https://www.bbc.co.uk/sport/football/35155369 Report]
+|team2=[[Liverpool F.C.|Liverpool]] (1)
+|goals1=
+|goals2=[[Jordon Ibe|Ibe]] {{goal|37}}
+|stadium=[[Britannia Stadium]]
+|location=[[Stoke-on-Trent]]
+|attendance=27,369
+|referee=[[Anthony Taylor (referee)|Anthony Taylor]]
+}}
+{{Footballbox collapsible
+|date={{Start date|2016|01|06|df=y}}
+|time=20:00 [[Greenwich Mean Time|GMT]]
+|team1=[[Everton F.C.|Everton]] (1)
+|score=2–1
+|report=[https://www.bbc.com/sport/0/football/35155377 Report]
+|team2=[[Manchester City F.C.|Manchester City]] (1)
+|goals1=[[Ramiro Funes Mori|Funes Mori]] {{goal|45}}<br />[[Romelu Lukaku|Lukaku]] {{goal|78}}
+|goals2=[[Jesús Navas|Navas]] {{goal|76}}
+|stadium=[[Goodison Park]]
+|location=[[Liverpool]]
+|attendance=34,027
+|referee=[[Bobby Madley]]
+}}
+
+====Second leg====
+The second leg were played on 26 and 27 January 2016.<ref name="FASchedule" /><ref name="CupSchedule" />
+
+{{Footballbox collapsible
+|date={{Start date|2016|01|26|df=y}}
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Liverpool F.C.|Liverpool]] (1)
+|score=0–1
+|aet=yes
+|aggregatescore=1–1
+|report=[https://www.bbc.co.uk/sport/football/35349469 Report]
+|team2='''[[Stoke City F.C.|Stoke City]] (1)'''
+|goals1=
+|goals2=[[Marko Arnautović|Arnautović]] {{goal|45+1}}
+|penaltyscore=6–5
+|penalties1= [[Adam Lallana|Lallana]] {{pengoal}}<br />[[Emre Can|Can]] {{penmiss}}<br />[[Christian Benteke|Benteke]] {{pengoal}}<br />[[Roberto Firmino|Firmino]] {{pengoal}}<br />[[James Milner|Milner]] {{pengoal}}<br />[[Lucas Leiva|Lucas]] {{pengoal}}<br />[[Joe Allen (footballer, born 1990)|Allen]] {{pengoal}}
+|penalties2= {{pengoal}} [[Jonathan Walters|Walters]]<br />{{penmiss}} [[Peter Crouch|Crouch]]<br />{{pengoal}} [[Glenn Whelan|Whelan]]<br />{{pengoal}} [[Ibrahim Afellay|Afellay]]<br />{{pengoal}} [[Xherdan Shaqiri|Shaqiri]]<br />{{pengoal}} [[Marco van Ginkel|Van Ginkel]]<br />{{penmiss}} [[Marc Muniesa|Muniesa]]
+|stadium=[[Anfield]]
+|location=[[Liverpool]]
+|attendance=43,091
+|referee=[[Jon Moss (referee)|Jon Moss]]
+}}
+{{Footballbox collapsible
+|date={{Start date|2016|01|27|df=y}}
+|time=19:45 [[Greenwich Mean Time|GMT]]
+|team1=[[Manchester City F.C.|Manchester City]] (1)
+|score=3–1
+|aggregatescore=4–3
+|report=[https://www.bbc.com/sport/football/35358806 Report]
+|team2='''[[Everton F.C.|Everton]] (1)'''
+|goals1=[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{goal|24}}<br />[[Kevin De Bruyne|De Bruyne]] {{goal|70}}<br />[[Sergio Agüero|Agüero]] {{goal|76}}
+|goals2=[[Ross Barkley|Barkley]] {{goal|18}}
+|stadium=[[City of Manchester Stadium|Etihad Stadium]]
+|location=[[Manchester]]
+|attendance=50,048
+|referee=[[Martin Atkinson]]
+}}
+
+==Final==
+{{main|2016 Football League Cup final}}
+The League Cup Final was held on 28 February 2016 at [[Wembley Stadium]].<ref name="FASchedule" /><ref name="CupSchedule" />
+
+{{Football box
+|date={{Start date|2016|02|28|df=y}}
+|time=16:30 [[Greenwich Mean Time|GMT]]
+|team1=[[Liverpool F.C.|Liverpool]]
+|score=1–1
+|aet=yes
+|report=[https://www.bbc.com/sport/football/35624164 Report]
+|team2=[[Manchester City F.C.|Manchester City]]
+|goals1=[[Philippe Coutinho|Coutinho]] {{goal|83}}
+|goals2=[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{goal|49}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=86,206
+|referee=[[Michael Oliver (referee)|Michael Oliver]]
+|penaltyscore=1–3
+|penalties1=
+* [[Emre Can|Can]] {{pengoal}}
+* [[Lucas Leiva|Lucas]] {{penmiss}}
+* [[Philippe Coutinho|Coutinho]] {{penmiss}}
+* [[Adam Lallana|Lallana]] {{penmiss}}
+|penalties2=
+* {{penmiss}} [[Fernandinho (footballer, born May 1985)|Fernandinho]]
+* {{pengoal}} [[Jesús Navas|Navas]]
+* {{pengoal}} [[Sergio Agüero|Agüero]]
+* {{pengoal}} [[Yaya Touré|Touré]]
+}}
+
+==Top goalscorers==
+[[File:Kevin De Bruyne (24640482031) (cropped).jpg|thumb|upright|[[Kevin De Bruyne]] was the top scorer in the competition with five goals for [[Manchester City F.C.|Manchester City]].]]
+<ref>{{cite web|url=https://www.worldfootball.net/competition/co61/se18536/statistics-goals/ |title=English League Cup 2015/2016: Top Scorers |publisher=World Football |access-date=2 December 2016}}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank
+!Player
+!Club
+!Goals
+|-
+|1
+|align="left"|{{flagicon|BEL}} [[Kevin De Bruyne]]
+|align="left"|[[Manchester City F.C.|Manchester City]]
+|5
+|-
+|rowspan="5"|2
+|align="left"|{{flagicon|ENG}} [[Joe Dodoo]]
+|align="left"|[[Leicester City F.C.|Leicester City]]
+|rowspan="5"|4
+|-
+|align="left"|{{flagicon|ENG}} [[Dwight Gayle]]
+|align="left"|[[Crystal Palace F.C.|Crystal Palace]]
+|-
+|align="left"|{{flagicon|BEL}} [[Romelu Lukaku]]
+|align="left"|[[Everton F.C.|Everton]]
+|-
+|align="left"|{{flagicon|ENG}} [[Scott Sinclair]]
+|align="left"|[[Aston Villa F.C.|Aston Villa]]
+|-
+|align="left"|{{flagicon|URU}} [[Cristhian Stuani]]
+|align="left"|[[Middlesbrough F.C.|Middlesbrough]]
+|-
+|rowspan="4"|7
+|align="left"|{{flagicon|WAL}} [[Tom Bradshaw (footballer, born 1992)|Tom Bradshaw]]
+|align="left"|[[Walsall F.C.|Walsall]]
+|rowspan="4"|3
+|-
+|align="left"|{{flagicon|ENG}} [[Jermain Defoe]]
+|align="left"|[[Sunderland A.F.C.|Sunderland]]
+|-
+|align="left"|{{flagicon|SEN}} [[Sadio Mané]]
+|align="left"|[[Southampton F.C.|Southampton]]
+|-
+|align="left"|{{flagicon|BEL}} [[Divock Origi]]
+|align="left"|[[Liverpool F.C.|Liverpool]]
+|}
+
+==Broadcasting rights==
+The live television rights for the competition were held by the subscription channel [[Sky Sports]], who have held rights to the competition since 1996–97 apart from 2001-02 when the short-lived [[ITV Digital]] had exclusive coverage of that season's League Cup competition as part of the original three year TV deal with [[The Football League]].
+
+These matches were televised live by Sky Sports:
+{| class="wikitable"
+|-
+! Round
+! Live TV games
+|-
+| First round
+| [[Portsmouth F.C.|Portsmouth]] vs [[Derby County F.C.|Derby County]], [[Doncaster Rovers F.C.|Doncaster Rovers]] vs [[Leeds United F.C.|Leeds United]]<ref>{{cite web |title=Capital One Cup round 1 TV games announced |url=http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-1-tv-selections-announced-2503154.aspx |work=capitalonecup.co.uk |date=23 June 2014 |access-date=23 June 2015 |archive-url=https://web.archive.org/web/20150709195257/http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-1-tv-selections-announced-2503154.aspx |archive-date=9 July 2015 |url-status=dead |df=dmy-all }}</ref>
+|-
+| Second round
+| [[Luton Town F.C.|Luton Town]] vs [[Stoke City F.C.|Stoke City]], [[Barnsley F.C.|Barnsley]] vs [[Everton F.C.|Everton]]<ref>{{cite web |title=Capital One Cup round 2: Sky Sports' selections announced |url=http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-2-sky-sports-selections-announced-2619555.aspx |work=capitalonecup.co.uk |date=14 August 2015 |access-date=24 September 2015 |archive-url=https://web.archive.org/web/20150925105808/http://www.capitalonecup.co.uk/news/article/capital-one-cup-round-2-sky-sports-selections-announced-2619555.aspx |archive-date=25 September 2015 |url-status=dead |df=dmy-all }}</ref>
+|-
+| Third Round
+| [[Aston Villa F.C.|Aston Villa]] vs [[Birmingham City F.C.|Birmingham City]], [[Tottenham Hotspur F.C.|Tottenham Hotspur]] vs [[Arsenal F.C.|Arsenal]]<ref>{{cite web |title=Sky Sports' Capital One Cup round 3 selections announced |url=http://www.capitalonecup.co.uk/news/article/sky-sports-capital-one-cup-round-3-selections-announced-2649098.aspx |work=capitalonecup.co.uk |date=26 August 2015 |access-date=26 August 2015 |archive-url=https://web.archive.org/web/20150905203750/http://www.capitalonecup.co.uk/news/article/sky-sports-capital-one-cup-round-3-selections-announced-2649098.aspx |archive-date=5 September 2015 |url-status=dead |df=dmy-all }}</ref>
+|-
+| Fourth Round
+| [[Sheffield Wednesday F.C.|Sheffield Wednesday]] vs [[Arsenal F.C.|Arsenal]], [[Liverpool F.C.|Liverpool]] vs [[AFC Bournemouth|Bournemouth]]<ref>{{cite web |title=Sky Sports announce Capital One Cup round 4 selections |url=http://www.capitalonecup.co.uk/news/article/sky-sports-announce-capital-one-cup-round-4-selections-2707731.aspx |work=capitalonecup.co.uk |date=24 September 2015 |access-date=24 September 2015 |archive-url=https://web.archive.org/web/20150925105023/http://www.capitalonecup.co.uk/news/article/sky-sports-announce-capital-one-cup-round-4-selections-2707731.aspx |archive-date=25 September 2015 |url-status=dead |df=dmy-all }}</ref>
+|-
+|Quarter-finals
+| [[Middlesbrough F.C|Middlesbrough]] vs [[Everton F.C.|Everton]], [[Southampton F.C.|Southampton]] vs [[Liverpool F.C.|Liverpool]]<ref>Sky Sports announce Capital One Cup round 5 selections: http://www.skysports.com/football/news/11938/10047579/capital-one-cup-quarter-finals-live-on-sky-sports</ref>
+|-
+|Semi-finals
+|All 4 Matches
+|-
+| Final
+| [[Liverpool F.C.|Liverpool]] vs [[Manchester City F.C.|Manchester City]]
+|}
+
+==See also==
+*[[2015–16 Premier League]]
+*[[2015–16 Football League Championship]]
+*[[2015–16 Football League One]]
+*[[2015–16 Football League Two]]
+*[[2015–16 FA Cup]]
+
+==References==
+{{reflist}}
+{{commons category}}
+
+{{Football League Cup seasons}}
+{{2015–16 in English football}}
+{{2015–16 in European football (UEFA)}}
+
+{{DEFAULTSORT:2015-16 Football League Cup}}
+[[Category:EFL Cup seasons]]
+[[Category:2015–16 in English men's football cups|League Cup]]
+[[Category:2015–16 Football League|Cup]]

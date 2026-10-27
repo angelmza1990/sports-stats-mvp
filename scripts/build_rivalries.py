@@ -22,7 +22,10 @@ import json
 import sys
 
 import rivalries_argentina as AR
+import rivalries_brazil as BR
 import rivalries_england as EN
+import rivalries_france as FR
+import rivalries_germany as DE
 import rivalries_italy as IT
 import rivalries_spain as ES
 from rivalries_common import OUT_DIR, build_ties, finish, record, summary
@@ -82,6 +85,12 @@ GROUPS = [
     {"id": "esp", "country": "ESP", "name": "Spain", "label": ""},
     {"id": "ita", "country": "ITA", "name": "Italy", "label": "The big three"},
     {"id": "eng", "country": "ENG", "name": "England", "label": "The big six"},
+    {"id": "fra", "country": "FRA", "name": "France", "label": ""},
+    {"id": "ger", "country": "GER", "name": "Germany", "label": ""},
+    {"id": "bra-sp", "country": "BRA", "name": "Brazil", "region": "São Paulo", "label": "São Paulo's big four"},
+    {"id": "bra-rj", "country": "BRA", "name": "Brazil", "region": "Rio de Janeiro", "label": "Rio's big four"},
+    {"id": "bra-rs", "country": "BRA", "name": "Brazil", "region": "Rio Grande do Sul", "label": ""},
+    {"id": "bra-mg", "country": "BRA", "name": "Brazil", "region": "Minas Gerais", "label": ""},
 ]
 
 
@@ -95,11 +104,32 @@ MADRID = {"id": "real-madrid", "name": "Real Madrid", "short": "Madrid"}
 BARCA = {"id": "barcelona", "name": "Barcelona", "short": "Barça"}
 INTER = {"id": "inter-milan", "name": "Inter", "short": "Inter"}
 MILAN = {"id": "milan", "name": "Milan", "short": "Milan"}
+JUVENTUS = {"id": "juventus", "name": "Juventus", "short": "Juventus"}
+PSG = {"id": "paris-saint-germain", "name": "Paris Saint-Germain", "short": "PSG"}
+MARSEILLE = {"id": "marseille", "name": "Marseille", "short": "Marseille"}
+BAYERN = {"id": "bayern-munich", "name": "Bayern Munich", "short": "Bayern"}
+DORTMUND = {"id": "borussia-dortmund", "name": "Borussia Dortmund", "short": "Dortmund"}
 INDEPENDIENTE = {"id": "independiente", "name": "Independiente", "short": "Independiente"}
 RACING = {"id": "racing", "name": "Racing Club", "short": "Racing"}
 SAN_LORENZO = {"id": "san-lorenzo", "name": "San Lorenzo", "short": "San Lorenzo"}
+PALMEIRAS = {"id": "palmeiras", "name": "Palmeiras", "short": "Palmeiras"}
+SAO_PAULO = {"id": "sao-paulo", "name": "São Paulo", "short": "São Paulo"}
+CORINTHIANS = {"id": "corinthians", "name": "Corinthians", "short": "Corinthians"}
+SANTOS = {"id": "santos", "name": "Santos", "short": "Santos"}
+FLAMENGO = {"id": "flamengo", "name": "Flamengo", "short": "Flamengo"}
+FLUMINENSE = {"id": "fluminense", "name": "Fluminense", "short": "Fluminense"}
+VASCO = {"id": "vasco-da-gama", "name": "Vasco da Gama", "short": "Vasco"}
+BOTAFOGO = {"id": "botafogo", "name": "Botafogo", "short": "Botafogo"}
+INTERNACIONAL = {"id": "internacional", "name": "Internacional", "short": "Inter"}
+GREMIO = {"id": "gremio", "name": "Grêmio", "short": "Grêmio"}
+CRUZEIRO = {"id": "cruzeiro", "name": "Cruzeiro", "short": "Cruzeiro"}
+ATLETICO = {"id": "atletico-mineiro", "name": "Atlético Mineiro", "short": "Atlético"}
 LIVERPOOL = {"id": "liverpool", "name": "Liverpool", "short": "Liverpool"}
 UNITED = {"id": "manchester-united", "name": "Manchester United", "short": "United"}
+ARSENAL = {"id": "arsenal", "name": "Arsenal", "short": "Arsenal"}
+CHELSEA = {"id": "chelsea", "name": "Chelsea", "short": "Chelsea"}
+CITY = {"id": "manchester-city", "name": "Manchester City", "short": "City"}
+SPURS = {"id": "tottenham-hotspur", "name": "Tottenham Hotspur", "short": "Spurs"}
 
 # The last number is the official matches through October 2026. A rebuild that finds fewer means a source
 # changed shape: fail and keep the previous data rather than publish a shorter history.
@@ -107,27 +137,80 @@ RIVALRIES = [
     R("river-boca", "Superclásico", "River Plate vs Boca Juniors", "arg", RIVER, BOCA, AR.build_superclasico, 266,
       link_ties=AR.link_super_ties),
     R("river-independiente", "River vs Independiente", "River Plate vs Independiente", "arg", RIVER, INDEPENDIENTE,
-      AR.big_five("river-independiente", "river-plate", "independiente"), 220, leaders=False),
+      AR.big_five("river-independiente", "river-plate", "independiente"), 233, leaders=False),
     R("river-racing", "River vs Racing", "River Plate vs Racing Club", "arg", RIVER, RACING,
-      AR.big_five("river-racing", "river-plate", "racing"), 230, leaders=False),
+      AR.big_five("river-racing", "river-plate", "racing"), 245, leaders=False),
     R("river-san-lorenzo", "River vs San Lorenzo", "River Plate vs San Lorenzo", "arg", RIVER, SAN_LORENZO,
-      AR.big_five("river-san-lorenzo", "river-plate", "san-lorenzo"), 220, leaders=False),
+      AR.big_five("river-san-lorenzo", "river-plate", "san-lorenzo"), 234, leaders=False),
     R("boca-independiente", "Boca vs Independiente", "Boca Juniors vs Independiente", "arg", BOCA, INDEPENDIENTE,
-      AR.big_five("boca-independiente", "boca-juniors", "independiente"), 205, leaders=False),
+      AR.big_five("boca-independiente", "boca-juniors", "independiente"), 226, leaders=False),
     R("boca-racing", "Boca vs Racing", "Boca Juniors vs Racing Club", "arg", BOCA, RACING,
       AR.big_five("boca-racing", "boca-juniors", "racing"), 220, leaders=False),
     R("boca-san-lorenzo", "Boca vs San Lorenzo", "Boca Juniors vs San Lorenzo", "arg", BOCA, SAN_LORENZO,
-      AR.big_five("boca-san-lorenzo", "boca-juniors", "san-lorenzo"), 210, leaders=False),
+      AR.big_five("boca-san-lorenzo", "boca-juniors", "san-lorenzo"), 215, leaders=False),
     R("independiente-racing", "Clásico de Avellaneda", "Independiente vs Racing Club", "arg", INDEPENDIENTE, RACING,
-      AR.big_five("independiente-racing", "independiente", "racing"), 235, leaders=False),
+      AR.big_five("independiente-racing", "independiente", "racing"), 240, leaders=False),
     R("independiente-san-lorenzo", "Independiente vs San Lorenzo", "Independiente vs San Lorenzo", "arg", INDEPENDIENTE, SAN_LORENZO,
-      AR.big_five("independiente-san-lorenzo", "independiente", "san-lorenzo"), 200, leaders=False),
+      AR.big_five("independiente-san-lorenzo", "independiente", "san-lorenzo"), 213, leaders=False),
     R("racing-san-lorenzo", "Racing vs San Lorenzo", "Racing Club vs San Lorenzo", "arg", RACING, SAN_LORENZO,
-      AR.big_five("racing-san-lorenzo", "racing", "san-lorenzo"), 210, leaders=False),
+      AR.big_five("racing-san-lorenzo", "racing", "san-lorenzo"), 211, leaders=False),
     R("madrid-barcelona", "El Clásico", "Real Madrid vs Barcelona", "esp", MADRID, BARCA, ES.build_clasico, 265),
     R("inter-milan", "Derby della Madonnina", "Inter vs Milan", "ita", INTER, MILAN, IT.build_derby, 246),
+    R("juventus-inter", "Derby d'Italia", "Juventus vs Inter", "ita", JUVENTUS, INTER, IT.build_derby_italia, 254),
+    R("juventus-milan", "Juventus vs Milan", "Juventus vs Milan", "ita", JUVENTUS, MILAN, IT.build_juve_milan, 247),
+    R("psg-marseille", "Le Classique", "Paris Saint-Germain vs Marseille", "fra", PSG, MARSEILLE, FR.build_classique, 113),
+    R("bayern-dortmund", "Der Klassiker", "Bayern Munich vs Borussia Dortmund", "ger", BAYERN, DORTMUND, DE.build_klassiker, 140,
+      leaders=False),
     R("liverpool-united", "North-West derby", "Liverpool vs Manchester United", "eng", LIVERPOOL, UNITED,
       EN.build_nwd, 218),
+]
+
+
+def ENG(id, name, a, b, min_matches, **extra):  # noqa: A002, N802
+    leaders = id in ("city-united", "arsenal-united")
+    return R(id, name, f"{a['name']} vs {b['name']}", "eng", a, b, EN.big_six(id, a["id"], b["id"]), min_matches, leaders=leaders, **extra)
+
+
+RIVALRIES += [
+    ENG("arsenal-tottenham", "North London derby", ARSENAL, SPURS, 199),
+    ENG("city-united", "Manchester derby", CITY, UNITED, 198),
+    ENG("arsenal-chelsea", "Arsenal vs Chelsea", ARSENAL, CHELSEA, 216),
+    ENG("arsenal-liverpool", "Arsenal vs Liverpool", ARSENAL, LIVERPOOL, 246),
+    ENG("arsenal-city", "Arsenal vs Manchester City", ARSENAL, CITY, 217),
+    ENG("arsenal-united", "Arsenal vs Manchester United", ARSENAL, UNITED, 245),
+    ENG("chelsea-liverpool", "Chelsea vs Liverpool", CHELSEA, LIVERPOOL, 200),
+    ENG("chelsea-city", "Chelsea vs Manchester City", CHELSEA, CITY, 181),
+    ENG("chelsea-united", "Chelsea vs Manchester United", CHELSEA, UNITED, 199),
+    ENG("chelsea-tottenham", "Chelsea vs Tottenham", CHELSEA, SPURS, 182),
+    ENG("liverpool-city", "Liverpool vs Manchester City", LIVERPOOL, CITY, 200),
+    # The 2004–05 League Cup fifth round: 1–1 after extra time, Liverpool through 4–3 on penalties.
+    ENG("liverpool-tottenham", "Liverpool vs Tottenham", LIVERPOOL, SPURS, 186,
+        ties={("liverpool-tottenham", "League Cup", "2004–05", "Fifth round"): "liverpool",
+              ("liverpool-tottenham", "League Cup", "2004–05", "Fifth round", "how"): "penalties 4–3"}),
+    ENG("city-tottenham", "Manchester City vs Tottenham", CITY, SPURS, 176),
+    ENG("united-tottenham", "Manchester United vs Tottenham", UNITED, SPURS, 206),
+]
+
+
+def BRA(id, name, group, a, b, min_matches, **extra):  # noqa: A002, N802
+    return R(id, name, f"{a['name']} vs {b['name']}", group, a, b, BR.brazil(id, a["id"], b["id"]), min_matches, leaders=False, **extra)
+
+
+RIVALRIES += [
+    BRA("palmeiras-corinthians", "Derby Paulista", "bra-sp", PALMEIRAS, CORINTHIANS, 332),
+    BRA("palmeiras-sao-paulo", "Choque-Rei", "bra-sp", PALMEIRAS, SAO_PAULO, 313),
+    BRA("corinthians-sao-paulo", "Majestoso", "bra-sp", CORINTHIANS, SAO_PAULO, 367),
+    BRA("santos-sao-paulo", "San-São", "bra-sp", SANTOS, SAO_PAULO, 289),
+    BRA("corinthians-santos", "Clássico Alvinegro", "bra-sp", CORINTHIANS, SANTOS, 316),
+    BRA("palmeiras-santos", "Clássico da Saudade", "bra-sp", PALMEIRAS, SANTOS, 320),
+    BRA("flamengo-fluminense", "Fla-Flu", "bra-rj", FLAMENGO, FLUMINENSE, 415),
+    BRA("flamengo-vasco", "Clássico dos Milhões", "bra-rj", FLAMENGO, VASCO, 431),
+    BRA("botafogo-fluminense", "Clássico Vovô", "bra-rj", BOTAFOGO, FLUMINENSE, 359),
+    BRA("botafogo-flamengo", "Clássico da Rivalidade", "bra-rj", BOTAFOGO, FLAMENGO, 370),
+    BRA("fluminense-vasco", "Clássico dos Gigantes", "bra-rj", FLUMINENSE, VASCO, 368),
+    BRA("botafogo-vasco", "Clássico da Amizade", "bra-rj", BOTAFOGO, VASCO, 311),
+    BRA("internacional-gremio", "Grenal", "bra-rs", INTERNACIONAL, GREMIO, 379),
+    BRA("cruzeiro-atletico", "Clássico Mineiro", "bra-mg", CRUZEIRO, ATLETICO, 518),
 ]
 
 
@@ -158,6 +241,7 @@ def build(cfg: dict, refresh: bool) -> dict:
     for key in ("matches", "friendlies", "ties", "scorers", "appearances"):
         data.setdefault(key, [])
     source_ties = data.pop("_ties", None)
+    from_text = data.pop("tiesFromText", False)
     data.pop("pair", None)
     published = data.pop("published", None)
     finish(data)
@@ -166,6 +250,8 @@ def build(cfg: dict, refresh: bool) -> dict:
             data["ties"] = AR.link_ties(data, source_ties)
         elif cfg.get("link_ties"):
             cfg["link_ties"](data)
+        elif from_text:
+            pass  # the source's own list of ties, without legs
         else:
             data["ties"] = build_ties(data, cfg.get("ties"))
         if published:

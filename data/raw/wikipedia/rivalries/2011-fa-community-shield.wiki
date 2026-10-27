@@ -1,0 +1,250 @@
+{{Use dmy dates|date=November 2021}}
+{{Infobox football match
+| title              = 2011 FA Community Shield
+| image              = 2011_Community_Shield_programme.jpg
+| image_size = 200
+| caption = The [[Football programme|match programme]] cover
+| team1              = [[Manchester City F.C.|Manchester City]]
+| team1score         = 2
+| team2              = [[Manchester United F.C.|Manchester United]]
+| team2score         = 3
+| details            =
+| date               = 7 August 2011
+| stadium            = [[Wembley Stadium]]
+| city               = London
+| man_of_the_match1a = [[Nani (footballer)|Nani]] (Manchester United)
+| referee            = [[Phil Dowd]] ([[Staffordshire Football Association|Staffordshire]])<ref name="referee"/>
+| attendance         = 77,169
+| weather            = Rain<br />{{convert|16|°C|°F}}<ref>{{Cite web|url=http://www.wunderground.com/history/airport/EGLL/2011/8/7/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA|title=Local Weather Forecast, News and Conditions &#124; Weather Underground}}</ref>
+| previous           = [[2010 FA Community Shield|2010]]
+| next               = [[2012 FA Community Shield|2012]]
+}}
+The '''2011 FA Community Shield''' (also known as '''The FA Community Shield sponsored by [[McDonald's]]''' for sponsorship reasons) was the 89th [[FA Community Shield]], an annual [[association football|football]] match contested by the winners of the previous season's [[Premier League]] and [[FA Cup]] competitions. The match was the 160th [[Manchester derby]] between [[Manchester United F.C.|Manchester United]] and [[Manchester City F.C.|Manchester City]] and played at [[Wembley Stadium]], [[London]], on 7 August 2011.<ref>{{cite web |title=The FA Community Shield 2011 |url=http://www.wembleystadium.com/Events/2011/The-FA-Community-Shield-2011/The-FA-Community-Shield-2011 |publisher=Wembley Stadium |access-date=9 May 2011 |archive-url=https://web.archive.org/web/20140202173645/http://www.wembleystadium.com/Events/2011/The-FA-Community-Shield-2011/The-FA-Community-Shield-2011 |archive-date=2 February 2014 |url-status=dead }}</ref> Manchester United won the game 3–2, with goals from [[Chris Smalling]] and [[Nani (footballer)|Nani]] (2), after [[Joleon Lescott]] and [[Edin Džeko]] had put City 2–0 up at half-time.<ref name="BBC-Bevan">{{cite news |first=Chris |last=Bevan |title=Man City 2–3 Man Utd |url=https://www.bbc.co.uk/sport/football/14420151 |publisher=BBC Sport |date=7 August 2011 |access-date=8 August 2011 }}</ref>
+
+Manchester United qualified to take part for the fifth consecutive year by winning the [[2010–11 Premier League]] title and Manchester City qualified by winning the [[2010–11 FA Cup]]. United won the match for the fourth time in five years.
+{{TOCleft}}
+{{-}}
+
+==Background==
+[[File:2011 Community Shield Teams.jpg|thumb|The two teams lining up for the [[God Save the King|national anthem]]]]
+This was only the second occasion the two teams had met in the competition, with the first being the [[1956 FA Charity Shield]], which United won 1–0. Both teams secured their place in the 2011 Community Shield on the same day, 14 May 2011, when United clinched the [[2010–11 Premier League]] title with a 1–1 draw against [[Blackburn Rovers F.C.|Blackburn Rovers]] at [[Ewood Park]] and City beating [[Stoke City F.C.|Stoke City]] 1–0 a few hours later in the [[2011 FA Cup final]].
+{{-}}
+
+==Match details==
+{{footballbox
+|date=7 August 2011
+|time=14:30 [[British Summer Time|BST]]
+|team1=[[Manchester City F.C.|Manchester City]]
+|score=2–3
+|report=[https://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/FAMatchCentre/2011/ManchesterCityvManchesterUnited/Match-Report Report]
+|team2=[[Manchester United F.C.|Manchester United]]
+|goals1=[[Joleon Lescott|Lescott]] {{goal|38}}<br />[[Edin Džeko|Džeko]] {{goal|45+1}}
+|goals2=[[Chris Smalling|Smalling]] {{goal|52}}<br />[[Nani (footballer)|Nani]] {{goal|58||90+4}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=77,169
+|referee=[[Phil Dowd]] ([[Staffordshire Football Association|Staffordshire]])<ref name="referee"/> }}
+
+{| style="width:92%"
+|-
+|{{Football kit
+ | pattern_la = _mancityh2011
+ | pattern_b  = _mancityh2011
+ | pattern_ra = _mancityh2011
+ | pattern_sh = _mancityh2011
+ | pattern_so = _fourwhitehoops
+ | leftarm    = 9dcaf1
+ | body       = 9dcaf1
+ | rightarm   = 9dcaf1
+ | shorts     = 9dcaf1
+ | socks      = 9dcaf1
+ | title      = Manchester City
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _manutd1112
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _manutdh1112
+ |leftarm    = E20E0E
+ |body       = E20E0E
+ |rightarm   = E20E0E
+ |shorts     = FFFFFF
+ |socks      = 000000
+ |title      = Manchester United
+}}
+|}
+
+{| style="width:100%"
+|-
+|  style="vertical-align:top; width:50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''25'''||{{flagicon|ENG}} [[Joe Hart]]
+|-
+|RB ||'''2''' ||{{flagicon|ENG}} [[Micah Richards]] || {{yel|22}}
+|-
+|CB ||'''4''' ||{{flagicon|BEL}} [[Vincent Kompany]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||{{flagicon|ENG}} [[Joleon Lescott]]
+|-
+|LB ||'''13'''||{{flagicon|SRB}} [[Aleksandar Kolarov]] || {{yel|60}} || {{suboff|73}}
+|-
+|CM ||'''34'''||{{flagicon|NED}} [[Nigel de Jong]]
+|-
+|CM ||'''7''' ||{{flagicon|ENG}} [[James Milner]] || {{yel|55}} || {{suboff|67}}
+|-
+|AM ||'''42'''||{{flagicon|CIV}} [[Yaya Touré]] || {{yel|34}}
+|-
+|RW ||'''21'''||{{flagicon|ESP}} [[David Silva]]
+|-
+|LW ||'''45'''||{{flagicon|ITA}} [[Mario Balotelli]] || || {{suboff|59}}
+|-
+|CF ||'''10'''||{{flagicon|BIH}} [[Edin Džeko]] || {{yel|19}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''12'''||{{flagicon|ENG}} [[Stuart Taylor (footballer, born 1980)|Stuart Taylor]]
+|-
+|DF ||'''15'''||{{flagicon|MNE}} [[Stefan Savić]]
+|-
+|DF ||'''22'''||{{flagicon|FRA|1974}} [[Gaël Clichy]] || || {{subon|73}}
+|-
+|MF ||'''8''' ||{{flagicon|ENG}} [[Shaun Wright-Phillips]]
+|-
+|MF ||'''11'''||{{flagicon|ENG}} [[Adam Johnson (footballer)|Adam Johnson]] || || {{subon|67}}
+|-
+|MF ||'''18'''||{{flagicon|ENG}} [[Gareth Barry]] || || {{subon|59}}
+|-
+|FW ||'''16'''||{{flagicon|ARG}} [[Sergio Agüero]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Roberto Mancini]]
+|}
+|style="vertical-align:top"|[[File:Man City vs Man Utd 2011-08-07.svg|300px]]
+|style="vertical-align:top; width:50%"|
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto"
+|-
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[David de Gea]]
+|-
+|RB ||'''12'''||{{flagicon|ENG}} [[Chris Smalling]]
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Rio Ferdinand]] || || {{suboff|46}}
+|-
+|CB ||'''15'''||{{flagicon|SRB}} [[Nemanja Vidić]] ([[Captain (association football)|c]]) || || {{suboff|46}}
+|-
+|LB ||'''3''' ||{{flagicon|FRA|1974}} [[Patrice Evra]] || {{yel|40}} || {{suboff|71}}
+|-
+|RM ||'''17'''||{{flagicon|POR}} [[Nani (footballer)|Nani]]
+|-
+|CM ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]] || || {{suboff|46}}
+|-
+|CM ||'''8''' ||{{flagicon|BRA}} [[Anderson (footballer, born 1988)|Anderson]] || {{yel|19}}
+|-
+|LM ||'''18'''||{{flagicon|ENG}} [[Ashley Young]]
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[Wayne Rooney]]
+|-
+|CF ||'''19'''||{{flagicon|ENG}} [[Danny Welbeck]]  || || {{suboff|89}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''34'''||{{flagicon|DEN}} [[Anders Lindegaard]]
+|-
+|DF ||'''4''' ||{{flagicon|ENG}} [[Phil Jones (footballer, born 1992)|Phil Jones]] || || {{subon|46}}
+|-
+|DF ||'''21'''||{{flagicon|BRA}} [[Rafael (footballer, born 1990)|Rafael]] || || {{subon|71}}
+|-
+|DF ||'''23'''||{{flagicon|NIR}} [[Jonny Evans]] || || {{subon|46}}
+|-
+|MF ||'''13'''||{{flagicon|KOR}} [[Park Ji-sung]]
+|-
+|MF ||'''35'''||{{flagicon|ENG}} [[Tom Cleverley]] || || {{subon|46}}
+|-
+|FW ||'''9''' ||{{flagicon|BUL}} [[Dimitar Berbatov]] || || {{subon|89}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SCO}} [[Alex Ferguson|Sir Alex Ferguson]]
+|}
+|}
+
+{| style="width:100%; font-size:90%"
+|-
+| style="width:50%; vertical-align:top"|
+'''Man of the match'''
+*[[Nani (footballer)|Nani]] (Manchester United)<ref name="manofthematch">{{cite news |first=Stuart |last=Mawhinney |title=United take the spoils in Shield classic |url=https://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/FAMatchCentre/2011/ManchesterCityvManchesterUnited/Match-Report |work=TheFA.com |publisher=The Football Association |date=7 August 2011 |access-date=7 August 2011 }}</ref>
+
+'''Match officials'''
+*Assistant referees:
+**Simon Long ([[Cornwall County Football Association|Cornwall]])<ref name="referee">{{cite news |title=Dowd to referee Community Shield |url=https://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/NewsAndFeatures/2011/dowd-230611 |work=TheFA.com |publisher=The Football Association |date=23 June 2011 |access-date=23 June 2011 }}</ref>
+**Andrew Garratt ([[Staffordshire Football Association|Staffordshire]])<ref name="referee"/>
+*Fourth official: [[Kevin Friend]] ([[Leicestershire & Rutland County Football Association|Leicestershire]])<ref name="referee"/>
+*Reserve official: Scott Ledger ([[Sheffield and Hallamshire Football Association|South Yorkshire]])<ref name="referee"/>
+| style="width:50%; vertical-align:top"|
+'''Match rules'''
+*90 minutes
+*Penalty shoot-out if scores level after 90 minutes
+*Seven named substitutes
+*Maximum of six substitutions
+|}
+
+===Statistics===
+{| class="wikitable" style="text-align:center"
+|-
+!width=100 |
+!width=70 | City
+!width=70 | United
+|-
+|Total shots || 8 || 21
+|-
+|Shots on target || 6 || 12
+|-
+|Ball possession || 44% || 56%
+|-
+|Corner kicks || 8 || 7
+|-
+|Fouls committed || 14 || 11
+|-
+|Offsides || 2 || 1
+|-
+|Yellow cards || 5 || 2
+|-
+|Red cards || 0 || 0
+|}
+'''Source:''' BBC Sport<ref name="BBC-Bevan"/>
+
+==See also==
+*[[2010–11 Premier League]]
+*[[2010–11 FA Cup]]
+*[[Manchester derby]]
+*[[1956 FA Charity Shield]] – the only previous occasion the Charity or Community Shield has been contested by the two Manchester clubs
+
+==References==
+{{commons category}}
+{{reflist}}
+
+{{FA Community Shield}}
+{{2011–12 in English football}}
+{{2011–12 in European football (UEFA)}}
+{{Manchester City F.C. matches}}
+{{Manchester United F.C. matches}}
+
+{{DEFAULTSORT:Fa Community Shield, 2011}}
+[[Category:FA Community Shield matches|2011]]
+[[Category:Football matches in London|2011]]
+[[Category:2011–12 in English men's football cups]]
+[[Category:2011 in sport in London]]
+[[Category:Manchester City F.C. matches|Charity Shield 2011]]
+[[Category:Manchester United F.C. matches|Charity Shield 2011]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:August 2011 sports events in the United Kingdom]]
+[[Category:Manchester derby matches|Community Shield 2011]]

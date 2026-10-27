@@ -1,0 +1,240 @@
+{{Infobox football match
+| title = 2026 FA Community Shield
+| image = Principality_Stadium_May_3,_2016.jpg
+| caption = The [[Millennium Stadium]] in [[Cardiff]] hosted the match
+| team1 = [[Arsenal F.C.|Arsenal]]
+| team1score = 3
+| team2 = [[Manchester City F.C.|Manchester City]]
+| team2score = 0
+| details = 
+| date = 16 August 2026
+| venue = [[Millennium Stadium]]
+| city = [[Cardiff]]
+| attendance = 58,056
+| man_of_the_match1a = [[Martin Ødegaard]] (Arsenal)
+| referee = [[Sam Barrott]] ([[West Riding County Football Association|West Riding]])<ref name="officials">{{cite news |title=Find out who's taking charge of the FA Community Shield between Man City and Arsenal|url=https://www.thefa.com/news/2026/jul/20/match-officials-for-fa-community-shield-2026-appointed-20262007 |website=TheFA.com |publisher=The Football Association |date=20 July 2026 |access-date=12 August 2026 }}</ref>
+| previous = [[2025 FA Community Shield|2025]]
+| next = ''2027''
+}}
+The '''2026 FA Community Shield''' was the 104th [[FA Community Shield]], an annual [[association football]] match contested by the winners of the previous season's [[Premier League]] and [[FA Cup]] competitions. It was played between [[Arsenal F.C.|Arsenal]] and [[Manchester City F.C.|Manchester City]] on 16 August 2026 at the [[Millennium Stadium]] in Cardiff.<ref>{{cite news |title=Venue and date details for the 2026 FA Community Shield have been confirmed |url=https://www.thefa.com/news/2026/mar/23/fa-community-shield-2026-details-confirmed-20262303 |website=TheFA.com |publisher=The Football Association |date=23 March 2026 |access-date=23 March 2026 }}</ref> 
+
+[[Crystal Palace F.C.|Crystal Palace]] were the holders, having won the [[2025 FA Community Shield|2025 edition]], but they did not qualify for this fixture, being knocked out of the FA Cup in the third round in [[Macclesfield 2–1 Crystal Palace (2026)|historic fashion]] and finishing 15th in the Premier League. 
+
+It was the first time the venue hosted the Community Shield since [[2006 FA Community Shield|2006]], having hosted it between 2001 and 2006. It was the first time the Community Shield was played away from [[Wembley Stadium]] since [[2022 FA Community Shield|2022]] (the third overall) due to scheduling conflicts with a concert by [[The Weeknd]].<ref>{{cite web |last1=Rostance |first1=Tom |title=Community Shield moved to Cardiff for Weeknd gigs |url=https://www.bbc.co.uk/sport/football/articles/ckge06z463lo |publisher=[[BBC Sport]] |date=23 March 2026}}</ref>
+
+Arsenal won the match 3–0 for their 18th FA Community Shield title.<ref>{{cite web|url=https://www.skysports.com/football/news/12309/13573690/arsenal-3-0-man-city-riccardo-calafiori-kai-havertz-and-martin-odegaard-take-gunners-to-community-shield-win-in-cardiff|title=Arsenal 3-0 Man City: Riccardo Calafiori, Kai Havertz and Martin Odegaard take Gunners to Community Shield win in Cardiff|date=16 August 2026|work=Sky Sports|accessdate=2 September 2026}}</ref>
+It was their biggest win in the Community Shield in [[2014 FA Community Shield|12 years]], when they beat Manchester City by an identical scoreline.
+
+==Background==
+{{Main|2025–26 Arsenal F.C. season|2025–26 Manchester City F.C. season}}
+[[Arsenal F.C.|Arsenal]] and [[Manchester City F.C.|Manchester City]] qualified for the 2026 FA Community Shield as the winners of the [[2025–26 Premier League]] and the [[2025–26 FA Cup]], respectively. It was the 217th meeting between the two sides. Manchester City won the most recent match between the two teams 2–1 on 19 April 2026. Arsenal have previously appeared in 24 Community Shield matches, winning 17 titles (one of which was shared), and appearing most recently in the [[2023 FA Community Shield|2023 edition]], where they beat Manchester City on penalties after the match ended in a 1–1 draw. Manchester City have previously appeared in 16 Community Shield matches, winning 7 titles, and appearing most recently in the [[2024 FA Community Shield|2024 edition]], where they beat [[Manchester United F.C.|Manchester United]] on penalties after the match ended in a {{nowrap|1–1}} draw.
+
+==Match==
+===Summary===
+After 23 seconds, [[Riccardo Calafiori]] gave Arsenal the lead when he finished low left footed to the left corner of the net from twelve yards out after a through pass from [[Myles Lewis-Skelly]]. This was the fastest goal in Community Shield history. It was 2-0 in the 28th minute when [[Kai Havertz]] scored with a downward header from close range after the ball had been headed back to him from the left by [[Christos Tzolis]].<ref>{{cite web|url=https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report|title=Calafiori’s fast start inspires Arsenal to big Community Shield win over Manchester City|date=16 August 2026|work=Guardian|accessdate=2 September 2026}}</ref>
+
+In the 48th minute, [[Martin Ødegaard]] got a third goal for Arsenal when he received a low pass from Christos Tzolis from the left before getting into the penalty area and faking a shot to the right which forced the Manchester City goalkeeper [[Gianluigi Donnarumma]] to the floor before passing the ball into the left corner from six yards out.<ref>{{cite web|url=https://www.independent.co.uk/sport/football/arsenal-man-city-live-score-result-community-shield-b3033791.html|title=Arsenal vs Manchester City LIVE: Gunners cruise to Community Shield victory in statement start to season|date=16 August 2026|work=The Independent|accessdate=2 September 2026}}</ref>
+
+===Details===
+<onlyinclude>{{football box
+|date=16 August 2026
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Arsenal F.C.|Arsenal]]
+|score=3–0
+|report=https://www.bbc.com/sport/football/live/cv4g34g19p2kt
+|team2=[[Manchester City F.C.|Manchester City]]
+|goals1=
+*[[Riccardo Calafiori|Calafiori]] {{goal|1}}
+*[[Kai Havertz|Havertz]] {{goal|28}}
+*[[Martin Ødegaard|Ødegaard]] {{goal|48}}
+|goals2=
+|stadium=[[Millennium Stadium]], [[Cardiff]]
+|attendance=58,056
+|referee=[[Sam Barrott]] ([[West Riding County Football Association|West Riding of Yorkshire]])
+}}</onlyinclude>
+
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = _arsenal2627h
+ |pattern_b  = _arsenal2627h
+ |pattern_ra = _arsenal2627h
+ |pattern_sh = _arsenal2627h
+ |pattern_so = _arsenal2627hl
+ |leftarm    = FFFFFF
+ |body       = F00000
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = F00000
+ |title      = Arsenal
+}}
+|{{Football kit
+ |pattern_la = _mancity2627h
+ |pattern_b  = _mancity2627h
+ |pattern_ra = _mancity2627h
+ |pattern_sh = _mancity2627h
+ |pattern_so = _mancity2627hl
+ |leftarm    = 98C6EB
+ |body       = 98C6EB
+ |rightarm   = 98C6EB
+ |shorts     = 1C214F
+ |socks      = 1C214F
+ |title      = {{nowrap|Manchester City}}
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size:90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[David Raya]]
+|-
+|RB ||'''4''' ||{{flagicon|ENG}} [[Ben White (footballer)|Ben White]]
+|-
+|CB ||'''3''' ||{{flagicon|ESP}} [[Cristhian Mosquera]]
+|-
+|CB ||'''6''' ||{{flagicon|BRA}} [[Gabriel Magalhães]]
+|-
+|LB ||'''33'''||{{flagicon|ITA}} [[Riccardo Calafiori]] || {{yel|38}} || {{suboff|60}}
+|-
+|CM ||'''39'''||{{flagicon|BRA}} [[Bruno Guimarães]] || || {{suboff|46}}
+|-
+|CM ||'''49'''||{{flagicon|ENG}} [[Myles Lewis-Skelly]] || || {{suboff|75}}
+|-
+|RW ||'''20'''||{{flagicon|ENG}} [[Noni Madueke]] || || {{suboff|60}}
+|-
+|AM ||'''8''' ||{{flagicon|NOR}} [[Martin Ødegaard]] ([[Captain (association football)|c]]) || {{yel|84}} || {{suboff|84}}
+|-
+|LW ||'''17'''||{{flagicon|GRE}} [[Christos Tzolis]]
+|-
+|CF ||'''29'''||{{flagicon|GER}} [[Kai Havertz]] || || {{suboff|75}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Kepa Arrizabalaga]]
+|-
+|DF ||'''5''' ||{{flagicon|ECU}} [[Piero Hincapié]] || || {{subon|60}}
+|-
+|MF ||'''10'''||{{flagicon|ENG}} [[Eberechi Eze]] || || {{subon|84}}
+|-
+|MF ||'''23'''||{{flagicon|ESP}} [[Mikel Merino]]
+|-
+|MF ||'''36'''||{{flagicon|ESP}} [[Martín Zubimendi]] || || {{subon|75}}
+|-
+|MF ||'''41'''||{{flagicon|ENG}} [[Declan Rice]] || || {{subon|46}}
+|-
+|FW ||'''7''' ||{{flagicon|ENG}} [[Bukayo Saka]] || || {{subon|60}}
+|-
+|FW ||'''14'''||{{flagicon|SWE}} [[Viktor Gyökeres]] || || {{subon|75}}
+|-
+|FW ||'''56'''||{{flagicon|ENG}} [[Max Dowman]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Mikel Arteta]]
+|}
+|valign="top"|[[File:Arsenal vs Manchester City 2026-08-16.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size:90%; margin:auto" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ITA}} [[Gianluigi Donnarumma]]
+|-
+|RB ||'''45'''||{{flagicon|UZB}} [[Abdukodir Khusanov]]
+|-
+|CB ||'''3''' ||{{flagicon|POR}} [[Rúben Dias]] ([[Captain (association football)|c]])
+|-
+|CB ||'''24'''||{{flagicon|CRO}} [[Joško Gvardiol]] || {{yel|53}}
+|-
+|LB ||'''33'''||{{flagicon|ENG}} [[Nico O'Reilly]] || || {{suboff|54}}
+|-
+|CM ||'''5''' ||{{flagicon|ENG}} [[Elliot Anderson]] || || {{suboff|60}}
+|-
+|CM ||'''8''' ||{{flagicon|CRO}} [[Mateo Kovačić]] || || {{suboff|79}}
+|-
+|RW ||'''42'''||{{flagicon|GHA}} [[Antoine Semenyo]]
+|-
+|AM ||'''47'''||{{flagicon|ENG}} [[Phil Foden]] || {{yel|24}} || {{suboff|60}}
+|-
+|LW ||'''11'''||{{flagicon|BEL}} [[Jérémy Doku]] || || {{suboff|46}}
+|-
+|CF ||'''9''' ||{{flagicon|NOR}} [[Erling Haaland]] || || {{suboff|53}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''28'''||{{flagicon|ARG}} [[Gerónimo Rulli]]
+|-
+|DF ||'''6''' ||{{flagicon|ENG}} [[Marc Guéhi]] || || {{subon|54}}
+|-
+|DF ||'''21'''||{{flagicon|ALG}} [[Rayan Aït-Nouri]]
+|-
+|DF ||'''82'''||{{flagicon|ENG}} [[Rico Lewis]] || || {{subon|60}}
+|-
+|MF ||'''10'''||{{flagicon|FRA}} [[Rayan Cherki]] || || {{subon|60}}
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Nico González (footballer, born 2002)|Nico González]] || || {{subon|79}}
+|-
+|MF ||'''18'''||{{flagicon|ENG}} [[Jack Grealish]] || || {{subon|46}}
+|-
+|MF ||'''27'''||{{flagicon|POR}} [[Matheus Nunes]]
+|-
+|FW ||'''7''' ||{{flagicon|EGY}} [[Omar Marmoush]] || || {{subon|53}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ITA}} [[Enzo Maresca]]
+|}
+|}
+
+{| width=100% style="font-size:90%"
+|
+'''Man of the Match:'''
+<br />[[Martin Ødegaard]] (Arsenal)
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''<ref name="officials"/>
+<br />Craig Taylor ([[Staffordshire Football Association|Staffordshire]])
+<br />Blake Antrobus ([[Manchester Football Association|Manchester]])
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''<ref name="officials"/>
+<br />Farai Hallam ([[Surrey County Football Association|Surrey]])
+<br />'''[[Assistant referee (association football)#Reserve assistant referee|Reserve assistant referee]]:'''<ref name="officials"/>
+<br />Alistair Nelson ([[Nottinghamshire County Football Association|Nottinghamshire]])
+<br />'''[[Video assistant referee]]:'''<ref name="officials"/>
+<br />James Bell ([[Sheffield & Hallamshire County Football Association|Sheffield & Hallamshire]])
+<br />'''[[Video assistant referee#Assistant video assistant referee|Assistant video assistant referee]]:'''<ref name="officials"/>
+<br />Tim Wood ([[Gloucestershire County Football Association|Gloucestershire]])
+|style="width:60%; vertical-align:top;"|
+'''Match rules'''<ref name="rules">{{cite web |title=Rules of the Football Association Community Shield |url=https://www.thefa.com/~/media/978792AF8BBE4927AA4583437A7DF882.ashx |access-date=9 June 2023 |website= |publisher=The Football Association |format=PDF}}</ref>
+*90 minutes
+*[[Penalty shoot-out (association football)|Penalty shoot-out]] if scores level
+*Nine named substitutes, of which six may be used
+|}
+
+==Broadcasting==
+The match was broadcast in the United Kingdom on [[TNT Sports (United Kingdom)|TNT Sports 1]] and [[HBO Max]].<ref>{{cite news |title=Further details confirmed for the 2026 FA Community Shield |url=https://www.thefa.com/news/2026/jun/04/2026-fa-community-shield |website=TheFA.com |publisher=The Football Association |date=4 June 2026 |accessdate=4 June 2026 }}</ref>
+
+The match was broadcast in the United States on [[ESPN]]<ref>{{Cite web |last=Jenkins |first=Keith |date=August 14, 2026 |title=2026 FA Community Shield: Where to watch Arsenal-Manchester City |url=https://www.espn.com/soccer/story/_/id/49611328/2026-fa-community-shield-where-watch-arsenal-manchester-city |access-date=2026-08-20 |website=www.espn.com}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.thefa.com/competitions/the-fa-community-shield The FA Community Shield] at [[The Football Association]]
+
+{{FA Community Shield}}
+{{2026–27 in English men's football}}
+{{2026–27 in European football (UEFA)}}
+{{Template:Arsenal F.C. matches}}
+{{Template:Manchester City F.C. matches}}
+
+[[Category:FA Community Shield matches]]
+[[Category:August 2026 sports events in the United Kingdom|FA Community Shield]]
+[[Category:2026–27 in English men's football cups|FA Community Shield]]
+[[Category:Football competitions in Cardiff]]
+[[Category:2026–27 in Welsh football]]
+[[Category:Manchester City F.C. matches]]
+[[Category:Arsenal F.C. matches]]
+[[Category:2020s in Cardiff]]
+[[Category:Football matches in Wales]]

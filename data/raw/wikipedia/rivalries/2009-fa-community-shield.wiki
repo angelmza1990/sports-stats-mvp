@@ -1,0 +1,212 @@
+{{Use dmy dates|date=November 2021}}
+{{Infobox football match
+| title                   = 2009 FA Community Shield
+| image                   = 2009 FA Community Shield programme.jpg
+| caption                 = The [[Football programme|match programme]] cover
+| event                   = 
+| team1                   = [[Chelsea F.C.|Chelsea]]
+| team1score              = 2
+| team2                   = [[Manchester United F.C.|Manchester United]]
+| team2score              = 2
+| details                 = Chelsea won 4–1 on [[Penalty shoot-out (association football)|penalties]]
+| date                    = 9 August 2009
+| stadium                 = [[Wembley Stadium]]
+| city                    = [[London]]
+| man_of_the_match1a      = [[Ricardo Carvalho]] (Chelsea)
+| referee                 = [[Chris Foy (referee)|Chris Foy]] ([[Liverpool County Football Association|Merseyside]])<ref name="referee"/>
+| attendance              = 85,896
+| weather                 = Sunny
+| previous                = [[2008 FA Community Shield|2008]]
+| next                    = [[2010 FA Community Shield|2010]]
+}}
+The '''2009 FA Community Shield''' (also known as '''The FA Community Shield sponsored by [[McDonald's]]''' for sponsorship reasons) was the 87th [[FA Community Shield]], an annual [[association football|football]] match contested by the winners of the previous season's [[Premier League]] and [[FA Cup]] competitions. The match was contested at [[Wembley Stadium]], [[London]], on 9 August 2009,<ref>{{cite news |title=Shield date confirmed |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/NewsAndFeatures/2009/Shield_date_confirmed.aspx |work=TheFA.com |publisher=The Football Association |date=2 March 2009 |access-date=15 May 2009 }}</ref> and contested by [[2008–09 Premier League]] champions [[Manchester United F.C.|Manchester United]], and [[Chelsea F.C.|Chelsea]] as the winners of the [[2008–09 FA Cup]], a repeat of the [[2007 FA Community Shield|2007 match]]. The game ended in a 2–2 draw – the goals coming from [[Nani (footballer)|Nani]] and [[Wayne Rooney]] for Manchester United, and from [[Ricardo Carvalho]] and [[Frank Lampard]] for Chelsea – with Chelsea winning 4–1 on [[Penalty shootout (association football)|penalties]].<ref>{{cite news |title=Chelsea 2 – 2 Man Utd |url=https://news.bbc.co.uk/sport2/hi/football/8190061.stm |website=BBC Sport |date=9 August 2009 |access-date=10 August 2009 }}</ref>
+
+This was also the first time since 1998 that Chelsea had won a professional match on penalties; The last instance was a [[Football League Cup|League Cup]] quarter-final against [[Ipswich Town F.C.|Ipswich Town]].{{citation needed|date=February 2012}}
+{{Clear}}
+
+==Match details==
+{{football box
+|date=9 August 2009
+|time=15:00 [[British Summer Time|BST]]
+|team1=[[Chelsea F.C.|Chelsea]]
+|score= 2&ndash;2
+|report=[http://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/FAMatchCentre/2009/Chelsea_v_ManUtd/manutd_chelsea_report_090809.aspx Report]
+|team2=[[Manchester United F.C.|Manchester United]]
+|goals1=[[Ricardo Carvalho|Carvalho]] {{goal|52}}<br />[[Frank Lampard|Lampard]] {{goal|70}}
+|goals2=[[Nani (footballer)|Nani]] {{goal|10}}<br />[[Wayne Rooney|Rooney]] {{goal|90+2}}
+|stadium=[[Wembley Stadium]], [[London]]
+|attendance=85,896
+|referee=[[Chris Foy (referee)|Chris Foy]] ([[Liverpool County Football Association|Merseyside]])<ref name="referee"/>
+|penalties1=[[Frank Lampard|Lampard]] {{pengoal}}<br />[[Michael Ballack|Ballack]] {{pengoal}}<br />[[Didier Drogba|Drogba]] {{pengoal}}<br />[[Salomon Kalou|Kalou]] {{pengoal}}
+|penaltyscore=4&ndash;1
+|penalties2={{penmiss}} [[Ryan Giggs|Giggs]]<br />{{pengoal}} [[Michael Carrick|Carrick]]<br />{{penmiss}} [[Patrice Evra|Evra]] }}
+
+{| width=92% |
+|-
+|{{Football kit      
+ |pattern_la = _chelsea0910h
+ |pattern_b  = _chelsea0910h
+ |pattern_ra = _chelsea0910h
+ |pattern_sh = _adidaswhite
+ |pattern_so = _3_stripes_blue
+ |leftarm    = 0000FF
+ |body       = 0000FF
+ |rightarm   = 0000FF
+ |shorts     = 0000FF
+ |socks      = FFFFFF
+ |title      = Chelsea
+}}
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _manutd_09-10_home
+ |pattern_ra = 
+ |pattern_sh = _manutdh0910
+ |pattern_so = 
+ |leftarm    = E20E0E
+ |body       = E20E0E
+ |rightarm   = E20E0E
+ |shorts     = FFFFFF
+ |socks      = 000000
+ |title      = Manchester United
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|CZE}} [[Petr Čech]]
+|-
+|RB ||'''2''' ||{{flagicon|SRB|2004}} [[Branislav Ivanović]] || {{yel|13}} || {{suboff|46}}
+|-
+|CB ||'''6''' ||{{flagicon|POR}} [[Ricardo Carvalho]]
+|-
+|CB ||'''26'''||{{flagicon|ENG}} [[John Terry]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3''' ||{{flagicon|ENG}} [[Ashley Cole]]
+|-
+|DM ||'''12'''||{{flagicon|NGA}} [[Mikel John Obi]] || || {{suboff|65}}
+|-
+|RM ||'''5''' ||{{flagicon|GHA}} [[Michael Essien]]
+|-
+|LM ||'''15'''||{{flagicon|FRA|1974}} [[Florent Malouda]] || || {{suboff|78}}
+|-
+|AM ||'''8''' ||{{flagicon|ENG}} [[Frank Lampard]]
+|-
+|CF ||'''39'''||{{flagicon|FRA|1974}} [[Nicolas Anelka]] || || {{suboff|84}}
+|-
+|CF ||'''11'''||{{flagicon|CIV}} [[Didier Drogba]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''40'''||{{flagicon|POR}} [[Hilário (footballer, born 1975)|Hilário]]
+|-
+|DF ||'''17'''||{{flagicon|POR}} [[José Bosingwa]] || || {{subon|46}}
+|-
+|DF ||'''33'''||{{flagicon|BRA}} [[Alex (footballer, born June 1982)|Alex]]
+|-
+|DF ||'''35'''||{{flagicon|BRA}} [[Juliano Belletti]]
+|-
+|MF ||'''13'''||{{flagicon|GER}} [[Michael Ballack]] || || {{subon|65}}
+|-
+|MF ||'''20'''||{{flagicon|POR}} [[Deco]] || || {{subon|78}}
+|-
+|FW ||'''21'''||{{flagicon|CIV}} [[Salomon Kalou]] || || {{subon|84}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ITA}} [[Carlo Ancelotti]]
+|}
+|valign="top"|[[File:Chelsea vs Man Utd 2009-08-09.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''12'''||{{flagicon|ENG}} [[Ben Foster (footballer)|Ben Foster]]
+|-
+|RB ||'''22'''||{{flagicon|IRL}} [[John O'Shea]] || || {{suboff|75}}
+|-
+|CB ||'''5''' ||{{flagicon|ENG}} [[Rio Ferdinand]] ([[Captain (association football)|c]])
+|-
+|CB ||'''23'''||{{flagicon|NIR}} [[Jonny Evans]]
+|-
+|LB ||'''3''' ||{{flagicon|FRA|1974}} [[Patrice Evra]] || {{yel|80}}
+|-
+|RM ||'''17'''||{{flagicon|POR}} [[Nani (footballer)|Nani]] || || {{suboff|63}}
+|-
+|CM ||'''24'''||{{flagicon|SCO}} [[Darren Fletcher]] || || {{suboff|75}}
+|-
+|CM ||'''16'''||{{flagicon|ENG}} [[Michael Carrick]]
+|-
+|LM ||'''13'''||{{flagicon|KOR|1997}} [[Park Ji-sung]] || || {{suboff|75}}
+|-
+|CF ||'''10'''||{{flagicon|ENG}} [[Wayne Rooney]]
+|-
+|CF ||'''9''' ||{{flagicon|BUL}} [[Dimitar Berbatov]] || {{yel|4}} || {{suboff|75}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|GK ||'''29'''||{{flagicon|POL}} [[Tomasz Kuszczak]]
+|-
+|DF ||'''20'''||{{flagicon|BRA}} [[Fábio (footballer, born 1990)|Fábio]] || || {{subon|75}}
+|-
+|MF ||'''11'''||{{flagicon|WAL}} [[Ryan Giggs]] || || {{subon|75}}
+|-
+|MF ||'''18'''||{{flagicon|ENG}} [[Paul Scholes]] || || {{subon|75}}
+|-
+|MF ||'''25'''||{{flagicon|ECU}} [[Antonio Valencia]] || || {{subon|63}}
+|-
+|MF ||'''28'''||{{flagicon|IRL}} [[Darron Gibson]]
+|-
+|FW ||'''7''' ||{{flagicon|ENG}} [[Michael Owen]] || {{yel|86}} || {{subon|75}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|SCO}} [[Alex Ferguson|Sir Alex Ferguson]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match officials'''
+*Assistant referees:
+**[[Philip Sharp (football referee)|Philip Sharp]] ([[Hertfordshire County Football Association|Hertfordshire]])<ref name="referee">{{cite news |title=Foy to take charge of Shield |url=http://www.thefa.com/TheFACup/FACompetitions/TheFACommunityShield/NewsAndFeatures/2009/foy_announcement_010709.aspx |work=TheFA.com |publisher=The Football Association |date=1 July 2009 |access-date=18 July 2009 }}</ref>
+**Simon Beck ([[Essex County Football Association|Essex]])<ref name="referee"/>
+*Fourth official: [[Lee Mason]] ([[Lancashire County Football Association|Lancashire]])<ref name="referee"/>
+
+'''Man of the match'''
+*[[Ricardo Carvalho]] (Chelsea)
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes.
+*Penalty shoot-out if scores level after 90 minutes.
+*Seven named substitutes.
+*Maximum of six substitutions.
+|}
+
+==See also==
+{{commons category}}
+*[[2008–09 Premier League]]
+*[[2008–09 FA Cup]]
+
+==References==
+{{reflist}}
+
+{{FA Community Shield}}
+{{Chelsea F.C. matches}}
+{{Manchester United F.C. matches}}
+{{2009–10 in English football}}
+{{2009–10 in European football (UEFA)}}
+
+[[Category:FA Community Shield matches|2009]]
+[[Category:Football matches in London]]
+[[Category:2009–10 in English men's football cups|Fa Community Shield]]
+[[Category:2009 in sport in London|Fa Community Shield]]
+[[Category:August 2009 sports events in the United Kingdom|Fa Community Shield]]
+[[Category:Manchester United F.C. matches|Charity Shield 2009]]
+[[Category:Chelsea F.C. matches|Charity Shield 2009]]
+[[Category:Sports events at Wembley Stadium]]

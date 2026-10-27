@@ -1,0 +1,3903 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=July 2018}}
+{{Use British English|date=March 2026}}
+{{Infobox football club season
+| club = [[Chelsea F.C.|Chelsea]]
+| season = 2018–19
+| image = Chelsea vs. Arsenal, 29 May 2019 32.jpg
+| image_size = 275px
+| caption = Chelsea players celebrating their triumph in the [[2019 UEFA Europa League final]]
+| owner = [[Roman Abramovich]]
+| manager = [[Maurizio Sarri]]
+| mgrtitle = Head coach
+| chairman = [[Bruce Buck]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| league = [[Premier League]]
+| league result = [[2018–19 Premier League|3rd]]
+| cup1 = [[FA Cup]]
+| cup1 result = [[2018–19 FA Cup|Fifth round]]
+| cup2 = [[EFL Cup]]
+| cup2 result = [[2018–19 EFL Cup|Runners-up]]
+| cup3 = [[FA Community Shield]]
+| cup3 result = [[2018 FA Community Shield|Runners-up]]
+| cup4 = [[UEFA Europa League]]
+| cup4 result = '''[[2018–19 UEFA Europa League|Winners]]'''
+| league topscorer = <br />[[Eden Hazard]] (16)
+| season topscorer = <br />Eden Hazard (21)
+| highest attendance = 40,721<br />(vs. [[Manchester United F.C.|Manchester United]], 20 October 2018, Premier League)
+| lowest attendance = 33,933<br />(vs. [[PAOK FC|PAOK]], 29 November 2018, UEFA Europa League)
+| average attendance = 40,441
+| largest win = 5–0<br />(vs. [[Huddersfield Town A.F.C.|Huddersfield Town]], 2 February 2019, Premier League)<br />(vs. [[FC Dynamo Kyiv|Dynamo Kyiv]], 14 March 2019, UEFA Europa League)
+| largest loss = 0–6<br />(vs. [[Manchester City F.C.|Manchester City]], 10 February 2019, Premier League)
+| pattern_la1 = _chelsea1819h
+| pattern_b1 = _chelsea1819h
+| pattern_ra1 = _chelsea1819h
+| pattern_sh1 = _chelsea1819h
+| pattern_so1 = _chelsea1819h
+| leftarm1 = 0000DD
+| body1 = 0000DD
+| rightarm1 = 0000DD
+| shorts1 = 0000DD
+| socks1 = FFFFFF
+| pattern_la2 = _chelsea1819a
+| pattern_b2 = _chelsea1819a
+| pattern_ra2 = _chelsea1819a
+| pattern_sh2 = _chelsea1819a
+| pattern_so2 = _chelsea1819a
+| leftarm2 = FFDD00
+| body2 = FFDD00
+| rightarm2 = FFDD00
+| shorts2 = FFDD00
+| socks2 = 0000DD
+| pattern_la3 = _chelsea1819t
+| pattern_b3 = _chelsea1819t
+| pattern_ra3 = _chelsea1819t
+| pattern_sh3 = _chelsea1819t
+| pattern_so3 = _chelsea1819t2l
+| leftarm3 = BCD3E7
+| body3 = BCD3E7
+| rightarm3 = BCD3E7
+| shorts3 = BCD3E7
+| socks3 = FF8800
+| prevseason = [[2017–18 Chelsea F.C. season|2017–18]]
+| nextseason = [[2019–20 Chelsea F.C. season|2019–20]]
+}}
+
+The '''2018–19 season''' was [[Chelsea F.C.|Chelsea]]'s 105th competitive season, 30th consecutive season in the top flight of English football, 27th consecutive season in the [[Premier League]], and 113th year in existence as a football club.<ref>{{Cite web|title=History|url=https://www.chelseafc.com/en/about-chelsea/history|website=chelseafc.com|date=1 July 2018}}</ref> The season covers the period from 1 July 2018 to 30 June 2019.
+
+==Kits==
+{| style="margin: 1em auto;"
+|{{Football kit
+| pattern_la = _chelsea1819h
+| pattern_b = _chelsea1819h
+| pattern_ra = _chelsea1819h
+| pattern_sh = _chelsea1819h
+| pattern_so = _chelsea1819hl
+| leftarm = 0000DD
+| body = 0000DD
+| rightarm = 0000DD
+| shorts = 0000DD
+| socks = FFFFFF
+| title = Home
+}}
+|{{Football kit
+| pattern_la = _chelsea1819h
+| pattern_b = _chelsea1819h
+| pattern_ra = _chelsea1819h
+| pattern_sh = _chelsea1819h
+| pattern_so = _chelsea1819h2l
+| leftarm = 0000DD
+| body = 0000DD
+| rightarm = 0000DD
+| shorts = 0000DD
+| socks = 0000DD
+| title = Home alt.
+}}
+|{{Football kit
+| pattern_la = _chelsea1920h
+| pattern_b = _chelsea1920h
+| pattern_ra = _chelsea1920h
+| pattern_sh = _chelsea1920h
+| pattern_so = _chelsea1920hl
+| leftarm = 0000FF
+| body = 0000FF
+| rightarm = 0000FF
+| shorts = 0000FF
+| socks = FFFFFF
+| title = Home [[2019–20 Chelsea F.C. season|2019–20]]
+}}
+|{{Football kit
+| pattern_la = _chelsea1819a
+| pattern_b = _chelsea1819a
+| pattern_ra = _chelsea1819a
+| pattern_sh = _chelsea1819a
+| pattern_so = _chelsea1819al
+| leftarm = FFDD00
+| body = FFDD00
+| rightarm = FFDD00
+| shorts = FFDD00
+| socks = 0000DD
+| title = Away
+}}
+|{{Football kit
+| pattern_la = _chelsea1819a
+| pattern_b = _chelsea1819a
+| pattern_ra = _chelsea1819a
+| pattern_sh = _chelsea1819a
+| pattern_so = _chelsea1819a2l
+| leftarm = FFDD00
+| body = FFDD00
+| rightarm = FFDD00
+| shorts = FFDD00
+| socks = FFDD00
+| title = Away alt.
+}}
+|{{Football kit
+| pattern_la = _chelsea1819t
+| pattern_b = _chelsea1819t
+| pattern_ra = _chelsea1819t
+| pattern_sh = _chelsea1819t
+| pattern_so = _chelsea1819t2l
+| leftarm = BCD3E7
+| body = BCD3E7
+| rightarm = BCD3E7
+| shorts = BCD3E7
+| socks = FF8800
+| title = Third 
+}}
+|{{Football kit
+| pattern_la = _chelsea1819t
+| pattern_b = _chelsea1819t
+| pattern_ra = _chelsea1819t
+| pattern_sh = _chelsea1819t
+| pattern_so = _chelsea1819tl
+| leftarm = BCD3E7
+| body = BCD3E7
+| rightarm = BCD3E7
+| shorts = BCD3E7
+| socks = BCD3E7
+| title = Third alt.
+}}
+|}
+{| style="margin:1em auto;"
+|
+|{{Football kit
+| pattern_la    = _nikegk18green
+| pattern_b     = _nikegk18green
+| pattern_ra    = _nikegk18green
+| pattern_sh    = _nikegk18green
+| pattern_so    = _nikegk18green
+| leftarm       = 10943A
+| body          = 33FF66
+| rightarm      = 10943A
+| shorts        = 33FF66
+| socks         = 33FF66
+| title         = Goalkeeper 1
+}}
+|
+|{{Football kit
+|pattern_la = _nikegk18orange
+|pattern_b  = _nikegk18orange
+|pattern_ra = _nikegk18orange
+|pattern_sh =_nikegk18orange
+|pattern_so = _nikegk18orange
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = FF6600
+|socks      = FF6600
+|title      = Goalkeeper 2
+}}
+|{{Football kit
+|pattern_la =_nikegk18gray
+|pattern_b  =_bra18g2
+|pattern_ra =_nikegk18gray
+|pattern_sh =_nikegk18gray
+|pattern_so =_bra18g2
+|leftarm    = FFFFFF
+|body       = FFFFFF
+|rightarm   = FFFFFF
+|shorts     = CCCCCC
+|socks      = CCCCCC
+|title      = Goalkeeper 3
+}}
+|}
+
+==Overview==
+===August===
+Chelsea began the league campaign under new manager Sarri with a "comfortable" 3–0 victory at Huddersfield Town,<ref>{{cite news | url=https://www.bbc.com/sport/football/45067371 | title=Sarri's Chelsea too good for Huddersfield | work=BBC Sport }}</ref> with new midfielder Jorginho scoring a penalty on his debut, in between goals from N'Golo Kante and Pedro. This was followed by a home clash with Arsenal in the first home match of the season. After Pedro and Alvaro Morata quickly established a firm Chelsea advantage, Arsenal fought back to level before the break before Marcos Alonso won it late for the Blues.<ref>{{Cite web|url=https://www.premierleague.com/match/38321|title = Chelsea v Arsenal, 2018/19 &#124; Premier League}}</ref>
+Chelsea then made the long trip to Newcastle, and took the lead with fourteen minutes to play with an Eden Hazard penalty. With seven minutes to play, striker Joselu leveled it up, however Chelsea would have the last word, with a DeAndre Yedlin own goal with three minutes left seeing them edge it 2–1.<ref>{{Cite web|url=https://www.premierleague.com/match/38334|title = Newcastle v Chelsea, 2018/19 |website=Premier League}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of August
+|res_col_header=Q
+
+|highest_pos = 1
+|team1=LIV|name_LIV=[[Liverpool F.C.|Liverpool]]
+|win_LIV=3|draw_LIV=0|loss_LIV=0|gf_LIV=7|ga_LIV=0
+|team2=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|win_TOT=3|draw_TOT=0|loss_TOT=0|gf_TOT=8|ga_TOT=2
+|team3=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=3|draw_CHL=0|loss_CHL=0|gf_CHL=8|ga_CHL=3
+|team4=WAT|name_WAT=[[Watford F.C.|Watford]]
+|win_WAT=3|draw_WAT=0|loss_WAT=0|gf_WAT=7|ga_WAT=2
+|team5=MCI|name_MCI=[[Manchester City F.C.|Manchester City]]
+|win_MCI=2|draw_MCI=1|loss_MCI=0|gf_MCI=9|ga_MCI=2
+
+|col_CLGS=green1|text_CLGS='''Qualification for the [[2019–20 UEFA Champions League#Group stage|Champions League group stage]]'''
+|result1=CLGS
+|result2=CLGS
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2019–20 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+===September===
+Chelsea began September by earning their fourth successive league win, courtesy of a 2–0 triumph over Bournemouth after goals from  Pedro and Hazard late on.<ref>{{Cite web|url=https://www.premierleague.com/match/38341|title = Chelsea v AFC Bournemouth, 2018/19 &#124; Premier League}}</ref> This was followed by a clash with Cardiff City, but Chelsea were silenced after a surprise early goal from Sol Bamba; however two goals in six minutes from Hazard ensured Chelsea took a 2–1 lead, before he completed his hat-trick ten minutes from time. A Willian goal soon afterwards sealed a 4–1 win.<ref>{{Cite web|url=https://www.premierleague.com/match/38349|title = Chelsea v Cardiff, 2018/19 &#124; Premier League}}</ref>
+This was followed by a trip to Greek outfit PAOK Salonika in the opening group stage contest of that season's UEFA Europa League, with Chelsea playing in the competition for the first time since winning it in 2013.<ref>{{Cite web|url=https://www.uefa.com/uefaeuropaleague/match/2010095--benfica-vs-chelsea/|title=Benfica-Chelsea &#124; UEFA Europa League 2012/13|website=[[UEFA]]|access-date=26 July 2022}}</ref> The Blues started off their campaign brightly, scoring after just seven minutes through Willian, but ultimately had to battle to a 1–0 win.<ref>{{Cite web|url=https://www.skysports.com/football/paok-snika-vs-chelsea/report/401937|title=PAOK 0-1 Chelsea: Willian scores winner in Europa League clash|website=Sky Sports|access-date=26 July 2022}}</ref> However, Chelsea dropped their first points of the campaign against a West Ham team that had been winless at home thus far that season.<ref>{{Cite web|url=https://www.skysports.com/west-ham-united-results/2018-19|title=West Ham United (Sky Sports)|website=Sky Sports|access-date=26 July 2022}}</ref> drawing 0–0.<ref>{{Cite web|url=https://www.skysports.com/football/west-ham-vs-chelsea/390816|title = West Ham 0-0 Chelsea: Maurizio Sarri's winning run ends at London Stadium}}</ref>
+Chelsea followed the point at the London Stadium with a League Cup third-round success at Liverpool. After falling behind on 56 minutes through Daniel Sturridge, Chelsea struck back through Emerson and Hazard to claim a 2–1 win.<ref>{{Cite web|url=https://www.skysports.com/football/liverpool-vs-chelsea/401814|title = Liverpool 1-2 Chelsea: Eden Hazard scores stunner in comeback}}</ref> They then faced a Reds side with a stronger team sheet at Stamford Bridge in the league, but were undone thanks to a late Sturridge stunner, and had to settle for a 1–1 draw.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-liverpool/390820|title = Chelsea 1-1 Liverpool: Daniel Sturridge scores superb equaliser|website=Sky Sports}}</ref> However, with Hazard having scored five league goals in the month, including the hat-trick against Cardiff, he was awarded with the Premier League Player of the Month for September 2018.<ref name="premierleague.com">{{Cite web|url=https://www.premierleague.com/stats/awards?se=210&aw=-1|title = Premier League Awards - Player, Manager & Goal of the Month|website=Premierleague.com}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of September
+|res_col_header=Q
+
+|highest_pos = 1
+|team1=MCI|name_MCI=[[Manchester City F.C.|Manchester City]]
+|win_MCI=6|draw_MCI=1|loss_MCI=0|gf_MCI=21|ga_MCI=3
+|team2=LIV|name_LIV=[[Liverpool F.C.|Liverpool]]
+|win_LIV=6|draw_LIV=1|loss_LIV=0|gf_LIV=14|ga_LIV=2
+|team3=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=5|draw_CHL=2|loss_CHL=0|gf_CHL=15|ga_CHL=5
+|team4=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|win_TOT=5|draw_TOT=0|loss_TOT=2|gf_TOT=14|ga_TOT=7
+|team5=ARS|name_ARS=[[Arsenal F.C.|Arsenal]]
+|win_ARS=5|draw_ARS=0|loss_ARS=2|gf_ARS=14|ga_ARS=9
+
+|col_CLGS=green1|text_CLGS='''Qualification for the [[2019–20 UEFA Champions League#Group stage|Champions League group stage]]'''
+|result1=CLGS
+|result2=CLGS
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2019–20 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+===October===
+October began with a narrow win over Hungarians MOL Vidi in the Europa League, with Morata scoring the game's only goal with twenty minutes to play.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-vidi/report/401950|title=Chelsea 1-0 MOL Vidi: Alvaro Morata volley secures unconvincing win|website=Sky Sports|access-date=26 July 2022}}</ref> Chelsea then turned on the style in a 3–0 league win at Southampton, with Ross Barkley scoring his first of the season in between Hazard and Morata goals.<ref>{{Cite news|url=https://www.skysports.com/football/soton-vs-chelsea/390834|title = Southampton 0-3 Chelsea: Ross Barkley finds form as Blues march on| newspaper=Sky Sports }}</ref> Next up, Jose Mourinho – who had won three Premier League titles with Chelsea – made his return to Stamford Bridge as manager of Manchester United,<ref>{{Cite web|url=https://www.premierleague.com/managers/2663/Jos%C3%A9-Mourinho/overview|title=José Mourinho Manager Profile, Record & Stats &#124; Premier League|website=Premierleague.com|access-date=26 July 2022}}</ref> who were eighth in the league and struggling.<ref>{{Cite web|url=https://www.premierleague.com/tables?co=1&se=210&ha=-1|title=Premier League Table, Form Guide & Season Archives|website=Premierleague.com|access-date=26 July 2022}}</ref> Chelsea took a 1–0 lead into half-time after a looping header from Antonio Rudiger, but a quickfire double from Anthony Martial in the second half put United in front; however, a 96th-minute equalizer from Ross Barkley kept Chelsea's unbeaten season intact.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-man-utd/report/390840|title=Chelsea 2-2 Manchester United: Last-gasp Ross Barkley goal saves Chelsea|website=Sky Sports|access-date=26 July 2022}}</ref>
+Chelsea maintained their perfect Europa League record after a hat-trick for Ruben Loftus-Cheek helped them to a 3–1 win over Belarusian BATE Borisov,<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-bate-borisov/401972|title = Chelsea 3-1 BATE Borisov: Ruben Loftus-Cheek hat-trick steers Blues to comfortable win}}</ref> before the young English forward scored his first league goal of the season to cap off a "commanding" 4–0 destruction of Burnley at Turf Moor.<ref>{{Cite web|url=https://www.skysports.com/football/burnley-vs-chelsea/report/390848|title=Burnley 0-4 Chelsea: Ross Barkley stars for Blues as they brush Clarets aside|website=Sky Sports|access-date=26 July 2022}}</ref> Chelsea then battled to a 3–2 home win over Derby County in the League Cup last 16, with all five goals coming in an eventful first half, with Fikayo Tomori and Cesc Fabregas (along with a Richard Keogh own goal) on target for the Blues.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-derby/402317|title = Chelsea 3-2 Derby: Cesc Fabregas scores winner against Frank Lampard's brave side}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of October
+|res_col_header=Q
+
+|highest_pos = 1
+|team1=MCI|name_MCI=[[Manchester City F.C.|Manchester City]]
+|win_MCI=8|draw_MCI=2|loss_MCI=0|gf_MCI=27|ga_MCI=3
+|team2=LIV|name_LIV=[[Liverpool F.C.|Liverpool]]
+|win_LIV=8|draw_LIV=2|loss_LIV=0|gf_LIV=19|ga_LIV=3
+|team3=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=7|draw_CHL=3|loss_CHL=0|gf_CHL=24|ga_CHL=7
+|team4=ARS|name_ARS=[[Arsenal F.C.|Arsenal]]
+|win_ARS=7|draw_ARS=1|loss_ARS=2|gf_ARS=24|ga_ARS=13
+|team5=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|win_TOT=7|draw_TOT=0|loss_TOT=3|gf_TOT=16|ga_TOT=8
+
+|col_CLGS=green1|text_CLGS='''Qualification for the [[2019–20 UEFA Champions League#Group stage|Champions League group stage]]'''
+|result1=CLGS
+|result2=CLGS
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2019–20 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+===November===
+Chelsea began November with a 3–1 home win over Crystal Palace, thanks largely to Morata's double.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-c-palace/390860|title = Chelsea 3-1 Crystal Palace: Alvaro Morata guides unbeaten Blues up to second}}</ref> A nervy 1–0 win at BATE followed, with Olivier Giroud scoring his first goal under Maurizio Sarri, sealing a spot in the last 32 of the Europa League.<ref>{{Cite web|url=https://www.skysports.com/football/bate-borisov-vs-chelsea/401997|title = BATE 0-1 Chelsea: Olivier Giroud's first goal of the season puts Blues through in Europa League}}</ref> Afterwards, Chelsea extended their unbeaten run of the campaign to eighteen matches after a goalless draw at home with Everton.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-everton/report/390869|title=Chelsea 0-0 Everton: Blues dominate but fail to beat Jordan Pickford|website=Sky Sports|access-date=26 July 2022}}</ref> However, their unbeaten record under Sarri was halted at that figure, with several defensive lapses seeing them fall to a 3–1 loss at Tottenham.<ref>{{Cite web|url=https://www.skysports.com/football/tottenham-vs-chelsea/390883|title = Tottenham 3-1 Chelsea: Maurizio Sarri's unbeaten start ended}}</ref> Chelsea, however, recovered well by securing top spot in their Europa League group with a dominant 4–0 win over PAOK Salonika, with Giroud scoring twice and Callum Hudson-Odoi getting his first senior goal in a convincing display to cap off November.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-paok-snika/report/402022|title=Chelsea 4-0 PAOK: Callum Hudson-Odoi nets first senior goal in easy win|website=Sky Sports|access-date=26 July 2022}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of November
+|res_col_header=Q
+
+|highest_pos = 2
+|team2=LIV|name_LIV=[[Liverpool F.C.|Liverpool]]
+|win_LIV=10|draw_LIV=3|loss_LIV=0|gf_LIV=25|ga_LIV=4
+|team3=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|win_TOT=10|draw_TOT=0|loss_TOT=3|gf_TOT=23|ga_TOT=11
+|team4=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=8|draw_CHL=4|loss_CHL=1|gf_CHL=28|ga_CHL=11
+|team5=ARS|name_ARS=[[Arsenal F.C.|Arsenal]]
+|win_ARS=8|draw_ARS=3|loss_ARS=2|gf_ARS=28|ga_ARS=16
+|team6=EVE|name_EVE=[[Everton F.C.|Everton]]
+|win_EVE=6|draw_EVE=4|loss_EVE=3|gf_EVE=20|ga_EVE=15
+
+|col_CLGS=green1|text_CLGS='''Qualification for the [[2019–20 UEFA Champions League#Group stage|Champions League group stage]]'''
+|result2=CLGS
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2019–20 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+===December===
+Chelsea began December with a routine 2–0 home win over Fulham, thanks to goals from Pedro and Loftus-Cheek.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-fulham/390889|title = Chelsea 2-0 Fulham: Pedro, Ruben Loftus-Cheek seal easy victory on Claudio Ranieri's return}}</ref> before losing for just the second time that season, away to Wolves. After Ruben Loftus-Cheek gave Chelsea a first-half lead, the hosts struck back with second-half goals from Raul Jiminez and Diogo Jota to claim a 2–1 win.<ref>{{Cite web|url=https://www.skysports.com/football/wolves-vs-chelsea/390904|title = Wolves 2-1 Chelsea: Hosts end run of six games without victory}}</ref> Chelsea were underdogs heading into a clash against a Manchester City team who had not lost domestically since April.<ref>{{Cite web|url=https://www.skysports.com/manchester-city-results/2017-18|title=Manchester City (Sky Sports)|website=Sky Sports|access-date=26 July 2022}}</ref> However, despite being outplayed for large periods of the contest, a rocket-shot from Kante and a looping header from David Luiz sealed a memorable 2–0 win to ensure Chelsea's return to the top four.<ref name="skysports.com">{{Cite web|url=https://www.skysports.com/football/chelsea-vs-man-city/390911|title = Chelsea 2-0 Manchester City: Pep Guardiola's men lose unbeaten run at Stamford Bridge}}</ref> Chelsea then completed their Europa League group campaign with a 2–2 draw away to MOL Vidi. After going ahead through Willian, an Ethan Ampadu own goal and Loic Nego's sweet volley put the home side ahead, before a late leveller from Giroud sealed a point.<ref>{{Cite web|url=https://www.skysports.com/football/vidi-vs-chelsea/report/402054|title=MOL Vidi 2-2 Chelsea: Blues lose perfect Europa League record in Hungary|website=Sky Sports|access-date=26 July 2022}}</ref>
+After first-half goals from Pedro and Hazard helped Chelsea battle past a resilient Brighton team,<ref>{{Cite web|url=https://www.skysports.com/football/brighton-vs-chelsea/390917|title = Brighton 1-2 Chelsea: Eden Hazard the difference as Blues hold on for victory}}</ref> Maurizio Sarri's team set up a League Cup semi-final with London rivals Tottenham after scraping past Bournemouth 1–0 in the quarter-finals.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-bmouth/402810|title = Chelsea 1-0 Bournemouth: Eden Hazard sends Blues into Carabao Cup semi-finals}}</ref> However, this was followed by a frustrating home defeat to Leicester City, with the Foxes becoming the first team to win at Stamford Bridge all year thanks to Jamie Vardy's 51st-minute effort.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-leicester/390930|title = Chelsea 0-1 Leicester: Jamie Vardy secures victory}}</ref> After goals from either side in first-half stoppage-time, Eden Hazard's penalty won the day at Watford,<ref>{{Cite web|url=https://www.skysports.com/football/watford-vs-chelsea/report/390946|title=Watford 1-2 Chelsea: Eden Hazard double earns Blues victory|website=Sky Sports|access-date=26 July 2022}}</ref> before 2018 ended on a high for Chelsea after N'Golo Kante scored the only goal at Selhurst Park against Crystal Palace.<ref>{{Cite web|url=https://www.skysports.com/football/c-palace-vs-chelsea/390949|title = Crystal Palace 0-1 Chelsea: N'Golo Kante strike boosts Blues}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of December
+|res_col_header=Q
+
+|highest_pos = 2
+|team2=MCI|name_MCI=[[Manchester City F.C.|Manchester City]]
+|win_MCI=15|draw_MCI=2|loss_MCI=3|gf_MCI=52|ga_MCI=14
+|team3=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|win_TOT=15|draw_TOT=0|loss_TOT=5|gf_TOT=43|ga_TOT=21
+|team4=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=13|draw_CHL=4|loss_CHL=3|gf_CHL=38|ga_CHL=16
+|team5=ARS|name_ARS=[[Arsenal F.C.|Arsenal]]
+|win_ARS=11|draw_ARS=5|loss_ARS=4|gf_ARS=42|ga_ARS=30
+|team6=MUN|name_MUN=[[Manchester United F.C.|Manchester United]]
+|win_MUN=10|draw_MUN=5|loss_MUN=5|gf_MUN=41|ga_MUN=32
+
+|col_CLGS=green1|text_CLGS='''Qualification for the [[2019–20 UEFA Champions League#Group stage|Champions League group stage]]'''
+|result2=CLGS
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2019–20 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+===January===
+A disappointing goalless draw at home with Southampton was not the best way possible to start the new year,<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-soton/390960|title = Chelsea 0-0 Southampton: Maurizio Sarri's side held at home}}</ref> but Chelsea soon secured their first win of 2019 after beating Nottingham Forest 2–0 in the FA Cup third round.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-n-forest/403463|title = Chelsea 2-0 Nottingham Forest: Alvaro Morata scores twice in Cesc Fabregas' farewell game}}</ref> However, a 1–0 reverse to Tottenham in the first leg of the League Cup semi-final followed,<ref>{{Cite web|url=https://www.skysports.com/football/tottenham-vs-chelsea/403992|title = Tottenham 1-0 Chelsea: Harry Kane scores penalty winner via VAR intervention}}</ref> before goals from Pedro and Willian earned a 2–1 victory over Newcastle United.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-newcastle/390970|title = Chelsea 2-1 Newcastle: Willian's strike seals Blues victory}}</ref>
+Chelsea (in fourth) had the gap to fifth closed to three points after Arsenal won 2–0 in a one-sided London derby,<ref>{{Cite web|url=https://www.skysports.com/football/arsenal-vs-chelsea/report/390977|title=Arsenal 2-0 Chelsea: Alexandre Lacazette and Laurent Koscielny goals give Gunners win|website=Sky Sports|access-date=26 July 2022}}</ref> before beating Tottenham 4–2 on penalties after winning 2–1 in the second leg of the League Cup semi-final,<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-tottenham/403994|title = Chelsea 2-1 Tottenham (2-2 on agg, 4-2 on pens): Blues reach Carabao Cup final}}</ref> to set up a final against holders Manchester City. They then strolled to a 3–0 win over Sheffield Wednesday in the FA Cup fourth round,<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-sheff-wed/405005|title = Chelsea 3-0 Sheffield Wednesday: Callum Hudson-Odoi scores as Blues reach FA Cup fifth round}}</ref> before falling out of the top four after suffering a 4–0 league reverse at Bournemouth.<ref>{{Cite web|url=https://www.skysports.com/football/bmouth-vs-chelsea/390988|title = Bournemouth 4-0 Chelsea: Joshua King scores twice as Blues suffer heavy loss}}</ref>
+
+Chelsea only signed two players in January; the first was Juventus` Argentine forward Gonzalo Higuain, who arrived on loan for the remainder of the season, with an option to buy at the end.<ref>{{Cite web|url=https://www.chelseafc.com/en/news/2019/1/23/gonzalo-higuain-completes-loan-transfer-to-chelsea|title = Gonzalo Higuain completes loan transfer to Chelsea &#124; Official Site &#124; Chelsea Football Club}}</ref> The second was young American prospect Christian Pulisic, who signed from Borussia Dortmund, though was sent back on loan to Germany for the remainder of the campaign.<ref>{{Cite news|url=https://www.chelseafc.com/en/news/2019/1/2/pulisic-transfer-agreed|title=Pulisic transfer agreed &#124; Official Site &#124; Chelsea Football Club|newspaper=Chelseafc }}</ref> A host of players departed on loan,<ref name="ReferenceA">{{Cite web|url=https://www.premierleague.com/transfers/january/2019|title = January 2019 Premier League transfers - Latest Transfer Window News}}</ref> among them Alvaro Morata to Spaniards Atletico Madrid and Michy Batshuayi to Fenerbahce.<ref>{{Cite web|url=https://www.chelseafc.com/en/news/2019/1/26/morata-moves-to-atletico-madrid-on-loan|title = Morata moves to Atletico Madrid on loan &#124; Official Site &#124; Chelsea Football Club}}</ref><ref>{{Cite web|url=https://www.chelseafc.com/en/news/2019/1/25-/victor-moses-completes-fenerbahce-loan-move|title = Victor Moses completes Fenerbahce loan move &#124; Official Site &#124; Chelsea Football Club}}</ref> Five players also departed permanently, most notably Cesc Fabregas, who joined French side AS Monaco.<ref name="ReferenceA"/>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of January
+|res_col_header=Q
+
+|highest_pos = 3
+|team3=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|win_TOT=18|draw_TOT=0|loss_TOT=6|gf_TOT=50|ga_TOT=24
+|team4=ARS|name_ARS=[[Arsenal F.C.|Arsenal]]
+|win_ARS=14|draw_ARS=5|loss_ARS=5|gf_ARS=50|ga_ARS=33
+|team5=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=14|draw_CHL=5|loss_CHL=5|gf_CHL=40|ga_CHL=23
+|team6=MUN|name_MUN=[[Manchester United F.C.|Manchester United]]
+|win_MUN=13|draw_MUN=6|loss_MUN=5|gf_MUN=48|ga_MUN=35
+|team7=WOL|name_WOL=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|win_WOL=10|draw_WOL=5|loss_WOL=9|gf_WOL=31|ga_WOL=32
+
+|col_CLGS=green1|text_CLGS=Qualification for the [[2019–20 UEFA Champions League#Group stage|Champions League group stage]]
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS='''Qualification for the [[2019–20 UEFA Europa League#Group stage|Europa League group stage]]'''
+|result5=ELGS
+|update=complete|source=
+}}
+
+===February===
+Chelsea returned to fourth after walloping Huddersfield Town 5–0 in the Premier League, with January signing Gonzalo Higuain scoring twice on his home debut.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-huddsfld/391000|title = Chelsea 5-0 Huddersfield: Gonzalo Higuain, Eden Hazard star in win}}</ref> However, Chelsea's flaws were exposed after being beaten 6–0 at Manchester City, in their heaviest league defeat since 1992, when they lost 7–0 to Nottingham Forest.<ref>{{Cite web|url=https://www.skysports.com/football/man-city-vs-chelsea/391012|title = Man City 6-0 Chelsea: Sergio Aguero scores another hat-trick as reigning champions hit six of the best}}</ref>
+After the City drubbing, Chelsea earned a 2–1 win away to Swedish outfit Malmo FF in the first leg of the Europa League last 32.<ref>{{Cite web|url=https://www.skysports.com/football/malmo-ff-vs-chelsea/403939|title = Malmo 1-2 Chelsea: Ross Barkley scores first European goal in Europa League last-32 first leg}}</ref> An FA Cup exit to Manchester United was followed by the second leg,<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-man-utd/report/405684|title=Chelsea 0-2 Man Utd: Paul Pogba and Ander Herrera goals send United to quarter-finals|website=Sky Sports|access-date=26 July 2022}}</ref> which Chelsea won 3–0 to secure passage to the last 16.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-malmo-ff/403952|title = Chelsea 3-0 Malmo (5-1 aggregate): Maurizio Sarri's side ease into Europa League last 16}}</ref>
+Chelsea then faced Manchester City in the League Cup final, and put in a solid defensive display to draw 0–0. In extra-time, however, manager Sarri attempted to call goalkeeper Kepa Arrizabalaga off, but the Spanish stopper refused to be substituted,<ref>{{Cite news|url=https://www.theguardian.com/football/video/2019/feb/25/kepa-substitution-row-a-misunderstanding-chelsea-manager-maurizio-sarri-says-video|title = Chelsea's Maurizio Sarri: Kepa substitution row a 'misunderstanding' – video|newspaper = The Guardian|date = 25 February 2019}}</ref> and City went on to win 4–3 on penalties.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-man-city/405627|title = Chelsea 0-0 Manchester City (AET - 3-4 on pens): Pep Guardiola's side retain Carabao Cup}}</ref> Chelsea ended February with a critical home match against Tottenham in the league. After taking the lead through Pedro, Chelsea won 2–0 after a Kieran Trippier backpass rolled into his own net.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-tottenham/391032|title = Chelsea 2-0 Tottenham: Pedro and Kieran Trippier own goal give Maurizio Sarri's side fine win}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of February
+|res_col_header=Q
+
+|highest_pos = 4
+|team4=ARS|name_ARS=[[Arsenal F.C.|Arsenal]]
+|win_ARS=17|draw_ARS=5|loss_ARS=6|gf_ARS=60|ga_ARS=38
+|team5=MUN|name_MUN=[[Manchester United F.C.|Manchester United]]
+|win_MUN=16|draw_MUN=7|loss_MUN=5|gf_MUN=55|ga_MUN=36
+|team6=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=16|draw_CHL=5|loss_CHL=6|gf_CHL=47|ga_CHL=29
+|team7=WOL|name_WOL=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|win_WOL=11|draw_WOL=7|loss_WOL=10|gf_WOL=36|ga_WOL=36
+|team8=WAT|name_WAT=[[Watford F.C.|Watford]]
+|win_WAT=11|draw_WAT=7|loss_WAT=10|gf_WAT=39|ga_WAT=40
+
+|col_CLGS=green1|text_CLGS=Qualification for the [[2019–20 UEFA Champions League#Group stage|Champions League group stage]]
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2019–20 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+===March===
+March began with Higuain scoring his first away goal for Chelsea in a narrow 2–1 success at Fulham,<ref>{{Cite web|url=https://www.skysports.com/football/fulham-vs-chelsea/391041|title = Fulham 1-2 Chelsea: Gonzalo Higuain and Jorginho secure victory}}</ref> before goals from Pedro, Willian and Hudson-Odoi ensured a 3–0 first leg win over Dynamo Kyiv in the last 16 of the Europa League.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-dynamo-kiev/406351|title = Chelsea 3-0 Dynamo Kiev: Blues put one foot in quarter-finals with convincing win}}</ref> A stoppage-time equalizer from Eden Hazard earned them a point against Wolves,<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-wolves/391049|title = Chelsea 1-1 Wolves: Eden Hazard scores injury-time equaliser}}</ref> before Olivier Giroud's first Chelsea hat-trick ensured a memorable 5–0 win away to Dynamo Kyiv, and an 8–0 aggregate victory.<ref>{{Cite web|url=https://www.skysports.com/football/dynamo-kiev-vs-chelsea/406359|title = Dynamo Kiev 0-5 Chelsea (Agg: 0-8): Olivier Giroud nets perfect hat-trick in comfortable win}}</ref>
+A 2–0 league loss to Everton further dented Chelsea's Champions League qualification hopes,<ref>{{Cite web|url=https://www.skysports.com/football/everton-vs-chelsea/report/391060|title=Everton 2-0 Chelsea: Toffees dent Blues top-four hopes|website=Sky Sports|access-date=26 July 2022}}</ref> before March ended with a controversial win at Cardiff City,<ref name="ReferenceB">{{Cite web|url=https://www.skysports.com/football/cardiff-vs-chelsea/report/391070|title=Cardiff 1-2 Chelsea: Ruben Loftus-Cheek seals comeback win over unlucky Bluebirds|website=Sky Sports|access-date=26 July 2022}}</ref> with Cesar Azpilicueta scoring from an offside position and Cardiff having at least "two good penalty shouts."<ref name="ReferenceB"/> waved away.
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of March
+|res_col_header=Q
+
+|highest_pos = 4
+|team4=MUN|name_MUN=[[Manchester United F.C.|Manchester United]]
+|win_MUN=18|draw_MUN=7|loss_MUN=6|gf_MUN=60|ga_MUN=41
+|team5=ARS|name_ARS=[[Arsenal F.C.|Arsenal]]
+|win_ARS=18|draw_ARS=6|loss_ARS=6|gf_ARS=63|ga_ARS=39
+|team6=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=18|draw_CHL=6|loss_CHL=7|gf_CHL=52|ga_CHL=34
+|team7=WOL|name_WOL=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|win_WOL=12|draw_WOL=8|loss_WOL=11|gf_WOL=39|ga_WOL=39
+|team8=LEI|name_LEI=[[Leicester City F.C.|Leicester City]]
+|win_LEI=13|draw_LEI=5|loss_LEI=14|gf_LEI=42|ga_LEI=43
+
+|col_CLGS=green1|text_CLGS=Qualification for the [[2019–20 UEFA Champions League#Group stage|Champions League group stage]]
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2019–20 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|update=complete|source=
+}}
+
+===April===
+Chelsea maintained their 100% league record against Brighton with a 3–0 victory at Stamford Bridge that lifted them to fifth.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-brighton/391021|title = Chelsea 3-0 Brighton: Callum Hudson-Odoi impresses as Blues go fifth}}</ref> Eden Hazard scored what would win the Premier League goal of the Month for April with a fantastic solo effort as the forward netted a brace in the 2–0 win over West Ham United.<ref name="premierleague.com"/><ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-west-ham/391078|title = Chelsea 2-0 West Ham: Eden Hazard shines to send Blues third in Premier League}}</ref> A late Marcos Alonso header earned Chelsea a 1–0 away win in the first leg of the Europa League quarter-finals against Czech Slavia Prague,<ref>{{Cite web|url=https://www.skysports.com/football/slavia-prague-vs-chelsea/report/406469|title=Slavia Prague 0-1 Chelsea: Late Marcos Alonso goal gives Blues victory|website=Sky Sports|access-date=26 July 2022}}</ref> before second-half goals from Sadio Mane and Mohamed Salah saw Chelsea lose 2–0 at Liverpool in the league.<ref>{{Cite web|url=https://www.skysports.com/football/liverpool-vs-chelsea/391092|title = Liverpool 2-0 Chelsea: Mohamed Salah stunner sends Reds top}}</ref> However, they followed this up with a thrilling 4–3 win against Slavia Prague in the return quarter-final leg of the Europa League, with Chelsea leading 4–1 after 27 minutes.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-slavia-prague/report/406471|title=Chelsea 4-3 Slavia Prague (Agg: 5-3) Pedro scores twice in seven-goal thriller|website=Sky Sports|access-date=26 July 2022}}</ref>
+Chelsea then drew with Burnley 2–2, as Kante scored his first goal of 2019 and Higuain adding his fourth for the club. All four goals came in a thrilling opening 24 minutes,<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-burnley/report/391100|title=Chelsea 2-2 Burnley: Blues miss opportunity to go third after entertaining draw|website=Sky Sports|access-date=26 July 2022}}</ref> before April finished with Alonso cancelling out Juan Mata's opener in a 1–1 draw away with Manchester United.<ref>{{Cite web|url=https://www.skysports.com/football/man-utd-vs-chelsea/report/391113|title=Man Utd 1-1 Chelsea: David de Gea howler gives Chelsea advantage in top-four chase|website=Sky Sports|access-date=26 July 2022}}</ref>
+
+{{#invoke:sports table|main|style=WDL
+|title=Position at the end of April
+|res_col_header=Q
+
+|highest_pos = 2
+|team2=LIV|name_LIV=[[Liverpool F.C.|Liverpool]]
+|win_LIV=28|draw_LIV=7|loss_LIV=1|gf_LIV=83|ga_LIV=19
+|team3=TOT|name_TOT=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|win_TOT=23|draw_TOT=1|loss_TOT=12|gf_TOT=65|ga_TOT=36
+|team4=CHL|name_CHL='''[[Chelsea F.C.|Chelsea]]'''
+|win_CHL=20|draw_CHL=8|loss_CHL=8|gf_CHL=59|ga_CHL=38
+|team5=ARS|name_ARS=[[Arsenal F.C.|Arsenal]]
+|win_ARS=20|draw_ARS=6|loss_ARS=10|gf_ARS=69|ga_ARS=49
+|team6=MUN|name_MUN=[[Manchester United F.C.|Manchester United]]
+|win_MUN=19|draw_MUN=8|loss_MUN=9|gf_MUN=64|ga_MUN=51
+
+|status_LIV = Q
+|status_CHL = T
+|status_TOT = T
+|status_ARS = T
+|status_MUN = T
+
+|col_CLGS=green1|text_CLGS= '''Qualification for the [[2019–20 UEFA Champions League#Group stage|Champions League group stage]]'''
+|result2=CLGS
+|result3=CLGS
+|result4=CLGS
+|col_ELGS=blue1|text_ELGS=Qualification for the [[2019–20 UEFA Europa League#Group stage|Europa League group stage]]
+|result5=ELGS
+|col_ELSQR=blue2|text_ELSQR=Qualification for the [[2019–20 UEFA Europa League#Second qualifying round|Europa League second qualifying round]]
+|result6=ELSQR
+|update=complete|source=
+}}
+
+===May===
+May began with a tense 1–1 draw away to German Eintracht Frankfurt in the first leg of the Europa League semi-final, with Pedro lashing home an equalizer just before half-time.<ref>{{Cite web|url=https://www.skysports.com/football/frankfurt-vs-chelsea/406476|title = Eintracht Frankfurt 1-1 Chelsea: Pedro scores vital away goal in Europa League semi-final}}</ref> Chelsea then secured a top-four finish for the first time since 2017, after second-half goals from Ruben Loftus-Cheek, David Luiz and Gonzalo Higuain earned a 3–0 home win against Watford.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-watford/report/391120|title=Chelsea 3-0 Watford: Blues secure Champions League qualification|website=Sky Sports|access-date=26 July 2022}}</ref> Chelsea then faced Frankfurt in the second leg of the Europa League semi-final and, after taking the lead through Loftus-Cheek, were forced into extra-time after a second-half goal from Luka Jovic. Cesar Azpilicueta had a goal disallowed for a foul on goalie Trapp in the build-up, before Eden Hazard scored the winning penalty in the shootout to send Chelsea to meet Arsenal's 7–3 aggregate winners over Valencia in the final in Baku, Azerbaijan.<ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-frankfurt/406478|title = Chelsea 1-1 Eintracht Frankfurt (Agg: 2-2, 4-3 on pens) Kepa Arrizabalaga sends Blues to Europa League final}}</ref><ref>{{Cite web|url=https://www.arsenal.com/fixture/arsenal/2019-May-09/valencia-2-4-arsenal-match-report|title = Valencia 2-4 Arsenal (3-7 agg): How it happened | date=9 May 2019 }}</ref><ref>{{Cite web|url=https://www.skysports.com/football/news/11095/11676583/when-is-the-europa-league-final|title = When is the Europa League final?}}</ref>
+Chelsea's final day draw at Leicester secured a third-place league finish,<ref>{{Cite web|url=https://www.skysports.com/football/leicester-vs-chelsea/391131|title = Leicester 0-0 Chelsea: Finishing costs both sides in goalless draw}}</ref> with Chelsea having amassed 72 points from a possible 114.<ref>{{Cite web|url=https://www.skysports.com/premier-league-table/2018|title=Premier League (Sky Sports)|website=Sky Sports|access-date=26 July 2022}}</ref> Chelsea collected one individual award for the league campaign, with Eden Hazards 15 assists enough to earn him the Premier League Playmaker Award for the most assists,<ref>{{Cite web|url=http://www.premierleague.com/news/1215978|title=Hazard wins 2018/19 Premier League Playmaker of the Season Award|website=Premierleague.com|date=12 May 2019 |access-date=26 July 2022}}</ref> whilst also collecting the Chelsea Player of the Year, Players` Player of the Year and Goal of the Year.<ref>{{Cite web|url=https://www.chelseafc.com/en/news/2019/05/27/eden-hazard-wins-pfa-fans--player-of-the-year-award|title=EDEN HAZARD WINS PFA FANS' PLAYER OF THE YEAR AWARD &#124; Official Site &#124; Chelsea Football Club|access-date=26 July 2022}}</ref>
+After a 3–0 win away to New England Revolution in a warm-up friendly,<ref>{{Cite web|url=https://www.skysports.com/football/ne-revolution-vs-chelsea/stats/406415|title=Friendly Match (Sky Sports)|website=Sky Sports|access-date=26 July 2022}}</ref> Chelsea faced Arsenal in the UEFA Europa League final. After a tense first half of few openings, Olivier Giroud nodded Chelsea in front on 49 minutes,<ref name="youtube.com">{{Cite web|url=https://www.youtube.com/watch?v=16fOPqI2T_o|title = - YouTube|website = [[YouTube]]}}</ref> and the team soon were ahead 2–0 after Pedro swept home on the hour mark.<ref name="youtube.com"/> Hazard made it 3–0 from the spot before Alex Iwobi pulled on back for Arsenal;<ref name="youtube.com"/> however, a second from Hazard sealed the game ensured a 4–1 win as Chelsea won the Europa League for the second time in their history.This was no thanks to Giroud who was carried by Hazard<ref name="youtube.com"/><ref>{{Cite web|url=https://www.skysports.com/football/chelsea-vs-arsenal/report/407117|title=Chelsea 4-1 Arsenal: Eden Hazard scores twice in Europa League final|website=Sky Sports|access-date=26 July 2022}}</ref>
+
+====Final league position====
+{{:2018-19 Premier League|showteam=CHE}}
+
+==Management team==
+{| class="wikitable" style="text-align:center;width:50%;"
+|-
+! style=background:#034694;color:#FFFFFF| Position
+! style=background:#034694;color:#FFFFFF| Name
+|-
+| Head coach
+|align=left| {{flagicon|ITA}} [[Maurizio Sarri]]
+|-
+|rowspan=3| Assistant coaches
+|align=left| {{flagicon|ITA}} [[Gianfranco Zola]]
+|-
+|align=left| {{flagicon|ITA}} [[Luca Gotti]]
+|-
+|align=left| {{flagicon|ITA}} [[Carlo Cudicini]]
+|-
+| Second assistant coach
+|align=left| {{flagicon|ITA}} Marco Ianni
+|-
+|rowspan=2| Goalkeeper coaches
+|align=left| {{flagicon|ITA}} Massimo Nenci
+|-
+|align=left| {{flagicon|POR}} [[Henrique Hilário]]
+|-
+| Fitness coach
+|align=left| {{flagicon|ITA}} Paolo Bertelli
+|-
+|rowspan=2| Assistant fitness coaches
+|align=left| {{flagicon|ITA}} Davide Ranzato
+|-
+|align=left| {{flagicon|ITA}} Davide Losi
+|-
+| Scout
+|align=left| {{flagicon|ITA}} Gianni Picchioni
+|}
+
+==Players==
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| Nationality
+! style=background-color:#034694;color:#FFFFFF| Date of birth (age)
+! style=background-color:#034694;color:#FFFFFF| Since
+! style=background-color:#034694;color:#FFFFFF| Ends
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+|-
+| 1
+| GK
+| [[Kepa Arrizabalaga]]
+| {{flagicon|ESP}}
+| {{Birth date and age2|df=yes|2019|06|30|1994|10|03}}
+| 2018
+| 2025
+| 54
+| 0
+|-
+| 2
+| DF
+| [[Antonio Rüdiger]]
+| {{flagicon|GER}}
+| {{Birth date and age2|df=yes|2019|06|30|1993|03|03}}
+| 2017
+| 2022
+| 89
+| 4
+|-
+| 3
+| DF
+| [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+| {{flagicon|ESP}}
+| {{Birth date and age2|df=yes|2019|06|30|1990|12|28}}
+| 2016
+| 2023
+| 120
+| 18
+|-
+| 5
+| MF
+| [[Jorginho (footballer, born December 1991)|Jorginho]]
+| {{flagicon|ITA}}
+| {{Birth date and age2|df=yes|2019|06|30|1991|12|20}}
+| 2018
+| 2023
+| 54
+| 2
+|-
+| 6
+| MF
+| [[Danny Drinkwater]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2019|06|30|1990|03|05}}
+| 2017
+| 2022
+| 23
+| 1
+|-
+| 7
+| MF
+| [[N'Golo Kanté]]
+| {{flagicon|FRA}}
+| {{Birth date and age2|df=yes|2019|06|30|1991|03|29}}
+| 2016
+| 2023
+| 142
+| 8
+|-
+| 8
+| MF
+| [[Ross Barkley]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2019|06|30|1993|12|05}}
+| 2018
+| 2023
+| 52
+| 5
+|-
+| 9
+| FW
+| [[Gonzalo Higuaín]]
+| {{flagicon|ARG}}
+| {{Birth date and age2|df=yes|2019|06|30|1987|12|10}}
+| 2019
+| 2019
+| 18
+| 5
+|-
+| 10
+| MF
+| [[Eden Hazard]]
+| {{flagicon|BEL}}
+| {{Birth date and age2|df=yes|2019|06|30|1991|01|07}}
+| 2012
+| 2020
+| 352
+| 110
+|-
+| 11
+| MF
+| [[Pedro (footballer, born 1987)|Pedro]]
+| {{flagicon|ESP}}
+| {{Birth date and age2|df=yes|2019|06|30|1987|07|28}}
+| 2015
+| 2020
+| 183
+| 41
+|-
+| 12
+| MF
+| [[Ruben Loftus-Cheek]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2019|06|30|1996|01|23}}
+| 2014
+| 2021
+| 72
+| 12
+|-
+| 13
+| GK
+| [[Willy Caballero]]
+| {{flagicon|ARG}}
+| {{Birth date and age2|df=yes|2019|06|30|1981|09|28}}
+| 2017
+| 2020
+| 22
+| 0
+|-
+| 17
+| MF
+| [[Mateo Kovačić]]
+| {{flagicon|CRO}}
+| {{Birth date and age2|df=yes|2019|06|30|1994|05|06}}
+| 2018
+| 2019
+| 51
+| 0
+|-
+| 18
+| FW
+| [[Olivier Giroud]]
+| {{flagicon|FRA}}
+| {{Birth date and age2|df=yes|2019|06|30|1986|09|30}}
+| 2018
+| 2020
+| 63
+| 18
+|-
+| 20
+| MF
+| [[Callum Hudson-Odoi]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2019|06|30|2000|11|07}}
+| 2017
+| 2020
+| 28
+| 5
+|-
+| 21
+| DF
+| [[Davide Zappacosta]]
+| {{flagicon|ITA}}
+| {{Birth date and age2|df=yes|2019|06|30|1992|06|11}}
+| 2017
+| 2021
+| 52
+| 2
+|-
+| 22
+| MF
+| [[Willian (footballer, born 1988)|Willian]]
+| {{flagicon|BRA}}
+| {{Birth date and age2|df=yes|2019|06|30|1988|08|09}}
+| 2013
+| 2020
+| 292
+| 52
+|-
+| 24
+| DF
+| [[Gary Cahill]] <sup>'''(C)'''</sup>
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2019|06|30|1985|12|19}}
+| 2012
+| 2019
+| 290
+| 25
+|-
+| 27
+| DF
+| [[Andreas Christensen]]
+| {{flagicon|DEN}}
+| {{Birth date and age2|df=yes|2019|06|30|1996|04|10}}
+| 2012
+| 2022
+| 72
+| 0
+|-
+| 28
+| DF
+| [[César Azpilicueta]] <sup>'''(VC)'''</sup>
+| {{flagicon|ESP}}
+| {{Birth date and age2|df=yes|2019|06|30|1989|08|28}}
+| 2012
+| 2022
+| 337
+| 9
+|-
+| 30
+| DF
+| [[David Luiz]]
+| {{flagicon|BRA}}
+| {{Birth date and age2|df=yes|2019|06|30|1987|04|22}}
+| 2016
+| 2021
+| 248
+| 18
+|-
+| 31
+| GK
+| [[Robert Green]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2019|06|30|1980|01|18}}
+| 2018
+| 2019
+| 0
+| 0
+|-
+| 33
+| DF
+| [[Emerson Palmieri|Emerson]]
+| {{flagicon|ITA}}
+| {{Birth date and age2|df=yes|2019|06|30|1994|08|03}}
+| 2018
+| 2022
+| 34
+| 1
+|-
+| 44
+| DF
+| [[Ethan Ampadu]]
+| {{flagicon|WAL}}
+| {{Birth date and age2|df=yes|2019|06|30|2000|09|14}}
+| 2017
+| 2023
+| 12
+| 0
+|-
+| 51
+| MF
+| [[Conor Gallagher]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2019|06|30|2000|02|06}}
+| 2019
+| 2021
+| 0
+| 0
+|-
+| 52
+| GK
+| [[Jamie Cumming]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2019|06|30|1999|09|04}}
+| 2018
+| 2021
+| 0
+| 0
+|-
+| 53
+| DF
+| [[Marc Guehi]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2019|06|30|2000|07|13}}
+| 2019
+| 2020
+| 0
+| 0
+|-
+| 55
+| MF
+| [[George McEachran]]
+| {{flagicon|ENG}}
+| {{Birth date and age2|df=yes|2019|06|30|2000|08|30}}
+| 2018
+| 2019
+| 0
+| 0
+|-
+| 59
+| GK
+| [[Marcin Bułka]]
+| {{flagicon|POL}}
+| {{Birth date and age2|df=yes|2019|06|30|1999|10|04}}
+| 2018
+| 2019
+| 0
+| 0
+|}
+{{Fb rs footer|u=30 June 2019|s=[https://www.chelseafc.com/en/teams/first-team Chelsea F.C.]|date=June 2019}}
+
+==New contracts==
+{| class="wikitable" style="text-align:center;width:75%;"
+|-
+! style=background:#034694;color:#FFFFFF| No.
+! style=background:#034694;color:#FFFFFF| Pos.
+! style=background:#034694;color:#FFFFFF| Player
+! style=background:#034694;color:#FFFFFF| Date
+! style=background:#034694;color:#FFFFFF| Until
+! style=background:#034694;color:#FFFFFF| Source
+|-
+| 46
+| MF
+|align=left| {{flagicon|SCO}} [[Ruben Sammut]]
+| 19 June 2018
+| 30 June 2019
+| <ref name="Sammut">{{Cite web|title=Young midfielder moves on loan|url=https://www.chelseafc.com/en/news/2018/6/19/young-midfielder-moves-on-loan|website=chelseafc.com|date=19 June 2018}}</ref>
+|-
+| 64
+| DF
+|align=left| {{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]]
+| 27 June 2018
+| 30 June 2022
+| <ref name="James">{{Cite web|title=New contract for defender heading north|url=https://www.chelseafc.com/en/news/2018/6/27/new-contract-for-young-defender-heading-north|website=chelseafc.com|date=27 June 2018}}</ref>
+|-
+| 58
+| FW
+|align=left| {{flagicon|NED}} [[Daishawn Redan]]
+| 4 July 2018
+| 30 June 2021
+| <ref name="Redan">{{Cite web|title=Introducing the 2018/19 academy scholars|url=https://www.chelseafc.com/en/news/2018/7/4/introducing-the-2018-19-academy-scholars|website=chelseafc.com|date=4 July 2018}}</ref>
+|-
+| 60
+| MF
+|align=left| {{flagicon|SCO}} [[Billy Gilmour (footballer)|Billy Gilmour]]
+| 4 July 2018
+| 30 June 2021
+| <ref name="Redan"/>
+|-
+| 66
+| GK
+|align=left| {{flagicon|CIV}} Nicolas Tie
+| 4 July 2018
+| 30 June 2021
+| <ref name="Redan"/>
+|-
+| 63
+| GK
+|align=left| {{flagicon|CRO}} Karlo Žiger
+| 4 July 2018
+| 30 June 2021
+| <ref name="Redan"/>
+|-
+| 70
+| MF
+|align=left| {{flagicon|ENG}} [[Clinton Mola]]
+| 4 July 2018
+| 30 June 2020
+| <ref name="Redan"/>
+|-
+| 65
+| DF
+|align=left| {{flagicon|ENG}} [[Renedi Masampu]]
+| 4 July 2018
+| 30 June 2019
+| <ref name="Redan"/>
+|-
+|
+| MF
+|align=left| {{flagicon|SRB}} [[Danilo Pantić]]
+| 5 July 2018
+| 30 June 2021
+| <ref name="Pantić">{{Cite web|title=Pantic in Serbian loan|url=https://www.chelseafc.com/en/news/2018/7/5/pantic-in-serbian-loan|website=chelseafc.com|date=5 July 2018}}</ref>
+|-
+| 37
+| GK
+|align=left| {{flagicon|POR}} [[Eduardo Carvalho|Eduardo]]
+| 6 July 2018
+| 30 June 2019
+| <ref name="Eduardo">{{Cite web|title=Eduardo loaned to Vitesse|url=https://www.chelseafc.com/en/news/2018/7/6/eduardo-moves-to-vitesse|website=chelseafc.com|date=6 July 2018}}</ref>
+|-
+| 62
+| DF
+|align=left| {{flagicon|POR}} [[Marcel Lavinier]]
+| 20 July 2018
+| 30 June 2020
+| <ref>{{Cite web|title=Young Blues flourish in Florida|url=https://www.chelseafc.com/en/news/2018/7/23/young-blues-flourish-in-florida|website=chelseafc.com|date=23 July 2018}}</ref>
+|-
+|
+| MF
+|align=left| {{flagicon|CIV}} [[Victorien Angban]]
+| 27 July 2018
+| 30 June 2020
+| <ref name="Angban">{{Cite web|title=French loan for Angban|url=https://www.chelseafc.com/en/news/2018/7/27/french-loan-for-angban|website=chelseafc.com|date=27 July 2018}}</ref>
+|-
+| 11
+| MF
+|align=left| {{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+| 3 August 2018
+| 30 June 2020
+| <ref>{{Cite web|title=Pedro extends|url=https://www.chelseafc.com/en/news/2018/8/3/pedro-extends|website=chelseafc.com|date=3 August 2018}}</ref>
+|-
+|
+| DF
+|align=left| {{flagicon|USA}} [[Matt Miazga]]
+| 6 August 2018
+| 30 June 2022
+| <ref name="Miazga">{{Cite web|title=New contract and loan for Miazga|url=https://www.chelseafc.com/en/news/2018/8/2/new-contract-and-loan-for-miazga|website=chelseafc.com|date=6 August 2018}}</ref>
+|-
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Fikayo Tomori]]
+| 6 August 2018
+| 30 June 2021
+| <ref name="Tomori">{{Cite web|title=New deal and Derby loan for Tomori|url=https://www.chelseafc.com/en/news/2018/8/6/new-deal-and-derby-loan-for-tomori|website=chelseafc.com|date=6 August 2018}}</ref>
+|-
+| 41
+| DF
+|align=left| {{flagicon|NGA}} [[Ola Aina]]
+| 14 August 2018
+| 30 June 2021
+| <ref name="Aina">{{Cite web|title=New contract and loan for Aina|url=https://www.chelseafc.com/en/news/2018/8/14/new-contract-and-loan-for-aina|website=chelseafc.com|date=14 August 2018}}</ref>
+|-
+| 44
+| DF
+|align=left| {{flagicon|WAL}} [[Ethan Ampadu]]
+| 19 September 2018
+| 30 June 2023
+| <ref>{{Cite web|title=Ethan extends|url=https://www.chelseafc.com/en/news/2018/9/19/ethan-extends|website=chelseafc.com|date=19 September 2018}}</ref>
+|-
+|
+| MF
+|align=left| {{flagicon|ENG}} Marcel Lewis
+| 3 October 2018
+| 30 June 2021
+| <ref>{{Cite web|title=UYL preview: One step at a time|url=https://www.chelseafc.com/en/news/2018/10/3/uyl-preview--molde-h|website=chelseafc.com|date=3 October 2018}}</ref>
+|-
+| 51
+| MF
+|align=left| {{flagicon|ENG}} [[Conor Gallagher]]
+| 22 October 2018
+| 30 June 2021
+| <ref>{{Cite web|title=UYL preview: Finishing the job|url=https://www.chelseafc.com/en/news/2018/10/24/uyl-preview--finishing-the-job|website=chelseafc.com|date=24 October 2018}}</ref>
+|-
+| 3
+| DF
+|align=left| {{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+| 24 October 2018
+| 30 June 2023
+| <ref>{{Cite web|title=Alonso extends his Stamford Bridge stay|url=https://www.chelseafc.com/en/news/2018/10/24/alonso-extends-his-stamford-bridge-stay|website=chelseafc.com|date=24 October 2018}}</ref>
+|-
+| 50
+| FW
+|align=left| {{flagicon|ENG}} [[Charlie Brown (footballer, born 1999)|Charlie Brown]]
+| 29 October 2018
+| 30 June 2021
+| <ref>{{Cite web|title=Checkatrade Trophy report: Plymouth 0 Chelsea 5|url=https://www.chelseafc.com/en/news/2018/10/30/checkatrade-trophy-report--plymouth-v-chelsea|website=chelseafc.com|date=30 October 2018}}</ref>
+|-
+| 52
+| GK
+|align=left| {{flagicon|ENG}} [[Jamie Cumming]]
+| 6 November 2018
+| 30 June 2021
+| <ref>{{Cite web|title=UYL report: Elfsborg 0 Chelsea 3|url=https://www.chelseafc.com/en/news/2018/11/7/uyl-report--elfsborg-v-chelsea|website=chelseafc.com|date=7 November 2018}}</ref>
+|-
+| 7
+| MF
+|align=left| {{flagicon|FRA}} [[N'Golo Kanté]]
+| 23 November 2018
+| 30 June 2023
+| <ref>{{Cite web|title=Kante commits to the Blues|url=https://www.chelseafc.com/en/news/2018/11/23/kante-commits-to-the-blues1|website=chelseafc.com|date=23 November 2018}}</ref>
+|-
+|
+| FW
+|align=left| {{flagicon|IRL}} [[George Nunn]]
+| 23 November 2018
+| 30 June 2021
+| <ref>{{Cite web|title=UYL report: Chelsea 6 Elfsborg 0 (9-0 on agg)|url=https://www.chelseafc.com/en/news/2018/11/28/uyl-report--chelsea-v-elfsborg|website=chelseafc.com|date=28 November 2018}}</ref>
+|-
+| 64
+| MF
+|align=left| {{flagicon|ENG}} [[Tino Anjorin]]
+| 27 November 2018
+| 30 June 2021
+| <ref>{{Cite web|title=Tino Anjorin|url=https://www.instagram.com/p/BqsoiQnhncd/ |archive-url=https://ghostarchive.org/iarchive/s/instagram/BqsoiQnhncd |archive-date=2021-12-24 |url-access=limited|website=instagram.com|date=28 November 2018}}{{cbignore}}</ref>
+|-
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+| 4 December 2018
+| 30 June 2022
+| <ref>{{Cite web|title=New Azpilicueta contract announced|url=https://www.chelseafc.com/en/news/2018/12/4/new-azpilicueta-contract-announced|website=chelseafc.com|date=4 December 2018}}</ref>
+|-
+|
+| GK
+|align=left| {{flagicon|ENG}} [[Nathan Baxter (footballer)|Nathan Baxter]]
+| 21 December 2018
+| 30 June 2023
+| <ref>{{Cite web|title=Chelsea here Chelsea there|url=https://www.chelseafc.com/en/news/2018/12/24/chelsea-here-chelsea-there|website=chelseafc.com|date=24 December 2018}}</ref>
+|-
+|
+| MF
+|align=left| {{flagicon|AUT}} [[Thierno Ballo]]
+| 4 January 2019
+| 30 June 2021
+| <ref>{{Cite web|title=Under-18s report: Leicester 2 Chelsea 3|url=https://www.chelseafc.com/en/news/2019/1/5/under-18s-report--leicester-v-chelsea|website=chelseafc.com|date=5 January 2019}}</ref>
+|-
+|
+| DF
+|align=left| {{flagicon|FRA}} Pierre Ekwah-Elimby
+| 17 January 2019
+| 30 June 2021
+| <ref>{{Cite web|title=Pierre Ekwah-Elimby|url=https://www.instagram.com/p/BswCPh-B8q6/ |archive-url=https://ghostarchive.org/iarchive/s/instagram/BswCPh-B8q6 |archive-date=2021-12-24 |url-access=limited|website=instagram.com|date=17 January 2019}}{{cbignore}}</ref>
+|-
+| 67
+| DF
+|align=left| {{flagicon|NED}} [[Ian Maatsen]]
+| 13 March 2019
+| 30 June 2021
+| <ref>{{Cite web|title=UYL report: Chelsea 2 Montpellier 1|url=https://www.chelseafc.com/en/news/2019/03/13/uyl-report--chelsea-v-montpellier|website=chelseafc.com|date=13 March 2019}}</ref>
+|-
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Dynel Simeu]]
+| 18 March 2019
+| 30 June 2021
+| <ref>{{Cite web|title=Dynel Simeu|url=https://www.instagram.com/p/BvKZW0GnWuE/ |archive-url=https://ghostarchive.org/iarchive/s/instagram/BvKZW0GnWuE |archive-date=2021-12-24 |url-access=limited|website=instagram.com|date=18 March 2019}}{{cbignore}}</ref>
+|-
+| 30
+| DF
+|align=left| {{flagicon|BRA}} [[David Luiz]]
+| 10 May 2019
+| 30 June 2021
+| <ref>{{Cite web|title=David Luiz extends Chelsea contract|url=https://www.chelseafc.com/en/news/2019/05/10/david-luiz-signs-new-chelsea-contract|website=chelseafc.com|date=10 May 2019}}</ref>
+|-
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+| 21 May 2019
+| 30 June 2020
+| <ref>{{Cite web|title=Olivier Giroud signs contract extension with Chelsea|url=https://www.chelseafc.com/en/news/2019/05/21/olivier-giroud-signs-contract-extension-with-chelsea|website=chelseafc.com|date=21 May 2019}}</ref>
+|-
+| 13
+| GK
+|align=left| {{flagicon|ARG}} [[Willy Caballero]]
+| 22 May 2019
+| 30 June 2020
+| <ref>{{Cite web|title=Willy Caballero to stay at Chelsea for 2019/20 season|url=https://www.chelseafc.com/en/news/2019/05/22/willy-caballero-to-stay-at-chelsea-for-2019-20-season-|website=chelseafc.com|date=22 May 2019}}</ref>
+|}
+
+==Transfers==
+
+===In===
+
+====Summer====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| From
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+|rowspan=5| 1 July 2018
+| 67
+| DF
+|align=left| {{flagicon|NED}} [[Ian Maatsen]]
+|align=left| {{flagicon|NED}} [[PSV Eindhoven]]
+| £100,000
+| <ref name="Redan"/>
+|-
+|
+| DF
+|align=left| {{flagicon|NIR}} [[Sam McClelland (footballer)|Sam McClelland]]
+|align=left| {{flagicon|NIR}} [[Coleraine F.C.|Coleraine]]
+| Undisclosed
+| <ref name="Redan"/>
+|-
+|
+| DF
+|align=left| {{flagicon|FRA}} [[Pierre Ekwah-Elimby]]
+|align=left| {{flagicon|FRA}} [[FC Nantes|Nantes]]
+| £1,800,000
+| <ref name="Redan"/>
+|-
+|
+| MF
+|align=left| {{flagicon|AUT}} [[Thierno Ballo]]
+|align=left| {{flagicon|GER}} [[FC Viktoria Köln|Viktoria Köln]]
+| £140,000
+| <ref name="Redan"/>
+|-
+|
+| FW
+|align=left| {{flagicon|IRL}} [[George Nunn]]
+|align=left| {{flagicon|ENG}} [[Crewe Alexandra F.C.|Crewe Alexandra]]
+| £310,000
+| <ref name="Redan"/>
+|-
+| 14 July 2018
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+|align=left| {{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+| £51,300,000
+| <ref>{{Cite web|title=Jorginho becomes a Blue|url=https://www.chelseafc.com/en/news/2018/7/14/jorginho-becomes-a-blue|website=chelseafc.com|date=14 July 2018}}</ref>
+|-
+| 26 July 2018
+| 31
+| GK
+|align=left| {{flagicon|ENG}} [[Robert Green]]
+|align=left| {{flagicon|ENG}} [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| Free
+| <ref>{{Cite web|title=Green becomes a Blue|url=https://www.chelseafc.com/en/news/2018/7/26/green-becomes-a-blue|website=chelseafc.com|date=26 July 2018}}</ref>
+|-
+| 8 August 2018
+| 1
+| GK
+|align=left| {{flagicon|ESP}} [[Kepa Arrizabalaga]]
+|align=left| {{flagicon|ESP}} [[Athletic Bilbao]]
+| £72,000,000
+| <ref>{{Cite web|title=Kepa arrives at Chelsea|url=https://www.chelseafc.com/en/news/2018/8/8/kepa-arrives-at-chelsea|website=chelseafc.com|date=8 August 2018}}</ref>
+|-
+| 22 October 2018
+|
+| GK
+|align=left| {{flagicon|FIN}} [[Lucas Bergström]]
+|align=left| {{flagicon|FIN}} [[Turun Palloseura|TPS]]
+| Undisclosed
+| <ref>{{Cite web|title=TPS-maalivahti Lucas Bergström siirtyy Chelsean nuorisoakatemiaan|url=https://fc.tps.fi/fi/uutiset/tps-maalivahti-lucas-bergstrom-siirtyy-chelsean-nuorisoakatemiaan|website=fc.tps.fi|date=22 October 2018}}</ref>
+|}
+
+====Winter====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| From
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+| 1 January 2019
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Josh Brooking]]
+|align=left| {{flagicon|ENG}} [[Reading F.C.|Reading]]
+| Undisclosed
+| <ref>{{Cite web|title=Josh Brooking|url= https://www.chelseafc.com/en/teams/profile/josh-brooking |website=chelseafc.com|accessdate=11 December 2022}}</ref>
+|-
+| 2 January 2019
+|
+| MF
+|align=left| {{flagicon|USA}} [[Christian Pulisic]]
+|align=left| {{flagicon|GER}} [[Borussia Dortmund]]
+| £57,600,000
+| <ref name="Pulisic">{{Cite web|title=Pulisic transfer agreed|url=https://www.chelseafc.com/en/news/2019/1/2/pulisic-transfer-agreed|website=chelseafc.com|date=2 January 2019}}</ref>
+|}
+
+===Loan in===
+
+====Summer====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| Until
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| From
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+| 9 August 2018
+| 30 June 2019
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+|align=left| {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+| Free
+| <ref>{{Cite news|title=Kovacic loan deal completed|url=https://www.chelseafc.com/en/news/2018/8/9/kovacic-loan-deal-completed|newspaper=Chelseafc|date=9 August 2018}}</ref>
+|}
+
+====Winter====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| Until
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| From
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+| 23 January 2019
+| 30 June 2019
+| 9
+| FW
+|align=left| {{flagicon|ARG}} [[Gonzalo Higuaín]]
+|align=left| {{flagicon|ITA}} [[Juventus FC|Juventus]]
+| £7,020,000
+| <ref>{{Cite web|title=Gonzalo Higuain completes loan transfer to Chelsea|url=https://www.chelseafc.com/en/news/2019/1/23/gonzalo-higuain-completes-loan-transfer-to-chelsea|website=chelseafc.com|date=23 January 2019}}</ref>
+|}
+
+===Out===
+
+====Summer====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| To
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+|rowspan=4| 1 July 2018
+|
+| GK
+|align=left| {{flagicon|CRO}} [[Matej Delač]]
+|align=left| {{flagicon|DEN}} [[AC Horsens|Horsens]]
+| Free
+| <ref>{{Cite web|title=AC Horsens henter kroatisk keeper i Chelsea FC|url=http://www.achorsens.dk/ac-horsens-henter-kroatisk-keeper-i-chelsea-fc|website=achorsens.dk|date=3 April 2018|access-date=9 July 2018|archive-date=12 November 2019|archive-url=https://web.archive.org/web/20191112101259/https://achorsens.dk/ac-horsens-henter-kroatisk-keeper-i-chelsea-fc|url-status=dead}}</ref>
+|-
+|
+| GK
+|align=left| {{flagicon|ENG}} [[Mitchell Beeney]]
+|align=left| {{flagicon|IRL}} [[Sligo Rovers F.C.|Sligo Rovers]]
+| Free
+| <ref>{{Cite web|title=Sligo Rovers|url=https://twitter.com/sligorovers/status/1007278728060252161|website=twitter.com|date=14 June 2018}}</ref>
+|-
+| 57
+| MF
+|align=left| {{flagicon|SCO}} [[Harvey St Clair]]
+|align=left| {{flagicon|ITA}} [[Venezia F.C.|Venezia]]
+| Free
+| <ref>{{Cite web|title=Ufficiale: contratto triennale per Harvey St Clair.|url=https://www.veneziafc.it/prima-squadra/ufficiale-contratto-triennale-per-harvey-st-clair/|website=veneziafc.it|date=16 June 2018|access-date=16 December 2018|archive-date=12 November 2019|archive-url=https://web.archive.org/web/20191112102717/https://www.veneziafc.it/prima-squadra/ufficiale-contratto-triennale-per-harvey-st-clair/|url-status=dead}}</ref>
+|-
+|
+| DF
+|align=left| {{flagicon|BRA}} [[Wallace (footballer, born May 1994)|Wallace]]
+|align=left| Unattached{{efn|Wallace joined [[Figueirense FC|Figueirense]] on 21 January 2019}}
+|
+| <ref>{{Cite web|title=Players moving on|url=https://www.chelseafc.com/en/news/2018/7/2/players-moving-on|website=chelseafc.com|date=2 July 2018}}</ref>
+|-
+| 2 July 2018
+| 43
+| MF
+|align=left| {{flagicon|WAL}} [[Isaac Christie-Davies]]
+|align=left| {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+| Free
+| <ref>{{Cite web|title=Isaac Christie-Davies|url=https://www.instagram.com/p/BmwDs7lgp4O/ |archive-url=https://ghostarchive.org/iarchive/s/instagram/BmwDs7lgp4O |archive-date=2021-12-24 |url-access=limited|website=instagram.com|date=22 September 2018}}{{cbignore}}</ref>
+|-
+|rowspan=2| 6 July 2018
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Jonathan Panzo]]
+|align=left| {{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+| £2,700,000
+| <ref>{{Cite web|title=Panzo joins Monaco|url=https://www.chelseafc.com/en/news/2018/7/6/panzo-joins-monaco|website=chelseafc.com|date=6 July 2018}}</ref>
+|-
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Jordan Houghton]]
+|align=left| {{flagicon|ENG}} [[Milton Keynes Dons F.C.|Milton Keynes Dons]]
+| Free
+| <ref>{{Cite web|title=Jordan joins MK Dons|url=https://www.mkdons.com/news/2018/july/jordan-joins-mk-dons|website=mkdons.com|date=6 July 2018}}</ref>
+|-
+| 21 July 2018
+|
+| MF
+|align=left| {{flagicon|CIV}} [[Jérémie Boga]]
+|align=left| {{flagicon|ITA}} [[U.S. Sassuolo Calcio|Sassuolo]]
+| £2,700,000
+| <ref>{{Cite web|title=Boga moves to Italy|url=https://www.chelseafc.com/en/news/2018/7/21/boga-moves-to-italy|website=chelseafc.com|date=21 July 2018}}</ref>
+|-
+| 7 August 2018
+| 52
+| DF
+|align=left| {{flagicon|WAL}} [[Cole Dasilva]]
+|align=left| {{flagicon|ENG}} [[Brentford F.C.|Brentford]]
+| Free
+| <ref>{{Cite web|title=Cole Dasilva signs for Brentford B|url=https://www.brentfordfc.com/news/2018/august/cole-dasilva-signs-brentford/|website=brentfordfc.com|date=7 August 2018|access-date=7 August 2018|archive-date=15 February 2020|archive-url=https://web.archive.org/web/20200215152143/https://www.brentfordfc.com/news/2018/august/cole-dasilva-signs-brentford|url-status=dead}}</ref>
+|-
+| 9 August 2018
+| 13
+| GK
+|align=left| {{flagicon|BEL}} [[Thibaut Courtois]]
+|align=left| {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+| £31,500,000
+| <ref>{{Cite web|title=Courtois departs|url=https://www.chelseafc.com/en/news/2018/8/9/courtois-departs|website=chelseafc.com|date=9 August 2018}}</ref>
+|-
+| 23 August 2018
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Tushaun Walters]]
+|align=left| {{flagicon|ENG}} [[Greenwich Borough F.C.|Greenwich Borough]]
+| Free
+| <ref>{{Cite web|title=Greenwich Borough|url=https://twitter.com/greenwichborofc/status/1032714118116122625|website=twitter.com|date=23 August 2018}}</ref>
+|}
+;Notes
+{{notelist}}
+
+====Winter====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| To
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+| 11 January 2019
+| 4
+| MF
+|align=left| {{flagicon|ESP}} [[Cesc Fàbregas]]
+|align=left| {{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+| £8,100,000
+| <ref>{{Cite web|title=Fabregas leaves Chelsea for Monaco|url=https://www.chelseafc.com/en/news/2019/1/11/fabregas-leaves-chelsea-for-monaco|website=chelseafc.com|date=11 January 2019}}</ref>
+|-
+| 25 January 2019
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Charlie Colkett]]
+|align=left| {{flagicon|SWE}} [[Östersunds FK|Östersund]]
+| Undisclosed
+| <ref name="Colkett">{{Cite web|title=Mixed friendly fortunes for youngsters; Colkett and Wakely depart|url=https://www.chelseafc.com/en/news/2019/1/25-/mixed-friendly-fortunes-for-youngsters|website=chelseafc.com|date=25 January 2019}}</ref>
+|-
+|rowspan=3| 31 January 2019
+|
+| FW
+|align=left| {{flagicon|COL}} [[Joao Rodríguez (footballer)|Joao Rodríguez]]
+|align=left| Unattached{{efn|Rodríguez joined [[Central Córdoba de Santiago del Estero|Central Córdoba]] on 27 July 2019}}
+|
+| <ref name="Rodríguez">{{Cite web|title=Loan move for Lucas Piazon|url=https://www.chelseafc.com/en/news/2019/1/31/loan-move-for-lucas-piazon|website=chelseafc.com|date=31 January 2019}}</ref>
+|-
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Charlie Wakefield (footballer, born 1998)|Charlie Wakefield]]
+|align=left| {{flagicon|ENG}} [[Coventry City F.C.|Coventry City]]
+| Free
+| <ref>{{Cite web|title=Transfer: Charlie Wakefield signs for Coventry City!|url=https://www.ccfc.co.uk/news/2019/january/transfer-charlie-wakefield-signs-for-coventry-city/|website=ccfc.co.uk|date=31 January 2019}}</ref>
+|-
+|
+| FW
+|align=left| {{flagicon|SCO}} [[Islam Feruz]]
+|align=left| Retired
+|
+| <ref>{{Cite web|title=Chelsea transfer news: All the ins and outs in January|url=https://www.chelseafc.com/en/news/2019/2/1/chelsea-transfer-news--all-the-ins-and-outs-in-january|website=chelseafc.com|date=1 February 2019}}</ref>
+|}
+
+===Loan out===
+
+====Summer====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| Until
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| To
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+|rowspan=7| 1 July 2018
+| 29 January 2019 <ref name="Rahman">{{Cite web|title=Baba Rahman loaned to Reims|url=https://www.chelseafc.com/en/news/2019/1/28/baba-rahman-loaned-to-reims|website=chelseafc.com|date=29 January 2019}}</ref>
+|
+| DF
+|align=left| {{flagicon|GHA}} [[Baba Rahman]]
+|align=left| {{flagicon|GER}} [[FC Schalke 04|Schalke]]
+| Free
+| <ref>{{Cite web|title=Baba loan return to Germany|url=https://www.chelseafc.com/en/news/2018/01/29/baba-loan-return-to-germany|website=chelseafc.com|date=29 January 2018}}</ref>
+|-
+| 3 January 2019 <ref name="Thompson"/>
+| 46
+| MF
+|align=left| {{flagicon|SCO}} [[Ruben Sammut]]
+|align=left| {{flagicon|SCO}} [[Falkirk F.C.|Falkirk]]
+| Free
+| <ref name="Sammut"/>
+|-
+| 31 May 2019
+| 50
+| DF
+|align=left| {{flagicon|ENG}} [[Trevoh Chalobah]]
+|align=left| {{flagicon|ENG}} [[Ipswich Town F.C.|Ipswich Town]]
+| Free
+| <ref>{{Cite web|title=Chalobah loaned to Ipswich|url=https://www.chelseafc.com/en/news/2018/6/25/chalobah-loaned-to-ipswich|website=chelseafc.com|date=25 June 2018}}</ref>
+|-
+| 31 May 2019
+|
+| GK
+|align=left| {{flagicon|ENG}} [[Nathan Baxter (footballer)|Nathan Baxter]]
+|align=left| {{flagicon|ENG}} [[Yeovil Town F.C.|Yeovil Town]]
+| Free
+| <ref>{{Cite web|title=Keeper loaned to the Glovers|url=https://www.chelseafc.com/en/news/2018/6/26/keeper-loaned-to-the-glovers|website=chelseafc.com|date=26 June 2018}}</ref>
+|-
+| 31 May 2019
+| 64
+| DF
+|align=left| {{flagicon|ENG}} [[Reece James (footballer, born 1999)|Reece James]]
+|align=left| {{flagicon|ENG}} [[Wigan Athletic F.C.|Wigan Athletic]]
+| Free
+| <ref name="James"/>
+|-
+| 31 May 2019
+| 66
+| DF
+|align=left| {{flagicon|ENG}} [[Dujon Sterling]]
+|align=left| {{flagicon|ENG}} [[Coventry City F.C.|Coventry City]]
+| Free
+| <ref>{{Cite web|title=Sterling loaned|url=https://www.chelseafc.com/en/news/2018/6/27/sterling-loaned|website=chelseafc.com|date=27 June 2018}}</ref>
+|-
+| 9 January 2019 <ref name="Baker">{{Cite web|title=Baker loaned to Reading|url=https://www.chelseafc.com/en/news/2019/1/9/baker-loaned-to-reading|website=chelseafc.com|date=9 January 2019}}</ref>
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Lewis Baker (footballer)|Lewis Baker]]
+|align=left| {{flagicon|ENG}} [[Leeds United F.C.|Leeds United]]
+| Free
+| <ref>{{Cite web|title=Leeds loan for Baker|url=https://www.chelseafc.com/en/news/2018/6/30/leeds-loan-for-baker|website=chelseafc.com|date=30 June 2018}}</ref>
+|-
+| 2 July 2018
+| 30 June 2019
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Jake Clarke-Salter]]
+|align=left| {{flagicon|NED}} [[SBV Vitesse|Vitesse]]
+| Free
+| <ref>{{Cite web|title=Clarke-Salter heads to Vitesse|url=https://www.chelseafc.com/en/news/2018/7/2/clarke-salter-heads-to-vitesse|website=chelseafc.com|date=2 July 2018}}</ref>
+|-
+| 5 July 2018
+| 30 June 2019
+|
+| MF
+|align=left| {{flagicon|SRB}} [[Danilo Pantić]]
+|align=left| {{flagicon|SRB}} [[FK Partizan|Partizan]]
+| Free
+| <ref name="Pantić"/>
+|-
+| 6 July 2018
+| 30 June 2019
+| 37
+| GK
+|align=left| {{flagicon|POR}} [[Eduardo Carvalho|Eduardo]]
+|align=left| {{flagicon|NED}} [[SBV Vitesse|Vitesse]]
+| Free
+| <ref name="Eduardo"/>
+|-
+|rowspan=2| 12 July 2018
+| 31 May 2019
+|
+| MF
+|align=left| {{flagicon|BRA}} [[Kenedy (footballer)|Kenedy]]
+|align=left| {{flagicon|ENG}} [[Newcastle United F.C.|Newcastle United]]
+| Free
+| <ref>{{Cite web|title=Kenedy heads north|url=https://www.chelseafc.com/en/news/2018/7/11/kenedy-heads-north|website=chelseafc.com|date=12 July 2018}}</ref>
+|-
+| 31 January 2019 <ref name="Rodríguez"/>
+|
+| FW
+|align=left| {{flagicon|COL}} [[Joao Rodríguez (footballer)|Joao Rodríguez]]
+|align=left| {{flagicon|ESP}} [[CD Tenerife|Tenerife]]
+| Free
+| <ref>{{Cite web|title=Striker loaned to Spain|url=https://www.chelseafc.com/en/news/2018/7/12/striker-loaned-to-spain|website=chelseafc.com|date=12 July 2018}}</ref>
+|-
+| 14 July 2018
+| 3 January 2019 <ref name="Thompson"/>
+| 36
+| MF
+|align=left| {{flagicon|USA}} [[Kyle Scott]]
+|align=left| {{flagicon|NED}} [[SC Telstar|Telstar]]
+| Free
+| <ref>{{Cite web|title=Scott heads to Holland|url=https://www.chelseafc.com/en/news/2018/8/6/scott-heads-to-holland|website=chelseafc.com|date=6 August 2018}}</ref>
+|-
+| 16 July 2018
+| 16 November 2018 <ref>{{Cite web|title=Club statement: Jamal Blackman|url=https://www.leedsunited.com/news/team-news/24127/jamal-blackman|archive-url=https://web.archive.org/web/20181117022233/https://www.leedsunited.com/news/team-news/24127/jamal-blackman|url-status=dead|archive-date=17 November 2018|website=leedsunited.com|date=16 November 2018}}</ref>
+|
+| GK
+|align=left| {{flagicon|ENG}} [[Jamal Blackman]]
+|align=left| {{flagicon|ENG}} [[Leeds United F.C.|Leeds United]]
+| Free
+| <ref>{{Cite web|title=Blackman begins Leeds loan|url=https://www.chelseafc.com/en/news/2018/7/16/blackman-begins-leeds-loan|website=chelseafc.com|date=16 July 2018}}</ref>
+|-
+|rowspan=2| 17 July 2018
+| 31 May 2019
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Todd Kane]]
+|align=left| {{flagicon|ENG}} [[Hull City A.F.C.|Hull City]]
+| Free
+| <ref>{{Cite web|title=Kane completes loan move to Hull|url=https://www.chelseafc.com/en/news/2018/7/17/kane-completes-loan-move-to-hull|website=chelseafc.com|date=17 July 2018}}</ref>
+|-
+| 31 May 2019
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Mason Mount]]
+|align=left| {{flagicon|ENG}} [[Derby County F.C.|Derby County]]
+| Free
+| <ref>{{Cite web|title=Mount loan news and interview|url=https://www.chelseafc.com/en/news/2018/7/11/steps-up--mason-mount|website=chelseafc.com|date=17 July 2018}}</ref>
+|-
+| 21 July 2018
+| 31 December 2018 <ref>{{Cite web|title=Charlie Colkett returns to Chelsea|url=https://www.shrewsburytown.com/news/2018/december/charlie-colkett-returns-to-chelsea/|website=shrewsburytown.com|date=31 December 2018|access-date=31 December 2018|archive-date=11 April 2019|archive-url=https://web.archive.org/web/20190411215040/https://www.shrewsburytown.com/news/2018/december/charlie-colkett-returns-to-chelsea/|url-status=dead}}</ref>
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Charlie Colkett]]
+|align=left| {{flagicon|ENG}} [[Shrewsbury Town F.C.|Shrewsbury Town]]
+| Free
+| <ref>{{Cite web|title=Colkett heads to League One|url=https://www.chelseafc.com/en/news/2018/7/21/colkett-heads-to-league-one|website=chelseafc.com|date=21 July 2018}}</ref>
+|-
+| 24 July 2018
+| 30 June 2019
+|
+| MF
+|align=left| {{flagicon|BRA}} [[Nathan (footballer, born 1996)|Nathan]]
+|align=left| {{flagicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| Free
+| <ref name="Nathan">{{Cite web|title=Pasalic heads to Italy; Nathan to Brazil|url=https://www.chelseafc.com/en/news/2018/7/25/pasalic-heads-to-italy|website=chelseafc.com|date=25 July 2018}}</ref>
+|-
+| 25 July 2018
+| 30 June 2019
+|
+| MF
+|align=left| {{flagicon|CRO}} [[Mario Pašalić]]
+|align=left| {{flagicon|ITA}} [[Atalanta B.C.|Atalanta]]
+| £900,000
+| <ref name="Nathan"/>
+|-
+| 26 July 2018
+| 31 May 2019
+| 54
+| MF
+|align=left| {{flagicon|ENG}} [[Jacob Maddox]]
+|align=left| {{flagicon|ENG}} [[Cheltenham Town F.C.|Cheltenham Town]]
+| Free
+| <ref>{{Cite web|title=Loan move for Maddox|url=https://www.chelseafc.com/en/news/2018/7/26/loan-move-for-maddox|website=chelseafc.com|date=26 July 2018}}</ref>
+|-
+| 27 July 2018
+| 31 May 2019
+|
+| MF
+|align=left| {{flagicon|CIV}} [[Victorien Angban]]
+|align=left| {{flagicon|FRA}} [[FC Metz|Metz]]
+| Free
+| <ref name="Angban"/>
+|-
+| 30 July 2018
+| 9 January 2019 <ref name="Palmer">{{Cite web|title=Bristol City loan for Palmer|url=https://www.chelseafc.com/en/news/2019/1/9/bristol-city-loan-for-palmer|website=chelseafc.com|date=9 January 2019}}</ref>
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Kasey Palmer]]
+|align=left| {{flagicon|ENG}} [[Blackburn Rovers F.C.|Blackburn Rovers]]
+| Free
+| <ref>{{Cite web|title=Ewood Park loan for Palmer|url=https://www.chelseafc.com/en/news/2018/7/30/ewood-park-loan-for-palmer|website=chelseafc.com|date=30 July 2018}}</ref>
+|-
+|rowspan=2| 6 August 2018
+| 25 January 2019 <ref name="Matt Miazga">{{Cite web|title=Miazga loaned to Reading|url=https://www.chelseafc.com/en/news/2019/1/25-/miazga-loaned-to-reading|website=chelseafc.com|date=25 January 2019}}</ref>
+|
+| DF
+|align=left| {{flagicon|USA}} [[Matt Miazga]]
+|align=left| {{flagicon|FRA}} [[FC Nantes|Nantes]]
+| £270,000
+| <ref name="Miazga"/>
+|-
+| 31 May 2019
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Fikayo Tomori]]
+|align=left| {{flagicon|ENG}} [[Derby County F.C.|Derby County]]
+| Free
+| <ref name="Tomori"/>
+|-
+|rowspan=2| 9 August 2018
+| 31 May 2019
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Jay Dasilva]]
+|align=left| {{flagicon|ENG}} [[Bristol City F.C.|Bristol City]]
+| Free
+| <ref>{{Cite web|title=Dasilva joins Bristol City on loan|url=https://www.chelseafc.com/en/news/2018/8/8/dasilva-joins-bristol-city-on-loan|website=chelseafc.com|date=9 August 2018}}</ref>
+|-
+| 31 May 2019
+|
+| DF
+|align=left| {{flagicon|FRA}} [[Kurt Zouma]]
+|align=left| {{flagicon|ENG}} [[Everton F.C.|Everton]]
+| £7,110,000
+| <ref>{{Cite web|title=Zouma loaned to Everton|url=https://www.chelseafc.com/en/news/2018/8/10/zouma-loaned-to-everton|website=chelseafc.com|date=10 August 2018}}</ref>
+|-
+|rowspan=2| 10 August 2018
+| 30 June 2019
+|
+| MF
+|align=left| {{flagicon|ECU}} [[Josimar Quintero]]
+|align=left| {{flagicon|ESP}} [[Lleida Esportiu]]
+| Free
+| <ref>{{Cite web|title=Last chance for PL2 Stamford Bridge tickets|url=https://www.chelseafc.com/en/news/2018/8/10/last-chance-for-pl2-stamford-bridge-tickets|website=chelseafc.com|date=10 August 2018}}</ref>
+|-
+| 31 January 2019 <ref name="Batshuayi">{{Cite web|title=Batshuayi makes Premier League loan move|url=https://www.chelseafc.com/en/news/2019/1/31/batshuayi-makes-premier-league-loan-move|website=chelseafc.com|date=31 January 2019}}</ref>
+| 23
+| FW
+|align=left| {{flagicon|BEL}} [[Michy Batshuayi]]
+|align=left| {{flagicon|ESP}} [[Valencia CF|Valencia]]
+| £2,700,000
+| <ref>{{Cite web|title=Spanish loan for Batshuayi|url=https://www.chelseafc.com/en/news/2018/8/10/spanish-loan-for-batshuayi|website=chelseafc.com|date=10 August 2018}}</ref>
+|-
+|rowspan=2| 14 August 2018
+| 30 June 2019
+| 14
+| MF
+|align=left| {{flagicon|FRA}} [[Tiémoué Bakayoko]]
+|align=left| {{flagicon|ITA}} [[A.C. Milan|Milan]]
+| £4,500,000
+| <ref>{{Cite web|title=Bakayoko heads to Milan|url=https://www.chelseafc.com/en/news/2018/8/14/bakayoko-heads-to-milan|website=chelseafc.com|date=14 August 2018}}</ref>
+|-
+| 30 June 2019
+| 41
+| DF
+|align=left| {{flagicon|NGA}} [[Ola Aina]]
+|align=left| {{flagicon|ITA}} [[Torino F.C.|Torino]]
+| £540,000
+| <ref name="Aina"/>
+|-
+| 15 August 2018
+| 30 June 2019
+|
+| DF
+|align=left| {{flagicon|NGA}} [[Kenneth Omeruo]]
+|align=left| {{flagicon|ESP}} [[CD Leganés|Leganés]]
+| £720,000
+| <ref>{{Cite web|title=Leganes loan for Omeruo|url=https://www.chelseafc.com/en/news/2018/8/15/leganes-loan-for-omeruo|website=chelseafc.com|date=15 August 2018}}</ref>
+|-
+| 23 August 2018
+| 31 May 2019
+|
+| DF
+|align=left| {{flagicon|CZE}} [[Tomáš Kalas]]
+|align=left| {{flagicon|ENG}} [[Bristol City F.C.|Bristol City]]
+| Free
+| <ref>{{Cite web|title=Kalas heads west|url=https://www.chelseafc.com/en/news/2018/8/23/kalas-heads-west|website=chelseafc.com|date=23 August 2018}}</ref>
+|-
+|rowspan=2| 30 August 2018
+| 6 January 2019 <ref name="Palmer"/>
+| 43
+| FW
+|align=left| {{flagicon|ENG}} [[Ike Ugbo]]
+|align=left| {{flagicon|ENG}} [[Scunthorpe United F.C.|Scunthorpe United]]
+| Free
+| <ref>{{Cite web|title=Iron loan for Ugbo|url=https://www.chelseafc.com/en/news/2018/8/30/iron-loan-for-ugbo|website=chelseafc.com|date=30 August 2018}}</ref>
+|-
+| 31 May 2019
+|
+| FW
+|align=left| {{flagicon|ENG}} [[Izzy Brown|Isaiah Brown]]
+|align=left| {{flagicon|ENG}} [[Leeds United F.C.|Leeds United]]
+| Free
+| <ref>{{Cite web|title=Brown loaned to Leeds|url=https://www.chelseafc.com/en/news/2018/8/30/brown-loaned-to-leeds|website=chelseafc.com|date=30 August 2018}}</ref>
+|-
+|rowspan=6| 31 August 2018
+| 31 May 2019 <ref>{{Cite web|title=Academy keeper Collins loan extended|url=https://www.chelseafc.com/en/news/2019/1/3/academy-keeper-s-loan-extended|website=chelseafc.com|date=3 January 2019}}</ref>
+|
+| GK
+|align=left| {{flagicon|ENG}} [[Bradley Collins]]
+|align=left| {{flagicon|ENG}} [[Burton Albion F.C.|Burton Albion]]
+| Free
+| <ref>{{Cite web|title=Academy keeper loaned to Burton|url=https://www.chelseafc.com/en/news/2018/8/31/academy-keeper-loaned-to-burton|website=chelseafc.com|date=31 August 2018}}</ref>
+|-
+| 31 May 2019
+|
+| DF
+|align=left| {{flagicon|JAM}} [[Michael Hector]]
+|align=left| {{flagicon|ENG}} [[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+| Free
+| <ref>{{Cite web|title=Yorkshire loan for Hector|url=https://www.chelseafc.com/en/news/2018/8/31/yorkshire-loan-for-hector|website=chelseafc.com|date=31 August 2018}}</ref>
+|-
+| 31 May 2019
+| 19
+| FW
+|align=left| {{flagicon|ENG}} [[Tammy Abraham]]
+|align=left| {{flagicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+| Free
+| <ref>{{Cite web|title=Abraham Aston Villa loan|url=https://www.chelseafc.com/en/news/2018/8/31/abraham-aston-villa-loan-|website=chelseafc.com|date=31 August 2018}}</ref>
+|-
+| 30 June 2019
+| 48
+| MF
+|align=left| {{flagicon|BEL}} [[Kylian Hazard]]
+|align=left| {{flagicon|BEL}} [[Cercle Brugge KSV|Cercle Brugge]]
+| Free
+| <ref>{{Cite web|title=Loan move for midfielder|url=https://www.chelseafc.com/en/news/2018/8/31/loan-move-for-midfielder|website=chelseafc.com|date=31 August 2018}}</ref>
+|-
+| 30 June 2019
+| 32
+| MF
+|align=left| {{flagicon|BEL}} [[Charly Musonda (footballer, born 1996)|Charly Musonda]]
+|align=left| {{flagicon|NED}} [[SBV Vitesse|Vitesse]]
+| Free
+| <ref>{{Cite web|title=Musonda loaned to Vitesse|url=https://www.chelseafc.com/en/news/2018/8/31/musonda-loaned-to-vitesse|website=chelseafc.com|date=31 August 2018}}</ref>
+|-
+| 30 June 2019
+| 42
+| DF
+|align=left| {{flagicon|ENG}} [[Fankaty Dabo]]
+|align=left| {{flagicon|NED}} [[Sparta Rotterdam]]
+| Free
+| <ref>{{Cite web|title=Defender Dabo to Dutch club|url=https://www.chelseafc.com/en/news/2018/8/31/defender-dabo-to-dutch-club|website=chelseafc.com|date=31 August 2018}}</ref>
+|-
+| 26 October 2018
+| 26 December 2018
+|
+| GK
+|align=left| {{flagicon|USA}} Ethan Wady
+|align=left| {{flagicon|ENG}} [[Stevenage F.C.|Stevenage]]
+| Free
+| <ref>{{Cite web|title=Stevenage|url=https://twitter.com/StevenageFC/status/1057356609284788225|website=twitter.com|date=30 October 2018}}</ref>
+|}
+
+====Winter====
+{| class="wikitable sortable" style="text-align:center;width:75%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Date
+! style=background-color:#034694;color:#FFFFFF| Until
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| To
+! style=background-color:#034694;color:#FFFFFF data-sort-type="currency"| Fee
+! style=background-color:#034694;color:#FFFFFF| Source
+|-
+| 1 January 2019
+| 31 May 2019
+| 68
+| GK
+|align=left| {{flagicon|NIR}} Jared Thompson
+|align=left| {{flagicon|NIR}} [[Warrenpoint Town F.C.|Warrenpoint Town]]
+| Free
+| <ref name="Thompson">{{Cite web|title=Loan update: Academy goalkeeper Thompson to Northern Ireland; two return|url=https://www.chelseafc.com/en/news/2019/1/4-/loan-update--academy-goalkeeper-thompson-to-northern-ireland--tw|website=chelseafc.com|date=4 January 2019}}</ref>
+|-
+| 2 January 2019
+| 30 June 2019
+|
+| MF
+|align=left| {{flagicon|USA}} [[Christian Pulisic]]
+|align=left| {{flagicon|GER}} [[Borussia Dortmund]]
+| Free
+| <ref name="Pulisic"/>
+|-
+|rowspan=2| 9 January 2019
+| 31 May 2019
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Kasey Palmer]]
+|align=left| {{flagicon|ENG}} [[Bristol City F.C.|Bristol City]]
+| Free
+| <ref name="Palmer"/>
+|-
+| 31 May 2019
+|
+| MF
+|align=left| {{flagicon|ENG}} [[Lewis Baker (footballer)|Lewis Baker]]
+|align=left| {{flagicon|ENG}} [[Reading F.C.|Reading]]
+| Free
+| <ref name="Baker"/>
+|-
+|rowspan=2| 11 January 2019
+| 31 May 2019
+| 46
+| DF
+|align=left| {{flagicon|ENG}} [[Josh Grant (footballer)|Josh Grant]]
+|align=left| {{flagicon|ENG}} [[Yeovil Town F.C.|Yeovil Town]]
+| Free
+| <ref name="Grant">{{Cite web|title=Loan moves for Academy duo|url=https://www.chelseafc.com/en/news/2019/1/11/loan-moves-for-academy-duo|website=chelseafc.com|date=11 January 2019}}</ref>
+|-
+| 31 May 2019
+| 63
+| GK
+|align=left| {{flagicon|CRO}} Karlo Ziger
+|align=left| {{flagicon|ENG}} [[Sutton United F.C.|Sutton United]]
+| Free
+| <ref name="Grant"/>
+|-
+|rowspan=3| 25 January 2019
+| 31 May 2019
+|
+| DF
+|align=left| {{flagicon|USA}} [[Matt Miazga]]
+|align=left| {{flagicon|ENG}} [[Reading F.C.|Reading]]
+| Free
+| <ref name="Matt Miazga"/>
+|-
+| 30 June 2020
+| 15
+| MF
+|align=left| {{flagicon|NGA}} [[Victor Moses]]
+|align=left| {{flagicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+| Free
+| <ref>{{Cite web|title=Victor Moses completes Fenerbahce loan move|url=https://www.chelseafc.com/en/news/2019/1/25-/victor-moses-completes-fenerbahce-loan-move|website=chelseafc.com|date=25 January 2019}}</ref>
+|-
+| 31 May 2019
+|
+| DF
+|align=left| {{flagicon|ENG}} [[Jack Wakely]]
+|align=left| {{flagicon|ENG}} [[Basingstoke Town F.C.|Basingstoke Town]]
+| Free
+| <ref name="Colkett"/>
+|-
+| 28 January 2019
+| 30 June 2020
+| 29
+| FW
+|align=left| {{flagicon|ESP}} [[Álvaro Morata]]
+|align=left| {{flagicon|ESP}} [[Atlético Madrid]]
+| £6,300,000
+| <ref>{{Cite web|title=Morata moves to Atletico Madrid on loan|url=https://www.chelseafc.com/en/news/2019/1/26/morata-moves-to-atletico-madrid-on-loan|website=chelseafc.com|date=28 January 2019}}</ref>
+|-
+| 29 January 2019
+| 30 June 2019
+|
+| DF
+|align=left| {{flagicon|GHA}} [[Baba Rahman]]
+|align=left| {{flagicon|FRA}} [[Stade de Reims|Reims]]
+| Free
+| <ref name="Rahman"/>
+|-
+|rowspan=2| 31 January 2019
+| 30 June 2019
+| 34
+| MF
+|align=left| {{flagicon|BRA}} [[Lucas Piazon]]
+|align=left| {{flagicon|ITA}} [[A.C. ChievoVerona|Chievo]]
+| Free
+| <ref name="Rodríguez"/>
+|-
+| 31 May 2019
+|
+| FW
+|align=left| {{flagicon|BEL}} [[Michy Batshuayi]]
+|align=left| {{flagicon|ENG}} [[Crystal Palace F.C.|Crystal Palace]]
+| £1,040,000
+| <ref name="Batshuayi"/>
+|-
+| 23 March 2019
+| 31 May 2019
+|
+| GK
+|align=left| {{flagicon|USA}} Ethan Wady
+|align=left| {{flagicon|ENG}} [[Tooting & Mitcham United F.C.|Tooting & Mitcham United]]
+| Free
+| <ref>{{Cite web|title=Tooting & Mitcham United|url=https://www.instagram.com/p/BvWrmifAyjU/ |archive-url=https://ghostarchive.org/iarchive/s/instagram/BvWrmifAyjU |archive-date=2021-12-24 |url-access=limited|website=instagram.com|date=23 March 2019}}{{cbignore}}</ref>
+|}
+
+===Overall transfer activity===
+{{col-begin}}
+{{col-3}}
+
+====Expenditure====
+Summer: {{loss}} £125,650,000
+
+Winter: {{loss}} £64,620,000
+
+Total: {{loss}} £190,270,000
+{{col-3}}
+
+====Income====
+Summer: {{gain}} £53,640,000
+
+Winter: {{gain}} £15,440,000
+
+Total: {{gain}} £69,080,000
+{{col-3}}
+
+====Net totals====
+Summer: {{loss}} £72,010,000
+
+Winter: {{loss}} £49,180,000
+
+Total: {{loss}} £121,190,000
+{{col-end}}
+
+==Friendlies==
+
+===Friendlies===
+{{Football box collapsible
+| date = 23 July 2018
+| time = 19:30 [[UTC+08:00|AWST]]
+| team1 = [[Perth Glory FC|Perth Glory]] 
+| goals1 = [[Brendon Santalab|Santalab]] {{yel|87}}
+| score = 0–1
+| report = https://www.chelseafc.com/en/news/2018/7/23/report--perth-glory-v-chelsea-
+| team2 = Chelsea
+| goals2 = [[Pedro (footballer, born 1987)|Pedro]] {{goal|5}} <br /> [[David Luiz]] {{yel|36}}
+| location = [[Perth]], Australia
+| stadium = [[Perth Stadium|Optus Stadium]]
+| attendance = 55,522
+| referee = Shaun Evans ([[Football Federation Australia|Australia]])
+| result = W
+}}
+{{Football box collapsible
+| date = 15 May 2019
+| time = 20:10 [[Eastern Daylight Time|EDT]]
+| team1 = [[New England Revolution]]
+| score = 0–3
+| report = https://www.chelseafc.com/en/news/2019/05/16/report--new-england-revolution-v-chelsea
+| team2 = Chelsea
+| goals2 = [[Ross Barkley|Barkley]] {{goal|3||62}} <br /> [[Olivier Giroud|Giroud]] {{goal|29}}
+| location = [[Foxborough, Massachusetts|Foxborough]], United States
+| stadium = [[Gillette Stadium]]
+| attendance = 27,329
+| referee = [[Nima Saghafi]] ([[United States Soccer Federation|United States]])
+| result = W
+}}
+
+===International Champions Cup===
+{{main article|2018 International Champions Cup}}
+
+====Tables====
+{{:2018 International Champions Cup|showteam=CHE}}
+====Matches====
+{{Football box collapsible
+| date = 28 July 2018
+| time = 20:05 [[Central European Summer Time|CEST]]
+| team1 = Chelsea 
+| goals1 = [[Pedro (footballer, born 1987)|Pedro]] {{goal|8}}
+| score = 1–1
+| report = https://www.chelseafc.com/en/news/2018/7/28/report--
+| team2 = [[Inter Milan|Internazionale]]
+| goals2 = [[Roberto Gagliardini|Gagliardini]] {{goal|49}} <br /> [[Danilo D'Ambrosio|D'Ambrosio]] {{yel|86}}
+| penalties1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{pengoal}} <br /> [[Danny Drinkwater|Drinkwater]] {{pengoal}} <br /> [[Victor Moses|Moses]] {{pengoal}} <br /> [[Tammy Abraham|Abraham]] {{pengoal}} <br /> [[César Azpilicueta|Azpilicueta]] {{pengoal}}
+| penaltyscore = 5–4
+| penalties2 = {{pengoal}} [[Andrea Ranocchia|Ranocchia]] <br /> {{pengoal}} [[Roberto Gagliardini|Gagliardini]] <br /> {{pengoal}} [[Lautaro Martínez|Martínez]] <br /> {{penmiss}} [[Milan Škriniar|Škriniar]] <br /> {{pengoal}} [[Yann Karamoh|Karamoh]]
+| location = [[Nice]], France
+| stadium = [[Allianz Riviera]]
+| attendance = 8,000
+| referee = Nicolas Rainville ([[French Football Federation|France]])
+| result = D
+}}
+{{Football box collapsible
+| date = 1 August 2018
+| time = 20:05 [[Irish Standard Time|IST]]
+| team1 = [[Arsenal F.C.|Arsenal]] 
+| goals1 = [[Alexandre Lacazette|Lacazette]] {{goal|90+3}}
+| score = 1–1
+| report = https://www.chelseafc.com/en/news/2018/8/1/report-
+| team2 = Chelsea
+| goals2 = [[Antonio Rüdiger|Rüdiger]] {{goal|5}}
+| penalties1 = [[Alexandre Lacazette|Lacazette]] {{pengoal}} <br /> [[Reiss Nelson|Nelson]] {{pengoal}} <br /> [[Matteo Guendouzi|Guendouzi]] {{pengoal}} <br /> [[Ainsley Maitland-Niles|Maitland-Niles]] {{pengoal}} <br /> [[Mesut Özil|Özil]] {{pengoal}} <br /> [[Alex Iwobi|Iwobi]] {{pengoal}}
+| penaltyscore = 6–5
+| penalties2 = {{pengoal}} [[Danny Drinkwater|Drinkwater]] <br /> {{pengoal}} [[Tammy Abraham|Abraham]] <br /> {{pengoal}} [[Victor Moses|Moses]] <br /> {{pengoal}} [[Emerson Palmieri|Emerson]] <br /> {{pengoal}} [[Lucas Piazon|Piazon]] <br /> {{penmiss}} [[Ruben Loftus-Cheek|Loftus-Cheek]]
+| location = [[Dublin]], Republic of Ireland
+| stadium = [[Aviva Stadium]]
+| attendance = 46,002
+| referee = Paul McLaughlin ([[Football Association of Ireland|Republic of Ireland]])
+| result = D
+}}
+{{Football box collapsible
+| date = 7 August 2018
+| time = 20:05 [[British Summer Time|BST]]
+| team1 = Chelsea
+| score = 0–0
+| report = https://www.chelseafc.com/en/news/2018/8/7/report-
+| team2 =  [[Olympique Lyonnais F.C.|Lyon]]
+| penalties1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{pengoal}} <br /> [[Ross Barkley|Barkley]] {{pengoal}} <br /> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{pengoal}} <br /> [[César Azpilicueta|Azpilicueta]] {{pengoal}} <br /> [[Eden Hazard|Hazard]] {{pengoal}}
+| penaltyscore = 5–4
+| penalties2 = {{pengoal}} [[Jordan Ferri|Ferri]] <br /> {{pengoal}} [[Marcelo (footballer, born May 1987)|Marcelo]] <br /> {{pengoal}} [[Amine Gouiri|Gouiri]] <br /> {{pengoal}} [[Kenny Tete|Tete]] <br /> {{penmiss}} [[Pape Cheikh Diop|Diop]]
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 18,457
+| referee = [[Paul Tierney (referee)|Paul Tierney]] ([[The Football Association|England]])
+| result = D
+}}
+
+==Competitions==
+
+===Premier League===
+{{main article|2018–19 Premier League}}
+
+====Tables====
+{{:2018–19 Premier League|showteam=CHE}}
+====Results by matchday====
+{{#invoke:sports rbr table|table|legendpos=b|header=Matchday
+
+|label1= Ground
+|res1= A/H/A/H/H/A/H/A/H/A/H/H/A/H/A/H/A/H/A/A/H/H/A/A/H/A/H/A/H/A/A/H/H/A/H/A/H/A
+|label2= Result
+|res2= W/W/W/W/W/D/D/W/D/W/W/D/L/W/L/W/W/L/W/W/D/W/L/L/W/L/W/W/D/L/W/W/W/L/D/D/W/D
+|label3= Position
+|res3=2/3/3/2/1/3/3/2/3/3/2/3/4/3/4/4/4/4/4/4/4/4/4/5/4/6/4/5/4/5/5/5/4/5/4/4/3/3
+
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_P=#BBBBBB|text_P=Postponed
+|color1=gold|color_2-4=green1|color_5-6=blue1|color_18–20=red1
+
+|source=[https://www.premierleague.com/fixtures Premier League]
+|date=June 2018
+}}
+
+==== Score overview ====
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+{|class="wikitable" style="text-align: center;"
+|-
+!Opposition
+!Home score
+!Away score
+!Aggregate score
+!Double
+|-
+|[[Arsenal F.C.|Arsenal]]
+| style="background:#bbf3bb;"|3–2
+| style="background:#ffbbbb;"|0–2
+| style="background:#ffbbbb;"|3–4
+| {{na}}
+|-
+||[[AFC Bournemouth|Bournemouth]]
+| style="background:#bbf3bb;"|2–0
+| style="background:#ffbbbb;"|0–4
+| style="background:#ffbbbb;"|2–4
+| {{na}}
+|-
+|[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| style="background:#bbf3bb;"|3–0
+| style="background:#bbf3bb;"|2–1
+| style="background:#bbf3bb;"|5–1
+|{{ya}}
+|-
+|[[Burnley F.C.|Burnley]]
+| style="background:#ffffbb;"|2–2
+| style="background:#bbf3bb;"|4–0
+| style="background:#bbf3bb;"|6–2
+|{{na}}
+|-
+|[[Cardiff City F.C.|Cardiff City]]
+| style="background:#bbf3bb;"|4–1
+| style="background:#bbf3bb;"|2–1
+| style="background:#bbf3bb;"|6–2
+| {{ya}}
+|-
+|[[Crystal Palace F.C.|Crystal Palace]]
+| style="background:#bbf3bb;"|3–1
+| style="background:#bbf3bb;"|1–0
+| style="background:#bbf3bb;"|4–1
+|{{ya}}
+|-
+|[[Everton F.C.|Everton]]
+|style="background:#ffffbb;"|0–0
+|style="background:#ffbbbb;"|0–2
+|style="background:#ffbbbb;"|0–2
+|{{na}}
+|-
+|[[Fulham F.C.|Fulham]]
+| style="background:#bbf3bb;"|2–0
+| style="background:#bbf3bb;"|2–1
+| style="background:#bbf3bb;"|4–1
+| {{ya}}
+|-
+|[[Huddersfield Town F.C.|Huddersfield Town]]
+| style="background:#bbf3bb;"|5–0
+| style="background:#bbf3bb;"|3–0
+| style="background:#bbf3bb;"|8–0
+| {{ya}}
+|-
+|[[Leicester City F.C.|Leicester City]]
+| style="background:#ffbbbb;"|0–1
+| style="background:#ffffbb;"|0–0
+| style="background:#ffbbbb;"|0–1
+|{{na}}
+|-
+|[[Liverpool F.C.|Liverpool]]
+| style="background:#ffffbb;"|1–1
+| style="background:#ffbbbb;"|0–2
+| style="background:#ffbbbb;"|1–3
+|{{na}}
+|-
+|[[Manchester City F.C.|Manchester City]]
+| style="background:#bbf3bb;"|2–0
+| style="background:#ffbbbb;"|0–6
+| style="background:#ffbbbb;"|2–6
+|{{na}}
+|-
+|[[Manchester United F.C.|Manchester United]]
+| style="background:#ffffbb;"|2–2
+| style="background:#ffffbb;"|1–1
+| style="background:#ffffbb;"|3–3
+|{{na}}
+|-
+|[[Newcastle United F.C.|Newcastle United]]
+| style="background:#bbf3bb;"|2–1
+| style="background:#bbf3bb;"|2–1
+| style="background:#bbf3bb;"|4–2
+|{{ya}}
+|-
+|[[Southampton F.C.|Southampton]]
+| style="background:#ffffbb;"|0–0
+| style="background:#bbf3bb;"|3–0
+| style="background:#bbf3bb;"|3–0
+|{{na}}
+|-
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| style="background:#bbf3bb;"|2–0
+| style="background:#ffbbbb;"|1–3
+| style="background:#ffffbb;"|3–3
+|{{na}}
+|-
+|[[Watford F.C.|Watford]]
+| style="background:#bbf3bb;"|3–0
+| style="background:#bbf3bb;"|2–1
+| style="background:#bbf3bb;"|5–1
+| {{ya}}
+|-
+|[[West Ham United F.C.|West Ham United]]
+| style="background:#ffffbb;"|0–0
+| style="background:#bbf3bb;"|2–0
+| style="background:#bbf3bb;"|2–0
+|{{na}}
+|-
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| style="background:#ffffbb;"|1–1
+| style="background:#ffbbbb;"|1–2
+| style="background:#ffbbbb;"|2–3
+|{{na}}
+|}
+
+====Matches====
+{{Football box collapsible
+| round = 1
+| date = 11 August 2018
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| goals1 = [[Christopher Schindler|Schindler]] {{yel|44}} <br /> [[Terence Kongolo|Kongolo]] {{yel|83}}
+| score = 0–3
+| report = https://www.premierleague.com/match/38311
+| team2 = Chelsea
+| goals2 = [[N'Golo Kanté|Kanté]] {{goal|34}} <br /> [[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|45|pen.}} <br /> [[David Luiz]] {{yel|69}} <br /> [[Pedro (footballer, born 1987)|Pedro]] {{goal|80}}
+| location = [[Huddersfield]]
+| stadium = [[Kirklees Stadium|John Smith's Stadium]]
+| attendance = 24,121
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[Arsenal F.C.–Chelsea F.C. rivalry|2]]
+| date = 18 August 2018
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Pedro (footballer, born 1987)|Pedro]] {{goal|9}} <br /> [[Álvaro Morata|Morata]] {{goal|20}} <br /> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{goal|81}}
+| score = 3–2
+| report = https://www.premierleague.com/match/38321
+| team2 = [[Arsenal F.C.|Arsenal]]
+| goals2 = [[Granit Xhaka|Xhaka]] {{yel|27}} <br /> [[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|37}} <br /> [[Alex Iwobi|Iwobi]] {{goal|41}} <br /> [[Shkodran Mustafi|Mustafi]] {{yel|77}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,491
+| referee = [[Martin Atkinson]]
+| result = W
+}}
+{{Football box collapsible
+| round = 3
+| date = 26 August 2018
+| time = 16:00 [[British Summer Time|BST]]
+| team1 = [[Newcastle United F.C.|Newcastle United]]
+| goals1 = [[Fabian Schär|Schär]] {{yel|65}} <br /> [[Federico Fernández (footballer)|Fernández]] {{yel|68}} <br /> [[Matt Ritchie|Ritchie]] {{yel|70}} <br /> [[Joselu]] {{goal|83}}
+| score = 1–2
+| report = https://www.premierleague.com/match/38334
+| team2 = Chelsea
+| goals2 = [[Mateo Kovačić|Kovačić]] {{yel|40}} <br /> [[Eden Hazard|Hazard]] {{goal|76|pen.}} <br /> [[DeAndre Yedlin|Yedlin]] {{goal|87|o.g.}}
+| location = [[Newcastle upon Tyne|Newcastle]]
+| stadium = [[St James' Park]]
+| attendance = 51,791
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| result = W
+}}
+{{Football box collapsible
+| round = 4
+| date = 1 September 2018
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|33}} <br /> [[N'Golo Kanté|Kanté]] {{yel|55}} <br /> [[Pedro (footballer, born 1987)|Pedro]] {{goal|72}} <br /> [[Eden Hazard|Hazard]] {{goal|85}}
+| score = 2–0
+| report = https://www.premierleague.com/match/38341
+| team2 = [[AFC Bournemouth|Bournemouth]]
+| goals2 = [[Dan Gosling|Gosling]] {{yel|20}} <br /> [[Jefferson Lerma|Lerma]] {{yel|70}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,178
+| referee = [[Lee Mason]]
+| result = W
+}}
+{{Football box collapsible
+| round = 5
+| date = 15 September 2018
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Eden Hazard|Hazard]] {{goal|37||44||80|pen.}} <br /> [[Willian (footballer, born 1988)|Willian]] {{goal|83}}
+| score = 4–1
+| report = https://www.premierleague.com/match/38349
+| team2 = [[Cardiff City F.C.|Cardiff City]]
+| goals2 = [[Sol Bamba|Bamba]] {{goal|16}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,499
+| referee = [[Jon Moss (referee)|Jon Moss]]
+| result = W
+}}
+{{Football box collapsible
+| round = 6
+| date = 23 September 2018
+| time = 13:30 [[British Summer Time|BST]]
+| team1 = [[West Ham United F.C.|West Ham United]]
+| goals1 = [[Felipe Anderson]] {{yel|52}} <br /> [[Robert Snodgrass|Snodgrass]] {{yel|90+3}}
+| score = 0–0
+| report = https://www.premierleague.com/match/38367
+| team2 = Chelsea
+| goals2 = [[N'Golo Kanté|Kanté]] {{yel|50}}
+| location = [[London]]
+| stadium = [[London Stadium]]
+| attendance = 56,875
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = D
+}}
+{{Football box collapsible
+| round = [[Chelsea F.C.–Liverpool F.C. rivalry|7]]
+| date = 29 September 2018
+| time = 17:30 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Eden Hazard|Hazard]] {{goal|25}}
+| score = 1–1
+| report = https://www.premierleague.com/match/38371
+| team2 = [[Liverpool F.C.|Liverpool]]
+| goals2 = [[Sadio Mané|Mané]] {{yel|39}} <br /> [[James Milner|Milner]] {{yel|77}} <br /> [[Daniel Sturridge|Sturridge]] {{goal|89}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,625
+| referee = [[Andre Marriner]]
+| result = D
+}}
+{{Football box collapsible
+| round = 8
+| date = 7 October 2018
+| time = 14:15 [[British Summer Time|BST]]
+| team1 = [[Southampton F.C.|Southampton]]
+| goals1 = [[Ryan Bertrand|Bertrand]] {{yel|45+2}} <br /> [[Mario Lemina|Lemina]] {{yel|54}} <br /> [[Cédric Soares|Cédric]] {{yel|59}} <br /> [[Oriol Romeu|Romeu]] {{yel|61}} <br /> [[Pierre-Emile Højbjerg|Højbjerg]] {{yel|66}} <br /> [[Danny Ings|Ings]] {{yel|90}}
+| score = 0–3
+| report = https://www.premierleague.com/match/38385
+| team2 = Chelsea
+| goals2 = [[Eden Hazard|Hazard]] {{goal|30}} <br /> [[Ross Barkley|Barkley]] {{goal|57}} <br /> [[Álvaro Morata|Morata]] {{goal|90+3}}
+| location = [[Southampton]]
+| stadium = [[St Mary's Stadium]]
+| attendance = 27,077
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{Football box collapsible
+| round = 9
+| date = 20 October 2018
+| time = 12:30 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Antonio Rüdiger|Rüdiger]] {{goal|21}}, {{yel|30}} <br /> [[Eden Hazard|Hazard]] {{yel|34}} <br /> [[Ross Barkley|Barkley]] {{goal|90+6}}
+| score = 2–2
+| report = https://www.premierleague.com/match/38391
+| team2 = [[Manchester United F.C.|Manchester United]]
+| goals2 = [[Nemanja Matić|Matić]] {{yel|13}} <br /> [[Ashley Young|Young]] {{yel|27}} <br /> [[Anthony Martial|Martial]] {{goal|55||73}} <br /> [[Juan Mata|Mata]] {{yel|67}} <br /> [[Alexis Sánchez|Sánchez]] {{yel|90+4}} <br /> [[Andreas Pereira|Pereira]] {{yel|90+5}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,721
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = D
+}}
+{{Football box collapsible
+| round = 10
+| date = 28 October 2018
+| time = 13:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Burnley F.C.|Burnley]]
+| goals1 = [[James Tarkowski|Tarkowski]] {{yel|43}} <br /> [[Jeff Hendrick|Hendrick]] {{yel|48}} <br /> [[Robbie Brady|Brady]] {{yel|61}} <br /> [[Jóhann Berg Guðmundsson|Guðmundsson]] {{yel|64}}
+| score = 0–4
+| report = https://www.premierleague.com/match/38399
+| team2 = Chelsea
+| goals2 = [[Álvaro Morata|Morata]] {{goal|22}}, {{yel|43}} <br /> [[Willian (footballer, born 1988)|Willian]] {{yel|45}}, {{goal|62}} <br /> [[Ross Barkley|Barkley]] {{goal|57}} <br /> [[Ruben Loftus-Cheek|Loftus-Cheek]] {{goal|90+2}}
+| location = [[Burnley]]
+| stadium = [[Turf Moor]]
+| attendance = 21,430
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{Football box collapsible
+| round = 11
+| date = 4 November 2018
+| time = 16:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Álvaro Morata|Morata]] {{goal|32||65}} <br /> [[Pedro (footballer, born 1987)|Pedro]] {{goal|70}}
+| score = 3–1
+| report = https://www.premierleague.com/match/38411
+| team2 = [[Crystal Palace F.C.|Crystal Palace]]
+| goals2 = [[Andros Townsend|Townsend]] {{goal|53}} <br /> [[Luka Milivojević|Milivojević]] {{yel|86}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,407
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = W
+}}
+{{Football box collapsible
+| round = 12
+| date = 11 November 2018
+| time = 14:15 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|28}} <br /> [[N'Golo Kanté|Kanté]] {{yel|33}} <br /> [[Antonio Rüdiger|Rüdiger]] {{yel|45+2}} <br /> [[Álvaro Morata|Morata]] {{yel|87}}
+| score = 0–0
+| report = https://www.premierleague.com/match/38420
+| team2 = [[Everton F.C.|Everton]]
+| goals2 = [[Yerry Mina|Mina]] {{yel|22}} <br /> [[Bernard (footballer)|Bernard]] {{yel|45+2}} <br /> [[Jordan Pickford|Pickford]] {{yel|73}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,345
+| referee = [[Kevin Friend]]
+| result = D
+}}
+{{Football box collapsible
+| round = [[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|13]]
+| date = 24 November 2018
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| goals1 = [[Dele Alli|Alli]] {{goal|8}} <br /> [[Harry Kane|Kane]] {{goal|16}} <br /> [[Son Heung-min|Son]] {{goal|54}}
+| score = 3–1
+| report = https://www.premierleague.com/match/38434
+| team2 = Chelsea
+| goals2 = [[Antonio Rüdiger|Rüdiger]] {{yel|19}} <br /> [[Eden Hazard|Hazard]] {{yel|45+3}} <br /> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|72}} <br /> [[Olivier Giroud|Giroud]] {{goal|85}}
+| location = [[London]]
+| stadium = [[Wembley Stadium]]
+| attendance = 55,465
+| referee = [[Martin Atkinson]]
+| result = L
+}}
+{{Football box collapsible
+| round = 14
+| date = 2 December 2018
+| time = 12:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Pedro (footballer, born 1987)|Pedro]] {{goal|4}} <br /> [[César Azpilicueta|Azpilicueta]] {{yel|69}} <br /> [[Ruben Loftus-Cheek|Loftus-Cheek]] {{goal|82}} <br /> [[Álvaro Morata|Morata]] {{yel|83}}
+| score = 2–0
+| report = https://www.premierleague.com/match/38440
+| team2 = [[Fulham F.C.|Fulham]]
+| goals2 = [[Denis Odoi|Odoi]] {{yel|54}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,551
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{Football box collapsible
+| round = 15
+| date = 5 December 2018
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| team1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| goals1 = [[Romain Saïss|Saïss]] {{yel|37}} <br /> [[João Moutinho|Moutinho]] {{yel|54}} <br /> [[Raúl Jiménez|Jiménez]] {{goal|59}} <br /> [[Conor Coady|Coady]] {{yel|61}} <br /> [[Diogo Jota|Jota]] {{goal|63}} <br /> [[Rúben Vinagre|Vinagre]] {{yel|68}}
+| score = 2–1
+| report = https://www.premierleague.com/match/38455
+| team2 = Chelsea
+| goals2 = [[Ruben Loftus-Cheek|Loftus-Cheek]] {{goal|18}} <br /> [[Cesc Fàbregas|Fàbregas]] {{yel|64}} <br /> [[Olivier Giroud|Giroud]] {{yel|86}} <br /> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|90+1}} <br /> [[Andreas Christensen|Christensen]] {{yel|90+4}}
+| location = [[Wolverhampton]]
+| stadium = [[Molineux Stadium]]
+| attendance = 31,300
+| referee = [[Jon Moss (referee)|Jon Moss]]
+| result = L
+}}
+{{Football box collapsible
+| round = 16
+| date = 8 December 2018
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[N'Golo Kanté|Kanté]] {{goal|45}} <br /> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|63}} <br /> [[David Luiz]] {{goal|78}} <br /> [[Pedro (footballer, born 1987)|Pedro]] {{yel|80}}
+| score = 2–0
+| report = https://www.premierleague.com/match/38462
+| team2 = [[Manchester City F.C.|Manchester City]]
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,571
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = W
+}}
+{{Football box collapsible
+| round = 17
+| date = 16 December 2018
+| time = 13:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| goals1 = [[Lewis Dunk|Dunk]] {{yel|55}} <br /> [[Solly March|March]] {{goal|66}} <br /> [[Florin Andone|Andone]] {{yel|69}}
+| score = 1–2
+| report = https://www.premierleague.com/match/38468
+| team2 = Chelsea
+| goals2 = [[Pedro (footballer, born 1987)|Pedro]] {{goal|17}} <br /> [[Eden Hazard|Hazard]] {{goal|33}} <br /> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|87}} <br /> [[Kepa Arrizabalaga|Arrizabalaga]] {{yel|90}}
+| location = [[Falmer]]
+| stadium = [[Falmer Stadium|Amex Stadium]]
+| attendance = 30,645
+| referee = [[Stuart Attwell]]
+| result = W
+}}
+{{Football box collapsible
+| round = 18
+| date = 22 December 2018
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| score = 0–1
+| report = https://www.premierleague.com/match/38481
+| team2 = [[Leicester City F.C.|Leicester City]]
+| goals2 = [[Wilfred Ndidi|Ndidi]] {{yel|31}} <br /> [[Jamie Vardy|Vardy]] {{goal|51}} <br /> [[Nampalys Mendy|Mendy]] {{yel|81}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,558
+| referee = [[Lee Probert]]
+| result = L
+}}
+{{Football box collapsible
+| round = 19
+| date = 26 December 2018
+| time = 19:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Watford F.C.|Watford]]
+| goals1 = [[Roberto Pereyra|Pereyra]] {{goal|45+3}} <br /> [[Ben Foster (footballer)|Foster]] {{yel|58}}
+| score = 1–2
+| report = https://www.premierleague.com/match/38497
+| team2 = Chelsea
+| goals2 = [[Eden Hazard|Hazard]] {{goal|45+1||58|pen.}}
+| location = [[Watford]]
+| stadium = [[Vicarage Road]]
+| attendance = 20,415
+| referee = [[Martin Atkinson]]
+| result = W
+}}
+{{Football box collapsible
+| round = 20
+| date = 30 December 2018
+| time = 12:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Crystal Palace F.C.|Crystal Palace]]
+| score = 0–1
+| report = https://www.premierleague.com/match/38500
+| team2 = Chelsea
+| goals2 = [[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|10}} <br /> [[N'Golo Kanté|Kanté]] {{goal|51}}
+| location = [[London]]
+| stadium = [[Selhurst Park]]
+| attendance = 25,781
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{Football box collapsible
+| round = 21
+| date = 2 January 2019
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Antonio Rüdiger|Rüdiger]] {{yel|74}}
+| score = 0–0
+| report = https://www.premierleague.com/match/38511
+| team2 = [[Southampton F.C.|Southampton]]
+| goals2 = [[Jan Bednarek (footballer)|Bednarek]] {{yel|30}} <br /> [[Oriol Romeu|Romeu]] {{yel|79}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,668
+| referee = [[Jon Moss (referee)|Jon Moss]]
+| result = D
+}}
+{{Football box collapsible
+| round = 22
+| date = 12 January 2019
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Pedro (footballer, born 1987)|Pedro]] {{goal|9}} <br /> [[Willian (footballer, born 1988)|Willian]] {{goal|57}} <br /> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|63}}
+| score = 2–1
+| report = https://www.premierleague.com/match/38521
+| team2 = [[Newcastle United F.C.|Newcastle United]]
+| goals2 = [[Matt Ritchie|Ritchie]] {{yel|24}} <br /> [[Ciaran Clark|Clark]] {{goal|40}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,491
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[Arsenal F.C.–Chelsea F.C. rivalry|23]]
+| date = 19 January 2019
+| time = 17:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Arsenal F.C.|Arsenal]]
+| goals1 = [[Alexandre Lacazette|Lacazette]] {{goal|14}} <br /> [[Laurent Koscielny|Koscielny]] {{goal|39}}
+| score = 2–0
+| report = https://www.premierleague.com/match/38528
+| team2 = Chelsea
+| goals2 = [[David Luiz]] {{yel|37}} <br /> [[Ross Barkley|Barkley]] {{yel|90+5}}
+| location = [[London]]
+| stadium = [[Emirates Stadium]]
+| attendance = 59,979
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = L
+}}
+{{Football box collapsible
+| round = 24
+| date = 30 January 2019
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| team1 = [[AFC Bournemouth|Bournemouth]]
+| goals1 = [[Joshua King (footballer, born 1992)|King]] {{goal|47||74}} <br /> [[David Brooks (footballer)|Brooks]] {{goal|63}} <br /> [[Andrew Surman|Surman]] {{yel|72}} <br /> [[Charlie Daniels (footballer)|Daniels]] {{goal|90+5}}
+| score = 4–0
+| report = https://www.premierleague.com/match/38539
+| team2 = Chelsea
+| location = [[Bournemouth]]
+| stadium = [[Dean Court|Vitality Stadium]]
+| attendance = 10,227
+| referee = [[Roger East (referee)|Roger East]]
+| result = L
+}}
+{{Football box collapsible
+| round = 25
+| date = 2 February 2019
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Gonzalo Higuaín|Higuaín]] {{goal|16||69}} <br /> [[Eden Hazard|Hazard]] {{goal|45+1|pen.|66}} <br /> [[David Luiz]] {{goal|86}}
+| score = 5–0
+| report = https://www.premierleague.com/match/38551
+| team2 = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,626
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| result = W
+}}
+{{Football box collapsible
+| round = 26
+| date = 10 February 2019
+| time = 16:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Manchester City F.C.|Manchester City]]
+| goals1 = [[Raheem Sterling|Sterling]] {{goal|4||80}} <br /> [[Sergio Agüero|Agüero]] {{goal|13||19||56|pen.}} <br /> [[İlkay Gündoğan|Gündoğan]] {{goal|25}}, {{yel|77}}
+| score = 6–0
+| report = https://www.premierleague.com/match/38563
+| team2 = Chelsea
+| goals2 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|60}} <br /> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|69}}
+| location = [[Manchester]]
+| stadium = [[City of Manchester Stadium|Etihad Stadium]]
+| attendance = 54,452
+| referee = [[Mike Dean (referee)|Mike Dean]]
+| result = L
+}}
+{{Football box collapsible
+| round = [[Chelsea F.C.–Tottenham Hotspur F.C. rivalry|28]]
+| date = 27 February 2019
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Pedro (footballer, born 1987)|Pedro]] {{goal|57}} <br /> [[Kieran Trippier|Trippier]] {{goal|84|o.g.}} <br /> [[David Luiz]] {{yel|90+4}}
+| score = 2–0
+| report = https://www.premierleague.com/match/38583
+| team2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| goals2 = [[Harry Kane|Kane]] {{yel|90+4}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,542
+| referee = [[Andre Marriner]]
+| result = W
+}}
+{{Football box collapsible
+| round = 29
+| date = 3 March 2019
+| time = 14:05 [[Greenwich Mean Time|GMT]]
+| team1 = [[Fulham F.C.|Fulham]]
+| goals1 = [[Calum Chambers|Chambers]] {{yel|22}}, {{goal|27}} <br /> [[Kevin McDonald (footballer, born 1988)|McDonald]] {{yel|51}}
+| score = 1–2
+| report = https://www.premierleague.com/match/38592
+| team2 = Chelsea
+| goals2 = [[Gonzalo Higuaín|Higuaín]] {{goal|20}} <br /> [[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|31}}, {{yel|61}}
+| location = [[London]]
+| stadium = [[Craven Cottage]]
+| attendance = 24,900
+| referee = [[Graham Scott (referee)|Graham Scott]]
+| result = W
+}}
+{{Football box collapsible
+| round = 30
+| date = 10 March 2019
+| time = 14:05 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Antonio Rüdiger|Rüdiger]] {{yel|78}} <br /> [[Eden Hazard|Hazard]] {{goal|90+2}}
+| score = 1–1
+| report = https://www.premierleague.com/match/38600
+| team2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| goals2 = [[Matt Doherty (footballer, born 1992)|Doherty]] {{yel|37}} <br /> [[Raúl Jiménez|Jiménez]] {{goal|56}} <br /> [[Romain Saïss|Saïss]] {{yel|66}} <br /> [[Willy Boly|Boly]] {{yel|75}} <br /> [[Diogo Jota|Jota]] {{yel|80}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,692
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = D
+}}
+{{Football box collapsible
+| round = 31
+| date = 17 March 2019
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| team1 = [[Everton F.C.|Everton]]
+| goals1 = [[Richarlison]] {{goal|49}} <br /> [[André Gomes|Gomes]] {{yel|59}} <br /> [[Gylfi Sigurðsson|Sigurðsson]] {{goal|72}}
+| score = 2–0
+| report = https://www.premierleague.com/match/38611
+| team2 = Chelsea
+| goals2 = [[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|36}} <br /> [[Antonio Rüdiger|Rüdiger]] {{yel|61}}
+| location = [[Liverpool]]
+| stadium = [[Goodison Park]]
+| attendance = 39,356
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = L
+}}
+{{Football box collapsible
+| round = 32
+| date = 31 March 2019
+| time = 14:05 [[British Summer Time|BST]]
+| team1 = [[Cardiff City F.C.|Cardiff City]]
+| goals1 = [[Víctor Camarasa|Camarasa]] {{goal|46}} <br /> [[Harry Arter|Arter]] {{yel|54}} <br /> [[Aron Gunnarsson|Gunnarsson]] {{yel|86}}
+| score = 1–2
+| report = https://www.premierleague.com/match/38621
+| team2 = Chelsea
+| goals2 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|26}} <br /> [[César Azpilicueta|Azpilicueta]] {{yel|61}}, {{goal|84}} <br /> [[Antonio Rüdiger|Rüdiger]] {{yel|87}} <br /> [[Ruben Loftus-Cheek|Loftus-Cheek]] {{goal|90+1}}
+| location = [[Cardiff]]
+| stadium = [[Cardiff City Stadium]]
+| attendance = 32,657
+| referee = [[Craig Pawson]]
+| result = W
+}}
+{{Football box collapsible
+| round = 27
+| date = 3 April 2019
+| time = 19:45 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Olivier Giroud|Giroud]] {{goal|38}} <br /> [[Eden Hazard|Hazard]] {{goal|60}} <br /> [[Ruben Loftus-Cheek|Loftus-Cheek]] {{goal|63}}
+| score = 3–0
+| report = https://www.premierleague.com/match/38572
+| team2 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 38,593
+| referee = [[Graham Scott (referee)|Graham Scott]]
+| result = W
+}}
+{{Football box collapsible
+| round = 33
+| date = 8 April 2019
+| time = 20:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Eden Hazard|Hazard]] {{goal|24||90}} <br /> [[César Azpilicueta|Azpilicueta]] {{yel|82}} <br /> [[Kepa Arrizabalaga|Arrizabalaga]] {{yel|84}}
+| score = 2–0
+| report = https://www.premierleague.com/match/38629
+| team2 = [[West Ham United F.C.|West Ham United]]
+| goals2 = [[Angelo Ogbonna|Ogbonna]] {{yel|11}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,537
+| referee = [[Chris Kavanagh (referee)|Chris Kavanagh]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[Chelsea F.C.–Liverpool F.C. rivalry|34]]
+| date = 14 April 2019
+| time = 16:30 [[British Summer Time|BST]]
+| team1 = [[Liverpool F.C.|Liverpool]]
+| goals1 = [[Sadio Mané|Mané]] {{goal|51}} <br /> [[Mohamed Salah|Salah]] {{goal|53}}
+| score = 2–0
+| report = https://www.premierleague.com/match/38643
+| team2 = Chelsea
+| goals2 = [[César Azpilicueta|Azpilicueta]] {{yel|44}}
+| location = [[Liverpool]]
+| stadium = [[Anfield]]
+| attendance = 53,279
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = L
+}}
+{{Football box collapsible
+| round = 35
+| date = 22 April 2019
+| time = 20:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[N'Golo Kanté|Kanté]] {{goal|12}} <br /> [[Gonzalo Higuaín|Higuaín]] {{goal|14}} <br /> [[Pedro (footballer, born 1987)|Pedro]] {{yel|90+2}} <br /> [[Mateo Kovačić|Kovačić]] {{yel|90+4}}
+| score = 2–2
+| report = https://www.premierleague.com/match/38651
+| team2 = [[Burnley F.C.|Burnley]]
+| goals2 = [[Jeff Hendrick|Hendrick]] {{goal|8}} <br /> [[Ashley Barnes|Barnes]] {{goal|24}} <br /> [[Tom Heaton|Heaton]] {{yel|32}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,642
+| referee = [[Kevin Friend]]
+| result = D
+}}
+{{Football box collapsible
+| round = 36
+| date = 28 April 2019
+| time = 16:30 [[British Summer Time|BST]]
+| team1 = [[Manchester United F.C.|Manchester United]]
+| goals1 = [[Juan Mata|Mata]] {{goal|11}} <br /> [[Ander Herrera|Herrera]] {{yel|43}} <br /> [[Marcos Rojo|Rojo]] {{yel|80}} <br /> [[Ashley Young|Young]] {{yel|89}}
+| score = 1–1
+| report = https://www.premierleague.com/match/38664
+| team2 = Chelsea
+| goals2 = [[Marcos Alonso (footballer, born 1990)|Alonso]] {{goal|43}} <br /> [[Willian (footballer, born 1988)|Willian]] {{yel|52}} <br /> [[Mateo Kovačić|Kovačić]] {{yel|54}}
+| location = [[Manchester]]
+| stadium = [[Old Trafford]]
+| attendance = 74,526
+| referee = [[Martin Atkinson]]
+| result = D
+}}
+{{Football box collapsible
+| round = 37
+| date = 5 May 2019
+| time = 14:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| goals1 = [[Ruben Loftus-Cheek|Loftus-Cheek]] {{goal|48}} <br /> [[David Luiz]] {{goal|51}} <br /> [[Gonzalo Higuaín|Higuaín]] {{goal|75}}
+| score = 3–0
+| report = https://www.premierleague.com/match/38671
+| team2 = [[Watford F.C.|Watford]]
+| goals2 = [[Abdoulaye Doucouré|Doucouré]] {{yel|90}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,650
+| referee = [[Paul Tierney (referee)|Paul Tierney]]
+| result = W
+}}
+{{Football box collapsible
+| round = 38
+| date = 12 May 2019
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = [[Leicester City F.C.|Leicester City]]
+| score = 0–0
+| report = https://www.premierleague.com/match/38682
+| team2 = Chelsea
+| goals2 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|30}}
+| location = [[Leicester]]
+| stadium = [[King Power Stadium]]
+| attendance = 32,140
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = D
+}}
+
+===FA Cup===
+{{main article|2018–19 FA Cup}}
+
+{{Football box collapsible
+| round = [[2018–19 FA Cup#Third round proper|Third round]]
+| date = 5 January 2019
+| time = 15:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Ross Barkley|Barkley]] {{yel|41}} <br /> [[Álvaro Morata|Morata]] {{goal|49||59}}
+| score = 2–0
+| report = https://www.bbc.co.uk/sport/football/46706906
+| team2 = [[Nottingham Forest F.C.|Nottingham Forest]]
+| goals2 = [[Jack Colback|Colback]] {{yel|67}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,544
+| referee = [[Andrew Madley]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[2018–19 FA Cup#Fourth round proper|Fourth round]]
+| date = 27 January 2019
+| time = 18:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Willian (footballer, born 1988)|Willian]] {{goal|26|pen.|83}} <br /> [[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|64}}
+| score = 3–0
+| report = https://www.bbc.co.uk/sport/football/46935982
+| team2 = [[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+| goals2 = [[Morgan Fox (footballer)|Fox]] {{yel|38}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 37,433
+| referee = [[Andre Marriner]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[2018–19 FA Cup#Fifth round proper|Fifth round]]
+| date = 18 February 2019
+| time = 19:30 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Antonio Rüdiger|Rüdiger]] {{yel|60}} <br /> [[N'Golo Kanté|Kanté]] {{yel|65}}
+| score = 0–2
+| report = https://www.bbc.co.uk/sport/football/47194019
+| team2 = [[Manchester United F.C.|Manchester United]]
+| goals2 = [[Nemanja Matić|Matić]] {{yel|15}} <br /> [[Ashley Young|Young]] {{yel|21}} <br /> [[Ander Herrera|Herrera]] {{goal|31}} <br /> [[Paul Pogba|Pogba]] {{goal|45}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,562
+| referee = [[Kevin Friend]]
+| result = L
+}}
+
+===EFL Cup===
+{{main article|2018–19 EFL Cup}}
+
+{{Football box collapsible
+| round = [[2018–19 EFL Cup#Third round|Third round]]
+| date = 26 September 2018
+| time = 19:45 [[British Summer Time|BST]]
+| team1 = [[Liverpool F.C.|Liverpool]]
+| goals1 = [[James Milner|Milner]] {{yel|21}} <br /> [[Joël Matip|Matip]] {{yel|26}} <br /> [[Fabinho (footballer, born 1993)|Fabinho]] {{yel|56}} <br /> [[Daniel Sturridge|Sturridge]] {{goal|58}} <br /> [[Naby Keïta|Keïta]] {{yel|78}} <br /> [[Jordan Henderson|Henderson]] {{yel|90}}
+| score = 1–2
+| report = https://www.bbc.co.uk/sport/football/45569330
+| team2 = Chelsea
+| goals2 = [[Mateo Kovačić|Kovačić]] {{yel|50}} <br /> [[Emerson Palmieri|Emerson]] {{goal|79}} <br /> [[Eden Hazard|Hazard]] {{goal|85}} <br /> [[Victor Moses|Moses]] {{yel|90+1}} <br /> [[Álvaro Morata|Morata]] {{yel|90+5}}
+| location = [[Liverpool]]
+| stadium = [[Anfield]]
+| attendance = 45,503
+| referee = [[Kevin Friend]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[2018–19 EFL Cup#Fourth round|Fourth round]]
+| date = 31 October 2018
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Fikayo Tomori|Tomori]] {{goal|5|o.g.}} <br /> [[Richard Keogh|Keogh]] {{goal|21|o.g.}} <br /> [[Cesc Fàbregas|Fàbregas]] {{goal|41}} <br /> [[Emerson Palmieri|Emerson]] {{yel|84}}
+| score = 3–2
+| report = https://www.bbc.co.uk/sport/football/45961339
+| team2 = [[Derby County F.C.|Derby County]]
+| goals2 = [[Jack Marriott (footballer)|Marriott]] {{goal|9}} <br /> [[Martyn Waghorn|Waghorn]] {{goal|27}} <br /> [[Richard Keogh|Keogh]] {{yel|90+3}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 39,564
+| referee = [[Jon Moss (referee)|Jon Moss]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[2018–19 EFL Cup#Quarter-finals|Quarter-finals]]
+| date = 19 December 2018
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[Cesc Fàbregas|Fàbregas]] {{yel|60}} <br /> [[Eden Hazard|Hazard]] {{goal|84}}
+| score = 1–0
+| report = https://www.bbc.co.uk/sport/football/46533821
+| team2 = [[AFC Bournemouth|Bournemouth]]
+| goals2 = [[Junior Stanislas|Stanislas]] {{yel|57}} <br /> [[Jack Simpson (footballer)|Simpson]] {{yel|65}}
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 40,432
+| referee = [[Anthony Taylor (referee)|Anthony Taylor]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[2018–19 EFL Cup#Semi-finals|Semi-finals first leg]]
+| date = 8 January 2019
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| goals1 = [[Harry Kane|Kane]] {{goal|26|pen.}} <br /> [[Harry Winks|Winks]] {{yel|29}} <br /> [[Davinson Sánchez|Sánchez]] {{yel|59}} <br /> [[Erik Lamela|Lamela]] {{yel|82}}
+| score = 1–0
+| report = https://www.bbc.co.uk/sport/football/46726198
+| team2 = Chelsea
+| goals2 = [[Kepa Arrizabalaga|Arrizabalaga]] {{yel|25}}
+| location = [[London]]
+| stadium = [[Wembley Stadium]]
+| attendance = 44,371
+| referee = [[Michael Oliver (referee)|Michael Oliver]]
+| result = L
+}}
+{{Football box collapsible
+| round = [[2018–19 EFL Cup#Semi-finals|Semi-finals second leg]]
+| date = 24 January 2019
+| time = 19:45 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[N'Golo Kanté|Kanté]] {{goal|27}}, {{yel|56}} <br /> [[Eden Hazard|Hazard]] {{goal|38}} <br /> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|53}} <br /> [[César Azpilicueta|Azpilicueta]] {{yel|66}}
+| score = 2–1
+| aggregatescore = 2–2
+| report = https://www.bbc.co.uk/sport/football/46839114
+| team2 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| goals2 = [[Fernando Llorente|Llorente]] {{goal|50}} <br /> [[Moussa Sissoko|Sissoko]] {{yel|73}}
+| penalties1 = [[Willian (footballer, born 1988)|Willian]] {{pengoal}} <br /> [[César Azpilicueta|Azpilicueta]] {{pengoal}} <br /> [[Jorginho (footballer, born December 1991)|Jorginho]] {{pengoal}} <br /> [[David Luiz]] {{pengoal}}
+| penaltyscore = 4–2
+| penalties2 = {{pengoal}} [[Christian Eriksen|Eriksen]] <br /> {{pengoal}} [[Erik Lamela|Lamela]] <br /> {{penmiss}} [[Eric Dier|Dier]] <br /> {{penmiss}} [[Lucas Moura|Lucas]]
+| location = [[London]]
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 38,610
+| referee = [[Martin Atkinson]]
+| result = W
+}}
+{{Football box collapsible
+| round = [[2019 EFL Cup final|Final]]
+| date = 24 February 2019
+| time = 16:30 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea
+| goals1 = [[David Luiz]] {{yel|30}} <br /> [[Antonio Rüdiger|Rüdiger]] {{yel|72}} <br /> [[Jorginho (footballer, born December 1991)|Jorginho]] {{yel|88}}
+| score = 0–0
+| aet = yes
+| report = https://www.bbc.co.uk/sport/football/47268861
+| team2 = [[Manchester City F.C.|Manchester City]]
+| goals2 = [[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|58}} <br /> [[Nicolás Otamendi|Otamendi]] {{yel|90+1}}
+| penalties1 = [[Jorginho (footballer, born December 1991)|Jorginho]] {{penmiss}} <br /> [[César Azpilicueta|Azpilicueta]] {{pengoal}} <br /> [[Emerson Palmieri|Emerson]] {{pengoal}} <br /> [[David Luiz]] {{penmiss}} <br /> [[Eden Hazard|Hazard]] {{pengoal}}
+| penaltyscore = 3–4
+| penalties2 = {{pengoal}} [[İlkay Gündoğan|Gündoğan]] <br /> {{pengoal}} [[Sergio Agüero|Agüero]] <br /> {{penmiss}} [[Leroy Sané|Sané]] <br /> {{pengoal}} [[Bernardo Silva|B. Silva]] <br /> {{pengoal}} [[Raheem Sterling|Sterling]]
+| location = [[London]]
+| stadium = [[Wembley Stadium]]
+| attendance = 81,775
+| referee = [[Jon Moss (referee)|Jon Moss]]
+| result = D
+}}
+
+===FA Community Shield===
+{{main article|2018 FA Community Shield}}
+
+{{Football box collapsible
+| date = 5 August 2018
+| time = 15:00 [[British Summer Time|BST]]
+| team1 = Chelsea
+| score = 0–2
+| report = http://www.thefa.com/news/2018/aug/05/fa-community-shield-chelsea-manchester-city-report-050818
+| team2 = [[Manchester City F.C.|Manchester City]]
+| goals2 = [[Sergio Agüero|Agüero]] {{goal|13||58}}
+| location = [[London]]
+| stadium = [[Wembley Stadium]]
+| attendance = 72,724
+| referee = [[Jon Moss (referee)|Jon Moss]]
+| result = L
+}}
+
+===UEFA Europa League===
+{{main|2018–19 UEFA Europa League}}
+
+====Group stage====
+{{main|2018–19 UEFA Europa League group stage#Group L}}
+'''Tables'''
+{{:2018–19 UEFA Europa League group stage|transcludesection=Group L|show_matches=no|showteam=CHL|title=Group L}}
+'''Matches'''
+{{Football box collapsible
+| round = 1
+| date = 20 September 2018
+| time = 19:55 [[Eastern European Summer Time|EEST]]
+| team1 = [[PAOK FC|PAOK]] {{fbaicon|GRE}}
+| goals1 = [[Pontus Wernbloom|Wernbloom]] {{yel|88}} <br /> [[Amr Warda|Warda]] {{yel|90+2}} <br /> [[Omar El Kaddouri|El Kaddouri]] {{yel|90+3}}
+| score = 0–1
+| report = https://www.uefa.com/uefaeuropaleague/match/2025171--paok-vs-chelsea/
+| team2 = {{fbaicon|ENG}} Chelsea
+| goals2 = [[Willian (footballer, born 1988)|Willian]] {{goal|7}} <br /> [[Ross Barkley|Barkley]] {{yel|90}} <br /> [[Antonio Rüdiger|Rüdiger]] {{yel|90+1}}
+| location = [[Thessaloniki]], Greece
+| stadium = [[Toumba Stadium]]
+| attendance = 24,310
+| referee = [[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+| result = W
+}}
+{{Football box collapsible
+| round = 2
+| date = 4 October 2018
+| time = 20:00 [[British Summer Time|BST]]
+| team1 = Chelsea {{fbaicon|ENG}}
+| goals1 = [[Álvaro Morata|Morata]] {{yel|66}}, {{goal|70}}
+| score = 1–0
+| report = https://www.uefa.com/uefaeuropaleague/match/2025184--chelsea-vs-fehervar/
+| team2 = {{fbaicon|HUN}} [[Fehérvár FC|MOL Vidi]]
+| goals2 = [[Loïc Nego|Nego]] {{yel|14}} <br /> [[Szabolcs Huszti|Huszti]] {{yel|44}} <br /> [[Georgi Milanov (footballer)|Milanov]] {{yel|56}}
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 39,925
+| referee = [[Miroslav Zelinka]] ([[Football Association of the Czech Republic|Czech Republic]])
+| result = W
+}}
+{{Football box collapsible
+| round = 3
+| date = 25 October 2018
+| time = 20:00 [[British Summer Time|BST]]
+| team1 = Chelsea {{fbaicon|ENG}}
+| goals1 = [[Ruben Loftus-Cheek|Loftus-Cheek]] {{goal|2||8||54}}
+| score = 3–1
+| report = https://www.uefa.com/uefaeuropaleague/match/2025207--chelsea-vs-bate/
+| team2 = {{fbaicon|BLR}} [[FC BATE Borisov|BATE Borisov]]
+| goals2 = [[Alexander Hleb|Hleb]] {{yel|34}} <br /> [[Alexei Rios|Rios]] {{goal|80}}
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 39,799
+| referee = [[Paolo Mazzoleni]] ([[Italian Football Federation|Italy]])
+| result = W
+}}
+{{Football box collapsible
+| round = 4
+| date = 8 November 2018
+| time = 20:55 [[Further-eastern European Time|FET]]
+| team1 = [[FC BATE Borisov|BATE Borisov]] {{fbaicon|BLR}}
+| score = 0–1
+| report = https://www.uefa.com/uefaeuropaleague/match/2025243--bate-vs-chelsea/
+| team2 = {{fbaicon|ENG}} Chelsea
+| goals2 = [[Olivier Giroud|Giroud]] {{goal|53}}
+| location = [[Barysaw]], Belarus
+| stadium = [[Borisov Arena]]
+| attendance = 13,141
+| referee = [[Nikola Dabanović]] ([[Football Association of Montenegro|Montenegro]])
+| result = W
+}}
+{{Football box collapsible
+| round = 5
+| date = 29 November 2018
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea {{fbaicon|ENG}}
+| goals1 = [[Olivier Giroud|Giroud]] {{goal|27||37}} <br /> [[Gary Cahill|Cahill]] {{yel|54}} <br /> [[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|60}} <br /> [[Álvaro Morata|Morata]] {{goal|78}}
+| score = 4–0
+| report = https://www.uefa.com/uefaeuropaleague/match/2025255--chelsea-vs-paok/
+| team2 = {{fbaicon|GRE}} [[PAOK FC|PAOK]]
+| goals2 = [[Yevhen Khacheridi|Khacheridi]] {{sentoff|0|7}} <br /> [[Pontus Wernbloom|Wernbloom]] {{yel|50}} <br /> [[Dimitrios Pelkas|Pelkas]] {{yel|80}}
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 33,933
+| referee = [[Kristo Tohver]] ([[Estonian Football Association|Estonia]])
+| result = W
+}}
+{{Football box collapsible
+| round = 6
+| date = 13 December 2018
+| time = 18:55 [[Central European Time|CET]]
+| team1 = [[Fehérvár FC|MOL Vidi]] {{fbaicon|HUN}}
+| goals1 = [[Ethan Ampadu|Ampadu]] {{goal|32|o.g.}} <br /> [[Loïc Nego|Nego]] {{goal|56}}, {{yel|76}} <br /> [[Roland Juhász|Juhász]] {{yel|66}} <br /> [[Szabolcs Huszti|Huszti]] {{yel|69}} <br /> [[Paulo Vinícius (footballer, born 1990)|Vinícius]] {{yel|74}}
+| score = 2–2
+| report = https://www.uefa.com/uefaeuropaleague/match/2025292--fehervar-vs-chelsea/
+| team2 = {{fbaicon|ENG}} Chelsea
+| goals2 = [[Willian (footballer, born 1988)|Willian]] {{goal|30}} <br /> [[Olivier Giroud|Giroud]] {{goal|75}} <br /> [[Ruben Loftus-Cheek|Loftus-Cheek]] {{yel|79}}
+| location = [[Budapest]], Hungary
+| stadium = [[Groupama Arena]]
+| attendance = 19,242
+| referee = [[Aleksandar Stavrev]] ([[Football Federation of North Macedonia|North Macedonia]])
+| result = D
+}}
+
+====Knockout phase====
+{{main|2018–19 UEFA Europa League knockout phase}}
+
+=====Round of 32=====
+{{Football box collapsible
+| round = First leg
+| date = 14 February 2019
+| time = 21:00 [[Central European Time|CET]]
+| team1 = [[Malmö FF]] {{fbaicon|SWE}}
+| goals1 = [[Anders Christiansen|Christiansen]] {{goal|80}}
+| score = 1–2
+| report = https://www.uefa.com/uefaeuropaleague/match/2026875--malmo-vs-chelsea/
+| team2 = {{fbaicon|ENG}} Chelsea
+| goals2 = [[Ross Barkley|Barkley]] {{goal|30}} <br /> [[Olivier Giroud|Giroud]] {{goal|58}}
+| location = [[Malmö]], Sweden
+| stadium = [[Stadion (Malmö)|Malmö New Stadion]]
+| attendance = 20,312
+| referee = [[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+| result = W
+}}
+{{Football box collapsible
+| round = Second leg
+| date = 21 February 2019
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea {{fbaicon|ENG}}
+| goals1 = [[Ross Barkley|Barkley]] {{yel|18}}, {{goal|74}} <br /> [[Olivier Giroud|Giroud]] {{goal|55}} <br /> [[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|84}}
+| score = 3–0
+| aggregatescore = 5–1
+| report = https://www.uefa.com/uefaeuropaleague/match/2026891--chelsea-vs-malmo/
+| team2 = {{fbaicon|SWE}} [[Malmö FF]]
+| goals2 = [[Behrang Safari|Safari]] {{yel|31}} <br /> [[Markus Rosenberg|Rosenberg]] {{yel|44}} <br /> [[Anders Christiansen|Christiansen]] {{yel|51}} <br /> [[Rasmus Bengtsson|Bengtsson]] {{sentoff|2|52|73}}
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 39,813
+| referee = [[Orel Grinfeld]] ([[Israel Football Association|Israel]])
+| result = W
+}}
+
+=====Round of 16=====
+{{Football box collapsible
+| round = First leg
+| date = 7 March 2019
+| time = 20:00 [[Greenwich Mean Time|GMT]]
+| team1 = Chelsea {{fbaicon|ENG}}
+| goals1 = [[Pedro (footballer, born 1987)|Pedro]] {{goal|17}} <br /> [[Willian (footballer, born 1988)|Willian]] {{goal|65}} <br /> [[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|90}}
+| score = 3–0
+| report = https://www.uefa.com/uefaeuropaleague/match/2026901--chelsea-vs-dynamo-kyiv/
+| team2 = {{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+| goals2 = [[Volodymyr Shepelyev|Shepelyev]] {{yel|9}} <br /> [[Vitaliy Buyalskyi|Buyalskyi]] {{yel|42}}
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 37,280
+| referee = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+| result = W
+}}
+{{Football box collapsible
+| round = Second leg
+| date = 14 March 2019
+| time = 19:55 [[Eastern European Time|EET]]
+| team1 = [[FC Dynamo Kyiv|Dynamo Kyiv]] {{fbaicon|UKR}}
+| goals1 = [[Vitaliy Mykolenko|Mykolenko]] {{yel|61}}
+| score = 0–5
+| aggregatescore = 0–8
+| report = https://www.uefa.com/uefaeuropaleague/match/2026909--dynamo-kyiv-vs-chelsea/
+| team2 = {{fbaicon|ENG}} Chelsea
+| goals2 = [[Olivier Giroud|Giroud]] {{goal|5||33||59}} <br /> [[Marcos Alonso (footballer, born 1990)|Alonso]] {{goal|45+1}} <br /> [[César Azpilicueta|Azpilicueta]] {{yel|73}} <br /> [[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|78}}
+| location = [[Kyiv]], Ukraine
+| stadium = [[Olimpiyskiy National Sports Complex]]
+| attendance = 64,830
+| referee = [[Tobias Stieler]] ([[German Football Association|Germany]])
+| result = W
+}}
+
+=====Quarter-finals=====
+{{Football box collapsible
+| round = First leg
+| date = 11 April 2019
+| time = 21:00 [[Central European Summer Time|CEST]]
+| team1 = [[SK Slavia Prague|Slavia Prague]] {{fbaicon|CZE}}
+| goals1 = [[Vladimír Coufal|Coufal]] {{yel|83}}
+| score = 0–1
+| report = https://www.uefa.com/uefaeuropaleague/match/2026920--slavia-praha-vs-chelsea/
+| team2 = {{fbaicon|ENG}} Chelsea
+| goals2 = [[Marcos Alonso (footballer, born 1990)|Alonso]] {{goal|86}}
+| location = [[Prague]], Czech Republic
+| stadium = [[Sinobo Stadium|Eden Arena]]
+| attendance = 17,484
+| referee = [[Felix Zwayer]] ([[German Football Association|Germany]])
+| result = W
+}}
+{{Football box collapsible
+| round = Second leg
+| date = 18 April 2019
+| time = 20:00 [[British Summer Time|BST]]
+| team1 = Chelsea {{fbaicon|ENG}}
+| goals1 = [[Pedro (footballer, born 1987)|Pedro]] {{goal|5||27}} <br /> [[Simon Deli|Deli]] {{goal|10|o.g.}} <br /> [[Olivier Giroud|Giroud]] {{goal|17}} <br /> [[N'Golo Kanté|Kanté]] {{yel|34}} <br /> [[Emerson Palmieri|Emerson]] {{yel|75}} <br /> [[Kepa Arrizabalaga|Arrizabalaga]] {{yel|83}} <br /> [[David Luiz]] {{yel|90}}
+| score = 4–3
+| aggregatescore = 5–3
+| report = https://www.uefa.com/uefaeuropaleague/match/2026924--chelsea-vs-slavia-praha/
+| team2 = {{fbaicon|CZE}} [[SK Slavia Prague|Slavia Prague]]
+| goals2 = [[Tomáš Souček|Souček]] {{goal|26}}, {{yel|53}} <br /> [[Petr Ševčík|Ševčík]] {{goal|51||55}} <br /> [[Ondřej Kúdela|Kúdela]] {{yel|73}}
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 38,326
+| referee = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+| result = W
+}}
+
+=====Semi-finals=====
+{{Football box collapsible
+| round = First leg
+| date = 2 May 2019
+| time = 21:00 [[Central European Summer Time|CEST]]
+| team1 = [[Eintracht Frankfurt]] {{fbaicon|GER}}
+| goals1 = [[Luka Jović|Jović]] {{goal|23}} <br /> [[Makoto Hasebe|Hasebe]] {{yel|58}} <br /> [[Gelson Fernandes|Fernandes]] {{yel|61}}
+| score = 1–1
+| report = https://www.uefa.com/uefaeuropaleague/match/2026926--frankfurt-vs-chelsea/
+| team2 = {{fbaicon|ENG}} Chelsea
+| goals2 = [[Andreas Christensen|Christensen]] {{yel|19}} <br /> [[Pedro (footballer, born 1987)|Pedro]] {{goal|45}}
+| location = [[Frankfurt]], Germany
+| stadium = [[Waldstadion (Frankfurt)|Commerzbank-Arena]]
+| attendance = 48,000
+| referee = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+| result = D
+}}
+{{Football box collapsible
+| round = Second leg
+| date = 9 May 2019
+| time = 20:00 [[British Summer Time|BST]]
+| team1 = Chelsea {{fbaicon|ENG}}
+| goals1 = [[Ruben Loftus-Cheek|Loftus-Cheek]] {{goal|28}} <br /> [[Mateo Kovačić|Kovačić]] {{yel|52}} <br /> [[César Azpilicueta|Azpilicueta]] {{yel|83}} <br /> [[Davide Zappacosta|Zappacosta]] {{yel|120+1}}
+| score = 1–1
+| aet = yes
+| aggregatescore = 2–2
+| report = https://www.uefa.com/uefaeuropaleague/match/2026928--chelsea-vs-frankfurt/
+| team2 = {{fbaicon|GER}} [[Eintracht Frankfurt]]
+| goals2 = [[Simon Falette|Falette]] {{yel|38}} <br /> [[Sebastian Rode|Rode]] {{yel|40}} <br /> [[Luka Jović|Jović]] {{goal|49}} <br /> [[David Abraham (footballer)|Abraham]] {{yel|90+1}} <br /> [[Jonathan de Guzmán|De Guzmán]] {{yel|90+1}}
+| penalties1 = [[Ross Barkley|Barkley]] {{pengoal}} <br /> [[César Azpilicueta|Azpilicueta]] {{penmiss}} <br /> [[Jorginho (footballer, born December 1991)|Jorginho]] {{pengoal}} <br /> [[David Luiz]] {{pengoal}} <br /> [[Eden Hazard|Hazard]] {{pengoal}}
+| penaltyscore = 4–3
+| penalties2 = {{pengoal}} [[Sébastien Haller|Haller]] <br /> {{pengoal}} [[Luka Jović|Jović]] <br /> {{pengoal}} [[Jonathan de Guzmán|De Guzmán]] <br /> {{penmiss}} [[Martin Hinteregger|Hinteregger]] <br /> {{penmiss}} [[Gonçalo Paciência|Paciência]]
+| location = [[London]], England
+| stadium = [[Stamford Bridge (stadium)|Stamford Bridge]]
+| attendance = 36,070
+| referee = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+| result = D
+}}
+
+=====Final=====
+{{Football box collapsible
+| round = [[2019 UEFA Europa League final|Final]]
+| date = 29 May 2019
+| time = 23:00 [[Azerbaijan Time|AZT]]
+| team1 = Chelsea {{fbaicon|ENG}}
+| goals1 = [[Olivier Giroud|Giroud]] {{goal|49}} <br /> [[Pedro (footballer, born 1987)|Pedro]] {{yel|56}}, {{goal|60}} <br /> [[Eden Hazard|Hazard]] {{goal|65|pen.|72}} <br /> [[Andreas Christensen|Christensen]] {{yel|68}}
+| score = 4–1
+| report = https://www.uefa.com/uefaeuropaleague/match/2025487--chelsea-vs-arsenal/
+| team2 = {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| goals2 = [[Alex Iwobi|Iwobi]] {{goal|69}}
+| location = [[Baku]], Azerbaijan
+| stadium = [[Baku Olympic Stadium]]
+| attendance = 51,370
+| referee = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+| result = W
+}}
+
+==Statistics==
+
+===Appearances and goals===
+{| class="wikitable sortable" style="text-align:center;width:100%;"
+|-
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| No.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Pos.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Player
+! colspan=2 style=background:#034694;color:#FFFFFF| Premier League
+! colspan=2 style=background:#034694;color:#FFFFFF| FA Cup
+! colspan=2 style=background:#034694;color:#FFFFFF| EFL Cup
+! colspan=2 style=background:#034694;color:#FFFFFF| FA Community Shield
+! colspan=2 style=background:#034694;color:#FFFFFF| UEFA Europa League
+! colspan=2 style=background:#034694;color:#FFFFFF| Total
+|-
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+! style=background-color:#034694;color:#FFFFFF| Apps
+! style=background-color:#034694;color:#FFFFFF| Goals
+|-
+| 1
+| GK
+|align=left| {{flagicon|ESP}} [[Kepa Arrizabalaga]]
+||36||0||1||0||4||0||0||0||13||0||'''54'''||'''0'''
+|-
+| 2
+| DF
+|align=left| {{flagicon|GER}} [[Antonio Rüdiger]]
+||33||1||2||0||4||0||1||0||4||0||'''44'''||'''1'''
+|-
+| 3
+| DF
+|align=left| {{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+||31||2||2||0||1||0||1||0||4||2||'''39'''||'''4'''
+|-
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+||37||2||1 (1)||0||3||0||1||0||8 (3)||0||'''50 (4)'''||'''2'''
+|-
+| 6
+| MF
+|align=left| {{flagicon|ENG}} [[Danny Drinkwater]]
+||0||0||0||0||0||0||0 (1)||0||0||0||'''0 (1)'''||'''0'''
+|-
+| 7
+| MF
+|align=left| {{flagicon|FRA}} [[N'Golo Kanté]]
+||36||4||1 (1)||0||4 (1)||1||0||0||6 (4)||0||'''47 (6)'''||'''5'''
+|-
+| 8
+| MF
+|align=left| {{flagicon|ENG}} [[Ross Barkley]]
+||13 (14)||3||2 (1)||0||5||0||1||0||9 (3)||2||'''30 (18)'''||'''5'''
+|-
+| 9
+| FW
+|align=left| {{flagicon|ARG}} [[Gonzalo Higuaín]]
+||13 (1)||5||2||0||0 (1)||0||0||0||0 (1)||0||'''15 (3)'''||'''5'''
+|-
+| 10
+| MF
+|align=left| {{flagicon|BEL}} [[Eden Hazard]]
+||32 (5)||16||1 (1)||0||3 (2)||3||0||0||4 (4)||2||'''40 (12)'''||'''21'''
+|-
+| 11
+| MF
+|align=left| {{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+||21 (10)||8||1||0||2 (3)||0||1||0||11 (3)||5||'''36 (16)'''||'''13'''
+|-
+| 12
+| MF
+|align=left| {{flagicon|ENG}} [[Ruben Loftus-Cheek]]
+||6 (18)||6||1 (1)||0||2 (1)||0||0||0||8 (3)||4||'''17 (23)'''||'''10'''
+|-
+| 13
+| GK
+|align=left| {{flagicon|ARG}} [[Willy Caballero]]
+||2||0||2||0||2||0||1||0||2||0||'''9'''||'''0'''
+|-
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+||21 (11)||0||2||0||3 (2)||0||0||0||10 (2)||0||'''36 (15)'''||'''0'''
+|-
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+||7 (20)||2||0 (1)||0||2 (1)||0||0||0||12 (2)||11||'''21 (24)'''||'''13'''
+|-
+| 20
+| MF
+|align=left| {{flagicon|ENG}} [[Callum Hudson-Odoi]]
+||4 (6)||0||2||1||1 (1)||0||1||0||4 (5)||4||'''12 (12)'''||'''5'''
+|-
+| 21
+| DF
+|align=left| {{flagicon|ITA}} [[Davide Zappacosta]]
+||1 (3)||0||1 (1)||0||1||0||0||0||8 (2)||0||'''11 (6)'''||'''0'''
+|-
+| 22
+| MF
+|align=left| {{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]]
+||26 (6)||3||1 (1)||2||5 (1)||0||0 (1)||0||11 (4)||3||'''43 (13)'''||'''8'''
+|-
+| 24
+| DF
+|align=left| {{flagicon|ENG}} [[Gary Cahill]]
+||0 (2)||0||0||0||2||0||0||0||4||0||'''6 (2)'''||'''0'''
+|-
+| 27
+| DF
+|align=left| {{flagicon|DEN}} [[Andreas Christensen]]
+||6 (2)||0||2||0||4||0||0||0||15||0||'''27 (2)'''||'''0'''
+|-
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+||38||1||2 (1)||0||5 (1)||0||1||0||7 (2)||0||'''53 (4)'''||'''1'''
+|-
+| 30
+| DF
+|align=left| {{flagicon|BRA}} [[David Luiz]]
+||36||3||2||0||2 (3)||0||1||0||6||0||'''47 (3)'''||'''3'''
+|-
+| 31
+| GK
+|align=left| {{flagicon|ENG}} [[Robert Green]]
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+| 33
+| DF
+|align=left| {{flagicon|ITA}} [[Emerson Palmieri|Emerson]]
+||7 (3)||0||1||0||5||1||0||0||11||0||'''24 (3)'''||'''1'''
+|-
+| 44
+| DF
+|align=left| {{flagicon|WAL}} [[Ethan Ampadu]]
+||0||0||2||0||0||0||0||0||1 (2)||0||'''3 (2)'''||'''0'''
+|-
+| 51
+| MF
+|align=left| {{flagicon|ENG}} [[Conor Gallagher]]
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+| 52
+| GK
+|align=left| {{flagicon|ENG}} [[Jamie Cumming]]
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+| 53
+| DF
+|align=left| {{flagicon|ENG}} [[Marc Guehi]]
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+| 55
+| MF
+|align=left| {{flagicon|ENG}} [[George McEachran]]
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+| 59
+| GK
+|align=left| {{flagicon|POL}} [[Marcin Bułka]]
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|-
+! colspan=15 style=background:#dcdcdc| Players have left the club
+|-
+| 19
+| FW
+|align=left| {{flagicon|ENG}} [[Tammy Abraham]]
+||0||0||0||0||0||0||0 (1)||0||0||0||'''0 (1)'''||'''0'''
+|-
+| 4
+| MF
+|align=left| {{flagicon|ESP}} [[Cesc Fàbregas]]
+||1 (5)||0||1||0||3||1||1||0||4 (1)||0||'''10 (6)'''||'''1'''
+|-
+| 15
+| MF
+|align=left| {{flagicon|NGA}} [[Victor Moses]]
+||0 (2)||0||0||0||1||0||0 (1)||0||0 (2)||0||'''1 (5)'''||'''0'''
+|-
+| 29
+| FW
+|align=left| {{flagicon|ESP}} [[Álvaro Morata]]
+||11 (5)||5||1||2||2||0||1||0||3 (1)||2||'''18 (6)'''||'''9'''
+|-
+| 34
+| MF
+|align=left| {{flagicon|BRA}} [[Lucas Piazon]]
+||0||0||0||0||0||0||0||0||0||0||'''0'''||'''0'''
+|}
+{{Fb rs footer|u=30 June 2019|s=[[#Competitions|Competitions]]|date=June 2019}}
+
+===Top scorers===
+{| class="wikitable sortable" style="text-align:center;width:85%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Rank
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| Premier League
+! style=background-color:#034694;color:#FFFFFF| FA Cup
+! style=background-color:#034694;color:#FFFFFF| EFL Cup
+! style=background-color:#034694;color:#FFFFFF| FA Community Shield
+! style=background-color:#034694;color:#FFFFFF| UEFA Europa League
+! style=background-color:#034694;color:#FFFFFF| Total
+|-
+| 1
+| 10
+| MF
+|align=left| {{flagicon|BEL}} [[Eden Hazard]]
+||16||0||3||0||2||'''21'''
+|-
+|rowspan=2| 2
+| 11
+| MF
+|align=left| {{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+||8||0||0||0||5
+|rowspan=2| '''13'''
+|-
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+||2||0||0||0||11
+|-
+| 4
+| 12
+| MF
+|align=left| {{flagicon|ENG}} [[Ruben Loftus-Cheek]]
+||6||0||0||0||4||'''10'''
+|-
+| 5
+| 29
+| FW
+|align=left| {{flagicon|ESP}} [[Álvaro Morata]]
+||5||2||0||0||2||'''9'''
+|-
+| 6
+| 22
+| MF
+|align=left| {{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]]
+||3||2||0||0||3||'''8'''
+|-
+|rowspan=4| 7
+| 7
+| MF
+|align=left| {{flagicon|FRA}} [[N'Golo Kanté]]
+||4||0||1||0||0
+|rowspan=4| '''5'''
+|-
+| 8
+| MF
+|align=left| {{flagicon|ENG}} [[Ross Barkley]]
+||3||0||0||0||2
+|-
+| 9
+| FW
+|align=left| {{flagicon|ARG}} [[Gonzalo Higuaín]]
+||5||0||0||0||0
+|-
+| 20
+| MF
+|align=left| {{flagicon|ENG}} [[Callum Hudson-Odoi]]
+||0||1||0||0||4
+|-
+| 11
+| 3
+| DF
+|align=left| {{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+||2||0||0||0||2||'''4'''
+|-
+| 12
+| 30
+| DF
+|align=left| {{flagicon|BRA}} [[David Luiz]]
+||3||0||0||0||0||'''3'''
+|-
+| 13
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+||2||0||0||0||0||'''2'''
+|-
+|rowspan=4| 14
+| 2
+| DF
+|align=left| {{flagicon|GER}} [[Antonio Rüdiger]]
+||1||0||0||0||0
+|rowspan=4| '''1'''
+|-
+| 4
+| MF
+|align=left| {{flagicon|ESP}} [[Cesc Fàbregas]]
+||0||0||1||0||0
+|-
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+||1||0||0||0||0
+|-
+| 33
+| DF
+|align=left| {{flagicon|ITA}} [[Emerson Palmieri|Emerson]]
+||0||0||1||0||0
+|-
+|colspan=4| Own goals
+||2||0||2||0||1||'''5'''
+|-
+|colspan=4| '''Total'''
+||'''63'''||'''5'''||'''8'''||'''0'''||'''36'''||'''112'''
+|}
+{{Fb rs footer|u=30 June 2019|s=[[#Competitions|Competitions]]|date=June 2019}}
+
+===Top assists===
+{| class="wikitable sortable" style="text-align:center;width:85%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Rank
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| Premier League
+! style=background-color:#034694;color:#FFFFFF| FA Cup
+! style=background-color:#034694;color:#FFFFFF| EFL Cup
+! style=background-color:#034694;color:#FFFFFF| FA Community Shield
+! style=background-color:#034694;color:#FFFFFF| UEFA Europa League
+! style=background-color:#034694;color:#FFFFFF| Total
+|-
+| 1
+| 10
+| MF
+|align=left| {{flagicon|BEL}} [[Eden Hazard]]
+||15||0||0||0||2||'''17'''
+|-
+| 2
+| 22
+| MF
+|align=left| {{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]]
+||6||0||0||0||7||'''13'''
+|-
+| 3
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+||4||1||0||0||4||'''9'''
+|-
+| 4
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+||5||0||2||0||0||'''7'''
+|-
+| 5
+| 8
+| MF
+|align=left| {{flagicon|ENG}} [[Ross Barkley]]
+||5||0||0||0||1||'''6'''
+|-
+|rowspan=4| 6
+| 3
+| DF
+|align=left| {{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+||4||0||0||0||1
+|rowspan=4| '''5'''
+|-
+| 11
+| MF
+|align=left| {{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+||2||0||0||0||3
+|-
+| 12
+| MF
+|align=left| {{flagicon|ENG}} [[Ruben Loftus-Cheek]]
+||2||0||0||0||3
+|-
+| 20
+| MF
+|align=left| {{flagicon|ENG}} [[Callum Hudson-Odoi]]
+||1||2||0||0||2
+|-
+| 10
+| 7
+| MF
+|align=left| {{flagicon|FRA}} [[N'Golo Kanté]]
+||4||0||0||0||0||'''4'''
+|-
+|rowspan=5| 11
+| 4
+| MF
+|align=left| {{flagicon|ESP}} [[Cesc Fàbregas]]
+||0||0||0||0||2
+|rowspan=5| '''2'''
+|-
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+||2||0||0||0||0
+|-
+| 21
+| DF
+|align=left| {{flagicon|ITA}} [[Davide Zappacosta]]
+||0||0||1||0||1
+|-
+| 30
+| DF
+|align=left| {{flagicon|BRA}} [[David Luiz]]
+||2||0||0||0||0
+|-
+| 33
+| DF
+|align=left| {{flagicon|ITA}} [[Emerson Palmieri|Emerson]]
+||0||0||0||0||2
+|-
+| 16
+| 27
+| DF
+|align=left| {{flagicon|DEN}} [[Andreas Christensen]]
+||0||1||0||0||0||'''1'''
+|-
+|colspan=4| '''Total'''
+||'''52'''||'''4'''||'''3'''||'''0'''||'''28'''||'''87'''
+|}
+{{Fb rs footer|u=30 June 2019|s=[[#Competitions|Competitions]]|date=June 2019}}
+
+===Clean sheets===
+{| class="wikitable sortable" style="text-align:center;width:85%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Rank
+! style=background-color:#034694;color:#FFFFFF| No.
+! style=background-color:#034694;color:#FFFFFF| Pos.
+! style=background-color:#034694;color:#FFFFFF| Player
+! style=background-color:#034694;color:#FFFFFF| Premier League
+! style=background-color:#034694;color:#FFFFFF| FA Cup
+! style=background-color:#034694;color:#FFFFFF| EFL Cup
+! style=background-color:#034694;color:#FFFFFF| FA Community Shield
+! style=background-color:#034694;color:#FFFFFF| UEFA Europa League
+! style=background-color:#034694;color:#FFFFFF| Total
+|-
+| 1
+| 1
+| GK
+|align=left| {{flagicon|ESP}} [[Kepa Arrizabalaga]]
+||14||0||2||0||7||'''23'''
+|-
+| 2
+| 13
+| GK
+|align=left| {{flagicon|ARG}} [[Willy Caballero]]
+||2||2||0||0||1||'''5'''
+|-
+|colspan=4| '''Total'''
+||'''16'''||'''2'''||'''2'''||'''0'''||'''8'''||'''28'''
+|}
+{{Fb rs footer|u=30 June 2019|s=[[#Competitions|Competitions]]|date=June 2019}}
+
+===Discipline===
+{| class="wikitable sortable" style="text-align:center;width:100%;"
+|-
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| No.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Pos.
+! rowspan=2 style=background-color:#034694;color:#FFFFFF| Player
+! colspan=3 style=background:#034694;color:#FFFFFF| Premier League
+! colspan=3 style=background:#034694;color:#FFFFFF| FA Cup
+! colspan=3 style=background:#034694;color:#FFFFFF| EFL Cup
+! colspan=3 style=background:#034694;color:#FFFFFF| FA Community Shield
+! colspan=3 style=background:#034694;color:#FFFFFF| UEFA Europa League
+! colspan=3 style=background:#034694;color:#FFFFFF| Total
+|-
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+|-
+| 1
+| GK
+|align=left| {{flagicon|ESP}} [[Kepa Arrizabalaga]]
+||2||0||0||0||0||0||1||0||0||0||0||0||1||0||0||'''4'''||'''0'''||'''0'''
+|-
+| 2
+| DF
+|align=left| {{flagicon|GER}} [[Antonio Rüdiger]]
+||7||0||0||1||0||0||1||0||0||0||0||0||1||0||0||'''10'''||'''0'''||'''0'''
+|-
+| 3
+| DF
+|align=left| {{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+||6||0||0||0||0||0||0||0||0||0||0||0||0||0||0||'''6'''||'''0'''||'''0'''
+|-
+| 4
+| MF
+|align=left| {{flagicon|ESP}} [[Cesc Fàbregas]]
+||1||0||0||0||0||0||1||0||0||0||0||0||0||0||0||'''2'''||'''0'''||'''0'''
+|-
+| 5
+| MF
+|align=left| {{flagicon|ITA}} [[Jorginho (footballer, born December 1991)|Jorginho]]
+||8||0||0||0||0||0||2||0||0||0||0||0||0||0||0||'''10'''||'''0'''||'''0'''
+|-
+| 7
+| MF
+|align=left| {{flagicon|FRA}} [[N'Golo Kanté]]
+||3||0||0||1||0||0||1||0||0||0||0||0||1||0||0||'''6'''||'''0'''||'''0'''
+|-
+| 8
+| MF
+|align=left| {{flagicon|ENG}} [[Ross Barkley]]
+||1||0||0||1||0||0||0||0||0||0||0||0||2||0||0||'''4'''||'''0'''||'''0'''
+|-
+| 10
+| MF
+|align=left| {{flagicon|BEL}} [[Eden Hazard]]
+||2||0||0||0||0||0||0||0||0||0||0||0||0||0||0||'''2'''||'''0'''||'''0'''
+|-
+| 11
+| MF
+|align=left| {{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+||2||0||0||0||0||0||0||0||0||0||0||0||1||0||0||'''3'''||'''0'''||'''0'''
+|-
+| 12
+| MF
+|align=left| {{flagicon|ENG}} [[Ruben Loftus-Cheek]]
+||0||0||0||0||0||0||0||0||0||0||0||0||1||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 15
+| MF
+|align=left| {{flagicon|NGA}} [[Victor Moses]]
+||0||0||0||0||0||0||1||0||0||0||0||0||0||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 17
+| MF
+|align=left| {{flagicon|CRO}} [[Mateo Kovačić]]
+||3||0||0||0||0||0||1||0||0||0||0||0||1||0||0||'''5'''||'''0'''||'''0'''
+|-
+| 18
+| FW
+|align=left| {{flagicon|FRA}} [[Olivier Giroud]]
+||1||0||0||0||0||0||0||0||0||0||0||0||0||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 21
+| DF
+|align=left| {{flagicon|ITA}} [[Davide Zappacosta]]
+||0||0||0||0||0||0||0||0||0||0||0||0||1||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 22
+| MF
+|align=left| {{flagicon|BRA}} [[Willian (footballer, born 1988)|Willian]]
+||2||0||0||0||0||0||0||0||0||0||0||0||0||0||0||'''2'''||'''0'''||'''0'''
+|-
+| 24
+| DF
+|align=left| {{flagicon|ENG}} [[Gary Cahill]]
+||0||0||0||0||0||0||0||0||0||0||0||0||1||0||0||'''1'''||'''0'''||'''0'''
+|-
+| 27
+| DF
+|align=left| {{flagicon|DEN}} [[Andreas Christensen]]
+||1||0||0||0||0||0||0||0||0||0||0||0||2||0||0||'''3'''||'''0'''||'''0'''
+|-
+| 28
+| DF
+|align=left| {{flagicon|ESP}} [[César Azpilicueta]]
+||4||0||0||0||0||0||1||0||0||0||0||0||2||0||0||'''7'''||'''0'''||'''0'''
+|-
+| 29
+| FW
+|align=left| {{flagicon|ESP}} [[Álvaro Morata]]
+||3||0||0||0||0||0||1||0||0||0||0||0||1||0||0||'''5'''||'''0'''||'''0'''
+|-
+| 30
+| DF
+|align=left| {{flagicon|BRA}} [[David Luiz]]
+||3||0||0||0||0||0||1||0||0||0||0||0||1||0||0||'''5'''||'''0'''||'''0'''
+|-
+| 33
+| DF
+|align=left| {{flagicon|ITA}} [[Emerson Palmieri|Emerson]]
+||0||0||0||0||0||0||1||0||0||0||0||0||1||0||0||'''2'''||'''0'''||'''0'''
+|-
+|colspan=3| '''Total'''
+||'''49'''||'''0'''||'''0'''||'''3'''||'''0'''||'''0'''||'''12'''||'''0'''||'''0'''||'''0'''||'''0'''||'''0'''||'''17'''||'''0'''||'''0'''||'''81'''||'''0'''||'''0'''
+|}
+{{Fb rs footer|u=30 June 2019|s=[[#Competitions|Competitions]]|date=June 2019}}
+
+===Summary===
+{| class="wikitable sortable" style="text-align:center;width:50%;"
+|-
+! style=background-color:#034694;color:#FFFFFF| Competition
+! style=background-color:#034694;color:#FFFFFF| P
+! style=background-color:#034694;color:#FFFFFF| W
+! style=background-color:#034694;color:#FFFFFF| D
+! style=background-color:#034694;color:#FFFFFF| L
+! style=background-color:#034694;color:#FFFFFF| GF
+! style=background-color:#034694;color:#FFFFFF| GA
+! style=background-color:#034694;color:#FFFFFF| CS
+! style=background-color:#034694;color:#FFFFFF| {{yel}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|2}}
+! style=background-color:#034694;color:#FFFFFF| {{sentoff|0}}
+|-
+| [[Premier League]]||38||21||9||8||63||39||16||49||0||0
+|-
+| [[FA Cup]]||3||2||0||1||5||2||2||3||0||0
+|-
+| [[EFL Cup]]||6||4||1||1||8||5||2||12||0||0
+|-
+| [[FA Community Shield]]||1||0||0||1||0||2||0||0||0||0
+|-
+| [[UEFA Europa League]]||15||12||3||0||36||10||8||17||0||0
+|-
+| '''Total'''||'''63'''||'''39'''||'''13'''||'''11'''||'''112'''||'''58'''||'''28'''||'''81'''||'''0'''||'''0'''
+|}
+{{Fb rs footer|u=30 June 2019|s=[[#Competitions|Competitions]]|date=June 2019}}
+
+==Awards==
+{| class="wikitable" style="text-align:center;width:75%;"
+|-
+! style=background:#034694;color:#FFFFFF| No.
+! style=background:#034694;color:#FFFFFF| Pos.
+! style=background:#034694;color:#FFFFFF| Player
+! style=background:#034694;color:#FFFFFF| Award
+! style=background:#034694;color:#FFFFFF| Source
+|-
+|rowspan=8| 10
+|rowspan=8| MF
+|rowspan=8; align=left| {{flagicon|BEL}} [[Eden Hazard]]
+| [[Premier League Player of the Month]] (September)
+| <ref>{{Cite web|title=Hazard named EA SPORTS Player of the Month|url=https://www.premierleague.com/news/877741|website=premierleague.com|date=12 October 2018}}</ref>
+|-
+| [[Premier League Goal of the Month]] (April)
+| <ref>{{Cite web|title=Hazard wins Carling Goal of the Month award|url=https://www.premierleague.com/news/1205989|website=premierleague.com|date=7 May 2019}}</ref>
+|-
+| Chelsea Player of the Year
+| <ref>{{Cite web|title=Chelsea Player of the Year 2019: Eden Hazard|url=https://www.chelseafc.com/en/news/2019/05/10/chelsea-player-of-the-year-2019--eden-hazard|website=chelseafc.com|date=10 May 2019}}</ref>
+|-
+| Chelsea Players' Player of the Year
+| <ref>{{Cite web|title=Chelsea Players' Player of the Year: Eden Hazard|url=https://www.chelseafc.com/en/news/2019/05/10/chelsea-players--player-of-the-year--eden-hazard|website=chelseafc.com|date=10 May 2019}}</ref>
+|-
+| Chelsea Goal of the Season
+| <ref>{{Cite web|title=Chelsea Goal of the Season 2019: Eden Hazard v Liverpool|url=https://www.chelseafc.com/en/news/2019/05/10/chelsea-goal-of-the-season-2019--eden-hazard-v-liverpool|website=chelseafc.com|date=10 May 2019}}</ref>
+|-
+| [[Premier League Playmaker of the Season]]
+| <ref>{{Cite web|title=Hazard wraps up 2018/19 Playmaker Award|url=https://www.premierleague.com/news/1215978|website=premierleague.com|date=12 May 2019}}</ref>
+|-
+| [[PFA Fans' Player of the Year]]
+| <ref>{{Cite web|title=Eden Hazard wins PFA Fans' Player of the Year award|url=https://www.chelseafc.com/en/news/2019/05/27/eden-hazard-wins-pfa-fans--player-of-the-year-award|website=chelseafc.com|date=27 May 2019}}</ref>
+|-
+| UEFA Europa League Player of the Season
+| <ref>{{Cite web|title=Eden Hazard named Europa League Player of the Season|url=https://www.uefa.com/uefaeuropaleague/news/0254-0e99e1e83f55-704bd90eeab5-1000--eden-hazard-named-europa-league-player-of-the-season/|website=[[UEFA]]|date=30 August 2019}}</ref>
+|-
+| 20
+| MF
+|align=left| {{flagicon|ENG}} [[Callum Hudson-Odoi]]
+| Chelsea Young Player of the Year
+| <ref name="Hudson-Odoi">{{Cite web|title=Callum Hudson-Odoi wins Young Player of the Year and Conor Gallagher picks up Academy prize|url=https://www.chelseafc.com/en/news/2019/05/10/callum-hudson-odoi-wins-young-player-of-the-year-and-conor-galla|website=chelseafc.com|date=10 May 2019}}</ref>
+|-
+| 51
+| MF
+|align=left| {{flagicon|ENG}} [[Conor Gallagher]]
+| Chelsea Academy Player of the Year
+| <ref name="Hudson-Odoi"/>
+|}
+
+==References==
+{{Reflist}}
+
+{{Chelsea F.C. seasons}}
+{{2018–19 in English men's football}}
+
+{{DEFAULTSORT:2018-19 Chelsea F.C. season}}
+[[Category:Chelsea F.C. seasons]]
+[[Category:2018–19 Premier League by team|Chelsea]]
+[[Category:2018 in sport in London|Chelsea]]
+[[Category:2019 in sport in London|Chelsea]]
+[[Category:2018–19 UEFA Europa League participants seasons|Chelsea]]
+[[Category:UEFA Europa League–winning seasons]]
