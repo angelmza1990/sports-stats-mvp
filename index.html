@@ -239,8 +239,8 @@
     <section class="sport" data-sport="football" id="football">
       <div class="sport-head">
         <h2>Football</h2>
-        <p>World and continental competitions, the Ballon d'Or and seven national leagues.</p>
-        <span class="count">12 pages</span>
+        <p>World and continental competitions, the Ballon d'Or, seven national leagues and four great rivalries.</p>
+        <span class="count">13 pages</span>
       </div>
       <div class="gallery">
         <a class="tile" href="football/world-cup/">
@@ -421,6 +421,22 @@
           <div class="body">
             <h3>Brasileirão</h3>
             <p>Every Brazilian national champion since 1937, with and without the years before 1971, the all-time table, every top scorer and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/rivalries/">
+          <div class="art" style="--tint: linear-gradient(135deg, #1f5fbf, #d6293e)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <path d="M18 24h38v42c0 16-10 26-19 30-9-4-19-14-19-30Z" fill="#ffffff" stroke="#0b2a66" stroke-width="3"/>
+              <path d="M18 50h38v8H18Z" fill="#f2c200"/>
+              <path d="M64 24h38v42c0 16-10 26-19 30-9-4-19-14-19-30Z" fill="#ffffff" stroke="#7a0f1d" stroke-width="3"/>
+              <path d="M64 70l38-30v10L64 80Z" fill="#d6293e"/>
+              <text x="60" y="114" text-anchor="middle" font-family="Barlow Condensed, Arial Narrow, sans-serif" font-weight="800" font-size="18" fill="#ffffff">VS</text>
+            </svg>
+            <div class="stat" data-stat="rivalries"><strong>266</strong><span>Superclásicos</span></div>
+          </div>
+          <div class="body">
+            <h3>Great Rivalries</h3>
+            <p>River–Boca, Real Madrid–Barcelona, Inter–Milan and Liverpool–United: every official match, the lead over time, results, knockout ties, finals, top scorers and friendlies.</p>
           </div>
         </a>
       </div>
@@ -820,6 +836,7 @@
           const [id, n] = most(d.titles, (t) => t.champion);
           return [String(n), `${d.clubs[id].name} titles`];
         }],
+        rivalries: ["football/rivalries/data/river-boca.json", (d) => [String(d.matches.length), "Superclásicos"]],
         atp: ["tennis/atp-records/data/atp-records.json", (d) => {
           const p = d.players.slice().sort((a, b) => b.weeks - a.weeks)[0];
           return [String(p.weeks), `weeks at No. 1, ${p.name.split(" ").slice(-1)[0]}`];

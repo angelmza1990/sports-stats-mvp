@@ -21,7 +21,7 @@
       ["football/copa-libertadores/", "Copa Libertadores"], ["football/world-club-champions/", "World Club Champions"],
       ["football/argentine-primera/", "Argentina"], ["football/serie-a/", "Serie A"], ["football/la-liga/", "La Liga"],
       ["football/premier-league/", "England"], ["football/ligue-1/", "Ligue 1"], ["football/bundesliga/", "Germany"],
-      ["football/brasileirao/", "Brasileirão"],
+      ["football/brasileirao/", "Brasileirão"], ["football/rivalries/", "Great Rivalries"],
     ] },
     { sport: "olympics", label: "Olympics", pages: [
       ["olympics/", "Olympic Games"], ["swimming/olympics/", "Swimming"], ["tennis/olympics/", "Tennis"],

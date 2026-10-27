@@ -117,6 +117,26 @@ Every league champion since 1891: a titles race with or without the amateur era,
 
 The Argentine page's format for six more countries, one page each with a shared front end: every national champion (Italy since 1898, England since 1888, France since 1894, Germany since 1903, Spain since 1929, Brazil since 1937), a titles race with and without the early era (before Serie A, the Premier League, the professional league, the Bundesliga or the 1971 Campeonato Brasileiro), titles by club, the all-time table where Wikipedia publishes one, the top scorer of every season and the all-time scorers.
 
+### ⚔️ [Great Rivalries](https://angelmza1990.github.io/sports-stats-mvp/football/rivalries/)
+
+Every official match of four great rivalries, River Plate vs Boca Juniors, Real Madrid vs Barcelona, Inter vs Milan and Liverpool vs Manchester United:
+
+- **The lead, match by match:** a line of wins minus losses after every official match, with each side's biggest lead
+- **Competition by competition:** league, domestic cups, super cups and international competitions
+- **The results that repeat:** every scoreline by frequency, split by who won it
+- **Home, away and neutral**, and **decade by decade**
+- **Knockout ties and finals:** every elimination and final between them, with how it was decided
+- **Records:** biggest wins, highest-scoring matches and the longest runs
+- **The players:** top scorers and most appearances
+- **Every match**, filterable by competition and result, and **friendlies** in their own tab
+
+| | Matches | Wins | Draws | Wins |
+|---|---:|---:|---:|---:|
+| River Plate vs Boca Juniors | 266 | 88 | 84 | 94 |
+| Real Madrid vs Barcelona | 265 | 107 | 52 | 106 |
+| Inter vs Milan | 246 | 91 | 71 | 84 |
+| Liverpool vs Manchester United | 218 | 72 | 61 | 85 |
+
 ### 🏅 [The Olympic Games](https://angelmza1990.github.io/sports-stats-mvp/olympics/)
 
 Every Summer Games since 1896 and every Winter Games since 1924, separately or together: a race of gold (or all) medals by nation, the all-time medal table, the nation that topped the table at each Games, the full medal table of every Games, every host and how it did at home (plus the Games already awarded), and the most decorated Olympians, filterable by sport and by men and women.
@@ -192,6 +212,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_football_people.py  # Coaches and players with the most titles (cups and leagues)
 │   ├── build_team_coaches.py     # Winning coaches: World Cup, club world champions, NBA and team tournaments
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
+│   ├── build_rivalries.py        # River–Boca, Madrid–Barcelona, Inter–Milan, Liverpool–United
 │   ├── build_f1.py               # Formula 1 pipeline
 │   ├── build_atp_records.py      # ATP and WTA career records pipeline
 │   ├── build_tour_finals.py      # ATP and WTA Finals: editions, matches, hosts
@@ -240,6 +261,7 @@ python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, Engl
 python3 scripts/build_football_people.py --refresh  # football: coaches and players (after the two above)
 python3 scripts/build_team_coaches.py         # winning coaches of the team sports (only new editions are looked up)
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
+python3 scripts/build_rivalries.py --refresh  # football: the four rivalries, match by match
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
 python3 scripts/build_tennis_ages.py --refresh  # tennis: age records (after build_grand_slams.py)
@@ -325,6 +347,7 @@ python3 -m http.server 8000
 - Flags: [Flagpedia](https://flagpedia.net) (flagcdn.com).
 - NBA championships: [Wikipedia](https://en.wikipedia.org/wiki/List_of_NBA_champions), CC BY-SA 4.0.
 - Football finals, club records and player records: Wikipedia (CC BY-SA 4.0).
+- Rivalries: every match from English, Spanish and Italian Wikipedia (CC BY-SA 4.0); Liverpool–Manchester United top scorers and appearances from [LFChistory.net](https://www.lfchistory.net/Opposition/Team/Profile/22).
 - NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, FIFA, CONMEBOL, UEFA, the AFA, the FIGC, the RFEF, LaLiga, the FA, the Premier League, the LFP, the DFB, the DFL, the CBF, the ATP, the WTA, France Football, Formula One, the FIA, World Rugby, FIBA, the FIVB, the FIH or the IOC.
 
 ## License
