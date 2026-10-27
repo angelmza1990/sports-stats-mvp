@@ -1,0 +1,7241 @@
+{{Ficha de competición deportiva
+|nombre         = Copa del Generalísimo 1969-70
+|tipo           = LXVI edición
+|tamaño         = 280px
+|edición        = 66
+|participantes  = 162
+|fecha          = {{fecha2|8|10|1969}}<br />{{fecha2|28|6|1970}}
+|recinto        = [[Camp Nou]], [[Barcelona]] (final)
+| campeón       = [[Real Madrid Club de Fútbol|Real Madrid C. F.]]
+| subcampeón    = [[Valencia Club de Fútbol|Valencia C. F.]] 
+| semifinalistas   = [[Athletic Club|Atlético de Bilbao]]<br />[[Real Zaragoza]]
+|est_nombre1    = Máximos goleadores
+|est1           = {{bandera|ESP|1945}} [[Fernando Ansola]]  {{small|''(6 goles)''}} <br />
+{{small|([[Valencia Club de Fútbol|Valencia C. F.]])}} <br />
+{{bandera|ESP|1945}} [[Amancio Amaro]]  {{small|''(6 goles)''}} <br />
+{{small|([[Real Madrid Club de Fútbol|Real Madrid C. F.]])}} <br />
+|anterior       = [[Copa del Generalísimo de fútbol 1969|1969]]
+|actual         = LXVI Edición
+|siguiente      = [[Copa del Generalísimo de fútbol 1970-71|1970-71]]
+}}
+La '''Copa del Generalísimo de fútbol 1969-70''' fue la 66.ª edición de dicha [[Copa del Rey|competición]] [[España|española]]. Contó con la participación de 162 equipos.
+  
+== Primera ronda ==
+=== Cuadro ===
+    {{TwoLegStart|partidos=3}}
+      {{TwoLegResult
+        | [[Club Atlético Monzón|C. Atlético Monzón]]
+        | 
+        | 2-5
+        | '''[[Futbol Club Vilafranca|C. F. Villafranca]]'''
+        | 
+        | ganador=2
+        | 1-1
+        | 1-4
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Numancia de Soria|C. D. Numancia]]
+        | 
+        | 0-1
+        | '''[[Real Valladolid Promesas|Recreativo Europa Delicias]]'''
+        | 
+        | ganador=2
+        | 0-0
+        | 0-1
+      }}
+      {{TwoLegResult
+        | '''[[Cádiz Club de Fútbol|Cádiz C. F.]]'''
+        | 
+        | 3-2
+        | [[Club Polideportivo Mérida|Mérida Industrial C. F.]]
+        | 
+        | ganador=1
+        | 3-2
+        | 0-0
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Iruña|C. D. Iruña]]
+        | 
+        | 2-4
+        | '''[[Unió Esportiva Miapuesta Vilajuïga|U. D. Figueras]]'''
+        | 
+        | ganador=2
+        | 0-1
+        | 2-3
+      }}
+      {{TwoLegResult
+        | '''[[Real Club Deportivo Fabril|Fabril Deportivo]]'''
+        | 
+        | 3-2
+        | [[Sociedad Deportiva Indautxu|S. D. Indauchu]]
+        | 
+        | ganador=1
+        | 2-0
+        | 1-2
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo La Unión|C. D. La Unión]]
+        | 
+        | 2-5
+        | '''[[Villarreal Club de Fútbol|Villarreal C. F.]]'''
+        | 
+        | ganador=2
+        | 2-1
+        | 0-4
+      }}
+      {{TwoLegResult
+        | [[Club de Fútbol Badalona|C. F. Badalona]]
+        | 
+        | 4-5
+        | '''[[Club Deportivo Atlético Baleares|C. D. Atlético Baleares]]'''
+        | 
+        | ganador=2
+        | 4-2
+        | 0-3
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Soledad|C. D. Soledad]]
+        | 
+        | 0-5
+        | '''[[Futbol Club Barcelona Atlètic|C. D. Condal]]'''
+        | 
+        | ganador=2
+        | 0-1
+        | 0-4
+      }}
+      {{TwoLegResult
+        | [[Sociedad Deportiva Ibiza|S. D. Ibiza]]
+        | 
+        | 1-3
+        | '''[[Hércules de Alicante Club de Fútbol|Hércules C. F.]]'''
+        | 
+        | ganador=2
+        | 0-1
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Sociedad Deportiva Sueca|S. D. Sueca]]'''
+        | 
+        | 5-3
+        | [[Club Atlético Calvo Sotelo|C. Atlético Calvo Sotelo]]
+        | 
+        | ganador=1
+        | 4-0
+        | 1-3
+      }}
+      {{TwoLegResult
+        | '''[[Xerez Club Deportivo|Xerez C. D.]]'''
+        | 
+        | 6-5
+        | [[Real Jaén Club de Fútbol|Real Jaén C. F.]]
+        | 
+        | ganador=1
+        | 4-0
+        | 2-5
+      }}
+      {{TwoLegResult
+        | '''[[Real Murcia Club de Fútbol "B"|Imperial C. F.]]'''
+        | 
+        | 4-2
+        | [[Club Deportivo Benicarló|C. D. Benicarló]]
+        | 
+        | ganador=1
+        | 3-0
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Eldense|C. D. Eldense]]'''
+        | 
+        | 5-3
+        | [[Unión Deportiva Oliva|U. D. Oliva]]
+        | 
+        | ganador=1
+        | 2-1
+        | 0-1
+        | 3-1
+      }}
+      {{TwoLegResult
+        | '''[[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]'''
+        | 
+        | 4-2
+        | [[Albacete Balompié]]
+        | 
+        | ganador=1
+        | 1-0
+        | 3-2
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Manchego|C. D. Manchego]]
+        | 
+        | 3-5
+        | '''[[Levante Unión Deportiva|Levante U. D.]]'''
+        | 
+        | ganador=2
+        | 2-0
+        | 1-5
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Iliturgi|C. D. Iliturgi]]'''
+        | 
+        | 7-5
+        | [[Agrupación Deportiva Ceuta Fútbol Club|C. Atlético de Ceuta]]
+        | 
+        | ganador=1
+        | 3-2
+        | 4-3
+      }}
+      {{TwoLegResult
+        | '''[[Sevilla Atlético|Sevilla Atlético C.]]'''
+        | 
+        | 3-2
+        | [[Club Deportivo Tenerife|Tenerife Atlético]]
+        | 
+        | ganador=1
+        | 1-0
+        | 2-2
+      }}
+      {{TwoLegResult
+        | [[Adra Club de Fútbol|Adra C. F.]]
+        | 
+        | 2-5
+        | '''[[Melilla Club de Fútbol|Melilla C. F.]]'''
+        | 
+        | ganador=2
+        | 2-1
+        | 0-4
+      }}
+      {{TwoLegResult
+        | '''[[Club Atlético de Madrid "B"|Reyfra Atlético O. J. E.]]'''
+        | 
+        | 5-1
+        | [[Algeciras Club de Fútbol|Algeciras C. F.]]
+        | 
+        | ganador=1
+        | 5-0
+        | 0-1
+      }}
+      {{TwoLegResult
+        | [[Aviaco Madrileño Club de Fútbol|Aviaco Madrileño C. F.]]
+        | 
+        | 4-6
+        | '''[[Club Deportivo Alcalá|C. D. Alcalá]]'''
+        | 
+        | ganador=2
+        | 4-3
+        | 0-3
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]'''
+        | 
+        | 7-3
+        | [[Club Deportivo San Fernando|C. D. San Fernando]]
+        | 
+        | ganador=1
+        | 6-0
+        | 1-3
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Estepona|C. D. Estepona]]
+        | 
+        | 4-6
+        | '''[[Talavera Club de Fútbol|Talavera C. F.]]'''
+        | 
+        | ganador=2
+        | 4-3
+        | 0-3
+      }}
+      {{TwoLegResult
+        | [[Club de Fútbol Extremadura|C. F. Extremadura]]
+        | 
+        | 1-7
+        | '''[[Racing Club Portuense|Recreativo C. Portuense]]'''
+        | 
+        | ganador=2
+        | 1-2
+        | 0-5
+      }}
+      {{TwoLegResult
+        | [[Unión África Ceutí Sociedad Deportiva|S. D. U. África Ceutí]]
+        | 
+        | 1-2
+        | '''[[Club Polideportivo Cacereño|C. D. Cacereño]]'''
+        | 
+        | ganador=2
+        | 0-1
+        | 1-1
+      }}
+      {{TwoLegResult
+        | [[Atlético Cataluña Club de Fútbol|Atlético Cataluña C. F.]]
+        | 
+        | 1-2
+        | '''[[Unión Deportiva Mahón|U. D. Mahón]]'''
+        | 
+        | ganador=2
+        | 1-1
+        | 0-1
+      }}
+      {{TwoLegResult
+        | [[Sociedad Deportiva Hullera Vasco-Leonesa|S. D. Hullera Vasco-Leonesa]]
+        | 
+        | 2-5
+        | '''[[Unión Popular de Langreo|U. P. Langreo]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 1-5
+      }}
+      {{TwoLegResult
+        | [[Club de Futbol Vilanova i la Geltrú|C. F. Villanueva y la Geltrú]]
+        | 
+        | 1-2
+        | '''[[Unión Deportiva Barbastro|U. D. Barbastro]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 0-2
+      }}
+      {{TwoLegResult
+        | [[Alondras Club de Fútbol|Alondras C. F.]]
+        | 
+        | 0-2
+        | '''[[Unión Deportiva Cacabelense|U. D. Cacabelense]]'''
+        | 
+        | ganador=2
+        | 0-1
+        | 0-1
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Ourense "B"|C. Atlético Orense]]
+        | 
+        | 1-4
+        | '''[[Real Racing Club de Santander|Real Santander S. D.]]'''
+        | 
+        | ganador=2
+        | 1-1
+        | 0-3
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Lugo|C. D. Lugo]]'''
+        | 
+        | 4-0
+        | [[Rayo Cantabria|S. D. Rayo Cantabria]]
+        | 
+        | ganador=1
+        | 4-0
+        | 0-0
+      }}
+      {{TwoLegResult
+        | '''[[Sociedad Deportiva Compostela (1962-2006)|S. D. Compostela]]'''
+        | 
+        | 4-1
+        | [[Club Deportivo Laredo|C. D. Laredo]]
+        | 
+        | ganador=1
+        | 1-1
+        | 0-0
+        | 3-0
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Ensidesa|C. D. Ensidesa]]'''
+        | 
+        | 4-1
+        | [[Palencia Club de Fútbol|Palencia C. F.]]
+        | 
+        | ganador=1
+        | 2-0
+        | 2-1
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Turón|C. D. Turón]]'''
+        | 
+        | 5-1
+        | [[Cultural y Deportiva Leonesa "B"|C. F. Júpiter Leonés]]
+        | 
+        | ganador=1
+        | 2-0
+        | 3-1
+      }}
+      {{TwoLegResult
+        | '''[[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]'''
+        | 
+        | 4-1
+        | [[Real Oviedo "B"|S. D. Vetusta]]
+        | 
+        | ganador=1
+        | 4-0
+        | 0-1
+      }}
+      {{TwoLegResult
+        | '''[[Real Sociedad Gimnástica de Torrelavega|R. S. Gimnástica de Torrelavega]]'''
+        | 
+        | 6-4
+        | [[Real Avilés Club de Fútbol|Real Avilés C. F.]]
+        | 
+        | ganador=1
+        | 5-0
+        | 1-4
+      }}
+      {{TwoLegResult
+        | [[Sporting Atlético|C. Atlético Gijón]]
+        | 
+        | 2-5
+        | '''[[Sestao Sport Club|Club Sestao]]'''
+        | 
+        | ganador=2
+        | 2-2
+        | 0-3
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Basconia|C. D. Basconia]]'''
+        | 
+        | 2-0
+        | [[Caudal Deportivo]]
+        | 
+        | ganador=1
+        | 2-0
+        | 0-0
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Logroñés|C. D. Logroñés]]'''
+        | 
+        | 4-3
+        | [[Deportivo Alavés]]
+        | 
+        | ganador=1
+        | 3-2
+        | 1-1
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Getxo|C. D. Guecho]]'''
+        | 
+        | 7-1
+        | [[Mutriku Futbol Taldea|C. D. Motrico]]
+        | 
+        | ganador=1
+        | 4-0
+        | 3-1
+      }}
+      {{TwoLegResult
+        | '''[[Real Sociedad de Fútbol "B"|San Sebastián C. F.]]'''
+        | 
+        | 2-1
+        | [[Club Lleida Esportiu|U. D. Lérida]]
+        | 
+        | ganador=1
+        | 2-0
+        | 0-1
+      }}
+      {{TwoLegResult
+        | '''[[Girona Futbol Club|Gerona C. F.]]'''
+        | 
+        | 2-0
+        | [[Real Unión Club]]
+        | 
+        | ganador=1
+        | 2-0
+        | 0-0
+      }}
+      {{TwoLegResult
+        | [[Sociedad Deportiva Huesca|S. D. Huesca]]
+        | 
+        | 3-4
+        | '''[[Club de Fútbol Lloret|C. F. Lloret]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 2-4
+      }}
+      {{TwoLegResult
+        | '''[[Club de Fútbol Calella|C. F. Calella]]'''
+        | 
+        | 5-2
+        | [[Club Deportivo Calahorra|C. D. Calahorra]]
+        | 
+        | ganador=1
+        | 3-1
+        | 2-1
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Montcada|C. D. Moncada]]
+        | 
+        | 2-9
+        | '''[[Club Deportivo Tudelano|C. D. Tudelano]]'''
+        | 
+        | ganador=2
+        | 2-4
+        | 0-5
+      }}
+      {{TwoLegResult
+        | [[Unión Polideportiva Plasencia|C. D. Plasencia]]
+        | 
+        | 1-3
+        | '''[[Real Club Recreativo de Huelva|R. C. Recreativo de Huelva]]'''
+        | 
+        | ganador=2
+        | 0-1
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]'''
+        | 
+        | 3-1
+        | [[Club Atlético Marbella|C. Atlético Marbella]]
+        | 
+        | ganador=1
+        | 3-0
+        | 0-1
+      }}
+      {{TwoLegResult
+        | '''[[Club Gimnàstic de Tarragona|C. Gimnástico de Tarragona]]'''
+        | 
+        | 4-3
+        | [[Real Zaragoza Deportivo Aragón|Aragón C. F.]]
+        | 
+        | ganador=1
+        | 2-0
+        | 0-2
+        | 2-1
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportiu Tortosa|C. D. Tortosa]]'''
+        | 
+        | 5-3
+        | [[Futbol Club Santboià|C. F. Samboyano]]
+        | 
+        | ganador=1
+        | 4-1
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Cultural y Deportiva Leonesa|Cultural D. Leonesa]]'''
+        | 
+        | 7-1
+        | [[Club Deportivo San Martín|C. D. San Martín]]
+        | 
+        | ganador=1
+        | 6-0
+        | 1-1
+      }}
+      {{TwoLegResult
+        | [[Betis Deportivo Balompié|Triana Balompié]]
+        | 
+        | 1-3
+        | '''[[:en:CD Valdepeñas|C. D. Valdepeñas]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 0-3
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Badajoz (1905-2012)|C. D. Badajoz]]'''
+        | 
+        | 5-3
+        | [[Jerez Industrial Club de Fútbol|Jerez Industrial C. F.]]
+        | 
+        | ganador=1
+        | 1-0
+        | 1-2
+        | 3-1
+      }}
+      {{TwoLegResult
+        | '''[[Unión Deportiva Atlético Gramenet|U. D. A. Gramanet]]'''
+        | 
+        | 7-3
+        | [[Club Deportivo Binéfar|C. D. Binéfar]]
+        | 
+        | ganador=1
+        | 3-1
+        | 4-2
+      }}
+      {{TwoLegResult
+        | '''[[Terrassa Futbol Club|C. D. Tarrasa]]'''
+        | 
+        | 5-0
+        | [[Club de Fútbol Sporting Mahonés|C. D. Menorca]]
+        | 
+        | ganador=1
+        | 2-0
+        | 3-0
+      }}
+      {{TwoLegResult
+        | '''[[Club de Fútbol Gandía|C. F. Gandía]]'''
+        | 
+        | 5-2
+        | [[Torrent Club de Fútbol|Torrente C. F.]]
+        | 
+        | ganador=1
+        | 2-0
+        | 3-2
+      }}
+      {{TwoLegResult
+        | [[Club Atlético Cartagena|C. Atlético Cartagena]]
+        | 
+        | 2-5
+        | '''[[Club Deportivo Onda|C. D. Onda]]'''
+        | 
+        | ganador=2
+        | 0-1
+        | 2-4
+      }}
+      {{TwoLegResult
+        | [[Unió Esportiva Olot|U. D. Olot]]
+        | 
+        | 4-5
+        | '''[[Club Deportivo Oberena|C. D. Oberena]]'''
+        | 
+        | ganador=2
+        | 3-1
+        | 0-2
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Club Esportiu Europa|C. D. Europa]]'''
+        | 
+        | 4-2
+        | [[Club Deportivo Manacor|C. D. Manacor]]
+        | 
+        | ganador=1
+        | 2-1
+        | 2-1
+      }}
+      {{TwoLegResult
+        | '''[[Paiporta Club de Fútbol|Paiporta C. F.]]'''
+        | 
+        | 3-2
+        | [[Novelda Club de Fútbol|Novelda C. F.]]
+        | 
+        | ganador=1
+        | 3-1
+        | 0-1
+      }}
+      {{TwoLegResult
+        | '''[[Cartagena Fútbol Club|C. D. Cartagena]]'''
+        | 
+        | 13-2
+        | [[Unión Deportiva Alzira|U. D. Alcira]]
+        | 
+        | ganador=1
+        | 7-0
+        | 6-2
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Alcoyano|C. D. Alcoyano]]'''
+        | 
+        | 5-4
+        | [[Real Sociedad Deportiva Alcalá|R. S. D. Alcalá]]
+        | 
+        | ganador=1
+        | 2-0
+        | 0-2
+        | 3-2
+      }}
+      {{TwoLegResult
+        | [[Real Balompédica Linense|R. B. Linense]]
+        | 
+        | 1-2
+        | '''[[Real Madrid-Castilla|A. D. Plus Ultra]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 0-2
+      }}
+|}
+
+=== Partidos ===
+
+{{Partidos
+| competición = Ida
+| local = [[Club Atlético Monzón|C. Atlético Monzón]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Futbol Club Vilafranca|C. F. Villafranca]]
+| fecha = {{fecha|24|09|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Futbol Club Vilafranca|C. F. Villafranca]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:1
+| global = 5:2
+| visita = [[Club Atlético Monzón|C. Atlético Monzón]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Numancia de Soria|C. D. Numancia]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| visita = [[Real Valladolid Promesas|Recreativo Europa Delicias]]
+| fecha = {{fecha|02|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Valladolid Promesas|Recreativo Europa Delicias]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:0
+| visita = [[Club Deportivo Numancia de Soria|C. D. Numancia]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Cádiz Club de Fútbol|Cádiz C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:2
+| visita = [[Club Polideportivo Mérida|Mérida Industrial C. F.]]
+| fecha = {{fecha|07|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Polideportivo Mérida|Mérida Industrial C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| global = 2:3
+| visita = [[Cádiz Club de Fútbol|Cádiz C. F.]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Iruña|C. D. Iruña]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Unió Esportiva Miapuesta Vilajuïga|U. D. Figueras]]
+| fecha = {{fecha|07|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unió Esportiva Miapuesta Vilajuïga|U. D. Figueras]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:2
+| global = 4:2
+| visita = [[Club Deportivo Iruña|C. D. Iruña]]
+| fecha = {{fecha|28|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Club Deportivo Fabril|Fabril Deportivo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Sociedad Deportiva Indautxu|S. D. Indauchu]]
+| fecha = {{fecha|07|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Sociedad Deportiva Indautxu|S. D. Indauchu]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 2:3
+| visita = [[Real Club Deportivo Fabril|Fabril Deportivo]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo La Unión|C. D. La Unión]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Villarreal Club de Fútbol|Villarreal C. F.]]
+| fecha = {{fecha|07|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Villarreal Club de Fútbol|Villarreal C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| global = 5:2
+| visita = [[Club Deportivo La Unión|C. D. La Unión]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club de Fútbol Badalona|C. F. Badalona]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:2
+| visita = [[Club Deportivo Atlético Baleares|C. D. Atlético Baleares]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Atlético Baleares|C. D. Atlético Baleares]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 5:4
+| visita = [[Club de Fútbol Badalona|C. F. Badalona]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Soledad|C. D. Soledad]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Futbol Club Barcelona Atlètic|C. D. Condal]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Futbol Club Barcelona Atlètic|C. D. Condal]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| global = 5:0
+| visita = [[Club Deportivo Soledad|C. D. Soledad]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sociedad Deportiva Ibiza|S. D. Ibiza]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Hércules de Alicante Club de Fútbol|Hércules C. F.]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Hércules de Alicante Club de Fútbol|Hércules C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 3:1
+| visita = [[Sociedad Deportiva Ibiza|S. D. Ibiza]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sociedad Deportiva Sueca|S. D. Sueca]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| visita = [[Club Atlético Calvo Sotelo|C. Atlético Calvo Sotelo]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Atlético Calvo Sotelo|C. Atlético Calvo Sotelo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| global = 3:5
+| visita = [[Sociedad Deportiva Sueca|S. D. Sueca]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Xerez Club Deportivo|Xerez C. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| visita = [[Real Jaén Club de Fútbol|Real Jaén C. F.]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Jaén Club de Fútbol|Real Jaén C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 5:2
+| global = 5:6
+| visita = [[Xerez Club Deportivo|Xerez C. D.]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Murcia Club de Fútbol "B"|Imperial C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Club Deportivo Benicarló|C. D. Benicarló]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Benicarló|C. D. Benicarló]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 2:4
+| visita = [[Real Murcia Club de Fútbol "B"|Imperial C. F.]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Eldense|C. D. Eldense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Unión Deportiva Oliva|U. D. Oliva]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unión Deportiva Oliva|U. D. Oliva]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Club Deportivo Eldense|C. D. Eldense]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Club Deportivo Eldense|C. D. Eldense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| global = 5:3
+| visita = [[Unión Deportiva Oliva|U. D. Oliva]]
+| fecha = {{fecha|13|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Albacete Balompié]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Albacete Balompié]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:3
+| global = 2:4
+| visita = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Manchego|C. D. Manchego]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Levante Unión Deportiva|Levante U. D.]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Levante Unión Deportiva|Levante U. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 5:1
+| global = 5:3
+| visita = [[Club Deportivo Manchego|C. D. Manchego]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Iliturgi|C. D. Iliturgi]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:2
+| visita = [[Agrupación Deportiva Ceuta Fútbol Club|C. Atlético de Ceuta]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Agrupación Deportiva Ceuta Fútbol Club|C. Atlético de Ceuta]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:4
+| global = 5:7
+| visita = [[Club Deportivo Iliturgi|C. D. Iliturgi]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sevilla Atlético|Sevilla Atlético C.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Club Deportivo Tenerife|Tenerife Atlético]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Tenerife|Tenerife Atlético]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:2
+| global = 2:3
+| visita = [[Sevilla Atlético|Sevilla Atlético C.]]
+| fecha = {{fecha|12|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Adra Club de Fútbol|Adra C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Melilla Club de Fútbol|Melilla C. F.]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Melilla Club de Fútbol|Melilla C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| global = 5:2
+| visita = [[Adra Club de Fútbol|Adra C. F.]]
+| fecha = {{fecha|06|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Atlético de Madrid "B"|Reyfra Atlético O. J. E.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 5:0
+| visita = [[Algeciras Club de Fútbol|Algeciras C. F.]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Algeciras Club de Fútbol|Algeciras C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:5
+| visita = [[Club Atlético de Madrid "B"|Reyfra Atlético O. J. E.]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Aviaco Madrileño Club de Fútbol|Aviaco Madrileño C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:3
+| visita = [[Club Deportivo Alcalá|C. D. Alcalá]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Alcalá|C. D. Alcalá]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 6:4
+| visita = [[Aviaco Madrileño Club de Fútbol|Aviaco Madrileño C. F.]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 6:0
+| visita = [[Club Deportivo San Fernando|C. D. San Fernando]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo San Fernando|C. D. San Fernando]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| global = 3:7
+| visita = [[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Estepona|C. D. Estepona]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:3
+| visita = [[Talavera Club de Fútbol|Talavera C. F.]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Talavera Club de Fútbol|Talavera C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 6:4
+| visita = [[Club Deportivo Estepona|C. D. Estepona]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club de Fútbol Extremadura|C. F. Extremadura]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| visita = [[Racing Club Portuense|Recreativo C. Portuense]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Racing Club Portuense|Recreativo C. Portuense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 5:0
+| global = 7:1
+| visita = [[Club de Fútbol Extremadura|C. F. Extremadura]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unión África Ceutí Sociedad Deportiva|S. D. U. África Ceutí]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Club Polideportivo Cacereño|C. D. Cacereño]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Polideportivo Cacereño|C. D. Cacereño]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| global = 2:1
+| visita = [[Unión África Ceutí Sociedad Deportiva|S. D. U. África Ceutí]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Atlético Cataluña Club de Fútbol|Atlético Cataluña C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Unión Deportiva Mahón|U. D. Mahón]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unión Deportiva Mahón|U. D. Mahón]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 2:1
+| visita = [[Atlético Cataluña Club de Fútbol|Atlético Cataluña C. F.]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sociedad Deportiva Hullera Vasco-Leonesa|S. D. Hullera Vasco-Leonesa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Unión Popular de Langreo|U. P. Langreo]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unión Popular de Langreo|U. P. Langreo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 5:1
+| global = 5:2
+| visita = [[Sociedad Deportiva Hullera Vasco-Leonesa|S. D. Hullera Vasco-Leonesa]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club de Futbol Vilanova i la Geltrú|C. F. Villanueva y la Geltrú]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Unión Deportiva Barbastro|U. D. Barbastro]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unión Deportiva Barbastro|U. D. Barbastro]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| global = 2:1
+| visita = [[Club de Futbol Vilanova i la Geltrú|C. F. Villanueva y la Geltrú]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+                
+{{Partidos
+| competición = Ida
+| local = [[Alondras Club de Fútbol|Alondras C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Unión Deportiva Cacabelense|U. D. Cacabelense]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unión Deportiva Cacabelense|U. D. Cacabelense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 2:0
+| visita = [[Alondras Club de Fútbol|Alondras C. F.]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Ourense "B"|C. Atlético Orense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Real Racing Club de Santander|Real Santander S. D.]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Racing Club de Santander|Real Santander S. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 4:1
+| visita = [[Club Deportivo Ourense "B"|C. Atlético Orense]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Lugo|C. D. Lugo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| visita = [[Rayo Cantabria|S. D. Rayo Cantabria]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Rayo Cantabria|S. D. Rayo Cantabria]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| global = 0:4
+| visita = [[Club Deportivo Lugo|C. D. Lugo]]
+| fecha = {{fecha|22|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sociedad Deportiva Compostela (1962-2006)|S. D. Compostela]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Club Deportivo Laredo|C. D. Laredo]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Laredo|C. D. Laredo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| visita = [[Sociedad Deportiva Compostela (1962-2006)|S. D. Compostela]]
+| fecha = {{fecha|30|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Sociedad Deportiva Compostela (1962-2006)|S. D. Compostela]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 4:1
+| visita = [[Club Deportivo Laredo|C. D. Laredo]]
+| fecha = {{fecha|12|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Ensidesa|C. D. Ensidesa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Palencia Club de Fútbol|Palencia C. F.]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Palencia Club de Fútbol|Palencia C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| global = 1:4
+| visita = [[Club Deportivo Ensidesa|C. D. Ensidesa]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Turón|C. D. Turón]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Cultural y Deportiva Leonesa "B"|C. F. Júpiter Leonés]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Cultural y Deportiva Leonesa "B"|C. F. Júpiter Leonés]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:3
+| global = 1:5
+| visita = [[Club Deportivo Turón|C. D. Turón]]
+| fecha = {{fecha|22|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| visita = [[Real Oviedo "B"|S. D. Vetusta]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Oviedo "B"|S. D. Vetusta]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:4
+| visita = [[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Sociedad Gimnástica de Torrelavega|R. S. Gimnástica de Torrelavega]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 5:0
+| visita = [[Real Avilés Club de Fútbol|Real Avilés C. F.]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Avilés Club de Fútbol|Real Avilés C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:1
+| global = 4:6
+| visita = [[Real Sociedad Gimnástica de Torrelavega|R. S. Gimnástica de Torrelavega]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sporting Atlético|C. Atlético Gijón]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:2
+| visita = [[Sestao Sport Club|Club Sestao]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Sestao Sport Club|Club Sestao]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 5:2
+| visita = [[Sporting Atlético|C. Atlético Gijón]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Basconia|C. D. Basconia]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Caudal Deportivo]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Caudal Deportivo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| global = 0:2
+| visita = [[Club Deportivo Basconia|C. D. Basconia]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Logroñés|C. D. Logroñés]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:2
+| visita = [[Deportivo Alavés]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Deportivo Alavés]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| global = 3:4
+| visita = [[Club Deportivo Logroñés|C. D. Logroñés]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Getxo|C. D. Guecho]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| visita = [[Mutriku Futbol Taldea|C. D. Motrico]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Mutriku Futbol Taldea|C. D. Motrico]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:3
+| global = 1:7
+| visita = [[Club Deportivo Getxo|C. D. Guecho]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Sociedad de Fútbol "B"|San Sebastián C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Club Lleida Esportiu|U. D. Lérida]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Lleida Esportiu|U. D. Lérida]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:2
+| visita = [[Real Sociedad de Fútbol "B"|San Sebastián C. F.]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Girona Futbol Club|Gerona C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Real Unión Club]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Unión Club]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| global = 0:2
+| visita = [[Girona Futbol Club|Gerona C. F.]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sociedad Deportiva Huesca|S. D. Huesca]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Club de Fútbol Lloret|C. F. Lloret]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club de Fútbol Lloret|C. F. Lloret]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:2
+| global = 4:3
+| visita = [[Sociedad Deportiva Huesca|S. D. Huesca]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club de Fútbol Calella|C. F. Calella]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| visita = [[Club Deportivo Calahorra|C. D. Calahorra]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Calahorra|C. D. Calahorra]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| global = 2:5
+| visita = [[Club de Fútbol Calella|C. F. Calella]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Montcada|C. D. Moncada]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:4
+| visita = [[Club Deportivo Tudelano|C. D. Tudelano]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Tudelano|C. D. Tudelano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 5:0
+| global = 9:2
+| visita = [[Club Deportivo Montcada|C. D. Moncada]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unión Polideportiva Plasencia|C. D. Plasencia]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Real Club Recreativo de Huelva|R. C. Recreativo de Huelva]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Club Recreativo de Huelva|R. C. Recreativo de Huelva]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 3:1
+| visita = [[Unión Polideportiva Plasencia|C. D. Plasencia]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Club Atlético Marbella|C. Atlético Marbella]]
+| fecha = {{fecha|08|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Atlético Marbella|C. Atlético Marbella]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:3
+| visita = [[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Gimnàstic de Tarragona|C. Gimnástico de Tarragona]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Real Zaragoza Deportivo Aragón|Aragón C. F.]]
+| fecha = {{fecha|09|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Zaragoza Deportivo Aragón|Aragón C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Club Gimnàstic de Tarragona|C. Gimnástico de Tarragona]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Club Gimnàstic de Tarragona|C. Gimnástico de Tarragona]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 4:3
+| visita = [[Real Zaragoza Deportivo Aragón|Aragón C. F.]]
+| fecha = {{fecha|13|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportiu Tortosa|C. D. Tortosa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:1
+| visita = [[Futbol Club Santboià|C. F. Samboyano]]
+| fecha = {{fecha|09|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Futbol Club Santboià|C. F. Samboyano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 3:5
+| visita = [[Club Deportiu Tortosa|C. D. Tortosa]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Cultural y Deportiva Leonesa|Cultural D. Leonesa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 6:0
+| visita = [[Club Deportivo San Martín|C. D. San Martín]]
+| fecha = {{fecha|09|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo San Martín|C. D. San Martín]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| global = 1:7
+| visita = [[Cultural y Deportiva Leonesa|Cultural D. Leonesa]]
+| fecha = {{fecha|06|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Betis Deportivo Balompié|Triana Balompié]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Club de Fútbol Valdepeñas|C. D. Valdepeñas]]
+| fecha = {{fecha|09|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club de Fútbol Valdepeñas|C. D. Valdepeñas]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 3:1
+| visita = [[Betis Deportivo Balompié|Triana Balompié]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Badajoz (1905-2012)|C. D. Badajoz]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Jerez Industrial Club de Fútbol|Jerez Industrial C. F.]]
+| fecha = {{fecha|09|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Jerez Industrial Club de Fútbol|Jerez Industrial C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Club Deportivo Badajoz (1905-2012)|C. D. Badajoz]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Club Deportivo Badajoz (1905-2012)|C. D. Badajoz]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| global = 5:3
+| visita = [[Jerez Industrial Club de Fútbol|Jerez Industrial C. F.]]
+| fecha = {{fecha|13|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unión Deportiva Atlético Gramenet|U. D. A. Gramanet]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| visita = [[Club Deportivo Binéfar|C. D. Binéfar]]
+| fecha = {{fecha|09|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Binéfar|C. D. Binéfar]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:4
+| global = 3:7
+| visita = [[Unión Deportiva Atlético Gramenet|U. D. A. Gramanet]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Terrassa Futbol Club|C. D. Tarrasa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Club de Fútbol Sporting Mahonés|C. D. Menorca]]
+| fecha = {{fecha|09|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club de Fútbol Sporting Mahonés|C. D. Menorca]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:3
+| global = 0:5
+| visita = [[Terrassa Futbol Club|C. D. Tarrasa]]
+| fecha = {{fecha|29|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club de Fútbol Gandía|C. F. Gandía]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Torrent Club de Fútbol|Torrente C. F.]]
+| fecha = {{fecha|10|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Torrent Club de Fútbol|Torrente C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:3
+| global = 2:5
+| visita = [[Club de Fútbol Gandía|C. F. Gandía]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Atlético Cartagena|C. Atlético Cartagena]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Club Deportivo Onda|C. D. Onda]]
+| fecha = {{fecha|15|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Onda|C. D. Onda]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:2
+| global = 5:2
+| visita = [[Club Atlético Cartagena|C. Atlético Cartagena]]
+| fecha = {{fecha|24|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unió Esportiva Olot|U. D. Olot]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| visita = [[Club Deportivo Oberena|C. D. Oberena]]
+| fecha = {{fecha|15|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Oberena|C. D. Oberena]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Unió Esportiva Olot|U. D. Olot]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Club Deportivo Oberena|C. D. Oberena]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 5:4
+| visita = [[Unió Esportiva Olot|U. D. Olot]]
+| fecha = {{fecha|13|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Esportiu Europa|C. D. Europa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Club Deportivo Manacor|C. D. Manacor]]
+| fecha = {{fecha|15|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Manacor|C. D. Manacor]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| global = 2:4
+| visita = [[Club Esportiu Europa|C. D. Europa]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Paiporta Club de Fútbol|Paiporta C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| visita = [[Novelda Club de Fútbol|Novelda C. F.]]
+| fecha = {{fecha|22|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Novelda Club de Fútbol|Novelda C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 2:3
+| visita = [[Paiporta Club de Fútbol|Paiporta C. F.]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Cartagena Fútbol Club|C. D. Cartagena]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 7:0
+| visita = [[Unión Deportiva Alzira|U. D. Alcira]]
+| fecha = {{fecha|22|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unión Deportiva Alzira|U. D. Alcira]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:6
+| global = 2:13
+| visita = [[Cartagena Fútbol Club|C. D. Cartagena]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Alcoyano|C. D. Alcoyano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Real Sociedad Deportiva Alcalá|R. S. D. Alcalá]]
+| fecha = {{fecha|22|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Sociedad Deportiva Alcalá|R. S. D. Alcalá]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Club Deportivo Alcoyano|C. D. Alcoyano]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Club Deportivo Alcoyano|C. D. Alcoyano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:2
+| global = 5:4
+| visita = [[Real Sociedad Deportiva Alcalá|R. S. D. Alcalá]]
+| fecha = {{fecha|12|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Balompédica Linense|R. B. Linense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Real Madrid-Castilla|A. D. Plus Ultra]]
+| fecha = {{fecha|22|10|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Madrid-Castilla|A. D. Plus Ultra]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| global = 2:1
+| visita = [[Real Balompédica Linense|R. B. Linense]]
+| fecha = {{fecha|05|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+
+== Segunda ronda ==
+=== Cuadro ===
+    {{TwoLegStart|partidos=3}}
+      {{TwoLegResult
+        | '''[[Club Deportivo Eldense|C. D. Eldense]]'''
+        | 
+        | 6-2
+        | [[Futbol Club Barcelona Atlètic|C. D. Condal]]
+        | 
+        | ganador=1
+        | 5-1
+        | 1-1
+      }}
+      {{TwoLegResult
+        | [[Paiporta Club de Fútbol|Paiporta C. F.]]
+        | 
+        | 3-7
+        | '''[[Club de Fútbol Calella|C. F. Calella]]'''
+        | 
+        | ganador=2
+        | 1-2
+        | 2-5
+      }}
+      {{TwoLegResult
+        | '''[[Real Valladolid Promesas|Recreativo Europa Delicias]]'''
+        | 
+        | 3-2
+        | [[Club Deportivo Logroñés|C. D. Logroñés]]
+        | 
+        | ganador=1
+        | 3-0
+        | 0-2
+      }}
+      {{TwoLegResult
+        | '''[[Hércules de Alicante Club de Fútbol|Hércules C. F.]]'''
+        | 
+        | 4-1
+        | [[Talavera Club de Fútbol|Talavera C. F.]]
+        | 
+        | ganador=1
+        | 1-0
+        | 3-1
+      }}
+      {{TwoLegResult
+        | '''[[Unión Deportiva Barbastro|U. D. Barbastro]]'''
+        | 
+        | 4-3
+        | [[Club Gimnàstic de Tarragona|C. Gimnástico de Tarragona]]
+        | 
+        | ganador=1
+        | 3-0
+        | 1-3
+      }}
+      {{TwoLegResult
+        | '''[[Real Sociedad de Fútbol "B"|San Sebastián C. F.]]'''
+        | 
+        | 5-0
+        | [[Club Deportivo Getxo|C. D. Guecho]]
+        | 
+        | ganador=1
+        | 2-0
+        | 3-0
+      }}
+      {{TwoLegResult
+        | '''[[Terrassa Futbol Club|C. D. Tarrasa]]'''
+        | 
+        | 4-3
+        | [[Club Deportivo Atlético Baleares|C. D. Atlético Baleares]]
+        | 
+        | ganador=1
+        | 2-1
+        | 0-1
+        | 2-1
+      }}
+      {{TwoLegResult
+        | [[Club de Fútbol Lloret|C. F. Lloret]]
+        | 
+        | 2-4
+        | '''[[Sociedad Deportiva Sueca|S. D. Sueca]]'''
+        | 
+        | ganador=2
+        | 2-1
+        | 0-1
+        | 0-2
+      }}
+      {{TwoLegResult
+        | [[Real Madrid-Castilla|A. D. Plus Ultra]]
+        | 
+        | 0-4
+        | '''[[Club Deportivo Alcoyano|C. D. Alcoyano]]'''
+        | 
+        | ganador=2
+        | 0-1
+        | 0-3
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportiu Tortosa|C. D. Tortosa]]'''
+        | 
+        | 3-2
+        | [[Girona Futbol Club|Gerona C. F.]]
+        | 
+        | ganador=1
+        | 1-1
+        | 0-0
+        | 2-1
+      }}
+      {{TwoLegResult
+        | [[Futbol Club Vilafranca|C. F. Villafranca]]
+        | 
+        | 2-5
+        | '''[[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]'''
+        | 
+        | ganador=2
+        | 2-1
+        | 0-1
+        | 0-3
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Basconia|C. D. Basconia]]
+        | 
+        | 3-4
+        | '''[[Club Deportivo Oberena|C. D. Oberena]]'''
+        | 
+        | ganador=2
+        | 1-2
+        | 1-0
+        | 1-2
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Alcalá|C. D. Alcalá]]
+        | 
+        | 2-5
+        | '''[[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]'''
+        | 
+        | ganador=2
+        | 2-2
+        | 0-3
+      }}
+      {{TwoLegResult
+        | [[Racing Club Portuense|Recreativo C. Portuense]]
+        | 
+        | 1-4
+        | '''[[Cartagena Fútbol Club|C. D. Cartagena]]'''
+        | 
+        | ganador=2
+        | 1-1
+        | 0-3
+      }}
+      {{TwoLegResult
+        | [[Unión Deportiva Cacabelense|U. D. Cacabelense]]
+        | 
+        | 2-5
+        | '''[[Real Club Deportivo Fabril|Fabril Deportivo]]'''
+        | 
+        | ganador=2
+        | 1-1
+        | 1-4
+      }}
+      {{TwoLegResult
+        | [[Club de Fútbol Gandía|C. F. Gandía]]
+        | 
+        | 0-3
+        | '''[[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]'''
+        | 
+        | ganador=2
+        | 0-0
+        | 0-3
+      }}
+      {{TwoLegResult
+        | '''[[Unió Esportiva Miapuesta Vilajuïga|U. D. Figueras]]'''
+        | 
+        | 4-2
+        | [[Club Deportivo Onda|C. D. Onda]]
+        | 
+        | ganador=1
+        | 3-0
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Real Sociedad Gimnástica de Torrelavega|R. S. Gimnástica de Torrelavega]]'''
+        | 
+        | 4-2
+        | [[Club Deportivo Ensidesa|C. D. Ensidesa]]
+        | 
+        | ganador=1
+        | 1-0
+        | 0-1
+        | 3-1
+      }}
+      {{TwoLegResult
+        | [[Club Polideportivo Cacereño|C. D. Cacereño]]
+        | 
+        | 1-4
+        | '''[[Sevilla Atlético|Sevilla Atlético C.]]'''
+        | 
+        | ganador=2
+        | 1-2
+        | 0-2
+      }}
+      {{TwoLegResult
+        | '''[[Club Atlético de Madrid "B"|Reyfra Atlético O. J. E.]]'''
+        | 
+        | 7-3
+        | [[Club Deportivo Iliturgi|C. D. Iliturgi]]
+        | 
+        | ganador=1
+        | 3-2
+        | 0-1
+        | 4-0
+      }}
+      {{TwoLegResult
+        | [[Real Club Recreativo de Huelva|R. C. Recreativo de Huelva]]
+        | 
+        | 5-6
+        | '''[[Club Deportivo Badajoz (1905-2012)|C. D. Badajoz]]'''
+        | 
+        | ganador=2
+        | 4-2
+        | 0-2
+        | 1-2
+      }}
+      {{TwoLegResult
+        | [[Sociedad Deportiva Compostela (1962-2006)|S. D. Compostela]]
+        | 
+        | 3-4
+        | '''[[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]'''
+        | 
+        | ganador=2
+        | 2-0
+        | 1-4
+      }}
+      {{TwoLegResult
+        | [[Club de Fútbol Valdepeñas|C. D. Valdepeñas]]
+        | 
+        | 2-4
+        | '''[[Melilla Club de Fútbol|Melilla C. F.]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 1-4
+      }}
+      {{TwoLegResult
+        | '''[[Barakaldo Club de Fútbol|C. D. Baracaldo Altos Hornos]]'''
+        | 
+        | 3-1
+        | [[Club Deportivo Turón|C. D. Turón]]
+        | 
+        | ganador=1
+        | 3-0
+        | 0-1
+      }}
+      {{TwoLegResult
+        | [[Cultural y Deportiva Leonesa|Cultural D. Leonesa]]
+        | 
+        | 3-4
+        | '''[[Club Deportivo Lugo|C. D. Lugo]]'''
+        | 
+        | ganador=2
+        | 2-0
+        | 0-2
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Villarreal Club de Fútbol|Villarreal C. F.]]'''
+        | 
+        | 5-4
+        | [[Club Esportiu Europa|C. D. Europa]]
+        | 
+        | ganador=1
+        | 4-1
+        | 0-3
+        | 1-0
+      }}
+      {{TwoLegResult
+        | [[Unión Popular de Langreo|U. P. Langreo]]
+        | 
+        | 1-2
+        | '''[[Real Racing Club de Santander|Real Santander S. D.]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 0-2
+      }}
+      {{TwoLegResult
+        | '''[[Levante Unión Deportiva|Levante U. D.]]'''
+        | 
+        | 6-1
+        | [[Unión Deportiva Atlético Gramenet|U. D. A. Gramanet]]
+        | 
+        | ganador=1
+        | 4-0
+        | 2-1
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Tudelano|C. D. Tudelano]]
+        | 
+        | 2-6
+        | '''[[Sestao Sport Club|Club Sestao]]'''
+        | 
+        | ganador=2
+        | 2-3
+        | 0-3
+      }}
+      {{TwoLegResult
+        | [[Club de Futbol Reus Deportiu|C. F. Reus Deportivo]]
+        | 
+        | 2-3
+        | '''[[Unión Deportiva Mahón|U. D. Mahón]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 1-3
+      }}
+|}
+
+=== Partidos ===
+
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Eldense|C. D. Eldense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 5:1
+| visita = [[Futbol Club Barcelona Atlètic|C. D. Condal]]
+| fecha = {{fecha|26|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Futbol Club Barcelona Atlètic|C. D. Condal]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| global = 2:6
+| visita = [[Club Deportivo Eldense|C. D. Eldense]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Paiporta Club de Fútbol|Paiporta C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| visita = [[Club de Fútbol Calella|C. F. Calella]]
+| fecha = {{fecha|26|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club de Fútbol Calella|C. F. Calella]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 5:2
+| global = 7:3
+| visita = [[Paiporta Club de Fútbol|Paiporta C. F.]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Valladolid Promesas|Recreativo Europa Delicias]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Club Deportivo Logroñés|C. D. Logroñés]]
+| fecha = {{fecha|26|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Logroñés|C. D. Logroñés]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| global = 2:3
+| visita = [[Real Valladolid Promesas|Recreativo Europa Delicias]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Hércules de Alicante Club de Fútbol|Hércules C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Talavera Club de Fútbol|Talavera C. F.]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Talavera Club de Fútbol|Talavera C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:3
+| global = 1:4
+| visita = [[Hércules de Alicante Club de Fútbol|Hércules C. F.]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unión Deportiva Barbastro|U. D. Barbastro]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Club Gimnàstic de Tarragona|C. Gimnástico de Tarragona]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Gimnàstic de Tarragona|C. Gimnástico de Tarragona]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| global = 3:4
+| visita = [[Unión Deportiva Barbastro|U. D. Barbastro]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Sociedad de Fútbol "B"|San Sebastián C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Club Deportivo Getxo|C. D. Guecho]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Getxo|C. D. Guecho]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:3
+| global = 0:5
+| visita = [[Real Sociedad de Fútbol "B"|San Sebastián C. F.]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Terrassa Futbol Club|C. D. Tarrasa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Club Deportivo Atlético Baleares|C. D. Atlético Baleares]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Atlético Baleares|C. D. Atlético Baleares]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Terrassa Futbol Club|C. D. Tarrasa]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Terrassa Futbol Club|C. D. Tarrasa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 4:3
+| visita = [[Club Deportivo Atlético Baleares|C. D. Atlético Baleares]]
+| fecha = {{fecha|17|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club de Fútbol Lloret|C. F. Lloret]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Sociedad Deportiva Sueca|S. D. Sueca]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Sociedad Deportiva Sueca|S. D. Sueca]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Club de Fútbol Lloret|C. F. Lloret]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Club de Fútbol Lloret|C. F. Lloret]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:2
+| global = 2:4
+| visita = [[Sociedad Deportiva Sueca|S. D. Sueca]]
+| fecha = {{fecha|17|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Madrid-Castilla|A. D. Plus Ultra]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Club Deportivo Alcoyano|C. D. Alcoyano]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Alcoyano|C. D. Alcoyano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 4:0
+| visita = [[Real Madrid-Castilla|A. D. Plus Ultra]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportiu Tortosa|C. D. Tortosa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Girona Futbol Club|Gerona C. F.]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Girona Futbol Club|Gerona C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| visita = [[Club Deportiu Tortosa|C. D. Tortosa]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Club Deportiu Tortosa|C. D. Tortosa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 3:2
+| visita = [[Girona Futbol Club|Gerona C. F.]]
+| fecha = {{fecha|17|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Futbol Club Vilafranca|C. F. Villafranca]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Futbol Club Vilafranca|C. F. Villafranca]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Futbol Club Vilafranca|C. F. Villafranca]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:3
+| global = 2:5
+| visita = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| fecha = {{fecha|17|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Basconia|C. D. Basconia]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| visita = [[Club Deportivo Oberena|C. D. Oberena]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Oberena|C. D. Oberena]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Club Deportivo Basconia|C. D. Basconia]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Club Deportivo Basconia|C. D. Basconia]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| global = 3:4
+| visita = [[Club Deportivo Oberena|C. D. Oberena]]
+| fecha = {{fecha|17|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Alcalá|C. D. Alcalá]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:2
+| visita = [[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 5:2
+| visita = [[Club Deportivo Alcalá|C. D. Alcalá]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Racing Club Portuense|Recreativo C. Portuense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Cartagena Fútbol Club|C. D. Cartagena]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Cartagena Fútbol Club|C. D. Cartagena]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 4:1
+| visita = [[Racing Club Portuense|Recreativo C. Portuense]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unión Deportiva Cacabelense|U. D. Cacabelense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Real Club Deportivo Fabril|Fabril Deportivo]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Club Deportivo Fabril|Fabril Deportivo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:1
+| global = 5:2
+| visita = [[Unión Deportiva Cacabelense|U. D. Cacabelense]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club de Fútbol Gandía|C. F. Gandía]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| visita = [[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 3:0
+| visita = [[Club de Fútbol Gandía|C. F. Gandía]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unió Esportiva Miapuesta Vilajuïga|U. D. Figueras]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Club Deportivo Onda|C. D. Onda]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Onda|C. D. Onda]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 2:4
+| visita = [[Unió Esportiva Miapuesta Vilajuïga|U. D. Figueras]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Sociedad Gimnástica de Torrelavega|R. S. Gimnástica de Torrelavega]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Club Deportivo Ensidesa|C. D. Ensidesa]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Ensidesa|C. D. Ensidesa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Real Sociedad Gimnástica de Torrelavega|R. S. Gimnástica de Torrelavega]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Real Sociedad Gimnástica de Torrelavega|R. S. Gimnástica de Torrelavega]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| global = 4:2
+| visita = [[Club Deportivo Ensidesa|C. D. Ensidesa]]
+| fecha = {{fecha|17|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Polideportivo Cacereño|C. D. Cacereño]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| visita = [[Sevilla Atlético|Sevilla Atlético C.]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Sevilla Atlético|Sevilla Atlético C.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| global = 4:1
+| visita = [[Club Polideportivo Cacereño|C. D. Cacereño]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Atlético de Madrid "B"|Reyfra Atlético O. J. E.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:2
+| visita = [[Club Deportivo Iliturgi|C. D. Iliturgi]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Iliturgi|C. D. Iliturgi]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Club Atlético de Madrid "B"|Reyfra Atlético O. J. E.]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Club Atlético de Madrid "B"|Reyfra Atlético O. J. E.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| global = 7:3
+| visita = [[Club Deportivo Iliturgi|C. D. Iliturgi]]
+| fecha = {{fecha|17|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Club Recreativo de Huelva|R. C. Recreativo de Huelva]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:2
+| visita = [[Club Deportivo Badajoz (1905-2012)|C. D. Badajoz]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Badajoz (1905-2012)|C. D. Badajoz]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Real Club Recreativo de Huelva|R. C. Recreativo de Huelva]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Real Club Recreativo de Huelva|R. C. Recreativo de Huelva]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| global = 5:6
+| visita = [[Club Deportivo Badajoz (1905-2012)|C. D. Badajoz]]
+| fecha = {{fecha|17|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sociedad Deportiva Compostela (1962-2006)|S. D. Compostela]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:1
+| global = 4:3
+| visita = [[Sociedad Deportiva Compostela (1962-2006)|S. D. Compostela]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club de Fútbol Valdepeñas|C. D. Valdepeñas]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Melilla Club de Fútbol|Melilla C. F.]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Melilla Club de Fútbol|Melilla C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:1
+| global = 4:2
+| visita = [[Club de Fútbol Valdepeñas|C. D. Valdepeñas]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Barakaldo Club de Fútbol|C. D. Baracaldo Altos Hornos]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Club Deportivo Turón|C. D. Turón]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Turón|C. D. Turón]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:3
+| visita = [[Barakaldo Club de Fútbol|C. D. Baracaldo Altos Hornos]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Cultural y Deportiva Leonesa|Cultural D. Leonesa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Club Deportivo Lugo|C. D. Lugo]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Lugo|C. D. Lugo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Cultural y Deportiva Leonesa|Cultural D. Leonesa]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Cultural y Deportiva Leonesa|Cultural D. Leonesa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| global = 3:4
+| visita = [[Club Deportivo Lugo|C. D. Lugo]]
+| fecha = {{fecha|17|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Villarreal Club de Fútbol|Villarreal C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:1
+| visita = [[Club Esportiu Europa|C. D. Europa]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Esportiu Europa|C. D. Europa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Villarreal Club de Fútbol|Villarreal C. F.]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Villarreal Club de Fútbol|Villarreal C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 5:4
+| visita = [[Club Esportiu Europa|C. D. Europa]]
+| fecha = {{fecha|17|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unión Popular de Langreo|U. P. Langreo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Real Racing Club de Santander|Real Santander S. D.]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Racing Club de Santander|Real Santander S. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| global = 2:1
+| visita = [[Unión Popular de Langreo|U. P. Langreo]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Levante Unión Deportiva|Levante U. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| visita = [[Unión Deportiva Atlético Gramenet|U. D. A. Gramanet]]
+| fecha = {{fecha|27|11|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unión Deportiva Atlético Gramenet|U. D. A. Gramanet]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| global = 1:6
+| visita = [[Levante Unión Deportiva|Levante U. D.]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Tudelano|C. D. Tudelano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:3
+| visita = [[Sestao Sport Club|Club Sestao]]
+| fecha = {{fecha|03|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Sestao Sport Club|Club Sestao]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 6:2
+| visita = [[Club Deportivo Tudelano|C. D. Tudelano]]
+| fecha = {{fecha|10|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club de Futbol Reus Deportiu|C. F. Reus Deportivo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Unión Deportiva Mahón|U. D. Mahón]]
+| fecha = {{fecha|04|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unión Deportiva Mahón|U. D. Mahón]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| global = 3:2
+| visita = [[Club de Futbol Reus Deportiu|C. F. Reus Deportivo]]
+| fecha = {{fecha|11|12|1969}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+
+== Tercera ronda ==
+=== Cuadro ===
+    {{TwoLegStart|partidos=3}}
+      {{TwoLegResult
+        | [[Real Sociedad Gimnástica de Torrelavega|R. S. Gimnástica de Torrelavega]]
+        | 
+        | 3-4
+        | '''[[Club Deportivo Lugo|C. D. Lugo]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 2-4
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Alcoyano|C. D. Alcoyano]]
+        | 
+        | 3-4
+        | '''[[Barakaldo Club de Fútbol|C. D. Baracaldo Altos Hornos]]'''
+        | 
+        | ganador=2
+        | 3-1
+        | 0-3
+      }}
+      {{TwoLegResult
+        | [[Villarreal Club de Fútbol|Villarreal C. F.]]
+        | 
+        | 2-7
+        | '''[[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]'''
+        | 
+        | ganador=2
+        | 2-4
+        | 0-3
+      }}
+      {{TwoLegResult
+        | '''[[Cádiz Club de Fútbol|Cádiz C. F.]]'''
+        | 
+        | 5-3
+        | [[Terrassa Futbol Club|C. D. Tarrasa]]
+        | 
+        | ganador=1
+        | 4-1
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Eldense|C. D. Eldense]]'''
+        | 
+        | 4-3
+        | [[Real Valladolid Promesas|Recreativo Europa Delicias]]
+        | 
+        | ganador=1
+        | 4-0
+        | 0-3
+      }}
+      {{TwoLegResult
+        | '''[[Sestao Sport Club|Club Sestao]]'''
+        | 
+        | 4-3
+        | [[Unió Esportiva Miapuesta Vilajuïga|U. D. Figueras]]
+        | 
+        | ganador=1
+        | 3-1
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Real Racing Club de Santander|Real Santander S. D.]]'''
+        | 
+        | 4-2
+        | [[Club Deportivo Badajoz (1905-2012)|C. D. Badajoz]]
+        | 
+        | ganador=1
+        | 3-0
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]'''
+        | 
+        | 4-2
+        | [[Real Club Deportivo Fabril|Fabril Deportivo]]
+        | 
+        | ganador=1
+        | 2-1
+        | 2-1
+      }}
+      {{TwoLegResult
+        | [[Sevilla Atlético|Sevilla Atlético C.]]
+        | 
+        | 1-2
+        | '''[[Hércules de Alicante Club de Fútbol|Hércules C. F.]]'''
+        | 
+        | ganador=2
+        | 1-1
+        | 0-1
+      }}
+      {{TwoLegResult
+        | '''[[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]'''
+        | 
+        | 4-3
+        | [[Levante Unión Deportiva|Levante U. D.]]
+        | 
+        | ganador=1
+        | 3-1
+        | 0-2
+        | 1-0
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Oberena|C. D. Oberena]]'''
+        | 
+        | 2-1
+        | [[Real Murcia Club de Fútbol "B"|Imperial C. F.]]
+        | 
+        | ganador=1
+        | 2-0
+        | 0-1
+      }}
+      {{TwoLegResult
+        | [[Real Sociedad de Fútbol "B"|San Sebastián C. F.]]
+        | 
+        | 0-2
+        | '''[[Cartagena Fútbol Club|C. D. Cartagena]]'''
+        | 
+        | ganador=2
+        | 0-0
+        | 0-2
+      }}
+|}
+
+=== Partidos ===
+
+{{Partidos
+| competición = Ida
+| local = [[Real Sociedad Gimnástica de Torrelavega|R. S. Gimnástica de Torrelavega]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Club Deportivo Lugo|C. D. Lugo]]
+| fecha = {{fecha|06|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Lugo|C. D. Lugo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:2
+| global = 4:3
+| visita = [[Real Sociedad Gimnástica de Torrelavega|R. S. Gimnástica de Torrelavega]]
+| fecha = {{fecha|14|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Alcoyano|C. D. Alcoyano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| visita = [[Barakaldo Club de Fútbol|C. D. Baracaldo Altos Hornos]]
+| fecha = {{fecha|06|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Barakaldo Club de Fútbol|C. D. Baracaldo Altos Hornos]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 4:3
+| visita = [[Club Deportivo Alcoyano|C. D. Alcoyano]]
+| fecha = {{fecha|21|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Villarreal Club de Fútbol|Villarreal C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:4
+| visita = [[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]
+| fecha = {{fecha|06|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 7:2
+| visita = [[Villarreal Club de Fútbol|Villarreal C. F.]]
+| fecha = {{fecha|21|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Cádiz Club de Fútbol|Cádiz C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:1
+| visita = [[Terrassa Futbol Club|C. D. Tarrasa]]
+| fecha = {{fecha|06|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Terrassa Futbol Club|C. D. Tarrasa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 3:5
+| visita = [[Cádiz Club de Fútbol|Cádiz C. F.]]
+| fecha = {{fecha|21|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Eldense|C. D. Eldense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| visita = [[Real Valladolid Promesas|Recreativo Europa Delicias]]
+| fecha = {{fecha|06|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Valladolid Promesas|Recreativo Europa Delicias]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 3:4
+| visita = [[Club Deportivo Eldense|C. D. Eldense]]
+| fecha = {{fecha|21|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sestao Sport Club|Club Sestao]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| visita = [[Unió Esportiva Miapuesta Vilajuïga|U. D. Figueras]]
+| fecha = {{fecha|14|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unió Esportiva Miapuesta Vilajuïga|U. D. Figueras]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 3:4
+| visita = [[Sestao Sport Club|Club Sestao]]
+| fecha = {{fecha|21|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Racing Club de Santander|Real Santander S. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Club Deportivo Badajoz (1905-2012)|C. D. Badajoz]]
+| fecha = {{fecha|14|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Badajoz (1905-2012)|C. D. Badajoz]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 2:4
+| visita = [[Real Racing Club de Santander|Real Santander S. D.]]
+| fecha = {{fecha|21|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Real Club Deportivo Fabril|Fabril Deportivo]]
+| fecha = {{fecha|14|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Club Deportivo Fabril|Fabril Deportivo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| global = 2:4
+| visita = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| fecha = {{fecha|21|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sevilla Atlético|Sevilla Atlético C.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Hércules de Alicante Club de Fútbol|Hércules C. F.]]
+| fecha = {{fecha|14|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Hércules de Alicante Club de Fútbol|Hércules C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 2:1
+| visita = [[Sevilla Atlético|Sevilla Atlético C.]]
+| fecha = {{fecha|21|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| visita = [[Levante Unión Deportiva|Levante U. D.]]
+| fecha = {{fecha|14|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Levante Unión Deportiva|Levante U. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]
+| fecha = {{fecha|21|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 4:3
+| visita = [[Levante Unión Deportiva|Levante U. D.]]
+| fecha = {{fecha|28|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Oberena|C. D. Oberena]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Real Murcia Club de Fútbol "B"|Imperial C. F.]]
+| fecha = {{fecha|14|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Murcia Club de Fútbol "B"|Imperial C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:2
+| visita = [[Club Deportivo Oberena|C. D. Oberena]]
+| fecha = {{fecha|21|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Sociedad de Fútbol "B"|San Sebastián C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| visita = [[Cartagena Fútbol Club|C. D. Cartagena]]
+| fecha = {{fecha|14|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Cartagena Fútbol Club|C. D. Cartagena]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| global = 2:0
+| visita = [[Real Sociedad de Fútbol "B"|San Sebastián C. F.]]
+| fecha = {{fecha|21|01|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+
+== Cuarta ronda ==
+=== Cuadro ===
+    {{TwoLegStart|partidos=3}}
+      {{TwoLegResult
+        | [[Club Deportiu Tortosa|C. D. Tortosa]]
+        | 
+        | 2-3
+        | '''[[Unión Deportiva Salamanca|U. D. Salamanca]]'''
+        | 
+        | ganador=2
+        | 2-0
+        | 0-3
+      }}
+      {{TwoLegResult
+        | '''[[Real Oviedo|Real Oviedo C. F.]]'''
+        | 
+        | 3-2
+        | [[Cartagena Fútbol Club|C. D. Cartagena]]
+        | 
+        | ganador=1
+        | 2-2
+        | 0-0
+        | 1-0
+      }}
+      {{TwoLegResult
+        | '''[[Cádiz Club de Fútbol|Cádiz C. F.]]'''
+        | 
+        | 3-1
+        | [[Real Sporting de Gijón|Real Gijón]]
+        | 
+        | ganador=1
+        | 3-0
+        | 0-1
+      }}
+      {{TwoLegResult
+        | '''[[Club Deportivo Eldense|C. D. Eldense]]'''
+        | 
+        | 3-2
+        | [[Real Valladolid Club de Fútbol|Real Valladolid Deportivo]]
+        | 
+        | ganador=1
+        | 1-1
+        | 2-1
+      }}
+      {{TwoLegResult
+        | [[Club de Fútbol Calella|C. F. Calella]]
+        | 
+        | 3-8
+        | '''[[Club Atlético Osasuna|C. Atlético Osasuna]]'''
+        | 
+        | ganador=2
+        | 2-0
+        | 1-8
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Oberena|C. D. Oberena]]
+        | 
+        | 0-2
+        | '''[[Rayo Vallecano de Madrid|A. D. Rayo Vallecano]]'''
+        | 
+        | ganador=2
+        | 0-1
+        | 0-1
+      }}
+      {{TwoLegResult
+        | [[Barakaldo Club de Fútbol|C. D. Baracaldo Altos Hornos]]
+        | 
+        | 1-3
+        | '''[[Real Murcia Club de Fútbol|Real Murcia C. F.]]'''
+        | 
+        | ganador=2
+        | 0-0
+        | 1-3
+      }}
+      {{TwoLegResult
+        | [[Unión Deportiva Barbastro|U. D. Barbastro]]
+        | 
+        | 1-5
+        | '''[[Ontinyent Club de Fútbol|Onteniente C. F.]]'''
+        | 
+        | ganador=2
+        | 1-1
+        | 0-4
+      }}
+      {{TwoLegResult
+        | '''[[Elche Ilicitano|C. D. Ilicitano]]'''
+        | 
+        | 3-2
+        | [[Sociedad Deportiva Sueca|S. D. Sueca]]
+        | 
+        | ganador=1
+        | 3-0
+        | 0-2
+      }}
+      {{TwoLegResult
+        | '''[[Real Betis Balompié]]'''
+        | 
+        | 4-3
+        | [[Sestao Sport Club|Club Sestao]]
+        | 
+        | ganador=1
+        | 3-2
+        | 1-1
+      }}
+      {{TwoLegResult
+        | [[Club Atlético de Madrid "B"|Reyfra Atlético O. J. E.]]
+        | 
+        | 0-2
+        | '''[[Club Deportivo Castellón|C. D. Castellón]]'''
+        | 
+        | ganador=2
+        | 0-1
+        | 0-1
+      }}
+      {{TwoLegResult
+        | '''[[Burgos Club de Fútbol|Burgos C. F.]]'''
+        | 
+        | 7-2
+        | [[Club Deportivo Lugo|C. D. Lugo]]
+        | 
+        | ganador=1
+        | 4-2
+        | 3-0
+      }}
+      {{TwoLegResult
+        | '''[[Unió Esportiva Sant Andreu|C. D. San Andrés]]'''
+        | 
+        | 8-4
+        | [[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]
+        | 
+        | ganador=1
+        | 5-1
+        | 3-3
+      }}
+      {{TwoLegResult
+        | '''[[Racing Club de Ferrol|Club Ferrol]]'''
+        | 
+        | 4-0
+        | [[Hércules de Alicante Club de Fútbol|Hércules C. F.]]
+        | 
+        | ganador=1
+        | 4-0
+        | 0-0
+      }}
+      {{TwoLegResult
+        | [[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]
+        | 
+        | 3-7
+        | '''[[Athletic Club "B"|Bilbao Atlético C.]]'''
+        | 
+        | ganador=2
+        | 2-5
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Córdoba Club de Fútbol|Córdoba C. F.]]'''
+        | 
+        | 2-1
+        | [[Real Racing Club de Santander|Real Santander S. D.]]
+        | 
+        | ganador=1
+        | 2-0
+        | 0-1
+      }}
+      {{TwoLegResult
+        | [[Melilla Club de Fútbol|Melilla C. F.]]
+        | 
+        | 0-5
+        | '''[[Club Deportivo Málaga|C. D. Málaga]]'''
+        | 
+        | ganador=2
+        | 0-2
+        | 0-3
+      }}
+      {{TwoLegResult
+        | [[Unión Deportiva Mahón|U. D. Mahón]]
+        | 
+        | 1-2
+        | '''[[Reial Club Deportiu Espanyol de Barcelona|R. C. D. Español]]'''
+        | 
+        | ganador=2
+        | 0-0
+        | 1-2
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Puertollano|C. F. Calvo Sotelo de Puertollano]]
+        | 
+        | 2-5
+        | '''[[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]'''
+        | 
+        | ganador=2
+        | 1-2
+        | 1-3
+      }}
+      {{TwoLegResult
+        | '''[[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]'''
+        | 
+        | 3-2
+        | [[Club Deportivo Ourense|C. D. Orense]]
+        | 
+        | ganador=1
+        | 3-2
+        | 0-0
+      }}
+|}
+
+=== Partidos ===
+
+{{Partidos
+| competición = Ida
+| local = [[Club Deportiu Tortosa|C. D. Tortosa]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Unión Deportiva Salamanca|U. D. Salamanca]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unión Deportiva Salamanca|U. D. Salamanca]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 3:2
+| visita = [[Club Deportiu Tortosa|C. D. Tortosa]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Oviedo|Real Oviedo C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:2
+| visita = [[Cartagena Fútbol Club|C. D. Cartagena]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Cartagena Fútbol Club|C. D. Cartagena]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| visita = [[Real Oviedo|Real Oviedo C. F.]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Real Oviedo|Real Oviedo C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 3:2
+| visita = [[Cartagena Fútbol Club|C. D. Cartagena]]
+| fecha = {{fecha|04|03|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Cádiz Club de Fútbol|Cádiz C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Real Sporting de Gijón|Real Gijón]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Sporting de Gijón|Real Gijón]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:3
+| visita = [[Cádiz Club de Fútbol|Cádiz C. F.]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Eldense|C. D. Eldense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Real Valladolid Club de Fútbol|Real Valladolid Deportivo]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Valladolid Club de Fútbol|Real Valladolid Deportivo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| global = 2:3
+| visita = [[Club Deportivo Eldense|C. D. Eldense]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club de Fútbol Calella|C. F. Calella]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Club Atlético Osasuna|C. Atlético Osasuna]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Atlético Osasuna|C. Atlético Osasuna]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 8:1
+| global = 8:3
+| visita = [[Club de Fútbol Calella|C. F. Calella]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Oberena|C. D. Oberena]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Rayo Vallecano de Madrid|A. D. Rayo Vallecano]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Rayo Vallecano de Madrid|A. D. Rayo Vallecano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 2:0
+| visita = [[Club Deportivo Oberena|C. D. Oberena]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Barakaldo Club de Fútbol|C. D. Baracaldo Altos Hornos]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| visita = [[Real Murcia Club de Fútbol|Real Murcia C. F.]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Murcia Club de Fútbol|Real Murcia C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| global = 3:1
+| visita = [[Barakaldo Club de Fútbol|C. D. Baracaldo Altos Hornos]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unión Deportiva Barbastro|U. D. Barbastro]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Ontinyent Club de Fútbol|Onteniente C. F.]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Ontinyent Club de Fútbol|Onteniente C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| global = 5:1
+| visita = [[Unión Deportiva Barbastro|U. D. Barbastro]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Elche Ilicitano|C. D. Ilicitano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Sociedad Deportiva Sueca|S. D. Sueca]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Sociedad Deportiva Sueca|S. D. Sueca]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| global = 2:3
+| visita = [[Elche Ilicitano|C. D. Ilicitano]]
+| fecha = {{fecha|18|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Betis Balompié]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:2
+| visita = [[Sestao Sport Club|Club Sestao]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Sestao Sport Club|Club Sestao]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| global = 3:4
+| visita = [[Real Betis Balompié]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Atlético de Madrid "B"|Reyfra Atlético O. J. E.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Club Deportivo Castellón|C. D. Castellón]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Castellón|C. D. Castellón]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 2:0
+| visita = [[Club Atlético de Madrid "B"|Reyfra Atlético O. J. E.]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Burgos Club de Fútbol|Burgos C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:2
+| visita = [[Club Deportivo Lugo|C. D. Lugo]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Lugo|C. D. Lugo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:3
+| global = 2:7
+| visita = [[Burgos Club de Fútbol|Burgos C. F.]]
+| fecha = {{fecha|10|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unió Esportiva Sant Andreu|C. D. San Andrés]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 5:1
+| visita = [[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Colonia Moscardó|C. D. Colonia Moscardó]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:3
+| global = 4:8
+| visita = [[Unió Esportiva Sant Andreu|C. D. San Andrés]]
+| fecha = {{fecha|18|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Racing Club de Ferrol|Club Ferrol]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| visita = [[Hércules de Alicante Club de Fútbol|Hércules C. F.]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Hércules de Alicante Club de Fútbol|Hércules C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| global = 0:4
+| visita = [[Racing Club de Ferrol|Club Ferrol]]
+| fecha = {{fecha|18|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:5
+| visita = [[Athletic Club "B"|Bilbao Atlético C.]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Athletic Club "B"|Bilbao Atlético C.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 7:3
+| visita = [[Sociedad Deportiva Ponferradina|S. D. Ponferradina]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Córdoba Club de Fútbol|Córdoba C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Real Racing Club de Santander|Real Santander S. D.]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Racing Club de Santander|Real Santander S. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:2
+| visita = [[Córdoba Club de Fútbol|Córdoba C. F.]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Melilla Club de Fútbol|Melilla C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:2
+| visita = [[Club Deportivo Málaga|C. D. Málaga]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Málaga|C. D. Málaga]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 5:0
+| visita = [[Melilla Club de Fútbol|Melilla C. F.]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unión Deportiva Mahón|U. D. Mahón]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| visita = [[Reial Club Deportiu Espanyol de Barcelona|R. C. D. Español]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Reial Club Deportiu Espanyol de Barcelona|R. C. D. Español]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 2:1
+| visita = [[Unión Deportiva Mahón|U. D. Mahón]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Puertollano|C. F. Calvo Sotelo de Puertollano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| visita = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| fecha = {{fecha|04|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| global = 5:2
+| visita = [[Club Deportivo Puertollano|C. F. Calvo Sotelo de Puertollano]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:2
+| visita = [[Club Deportivo Ourense|C. D. Orense]]
+| fecha = {{fecha|10|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Ourense|C. D. Orense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| global = 2:3
+| visita = [[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]
+| fecha = {{fecha|25|02|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+
+== Quinta ronda ==
+=== Cuadro ===
+    {{TwoLegStart|partidos=2}}
+      {{TwoLegResult
+        | '''[[Real Oviedo|Real Oviedo C. F.]]'''
+        | 
+        | 3-1
+        | [[Burgos Club de Fútbol|Burgos C. F.]]
+        | 
+        | ganador=1
+        | 1-1
+        | 2-0
+      }}
+      {{TwoLegResult
+        | [[Elche Ilicitano|C. D. Ilicitano]]
+        | 
+        | 0-1
+        | '''[[Club Atlético Osasuna|C. Atlético Osasuna]]'''
+        | 
+        | ganador=2
+        | 0-0
+        | 0-1
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Eldense|C. D. Eldense]]
+        | 
+        | 1-2
+        | '''[[Club Deportivo Castellón|C. D. Castellón]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 0-2
+      }}
+      {{TwoLegResult
+        | [[Unió Esportiva Sant Andreu|C. D. San Andrés]]
+        | 
+        | 0-1
+        | '''[[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]'''
+        | 
+        | ganador=2
+        | 0-0
+        | 0-1
+      }}
+|}
+
+=== Partidos ===
+
+{{Partidos
+| competición = Ida
+| local = [[Real Oviedo|Real Oviedo C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Burgos Club de Fútbol|Burgos C. F.]]
+| fecha = {{fecha|11|03|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Burgos Club de Fútbol|Burgos C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:2
+| global = 1:3
+| visita = [[Real Oviedo|Real Oviedo C. F.]]
+| fecha = {{fecha|19|03|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Elche Ilicitano|C. D. Ilicitano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| visita = [[Club Atlético Osasuna|C. Atlético Osasuna]]
+| fecha = {{fecha|11|03|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Atlético Osasuna|C. Atlético Osasuna]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:0
+| visita = [[Elche Ilicitano|C. D. Ilicitano]]
+| fecha = {{fecha|25|03|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Eldense|C. D. Eldense]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Club Deportivo Castellón|C. D. Castellón]]
+| fecha = {{fecha|11|03|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Club Deportivo Castellón|C. D. Castellón]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| global = 2:1
+| visita = [[Club Deportivo Eldense|C. D. Eldense]]
+| fecha = {{fecha|25|03|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unió Esportiva Sant Andreu|C. D. San Andrés]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| visita = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| fecha = {{fecha|25|03|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:0
+| visita = [[Unió Esportiva Sant Andreu|C. D. San Andrés]]
+| fecha = {{fecha|01|04|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+
+== Dieciseisavos de final ==
+=== Cuadro ===
+    {{TwoLegStart|partidos=3}}
+      {{TwoLegResult
+        | '''[[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]'''
+        | 
+        | 3-2
+        | [[Real Club Deportivo Mallorca|R. C. D. Mallorca]]
+        | 
+        | ganador=1
+        | 3-1
+        | 0-1
+      }}
+      {{TwoLegResult
+        | '''[[Granada Club de Fútbol|Granada C. F.]]'''
+        | 
+        | 2-1
+        | [[Rayo Vallecano de Madrid|A. D. Rayo Vallecano]]
+        | 
+        | ganador=1
+        | 1-0
+        | 1-1
+      }}
+      {{TwoLegResult
+        | [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+        | 
+        | 2-4
+        | '''[[Centre d'Esports Sabadell Futbol Club|C. D. Sabadell C. F.]]'''
+        | 
+        | ganador=2
+        | 2-1
+        | 0-3
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Málaga|C. D. Málaga]]
+        | 
+        | 1-2
+        | '''[[Unión Deportiva Las Palmas|U. D. Las Palmas]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 0-2
+      }}
+      {{TwoLegResult
+        | '''[[Pontevedra Club de Fútbol|Pontevedra C. F.]]'''
+        | 
+        | 3-2
+        | [[Ontinyent Club de Fútbol|Onteniente C. F.]]
+        | 
+        | ganador=1
+        | 2-0
+        | 1-2
+      }}
+      {{TwoLegResult
+        | '''[[Real Sociedad de Fútbol|Real Sociedad de F.]]'''
+        | 
+        | 3-2
+        | [[Real Oviedo|Real Oviedo C. F.]]
+        | 
+        | ganador=1
+        | 2-0
+        | 0-2
+        | 1-0
+      }}
+      {{TwoLegResult
+        | [[Cádiz Club de Fútbol|Cádiz C. F.]]
+        | 
+        | 2-3
+        | '''[[Athletic Club|C. Atlético de Bilbao]]'''
+        | 
+        | ganador=2
+        | 1-1
+        | 1-2
+      }}
+      {{TwoLegResult
+        | [[Elche Club de Fútbol|Elche C. F.]]
+        | 
+        | 1-4
+        | '''[[Racing Club de Ferrol|Club Ferrol]]'''
+        | 
+        | ganador=2
+        | 1-1
+        | 0-3
+      }}
+      {{TwoLegResult
+        | [[Reial Club Deportiu Espanyol de Barcelona|R. C. D. Español]]
+        | 
+        | 3-4
+        | '''[[Fútbol Club Barcelona|C. F. Barcelona]]'''
+        | 
+        | ganador=2
+        | 2-1
+        | 1-3
+      }}
+      {{TwoLegResult
+        | '''[[Real Murcia Club de Fútbol|Real Murcia C. F.]]'''
+        | 
+        | 4-2
+        | [[Sevilla Fútbol Club|Sevilla C. F.]]
+        | 
+        | ganador=1
+        | 4-0
+        | 0-2
+      }}
+      {{TwoLegResult
+        | [[Club Atlético Osasuna|C. Atlético Osasuna]]
+        | 
+        | 1-6
+        | '''[[Valencia Club de Fútbol|Valencia C. F.]]'''
+        | 
+        | ganador=2
+        | 0-3
+        | 1-3
+      }}
+      {{TwoLegResult
+        | '''[[Real Zaragoza|Real Zaragoza C. D.]]'''
+        | 
+        | 1-0
+        | [[Unión Deportiva Salamanca|U. D. Salamanca]]
+        | 
+        | ganador=1
+        | 1-0
+        | 0-0
+      }}
+      {{TwoLegResult
+        | [[Club Deportivo Castellón|C. D. Castellón]]
+        | 
+        | 2-5
+        | '''[[Real Madrid Club de Fútbol|Real Madrid C. F.]]'''
+        | 
+        | ganador=2
+        | 2-2
+        | 0-3
+      }}
+      {{TwoLegResult
+        | '''[[Club Atlético de Madrid|C. Atlético de Madrid]]'''
+        | 
+        | 4-1
+        | [[Córdoba Club de Fútbol|Córdoba C. F.]]
+        | 
+        | ganador=1
+        | 2-1
+        | 2-0
+      }}
+      {{TwoLegResult
+        | '''[[Real Betis Balompié]]'''
+        | 
+        | 3-2
+        | [[Real Club Deportivo de La Coruña|R. C. D. Coruña]]
+        | 
+        | ganador=1
+        | 1-1
+        | 1-1
+        | 1-0
+      }}
+      {{TwoLegResult
+        | [[Athletic Club "B"|Bilbao Atlético C.]]
+        | 
+        | 2-3
+        | '''[[Real Club Celta de Vigo|R. C. Celta de Vigo]]'''
+        | 
+        | ganador=2
+        | 1-1
+        | 1-1
+        | 0-1
+      }}
+|}
+
+=== Partidos ===
+
+{{Partidos
+| competición = Ida
+| local = [[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| visita = [[Real Club Deportivo Mallorca|R. C. D. Mallorca]]
+| fecha = {{fecha|01|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Club Deportivo Mallorca|R. C. D. Mallorca]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 2:3
+| visita = [[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Granada Club de Fútbol|Granada C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Rayo Vallecano de Madrid|A. D. Rayo Vallecano]]
+| fecha = {{fecha|02|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Rayo Vallecano de Madrid|A. D. Rayo Vallecano]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| global = 1:2
+| visita = [[Granada Club de Fútbol|Granada C. F.]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Centre d'Esports Sabadell Futbol Club|C. D. Sabadell C. F.]]
+| fecha = {{fecha|02|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Centre d'Esports Sabadell Futbol Club|C. D. Sabadell C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 4:2
+| visita = [[Valencia Club de Fútbol Mestalla|C. D. Mestalla]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Málaga|C. D. Málaga]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Unión Deportiva Las Palmas|U. D. Las Palmas]]
+| fecha = {{fecha|02|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unión Deportiva Las Palmas|U. D. Las Palmas]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| global = 2:1
+| visita = [[Club Deportivo Málaga|C. D. Málaga]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Pontevedra Club de Fútbol|Pontevedra C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Ontinyent Club de Fútbol|Onteniente C. F.]]
+| fecha = {{fecha|02|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Ontinyent Club de Fútbol|Onteniente C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 2:3
+| visita = [[Pontevedra Club de Fútbol|Pontevedra C. F.]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Sociedad de Fútbol|Real Sociedad de F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Real Oviedo|Real Oviedo C. F.]]
+| fecha = {{fecha|02|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Oviedo|Real Oviedo C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Real Sociedad de Fútbol|Real Sociedad de F.]]
+| fecha = {{fecha|09|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Real Sociedad de Fútbol|Real Sociedad de F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 3:2
+| visita = [[Real Oviedo|Real Oviedo C. F.]]
+| fecha = {{fecha|12|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Cádiz Club de Fútbol|Cádiz C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Athletic Club|C. Atlético de Bilbao]]
+| fecha = {{fecha|03|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Athletic Club|C. Atlético de Bilbao]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 3:2
+| visita = [[Cádiz Club de Fútbol|Cádiz C. F.]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Elche Club de Fútbol|Elche C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Racing Club de Ferrol|Club Ferrol]]
+| fecha = {{fecha|03|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Racing Club de Ferrol|Club Ferrol]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 4:1
+| visita = [[Elche Club de Fútbol|Elche C. F.]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Reial Club Deportiu Espanyol de Barcelona|R. C. D. Español]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Fútbol Club Barcelona|C. F. Barcelona]]
+| fecha = {{fecha|03|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Fútbol Club Barcelona|C. F. Barcelona]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| global = 4:3
+| visita = [[Reial Club Deportiu Espanyol de Barcelona|R. C. D. Español]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Murcia Club de Fútbol|Real Murcia C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| visita = [[Sevilla Fútbol Club|Sevilla C. F.]]
+| fecha = {{fecha|03|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Sevilla Fútbol Club|Sevilla C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| global = 2:4
+| visita = [[Real Murcia Club de Fútbol|Real Murcia C. F.]]
+| fecha = {{fecha|09|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Atlético Osasuna|C. Atlético Osasuna]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:3
+| visita = [[Valencia Club de Fútbol|Valencia C. F.]]
+| fecha = {{fecha|03|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Valencia Club de Fútbol|Valencia C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:1
+| global = 6:1
+| visita = [[Club Atlético Osasuna|C. Atlético Osasuna]]
+| fecha = {{fecha|09|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Zaragoza|Real Zaragoza C. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Unión Deportiva Salamanca|U. D. Salamanca]]
+| fecha = {{fecha|03|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Unión Deportiva Salamanca|U. D. Salamanca]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:0
+| global = 0:1
+| visita = [[Real Zaragoza|Real Zaragoza C. D.]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Deportivo Castellón|C. D. Castellón]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:2
+| visita = [[Real Madrid Club de Fútbol|Real Madrid C. F.]]
+| fecha = {{fecha|03|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Madrid Club de Fútbol|Real Madrid C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 5:2
+| visita = [[Club Deportivo Castellón|C. D. Castellón]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Atlético de Madrid|C. Atlético de Madrid]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Córdoba Club de Fútbol|Córdoba C. F.]]
+| fecha = {{fecha|03|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Córdoba Club de Fútbol|Córdoba C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:2
+| global = 1:4
+| visita = [[Club Atlético de Madrid|C. Atlético de Madrid]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Betis Balompié]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Real Club Deportivo de La Coruña|R. C. D. Coruña]]
+| fecha = {{fecha|03|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Club Deportivo de La Coruña|R. C. D. Coruña]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Real Betis Balompié]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Real Betis Balompié]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 3:2
+| visita = [[Real Club Deportivo de La Coruña|R. C. D. Coruña]]
+| fecha = {{fecha|12|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Athletic Club "B"|Bilbao Atlético C.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Real Club Celta de Vigo|R. C. Celta de Vigo]]
+| fecha = {{fecha|03|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Club Celta de Vigo|R. C. Celta de Vigo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Athletic Club "B"|Bilbao Atlético C.]]
+| fecha = {{fecha|10|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Desempate
+| local = [[Athletic Club "B"|Bilbao Atlético C.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| global = 2:3
+| visita = [[Real Club Celta de Vigo|R. C. Celta de Vigo]]
+| fecha = {{fecha|12|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+
+== Octavos de final ==
+=== Cuadro ===
+    {{TwoLegStart|partidos=2}}
+      {{TwoLegResult
+        | '''[[Valencia Club de Fútbol|Valencia C. F.]]'''
+        | 
+        | 4-2
+        | [[Granada Club de Fútbol|Granada C. F.]]
+        | 
+        | ganador=1
+        | 3-0
+        | 1-2
+      }}
+      {{TwoLegResult
+        | [[Unión Deportiva Las Palmas|U. D. Las Palmas]]
+        | 
+        | 3-4
+        | '''[[Real Madrid Club de Fútbol|Real Madrid C. F.]]'''
+        | 
+        | ganador=2
+        | 2-0
+        | 1-4
+      }}
+      {{TwoLegResult
+        | [[Club Atlético de Madrid|C. Atlético de Madrid]]
+        | 
+        | 2-3
+        | '''[[Athletic Club|C. Atlético de Bilbao]]'''
+        | 
+        | ganador=2
+        | 1-1
+        | 1-2
+      }}
+      {{TwoLegResult
+        | [[Real Club Celta de Vigo|R. C. Celta de Vigo]]
+        | 
+        | 1-3
+        | '''[[Fútbol Club Barcelona|C. F. Barcelona]]'''
+        | 
+        | ganador=2
+        | 1-0
+        | 0-3
+      }}
+      {{TwoLegResult
+        | [[Pontevedra Club de Fútbol|Pontevedra C. F.]]
+        | 
+        | 1-10
+        | '''[[Real Zaragoza|Real Zaragoza C. D.]]'''
+        | 
+        | ganador=2
+        | 1-2
+        | 0-8
+      }}
+      {{TwoLegResult
+        | '''[[Centre d'Esports Sabadell Futbol Club|C. D. Sabadell C. F.]]'''
+        | 
+        | 2-1
+        | [[Real Sociedad de Fútbol|Real Sociedad de F.]]
+        | 
+        | ganador=1
+        | 2-0
+        | 0-1
+      }}
+      {{TwoLegResult
+        | '''[[Real Murcia Club de Fútbol|Real Murcia C. F.]]'''
+        | 
+        | 5-1
+        | [[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]
+        | 
+        | ganador=1
+        | 3-0
+        | 2-1
+      }}
+      {{TwoLegResult
+        | [[Real Betis Balompié]]
+        | 
+        | 0-2
+        | '''[[Racing Club de Ferrol|Club Ferrol]]'''
+        | 
+        | ganador=2
+        | 0-1
+        | 0-1
+      }}
+|}
+
+=== Partidos ===
+
+{{Partidos
+| competición = Ida
+| local = [[Valencia Club de Fútbol|Valencia C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Granada Club de Fútbol|Granada C. F.]]
+| fecha = {{fecha|16|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Granada Club de Fútbol|Granada C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 2:4
+| visita = [[Valencia Club de Fútbol|Valencia C. F.]]
+| fecha = {{fecha|23|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Unión Deportiva Las Palmas|U. D. Las Palmas]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Real Madrid Club de Fútbol|Real Madrid C. F.]]
+| fecha = {{fecha|17|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Madrid Club de Fútbol|Real Madrid C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:1
+| global = 4:3
+| visita = [[Unión Deportiva Las Palmas|U. D. Las Palmas]]
+| fecha = {{fecha|24|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Club Atlético de Madrid|C. Atlético de Madrid]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Athletic Club|C. Atlético de Bilbao]]
+| fecha = {{fecha|17|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Athletic Club|C. Atlético de Bilbao]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| global = 3:2
+| visita = [[Club Atlético de Madrid|C. Atlético de Madrid]]
+| fecha = {{fecha|24|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Club Celta de Vigo|R. C. Celta de Vigo]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| visita = [[Fútbol Club Barcelona|C. F. Barcelona]]
+| fecha = {{fecha|17|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Fútbol Club Barcelona|C. F. Barcelona]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| global = 3:1
+| visita = [[Real Club Celta de Vigo|R. C. Celta de Vigo]]
+| fecha = {{fecha|24|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Pontevedra Club de Fútbol|Pontevedra C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| visita = [[Real Zaragoza|Real Zaragoza C. D.]]
+| fecha = {{fecha|17|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Zaragoza|Real Zaragoza C. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 8:0
+| global = 10:1
+| visita = [[Pontevedra Club de Fútbol|Pontevedra C. F.]]
+| fecha = {{fecha|24|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Centre d'Esports Sabadell Futbol Club|C. D. Sabadell C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Real Sociedad de Fútbol|Real Sociedad de F.]]
+| fecha = {{fecha|17|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Sociedad de Fútbol|Real Sociedad de F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:2
+| visita = [[Centre d'Esports Sabadell Futbol Club|C. D. Sabadell C. F.]]
+| fecha = {{fecha|24|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Murcia Club de Fútbol|Real Murcia C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 3:0
+| visita = [[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]
+| fecha = {{fecha|20|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Orihuela Deportiva Club de Fútbol|Orihuela Deportiva C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:2
+| global = 1:5
+| visita = [[Real Murcia Club de Fútbol|Real Murcia C. F.]]
+| fecha = {{fecha|28|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Betis Balompié]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Racing Club de Ferrol|Club Ferrol]]
+| fecha = {{fecha|20|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Racing Club de Ferrol|Club Ferrol]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 2:0
+| visita = [[Real Betis Balompié]]
+| fecha = {{fecha|27|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+
+== Cuartos de final ==
+=== Cuadro ===
+    {{TwoLegStart|partidos=2}}
+      {{TwoLegResult
+        | '''[[Real Madrid Club de Fútbol|Real Madrid C. F.]]'''
+        | 
+        | 3-1
+        | [[Fútbol Club Barcelona|C. F. Barcelona]]
+        | 
+        | ganador=1
+        | 2-0
+        | 1-1
+      }}
+      {{TwoLegResult
+        | [[Centre d'Esports Sabadell Futbol Club|C. D. Sabadell C. F.]]
+        | 
+        | 2-3
+        | '''[[Athletic Club|C. Atlético de Bilbao]]'''
+        | 
+        | ganador=2
+        | 2-1
+        | 0-2
+      }}
+      {{TwoLegResult
+        | '''[[Real Zaragoza|Real Zaragoza C. D.]]'''
+        | 
+        | 9-1
+        | [[Real Murcia Club de Fútbol|Real Murcia C. F.]]
+        | 
+        | ganador=1
+        | 4-0
+        | 5-1
+      }}
+      {{TwoLegResult
+        | '''[[Valencia Club de Fútbol|Valencia C. F.]]'''
+        | 
+        | 4-3
+        | [[Racing Club de Ferrol|Club Ferrol]]
+        | 
+        | ganador=1
+        | 1-1
+        | 3-2
+      }}
+|}
+
+=== Partidos ===
+
+{{Partidos
+| competición = Ida
+| local = [[Real Madrid Club de Fútbol|Real Madrid C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Fútbol Club Barcelona|C. F. Barcelona]]
+| fecha = {{fecha|30|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Fútbol Club Barcelona|C. F. Barcelona]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| global = 1:3
+| visita = [[Real Madrid Club de Fútbol|Real Madrid C. F.]]
+| fecha = {{fecha|06|06|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Centre d'Esports Sabadell Futbol Club|C. D. Sabadell C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:1
+| visita = [[Athletic Club|C. Atlético de Bilbao]]
+| fecha = {{fecha|30|05|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Athletic Club|C. Atlético de Bilbao]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| global = 3:2
+| visita = [[Centre d'Esports Sabadell Futbol Club|C. D. Sabadell C. F.]]
+| fecha = {{fecha|06|06|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Real Zaragoza|Real Zaragoza C. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 4:0
+| visita = [[Real Murcia Club de Fútbol|Real Murcia C. F.]]
+| fecha = {{fecha|03|06|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Murcia Club de Fútbol|Real Murcia C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:5
+| global = 1:9
+| visita = [[Real Zaragoza|Real Zaragoza C. D.]]
+| fecha = {{fecha|10|06|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Valencia Club de Fútbol|Valencia C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:1
+| visita = [[Racing Club de Ferrol|Club Ferrol]]
+| fecha = {{fecha|03|06|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Racing Club de Ferrol|Club Ferrol]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:3
+| global = 3:4
+| visita = [[Valencia Club de Fútbol|Valencia C. F.]]
+| fecha = {{fecha|10|06|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+
+== Semifinales ==
+=== Cuadro ===
+    {{TwoLegStart|partidos=2}}
+      {{TwoLegResult
+        | '''[[Real Madrid Club de Fútbol|Real Madrid C. F.]]'''
+        | 
+        | 2-1
+        | [[Athletic Club|C. Atlético de Bilbao]]
+        | 
+        | ganador=1
+        | 0-1
+        | 2-0
+      }}
+      {{TwoLegResult
+        | '''[[Valencia Club de Fútbol|Valencia C. F.]]'''
+        | 
+        | 2-1
+        | [[Real Zaragoza|Real Zaragoza C. D.]]
+        | 
+        | ganador=1
+        | 2-0
+        | 0-1
+      }}
+|}
+
+=== Partidos ===
+
+{{Partidos
+| competición = Ida
+| local = [[Real Madrid Club de Fútbol|Real Madrid C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:1
+| visita = [[Athletic Club|C. Atlético de Bilbao]]
+| fecha = {{fecha|13|06|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Athletic Club|C. Atlético de Bilbao]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 0:2
+| global = 1:2
+| visita = [[Real Madrid Club de Fútbol|Real Madrid C. F.]]
+| fecha = {{fecha|20|06|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Ida
+| local = [[Valencia Club de Fútbol|Valencia C. F.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 2:0
+| visita = [[Real Zaragoza|Real Zaragoza C. D.]]
+| fecha = {{fecha|13|06|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+        
+{{Partidos
+| competición = Vuelta
+| local = [[Real Zaragoza|Real Zaragoza C. D.]]
+| paíslocal = 
+| paísvisita = 
+| resultado = 1:0
+| global = 1:2
+| visita = [[Valencia Club de Fútbol|Valencia C. F.]]
+| fecha = {{fecha|20|06|1970}} 
+| estadio =
+| ciudad =
+| asistencia =
+| refe =
+| reporte =
+| estado = plegada
+}}
+
+
+== Final ==
+La final de la Copa del Generalísimo 1969-70 tuvo lugar el 28 de junio de 1970 en el [[Camp Nou]] de [[Barcelona]].
+{{Partidos
+|local       = [[Real Madrid Club de Fútbol|Real Madrid C. F.]]
+|visita      = [[Valencia Club de Fútbol|Valencia C. F.]] 
+|resultado   = 3 - 1
+|períodos    = 
+|fecha       = Domingo 28 de junio de 1970, 20:00
+|estadio     = [[Camp Nou]]
+|ciudad      = [[Barcelona]]
+|asistencia  = 80&nbsp;200
+|refe        = [[José María Ortiz de Mendíbil]]
+|goleslocal  = [[Pirri (futbolista)|Pirri]] {{gol|34}}<br />[[Juan Planelles|Planelles]] {{gol|60}}<br />[[Sebastián Fleitas|Fleitas]] {{gol|65}}
+|golesvisita = [[Vicente Anastasio Jara|Jara]] {{gol|38}}
+|suceso      = 
+|reporte     = 
+}}
+
+
+{| cellspacing=0 width=100%
+|-
+|align=center|[[Archivo:RFEF - Copa del Rey.svg|50px]]
+|-
+|align=center|'''Campeón<br />[[Real Madrid Club de Fútbol|Real Madrid C. F.]]'''
+|-
+|align=center|'''11.° título'''
+|}
+
+== Enlaces externos ==
+*(en inglés) [http://www.rsssf.com/tabless/spancup1970.html rsssf.com]
+*[http://www.linguasport.com/futbol/nacional/copa/copa70.htm linguasport.com]
+
+{{Sucesión
+ |título = [[Copa del Rey|Copa del Generalísimo]]
+ |período = 1969-70
+ |predecesor = [[Copa del Generalísimo de fútbol 1969]]
+ |sucesor =[[Copa del Generalísimo de fútbol 1970-71]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa del Rey de fútbol|1970]]
+[[Categoría:Temporada 1969-70 de fútbol en España]]
