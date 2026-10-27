@@ -1,0 +1,340 @@
+{{Infobox football match
+| title                   = 1997 Supercopa de España
+| image                   = 
+| event                   = 
+| team1                   = [[FC Barcelona|Barcelona]]
+| team1association        = 
+| team1score              = 3
+| team2                   = [[Real Madrid C.F.|Real Madrid]]
+| team2association        = 
+| team2score              = 5
+| details                 = on aggregate
+| firstleg                = First leg
+| team1score1             = 2
+| team2score1             = 1
+| details1                = 
+| date1                   = 20 August 1997
+| stadium1                = [[Camp Nou]]
+| city1                   = [[Barcelona]]
+| man_of_the_match1a      = 
+| man_of_the_match1atitle = 
+| man_of_the_match1b      = 
+| man_of_the_match1btitle = 
+| referee1                = [[Celino Gracia Redondo]]
+| attendance1             = 120,000
+| weather1                = 
+| secondleg               = Second leg
+| team1score2             = 1
+| team2score2             = 4
+| details2                = 
+| date2                   = 23 August 1997
+| stadium2                = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+| city2                   = [[Madrid]]
+| man_of_the_match2a      = 
+| man_of_the_match2atitle = 
+| man_of_the_match2b      = 
+| man_of_the_match2btitle = 
+| referee2                = [[Arturo Daudén Ibáñez]]
+| attendance2             = 70,000
+| weather2                = 
+| previous                = [[1996 Supercopa de España|1996]]
+| next                    = [[1998 Supercopa de España|1998]]
+}}
+The '''1997 Supercopa de España''' was a two-leg [[Football in Spain|Spanish]] [[Association football|football]] match played on 20 August and 23 August 1997. The contestants were Barcelona, who were Spanish Cup winners in [[1996–97 Copa del Rey|1996–97]], and Real Madrid, who won the [[1996–97 La Liga|1996–97]] Spanish League. Real Madrid won 5&ndash;3 on aggregate.
+
+{{clear}}
+
+==Match details==
+
+===First leg===
+{{footballbox
+|date= 20 August 1997<br>
+22:00 [[Central European Time|CET]]
+|team1= [[FC Barcelona|Barcelona]]
+|score= 2&ndash;1
+|team2=  [[Real Madrid C.F.|Real Madrid]]
+|report= {{citation needed|date=September 2025}}
+|goals1= [[Miguel Ángel Nadal|Nadal]] {{goal|11}}<br>[[Giovanni Silva de Oliveira|Giovanni]] {{goal|85|pen.}}
+|goals2= [[Raúl (footballer)|Raúl]] {{goal|5}}
+|stadium= [[Camp Nou]], [[Barcelona]]
+|attendance= 120,000
+|referee= [[Celino Gracia Redondo|Gracia Redondo]] }}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _barcelona98
+ | pattern_b  = _barcelona98
+ | pattern_ra = _barcelona98
+ | pattern_sh = _barcelona98
+ | pattern_so = _barcelona98
+ | leftarm    = AA0000
+ | body       = AA0000
+ | rightarm   = AA0000
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Barcelona
+}}
+|{{Football kit
+ | pattern_la = _rmcf9798h
+ | pattern_b  = _rmcf9798h
+ | pattern_ra = _rmcf9798h
+ | pattern_sh = _rmcf9798h
+ | pattern_so = _rmcf9798h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''13'''||{{flagicon|NED}} [[Ruud Hesp]]
+|-
+|RB ||'''22''' ||{{flagicon|NED}} [[Michael Reiziger]]
+|-
+|CB ||'''20''' ||{{flagicon|ESP}} [[Miguel Ángel Nadal]] || || {{suboff|66}}
+|-
+|LB ||'''12'''||{{flagicon|ESP}} [[Sergi Barjuán|Sergi]] || {{yel|27}}
+|-
+|DM ||'''4'''||{{flagicon|ESP}} [[Pep Guardiola]] ([[Captain (association football)|c]])
+|-
+|RM ||'''21'''||{{flagicon|ESP}} [[Luis Enrique (footballer)|Luis Enrique]] || || {{suboff|62}}
+|-
+|LM ||'''18''' ||{{flagicon|ESP}} [[Guillermo Amor]]
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Giovanni Silva de Oliveira|Giovanni]]
+|-
+|RW ||'''11''' ||{{flagicon|BRA}} [[Rivaldo]]
+|-
+|CF ||'''9'''||{{flagicon|BRA}} [[Sonny Anderson]]
+|-
+|LW ||'''14'''||{{flagicon|NGR}} [[Emmanuel Amunike]] || || {{suboff|71}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''25''' ||{{flagicon|ESP}} [[Carles Busquets]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Albert Ferrer]] || || {{subon|66}}
+|-
+|MF ||'''16'''||{{flagicon|FRY}} [[Dragan Ćirić]] || || {{subon|71}}
+|-
+|FW ||'''15''' ||{{flagicon|FRA|1974}} [[Christophe Dugarry]] || || {{subon|62}}
+|-
+|FW ||'''19''' ||{{flagicon|ARG}} [[Juan Antonio Pizzi]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Louis van Gaal]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Santiago Cañizares]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Chendo]]
+|-
+|CB ||'''24'''||{{flagicon|ESP}} [[Aitor Karanka]] || {{yel|84}}
+|-
+|CB ||'''5''' ||{{flagicon|ESP}} [[Manuel Sanchís Hontiyuelo|Manolo Sanchís]] ([[Captain (association football)|c]])
+|-
+|LB ||'''3'''||{{flagicon|BRA}} [[Roberto Carlos]] || {{yel|89}}
+|-
+|DM ||'''16'''||{{flagicon|ESP}} [[Jaime Sánchez Fernández|Jaime]] || || {{suboff|62}}
+|-
+|RM ||'''10''' ||{{flagicon|NED}} [[Clarence Seedorf]] || || {{suboff|81}}
+|-
+|LM ||'''11''' ||{{flagicon|ESP}} [[José Emilio Amavisca|José Amavisca]] || || {{suboff|62}}
+|-
+|AM ||'''7'''||{{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+|-
+|CF ||'''8''' ||{{flagicon|FRY}} [[Predrag Mijatović]] || {{yel|27}}
+|-
+|CF ||'''9'''||{{flagicon|CRO}} [[Davor Šuker]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Pedro Contreras]]
+|-
+|DF ||'''22'''||{{flagicon|POR}} [[Carlos Secretário]]
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Guti (footballer)|Guti]] || || {{subon|62}}
+|-
+|MF ||'''21'''||{{flagicon|BRA}} [[Zé Roberto]] || || {{subon|62}}
+|-
+|FW ||'''23'''||{{flagicon|ESP}} [[Dani García (footballer, born 1974)|Dani]] || || {{subon|81}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|GER}} [[Jupp Heynckes]]
+|}
+|}
+
+===Second leg===
+{{footballbox
+|date= 23 August 1997<br>
+22:00 [[Central European Time|CET]]
+|team1= [[Real Madrid C.F.|Real Madrid]]
+|score= 4&ndash;1
+|team2=  [[FC Barcelona|Barcelona]]
+|report= {{citation needed|date=September 2025}}
+|goals1= [[Raúl (footballer)|Raúl]] {{goal|42||54}}<br>[[Predrag Mijatović|Mijatović]] {{goal|58}}<br>[[Clarence Seedorf|Seedorf]] {{goal|65}}
+|goals2= [[Giovanni Silva de Oliveira|Giovanni]] {{goal|80}}
+|stadium= [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance= 70,000
+|referee= [[Arturo Daudén Ibáñez|Dauden Ibáñez]] }}
+
+{| width=92% |
+|-
+|{{Football kit 
+ | pattern_la = _rmcf9798h
+ | pattern_b  = _rmcf9798h
+ | pattern_ra = _rmcf9798h
+ | pattern_sh = _rmcf9798h
+ | pattern_so = _rmcf9798h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|{{Football kit
+ | pattern_la = _barcelona98
+ | pattern_b  = _barcelona98
+ | pattern_ra = _barcelona98
+ | pattern_sh = _barcelona98
+ | pattern_so = _barcelona98
+ | leftarm    = AA0000
+ | body       = AA0000
+ | rightarm   = AA0000
+ | shorts     = 0000FF
+ | socks      = 0000FF
+ | title      = Barcelona
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Santiago Cañizares]]
+|-
+|RB ||'''17''' ||{{flagicon|ITA}} [[Christian Panucci]] || {{yel|38}}
+|-
+|CB ||'''24'''||{{flagicon|ESP}} [[Aitor Karanka]]
+|-
+|CB ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]] ([[Captain (association football)|c]]) || {{yel|87}}
+|-
+|LB ||'''3'''||{{flagicon|BRA}} [[Roberto Carlos]]
+|-
+|DM ||'''14'''||{{flagicon|ESP}} [[Guti (footballer)|Guti]] || || {{suboff|63}}
+|-
+|RM ||'''10''' ||{{flagicon|NED}} [[Clarence Seedorf]] || {{yel|8}}
+|-
+|LM ||'''21'''||{{flagicon|BRA}} [[Zé Roberto]] || || {{suboff|82}}
+|-
+|AM ||'''7'''||{{flagicon|ESP}} [[Raúl (footballer)|Raúl]] || {{yel|24}}
+|-
+|CF ||'''8''' ||{{flagicon|FRY}} [[Predrag Mijatović]]
+|-
+|CF ||'''9'''||{{flagicon|CRO}} [[Davor Šuker]] || || {{suboff|73}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''16'''||{{flagicon|ESP}} [[Jaime Sánchez Fernández|Jaime]] || || {{subon|63}}
+|-
+|MF ||'''18'''||{{flagicon|ESP}} [[Víctor Sánchez (footballer, born 1976)|Víctor]] || || {{subon|73}}
+|-
+|DF ||'''5'''||{{flagicon|ESP}} [[Manuel Sanchís Hontiyuelo|Manolo Sanchís]] || || {{subon|82}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|GER}} [[Jupp Heynckes]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''13'''||{{flagicon|NED}} [[Ruud Hesp]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Albert Ferrer]]
+|-
+|CB ||'''22''' ||{{flagicon|NED}} [[Michael Reiziger]]
+|-
+|CB ||'''3'''||{{flagicon|ESP}} [[Abelardo Fernández|Abelardo]] || {{yel|32}}
+|-
+|LB ||'''12'''||{{flagicon|ESP}} [[Sergi Barjuán|Sergi]]
+|-
+|DM ||'''4'''||{{flagicon|ESP}} [[Pep Guardiola]] ([[Captain (association football)|c]])
+|-
+|DM ||'''18''' ||{{flagicon|ESP}} [[Guillermo Amor]] || || {{suboff|57}}
+|-
+|AM ||'''10'''||{{flagicon|BRA}} [[Giovanni Silva de Oliveira|Giovanni]]
+|-
+|RW ||'''7''' ||{{flagicon|POR}} [[Luís Figo]] || {{yel|45}}
+|-
+|CF ||'''9'''||{{flagicon|BRA}} [[Sonny Anderson]] || || {{suboff|68}}
+|-
+|LW ||'''11''' ||{{flagicon|BRA}} [[Rivaldo]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|MF ||'''16'''||{{flagicon|FRY}} [[Dragan Ćirić]] || || {{subon|57}}
+|-
+|FW ||'''15''' ||{{flagicon|FRA|1974}} [[Christophe Dugarry]] || || {{subon|68}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Louis van Gaal]]
+|}
+|}
+
+==See also==
+*[[El Clásico]]
+*[[1997–98 La Liga]]
+*[[1997–98 Copa del Rey]]
+*[[1997–98 FC Barcelona season]]
+*[[1997–98 Real Madrid CF season]]
+
+==References==
+* [https://www.rsssf.org/tabless/spansupcuphist.html List of Super Cup Finals 1997 ] RSSSF.com
+{{1997–98 in Spanish football}}
+{{Supercopa de España Finals}}
+{{FC Barcelona matches}}
+{{Real Madrid matches}}
+
+{{DEFAULTSORT:1997 Supercopa de Espana}}
+[[Category:1997–98 in Spanish football cups|Supercopa de Espana Final]]
+[[Category:Supercopa de España]]
+[[Category:FC Barcelona matches|Supercopa de Espana 1997]]
+[[Category:Real Madrid CF matches|Supercopa de Espana 1997]]
+[[Category:El Clásico matches|Supercopa de España]]
+[[Category:August 1997 sports events in Europe]]
+[[Category:August 1997 in Spain]]
+[[Category:Football competitions in Madrid]]
+[[Category:Football matches in Barcelona]]
+[[Category:1997 in the Community of Madrid]]
+[[Category:1990s in Madrid]]
+[[Category:1990s in Barcelona]]
+[[Category:1997 in Catalan sport]]
+
+{{Spain-footy-competition-stub}}

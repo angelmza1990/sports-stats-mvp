@@ -1,0 +1,204 @@
+{{Short description|Spanish football competition played in Saudi Arabia}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox international football competition
+| tourney_name   = Supercopa de España
+| other_titles   = 
+| year           = 2023
+| image          = 
+| size           = 
+| alt            = 
+| country        = Saudi Arabia
+| dates          = 11–15 January 2023
+| num_teams      = 4
+| sub-confederations = 
+| champion_other = [[FC Barcelona|Barcelona]]
+| count          = 14
+| second_other   = [[Real Madrid CF|Real Madrid]]
+| third_other    = 
+| fourth_other   = 
+| matches        = 3
+| goals          = 10
+| attendance     = {{#expr: <!--Semi-finals--> 50492 + 38629 + <!--Final--> 57340}}
+| top_scorer     = [[Karim Benzema]]<br/>[[Robert Lewandowski]]<br/>(2 goals each)
+| player         = 
+| goalkeeper     = 
+| fair_play      = 
+| prevseason     = [[2022 Supercopa de España|2022]]
+| nextseason     = [[2024 Supercopa de España|2024]]
+|venues=1|cities=1}}
+The '''2023 Supercopa de España''' was the 39th edition of the [[Supercopa de España]], an annual [[Association football|football]] competition for clubs in the [[Spanish football league system]] that were successful in its major competitions in the preceding season.
+
+[[FC Barcelona|Barcelona]] won the tournament for their record-extending fourteenth Supercopa de España title.
+
+==Qualification==
+The tournament featured the winners and runners-up of the [[2021–22 Copa del Rey]] and [[2021–22 La Liga]].<ref>{{cite web|url=https://www.rfef.es/sites/default/files/pdf/betting_in_english_0.pdf|title=Supercopa de España|website=www.rfef.es|access-date=13 January 2022}}</ref>
+
+===Qualified teams===
+The following four teams qualified for the tournament.<ref>{{cite web|url=https://sevilla.abc.es/alfinaldelapalmera/noticias-betis/sevi-betis-asegura-participacion-proxima-supercopa-espana-202203032325_noticia.html|title=El Betis asegura su participación en la próxima Supercopa de España|website=www.sevilla.abc.es|access-date=4 March 2022}}</ref>
+{| class="wikitable"
+! rowspan="2" |Team
+! rowspan="2" |Method of qualification
+! rowspan="2" |Appearance
+! rowspan="2" |Last appearance as
+! colspan="3" |Previous performance
+|-
+!Winner(s)
+!Runners-up
+!Semi-finalists
+|-
+|[[Real Betis]]
+|[[2022 Copa del Rey Final|2021–22 Copa del Rey]] winners 
+|2nd
+|[[2005 Supercopa de España|2005]] runners-up
+|–
+|1
+|–
+|-
+|[[Real Madrid CF|Real Madrid]] 
+|[[2021–22 La Liga]] winners
+|19th
+|[[2022 Supercopa de España|2022]] winners
+|12
+|5
+|1
+|-
+|[[Valencia CF|Valencia]]
+|[[2022 Copa del Rey Final|2021–22 Copa del Rey]] runners-up
+|6th
+|[[2020 Supercopa de España|2020]] semi-finalists
+|1
+|3
+|1
+|-
+|[[FC Barcelona|Barcelona]]
+|[[2021–22 La Liga]] runners-up
+|27th
+|[[2022 Supercopa de España|2022]] semi-finalists
+|13
+|11
+|2
+|}
+
+==Venue==
+All three matches were held at the [[King Fahd International Stadium]] in [[Riyadh]], [[Saudi Arabia]].<ref>{{cite news|url=https://rfef.es/es/noticias/oficial-definido-el-orden-de-partidos-de-la-supercopa-de-espana|title=OFICIAL {{!}} Definido el orden de partidos de la Supercopa de España|publisher=RFEF|language=es|date=4 November 2022|access-date=4 November 2022}}</ref>
+
+{| class="wikitable" style="text-align:center;margin:1em auto;"
+|+
+! rowspan="4" |{{Location map+|Saudi Arabia|border=|caption=Location of the host city of the 2022 Supercopa de España.|float=center|width=320|places={{Location map~|Saudi Arabia|lat=24.633333|long=46.716667|position = bottom|label=[[Riyadh]]}}}}
+!City
+!Stadium
+|-
+|[[Riyadh]]
+|[[King Fahd International Stadium]]
+|-
+|[[File:Riyadh Skyline.jpg|231x231px]]
+|[[File:キングファハド国際スタジアム.jpg|197x197px]]
+|-
+| colspan="2" |'''Capacity: 58,398'''
+|}
+
+==Matches==
+* Times listed are [[Saudi Arabia Standard Time|SAST]] ([[UTC+03:00|UTC+3]]).
+
+===Bracket===
+<onlyinclude>{{#invoke:RoundN|main|columns=2|bold_winner=high|scoreboxes=1
+|RD1=[[#Semi-finals|Semi-finals]]
+|RD2=[[#Final|Final]]
+|widescore=yes
+
+<!-- No need to bold results and winners, the template does it automatically -->
+<!-- Semifinals -->
+|11 January 2023 – [[King Fahd International Stadium|Riyadh]]|[[Real Madrid CF|Real Madrid]] ([[Penalty shoot-out (association football)|p]])|1 (4)|[[Valencia CF|Valencia]]|1 (3)
+|12 January 2023 – [[King Fahd International Stadium|Riyadh]]|[[Real Betis]]| 2 (2)|[[FC Barcelona|Barcelona]] ([[Penalty shoot-out (association football)|p]])|2 (4)
+<!-- Final -->
+|15 January 2023 – [[King Fahd International Stadium|Riyadh]]|[[Real Madrid CF|Real Madrid]]|1|[[FC Barcelona|Barcelona]]|3
+}}</onlyinclude>
+
+===Semi-finals===
+{{Football box
+| id = Real Madrid v Valencia
+| date = 11 January 2023
+| time = 22:00
+| team1 = [[Real Madrid CF|Real Madrid]]
+| score = 1–1
+| aet = yes
+| report = http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=77179
+| team2 = [[Valencia CF|Valencia]]
+| goals1 = 
+*[[Karim Benzema|Benzema]] {{goal|39|pen.}}
+| goals2 = 
+*[[Samuel Lino|Lino]] {{goal|46}}
+| stadium = [[King Fahd International Stadium]]
+| location = [[Riyadh]]
+| attendance = 50,492<ref>{{cite web|url=https://www.espn.com/soccer/match/_/gameId/637512|title=Real Madrid vs. Valencia|website=ESPN|date=11 January 2023|access-date=11 January 2023}}</ref>
+| referee = [[Alejandro Hernández Hernández]] ([[Las Palmas Inter-Island Football Federation|Las Palmas]])
+| penalties1   =
+*[[Karim Benzema|Benzema]] {{pengoal}}
+*[[Luka Modrić|Modrić]] {{pengoal}}
+*[[Toni Kroos|Kroos]] {{pengoal}}
+*[[Marco Asensio|Asensio]] {{pengoal}}
+| penaltyscore = 4–3
+| penalties2   =
+*{{pengoal}} [[Edinson Cavani|Cavani]]
+*{{penmiss}} [[Eray Cömert|Cömert]]
+*{{pengoal}} [[Ilaix Moriba|Moriba]]
+*{{pengoal}} [[Hugo Guillamón|Guillamón]]
+*{{penmiss}} [[José Gayà|Gayà]]
+}}
+----
+{{Football box
+| id = Real Betis v Barcelona
+| date = 12 January 2023
+| time = 22:00
+| team1 = [[Real Betis]]
+| score = 2–2
+| aet = yes
+| report = http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=77181
+| team2 = [[FC Barcelona|Barcelona]]
+| goals1 = 
+*[[Nabil Fekir|Fekir]] {{goal|77}}
+*[[Loren Morón (footballer, born 1993)|Loren]] {{goal|101}}
+| goals2 = 
+*[[Robert Lewandowski|Lewandowski]] {{goal|40}}
+*[[Ansu Fati|Fati]] {{goal|93}}
+| stadium = [[King Fahd International Stadium]]
+| location = [[Riyadh]]
+| attendance = 38,629<ref>{{cite web|url=https://www.espn.com/soccer/match/_/gameId/637511|title=Real Betis vs. Barcelona|website=ESPN|date=12 January 2023|access-date=12 January 2023}}</ref>
+| referee = [[Carlos del Cerro Grande]] ([[Royal Madrid Football Federation|Community of Madrid]])
+| penalties1   =
+*[[Willian José]] {{pengoal}}  
+*[[Loren Morón (footballer, born 1993)|Loren]] {{pengoal}}  
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{penmiss}} 
+*[[William Carvalho|Carvalho]] {{penmiss}} 
+| penaltyscore = 2–4
+| penalties2   =
+*{{pengoal}} [[Robert Lewandowski|Lewandowski]]
+*{{pengoal}} [[Franck Kessié|Kessié]]
+*{{pengoal}} [[Ansu Fati|Fati]]
+*{{pengoal}} [[Pedri]]
+}}
+
+===Final===
+{{main|2023 Supercopa de España final}}
+
+{{:2023 Supercopa de España final}}
+
+==See also== 
+*[[2022–23 La Liga]]
+*[[2022–23 Copa del Rey]]
+
+==References==
+{{reflist}}
+
+{{Supercopa de España Finals}}
+{{2022–23 in Spanish football}}
+{{2022–23 in European football (UEFA)}}
+
+{{DEFAULTSORT:Supercopa de España}}
+[[Category:2022–23 in Spanish football cups]]
+[[Category:Supercopa de España|2022–23]]
+[[Category:Men's football competitions in Saudi Arabia]]
+[[Category:Football club competitions in Saudi Arabia]]
+[[Category:January 2023 sports events in Saudi Arabia]]
+[[Category:2022–23 in Saudi Arabian football]]
+[[Category:Sports competitions in Riyadh]]

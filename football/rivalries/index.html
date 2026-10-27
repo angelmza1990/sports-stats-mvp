@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Great Rivalries · Football</title>
+  <meta name="description" content="Every official match of four great football rivalries: River Plate vs Boca Juniors, Real Madrid vs Barcelona, Inter vs Milan and Liverpool vs Manchester United. Head to head, the record over time, results, knockout ties, finals, top scorers and friendlies.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body>
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Football</p>
+    <h1>Great Rivalries</h1>
+    <p class="lede">
+      Every official match of four of football's great rivalries, from the first one to the latest: who leads the head to head and how the lead has changed hands,
+      the results that keep repeating, every knockout tie and final between them, and the players who defined them.
+    </p>
+    <div class="rivalry-picker" role="tablist" aria-label="Rivalry" id="picker"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block tight" id="summary">
+      <div class="card versus-card">
+        <div class="rv-head" id="rv-versus"></div>
+        <div class="rv-split" id="rv-split" aria-hidden="true"></div>
+        <div class="rv-goals" id="rv-goals"></div>
+      </div>
+      <div class="stat-row" id="stats"></div>
+    </section>
+
+    <div class="filter-bar">
+      <span class="filter-label">Matches</span>
+      <div class="segmented" role="tablist" aria-label="Matches" id="view-tabs"></div>
+      <p class="filter-note" id="view-note"></p>
+    </div>
+
+    <div id="official">
+      <section class="block" id="timeline">
+        <div class="block-head">
+          <h2>The lead, match by match</h2>
+          <p id="timeline-lede">Wins minus losses after every official match. Above the line, one side leads the head to head; below it, the other.</p>
+        </div>
+        <div class="card">
+          <div class="legend" id="timeline-legend"></div>
+          <div id="timeline-chart" class="chart"></div>
+          <p class="chart-note" id="timeline-note"></p>
+        </div>
+      </section>
+
+      <section class="block" id="competitions">
+        <div class="block-head">
+          <h2>Competition by competition</h2>
+          <p>The record in every competition they have met in, from the league to the continental cups.</p>
+        </div>
+        <div class="card">
+          <div class="data-table" id="comp-table"></div>
+        </div>
+      </section>
+
+      <section class="block" id="scores">
+        <div class="block-head">
+          <h2>The results that repeat</h2>
+          <p>Every official scoreline, most frequent first, split by who won it.</p>
+        </div>
+        <div class="card">
+          <div class="legend" id="scores-legend"></div>
+          <div id="scores-chart" class="chart"></div>
+          <details class="table-view">
+            <summary>Show as a table</summary>
+            <div class="scroll" id="scores-table"></div>
+          </details>
+        </div>
+      </section>
+
+      <section class="block" id="venues">
+        <div class="block-head">
+          <h2>Home, away and neutral</h2>
+          <p>Each side's record at its own ground, at its rival's and at neutral venues.</p>
+        </div>
+        <div class="venue-grid" id="venue-cards"></div>
+      </section>
+
+      <section class="block" id="decades">
+        <div class="block-head">
+          <h2>Decade by decade</h2>
+          <p>Wins, draws and losses in each decade of the rivalry.</p>
+        </div>
+        <div class="card">
+          <div class="legend" id="decade-legend"></div>
+          <div id="decade-chart" class="chart"></div>
+        </div>
+      </section>
+
+      <section class="block" id="knockouts">
+        <div class="block-head">
+          <h2>Knockout ties and finals</h2>
+          <p id="ties-lede">Every time one knocked the other out of a cup, over one match, two legs or replays, and every final between them.</p>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <h3 class="sub">Who went through</h3>
+            <div id="ties-summary"></div>
+          </div>
+          <div class="card">
+            <h3 class="sub">Finals between them</h3>
+            <div id="finals-summary"></div>
+          </div>
+        </div>
+        <div class="card" style="margin-top:16px">
+          <div class="controls">
+            <div class="segmented" role="tablist" aria-label="Ties" id="ties-tabs"></div>
+          </div>
+          <div class="tie-list" id="ties-list"></div>
+        </div>
+      </section>
+
+      <section class="block" id="records">
+        <div class="block-head">
+          <h2>Records</h2>
+          <p>The biggest wins, the highest-scoring matches and the longest runs.</p>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <h3 class="sub">Biggest wins</h3>
+            <div id="biggest"></div>
+          </div>
+          <div class="card">
+            <h3 class="sub">Longest runs</h3>
+            <div id="streaks"></div>
+          </div>
+        </div>
+        <div class="card" style="margin-top:16px">
+          <h3 class="sub">Most goals in a match</h3>
+          <div id="goalfests"></div>
+        </div>
+      </section>
+
+      <section class="block" id="players">
+        <div class="block-head">
+          <h2>The players</h2>
+          <p id="players-lede">The top scorers and the players with the most appearances in official matches of the rivalry.</p>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <h3 class="sub">Top scorers</h3>
+            <div id="scorers"></div>
+          </div>
+          <div class="card">
+            <h3 class="sub">Most appearances</h3>
+            <div id="apps"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="block" id="matches">
+        <div class="block-head">
+          <h2>Every official match</h2>
+          <p>Most recent first. <span id="matches-count"></span></p>
+        </div>
+        <div class="card">
+          <div class="controls match-controls">
+            <select id="match-comp" aria-label="Competition"></select>
+            <div class="segmented" role="tablist" aria-label="Result" id="match-result"></div>
+          </div>
+          <div class="data-table tall" id="match-table"></div>
+        </div>
+      </section>
+    </div>
+
+    <div id="friendly" hidden>
+      <section class="block" id="friendlies">
+        <div class="block-head">
+          <h2>Friendlies</h2>
+          <p id="friendlies-lede">Exhibition games, pre-season tournaments and tributes. They don't count in the official head to head.</p>
+        </div>
+        <div class="card versus-card" id="fr-card">
+          <div class="rv-head" id="fr-versus"></div>
+          <div class="rv-split" id="fr-split" aria-hidden="true"></div>
+          <div class="rv-goals" id="fr-goals"></div>
+        </div>
+        <div class="card" style="margin-top:16px" id="fr-scores-card">
+          <h3 class="sub">The results that repeat</h3>
+          <div class="legend" id="fr-scores-legend"></div>
+          <div id="fr-scores-chart" class="chart"></div>
+        </div>
+        <div class="card" style="margin-top:16px" id="fr-table-card">
+          <h3 class="sub">Every friendly</h3>
+          <div class="data-table tall" id="fr-table"></div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> <span id="source"></span> (CC BY-SA 4.0).
+      Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p id="notes"><strong>Notes:</strong> results are at the end of normal or extra time; a match decided on penalties counts as a draw, and the shoot-out only decides who went through.
+      Awarded and abandoned matches count with the result that was made official. Wartime matches are not official and are left out.</p>
+    <p>
+      Club names and crests are trademarks of their respective clubs, shown here for identification only (crests via ESPN's public CDN).
+      This project is not affiliated with any club, league or federation.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

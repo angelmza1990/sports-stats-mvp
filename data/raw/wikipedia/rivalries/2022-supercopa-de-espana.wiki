@@ -1,0 +1,186 @@
+{{Short description|Spanish football competition played in Saudi Arabia}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox international football competition
+| tourney_name   = Supercopa de España
+| other_titles   = 
+| year           = 2022
+| image          = 
+| size           = 
+| alt            = 
+| country        = Saudi Arabia
+| dates          = 12–16 January 2022
+| num_teams      = 4
+| sub-confederations = 
+| champion_other = [[Real Madrid CF|Real Madrid]]
+| count          = 12
+| second_other   = [[Athletic Bilbao]]
+| third_other    = 
+| fourth_other   = 
+| matches        = 3
+| goals          = 10
+| attendance     = {{#expr: <!--Semi-finals--> 35000 + 7000 + <!--Final--> 30000}}
+| top_scorer     = [[Karim Benzema]]<br/>(2 goals)
+| player         = 
+| goalkeeper     = 
+| fair_play      = 
+| updated        =
+| prevseason     = [[2021 Supercopa de España|2021]]
+| nextseason     = [[2023 Supercopa de España|2023]]
+|venues=1|cities=1}}
+The '''2022 Supercopa de España''' was the 38th edition of the [[Supercopa de España]], an annual [[Association football|football]] competition for clubs in the [[Spanish football league system]] that were successful in its major competitions in the preceding season.
+
+After the previous season's edition was held in [[Andalusia]], Spain due to travel restrictions related to the [[COVID-19 pandemic]], this year the tournament returned to [[Saudi Arabia]] as per the deal with the [[Royal Spanish Football Federation]].<ref>{{cite news |last1=Kohan |first1=Marisa |title=Así es Arabia Saudí, el país que albergará la Supercopa y que viola derechos humanos |url=https://www.publico.es/sociedad/supercopa-futbol-arabia-saudi-pais-albergara-supercopa-viola-derechos-humanos.html |access-date=14 June 2020 |work=www.publico.es |date=15 November 2019 |language=es}}</ref>
+
+[[Real Madrid CF|Real Madrid]] won the tournament for their twelfth Supercopa de España title.<ref>{{cite web|url=https://www.bbc.com/sport/football/60018825 |title=Athletic Bilbao 0-2 Real Madrid: Luka Modric scores in Super Cup final win|date=16 January 2022 |work=BBC Sport|access-date=16 January 2022}}</ref><ref>{{cite news|url=https://www.marca.com/en/football/real-madrid/2022/01/16/61e481b0ca4741226d8b458c.html|title=Modric and Benzema fire Real Madrid to the Supercopa title |newspaper=Marca |first=Euan |last=Mctear |date=16 January 2022|access-date=16 January 2022}}</ref>
+
+==Qualification==
+The tournament featured the winners and runners-up of the [[2020–21 Copa del Rey]] and [[2020–21 La Liga]].<ref>{{cite web|url=https://www.rfef.es/sites/default/files/pdf/betting_in_english_0.pdf|title=Supercopa de España|website=www.rfef.es|access-date=13 January 2022}}</ref>
+
+===Qualified teams===
+The following four teams qualified for the tournament.
+{| class="wikitable"
+! rowspan="2" |Team
+! rowspan="2" |Method of qualification
+! rowspan="2" |Appearance
+! rowspan="2" |Last appearance as
+! colspan="3" |Previous performance
+|-
+!Winner(s)
+!Runners-up
+!Semi-finalists
+|-
+|[[FC Barcelona|Barcelona]]
+|[[2021 Copa del Rey Final|2020–21 Copa del Rey]] winners
+|26th
+|[[2021 Supercopa de España|2021]] runners-up
+|13
+|11
+|1
+|-
+|[[Atlético Madrid]]
+|[[2020–21 La Liga]] winners 
+|8th
+|[[2020 Supercopa de España|2020]] runners-up
+|2
+|5
+|–
+|-
+|[[Athletic Bilbao]]
+|[[2021 Copa del Rey Final|2020–21 Copa del Rey]] runners-up
+|6th
+|[[2021 Supercopa de España|2021]] winners
+|3
+|2
+|–
+|-
+|[[Real Madrid CF|Real Madrid]]
+|[[2020–21 La Liga]] runners-up
+|18th
+|[[2021 Supercopa de España|2021]] semi-finalists
+|11
+|5
+|1
+|}
+
+==Venue==
+All three matches were held at the [[King Fahd International Stadium]] in [[Riyadh]], [[Saudi Arabia]].<ref>[https://www.fcbarcelona.com/en/news/2160444/the-2022-spanish-super-cup-has-a-clasico/amp The 2022 Spanish Super Cup has a Clásico], FC Barcelona, 25 May 2021. Retrieved 23 October 2021</ref><ref>[https://www.athletic-club.eus/en/news/2021/06/28/athletic-will-play-in-the-super-cup-from-january-12-16 Athletic will play in the Super Cup from January 12-16], Athletic Bilbao, 26 June 2021. Retrieved 23 October 2021</ref><ref>[https://www.goal.com/en/amp/news/when-is-the-next-el-clasico-the-dates-of-real-madrid-vs/2uq1e7998cfo1g1c1nwcyvell When is the next El Clasico? The dates of Real Madrid vs Barcelona 2021-22 fixtures], Goal.com, 28 May 2021. Retrieved 23 October 2021</ref>
+
+{| class="wikitable" style="text-align:center;margin:1em auto;"
+|+
+! rowspan="4" |{{Location map+|Saudi Arabia|border=|caption=Location of the host city of the 2022 Supercopa de España.|float=center|width=320|places={{Location map~|Saudi Arabia|lat=24.633333|long=46.716667|position = bottom|label=[[Riyadh]]}}}}
+!City
+!Stadium
+|-
+|[[Riyadh]]
+|[[King Fahd International Stadium]]
+|-
+|[[File:Riyadh Skyline.jpg|231x231px]]
+|[[File:キングファハド国際スタジアム.jpg|197x197px]]
+|-
+| colspan="2" |'''Capacity: 58,398'''
+|}
+
+==Matches==
+* Times listed are [[Saudi Arabia Standard Time|SAST]] ([[UTC+03:00|UTC+3]]).
+
+===Bracket===
+<onlyinclude>{{#invoke:RoundN|main|columns=2|bold_winner=high|scoreboxes=1
+|RD1=[[#Semi-finals|Semi-finals]]
+|RD2=[[#Final|Final]]
+|widescore=yes
+
+<!-- No need to bold results and winners, the template does it automatically -->
+<!-- Semifinals -->
+|13 January 2022 – [[King Fahd International Stadium|Riyadh]]|[[Atlético Madrid]]|1|[[Athletic Bilbao]]|2
+|12 January 2022 – [[King Fahd International Stadium|Riyadh]]|[[FC Barcelona|Barcelona]]|2|[[Real Madrid CF|Real Madrid]] ([[Overtime (sports)#Association football|a.e.t.]])|3
+<!-- Final -->
+|16 January 2022 – [[King Fahd International Stadium|Riyadh]]|[[Athletic Bilbao]]|0|[[Real Madrid CF|Real Madrid]]|2
+}}</onlyinclude>
+
+===Semi-finals===
+{{Football box
+| id = Barcelona v Real Madrid
+| date = {{Start date|2022|1|12|df=y}}
+| time = 22:00
+| team1 = [[FC Barcelona|Barcelona]]
+| score = 2–3
+| aet = yes
+| report = http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=70311
+| team2 = [[Real Madrid CF|Real Madrid]]
+| goals1 = 
+*[[Luuk de Jong|L. de Jong]] {{goal|41}}
+*[[Ansu Fati|Fati]] {{goal|83}}
+| goals2 = 
+*[[Vinícius Júnior|Vinícius]] {{goal|25}}
+*[[Karim Benzema|Benzema]] {{goal|72}}
+*[[Federico Valverde|Valverde]] {{goal|98}}
+| stadium = [[King Fahd International Stadium]]
+| location = [[Riyadh]]
+| attendance = 35,000<ref>{{cite web|url=https://www.espn.com/soccer/match/_/gameId/609925|title=Barcelona vs. Real Madrid|website=www.espn.com|date=12 January 2022|access-date=12 January 2022}}</ref>
+| referee = [[José Luis Munuera Montero]] ([[Royal Andalusian Football Federation|Andalusia]])
+}}
+----
+{{Football box
+| id = Atlético Madrid v Athletic Bilbao
+| date = {{Start date|2022|1|13|df=y}}
+| time = 22:00
+| team1 = [[Atlético Madrid]]
+| score = 1–2
+| report = http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=70313
+| team2 = [[Athletic Bilbao]]
+| goals1 = 
+*[[Unai Simón|Simón]] {{goal|62|o.g.}}
+| goals2 = 
+*[[Yeray Álvarez|Yeray]] {{goal|77}}
+*[[Nico Williams|N. Williams]] {{goal|81}}
+| stadium = [[King Fahd International Stadium]]
+| location = [[Riyadh]]
+| attendance = 7,000<ref>{{cite web|url=https://www.espn.com/soccer/match/_/gameId/609924|title=Atletico Madrid vs. Athletic Bilbao|website=www.espn.com|date=13 January 2022|access-date=13 January 2022}}</ref>
+| referee = [[Guillermo Cuadra Fernández]] ([[Balearic Islands Football Federation|Balearic Islands]])
+}}
+
+===Final===
+{{main|2022 Supercopa de España final}}
+
+{{:2022 Supercopa de España final}}
+
+==See also== 
+*[[2021–22 La Liga]]
+*[[2021–22 Copa del Rey]]
+
+==References==
+{{reflist}}
+
+{{Supercopa de España Finals}}
+{{2021–22 in Spanish football}}
+{{2021–22 in European football (UEFA)}}
+
+{{DEFAULTSORT:Supercopa de España}}
+[[Category:2021–22 in Spanish football cups]]
+[[Category:Supercopa de España|2021–22]]
+[[Category:January 2022 sports events in Saudi Arabia]]
+[[Category:Men's football competitions in Saudi Arabia]]
+[[Category:Football club competitions in Saudi Arabia]]
+[[Category:2021–22 in Saudi Arabian football]]
+[[Category:21st century in Riyadh]]
+[[Category:Sports competitions in Riyadh]]

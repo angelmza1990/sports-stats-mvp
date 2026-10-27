@@ -1,0 +1,359 @@
+{{Infobox football match
+| title                   = 1988 Supercopa de España
+| image                   = 
+| event                   = 
+| team1                   = [[Real Madrid CF|Real Madrid]]  
+| team1association        = 
+| team1score              = 3
+| team2                   = [[FC Barcelona|Barcelona]] 
+| team2association        = 
+| team2score              = 2
+| details                 = on aggregate
+| firstleg                = First leg
+| team1score1             = 2
+| team2score1             = 0
+| details1                = 
+| date1                   = 21 September 1988
+| stadium1                = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+| city1                   = [[Madrid]]
+| man_of_the_match1a      = 
+| man_of_the_match1atitle = 
+| man_of_the_match1b      = 
+| man_of_the_match1btitle = 
+| referee1                = Ildefonso Urizar Azpitarte
+| attendance1             = 
+| weather1                = 
+| secondleg               = Second leg
+| team1score2             = 1
+| team2score2             = 2
+| details2                = 
+| date2                   = 29 September 1988
+| stadium2                = [[Camp Nou]]
+| city2                   = [[Barcelona]]
+| man_of_the_match2a      = 
+| man_of_the_match2atitle = 
+| man_of_the_match2b      = 
+| man_of_the_match2btitle = 
+| referee2                = José Donato Pes Pérez
+| attendance2             = 
+| weather2                = 
+| previous                = [[1985 Supercopa de España|1985]]
+| next                    = [[1990 Supercopa de España|1990]]
+}}
+
+The '''1988 Supercopa de España''' was two-leg [[Football in Spain|Spanish]] [[association football|football]] matches played on 21 September and 29 September 1988. It contested by Barcelona, who were Spanish Cup winners in 1987–88, and Real Madrid, who won the [[1987–88 La Liga|1987–88]] Spanish League. Real Madrid won 3&ndash;2 on aggregate.
+
+{{clear}}
+
+==Match details==
+
+===First leg===
+
+{{footballbox|
+date= 21 September 1988<br />
+21:30 [[Central European Time|CET]] |
+team1= [[Real Madrid CF|Real Madrid]]|
+score= 2&ndash;0 |
+team2=  [[FC Barcelona|Barcelona]] |
+report= | 
+goals1= [[Míchel (footballer, born 1963)|Míchel]] {{goal|51}}<br /> [[Hugo Sánchez]] {{goal|78}} |
+goals2= |
+stadium= [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]] |
+attendance= 70,000 |
+referee= [[Urizar Azpitarte]] }}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_shirt_alt
+ | pattern_b  = _shoulder_stripes_white_shirt
+ | pattern_ra = _shoulder_stripes_white_shirt_alt
+ | pattern_sh = _adidasonwhite
+ | pattern_so = 
+ | leftarm    = 7050D0
+ | body       = 7050D0
+ | rightarm   = 7050D0
+ | shorts     = 7050D0
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _3bluestripes
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = 3D69AA
+ | body       = A00000
+ | rightarm   = 3D69AA
+ | shorts     = 3D69AA
+ | socks      = 3D69AA
+ | title      = Barcelona
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|'''[[Real Madrid]]:'''
+|-
+!width="25"| !!width="25"|
+|-
+|GK || '''1'''||{{flagicon|ESP}} [[Francisco Buyo]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Jesús Solana]]
+|-
+|DF ||'''4''' ||{{flagicon|ESP}} [[Miguel Tendillo]]
+|-
+|DF ||'''10''' ||{{flagicon|ESP}} [[Ricardo Gallego]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Esteban Gutiérrez (footballer)|Esteban]]
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Míchel (footballer, born 1963)|Míchel]]
+|-
+|MF ||'''8''' ||{{flagicon|FRG}} [[Bernd Schuster]] || {{yel|77}}
+|-
+|MF ||'''5''' ||{{flagicon|ESP}} [[Manuel Sanchís Hontiyuelo|Manuel Sanchís]]
+|-
+|MF || '''11'''||{{flagicon|ESP}} [[Rafael Martín Vázquez|Martín Vázquez]] || || {{suboff|65}}
+|-
+|FW ||'''7''' ||{{flagicon|ESP}} [[Emilio Butragueño]] || || {{suboff|77}}
+|-
+|FW ||'''9''' ||{{flagicon|MEX}} [[Hugo Sánchez]] || {{yel|33}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''13''' ||{{flagicon|ESP}} [[Agustín (footballer)|Agustín]]
+|-
+|DF ||'''12''' ||{{flagicon|ESP}} [[José Antonio Camacho]]
+|-
+|MF ||'''14''' ||{{flagicon|ESP}} [[Rafael Gordillo]] || || {{subon|65}}
+|-
+|MF ||'''15''' ||{{flagicon|ESP}} [[Juan José Maqueda]]
+|-
+|FW ||'''16''' ||{{flagicon|ESP}} [[Francisco Llorente Gento|Francisco Llorente]] || || {{subon|77}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Leo Beenhakker]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|'''[[FC Barcelona]]:'''
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Andoni Zubizarreta]]
+|-
+|DF || '''2'''||{{flagicon|ESP}} [[Luis María López Rekarte|Luis López Rekarte]] || {{yel|8}}
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[José Ramón Alexanko]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||{{flagicon|ESP}} [[Julio Alberto]] || || {{suboff|46}}
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Roberto Fernández Bonillo|Roberto]]
+|-
+|MF ||'''4''' ||{{flagicon|ESP}} [[Luis Milla (footballer, born 1966)|Luis Milla]]
+|-
+|MF || '''6'''||{{flagicon|ESP}} [[José Mari Bakero]]
+|-
+|MF || '''10''' ||{{flagicon|ESP}} [[Miquel Soler]]
+|-
+|FW || '''7'''||{{flagicon|ESP}} [[Francisco José Carrasco]] || || {{suboff|69}}
+|-
+|FW ||'''9''' ||{{flagicon|ESP}} [[Julio Salinas]]
+|-
+|FW || '''11'''||{{flagicon|ESP}} [[Txiki Begiristain]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''13''' ||{{flagicon|ESP}} [[Juan Carlos Unzué]]
+|-
+|DF ||'''12''' ||{{flagicon|ESP}} [[Ricardo Serna]]
+|-
+|DF ||'''14''' ||{{flagicon|ESP}} [[Urbano Ortega|Urbano]] || || {{subon|46}}
+|-
+|MF ||'''15''' ||{{flagicon|ESP}} [[Guillermo Amor]] 
+|-
+|MF ||'''16''' ||{{flagicon|ESP}} [[Eusebio Sacristán|Eusebio]] || || {{subon|69}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|NED}} [[Johan Cruyff]]
+|}
+|}
+
+===Second leg===
+{{footballbox|
+date= 29 September 1988<br />
+21:15 [[Central European Time|CET]] |
+team1= [[FC Barcelona|Barcelona]] |
+score= 2&ndash;1 |
+team2=  [[Real Madrid CF|Real Madrid]] |
+report= | 
+goals1= [[José Mari Bakero|Bakero]] {{goal|37||78}} |
+goals2= [[Emilio Butragueño|Butragueño]] {{goal|15}} |
+stadium= [[Camp Nou]], [[Barcelona]] |
+attendance= 55,000|
+referee= José Donato Pes Pérez }}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = 
+ | pattern_b  = _3bluestripes
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = 3D69AA
+ | body       = A00000
+ | rightarm   = 3D69AA
+ | shorts     = 3D69AA
+ | socks      = 3D69AA
+ | title      = Barcelona
+}}
+|{{Football kit
+ | pattern_la = _shoulder_stripes_white_shirt_alt
+ | pattern_b  = _shoulder_stripes_white_shirt
+ | pattern_ra = _shoulder_stripes_white_shirt_alt
+ | pattern_sh = _adidasonwhite
+ | pattern_so = 
+ | leftarm    = 7050D0
+ | body       = 7050D0
+ | rightarm   = 7050D0
+ | shorts     = 7050D0
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|'''[[FC Barcelona]]:'''
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Andoni Zubizarreta]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||{{flagicon|ESP}} [[Urbano Ortega|Urbano]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Ricardo Serna]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Luis María López Rekarte|Luis López Rekarte]]
+|-
+|MF || '''8'''||{{flagicon|ESP}} [[Eusebio Sacristán]]
+|-
+|MF ||'''4''' ||{{flagicon|ESP}} [[Roberto Fernández Bonillo|Roberto]]
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[José Mari Bakero]]
+|-
+|MF ||'''10''' ||{{flagicon|ESP}} [[Miquel Soler]] || || {{suboff|46}}
+|-
+|FW ||'''7''' ||{{flagicon|ESP}} [[Francisco José Carrasco]] || || {{suboff|83}}
+|-
+|FW || '''9'''||{{flagicon|ESP}} [[Julio Salinas]]
+|-
+|FW ||'''11''' ||{{flagicon|ESP}} [[Txiki Begiristain]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''13''' ||{{flagicon|ESP}} [[Juan Carlos Unzué]]
+|-
+|DF ||'''12''' ||{{flagicon|ESP}} [[Cristóbal Parralo Aguilera|Cristóbal]]
+|-
+|DF || '''14'''||{{flagicon|ESP}} [[Salvador García (footballer)|Salva]]
+|-
+|MF ||'''16''' ||{{flagicon|ESP}} [[Luis Milla (footballer, born 1966)|Luis Milla]] || || {{subon|83}}
+|-
+|FW ||'''15''' ||{{flagicon|ENG}} [[Gary Lineker]] || || {{subon|46}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|NED}} [[Johan Cruyff]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|'''[[Real Madrid]]:'''
+|-
+!width="25"| !!width="25"|
+|-
+|Gk ||'''1''' ||{{flagicon|ESP}} [[Francisco Buyo]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Jesús Solana]]
+|-
+|DF ||'''4''' ||{{flagicon|ESP}} [[Miguel Tendillo]]
+|-
+|DF ||'''5''' ||{{flagicon|ESP}} [[Manuel Sanchís Hontiyuelo|Manolo Sanchís]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Esteban Gutiérrez (footballer)|Esteban]]
+|-
+|MF || '''6'''||{{flagicon|ESP}} [[Míchel (footballer, born 1963)|Míchel]] || {{yel|6}}
+|-
+|MF || '''8'''||{{flagicon|FRG}} [[Bernd Schuster]]
+|-
+|MF ||'''10''' ||{{flagicon|ESP}} [[Ricardo Gallego]] ([[Captain (association football)|c]])
+|-
+|MF ||'''11''' ||{{flagicon|ESP}} [[Rafael Martín Vázquez]] || {{yel|45}}
+|-
+|FW ||'''7''' ||{{flagicon|ESP}} [[Emilio Butragueño]] || || {{suboff|83}}
+|-
+|FW || '''9'''||{{flagicon|MEX}} [[Hugo Sánchez]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''13''' ||{{flagicon|ESP}} [[Agustín (footballer)|Agustín]]
+|-
+|MF ||'''12''' ||{{flagicon|ESP}} [[Juan José Maqueda]]
+|-
+|MF ||'''14''' ||{{flagicon|ESP}} [[Rafael Gordillo]] || || {{subon|83}}
+|-
+|FW ||'''15''' ||{{flagicon|ESP}} [[Sebastián Losada]]
+|-
+|FW ||'''16''' ||{{flagicon|ESP}} [[Francisco Llorente Gento|Francisco Llorente]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Leo Beenhakker]]
+|}
+|}
+
+{| class="wikitable" style="text-align: center; margin: 0 auto; width: 20%"
+|-
+!Supercopa de España <br>1988 Winners
+|-
+|'''[[Real Madrid CF|Real Madrid]]'''<br />'''First Title'''
+|}
+
+==See also==
+*[[El Clásico]]
+*[[1988–89 La Liga]]
+*[[1988–89 Copa del Rey]]
+*[[1988–89 FC Barcelona season]]
+*[[1988–89 Real Madrid CF season]]
+
+==References==
+* [https://www.rsssf.org/tabless/spansupcuphist.html List of Super Cup Finals 1988] RSSSF.com
+* {{in lang|es}} {{usurped|1=[https://web.archive.org/web/20150402114131/http://www.linguasport.com/futbol/nacional/supercopa/supercopa88.htm linguasport.com]}}
+
+{{1988–89 in Spanish football}}
+{{Supercopa de España Finals}}
+{{FC Barcelona matches}}
+{{Real Madrid CF matches}}
+
+{{DEFAULTSORT:1988 Supercopa de Espana}}
+[[Category:1988–89 in Spanish football cups|Supercopa de Espana Final]]
+[[Category:Supercopa de España]]
+[[Category:Real Madrid CF matches|Supercopa de Espana 1988]]
+[[Category:FC Barcelona matches|Supercopa de Espana 1988]]
+[[Category:El Clásico matches|Supercopa de España]]
+[[Category:September 1988 sports events in Europe]]
+[[Category:September 1988 in Spain]]
+[[Category:1980s in Madrid]]
+[[Category:1980s in Barcelona]]
+[[Category:1988 in Catalonia]]
+[[Category:Football competitions in Madrid]]
+[[Category:Football matches in Barcelona]]
+{{Spain-footy-competition-stub}}

@@ -1,0 +1,895 @@
+{{Short description|European football tournament}}
+{{Use dmy dates|date=January 2020}}
+{{Infobox international football competition
+| tourney_name   = UEFA Champions League
+| year           = 2010–11
+| image          = Wembley Stadium, illuminated.jpg
+| size           = 275px
+| caption        = [[Wembley Stadium]] in [[London]] hosted the final
+| dates          = ''Qualifying:''<br />29 June – 25 August 2010<br />''Competition proper:''<br />14 September 2010 – 28 May 2011
+| num_teams      = ''Competition proper:'' 32<br />''Total:'' 76
+| associations   = 52
+| champion_other = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+| count          = 4
+| second_other   = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+| matches        = 125
+| goals          = 355
+| attendance     = 
+| top_scorer     = {{nowrap|[[Lionel Messi]] (Barcelona)<br />12 goals}}
+| player         = 
+| prevseason     = [[2009–10 UEFA Champions League|2009–10]]
+| nextseason     = [[2011–12 UEFA Champions League|2011–12]]
+}}
+
+The '''2010–11 UEFA Champions League''' was the 56th season of Europe's premier club [[association football|football]] tournament organised by [[UEFA]], and the 19th under the [[UEFA Champions League]] format. The [[2011 UEFA Champions League final|final]] was held at [[Wembley Stadium]] in [[London]] on 28 May 2011,<ref>{{cite web |title=Wembley to host 2011 Euro final |url=https://news.bbc.co.uk/sport2/hi/football/europe/7858932.stm |publisher=[[BBC Sport]] |date=29 January 2009 |url-status=live |archive-url=https://web.archive.org/web/20090130074945/http://news.bbc.co.uk/sport1/hi/football/europe/7858932.stm |archive-date=30 January 2009}}</ref> where [[FC Barcelona|Barcelona]] defeated [[Manchester United F.C.|Manchester United]] 3–1.
+
+[[Inter Milan|Internazionale]] were the [[2010 UEFA Champions League final|defending champions]], but were eliminated by [[FC Schalke 04|Schalke 04]] in the quarter-finals. As winners, Barcelona earned berths in the [[2011 UEFA Super Cup]] and the [[2011 FIFA Club World Cup]].
+
+==Association team allocation==
+A total of 76 teams participated in the 2010–11 Champions League, from 52 [[UEFA]] associations ([[Liechtenstein Football Association|Liechtenstein]] organised no domestic league competition). Associations were allocated places according to their 2009 [[UEFA country coefficient]], which took into account their performance in European competitions from 2004–05 to 2008–09.<ref>{{cite web |last=Kassies |first=Bert |url=https://kassiesa.net/uefa/data/method4/crank2009.html |title=UEFA Country Ranking 2009 |publisher=UEFA European Cup Football}}</ref>
+
+Below is the qualification scheme for the 2010–11 UEFA Champions League:<ref name="regulations">{{Cite web|url=http://en.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/48/42/49/1484249_DOWNLOAD.pdf|title=Regulations of the UEFA Champions League 2010/11|access-date=21 May 2010|archive-date=5 December 2010|archive-url=https://web.archive.org/web/20101205051408/http://en.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/48/42/49/1484249_DOWNLOAD.pdf|url-status=dead}}</ref>
+*Associations 1–3 each had four teams qualify
+*Associations 4–6 each had three teams qualify
+*Associations 7–15 each had two teams qualify
+*Associations 16–53 each had one team qualify (excluding Liechtenstein)
+
+===Association ranking===
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable"
+|-
+!Rank
+!Association
+!Coeff.
+!Teams
+|-
+! 1
+| {{fba|ENG}}
+| 79.499
+|style="text-align: center;" rowspan="3"| 4
+|-
+! 2
+| {{fba|ESP}}
+| 74.266
+|-
+! 3
+| {{fba|ITA}}
+| 62.910
+|-
+! 4
+| {{fba|GER}}
+| 56.695
+|style="text-align: center;" rowspan="3"| 3
+|-
+! 5
+| {{fba|FRA|1974}}
+| 50.168
+|-
+! 6
+| {{fba|RUS}}
+| 47.625
+|-
+! 7
+| {{fba|UKR}}
+| 41.850
+|style="text-align: center;" rowspan="9"| 2
+|-
+! 8
+| {{fba|NED}}
+| 39.130
+|-
+! 9
+| {{fba|ROU}}
+| 38.908
+|-
+! 10
+| {{fba|POR}}
+| 36.462
+|-
+! 11
+| {{fba|TUR}}
+| 32.225
+|-
+! 12
+| {{fba|GRE}}
+| 28.165
+|-
+! 13
+| {{fba|SCO}}
+| 27.875
+|-
+! 14
+| {{fba|BEL}}
+| 25.325
+|-
+! 15
+| {{fba|SUI}}
+| 25.250
+|-
+! 16
+| {{fba|DEN}}
+| 24.450
+|style="text-align: center;" rowspan="3"| 1
+|-
+! 17
+| {{fba|BUL}}
+| 21.250
+|-
+! 18
+| {{fba|CZE}}
+| 20.750
+|}
+{{col-break}}
+{| class="wikitable"
+|-
+!Rank
+!Association
+!Coeff.
+!Teams
+|-
+! 19
+| {{fba|NOR}}
+| 18.800
+|style="text-align: center;" rowspan="18"| 1
+|-
+! 20
+| {{fba|AUT}}
+| 17.825
+|-
+! 21
+| {{fba|SRB|2004}}
+| 15.250
+|-
+! 22
+| {{fba|ISR}}
+| 15.250
+|-
+! 23
+| {{fba|CYP}}
+| 15.082
+|-
+! 24
+| {{fba|SWE}}
+| 14.691
+|-
+! 25
+| {{fba|SVK}}
+| 14.665
+|-
+! 26
+| {{fba|POL}}
+| 12.916
+|-
+! 27
+| {{fba|CRO}}
+| 12.332
+|-
+! 28
+| {{fba|FIN}}
+| 9.790
+|-
+! 29
+| {{fba|LTU}}
+| 9.666
+|-
+! 30
+| {{fba|IRL}}
+| 9.499
+|-
+! 31
+| {{fba|LVA}}
+| 9.164
+|-
+! 32
+| {{fba|SVN}}
+| 9.082
+|-
+! 33
+| {{fba|BLR|1995}}
+| 8.666
+|-
+! 34
+| {{fba|BIH}}
+| 8.665
+|-
+! 35
+| {{fba|HUN}}
+| 8.166
+|-
+! 36
+| {{fba|ISL}}
+| 6.665
+|}
+{{col-break}}
+{| class="wikitable"
+|-
+!Rank
+!Association
+!Coeff.
+!Teams
+|-
+! 37
+| {{fba|MDA}}
+| 6.665
+|style="text-align: center;" rowspan="2"| 1
+|-
+! 38
+| {{fba|GEO}}
+| 6.664
+|-
+! 39
+| {{fba|LIE}}
+| 5.500
+| style="text-align:center;"| 0
+|-
+! 40
+| {{fba|MKD|name=Macedonia}}
+| 5.165
+|style="text-align: center;" rowspan="14"| 1
+|-
+! 41
+| {{fba|AZE}}
+| 4.498
+|-
+! 42
+| {{fba|EST}}
+| 4.332
+|-
+! 43
+| {{fba|ALB}}
+| 3.999
+|-
+! 44
+| {{fba|KAZ}}
+| 3.249
+|-
+! 45
+| {{fba|ARM}}
+| 2.999
+|-
+! 46
+| {{fba|WAL}}
+| 2.331
+|-
+! 47
+| {{fba|NIR}}
+| 2.165
+|-
+! 48
+| {{fba|FRO}}
+| 2.165
+|-
+! 49
+| {{fba|LUX}}
+| 1.332
+|-
+! 50
+| {{fba|MNE}}
+| 1.000
+|-
+! 51
+| {{fba|AND}}
+| 0.500
+|-
+! 52
+| {{fba|MLT}}
+| 0.499
+|-
+! 53
+| {{fba|SMR|1862}}
+| 0.250
+|}
+{{col-end}}
+
+===Distribution===
+Since the winners of the [[2009–10 UEFA Champions League]], [[Inter Milan|Internazionale]], obtained a place in the group stage through their domestic league placing, the reserved title holder spot in the group stage was effectively vacated. To compensate:<ref name="access">{{cite web |title=2010/11 Champions League access list and calendar |url=http://www.uefa.com/uefachampionsleague/season=2011/accesslist/ |website=[[UEFA]] |access-date=12 January 2015 |archive-date=2 December 2017 |archive-url=https://web.archive.org/web/20171202113150/http://www.uefa.com/uefachampionsleague/season=2011/accesslist/ |url-status=dead }}</ref>
+* The champions of association 13 (Scotland) were promoted from the third qualifying round to the group stage.
+* The champions of association 16 (Denmark) were promoted from the second qualifying round to the third qualifying round.
+* The champions of associations 48 and 49 (Faroe Islands and Luxembourg) were promoted from the first qualifying round to the second qualifying round.
+
+{| class="wikitable"
+|-
+!colspan=2|
+!Teams entering in this round
+!Teams advancing from previous round
+|-
+!colspan=2|First qualifying round<br /> (4 teams)
+|
+*4 champions from associations 50–53
+|
+|-
+!colspan=2|Second qualifying round<br /> (34 teams)
+|
+*32 champions from associations 17–49 (except Liechtenstein)
+|
+*2 winners from the first qualifying round
+|-
+!rowspan=2|Third qualifying round
+!Champions<br /> (20 teams)
+|
+*3 champions from associations 14–16
+|
+*17 winners from the second qualifying round
+|-
+!Non-champions<br /> (10 teams)
+|
+*9 runners-up from associations 7–15
+*1 third-placed team from association 6
+|
+|-
+!rowspan=2|Play-off round
+!Champions<br /> (10 teams)
+|
+|
+*10 winners from the third qualifying round for champions
+|-
+!Non-champions<br /> (10 teams)
+|
+*2 third-placed teams from associations 4 and 5
+*3 fourth-placed teams from associations 1–3
+|
+*5 winners from the third qualifying round for non-champions
+|-
+!colspan=2|Group stage<br /> (32 teams)
+|
+*13 champions from associations 1–13
+*6 runners-up from associations 1–6
+*3 third-placed teams from associations 1–3
+|
+*5 winners from the play-off round for champions
+*5 winners from the play-off round for non-champions
+|-
+!colspan=2|Knockout phase<br /> (16 teams)
+|
+|
+*8 group winners from the group stage
+*8 group runners-up from the group stage
+|}
+
+===Teams===
+The labels in the parentheses show how each team qualified for the place of its starting round:<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/01e8-0e74b6fdc883-6a693be77d7f-1000--2010-11-list-of-participants/|title=2010/11 UEFA Champions League list of participants|publisher=[[UEFA]]|date=17 November 2010|access-date=12 January 2015|archive-date=31 March 2017|archive-url=https://web.archive.org/web/20170331003817/http://www.uefa.com/news/newsid=1479428.html|url-status=live}}</ref>
+*TH: Champions League title holders
+*1st, 2nd, 3rd, 4th: League positions of the previous season
+
+{| class="wikitable"
+|-
+!colspan="4"|Group stage
+|-
+|{{fbaicon|ITA}} [[Inter Milan|Internazionale]] <small>([[2009–10 Serie A|1st]])</small><sup>[[2009–10 UEFA Champions League|TH]]</sup>
+|{{fbaicon|ESP}} [[Valencia CF|Valencia]] <small>([[2009–10 La Liga|3rd]])</small>
+|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]] <small>([[2009–10 Ligue 1|2nd]])</small>
+|{{fbaicon|ROU}} [[CFR Cluj]] <small>([[2009–10 Liga I|1st]])</small>
+|-
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]] <small>([[2009–10 Premier League|1st]])</small>
+|{{fbaicon|ITA}} [[AS Roma|Roma]] <small>([[2009–10 Serie A|2nd]])</small>
+|{{fbaicon|RUS}} [[FC Rubin Kazan|Rubin Kazan]] <small>([[2009 Russian Premier League|1st]])</small>
+|{{fbaicon|POR}} [[S.L. Benfica|Benfica]] <small>([[2009–10 Portuguese Liga|1st]])</small>
+|-
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]] <small>([[2009–10 Premier League|2nd]])</small>
+|{{fbaicon|ITA}} [[AC Milan|Milan]] <small>([[2009–10 Serie A|3rd]])</small>
+|{{fbaicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]] <small>([[2009 Russian Premier League|2nd]])</small>
+|{{fbaicon|TUR}} [[Bursaspor]] <small>([[2009–10 Süper Lig|1st]])</small>
+|-
+|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]] <small>([[2009–10 Premier League|3rd]])</small>
+|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]] <small>([[2009–10 Bundesliga|1st]])</small>
+|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]] <small>([[2009–10 Ukrainian Premier League|1st]])</small>
+|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]] <small>([[2009–10 Super League Greece|1st]])</small>
+|-
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]] <small>([[2009–10 La Liga|1st]])</small>
+|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]] <small>([[2009–10 Bundesliga|2nd]])</small>
+|{{fbaicon|NED}} [[FC Twente|Twente]] <small>([[2009–10 Eredivisie|1st]])</small>
+|{{fbaicon|SCO}} [[Rangers F.C.|Rangers]] <small>([[2009–10 Scottish Premier League|1st]])</small>
+|-
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]] <small>([[2009–10 La Liga|2nd]])</small>
+|{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]] <small>([[2009–10 Ligue 1|1st]])</small>
+|colspan="2"|
+|-
+!colspan="4"|Play-off round
+|-
+!Champions
+!colspan="3"|Non-champions
+|-
+|rowspan="2"|
+|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]] <small>([[2009–10 Premier League|4th]])</small>
+|{{fbaicon|ITA}} [[UC Sampdoria|Sampdoria]] <small>([[2009–10 Serie A|4th]])</small>
+|{{fbaicon|FRA|1974}} [[AJ Auxerre|Auxerre]] <small>([[2009–10 Ligue 1|3rd]])</small>
+|-
+|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]] <small>([[2009–10 La Liga|4th]])</small>
+|{{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]] <small>([[2009–10 Bundesliga|3rd]])</small>
+|
+|-
+!colspan="4"|Third qualifying round
+|-
+!Champions
+!colspan="3"|Non-champions
+|-
+|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]] <small>([[2009–10 Belgian First Division|1st]])</small>
+|{{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] <small>([[2009 Russian Premier League|3rd]])</small>
+|{{fbaicon|POR}} [[S.C. Braga|Braga]] <small>([[2009–10 Portuguese Liga|2nd]])</small>
+|{{fbaicon|SCO}} [[Celtic F.C.|Celtic]] <small>([[2009–10 Scottish Premier League|2nd]])</small>
+|-
+|{{fbaicon|SUI}} [[FC Basel|Basel]] <small>([[2009–10 Swiss Super League|1st]])</small>
+|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]] <small>([[2009–10 Ukrainian Premier League|2nd]])</small>
+|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]] <small>([[2009–10 Süper Lig|2nd]])</small>
+|{{fbaicon|BEL}} [[KAA Gent|Gent]] <small>([[2009–10 Belgian First Division|2nd]])</small>
+|-
+|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]] <small>([[2009–10 Danish Superliga|1st]])</small>
+|{{fbaicon|NED}} [[AFC Ajax|Ajax]] <small>([[2009–10 Eredivisie|2nd]])</small>
+|{{fbaicon|GRE}} [[PAOK FC|PAOK]] <small>([[2009–10 Super League Greece|2nd]])</small>
+|{{fbaicon|SUI}} [[BSC Young Boys|Young Boys]] <small>([[2009–10 Swiss Super League|2nd]])</small>
+|-
+|
+|{{fbaicon|ROU}} [[FC Unirea Urziceni|Unirea Urziceni]] <small>([[2009–10 Liga I|2nd]])</small>
+|colspan="2"|
+|-
+!colspan="4"|Second qualifying round
+|-
+|{{fbaicon|BUL}} [[FC Lovech|Litex Lovech]] <small>([[2009–10 A PFG|1st]])</small>
+|{{fbaicon|SVK}} [[MŠK Žilina|Žilina]] <small>([[2009–10 Slovak Superliga|1st]])</small>
+|{{fbaicon|BLR|1995}} [[FC BATE Borisov|BATE Borisov]] <small>([[2009 Belarusian Premier League|1st]])</small>
+|{{fbaicon|EST}} [[FCI Levadia Tallinn|Levadia Tallinn]] <small>([[2009 Meistriliiga|1st]])</small>
+|-
+|{{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]] <small>([[2009–10 Gambrinus liga|1st]])</small>
+|{{fbaicon|POL}} [[Lech Poznań]] <small>([[2009–10 Ekstraklasa|1st]])</small>
+|{{fbaicon|BIH}} [[FK Željezničar Sarajevo|Željezničar]] <small>([[2009–10 Premier League of Bosnia and Herzegovina|1st]])</small>
+|{{fbaicon|ALB}} [[FC Dinamo City|Dinamo Tirana]] <small>([[2009–10 Albanian Superliga|1st]])</small>
+|-
+|{{fbaicon|NOR}} [[Rosenborg BK|Rosenborg]] <small>([[2009 Norwegian Premier League|1st]])</small>
+|{{fbaicon|CRO}} [[GNK Dinamo Zagreb|Dinamo Zagreb]] <small>([[2009–10 Prva HNL|1st]])</small>
+|{{fbaicon|HUN}} [[Debreceni VSC|Debrecen]] <small>([[2009–10 Hungarian National Championship I|1st]])</small>
+|{{fbaicon|KAZ}} [[FC Aktobe|Aktobe]] <small>([[2009 Kazakhstan Premier League|1st]])</small>
+|-
+|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]] <small>([[2009–10 Austrian Football Bundesliga|1st]])</small>
+|{{fbaicon|FIN}} [[Helsingin Jalkapalloklubi|HJK]] <small>([[2009 Veikkausliiga|1st]])</small>
+|{{fbaicon|ISL}} [[FH (men's football)|FH]] <small>([[2009 Úrvalsdeild|1st]])</small>
+|{{fbaicon|ARM}} [[FC Pyunik|Pyunik]] <small>([[2009 Armenian Premier League|1st]])</small>
+|-
+|{{fbaicon|SRB|2004}} [[FK Partizan|Partizan]] <small>([[2009–10 Serbian Superliga|1st]])</small>
+|{{fbaicon|LTU}} [[FK Ekranas|Ekranas]] <small>([[2009 A Lyga|1st]])</small>
+|{{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]] <small>([[2009–10 Moldovan National Division|1st]])</small>
+|{{fbaicon|WAL}} [[The New Saints F.C.|The New Saints]] <small>([[2009–10 Welsh Premier League|1st]])</small>
+|-
+|{{fbaicon|ISR}} [[Hapoel Tel Aviv F.C.|Hapoel Tel Aviv]] <small>([[2009–10 Israeli Premier League|1st]])</small>
+|{{fbaicon|IRL}} [[Bohemian F.C.|Bohemians]] <small>([[2009 League of Ireland#Premier Division|1st]])</small>
+|{{fbaicon|GEO}} [[FC Metalurgi Rustavi|Olimpi Rustavi]] <small>([[2009–10 Umaglesi Liga|1st]])</small>
+|{{fbaicon|NIR}} [[Linfield F.C.|Linfield]] <small>([[2009–10 IFA Premiership|1st]])</small>
+|-
+|{{fbaicon|CYP}} [[AC Omonia|Omonia]] <small>([[2009–10 Cypriot First Division|1st]])</small>
+|{{fbaicon|LVA}} [[FK Liepājas Metalurgs|Liepājas Metalurgs]] <small>([[2009 Latvian Higher League|1st]])</small>
+|{{fbaicon|MKD}} [[KF Renova|Renova]] <small>([[2009–10 Macedonian Prva Liga|1st]])</small>
+|{{fbaicon|FRO}} [[Havnar Bóltfelag|HB]] <small>([[2009 Faroe Islands Premier League Football|1st]])</small>
+|-
+|{{fbaicon|SWE}} [[AIK Fotboll|AIK]] <small>([[2009 Allsvenskan|1st]])</small>
+|{{fbaicon|SVN}} [[FC Koper|Koper]] <small>([[2009–10 Slovenian PrvaLiga|1st]])</small>
+|{{fbaicon|AZE}} [[Shamakhi FK|Inter Baku]] <small>([[2009–10 Azerbaijan Premier League|1st]])</small>
+|{{fbaicon|LUX}} [[Jeunesse Esch]] <small>([[2009–10 Luxembourg National Division|1st]])</small>
+|-
+!colspan="4"|First qualifying round
+|-
+|{{fbaicon|MNE}} [[FK Rudar Pljevlja|Rudar Pljevlja]] <small>([[2009–10 Montenegrin First League|1st]])</small>
+|{{fbaicon|AND}} [[FC Santa Coloma]] <small>([[2009–10 Primera Divisió|1st]])</small>
+|{{fbaicon|MLT}} [[Birkirkara F.C.|Birkirkara]] <small>([[2009–10 Maltese Premier League|1st]])</small>
+|{{fbaicon|SMR|1862}} [[Tre Fiori FC|Tre Fiori]] <small>([[2009–10 Campionato Sammarinese di Calcio|1st]])</small>
+|}
+
+==Round and draw dates==
+All draws held at UEFA headquarters in [[Nyon]], [[Switzerland]] unless stated otherwise.<ref name="access" />
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Phase
+! Round
+! Draw date
+! First leg
+! Second leg
+|-
+|rowspan=3| Qualifying
+| First qualifying round
+|rowspan=2| 21 June 2010
+| 29–30 June 2010
+| 6–7 July 2010
+|-
+| Second qualifying round
+| 13–14 July 2010
+| 20–21 July 2010
+|-
+| Third qualifying round
+| 16 July 2010
+| 27–28 July 2010
+| 3–4 August 2010
+|-
+| Play-off
+| Play-off round
+| 6 August 2010
+| 17–18 August 2010
+| 24–25 August 2010
+|-
+|rowspan=6| Group stage
+| Matchday 1
+|rowspan=6| 26 August 2010<br />([[Monaco]])
+|colspan=2| 14–15 September 2010
+|-
+| Matchday 2
+|colspan=2| 28–29 September 2010
+|-
+| Matchday 3
+|colspan=2| 19–20 October 2010
+|-
+| Matchday 4
+|colspan=2| 2–3 November 2010
+|-
+| Matchday 5
+|colspan=2| 23–24 November 2010
+|-
+| Matchday 6
+|colspan=2| 7–8 December 2010
+|-
+|rowspan=4| Knockout phase
+| Round of 16
+| 17 December 2010
+| 15–16 & 22–23 February 2011
+| 8–9 & 15–16 March 2011
+|-
+| Quarter-finals
+|rowspan=3| 18 March 2011
+| 5–6 April 2011
+| 12–13 April 2011
+|-
+| Semi-finals
+| 26–27 April 2011
+| 3–4 May 2011
+|-
+| Final
+|colspan="2"| 28 May 2011 at [[Wembley Stadium]], [[London]]
+|}
+
+==Seeding==
+The draws for the qualifying rounds, the play-off round and the group stage were all seeded based on the 2010 [[UEFA club coefficient]]s.<ref>{{cite web |last=Kassies |first=Bert |url=https://kassiesa.net/uefa/data/method4/trank2010.html |title=UEFA Team Ranking 2010 |publisher=UEFA European Cup Football}}</ref> The coefficients were calculated on the basis of a combination of 20% of the value of the respective national association's coefficient for the period from 2005–06 to 2009–10 inclusive and the clubs' individual performances in the UEFA club competitions during the same period. Clubs were ordered by their coefficients and then divided into pots as required.<ref name="regulations"/><ref>{{cite web |last=Kassies |first=Bert |url=https://kassiesa.net/uefa/seedcl2010.html |title=Seeding in the 2010–11 Champions League |publisher=UEFA European Cup Football}}</ref>
+
+In the draws for the qualifying rounds and the play-off round, the teams were divided evenly into one seeded and one unseeded pot, based on their club coefficients. A seeded team was drawn against an unseeded team, with the order of legs in each tie also being decided randomly. Due to the limited time between matches, the draws for the second and third qualifying rounds took place before the results of the previous round were known. The seeding in each draw was carried out under the assumption that all of the highest-ranked clubs of the previous round were victorious. If a lower-ranked club was victorious, it simply took the place of its defeated opponent in the next round. Moreover, in the third qualifying round and play-off round, champion clubs and non-champion clubs were kept separated. Prior to these draws, UEFA could form "groups" in accordance with the principles set by the Club Competitions Committee, but they were purely for convenience of the draw and did not resemble any real groupings in the sense of the competition, while ensuring that teams from the same association were not drawn against each other.
+
+In the draw for the group stage, the 32 teams were split into four pots of eight teams, based on their club coefficients, with the title holder automatically placed into Pot 1. Each group contained one team from each pot, but teams from the same association could not be drawn into the same group. The draw was controlled in order to split teams of the same national association evenly between Groups A-D and Groups E-H, where the two sets of groups alternated between playing on Tuesdays and Wednesdays for each matchday.
+
+In the draw for the first knockout round, the eight group winners were seeded, and the eight group runners-up were unseeded. A seeded team was drawn against an unseeded team, with the seeded team hosting the second leg. Teams from the same group or the same association could not be drawn against each other.
+
+In the draws for the quarter-finals onwards, there were no seedings, and teams from the same group or the same association could be drawn with each other.
+
+==Qualifying rounds==
+{{main|2010–11 UEFA Champions League qualifying phase and play-off round|l1=2010–11 UEFA Champions League qualifying phase}}
+
+In the qualifying and play-off rounds, teams played against each other over [[two-legged tie|two legs]] on a home-and-away basis.
+
+The draws for the first two qualifying rounds were held on 21 June 2010 by UEFA General Secretary Gianni Infantino and Michael Heselschwerdt, Head of Club Competitions,<ref>{{Cite web |date=16 June 2010 |title=Draws for UEFA Champions League and UEFA Europa League 2010/11 |url=https://www.uefa.com/MultimediaFiles/Download/PressRelease/uefaorg/MediaReleases/01/49/85/12/1498512_DOWNLOAD.pdf |access-date=28 June 2022 |archive-date=30 July 2023 |archive-url=https://web.archive.org/web/20230730123536/https://www.uefa.com/MultimediaFiles/Download/PressRelease/uefaorg/MediaReleases/01/49/85/12/1498512_DOWNLOAD.pdf |url-status=live }}</ref><ref>{{Cite web|url=https://www.uefa.com/uefachampionsleague/news/01e6-0ea18682e910-89a15760bb11-1000--draws-kick-off-race-to-london/|title=Draws kick off race to London|date=21 June 2010|website=[[UEFA]]|access-date=12 May 2022|archive-date=3 December 2023|archive-url=https://web.archive.org/web/20231203123108/https://www.uefa.com/uefachampionsleague/news/01e6-0ea18682e910-89a15760bb11-1000--draws-kick-off-race-to-london/|url-status=live}}</ref> while the draw for the third qualifying round was held on 16 July 2010 by UEFA General Secretary Gianni Infantino and Giorgio Marchetti, Competitions Director.<ref>{{Cite web |date=9 July 2010 |title=Draws for the UEFA Champions League and the UEFA Europa League |url=https://www.uefa.com/MultimediaFiles/Download/PressRelease/uefaorg/MediaReleases/01/50/41/87/1504187_DOWNLOAD.pdf |access-date=28 June 2022 |archive-date=30 July 2023 |archive-url=https://web.archive.org/web/20230730123534/https://www.uefa.com/MultimediaFiles/Download/PressRelease/uefaorg/MediaReleases/01/50/41/87/1504187_DOWNLOAD.pdf |url-status=live }}</ref><ref>{{Cite web|url=https://www.uefa.com/uefachampionsleague/news/01e7-0e74e2b37c96-e0c1f66cdce0-1000--debutants-braga-handed-celtic-test/|title=Debutants Braga handed Celtic test|date=16 July 2010|website=[[UEFA]]|access-date=12 May 2022|archive-date=3 December 2023|archive-url=https://web.archive.org/web/20231203123108/https://www.uefa.com/uefachampionsleague/news/01e7-0e74e2b37c96-e0c1f66cdce0-1000--debutants-braga-handed-celtic-test/|url-status=live}}</ref>
+
+===First qualifying round===
+The first legs were planned to be played on 29 and 30 June, and the second legs were played on 6 and 7 July 2010. However, the first match of the entire competition (FC Santa Coloma v Birkirkara on 29 June) was cancelled due to the pitch being declared unfit.<ref>{{Cite web|url=https://timesofmalta.com/articles/view/uefa-cancels-bkara-match-because-pitch-unfit.315395|title=UEFA cancels B'Kara match because pitch unfit|website=Times of Malta|date=29 June 2010 |access-date=12 May 2022|archive-date=30 July 2023|archive-url=https://web.archive.org/web/20230730123534/https://timesofmalta.com/articles/view/uefa-cancels-bkara-match-because-pitch-unfit.315395|url-status=live}}</ref>
+{{#lst:2010–11 UEFA Champions League qualifying phase and play-off round|Q1}}
+
+===Second qualifying round===
+The first legs were played on 13 and 14 July, and the second legs were played on 20 and 21 July 2010.
+{{#lst:2010–11 UEFA Champions League qualifying phase and play-off round|Q2}}
+
+===Third qualifying round===
+The third qualifying round was split into two separate sections: one for champions and one for non-champions. The losing teams in both sections entered the [[2010–11 UEFA Europa League#Play-off round|play-off round of the 2010–11 UEFA Europa League]]. The first legs were played on 27 and 28 July, and the second legs were played on 3 and 4 August 2010.
+{{#lst:2010–11 UEFA Champions League qualifying phase and play-off round|Q3}}
+
+==Play-off round==
+{{main|2010–11 UEFA Champions League qualifying phase and play-off round#Play-off round|l1=2010–11 UEFA Champions League play-off round}}
+The draw for the play-off round was held on 6 August 2010 by UEFA General Secretary [[Gianni Infantino]] and UEFA Competitions Director Giorgio Marchetti.<ref>{{Cite web |date=28 July 2010 |title=Draws for UEFA Champions League and UEFA Europa League |url=https://www.uefa.com/MultimediaFiles/Download/PressRelease/uefaorg/MediaReleases/01/50/85/27/1508527_DOWNLOAD.pdf |access-date=28 June 2022 |archive-date=11 March 2022 |archive-url=https://web.archive.org/web/20220311071925/https://www.uefa.com/MultimediaFiles/Download/PressRelease/uefaorg/MediaReleases/01/50/85/27/1508527_DOWNLOAD.pdf |url-status=live }}</ref><ref>{{Cite web|url=https://www.uefa.com/uefachampionsleague/news/01e8-0e75103f996c-164a8f652282-1000--derbies-add-spice-to-play-off-draw/|title=Derbies add spice to play-off draw|date=6 August 2010|website=[[UEFA]]|access-date=12 May 2022|archive-date=26 December 2023|archive-url=https://web.archive.org/web/20231226015311/https://www.uefa.com/uefachampionsleague/news/01e8-0e75103f996c-164a8f652282-1000--derbies-add-spice-to-play-off-draw/|url-status=live}}</ref> The play-off round was split into two separate sections: one for champions and one for non-champions. The losing teams in both sections entered the [[2010–11 UEFA Europa League#Group stage|group stage of the 2010–11 UEFA Europa League]]. The first legs were played on 17 and 18 August, and the second legs were played on 24 and 25 August 2010.
+
+Following a trial at [[2009–10 UEFA Europa League|the previous year's]] [[UEFA Europa League]], UEFA announced that in both the 2010–11 and [[2011–12 UEFA Champions League|2011–12]] competitions, two extra officials would be used – with one on each goal line.<ref>{{cite news|url=https://www.uefa.com/uefachampionsleague/news/0252-0ce1fa43099d-a7161bbf372c-1000--uefa-welcomes-ifab-referee-trial-decision/|archive-url=https://web.archive.org/web/20100723003628/http://en.uefa.com/uefa/footballfirst/matchorganisation/refereeing/news/newsid%3D1506902.html|url-status=dead|title=UEFA welcomes IFAB referee trial decision|date=22 July 2010|archive-date=23 July 2010|website=[[UEFA]]}}</ref>
+{{#lst:2010–11 UEFA Champions League qualifying phase and play-off round|play-off}}
+
+==Group stage==
+{{main|2010–11 UEFA Champions League group stage}}
+{{Location map+ |Europe |width=600 |float=right |caption=Location of teams of the '''2010–11 UEFA Champions League''' group stage.<br />[[File:Brown pog.svg|8px]] Brown: Group A; [[File:Red pog.svg|8px]] Red: Group B; [[File:Orange pog.svg|8px]] Orange: Group C; [[File:Yellow pog.svg|8px]] Yellow: Group D;<br /> [[File:Green pog.svg|8px]] Green: Group E; [[File:Blue pog.svg|8px]] Blue: Group F; [[File:Purple pog.svg|8px]] Purple: Group G; [[File:Pink pog.svg|8px]] Pink: Group H.
+|places=
+{{Location map~|Europe|lat=55.702469|long=12.572203|label={{small|[[F.C. Copenhagen|Copenhagen]]}}|mark=Yellow_pog.svg|position=right}}
+{{Location map~|Europe|lat=51.481667|long=-0.191111|label=<!--{{small|Chelsea}}-->|mark=Black_pog.svg|position=bottom}}
+{{Location map~|Europe|lat=51.481667|long=-0.191111|label=<!--{{small|Arsenal}}-->|mark=Black_pog.svg|position=left}}
+{{Location map~|Europe|lat=51.481667|long=-0.191111|label={{small|'''London'''<!--Tottenham-->}}|mark=Black_pog.svg|position=top}}
+{{Location map~|Europe|lat=53.463056|long=-2.291389|label={{small|[[Manchester United F.C.|Man. United]]}}|mark=Orange_pog.svg|position=right}}
+{{Location map~|Europe|lat=39.474656|long=-0.358361|label={{small|[[Valencia CF|Valencia]]}}|mark=Orange_pog.svg|position=right}}
+{{Location map~|Europe|lat=40.45306|long=-3.68835|label={{small|[[Real Madrid CF|Real Madrid]]}}|mark=Purple_pog.svg|position=top}}
+{{Location map~|Europe|lat=41.38087|long=2.122802|label={{small|[[FC Barcelona|Barcelona]]}}|mark=Yellow_pog.svg|position=right}}
+{{Location map~|Europe|lat=43.269722|long=5.395833|label={{small|[[Olympique de Marseille|Marseille]]}}|mark=Blue_pog.svg|position=right}}
+{{Location map~|Europe|lat=45.723889|long=4.832222|label={{small|[[Olympique Lyonnais|Lyon]]}}|mark=Red_pog.svg|position=left}}
+{{Location map~|Europe|lat=47.786753|long=3.588664|label={{small|[[AJ Auxerre|Auxerre]]}}|mark=Purple_pog.svg|position=left}}
+{{Location map~|Europe|lat=48.218775|long=11.624753|label={{small|[[FC Bayern Munich|Bayern]]}}|mark=Green_pog.svg|position=right}}
+{{Location map~|Europe|lat=51.554503|long=7.067589|label={{small|[[FC Schalke 04|Schalke]]}}|mark=Red_pog.svg|position=right}}
+{{Location map~|Europe|lat=53.066394|long=8.837628|label={{small|[[SV Werder Bremen|Bremen]]}}|mark=Brown_pog.svg|position=right}}
+{{Location map~|Europe|lat=37.987169|long=23.754194|label={{small|[[Panathinaikos F.C.|Panathinaikos]]}}|mark=Yellow_pog.svg|position=right}}
+{{Location map~|Europe|lat=32.051728|long=34.761439|label={{small|[[Hapoel Tel Aviv F.C.|H. Tel Aviv]]}}|mark=Red_pog.svg|position=right}}
+{{Location map~|Europe|lat=41.933886|long=12.454786|label={{small|[[AS Roma|Roma]]}}|mark=Green_pog.svg|position=right}}
+{{Location map~|Europe|lat=45.47808|long=9.124|label={{small|'''Milan'''<!--Milan-->}}|mark=Black_pog.svg|position=right}}
+{{Location map~|Europe|lat=45.47808|long=9.124|label=<!--{{small|Internazionale]}}-->|mark=Black_pog.svg|position=right}}
+{{Location map~|Europe|lat=52.236667|long=6.8375|label={{small|[[FC Twente|Twente]]}}|mark=Brown_pog.svg|position=right}}
+{{Location map~|Europe|lat=52.314167|long=4.941944|label={{small|[[AFC Ajax|Ajax]]}}|mark=Purple_pog.svg|position=top}}
+{{Location map~|Europe|lat=38.752678|long=-9.184681|label={{small|[[S.L. Benfica|Benfica]]}}|mark=Red_pog.svg|position=right}}
+{{Location map~|Europe|lat=41.5624|long=-8.4308|label={{small|[[S.C. Braga|Braga]]}}|mark=Pink_pog.svg|position=top}}
+{{Location map~|Europe|lat=46.779678|long=23.577247|label={{small|[[CFR Cluj|CFR]]}}|mark=Green_pog.svg|position=right}}
+{{Location map~|Europe|lat=55.8175|long=37.435556|label={{small|[[FC Spartak Moscow|Spartak]]}}|mark=Blue_pog.svg|position=right}}
+{{Location map~|Europe|lat=55.818837|long=49.158497|label={{small|[[FC Rubin Kazan|Rubin]]}}|mark=Yellow_pog.svg|position=right}}
+{{Location map~|Europe|lat=55.853206|long=-4.309258|label={{small|[[Rangers F.C.|Rangers]]}}|mark=Orange_pog.svg|position=right}}
+{{Location map~|Europe|lat=44.788744|long=20.459097|label={{small|[[FK Partizan|Partizan]]}}|mark=Pink_pog.svg|position=right}}
+{{Location map~|Europe|lat=47.541575|long=7.620181|label={{small|[[FC Basel|Basel]]}}|mark=Green_pog.svg|position=right}}
+{{Location map~|Europe|lat=49.229119|long=18.744789|label={{small|[[MŠK Žilina|Žilina]]}}|mark=Blue_pog.svg|position=right}}
+{{Location map~|Europe|lat=40.210778|long=29.009333|label={{small|[[Bursaspor]]}}|mark=Orange_pog.svg|position=right}}
+{{Location map~|Europe|lat=48.020833|long=37.809722|label={{small|[[FC Shakhtar Donetsk|Shakhtar]]}}|mark=Pink_pog.svg|position=right}}
+{{Location map~|Europe|mark=TransparentPlaceholder.png|marksize=1|lat=67|long=-26|label=
+
+<div style="font-size:80%;">{{nowrap|'''Milan teams'''}}<br />
+{{nowrap|[[File:Brown pog.svg|8px]] [[Inter Milan|Internazionale]]<br />
+[[File:Purple pog.svg|8px]] [[AC Milan|Milan]]}}
+</div>
+
+<div style="font-size:80%;">{{nowrap|'''London teams'''}}<br />
+{{nowrap|[[File:Pink pog.svg|8px]] [[Arsenal F.C.|Arsenal]]<br />
+[[File:Blue pog.svg|8px]] [[Chelsea F.C.|Chelsea]]<br />
+[[File:Brown pog.svg|8px]] [[Tottenham Hotspur F.C.|Tottenham Hotspur]]}}
+</div>
+
+|position=right}}
+}}
+
+The 32 clubs were drawn into eight groups of four on 26 August 2010 in Monaco.<ref>{{cite news|url=https://www.uefa.com/uefachampionsleague/news/0250-0c50f49b7fa6-c2241b8b0381-1000--newcomers-stand-in-inter-s-path/|title=Newcomers stand in Inter's path|date=26 August 2010|website=[[UEFA]]|access-date=12 May 2022|archive-date=12 May 2022|archive-url=https://web.archive.org/web/20220512202746/https://www.uefa.com/uefachampionsleague/news/0250-0c50f49b7fa6-c2241b8b0381-1000--newcomers-stand-in-inter-s-path/|url-status=live}}</ref> In each group, teams played against each other home-and-away in a [[round-robin tournament|round-robin format]]. The matchdays were 14–15 September, 28–29 September, 19–20 October, 2–3 November, 23–24 November, and 7–8 December 2010. The group winners and runners-up advanced to the round of 16, while the third-placed teams entered the [[2010–11 UEFA Europa League knockout phase|round of 32 of the 2010–11 UEFA Europa League]].
+
+If two or more teams were equal on points on completion of the group matches, the following criteria were applied to determine the rankings (in descending order):<ref name="regulations"/>
+# higher number of points obtained in the group matches played among the teams in question;
+# superior goal difference from the group matches played among the teams in question;
+# higher number of goals scored away from home in the group matches played among the teams in question;
+# superior goal difference from all group matches played;
+# higher number of goals scored;
+# higher number of coefficient points accumulated by the club in question, as well as its association, over the previous five seasons.
+
+[[S.C. Braga|Braga]], [[Bursaspor]], [[Hapoel Tel Aviv F.C.|Hapoel Tel Aviv]], [[Tottenham Hotspur F.C.|Tottenham Hotspur]], [[FC Twente|Twente]] and [[MŠK Žilina|Žilina]] all made their debuts in the group stage.<ref>{{cite news|url=https://www.uefa.com/uefachampionsleague/news/0250-0c50f7a550a9-de7358fc51d1-1000--lineup-complete-for-group-stage-draw/|title=Lineup complete for group-stage draw|publisher=[[UEFA]]|date=26 August 2010|access-date=24 January 2015|archive-date=31 March 2017|archive-url=https://web.archive.org/web/20170331003822/http://www.uefa.com/news/newsid=1518328.html|url-status=live}}</ref>
+
+===Group A===
+{{:2010–11 UEFA Champions League group stage|transcludesection=Group A|show_matches=yes|only_pld_pts=no_hide_class_rules}}
+
+===Group B===
+{{:2010–11 UEFA Champions League group stage|transcludesection=Group B|show_matches=yes|only_pld_pts=no_hide_class_rules}}
+
+===Group C===
+{{:2010–11 UEFA Champions League group stage|transcludesection=Group C|show_matches=yes|only_pld_pts=no_hide_class_rules}}
+
+===Group D===
+{{:2010–11 UEFA Champions League group stage|transcludesection=Group D|show_matches=yes|only_pld_pts=no_hide_class_rules}}
+
+===Group E===
+{{:2010–11 UEFA Champions League group stage|transcludesection=Group E|show_matches=yes|only_pld_pts=no_hide_class_rules}}
+
+===Group F===
+{{:2010–11 UEFA Champions League group stage|transcludesection=Group F|show_matches=yes|only_pld_pts=no_hide_class_rules}}
+
+===Group G===
+{{:2010–11 UEFA Champions League group stage|transcludesection=Group G|show_matches=yes|only_pld_pts=no_hide_class_rules}}
+
+===Group H===
+{{:2010–11 UEFA Champions League group stage|transcludesection=Group H|show_matches=yes|only_pld_pts=no_hide_class_rules}}
+
+==Knockout phase==
+{{main|2010–11 UEFA Champions League knockout phase}}
+In the [[single-elimination tournament|knockout phase]], teams played against each other over [[two-legged tie|two legs]] on a home-and-away basis, except for the one-match final.
+
+===Bracket===
+{{trim|{{#section-h:2010–11 UEFA Champions League knockout phase|Bracket}}}}
+
+===Round of 16===
+{{#lst:2010–11 UEFA Champions League knockout phase|R16}}
+
+===Quarter-finals===
+{{#lst:2010–11 UEFA Champions League knockout phase|QF}}
+
+===Semi-finals===
+{{#lst:2010–11 UEFA Champions League knockout phase|SF}}
+
+===Final===
+{{#lst:2010–11 UEFA Champions League knockout phase|F}}
+
+==Statistics==
+Statistics exclude qualifying rounds and play-off round.
+
+===Top goalscorers===
+{| class="wikitable" style="text-align:center"
+|-
+!Rank<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/statistics/round=2000118/players/type=topscorers/index.html |title=Goals scored |date=15 September 2010 |access-date=15 September 2010 |publisher=[[UEFA]] |archive-url=https://web.archive.org/web/20100917235348/http://www.uefa.com/uefachampionsleague/statistics/round%3D2000118/players/type%3Dtopscorers/index.html |archive-date=17 September 2010 |url-status=dead}}</ref><ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2011/md13_1_6.pdf |title=Top Scorers – Final – Saturday 28 May 2011 (after match) |publisher=[[UEFA]] |date=28 May 2011 |access-date=28 May 2011 |url-status=dead |archive-url=https://web.archive.org/web/20121104052900/http://www.uefa.com/newsfiles/ucl/2011/md13_1_6.pdf |archive-date=4 November 2012}}</ref>
+!Player
+!Team
+!Goals
+!Minutes played
+|-
+|1
+|align=left|{{flagicon|ARG}} [[Lionel Messi]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|12
+|1,098
+|-
+|rowspan=2|2
+|align=left|{{flagicon|GER}} [[Mario Gómez]]
+|align=left|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|rowspan=2|8
+|634
+|-
+|align=left|{{flagicon|CMR}} [[Samuel Eto'o]]
+|align=left|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|937
+|-
+|4
+|align=left|{{flagicon|FRA|1974}} [[Nicolas Anelka]]
+|align=left|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|7
+|600
+|-
+|rowspan=3|5
+|align=left|{{flagicon|FRA|1974}} [[Karim Benzema]]
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|rowspan=3|6
+|398
+|-
+|align=left|{{flagicon|ESP}} [[Roberto Soldado]]
+|align=left|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|438
+|-
+|align=left|{{flagicon|POR}} [[Cristiano Ronaldo]]
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|1,067
+|-
+|rowspan=2|8
+|align=left|{{flagicon|ESP}} [[Pedro (footballer, born July 1987)|Pedro]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|rowspan=2|5
+|812
+|-
+|align=left|{{flagicon|ESP}} [[Raúl (footballer)|Raúl]]
+|align=left|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|1,130
+|-
+|rowspan=10|10
+|align=left|{{flagicon|CRO}} [[Eduardo da Silva|Eduardo]]
+|align=left|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|rowspan=10|4
+|279
+|-
+|align=left|{{flagicon|ITA}} [[Marco Borriello]]
+|align=left|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|554
+|-
+|align=left|{{flagicon|MEX}} [[Javier Hernández]]
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|582
+|-
+|align=left|{{flagicon|ENG}} [[Peter Crouch]]
+|align=left|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|604
+|-
+|align=left|{{flagicon|SWE}} [[Zlatan Ibrahimović]]
+|align=left|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|689
+|-
+|align=left|{{flagicon|WAL}} [[Gareth Bale]]
+|align=left|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|770
+|-
+|align=left|{{flagicon|BRA}} [[Luiz Adriano]]
+|align=left|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|833
+|-
+|align=left|{{flagicon|ENG}} [[Wayne Rooney]]
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|839
+|-
+|align=left|{{flagicon|PER|football}} [[Jefferson Farfán]]
+|align=left|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|847
+|-
+|align=left|{{flagicon|ESP}} [[David Villa]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|954
+|}
+===Squad of the season===
+The UEFA technical study group selected the following 21 players as the squad of the tournament.<ref>{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/TechnicalReport/competitions/UCL/01/68/34/73/1683473_DOWNLOAD.pdf|title=UEFA Champions League 2010/11 technical report|website=UEFA.com|publisher=Union of European Football Associations|date=2011}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!{{Tooltip|Pos.|Position}}
+!Player
+!Team
+|-
+|rowspan=3|{{Tooltip|GK|Goalkeeper}}
+|align=left|{{flagicon|ESP}} [[Víctor Valdés]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=left|{{flagicon|NED}} [[Edwin van der Sar]]
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|-
+|align=left|{{flagicon|ESP}} [[Iker Casillas]]
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|rowspan=6|{{Tooltip|DF|Defender}}
+|align=left|{{flagicon|BRA}} [[Dani Alves]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=left|{{flagicon|ESP}} [[Gerard Piqué]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=left|{{flagicon|ESP}} [[Carles Puyol]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=left|{{flagicon|ENG}} [[John Terry]]
+|align=left|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|-
+|align=left|{{flagicon|SRB}} [[Nemanja Vidić]]
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|-
+|align=left|{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|-
+|rowspan=6|{{Tooltip|MF|Midfielder}}
+|align=left|{{flagicon|ENG}} [[Jack Wilshere]]
+|align=left|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|-
+|align=left|{{flagicon|ESP}} [[Andrés Iniesta]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=left|{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=left|{{flagicon|WAL}} [[Ryan Giggs]]
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|-
+|align=left|{{flagicon|WAL}} [[Gareth Bale]]
+|align=left|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|-
+|align=left|{{flagicon|CRO}} [[Luka Modrić]]
+|align=left|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|-
+|rowspan=6|{{Tooltip|FW|Forward}}
+|align=left|{{flagicon|ARG}} [[Lionel Messi]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=left|{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=left|{{flagicon|ESP}} [[David Villa]]
+|align=left|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|-
+|align=left|{{flagicon|CMR}} [[Samuel Eto'o]]
+|align=left|{{fbaicon|ITA}} [[Inter Milan]]
+|-
+|align=left|{{flagicon|ENG}} [[Wayne Rooney]]
+|align=left|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|-
+|align=left|{{flagicon|POR}} [[Cristiano Ronaldo]]
+|align=left|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|}
+
+==Prize money==
+Just for being in the group stage, each club received €3.9&nbsp;million (compared with €3.8&nbsp;million last season 2009–2010), followed by €550,000 for each group match they played, or €3.3&nbsp;million for the whole group stage, giving them each a total of €7.2&nbsp;million in participation bonuses. In addition, each club had the possibility of netting up to €4.8m in group stage performance bonuses (€800,000 for a win; €400,000 for a draw). Real Madrid CF took the most from this pot, with a near-maximum €4.4&nbsp;million. A place in the round of 16 was worth €3&nbsp;million, in the quarter-finals €3.3&nbsp;million and in the semi-finals €4.2&nbsp;million. The overall winners, FC Barcelona, received an additional €9&nbsp;million, bringing their total bonuses to €30.7&nbsp;million (out of a maximum €31.5&nbsp;million). Manchester United FC, the runners-up, received a final match bonus of €5.6&nbsp;million.<ref name=":0">{{Cite journal |date=August 2011 |title=Spanish football takes pride of place |url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/uefaorg/Publications/01/66/55/51/1665551_DOWNLOAD.pdf |journal=UEFA Direct |issue=110 |pages=7 |access-date=20 February 2018 |archive-date=3 October 2018 |archive-url=https://web.archive.org/web/20181003073939/https://www.uefa.com/MultimediaFiles/Download/EuroExperience/uefaorg/Publications/01/66/55/51/1665551_DOWNLOAD.pdf |url-status=live }}</ref> The second payments category, the market pool, depends primarily on the value of the clubs' domestic markets. If an association is represented by more than one club, however, the clubs' shares are calculated, first, on the basis of their position in the previous season's domestic championship and, second, on the basis of the number of matches they play in the competition (group stage onwards). With €27.023m, Chelsea FC received the largest market pool share of all the clubs in the 2010/11 UEFA Champions League. In addition, the clubs all keep their own gate receipts.<ref name=":0" />
+
+==See also==
+* [[2009–10 UEFA Champions League]]
+* [[2010–11 UEFA Europa League]]
+* [[2011 FIFA Club World Cup]]
+* [[2011 UEFA Super Cup]]
+* [[2010–11 UEFA Women's Champions League]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20111007020934/http://www.uefa.com/uefachampionsleague/season=2011/matches/all/index.html 2010–11 All matches – season at UEFA website]
+*[https://web.archive.org/web/20110911145135/http://www.uefa.com/uefachampionsleague/season=2011/index.html 2010–11 UEFA Champions League], UEFA.com
+* All scorers 2010–11 UEFA Champions League (excluding qualifying round) according to [https://web.archive.org/web/20111109104745/http://www.uefa.com/uefachampionsleague/season=2011/statistics/round=2000118/players/type=topscorers/index.html protocols UEFA] + all scorers [https://web.archive.org/web/20120809063549/http://www.uefa.com/uefachampionsleague/season=2011/statistics/round=2000114/players/type=topscorers/index.html qualifying round]
+* [http://en.archive.uefa.com/competitions/ucl/history/season=2011/intro.html 2010/11 UEFA Champions League]{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}} – results and line-ups (archive)
+
+{{UEFA Champions League Seasons}}
+{{2010–11 in European Football (UEFA)}}
+{{International Club Football}}
+
+{{DEFAULTSORT:2010-11 UEFA Champions League}}
+[[Category:2010–11 UEFA Champions League| ]]
+[[Category:UEFA Champions League seasons]]
+[[Category:2010–11 in European men's continental football|1]]

@@ -1,0 +1,302 @@
+{{Short description|none}}
+{{main|2001–02 UEFA Champions League}}
+The '''knockout stage of the 2001–02 UEFA Champions League''' began on 2 April 2002 and ended on 15 May 2002 with the final at [[Hampden Park]] in [[Glasgow]], Scotland.<ref>{{cite web |url=https://www.worldfootball.net/competition/co19/se2728/all-matches/ |title=Champions League 2001/2002 » Schedule |website=WorldFootball.net |access-date=9 January 2025}}</ref> Teams qualified via the [[2001–02 UEFA Champions League second group stage]].
+
+All times are [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]), as listed by UEFA.
+
+==Qualified teams==
+The knockout staged involved the eight teams which qualified as winners and runners-up of each of the four groups in the [[2001–02 UEFA Champions League second group stage|second group stage]].
+
+{| class="wikitable" style="white-space:nowrap"
+|-
+!Group
+!width=210|Winners<br />(seeded in round of 16 draw)
+!width=210|Runners-up<br />(unseeded in round of 16 draw)
+|-
+![[2001–02 UEFA Champions League second group stage#Group A|A]]
+|bgcolor=#BBF3BB|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|bgcolor=#BBF3FF|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|-
+![[2001–02 UEFA Champions League second group stage#Group B|B]]
+|bgcolor=#BBF3BB|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|bgcolor=#BBF3FF|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|-
+![[2001–02 UEFA Champions League second group stage#Group C|C]]
+|bgcolor=#BBF3BB|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|bgcolor=#BBF3FF|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|-
+![[2001–02 UEFA Champions League second group stage#Group D|D]]
+|bgcolor=#BBF3BB|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|bgcolor=#BBF3FF|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|}
+
+==Bracket==
+{{8TeamBracket-info
+<!--Bracket settings-->
+|paramstyle=numbered
+|legs=2
+|RD3-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Quarter-finals|Quarter-finals]]
+|RD2=[[#Semi-finals|Semi-finals]]
+|RD3=[[#Final|Final]]
+<!--Quarter-finals-->
+||{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]|0|2|'''2'''|{{fbaicon|ENG}} '''[[Manchester United F.C.|Manchester United]]'''|2|3|'''5'''
+||{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]|1|2|'''3'''|{{fbaicon|GER}} '''[[Bayer 04 Leverkusen|Bayer Leverkusen]]'''|0|4|'''4'''
+||{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]|1|1|'''2'''|{{fbaicon|ESP}} '''[[FC Barcelona|Barcelona]]'''|0|3|'''3'''
+||{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]|2|0|'''2'''|{{fbaicon|ESP}} '''[[Real Madrid CF|Real Madrid]]'''|1|2|'''3'''
+<!--Semi-finals-->
+||{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]|2|1|'''3'''|{{fbaicon|GER}} '''[[Bayer 04 Leverkusen|Bayer Leverkusen]]''' ([[Away goals rule|a]])|2|1|'''3'''
+||{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]|0|1|'''1'''|{{fbaicon|ESP}} '''[[Real Madrid CF|Real Madrid]]'''|2|1|'''3'''
+<!--Final-->
+|15 May – [[Hampden Park|Glasgow]]|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]|'''1'''|{{fbaicon|ESP}} '''[[Real Madrid CF|Real Madrid]]'''|'''2'''
+}}
+
+==Quarter-finals==
+
+===Summary===
+<section begin=QF />
+The first legs were played on 2 and 3 April, and the second legs were played on 9 and 10 April 2002.
+
+{{#invoke:Sports series|main|generate_links=y
+|[[Panathinaikos F.C.|Panathinaikos]]|GRE|2–3|[[FC Barcelona|Barcelona]]|ESP|1–0|1–3
+|[[FC Bayern Munich|Bayern Munich]]|GER|2–3|[[Real Madrid CF|Real Madrid]]|ESP|2–1|0–2
+|[[Deportivo de La Coruña|Deportivo La Coruña]]|ESP|2–5|[[Manchester United F.C.|Manchester United]]|ENG|0–2|2–3
+|[[Liverpool F.C.|Liverpool]]|ENG|3–4|[[Bayer 04 Leverkusen|Bayer Leverkusen]]|GER|1–0|2–4
+}}<section end=QF />
+
+===Matches===
+{{Football box
+|date       = {{Start date|2002|4|3|df=y}}
+|time       = 20:45
+|team1      = [[Panathinaikos F.C.|Panathinaikos]] {{fbaicon|GRE}}
+|score      = 1–0
+|team2      = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+*[[Angelos Basinas|Basinas]] {{goal|79|pen.}}
+|goals2     =
+|stadium    = [[Leoforos Alexandras Stadium]], [[Athens]]
+|attendance = 15,465
+|referee    = [[Terje Hauge]] ([[Football Association of Norway|Norway]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69243/
+}}
+{{Football box
+|date       = {{Start date|2002|4|9|df=y}}
+|time       = 20:45
+|team1      = [[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score      = 3–1
+|team2      = {{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|goals1     =
+*[[Luis Enrique (footballer)|Luis Enrique]] {{goal|23||49}}
+*[[Javier Saviola|Saviola]] {{goal|61}}
+|goals2     =
+*[[Michalis Konstantinou|Konstantinou]] {{goal|8}}
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 92,377
+|referee    = [[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69244/
+}}
+''Barcelona won 3–2 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2002|4|2|df=y}}
+|time       = 20:45
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{fbaicon|GER}}
+|score      = 2–1
+|team2      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1     =
+*[[Stefan Effenberg|Effenberg]] {{goal|82}}
+*[[Claudio Pizarro|Pizarro]] {{goal|88}}
+|goals2     =
+*[[Geremi Njitap|Geremi]] {{goal|11}}
+|stadium    = [[Olympic Stadium (Munich)|Olympiastadion]], [[Munich]]
+|attendance = 60,000
+|referee    = [[Hugh Dallas]] ([[Scottish Football Association|Scotland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69245/
+}}
+{{Football box
+|date       = {{Start date|2002|4|10|df=y}}
+|time       = 20:45
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 2–0
+|team2      = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+*[[Iván Helguera|Helguera]] {{goal|69}}
+*[[Guti (footballer)|Guti]] {{goal|85}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 75,300
+|referee    = [[Stefano Braschi]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69246/
+}}
+''Real Madrid won 3–2 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2002|4|2|df=y}}
+|time       = 20:45
+|team1      = [[Deportivo de La Coruña|Deportivo La Coruña]] {{fbaicon|ESP}}
+|score      = 0–2
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+|goals2     =
+*[[David Beckham|Beckham]] {{goal|15}}
+*[[Ruud van Nistelrooy|Van Nistelrooy]] {{goal|41}}
+|stadium    = [[Estadio Riazor]], [[A Coruña]]
+|attendance = 32,351
+|referee    = [[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69247/
+}}
+{{Football box
+|date       = {{Start date|2002|4|10|df=y}}
+|time       = 19:45
+|team1      = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score      = 3–2
+|team2      = {{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|goals1     =
+*[[Ole Gunnar Solskjær|Solskjær]] {{goal|23||56}}
+*[[Ryan Giggs|Giggs]] {{goal|69}}
+|goals2     =
+*[[Laurent Blanc|Blanc]] {{goal|45|o.g.}}
+*[[Djalminha]] {{goal|90+1}}
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 65,875
+|referee    = [[Markus Merk]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69248/
+}}
+''Manchester United won 5–2 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2002|4|3|df=y}}
+|time       = 19:45
+|team1      = [[Liverpool F.C.|Liverpool]] {{fbaicon|ENG}}
+|score      = 1–0
+|team2      = {{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|goals1     =
+*[[Sami Hyypiä|Hyypiä]] {{goal|44}}
+|goals2     =
+|stadium    = [[Anfield]], [[Liverpool]]
+|attendance = 42,254
+|referee    = [[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69249/
+}}
+{{Football box
+|date       = {{Start date|2002|4|9|df=y}}
+|time       = 20:45
+|team1      = [[Bayer 04 Leverkusen|Bayer Leverkusen]] {{fbaicon|GER}}
+|score      = 4–2
+|team2      = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+*[[Michael Ballack|Ballack]] {{goal|16||64}}
+*[[Dimitar Berbatov|Berbatov]] {{goal|68}}
+*[[Lúcio]] {{goal|84}}
+|goals2     =
+*[[Abel Xavier|Xavier]] {{goal|42}}
+*[[Jari Litmanen|Litmanen]] {{goal|79}}
+|stadium    = [[BayArena]], [[Leverkusen]]
+|attendance = 22,855
+|referee    = [[Vítor Melo Pereira]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69250/
+}}
+''Bayer Leverkusen won 4–3 on aggregate.''
+
+==Semi-finals==
+
+===Summary===
+<section begin=SF />
+The first legs were played on 23 and 24 April, and the second legs were played on 30 April and 1 May 2002.
+
+{{#invoke:Sports series|main|generate_links=y
+|[[FC Barcelona|Barcelona]]|ESP|1–3|[[Real Madrid CF|Real Madrid]]|ESP|0–2|1–1
+|[[Manchester United F.C.|Manchester United]]|ENG|3–3 (a)|[[Bayer 04 Leverkusen|Bayer Leverkusen]]|GER|2–2|1–1
+}}<section end=SF />
+
+===Matches===
+{{Football box
+|date       = {{Start date|2002|4|23|df=y}}
+|time       = 20:45
+|team1      = [[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score      = 0–2
+|team2      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1     =
+|goals2     =
+*[[Zinedine Zidane|Zidane]] {{goal|55}}
+*[[Steve McManaman|McManaman]] {{goal|90+2}}
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 98,112
+|referee    = [[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69451/
+}}
+{{Football box
+|date       = {{Start date|2002|5|1|df=y}}
+|time       = 20:45
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 1–1
+|team2      = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+*[[Raúl (footballer)|Raúl]] {{goal|43}}
+|goals2     =
+*[[Iván Helguera|Helguera]] {{goal|49|o.g.}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 74,200
+|referee    = [[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69452/
+}}
+''Real Madrid won 3–1 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2002|4|24|df=y}}
+|time       = 19:45
+|team1      = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score      = 2–2
+|team2      = {{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|goals1     =
+*[[Boris Živković|Živković]] {{goal|29|o.g.}}
+*[[Ruud van Nistelrooy|Van Nistelrooy]] {{goal|67|pen.}}
+|goals2     =
+*[[Michael Ballack|Ballack]] {{goal|62}}
+*[[Oliver Neuville|Neuville]] {{goal|75}}
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 66,534
+|referee    = [[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69453/
+}}
+{{Football box
+|date       = {{Start date|2002|4|30|df=y}}
+|time       = 20:45
+|team1      = [[Bayer 04 Leverkusen|Bayer Leverkusen]] {{fbaicon|GER}}
+|score      = 1–1
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+*[[Oliver Neuville|Neuville]] {{goal|45+2}}
+|goals2     =
+*[[Roy Keane|Keane]] {{goal|28}}
+|stadium    = [[BayArena]], [[Leverkusen]]
+|attendance = 20,605
+|referee    = [[Kim Milton Nielsen]] ([[Danish Football Association|Denmark]])
+|report     = https://www.uefa.com/uefachampionsleague/match/69454/
+}}
+''3–3 on aggregate; Bayer Leverkusen won on away goals.''
+
+==Final==
+<section begin=F />
+{{main|2002 UEFA Champions League final}}
+
+The final was played on 15 May 2002 at [[Hampden Park]] in [[Glasgow]], Scotland.
+{{:2002 UEFA Champions League final}}<section end=F />
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110924062408/http://www.uefa.com/uefachampionsleague/season=2001/index.html 2001–02 UEFA Champions League], UEFA.com
+
+{{UEFA Champions League phases}}
+{{2001–02 in European football (UEFA)}}
+
+{{DEFAULTSORT:2001-02 UEFA Champions League knockout stage}}
+[[Category:2001–02 UEFA Champions League|*4]]
+[[Category:UEFA Champions League knockout phases|2001-02]]

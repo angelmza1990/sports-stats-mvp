@@ -1,0 +1,361 @@
+{{Infobox football match
+| title                   = 1990 Supercopa de España
+| image                   = 
+| event                   = 
+| team1                   = [[FC Barcelona|Barcelona]]
+| team1association        = {{flagicon|SPA|size=30px}}
+| team1score              = 1
+| team2                   = [[Real Madrid CF|Real Madrid]]
+| team2association        = {{flagicon|SPA|size=30px}}
+| team2score              = 5
+| details                 = on aggregate
+| firstleg                = First leg
+| team1score1             = 0
+| team2score1             = 1
+| details1                = 
+| date1                   = 5 December 1990
+| stadium1                = [[Camp Nou]]
+| city1                   = [[Barcelona]]
+| man_of_the_match1a      = 
+| man_of_the_match1atitle = 
+| man_of_the_match1b      = 
+| man_of_the_match1btitle = 
+| referee1                = Ildefonso Urizar Azpitarte
+| attendance1             = 
+| weather1                = 
+| secondleg               = Second leg
+| team1score2             = 1
+| team2score2             = 4
+| details2                = 
+| date2                   = 12 December 1990
+| stadium2                = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+| city2                   = [[Madrid]]
+| man_of_the_match2a      = 
+| man_of_the_match2atitle = 
+| man_of_the_match2b      = 
+| man_of_the_match2btitle = 
+| referee2                = Joaquín Urío Velázquez 
+| attendance2             = 
+| weather2                = 
+| previous                = [[1988 Supercopa de España|1988]]
+| next                    = [[1991 Supercopa de España|1991]]
+}}
+
+The '''1990 Supercopa de España''' was two-leg [[Football in Spain|Spanish]] [[football (soccer)|football]] matches played on 5 December and 12 December 1990. It contested by Barcelona, who were Spanish Cup winners in 1989–90, and Real Madrid, who won the [[La Liga 1989–90|1989–90]] Spanish League. Real Madrid won 5&ndash;1 on aggregate.
+
+{{clear}}
+
+==Match details==
+
+===First leg===
+{{footballbox|
+date= 5 December 1990<br />
+20:45 [[Central European Time|CET]] |
+team1= [[FC Barcelona|Barcelona]] {{flagicon|SPA}} |
+score= 0&ndash;1 |
+team2= [[Real Madrid CF|Real Madrid]] {{flagicon|SPA}} |
+report= | 
+goals1=  |
+goals2= [[Míchel (footballer, born 1963)|Míchel]] {{goal|54}} |
+stadium= [[Camp Nou]], [[Barcelona]] |
+attendance= 40,000 |
+referee= Ildefonso Urízar Azpitarte }}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _fcbarcelona9192h
+ | pattern_b  = _fcbarcelona9192h
+ | pattern_ra = _fcbarcelona9192h
+ | pattern_sh = _red_stripes
+ | pattern_so = _fcbarcelona1011h
+ | leftarm    = 0000A0
+ | body       = 0000A0
+ | rightarm   = 0000A0
+ | shorts     = 0000A0
+ | socks      = 0000A0
+ | title      = Barcelona 
+}}
+|{{Football kit
+ | pattern_la = _rmcf9091h
+ | pattern_b  = _rmcf9091h
+ | pattern_ra = _rmcf9091h
+ | pattern_sh = _rmcf9091h
+ | pattern_so = _rmcf9091h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid CF
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|'''[[FC Barcelona|Barcelona]]:'''
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Andoni Zubizarreta]] ([[Captain (association football)|c]])
+|-
+|DF ||'''5''' ||{{flagicon|ESP}} [[Luis María López Rekarte|Luis López Rekarte]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Álex García (footballer, born 1970)|Álex]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Fernando Muñoz|Nando]]
+|-
+|DF ||'''11'''||{{flagicon|ESP}} [[Miquel Soler]]
+|-
+|MF ||'''4''' ||{{flagicon|ESP}} [[Eusebio Sacristán]]
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Sebastián Herrera Zamora|Sebastián Herrera]] || {{yel|27}}
+|-
+|MF ||'''10'''||{{flagicon|ESP}} [[Guillermo Amor]]
+|-
+|FW ||'''8''' ||{{flagicon|BUL}} [[Hristo Stoichkov]] || {{yel|41}} {{sent off|0|41}}
+|-
+|FW ||'''9''' ||{{flagicon|ESP}} [[Julio Salinas]]
+|-
+|FW ||'''7''' ||{{flagicon|ESP}} [[Lluís Carreras]] || || {{suboff|59}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''13''' ||{{flagicon|ESP}} [[Carles Busquets]]
+|-
+|MF ||'''12'''||{{flagicon|ESP}} [[Urbano Ortega|Urbano]] || || {{subon|59}}
+|-
+|MF ||'''14''' ||{{flagicon|ESP}} [[José Mari Bakero]]
+|-
+|MF ||'''15''' ||{{flagicon|ESP}} [[Sánchez Jara]]
+|-
+|FW ||'''16''' ||{{flagicon|ESP}} [[Antonio Pinilla]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|NED}} [[Johan Cruyff]] || {{yel|40}} {{sent off|0|40}}
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|'''[[Real Madrid CF|Real Madrid]]:'''
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Francisco Buyo]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Chendo]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]]
+|-
+|DF ||'''6''' ||{{flagicon|YUG}} [[Predrag Spasić]] || {{yel|15}}
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Jesús Ángel Solana|Jesús Solana]]
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Míchel (footballer, born 1963)|Míchel]] || || {{suboff|86}}
+|-
+|MF ||'''5''' ||{{flagicon|ESP}} [[Manuel Sanchís Hontiyuelo|Manuel Sanchís]] || {{yel|49}}
+|-
+|MF ||'''10'''||{{flagicon|ESP}} [[Santiago Aragón]] || || {{suboff|78}}
+|-
+|MF ||'''11'''||{{flagicon|ESP}} [[Francisco Villarroya]]
+|-
+|FW ||'''7''' ||{{flagicon|ESP}} [[Emilio Butragueño]]
+|-
+|FW ||'''9''' ||{{flagicon|MEX}} [[Hugo Sánchez]] || {{yel|89}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''13''' ||{{flagicon|ESP}} [[Pedro Luis Jaro|Pedro Jaro]]
+|-
+|DF ||'''12''' ||{{flagicon|ESP}} [[Miguel Tendillo]]
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Adolfo Aldana]] || || {{subon|78}}
+|-
+|MF ||'''15'''||{{flagicon|ROM}} [[Gheorghe Hagi]] || || {{subon|86}}
+|-
+|FW ||'''16''' ||{{flagicon|ESP}} [[Sebastián Losada]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Alfredo Di Stéfano]]
+|}
+|}
+
+===Second leg===
+{{footballbox|
+date= 12 December 1990<br />
+20:45 [[Central European Time|CET]] |
+team1= [[Real Madrid CF|Real Madrid]] {{flagicon|SPA}} |
+score= 4&ndash;1 |
+team2= [[FC Barcelona|Barcelona]] {{flagicon|SPA}} |
+report= | 
+goals1= [[Emilio Butragueño|Butragueño]] {{goal|22||44}}<br /> [[Hugo Sánchez]] {{goal|56}}<br />[[Santiago Aragón|Aragón]] {{goal|70}} |
+goals2= [[Jon Andoni Goikoetxea|Goikoetxea]] {{goal|20}} |
+stadium= [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]] |
+attendance= 70,000 |
+referee= Joaquín Urío Velázquez }}
+
+{| width=92% |
+|-
+|{{Football kit
+ | pattern_la = _rmcf9091h
+ | pattern_b  = _rmcf9091h
+ | pattern_ra = _rmcf9091h
+ | pattern_sh = _rmcf9091h
+ | pattern_so = _rmcf9091h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|{{Football kit
+ | pattern_la = _fcbarcelona9192h
+ | pattern_b  = _fcbarcelona9192h
+ | pattern_ra = _fcbarcelona9192h
+ | pattern_sh = _red_stripes
+ | pattern_so = _fcbarcelona1011h
+ | leftarm    = 0000A0
+ | body       = 0000A0
+ | rightarm   = 0000A0
+ | shorts     = 0000A0
+ | socks      = 0000A0
+ | title      = Barcelona
+}}
+|}
+
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|'''[[Real Madrid CF|Real Madrid]]:'''
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Francisco Buyo]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP}} [[Chendo]] ([[Captain (association football)|c]])
+|-
+|DF ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]] || {{yel|19}}
+|-
+|DF ||'''5''' ||{{flagicon|ESP}} [[Manuel Sanchís Hontiyuelo|Manuel Sanchís]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Jesús Solana]] || {{yel|60}}
+|-
+|MF ||'''8''' ||{{flagicon|ESP}} [[Míchel (footballer, born 1963)|Míchel]]
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Juan José Sánchez Maqueda|Juanjo Maqueda]]
+|-
+|MF ||'''10'''||{{flagicon|ESP}} [[Santiago Aragón]]
+|-
+|MF ||'''11'''||{{flagicon|ESP}} [[Francisco Villarroya]]
+|-
+|FW ||'''7''' ||{{flagicon|ESP}} [[Emilio Butragueño]] || || {{suboff|75}}
+|-
+|FW ||'''9''' ||{{flagicon|MEX}} [[Hugo Sánchez]] || || {{suboff|75}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''13''' ||{{flagicon|ESP}} [[Pedro Luis Jaro|Pedro Jaro]]
+|-
+|DF ||'''12''' ||{{flagicon|YUG}} [[Predrag Spasić]]
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Adolfo Aldana]] || || {{subon|75}}
+|-
+|MF ||'''15''' ||{{flagicon|ROM}} [[Gheorghe Hagi]]
+|-
+|FW ||'''16'''||{{flagicon|ESP}} [[Sebastián Losada]] || || {{subon|75}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Alfredo Di Stéfano]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|'''[[FC Barcelona|Barcelona]]:'''
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Andoni Zubizarreta]] ([[Captain (association football)|c]])
+|-
+|DF||'''2''' ||{{flagicon|ESP}} [[Sebastián Herrera Zamora|Sebastián Herrera]] || {{yel|23}}
+|-
+|DF ||'''5''' ||{{flagicon|ESP}} [[Ricardo Serna]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP}} [[Álex García (footballer, born 1970)|Álex]] || {{yel|14}}
+|-
+|MF ||'''7''' ||{{flagicon|ESP}} [[Jon Andoni Goikoetxea]]
+|-
+|MF ||'''4''' ||{{flagicon|ESP}} [[Eusebio Sacristán|Eusebio]]
+|-
+|MF ||'''10'''||{{flagicon|ESP}} [[Guillermo Amor]] || {{yel|40}}
+|-
+|MF ||'''6''' ||{{flagicon|ESP}} [[Miquel Soler]]
+|-
+|FW ||'''9''' ||{{flagicon|ESP}} [[Julio Salinas]]
+|-
+|FW ||'''8''' ||{{flagicon|DEN}} [[Michael Laudrup]] || || {{suboff|71}}
+|-
+|FW ||'''11'''||{{flagicon|ESP}} [[Txiki Begiristain]] || || {{suboff|46}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|GK ||'''13''' ||{{flagicon|ESP}} [[Carles Busquets]]
+|-
+|DF ||'''12''' ||{{flagicon|ESP}} [[José Ramón Alexanko]]
+|-
+|DF ||'''15'''||{{flagicon|ESP}} [[Luis María López Rekarte|Luis López Rekarte]] || || {{subon|71}}
+|-
+|MF ||'''14''' ||{{flagicon|ESP}} [[Urbano Ortega|Urbano]]
+|-
+|FW ||'''16'''||{{flagicon|ESP}} [[Lluís Carreras]] || || {{subon|46}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="3"|{{flagicon|NED}} [[Johan Cruyff]]
+|}
+|}
+
+{| class="wikitable" style="text-align: center; margin: 0 auto; width: 20%"
+|-
+!Supercopa de España <br>1990 Winners
+|-
+|'''{{flagicon|SPA}} [[Real Madrid CF|Real Madrid]]'''<br />'''Third Title'''
+|}
+
+==See also==
+*[[El Clásico]]
+*[[1990–91 La Liga]]
+*[[1990–91 Copa del Rey]]
+*[[1990–91 FC Barcelona season]]
+*[[1990–91 Real Madrid CF season]]
+
+==References==
+* [https://www.rsssf.org/tabless/spansupcuphist.html List of Super Cup Finals 1990] RSSSF.com
+* {{in lang|es}} {{usurped|1=[https://web.archive.org/web/20150402153203/http://www.linguasport.com/futbol/nacional/supercopa/supercopa90.htm linguasport.com]}}
+
+{{Supercopa de España Finals}}
+{{1990–91 in Spanish football}}
+{{FC Barcelona matches}}
+{{Real Madrid matches}}
+
+{{DEFAULTSORT:1990 Supercopa de Espana}}
+[[Category:1990–91 in Spanish football cups|Supercopa de Espana Final]]
+[[Category:Supercopa de España]]
+[[Category:Real Madrid CF matches|Supercopa de España 1990]]
+[[Category:FC Barcelona matches|Supercopa de España 1990]]
+[[Category:El Clásico matches|Supercopa de España]]
+[[Category:December 1990 sports events in Europe]]
+[[Category:December 1990 in Spain]]
+[[Category:1990 in Catalan sport]]
+[[Category:1990s in Barcelona]]
+[[Category:Football matches in Barcelona]]
+[[Category:Football competitions in Madrid]]
+[[Category:1990 in the Community of Madrid]]
+[[Category:1990s in Madrid]]
+
+
+{{Spain-footy-competition-stub}}

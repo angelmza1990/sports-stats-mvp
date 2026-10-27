@@ -1,0 +1,652 @@
+{{Short description|International football competition}}
+{{Use dmy dates|date=February 2025}}
+The '''knockout phase of the [[2010–11 UEFA Champions League]]''' began on 15 February and concluded on 28 May 2011 with the [[2011 UEFA Champions League Final|final]] at [[Wembley Stadium]] in [[London]], England. The knockout phase involved the 16 teams who finished in the top two in each of their groups in the [[2010–11 UEFA Champions League group stage|group stage]].<ref>{{Cite web |url=http://en.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/48/42/49/1484249_DOWNLOAD.pdf |title=2010/11 Regulations of the UEFA Champions League |access-date=1 September 2010 |archive-date=5 December 2010 |archive-url=https://web.archive.org/web/20101205051408/http://en.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/48/42/49/1484249_DOWNLOAD.pdf |url-status=dead }}</ref>
+
+Times are [[Central European Time|CET]]/[[Central European Summer Time|CEST]],{{refn|group=note|[[Central European Time|CET]] ([[UTC+01:00|UTC+1]]) for matches to 16 March 2011, and [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]) for matches from 5 April 2011.}} as listed by UEFA (local times, if different, are in parentheses).
+
+==Format==
+Each tie in the [[single-elimination tournament|knockout phase]], apart from the final, was played over [[two-legged tie|two legs]], with each team playing one leg at home. The team that had the higher aggregate score over the two legs progressed to the next round. If aggregate scores finish level, the [[away goals rule]] was applied, i.e. the team that scored more goals away from home over the two legs progressed. If away goals were also equal, then 30 minutes of [[Overtime (sports)#Association football|extra time]] were played, divided into two 15-minute halves. The away goals rule was again applied after extra time, i.e. if there were goals scored during extra time and the aggregate score was still level, the visiting team qualified by more away goals scored. If no goals were scored during extra time, the tie was decided by a [[Penalty shoot-out (association football)|penalty shoot-out]]. In the final, the tie was played as a single match. If scores were level at the end of normal time in the final, extra time was played, followed by penalties if scores remained tied.
+
+In the draw for the round of 16, each of the eight group winners was drawn against a second-place team, with the group winners hosting the second leg. Teams from the same group or the same association were not allowed to be drawn against each other. There was a single draw after the round of 16 that determined the pairings for all subsequent rounds. For this draw, there were no seedings, and teams from the same group or the same association could be drawn with each other.
+
+The draw mechanism for each round is as follows:
+
+*In the draw for the round of 16, matches were played between the winners of one group and the runners-up of a different group, with the group winner hosting the second leg. Teams from the same group or the same association cannot be drawn against each other.
+* From the quarter-finals onwards, these restrictions did not apply and teams from the same group or same associations may be drawn against each other.
+
+== Round and draw dates ==
+All draws were held at UEFA headquarters in [[Nyon]], [[Switzerland]].<ref>{{Cite web|url=http://en.uefa.com/uefa/management/newsid=1478141.html|archive-url=https://web.archive.org/web/20101011234231/http://en.uefa.com/uefa/management/newsid%3D1478141.html|url-status=dead|title=2010/11 draw and match calendar|archive-date=11 October 2010|website=[[UEFA]]}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! Round
+! Draw date and time
+! First leg
+! Second leg
+|-
+| Round of 16
+| 17 December 2010<br />12:00 [[Central European Time|CET]]
+| 15–16 & 22–23 February 2011
+| 8–9 & 15–16 March 2011
+|-
+| Quarter-finals
+|rowspan=3| 18 March 2011<br />12:00 [[Central European Time|CET]]
+| 5–6 April 2011
+| 12–13 April 2011
+|-
+| Semi-finals
+| 26–27 April 2011
+| 3–4 May 2011
+|-
+| Final
+|colspan="2"| 28 May 2011 at [[Wembley Stadium]], [[London]]
+|}
+
+== Qualified teams ==
+{| class="wikitable"
+|-
+!Key to colours
+|-bgcolor="#ccffcc"
+|Seeded in round of 16 draw
+|-bgcolor="#ccccff"
+|Unseeded in round of 16 draw
+|}
+
+{| class="wikitable"
+!Group
+!width=175|Winners
+!width=175|Runners-up
+|-
+![[2010–11 UEFA Champions League group stage#Group A|A]]
+|bgcolor="#ccffcc"|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|bgcolor="#ccccff"|{{fbaicon|ITA}} [[Inter Milan|Internazionale]]
+|-
+![[2010–11 UEFA Champions League group stage#Group B|B]]
+|bgcolor="#ccffcc"|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|bgcolor="#ccccff"|{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]
+|-
+![[2010–11 UEFA Champions League group stage#Group C|C]]
+|bgcolor="#ccffcc"|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|bgcolor="#ccccff"|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|-
+![[2010–11 UEFA Champions League group stage#Group D|D]]
+|bgcolor="#ccffcc"|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|bgcolor="#ccccff"|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|-
+![[2010–11 UEFA Champions League group stage#Group E|E]]
+|bgcolor="#ccffcc"|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|bgcolor="#ccccff"|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|-
+![[2010–11 UEFA Champions League group stage#Group F|F]]
+|bgcolor="#ccffcc"|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]] 
+|bgcolor="#ccccff"|{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|-
+![[2010–11 UEFA Champions League group stage#Group G|G]]
+|bgcolor="#ccffcc"|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|bgcolor="#ccccff"|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|-
+![[2010–11 UEFA Champions League group stage#Group H|H]]
+|bgcolor="#ccffcc"|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|bgcolor="#ccccff"|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|}
+
+== Bracket ==
+{{16TeamBracket-Info
+<!--Bracket settings-->
+|paramstyle=numbered
+|legs=2
+|RD4-legs=1
+|agg-width=40
+|score-width=20
+|aggregate=y
+|nowrap=y
+<!--Headings-->
+|RD1=[[#Round of 16|Round of 16]]
+|RD2=[[#Quarter-finals|Quarter-finals]]
+|RD3=[[#Semi-finals|Semi-finals]]
+|RD4=[[#Final|Final]]
+<!--Round of 16-->
+||{{fbaicon|FRA|1974}} [[Olympique Lyonnais|Lyon]]|1|0|'''1'''|'''{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]'''|1|3|'''4'''
+||{{fbaicon|ITA}} [[AC Milan|Milan]]|0|0|'''0'''|'''{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]'''|1|0|'''1'''
+||{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]|2|1|'''3'''|'''{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]'''|1|3|'''4'''
+||{{fbaicon|ITA}} [[AS Roma|Roma]]|2|0|'''2'''|'''{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]'''|3|3|'''6'''
+||'''{{fbaicon|ITA}} [[Inter Milan|Internazionale]]''' ([[away goals rule|a]])|0|3|'''3'''|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]|1|2|'''3'''
+||{{fbaicon|ESP}} [[Valencia CF|Valencia]]|1|1|'''2'''|'''{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]'''|1|3|'''4'''
+||{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]|0|0|'''0'''|'''{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]'''|2|0|'''2'''
+||{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]|0|1|'''1'''|'''{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]'''|0|2|'''2'''
+<!--Quarter-finals-->
+||'''{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]'''|4|1|'''5'''|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]|0|0|'''0'''
+||'''{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]'''|5|1|'''6'''|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]|1|0|'''1'''
+||{{fbaicon|ITA}} [[Inter Milan|Internazionale]]|2|1|'''3'''|'''{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]'''|5|2|'''7'''
+||{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]|0|1|'''1'''|'''{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]'''|1|2|'''3'''
+<!--Semi-finals-->
+||{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]|0|1|'''1'''|'''{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]'''|2|1|'''3'''
+||{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]|0|1|'''1'''|'''{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]'''|2|4|'''6'''
+<!--Final-->
+|28 May – [[Wembley Stadium|London]]|'''{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]'''|'''3'''|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]|'''1'''
+}}
+
+== Round of 16 ==
+
+===Summary===
+<section begin=R16 />
+The draw for the round of 16 was held on 17 December 2010.<ref>{{cite news|url=https://www.uefa.com/uefachampionsleague/news/0254-0d7cd820f0ed-c272d56668b0-1000--holders-inter-face-bayern-in-final-rematch/|title=Holders Inter face Bayern in final rematch|date=17 December 2010|website=[[UEFA]]|access-date=12 May 2022|archive-date=12 May 2022|archive-url=https://web.archive.org/web/20220512202748/https://www.uefa.com/uefachampionsleague/news/0254-0d7cd820f0ed-c272d56668b0-1000--holders-inter-face-bayern-in-final-rematch/|url-status=live}}</ref> The first legs of the round of 16 were played on 15, 16, 22 and 23 February, and the second legs were played on 8, 9, 15 and 16 March 2011.
+
+{{#invoke:Sports series|main|generate_links=y
+|[[AS Roma|Roma]]|ITA|2–6|[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|UKR|2–3|0–3
+|[[AC Milan|Milan]]|ITA|0–1|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|ENG|0–1|0–0
+|[[Valencia CF|Valencia]]|ESP|2–4|[[FC Schalke 04|Schalke 04]]|GER|1–1|1–3
+|[[Inter Milan|Internazionale]]|ITA|3–3 (a)|[[FC Bayern Munich|Bayern Munich]]|GER|0–1|3–2
+|[[Olympique Lyonnais|Lyon]]|FRA+1974|1–4|[[Real Madrid CF|Real Madrid]]|ESP|1–1|0–3
+|[[Arsenal F.C.|Arsenal]]|ENG|3–4|[[FC Barcelona|Barcelona]]|ESP|2–1|1–3
+|[[Olympique de Marseille|Marseille]]|FRA+1974|1–2|[[Manchester United F.C.|Manchester United]]|ENG|0–0|1–2
+|[[F.C. Copenhagen|Copenhagen]]|DEN|0–2|[[Chelsea F.C.|Chelsea]]|ENG|0–2|0–0
+}}<section end=R16 />
+
+=== Matches ===
+{{Football box
+|date       = {{Start date|2011|2|16|df=y}}
+|time       = 20:45
+|team1      = [[AS Roma|Roma]] {{fbaicon|ITA}}
+|score      = 2–3
+|team2      = {{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1     =
+*[[Răzvan Raț|Raț]] {{goal|28|o.g.}}
+*[[Jérémy Ménez|Ménez]] {{goal|61}}
+|goals2     =
+*[[Jádson]] {{goal|29}}
+*[[Douglas Costa]] {{goal|36}}
+*[[Luiz Adriano]] {{goal|41}}
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 35,873
+|referee    = [[Olegário Benquerença]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003751/
+}}
+{{Football box
+|date       = {{Start date|2011|3|8|df=y}}
+|time       = 20:45 {{small|(21:45 [[UTC+02:00|UTC+2]])}}
+|team1      = Shakhtar Donetsk {{fbaicon|UKR}}
+|score      = 3–0
+|team2      = {{fbaicon|ITA}} Roma
+|goals1     =
+*[[Willian (footballer, born 1988)|Willian]] {{goal|18||58}}
+*[[Eduardo da Silva|Eduardo]] {{goal|87}}
+|goals2     =
+|stadium    = [[Donbas Arena]], [[Donetsk]]
+|attendance = 46,543
+|referee    = [[Howard Webb]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003761/
+}}
+''Shakhtar Donetsk won 6–2 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2011|2|15|df=y}}
+|time       = 20:45
+|team1      = [[AC Milan|Milan]] {{fbaicon|ITA}}
+|score      = 0–1
+|team2      = {{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1     =
+|goals2     =
+*[[Peter Crouch|Crouch]] {{goal|80}}
+|stadium    = [[San Siro]], [[Milan]]
+|attendance = 75,652
+|referee    = [[Stéphane Lannoy]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003752/
+}}
+{{Football box
+|date       = {{Start date|2011|3|9|df=y}}
+|time       = 20:45 {{small|(19:45 [[UTC+00:00|UTC+0]])}}
+|team1      = Tottenham Hotspur {{fbaicon|ENG}}
+|score      = 0–0
+|team2      = {{fbaicon|ITA}} Milan
+|goals1     =
+|goals2     =
+|stadium    = [[White Hart Lane]], [[London]]
+|attendance = 34,320
+|referee    = [[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003762/
+}}
+''Tottenham Hotspur won 1–0 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2011|2|15|df=y}}
+|time       = 20:45
+|team1      = [[Valencia CF|Valencia]] {{fbaicon|ESP}}
+|score      = 1–1
+|team2      = {{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|goals1     =
+*[[Roberto Soldado|Soldado]] {{goal|17}}
+|goals2     =
+*[[Raúl (footballer)|Raúl]] {{goal|64}}
+|stadium    = [[Mestalla Stadium|Mestalla]], [[Valencia]]
+|attendance = 42,703
+|referee    = [[Aleksei Nikolaev (referee)|Aleksei Nikolaev]] ([[Russian Football Union|Russia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003755/
+}}
+{{Football box
+|date       = {{Start date|2011|3|9|df=y}}
+|time       = 20:45
+|team1      = Schalke 04 {{fbaicon|GER}}
+|score      = 3–1
+|team2      = {{fbaicon|ESP}} Valencia
+|goals1     =
+*[[Jefferson Farfán|Farfán]] {{goal|40||90+4}}
+*[[Mario Gavranović|Gavranović]] {{goal|52}}
+|goals2     =
+*[[Ricardo Costa (footballer, born 1981)|R. Costa]] {{goal|17}}
+|stadium    = [[Veltins-Arena]], [[Gelsenkirchen]]
+|attendance = 53,517
+|referee    = [[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003765/
+}}
+''Schalke 04 won 4–2 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2011|2|23|df=y}}
+|time       = 20:45
+|team1      = [[Inter Milan|Internazionale]] {{fbaicon|ITA}}
+|score      = 0–1
+|team2      = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+|goals2     =
+*[[Mario Gómez|Gómez]] {{goal|90}}
+|stadium    = [[San Siro]], [[Milan]]
+|attendance = 75,925
+|referee    = [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003756/
+}}
+{{Football box
+|date       = {{Start date|2011|3|15|df=y}}
+|time       = 20:45
+|team1      = Bayern Munich {{fbaicon|GER}}
+|score      = 2–3
+|team2      = {{fbaicon|ITA}} Internazionale
+|goals1     =
+*[[Mario Gómez|Gómez]] {{goal|21}}
+*[[Thomas Müller|Müller]] {{goal|31}}
+|goals2     =
+*[[Samuel Eto'o|Eto'o]] {{goal|4}}
+*[[Wesley Sneijder|Sneijder]] {{goal|63}}
+*[[Goran Pandev|Pandev]] {{goal|88}}
+|stadium    = [[Allianz Arena]], [[Munich]]
+|attendance = 66,000
+|referee    = [[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003766/
+}}
+''3–3 on aggregate; Internazionale won on away goals.''
+----
+{{Football box
+|date       = {{Start date|2011|2|22|df=y}}
+|time       = 20:45
+|team1      = [[Olympique Lyonnais|Lyon]] {{fbaicon|FRA|1974}}
+|score      = 1–1
+|team2      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1     =
+*[[Bafétimbi Gomis|Gomis]] {{goal|83}}
+|goals2     =
+*[[Karim Benzema|Benzema]] {{goal|65}}
+|stadium    = [[Stade de Gerland]], [[Lyon]]
+|attendance = 40,299
+|referee    = [[Wolfgang Stark]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003757/
+}}
+{{Football box
+|date       = {{Start date|2011|3|16|df=y}}
+|time       = 20:45
+|team1      = Real Madrid {{fbaicon|ESP}}
+|score      = 3–0
+|team2      = {{fbaicon|FRA|1974}} Lyon
+|goals1     =
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|37}}
+*[[Karim Benzema|Benzema]] {{goal|66}}
+*[[Ángel Di María|Di María]] {{goal|76}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 70,034
+|referee    = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003763/
+}}
+''Real Madrid won 4–1 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2011|2|16|df=y}}
+|time       = 20:45 {{small|(19:45 [[UTC+00:00|UTC+0]])}}
+|team1      = [[Arsenal F.C.|Arsenal]] {{fbaicon|ENG}}
+|score      = 2–1
+|team2      = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+*[[Robin van Persie|Van Persie]] {{goal|78}}
+*[[Andrey Arshavin|Arshavin]] {{goal|83}}
+|goals2     =
+*[[David Villa|Villa]] {{goal|26}}
+|stadium    = [[Emirates Stadium]], [[London]]
+|attendance = 59,927
+|referee    = [[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003758/
+}}
+{{Football box
+|date       = {{Start date|2011|3|8|df=y}}
+|time       = 20:45
+|team1      = Barcelona {{fbaicon|ESP}}
+|score      = 3–1
+|team2      = {{fbaicon|ENG}} Arsenal
+|goals1     =
+*[[Lionel Messi|Messi]] {{goal|45+3||71|pen.}}
+*[[Xavi (footballer, born 1980)|Xavi]] {{goal|69}}
+|goals2     =
+*[[Sergio Busquets|Busquets]] {{goal|53|o.g.}}
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 95,486
+|referee    = [[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003764/
+}}
+''Barcelona won 4–3 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2011|2|23|df=y}}
+|time       = 20:45
+|team1      = [[Olympique de Marseille|Marseille]] {{fbaicon|FRA|1974}}
+|score      = 0–0
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+|goals2     =
+|stadium    = [[Stade Vélodrome]], [[Marseille]]
+|attendance = 57,957
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003753/
+}}
+{{Football box
+|date       = {{Start date|2011|3|15|df=y}}
+|time       = 20:45 {{small|(19:45 [[UTC+00:00|UTC+0]])}}
+|team1      = Manchester United {{fbaicon|ENG}}
+|score      = 2–1
+|team2      = {{fbaicon|FRA|1974}} Marseille
+|goals1     =
+*[[Javier Hernández|Hernández]] {{goal|5||75}}
+|goals2     =
+*[[Wes Brown|Brown]] {{goal|82|o.g.}}
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 73,996
+|referee    = [[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003759/
+}}
+''Manchester United won 2–1 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2011|2|22|df=y}}
+|time       = 20:45
+|team1      = [[F.C. Copenhagen|Copenhagen]] {{fbaicon|DEN}}
+|score      = 0–2
+|team2      = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     =
+|goals2     =
+*[[Nicolas Anelka|Anelka]] {{goal|17||54}}
+|stadium    = [[Parken Stadium]], [[Copenhagen]]
+|attendance = 36,713
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003754/
+}}
+{{Football box
+|date       = {{Start date|2011|3|16|df=y}}
+|time       = 20:45 {{small|(19:45 [[UTC+00:00|UTC+0]])}}
+|team1      = Chelsea {{fbaicon|ENG}}
+|score      = 0–0
+|team2      = {{fbaicon|DEN}} Copenhagen
+|goals1     =
+|goals2     =
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance = 36,454
+|referee    = [[Svein Oddvar Moen]] ([[Football Association of Norway|Norway]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2003760/
+}}
+''Chelsea won 2–0 on aggregate.''
+
+== Quarter-finals ==
+
+===Summary===
+<section begin=QF />
+The draw for the quarter-finals was held on 18 March 2011.<ref name="draw QF-SF-F">{{cite news|url=https://www.uefa.com/uefachampionsleague/news/01ef-0ea5abbb6da9-cdf0bb9ebfbd-1000--champions-league-quarter-final-draw/|title=Champions League quarter-final draw|date=18 March 2011|website=[[UEFA]]|access-date=12 May 2022|archive-date=12 May 2022|archive-url=https://web.archive.org/web/20220512202749/https://www.uefa.com/uefachampionsleague/news/01ef-0ea5abbb6da9-cdf0bb9ebfbd-1000--champions-league-quarter-final-draw/|url-status=live}}</ref> The first legs were played on 5 and 6 April, and the second legs were played on 12 and 13 April 2011.
+
+{{#invoke:Sports series|main|generate_links=y
+|[[Real Madrid CF|Real Madrid]]|ESP|5–0|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|ENG|4–0|1–0
+|[[Chelsea F.C.|Chelsea]]|ENG|1–3|[[Manchester United F.C.|Manchester United]]|ENG|0–1|1–2
+|[[FC Barcelona|Barcelona]]|ESP|6–1|[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|UKR|5–1|1–0
+|[[Inter Milan|Internazionale]]|ITA|3–7|[[FC Schalke 04|Schalke 04]]|GER|2–5|1–2
+}}<section end=QF />
+
+=== Matches ===
+{{Football box
+|date       = {{Start date|2011|4|5|df=y}}
+|time       = 20:45
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 4–0
+|team2      = {{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1     =
+*[[Emmanuel Adebayor|Adebayor]] {{goal|4||57}}
+*[[Ángel Di María|Di María]] {{goal|72}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|87}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 71,657
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007730/
+}}
+{{Football box
+|date       = {{Start date|2011|4|13|df=y}}
+|time       = 20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1      = Tottenham Hotspur {{fbaicon|ENG}}
+|score      = 0–1
+|team2      = {{fbaicon|ESP}} Real Madrid
+|goals1     =
+|goals2     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|50}}
+|stadium    = [[White Hart Lane]], [[London]]
+|attendance = 34,311
+|referee    = [[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007736/
+}}
+''Real Madrid won 5–0 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2011|4|6|df=y}}
+|time       = 20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Chelsea F.C.|Chelsea]] {{fbaicon|ENG}}
+|score      = 0–1
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+|goals2     =
+*[[Wayne Rooney|Rooney]] {{goal|24}}
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance = 37,915
+|referee    = [[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007731/
+}}
+{{Football box
+|date       = {{Start date|2011|4|12|df=y}}
+|time       = 20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1      = Manchester United {{fbaicon|ENG}}
+|score      = 2–1
+|team2      = {{fbaicon|ENG}} Chelsea
+|goals1     =
+*[[Javier Hernández|Hernández]] {{goal|43}}
+*[[Park Ji-sung]] {{goal|78}}
+|goals2     =
+*[[Didier Drogba|Drogba]] {{goal|77}}
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 74,672
+|referee    = [[Olegário Benquerença]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007737/
+}}
+''Manchester United won 3–1 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2011|4|6|df=y}}
+|time       = 20:45
+|team1      = [[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score      = 5–1
+|team2      = {{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1     =
+*[[Andrés Iniesta|Iniesta]] {{goal|2}}
+*[[Dani Alves]] {{goal|34}}
+*[[Gerard Piqué|Piqué]] {{goal|53}}
+*[[Seydou Keita|Keita]] {{goal|61}}
+*[[Xavi (footballer, born 1980)|Xavi]] {{goal|86}}
+|goals2     =
+*[[Yaroslav Rakitskiy|Rakitskiy]] {{goal|60}}
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 86,518
+|referee    = [[Craig Thomson (referee)|Craig Thomson]] ([[Scottish Football Association|Scotland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007732/
+}}
+{{Football box
+|date       = {{Start date|2011|4|12|df=y}}
+|time       = 20:45 {{small|(21:45 [[UTC+03:00|UTC+3]])}}
+|team1      = Shakhtar Donetsk {{fbaicon|UKR}}
+|score      = 0–1
+|team2      = {{fbaicon|ESP}} Barcelona
+|goals1     =
+|goals2     =
+*[[Lionel Messi|Messi]] {{goal|43}}
+|stadium    = [[Donbass Arena]], [[Donetsk]]
+|attendance = 51,759
+|referee    = [[Florian Meyer (referee)|Florian Meyer]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007734/
+}}
+''Barcelona won 6–1 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2011|4|5|df=y}}
+|time       = 20:45
+|team1      = [[Inter Milan|Internazionale]] {{fbaicon|ITA}}
+|score      = 2–5
+|team2      = {{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|goals1     =
+*[[Dejan Stanković|Stanković]] {{goal|1}}
+*[[Diego Milito|Milito]] {{goal|34}}
+|goals2     =
+*[[Joël Matip|Matip]] {{goal|17}}
+*[[Eduardo Gonçalves de Oliveira|Edu]] {{goal|40||75}}
+*[[Raúl (footballer)|Raúl]] {{goal|53}}
+*[[Andrea Ranocchia|Ranocchia]] {{goal|57|o.g.}}
+|stadium    = [[San Siro]], [[Milan]]
+|attendance = 72,770
+|referee    = [[Martin Atkinson]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007733/
+}}
+{{Football box
+|date       = {{Start date|2011|4|13|df=y}}
+|time       = 20:45
+|team1      = Schalke 04 {{fbaicon|GER}}
+|score      = 2–1
+|team2      = {{fbaicon|ITA}} Internazionale
+|goals1     =
+*[[Raúl (footballer)|Raúl]] {{goal|45}}
+*[[Benedikt Höwedes|Höwedes]] {{goal|81}}
+|goals2     =
+*[[Thiago Motta|Motta]] {{goal|49}}
+|stadium    = [[Veltins-Arena]], [[Gelsenkirchen]]
+|attendance = 54,142
+|referee    = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007735/
+}}
+''Schalke 04 won 7–3 on aggregate.''
+
+== Semi-finals ==
+
+===Summary===
+<section begin=SF />
+The draw for the semi-finals was held on 18 March 2011, after the quarter-final draw.<ref name="draw QF-SF-F"/> The first legs were played on 26 and 27 April, and the second legs were played on 3 and 4 May 2011.
+
+{{#invoke:Sports series|main|generate_links=y
+|[[FC Schalke 04|Schalke 04]]|GER|1–6|[[Manchester United F.C.|Manchester United]]|ENG|0–2|1–4
+|[[Real Madrid CF|Real Madrid]]|ESP|1–3|[[FC Barcelona|Barcelona]]|ESP|0–2|1–1
+}}<section end=SF />
+
+=== Matches ===
+{{Football box
+|date       = {{Start date|2011|4|26|df=y}}
+|time       = 20:45
+|team1      = [[FC Schalke 04|Schalke 04]] {{fbaicon|GER}}
+|score      = 0–2
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+|goals2     =
+*[[Ryan Giggs|Giggs]] {{goal|67}}
+*[[Wayne Rooney|Rooney]] {{goal|69}}
+|stadium    = [[Veltins-Arena]], [[Gelsenkirchen]]
+|attendance = 54,142
+|referee    = [[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007743/
+}}
+{{Football box
+|date       = {{Start date|2011|5|4|df=y}}
+|time       = 20:45 {{small|(19:45 [[UTC+01:00|UTC+1]])}}
+|team1      = Manchester United {{fbaicon|ENG}}
+|score      = 4–1
+|team2      = {{fbaicon|GER}} Schalke 04
+|goals1     =
+*[[Antonio Valencia|Valencia]] {{goal|26}}
+*[[Darron Gibson|Gibson]] {{goal|31}}
+*[[Anderson (footballer, born 1988)|Anderson]] {{goal|72||76}}
+|goals2     =
+*[[José Manuel Jurado|Jurado]] {{goal|35}}
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 74,687
+|referee    = [[Pedro Proença]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007744/
+}}
+''Manchester United won 6–1 on aggregate.''
+----
+{{Football box
+|date       = {{Start date|2011|4|27|df=y}}
+|time       = 20:45
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 0–2
+|team2      = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+|goals2     =
+*[[Lionel Messi|Messi]] {{goal|76||87}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 71,567
+|referee    = [[Wolfgang Stark]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007742/
+}}
+{{Football box
+|date       = {{Start date|2011|5|3|df=y}}
+|time       = 20:45
+|team1      = Barcelona {{fbaicon|ESP}}
+|score      = 1–1
+|team2      = {{fbaicon|ESP}} Real Madrid
+|goals1     =
+*[[Pedro (footballer, born July 1987)|Pedro]] {{goal|54}}
+|goals2     =
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|64}}
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 95,701
+|referee    = [[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2007745/
+}}
+''Barcelona won 3–1 on aggregate.''
+
+== Final ==
+<section begin=F />
+{{Main|2011 UEFA Champions League final}}
+
+The 2011 UEFA Champions League Final was played on 28 May 2011 at [[Wembley Stadium]] in [[London]], England. A draw was held on 18 March 2011, after the quarter-final and semi-final draws, to determine the "home" team for administrative purposes.<ref name="draw QF-SF-F"/>
+{{:2011 UEFA Champions League final}}<section end=F />
+
+== Notes ==
+{{reflist|group=note}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[https://web.archive.org/web/20110911145135/http://www.uefa.com/uefachampionsleague/season=2011/index.html 2010–11 UEFA Champions League], UEFA.com
+
+{{UEFA Champions League phases}}
+{{2010–11 in European football (UEFA)}}
+
+{{DEFAULTSORT:2010-11 UEFA Champions League knockout phase}}
+[[Category:2010–11 UEFA Champions League|*3]]
+[[Category:UEFA Champions League knockout phases|2010-11]]

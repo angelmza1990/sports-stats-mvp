@@ -1,0 +1,166 @@
+{{Infobox football match
+|              title = Copa del Generalísimo 1974 final
+|              image =
+|              event = [[1973–74 Copa del Generalísimo]]
+|              team1 = [[Real Madrid]]
+|         team1score = 4
+|              team2 = [[FC Barcelona|Barcelona]]
+|         team2score = 0
+|            details =
+|               date = 28 June 1974
+|            stadium = [[Vicente Calderón Stadium|Vicente Calderón]]
+|               city = [[Madrid]]
+| man_of_the_match1a =
+|            referee = [[Antonio Sánchez Ríos]]
+|         attendance = 48,000<ref>{{cite web|url=http://www.linguasport.com/futbol/nacional/copa/copa74.htm|archive-url=https://web.archive.org/web/20030918170726/http://www.linguasport.com/futbol/nacional/copa/Copa74.htm|url-status=usurped|archive-date=September 18, 2003|title=Copa del Generalísimo 1973-74}}</ref>
+|            weather =
+|           previous = [[1973 Copa del Generalísimo final|1973]]
+|               next = [[1975 Copa del Generalísimo final|1975]]
+}}
+{{main|1973–74 Copa del Generalísimo}}
+
+The '''Copa del Generalísimo 1974 final''' was the 72nd final of the [[Copa del Rey|King's Cup]]. It was played at [[Vicente Calderón Stadium]] in [[Madrid]] on 28 June 1974, with [[Real Madrid CF|Real Madrid]] beating [[FC Barcelona|Barcelona]] 4–0 for their 12th title.
+{{-}}
+
+==Match details==
+{{footballbox
+|date=28 June 1974
+|time=21:00 [[Central European Time|CET]]
+|team1=[[Real Madrid]]
+|score= 4–0
+|report={{usurped|1=[https://web.archive.org/web/20030918170726/http://www.linguasport.com/futbol/nacional/copa/Copa74.htm Report]}} {{in lang|es}}
+|team2=[[FC Barcelona|Barcelona]]
+|goals1=[[Santillana (footballer)|Santillana]] {{goal|5}}<br />[[Benito Rubiñán|Rubiñán]] {{goal|46}}<br />[[Francisco Javier Aguilar García|Aguilar]] {{goal|50}}<br />[[Pirri]] {{goal|83}}
+|goals2=
+|stadium=[[Vicente Calderón Stadium]], [[Madrid]]
+|attendance=48,000
+|referee=[[Antonio Sánchez Ríos]]
+}}
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ | pattern_la =  
+ | pattern_b  = _vneck
+ | pattern_ra =  
+ | pattern_so = 
+ | leftarm    = ffffff
+ | body       = ffffff
+ | rightarm   = ffffff
+ | shorts     = FFFFFF
+ | socks      = ffffff
+ | title      = Real Madrid
+}}
+{{col-2}}
+{{Football kit
+| pattern_la=_fcbarcelona70h
+| pattern_b=_fcbarcelona70h
+| pattern_ra=_fcbarcelona70h
+| pattern_sh=_fcbarcelona70h
+| pattern_so=_fcbarcelona70h 
+| leftarm=
+| body=
+| rightarm=
+| shorts=
+| socks=
+| title = Barcelona
+}}
+{{col-end}}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|'''Real Madrid:'''
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP|1945}} [[Miguel Ángel González Suárez|Miguel Ángel]]
+|-
+|DF ||'''2'''||{{flagicon|ESP|1945}} [[José Luis López Peinado|José Luis]] || || {{suboff|84}}
+|-
+|DF ||'''3'''||{{flagicon|ESP|1945}} [[Pirri]]
+|-
+|DF ||'''4'''||{{flagicon|ESP|1945}} [[Gregorio Benito]] || {{yel|51}}
+|-
+|DF ||'''5''' ||{{flagicon|ESP|1945}} [[Benito Rubiñán]]
+|-
+|MF ||'''6''' ||{{flagicon|ESP|1945}} [[Vicente del Bosque]] || {{yel|71}}
+|-
+|MF ||'''7'''||{{flagicon|ESP|1945}} [[Manuel Velázquez]]
+|-
+|MF ||'''8'''||{{flagicon|ESP|1945}} [[Ramón Grosso]] ([[Captain (association football)|c]]) || || {{suboff|84}}
+|-
+|FW ||'''9''' ||{{flagicon|ESP|1945}} [[Francisco Javier Aguilar García|Francisco Aguilar]] 
+|-
+|FW||'''10'''||{{flagicon|ESP|1945}} [[Santillana (footballer)|Santillana]] 
+|-
+|FW||'''11'''||{{flagicon|ESP|1945}} [[José Macanás Pérez|José Macanás]] 
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|DF ||12||{{flagicon|ESP|1945}} [[Juan Carlos Touriño]]  || || {{subon|84}}
+|-
+|MF ||14||{{flagicon|ESP|1945}} [[Ignacio Zoco]]  ||  || {{subon|84}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ESP|1945}} [[Luis Molowny]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|'''FC Barcelona:'''
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP|1945}} [[Salvador Sadurní]]
+|-
+|DF ||'''2'''||{{flagicon|ESP|1945}} [[Antonio de la Cruz]]
+|-
+|DF ||'''3'''||{{flagicon|ESP|1945}} [[Gallego (footballer)|Gallego]] || {{yel|44}}
+|-
+|DF ||'''4'''||{{flagicon|ESP|1945}} [[Quique Costas]] || {{yel|40}}
+|-
+|DF ||'''5''' ||{{flagicon|ESP|1945}} [[Joaquim Rifé]]
+|-
+|MF ||'''6''' ||{{flagicon|ESP|1945}} [[Juan Carlos Pérez López (footballer born 1945)|Juan Carlos]] ([[Captain (association football)|c]])
+|-
+|MF ||'''7'''||{{flagicon|ESP|1945}} [[Juan Manuel Asensi]] || || {{suboff|56}}
+|-
+|MF ||'''8'''||{{flagicon|ESP|1945}} [[Marcial Pina|Marcial]] 
+|-
+|FW ||'''9'''||{{flagicon|ESP|1945}} [[Carles Rexach]]
+|-
+|FW||'''10'''||{{flagicon|ESP|1945}} [[Manuel Clares]]
+|-
+|FW||'''11'''||{{flagicon|ESP|1945}} [[Juanito (footballer, born 1948)|Juanito]] || {{yel|53}}
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|FW ||12||{{flagicon|ESP|1945}} [[Narciso Martí Filosía]] || || {{subon|56}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ESP|1945}} [[Rodri (footballer, born 1934)|Rodri]]
+|-
+|}
+|}
+
+==See also==
+*[[El Clásico]]
+
+==References==
+{{reflist}}
+
+{{Copa del Rey Finals}}
+{{Real Madrid matches}}
+{{FC Barcelona matches}}
+
+{{Portal bar|Association football|Spain}}
+
+{{DEFAULTSORT:Copa Del Generalisimo final 1974}}
+[[Category:Copa del Rey finals|1974]]
+[[Category:1973–74 in Spanish football|Copa]]
+[[Category:FC Barcelona matches]]
+[[Category:Real Madrid CF matches]]
+[[Category:El Clásico matches]]
+[[Category:June 1974 sports events in Europe]]
+[[Category:Football matches in Madrid]]
+[[Category:1970s in Madrid]]

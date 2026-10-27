@@ -1,0 +1,188 @@
+{{Infobox football match
+|              title = Copa del Rey 1990 final
+|              image =
+|              event = [[1989–90 Copa del Rey]]
+|              team1 = [[FC Barcelona|Barcelona]]
+|         team1score = 2
+|              team2 = [[Real Madrid C.F.|Real Madrid]]
+|         team2score = 0
+|            details =
+|               date = 5 April 1990
+|            stadium = [[Mestalla Stadium]]
+|               city = [[Valencia]]
+| man_of_the_match1a =
+|            referee = [[Raúl García de Loza]]
+|         attendance = 45,250<ref>{{usurped|1={{Deprecated archive|url=https://archive.today/20130103164845/http://www.linguasport.com/futbol/nacional/copa/copa90.htm|title=Copa del Rey 1990}}}}</ref>
+|            weather =
+|           previous = [[1989 Copa del Rey final|1989]]
+|               next = [[1991 Copa del Rey final|1991]]
+}}
+{{main|1989–90 Copa del Rey}}
+The '''1990 Copa del Rey final''' was the 88th final of the [[Copa del Rey|King's Cup]]. The final was played at [[Mestalla Stadium]] in [[Valencia]] on 5 April 1990, and was won by [[FC Barcelona|Barcelona]], who beat [[Real Madrid C.F.|Real Madrid]] 2–0.
+
+{{clear}}
+
+==Details==
+{{footballbox
+|date=5 April 1990
+|time=20:00 [[Central European Time|CET]]
+|team1=[[FC Barcelona|Barcelona]]
+|score=2–0
+|report={{usurped|1=[https://web.archive.org/web/20070228144128/http://www.linguasport.com/futbol/nacional/copa/Copa83.htm Report]}} 
+|team2=[[Real Madrid C.F.|Real Madrid]]
+|goals1=[[Guillermo Amor|Amor]] {{goal|68}}<br>[[Julio Salinas|Salinas]] {{goal|90}}
+|goals2=
+|stadium=[[Mestalla Stadium]], [[Valencia]]
+|attendance=45,250
+|referee=[[Raúl García de Loza]]
+}}
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _fcbarcelona8089h
+| pattern_b             = _barcelona8089h
+| pattern_ra            = _fcbarcelona8089h
+| pattern_sh            = _barcelona8089 
+| pattern_so            = _barcelona92h
+| leftarm               = 
+| body                 =  
+| rightarm              = 
+| shorts               = 
+| socks                 =1524D5 
+ | title           = Barcelona
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _rmcf8689 
+| pattern_b         = _rmcf8990
+| pattern_ra        = _rmcf8689
+| pattern_sh        = _rmcf8689 
+| pattern_so        = _bluestripe
+| leftarm           = 
+| body             = 
+| rightarm           =  
+| shorts             =ffffff
+| socks              =ffffff
+|title            = Real Madrid
+}}
+{{col-end}}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Andoni Zubizarreta]]
+|-
+|RB ||'''3''' ||{{flagicon|ESP}} [[José Ramón Alexanko]] ([[Captain (association football)|c]]) || {{yel|88}}
+|-
+|CB ||'''4''' ||{{flagicon|NED}} [[Ronald Koeman]] || {{yel|61}}
+|-
+|LB ||'''2''' ||{{flagicon|BRA|1968}} [[Aloísio Pires Alves|Aloísio]] || || {{suboff|23}}
+|-
+|RM ||'''5''' ||{{flagicon|ESP}} [[Guillermo Amor]] || {{yel|6}} || {{suboff|70}}
+|-
+|CM ||'''6''' ||{{flagicon|ESP}} [[José Mari Bakero]]
+|-
+|CM ||'''10'''||{{flagicon|ESP}} [[Roberto Fernández Bonillo|Roberto]]
+|-
+|LM ||'''8''' ||{{flagicon|ESP}} [[Eusebio Sacristán|Eusebio]]
+|-
+|RF ||'''9''' ||{{flagicon|DEN}} [[Michael Laudrup]]
+|-
+|CF ||'''7''' ||{{flagicon|ESP}} [[Julio Salinas]] || {{yel|51}}
+|-
+|LF ||'''11'''||{{flagicon|ESP}} [[Txiki Begiristain]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|CB ||'''12''' ||{{flagicon|ESP}} [[Ricardo Serna]]  || || {{subon|23}}
+|-
+|GK ||'''13''' ||{{flagicon|ESP}} [[Juan Carlos Unzué]]
+|-
+|FW ||'''14''' ||{{flagicon|ESP}} [[Ernesto Valverde]]
+|-
+|RB ||'''15''' ||{{flagicon|ESP}} [[Luis López Rekarte]]
+|-
+|LB ||'''16'''||{{flagicon|ESP}} [[Miquel Soler]]  || || {{subon|70}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|NED}} [[Johan Cruyff]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1''' ||{{flagicon|ESP}} [[Francisco Buyo]]
+|-
+|RB ||'''2''' ||{{flagicon|ESP}} [[Chendo]] ([[Captain (association football)|c]])
+|-
+|CB ||'''6''' ||{{flagicon|ARG}} [[Oscar Ruggeri]]
+|-
+|LB ||'''5''' ||{{flagicon|ESP}} [[Manuel Sanchís Hontiyuelo|Manuel Sanchís]]
+|-
+|RM ||'''10'''||{{flagicon|ESP}} [[Rafael Martín Vázquez]]
+|-
+|CM ||'''8''' ||{{flagicon|ESP}} [[Míchel (footballer, born 1963)|Míchel]] || {{yel|3}} || ||{{suboff|75}}
+|-
+|CM ||'''4''' ||{{flagicon|ESP}} [[Fernando Hierro]] || {{sent off|2|32|45}}
+|-
+|CM ||'''11'''||{{flagicon|FRG}} [[Bernd Schuster]]
+|-
+|LM ||'''3''' ||{{flagicon|ESP}} [[Rafael Gordillo]]
+|-
+|RF ||'''7''' ||{{flagicon|ESP}} [[Emilio Butragueño]] || || ||{{suboff|63}}
+|-
+|LF ||'''9''' ||{{flagicon|MEX}} [[Hugo Sánchez]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|RM ||'''12'''||{{flagicon|ESP}} [[Adolfo Aldana]] || || ||{{subon|75}}
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Agustín (footballer)|Agustín]]
+|-
+|CB ||'''14'''||{{flagicon|ESP}} [[Miguel Tendillo]]
+|-
+|RB ||'''15'''||{{flagicon|ESP}} [[Julio Llorente]] || || ||{{subon|63}}
+|-
+|LB ||'''16'''||{{flagicon|ESP}} [[Jesús Ángel Solana|Jesús Solana]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|WAL}} [[John Benjamin Toshack]]
+|}
+|}
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''MATCH RULES'''
+*90 minutes.
+*30 minutes of extra-time if necessary.
+*Penalty shoot-out if scores still level.
+*Five named substitutes.
+*Maximum of two substitutions.
+|}
+
+==See also==
+*[[El Clásico]]
+
+==References==
+{{reflist}}
+
+{{Copa del Rey}}
+{{FC Barcelona matches}}
+{{Real Madrid CF matches}}
+
+{{Portal bar|Association football|Spain}}
+
+{{DEFAULTSORT:Copa Del Rey final 1990}}
+[[Category:Copa del Rey finals|1990]]
+[[Category:1989–90 in Spanish football]]
+[[Category:FC Barcelona matches]]
+[[Category:Real Madrid CF matches]]
+[[Category:El Clásico matches]]
+[[Category:April 1990 sports events in Europe]]
+[[Category:1990 in the Valencian Community]]
+[[Category:Football competitions in Valencia]]
+[[Category:1990s in Valencia]]

@@ -1,0 +1,204 @@
+{{Infobox football match
+| title = 1936 Copa del Presidente de la República final
+| image = Realmadrid equipo v barcelona 1936.jpg
+| image_size = 200
+| caption = Starting line-up of Real Madrid, champions
+| event = [[1936 Copa del Presidente de la República]]
+| team1 = [[Real Madrid CF|Madrid FC]]
+| team1score =2
+| team2 = [[FC Barcelona|Barcelona]]
+| team2score =1
+| date = {{Start date|df=yes|1936|6|21}}
+| stadium = [[Mestalla Stadium|Mestalla]]
+| city = [[Valencia]]
+| man_of_the_match1a =
+| referee = Julio Ostalé
+| attendance = 22,000
+| weather =
+| previous = [[1935 Copa del Presidente de la República final|1935]]
+| next = [[1937 Copa de la España Libre#Final|1937]]
+}}
+{{main|1936 Copa del Presidente de la República}}
+The '''1936 Copa del Presidente de la República final''' decided the winner of the [[1936 Copa del Presidente de la República]], the 36th staging of Spain's premier football cup, now known as the [[Copa del Rey]]. The final was the last one before the tournament was cancelled due to the [[Spanish Civil War]] until 1939, and therefore the last one under the "Copa del Predidente de la República" name.
+
+In the match, held on 21 June at the [[Mestalla Stadium|Mestalla]] in [[Valencia]], [[Real Madrid CF|Real Madrid]] (then known as "Madrid FC" for political reasons) defeated [[FC Barcelona|Barcelona]] 2-1 in the first ''[[El Clásico]]'' final. It was Real Madrid's 7th title in their 15th final, while Barcelona appeared for the 16th time and were denied their 13th title.<ref>{{cite web|title=Spain - List of Cup Finals|website=[[RSSSF]]|url=https://www.rsssf.org/tabless/spancuphist.html|access-date=18 April 2014}}</ref>
+
+The match is remembered for the "impossible save" by Madrid goalkeeper [[Ricardo Zamora]], which denied Barcelona's [[Josep Escolà]] from scoring a last-minute equaliser. This is the most remembered save in the history of Spanish football.<ref>{{cite web|title=Spain - Cup 1936|website=[[RSSSF]]|url=https://www.rsssf.org/tabless/spancup1936.html|access-date=18 April 2014}}</ref>
+
+==Road to the final==
+{{details|1936 Copa del Presidente de la República}}
+{| width="100%" style="text-align:center"
+|- valign=top bgcolor=#99ccff
+!colspan=3 style="width:1*"|Real Madrid
+!'''Round'''
+!colspan=3 style="width:1*"|Barcelona
+|- valign=top bgcolor=#c1e0ff
+|Opponent
+|Result
+|Legs
+|bgcolor=#c1e0ff|
+|Opponent
+|Result
+|Legs
+|-
+|[[Arenas Getxo]]
+|3–3
+|2–1 home; 1–2 away; 6–1 replay
+|bgcolor="#c1e0ff"|Round of 16
+|[[Sporting Gijón]]
+|4–0
+|0–0 away; 4–0 home
+|-
+|[[Athletic Bilbao]]
+|3–1
+|2–1 home; 1–0 away
+|bgcolor="#c1e0ff"|Quarter-finals
+|[[RCD Espanyol|Español]]
+|5–2
+|1–2 away; 4–0 home
+|-
+|[[Hércules CF|Hércules]]
+|8–2
+|7–0 home; 1–2 away
+|bgcolor="#c1e0ff"|Semi-finals
+|[[Osasuna]]
+|9–5
+|2–4 away; 7–1 home
+|}
+
+==Match details==
+{{footballbox
+| date= 21 June 1936
+| time= 17:00 [[Central European Time|CET]]
+| team1= [[Real Madrid|Madrid FC]]
+| score=  2–1
+| report= {{usurped|1={{Deprecated archive|url=https://archive.today/20130104014934/http://www.linguasport.com/futbol/nacional/copa/copa36.htm|title=Report}}}} {{in lang|es}}
+| team2= [[FC Barcelona]]
+| goals1= [[Eugenio Hilario|Eugenio]] {{goal|6}} <br />[[Simón Lecue|Lecue]] {{goal|12}}
+| goals2= [[Josep Escolà|Escolà]] {{goal|29}}
+| stadium= [[Mestalla Stadium]], [[Valencia]]
+| attendance= 22,000
+| referee= Julio Ostalé
+}}
+{{col-begin}}
+{{col-2}}
+{{Football kit
+ |pattern_la =  
+ |pattern_b  = _old laced
+ |pattern_ra =  
+ |pattern_sh = 
+ |pattern_so = _whitetop
+ |leftarm    = 
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = ffffff
+ |socks      = 000000
+ | title      = Madrid FC
+}}
+{{col-2}}
+{{Football kit
+ |pattern_la = _blue3
+ |pattern_b  = _3bluestripes
+ |pattern_ra =  _blue3
+ |pattern_sh = 
+ |pattern_so = _hoops blue2
+ |leftarm    = a60042 
+ |body       = a60042
+ |rightarm   = a60042
+ |shorts     = 3D69AA
+ |socks      = A60042
+ | title      = Barcelona
+}}
+{{col-end}}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"| 
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1'''||{{flagicon|ESP|1931}} [[Ricardo Zamora]] ([[Captain (association football)|c]])
+|-
+|DF ||'''2'''||{{flagicon|ESP|1931}} [[Ciriaco Errasti]]
+|-
+|DF ||'''3'''||{{flagicon|ESP|1931}} [[Jacinto Quincoces]]
+|-
+|MF ||'''4'''||{{flagicon|ESP|1931}} [[Pedro Regueiro]]
+|-
+|MF ||'''5'''||{{flagicon|ESP|1931}} [[Antonio Bonet (footballer)|Antonio Bonet]]
+|-
+|MF ||'''6'''||{{flagicon|MEX|1934}} [[José Ramón Sauto]]
+|-
+|FW ||'''7'''||{{flagicon|ESP|1931}} [[Eugenio Hilario|Eugenio]]
+|-
+|FW ||'''8'''||{{flagicon|ESP|1931}} [[Luis Regueiro]]
+|-
+|FW ||'''9'''||{{flagicon|ESP|1931}} [[Ildefonso Sañudo]]
+|-
+|FW ||'''10'''||{{flagicon|ESP|1931}} [[Simón Lecue]]
+|-
+|FW ||'''11'''||{{flagicon|ESP|1931}} [[Emilio Alonso Larrazábal|Emilín]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|ESP|1931}} [[Francisco Bru]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"| 
+|-
+!width=25| !!width=25|
+|-
+|GK ||'''1''' ||{{flagicon|ESP|1931}} [[José Iborra Blanco|José Iborra]]
+|-
+|DF ||'''2''' ||{{flagicon|ESP|1931}} [[Pedro Areso]]
+|-
+|DF ||'''3''' ||{{flagicon|ESP|1931}} [[José Bayo]]
+|-
+|MF ||'''4''' ||{{flagicon|ESP|1931}} [[José Argemí]]
+|-
+|MF ||'''5'''||{{flagicon|ESP|1931}} [[Antonio Franco (footballer, born 1911)|Antonio Franco]]
+|-
+|MF ||'''6'''||{{flagicon|ESP|1931}} [[Domènec Balmanya]]
+|-
+|FW ||'''7'''||{{flagicon|ESP|1931}} [[Martí Ventolrà]] ([[Captain (association football)|c]])
+|-
+|FW ||'''8'''||{{flagicon|ESP|1931}} [[Josep Raich]]
+|-
+|FW ||'''9'''||{{flagicon|ESP|1931}} [[Josep Escolà]]
+|-
+|FW ||'''10'''||{{flagicon|URU}} [[Enrique Fernández Viola|Enrique Fernández]]
+|-
+|FW ||'''11'''||{{flagicon|ESP|1931}} [[Julio Munlloch]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|IRL}} [[Patrick O'Connell (Irish footballer)|Patrick O'Connell]]
+|}
+|}
+
+==See also==
+*[[El Clásico]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20150214044527/http://www.mundodeportivo.com/futbol/copa-del-rey/index.html MundoDeportivo.com] {{in lang|es}}
+*[http://www.marca.com/edicion/marca/futbol/copa_del_rey/es/index.html Marca.com] {{in lang|es}}
+*[http://www.as.com/futbol/copa-del-rey AS.com] {{in lang|es}}
+
+{{Copa del Rey}}
+{{Real Madrid C.F. matches}}
+{{FC Barcelona matches}}
+{{Portal bar|Association football|Spain}}
+{{Use dmy dates|date=June 2017}}
+
+[[Category:Copa del Rey finals]]
+[[Category:Real Madrid CF matches|Copa Del Rey Final 1936]]
+[[Category:FC Barcelona matches|Copa Del Rey Final 1936]]
+[[Category:1935–36 in Spanish football]]
+[[Category:El Clásico matches|Copa]]
+[[Category:June 1936 sports events in Europe]]
+[[Category:Football competitions in Valencia]]
+[[Category:20th century in Valencia]]

@@ -1,0 +1,115 @@
+{{Infobox football match
+| title                   = 1993 Supercopa de España
+| image                   = 
+| event                   = 
+| team1                   = [[Real Madrid C.F.|Real Madrid]]
+| team1association        = 
+| team1score              = 4
+| team2                   = [[FC Barcelona|Barcelona]]
+| team2association        = 
+| team2score              = 2
+| details                 = on aggregate
+| firstleg                = First leg
+| team1score1             = 3
+| team2score1             = 1
+| details1                = 
+| date1                   = 2 December 1993
+| stadium1                = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+| city1                   = [[Madrid]]
+| man_of_the_match1a      = 
+| man_of_the_match1atitle = 
+| man_of_the_match1b      = 
+| man_of_the_match1btitle = 
+| referee1                = Ansuátegui Roca
+| attendance1             = 
+| weather1                = 
+| secondleg               = Second leg
+| team1score2             = 1
+| team2score2             = 1
+| details2                = 
+| date2                   = 16 December 1993
+| stadium2                = [[Camp Nou]]
+| city2                   = [[Barcelona]]
+| man_of_the_match2a      = 
+| man_of_the_match2atitle = 
+| man_of_the_match2b      = 
+| man_of_the_match2btitle = 
+| referee2                = Díaz Vega
+| attendance2             = 
+| weather2                = 
+| previous                = [[1992 Supercopa de España|1992]]
+| next                    = [[1994 Supercopa de España|1994]]
+}}
+
+The '''1993 Supercopa de España''' was a two-leg [[Football in Spain|Spanish]] [[football (soccer)|football]] fixture played on 2 December and 16 December 1993. It was contested by [[Real Madrid]], who were Spanish Cup winners in 1992–93, and [[FC Barcelona]], who won the [[La Liga 1992–93|1992–93]] Spanish League. Real Madrid won 4&ndash;2 on aggregate.
+
+{{clear}}
+
+==Match details==
+
+===First leg===
+{{football box|
+date= 2 December 1993<br />
+21:00 [[Central European Time|CET]] |
+team1= [[Real Madrid C.F.|Real Madrid]]|
+score= 3&ndash;1 |
+team2=  [[FC Barcelona|Barcelona]] |
+report= | 
+goals1= [[Alfonso Pérez|Alfonso]] {{goal|35||89}}<br /> [[Iván Zamorano|Zamorano]] {{goal|55}} |
+goals2= [[Hristo Stoichkov|Stoichkov]] {{goal|17}} |
+stadium= [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]] |
+attendance= 45,000 |
+referee= Ansuátegui Roca }}
+
+===Second leg===
+{{football box|
+date= 16 December 1993<br />
+21:15 [[Central European Time|CET]] |
+team1= [[FC Barcelona|Barcelona]] |
+score= 1&ndash;1 |
+team2=  [[Real Madrid C.F.|Real Madrid]] |
+report= | 
+goals1= [[José Mari Bakero|Bakero]] {{goal|65}} |
+goals2= [[Iván Zamorano|Zamorano]] {{goal|21}} |
+stadium= [[Camp Nou]], [[Barcelona]] |
+attendance= 65,000 |
+referee= Díaz Vega }}
+
+{| class="wikitable" style="text-align: center; margin: 0 auto; width: 20%"
+|-
+!Supercopa de España <br>1993 Winners
+|-
+|'''[[Real Madrid C.F.|Real Madrid]]'''<br />'''Fourth Title'''
+|}
+
+==See also==
+*[[El Clásico]]
+*[[1993–94 La Liga]]
+*[[1993–94 Copa del Rey]]
+*[[1993–94 FC Barcelona season]]
+*[[1993–94 Real Madrid CF season]]
+
+==References==
+* [https://www.rsssf.org/tabless/spansupcuphist.html List of Super Cup Finals 1993] RSSSF.com
+
+{{Supercopa de España Finals}}
+{{1993–94 in Spanish football}}
+{{FC Barcelona matches}}
+{{Real Madrid matches}}
+
+{{DEFAULTSORT:1993 Supercopa de Espana}}
+[[Category:1993–94 in Spanish football cups|Supercopa de Espana Final]]
+[[Category:Supercopa de España]]
+[[Category:Real Madrid CF matches|Supercopa de Espana 1993]]
+[[Category:FC Barcelona matches|Supercopa de Espana 1993]]
+[[Category:December 1993 sports events in Europe]]
+[[Category:December 1993 in Spain]]
+[[Category:El Clásico matches|Supercopa de España]]
+[[Category:Football competitions in Madrid]]
+[[Category:Football matches in Barcelona]]
+[[Category:1993 in the Community of Madrid]]
+[[Category:1990s in Madrid]]
+[[Category:1990s in Barcelona]]
+[[Category:1993 in Catalan sport]]
+
+{{Spain-footy-competition-stub}}

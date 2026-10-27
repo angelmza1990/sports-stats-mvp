@@ -1,0 +1,241 @@
+{{infobox football tournament season
+|title=[[Copa de la Liga]]
+|other_titles=
+|image=
+|image_size=
+|caption=
+|country= Spain
+|num_teams=18
+|winners=[[FC Barcelona|Barcelona]]
+|second=[[Real Madrid C.F.|Real Madrid]]
+|matches=34
+|goals=108
+|scoring_leader={{flagicon|PAR|1954}} [[Raúl Vicente Amarilla|Raúl Amarilla]] (7)
+|prev_season = 
+|next_season = [[1984 Copa de la Liga|1984]]
+}}
+
+The '''1983 Copa de la Liga''' was the first edition of [[Copa de la Liga]]. The competition started on May 8, 1983, and concluded on June 29, 1983. Due to time constraints, saturation and club pressure, the [[Copa de la Liga]] only lasted four years since 1982, being cancelled in 1986.<ref>[https://www.rsssf.org/tabless/spanleagcuphist.html Spain - List of League Cup Finals] on the RSSSF</ref>
+
+==Format==
+The Copa de la Liga was played by 18 teams of [[1982–83 La Liga]]. All rounds are played over [[two-legged tie|two legs]]. The team that has the higher aggregate score over the two legs progresses to the next round. The [[1982–83 Copa del Rey]] semifinal losers are exempt until second round, and the [[1982–83 Copa del Rey]] final teams are exempt until quarterfinals.
+{|
+|- style="vertical-align: top;"
+|
+*[[Athletic Bilbao]]
+*[[Atlético Madrid]]
+*[[FC Barcelona]]
+*[[Real Betis]]
+*[[Celta de Vigo]]
+||
+*[[RCD Espanyol|RCD Español]]
+*[[UD Las Palmas]]
+*[[Málaga CF]]
+*[[CA Osasuna]]
+*[[Racing Santander]]
+||
+*[[Real Madrid]]
+*[[Real Zaragoza]]
+*[[Real Sociedad]]
+*[[Real Valladolid]]
+*[[UD Salamanca]]
+||
+*[[Sevilla CF]]
+*[[Sporting Gijón]]
+*[[Valencia CF]]
+|}
+
+==First round==
+First leg: 8 May 1983. Second leg: 21 and 22 May 1983.
+
+{{TwoLegStart}}
+{{TwoLegResult|[[Celta de Vigo]] || 4–9 |'''[[RCD Espanyol|RCD Español]]'''|| 3–2 | 1–7 |winner=2}}
+{{TwoLegResult|[[Real Betis]] || 2–2 ([[Penalty kick (association football)|p]])|'''[[Málaga CF]]'''|| 1–0 | 1–2 |winner=2}}
+{{TwoLegResult|'''[[Racing Santander]]'''|| 4–3 |[[Valencia CF]]|| 1–0 | 3–3 |winner=1}}
+{{TwoLegResult|[[UD Salamanca]] || 1–4 |'''[[Atlético Madrid]]'''|| 0–0 | 1–4 |winner=2}}
+{{TwoLegResult|'''[[Real Zaragoza]]'''|| 4–1 |[[Sevilla FC]] || 2–1 | 2–0 |winner=1}}
+{{TwoLegResult|'''[[Athletic Bilbao]]'''||([[Penalty kick (association football)|p]]) 2–2 |[[CA Osasuna]] || 1–1 | 1–1 |winner=1}}
+{{TwoLegResult|'''[[UD Las Palmas]]'''|| 6–2 |[[Real Valladolid]]|| 4–1 | 2–1 |winner=1}}
+|}
+
+==Second round==
+First leg: June 1, 1983. Second leg: June 8, 1983.
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Atlético Madrid]]'''|| 3–2 |[[Athletic Bilbao]]|| 3–0 | 0–2 |winner=1}}
+{{TwoLegResult|'''[[Sporting Gijón]]'''|| 3–2 | [[Málaga CF]]|| 2–2 | 1–0 |winner=1}}
+{{TwoLegResult|[[Racing Santander]]|| 3–6 |'''[[Real Zaragoza]]'''|| 3–2 | 0–4 |winner=2}}
+{{TwoLegResult|'''[[Real Sociedad]]'''|| ([[Penalty kick (association football)|p]]) 2–2 | [[RCD Espanyol|RCD Español]] || 2–2 | 0–0 |winner=1}}
+|}
+*Bye: [[UD Las Palmas]].
+
+== Quarter-finals ==
+First leg: June 12, 1983. Second leg: June 15, 1983.
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Real Madrid]]'''|| 2–1 | [[Real Sociedad]] || 1–0 | 1–1 |winner=1}}
+{{TwoLegResult|'''[[FC Barcelona]]'''|| 1–0 | [[Sporting Gijón]] || 1–0 | 0–0 |winner=1}}
+{{TwoLegResult|[[UD Las Palmas]] || 1–3 |'''[[Atlético Madrid]]'''|| 1–0 | 0–3 |winner=2}}
+|}
+*Bye: [[Real Zaragoza]].
+
+==Semi-finals==
+First leg: June 19, 1983. Second leg: June 22, 1983.
+{{TwoLegStart}}
+{{TwoLegResult|[[Real Zaragoza]]|| 8–8 ([[Penalty kick (association football)|p]])|'''[[Real Madrid]]'''|| 5–3 | 3–5 |winner=2}}
+{{TwoLegResult|[[Atlético Madrid]] || 3–5 |'''[[FC Barcelona]]'''|| 1–0 | 2–5 |winner=2}}
+|}
+
+==Final==
+
+===First leg===
+{{football box
+| date       = 26 June 1983
+| event = 1983 [[Copa de la Liga]] Final
+| round = First leg
+| time       = 
+| team1      = [[Real Madrid CF|Real Madrid]]
+| score      = 2–2
+| team2      = [[FC Barcelona|Barcelona]]
+| stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+| attendance = 
+| referee    = Ildefonso Urizar Azpitarte
+| goals1     = [[Vicente del Bosque|Del Bosque]] {{goal|63}} <br/> [[Juanito (footballer, born 1954)|Juanito]] {{goal|69}}
+| report     = 
+| goals2     = [[Francisco José Carrasco|Carrasco]] {{goal|50}} <br/> [[Diego Maradona|Maradona]] {{goal|57}}
+}}
+----
+
+===Second leg===
+{{football box
+| date       = 29 June 1983
+| time       = 
+| event =  
+| round = Second leg
+| team1      = [[FC Barcelona|Barcelona]]
+| score      = 2–1
+| goals1     = [[Diego Maradona|Maradona]] {{goal|19|pen.}} <br/> [[José Ramón Alexanko|Alexanko]] {{goal|20}}
+| goals2     = [[Santillana (footballer)|Santillana]] {{goal|84}}
+| report = [https://www.rsssf.org/tabless/spanleagcuphist.html Report]
+| team2      = [[Real Madrid CF|Real Madrid]]
+| stadium    = [[Camp Nou]]
+| location = [[Barcelona]]
+| attendance = 
+| referee    = Joaquín Ramos Marcos
+}}
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  _fcbarcelona8089h
+| pattern_b             = _barcelona8089h
+| pattern_ra            = _fcbarcelona8089h
+| pattern_sh            = _barcelona8089
+| pattern_so            = _barcelona92h
+| leftarm               = 
+| body                 =  
+| rightarm              = 
+| shorts               = 
+| socks                 = 1524D5
+ | title           = Barcelona
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _RM1981
+| pattern_b         = _rmcf8286 
+| pattern_ra        = _RM1981
+| pattern_sh        = _blue_stripes_adidas 
+| pattern_so        = _color_3_stripes_blue
+| leftarm           = ffffff
+| body             = ffffff
+| rightarm           = ffffff
+| shorts             = ffffff 
+| socks              = ffffff  
+|title            =  Real Madrid
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||'''1'''|| {{flagicon|SPA}} [[Javier Urruticoechea|Urruti]]
+|-
+| DF ||'''2'''|| {{flagicon|SPA}} [[Tente Sánchez]]  ([[Captain (association football)|c]])
+|-
+| DF ||'''3'''|| {{flagicon|SPA}} [[Migueli]]
+|-
+| DF ||'''6'''|| {{flagicon|SPA}} [[José Ramón Alexanko|Alexanko]]
+|-
+| DF ||'''4'''|| {{flagicon|SPA}} [[Julio Alberto]]
+|-
+| MF ||'''5'''|| {{flagicon|SPA}} [[Víctor Muñoz (footballer, born 1957)|Víctor Muñoz]]
+|-
+| MF ||'''8'''|| {{flagicon|GER}} [[Bernd Schuster]]
+|-
+| MF ||'''9'''|| {{flagicon|SPA}} [[Periko Alonso]]
+|-
+| FW ||'''11'''|| {{flagicon|SPA}} [[Marcos Alonso (footballer, born 1959)|Marcos]] || || {{suboff|76}}
+|-
+| FW ||'''10'''|| {{flagicon|ARG}} [[Diego Maradona]]
+|-
+| FW ||'''7'''|| {{flagicon|SPA}} [[Francisco José Carrasco|Carrasco]]
+|-
+|colspan=3|'''Substitutes:''' 
+|-
+| MF || ''' ''' || [[Esteban Vigo]] || || {{subon|76}}
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|ARG}} [[César Luis Menotti]]
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:0.2em auto;"
+|-
+!width="25"| !!width="25"|
+|-
+| GK ||''' '''|| {{flagicon|SPA}} [[Agustín (footballer)|Agustín]]
+|-
+| DF ||''' '''|| {{flagicon|SPA}} [[Juan José Jiménez Collar|Juan José]]
+|-
+| DF ||''' '''|| {{flagicon|SPA}} [[Isidro Díaz (footballer, born 1972)|Isidro Díaz]]
+|-
+| DF ||''' '''|| {{flagicon|NED}} [[John Metgod]]
+|-
+| DF ||''' '''|| {{flagicon|SPA}} [[José Antonio Salguero|José A. Salguero]] || || {{suboff|16}}
+|-
+| MF ||''' '''|| {{flagicon|SPA}} [[Ricardo Gallego]]
+|-
+| MF ||''' '''|| {{flagicon|SPA}} [[Vicente del Bosque]]
+|-
+| MF ||''' '''|| {{flagicon|SPA}} [[Ángel de los Santos]]
+|-
+| FW ||''' '''|| {{flagicon|SPA}} [[Francisco García Hernández|Francisco García]]
+|-
+| FW ||''' '''|| {{flagicon|SPA}} [[Miguel Ángel Portugal]]
+|-
+| FW ||''' '''|| {{flagicon|SPA}} [[Ito (footballer, born 1961)|Ito]]  || || {{suboff|73}}
+|-
+|colspan=3|'''Substitutes:''' 
+|-
+| DF || ''' ''' || {{flagicon|SPA}} [[Isidoro San José]] || || {{subon|16}}
+|-
+| FW || ''' ''' || {{flagicon|SPA}} [[Santillana (footballer)|Santillana]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:''' 
+|-
+|colspan=4| {{flagicon|ARG}} [[Alfredo Di Stéfano]]
+|}
+{{col-end}}
+{{winners-other|1983 [[Copa de la Liga]] |SPA |[[FC Barcelona|Barcelona]] |1st }}
+
+==References==
+{{reflist}}
+
+{{Copa de la Liga}}
+{{1982–83 in Spanish football}}
+{{1982–83 in European football (UEFA)}}
+{{FC Barcelona matches}}
+{{Real Madrid CF matches}}
+
+{{DEFAULTSORT:1983 Copa de la Liga}}
+[[Category:Copa de la Liga]]
+[[Category:1982–83 in Spanish football cups]]

@@ -1,0 +1,2386 @@
+{{Use dmy dates|date=September 2020}}
+{{infobox football tournament season
+|title=[[Copa del Rey]]
+|other_titles     = 111th Copa del Rey
+|image           = 
+|image_size       = 
+|caption         = 
+|country = Spain
+|num_teams=83
+|winners=[[Atlético Madrid]]
+|count=10
+|second=[[Real Madrid C.F.|Real Madrid]]
+|matches=112
+|goals=288
+|scoring_leader=[[Diego Costa]] <br> (8 goals)<ref group="n" name=ACTAFINAL>[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=20104 The official match report of the final] {{Webarchive|url=https://web.archive.org/web/20130608071715/http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=20104 |date=8 June 2013 }} mistakenly awarded the goal to Arda Turan, instead of Diego Costa.</ref>
+|award=
+|prev_season=[[2011–12 Copa del Rey|2011–12]]
+|next_season=[[2013–14 Copa del Rey|2013–14]]
+}}
+The '''2012–13 {{Lang|es|Copa del Rey|italic=no}}''' was the 111th staging of the {{Lang|es|[[Copa del Rey]]|italic=no}} (including two seasons where two rival editions were played). The competition began on 29 August 2012 and ended on 17 May 2013 with the final, held at the [[Santiago Bernabéu Stadium|Santiago Bernabéu]] in [[Madrid]], in which [[Atlético Madrid]] lifted the trophy for the tenth time in their history with a 2–1 victory over hosts [[Real Madrid C.F.|Real Madrid]] in extra time.<ref>{{cite web |url=http://deportes.elpais.com/deportes/2013/05/17/actualidad/1368786951_099364.html |title=La Décima era del Atlético |trans-title=The Tenth was for Atlético |publisher=[[El País]] |date=17 May 2013 |access-date=18 May 2013}}</ref> [[FC Barcelona|Barcelona]] were the defending champions but were eliminated by Real Madrid in the semi-finals. Going into the competition, the winners were assured of a place in the [[2013–14 UEFA Europa League#Group stage|group stage]] of the [[2013–14 UEFA Europa League]],<ref>{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/94/62/40/1946240_DOWNLOAD.pdf|archive-url=https://web.archive.org/web/20130514121404/http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/94/62/40/1946240_DOWNLOAD.pdf|url-status=dead|archive-date=14 May 2013|title=Regulations of the UEFA Europa League 2013/14|date=March 2013|publisher=UEFA|location=Nyon|access-date=1 May 2013}}</ref> but both finalists had already qualified for the [[2013–14 UEFA Champions League]] a few weeks before.<ref>{{cite web |url=http://ligadecampeones.com/champions-league-201314-equipos-que-ya-estan-clasificados/ |title=Champions League 2013/14: Equipos que ya están clasificados |trans-title=Champions League 2013/14: Teams qualified |publisher=LigaDeCampeones.com |date=13 May 2013 |access-date=18 May 2013 |archive-date=9 June 2013 |archive-url=https://web.archive.org/web/20130609024024/http://ligadecampeones.com/champions-league-201314-equipos-que-ya-estan-clasificados/ |url-status=dead }}</ref><ref>{{cite web |url=http://www.marca.com/2013/05/05/futbol/equipos/atletico/1367705653.html |title=El Atlético se clasifica para la Liga de Campeones tres años después |trans-title=Atlético qualify Champions League after three years |publisher=[[Marca (newspaper)|Marca]] |date=5 May 2013 |access-date=18 May 2013}}</ref>
+
+==Calendar and format==
+{|class="wikitable"
+|-
+!Round
+!Draw date
+!Date
+!Fixtures
+!Clubs
+!Notes
+|-
+|First round
+|rowspan=2 align=center|3 August 2012<ref name="First and Second round draw" />
+|29–30 August 2012
+|align="center"|18
+|align="center"|83 → 65
+|Clubs participating in [[2012–13 Tercera División|Tercera]] and [[2012–13 Segunda División B|Segunda División B]] gained entry.<br />Seven teams from Segunda División B received a bye.<br />[[Single-elimination tournament|Single match]] (without [[away goals rule]])
+|-
+|Second round
+|11–12 September 2012
+|align="center"|22
+|align="center"|65 → 43
+|Clubs participating in [[2012–13 Segunda División|Segunda División]] gained entry.<br />One team from first round received a bye.<br />Teams from Segunda División faced each other.<br />Single match (without away goals rule)
+|-
+|Third round
+|align=center|14 September 2012<ref name="sorteo-18oct" />
+|17–18 October 2012
+|align="center"|11
+|align="center"|43 → 32
+|One team from Segunda División B or Tercera División, which previously didn't receive a bye, received one.<br />Teams from Segunda División faced each other.<br />Single match (without away goals rule)
+|-
+|rowspan="2"|Round of 32
+|rowspan=9 align=center|18 October 2012<ref name="circular22" />
+|30–31 October; 1 November 2012
+|rowspan="2" align="center"|16
+|rowspan="2" align="center"|32 → 16
+|rowspan="2"|Clubs participating in [[2012–13 La Liga|La Liga]] gained entry.<br />The seven teams from La Liga which were qualified for European competitions, faced against remaining seven teams from Segunda División B and Tercera División.<br />The five remaining Segunda División teams faced against La Liga teams.<br />The eight remaining La Liga teams faced each other.
+|-
+|27–29 November 2012<sup>[[#Note 1|1]]</sup>
+|-
+|rowspan="2"|Round of 16
+|11–13 December 2012<sup>[[#Note 1|1]]</sup>
+|rowspan="2" align="center"|8
+|rowspan="2" align="center"|16 → 8
+|rowspan="2" align="center"|
+|-
+|8–10 January 2013<sup>[[#Note 2|2]]</sup>
+|-
+|rowspan="2"|Quarter-finals
+|15–17 January 2013<sup>[[#Note 2|2]]</sup>
+|rowspan="2" align="center"|4
+|rowspan="2" align="center"|8 → 4
+|rowspan="2" align="center"|
+|-
+|23–24 January 2013<sup>[[#Note 2|2]]</sup>
+|-
+|rowspan="2"|Semifinals
+|30–31 January 2013<sup>[[#Note 2|2]]</sup>
+|rowspan="2" align="center"|2
+|rowspan="2" align="center"|4 → 2
+|rowspan="2" align="center"|
+|-
+|26–27 February 2013<sup>[[#Note 2|2]]</sup>
+|-
+|'''Final'''
+|17 May 2013
+|align="center"|1
+|align="center"|2 → 1
+|align="center"|
+|}
+
+;Notes
+*<span id="Note 1"></span>Note 1: Match in second leg of Round of 32 between Athletic and Eibar and the involved knockout of Round of 16 were delayed one week later. After the reschedule by UEFA<ref name=UEFA-Kiryat-Athletic /> of [[2012–13 UEFA Europa League group stage#Ironi Kiryat Shmona v Athletic Bilbao|Europa League match 'Kiryat Shmona v Athletic']] to be played on 28 November, the RFEF changed date to 12 December,<ref name=Athletic-Eibar /> and the first leg of the involved fixture of Round of 16 was played one week later.
+*<span id="Note 2"></span>Note 2: Originally was expected to celebrate the second leg of Round of 16 on 18–19 December, and next rounds from 9 to 30 January in mid-week until semi-finals,<ref name="circular22" /> but according to the note 1 which always it would be one knockout delayed from others and the close celebration of league matchday (celebrated on 20–22 December, prior to Christmas holidays) it was postponed with agreement between clubs and television broadcasters to postpone the second leg of Round of 16 to 8–10 January and move next rounds one week later until 30 January and the celebration of second leg of semi-finals around 27 February 2013.<ref name="Calendar changes">{{cite web |url=http://www.rfef.es/GetDoc?UniqueKeyValue=64389&ShowPath=false&Download=true |title=Circular 30: Modificación de las fechas del calendario del Campeonato de España - Copa de SM El Rey |language=es |publisher=[[Royal Spanish Football Federation|RFEF]] |date=19 December 2012 |access-date=23 December 2012 |archive-url=https://web.archive.org/web/20130117053716/http://www.rfef.es/GetDoc?UniqueKeyValue=64389&ShowPath=false&Download=true |archive-date=17 January 2013 |url-status=dead}}</ref><ref>{{cite web |url=http://www.defensacentral.com/realmadridfichajes/web/noticia/i-3534/les-televisiones-cambian-las-fechas-de-la-copa |title=Las televisiones cambian las fechas de la Copa |trans-title=The TV stations change dates of Copa |language=es |publisher=DefensaCentral.com |date=23 November 2012 |access-date=7 December 2012 |archive-url=https://archive.today/20130121093338/http://www.defensacentral.com/realmadridfichajes/web/noticia/i-3534/les-televisiones-cambian-las-fechas-de-la-copa |archive-date=21 January 2013 |url-status=dead}}</ref><ref name="cambio-calendario">{{cite web |url=http://futbol.as.com/futbol/2012/11/22/primera/1353587373_752384.html |title=La vuelta de los octavos de Copa pasa del 19-D al 9 de enero |trans-title=The second leg of Round of 16 of Copa changes from 19-D to 9 January |language=es |publisher=[[Diario AS]] |date=22 November 2012 |access-date=7 December 2012}}</ref>
+{{Clear}}
+
+==Qualified teams==
+The following teams competed in the Copa del Rey 2012–13.<ref name="circular5" />
+
+20 teams of [[2011–12 La Liga]]:
+{{colbegin|colwidth=18em}}
+*[[Athletic Bilbao]]
+*'''[[Atlético Madrid]]'''
+*[[FC Barcelona|Barcelona]]
+*[[Real Betis|Betis]]
+*[[RCD Espanyol|Espanyol]]
+*[[Getafe CF|Getafe]]
+*[[Granada CF|Granada]]
+*[[Levante UD|Levante]]
+*[[Málaga CF|Málaga]]
+*[[RCD Mallorca|Mallorca]]
+*[[CA Osasuna|Osasuna]]
+*[[Racing de Santander|Racing Santander]]
+*[[Rayo Vallecano]]
+*[[Real Madrid C.F.|Real Madrid]]
+*[[Real Sociedad]]
+*[[Sevilla FC|Sevilla]]
+*[[Sporting de Gijón|Sporting Gijón]]
+*[[Valencia CF|Valencia]]
+*[[Villarreal CF|Villarreal]]
+*[[Real Zaragoza|Zaragoza]]
+{{colend}}
+
+20 teams of [[2011–12 Segunda División]] ([[FC Barcelona B|Barcelona B]] and [[Villarreal CF B|Villarreal B]] are excluded for being reserve teams):
+{{colbegin|colwidth=18em}}
+*[[AD Alcorcón|Alcorcón]]
+*[[CD Alcoyano|Alcoyano]]
+*[[UD Almería|Almería]]
+*[[Celta de Vigo|Celta Vigo]]
+*[[Córdoba CF|Córdoba]]
+*[[Deportivo de La Coruña|Deportivo La Coruña]]
+*[[Elche CF|Elche]]
+*[[FC Cartagena|Cartagena]]
+*[[Gimnàstic de Tarragona|Gimnàstic]]
+*[[Girona FC|Girona]]
+*[[C.D. Guadalajara (Spain)|Guadalajara]]
+*[[Hércules CF|Hércules]]
+*[[SD Huesca|Huesca]]
+*[[UD Las Palmas|Las Palmas]]
+*[[Real Murcia|Murcia]]
+*[[CD Numancia|Numancia]]
+*[[Recreativo de Huelva|Recreativo]]
+*[[CE Sabadell FC|Sabadell]]
+*[[Real Valladolid|Valladolid]]
+*[[Xerez CD|Xerez]]
+{{colend}}
+
+25 teams of [[2011–12 Segunda División B]]. Teams that qualified are the top five teams of each of the 4 groups (excluding reserve teams) and the five with the highest number of points out of the remaining non-reserve teams (*):
+{{colbegin|colwidth=18em}}
+*[[CD Tenerife|Tenerife]]
+*[[CD Lugo|Lugo]]
+*[[Albacete Balompié|Albacete]]
+*[[Real Oviedo]]
+*[[La Roda CF|La Roda]]
+*[[CD Mirandés|Mirandés]]
+*[[SD Ponferradina|Ponferradina]]
+*[[SD Eibar|Eibar]]
+*[[SD Amorebieta|Amorebieta]]
+*[[UD Logroñés]]
+*[[CD Atlético Baleares|Atlético Baleares]]
+*[[Orihuela CF|Orihuela]]
+*[[Huracán CF|Huracán Valencia]]
+*[[CF Badalona|Badalona]]
+*[[UE Llagostera|Llagostera]]
+*[[Cádiz CF|Cádiz]]
+*[[Real Balompédica Linense|Balompédica Linense]]
+*[[Lucena CF|Lucena]]
+*[[Real Jaén]]
+*[[UD Melilla|Melilla]]
+*[[CD San Roque de Lepe|San Roque]]*
+*[[CE L'Hospitalet|L'Hospitalet]]*
+*[[Deportivo Alavés|Alavés]]*
+*[[Lleida Esportiu]]*
+*[[CP Cacereño|Cacereño]]*
+{{colend}}
+
+18 teams of 2011–12 Tercera División. Teams that qualified are the champions of each of the 18 groups (or at least the ones with the highest number of points within their group since reserve teams are excluded):
+{{colbegin|colwidth=18em}}
+*[[CD Ourense|Ourense]]
+*[[Caudal Deportivo|Caudal de Mieres]]
+*[[SD Noja|Noja]]
+*[[CD Laudio|Laudio]]
+*[[AE Prat|Prat]]
+*[[Catarroja CF|Catarroja]]
+*[[CF Fuenlabrada|Fuenlabrada]]
+*[[Real Ávila CF|Real Ávila]]
+*[[Loja CD|Loja]]
+*[[Atlético Sanluqueño CF|Atlético Sanluqueño]]
+*[[CD Constancia|Constància]]
+*[[CD Marino|Marino de Los Cristianos]]
+*[[Yeclano Deportivo|Yeclano]]
+*[[Arroyo CP|Arroyo]]
+*[[Peña Sport FC|Peña Sport]]
+*[[SD Logroñés]]
+*[[SD Ejea|Ejea]]
+*[[CP Villarrobledo|Villarrobledo]]
+{{colend}}
+
+==First round==
+The draw for First and Second round was held on 3 August 2012 at 13:00 [[Central European Summer Time|CEST]] in [[La Ciudad del Fútbol]], [[RFEF]] headquarters, in [[Las Rozas de Madrid|Las Rozas]], [[Community of Madrid|Madrid]].<ref name="First and Second round draw">{{cite web |url=http://www.rfef.es/index.jsp?nodo=124&CATEGORIA=2&ID=2120 |title=First and Second Round Draw |language=es |publisher=[[Royal Spanish Football Federation|RFEF]] |date=3 August 2012 |access-date=13 September 2012 |archive-url=https://archive.today/20130213064153/http://www.rfef.es/index.jsp?nodo=124&CATEGORIA=2&ID=2120 |archive-date=13 February 2013 |url-status=dead}}</ref> In this round gained entry 36 [[Segunda División B]] and [[Tercera División]] teams. The matches were played on 29–30 August 2012.
+
+[[Real Balompédica Linense|Balompédica Linense]], [[Real Jaén]], [[UD Melilla|Melilla]], [[Huracán CF|Huracán Valencia]], [[Lucena CF|Lucena]], [[CD Tenerife|Tenerife]] and [[Lleida Esportiu]] received a bye.
+
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=18:30 [[Central European Summer Time|CEST]]
+|team1=[[SD Noja|Noja]]
+|score=3–2
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17451 Report]
+|team2='''[[SD Amorebieta|Amorebieta]]'''
+|goals1=[[Jaime Bustillo|Bustillo]] {{goal|49}}<br />[[Ricardo Fernández Revuelta|Riki]] {{goal|83}}<br />[[Gerardo Carrera Piñera|Gerardo]] {{goal|119}}
+|goals2={{goal|3}} [[Lander Gabilondo|Gabilondo]]<br />{{goal|27}} [[Urko Arroyo|Urko]]
+|stadium=[[Estadio La Caseta|La Caseta]]
+|location=[[Noja]] ([[Cantabria]])
+|attendance=400<ref>[http://www.eldiariomontanes.es/20120829/deportes/mas-futbol/noja-pasa-ronda-partido-201208292138.html El Noja pasa de ronda en un partido de infarto] {{in lang|es}}</ref>
+|referee=Germán Cid Camacho
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=19:00 [[Central European Summer Time|CEST]]
+|team1=[[CE L'Hospitalet|L'Hospitalet]]
+|score=1–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17454 Report]
+|team2='''[[Orihuela CF|Orihuela]]'''
+|goals1=[[Benjamín Belmar|Belmar]] {{goal|59|o.g.}}
+|goals2=
+|stadium=[[Estadi La Feixa Llarga|La Feixa Llarga]]
+|location=[[L'Hospitalet de Llobregat]] ([[Province of Barcelona|Barcelona]])
+|attendance=250<ref name="Mundo Deportivo Primera Ronda">[http://hemeroteca-paginas.mundodeportivo.com/EMD03/PUB/2012/08/30/EMD20120830036MDP.pdf El Mundo Deportivo, 1ª Ronda] {{in lang|es}}</ref>
+|referee=Sebastián Ripoll Solano
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=19:30 [[Central European Summer Time|CEST]]
+|team1=[[Caudal Deportivo|Caudal de Mieres]]
+|score=2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17447 Report]
+|team2='''[[CD Marino|Marino de Los Cristianos]]'''
+|goals1=[[Antonio Domingo Rojas|Rojas]] {{goal|44|pen.}}<br />[[Borja Navarro García|Navarro]] {{goal|65}}
+|goals2=
+|stadium=[[Estadio Hermanos Antuña|Hermanos Antuña]]
+|location=[[Mieres, Asturias|Mieres]] ([[Asturias]])
+|attendance=500<ref>[http://www.laopinion.es/deportes/2012/08/30/marino-eliminado-caudal/431892.html El Marino, eliminado por el Caudal] {{in lang|es}}</ref>
+|referee=Ander Zarrabeitia Arrieta
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=19:30 [[Central European Summer Time|CEST]]
+|team1=[[AE Prat|Prat]]
+|score=2–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17457 Report]
+|team2='''[[Gimnàstic de Tarragona|Gimnàstic]]'''
+|goals1=[[Óscar Sierra|Sierra]] {{goal|84||90}}
+|goals2=[[Lucas Viale|Viale]] {{goal|79}}
+|stadium=[[Estadi Sagnier|Sagnier]]
+|location=[[El Prat de Llobregat]] ([[Province of Barcelona|Barcelona]])
+|attendance=700<ref name="Mundo Deportivo Primera Ronda" />
+|referee=Ángel Enrique Sanz Terrades
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1=[[SD Logroñés]]
+|score=2–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17450 Report]
+|team2='''[[UD Logroñés]]'''
+|goals1=[[David Olavarrieta Robredo|Olavarrieta]] {{goal|14}}<br />[[Javier Torres Lalinde|Torres]] {{goal|76}}
+|goals2=[[Alejandro Suárez Castroaudín|Suárez]] {{goal|61}}
+|stadium=[[Estadio Las Gaunas|Nuevo Las Gaunas]]
+|location=[[Logroño]]
+|attendance=2,500<ref>[http://www.sdlogrones.com/competicion/listado-cronicas/115-temporada-2012-2013/809-ivictoria-epica ¡Victoria épica!] {{Webarchive|url=https://web.archive.org/web/20160316171046/https://sdlogrones.com/competicion/listado-cronicas/115-temporada-2012-2013/809-ivictoria-epica |date=16 March 2016 }} {{in lang|es}}</ref>
+|referee=Luis Miguel Vallejo Aznar
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1='''[[CD Laudio|Laudio]]'''
+|score=0–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17452 Report]
+|team2=[[SD Eibar|Eibar]]
+|goals1=
+|goals2=[[Rubén Arroyo|Arroyo]] {{goal|23}}
+|stadium=[[Estadio Ellakuri|Ellakuri]]
+|location=[[Laudio/Llodio|Laudio-Llodio]] ([[Álava]])
+|attendance=250<ref>[http://www.elcorreo.com/vizcaya/v/20120830/deportes/mas-futbol/laudio-vende-cara-eliminacion-20120830.html El Laudio vende cara su eliminación ante el Eibar] {{in lang|es}}</ref>
+|referee=Julio Fermín Leo Ollo
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1=[[SD Ejea|Ejea]]
+|score=4–2
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17453 Report]
+|team2='''[[Peña Sport FC|Peña Sport]]'''
+|goals1=[[José Carlos Gallego|Gallego]] {{goal|59|pen.|95}}<br />[[Diego Bezdun|Bezdun]] {{goal|84}}<br />[[Alejandro Gracia|Gracia]] {{goal|117}}
+|goals2=[[Fermín Uriz|Uriz]] {{goal|4}}<br />[[Juan Antonio Rodrigo|Rodrigo]] {{goal|49}}
+|stadium=[[Estadio Luchán|Luchán]]
+|location=[[Ejea de los Caballeros]] ([[Province of Zaragoza|Zaragoza]])
+|attendance=1,000<ref>{{Deprecated archive|url=https://archive.today/20130123235929/http://www.futbolaragones.com/web/?p=13455|title=SD Ejea 4 Peña Sport FC 2}} {{in lang|es}}</ref>
+|referee=Ángel Hernández Lorenzo
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1=[[CD Alcoyano|Alcoyano]]
+|score=2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17455 Report]
+|team2='''[[CD Atlético Baleares|Atlético Baleares]]'''
+|goals1=[[David Arenas Torres|Torres]] {{goal|22}}<br />[[Kike Tortosa (footballer, born 1983)|Tortosa]] {{goal|63}}
+|goals2=
+|stadium=[[Estadio El Collao|El Collao]]
+|location=[[Alcoy, Spain|Alcoi]] ([[Province of Alicante|Alicante]])
+|attendance=1,000<ref>[http://www.diarioinformacion.com/deportes/2012/08/30/alcoyano-sigue-adelante/1289089.html El Alcoyano sigue adelante] {{in lang|es}}</ref>
+|referee=Alfonso Melgares De Aguilar Fernández
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1=[[UE Llagostera|Llagostera]]
+|score=1–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17458 Report]
+|team2='''[[CF Badalona|Badalona]]'''
+|goals1=[[Nicolás Rubio Sánchez|Nico Rubio]] {{goal|71}}
+|goals2=
+|stadium=[[Estadi Municipal de Llagostera|Municipal de Llagostera]]
+|location=[[Llagostera]] ([[Province of Girona|Girona]])
+|attendance=450<ref name="Mundo Deportivo Primera Ronda" />
+|referee=Óscar Herrero Arenas
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1=[[Albacete Balompié|Albacete]]
+|score=4–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17461 Report]
+|team2='''[[Loja CD|Loja]]'''
+|goals1=[[Sergio Molina (footballer, born 1983)|Molina]] {{goal|35|pen.}}<br />[[Adrià Granell|Granell]] {{goal|46}}<br />[[David Alba|Alba]] {{goal|57}}<br />Diop {{goal|63}}
+|goals2=
+|stadium=[[Estadio Carlos Belmonte|Carlos Belmonte]]
+|location=[[Albacete]]
+|attendance=1,500<ref>[http://www.masquealba.com/index.php/alba/cronicas/2582-mas-cerca-del-sueno-copero-albacete-4-loja-0 Más cerca del sueño copero, Albacete 4-Loja 0] {{Webarchive|url=https://web.archive.org/web/20130125075041/http://masquealba.com/index.php/alba/cronicas/2582-mas-cerca-del-sueno-copero-albacete-4-loja-0 |date=25 January 2013 }} {{in lang|es}}</ref>
+|referee=Enrique Ortiz Blanco
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1='''[[Catarroja CF|Catarroja]]'''
+|score=0–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17464 Report]
+|team2=[[Deportivo Alavés|Alavés]]
+|goals1=
+|goals2=[[Asier Salcedo|Salcedo]] {{goal|49}}<br />[[Borja Viguera|Viguera]] {{goal|64}}
+|stadium=[[Estadio Mundial 82 de Catarroja|Mundial 82]]
+|location=[[Catarroja]] ([[Province of Valencia|Valencia]])
+|attendance=800<ref>[http://www.elperiodic.com/catarroja/noticias/191513_catarroja-frente-historico-alaves-dice-adios-copa.html El Catarroja cae frente al histórico Alavés y dice adiós a la Copa] {{in lang|es}}</ref>
+|referee=Gustavo Rebollo López
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:30 [[Central European Summer Time|CEST]]
+|team1=[[CD Ourense|Ourense]]
+|score=2–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17448 Report]
+|team2='''[[Real Ávila CF|Real Ávila]]'''
+|goals1=[[Iván González Veiras|Iván González]] {{goal|49}}<br />[[Jonathan Mejía|Jona]] {{goal|77}}
+|goals2=[[Juan Carlos Ruiz|Ruiz]] {{goal|35}}
+|stadium=[[Estadio O Couto|O Couto]]
+|location=[[Ourense]]
+|attendance=1,600<ref>[http://deportesenavila.blogspot.com.es/2012/08/futbol-el-real-avila-se-despide-de-la.html El Real Ávila se despide de la Copa del Rey] {{in lang|es}}</ref>
+|referee=Julián García García
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:30 [[Central European Summer Time|CEST]]
+|team1=[[CD Constancia|Constància]]
+|score=3–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17456 Report]
+|team2='''[[Yeclano Deportivo|Yeclano]]'''
+|goals1=[[Miguel Bosch|Bosch]] {{goal|25||41}}<br />[[Ismael Vilaboa|Vilaboa]] {{goal|65}}
+|goals2=
+|stadium=[[Nou Camp d'Inca|Nou Camp]]
+|location=[[Inca, Spain|Inca]] ([[Balearic Islands]])
+|attendance=800<ref>[http://www.deporteregional.com/noticia,68,395,11202,,3-0-excesivo-castigo-para-el-yeclano-y-adi%F3s-a-la-copa.html 3-0: Excesivo castigo para el Yeclano y adiós a la copa] {{in lang|es}}</ref>
+|referee=José Antonio Salas Montoro
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:30 [[Central European Summer Time|CEST]]
+|team1=[[Cádiz CF|Cádiz]]
+|score=3–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17459 Report]
+|team2='''[[CD San Roque de Lepe|San Roque]]'''
+|goals1=[[Adrián Gallardo Valdés|Gallardo]] {{goal|87}}<br />[[Pablo Sánchez Alberto|Pablo Sánchez]] {{goal|88}}<br />[[Diego Garrido|Garrido]] {{goal|90+1}}
+|goals2=[[Mustafa Azman Zeinha|Mustafa]] {{goal|32}}<br />[[David Agudo|Agudo]] {{goal|75}}
+|stadium=[[Estadio Ramón de Carranza|Ramón de Carranza]]
+|location=[[Cádiz]]
+|attendance=5,000<ref>[http://andaluciainformacion.es/cadiz/245143/un-final-de-infarto-mantiene-al-cadiz-en-la-copa/ Un final de infarto mantiene al Cádiz en la Copa] {{in lang|es}}</ref>
+|referee=Jesús Muñoz Mayordomo
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:30 [[Central European Summer Time|CEST]]
+|team1=[[Arroyo CP|Arroyo]]
+|score=2–1
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17460 Report]
+|team2='''[[La Roda CF|La Roda]]'''
+|goals1=[[Iban Espadas|Espadas]] {{goal|12}}<br />[[Carlos Andújar|Andújar]] {{goal|95}}
+|goals2=[[Jorge Juan Pelegrina Linares|Pelegrina]] {{goal|40}}
+|stadium=[[Estadio Municipal de Arroyo|Municipal de Arroyo]]
+|location=[[Arroyo de la Luz]] ([[Province of Cáceres|Cáceres]])
+|attendance=600<ref>[http://www.elpueblodealbacete.com/noticias/26447-el-arroyo-elimina-a-la-roda-de-la-copa-del-rey-gracias-a-un-gol-en-la-prorroga/ El Arroyo elimina a La Roda de la Copa del Rey gracias a un gol en la prórroga] {{Webarchive|url=https://web.archive.org/web/20201127113058/http://www.elpueblodealbacete.com/noticias/26447-el-arroyo-elimina-a-la-roda-de-la-copa-del-rey-gracias-a-un-gol-en-la-prorroga/ |date=27 November 2020 }} {{in lang|es}}</ref>
+|referee=Antonio Santos Pargaña
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=29 August 2012
+|time=20:30 [[Central European Summer Time|CEST]]
+|team1='''[[CP Villarrobledo|Villarrobledo]]'''
+|score=1–3
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17462 Report]
+|team2=[[CP Cacereño|Cacereño]]
+|goals1=[[Enrique Espinosa|Espinosa]] {{goal|64}}
+|goals2=[[Gonzalo Llerena|Llerena]] {{goal|10}}<br />[[Juan Gabriel Jaraíz Borreguero|Jaraíz]] {{goal|51}}<br />[[Santiago Amaro|Amaro]] {{goal|86}}
+|stadium=[[Estadio Nuestra Señora de la Caridad|Nuestra Señora de la Caridad]]
+|location=[[Villarrobledo]] ([[Province of Albacete|Albacete]])
+|attendance=700<ref>[http://www.cpvillarrobledo.com/arago1213.html Se acabó el sueño de la Copa del Rey. La pegada del Cacereño se impone al dominio del Villarrobledo] {{in lang|es}}</ref>
+|referee=Miguel Sánchez-seco Otero
+}}
+{{Football box collapsible
+|date=30 August 2012
+|time=20:30 [[Central European Summer Time|CEST]]
+|team1=[[Real Oviedo]]
+|score=2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17449 Report]
+|team2='''[[CF Fuenlabrada|Fuenlabrada]]'''
+|goals1=[[Lucien Owona|Owona]] {{goal|3}}<br />[[Francisco Javier Casares|Casares]] {{goal|73}}
+|goals2=
+|stadium=[[Estadio Carlos Tartiere|Nuevo Carlos Tartiere]]
+|location=[[Oviedo]]
+|attendance=6,100<ref>[http://www.realoviedo.es/weboficial/index.asp?Pagina=vernoticia&IdNoticia=7631 El Real Oviedo, clasificado para segunda ronda de la Copa del Rey] {{Webarchive|url=https://archive.today/20130213044747/http://www.realoviedo.es/weboficial/index.asp?Pagina=vernoticia&IdNoticia=7631 |date=13 February 2013 }} {{in lang|es}}</ref>
+|referee=José Luis Corral García
+}}
+{{Football box collapsible
+|date=30 August 2012
+|time=21:30 [[Central European Summer Time|CEST]]
+|team1=[[Atlético Sanluqueño CF|Atlético Sanluqueño]]
+|score=1–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17463 Report]
+|team2='''[[FC Cartagena|Cartagena]]'''
+|goals1=[[Enrique Márquez Climent|Kike Márquez]] {{goal|85|pen.}}
+|goals2=
+|stadium=[[Estadio El Palmar|El Palmar]]
+|location=[[Sanlúcar de Barrameda]] ([[Province of Cádiz|Cádiz]])
+|attendance=2,000<ref>[http://andaluciainformacion.es/sanlucar/245261/el-sanluqueno-se-impuso-al-cartagena-por-1-0-y-pasa-de-ronda/ El Sanluqueño se impuso al Cartagena por 1-0 y pasa de ronda] {{in lang|es}}</ref>
+|referee=Andrés Manuel Ceballos Silva
+}}
+
+==Second round==
+In this round gained entry all [[Segunda División]] teams. The matches were played on 11–12 September 2012.
+
+[[CP Cacereño|Cacereño]] received a bye.
+
+{{Football box collapsible
+|bg=EEEEEE
+|date=11 September 2012
+|time=12:00 [[Central European Summer Time|CEST]]
+|team1=[[CE Sabadell|Sabadell]]
+|score= 2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17706 Report]
+|team2='''[[Hércules CF|Hércules]]'''
+|goals1=[[Ulises Dávila|Dávila]] {{goal|34}}<br />[[Antonio Hidalgo Morilla|Hidalgo]] {{goal|57}}
+|goals2=
+|stadium=[[Estadi de la Nova Creu Alta|Nova Creu Alta]]
+|location=[[Sabadell]] ([[Province of Barcelona|Barcelona]])
+|attendance=2,413<ref>{{Deprecated archive|url=https://archive.today/20130116022036/http://www.cesabadell.cat/noticies2.asp?id=2975|title=El Sabadell passa ronda a la Copa del Rei davant l'Hércules (2-0)}} {{in lang|ca}}</ref>
+|referee=Francisco Manuel Arias López
+}}
+{{Football box collapsible
+|date=11 September 2012
+|bg=EEEEEE
+|time=21:30 [[Central European Summer Time|CEST]]
+|team1=[[UD Almería|Almería]]
+|score=2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17702 Report]
+|team2='''[[Real Murcia|Murcia]]'''
+|goals1=[[Leonardo Ulloa|Ulloa]] {{goal|77}}<br />[[Aaron Níguez|Aaron]] {{goal|84}}
+|goals2=
+|stadium=[[Estadio de los Juegos Mediterráneos|Juegos del Mediterráneo]]
+|location=[[Almería]]
+|attendance=4,000<ref>[http://www.udalmeriasad.com/uda/index.php/inicio/cronicas/4770-titular 2-0: El Almería se clasifica para la tercera ronda de Copa tras un brillante segundo tiempo] {{Webarchive|url=https://archive.today/20130205004020/http://www.udalmeriasad.com/uda/index.php/inicio/cronicas/4770-titular |date=5 February 2013 }} {{in lang|es}}</ref>
+|referee=José Luis Lesma López
+}}
+{{Football box collapsible
+|date=11 September 2012
+|bg=EEEEEE
+|time=21:30 [[Central European Summer Time|CEST]]
+|team1=[[CD Mirandés|Mirandés]]
+|score=2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17708 Report]
+|team2='''[[Recreativo de Huelva|Recreativo]]'''
+|goals1=[[Rayco García Dauta|Rayco]] {{goal|1}}<br />[[Javi Soria|Soria]] {{goal|77}}
+|goals2=
+|stadium=[[Estadio Municipal de Anduva|Anduva]]
+|location=[[Miranda de Ebro]] ([[Province of Burgos|Burgos]])
+|attendance=4,197<ref>[http://www.as.com/futbol/articulo/mirandes-mantiene-idilio-copa-costa/20120911dasdasftb_70/Tes El Mirandés mantiene su idilio con la Copa a costa del Recre] {{in lang|es}}</ref>
+|referee=Daniel Ocón Arráiz
+}}
+{{Football box collapsible
+|date=11 September 2012
+|bg=EEEEEE
+|time=21:30 [[Central European Summer Time|CEST]]
+|team1=[[AD Alcorcón|Alcorcón]]
+|score=4–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17711 Report]
+|team2='''[[CD Numancia|Numancia]]'''
+|goals1=[[Joaquín Álvarez Álvarez|Quini]] {{goal|7||21}}<br />[[David Miguélez|Miguélez]] {{goal|56}}<br />[[Juli (footballer)|Juli]] {{goal|79}}
+|goals2=[[Airam López|Airam]] {{goal|29}}
+|stadium=[[Estadio Municipal de Santo Domingo (Alcorcón)|Santo Domingo]]
+|location=[[Alcorcón]] ([[Community of Madrid|Madrid]])
+|attendance=1,500<ref>[http://www.cdnumancia.com/noticia-2416-adios-a-la-copa-a-las-primeras-de-cambio Adiós a la Copa a las primeras de cambio] {{Webarchive|url=https://web.archive.org/web/20120914040822/http://www.cdnumancia.com/noticia-2416-adios-a-la-copa-a-las-primeras-de-cambio |date=14 September 2012 }} {{in lang|es}}</ref>
+|referee=[[Juan Martínez Munuera]]
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=19:30 [[Central European Summer Time|CEST]]
+|team1='''[[CE L'Hospitalet|L'Hospitalet]]'''
+|score=1–1
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17692 Report]
+|team2=[[SD Noja|Noja]]
+|goals1=[[Pedro Bilbao Tejeda|Bilbao]] {{goal|54}}
+|goals2=[[Ricardo Fernández Revuelta|Riki]] {{goal|77}}
+|stadium=[[Estadi La Feixa Llarga|La Feixa Llarga]]
+|location=[[L'Hospitalet de Llobregat]] ([[Province of Barcelona|Barcelona]])
+|attendance=180<ref>[http://centredesportslhospitalet.blogspot.com.es/2012/09/sense-copa-als-penals-ce-l-1-1-sd-noja.html Sense Copa als penals. CE l'Hospitalet 1-1 SD Noja (3-4 als penals)] {{in lang|ca}}</ref>
+|referee=Santiago Varón Aceitón
+|penaltyscore=3–4
+|penalties1=[[Juan Antonio García Osado|Osado]] {{pengoal}}<br />[[Marc Pedraza|Pedraza]] {{pengoal}}<br />[[Julio Alberto Rico Pardillo|Rico]] {{penmiss}}<br />[[Bubacar Njie Kambi|Bakari]] {{pengoal}}<br />[[Alberto Manga|Manga]] {{penmiss}}
+|penalties2={{pengoal}} [[Ricardo Fernández Revuelta|Riki]]<br />{{penmiss}} [[Juan Fresno Pérez|Fresno]]<br />{{pengoal}} [[Luis Manuel Villa|Luisma]]<br />{{pengoal}} [[Gerardo Carrera Piñera|Gerardo]]<br />{{pengoal}} [[Josu Esnaola|Josu]]
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=19:30 [[Central European Summer Time|CEST]]
+|team1=[[Huracán CF|Huracán Valencia]]
+|score=1–1
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17697 Report]
+|team2='''[[Albacete Balompié|Albacete]]'''
+|goals1=[[Enrique Carreño|Carreño]] {{goal|108}}
+|goals2=[[Mikel Santamaría|Santamaría]] {{goal|114}}
+|stadium=[[Polideportivo Municipal de Manises|Municipal Vicente Martínez Catalá]]
+|location=[[Manises]] ([[Province of Valencia|Valencia]])
+|attendance=700<ref>[http://www.lasprovincias.es/20120913/deportes/futbol/huracan-albacete-partido-copa-201209130134.html El Huracán firma la machada y tumba al Albacete] {{in lang|es}}</ref>
+|referee=Francisco Alejandro Navarro Fuentes
+|penaltyscore = 4–2
+|penalties1=[[Ángel Roberto Amarilla|Amarilla]] {{pengoal}}<br />[[José Javier Rubio|Javi Rubio]] {{pengoal}}<br />[[Enrique Carreño|Carreño]] {{pengoal}}<br />[[José Luis Capdevila|Capdevila]] {{pengoal}}
+|penalties2={{pengoal}} [[Sergio Molina Rivero|Sergio Molina]]<br />{{pengoal}} [[David Mateos Rocha|Rocha]]<br />{{penmiss}} [[José Manuel Muñoz Castaño|Zurdo]]<br />{{penmiss}} [[Mikel Santamaría|Santamaría]]
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1=[[Deportivo Alavés|Alavés]]
+|score=2–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17693 Report]
+|team2='''[[Atlético Sanluqueño CF|Atlético Sanluqueño]]'''
+|goals1=[[Asier Barahona|Asier]] {{goal|3}}<br />[[Jon Andoni García Aranbillet|Jonan]] {{goal|76}}
+|goals2=[[Miguel Ángel Espinar Peña|Espinar]] {{goal|22}}
+|stadium=[[Mendizorroza]]
+|location=[[Vitoria-Gasteiz]]
+|attendance=6,581<ref>{{Deprecated archive|url=https://archive.today/20130116143001/http://www.alaves.com/cinco-de-cinco-y-pasamos-a-tercera-ronda-de-la-copa/|title=Cinco de cinco y pasamos a tercera ronda de la Copa}} {{in lang|es}}</ref>
+|referee=Sergio Usón Rosel
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1=[[UE Llagostera|Llagostera]]
+|score=1–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17695 Report]
+|team2='''[[SD Ejea|Ejea]]'''
+|goals1=[[Marc Sellarés de Pedro|Sellarés]] {{goal|31}}
+|goals2=
+|stadium=[[Estadi Municipal de Llagostera|Municipal de Llagostera]]
+|location=[[Llagostera]] ([[Province of Girona|Girona]])
+|attendance=300<ref>[http://www.uellagostera.com/index.php?option=com_content&view=article&id=345:sellares-sestrena-i-el-llagostera-passa-a-tercera-ronda-de-la-copa&catid=47:copa-del-rei Sellarès s'estrena com golejador i el Llagostera passa a tercera ronda] {{Webarchive|url=https://web.archive.org/web/20140710043015/http://www.uellagostera.com/index.php?option=com_content&view=article&id=345:sellares-sestrena-i-el-llagostera-passa-a-tercera-ronda-de-la-copa&catid=47:copa-del-rei |date=10 July 2014 }} {{in lang|ca}}</ref>
+|referee=Francisco Javier Barberá Fuentes
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1=[[Córdoba CF|Córdoba]]
+|score=1–0
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17709 Report]
+|team2='''[[Elche CF|Elche]]'''
+|goals1=[[Cristian García Ramos|Cristian]] {{goal|102}}
+|goals2=
+|stadium=[[Estadio Nuevo Arcángel|Nuevo Arcángel]]
+|location=[[Córdoba, Andalusia|Córdoba]]
+|attendance=9,301<ref>[http://work.workcrm.com/clientesexternos/76e25814ae22ad63d695c525ce525cc2/secciones/76e25814ae22ad63d695c525ce525cc21/plantillas/noticia_ampliada.php?id=7350&s= Emotivo y merecido triunfo (1-0)] {{Webarchive|url=https://web.archive.org/web/20160304025441/http://work.workcrm.com/clientesexternos/76e25814ae22ad63d695c525ce525cc2/secciones/76e25814ae22ad63d695c525ce525cc21/plantillas/noticia_ampliada.php?id=7350&s= |date=4 March 2016 }} {{in lang|es}}</ref>
+|referee=José Ramón Piñeiro Crespo
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=20:30 [[Central European Summer Time|CEST]]
+|team1=[[CD Constancia|Constància]]
+|score=1–1
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17691 Report]
+|team2='''[[CD Ourense|Ourense]]'''
+|goals1=[[Mateu Ferrer Cabrer|Mateu]] {{goal|63|pen.}}
+|goals2=[[Jonathan Mejía|Jona]] {{goal|55}}
+|stadium=[[Nou Camp d'Inca|Nou Camp]]
+|location=[[Inca, Spain|Inca]] ([[Balearic Islands]])
+|attendance=500<ref>{{Deprecated archive|url=https://archive.today/20130213085738/http://ultimahora.es/mallorca/noticia/deportes/noticias/constancia-agarra-copa-penaltis.html|title=El Constància se agarra a la Copa en los penaltis}} {{in lang|es}}</ref>
+|referee=Francisco Javier Fernández Vidal
+|penaltyscore = 3–1
+|penalties1=[[Ismael Vilaboa Monteagudo|Ismael]] {{pengoal}}<br />[[Jaime Hernández Molina|Jaime]] {{pengoal}}<br />[[Mateu Ferrer Cabrer|Mateu]] {{penmiss}}<br />[[Cristian Sánchez Adamuz|Cristian]] {{pengoal}}
+|penalties2={{pengoal}} [[Claudio Giráldez González|Claudio]]<br />{{penmiss}} [[Pablo Santiago Pillado|Pablo]]<br />{{penmiss}} [[Alberto Campillo García|Campillo]]<br />{{penmiss}} [[Iván González Veiras|Iván González]]
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=20:30 [[Central European Summer Time|CEST]]
+|team1='''[[Lleida Esportiu]]'''
+|score=0–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17694 Report]
+|team2=[[SD Eibar|Eibar]]
+|goals1=
+|goals2=[[Mikel Arruabarrena Aranbide|Arruabarrena]] {{goal|22||81}}
+|stadium=[[Camp d'Esports]]
+|location=[[Lleida]]
+|attendance=500<ref>[http://lleidasportsfutbol.blogspot.com.es/2012/09/el-lleida-esportiu-dona-mala-imatge-la.html El Lleida Esportiu dóna mala imatge a la Copa del Rei (0-2)] {{in lang|ca}}</ref>
+|referee=Víctor Rives Leal
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=20:30 [[Central European Summer Time|CEST]]
+|team1='''[[Real Oviedo]]'''
+|score=0–0
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17696 Report]
+|team2=[[AE Prat|Prat]]
+|goals1=
+|goals2=
+|stadium=[[Estadio Carlos Tartiere|Nuevo Carlos Tartiere]]
+|location=[[Oviedo]]
+|attendance=6,125<ref>[http://www.realoviedo.es/weboficial/index.asp?Pagina=vernoticia&IdNoticia=7701 Decepción en el Carlos Tartiere] {{Webarchive|url=https://archive.today/20130213044912/http://www.realoviedo.es/weboficial/index.asp?Pagina=vernoticia&IdNoticia=7701 |date=13 February 2013 }} {{in lang|es}}</ref>
+|referee=Alberto Fuente Martín
+|penaltyscore = 4–5
+|penalties1=[[Pedro Baquero|Baquero]] {{pengoal}}<br>[[Manu Busto|Busto]] {{penmiss}}<br>[[Diego Cervero|Cervero]] {{pengoal}}<br>[[Aitor Sanz|Sanz]] {{penmiss}}<br>[[Galder Cerrajería|Cerrajería]] {{pengoal}}<br>[[Martín Mantovani|Mantovani]] {{pengoal}}<br>[[Javier Cantero de la Fuente|Cantero]] {{penmiss}}<br>[[David Fernández Cortázar|David Fernández]] {{penmiss}}
+|penalties2={{pengoal}} [[Francisco Javier Bea López|Bea]]<br>{{penmiss}} [[Carlos Ruiz Muñoz|Charly]]<br>{{pengoal}} [[Albert Miquel Cazorla Fernández|Cazorla]]<br>{{pengoal}} [[Fernando Núñez Lázaro|Fernando]]<br>{{penmiss}} [[Rubén Alcaraz|Alcaraz]]<br>{{pengoal}} [[Ferran Vila Bassas|Vila]]<br>{{penmiss}} [[Oriol Ricarte Iniesta|Ricarte]]<br>{{pengoal}} [[Óscar Sierra Luna|Sierra]]
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=20:45 [[Central European Summer Time|CEST]]
+|team1=[[CD Alcoyano|Alcoyano]]
+|score= 1–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17698 Report]
+|team2='''[[CD Tenerife|Tenerife]]'''
+|goals1=[[Javi Lara|Lara]] {{goal|50}}
+|goals2=
+|stadium=[[Estadio El Collao|El Collao]]
+|location=[[Alcoy, Spain|Alcoi]] ([[Province of Alicante|Alicante]])
+|attendance=1,194<ref>[http://www.diarioinformacion.com/deportes/2012/09/13/alcoyano-deja-fuera-tenerife-sigue-copas/1293388.html El Alcoyano deja fuera al Tenerife y sigue de copas] {{in lang|es}}</ref>
+|referee=Valentín Pizarro Gómez
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1=[[Lucena CF|Lucena]]
+|score= 4–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17690 Report]
+|team2='''[[SD Logroñés]]'''
+|goals1=[[Adrián Pavón Leiva|Adri]] {{goal|2||60}}<br>[[José Jesús Lanza Morilla|Lanza]] {{goal|35}}<br>[[Fernando Rodríguez Ortega|Fernando]] {{goal|41}}
+|goals2=[[José Antonio Metola|Metola]] {{goal|68}}
+|stadium=[[Ciudad Deportiva de Lucena|Ciudad Deportiva]]
+|location=[[Lucena, Córdoba|Lucena]] ([[Province of Córdoba (Spain)|Córdoba]])
+|attendance=1,000<ref>[http://www.elcorreo.com/vizcaya/v/20120913/deportes/la-rioja/sueno-truncado-rapida-20120913.html Sueño truncado por la vía rápida] {{in lang|es}}</ref>
+|referee=Carlos Moreno Hidalgo
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1='''[[Cádiz CF|Cádiz]]'''
+|score= 1–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17700 Report]
+|team2=[[Arroyo CP|Arroyo]]
+|goals1=[[Pablo Sánchez Alberto|Pablo Sánchez]] {{goal|64|pen.}}
+|goals2=[[Antonio Moreno López|Toni]] {{goal|7}}<br>[[Iban Espadas Zubizarreta|Iban Espadas]] {{goal|61}}
+|stadium=[[Estadio Ramón de Carranza|Ramón de Carranza]]
+|location=[[Cádiz]]
+|attendance=5,513<ref>[http://www.hoy.es/v/20120913/deportes/segunda-b/arroyo-ahoga-cadiz-20120913.html El Arroyo ahoga al Cádiz] {{in lang|es}}</ref>
+|referee=Ramón Arias Madrid
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1='''[[Real Balompédica Linense|Balompédica Linense]]'''
+|score=2–2
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17701 Report]
+|team2=[[UD Melilla|Melilla]]
+|goals1=[[Rubén Cuesta|Cuesta]] {{goal|60}}<br>[[Francisco Sánchez Curiel|Curro]] {{goal|66}}
+|goals2=[[Mustafá Abdelsalem Mohand|Chota]] {{goal|70||90}}
+|stadium=[[Estadio Municipal de La Línea de la Concepción|Municipal de La Línea]]
+|location=[[La Línea de la Concepción]] ([[Province of Cádiz|Cádiz]])
+|attendance=1,500<ref>[http://www.lavozdigital.es/cadiz/v/20120913/deportes/mas-futbol/balona-queda-eliminada-penaltis-20120913.html La Balona queda eliminada en penaltis tras desperdiciar una renta de dos goles] {{in lang|es}}</ref><ref>[http://www.lagoleada.net/?p=25321 (2-2) La Balona vuelve a dejarse sorprender por un Melilla ramplón] {{Webarchive|url=https://web.archive.org/web/20160304062840/http://www.lagoleada.net/?p=25321 |date=4 March 2016 }} {{in lang|es}}</ref>
+|referee=Carlos López López
+|penaltyscore = 5–6
+|penalties1=[[Isaac Luis Chico|Copi]] {{pengoal}}<br>[[Antonio Domínguez Ocaña|Ocaña]] {{pengoal}}<br>[[Carlos Alberto Guerra López|Guerra]] {{pengoal}}<br>[[Antonio Bello|Bello]] {{pengoal}}<br>[[Juan Francisco Puertas Ayala|Ayala]] {{penmiss}}<br>[[Ismael Flores Palomino|Ismael]] {{pengoal}}<br>Mario {{penmiss}}
+|penalties2={{pengoal}} Domenech<br>{{penmiss}} [[Fernando Velasco Salazar|Velasco]]<br>{{pengoal}} [[César Díaz Martínez|Díaz]]<br>{{pengoal}} [[Mustafá Abdelsalem Mohand|Chota]]<br>{{pengoal}} [[Jairo Álvarez Gutiérrez|Jairo]]<br>{{pengoal}} [[Mohamed Mohamed Mahanan|Mahanan]]<br>{{pengoal}} [[Ignacio Aznar Torrente|Aznar]]
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1=[[Sporting de Gijón|Sporting Gijón]]
+|score= 2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17703 Report]
+|team2='''[[Girona FC|Girona]]'''
+|goals1=[[Nacho Cases|Cases]] {{goal|41}}<br>[[Óscar Trejo|Trejo]] {{goal|44}}
+|goals2=
+|stadium=[[El Molinón]]
+|location=[[Gijón]]
+|attendance=10,500<ref>{{Deprecated archive|url=https://archive.today/20130201053329/http://www.realsporting.com/wrsg/index.php?option=com_content&view=article&id=1734:el-molinon-volvio-a-sonreir-2-0-ante-el-girona-y-adelante-en-la-copa&catid=36:actualidad&Itemid=186|title=El Molinón volvió a sonreír: 2–0 ante el Girona y sigue adelante en la Copa}} {{in lang|es}}</ref>
+|referee=[[Eduardo Prieto Iglesias]]
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1=[[SD Huesca|Huesca]]
+|score= 2–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17704 Report]
+|team2='''[[C.D. Guadalajara (Spain)|Guadalajara]]'''
+|goals1=[[Juanjo Camacho|Camacho]] {{goal|37}}<br>[[Jokin Arcaya|Jokin]] {{goal|49}}
+|goals2=[[Álex Ortiz (footballer)|Ortiz]] {{goal|35}}
+|stadium=[[Estadio El Alcoraz|El Alcoraz]]
+|location=[[Huesca]]
+|attendance=2,400<ref>[http://www.marca.com/2012/09/13/futbol/copa_rey/1347488342.html Esparza culmina la remontada del Huesca] {{in lang|es}}</ref>
+|referee=Fernando López Acera
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1='''[[CD Lugo|Lugo]]'''
+|score=0–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17705 Report]
+|team2=[[Racing Santander]]
+|goals1=
+|goals2=[[Andrija Kaluđerović|Kaluđerović]] {{goal|15}}
+|stadium=[[Estadio Anxo Carro|Anxo Carro]]
+|location=[[Lugo]]
+|attendance=3,000<ref>[http://www.marca.com/2012/09/13/futbol/copa_rey/1347489128.html Kaludjerovic ve puerta de nuevo y mete al Racing en tercera ronda] {{in lang|es}}</ref>
+|referee=Pablo González Fuertes
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1='''[[Xerez CD|Xerez]]'''
+|score= 0–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17710 Report]
+|team2=[[UD Las Palmas|Las Palmas]]
+|goals1=
+|goals2=[[Vicente Gómez Umpiérrez|Vicente Gómez]] {{goal|44}}
+|stadium=[[Estadio Municipal de Chapín|Chapín]]
+|location=[[Jerez de la Frontera]] ([[Province of Cádiz|Cádiz]])
+|attendance=3,145<ref>[http://www.marca.com/2012/09/12/futbol/copa_rey/1347485509.html La UD firma el pase a la contra] {{in lang|es}}</ref>
+|referee=David Pérez Pallas
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=21:30 [[Central European Summer Time|CEST]]
+|team1=[[Real Jaén]]
+|score= 2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17699 Report]
+|team2='''[[Caudal Deportivo|Caudal de Mieres]]'''
+|goals1=[[Santi Villa|Villa]] {{goal|53}}<br>[[Alberto Cobo|Cobo]] {{goal|63}}
+|goals2=
+|stadium=[[Nuevo Estadio de La Victoria|Nuevo La Victoria]]
+|location=[[Jaén, Spain|Jaén]]
+|attendance=3,000<ref>[http://www.mirealjaen.com/noticias/dia-a-dia/367-real-jaen-caudal-0-0-en-directo.html Real Jaén-Caudal (2-0)] {{in lang|es}}</ref>
+|referee=Álvaro Moreno Aragón
+}}
+{{Football box collapsible
+|date=12 September 2012
+|time=22:00 [[Central European Summer Time|CEST]]
+|team1='''[[Villarreal CF|Villarreal]]'''
+|score=0–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=17707 Report]
+|team2=[[SD Ponferradina|Ponferradina]]
+|goals1=
+|goals2=[[Ander Lafuente Aguado|Lafuente]] {{goal|56}}<br>[[Wellington Silva (footballer, born 1993)|Wellington]] {{goal|89}}
+|stadium=[[Estadio El Madrigal|El Madrigal]]
+|location=[[Villarreal|Vila-real]] ([[Province of Castellón|Castellón]])
+|attendance=5,500<ref>[http://www.marca.com/2012/09/13/futbol/copa_rey/1347489322.html El Villarreal no acaba con el gafe] {{in lang|es}}</ref>
+|referee=Alfonso Pino Zamorano
+}}
+
+==Third round==
+The draw was held on 14 September 2012 at 13:00 [[Central European Summer Time|CEST]] in [[La Ciudad del Fútbol]].<ref name="sorteo-18oct">{{cite web |url=http://realjaen.ideal.es/noticias/2012-08-05/real-jaen-sonrie-sorteo-20120805.html |title=Al Real Jaén le sonríe el sorteo de la Copa del Rey |language=es |publisher=ideal.es |date=5 August 2012 |access-date=13 September 2012 |archive-date=11 August 2012 |archive-url=https://web.archive.org/web/20120811191251/http://realjaen.ideal.es/noticias/2012-08-05/real-jaen-sonrie-sorteo-20120805.html |url-status=dead }}</ref> The matches were played on 17–18 October 2012.
+
+[[CD Alcoyano|Alcoyano]] received a bye.
+
+{{Football box collapsible
+|bg=EEEEEE
+|date=17 October 2012
+|time=19:30 [[Central European Summer Time|CEST]]
+|team1='''[[SD Noja|Noja]]'''
+|score=0–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18139 Report]
+|team2=[[Real Jaén]]
+|goals1=
+|goals2=[[Fran Machado|Machado]] {{goal|25}}
+|stadium=[[Estadio La Caseta|La Caseta]]
+|location=[[Noja]] ([[Cantabria]])
+|attendance=400<ref>{{Deprecated archive|url=https://archive.today/20130213053027/http://sdnoja.sdnoja.es/?p=2223|title=El Real Jaén elimina al SD Noja}} {{in lang|es}}</ref>
+|referee=Gorka Sagués Oscoz
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=17 October 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1='''[[Huracán Valencia CF|Huracán Valencia]]'''
+|score=1–2
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18135 Report]
+|team2=[[Deportivo Alavés|Alavés]]
+|goals1=Navarro {{goal|72}}
+|goals2=[[Juan Manuel Delgado Lloria|Juanma]] {{goal|40}}<br />[[Borja Viguera|Viguera]] {{goal|104}}
+|stadium=[[Polideportivo Municipal de Manises|Municipal Vicente Martínez Catalá]]
+|location=[[Manises]] ([[Province of Valencia|Valencia]])
+|attendance=2,000<ref>[http://www.lasprovincias.es/v/20121018/deportes/futbol/huracan-mantiene-vivo-sueno-20121018.html El Huracán mantiene vivo su sueño hasta la prórroga] {{in lang|es}}</ref>
+|referee=Israel Simón Del Pino
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=17 October 2012
+|time=20:00 [[Central European Summer Time|CEST]]
+|team1=[[SD Eibar|Eibar]]
+|score=1–0
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18138 Report]
+|team2='''[[Arroyo CP|Arroyo]]'''
+|goals1=[[Jito (footballer)|Jito]] {{goal|110}}
+|goals2=
+|stadium=[[Ipurua Municipal Stadium|Ipurua]] 
+|location=[[Eibar]] ([[Gipuzkoa]])
+|attendance=2,023<ref>[http://www.diariovasco.com/v/20121018/deportes/mas-futbol/jito-victoria-pase-prorroga-20121018.html Jito da la victoria y el pase en la prórroga] {{in lang|es}}</ref>
+|referee=Eduardo García Ballesteros
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=17 October 2012
+|time=20:30 [[Central European Summer Time|CEST]]
+|team1='''[[CD Constancia|Constància]]'''
+|score=1–1
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18137 Report]
+|team2=[[UD Melilla|Melilla]]
+|goals1=[[Mateu Ferrer Cabrer|Mateu]] {{goal|25}}
+|goals2=[[Fernando Velasco Salazar|Velasco]] {{goal|37}}
+|stadium=[[Nou Camp d'Inca|Nou Camp]]
+|location=[[Inca, Spain|Inca]] ([[Balearic Islands]])
+|attendance=3,000<ref>[http://www.futbolbalear.es/2012/10/17/cronica-copa-del-rey-constancia-1-1-melilla-el-constancia-eliminado-en-los-penaltis/ Constancia 1-1 Melilla, el Constancia eliminado en los penaltis] {{in lang|es}}</ref>
+|referee=Vicente Gil Coscolla
+|penalties1=[[Ismael Vilaboa Monteagudo|Ismael]] {{pengoal}}<br>[[Jaime Hernández Molina|Jaime]] {{pengoal}}<br>[[Miguel Bosch Romera|Miguel Bosch]] {{pengoal}}<br>[[Mateu Ferrer Cabrer|Mateu]] {{penmiss}}<br>[[Cristian Sánchez Adamuz|Cristian]] {{pengoal}}<br>[[Francesc Fullana Ginana|Fullana]] {{pengoal}}<br>[[Pau Siquier Campins|Pau Siquier]] {{pengoal}}<br>[[Biel Guasp Bergas|Biel Guasp]] {{pengoal}}<br>[[Víctor Sánchez Garrido|Víctor]] {{penmiss}}
+|penaltyscore=7–8
+|penalties2={{pengoal}} [[Sergio Jiménez Sánchez|Jiménez]]<br>{{pengoal}} [[César Díaz Martínez|Díaz]]<br>{{pengoal}} [[Mohamed Mohamed Mahanan|Mahanan]]<br>{{pengoal}} [[Jairo Álvarez Gutiérrez|Jairo]]<br>{{penmiss}} [[Ignacio Aznar Torrente|Aznar]]<br>{{pengoal}} [[Mustafá Abdelsalem Mohand|Chota]]<br>{{pengoal}} [[Fausto Tienza|Fausto]]<br>{{pengoal}} [[Andrés José Sánchez Franco|Sánchez]]<br>{{pengoal}} [[Daniel Fragoso|Fragoso]]
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=17 October 2012
+|time=20:45 [[Central European Summer Time|CEST]]
+|team1='''[[AE Prat|Prat]]'''
+|score=2–3
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18136 Report]
+|team2=[[UE Llagostera|Llagostera]]
+|goals1=[[Ferran Vila Bassas|Vila]] {{goal|19}}<br />[[Rafael Murillo García Gil|Murillo]] {{goal|95}}
+|goals2=[[Daniel Planagumá Darné|Planagumá]] {{goal|75}}<br />[[Josep María Comadevall|Pitu]] {{goal|99|pen.|113}}
+|stadium=[[Estadi Sagnier|Sagnier]]
+|location=[[El Prat de Llobregat]] ([[Province of Barcelona|Barcelona]])
+|attendance=2,100<ref>[http://www.aeprat.com/infolistado-COPA+DEL+REI.+PRAT+2 ||||LLAGOSTERA+3.+El+somni+es+desf%C3%A0+a+la+pr%C3%B2rroga-767.html Prat 2-Llagostera 3. El somni es desfà a la pròrroga]{{Dead link|date=September 2019 |bot=InternetArchiveBot |fix-attempted=yes }} {{in lang|ca}}</ref>
+|referee=Vicente Pintado Calero
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=17 October 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1='''[[Lucena CF|Lucena]]'''
+|score=1–3
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18134 Report]
+|team2=[[CP Cacereño|Cacereño]]
+|goals1=[[José María Obregón Sánchez|Obregón]] {{goal|90+3}}
+|goals2=[[Antonio Gavilán Gálvez|Gavilán]] {{goal|6|o.g.}}<br />[[Matías Saad|Saad]] {{goal|35}}<br />[[Santiago Amaro Barril|Amaro]] {{goal|90+1|pen.}}
+|stadium=[[Ciudad Deportiva de Lucena|Ciudad Deportiva]]
+|location=[[Lucena, Córdoba|Lucena]] ([[Province of Córdoba (Spain)|Córdoba]])
+|attendance=2,000<ref>[http://www.lucenaclubdefutbol.com/index.php?option=com_content&view=article&id=584:el-cacereno-agua-las-fiestas-injustamente-al-lucena-0-1&catid=1:segunda-b&Itemid=12 El Cacereño agua las fiestas injustamente al Lucena (0-1)] {{Webarchive|url=https://web.archive.org/web/20130205203109/http://lucenaclubdefutbol.com/index.php?option=com_content&view=article&id=584:el-cacereno-agua-las-fiestas-injustamente-al-lucena-0-1&catid=1:segunda-b&Itemid=12 |date=5 February 2013 }} {{in lang|es}}</ref>
+|referee=Francisco Javier Villena Contreras
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=17 October 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1=[[UD Almería|Almería]]
+|score=3–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18140 Report]
+|team2='''[[AD Alcorcón|Alcorcón]]'''
+|goals1=[[Aleix Vidal|Vidal]] {{goal|23}}<br />[[Leonardo Ulloa|Ulloa]] {{goal|41}}<br />[[Abel Molinero Pons|Abel]] {{goal|62}}
+|goals2=
+|stadium=[[Estadio de los Juegos Mediterráneos|Juegos del Mediterráneo]]
+|location=[[Almería]]
+|attendance=1,976<ref>[http://almeria360.com/deportes/17102012_el-almeria-insiste-en-ganar-por-3-0-pero-esta-vez-si-lo-disfruta-ante-el-alcorcon_42975.html Aleix Vidal apea de la Copa a un gris Alcorcón] {{Webarchive|url=https://web.archive.org/web/20121019190214/http://almeria360.com/deportes/17102012_el-almeria-insiste-en-ganar-por-3-0-pero-esta-vez-si-lo-disfruta-ante-el-alcorcon_42975.html |date=19 October 2012 }} {{in lang|es}}</ref>
+|referee=Santiago Jaime Latre
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=17 October 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1='''[[CE Sabadell FC|Sabadell]]'''
+|score=0–1
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18141 Report]
+|team2=[[Córdoba CF|Córdoba]]
+|goals1=
+|goals2=[[Pablo Ruiz Barrero|Pablo Ruiz]] {{goal|98|o.g.}}
+|stadium=[[Estadi de la Nova Creu Alta|Nova Creu Alta]]
+|location=[[Sabadell]] ([[Province of Barcelona|Barcelona]])
+|attendance=3,089<ref>[http://www.cesabadell.cat/noticies2.asp?id=3068 El Sabadell s'acomiada de la Copa a la pròrroga contra el Córdoba (0-1)] {{Webarchive|url=https://archive.today/20130115152355/http://www.cesabadell.cat/noticies2.asp?id=3068 |date=15 January 2013 }} {{in lang|ca}}</ref>
+|referee=Dámaso Arcediano Monescillo
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=17 October 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1='''[[SD Huesca|Huesca]]'''
+|score=1–1
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18143 Report]
+|team2=[[SD Ponferradina|Ponferradina]]
+|goals1=[[David Vázquez (footballer, born 1986)|Vázquez]] {{goal|95}}
+|goals2=[[Ander Lafuente Aguado|Lafuente]] {{goal|91}}
+|stadium=[[Estadio El Alcoraz|El Alcoraz]]
+|location=[[Huesca]]
+|attendance=4,000<ref>[http://www.leonoticias.com/frontend/leonoticias/La-Ponferradina-Se-Gana-En-Los-Penaltis-vn106955-vst219 La Ponferradina se gana en los penaltis la oportunidad de medirse a un Primera]{{Dead link|date=August 2026 |bot=InternetArchiveBot }} {{in lang|es}}</ref>
+|referee=Mario Melero López
+|penalties1=[[Juanjo Camacho|Camacho]] {{pengoal}}<br>[[David Vázquez (footballer, born 1986)|Vázquez]] {{pengoal}}<br>[[Jokin Arcaya|Jokin]] {{penmiss}}<br>[[Luis Helguera|Helguera]] {{penmiss}}<br>[[Joaquín Sorribas Ariño|Sorribas]] {{pengoal}}
+|penaltyscore=3–4
+|penalties2={{penmiss}} [[Isaías Sánchez|Isaías]]<br>{{pengoal}} [[Adán Gurdiel Mella|Adán]]<br>{{pengoal}} [[Samuel San José Fernández|Samuel]]<br>{{pengoal}} [[Yuri de Souza|Yuri]]<br>{{pengoal}} [[Urko Vera|Vera]]
+}}
+{{Football box collapsible
+|bg=EEEEEE
+|date=17 October 2012
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1=[[Sporting de Gijón|Sporting Gijón]]
+|score=2–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18144 Report]
+|team2='''[[CD Mirandés|Mirandés]]'''
+|goals1=[[Gastón Sangoy|Sangoy]] {{goal|74||85}}
+|goals2=[[Iñigo Díaz de Cerio|Díaz de Cerio]] {{goal|22}}
+|stadium=[[El Molinón]]
+|location=[[Gijón]]
+|attendance=7,700<ref>{{Deprecated archive|url=https://archive.today/20130201034800/http://www.realsporting.com/wrsg/index.php?option=com_content&view=article&id=1908:copa-del-rey-sporting-2-mirandes-1&catid=36:actualidad&Itemid=186|title=Sporting, 2; Mirandés, 1}} {{in lang|es}}</ref>
+|referee=Iñaki Vicandi Garrido
+}}
+{{Football box collapsible
+|date=18 October 2012
+|time=20:00 [[Western European Summer Time|WEST]]
+|team1=[[UD Las Palmas|Las Palmas]]
+|score=4–2
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18142 Report]
+|team2='''[[Racing de Santander|Racing Santander]]'''
+|goals1=[[Javi Guerrero|Guerrero]] {{goal|29}}<br />[[Momo (Spanish footballer)|Momo]] {{goal|90+3|pen.}}<br />[[Jeison Murillo|Murillo]] {{goal|105}}<br />[[Thievy Bifouma|Bifouma]] {{goal|112}}
+|goals2=[[Andrija Kaluđerović|Kaluđerović]] {{goal|2}}<br />[[Hamer Bouazza|Bouazza]] {{goal|85}}
+|stadium=[[Estadio Gran Canaria|Gran Canaria]]
+|location=[[Las Palmas|Las Palmas de Gran Canaria]]
+|attendance=3,360<ref>[http://www.marca.com/2012/10/18/futbol/copa_rey/1350596184.html La Copa alegra a Las Palmas] {{in lang|es}}</ref>
+|referee=Pedro Sureda Cuenca
+}}
+
+==Final phase==
+The draw for the Round of 32, Round of 16, Quarter-finals and Semi-finals<ref name="circular20">{{cite web |url=http://www.rfef.es/FCKeditor/UserFiles/File/circulares/CIRCULAR%2020.pdf |title=Circular 20 |language=es |publisher=[[Royal Spanish Football Federation|RFEF]] |date=15 October 2012 |access-date=16 October 2012 |archive-url=https://web.archive.org/web/20121021014841/http://www.rfef.es/FCKeditor/UserFiles/File/circulares/CIRCULAR%2020.pdf |archive-date=21 October 2012 |url-status=dead}}</ref> was held on 18 October 2012 at 12:00 [[Central European Summer Time|CEST]] in [[La Ciudad del Fútbol]] in [[Las Rozas de Madrid|Las Rozas]], [[Community of Madrid|Madrid]].<ref name="circular22">{{cite web|url=http://www.rfef.es/GetDoc?UniqueKeyValue=61081&ShowPath=false&Download=true |title=Circular 22 |language=es |publisher=[[Royal Spanish Football Federation|RFEF]] |date=18 October 2012 |access-date=19 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121208054850/http://www.rfef.es/GetDoc?UniqueKeyValue=61081&ShowPath=false&Download=true |archive-date=8 December 2012 }}</ref> In this round, all [[2012–13 La Liga|La Liga]] teams entered the competition.<ref name="circular16">{{cite web |url=http://www.rfef.es/GetDoc?UniqueKeyValue=59868&ShowPath=false&Download=true |title=Circular 16 |language=es |publisher=[[Royal Spanish Football Federation|RFEF]] |date=28 September 2012 |access-date=28 September 2012 |archive-url=https://web.archive.org/web/20121023040314/http://rfef.es/GetDoc?UniqueKeyValue=59868&ShowPath=false&Download=true |archive-date=23 October 2012 |url-status=dead}}</ref>
+
+Like previous years, Round of 32 pairings was as follows: the seven remaining teams participating in [[Segunda División B]] and [[Tercera División]] were drawn against the [[La Liga]] teams which qualified for European competitions, this is: four teams from Pot 1 (Segunda B) were drawn against four teams from pot 2a (champions) and the three remaining teams in pot 1 were drawn in the same way with the pot 2b teams (Europa League). The five teams in Pot 3 ([[Segunda División]]) were drawn against five teams of the thirteen remaining teams of La Liga (Pot 4). The remaining eight teams of La Liga faced each other. Matches involving teams with different league tiers played at home on the first leg the team in lower tier, in the other matches the first team to come out of the draw played at home.<ref name="circular5">{{cite web|url=http://www.rfef.es/GetDoc?UniqueKeyValue=56727&ShowPath=false&Download=true |title=Circular 5, pages 30-38 |language=es |publisher=[[Royal Spanish Football Federation|RFEF]] |date=20 July 2012 |access-date=15 September 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121019070546/http://rfef.es/GetDoc?UniqueKeyValue=56727&ShowPath=false&Download=true |archive-date=19 October 2012 }}</ref> This rule was also applied in Round of 16, but not for Quarter-finals and Semi-finals, which order of legs was pure as of the order of draw.<ref name="circular22" />
+
+At the time of the draw, the result of the match between Las Palmas and Racing de Santander (which was played later that day) was not known.
+
+{|class="wikitable"
+|-
+!Pot 1<br /><small>(Segunda&nbsp;División&nbsp;B)</small>
+!Pot 2a<br /><small>(champions&nbsp;League)</small>
+!Pot 2b<br /><small>(Europa&nbsp;League)</small>
+!Pot 3<br /><small>(Segunda&nbsp;División)</small>
+!Pot 4<br /><small>(rest of Primera&nbsp;División)</small>
+|-
+|[[Deportivo Alavés|Alavés]]<br>[[CD Alcoyano|Alcoyano]]<br>[[CP Cacereño|Cacereño]]<br>[[SD Eibar|Eibar]]<br>[[Real Jaén]]<br>[[UE Llagostera|Llagostera]]<br>[[UD Melilla|Melilla]]
+|[[FC Barcelona|Barcelona]] <small>([[2012 Copa del Rey Final|TH]])</small><br>[[Real Madrid C.F.|Real Madrid]]<br>[[Valencia CF|Valencia]]<br>[[Málaga CF|Málaga]]
+|[[Atlético Madrid]]<br>[[Levante UD|Levante]]<br>[[Athletic Bilbao]]
+|[[UD Almería|Almería]]<br>[[Córdoba CF|Córdoba]]<br>[[UD Las Palmas|Las Palmas]]<br>[[SD Ponferradina|Ponferradina]]<br>[[Sporting de Gijón|Sporting Gijón]]
+|[[Real Betis|Betis]]<br>[[Celta de Vigo|Celta Vigo]]<br>[[Deportivo de La Coruña|Deportivo La Coruña]]<br>[[RCD Espanyol|Espanyol]]<br>[[Getafe CF|Getafe]]<br>[[Granada CF|Granada]]<br>[[RCD Mallorca|Mallorca]]<br>[[CA Osasuna|Osasuna]]<br>[[Rayo Vallecano]]<br>[[Real Sociedad]]<br>[[Sevilla CF|Sevilla]]<br>[[Real Valladolid|Valladolid]]<br>[[Real Zaragoza|Zaragoza]]
+|}
+
+===Bracket===
+{{32TeamBracket|legs=2/2/2/2/1|aggregate=y|compact=y|seeds=n|nowrap=y
+| RD1='''Round of 32'''<br />30/31 October, 1 November 2012<br />27/28/29 November 2012<sup>[[#Note 1|1]]</sup>
+| RD2='''Round of 16'''<br /> 11/12/13 December 2012<sup>[[#Note 1|1]]</sup><br />8/9/10 January 2013<sup>[[#Note 2|2]]</sup>
+| RD3='''Quarter-finals'''<br />15/16/17 January 2013<sup>[[#Note 2|2]]</sup><br />23/24 January 2013<sup>[[#Note 2|2]]</sup>
+| RD4='''Semi-finals'''<br />30/31 January 2013<sup>[[#Note 2|2]]</sup><br />26/27 February 2013<sup>[[#Note 2|2]]</sup>
+| RD5='''Final'''<br />17 May 2013
+
+| RD1-team01=[[UD Almería|Almería]]
+| RD1-score01-1=2
+| RD1-score01-2=0
+| RD1-score01-agg=2
+| RD1-team02='''[[Celta de Vigo|Celta Vigo]]''' {{aet}}
+| RD1-score02-1=0
+| RD1-score02-2=3
+| RD1-score02-agg=3
+| RD1-team03=[[CD Alcoyano|Alcoyano]]
+| RD1-score03-1=1
+| RD1-score03-2=0
+| RD1-score03-agg=1
+| RD1-team04='''[[Real Madrid C.F.|Real Madrid]]'''
+| RD1-score04-1=4
+| RD1-score04-2=3
+| RD1-score04-agg=7
+| RD1-team05=[[Sporting de Gijón|Sporting Gijón]]
+| RD1-score05-1=1
+| RD1-score05-2=0
+| RD1-score05-agg=1
+| RD1-team06='''[[CA Osasuna|Osasuna]]'''
+| RD1-score06-1=0
+| RD1-score06-2=2
+| RD1-score06-agg=2
+| RD1-team07=[[UE Llagostera|Llagostera]]
+| RD1-score07-1=0
+| RD1-score07-2=1
+| RD1-score07-agg=1
+| RD1-team08='''[[Valencia CF|Valencia]]'''
+| RD1-score08-1=2
+| RD1-score08-2=3
+| RD1-score08-agg=5
+| RD1-team09='''[[Córdoba CF|Córdoba]]'''
+| RD1-score09-1=2
+| RD1-score09-2=2
+| RD1-score09-agg=4
+| RD1-team10=[[Real Sociedad]]
+| RD1-score10-1=0
+| RD1-score10-2=2
+| RD1-score10-agg=2
+| RD1-team11=[[Deportivo Alavés|Alavés]]
+| RD1-score11-1=0
+| RD1-score11-2=1
+| RD1-score11-agg=1
+| RD1-team12='''[[FC Barcelona|Barcelona]]'''
+| RD1-score12-1=3
+| RD1-score12-2=3
+| RD1-score12-agg=6
+| RD1-team13='''[[SD Eibar|Eibar]]''' ([[Away goals rule|a]])
+| RD1-score13-1=0
+| RD1-score13-2=1
+| RD1-score13-agg=1
+| RD1-team14=[[Athletic Bilbao]]
+| RD1-score14-1=0
+| RD1-score14-2=1
+| RD1-score14-agg=1
+| RD1-team15=[[CP Cacereño|Cacereño]]
+| RD1-score15-1=3
+| RD1-score15-2=1
+| RD1-score15-agg=4
+| RD1-team16='''[[Málaga CF|Málaga]]''' ([[Away goals rule|a]])
+| RD1-score16-1=4
+| RD1-score16-2=0
+| RD1-score16-agg=4
+| RD1-team17=[[Real Jaén]]
+| RD1-score17-1=0
+| RD1-score17-2=0
+| RD1-score17-agg=0
+| RD1-team18='''[[Atlético Madrid]]'''
+| RD1-score18-1=3
+| RD1-score18-2=1
+| RD1-score18-agg=4
+| RD1-team19=[[SD Ponferradina|Ponferradina]]
+| RD1-score19-1=0
+| RD1-score19-2=0
+| RD1-score19-agg=0
+| RD1-team20='''[[Getafe CF|Getafe]]'''
+| RD1-score20-1=4
+| RD1-score20-2=0
+| RD1-score20-agg=4
+| RD1-team21='''[[UD Las Palmas|Las Palmas]]'''
+| RD1-score21-1=1
+| RD1-score21-2=0
+| RD1-score21-agg=1
+| RD1-team22=[[Rayo Vallecano]]
+| RD1-score22-1=0
+| RD1-score22-2=0
+| RD1-score22-agg=0
+| RD1-team23=[[Real Valladolid|Valladolid]]
+| RD1-score23-1=1
+| RD1-score23-2=0
+| RD1-score23-agg=1
+| RD1-team24='''[[Real Betis|Betis]]'''
+| RD1-score24-1=0
+| RD1-score24-2=3
+| RD1-score24-agg=3
+| RD1-team25=[[UD Melilla|Melilla]]
+| RD1-score25-1=1
+| RD1-score25-2=1
+| RD1-score25-agg=2
+| RD1-team26='''[[Levante UD|Levante]]'''
+| RD1-score26-1=0
+| RD1-score26-2=4
+| RD1-score26-agg=4
+| RD1-team27='''[[Real Zaragoza|Zaragoza]]''' ([[Away goals rule|a]])
+| RD1-score27-1=1
+| RD1-score27-2=1
+| RD1-score27-agg=2
+| RD1-team28=[[Granada CF|Granada]]
+| RD1-score28-1=0
+| RD1-score28-2=2
+| RD1-score28-agg=2
+| RD1-team29=[[Deportivo de La Coruña|Deportivo La Coruña]]
+| RD1-score29-1=1
+| RD1-score29-2=0
+| RD1-score29-agg=1
+| RD1-team30='''[[RCD Mallorca|Mallorca]]''' ([[Away goals rule|a]])
+| RD1-score30-1=1
+| RD1-score30-2=0
+| RD1-score30-agg=1
+| RD1-team31='''[[Sevilla FC|Sevilla]]'''
+| RD1-score31-1=3
+| RD1-score31-2=3
+| RD1-score31-agg=6
+| RD1-team32=[[RCD Espanyol|Espanyol]]
+| RD1-score32-1=1
+| RD1-score32-2=0
+| RD1-score32-agg=1
+| RD2-team01=[[Celta de Vigo|Celta Vigo]]
+| RD2-score01-1=2
+| RD2-score01-2=0
+| RD2-score01-agg=2
+| RD2-team02='''[[Real Madrid C.F.|Real Madrid]]'''
+| RD2-score02-1=1
+| RD2-score02-2=4
+| RD2-score02-agg=5
+| RD2-team03=[[CA Osasuna|Osasuna]]
+| RD2-score03-1=0
+| RD2-score03-2=1
+| RD2-score03-agg=1
+| RD2-team04='''[[Valencia CF|Valencia]]'''
+| RD2-score04-1=2
+| RD2-score04-2=2
+| RD2-score04-agg=4
+| RD2-team05=[[Córdoba CF|Córdoba]]
+| RD2-score05-1=0
+| RD2-score05-2=0
+| RD2-score05-agg=0
+| RD2-team06='''[[FC Barcelona|Barcelona]]'''
+| RD2-score06-1=2
+| RD2-score06-2=5
+| RD2-score06-agg=7
+| RD2-team07=[[SD Eibar|Eibar]]
+| RD2-score07-1=1
+| RD2-score07-2=1
+| RD2-score07-agg=2
+| RD2-team08='''[[Málaga CF|Málaga]]'''
+| RD2-score08-1=1
+| RD2-score08-2=4
+| RD2-score08-agg=5
+| RD2-team09='''[[Atlético Madrid]]'''
+| RD2-score09-1=3
+| RD2-score09-2=0
+| RD2-score09-agg=3
+| RD2-team10=[[Getafe CF|Getafe]]
+| RD2-score10-1=0
+| RD2-score10-2=0
+| RD2-score10-agg=0
+| RD2-team11=[[UD Las Palmas|Las Palmas]]
+| RD2-score11-1=1
+| RD2-score11-2=0
+| RD2-score11-agg=1
+| RD2seed12=
+| RD2-team12='''[[Real Betis|Betis]]'''
+| RD2-score12-1=1
+| RD2-score12-2=1
+| RD2-score12-agg=2
+| RD2-team13=[[Levante UD|Levante]]
+| RD2-score13-1=0
+| RD2-score13-2=0
+| RD2-score13-agg=0
+| RD2-team14='''[[Real Zaragoza|Zaragoza]]'''
+| RD2-score14-1=1
+| RD2-score14-2=2
+| RD2-score14-agg=3
+| RD2-team15=[[RCD Mallorca|Mallorca]]
+| RD2-score15-1=0
+| RD2-score15-2=2
+| RD2-score15-agg=2
+| RD2-team16='''[[Sevilla FC|Sevilla]]'''
+| RD2-score16-1=5
+| RD2-score16-2=1
+| RD2-score16-agg=6
+| RD3-team01='''[[Real Madrid C.F.|Real Madrid]]'''
+| RD3-score01-1=2
+| RD3-score01-2=1
+| RD3-score01-agg=3
+| RD3-team02=[[Valencia CF|Valencia]]
+| RD3-score02-1=0
+| RD3-score02-2=1
+| RD3-score02-agg=1
+| RD3-team03='''[[FC Barcelona|Barcelona]]'''
+| RD3-score03-1=2
+| RD3-score03-2=4
+| RD3-score03-agg=6
+| RD3-team04=[[Málaga CF|Málaga]]
+| RD3-score04-1=2
+| RD3-score04-2=2
+| RD3-score04-agg=4
+| RD3-team05='''[[Atlético Madrid]]'''
+| RD3-score05-1=2
+| RD3-score05-2=1
+| RD3-score05-agg=3
+| RD3-team06=[[Real Betis|Betis]]
+| RD3-score06-1=0
+| RD3-score06-2=1
+| RD3-score06-agg=1
+| RD3-team07=[[Real Zaragoza|Zaragoza]]
+| RD3-score07-1=0
+| RD3-score07-2=0
+| RD3-score07-agg=0
+| RD3-team08='''[[Sevilla FC|Sevilla]]'''
+| RD3-score08-1=0
+| RD3-score08-2=4
+| RD3-score08-agg=4
+| RD4-team01='''[[Real Madrid C.F.|Real Madrid]]'''
+| RD4-score01-1=1
+| RD4-score01-2=3
+| RD4-score01-agg=4
+| RD4-team02=[[FC Barcelona|Barcelona]]
+| RD4-score02-1=1
+| RD4-score02-2=1
+| RD4-score02-agg=2
+| RD4-team03='''[[Atlético Madrid]]'''
+| RD4-score03-1=2
+| RD4-score03-2=2
+| RD4-score03-agg=4
+| RD4-team04=[[Sevilla FC|Sevilla]]
+| RD4-score04-1=1
+| RD4-score04-2=2
+| RD4-score04-agg=3
+| RD5-team01=[[Real Madrid C.F.|Real Madrid]]
+| RD5-score01=1
+| RD5-team02='''[[Atlético Madrid]]''' {{aet}}
+| RD5-score02=2
+}}
+
+==Round of 32==
+The first leg matches were played between 30 October and 1 November 2012. The second legs were played between 27 and 29 November 2012,<ref name="circular22" /> except Athletic Bilbao–Eibar on 12 December 2012.<ref name=Athletic-Eibar />
+
+{{TwoLegStart}}
+{{TwoLegResult|[[CD Alcoyano|Alcoyano]]||1–7|'''[[Real Madrid C.F.|Real Madrid]]'''||1–4|0–3|winner=2}}
+{{TwoLegResult|[[UE Llagostera|Llagostera]]||1–5|'''[[Valencia CF|Valencia]]'''||0–2|1–3|winner=2}}
+{{TwoLegResult|[[CP Cacereño|Cacereño]]||4–4 ([[Away goals rule|a]])|'''[[Málaga CF|Málaga]]'''||3–4|1–0|winner=2}}
+{{TwoLegResult|[[Deportivo Alavés|Alavés]]||1–6|'''[[FC Barcelona|Barcelona]]'''||0–3|1–3|winner=2}}
+{{TwoLegResult|'''[[SD Eibar|Eibar]]'''||1–1 ([[Away goals rule|a]])|[[Athletic Bilbao]]||0–0|1–1|winner=1}}
+{{TwoLegResult|[[Real Jaén]]||0–4|'''[[Atlético Madrid]]'''||0–3|0–1|winner=2}}
+{{TwoLegResult|[[UD Melilla|Melilla]]||2–4|'''[[Levante UD|Levante]]'''||1–0|1–4|winner=2}}
+{{TwoLegResult|'''[[UD Las Palmas|Las Palmas]]'''||1–0|[[Rayo Vallecano]]||1–0|0–0|winner=1}}
+{{TwoLegResult|[[Sporting de Gijón|Sporting Gijón]]||1–2|'''[[CA Osasuna|Osasuna]]'''||1–0|0–2|winner=2}}
+{{TwoLegResult|[[UD Almería|Almería]]||2–3 {{aet}}|'''[[Celta de Vigo|Celta Vigo]]'''||2–0|0–3|winner=2}}
+{{TwoLegResult|'''[[Córdoba CF|Córdoba]]'''||4–2|[[Real Sociedad]]||2–0|2–2|winner=1}}
+{{TwoLegResult|[[SD Ponferradina|Ponferradina]]||0–4|'''[[Getafe CF|Getafe]]'''||0–4|0–0|winner=2}}
+{{TwoLegResult|[[Real Valladolid|Valladolid]]||0–3|'''[[Real Betis|Betis]]'''||1–0|0–3|winner=2}}
+{{TwoLegResult|[[Deportivo de La Coruña|Deportivo La Coruña]]||1–1 ([[Away goals rule|a]])|'''[[RCD Mallorca|Mallorca]]'''||1–1|0–0|winner=2}}
+{{TwoLegResult|'''[[Real Zaragoza|Zaragoza]]'''||2–2 ([[Away goals rule|a]])|[[Granada CF|Granada]]||1–0|1–2|winner=1}}
+{{TwoLegResult|'''[[Sevilla FC|Sevilla]]'''||6–1|[[RCD Espanyol|Espanyol]]||3–1|3–0|winner=1}}
+|}
+
+===First leg===
+{{Football box collapsible
+|id = Llagostera v Valencia
+|date=30 October 2012
+|time=20:00 [[Central European Time|CET]]
+|team1=[[UE Llagostera|Llagostera]]
+|score=0–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18276 Report]
+|team2=[[Valencia CF|Valencia]]
+|goals1=
+|goals2=[[Jonas (footballer, born 1984)|Jonas]] {{goal|45+1}}<br />[[Nelson Valdez|Valdez]] {{goal|68}}
+|stadium=[[Estadi Municipal de Llagostera|Municipal de Llagostera]]
+|location=[[Llagostera]] ([[Province of Girona|Girona]])
+|attendance=2,500<ref>[http://futbol.as.com/futbol/2012/10/30/copa_del_rey/1351630761_343918.html El balón parado del Valencia fue mejor que el del Llagostera] {{in lang|es}}</ref>
+|referee=[[Jesús Gil Manzano]]
+}}
+{{Football box collapsible
+|id = Alavés v Barcelona
+|date=30 October 2012
+|time=22:00 [[Central European Time|CET]]
+|team1=[[Deportivo Alavés|Alavés]]
+|score=0–3
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18278 Report]
+|team2=[[FC Barcelona|Barcelona]]
+|goals1=
+|goals2=[[David Villa|Villa]] {{goal|40}}<br />[[Andrés Iniesta|Iniesta]] {{goal|51}}<br />[[Cesc Fàbregas|Fàbregas]] {{goal|88}}
+|stadium=[[Mendizorrotza Stadium|Mendizorrotza]]
+|location=[[Vitoria-Gasteiz]]
+|attendance=19,840<ref>[http://futbol.as.com/futbol/2012/10/30/copa_del_rey/1351637533_842724.html El Barcelona hace los deberes] {{in lang|es}}</ref>
+|referee=[[José Antonio Teixeira Vitienes]]
+}}
+{{Football box collapsible
+|id = Cacereño v Málaga
+|bg=EEEEEE
+|date=31 October 2012
+|time=20:00 [[Central European Time|CET]]
+|team1=[[CP Cacereño|Cacereño]]
+|score=3–4
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18277 Report]
+|team2=[[Málaga CF|Málaga]]
+|goals1=[[Juan Gabriel Jaraíz Borreguero|Jaraíz]] {{goal|36}}<br />[[Alberto Macias Albiac|Chapi]] {{goal|42}}<br />[[Carlos Esteve Rodríguez|Carlos Esteve]] {{goal|87}}
+|goals2=[[Oguchi Onyewu|Onyewu]] {{goal|7}}<br />[[Roque Santa Cruz|Santa Cruz]] {{goal|20||71}}<br />[[Duda (Portuguese footballer)|Duda]] {{goal|59}}
+|stadium=[[Estadio Príncipe Felipe|Príncipe Felipe]]
+|location=[[Cáceres, Spain|Cáceres]]
+|attendance=7,000<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351732038_182839.html Con oficio y Santa Cruz] {{in lang|es}}</ref>
+|referee=[[Antonio Mateu Lahoz]]
+}}
+{{Football box collapsible
+|id = Real Jaén v Atlético Madrid
+|bg=EEEEEE
+|date=31 October 2012
+|time=20:00 [[Central European Time|CET]]
+|team1=[[Real Jaén]]
+|score=0–3
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18280 Report]
+|team2=[[Atlético Madrid]]
+|goals1=
+|goals2=[[Diego Costa|Costa]] {{goal|27|pen.}}<br />[[Adrián López Álvarez|Adrián]] {{goal|62}}<br />[[Raúl García (footballer, born 1986)|García]] {{goal|90+3}}
+|stadium=[[Nuevo Estadio de La Victoria|Nuevo La Victoria]]
+|location=[[Jaén, Spain|Jaén]]
+|attendance=17,000<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351726786_055837.html Este Atlético nunca se relaja] {{in lang|es}}</ref>
+|referee=[[Carlos Delgado Ferreiro]]
+}}
+{{Football box collapsible
+|id = Almería v Celta Vigo
+|bg=EEEEEE
+|date=31 October 2012
+|time=20:00 [[Central European Time|CET]]
+|team1=[[UD Almería|Almería]]
+|score=2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18284 Report]
+|team2=[[Celta de Vigo|Celta Vigo]]
+|goals1=[[Jonathan Sundy Zongo|Zongo]] {{goal|53}}<br />[[Abel Molinero Pons|Abel]] {{goal|87}}
+|goals2=
+|stadium=[[Estadio de los Juegos Mediterráneos|Juegos del Mediterráneo]]
+|location=[[Almería]]
+|attendance=2,487<ref>[http://www.udalmeriasad.com/uda/index.php/inicio/cronicas/4896-titular 2-0: ... Y la afición se lo perdió] {{Webarchive|url=https://web.archive.org/web/20121103210604/http://www.udalmeriasad.com/uda/index.php/inicio/cronicas/4896-titular |date=3 November 2012 }} {{in lang|es}}</ref>
+|referee=[[Alejandro José Hernández Hernández]]
+}}
+{{Football box collapsible
+|id = Zaragoza v Granada
+|bg=EEEEEE
+|date=31 October 2012
+|time=20:00 [[Central European Time|CET]]
+|team1=[[Real Zaragoza|Zaragoza]]
+|score=1–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18289 Report]
+|team2=[[Granada CF|Granada]]
+|goals1=[[Carlos Aranda|Aranda]] {{goal|79}}
+|goals2=
+|stadium=[[La Romareda]]
+|location=[[Zaragoza]]
+|attendance=11,000<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351732842_779167.html Aranda surge de la nada] {{in lang|es}}</ref>
+|referee=[[Alfonso Álvarez Izquierdo]]
+}}
+{{Football box collapsible
+|id = Las Palmas v Rayo Vallecano
+|bg=EEEEEE
+|date=31 October 2012
+|time=20:00 [[Western European Time|WET]]
+|team1=[[UD Las Palmas|Las Palmas]]
+|score=1–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18282 Report]
+|team2=[[Rayo Vallecano]]
+|goals1=[[Thievy Bifouma|Bifouma]] {{goal|21}}
+|goals2=
+|stadium=[[Estadio Gran Canaria|Gran Canaria]]
+|location=[[Las Palmas|Las Palmas de Gran Canaria]]
+|attendance=8,875<ref>[http://www.udlaspalmas.es/actualidad-cronicas-4070 La UD Las Palmas toma ventaja en la Copa (1-0)] {{Webarchive|url=https://web.archive.org/web/20121212135916/http://www.udlaspalmas.es/actualidad-cronicas-4070 |date=12 December 2012 }} {{in lang|es}}</ref>
+|referee=[[Pedro Jesús Pérez Montero]]
+}}
+{{Football box collapsible
+|id = Alcoyano v Real Madrid
+|bg=EEEEEE
+|date=31 October 2012
+|time=22:00 [[Central European Time|CET]]
+|team1=[[CD Alcoyano|Alcoyano]]
+|score=1–4
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18275 Report]
+|team2=[[Real Madrid C.F.|Real Madrid]]
+|goals1=[[Javi Lara]] {{goal|77}}
+|goals2=[[Karim Benzema|Benzema]] {{goal|21||88}}<br />[[Kaká]] {{goal|35}}<br />[[José Rodríguez Martínez|José Rodríguez]] {{goal|67}}
+|stadium=[[Estadio El Collao|El Collao]]
+|location=[[Alcoy, Spain|Alcoi]] ([[Province of Alicante|Alicante]])
+|attendance=6,500<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351732877_480450.html Ganó uno y se lucieron todos] {{in lang|es}}</ref>
+|referee=[[Fernando Teixeira Vitienes]]
+}}
+{{Football box collapsible
+|id = Eibar v Athletic Bilbao
+|date=1 November 2012
+|time=12:00 [[Central European Time|CET]]
+|team1=[[SD Eibar|Eibar]]
+|score=0–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18279 Report]
+|team2=[[Athletic Bilbao]]
+|goals1=
+|goals2=
+|stadium=[[Ipurua Municipal Stadium|Ipurua]]
+|location=[[Eibar]] ([[Gipuzkoa]])
+|attendance=3,859<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351774775_014447.html El Athletic sufre y tendrá que resolver en San Mamés] {{in lang|es}}</ref>
+|referee=[[José Luis Paradas Romero]]
+}}
+{{Football box collapsible
+|id = Valladolid v Betis
+|date=1 November 2012
+|time=17:00 [[Central European Time|CET]]
+|team1=[[Real Valladolid|Valladolid]]
+|score=1–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18287 Report]
+|team2=[[Real Betis|Betis]]
+|goals1=[[Alberto Bueno|Bueno]] {{goal|39}}
+|goals2=
+|stadium=[[Estadio Nuevo José Zorrilla|Nuevo José Zorrilla]]
+|location=[[Valladolid]]
+|attendance=11,674<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351793791_267006.html El Valladolid mantiene su renta pese a estar media hora con diez] {{in lang|es}}</ref>
+|referee=[[Xavier Estrada Fernández]]
+}}
+{{Football box collapsible
+|id = Melilla v Levante
+|date=1 November 2012
+|time=18:00 [[Central European Time|CET]]
+|team1=[[UD Melilla|Melilla]]
+|score=1–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18281 Report]
+|team2=[[Levante UD|Levante]]
+|goals1=[[Fernando Velasco Salazar|Velasco]] {{goal|39|pen.}}
+|goals2=
+|stadium=[[Estadio Municipal Álvarez Claro|Álvarez Claro]]
+|location=[[Melilla]]
+|attendance=3,500<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351797832_306178.html Gesta de un épico Melilla, que tumba con diez al EuroLevante] {{in lang|es}}</ref>
+|referee=[[Carlos del Cerro Grande]]
+}}
+{{Football box collapsible
+|id = Sporting Gijón v Osasuna
+|date=1 November 2012
+|time=19:00 [[Central European Time|CET]]
+|team1=[[Sporting de Gijón|Sporting Gijón]]
+|score=1–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18283 Report]
+|team2=[[CA Osasuna|Osasuna]]
+|goals1=[[Gastón Sangoy|Sangoy]] {{goal|13}}
+|goals2=
+|stadium=[[El Molinón]]
+|location=[[Gijón]]
+|attendance=9,100<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351800736_873322.html El Sporting de Gijón saca ventaja con un ojo puesto en la Liga] {{in lang|es}}</ref>
+|referee=[[Ignacio Iglesias Villanueva]]
+}}
+{{Football box collapsible
+|id = Córdoba v Real Sociedad
+|date=1 November 2012
+|time=19:00 [[Central European Time|CET]]
+|team1=[[Córdoba CF|Córdoba]]
+|score=2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18285 Report]
+|team2=[[Real Sociedad]]
+|goals1=[[Javier Patiño|Patiño]] {{goal|42}}<br />[[Vincenzo Rennella|Rennella]] {{goal|77|pen.}}
+|goals2=
+|stadium=[[Estadio Nuevo Arcángel|Nuevo Arcángel]]
+|location=[[Córdoba, Andalusia|Córdoba]]
+|attendance=15,790<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351801105_239513.html El Córdoba aprovecha el mal de la Real Sociedad fuera de casa] {{in lang|es}}</ref>
+|referee=[[José Luis González González]]
+}}
+{{Football box collapsible
+|id = Ponferradina v Getafe
+|date=1 November 2012
+|time=19:00 [[Central European Time|CET]]
+|team1=[[SD Ponferradina|Ponferradina]]
+|score=0–4
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18286 Report]
+|team2=[[Getafe CF|Getafe]]
+|goals1=
+|goals2=[[Jaime Gavilán|Gavilán]] {{goal|12||64}}<br />[[Ángel Lafita|Lafita]] {{goal|44}}<br />[[Paco Alcácer|Alcácer]] {{goal|68}}
+|stadium=[[Estadio El Toralín|El Toralín]]
+|location=[[Ponferrada]] ([[Province of León|León]])
+|attendance=5,500<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351799980_031719.html El Getafe golea y luce su pegada ante una débil Ponferradina] {{in lang|es}}</ref>
+|referee=[[César Muñiz Fernández]]
+}}
+{{Football box collapsible
+|id = Sevilla v Espanyol
+|date=1 November 2012
+|time=19:00 [[Central European Time|CET]]
+|team1=[[Sevilla FC|Sevilla]]
+|score=3–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18290 Report]
+|team2=[[RCD Espanyol|Espanyol]]
+|goals1=[[Federico Fazio|Fazio]] {{goal|3}}<br />[[Cala (footballer, born 1989)|Cala]] {{goal|82}}<br />[[Álvaro Negredo|Negredo]] {{goal|89|pen.}}
+|goals2=[[Christian Alfonso López|Alfonso]] {{goal|68}}
+|stadium=[[Estadio Ramón Sánchez Pizjuán|Ramón Sánchez Pizjuán]]
+|location=[[Seville]]
+|attendance=25,000<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351801032_989077.html El Sevilla toma ventaja gracias a la pasividad del Espanyol] {{in lang|es}}</ref>
+|referee=[[Miguel Ángel Pérez Lasa]]
+}}
+{{Football box collapsible
+|id = Deportivo La Coruña v Mallorca
+|date=1 November 2012
+|time=21:00 [[Central European Time|CET]]
+|team1=[[Deportivo de La Coruña|Deportivo La Coruña]]
+|score=1–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18288 Report]
+|team2=[[RCD Mallorca|Mallorca]]
+|goals1=[[Manuel Pablo]] {{goal|54}}
+|goals2=[[Pedro Geromel|Geromel]] {{goal|70}}
+|stadium=[[Estadio Riazor|Riazor]]
+|location=[[A Coruña]]
+|attendance=17,000<ref>[http://futbol.as.com/futbol/2012/11/01/copa_del_rey/1351807866_694674.html El Mallorca se lleva ventaja a Palma a pesar de Manuel Pablo] {{in lang|es}}</ref>
+|referee=[[Miguel Ángel Ayza Gámez]]
+}}
+
+===Second leg===
+{{Football box collapsible
+|id = Rayo Vallecano v Las Palmas
+|date=27 November 2012
+|time=19:30 [[Central European Time|CET]]
+|team1='''[[Rayo Vallecano]]'''
+|score=0–0
+|aggregatescore= 0–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18549 Report]
+|team2=[[UD Las Palmas|Las Palmas]]
+|goals1=
+|goals2=
+|stadium=[[Campo de Fútbol de Vallecas|Vallecas]]
+|location=[[Madrid]]
+|attendance=6,300<ref>[http://futbol.as.com/futbol/2012/11/27/copa_del_rey/1354048578_694554.html Las Palmas se aprovecha del despropósito del Rayo Vallecano] {{in lang|es}}</ref>
+|referee=[[Miguel Ángel Pérez Lasa]]
+}}
+{{Football box collapsible
+|id = Osasuna v Sporting Gijón
+|date=27 November 2012
+|time=19:30 [[Central European Time|CET]]
+|team1=[[CA Osasuna|Osasuna]]
+|score=2–0
+|aggregatescore= 2–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18550 Report]
+|team2='''[[Sporting de Gijón|Sporting Gijón]]'''
+|goals1=[[Joseba Llorente|Llorente]] {{goal|69}}<br />[[Rubén González Rocha|Rubén]] {{goal|75}}
+|goals2=
+|stadium=[[El Sadar Stadium|El Sadar]]
+|location=[[Pamplona]]
+|attendance=11,109<ref>[http://www.osasuna.es/dev/equipos/primerequipo/primeraplantilla/partido?p=347 Osasuna 2-0 Sporting Gijón] {{Webarchive|url=https://web.archive.org/web/20160303233148/http://www.osasuna.es/dev/equipos/primerequipo/primeraplantilla/partido?p=347 |date=3 March 2016 }} {{in lang|es}}</ref>
+|referee=[[Fernando Teixeira Vitienes]]
+}}
+{{Football box collapsible
+|id = Real Sociedad v Córdoba
+|date=27 November 2012
+|time=19:30 [[Central European Time|CET]]
+|team1='''[[Real Sociedad]]'''
+|score=2–2
+|aggregatescore= 2–4
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18552 Report]
+|team2=[[Córdoba CF|Córdoba]]
+|goals1=[[Antoine Griezmann|Griezmann]] {{goal|21}}<br />[[Imanol Agirretxe|Agirretxe]] {{goal|85}}
+|goals2=[[Javier Patiño|Patiño]] {{goal|65}}<br />[[Sebastián Dubarbier|Dubarbier]] {{goal|72}}
+|stadium=[[Anoeta Stadium|Anoeta]]
+|location=[[San Sebastián|Donostia]]
+|attendance=16,918<ref>[http://www.realsociedad.com/document/view/spa/0/160077/fuera-de-la-copa-(2-2) Fuera de la Copa (Real Sociedad 2-2 Córdoba)] {{in lang|es}}</ref>
+|referee=[[Miguel Ángel Ayza Gámez]]
+}}
+{{Football box collapsible
+|id = Betis v Valladolid
+|date=27 November 2012
+|time=19:30 [[Central European Time|CET]]
+|team1=[[Real Betis|Betis]]
+|score=3–0
+|aggregatescore= 3–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18554 Report]
+|team2='''[[Real Valladolid|Valladolid]]'''
+|goals1=[[Antonio Amaya|Amaya]] {{goal|26}}<br />[[Rubén Castro|Castro]] {{goal|61}}<br />[[Jesús Rueda (footballer)|Rueda]] {{goal|86|o.g.}}
+|goals2=
+|stadium=[[Estadio Benito Villamarín|Benito Villamarín]]
+|location=[[Seville]]
+|attendance=27,789<ref>[http://www.realbetisbalompie.es/noticias/general/2717_Gran_partido_y_a_octavos__3_0_ Gran partido y a octavos (Betis 3-0 Valladolid)] {{Webarchive|url=https://web.archive.org/web/20121130023800/http://www.realbetisbalompie.es/noticias/general/2717_Gran_partido_y_a_octavos__3_0_ |date=30 November 2012 }} {{in lang|es}}</ref>
+|referee=[[Alfonso Álvarez Izquierdo]]
+}}
+{{Football box collapsible
+|id = Real Madrid v Alcoyano
+|date=27 November 2012
+|time=21:30 [[Central European Time|CET]]
+|team1=[[Real Madrid C.F.|Real Madrid]]
+|score=3–0
+|aggregatescore= 7–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18542 Report]
+|team2='''[[CD Alcoyano|Alcoyano]]'''
+|goals1=[[Ángel Di María|Di María]] {{goal|71}}<br />[[José Callejón|Callejón]] {{goal|88||89}}
+|goals2=
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location=[[Madrid]]
+|attendance=35,000<ref>[http://futbol.as.com/futbol/2012/11/27/copa_del_rey/1354055671_944201.html Di María agita y resuelve (Real Madrid 3-0 Alcoyano)] {{in lang|es}}</ref>
+|referee=[[Ignacio Iglesias Villanueva]]
+}}
+{{Football box collapsible
+|id = Málaga v Cacereño
+|date=27 November 2012
+|time=21:30 [[Central European Time|CET]]
+|team1=[[Málaga CF|Málaga]]
+|score=0–1
+|aggregatescore= 4[[Away goals rule|a]]–4
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18544 Report]
+|team2='''[[CP Cacereño|Cacereño]]'''
+|goals1=
+|goals2=[[Alberto Macias Albiac|Chapi]] {{goal|36}}
+|stadium=[[La Rosaleda Stadium|La Rosaleda]]
+|location=[[Málaga]]
+|attendance=10,000<ref>[http://futbol.as.com/futbol/2012/11/27/copa_del_rey/1354055768_279278.html El Cacereño rozó la sorpresa] {{in lang|es}}</ref>
+|referee=[[Carlos del Cerro Grande]]
+}}
+{{Football box collapsible
+|id = Valencia v Llagostera
+|bg=EEEEEE
+|date=28 November 2012
+|time=19:30 [[Central European Time|CET]]
+|team1=[[Valencia CF|Valencia]]
+|score=3–1
+|aggregatescore = 5–1 
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18543 Report]
+|team2='''[[UE Llagostera|Llagostera]]'''
+|goals1=[[Adil Rami|Rami]] {{goal|15}}<br />[[Nelson Valdez|Valdez]] {{goal|57}}<br />[[Juan Bernat|Bernat]] {{goal|78}}
+|goals2=[[Nicolás Rubio Sánchez|Rubio]] {{goal|83}}
+|stadium=[[Mestalla Stadium|Mestalla]]
+|location=[[Valencia]]
+|attendance=8,000<ref>[http://www.superdeporte.es/valencia/2012/11/28/entrada-pobre-mestalla/180592.html Entrada pobre en Mestalla (Valencia-Llagostera)] {{in lang|es}}</ref>
+|referee=[[José Antonio Teixeira Vitienes]]
+}}
+{{Football box collapsible
+|id = Atlético Madrid v Real Jaén
+|bg=EEEEEE
+|date=28 November 2012
+|time=19:30 [[Central European Time|CET]]
+|team1=[[Atlético Madrid]]
+|score=1–0
+|aggregatescore = 4–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18547 Report]
+|team2='''[[Real Jaén]]'''
+|goals1=[[Raúl García (footballer, born 1986)|García]] {{goal|15}}
+|goals2=
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]]
+|location=[[Madrid]]
+|attendance=7,000<ref>[http://futbol.as.com/futbol/2012/11/28/copa_del_rey/1354134190_234865.html Raúl García pide un sitio para el derbi ante el Real Madrid] {{in lang|es}}</ref>
+|referee=[[César Muñiz Fernández]]
+}}
+{{Football box collapsible
+|id = Levante v Melilla
+|bg=EEEEEE
+|date=28 November 2012
+|time=19:30 [[Central European Time|CET]]
+|team1=[[Levante UD|Levante]]
+|score=4–1
+|aggregatescore = 4–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18548 Report]
+|team2='''[[UD Melilla|Melilla]]'''
+|goals1=[[Nikolaos Karabelas|Karabelas]] {{goal|25}}<br />[[Roger Martí|Roger]] {{goal|62}}<br />[[Miguel Marcos Madera|Míchel]] {{goal|76}}<br />[[Vicente Iborra|Iborra]] {{goal|85|pen.}}
+|goals2=[[Mustafá Abdelsalem Mohand|Chota]] {{goal|27}}
+|stadium=[[Estadi Ciutat de València|Ciutat de València]]
+|location=[[Valencia]]
+|attendance=11,197<ref>[http://futbol.as.com/futbol/2012/11/28/copa_del_rey/1354134942_256216.html Al Levante le vale una buena segunda parte para pasar] {{in lang|es}}</ref>
+|referee=[[José Luis González González]]
+}}
+{{Football box collapsible
+|id = Getafe v Ponferradina
+|bg=EEEEEE
+|date=28 November 2012
+|time=19:30 [[Central European Time|CET]]
+|team1=[[Getafe CF|Getafe]]
+|score=0–0
+|aggregatescore = 4–0 
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18553 Report]
+|team2='''[[SD Ponferradina|Ponferradina]]'''
+|goals1=
+|goals2=
+|stadium=[[Coliseum Alfonso Pérez]]
+|location=[[Getafe]] ([[Community of Madrid|Madrid]])
+|attendance=2,000<ref>[http://futbol.as.com/futbol/2012/11/28/copa_del_rey/1354135695_300873.html El Getafe cumple el trámite y elimina a la Ponferradina] {{in lang|es}}</ref>
+|referee=[[Pedro Jesús Pérez Montero]]
+}}
+{{Football box collapsible
+|id = Barcelona v Alavés
+|bg=EEEEEE
+|date=28 November 2012
+|time=21:30 [[Central European Time|CET]]
+|team1=[[FC Barcelona|Barcelona]]
+|score=3–1
+|aggregatescore = 6–1 
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18545 Report]
+|team2='''[[Deportivo Alavés|Alavés]]'''
+|goals1=[[Adriano (footballer, born 1984)|Adriano]] {{goal|35}}<br />[[David Villa|Villa]] {{goal|55||59}}
+|goals2=[[Borja Viguera|Viguera]] {{goal|17}}
+|stadium=[[Camp Nou]]
+|location=[[Barcelona]]
+|attendance=57,655<ref>[http://futbol.as.com/futbol/2012/11/28/copa_del_rey/1354141117_408166.html Trescientas pinceladas de Villa] {{in lang|es}}</ref>
+|referee=[[Carlos Velasco Carballo]]
+}}
+{{Football box collapsible
+|id = Espanyol v Sevilla
+|bg=EEEEEE
+|date=28 November 2012
+|time=21:30 [[Central European Time|CET]]
+|team1='''[[RCD Espanyol|Espanyol]]'''
+|score=0–3
+|aggregatescore = 1–6 
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18557 Report]
+|team2=[[Sevilla FC|Sevilla]]
+|goals1=
+|goals2=[[Diego Perotti|Perotti]] {{goal|26|pen.}}<br />[[Ivan Rakitić|Rakitić]] {{goal|44}}<br />[[Baba Diawara|Diawara]] {{goal|49}}
+|stadium=[[Estadi Cornellà-El Prat|Cornellà-El Prat]]
+|location=[[Cornellà de Llobregat]] ([[Province of Barcelona|Barcelona]])
+|attendance=7,463<ref>{{Deprecated archive|url=https://archive.today/20130201080748/http://www.rcdespanyol.com/principal.php?modulo=detalleNoticia&idnoticia=14738&idseccion=28&idlinkchk=0&idmenu=9&idsubmenu=108|title=Espanyol 0-3 Sevilla: Eliminats}} {{in lang|ca}}</ref>
+|referee=[[Carlos Clos Gómez]]
+}}
+{{Football box collapsible
+|id = Celta Vigo v Almería
+|date=29 November 2012
+|time=19:30 [[Central European Time|CET]]
+|team1=[[Celta de Vigo|Celta Vigo]]
+|score=3–0
+|aggregatescore = 3–2 
+|aet=yes
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18551 Report]
+|team2='''[[UD Almería|Almería]]'''
+|goals1=[[Park Chu-young|Park]] {{goal|54}}<br />[[Roberto Lago|Lago]] {{goal|89}}<br />[[Enrique de Lucas|De Lucas]] {{goal|109}}
+|goals2=
+|stadium=[[Balaídos]]
+|location=[[Vigo]] ([[Province of Pontevedra|Pontevedra]])
+|attendance=10,541<ref>[http://futbol.as.com/futbol/2012/11/29/copa_del_rey/1354224483_858662.html El Celta remonta y se medirá al Real Madrid en octavos] {{in lang|es}}</ref>
+|referee=[[Alberto Undiano Mallenco]]
+}}
+{{Football box collapsible
+|id = Granada v Zaragoza
+|date=29 November 2012
+|time=19:30 [[Central European Time|CET]]
+|team1='''[[Granada CF|Granada]]'''
+|score=2–1
+|aggregatescore =2–2[[Away goals rule|a]]
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18556 Report]
+|team2=[[Real Zaragoza|Zaragoza]]
+|goals1=[[Odion Ighalo|Ighalo]] {{goal|27}}<br />[[Diego Mainz|Mainz]] {{goal|65}}
+|goals2=[[José Mari (footballer, born 1987)|José Mari]] {{goal|55}}
+|stadium=[[Estadio Nuevo Los Cármenes|Nuevo Los Cármenes]]
+|location=[[Granada]]
+|attendance=21,000<ref>[http://futbol.as.com/futbol/2012/11/29/copa_del_rey/1354222223_386913.html Un gol de José Mari le da el pase al Zaragoza pese a perder] {{in lang|es}}</ref>
+|referee=[[Jesús Gil Manzano]]
+}}
+{{Football box collapsible
+|id = Mallorca v Deportivo La Coruña
+|date=29 November 2012
+|time=21:30 [[Central European Time|CET]]
+|team1=[[RCD Mallorca|Mallorca]]
+|score=0–0
+|aggregatescore = 1[[Away goals rule|a]]–1 
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18555 Report]
+|team2='''[[Deportivo de La Coruña|Deportivo La Coruña]]'''
+|goals1=
+|goals2=
+|stadium=[[Iberostar Stadium]]
+|location=[[Palma, Majorca|Palma]]
+|attendance=5,270<ref>[http://futbol.as.com/futbol/2012/11/29/copa_del_rey/1354228994_659352.html El gol marcado en Riazor clasifica al Mallorca en Palma] {{in lang|es}}</ref>
+|referee=[[Xavier Estrada Fernández]]
+}}
+{{Football box collapsible
+|id = Athletic Bilbao v Eibar
+|bg=EEEEEE
+|date=12 December 2012
+|time=20:00 [[Central European Time|CET]]
+|team1='''[[Athletic Bilbao]]'''
+|score=1–1
+|aggregatescore = 1–1[[Away goals rule|a]]
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18546 Report]
+|team2=[[SD Eibar|Eibar]]
+|goals1=[[Aritz Aduriz|Aduriz]] {{goal|89}}
+|goals2=[[Mikel Arruabarrena Aranbide|Arruabarrena]] {{goal|72|pen.}}
+|stadium=[[San Mamés Stadium (1913)|San Mamés]]
+|location=[[Bilbao]]
+|attendance=25,000<ref>[http://www.deia.com/2012/12/12/athletic/el-eibar-echa-al-athletic-de-la-copa El Eibar echa al Athletic de la Copa] {{in lang|es}}</ref>
+|referee=[[Carlos Velasco Carballo]]
+|note=The match was original scheduled to play on 28 November 19:30. It was postponed after the reschedule by UEFA<ref name=UEFA-Kiryat-Athletic>{{cite web |url=https://www.uefa.com/uefaeuropaleague/news/025a-0ea97d1bcb6a-22c903b037f4-1000--kiryat-shmona-v-athletic-game-rescheduled/ |title=Kiryat Shmona v Athletic game rescheduled |publisher=[[UEFA]] |date=23 November 2012 |access-date=23 November 2012}}</ref> of [[2012–13 UEFA Europa League group stage#Ironi Kiryat Shmona v Athletic Bilbao|Europa League match in Haifa on this day]], the RFEF changed date to 12 December,<ref name=Athletic-Eibar>{{cite web |url=http://www.athletic-club.net/web/main.asp?a=0&b=1&c=1&d=1000&berria=12653&idi=2 |title=Athletic Club-Eibar: New date |publisher=[[Athletic Bilbao]] |date=23 November 2012 |access-date=7 December 2012 |archive-url=https://web.archive.org/web/20121127182009/http://www.athletic-club.net/web/main.asp?a=0 |archive-date=27 November 2012 |url-status=dead }}</ref> then the fixture of Round of 16 which will play the winner of this knockout will be delayed one week later.
+}}
+
+==Round of 16==
+The first leg matches were played on 11–13 December 2012,<ref name="circular22" /> except the Eibar–Málaga match, which was played on 18 December 2012. The second leg were played on 8–10 January 2013.<ref name="Calendar changes" /> The order of legs were changed in knockouts between teams from different levels, the lower league team playing at home in the first leg,<ref name="circular22" /> as was the case in the knockout [[FC Barcelona]] v [[Córdoba CF]].
+
+{{TwoLegStart}}
+{{TwoLegResult|[[UD Las Palmas|Las Palmas]]||1–2|'''[[Real Betis|Betis]]'''||1–1|0–1|winner=2}}
+{{TwoLegResult|[[Levante UD|Levante]]||0–3|'''[[Real Zaragoza|Zaragoza]]'''||0–1|0–2|winner=2}}
+{{TwoLegResult|[[RCD Mallorca|Mallorca]]||2–6|'''[[Sevilla FC|Sevilla]]'''||0–5|2–1|winner=2}}
+{{TwoLegResult|[[CA Osasuna|Osasuna]]||1–4|'''[[Valencia CF|Valencia]]'''||0–2|1–2|winner=2}}
+{{TwoLegResult|[[SD Eibar|Eibar]]||2–5|'''[[Málaga CF|Málaga]]'''||1–1|1–4|winner=2}}
+{{TwoLegResult|'''[[Atlético Madrid]]'''||3–0|[[Getafe CF|Getafe]]||3–0|0–0|winner=1}}
+{{TwoLegResult|[[Córdoba CF|Córdoba]]||0–7|'''[[FC Barcelona|Barcelona]]'''||0–2|0–5|winner=2}}
+{{TwoLegResult|[[Celta de Vigo|Celta Vigo]]||2–5|'''[[Real Madrid C.F.|Real Madrid]]'''||2–1|0–4|winner=2}}
+|}
+
+===First leg===
+{{Football box collapsible
+|id = Osasuna v Valencia
+|date=11 December 2012
+|time=20:00 [[Central European Time|CET]]
+|team1=[[CA Osasuna|Osasuna]]
+|score=0–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18717 Report]
+|team2=[[Valencia CF|Valencia]]
+|goals1=
+|goals2=[[Dani Parejo|Parejo]] {{goal|48}}<br />[[Roberto Soldado|Soldado]] {{goal|90+3}}
+|stadium=[[El Sadar Stadium|El Sadar]]
+|location=[[Pamplona]]
+|attendance=10,855<ref>[http://www.osasuna.es/dev/equipos/primerequipo/primeraplantilla/partido?p=354 Osasuna 0–2 Valencia] {{Webarchive|url=https://web.archive.org/web/20160303221214/http://www.osasuna.es/dev/equipos/primerequipo/primeraplantilla/partido?p=354 |date=3 March 2016 }} {{in lang|es}}</ref>
+|referee=[[Miguel Ángel Pérez Lasa]]
+}}
+{{Football box collapsible
+|id = Mallorca v Sevilla
+|bg=EEEEEE
+|date=12 December 2012
+|time=20:00 [[Central European Time|CET]]
+|team1=[[RCD Mallorca|Mallorca]]
+|score=0–5
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18716 Report]
+|team2=[[Sevilla FC|Sevilla]]
+|goals1=
+|goals2=[[Álvaro Negredo|Negredo]] {{goal|13||18}}<br />[[Gary Medel|Medel]] {{goal|25}}<br />[[Alberto Botía|Botía]] {{goal|47}}<br />[[Antonio Luna (footballer)|Luna]] {{goal|85}}
+|stadium=[[Iberostar Stadium]]
+|location=[[Palma, Majorca|Palma]]
+|attendance=4,330<ref>[http://www.fiebredeportiva.es/copa-del-rey-rcd-mallorca-0-5-sevilla-fc/ RCD Mallorca 0-5 Sevilla FC] {{Webarchive|url=https://web.archive.org/web/20121226003606/http://www.fiebredeportiva.es/copa-del-rey-rcd-mallorca-0-5-sevilla-fc/ |date=26 December 2012 }} {{in lang|es}}</ref>
+|referee=[[Carlos Clos Gómez]]
+}}
+{{Football box collapsible
+|id = Córdoba v Barcelona
+|bg=EEEEEE
+|date=12 December 2012
+|time=20:00 [[Central European Time|CET]]
+|team1=[[Córdoba CF|Córdoba]]
+|score=0–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18720 Report]
+|team2=[[FC Barcelona|Barcelona]]
+|goals1=
+|goals2=[[Lionel Messi|Messi]] {{goal|11||74}}
+|stadium=[[Estadio Nuevo Arcángel|Nuevo Arcángel]]
+|location=[[Córdoba, Andalusia|Córdoba]]
+|attendance=20,000<ref>[http://www.sport.es/es/noticias/barca/barca-tuvo-que-ser-champions-para-derrotar-cordoba-2271005 El Barça tuvo que ser de Champions para derrotar al Córdoba] {{in lang|es}}</ref>
+|referee=[[Carlos del Cerro Grande]]
+}}
+{{Football box collapsible
+|id = Atlético Madrid v Getafe
+|bg=EEEEEE
+|date=12 December 2012
+|time=22:00 [[Central European Time|CET]]
+|team1=[[Atlético Madrid]]
+|score=3–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18719 Report]
+|team2=[[Getafe CF|Getafe]]
+|goals1=[[Diego Costa|Costa]] {{goal|19|pen.|87}}<br />[[Filipe Luís]] {{goal|80}}
+|goals2=
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]]
+|location=[[Madrid]]
+|attendance=7,000<ref>[http://www.marca.com/eventos/marcador/futbol/2012_13/copa/octavos/ida/atm_get/ El Atlético sí quiere la Copa] {{in lang|es}}</ref>
+|referee=[[Antonio Mateu Lahoz]]
+}}
+{{Football box collapsible
+|id = Celta Vigo v Real Madrid
+|bg=EEEEEE
+|date=12 December 2012
+|time=22:00 [[Central European Time|CET]]
+|team1=[[Celta de Vigo|Celta Vigo]]
+|score=2–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18721 Report]
+|team2=[[Real Madrid C.F.|Real Madrid]]
+|goals1=[[Mario Bermejo|Bermejo]] {{goal|56}}<br />[[Cristian Bustos|Bustos]] {{goal|78}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|87}}
+|stadium=[[Balaídos]]
+|location=[[Vigo]] ([[Province of Pontevedra|Pontevedra]])
+|attendance=27,988<ref>{{Deprecated archive|url=https://archive.today/20130221141136/http://www.celtavigo.net/gl/primer-equipo/novas/5773-un-gran-celta-supera-ao-madrid-no-primeiro-envite-de-copa|title=Un gran Celta supera ao Madrid no primeiro envite de Copa}} {{in lang|gl}}</ref>
+|referee=[[Alfonso Álvarez Izquierdo]]
+}}
+{{Football box collapsible
+|id = Levante v Zaragoza
+|date=13 December 2012
+|time=20:00 [[Central European Time|CET]]
+|team1=[[Levante UD|Levante]]
+|score=0–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18715 Report]
+|team2=[[Real Zaragoza|Zaragoza]]
+|goals1=
+|goals2=[[Carlos Aranda|Aranda]] {{goal|90+1}}
+|stadium=[[Estadi Ciutat de València|Ciutat de València]]
+|location=[[Valencia]]
+|attendance=10,862<ref>[http://www.heraldo.es/noticias/deportes/futbol/real_zaragoza/2012/12/13/levante_zaragoza_215122_611027.html Aranda da alas al Real Zaragoza] {{in lang|es}}</ref>
+|referee=[[Pedro Jesús Pérez Montero]]
+}}
+{{Football box collapsible
+|id = Las Palmas v Betis
+|date=13 December 2012
+|time=21:00 [[Western European Time|WET]]
+|team1=[[UD Las Palmas|Las Palmas]]
+|score=1–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18714 Report]
+|team2=[[Real Betis|Betis]]
+|goals1=[[Macauley Chrisantus|Chrisantus]] {{goal|84}}
+|goals2=[[Rubén Castro|Castro]] {{goal|66}}
+|stadium=[[Estadio Gran Canaria|Gran Canaria]]
+|location=[[Las Palmas|Las Palmas de Gran Canaria]]
+|attendance=14,640<ref>[http://www.udlaspalmas.es/actualidad-cronicas-4230 Las Palmas sigue viva en la Copa con un gol de Chrisantus (1-1)] {{Webarchive|url=https://web.archive.org/web/20130106064512/http://www.udlaspalmas.es/actualidad-cronicas-4230 |date=6 January 2013 }} {{in lang|es}}</ref>
+|referee=[[Carlos Delgado Ferreiro]]
+}}
+{{Football box collapsible
+|id = Eibar v Málaga
+|bg=EEEEEE
+|date=18 December 2012
+|time=20:00 [[Central European Time|CET]]
+|team1=[[SD Eibar|Eibar]]
+|score=1–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18786 Report]
+|team2=[[Málaga CF|Málaga]]
+|goals1=[[Txema Añibarro|Añibarro]] {{goal|73}}
+|goals2=[[Oguchi Onyewu|Onyewu]] {{goal|90}}
+|stadium=[[Ipurua Municipal Stadium|Ipurua]]
+|location=[[Eibar]] ([[Gipuzkoa]])
+|attendance=4,273<ref>[http://www.malagacf.com/es/noticia/tablas-in-extremis-eibar-ipurua-11/69221 Tabla in extremis ante el Eibar en Ipurúa (1-1)] {{in lang|es}}</ref>
+|referee=[[José Antonio Teixeira Vitienes]]
+}}
+
+===Second leg===
+{{Football box collapsible
+|id = Málaga v Eibar
+|date=8 January 2013
+|time=19:30 [[Central European Time|CET]]
+|team1=[[Málaga CF|Málaga]]
+|score=4–1
+|aggregatescore=5–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18920 Report]
+|team2='''[[SD Eibar|Eibar]]'''
+|goals1=[[Diego Buonanotte|Buonanotte]] {{goal|74||90+1}}<br />[[Sebastián Fernández (footballer, born 1989)|Fernández]] {{goal|77}}<br />[[Francisco Portillo (footballer, born 1990)|Portillo]] {{goal|83}}
+|goals2=[[Rubén Arroyo|Arroyo]] {{goal|11}}
+|stadium=[[La Rosaleda Stadium|La Rosaleda]]
+|location=[[Málaga]]
+|attendance=25,000<ref>[http://futbol.as.com/futbol/2013/01/08/copa_del_rey/1357678596_358222.html El Málaga sufrió hasta el final pero resolvió con su pegada] {{in lang|es}}</ref>
+|referee=[[Jesús Gil Manzano]]
+}}
+{{Football box collapsible
+|id = Valencia v Osasuna
+|date=8 January 2013
+|time=21:30 [[Central European Time|CET]]
+|team1=[[Valencia CF|Valencia]]
+|score=2–1
+|aggregatescore=4–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18919 Report]
+|team2='''[[CA Osasuna|Osasuna]]'''
+|goals1=[[Tino Costa|T. Costa]] {{goal|34}}<br />[[Roberto Soldado|Soldado]] {{goal|90+3}}
+|goals2=[[Joseba Llorente|Llorente]] {{goal|36}}
+|stadium=[[Mestalla Stadium|Mestalla]]
+|location=[[Valencia]]
+|attendance=15,000<ref>[http://futbol.as.com/futbol/2013/01/08/copa_del_rey/1357683943_994261.html El Valencia ya espera en cuartos a Real Madrid o Celta] {{in lang|es}}</ref>
+|referee=[[Carlos Velasco Carballo]]
+}}
+{{Football box collapsible
+|id = Sevilla v Mallorca
+|bg=EEEEEE
+|date=9 January 2013
+|time=19:30 [[Central European Time|CET]]
+|team1=[[Sevilla FC|Sevilla]]
+|score=1–2
+|aggregatescore=6–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18918 Report]
+|team2='''[[RCD Mallorca|Mallorca]]'''
+|goals1=[[Manu del Moral]] {{goal|22}}
+|goals2=[[Brandon Thomas Llamas|Brandon]] {{goal|52}}<br />[[Alejandro Alfaro|Alfaro]] {{goal|56}}
+|stadium=[[Estadio Ramón Sánchez Pizjuán|Ramón Sánchez Pizjuán]]
+|location=[[Seville]]
+|attendance=20,000<ref>[http://futbol.as.com/futbol/2013/01/09/copa_del_rey/1357763630_498339.html El Sevilla cumple el trámite pero el Mallorca se va ganando] {{in lang|es}}</ref>
+|referee=[[José Luis González González]]
+}}
+{{Football box collapsible
+|id = Zaragoza v Levante
+|bg=EEEEEE
+|date=9 January 2013
+|time=21:30 [[Central European Time|CET]]
+|team1=[[Real Zaragoza|Zaragoza]]
+|score=2–0
+|aggregatescore=3–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18917 Report]
+|team2='''[[Levante UD|Levante]]'''
+|goals1=[[Franco Zuculini|Zuculini]] {{goal|24}}<br />[[Francisco Montañés|Montañés]] {{goal|60}}
+|goals2=
+|stadium=[[La Romareda]]
+|location=[[Zaragoza]]
+|attendance=12,000<ref>[http://futbol.as.com/futbol/2013/01/09/copa_del_rey/1357771915_581609.html El Zaragoza accede a cuartos en la Copa y refuerza su moral] {{in lang|es}}</ref>
+|referee=[[Xavier Estrada Fernández]]
+}}
+{{Football box collapsible
+|id = Real Madrid v Celta Vigo
+|bg=EEEEEE
+|date=9 January 2013
+|time=21:30 [[Central European Time|CET]]
+|team1=[[Real Madrid C.F.|Real Madrid]]
+|score=4–0
+|aggregatescore=5–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18923 Report]
+|team2='''[[Celta de Vigo|Celta Vigo]]'''
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|3||24||87}}<br />[[Sami Khedira|Khedira]] {{goal|89}}
+|goals2=
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location=[[Madrid]]
+|attendance=60,600<ref>[http://futbol.as.com/futbol/2013/01/09/copa_del_rey/1357770667_458864.html El Madrid vive de Cristiano] {{in lang|es}}</ref>
+|referee=[[Miguel Ángel Ayza Gámez]]
+}}
+{{Football box collapsible
+|id = Getafe v Atlético Madrid
+|date=10 January 2013
+|time=19:30 [[Central European Time|CET]]
+|team1='''[[Getafe CF|Getafe]]'''
+|score=0–0
+|aggregatescore=0–3
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18921 Report]
+|team2=[[Atlético Madrid]]
+|goals1=
+|goals2=
+|stadium=[[Coliseum Alfonso Pérez]]
+|location=[[Getafe]] ([[Community of Madrid|Madrid]])
+|attendance=5,000<ref>[http://futbol.as.com/futbol/2013/01/10/copa_del_rey/1357849973_784046.html El Atlético de Madrid cumple con un trámite soporífero] {{in lang|es}}</ref>
+|referee=[[Ignacio Iglesias Villanueva]]
+}}
+{{Football box collapsible
+|id = Betis v Las Palmas
+|date=10 January 2013
+|time=21:30 [[Central European Time|CET]]
+|team1=[[Real Betis|Betis]]
+|score=1–0
+|aggregatescore=2–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18916 Report]
+|team2='''[[UD Las Palmas|Las Palmas]]'''
+|goals1=[[Rubén Castro|Castro]] {{goal|85}}
+|goals2=
+|stadium=[[Estadio Benito Villamarín|Benito Villamarín]]
+|location=[[Seville]]
+|attendance=27,755<ref>[http://futbol.as.com/futbol/2013/01/10/copa_del_rey/1357857058_969912.html Rubén Castro da el pase al Betis ante un buen Las Palmas] {{in lang|es}}</ref>
+|referee=[[Fernando Teixeira Vitienes]]
+}}
+{{Football box collapsible
+|id = Barcelona v Córdoba
+|date=10 January 2013
+|time=21:30 [[Central European Time|CET]]
+|team1=[[FC Barcelona|Barcelona]]
+|score=5–0
+|aggregatescore=7–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18922 Report]
+|team2='''[[Córdoba CF|Córdoba]]'''
+|goals1=[[Thiago Alcântara|Thiago]] {{goal|17}}<br />[[David Villa|Villa]] {{goal|21||26}}<br />[[Alexis Sánchez|Sánchez]] {{goal|55||85}}
+|goals2=
+|stadium=[[Camp Nou]]
+|location=[[Barcelona]]
+|attendance=37,607<ref>[http://futbol.as.com/futbol/2013/01/10/copa_del_rey/1357856480_448693.html Mucho más que un hombre Copa] {{in lang|es}}</ref>
+|referee=[[Alejandro José Hernández Hernández]]
+}}
+
+==Quarter-finals==
+The first leg matches were played on 15–17 January 2013. The second leg matches were played on 23–24 January 2013.<ref name="Calendar changes" />
+
+{{TwoLegStart}}
+{{TwoLegResult|[[Real Zaragoza|Zaragoza]]||0–4|'''[[Sevilla FC|Sevilla]]'''||0–0|0–4|winner=2}}
+{{TwoLegResult|'''[[Real Madrid C.F.|Real Madrid]]'''||3–1|[[Valencia CF|Valencia]]||2–0|1–1|winner=1}}
+{{TwoLegResult|'''[[Atlético Madrid]]'''||3–1|[[Real Betis|Betis]]||2–0|1–1|winner=1}}
+{{TwoLegResult|'''[[FC Barcelona|Barcelona]]'''||6–4|[[Málaga CF|Málaga]]||2–2|4–2|winner=1}}
+|}
+
+===First leg===
+{{Football box collapsible
+|id = Real Madrid v Valencia
+|date=15 January 2013
+|time=21:00 [[Central European Time|CET]]
+|team1=[[Real Madrid C.F.|Real Madrid]]
+|score=2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18987 Report]
+|team2=[[Valencia CF|Valencia]]
+|goals1=[[Karim Benzema|Benzema]] {{goal|36}}<br />[[Andrés Guardado|Guardado]] {{goal|73|o.g.}}
+|goals2=
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location=[[Madrid]]
+|attendance=68,000<ref>[http://futbol.as.com/futbol/2013/01/15/copa_del_rey/1358287937_527155.html Primer round para el Madrid] {{in lang|es}}</ref>
+|referee=[[César Muñiz Fernández]]
+}}
+{{Football box collapsible
+|id = Zaragoza v Sevilla
+|bg=EEEEEE
+|date=16 January 2013
+|time=19:30 [[Central European Time|CET]]
+|team1=[[Real Zaragoza|Zaragoza]]
+|score=0–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18986 Report]
+|team2=[[Sevilla FC|Sevilla]]
+|goals1=
+|goals2=
+|stadium=[[La Romareda]]
+|location=[[Zaragoza]]
+|attendance=5,000<ref>[http://futbol.as.com/futbol/2013/01/16/copa_del_rey/1358369012_067987.html Zaragoza y Sevilla deciden jugarse la Copa a un partido] {{in lang|es}}</ref>
+|referee=[[Fernando Teixeira Vitienes]]
+}}
+{{Football box collapsible
+|id = Barcelona v Málaga
+|bg=EEEEEE
+|date=16 January 2013
+|time=21:30 [[Central European Time|CET]]
+|team1=[[FC Barcelona|Barcelona]]
+|score=2–2
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18989 Report]
+|team2=[[Málaga CF|Málaga]]
+|goals1=[[Lionel Messi|Messi]] {{goal|29}}<br />[[Carles Puyol|Puyol]] {{goal|30}}
+|goals2=[[Manuel Iturra|Iturra]] {{goal|26}}<br />[[Ignacio Camacho|Camacho]] {{goal|89}}
+|stadium=[[Camp Nou]]
+|location=[[Barcelona]]
+|attendance=55,151<ref>[http://futbol.as.com/futbol/2013/01/16/copa_del_rey/1358376627_489206.html Alexis gripa al Barça] {{in lang|es}}</ref>
+|referee=[[José Luis González González]]
+}}
+{{Football box collapsible
+|id = Atlético Madrid v Betis
+|date=17 January 2013
+|time=22:00 [[Central European Time|CET]]
+|team1=[[Atlético Madrid]]
+|score=2–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=18988 Report]
+|team2=[[Real Betis|Betis]]
+|goals1=[[Radamel Falcao|Falcao]] {{goal|10}}<br />[[Filipe Luís]] {{goal|22}}
+|goals2=
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]]
+|location=[[Madrid]]
+|attendance=40,000<ref>[http://futbol.as.com/futbol/2013/01/18/copa_del_rey/1358463640_791392.html Falcao y Filipe hacen los goles y Courtois, las salvadoras paradas] {{in lang|es}}</ref>
+|referee=[[Alberto Undiano Mallenco]]
+}}
+
+===Second leg===
+{{Football box collapsible
+|id = Sevilla v Zaragoza
+|bg=EEEEEE
+|date=23 January 2013
+|time=19:30 [[Central European Time|CET]]
+|team1=[[Sevilla FC|Sevilla]]
+|score=4–0
+|aggregatescore=4–0
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=19052 Report]
+|team2='''[[Real Zaragoza|Zaragoza]]'''
+|goals1=[[Álvaro Negredo|Negredo]] {{goal|36||67|pen.}}<br />[[Ivan Rakitić|Rakitić]] {{goal|45+3}}<br />[[Manu del Moral]] {{goal|90+2}}
+|goals2=
+|stadium=[[Estadio Ramón Sánchez Pizjuán|Ramón Sánchez Pizjuán]]
+|location=[[Seville]]
+|attendance=20,000<ref>[http://futbol.as.com/futbol/2013/01/23/copa_del_rey/1358973975_366832.html El Sevilla arrolla a un Zaragoza en inferioridad y es semifinalista] {{in lang|es}}</ref>
+|referee=[[Carlos Velasco Carballo]]
+}}
+{{Football box collapsible
+|id = Valencia v Real Madrid
+|bg=EEEEEE
+|date=23 January 2013
+|time=21:30 [[Central European Time|CET]]
+|team1='''[[Valencia CF|Valencia]]'''
+|score=1–1
+|aggregatescore=1–3
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=19053 Report]
+|team2=[[Real Madrid C.F.|Real Madrid]]
+|goals1=[[Tino Costa|T. Costa]] {{goal|52}}
+|goals2=[[Karim Benzema|Benzema]] {{goal|44}}
+|stadium=[[Mestalla Stadium|Mestalla]]
+|location=[[Valencia]]
+|attendance=40,000<ref>[http://futbol.as.com/futbol/2013/01/23/copa_del_rey/1358979928_421072.html El Madrid confirmó su superioridad y ya está en semis] {{in lang|es}}</ref>
+|referee=[[Miguel Ángel Pérez Lasa]]
+}}
+{{Football box collapsible
+|id = Betis v Atlético Madrid
+|date=24 January 2013
+|time=20:00 [[Central European Time|CET]]
+|team1='''[[Real Betis|Betis]]'''
+|score=1–1
+|aggregatescore=1–3
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=19054 Report]
+|team2=[[Atlético Madrid]]
+|goals1=[[Jorge Molina (footballer, born 1982)|Molina]] {{goal|90|pen.}}
+|goals2=[[Diego Costa|Costa]] {{goal|45}}
+|stadium=[[Estadio Benito Villamarín|Benito Villamarín]]
+|location=[[Seville]]
+|attendance=21,605<ref>[http://futbol.as.com/futbol/2013/01/24/copa_del_rey/1359061315_958752.html El Atleti no sufre sin Falcao y ya espera al Sevilla en semifinales] {{in lang|es}}</ref>
+|referee=[[Carlos Clos Gómez]]
+}}
+{{Football box collapsible
+|id = Málaga v Barcelona
+|date=24 January 2013
+|time=22:00 [[Central European Time|CET]]
+|team1='''[[Málaga CF|Málaga]]'''
+|score=2–4
+|aggregatescore=4–6
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=19055 Report]
+|team2=[[FC Barcelona|Barcelona]]
+|goals1=[[Joaquín (footballer, born 1981)|Joaquín]] {{goal|12}}<br />[[Roque Santa Cruz|Santa Cruz]] {{goal|68}}
+|goals2=[[Pedro (footballer, born 1987)|Pedro]] {{goal|8}}<br />[[Gerard Piqué|Piqué]] {{goal|49}}<br />[[Andrés Iniesta|Iniesta]] {{goal|76}}<br />[[Lionel Messi|Messi]] {{goal|80}}
+|stadium=[[La Rosaleda Stadium|La Rosaleda]]
+|location=[[Málaga]]
+|attendance=27,099<ref>[http://www.malagacf.com/es/noticia/fin-al-sueno-copa-gran-barcelona-24/69549 Fin al sueño de la Copa ante un gran Barcelona (2-4)] {{in lang|es}}</ref>
+|referee=[[Antonio Mateu Lahoz]]
+}}
+
+==Semi-finals==
+The first leg matches were played on 30–31 January 2013. The second leg were played on 26–27 February 2013.<ref name="Calendar changes" />
+
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Real Madrid C.F.|Real Madrid]]'''||4–2 |[[FC Barcelona|Barcelona]]||1–1|3–1|winner=1}}
+{{TwoLegResult|'''[[Atlético Madrid]]'''||4–3 |[[Sevilla FC|Sevilla]]||2–1|2–2|winner=1}}
+|}
+
+===First leg===
+{{Football box collapsible
+|id = Real Madrid v Barcelona
+|bg=EEEEEE
+|date=30 January 2013
+|time=21:00 [[Central European Time|CET]]
+|team1=[[Real Madrid C.F.|Real Madrid]]
+|score=1–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=19121 Report]
+|team2=[[FC Barcelona|Barcelona]]
+|goals1=[[Raphaël Varane|Varane]] {{goal|81}}
+|goals2=[[Cesc Fàbregas|Fàbregas]] {{goal|50}}
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location=[[Madrid]]
+|attendance=83,000<ref>[http://futbol.as.com/futbol/2013/01/30/copa_del_rey/1359584322_813980.html Varane da vida al Madrid] {{in lang|es}}</ref>
+|referee=[[Carlos Clos Gómez]]
+}}
+{{Football box collapsible
+|id = Atlético Madrid v Sevilla
+|date=31 January 2013
+|time=22:00 [[Central European Time|CET]]
+|team1=[[Atlético Madrid]]
+|score=2–1
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=19122 Report]
+|team2=[[Sevilla FC|Sevilla]]
+|goals1=[[Diego Costa|Costa]] {{goal|50|pen.|71|pen.}}
+|goals2=[[Álvaro Negredo|Negredo]] {{goal|56|pen.}}
+|stadium=[[Vicente Calderón Stadium|Vicente Calderón]]
+|location=[[Madrid]]
+|attendance=45,000<ref>[http://futbol.as.com/futbol/2013/02/01/copa_del_rey/1359674130_230309.html El Atlético cobra ventaja en la noche loca de los penaltis] {{in lang|es}}</ref>
+|referee=[[Miguel Ángel Ayza Gámez]]
+}}
+
+===Second leg===
+{{Football box collapsible
+|id = Barcelona v Real Madrid
+|bg=EEEEEE
+|date=26 February 2013
+|time=21:00 [[Central European Time|CET]]
+|team1='''[[FC Barcelona|Barcelona]]'''
+|score=1–3
+|aggregatescore=2–4
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=19371 Report]
+|team2=[[Real Madrid C.F.|Real Madrid]]
+|goals1=[[Jordi Alba|Alba]] {{goal|89}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|13|pen.|57}}<br />[[Raphaël Varane|Varane]] {{goal|68}}
+|stadium=[[Camp Nou]]
+|location=[[Barcelona]]
+|attendance=95,002<ref>[http://futbol.as.com/futbol/2013/02/26/mas_futbol/1361907833_818168.html El Madrid desmonta al Barça] {{in lang|es}}</ref>
+|referee=[[Alberto Undiano Mallenco]]
+}}
+{{Football box collapsible
+|id = Sevilla v Atlético Madrid
+|date=27 February 2013
+|time=22:00 [[Central European Time|CET]]
+|team1='''[[Sevilla FC|Sevilla]]'''
+|score=2–2
+|aggregatescore=3–4
+|report=[http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=19372 Report]
+|team2=[[Atlético Madrid]]
+|goals1=[[Jesús Navas|Navas]] {{goal|39}}<br />[[Ivan Rakitić|Rakitić]] {{goal|90+1}}
+|goals2=[[Diego Costa|Costa]] {{goal|6}}<br />[[Radamel Falcao|Falcao]] {{goal|29}}
+|stadium=[[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location=[[Seville]]
+|attendance=45,000<ref>[http://futbol.as.com/futbol/2013/02/28/copa_del_rey/1362006700_879686.html Diego Costa y Falcao hacen que la final de Copa sea un derbi] {{in lang|es}}</ref>
+|referee=[[Fernando Teixeira Vitienes]]
+}}
+
+==Final==
+{{main|2013 Copa del Rey final}}
+
+The Copa del Rey final was played at Santiago Bernabéu<ref>{{cite web|url=http://www.rfef.es/index.jsp?nodo=124&CATEGORIA=2&ID=2466 |title=El estadio Santiago Bernabéu vivirá su trigésimo sexta final de Copa |language=es |publisher=[[Royal Spanish Football Federation|RFEF]] |date=8 March 2013 |access-date=8 March 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130301153947/http://www.rfef.es/index.jsp?nodo=124 |archive-date=1 March 2013 }}</ref> on Friday 17 May 2013.
+
+{{:2013 Copa del Rey final}}
+
+==Top goalscorers==
+{| class="wikitable sortable" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; "
+!Rank
+!Player<ref>{{cite web|url=https://www.worldfootball.net/competition/co23/se18779/statistics-goals/ |title=Copa del Rey 2015/2016: Top Scorer |publisher=World Football |access-date=23 May 2016}}</ref>
+!Club
+!Goals 
+|-
+|style="text-align:center;"| 1
+|{{flagicon|ESP}} [[Diego Costa]]
+|[[Atlético Madrid]]
+|style="text-align:center;"|8
+|-
+|style="text-align:center;"| 2
+|{{flagicon|POR}} [[Cristiano Ronaldo]]
+|[[Real Madrid C.F.|Real Madrid]]
+|style="text-align:center;"|7
+|-
+|style="text-align:center;"| 3
+|{{flagicon|ESP}} [[Álvaro Negredo]]
+|[[Sevilla FC|Sevilla]]
+|style="text-align:center;"|6
+|-
+|style="text-align:center;"| 4
+|{{flagicon|ESP}} [[David Villa]]
+|[[FC Barcelona|Barcelona]]
+|style="text-align:center;"|5
+|-
+|rowspan="2" style="text-align:center;" |  5
+|{{flagicon|FRA}} [[Karim Benzema]]
+|[[Real Madrid C.F.|Real Madrid]]
+|rowspan="2" style="text-align:center;" |  4
+|- 
+|{{flagicon|ARG}} [[Lionel Messi]]
+|[[FC Barcelona|Barcelona]]
+|-
+|rowspan="3" style="text-align:center;" | 7
+|{{flagicon|PAR}} [[Roque Santa Cruz]]
+|[[Málaga CF|Málaga]]
+|rowspan="3" style="text-align:center;" | 3
+|-
+|{{flagicon|ESP}} [[Rubén Castro]]
+|[[Real Betis|Betis]]
+|-
+|{{flagicon|CRO}} [[Ivan Rakitić]]
+|[[Sevilla FC|Sevilla]]
+|-
+|style="text-align:center;"| 10
+|colspan="2" style="text-align:center;" |  ''18 players''
+|style="text-align:center;"| 2
+|}
+
+==See also==
+* [[2012–13 La Liga]]
+* [[2012–13 Segunda División]]
+* [[2012–13 Segunda División B]]
+* [[2012–13 Tercera División]]
+
+==Notes==
+{{reflist|group=n}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20150214044527/http://www.mundodeportivo.com/futbol/copa-del-rey/index.html MundoDeportivo.com] {{in lang|es}}
+*[http://www.marca.com/edicion/marca/futbol/copa_del_rey/es/index.html Marca.com] {{in lang|es}}
+*[http://www.as.com/futbol/copa-del-rey AS.com] {{in lang|es}}
+
+{{Copa del Rey seasons}}
+{{2012–13 in Spanish football}}
+{{2012–13 in European Football (UEFA)}}
+
+{{DEFAULTSORT:Copa Del Rey 2012-13}}
+[[Category:Copa del Rey seasons|2012-13]]
+[[Category:2012–13 in Spanish football cups|1]]

@@ -1,0 +1,392 @@
+{{Infobox football match
+| title                   = 2011 Supercopa de España
+| image                   = 
+| event                   = 
+| team1                   = [[Real Madrid CF|Real Madrid]]
+| team1association        = 
+| team1score              = 4
+| team2                   = [[FC Barcelona|Barcelona]]
+| team2association        = 
+| team2score              = 5
+| details                 = on aggregate
+| firstleg                = First leg
+| team1score1             = 2
+| team2score1             = 2
+| details1                = 
+| date1                   = 14 August 2011
+| stadium1                = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+| city1                   = [[Madrid]]
+| man_of_the_match1a      = 
+| man_of_the_match1atitle = 
+| man_of_the_match1b      = 
+| man_of_the_match1btitle = 
+| referee1                = [[Fernando Teixeira Vitienes]]
+| attendance1             = 80,000
+| weather1                = Clear<br />{{convert|31|°C|°F}}<ref>{{Cite web|url=http://www.wunderground.com/history/airport/LEMD/2011/8/14/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA|title = Local Weather Forecast, News and Conditions &#124; Weather Underground}}</ref>
+| secondleg               = Second leg
+| team1score2             = 2
+| team2score2             = 3
+| details2                = 
+| date2                   = 17 August 2011
+| stadium2                = [[Camp Nou]]
+| city2                   = [[Barcelona]]
+| man_of_the_match2a      = 
+| man_of_the_match2atitle = 
+| man_of_the_match2b      = 
+| man_of_the_match2btitle = 
+| referee2                = [[David Fernández Borbalán]]
+| attendance2             = 92,965
+| weather2                = Partly cloudy<br />{{convert|26|°C|°F}}<ref>{{Cite web|url=http://www.wunderground.com/history/airport/LEBL/2011/8/17/DailyHistory.html?req_city=NA&req_state=NA&req_statename=NA|title = Local Weather Forecast, News and Conditions &#124; Weather Underground}}</ref>
+| previous                = [[2010 Supercopa de España|2010]]
+| next                    = [[2012 Supercopa de España|2012]]
+}}
+The '''2011 Supercopa de España''' was a two-legged [[Football in Spain|Spanish]] [[Association football|football]] match-up that was played on 14 and 17 August 2011. It was contested by [[FC Barcelona|Barcelona]], the [[2010–11 La Liga]] winners, and [[Real Madrid CF|Real Madrid]], the [[2010–11 Copa del Rey]] winners. Barcelona won 5–4 on aggregate for their record-extending tenth [[Supercopa de España]] title.
+
+{{clear}}
+
+==Match details==
+===First leg===
+{{football box
+|date=14 August 2011
+|time=22:00 [[Central European Summer Time|CEST]]
+|team1=[[Real Madrid CF|Real Madrid]]
+|score=2–2
+|report=http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=14474
+|team2=[[FC Barcelona|Barcelona]]
+|goals1=
+*[[Mesut Özil|Özil]] {{goal|13}}
+*[[Xabi Alonso|Alonso]] {{goal|54}}
+|goals2=
+*[[David Villa|Villa]] {{goal|36}}
+*[[Lionel Messi|Messi]] {{goal|45+1}}
+|stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance=80,000
+|referee=[[Fernando Teixeira Vitienes]]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _rmcf1112h
+ | pattern_b  = _rmcf1112h
+ | pattern_ra = _rmcf1112h
+ | pattern_sh = _rmcf1112h
+ | pattern_so = _rmcf1112h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = FFFFFF
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|{{Football kit
+ | pattern_la = _fcbarcelona1112h
+ | pattern_b  = _fcbarcelona1112H(2)
+ | pattern_ra = _fcbarcelona1112h
+ | pattern_sh = _fcbarcelona1112h
+ | pattern_so = _fcbarcelona1112h
+ | leftarm    = 0000BF
+ | body       = 0000BF
+ | rightarm   = 0000BF
+ | shorts     = 0000BF
+ | socks      = 0000BF
+ | title      = Barcelona
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+| GK || '''1''' ||{{flagicon|ESP}} [[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+| RB || '''4''' ||{{flagicon|ESP}} [[Sergio Ramos]]
+|-
+| CB || '''3''' ||{{flagicon|POR}} [[Pepe (footballer, born 1983)|Pepe]]
+|-
+| CB || '''2''' ||{{flagicon|POR}} [[Ricardo Carvalho]]
+|-
+| LB || '''12''' ||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]
+|-
+| CM || '''6''' ||{{flagicon|GER}} [[Sami Khedira]] || {{yel|32}} || {{suboff|58}}
+|-
+| CM || '''14''' ||{{flagicon|ESP}} [[Xabi Alonso]] || {{yel|78}}
+|-
+| RW || '''22''' ||{{flagicon|ARG}} [[Ángel Di María]] || || {{suboff|54}}
+|-
+| LW || '''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]]
+|-
+| AM || '''10''' ||{{flagicon|GER}} [[Mesut Özil]]
+|-
+| CF || '''9''' ||{{flagicon|FRA|1974}} [[Karim Benzema]] || || {{suboff|81}}
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''13''' ||{{flagicon|ESP}} [[Antonio Adán]] || 
+|-
+| DF || '''15''' ||{{flagicon|POR}} [[Fábio Coentrão]] || {{yel|90+1}} || {{subon|54}}
+|-
+| DF || '''17''' ||{{flagicon|ESP}} [[Álvaro Arbeloa]]
+|-
+| DF || '''19''' ||{{flagicon|FRA|1974}} [[Raphaël Varane]]
+|-
+| MF || '''8''' ||{{flagicon|BRA}} [[Kaká]] 
+|-
+| FW || '''20''' ||{{flagicon|ARG}} [[Gonzalo Higuaín]] || || {{subon|81}}
+|-
+| FW || '''21''' ||{{flagicon|ESP}} [[José Callejón]] || || {{subon|58}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[José Mourinho]]
+|}
+|valign="top"|[[File:Real-Barca-lineup.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width=25| !!width=25|
+|-
+| GK || '''1''' ||{{flagicon|ESP}} [[Víctor Valdés]] ([[Captain (association football)|c]])
+|-
+| RB || '''2''' ||{{flagicon|BRA}} [[Dani Alves]] || {{yel|90+3}}
+|-
+| CB || '''14''' ||{{flagicon|ARG}} [[Javier Mascherano]]
+|-
+| CB || '''22''' ||{{flagicon|FRA|1974}} [[Eric Abidal]]
+|-
+| LB || '''21''' ||{{flagicon|BRA}} [[Adriano (footballer, born 1984)|Adriano]] || || {{suboff|62}}
+|-
+| DM || '''15''' ||{{flagicon|MLI}} [[Seydou Keita]]
+|-
+| CM || '''11''' ||{{flagicon|ESP}} [[Thiago Alcântara|Thiago]] || || {{suboff|58}}
+|-
+| CM || '''8''' ||{{flagicon|ESP}} [[Andrés Iniesta]]
+|-
+| RW || '''9''' ||{{flagicon|CHI}} [[Alexis Sánchez]] || {{yel|55}}
+|-
+| LW || '''7''' ||{{flagicon|ESP}} [[David Villa]] || || {{suboff|73}}
+|-
+| CF || '''10''' ||{{flagicon|ARG}} [[Lionel Messi]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''13''' ||{{flagicon|ESP}} [[José Manuel Pinto]]
+|-
+| DF || '''3''' ||{{flagicon|ESP}} [[Gerard Piqué]] || || {{subon|62}}
+|-
+| DF || '''24''' ||{{flagicon|ESP}} [[Andreu Fontàs]]
+|-
+| MF || '''6''' ||{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]] || || {{subon|58}}
+|-
+| MF || '''16''' ||{{flagicon|ESP}} [[Sergio Busquets]]
+|-
+| MF || '''28''' ||{{flagicon|MEX}} [[Jonathan dos Santos]]
+|-
+| FW || '''17''' ||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]] || || {{subon|73}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+<!--'''Man of the Match:'''
+<br />-->
+
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Victoriano Díaz Casado
+<br />Manuel Ángel Torre Cimiano
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />José Antonio López Toca
+|}
+
+=== Second leg ===
+{{football box
+|date=17 August 2011
+|time=23:00 [[Central European Summer Time|CEST]]
+|team1=[[FC Barcelona|Barcelona]]
+|score= 3–2
+|report=http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=14476
+|team2=[[Real Madrid CF|Real Madrid]]
+|goals1=
+*[[Andrés Iniesta|Iniesta]] {{goal|15}}
+*[[Lionel Messi|Messi]] {{goal|45||88}}
+|goals2=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|20}}
+*[[Karim Benzema|Benzema]] {{goal|82}}
+|stadium=[[Camp Nou]], [[Barcelona]]
+|attendance=92,965
+|referee=[[David Fernández Borbalán]]
+}}
+
+{| width=92%
+|-
+|{{Football kit
+ | pattern_la = _fcbarcelona1112h
+ | pattern_b  = _fcbarcelona1112H(2)
+ | pattern_ra = _fcbarcelona1112h
+ | pattern_sh = _fcbarcelona1112h
+ | pattern_so = _fcbarcelona1112h
+ | leftarm    = 0000BF
+ | body       = 0000BF
+ | rightarm   = 0000BF
+ | shorts     = 0000BF
+ | socks      = 0000BF
+ | title      = Barcelona
+}}
+|{{Football kit
+ | pattern_la = _rmcf1112h
+ | pattern_b  = _rmcf1112h
+ | pattern_ra = _rmcf1112h
+ | pattern_sh = _rmcf1112h
+ | pattern_so = _rmcf1112h
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000099
+ | socks      = FFFFFF
+ | title      = Real Madrid
+}}
+|}
+
+{| width="100%"
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|-
+!width=25| !!width=25|
+|-
+| GK || '''1''' ||{{flagicon|ESP}} [[Víctor Valdés]] || || {{yel|90+1}}
+|-
+| RB || '''2''' ||{{flagicon|BRA}} [[Dani Alves]]
+|-
+| CB || '''14''' ||{{flagicon|ARG}} [[Javier Mascherano]] || || {{yel|54}}
+|-
+| CB || '''3''' ||{{flagicon|ESP}} [[Gerard Piqué]]
+|-
+| LB || '''22''' ||{{flagicon|FRA|1974}} [[Eric Abidal]]
+|-
+| DM || '''16''' ||{{flagicon|ESP}} [[Sergio Busquets]] || {{suboff|84}}
+|-
+| CM || '''6''' ||{{flagicon|ESP}} [[Xavi (footballer, born 1980)|Xavi]] ([[Captain (association football)|c]]) || || {{yel|42}}
+|-
+| CM || '''8''' ||{{flagicon|ESP}} [[Andrés Iniesta]]
+|-
+| RW || '''17''' ||{{flagicon|ESP}} [[Pedro (footballer, born 1987)|Pedro]] || {{suboff|83}}
+|-
+| LW || '''7''' ||{{flagicon|ESP}} [[David Villa]] || {{suboff|74}} || {{sent off|0|90+5}}
+|-
+| CF || '''10''' ||{{flagicon|ARG}} [[Lionel Messi]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''13''' ||{{flagicon|ESP}} [[José Manuel Pinto]]
+|-
+| DF || '''21''' ||{{flagicon|BRA}} [[Adriano (footballer, born 1984)|Adriano]] || {{subon|74}}
+|-
+| DF || '''24''' ||{{flagicon|ESP}} [[Andreu Fontàs]]
+|-
+| MF || '''4''' ||{{flagicon|ESP}} [[Cesc Fàbregas]] || {{subon|83}}
+|-
+| MF || '''11''' ||{{flagicon|ESP}} [[Thiago Alcântara|Thiago]]
+|-
+| MF || '''15''' ||{{flagicon|MLI}} [[Seydou Keita]] || {{subon|84}}
+|-
+| FW || '''9''' ||{{flagicon|CHI}} [[Alexis Sánchez]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|ESP}} [[Pep Guardiola]]
+|}
+|valign="top"|[[File:Barca Real lineup.svg|300px]]
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align="center"
+|-
+!width="25"| !!width="25"|
+|-
+| GK || '''1''' ||{{flagicon|ESP}} [[Iker Casillas]] ([[Captain (association football)|c]])
+|-
+| RB || '''4''' ||{{flagicon|ESP}} [[Sergio Ramos]] || || {{yel|76}}
+|-
+| CB || '''3''' ||{{flagicon|POR}} [[Pepe (footballer, born 1983)|Pepe]] || || {{yel|62}}
+|-
+| CB || '''2''' ||{{flagicon|POR}} [[Ricardo Carvalho]]
+|-
+| LB || '''15''' ||{{flagicon|POR}} [[Fábio Coentrão]] || || {{yel|84}}
+|-
+| CM || '''14''' ||{{flagicon|ESP}} [[Xabi Alonso]]
+|-
+| CM || '''6''' ||{{flagicon|GER}} [[Sami Khedira]] || {{suboff|46}} || {{yel|28}}
+|-
+| RW || '''22''' ||{{flagicon|ARG}} [[Ángel Di María]] || {{suboff|64}}
+|-
+| LW || '''7''' ||{{flagicon|POR}} [[Cristiano Ronaldo]] || || {{yel|54}}
+|-
+| AM || '''10''' ||{{flagicon|GER}} [[Mesut Özil]] || {{suboff|78}}  || {{sent off|0|90+5}}
+|-
+| CF || '''9''' ||{{flagicon|FRA|1974}} [[Karim Benzema]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+| GK || '''13''' ||{{flagicon|ESP}} [[Antonio Adán]]
+|-
+| DF || '''12''' ||{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]] ||  {{subon|46}} || {{sent off|0|90+4}}
+|-
+| DF || '''17''' ||{{flagicon|ESP}} [[Álvaro Arbeloa]]
+|-
+| DF || '''18''' ||{{flagicon|ESP}} [[Raúl Albiol]]
+|-
+| MF || '''8''' ||{{flagicon|BRA}} [[Kaká]] || {{subon|78}}
+|-
+| FW || '''20''' ||{{flagicon|ARG}} [[Gonzalo Higuaín]] || {{subon|64}}
+|-
+| FW || '''21''' ||{{flagicon|ESP}} [[José Callejón]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=3|{{flagicon|POR}} [[José Mourinho]]
+|}
+|}
+
+{| width=50% style="font-size: 90%"
+|
+'''[[Assistant referee (association football)|Assistant referees]]:'''
+<br />Raúl Cabañero Martínez
+<br />Jorge Canelo Prieto
+<br />'''[[Assistant referee (association football)#Fourth official|Fourth official]]:'''
+<br />Alonso Vizuete Sánchez
+|}
+
+==See also==
+*[[El Clásico]]
+*[[2011–12 La Liga]]
+*[[2011–12 Copa del Rey]]
+*[[2011–12 FC Barcelona season]]
+*[[2011–12 Real Madrid CF season]]
+
+==References==
+{{reflist}}
+
+{{commons category}}
+{{Supercopa de España Finals}}
+{{2011–12 in Spanish football}}
+{{2011–12 in European football (UEFA)}}
+{{Real Madrid CF matches}}
+{{FC Barcelona matches}}
+
+{{DEFAULTSORT:Supercopa de Espana 2011}}
+[[Category:2011–12 in Spanish football cups]]
+[[Category:FC Barcelona matches]]
+[[Category:Real Madrid CF matches]]
+[[Category:Supercopa de España|2011]]
+[[Category:El Clásico matches]]
+[[Category:August 2011 sports events in Spain]]
+[[Category:Football competitions in Madrid]]
+[[Category:2011 in Madrid]]
+[[Category:Football matches in Barcelona]]
+[[Category:2011 in Barcelona]]
+[[Category:2011–12 in Spanish men's football]]
+[[Category:2011–12 in Catalan football]]

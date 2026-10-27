@@ -1,0 +1,77 @@
+{{One source|date=March 2026}}{{Infobox football tournament season
+| title               = Copa del Generalísimo
+| year                = 1969–70
+| other_titles         = 68th Copa del Rey
+| image               = 
+| image_size           = 
+| caption             = 
+| country             = Spain
+| num_teams           = 160<ref name=":0" />
+| winners           = [[Real Madrid C.F|Real Madrid]] (11th title)
+| second           = [[Valencia CF]]
+| matches             = 333
+| goals               = 
+| scoring_leader     = 
+| award              = 
+| prev_season          = [[1969 Copa del Generalísimo|1969]]
+| next_season          = [[1970–71 Copa del Generalísimo|1970–71]]
+}}
+The '''1969–70 Copa del Generalísimo''' was the 68th staging of the [[Copa del Rey|Spanish Cup]]. The competition began on 8 October 1969 and concluded on 28 June 1970 with the final.{{Citation needed|date=March 2026}}
+
+==Round of 16==
+{{TwoLegStart}}
+{{TwoLegResult|[[Club Atlético de Madrid]] || 2–3 | '''[[Club Atlético de Bilbao]]'''|| 1–1 | 1–2 |winner=2}}
+{{TwoLegResult|[[Real Betis Balompié]] || 0–2 | '''[[Racing de Ferrol|Club Ferrol]]'''|| 0–1 | 0–1 |winner=2}}
+{{TwoLegResult|[[Celta Vigo]] || 1–3 | '''[[CF Barcelona]]'''|| 1–0 | 0–3 |winner=2}}
+{{TwoLegResult|'''[[Real Murcia]]''' || 5–1 | [[Orihuela Deportiva CF]]|| 3–0 | 2–1 |winner=1}}
+{{TwoLegResult|[[UD Las Palmas]] || 3–4 | '''[[Real Madrid CF]]'''|| 2–0 | 1–4 |winner=2}}
+{{TwoLegResult|[[Pontevedra CF]] || 1–10 | '''[[Real Zaragoza]]'''|| 1–2 | 0–8 |winner=2}}
+{{TwoLegResult|'''[[CD Sabadell CF]]''' || 2–1 | [[Real Sociedad]]|| 2–0 | 0–1 |winner=1}}
+{{TwoLegResult|'''[[Valencia CF]]''' || 4–2 | [[Granada CF]]|| 3–0 | 1–2 |winner=1}}
+|}Source: [[RSSSF]]<ref name=":0">{{Cite web |last=Ferrer |first=Carles Lozano |date=2001-11-10 |title=Spain - Cup 1970 |url=https://www.rsssf.org/tabless/spancup1970.html |url-status=live |archive-url=https://web.archive.org/web/20250808145348/https://www.rsssf.org/tabless/spancup1970.html |archive-date=2025-08-08 |access-date=2026-03-21 |website=[[RSSSF]]}}</ref>
+
+==Quarter-finals==
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Real Madrid CF]]''' || 3–1 | [[CF Barcelona]]|| 2–0 | 1–1 |winner=1}}
+{{TwoLegResult|[[CD Sabadell CF]] || 2–3 | '''[[Club Atlético de Bilbao]]'''|| 2–1 | 0–2 |winner=2}}
+{{TwoLegResult|'''[[Valencia CF]]''' || 4–3 | [[Racing de Ferrol|Club Ferrol]]|| 1–1 | 3–2 |winner=1}}
+{{TwoLegResult|'''[[Real Zaragoza]]''' || 9–1 | [[Real Murcia]]|| 4–0 | 5–1 |winner=1}}
+|}Source: RSSSF<ref name=":0" />
+
+==Semi-finals==
+{{TwoLegStart}}
+{{TwoLegResult|'''[[Real Madrid CF]]''' || 2–1 | [[Club Atlético de Bilbao]]|| 0–1 | 2–0 |winner=1}}
+{{TwoLegResult|'''[[Valencia CF]]''' || 2–1 | [[Real Zaragoza CD]]|| 2–0 | 0–1 |winner=1}}
+|}Source: RSSSF<ref name=":0" />
+
+==Final==
+{{main|1970 Copa del Generalísimo Final}}
+
+{{OneLegStart}}
+{{OneLegResult|'''[[Real Madrid CF]]'''|| 3–1 |[[Valencia CF]]<ref name=":0" />|| |winner=1}}
+|}
+
+{| class="wikitable" style="text-align: center; margin: 0 auto;"
+|-
+![[Copa del Rey|Copa del Generalísimo]]<br>winners
+|-
+|'''[[Real Madrid C.F|Real Madrid]]'''<br>'''11th title'''{{Citation needed|date=March 2026}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{in lang|en}} [https://www.rsssf.org/tabless/spancup1970.html rsssf.com]
+*{{in lang|es}} {{usurped|1={{Deprecated archive|url=https://archive.today/20130127224725/http://www.linguasport.com/futbol/nacional/copa/copa70.htm|title=linguasport.com|sec=el}}}}
+
+{{1969–70 in Spanish football}}
+{{1969–70 in European football (UEFA)}}
+{{Copa del Rey}}
+
+{{Portal bar|Association football|Spain}}
+
+{{DEFAULTSORT:1970 Copa Del Rey}}
+[[Category:Copa del Rey seasons]]
+[[Category:1969–70 in European domestic association football cups|Copa del Rey]]
+[[Category:1969–70 in Spanish football|Copa]]

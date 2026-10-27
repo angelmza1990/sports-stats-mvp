@@ -1,0 +1,81 @@
+{{One source|date=March 2026}}{{Infobox football tournament season
+| title               = Copa del Generalísimo
+| year                = 1957
+| image               = 
+| image_size           = 
+| caption             = 
+| other_titles        = 55th Copa del Rey
+| country             = Spain
+| num_teams           = 16<ref name=":0" />
+| winners           = [[FC Barcelona]] (13th title)
+| second           = [[RCD Español]]
+| matches             = 30
+| goals               = 90
+| scoring_leader     = 
+| award              = 
+| prev_season          = [[1956 Copa del Generalísimo|1956]]
+| next_season          = [[1958 Copa del Generalísimo|1958]]
+}}
+The '''1957 Copa del Generalísimo''' was the 55th staging of the [[Copa del Rey|Spanish Cup]]. The competition began on 28 April 1957 and concluded on 16 June 1957 with the final.<ref name=":0">{{Cite web |last=Ferrer |first=Carles Lozano |date=2001-10-04 |title=Spain - Cup 1957 |url=https://www.rsssf.org/tabless/spancup1957.html |url-status=live |archive-url=https://web.archive.org/web/20260214103150/https://www.rsssf.org/tabless/spancup1957.html |archive-date=2026-02-14 |access-date=2026-03-21 |website=[[RSSSF]]}}</ref>
+
+==Round of 16==
+{{TwoLegStart}}
+{{TwoLegResult|[[UD Las Palmas]] || 1–5 | '''[[Real Madrid CF]]'''|| 1–4 | 0–1 |winner=2}}
+{{TwoLegResult|'''[[RC Celta de Vigo]]''' || 1–0 | [[CD Condal]]|| 1–0 | 0–0 |winner=1}}
+{{TwoLegResult|[[Club Atlético de Madrid]] || 3–13 | '''[[FC Barcelona]]'''|| 2–5 | 1–8 |winner=2}}
+{{TwoLegResult|[[Real Zaragoza CD]] || 1–1 | [[Real Sociedad de Fútbol]]|| 0–0 | 1–1 }}
+{{TwoLegResult|'''[[Valencia CF]]''' || 2–1 | [[Sevilla CF]]|| 2–0 | 0–1 |winner=1}}
+{{TwoLegResult|[[Real Jaén CF]] || 0–2 | '''[[RC Deportivo de La Coruña]]'''|| 0–1 | 0–1 |winner=2}}
+{{TwoLegResult|'''[[RCD Español]]''' || 3–0 | [[Club Atlético de Bilbao]]|| 3–0 | 0–0 |winner=1}}
+{{TwoLegResult|[[CA Osasuna]] || 4–7 |''' [[Real Valladolid Deportivo]]'''|| 1–1 | 3–6 |winner=2}}
+|}Source: RSSSF<ref name=":0" />
+*Tiebreaker
+{{OneLegStart}}
+{{OneLegResult|[[Real Zaragoza CD]]|| 0–1 |'''[[Real Sociedad de Fútbol]]'''<ref name=":0" /> |winner=2}}
+|}
+
+==Quarter-finals==
+{{TwoLegStart}}
+{{TwoLegResult|'''[[RCD Español]]''' || 3–2 | [[RC Celta de Vigo]]|| 2–1 | 1–1 |winner=1}}
+{{TwoLegResult|[[Real Madrid CF]] || 3–8| '''[[FC Barcelona]]'''|| 2–2 | 1–6|winner=2 }}
+{{TwoLegResult|[[Real Valladolid Deportivo]] || 1–4 | '''[[Valencia CF]]'''|| 1–1 | 0–3 |winner=2}}
+{{TwoLegResult|[[RC Deportivo de La Coruña]] || 1–7 | '''[[Real Sociedad de Fútbol]]'''|| 0–0 | 1–7|winner=2 }}
+|}Source: RSSSF<ref name=":0" />
+
+==Semi-finals==
+{{TwoLegStart}}
+{{TwoLegResult|'''[[RCD Español]]''' || 2–1 | [[Valencia CF]]|| 1–0 | 1–1|winner=1 }}
+{{TwoLegResult|[[Real Sociedad de Fútbol]] || 2–10 | '''[[FC Barcelona]]'''|| 1–5 | 1–5 |winner=2}}
+|}Source: RSSSF<ref name=":0" />
+
+==Final==
+{{main|1957 Copa del Generalísimo Final}}
+
+{{OneLegStart}}
+{{OneLegResult|'''[[FC Barcelona]]'''|| 1–0 |[[RCD Español]]<ref name=":0" />|| |winner=1}}
+|}
+
+{| class="wikitable" style="text-align: center; margin: 0 auto;"
+|-
+![[Copa del Rey|Copa del Generalísimo]]<br>winners
+|-
+|'''[[FC Barcelona]]'''<br/>'''13th title'''{{Citation needed|date=March 2026}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{in lang|en}} [https://www.rsssf.org/tabless/spancup1957.html rsssf.com]
+*{{in lang|es}} {{usurped|1=[https://web.archive.org/web/20120610173916/http://www.linguasport.com/futbol/nacional/copa/copa57.htm linguasport.com]}}
+
+{{1956–57 in Spanish football}}
+{{1956–57 in European football (UEFA)}}
+{{Copa del Rey}}
+
+{{Portal bar|Association football|Spain}}
+
+{{DEFAULTSORT:1957 Copa Del Rey}}
+[[Category:Copa del Rey seasons|1957]]
+[[Category:1957 in domestic association football cups|Copa del Rey]]
+[[Category:1956–57 in Spanish football|Copa]]

@@ -1,0 +1,185 @@
+{{Infobox football match
+|              title = Copa del Rey 1983 final
+|              image =
+|              event = [[1982–83 Copa del Rey]]
+|              team1 = [[FC Barcelona|Barcelona]]
+|         team1score = 2
+|              team2 = [[Real Madrid CF|Real Madrid]]
+|         team2score = 1
+|            details =
+|               date = 4 June 1983
+|            stadium = [[La Romareda]]
+|               city = [[Zaragoza]]
+| man_of_the_match1a =
+|            referee = [[José Luis García Carrión]]
+|         attendance = 35,000<ref>{{usurped|1={{Deprecated archive|url=https://archive.today/20130104090440/http://www.linguasport.com/futbol/nacional/copa/copa83.htm|title=Copa del Rey 1983}}}}</ref>
+|            weather =
+|           previous = [[1982 Copa del Rey final|1982]]
+|               next = [[1984 Copa del Rey final|1984]]
+}}
+The '''1983 Copa del Rey final''' was the 81st final of the [[Copa del Rey]]. The final was played at [[La Romareda]] in [[Zaragoza]], on 4 June 1983, being won by [[FC Barcelona|Barcelona]], who beat [[Real Madrid CF|Real Madrid]] 2–1.
+
+[[File:Grada_Sur_de_La_Romareda_2019.jpg|thumb|left|La Romareda Stadium in Zaragoza, venue of the final]]
+{{-}}
+
+== Match details ==
+{{footballbox
+|date= 4 June 1983
+|time=22:15 [[Central European Time|CET]]
+|team1=[[FC Barcelona|Barcelona]]
+|score=2–1
+|report={{usurped|1={{Deprecated archive|url=https://archive.today/20130104005004/http://www.linguasport.com/futbol/nacional/copa/Copa83.htm|title=Report}}}} 
+|team2=[[Real Madrid CF|Real Madrid]]
+|goals1=[[Víctor Muñoz (footballer, born 1957)|Víctor]] {{goal|32}}<br>[[Marcos Alonso Peña|Marcos]] {{goal|90}}
+|goals2=[[Santillana (footballer)|Santillana]] {{goal|50}}
+|stadium=[[La Romareda]], [[Zaragoza]]
+|attendance=35,000
+|referee=[[José Luis García Carrión]]
+}}
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           =  _fcbarcelona8089h
+| pattern_b             = _barcelona8089h
+| pattern_ra            = _fcbarcelona8089h
+| pattern_sh            = _barcelona8089
+| pattern_so            = _barcelona92h
+| leftarm               = 
+| body                 =  
+| rightarm              = 
+| shorts               = 
+| socks                 = 1524D5
+ | title           = Barcelona
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        = _RM1981
+| pattern_b         = _rmcf8286 
+| pattern_ra        = _RM1981
+| pattern_sh        = _blue_stripes_adidas 
+| pattern_so        = _color_3_stripes_blue
+| leftarm           = ffffff
+| body             = ffffff
+| rightarm           = ffffff
+| shorts             = ffffff 
+| socks              = ffffff  
+|title            =  Real Madrid
+}}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||{{flagicon|ESP}} [[Javier Urruticoechea|Urruti]]
+|-
+|DF ||'''2'''||{{flagicon|ESP}} [[José Vicente Sánchez|Tente Sánchez]] ([[Captain (association football)|c]])
+|-
+|DF ||'''3'''||{{flagicon|ESP}} [[Migueli]] || {{yel|5}}
+|-
+|DF ||'''6'''||{{flagicon|ESP}} [[Gerardo Miranda|Gerardo]] 
+|-
+|DF ||'''4'''||{{flagicon|ESP}} [[Julio Alberto]]
+|-
+|MF ||'''9'''||{{flagicon|ESP}} [[Esteban Vigo|Esteban]] || {{yel|58}} || {{suboff|81}}
+|-
+|MF ||'''5'''||{{flagicon|ESP}} [[Víctor Muñoz (footballer, born 1957)|Víctor]]
+|-
+|MF ||'''8'''||{{flagicon|FRG}} [[Bernd Schuster]]
+|-
+|MF ||'''11'''||{{flagicon|ESP}} [[Marcos Alonso Peña|Marcos Alonso]]
+|-
+|FW ||'''10'''||{{flagicon|ARG}} [[Diego Maradona]]
+|-
+|FW ||'''7'''||{{flagicon|ESP}} [[Francisco José Carrasco|Francisco Carrasco]]
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|DF ||'''12'''||{{flagicon|ESP}} [[Antonio Olmo]]
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Pedro María Artola]]
+|-
+|MF ||'''14'''||{{flagicon|ESP}} [[Enrique Morán]]  || || {{subon|81}}
+|-
+|FW ||'''15'''||{{flagicon|ESP}} [[Quini]]
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[César Luis Menotti]]
+|}
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||'''1'''||{{flagicon|ESP}} [[Miguel Ángel González (footballer, born 1947)|Miguel Ángel]]
+|-
+|DF ||'''2'''||{{flagicon|ESP}} [[Isidoro San José]] 
+|-
+|DF ||'''4'''||{{flagicon|NLD}} [[John Metgod]]
+|-
+|DF ||'''5'''||{{flagicon|ESP}} [[Francisco Bonet Serrano|Francisco Bonet]]
+|-
+|DF ||'''3'''||{{flagicon|ESP}} [[José Antonio Camacho]] || {{yel|34}}
+|-
+|MF ||'''8'''||{{flagicon|ESP}} [[Ángel de Los Santos Cano|Ángel]]
+|-
+|MF ||'''10'''||{{flagicon|FRG}} [[Uli Stielike]]
+|-
+|MF ||'''6'''||{{flagicon|ESP}} [[Ricardo Gallego]]
+|-
+|MF ||'''7'''||{{flagicon|ESP}} [[José Antonio Salguero García|José Antonio Salguero]]
+|-
+|FW ||'''11'''||{{flagicon|ESP}} [[Juanito (footballer, born 1954)|Juanito]]   || || {{suboff|75}}
+|-
+|FW ||'''9'''||{{flagicon|ESP}} [[Santillana (footballer)|Santillana]] ([[Captain (association football)|c]])
+|-
+|colspan=4|'''Substitutes:'''
+|-
+|DF ||'''12'''||{{flagicon|ESP}} [[Juan José Jiménez Collar|Juan José]]
+|-
+|GK ||'''13'''||{{flagicon|ESP}} [[Mariano García Remón]]
+|-
+|FW ||'''14'''||{{flagicon|ESP}} [[Francisco Pineda (footballer, born 1959)|Francisco Pineda]]
+|-
+|MF ||'''15'''||{{flagicon|ESP}} [[Isidro Díaz González|Isidro]] || || {{subon|75}}
+|-
+|colspan=4|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|ARG}} [[Alfredo Di Stéfano]]
+|-
+|}
+{{col-end}}
+
+{| width=100% style="font-size: 90%"
+| width=50% valign=top|
+'''Match rules'''
+*90 minutes
+*30 minutes of extra-time if necessary
+*Penalty shoot-out if scores still level
+*Four named substitutes
+*Maximum of two substitutions
+|}
+
+==See also==
+*[[El Clásico]]
+
+==References==
+{{reflist}}
+
+{{Copa del Rey Finals}}
+{{FC Barcelona matches}}
+{{Real Madrid C.F. matches}}
+{{Portal bar|Association football|Spain}}
+
+{{DEFAULTSORT:Copa Del Rey final 1983}}
+[[Category:Copa del Rey finals|1983]]
+[[Category:1983–84 in Spanish football cups|Copa]]
+[[Category:FC Barcelona matches]]
+[[Category:Real Madrid CF matches]]
+[[Category:June 1983 sports events in Europe]]
+[[Category:El Clásico matches]]
+[[Category:Sport in Zaragoza]]
+[[Category:1980s in Aragon]]
+[[Category:Football in Aragon]]
