@@ -99,7 +99,7 @@ Two pages with the same structure, one per competition:
 
 ### 🏆 [FIFA World Cup](https://angelmza1990.github.io/sports-stats-mvp/football/world-cup/)
 
-Every men's World Cup from 1930 to 2026: a race of titles, finals or top-four finishes; champions, runners-up and podiums; results by confederation; hosts and how far they went; repeated finals; the most played matches (every round or knockouts only); champions against champions, a head-to-head table of every match between the eight nations that have won it; teams, matches, goals and attendance per tournament; the all-time points table; team appearances; top scorers, most matches and most tournaments by player; and the top scorer, best player and winning coach of every edition.
+Every men's World Cup from 1930 to 2026: a race of titles, finals or top-four finishes; champions, runners-up and podiums; results by confederation; hosts and how far they went; repeated finals; the most played matches (every round or knockouts only); champions against champions, a head-to-head table of every match between the eight nations that have won it; the Netherlands, three times runners-up, against every champion; teams, matches, goals and attendance per tournament; the all-time points table; team appearances; top scorers, most matches and most tournaments by player; and the top scorer, best player and winning coach of every edition.
 
 ### 🥇 [Ballon d'Or](https://angelmza1990.github.io/sports-stats-mvp/football/ballon-dor/)
 

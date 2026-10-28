@@ -309,6 +309,33 @@
     show(...busiest[0].split("|"));
   })();
 
+  /* ---------- The Netherlands against the champions ---------- */
+
+  (function netherlands() {
+    const NED = "NED";
+    const champs = [...new Set(editions.map((e) => unified(e.champion)))];
+    const list = MATCHES.filter((m) => (m.home === NED && champs.includes(m.away)) || (m.away === NED && champs.includes(m.home)));
+    const rival = (m) => (m.home === NED ? m.away : m.home);
+    const r = recordOf(list, NED);
+    const finals = editions.filter((e) => e.runnerUp === NED).map((e) => e.year);
+    document.getElementById("netherlands-lede").textContent =
+      `Runners-up ${finals.length} times (${finals.join(", ")}) and never champions: the Netherlands' record in ${plural(list.length, "World Cup match")} against the nations that have won it. ` +
+      "A shoot-out counts as a draw.";
+    const groups = d3.groups(list, rival).sort((p, q) => q[1].length - p[1].length || recordOf(q[1], NED).w - recordOf(p[1], NED).w);
+    F.statTiles("netherlands-stats", [
+      { label: "Matches", value: String(r.n), detail: `against ${groups.length} of the ${champs.length} champions`, club: NED },
+      { label: "Wins", value: String(r.w), detail: `${d3.format(".0%")(r.w / r.n)} of the matches` },
+      { label: "Draws · losses", value: `${r.d} · ${r.l}`, detail: `${list.filter((m) => m.pens).length} of the draws went to penalties` },
+      { label: "Goals", value: `${r.gf}–${r.ga}`, detail: "for and against" },
+    ]);
+    const root = document.getElementById("netherlands-list");
+    groups.forEach(([c, ms]) => pairRow(NED, c, ms, root));
+    const never = champs.filter((c) => !groups.some(([g]) => g === c));
+    document.getElementById("netherlands-note").textContent =
+      (never.length ? `Never met at a World Cup: ${never.map(name).join(", ")}. ` : "") +
+      `Finals lost: ${list.filter((m) => m.stage === "Final").map((m) => `${m.year} v ${name(rival(m))} ${scoreFor(m, NED)}`).join(" · ")}`.replace(/([^.])$/, "$1.");
+  })();
+
   /* ---------- How the tournament grew ---------- */
 
   (function growth() {
