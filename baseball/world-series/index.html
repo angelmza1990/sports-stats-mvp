@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World Series · MLB</title>
+  <meta name="description" content="Every World Series since 1903: a franchise bar chart race, the American League against the National League, every champion, the longest droughts, the most repeated matchups, series lengths, World Series MVPs and the winning managers.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/world-series.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Baseball</p>
+    <h1>World Series</h1>
+    <p class="lede">
+      Every World Series since 1903, when the champions of the American and National Leagues first met: who won, how the titles piled up, which league came out ahead and how long some franchises had to wait.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most titles</h2>
+        <p>World Series won by each franchise, year by year. Bars are colored by the franchise's current league.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="legend" id="race-legend"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Year">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="race-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="leagues">
+      <div class="block-head">
+        <h2>American League vs National League</h2>
+        <p>The league each champion played in when it won. The Houston Astros (NL until 2012) and the Milwaukee Brewers (AL until 1997) have represented both.</p>
+      </div>
+      <div class="card">
+        <div class="versus" id="versus"></div>
+        <h3 class="sub">Titles by decade</h3>
+        <div class="legend" id="decade-legend"></div>
+        <div id="decade-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="decade-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="wall">
+      <div class="block-head">
+        <h2>Every champion</h2>
+        <p>All World Series winners, one tile per Series. The color strip marks the champion's league. Hover or tap a tile for the result and the MVP.</p>
+      </div>
+      <div class="wall" id="wall-grid" role="list"></div>
+    </section>
+
+    <section class="block" id="franchises">
+      <div class="block-head">
+        <h2>Titles by franchise</h2>
+        <p>All 30 teams, grouped by today's league. Titles won under earlier names and cities count for the current franchise (the Brooklyn Dodgers for Los Angeles, the New York Giants for San Francisco, the Philadelphia and Oakland Athletics for the Athletics).</p>
+      </div>
+      <div class="conf-columns" id="franchise-columns"></div>
+    </section>
+
+    <section class="block" id="droughts">
+      <div class="block-head">
+        <h2>The longest waits</h2>
+        <p>The longest stretches between two titles, and the waits still running for franchises that have won before. Hatched bars are still open.</p>
+      </div>
+      <div class="card">
+        <div id="drought-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="rivalries">
+      <div class="block-head">
+        <h2>The most repeated World Series</h2>
+        <p>Matchups that met more than once with the title on the line, counted by franchise.</p>
+      </div>
+      <div class="card">
+        <div class="pair-list" id="pairs-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="runners-up">
+      <div class="block-head">
+        <h2>So close: most World Series lost</h2>
+        <p>Runner-up finishes by franchise, with every Series that ended in defeat.</p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="runners-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="series">
+      <div class="block-head">
+        <h2>How the Series was won</h2>
+        <p>Length of every best-of-seven World Series, from sweeps to Game 7s, split by the champion's league. 1903 and 1919–1921 were best-of-nine; ties (1907, 1912, 1922) are not counted as games won.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="series-legend"></div>
+        <div id="series-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="series-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="mvp">
+      <div class="block-head">
+        <h2>World Series MVPs</h2>
+        <p>The most valuable player of the Series, awarded since 1955. Every logo is one award, shown with the team it was won for.</p>
+      </div>
+      <div class="card">
+        <div class="mvp-list" id="mvp-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="people"></section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> Wikipedia (CC BY-SA 4.0): <span id="sources"></span>.
+      Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> no World Series was played in 1904 (the New York Giants refused to play the American League champion) or in 1994 (players' strike).
+      Titles are credited to the current franchise. The 1924 Washington Senators are today's Minnesota Twins; the later Senators (1961–1971) became the Texas Rangers. Logos show each franchise's current identity.
+    </p>
+    <p>
+      Team names and logos are trademarks of their respective teams and MLB, shown here for identification only.
+      This project is not affiliated with or endorsed by MLB.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="app.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="../../football/people.js"></script>
+</body>
+</html>
