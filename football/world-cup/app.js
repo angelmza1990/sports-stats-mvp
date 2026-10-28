@@ -2,7 +2,7 @@
 (async function () {
   "use strict";
 
-  const { el, table, responsive, tooltipOn, ttTitle, ttNote, barPath, columnPath } = Viz;
+  const { el, table, responsive, tooltipOn, tooltipOnNode, ttTitle, ttNote, barPath, columnPath } = Viz;
   const raw = await d3.json(document.body.dataset.src);
   // National teams play the role of clubs; flags stand in for crests.
   const data = {
@@ -169,6 +169,145 @@
   F.repeatedFinals(document.getElementById("pairs-list"),
     editions.map((e) => ({ ...e, champion: unified(e.champion), runnerUp: unified(e.runnerUp) })),
     (e) => `${e.year} ${name(e.champion)} (${finalScore(e)})`);
+
+  /* ---------- Every match: the most played pairings, and the champions' head to head ---------- */
+
+  const MATCHES = raw.matches.map(([year, stage, date, home, away, hs, as, aet, pens]) =>
+    ({ year, stage, date, home: unified(home), away: unified(away), hs, as, aet, pens }));
+  const KNOCKOUT = new Set(["Round of 32", "Round of 16", "Quarter-finals", "Semi-finals", "Third place", "Final"]);
+  const winnerOf = (m) => (m.hs > m.as ? m.home : m.as > m.hs ? m.away : null);
+  const pairKey = (m) => [m.home, m.away].sort().join("|");
+  const recordOf = (list, a) => {
+    const r = { n: list.length, w: 0, d: 0, l: 0, gf: 0, ga: 0 };
+    list.forEach((m) => {
+      const w = winnerOf(m);
+      if (w === a) r.w++;
+      else if (w) r.l++;
+      else r.d++;
+      r.gf += m.home === a ? m.hs : m.as;
+      r.ga += m.home === a ? m.as : m.hs;
+    });
+    return r;
+  };
+  // The score from one side's point of view: "2–1 a.e.t.", "1–1 (4–3 pens)".
+  const scoreFor = (m, a) => {
+    const [f, g] = m.home === a ? [m.hs, m.as] : [m.as, m.hs];
+    const p = m.pens && (m.home === a ? m.pens : [m.pens[1], m.pens[0]]);
+    return `${f}–${g}${m.aet ? " a.e.t." : ""}${p ? ` (${p[0]}–${p[1]} pens)` : ""}`;
+  };
+  const h2hText = (a, b, r) => `${name(a)} ${r.w} · ${plural(r.d, "draw")} · ${name(b)} ${r.l}`;
+  const plural = (n, one) => `${n} ${n === 1 ? one : `${one}s`}`;
+
+  function pairRow(a, b, list, root) {
+    const r = recordOf(list, a);
+    const row = el("div", "pair-row");
+    const count = el("div", "count", String(list.length));
+    count.append(el("small", null, list.length === 1 ? "match" : "matches"));
+    const players = el("div", "players");
+    players.append(teamLabel(a), el("span", "vs", "vs"), teamLabel(b));
+    row.append(count, players, el("div", "h2h", h2hText(a, b, r)),
+      el("div", "meta", list.map((m) => `${m.year} ${m.stage} ${scoreFor(m, a)}`).join(" · ")));
+    root.append(row);
+  }
+
+  (function meetings() {
+    const root = document.getElementById("meetings-list");
+    const draw = (knockout) => {
+      root.replaceChildren();
+      const pool = knockout ? MATCHES.filter((m) => KNOCKOUT.has(m.stage)) : MATCHES;
+      d3.groups(pool, pairKey)
+        .sort((p, q) => q[1].length - p[1].length || d3.max(q[1], (m) => m.year) - d3.max(p[1], (m) => m.year))
+        .slice(0, 15)
+        .forEach(([key, list]) => {
+          let [a, b] = key.split("|");
+          if (recordOf(list, b).w > recordOf(list, a).w) [a, b] = [b, a];
+          pairRow(a, b, list, root);
+        });
+    };
+    Viz.segmented("meetings-tabs", [{ key: "all", label: "Every round" }, { key: "ko", label: "Knockout rounds" }], "all",
+      (k) => draw(k === "ko"));
+    draw(false);
+  })();
+
+  (function championsHeadToHead() {
+    const champs = [...new Set(editions.map((e) => unified(e.champion)))];
+    const among = MATCHES.filter((m) => champs.includes(m.home) && champs.includes(m.away));
+    const between = (a, b) => among.filter((m) => (m.home === a && m.away === b) || (m.home === b && m.away === a));
+    const totals = new Map(champs.map((c) => [c, recordOf(among.filter((m) => m.home === c || m.away === c), c)]));
+    champs.sort((p, q) => (totals.get(q).w - totals.get(q).l) - (totals.get(p).w - totals.get(p).l));
+    document.getElementById("champions-h2h-lede").textContent =
+      `All ${among.length} World Cup matches between the ${champs.length} nations that have won it. ` +
+      "Read across a row for its wins, then draws–losses, and select a pairing to see its matches. A shoot-out counts as a draw; West Germany counts as Germany.";
+    let current = null;
+    const matrix = document.getElementById("champions-matrix");
+    const t = el("table", "matrix");
+    const head = el("tr");
+    head.append(el("th", null, ""));
+    champs.forEach((c) => {
+      const th = el("th", "num");
+      th.append(F.flag(c));
+      th.title = name(c);
+      th.setAttribute("aria-label", name(c));
+      head.append(th);
+    });
+    head.append(el("th", "num", "Total"), el("th", "num hide-sm", ""));
+    t.append(head);
+    const buttons = [];
+    champs.forEach((row) => {
+      const tr = el("tr");
+      const club = el("th", "matrix-club");
+      club.scope = "row";
+      club.append(F.flag(row), el("span", "matrix-name", name(row)));
+      tr.append(club);
+      champs.forEach((col) => {
+        const td = el("td", "num matrix-cell");
+        if (row === col) {
+          td.classList.add("diag");
+          tr.append(td);
+          return;
+        }
+        const list = between(row, col);
+        const r = recordOf(list, row);
+        const b = el("button", `matrix-pair${r.w > r.l ? " ahead" : ""}`);
+        b.type = "button";
+        b.dataset.pair = [row, col].sort().join("|");
+        b.append(el("span", "w", String(r.w)), el("span", "dl", `${r.d}–${r.l}`));
+        b.setAttribute("aria-label", `${name(row)} against ${name(col)}: ${r.w} wins, ${r.d} draws, ${r.l} losses in ${plural(r.n, "match")}`);
+        if (list.length) b.addEventListener("click", () => show(row, col));
+        else b.disabled = true;
+        tooltipOnNode(b, (tip) => {
+          tip.append(ttTitle(`${name(row)} v ${name(col)}`), ttNote(list.length ? `${plural(r.n, "match")}: ${r.w} wins · ${r.d} draws · ${r.l} losses` : "Never met at a World Cup"));
+          if (list.length) tip.append(ttNote(`Goals ${r.gf}–${r.ga} · latest ${list[list.length - 1].year}`));
+        });
+        buttons.push(b);
+        td.append(b);
+        tr.append(td);
+      });
+      const tot = totals.get(row);
+      tr.append(el("td", "num matrix-total", `${tot.w}–${tot.d}–${tot.l}`), el("td", "num matrix-pct hide-sm", `${d3.format(".0%")(tot.n ? tot.w / tot.n : 0)} won`));
+      t.append(tr);
+    });
+    matrix.replaceChildren(t);
+
+    function show(a, b) {
+      const list = between(a, b);
+      if (recordOf(list, b).w > recordOf(list, a).w) [a, b] = [b, a];
+      current = [a, b].sort().join("|");
+      buttons.forEach((x) => x.classList.toggle("current", x.dataset.pair === current));
+      const root = document.getElementById("champions-pair");
+      root.replaceChildren();
+      pairRow(a, b, list, root);
+      F.richTable(document.getElementById("champions-pair-table"), [
+        { label: "Year", render: (m) => String(m.year) },
+        { label: "Round", cls: "hide-sm", render: (m) => m.stage },
+        { label: "Match", render: (m) => F.withSub(`${name(m.home)} ${m.hs}–${m.as}\u00a0${name(m.away)}`.replace(/ (\d+)–/, "\u00a0$1–"),
+          [m.stage, m.aet ? "after extra time" : "", m.pens ? `${m.pens[0]}–${m.pens[1]} on penalties` : ""].filter(Boolean).join(", ")) },
+        { label: "Winner", render: (m) => (winnerOf(m) ? teamLabel(winnerOf(m)) : m.pens ? `${name(m.pens[0] > m.pens[1] ? m.home : m.away)} on penalties` : "Draw") },
+      ], list.slice().reverse());
+    }
+    const busiest = d3.greatest(d3.groups(among, pairKey), (g) => g[1].length);
+    show(...busiest[0].split("|"));
+  })();
 
   /* ---------- How the tournament grew ---------- */
 
@@ -354,5 +493,9 @@
     src.append(a);
     if (i < raw.meta.sources.length - 1) src.append(document.createTextNode(", "));
   });
+  const ms = raw.meta.matchSource;
+  const link = el("a", null, ms.label);
+  link.href = ms.url;
+  src.append(document.createTextNode("; every match through " + ms.through + " from "), link, document.createTextNode(", and later ones from each tournament's Wikipedia pages"));
   document.getElementById("data-through").textContent = `Covers every World Cup through ${raw.meta.through}.`;
 })();

@@ -99,7 +99,7 @@ Two pages with the same structure, one per competition:
 
 ### 🏆 [FIFA World Cup](https://angelmza1990.github.io/sports-stats-mvp/football/world-cup/)
 
-Every men's World Cup from 1930 to 2026: a race of titles, finals or top-four finishes; champions, runners-up and podiums; results by confederation; hosts and how far they went; repeated finals; teams, matches, goals and attendance per tournament; the all-time points table; team appearances; top scorers, most matches and most tournaments by player; and the top scorer, best player and winning coach of every edition.
+Every men's World Cup from 1930 to 2026: a race of titles, finals or top-four finishes; champions, runners-up and podiums; results by confederation; hosts and how far they went; repeated finals; the most played matches (every round or knockouts only); champions against champions, a head-to-head table of every match between the eight nations that have won it; teams, matches, goals and attendance per tournament; the all-time points table; team appearances; top scorers, most matches and most tournaments by player; and the top scorer, best player and winning coach of every edition.
 
 ### 🥇 [Ballon d'Or](https://angelmza1990.github.io/sports-stats-mvp/football/ballon-dor/)
 
@@ -119,7 +119,7 @@ The Argentine page's format for six more countries, one page each with a shared 
 
 ### ⚔️ [Great Rivalries](https://angelmza1990.github.io/sports-stats-mvp/football/rivalries/)
 
-45 rivalries between the biggest clubs of seven countries, picked by country: Argentina's big five (River, Boca, Independiente, Racing, San Lorenzo), Brazil's big four of São Paulo and of Rio, the Grenal and the Clássico Mineiro, England's big six, Juventus, Inter and Milan, El Clásico, Le Classique and Der Klassiker. For each one:
+50 rivalries between the biggest clubs of eight countries, picked by country: Argentina's big five (River, Boca, Independiente, Racing, San Lorenzo), Uruguay's Peñarol vs Nacional, Brazil's big four of São Paulo and of Rio, the Grenal and the Clássico Mineiro, England's big six, Juventus, Inter and Milan, Spain's big three (Real Madrid, Barcelona, Atlético), the Seville derby and the Derbi de la Comunitat, Le Classique and Der Klassiker. For each one:
 
 - **The lead, match by match:** a line of wins minus losses after every official match, with each side's biggest lead
 - **Competition by competition:** league, state championships, domestic cups, super cups and international competitions
@@ -127,7 +127,7 @@ The Argentine page's format for six more countries, one page each with a shared 
 - **Home, away and neutral**, and **decade by decade**
 - **Knockout ties and finals:** every elimination and final between them, with how it was decided
 - **Records:** biggest wins, highest-scoring matches and the longest runs
-- **The players:** top scorers and most appearances, where the sources publish them
+- **The players:** top scorers and most appearances, where the sources publish them, or top scorers counted from the match list when it names the scorers of nearly every match
 - **Every match**, filterable by competition and result, and **friendlies** in their own tab
 - **Everyone against everyone:** each group of big clubs in one table of head-to-head records
 
@@ -143,6 +143,7 @@ The Argentine page's format for six more countries, one page each with a shared 
 | Clásico de Avellaneda: Independiente vs Racing Club | Argentina | 240 | 90 | 79 | 71 |
 | Independiente vs San Lorenzo: Independiente vs San Lorenzo ¹ | Argentina | 213 | 81 | 62 | 70 |
 | Racing vs San Lorenzo: Racing Club vs San Lorenzo | Argentina | 211 | 83 | 55 | 73 |
+| Uruguayan Clásico: Peñarol vs Nacional | Uruguay | 433 | 153 | 143 | 137 |
 | Derby Paulista: Palmeiras vs Corinthians | Brazil (São Paulo) | 332 | 118 | 101 | 113 |
 | Choque-Rei: Palmeiras vs São Paulo | Brazil (São Paulo) | 313 | 109 | 97 | 107 |
 | Majestoso: Corinthians vs São Paulo ¹ | Brazil (São Paulo) | 367 | 135 | 117 | 115 |
@@ -173,6 +174,10 @@ The Argentine page's format for six more countries, one page each with a shared 
 | Manchester City vs Tottenham: Manchester City vs Tottenham Hotspur | England | 176 | 69 | 38 | 69 |
 | Manchester United vs Tottenham: Manchester United vs Tottenham Hotspur | England | 206 | 95 | 54 | 57 |
 | El Clásico: Real Madrid vs Barcelona | Spain | 265 | 107 | 52 | 106 |
+| Madrid derby: Real Madrid vs Atlético Madrid | Spain | 244 | 119 | 63 | 62 |
+| Barcelona vs Atlético: Barcelona vs Atlético Madrid ³ | Spain | 247 | 114 | 56 | 77 |
+| Seville derby: Sevilla vs Real Betis | Spain (Andalusia) | 145 | 66 | 37 | 42 |
+| Derbi de la Comunitat: Valencia vs Villarreal | Spain (Valencian Community) | 64 | 25 | 14 | 25 |
 | Derby della Madonnina: Inter vs Milan | Italy | 246 | 91 | 71 | 84 |
 | Derby d'Italia: Juventus vs Inter | Italy | 254 | 114 | 63 | 77 |
 | Juventus vs Milan: Juventus vs Milan | Italy | 247 | 94 | 82 | 71 |
@@ -181,6 +186,7 @@ The Argentine page's format for six more countries, one page each with a shared 
 
 ¹ No source lists every match, so the page shows the head-to-head totals the source publishes, its knockout ties and finals and the latest matches.
 ² The source lists every meeting without its competition, so friendlies are included.
+³ No source lists every match, so the list is put together from engsoccerdata (league), RSSSF's cup pages (to 1997) and Barcelona's season articles; it may miss a few matches.
 
 ### 🏅 [The Olympic Games](https://angelmza1990.github.io/sports-stats-mvp/olympics/)
 
@@ -257,7 +263,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_football_people.py  # Coaches and players with the most titles (cups and leagues)
 │   ├── build_team_coaches.py     # Winning coaches: World Cup, club world champions, NBA and team tournaments
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
-│   ├── build_rivalries.py        # Great rivalries (45), with one source module per country (rivalries_*.py)
+│   ├── build_rivalries.py        # Great rivalries (50), with one source module per country (rivalries_*.py)
 │   ├── build_f1.py               # Formula 1 pipeline
 │   ├── build_atp_records.py      # ATP and WTA career records pipeline
 │   ├── build_tour_finals.py      # ATP and WTA Finals: editions, matches, hosts
@@ -306,7 +312,7 @@ python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, Engl
 python3 scripts/build_football_people.py --refresh  # football: coaches and players (after the two above)
 python3 scripts/build_team_coaches.py         # winning coaches of the team sports (only new editions are looked up)
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
-python3 scripts/build_rivalries.py --refresh  # football: the 45 great rivalries, match by match
+python3 scripts/build_rivalries.py --refresh  # football: the 50 great rivalries, match by match
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
 python3 scripts/build_tennis_ages.py --refresh  # tennis: age records (after build_grand_slams.py)
@@ -354,7 +360,7 @@ Rules applied:
 
 **National leagues.** One config per league (in `build_leagues.py`) names the Wikipedia list of champions, the top scorer pages and, where one exists, the all-time table (from Italian, Spanish or English Wikipedia). Every club's title count must match the totals table on the same page; the only documented exception is Rouen's 1944–45 wartime title, which the French totals table counts and the season list doesn't. Renamed clubs keep their titles through the aliases in `clubs.json` (Ambrosiana-Inter for Inter, Atlético Aviación for Atlético Madrid, SpVgg Fürth for Greuther Fürth), and a club's label only matches a club of the same country, so Chile's Everton or Arsenal de Sarandí never borrow an English crest.
 
-**World Cup.** The script combines six Wikipedia pages (editions, finals, records and statistics, top goalscorers, team and player appearances) and checks that every edition since 1930 is present, that title counts match history and that each edition has its final, podium, hosts and tournament totals.
+**World Cup.** The script combines six Wikipedia pages (editions, finals, records and statistics, top goalscorers, team and player appearances) and checks that every edition since 1930 is present, that title counts match history and that each edition has its final, podium, hosts and tournament totals. Every match comes from the [Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup) through 2022 and, for later tournaments, from the football boxes of each tournament's Wikipedia group and knockout pages; the number of matches per tournament must match the records page.
 
 **Ballon d'Or.** Winners, nationality and club come from Wikipedia's Ballon d'Or article; the youth academy is read from each winner's own article (the last youth club in the infobox, with youth sides such as "Sporting CP (youth)" credited to the parent club). The build checks the number of awards of the multiple winners and that every year is present.
 
@@ -392,7 +398,8 @@ python3 -m http.server 8000
 - Flags: [Flagpedia](https://flagpedia.net) (flagcdn.com).
 - NBA championships: [Wikipedia](https://en.wikipedia.org/wiki/List_of_NBA_champions), CC BY-SA 4.0.
 - Football finals, club records and player records: Wikipedia (CC BY-SA 4.0).
-- Rivalries: matches from English, Spanish, Portuguese and Italian Wikipedia (CC BY-SA 4.0), [RSSSF](https://www.rsssf.org/)'s Argentine head-to-head lists (Pablo Ciullini) and [engsoccerdata](https://github.com/jalapic/engsoccerdata) (James Curley) for English results; Liverpool–Manchester United top scorers and appearances from [LFChistory.net](https://www.lfchistory.net/Opposition/Team/Profile/22).
+- World Cup matches: [The Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup) (Joshua C. Fjelstul, CC BY-SA 4.0) through 2022.
+- Rivalries: matches from English, Spanish, Portuguese and Italian Wikipedia (CC BY-SA 4.0), [RSSSF](https://www.rsssf.org/)'s Argentine head-to-head lists (Pablo Ciullini), its Peñarol–Nacional list (Martín Tabeira) and its Spanish cup pages, and [engsoccerdata](https://github.com/jalapic/engsoccerdata) (James Curley) for English and Spanish league results; Liverpool–Manchester United top scorers and appearances from [LFChistory.net](https://www.lfchistory.net/Opposition/Team/Profile/22).
 - NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, FIFA, CONMEBOL, UEFA, the AFA, the FIGC, the RFEF, LaLiga, the FA, the Premier League, the LFP, the DFB, the DFL, the CBF, the ATP, the WTA, France Football, Formula One, the FIA, World Rugby, FIBA, the FIVB, the FIH or the IOC.
 
 ## License

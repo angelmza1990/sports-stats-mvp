@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>FIFA World Cup · Football</title>
-  <meta name="description" content="Every FIFA World Cup since 1930: champions and runners-up, hosts, the all-time points table, top scorers, most appearances, repeated finals, and goals, teams and matches per tournament.">
+  <meta name="description" content="Every FIFA World Cup since 1930: champions and runners-up, hosts, the all-time points table, the most played matches, every meeting between world champions, top scorers, most appearances, repeated finals, and goals, teams and matches per tournament.">
   <link rel="stylesheet" href="../../assets/theme.css">
   <link rel="stylesheet" href="../../assets/viz.css">
   <link rel="stylesheet" href="../football.css">
@@ -90,6 +90,31 @@
       </div>
       <div class="card">
         <div class="pair-list" id="pairs-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="meetings">
+      <div class="block-head">
+        <h2>The most played matches</h2>
+        <p>The pairings that have met most often at the World Cup, and how every meeting ended. A shoot-out counts as a draw.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Rounds" id="meetings-tabs"></div>
+        </div>
+        <div class="pair-list" id="meetings-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="champions-h2h">
+      <div class="block-head">
+        <h2>Champions against champions</h2>
+        <p id="champions-h2h-lede">Every World Cup match between the nations that have won it.</p>
+      </div>
+      <div class="card">
+        <div class="matrix-wrap" id="champions-matrix"></div>
+        <div class="pair-list" id="champions-pair"></div>
+        <div class="data-table" id="champions-pair-table"></div>
       </div>
     </section>
 

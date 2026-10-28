@@ -12,9 +12,12 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import csv
+import io
 import json
 import re
 import sys
+import urllib.request
 from collections import Counter
 from datetime import date
 
@@ -98,6 +101,100 @@ def best_result(cell: str) -> str | None:
     if not text:
         return None
     return f"{text} ({', '.join(years)})" if years else text
+
+
+# Every match: Joshua Fjelstul's World Cup Database (CC BY-SA 4.0) through 2022, then each tournament's Wikipedia
+# group and knockout pages, whose football boxes name the teams by FIFA code.
+FJELSTUL_URL = "https://raw.githubusercontent.com/jfjelstul/worldcup/master/data-csv/matches.csv"
+FJELSTUL_CACHE = ROOT / "data" / "raw" / "fjelstul" / "world-cup-men-matches.csv"
+FJELSTUL_LAST = 2022
+FJELSTUL_NAMES = {"West Germany": "FRG", "East Germany": "GDR", "Soviet Union": "URS", "Czechoslovakia": "TCH",
+                  "Yugoslavia": "YUG", "FR Yugoslavia": "FRY", "Serbia and Montenegro": "SCG", "Dutch East Indies": "DEI",
+                  "Zaire": "ZAI", "Republic of Ireland": "IRL", "United States": "USA", "South Korea": "KOR",
+                  "North Korea": "PRK", "Ivory Coast": "CIV", "Iran": "IRN", "China": "CHN", "Czech Republic": "CZE",
+                  "Bosnia and Herzegovina": "BIH", "United Arab Emirates": "UAE", "Trinidad and Tobago": "TRI"}
+STAGES = {"group stage": "Group stage", "first group stage": "Group stage", "second group stage": "Second group stage",
+          "final round": "Final round", "round of 32": "Round of 32", "round of 16": "Round of 16",
+          "quarter-final": "Quarter-finals", "quarter-finals": "Quarter-finals", "semi-final": "Semi-finals",
+          "semi-finals": "Semi-finals", "third-place match": "Third place", "final": "Final"}
+
+
+def fjelstul_matches(refresh: bool, codes: dict[str, str]) -> list[list]:
+    """Men's World Cup matches through 2022, kept on disk as just those rows."""
+    if refresh or not FJELSTUL_CACHE.exists():
+        print(f"downloading {FJELSTUL_URL}", file=sys.stderr)
+        try:
+            req = urllib.request.Request(FJELSTUL_URL, headers={"User-Agent": W.USER_AGENT})
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                rows = list(csv.reader(io.StringIO(resp.read().decode("utf-8"))))
+            head, body = rows[0], [r for r in rows[1:] if "Men's" in r[2]]
+            FJELSTUL_CACHE.parent.mkdir(parents=True, exist_ok=True)
+            with FJELSTUL_CACHE.open("w", newline="", encoding="utf-8") as f:
+                csv.writer(f).writerows([head, *body])
+        except OSError as err:
+            if not FJELSTUL_CACHE.exists():
+                raise
+            print(f"warning: could not download the World Cup Database ({err}); using the saved copy", file=sys.stderr)
+    by_name = {name: code for code, name in codes.items()}
+    by_name.update(FJELSTUL_NAMES)
+    out = []
+    with FJELSTUL_CACHE.open(encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            home, away = by_name.get(r["home_team_name"]), by_name.get(r["away_team_name"])
+            if not home or not away:
+                raise SystemExit(f"World Cup Database: no code for {r['home_team_name']} or {r['away_team_name']}")
+            out.append(match_row(int(r["tournament_id"][3:]), STAGES[r["stage_name"]], r["match_date"], home, away,
+                                 int(r["home_team_score"]), int(r["away_team_score"]), r["extra_time"] == "1",
+                                 (int(r["home_team_score_penalties"]), int(r["away_team_score_penalties"])) if r["penalty_shootout"] == "1" else None))
+    return out
+
+
+def match_row(year, stage, day, home, away, hs, as_, aet, pens) -> list:
+    """[year, stage, date, home, away, home goals, away goals, extra time (0/1), shoot-out or null]."""
+    return [year, stage, day, home, away, hs, as_, int(aet), list(pens) if pens else None]
+
+
+def wiki_matches(year: int, refresh: bool) -> list[list]:
+    """A tournament's matches from its Wikipedia group pages, round-of-32 page, knockout stage page and final."""
+    titles = [f"{year} FIFA World Cup Group {g}" for g in "ABCDEFGHIJKL"]
+    titles += [f"{year} FIFA World Cup round of 32", f"{year} FIFA World Cup knockout stage", f"{year} FIFA World Cup final"]
+    out, seen = [], set()
+    for title in titles:
+        try:
+            text = W.fetch_raw(title, RAW_DIR / f"{slug(title)}.wiki", refresh)
+        except Exception as err:  # noqa: BLE001 - fewer groups, or no round of 32
+            print(f"note: {title}: {err}", file=sys.stderr)
+            continue
+        heads = [(m.start(), m.group(1).strip()) for m in re.finditer(r"^==\s*([^=].*?)\s*==\s*$", text, re.M)]
+        for m in re.finditer(r"\{\{\s*#invoke:\s*football box\s*\|\s*main(.*?)\n\}\}", text, re.S | re.I):
+            box = m.group(1)
+            field = lambda k: (re.search(r"^\|\s*" + k + r"\s*=\s*(.*)$", box, re.M) or [None, ""])[1].strip()  # noqa: E731
+            t1, t2 = re.search(r"\|\s*([A-Z]{3})\s*\}\}", field("team1")), re.search(r"\|\s*([A-Z]{3})\s*\}\}", field("team2"))
+            d = re.search(r"(\d{4})\|(\d{1,2})\|(\d{1,2})", field("date"))
+            sc = re.findall(r"(\d+)\s*[–-]\s*(\d+)", W.plain(field("score")) or field("score"))
+            if not (t1 and t2 and d and sc):
+                continue  # not played yet
+            heading = next((h for pos, h in reversed(heads) if pos < m.start()), "")
+            if title.endswith("final"):
+                stage = "Final"
+            elif "Group" in title:
+                stage = "Group stage"
+            elif "round of 32" in title:
+                stage = "Round of 32"
+            else:
+                stage = next((v for k, v in STAGES.items() if heading.lower().replace("quarterfinals", "quarter-finals")
+                              .replace("semifinals", "semi-finals").replace("match for third place", "third-place match") == k), None)
+                if not stage:
+                    continue
+            day = f"{d.group(1)}-{int(d.group(2)):02d}-{int(d.group(3)):02d}"
+            key = (day, t1.group(1), t2.group(1))
+            if key in seen:
+                continue
+            seen.add(key)
+            ps = re.search(r"(\d+)\s*[–-]\s*(\d+)", field("penaltyscore"))
+            out.append(match_row(year, stage, day, t1.group(1), t2.group(1), int(sc[-1][0]), int(sc[-1][1]),
+                                 field("aet").lower() in ("yes", "y"), (int(ps.group(1)), int(ps.group(2))) if ps else None))
+    return out
 
 
 def num(text: str) -> float | None:
@@ -201,11 +298,11 @@ def build(refresh: bool) -> dict:
             "goals": int(num(row[3]["text"])), "matches": int(num(row[4]["text"]) or 0),
             "tournaments": W.plain(row[6]["text"]),
         })
-    matches = []
+    matches_played = []
     for row in W.table_with_headers(players_page, "rank", "team", "player", "matches", "tournaments"):
         if len(row) < 5 or num(row[3]["text"]) is None:
             continue
-        matches.append({"player": W.person(row[2]["text"]), "team": W.flag_code(row[1]["text"]),
+        matches_played.append({"player": W.person(row[2]["text"]), "team": W.flag_code(row[1]["text"]),
                         "matches": int(num(row[3]["text"])), "tournaments": W.plain(row[4]["text"])})
     tournaments = []
     for row in W.table_with_headers(players_page, "team", "player", "in squad", "played"):
@@ -216,12 +313,18 @@ def build(refresh: bool) -> dict:
                             "tournaments": W.plain(row[4]["text"])})
 
     eds = [editions[y] for y in sorted(editions)]
+    known = {c: team_name(c)[0] for c in set(TEAMS) | set(COUNTRIES)}
+    matches = fjelstul_matches(refresh, known)
+    for y in sorted(y for y in editions if y > FJELSTUL_LAST):
+        matches += wiki_matches(y, refresh)
+    matches.sort(key=lambda m: (m[2], m[0]))
     codes = set()
     for e in eds:
         codes |= {e["champion"], e["runnerUp"], e["third"], e["fourth"], *e["hosts"]}
         codes |= {s["team"] for s in e.get("topScorers", [])}
     codes |= {r["team"] for r in alltime} | {a["team"] for a in appearances}
-    codes |= {p["team"] for p in scorers + matches + tournaments}
+    codes |= {p["team"] for p in scorers + matches_played + tournaments}
+    codes |= {m[3] for m in matches} | {m[4] for m in matches}
     codes.discard(None)
     unknown = sorted(c for c in codes if c not in TEAMS and c not in COUNTRIES)
     if unknown:
@@ -232,6 +335,9 @@ def build(refresh: bool) -> dict:
             "generated": date.today().isoformat(),
             "through": str(eds[-1]["year"]),
             "sources": [f"https://en.wikipedia.org/wiki/{t.replace(' ', '_')}" for t in PAGES.values()],
+            "matchSource": {"label": "The Fjelstul World Cup Database", "url": "https://github.com/jfjelstul/worldcup",
+                            "through": FJELSTUL_LAST},
+            "matchFields": ["year", "stage", "date", "home", "away", "homeGoals", "awayGoals", "extraTime", "shootout"],
             "pointsRule": "3 points per win, 1 per draw (applied to every tournament); shoot-outs count as draws",
         },
         "teams": {c: {"name": team_name(c)[0], "flag": team_name(c)[1], "confederation": team_confed(c)} for c in sorted(codes)},
@@ -239,7 +345,8 @@ def build(refresh: bool) -> dict:
         "alltime": alltime,
         "appearances": appearances,
         "scorers": scorers,
-        "playerMatches": matches,
+        "playerMatches": matches_played,
+        "matches": matches,
         "playerTournaments": tournaments,
     }
 
@@ -261,6 +368,10 @@ def validate(data: dict) -> list[str]:
             errors.append(f"{e['year']}: no host")
     if len(data["alltime"]) < 60 or data["alltime"][0]["team"] != "BRA":
         errors.append("all-time table looks wrong")
+    per_year = Counter(m[0] for m in data["matches"])
+    for e in data["editions"]:
+        if per_year[e["year"]] != e["matches"]:
+            errors.append(f"{e['year']}: {per_year[e['year']]} matches listed, the records page counts {e['matches']}")
     for label, rows in (("scorers", data["scorers"]), ("player matches", data["playerMatches"])):
         if len(rows) < 20 or any(not r["player"] for r in rows):
             errors.append(f"{label} table incomplete")
