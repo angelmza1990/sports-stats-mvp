@@ -8,7 +8,7 @@
   const COLOR = { a: "var(--team-a)", b: "var(--team-b)", d: "var(--draw)" };
   const STAGES = [["league", "League"], ["state", "State championships"], ["regional", "Interstate tournaments"], ["cup", "Domestic cups"],
     ["super", "Super cups"], ["intl", "International"], ["all", "Every meeting"]];
-  const COUNTRIES = ["ARG", "BRA", "ENG", "ESP", "ITA", "FRA", "GER"].filter((c) => index.groups.some((g) => g.country === c));
+  const COUNTRIES = ["ARG", "URU", "BRA", "ENG", "ESP", "ITA", "FRA", "GER"].filter((c) => index.groups.some((g) => g.country === c));
   const fmtDate = d3.utcFormat("%-d %b %Y");
   const fmtMonth = d3.utcFormat("%b %Y");
   const parse = d3.utcParse("%Y-%m-%d");
@@ -938,6 +938,7 @@
     const recent = data.recent ?? [];
     const last = recent[recent.length - 1];
     const finals = data.ties.filter((x) => x.final);
+    document.getElementById("stats").replaceChildren();
     F.statTiles("stats", [
       { label: "Official matches", value: String(t.n), detail: data.summary.since ? `since ${data.summary.since}` : "published totals" },
       t.ga != null && t.gb != null
