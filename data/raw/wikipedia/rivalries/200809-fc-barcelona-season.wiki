@@ -1,0 +1,1453 @@
+{{Short description|110th season in existence of FC Barcelona}}
+{{Use dmy dates|date=September 2023}}
+{{Infobox football club season
+  | club          = [[FC Barcelona|Barcelona]]
+  | season        = 2008–09
+  | manager       = [[Pep Guardiola]]
+  | mgrtitle      = Head coach
+  | chairman      = [[Joan Laporta]]
+  | chrtitle      = [[List of FC Barcelona presidents|President]]
+  | stadium       = [[Camp Nou]]
+  | league        = [[La Liga]]
+  | league result = '''[[2008–09 La Liga|1st]]'''
+  | cup1          = [[Copa del Rey]]
+  | cup1 result   = '''[[2008–09 Copa del Rey|Winners]]'''
+  | cup3          = {{nowrap|[[UEFA Champions League]]}}
+  | cup3 result   = '''[[2008–09 UEFA Champions League#Final|Winners]]'''
+  | league topscorer = <br>[[Samuel Eto'o]] (30)
+  | season topscorer = <br>[[Lionel Messi]] (38)
+  | largest win      = {{nowrap|Barcelona 6–0 [[Malaga C.F.|Malaga]]}}
+  | largest loss     = {{nowrap|[[Atlético Madrid]] 4–3 Barcelona}}
+  | pattern_la1 = 
+  | pattern_b1  = _fcbarcelona0809H
+  | pattern_ra1 = 
+  | pattern_sh1 = _barcelona0809h
+  | pattern_so1 = _barcelona0809h
+  | leftarm1    = 0000BF
+  | body1       = BB0000
+  | rightarm1   = BF0000
+  | shorts1     = 0000BF
+  | socks1      = C20300
+  | pattern_la2 = _barcelona0809a
+  | pattern_b2  = _barcelona0809a
+  | pattern_ra2 = _barcelona0809a
+  | pattern_sh2 = _barcelona0809a
+  | leftarm2    = FFFF00
+  | body2       = FFFF00
+  | rightarm2   = FFFF00
+  | shorts2     = 00008B
+  | socks2      = FFFF00
+  | pattern_la3 = _barcelona0708a
+  | pattern_b3  = _barcelona0708a
+  | pattern_ra3 = _barcelona0708a
+  | pattern_sh3 = _barcelona0708a
+  | pattern_so3 = _barcelona0708al
+  | leftarm3    = 00CCFF
+  | body3       = 00CCFF
+  | rightarm3   = 00CCFF
+  | shorts3     = 00CCFF
+  | socks3      = 00CCFF
+  | prevseason = [[2007–08 FC Barcelona season|2007–08]]
+  | nextseason = [[2009–10 FC Barcelona season|2009–10]]
+  | caption    = FC Barcelona players celebrating their historic treble-winning campaign, 28 May 2009
+  | image      = Rua Barça - Tricampió 2009.jpg
+  | image_size = 250px
+}}
+In 2008–09, '''FC Barcelona''' started a new era with a new manager, former captain and [[FC Barcelona B|Barcelona B]] coach [[Pep Guardiola]], who led the team to the first [[treble (association football)|treble]] in Spanish football history. After selling high-profile players such as [[Deco]] and [[Ronaldinho]], Barcelona went on to win the [[2008–09 Copa del Rey|Copa del Rey]], [[2008–09 La Liga|La Liga]], and [[2008–09 UEFA Champions League|UEFA Champions League]]. This team is widely regarded as one of the greatest teams in football history.<ref>{{Cite web |date=2019-12-19 |title=Oral history: How Barca made history with six trophies in 2009 |url=https://www.espn.com/soccer/story/_/id/37579940/oral-history-how-guardiola-co-did-unthinkable-2009 |access-date=2025-06-10 |website=ESPN.com |language=en}}</ref>
+
+==Pre-season and friendlies==
+
+{{football box collapsible
+|round      = Friendly
+|date       = 24 July 2008<!-- Since there is a report, the reference is unnecessary. -->
+|time       = 19:45 [[British Summer Time|BST]]
+|team1      = [[Hibernian F.C.|Hibernian]] 
+|score      = 0–6
+|report     = {{Deprecated archive|url=https://archive.today/20120729163045/http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/pretemporada/Hibernian-FCB/partit.html|title=Report}}
+|team2      =  [[FC Barcelona|Barcelona]]
+|goals1     = 
+|goals2     = [[Eiður Guðjohnsen|Guðjohnsen]] {{goal|5||17}}<br />[[Lionel Messi|Messi]] {{goal|15}}<br />[[Pedro (footballer, born 1987)|Pedro]] {{goal|27}}<br />[[Bojan Krkić|Bojan]] {{goal|48}}<br />[[Yaya Touré|Touré]] {{goal|69}}
+|stadium    = [[Murrayfield Stadium]]
+|location   = [[Edinburgh]], Scotland
+|attendance = 23,390
+|referee    = [[Craig Thomson (referee)|Craig Thomson]] ([[Scottish Football Association|Scotland]])
+|result     = W
+}}
+
+{{football box collapsible
+|round      = Friendly
+|date       = 26 July 2008<!-- Since there is a report, the reference is unnecessary. -->
+|time       = 16:00 [[British Summer Time|BST]]
+|team1      = [[Dundee United F.C.|Dundee United]] 
+|score      = 1–5
+|report     = [https://web.archive.org/web/20080714084244/http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/pretemporada/dundee_barcelona/partit.html Report]
+|team2      =  [[FC Barcelona|Barcelona]]
+|goals1     = [[Prince Buaben|Buaben]] {{goal|26}}
+|goals2     = [[Thierry Henry|Henry]] {{goal|27}}<br />[[Lionel Messi|Messi]] {{goal|51||75||78}}<br />[[Samuel Eto'o|Eto'o]] {{goal|61}}
+|stadium    = [[Tannadice Park]]
+|location   = [[Dundee]], Scotland
+|attendance = 13,000
+|referee    = [[Dougie McDonald]] ([[Scottish Football Association|Scotland]])
+|result     = W
+}}
+
+{{football box collapsible
+|round      = [[Memorial Artemio Franchi]]
+|date       = 30 July 2008<!-- Since there is a report, the reference is unnecessary. -->
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = [[ACF Fiorentina|Fiorentina]] 
+|score      = 1–3
+|report     = {{Deprecated archive|url=https://archive.today/20110524032841/http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/pretemporada/fiorentina_barcelona/partit.html|title=Report}}
+|team2      =  [[FC Barcelona|Barcelona]]
+|goals1     = [[Giampaolo Pazzini|Pazzini]] {{goal|68}}
+|goals2     = [[Yaya Touré|Touré]] {{yel|10}}<br />[[Carles Puyol|Puyol]] {{goal|28}}<br />[[Jeffrén Suárez|Jeffrén]] {{goal|47}}<br />[[Bojan Krkić|Bojan]] {{goal|72}}
+|stadium    = [[Stadio Artemio Franchi]]
+|location   = [[Florence]], Italy
+|attendance = 40,428
+|referee    = Saccanni Dimantova ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+
+{{football box collapsible
+|round      = US Tour
+|date       = 3 August 2008<!-- Since there is a report, the reference is unnecessary. -->
+|time       = 18:00 [[Central Daylight Time (North America)|CDT]]
+|team1      = [[C.D. Guadalajara|Guadalajara]] 
+|score      = 2–5
+|report     = [https://web.archive.org/web/20080805161221/http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/pretemporada/chivas_barcelona/partit.html Report]
+|team2      =  [[FC Barcelona|Barcelona]]
+|goals1     = [[Jesús Padilla|Padilla]] {{goal|58}}<br />[[Patricio Araujo|Araujo]] {{yel|69}}<br />[[Javier Hernández|Hernández]] {{goal|88}}
+|goals2     = [[Xavi (footballer, born 1980)|Xavi]] {{goal|25}}<br />[[Alexander Hleb|Hleb]] {{goal|45}}<br />[[Samuel Eto'o|Eto'o]] {{goal|48||72}}<br />[[Bojan Krkić|Bojan]] {{yel|55}}<br />[[Martín Cáceres|Cáceres]] {{goal|89}}
+|stadium    = [[Soldier Field]]
+|location   = [[Chicago]], United States
+|attendance = 40,717
+|referee    = Alex Prus
+|result     = W
+}}
+
+{{football box collapsible
+|round      = US Tour
+|date       = 6 August 2008<!-- Since there is a report, the reference is unnecessary. -->
+|time       = 19:00 [[Eastern Time Zone|EST]]
+|team1      = [[New York Red Bulls]] 
+|score      = 2–6
+|report     = [https://web.archive.org/web/20080818045433/http://redbull.newyork.mlsnet.com/news/team_news.jsp?ymd=20080806&content_id=178391&vkey=news_rbn&fext=.jsp&team=t107 Report]
+|team2      =  [[FC Barcelona|Barcelona]]
+|goals1     = [[Seth Stammler|Stammler]] {{goal|30}}<br>[[Jorge Alberto Rojas|Rojas]] {{goal|60}}
+|goals2     = [[Xavi (footballer, born 1980)|Xavi]] {{goal|17}}<br>[[Samuel Eto'o|Eto'o]] {{goal|18||43}}<br>[[Rafael Márquez|Márquez]] {{goal|24}}<br>[[Jeffrén Suárez|Jeffrén]] {{goal|80}}<br>[[Pedro (footballer, born 1987)|Pedro]] {{goal|85}}
+|stadium    = [[Giants Stadium]]
+|location   = [[East Rutherford, New Jersey]], United States
+|attendance = 38,152
+|referee    = [[Kevin Stott]]
+|result     = W
+}}
+
+{{football box collapsible
+|round      = [[Joan Gamper Trophy]]
+|date       = 16 August 2008<!-- Since there is a report, the reference is unnecessary. -->
+|time       = 22:00 [[Central European Summer Time|CEST]]
+|team1      = [[Boca Juniors]] 
+|score      = 1–2
+|report     = {{Deprecated archive|url=https://archive.today/20120318072641/http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/Gamper/barcelona_boca/partit.html|title=Report}}
+|team2      =  [[FC Barcelona|Barcelona]]
+|goals1     = [[Lucas Castromán|Castromán]] {{yel|44}}<br />[[Fabián Andrés Vargas|Vargas]] {{yel|52}}<br />[[Facundo Roncaglia|Roncaglia]] {{yel|55}}<br />[[Lucas Viatri|Viatri]] {{goal|72}}
+|goals2     = [[David Córcoles|Córcoles]] {{yel|30}}<br />[[Sergio Busquets|Busquets]] {{yel|57}}<br />[[Gerard Piqué|Piqué]] {{yel|89}}<br />[[Carles Puyol|Puyol]] {{goal|90+2}}<br />[[Samuel Eto'o|Eto'o]] {{goal|90+5}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]], Spain
+|attendance = 71,210
+|referee    = González Vázquez
+|result     = W
+}}
+
+{{football box collapsible
+|round      = Semi-finals
+|date       = 9 September 2008
+|time       = 
+|team1      = [[UE Sant Andreu|Sant Andreu]] 
+|score      = 3–1
+|report     = https://players.fcbarcelona.com/en/match/g0041-sant-andreu-barcelona
+|team2      =  [[FC Barcelona|Barcelona]]
+|goals1     = [[Edu Oriol|Oriol]] {{goal|9||77}}<br />[[Dani Martí|Martí]] {{goal|28}}
+|goals2     = [[Sergio Busquets|Busquets]] {{goal|20}}
+|stadium    = La Devesa
+|location   = [[La Ràpita]], Spain
+|attendance = 
+|referee    = Del Pino
+|result     = L
+}}
+Source : {{Deprecated archive|url=https://archive.today/20110106003619/http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/llistat_tots_partits/tots_els_partits.html|title=FC Barcelona}}
+
+==Players==
+
+===Squad information===
+{{fb si header |age=y}}
+
+{{fb si player |bg=  |p=[[Víctor Valdés]]               |eu=y |nb=ESP |n=1  |pos=GK |age={{Age|1982|01|14|2009|5|30}} |s=2002 |a=260 |g=0  |e=2010 |f=YS |vc=VC}}
+{{fb si player |bg=y |p=[[Martín Cáceres]]             |eu=n |nb=URU |n=2  |pos=DF |age={{Age|1987|03|17|2009|5|30}} |s=2008 |a=0   |g=0  |e=2012 |f=€16.5M }}
+{{fb si player |bg=  |p=[[Gerard Piqué]]                 |eu=y |nb=ESP |n=3  |pos=DF |age={{Age|1987|02|02|2009|5|30}} |s=2008 |a=0 |g=0  |e=2012 |f=YS |notes=Bought from [[Manchester United F.C.|Manchester United]] for €5M }}
+{{fb si player |bg=y |p=[[Rafael Márquez]]             |eu=y |nb=MEX |n=4  |pos=DF |age={{Age|1979|02|13|2009|5|30}} |s=2003 |a=200 |g=8  |e=2012<ref>{{cite web|url=https://www.proceso.com.mx/deportes/2009/6/11/rafa-marquez-renueva-con-el-barcelona-hasta-el-2012-16072.html|title=Rafa Marquez signs contract renewal with FC Barcelona until 2012|publisher=proceso.com.mx|date=11 June 2009|accessdate=10 April 2021|language=es}}</ref> |f=€5M }}
+{{fb si player |bg=  |p=[[Carles Puyol]]                 |eu=y |nb=ESP |n=5  |pos=DF |age={{Age|1978|04|13|2009|5|30}} |s=1999 |a=270 |g=4  |e=2010 |f=YS |cap=y}}
+{{fb si player |bg=y |p=[[Xavi (footballer, born 1980)|Xavi]]                               |eu=y |nb=ESP |n=6  |pos=MF |age={{Age|1980|01|25|2009|5|30}} |s=1998 |a=288 |g=28 |e=2014 |f=YS |vc=VC}}
+{{fb si player |bg=  |p=[[Eiður Guðjohnsen]]        |eu=y |nb=ISL |n=7  |pos=FW |age={{Age|1978|09|15|2009|5|30}} |s=2006 |a=72  |g=13 |e=2010 |f=€12M }}
+{{fb si player |bg=y |p=[[Andrés Iniesta]]             |eu=y |nb=ESP |n=8  |pos=MF |age={{Age|1984|05|11|2009|5|30}} |s=2002 |a=211 |g=17 |e=2014 |f=YS |vc=VC}}
+{{fb si player |bg= |p=[[Samuel Eto'o]]                 |eu=y |nb=CMR |n=9 |pos=FW |age={{Age|1981|03|10|2009|5|30}} |s=2004 |a=108  |g=78 |e=2010 |f=€27M }}
+{{fb si player |bg=y |p=[[Lionel Messi]]                 |eu=y |nb=ARG |n=10 |pos=FW |age={{Age|1987|06|24|2009|5|30}} |s=2004 |a=109  |g=54 
+|e=2014 |f=YS }}
+{{fb si player |bg=  |p=[[Bojan Krkić|Bojan]]                  |eu=y |nb=ESP |n=11 |pos=FW |age={{Age|1990|08|28|2009|5|30}} |s=2007 |a=54 |g=12  |e=2013  |f=YS  }}
+{{fb si player |bg=y |p=[[José Manuel Pinto]]            |eu=y |nb=ESP |n=13 |pos=GK |age={{Age|1975|11|08|2009|5|30}} |s=2008 |a=3   |g=0  |e=2010 |f=€0.5M  }}
+{{fb si player |bg=  |p=[[Thierry Henry]]                |eu=y |nb=FRA |n=14 |pos=FW |age={{Age|1977|08|17|2009|5|30}} |s=2007 |a=59  |g=31 |e=2011 |f=€24M }}
+{{fb si player |bg=y |p=[[Seydou Keita]]    |eu=y |nb=MLI |n=15 |pos=MF |age={{Age|1980|01|16|2009|5|30}} |s=2008 |a=0 |g=0  |e=2012 |f=€14M  }}
+{{fb si player |bg=  |p=[[Sylvinho]]                           |eu=y |nb=BRA |n=16 |pos=DF |age={{Age|1974|04|12|2009|5|30}} |s=2004 |a=92  |g=3  |e=2009 |f=€2M }}
+{{fb si player |bg=y |p=[[Gabriel Milito]]              |eu=y |nb=ARG |n=18 |pos=DF |age={{Age|1980|09|07|2009|5|30}} |s=2007 |a=27  |g=1  |e=2011 |f=€17M }}
+{{fb si player |bg=  |p=[[Dani Alves]]                         |eu=y |nb=BRA |n=20 |pos=DF |age={{Age|1983|05|06|2009|5|30}} |s=2008 |a=0   |g=0  |e=2012 |f=€29M }}
+{{fb si player |bg=y |p=[[Alexander Hleb]]               |eu=n |nb=BLR |n=21 |pos=MF |age={{Age|1981|05|01|2009|5|30}} |s=2008 |a=0   |g=0  |e=2012 |f=€15M }}
+{{fb si player |bg=  |p=[[Eric Abidal]]                 |eu=y |nb=FRA |n=22 |pos=DF |age={{Age|1979|07|11|2009|5|30}} |s=2007 |a=40  |g=0  |e=2011 |f=€15M }}
+{{fb si player |bg=y |p=[[Yaya Touré]]                   |eu=n |nb=CIV |n=24 |pos=MF |age={{Age|1983|05|13|2009|5|30}} |s=2007 |a=32  |g=2  |e=2012 |f=€9M |notes=Under [[Bosman ruling]] }}
+{{fb si player |bg=  |p=[[Albert Jorquera]]           |eu=y |nb=ESP |n=25 |pos=GK |age={{Age|1979|03|03|2009|5|30}} |s=2003 |a=17  |g=0  |e=2010 |f=YS   }}
+{{fb si player |bg=y |p=[[Pedro (footballer, born 1987)|Pedro]]      |eu=y |nb=ESP |n=27 |pos=FW |age={{Age|1987|07|28|2009|5|30}} |s=2008 |a=2 |g=0 |e=U |f=YS }}
+{{fb si player |bg=  |p=[[Sergio Busquets]]           |eu=y |nb=ESP |n=28 |pos=MF |age={{Age|1988|07|16|2009|5|30}} |s=2008 |a=0   |g=0  |e=2013 |f=YS }}
+{{fb si player |bg=y |p=[[Víctor Sánchez (footballer, born 1987)|Víctor Sánchez]]        |eu=y |nb=ESP |n=29 |pos=DF |age={{Age|1987|09|08|2009|5|30}} |s=2008 |a=0   |g=0  |e=U |f=YS }}
+
+{{fb si footer |c=ESP |ss=2008 |o= |s=[http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/plantilla/plantilla.html FC Barcelona] and [http://www.footballdatabase.com/index.php?page=club&Id=7&b=true&cont=Europe&cln=FC_Barcelona footballdatabase.com] |date=September 2008}}
+
+===Players in and out===
+
+====In====
+{{fb in2 header}}
+
+{{fb in2 player |tc=ESP |bg= |p=[[Seydou Keita|Keita]] |type=Transfer {{y}} |eu=y |nb=MLI |n=15 |pos=MF |age={{Age|1980|1|16|2008|05|26}} |fcl=[[Sevilla FC|Sevilla]]|fcnat=ESP|w=S |e=2012 |f=€14M |os=[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada07-08/06/n080626104718.html Barcelona.cat] }}
+{{fb in2 player |tc=ESP |bg=y |p=[[Gerard Piqué|Piqué]] |type=Transfer {{y}} |eu=y |nb=ESP |n=3 |pos=DF |age={{Age|1987|2|2|2008|5|27}} |fcl=[[Manchester United F.C.|Manchester United]]|fcnat=ENG|w=S |e=2012 |f=€5M |os=[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada08-09/07/n080703104806.html Barcelona.cat] }}
+{{fb in2 player |tc=ESP |bg=  |p=[[José Manuel Pinto|Pinto]] |type=Transfer {{y}} |eu=y |nb=ESP |n=13 |pos=GK |age={{Age|1975|11|8|2008|5|30}} |fcl=[[Celta de Vigo]]|fcnat=ESP|w=S |e=2010 |f=€0.5M |os=[http://www.fcbarcelona.com/web/english/noticies/futbol/temporada07-08/05/n080530104418.html Barcelona.cat] }}
+{{fb in2 player |tc=ESP |bg=y |p=[[Martín Cáceres|Cáceres]] |type=Transfer {{y}} |eu=n |nb=URU |n=2 |pos=DF |age={{Age|1987|3|17|2008|6|4}} |fcl=[[Villarreal CF|Villarreal]]|fcnat=ESP|w=S |e=2012 |f=€16.5M |os=[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada07-08/06/n080627104735.html Barcelona.cat] }}
+{{fb in2 player |tc=ESP |bg=  |p=[[Dani Alves|Alves]] |type=Transfer {{y}} |eu=y |nb=BRA |n=20 |pos=DF |age={{Age|1983|5|6|2008|6|30}} |fcl=[[Sevilla FC|Sevilla]]|fcnat=ESP|w=S |e=2012 |f=€29M<br /> + €6M in variables |os=[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada08-09/07/n080702104798.html Barcelona.cat] }}
+{{fb in2 player |tc=ESP |bg=y |p=[[Alexander Hleb|Hleb]] |type=Transfer {{y}} |eu=n |nb=BLR|n=21 |pos=MF |age={{Age|1981|5|1|2008|7|16}} |fcl=[[Arsenal F.C.|Arsenal]]|fcnat=ENG|w=S |e=2012 |f=€11.8M |os=[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada08-09/07/n080716104950.html Barcelona.cat] }}
+{{fb in2 player |tc=ESP |bg=  |p=[[Henrique (footballer, born October 1986)|Henrique]] |type=Transfer {{y}} |eu=n |nb=BRA |n=12 |pos=DF |age={{Age|1986|12|14|2008|7|22}} |fcl=[[Sociedade Esportiva Palmeiras|Palmeiras]] {{flagicon|BRA}} |w=S |e=2013 |f=€8M<br /> + €2M in variables|os=[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada08-09/07/n080722102510.html Barcelona.cat] }}
+{{fb in2 player |tc=ESP |bg=y  |p=[[Sergio Busquets|Busquets]] |type=Promote|eu=y |nb=ESP |n=28 |pos=MF |age={{Age|1988|7|16|2008|7|22}} |fcl=[[FC Barcelona B|Barcelona B]]|fcnat=ESP|w=S |e=2013 |f=Free }}
+
+{{fb in footer|date=November 2010}}
+
+Total spending: {{loss}}  €88M
+
+====Out====
+{{fb out2 header }}
+
+{{fb out2 player |tc=ESP |bg= |type=Contract Termination {{n}} |p=[[Edmílson (footballer, born 1976)|Edmílson]] |eu=y |nb=BRA |n=15 |pos=DF |age={{Age|1976|7|10|2008|5|30}} |ncl=[[Villarreal CF|Villarreal]]|ncnat=ESP|w=S |f=Free |os=[http://www.fcbarcelona.com/web/english/noticies/futbol/temporada07-08/05/n080530104411.html Barcelona.cat]}}
+{{fb out2 player |tc=ESP |bg=y |type=Transfer {{y}} |p=[[Gianluca Zambrotta|Zambrotta]] |eu=y |nb=ITA |n=11 |pos=DF |age={{Age|1977|2|19|2008|6|13}} |ncl=[[AC Milan|Milan]]|ncnat=ITA|w=S |f=€9M<br />+ €2M in variables |os=[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada07-08/06/n080613102389.html Barcelona.cat]}}
+{{fb out2 player |tc=ESP |bg= |type=Transfer {{y}} |p=[[Giovani dos Santos|Dos Santos]] |eu=y |nb=MEX |n=17 |pos=FW |age={{Age|1989|5|11|2008|6|6}} |ncl=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|ncnat=ENG|w=S |f=€6M<br />+ €5M in variables |os=[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada07-08/06/n080606104518.html Barcelona.cat]}}
+{{fb out2 player |tc=ESP |bg=y |type=Contract Termination {{n}} |p=[[Lilian Thuram|Thuram]] |eu=y |nb=FRA |n=21 |pos=DF |age={{Age|1972|1|1|2008|6|30}} |ncl=[[Retirement|Retired]]|w=S |f=Free |os=[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada07-08/06/n080630104772.html Barcelona.cat]}}
+{{fb out2 player |tc=ESP |bg=  |type=Contract Termination {{n}} |p=[[Santiago Ezquerro|Ezquerro]] |eu=y |nb=ESP |n=18 |pos=FW|age={{Age|1977|1|1|2008|6|30}} |ncl=[[CA Osasuna|Osasuna]]|ncnat=ESP|w=S |f=Free |os=[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada07-08/06/n080630104772.html Barcelona.cat]}}
+{{fb out2 player |tc=ESP |bg=y |type=Transfer {{y}} |p=[[Deco]] |eu=y |nb=POR |n=20 |pos=MF |age={{Age|1977|8|27|2008|6|30}} |ncl=[[Chelsea F.C.|Chelsea]]|ncnat=ENG|w=S |f=€10M |os=[http://www.fcbarcelona.cat/web/castellano/noticies/futbol/temporada07-08/06/n080630104778.html Barcelona.cat]}}
+{{fb out2 player |tc=ESP |bg=  |type=Transfer {{y}} |p=[[Ronaldinho]] |eu=y |nb=BRA |n=10 |pos=FW |age={{Age|1980|3|21|2008|7|15}} |ncl=[[AC Milan|Milan]]|ncnat=ITA|w=S |f=€21M<br />+ €4M in variables |os=
+[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada08-09/07/n080715104937.html Barcelona.cat]}}
+{{fb out2 player |tc=ESP |bg=y |type=Loan {{arrow}} |p=[[Henrique (footballer, born October 1986)|Henrique]] |eu=n |nb=BRA|n=12 |pos=DF |age={{Age|1986|12|14|2008|7|22}} |ncl= [[Bayer 04 Leverkusen|Bayer Leverkusen]]|ncnat=DEU|w=S  |f=N/A |os=[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada08-09/07/n080723102534.html Barcelona.cat]}}
+{{fb out2 player |tc=ESP |bg=  |type=Transfer {{y}} |p=[[Oleguer Presas|Oleguer]] |eu=y |nb=ESP |n=23 |pos=DF |age={{Age|1980|2|2|2008|7|29}} |ncl=[[AFC Ajax|Ajax]]|ncnat=NED|w=S |f=€3M<br />+ €2.25M in variables |os=
+[http://www.fcbarcelona.cat/web/english/noticies/futbol/temporada08-09/07/n080729102619.html Barcelona.cat]}}
+{{fb out2 player |tc=ESP |bg=y |type=Transfer {{y}} |p=[[Marc Crosas|Crosas]] |eu=y |nb=ESP |n=26 |pos=MF |age={{Age|1988|1|9|2008|8|6}} |ncl=[[Celtic F.C.|Celtic]]|ncnat=SCO|w=S |f=€0.5M +<br />€0.8M in variables |os=
+[http://www.fcbarcelona.com/web/english/noticies/futbol/temporada08-09/08/n080810102790.html Barcelona.cat]}}
+{{end}}
+
+Total income: {{gain}}  €49.5M
+{|
+{{fb out2 footer|date=November 2010}}
+
+===Squad stats===
+{{fb ss header |c1=[[2008–09 UEFA Champions League|Champions League]]|c2=[[2008–09 La Liga|La Liga]]|c3=[[2008–09 Copa del Rey|Copa del Rey]]|c4=[[Copa Catalunya]]}}
+
+{{fb ss player |bg=  |p=[[Víctor Valdés|V. Valdés]]               |nb=ESP |n=1  |pos=GK |gs=49 |c1a=14 |c1g=0 |c2a=35 |c2g=0 |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Dani Alves]]                         |nb=BRA |n=20 |pos=DF |gs=52 |c1a=12 |c1g=0 |c2a=34 |c2g=5  |c3a=8 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Carles Puyol|Puyol]]                 |nb=ESP |n=5  |pos=DF |gs=41 |c1a=11 |c1g=0 |c2a=28 |c2g=1 |c3a=6 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Gerard Piqué|Piqué]]                 |nb=ESP |n=3  |pos=DF |gs=44 |c1a=14 |c1g=1 |c2a=25 |c2g=1 |c3a=6 |c3g=1 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Eric Abidal|Abidal]]                 |nb=FRA |n=22 |pos=DF |gs=31 |c1a=5  |c1g=0 |c2a=25 |c2g=0  |c3a=2 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Yaya Touré|Touré Yaya]]                   |nb=CIV |n=24 |pos=MF |gs=39 |c1a=12 |c1g=0 |c2a=25 |c2g=2  |c3a=6 |c3g=1 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Xavi (footballer, born 1980)|Xavi]]                               |nb=ESP |n=6  |pos=MF |gs=49 |c1a=14 |c1g=3 |c2a=35 |c2g=6  |c3a=5 |c3g=1 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Andrés Iniesta|A. Iniesta]]             |nb=ESP |n=8  |pos=MF |gs=38 |c1a=11 |c1g=1 |c2a=26 |c2g=4  |c3a=6 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg= |p=[[Lionel Messi|Messi]]                 |nb=ARG |n=10 |pos=FW |gs=41 |c1a=12 |c1g=9 |c2a=31 |c2g=23 |c3a=8 |c3g=6 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y  |p=[[Samuel Eto'o|Eto'o]]                 |nb=CMR |n=9  |pos=FW |gs=46 |c1a=12 |c1g=6 |c2a=36 |c2g=30 |c3a=4 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg= |p=[[Thierry Henry|Henry]]                |nb=FRA |n=14 |pos=FW |gs=36 |c1a=12 |c1g=6 |c2a=29 |c2g=19 |c3a=1 |c3g=1 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[José Manuel Pinto|Pinto]]            |nb=ESP |n=13 |pos=GK |gs=11 |c1a=0  |c1g=0 |c2a=2  |c2g=0 |c3a=9 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Albert Jorquera|Jorquera]]           |nb=ESP |n=25 |pos=GK |gs=1  |c1a=1  |c1g=0 |c2a=0  |c2g=0 |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Oier Olazábal|Oier]]                 |nb=ESP |n=41 |pos=GK |gs=1  |c1a=0  |c1g=0 |c2a=1  |c2g=0 |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Martín Cáceres|M. Cáceres]]             |nb=URU |n=2  |pos=DF |gs=16 |c1a=3  |c1g=0 |c2a=13 |c2g=0 |c3a=7 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Rafael Márquez|Márquez]]             |nb=MEX |n=4  |pos=DF |gs=36 |c1a=10 |c1g=1 |c2a=23 |c2g=1 |c3a=4 |c3g=1 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Sylvinho]]                           |nb=BRA |n=16 |pos=DF |gs=22 |c1a=7  |c1g=1 |c2a=15 |c2g=0 |c3a=8 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Gabriel Milito|Milito]]              |nb=ARG |n=18 |pos=DF |gs=0  |c1a=0  |c1g=0 |c2a=0  |c2g=0  |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Víctor Sánchez (footballer, born 1987)|V. Sánchez]]        |nb=ESP |n=29 |pos=DF |gs=6  |c1a=3  |c1g=0 |c2a=7  |c2g=0  |c3a=2 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Alberto Botía|Botía]]                |nb=ESP |n=37 |pos=DF |gs=0  |c1a=0  |c1g=0 |c2a=1  |c2g=0  |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Marc Muniesa|Muniesa]]               |nb=ESP |n=46 |pos=DF |gs=0  |c1a=0  |c1g=0 |c2a=1  |c2g=0  |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Seydou Keita|Keita]]    |nb=MLI |n=15 |pos=MF |gs=29 |c1a=12 |c1g=2 |c2a=29 |c2g=4  |c3a=5 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Alexander Hleb|Hleb]]               |nb=BLR |n=21 |pos=MF |gs=19 |c1a=9  |c1g=0 |c2a=19 |c2g=0  |c3a=8 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Sergio Busquets|Sergio B.]]           |nb=ESP |n=28 |pos=MF |gs=31 |c1a=8  |c1g=2 |c2a=24 |c2g=1  |c3a=9 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Víctor Vázquez Solsona|Vázquez]]             |nb=ESP |n=30 |pos=MF |gs=1  |c1a=1  |c1g=0 |c2a=0  |c2g=0  |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Abraham González (footballer)|Abraham]]  |nb=ESP |n=35 |pos=MF |gs=0  |c1a=0  |c1g=0 |c2a=1  |c2g=0  |c3a=1 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Thiago Alcântara|Thiago]]            |nb=ESP |n=44 |pos=MF |gs=0  |c1a=0  |c1g=0 |c2a=1  |c2g=0  |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Xavi Torres]]                        |nb=ESP |n=45 |pos=MF |gs=2  |c1a=0  |c1g=0 |c2a=2  |c2g=0  |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=  |p=[[Eiður Guðjohnsen|Gudjohnsen]]        |nb=ISL |n=7  |pos=FW |gs=17 |c1a=5  |c1g=0 |c2a=24 |c2g=3  |c3a=5 |c3g=1 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y  |p=[[Bojan Krkić|Bojan]]                  |nb=ESP |n=11 |pos=FW |gs=18 |c1a=10 |c1g=3 |c2a=23 |c2g=2  |c3a=9 |c3g=5 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y  |p=[[Pedro (footballer, born 1987)|Pedro]]      |nb=ESP |n=27 |pos=FW |gs=6  |c1a=5  |c1g=0 |c2a=6  |c2g=0  |c3a=3 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg= |p=[[Jeffrén Suárez|Jeffrén]]             |nb=VEN |n=31 |pos=FW |gs=0  |c1a=0  |c1g=0 |c2a=2  |c2g=0  |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss footer |o=position and then numbers |s=[[#Competitive|Competitive matches]]|date=November 2010}}
+
+===Disciplinary record===
+{{Fb disc header}}
+{{Fb disc player |bg=y |p=[[Víctor Valdés|V. Valdés]]               |nb=ESP |n=1  |pos=GK |rc=2 |syc=0 |yc=2  }}
+{{Fb disc player |bg=  |p=[[José Manuel Pinto|Pinto]]            |nb=ESP |n=13 |pos=GK |rc=0 |syc=0 |yc=1  }}
+{{Fb disc player |bg=y |p=[[Dani Alves]]                         |nb=BRA |n=20 |pos=DF |rc=0 |syc=0 |yc=8  }}
+{{Fb disc player |bg=  |p=[[Gerard Piqué|Piqué]]                 |nb=ESP |n=3  |pos=DF |rc=0 |syc=2 |yc=10 }}
+{{Fb disc player |bg=y |p=[[Rafael Márquez|Márquez]]             |nb=MEX |n=4  |pos=DF |rc=0 |syc=1 |yc=8  }}
+{{Fb disc player |bg=  |p=[[Carles Puyol|Puyol]]                 |nb=ESP |n=5  |pos=DF |rc=0 |syc=0 |yc=4  }}
+{{Fb disc player |bg=y |p=[[Eric Abidal|Abidal]]                 |nb=FRA |n=22 |pos=DF |rc=2 |syc=0 |yc=3  }}
+{{Fb disc player |bg=  |p=[[Martín Cáceres|M. Cáceres]]             |nb=URU |n=2  |pos=DF |rc=1 |syc=0  |yc=3  }}
+{{Fb disc player |bg=y |p=[[Yaya Touré|Touré Yaya]]                   |nb=CIV |n=24 |pos=MF |rc=0 |syc=0 |yc=7  }}
+{{Fb disc player |bg=  |p=[[Xavi (footballer, born 1980)|Xavi]]                               |nb=ESP |n=6  |pos=MF |rc=0 |syc=0 |yc=5  }}
+{{Fb disc player |bg=y |p=[[Sergio Busquets|Busquets]]           |nb=ESP |n=28 |pos=MF |rc=0 |syc=0 |yc=12 }}
+{{Fb disc player |bg=  |p=[[Andrés Iniesta|A. Iniesta]]             |nb=ESP |n=8  |pos=MF |rc=0 |syc=0 |yc=3  }}
+{{Fb disc player |bg=y |p=[[Seydou Keita|Keita]]    |nb=MLI |n=15 |pos=MF |rc=1 |syc=0 |yc=1  }}
+{{Fb disc player |bg=  |p=[[Víctor Sánchez (footballer, born 1987)|V. Sánchez]]        |nb=ESP |n=29 |pos=MF |rc=0 |syc=0 |yc=1  }}
+{{Fb disc player |bg=y |p=[[Samuel Eto'o|Eto'o]]                 |nb=CMR |n=9  |pos=FW |rc=0 |syc=0 |yc=9  }}
+{{Fb disc player |bg=  |p=[[Thierry Henry|Henry]]                |nb=FRA |n=14 |pos=FW |rc=0 |syc=0 |yc=5  }}
+{{Fb disc player |bg=y |p=[[Bojan Krkić|Bojan]]                  |nb=ESP |n=11 |pos=FW |rc=0 |syc=0 |yc=1  }}
+{{Fb disc player |bg=  |p=[[Lionel Messi|Messi]]                 |nb=ARG |n=10 |pos=FW |rc=0 |syc=0 |yc=2  }}
+{{Fb disc player |bg=y |p=[[Eiður Guðjohnsen|Gudjohnsen]]        |nb=ISL |n=7  |pos=FW |rc=0 |syc=0 |yc=1  }}
+
+{{Fb disc footer |s=[[#Competitive|Competitive matches]]|date=November 2010}}
+
+==Club==
+
+===Coaching staff===
+{{Fb cs header}}
+{{Fb cs staff |bg=  |p=Head coach |s={{flagicon|Spain}} [[Pep Guardiola]] }}
+{{Fb cs staff |bg=  |p=Assistant coach |s={{flagicon|Spain}} [[Tito Vilanova]] }}
+{{Fb cs staff |bg=  |p=Goalkeeping coach |s={{flagicon|Spain}} [[Juan Carlos Unzué]] }}
+{{Fb cs staff |bg=  |p=Physical fitness coach |s={{flagicon|Spain}} Lorenzo Buenaventura }}
+{{Fb cs staff |bg=  |p=Lead fitness coach |s={{flagicon|Spain}} Paco Seirul·lo }}
+{{Fb cs staff |bg=  |p=Field work |s={{flagicon|Spain}} Aureli Altimira }}
+{{Fb cs staff |bg=  |p=Strength work |s={{flagicon|Spain}} Francesc Cos }}
+{{Fb cs footer|s=[http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/plantilla/plantilla.html FC Barcelona]|date=November 2010}}
+
+==Competitions==
+
+===Overall===
+As in nine out of the last ten seasons, Barcelona was present in all major competitions. [[2008–09 La Liga|First division]] and [[2008–09 Copa del Rey|Copa del Rey]] in Spain and [[2008–09 UEFA Champions League|UEFA Champions League]] in Europe.
+{{fb overall competition header |curr= }}
+{{fb overall2 competition |bg=  |curr= |cl = [[2008–09 La Liga|La Liga]]|srn= |cprn= |fp=Winner |fprn=Winner |dfm=31 August 2008 |dlm=31 May 2009}}
+{{fb overall2 competition |bg=y  |curr= |cl = [[2008–09 UEFA Champions League|Champions League]]|srn = [[2008–09 UEFA Champions League#Third qualifying round|Third qualifying round]]|cprn= |fp=Winner |fprn = [[2008–09 UEFA Champions League#Final|Winner]]|dfm=13 August 2008 |dlm=27 May 2009}}
+{{fb overall2 competition |bg= |curr= |cl = [[2008–09 Copa del Rey|Copa del Rey]]|srn = [[2008–09 Copa del Rey#Final phase|Round of 32]]|cprn= |fp=Winner |fprn = [[2008–09 Copa del Rey#Final|Winner]]|dfm=28 October 2008 |dlm=13 May 2009}}
+{{fb overall competition footer}}
+
+===La Liga===
+{{main|2008–09 La Liga}}
+
+====League table====
+{{:2008–09 La Liga|showteam=FCB}}
+
+====Results summary====
+{{Fb_rs |hw=14 |hd=3 |hl=2 |hgf=61 |hga=14 |aw=13 |ad=3 |al=3 |agf=44 |aga=21}}
+{{Fb_rs_footer |u=8 May |s=[[#Competitions|Competitive Matches]] |date=May 2009}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+|res1=A/H/A/H/A/H/A/H/A/H/A/H/A/H/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/A
+|label2= Result
+|res2=L/D/W/W/W/W/W/W/W/W/W/D/W/W/W/W/W/W/W/W/W/W/D/L/L/W/W/W/W/W/W/W/D/W/D/L/L/D
+|label3= Position
+|res3=17/15/9/6/5/4/4/2/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_18-=red1
+
+|source=[[#Competitive|Competitive Matches]]
+|date=November 2010
+}}
+
+====Matches====
+All kickoff times are in CEST.
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{football box collapsible
+|round = 1
+|date = 31 August 2008
+|time = 19:00 [[Central European Summer Time|CEST]]
+|team1 = [[CD Numancia|Numancia]]
+|score = 1–0
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada01/Numancia_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Mario Martínez Rubio|Mario]] {{goal|13}}
+|goals2 = [[Carles Puyol|Puyol]] {{yel|42}}<br />[[Samuel Eto'o|Eto'o]] {{yel|80}}
+|stadium = [[Nuevo Estadio Los Pajaritos|Los Pajaritos]]
+|location = [[Soria]]
+|attendance = 9,500
+|referee = [[David Fernández Borbalán]]
+|result=L
+}}
+{{football box collapsible
+|round = 2
+|date = 13 September 2008
+|time = 20:00 [[Central European Summer Time|CEST]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 1–1
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada02/Barcelona_Racing/partit.html (Report)]
+|team2 = [[Racing de Santander|Racing Santander]]
+|goals1 = [[Lionel Messi|Messi]] {{goal|71|pen.}}<br />[[Andrés Iniesta|Iniesta]] {{yel|87}}
+|goals2 = [[Pablo Pinillos Caro|Pinillos]] {{yel|37}}<br />[[Pedro Munitis|Munitis]] {{yel|60}}<br />[[Óscar Serrano (footballer)|Serrano]] {{yel|62}}<br />[[Mehdi Lacen|Lacen]] {{yel|66}}<br />[[Christian Fernández Salas|Christian]] {{yel|70}}<br />[[Jonathan Pereira Rodríguez|Jonathan]] {{goal|77}}<br />[[Juan Valera Espín|Valera]] {{yel|88}}<br />[[Peter Luccin|Luccin]] {{yel|92}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 54,678
+|referee = Rafael Ramírez Domínguez
+|result=D
+}}
+{{football box collapsible
+|round = 3
+|date = 21 September 2008
+|time = 21:00 [[Central European Summer Time|CEST]]
+|team1 = [[Sporting de Gijón|Sporting Gijón]]
+|score = 1–6
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada03/Sporting_Gijon_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Raúl Cámara|Cámara]] {{yel|7}}<br />[[Carmelo González (footballer)|Carmelo]] {{yel|41}}<br />[[Francisco José Maldonado|Maldonado]] {{goal|50}}<br />[[Gerard Autet|Gerard]] {{sent off|0|56}}
+|goals2 = [[Xavi (footballer, born 1980)|Xavi]] {{goal|27}}<br />[[Samuel Eto'o|Eto'o]] {{goal|33}}<br />[[Jorge García (footballer, born 1984)|Jorge]] {{goal|49|o.g.}}<br />[[Andrés Iniesta|Iniesta]] {{goal|70}}<br />[[Lionel Messi|Messi]] {{goal|85||90}}
+|stadium = [[El Molinón]]
+|location = [[Gijón]]
+|attendance = 23,481
+|referee = Carlos Megía Dávila
+|result=W
+}}
+{{football box collapsible
+|round = 4
+|date = 24 September 2008
+|time = 20:00 [[Central European Summer Time|CEST]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 3–2
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada04/Barcelona_Betis/partit.html (Report)]
+|team2 = [[Real Betis]]
+|goals1 = [[Yaya Touré|Touré]] {{yel|13}}<br />[[Samuel Eto'o|Eto'o]] {{goal|17||23}}<br />[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|80}}<br />[[Sergio Busquets|Busquets]] {{yel|84}}
+|goals2 = [[Fernando Vega (footballer, born 1984)|Vega]] {{yel|43}}<br />[[Luciano Fabián Monzón|Monzón]] {{goal|59}}<br />[[José Mari (footballer, born 1978)|José Mari]] {{goal|67}}<br /> [[Capi (footballer, born 1977)|Capi]] {{yel|73}}<br />[[Mehmet Aurélio|Aurélio]] {{yel|85}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 55,727
+|referee = [[Arturo Daudén Ibáñez]]
+|result=W
+}}
+{{football box collapsible
+|round =[[Derbi barceloní|5]]
+|date = 27 September 2008
+|time = 22:00 [[Central European Summer Time|CEST]]
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 1–2
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada05/Espanyol_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Nenê (footballer, born 1981)|Nenê]] {{sent off|2|12|45}} <br />[[Ferran Corominas|Coro]] {{goal|20}}<br />[[Román Martínez (footballer, born 1983)|Martínez]] {{yel|53}}<br />[[Francisco Javier Chica|Chica]] {{yel|55}}<br />[[Daniel Jarque|Jarque]] {{yel|90+8}}
+|goals2 = [[Sergio Busquets|Busquets]] {{yel|6}}<br />[[Víctor Valdés|Valdés]] {{yel|20}}<br />[[Thierry Henry|Henry]] {{goal|84}} <br />[[Lionel Messi|Messi]] {{goal|90+13|pen.}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 31,660
+|referee = [[Luis Medina Cantalejo]]
+|result=W
+}}
+{{football box collapsible
+|round = 6
+|date = 4 October 2008
+|time = 22:00 [[Central European Summer Time|CEST]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 6–1
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada06/Barcelona_At.Madrid/partit.html (Report)]
+|team2 = [[Atlético Madrid]]
+|goals1 = [[Rafael Márquez|Márquez]] {{goal|3}}, {{yel|54}}<br />[[Samuel Eto'o|Eto'o]] {{goal|5|pen.|17}}<br />[[Lionel Messi|Messi]] {{goal|8}}<br />[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|28}}<br /> [[Thierry Henry|Henry]] {{yel|62}}, {{goal|72}}
+|goals2 = [[Maxi Rodríguez|Rodríguez]] {{yel|9}}, {{goal|13}}<br />[[Antonio López (footballer, born 1981)|López]] {{yel|32}}<br />[[John Heitinga|Heitinga]] {{yel|33}}<br />[[Tomáš Ujfaluši|Ujfaluši]] {{yel|52}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 75,232
+|referee = [[Eduardo Iturralde González]]
+|result=W
+}}
+{{football box collapsible
+|round = 7
+|date = 19 October 2008
+|time = 19:00 [[Central European Summer Time|CEST]]
+|team1 = [[Athletic Bilbao]]
+|score = 0–1
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada07/Athletic_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Fernando Amorebieta|Amorebieta]] {{yel|39}}<br />[[Pablo Orbaiz|Orbaiz]] {{yel|49}}<br />[[Mikel Balenziaga|Balenziaga]] {{yel|79}}
+|goals2 = [[Rafael Márquez|Márquez]] {{yel|50}}<br />[[Samuel Eto'o|Eto'o]] {{goal|63}}, {{yel|90}}<br />[[Sergio Busquets|Busquets]] {{yel|89}}
+|stadium = [[San Mamés Stadium (1913)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 40,000
+|referee = [[Alberto Undiano Mallenco]]
+|result=W
+}}
+{{football box collapsible
+|round = 8
+|date = 25 October 2008
+|time = 22:00 [[Central European Summer Time|CEST]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 5–0
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada08/Barcelona_Almeria/partit.html (Report)]
+|team2 = [[UD Almería|Almería]]
+|goals1 = [[Samuel Eto'o|Eto'o]] {{goal|5||20||23}}<br />[[Thierry Henry|Henry]] {{goal|13}}<br />[[Dani Alves|Alves]] {{goal|36}}
+|goals2 = [[Álvaro Negredo|Negredo]] {{sent off|0|28}}<br />[[Albert Crusat|Crusat]] {{yel|29}}<br />[[Juanma Ortiz (footballer, born 1982)|Ortiz]] {{yel|43}}<br />[[Fernando Soriano|Soriano]] {{yel|80}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 63,566
+|referee = [[Alfonso Pérez Burrull]]
+|result=W
+}}
+{{football box collapsible
+|round = 9
+|date = 1 November 2008
+|time = 20:00 [[Central European Summer Time|CEST]]
+|team1 = [[Málaga CF|Málaga]]
+|score = 1–4
+|report = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada09/Malaga_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Apoño]] {{yel|4}}<br />[[Nabil Baha|Baha]] {{yel|7}}<br />[[Duda (footballer, born 1980)|Duda]] {{goal|12}}
+|goals2 = [[Xavi (footballer, born 1980)|Xavi]] {{goal|5||53}}<br />[[Lionel Messi|Messi]] {{goal|19}}<br />[[Dani Alves|Alves]] {{yel|54}}<br />[[Yaya Touré|Touré]] {{yel|75}}<br />[[Sergio Busquets|Busquets]] {{yel|79}}<br />[[Weligton Oliveira|Weligton]] {{goal|80|o.g.}}
+|stadium = [[La Rosaleda Stadium|La Rosaleda]]
+|location = [[Málaga]]
+|attendance = 22,800
+|referee = [[Carlos Velasco Carballo]]
+|result=W
+}}
+{{football box collapsible
+|round = 10
+|date = 8 November 2008
+|time = 22:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 6–0
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada10/Barcelona_Valladolid/partit.html (Report)]
+|team2 = [[Real Valladolid]]
+|goals1 = [[Samuel Eto'o|Eto'o]] {{goal|12||30||42||44}}<br />[[Yaya Touré|Touré]] {{yel|20}}<br />[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|71}}<br /> [[Thierry Henry|Henry]] {{goal|83}}
+|goals2 = [[Ángel Vivar Dorado|Dorado]] {{yel|74}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 58,276
+|referee = [[Fernando Teixeira Vitienes]]
+|result=W
+}}
+{{football box collapsible
+|round = 11
+|date = 16 November 2008
+|time = 21:00 [[Central European Time|CET]]
+|team1 = [[Recreativo de Huelva|Recreativo Huelva]]
+|score = 0–2
+|report = {{Deprecated archive|url=https://archive.today/20120731044233/http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada11/Recreativo_Barcelona/partit.html|title=(Report)}}
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Sisinio González Martínez|Sisi]] {{yel|37}}<br />[[César Arzo|Arzo]] {{yel|71}}<br />[[Beto (footballer, born May 1976)|Beto]] {{yel|90+1}}
+|goals2 = [[Dani Alves|Alves]] {{yel|32}}<br />[[Lionel Messi|Messi]] {{goal|50}}<br /> [[Samuel Eto'o|Eto'o]] {{yel|71}}<br />[[Seydou Keita|Keita]] {{goal|85}}
+|stadium = [[Nuevo Colombino]]
+|location = [[Huelva]]
+|attendance = 19,860
+|referee = Miguel Ángel Pérez Lasa
+|result=W
+}}
+{{football box collapsible
+|round = 12
+|date = 23 November 2008
+|time = 19:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 1–1
+|report = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada12/Barcelona_Getafe/partit.html (Report)]
+|team2 = [[Getafe CF|Getafe]]
+|goals1 = [[Dani Alves|Alves]] {{yel|6}}<br />[[Samuel Eto'o|Eto'o]] {{yel|65}}<br />[[Seydou Keita|Keita]] {{goal|71}}<br />[[Carles Puyol|Puyol]] {{yel|91}}
+|goals2 = [[Manu del Moral|Manu]] {{goal|19}}<br />[[Jaime Gavilán|Gavilán]] {{yel|22}}<br />[[Esteban Granero|Granero]] {{yel|30}}<br />[[Lucas Matías Licht|Licht]] {{yel|41}}<br />[[Rafa (footballer, born 1985)|Rafa]] {{yel|90}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 65,249
+|referee = Bernardino González Vázquez
+|result=D
+}}
+{{football box collapsible
+|round = 13
+|date = 29 November 2008
+|time = 22:00 [[Central European Time|CET]]
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 0–3
+|report = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada13/Sevilla_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Luís Fabiano]] {{sent off|0|86}}
+|goals2 = [[Samuel Eto'o|Eto'o]] {{goal|20}}, {{yel|30}}<br />[[Rafael Márquez|Márquez]] {{yel|62}}<br />[[Gerard Piqué|Piqué]] {{yel|76}}<br /> [[Lionel Messi|Messi]] {{goal|71||90+2}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 45,500
+|referee = [[Alberto Undiano Mallenco]]
+|result=W
+}}
+{{football box collapsible
+|round = 14
+|date = 6 December 2008
+|time = 22:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 4–0
+|report = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada14/Barcelona_Valencia/partit.html (Report)]
+|team2 = [[Valencia CF|Valencia]]
+|goals1 = [[Thierry Henry|Henry]] {{goal|20||28||79}}<br />[[Dani Alves|Alves]] {{goal|46}}
+|goals2 = [[Raúl Albiol|Albiol]] {{yel|6}}<br />[[David Albelda|Albelda]] {{yel|38}}<br />[[David Villa|Villa]] {{yel|67}}<br />[[Miguel Monteiro|Miguel]] {{yel|72}}<br />[[Asier del Horno|Del Horno]] {{yel|73}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 82,889
+|referee = [[David Fernández Borbalán]]
+|result=W
+}}
+{{football box collapsible
+|round = [[El Clásico|15]]
+|date = 13 December 2008
+|time = 22:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 2–0
+|report = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada15/Barcelona_Madrid/partit.html (Report)]
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 = [[Rafael Márquez|Márquez]] {{yel|40}}<br /> [[Samuel Eto'o|Eto'o]] {{goal|83}}, {{yel|84}}<br /> [[Lionel Messi|Messi]] {{goal|90}}, {{yel|90+1}}
+|goals2 = [[Christoph Metzelder|Metzelder]] {{yel|21}}<br />[[Sergio Ramos|Ramos]] {{yel|26}}<br />[[Royston Drenthe|Drenthe]] {{yel|41}}<br /> [[Míchel Salgado|Salgado]] {{yel|68}}<br />[[Iker Casillas|Casillas]] {{yel|90}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 96,059
+|referee = [[Luis Medina Cantalejo]]
+|result=W
+}}
+{{football box collapsible
+|round = 16
+|date = 21 December 2008
+|time = 19:00 [[Central European Time|CET]]
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 1–2
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada16/Villarreal_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Cani (Spanish footballer)|Cani]] {{goal|47}}<br />[[Guillermo Franco|Franco]] {{yel|79}}<br />[[Robert Pires|Pires]] {{yel|87}}<br />[[Santi Cazorla|Cazorla]] {{yel|88}}
+|goals2 = [[Seydou Keita|Keita]] {{goal|54}}<br />[[Thierry Henry|Henry]] {{goal|66}}<br />[[Gerard Piqué|Piqué]] {{sent off|2|70|74}}<br />[[Carles Puyol|Puyol]] {{yel|75}}<br />[[Xavi (footballer, born 1980)|Xavi]] {{yel|75}}
+|stadium = [[Estadio El Madrigal]]
+|location = [[Villarreal]]
+|attendance = 23,000
+|referee = [[Carlos Clos Gómez]]
+|result=W
+}}
+{{football box collapsible
+|round = 17
+|date = 3 January 2009
+|time = 20:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 3–1
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada17/Barcelona_Mallorca/partit.html Report]
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1   =[[Thierry Henry|Henry]] {{goal|30}}, {{yel|36}}<br />[[Rafael Márquez|Márquez]] {{yel|49}}<br />[[Xavi (footballer, born 1980)|Xavi]] {{yel|64}}<br />[[Dani Alves|Alves]] {{yel|73}}<br />[[Andrés Iniesta|Iniesta]] {{goal|75}}<br />[[Yaya Touré|Touré]] {{goal|90+2}}
+|goals2 = [[Aritz Aduriz|Aduriz]] {{goal|15}}, {{yel|57}}<br />[[Josemi]] {{sent off|2|36|90}}<br />[[Mario Suárez (footballer)|Suárez]] {{yel|43}}<br />[[Germán Lux|Lux]] {{yel|68}}<br />[[Fernando Varela Ramos|Varela]] {{yel|73}}<br />[[Juan Arango|Arango]] {{yel|75}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 60,399
+|referee = [[Carlos Velasco Carballo]]
+|result=W
+}}
+{{football box collapsible
+|round = 18
+|date = 11 January 2009
+|time = 21:00 [[Central European Time|CET]]
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 2–3
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada18/Osasuna_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Miguel Flaño|Flaño]] {{goal|62}}<br />[[Josetxo]] {{yel|69}}<br />[[Walter Pandiani|Pandiani]] {{goal|72}}
+|goals2 = [[Eric Abidal|Abidal]] {{yel|32}}<br />[[Samuel Eto'o|Eto'o]] {{goal|44}}<br />[[Víctor Valdés|Valdés]] {{yel|69}}<br />[[Xavi (footballer, born 1980)|Xavi]] {{goal|80}}<br />[[Lionel Messi|Messi]] {{goal|84}}<br />[[Sergi Busquets|Busquets]] {{yel|90+3}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19,800
+|referee = [[Fernando Teixeira Vitienes]]
+|result=W
+}}
+{{football box collapsible
+|round = 19
+|date = 17 January 2009
+|time = 20:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 5–0
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada19/Barcelona_Deportivo/partit.html (Report)]
+|team2 = [[Deportivo de La Coruña|Deportivo La Coruña]]
+|goals1   =[[Lionel Messi|Messi]] {{goal|21}}<br />[[Thierry Henry|Henry]] {{goal|27||82}}<br />[[Samuel Eto'o|Eto'o]] {{goal|41||86|pen.}}
+|goals2 = [[Daniel Aranzubia|Aranzubia]] {{sent off|0|84}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 65,145
+|referee = Julián Rodríguez Santiago
+|result=W
+}}
+{{football box collapsible
+|round = 20
+|date = 24 January 2009
+|time = 22:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 4–1
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada20/Barcelona_Numancia/partit.html (Report)]
+|team2 = [[CD Numancia|Numancia]]
+|goals1 = [[Xavi (footballer, born 1980)|Xavi]] {{yel|24}}<br />[[Lionel Messi|Messi]] {{goal|49||75}}<br />[[Samuel Eto'o|Eto'o]] {{goal|52}}<br />[[Gerard Piqué|Piqué]] {{yel|65}}<br />[[Thierry Henry|Henry]] {{goal|70}}
+|goals2 = [[Dimas Delgado|Dimas]] {{yel|23}}<br />[[José Barkero|Barkero]] {{goal|60}}<br />[[César Palacios (footballer, born 1974)|Palacios]] {{sent off|2|58|80}}<br />[[Javier del Pino González|Del Pino]] {{yel|81}}<br />[[Sergio Ortega González|Ortega]] {{yel|90}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 47,330
+|referee = Miguel Ángel Pérez Lasa
+|result=W
+}}
+{{football box collapsible
+|round = 21
+|date = 1 February 2009
+|time = 17:00 [[Central European Time|CET]]
+|team2 = [[FC Barcelona|Barcelona]]
+|score = 1–2
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada21/Racing_Barcelona/partit.html (Report)]
+|team1 = [[Racing de Santander|Racing Santander]]
+|goals2 =[[Lionel Messi|Messi]] {{goal|65||80}} <br />[[Dani Alves|Alves]] {{yel|76}}<br />[[Rafael Márquez|Márquez]] {{sent off|2|54|87}}<br />[[Gerard Piqué|Piqué]] {{sent off|2|31|90+3}}
+|goals1 = [[Pedro Munitis|Munitis]] {{yel|22}}<br />[[Nikola Žigić|Žigić]] {{yel|31}}, {{goal|55|pen.}}
+|stadium = [[Campos de Sport de El Sardinero]]
+|location = [[Santander, Spain|Santander]]
+|attendance = 22,251
+|referee = [[David Fernández Borbalán]]
+|result=W
+}}
+{{football box collapsible
+|round = 22
+|date = 8 February 2009
+|time = 19:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 3–1
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada22/Barcelona_Sporting_Gijon/partit.html (Report)]
+|team2 = [[Sporting de Gijón|Sporting Gijón]]
+|goals1 =[[Samuel Eto'o|Eto'o]] {{goal|23||40}}<br />[[Eric Abidal|Abidal]] {{yel|45}}<br />[[Thierry Henry|Henry]] {{yel|56}}<br />[[Dani Alves|Alves]] {{goal|65}}
+|goals2 =[[Gerard Autet Serrabasa|Gerard]] {{yel|10}}<br />[[Sergio Matabuena Delgado|Matabuena]] {{yel|37}}<br />[[Enrique Mateo Montoya|Mateo]] {{goal|67}}<br />[[Miguel Marcos Madera|Míchel]] {{yel|73}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 69,341
+|referee = Antonio Rubinos Pérez
+|result=W
+}}
+{{football box collapsible
+|round = 23
+|date = 14 February 2009
+|time = 20:00 [[Central European Time|CET]]
+|team1 = [[Real Betis]]
+|score = 2–2
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada23/Betis_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Ricardo Oliveira|Oliveira]] {{yel|17}}<br />[[Melli (Spanish footballer)|Melli]] {{goal|18}}<br />[[Mark González|González]] {{goal|24}}<br />[[Achille Emaná|Emaná]] {{yel|45}}<br />[[Juanma (footballer, born 1981)|Juanma]] {{yel|82}}
+|goals2 = [[Gerard Piqué|Piqué]] {{yel|35}}<br />[[Samuel Eto'o|Eto'o]] {{goal|45+3||84}}<br />[[Sergio Busquets|Busquets]] {{yel|76}}
+|stadium = [[Estadio Manuel Ruiz de Lopera|Manuel Ruiz de Lopera]]
+|location = [[Seville]]
+|attendance = 55,500
+|referee = [[Eduardo Iturralde González]]
+|result=D
+}}
+{{football box collapsible
+|round = [[Derbi barceloní|24]]
+|date = 21 February 2009
+|time = 20:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 1–2
+|report = {{Deprecated archive|url=https://archive.today/20120731081930/http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada24/Barcelona_Espanyol/partit.html|title=(Report)}}
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 = [[Gerard Piqué|Piqué]] {{yel|21}} <br />[[Seydou Keita|Keita]] {{sent off|0|38}}<br />[[Samuel Eto'o|Eto'o]] {{yel|40}}<br />[[Sergio Busquets|Busquets]] {{yel|51}}<br />[[Xavi (footballer, born 1980)|Xavi]] {{yel|56}}<br />[[Yaya Touré|Touré]] {{goal|62}}, {{yel|73}}<br />[[Carles Puyol|Puyol]] {{yel|76}}
+|goals2 = [[Nicolás Pareja|Pareja]] {{yel|17}}<br />[[Luis García (footballer, born 1981)|García]] {{yel|40}}<br />[[Iván de la Peña|De la Peña]] {{goal|50||54}}<br />[[Daniel Jarque|Jarque]] {{yel|53}}<br />[[Sergio Sánchez Ortega|Sánchez]] {{yel|61}}<br />[[Iván Alonso|Alonso]] {{yel|88}}<br />[[Raúl Tamudo|Tamudo]] {{yel|90+2}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 76,942
+|referee = Carlos Delgado Ferreiro
+|result=L
+}}
+{{football box collapsible
+|round = 25
+|date = 1 March 2009
+|time = 19:00 [[Central European Time|CET]]
+|team1 = [[Atlético Madrid]]
+|score = 4–3
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada25/At.Madrid_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Diego Forlán|Forlán]] {{goal|32||79|pen.}}<br />[[John Heitinga|Heitinga]] {{yel|46}}<br />[[Raúl García (footballer, born 1986)|García]] {{yel|48}}<br />[[Sergio Agüero|Agüero]] {{goal|56||88}}<br />[[Paulo Assunção|Assunção]] {{yel|66}}
+|goals2 = [[Thierry Henry|Henry]] {{goal|18||73}}<br />[[Lionel Messi|Messi]] {{goal|30}}, {{yel|90+2}}<br />[[Dani Alves|Alves]] {{yel|57}}
+|stadium = [[Vicente Calderón Stadium|Vicente Calderón]]
+|location = [[Madrid]]
+|attendance = 55,000
+|referee = Bernardino González Vázquez
+|result=L
+}}
+{{football box collapsible
+|round = 26
+|date = 7 March 2009
+|time = 20:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 2–0
+|report = [http://www.fcbarcelona.com/web/castellano/futbol/temporada_08-09/arxiu_partits/lliga/jornada26/Barcelona_Athletic/partit.html (Report)]
+|team2 = [[Athletic Bilbao]]
+|goals1 = [[Sergio Busquets|Busquets]] {{goal|16}}, {{yel|69}}<br />[[Lionel Messi|Messi]] {{goal|31|pen.}}<br />[[Samuel Eto'o|Eto'o]] {{yel|50}}<br />[[Andrés Iniesta|Iniesta]] {{yel|58}}
+|goals2 = [[Javi Martínez|Martínez]] {{yel|21}}<br />[[Pablo Orbaiz|Orbaiz]] {{yel|47}}<br />[[Fernando Amorebieta|Amorebieta]] {{yel|59}}<br />[[Gaizka Toquero Pinedo|Toquero]] {{yel|85}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 75,074
+|referee = [[Alberto Undiano Mallenco]]
+|result=W
+}}
+{{football box collapsible
+|round = 27
+|date = 15 March 2009
+|time = 21:00 [[Central European Time|CET]]
+|team1 = [[UD Almería|Almería]]
+|score = 0–2
+|report = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada27/Almeria_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Santiago Acasiete|Acasiete]] {{yel|21}}<br />[[Juanma Ortiz (footballer, born 1982)|Ortiz]] {{yel|75}}<br />[[Álvaro Negredo|Negredo]] {{yel|85}}
+|goals2 = [[Bojan Krkić|Bojan]] {{goal|52||55}}
+|stadium = [[Estadio de los Juegos Mediterráneos]]
+|location = [[Almería]]
+|attendance = 9,333
+|referee = [[Manuel Mejuto González]]
+|result=W
+}}
+{{football box collapsible
+|round = 28
+|date = 22 March 2009
+|time = 19:00 [[Central European Time|CET]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 6–0
+|report = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada28/Barcelona_Malaga/partit.html (Report)]
+|team2 = [[Málaga CF|Málaga]]
+|goals1 = [[Xavi (footballer, born 1980)|Xavi]] {{goal|18}}<br />[[Lionel Messi|Messi]] {{goal|24}}<br />[[Thierry Henry|Henry]] {{goal|32}}<br />[[Dani Alves|Alves]] {{yel|33}}, {{goal|50}}<br />[[Samuel Eto'o|Eto'o]] {{goal|43||56}}<br />[[Eiður Guðjohnsen|Guðjohnsen]] {{yel|80}}
+|goals2 = [[Nacho (footballer, born 1980)|Nacho]] {{yel|17}}<br />[[Lolo (footballer, born 1984)|Lolo]] {{yel|28}}<br />[[Jesús Gámez|Gámez]] {{yel|35}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 75,178
+|referee = [[César Muñiz Fernández]]
+|result=W
+}}
+{{football box collapsible
+|round = 29
+|date = 4 April 2009
+|time = 20:00 [[Central European Time|CET]]
+|team1 = [[Real Valladolid]]
+|score = 0–1
+|report = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada29/Valladolid_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Marcos Aguirre|Aguirre]] {{yel|20}}
+|goals2 = [[Samuel Eto'o|Eto'o]] {{goal|40}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 26,512
+|referee = Miguel Ángel Pérez Lasa
+|result=W
+}}
+{{football box collapsible
+|round = 30
+|date = 11 April 2009
+|time = 20:00 [[Central European Summer Time|CEST]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 2–0
+|report = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada30/Barcelona_Recreativo/partit.html (Report)]
+|team2 = [[Recreativo de Huelva|Recreativo Huelva]]
+|goals1 = [[Andrés Iniesta|Iniesta]] {{goal|1}}<br />[[Nasief Morris|Morris]] {{goal|67|o.g.}}
+|goals2 =
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 56,831
+|referee = [[Eduardo Iturralde González]]
+|result=W
+}}
+{{football box collapsible
+|round = 31
+|date = 18 April 2009
+|time = 20:00 [[Central European Summer Time|CEST]]
+|team1 = [[Getafe CF|Getafe]]
+|score = 0–1
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada31/Getafe_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Cosmin Contra|Contra]] {{yel|35}}<br />[[Esteban Granero|Granero]] {{yel|65}}<br />[[Mario Abrante|Mario]] {{yel|71}}<br />[[David Cortés Caballero|Cortés]] {{yel|78}}
+|goals2 = [[Lionel Messi|Messi]] {{goal|19}}<br />[[Sergio Busquets|Busquets]] {{yel|35}}<br />[[Dani Alves|Alves]] {{yel|87}}
+|stadium = [[Coliseum Alfonso Pérez]]
+|location = [[Getafe]]
+|attendance = 17,000
+|referee = Javier Turienzo Alvárez
+|result=W
+}}
+{{football box collapsible
+|round = 32
+|date = 22 April 2009
+|time = 22:00 [[Central European Summer Time|CEST]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 4–0
+|report = [http://www.fcbarcelona.cat/web/catala/futbol/temporada_08-09/arxiu_partits/lliga/jornada32/Barcelona_Sevilla/partit.html (Report)]
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 = [[Andrés Iniesta|Iniesta]] {{goal|2}}<br />[[Samuel Eto'o|Eto'o]] {{goal|16}}<br />[[Eric Abidal|Abidal]] {{yel|35}}<br />[[Xavi (footballer, born 1980)|Xavi]] {{goal|48}}<br />[[Thierry Henry|Henry]] {{goal|54}}<br />[[Dani Alves|Alves]] {{yel|75}}
+|goals2 = [[Fernando Navarro (Spanish footballer)|Navarro]] {{yel|41}}<br />[[Aquivaldo Mosquera|Mosquera]] {{yel|62}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 98,722
+|referee = [[Manuel Mejuto González]]
+|result=W
+}}
+{{football box collapsible
+|round = 33
+|date= 25 April 2009
+|time= 22:00 [[Central European Summer Time|CEST]]
+|team1 = [[Valencia CF|Valencia]]
+|score= 2–2
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada33/Valencia_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1= [[David Silva|Silva]] {{yel|22}}<br />[[Hedwiges Maduro|Maduro]] {{goal|43}}, {{yel|52}}<br />[[Pablo Hernández (footballer, born 1985)|Hernández]] {{goal|45+1}}<br />[[Rubén Baraja|Baraja]] {{yel|55}}<br />[[Carlos Marchena|Marchena]] {{yel|64}}<br />[[Alexis (footballer, born 1985)|Alexis]] {{yel|84}}
+|goals2= [[Lionel Messi|Messi]] {{goal|24}}<br />[[Víctor Valdés|Valdés]] {{yel|40}}<br />[[Andrés Iniesta|Iniesta]] {{yel|42}}<br />[[Thierry Henry|Henry]] {{goal|86}}
+|stadium= [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance= 45,000
+|referee= [[César Muñiz Fernández]]
+|result=D
+}}
+{{football box collapsible
+|round = [[El Clásico|34]]
+|date= 2 May 2009
+|time= 22:00 [[Central European Summer Time|CEST]]
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score= 2–6
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada34/Madrid_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1= [[Gonzalo Higuaín|Higuaín]] {{goal|13}}<br />[[Sergio Ramos|Ramos]] {{yel|25}}, {{goal|55}}<br />[[Marcelo (footballer, born 1988)|Marcelo]] {{yel|45}}<br />[[Rafael van der Vaart|Van der Vaart]] {{yel|73}}
+|goals2= [[Thierry Henry|Henry]] {{goal|17||57}}<br />[[Carles Puyol|Puyol]] {{goal|20}}, {{yel|38}}<br />[[Eric Abidal|Abidal]] {{yel|22}}<br />[[Lionel Messi|Messi]] {{goal|35||74}}<br />[[Gerard Piqué|Piqué]] {{goal|82}}
+|stadium= [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance= 80,000
+|referee= [[Alberto Undiano Mallenco]]
+|result=W
+}}
+{{football box collapsible
+|round = 35
+|date= 10 May 2009
+|time= 19:00 [[Central European Summer Time|CEST]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score= 3–3
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada35/Barcelona_Villarreal/partit.html (Report)]
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1= [[Seydou Keita|Keita]] {{goal|11}}<br />[[Samuel Eto'o|Eto'o]] {{goal|36}}<br />[[Dani Alves|Alves]] {{goal|45+1}}, {{yel|83}}<br />[[Eric Abidal|Abidal]] {{sent off|0|76}}
+|goals2= [[Joseba Llorente|Llorente]] {{goal|22||90+1}}<br />[[Diego Godín|Godín]] {{yel|49}}<br />[[Giuseppe Rossi|Rossi]] {{yel|57}}<br />[[Matías Fernández (footballer, born 1986)|Fernández]] {{goal|77|pen.}}, {{yel|89}}
+|stadium= [[Camp Nou]]
+|location= [[Barcelona]]
+|attendance= 92,722
+|referee=[[Fernando Teixeira Vitienes]]
+|result=D
+}}
+{{football box collapsible
+|round = 36
+|date= 17 May 2009
+|time= 19:55 [[Central European Summer Time|CEST]]
+|team1 = [[RCD Mallorca|Mallorca]]
+|score= 2–1
+|report = [http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada36/Mallorca_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1= [[Juan Arango|Arango]] {{goal|73}}<br />[[Cléber Santana|Santana]] {{goal|77}}<br />[[Ayoze Díaz Díaz|Ayoze]] {{yel|87}}
+|goals2= [[Samuel Eto'o|Eto'o]] {{goal|9}}<br/>[[Bojan Krkić|Bojan]] {{yel|45}}<br />[[Xavi Torres|Torres]] {{yel|75}}
+|stadium= [[Iberostar Stadium|Iberostar]]
+|location = [[Palma, Majorca|Palma]]
+|attendance= 20,000
+|referee= [[Eduardo Iturralde González]]
+|result=L
+}}
+{{football box collapsible
+|round = 37
+|date= 23 May 2009
+|time= 19:55 [[Central European Summer Time|CEST]]
+|team1 = [[FC Barcelona|Barcelona]]
+|score= 0–1
+|report = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada37/Barcelona_Osasuna/partit.html (Report)]
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1= [[Eric Abidal|Abidal]] {{yel|33}}<br/>[[Eiður Guðjohnsen|Guðjohnsen]] {{yel|38}}<br/>[[Bojan Krkić|Bojan]] {{yel|72}}<br/> [[Marc Muniesa|Muniesa]] {{sent off|0|76}}
+|goals2= [[Walter Pandiani|Pandiani]] {{goal|26}}<br/>[[Nacho Monreal|Monreal]] {{yel|84}}
+|stadium= [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance= 77,331
+|referee= Antonio Rubinos Pérez
+|result=L
+}}
+{{football box collapsible
+|round = 38
+|date= 30 May 2009
+|time= 22:00 [[Central European Summer Time|CEST]]
+|team1 = [[Deportivo de La Coruña|Deportivo La Coruña]]
+|score= 1–1
+|report = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/lliga/jornada38/Deportivo_Barcelona/partit.html (Report)]
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1= [[Rodolfo Bodipo|Bodipo]] {{goal|31}}<br />[[Sergio (footballer, born 1976)|Sergio]] {{yel|54}}
+|goals2= [[Bojan Krkić|Bojan]] {{yel|44}}<br />[[Samuel Eto'o|Eto'o]] {{goal|89}}
+|stadium= [[Estadio Riazor|Riazor]]
+|location = [[A Coruña]]
+|attendance= 34,600
+|referee= [[Fernando Teixeira Vitienes]]
+|result=D
+}}
+
+===Copa del Rey===
+{{main|2008–09 Copa del Rey}}
+
+====Round of 32====
+{{football box collapsible
+|round      = First leg
+|date       = 28 October 2008
+|time       = 21:00 [[Central European Summer Time|CEST]]
+|team1      = [[Benidorm CF|Benidorm]]
+|score      = 0–1
+|report     = [http://arxiu.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/copa_rei/16ens/jornada01/Benidorm_Barcelona/partit.html (Report)]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = [[Juan Francisco Fernández Bardal|Bardal]] {{yel|20}}<br />[[José-Francisco Castell Canto|Castell]] {{yel|41}}<br />[[Javier Moreno Flores|Moreno]] {{yel|73}}<br />[[Jorge Morcillo|Morcillo]] {{yel|79}}
+|goals2     = [[Martín Cáceres|Cáceres]] {{yel|47}}<br />[[Bojan Krkić|Bojan]] {{goal|55}}<br />[[Eric Abidal|Abidal]] {{yel|69}}
+|stadium    = [[Estadio Municipal Guillermo Amor]]
+|location   = [[Benidorm]]
+|attendance = 6,000
+|referee    = [[:es:José Luis Paradas Romero|José Luis Paradas Romero]]
+|result     = W
+}}
+
+{{football box collapsible
+|round          = Second leg
+|date           = 12 November 2008
+|time           = 21:00 [[Central European Time|CET]]
+|team1          = [[FC Barcelona|Barcelona]]
+|score          = 1–0
+|aggregatescore = 2–0
+|report         = [http://arxiu.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/copa_rei/16ens/jornada02/Barcelona_Benidorm/partit.html (Report)]
+|team2          = [[Benidorm CF|Benidorm]]
+|goals1         = [[Lionel Messi|Messi]] {{goal|86}}
+|goals2         = [[Javier Moreno Flores|Moreno]] {{yel|20}}
+|stadium        = [[Camp Nou]]
+|location       = [[Barcelona]]
+|attendance     = 23,422
+|referee        = [[Carlos Clos Gómez]]
+|result         = W
+}}
+
+====Round of 16====
+{{football box collapsible
+|round      = First leg
+|date       = 6 January 2009
+|time       = 20:00 [[Central European Time|CET]]
+|team1      = [[Atlético Madrid]]
+|score      = 1–3
+|report     = [http://arxiu.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/copa_rei/vuitens/jornada01/At.Madrid_Barcelona/partit.html (Report)]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = [[Florent Sinama Pongolle|Sinama Pongolle]] {{yel|21}}<br />[[Simão Sabrosa|Simão]]  {{yel|38}}<br />[[Maniche]] {{yel|38}}<br />[[Mariano Pernía|Pernía]] {{yel|41}}<br />[[Paulo Assunção|Assunção]] {{yel|51}}<br />[[John Heitinga|Heitinga]] {{sent off|0|56}}<br />[[Tomáš Ujfaluši|Ujfaluši]] {{goal|68}}, {{yel|86}}<br /> [[Éver Banega|Banega]] {{yel|89}}
+|goals2     = [[Lionel Messi|Messi]] {{goal|11||57|pen.|79}}<br/>[[Martín Cáceres|Cáceres]] {{yel|67}}<br />[[Sergio Busquets|Busquets]] {{yel|69}}
+|stadium    = [[Vicente Calderón Stadium|Vicente Calderón]]
+|location   = [[Madrid]]
+|attendance = 54,851
+|referee    = [[Eduardo Iturralde González]]
+|result     = W
+}}
+
+{{football box collapsible
+|round          = Second leg
+|date           = 14 January 2009
+|time           = 22:00 [[Central European Time|CET]]
+|team1          = [[FC Barcelona|Barcelona]]
+|score          = 2–1
+|aggregatescore = 5–2
+|report         = [http://arxiu.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/copa_rei/vuitens/jornada02/Barcelona_At.Madrid/partit.html (Report)]
+|team2          = [[Atlético Madrid]]
+|goals1         = [[Bojan Krkić|Bojan]] {{goal|28}}<br />[[Yaya Touré|Touré]] {{yel|63}}<br />[[Eiður Guðjohnsen|Guðjohnsen]] {{goal|76}}
+|goals2         = [[Florent Sinama Pongolle|Sinama Pongolle]] {{goal|23}}<br />[[Raúl García (footballer, born 1986)|García]] {{yel|24}}<br /> [[Ignacio Camacho|Camacho]] {{yel|35}}<br /> [[Luis Amaranto Perea|Perea]] {{yel|78}}
+|stadium        = [[Camp Nou]]
+|location       = [[Barcelona]]
+|attendance     = 46,482
+|referee        = [[Manuel Mejuto González]]
+|result         = W
+}}
+
+====Quarter-finals====
+{{football box collapsible
+|round      = First leg
+|date       = 21 January 2009
+|time       = 22:00 [[Central European Time|CET]]
+|team1      = [[RCD Espanyol|Espanyol]]
+|score      = 0–0
+|report     = [http://arxiu.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/copa_rei/quarts/jornada01/Espanyol_Barcelona/partit.html (Report)]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = [[Luis García (footballer, born 1981)|García]] {{yel|17}}<br />[[Moisés Hurtado|Hurtado]] {{yel|48}}<br />[[Grégory Béranger|Béranger]] {{yel|85}}<br />[[Milan Smiljanić|Smiljanić]] {{yel|89}}
+|goals2     = [[Martín Cáceres|Cáceres]] {{yel|45}}<br />[[Víctor Sánchez (footballer, born 1987)|Sánchez]] {{yel|65}}
+|stadium    = [[Estadi Olímpic Lluís Companys]]
+|location   = [[Barcelona]]
+|attendance = 21,600
+|referee    = [[César Muñiz Fernández]]
+|result     = D
+}}
+
+{{football box collapsible
+|round          = Second leg
+|date           = 29 January 2009
+|time           = 21:30 [[Central European Time|CET]]
+|team1          = [[FC Barcelona|Barcelona]]
+|score          = 3–2
+|aggregatescore = 3–2
+|report         = [http://arxiu.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/copa_rei/quarts/jornada02/Barcelona_Espanyol/partit.html (Report)]
+|team2          = [[RCD Espanyol|Espanyol]]
+|goals1         = [[Sergio Busquets|Busquets]] {{yel|32}}<br />[[Bojan Krkić|Bojan]] {{goal|34||48}}<br />[[Gerard Piqué|Piqué]] {{goal|56}}
+|goals2         = [[Javier Chica|Chica]] {{yel|37}}<br />[[Ferran Corominas|Coro]] {{goal|58}}<br />[[José Callejón|Callejón]] {{goal|64}}<br />[[Daniel Jarque|Jarque]] {{sent off|2|69|90+1}}
+|stadium        = [[Camp Nou]]
+|location       = [[Barcelona]]
+|attendance     = 78,443
+|referee        = Megía Dávila
+|result         = W
+}}
+
+====Semi-finals====
+{{football box collapsible
+|round      = First leg
+|date       = 5 February 2009
+|time       = 21:30 [[Central European Time|CET]]
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 2–0
+|report     = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/copa_rei/semifinals/jornada01/Barcelona_Mallorca/partit.html (Report)]
+|team2      = [[RCD Mallorca|Mallorca]]
+|goals1     = [[Yaya Touré|Touré]] {{yel|22}} <br />[[Thierry Henry|Henry]] {{goal|34}}, {{yel|44}}<br />[[Rafael Márquez|Márquez]] {{goal|73}}
+|goals2     = [[Pierre Webó|Webó]] {{yel|6}}<br />[[Ayoze Díaz Díaz|Ayoze]] {{yel|26}}<br />[[Josemi]] {{yel|72}}<br />[[Mario Suárez (footballer)|Suárez]] {{yel|75}}<br />[[José Nunes|Nunes]] {{yel|83}}<br />[[Óscar Trejo|Trejo]] {{yel|89}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 52,932
+|referee    = [[César Muñiz Fernández]]
+|result     = W
+}}
+{{football box collapsible
+|round          = Second leg
+|date           = 4 March 2009
+|time           = 21:00 [[Central European Time|CET]]
+|team1          = [[RCD Mallorca|Mallorca]]
+|score          = 1–1
+|aggregatescore = 1–3
+|report         = [http://www.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/copa_rei/semifinals/jornada02/Mallorca_Barcelona/partit.html (Report)]
+|team2          = [[FC Barcelona|Barcelona]]
+|goals1         = [[Chory Castro|Castro]] {{goal|45}}<br />[[Iván Ramis|Ramis]] {{yel|60}}<br />[[Josemi]] {{sent off|2|29|65}}<br />[[Enrique Corrales|Corrales]] {{yel|70}}<br />[[Alhassane Keita|Keita]]  {{yel|85}}
+|goals2         = [[Yaya Touré|Touré]] {{yel|34}}<br />[[José Manuel Pinto|Pinto]] {{yel|36}}<br /> [[Gerard Piqué|Piqué]] {{yel|50}}<br /> [[Martín Cáceres|Cáceres]] {{sent off|0|50}}<br /> [[Lionel Messi|Messi]] {{goal|81}}
+|stadium        = [[Iberostar Stadium|Iberostar]]
+|location       = [[Palma, Majorca|Palma]]
+|attendance     = 23,142
+|referee        = Antonio Rubinos Pérez
+|result         = D
+}}
+
+====Final====
+{{main|2009 Copa del Rey Final}}
+{{football box collapsible
+|round=Final
+|date= 13 May 2009
+|time = 21:30 [[Central European Summer Time|CEST]]
+|team1= [[Athletic Bilbao]]
+|score  =1–4
+|report= [http://www.marca.com/marcador/futbol/2008_09/copa/final/ Report]
+|team2= [[FC Barcelona|Barcelona]]
+|goals1= [[Gaizka Toquero|Toquero]] {{goal|8}}<br>[[David López (footballer, born 1982)|López]] {{yel|29}}<br> [[Koikili Lertxundi|Lertxundi]] {{yel|35}}
+|goals2= [[Yaya Touré|Touré]] {{yel|21}} {{goal|31}}<br>[[Seydou Keita|Keita]] {{yel|49}}<br>[[Lionel Messi|Messi]] {{yel|50}} {{goal|54}}<br>[[Bojan Krkić|Bojan]] {{goal|57}}<br>[[Xavi (footballer, born 1980)|Xavi]] {{goal|64}}
+|stadium= [[Mestalla Stadium|Mestalla]]
+|location= [[Valencia]]
+|attendance= 50,000
+|referee= [[Luis Medina Cantalejo|Medina Cantalejo]]
+|result= W
+}}
+
+===UEFA Champions League===
+{{main|2008–09 UEFA Champions League}}
+
+====Third qualifying round====
+{{main|2008–09 UEFA Champions League qualifying rounds#Third qualifying round}}
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League qualifying rounds#Barcelona v Wisła Kraków|First leg]]
+|date= 13 August 2008
+|time= 21:45 [[Central European Summer Time|CEST]]
+|team1= [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score= 4–0
+|report= [https://web.archive.org/web/20120401141158/http://arxiu.fcbarcelona.cat/web/english/futbol/temporada_08-09/arxiu_partits/champions_league/fase_0297_08/jornada01/Barcelona_wisla/partit.html Report]
+|team2= {{flagicon|POL}} [[Wisła Kraków]]
+|goals1= [[Samuel Eto'o|Eto'o]] {{goal|17||83}}<br />[[Xavi (footballer, born 1980)|Xavi]] {{goal|25}}<br />[[Thierry Henry|Henry]] {{goal|50}}
+|goals2= [[Mauro Cantoro|Cantoro]] {{yel|15}}
+|stadium= [[Camp Nou]]
+|location= [[Barcelona]], Spain
+|attendance= 56,786
+|referee= [[Claudio Circhetta]] ([[Swiss Football Association|Switzerland]])
+|result=W
+}}
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League qualifying rounds#Wisła Kraków v Barcelona|Second leg]]
+|date= 26 August 2008
+|time= 20:45 [[Central European Summer Time|CEST]]
+|team1= [[Wisła Kraków]] {{flagicon|POL}}
+|score= 1–0
+|aggregatescore = {{font color||#CFC|1–4}}
+|report= [https://web.archive.org/web/20080829070121/http://www.fcbarcelona.com/web/english/futbol/temporada_08-09/arxiu_partits/champions_league/fase_previa/jornada02/wisla_Barcelona/partit.html Report]
+|team2= {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1= [[Piotr Brożek|Brożek]] {{yel|44}}<br />[[Cléber Guedes de Lima|Cléber]] {{goal|51}}<br /> [[Rafał Boguski|Boguski]] {{yel|53}}
+|goals2= [[Thierry Henry|Henry]] {{yel|90+2}}
+|stadium= [[Stadion Miejski in Kraków]]
+|location= [[Kraków]], Poland
+|attendance= 20,700
+|referee= [[Ľuboš Micheľ]] ([[Football Federation of Slovakia|Slovakia]])
+|result=L
+}}
+
+====Group stage====
+{{main|2008–09 UEFA Champions League group stage#Group C}}
+{{:2008–09 UEFA Champions League group stage|transcludesection=Group C|showteam=BAR|show_matches=n}}
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League group stage#Barcelona v Sporting CP|1]]
+|date= 16 September 2008
+|time= 20:45 [[Central European Summer Time|CEST]]
+|team1= [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score = 3–1
+|report= [https://www.uefa.com/uefachampionsleague/match/302702--barcelona-vs-sporting-cp/ Report]
+|team2= {{flagicon|POR}} [[Sporting CP]]
+|goals1= [[Rafael Márquez|Márquez]] {{goal|21}}<br />[[Samuel Eto'o|Eto'o]] {{goal|60|pen.}}<br />[[Gerard Piqué|Piqué]] {{yel|70}}<br />[[Xavi (footballer, born 1980)|Xavi]] {{goal|87}}
+|goals2= [[Tonel]] {{goal|72}}<br />[[Fábio Rochemback|Rochemback]] {{yel|85}}
+|stadium= [[Camp Nou]]
+|location= [[Barcelona]], Spain
+|attendance= 58,354
+|referee= [[Laurent Duhamel]] ([[French Football Federation|France]])
+|result=W
+}}
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League group stage#Shakhtar Donetsk v Barcelona|2]]
+|date= 1 October 2008
+|time= 20:45 [[Central European Summer Time|CEST]]
+|team1= [[FC Shakhtar Donetsk|Shakhtar Donetsk]] {{flagicon|UKR}}
+|score= 1–2
+|report= [https://www.uefa.com/uefachampionsleague/match/302710--shakhtar-vs-barcelona/ Report]
+|team2= {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1= [[Ilsinho]] {{goal|45}}<br />[[Darijo Srna|Srna]] {{yel|47}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|58}}<br />[[Dmytro Chyhrynskyi|Chyhrynskyi]] {{yel|69}}<br />[[Brandão (footballer, born 1980)|Brandão]] {{yel|88}}
+|goals2= [[Xavi (footballer, born 1980)|Xavi]] {{yel|41}}<br />[[Seydou Keita|Keita]] {{yel|78}}<br />[[Lionel Messi|Messi]] {{goal|87||90+4}}<br />[[Rafael Márquez|Márquez]] {{yel|88}}<br />[[Andrés Iniesta|Iniesta]] {{yel|90+3}}
+|stadium= [[Lokomotiv Stadium (Donetsk)|RSK Olimpiyskyi]]
+|location= [[Donetsk]], Ukraine
+|attendance= 25,300
+|referee= [[Howard Webb]] ([[The Football Association|England]])
+|result=W
+}}
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League group stage#Basel v Barcelona|3]]
+|date= 22 October 2008
+|time= 20:45 [[Central European Summer Time|CEST]]
+|team1= [[FC Basel|Basel]] {{flagicon|SUI}}
+|score= 0–5
+|report= [https://www.uefa.com/uefachampionsleague/match/302726--basel-vs-barcelona/ Report]
+|team2= {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1= [[Eduardo Rubio|Rubio]] {{yel|43}}<br />[[David Abraham (footballer)|Abraham]] {{yel|86}}
+|goals2= [[Lionel Messi|Messi]] {{goal|4}}<br />[[Sergio Busquets|Busquets]] {{goal|15}}<br />[[Bojan Krkić|Bojan]] {{goal|22||46}}<br />[[Xavi (footballer, born 1980)|Xavi]] {{goal|48}}
+|stadium= [[St. Jakob-Park]]
+|location= [[Basel]], Switzerland
+|attendance= 37,500
+|referee= [[Eric Braamhaar]] ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League group stage#Barcelona v Basel|4]]
+|date= 4 November 2008
+|time= 20:45 [[Central European Time|CET]]
+|team1= [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score= 1–1
+|report= [https://www.uefa.com/uefachampionsleague/match/302750--barcelona-vs-basel/ Report]
+|team2= {{flagicon|SUI}} [[FC Basel|Basel]]
+|goals1= [[Lionel Messi|Messi]] {{goal|62}}
+|goals2= [[Eren Derdiyok|Derdiyok]] {{goal|82}}<br />[[Franco Costanzo|Costanzo]] {{yel|89}}
+|stadium= [[Camp Nou]]
+|location= [[Barcelona]], Spain
+|attendance= 49,479
+|referee= [[Alexandru Tudor]] ([[Romanian Football Federation|Romania]])
+|result=D
+}}
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League group stage#Sporting CP v Barcelona|5]]
+|date= 26 November 2008
+|time= 20:45 [[Central European Time|CET]]
+|team1= [[Sporting CP]] {{flagicon|POR}}
+|score= 2–5
+|report= [https://www.uefa.com/uefachampionsleague/match/302758--sporting-cp-vs-barcelona/ Report]
+|team2= {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1= [[Marco Caneira|Caneira]] {{yel|54}}<br />[[Miguel Veloso|Veloso]] {{goal|65}}<br />[[Liédson]] {{goal|66}}<br />[[Rui Patrício|Patrício]] {{sent off|0|71}}
+|goals2= [[Thierry Henry|Henry]] {{goal|14}}<br />[[Gerard Piqué|Piqué]] {{goal|17}}<br />[[Sergio Busquets|Busquets]] {{yel|33}}<br />[[Lionel Messi|Messi]] {{goal|49}}<br />[[Rafael Márquez|Márquez]] {{yel|63}}<br />[[Marco Caneira|Caneira]] {{goal|67|o.g.}}<br />[[Bojan Krkić|Bojan]] {{goal|73|pen.}}
+|stadium= [[Estádio José Alvalade]]
+|location= [[Lisbon]], Portugal
+|attendance= 31,765
+|referee= [[Matteo Trefoloni]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League group stage#Barcelona v Shakhtar Donetsk|6]]
+|date= 9 December 2008
+|time= 20:45 [[Central European Time|CET]]
+|team1= [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score= 2–3
+|report= [https://www.uefa.com/uefachampionsleague/match/302782--barcelona-vs-shakhtar/ Report]
+|team2= {{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1= [[Bojan Krkić|Bojan]] {{yel|50}}<br />[[Sylvinho]] {{goal|59}}<br />[[Sergio Busquets|Busquets]] {{goal|83}}
+|goals2= [[Oleksandr Hladkyy|Hladkyy]] {{goal|31||58}}, {{yel|87}}<br />[[Tomáš Hübschman|Hübschman]] {{yel|65}}<br />[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{goal|76}}<br />[[Brandão (footballer, born 1980)|Brandão]] {{yel|86}}<br />[[Luiz Adriano]] {{yel|87}}<br />[[Oleksandr Kucher|Kucher]] {{yel|89}}<br />[[Andriy Pyatov|Pyatov]] {{yel|90+1}}
+|stadium= [[Camp Nou]]
+|location= [[Barcelona]], Spain
+|attendance= 22,763
+|referee= [[Mike Riley (referee)|Mike Riley]] ([[The Football Association|England]])
+|result=L
+}}
+
+====Knockout phase====
+{{main|2008–09 UEFA Champions League knockout stage}}
+
+=====Round of 16=====
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League knockout stage#Lyon v Barcelona|First leg]]
+|date= 24 February 2009
+|time= 20:45 [[Central European Time|CET]]
+|team1= [[Olympique Lyonnais|Lyon]] {{flagicon|FRA}}
+|score= 1–1
+|report= [https://www.uefa.com/uefachampionsleague/match/302789--lyon-vs-barcelona/ Report]
+|team2= {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1= [[Juninho Pernambucano|Juninho]] {{goal|7}}<br />[[Jérémy Toulalan|Toulalan]] {{yel|24}}<br />[[Fabio Grosso|Grosso]] {{yel|32}}<br />[[Cris (footballer, born 1977)|Cris]] {{yel|87}}
+|goals2= [[Dani Alves|Alves]] {{yel|34}}<br />[[Carles Puyol|Puyol]] {{yel|61}}<br />[[Sergio Busquets|Busquets]] {{yel|63}}<br />[[Thierry Henry|Henry]] {{goal|67}}
+|stadium= [[Stade de Gerland]]
+|location= [[Lyon]], France
+|attendance= 39,258
+|referee= [[Wolfgang Stark]] ([[German Football Association|Germany]])
+|result= D
+}}
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League knockout stage#Barcelona v Lyon|Second leg]]
+|date= 10 March 2009
+|time= 20:45 [[Central European Time|CET]]
+|team1= [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score= 5–2
+|aggregatescore = 6–3
+|report= [https://www.uefa.com/uefachampionsleague/match/302793--barcelona-vs-lyon/ Report]
+|team2= {{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|goals1= [[Thierry Henry|Henry]] {{goal|25||27}}, {{yel|45+1}}<br />[[Lionel Messi|Messi]] {{goal|40}}<br />[[Samuel Eto'o|Eto'o]] {{goal|43}}<br />[[Seydou Keita|Keita]] {{goal|90+5}}
+|goals2= [[Cris (footballer, born 1977)|Cris]] {{yel|12}}<br />[[Jean Makoun|Makoun]] {{goal|44}}, {{yel|70}}<br />[[Juninho Pernambucano|Juninho]] {{sent off|2|35|90+1}}, {{goal|48}}<br />[[César Delgado|Delgado]] {{yel|49}}<br />[[Fabio Grosso|Grosso]] {{yel|64}}<br />[[Jérémy Toulalan|Toulalan]] {{yel|76}}
+|stadium= [[Camp Nou]]
+|location= [[Barcelona]], Spain
+|attendance= 86,368
+|referee= [[Tom Henning Øvrebø]] ([[Football Association of Norway|Norway]])
+|result= W
+}}
+
+=====Quarter-finals=====
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League knockout stage#Barcelona v Bayern Munich|First leg]]
+|date= 8 April 2009
+|time= 20:45 [[Central European Time|CET]]
+|team1= [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score= 4–0
+|report= [https://www.uefa.com/uefachampionsleague/news/01d8-0e7133148a4f-a7499db3c5a4-1000--barca-brilliance-turns-tables-on-bayern/ Report]
+|team2= {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1= [[Lionel Messi|Messi]] {{goal|9||38}}, {{yel|17}}<br />[[Samuel Eto'o|Eto'o]] {{goal|12}}<br />[[Thierry Henry|Henry]] {{goal|43}}<br />[[Rafael Márquez|Márquez]] {{yel|90}}
+|goals2= [[Christian Lell|Lell]] {{yel|48}}<br />[[Martín Demichelis|Demichelis]] {{yel|57}}
+|stadium= [[Camp Nou]]
+|location= [[Barcelona]], Spain
+|attendance= 93,219
+|referee= [[Howard Webb]] ([[The Football Association|England]])
+|result= W
+|note= Barcelona manager [[Pep Guardiola]] was ejected in the 18th minute.
+}}
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League knockout stage#Bayern Munich v Barcelona|Second leg]]
+|date= 14 April 2009
+|time= 20:45 [[Central European Time|CET]]
+|team1= [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score= 1–1
+|aggregatescore = {{font color||#CFC|1–5}}
+|report= [https://www.uefa.com/uefachampionsleague/match/302806--bayern-munchen-vs-barcelona/ Report]
+|team2= {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1= [[Lúcio]] {{yel|36}}<br />[[Martín Demichelis|Demichelis]] {{yel|42}}<br />[[Franck Ribéry|Ribéry]] {{goal|47}}<br />[[Tim Borowski|Borowski]] {{yel|82}}<br />[[Christian Lell|Lell]] {{yel|84}}
+|goals2= [[Dani Alves|Alves]] {{yel|18}}<br />[[Carles Puyol|Puyol]] {{yel|25}}<br />[[Seydou Keita|Keita]] {{goal|73}}
+|stadium= [[Allianz Arena]]
+|location= [[Munich]], Germany
+|attendance= 66,000
+|referee= [[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|result= D
+}}
+
+=====Semi-finals=====
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League knockout stage#Barcelona v Chelsea|First leg]]
+|date= 28 April 2009
+|time= 20:45 [[Central European Time|CET]]
+|team1= [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score= 0–0
+|report= [https://www.uefa.com/uefachampionsleague/news/01d8-0e72189540f5-fc2ae59e490c-1000--resolute-chelsea-hold-barca-at-bay/ Report]
+|team2= {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1= [[Yaya Touré|Touré]] {{yel|37}}<br />[[Carles Puyol|Puyol]] {{yel|74}}
+|goals2= [[Alex (footballer, born June 1982)|Alex]] {{yel|26}}<br />[[Michael Ballack|Ballack]] {{yel|29}}
+|stadium= [[Camp Nou]]
+|location= [[Barcelona]], Spain
+|attendance= 95,231
+|referee= [[Wolfgang Stark]] ([[German Football Association|Germany]])
+|result= D
+}}
+{{football box collapsible
+|round= [[2008–09 UEFA Champions League knockout stage#Chelsea v Barcelona|Second leg]]
+|date= 6 May 2009
+|time= 20:45 [[Central European Summer Time|CEST]]
+|team1= [[Chelsea F.C.|Chelsea]] {{flagicon|ENG}}
+|score= 1–1
+|aggregatescore = {{font color||#CFC|1–1[[Away goals rule|a]]}}
+|report= [https://www.uefa.com/uefachampionsleague/news/01d9-0e72254a5b3a-23a74c5aeec1-1000--iniesta-late-show-shatters-chelsea/ Report]
+|team2= {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1= [[Michael Essien|Essien]] {{goal|9}} {{yel|74}}<br />[[Alex (footballer, born June 1982)|Alex]] {{yel|77}}<br />[[Michael Ballack|Ballack]] {{yel|90+6}}<br />[[Didier Drogba|Drogba]] {{yel|90+9}}<ref>Drogba was cautioned for dissent after full-time.</ref>
+|goals2= [[Dani Alves|Alves]] {{yel|30}}<br />[[Eric Abidal|Abidal]] {{sent off|0|66}}<br />[[Samuel Eto'o|Eto'o]] {{yel|90+1}}<br />[[Andrés Iniesta|Iniesta]] {{goal|90+3}} {{yel|90+4}}
+|stadium= [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location= [[London]], England
+|attendance= 37,857
+|referee= [[Tom Henning Øvrebø]] ([[Football Association of Norway|Norway]])
+|result= D
+}}
+
+=====Final=====
+{{main|2009 UEFA Champions League Final}}
+{{football box collapsible
+|round= Final
+|date= 27 May 2009
+|time= 20:45 [[Central European Summer Time|CEST]]
+|team1= [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score= 2–0
+|report= [Report]
+|team2= {{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1= [[Samuel Eto'o|Eto'o]] {{goal|10}}<br />[[Gerard Piqué|Piqué]] {{yel|16}}<br />[[Lionel Messi|Messi]] {{goal|70}}
+|goals2= [[Cristiano Ronaldo|Ronaldo]] {{yel|78}}<br />[[Paul Scholes|Scholes]] {{yel|80}}<br />[[Nemanja Vidić|Vidić]] {{yel|90+3}}
+|stadium= [[Stadio Olimpico]]
+|location= [[Rome]], Italy
+|attendance= 62,467
+|referee= [[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|result= W
+|id=}}
+
+==Record==
+
+{| class="wikitable"
+|-
+! Competition !! Won !! Draw !! Lost
+|-
+| La Liga || 27 || 6 || 5
+|-
+| Copa del Rey || 7 || 2 || 0
+|-
+| UEFA Champions League || 8 || 5 || 2
+|-
+| Friendly || 6 || 0 || 0
+|-
+| Total || 48 || 13 || 7
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.fcbarcelona.cat/web/english/ FC Barcelona official website]
+* [http://www.fcbarcelonaweb.co.uk English Speaking FC Barcelona Supporters]
+* [http://soccernet.espn.go.com/team?id=83&cc=5901 ESPNsoccernet: Barcelona Team Page] {{Webarchive|url=https://web.archive.org/web/20120507152913/http://soccernet.espn.go.com/team?id=83&cc=5901 |date=7 May 2012 }}
+* [http://www.footballdatabase.com/index.php?page=club&Id=7&b=true&cont=Europe&cln=FC_Barcelona Footballdatabase.com: FC Barcelona (Spain) profile]
+* [https://web.archive.org/web/20060902031104/http://www.uefa.com/competitions/ucl/ UEFA Champions League]
+* [http://www.lfp.es/ Web Oficial de la Liga de Fútbol Profesional]
+* [http://www.fcf.cat/pub/home.asp Federació Catalana de Futbol] {{Webarchive|url=https://web.archive.org/web/20091223210501/http://www.fcf.cat/pub/home.asp |date=23 December 2009 }}
+
+{{FC Barcelona seasons}}
+{{2008–09 in Spanish football}}
+
+{{DEFAULTSORT:FC Barcelona season}}
+[[Category:FC Barcelona seasons|2008–09]]
+[[Category:Spanish football clubs 2008–09 season|Barcelona]]
+[[Category:2008–09 UEFA Champions League participants seasons|Barcelona]]
+[[Category:Spanish football championship–winning seasons|2008–09]]
+[[Category:UEFA Champions League–winning seasons|2008–09]]
+[[Category:Continental trebles in association football|Barcelona]]
+[[Category:2008 in Catalan sport]]
+[[Category:2009 in Catalan sport]]

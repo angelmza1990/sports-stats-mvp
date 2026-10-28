@@ -1,0 +1,1338 @@
+{{Short description|30th season in existence of FC Barcelona}}
+{{Infobox football club season
+| club               = [[FC Barcelona|Barcelona]]
+| season             = [[1928–29 in Spanish football|1928–29]]
+| chairman           = [[Arcadi Balaguer]] (until March 23, 1929)<br /> [[Tomàs Rosés]] (from March 23, 1929)
+| chrtitle           = President
+| manager            = [[Romà Forns]] (dates 1–6)<br /> [[Jim Bellamy]] (dates 7–18)
+| stadium            = [[Camp de Les Corts|Les Corts]]
+| league             = [[La Liga]]
+| league result      = [[1929 La Liga|'''Winners''']]
+| league2            = [[Catalan football championship|Catalan League]]
+| league2 result     = 3rd
+| cup1               = [[Copa del Rey]]
+| cup1 result        = [[1928–29 Copa del Rey|Semi-finals]]
+| league topscorer   = [[Manuel Parera]] (11)
+| season topscorer   = [[Ángel Arocha]] (20)
+| prevseason         = [[1927–28 FC Barcelona season|1927–28]]
+| nextseason         = [[1929–30 FC Barcelona season|1929–30]]
+}}
+The '''1928–29 season''' is [[FC Barcelona]]'s 30th in existence, and was their first year in the Primera División, and covers the period from 1928-07-01 to 1929-06-30.
+
+FC Barcelona won the first Liga title ever, and it was their only title of the year.
+
+==First-team squad==
+{{Fs start}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Ramón Llorens]]|pos=GK}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Juan Uriach]]|pos=GK}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Manuel Vidal Hermosa|Manuel Vidal]]|pos=GK}}
+{{Fs player|no=|nat=Hungary|natvar=1920|name=[[Ferenc Plattkó]]|pos=GK}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Andrés Bosch]]|pos=DF}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Vicente Saura]]|pos=DF}}
+{{Fs player|no=|nat=Germany|natvar=empire|name=[[Emil Walter (footballer)|Emil Walter]]|pos=DF}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Cristóbal Martí]]|pos=DF}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Francesc Bussot]]|pos=DF}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Patricio Arnau]]|pos=DF}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Esteban Pedrol]]|pos=DF}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[José Obiols]]|pos=MF}}
+{{Fs mid}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Ramón Parera]]|pos=MF}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Ramón Guzmán]]|pos=MF}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Vicente Piera]]|pos=MF}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[José Sastre]]|pos=MF}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[José Carlos Castillo García-Tudela|José Carlos Castillo]]|pos=FW}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Juan Ramón i Pera|Juan Ramón]]|pos=FW}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Ángel Arocha]]|pos=FW}}
+{{Fs player|no=|nat=Spain|name=[[Emilio Sagi Liñán]]|pos=FW}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Antonio García García|Antonio García]]|pos=FW}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Manuel Parera]]|pos=FW}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Ramón Campabadal]]|pos=FW}}
+{{Fs player|no=|nat=Spain|natvar=1785|name=[[Josep Samitier]]|pos=FW}}
+{{Fs end}}
+
+==Competitions==
+===La Liga===
+{{main|1929 La Liga}}
+
+====League table====
+{| class="wikitable" style="text-align:center"
+!width=20|Pos
+!width=185|Team
+!width=20|Pld
+!width=20|W
+!width=20|D
+!width=20|L
+!width=20|GF
+!width=20|GA
+!width=20|GD
+!width=20|Pts
+|- bgcolor=#bbffbb
+| 1 ||align="left"| '''[[FC Barcelona|Barcelona]]'''||18||11||3||4||37||23||+14||'''25'''
+|-align="center"
+| 2 ||align="left"|  [[Real Madrid]]||18||11||1||6||40||27||+13||'''23'''
+|-align="center" 
+| 3 ||align="left"| [[Athletic Bilbao|Athletic]] ||18||8||4||6||43||33||+10||'''20'''
+|}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=[[Estadio El Sardinero (1913)|A]] /[[Camp de Les Corts|H]] /[[Atotxa Stadium|A]] /[[Camp de Les Corts|H]] /[[Estadio Metropolitano de Madrid|A]] /[[Camp de Les Corts|H]] /[[San Mamés Stadium (1913)|A]] /[[Camp de Les Corts|H]] /[[Stadium Gal|A]] /[[Camp de Les Corts|H]] /[[Estadio Chamartín|A]] /[[Ibaiondo|A]] /[[Camp de Les Corts|H]] /[[Camp de Les Corts|H]] /[[Estadi Olímpic Lluís Companys|A]] /[[Camp de Les Corts|H]] /[[Estadi Olímpic Lluís Companys|A]] /[[Camp de Les Corts|H]]
+|label2= Result
+| res2=W/L /L /D /L /W /L /W /W /W /W /W /W /W /D /W /D /W  
+|label3= Position
+| res3=2/5/6/7/8 /8 /9 /7 /6 /4 /5 /2 /1 /1 /1 /1 /2 /1
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_18-=red1
+
+|updated=complete
+|source=[[#Matches|Competitive matches]]
+}}
+
+====Matches====
+{{football box collapsible
+|round      = 1
+|date       = 12 February 1929
+|time       =
+|team1      = [[Racing de Santander]]
+|score      = 0–2
+|report     = [http://www.bdfutbol.com/p/p.php?id=5 Report]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = 
+|goals2     = [[Manuel Parera|Parera]] {{goal|53||87}}
+|stadium    = [[Estadio El Sardinero (1913)|El Sardinero]]
+|location   = [[Santander, Spain|Santander]]
+|attendance =
+|referee    =Ramón Mel
+|result     = W
+}}
+{{football box collapsible
+|round      = 2
+|date       = 17 February 1929
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 1–2
+|report     = [http://www.bdfutbol.com/p/p.php?id=8 Report]
+|team2      = [[Real Madrid]]
+|goals1     = [[Manuel Parera|Parera]] {{goal|70}}
+|goals2     = [[Rafael Morera López|Morera]] {{goal|10||55}}
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =Steimborn Ludeuvik
+|result     = L
+}}
+{{football box collapsible
+|round      = 3
+|date       = 24 February 1929
+|time       =
+|team1      = [[Real Sociedad]]
+|score      = 3–0
+|report     = [http://www.bdfutbol.com/p/p.php?id=14 Report]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = Kiriki {{goal|18}}<br />[[Paco Bienzobas|Bienzobas]] {{goal|42}}<br />Cholín {{goal|52}}
+|goals2     =
+|stadium    = [[Atotxa Stadium|Atotxa]]
+|location   = [[San Sebastián]]
+|attendance =
+|referee    =Quintana
+|result     = L
+}}
+{{football box collapsible
+|round      = 4
+|date       = 3 March 1929
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 2–2
+|report     = [http://www.bdfutbol.com/p/p.php?id=17 Report]
+|team2      = [[Arenas Club de Getxo|Arenas]]
+|goals1     = [[Antonio García García|García]] {{goal|1}}<br />[[Emil Walter (footballer)|Walter]] {{goal|67}}
+|goals2     = [[José Maria Yermo|Yermo]] {{goal|15||18}}
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =Insausti
+|result     = D
+}}
+{{football box collapsible
+|round      = 5
+|date       = 10 March 1929
+|time       =
+|team1      = [[Atlético Madrid]]
+|score      = 4–1
+|report     = [http://www.bdfutbol.com/p/p.php?id=22 Report]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = [[Cosme Vázquez|Cosme]] {{goal|5||30}}<br />[[Guillermo Yllera|Yllera]] {{goal|50||60}}
+|goals2     = [[Manuel Parera|Parera]] {{goal|70}}
+|stadium    = [[Estadio Metropolitano de Madrid|Metropolitano]]
+|location   = [[Madrid]]
+|attendance =
+|referee    =Murguía
+|result     = L
+}}
+{{football box collapsible
+|round      = 6
+|date       = 24 March 1929
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 5–2
+|report     = [http://www.bdfutbol.com/p/p.php?id=28 Report]
+|team2      = [[CE Europa|Europa]]
+|goals1     =[[Ramón Campabadal|Campabadal]] {{goal|18}}<br /> [[José Sastre|Sastre]] {{goal|31||51||62}}<br />[[Manuel Parera|Parera]] {{goal|40}}
+|goals2     = [[Manuel Cros|Cros]] {{goal|71||82}}
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =Murguía
+|result     = W
+}}
+{{football box collapsible
+|round      = 7
+|date       = 31 March 1929
+|time       =
+|team1      = [[Athletic Bilbao]]
+|score      = 5–1
+|report     = [http://www.bdfutbol.com/p/p.php?id=31 Report]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = [[Victorio Unamuno|Unamuno]] {{goal|43||56}}<br />[[Graciano San Cristobal|Graciano]] {{goal|64}}<br />[[Ramón de la Fuente Leal|Lafuente]] {{goal|78||87}}
+|goals2     = [[Manuel Parera|Parera]] {{goal|71}}
+|stadium    = [[San Mamés Stadium (1913)|San Mamés]]
+|location   = [[Bilbao]]
+|attendance =
+|referee    =Ramón Mel
+|result     = L
+}}
+{{football box collapsible
+|round      = 8
+|date       = 7 April 1929
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 1–0
+|report     = [http://www.bdfutbol.com/p/p.php?id=38 Report]
+|team2      = [[RCD Espanyol|Español]]
+|goals1     =[[José Sastre|Sastre]] {{goal|80}}
+|goals2     = 
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =Escartín Morán
+|result     = W
+}}
+{{football box collapsible
+|round      = 9
+|date       = 21 April 1929
+|time       =
+|team1      = [[Real Unión]]
+|score      = 1–2
+|report     = [http://www.bdfutbol.com/p/p.php?id=44 Report]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = [[Santiago Urtizberea|Urtizberea]] {{goal|7}}
+|goals2     = [[Ángel Arocha|Arocha]] {{goal|62}}<br />[[Josep Samitier|Samitier]] {{goal|72}}
+|stadium    = [[Stadium Gal|Gal]]
+|location   = [[Irun]]
+|attendance =
+|referee    =Navaz
+|result     = W
+}}
+{{football box collapsible
+|round      = 10
+|date       = 28 April 1929
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 5–1
+|report     = [http://www.bdfutbol.com/p/p.php?id=48 Report]
+|team2      = [[Racing de Santander]]
+|goals1     =[[Manuel Parera|Parera]] {{goal|23}}<br />[[Ángel Arocha|Arocha]] {{goal|25||51||55}}<br />[[Emil Walter (footballer)|Walter]] {{goal|75|pen.}}
+|goals2     = [[Óscar Rodríguez López|Óscar]] {{goal|46}}
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =Murguía
+|result     = W
+}}
+{{football box collapsible
+|round      = 11
+|date       = 9 May 1929
+|time       =
+|team1      = [[Real Madrid]]
+|score      = 0–1
+|report     = [http://www.bdfutbol.com/p/p.php?id=55 Report]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = 
+|goals2     = [[José Sastre|Sastre]] {{goal|83}}
+|stadium    = [[Estadio Chamartín|Chamartín]]
+|location   = [[Madrid]]
+|attendance =
+|referee    =Menchaca
+|result     = W
+}}
+{{football box collapsible
+|round      = 13
+|date       = 26 May 1929
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 4–0
+|report     = [http://www.bdfutbol.com/p/p.php?id=62 Report]
+|team2      = [[Atlético Madrid]]
+|goals1     =[[José Sastre|Sastre]] {{goal|10}}<br />[[Josep Samitier|Samitier]] {{goal|43||81}}<br />[[Emil Walter (footballer)|Walter]] {{goal|58}}
+|goals2     = 
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =Comorera Gatue
+|result     = W
+}}
+{{football box collapsible
+|round      = 14
+|date       = 30 May 1929
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      =1–0
+|report     = [http://www.bdfutbol.com/p/p.php?id=62 Report]
+|team2      = [[Real Sociedad]]
+|goals1     =[[Josep Samitier|Samitier]] {{goal|43}}
+|goals2     = 
+|stadium    = [[Estadi Olímpic Lluís Companys|Montjuic]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =Escartín Morán
+|result     = W
+}}
+{{football box collapsible
+|round      = 15
+|date       = 2 June 1929
+|time       =
+|team1      =[[CE Europa|Europa]]
+|score      = 1–1
+|report     = [http://www.bdfutbol.com/p/p.php?id=72 Report]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = [[Ramón García Martínez|Ramonzuelo]] {{goal|33}}
+|goals2     = [[Josep Samitier|Samitier]] {{goal|24}}
+|stadium    = [[Estadi Olímpic Lluís Companys|Montjuic]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =Menchaca
+|result     = D
+}}
+{{football box collapsible
+|round      = 16
+|date       = 9 June 1929
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      =3–0
+|report     = [http://www.bdfutbol.com/p/p.php?id=78 Report]
+|team2      = [[Athletic Bilbao]]
+|goals1     =[[Josep Samitier|Samitier]] {{goal|57||59}}<br />[[José Sastre|Sastre]] {{goal|86}}
+|goals2     = 
+|stadium    = [[Estadi Olímpic Lluís Companys|Montjuic]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =Escartín Morán
+|result     = W
+}}
+{{football box collapsible
+|round      = 17
+|date       = 16 June 1929
+|time       =
+|team1      =[[RCD Espanyol|Español]]
+|score      = 1–1
+|report     = [http://www.bdfutbol.com/p/p.php?id=82 Report]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = [[Gabriel Juvé|Juvé]] {{goal|54}}
+|goals2     = [[José Sastre|Sastre]] {{goal|89}}
+|stadium    = [[Estadi Olímpic Lluís Companys|Montjuic]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =Escartín Morán
+|result     = D
+}}
+{{football box collapsible
+|round      = 18
+|date       = 23 June 1929
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      =4–1
+|report     = [http://www.bdfutbol.com/p/p.php?id=88 Report]
+|team2      = [[Real Unión]]
+|goals1     = [[José Sastre|Sastre]] {{goal|15||61}}<br />[[Manuel Parera|Parera]] {{goal|27||74}}
+|goals2     = [[Santiago Urtizberea|Urtizberea]] {{goal|42}}
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =Areces
+|result     = W
+}}
+{{football box collapsible
+|round      = 12
+|date       = 30 June 1929
+|time       =
+|team1      = [[Arenas Club de Getxo|Arenas]]
+|score      = 0–2
+|report     = [http://www.bdfutbol.com/p/p.php?id=60 Report]
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     =
+|goals2     = [[Manuel Parera|Parera]] {{goal|67||84}}
+|stadium    =Ibaiondo
+|location   = [[Getxo]]
+|attendance =
+|referee    =Escartín Morán
+|result     = W
+}}
+
+===Copa del Rey===
+{{main|1928–29 Copa del Rey}}
+
+====Round of 32====
+{{football box collapsible
+|round      = First leg
+|date       = 9 December 1928
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      =7–1
+|report     =
+|team2      = [[Racing de Santander]]
+|goals1     = [[Ángel Arocha|Arocha]] {{goal}} {{goal}} {{goal}}<br />[[Josep Samitier|Samitier]] {{goal}} {{goal}}<br />[[Emilio Sagi Liñán|Sagi]] {{goal}}<br />[[Antonio García García|García]] {{goal}}
+|goals2     =
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = W
+}}
+{{football box collapsible
+|round      = Second leg
+|date       = 16 December 1928
+|time       =
+|team2      = [[FC Barcelona|Barcelona]]
+|score      =2–2
+|report     =
+|team1      = [[Racing de Santander]]
+|goals1     = 
+|goals2     = [[Josep Samitier|Samitier]] {{goal}} {{goal}}
+|stadium    = [[Estadio El Sardinero (1913)|El Sardinero]]
+|location   = [[Santander, Spain|Santander]]
+|attendance =
+|referee    =
+|result     = D
+}}
+
+====Round of 16====
+{{football box collapsible
+|round      = First leg
+|date       = 23 December 1928
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      =6–0
+|report     =
+|team2      = [[Real Sociedad]]
+|goals1     = [[Ángel Arocha|Arocha]] {{goal}} {{goal}} {{goal}} {{goal}} {{goal}}<br />[[Emilio Sagi Liñán|Sagi]] {{goal}}
+|goals2     =
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = W
+}}
+{{football box collapsible
+|round      = Second leg
+|date       = 30 December 1928
+|time       =
+|team2      = [[FC Barcelona|Barcelona]]
+|score      =0–0
+|report     =
+|team1      = [[Real Sociedad]]
+|goals1     = 
+|goals2     =
+|stadium    = [[Atotxa Stadium|Atotxa]]
+|location   = [[San Sebastián]]
+|attendance =
+|referee    =
+|result     = D
+}}
+
+====Quarterfinals====
+{{football box collapsible
+|round      = First leg
+|date       = 6 January 1929
+|time       =
+|team2      = [[FC Barcelona|Barcelona]]
+|score      =0–1
+|report     =
+|team1      = [[Sevilla FC|Sevilla]]
+|goals1     = 
+|goals2     =[[Josep Samitier|Samitier]] {{goal}}
+|location   =  [[Seville]]
+|attendance =
+|referee    =
+|result     = W
+}}
+{{football box collapsible
+|round      = Second leg
+|date       = 13 January 1929
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      =2–0
+|report     =
+|team2      = [[Sevilla FC|Sevilla]]
+|goals1     = [[Patricio Arnau|Arnau]] {{goal}}<br />[[Ángel Arocha|Arocha]] {{goal}}
+|goals2     =
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = W
+}}
+
+====Semifinals====
+{{football box collapsible
+|round      = First leg
+|date       = 20 January 1929
+|time       =
+|team2      = [[FC Barcelona|Barcelona]]
+|score      =2–0
+|report     =
+|team1      = [[RCD Espanyol|Español]]
+|goals1     = 
+|goals2     =
+|stadium    = [[Estadi Olímpic Lluís Companys|Montjuic]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = L
+}}
+{{football box collapsible
+|round      = Second leg
+|date       = 27 January 1929
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      =1–1
+|report     =
+|team2      = [[RCD Espanyol|Español]]
+|goals1     = 
+|goals2     =Saprissa {{goal}} <small>([[own goal|o.g.]])</small>
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     =D
+}}
+
+===Catalan football championship===
+====League table====
+{| class="wikitable" style="text-align:center"
+!width=20|Pos
+!width=185|Team
+!width=20|Pld
+!width=20|W
+!width=20|D
+!width=20|L
+!width=20|GF
+!width=20|GA
+!width=20|GD
+!width=20|Pts
+|-align="center" 
+| 2 ||align="left"|  [[CE Europa|Europa]]||10||4||5||1||23||8||+15||'''13'''
+|-align="center" bgcolor="#EFEFEF"
+| 3 ||align="left"| '''[[FC Barcelona|Barcelona]]''' ||10||5||2||3||23||13||+10||'''12'''
+|-align="center" 
+| 4||align="left"|  [[UE Sants|Sants]]||10||3||2||5||18||20||–2||'''8'''
+|}
+
+====Matches====
+{{football box collapsible
+|round      = 1
+|date       = 30 September 1928
+|time       =
+|team1      = [[UE Sants]]
+|score      = 2–2
+|report     = 
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = 
+|goals2     = [[Ángel Arocha|Arocha]] {{goal}} {{goal}}
+|stadium    = La Magòria
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = D
+}}
+{{football box collapsible
+|round      = 2
+|date       = 7 October 1928
+|time       =
+|team1      = [[CE Sabadell FC|Sabadell]]
+|score      = 0–5
+|report     = 
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = 
+|goals2     = [[José Sastre|Sastre]] {{goal}} {{goal}}<br />[[Juan Ramón i Pera|Ramón]] {{goal}}  {{goal}}<br />[[Emil Walter (footballer)|Walter]] {{goal}}
+|stadium    = Creu Alta
+|location   = [[Sabadell]]
+|attendance =
+|referee    =
+|result     = W
+}}
+{{football box collapsible
+|round      = 3
+|date       = 14 October 1928
+|time       =
+|team1      = [[Terrassa FC|Terrassa]]
+|score      = 0–4
+|report     = 
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = 
+|goals2     = [[Ángel Arocha|Arocha]] {{goal}} {{goal}}<br />[[Manuel Parera|Parera]] {{goal}}<br />[[Emilio Sagi Liñán|Sagi]] {{goal}}
+|stadium    = 
+|location   = [[Terrassa]]
+|attendance =
+|referee    =
+|result     = W
+}}
+{{football box collapsible
+|round      = 4
+|date       = 21 October 1928
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 0–2
+|report     = 
+|team2      = [[RCD Espanyol|Español]]
+|goals1     = 
+|goals2     = 
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = L
+}}
+{{football box collapsible
+|round      = 5
+|date       = 28 October 1928
+|time       =
+|team1      = [[CE Europa|Europa]]
+|score      =2–2
+|report     = 
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = 
+|goals2     = [[Ángel Arocha|Arocha]] {{goal}} <br />[[Juan Ramón i Pera|Ramón]] {{goal}}
+|stadium    = 
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = D
+}}
+{{football box collapsible
+|round      = 6
+|date       = 4 November 1928
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 2–1
+|report     = 
+|team2      = [[UE Sants|Sants]]
+|goals1     = [[Juan Ramón i Pera|Ramón]] {{goal}}<br />[[Ángel Arocha|Arocha]] {{goal}}
+|goals2     = 
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = W
+}}
+{{football box collapsible
+|round      = 7
+|date       = 11 November 1928
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 4–1
+|report     = 
+|team2      = [[CE Sabadell FC|Sabadell]]
+|goals1     = [[Juan Ramón i Pera|Ramón]] {{goal}} {{goal}}<br />[[Manuel Parera|Parera]] {{goal}}<br />[[Antonio García García|García]] {{goal}}
+|goals2     = 
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = W
+}}
+{{football box collapsible
+|round      = 8
+|date       = 18 November 1928
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 3–1
+|report     = 
+|team2      = [[Terrassa FC|Terrassa]]
+|goals1     = [[Ángel Arocha|Arocha]] {{goal}}<br />[[Josep Samitier|Samitier]] {{goal}}<br />[[José Sastre|Sastre]] {{goal}}
+|goals2     = 
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = W
+}}
+{{football box collapsible
+|round      = 9
+|date       = 25 November 1928
+|time       =
+|team1      = [[RCD Espanyol|Español]]
+|score      =2–1
+|report     = 
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = 
+|goals2     = [[Josep Samitier|Samitier]] {{goal}}
+|stadium    = [[Estadi Olímpic Lluís Companys|Montjuic]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = L
+}}
+{{football box collapsible
+|round      = 10
+|date       = 2 December 1928
+|time       =
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 0–2
+|report     = 
+|team2      = [[CE Europa|Europa]]
+|goals1     = 
+|goals2     = 
+|stadium    = [[Camp de Les Corts|Les Corts]]
+|location   = [[Barcelona]]
+|attendance =
+|referee    =
+|result     = L
+}}
+
+==Friendlies==
+{| class="wikitable collapsible collapsed" style="width:100%;"
+! colspan="8" style="text-align:left;"  | [[Exhibition game|Friendlies]]
+|-
+!Kick Off
+!Opponents
+!H / A
+!Result
+!Scorers
+|- bgcolor="#ffdddd"
+|align=center|September 23, 1928
+|{{flagicon|Italy|1861}} [[Torino F.C.|Torino]]
+|align=center|H
+|align=center|0&ndash;5
+|
+|-
+|- bgcolor="#ffdddd"
+|align=center|September 24, 1928
+|{{flagicon|Italy|1861}} [[Torino F.C.|Torino]]
+|align=center|H
+|align=center|0&ndash;4
+|
+|-
+|- bgcolor="#ddffdd"
+|align=center|November 1, 1928
+|{{flagicon|Spain|1785}} [[Real Zaragoza|Zaragoza]]
+|align=center|H
+|align=center|7&ndash;3
+|[[Ángel Arocha|Arocha]] (4), [[Juan Ramón i Pera|Ramón]] (2), [[Manuel Parera|Parera]]
+|-
+|- bgcolor="#ddffdd"
+|align=center|December 25, 1928
+|{{flagicon|Hungary|1920}} [[Ferencvárosi TC|Ferencvárosi]]
+|align=center|H
+|align=center|4&ndash;0
+|Cros (3), Buj
+|-
+|- bgcolor="#ffffdd"
+|align=center|December 26, 1928
+|{{flagicon|Hungary|1920}} [[Ferencvárosi TC|Ferencvárosi]]
+|align=center|H
+|align=center|3&ndash;3
+|[[Manuel Parera|Parera]] (2), Cros
+|-
+|- bgcolor="#ffdddd"
+|align=center|December 31, 1928
+|{{flagicon|Spain|1785}} [[Racing de Ferrol]]
+|align=center|H
+|align=center|2&ndash;7
+|Barcelo (2)
+|-
+|- bgcolor="#ddffdd"
+|align=center|February 2, 1929
+|{{flagicon|Argentina}} [[Sportivo Barracas]]
+|align=center|H
+|align=center|2&ndash;1
+|[[Ángel Arocha|Arocha]], García
+|-
+|- bgcolor="#ddffdd"
+|align=center|February 7, 1929
+|{{flagicon|Argentina}} [[Sportivo Barracas]]
+|align=center|H
+|align=center|3&ndash;2
+|Campabadal (2), García
+|-
+|- bgcolor="#ffdddd"
+|align=center|March 17, 1929
+|{{flagicon|Argentina}} [[Sportivo Barracas]]
+|align=center|H
+|align=center|1&ndash;2
+|Campabadal
+|-
+|- bgcolor="#ffdddd"
+|align=center|March 19, 1929
+|{{flagicon|Spain|1785}} [[Deportivo Alavés|Alavés]]
+|align=center|A
+|align=center|0&ndash;3
+|
+|-
+|- bgcolor="#ddffdd"
+|align=center|April 17, 1929
+|{{flagicon|England}} Vaixell Anglés
+|align=center|H
+|align=center|5&ndash;0
+|
+|-
+|- bgcolor="#ddffdd"
+|align=center|April 21, 1929
+|{{flagicon|Spain|1785}} [[CE Europa|Europa]]
+|align=center|H
+|align=center|5&ndash;3
+|
+|-
+|- bgcolor="#ddffdd"
+|align=center|May 5, 1929
+|{{flagicon|Spain|1785}} [[UE Figueres|Figueres]]
+|align=center|A
+|align=center|1&ndash;5
+|[[Juan Ramón i Pera|Ramón]], [[José Sastre|Sastre]] (2), Buj, [[Emilio Sagi Liñán|Sagi]]
+|-
+|- bgcolor="#ddffdd"
+|align=center|May 6, 1929
+|{{flagicon|Spain|1785}} [[UE Figueres|Figueres]]
+|align=center|A
+|align=center|0&ndash;2
+|Serra, Buj
+|-
+|- bgcolor="#ddffdd"
+|align=center|July 21, 1929
+|{{flagicon|Spain|1785}} [[FC Palafrugell|Palafrugell]]
+|align=center|A
+|align=center|2&ndash;6
+|Arnau (3), Ramón, Sastre, Cabanes  ([[own goal|o.g.]])
+|}
+
+== Results ==
+{| style="width: 100%; background:#363636; color:white;" 
+|-
+| '''Friendly'''
+|}
+{{football box collapsible
+|round = 
+|date = 2 September 1928
+|time = 
+|team1 = '''[[Terrassa FC]]'''
+|score = 1–1
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = 
+|stadium = Terrassa
+|location = [[Barcelona]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{football box collapsible
+|round = 
+|date = 9 September 1928
+|time = 
+|team1 = '''[[CE Júpiter]]'''
+|score = 2–1
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Segura {{goal}}
+|stadium = Poble Nou
+|location = [[Barcelona]]
+|attendance = 
+|referee = Sauri
+|result = L
+}}
+{{football box collapsible
+|round = 
+|date = 16 September 1928
+|time = 
+|team1 = '''[[UE Sants]]'''
+|score = 2–5
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Ramon {{goal}}{{goal}}{{goal}} <br> Pinilla {{goal}} <br> Barcelo {{goal}}
+|stadium = Sants
+|location = [[Barcelona]]
+|attendance = 
+|referee = Sauri
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 23 September 1928
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 0–5
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Torino FC|Torino]]'''
+|goals1 = 
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = Vilalta
+|result = L
+}}
+{{football box collapsible
+|round = 
+|date = 25 September 1928
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 0–4
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Torino FC|Torino]]'''
+|goals1 = 
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = Comorera
+|result = L
+}}
+{{football box collapsible
+|round = 
+|date = 1 November 1928
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 7–3
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Real Zaragoza|Club Patria]]'''
+|goals1 = Arocha {{goal}}{{goal}}{{goal}}{{goal}} <br> Ramon {{goal}}{{goal}} <br> Parera {{goal}}
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = Comorera
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 25 December 1928
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 4–0
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Ferencváros]]'''
+|goals1 = Cros {{goal}}{{goal}}{{goal}} <br> [[Manuel Buj|Buj]] {{goal}}
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = Villena
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 26 December 1928
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 3–3
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Ferencváros]]'''
+|goals1 = Parera {{goal}}{{goal}} <br> Cros {{goal}}
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = [[Domènec Espelta i Mussons|Espelta]]
+|result = D
+}}
+{{football box collapsible
+|round = 
+|date = 1 January 1929
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 2–7
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Racing Club de Ferrol|Ferrol]]'''
+|goals1 = Barcelo {{goal}}{{goal}} 
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = Llovera
+|result = L
+}}
+{{football box collapsible
+|round = 
+|date = 6 January 1929
+|time = 
+|team1 = '''[[CE Júpiter]]'''
+|score = 3–5
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Arnau {{goal}}{{goal}}{{goal}} <br> [[Manuel Buj|Buj]] {{goal}}{{goal}}
+|stadium = Poble Nou
+|location = [[Barcelona]]
+|attendance = 
+|referee = Villena
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 13 January 1929
+|time = 
+|team1 = '''[[CE Manresa]]'''
+|score = 2–3
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Ramon {{goal}} <br> [[Manuel Buj|Buj]] {{goal}}{{goal}}
+|stadium = Manresa
+|location = [[Barcelona]]
+|attendance = 
+|referee = Sauri
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 20 January 1929
+|time = 
+|team1 = '''[[Iluro SC]]'''
+|score = 2–2
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Tonijuan {{goal}}{{goal}}
+|stadium = Mataro
+|location = [[Barcelona]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{football box collapsible
+|round = 
+|date = 2 February 1929
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 2–1
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Sportivo Barracas]]'''
+|goals1 = Arocha {{goal}} <br> A.Garcia {{goal}}
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = Vilalta
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 7 February 1929
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 3–2
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Sportivo Barracas]]'''
+|goals1 = Campabadal {{goal}}{{goal}} <br> A.Garcia {{goal}}
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = Servando Perez (Arg)
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 7 February 1929
+|time = 
+|team1 = '''[[UE Lleida]]'''
+|score = 2–3
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Parera {{goal}}{{goal}}{{goal}}
+|stadium = Lleida
+|location = [[Barcelona]]
+|attendance = 
+|referee = Sola
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 17 March 1929
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 6–1
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Reus Deportiu]]'''
+|goals1 = Tonijuan {{goal}}{{goal}}{{goal}} <br> Hernandez {{goal}}{{goal}}{{goal}}
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = [[Domènec Espelta i Mussons|Espelta]]
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 17 March 1929
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 1–2
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Sportivo Barracas]]'''
+|goals1 = Campabadal {{goal}}
+|goals2 = R.Luna {{goal|16}} {{goal|37}}
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = Comorera
+|result = L
+}}
+{{football box collapsible
+|round = 
+|date = 19 March 1929
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 0–3
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Deportivo Alavés]]'''
+|goals1 = 
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = [[Domènec Espelta i Mussons|Espelta]]
+|result = L
+}}
+{{football box collapsible
+|round = Copa Armengol
+|date = 15 April 1929
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 3–2
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[CE Europa]]'''
+|goals1 = Ramon {{goal}} <br> [[Manuel Buj|Buj]] {{goal}} <br> Traiter {{goal}}
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = Masip
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 17 April 1929
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 5–0
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Vaixell Angles]]'''
+|goals1 = 
+|goals2 = 
+|stadium = Les Corts
+|location = [[Barcelona]]
+|attendance = 
+|referee = Bellamy
+|result = W
+}}
+{{football box collapsible
+|round = Copa Armengol
+|date = 21 April 1929
+|time = 
+|team1 = '''[[CE Europa]]'''
+|score = 3–5
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = 
+|stadium = Europa
+|location = [[Barcelona]]
+|attendance = 
+|referee = Piquera
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 5 May 1929
+|time = 
+|team1 = '''[[UE Figueres]]'''
+|score = 1–5
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Ramon {{goal}} <br> Sastre {{goal}}{{goal}} <br> [[Manuel Buj|Buj]] {{goal}} <br> Sagi {{goal}} 
+|stadium = 
+|location = [[Barcelona]]
+|attendance = 
+|referee = Pujol
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 6 May 1929
+|time = 
+|team1 = '''[[UE Figueres]]'''
+|score = 0–2
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Serra {{goal}} <br> [[Manuel Buj|Buj]] {{goal}} 
+|stadium = 
+|location = [[Barcelona]]
+|attendance = 
+|referee = Pujol
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 12 May 1929
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 2–1
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[Seleccio RCD Espanyol i CE Europa]]'''
+|goals1 = Sastre {{goal}}{{goal}}
+|goals2 =  
+|stadium = 
+|location = [[Barcelona]]
+|attendance = 
+|referee = [[Jesús Arribas Seijas|Arribas]]
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 14 May 1929
+|time = 
+|team1 = '''[[CE Sabadell FC]]'''
+|score = 1–3
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Parera II {{goal}}{{goal}} <br> Sastre {{goal}} 
+|stadium = [[Estadi de la Creu Alta]]
+|location = [[Sabadell]]
+|attendance = 
+|referee = Santore
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 25 May 1929
+|time = 
+|team1 = '''[[CE Manresa]]'''
+|score = 4–3
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Parera II {{goal}} <br> Martinez {{goal}}{{goal}} 
+|stadium = [[Manresa]]
+|location = [[Barcelona]]
+|attendance = 
+|referee = Senal
+|result = L
+}}
+{{football box collapsible
+|round = 
+|date = 30 May 1929
+|time = 
+|team1 = '''[[FC Gràcia]]'''
+|score = 3–2
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Tonijuan {{goal}} <br> Barcelo {{goal}}
+|stadium = Gracia
+|location = [[Barcelona]]
+|attendance = 
+|referee = Dalmau
+|result = L
+}}
+{{football box collapsible
+|round = 
+|date = 30 June 1929
+|time = 
+|team1 = '''[[Terrassa FC]]'''
+|score = 1–2
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Arnau {{goal}} <br> A.Garcia {{goal}}
+|stadium = [[Terrassa]]
+|location = [[Barcelona]]
+|attendance = 
+|referee = Palomera
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 30 June 1929
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 2–2
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Gràcia]]'''
+|goals1 = [[Manuel Buj|Buj]] {{goal|63}} <br> Serra {{goal|80}}
+|goals2 = Castello {{goal|48}}{{goal|?}}
+|stadium = [[Camp de Les Corts|Les Corts]]
+|location = [[Barcelona]]
+|attendance = 
+|referee = Tudo
+|result = D
+}}
+{{football box collapsible
+|round = 
+|date = 7 July 1929
+|time = 
+|team1 = '''[[FC Barcelona]]'''
+|score = 6–2
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[CE Júpiter]]'''
+|goals1 = Arnau {{goal}}{{goal}}{{goal}} <br> Samitier {{goal}}{{goal}} <br> A.Garcia {{goal}}
+|goals2 = 
+|stadium = [[Estadi de Montjuïc]]
+|location = [[Barcelona]]
+|attendance = 
+|referee = [[Domènec Espelta i Mussons|Espelta]]
+|result = W
+}}
+{{football box collapsible
+|round = 
+|date = 21 July 1929
+|time = 
+|team1 = '''[[FC Palafrugell]]'''
+|score = 2–6
+|report = [http://www.webdelcule.com/1899-96/1925-1930.html]
+|team2 = '''[[FC Barcelona]]'''
+|goals1 = 
+|goals2 = Arnau {{goal}}{{goal}}{{goal}} <br> Ramon {{goal}} <br> Sastre {{goal}} <br> Cabanes equip contrari {{goal}}
+|stadium = [[Palafrugell]]
+|location = [[Barcelona]]
+|attendance = 
+|referee = 
+|result = W
+}}
+
+==References==
+*[http://www.bdfutbol.com/t/t1928-29.html BDFutbol]
+*{{usurped|1=[https://web.archive.org/web/20030914021850/http://www.linguasport.com/futbol/nacional/copa/Copa29.htm LinguaSport]}}
+*[http://www.webdelcule.com/partidos/pa1928-29.html Webdelcule.com] {{Webarchive|url=https://web.archive.org/web/20171226183801/http://www.webdelcule.com/partidos/pa1928-29.html |date=2017-12-26 }}
+
+{{FC Barcelona seasons}}
+{{1928–29 in Spanish football}}
+
+{{DEFAULTSORT:1928-29 Barcelona season}}
+[[Category:FC Barcelona seasons]]
+[[Category:Spanish football clubs 1928–29 season|Barcelona]]
+[[Category:Spanish football championship–winning seasons|1929]]
+[[Category:1928 in Catalonia]]
+[[Category:1929 in Catalonia]]

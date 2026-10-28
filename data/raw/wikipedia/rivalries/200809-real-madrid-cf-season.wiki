@@ -1,0 +1,1404 @@
+{{Infobox football club season
+  | club               = [[Real Madrid C.F.|Real Madrid]]
+  | season             = 2008–09
+  | manager            = [[Bernd Schuster]]<br />(until 9 December 2008)<br />[[Juande Ramos]]<br />(from 9 December 2008)
+  | mgrtitle           = Head coach
+  | chairman           = [[Vicente Boluda]]
+  | chrtitle           = President
+  | stadium            = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+  | league             = [[La Liga]]
+  | league result      = [[2008–09 La Liga|2nd]]
+  | cup1               = [[Copa del Rey]]
+  | cup1 result        = [[2008–09 Copa del Rey#Round of 32|Round of 32]]
+  | cup2               = [[Supercopa de España]]
+  | cup2 result        = '''[[2008 Supercopa de España|Winners]]'''
+  | cup3               = [[UEFA Champions League]]
+  | cup3 result        = [[2008–09 UEFA Champions League knockout phase#Round of 16|Round of 16]]
+  | league topscorer   = <br>[[Gonzalo Higuaín]] (22 goals)
+  | season topscorer   = <br>Gonzalo Higuaín<br />[[Raúl (footballer)|Raúl]] (24 each)
+  | highest attendance = 
+  | lowest attendance  = 
+  | largest win        = {{nowrap|Real Madrid 7–1 Sporting Gijón}}
+  | largest loss       = {{nowrap|Real Madrid 2–6 [[FC Barcelona|Barcelona]]}}<br>{{nowrap|[[Liverpool FC|Liverpool]] 4–0 Real Madrid}}
+  | pattern_la1=_rmcf0809h
+  | pattern_b1=_realmadrid0809h
+  | pattern_ra1=_rmcf0809h
+  | pattern_sh1=_adidasblack
+  | pattern_so1=_3_stripes_black
+  | leftarm1=FFFFFF
+  | body1=FFFFFF
+  | rightarm1=FFFFFF
+  | shorts1=FFFFF
+  | socks1=FFFFFF
+  | pattern_la2=_rmcf0809a
+  | pattern_b2=_rmcf0809a
+  | pattern_ra2=_rmcf0809a
+  | pattern_sh2=_adidaswhite
+  | pattern_so2=_3_stripes_white
+  | leftarm2=0000FF
+  | body2=0000FF
+  | rightarm2=0000FF
+  | shorts2=0000FF
+  | socks2=0000FF
+  | pattern_la3=_rmcf0809t
+  | pattern_b3=_rmcf0809t
+  | pattern_ra3=_rmcf0809t                                      
+  | pattern_sh3=_rmcf1415t
+  | pattern_so3=_rmcf1415t
+  | leftarm3=FFFFFF
+  | body3=000000
+  | rightarm3=FFFFFF
+  | shorts3=000000
+  | socks3=000000
+  | prevseason         = [[2007–08 Real Madrid CF season|2007–08]]
+  | nextseason         = [[2009–10 Real Madrid CF season|2009–10]]
+}}
+The '''2008–09 season''' was '''[[Real Madrid C.F.|Real Madrid Club de Fútbol]]''''s 78th season in [[La Liga]]. This article lists all matches that the club played in the 2008–09 season and shows statistics of the club's players.
+
+==Players==
+===Squad information===
+{{fb si header |age=y}}
+
+{{fb si player |bg= |p=[[Iker Casillas]]              |eu=y |nb=ESP |n=1  |pos=GK |age={{age|1981|5|20|2009|05|31}}  |s=1999 |a=468 |g=0  |e=2015 |f=YS   |vc=VC}}
+
+{{fb si player |bg=y |p=[[Jordi Codina]]                 |eu=y |nb=ESP |n=13 |pos=GK |age={{age|1982|4|27|2009|05|31}}  |s=2007 |a=1  |g=0  |e=2010 |f=YS}}
+
+{{fb si player |bg= |p=[[Jerzy Dudek]]                   |eu=y |nb=POL |n=25 |pos=GK |age={{age|1973|3|23|2009|05|31}}  |s=2007 |a=13 |g=0  |e=2009 |f=Free}}
+
+{{fb si player |bg=y |p=[[Fabio Cannavaro]]           |eu=y |nb=ITA |n=5  |pos=DF |age={{age|1973|9|13|2009|05|31}}  |s=2006 |a=110 |g=2  |e=2009 |f=€10M}}
+
+{{fb si player |bg= |p=[[Pepe (footballer, born 1983)|Pepe]]   |eu=y |nb=POR |n=3  |pos=DF |age={{age|1983|2|26|2009|05|31}}  |s=2007 |a=64 |g=0  |e=2017 |f=€30M |notes=Second nationality: Brazil}}
+
+{{fb si player |bg=y |p=[[Christoph Metzelder]]       |eu=y |nb=GER |n=21 |pos=DF |age={{age|1980|11|5|2009|05|31}}  |s=2007 |a=29 |g=0  |e=2010 |f=Free}}
+
+{{fb si player |bg= |p=[[Sergio Ramos]]                        |eu=y |nb=ESP |n=4  |pos=DF |age={{age|1986|3|30|2009|05|31}}  |s=2005 |a=176 |g=22 |e=2021 |f=€27M}}
+
+{{fb si player |bg=y |p=[[Míchel Salgado]]           |eu=y |nb=ESP |n=2  |pos=DF |age={{age|1975|10|22|2009|05|31}} |s=1999 |a=369 |g=5  |e=2009 |f=€11M |vc=VC}}
+
+{{fb si player |bg= |p=[[Miguel Torres Gómez|Miguel Torres]]   |eu=y |nb=ESP |n=22 |pos=DF |age={{age|1986|1|28|2009|05|31}}  |s=2007 |a=67 |g=0  |e=2012 |f=YS}}
+
+{{fb si player |bg=y |p=[[Gabriel Heinze]]               |eu=y |nb=ARG |n=16 |pos=DF |age={{age|1978|4|19|2009|05|31}}  |s=2007 |a=60 |g=3  |e=2011 |f=€12M |notes=Second nationality: Italy}}
+
+{{fb si player |bg= |p=[[Marcelo (footballer, born 1988)|Marcelo]]|eu=n |nb=BRA |n=12 |pos=DF |age={{age|1988|5|12|2009|05|31}}  |s=2007 |a=71 |g=4  |e=2022 |f=€6.5M |tw=w |notes=Second nationality: Spain}}
+
+{{fb si player |bg=y |p=[[Lassana Diarra]]                      |eu=y |nb=FRA |n=6 |pos=MF |age={{age|1986|4|14|2009|05|31}}       |s=2009 |a=21  |g=0 |e=2013 |f=€20M |tw=w|notes= #39 in [[UEFA Champions League|UCL]] Second nationality: Mali}}
+
+{{fb si player |bg= |p=[[Fernando Gago]]                  |eu=y |nb=ARG |n=8  |pos=MF |age={{age|1986|4|10|2009|05|31}}  |s=2007 |a=89 |g=1 |e=2012     |f=€20M |tw=w |notes=Second nationality: Italy}}
+
+{{fb si player |bg=y |p=[[Mahamadou Diarra]]          |eu=y |nb=MLI |n=6  |pos=MF |age={{age|1981|5|18|2009|05|31}}  |s=2006 |a=97 |g=4  |e=2011 |f=€26M}}
+
+{{fb si player |bg= |p=[[Javi García]] |eu=y |nb=ESP |n=24 |pos=MF |age={{age|1987|2|8|2009|05|31}}   |s=2004 |a=21 |g=0  |e=2012 |f=€4M}}
+
+{{fb si player |bg=y |p=[[Rubén de la Red]]           |eu=y |nb=ESP |n=18 |pos=MF |age={{age|1985|6|5|2009|05|31}}   |s=2004 |a=27 |g=3  |e=2011 |f=€4.7M}}
+
+{{fb si player |bg= |p=[[Guti (footballer)|Guti]]            |eu=y |nb=ESP |n=14 |pos=MF |age={{age|1976|10|31|2009|05|31}} |s=1995 |a=506 |g=77 |e=2010 |f=YS  |vc=VC}}
+
+{{fb si player |bg=y |p=[[Dani Parejo]]     |eu=y |nb=ESP |n=17  |pos=MF |age={{age|1989|4|16|2009|05|31}}   |s=2009 |a=5  |g=0 |e=2011 |f=YS |tw=w|notes=Unregistered in [[UEFA Champions League|UCL]]}}
+
+{{fb si player |bg= |p=[[Wesley Sneijder]]            |eu=y |nb=NED |n=10 |pos=MF |age={{age|1984|6|9|2009|05|31}}   |s=2007 |a=64 |g=11  |e=2012 |f=€27M}}
+
+{{fb si player |bg=y |p=[[Rafael van der Vaart]]  |eu=y |nb=NED |n=23   |pos=MF |age={{age|1983|2|11|2009|05|31}}  |s=2008 |a=37  |g=5  |e=2013 |f=€13M}}
+
+{{fb si player |bg= |p=[[Royston Drenthe]]             |eu=y |nb=NED |n=15 |pos=MF |age={{age|1987|4|8|2009|05|31}}   |s=2007 |a=52 |g=4  |e=2012 |f=€13M |notes=Second nationality: Suriname}}
+
+{{fb si player |bg=y |p=[[Julien Faubert]]              |eu=y |nb=FRA |n=18 |pos=MF |age={{age|1983|8|01|2009|05|31}}   |s=2009 |a=2  |g=0 |e=2009 |f=Loan |tw=w |notes=Second nationality: Martinique}}
+
+{{fb si player |bg= |p=[[Arjen Robben]]                 |eu=y |nb=NED |n=11 |pos=FW |age={{age|1984|1|23|2009|05|31}}  |s=2007 |a=64 |g=13 |e=2012 |f=€36M}}
+
+{{fb si player |bg=y |p=[[Gonzalo Higuaín]]             |eu=y |nb=ARG |n=20 |pos=FW |age={{age|1987|12|10|2009|05|31}} |s=2007 |a=72 |g=35 |e=2013 |f=€13M |tw=w|notes=Second nationality: France}}
+
+{{fb si player |bg= |p=[[Raúl (footballer)|Raúl]]                  |eu=y |nb=ESP |n=7  |pos=FW |age={{age|1977|6|27|2009|05|31}}  |s=1994 |a=702 |g=316 |e=2011 |f=YS  |cap=y}}
+
+{{fb si player |bg=y |p=[[Javier Saviola]]              |eu=y |nb=ARG |n=9  |pos=FW |age={{age|1981|12|11|2009|05|31}} |s=2007 |a=38 |g=7  |e=2011 |f=Free|notes=Second nationality: Spain}}
+
+{{fb si player |bg= |p=[[Ruud van Nistelrooy]]  |eu=y |nb=NED |n= 17|pos=FW |age={{age|1976|7|1|2009|05|31}}   |s=2006 |a=93 |g=63 |e=2010 |f=€15M}}
+
+{{fb si player |bg=y |p=[[Klaas-Jan Huntelaar]]       |eu=y |nb=NED |n=19 |pos=FW |age={{age|1983|8|12|2009|05|31}}   |s=2009 |a=19  |g=8 |e=2013 |f=€20M |tw=w}}
+
+{{fb si player |bg= |p=[[Alberto Bueno]]                 |eu=y |nb=ESP |n=28 |pos=FW |age={{age|1988|3|20|2009|05|31}}   |s=2008 |a=5  |g=1  |e=U  |f=YS  }}
+
+{{fb si player |bg=y |p=[[Miquel Palanca]]              |eu=y |nb=ESP |n=35 |pos=FW |age={{age|1987|12|18|2009|05|31}}  |s=2008 |a=3  |g=0  |e=U  |f=YS  }}
+
+{{fb si player |bg= |p=[[Javier Velayos]]|eu=y |nb=ESP |n=27 |pos=DF |age={{age|1987|4|6|2009|05|31}}  |s=2006 |a=0 |g=0  |e=U |f=YS}}
+
+{{fb si player |bg=y  |p=[[Gary Kagelmacher]]               |eu=y |nb=URU |n=36 |pos=CB |age={{age|1988|4|21|2009|05|31}}   |s=2008 |a=1  |g=0  |e=U  |f=YS  |notes=Second nationality: Germany}}
+
+{{fb si player |bg= |p=[[Marcos Tébar]]           |eu=y |nb=ESP |n=35 |pos=FW |age={{age|1986|2|7|2009|05|31}}    |s=2008 |a=1  |g=0  |e=U  |f=YS  }}
+
+{{fb si footer |u=2009-06-01 |c=ESP |ss=2008–09 |o=position on pitch |s=<span class="plainlinks"> Wikipedia players' articles, ESPN (for appearances and goals) and soccer-spain.com (for EU passport) </span>|date=November 2010}}
+
+===In===
+{{fb in2 header}}
+
+{{fb in2 player |tc=ESP |bg=y |p=[[Rafael van der Vaart|van der Vaart]] |type=Transfer |eu=y |nb=NED |n=23 |pos=MF |age={{age|1983|2|11|2008|05|20}} |fcl=[[Hamburger SV]]|fcnat=GER|w=S |e=2013 |f=€13M  |os= [http://www.realmadrid.com/cs/Satellite/es/1202740420958/noticia/ComunicadoOficial/COMUNICADO_OFICIAL_2008-08-04_17:01:23.htm Realmadrid] }}
+
+{{fb in2 player |tc=ESP |bg= |p=[[Javi García]] |type=Transfer  |eu=y |nb=ESP|n=24 |pos=MF |age={{age|1987|2|8|2008|4|29}}  |fcl=[[CA Osasuna|Osasuna]]|fcnat=ESP|w=S |e=2012 |f=€4M
+|os=[https://web.archive.org/web/20080719015310/http://www.realmadrid.com/cs/Satellite/es/1202739309892/noticia/Noticia/Javi_Garcia_vuelve_a_casa.htm Realmadrid]{{0}}Osasuna }}
+
+{{fb in2 player |tc=ESP |bg=y |p=[[Rubén de la Red|de la Red]] |type=Transfer |eu=y |nb=ESP|n=18 |pos=MF |age={{age|1985|6|5|2008|7|15}}  |fcl=[[Getafe CF|Getafe]]|fcnat=ESP|w=S |e=2011 |f=€4.7m |os=[http://www.realmadrid.com/cs/Satellite/es/1202739271817/noticia/Noticia/El_regreso_de_De_la_Red.htm Realmadrid] }}
+
+{{fb in2 player |tc=ESP |bg= |p=[[Ezequiel Garay|Garay]] |type=Transfer |eu=y |nb=ARG |n=— |pos=DF |age={{age|1986|10|10|2008|05|20}}  |fcl=[[Racing de Santander|Racing&nbsp;Santander]]|fcnat=ESP|w=S |f=€10M |e=2014 |os=[http://www.realmadrid.com/cs/Satellite/es/1202736804420/noticia/Noticia/COMUNICADO_OFICIAL_2008-05-20.htm Realmadrid] }}
+
+{{fb in2 player |tc=ESP |bg=y  |p=[[Adrián González Morales|Adrián]] |type=Loan Return  |eu=y |nb=ESP |n=— |pos=MF |age={{age|1988|5|25|2008|05|20}} |fcl=[[Gimnàstic de Tarragona|Gimnàstic]]|fcnat=ESP|w=S |e=U |f=n/a  
+|os= }}
+
+{{fb in2 player |tc=ESP |bg= |p=[[Pablo Gabriel García|García]] |type=Loan Return |eu=y |nb=URY |n=— |pos=MF |age={{age|1977|5|11|2008|05|20}} |fcl=[[Real Murcia|Murcia]]|fcnat=ESP|w=S |e=U |f=n/a   |os=}}
+
+{{fb in2 player |tc=ESP |bg=y  |p=[[Agus (footballer)|Agus]] |type=Loan Return |eu=y |nb=ESP|n=— |pos=DF |age={{age|1985|5|3|2008|05|30}} |fcl=[[Celta de Vigo]]|fcnat=ESP|w=S |e=U |f=n/a  
+|os=}}
+
+{{fb in2 player |tc=ESP |bg= |p=[[Esteban Granero|Granero]]|type=Loan Return |eu=y |nb=ESP |n=— |pos=MF |age={{age|1987|7|2|2008|05|30}} |fcl=[[Getafe CF|Getafe]]|fcnat=ESP|w=S |e=U |f=n/a |os=}}
+
+{{fb in2 player |tc=ESP |bg=y |p=[[Klaas-Jan Huntelaar|Huntelaar]]|type=Transfer |eu=y |nb=NED |n=19 |pos=FW |age={{age|1983|8|12|2008|12|04}} |fcl=[[AFC Ajax|Ajax]]|fcnat=NED|w=W |e=2013 |f=€20M |os= [http://www.realmadrid.com/cs/Satellite/es/Real_Madrid_C.F._-_Web_Oficial_%7C_Official_Web_Site/1193040472416/1202756738157/noticia/ComunicadoOficial/HUNTELAAR.htm Realmadrid] }}
+
+{{fb in2 player |tc=ESP |bg= |p=[[Lassana Diarra|Lass]]|type=Transfer |eu=y |nb=FRA |n=6 |pos=MF |age={{age|1985|3|10|2008|12|21}} |fcl=[[Portsmouth F.C.|Portsmouth]]|fcnat=ENG|w=W |e=2013 |f=€20M |os=[http://www.realmadrid.com/cs/Satellite/es/1202758287055/noticia/Noticia/Lass_ya_tiene_su_camiseta.htm Realmadrid] }}
+
+{{fb in2 player |tc=ESP |bg=y |p=[[Dani Parejo|Parejo]]|type=Loan Return |eu=y |nb=ESP |n=17 |pos=MF |age={{age|1989|4|16|2008|12|21}} |fcl=[[Queens Park Rangers F.C.|Queens Park Rangers]]|fcnat=ENG|w=W |e=2017 |f= |os= [http://www.realmadrid.com/cs/Satellite/es/Real_Madrid_C.F._-_Web_Oficial_%7C_Official_Web_Site/1193040472416/1202757905974/noticia/ComunicadoOficial/PAREJO.htm Realmadrid] }}
+
+{{fb in2 player |tc=ESP |bg= |p=[[Julien Faubert|Faubert]]|type=Loan |eu=y |nb=FRA |n=18 |pos=MF |age={{age|1983|8|01|2009|01|31}} |fcl=[[West Ham United F.C.|West Ham United]]|fcnat=ENG|w=W |e=2009 |f=Loan |os=[http://www.realmadrid.com/cs/Satellite/es/1202758287055/noticia/Noticia/Lass_ya_tiene_su_camiseta.htm Realmadrid] }}
+
+{{fb in footer|date=November 2010}}
+
+Total spending: {{loss}} €71.7 million
+
+===Out===
+{{fb out2 header }}
+
+{{fb out2 player |tc=ESP |bg= |type=Loaned Out |p=[[Dani Parejo|Parejo]]
+|eu=y |nb=ESP |n=— |pos=AM |age={{age|1989|4|16|2008|8|3}} |ncl=[[Queens Park Rangers F.C.|Queens Park Rangers]]|ncnat=ENG|w=S |f=n/a |os=[http://www.realmadrid.com/cs/Satellite/en/1202740393245/noticia/ComunicadoOficial/Official_Announcement.htm Realmadrid]}}
+
+{{fb out2 player |tc=ESP |bg=y |type=Loaned Out |p=[[Ezequiel Garay|Garay]]
+|eu=y |nb=ARG |n=— |pos=DF |age={{age|1986|10|10|2008|5|20}}|ncl=[[Racing de Santander|Racing&nbsp;Santander]]|ncnat=ESP|w=S |f=n/a  |os=[http://www.realmadrid.com/cs/Satellite/es/1202736804420/noticia/Noticia/COMUNICADO_OFICIAL_2008-05-20.htm Realmadrid] }}
+
+{{fb out2 player |tc=ESP |bg= |type=Transfer   |p=[[Adrián González Morales|Adrián]]
+|eu=y |nb=ESP |n=— |pos=MF |age={{age|1988|5|25|2008|6|25}} |ncl=[[Getafe CF|Getafe]]|ncnat=ESP|w=S |f=€2.2M
+|os=[http://www.getafecf.com/index.php?option=com_content&task=view&id=934&Itemid=22 Getafecf] }}
+
+{{fb out2 player |tc=ESP |bg=y |type=Transfer  |p=[[Antonio Cassano|Cassano]]
+|eu=y |nb=ITA |n=18 |pos=FW |age={{age|1982|7|12|2008|5|30}} |ncl=[[U.C. Sampdoria|Sampdoria]]|ncnat=ITA|w=S |f=Free
+|os=[http://www.realmadrid.com/cs/Satellite/es/1202737331121/noticia/Noticia/COMUNICADO_OFICIAL_2008-05-30.htm Realmadrid] }}
+
+{{fb out2 player |tc=ESP |bg= |type=Transfer    |p=[[Javier Balboa|Balboa]]
+|eu=y |nb=EQG |n=24|pos=MF |age={{age|1985|5|13|2008|6|25}} |ncl=[[S.L. Benfica|Benfica]]|ncnat=POR|w=S |f=€4.5M
+|os=[https://web.archive.org/web/20080628092008/http://www.realmadrid.com/cs/Satellite/es/1202738656253/noticia/Noticia/Balboa_ficha_por_el_Benfica.htm Realmadrid]{{0}}Benfica }}
+
+{{fb out2 player |tc=ESP |bg=y |type=Transfer    |p=[[Esteban Granero|Granero]]
+|eu=y |nb=ESP |n=— |pos=MF |age={{age|1987|7|2|2008|05|30}} |ncl=[[Getafe CF|Getafe]]|ncnat=ESP|w=S |f=€5M|os=[https://web.archive.org/web/20080719082057/http://www.realmadrid.com/cs/Satellite/es/1202739237223/noticia/Noticia/Esteban_Granero,_al_Getafe.htm Realmadrid]{{0}}Getafecf }}
+
+{{fb out2 player |tc=ESP |bg= |type=Transfer    |p=[[Roberto Soldado|Soldado]]
+|eu=y |nb=ESP |n=9 |pos=ST |age={{age|1985|5|27|2008|07|29}} |ncl=[[Getafe CF|Getafe]]|ncnat=ESP|w=S |f=€4M|os=[http://www.realmadrid.com/cs/Satellite/es/1202740063739/noticia/ComunicadoOficial/Comunicado_oficial.htm Realmadrid]}}
+
+{{fb out2 player |tc=ESP |bg=y |type=Transfer    |p=[[Júlio Baptista|J. Baptista]]
+|eu=y |nb=BRA |n=19 |pos=MF |age={{age|1981|10|1|2008|08|14}} |ncl=[[A.S. Roma|Roma]]|ncnat=ITA|w=S |f=€12M|os=[https://web.archive.org/web/20080820030546/http://www.realmadrid.com/cs/Satellite/es/1202740862418/noticia/ComunicadoOficial/Comunicado_oficial.htm Realmadrid]{{0}}ASRoma}}
+
+{{fb out2 player |tc=ESP |bg= |type=Transfer    |p=[[Robinho]]
+|eu=n |nb=BRA |n=10 |pos=LW |age={{age|1984|1|25|2008|9|1}} |ncl=[[Manchester City F.C.|Manchester City]]|ncnat=ENG|w=S |f=€42M|os=[https://web.archive.org/web/20090101035031/http://www.realmadrid.com/cs/Satellite/es/1202741575962/noticia/ComunicadoOficial/Comunicado_oficial.htm Realmadrid]{{0}}mcfc.co.uk}}
+
+{{fb out2 player |tc=ESP |bg=y |type=End of contract |p=[[Pablo Gabriel García|García]]
+|eu=y |nb=URY |n=— |pos=MF |age={{age|1977|5|11|2008|7|10}} |ncl=[[PAOK FC|PAOK]]|ncnat=GRE|w=S |f=Free
+|os=[http://www.realmadrid.com/cs/Satellite/es/1202739129779/noticia/ComunicadoOficial/COMUNICADO_OFICIAL_2008-07-10.htm Realmadrid]}}
+
+{{fb out2 footer |u=2008-09-01 |ss=2008 |date=November 2010}}
+
+Total income: {{gain}} €69.7 million
+
+==Club==
+===Coaching staff===<!-- as called by Real Madrid -->
+<!-- Image with unknown copyright status removed: [[Image:Real Madrid Squad 08-09.jpg|230px|upright|thumb|Real Madrid 2008–09 Squad {{deletable image-caption}}]] -->
+
+{{Fb cs header}}
+{{Fb cs staff |bg= |p=Head coach        |s={{flagicon|ESP}} [[Juande Ramos]]  }}
+{{Fb cs staff |bg=y |p=Assistant coach   |s={{flagicon|ESP}} Marcos Álvarez     }}
+{{Fb cs staff |bg= |p=Physical trainer  |s={{flagicon|ITA}} [[Valter di Salvo]] }}
+{{Fb cs staff |bg=y |p=Fitness coach     |s={{flagicon|ESP}} [[Jordi García (coach)|Jordi García]]    }}
+{{Fb cs staff |bg= |p=Goalkeepers coach |s={{flagicon|ESP}} [[Pedro Luis Jaro]] }}
+{{Fb cs footer||s=[http://www.realmadrid.com/cs/Satellite/es/1193040475259/Plantilla/1193040475259.htm Real'''madrid'''.com], El club más laureado del mundo and realmadridfans|date=June 2008}}
+
+===Kits===
+{{Fb_kit_header |su=[[Adidas]] |sp=[[bwin]] }}
+|{{Football kit |
+| pattern_la=_rmcf0809h|pattern_b=_realmadrid0809h|pattern_ra=_rmcf0809h|pattern_sh =_adidasblack|pattern_so=_3_stripes_black  | leftarm=000000|body=FFFFFF|rightarm=000000|shorts=FFFFFF|socks=FFFFFF|title=Home }}
+|{{Football kit | pattern_la=_rmcf0809a|pattern_b=_rmcf0809a|pattern_ra=_rmcf0809a| pattern_sh =_adidaswhite|pattern_so=_3_stripes_white 
+|leftarm=0000FF|body=0000FF|rightarm=0000FF|shorts=0000FF|socks=0000FF|title=Away }} 
+|{{Football kit | pattern_la=_rmcf0809t|pattern_b=_rmcf0809t|pattern_ra=_rmcf0809t|pattern_sh=_rmcf1415t|pattern_so=_rmcf1415t|leftarm=FFFFFF|body=000000|rightarm=FFFFFF|shorts=000000|socks=000000|title=Third Kit }}
+
+{{Fb_kit_footer |s= {{cite web | title = Nueva equipación para los Campeones | url = http://www.realmadrid.com/cs/Satellite/es/Primer_Equipo/1193040472446/1202736538194/noticia/Noticia/Nueva_equipacion_para_los_Campeones.htm | publisher = Real Madrid C.F. | access-date = 19 July 2008 | archive-url = https://web.archive.org/web/20080706231201/http://www.realmadrid.com/cs/Satellite/es/Primer_Equipo/1193040472446/1202736538194/noticia/Noticia/Nueva_equipacion_para_los_Campeones.htm | archive-date = 6 July 2008 | url-status = dead | df = dmy-all }}
+<br />{{cite web | title = Real Madrid's current kit | url = http://www.adidas.com/es/campaigns/rmadrid/content/RM_0809.asp | publisher = Adidas.com | access-date = 19 July 2008 | archive-url = https://web.archive.org/web/20080718221126/http://www.adidas.com/es/campaigns/rmadrid/content/RM_0809.asp | archive-date = 18 July 2008 | url-status = dead | df = dmy-all }} |date=November 2010}}
+
+===Other information===
+{{fb oi header}}
+
+{{fb oi information |bg= |id=President               |i={{flagicon|Spain}} [[Vicente Boluda]] }}
+
+{{fb oi information |bg=y |id=Honorary Life President |i={{flagicon|Argentina}} {{flagicon|COL}} {{flagicon|Spain}} [[Alfredo Di Stéfano]] }}
+
+{{fb oi information |bg= |id=Vice-president          |i={{flagicon|Spain}} [[José Ignacio Rivero Pradera|José Ignacio Rivero]] }}
+
+{{fb oi information |bg= |id=Vice-president          |i={{flagicon|Spain}} [[Amador Suárez]]}}
+
+{{fb oi information |bg=y |id=Secretary of the Board  |i={{flagicon|Spain}} [[José Manuel Serrano|Manuel Serrano]]}}
+
+{{fb oi information |bg= |id=Director of football    |i={{flagicon|Montenegro}} [[Predrag Mijatović]] }}
+
+{{fb oi information |bg=y |id=Technical Secretary     |i={{flagicon|Spain}} [[:es:Miguel Ángel Portugal|Miguel Ángel Portugal]] }}
+
+{{fb oi information |bg= |id={{Fb oi ground}}        |i={{Fb oi ground|g=[[Santiago Bernabéu Stadium|Santiago Bernabéu]]|c=80,400|d=107x72m}} }}
+
+{{fb oi information |bg=y |id=Budget |i=€351.8M }}
+
+{{fb oi footer||s=[http://www.realmadrid.com/cs/Satellite/en/Club/1193041516782/EstructuraOrganizativa/Organogram.htm Board of Directors (Realmadrid)], El club más laureado del mundo,
+[[Santiago Bernabéu Stadium]] and 
+Real Madrid closes the best year in its history|date=June 2008}}
+
+==Competitions==
+===La Liga===
+{{main|2008–09 La Liga}}
+
+====League table====
+{{:2008–09 La Liga|showteam=RMA}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/A/H/A
+|label2= Result
+| res2=L/W/W/W/W/D/W/W/D/W/L/W/L/L/L/W/W/W/W/W/W/W/W/W/W/D/W/W/W/W/W/W/W/L/L/L/L/L
+|label3= Position
+| res3=13/8/6/3/3/5/5/3/3/4/4/2/4/5/6/5/3/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2/2
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_18-=red1
+
+|updated=2009-06-01 
+|source=[[#Competitive|Competitive Matches]] 
+|date=November 2010
+}}
+
+====Matches====
+{{football box collapsible
+|date   = 31 August 2008
+|round  = 1
+|stadium = [[Estadio Riazor]]
+|location=[[A Coruña]]
+|score  = 2–1
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 34,600<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo536779.htm |title=Deportivo 2 – 1 Real Madrid | date=31 August 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[César Muñiz Fernández|Muñiz Fernández]]
+|team1  = [[Deportivo de La Coruña|Deportivo&nbsp;La&nbsp;Coruña]]
+|team2  = Real Madrid 
+|goals1 = {{goal|26}} [[Mista (footballer)|Mista]]<br />{{goal|51}} [[Alberto Lopo|Lopo]]
+|goals2 = {{goal|47}} [[Ruud van Nistelrooy|van Nistelrooy]]
+|report = http://www.realmadrid.com/cs/Satellite/es/1202741473312/noticia/Cronica/Comienzo_con_derrota.htm
+|result=L       
+}}
+{{football box collapsible
+|date   = 14 September 2008
+|round  = 2
+|stadium = [[Estadio Santiago Bernabéu]]
+|location=[[Madrid]]
+|score  = 4–3
+|time  = 19:00 [[Central European Time|CET]]
+|attendance = 76,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo541523.htm |title=Real Madrid 4 – 3 CD Numancia | date=14 September 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 | archive-url= https://web.archive.org/web/20090503115909/http://www.terra.es/deportes/articulo/html/dpo541523.htm| archive-date= 3 May 2009| url-status= live}}</ref>
+|referee = [[José Luis Paradas Romero|Paradas Romero]]
+|team1  = Real Madrid 
+|team2  = [[CD Numancia|Numancia]]
+|goals1 = {{goal|19}} [[Guti (footballer)|Guti]]<br />{{goal|25}} [[Gonzalo Higuaín|Higuaín]]<br />{{goal|33}} [[Rafael van der Vaart|van der Vaart]]<br />{{goal|40|o.g.}} [[Domingo Cisma|Cisma]]
+|goals2 = {{goal|6||56}} [[Juan Carlos Moreno (Spanish footballer)|Moreno]]<br />{{goal|22}} [[José Barkero|Barkero]]
+|report = http://www.realmadrid.com/cs/Satellite/en/1202742025270/noticia/Cronica/Real_Madrid_4-3_Numancia.htm
+|result=W       
+}}
+{{football box collapsible
+|date   = 21 September 2008
+|round  = 3
+|location=[[Santander, Spain|Santander]]
+|stadium = [[Estadio El Sardinero]]
+|score  = 0–2
+|time  = 19:00 [[Central European Time|CET]]
+|attendance = 22,200<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo543919.htm |title=Racing Santander 0–2 Real Madrid | date=21 September 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[Miguel Ángel Pérez Lasa|Pérez Lasa]]
+|team1  = [[Racing de Santander|Racing&nbsp;Santander]]
+|team2  = [[Real Madrid C.F.|Real&nbsp;Madrid]]
+|goals1 = 
+|goals2 = {{goal|53}} [[Rubén de la Red|de la Red]]<br />{{goal|73}} [[Ruud van Nistelrooy|van Nistelrooy]]
+|report = http://www.realmadrid.com/cs/Satellite/es/1202742466009/noticia/Cronica/Racing_0-2_R.Madrid.htm
+|result=W
+}}
+{{football box collapsible
+|date   = 24 September 2008
+|round=4
+|stadium = [[Estadio Santiago Bernabéu]]
+|location=[[Madrid]]
+|score  = 7–1
+|time  = 22:03 [[Central European Time|CET]]
+|attendance = 68,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo544961.htm |title=Real Madrid 7–1 Sporting Gijón | date=24 September 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 | archive-url= https://web.archive.org/web/20090503121940/http://www.terra.es/deportes/articulo/html/dpo544961.htm| archive-date= 3 May 2009| url-status= live}}</ref>
+|referee = [[Julián Rodríguez Santiago|Rodríguez Santiago]]
+|team1  = [[Real Madrid C.F.|Real&nbsp;Madrid]]
+|team2  = [[Sporting de Gijón|Sporting Gijón]]
+|goals1 = {{goal|17||32||46}} [[Rafael van der Vaart|van der Vaart]]<br />{{goal|36}} [[Gonzalo Higuaín|Higuaín]]<br />{{goal|50}} [[Arjen Robben|Robben]] <br />{{goal|58||63}} [[Raúl (footballer)|Raúl]]
+|goals2 = {{goal|53}} [[Kike Mateo|Mateo]]
+|report =http://www.realmadrid.com/cs/Satellite/es/1202742621716/noticia/Cronica/Noche_de_fiesta.htm 
+|result=W       
+}}
+{{football box collapsible
+|date   = 27 September 2008
+|round  = 5
+|stadium = [[Estadio Manuel Ruiz de Lopera]]
+|location=[[Sevilla]]
+|score  = 1–2
+|time  = 20:00 [[Central European Time|CET]]
+|attendance = 49,500<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo545989.htm |title=Real Betis 1–2 Real Madrid | date=27 September 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[Fernando Teixeira Vitienes|Teixeira Vitienes]]
+|team1  = [[Real Betis|Betis]]
+|team2  = Real Madrid 
+|goals1 = {{goal|54}} [[Sergio García (footballer, born 1983)|García]]
+|goals2 = {{goal|18}} [[Gabriel Heinze|Heinze]]<br/>{{goal|90+1}} [[Ruud van Nistelrooy|van Nistelrooy]]
+|report =http://www.realmadrid.com/cs/Satellite/es/1202742808133/noticia/Cronica/Betis_1–2_Madrid.htm
+|result=W 
+}}
+{{football box collapsible
+|date   = 5 October 2008
+|round  = 6
+|stadium = [[Estadio Santiago Bernabéu]]
+|location=[[Madrid]]
+|score  = 2–2
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 72,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo548603.htm |title=Real Madrid 2 – 2 RCD Espanyol | date=5 October 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 | archive-url= https://web.archive.org/web/20090514152029/http://www.terra.es/deportes/articulo/html/dpo548603.htm| archive-date= 14 May 2009| url-status= live}}</ref>
+|referee = [[Alfonso Pérez Burrull|Pérez Burrull]]
+|team1  = Real Madrid 
+|team2  = [[RCD Espanyol|Espanyol]]
+|goals1 = {{goal|24}} [[Raúl (footballer)|Raúl]]<br />{{goal|44}} [[Raúl (footballer)|Raúl]]
+|goals2 = {{goal|20|pen.}} [[Raúl Tamudo|Tamudo]]<br />{{goal|31}} [[Luis García (footballer, born 1981)|García]]
+|motm= [[Raúl (footballer)|Raúl]]
+|report = http://www.realmadrid.com/cs/Satellite/es/1202743350933/noticia/Cronica/Tablas_en_el_Bernabeu.htm
+|result=D       
+}}
+{{football box collapsible
+|date   = 18 October 2008
+|round  = 7
+|stadium = [[Vicente Calderón Stadium]]
+|location=[[Madrid]]
+|score  = 1–2
+|time  = 20:00 [[Central European Time|CET]]
+|attendance = 54,800<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo553216.htm |title=Atlético Madrid 1 – 2 Real Madrid | date=18 September 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 | archive-url= https://web.archive.org/web/20090505150016/http://www.terra.es/deportes/articulo/html/dpo553216.htm| archive-date= 5 May 2009| url-status= live}}</ref>
+|referee = [[Carlos Clos Gómez|Clos Gómez]]
+|team1  = [[Atlético Madrid|Atlético&nbsp;Madrid]]
+|team2  = Real Madrid
+|goals1 = {{goal|89}} [[Simão Sabrosa|Simão]]
+|goals2 = {{goal|1}} [[Ruud van Nistelrooy|van Nistelrooy]]<br />{{goal|90+6|pen.}} [[Gonzalo Higuaín|Higuaín]]
+|report = http://www.realmadrid.com/cs/Satellite/es/1202744892567/noticia/Cronica/Emocion_hasta_el_final.htm
+|result=W       
+}}
+{{football box collapsible
+|date   = 26 October 2008
+|round  = 8
+|location=[[Madrid]]
+|stadium = [[Estadio Santiago Bernabéu]]
+|score  = 3–2
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 78,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo555937.htm |title=Real Madrid 3 – 2 Athletic Bilbao | date=18 September 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 | archive-url= https://web.archive.org/web/20090503115949/http://www.terra.es/deportes/articulo/html/dpo555937.htm| archive-date= 3 May 2009| url-status= live}}</ref>
+|referee = [[Alfonso Álvarez Izquierdo|Álvarez Izquierdo]]
+|team1  = Real Madrid 
+|team2  = [[Athletic Bilbao|Athletic&nbsp;Bilbao]]
+|goals1 = {{goal|12}} [[Wesley Sneijder|Sneijder]]<br />{{goal|28}} [[Gonzalo Higuaín|Higuaín]]<br />{{goal|59}} [[Gonzalo Higuaín|Higuaín]]
+|goals2 = {{goal|34}} [[Joseba Etxeberria|Etxeberria]]<br />{{goal|44|pen.}} [[Andoni Iraola|Iraola]]
+|report = http://www.realmadrid.com/cs/Satellite/es/1202753269632/noticia/Cronica/Dulce_regreso_a_la_Liga.htm
+|result=W       
+}}
+{{football box collapsible
+|date   = 2 November 2008
+|round  = 9
+|location=[[Almería]]
+|stadium = [[Estadio de los Juegos Mediterráneos]]
+|score  = 1–1 
+|time  = 19:00 [[Central European Time|CET]]
+|attendance = 17,820<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo558261.htm |title=UD Almería 1 – 1 Real Madrid | date=2 November 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 | archive-url= https://web.archive.org/web/20090503125734/http://www.terra.es/deportes/articulo/html/dpo558261.htm| archive-date= 3 May 2009| url-status= live}}</ref>
+|referee = [[Bernardino González Vázquez|González Vázquez]]
+|team1  = [[UD Almería|Almería]]
+|team2  = Real Madrid 
+|goals1 = {{goal|81}} [[Pablo Piatti|Piatti]]
+|goals2 = {{goal|37}} [[Raúl (footballer)|Raúl]]
+|report = http://www.realmadrid.com/cs/Satellite/es/1202753888640/noticia/Cronica/Tablas_en_el_Mediterraneo.htm
+|result=D       
+}}
+{{football box collapsible
+|date   = 8 November 2008
+|round  = 10
+|location=[[Madrid]]
+|stadium = [[Estadio Santiago Bernabéu]]
+|score  = 4–3 
+|time  = 20:00 [[Central European Time|CET]]
+|attendance = 72,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo560378.htm |title=Real Madrid 4 – 3 Málaga CF | date=8 November 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[Eduardo Iturralde González|Iturralde González]]
+|team1  = Real Madrid 
+|team2  = [[Málaga CF|Málaga]]
+|goals1 = {{goal|8||37|pen.|70||77}} [[Gonzalo Higuaín|Higuaín]]
+|goals2 = {{goal|6}} [[Eliseu]]<br />{{goal|17}} [[Nabil Baha|Baha]]<br />{{goal|69|pen.}} [[Apoño]]
+|report = http://www.realmadrid.com/cs/Satellite/es/1202754463930/noticia/Cronica/Higuain_se_doctora_en_el_Bernabeu.htm
+|result=W       
+}}
+{{football box collapsible
+|date   = 15 November 2008
+|round  = 11
+|location=[[Valladolid]]
+|stadium = [[Estadio José Zorrilla]]
+|score  = 1–0
+|time  = 20:00 [[Central European Time|CET]]
+|attendance = 21,097<ref>{{cite web |url=http://www.realvalladolid.es/competiciones/verpartido/106/ |title=Real Valladolid 1 – 0 Real Madrid | date=15 November 2008 |website=[[Real Valladolid|Realvalladolid.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[David Fernández Borbalán|Fernández Borbalán]]
+|team1  = [[Real Valladolid|Valladolid]]
+|team2  = Real Madrid
+|goals1 = {{goal|48}} [[Fabián Canobbio|Canobbio]]
+|goals2 = 
+|report = http://www.realmadrid.com/cs/Satellite/es/1202755107488/noticia/Cronica/Asenjo,_heroe_en_Valladolid.htm
+|result=L
+}}
+{{football box collapsible
+|date= 22 November 2008
+|round= 12
+|stadium= [[Estadio Santiago Bernabéu]]
+|location= [[Madrid]]
+|score  = 1–0 
+|time  = 20:00 [[Central European Time|CET]]
+|attendance = 74,400<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo565222.htm |title=Real Madrid 1 – 0 Recreativo | date=22 November 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[César Muñiz Fernández|Muñiz Fernández]]
+|team1  = Real Madrid 
+|team2  = [[Recreativo de Huelva|Recreativo]]
+|goals1 = {{goal|39}} [[Wesley Sneijder|Sneijder]]
+|goals2 = 
+|report = http://www.realmadrid.com/cs/Satellite/es/1202755775927/noticia/Cronica/Comoda_victoria_ante_el_Decano.htm
+|result=W       
+}}
+{{football box collapsible
+|date   = 29 November 2008
+|round  = 13
+|stadium = [[Coliseum Alfonso Pérez]]
+|location  = [[Getafe]]
+|score  = 3–1 
+|time  = 20:00 [[Central European Time|CET]]
+|attendance = 12,750<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo567559.htm |title=Getafe CF 3 – 1 Real Madrid | date=29 November 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[Alfonso Pérez Burrull|Pérez Burrull]]
+|team1  = [[Getafe CF|Getafe]]
+|team2  = Real Madrid 
+|goals1 = {{goal|2||47}} [[Juan Ángel Albín|Albín]]<br />{{goal|83}} [[Ikechukwu Uche|Uche]]
+|goals2 = {{goal|54}} [[Javier Saviola|Saviola]]
+|report = http://www.realmadrid.com/cs/Satellite/es/1193040475234/1202756409217/noticia/Cronica/Getafe_3-1_Real_Madrid.htm
+|result=L       
+}}
+{{football box collapsible
+|date   = 7 December 2008
+|round  = 14
+|location=[[Madrid]]
+|stadium = [[Estadio Santiago Bernabéu]]
+|score  = 3–4 
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 68,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo570248.htm |title=Real Madrid 3 – 4 Sevilla FC | date=7 December 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[González Vázquez]]
+|team1  = [[Real Madrid C.F.|Real&nbsp;Madrid]]
+|team2  = [[Sevilla FC|Sevilla]]
+|goals1 = {{goal|19}} [[Raúl (footballer)|Raúl]]<br />{{goal|69}} [[Gonzalo Higuaín|Higuaín]]<br />{{goal|71}} [[Fernando Gago|Gago]]
+|goals2 = {{goal|3}} [[Adriano (footballer, born 1984)|Adriano]]<br />{{goal|22}} [[Romaric (footballer)|Romaric]]<br />{{goal|39}} [[Frédéric Kanouté|Kanouté]]<br />{{goal|85}} [[Renato (footballer, born 1979)|Renato]]
+|report = http://www.realmadrid.com/cs/Satellite/en/1202817745826/1202757180081/noticia/Cronica/Great_effort_goes_unrewarded.htm
+|result=L
+}}
+{{football box collapsible
+|date   = 14 December 2008
+|round  = 15
+|stadium = [[Camp Nou]]
+|location  = [[Barcelona]]
+|score  = 2–0 
+|time  = 22:00 [[Central European Time|CET]]
+|attendance = 96,059
+|referee = [[Luis Medina Cantalejo|Medina Cantalejo]]
+|team1  = [[FC Barcelona|Barcelona]]
+|team2  = Real Madrid 
+|goals1 = {{goal|82}} [[Samuel Eto'o|Eto'o]]<br />{{goal|90}} [[Lionel Messi|Messi]]
+|goals2 = 
+|report = http://www.realmadrid.com/cs/Satellite/en/1202817745826/1202757626575/noticia/Cronica/Tough_battle_ends_in_bitter_defeat.htm
+|result=L
+}}
+{{football box collapsible
+|date   = 20 December 2008
+|round  = 16
+|stadium = [[Estadio Santiago Bernabéu]]
+|location  = [[Madrid]]
+|score  = 1–0 
+|time  = 20:00 [[Central European Time|CET]]
+|attendance = 72,000
+|referee = [[Rafael Ramírez Domínguez|Ramírez Domínguez]]
+|team1  =Real Madrid 
+|team2  =[[Valencia CF|Valencia]]
+|goals1 = {{goal|3}} [[Gonzalo Higuaín|Higuaín]]
+|goals2 = 
+|report = http://www.realmadrid.com/cs/Satellite/en/1202817745826/1202758131061/noticia/Cronica/The_comeback_begins.htm
+|result=W
+}}
+{{football box collapsible
+|date   = 4 January 2009
+|round  = 17
+|stadium = [[Estadio Santiago Bernabéu]]
+|location  = [[Madrid]]
+|score  = 1–0 
+|time  = 17:00 [[Central European Time|CET]]
+|attendance = 79,500
+|referee = [[Manuel Mejuto González|Mejuto González]]
+|team1  = Real Madrid 
+|team2  =[[Villarreal CF|Villarreal]]
+|goals1 = {{goal|32}} [[Arjen Robben|Robben]]
+|goals2 = 
+|report = http://www.realmadrid.com/cs/Satellite/en/1202817745826/1202758745890/noticia/Cronica/La_Liga_is_still_in_sight.htm
+|result=W       
+}}
+{{football box collapsible
+|date   = 11 January 2009
+|round  = 18
+|stadium = [[Son Moix]]
+|location  = [[Mallorca]]
+|score  = 0–3
+|time  = 17:00 [[Central European Time|CET]]
+|attendance = 19,635
+|referee = [[Alberto Undiano Mallenco|Undiano Mallenco]]
+|team1  = [[RCD Mallorca|Mallorca]]
+|team2  = Real Madrid 
+|goals1 = 
+|goals2 = {{goal|3}} [[Arjen Robben|Robben]]<br />{{goal|17}} [[Raúl (footballer)|Raúl]]<br />{{goal|66}} [[Sergio Ramos|Ramos]] 
+|report = http://www.realmadrid.com/cs/Satellite/en/1202817745826/1202759301573/noticia/Cronica/Third_consecutive_victory.htm
+|result=W
+}}
+{{football box collapsible
+|date   = 18 January 2009
+|round  = 19
+|location=[[Madrid]]
+|stadium = [[Estadio Santiago Bernabéu]]
+|score  = 3–1 
+|time  = 17:00 [[Central European Time|CET]]
+|attendance = 73,000
+|referee = [[Alfonso Pérez Burrull|Pérez Burrull]]
+|team1  = Real Madrid 
+|team2  = [[CA Osasuna|Osasuna]]
+|goals1 = {{goal|50}} [[Sergio Ramos|Ramos]]<br />{{goal|63}} [[Gonzalo Higuaín|Higuaín]]<br />{{goal|90+2}} [[Arjen Robben|Robben]]
+|goals2 = {{goal|20}} [[Javad Nekounam|Nekounam]]
+|result=W
+|report = http://www.realmadrid.com/cs/Satellite/en/1202817745826/1202759856955/noticia/Cronica/Make_it_four_straight.htm
+}}
+{{football box collapsible
+|date   = 25 January 2009
+|round  = 20
+|location=[[Madrid]]
+|stadium = [[Estadio Santiago Bernabéu]]
+|score  = 1–0
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 68,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo584212.htm |title=Real Madrid 1–0 Deportivo | date=25 January 2009 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[Fernando Teixeira Vitienes|Teixeira Vitienes]]
+|team1  = Real Madrid 
+|team2  = [[Deportivo de La Coruña|Deportivo&nbsp;La&nbsp;Coruña]]
+|goals1 = {{goal|39}} [[Raúl (footballer)|Raúl]]
+|goals2 = 
+|report = http://www.realmadrid.com/cs/Satellite/en/1202817745826/1202760531737/noticia/Cronic/Fifth_consecutive_victory_2009-01-26.htm
+|result=W
+}}
+{{football box collapsible
+|date   = 31 January 2009
+|round  = 21
+|stadium = [[Nuevo Estadio Los Pajaritos]]
+|location=[[Soria]]
+|score  = 0–2 
+|time  = 22:00 [[Central European Time|CET]]
+|attendance = 7,500
+|referee = 
+|team1  = [[CD Numancia|Numancia]]
+|team2  = Real Madrid
+|goals1 = 
+|goals2 = 
+|result = W
+}}
+{{football box collapsible
+|date   = 8 February 2009
+|round  = 22
+|stadium = [[Estadio Santiago Bernabéu]]
+|location  = [[Madrid]]
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 76,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo588537.htm |title=Real Madrid 1–0 Racing Santander| date=8 February 2009 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 | archive-url= https://web.archive.org/web/20090514042348/http://terra.es/deportes/articulo/html/dpo588537.htm| archive-date= 14 May 2009| url-status= live}}</ref>
+|referee = [[Carlos Clos Gómez]]
+|team1  = Real Madrid 
+|team2  = [[Racing de Santander|Racing&nbsp;Santander]]
+|goals1 = {{goal|49}} [[Gonzalo Higuaín|Higuaín]]
+|goals2 = 
+|report = http://www.realmadrid.com/cs/Satellite/en/1202761534295/noticia/Cronica/Seventh_straight_victory.htm
+|score=1–0
+|result=W
+}}
+{{football box collapsible
+|date   = 15 February 2009
+|round  = 23
+|stadium = [[El Molinón]]
+|location  = [[Gijón]]
+|score  = 0–4
+|time  = --:-- [[Central European Time|CET]]
+|attendance = 
+|referee = 
+|team1  = [[Sporting de Gijón|Sporting Gijón]]
+|team2  = Real Madrid 
+|goals1 = 
+|goals2 = 
+|report =
+|result=W 
+}}
+{{football box collapsible
+|date   = 22 February 2009
+|round  = 24
+|stadium = [[Estadio Santiago Bernabéu]]
+|location=[[Madrid]]
+|score  = 6–1
+|time  = --:-- [[Central European Time|CET]]
+|attendance = 
+|referee = 
+|team1  =Real Madrid 
+|team2  = [[Real Betis|Betis]]
+|goals1 = 
+|goals2 = 
+|report =
+|result=W 
+}}
+{{football box collapsible
+|date   = 1 March 2009
+|round  = 25
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location=[[Cornella de Llobregat]]
+|time  = 22:00 [[Central European Time|CET]]
+|attendance = 30,000<ref>{{cite web |url=http://soccernet.espn.go.com/match?id=252848&cc=5739 |archive-url=https://web.archive.org/web/20110525211603/http://soccernet.espn.go.com/match?id=252848&cc=5739 |url-status=dead |archive-date=25 May 2011 |title=Espanyol 0 – 2 Real Madrid | date=1 March 2008 |publisher=[[ESPN]] | access-date= 1 June 2009 }}</ref>
+|referee = [[Manuel Enrique Mejuto González]]
+|team1  = [[RCD Espanyol|Espanyol]]
+|team2  = Real Madrid 
+|goals1 = 
+|goals2 = {{goal|67}} [[Guti (footballer)|Guti]]<br />{{goal|72}} [[Raúl (footballer)|Raúl]]
+|report = http://www.realmadrid.com/cs/Satellite/en/1202763416528/noticia/Cronica/The_dream_lives_on.htm
+|score=0–2
+|result= W    
+}}
+{{football box collapsible
+|date   = 8 March 2009
+|round  = 26
+|stadium = [[Estadio Santiago Bernabéu]]
+|location=[[Madrid]]
+|score  = 1–1
+|time  = 19:00 [[Central European Time|CET]]
+|attendance = 80,000
+|referee = [[David Fernández Borbalán]]
+|team1  = Real Madrid
+|team2  = [[Atlético Madrid|Atlético&nbsp;Madrid]]
+|goals1 =
+*[[Klaas-Jan Huntelaar|Huntelaar]] {{goal|57}}
+|goals2 =
+*[[Diego Forlán|Forlán]] {{goal|38}}
+|report=https://uk.soccerway.com/matches/2009/03/07/spain/primera-division/real-madrid-club-de-futbol/club-atletico-de-madrid/659883/
+|result=D
+}}
+{{football box collapsible
+|date   = 15 March 2009
+|round  = 27
+|stadium = [[San Mamés]]
+|location  = [[Athletic Bilbao]]
+|score  = 2–5
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 48,927
+|referee = [[César Muñiz Fernández]]
+|team1  = [[Athletic Bilbao|Athletic&nbsp;Bilbao]]
+|team2  =Real Madrid 
+|goals1 = 
+*[[Gabriel Heinze|Heinze]] {{goal|36|o.g.|}}
+*[[Francisco Yeste|Yeste]] {{sent off|0|36}}
+*[[Fernando Llorente|Llorente]] {{goal|45+1}}
+|goals2 = 
+*[[Arjen Robben|Robben]] {{goal|22}}
+*[[Gabriel Heinze|Heinze]] {{goal|34}}
+*[[Klaas-Jan Huntelaar|Huntelaar]] {{goal|47||61}}
+*[[Gonzalo Higuaín|Higuaín]] {{goal|85|pen.|}}
+|report=https://int.soccerway.com/matches/2009/03/14/spain/primera-division/athletic-club/real-madrid-club-de-futbol/659893/
+|result =W 
+}}
+{{football box collapsible
+|date   = 22 March 2009
+|round  = 28
+|stadium = [[Estadio Santiago Bernabéu]]
+|location  = [[Madrid]]
+|score  = 3–0 
+|time  = 16:00 [[Central European Time|CET]]
+|attendance = 80,000 
+|referee = [[Antonio Mateu Lahoz]]
+|team1  = Real Madrid 
+|team2  = [[UD Almería|Almería]]
+|goals1 = 
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|23}}
+*[[Klaas-Jan Huntelaar|Huntelaar]] {{goal|52||65}}
+|goals2 = 
+|report=https://ke.soccerway.com/matches/2009/03/22/spain/primera-division/real-madrid-club-de-futbol/union-deportiva-almeria/659902/
+|result =W 
+}}
+{{football box collapsible
+|date   = 5 April 2009
+|round  = 29
+|stadium = [[Estadio La Rosaleda]]
+|location  = [[Málaga]]
+|score  = 0–1 
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 31,000
+|referee = [[Alberto Undiano Mallenco]]
+|team1  = [[Málaga CF|Málaga]]
+|team2  = Real Madrid
+|goals1 = 
+|goals2 = 
+*[[Gonzalo Higuaín|Higuaín]] {{goal|48}}
+|report =https://ke.soccerway.com/matches/2009/04/04/spain/primera-division/malaga-club-de-futbol/real-madrid-club-de-futbol/659912/
+|result =W 
+}}
+{{football box collapsible
+|date   = 12 April 2009
+|round  = 30
+|location=[[Madrid]]
+|stadium = [[Estadio Santiago Bernabéu]]
+|score  = 2–0 
+|time  = 16:00 [[Central European Time|CET]]
+|attendance = 70,000
+|referee = Rafael Ramírez Domínguez
+|team1  = Real Madrid
+|team2  = [[Real Valladolid|Valladolid]]
+|goals1 = 
+*[[Raúl (footballer)|Raúl]] {{goal|44}}
+*[[Arjen Robben|Robben]] {{goal|82}}
+|goals2 = 
+|result=W
+|report =https://ke.soccerway.com/matches/2009/04/12/spain/primera-division/real-madrid-club-de-futbol/real-valladolid-club-de-futbol/659921/
+}}
+{{football box collapsible
+|date   = 19 April 2009
+|round  = 31
+|stadium = [[Estadio Nuevo Colombino|A]]<!-- ESP -->
+|location  = [[Huelva]]
+|score  = 0–1
+|report = https://ke.soccerway.com/matches/2009/04/18/spain/primera-division/real-club-recreativo-de-huelva/real-madrid-club-de-futbol/659931/
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 19,000
+|referee = [[Fernando Teixeira Vitienes]]
+|team1  = [[Recreativo de Huelva|Recreativo]]
+|team2  = Real Madrid
+|goals1 = 
+|goals2 = 
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|49}}
+|result = W
+}}
+{{football box collapsible
+|date   = 22 April 2009
+|round  = 32
+|stadium = [[Estadio Santiago Bernabéu]]
+|location  = [[Madrid]]
+|score  = 3–2
+|report = https://ke.soccerway.com/matches/2009/04/21/spain/primera-division/real-madrid-club-de-futbol/getafe-club-de-futbol/659940/
+|time  = 20:00 [[Central European Time|CET]]
+|attendance = 75,000
+|referee = Carlos Delgado Ferreiro
+|team1  = [[Real Madrid C.F.|Real&nbsp;Madrid]]
+|team2  = [[Getafe CF|Getafe]]
+|goals1 = 
+*[[Gonzalo Higuaín|Higuaín]] {{goal|45||90+1}}
+*[[Guti]] {{goal|85}}
+*[[Pepe (footballer, born 1983)|Pepe]] {{sent off|1|57|86}}
+|goals2 = 
+*[[Roberto Soldado|Soldado]] {{goal|9}}
+*[[Juan Ángel Albín|Albín]] {{goal|84}}
+|result =W 
+}}
+{{football box collapsible
+|date   = 26 April 2009
+|round  = 33
+|stadium = [[Estadio Ramón Sánchez Pizjuán]]
+|location  = [[Sevilla]]
+|score  = 2–4 
+|time  = 18:00 [[Central European Time|CET]]
+|attendance = 45,000
+|referee = [[Alfonso Pérez Burrull]]
+|team1  = [[Sevilla FC|Sevilla]]
+|team2  = Real Madrid
+|goals1 = 
+*[[Renato (footballer, born 1979)|Renato]] {{goal|15}}
+*[[Diego Capel|Capel]] {{goal|79}}
+|goals2 = 
+*[[Raúl (footballer)|Raúl]] {{goal|45+1||63||66}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|90+2}}
+|report =https://ke.soccerway.com/matches/2009/04/26/spain/primera-division/sevilla-futbol-club/real-madrid-club-de-futbol/659950/
+|result=W
+}}
+{{football box collapsible
+|date   = 2 May 2009
+|round  = 34
+|stadium = [[Estadio Santiago Bernabéu]]
+|location=[[Madrid]]
+|score  = 2–6
+|report = https://ke.soccerway.com/matches/2009/05/02/spain/primera-division/real-madrid-club-de-futbol/futbol-club-barcelona/659959/
+|time  = 19:00 [[Central European Time|CET]]
+|attendance = 80,000
+|referee = [[Alberto Undiano Mallenco]]
+|team1  = Real Madrid
+|team2  = [[FC Barcelona|Barcelona]]
+|goals1 = 
+*[[Gonzalo Higuaín|Higuaín]] {{goal|14}}
+*[[Sergio Ramos|Ramos]] {{goal|56}}
+|goals2 = 
+*[[Thierry Henry|Henry]] {{goal|18||59}}
+*[[Carles Puyol|Puyol]] {{goal|20}}
+*[[Lionel Messi|Messi]] {{goal|36||75}}
+*[[Gerard Piqué|Piqué]] {{goal|83}}
+|result=L 
+ }}
+{{football box collapsible
+|date   = 10 May 2009
+|round  = 35
+|stadium = [[Mestalla Stadium]]
+|location  = [[Valencia]]
+|score = 3–0 
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 54,000
+|referee = [[Eduardo Iturralde González]]
+|team1  = [[Valencia CF|Valencia]]
+|team2  = Real Madrid 
+|goals1 = 
+*[[Juan Mata|Mata]] {{goal|29}}
+*[[David Silva|Silva]] {{goal|32}}
+*[[Rubén Baraja|Baraja]] {{goal|68}}
+|goals2 = 
+|report=https://ke.soccerway.com/matches/2009/05/09/spain/primera-division/valencia-club-de-futbol/real-madrid-club-de-futbol/659969/
+|result=L 
+}}
+{{football box collapsible
+|date   = 16 May 2009
+|round  = 36
+|stadium = [[El Madrigal]]
+|location  = [[Villarreal]]
+|score  = 3–2
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 18,668
+|referee = [[Luis Medina Cantalejo]]
+|team1  = [[Villarreal CF|Villarreal]]
+|team2  = Real Madrid
+|goals1 = 
+*[[Robert Pires|Pires]] {{goal|17}}
+*[[Cani (Spanish footballer)|Cani]] {{goal|63}}
+*[[Joan Capdevila|Capedvila]] {{goal|90}}
+|goals2 = 
+*[[Rafael van der Vaart|van der Vaart]] {{goal|46}}
+*[[Gonzalo Higuaín|Higuaín]] {{goal|88}}
+|result=L
+|report = https://ke.soccerway.com/matches/2009/05/16/spain/primera-division/villarreal-club-de-futbol/real-madrid-club-de-futbol/659979/     
+}}
+{{football box collapsible
+|date   = 24 May 2009
+|round  = 37
+|location=[[Madrid]]
+|stadium = [[Estadio Santiago Bernabéu]]
+|score  = 1–3
+|report = https://ke.soccerway.com/matches/2009/05/24/spain/primera-division/real-madrid-club-de-futbol/real-club-deportivo-mallorca/659990/
+|time  = 20:00 [[Central European Time|CET]]
+|attendance = 50,000
+|referee = Miguel Ángel Ayza Gámez
+|team1  = Real Madrid 
+|team2  = [[RCD Mallorca|Mallorca]]
+|goals1 = 
+*[[Gonzalo Higuaín|Higuaín]] {{goal|20}}
+|goals2 = 
+*[[Juan Arango|Arango]] {{goal|26}}
+*[[Cléber Santana]] {{goal|57}}
+*[[Alhassane Keita|Keita]] {{goal|68}}
+|result=L 
+}}
+{{football box collapsible
+|date   = 31 May 2009
+|round  = 38
+|location=[[Pamplona]]
+|stadium = [[Reyno de Navarra Stadium]]
+|score  = 2–1 
+|time  = 18:00 [[Central European Time|CET]]
+|attendance = 18,000
+|referee = [[Fernando Teixeira Vitienes]]
+|team1  = [[CA Osasuna|Osasuna]]
+|team2  = Real Madrid 
+|goals1 = 
+*[[Jaroslav Plašil|Plašil]] {{goal|15}}
+*[[Juanfran (footballer, born 1985)|Juanfran]] {{goal|60}}
+|goals2 = 
+*[[Gonzalo Higuaín|Higuaín]] {{goal|11}}
+*[[Míchel Salgado|Salgado]] {{sent off|0|56}}
+*[[Klaas-Jan Huntelaar|Huntelaar]] {{sent off|2|89|89}}
+|report = https://ke.soccerway.com/matches/2009/05/31/spain/primera-division/club-atletico-osasuna/real-madrid-club-de-futbol/660000/
+|result=L 
+}}
+
+===Copa del Rey===
+{{main|2008–09 Copa del Rey}}
+
+{{football box collapsible
+|date   = 30 October 2008
+|round  = [[2008–09 Copa del Rey#Round of 32|Round of 32, First leg]]
+|stadium = [[Stadium Gal]]
+|score  = 3–2
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 4,700<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo557356.htm |title=Real Unión 3 – 2 Real Madrid | date=30 October 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[Arturo Daudén Ibáñez|Daudén Ibáñez]]
+|team1  = [[Real Unión]]
+|team2  = Real Madrid 
+|goals1 = {{goal|2}} [[Juan Domínguez Otaegi|Domínguez]]<br />{{goal|20}} [[Iosu Villar Vidal|Villar]]<br />{{goal|63}} [[Iñaki Goikoetxea|Goikoetxea]]
+|goals2 = {{goal|9}} [[Gonzalo Higuaín|Higuaín]]<br />{{goal|53}} [[Javier Saviola|Saviola]]
+|result=L 
+|report = http://www.realmadrid.com/cs/Satellite/es/1202753673453/noticia/Cronica/La_gran_noche_del_Real_Union.htm
+}}
+{{football box collapsible
+|date   = 11 November 2008
+|round  = [[2008–09 Copa del Rey#Round of 32|Round of 32, Second leg]]
+|location=[[Madrid]]
+|stadium = [[Estadio Santiago Bernabéu]]
+|score  = 4–3 
+|aggregatescore = 6–6 ([[Away goals rule|a]]) 
+|time  = 21:00 [[Central European Time|CET]]
+|attendance = 56,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo561418.htm |title=Real Madrid 4 – 3 Real Unión | date=11 November 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[Luis Medina Cantalejo|Medina Cantalejo]]
+|team1  = Real Madrid 
+|team2  = [[Real Unión]]
+|goals1 = {{goal|36||50||85}} [[Raúl (footballer)|Raúl]]<br />{{goal|68}} [[Alberto Bueno|Bueno]]
+|goals2 = {{goal|13}} [[Paul Abasolo|Abasolo]]<br />{{goal|49}} [[Asier Salcedo|Salcedo]]<br />{{goal|90}} [[Eneko Romo|Romo]]
+|report = http://www.realmadrid.com/cs/Satellite/es/1202754785906/noticia/Cronica/El_Real_Union_da_la_sorpresa.htm
+|result=W       
+}}
+
+===Champions League===
+{{main|2008–09 UEFA Champions League}}
+
+====Group H====
+{{main|2008–09 UEFA Champions League group stage#Group H}}
+
+{{:2008–09 UEFA Champions League group stage|transcludesection=Group H|show_matches=n|showteam=RMA}}
+{{football box collapsible
+|date   = 17 September 2008
+|round  = [[2008–09 UEFA Champions League#Group stage|1]]
+|location=[[Madrid]]
+|stadium = [[Estadio Santiago Bernabéu]]
+|score  = 2–0
+|time  = 21:45 [[Central European Time|CET]]
+|attendance = 55,099<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2009/302696_fr.pdf |archive-url=https://web.archive.org/web/20121019175406/http://www.uefa.com/newsfiles/ucl/2009/302696_fr.pdf |url-status=dead |archive-date=19 October 2012 |title=Real Madrid 2 – 0 FC BATE | date=17 September 2008 |publisher=[[UEFA]] | access-date= 1 June 2009 }}</ref>
+|referee = [[Alain Hamer]] {{flagicon|LUX}}
+|team1  = Real Madrid {{fbaicon|Spain}}
+|team2  = {{fbaicon|Belarus}} [[FC BATE Borisov|BATE Borisov]]
+|goals1 = [[Sergio Ramos|Ramos]] {{goal|11}}<br />[[Ruud van Nistelrooy|van Nistelrooy]] {{goal|57}}
+|goals2 = 
+|report = http://www.uefa.com/competitions/ucl/fixturesresults/round=15276/match=302696/report=rp.html
+|result=W
+}}
+{{football box collapsible
+|date   = 30 September 2008
+|round  = [[2008–09 UEFA Champions League#Group stage|2]]
+|location=[[Saint Petersburg]]
+|stadium = [[Petrovsky Stadium]] 
+|score  = 1–2
+|time  = 18:30 [[Central European Time|CET]]
+|attendance = 21,075<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2009/302720_fr.pdf |archive-url=https://web.archive.org/web/20121019175502/http://www.uefa.com/newsfiles/ucl/2009/302720_fr.pdf |url-status=dead |archive-date=19 October 2012 |title=Zenit 1 – 2 Real Madrid | date=30 September 2008 |publisher=[[UEFA]] | access-date= 1 June 2009 }}</ref>
+|referee = [[Massimo Busacca|M. Busacca]] {{flagicon|SUI}}
+|team1  = [[FC Zenit Saint Petersburg|Zenit&nbsp;St.&nbsp;Petersburg]] {{fbaicon|Russia}}
+|team2  = {{fbaicon|Spain}} Real Madrid
+|goals1 = [[Danny (footballer)|Danny]] {{goal|25}}
+|goals2 = [[Tomáš Hubočan|Hubočan]] {{goal|4|o.g.}}<br />[[Ruud van Nistelrooy|van Nistelrooy]] {{goal|31}}
+|report = http://www.uefa.com/competitions/ucl/fixturesresults/round=15276/match=302720/report=rp.html
+|result=W
+}}
+{{football box collapsible
+|date   = 21 October 2008
+|round  = [[2008–09 UEFA Champions League#Group stage|3]]
+|location=[[Turin]]
+|stadium = [[Stadio Olimpico di Torino]] 
+|score  = 2–1
+|report=
+|time  = 20:45 [[Central European Time|CET]]
+|attendance = 25,813<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2009/302736_fr.pdf |archive-url=https://web.archive.org/web/20121019175536/http://www.uefa.com/newsfiles/ucl/2009/302736_fr.pdf |url-status=dead |archive-date=19 October 2012 |title=Juventus 2 – 1 Real Madrid | date=21 October 2008 |publisher=[[UEFA]] | access-date= 1 June 2009 }}</ref>
+|referee = [[Wolfgang Stark|W. Stark]] {{flagicon|GER}}
+|team1  = [[Juventus FC|Juventus]] {{fbaicon|Italy}}
+|team2  = {{fbaicon|Spain}} Real Madrid 
+|goals1 = [[Alessandro Del Piero|Del Piero]] {{goal|5}}<br />[[Amauri]] {{goal|49}}
+|goals2 = [[Ruud van Nistelrooy|van Nistelrooy]] {{goal|66}} 
+|result =L 
+}}
+{{football box collapsible
+|date   = 5 November 2008
+|round  = [[2008–09 UEFA Champions League#Group stage|4]]
+|location=[[Madrid]]
+|stadium = [[Estadio Santiago Bernabéu]]
+|score  = 0–2
+|time  = 20:45 [[Central European Time|CET]]
+|attendance = 71,560<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2009/302744_fr.pdf |archive-url=https://web.archive.org/web/20121019175558/http://www.uefa.com/newsfiles/ucl/2009/302744_fr.pdf |url-status=dead |archive-date=19 October 2012 |title=Real Madrid 0 – 2 Juventus | date=5 November 2008 |publisher=[[UEFA]] | access-date= 1 June 2009 }}</ref>
+|referee = [[Pieter Vink]] {{flagicon|NED}} 
+|team1  = Real Madrid {{fbaicon|Spain}}
+|team2  = {{fbaicon|Italy}} [[Juventus FC|Juventus]]
+|goals1 = 
+|goals2 = [[Alessandro Del Piero|Del Piero]] {{goal|17||67}}
+|report = http://www.uefa.com/competitions/ucl/fixturesresults/round=15276/match=302744/report=rp.html
+|result=L       
+}}
+{{football box collapsible
+|date   = 25 November 2008
+|round  = [[2008–09 UEFA Champions League#Group stage|5]]
+|location=[[Minsk]]
+|stadium = [[Haradzki Stadium]] 
+|score  = 0–1
+|time  = 20:45 [[Central European Time|CET]]
+|attendance = 30,500<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2009/302768_fr.pdf |archive-url=https://web.archive.org/web/20121019175613/http://www.uefa.com/newsfiles/ucl/2009/302768_fr.pdf |url-status=dead |archive-date=19 October 2012 |title=FC BATE 0 – 1 Real Madrid | date=25 November 2008 |publisher=[[UEFA]] | access-date= 1 June 2009 }}</ref>
+|referee = [[Terje Hauge]] {{flagicon|NOR}}
+|team1  = [[FC BATE Borisov|BATE Borisov]] {{fbaicon|Belarus}}
+|team2  = {{fbaicon|Spain}} Real Madrid 
+|goals1 = 
+|goals2 = [[Raúl (footballer)|Raúl]] {{goal|7}}
+|report = http://www.uefa.com/competitions/ucl/fixturesresults/round=15276/match=302768/report=rp.html
+|result=W       
+}}
+{{football box collapsible
+|date   = 10 December 2008
+|round  = [[2008–09 UEFA Champions League#Group stage|6]]
+|stadium = [[Estadio Santiago Bernabéu]]
+|location  = [[Madrid]]
+|score  = 3–0
+|time  = 21:45 [[Central European Time|CET]]
+|attendance = 46,265<ref>{{cite web |url=http://www.uefa.com/newsfiles/ucl/2009/302776_fr.pdf |archive-url=https://web.archive.org/web/20121019201149/http://www.uefa.com/newsfiles/ucl/2009/302776_fr.pdf |url-status=dead |archive-date=19 October 2012 |title=Real Madrid vs. Zenit 3–0 |date=10 December 2008 |access-date=5 January 2009 |publisher=[[UEFA]] }}</ref>
+|referee = [[Jonas Eriksson (referee)|Jonas Eriksson]] {{flagicon|SWE}}
+|team1  = Real Madrid {{fbaicon|Spain}}
+|team2  = {{fbaicon|Russia}} [[FC Zenit Saint Petersburg|Zenit&nbsp;St.&nbsp;Petersburg]]
+|goals1 = [[Raúl (footballer)|Raúl]] {{goal|25||57}}<br />[[Arjen Robben|Robben]] {{goal|50}}
+|goals2 = 
+|report = http://www.uefa.com/competitions/ucl/fixturesresults/round=15276/match=302776/report=rp.html
+|result=W
+}}
+
+====Round of 16====
+{{main|2008–09 UEFA Champions League knockout phase}}
+
+{{football box collapsible
+|date=25 February 2009
+|team1      = Real Madrid {{fbaicon|Spain}}
+|team2      = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|score      = 0–1
+|goals1     = 
+|goals2     = [[Yossi Benayoun|Benayoun]] {{goal|82}}
+|location=[[Madrid]]
+|stadium=[[Santiago Bernabéu Stadium]]
+|report=https://web.archive.org/web/20120921090308/http://www.realmadrid.com/cs/Satellite/es/1193040475238/1202763029688/noticia/Cronica/Asi_fue_el_partido_de_ida.htm 
+|referee=[[Roberto Rosetti]]
+|attendance=80,354
+|result=L
+}}
+{{football box collapsible
+|date=10 March 2009
+|team1      = [[Liverpool F.C.|Liverpool]] {{fbaicon|ENG}}
+|team2      = {{fbaicon|Spain}} Real Madrid
+|score      = 4–0
+|goals1     = [[Fernando Torres|F. Torres]] {{goal|16}}<br />[[Steven Gerrard|Gerrard]] {{goal|28|pen.|47}}<br />[[Andrea Dossena|Dossena]] {{goal|88}}
+|goals2     = 
+|location=[[Liverpool]]
+|stadium=[[Anfield]]
+|report=https://web.archive.org/web/20090313142941/http://www.realmadrid.com/cs/Satellite/es/1202765388498/noticia/Cronica/El_pase_se_queda_en_Anfield.htm 
+|referee=[[Frank De Bleeckere]]
+|attendance=45,362
+|result=L
+}}
+
+===Supercopa de España===
+{{main|2008 Supercopa de España}}
+
+{{football box collapsible
+|date   = 17 August 2008
+|round  = 1st leg
+|stadium = [[Mestalla Stadium]]
+|location  = [[Valencia]]
+|score  = 3–2 
+|time  = 22:05 [[Central European Time|CET]]
+|attendance = 35,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo530090.htm |title=Valencia CF 3 – 2 Real Madrid | date=17 August 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[Luis Medina Cantalejo|M. Cantalejo]]
+|team1  = [[Valencia CF|Valencia]]
+|team2  = Real Madrid
+|goals1 = {{goal|58}} [[David Villa|Villa]]<br />{{goal|55}} [[Juan Mata|Mata]]<br />{{goal|80}} [[Vicente Rodríguez|Vicente]]
+|goals2 = {{goal|13||67}} [[Ruud van Nistelrooy|van Nistelrooy]]
+|report = http://www.realmadrid.com/cs/Satellite/es/1202740930559/noticia/Cronica/Valencia_3-2_Madrid
+|result=L
+}}
+{{football box collapsible
+|date   = 24 August 2008
+|round  = 2nd leg
+|stadium = [[Estadio Santiago Bernabéu]]
+|location=[[Madrid]]
+|score  = 4–2
+|aggregatescore= 6–5
+|time  = 22:00 [[Central European Time|CET]]
+|attendance = 60,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo534285.htm |title=Real Madrid 4 – 2 Valencia CF  | date=24 August 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 1 June 2009 }}</ref>
+|referee = [[Eduardo Iturralde González|Iturralde González]]
+|team1  = Real Madrid 
+|team2  = [[Valencia CF|Valencia]]
+|goals1 = {{goal|49|pen.}} [[Ruud van Nistelrooy|van Nistelrooy]]<br />{{goal|75}} [[Sergio Ramos|Ramos]]<br />{{goal|85}} [[Rubén de la Red|de la Red]]<br />{{goal|88}} [[Gonzalo Higuaín|Higuaín]]
+|goals2 = {{goal|32}} [[David Silva|Silva]]<br />{{goal|89}} [[Fernando Morientes|Morientes]]
+|report = http://www.realmadrid.com/cs/Satellite/es/1202741107024/noticia/Cronica/Real_Madrid_4–2_Valencia_CF
+|result=W
+}}
+
+===Friendlies===
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+{{football box collapsible
+|round=Friendly
+|date=27 July 2008
+|time=19:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1=[[LASK Linz]] 
+|score=2–3
+|report=[http://www.realmadrid.com/cs/Satellite/es/1202739328056/noticia/Noticia/Lask_Linz_%E2%80%93_Real_Madrid_2008-07-16.htm Report]
+|team2=  [[Real Madrid C.F.|Real Madrid]]
+|goals1= [[Christoph Saurer|Saurer]] {{goal|14}}<br />[[Mario Mijatović|Mijatović]] {{goal|90+1|pen.}}
+|goals2= [[Júlio Baptista|Baptista]] {{goal|21}}<br />[[Raúl (footballer)|Raúl]] {{goal|45}}<br />[[Javier Saviola|Saviola]] {{goal|84}}
+|stadium=[[Linzer Stadion]]
+|location=[[Linz]], Austria
+|attendance=20,104<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo519753.htm |title=Lask Linz 2 – 3 Real Madrid | date=27 July 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 2 July 2009 }}</ref>
+|referee=[[Drabek Diezmar Austria]] ([[Austria Football Association|Austria]])
+|motm=
+|result=W
+}}
+
+{{football box collapsible
+|round=[[2008 Emirates Cup|Emirates Cup]] – 1st Round
+|date=2 August 2008
+|time=14:00 [[British Summer Time|BST]] ([[UTC+01:00]])
+|team1=[[Hamburger SV]] 
+|score=1–2
+|report=[http://www.realmadrid.com/cs/Satellite/en/1202740362511/noticia/Cronica/Hamburg_1-2_Real_Madrid.htm Report]
+|team2= [[Real Madrid C.F.|Real Madrid]]
+|goals1= [[Mohamed Zidan|Zidan]] {{goal|53}}
+|goals2= [[Ruud van Nistelrooy|van Nistelrooy]] {{goal|25}}<br />[[Dani Parejo|Parejo]] {{goal|84}}
+|stadium=[[Emirates Stadium]]
+|location=London, England
+|attendance=50,000<ref name="terra1">{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo521739.htm |title=Hamburg 1 – 2 Real Madrid | date=2 August 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 2 July 2009 }}</ref>
+|referee=[[Alan Kelly (referee)|Alan Kelly]] ([[Irish Football Association|Ireland]])
+|motm=
+|result=W
+}}
+
+{{football box collapsible
+|round=[[2008 Emirates Cup|Emirates Cup]] – 2nd Round
+|date=3 August 2008
+|time=16:15 [[British Summer Time|BST]] ([[UTC+01:00]])
+|team1=[[Arsenal F.C.|Arsenal]] 
+|score=1–0
+|report=[http://www.realmadrid.com/cs/Satellite/es/1202740386642/noticia/Cronica/Derrota_por_la_minima.htm Report]
+|team2= [[Real Madrid C.F.|Real Madrid]]
+|goals1= [[Emmanuel Adebayor|Adebayor]] {{goal|48|pen.}}
+|goals2= 
+|stadium=[[Emirates Stadium]]
+|location=London, England
+|attendance=60,081<ref name="terra1"/>
+|referee=[[Mark Clattenburg|Clattenburg]] ([[The Football Association|England]])
+|motm=
+|result=L
+}}
+
+{{football box collapsible
+|round=Friendly
+|date=8 August 2008
+|time=00:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1=[[Independiente Santa Fe|Santa Fe]] 
+|score=1–2
+|report=[http://www.realmadrid.com/cs/Satellite/es/1202740576902/noticia/Cronica/La_noche_Van_der_Vaart.htm Report]
+|team2=  [[Real Madrid C.F.|Real Madrid]]
+|goals1= [[Luis Manuel Seijas|Seijas]] {{goal|40}}
+|goals2= [[Rafael van der Vaart|van der Vaart]] {{goal|77}}<br />[[Pepe (footballer, born 1983)|Pepe]] {{goal|78}}
+|stadium=[[Estadio El Campín]]
+|location=[[Bogotá]], Colombia
+|attendance=30,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo523904.htm |title=Santa Fe 1 – 2 Real Madrid | date=8 August 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 2 July 2009 }}</ref>
+|referee=[[Óscar Ruiz (referee)|Óscar Ruiz]] ([[Colombian Football Federation|Colombia]])
+|motm=
+|result=W
+}}
+
+{{football box collapsible
+|round=Friendly
+|date=12 August 2008
+|time=21:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1=[[Eintracht Frankfurt]] 
+|score=1–1
+|report=[http://www.realmadrid.com/cs/Satellite/es/1202818880905/1202740767914/noticia/Cronica/Eintracht_Frankfurt_1-1_Real_Madrid.htm Report]
+|team2=  [[Real Madrid C.F.|Real Madrid]]
+|goals1= [[Habib Bellaïd|Bellaïd]] {{goal|7}}
+|goals2= [[Robinho]] {{goal|71}}
+|stadium=[[Commerzbank-Arena]]
+|location=[[Frankfurt]], Germany
+|attendance=51,500<ref>{{cite web |url=http://www.eintracht-archiv.de/2008/2008-08-12st.html |title=Eintracht Frankfurt – Real Madrid | date=12 August 2008 |website=[[Eintracht Frankfurt]] |language=de| access-date= 2 July 2009 }}</ref>
+|referee=Lutz Wagner Germany ([[German Football Association|Germany]])
+|motm=
+|result=D
+}}
+
+{{football box collapsible
+|round=[[Trofeo Santiago Bernabéu]]
+|date=27 August 2008
+|time=22:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1=[[Real Madrid C.F.|Real Madrid]] 
+|score=5–3
+|report=[http://www.realmadrid.com/cs/Satellite/es/1202741336372/noticia/Cronica/!Que_no_cese_la_fiesta!.htm Report]
+|team2= [[Sporting Clube de Portugal|Sporting CP]]
+|goals1= [[Gonzalo Higuaín|Higuaín]] {{goal|17||24}}<br />[[Arjen Robben|Robben]] {{goal|19}}<br />[[Raúl (footballer)|Raúl]] {{goal|40|pen.}}<br />[[Rafael van der Vaart|van der Vaart]] {{goal|44}}
+|goals2= [[Marat Izmailov|Izmailov]] {{goal|31}}<br />[[Yannick Djaló|Djaló]] {{goal|75}}<br />[[Miguel Veloso|Veloso]] {{goal|90+1}}
+|stadium=[[Santiago Bernabéu Stadium]]
+|location=[[Madrid]], Spain
+|attendance=60,000<ref>{{cite web |url=http://www.terra.es/deportes/articulo/html/dpo535391.htm |title=Real Madrid 5 – 3 Sporting Lisbon | date=28 August 2008 |website=[[Terra Networks|Terra.es]] |language=es| access-date= 2 July 2009 }}</ref>
+|referee= [[Carlos Velasco Carballo|Velasco Carballo]]
+|motm=
+|result=W
+}}
+
+==Statistics==
+===Players statistics===
+{{fb ss header |c1=[[2008–09 La Liga|La Liga]]|c2=[[2008–09 UEFA Champions League|Champions League]]|c3=[[2008–09 Copa del Rey|Copa del Rey]]|c4=[[2008 Supercopa de España|Spanish Super Cup]]}}
+
+{{fb ss player |bg= |p=[[Iker Casillas|Casillas]]             |eu=y |nb=ESP |n=1  |pos=GK |gs=47 |c1a=38 |c1g=0 |c2a=7 |c2g=0 |c3a=0 |c3g=0 |c4a=2 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Sergio Ramos|Ramos]]                       |eu=y |nb=ESP |n=4  |pos=RB |gs=41 |c1a=32 |c1g=4 |c2a=8 |c2g=1 |c3a=0 |c3g=0 |c4a=2 |c4g=1 |pos2= }}
+{{fb ss player |bg= |p=[[Fabio Cannavaro|Cannavaro]]          |eu=y |nb=ITA |n=5  |pos=CB |gs=36 |c1a=29 |c1g=0 |c2a=7 |c2g=0 |c3a=1 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Pepe (footballer, born 1983)|Pepe]]  |eu=y |nb=POR |n=3  |pos=CB |gs=32 |c1a=26 |c1g=0 |c2a=5 |c2g=0 |c3a=0 |c3g=0 |c4a=1 |c4g=0 }}
+{{fb ss player |bg= |p=[[Gabriel Heinze|Heinze]]              |eu=y |nb=ARG |n=16 |pos=CB |gs=34 |c1a=24 |c1g=2 |c2a=7 |c2g=0 |c3a=1 |c3g=0 |c4a=2 |c4g=0 |pos2= }}
+{{fb ss player |bg=y |p=[[Marcelo (footballer, born 1988)|Marcelo]]|eu=n|nb=BRA|n=12|pos=LB |gs=29 |c1a=27 |c1g=4 |c2a=5 |c2g=0 |c3a=2 |c3g=0 |c4a=0 |c4g=0 |pos2= }}
+{{fb ss player |bg= |p=[[Arjen Robben|Robben]]                |eu=y |nb=NED |n=11 |pos=RW |gs=32  |c1a=29 |c1g=7 |c2a=6 |c2g=1 |c3a=0 |c3g=0 |c4a=2 |c4g=0 |pos2= }}
+{{fb ss player |bg=y |p=[[Fernando Gago|Gago]]                 |eu=y |nb=ARG |n=8  |pos=DM |gs=31 |c1a=28 |c1g=1 |c2a=6 |c2g=0 |c3a=1 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg= |p=[[Lassana Diarra|Lass]]               |eu=y |nb=FRA |n=6  |pos=DM |gs=21  |c1a=19 |c1g=0 |c2a=2 |c2g=0 |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Raúl (footballer)|Raúl]]                 |eu=y |nb=ESP |n=7  |pos=SS |gs=44 |c1a=37 |c1g=18 |c2a=7 |c2g=3 |c3a=1 |c3g=3 |c4a=2 |c4g=0 |pos2=FW }}
+{{fb ss player |bg= |p=[[Gonzalo Higuaín|Higuaín]]            |eu=y |nb=ARG |n=20 |pos=FW |gs=39 |c1a=34 |c1g=22 |c2a=7 |c2g=0 |c3a=2 |c3g=1 |c4a=1 |c4g=1 |pos2=RW}}
+{{fb ss player |bg= |p=[[Wesley Sneijder|Sneijder]]          |eu=y |nb=NED |n=10 |pos=CM |gs=23  |c1a=22 |c1g=2 |c2a=4 |c2g=0 |c3a=1 |c3g=0 |c4a=0 |c4g=0 |pos2=LM }}
+{{fb ss player |bg=y  |p=[[Rafael van der Vaart|van der Vaart]]|eu=y |nb=NED |n=23 |pos=AM |gs=21 |c1a=32 |c1g=5 |c2a=7 |c2g=0 |c3a=1 |c3g=0 |c4a=2 |c4g=0 |pos2=SS }}
+{{fb ss player |bg=y |p=[[Guti (footballer)|Guti]]          |eu=y |nb=ESP |n=14 |pos=AM |gs=19  |c1a=18 |c1g=3 |c2a=6 |c2g=0 |c3a=1 |c3g=0 |c4a=2 |c4g=0 }}
+{{fb ss player |bg= |p=[[Klaas-Jan Huntelaar|Huntelaar]]     |eu=y |nb=NED |n=19 |pos=FW |gs=13  |c1a=19 |c1g=8 |c2a=0 |c2g=0 |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Ruud van Nistelrooy|van Nistelrooy]] |eu=y |nb=NED |n= |pos=FW |gs=12 |c1a=6 |c1g=4 |c2a=4 |c2g=3 |c3a=0 |c3g=0 |c4a=2 |c4g=3 }}
+{{fb ss player |bg= |p=[[Mahamadou Diarra|Diarra]]            |eu=y |nb=MLI |n= |pos=DM |gs=12 |c1a=9 |c1g=0 |c2a=3 |c2g=0 |c3a=1 |c3g=0 |c4a=2 |c4g=0 }}
+{{fb ss player |bg=y  |p=[[Miguel Torres Gómez|Miguel Torres]]  |eu=y |nb=ESP |n=22 |pos=RB |gs=11  |c1a=14 |c1g=0 |c2a=1 |c2g=0 |c3a=0 |c3g=0 |c4a=2 |c4g=0 |pos2=LB }}
+{{fb ss player |bg= |p=[[Christoph Metzelder|Metzelder]]      |eu=y |nb=GER |n=21 |pos=CB |gs=10  |c1a=12 |c1g=0 |c2a=1 |c2g=0 |c3a=1 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Míchel Salgado|M. Salgado]]          |eu=y |nb=ESP |n=2  |pos=RB |gs=10  |c1a=9 |c1g=0 |c2a=1 |c2g=0 |c3a=2 |c3g=0 |c4a=1 |c4g=0 }}
+{{fb ss player |bg= |p=[[Royston Drenthe|Drenthe]]            |eu=y |nb=NED |n=15 |pos=LM |gs=9  |c1a=20 |c1g=0 |c2a=5 |c2g=0 |c3a=2 |c3g=0 |c4a=1 |c4g=0 |pos2=LB }}
+{{fb ss player |bg=y |p=[[Rubén de la Red|de la Red]]          |eu=y |nb=ESP |n= |pos=CM |gs=8  |c1a=7 |c1g=1 |c2a=1 |c2g=0 |c3a=1 |c3g=0 |c4a=2 |c4g=1 }}
+{{fb ss player |bg= |p=[[Javier Saviola|Saviola]]             |eu=y |nb=ARG |n=9  |pos=FW |gs=4  |c1a=8 |c1g=1 |c2a=4 |c2g=0 |c3a=2 |c3g=1 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y  |p=[[Javi García]]|eu=y |nb=ESP |n=24 |pos=DM |gs=4  |c1a=15 |c1g=0 |c2a=3 |c2g=0 |c3a=2 |c3g=0 |c4a=1 |c4g=0 }}
+{{fb ss player |bg= |p=[[Jerzy Dudek|Dudek]]                  |eu=y |nb=POL |n=25 |pos=GK |gs=3  |c1a=0 |c1g=0 |c2a=1 |c2g=0 |c3a=2 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Dani Parejo|Parejo]]               |eu=y |nb=ESP |n= 17   |pos=CM |gs=0  |c1a=5 |c1g=0 |c2a=0 |c2g=0 |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg= |p=[[Alberto Bueno|Bueno]]                |eu=y |nb=ESP |n=28 |pos=FW |gs=0  |c1a=3 |c1g=0 |c2a=1 |c2g=0 |c3a=2 |c3g=1 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y  |p=[[Miquel Palanca|Palanca]]            |eu=y |nb=ESP |n=35 |pos=RW |gs=0  |c1a=3 |c1g=0 |c2a=0 |c2g=0 |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg= |p=[[Julien Faubert|Faubert]]                    |eu=y |nb=FRA |n=18  |pos=MF |gs=0  |c1a=2 |c1g=0 |c2a=0 |c2g=0 |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg= |p=[[Gary Kagelmacher|Gary]]              |eu=y |nb=URU |n=36 |pos=CB |gs=1  |c1a=1 |c1g=0 |c2a=0 |c2g=0 |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss player |bg=y |p=[[Marcos Tébar|Tébar]]          |eu=y |nb=ESP |n=37 |pos=DM |gs=0  |c1a=1 |c1g=0 |c2a=0 |c2g=0 |c3a=0 |c3g=0 |c4a=0 |c4g=0 |pos2=CB }}
+{{fb ss player |bg=y |p=[[Jordi Codina|Codina]]                |eu=y |nb=ESP |n=13 |pos=GK |gs=0  |c1a=0 |c1g=0 |c2a=0 |c2g=0 |c3a=0 |c3g=0 |c4a=0 |c4g=0 }}
+{{fb ss footer |u=2009-06-01 |o=[[#Most frequent start|start team]], game starts and position on pitch (from back right to front left) |s=Match reports in [[#Competitive|competitive matches]], LFP.com and Soccernet.espn |date=November 2010}}
+
+===Long-term injury list===
+{| border="0" cellspacing="0" cellpadding="2"
+|- style="background:#191970;"
+!width=5% |<span style="color:white"> Date</span>
+!width=7% |<span style="color:white"> Player</span>
+!width=8% |<span style="color:white"> Injury</span>
+!width=12% |<span style="color:white"> Estimated Return Date</span>
+|-
+|October 2008||{{flagicon|ESP}} [[Rubén de la Red]]||[[Syncope (medicine)|Acute syncope]]||Unknown<ref>{{cite web |url=http://www.realmadrid.com/cs/Satellite/en/1193041476158/1202756763815/noticia/Noticia/Ruben_de_la_Red_injury_update.htm |title=Archived copy |website=www.realmadrid.com |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20090202074136/http://www.realmadrid.com/cs/Satellite/en/1193041476158/1202756763815/noticia/Noticia/Ruben_de_la_Red_injury_update.htm |archive-date=2 February 2009 |url-status=dead}}</ref>
+|-
+|November 2008||{{flagicon|NED}} [[Ruud van Nistelrooy]]||[[Meniscus (anatomy)|Torn meniscus in right knee]]||July 2009<ref>{{cite web|url=http://www.realmadrid.com/cs/Satellite/en/1202754955119/noticia/Noticia/Van_Nistelrooy_injury_update_2008-11-13.htm |title=Van Nistelrooy injury update |access-date=13 November 2008 |url-status=dead |archive-url=https://web.archive.org/web/20120908112120/http://www.realmadrid.com/cs/Satellite/en/1202754955119/noticia/Noticia/Van_Nistelrooy_injury_update_2008-11-13.htm |archive-date=8 September 2012 }}</ref>
+|-
+|November 2008||{{flagicon|MLI}} [[Mahamadou Diarra]]||[[Meniscus (anatomy)|Grade IV chondral injury on inner and outer femoral condyle; on lateral tibia plateau. Complex tear on outer meniscus in right knee.]]||June–September 2009<ref>{{cite web |url=http://www.realmadrid.com/cs/Satellite/en/1202757195394/noticia/Noticia/Parte_medico_de_Diarra_2008-12-08.htm |title=Real Madrid C.F. - Official Web Site - Parte médico de Diarra |website=www.realmadrid.com |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20120917002716/http://www.realmadrid.com/cs/Satellite/en/1202757195394/noticia/Noticia/Parte_medico_de_Diarra_2008-12-08.htm |archive-date=17 September 2012 |url-status=dead}}</ref>
+|-
+|<!-- Date ||{{flagicon|}} Player name||Injury||Return date<ref>{{cite news | author = [[] | publisher = ] }}</ref> -->
+|}
+
+<small>
+Last updated: 2009-06-01<br />
+Source: [http://Realmadrid.com Realmadrid.com]
+</small>
+
+===Suspension list===
+{| border="0" cellspacing="0" cellpadding="2"
+|- style="background:#191970;"
+!width=5% |<span style="color:white"> Date</span>
+!width=7% |<span style="color:white"> Player</span>
+!width=8% |<span style="color:white"> Suspension Reason</span>
+!width=12% |<span style="color:white"> Estimated Return Date</span>
+|-
+|April 2009||{{flagicon|POR}} [[Pepe (footballer, born 1983)|Pepe]]||[[Fighting]]|||10 Matches<ref>{{cite web |url=http://www.realmadrid.com/cs/Satellite/es/1202770043574/noticia/Noticia/Decisiones_del_Comite_de_Competicion.htm |title=Archived copy |website=www.realmadrid.com |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20090427072219/http://www.realmadrid.com/cs/Satellite/es/1202770043574/noticia/Noticia/Decisiones_del_Comite_de_Competicion.htm |archive-date=27 April 2009 |url-status=dead}}</ref>
+|}
+
+<small>
+Last updated: 2009-06-01<br />
+Source: [http://Realmadrid.com Realmadrid.com]
+</small>
+
+===Disciplinary record===
+<!-- Tip: for players' data, just copy from the Squad stats section -->
+{{Fb disc header}}
+
+{{Fb disc player |p=[[Sergio Ramos|Ramos]]                          |nb=ESP |n=4  |pos=RB |rc=1 |syc=0 |yc=14 |nt=}}
+
+{{Fb disc player |p=[[Fernando Gago|Gago]]                    |nb=ARG |n=8  |pos=DM |rc=0 |syc=1 |yc=10 |nt=}}
+
+{{Fb disc player |p=[[Marcelo (footballer, born 1988)|Marcelo]]|nb=BRA |n=12 |pos=LB |rc=1 |syc=1 |yc=10 |nt=}}
+
+{{Fb disc player |p=[[Rafael van der Vaart|van der Vaart]]    |nb=NED |n=23 |pos=AM |rc=1 |syc=0 |yc=8 |nt=}}
+
+{{Fb disc player |p=[[Pepe (footballer, born 1983)|Pepe]]     |nb=POR |n=3  |pos=CB |rc=1 |syc=0 |yc=7 |nt=}}
+
+{{Fb disc player |p=[[Michel Salgado|M. Salgado]]              |nb=ESP |n=2  |pos=RB |rc=1 |syc=0 |yc=5 |nt=}}
+
+{{Fb disc player |p=[[Wesley Sneijder|Sneijder]]              |nb=NED |n=10 |pos=AM |rc=0 |syc=0 |yc=7 |nt=}}
+
+{{Fb disc player |p=[[Lassana Diarra|Lass]]                   |nb=FRA |n=6  |pos=DM |rc=0 |syc=0 |yc=6 |nt=}}
+
+{{Fb disc player |p=[[Gabriel Heinze|Heinze]]                 |nb=ARG |n=16 |pos=LB |rc=0 |syc=1 |yc=5 |nt=}}
+
+{{Fb disc player |p=[[Javi García]]   |nb=ESP |n=24 |pos=DM |rc=0 |syc=0 |yc=5 |nt=}}
+
+{{Fb disc player |p=[[Gonzalo Higuaín|Higuaín]]               |nb=ARG |n=20 |pos=FW |rc=0 |syc=0 |yc=5 |nt=}}
+
+{{Fb disc player |p=[[Guti (footballer)|Guti]]             |nb=ESP |n=14 |pos=CM |rc=0 |syc=0 |yc=5 |nt=}}
+
+{{Fb disc player |p=[[Arjen Robben|Robben]]                   |nb=NED |n=11 |pos=RW |rc=0 |syc=1 |yc=4 |nt=}}
+
+{{Fb disc player |p=[[Raúl (footballer)|Raúl]]                   |nb=ESP |n=7  |pos=FW |rc=0  |syc=0 |yc=4 |nt=}}
+
+{{Fb disc player |p=[[Iker Casillas|Casillas]]                |nb=ESP |n=1  |pos=GK |rc=0 |syc=0 |yc=3 |nt=}}
+
+{{Fb disc player |p=[[Fabio Cannavaro|Cannavaro]]             |nb=ITA |n=5  |pos=CB |rc=0 |syc=0 |yc=3 |nt=}}
+
+{{Fb disc player |p=[[Klaas-Jan Huntelaar|Huntelaar]]         |nb=NED |n=19 |pos=FW |rc=0 |syc=1 |yc=1 |nt=}}
+
+{{Fb disc footer |u=2009-06-01|s=[[#Competitive|Competitive matches]] and LFP.com |date=November 2010}}.
+
+===Start formations===
+{{fb sf header}}
+{{fb sf formation |q=31 |f=4–3–3   |m=6–8,11–13,16–17,19–35,41,43–44,47–49 }}
+{{fb sf formation |q=5  |f=4–2–3–1 |m=aom }}
+{{fb sf formation |q=14  |f=4–4–2   |m=1–2,10,14,18,36–40,42,45–46,50 }}
+
+{{fb sf footer |u=2009-06-01 |s=Match reports in [[#Competitive|Competitive matches]] |date=November 2010}}
+
+*It should be pointed out that Real is neither playing 4–3–3 nor 4–4–2, but a hybrid formation between both.
+
+==See also==
+*[[2008–09 La Liga]]
+*[[2008–09 Copa del Rey]]
+*[[2008 Supercopa de España]]
+*[[2008–09 UEFA Champions League]]
+
+==References==
+{{Reflist}}
+
+{{Real Madrid C.F. seasons}}
+{{2008–09 in Spanish football}}
+{{Use dmy dates|date=June 2021}}
+
+{{DEFAULTSORT:Real Madrid CF season}}
+[[Category:Real Madrid CF seasons|2008–09]]
+[[Category:Spanish football clubs 2008–09 season]]
+[[Category:2008–09 UEFA Champions League participants seasons]]
+[[Category:2008 in Madrid]]
+[[Category:2009 in Madrid]]

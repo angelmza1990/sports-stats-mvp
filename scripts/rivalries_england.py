@@ -514,8 +514,8 @@ def big_six(key: str, a: str, b: str):
             pub = en_published(text, pair)
             if pub:
                 data["published"] = pub
-            data["scorers"] = en_leaders(text, r"(?:Top goalscorers|Top scorers|Fixture top scorers[^=]*)", "goals", pair)
-            data["appearances"] = en_leaders(text, r"Most appearances", "apps", pair)
+            data["scorers"] = en_leaders(text, r"=+\s*(?:Top goalscorers|Top scorers|Fixture top scorers)[^=\n]*=+", "goals", pair)
+            data["appearances"] = en_leaders(text, r"=+\s*(?:Most appearances|Top appearance makers)[^=\n]*=+", "apps", pair)
             data["source"]["label"] += f"; top scorers and appearances from English Wikipedia, {title}"
         return data
 

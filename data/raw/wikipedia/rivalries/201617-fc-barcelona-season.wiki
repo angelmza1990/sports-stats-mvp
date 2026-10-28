@@ -1,0 +1,2409 @@
+{{Short description|118th season in existence of FC Barcelona}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox football club season
+| club          = [[FC Barcelona|Barcelona]]
+| season        = 2016–17
+| image         = Save the Dream at the Match of Champions (31791512851) (2).jpg
+| image_size    = 300px
+| caption       = Barcelona players during the Save the Dream match in December 2016
+| chrtitle      = President
+| chairman      = [[Josep Maria Bartomeu]]
+| manager       = [[Luis Enrique]]
+| mgrtitle      = Head Coach
+| stadium       = [[Camp Nou]]
+| league        = [[La Liga]]
+| league result = [[2016–17 La Liga|2nd]]
+| cup1          = [[Copa del Rey]]
+| cup1 result   = '''[[2016–17 Copa del Rey|Winners]]'''
+| cup2          = [[Supercopa de España]]
+| cup2 result   = '''[[2016 Supercopa de España|Winners]]'''
+| cup3          = [[UEFA Champions League]]
+| cup3 result   = [[2016–17 UEFA Champions League|Quarter-finals]]
+| league topscorer   =<br/> [[Lionel Messi]] (37)
+| season topscorer   =<br/> Lionel Messi (54)
+| highest attendance = 98,485 vs [[Real Madrid CF|Real Madrid]]<br><small>(3 December 2016)</small>
+| lowest attendance  = {{nowrap|56,605 vs [[Sporting de Gijón|Sporting Gijón]]}}<br><small>(1 March 2017)</small>
+| average attendance = {{formatnum:{{#expr: ( 65731 + 72303 + 87315 + 81595 + 82914 + 83439 + 98485 + 79370 + 81480 + 83884 + 63378 + 56605 + 77117 + 77058 + 85511 + 81704 + 62453 + 88268 + 73093 ) / 19 round 0}}}}
+| pattern_la1 = _fcbarcelona1617h
+| pattern_b1  = _fcbarcelona1617h
+| pattern_ra1 = _fcbarcelona1617h
+| pattern_sh1 = _fcbarcelona1617h
+| pattern_so1 = _barcelona1617hl
+| leftarm1    = 0000BC
+| body1       = 0000BC
+| rightarm1   = 0000BC
+| shorts1     = 0000BC
+| socks1      = 0000BC
+| pattern_la2 = _fcbarcelona1617a
+| pattern_b2  = _fcbarcelona1617a
+| pattern_ra2 = _fcbarcelona1617a
+| pattern_sh2 = _fcbarcelona1617a
+| pattern_so2 = _barcelona1617al
+| leftarm2    = FFFFFF
+| body2       = 2e004d
+| rightarm2   = FFFFFF
+| shorts2     = FFFFFF
+| socks2      = FF409F
+| pattern_la3 = _fcbarcelona1617t
+| pattern_b3  = _fcbarcelona1617t
+| pattern_ra3 = _fcbarcelona1617t
+| pattern_sh3 = _fcbarcelona1617t
+| pattern_so3 = _barcelona1617tl
+| leftarm3    = FFFFFF
+| body3       = 6EFFDD
+| rightarm3   = FFFFFF
+| shorts3     = FFFFFF
+| socks3      = 6EFFDD
+| prevseason = [[2015–16 FC Barcelona season|2015–16]]
+| nextseason = [[2017–18 FC Barcelona season|2017–18]]
+}}
+The '''2016–17 season''' was '''[[FC Barcelona|Futbol Club Barcelona]]'s''' 118th in existence and [[FC Barcelona|the club]]'s [[La Liga#Clubs|86th consecutive season]] in the top flight of Spanish football. Barcelona was involved in four competitions after winning the [[Double (association football)|double]] of [[2015–16 La Liga|La Liga]] and the [[2015–16 Copa del Rey|Copa del Rey]] in the [[2015–16 FC Barcelona season|previous season]]. This would be the final season under head coach [[Luis Enrique]] as he decided to let his contract expire.
+
+Barcelona kicked off the season with en emphatic 5–0 aggregate victory over [[Sevilla FC|Sevilla]] in the Supercopa de España, but the rest of the season was more mixed. The most memorable highlights were the historic [[FC Barcelona 6–1 Paris Saint-Germain F.C.|6–1]] comeback win against [[Paris Saint-Germain F.C.|Paris Saint-Germain]] in the return leg of the Champions League round of 16, overturning the heavy 0–4 away defeat, and the 3–2 last-minute away league victory in ''El Clásico'' over [[Real Madrid CF|Real Madrid]] on 23 April, courtesy of a [[Lionel Messi]] strike. However, these performances did not yield trophies in the aforementioned competitions, as Barça was shut down by [[Juventus FC|Juventus]] in the Champions League quarter-finals (0–3 away, 0–0 home) and lost the league title to Real Madrid by three points. The only consolation was a third consecutive Copa del Rey win on 27 May against [[Deportivo Alavés|Alavés]].
+
+The season was the first without [[Dani Alves]] since [[2007–08 FC Barcelona season|2007–08]], who departed to [[Juventus FC|Juventus]], though he returned for a second spell in the [[2021–22 FC Barcelona season|2021–22]] season.
+
+==Kit==
+{|
+|{{ Football kit
+ |pattern_la = _fcbarcelona1617h
+ |pattern_b  = _fcbarcelona1617h
+ |pattern_ra = _fcbarcelona1617h
+ |pattern_sh = _fcbarcelona1617h
+ |pattern_so = _barcelona1617hl
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 0000BC
+ |title      = Home
+}}
+|
+|{{ Football kit
+ |pattern_la = _fcbarcelona1617h
+ |pattern_b  = _fcbarcelona1617h
+ |pattern_ra = _fcbarcelona1617h
+ |pattern_sh = _fcbarcelona1617h
+ |pattern_so = _fcbarcelona1617h2
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = C20000
+ |title      = Home alt.
+}}
+|
+|{{ Football kit
+ |pattern_la = _fcbarcelona1617a
+ |pattern_b  = _fcbarcelona1617a
+ |pattern_ra = _fcbarcelona1617a
+ |pattern_sh = _fcbarcelona1617a
+ |pattern_so = _barcelona1617al
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FF409F
+ |title      = Away
+}}
+|
+|{{ Football kit
+ |pattern_la = _fcbarcelona1617a
+ |pattern_b  = _fcbarcelona1617a
+ |pattern_ra = _fcbarcelona1617a
+ |pattern_sh = _fcbarcelona1617a
+ |pattern_so = _fcbarcelona1617a2
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 1E0033
+ |title      = Away alt.
+}}
+|
+|{{ Football kit
+ |pattern_la = _fcbarcelona1617t
+ |pattern_b  = _fcbarcelona1617t
+ |pattern_ra = _fcbarcelona1617t
+ |pattern_sh = _fcbarcelona1617t
+ |pattern_so = _barcelona1617tl
+ |leftarm    = FFFFFF
+ |body       = 6EFFDD
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = 6EFFDD
+ |title      = Third
+}}
+|{{football kit
+ | pattern_la = _fra16g1mt
+ | pattern_b  = _fra16g1
+ | pattern_ra = _fra16g1mt
+ | pattern_sh = _nikeblanco
+ | pattern_so = _fra16g1
+ | leftarm    = 511A57
+ | body       = 000000
+ | rightarm   = 511A57
+ | shorts     = 000000
+ | socks      = 000000
+ | title      = Goalkeeper 1
+}}
+|{{football kit
+ | pattern_la = _fra16g2
+ | pattern_b  = _fra16g2
+ | pattern_ra = _fra16g2
+ | pattern_sh = _frank16gkh
+ | pattern_so  = _fra16g2
+ | leftarm    = D1EC6B
+ | body       = EAFF59
+ | rightarm   = D1EC6B
+ | shorts     = EAFF59
+ | socks      = EAFF59
+ | title      = Goalkeeper 2
+}}
+|{{Football kit
+| pattern_la       = _nike16g2
+| pattern_b        = _nike16g2
+| pattern_ra       = _nike16g2
+| pattern_sh       = _nike16g2
+| pattern_so       = _nike16g2
+| leftarm          = 188338
+| body             = 188338
+| rightarm         = 188338
+| shorts           = 188338
+| socks            = 188338
+|title             = Goalkeeper 3
+}}
+|}
+
+==Season overview==
+===June===
+On 1 June, the club announced that [[Sandro Ramírez]]'s contract would be rescinded.<ref>{{cite web|url=http://www.sport-english.com/en/noticias/barca/robert-confirms-sandro-will-allowed-leave-barcelona-this-summer-5154811 |title=Robert confirms Sandro will be allowed to leave Barcelona. |work=Sport|location=Spain |date=24 May 2016 |access-date=23 June 2016}}</ref>
+
+On 2 June, Barcelona announced that [[Dani Alves]] would be departing the club after eight seasons.<ref>{{cite web|url=http://www.fcbarcelona.com/football/first-team/detail/article/dani-alves-to-leave-fc-barcelona-this-summer |title=Dani Alves to leave Barcelona this summer. |publisher=FC Barcelona |date=2 June 2016 |access-date=2 June 2016}}</ref>
+
+On 3 June, Barcelona announced that [[Bundesliga|German]] club [[Borussia Dortmund]] have informed them of their desire to activate the buy-out clause for [[Marc Bartra]].<ref>{{cite web|url=http://www.fcbarcelona.com/football/first-team/detail/article/marc-bartra-to-join-borussia-dortmund |title=Bartra to join Borussia Dortmund. |publisher=FC Barcelona |date=3 June 2016 |access-date=3 June 2016}}</ref>
+
+On 5 June, the club announced that [[Denis Suárez]] will be forming part of the first team for this season.<ref>{{cite web|url=http://www.fcbarcelona.com/football/first-team/detail/article/denis-suarez-two-years-of-development |title=Denis Suárez, two years of development. |publisher=FC Barcelona |date=5 June 2016 |access-date=5 June 2016}}</ref>
+
+===July===
+On 1 July, Barcelona and [[Neymar]] negotiated a five-year contract extension lasting until 30 June 2021.<ref>{{cite news |date=1 July 2016 |title=Neymar extends contract until 2021. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/neymar-contract-extension-2021-fcbarcelona/ |publisher=FC Barcelona |access-date=1 July 2016}}</ref>
+
+On 4 July, the club completed the transfer of Denis Suárez.<ref>{{cite news |date=4 July 2016 |title=Denis Suárez returns to Barça. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/denis-suarez-joins-fcbarcelona |publisher=FC Barcelona |access-date=4 July 2016}}</ref>
+
+On 12 July, the club announced the transfers of 22-year-old [[France national football team|French international]] defender [[Samuel Umtiti]] from [[Olympique Lyonnais|Lyon]]<ref>{{cite news |date=12 July 2016 |title=Umtiti second signing for Barcelona. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/samuel-umtiti-segon-fitxatge-del-fc-barcelona-2016/samuel-umtiti-second-signing-for-fc-barcelona-201617 |publisher=FC Barcelona |access-date=12 July 2016}}</ref> and [[Lucas Digne]] from [[Paris Saint-Germain F.C.|Paris Saint-Germain]] for the next five seasons, respectively.<ref>{{cite news |date=12 July 2016 |title=Digne becomes Barcelona's latest signing. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/lucas-digne-becomes-fc-barcelona-s-latest-signing |publisher=FC Barcelona |access-date=12 July 2016}}</ref>
+
+On 14 July, the two transfers were completed.<ref>{{cite news |date=14 July 2016 |title=Digne's officially a Barcelona player. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/lucas-digne-is-officially-an-fc-barcelona-player |publisher=FC Barcelona |access-date=14 July 2016}}</ref><ref>{{cite news |date=14 July 2016 |title=Umtiti arrives in Barcelona. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/samuel-umtiti-arrives-in-barcelona |publisher=FC Barcelona |access-date=14 July 2016}}</ref>
+
+On 19 July, Barcelona and [[Sergi Samper]] negotiated a three-year contract extension lasting until 30 June 2019, including promotion to the first team.<ref>{{cite news |date=19 July 2016 |title=Samper extends contract to 2019. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/samper-extends-contract-to-2019 |publisher=FC Barcelona |access-date=19 July 2016}}</ref>
+
+On 19 July, Barcelona and [[Munir El Haddadi]] also negotiated a three-year contract extension lasting until 30 June 2019.<ref>{{cite news |date=19 July 2016 |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/munir-renews-until-2019 |title=Munir renews until 2019. |publisher=FC Barcelona |access-date=19 July 2016}}</ref>
+
+On 19 July, Barcelona and [[Qatar Airways]] extended sponsorship agreement for one year more.<ref>{{cite news |date=19 July 2016 |url=https://www.fcbarcelona.com/club/news/2016-2017/fc-barcelona-and-qatar-airways-extend-sponsorship-agreement |title=Barcelona and Qatar Airways extend sponsorship agreement. |publisher=FC Barcelona |access-date=19 July 2016}}</ref>
+
+On 21 July, Barcelona and [[Valencia CF|Valencia]] reached an agreement for the transfer of [[Portugal national football team|Portuguese international]] midfielder [[André Gomes]].<ref>{{cite news |date=21 July 2016 |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/agreement-with-valencia-for-andre-gomes |title=Agreement with Valencia for André Gomes. |publisher=FC Barcelona |access-date=21 July 2016}}</ref> On 26 July, the transfer was completed.<ref>{{cite news |date=26 July 2016 |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/andre-gomes-first-hours-as-an-fc-barcelona-player |title=André Gomes' first hours as a Barcelona player. |publisher=FC Barcelona |access-date=26 July 2016}}</ref>
+
+During the press conference of Gomes' presentation, the club announced midfielder [[Javier Mascherano]]'s contract was extended until 30 June 2019.<ref>{{cite news |date=27 July 2016 |title=Mascherano extends contract until 2019. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/javier-mascherano-extends-contract-until-2019/ |publisher=FC Barcelona |access-date=27 July 2016}}</ref>
+
+On 30 July, Barcelona won their first pre-season match against [[2015–16 Scottish Premiership|Scottish champions]] [[Celtic F.C.|Celtic]] with a 1–3 score in [[Dublin]] as part of the [[2016 International Champions Cup]].<ref>{{cite news |date=30 July 2016 |title=Barça open the pre-season with a 3–1 victory over Celtic. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-open-the-pre-season-with-a-3-1-victory-over-celtic-fc |publisher=FC Barcelona}}</ref>
+
+===August===
+On 1 August, the club cancelled the contracts of [[Alex Song]] and [[Martín Montoya]].<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-and-alex-song-agree-to-terminate-contract |title=Barça and Song agree to terminate contract. |publisher=FC Barcelona |date=1 August 2016 |access-date=1 August 2016}}</ref><ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/agreement-to-cancel-martin-montoya-s-contract |title=Agreement to cancel Montoya's contract. |publisher=FC Barcelona |date=1 August 2016 |access-date=1 August 2016}}</ref>
+
+On 3 August, Barcelona defeated [[2015–16 Premier League|English Premier League champions]] [[Leicester City F.C.|Leicester City]] 4–2 in [[Stockholm]] with goals from Munir (2), [[Luis Suárez (Uruguayan footballer)|Luis Suárez]] and [[FC Barcelona B|Barcelona B]] player Rafa Mújica.<ref>{{Cite web |url=https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/international-champions-cup/barcelona-leicester-city?tabType=report |title=Barça beat Leicester City. |publisher=FC Barcelona |date=3 August 2016 |access-date=21 August 2016}}</ref>
+
+On 6 August, Barcelona were soundly defeated by [[Liverpool F.C.|Liverpool]] 4–0 at [[Wembley Stadium]] in [[London]].<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/international-champions-cup/liverpool-barcelona?tabType=report |title=Liverpool beat up on Barça (4–0). |publisher=FC Barcelona |date=6 August 2016 |access-date=21 August 2016}}</ref>
+
+On 8 August, the club loaned [[Thomas Vermaelen]] to [[Serie A|Italian]] club [[A.S. Roma|Roma]] with an option to buy.<ref>{{cite news|title=Vermaelen loaned to Roma. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/thomas-vermaelen-loaned-to-as-roma |publisher=FC Barcelona |date=8 August 2016 |access-date=8 August 2016}}</ref>
+
+On 10 August, the [[2016 Joan Gamper Trophy]] was played against Italian club [[U.C. Sampdoria|Sampdoria]], finishing 3–2 with a goal from Luis Suárez and two from [[Lionel Messi]].<ref>{{cite web|url=https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/joan-gamper-trophy/round-3/barcelona-sampdoria?tabType=report |title=Barça keep the Gamper home. |publisher=FC Barcelona |date=10 August 2016 |access-date=21 August 2016}}</ref>
+
+On 14 August, Barcelona won the first official match in the [[2016 Supercopa de España]] against [[Sevilla FC|Sevilla]] with a 0–2 away score.<ref>{{cite web|url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/sevilla-fc-v-fc-barcelona-half-way-there-0-2- |title=Sevilla v Barcelona: Half way there! (0–2). |publisher=FC Barcelona |date=14 August 2016 |access-date=14 August 2016}}</ref>
+
+On 18 August, Barcelona beat Sevilla with 3–0 (5–0 aggregate) and won their 12th Supercopa de España.<ref>{{cite web|url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-win-12th-spanish-super-cup |title=Barça win 12th Spanish Super Cup. |publisher=FC Barcelona |date=18 August 2016 |access-date=18 August 2016}}</ref>
+
+On 20 August, Barcelona defeated [[Real Betis]] 6–2 in their first Liga match, with a hat-trick from Luis Suárez, two goals from Messi and one from [[Arda Turan]].<ref>{{cite web|url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-real-betis-back-with-a-bang-6-2- |title=Barcelona v Betis: Back with a bang (6–2). |publisher=FC Barcelona |date=20 August 2016 |access-date=20 August 2016}}</ref>
+
+On 25 August, the club completed the transfer of 27-year-old goalkeeper [[Jasper Cillessen]] from [[AFC Ajax|Ajax]] on a five-year contract,<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/jasper-cillessen-joins-fc-barcelona |title=Cillessen joins Barcelona. |publisher=FC Barcelona |date=25 August 2016 |access-date=25 August 2016}}</ref> with goalkeeper [[Claudio Bravo]] then joining [[Manchester City F.C.|Manchester City]] after two years with Barça.<ref>{{cite web |url=http://www.mancity.com/news/first-team/2016/08/25/claudio-bravo-signs-for-city/1472119073317 |title=Bravo signs for City. |publisher=ManCity.com |date=25 August 2016 |access-date=25 August 2016 |archive-url=https://web.archive.org/web/20160825142732/http://www.mancity.com/news/first-team/2016/08/25/claudio-bravo-signs-for-city/1472119073317 |archive-date=25 August 2016 |url-status=dead }}</ref> Several hours later, both teams were drawn into [[2016–17 UEFA Champions League group stage#Group C|Group C]] of the Champions League draw, alongside [[Borussia Mönchengladbach]] and Celtic.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0253-0d81b9ebb1b5-0d9c9d16c91a-1000--uefa-champions-league-group-stage-draw/ |title=UEFA Champions League group stage draw |publisher=UEFA |date=25 August 2016 |access-date=25 August 2016}}</ref>
+
+On 28 August, Barcelona defeated [[Athletic Bilbao]] 0–1 with a goal from [[Ivan Rakitić|Rakitić]] and [[Luis Enrique (footballer)|Luis Enrique]] wins his 100th match as Barça manager,<ref>{{Cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/athletic-club-v-fc-barcelona-three-huge-points-at-san-mames-0-1- |title=Athletic Club v FC Barcelona: Three huge points at San Mamés (0–1) |publisher=FC Barcelona |date=28 August 2016 |access-date=28 August 2016}}</ref> [[Ter Stegen]] made most goalkeeper passes in one single match in LaLiga.<ref>{{Cite web |url=http://www.marca.com/futbol/barcelona/2016/08/28/57c33a11e5fdeaa2688b45b2.html |title=Récord de pases en LaLiga para Ter Stegen |work=Marca|location=Spain|date=28 August 2016 |access-date=28 August 2016}}</ref>
+
+On 30 August, the club completed the last transfer of [[Paco Alcácer]] from Valencia.<ref>{{Cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/paco-alcacer-signs-for-fc-barcelona |title=Paco Alcácer signs for FC Barcelona |publisher=FC Barcelona |date=30 August 2016 |access-date=30 August 2016}}</ref>
+
+===September===
+On 10 September, in the match against Deportivo Alavés, Barcelona suffered a 1–2 defeat.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-alaves-newboys-stun-camp-nou-1-2- |title=FC Barcelona v Alavés: Newboys stun Camp Nou (1-2). |publisher=FC Barcelona |date=10 September 2016 |access-date=10 September 2016}}</ref>
+
+On 13 September, Barcelona defeated Celtic 7–0 in the opening match of Group C in the Champions League. Messi notched his first hat-trick of the season, while Neymar provided four assists and a [[direct free kick|free-kick]] goal.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-open-champions-league-play-with-a-7-0-rout-of-celtic-fc |title=Barça open Champions League play with a 7–0 rout of Celtic. |publisher=FC Barcelona |date=13 September 2016 |access-date=13 September 2016}}</ref>
+
+On 17 September, Barcelona faced for the first time recently promoted [[CD Leganés|Leganés]] at the [[Estadio Municipal de Butarque]]. Barcelona won 1–5 with two goals from Messi and one each from Luis Suárez, Neymar and [[Rafinha (footballer, born February 1993)|Rafinha]].<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/five-star-fc-barcelona-too-good-for-leganes-1-5- |title=Barça get back to winning ways. |publisher=FC Barcelona |date=17 September 2016 |access-date= 18 September 2016}}</ref>
+
+On 21 September, Barcelona drew against Atlético Madrid 1–1; Ivan Rakitić gave Barça the lead before half-time, but Atlético battled back to draw level in the second half after Messi was substituted out due to injury.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-atletico-madrid-one-point-each-1-1- |title=FC Barcelona v Atlético Madrid: One point each (1–1). |publisher=FC Barcelona |date=21 September 2016 |access-date=13 September 2016}}</ref>
+
+On 24 September, Barcelona won 0–5 over [[Sporting de Gijón]] through two goals from Neymar and one each from Suárez, Turan and Rafinha.<ref>{{Cite web|url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/sporting-gijon-v-fc-barcelona-barca-prove-a-handful-at-el-molinon-0-5-|title=Sporting Gijón v FC Barcelona: Barça prove a handful at El Molinón (0-5) {{!}} FC Barcelona|publisher=FC Barcelona|access-date=2016-09-25}}</ref>
+
+On 28 September, Barcelona defeated Borussia Mönchengladbach 1–2 with goals from Turan and [[Gerard Piqué]], turning around a 1–0 first-half deficit to Barça top of Group C.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/second-half-heroics-lift-fc-barcelona-to-a-2-1-victory-over-borussia-monchengladbach |title=Second-half heroics lift FC Barcelona to a 2–1 victory over Borussia Mönchengladbach. |publisher=FC Barcelona |date=28 September 2016 |access-date=28 September 2016}}</ref>
+
+===October===
+On 2 October, Barcelona lost to [[Celta de Vigo]] 4–3; a second-half resurgence not enough for Luis Enrique's side as they finished on the wrong end of a seven-goal thriller away in [[Vigo]].<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/battling-fc-barcelona-suffer-balaidos-blues-4-3- |title=Celta Vigo v FC Barcelona: Battling Barça suffer Balaídos blues (4-3) |publisher=FC Barcelona |date=2 October 2016 |access-date=2 October 2016}}</ref>
+
+On 15 October, Barcelona defeated [[Deportivo de La Coruña]] 4–0 with two goals from Rafinha and one each from Luis Suárez and Messi, the latter who returned from injury in the match.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-deportivo-la-coruna-back-in-the-saddle-with-a-4-0-victory |title=FC Barcelona v Deportivo La Coruña: Back in the saddle with a 4–0 triumph |publisher=FC Barcelona |date=15 October 2016 |access-date=15 October 2016}}</ref>
+
+On 19 October, Barcelona defeated [[Manchester City F.C.|Manchester City]] – led by former Barça manager [[Pep Guardiola]] – 4–0 at home on the strength of a Messi hat-trick.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-fc-barcelona-v-manchester-city-maestro-messi-shows-the-way-4-0- |title=Match Report: FC Barcelona v Manchester City: Maestro Messi shows the way (4–0) |publisher=FC Barcelona |date=19 October 2016 |access-date=19 October 2016}}</ref>
+
+On 22 October, Barcelona defeated Valencia 2–3 at Mestalla, Messi spot-kick in injury time secured three points out of an electrifying encounter.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/valencia-2-3-fc-barcelona-late-penalty-wins-nail-biting-thriller |title=Valencia 2-3 FC Barcelona: Late penalty wins nail-biting thriller |publisher=FC Barcelona |date=22 October 2016 |access-date=22 October 2016}}</ref>
+
+On 29 October, Barcelona won against Granada 1–0 in the 1,500th game at Camp Nou, Barça found it tough to breakdown the stubborn visitors but Rafinha's strike was enough to claim the win.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-granada-persistence-pays-off-1-0- |title=FC Barcelona v Granada: Persistence pays off (1-0)
+ |publisher=FC Barcelona |date=29 October 2016 |access-date=29 October 2016}}</ref>
+
+===November===
+On 1 November, Barcelona was defeated by Manchester City 3–1 at Manchester, Guardiola's team came from behind after Messi opened scoring.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/manchester-city-3-1-fc-barcelona-shaken-not-stirred |title=Manchester City 3-1 FC Barcelona: Shaken, not stirred |publisher=FC Barcelona |date=1 November 2016 |access-date=1 November 2016}}</ref>
+
+On 6 November, Barcelona won 1–2 against Sevilla at the Sánchez Pizjuán; Messi canceled out Vitolo's opener late in the first half before setting up Luis Suárez for the winner in a frenetic game.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/sevilla-v-fc-barcelona-messi-magic-inspires-comeback-win-1-2- |title=Sevilla v FC Barcelona: Magic Messi inspires comeback win (1-2) |publisher=FC Barcelona |date=6 November 2016 |access-date=6 November 2016}}</ref>
+
+On 16 November, the club announced [[Rakuten]] signed up as FC Barcelona's new main global partner; the Japanese company will appear on the front of the team's shirt and become the Global Innovation and Entertainment Partner for the next four seasons, starting 1 July 2017.<ref>{{cite web |url=https://www.fcbarcelona.com/club/news/2016-2017/rakuten-sign-up-as-fc-barcelona-s-new-main-global-partner |title=Rakuten sign up as FC Barcelona's new main global partner |publisher=FC Barcelona |date=16 November 2016 |access-date=16 November 2016}}</ref>
+
+On 19 November, Barça drew Málaga 0–0, a domineering performance was frustrated by 90 minutes of intense Andalusian defending.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-0-0-malaga-cf-deadlocked |title=FC Barcelona 0-0 Málaga CF: Deadlocked |publisher=FC Barcelona |date=19 November 2016 |access-date=19 November 2016}}</ref>
+
+On 23 November, Barcelona won 2–0 against Celtic at [[Celtic Park]]; coupled with Man City's draw in Germany, they clinched a seeded berth in the round of sixteen.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/celtic-fc-0-2-fc-barcelona-group-c-champions- |title=Celtic FC 0-2 FC Barcelona: Group C champions! |publisher=FC Barcelona |date=23 November 2016 |access-date=23 November 2016}}</ref> Also in this game Messi reached 100 goals in international competitions for Barcelona.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/leo-messi-s-100-goals-in-international-competition |title=Leo Messi's 100 goals in international competition |publisher=FC Barcelona |date=23 November 2016 |access-date=23 November 2016}}</ref>
+
+On 27 November, Barcelona drew 1–1 with Real Sociedad at Anoeta, Messi's second-half leveller halted Barça's run of four straight league losses in San Sebastian.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/real-sociedad-v-fc-barcelona-anoeta-battle-ends-even-1-1- |title=Real Sociedad v FC Barcelona: Anoeta battle ends even (1-1) |publisher=FC Barcelona |date=28 November 2016 |access-date=28 November 2016}}</ref>
+
+On 30 November, Barcelona drew [[Hércules CF|Hércules]] 1–1, a fine long range strike from debutant Aleña gave Barça a slight advantage going into the second leg.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/hercules-cf-v-fc-barcelona-holders-held-1-1- |title=Hércules CF v FC Barcelona: Holders held (1-1) |publisher=FC Barcelona |date=30 November 2016 |access-date=30 November 2016}}</ref>
+
+===December===
+[[File:2016-17 FC Barcelona at the Match of Champions.jpg|thumb|upright=1.3|2016–17 FC Barcelona at the Match of Champions]]
+
+On 3 December, Barcelona drew 1–1 with Real Madrid, Luis Suárez' header being cancelled out by 90th minute Ramos equaliser.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-1-1-real-madrid-cruel-late-blow |title=FC Barcelona 1-1 Real Madrid: Cruel late blow|publisher=FC Barcelona |date=3 December 2016 |access-date=3 December 2016}}</ref>
+
+On 6 December, Barcelona won 4–0 against Borussia Mönchengladbach, a game which saw a hat-trick from Arda Turan.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-borussia-monchengladbach-group-stage-sealed-in-style-4-0- |title=FC Barcelona v Borussia Mönchengladbach: Group stage sealed in style (4-0)|publisher=FC Barcelona |date=6 December 2016 |access-date=6 December 2016}}</ref>
+
+On 10 December, Barcelona won Osasuna 0–3, Luis Suárez breaks the deadlock in the second half, and two further goals from Leo Messi go on to claim all three points in Pamplona.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/ca-osasuna-0-3-fc-barcelona-that-will-do-nicely- |title=CA Osasuna 0-3 FC Barcelona: That will do nicely!|publisher=FC Barcelona |date=10 December 2016 |access-date=10 December 2016}}</ref>
+
+On 12 December, Barcelona were drawn against Paris Saint-Germain in the round of 16 of the Champions League.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0234-0e95e0cadb9c-eaaa62ace796-1000--champions-league-round-of-16-draw-bayern-v-arsenal-paris-v/ |title=Champions League round of 16 draw: Bayern v Arsenal, Paris v Barcelona |publisher=UEFA |date=12 December 2016 |access-date=12 December 2016}}</ref>
+
+On 15 December, Barcelona and Suárez negotiated a five-year contract extension lasting until 30 June 2021.<ref>{{cite news |date=15 December 2016 |title=Luis Suárez at FC Barcelona until 2021. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/luis-suarez-at-barca-until-2021 |publisher=FC Barcelona |access-date=15 December 2016}}</ref>
+
+On 18 December, Barcelona won 4–1 against Espanyol in the [[Derbi barceloní]].<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-rcd-espanyol-derby-delight-4-1- |title=FC Barcelona v RCD Espanyol: Derby delight! (4-1)|publisher=FC Barcelona |date=18 December 2016 |access-date=18 December 2016}}</ref>
+
+On 21 December, Barcelona won 7–0 against Hércules; Paco Alcácer scored his first official goal and Arda Turan got a hat-trick as Barça cruised into the last 16 of the Copa del Rey.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-hercules-through-in-style-7-0- |title=FC Barcelona v Hércules: Through in style (7-0)|publisher=FC Barcelona |date=21 December 2016 |access-date=21 December 2016}}</ref>
+
+On 23 December, Barcelona was drawn against Athletic Club in the round of 16 of the Copa del Rey.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-drawn-against-athletic-club-in-copa-del-rey-last-sixteen |title=FC Barcelona drawn against Athletic Club in Copa del Rey last sixteen |publisher=FC Barcelona |date=23 December 2016 |access-date=23 December 2016}}</ref>
+
+===January===
+On 8 January Barcelona drew 1–1 with Villarreal, with Messi scoring the equalizer in the 90th minute.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/villarreal-v-fc-barcelona-messi-rescues-point-1-1- |title=Villarreal v FC Barcelona: Messi rescues point (1-1) |publisher=FC Barcelona |date=8 January 2017 |access-date=8 January 2017}}</ref>
+
+On 11 January, Barcelona won 3–1 against Athletic Bilbao, goals from Suárez, Neymar and Messi secured an action-packed victory that kept alive the quest for a third consecutive Copa del Rey trophy.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/-match-report-fc-barcelona-3-1-athletic-club-4-3-on-aggregate-the-trident-strikes-again |title=[MATCH REPORT] FC Barcelona 3-1 Athletic Club (4-3 on aggregate): The trident strikes again |publisher=FC Barcelona |date=11 January 2017 |access-date=11 January 2017}}</ref>
+
+On 14 January, Barcelona won 5–0 against Las Palmas, a brace from Luis Suárez and one each for Leo Messi, Arda Turan and Aleix Vidal gave Barça a winning home start to the league in 2017.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-las-palmas-fabulous-five-5-0- |title=FC Barcelona v Las Palmas: Fabulous five (5-0) |publisher=FC Barcelona |date=14 January 2017 |access-date=14 January 2017}}</ref>
+
+On 19 January Barcelona won 0–1 against Real Sociedad, Neymar's 21st-minute penalty ended decade of disappointments in San Sebastián.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/real-sociedad-0-1-fc-barcelona-anoeta-conquered-at-last |title=[MATCH REPORT] Real Sociedad 0-1 FC Barcelona: Anoeta conquered at last |publisher=FC Barcelona |date=19 January 2017 |access-date=19 January 2017}}</ref>
+
+On 22 January, Barcelona won 0–4 against Eibar, a first-half strike from Denis followed by a goal each from the trident in the second secured another three points to stay within reach of the top two.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/eibar-v-fc-barcelona-keeping-up-the-pressure-0-4- |title=Eibar v FC Barcelona: Keeping up the pressure (0-4) |publisher=FC Barcelona |date=22 January 2017 |access-date=22 January 2017}}</ref>
+
+On 26 January, Barcelona won 5–2 against Real Sociedad, a brace from Denis Suárez and further goals by Leo Messi, Luis Suárez and Arda Turan sent Barça into the final four of the Copa del Rey.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-real-sociedad-on-to-the-semis-5-2-6-2-agg.- |title=FC Barcelona v Real Sociedad: On to the semis! (5-2, 6-2 agg.) |publisher=FC Barcelona |date=26 January 2017 |access-date=26 January 2017 |archive-url=https://web.archive.org/web/20170202195607/https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-real-sociedad-on-to-the-semis-5-2-6-2-agg.- |archive-date=2 February 2017 |url-status=dead }}</ref>
+
+On 29 January Barcelona drew 1–1 with Real Betis, an incident-packed game saw Suárez snatched a draw in the 90th minute after the Catalans had already seen at least one valid equaliser overruled.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/-match-report-real-betis-1-1-fc-barcelona-suarez-salvages-late-point |title=[MATCH REPORT] Real Betis 1-1 FC Barcelona: Suárez salvages late point |publisher=FC Barcelona |date=29 January 2017 |access-date=29 January 2017}}</ref>
+
+===February===
+On 1 February, Barcelona won 2–1 against Atlético Madrid, Suárez and Messi put them in command but Griezmann's second half header kept Atlético alive.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/-match-report-atletico-madrid-1-2-fc-barcelona-magnificent-display-puts-barca-in-semi-final-driving-seat |title=[MATCH REPORT] Atlético Madrid 1-2 FC Barcelona: Magnificent display puts Barça in semi-final driving seat |publisher=FC Barcelona |date=1 February 2017 |access-date=1 February 2017}}</ref>
+
+On 4 February, Barcelona won 3–0 against Athletic Club Bilbao, Paco Alcácer, Leo Messi, and Aleix Vidal all found the net.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-fc-barcelona-dispatch-athletic-club-3-0-as-patience-pays-dividends-in-la-liga |title=MATCH REPORT: FC Barcelona beat Athletic Club, 3–0, as patience pays dividends in the league title chase |publisher=FC Barcelona |date=4 February 2017 |access-date=4 February 2017}}</ref>
+
+On 7 February, Barcelona draw 1–1 against Atlético Madrid, Luis Suárez's tap-in just before half-time was enough to see the Catalans into a fourth consecutive Copa del Rey final despite late drama which saw the visitors equalise and a player sent off.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-atletico-madrid-barca-battle-through-to-the-final-1-1-3-2-aggregate- |title=FC Barcelona v Atlético Madrid: Barça battle through to the final! (1-1, 3-2 aggregate) |publisher=FC Barcelona |date=7 February 2017 |access-date=7 February 2017}}</ref>
+
+On 11 February, Barcelona won 6–0 against Alavés. Luis Suárez (2), Neymar Jr, Leo Messi and Ivan Rakitic were on target, plus one own goal; Aleix Vidal suffered a very serious ankle injury late in the game.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/-match-report-alaves-0-6-fc-barcelona-blazing-victory-in-vitoria |title=[MATCH REPORT] Alavés 0-6 FC Barcelona: Blazing victory in Vitoria |publisher=FC Barcelona |date=11 February 2017 |access-date=11 February 2017}}</ref>
+
+On 14 February, Barcelona lost 4–0 against Paris Saint-Germain in the first leg of the first knockout round of the Champions League.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/-match-report-paris-saint-germain-4-0-fc-barcelona-a-mountain-left-to-climb |title=[MATCH REPORT] Paris Saint-Germain 4-0 FC Barcelona: A mountain left to climb |publisher=FC Barcelona |date=14 February 2017 |access-date=14 February 2017}}</ref>
+
+On 19 February, Barcelona won 2–1 against Leganés, Leo Messi's 90th-minute penalty won the game at the Camp Nou.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-v-leganes-late-salvation-2-1- |title=[MATCH REPORT] FC Barcelona 2-1 Leganés: Late salvation |publisher=FC Barcelona |date=19 February 2017 |access-date=19 February 2017}}</ref>
+
+On 26 February, Barcelona won 2–1 against Atlético Madrid, Rafinha's opener was quickly cancelled out by Godín's header but Messi sealed three points in the closing stages.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/-match-report-atletico-madrid-v-fc-barcelona-precious-late-win-at-the-calderon-1-2- |title=[MATCH REPORT] Atlético Madrid 1-2 FC Barcelona: Precious late win at the Calderón |publisher=FC Barcelona |date=26 February 2017 |access-date=26 February 2017}}</ref>
+
+===March===
+On 1 March, Barcelona won 6–1 against Sporting Gijón, with goals from Messi, Suárez, Alcácer, Neymar Jr, Rakitić and an own goal at the Camp Nou.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/-match-report-fc-barcelona-6-1-sporting-gijon-sizzling-barca-keep-up-the-heat |title=[MATCH REPORT] FC Barcelona 6-1 Sporting Gijón: Sizzling Barça keep up the heat |publisher=FC Barcelona |date=1 March 2017 |access-date=1 March 2017}}</ref> During the press conference after the match, Luis Enrique announced his decision to leave at the end of the season.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/luis-enrique-to-leave-fc-barcelona-at-the-end-of-the-season |title=Luis Enrique to leave FC Barcelona at the end of the season |publisher=FC Barcelona |date=1 March 2017 |access-date=1 March 2017}}</ref>
+
+On 4 March, Barcelona won 5–0 against Celta, with goals from Messi (2), Neymar, Rakitic and Umtiti.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/-match-report-fc-barcelona-5-0-celta-football-that-dreams-are-made-of |title=[MATCH REPORT] FC Barcelona 5-0 Celta: Football that dreams are made of |publisher=FC Barcelona |date=4 March 2017 |access-date=4 March 2017}}</ref>
+
+On 8 March, Barça came back from a 4–0 deficit in the first leg. In the second leg, they were up 3–1, but by way of scoring three goals in the last seven minutes, they advanced. Marc-Andre Ter Stegen's saves coupled with Neymar's brace and Sergi Roberto's goal at the death clinched the 6–5 aggregate win in what was hailed as one of the greatest comebacks in Champions League history.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-fc-barcelona-6-1-psg-miracle-makers- |title=MATCH REPORT: FC Barcelona 6-1 PSG: Miracle makers! (6-5 aggregate) |publisher=FC Barcelona |date=8 March 2017 |access-date=8 March 2017}}</ref>
+
+On 9 March, Barcelona and Rakitic negotiated a four-year contract extension lasting until 30 June 2021.<ref>{{cite news |date=9 March 2016 |title=Agreement to renew Ivan Rakitic's contract through to 2021 |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/agreement-to-renew-ivan-rakitic-s-contract-through-to-2021 |publisher=FC Barcelona |access-date=9 March 2016}}</ref>
+
+On 12 March, Barcelona lost to Deportivo la Coruña 2–1, two goals from corners condemned Barça to defeat in Galicia, with Luis Suárez scoring in between.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/-match-report-deportivo-la-coruna-2-1-fc-barcelona-back-down-to-earth |title=[MATCH REPORT] Deportivo la Coruña 2-1 FC Barcelona: Back down to earth |publisher=FC Barcelona |date=12 March 2017 |access-date=12 March 2017}}</ref>
+
+On 17 March, Barcelona were drawn against [[Juventus FC|Juventus]] in the quarter finals of the Champions League.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0237-0e968564abfb-f677030fe9d8-1000--quarter-final-draw-bayern-v-real-madrid-juve-v-barcelona/ |title=Quarter-final draw: Bayern v Real Madrid, Juve v Barcelona |publisher=UEFA |date=17 March 2017 |access-date=17 March 2016}}</ref>
+
+On 19 March, Barcelona won 4–2 against Valencia, with goals from Suárez, André Gomes and a brace from Messi.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/-match-report-fc-barcelona-v-valencia-too-hot-to-handle-4-2- |title=[MATCH REPORT] FC Barcelona 4-2 Valencia: Too hot to handle |publisher=FC Barcelona |date=19 March 2017 |access-date=19 March 2017}}</ref>
+
+===April===
+Barcelona defeated Granada on 2 April 1–4 away, goals from Suárez, Alcácer, Rakitic and Neymar handed Barça another three points to keep in close proximity of the top.<ref>{{cite web|url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-granada-1-4-fc-barcelona-keeping-up-the-pressure |title=MATCH REPORT: Granada 1-4 FC Barcelona: Keeping up the pressure |publisher=FC Barcelona |date=2 April 2016 |access-date=2 April 2016}}</ref>
+
+On 5 April, Barcelona defeated Sevilla 3–0, with a goal from Suárez and two from Messi in 8 minutes.<ref>{{cite web|url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-fc-barcelona-v-sevilla-quickfire-treble-brings-the-points |title=MATCH REPORT: FC Barcelona 3-0 Sevilla: Quickfire treble brings the win |publisher=FC Barcelona |date=5 April 2016 |access-date=5 April 2016}}</ref>
+
+On 8 April, Barcelona lost to Málaga 2–0, ten-man Barça missed out on the chance to return to the top of the table.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-malaga-2-0-barca-costly-defeat |title=Málaga 2-0 Barça: Costly defeat |publisher=FC Barcelona |date=8 April 2017 |access-date=8 April 2017}}</ref>
+
+On 11 April, Barcelona lost to Juventus 3–0, Barça could not break through Juve's rock-solid defense.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-juventus-3-0-fc-barcelona-uefa-champions-league-quarterfinals-barca |title=Italian marble: Juventus 3–0 FC Barcelona |publisher=FC Barcelona |date=11 April 2017 |access-date=11 April 2017}}</ref>
+
+On 15 April, Barcelona beat Real Sociedad 3–2, Barça edged past La Real in a hard-fought duel thanked to two goals from Leo Messi and one from Paco Alcácer.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-fc-barcelona-3-2-real-sociedad-back-to-winning-ways |title=MATCH REPORT: FC Barcelona 3-2 Real Sociedad: Back to winning ways |publisher=FC Barcelona |date=15 April 2017 |access-date=15 April 2017}}</ref>
+
+On 19 April, Barcelona drew 0–0 with Juventus, Barça bade farewell to the Champions League after being unable to break down a resilient Juve backline.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-0-0-juventus-access-denied |title=FC Barcelona 0-0 Juventus: Access denied |publisher=FC Barcelona |date=19 April 2017 |access-date=19 April 2017}}</ref>
+
+On 23 April, Barcelona beat Real Madrid 3–2, Barça grabbed a dramatic victory at the Santiago Bernabéu thanks to an injury-time strike from Leo Messi to move joint-top of the table.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/real-madrid-2-3-fc-barcelona-epic-win-reignites-title-race |title=Real Madrid 2-3 FC Barcelona: Epic late win reignites title race |publisher=FC Barcelona |date=23 April 2017 |access-date=23 April 2017}}</ref> The Argentine star scored his 500th official goal in blaugrana colours at the same time.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/leo-messi-reaches-500-goals-for-fc-barcelona-real-madrid-clasico |title=Leo Messi reaches 500 goals for FC Barcelona |publisher=FC Barcelona |date=23 April 2017 |access-date=23 April 2017}}</ref>
+
+On 26 April, Barcelona beat Osasuna 7–1, braces for Gomes, Messi and Alcácer, and a first ever Barça goal for Mascherano,<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/javier-mascherano-scores-his-first-goal-for-fc-barcelona |title=Javier Mascherano scores his first goal for FC Barcelona |publisher=FC Barcelona |date=26 April 2017 |access-date=26 April 2017}}</ref> earned the points.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-fc-barcelona-v-osasuna-seven-heaven-7-1- |title=MATCH REPORT: FC Barcelona v Osasuna: Seven heaven (7-1) |publisher=FC Barcelona |date=26 April 2017 |access-date=26 April 2017}}</ref>
+
+On 29 April, Barcelona beat Espanyol 3–0, all goals after half time, including a Suárez brace and one from Rakitic, to stay top of the table.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/rcd-espanyol-fc-barcelona-clutch-win-in-cornella-0-3-match-report |title=RCD Espanyol – FC Barcelona: Clutch win in Cornellà (0-3) |publisher=FC Barcelona |date=29 April 2017 |access-date=29 April 2017}}</ref>
+
+===May===
+On 6 May, Barcelona beat Villarreal 4–1, Messi, Suarez and Neymar all scored to keep the Liga title challenge alive, in the process surpassing a combined 100 goals for a third consecutive season.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/-match-report-barca-4-1-villarreal-pressure-pumping-victory |title=[MATCH REPORT] Barça 4-1 Villarreal: Pressure pumping victory|publisher=FC Barcelona |date=6 May 2017 |access-date=6 May 2017}}</ref>
+
+On 14 May, Barcelona beat Las Palmas 4–1, Neymar Jr scored three of the four goals that meant the championship race would now go to the last weekend.<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-ud-las-palmas-1-4-fc-barcelona-big-win-keeps-the-heat-on |title=UD Las Palmas 1-4 FC Barcelona: Big win keeps the heat on|publisher=FC Barcelona |date=14 May 2017 |access-date=14 May 2017}}</ref>
+
+On 21 May, Barcelona won Eibar 4–2, Luis Enrique's men rally back from two goals down to claim victory on the final day of the league campaign but it was not enough to earn the title.<ref>{{cite news |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-fc-barcelona-4-2-eibar-comeback-win-but-title-escapes-barca |title=MATCH REPORT: FC Barcelona 4-2 Eibar: Comeback win, but title escapes Barça|publisher=FC Barcelona |date=22 May 2017 |access-date=22 May 2017}}</ref>
+
+On 27 May, Barcelona won Alavés 3–1, Barça become the first side since the 1950s to win the Copa del Rey three years in a row, on Luis Enrique's last game in charge.<ref>{{cite news |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/match-report-fc-barcelona-3-1-alaves-copa-kings- |title=MATCH REPORT: FC Barcelona 3-1 Alavés: Copa Kings!|publisher=FC Barcelona |date=27 May 2017 |access-date=27 May 2017}}</ref>
+
+On 29 May, Barcelona and Ter Stegen negotiated a five-year contract extension lasting until 30 June 2022.<ref>{{cite news |date=29 May 2017 |title=FC Barcelona extends Ter Stegen contract until 2022. |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-extends-ter-stegen-contract-with-until-2022 |publisher=FC Barcelona |access-date=29 May 2017}}</ref>
+
+==Players==
+
+===Squad information===
+{{fb si header |age=y}}
+{{fb si player |bg= |n=1 |pos=GK |nb=GER |p=[[Marc-André ter Stegen]] |eu=y |age={{Age|1992|04|30|2017|5|27}} |s=2014 |a=93 |g=0 |e=2022 |f={{ntsh|12}}€12M |vc= |notes= }}
+{{fb si player |bg=y |n=3 |pos=CB |nb=ESP |p=[[Gerard Piqué]] |eu=y |age={{Age|1987|2|2|2017|5|27}} |s=2008 |a=397 |g=35 |e=2019 |f={{ntsh|5}}€5M |vc= |notes=Originally from [[La Masia|Youth system]]}}
+{{fb si player |bg= |n=4 |pos=MF |nb=CRO |p=[[Ivan Rakitić]] |eu=y |age={{Age|1988|03|10|2017|5|27}} |s=2014 |a=159 |g=26 |e=2021 |f={{ntsh|18}}€20M  |vc= |notes= }}
+{{fb si player |bg=y |n=5 |pos=MF |nb=ESP |p=[[Sergio Busquets]] |eu=y |age={{Age|1988|7|16|2017|5|27}} |s=2008 |a=432 |g=12 |e=2021 |f={{ntsh|0}}[[La Masia|YS]] |vc=3rd captain |notes= }}
+{{fb si player |bg= |n=6 |pos=MF |nb=ESP |p=[[Denis Suárez]] |eu=y |age={{Age|1994|1|6|2017|5|27}} |s=2016 |a=36 |g=4 |e=2020 |f={{ntsh|3.25}}€3.25M |vc= |notes=}}
+{{fb si player |bg=y |n=7 |pos=MF |nb=TUR |p=[[Arda Turan]] |eu=n |age={{Age|1987|1|30|2017|5|27}} |s=2015 |a=55|g=15 |e=2019 |f={{ntsh|34}}€34M|vc= |notes=}}
+{{fb si player |bg= |n=8 |pos=MF |nb=ESP |p=[[Andrés Iniesta]] |eu=y |age={{Age|1984|5|11|2017|5|27}} |s=2002 |a=630 |g=55 |e=2018 |f={{ntsh|0}}[[La Masia|YS]] |cap=y |notes= }}
+{{fb si player |bg=y |n=9 |pos=FW |nb=URU |p=[[Luis Suárez (Uruguayan footballer)|Luis Suárez]] |eu=n |age={{Age|1987|1|24|2017|5|27}} |s=2014 |a=147 |g=121 |e=2021 |f={{ntsh|81}}€82.3M  |vc= |notes=Second nationality: Italy}}
+{{fb si player |bg= |n=10 |pos=FW |nb=ARG |p=[[Lionel Messi]] |eu=y |age={{Age|1987|6|24|2017|5|27}} |s=2004 |a=583 |g=507 |e=2018 |f={{ntsh|0}} [[La Masia|YS]]    |vc=vice-captain |notes=Second nationality: Spain}}
+{{fb si player |bg=y |n=11 |pos=FW |nb=BRA |p=[[Neymar]] |eu=n |age={{Age|1992|2|5|2017|5|27}} |s=2013 |a=186 |g=105 |e=2021 |f={{ntsh|57.1}}€57.1M |vc= |notes=Second nationality: Portugal }}
+{{fb si player |bg= |n=12 |pos=MF |nb=BRA |p=[[Rafinha (footballer, born February 1993)|Rafinha]] |eu=y |age={{Age|1993|2|12|2017|5|27}} |s=2011 |a=78 |g=11   |e=2020 |f={{ntsh|0}}[[La Masia|YS]] |vc= |notes=Second nationality: Spain }}
+{{fb si player |bg=y |n=13 |pos=GK |nb=NED |p=[[Jasper Cillessen]] |eu=y |age={{Age|1989|4|22|2017|5|27}} |s=2016 |a=10 |g=0 |e=2021 |f={{ntsh|13}}€13M |vc= |notes= }}
+{{fb si player |bg= |n=14 |pos=CB |nb=ARG |p=[[Javier Mascherano]] |eu=y |age={{Age|1984|6|8|2017|5|27}} |s=2010 |a=322 |g=1 |e=2019 |f={{ntsh|22}}€22M  |vc=4th captain |notes=Second nationality: Italy}}
+{{fb si player |bg=y |n=17|pos=FW |nb=ESP |p=[[Paco Alcácer]] |eu=y |age={{Age|1993|08|30|2017|5|27}} |s=2016 |a=28 |g=8 |e=2021 |f={{ntsh|30}}€28M|vc= |notes= }}
+{{fb si player |bg   =|n=18 |pos=LB |nb=ESP |p=[[Jordi Alba]] |eu=y |age={{Age|1989|5|21|2017|5|27}} |s=2012 |a=198 |g=9 |e=2020 |f={{ntsh|14}}€14M  |vc= |notes=Originally from [[La Masia|Youth system]]}}
+{{fb si player |bg=y  |n=19 |pos=LB |nb=FRA |p=[[Lucas Digne]] |eu=y |age={{Age|1993|7|20|2017|5|27}} |s=2016 |a=26 |g=1 |e=2021 | f={{ntsh|16.5}}€16.5M |notes= }}
+{{fb si player |bg= |n=20 |pos=RB |nb=ESP |p=[[Sergi Roberto]] |eu=y |age={{Age|1992|2|7|2017|5|27}} |s=2010 |a=153 |g=6 |e=2019 |f={{ntsh|0}}[[La Masia|YS]]  |vc= |notes= }}
+{{fb si player |bg=y  |n=21 |pos=MF |nb=POR |p=[[André Gomes]] |eu=y |age={{Age|1993|7|30|2017|5|27}} |s=2016 |a=47 |g=3 |e=2021 |f={{ntsh|35}}€50M |vc= |notes= }}
+{{fb si player |bg= |n=22 |pos=RB |nb=ESP |p=[[Aleix Vidal]] |eu=y |age={{Age|1989|8|21|2017|5|27}} |s=2015 |a=26 |g=2 |e=2020 |f={{ntsh|18}}€14.8M |vc= |notes=Originally from [[La Masia|Youth system]] }}
+{{fb si player |bg=y  |n=23 |pos=CB |nb=FRA |p=[[Samuel Umtiti]] |eu=y |age={{Age|1993|11|14|2017|5|27}} |s=2016 |a=43 |g=1 |e=2021 |f={{ntsh|25}}€25M|vc= |notes= }}
+{{fb si player |bg= |n=24 |pos=CB |nb=FRA |p=[[Jérémy Mathieu]] |eu=y |age={{Age|1983|10|29|2017|5|27}} |s=2014 |a=88 |g=4 |e=2018 |f={{ntsh|20}}€23M  |vc= |notes= }}
+{{fb si player |bg=y  |n=25 |pos=GK |nb=ESP |p=[[Jordi Masip]] |eu=y |age={{Age|1989|1|3|2017|5|27}} |s=2014 |a=4  |g=0  |e=2017 |f={{ntsh|0}}[[La Masia|YS]] |vc= |notes= }}
+{{fb si footer |u=27 May 2017|c=ESP |ss=2016 |o= |s=[http://www.fcbarcelona.com/football/first-team/staff FCBarcelona.com], [http://www.fcbarcelona.com/football/first-team/detail/article/fc-barcelona-numbers-released-for-champions-league-2016-17 Champions League 2016/17 numbers], [[#Players in / out|Players in / out]], Wikipedia players' articles, [https://web.archive.org/web/20030402235910/http://soccernet.espn.go.com/team?id=83&cc=5901 ESPN] (for appearances and goals) and [http://www.footballdatabase.com/index.php?page=club&Id=7&b=true&cont=Europe&cln=FC_Barcelona footballdatabase.com] (for EU passport)|date=April 2016}}
+
+====From youth squad====
+
+{{Fs start}}
+{{Fs player|no=26|pos=GK|nat=ESP|name=[[José Aurelio Suárez]]}}
+{{Fs player|no=27|pos=MF|nat=CMR|name=[[Wilfrid Kaptoum]]}}
+{{Fs player|no=28|pos=MF|nat=ESP|name=[[Carles Aleñá]]}}
+{{Fs player|no=29|pos=FW|nat=ESP|name=[[Marc Cardona]]}}
+{{Fs player|no=30|pos=MF|nat=ESP|name=[[Álex Carbonell]]}}
+{{Fs mid}}
+{{Fs player|no=31|pos=DF|nat=ESP|name=[[Borja López]]}}
+{{Fs player|no=32|pos=DF|nat=ESP|name=[[Nili (footballer)|Nili]]}}
+{{Fs player|no=33|pos=DF|nat=BRA|name=[[Marlon (footballer, born September 1995)|Marlon Santos]]}}
+{{Fs player|no=34|pos=DF|nat=ESP|name=[[Sergi Palencia]]}}
+
+{{Fs end}}
+
+===Players in===
+{{fb in2 header |age=y}}
+{{fb in2 player |tc=ESP |bg= |p=[[Denis Suárez]] |type=Buyback clause |eu=y |nb=ESP |n=6 |pos=MF |age={{Age|1994|01|06|2016|07|04}} |fcl={{flagicon|ESP}} [[Villarreal CF|Villarreal]] |w=S |e=2020 |f=€3.25M |os=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/denis-suarez-joins-fcbarcelona FCBarcelona.com]}}
+{{fb in2 player |tc=ESP |bg=y  |p=[[Martín Montoya]] |type=Loan return |eu=y |nb=ESP |n=— |pos=RB |age={{Age|1991|04|14|2016|06|30}} |fcl={{flagicon|ESP}} [[Real Betis]] |w=S |e=2020|f=Free |os=[http://www.fcbarcelona.com/football/first-team/detail/article/end-of-year-review-of-fc-barcelonas-loaned-out-players FCBarcelona.com] }}
+{{fb in2 player |tc=CRO |bg= |p=[[Alen Halilović]] |type=Loan return |eu=y |nb=CRO |n=30 |pos=MF |age={{Age|1996|06|18|2016|06|30}} |fcl={{flagicon|ESP}} [[Sporting de Gijón|Sporting Gijón]] |w=S |e=2020 |f=Free |os=[http://www.fcbarcelona.com/football/first-team/detail/article/end-of-year-review-of-fc-barcelonas-loaned-out-players FCBarcelona.com] }}
+{{fb in2 player |tc=ESP |bg=y |p=[[Cristian Tello]] |type=Loan return |eu=y |nb=ESP |n=— |pos=FW |age={{Age|1991|08|11|2016|06|30}} |fcl={{flagicon|ITA}} [[ACF Fiorentina|Fiorentina]] |w=S |e=2020 |f=Free |os=[http://www.fcbarcelona.com/football/first-team/detail/article/end-of-year-review-of-fc-barcelonas-loaned-out-players FCBarcelona.com]}}
+{{fb in2 player |tc=FRA |bg= |p=[[Samuel Umtiti]] |type=Transfer |eu=y |nb=FRA |n=23 |pos=DF |age={{Age|1993|11|14|2016|06|30}} |fcl={{flagicon|FRA}} [[Olympique Lyonnais|Lyon]] |w=S |e=2021 |f=€25M |os=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/samuel-umtiti-segon-fitxatge-del-fc-barcelona-2016/samuel-umtiti-second-signing-for-fc-barcelona-201617 FCBarcelona.com ]}}
+{{fb in2 player |tc=FRA |bg=y |p=[[Lucas Digne]] |type=Transfer |eu=y |nb=FRA |n=19 |pos=DF |age={{Age|1993|07|20|2016|07|13}} |fcl={{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]] |w=S |e=2021 |f=€16.5M+€4M<br />variables|os=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/lucas-digne-becomes-fc-barcelona-s-latest-signing FCBarcelona.com]}}
+{{fb in2 player |tc=ESP |bg= |p=[[André Gomes]] |type=Transfer |eu=y |nb=POR |n=21 |pos=MF |age={{Age|1993|07|30|2016|07|23}} |fcl={{flagicon|ESP}} [[Valencia CF|Valencia]] |w=S |e=2021 |f=€35M+€20M<br />variables|os=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/agreement-with-valencia-for-andre-gomes FCBarcelona.com]}}
+{{fb in2 player |tc=ESP |bg=y |p=[[Jasper Cillessen]] |type=Transfer |eu=y |nb=NED |n=13 |pos=GK |age={{Age|1989|04|22|2016|08|25}} |fcl={{flagicon|NED}} [[AFC Ajax|Ajax]] |w=S |e=2021 |f=€13M+€2M<br />variables|os=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/jasper-cillessen-joins-fc-barcelona FCBarcelona.com]}}
+{{fb in2 player |tc=ESP |bg= |p=[[Paco Alcácer]] |type=Transfer|eu=y |nb=ESP |n=17 |pos=FW |age={{Age|1993|08|30|2016|08|30}} |fcl={{flagicon|ESP}} [[Valencia CF|Valencia]] |w=S |e=2021 |f=€30M+€2M<br />variables |os=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/paco-alcacer-signs-for-fc-barcelona FCBarcelona.com]}}
+{{end}}
+Total spending: €122.75M
+
+===Players out===
+{{fb out2 header |age=y}}
+{{fb out2 player |tc=CAT |bg= |p=[[Sandro Ramírez]]  |type=End of contract |pos=FW |n=19 |nb=ESP |eu=y |age={{Age|1995|9|7|2016|06|1}} |ncl={{flagicon|ESP}} [[Málaga CF|Málaga]] |w=Summer |f=Free |os=[http://www.malagacf.com/noticia/el-malaga-cf-incorpora-a-sandro-ramirez MalagaCF.com]}}
+{{fb out2 player |tc=CAT |bg=y |p=[[Dani Alves]]  |type=End of contract |pos=DF |n=6 |nb=BRA |eu=y |age={{Age|1983|5|6|2016|06|2}} |ncl={{flagicon|ITA}} [[Juventus FC|Juventus]] |w=Summer |f=Free |os= [http://www.juventus.com/en/news/news/2016/alves-signs-for-juventus-.php Juventus.com]}}
+{{fb out2 player |tc=CAT |bg= |p=[[Marc Bartra]] |type=Transfer |pos=CB |n=15 |nb=ESP |eu=y |age={{Age|1991|1|15|2016|06|3}} |ncl={{flagicon|GER}} [[Borussia Dortmund]] |w=Summer |f=€8M|os= [http://www.bvb.de/eng/News/Overview/BVB-and-Marc-Bartra-agree-to-four-year-contract BVB.de]}}
+{{fb out2 player |tc=CAT |bg=y |p=[[Alen Halilović]]  |type=Transfer |pos=MF |n=30 |nb=CRO |eu=y |age={{Age|1996|6|18|2016|07|19}} |ncl={{flagicon|GER}} [[Hamburger SV|Hamburg]] |w=Summer |f=€5M |os=[https://hsv.de/news/meldungen/saison-2016-17/juli2016/hsv-verpflichtet-alen-halilovic/?sword_list%5B0%5D=halilovic HSV.de]}}
+{{fb out2 player |tc=CAT |bg= |p=[[Adriano (footballer, born 1984)|Adriano]]  |type=Transfer |pos=DF |n=21 |nb=BRA |eu=y |age={{Age|1984|10|26|2016|07|29}} |ncl={{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]] |w=Summer |f=€0.6M |os= [http://www.bjk.com.tr/tr/haber/66879/besiktas_ailesine_hosgeldin_adriano_correia.html BJK.tr.com]}}
+{{fb out2 player |tc=CAT |bg=y  |p=[[Martín Montoya]] |type=Contract termination |pos=DF |n=— |nb=ESP |eu=y |age={{Age|1991|04|14|2016|07|29}} |ncl={{flagicon|ESP}} [[Valencia CF|Valencia]] |w=Summer |f=Free|os=[http://www.valenciacf.com/ver/59825/martin-montoya--nuevo-jugador-del-valencia-cf.html ValenciaCF.com]}}
+{{fb out2 player |tc=CAT |bg= |p=[[Alex Song]]  |type=Contract termination |pos=MF |n=17 |nb=CMR |eu=y |age={{Age|1987|09|09|2016|08|01}} |ncl={{flagicon|RUS}} [[FC Rubin Kazan|Rubin Kazan]] |w=Summer |f=Free |os=[http://www.sportseon.com/live/barcelona-live-stream sportseon.com]}}
+{{fb out2 player |tc=CAT |bg=y |p=[[Thomas Vermaelen]]  |type=Loan |pos=DF |n=23 |nb=BEL |eu=y |age={{Age|1985|11|14|2016|08|08}} |ncl={{flagicon|ITA}} [[A.S. Roma|Roma]] |w=Summer |f=Free |os=[http://www.asroma.com/en/news/2016/8/thomas-vermaelen-joins-roma ASRoma.com]}}
+{{fb out2 player |tc=CAT |bg= |p=[[Cristian Tello]]  |type=Loan |pos=FW |n=— |nb=ESP |eu=y |age={{Age|1991|8|11|2016|08|16}} |ncl={{flagicon|ITA}} [[ACF Fiorentina|Fiorentina]] |w=Summer |f=Free |os=[http://it.violachannel.tv/vc13-dettaglio-breaking/items/id-16-08-2016_12-29-34_tello-ritorna-alla-fiorentina.html ViolaChannel.tv]}}
+{{fb out2 player |tc=CAT |bg=y |p=[[Claudio Bravo]]  |type=Transfer |pos=GK |n=13 |nb=CHI |eu=y |age={{Age|1983|4|13|2016|08|25}} |ncl={{flagicon|ENG}} [[Manchester City F.C.|Manchester City]] |w=Summer |f=€18M+€2M variables |os=[http://www.mancity.com/news/first-team/2016/08/25/claudio-bravo-signs-for-city/1472119073317 ManCity.com]}}
+{{fb out2 player |tc=CAT |bg= |p=[[Sergi Samper]]  |type=Loan |pos=MF |n=16 |nb=ESP |eu=y |age={{Age|1995|1|20|2016|08|26}} |ncl={{flagicon|ESP}} [[Granada CF|Granada]] |w=Summer |f=Free |os=[http://www.granadacf.es/noticia/sergi-samper-la-perla-de-la-masia-rojiblanco-por-una-temporada GranadaCF.es]}}
+{{fb out2 player |tc=CAT |bg=y |p=[[Douglas (footballer, born August 1990)|Douglas]]  |type=Loan |pos=DF |n=2 |nb=BRA |eu=n |age={{Age|1990|8|26|2016|08|26}} |ncl={{flagicon|ESP}} [[Sporting de Gijón|Sporting Gijón]] |w=Summer |f=Free |os=[http://www.realsporting.com/webrsg/index.php/template/actualidad/7087-douglas-un-ano-de-rojiblanco RealSporting.com]}}
+{{fb out2 player |tc=CAT |bg= |p=[[Munir El Haddadi]]  |type=Loan |pos=FW |n=17 |nb=ESP |eu=y |age={{Age|1995|9|14|2016|08|30}} |ncl={{flagicon|ESP}} [[Valencia CF|Valencia]] |w=Summer |f=Free |os=[http://en.valenciacf.com/ver/60563/vcf-official-statement--munir.html ValenciaCF.com]}}
+{{fb out2 footer|date=August 2016}}
+
+Total income: €31.6 million
+
+Net: {{Decrease}} €91.15 million
+
+==Technical staff==
+{{Fb cs header}}
+{{Fb cs staff |bg= |p=First team head coach |s=[[Luis Enrique (footballer)|Luis Enrique]]}}
+{{Fb cs staff |bg= |p=Assistant coach |s=[[Juan Carlos Unzué]]}}
+{{Fb cs staff |bg= |p=Technical assistant |s=[[Robert Moreno]]}}
+{{Fb cs staff |bg= |p=Auxiliary coach |s=[[Joan Barbarà]]}}
+{{Fb cs staff |bg= |p=Fitness coach |s=Rafa Pol}}
+{{Fb cs staff |bg= |p=Goalkeeping coach |s=[[José Ramón de la Fuente]]}}
+{{Fb cs staff |bg= |p=Scoutings |s=Àlex García<br />Jordi Melero<br />Jaume Torras}}
+{{Fb cs staff |bg= |p=Physiotherapist |s=Jaume Minull<br />Juanjo Brau<br />Roger Gironès<br />Xavi Linde}}
+{{Fb cs staff |bg= |p=Psychologist |s=Joaquín Valdés}}
+{{Fb cs staff |bg= |p=Doctor |s=Ricard Pruna<br />Daniel Medina}}
+{{Fb cs staff |bg= |p=Team liaison |s=Carles Naval}}
+{{Fb cs staff |bg= |p=Football Area Technical Commission |s=Jordi Mestre<br />Javier Borda<br />[[Carles Rexach]]<br />Ariedo Braida}}
+{{Fb cs staff |bg= |p=Academy director |s=[[Jordi Roura]]}}
+{{Fb cs staff |bg= |p=[[FC Barcelona B|B team]] coach |s=[[Gerard López]]}}
+{{Fb cs footer|u=26 August 2015 |s=[http://www.fcbarcelona.com/football/first-team FC Barcelona First Team], [http://www.fcbarcelona.com/football/barca-b/squad-barca-b FC Barcelona B Team], [http://www.weloba.com/article/luis-enriques-full-staff-25-men-at-his-service Luis Enrique's full staff], [http://www.fcbarcelona.com/club/detail/article/new-football-area-technical-commission-presented Football Area Technical Commission]|date=June 2016}}
+
+==Statistics==
+
+===Squad appearances and goals===
+:''Last updated on 27 May 2017.''
+
+{{Efs start|[[2016–17 La Liga|La Liga]]|[[2016–17 UEFA Champions League|Champions League]]|[[2016–17 Copa del Rey|Copa del Rey]]|[[2016 Supercopa de España|Supercopa]]}}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Goalkeepers
+{{Efs player|no=1|name=[[Marc-André ter Stegen]]|pos=GK|nat=GER                            |36| 0| 9| 0| 1| 0| 0| 0}}
+{{Efs player|no=13|name=[[Jasper Cillessen]]|pos=GK|nat=NED                                | 1| 0| 1| 0| 8| 0| 0| 0}}
+{{Efs player|no=25|name=[[Jordi Masip]]|pos=GK|nat=ESP                                     | 0| 0| 0| 0| 0| 0| 0| 0}}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Defenders
+{{Efs player|no=3|name=[[Gerard Piqué]]|pos=DF|nat=ESP                                     |25| 2| 8| 1| 7| 0| 1| 0}}
+{{Efs player|no=14|name=[[Javier Mascherano]]|pos=DF|nat=ARG                               |25| 1| 8| 0| 5| 0| 2| 0}}
+{{Efs player|no=18|name=[[Jordi Alba]]|pos=DF|nat=ESP                                      |26| 1| 6| 0| 6| 0| 1| 0}}
+{{Efs player|no=19|name=[[Lucas Digne]]|pos=DF|nat=FRA                                     |17| 0| 4| 0| 3| 1| 2| 0}}
+{{Efs player|no=20|name=[[Sergi Roberto]]|pos=MF|nat=ESP                                   |32| 0| 8| 1| 6| 0| 1| 0}}
+{{Efs player|no=22|name=[[Aleix Vidal]]|pos=DF|nat=ESP                                     | 6| 2| 1| 0| 4| 0| 1| 0}}
+{{Efs player|no=23|name=[[Samuel Umtiti]]|pos=DF|nat=FRA                                   |25| 1| 8| 0| 9| 0| 1| 0}}
+{{Efs player|no=24|name=[[Jérémy Mathieu]]|pos=DF|nat=FRA                                  |13| 1| 2| 0| 0| 0| 1| 0}}
+{{Efs player|no=31|name=[[Nili (footballer)|Nili]]|pos=DF|nat=ESP                          | 0| 0| 0| 0| 1| 0| 0| 0}}
+{{Efs player|no=33|name=[[Marlon (footballer, born September 1995)|Marlon Santos]]|pos=DF|nat=BRA                                   | 2| 0| 1| 0| 0| 0| 0| 0}}
+{{Efs player|no=35|name=[[Borja López]]|pos=DF|nat=ESP                                     | 0| 0| 0| 0| 1| 0| 0| 0}}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Midfielders
+{{Efs player|no=4|name=[[Ivan Rakitić]]|pos=MF|nat=CRO                                     |32| 8| 9| 0| 8| 1| 2| 0}}
+{{Efs player|no=5|name=[[Sergio Busquets]]|pos=MF|nat=ESP                                  |33| 0| 8| 0| 5| 0| 2| 0}}
+{{Efs player|no=6|name=[[Denis Suárez]]|pos=MF|nat=ESP                                     |26| 1| 1| 0| 7| 2| 2| 0}}
+{{Efs player|no=7|name=[[Arda Turan]]|pos=MF|nat=TUR                                       |18| 3| 5| 4| 5| 4| 2| 2}}
+{{Efs player|no=8|name=[[Andrés Iniesta]]|pos=MF|nat=ESP                                   |23| 0| 8| 1| 5| 0| 1| 0}}
+{{Efs player|no=12|name=[[Rafinha (footballer, born February 1993)|Rafinha]]|pos=MF|nat=BRA|18| 6| 6| 0| 4| 1| 1| 0}}
+{{Efs player|no=21|name=[[André Gomes]]|pos=MF|nat=POR                                     |30| 3| 8| 0| 8| 0| 1| 0}}
+{{Efs player|no=28|name=[[Carles Aleñá]]|pos=MF|nat=ESP                                    | 3| 0| 0| 0| 1| 1| 0| 0}}
+{{Efs player|no=30|name=[[Álex Carbonell]]|pos=MF|nat=ESP                                  | 0| 0| 0| 0| 1| 0| 0| 0}}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Forwards
+{{Efs player|no=9|name=[[Luis Suárez (Uruguayan footballer)|Luis Suárez]]|pos=FW|nat=URU                                      |35|29| 9| 3| 6| 4| 1| 1}}
+{{Efs player|no=10|name=[[Lionel Messi]]|pos=FW|nat=ARG                                    |34|37| 9|11| 7| 5| 2| 1}}
+{{Efs player|no=11|name=[[Neymar]]|pos=FW|nat=BRA                                          |30|13| 9| 4| 6| 3| 0| 0}}
+{{Efs player|no=17|name=[[Paco Alcácer]]|pos=FW|nat=ESP                                    |20| 6| 3| 0| 4| 2| 0| 0}}
+{{Efs player|no=29|name=[[Marc Cardona]]|pos=FW|nat=ESP                                    | 0| 0| 1| 0| 1| 0| 0| 0}}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center| Players who have made an appearance or had a squad number this season but have left the club
+{{Efs player|no=2|name=[[Douglas (footballer, born August 1990)|Douglas]]|pos=DF|nat=BRA   | 0| 0| 0| 0| 0| 0| 0| 0}}
+{{Efs player|no=13|name=[[Claudio Bravo]]|pos=GK|nat=CHI                                   | 1| 0| 0| 0| 0| 0| 2| 0}}
+{{Efs player|no=16|name=[[Sergi Samper]]|pos=MF|nat=ESP                                    | 0| 0| 0| 0| 0| 0| 0| 0}}
+{{Efs player|no=17|name=[[Munir El Haddadi]]|pos=FW|nat=ESP                                | 1| 0| 0| 0| 0| 0| 2| 1}}
+|-
+|}
+
+===Squad statistics===
+{|class="wikitable" style="text-align: center;"
+|-
+!
+! style="width:70px;"|[[2016–17 La Liga|League]]
+! style="width:70px;"|[[2016–17 UEFA Champions League|Europe]]
+! style="width:70px;"|[[2016–17 Copa del Rey|Cup]]
+! style="width:70px;"|[[2016 Supercopa de España|Others]]
+! style="width:70px;"|Total Stats
+|-
+|align=left|Games played       || 38 || 10 || 9 || 2 || 59
+|-
+|align=left|Games won          || 28 || 6 || 6 || 2 || 42
+|-
+|align=left|Games drawn        || 6 || 1 || 2 || 0 || 9
+|-
+|align=left|Games lost         || 4 || 3 || 1 || 0 || 8
+|-
+|align=left|Goals scored       || 116 || 26 || 24 || 5 || 171
+|-
+|align=left|Goals conceded     || 37 || 12 || 9 || 0 || 58
+|-
+|align=left|Goal difference    || 79 || 14 || 15 || 5 || 113
+|-
+|align=left|Clean sheets       || 12 || 4 || 2 || 2 || 19
+|-
+|align=left|Goal by Substitute || 2 || 2 || 1 || 1 || 5
+|-
+|align=left|Total shots        || – || – || – || –|| –
+|-
+|align=left|Shots on target    || – || – || – || –|| –
+|-
+|align=left|Corners            || – || – || – || –|| –
+|-
+|align=left|Players used       || – || – || – || –|| –
+|-
+|align=left|Offsides           || – || – || – || –|| –
+|-
+|align=left|Fouls suffered     || – || – || – || –|| –
+|-
+|align=left|Fouls committed    || – || – || – || –|| –
+|-
+|align=left|Yellow cards       || 65 || 20 || 17 || 3 || 105
+|-
+|align=left|Red cards          || 1 || 1 || 2 || 0 || 4
+|-
+{{Fb cs footer|u=5 August 2016|date=August 2016|s=[http://www.fcbarcelona.com/fc-barcelona-statistics-in-la-liga-season-2015-2016 La liga statistics], [http://www.fcbarcelona.com/fc-barcelona-statistics-in-the-uefa-champions-league-season-2015-2016 UEFA Champions League statistics], [http://www.fcbarcelona.com/fc-barcelona-statistics-in-the-spanish-cup-season-2015-2016 Copa Del Rey statistics]}}
+
+<small><span id="PLAYERS"></span>'''Players Used''': Barcelona has used a total of – different players in all competitions.</small>
+
+===Goalscorers===
+
+{| class="wikitable sortable" style="font-size: 95%; text-align: center;"
+|-
+!width="5%"| No.
+!width="5%"| Pos.
+!width="5%"| Nation
+!width="10%"| Name
+![[2016–17 La Liga|La Liga]]
+![[2016–17 UEFA Champions League|Champions League]]
+![[2016–17 Copa del Rey|Copa del Rey]]
+![[2016 Supercopa de España|Supercopa de España]]
+!Total
+|-
+| 10
+| [[Forward (association football)|FW]]
+| {{flagicon|ARG}}
+| [[Lionel Messi|Messi]]
+| 37 <!-- La Liga goals -->
+| 11 <!-- UEFA Champions League goals -->
+| 5 <!-- Copa del Rey goals -->
+| 1 <!-- Supercopa de España goals -->
+|'''54''' <!-- Total goals -->
+|- bgcolor="#EFEFEF"
+| 9
+| [[Forward (association football)|FW]]
+| {{flagicon|URU}}
+| [[Luis Suárez (Uruguayan footballer)|Suárez]]
+|29 <!-- La Liga goals -->
+| 3 <!-- UEFA Champions League goals -->
+| 4 <!-- Copa Del Rey goals -->
+| 1 <!-- Supercopa de España goals -->
+| '''37''' <!-- Total goals -->
+|-
+| 11
+| [[Forward (association football)|FW]]
+| {{flagicon|BRA}}
+| [[Neymar|Neymar Jr]]
+| 14 <!-- La Liga goals -->
+| 4 <!-- UEFA Champions League goals -->
+| 3 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''21''' <!-- Total goals -->
+|- bgcolor="#EFEFEF"
+| 7
+| [[Midfielder (association football)|MF]]
+| {{flagicon|TUR}}
+| [[Arda Turan|Arda]]
+| 3 <!-- La Liga goals -->
+| 4 <!-- UEFA Champions League goals -->
+| 4 <!-- Copa del Rey goals -->
+| 2 <!-- Supercopa de España goals -->
+|'''13''' <!-- Total goals -->
+|-
+| 4
+| [[Midfielder (association football)|MF]]
+| {{flagicon|CRO}}
+| [[Ivan Rakitić|I. Rakitić]]
+| 8 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 1 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''9''' <!-- Total goals -->
+|- bgcolor="#EFEFEF"
+| 17
+| [[Forward (association football)|FW]]
+| {{flagicon|ESP}}
+| [[Paco Alcácer]]
+| 6 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 2 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''8''' <!-- Total goals -->
+|- bgcolor="#EFEFEF"
+| 12
+| [[Midfielder (association football)|MF]]
+| {{flagicon|BRA}}
+| [[Rafinha (footballer, born February 1993)|Rafinha]]
+| 6 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 1 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''7''' <!-- Total goals -->
+|-
+| 3
+| [[Defender (association football)|DF]]
+| {{flagicon|ESP}}
+| [[Gerard Piqué|Piqué]]
+| 2 <!-- La Liga goals -->
+| 1 <!-- UEFA Champions League goals -->
+| 0 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''3''' <!-- Total goals -->
+|-
+| 6
+| [[Midfielder (association football)|MF]]
+| {{flagicon|ESP}}
+| [[Denis Suárez]]
+| 1 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 2 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''3''' <!-- Total goals -->
+|- bgcolor="#EFEFEF"
+| 21
+| [[Midfielder (association football)|MF]]
+| {{flagicon|POR}}
+| [[André Gomes]]
+| 3 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 0 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''3''' <!-- Total goals -->
+|-
+| 22
+| [[Defender (association football)|DF]]
+| {{flagicon|ESP}}
+| [[Aleix Vidal]]
+| 2 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 0 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''2''' <!-- Total goals -->
+|- bgcolor="#EFEFEF"
+| 8
+| [[Midfielder (association football)|MF]]
+| {{flagicon|ESP}}
+| [[Andrés Iniesta|A. Iniesta]]
+| 0 <!-- La Liga goals -->
+| 1 <!-- UEFA Champions League goals -->
+| 0 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''1''' <!-- Total goals -->
+|-
+| 14
+| [[Midfielder (association football)|MF]]
+| {{flagicon|ARG}}
+| [[Javier Mascherano|Mascherano]]
+| 1 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 0 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''1''' <!-- Total goals -->
+|-  bgcolor="#EFEFEF"
+| 18
+| [[Defender (association football)|DF]]
+| {{flagicon|ESP}}
+| [[Jordi Alba]]
+| 1 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 0 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''1''' <!-- Total goals -->
+|-
+| 19
+| [[Defender (association football)|DF]]
+| {{flagicon|FRA}}
+| [[Lucas Digne|Digne]]
+| 0 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 1 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''1''' <!-- Total goals -->
+|- bgcolor="#EFEFEF"
+| 20
+| [[Defender (association football)|DF]]
+| {{flagicon|ESP}}
+| [[Sergi Roberto|S. Roberto]]
+| 0 <!-- La Liga goals -->
+| 1 <!-- UEFA Champions League goals -->
+| 0 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''1''' <!-- Total goals -->
+|-
+| 23
+| [[Defender (association football)|DF]]
+| {{flagicon|FRA}}
+| [[Samuel Umtiti|Umtiti]]
+| 1 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 0 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''1''' <!-- Total goals -->
+|- bgcolor="#EFEFEF"
+| 24
+| [[Defender (association football)|DF]]
+| {{flagicon|FRA}}
+| [[Jérémy Mathieu|Mathieu]]
+| 1 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 0 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''1''' <!-- Total goals -->
+|-
+| 28
+| [[Midfielder (association football)|MF]]
+| {{flagicon|ESP}}
+| [[Carles Aleñá|Aleñá]]
+| 0 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 1 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''1''' <!-- Total goals -->
+|- bgcolor="#EFEFEF"
+| |<s>17</s>
+| [[Forward (association football)|FW]]
+| {{flagicon|ESP}}
+| [[Munir El Haddadi|Munir]]
+| 0 <!-- La Liga goals -->
+| 0 <!-- UEFA Champions League goals -->
+| 0 <!-- Copa del Rey goals -->
+| 1 <!-- Supercopa de España goals -->
+|'''1''' <!-- Total goals -->
+|-
+| #
+| colspan=3 | [[Own goal]]s
+| 2 <!-- La Liga goals -->
+| 1 <!-- UEFA Champions League goals -->
+| 0 <!-- Copa del Rey goals -->
+| 0 <!-- Supercopa de España goals -->
+|'''3''' <!-- Total goals -->
+|- <!-- Total goals -->
+| colspan=4 | '''TOTAL'''
+| 116 <!-- La Liga goals -->
+| 26 <!-- UEFA Champions League goals -->
+| 24 <!-- Copa del Rey goals -->
+| 5 <!-- Supercopa de España goals -->
+| '''171''' <!-- Total goals -->
+|}
+<small>
+Last updated: 27 May 2017<ref name="Bss">{{cite news |title=Barça scoring statistics.
+|date=March 2017 }}</ref>
+</small>
+
+===Hat-tricks===
+<!--WIN TALLYS ARE LISTED FIRST-->
+{| class="wikitable sortable"
+|-
+! Player !! Against !! Result !! Date !! Competition
+|-
+|{{flagicon|URU}} [[Luis Suárez (Uruguayan footballer)|Luis Suárez]]
+|{{flagicon|Spain}} [[Real Betis]]
+|align=center|6–2 (H)
+|20 August 2016
+|align=center|[[2016–17 La Liga|La Liga]]
+|-
+|| {{flagicon|ARG}} [[Lionel Messi]]
+|{{flagicon|SCO}} [[Celtic F.C.|Celtic]]
+|align=center|7–0 (H)
+|13 September 2016
+|align=center|[[2016–17 UEFA Champions League|Champions League]]
+|-
+|| {{flagicon|ARG}} [[Lionel Messi]]
+|{{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|align=center|4–0 (H)
+|19 October 2016
+|align=center|[[2016–17 UEFA Champions League|Champions League]]
+|-
+|| {{flagicon|TUR}} [[Arda Turan]]
+|{{flagicon|GER}} [[Borussia Mönchengladbach]]
+|align=center|4–0 (H)
+|6 December 2016
+|align=center|[[2016–17 UEFA Champions League|Champions League]]
+|-
+|| {{flagicon|TUR}} [[Arda Turan]]
+|{{flagicon|ESP}} [[Hércules CF|Hércules]]
+|align=center|7–0 (H)
+|21 December 2016
+|align=center|[[2016–17 Copa del Rey|Copa del Rey]]
+|-
+|| {{flagicon|BRA}} [[Neymar]]
+|{{flagicon|ESP}} [[UD Las Palmas|Las Palmas]]
+|align=center|1–4 (A)
+|14 May 2017
+|align=center|[[2016–17 La Liga|La Liga]]
+|}
+<small>(H) – Home; (A) – Away</small>
+
+===Clean sheets===
+''Updated 14 January 2017.''
+
+{|class="wikitable" style="text-align: center;"
+|-
+!Rank
+!Name
+!La Liga
+!Copa del Rey
+!Champions League
+!Supercopa de España
+!Total
+!Played Games
+|-
+|1
+|align=left|{{flagicon|GER}} [[Ter Stegen]]
+|12
+|0
+|3
+|0
+|15
+|26
+|-
+|1
+|align=left|{{flagicon|NED}} [[Jasper Cillessen]]
+|0
+|2
+|1
+|0
+|3
+|9
+|-
+|1
+|align=left|{{flagicon|CHI}} [[Claudio Bravo]]
+|0
+|0
+|0
+|2
+|2
+|3
+|-
+!colspan=2|Total!!10!!2!!4!!2!!18!!38
+|}
+
+===Disciplinary record===
+
+Includes all competitive matches. Players listed below made at least one appearance for Barcelona first squad during the season.
+{{fb disc header 3 |c1=La Liga |c2=Champions League |c3=Copa del Rey |c4=Supercopa de España}}
+{{fb disc player 3 |n=1  |bg=y |pos=GK |nb=GER |p=[[Marc-André ter Stegen|Ter Stegen]] |yc1=1 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=3  |bg= |pos=DF |nb=ESP |p=[[Gerard Piqué|Piqué]] |yc1=6 |syc1=0|rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=4  |bg=y |pos=MF |nb=CRO |p=[[Ivan Rakitić|I. Rakitić]] |yc1=5 |syc1=0 |rc1=0 |yc2=4 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=5  |bg= |pos=MF |nb=ESP |p=[[Sergio Busquets|Sergio]] |yc1=9 |syc1=0 |rc1=0 |yc2=3 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=1 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=6  |bg=y |pos=MF |nb=ESP |p=[[Denis Suárez]] |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=7  |bg= |pos=MF |nb=TUR |p=[[Arda Turan|Arda]] |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=8  |bg=y |pos=MF |nb=ESP |p=[[Andrés Iniesta|A. Iniesta]] |yc1=2 |syc1=0 |rc1=0 |yc2=2 |syc2=0 |rc2=0 |yc3=2 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=9  |bg= |pos=FW |nb=URU |p=[[Luis Suárez (Uruguayan footballer)|Suárez]] |yc1=8 |syc1=0 |rc1=0 |yc2=2 |syc2=0 |rc2=0 |yc3=1 |syc3=1 |rc3=0 |yc4=1 |syc4=0 |rc4=0 |nt={{fb ban sustained|i=2 Games(Copa del Rey) for stay in the ground |date=7 February 2017 |d=9 February 2017 |r= November 2017 |s=http://www.rfef.es/noticias/sanciones-acuerdos-del-juez-competicion-vuelta-12-copa-del-rey}} }}
+{{fb disc player 3 |n=10 |bg=y |pos=FW |nb=ARG |p=[[Lionel Messi|Messi]] |yc1=6 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=3 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=11 |bg= |pos=FW |nb=BRA |p=[[Neymar|Neymar Jr]] |yc1=6 |syc1=1 |rc1=0 |yc2=5 |syc2=0 |rc2=0 |yc3=3 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt={{fb ban sustained|i=3 Games(La Liga) for clapping towards the referee |date=8 April 2017 |d=15 April 2017 |r= 27 April 2017 |s=http://www.rfef.es/noticias/acuerdos-y-resoluciones-del-comite-competicion-rfef-0}} }}
+{{fb disc player 3 |n=12 |bg=y |pos=MF |nb=BRA |p=[[Rafinha (footballer, born February 1993)|Rafinha]] |yc1=1 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=13 |bg= |pos=GK |nb=NED |p=[[Jasper Cillessen|Cillessen]] |yc1=0 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=14 |bg=y |pos=MF |nb=ARG |p=[[Javier Mascherano|Mascherano]] |yc1=6 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=17 |bg= |pos=FW |nb=ESP |p=[[Paco Alcácer]] |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=18 |bg=y  |pos=MF |nb=ESP |p=[[Jordi Alba]] |yc1=4 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=2 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=19 |bg= |pos=DF |nb=FRA |p=[[Lucas Digne|Digne]] |yc1=3 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=20 |bg=y |pos=MF |nb=ESP |p=[[Sergi Roberto|S. Roberto]] |yc1=5 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=0 |syc3=1 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=21 |bg= |pos=MF |nb=POR |p=[[André Gomes]] |yc1=3 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=22 |bg=y  |pos=DF |nb=ESP |p=[[Aleix Vidal]] |yc1=0 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=23 |bg= |pos=DF |nb=FRA |p=[[Samuel Umtiti|Umtiti]] |yc1=4 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=3 |syc3=0 |rc3=0 |yc4=1 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=24 |bg=y  |pos=DF |nb=FRA |p=[[Jérémy Mathieu|Mathieu]] |yc1=0 |syc1=0 |rc1=0 |yc2=0 |syc2=1 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{fb disc player 3 |n=28 |bg= |pos=MF |nb=ESP |p=[[Carles Aleñá|Aleñá]] |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0 |nt= }}
+{{Fb disc footer 3 |u=27 May 2017|s=[http://www.espnfc.com/club/barcelona/83/statistics/discipline ESPNFC.com], [http://www.fcbarcelona.com/ FCBarcelona.com] |date=May 2017}}
+
+===Injury record===
+{{Fb inj header 1}}
+{{fb inj player 1 |n=1  |bg= |pos=GK |ni=GER |p=[[Marc-André ter Stegen|Ter Stegen]] |t='''Knee Injury''' (sprained ligament in left knee) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/ter-stegen-out-of-spanish-super-cup-first-leg FCB.com] |m=''in'' training |injd=11 August 2016 |retd='''24 August 2016''' }}
+{{fb inj player 1 |n=8  |bg=y |pos=MF |ni=ESP |p=[[Andrés Iniesta|A. Iniesta]] |t='''Knee Injury''' (strained posterior capsule in right knee) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/injuries-for-mathieu-and-iniesta FCB.com] |m=''vs'' [[Sevilla FC|Sevilla]] |injd=14 August 2016 |retd='''10 September 2016''' }}
+{{fb inj player 1 |n=24  |bg= |pos=DF |ni=FRA |p=[[Jérémy Mathieu|Mathieu]] |t='''Hamstring''' (torn femoral bicep in right leg) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/injuries-for-mathieu-and-iniesta FCB.com] |m=''vs'' [[Sevilla FC|Sevilla]] |injd=14 August 2016 |retd='''10 September 2016''' }}
+{{fb inj player 1 |n=14  |bg=y |pos=MF |ni=ARG |p=[[Javier Mascherano|Mascherano]] |t='''Hamstring''' (in right leg) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/mascherano-out-for-one-week FCB.com] |m=''vs'' [[Sevilla FC|Sevilla]] |injd=17 August 2016 |retd='''24 August 2016''' }}
+{{fb inj player 1 |n=10  |bg= |pos=FW |ni=ARG |p=[[Lionel Messi|Messi]] |t='''Groin injury''' (abductor muscle in left hamstring) |sts=r  |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/leo-messi-left-hamstring-injury-confirmed FCB.com]  |m=''vs'' [[Athletic Bilbao]] |injd=28 August 2016 |retd='''10 September 2016'''  }}
+{{fb inj player 1 |n=21  |bg=y |pos=MF |ni=POR |p=[[André Gomes]] |t='''Muscular bruise''' (on right leg) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/andre-gomes-has-a-muscular-bruise FCB.com] |m=''in'' training with<br />[[Portugal national football team|Portugal]] |injd=30 August 2016 |retd='''13 September 2016''' }}
+{{fb inj player 1 |n=1  |bg= |pos=GK |ni=GER |p=[[Marc-André ter Stegen|Ter Stegen]] |t='''Hamstring''' (pulled hamstring) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/injured-ter-stgen-out-against-alaves-but-messi-iniesta-and-mathieu-included-in-fc-barcelona-squad FCB.com] |m=''in'' training |injd=9 September 2016 |retd='''13 September 2016''' }}
+{{fb inj player 1 |n=23  |bg=y |pos=DF |ni=FRA |p=[[Samuel Umtiti|Umtiti]] |t='''Knee injury''' (Internal ligament strain on his left knee) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/umtiti-to-miss-atletico-match-due-to-injury FCB.com] |m=''in'' training |injd=20 September 2016 |retd='''15 October 2016''' }}
+{{fb inj player 1 |n=10  |bg= |pos=FW |ni=ARG |p=[[Lionel Messi|Messi]] |t='''Groin injury''' (in right leg) |sts=r  |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/leo-messi-out-for-three-weeks FCB.com]  |m=''vs'' [[Atlético Madrid]] |injd=21 September 2016 |retd='''15 October 2016'''}}
+{{fb inj player 1 |n=18  |bg=y |pos=DF |ni=ESP |p=[[Jordi Alba]] |t='''Thigh injury''' (in left leg) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/jordi-alba-out-10-days?_ga=1.149766774.1748785525.1455668140 FCB.com] |m=''vs'' [[Italy national football team|Italy]] <br />with [[Spain national football team|Spain]] |injd=6 October 2016 |retd='''19 October 2016''' }}
+{{fb inj player 1 |n=20  |bg= |pos=RB |ni=ESP |p=[[Sergi Roberto|S. Roberto]] |t='''Abductor strain''' (in right leg) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/cillessen-out-three-weeks-sergi-roberto-has-a-strain FCB.com] |m=''in''  training with<br /> [[Spain national football team|Spain]] |injd=8 October 2016 |retd='''22 October 2016''' }}
+{{fb inj player 1 |n=13  |bg=y  |pos=GK |ni=NED |p=[[Jasper Cillessen]] |t='''Ankle sprain''' (sprained ligaments in his right ankle) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/cillessen-out-three-weeks-sergi-roberto-has-a-strain FCB.com] |m=''in''  training with<br /> [[Netherlands national football team|Netherlands]] |injd=8 October 2016 |retd='''29 October 2016''' }}
+{{fb inj player 1 |n=18  |bg= |pos=DF |ni=ESP |p=[[Jordi Alba]] |t='''Thigh injury''' (strained left hamstring) |sts=r  |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/pique-and-alba-injured-in-champions-league-win FCB.com] |m=''vs'' [[Manchester City F.C.|Manchester City]]  |injd=19 October 2016 |retd='''19 November 2016''' }}
+{{fb inj player 1 |n=3  |bg=y |pos=DF |ni=ESP |p=[[Gerard Piqué|Piqué]] |t='''Ankle sprain''' (sprained ligaments in right ankle) |sts=r  |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/pique-and-alba-injured-in-champions-league-win FCB.com] |m=''vs'' [[Manchester City F.C.|Manchester City]]  |injd=19 October 2016 |retd='''19 November 2016''' }}
+{{fb inj player 1 |n=23  |bg= |pos=DF |ni=FRA |p=[[Samuel Umtiti|Umtiti]] |t='''Thigh injury''' (rupture to the femoral biceps muscle of his left thigh) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/umtiti-out-for-three-weeks FCB.com] |m=''in'' training with<br /> [[France national football team|France]] |injd=9 November 2016 |retd='''30 November 2016 ''' }}
+{{fb inj player 1 |n=8  |bg=y |pos=MF |ni=ESP |p=[[Andrés Iniesta|A.Iniesta]] |t='''Knee injury''' (lateral collateral ligament in right knee) |sts=r  |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/knee-injury-for-andres-iniesta FCB.com] |m=''vs'' [[Valencia CF|Valencia]]  |injd=22 October 2016 |retd='''3 December 2016 '''}}
+{{fb inj player 1 |n=24  |bg= |pos=DF |ni=FRA |p=[[Jérémy Mathieu|Mathieu]] |t='''Calf Injury''' (tear in right soleus) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/fc-barcelona-s-jeremy-mathieu-side-lined-for-three-weeks FCB.com] |m=''vs'' [[RCD Espanyol|Espanyol]] |injd=25 October 2016 |retd='''5 January 2017''' }}
+{{fb inj player 1 |n=13  |bg=y  |pos=GK |ni=NED |p=[[Jasper Cillessen]] |t='''Soleus muscle''' (in left leg) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/jasper-cillessen-has-injured-his-soleus-muscle-in-his-left-leg FCB.com] |m=''in''  the vacation |injd=30 December 2016 |retd='''12 January 2017''' }}
+{{fb inj player 1 |n=12  |bg= |pos=MF |ni=BRA |p=[[Rafinha (footballer, born February 1993)|Rafinha]] |t='''Hamstring''' (in right biceps femoris muscle) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/injured-rafinha-out-against-real-sociedad FCB.com] |m=''in'' training |injd=17 January 2017 |retd='''1 February 2017''' }}
+{{fb inj player 1 |n=8  |bg=y |pos=MF |ni=ESP |p=[[Andrés Iniesta|A. Iniesta]] |t='''Soleus muscle''' (in left leg) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/injured-andres-iniesta-to-miss-eibar-trip FCB.com] |m=''vs'' [[Real Sociedad]] |injd=20 January 2017 |retd='''7 February 2017''' }}
+{{fb inj player 1 |n=5  |bg= |pos=MF |ni=ESP |p=[[Sergio Busquets|Sergio]] |t='''Ankle sprain ''' (Sprained external lateral ligament in right ankle) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/sprained-right-ankle-for-sergio-busquets FCB.com] |m=''vs'' [[SD Eibar|Eibar]] |injd=22 January 2017 |retd='''7 February 2017 ''' }}
+{{fb inj player 1 |n=12  |bg=y  |pos=MF |ni=BRA |p=[[Rafinha (footballer, born February 1993)|Rafinha]] |t='''Nose Fractured'''   |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/rafinha-medical-announcement FCB.com] |m=''vs'' [[Athletic Bilbao]] |injd=4 February 2017 |retd='''14 February 2017''' }}
+{{fb inj player 1 |n=14  |bg= |pos=MF |ni=ARG |p=[[Javier Mascherano|Mascherano]] |t='''Hamstring''' (thigh injury in left leg) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/mascherano-has-a-left-hamstring-injury-fcbarcelona FCB.com] |m=''vs'' [[Atlético Madrid]] |injd=7 February 2017 |retd='''1 March 2017''' }}
+{{fb inj player 1 |n=24  |bg= y  |pos=DF |ni=FRA |p=[[Jérémy Mathieu|Mathieu]] |t='''Ankle sprain ''' |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/jeremy-mathieu-has-sprained-ankle FCB.com] |m=''vs'' [[Atlético Madrid]] |injd=26 February 2017 |retd='''2 April 2017''' }}
+{{fb inj player 1 |n=14  |bg= |pos=MF |ni=ARG |p=[[Javier Mascherano|Mascherano]] |t='''Calf Injury''' (in left leg) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/mascherano-with-a-left-calf-problem-injury-fcbarcelona FCB.com] |m=''vs'' [[Juventus FC|Juventus]] |injd=11 April 2017 |retd='''19 April 2017''' }}
+{{fb inj player 1 |n=7  |bg=y  |pos=MF |ni=TUR |p=[[Arda Turan|Arda]] |t=''' Adductor muscle ''' |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/-medical-announcement-arda-turan-out-for-three-weeks FCB.com] |m=''vs'' [[Finland national football team|Finland]] <br />with [[Turkey national football team|Turkey]] |injd=24 March 2017 |retd='''23 April 2017''' }}
+{{fb inj player 1 |n=22  |bg= |pos=DF |ni=ESP |p=[[Aleix Vidal]] |t='''Broken ankle'''  |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/aleix-vidal-suffers-right-ankle-injury-against-alaves FCB.com] |m=''vs'' [[Deportivo Alavés|Alavés]] |injd=11 February 2017 |retd='''27 May 2017''' }}
+{{fb inj player 1 |n=14  |bg=y |pos=MF |ni=ARG |p=[[Javier Mascherano|Mascherano]] |t='''Knee injury''' (capsule strain in right knee) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2016-2017/mascherano-suffers-cut-to-the-head-and-knee-injury-copa-del-rey FCB.com] |m=''vs'' [[Deportivo Alavés|Alavés]] |injd=27 August 2017 |retd=''July 2017'' }}
+{{fb inj player 1 |n=12  |bg=y  |pos=MF |ni=BRA |p=[[Rafinha (footballer, born February 1993)|Rafinha]] |t='''Meniscus problem''' (in right knee) |sts=r |s=[https://www.fcbarcelona.com/football/first-team/news/2017-2018/rafinha-receives-medical-clearance FCB.com] |m=''vs'' [[Granada CF|Granada]] |injd=2 April 2017 |retd='''18 December 2017''' }}
+{{Fb inj footer 1|u=18 December 2017 |s=[http://www.fcbarcelona.com/ FC Barcelona] |date=April 2017}}
+
+==Pre-season and friendlies==
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+===International Champions Cup===
+{{football box collapsible
+|date       = 30 July 2016
+|round      = [[2016 International Champions Cup#Celtic v Barcelona|1]]
+|time       = 18:00 [[Time in Ireland|IST]]
+|team1      = [[Celtic F.C.|Celtic]] 
+|score      = 1–3
+|report     = [https://web.archive.org/web/20161114101821/http://www.internationalchampionscup.com/matches/68 ICC Report]<br>[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/international-champions-cup/celtic-barcelona Club Report]
+|team2      = Barcelona
+|goals1     = [[Leigh Griffiths|Griffiths]] {{goal|29}}
+|goals2     = [[Arda Turan|Turan]] {{goal|11}}<br />[[Efe Ambrose|Ambrose]] {{goal|31|o.g.}}<br />[[Munir El Haddadi|Munir]] {{goal|41}}
+|stadium    = [[Aviva Stadium]]
+|location   = [[Dublin]], [[Republic of Ireland|Ireland]]
+|attendance = 47,900
+|referee    = [[Neil Doyle]] ([[Football Association of Ireland|Republic&nbsp;of&nbsp;Ireland]])
+|result     = W
+}}
+{{football box collapsible
+|date       = 3 August 2016
+|round      = [[2016 International Champions Cup#Barcelona v Leicester City|2]]
+|time       = 20:00 [[Central European Summer Time|CEST]]
+|team1      = Barcelona 
+|score      = 4–2
+|report     = [https://web.archive.org/web/20161104164907/http://www.internationalchampionscup.com/matches/73 ICC Report]<br>[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/international-champions-cup/barcelona-leicester-city Club Report]
+|team2      =  [[Leicester City F.C.|Leicester City]]
+|goals1     = [[Munir El Haddadi|Munir]] {{goal|26||45}}<br />[[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|34}}<br />[[Denis Suárez|D. Suárez]] {{yel|38}}<br />[[Rafa Mújica|Mújica]] {{goal|84}}
+|goals2     = [[Ahmed Musa|Musa]] {{goal|47||66}}
+|stadium    = [[Friends Arena]]
+|location   = [[Stockholm]], [[Sweden]]
+|attendance = 42,879
+|referee    = [[Martin Strömbergsson]] ([[Swedish Football Association|Sweden]])
+|result     = W
+}}
+{{football box collapsible
+|date       = 6 August 2016
+|round      = [[2016 International Champions Cup#Liverpool v Barcelona|3]]
+|time       = 17:15 [[British Summer Time|BST]]
+|team1      = [[Liverpool F.C.|Liverpool]] 
+|score      = 4–0
+|report     = [https://web.archive.org/web/20160818230002/http://www.internationalchampionscup.com/matches/76 ICC Report]<br>[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/international-champions-cup/liverpool-barcelona Club Report]
+|team2      =  Barcelona
+|goals1     = [[Sadio Mané|Mané]] {{goal|15}}<br />[[Javier Mascherano|Mascherano]] {{goal|47|o.g.}}<br />[[Divock Origi|Origi]] {{goal|48}}<br />[[Marko Grujić|Grujić]] {{goal|90+3}}
+|goals2     = 
+|stadium    = [[Wembley Stadium]]
+|location   = [[London]], England
+|attendance = 89,845
+|referee    = [[Martin Atkinson]] ([[The Football Association|England]])
+|result     = L
+}}
+
+===Joan Gamper Trophy===
+{{football box collapsible
+|round      = [[Joan Gamper Trophy|4]]
+|date       = 10 August 2016
+|time       = 20:30 [[Central European Summer Time|CEST]]
+|team1      = Barcelona 
+|score      = 3–2
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/joan-gamper-trophy/round-3/barcelona-sampdoria
+|team2      =  [[U.C. Sampdoria|Sampdoria]]
+|goals1     = [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|16}}<br />[[Lionel Messi|Messi]] {{goal|21||34}}
+|goals2     = [[Luis Muriel|Muriel]] {{goal|23}}<br />[[Ante Budimir|Budimir]] {{goal|77}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]], [[Spain]]
+|attendance = 72,334
+|referee    = [[:es:Alfonso Javier Álvarez Izquierdo|Alfonso Javier Álvarez Izquierdo]] ([[Royal Spanish Football Federation|Spain]])
+|result     = W
+}}
+
+===Supercopa de Catalunya===
+{{football box collapsible
+|round      = [[Copa Catalunya#Supercopa de Catalunya|5]]
+|date       = 25 October 2016
+|time       = 21:30 [[Central European Summer Time|CEST]]
+|team1      = Barcelona 
+|score      = 0–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/supercopa-de-catalunya-2016/final/barcelona-espanyol
+|team2      =  [[RCD Espanyol|Espanyol]]
+|goals1     = [[Carles Aleñá|Aleñá]] {{yel|30}}<br>[[Paco Alcácer|Alcácer]] {{yel|31}}<br>[[Nili (footballer)|Nili]] {{yel|61}}
+|goals2     = [[Felipe Caicedo|Caicedo]] {{goal|9}}, {{yel|50}}<br>[[Martín Demichelis|Demichelis]] {{yel|18}}<br>[[Víctor Sánchez (footballer, born 1987)|Sánchez]] {{yel|71}}
+|stadium    = [[Nou Estadi de Tarragona|Nou Estadi]]
+|location   = [[Tarragona]], [[Spain]]
+|attendance = 12,810
+|referee    = [[Xavier Estrada Fernández]] ([[Royal Spanish Football Federation|Spain]])
+|result     = L
+}}
+
+===Qatar Airways Cup===
+{{football box collapsible
+|round      = 6
+|date       = 13 December 2016
+|time       = 19:00 [[Arabia Standard Time|AST]]
+|team1      = [[Al Ahli Saudi FC|Al-Ahli]] 
+|score      = 3–5
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/friendly-match/round-1/al-ahli-barcelona
+|team2      = Barcelona
+|goals1     = [[Omar Abdulrahman|Abdulrahman]] {{goal|51|pen.}}<br>[[Muhannad Assiri|Assiri]] {{goal|60||65}}
+|goals2     = [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|8}}<br>[[Lionel Messi|Messi]] {{goal|10}}<br>[[Neymar]] {{goal|17}}<br>[[Paco Alcácer|Alcácer]] {{goal|55}}<br>[[Rafinha (footballer, born February 1993)|Rafinha]] {{goal|58}}
+|stadium    = [[Thani bin Jassim Stadium]]
+|location   = [[Doha]], [[Qatar]]
+|attendance = 18,126
+|referee    = [[Fahad Al-Marri]] ([[Qatar Football Association|Qatar]])
+|result     = W
+}}
+
+==Competitions==
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+===Overview===
+{{fb overview2
+|c=4
+|c1=[[2016–17 La Liga|La Liga]] |fm1=20 August 2016 |lm1=21 May 2017 |sr1=[[#Matches|Matchday 1]] |fp1=[[#League table|2nd]]
+|w1=28 |d1=6 |l1=4 |f1=116 |a1=37
+
+|c2=[[2016–17 Copa del Rey|Copa del Rey]] |fm2=30 November 2016 |lm2=27 May 2017 |sr2=[[2016–17 Copa del Rey#Round of 32|Round of 32]] |fp2=Winners
+|w2=6 |d2=2 |l2=1 |f2=24 |a2=9
+
+|c3=[[2016 Supercopa de España|Supercopa de España]] |fm3=14 August 2016 |lm3=17 August 2016 |sr3=[[2016 Supercopa de España|Final]] |fp3=Winners
+|w3=2 |d3=0 |l3=0 |f3=5 |a3=0
+
+|c4=[[2016–17 UEFA Champions League|Champions League]] |fm4=13 September 2016 |lm4=19 April 2017 |sr4=[[2016–17 UEFA Champions League#Group stage|Group stage]] |fp4=[[2016–17 UEFA Champions League#Quarter-finals|Quarter-finals]]
+|w4=6 |d4=1 |l4=3 |f4=26 |a4=12
+
+|u={{Start date|2017|05|27|df=y}}.
+}}
+
+===La Liga===
+{{main|2016–17 La Liga}}
+
+====League table====
+{{:2016–17 La Liga|showteam=BAR}}
+
+====Results summary====
+{{Fb_rs |hw=15 |hd=3 |hl=1 |hgf=64 |hga=17 |aw=13 |ad=3 |al=3 |agf=52 |aga=20}}
+{{Fb_rs_footer |u={{Start date|2017|05|21|df=y}} |s=[[#Matches|League matches]] |date=May 2017}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b|header=Round
+
+|label1= Ground
+|res1=[[Camp Nou|H]] /[[San Mamés Stadium (2013)|A]] /[[Camp Nou|H]] /[[Estadio Municipal de Butarque|A]] /[[Camp Nou|H]] /[[El Molinón|A]] /[[Balaídos|A]] /[[Camp Nou|H]] /[[Mestalla Stadium|A]] /[[Camp Nou|H]] /[[Ramón Sánchez Pizjuán Stadium|A]] /[[Camp Nou|H]] /[[Anoeta Stadium|A]] /[[Camp Nou|H]] /[[El Sadar Stadium|A]] /[[Camp Nou|H]] /[[Estadio de la Cerámica|A]] /[[Camp Nou|H]] /[[Ipurua Municipal Stadium|A]] /[[Estadio Benito Villamarín|A]] /[[Camp Nou|H]] /[[Mendizorrotza Stadium|A]] /[[Camp Nou|H]] /[[Vicente Calderón Stadium|A]] /[[Camp Nou|H]] /[[Camp Nou|H]] /[[Estadio Riazor|A]] /[[Camp Nou|H]] /[[Estadio Nuevo Los Cármenes|A]] /[[Camp Nou|H]] /[[La Rosaleda Stadium|A]] /[[Camp Nou|H]] /[[Santiago Bernabéu Stadium|A]] /[[Camp Nou|H]] /[[RCDE Stadium|A]] /[[Camp Nou|H]] /[[Estadio Gran Canaria|A]] /[[Camp Nou|H]]
+|label2= Result
+|res2=W /W /L /W /D /W /L /W /W /W /W /D /D /D /W /W /D /W /W /D /W /W /W /W /W /W /L /W /W /W /L /W /W /W /W /W /W /W
+|label3= Position
+|res3=1 /2 /2 /2 /3 /2 /4 /4 /3 /2 /2 /2 /2 /2 /2 /2 /3 /3 /3 /2 /2 /2 /2 /2 /1 /1 /2 /2 /2 /2 /2 /2 /2 /2 /2 /2 /2 /2
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+| color1=gold |color_2-4=green1| color_5=blue1| color_6=blue2| color_18–20=red1
+
+|updated={{Start date|2017|05|21|df=y}}
+|source=[[#Matches|League matches]]
+|date=May 2017
+}}
+
+====Matches====
+{{football box collapsible
+|round      = 1
+|date       = 20 August 2016
+|time       = 18:15 [[Central European Summer Time|CEST]]
+|team1      = Barcelona
+|score      = 6–2
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-1/barcelona-real-betis
+|team2      = [[Real Betis]]
+|goals1     = 
+* [[Arda Turan|Turan]] {{goal|6}}
+* [[Lionel Messi|Messi]] {{goal|37||57}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|42||56||82}}, {{yel|62}}
+|goals2     = 
+* [[Rubén Castro|Castro]] {{goal|21||84}}, {{yel|77}}
+* [[Álvaro Cejudo|Cejudo]] {{yel|45}}
+* [[Dani Ceballos|Ceballos]] {{yel|68}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 65,731
+|referee    = [[Alberto Undiano Mallenco]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 2
+|date       = 28 August 2016
+|time       = 20:15 [[Central European Summer Time|CEST]]
+|team1      = [[Athletic Bilbao]]
+|score      = 0–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-2/athletic-club-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Markel Susaeta|Susaeta]] {{yel|45+1}}
+* [[Ander Iturraspe|Iturraspe]] {{yel|56}}
+* [[Javier Eraso|Eraso]] {{yel|62}}
+* [[Beñat Etxebarria|Beñat]] {{yel|83}}
+* [[Mikel Balenziaga|Balenziaga]] {{yel|89}}
+|goals2     = 
+* [[Samuel Umtiti|Umtiti]] {{yel|10}}
+* [[Ivan Rakitić|Rakitić]] {{goal|21}}
+* [[Sergio Busquets|Busquets]] {{yel|37}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{yel|37}}
+* [[Sergi Roberto|Roberto]] {{yel|59}}
+|stadium    = [[San Mamés Stadium (2013)|San Mamés]]
+|location   = [[Bilbao]]
+|attendance = 46,724
+|referee    = [[Antonio Miguel Mateu Lahoz]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 3
+|date       = 10 September 2016
+|time       = 20:30 [[Central European Summer Time|CEST]]
+|team1      = Barcelona
+|score      = 1–2
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-3/barcelona-alaves
+|team2      = [[Deportivo Alavés|Alavés]]
+|goals1     = 
+* [[Jérémy Mathieu|Mathieu]] {{goal|46}}
+* [[Javier Mascherano|Mascherano]] {{yel|55}}
+|goals2     = 
+* [[Deyverson]] {{goal|39}}
+* [[Ibai Gómez|Ibai]] {{goal|64}}
+* [[Raúl García Carnero|Raúl]] {{yel|72}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 72,303
+|referee    = [[:es:Mario Melero López|Mario Melero López]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 4
+|date       = 17 September 2016
+|time       = 13:00 [[Central European Summer Time|CEST]]
+|team1      = [[CD Leganés|Leganés]]
+|score      = 1–5
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-4/leganes-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Carl Medjani|Medjani]] {{yel|27}}
+* [[Víctor Díaz Miguel|Díaz]] {{yel|39}}
+* [[Unai Bustinza|Bustinza]] {{yel|54}}
+* [[Gabriel Appelt Pires|Gabriel]] {{goal|80}}
+* [[Omar Ramos|Ramos]] {{yel|87}}
+|goals2     = 
+* [[Lionel Messi|Messi]] {{goal|15||55|pen.}}
+* [[Ivan Rakitić|Rakitić]] {{yel|24}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|31}}
+* [[Neymar]] {{goal|44}}, {{yel|80}}
+* [[Rafinha (footballer, born February 1993)|Rafinha]] {{goal|64}}
+|stadium    = [[Estadio Municipal de Butarque|Butarque]]
+|location   = [[Leganés]]
+|attendance = 10,422
+|referee    = [[Ricardo de Burgos Bengoetxea]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 5
+|date       = 21 September 2016
+|time       = 22:00 [[Central European Summer Time|CEST]]
+|team1      = Barcelona
+|score      = 1–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-5/barcelona-atletico-de-madrid
+|team2      = [[Atlético Madrid]]
+|goals1     = 
+* [[Ivan Rakitić|Rakitić]] {{goal|41}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{yel|84}}
+* [[Jordi Alba|Alba]] {{yel|90}}
+|goals2     = 
+* [[Koke (footballer, born 1992)|Koke]] {{yel|54}}
+* [[Ángel Correa|Correa]] {{goal|61}}
+* [[Antoine Griezmann|Griezmann]] {{yel|67}}
+* [[Thomas Partey|Partey]] {{yel|82}}
+* [[Filipe Luís]] {{yel|86}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 87,315
+|referee    = [[David Fernández Borbalán|David José Fernández Borbalán]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 6
+|date       = 24 September 2016
+|time       = 16:15 [[Central European Summer Time|CEST]]
+|team1      = [[Sporting de Gijón|Sporting Gijón]]
+|score      = 0–5
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-6/sporting-de-gijon-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Alberto Lora|Lora]] {{sentoff|2|9|74}}
+* [[Fernando Amorebieta|Amorebieta]] {{yel|86}}
+|goals2     = 
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|29}}
+* [[Rafinha (footballer, born February 1993)|Rafinha]] {{goal|32}}
+* [[Neymar]] {{goal|81||89}}
+* [[Arda Turan|Turan]] {{goal|85}}
+|stadium    = [[El Molinón]]
+|location   = [[Gijón]]
+|attendance = 25,899
+|referee    = [[Carlos del Cerro Grande]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 7
+|date       = 2 October 2016
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = [[Celta de Vigo|Celta Vigo]]
+|score      = 4–3
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-7/celta-de-vigo-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Pione Sisto|Sisto]] {{goal|22}}
+* [[Iago Aspas|Aspas]] {{goal|31}}
+* [[Jérémy Mathieu|Mathieu]] {{goal|33|o.g.}}
+* [[Pedro Pablo Hernández|Hernández]] {{goal|77}}
+|goals2     = 
+* [[Sergio Busquets|Busquets]] {{yel|45}}
+* [[Gerard Piqué|Piqué]] {{goal|58||87}}, {{yel|74}}
+* [[Neymar]] {{goal|64|pen.}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{yel|88}}
+|stadium    = [[Balaídos]]
+|location   = [[Vigo]]
+|attendance = 20,034
+|referee    = [[:es:Iñaki Vicandi Garrido|Iñaki Vicandi Garrido]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 8
+|date       = 16 October 2016
+|time       = 16:15 [[Central European Summer Time|CEST]]
+|team1      = Barcelona
+|score      = 4–0
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-8/barcelona-deportivo-de-la-coruna
+|team2      = [[Deportivo de La Coruña|Deportivo La Coruña]]
+|goals1     = 
+* [[Rafinha (footballer, born February 1993)|Rafinha]] {{goal|21||36}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|43}}
+* [[Lionel Messi|Messi]] {{goal|58}}, {{yel|90}}
+|goals2     = 
+* [[Pedro Mosquera|Mosquera]] {{yel|52}}
+* [[Florin Andone|Andone]] {{yel|59}}
+* [[Laureano Sanabria Ruiz|Laure]] {{sentoff|0|65}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 81,595
+|referee    = [[José María Sánchez Martínez]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 9
+|date       = 22 October 2016
+|time       = 16:15 [[Central European Summer Time|CEST]]
+|team1      = [[Valencia CF|Valencia]]
+|score      = 2–3
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-9/valencia-cf-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Ezequiel Garay|Garay]] {{yel|17}}
+* [[Diego Alves|Alves]] {{yel|23}}
+* [[Munir El Haddadi|Munir]] {{goal|52}}
+* [[Rodrigo (footballer, born 1991)|Rodrigo]] {{goal|56}}
+* [[Mario Suárez (footballer)|Suárez]] {{yel|69}}
+* [[Enzo Pérez|Pérez]] {{yel|76}}
+* [[Aymen Abdennour|Abdennour]] {{yel|90+2}}
+|goals2     = 
+* [[Lionel Messi|Messi]] {{goal|22||90+4|pen.}}, {{yel|73}}
+* [[Sergio Busquets|Busquets]] {{yel|25}}
+* [[Lucas Digne|Digne]] {{yel|47}}
+* [[Neymar]] {{yel|51}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|62}}
+|stadium    = [[Mestalla Stadium|Mestalla]]
+|location   = [[Valencia]]
+|attendance = 46,804
+|referee    = [[Alberto Undiano Mallenco]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 10
+|date       = 29 October 2016
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = Barcelona
+|score      = 1–0
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-10/barcelona-granada-cf
+|team2      = [[Granada CF|Granada]]
+|goals1     = 
+* [[Rafinha (footballer, born February 1993)|Rafinha]] {{goal|48}}
+* [[Neymar]] {{yel|87}}
+|goals2     = 
+* [[Gabriel Silva (footballer, born 1991)|Silva]] {{yel|11}}
+* [[Jon Toral|Toral]] {{yel|73}}
+* [[David Lombán|Lombán]] {{yel|79}}
+* [[Rúben Vezo|Vezo]] {{yel|87}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 82,914
+|referee    = [[Juan Martínez Munuera]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 11
+|date       = 6 November 2016
+|time       = 20:45 [[Central European Time|CET]]
+|team1      = [[Sevilla FC|Sevilla]]
+|score      = 1–2
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-11/sevilla-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Vitolo (footballer, born 1989)|Vitolo]] {{goal|15}}
+* [[Adil Rami|Rami]] {{yel|26}}
+* [[Mariano (footballer, born 1986)|Mariano]] {{yel|50}}
+* [[Steven Nzonzi|Nzonzi]] {{yel|82}}
+* [[Daniel Carriço|Carriço]] {{yel|85}}
+|goals2     = 
+* [[Neymar]] {{yel|10}}
+* [[Lionel Messi|Messi]] {{goal|43}}, {{yel|83}}
+* [[Sergi Roberto|Roberto]] {{yel|44}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|61}}, {{yel|88}}
+* [[Lucas Digne|Digne]] {{yel|66}}
+* [[Javier Mascherano|Mascherano]] {{yel|90+1}}
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location   = [[Seville]]
+|attendance = 40,835
+|referee    = [[:es:Santiago Jaime Latre|Santiago Jaime Latre]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 12
+|date       = 19 November 2016
+|time       = 16:15 [[Central European Time|CET]]
+|team1      = Barcelona
+|score      = 0–0
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-12/barcelona-malaga
+|team2      = [[Málaga CF|Málaga]]
+|goals1     = 
+|goals2     = 
+* [[Federico Ricca|Ricca]] {{yel|22}}
+* [[Javier Ontiveros|Ontiveros]] {{yel|62}}
+* [[Diego Llorente|Llorente]] {{sentoff|0|68}}
+* [[Juan Carlos (footballer, born 1990)|Juankar]] {{sentoff|0|90+7}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 83,439
+|referee    = [[Ricardo de Burgos Bengoetxea]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 13
+|date       = 27 November 2016
+|time       = 20:45 [[Central European Time|CET]]
+|team1      = [[Real Sociedad]]
+|score      = 1–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-13/real-sociedad-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Willian José|Willian]] {{goal|52}}
+* [[Iñigo Martínez|Martínez]] {{yel|62}}
+* [[David Zurutuza|Zurutuza]] {{yel|89}}
+|goals2     = 
+* [[Marc-André ter Stegen|Ter Stegen]] {{yel|22}}
+* [[Javier Mascherano|Mascherano]] {{yel|55}}
+* [[Lionel Messi|Messi]] {{goal|59}}
+* [[Denis Suárez|D. Suárez]] {{yel|85}}
+* [[Jordi Alba|Alba]] {{yel|90+3}}
+|stadium    = [[Anoeta Stadium|Anoeta]]
+|location   = [[San Sebastián]]
+|attendance = 27,639
+|referee    = [[Jesús Gil Manzano]]
+|result     = D
+}}
+{{football box collapsible
+|round      = [[El Clásico|14]]
+|date       = 3 December 2016
+|time       = 16:15 [[Central European Time|CET]]
+|team1      = Barcelona
+|score      = 1–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-14/barcelona-real-madrid
+|team2      = [[Real Madrid CF|Real Madrid]]
+|goals1     = 
+* [[Neymar]] {{yel|28}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|53}}, {{yel|75}}
+* [[Sergio Busquets|Busquets]] {{yel|83}}
+* [[Javier Mascherano|Mascherano]] {{yel|89}}
+|goals2     = 
+* [[Isco]] {{yel|13}}
+* [[Daniel Carvajal|Carvajal]] {{yel|80}}
+* [[Sergio Ramos|Ramos]] {{goal|90}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 98,485
+|referee    = [[Carlos Clos Gómez]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 15
+|date       = 10 December 2016
+|time       = 13:00 [[Central European Time|CET]]
+|team1      = [[CA Osasuna|Osasuna]]
+|score      = 0–3
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-15/osasuna-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Oier Sanjurjo|Oier]] {{yel|27}}
+* [[Iván Márquez (footballer)|Márquez]] {{yel|27}}
+* [[Roberto Torres Morales|Torres]] {{yel|84}}
+|goals2     = 
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|59}}
+* [[Lionel Messi|Messi]] {{goal|72||90+2}}
+|stadium    = [[El Sadar Stadium|El Sadar]]
+|location   = [[Pamplona]]
+|attendance = 17,349
+|referee    = [[Juan Martínez Munuera]]
+|result     = W
+}}
+{{football box collapsible
+|round      = [[Derbi barceloní|16]]
+|date       = 18 December 2016
+|time       = 20:45 [[Central European Time|CET]]
+|team1      = Barcelona
+|score      = 4–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-16/barcelona-espanyol
+|team2      = [[RCD Espanyol|Espanyol]]
+|goals1     = 
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|18||67}}
+* [[Jordi Alba|Alba]] {{goal|68}}
+* [[Lionel Messi|Messi]] {{goal|90}}
+|goals2     = 
+* [[Pablo Piatti|Piatti]] {{yel|10}}
+* [[Aarón Martín (footballer, born 1997)|Martín]] {{yel|13}}
+* [[Felipe Caicedo|Caicedo]] {{yel|65}}
+* [[David López (footballer, born 1989)|Da. López]] {{goal|79}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 79,370
+|referee    = [[Antonio Miguel Mateu Lahoz]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 17
+|date       = 8 January 2017
+|time       = 20:45 [[Central European Time|CET]]
+|team1      = [[Villarreal CF|Villarreal]]
+|score      = 1–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-17/villarreal-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Nicola Sansone|Sansone]] {{goal|49}}, {{yel|78}}
+* [[Jaume Costa|Costa]] {{sentoff|2|70|90+4}}
+|goals2     = 
+* [[Sergi Roberto|Roberto]] {{yel|78}}
+* [[Gerard Piqué|Piqué]] {{yel|83}}
+* [[Lionel Messi|Messi]] {{goal|90}}
+|stadium    = [[Estadio de la Cerámica|La Cerámica]]
+|location   = [[Vila-real]]
+|attendance = 22,110
+|referee    = [[:es:Ignacio Iglesias Villanueva|Ignacio Iglesias Villanueva]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 18
+|date       = 14 January 2017
+|time       = 16:15 [[Central European Time|CET]]
+|team1      = Barcelona
+|score      = 5–0
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/la-liga/round-0/barcelona-las-palmas
+|team2      = [[UD Las Palmas|Las Palmas]]
+|goals1     = 
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|14||57}}
+* [[Rafinha (footballer, born February 1993)|Rafinha]] {{yel|25}}
+* [[Javier Mascherano|Mascherano]] {{yel|29}}
+* [[André Gomes|Gomes]] {{yel|32}}
+* [[Lionel Messi|Messi]] {{goal|52}}
+* [[Arda Turan|Turan]] {{goal|59}}
+* [[Aleix Vidal|Vidal]] {{goal|80}}
+|goals2     = 
+* [[Roque Mesa|Mesa]] {{yel|2}}
+* [[Hélder Lopes (footballer)|Hélder Lopes]] {{yel|41}}
+* [[Kevin-Prince Boateng|Boateng]] {{yel|54}}
+* [[Marko Livaja|Livaja]] {{yel|77}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 81,480
+|referee    = [[Alberto Undiano Mallenco]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 19
+|date       = 22 January 2017
+|time       = 20:45 [[Central European Time|CET]]
+|team1      = [[SD Eibar|Eibar]]
+|score      = 0–4
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-19/eibar-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Gonzalo Escalante|Escalante]] {{yel|26}}
+* [[Ander Capa|Capa]] {{yel|39}}
+* [[Sergi Enrich]] {{yel|44}}
+|goals2     = 
+* [[Denis Suárez|D. Suárez]] {{goal|31}}
+* [[Arda Turan|Turan]] {{yel|42}}
+* [[Lionel Messi|Messi]] {{goal|50}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|68}}
+* [[Neymar]] {{goal|90+1}}
+|stadium    = [[Ipurua Municipal Stadium|Ipurua]]
+|location   = [[Eibar]]
+|attendance = 6,291
+|referee    = [[José María Sánchez Martínez]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 20
+|date       = 29 January 2017
+|time       = 12:00 [[Central European Time|CET]]
+|team1      = [[Real Betis]]
+|score      = 1–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-20/real-betis-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Petros Matheus dos Santos Araújo|Petros]] {{yel|67}}
+* [[Álex Alegría|Alegría]] {{goal|75}}
+* [[Rubén Castro|Castro]] {{yel|78}}
+|goals2     = 
+* [[Gerard Piqué|Piqué]] {{yel|43}}
+* [[Ivan Rakitić|Rakitić]] {{yel|70}}
+* [[André Gomes|Gomes]] {{yel|78}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|90}}
+|stadium    = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location   = [[Seville]]
+|attendance = 37,620
+|referee    = [[:es:Alejandro José Hernández Hernández|Alejandro José Hernández Hernández]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 21
+|date       = 4 February 2017
+|time       = 16:15 [[Central European Time|CET]]
+|team1      = Barcelona
+|score      = 3–0
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-21/barcelona-athletic-club
+|team2      = [[Athletic Bilbao]]
+|goals1     = 
+* [[Paco Alcácer|Alcácer]] {{goal|18}}
+* [[Gerard Piqué|Piqué]] {{yel|22}}
+* [[Lionel Messi|Messi]] {{goal|40}}
+* [[Aleix Vidal|Vidal]] {{goal|67}}
+|goals2     = 
+* [[Ander Iturraspe|Iturraspe]] {{yel|27}}
+* [[Óscar de Marcos|De Marcos]] {{yel|34}}
+* [[Aymeric Laporte|Laporte]] {{yel|70}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 83,884
+|referee    = [[:es:José Luis González González|José Luis González González]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 22
+|date       = 11 February 2017
+|time       = 16:15 [[Central European Time|CET]]
+|team1      = [[Deportivo Alavés|Alavés]]
+|score      = 0–6
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-22/alaves-barcelona
+|team2      = Barcelona
+|goals1     = [[Víctor Laguardia|Laguardia]] {{yel|90+3}}
+|goals2     = 
+* [[Samuel Umtiti|Umtiti]] {{yel|6}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|37||67}}
+* [[Neymar]] {{goal|40}}
+* [[Sergio Busquets|Busquets]] {{yel|59}}
+* [[Lionel Messi|Messi]] {{goal|59}}
+* [[Ivan Rakitić|Rakitić]] {{yel|61}}, {{goal|65}}
+* [[Alexis (footballer, born 1985)|Alexis]] {{goal|63|o.g.}}
+|stadium    = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location   = [[Vitoria-Gasteiz]]
+|attendance = 19,840
+|referee    = [[Carlos Clos Gómez]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 23
+|date       = 19 February 2017
+|time       = 20:45 [[Central European Time|CET]]
+|team1      = Barcelona
+|score      = 2–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-23/barcelona-leganes
+|team2      = [[CD Leganés|Leganés]]
+|goals1     = 
+* [[Lionel Messi|Messi]] {{goal|4||90|pen.}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{yel|46}}
+|goals2     = 
+* [[Martín Mantovani|Mantovani]] {{yel|46}}
+* [[Unai López|López]] {{goal|71}}
+* [[Dimitrios Siovas|Siovas]] {{yel|87}}
+* [[Alberto]] {{yel|90+5}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 63,378
+|referee    = [[:es:Ignacio Iglesias Villanueva|Ignacio Iglesias Villanueva]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 24
+|date       = 26 February 2017
+|time       = 16:15 [[Central European Time|CET]]
+|team1      = [[Atlético Madrid]]
+|score      = 1–2
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-24/atletico-de-madrid-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Saúl Ñíguez|Saúl]] {{yel|56}}
+* [[Stefan Savić|Savić]] {{yel|65}}
+* [[Diego Godín|Godín]] {{goal|70}}
+* [[Gabi (footballer, born 1983)|Gabi]] {{yel|73}}
+* [[Ángel Correa|Correa]] {{yel|74}}
+|goals2     = 
+* [[Sergio Busquets|Busquets]] {{yel|55}}
+* [[Rafinha (footballer, born February 1993)|Rafinha]] {{goal|64}}
+* [[Lionel Messi|Messi]] {{yel|82}}, {{goal|86}}
+|stadium    = [[Vicente Calderón Stadium|Vicente Calderón]]
+|location   = [[Madrid]]
+|attendance = 52,440
+|referee    = [[Antonio Miguel Mateu Lahoz]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 25
+|date       = 1 March 2017
+|time       = 19:30 [[Central European Time|CET]]
+|team1      = Barcelona
+|score      = 6–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-25/barcelona-sporting-de-gijon
+|team2      = [[Sporting de Gijón|Sporting Gijón]]
+|goals1     = 
+* [[Lionel Messi|Messi]] {{goal|9}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|11||27}}
+* [[Neymar]] {{yel|45}}, {{goal|65}}
+* [[Paco Alcácer|Alcácer]] {{goal|49}}
+* [[Ivan Rakitić|Rakitić]] {{goal|87}}
+|goals2     = 
+* [[Carlos Castro García|Castro]] {{goal|21}}, {{yel|45}}
+* [[Burgui]] {{yel|24}}
+* [[Juan Rodríguez Martínez|Rodríguez]] {{yel|55}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 56,605
+|referee    = [[José María Sánchez Martínez]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 26
+|date       = 4 March 2017
+|time       = 20:45 [[Central European Time|CET]]
+|team1      = Barcelona
+|score      = 5–0
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-26/barcelona-celta-de-vigo
+|team2      = [[Celta Vigo]]
+|goals1     = 
+* [[Sergio Busquets|Busquets]] {{yel|20}}
+* [[Lionel Messi|Messi]] {{goal|24||64}}
+* [[Neymar]] {{goal|40}}
+* [[Ivan Rakitić|Rakitić]] {{goal|57}}
+* [[Samuel Umtiti|Umtiti]] {{goal|61}}
+|goals2     = 
+* [[Gustavo Cabral|Cabral]] {{yel|36}}
+* [[Nemanja Radoja|Radoja]] {{yel|38}}
+* [[Sergi Gómez|S. Gómez]] {{yel|49}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 77,117
+|referee    = [[Jesús Gil Manzano]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 27
+|date       = 12 March 2017
+|time       = 16:15 [[Central European Time|CET]]
+|team1      = [[Deportivo La Coruña]]
+|score      = 2–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-27/deportivo-de-la-coruna-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Fernando Navarro (Spanish footballer)|Navarro]] {{yel|14}}
+* [[Joselu]] {{yel|36}}, {{goal|40}}
+* [[Álex Bergantiños|Bergantiños]] {{goal|74}}
+|goals2     = 
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|46}}
+|stadium    = [[Estadio Riazor|Riazor]]
+|location   = [[A Coruña]]
+|attendance = 28,474
+|referee    = [[David Fernández Borbalán|David José Fernández Borbalán]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 28
+|date       = 19 March 2017
+|time       = 20:45 [[Central European Time|CET]]
+|team1      = Barcelona
+|score      = 4–2
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-28/barcelona-valencia-cf
+|team2      = [[Valencia CF|Valencia]]
+|goals1     = 
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|35}}
+* [[Lionel Messi|Messi]] {{goal|45|pen.|52}}, {{yel|86}}
+* [[Andrés Iniesta|Iniesta]] {{yel|67}}
+* [[André Gomes|Gomes]] {{yel|77}}, {{goal|89}}
+|goals2     = 
+* [[Enzo Pérez]] {{yel|24}}
+* [[Eliaquim Mangala|Mangala]] {{goal|29}}, {{sentoff|1|39|44}}
+* [[Dani Parejo|Parejo]] {{yel|43}}
+* [[Munir El Haddadi|Munir]] {{goal|45}}
+* [[Martín Montoya|Montoya]] {{yel|90+1}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 77,058
+|referee    = [[:es:Alejandro José Hernández Hernández|Alejandro José Hernández Hernández]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 29
+|date       = 2 April 2017
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = [[Granada CF|Granada]]
+|score      = 1–4
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-29/granada-cf-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Jérémie Boga|Boga]] {{goal|50}}
+* [[David Lombán|Lombán]] {{yel|59}}
+* [[Uche Henry Agbo|Agbo]] {{sent off|2|79|82}}
+|goals2     = 
+* [[Sergi Roberto|Roberto]] {{yel|28}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|44}}
+* [[Jordi Alba|Alba]] {{yel|60}}
+* [[Paco Alcácer|Alcácer]] {{goal|64}}
+* [[Ivan Rakitić|Rakitić]] {{yel|77}}, {{goal|83}}
+* [[Neymar]] {{goal|90+1}}
+|stadium    = [[Estadio Nuevo Los Cármenes|Nuevo Los Cármenes]]
+|location   = [[Granada]]
+|attendance = 18,717
+|referee    = [[:es:Santiago Jaime Latre|Santiago Jaime Latre]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 30
+|date       = 5 April 2017
+|time       = 19:30 [[Central European Summer Time|CEST]]
+|team1      = Barcelona
+|score      = 3–0
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-30/barcelona-sevilla
+|team2      = [[Sevilla FC|Sevilla]]
+|goals1     = 
+* [[Gerard Piqué|Piqué]] {{yel|15}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|25}}
+* [[Lionel Messi|Messi]] {{goal|28||33}}
+* [[Sergio Busquets|Busquets]] {{yel|71}}
+* [[Ivan Rakitić|Rakitić]] {{yel|78}}
+* [[Carles Aleñá|Aleñá]] {{yel|84}}
+|goals2     = 
+* [[Vicente Iborra|Iborra]] {{yel|38}}
+* [[Vitolo (footballer, born 1989)|Vitolo]] {{sent off|2|57|90+1}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 85,511
+|referee    = [[Carlos Clos Gómez]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 31
+|date       = 8 April 2017
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = [[Málaga CF|Málaga]]
+|score      = 2–0
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-31/malaga-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Sandro Ramírez|Sandro]] {{goal|32}}
+* [[Federico Ricca|Ricca]] {{yel|37}}
+* [[Recio (footballer)|Recio]] {{yel|45}}
+* [[Adalberto Peñaranda|Peñaranda]] {{yel|69}}
+* [[Juan Carlos (footballer, born 1990)|Juan Carlos]] {{yel|82}}
+* [[Jony Rodríguez|Jony]] {{goal|90}}
+|goals2     = 
+* [[Jordi Alba|Alba]] {{yel|8}}
+* [[Neymar]] {{sent off|2|27|65}}
+* [[Samuel Umtiti|Umtiti]] {{yel|33}}
+* [[Javier Mascherano|Mascherano]] {{yel|87}}
+|stadium    = [[La Rosaleda Stadium|La Rosaleda]]
+|location   = [[Málaga]]
+|attendance = 28,486
+|referee    = [[Jesús Gil Manzano]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 32
+|date       = 15 April 2017
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = Barcelona
+|score      = 3–2
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-32/barcelona-real-sociedad
+|team2      = [[Real Sociedad]]
+|goals1     = 
+* [[Lionel Messi|Messi]] {{goal|17||37}}
+* [[Paco Alcácer|Alcácer]] {{yel|41}}, {{goal|44}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{yel|68}}
+* [[Gerard Piqué|Piqué]] {{yel|88}}
+|goals2     = 
+* [[Carlos Vela|Vela]] {{yel|7}}
+* [[Samuel Umtiti|Umtiti]] {{goal|42|o.g.}}
+* [[Xabi Prieto|Prieto]] {{goal|45+1}}
+* [[Asier Illarramendi|Illarramendi]] {{yel|49}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 81,704
+|referee    = [[Juan Martínez Munuera]]
+|result     = W
+}}
+{{football box collapsible
+|round      = [[El Clásico|33]]
+|date       = 23 April 2017
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = [[Real Madrid CF|Real Madrid]]
+|score      = 2–3
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-33/real-madrid-barcelona
+|team2      = Barcelona
+|goals1     = 
+*[[Casemiro]] {{yel|12}}, {{goal|28}}
+*[[Sergio Ramos|Ramos]] {{sentoff|0|77}}
+*[[Dani Carvajal|Carvajal]] {{yel|78}}
+*[[Mateo Kovačić|Kovačić]] {{yel|81}}
+*[[James Rodríguez|Rodríguez]] {{goal|86}}
+|goals2     = 
+* [[Lionel Messi|Messi]] {{goal|33||90+2}}, {{yel|90+3}}
+* [[Samuel Umtiti|Umtiti]] {{yel|39}}
+* [[Ivan Rakitić|Rakitić]] {{goal|73}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 81,044
+|referee    = [[:es:Alejandro José Hernández Hernández|Alejandro José Hernández Hernández]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 34
+|date       = 26 April 2017
+|time       = 19:30 [[Central European Summer Time|CEST]]
+|team1      = Barcelona
+|score      = 7–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-34/barcelona-osasuna
+|team2      = [[CA Osasuna|Osasuna]]
+|goals1     = 
+* [[Lionel Messi|Messi]] {{goal|12||61}}
+* [[André Gomes|Gomes]] {{goal|30||57}}
+* [[Paco Alcácer|Alcácer]] {{goal|64||86}}
+* [[Javier Mascherano|Mascherano]] {{goal|67|pen.}}
+|goals2     = 
+* [[Roberto Torres Morales|Torres]] {{goal|48}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 62,453
+|referee    = [[José Luis Munuera Montero]]
+|result     = W
+}}
+{{football box collapsible
+|round      = [[Derbi barceloní|35]]
+|date       = 29 April 2017
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = [[RCD Espanyol|Espanyol]]
+|score      = 0–3
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-35/espanyol-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Gerard Moreno (footballer)|Moreno]] {{yel|14}}
+* [[Aarón Martín (footballer, born 1997)|Martín]] {{yel|58}}
+* [[Javi Fuego|Fuego]] {{yel|68}}
+|goals2     = 
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|50||87}}
+* [[Ivan Rakitić|Rakitić]] {{goal|76}}
+|stadium    = [[RCDE Stadium]]
+|location   = [[Cornellà de Llobregat]]
+|attendance = 31,082
+|referee    = [[Alberto Undiano Mallenco]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 36
+|date       = 6 May 2017
+|time       = 18:30 [[Central European Summer Time|CEST]]
+|team1      = Barcelona
+|score      = 4–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-36/barcelona-villarreal
+|team2      = [[Villarreal CF|Villarreal]]
+|goals1     = 
+* [[Sergi Roberto|Roberto]] {{yel|16}}
+* [[Neymar]] {{goal|21}}
+* [[Lionel Messi|Messi]] {{goal|45||82|pen.}}
+* [[Andrés Iniesta|Iniesta]] {{yel|64}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|69}}
+|goals2     = 
+* [[Álvaro González Soberón|Álvaro]] {{yel|19}}
+* [[Cédric Bakambu|Bakambu]] {{goal|32}}
+* [[Roberto Soldado|Soldado]] {{yel|72}}
+* [[Mateo Musacchio|Musacchio]] {{yel|77}}
+* [[Jaume Costa|J. Costa]] {{yel|81}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 88,268
+|referee    = [[José María Sánchez Martínez]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 37
+|date       = 14 May 2017
+|time       = 20:00 [[Central European Summer Time|CEST]]
+|team1      = [[UD Las Palmas|Las Palmas]]
+|score      = 1–4
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-37/las-palmas-barcelona
+|team2      = Barcelona
+|goals1     = 
+* [[Pedro Bigas|Bigas]] {{goal|63}}
+|goals2     = 
+* [[Lucas Digne|Digne]] {{yel|6}}
+* [[Neymar]] {{goal|25||67||71}}
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|27}}
+|stadium    = [[Estadio Gran Canaria|Gran Canaria]]
+|location   = [[Las Palmas]]
+|attendance = 22,204
+|referee    = [[:es:José Luis González González|José Luis González González]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 38
+|date       = 21 May 2017
+|time       = 20:00 [[Central European Summer Time|CEST]]
+|team1      = Barcelona
+|score      = 4–2
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/liga-espanola-1-division-2016-17/round-38/barcelona-eibar
+|team2      = [[SD Eibar|Eibar]]
+|goals1     = [[Sergio Busquets|Busquets]] {{yel|41}}<br>[[David Juncà|Juncà]] {{goal|63|o.g.}}<br>[[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|73}}<br>[[Lionel Messi|Messi]] {{goal|75|pen.|90+2}}
+|goals2     = [[Takashi Inui|Inui]] {{goal|7||61}}<br>[[Gonzalo Escalante|Escalante]] {{yel|19}}<br>[[Ander Capa|Capa]] {{sentoff|2|30|74}}<br>[[Rubén Peña]] {{yel|54}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 73,093
+|referee    = [[:es:Alejandro José Hernández Hernández|Alejandro José Hernández Hernández]]
+|result     = W
+}}
+
+===Copa del Rey===
+{{main|2016–17 Copa del Rey}}
+
+====Round of 32====
+{{football box collapsible
+|round      = [[2016–17 Copa del Rey#First leg|First leg]]
+|date       = 30 November 2016
+|time       = 22:00 [[Central European Time|CET]]
+|team1      = [[Hércules CF|Hércules]]
+|score      = 1–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/copa-del-rey/-tornada/hercules-barcelona
+|team2      = Barcelona
+|goals1     = [[David Mainz|Mainz]] {{goal|52}}<br>[[Francisco Peña Romero|Peña]] {{yel|90}}
+|goals2     = [[Carles Aleñá|Aleñá]] {{goal|58}}
+|stadium    = [[Estadio José Rico Pérez|José Rico Pérez]]
+|location   = [[Alicante]]
+|attendance = 14,250
+|referee    = [[:es:Daniel Ocón Arráiz|Daniel Ocón Arráiz]]
+|result     = D
+}}
+{{football box collapsible
+|round          = [[2016–17 Copa del Rey#Second leg|Second leg]]
+|date           = 21 December 2016
+|time           = 22:00 [[Central European Time|CET]]
+|team1          = Barcelona
+|score          = 7–0
+|aggregatescore = 8–1
+|report         = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/copa-del-rey/-tornada/barcelona-hercules
+|team2          = [[Hércules CF|Hércules]]
+|goals1         = [[Lucas Digne|Digne]] {{goal|37}}<br>[[Aleix Vidal|Vidal]] {{yel|42}}<br>[[Ivan Rakitić|Rakitić]] {{goal|45|pen.}}<br>[[Rafinha (footballer, born February 1993)|Rafinha]] {{goal|50}}<br>[[Arda Turan|Turan]] {{goal|55||86||89}}<br>[[Paco Alcácer|Alcácer]] {{goal|73}}
+|goals2         = [[Francisco Peña Romero|Peña]] {{yel|42}}
+|stadium        = [[Camp Nou]]
+|location       = [[Barcelona]]
+|attendance     = 64,025
+|referee        = [[José Luis Munuera Montero]]
+|result         = W
+}}
+
+====Round of 16====
+{{football box collapsible
+|round      = [[2016–17 Copa del Rey#First leg 2|First leg]]
+|date       = 5 January 2017
+|time       = 21:15 [[Central European Time|CET]]
+|team1      = [[Athletic Bilbao]]
+|score      = 2–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/copa-del-rey/1-8-tornada/athletic-club-barcelona
+|team2      = Barcelona
+|goals1     = [[Aritz Aduriz|Aduriz]] {{goal|25}}, {{yel|40}}<br>[[Iñaki Williams|Williams]] {{goal|28}}<br>[[Ander Iturraspe|Iturraspe]] {{sentoff|2|53|80}}<br>[[Raúl García (footballer, born 1986)|Raúl García]] {{sentoff|2|55|74}}
+|goals2     = [[Samuel Umtiti|Umtiti]] {{yel|40}}<br>[[Sergio Busquets|Busquets]] {{yel|45}}<br>[[Andrés Iniesta|Iniesta]] {{yel|45}}<br>[[Jordi Alba|Alba]] {{yel|45}}<br>[[Lionel Messi|Messi]] {{goal|52}}
+|stadium    = [[San Mamés Stadium (2013)|San Mamés]]
+|location   = [[Bilbao]]
+|attendance = 45,772
+|referee    = [[David Fernández Borbalán|David José Fernández Borbalán]]
+|result     = L
+}}
+{{football box collapsible
+|round          = [[2016–17 Copa del Rey#Second leg 2|Second leg]]
+|date           = 11 January 2017
+|time           = 21:15 [[Central European Time|CET]]
+|team1          = Barcelona
+|score          = 3–1
+|aggregatescore = 4–3
+|report         = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/copa-del-rey/1-8-tornada/barcelona-athletic-club
+|team2          = [[Athletic Bilbao]]
+|goals1         = [[Samuel Umtiti|Umtiti]] {{yel|30}}<br>[[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|35}}<br>[[Neymar]] {{goal|48|pen.}}<br>[[Lionel Messi|Messi]] {{goal|78}}
+|goals2         = [[Xabier Etxeita|Etxeita]] {{yel|28}}<br>[[Aymeric Laporte|Laporte]] {{yel|41}}<br>[[Enric Saborit|Saborit]] {{goal|51}}<br>[[Gorka Elustondo|Elustondo]] {{yel|73}}<br>[[Beñat Etxebarria|Beñat]] {{yel|77}}<br>[[Iñaki Williams|Williams]] {{yel|90}}
+|stadium        = [[Camp Nou]]
+|location       = [[Barcelona]]
+|attendance     = 71,455
+|referee        = [[Jesús Gil Manzano]]
+|result         = W
+}}
+
+====Quarter-finals====
+{{football box collapsible
+|round      = [[2016–17 Copa del Rey#First leg 3|First leg]]
+|date       = 19 January 2017
+|time       = 21:15 [[Central European Time|CET]]
+|team1      = [[Real Sociedad]]
+|score      = 0–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/copa-del-rey/1-4-anada/real-sociedad-barcelona
+|team2      = Barcelona
+|goals1     = [[Asier Illarramendi|Illarramendi]] {{yel|90+3}}
+|goals2     = [[Neymar]] {{goal|21|pen.}}, {{yel|64}}<br>[[Lionel Messi|Messi]] {{yel|43}}
+|stadium    = [[Anoeta Stadium|Anoeta]]
+|location   = [[San Sebastián]]
+|attendance = 28,461
+|referee    = [[:es:José Luis González González|José Luis González González]]
+|result     = W
+}}
+{{football box collapsible
+|round          = [[2016–17 Copa del Rey#Second leg 3|Second leg]]
+|date           = 26 January 2017
+|time           = 21:15 [[Central European Time|CET]]
+|team1          = Barcelona
+|score          = 5–2
+|aggregatescore = 6–2
+|report         = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/copa-del-rey/1-4-tornada/barcelona-real-sociedad
+|team2          = [[Real Sociedad]]
+|goals1         = [[Denis Suárez|D. Suárez]] {{goal|17||82}}<br>[[Neymar]] {{yel|40}}<br>[[Jordi Alba|Alba]] {{yel|40}}<br>[[Lionel Messi|Messi]] {{goal|55|pen.}}<br>[[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{yel|51}}, {{goal|63}}<br>[[Arda Turan|Turan]] {{goal|80}}
+|goals2         = [[Carlos Vela|Vela]] {{yel|40}}<br>[[Yuri Berchiche|Berchiche]] {{yel|43}}<br>[[Iñigo Martínez|I. Martínez]] {{yel|54}}<br>[[Juanmi (footballer, born 1993)|Juanmi]] {{goal|62}}<br>[[Willian José]] {{goal|73}}
+|stadium        = [[Camp Nou]]
+|location       = [[Barcelona]]
+|attendance     = 58,560
+|referee        = [[Juan Martínez Munuera]]
+|result         = W
+}}
+
+====Semi-finals====
+{{football box collapsible
+|round      = [[2016–17 Copa del Rey#First leg 4|First leg]]
+|date       = 1 February 2017
+|time       = 21:00 [[Central European Time|CET]]
+|team1      = [[Atlético Madrid]]
+|score      = 1–2
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/copa-del-rey/1-2-anada/atletico-de-madrid-barcelona
+|team2      = Barcelona
+|goals1     = [[Saúl Ñíguez|Saúl]] {{yel|31}}<br>[[Stefan Savić|Savić]] {{yel|39}}<br>[[Antoine Griezmann|Griezmann]] {{goal|59}}, {{yel|75}}<br>[[Gabi (footballer, born 1983)|Gabi]] {{yel|84}}<br>[[Juanfran (footballer, born 1985)|Juanfran]] {{yel|90+1}}
+|goals2     = [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|7}}<br>[[Lionel Messi|Messi]] {{goal|33}}, {{yel|90}}<br>[[Neymar]] {{yel|64}}<br>[[Javier Mascherano|Mascherano]] {{yel|90+1}}
+|stadium    = [[Vicente Calderón Stadium|Vicente Calderón]]
+|location   = [[Madrid]]
+|attendance = 48,124
+|referee    = [[Ricardo de Burgos Bengoetxea]]
+|result     = W
+}}
+{{football box collapsible
+|round          = [[2016–17 Copa del Rey#Second leg 4|Second leg]]
+|date           = 7 February 2017
+|time           = 21:00 [[Central European Time|CET]]
+|team1          = Barcelona
+|score          = 1–1
+|aggregatescore = 3–2
+|report         = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/copa-del-rey/1-2-tornada/barcelona-atletico-de-madrid
+|team2          = [[Atlético Madrid]]
+|goals1         = [[Sergi Roberto|Roberto]] {{sentoff|2|19|57}}<br>[[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|43}}, {{sentoff|2|87|90}}<br>[[Ivan Rakitić|Rakitić]] {{yel|66}}<br>[[Jasper Cillessen|Cillessen]] {{yel|76}}<br>[[Sergio Busquets|Busquets]] {{yel|90+6}}<ref>Busquet's yellow card was rescinded by the [[Royal Spanish Football Federation]] after the match.</ref>
+|goals2         = [[Yannick Carrasco|Carrasco]] {{sentoff|2|36|69}}<br>[[Stefan Savić|Savić]] {{yel|76}}<br>[[Kevin Gameiro|Gameiro]] {{penmiss}} <small>80'</small>, {{goal|83}}<br>[[Filipe Luís]] {{yel|90+4}}
+|stadium        = [[Camp Nou]]
+|location       = [[Barcelona]]
+|attendance     = 67,734
+|referee        = [[Jesús Gil Manzano]]
+|result         = D
+}}
+
+====Final====
+{{main|2017 Copa del Rey Final}}
+{{football box collapsible
+|round      = [[2016–17 Copa del Rey#Final|Final]]
+|date       = 27 May 2017
+|time       = 21:30 [[Central European Summer Time|CEST]]
+|team1      = Barcelona
+|score      = 3–1
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/copa-del-rey/final/barcelona-alaves
+|team2      = [[Deportivo Alavés|Alavés]]
+|goals1     = 
+* [[Lionel Messi|Messi]] {{goal|30}}, {{yel|76}}
+* [[Samuel Umtiti|Umtiti]] {{yel|42}}
+* [[Neymar]] {{goal|45}}
+* [[Paco Alcácer|Alcácer]] {{goal|45+3}}
+* [[Andrés Iniesta|Iniesta]] {{yel|76}}
+|goals2     = 
+* [[Édgar Méndez|Edgar]] {{yel|16}}
+* [[Théo Hernandez|Hernandez]] {{goal|33}}
+* [[Manu García (footballer, born 1986)|Manu]] {{yel|39}}
+* [[Rodrigo Ely]] {{yel|49}}
+* [[Rubén Sobrino|Sobrino]] {{yel|76}}
+* [[Deyverson]] {{yel|88}}
+|stadium    = [[Vicente Calderón Stadium|Vicente Calderón]]
+|location   = [[Madrid]]
+|attendance = 50,000
+|referee    = [[Carlos Clos Gómez]]
+|result     = W
+}}
+
+===Supercopa de España===
+{{main|2016 Supercopa de España}}
+
+{{football box collapsible
+|round      = [[2016 Supercopa de España#First leg|First leg]]
+|date       = 14 August 2016
+|time       = 22:00 [[Central European Summer Time|CEST]]
+|team1      = [[Sevilla FC|Sevilla]]
+|score      = 0–2
+|report     = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/spanish-super-cup/final-tornada/sevilla-barcelona
+|team2      = Barcelona
+|goals1     = [[Gabriel Mercado|Mercado]] {{yel|32}}<br />[[Steven Nzonzi|Nzonzi]] {{yel|70}}<br />[[Franco Vázquez|Vázquez]] {{yel|78}}
+|goals2     = [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|55}}, {{yel|83}}<br />[[Sergio Busquets|Busquets]] {{yel|58}}<br />[[Munir El Haddadi|Munir]] {{goal|81}}
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location   = [[Seville]]
+|attendance = 36,311
+|referee    = [[Jesús Gil Manzano]]
+|result     = W
+}}
+{{football box collapsible
+|round          = [[2016 Supercopa de España#Second leg|Second leg]]
+|date           = 17 August 2016
+|time           = 23:00 [[Central European Summer Time|CEST]]
+|team1          = Barcelona
+|score          = 3–0
+|aggregatescore = 5–0
+|report         = https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/spanish-super-cup/final-tornada/barcelona-sevilla
+|team2          = [[Sevilla FC|Sevilla]]
+|goals1         = [[Arda Turan|Turan]] {{goal|10||46}}<br />[[Samuel Umtiti|Umtiti]] {{yel|32}}<br />[[Lionel Messi|Messi]] {{goal|55}}
+|goals2         = [[Vicente Iborra|Iborra]] {{penmiss}} <small>32'</small><br />[[Pablo Sarabia|Sarabia]] {{yel|90}}
+|stadium        = [[Camp Nou]]
+|location       = [[Barcelona]]
+|attendance     = 71,803
+|referee        = [[Alejandro Hernández Hernández]]
+|result         = W
+}}
+
+===UEFA Champions League===
+{{main|2016–17 UEFA Champions League}}
+
+====Group stage====
+{{main|2016–17 UEFA Champions League group stage#Group C}}
+{{:2016–17 UEFA Champions League group stage|transcludesection=Group C|show_matches=yes|showteam=BAR}}
+{{football box collapsible
+|round      = [[2016–17 UEFA Champions League group stage#Barcelona v Celtic|1]]
+|date       = 13 September 2016
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = Barcelona {{flagicon|ESP}}
+|score      = 7–0
+|report     = [https://www.uefa.com/uefachampionsleague/match/2019286--barcelona-vs-celtic/ UEFA Report]<br />[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/champions-league-2016-17/round-1-c/barcelona-celtic Club Report]
+|team2      = {{flagicon|SCO}} [[Celtic F.C.|Celtic]]
+|goals1     = [[Lionel Messi|Messi]] {{goal|3||27||60}}<br />[[Marc-André ter Stegen|Ter Stegen]] {{yel|23}}<br />[[Ivan Rakitić|Rakitić]] {{yel|40}}<br />[[Neymar]] {{goal|50}}<br />[[Andrés Iniesta|Iniesta]] {{goal|59}}<br />[[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|75||88}}
+|goals2     = [[Moussa Dembélé (French footballer)|Dembélé]] {{penmiss}} <small>24'</small><br />[[Scott Brown (footballer, born June 1985)|Brown]] {{yel|56}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]], [[Spain]]
+|attendance = 73,920
+|referee    = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2016–17 UEFA Champions League group stage#Borussia Mönchengladbach v Barcelona|2]]
+|date       = 28 September 2016
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = [[Borussia Mönchengladbach]] {{flagicon|GER}}
+|score      = 1–2
+|report     = [https://www.uefa.com/uefachampionsleague/match/2019310--monchengladbach-vs-barcelona/ UEFA Report]<br />[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/champions-league-2016-17/round-2-c/borussia-monchengladbach-barcelona Club Report]
+|team2      = {{flagicon|ESP}} Barcelona
+|goals1     = [[Thorgan Hazard|Hazard]] {{goal|34}}
+|goals2     = [[Javier Mascherano|Mascherano]] {{yel|63}}<br>[[Arda Turan|Turan]] {{goal|65}}<br>[[Gerard Piqué|Piqué]] {{yel|70}}, {{goal|74}}<br>[[Neymar]] {{yel|90+1}}
+|stadium    = [[Borussia-Park]]
+|location   = [[Mönchengladbach]], [[Germany]]
+|attendance = 46,283
+|referee    = [[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2016–17 UEFA Champions League group stage#Barcelona v Manchester City|3]]
+|date       = 19 October 2016
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = Barcelona {{flagicon|ESP}}
+|score      = 4–0
+|report     = [https://www.uefa.com/uefachampionsleague/match/2019327--barcelona-vs-man-city/ UEFA Report]<br />[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/champions-league-2016-17/round-3-c/barcelona-manchester-city Club Report]
+|team2      = {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1     = [[Lionel Messi|Messi]] {{goal|17||61||69}}<br>[[Jéremy Mathieu|Mathieu]] {{sentoff|2|71|73}}<br>[[Neymar]] {{penmiss}} <small>87'</small>, {{goal|89}}
+|goals2     = [[David Silva|Silva]] {{yel|29}}<br>[[Fernandinho (footballer, born May 1985)|Fernandinho]] {{yel|40}}<br>[[Claudio Bravo|Bravo]] {{sentoff|0|53}}<br>[[Raheem Sterling|Sterling]] {{yel|90+2}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]], [[Spain]]
+|attendance = 96,290
+|referee    = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2016–17 UEFA Champions League group stage#Manchester City v Barcelona|4]]
+|date       = 1 November 2016
+|time       = 19:45 [[Greenwich Mean Time|GMT]]
+|team1      = [[Manchester City F.C.|Manchester City]] {{flagicon|ENG}}
+|score      = 3–1
+|report     = [https://www.uefa.com/uefachampionsleague/match/2019335--man-city-vs-barcelona/ UEFA Report]<br />[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/champions-league-2016-17/round-4-c/manchester-city-barcelona Club Report]
+|team2      = {{flagicon|ESP}} Barcelona
+|goals1     = [[Raheem Sterling|Sterling]] {{yel|11}}<br>[[İlkay Gündoğan|Gündoğan]] {{goal|39||74}}<br>[[Kevin De Bruyne|De Bruyne]] {{goal|51}}<br>[[Aleksandar Kolarov|Kolarov]] {{yel|60}}
+|goals2     = [[Ivan Rakitić|Rakitić]] {{yel|20}}<br>[[Lionel Messi|Messi]] {{goal|21}}<br>[[Neymar]] {{yel|29}}<br>[[Sergio Busquets|Busquets]] {{yel|74}}
+|stadium    = [[City of Manchester Stadium]]
+|location   = [[Manchester]], [[England]]
+|attendance = 53,340
+|referee    = [[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|result     = L
+}}
+{{football box collapsible
+|round      = [[2016–17 UEFA Champions League group stage#Celtic v Barcelona|5]]
+|date       = 23 November 2016
+|time       = 19:45 [[Greenwich Mean Time|GMT]]
+|team1      = [[Celtic F.C.|Celtic]] {{flagicon|SCO}}
+|score      = 0–2
+|report     = [https://www.uefa.com/uefachampionsleague/match/2019358--celtic-vs-barcelona/ UEFA Report]<br />[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/champions-league-2016-17/round-5-c/celtic-barcelona Club Report]
+|team2      = {{flagicon|ESP}} Barcelona
+|goals1     = [[Erik Sviatchenko|Sviatchenko]] {{yel|23}}<br>[[Mikael Lustig|Lustig]] {{yel|71}}<br>[[Stuart Armstrong|Armstrong]] {{yel|87}}
+|goals2     = [[Lionel Messi|Messi]] {{goal|24||56|pen.}}<br>[[Jordi Alba|Alba]] {{yel|41}}<br>[[Sergi Roberto|Roberto]] {{yel|63}}<br>[[Neymar]] {{yel|71}}<br>[[Ivan Rakitić|Rakitić]] {{yel|88}}
+|stadium    = [[Celtic Park]]
+|location   = [[Glasgow]], [[Scotland]]
+|attendance = 57,937
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2016–17 UEFA Champions League group stage#Barcelona v Borussia Mönchengladbach|6]]
+|date       = 6 December 2016
+|time       = 20:45 [[Central European Time|CET]]
+|team1      = Barcelona {{flagicon|ESP}}
+|score      = 4–0
+|report     = [https://www.uefa.com/uefachampionsleague/match/2019366--barcelona-vs-monchengladbach/ UEFA Report]<br />[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/champions-league-2016-17/round-6-c/barcelona-borussia-monchengladbach Club Report]
+|team2      = {{flagicon|GER}} [[Borussia Mönchengladbach]]
+|goals1     = [[Lionel Messi|Messi]] {{goal|16}}<br>[[Arda Turan|Turan]] {{goal|50||53||67}}
+|goals2     = [[Mahmoud Dahoud|Dahoud]] {{yel|55}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]], [[Spain]]
+|attendance = 67,157
+|referee    = [[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|result     = W
+}}
+
+====Knockout phase====
+{{main|2016–17 UEFA Champions League knockout phase}}
+
+=====Round of 16=====
+{{football box collapsible
+|round      = [[2016–17 UEFA Champions League knockout phase#Paris Saint-Germain v Barcelona|First leg]]
+|date       = 14 February 2017
+|time       = 20:45 [[Central European Time|CET]]
+|team1      = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA}}
+|score      = 4–0
+|report     = [https://www.uefa.com/uefachampionsleague/match/2019615--paris-vs-barcelona/ UEFA Report]<br>[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/champions-league/1-8-tornada/paris-saint-germain-barcelona Club Report]
+|team2      = {{flagicon|ESP}} Barcelona
+|goals1     = [[Adrien Rabiot|Rabiot]] {{yel|3}}<br />[[Ángel Di María|Di María]] {{goal|18||55}}<br />[[Julian Draxler|Draxler]] {{goal|40}}<br />[[Edinson Cavani|Cavani]] {{goal|72}}
+|goals2     = [[André Gomes|Gomes]] {{yel|33}}<br />[[Sergio Busquets|Busquets]] {{yel|62}}<br />[[Rafinha (footballer, born February 1993)|Rafinha]] {{yel|74}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]], [[France]]
+|attendance = 46,484
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result     = L
+}}
+{{football box collapsible
+|round          = [[2016–17 UEFA Champions League knockout phase#Barcelona v Paris Saint-Germain|Second leg]]
+|date           = 8 March 2017
+|time           = 20:45 [[Central European Time|CET]]
+|team1          = Barcelona {{flagicon|ESP}}
+|score          = [[FC Barcelona 6–1 Paris Saint-Germain F.C.|6–1]]
+|aggregatescore = 6–5
+|report         = [https://www.uefa.com/uefachampionsleague/match/2019621--barcelona-vs-paris/ UEFA Report]<br>[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/champions-league/1-8-tornada/barcelona-paris-saint-germain Club Report]
+|team2          = {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1         = 
+[[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|3}}, {{yel|67}}<br>[[Gerard Piqué|Piqué]] {{yel|23}}<br>[[Sergio Busquets|Busquets]] {{yel|36}}<br>[[Layvin Kurzawa|Kurzawa]] {{goal|40|o.g.}}<br>[[Lionel Messi|Messi]] {{goal|50|pen.}}<br>[[Ivan Rakitić|Rakitić]] {{yel|61}}<br>[[Neymar]] {{yel|64}}, {{goal|88||90+1|pen.}}<br>[[Sergi Roberto|Roberto]] {{goal|90+5}}
+|goals2         = 
+[[Blaise Matuidi|Matuidi]] {{yel|5}}<br>[[Julian Draxler|Draxler]] {{yel|14}}<br>[[Edinson Cavani|Cavani]] {{yel|42}}, {{goal|62}}<br>[[Marquinhos]] {{yel|90}}<br>[[Marco Verratti|Verratti]] {{yel|90+4}}
+|stadium        = [[Camp Nou]]
+|location       = [[Barcelona]], [[Spain]]
+|attendance     = 96,290
+|referee        = [[Deniz Aytekin]] ([[German Football Association|Germany]])
+|result         = W
+}}
+
+=====Quarter-finals=====
+{{football box collapsible
+|round      = [[2016–17 UEFA Champions League knockout phase#Juventus v Barcelona|First leg]]
+|date       = 11 April 2017
+|time       = 20:45 [[Central European Summer Time|CEST]]
+|team1      = [[Juventus FC|Juventus]] {{flagicon|ITA}}
+|score      = 3–0
+|report     = [https://www.uefa.com/uefachampionsleague/match/2019632--juventus-vs-barcelona/ UEFA Report]<br>[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/champions-league/1-4-anada/juventus-fc-barcelona Club Report]
+|team2      = {{flagicon|ESP}} Barcelona
+|goals1     = 
+* [[Paulo Dybala|Dybala]] {{goal|7||22}}
+* [[Dani Alves]] {{yel|28}}
+* [[Giorgio Chiellini|Chiellini]] {{goal|55}}
+* [[Mario Mandžukić|Mandžukić]] {{yel|63}}
+* [[Sami Khedira|Khedira]] {{yel|74}}
+* [[Mario Lemina|Lemina]] {{yel|90+1}}
+|goals2     = 
+* [[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{yel|53}}
+* [[Andrés Iniesta|Iniesta]] {{yel|57}}
+* [[Samuel Umtiti|Umtiti]] {{yel|90+1}}
+|stadium    = [[Juventus Stadium]]
+|location   = [[Turin]], [[Italy]]
+|attendance = 41,092
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result     = L
+}}
+{{football box collapsible
+|round          = [[2016–17 UEFA Champions League knockout phase#Barcelona v Juventus|Second leg]]
+|date           = 19 April 2017
+|time           = 20:45 [[Central European Summer Time|CEST]]
+|team1          = Barcelona {{flagicon|ESP}}
+|score          = 0–0
+|aggregatescore = 0–3
+|report         = [https://www.uefa.com/uefachampionsleague/match/2019634--barcelona-vs-juventus/ UEFA Report]<br>[https://www.fcbarcelona.com/football/first-team/match-archive/2016-2017/champions-league/1-4-tornada/fc-barcelona-juventus Club Report]
+|team2          = {{flagicon|ITA}} [[Juventus FC|Juventus]]
+|goals1         = 
+* [[Andrés Iniesta|Iniesta]] {{yel|41}}
+* [[Neymar]] {{yel|44}}
+|goals2         = 
+* [[Giorgio Chiellini|Chiellini]] {{yel|57}}
+* [[Sami Khedira|Khedira]] {{yel|64}}
+|stadium        = [[Camp Nou]]
+|location       = [[Barcelona]], [[Spain]]
+|attendance     = 96,290
+|referee        = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result         = D
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.fcbarcelona.com/en}}
+
+{{FC Barcelona seasons}}
+{{2016–17 in Spanish football}}
+
+{{DEFAULTSORT:2016-17 FC Barcelona season}}
+[[Category:FC Barcelona seasons]]
+[[Category:2016–17 La Liga]]
+[[Category:Spanish football clubs 2016–17 season|Barcelona]]
+[[Category:2016–17 UEFA Champions League participants seasons|Barcelona]]
+[[Category:2016–17 in Catalan football|Barcelona]]

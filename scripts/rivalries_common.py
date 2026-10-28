@@ -22,7 +22,7 @@ CACHE = ROOT / "data" / "raw" / "wikipedia" / "rivalries"
 RAW = ROOT / "data" / "raw"
 OUT_DIR = ROOT / "football" / "rivalries" / "data"
 CLUBS = ROOT / "data" / "football" / "clubs.json"
-COUNTRY_NAMES = {"ARG": ("Argentina", "ar"), "ESP": ("Spain", "es"), "ITA": ("Italy", "it"), "ENG": ("England", "gb-eng"),
+COUNTRY_NAMES = {"ARG": ("Argentina", "ar"), "URU": ("Uruguay", "uy"), "ESP": ("Spain", "es"), "ITA": ("Italy", "it"), "ENG": ("England", "gb-eng"),
                  "BRA": ("Brazil", "br"), "FRA": ("France", "fr"), "GER": ("Germany", "de")}
 TODAY = date.today().isoformat()
 
@@ -40,14 +40,18 @@ EN_MONTHS.update({m[:3]: i for m, i in list(EN_MONTHS.items())})
 EN_MONTHS["sept"] = 9
 
 
-def page(title: str, refresh: bool, lang: str = "en") -> str:
+def page(title: str, refresh: bool, lang: str = "en", _suffix: str = "") -> str:
     """A Wikipedia page's wikitext, cached under data/raw; redirects are followed."""
     ascii_title = unicodedata.normalize("NFKD", title).encode("ascii", "ignore").decode()
-    slug = re.sub(r"[^a-z0-9]+", "-", ascii_title.lower()).strip("-")
+    slug = re.sub(r"[^a-z0-9]+", "-", ascii_title.lower()).strip("-") + _suffix
     name = f"{slug}.wiki" if lang == "en" else f"{lang}-{slug}.wiki"
     text = W.fetch_raw(title, CACHE / name, refresh, pause=1.5, lang=lang)
     target = re.match(r"\s*#(?:redirect|redirección|redirecionamento|weiterleitung)\s*\[\[([^\]|#]+)", text, re.I)
-    return page(target.group(1).strip(), refresh, lang) if target else text
+    if not target:
+        return text
+    # A redirect that differs only in case ("Fútbol" -> "fútbol") would share this cache file: keep it apart.
+    same = fold(target.group(1).strip()) == fold(title)
+    return page(target.group(1).strip(), refresh, lang, _suffix + "-r" if same else "")
 
 
 def fetch_url(url: str, cache: Path, refresh: bool, encoding: str = "utf-8") -> str:
@@ -350,3 +354,57 @@ def box_goals(text: str) -> str:
         if name:
             out.append(f"{name} ({', '.join(mins)})" if mins else name)
     return ", ".join(out)
+
+
+# ---------------------------------------------------------------- Leaders counted from the match list
+
+
+def scorer_entries(text: str, goals: int) -> list[tuple[str, int]]:
+    """ "Lamas (10), B. Ferreyra (20, 82), Paredes (x2), Brown (2)" -> [(name, goals)], own goals left out.
+    A lone number in brackets is a minute unless counting it as goals is what makes the side's total add up."""
+    parts = re.split(r",\s*(?![^()]*\))", text or "")
+    raw = []
+    for p in parts:
+        p = p.strip()
+        m = re.match(r"^(.*?)\s*(?:\((.*)\))?\s*$", p)
+        name, inside = m.group(1).strip(" .;"), (m.group(2) or "").strip()
+        if not name or re.search(r"\bo\.?g\.?\b|own goal|e\.c\.|en contra", p, re.I):
+            continue
+        name = re.sub(r"\s*\b(?:pen|p|pk)\.?$", "", name).strip()
+        times = re.match(r"^x\s*(\d+)$", inside, re.I)
+        mins = [x for x in re.split(r"\s*,\s*", inside) if x and not re.search(r"o\.?g", x, re.I)] if inside else []
+        raw.append((name, int(times.group(1)) if times else max(1, len(mins)), inside if re.fullmatch(r"\d", inside) else None))
+    total = sum(n for _, n, _ in raw)
+    if total < goals:
+        as_counts = sum(int(single) if single else n for _, n, single in raw)
+        if as_counts == goals:
+            return [(name, int(single) if single else n) for name, n, single in raw]
+    return [(name, n) for name, n, _ in raw]
+
+
+def leaders_from_matches(data: dict, minimum: float = 0.97) -> list[dict] | None:
+    """Top scorers counted from the scorers listed for each match, when nearly every match with goals has them.
+    "Ferreyra" joins "B. Ferreyra" when he is the only player of that club with the surname."""
+    ms = [m for m in data["matches"] if m["hs"] + m["as"] > 0]
+    covered = [m for m in ms if (m["hs"] == 0 or m.get("goalsHome")) and (m["as"] == 0 or m.get("goalsAway"))]
+    if not ms or len(covered) / len(ms) < minimum:
+        return None
+    tally: dict[tuple[str, str], int] = Counter()
+    for m in covered:
+        for side, team, n in (("goalsHome", m["home"], m["hs"]), ("goalsAway", m["away"], m["as"])):
+            for name, g in scorer_entries(m.get(side, ""), n):
+                tally[(team, name)] += g
+    surname = lambda n: fold(n.split(". ")[-1] if ". " in n else n)  # noqa: E731
+    merged: dict[tuple[str, str], int] = Counter()
+    for (team, name), g in tally.items():
+        if ". " not in name:
+            full = [k for k in tally if k[0] == team and ". " in k[1] and surname(k[1]) == fold(name)]
+            if len(full) == 1:
+                merged[full[0]] += g
+                continue
+        merged[(team, name)] += g
+    out = [{"name": name, "team": team, "goals": g} for (team, name), g in merged.items()]
+    out.sort(key=lambda o: (-o["goals"], o["name"]))
+    data["notes"].append(f"The top scorers are counted from the scorers listed for each match ({len(covered)} of the {len(ms)} "
+                         "matches with goals have them), so they may differ slightly from other sources.")
+    return out[:15]

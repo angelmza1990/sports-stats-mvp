@@ -35,7 +35,7 @@ GROUNDS = {
 
 
 def section(text: str, heading: str) -> str:
-    m = re.search(r"^(=+)\s*" + heading + r"\s*=+\s*$", text, re.M)
+    m = re.search(r"^(=+)\s*" + heading + r"\s*(?:<ref.*?(?:/>|</ref>))?\s*=+\s*$", text, re.M)  # a heading may end in a reference
     if not m:
         return ""
     rest = text[m.end():]
@@ -347,6 +347,11 @@ def leaders(text: str, pair: Pair) -> list[dict]:
             team = pair.team(mm.group(1))
             if team:
                 out.append({"name": W.plain(mm.group(2)), "team": team, "goals": int(mm.group(3))})
+        # "* Santos: [[Pelé]] (32 gols)"
+        for mm in re.finditer(r"^\*\s*([^:\n]+):\s*(\[\[[^\]]+\]\])\s*\((\d+)\s+gols\)", para, re.M):
+            team = pair.team(mm.group(1))
+            if team:
+                out.append({"name": W.plain(mm.group(2)), "team": team, "goals": int(mm.group(3))})
         # "[[Heleno de Freitas]], pelo Botafogo, é o maior artilheiro deste clássico, com 22 gols"
         for mm in re.finditer(r"(\[\[[^\]]+\]\])[^.\[]*?pel[oa]\s+(\w+)[^.\[]*?com\s+(\d+)\s+(?:gols|tentos)", para):
             team = pair.team(mm.group(2))
@@ -469,7 +474,11 @@ BR_RIVALRIES = {
                          "ties": ["Demais confrontos eliminatórios", "Decisões de títulos", "Confrontos em competições internacionais"]},
     "corinthians-santos": {"pt": "Clássico Alvinegro", "list": "Lista de confrontos completa", "ties": ["Finais"], "leaders": "Artilheiros"},
     "flamengo-fluminense": {"pt": "Fla-Flu", "list": "Todos os confrontos", "ties": ["Decisões e taças"]},
+    # The article names the top scorers in a sentence, not always with their club: "Heleno pelo Botafogo e Waldo pelo
+    # Fluminense, ambos com 16 gols ... Fred, com 14, Welfare pelo Flu, com 13, e Dino, pelo Bota, com 11".
     "botafogo-fluminense": {"pt": "Clássico Vovô", "list": "Todos os confrontos", "leaders": "Goleadores",
+                            "scorers": [("Heleno de Freitas", "botafogo", 16), ("Waldo", "fluminense", 16), ("Fred", "fluminense", 14),
+                                        ("Welfare", "fluminense", 13), ("Dino da Costa", "botafogo", 11)],
                             "ties": ["Decisões em finais diretas", "Demais jogos eliminatórios"]},
     "fluminense-vasco": {"pt": "Clássico dos Gigantes", "list": "Todos os confrontos",
                          "ties": ["Decisões em finais diretas", "Demais jogos eliminatórios"]},
@@ -525,6 +534,8 @@ def brazil(key: str, a: str, b: str):
         ties = ties_from(pt or en, pair, cfg.get("ties", []), state) or ties_from(en, pair, cfg.get("ties", []), state)
         lead_src = en if cfg.get("en") and cfg.get("leaders") and section(en, cfg["leaders"]) else pt
         scorers = leaders(section(lead_src, cfg["leaders"]), pair) if cfg.get("leaders") else []
+        if not scorers and cfg.get("scorers"):
+            scorers = [{"name": n, "team": t, "goals": g} for n, t, g in cfg["scorers"]]
         data = {"source": source, "notes": notes, "ties": ties, "scorers": scorers, "tiesFromText": True, "awayGoals": False}
         if cfg.get("list"):
             rows = pt_rows(section(pt, cfg["list"]), pair)

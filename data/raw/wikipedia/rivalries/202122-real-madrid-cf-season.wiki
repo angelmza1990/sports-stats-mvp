@@ -1,0 +1,1669 @@
+{{Short description|118th season in existence of Real Madrid CF}}
+{{Infobox football club season
+|club               = [[Real Madrid CF|Real Madrid]]
+|season             = [[2021–22 in Spanish football|2021–22]]
+|image              = File:Ofrenda de la Liga y la Champions-57-L.Millán (52109310843).jpg
+|image_size         = 280px
+|alt                = 
+|caption            = Real Madrid players celebrating the [[Double (association football)#European double|double]] on 29 May 2022, the day after their [[2022 UEFA Champions League Final|Champions League victory]]<ref>{{cite web|url=https://www.espn.com/soccer/blog-the-toe-poke/story/4677283/real-madrid-parade-champions-league-and-laliga-trophies-liverpool-receive-heroes-welcome-after-double|title=Real Madrid parade Champions League and LaLiga trophies; Liverpool receive heroes welcome after double|author=Alex Kirkland|publisher=[[ESPN FC]]|date=30 May 2022|access-date=2 June 2022|archive-date=2 June 2022|archive-url=https://web.archive.org/web/20220602110229/https://www.espn.com/soccer/blog-the-toe-poke/story/4677283/real-madrid-parade-champions-league-and-laliga-trophies-liverpool-receive-heroes-welcome-after-double|url-status=live}}</ref>
+|chrtitle           = [[List of Real Madrid CF presidents|President]]
+|chairman           = [[Florentino Pérez]]
+|mgrtitle           = Head coach
+|manager            = [[Carlo Ancelotti]]
+|stadium            = {{nowrap|[[Santiago Bernabéu Stadium|Santiago Bernabéu]]}}
+|league             = [[La Liga]]
+|league result      = '''[[2021–22 La Liga|1st]]'''
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2021–22 Copa del Rey#Quarter-finals|Quarter-finals]]
+|cup2               = [[Supercopa de España]]
+|cup2 result        = '''[[2022 Supercopa de España final|Winners]]'''
+|cup3               = [[UEFA Champions League]]
+|cup3 result        = '''[[2022 UEFA Champions League final|Winners]]'''
+|league topscorer   = <br>[[Karim Benzema]] (27)
+|season topscorer   = <br>Karim Benzema (44)
+|highest attendance = {{nowrap|61,416 vs [[Manchester City F.C.|Manchester City]]}}
+|lowest attendance  = {{nowrap|19,874 vs [[RC Celta de Vigo|Celta Vigo]]}}
+|average attendance = {{formatnum:{{#expr: (19874 + 20113 + 23985 + 35619 + 43283 + 45281 + 33627 + 51024 + 38818 + 40617 + 39796 + 36665 + 42180 + 52410 + 60017 + 50740 + 58686 + 38421 + 52232) / 19 round 0}}}}{{refn|group=note|Due to the [[COVID-19 pandemic in Spain|COVID-19 pandemic]], attendance was capped at 40% in August<ref>{{cite web|url=https://www.elconfidencial.com/espana/2021-08-04/sanidad-vuelta-estadios-abonados-aforo_3216783/|publisher=El Confidencial|language=es|date=4 August 2021|title=Luz verde a la vuelta a los estadios: un 40% de aforo, pero las CCAA podrán reducirlo|access-date=25 December 2021|archive-date=20 April 2022|archive-url=https://web.archive.org/web/20220420024907/https://www.elconfidencial.com/espana/2021-08-04/sanidad-vuelta-estadios-abonados-aforo_3216783/|url-status=live}}</ref> and 60% in September;<ref>{{cite web|url=https://as.com/diarioas/2021/09/01/actualidad/1630495398_228041.html|publisher=Diario As|language=es|date=1 September 2021|title=Sanidad y las comunidades elevan los aforos en los estadios: porcentajes en LaLiga y ACB|access-date=25 December 2021|archive-date=9 April 2022|archive-url=https://web.archive.org/web/20220409152239/https://as.com/diarioas/2021/09/01/actualidad/1630495398_228041.html|url-status=live}}</ref> since October, full capacity was allowed.<ref>{{cite web|url=https://www.marca.com/futbol/2021/09/29/61540694e2704e2a0c8b4581.html|work=[[Marca (newspaper)|Marca]]|date=29 September 2021|language=es|title=Vuelve el público al 100% a los estadios de LaLiga y al 80% en la ACB|access-date=25 December 2021|archive-date=20 April 2022|archive-url=https://web.archive.org/web/20220420024857/https://www.marca.com/futbol/2021/09/29/61540694e2704e2a0c8b4581.html|url-status=live}}</ref> Additionally, Santiago Bernabéu's capacity was limited throughout the season due to renovation works.<ref>{{cite web|title=NFL games, concerts, basketball: New Bernabéu set to be potential Real Madrid goldmine|url=https://en.as.com/en/2021/11/04/videos/1636032958_836898.html|date=4 November 2021|access-date=4 November 2021|website=as.com|archive-date=5 April 2022|archive-url=https://web.archive.org/web/20220405061400/https://en.as.com/en/2021/11/04/videos/1636032958_836898.html|url-status=live}}</ref>}}
+|largest win        = {{nowrap|Real Madrid 6–0 [[Levante UD|Levante]]}}
+|largest loss       = {{nowrap|Real Madrid 0–4 [[FC Barcelona|Barcelona]]}}
+|pattern_name1      = Home
+|pattern_la1        = _realmadrid2122H
+|pattern_b1         = _realmadrid2122H
+|pattern_ra1        = _realmadrid2122H
+|pattern_sh1        = _realmadrid2122H
+|pattern_so1        = _realmadrid2122H
+|leftarm1           = FFFFFF
+|body1              = FFFFFF
+|rightarm1          = FFFFFF
+|shorts1            = FFFFFF
+|socks1             = FFFFFF
+|pattern_name2      = Away
+|pattern_la2        = _realmadrid2122A
+|pattern_b2         = _realmadrid2122A
+|pattern_ra2        = _realmadrid2122A
+|pattern_sh2        = _realmadrid2122A
+|pattern_so2        = _realmadrid2122Al
+|leftarm2           = 28315C
+|body2              = 28315C
+|rightarm2          = 28315C
+|shorts2            = 28315C
+|socks2             = 28315C
+|pattern_name3      = Third
+|pattern_la3        = 
+|pattern_b3         = _realmadrid2122t
+|pattern_ra3        = 
+|pattern_sh3        = _realmadrid2122t
+|pattern_so3        = _3_stripes_white
+|leftarm3           = 2BB6BB
+|body3              = 2BB6BB
+|rightarm3          = 2BB6BB
+|shorts3            = 2BB6BB
+|socks3             = 2BB6BB
+|prevseason         = [[2020–21 Real Madrid CF season|2020–21]]
+|nextseason         = [[2022–23 Real Madrid CF season|2022–23]]
+}}
+The '''2021–22 [[Real Madrid CF|Real Madrid Club de Fútbol]] season''' was the [[List of Real Madrid CF seasons|118th season in existence]] and the club's [[La Liga records and statistics#All-time table|91st consecutive season]] in the top flight of [[Football in Spain|Spanish football]]. In addition to the [[2021–22 La Liga|domestic league]], Real Madrid participated in this season's editions of the [[2021–22 Copa del Rey|Copa del Rey]], the [[2021–22 Supercopa de España|Supercopa de España]], and the [[2021–22 UEFA Champions League|UEFA Champions League]].
+
+This season saw [[Carlo Ancelotti]] return to the club, having led it to ''[[2014 UEFA Champions League Final|La Décima]]'' in his first spell. On the domestic front, he delivered two trophies out of possible three, winning [[2021–22 La Liga|La Liga]] and the [[2022 Supercopa de España|Supercopa de España]].<ref>{{cite web|url=https://www.bbc.com/sport/football/60018825|title=Athletic Bilbao 0-2 Real Madrid: Luka Modric scores in Super Cup final win|date=16 January 2022|work=BBC Sport|access-date=16 January 2022|archive-date=3 January 2023|archive-url=https://web.archive.org/web/20230103190038/https://www.bbc.com/sport/football/60018825|url-status=live}}</ref><ref>{{cite news |url=https://www.marca.com/en/football/real-madrid/2022/01/16/61e481b0ca4741226d8b458c.html |title=Modric and Benzema fire Real Madrid to the Supercopa title |newspaper=Marca |first=Euan |last=Mctear |date=16 January 2022 |access-date=16 January 2022 |archive-date=25 January 2022 |archive-url=https://web.archive.org/web/20220125114735/https://www.marca.com/en/football/real-madrid/2022/01/16/61e481b0ca4741226d8b458c.html |url-status=live }}</ref><ref name="Real Madrid 4–0 Espanyol">{{cite web|title=Real Madrid 4–0 Espanyol|url=https://www.bbc.com/sport/football/61284264|date=30 April 2022|access-date=30 April 2022|publisher=BBC|archive-date=26 February 2023|archive-url=https://web.archive.org/web/20230226184123/https://www.bbc.com/sport/football/61284264|url-status=live}}</ref> With that, Ancelotti became the first manager in Real Madrid history to have won all of the six available top-tier major trophies.<ref>{{cite news |title=Ancelotti completes 'Grand Slam' as Real win title |work=BBC Sport |url=https://www.bbc.com/sport/football/61284264 |access-date=30 April 2022 |archive-date=26 February 2023 |archive-url=https://web.archive.org/web/20230226184123/https://www.bbc.com/sport/football/61284264 |url-status=live }}</ref> In the [[2021–22 UEFA Champions League|Champions League]], Madrid produced one of the most memorable runs of all time,<ref>{{cite news|title=Champions League final: Real Madrid as plucky underdogs shows how broken football is|author=Paul Macdonald|date=26 May 2022|url=https://www.footballtransfers.com/en/transfer-news/eu-uefa-champions-league/2022/05/real-madrid-plucky-underdogs-shows-how-broken-european-football-has-become/|publisher=footballtransfers.com|access-date=29 May 2022|archive-date=6 May 2022|archive-url=https://web.archive.org/web/20220506084732/https://www.footballtransfers.com/en/transfer-news/eu-uefa-champions-league/2022/05/real-madrid-plucky-underdogs-shows-how-broken-european-football-has-become|url-status=live}}</ref> defeating pre-tournament favorites [[Paris Saint-Germain F.C.|Paris Saint-Germain]],<ref>{{cite web|url=https://www.sportingnews.com/us/soccer/news/uefa-champions-league-odds-betting-favorites-futures-picks/vhhme9pw6ca51omrp2a41ztkc|author=Simon Borg|title=UEFA Champions League odds, betting favorites & futures picks for 2021-22 tournament|date=14 September 2021|publisher=[[Sporting News|The Sporting News]]|access-date=1 June 2022|archive-date=1 June 2022|archive-url=https://web.archive.org/web/20220601102134/https://www.sportingnews.com/us/soccer/news/uefa-champions-league-odds-betting-favorites-futures-picks/vhhme9pw6ca51omrp2a41ztkc|url-status=live}}</ref><ref>{{cite web|url=https://en.as.com/en/2022/03/09/opinion/1646814826_897742.html?|author=Alfredo Relaño|title=Champions League: PSG favourites but history favours Real Madrid|date=9 March 2022|publisher=[[Diario AS]]|access-date=29 May 2022|archive-date=30 May 2022|archive-url=https://web.archive.org/web/20220530142450/https://en.as.com/en/2022/03/09/opinion/1646814826_897742.html|url-status=live}}</ref> [[2020–21 UEFA Champions League|defending champions]] and favorites [[Chelsea F.C.|Chelsea]],<ref>{{cite web|url=https://www.cbssports.com/soccer/news/chelsea-vs-real-madrid-odds-picks-how-to-watch-live-stream-uefa-champions-league-bets-for-april-6-2022/|title=Chelsea vs. Real Madrid odds, picks, how to watch, live stream: UEFA Champions League bets for April 6, 2022|author=CBS Sports Staff|date=6 April 2022|access-date=1 June 2022|work=[[CBS Sports]]|archive-date=1 June 2022|archive-url=https://web.archive.org/web/20220601104520/https://www.cbssports.com/soccer/news/chelsea-vs-real-madrid-odds-picks-how-to-watch-live-stream-uefa-champions-league-bets-for-april-6-2022/|url-status=live}}</ref> [[2020–21 Premier League|Premier League champions]] and heavy favorites [[Manchester City F.C.|Manchester City]],<ref>{{cite web|title=Ancelotti fine with underdog role against Manchester City|author=[[Associated Press]]|date=25 April 2022 |url=https://www.thescore.com/chlg/news/2346128/|publisher=thescore.com|access-date=29 May 2022}}</ref> all in dramatic fashion, and setting up the [[2022 UEFA Champions League final|final]] against [[Liverpool F.C.|Liverpool]], who were once again widely considered as favorites,<ref>{{cite web|title=Who will win the Champions League final 2022? Liverpool vs. Real Madrid betting odds|author=Kyle Bonn|date=28 May 2022|url=https://www.sportingnews.com/au/soccer/news/who-will-win-champions-league-final-2022-liverpool-real-madrid-betting-odds/tj39fz1a8taie7nkzmqqzf8b|publisher=[[Sporting News|The Sporting News]]|access-date=29 May 2022|archive-date=28 May 2022|archive-url=https://web.archive.org/web/20220528162321/https://www.sportingnews.com/au/soccer/news/who-will-win-champions-league-final-2022-liverpool-real-madrid-betting-odds/tj39fz1a8taie7nkzmqqzf8b|url-status=live}}</ref> in a rematch of their [[2018 UEFA Champions League final|2018 encounter]]. A lone [[Vinícius Júnior|Vinícius]] goal in the second half sealed the 14th European Cup for ''Los Blancos'', their fifth in nine years. This was also Carlo Ancelotti's fourth Champions League title as coach, making him the [[List of European Cup and UEFA Champions League winning managers|most successful manager in the competition's history]].<ref>{{cite web |last=Summerscales |first=Robert |title=Carlo Ancelotti Becomes Most Successful Manager In Champions League History |url=https://www.si.com/fannation/soccer/futbol/news/carlo-ancelotti-now-most-successful-champions-league-manager |access-date=29 May 2022 |website=Futbol on FanNation |date=28 May 2022 |archive-date=11 July 2023 |archive-url=https://web.archive.org/web/20230711235747/https://www.si.com/fannation/soccer/futbol/news/carlo-ancelotti-now-most-successful-champions-league-manager |url-status=live }}</ref> Real also claimed their fourth ever [[Double (association football)#European double|European double]] (after [[1956–57 Real Madrid CF season|1956–57]], [[1957–58 Real Madrid CF season|1957–58]], and [[2016–17 Real Madrid CF season|2016–17]]).<ref name="Javier García">{{cite web|title=Madrid clinch the Decimocuarta!|author=Javier García|url=https://www.realmadrid.com/en/news/2022/05/28/0-1-madrid-clinch-the-decimocuarta|publisher=realmadrid.com|access-date=29 May 2022|archive-date=6 February 2023|archive-url=https://web.archive.org/web/20230206093939/https://www.realmadrid.com/en/news/2022/05/28/0-1-madrid-clinch-the-decimocuarta|url-status=live}}</ref><ref name="Associated Press">{{cite web|title=Real Madrid beats Liverpool 1-0 for 14th European Cup title|author=[[Associated Press]]|date=28 May 2022|url=https://www.cnbc.com/2022/05/28/real-madrid-beats-liverpool-1-0-for-14th-european-cup-title.html|publisher=[[CNBC]]|access-date=29 May 2022|archive-date=5 November 2022|archive-url=https://web.archive.org/web/20221105003337/https://www.cnbc.com/2022/05/28/real-madrid-beats-liverpool-1-0-for-14th-european-cup-title.html|url-status=live}}</ref>
+
+This was the first ever season since [[2004–05 Real Madrid CF season|2004–05]] without former [[Captain (association football)|captain]] [[Sergio Ramos]], who departed for [[Paris Saint-Germain F.C.|Paris Saint-Germain]] in the summer and first time since [[2010–11 Real Madrid CF season|2010–11]] without the Frenchman [[Raphaël Varane]] who departed to [[Manchester United F.C.|Manchester United]], with both having been Madrid's first choice centre-back pairing for years, therefore leaving in the same transfer window.
+
+==Summary==
+===Pre-season===
+On 27 May, after the conclusion of the 2020–21 season, [[Zinedine Zidane]] announced that he would leave Real Madrid.<ref>{{cite web|url=https://www.bbc.com/sport/football/57263375|title=Zinedine Zidane leaves Real Madrid for second time as manager|publisher=BBC|date=27 May 2021|access-date=27 May 2021|archive-date=27 May 2021|archive-url=https://web.archive.org/web/20210527101829/https://www.bbc.com/sport/football/57263375|url-status=live}}</ref> The next day, Real Madrid announced the signing of [[David Alaba]] on a free transfer from [[FC Bayern Munich|Bayern Munich]]. Alaba signed on  a five-year contract.<ref>{{cite web|url=https://www.bbc.com/sport/football/57286927|title=David Alaba: Austria defender joins Real Madrid after leaving Bayern Munich|publisher=BBC|date=28 May 2021|access-date=1 June 2021|archive-date=28 May 2021|archive-url=https://web.archive.org/web/20210528182111/https://www.bbc.com/sport/football/57286927|url-status=live}}</ref> [[Carlo Ancelotti]] returned as the head coach on 1 June, having already led Madrid in [[2013–14 Real Madrid CF season|2013]]–[[2014–15 Real Madrid CF season|15]].<ref>{{cite web|url=https://www.realmadrid.com/en/news/2021/06/01/official-announcement-ancelotti|title=Official Announcement: Ancelotti|publisher=Real Madrid CF|date=1 June 2021|access-date=1 June 2021|archive-date=1 June 2021|archive-url=https://web.archive.org/web/20210601171608/https://www.realmadrid.com/en/news/2021/06/01/official-announcement-ancelotti|url-status=live}}</ref> On 16 June, the club announced that [[Sergio Ramos]] would leave after 16 years of service and winning 22 trophies.<ref name="Official announcement">{{cite web|date=16 June 2021|title=Official announcement|url=https://www.realmadrid.com/en/news/2021/06/16/official-announcement|publisher=Real Madrid CF|access-date=16 June 2021|archive-date=16 June 2021|archive-url=https://web.archive.org/web/20210616194105/https://www.realmadrid.com/en/news/2021/06/16/official-announcement|url-status=live}}</ref>
+
+===August===
+The first match of the season was won 4–1 against [[Deportivo Alavés|Alavés]] on 14 August. [[Karim Benzema]] scored a brace, with the other goals coming from [[Nacho (footballer, born 1990)|Nacho]] and [[Vinícius Júnior]].<ref>{{cite web|url=https://www.marca.com/en/football/real-madrid/alaves-vs-r-madrid/cronica/2021/08/15/61183cd122601d070a8b4642.html|title=Benzema leads Real Madrid to convincing opening weekend win|work=Marca|location=Spain|date=15 August 2021|access-date=15 August 2021|archive-date=15 August 2021|archive-url=https://web.archive.org/web/20210815071730/https://www.marca.com/en/football/real-madrid/alaves-vs-r-madrid/cronica/2021/08/15/61183cd122601d070a8b4642.html|url-status=live}}</ref> [[Raphaël Varane]] left Madrid on the same day, to join [[Manchester United F.C.|Manchester United]].<ref>{{Cite web|title=Official Announcement: Raphaël Varane|url=https://www.realmadrid.com/en/news/2021/07/27/official-announcement-raphael-varane|access-date=27 July 2021|publisher=Real Madrid CF|archive-date=27 July 2021|archive-url=https://web.archive.org/web/20210727183230/https://www.realmadrid.com/en/news/2021/07/27/official-announcement-raphael-varane|url-status=live}}</ref> On 20 August, [[Martin Ødegaard]] left the club to join [[Arsenal F.C.|Arsenal]].<ref>{{Cite web|title=Official Announcement: Martin Ødegaard|url=https://www.realmadrid.com/en/news/2021/08/20/official-announcement-martin-%C3%B8degaard|access-date=20 August 2021|publisher=Real Madrid CF|archive-date=20 August 2021|archive-url=https://web.archive.org/web/20210820073256/https://www.realmadrid.com/en/news/2021/08/20/official-announcement-martin-%C3%B8degaard|url-status=live}}</ref> Two goals from Vinícius and a goal from [[Gareth Bale]] saved Madrid a point in a 3–3 draw with [[Levante UD|Levante]] on 22 August.<ref>{{Cite news|title=La Liga: Vinicius Brace Helps Real Madrid Draw 3–3 Against Levante|url=https://sports.ndtv.com/football/la-liga-vinicius-brace-helps-real-madrid-draw-3-3-against-levante-2516445|access-date=22 August 2021|newspaper=Ndtvsports.com|archive-date=26 August 2021|archive-url=https://web.archive.org/web/20210826173739/https://sports.ndtv.com/football/la-liga-vinicius-brace-helps-real-madrid-draw-3-3-against-levante-2516445|url-status=live}}</ref> Six days later, a goal from [[Dani Carvajal]] secured three points for Madrid in a 1–0 win over [[Real Betis]].<ref>{{Cite news|title=Real Betis 0–1 Real Madrid: Dani Carvajal secures narrow win|work=BBC Sport|url=https://www.bbc.com/sport/football/58372559|access-date=28 August 2021|archive-date=29 August 2021|archive-url=https://web.archive.org/web/20210829214257/https://www.bbc.com/sport/football/58372559|url-status=live}}</ref> On 31 August, [[Eduardo Camavinga]] joined the club on a transfer from [[Stade Rennais F.C.|Rennes]].<ref>{{Cite web|title=Eduardo Camavinga : du Roazhon Park à Bernabéu !|url=https://www.staderennais.com/eduardo-camavinga-du-roazhon-park-bernabeu|access-date=31 August 2021|publisher=staderennais.com|archive-date=31 August 2021|archive-url=https://web.archive.org/web/20210831174617/https://www.staderennais.com/eduardo-camavinga-du-roazhon-park-bernabeu|url-status=live}}</ref>
+
+===September===
+A hat-trick from Benzema, a strike from Vinícius and a debut goal from Camavinga gave Madrid a 5–2 win over [[RC Celta de Vigo|Celta Vigo]] on 12 September,<ref>{{Cite web|title=Real Madrid teenage star Camavinga scores six minutes into debut|url=https://www.goal.com/en-ae/news/real-madrid-teenage-star-camavinga-scores-six-minutes-into/b7u5e7cs01551q4oj2l8bysiw|access-date=12 September 2021|work=Goal (website)|archive-date=12 September 2021|archive-url=https://web.archive.org/web/20210912223304/https://www.goal.com/en-ae/news/real-madrid-teenage-star-camavinga-scores-six-minutes-into/b7u5e7cs01551q4oj2l8bysiw|url-status=live}}</ref> their first game at the [[Santiago Bernabéu Stadium]] in 560 days following extensive renovations.<ref>{{cite news |title=Real Madrid Returns to Bernabeu After 18 Months Away |url=https://www.si.com/soccer/2021/09/09/real-madrid-bernabeu-stadium-return |access-date=13 September 2021 |agency=Associated Press |via=Sports Illustrated |date=9 September 2021 |archive-date=9 September 2021 |archive-url=https://web.archive.org/web/20210909232912/https://www.si.com/soccer/2021/09/09/real-madrid-bernabeu-stadium-return |url-status=live }}</ref> Three days later, a late goal from [[Rodrygo]] got Madrid off to a winning start in the [[2021–22 UEFA Champions League|UEFA Champions League]], with a 1–0 win over [[Inter Milan]].<ref>{{Cite web|title=Football news – Dramatic late Rodrygo goal earns Real Madrid huge opening win at Inter Milan|url=https://www.eurosport.com/football/champions-league/2021-2022/inter-v-real-madrid-follow-live_sto8540326/story.shtml|access-date=15 September 2021|publisher=eurosport.com|archive-date=15 April 2024|archive-url=https://web.archive.org/web/20240415122942/https://www.eurosport.com/geoblocking.shtml|url-status=live}}</ref> On 19 September, two late goals from Benzema and Vinícius gave Madrid a 2–1 win over [[Valencia CF|Valencia]].<ref>{{Cite web|title=Real Madrid stage late comeback to win at Valencia|url=https://www.reuters.com/lifestyle/sports/real-madrid-stage-late-comeback-win-valencia-2021-09-19/|access-date=19 September 2021|work=Reuters.com|archive-date=2021-09-20|archive-url=https://web.archive.org/web/20210920223918/https://www.reuters.com/lifestyle/sports/real-madrid-stage-late-comeback-win-valencia-2021-09-19/|url-status=live}}</ref> Three days later, [[RCD Mallorca|Mallorca]] was defeated 6–1, with a hat-trick from [[Marco Asensio]], a brace from Benzema, and a goal from [[Isco]].<ref>{{Cite web|title=Football news – Marcos Asensio and Karim Benzema star as Real Madrid rout Mallorca to go top of La Liga|url=https://www.eurosport.com/football/liga/2021-2022/football-news-real-madrid-v-rcd-mallorca-follow-live_sto8550530/story.shtml|access-date=22 September 2021|publisher=eurosport.com|archive-date=21 December 2022|archive-url=https://web.archive.org/web/20221221210144/https://www.eurosport.com/geoblocking.shtml|url-status=live}}</ref> A home match against [[Villarreal CF|Villarreal]] on 25 September ended in a 0–0 draw, which was Madrid's first official game of the season without scoring a goal.<ref>{{Cite web|title=Real Madrid 0–0 Villarreal: Carlo Ancelotti's side left frustrated at Bernabeu but remain top of La Liga|url=https://www.eurosport.com/football/liga/2021-2022/liga-live-real-madrid-v-villarreal_sto8555603/story.shtml|access-date=25 September 2021|publisher=eurosport.com|archive-date=15 April 2024|archive-url=https://web.archive.org/web/20240415122908/https://www.eurosport.com/geoblocking.shtml|url-status=live}}</ref> On 28 September, Madrid suffered a 1–2 upset home loss to [[FC Sheriff Tiraspol|Sheriff Tiraspol]] in the Champions League, where Benzema converted a penalty to score the momentary equalizer.<ref>{{cite web|last=Joseph|first=Andrew|title=Moldovan club FC Sheriff Tiraspol beats Real Madrid in stunning UEFA Champions League upset|url=https://www.usatoday.com/story/sports/ftw/2021/09/28/real-madrid-upset-fc-sheriff-stunning-champions-league-result/118995906/|date=28 September 2021|access-date=28 September 2021|website=USA Today|archive-date=28 September 2021|archive-url=https://web.archive.org/web/20210928231215/https://www.usatoday.com/story/sports/ftw/2021/09/28/real-madrid-upset-fc-sheriff-stunning-champions-league-result/118995906/|url-status=live}}</ref>
+
+===October===
+The next game on 3 October ended in another loss, a 1–2 defeat to [[RCD Espanyol|Espanyol]] in which Benzema scored the lone goal for Madrid.<ref>{{cite web|title=Espanyol cap off sorry week for Real Madrid with win over Los Merengues|url=https://www.eurosport.com/football/liga/2021-2022/espanyol-v-real-madrid-live-la-liga-updates_sto8565734/story.shtml|date=3 October 2021|access-date=3 October 2021|website=eurosport.com|archive-date=15 April 2024|archive-url=https://web.archive.org/web/20240415123026/https://www.eurosport.com/geoblocking.shtml|url-status=live}}</ref> On 19 October, Madrid defeated [[FC Shakhtar Donetsk|Shakhtar Donetsk]] 5–0 away from home on Matchday 3 of the Champions League. Vinícius scored a brace and the other goals came from Benzema and Rodrygo, alongside an own goal.<ref>{{cite web|title=0–5: Madrid run riot in Kiev|url=https://www.realmadrid.com/en/news/2021/10/19/0-5-madrid-run-riot-in-kiev|date=19 October 2021|access-date=19 October 2021|publisher=Real Madrid CF|archive-date=23 October 2021|archive-url=https://web.archive.org/web/20211023030543/https://www.realmadrid.com/en/news/2021/10/19/0-5-madrid-run-riot-in-kiev|url-status=live}}</ref> Five days later, the first [[El Clásico]] of the season against [[FC Barcelona|Barcelona]] at [[Camp Nou]] was won 2–1 after goals from David Alaba, a debut one for the Austrian, and [[Lucas Vázquez]].<ref>{{cite web|title=Madrid wins 2–1 at Barcelona in first post-Messi 'clásico'|url=https://apnews.com/article/soccer-sports-barcelona-la-liga-europe-68dae61ff2e1f1f4691dd4c8f8d327b9|date=24 October 2021|access-date=24 October 2021|website=apnews.com|archive-date=24 October 2021|archive-url=https://web.archive.org/web/20211024195028/https://apnews.com/article/soccer-sports-barcelona-la-liga-europe-68dae61ff2e1f1f4691dd4c8f8d327b9|url-status=live}}</ref> The home game against [[CA Osasuna|Osasuna]] on 27 October ended in a goalless draw.<ref>{{cite web|title=All square against Osasuna|url=https://www.realmadrid.com/en/news/2021/10/27/0-0-all-square-against-osasuna|date=27 October 2021|access-date=27 October 2021|publisher=Real Madrid CF|archive-date=27 November 2021|archive-url=https://web.archive.org/web/20211127030033/https://www.realmadrid.com/en/news/2021/10/27/0-0-all-square-against-osasuna|url-status=live}}</ref> [[Elche CF|Elche]] were defeated three days later on the road with a score of 2–1 thanks to a Vinícius brace.<ref>{{cite web|title=Vinicius Jr. leads Real Madrid again with brace in win over Elche|url=https://www.espn.com/soccer/real-madrid-espreal_madrid/story/4508922/vinicius-jr-leads-real-madrid-again-with-brace-in-win-over-elche|date=30 October 2021|access-date=30 October 2021|publisher=ESPN|archive-date=4 November 2021|archive-url=https://web.archive.org/web/20211104090654/https://www.espn.com/soccer/real-madrid-espreal_madrid/story/4508922/vinicius-jr-leads-real-madrid-again-with-brace-in-win-over-elche|url-status=live}}</ref>
+
+===November===
+On 3 November, Madrid defeated Shakhtar 2–1 at home after a brace from Benzema. The first goal was Madrid's 1000th in their [[Real Madrid CF in international football|Champions League history]].<ref>{{cite web|title=Real Madrid becomes first team to score 1,000 Champions League goals|url=https://edition.cnn.com/2021/11/03/football/real-madrid-1000-champions-league-goals-spt-intl/index.html|date=3 November 2021|access-date=3 November 2021|publisher=CNN|archive-date=24 November 2021|archive-url=https://web.archive.org/web/20211124081642/https://edition.cnn.com/2021/11/03/football/real-madrid-1000-champions-league-goals-spt-intl/index.html|url-status=live}}</ref> Three days later, [[Rayo Vallecano]] were defeated 2–1 at home after goals from [[Toni Kroos]] and Benzema.<ref>{{cite web|title=La Liga 2021–22: Toni Kroos, Karim Benzema Score as Real Madrid Edge Rayo Vallecano|url=https://www.news18.com/news/football/la-liga-2021-22-toni-kroos-karim-benzema-score-as-real-madrid-edge-rayo-vallecano-4413668.html|date=6 November 2021|access-date=6 November 2021|website=news18.com|archive-date=7 November 2021|archive-url=https://web.archive.org/web/20211107151544/https://www.news18.com/news/football/la-liga-2021-22-toni-kroos-karim-benzema-score-as-real-madrid-edge-rayo-vallecano-4413668.html|url-status=live}}</ref> On 21 November, Madrid defeated [[Granada CF|Granada]] 4–1 away from home. The goals came from Asensio, Nacho, Vinícius and [[Ferland Mendy]].<ref>{{cite web|title=Granada 1–4 Real Madrid summary: score, goals, highlights, LaLiga 2021/22|url=https://en.as.com/en/2021/11/21/soccer/1637502774_787818.html|date=21 November 2021|access-date=21 November 2021|website=en.as.com|archive-date=21 November 2021|archive-url=https://web.archive.org/web/20211121184003/https://en.as.com/en/2021/11/21/soccer/1637502774_787818.html|url-status=live}}</ref> Three days later, Sheriff was defeated 3–0 on the road in the Champions League with Alaba, Kroos and Benzema scoring the goals. With that win, Madrid secured their place in the knockout stages for the 25th time in a row.<ref>{{cite web|title=Madrid reaches knockout stage in CL for 25th straight time|url=https://apnews.com/article/soccer-sports-la-liga-serie-a-europe-dea9525d264eb86964670fcab7390021|date=24 November 2021|access-date=24 November 2021|website=apnews.com|archive-date=25 November 2021|archive-url=https://web.archive.org/web/20211125025340/https://apnews.com/article/soccer-sports-la-liga-serie-a-europe-dea9525d264eb86964670fcab7390021|url-status=live}}</ref> On 28 November, [[Sevilla FC|Sevilla]] were defeated 2–1 at the Bernabéu with goals from Benzema and Vinícius.<ref>{{cite web|title=2–1: Stunning Vini Jr. goal sees league leaders come out on top|url=https://www.realmadrid.com/en/news/2021/11/28/2-1-stunning-vini-jr-goal-sees-league-leaders-come-out-on-top|date=28 November 2021|access-date=30 November 2021|publisher=Real Madrid CF|archive-date=4 January 2022|archive-url=https://web.archive.org/web/20220104065522/https://www.realmadrid.com/en/news/2021/11/28/2-1-stunning-vini-jr-goal-sees-league-leaders-come-out-on-top|url-status=live}}</ref>
+
+===December===
+On the first day of the new month, a Benzema goal secured Madrid a 1–0 home victory over [[Athletic Bilbao]].<ref>{{cite web|title=Real Madrid 1–0 Athletic Bilbao: Karim Benzema scores winner|url=https://www.bbc.com/sport/football/58833978|date=1 December 2021|access-date=1 December 2021|publisher=BBC|archive-date=2 December 2021|archive-url=https://web.archive.org/web/20211202201238/https://www.bbc.com/sport/football/58833978|url-status=live}}</ref> Three days later, another Basque team, [[Real Sociedad]], was beaten 2–0 at [[Anoeta Stadium|Anoeta]] with goals from Vinícius and [[Luka Jović]].<ref>{{cite web|title=Real Sociedad 0–2 Real Madrid: Visitors open eight-point lead|url=https://www.bbc.com/sport/football/59534917|date=4 December 2021|access-date=4 December 2021|publisher=BBC|archive-date=5 December 2021|archive-url=https://web.archive.org/web/20211205155617/https://www.bbc.com/sport/football/59534917|url-status=live}}</ref> Goals from Kroos and Asensio on 7 December secured Madrid a first-place finish in their Champions League group with a 2–0 home win over Inter.<ref>{{cite web|title=Real Madrid impress to see off Inter and claim top spot|url=https://www.marca.com/en/football/real-madrid/r-madrid-vs-inter-milan/cronica/2021/12/07/61afdd2622601d8c3f8b45e5.html|date=7 December 2021|access-date=7 December 2021|website=Marca|location=Spain|archive-date=8 December 2021|archive-url=https://web.archive.org/web/20211208143542/https://www.marca.com/en/football/real-madrid/r-madrid-vs-inter-milan/cronica/2021/12/07/61afdd2622601d8c3f8b45e5.html|url-status=live}}</ref> On 12 December, Benzema and Asensio scored for a 2–0 [[Madrid Derby]] win against [[Atlético Madrid]] at the Bernabéu.<ref>{{cite web|title=Real Madrid 2–0 Atletico Madrid: Karim Benzema and Marco Asensio help table-topping Real to win over city rivals|url=https://www.eurosport.com/football/liga/2021-2022/liga-live-real-madrid-v-atletico-madrid_sto8666183/story.shtml|date=13 December 2021|access-date=13 December 2021|website=eurosport.com|archive-date=15 April 2024|archive-url=https://web.archive.org/web/20240415122946/https://www.eurosport.com/geoblocking.shtml|url-status=live}}</ref> The home game against [[Cádiz CF|Cádiz]] on 19 December ended in a goalless draw.<ref>{{cite web|title=Real Madrid 0–0 Cadiz: Liga leaders draw a blank as strugglers take surprise point at Bernabeu|url=https://www.eurosport.com/football/liga/2021-2022/real-madrid-v-cadiz-live-liga-updates_sto8675979/story.shtml|date=19 December 2021|access-date=19 December 2021|website=eurosport.com|archive-date=15 April 2024|archive-url=https://web.archive.org/web/20240415122909/https://www.eurosport.com/geoblocking.shtml|url-status=live}}</ref> Bilbao were defeated 2–1 away from home on the last matchday of 2021, with Benzema scoring a brace.<ref>{{cite web|title=Benzema brace hands Real Madrid 2–1 win against Athletic|url=https://www.reuters.com/lifestyle/sports/benzema-brace-hands-real-madrid-2-1-win-against-athletic-2021-12-22/|date=22 December 2021|access-date=22 December 2021|website=Reuters.com|archive-date=23 December 2021|archive-url=https://web.archive.org/web/20211223172502/https://www.reuters.com/lifestyle/sports/benzema-brace-hands-real-madrid-2-1-win-against-athletic-2021-12-22/|url-status=live}}</ref>
+
+===January===
+On the second day of the new year, Madrid lost 0–1 away to [[Getafe CF|Getafe]], suffering the first defeat since 3 October, a loss at Espanyol.<ref>{{cite web|title=Getafe 1–0 Real Madrid: Unal strike stuns Ancelotti's LaLiga leaders|url=https://www.goalzz.com/?n=1099859|date=2 January 2022|access-date=2 January 2022|website=goalzz.com|archive-date=2 January 2022|archive-url=https://web.archive.org/web/20220102153043/https://www.goalzz.com/?n=1099859|url-status=live}}</ref> The round of 32 of the [[2021–22 Copa del Rey|Copa del Rey]] was a rematch against [[CD Alcoyano|Alcoyano]] on 5 January, who eliminated Madrid at the same stage [[2020–21 Copa del Rey#Round of 32|last year]]. This time Madrid won 3–1, with goals from Militão, Asensio and an own goal.<ref>{{cite web|title=Alcoyano 1–3 Real Madrid|url=https://www.bbc.com/sport/football/59888178|date=5 January 2022|access-date=5 January 2022|publisher=BBC|archive-date=6 January 2022|archive-url=https://web.archive.org/web/20220106122013/https://www.bbc.com/sport/football/59888178|url-status=live}}</ref> Three days later, Madrid defeated Valencia 4–1 at home after braces from Vinícius and Benzema, with the latter scoring his 300th goal for the club.<ref>{{cite web|title=Real Madrid 4–1 Valencia: Benzema hits 300th Los Blancos goal in comfortable win|url=https://www.fotmob.com/news/189blixjznukc1iakt1dbq930a/Real-Madrid-4-1-Valencia:-Benzema-hits-300th-Los-Blancos-goal-in-comfortable-win|date=8 January 2022|access-date=8 January 2022|website=fotmob.com|archive-date=9 January 2022|archive-url=https://web.archive.org/web/20220109001203/https://www.fotmob.com/news/189blixjznukc1iakt1dbq930a/Real-Madrid-4-1-Valencia:-Benzema-hits-300th-Los-Blancos-goal-in-comfortable-win|url-status=live}}</ref> On 12 January, the first semi-final of the [[2022 Supercopa de España]] was won 3–2 after extra time against Barcelona. Vinícius, Benzema and [[Federico Valverde]] scored the goals.<ref>{{cite web|title=Real Madrid beat Barcelona in Supercopa Clásico five-goal thriller|url=https://onefootball.com/en/news/real-madrid-beat-barcelona-in-supercopa-clasico-five-goal-thriller-34379145|date=12 January 2022|access-date=12 January 2022|website=onefootball.com|archive-date=11 April 2022|archive-url=https://web.archive.org/web/20220411155358/https://onefootball.com/en/news/real-madrid-beat-barcelona-in-supercopa-clasico-five-goal-thriller-34379145|url-status=live}}</ref> The following day, Madrid terminated the loan agreement with [[AS Roma|Roma]] for [[Borja Mayoral]] and sent him to Getafe until 30 June 2022.<ref name=Mayoral>{{Cite web|title=Mayoral and Villar complete Getafe loan moves|url=https://www.asroma.com/en/news/2022/1/mayoral-and-villar-complete-getafe-loan-moves|access-date=12 January 2022|website=AS Roma|archive-date=31 May 2022|archive-url=https://web.archive.org/web/20220531034923/https://www.asroma.com/en/news/2022/1/mayoral-and-villar-complete-getafe-loan-moves|url-status=live}}</ref> On 16 January, Madrid won their first trophy of the season, the Supercopa de España, defeating Athletic Bilbao 2–0 in the [[2022 Supercopa de España final|final]] with goals from [[Luka Modrić]] and Benzema.<ref>{{cite web|title=Athletic Bilbao 0–2 Real Madrid: Luka Modric scores in Super Cup final win|url=https://www.bbc.com/sport/football/60018825|date=16 January 2022|access-date=16 January 2022|publisher=BBC|archive-date=3 January 2023|archive-url=https://web.archive.org/web/20230103190038/https://www.bbc.com/sport/football/60018825|url-status=live}}</ref> Four days later, Madrid faced Elche away from home in the Copa del Rey round of 16 and won 2–1 with a late extra time comeback after goals from Isco and [[Eden Hazard]].<ref>{{cite web|title=Elche 1–2 Real Madrid: Eden Hazard scores first goal of the season as Madrid come from behind to avoid cup shock|url=https://www.eurosport.com/football/copa-del-rey/2021-2022/elche-v-real-madrid-follow-live_sto8716811/story.shtml|date=20 January 2022|access-date=20 January 2022|publisher=Eurosport|archive-date=15 April 2024|archive-url=https://web.archive.org/web/20240415123018/https://www.eurosport.com/geoblocking.shtml|url-status=live}}</ref> On 23 January, Madrid played another match against Elche, this time in the league at the Bernabéu, and made another last minute comeback. The final score was 2–2, with Modrić and Militão scoring the goals.<ref>{{cite web|title=Real Madrid 2–2 Elche: Eder Militao rescues dramatic point as visitors spice up title race|url=https://www.eurosport.com/football/liga/2021-2022/liga-live_sto8728098/story.shtml|date=23 January 2022|access-date=23 January 2022|publisher=Eurosport|archive-date=15 April 2024|archive-url=https://web.archive.org/web/20240415123019/https://www.eurosport.com/geoblocking.shtml|url-status=live}}</ref>
+
+===February===
+On 3 February, Real Madrid faced Athletic Bilbao at the [[San Mamés Stadium (2013)|San Mamés]] in the Copa del Rey quarter-finals in the first game of the month, making it the fourth meeting between the two teams in two months. Madrid lost 0–1 and were eliminated, meaning they had progressed past the quarter-final stage only once after their victory in [[2014 Copa del Rey final|2014]].<ref>{{cite web|title=Athletic Bilbao 1–0 Real Madrid|url=https://www.bbc.com/sport/football/60252001|date=3 February 2022|access-date=5 February 2022|publisher=BBC|archive-date=9 April 2022|archive-url=https://web.archive.org/web/20220409193004/https://www.bbc.com/sport/football/60252001|url-status=live}}</ref> Three days later, Madrid hosted Granada in a league match and won 1–0, with the only goal coming from Asensio.<ref>{{cite web|title=Real Madrid 1–0 Granada: Marco Asensio strikes late as table-toppers break brave Granada resistance|url=https://www.eurosport.com/football/liga/2021-2022/real-madrid-v-granada-follow-live_sto8753444/story.shtml|date=6 February 2022|access-date=6 February 2022|publisher=Eurosport}}</ref> On 12 February, Madrid played against Villarreal away from home, with the game ending in a goalless stalemate.<ref>{{cite web|title=Villarreal 0–0 Real Madrid: Liga leaders fail to find the breakthrough in la Ceramica stalemate|url=https://www.eurosport.com/football/liga/2021-2022/villarreal-v-real-madrid-follow-live_sto8781486/story.shtml|date=12 February 2022|access-date=12 February 2022|publisher=Eurosport}}</ref> On 15 February, Real met [[Paris Saint-Germain F.C.|Paris Saint-Germain]] at the [[Parc des Princes]] in the first leg of the Champions League round of 16. A lone Mbappe goal at the death gave Paris the advantage.<ref>{{cite web|title=Paris Saint Germain 1–0 Real Madrid|url=https://www.bbc.com/sport/football/60380937|date=15 February 2022|access-date=20 February 2022|publisher=BBC|archive-date=9 April 2022|archive-url=https://web.archive.org/web/20220409091214/https://www.bbc.com/sport/football/60380937|url-status=live}}</ref> Four days later, Madrid defeated Alaves 3–0 at home, with Asensio, Vinícius and Benzema scoring the goals.<ref>{{cite web|title=Real Madrid 3–0 Alaves: Marco Asensio scores stunner, Vinicius Jr and Karim Benzema also net as Real Madrid see off Alaves|url=https://www.eurosport.com/football/liga/2021-2022/liga-live_sto8804872/story.shtml|date=19 February 2022|access-date=20 February 2022|publisher=Eurosport}}</ref> On 26 February, Madrid faced Rayo Vallecano on the road and clinched the three points with a late goal from Benzema.<ref>{{cite web|title=Rayo Vallecano 0–1 Real Madrid|url=https://www.bbc.com/sport/football/60540143|date=26 February 2022|access-date=26 February 2022|publisher=BBC|archive-date=8 April 2022|archive-url=https://web.archive.org/web/20220408174135/https://www.bbc.com/sport/football/60540143|url-status=live}}</ref>
+
+===March=== 
+On 5 March, goals from Camavinga, Modrić, Benzema and Asensio helped Madrid to take a smashing 4–1 victory over Real Sociedad in the first game of the month, a day before the club's 120th birthday.<ref>{{cite web|title=Real Madrid 4–1 Real Sociedad|url=https://www.bbc.com/sport/football/60635209|date=5 March 2022|access-date=5 March 2022|publisher=BBC|archive-date=8 April 2022|archive-url=https://web.archive.org/web/20220408125044/https://www.bbc.com/sport/football/60635209|url-status=live}}</ref> Four days later, Madrid faced Paris Saint-Germain at the Bernabéu in the second leg of the Champions League round of 16. A hat-trick from Benzema powered Real's late comeback, with the team winning 3–1 (3–2 on aggregate) and progressing to the quarter-finals.<ref>{{cite web|title=Real Madrid 3–1 Paris Saint-Germain|url=https://www.bbc.com/sport/football/60666638|date=9 March 2022|access-date=9 March 2022|publisher=BBC|archive-date=8 April 2022|archive-url=https://web.archive.org/web/20220408100934/https://www.bbc.com/sport/football/60666638|url-status=live}}</ref> On 14 March, Madrid defeated Mallorca away from home, with Benzema scoring twice and Vinícius also on the scoresheet.<ref>{{cite web|title=Mallorca 0–3 Real Madrid: Karim Benzema double and Vinicius Junior goal send Real Madrid 10 points clear of Sevilla at top of La Liga|url=https://www.eurosport.com/football/liga/2021-2022/mallorca-v-real-madrid-follow-live_sto8844458/story.shtml|date=14 March 2022|access-date=14 March 2022|publisher=Eurosport}}</ref> On 20 March, Madrid hosted the third El Clásico of the season and lost 0–4. This was Real's first Clásico loss since 0–1 in [[2018–19 Real Madrid CF season#Matches|March 2019]] and their biggest since 1–5 in [[2018–19 Real Madrid CF season#Matches|October 2018]].<ref>{{cite web|title=Real Madrid 0–4 Barcelona|url=https://www.bbc.com/sport/football/60816848|date=20 March 2022|access-date=21 March 2022|publisher=BBC|archive-date=20 April 2022|archive-url=https://web.archive.org/web/20220420202713/https://www.bbc.com/sport/football/60816848|url-status=live}}</ref>
+
+===April===
+On 2 April, after the [[FIFA International Match Calendar|international break]], Madrid beat Celta Vigo 2–1 away from home, with Benzema scoring two goals from the penalty spot.<ref>{{cite web|title=Celta Vigo 1–2 Real Madrid|url=https://www.bbc.com/sport/football/60968505|date=2 April 2022|access-date=2 April 2022|publisher=BBC|archive-date=6 April 2022|archive-url=https://web.archive.org/web/20220406134619/https://www.bbc.com/sport/football/60968505|url-status=live}}</ref> Four days later, Madrid met [[Chelsea F.C.|Chelsea]] away from home in the Champions League quarter-finals first leg, rematching the last season's semi-finals. Madrid won 3–1 thanks to the second Benzema Champions League knockout hat-trick in a row, making him the first player to achieve that feat since [[Cristiano Ronaldo]] in the [[2016–17 UEFA Champions League knockout phase#Real Madrid v Atlético Madrid|2016–17 edition]].<ref>{{cite web|title=Chelsea 1–3 Real Madrid|url=https://www.bbc.com/sport/football/61002171|date=6 April 2022|access-date=6 April 2022|publisher=BBC|archive-date=22 April 2022|archive-url=https://web.archive.org/web/20220422025629/https://www.bbc.com/sport/football/61002171|url-status=live}}</ref> On 9 April, goals from [[Casemiro]] and Vázquez gave Madrid a 2–0 home win over Getafe.<ref>{{cite web|title=Real Madrid 2–0 Getafe|url=https://www.bbc.com/sport/football/61055051|date=9 April 2022|access-date=9 April 2022|publisher=BBC|archive-date=18 April 2022|archive-url=https://web.archive.org/web/20220418070958/https://www.bbc.com/sport/football/61055051|url-status=live}}</ref> Three days later, Madrid faced Chelsea at home in the second leg of the Champions League quarter-finals. Real suffered a 2–3 loss after extra time, but managed to win 5–4 on aggregate to reach the semi-finals with a late Rodrygo goal and an extra time header from Benzema.<ref>{{cite web|title=Real Madrid 2–3 Chelsea|url=https://www.bbc.com/sport/live/football/57740782|date=12 April 2022|access-date=12 April 2022|publisher=BBC|archive-date=21 April 2022|archive-url=https://web.archive.org/web/20220421130826/https://www.bbc.com/sport/live/football/57740782|url-status=live}}</ref> On 17 April, goals from Rodrygo and Nacho and a late winner from Benzema helped Madrid produce a comeback and beat Sevilla 3–2 away from home to secure their third consecutive win at the [[Ramón Sánchez Pizjuán Stadium|Ramon Sánchez Pizjuan]], which has not happened in over 30 years, and move closer to the title.<ref>{{cite web|title=Sevilla 2–3 Real Madrid|url=https://www.bbc.com/sport/football/61136870|date=17 April 2022|access-date=17 April 2022|publisher=BBC|archive-date=17 April 2022|archive-url=https://web.archive.org/web/20220417220417/https://www.bbc.com/sport/football/61136870|url-status=live}}</ref> Three days later, Madrid got a 3–1 away win over Osasuna after goals from Alaba, Asensio and Vázquez.<ref>{{cite web|title=Osasuna 1–3 Real Madrid|url=https://www.bbc.com/sport/football/61170354|date=20 April 2022|access-date=20 April 2022|publisher=BBC|archive-date=21 April 2022|archive-url=https://web.archive.org/web/20220421212119/https://www.bbc.com/sport/football/61170354|url-status=live}}</ref> On 26 April, Madrid played the first leg of the Champions League semi-finals against [[Manchester City F.C.|Manchester City]] on the away soil. The match ended in a 3–4 loss, with a Benzema brace and a goal from Vinícius.<ref>{{cite web|title=Manchester City 4–3 Real Madrid|url=https://www.bbc.com/sport/football/61221249|date=26 April 2022|access-date=26 April 2022|publisher=BBC|archive-date=26 April 2022|archive-url=https://web.archive.org/web/20220426013008/https://www.bbc.com/sport/football/61221249|url-status=live}}</ref> On 30 April, Real Madrid sealed their 35th La Liga title with a 4–0 win over Espanyol at the Bernabéu after a brace from Rodrygo and goals from Asensio and Benzema. With four games to spare, this was Real's earliest league title since [[1989–90 Real Madrid CF season|1990]].<ref name="Real Madrid 4–0 Espanyol"/><ref>{{cite web|title=Real Madrid On Course For Earliest La Liga Title Win In 32 Years After Barca's 3rd Straight Loss|url=https://www.si.com/fannation/soccer/futbol/news/real-madrid-on-course-for-earliest-la-liga-title-win-in-32-years|date=25 April 2022|access-date=30 April 2022|publisher=Sports Illustrated|archive-date=30 April 2022|archive-url=https://web.archive.org/web/20220430173316/https://www.si.com/fannation/soccer/futbol/news/real-madrid-on-course-for-earliest-la-liga-title-win-in-32-years|url-status=live}}</ref>
+
+===May===
+In the first match of the month, on 4 May, Madrid faced Manchester City in the second leg of the Champions League semi-finals. Real produced another late comeback, with a brace from Rodrygo moving the game to extra time where a Benzema penalty sealed the victory, qualifying Madrid for the [[2022 UEFA Champions League final|final]], 17th overall for them and first since [[2017–18 Real Madrid CF season|2018]], and defeating their opponents 3–1 in the match and 6–5 on aggregate.<ref>{{cite web|title=Real Madrid 3–1 Manchester City|url=https://www.bbc.com/sport/football/61312216|date=4 May 2022|access-date=4 May 2022|publisher=BBC|archive-date=8 May 2022|archive-url=https://web.archive.org/web/20220508145551/https://www.bbc.com/sport/football/61312216|url-status=live}}</ref> Real Madrid became the first team to lose three knockout games en route to the Champions League final since the current format was introduced in the [[2003–04 UEFA Champions League|2003–04 season]].<ref>{{cite web|title=15 incredible stats as Real Madrid reach *17th* Champions League final|url=https://www.planetfootball.com/quick-reads/real-madrid-champions-league-comeback-manchester-city-unbelievable-stats-benzema/|date=4 May 2022|access-date=5 May 2022|publisher=planetfootball|archive-date=4 May 2022|archive-url=https://web.archive.org/web/20220504230116/https://www.planetfootball.com/quick-reads/real-madrid-champions-league-comeback-manchester-city-unbelievable-stats-benzema/|url-status=live}}</ref> This was also the first time in the club's history that Real qualified for the Champions League final after losing the first leg of the semi-finals, having failed to do so on eight previous occasions.<ref>{{cite web|title=Champions League: Real Madrid Overthrow Manchester City In Extra Time And Qualify For The Final|url=https://globeecho.com/sports/champions-league-real-madrid-overthrow-manchester-city-in-extra-time-and-qualify-for-the-final/|date=4 May 2022|access-date=5 May 2022|publisher=GlobeEcho|archive-date=24 October 2022|archive-url=https://web.archive.org/web/20221024141247/https://globeecho.com/sports/champions-league-real-madrid-overthrow-manchester-city-in-extra-time-and-qualify-for-the-final/|url-status=live}}</ref> Four days later, Madrid lost 0–1 versus Atlético away from home. This was Real's first ever derby loss at the [[Metropolitano Stadium|Wanda Metropolitano]] and also the first since the [[2018 UEFA Super Cup]].<ref>{{cite web|title=Atlético Madrid 1–0 Real Madrid|url=https://www.bbc.com/sport/football/61374121|date=8 May 2022|access-date=8 May 2022|publisher=BBC|archive-date=2 June 2022|archive-url=https://web.archive.org/web/20220602223818/https://www.bbc.com/sport/football/61374121|url-status=live}}</ref> On 12 May, Madrid demolished Levante in a 6–0 home win, with a hat-trick from Vinícius, the first in his career, and goals from Mendy, Rodrygo and Benzema, who equalled his Real Madrid goalscoring record with [[Raúl (footballer)|Raúl]]'s.<ref>{{cite web|title=Real Madrid 6–0 Levante: New Liga champions with statement win as Vinicius hits treble against bottom of the league side|url=https://www.eurosport.com/football/liga/2021-2022/real-madrid-v-levante-live_sto8917863/story.shtml|date=12 May 2022|access-date=12 May 2022|publisher=Eurosport}}</ref> Three days later, Madrid drew Cádiz 1–1 away from home with a goal from [[Mariano Díaz|Mariano]].<ref>{{cite web|title=Cádiz 1–1 Real Madrid|url=https://www.bbc.com/sport/football/61459718|date=15 May 2022|access-date=15 May 2022|publisher=BBC|archive-date=23 May 2022|archive-url=https://web.archive.org/web/20220523192627/https://www.bbc.com/sport/football/61459718|url-status=live}}</ref> On 20 May, in the season's last league game, Madrid faced Real Betis at the Bernabéu, with the match ending in a 0–0 draw.<ref>{{cite web|title=Real Madrid 0–0 Real Betis|url=https://www.bbc.com/sport/football/61531135|date=20 May 2022|access-date=20 May 2022|publisher=BBC|archive-date=20 May 2022|archive-url=https://web.archive.org/web/20220520212103/https://www.bbc.com/sport/football/61531135|url-status=live}}</ref> For the first time since the [[1983–84 Real Madrid CF season|1983–84 season]], no one in the team was [[Fouls and misconduct (association football)#Red card (dismissal)|sent off]] during their La Liga campaign.<ref>{{cite web |last1=Barlow |first1=Ruairidh |title=Real Madrid go entire season without a red card |url=https://www.football-espana.net/2022/05/21/real-madrid-go-entire-season-without-a-red-card |website=Football España |access-date=22 May 2022 |date=21 May 2022 |archive-date=21 May 2022 |archive-url=https://web.archive.org/web/20220521103619/https://www.football-espana.net/2022/05/21/real-madrid-go-entire-season-without-a-red-card |url-status=live }}</ref>
+
+[[File:Ofrenda de la Liga y la Champions-58-L.Millán (52109788725).jpg|thumb|right|The [[European Champion Clubs' Cup]] during the trophy parade]]
+On 28 May, Madrid faced [[Liverpool F.C.|Liverpool]] in the [[2022 UEFA Champions League final|Champions League final]] in a rematch of their [[2018 UEFA Champions League final|2018 encounter]]. A lone Vinícius goal sealed the 14th European Cup for ''Los Blancos'', their fifth in nine years, and Ancelotti's second in charge, making him the first manager to win four Champions League trophies (with [[AC Milan|Milan]] in [[2003 UEFA Champions League final|2003]] and [[2007 UEFA Champions League final|2007]], and with Madrid in [[2014 UEFA Champions League final|2014]] and 2022).<ref name="Javier García"/><ref name="Associated Press"/> Despite Real Madrid's status as the most decorated team in European Cup / Champions League history, they were considered underdogs in this season's campaign, rated no higher than seventh prior to the start of the [[2021–22 UEFA Champions League group stage|group stages]] in September 2021 (after, in order, Paris Saint-Germain, Manchester City, [[FC Bayern Munich|Bayern Munich]], Chelsea, Liverpool, and [[Manchester United F.C.|Manchester United]]).<ref>{{cite web|url=https://www.sportingnews.com/us/soccer/news/uefa-champions-league-odds-betting-favorites-futures-picks/vhhme9pw6ca51omrp2a41ztkc|author=Simon Borg|title=UEFA Champions League odds, betting favorites & futures picks for 2021-22 tournament|date=14 September 2021|publisher=[[Sporting News|The Sporting News]]|access-date=1 June 2022|archive-date=1 June 2022|archive-url=https://web.archive.org/web/20220601102134/https://www.sportingnews.com/us/soccer/news/uefa-champions-league-odds-betting-favorites-futures-picks/vhhme9pw6ca51omrp2a41ztkc|url-status=live}}</ref> Prior to the start of the [[2021–22 UEFA Champions League knockout phase|knockout phase]] in February 2022, they were again seventh, behind Manchester City, Bayern Munich, Liverpool, Chelsea, Paris Saint-Germain, and [[AFC Ajax|Ajax]], in addition to having been considered underdogs to all of the teams they faced thereafter.<ref>{{cite web|url=https://www.sportingnews.com/us/soccer/news/uefa-champions-league-betting-odds-futures-expert-picks-2022/n3gu3pgmxpquqr1i0yjxukyo|author=Kyle Bonn|title=Who will win the 2022 UEFA Champions League? Betting odds, futures and expert picks|date=14 February 2022|publisher=[[Sporting News|The Sporting News]]|access-date=1 June 2022|archive-date=1 June 2022|archive-url=https://web.archive.org/web/20220601103953/https://www.sportingnews.com/us/soccer/news/uefa-champions-league-betting-odds-futures-expert-picks-2022/n3gu3pgmxpquqr1i0yjxukyo|url-status=live}}</ref> As such, Madrid's run can be considered among the most improbable ones in modern Champions League history.<ref>{{cite web|url=https://www.espn.co.uk/sports/insider/soccer/insider/story/_/id/33988777/real-madrid-champions-league-mystique-science-explain-their-magical-run|author=Ryan O'Hanlon|title=Real Madrid's Champions League mystique: Can science explain their magical run?|date=27 May 2022|publisher=[[BT Sport ESPN|ESPN UK]]|access-date=1 June 2022|archive-date=1 June 2022|archive-url=https://web.archive.org/web/20220601103953/https://www.espn.co.uk/sports/insider/soccer/insider/story/_/id/33988777/real-madrid-champions-league-mystique-science-explain-their-magical-run|url-status=live}}</ref>
+
+==Players==
+{{fb si header |age=y}}
+{{fb si player |p=[[Thibaut Courtois]]                        |eu=y |nb=BEL |n=1  |pos=GK |age={{Age|1992|5|11|2022|6|30}} |s={{sort|2018.8|2018}} |a=181|g=0  |e=2026 |f={{ntsh|35}}€35M}}
+{{fb si player |p=[[Dani Carvajal]]                           |eu=y |nb=ESP |n=2  |pos=DF |age={{Age|1992|1|11|2022|6|30}} |s={{sort|2013.4|2013}} |a=330|g=7  |e=2025 |f={{ntsh|6.5}}€6.5M |notes=Originally from [[La Fábrica (Real Madrid)|youth system]]}}
+{{fb si player |p=[[Éder Militão]]                            |eu=n |nb=BRA |n=3  |pos=DF |age={{Age|1998|1|18|2022|6|30}} |s={{sort|2019.7|2019}} |a=91 |g=4  |e=2025 |f={{ntsh|50}}€50M}}
+{{fb si player |p=[[David Alaba]]                             |eu=y |nb=AUT |n=4  |pos=DF |age={{Age|1992|6|24|2022|6|30}} |s={{sort|2021.7|2021}} |a=46 |g=3  |e=2026 |f=Free}}
+{{fb si player |p=[[Jesús Vallejo]]                           |eu=y |nb=ESP |n=5  |pos=DF |age={{Age|1997|1|5|2022|6|30}}  |s={{sort|2015.7|2015}} |a=27 |g=1  |e=2025 |f={{ntsh|6}}€6M}}
+{{fb si player |p=[[Nacho (footballer, born 1990)|Nacho]]     |eu=y |nb=ESP |n=6  |pos=DF |age={{Age|1990|1|18|2022|6|30}} |s={{sort|2010.4|2010}} |a=275|g=15 |e=2023 |f=YS |vc=2nd VC}}
+{{fb si player |p=[[Eden Hazard]]                             |eu=y |nb=BEL |n=7  |pos=FW |age={{Age|1991|1|7|2022|6|30}}  |s={{sort|2019.6|2019}} |a=66 |g=6  |e=2024 |f={{ntsh|135}}€135M}}<ref>{{Cite web |url=https://www.si.com/soccer/chelsea/news/revealed-how-much-eden-hazards-real-madrid-champions-league-triumph-earned-chelsea |title=Revealed: How Much Eden Hazard's Real Madrid Champions League Triumph Earned Chelsea |access-date=2022-08-20 |archive-date=2022-08-20 |archive-url=https://web.archive.org/web/20220820165221/https://www.si.com/soccer/chelsea/news/revealed-how-much-eden-hazards-real-madrid-champions-league-triumph-earned-chelsea |url-status=live }}</ref>
+{{fb si player |p=[[Toni Kroos]]                              |eu=y |nb=GER |n=8  |pos=MF |age={{Age|1990|1|4|2022|6|30}}  |s={{sort|2014.7|2014}} |a=365|g=25 |e=2023 |f={{ntsh|25}}€25M}}
+{{fb si player |p=[[Karim Benzema]]                           |eu=y |nb=FRA |n=9  |pos=FW |age={{Age|1987|12|19|2022|6|30}}|s={{sort|2009.5|2009}} |a=605|g=323|e=2023 |f={{ntsh|35}}€35M |vc=VC}}
+{{fb si player |p=[[Luka Modrić]]                             |eu=y |nb=CRO |n=10 |pos=MF |age={{Age|1985|9|9|2022|6|30}}  |s={{sort|2012.2|2012}} |a=435|g=31 |e=2022 |f={{ntsh|35}}€30M |vc=3rd VC}}
+{{fb si player |p=[[Marco Asensio]]                           |eu=y |nb=ESP |n=11 |pos=FW |age={{Age|1996|1|21|2022|6|30}} |s={{sort|2014.7|2014}} |a=235|g=48 |e=2023 |f={{ntsh|3.5}}€4M}}
+{{fb si player |p=[[Marcelo (footballer, born 1988)|Marcelo]] |eu=y |nb=BRA |n=12 |pos=DF |age={{Age|1988|5|12|2022|6|30}} |s={{sort|2007.2|2007}} |a=546|g=38 |e=2022 |f={{ntsh|6.5}}€6.5M |tw=w|cap=y|notes=Second nationality: Spain}}
+{{fb si player |p=[[Andriy Lunin]]                            |eu=y |nb=UKR |n=13 |pos=GK |age={{Age|1999|2|11|2022|6|30}} |s={{sort|2018.6|2018}} |a=5  |g=0  |e=2024 |f={{ntsh|8.5}}€8.5M |notes=Not strictly from a [[European Union|EU]] country}}
+{{fb si player |p=[[Casemiro]]                                |eu=y |nb=BRA |n=14 |pos=MF |age={{Age|1992|2|23|2022|6|30}} |s={{sort|2013.7|2013}} |a=334|g=31 |e=2025 |f={{ntsh|6}}€6M |notes=Second nationality: Spain}}
+{{fb si player |p=[[Federico Valverde]]                       |eu=y |nb=URU |n=15 |pos=MF |age={{Age|1998|7|22|2022|6|30}} |s={{sort|2016.7|2016}} |a=147|g=6  |e=2027 |f={{ntsh|5}}€5M |notes=Second nationality: Spain}}
+{{fb si player |p=[[Luka Jović]]                              |eu=y |nb=SRB |n=16 |pos=FW |age={{Age|1997|12|23|2022|6|30}}|s={{sort|2019.6|2019}} |a=51 |g=3  |e=2025 |f={{ntsh|65}}€60M |notes=Not strictly from a EU country}}
+{{fb si player |p=[[Lucas Vázquez]]                           |eu=y |nb=ESP |n=17 |pos=FW |age={{Age|1991|7|1|2022|6|30}}  |s={{sort|2015.7|2015}} |a=281|g=28 |e=2024 |f={{ntsh|1}}€1M |notes=Originally from youth system}}
+{{fb si player |p=[[Gareth Bale]]                             |eu=y |nb=WAL |n=18 |pos=FW |age={{Age|1989|7|16|2022|6|30}} |s={{sort|2013.9|2013}} |a=258|g=106|e=2022 |f={{ntsh|100}}€100M}}
+{{fb si player |p=[[Dani Ceballos]]                           |eu=y |nb=ESP |n=19 |pos=MF |age={{Age|1996|8|7|2022|6|30}}  |s={{sort|2017.7|2017}} |a=74 |g=5  |e=2023 |f={{ntsh|18}}€18M}}
+{{fb si player |p=[[Vinícius Júnior]]                         |eu=n |nb=BRA |n=20 |pos=FW |age={{Age|2000|7|12|2022|6|30}} |s={{sort|2018.1|2018}} |a=170|g=37 |e=2025 |f={{ntsh|45}}€45M<!--|notes=Second nationality: Spain-->}}
+{{fb si player |p=[[Rodrygo]]                                 |eu=n |nb=BRA |n=21 |pos=FW |age={{Age|2001|1|9|2022|6|30}}  |s={{sort|2019.7|2019}} |a=108|g=18 |e=2025 |f={{ntsh|45}}€45M}}
+{{fb si player |p=[[Isco]]                                    |eu=y |nb=ESP |n=22 |pos=MF |age={{Age|1992|4|21|2022|6|30}} |s={{sort|2013.5|2013}} |a=353|g=54 |e=2022 |f={{ntsh|30}}€25M}}
+{{fb si player |p=[[Ferland Mendy]]                           |eu=y |nb=FRA |n=23 |pos=DF |age={{Age|1995|6|8|2022|6|30}}  |s={{sort|2019.7|2019}} |a=105|g=5  |e=2025 |f={{ntsh|48}}€48M}}
+{{fb si player |p=[[Mariano Díaz|Mariano]]                    |eu=y |nb=DOM |n=24 |pos=FW |age={{Age|1993|8|1|2022|6|30}}  |s={{sort|2018.8|2018}} |a=73 |g=12 |e=2023 |f={{ntsh|23}}€23M |notes=Originally from youth system}}
+{{fb si player |p=[[Eduardo Camavinga]]                       |eu=y |nb=FRA |n=25 |pos=MF |age={{Age|2002|11|10|2022|6|30}}|s={{sort|2021.8|2021}} |a=40 |g=2  |e=2027 |f={{ntsh|30}}€30M}}
+{{Fb si footer|u=|c=ESP |ss=2021–22 |o=squad number |s=<span class="plainlinks"> [http://www.realmadrid.com/en/football/squad realmadrid.com] </span>|date=August 2021}}
+
+==Transfers==
+===In===
+{| class="wikitable"
+|-
+!Date
+!Pos.
+!Name
+!From
+!Type
+!{{abbr|Ref.|Reference}}
+|-
+| rowspan=8|1 July 2021 || DF || {{flagicon|AUT}} [[David Alaba]] || {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]] || Free transfer || <ref>{{cite web|url=https://www.realmadrid.com/en/news/2021/05/28/official-announcement-alaba|title=Official Announcement: Alaba|publisher=Real Madrid CF|date=28 May 2021|access-date=28 May 2021|archive-date=28 May 2021|archive-url=https://web.archive.org/web/20210528164438/https://www.realmadrid.com/en/news/2021/05/28/official-announcement-alaba|url-status=live}}</ref>
+|-
+| DF || {{flagicon|ESP}} [[Jesús Vallejo]] || [[Granada CF|Granada]] || rowspan=7|End of loan || <ref>{{cite web|url=https://www.granadacf.es/noticia/comunicado-granada-cf-y-real-madrid-acuerdan-la-cesion-de-vallejo-por-una-temporada|title=Comunicado – Granada CF y Real Madrid acuerdan la cesión de Vallejo por una temporada|publisher=Granada CF|language=es|date=18 August 2020|access-date=18 August 2020|archive-date=18 August 2020|archive-url=https://web.archive.org/web/20200818165622/https://www.granadacf.es/noticia/comunicado-granada-cf-y-real-madrid-acuerdan-la-cesion-de-vallejo-por-una-temporada|url-status=live}}</ref>
+|-
+| MF || {{flagicon|ESP}} [[Dani Ceballos]] || {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]] || <ref>{{Cite web|url=https://www.arsenal.com/news/dani-back-ceballos-returns-loan|title=Dani is back! – Ceballos returns on loan|publisher=Arsenal F.C.|date=4 September 2020|access-date=24 May 2021|archive-date=13 September 2020|archive-url=https://web.archive.org/web/20200913043632/https://www.arsenal.com/news/dani-back-ceballos-returns-loan|url-status=live}}</ref>
+|-
+| MF || {{flagicon|ESP}} [[Brahim Díaz]] || {{fbaicon|ITA}} [[A.C. Milan|Milan]] || <ref>{{Cite web|url=https://www.acmilan.com/en/news/articles/media/2020-09-04/official-statement-brahim-diaz|title=Official statement: Brahim Díaz|website=acmilan.com|date=4 September 2020|access-date=2021-05-24|archive-date=2020-09-04|archive-url=https://web.archive.org/web/20200904172831/https://www.acmilan.com/en/news/articles/media/2020-09-04/official-statement-brahim-diaz|url-status=live}}</ref>
+|-
+| MF || {{flagicon|JPN}} [[Takefusa Kubo]] || [[Getafe CF|Getafe]] || <ref>{{cite news|title=COMUNICADO OFICIAL: Take Kubo|url=https://www.getafecf.com/Noticia/tabid/137/Article/7256/COMUNICADO-OFICIAL-Take-Kubo.aspx|access-date=8 January 2021|publisher=getafecf.com|archive-date=10 January 2021|archive-url=https://web.archive.org/web/20210110034638/https://www.getafecf.com/Noticia/tabid/137/Article/7256/COMUNICADO-OFICIAL-Take-Kubo.aspx|url-status=dead}}</ref>
+|-
+| MF || {{flagicon|NOR}} [[Martin Ødegaard]] || {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]] || <ref>{{cite web |url=https://www.arsenal.com/news/martin-odegaard-joins-arsenal-loan |title=Martin Odegaard joins Arsenal on loan |publisher=Arsenal F.C. |date=27 January 2021 |access-date=24 May 2021 |archive-date=27 January 2021 |archive-url=https://web.archive.org/web/20210127113504/https://www.arsenal.com/news/martin-odegaard-joins-arsenal-loan |url-status=live }}</ref>
+|-
+| FW || {{flagicon|WAL}} [[Gareth Bale]] || {{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]] || <ref>{{Cite web|url=https://www.tottenhamhotspur.com/news/2020/september/bale-returns-to-spurs/|title=Bale returns to Spurs|publisher=Tottenham Hotspur F.C.|date=19 September 2020|access-date=24 May 2021|archive-date=19 September 2020|archive-url=https://web.archive.org/web/20200919190825/https://www.tottenhamhotspur.com/news/2020/september/bale-returns-to-spurs/|url-status=live}}</ref>
+|-
+| FW || {{flagicon|SRB}} [[Luka Jović]] || {{fbaicon|GER}} [[Eintracht Frankfurt]] || <ref>{{cite news|title=Leihe bis Saisonende|url=https://profis.eintracht.de/news/leihe-bis-saisonende-130254|access-date=14 January 2021|publisher=profis.eintracht.de|archive-date=26 January 2021|archive-url=https://web.archive.org/web/20210126122930/https://profis.eintracht.de/news/leihe-bis-saisonende-130254/|url-status=live}}</ref>
+|-
+| 31 August 2021 || MF || {{flagicon|FRA}} [[Eduardo Camavinga]] || {{fbaicon|FRA}} [[Stade Rennais F.C.|Rennes]] || Transfer ||<ref>{{Cite web|title=Official Announcement: Camavinga|url=https://www.realmadrid.com/en/news/2021/08/31/official-announcement-camavinga|access-date=31 August 2021|publisher=Real Madrid CF|archive-date=31 August 2021|archive-url=https://web.archive.org/web/20210831164335/https://www.realmadrid.com/en/news/2021/08/31/official-announcement-camavinga|url-status=live}}</ref>
+|-
+| 13 January 2022 || FW || {{flagicon|ESP}} [[Borja Mayoral]] || {{fbaicon|ITA}} [[A.S. Roma|Roma]] || Loan termination ||<ref name=Mayoral />
+|}
+
+===Out===
+{| class="wikitable"
+|-
+!Date
+!Pos.
+!Name
+!To
+!Type
+!{{abbr|Ref.|Reference}}
+|-
+| 1 July 2021 || DF || {{flagicon|ESP}} [[Sergio Ramos]] || {{fbaicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]] || End of contract || <ref name="Official announcement"/><ref>{{cite web|date=8 July 2021|title=Sergio Ramos signs with Paris Saint-Germain|url=https://en.psg.fr/teams/first-team/content/sergio-ramos-signs-with-paris-saint-germain-until-2023|website=psg.fr|access-date=8 July 2021|archive-date=11 July 2021|archive-url=https://web.archive.org/web/20210711180231/https://en.psg.fr/teams/first-team/content/sergio-ramos-signs-with-paris-saint-germain-until-2023|url-status=live}}</ref>
+|-
+| 19 July 2021 || MF || {{flagicon|ESP}} [[Brahim Díaz]] || {{fbaicon|ITA}} [[A.C. Milan|Milan]] || rowspan=2|Loan || <ref>{{cite web|date=19 July 2021|title=Official statement: Brahim Díaz|url=https://www.acmilan.com/en/news/articles/media/2021-07-19/official-statement-brahim-diaz|website=acmilan.com|access-date=2021-07-19|archive-date=2021-07-23|archive-url=https://web.archive.org/web/20210723154353/https://www.acmilan.com/en/news/articles/media/2021-07-19/official-statement-brahim-diaz|url-status=live}}</ref>
+|-
+| 11 August 2021 || MF || {{flagicon|JPN}} [[Takefusa Kubo]] || [[RCD Mallorca|Mallorca]] || <ref>{{cite news|title=Take Kubo returns to RCD Mallorca|url=https://www.rcdmallorca.es/en/content/news/news/take-kubo-returns-to-rcd-mallorca|access-date=11 August 2021|publisher=rcdmallorca.es|archive-date=11 August 2021|archive-url=https://web.archive.org/web/20210811224423/https://www.rcdmallorca.es/en/content/news/news/take-kubo-returns-to-rcd-mallorca|url-status=live}}</ref>
+|-
+| 14 August 2021 || DF || {{flagicon|FRA}} [[Raphaël Varane]] || {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]] || rowspan=2|Transfer || <ref>{{Cite web|title=United announce Varane signing|url=https://www.manutd.com/en/news/detail/raphael-varane-completes-transfer-from-real-madrid-to-manchester-united|access-date=14 August 2021|publisher=Manchester United F.C.|archive-date=26 August 2021|archive-url=https://web.archive.org/web/20210826225809/https://www.manutd.com/en/news/detail/raphael-varane-completes-transfer-from-real-madrid-to-manchester-united|url-status=live}}</ref>
+|-
+| 20 August 2021 || MF || {{flagicon|NOR}} [[Martin Ødegaard]] || {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]] || <ref>{{Cite web|title=Welcome, Martin! {{!}} Odegaard joins from Real Madrid|url=https://www.arsenal.com/news/welcome-martin-odegaard-joins-real-madrid|access-date=20 August 2021|publisher=Arsenal F.C.|archive-date=5 July 2023|archive-url=https://web.archive.org/web/20230705191917/https://www.arsenal.com/news/welcome-martin-odegaard-joins-real-madrid|url-status=live}}</ref>
+|-
+| 28 August 2021 || DF || {{flagicon|ESP}} [[Álvaro Odriozola]] || {{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]] || rowspan=2|Loan || <ref>{{cite news|title=Odriozola signs for Fiorentina|url=https://www.acffiorentina.com/en/news/all/news-men-first-team/2021-08-28/odriozola-signs-for-fiorentina|access-date=28 August 2021|publisher=acffiorentina.com|date=28 August 2021|archive-date=30 August 2021|archive-url=https://web.archive.org/web/20210830020950/https://www.acffiorentina.com/en/news/all/news-men-first-team/2021-08-28/odriozola-signs-for-fiorentina|url-status=live}}</ref>
+|-
+| 13 January 2022 || FW || {{flagicon|ESP}} [[Borja Mayoral]] || [[Getafe CF|Getafe]] || <ref name=Mayoral />
+|}
+
+===Contract renewals===
+{| class="wikitable"
+|-
+!Date
+!Pos.
+!Name
+!Contract length
+!Contract ends
+!{{abbr|Ref.|Reference}}
+|-
+| 8 July 2021 || DF || {{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]] || 1-year || 2023 || <ref>{{Cite web|date=8 July 2021|title=Official Announcement: Nacho|url=https://www.realmadrid.com/en/news/2021/07/08/official-announcement-nacho|access-date=8 July 2021|publisher=Real Madrid CF|archive-date=16 July 2021|archive-url=https://web.archive.org/web/20210716104817/https://www.realmadrid.com/en/news/2021/07/08/official-announcement-nacho|url-status=live}}</ref>
+|-
+| 29 July 2021 || DF || {{flagicon|ESP}} [[Dani Carvajal]] || 3-year || 2025 || <ref>{{Cite web|title=Official Announcement: Dani Carvajal|url=https://www.realmadrid.com/en/news/2021/07/29/official-announcement-dani-carvajal|access-date=29 July 2021|publisher=Real Madrid CF|archive-date=30 July 2021|archive-url=https://web.archive.org/web/20210730114623/https://www.realmadrid.com/en/news/2021/07/29/official-announcement-dani-carvajal|url-status=live}}</ref>
+|-
+| 16 August 2021 || GK || {{flagicon|BEL}} [[Thibaut Courtois]] || 2-year || 2026 || <ref>{{Cite web|title=Official Announcement: Courtois|url=https://www.realmadrid.com/en/news/2021/08/16/official-announcement-courtois|access-date=16 August 2021|publisher=Real Madrid CF|archive-date=16 August 2021|archive-url=https://web.archive.org/web/20210816115845/https://www.realmadrid.com/en/news/2021/08/16/official-announcement-courtois|url-status=live}}</ref>
+|-
+| 20 August 2021 || FW || {{flagicon|FRA}} [[Karim Benzema]] || 1-year || 2023 || <ref>{{Cite web|title=Official Announcement: Benzema|url=https://www.realmadrid.com/en/news/2021/08/20/official-announcement-benzema|access-date=20 August 2021|publisher=Real Madrid CF|archive-date=20 August 2021|archive-url=https://web.archive.org/web/20210820134409/https://www.realmadrid.com/en/news/2021/08/20/official-announcement-benzema|url-status=live}}</ref>
+|-
+| 24 August 2021 || MF || {{flagicon|URU}} [[Federico Valverde]] || 2-year || 2027 || <ref>{{Cite web|title=Official Announcement: Valverde|url=https://www.realmadrid.com/en/news/2021/08/24/official-announcement-valverde|access-date=24 August 2021|publisher=Real Madrid CF|archive-date=24 August 2021|archive-url=https://web.archive.org/web/20210824134734/https://www.realmadrid.com/en/news/2021/08/24/official-announcement-valverde|url-status=live}}</ref>
+|-
+| 27 August 2021 || MF || {{flagicon|BRA}} [[Casemiro]] || 2-year || 2025 || <ref>{{Cite web|title=Official Announcement: Casemiro|url=https://www.realmadrid.com/en/news/2021/08/27/official-announcement-casemiro|access-date=27 August 2021|publisher=Real Madrid CF|archive-date=17 August 2022|archive-url=https://web.archive.org/web/20220817185924/https://www.realmadrid.com/en/news/2021/08/27/official-announcement-casemiro|url-status=live}}</ref>
+|-
+| 8 June 2022 || MF || {{flagicon|CRO}} [[Luka Modrić]] || 1-year || 2023 || <ref>{{Cite web|title=Official Announcement: Modrić|url=https://www.realmadrid.com/en/news/2022/06/08/official-announcement-modri%C4%87|access-date=8 June 2022|publisher=Real Madrid CF|archive-date=28 June 2022|archive-url=https://web.archive.org/web/20220628084841/https://www.realmadrid.com/en/news/2022/06/08/official-announcement-modri%C4%87|url-status=live}}</ref>
+|}
+
+==Pre-season and friendlies==
+{{footballbox collapsible
+|round      = 1
+|date       = 11 July 2021
+|time       = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid
+|score      = 3–1
+|report     = https://www.realmadrid.com/en/news/2021/07/11/tactics-and-game-strategy-in-the-morning-session
+|team2      = [[CF Fuenlabrada|Fuenlabrada]]
+|goals1     =
+*[[Víctor Chust|Chust]] {{goal}}
+*[[Martin Ødegaard|Ødegaard]] {{goal}}
+*[[Mariano Díaz|Mariano]] {{goal}}
+|goals2     = 
+|stadium    = [[Alfredo Di Stéfano Stadium|Alfredo Di Stéfano]]
+|location   = [[Madrid]]
+|attendance = 0
+|referee    = 
+|result     = W
+|note       = The match was played [[Behind closed doors (sport)|behind closed doors]].
+}}
+{{footballbox collapsible
+|round     = 2
+|date      = 18 July 2021
+|time      = 20:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1     = Real Madrid
+|score     = 1–1
+|report    = https://www.realmadrid.com/en/news/2021/07/18/training-match-against-rayo-vallecano
+|team2     = [[Rayo Vallecano]]
+|goals1    = 
+*[[Isco]] {{goal||pen.}}
+|goals2    =
+*[[Víctor Chust|Chust]] {{goal||o.g.}}
+|stadium    = [[Alfredo Di Stéfano Stadium|Alfredo Di Stéfano]]
+|location   = [[Madrid]]
+|attendance = 0
+|referee    = 
+|result     = D
+|note       = The match was played [[Behind closed doors (sport)|behind closed doors]].
+}}
+{{footballbox collapsible
+|round      = 3
+|date       = 25 July 2021<ref>{{cite news|date=8 July 2021|title=Real Madrid to face Rangers FC in friendly clash on 25 July|url=https://www.realmadrid.com/en/news/2021/07/08/real-madrid-to-face-rangers-fc-in-friendly-clash-on-25-july|publisher=Real Madrid CF|access-date=8 July 2021|archive-date=23 July 2021|archive-url=https://web.archive.org/web/20210723101948/https://www.realmadrid.com/en/news/2021/07/08/real-madrid-to-face-rangers-fc-in-friendly-clash-on-25-july|url-status=live}}</ref>
+|time       = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[Rangers F.C.|Rangers]] 
+|score      = 2–1
+|report     = https://www.realmadrid.com/en/news/2021/07/25/2-1-real-madrid-lose-friendly-in-glasgow
+|team2      = Real Madrid
+|goals1     =
+*[[Fashion Sakala|Sakala]] {{goal|55}}
+*[[Cedric Itten|Itten]] {{goal|77}}
+|goals2     = 
+*[[Rodrygo]] {{goal|8}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{sentoff|2|42|75}}
+|stadium    = [[Ibrox Stadium|Ibrox]]
+|location   = [[Glasgow]], Scotland
+|attendance = 12,750
+|referee    = [[Willie Collum]] ([[Scottish Football Association|Scotland]])
+|result     = L
+}}
+{{footballbox collapsible
+|round      = 4
+|date       = 8 August 2021<ref>{{cite web|date=13 July 2021|title=Real Madrid to face AC Milan in friendly clash on 8 August|url=https://www.realmadrid.com/en/news/2021/07/13/real-madrid-to-meet-ac-milan-in-friendly-clash-on-8-august|publisher=Real Madrid C.F.|access-date=13 July 2021|archive-date=6 August 2021|archive-url=https://web.archive.org/web/20210806143140/https://www.realmadrid.com/en/news/2021/07/13/real-madrid-to-meet-ac-milan-in-friendly-clash-on-8-august|url-status=live}}</ref>
+|time       = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid 
+|score      = 0–0
+|report     = https://www.realmadrid.com/en/news/2021/08/08/0-0-all-square-in-the-last-friendly-ahead-of-the-league-season
+|team2      = [[A.C. Milan|AC Milan]]
+|goals1     =
+|goals2     =
+|stadium    = [[Wörthersee Stadion]]
+|location   = [[Klagenfurt]], Austria
+|attendance = 
+|referee    = Walter Altmann ([[Austrian Football Association|Austria]])
+|result     = D
+}}
+
+==Competitions==
+===Overview===
+{{Fb overview2
+|c=2
+|c1=[[2021–22 La Liga|La Liga]] |fm1=13 August 2021 |lm1=22 May 2022 |sr1=Matchday 1 |fp1=Winners |w1=26|d1=8 |l1=4 |f1=80|a1=31
+|c2=[[2021–22 Copa del Rey|Copa del Rey]] |fm2=5 January 2022 |lm2=3 February 2022 |sr2=Round of 32 |fp2=Quarter-finals |w2=2 |d2=0 |l2=1 |f2=5 |a2=3
+|c3=[[2022 Supercopa de España|Supercopa de España]] |fm3=12 January 2022 |lm3=16 January 2022 |sr3=Semi-finals |fp3=Winners  |w3=2 |d3=0 |l3=0 |f3=5 |a3=2
+|c4=[[2021–22 UEFA Champions League|Champions League]] |fm4=15 September 2021 |lm4=28 May 2022 |sr4=Group stage |fp4=Winners |w4=9 |d4=0 |l4=4 |f4=29|a4=14
+|u=
+|s=[https://int.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/ Soccerway]
+}}
+
+===La Liga===
+{{main|2021–22 La Liga}}
+
+====League table====
+{{2021–22 La Liga table|showteam=RMA}}
+====Results summary====
+{{Fb_rs |hw=13|hd=5 |hl=1 |hgf=44|hga=13|aw=13|ad=3 |al=3 |agf=36|aga=18}}
+{{Fb_rs footer|s=[https://www.laliga.com/en-GB/laliga-santander/classification La Liga]|date=April 2021}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=complete
+| header=Round
+| label1=Ground
+| res1=A/A/A/H/A/H/H/A/A/H/A/H/A/H/H/A/H/H/A/A/H/H/H/A/H/A/H/A/H/A/H/A/A/H/A/H/A/H
+| label2= Result
+| res2=W/D/W/W/W/W/D/L/W/D/W/W/W/W/W/W/W/D/W/L/W/D/W/D/W/W/W/W/L/W/W/W/W/W/L/W/D/D
+| label3= Position
+| pos3=1/3/1/1/1/1/1/1/2/2/2/2/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1
+| color_W=green1|text_W=Win
+| color_D=yellow1|text_D=Draw
+| color_L=red1|text_L=Loss
+| text_H=Home|text_A=Away
+| color1=gold|color_2-4=green1|color_5=blue1|color_6=yellow1|color_18–20=red1
+| source=[https://www.laliga.com/en-GB/laliga-santander/classification La Liga]
+}}
+
+====Matches====
+The league fixtures were announced on 30 June 2021.<ref>{{Cite web|url=https://rfef.es/noticias/oficial-este-es-calendario-oficial-primera-division-temporada-20212022|title=OFICIAL: Este es el CALENDARIO oficial de Primera División para la temporada 2021/2022|language=es|date=30 June 2021|website=rfef.es|access-date=30 June 2021|archive-date=13 August 2021|archive-url=https://web.archive.org/web/20210813212203/https://rfef.es/noticias/oficial-estos-son-calendarios-oficiales-primera-y-segunda-division-temporada-20212022|url-status=dead}}</ref><ref>{{cite news|url=https://www.laliga.com/noticias/quieres-saber-que-equipos-se-enfrentan-en-la-primera-jornada-de-laliga-santander-2020-21|title=¿Quieres saber qué equipos se enfrentan en la primera jornada de LaLiga Santander 2021/22?|language=es|date=30 June 2021|website=La Liga|access-date=30 June 2021|archive-date=15 July 2021|archive-url=https://web.archive.org/web/20210715025019/https://www.laliga.com/noticias/quieres-saber-que-equipos-se-enfrentan-en-la-primera-jornada-de-laliga-santander-2020-21|url-status=live}}</ref>
+
+{{footballbox collapsible
+|round      = 1
+|date       = 14 August 2021
+|time       = 22:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[Deportivo Alavés|Alavés]]
+|score      = 1–4
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-deportivo-alaves-real-madrid-1
+|team2      = Real Madrid
+|goals1     = [[Joselu]] {{goal|65|pen.}}
+|goals2     =
+*[[Karim Benzema|Benzema]] {{goal|48||62}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{goal|56}}
+*[[Vinícius Júnior|Vinícius]] {{goal|90+2}}
+|stadium    = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location   = [[Vitoria-Gasteiz]]
+|attendance = 3,968
+|referee    = César Soto Grado
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 2
+|date       = 22 August 2021
+|time       = 22:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[Levante UD|Levante]]
+|score      = 3–3
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-levante-ud-real-madrid-2
+|team2      = Real Madrid
+|goals1     =
+*[[Roger Martí|Roger]] {{goal|46}}
+*[[José Campaña|Campaña]] {{goal|57}}
+*[[Róber Pier|Róber]] {{goal|79}}
+*[[Aitor Fernández (footballer, born 1991)|Fernández]] {{sent off|0|87}}
+|goals2     =
+*[[Gareth Bale|Bale]] {{goal|5}}
+*[[Vinícius Júnior|Vinícius]] {{goal|73||85}}
+|stadium    = [[Estadi Ciutat de València|Ciutat de València]]
+|location   = [[Valencia]]
+|attendance = 9,838
+|referee    = [[Guillermo Cuadra Fernández]]
+|result     = D
+}}
+{{footballbox collapsible
+|round      = 3
+|date       = 28 August 2021
+|time       = 22:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[Real Betis]]
+|score      = 0–1
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-betis-real-madrid-3
+|team2      = Real Madrid
+|goals1     =
+|goals2     = [[Dani Carvajal|Carvajal]] {{goal|61}}
+|stadium    = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location   = [[Seville]]
+|attendance = 22,590
+|referee    = [[Alejandro Hernández Hernández]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 4
+|date       = 12 September 2021
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid
+|score      = 5–2
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-rc-celta-4
+|team2      = [[RC Celta de Vigo|Celta Vigo]]
+|goals1     =
+*[[Karim Benzema|Benzema]] {{goal|24||46||87|pen.}}
+*[[Vinícius Júnior|Vinícius]] {{goal|54}}
+*[[Eduardo Camavinga|Camavinga]] {{goal|72}}
+|goals2     =
+*[[Santi Mina|Mina]] {{goal|4}}
+*[[Franco Cervi|Cervi]] {{goal|31}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 19,874
+|referee    = [[José María Sánchez Martínez]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 5
+|date       = 19 September 2021
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[Valencia CF|Valencia]]
+|score      = 1–2
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-valencia-cf-real-madrid-5
+|team2      = Real Madrid
+|goals1     = [[Hugo Duro|Duro]] {{goal|66}}
+|goals2     =
+*[[Vinícius Júnior|Vinícius]] {{goal|86}}
+*[[Karim Benzema|Benzema]] {{goal|88}}
+|stadium    = [[Mestalla Stadium|Mestalla]]
+|location   = Valencia
+|attendance = 26,689
+|referee    = Pablo González Fuertes
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 6
+|date       = 22 September 2021
+|time       = 22:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid
+|score      = 6–1
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-rcd-mallorca-6
+|team2      = [[RCD Mallorca|Mallorca]]
+|goals1     =
+*[[Karim Benzema|Benzema]] {{goal|3||78}}
+*[[Marco Asensio|Asensio]] {{goal|24||29||55}}
+*[[Isco]] {{goal|84}}
+|goals2     = [[Lee Kang-in|Lee]] {{goal|25}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 20,113
+|referee    = Javier Alberola Rojas
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 7
+|date       = 25 September 2021
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid
+|score      = 0–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-villarreal-cf-7
+|team2      = [[Villarreal CF|Villarreal]]
+|goals1     = 
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 23,985
+|referee    = [[Jesús Gil Manzano]]
+|result     = D
+}}
+{{footballbox collapsible
+|round      = 8
+|date       = 3 October 2021
+|time       = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[RCD Espanyol|Espanyol]]
+|score      = 2–1
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-rcd-espanyol-de-barcelona-real-madrid-8
+|team2      = Real Madrid
+|goals1     =
+*[[Raúl de Tomás|De Tomás]] {{goal|17}}
+*[[Aleix Vidal|Vidal]] {{goal|60}}
+|goals2     = [[Karim Benzema|Benzema]] {{goal|71}}
+|stadium    = [[RCDE Stadium]]
+|location   = [[Cornellà de Llobregat]]
+|attendance = 23,377
+|referee    = [[Guillermo Cuadra Fernández]]
+|result     = L
+}}
+{{footballbox collapsible
+|round      = [[El Clásico|9]]
+|date       = 24 October 2021
+|time       = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 1–2
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-fc-barcelona-real-madrid-10
+|team2      = Real Madrid
+|goals1     =
+*[[Sergio Agüero|Agüero]] {{goal|90+7}}
+|goals2     =
+*[[David Alaba|Alaba]] {{goal|32}}
+*[[Lucas Vázquez|Vázquez]] {{goal|90+4}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 86,422
+|referee    = [[José María Sánchez Martínez]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 10
+|date       = 27 October 2021
+|time       = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid
+|score      = 0–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-ca-osasuna-11
+|team2      = [[CA Osasuna|Osasuna]]
+|goals1     = 
+|goals2     = 
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 35,619
+|referee    = César Soto Grado
+|result     = D
+}}
+{{footballbox collapsible
+|round      = 11
+|date       = 30 October 2021
+|time       = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[Elche CF|Elche]]
+|score      = 1–2
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-elche-cf-real-madrid-12
+|team2      = Real Madrid
+|goals1     =
+*[[Raúl Guti|Guti]] {{sent off|2|8|63}}
+*[[Pere Milla|Milla]] {{goal|86}}
+|goals2     = [[Vinícius Júnior|Vinícius]] {{goal|22||73}}
+|stadium    = [[Estadio Manuel Martínez Valero|Martínez Valero]]
+|location   = [[Elche]]
+|attendance = 23,010
+|referee    = [[Ricardo de Burgos Bengoetxea]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 12
+|date       = 6 November 2021
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid
+|score      = 2–1
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-rayo-vallecano-13
+|team2      = [[Rayo Vallecano]]
+|goals1     =
+*[[Toni Kroos|Kroos]] {{goal|14}}
+*[[Karim Benzema|Benzema]] {{goal|38}}
+|goals2     = [[Radamel Falcao|Falcao]] {{goal|76}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 43,283
+|referee    = [[:es:Pablo González Fuertes|Pablo González Fuertes]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 13
+|date       = 21 November 2021
+|time       = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Granada CF|Granada]]
+|score      = 1–4
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-granada-cf-real-madrid-14
+|team2      = Real Madrid
+|goals1     =
+*[[Luis Suárez (Colombian footballer)|Suárez]] {{goal|34}}
+*[[Monchu]] {{sent off|0|67}}
+|goals2     =
+*[[Marco Asensio|Asensio]] {{goal|19}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{goal|25}}
+*[[Vinícius Júnior|Vinícius]] {{goal|56}}
+*[[Ferland Mendy|Mendy]] {{goal|76}}
+|stadium    = [[Nuevo Estadio de Los Cármenes|Nuevo Los Cármenes]]
+|location   = [[Granada]]
+|attendance = 17,460
+|referee    = [[Juan Martínez Munuera]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 14
+|date       = 28 November 2021
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid
+|score      = 2–1
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-sevilla-fc-15
+|team2      = [[Sevilla FC|Sevilla]]
+|goals1     = 
+*[[Karim Benzema|Benzema]] {{goal|32}}
+*[[Vinícius Júnior|Vinícius]] {{goal|87}}
+|goals2     = [[Rafa Mir|Mir]] {{goal|12}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 45,281
+|referee    = [[José María Sánchez Martínez]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = [[El Viejo Clásico|15]]
+|date       = 1 December 2021
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid
+|score      = 1–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-athletic-club-9
+|team2      = [[Athletic Bilbao]]
+|goals1     = [[Karim Benzema|Benzema]] {{goal|40}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 33,627
+|referee    = [[:es:Isidro Díaz de Mera Escuderos|Isidro Díaz de Mera Escuderos]]
+|result     = W
+|note       = The match, originally scheduled for 17 October 2021, was moved back due to the [[2022 FIFA World Cup qualification (CONMEBOL)|2022 FIFA World Cup qualification]] in South America. The international break this season was longer than usual due the impact of postponements related to the [[COVID-19 pandemic]].<ref>{{Cite web|url=https://www.marca.com/en/football/spanish-football/2021/09/23/614cc26646163f67778b45df.html|title=LaLiga request postponement of Real Madrid vs Athletic and Granada vs Atletico|date=24 September 2021|website=Marca|location=Spain|access-date=24 September 2021|archive-date=17 October 2021|archive-url=https://web.archive.org/web/20211017212842/https://www.marca.com/en/football/spanish-football/2021/09/23/614cc26646163f67778b45df.html|url-status=live}}</ref>
+}}
+{{footballbox collapsible
+|round      = 16
+|date       = 4 December 2021
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Real Sociedad]]
+|score      = 0–2
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-sociedad-real-madrid-16
+|team2      = Real Madrid
+|goals1     =
+|goals2     =
+*[[Vinícius Júnior|Vinícius]] {{goal|47}}
+*[[Luka Jović|Jović]] {{goal|57}}
+|stadium    = [[Anoeta Stadium|Reale Arena]]
+|location   = [[San Sebastián]]
+|attendance = 35,765
+|referee    = [[Jesús Gil Manzano]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = [[Madrid Derby|17]]
+|date       = 12 December 2021
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid
+|score      = 2–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-atletico-de-madrid-17
+|team2      = [[Atlético Madrid]]
+|goals1     =
+*[[Karim Benzema|Benzema]] {{goal|16}}
+*[[Marco Asensio|Asensio]] {{goal|57}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 51,024
+|referee    = [[Antonio Mateu Lahoz]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 18
+|date       = 19 December 2021
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid
+|score      = 0–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-cadiz-cf-18
+|team2      = [[Cádiz CF|Cádiz]]
+|goals1     = 
+|goals2     = 
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 38,818
+|referee    = Santiago Jaime Latre
+|result     = D
+}}
+{{footballbox collapsible
+|round      = [[El Viejo Clásico|19]]
+|date       = 22 December 2021
+|time       = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Athletic Bilbao]]
+|score      = 1–2
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-athletic-club-real-madrid-21
+|team2      = Real Madrid
+|goals1     = [[Oihan Sancet|Sancet]] {{goal|10}}
+|goals2     = [[Karim Benzema|Benzema]] {{goal|4||7}}
+|stadium    = [[San Mamés Stadium (2013)|San Mamés]]
+|location   = [[Bilbao]]
+|attendance = 42,722
+|referee    = César Soto Grado
+|result     = W
+|note       = The match, originally scheduled for January 2022, was moved ahead due to both teams' participation in the [[2022 Supercopa de España]].<ref>{{cite news|url=https://www.laliga.com/en-GB/news/kick-off-times-confirmed-for-postponed-matches-from-matchdays-4-and-9|title=Kick-off times confirmed for postponed matches from Matchdays 4 and 9|date=17 November 2021|website=La Liga|access-date=31 May 2022|archive-date=31 May 2022|archive-url=https://web.archive.org/web/20220531102131/https://www.laliga.com/en-GB/news/kick-off-times-confirmed-for-postponed-matches-from-matchdays-4-and-9|url-status=live}}</ref>
+}}
+{{footballbox collapsible
+|round      = 20
+|date       = 2 January 2022
+|time       = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Getafe CF|Getafe]]
+|score      = 1–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-getafe-cf-real-madrid-19
+|team2      = Real Madrid
+|goals1     = [[Enes Ünal|Ünal]] {{goal|9}}
+|goals2     =
+|stadium    = [[Coliseum Alfonso Pérez]]
+|location   = [[Getafe]]
+|attendance = 11,890
+|referee    = Mario Melero López
+|result     = L
+}}
+{{footballbox collapsible
+|round      = 21
+|date       = 8 January 2022
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid
+|score      = 4–1
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-valencia-cf-20
+|team2      = [[Valencia CF|Valencia]]
+|goals1     =
+*[[Karim Benzema|Benzema]] {{goal|43|pen.|88}}
+*[[Vinícius Júnior|Vinícius]] {{goal|52||61}}
+|goals2     = [[Gonçalo Guedes|Guedes]] {{goal|76}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 40,617
+|referee    = [[Alejandro Hernández Hernández]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 22
+|date       = 23 January 2022
+|time       = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid
+|score      = 2–2
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-elche-cf-22
+|team2      = [[Elche CF|Elche]]
+|goals1     =
+*[[Luka Modrić|Modrić]] {{goal|82|pen.}}
+*[[Éder Militão|Militão]] {{goal|90+2}}
+|goals2     =
+*[[Lucas Boyé|Boyé]] {{goal|42}}
+*[[Pere Milla|Milla]] {{goal|76}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 39,796
+|referee    = [[Ricardo de Burgos Bengoetxea]]
+|result     = D
+}}
+{{footballbox collapsible
+|round      = 23
+|date       = 6 February 2022
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid
+|score      = 1–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-granada-cf-23
+|team2      = [[Granada CF|Granada]]
+|goals1     = [[Marco Asensio|Asensio]] {{goal|74}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 36,665
+|referee    = [[Antonio Mateu Lahoz]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 24
+|date       = 12 February 2022
+|time       = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Villarreal CF|Villarreal]]
+|score      = 0–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-villarreal-cf-real-madrid-24
+|team2      = Real Madrid
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio de la Cerámica]]
+|location   = [[Villarreal]]
+|attendance = 17,894
+|referee    = [[José María Sánchez Martínez]]
+|result     = D
+}}
+{{footballbox collapsible
+|round      = 25
+|date       = 19 February 2022
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid
+|score      = 3–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-deportivo-alaves-25
+|team2      = [[Deportivo Alavés|Alavés]]
+|goals1     =
+*[[Marco Asensio|Asensio]] {{goal|63}}
+*[[Vinícius Júnior|Vinícius]] {{goal|80}}
+*[[Karim Benzema|Benzema]] {{goal|90+1|pen.}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 42,180
+|referee    = [[José Luis Munuera Montero]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 26
+|date       = 26 February 2022
+|time       = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Rayo Vallecano]]
+|score      = 0–1
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-rayo-vallecano-real-madrid-26
+|team2      = Real Madrid
+|goals1     =
+|goals2     = [[Karim Benzema|Benzema]] {{goal|83}}
+|stadium    = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location   = Madrid
+|attendance = 9,952
+|referee    = Isidro Díaz de Mera Escuderos
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 27
+|date       = 5 March 2022
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid
+|score      = 4–1
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-real-sociedad-27
+|team2      = [[Real Sociedad]]
+|goals1     =
+*[[Eduardo Camavinga|Camavinga]] {{goal|40}}
+*[[Luka Modrić|Modrić]] {{goal|43}}
+*[[Karim Benzema|Benzema]] {{goal|76|pen.}}
+*[[Marco Asensio|Asensio]] {{goal|79}}
+|goals2     = [[Mikel Oyarzabal|Oyarzabal]] {{goal|10|pen.}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 52,410
+|referee    = [[Jesús Gil Manzano]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 28
+|date       = 14 March 2022
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[RCD Mallorca|Mallorca]]
+|score      = 0–3
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-rcd-mallorca-real-madrid-28
+|team2      = Real Madrid
+|goals1     =
+|goals2     =
+*[[Vinícius Júnior|Vinícius]] {{goal|55}}
+*[[Karim Benzema|Benzema]] {{goal|77|pen.|82}}
+|stadium    = [[Visit Mallorca Stadium|Visit Mallorca Estadi]]
+|location   = [[Palma de Mallorca|Palma]]
+|attendance = 17,191
+|referee    = [[José María Sánchez Martínez]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = [[El Clásico|29]]
+|date       = 20 March 2022
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid
+|score      = 0–4
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-fc-barcelona-29
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     =
+|goals2     =
+*[[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|29||51}}
+*[[Ronald Araújo|Araújo]] {{goal|38}}
+*[[Ferran Torres|Torres]] {{goal|47}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 60,017
+|referee    = [[Juan Martínez Munuera]]
+|result     = L
+}}
+{{footballbox collapsible
+|round      = 30
+|date       = 2 April 2022
+|time       = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[RC Celta de Vigo|Celta Vigo]]
+|score      = 1–2
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-rc-celta-real-madrid-30
+|team2      = Real Madrid
+|goals1     = [[Nolito]] {{goal|52}}
+|goals2     = [[Karim Benzema|Benzema]] {{goal|19|pen.|69|pen.}}
+|stadium    = [[Balaídos|Abanca-Balaídos]]
+|location   = [[Vigo]]
+|attendance = 15,714
+|referee    = Pablo González Fuertes
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 31
+|date       = 9 April 2022
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid
+|score      = 2–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-getafe-cf-31
+|team2      = [[Getafe CF|Getafe]]
+|goals1     =
+*[[Casemiro]] {{goal|38}}
+*[[Lucas Vázquez|Vázquez]] {{goal|68}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 50,740
+|referee    = César Soto Grado
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 32
+|date       = 17 April 2022
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[Sevilla FC|Sevilla]]
+|score      = 2–3
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-sevilla-fc-real-madrid-32
+|team2      = Real Madrid
+|goals1     =
+*[[Ivan Rakitić|Rakitić]] {{goal|21}}
+*[[Erik Lamela|Lamela]] {{goal|25}}
+|goals2     =
+*[[Rodrygo]] {{goal|50}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{goal|82}}
+*[[Karim Benzema|Benzema]] {{goal|90+2}}
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location   = Seville
+|attendance = 40,629
+|referee    = Guillermo Cuadra Fernández
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 33
+|date       = 20 April 2022
+|time       = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[CA Osasuna|Osasuna]]
+|score      = 1–3
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-ca-osasuna-real-madrid-33
+|team2      = Real Madrid
+|goals1     = [[Ante Budimir|Budimir]] {{goal|13}}
+|goals2     =
+*[[David Alaba|Alaba]] {{goal|12}}
+*[[Marco Asensio|Asensio]] {{goal|45}}
+*[[Lucas Vázquez|Vázquez]] {{goal|90+6}}
+|stadium    = [[Estadio El Sadar|El Sadar]]
+|location   = [[Pamplona]]
+|attendance = 21,360
+|referee    = [[Ricardo de Burgos Bengoetxea]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 34
+|date       = 30 April 2022
+|time       = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid
+|score      = 4–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-rcd-espanyol-de-barcelona-34
+|team2      = [[RCD Espanyol|Espanyol]]
+|goals1     =
+*[[Rodrygo]] {{goal|33||43}}
+*[[Marco Asensio|Asensio]] {{goal|55}}
+*[[Karim Benzema|Benzema]] {{goal|81}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 58,686
+|referee    = [[José Luis Munuera Montero]]
+|result     = W
+}}
+{{footballbox collapsible
+|round      = [[Madrid Derby|35]]
+|date       = 8 May 2022
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[Atlético Madrid]]
+|score      = 1–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-atletico-de-madrid-real-madrid-35
+|team2      = Real Madrid
+|goals1     = [[Yannick Carrasco|Carrasco]] {{goal|40|pen.}}
+|goals2     =
+|stadium    = [[Metropolitano Stadium|Wanda Metropolitano]]
+|location   = Madrid
+|attendance = 63,874
+|referee    = César Soto Grado
+|result     = L
+}}
+{{footballbox collapsible
+|round      = 36
+|date       = 12 May 2022
+|time       = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid
+|score      = 6–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-levante-ud-36
+|team2      = [[Levante UD|Levante]]
+|goals1     =
+*[[Ferland Mendy|Mendy]] {{goal|13}}
+*[[Karim Benzema|Benzema]] {{goal|19}}
+*[[Rodrygo]] {{goal|34}}
+*[[Vinícius Júnior|Vinícius]] {{goal|45||68||83}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 38,421
+|referee    = Adrián Cordero Vega
+|result     = W
+}}
+{{footballbox collapsible
+|round      = 37
+|date       = 15 May 2022
+|time       = 19:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[Cádiz CF|Cádiz]]
+|score      = 1–1
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-cadiz-cf-real-madrid-37
+|team2      = Real Madrid
+|goals1     = [[Rubén Sobrino|Sobrino]] {{goal|37}}
+|goals2     = [[Mariano Díaz|Mariano]] {{goal|5}}
+|stadium    = [[Nuevo Mirandilla]]
+|location   = [[Cádiz]]
+|attendance = 19,643
+|referee    = [[Antonio Mateu Lahoz]]
+|result     = D
+}}
+{{footballbox collapsible
+|round      = 38
+|date       = 20 May 2022
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid
+|score      = 0–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-laliga-santander-real-madrid-real-betis-38
+|team2      = [[Real Betis]]
+|goals1     =
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 52,232
+|referee    = Santiago Jaime Latre
+|result     = D
+}}
+
+====Score overview====
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+{|class="wikitable" style="text-align: center;"
+|-
+!Opposition
+!Home score
+!Away score
+!Double
+|-
+|[[Deportivo Alavés|Alavés]]
+|bgcolor=#BBF3BB|3–0
+|bgcolor=#BBF3BB|4–1
+|bgcolor=#BBF3BB|7–1
+|-
+|[[Athletic Bilbao]]
+|bgcolor=#BBF3BB|1–0
+|bgcolor=#BBF3BB|2–1
+|bgcolor=#BBF3BB|3–1
+|-
+|[[Atlético Madrid]]
+|bgcolor=#BBF3BB|2–0
+|bgcolor=#FFBBBB|0–1
+|bgcolor=#BBF3BB|2–1
+|-
+|[[FC Barcelona|Barcelona]]
+|bgcolor=#FFBBBB|0–4
+|bgcolor=#BBF3BB|2–1
+|bgcolor=#FFBBBB|2–5
+|-
+|[[Cádiz CF|Cádiz]]
+|bgcolor=#FFFFBB|0–0
+|bgcolor=#FFFFBB|1–1
+|bgcolor=#FFFFBB|1–1
+|-
+|[[RC Celta de Vigo|Celta Vigo]]
+|bgcolor=#BBF3BB|5–2
+|bgcolor=#BBF3BB|2–1
+|bgcolor=#BBF3BB|7–3
+|-
+|[[Elche CF|Elche]]
+|bgcolor=#FFFFBB|2–2
+|bgcolor=#BBF3BB|2–1
+|bgcolor=#BBF3BB|4–3
+|-
+|[[RCD Espanyol|Espanyol]]
+|bgcolor=#BBF3BB|4–0
+|bgcolor=#FFBBBB|1–2
+|bgcolor=#BBF3BB|5–2
+|-
+|[[Getafe CF|Getafe]]
+|bgcolor=#BBF3BB|2–0
+|bgcolor=#FFBBBB|0–1
+|bgcolor=#BBF3BB|2–1
+|-
+|[[Granada CF|Granada]]
+|bgcolor=#BBF3BB|1–0
+|bgcolor=#BBF3BB|4–1
+|bgcolor=#BBF3BB|5–1
+|-
+|[[Levante UD|Levante]]
+|bgcolor=#BBF3BB|6–0
+|bgcolor=#FFFFBB|3–3
+|bgcolor=#BBF3BB|9–3
+|-
+|[[RCD Mallorca|Mallorca]]
+|bgcolor=#BBF3BB|6–1
+|bgcolor=#BBF3BB|3–0
+|bgcolor=#BBF3BB|9–1
+|-
+|[[CA Osasuna|Osasuna]]
+|bgcolor=#FFFFBB|0–0
+|bgcolor=#BBF3BB|3–1
+|bgcolor=#BBF3BB|3–1
+|-
+|[[Rayo Vallecano]]
+|bgcolor=#BBF3BB|2–1
+|bgcolor=#BBF3BB|1–0
+|bgcolor=#BBF3BB|3–1
+|-
+|[[Real Betis]]
+|bgcolor=#FFFFBB|0–0
+|bgcolor=#BBF3BB|1–0
+|bgcolor=#BBF3BB|1–0
+|-
+|[[Real Sociedad]]
+|bgcolor=#BBF3BB|4–1
+|bgcolor=#BBF3BB|2–0
+|bgcolor=#BBF3BB|6–1
+|-
+|[[Sevilla FC|Sevilla]]
+|bgcolor=#BBF3BB|2–1
+|bgcolor=#BBF3BB|3–2
+|bgcolor=#BBF3BB|5–3
+|-
+|[[Valencia CF|Valencia]]
+|bgcolor=#BBF3BB|4–1
+|bgcolor=#BBF3BB|2–1
+|bgcolor=#BBF3BB|6–2
+|-
+|[[Villarreal CF|Villarreal]]
+|bgcolor=#FFFFBB|0–0
+|bgcolor=#FFFFBB|0–0
+|bgcolor=#FFFFBB|0–0
+|}
+
+===Copa del Rey===
+{{main|2021–22 Copa del Rey}}
+Madrid entered the tournament in the round of 32, as they had qualified for the [[2022 Supercopa de España]].
+
+{{footballbox collapsible
+|date       = 5 January 2022
+|round      = [[2021–22 Copa del Rey#Round of 32|Round of 32]]
+|time       = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[CD Alcoyano|Alcoyano]]
+|score      = 1–3
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-copa-del-rey-alcoyano-real-madrid-3
+|team2      = Real Madrid
+|goals1     = [[Dani Vega|Vega]] {{goal|66}}
+|goals2     =
+*[[Éder Militão|Militão]] {{goal|39}}
+*[[Marco Asensio|Asensio]] {{goal|76}}
+*[[José Juan (footballer, born 1979)|José Juan]] {{goal|78|o.g.}}
+|stadium    = [[Estadio El Collao|El Collao]]
+|location   = [[Alcoy, Spain|Alcoy]]
+|attendance = 4,850
+|referee    = Adrián Cordero Vega
+|result     = W
+}}
+{{footballbox collapsible
+|date       = 20 January 2022
+|round      = [[2021–22 Copa del Rey#Round of 16|Round of 16]]
+|time       = 19:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Elche CF|Elche]]
+|score      = 1–2
+|aet        = yes
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-copa-del-rey-elche-cf-real-madrid-4
+|team2      = Real Madrid
+|goals1     =
+*[[Gonzalo Verdú|Verdú]] {{goal|103}}
+*[[Pere Milla|Milla]] {{sent off|2|87|120+2}}
+|goals2     =
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{sent off|0|102}}
+*[[Isco]] {{goal|108}}
+*[[Eden Hazard|Hazard]] {{goal|115}}
+|stadium    = [[Estadio Manuel Martínez Valero|Martínez Valero]]
+|location   = [[Elche]]
+|attendance = 33,732
+|referee    = Jorge Figueroa Vázquez
+|result     = W
+}}
+{{footballbox collapsible
+|date       = 3 February 2022
+|round      = [[2021–22 Copa del Rey#Quarter-finals|Quarter-finals]]
+|time       = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Athletic Bilbao]]
+|score      = 1–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-copa-del-rey-athletic-club-real-madrid-5
+|team2      = Real Madrid
+|goals1     = [[Álex Berenguer|Berenguer]] {{goal|89}}
+|goals2     =
+|stadium    = [[San Mamés Stadium (2013)|San Mamés]]
+|location   = [[Bilbao]]
+|attendance = 38,750
+|referee    = [[Jesús Gil Manzano]]
+|result     = L
+}}
+
+===Supercopa de España===
+{{main|2022 Supercopa de España|2022 Supercopa de España final
+}}
+
+{{Football box collapsible
+|round      = [[2022 Supercopa de España#Semi-finals|Semi-finals]]
+|date       = 12 January 2022
+|time       = 20:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 2–3
+|aet        = yes
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-supercopa-de-espana-fc-barcelona-real-madrid-1
+|team2      = Real Madrid
+|goals1     =
+*[[Luuk de Jong|L. de Jong]] {{goal|41}}
+*[[Ansu Fati|Fati]] {{goal|83}}
+|goals2     =
+*[[Vinícius Júnior|Vinícius]] {{goal|25}}
+*[[Karim Benzema|Benzema]] {{goal|72}}
+*[[Federico Valverde|Valverde]] {{goal|98}}
+|stadium    = [[King Fahd International Stadium]]
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 35,000
+|referee    = [[José Luis Munuera Montero]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = [[2022 Supercopa de España final|Final]]
+|date       = 16 January 2022
+|time       = 19:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Athletic Bilbao]]
+|score      = 0–2
+|report     = https://www.laliga.com/en-GB/match/temporada-2021-2022-supercopa-de-espana-real-madrid-athletic-club-2
+|team2      = Real Madrid
+|goals1     =
+|goals2     =
+*[[Luka Modrić|Modrić]] {{goal|38}}
+*[[Karim Benzema|Benzema]] {{goal|52|pen.}}
+*[[Éder Militão|Militão]] {{sent off|0|87}}
+|stadium    = [[King Fahd International Stadium]]
+|location   = Riyadh, Saudi Arabia
+|attendance = 30,000
+|referee    = César Soto Grado
+|result     = W
+}}
+
+===UEFA Champions League===
+{{main|2021–22 UEFA Champions League}}
+
+====Group stage====
+{{main|2021–22 UEFA Champions League group stage#Group D}}
+The group stage draw was held on 26 August 2021.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/draws/2022/2001308/ |title=UEFA Champions League group stage draw |publisher=UEFA |date=26 August 2021 |access-date=26 August 2021 |archive-date=13 July 2021 |archive-url=https://web.archive.org/web/20210713182015/https://www.uefa.com/uefachampionsleague/draws/2022/2001308/ |url-status=live }}</ref>
+{{:2021–22 UEFA Champions League group stage|transcludesection=Group D|show_matches=yes|showteam=RMA}}
+
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League group stage#Inter Milan v Real Madrid|1]]
+|date       = 15 September 2021
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = [[Inter Milan]] {{fbaicon|ITA}}
+|score      = 0–1
+|report     = https://www.uefa.com/uefachampionsleague/match/2032670/
+|team2      = {{fbaicon|ESP}} Real Madrid
+|goals1     = 
+|goals2     = [[Rodrygo]] {{goal|89}}
+|stadium    = [[San Siro]]
+|location   = [[Milan]], Italy
+|attendance = 37,082
+|referee    = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|result     = W
+}}
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League group stage#Real Madrid v Sheriff Tiraspol|2]]
+|date       = 28 September 2021
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid {{fbaicon|ESP}}
+|score      = 1–2
+|report     = https://www.uefa.com/uefachampionsleague/match/2032687/
+|team2      = {{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|goals1     = [[Karim Benzema|Benzema]] {{goal|65|pen.}}
+|goals2     =
+*[[Jasurbek Yakhshiboev|Yakhshiboev]] {{goal|25}}
+*[[Sébastien Thill|Thill]] {{goal|89}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 24,522
+|referee    = Lawrence Visser ([[Royal Belgian Football Association|Belgium]])
+|result     = L
+}}
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League group stage#Shakhtar Donetsk v Real Madrid|3]]
+|date       = 19 October 2021
+|time       = 22:00 [[Eastern European Summer Time|EEST]] ([[UTC+03:00|UTC+3]])
+|team1      = [[FC Shakhtar Donetsk|Shakhtar Donetsk]] {{fbaicon|UKR}}
+|score      = 0–5
+|report     = https://www.uefa.com/uefachampionsleague/match/2032718/
+|team2      = {{fbaicon|ESP}} Real Madrid
+|goals1     =
+|goals2     =
+*[[Serhiy Kryvtsov|Kryvtsov]] {{goal|37|o.g.}}
+*[[Vinícius Júnior|Vinícius]] {{goal|51||56}}
+*[[Rodrygo]] {{goal|65}}
+*[[Karim Benzema|Benzema]] {{goal|90+1}}
+|stadium    = [[Olimpiyskiy National Sports Complex|NSC Olympiyskiy]]
+|location   = [[Kyiv]], Ukraine{{refn|group=note|Shakhtar Donetsk played their home matches at NSC Olimpiyskiy, Kyiv, instead of their regular stadium [[Donbas Arena]], [[Donetsk]], due to the [[War in Donbas (2014–2022)|war conditions in Eastern Ukraine]].}}
+|attendance = 34,037
+|referee    = [[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+|result     = W
+}}
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League group stage#Real Madrid v Shakhtar Donetsk|4]]
+|date       = 3 November 2021
+|time       = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid {{fbaicon|ESP}}
+|score      = 2–1
+|report     = https://www.uefa.com/uefachampionsleague/match/2032646/
+|team2      = {{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1     = [[Karim Benzema|Benzema]] {{goal|14||61}}
+|goals2     = [[Fernando (footballer, born March 1999)|Fernando]] {{goal|39}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 38,105
+|referee    = [[Benoît Bastien]] ([[French Football Federation|France]])
+|result     = W
+}}
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League group stage#Sheriff Tiraspol v Real Madrid|5]]
+|date       = 24 November 2021
+|time       = 22:00 [[Eastern European Time|EET]] ([[UTC+02:00|UTC+2]])
+|team1      = [[FC Sheriff Tiraspol|Sheriff Tiraspol]] {{fbaicon|MDA}}
+|score      = 0–3
+|report     = https://www.uefa.com/uefachampionsleague/match/2032695/
+|team2      = {{fbaicon|ESP}} Real Madrid
+|goals1     = 
+|goals2     =
+*[[David Alaba|Alaba]] {{goal|30}}
+*[[Toni Kroos|Kroos]] {{goal|45+1}}
+*[[Karim Benzema|Benzema]] {{goal|55}}
+|stadium    = [[Sheriff Stadium]]
+|location   = [[Tiraspol]], Moldova
+|attendance = 5,932
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result     = W
+}}
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League group stage#Real Madrid v Inter Milan|6]]
+|date       = 7 December 2021
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid {{fbaicon|ESP}}
+|score      = 2–0
+|report     = https://www.uefa.com/uefachampionsleague/match/2032726/
+|team2      = {{fbaicon|ITA}} [[Inter Milan]]
+|goals1     =
+*[[Toni Kroos|Kroos]] {{goal|17}}
+*[[Marco Asensio|Asensio]] {{goal|79}}
+|goals2     = [[Nicolò Barella|Barella]] {{sent off|0|64}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 46,887
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|result     = W
+}}
+
+====Knockout phase====
+{{main|2021–22 UEFA Champions League knockout phase}}
+
+=====Round of 16=====
+The draw for the round of 16 was held on 13 December 2021.<ref>{{cite news|date=13 December 2021|title=UEFA Champions League round of 16 draw|website=[[UEFA]]|publisher=Union of European Football Associations|url=https://www.uefa.com/uefachampionsleague/draws/2022/2001309/|access-date=20 December 2021|archive-date=11 July 2021|archive-url=https://web.archive.org/web/20210711210239/https://www.uefa.com/uefachampionsleague/draws/2022/2001309/|url-status=live}}</ref>
+
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League knockout phase#Paris Saint-Germain v Real Madrid|First leg]]
+|date       = 15 February 2022
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{fbaicon|FRA}}
+|score      = 1–0
+|report     = https://www.uefa.com/uefachampionsleague/match/2033899/
+|team2      = {{fbaicon|ESP}} Real Madrid
+|goals1     = [[Kylian Mbappé|Mbappé]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]], France
+|attendance = 47,443
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|result     = L
+}}
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League knockout phase#Real Madrid v Paris Saint-Germain|Second leg]]
+|date       = 9 March 2022
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Real Madrid {{fbaicon|ESP}}
+|score      = 3–1
+|aggregatescore = 3–2
+|report     = https://www.uefa.com/uefachampionsleague/match/2033905/
+|team2      = {{fbaicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1     = [[Karim Benzema|Benzema]] {{goal|61||76||78}}
+|goals2     = [[Kylian Mbappé|Mbappé]] {{goal|39}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 59,895
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = W
+}}
+
+=====Quarter-finals=====
+The draw for the quarter-finals and semi-finals was held on 18 March 2022.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/draws/2022/2001310/|title=UEFA Champions League quarter-final, semi-final and final draws|website=[[UEFA]]|publisher=Union of European Football Associations|date=13 March 2022|access-date=13 March 2022|archive-date=11 July 2021|archive-url=https://web.archive.org/web/20210711222322/https://www.uefa.com/uefachampionsleague/draws/2022/2001310/|url-status=live}}</ref>
+
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League knockout phase#Chelsea v Real Madrid|First leg]]
+|date       = 6 April 2022
+|time       = 20:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Chelsea F.C.|Chelsea]] {{fbaicon|ENG}}
+|score      = 1–3
+|report     = https://www.uefa.com/uefachampionsleague/match/2034653/
+|team2      = {{fbaicon|ESP}} Real Madrid
+|goals1     = [[Kai Havertz|Havertz]] {{goal|40}}
+|goals2     = [[Karim Benzema|Benzema]] {{goal|21||24||46}}
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]]
+|location   = [[London]], England
+|attendance = 38,689
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|result     = W
+}}
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League knockout phase#Real Madrid v Chelsea|Second leg]]
+|date       = 12 April 2022
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid {{fbaicon|ESP}}
+|score      = 2–3
+|aet        = yes
+|aggregatescore = 5–4
+|report     = https://www.uefa.com/uefachampionsleague/match/2034659/
+|team2      = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     =
+*[[Rodrygo]] {{goal|80}}
+*[[Karim Benzema|Benzema]] {{goal|96}}
+|goals2     =
+*[[Mason Mount|Mount]] {{goal|15}}
+*[[Antonio Rüdiger|Rüdiger]] {{goal|51}}
+*[[Timo Werner|Werner]] {{goal|75}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 59,839
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result     = L
+}}
+
+=====Semi-finals=====
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League knockout phase#Manchester City v Real Madrid|First leg]]
+|date       = 26 April 2022
+|time       = 20:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1      = [[Manchester City F.C.|Manchester City]] {{fbaicon|ENG}}
+|score      = 4–3
+|report     = https://www.uefa.com/uefachampionsleague/match/2034662/
+|team2      = {{fbaicon|ESP}} Real Madrid
+|goals1     =
+*[[Kevin De Bruyne|De Bruyne]] {{goal|2}}
+*[[Gabriel Jesus]] {{goal|11}}
+*[[Phil Foden|Foden]] {{goal|53}}
+*[[Bernardo Silva|Silva]] {{goal|72}}
+|goals2     =
+*[[Karim Benzema|Benzema]] {{goal|33||82|pen.}}
+*[[Vinícius Júnior|Vinícius]] {{goal|55}}
+|stadium    = [[City of Manchester Stadium]]
+|location   = [[Manchester]], England
+|attendance = 52,217
+|referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|result     = L
+}}
+{{footballbox collapsible
+|round      = [[2021–22 UEFA Champions League knockout phase#Real Madrid v Manchester City|Second leg]]
+|date       = 4 May 2022
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Real Madrid {{fbaicon|ESP}}
+|score      = 3–1
+|aet        = yes
+|aggregatescore = 6–5
+|report     = https://www.uefa.com/uefachampionsleague/match/2034663/
+|team2      = {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1     =
+*[[Rodrygo]] {{goal|90||90+1}}
+*[[Karim Benzema|Benzema]] {{goal|95|pen.}}
+|goals2     = [[Riyad Mahrez|Mahrez]] {{goal|73}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 61,416
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+
+=====Final=====
+{{main|2022 UEFA Champions League Final}}
+{{footballbox collapsible
+|round      = [[2022 UEFA Champions League Final|Final]]
+|date       = 28 May 2022
+|time       = 21:36 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]){{refn|group=note|The final, originally scheduled for 21:00 CEST, was delayed to 21:36 CEST due to security issues with fans entering the stadium.}}
+|team1      = [[Liverpool F.C.|Liverpool]] {{fbaicon|ENG}}
+|score      = 0–1
+|report     = https://www.uefa.com/uefachampionsleague/match/2034586/
+|team2      = {{fbaicon|ESP}} Real Madrid
+|goals1     =
+|goals2     = [[Vinícius Júnior|Vinícius]] {{goal|59}}
+|stadium    = [[Stade de France]]
+|location   = [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+|attendance = 75,000
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|result     = W
+}}
+
+==Statistics==
+===Squad statistics===
+{{Efs start|[[2021–22 La Liga|La Liga]]|[[2021–22 Copa del Rey|Copa del Rey]]|[[2021–22 UEFA Champions League|Champions League]]|[[2022 Supercopa de España|Supercopa de España]]}}
+{{Efs player2|no=1 |pos=GK|nat=BEL|name=[[Thibaut Courtois]]                        |36|0|1|0|13|0|2|0}}
+{{Efs player2|no=2 |pos=DF|nat=ESP|name=[[Dani Carvajal]]                           |24|1|0|0|11|0|1|0}}
+{{Efs player2|no=3 |pos=DF|nat=BRA|name=[[Éder Militão]]                            |34|1|2|1|12|0|2|0}}
+{{Efs player2|no=4 |pos=DF|nat=AUT|name=[[David Alaba]]                             |30|2|3|0|12|1|1|0}}
+{{Efs player2|no=5 |pos=DF|nat=ESP|name=[[Jesús Vallejo]]                           |5|0|1|0|2|0|0|0}}
+{{Efs player2|no=6 |pos=DF|nat=ESP|name=[[Nacho (footballer, born 1990)|Nacho]]     |28|3|3|0|9|0|2|0}}
+{{Efs player2|no=7 |pos=MF|nat=BEL|name=[[Eden Hazard]]                             |18|0|2|1|3|0|0|0}}
+{{Efs player2|no=8 |pos=MF|nat=GER|name=[[Toni Kroos]]                              |28|1|3|0|12|2|2|0}}
+{{Efs player2|no=9 |pos=FW|nat=FRA|name=[[Karim Benzema]]                           |32|27|0|0|12|15|2|2}}
+{{Efs player2|no=10|pos=MF|nat=CRO|name=[[Luka Modrić]]                             |28|2|2|0|13|0|2|1}}
+{{Efs player2|no=11|pos=FW|nat=ESP|name=[[Marco Asensio]]                           |31|10|2|1|8|1|1|0}}
+{{Efs player2|no=12|pos=DF|nat=BRA|name=[[Marcelo (footballer, born 1988)|Marcelo]] |12|0|2|0|3|0|1|0}}
+{{Efs player2|no=13|pos=GK|nat=UKR|name=[[Andriy Lunin]]                            |2|0|2|0|0|0|0|0}}
+{{Efs player2|no=14|pos=MF|nat=BRA|name=[[Casemiro]]                                |32|1|3|0|11|0|2|0}}
+{{Efs player2|no=15|pos=MF|nat=URU|name=[[Federico Valverde]]                       |31|0|2|0|11|0|2|1}}
+{{Efs player2|no=16|pos=FW|nat=SRB|name=[[Luka Jović]]                              |15|1|1|0|3|0|0|0}}
+{{Efs player2|no=17|pos=FW|nat=ESP|name=[[Lucas Vázquez]]                           |29|3|2|0|8|0|2|0}}
+{{Efs player2|no=18|pos=FW|nat=WAL|name=[[Gareth Bale]]                             |5|1|0|0|2|0|0|0}}
+{{Efs player2|no=19|pos=MF|nat=ESP|name=[[Dani Ceballos]]                           |11|0|2|0|5|0|0|0}}
+{{Efs player2|no=20|pos=FW|nat=BRA|name=[[Vinícius Júnior]]                         |35|17|2|0|13|4|2|1}}
+{{Efs player2|no=21|pos=FW|nat=BRA|name=[[Rodrygo]]                                 |33|4|3|0|11|5|2|0}}
+{{Efs player2|no=22|pos=MF|nat=ESP|name=[[Isco]]                                    |14|1|3|1|0|0|0|0}}
+{{Efs player2|no=23|pos=DF|nat=FRA|name=[[Ferland Mendy]]                           |22|2|1|0|10|0|2|0}}
+{{Efs player2|no=24|pos=FW|nat=DOM|name=[[Mariano Díaz|Mariano]]                    |9|1|1|0|1|0|0|0}}
+{{Efs player2|no=25|pos=MF|nat=FRA|name=[[Eduardo Camavinga]]                       |26|2|3|0|10|0|1|0}}
+{{Efs player2|no=27|pos=MF|nat=ESP|name=[[Antonio Blanco (footballer)|Antonio Blanco]]|1|0|0|0|1|0|0|0}}
+{{Efs player2|no=29|pos=FW|nat=ESP|name=[[Juanmi Latasa]]                           |1|0|0|0|0|0|0|0}}
+{{Efs player2|no=34|pos=DF|nat=ESP|name=[[Mario Gila]]                              |2|0|0|0|0|0|0|0}}
+{{Efs player2|no=35|pos=DF|nat=ESP|name=[[Miguel Gutiérrez (footballer, born 2001)|Miguel Gutiérrez]]|3|0|0|0|1|0|0|0}}
+{{Efs player2|no=43|pos=DF|nat=ESP|name=[[Sergio Santos (footballer, born 2001)|Sergio Santos]]|1|0|0|0|0|0|0|0}}
+{{Efs player2|no=44|pos=MF|nat=DOM|name=[[Peter González (footballer)|Peter González]]|3|0|0|0|0|0|0|0}}
+{{Efs player2|no=|pos=DF|nat=ESP|name=[[Álvaro Odriozola]]†                         |0|0|0|0|0|0|0|0}}
+{{Fb cs footer|u=|s=[https://www.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/squad/ Soccerway]|date=September 2020}}
+<sup>†</sup> Player left Madrid during the season
+
+===Goals===
+{| class="wikitable" style="text-align:center;"
+|-
+!Rank
+!Player
+!La Liga
+!Copa del Rey
+!Champions League
+!Supercopa
+!Total<ref name=SW>{{Cite web |url=https://www.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/squad/ |title=Soccerway |access-date=2021-08-13 |archive-date=2021-03-06 |archive-url=https://web.archive.org/web/20210306043525/https://www.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/squad/ |url-status=live }}</ref>
+|-
+|1
+|align=left|{{flagicon|FRA}} [[Karim Benzema]]||27||0||15||2||'''44'''
+|-
+|2
+|align=left|{{flagicon|BRA}} [[Vinícius Júnior]]||17||0||4||1||'''22'''
+|-
+|3
+|align=left|{{flagicon|ESP}} [[Marco Asensio]]||10||1||1||0||'''12'''
+|-
+|4
+|align=left|{{flagicon|BRA}} [[Rodrygo]]||4||0||5||0||'''9'''
+|-
+|rowspan="5"|5
+|align=left|{{flagicon|AUT}} [[David Alaba]]||2||0||1||0||rowspan="5"|'''3'''
+|-
+|align=left|{{flagicon|GER}} [[Toni Kroos]]||1||0||2||0
+|-
+|align=left|{{flagicon|CRO}} [[Luka Modrić]]||2||0||0||1
+|-
+|align=left|{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]]||3||0||0||0
+|-
+|align=left|{{flagicon|ESP}} [[Lucas Vázquez]]||3||0||0||0
+|-
+|rowspan="4"|10
+|align=left|{{flagicon|FRA}} [[Eduardo Camavinga]]||2||0||0||0||rowspan="4"|'''2'''
+|-
+|align=left|{{flagicon|ESP}} [[Isco]]||1||1||0||0
+|-
+|align=left|{{flagicon|FRA}} [[Ferland Mendy]]||2||0||0||0
+|-
+|align=left|{{flagicon|BRA}} [[Éder Militão]]||1||1||0||0
+|-
+|rowspan="7"|14
+|align=left|{{flagicon|WAL}} [[Gareth Bale]]||1||0||0||0||rowspan="7"|'''1'''
+|-
+|align=left|{{flagicon|ESP}} [[Dani Carvajal]]||1||0||0||0
+|-
+|align=left|{{flagicon|BRA}} [[Casemiro]]||1||0||0||0
+|-
+|align=left|{{flagicon|BEL}} [[Eden Hazard]]||0||1||0||0
+|-
+|align=left|{{flagicon|SRB}} [[Luka Jović]]||1||0||0||0
+|-
+|align=left|{{flagicon|DOM}} [[Mariano Díaz|Mariano]]||1||0||0||0
+|-
+|align=left|{{flagicon|URU}} [[Federico Valverde]]||0||0||0||1
+|-
+|align=center colspan=2|Own goals||0||1||1||0||'''2'''
+|-
+!colspan=2|Total
+!80||5||29||5||119
+|}
+
+===Clean sheets===
+{|class="wikitable" style="text-align: center;"
+|-	
+!Rank
+!Player
+!La Liga
+!Copa del Rey
+!Champions League
+!Supercopa
+!Total<ref name=SW />
+|-
+|1||align=left|{{flagicon|BEL}} [[Thibaut Courtois]]||16||0||5||1||'''22'''
+|-
+|2||align=left|{{flagicon|UKR}} [[Andriy Lunin]]||0||0||0||0||'''0'''
+|-
+!colspan=2|Total
+!16||0||5||1||22
+|}
+
+===Disciplinary record===
+{{fb disc header 3|c1=La Liga|c2=Copa del Rey|c3=Champions League|c4=Supercopa}}
+{{Fb disc player 3|p=[[Éder Militão]]    |nb=BRA |n=3 |pos=DF |yc1=5 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=4 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=1}}
+{{Fb disc player 3|p=[[Marcelo (footballer, born 1988)|Marcelo]] |nb=BRA |n=12 |pos=DF |yc1=0 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=1 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Casemiro]]        |nb=BRA |n=14|pos=MF |yc1=11|syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=3 |syc3=0 |rc3=0 |yc4=1 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Eduardo Camavinga]]|nb=FRA|n=25|pos=MF |yc1=9 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Nacho (footballer, born 1990)|Nacho]] |nb=ESP |n=6 |pos=DF |yc1=7 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=2 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Luka Modrić]]     |nb=CRO |n=10|pos=MF |yc1=5 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Ferland Mendy]]   |nb=FRA |n=23|pos=DF |yc1=4 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=3 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Vinícius Júnior]] |nb=BRA |n=20|pos=FW |yc1=6 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Toni Kroos]]      |nb=GER |n=8 |pos=MF |yc1=4 |syc1=0 |rc1=0 |yc2=2 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Federico Valverde]]|nb=URU|n=15|pos=MF |yc1=2 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=2 |syc3=0 |rc3=0 |yc4=1 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Rodrygo]]         |nb=BRA |n=21|pos=FW |yc1=3 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Dani Carvajal]]   |nb=ESP |n=2 |pos=DF |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=3 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[David Alaba]]     |nb=AUT |n=4 |pos=DF |yc1=2 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Lucas Vázquez]]   |nb=ESP |n=17|pos=MF |yc1=3 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Eden Hazard]]     |nb=BEL |n=7 |pos=FW |yc1=2 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Marco Asensio]]   |nb=ESP |n=11|pos=FW |yc1=2 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Luka Jović]]      |nb=SRB |n=16|pos=FW |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Gareth Bale]]     |nb=WAL |n=18|pos=FW |yc1=2 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Mariano Díaz|Mariano]]  |nb=DOM |n=24|pos=FW |yc1=2 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Thibaut Courtois]]|nb=BEL |n=1 |pos=GK |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Jesús Vallejo]]   |nb=ESP |n=5 |pos=DF |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Karim Benzema]]   |nb=FRA |n=9 |pos=FW |yc1=0 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Isco]]            |nb=ESP |n=22|pos=MF |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Miguel Gutiérrez (footballer, born 2001)|Miguel Gutiérrez]]|nb=ESP|n=35|pos=DF|yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc footer|s=[https://www.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/squad/ Soccerway]|u=|date=September 2020}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.realmadrid.com/}}
+
+{{Real Madrid CF seasons}}
+{{2021–22 in Spanish football}}
+
+{{DEFAULTSORT:2021-22 Real Madrid CF Season}}
+[[Category:Real Madrid CF seasons]]
+[[Category:Spanish football clubs 2021–22 season|Real Madrid]]
+[[Category:2021–22 UEFA Champions League participants seasons|Real Madrid]]
+[[Category:Spanish football championship–winning seasons]]
+[[Category:UEFA Champions League–winning seasons]]
+[[Category:2021 in Madrid]]
+[[Category:2022 in Madrid]]

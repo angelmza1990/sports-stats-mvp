@@ -632,3 +632,123 @@ svg .badge-text {
     white-space: normal;
   }
 }
+
+/* Everyone against everyone: a head-to-head matrix (rivalries, World Cup champions) */
+
+.matrix {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.matrix th,
+.matrix td {
+  padding: 4px;
+  border-bottom: 1px solid var(--border);
+}
+
+.matrix th img,
+.matrix th .crest-badge {
+  width: 22px;
+  height: 22px;
+  vertical-align: middle;
+}
+
+.matrix-club {
+  text-align: left;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.matrix-club img,
+.matrix-club .crest-badge {
+  margin-right: 8px;
+}
+
+.matrix-cell.diag {
+  background: var(--wash);
+}
+
+.matrix-pair {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  min-width: 52px;
+  font: inherit;
+  color: var(--ink);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 4px 2px;
+  cursor: pointer;
+}
+
+.matrix-pair:hover {
+  border-color: var(--axis);
+}
+
+.matrix-pair.current {
+  border-color: var(--ink);
+}
+
+.matrix-pair .w {
+  font-size: 17px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.matrix-pair .dl {
+  font-size: 12px;
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.matrix-pair.ahead .w::after {
+  content: " ▲";
+  font-size: 10px;
+  color: var(--ink-2);
+}
+
+.matrix-total {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.matrix-pct {
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+
+.matrix img.flag {
+  width: auto;
+  height: 14px;
+}
+
+.matrix-wrap {
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+@media (max-width: 560px) {
+  .matrix-name {
+    display: none;
+  }
+
+  .matrix-club img,
+  .matrix-club .crest-badge {
+    margin-right: 0;
+  }
+
+  .matrix-pair {
+    min-width: 40px;
+  }
+
+  .matrix-pair .w {
+    font-size: 15px;
+  }
+
+  .matrix-total {
+    font-size: 12px;
+  }
+}

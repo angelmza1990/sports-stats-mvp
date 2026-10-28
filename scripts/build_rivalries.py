@@ -1,5 +1,5 @@
 """Build the datasets used by football/rivalries: every match of the great rivalries between the biggest clubs of
-Argentina, Brazil, England, Spain, Italy, France and Germany.
+Argentina, Uruguay, Brazil, England, Spain, Italy, France and Germany.
 
 Each country has its own source module (scripts/rivalries_<country>.py). The sources are Wikipedia (CC BY-SA 4.0)
 in English, Spanish, Portuguese and Italian, RSSSF's head-to-head lists, engsoccerdata's English results and
@@ -28,7 +28,8 @@ import rivalries_france as FR
 import rivalries_germany as DE
 import rivalries_italy as IT
 import rivalries_spain as ES
-from rivalries_common import OUT_DIR, build_ties, finish, record, summary
+import rivalries_uruguay as UY
+from rivalries_common import OUT_DIR, build_ties, finish, leaders_from_matches, record, summary
 
 # Each rivalry's two club colors for light and dark mode. Every pair was tuned and checked with the dataviz palette
 # validator against the draw gray (#b8bcc1 light, #56595e dark): lightness band, CVD separation and normal-vision floor.
@@ -44,6 +45,11 @@ COLORS = {
     "independiente-san-lorenzo": ("#d33a3c", "#3845bf", "#e54c4a", "#4252cd"),
     "racing-san-lorenzo": ("#0a96d6", "#3845bf", "#0a96d6", "#4252cd"),
     "madrid-barcelona": ("#824fcf", "#b21557", "#824fcf", "#e85082"),
+    "madrid-atletico": ("#824fcf", "#d33a3c", "#824fcf", "#e54c4a"),
+    "barcelona-atletico": ("#245fd4", "#d33a3c", "#245fd4", "#e54c4a"),
+    "sevilla-betis": ("#fd736d", "#067e3f", "#b71824", "#029d50"),
+    "valencia-villarreal": ("#d9471b", "#ce9707", "#b71824", "#b68611"),
+    "penarol-nacional": ("#ce9707", "#245fd4", "#b68611", "#245fd4"),
     "inter-milan": ("#245fd4", "#d33a3c", "#245fd4", "#e54c4a"),
     "juventus-inter": ("#ce9707", "#245fd4", "#b68611", "#245fd4"),
     "juventus-milan": ("#ce9707", "#d33a3c", "#b68611", "#b71824"),
@@ -82,7 +88,10 @@ COLORS = {
 
 GROUPS = [
     {"id": "arg", "country": "ARG", "name": "Argentina", "label": "The big five"},
-    {"id": "esp", "country": "ESP", "name": "Spain", "label": ""},
+    {"id": "uru", "country": "URU", "name": "Uruguay", "label": ""},
+    {"id": "esp", "country": "ESP", "name": "Spain", "region": "The big three", "label": "Spain's big three"},
+    {"id": "esp-and", "country": "ESP", "name": "Spain", "region": "Andalusia", "label": ""},
+    {"id": "esp-val", "country": "ESP", "name": "Spain", "region": "Valencian Community", "label": ""},
     {"id": "ita", "country": "ITA", "name": "Italy", "label": "The big three"},
     {"id": "eng", "country": "ENG", "name": "England", "label": "The big six"},
     {"id": "fra", "country": "FRA", "name": "France", "label": ""},
@@ -124,6 +133,13 @@ INTERNACIONAL = {"id": "internacional", "name": "Internacional", "short": "Inter
 GREMIO = {"id": "gremio", "name": "Grêmio", "short": "Grêmio"}
 CRUZEIRO = {"id": "cruzeiro", "name": "Cruzeiro", "short": "Cruzeiro"}
 ATLETICO = {"id": "atletico-mineiro", "name": "Atlético Mineiro", "short": "Atlético"}
+ATLETICO_MADRID = {"id": "atletico-madrid", "name": "Atlético Madrid", "short": "Atlético"}
+SEVILLA = {"id": "sevilla", "name": "Sevilla", "short": "Sevilla"}
+BETIS = {"id": "real-betis", "name": "Real Betis", "short": "Betis"}
+VALENCIA = {"id": "valencia", "name": "Valencia", "short": "Valencia"}
+VILLARREAL = {"id": "villarreal-cf", "name": "Villarreal", "short": "Villarreal"}
+PENAROL = {"id": "penarol", "name": "Peñarol", "short": "Peñarol"}
+NACIONAL = {"id": "nacional", "name": "Nacional", "short": "Nacional"}
 LIVERPOOL = {"id": "liverpool", "name": "Liverpool", "short": "Liverpool"}
 UNITED = {"id": "manchester-united", "name": "Manchester United", "short": "United"}
 ARSENAL = {"id": "arsenal", "name": "Arsenal", "short": "Arsenal"}
@@ -154,7 +170,16 @@ RIVALRIES = [
       AR.big_five("independiente-san-lorenzo", "independiente", "san-lorenzo"), 213, leaders=False),
     R("racing-san-lorenzo", "Racing vs San Lorenzo", "Racing Club vs San Lorenzo", "arg", RACING, SAN_LORENZO,
       AR.big_five("racing-san-lorenzo", "racing", "san-lorenzo"), 211, leaders=False),
+    R("penarol-nacional", "Uruguayan Clásico", "Peñarol vs Nacional", "uru", PENAROL, NACIONAL, UY.build_clasico, 431,
+      leaders="scorers"),
     R("madrid-barcelona", "El Clásico", "Real Madrid vs Barcelona", "esp", MADRID, BARCA, ES.build_clasico, 265),
+    R("madrid-atletico", "Madrid derby", "Real Madrid vs Atlético Madrid", "esp", MADRID, ATLETICO_MADRID, ES.build_madrid_derby, 244),
+    R("barcelona-atletico", "Barcelona vs Atlético", "Barcelona vs Atlético Madrid", "esp", BARCA, ATLETICO_MADRID,
+      ES.build_barcelona_atletico, 247, leaders=False),
+    R("sevilla-betis", "Seville derby", "Sevilla vs Real Betis", "esp-and", SEVILLA, BETIS, ES.build_seville, 145,
+      leaders="scorers"),
+    R("valencia-villarreal", "Derbi de la Comunitat", "Valencia vs Villarreal", "esp-val", VALENCIA, VILLARREAL,
+      ES.build_valencia_villarreal, 64),
     R("inter-milan", "Derby della Madonnina", "Inter vs Milan", "ita", INTER, MILAN, IT.build_derby, 246),
     R("juventus-inter", "Derby d'Italia", "Juventus vs Inter", "ita", JUVENTUS, INTER, IT.build_derby_italia, 254),
     R("juventus-milan", "Juventus vs Milan", "Juventus vs Milan", "ita", JUVENTUS, MILAN, IT.build_juve_milan, 247),
@@ -227,7 +252,8 @@ def validate(data: dict, cfg: dict) -> None:
     for m in data["matches"] + data["friendlies"]:
         if not m.get("date") or {m["home"], m["away"]} != ids:
             raise SystemExit(f"{data['name']}: bad match {m}")
-    if cfg.get("leaders", True) and (not data.get("scorers") or not data.get("appearances")):
+    leaders = cfg.get("leaders", True)
+    if leaders and not data.get("scorers") or leaders is True and not data.get("appearances"):
         raise SystemExit(f"{data['name']}: no scorer or appearance leaders parsed")
 
 
@@ -263,6 +289,8 @@ def build(cfg: dict, refresh: bool) -> dict:
                 data["notes"].append(f"The source's own totals table counts {published['n']} official matches "
                                      f"({published['a']}–{published['d']}–{published['b']}); the match list adds up to {got['n']} "
                                      f"({got['a']}–{got['d']}–{got['b']}).")
+    if data["mode"] == "full" and not data["scorers"]:
+        data["scorers"] = leaders_from_matches(data) or []
     validate(data, cfg)
     return data
 

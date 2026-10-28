@@ -1,0 +1,506 @@
+{{Short description|78th season in existence of FC Barcelona}}
+{{more citations needed|date=July 2017}}
+
+{{Infobox football club season
+  | club               = [[FC Barcelona]]
+  | season             = 1976&ndash;77
+  | manager            = [[Rinus Michels]]
+  | chrtitle           = President
+  | chairman           = [[Agustí Montal Costa]]
+  | league             = [[1976–77 La Liga|La Liga]]
+  | league result      = 2nd
+  | cup1               = [[1976–77 Copa del Rey|Copa del Rey]]
+  | cup1 result        = Round of 16
+  | cup2               = [[1976–77 UEFA Cup|UEFA Cup]]
+  | cup2 result        = Quarter-final
+  | cup4               = [[Joan Gamper Trophy]]
+  | cup4 result        = '''Winners'''
+  | league topscorer   =
+  | season topscorer   = 
+  | highest attendance = 
+  | lowest attendance  = 
+
+| pattern_la1= _left
+| pattern_b1  = _3bluestripes2
+| pattern_ra1   = _right
+| pattern_sh1= _shorts
+| pattern_so1   = _barcelona0708h 
+| leftarm1     = 0000FF 
+| body1           = DD0000 
+| rightarm1       = 0000FF 
+| shorts1       = 0000FF 
+| socks1        = 0000FF 
+
+| pattern_la2 =_river1980
+| pattern_b2  =_river1980
+| pattern_ra2 =_river1980
+| pattern_sh2 =
+| pattern_so2 =_fcbarcelona0708h
+| leftarm2    = FFCC00
+| body2       = FFCC00
+| rightarm2   = FFCC00
+| shorts2     = 0000B0
+| socks2      = 0000B0
+  
+| prevseason         = [[1975–76 FC Barcelona season|1975–76]]
+  | nextseason         = [[1977–78 FC Barcelona season|1977–78]]
+}}
+The '''1976&ndash;77 season''' was the 78th season for '''[[FC Barcelona]]'''.
+
+==Squad==
+{{fs start}}
+{{fs player|no=|pos=GK|nat=ESP|natvar=1945|name=[[Pere Valentí Mora]]}}
+ {{fs player|no=|pos=GK|nat=ESP|natvar=1945|name=[[Pedro María Artola]]}}
+ {{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Pepito Ramos]]}}
+ {{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Antoni Olmo]]}}
+ {{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Migueli]]}}
+ {{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Enrique Álvarez Costas]]}}
+ {{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Jesús Antonio de la Cruz]]}}
+ {{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[José Joaquín Albaladejo]]}}
+ {{fs player|no=|pos=MF|nat=NED|name=[[Johan Neeskens]]}}
+ {{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Juan Manuel Asensi]]}}
+ {{fs player|no=|pos=MF|nat=URU|name=[[Alfredo Amarillo]]}}
+{{fs mid}}
+ {{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Tente Sánchez]]}}
+ {{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Marcial Pina]]}}
+ {{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[José Cirilo Macizo]]}}
+ {{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Jordi Carreño]]}}
+ {{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Manuel Tomé]]}}
+ {{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Paco Martínez]]}}
+ {{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Manuel Clares]]}}
+ {{fs player|no=|pos=FW|nat=NED|name=[[Johan Cruyff]]}}
+ {{fs player|no=|pos=FW|nat=ARG|name=[[Juan Carlos Heredia]]}}
+ {{fs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[Carles Rexach]]}}
+ {{fs player|no=|pos=FW|nat=Peru|name=[[Hugo Sotil]]}}
+ {{fs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[Miquel Mir]]}}
+ {{fs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[José Botella]]}}
+{{fs end}}
+
+==Competitions==
+===Friendlies===
+{{footballbox collapsible
+|date= 04 August 1976 
+|round=
+|team1=[[SBV Vitesse]] {{flagicon|NED}}
+|team2={{flagicon|ESP|1945}} FC Barcelona 
+|score=0-2
+|report=
+|goals1=
+|goals2=
+|location=[[Arnhem]]
+|stadium=
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=07 August 1976  
+|team1=[[VVV-Venlo]] {{flagicon|NED}}
+|team2={{flagicon|ESP|1945}} FC Barcelona 
+|score=1-2
+|report=
+|goals1=
+|goals2=
+|location=[[Venlo]]
+|stadium=
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible|date=10 August 1976
+|team1=[[MSV Duisburg]] {{flagicon|FRG}}
+|team2={{flagicon|ESP|1945}} FC Barcelona 
+|score=2-0
+|report=
+|goals1=
+|goals2=
+|location=[[Duisburg]]
+|stadium=
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=13 August 1976 
+|round={{small|{{ill|Palma Trophy|Trofeo Ciudad de Palma|es}}}} 
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|ENG}} [[Queens Park Rangers]] 
+|score=2-1
+|location=[[Palma de Mallorca]]
+|stadium=[[Son Moix]]
+|result=W
+}}
+{{footballbox collapsible
+|date=14 August 1976 
+|round={{small|{{ill|Palma Trophy|Trofeo Ciudad de Palma|es}}}} 
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|USSR}} [[FC Spartak Moscow]] 
+|score=2-2
+|location=[[Palma de Mallorca]]
+|stadium=[[Son Moix]]
+|result=D
+}}
+{{footballbox collapsible|date=24 August 1976 
+|round={{small|[[Joan Gamper Trophy]]}} 
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|CZE}} [[AC Sparta Prague]] 
+|score=2-1
+|result=W
+}}
+{{footballbox collapsible
+|date=25 August 1976  
+|round=[[Joan Gamper Trophy]] 
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|FRG}} [[Eintracht Frankfurt]] 
+|score=2-0
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W
+}}
+{{footballbox collapsible
+|date=28 August 1976 
+|round= 
+|team1=IRUN
+|team2=FC Barcelona 
+|score=1-4
+|report=
+|goals1=
+|goals2=
+|location=
+|stadium=
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=01 September 1976
+|round=
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|FRA}} [[Stade Reims]] 
+|score=2-0
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W
+}}
+{{footballbox collapsible
+|date=19 April 1977 
+|team1=[[Paris Saint-Germain]] {{flagicon|FRA}}
+|team2=FC Barcelona 
+|score=1-1
+|result=D
+}}
+{{footballbox collapsible
+|date=17 June 1977 
+|round=[[:es:Trofeo Ibérico|Badajoz Trophy]] 
+|team1=[[CD Badajoz]]
+|team2=Barcelona
+|score=1-5
+|location=[[Badajoz]]
+|stadium=[[Estadio Nuevo Vivero|Nuevo Vivero]]
+|result=W
+}}
+{{footballbox collapsible
+|date=19 June 1977 
+|round=[[:es:Trofeo Ibérico|Badajoz Trophy]] 
+|team1=[[Ferencvarosi TC]] {{flagicon|Hungary}}
+|team2={{flagicon|ESP|1945}} FC Barcelona 
+|score=0-3
+|location=[[Badajoz]]
+|stadium=[[Estadio Nuevo Vivero|Nuevo Vivero]]
+|result=W
+}}
+
+===Primera Division===
+{{main|1976-77 La Liga}}
+==== League table ====
+{{:1976–77 La Liga|showteam=BAR}}
+====Position by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+|res1=H/A/H/A/H/A/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H
+|label2= Result
+|res2=W/L/W/L/W/W/L/D/W/W/D/W/D/W/W/W/W/L/W/D/W/L/L/D/L/D/L/W/W/W/D/W/D/W
+|label3= Position
+|res3=1/5/4/6/3/1/6/4/3/2/3/1/1/1/1/1/1/1/1/1/1/2/2/2/2/2/2/2/2/2/2/2/2/2
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|text_1=[[1977–78 European Cup]]
+|color_2-4=blue2|text_2-4=[[1977–78 UEFA Cup]]
+|color_16-18=red1|text_16-18=[[1977–78 Segunda Division]]
+
+|source=[http://www.lfp.es www.lfp.es]
+|date=July 2013
+}}
+
+====Matches====
+{{footballbox collapsible|date=05 September 1976 |time=|round=1  |team1=FC Barcelona|team2=[[UD Las Palmas]] |score=4-0
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W
+}}
+{{footballbox collapsible|date=12 September 1976|time=|round=2  |team1=[[Racing Santander]]|team2=FC Barcelona|score=1-0
+|stadium=[[Estadio_El_Sardinero|El Sardinero]]|location=[[Santander, Spain|Santander]]
+|result=L}}
+{{footballbox collapsible|date=19 September 1976|time=|round= 3 |team1=FC Barcelona|team2=[[Real Madrid]] |score=3-1
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W}}
+{{footballbox collapsible|date=25 September 1976 
+|time=
+|round=4
+|team1=[[CD Málaga]]
+|team2=FC Barcelona 
+|score=1-0
+|stadium=[[La Rosaleda Stadium|La Rosaleda]]
+|location=[[Málaga]]
+|result=L
+}}
+{{footballbox collapsible|date=03 October 1976 |time=|round=5 |team1=FC Barcelona|team2=[[UD Salamanca]] |score=4-1
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W
+}}
+{{footballbox collapsible|date=16 October 1976 |time=|round= 6 |team1=[[Athletic Bilbao]]|team2=FC Barcelona |score=1-3
+|stadium=[[San Mamés Stadium (1913)|San Mamés]]
+|location=[[Bilbao]]
+|result=W
+}}
+{{footballbox collapsible|date=24 October 1976 |time=|round= 7 |team1=[[Atlético Madrid]]
+|team2=FC Barcelona 
+|score=3-1
+|stadium=[[Estadio Vicente Calderon|Vicente Calderon]]
+|location=[[Madrid]]
+|result=L
+}}
+{{footballbox collapsible|date=31 October 1976 |time=|round= 8 |team1=FC Barcelona|team2=[[Hercules CF]] |score=1-1
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=D
+}}
+{{footballbox collapsible|date=07 November 1976 |time=|round= 9|team1=[[Sevilla FC]]|team2=FC Barcelona |score=0-1
+|location=[[Sevilla]]
+|stadium=[[Estadio Sanchez Pizjuan|Sanchez Pizjuan]]
+|result=W
+}}
+{{footballbox collapsible|date=14 November 1976 |time=|round= 10 |team1=FC Barcelona|team2=[[Burgos CF]] |score=3-0
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W
+}}
+{{footballbox collapsible|date=21 November 1976 |time=|round= 11 |team1=[[Real Zaragoza]]|team2=FC Barcelona|score=0-0
+|location=[[Zaragoza]]
+|stadium=[[La Romareda]]
+|result=D
+}}
+{{footballbox collapsible|date=28 November 1976 |time=|round= 12 |team1=FC Barcelona|team2=[[Valencia CF]] |score=6-1
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W}}
+{{footballbox collapsible|date=05 December 1976 |time=|round= 13 |team1=[[Celta Vigo]]|team2=FC Barcelona|score=0-0
+|stadium=[[Estadio Balaidos|Balaidos]]|location=[[Vigo]]
+|result=D}}
+{{footballbox collapsible|date=12 December 1976 |time=|round= 14 |team1=FC Barcelona|team2=[[Real Sociedad]] |score=2-1
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W}}
+{{footballbox collapsible|date=19 December 1976 |time=|round= 15 |team1=[[RCD Espanyol|Español]]|team2=FC Barcelona 
+|score=2-3
+|stadium=[[Estadio Sarriá|Sarriá]]
+|location=[[Barcelona]]
+|result=W}}
+{{footballbox collapsible|date=02 January 1977 |time=|round=16|team1=FC Barcelona|team2=[[Elche CF]]|score=4-1
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W}}
+{{footballbox collapsible|date=09 January 1977 |time=|round=17 |team1=[[Real Betis]]|team2=FC Barcelona |score=1-3
+|location=[[Sevilla]]|stadium=[[Estadio Benito Villamarin|Benito Villamarin]]
+|result=W}}
+{{footballbox collapsible|date=15 January 1977 |time=|round= 18 |team1=[[UD Las Palmas]]|team2=FC Barcelona|score=2-1
+|stadium=[[Estadio Insular|Insular]]|location=[[Las Palmas]]
+|result=L
+}}
+{{footballbox collapsible|date=23 January 1977 |time=|round= 19 |team1=FC Barcelona|team2=[[Racing Santander]] |score=7-0
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W}}
+{{footballbox collapsible|date=30 January 1977 |time=|round= 20 |team1=[[Real Madrid]]|team2=FC Barcelona |score=1-1
+|location=[[Madrid]]|stadium=[[Estadio Santiago Bernabeu|Santiago Bernabeu]]
+|result=D}}
+{{footballbox collapsible|date=06 February 1977 |time=|round= 21 |team1=FC Barcelona|team2=[[CD Málaga]] |score=2-1
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W}}
+{{footballbox collapsible|date=13 February 1977 |time=|round= 22 |team1=[[UD Salamanca]]|team2=FC Barcelona|score=2-0
+|stadium=[[Helmántico Stadium|El Helmántico]]|location=[[Villares de la Reina]]
+|result=L}}
+{{footballbox collapsible|date=20 February 1977 |time=|round= 23|team1=FC Barcelona|team2=[[Athletic Bilbao]] |score=0-2
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=L}}
+{{footballbox collapsible|date=26 February 1977 |time=|round= 24 |team1=FC Barcelona|team2=[[Atlético Madrid]] |score=1-1
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=D}}
+{{footballbox collapsible|date=06 March 1977 |time=|round= 25 |team1=[[Hercules CF]]|team2=FC Barcelona |score=3-2
+|stadium=[[Estadio José Rico Pérez|José Rico Pérez]]
+|location=[[Alicante]]
+|result=L
+}}
+{{footballbox collapsible|date=13 March 1977 |time=|round= 26 |team1=FC Barcelona|team2=[[Sevilla CF]] |score=3-3
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=D
+}}
+{{footballbox collapsible
+|date=20 March 1977 
+|time=
+|round= 27 
+|team1=[[Burgos CF]]
+|team2=FC Barcelona 
+|score=1-0
+|location=[[Burgos]]
+|stadium=[[Estadio El Plantio|El Plantio]]
+|result=L
+}}
+{{footballbox collapsible|date=03 April 1977 |time=|round=28 |team1=FC Barcelona|team2=[[Real Zaragoza]] |score=2-1
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W}}
+{{footballbox collapsible
+|date=10 April 1977 
+|time=
+|round= 29
+|team1=[[Valencia CF]]
+|team2=FC Barcelona 
+|score=0-1
+|location=[[Valencia]]
+|stadium=[[Estadio Mestalla|Mestalla]]
+|result=W
+}}
+{{footballbox collapsible|date=24 April 1977|time=|round= 30 |team1=FC Barcelona|team2=[[Celta Vigo]]|score=4-0
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W}}
+{{footballbox collapsible|date=01 May 1977 |time=|round= 31 |team1=[[Real Sociedad]]|team2=FC Barcelona |score=0-0
+|location=[[San Sebastián]]
+|stadium=[[Atotxa_Stadium|Atotxa]]
+|result=D}}
+{{footballbox collapsible|date=08 May 1977|time=|round= 32 |team1=FC Barcelona|team2=[[RCD Espanyol|Español]] |score=4-2
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W
+}}
+{{footballbox collapsible|date=15 May 1977 |time=|round= 33 |team1=[[Elche CF]]|team2=FC Barcelona |score=0-0|location=[[Elche]]
+|stadium=[[Campo_de_Altabix|Altabix]]
+|result=D
+}}
+{{footballbox collapsible|date=22 May 1977 |time=|round= 34 |team1=FC Barcelona|team2=[[Real Betis]] |score=3-1
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W
+}}
+
+===UEFA Cup===
+{{main|1976-77 UEFA Cup}}
+====First round====
+{{footballbox collapsible|date=15 September 1976|team1=[[C.F. Os Belenenses]] {{flagicon|POR}}|team2={{flagicon|ESP|1945}} FC Barcelona |score=2-2
+
+|result=D
+}}
+{{footballbox collapsible|date=29 September 1976|team1=FC Barcelona {{flagicon|ESP|1945}}|team2=[[C.F. Os Belenenses]] |score=3-2
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W
+}}
+
+====Round of 32====
+{{footballbox collapsible|date=20 October 1976 |round=1 |team1=FC Barcelona {{flagicon|ESP|1945}}|team2={{flagicon|BEL}} [[KSC Lokeren Oost-Vlaanderen|Lokeren]] |score=2-0
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W}}
+{{footballbox collapsible|date=04 November 1976 |round=2|team1=[[KSC Lokeren Oost-Vlaanderen|Lokeren]]{{flagicon|BEL}}|team2={{flagicon|ESP|1945}} FC Barcelona |score=2-1
+
+|result=L
+}}
+====Eightfinals====
+{{footballbox collapsible|date=24 November 1976 |round=1|team1=[[Osters IF|Oesters]]{{flagicon|SWE}}|team2={{flagicon|ESP|1945}} FC Barcelona |score=0-3
+
+|result=W}}
+{{footballbox collapsible|date=08 December 1976|round=2|team1=FC Barcelona {{flagicon|ESP|1945}} |team2={{flagicon|SWE}} [[Osters IF|Oesters]] |score=5-1
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=W
+}}
+====Quarterfinals====
+{{footballbox collapsible|date=02 March 1977 |round=1|team1=[[Athletic Bilbao]] {{flagicon|ESP|1945}}|team2={{flagicon|ESP|1945}} FC Barcelona |score=2-1
+
+|result=L}}
+{{footballbox collapsible|date=16 March 1977|round=2|team1=Barcelona {{flagicon|ESP|1945}}|team2={{flagicon|ESP|1945}} [[Athletic Bilbao]] |score=2-2
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=D}}
+
+===Copa del Rey===
+{{main|1976-77 Copa del Rey}}
+====Eightfinals====
+{{footballbox collapsible
+|date=27 April 1977 
+|round=1
+|team1=[[Celta Vigo]]
+|team2=FC Barcelona 
+|score=1-1
+|location=[[Vigo]]
+|stadium=[[Estadio Balaidos|Balaidos]]
+|result=D
+}}
+{{footballbox collapsible
+|date=19 May 1977
+|round=2 
+|team1=FC Barcelona
+|team2=[[Celta Vigo]] 
+|score=1-2
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|result=L
+}}
+==Statistics==
+===Players statistics===
+{{Efs start|Liga|UEFA|Copa}}
+{{Efs player|no=1	|pos=GK|nat=ESP|natvar=1945|name=[[Pere Valentí Mora]]|26|-29|7|-9|0|-0}}
+{{Efs player|no=2	|pos=DF|nat=ESP|natvar=1945|name=[[Pepito Ramos]]|29+1|0|8|0|2|0}}
+{{Efs player|no=3	|pos=DF|nat=ESP|natvar=1945|name=[[Migueli]]|24+1|1|7|0|1|0}}
+{{Efs player|no=12	|pos=DF|nat=ESP|natvar=1945|name=[[Enrique Álvarez Costas|Quique Costas]]|18+3|0|3+1|0|1|0}}
+{{Efs player|no=4	|pos=DF|nat=ESP|natvar=1945|name=[[Antoni Olmo]]|27+5|1|6+2|0|2|0}}
+{{Efs player|no=6	|pos=MF|nat=NED|name=[[Johan Neeskens]]|33|8|8|1|0|0}}
+{{Efs player|no=5	|pos=MF|nat=URU|name=[[Alfredo Amarillo]]|23+2|2|7|0|0+1|1}}
+{{Efs player|no=8	|pos=MF|nat=ESP|natvar=1945|name=[[Tente Sánchez]]|23+3|1|4+1|0|2|0}}
+{{Efs player|no=10	|pos=MF|nat=ESP|natvar=1945|name=[[Juan Manuel Asensi]]|34|7|8|4|2|0}}
+{{Efs player|no=9	|pos=FW|nat=NED|name=[[Johan Cruyff]]|29|13|7|5|0|0}}
+{{Efs player|no=11	|pos=FW|nat=ESP|natvar=1945|name=[[Manuel Clares]]|29+3|22|7+1|5|2|0}}
+{{Efs player|no=13	|pos=GK|nat=ESP|natvar=1945|name=[[Pedro María Artola]]|8+1|-5|1|-2|2|-3}}
+{{Efs player|no=15	|pos=MF|nat=ESP|natvar=1945|name=[[Marcial Pina]]|14+4|3|2+2|0|0|0}}
+{{Efs player|no=16	|pos=FW|nat=ARG|name=[[Juan Carlos Heredia]]|14+1|6|3+1|3|2|0}}
+{{Efs player|no=7	|pos=FW|nat=ESP|natvar=1945|name=[[Carles Rexach]]|11+3|0|5|1|0|0}}
+{{Efs player|no=5	|pos=DF|nat=ESP|natvar=1945|name=[[Jesús Antonio de la Cruz]]|10+1|0|1|0|2|0}}
+{{Efs player|no=14	|pos=MF|nat=ESP|natvar=1945|name=[[José Cirilo Macizo]]|9+8|0|2+2|0|0|0}}
+{{Efs player|no=15	|pos=MF|nat=ESP|natvar=1945|name=[[Jordi Carreño]]|6+3|1|0+1|0|2|0}}
+{{Efs player|no=16	|pos=FW|nat=Peru|name=[[Hugo Sotil]]|4+1|1|2+1|0|0|0}}
+{{Efs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[Miquel Mir]]|2+2|0|0|0|0+1|0}}
+{{Efs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[José Botella]]|1+1|2|0|0|2|0}}
+{{Efs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[José Joaquín Albaladejo]]|0|0|0|0|0+1|0}}
+{{Efs end|date=August 2024}}
+
+==External links==
+*[http://webarchive.loc.gov/all/20100823140730/http://www.fcbarcelona.cat/web/english/ www.fcbarcelona.cat] Official Site
+*[http://www.webdelcule.com/1899-96/1975-1980.html]
+
+{{FC Barcelona seasons}}
+{{1976–77 in Spanish football}}
+
+{{DEFAULTSORT:1976-77 FC Barcelona season}}
+[[Category:FC Barcelona seasons]]
+[[Category:Spanish football clubs 1976–77 season|Barcelona]]

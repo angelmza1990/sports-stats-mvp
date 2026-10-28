@@ -1,0 +1,1012 @@
+{{Short description|76th season in existence of FC Barcelona}}
+{{more citations needed|date=July 2017}}
+
+{{Infobox Football club season
+  | club               = [[FC Barcelona]]
+  | season             = 1974&ndash;75
+  | manager            =  [[Rinus Michels]] 
+  | chrtitle           = President
+  | chairman           =  [[Agustí Montal Costa]]
+  | league             = [[1974–75 La Liga|La Liga]]
+  | league result      = 3rd
+  | cup1               = [[1974–75 Copa del Generalísimo|Copa del Generalísimo]]
+  | cup1 result        = Quarter-final
+  | cup2               = [[1974–75 European Cup|European Cup]]
+  | cup2 result        = Semi-final
+  | cup4               = [[Joan Gamper Trophy]]
+  | cup4 result        = '''Winners'''
+  | league topscorer   =
+  | season topscorer   = 
+  | highest attendance = 
+  | lowest attendance  = 
+| pattern_la1= _left
+| pattern_b1  = _3bluestripes2
+| pattern_ra1   = _right
+| pattern_sh1= _shorts
+| pattern_so1   = _barcelona0708h 
+| leftarm1     = 0000FF 
+| body1           = DD0000 
+| rightarm1       = 0000FF 
+| shorts1       = 0000FF 
+| socks1        = 0000FF 
+
+| pattern_la2 =_river1980
+| pattern_b2  =_river1980
+| pattern_ra2 =_river1980
+| pattern_sh2 =
+| pattern_so2 =_fcbarcelona0708h
+| leftarm2    = FFCC00
+| body2       = FFCC00
+| rightarm2   = FFCC00
+| shorts2     = 0000B0
+| socks2      = 0000B0
+  | prevseason         = [[1973–74 FC Barcelona season|1973–74]]
+  | nextseason         = [[1975–76 FC Barcelona season|1975–76]]
+}}
+The '''1974&ndash;75 season''' was the 76th season for '''[[FC Barcelona]]'''.
+
+==Squad==
+
+{{fs start}}
+{{fs player|no=|pos=GK|nat=ESP|natvar=1945|name=[[Salvador Sadurní]]}}
+{{fs player|no=|pos=GK|nat=ESP|natvar=1945|name=[[Pere Valentí Mora]]}}
+{{fs player|no=|pos=GK|nat=ESP|natvar=1945|name=[[Aurelio Corral]]}}
+{{fs player|no=|pos=GK|nat=ESP|natvar=1945|name=[[Joan Capó]]}}
+{{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Jesús Antonio de la Cruz]]}}
+{{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Migueli]]}}
+{{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Enrique Álvarez Costas|Quique Costas]]}}
+{{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Joaquim Rifé]]}}
+{{fs player|no=|pos=DF|nat=BRA|natvar=1968|name=[[Marinho Peres]]}}
+{{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Gallego (footballer)|Gallego]]}}
+{{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Antoni Torres]]}}
+{{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[José Joaquín Albaladejo]]}}
+{{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Manuel Tomé]]}}
+{{fs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Alfonso Cortés]]}}
+{{fs player|no=|pos=MF|nat=NED|name=[[Johan Neeskens]]}}
+{{fs mid}}
+{{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Juan Manuel Asensi]]}}
+{{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Marcial Pina]]}}
+{{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Juan Carlos (footballer, born 1945)|Juan Carlos Pérez]]}}
+{{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Narcís Martí Filosia]]}}
+{{fs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[José Cirilo Macizo]]}}
+{{fs player|no=|pos=FW|nat=NED|name=[[Johan Cruyff]]}}
+{{fs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[Carles Rexach]]}}
+{{fs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[Manuel Clares]]}}
+{{fs player|no=|pos=FW|nat=ARG|name=[[Juan Carlos Heredia]]}}
+{{fs player|no=|pos=FW|nat=PER|natvar=state|name=[[Hugo Sotil]]}}
+{{fs player|no=|pos=FW|nat=ARG|name=[[Bernardo Cos]]}}
+{{fs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[Josep Maria Pérez]]}}
+{{fs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[Juan Díaz Juanito]]}}
+{{fs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[Rusky]]}}
+{{fs player|no=|pos=FW|nat=PER|natvar=state|name=[[Pedro Aicart]]}}
+{{fs end}}
+
+==Results==
+===Friendlies===
+{{footballbox collapsible
+|date= 03 August 1974  
+|round=
+|team1=[[Hercules CF]]
+|team2=FC Barcelona
+|score=0-4
+|goals1=
+|goals2=
+|location=[[Alicante]]
+|stadium=Jose Rico Perez
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=07 August 1974 
+|team1=[[Hamburger SV]]{{flagicon|FRG}}
+|team2={{flagicon|ESP|1945}} FC Barcelona 
+|score=3-2
+|goals1=
+|goals2=
+|location=[[Hamburg]]
+|stadium=
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=13 August 1974 
+|round={{small|[[Teresa Herrera Trophy]]}}  
+|team1=[[Peñarol]] {{flagicon|URU}}
+|team2={{flagicon|ESP|1945}} FC Barcelona 
+|score=1-0
+|goals1=
+|goals2=
+|location=[[La Coruña]]
+|stadium=[[Estadio Riazor|Riazor]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=14 August 1974 
+|round={{small|[[Teresa Herrera Trophy]]}}  
+|team1=[[Atlético Madrid]]
+|team2=FC Barcelona 
+|score=2-2 
+|penaltyscore=4-5 
+|goals1=
+|goals2=
+|location=[[La Coruña]]
+|stadium=[[Estadio Riazor|Riazor]]
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=20 August 1974 
+|round={{small|[[Joan Gamper Trophy]]}}
+ |team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|NED}} [[AFC Ajax]] 
+|score=3-0
+
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=21 August 1974 
+|round={{small|[[Joan Gamper Trophy]]}} 
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|SCO}} [[Glasgow Rangers]] 
+|score=4-1
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=25 August 1974 
+|round={{small|[[:es:Trofeo Ciudad de Palma|Trofeo Ciudad de Palma]]}} 
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|AUT}} [[FK Austria Wien]] 
+|score=3-2
+
+|goals1=
+|goals2=
+|location=[[Palma de Mallorca|Palma]]
+|stadium=[[Son Moix]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=26 August 1974 
+|round={{small|[[:es:Trofeo Ciudad de Palma|Trofeo Ciudad de Palma]]}}
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|POL}} [[Stal Mielec]] 
+|score=2-1
+|goals1=
+|goals2=
+|location=[[Palma de Mallorca|Palma]]
+|stadium=[[Son Moix]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=31 August 1974 
+|round={{small|[[Ramón de Carranza Trophy]]}} 
+|team1=[[Sociedade Esportiva Palmeiras|SE Palmeiras]] {{flagicon|BRA}}
+|team2={{flagicon|ESP|1945}} FC Barcelona 
+|score=2-0
+|goals1=
+|goals2=
+|location=[[Cádiz]]
+|stadium=
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=01 September 1974 
+|round={{small|[[Ramón de Carranza Trophy]]}} 
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|BRA}} [[Santos FC]] 
+|score=4-1
+|goals1=
+|goals2=
+|location=[[Cádiz]]
+|stadium=
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=09 October 1974 
+|team1=[[Stade de Reims|Reims]] and [[Paris Saint-Germain F.C.|PSG]]{{flagicon|FRA}}
+|team2={{flagicon|ESP|1945}} FC Barcelona 
+|score=1-5
+|goals1=
+|goals2=
+|location=[[Paris]]
+|stadium=[[Parc des Princes]]
+|attendance=
+|referee= 
+|result=W
+}}
+{{footballbox collapsible
+|date=15 October 1974  
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|FRG}} [[MSV Duisburg]] 
+|score=1-1
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=12 November 1974 
+|round={{small|75 Anniversary}} 
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|ENG}} [[Manchester City F.C.]] 
+|score=3-2
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=27 November 1974 
+|round={{small|75 Anniversary}} 
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|DDR}} [[East Germany national football team|DDR]] 
+|score=2-1
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+
+===Primera Division===
+{{main|1974-75 La Liga}}
+==== League table ====
+{{:1974–75 La Liga|showteam=BAR}}
+====Position by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+|res1=H/A/H/A/H/A/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H
+|label2= Result
+|res2=L/W/W/W/D/W/D/W/L/W/L/W/L/W/L/D/L/W/L/D/L/D/L/W/L/W/L/W/W/D/W/D/L/W
+|label3= Position
+|res3=12/6/3/3/3/2/3/2/3/2/2/2/3/2/3/2/3/3/3/4/5/5/6/4/6/4/4/4/4/3/3/3/3/3
+
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|text_1=[[1975–76 European Cup]]
+|color_2-4=blue2|text_2-4=[[1975–76 UEFA Cup]]
+|color_16-18=red1|text_16-18=[[1975–76 Segunda Division]]
+
+|source=[http://www.lfp.es www.lfp.es]
+|date=July 2013
+}}
+
+====Matches====
+{{footballbox collapsible
+|date=07 September 1974 
+|round=1 
+|team1=[[Real Sociedad]]
+|team2=FC Barcelona
+|score=3-2
+|goals1=
+|goals2=
+|location=[[San Sebastián]]
+|stadium=[[Estadio Atocha|Atotxa]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=14 September 1974 
+|round=2 
+|team1=FC Barcelona
+|team2=[[CD Málaga]] 
+|score=5-0
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=29 September 1974
+|round=3 
+|team1=[[Sporting de Gijón]]
+|team2=FC Barcelona 
+|score=0-1
+|goals1=
+|goals2=
+|location=[[Gijón]]
+|stadium=[[Estadio El Molinon|El Molinon]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=06 October 1974 
+|round=4 
+|team1=FC Barcelona
+|team2=[[Valencia CF]] 
+|score=5-2
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=19 October 1974 
+|round=5 
+|team1=[[Hercules CF]]
+|team2=FC Barcelona 
+|score=0-0
+|goals1=
+|goals2=
+|location=[[Alicante]]
+|stadium=Jose Rico Perez
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=27 October 1974
+|round=6 
+|team1=FC Barcelona
+|team2=[[UD Salamanca]]
+|score= 3-1
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=01 November 1974 
+|round=7 
+|team1=[[Atlético Madrid]]
+|team2=FC Barcelona 
+|score=3-3
+|goals1=
+|goals2=
+|location=[[Madrid]]
+|stadium=[[Estadio Vicente Calderon|Vicente Calderon]]
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=10 November 1974 
+|round=8
+|team1=FC Barcelona
+|team2=[[UD Las Palmas]] 
+|score=3-2
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=24 November 1974 
+|round=9
+|team1=[[RCD Espanyol|Español]]
+|team2=FC Barcelona 
+|score=5-2
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Estadio Sarriá|Sarriá]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=01 December 1974 |team1=FC Barcelona|team2=[[Celta Vigo]] |score=4-0
+|round=10
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=08 December 1974 
+|team1=[[Real Betis]]
+|team2=FC Barcelona 
+|score=1-0
+|round=11
+|goals1=
+|goals2=
+|location=[[Seville]]
+|stadium=[[Estadio Benito Villamarin|Benito Villamarin]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=15 December 1974
+|team1=FC Barcelona
+|team2=[[Granada CF]]
+|score=2-1
+|round=12
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=22 December 1974 
+|team1=[[Elche CF]]
+|team2=FC Barcelona 
+|score=1-0
+|round=13
+|goals1=
+|goals2=
+|location=[[Elche]]
+|stadium=
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=29 December 1974  
+|team1=FC Barcelona
+|team2=[[Real Murcia]] 
+|score=3-1
+|round=14
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=05 January 1975 
+|team1=[[Real Madrid]]
+|team2=FC Barcelona
+|score=1-0
+|round=15
+|goals1=
+|goals2=
+|location=[[Madrid]]
+|stadium=[[Estadio Santiago Bernabeu|Santiago Bernabeu]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=12 January 1975 
+|team1=FC Barcelona
+|team2=[[Real Zaragoza]] 
+|score=2-2
+|round=16
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=19 January 1975 
+|team1=[[Athletic Bilbao]]
+|team2=FC Barcelona 
+|score=1-0
+|round=17
+|goals1=
+|goals2=
+|location=[[Bilbao]]
+|stadium=[[San Mamés Stadium (1913)|San Mamés]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=26 January 1975 
+|team1=FC Barcelona
+|team2=[[Real Sociedad]] 
+|score=2-0
+|round=18
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=09 February 1975 
+|team1=[[CD Málaga]]
+|team2=FC Barcelona
+|score=3-2
+|round=19
+|goals1=
+|goals2=
+|location=[[Málaga]]
+|stadium=[[Estadio La Rosaleda|La Rosaleda]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=16 February 1975 
+|team1=FC Barcelona
+|team2=[[Sporting de Gijón]] 
+|score=1-1
+|round=20
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=23 February 1975  
+|team1=[[Valencia CF]]
+|team2=FC Barcelona
+|score=1-0
+|round=21
+|goals1=
+|goals2=
+|location=[[Valencia]]
+|stadium=[[Estadio Mestalla|Luis Casanova]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=01 March 1975 
+|team1=FC Barcelona
+|team2=[[Hercules CF]]
+|score=0-0
+|round=22
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=09 March 1975 
+|team1=[[UD Salamanca]]
+|team2=FC Barcelona 
+|score=1-0
+|round=23
+|goals1=
+|goals2=
+|location=[[Villares de la Reina]]
+|stadium=[[Helmántico Stadium|El Helmántico]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=16 March 1975
+|team1=FC Barcelona
+|team2=[[Atlético Madrid]] 
+|score=1-0
+|round=24
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=22 March 1975 
+|team1=[[UD Las Palmas]]
+|team2=FC Barcelona 
+|score=1-0
+|round=25
+|goals1=
+|goals2=
+|location=[[Las Palmas]]
+|stadium=[[Estadio Insular|Insular]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=30 March 1975
+|team1=FC Barcelona
+|team2=[[RCD Espanyol|Español]]
+|score=4-1
+|round=26
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=06 April 1975 
+|team1=[[Celta Vigo]]
+|team2=FC Barcelona 
+|score=1-0
+|round=27
+|goals1=
+|goals2=
+|location=[[Vigo]]
+|stadium=[[Estadio Balaidos|Balaidos]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=19 April 1975
+|team1=FC Barcelona
+|team2=[[Real Betis]] 
+|score=3-0
+|round=28
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=27 April 1975 
+|team1=[[Granada CF]]
+|team2=FC Barcelona 
+|score=1-2
+|round=29
+|goals1=
+|goals2=
+|location=[[Granada]]
+|stadium=
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=30 April 1975 
+|team1=FC Barcelona
+|team2=[[Elche CF]] 
+|score=0-0
+|round=30
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=04 May 1975 
+|team1=[[Real Murcia]]
+|team2=FC Barcelona
+|score=0-2
+|round=31
+|goals1=
+|goals2=
+|location=[[Murcia]]
+|stadium=
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=11 May 1975 
+|team1=FC Barcelona
+|team2=[[Real Madrid]] 
+|score=0-0
+|round=32
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=18 May 1975 
+|team1=[[Real Zaragoza]]
+|team2=FC Barcelona 
+|score=2-1
+|round=33
+|goals1=
+|goals2=
+|location=[[Zaragoza]]
+|stadium=[[La Romareda]]
+|attendance=
+|referee=
+|result=L
+}}
+{{footballbox collapsible
+|date=25 May 1975 
+|team1=FC Barcelona
+|team2=[[Athletic Bilbao]] 
+|score=4-0
+|round=34
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+
+===Copa del Generalisimo===
+{{main|1974-75 Copa del Generalisimo}}
+====Eightfinals====
+{{footballbox collapsible
+|date=31 May 1975  
+|round=1 
+|team1=[[UE Sant Andreu]]
+|team2=FC Barcelona 
+|score=1-2
+|goals1=
+|goals2=
+|location=
+|stadium=
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=04 June 1975 
+|round=2 
+|team1=FC Barcelona
+|team2=[[UE Sant Andreu]] 
+|score=1-0
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+====Quarterfinals====
+{{footballbox collapsible
+|date=08 June 1975 
+|round=1
+|team1=FC Barcelona
+|team2=[[Real Zaragoza]]
+|score=0-0
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=14 June 1975 
+|round=2
+|team1=[[Real Zaragoza]]
+|team2=FC Barcelona
+|score=1-0
+|goals1=
+|goals2=
+|location=[[Zaragoza]]
+|stadium=[[La Romareda]]
+|attendance=
+|referee=
+|result=L
+}}
+
+===European Cup===
+{{main|1974-75 European Cup}}
+====First round====
+{{footballbox collapsible
+|date=18 September 1974 
+|round=1 
+|team1=[[FC Linz]]{{flagicon|AUT}}
+|team2={{flagicon|ESP|1945}} FC Barcelona 
+|score=0-0
+|goals1=
+|goals2=
+|location=[[Linz]]
+|stadium=
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=02 October 1974 
+|round=2 
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|AUT}} [[FC Linz]] 
+|score=5-0
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+
+====Eightfinals====
+{{footballbox collapsible
+|date=22 October 1974
+|round=1
+|team1=[[Feyenoord]] {{flagicon|NED}}
+|team2={{flagicon|ESP|1945}}FC Barcelona
+|score=0-0
+|goals1=
+|goals2=
+|location=[[Rotterdam]]
+|stadium=
+|attendance=
+|referee=
+|result=D
+}}
+{{footballbox collapsible
+|date=05 November 1974 
+|round=2
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|NED}} [[Feyenoord]] 
+|score=3-0
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+====Quarterfinals====
+{{footballbox collapsible
+|date=04 March 1975 
+|round=1
+|team1=FC Barcelona {{flagicon|ESP|1945}}
+|team2={{flagicon|SWE}} [[Atvidabergs FF]]
+|score= 2-0
+|goals1=
+|goals2=
+|location=[[Barcelona]]
+|stadium=[[Camp Nou]]
+|attendance=
+|referee=
+|result=W
+}}
+{{footballbox collapsible
+|date=11 March 1975 
+|round=2
+|team1=[[Atvidabergs FF]] {{flagicon|SWE}}
+|team2={{flagicon|ESP|1945}} FC Barcelona
+|score=0-3
+|goals1=
+|goals2=
+|location=[[Åtvidaberg]]
+|stadium=[[Kopparvallen]]
+|attendance=
+|referee=
+|result=W
+}}
+
+====Semifinals====
+{{footballbox collapsible
+|date=9 April 1975
+|round=1
+|time=
+|team1=[[Leeds United F.C.|Leeds United]] {{flagicon|ENG}}
+|score=2–1
+|report=[https://www.uefa.com/uefachampionsleague/match/63267--leeds-vs-barcelona/ Report]
+|team2={{flagicon|ESP}} FC Barcelona
+|goals1=[[Billy Bremner|Bremner]] {{goal|9}}<br />[[Allan Clarke (footballer)|Clarke]] {{goal|78}}
+|goals2={{goal|66}} [[Juan Manuel Asensi|Asensi]] 
+|stadium=[[Elland Road]]|location= [[Leeds]]
+|attendance=50,393
+|referee={{flagicon|BEL}} [[Vital Loraux]] 
+|result=L
+}}
+{{footballbox collapsible
+|date=23 April 1975
+|time=
+|round=2
+|team1=FC Barcelona {{flagicon|ESP}}
+|score=1–1
+|report=[https://www.uefa.com/uefachampionsleague/match/63268--barcelona-vs-leeds/ Report]
+|team2={{flagicon|ENG}} [[Leeds United F.C.|Leeds United]]
+|goals1=[[Manuel Clares|Clares]] {{goal|69}}
+|goals2={{goal|7}} [[Peter Lorimer|Lorimer]] 
+|stadium=[[Camp Nou]]|location= [[Barcelona]]
+|attendance=100,000<ref>{{UEFA match attendance|63268|Barcelona v Leeds United, 23 April 1975|access-date=16 March 2022}}</ref>
+|referee={{flagicon|Austria}} [[Erich Linemayr]] 
+|result=D
+}}
+
+==Statistics==
+===Player statistics===
+{{Efs start|[[1974-75 La Liga|Primera Division]]|[[1974-75 European Cup|European Cup]]|[[1974-75 Copa del Generalisimo|Copa]]}}
+{{Efs player|no=1|pos=GK|nat=ESP|natvar=1945|name=[[Salvador Sadurní]]|24|-19|4+1|-3|4|-2}}
+{{Efs player|no=2|pos=DF|nat=ESP|natvar=1945|name=[[Joaquim Rifé]]|24+3|0|6+2|0|4|0}}
+{{Efs player|no=4|pos=DF|nat=ESP|natvar=1945|name=[[Migueli]]|28+1|2|6|0|4|0}}
+{{Efs player|no=5|pos=DF|nat=ESP|natvar=1945|name=[[Jesús Antonio de la Cruz|Antonio de la Cruz]]|29|2|8|0|1|0}}
+{{Efs player|no=4|pos=DF|nat=ESP|natvar=1945|name=[[Enrique Álvarez Costas|Quique Costas]]|24|1|5|0|0|0}}
+{{Efs player|no=6|pos=MF|nat=NED|name=[[Johan Neeskens]]|27|7|7|1|0|0}}
+{{Efs player|no=10|pos=MF|nat=ESP|natvar=1945|name=[[Juan Manuel Asensi]]|	26+1	|5	|7	|3	|4	|0}}
+{{Efs player|no=11|pos=MF|nat=ESP|natvar=1945|name=[[Marcial Pina]]|21	|6	|2	|0	|4	|1}}
+{{Efs player|no=7|pos=FW|nat=ESP|natvar=1945|name=[[Carles Rexach]]|30+1	|6	|7	|4	|1	|0}}
+{{Efs player|no=9|pos=FW|nat=NED|natvar=1945|name=[[Johan Cruyff]]|30	|7	|8	|0	|0	|0}}
+{{Efs player|no=11|pos=FW|nat=ESP|natvar=1945|name=[[Manuel Clares]]|27+2	|10	|6+1	|4	|4	|2}}
+{{Efs player|no=13|pos=GK|nat=ESP|natvar=1945|name=[[Pere Valentí Mora]]|10|-17|4|-0|0|-0}}
+{{Efs player|no=3|pos=DF|nat=BRA|name=[[Marinho Peres]]|17|3|4|1|4|0}}
+{{Efs player|no=8|pos=MF|nat=ESP|natvar=1945|name=[[Juan Carlos (footballer, born 1945)|Juan Carlos Pérez]]|16+11|	2|	4+2|	1|	4|	0}}
+{{Efs player|no=3|pos=DF|nat=ESP|natvar=1945|name=[[Antoni Torres]]|13+2|0|4|0|0|0}}
+{{Efs player|no=11|pos=FW|nat=ARG|name=[[Juan Carlos Heredia]]|8+1|1|2|0|2|0}}
+{{Efs player|no=12|pos=DF|nat=ESP|natvar=1945|name=[[Gallego (footballer)|Gallego]]|9+7|0|4+2|1|0|0}}
+{{Efs player|no=15|pos=DF|nat=ESP|natvar=1945|name=[[José Joaquín Albaladejo]]|4|0|0+1|0|4|0}}
+{{Efs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[Cuchi Cos]]|2+6|1|0|0|3|0}}
+{{Efs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[Josep Maria Pérez]]|2+1|0|0|0|0+1|0}}
+{{Efs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[Narcís Martí Filosia]]|2+2	|0	|0	|0	|0|0}}
+{{Efs player|no=|pos=DF|nat=ESP|natvar=1945|name=[[Manuel Tome]]|1+2|0|0|0|3|0}}	
+{{Efs player|no=|pos=MF|nat=ESP|natvar=1945|name=[[José Cirilo Macizo]]|0+4	|0	|0	|0	|0	|0}}
+{{Efs player|no=|pos=FW|nat=ESP|natvar=1945|name=[[Rusky]]|0|0|0|0|2+1|0}}
+{{Efs player|no=|pos=FW|nat=Peru|name=[[Hugo Sotil]]}}
+{{Efs player|no=|pos=FW|nat=Bolivia|name=[[Pedro Arcaida]]}}
+{{Efs end|date=August 2024|source=}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{webarchive |url=http://webarchive.loc.gov/all/20100823140730/http://www.fcbarcelona.cat/web/english/ |title=FC Barcelona official website |date=2010-08-23}}
+*[http://www.webdelcule.com/1899-96/1970-1975.html webdelcule.com]
+
+{{FC Barcelona seasons}}
+{{1974–75 in Spanish football}}
+
+{{DEFAULTSORT:1974-75 FC Barcelona season}}
+[[Category:FC Barcelona seasons]]
+[[Category:Spanish football clubs 1974–75 season|Barcelona]]
