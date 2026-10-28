@@ -6,7 +6,7 @@
   const index = await d3.json("data/index.json");
   const byId = new Map(index.rivalries.map((r) => [r.id, r]));
   const COLOR = { a: "var(--team-a)", b: "var(--team-b)", d: "var(--draw)" };
-  const STAGES = [["league", "League"], ["state", "State championships"], ["regional", "Interstate tournaments"], ["cup", "Domestic cups"],
+  const STAGES = [["league", "League"], ["local", "Local leagues"], ["state", "State championships"], ["regional", "Interstate tournaments"], ["cup", "Domestic cups"],
     ["super", "Super cups"], ["intl", "International"], ["all", "Every meeting"]];
   const COUNTRIES = ["ARG", "URU", "BRA", "ENG", "ESP", "ITA", "FRA", "GER"].filter((c) => index.groups.some((g) => g.country === c));
   const fmtDate = d3.utcFormat("%-d %b %Y");

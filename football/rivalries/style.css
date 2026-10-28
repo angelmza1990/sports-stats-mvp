@@ -684,3 +684,26 @@
     display: none;
   }
 }
+
+/* Long competition names (Copa de Honor "Municipalidad de la Ciudad de Buenos Aires") on phones */
+#comp-table {
+  overflow-x: auto;
+}
+
+#match-comp {
+  max-width: 100%;
+  min-width: 0;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 560px) {
+  #comp-table th,
+  #comp-table td {
+    padding: 8px 5px;
+  }
+
+  #comp-table td:first-child {
+    overflow-wrap: anywhere;
+    min-width: 7em;
+  }
+}

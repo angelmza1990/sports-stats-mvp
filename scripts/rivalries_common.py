@@ -77,12 +77,12 @@ def iso(y: int, m: int, d: int) -> str:
 
 
 def parse_date(text: str) -> str | None:
-    """Spanish, Portuguese, Italian and English dates, dd/mm/yyyy and dd.mm.yyyy."""
+    """Spanish, Portuguese, Italian and English dates, dd/mm/yyyy, dd.mm.yyyy and dd-mm-yyyy."""
     t = W.plain(text).lower().replace("º", "").replace("°", "")
     m = re.search(r"\b(\d{4})-(\d{2})-(\d{2})\b", t)
     if m:
         return iso(int(m.group(1)), int(m.group(2)), int(m.group(3)))
-    m = re.search(r"(\d{1,2})[/.](\d{1,2})[/.](\d{4})", t)
+    m = re.search(r"(\d{1,2})[/.-](\d{1,2})[/.-](\d{4})", t)
     if m:
         return iso(int(m.group(3)), int(m.group(2)), int(m.group(1)))
     m = re.search(r"(\d{1,2})\s+(?:de\s+)?([a-zçéã]+)\.?\s+(?:de\s+)?(\d{4})", t)

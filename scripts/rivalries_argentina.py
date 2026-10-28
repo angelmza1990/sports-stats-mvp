@@ -9,7 +9,7 @@ import time
 import urllib.request
 
 from rivalries_common import (ES_ROUNDS, RAW, ROOT, W, Pair, bold, en_team, fetch_url, find, fold, football_season,  # noqa: F401
-                              footballboxes, goals_text, iso, label_index, page, parse_date, score_of, shootout)
+                              footballboxes, goals_text, iso, label_index, page, parse_date, record, score_of, shootout)
 
 
 # ---------------------------------------------------------------- Superclásico
@@ -754,3 +754,218 @@ def data_title(cfg: dict) -> str:
     names = {RIVER: "River Plate", BOCA: "Boca Juniors", INDEPENDIENTE: "Independiente", RACING: "Racing Club", SAN_LORENZO: "San Lorenzo"}
     a, b = cfg["codes"].values()
     return f"{names[a]} vs {names[b]}"
+
+
+# ---------------------------------------------------------------- The provincial and southern derbies
+
+# Spanish Wikipedia lists every match of these four, section by section: the local league (Rosario, Santa Fe,
+# Córdoba) and its cups, the AFA's championships and cups, CONMEBOL cups and friendlies. Each section's own
+# "Victorias de …" summary is checked against the rows read from it.
+
+NEWELLS, CENTRAL = "newell-s-old-boys", "rosario-central"
+LANUS, BANFIELD = "lanus", "banfield"
+COLON, UNION = "colon", "union"
+TALLERES, BELGRANO = "talleres-c", "belgrano"
+DERBY_ALIASES = {NEWELLS: ("newell",), CENTRAL: ("central",), LANUS: ("lanus",), BANFIELD: ("banfield",),
+                 COLON: ("colon",), UNION: ("union",), TALLERES: ("talleres",), BELGRANO: ("belgrano",)}
+# (heading, stage): "local" for the city leagues and their cups, None to classify each row by its competition.
+DERBIES = {
+    "newells-central": {"es": "Clásico rosarino", "sections": [
+        (r"==== Campeonatos locales ====", "local"), (r"==== Copas locales ====", "local"),
+        (r"=== Partidos oficiales por torneos de la Federación Santafesina de Fútbol ===", "local"),
+        (r"==== Campeonatos nacionales ====", None), (r"==== Copas nacionales ====", "cup"),
+        (r"=== Partidos oficiales por torneos de la Confederación Sudamericana de Fútbol ===", "intl")],
+        "friendlies": r"=== Amistosos ===", "scorers": r"=== Máximos goleadores ===",
+        "apps": r"=== Mayor cantidad de partidos disputados ==="},
+    "lanus-banfield": {"es": "Clásico del Sur (Argentina)", "sections": [
+        (r"==== Amateurismo ====", None), (r"==== Profesionalismo ====", None)],
+        "scorers": r"== Goleadores =="},
+    "colon-union": {"es": "Clásico santafesino", "sections": [
+        (r"=== Liga Santafesina \(1913-1939\) ===[\s\S]*?==== Campeonatos de Primera División ====", "local"),
+        (r"==== Torneos de Copa ====", "local"),
+        (r"==== Campeonatos de Segunda División ====", "league"), (r"==== Torneos de Copa de Segunda División ====", "cup"),
+        (r"=== Asociación del Fútbol Argentino \(1948-\) ===[\s\S]*?==== Campeonatos de Primera División ====", "league"),
+        (r"==== Torneos de Copa de Primera División ====", "cup")],
+        "friendlies": r"=== Amistosos", "scorers": r"==== Tabla histórica de goleadores ====",
+        "apps": r"==== Jugadores con mayor cantidad"},
+    "talleres-belgrano": {"es": "Clásico cordobés", "sections": [
+        (r"===== Campeonatos de Primera División =====", "local"), (r"===== Torneos Extras =====", "local"),
+        (r"==== Asociación del Fútbol Argentino \(1974-act\.\) ====", None)],
+        "scorers": r"==== Máximos goleadores \(oficiales\) ====", "apps": r"==== Más presencias ===="},
+}
+LOCAL_NAMES = {"newells-central": "Liga Rosarina", "colon-union": "Liga Santafesina", "talleres-belgrano": "Liga Cordobesa"}
+
+
+def section_text(text: str, heading: str) -> str:
+    m = re.search(heading, text)
+    if not m:
+        raise LookupError(f"section not found: {heading}")
+    rest = text[m.end():]
+    end = re.search(r"\n=+\s*[^=\n]+?\s*=+\s*\n", rest)
+    return rest[:end.start()] if end else rest
+
+
+def derby_stage(comp: str) -> str:
+    c = fold(comp)
+    if re.search(r"libertadores|sudamericana|conmebol|mercosur|supercopa sud", c):
+        return "intl"
+    if re.search(r"^copa|torneo de honor|trofeo", c) and not re.search(r"copa campeonato|copa de la liga", c):
+        return "cup"
+    return "league"
+
+
+def derby_rows(text: str, pair: Pair, stage: str | None, friendly: bool = False) -> tuple[list[dict], dict, int]:
+    """Rows of every table in a section, read by their headers; also the section's own summary and the rows
+    without a result (walkovers, missing data)."""
+    out, summary, skipped = [], {}, 0
+    for grid in W.all_tables("\n" + text):
+        if grid and W.plain(grid[0][0]["text"]).lower().startswith("victorias"):
+            for r in grid:
+                lab, val = fold(W.plain(r[0]["text"])), W.number(r[1]["text"]) if len(r) > 1 else None
+                key = "d" if lab.startswith("empate") else pair.team(lab)
+                if key and val is not None:
+                    summary[key] = val
+            continue
+        head = grid[0]
+        labels = [re.sub(r"^[!|\s]+", "", W.plain(c["text"])).strip().lower() for c in head]
+        if not any(lab.startswith("local") for lab in labels):
+            continue
+        idx = lambda *names: next((i for i, lab in enumerate(labels) if lab.startswith(names)), None)  # noqa: E731
+        i_home, i_away, i_score = idx("local"), idx("visitante"), idx("resultado")
+        i_comp = idx("competencia", "torneo", "competición")
+        i_round = idx("instancia", "ronda")
+        # The date is the first column unless that is a running number; another "Fecha" is the matchday.
+        fechas = [i for i, lab in enumerate(labels) if lab.startswith("fecha")]
+        numbered = labels[0] in ("#", "n.º", "nº", "no.", "n°")
+        i_date = fechas[0] if numbered and fechas else 0
+        matchday = [i for i in fechas if i != i_date]
+        if i_round is None and matchday:
+            i_round = matchday[0]
+        i_leg = i_round + 1 if i_round is not None and i_round + 1 < len(labels) and labels[i_round + 1] == labels[i_round] else None
+        i_venue, i_gh, i_ga = idx("estadio"), idx("goles (l)"), idx("goles (v)")
+        for r in grid[1:]:
+            if len(r) <= max(i_home, i_away, i_score):
+                continue
+            d = parse_date(r[i_date]["text"])
+            home, away = pair.team(r[i_home]["text"]), pair.team(r[i_away]["text"])
+            sc = score_of(r[i_score]["text"])
+            if not home or not away or home == away:
+                continue
+            # A walkover: "GP–PP" (the home side won the points) or "PP–GP"; "PP–PP" means both lost them.
+            wo = re.search(r"\b([GP]P)\s*[–-]\s*([GP]P)\b", W.plain(r[i_score]["text"]))
+            if wo and wo.group(1) != wo.group(2):
+                sc = (1, 0) if wo.group(1) == "GP" else (0, 1)
+            if not d or not sc:
+                skipped += 1
+                continue
+            comp = W.plain(r[i_comp]["text"]) if i_comp is not None else ""
+            comp = re.sub(r"\s*\(\s*\)|\s*\d{4}(?:[-–/]\d{2,4})?\s*$", "", comp).strip() or comp
+            comp = re.sub(r"\s*\d{4}(?:[-–/]\d{2,4})?\s*$", "", comp).strip() or comp
+            rnd = W.plain(r[i_round]["text"]) if i_round is not None else ""
+            leg = W.plain(r[i_leg]["text"]) if i_leg is not None and r[i_leg] is not r[i_round] else ""
+            st = "friendly" if friendly else stage or derby_stage(comp)
+            m = {"date": d, "comp": comp or "Friendly", "stage": st, "home": home, "away": away, "hs": sc[0], "as": sc[1],
+                 "goalsHome": goals_text(r[i_gh]["text"]) if i_gh is not None else "",
+                 "goalsAway": goals_text(r[i_ga]["text"]) if i_ga is not None else ""}
+            if i_venue is not None:
+                m["venue"] = W.plain(r[i_venue]["text"])
+            low = fold(rnd).replace("8avos", "octavos").replace("4tos", "cuartos")
+            matchday = re.search(r"fecha|rueda|^f\.\s*\d|^\d+\.?(?:ª|a)?$", low)
+            if st in ("cup", "intl", "local") and not matchday and rnd:
+                m["round"] = ES_ROUNDS.get(low, next((v for k, v in ES_ROUNDS.items() if low.startswith(k)), rnd))
+                if "ida" == fold(leg) or low.endswith(" ida"):
+                    m["leg"] = "first leg"
+                elif "vuelta" == fold(leg) or low.endswith(" vuelta"):
+                    m["leg"] = "second leg"
+                elif "desempate" in fold(leg) or "desempate" in low:
+                    m["leg"] = "replay"
+            pens = shootout(r[i_score]["text"])
+            p_first = re.search(r"\(\s*p\.?\s*(\d+)\s*[-–]\s*(\d+)\s*\)", W.plain(r[i_score]["text"]))  # "0–0 (p. 3-5)"
+            if p_first:
+                pens = (int(p_first.group(1)), int(p_first.group(2)))
+            if pens:
+                m["pens"] = list(pens)
+            if wo and wo.group(1) != wo.group(2):
+                m["decided"] = "Walkover: the points were awarded, counted as a 1–0 win"
+            out.append(m)
+    return out, summary, skipped
+
+
+def derby_leaders(text: str, heading: str, key: str, pair: Pair) -> list[dict]:
+    """#, Jugador, Equipo, then per-competition columns and a Total: a triple of Total columns is
+    (games, goals, average); a single one is the value. Smaller tables give it as Goles, Cantidad or Partidos."""
+    try:
+        grid = W.parse_table(W.find_table(text, heading))
+    except LookupError:
+        return []
+    labels = [W.plain(c["text"]).strip().lower() for c in grid[0]]
+    i_name = next((i for i, lab in enumerate(labels) if lab.startswith("jugador")), None)
+    i_team = next((i for i, lab in enumerate(labels) if lab.startswith("equipo")), None)
+    totals = [i for i, lab in enumerate(labels) if lab.startswith("total")]
+    if len(totals) >= 3:
+        i_val = totals[1] if key == "goals" else totals[0]
+    elif totals:
+        i_val = totals[0]
+    else:
+        i_val = next((i for i, lab in enumerate(labels) if lab.startswith(("goles", "cantidad", "partidos"))), None)
+    if None in (i_name, i_team, i_val):
+        return []
+    out = []
+    for r in grid[1:]:
+        if len(r) <= max(i_name, i_team, i_val):
+            continue
+        name = W.person(re.sub(r"\{\{\s*(?:bandera|flagicon|band)[^{}]*\}\}|\[\[(?:Archivo|File|Imagen):[^\]]*\]\]", "", r[i_name]["text"]))
+        raw = fold(W.plain(r[i_team]["text"]) + " " + r[i_team]["text"])
+        teams = {cid for cid, names in pair.names if any(n in raw for n in names)}
+        val = W.number(r[i_val]["text"])
+        if name and teams and val:
+            out.append({"name": name.replace("''", "").strip(), "team": "both" if len(teams) == 2 else teams.pop(), key: val})
+    return sorted(out, key=lambda o: -o[key])
+
+
+def derby(key: str, a: str, b: str):
+    cfg = DERBIES[key]
+
+    def builder(refresh: bool) -> dict:
+        pair = Pair(a, DERBY_ALIASES[a], b, DERBY_ALIASES[b])
+        text = page(cfg["es"], refresh, "es")
+        matches, missing, since = [], 0, []
+        for heading, stage in cfg["sections"]:
+            rows, summary, skipped = derby_rows(section_text(text, heading), pair, stage)
+            missing += skipped
+            since += rows
+            # A section's summary covers every section since the previous summary.
+            if summary:
+                got = record({"teams": [{"id": a}, {"id": b}], "matches": since})
+                if (summary.get(a), summary.get("d"), summary.get(b)) != (got["a"], got["d"], got["b"]):
+                    print(f"note: {cfg['es']} up to {heading[:40]}: summary {summary}, rows {got['a']}-{got['d']}-{got['b']}",
+                          file=sys.stderr)
+                since = []
+            if stage == "local":
+                for m in rows:
+                    m["comp"] = m["comp"] if re.search(r"liga|copa|torneo", m["comp"], re.I) else f"{LOCAL_NAMES[key]}: {m['comp']}"
+            matches += rows
+        for m in matches:
+            if m["stage"] == "league":
+                m["comp"] = "Segunda División" if re.search(r"segunda|intermedia|ascenso|nacional b|primera b", m["comp"], re.I) else "Primera División"
+            if m["stage"] == "local" and (not re.search(r"copa|torneo|trofeo", m["comp"], re.I) or re.match(r"copa campeonato", m["comp"], re.I)):
+                m["comp"] = LOCAL_NAMES[key]
+        friendlies = []
+        if cfg.get("friendlies"):
+            friendlies, _, _ = derby_rows(section_text(text, cfg["friendlies"]), pair, None, friendly=True)
+        url = "https://es.wikipedia.org/wiki/" + cfg["es"].replace(" ", "_")
+        notes = ["Matches decided on penalties count as draws; the shoot-out decides only who went through."]
+        if missing:
+            notes.append(f"{missing} official matches the source lists without a date or a result (walkovers, awarded points or "
+                         "missing data) are left out.")
+        if key in LOCAL_NAMES:
+            notes.append(f"Official matches include the {LOCAL_NAMES[key]}'s championships and cups, as the source counts them.")
+        data = {"matches": matches, "friendlies": friendlies, "source": {"label": f"Spanish Wikipedia, {cfg['es']}", "url": url},
+                "notes": notes}
+        if cfg.get("scorers"):
+            data["scorers"] = derby_leaders(text, cfg["scorers"], "goals", pair)
+        if cfg.get("apps"):
+            data["appearances"] = derby_leaders(text, cfg["apps"], "apps", pair)
+        return data
+
+    return builder

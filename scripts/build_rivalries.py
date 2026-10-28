@@ -44,6 +44,10 @@ COLORS = {
     "independiente-racing": ("#d33a3c", "#0a96d6", "#e54c4a", "#0a96d6"),
     "independiente-san-lorenzo": ("#d33a3c", "#3845bf", "#e54c4a", "#4252cd"),
     "racing-san-lorenzo": ("#0a96d6", "#3845bf", "#0a96d6", "#4252cd"),
+    "newells-central": ("#d33a3c", "#245fd4", "#e54c4a", "#245fd4"),
+    "lanus-banfield": ("#9e024a", "#05ab58", "#e85082", "#098b47"),
+    "colon-union": ("#a20519", "#e04e24", "#ed5350", "#af2f02"),
+    "talleres-belgrano": ("#3845bf", "#0a96d6", "#4252cd", "#0a96d6"),
     "madrid-barcelona": ("#824fcf", "#b21557", "#824fcf", "#e85082"),
     "madrid-atletico": ("#824fcf", "#d33a3c", "#824fcf", "#e54c4a"),
     "barcelona-atletico": ("#245fd4", "#d33a3c", "#245fd4", "#e54c4a"),
@@ -87,7 +91,11 @@ COLORS = {
 }
 
 GROUPS = [
-    {"id": "arg", "country": "ARG", "name": "Argentina", "label": "The big five"},
+    {"id": "arg", "country": "ARG", "name": "Argentina", "region": "The big five", "label": "The big five"},
+    {"id": "arg-ros", "country": "ARG", "name": "Argentina", "region": "Rosario", "label": ""},
+    {"id": "arg-sur", "country": "ARG", "name": "Argentina", "region": "South of Buenos Aires", "label": ""},
+    {"id": "arg-sfe", "country": "ARG", "name": "Argentina", "region": "Santa Fe", "label": ""},
+    {"id": "arg-cba", "country": "ARG", "name": "Argentina", "region": "Córdoba", "label": ""},
     {"id": "uru", "country": "URU", "name": "Uruguay", "label": ""},
     {"id": "esp", "country": "ESP", "name": "Spain", "region": "The big three", "label": "Spain's big three"},
     {"id": "esp-and", "country": "ESP", "name": "Spain", "region": "Andalusia", "label": ""},
@@ -121,6 +129,14 @@ DORTMUND = {"id": "borussia-dortmund", "name": "Borussia Dortmund", "short": "Do
 INDEPENDIENTE = {"id": "independiente", "name": "Independiente", "short": "Independiente"}
 RACING = {"id": "racing", "name": "Racing Club", "short": "Racing"}
 SAN_LORENZO = {"id": "san-lorenzo", "name": "San Lorenzo", "short": "San Lorenzo"}
+NEWELLS = {"id": "newell-s-old-boys", "name": "Newell's Old Boys", "short": "Newell's"}
+CENTRAL = {"id": "rosario-central", "name": "Rosario Central", "short": "Central"}
+LANUS = {"id": "lanus", "name": "Lanús", "short": "Lanús"}
+BANFIELD = {"id": "banfield", "name": "Banfield", "short": "Banfield"}
+COLON = {"id": "colon", "name": "Colón", "short": "Colón"}
+UNION = {"id": "union", "name": "Unión", "short": "Unión"}
+TALLERES = {"id": "talleres-c", "name": "Talleres", "short": "Talleres"}
+BELGRANO = {"id": "belgrano", "name": "Belgrano", "short": "Belgrano"}
 PALMEIRAS = {"id": "palmeiras", "name": "Palmeiras", "short": "Palmeiras"}
 SAO_PAULO = {"id": "sao-paulo", "name": "São Paulo", "short": "São Paulo"}
 CORINTHIANS = {"id": "corinthians", "name": "Corinthians", "short": "Corinthians"}
@@ -170,6 +186,13 @@ RIVALRIES = [
       AR.big_five("independiente-san-lorenzo", "independiente", "san-lorenzo"), 213, leaders=False),
     R("racing-san-lorenzo", "Racing vs San Lorenzo", "Racing Club vs San Lorenzo", "arg", RACING, SAN_LORENZO,
       AR.big_five("racing-san-lorenzo", "racing", "san-lorenzo"), 211, leaders=False),
+    R("newells-central", "Clásico rosarino", "Newell's Old Boys vs Rosario Central", "arg-ros", NEWELLS, CENTRAL,
+      AR.derby("newells-central", "newell-s-old-boys", "rosario-central"), 279),
+    R("lanus-banfield", "Clásico del Sur", "Lanús vs Banfield", "arg-sur", LANUS, BANFIELD,
+      AR.derby("lanus-banfield", "lanus", "banfield"), 133, leaders="scorers"),
+    R("colon-union", "Clásico santafesino", "Colón vs Unión", "arg-sfe", COLON, UNION, AR.derby("colon-union", "colon", "union"), 158),
+    R("talleres-belgrano", "Clásico cordobés", "Talleres vs Belgrano", "arg-cba", TALLERES, BELGRANO,
+      AR.derby("talleres-belgrano", "talleres-c", "belgrano"), 260),
     R("penarol-nacional", "Uruguayan Clásico", "Peñarol vs Nacional", "uru", PENAROL, NACIONAL, UY.build_clasico, 431,
       leaders="scorers"),
     R("madrid-barcelona", "El Clásico", "Real Madrid vs Barcelona", "esp", MADRID, BARCA, ES.build_clasico, 265),
