@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Great Rivalries · Football</title>
-  <meta name="description" content="Every official match of four great football rivalries: River Plate vs Boca Juniors, Real Madrid vs Barcelona, Inter vs Milan and Liverpool vs Manchester United. Head to head, the record over time, results, knockout ties, finals, top scorers and friendlies.">
+  <meta name="description" content="The great football rivalries between the biggest clubs of Argentina, Brazil, England, Spain, Italy, France and Germany: every official match, the head to head over time, results, knockout ties, finals, top scorers and friendlies.">
   <link rel="stylesheet" href="../../assets/theme.css">
   <link rel="stylesheet" href="../../assets/viz.css">
   <link rel="stylesheet" href="../football.css">
@@ -16,10 +16,12 @@
     <p class="kicker"><a href="../../">Sports Stats</a> · Football</p>
     <h1>Great Rivalries</h1>
     <p class="lede">
-      Every official match of four of football's great rivalries, from the first one to the latest: who leads the head to head and how the lead has changed hands,
-      the results that keep repeating, every knockout tie and final between them, and the players who defined them.
+      The great rivalries between the biggest clubs of Argentina, Brazil, England, Spain, Italy, France and Germany, from the first match to the latest:
+      who leads the head to head and how the lead has changed hands, the results that keep repeating, every knockout tie and final between them,
+      and the players who defined them.
     </p>
-    <div class="rivalry-picker" role="tablist" aria-label="Rivalry" id="picker"></div>
+    <div class="country-tabs" role="tablist" aria-label="Country" id="country-tabs"></div>
+    <div class="rivalry-picker" id="picker"></div>
   </header>
 
   <main class="wrap">
@@ -32,7 +34,17 @@
       <div class="stat-row" id="stats"></div>
     </section>
 
-    <div class="filter-bar">
+    <section class="block" id="group" hidden>
+      <div class="block-head">
+        <h2 id="group-title">Everyone against everyone</h2>
+        <p id="group-lede">Each club's official record against every other club of the group. Read across a row: wins, draws and losses. Select a pairing to open it.</p>
+      </div>
+      <div class="card">
+        <div class="scroll" id="group-matrix"></div>
+      </div>
+    </section>
+
+    <div class="filter-bar" id="view-bar">
       <span class="filter-label">Matches</span>
       <div class="segmented" role="tablist" aria-label="Matches" id="view-tabs"></div>
       <p class="filter-note" id="view-note"></p>
@@ -54,7 +66,7 @@
       <section class="block" id="competitions">
         <div class="block-head">
           <h2>Competition by competition</h2>
-          <p>The record in every competition they have met in, from the league to the continental cups.</p>
+          <p id="competitions-lede">The record in every competition they have met in, from the league to the continental cups.</p>
         </div>
         <div class="card">
           <div class="data-table" id="comp-table"></div>
@@ -158,11 +170,11 @@
 
       <section class="block" id="matches">
         <div class="block-head">
-          <h2>Every official match</h2>
-          <p>Most recent first. <span id="matches-count"></span></p>
+          <h2 id="matches-title">Every official match</h2>
+          <p><span id="matches-lede">Most recent first.</span> <span id="matches-count"></span></p>
         </div>
         <div class="card">
-          <div class="controls match-controls">
+          <div class="controls match-controls" id="match-controls">
             <select id="match-comp" aria-label="Competition"></select>
             <div class="segmented" role="tablist" aria-label="Result" id="match-result"></div>
           </div>

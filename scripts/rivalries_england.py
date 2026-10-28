@@ -107,7 +107,9 @@ def build_nwd(refresh: bool) -> dict:
         "appearances": lfc_leaders(refresh, "Top appearances", "apps"),
         "leadersByTeam": True,
         "source": {"label": "English Wikipedia, Liverpool F.C.–Manchester United F.C. rivalry",
-                   "url": "https://en.wikipedia.org/wiki/Liverpool_F.C.%E2%80%93Manchester_United_F.C._rivalry"},
+                   "url": "https://en.wikipedia.org/wiki/Liverpool_F.C.%E2%80%93Manchester_United_F.C._rivalry",
+                   "extra": [{"what": "top scorers and appearances", "label": "LFChistory.net", "url": LFC_URL}]},
+        "friendliesNote": "Wikipedia lists only the friendlies played since 2014.",
         "notes": [
             "Manchester United played as Newton Heath until 1902. Wartime matches are not counted.",
             "The sources publish only each club's top five scorers and appearance makers (LFChistory.net).",
@@ -504,7 +506,8 @@ def big_six(key: str, a: str, b: str):
                                     "the Charity / Community Shield list)", "url": "https://github.com/jalapic/engsoccerdata"},
                 "notes": ["League matches through 2024–25 and FA Cup, League Cup and European Cup matches through 2018–19 come from "
                           "engsoccerdata; later matches, with their scorers, from each club's season article on English Wikipedia.",
-                          "Wartime matches are not counted. Friendlies are listed only since 2018–19."]}
+                          "Wartime matches are not counted. Friendlies are listed only since 2018–19."],
+                "friendliesNote": "They are listed only since 2018–19, from the clubs' season articles."}
         title = ENG_PAGES.get(key)
         if title:
             text = page(title, refresh)

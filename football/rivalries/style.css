@@ -1,37 +1,124 @@
-/* Great Rivalries: each rivalry's two club colors (validated for light and dark), the head-to-head card and lists. */
+/* Great Rivalries: the country tabs, the rivalry cards, the group table, the head-to-head card and lists.
+   Each rivalry's two club colors come with its data (validated for light and dark next to the draw gray). */
 
 :root {
-  --team-a: #d6293e;
-  --team-b: #1f5fbf;
-  --draw: #9a9fa6;
+  --team-a: #d33a3c;
+  --team-b: #245fd4;
+  --draw: #b8bcc1;
 }
-
-body[data-rivalry="river-boca"] { --team-a: #d6293e; --team-b: #1f5fbf; }
-body[data-rivalry="madrid-barcelona"] { --team-a: #7b55c7; --team-b: #b3134a; }
-body[data-rivalry="inter-milan"] { --team-a: #1f5fbf; --team-b: #d6293e; }
-body[data-rivalry="liverpool-united"] { --team-a: #0f9e95; --team-b: #d8281c; }
 
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) { --draw: #7d8188; }
-  :root:not([data-theme="light"]) body[data-rivalry="river-boca"] { --team-a: #e5485c; --team-b: #3a78e0; }
-  :root:not([data-theme="light"]) body[data-rivalry="madrid-barcelona"] { --team-a: #9077dd; --team-b: #d6336c; }
-  :root:not([data-theme="light"]) body[data-rivalry="inter-milan"] { --team-a: #3a78e0; --team-b: #e5485c; }
-  :root:not([data-theme="light"]) body[data-rivalry="liverpool-united"] { --team-a: #12a196; --team-b: #ef4a3c; }
+  :root:not([data-theme="light"]) { --draw: #56595e; }
 }
 
-:root[data-theme="dark"] { --draw: #7d8188; }
-:root[data-theme="dark"] body[data-rivalry="river-boca"] { --team-a: #e5485c; --team-b: #3a78e0; }
-:root[data-theme="dark"] body[data-rivalry="madrid-barcelona"] { --team-a: #9077dd; --team-b: #d6336c; }
-:root[data-theme="dark"] body[data-rivalry="inter-milan"] { --team-a: #3a78e0; --team-b: #e5485c; }
-:root[data-theme="dark"] body[data-rivalry="liverpool-united"] { --team-a: #12a196; --team-b: #ef4a3c; }
+:root[data-theme="dark"] { --draw: #56595e; }
 
-/* Rivalry picker: four large tabs, two per row on phones. */
+/* Country tabs */
+
+.country-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.country-tabs button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font: inherit;
+  font-size: 15px;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 14px 6px 8px;
+  cursor: pointer;
+}
+
+.country-tabs button:hover {
+  border-color: var(--axis);
+}
+
+.country-tabs button[aria-selected="true"] {
+  border-color: var(--ink);
+  box-shadow: inset 0 0 0 1px var(--ink);
+  font-weight: 600;
+}
+
+.country-tabs .flag {
+  width: 22px;
+  height: 16px;
+  border-radius: 2px;
+  object-fit: cover;
+  box-shadow: 0 0 0 1px var(--border);
+}
+
+.country-tabs small {
+  color: var(--ink-muted);
+  font-size: 12px;
+}
+
+/* Rivalry cards: one per rivalry of the country, grouped by state in Brazil. */
 
 .rivalry-picker {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 8px;
   margin-bottom: 8px;
+}
+
+.picker-region {
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-2);
+  margin: 14px 0 6px;
+}
+
+.picker-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 8px;
+}
+
+#group-matrix {
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+@media (max-width: 560px) {
+  .picker-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 6px;
+  }
+
+  .rivalry-picker button {
+    padding: 8px 10px;
+  }
+
+  .rivalry-picker strong {
+    font-size: 15px;
+  }
+
+  .matrix-name {
+    display: none;
+  }
+
+  .matrix-club img,
+  .matrix-club .crest-badge {
+    margin-right: 0;
+  }
+
+  .matrix-pair {
+    min-width: 40px;
+  }
+
+  .matrix-pair .w {
+    font-size: 15px;
+  }
+
+  .matrix-total {
+    font-size: 12px;
+  }
 }
 
 .rivalry-picker button {
@@ -39,13 +126,14 @@ body[data-rivalry="liverpool-united"] { --team-a: #0f9e95; --team-b: #d8281c; }
   flex-direction: column;
   align-items: flex-start;
   gap: 6px;
+  min-width: 0;
   text-align: left;
   font: inherit;
   color: var(--ink);
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 12px;
-  padding: 12px 14px;
+  padding: 10px 12px;
   cursor: pointer;
 }
 
@@ -66,21 +154,109 @@ body[data-rivalry="liverpool-united"] { --team-a: #0f9e95; --team-b: #d8281c; }
 
 .rivalry-picker .crests img,
 .rivalry-picker .crests .crest-badge {
-  width: 26px;
-  height: 26px;
+  width: 24px;
+  height: 24px;
 }
 
 .rivalry-picker strong {
   font-family: var(--display);
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 700;
   text-transform: uppercase;
-  line-height: 1;
+  line-height: 1.05;
+  overflow-wrap: anywhere;
 }
 
 .rivalry-picker small {
   color: var(--ink-2);
-  font-size: 13px;
+  font-size: 12px;
+}
+
+/* Everyone against everyone */
+
+.matrix {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.matrix th,
+.matrix td {
+  padding: 4px;
+  border-bottom: 1px solid var(--border);
+}
+
+.matrix th img,
+.matrix th .crest-badge {
+  width: 22px;
+  height: 22px;
+  vertical-align: middle;
+}
+
+.matrix-club {
+  text-align: left;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.matrix-club img,
+.matrix-club .crest-badge {
+  margin-right: 8px;
+}
+
+.matrix-cell.diag {
+  background: var(--wash);
+}
+
+.matrix-pair {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  min-width: 52px;
+  font: inherit;
+  color: var(--ink);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 4px 2px;
+  cursor: pointer;
+}
+
+.matrix-pair:hover {
+  border-color: var(--axis);
+}
+
+.matrix-pair.current {
+  border-color: var(--ink);
+}
+
+.matrix-pair .w {
+  font-size: 17px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.matrix-pair .dl {
+  font-size: 12px;
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.matrix-pair.ahead .w::after {
+  content: " ▲";
+  font-size: 10px;
+  color: var(--ink-2);
+}
+
+.matrix-total {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.matrix-pct {
+  color: var(--ink-2);
+  white-space: nowrap;
 }
 
 /* Head-to-head card */

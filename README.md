@@ -119,23 +119,68 @@ The Argentine page's format for six more countries, one page each with a shared 
 
 ### ⚔️ [Great Rivalries](https://angelmza1990.github.io/sports-stats-mvp/football/rivalries/)
 
-Every official match of four great rivalries, River Plate vs Boca Juniors, Real Madrid vs Barcelona, Inter vs Milan and Liverpool vs Manchester United:
+45 rivalries between the biggest clubs of seven countries, picked by country: Argentina's big five (River, Boca, Independiente, Racing, San Lorenzo), Brazil's big four of São Paulo and of Rio, the Grenal and the Clássico Mineiro, England's big six, Juventus, Inter and Milan, El Clásico, Le Classique and Der Klassiker. For each one:
 
 - **The lead, match by match:** a line of wins minus losses after every official match, with each side's biggest lead
-- **Competition by competition:** league, domestic cups, super cups and international competitions
+- **Competition by competition:** league, state championships, domestic cups, super cups and international competitions
 - **The results that repeat:** every scoreline by frequency, split by who won it
 - **Home, away and neutral**, and **decade by decade**
 - **Knockout ties and finals:** every elimination and final between them, with how it was decided
 - **Records:** biggest wins, highest-scoring matches and the longest runs
-- **The players:** top scorers and most appearances
+- **The players:** top scorers and most appearances, where the sources publish them
 - **Every match**, filterable by competition and result, and **friendlies** in their own tab
+- **Everyone against everyone:** each group of big clubs in one table of head-to-head records
 
-| | Matches | Wins | Draws | Wins |
-|---|---:|---:|---:|---:|
-| River Plate vs Boca Juniors | 266 | 88 | 84 | 94 |
-| Real Madrid vs Barcelona | 265 | 107 | 52 | 106 |
-| Inter vs Milan | 246 | 91 | 71 | 84 |
-| Liverpool vs Manchester United | 218 | 72 | 61 | 85 |
+| Rivalry | Country | Matches | Wins | Draws | Wins |
+|---|---|---:|---:|---:|---:|
+| Superclásico: River Plate vs Boca Juniors | Argentina | 266 | 88 | 84 | 94 |
+| River vs Independiente: River Plate vs Independiente ¹ | Argentina | 233 | 98 | 69 | 66 |
+| River vs Racing: River Plate vs Racing Club | Argentina | 245 | 114 | 63 | 68 |
+| River vs San Lorenzo: River Plate vs San Lorenzo | Argentina | 234 | 89 | 81 | 64 |
+| Boca vs Independiente: Boca Juniors vs Independiente | Argentina | 226 | 80 | 72 | 74 |
+| Boca vs Racing: Boca Juniors vs Racing Club | Argentina | 220 | 95 | 52 | 73 |
+| Boca vs San Lorenzo: Boca Juniors vs San Lorenzo | Argentina | 215 | 78 | 53 | 84 |
+| Clásico de Avellaneda: Independiente vs Racing Club | Argentina | 240 | 90 | 79 | 71 |
+| Independiente vs San Lorenzo: Independiente vs San Lorenzo ¹ | Argentina | 213 | 81 | 62 | 70 |
+| Racing vs San Lorenzo: Racing Club vs San Lorenzo | Argentina | 211 | 83 | 55 | 73 |
+| Derby Paulista: Palmeiras vs Corinthians | Brazil (São Paulo) | 332 | 118 | 101 | 113 |
+| Choque-Rei: Palmeiras vs São Paulo | Brazil (São Paulo) | 313 | 109 | 97 | 107 |
+| Majestoso: Corinthians vs São Paulo ¹ | Brazil (São Paulo) | 367 | 135 | 117 | 115 |
+| San-São: Santos vs São Paulo | Brazil (São Paulo) | 289 | 95 | 72 | 122 |
+| Clássico Alvinegro: Corinthians vs Santos | Brazil (São Paulo) | 316 | 123 | 92 | 101 |
+| Clássico da Saudade: Palmeiras vs Santos ¹ | Brazil (São Paulo) | 320 | 140 | 83 | 97 |
+| Fla-Flu: Flamengo vs Fluminense | Brazil (Rio de Janeiro) | 415 | 151 | 132 | 132 |
+| Clássico dos Milhões: Flamengo vs Vasco da Gama ¹ | Brazil (Rio de Janeiro) | 431 | 168 | 124 | 139 |
+| Clássico Vovô: Botafogo vs Fluminense | Brazil (Rio de Janeiro) | 359 | 120 | 108 | 131 |
+| Clássico da Rivalidade: Botafogo vs Flamengo ¹ | Brazil (Rio de Janeiro) | 370 | 115 | 118 | 137 |
+| Clássico dos Gigantes: Fluminense vs Vasco da Gama | Brazil (Rio de Janeiro) | 368 | 115 | 112 | 141 |
+| Clássico da Amizade: Botafogo vs Vasco da Gama ¹ | Brazil (Rio de Janeiro) | 311 | 86 | 94 | 131 |
+| Grenal: Internacional vs Grêmio ¹ | Brazil (Rio Grande do Sul) | 379 | 133 | 122 | 124 |
+| Clássico Mineiro: Cruzeiro vs Atlético Mineiro ² | Brazil (Minas Gerais) | 518 | 175 | 139 | 204 |
+| North-West derby: Liverpool vs Manchester United | England | 218 | 72 | 61 | 85 |
+| North London derby: Arsenal vs Tottenham Hotspur | England | 199 | 86 | 52 | 61 |
+| Manchester derby: Manchester City vs Manchester United | England | 198 | 63 | 55 | 80 |
+| Arsenal vs Chelsea: Arsenal vs Chelsea | England | 216 | 88 | 62 | 66 |
+| Arsenal vs Liverpool: Arsenal vs Liverpool | England | 246 | 81 | 70 | 95 |
+| Arsenal vs Manchester City: Arsenal vs Manchester City | England | 217 | 101 | 49 | 67 |
+| Arsenal vs Manchester United: Arsenal vs Manchester United | England | 245 | 90 | 55 | 100 |
+| Chelsea vs Liverpool: Chelsea vs Liverpool | England | 200 | 67 | 50 | 83 |
+| Chelsea vs Manchester City: Chelsea vs Manchester City | England | 181 | 69 | 43 | 69 |
+| Chelsea vs Manchester United: Chelsea vs Manchester United | England | 199 | 56 | 61 | 82 |
+| Chelsea vs Tottenham: Chelsea vs Tottenham Hotspur | England | 182 | 83 | 43 | 56 |
+| Liverpool vs Manchester City: Liverpool vs Manchester City | England | 200 | 93 | 53 | 54 |
+| Liverpool vs Tottenham: Liverpool vs Tottenham Hotspur | England | 186 | 91 | 46 | 49 |
+| Manchester City vs Tottenham: Manchester City vs Tottenham Hotspur | England | 176 | 69 | 38 | 69 |
+| Manchester United vs Tottenham: Manchester United vs Tottenham Hotspur | England | 206 | 95 | 54 | 57 |
+| El Clásico: Real Madrid vs Barcelona | Spain | 265 | 107 | 52 | 106 |
+| Derby della Madonnina: Inter vs Milan | Italy | 246 | 91 | 71 | 84 |
+| Derby d'Italia: Juventus vs Inter | Italy | 254 | 114 | 63 | 77 |
+| Juventus vs Milan: Juventus vs Milan | Italy | 247 | 94 | 82 | 71 |
+| Le Classique: Paris Saint-Germain vs Marseille | France | 113 | 54 | 24 | 35 |
+| Der Klassiker: Bayern Munich vs Borussia Dortmund | Germany | 140 | 70 | 37 | 33 |
+
+¹ No source lists every match, so the page shows the head-to-head totals the source publishes, its knockout ties and finals and the latest matches.
+² The source lists every meeting without its competition, so friendlies are included.
 
 ### 🏅 [The Olympic Games](https://angelmza1990.github.io/sports-stats-mvp/olympics/)
 
@@ -212,7 +257,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_football_people.py  # Coaches and players with the most titles (cups and leagues)
 │   ├── build_team_coaches.py     # Winning coaches: World Cup, club world champions, NBA and team tournaments
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
-│   ├── build_rivalries.py        # River–Boca, Madrid–Barcelona, Inter–Milan, Liverpool–United
+│   ├── build_rivalries.py        # Great rivalries (45), with one source module per country (rivalries_*.py)
 │   ├── build_f1.py               # Formula 1 pipeline
 │   ├── build_atp_records.py      # ATP and WTA career records pipeline
 │   ├── build_tour_finals.py      # ATP and WTA Finals: editions, matches, hosts
@@ -261,7 +306,7 @@ python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, Engl
 python3 scripts/build_football_people.py --refresh  # football: coaches and players (after the two above)
 python3 scripts/build_team_coaches.py         # winning coaches of the team sports (only new editions are looked up)
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
-python3 scripts/build_rivalries.py --refresh  # football: the four rivalries, match by match
+python3 scripts/build_rivalries.py --refresh  # football: the 45 great rivalries, match by match
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
 python3 scripts/build_tennis_ages.py --refresh  # tennis: age records (after build_grand_slams.py)
@@ -347,7 +392,7 @@ python3 -m http.server 8000
 - Flags: [Flagpedia](https://flagpedia.net) (flagcdn.com).
 - NBA championships: [Wikipedia](https://en.wikipedia.org/wiki/List_of_NBA_champions), CC BY-SA 4.0.
 - Football finals, club records and player records: Wikipedia (CC BY-SA 4.0).
-- Rivalries: every match from English, Spanish and Italian Wikipedia (CC BY-SA 4.0); Liverpool–Manchester United top scorers and appearances from [LFChistory.net](https://www.lfchistory.net/Opposition/Team/Profile/22).
+- Rivalries: matches from English, Spanish, Portuguese and Italian Wikipedia (CC BY-SA 4.0), [RSSSF](https://www.rsssf.org/)'s Argentine head-to-head lists (Pablo Ciullini) and [engsoccerdata](https://github.com/jalapic/engsoccerdata) (James Curley) for English results; Liverpool–Manchester United top scorers and appearances from [LFChistory.net](https://www.lfchistory.net/Opposition/Team/Profile/22).
 - NBA team logos and football club crests are loaded from ESPN's public CDN. Team names, logos and crests are trademarks of their respective owners, shown for identification only. This project is not affiliated with the NBA, FIFA, CONMEBOL, UEFA, the AFA, the FIGC, the RFEF, LaLiga, the FA, the Premier League, the LFP, the DFB, the DFL, the CBF, the ATP, the WTA, France Football, Formula One, the FIA, World Rugby, FIBA, the FIVB, the FIH or the IOC.
 
 ## License

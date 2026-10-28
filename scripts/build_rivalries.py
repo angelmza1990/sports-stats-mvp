@@ -273,7 +273,7 @@ def index_entry(data: dict) -> dict:
             "teams": data["teams"], "colors": data["colors"], "mode": data["mode"],
             "record": record(data) if full else data["summary"]["total"],
             "first": data["matches"][0]["date"][:4] if full else data["summary"].get("since"),
-            "dataThrough": data.get("dataThrough")}
+            "allMeetings": bool(data.get("allMeetings")), "dataThrough": data.get("dataThrough")}
 
 
 def main() -> None:

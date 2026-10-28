@@ -1,17 +1,28 @@
-/* Great Rivalries: four rivalries, every official match and friendly, with the head to head worked out here. */
+/* Great Rivalries: the big clubs' rivalries country by country, every official match and friendly, with the head to head worked out here. */
 (async function () {
   "use strict";
 
   const { el, responsive, tooltipOn, tooltipOnNode, ttTitle, ttNote, ttRow, barPath, columnPath } = Viz;
-  const IDS = ["river-boca", "madrid-barcelona", "inter-milan", "liverpool-united"];
-  const all = await Promise.all(IDS.map((id) => d3.json(`data/${id}.json`)));
-  const byId = new Map(all.map((d) => [d.id, d]));
+  const index = await d3.json("data/index.json");
+  const byId = new Map(index.rivalries.map((r) => [r.id, r]));
   const COLOR = { a: "var(--team-a)", b: "var(--team-b)", d: "var(--draw)" };
-  const STAGES = [["league", "League"], ["cup", "Domestic cups"], ["super", "Super cups"], ["intl", "International"]];
+  const STAGES = [["league", "League"], ["state", "State championships"], ["regional", "Interstate tournaments"], ["cup", "Domestic cups"],
+    ["super", "Super cups"], ["intl", "International"], ["all", "Every meeting"]];
+  const COUNTRIES = ["ARG", "BRA", "ENG", "ESP", "ITA", "FRA", "GER"].filter((c) => index.groups.some((g) => g.country === c));
   const fmtDate = d3.utcFormat("%-d %b %Y");
   const fmtMonth = d3.utcFormat("%b %Y");
   const parse = d3.utcParse("%Y-%m-%d");
-  all.forEach((d) => [...d.matches, ...d.friendlies].forEach((m) => (m.when = parse(m.date))));
+  const Fi = Football(index);
+  const files = new Map();
+
+  async function load(id) {
+    if (!files.has(id)) {
+      const d = await d3.json(`data/${id}.json`);
+      [...d.matches, ...d.friendlies, ...(d.recent ?? [])].forEach((m) => (m.when = parse(m.date)));
+      files.set(id, d);
+    }
+    return files.get(id);
+  }
 
   let data, F, A, B, view = "official";
 
@@ -22,7 +33,7 @@
   const short = (id) => data.teams.find((t) => t.id === id)?.short ?? id;
   const name = (id) => data.teams.find((t) => t.id === id)?.name ?? id;
   const color = (id) => (id === A ? COLOR.a : id === B ? COLOR.b : "var(--ink-muted)");
-  const dateText = (m) => (m.approxDate ? `≈ ${fmtMonth(m.when)}` : fmtDate(m.when));
+  const dateText = (m) => (m.approxDate === "year" ? `≈ ${m.when.getUTCFullYear()}` : m.approxDate ? `≈ ${fmtMonth(m.when)}` : fmtDate(m.when));
   const year = (m) => m.when.getUTCFullYear();
   const plural = (n, one, many = `${one}s`) => `${n} ${n === 1 ? one : many}`;
 
@@ -88,38 +99,175 @@
     return node;
   }
 
-  /* ---------- Rivalry picker ---------- */
+  /* ---------- Rivalry picker: a tab per country, a card per rivalry ---------- */
 
+  const countryTabs = document.getElementById("country-tabs");
   const picker = document.getElementById("picker");
-  const pickerButtons = all.map((d) => {
-    const Fd = Football(d);
-    const b = el("button");
-    b.type = "button";
-    b.setAttribute("role", "tab");
-    const crests = el("span", "crests");
-    d.teams.forEach((t) => crests.append(Fd.crest(t.id)));
-    b.append(crests, el("strong", null, d.name), el("small", null, d.subtitle));
-    b.addEventListener("click", () => select(d.id));
-    picker.append(b);
-    return [d.id, b];
-  });
+  let country = null;
 
-  function select(id) {
-    data = byId.get(id);
+  function countryButtons() {
+    countryTabs.replaceChildren();
+    COUNTRIES.forEach((code) => {
+      const b = el("button");
+      b.type = "button";
+      b.setAttribute("role", "tab");
+      b.setAttribute("aria-selected", String(code === country));
+      const info = index.countries[code];
+      const flag = el("img", "flag");
+      flag.alt = "";
+      flag.src = Viz.flagUrl(info.flag);
+      const n = index.rivalries.filter((r) => groupOf(r).country === code).length;
+      b.append(flag, el("span", null, info.name), el("small", null, String(n)));
+      b.addEventListener("click", () => {
+        if (code === country) return;
+        const first = index.rivalries.find((r) => groupOf(r).country === code);
+        select(first.id);
+      });
+      countryTabs.append(b);
+    });
+  }
+
+  const groupOf = (r) => index.groups.find((g) => g.id === r.group);
+
+  function rivalryCards(currentId) {
+    picker.replaceChildren();
+    index.groups.filter((g) => g.country === country).forEach((g) => {
+      const list = index.rivalries.filter((r) => r.group === g.id);
+      if (g.region) picker.append(el("h3", "picker-region", g.region));
+      const grid = el("div", "picker-grid");
+      grid.setAttribute("role", "tablist");
+      grid.setAttribute("aria-label", g.region ? `${g.name}, ${g.region}` : g.name);
+      list.forEach((r) => {
+        const b = el("button");
+        b.type = "button";
+        b.setAttribute("role", "tab");
+        b.setAttribute("aria-selected", String(r.id === currentId));
+        const crests = el("span", "crests");
+        r.teams.forEach((t) => crests.append(Fi.crest(t.id)));
+        const meta = r.mode === "summary" ? `${r.record.n} matches · totals only`
+          : `${r.record.n} ${r.allMeetings ? "meetings" : "matches"} since ${r.first}`;
+        b.append(crests, el("strong", null, r.name), el("small", null, meta));
+        b.addEventListener("click", () => select(r.id));
+        grid.append(b);
+      });
+      picker.append(grid);
+    });
+  }
+
+  function applyColors() {
+    const c = Viz.isDark() ? data.colors.dark : data.colors.light;
+    document.body.style.setProperty("--team-a", c[0]);
+    document.body.style.setProperty("--team-b", c[1]);
+  }
+  Viz.onThemeChange(() => data && applyColors());
+
+  let selecting = 0;
+  async function select(id) {
+    const ticket = ++selecting;
+    const next = await load(id);
+    if (ticket !== selecting) return;  // a later click won
+    data = next;
     F = Football(data);
     [A, B] = data.teams.map((t) => t.id);
+    country = groupOf(byId.get(id)).country;
     document.body.dataset.rivalry = id;
-    pickerButtons.forEach(([k, b]) => b.setAttribute("aria-selected", String(k === id)));
+    applyColors();
+    countryButtons();
+    rivalryCards(id);
     try {
       history.replaceState(null, "", `#${id}`);
     } catch (e) {}
     render();
   }
 
+  /* ---------- Everyone against everyone ---------- */
+
+  function groupMatrix() {
+    const g = groupOf(byId.get(data.id));
+    const list = index.rivalries.filter((r) => r.group === g.id);
+    const clubs = [...new Set(list.flatMap((r) => r.teams.map((t) => t.id)))];
+    const section = document.getElementById("group");
+    section.hidden = clubs.length < 3;
+    if (section.hidden) return;
+    document.getElementById("group-title").textContent = `${g.label}, everyone against everyone`;
+    const pairing = (x, y) => list.find((r) => r.teams.some((t) => t.id === x) && r.teams.some((t) => t.id === y));
+    const fromRow = (r, row) => (r.teams[0].id === row ? { w: r.record.a, d: r.record.d, l: r.record.b } : { w: r.record.b, d: r.record.d, l: r.record.a });
+    const totals = new Map(clubs.map((c) => {
+      const t = { w: 0, d: 0, l: 0 };
+      clubs.forEach((o) => {
+        const r = c !== o && pairing(c, o);
+        if (!r) return;
+        const x = fromRow(r, c);
+        t.w += x.w;
+        t.d += x.d;
+        t.l += x.l;
+      });
+      return [c, t];
+    }));
+    clubs.sort((p, q) => (totals.get(q).w - totals.get(q).l) - (totals.get(p).w - totals.get(p).l));
+    const clubName = (id) => index.clubs[id]?.name ?? id;
+    const t = el("table", "matrix");
+    const head = el("tr");
+    head.append(el("th", null, ""));
+    clubs.forEach((c) => {
+      const th = el("th", "num");
+      th.append(Fi.crest(c));
+      th.title = clubName(c);
+      th.setAttribute("aria-label", clubName(c));
+      head.append(th);
+    });
+    head.append(el("th", "num", "Total"));
+    t.append(head);
+    clubs.forEach((row) => {
+      const tr = el("tr");
+      const name = el("th", "matrix-club");
+      name.scope = "row";
+      name.append(Fi.crest(row), el("span", "matrix-name", clubName(row)));
+      name.title = clubName(row);
+      tr.append(name);
+      clubs.forEach((col) => {
+        const td = el("td", "num matrix-cell");
+        if (row === col) {
+          td.classList.add("diag");
+          tr.append(td);
+          return;
+        }
+        const r = pairing(row, col);
+        const x = fromRow(r, row);
+        const b = el("button", `matrix-pair${r.id === data.id ? " current" : ""}${x.w > x.l ? " ahead" : x.w < x.l ? " behind" : ""}`);
+        b.type = "button";
+        b.append(el("span", "w", String(x.w)), el("span", "dl", `${x.d}–${x.l}`));
+        b.setAttribute("aria-label", `${clubName(row)} against ${clubName(col)}: ${x.w} wins, ${x.d} draws, ${x.l} losses${r.mode === "summary" ? " (published totals)" : ""}. Open ${r.name}`);
+        b.addEventListener("click", () => {
+          select(r.id);
+          document.getElementById("summary").scrollIntoView({ behavior: Viz.reduceMotion ? "auto" : "smooth" });
+        });
+        tooltipOnNode(b, (tip) => {
+          tip.append(ttTitle(r.name), ttNote(`${clubName(row)}: ${x.w} wins · ${x.d} draws · ${x.l} losses`),
+            ttNote(r.mode === "summary" ? "Published totals" : `${r.record.n} ${r.allMeetings ? "meetings, friendlies included" : "official matches"}`));
+        });
+        td.append(b);
+        tr.append(td);
+      });
+      const tot = totals.get(row);
+      const n = tot.w + tot.d + tot.l;
+      tr.append(el("td", "num matrix-total", `${tot.w}–${tot.d}–${tot.l}`), el("td", "num matrix-pct hide-sm", `${d3.format(".0%")(n ? tot.w / n : 0)} won`));
+      t.append(tr);
+    });
+    head.append(el("th", "num hide-sm", ""));
+    document.getElementById("group-matrix").replaceChildren(t);
+    const summaries = list.filter((r) => r.mode === "summary").length;
+    document.getElementById("group-lede").textContent = "Each club's official record against every other club of the group: read across a row for its wins, then draws–losses. " +
+      "Select a pairing to open it." + (summaries ? ` ${summaries === 1 ? "One pairing uses" : `${summaries} pairings use`} the totals their sources publish.` : "");
+  }
+
   /* ---------- Head-to-head card ---------- */
 
   function versus(prefix, ms) {
-    const r = record(ms);
+    return versusRecord(prefix, record(ms));
+  }
+
+  function versusRecord(prefix, r) {
     const head = document.getElementById(`${prefix}versus`);
     head.replaceChildren();
     const side = (id, wins, right) => {
@@ -138,7 +286,7 @@
     goals.replaceChildren();
     const g = (id, n) => {
       const s = el("span");
-      s.append(el("strong", null, String(n)), document.createTextNode(` goals by ${short(id)}`));
+      s.append(el("strong", null, n == null ? "–" : String(n)), document.createTextNode(` goals by ${short(id)}`));
       return s;
     };
     goals.append(g(A, r.ga), el("span", null, plural(r.n, "match", "matches")), g(B, r.gb));
@@ -290,7 +438,7 @@
 
   /* ---------- By competition ---------- */
 
-  function competitions(ms) {
+  function competitions(ms, published) {
     const root = document.getElementById("comp-table");
     const t = el("table");
     const head = el("tr");
@@ -313,9 +461,16 @@
       const barCell = el("td", "hide-sm");
       barCell.append(bar);
       tr.append(el("td", null, label), el("td", "num", String(r.n)), el("td", `num${r.a > r.b ? " win" : ""}`, String(r.a)),
-        el("td", "num", String(r.d)), el("td", `num${r.b > r.a ? " win" : ""}`, String(r.b)), el("td", "num hide-sm", `${r.ga}–${r.gb}`), barCell);
+        el("td", "num", String(r.d)), el("td", `num${r.b > r.a ? " win" : ""}`, String(r.b)),
+        el("td", "num hide-sm", r.ga == null || r.gb == null ? "–" : `${r.ga}–${r.gb}`), barCell);
       t.append(tr);
     };
+    if (published) {
+      published.comps.forEach((c) => row(c.comp, c));
+      row(published.comps.length ? "All official matches" : "Every meeting", published.total, "total-row");
+      root.replaceChildren(t);
+      return;
+    }
     STAGES.forEach(([stage, label]) => {
       const list = ms.filter((m) => m.stage === stage);
       if (!list.length) return;
@@ -480,7 +635,7 @@
   /* ---------- Knockout ties and finals ---------- */
 
   function tieLegs(t) {
-    if (t.legs) return t.legs.map((l) => ({ ...l, ...(data.matches.find((m) => m.n === l.n) ?? {}) }));
+    if (t.legs) return t.legs.map((l) => ({ ...l, ...(l.n ? data.matches.find((m) => m.n === l.n) ?? {} : {}) }));
     return t.matches.map((n) => data.matches.find((m) => m.n === n));
   }
 
@@ -528,6 +683,14 @@
       const title = el("div", "tie-what", `${t.comp} · ${t.round}`);
       if (t.final) title.append(el("span", "tie-tag", "Final"));
       what.append(title);
+      if (!legs.length) {
+        const win = el("div", "tie-winner");
+        win.append(F.crest(t.winner), document.createTextNode(t.final ? `${short(t.winner)} won` : `${short(t.winner)} through`));
+        if (t.how) win.append(el("span", "tie-tag", t.how));
+        row.append(el("div", "tie-year", t.season), what, win);
+        root.append(row);
+        return;
+      }
       const legText = legs.map((l, i) => {
         const tag = l.leg === "replay" ? "Replay: " : legs.length > 1 && l.leg !== "replay" ? `${i === 0 ? "1st" : i === 1 ? "2nd" : `${i + 1}th`} leg: ` : "";
         return `${tag}${short(l.home)} ${l.hs}–${l.as} ${short(l.away)}${l.aet ? " (a.e.t.)" : ""}`;
@@ -556,8 +719,11 @@
       (k) => tieList(k === "finals" ? ties.filter((t) => t.final) : ties));
     tieList(ties);
     const lede = document.getElementById("ties-lede");
+    const legless = ties.length && ties.every((t) => !(t.legs?.length) && !t.matches.length);
     lede.textContent = "Every time one knocked the other out of a cup, over one match, two legs or replays, and every final between them" +
-      (data.id === "river-boca" ? ", as listed by Spanish Wikipedia (league play-offs included)." : ". Group stages are left out.");
+      (data.country === "ARG" ? ", as listed by Spanish Wikipedia (league play-offs included)."
+        : legless ? ", as the source lists them: it names who went through, not the scores of every leg."
+          : ". Group stages are left out.");
   }
 
   /* ---------- Records ---------- */
@@ -714,14 +880,20 @@
   function friendlies() {
     const fr = data.friendlies;
     const has = fr.length > 0;
-    ["fr-card", "fr-scores-card", "fr-table-card"].forEach((id) => (document.getElementById(id).hidden = !has));
+    ["fr-scores-card", "fr-table-card"].forEach((id) => (document.getElementById(id).hidden = !has));
+    document.getElementById("fr-card").hidden = !has && !data.friendlySummary;
     const lede = document.getElementById("friendlies-lede");
+    if (!has && data.friendlySummary) {
+      lede.textContent = "The source gives only the totals of the friendlies and unofficial tournaments between them. They don't count in the official head to head.";
+      versusRecord("fr-", data.friendlySummary);
+      return;
+    }
     if (!has) {
       lede.textContent = "The sources don't list this rivalry's friendlies match by match.";
       return;
     }
     lede.textContent = `Exhibition games, pre-season tournaments and tributes, ${year(fr[0])}–${year(fr[fr.length - 1])}. They don't count in the official head to head.` +
-      (data.id === "liverpool-united" ? " Wikipedia lists only the friendlies played since 2014." : "");
+      (data.friendliesNote ? ` ${data.friendliesNote}` : "");
     versus("fr-", fr);
     scorelines(fr, "fr-scores-chart", "fr-scores-legend");
     matchTable("fr-table", fr, false);
@@ -735,13 +907,13 @@
     const a = el("a", null, data.source.label);
     a.href = data.source.url;
     src.append(a);
-    if (data.id === "liverpool-united") {
-      src.append(document.createTextNode("; top scorers and appearances from "));
-      const l = el("a", null, "LFChistory.net");
-      l.href = "https://www.lfchistory.net/Opposition/Team/Profile/22";
+    (data.source.extra ?? []).forEach((x) => {
+      src.append(document.createTextNode(`; ${x.what} from `));
+      const l = el("a", null, x.label);
+      l.href = x.url;
       src.append(l);
-    }
-    document.getElementById("data-through").textContent = `Matches through ${fmtDate(parse(data.dataThrough))}.`;
+    });
+    document.getElementById("data-through").textContent = data.dataThrough ? `Matches through ${fmtDate(parse(data.dataThrough))}.` : "";
     const notes = document.getElementById("notes");
     notes.querySelectorAll(".rv-note").forEach((n) => n.remove());
     (data.notes ?? []).forEach((n) => notes.append(el("span", "rv-note", ` ${n}`)));
@@ -753,39 +925,85 @@
     view = v;
     document.getElementById("official").hidden = v !== "official";
     document.getElementById("friendly").hidden = v !== "friendly";
-    document.getElementById("view-note").textContent = v === "official"
-      ? "Official matches only. Friendlies have their own tab."
-      : "Friendlies don't count in the official record.";
+    document.getElementById("view-note").textContent = data.allMeetings
+      ? "The source lists every meeting without its competition, so friendlies are included."
+      : v === "official" ? "Official matches only. Friendlies have their own tab." : "Friendlies don't count in the official record.";
+  }
+
+  // Sections that need every match; a rivalry with published totals only shows the rest.
+  const MATCH_SECTIONS = ["timeline", "scores", "venues", "decades", "records"];
+
+  function summaryStats() {
+    const t = data.summary.total;
+    const recent = data.recent ?? [];
+    const last = recent[recent.length - 1];
+    const finals = data.ties.filter((x) => x.final);
+    F.statTiles("stats", [
+      { label: "Official matches", value: String(t.n), detail: data.summary.since ? `since ${data.summary.since}` : "published totals" },
+      t.ga != null && t.gb != null
+        ? { label: "Goals", value: String(t.ga + t.gb), detail: `${d3.format(".2f")((t.ga + t.gb) / t.n)} per match` }
+        : { label: "Draws", value: String(t.d), detail: `${d3.format(".0%")(t.d / t.n)} of the matches` },
+      last ? { label: "Latest match", value: `${last.hs}–${last.as}`, detail: `${scoreLine(last)} · ${fmtDate(last.when)}` }
+        : { label: "Knockout ties", value: String(data.ties.filter((x) => !x.final).length), detail: "listed by the source" },
+      { label: "Finals", value: String(finals.length), detail: finals.length ? `${short(A)} ${finals.filter((x) => x.winner === A).length} · ${short(B)} ${finals.filter((x) => x.winner === B).length}` : "between them" },
+    ]);
   }
 
   function render() {
+    const summaryMode = data.mode === "summary";
     const ms = data.matches;
-    versus("rv-", ms);
-    stats(ms);
-    segmented("view-tabs", [
-      { key: "official", label: `Official (${ms.length})` },
-      { key: "friendly", label: `Friendlies (${data.friendlies.length})` },
-    ], view, setView);
+    const friendlyCount = data.friendlies.length || data.friendlySummary?.n || 0;
+    if (summaryMode) {
+      versusRecord("rv-", data.summary.total);
+      summaryStats();
+    } else {
+      versus("rv-", ms);
+      stats(ms);
+    }
+    groupMatrix();
+    const tabs = data.allMeetings
+      ? [{ key: "official", label: `Every meeting (${ms.length})` }]
+      : [{ key: "official", label: `Official (${summaryMode ? data.summary.total.n : ms.length})` }, ...(friendlyCount ? [{ key: "friendly", label: `Friendlies (${friendlyCount})` }] : [])];
+    if (!tabs.some((t) => t.key === view)) view = "official";
+    segmented("view-tabs", tabs, view, setView);
     setView(view);
-    timeline(ms);
-    competitions(ms);
-    scorelines(ms, "scores-chart", "scores-legend", "scores-table");
-    venues(ms);
-    decades(ms);
+    MATCH_SECTIONS.forEach((id) => (document.getElementById(id).hidden = summaryMode));
+    document.getElementById("competitions").hidden = Boolean(data.allMeetings);
+    if (summaryMode) {
+      competitions(null, data.summary);
+      document.getElementById("competitions-lede").textContent = data.summary.comps.length
+        ? "The totals the source publishes for each competition; it doesn't list every match."
+        : "The source publishes one total for every meeting between them, friendlies included.";
+    } else {
+      document.getElementById("competitions-lede").textContent = "The record in every competition they have met in, from the league to the continental cups.";
+      timeline(ms);
+      competitions(ms);
+      scorelines(ms, "scores-chart", "scores-legend", "scores-table");
+      venues(ms);
+      decades(ms);
+      records(ms);
+    }
     knockouts();
-    records(ms);
     const players = document.getElementById("players-lede");
     players.textContent = "The top scorers and the players with the most appearances in official matches of the rivalry" +
       (data.leadersByTeam ? ", five for each club." : ".");
     leaders("scorers", data.scorers, "goals");
     leaders("apps", data.appearances, "apps");
-    matchTable("match-table", ms, true);
+    const recent = summaryMode ? data.recent ?? [] : ms;
+    document.getElementById("matches").hidden = summaryMode && !recent.length;
+    document.getElementById("match-controls").hidden = summaryMode;
+    document.getElementById("matches-title").textContent = summaryMode ? "The latest matches" : data.allMeetings ? "Every meeting" : "Every official match";
+    document.getElementById("matches-lede").textContent = summaryMode ? "The most recent official matches the source lists, latest first." : "Most recent first.";
+    if (summaryMode) {
+      matchTable("match-table", recent, false);
+      document.getElementById("matches-count").textContent = "";
+    } else matchTable("match-table", ms, true);
     friendlies();
     footer();
   }
 
   const fromHash = location.hash.slice(1);
-  select(byId.has(fromHash) ? fromHash : IDS[0]);
+  await select(byId.has(fromHash) ? fromHash : index.rivalries[0].id);
   addEventListener("hashchange", () => {
     const id = location.hash.slice(1);
     if (byId.has(id) && id !== data.id) select(id);
