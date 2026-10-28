@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sports Stats</title>
-  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, football, the Olympic Games, swimming, basketball, American football, ice hockey, handball, rugby, volleyball, field hockey, chess and Formula 1.">
+  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, football, the Olympic Games, swimming, basketball, American football, ice hockey, baseball, handball, rugby, volleyball, field hockey, chess and Formula 1.">
   <link rel="stylesheet" href="assets/theme.css">
   <script src="assets/theme.js"></script>
   <style>
@@ -77,6 +77,7 @@
       <a href="#basketball" data-sport="basketball">Basketball</a>
       <a href="#nfl" data-sport="american-football">NFL</a>
       <a href="#nhl" data-sport="ice-hockey">NHL</a>
+      <a href="#mlb" data-sport="baseball">MLB</a>
       <a href="#team" data-sport="handball">Team sports</a>
       <a href="#chess" data-sport="chess">Chess</a>
       <a href="#motorsport" data-sport="motorsport">Motorsport</a>
@@ -617,6 +618,30 @@
       </div>
     </section>
 
+    <section class="sport" data-sport="baseball" id="mlb">
+      <div class="sport-head">
+        <h2>Baseball</h2>
+        <p>Every World Series since 1903.</p>
+        <span class="count">1 page</span>
+      </div>
+      <div class="gallery">
+        <a class="tile" href="baseball/world-series/">
+          <div class="art" style="--tint: linear-gradient(135deg, #5a1410, #c75a4c)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="60" cy="60" r="34" fill="#f4efe6"/>
+              <path d="M36 36c10 9 14 17 14 24s-4 15-14 24M84 36c-10 9-14 17-14 24s4 15 14 24" stroke="#c8102e" stroke-width="3" fill="none" stroke-dasharray="4 4"/>
+              <path d="M22 104 46 80M98 104 74 80" stroke="#0b0b0b" stroke-width="6" stroke-linecap="round"/>
+            </svg>
+            <div class="stat" data-stat="worldSeries"><strong>27</strong><span>Yankees titles</span></div>
+          </div>
+          <div class="body">
+            <h3>World Series</h3>
+            <p>Every Series since 1903: the franchise race, American League vs National League, every champion, the longest droughts, repeated matchups, series lengths, MVPs and the winning managers.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
     <section class="sport" data-sport="handball" id="team">
       <div class="sport-head">
         <h2>Team sports</h2>
@@ -755,6 +780,10 @@
         stanleyCup: ["ice-hockey/stanley-cup/data/stanley-cup.json", (d) => {
           const [id, n] = most(d.seasons, (s) => s.champion);
           return [String(n), `${d.franchises.find((f) => f.id === id).short} Cups`];
+        }],
+        worldSeries: ["baseball/world-series/data/world-series.json", (d) => {
+          const [id, n] = most(d.seasons, (s) => s.champion);
+          return [String(n), `${d.franchises.find((f) => f.id === id).short} titles`];
         }],
         superBowl: ["american-football/super-bowl/data/super-bowl.json", (d) => {
           const counts = new Map();

@@ -4,7 +4,7 @@ name: Update data
 #   July 1      - after the NBA Finals, the Champions League final, the European leagues, the Australian Open and Roland Garros
 #   (Slams the ATP files don't cover yet are rebuilt from Wikipedia draw pages)
 #   December 31 - after Wimbledon, the US Open, the ATP Finals, the Copa Libertadores final,
-#                 the FIFA Intercontinental Cup, the Argentine Clausura, the Brasileirão, the Ballon d'Or and the F1 season
+#                 the FIFA Intercontinental Cup, the Argentine Clausura, the Brasileirão, the Ballon d'Or, the World Series and the F1 season
 # A monthly keepalive stops GitHub from disabling the schedule
 # (scheduled workflows in public repos are paused after 60 days without activity).
 
@@ -143,6 +143,11 @@ jobs:
         continue-on-error: true
         run: python3 scripts/build_super_bowl.py --refresh
 
+      - name: Rebuild baseball (World Series)
+        id: worldseries
+        continue-on-error: true
+        run: python3 scripts/build_world_series.py --refresh
+
       - name: Rebuild ice hockey (Stanley Cup)
         id: stanleycup
         continue-on-error: true
@@ -170,7 +175,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # data/raw holds the snapshot of every source, so the data can be rebuilt if a source disappears.
-          git add data/raw assets/flags tennis/big-three/data tennis/grand-slams/data tennis/grand-slams-women/data tennis/masters-1000/data tennis/wta-1000/data tennis/wta-records/data basketball/nba-rings/data football/copa-libertadores/data football/champions-league/data football/world-club-champions/data football/argentine-primera/data football/serie-a/data football/la-liga/data football/premier-league/data football/ligue-1/data football/bundesliga/data football/brasileirao/data football/world-cup/data football/ballon-dor/data motorsport/formula-1/data tennis/atp-records/data rugby/international/data basketball/international/data volleyball/international/data hockey/international/data handball/international/data swimming/olympics/data olympics/data tennis/olympics/data boxing/olympics/data football/olympics/data chess/data tennis/age-records/data tennis/number-one/data tennis/finals/data american-football/super-bowl/data ice-hockey/stanley-cup/data football/rivalries/data
+          git add data/raw assets/flags tennis/big-three/data tennis/grand-slams/data tennis/grand-slams-women/data tennis/masters-1000/data tennis/wta-1000/data tennis/wta-records/data basketball/nba-rings/data football/copa-libertadores/data football/champions-league/data football/world-club-champions/data football/argentine-primera/data football/serie-a/data football/la-liga/data football/premier-league/data football/ligue-1/data football/bundesliga/data football/brasileirao/data football/world-cup/data football/ballon-dor/data motorsport/formula-1/data tennis/atp-records/data rugby/international/data basketball/international/data volleyball/international/data hockey/international/data handball/international/data swimming/olympics/data olympics/data tennis/olympics/data boxing/olympics/data football/olympics/data chess/data tennis/age-records/data tennis/number-one/data tennis/finals/data american-football/super-bowl/data ice-hockey/stanley-cup/data baseball/world-series/data football/rivalries/data
           if git diff --cached --quiet; then
             echo "No data changes."
             echo "changed=false" >> "$GITHUB_OUTPUT"
@@ -188,7 +193,7 @@ jobs:
         run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
 
       - name: Report failed builds
-        if: steps.tennis.outcome == 'failure' || steps.slams.outcome == 'failure' || steps.masters.outcome == 'failure' || steps.leagues.outcome == 'failure' || steps.nba.outcome == 'failure' || steps.football.outcome == 'failure' || steps.worldcup.outcome == 'failure' || steps.f1.outcome == 'failure' || steps.atp.outcome == 'failure' || steps.tournaments.outcome == 'failure' || steps.swimming.outcome == 'failure' || steps.olympics.outcome == 'failure' || steps.olysports.outcome == 'failure' || steps.chess.outcome == 'failure' || steps.ages.outcome == 'failure' || steps.numberone.outcome == 'failure' || steps.tourfinals.outcome == 'failure' || steps.people.outcome == 'failure' || steps.teamcoaches.outcome == 'failure' || steps.superbowl.outcome == 'failure' || steps.stanleycup.outcome == 'failure' || steps.rivalries.outcome == 'failure'
+        if: steps.tennis.outcome == 'failure' || steps.slams.outcome == 'failure' || steps.masters.outcome == 'failure' || steps.leagues.outcome == 'failure' || steps.nba.outcome == 'failure' || steps.football.outcome == 'failure' || steps.worldcup.outcome == 'failure' || steps.f1.outcome == 'failure' || steps.atp.outcome == 'failure' || steps.tournaments.outcome == 'failure' || steps.swimming.outcome == 'failure' || steps.olympics.outcome == 'failure' || steps.olysports.outcome == 'failure' || steps.chess.outcome == 'failure' || steps.ages.outcome == 'failure' || steps.numberone.outcome == 'failure' || steps.tourfinals.outcome == 'failure' || steps.people.outcome == 'failure' || steps.teamcoaches.outcome == 'failure' || steps.superbowl.outcome == 'failure' || steps.stanleycup.outcome == 'failure' || steps.worldseries.outcome == 'failure' || steps.rivalries.outcome == 'failure'
         run: |
-          echo "::error::A data build failed validation (big three: ${{ steps.tennis.outcome }}, grand slams: ${{ steps.slams.outcome }}, masters: ${{ steps.masters.outcome }}, leagues: ${{ steps.leagues.outcome }}, nba: ${{ steps.nba.outcome }}, football: ${{ steps.football.outcome }}, world cup: ${{ steps.worldcup.outcome }}, f1: ${{ steps.f1.outcome }}, atp: ${{ steps.atp.outcome }}, tournaments: ${{ steps.tournaments.outcome }}, swimming: ${{ steps.swimming.outcome }}, olympics: ${{ steps.olympics.outcome }}, olympic tennis and boxing: ${{ steps.olysports.outcome }}, chess: ${{ steps.chess.outcome }}, tennis ages: ${{ steps.ages.outcome }}, world No. 1: ${{ steps.numberone.outcome }}, tour finals: ${{ steps.tourfinals.outcome }}, football coaches and players: ${{ steps.people.outcome }}, team sport coaches: ${{ steps.teamcoaches.outcome }}, super bowl: ${{ steps.superbowl.outcome }}, stanley cup: ${{ steps.stanleycup.outcome }}, rivalries: ${{ steps.rivalries.outcome }}). The previous data was kept; check the step logs."
+          echo "::error::A data build failed validation (big three: ${{ steps.tennis.outcome }}, grand slams: ${{ steps.slams.outcome }}, masters: ${{ steps.masters.outcome }}, leagues: ${{ steps.leagues.outcome }}, nba: ${{ steps.nba.outcome }}, football: ${{ steps.football.outcome }}, world cup: ${{ steps.worldcup.outcome }}, f1: ${{ steps.f1.outcome }}, atp: ${{ steps.atp.outcome }}, tournaments: ${{ steps.tournaments.outcome }}, swimming: ${{ steps.swimming.outcome }}, olympics: ${{ steps.olympics.outcome }}, olympic tennis and boxing: ${{ steps.olysports.outcome }}, chess: ${{ steps.chess.outcome }}, tennis ages: ${{ steps.ages.outcome }}, world No. 1: ${{ steps.numberone.outcome }}, tour finals: ${{ steps.tourfinals.outcome }}, football coaches and players: ${{ steps.people.outcome }}, team sport coaches: ${{ steps.teamcoaches.outcome }}, super bowl: ${{ steps.superbowl.outcome }}, stanley cup: ${{ steps.stanleycup.outcome }}, world series: ${{ steps.worldseries.outcome }}, rivalries: ${{ steps.rivalries.outcome }}). The previous data was kept; check the step logs."
           exit 1
