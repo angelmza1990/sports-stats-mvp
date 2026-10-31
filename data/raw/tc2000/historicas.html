@@ -1,0 +1,1736 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>TC2000</title>
+	<meta name="keywords" content="TC2000, sitio web oficial del TC2000" />
+	<meta name="description" content="TC2000, sitio web oficial del TC2000" />
+	<meta name="robots" content="index,follow" />
+	<meta name="copyright" content="TC2000" />
+	<meta property="og:url" content="https://tc2000.com.ar" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="TC2000" />
+	<meta property="og:description" content="TC2000 Noticias" />
+	<meta property="og:image" content="https://www.tc2000.com.ar/images/logo-TC2000.png" />
+	<link rel="canonical" href="https://tc2000.com.ar"/> 
+	<link rel="shortcut icon" href="favicon.ico" /> 
+
+	<!-- Theme de Bootstrap -->
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+
+	<!-- Fonts / Icons -->
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700italic' rel='stylesheet' type='text/css'>    
+	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+	<link href="/assets/tc2000/css/reset-min.css" rel="stylesheet" media="screen" type="text/css" />	 
+	<link href="/assets/tc2000/css/general-ns-v2.css" rel="stylesheet" media="screen" type="text/css" />	 
+	 
+	<!-- Javascript y Version compilada y comprimida del JavaScript de Bootstrap -->
+	<script src="https://code.jquery.com/jquery-1.9.0.js"></script>
+	<script src="https://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+	<script src="/assets/js/bootstrap-hover-dropdown.js"></script>
+
+	<!-- CAMBIO TAMAÑO DEL MENÚ -->
+	<script>
+	$(document).on("scroll",function(){
+	    if($(document).scrollTop()>100){
+	        $("header").removeClass("large").addClass("small");
+	    } else{
+	        $("header").removeClass("small").addClass("large");
+	    }
+	});
+	</script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110803672-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-110803672-1');
+	</script>
+</head>
+
+<style>
+.navbar-nav {
+    display: flex 
+    flex-wrap: nowrap 
+    width: 100% 
+}
+
+.navbar-nav > li {
+    flex: 1 
+    min-width: 0 
+}
+
+.navbar-nav > li > a {
+    white-space: nowrap 
+    overflow: hidden 
+    text-overflow: ellipsis 
+    padding: 15px 8px 
+    font-size: 13px 
+}
+
+/* Ajuste para los dropdowns */
+.navbar-nav .dropdown-menu {
+    min-width: 200px 
+}
+</style>
+
+<body>
+<header class="large">
+  <div id="contenedor_header">
+	<div class="row">
+		<!--Logo viejo: logo-tc2000-n2.png logo-tc2000-gorrito.png-->
+		<div class="col-md-4 col-sm-4 col-xs-4 m_b_10 col_logo">
+			<h1 class=" m_t_10"><a href="https://tc2000.com.ar/" title="Volver al Home"><img src="/assets/images/logo-tc2000-n2.png" title="TC2000" alt="TC2000" class="logo" width="180"/> </a></h1>
+		</div>		
+
+		<div class="col-md-8 col-sm-8 col-xs-8 m_b_10">
+			<div class="buscador">
+				<form>
+					<input type="text" placeholder="Buscar"/>
+					<a href=""><i class="fa fa-search" aria-hidden="true"></i></a>
+				</form>
+			</div>
+
+			<div class="menu_superior">
+				<h4>CATEGORIAS <i class="fa fa-caret-down" aria-hidden="true"></i></h4>
+				<div>
+				<a href="https://www.tc2000.com.ar/tc2000series" target="_blank" title="TC2000 Series">TC2000 Series</a>
+				<a href="https://www.formulanacional.com.ar" target="_blank" title="FORMULA NACIONAL">FORMULA NACIONAL</a>
+				</div>
+			</div>
+
+			<ul class="menu_redes">
+				<li><a href="https://www.facebook.com/TC2000ok/" target="_blank" class="float_l m_t_20" title="Facebook"><span class="iconos facebook"><!-- Facebook --> </span></a></li>
+				<li><a href="https://twitter.com/SuperTc2000" target="_blank" class="float_l m_t_20" title="Twitter"><span class="iconos twitter"><!-- Twitter --> </span></a></li>
+				<li><a href="https://www.youtube.com/channel/UCxNF1Upq53kiArZ1xWjfM0g/videos" target="_blank" class="float_l m_t_20" title="Youtube"><span class="iconos youtube"><!-- Youtube --> </span></a></li>
+				<li><a href="https://www.instagram.com/supertc2000/" target="_blank" class="float_l m_t_20" title="Instagram"><span class="iconos instagram"><!-- Instagram --> </span></a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="row">
+	  <nav class="navbar navbar-default">
+	    <div class="navbar-header">
+	      <button type="button" class="navbar-toggle button_bars" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+	        <span class="sr-only">Menú</span>
+	        <span class="icon-bar m_t_3"></span>
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	      </button>
+		</div>
+	  
+	    <div class="collapse navbar-collapse navbar-ex1-collapse">
+	      <ul class="nav navbar-nav">
+		  	<li><a href="https://tc2000.com.ar/carreras.php?evento=calendario" title="Calendario">Calendario</a></li>
+						<li><a href="https://www.passline.com/eventos/general-roca-recibe-al-tc2000" title="Entradas" target="_blank">Entradas</a></li>
+						<li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" title="Pilotos y Equipos">Pilotos y Equipos</a>
+	          <ul class="dropdown-menu">
+				<li><a href="https://tc2000.com.ar/equipos.php?accion=pilotos" title="Pilotos">Pilotos</a></li>
+		    	<li><a href="https://tc2000.com.ar/equipos.php?accion=equipos" title="Equipos">Equipos</a></li>
+	          </ul>
+			</li>
+			<li><a href="https://tc2000.com.ar/autos.php" title="Autos">Autos</a></li>
+			<li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" title="Estad&iacute;sticas">Posiciones Y Estad&iacute;sticas</a>
+	          <ul class="dropdown-menu">
+					<li><a href="https://tc2000.com.ar/estadisticas.php?accion=posiciones" title="Posiciones 2026">Posiciones 2026</a></li>
+					<li><a href="https://tc2000.com.ar/estadisticas.php?accion=copa-rookie-latam" title="Copa Rookie">Copa Rookie 2026</a></li>
+			    	<li><a href="https://tc2000.com.ar/estadisticas.php?accion=2026" title="Estad&iacute;sticas 2026">Estad&iacute;sticas 2026</a></li>
+					<!--<li><a href="https://tc2000.com.ar/estadisticas.php?accion=2025" title="Estad&iacute;sticas 2025">Estad&iacute;sticas 2025</a></li>-->
+					<li><a href="https://tc2000.com.ar/estadisticas.php?accion=historicas" title="Estad&iacute;sticas Hist&oacute;ricas">Estad&iacute;sticas Hist&oacute;ricas</a></li>
+					<li><a href="https://tc2000.com.ar/estadisticas.php?accion=temporadas&anio=2025" title="Temporadas Anteriores">Temporadas Anteriores</a></li>
+				</ul>
+			</li>
+			<li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" title="Multimedia">Multimedia</a>
+	          <ul class="dropdown-menu">
+					<li><a href="https://tc2000.com.ar/multimedia.php" title="Fotos 2026">Fotos</a></li>
+			    	<li><a href="https://www.youtube.com/channel/UCxNF1Upq53kiArZ1xWjfM0g/videos" title="Videos" target="_blank">Videos</a></li>
+	          </ul></li>
+			<li class="dropdown prensastc">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" title="Prensa">Prensa</a>
+				<ul class="dropdown-menu w_180">
+					<li><a href="https://tc2000.com.ar/noticias.php" title="Noticias">Noticias</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=reglamentos" title="Noticias">Reglamentos</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=historia" title="Historia">Historia</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=kit" title="Kit de Prensa">Kit de Prensa</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=revista_next_gen" title="Revista TC2000 Next Gen">Revista TC2000 Next Gen</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=resultados" title="Resultados">Resultados</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=acreditaciones" title="Acreditaciones">Acreditaciones</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=contacto" title="Contacto">Contacto</a></li>
+				</ul>
+			</li>
+            <li class="rojo"><a href="https://speedhive.mylaps.com/livetiming/YLNSNDLQ-2147484293" title="Tiempos Online" target="_blank">Tiempos Online</a></li>
+	        <!---->
+	        <!--<li class="rojo btn_destacado"><a href="https://speedhive.mylaps.com/livetiming/YLNSNDLQ-2147484293" title="Tiempos Online" target="_blank">Tiempos Online</a></li>-->
+	        <!---->
+		</ul><!-- Termina .menu -->
+	    </div>
+	  </nav>	  
+   </div>
+  </div>
+<!-- </div> -->
+</header>
+
+
+<!-- Slide -->
+<div class="contenedor_slide2" style="background:url('https://www.tc2000.com.ar/images/banners/stc2000/banner-2026-05-23-resize-tc-banner-3.jpg') no-repeat; background-size:cover;">
+  <div class="content2">
+    <p>TC2000</p>
+    <h2>POSICIONES Y ESTADISTICAS</h2>
+  </div>
+</div>
+<!-- Slide -->
+
+<!-- Contenedor General -->
+<div class="container bg_white">
+
+  <!-- Publicidad Internas Slide A y B -->
+  <div class="row">
+    <div class="col-md-12 col-sm-12 col-xs-12 m_t_15">
+
+          </div>
+  </div>
+  <!-- Fin Publicidad Internas Slide A y B -->
+
+  <!-- Contenido Home -->
+
+  <!-- Listado Equipos y Pilotos -->
+  <!-- Boxes Resultados Encuentas -->
+  <script>
+    $(function() {
+      $("#tabs").tabs();
+    });
+  </script>
+          <div class="row tabs_estadisticas_historicas">
+          <div class="col-md-12 col-sm-12 col-xs-12 m_t_20">
+          
+              
+        <h2 class="rojo titulo-acreditacion">ESTAD&Iacute;STICAS HISTORICAS</h2>
+        <div id="tabs" class="tabs_li_back">
+          <ul>
+            <li class="otro_back">
+              <h4><a href="#tabs-1">CAMPEONES</a></h4>
+            </li>
+            <li class="otro_back">
+              <h4><a href="#tabs-2">VICTORIAS</a></h4>
+            </li>
+            <li class="otro_back">
+              <h4><a href="#tabs-4">POLES</a></h4>
+            </li>
+          </ul>
+
+          <div id="tabs-1">
+            <div>
+              <table cellpadding="0" cellspacing="0" class="tabla_resultados">
+                <thead>
+                  <tr>
+                    <td>A&ntilde;o</td>
+                    <td>Piloto</td>
+                    <td>Equipo</td>
+                    <td>Modelo</td>
+                    <td>Cantidad</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- CAMPEONES -->
+                                      <tr>
+                      <td>1980 </td>
+                      <td>Jorge O. del Río </td>
+                      <td>Pianetto Competicion </td>
+                      <td>VW 1500 </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>1981 </td>
+                      <td>Jorge O. del Río </td>
+                      <td>Pianetto Competicion </td>
+                      <td>VW 1500 </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>1982 </td>
+                      <td>Jorge O. del Río </td>
+                      <td>Pianetto Competicion </td>
+                      <td>VW 1500 </td>
+                      <td>6</td>
+                    </tr>                     <tr>
+                      <td>1983 </td>
+                      <td>Ruben L. Di Palma </td>
+                      <td>Di Palma Competicion </td>
+                      <td>VW 1500 </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>1984 </td>
+                      <td>Mario Gayraud </td>
+                      <td>Herceg Competicion </td>
+                      <td>Ford Taunus </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>1985 </td>
+                      <td>Ruben Daray </td>
+                      <td>Akel Competicion </td>
+                      <td>Ford Sierra XR4 </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>1986 </td>
+                      <td>Juan María Traverso </td>
+                      <td>Berta Motorsport </td>
+                      <td>Renault Fuego </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>1987 </td>
+                      <td>Silvio Oltra </td>
+                      <td>Benavidez Competicion </td>
+                      <td>Renault Fuego </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>1988 </td>
+                      <td>Juan María Traverso </td>
+                      <td>Berta Motorsport </td>
+                      <td>Renault Fuego </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>1989 </td>
+                      <td>Miguel A. Guerra </td>
+                      <td>Berta Motorsport </td>
+                      <td>Renault Fuego </td>
+                      <td>2</td>
+                    </tr>                     <tr>
+                      <td>1990 </td>
+                      <td>Juan María Traverso </td>
+                      <td>Berta Motorsport </td>
+                      <td>Renault Fuego </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>1991 </td>
+                      <td>Juan María Traverso </td>
+                      <td>Berta Motorsport </td>
+                      <td>Renault Fuego </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>1992 </td>
+                      <td>Juan María Traverso </td>
+                      <td>Berta Motorsport </td>
+                      <td>Renault Fuego </td>
+                      <td>5</td>
+                    </tr>                     <tr>
+                      <td>1993 </td>
+                      <td>Juan María Traverso </td>
+                      <td>Berta Motorsport </td>
+                      <td>Renault Fuego </td>
+                      <td>5</td>
+                    </tr>                     <tr>
+                      <td>1994 </td>
+                      <td>Guillermo Maldonado </td>
+                      <td>VW YPF Motorsport </td>
+                      <td>VW Gol </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>1995 </td>
+                      <td>Juan María Traverso </td>
+                      <td>Peugeot Sport </td>
+                      <td>Peugeot 405 </td>
+                      <td>8</td>
+                    </tr>                     <tr>
+                      <td>1996 </td>
+                      <td>Ernesto Bessone </td>
+                      <td>Esso Competition </td>
+                      <td>Ford Escort </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>1997 </td>
+                      <td>Henry Martin </td>
+                      <td>Berta Motorsport </td>
+                      <td>Ford Escort Zetec </td>
+                      <td>13</td>
+                    </tr>                     <tr>
+                      <td>1998 </td>
+                      <td>Omar Martínez </td>
+                      <td>Honda Racing </td>
+                      <td>Honda Civic 4p </td>
+                      <td>8</td>
+                    </tr>                     <tr>
+                      <td>1999 </td>
+                      <td>Juan Manuel Silva </td>
+                      <td>Honda Racing </td>
+                      <td>Honda Civic 4p </td>
+                      <td>6</td>
+                    </tr>                     <tr>
+                      <td>2000 </td>
+                      <td>Daniel Cingolani </td>
+                      <td>Berta Motorsport </td>
+                      <td>Ford Escort Zetec </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>2001 </td>
+                      <td>Gabriel P. de Leon </td>
+                      <td>Berta Motorsport </td>
+                      <td>Ford Escort Zetec </td>
+                      <td>2</td>
+                    </tr>                     <tr>
+                      <td>2002 </td>
+                      <td>Norberto Fontana </td>
+                      <td>Toyota Team Argentina </td>
+                      <td>Toyota Corolla </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>2003 </td>
+                      <td>Gabriel P. de Leon </td>
+                      <td>Ford-YPF </td>
+                      <td>Ford Focus </td>
+                      <td>2</td>
+                    </tr>                     <tr>
+                      <td>2004 </td>
+                      <td>Christian Ledesma </td>
+                      <td>Chevrolet- Elaion </td>
+                      <td>Chevrolet Astra </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>2005 </td>
+                      <td>Gabriel P. de Leon </td>
+                      <td>Ford-YPF </td>
+                      <td>Ford Focus </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>2006 </td>
+                      <td>Matias Rossi </td>
+                      <td>Chevrolet- Elaion </td>
+                      <td>Chevrolet Astra </td>
+                      <td>5</td>
+                    </tr>                     <tr>
+                      <td>2007 </td>
+                      <td>Matias Rossi </td>
+                      <td>Chevrolet- Elaion </td>
+                      <td>Chevrolet Astra </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>2008 </td>
+                      <td>Jose Maria Lopez </td>
+                      <td>Equipo Petrobras </td>
+                      <td>Honda New Civic </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>2009 </td>
+                      <td>Jose Maria Lopez </td>
+                      <td>Equipo Petrobras </td>
+                      <td>Honda New Civic </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>2010 </td>
+                      <td>Norberto Fontana </td>
+                      <td>Ford-YPF </td>
+                      <td>Ford Focus </td>
+                      <td>2</td>
+                    </tr>                     <tr>
+                      <td>2011 </td>
+                      <td>Matias Rossi </td>
+                      <td>Toyota Team Argentina </td>
+                      <td>Toyota Corolla </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>2012 </td>
+                      <td>Jose Maria Lopez </td>
+                      <td>PSG16 Team </td>
+                      <td>Focus </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>2013 </td>
+                      <td>Matias Rossi </td>
+                      <td>Toyota Team Argentina </td>
+                      <td>Toyota Corolla </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>2014 </td>
+                      <td>Nestor Girolami </td>
+                      <td>Team Peugeot Total Argentina </td>
+                      <td>Peugeot 408 </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>2015 </td>
+                      <td>Nestor Girolami </td>
+                      <td>Team Peugeot Total Argentina </td>
+                      <td>Peugeot 408 </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>2016 </td>
+                      <td>Agustin Canapino </td>
+                      <td>Chevrolet YPF  </td>
+                      <td>CHEVROLET CRUZE  </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>2017 </td>
+                      <td>Facundo Ardusso </td>
+                      <td>Renault Sport </td>
+                      <td>Renault Fluence GT </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>2018 </td>
+                      <td>Facundo Ardusso </td>
+                      <td>Renault Sport </td>
+                      <td>Renault Fluence </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>2019 </td>
+                      <td>Leonel Pernia </td>
+                      <td>Renault Sport </td>
+                      <td>Renault Fluence GT </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>2020 </td>
+                      <td>Matias Rossi </td>
+                      <td>Toyota Gazzo Racing Argentina </td>
+                      <td>Corolla </td>
+                      <td>5</td>
+                    </tr>                     <tr>
+                      <td>2021 </td>
+                      <td>Agustin Canapino </td>
+                      <td>Chevrolet YPF  </td>
+                      <td>Cruze </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>2022 </td>
+                      <td>Leonel Pernia </td>
+                      <td>Axion Energy Sport </td>
+                      <td>Renault Fluence GT </td>
+                      <td>3</td>
+                    </tr>                     <tr>
+                      <td>2023 </td>
+                      <td>Leonel Pernia </td>
+                      <td>Axion Energy Sport </td>
+                      <td>Renault Fluence GT </td>
+                      <td>7</td>
+                    </tr>                     <tr>
+                      <td>2024 </td>
+                      <td>Leonel Pernia </td>
+                      <td>Axion Energy Sport </td>
+                      <td>Renault Fluence GT </td>
+                      <td>4</td>
+                    </tr>                     <tr>
+                      <td>2025 </td>
+                      <td>Matias Rossi </td>
+                      <td>TOYOTA GAZOO Racing YPF Infinia </td>
+                      <td>Toyota Corolla Cross GR-S </td>
+                      <td>2</td>
+                    </tr>                 </tbody>
+              </table>
+            </div>
+            <div class="separador_rojo"></div>
+          </div>
+
+
+          <div id="tabs-2">
+            <!-- VICTORIAS -->
+            <div>
+              <table cellpadding="0" cellspacing="0" class="tabla_resultados">
+                <thead>
+                  <tr>
+                    <td>Piloto</td>
+                    <td>Cantidad</td>
+                    <td>Fecha &uacute;ltima</td>
+                    <td>Lugar &uacute;ltima</td>
+                    <td>Fecha primera</td>
+                    <td>Lugar primera</td>
+                  </tr>
+                </thead>
+                <tbody>
+                                      <tr>
+                      <td>Juan María Traverso </td>
+                      <td>68</td>
+                      <td>2001-09-09</td>
+                      <td>San Juan</td>
+                      <td>1980-09-28</td>
+                      <td>Las Flores</td>
+                    </tr>                     <tr>
+                      <td>Matias Rossi </td>
+                      <td>47</td>
+                      <td>2026-04-14</td>
+                      <td>El Zonda San Juan</td>
+                      <td>2005-03-27</td>
+                      <td>Paraná</td>
+                    </tr>                     <tr>
+                      <td>Leonel Pernia </td>
+                      <td>39</td>
+                      <td>2025-08-31</td>
+                      <td>Junín</td>
+                      <td>2008-07-20</td>
+                      <td>Córdoba</td>
+                    </tr>                     <tr>
+                      <td>Agustin Canapino </td>
+                      <td>29</td>
+                      <td>2024-10-06</td>
+                      <td>200 Km de Buenos Aires</td>
+                      <td>2011-06-26</td>
+                      <td>Córdoba</td>
+                    </tr>                     <tr>
+                      <td>Ernesto Bessone </td>
+                      <td>28</td>
+                      <td>2000-07-30</td>
+                      <td>Rafaela</td>
+                      <td>1985-11-24</td>
+                      <td>Las Flores</td>
+                    </tr>                     <tr>
+                      <td>Gabriel P. de Leon </td>
+                      <td>28</td>
+                      <td>2026-09-06</td>
+                      <td>Junín</td>
+                      <td>1998-10-30</td>
+                      <td>Río Cuarto 2</td>
+                    </tr>                     <tr>
+                      <td>Omar Martínez </td>
+                      <td>24</td>
+                      <td>2009-06-14</td>
+                      <td>Termas de Río Hondo</td>
+                      <td>1994-10-16</td>
+                      <td>Salta</td>
+                    </tr>                     <tr>
+                      <td>Juan Manuel Silva </td>
+                      <td>22</td>
+                      <td>2011-03-13</td>
+                      <td>General Roca</td>
+                      <td>1998-08-09</td>
+                      <td>Buenos Aires 2</td>
+                    </tr>                     <tr>
+                      <td>Henry Martin </td>
+                      <td>19</td>
+                      <td>2000-10-22</td>
+                      <td>R&iacute;o Cuarto</td>
+                      <td>1997-04-26</td>
+                      <td>R&iacute;o Cuarto 2</td>
+                    </tr>                     <tr>
+                      <td>Jose Maria Lopez </td>
+                      <td>18</td>
+                      <td>2013-12-01</td>
+                      <td>Potrero de los Funes</td>
+                      <td>2007-02-09</td>
+                      <td>San Rafael</td>
+                    </tr>                     <tr>
+                      <td>Facundo Ardusso </td>
+                      <td>18</td>
+                      <td>2023-03-19</td>
+                      <td>Rafaela</td>
+                      <td>2013-03-31</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Guillermo Maldonado </td>
+                      <td>17</td>
+                      <td>1996-09-14</td>
+                      <td>9 de Julio</td>
+                      <td>1988-05-08</td>
+                      <td>Mendoza</td>
+                    </tr>                     <tr>
+                      <td>Hernández </td>
+                      <td>16</td>
+                      <td>2003-11-23</td>
+                      <td>Córdoba</td>
+                      <td>1997-04-05</td>
+                      <td>Rafaela 1</td>
+                    </tr>                     <tr>
+                      <td>Jorge O. del Río </td>
+                      <td>16</td>
+                      <td>1991-02-27</td>
+                      <td>Mar del Plata</td>
+                      <td>1980-04-20</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Norberto Fontana </td>
+                      <td>15</td>
+                      <td>1969-12-31</td>
+                      <td>Viedma</td>
+                      <td>2001-08-07</td>
+                      <td>Oberá</td>
+                    </tr>                     <tr>
+                      <td>Ruben L. Di Palma </td>
+                      <td>15</td>
+                      <td>1986-02-23</td>
+                      <td>Balcarce</td>
+                      <td>1980-08-24</td>
+                      <td>R&iacute;o Cuarto</td>
+                    </tr>                     <tr>
+                      <td>Mario Gayraud </td>
+                      <td>14</td>
+                      <td>1988-12-18</td>
+                      <td>R&iacute;o Cuarto</td>
+                      <td>1983-09-25</td>
+                      <td>Concordia</td>
+                    </tr>                     <tr>
+                      <td>Daniel Cingolani </td>
+                      <td>13</td>
+                      <td>2002-06-09</td>
+                      <td>Resistencia</td>
+                      <td>1993-11-14</td>
+                      <td>Paran&aacute;</td>
+                    </tr>                     <tr>
+                      <td>Christian Ledesma </td>
+                      <td>13</td>
+                      <td>2017-04-11</td>
+                      <td>Buenos Aires 200KM</td>
+                      <td>2003-06-08</td>
+                      <td>Bahía Blanca</td>
+                    </tr>                     <tr>
+                      <td>Bernardo Llaver </td>
+                      <td>13</td>
+                      <td>2023-09-10</td>
+                      <td>9 de Julio</td>
+                      <td>2010-11-07</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Fernandino </td>
+                      <td>12</td>
+                      <td>1987-05-07</td>
+                      <td>Alta Gracia</td>
+                      <td>1980-02-11</td>
+                      <td>Mendoza</td>
+                    </tr>                     <tr>
+                      <td>Emiliano Spataro </td>
+                      <td>10</td>
+                      <td>2017-10-01</td>
+                      <td>Buenos Aires </td>
+                      <td>2005-06-03</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Mariano Werner </td>
+                      <td>10</td>
+                      <td>2018-11-25</td>
+                      <td>Córdoba</td>
+                      <td>2009-07-05</td>
+                      <td>Resistencia</td>
+                    </tr>                     <tr>
+                      <td>Guillermo Ortelli </td>
+                      <td>10</td>
+                      <td>2016-07-31</td>
+                      <td>Buenos Aires </td>
+                      <td>1994-12-18</td>
+                      <td>Rafaela</td>
+                    </tr>                     <tr>
+                      <td>Marcelo Bugliotti </td>
+                      <td>10</td>
+                      <td>2007-06-17</td>
+                      <td>San Pablo</td>
+                      <td>1999-06-27</td>
+                      <td>Olavarr&iacute;a 2</td>
+                    </tr>                     <tr>
+                      <td>Nestor Girolami </td>
+                      <td>9</td>
+                      <td>2015-12-20</td>
+                      <td>San Luis</td>
+                      <td>2010-06-27</td>
+                      <td>Chaco</td>
+                    </tr>                     <tr>
+                      <td>Zanatta </td>
+                      <td>9</td>
+                      <td>1994-09-04</td>
+                      <td>Rafaela</td>
+                      <td>1991-05-19</td>
+                      <td>Paran&aacute;</td>
+                    </tr>                     <tr>
+                      <td>Julián Santero </td>
+                      <td>9</td>
+                      <td>2023-11-05</td>
+                      <td>Paraná</td>
+                      <td>2020-12-06</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Martín Basso </td>
+                      <td>8</td>
+                      <td>2008-12-07</td>
+                      <td>Punta del Este</td>
+                      <td>2004-10-17</td>
+                      <td>Bah&iacute;a Blanca</td>
+                    </tr>                     <tr>
+                      <td>Franco Vivian </td>
+                      <td>8</td>
+                      <td>2026-10-11</td>
+                      <td>Toay, La Pampa</td>
+                      <td>2014-05-25</td>
+                      <td>Rosario</td>
+                    </tr>                     <tr>
+                      <td>Osvaldo López </td>
+                      <td>8</td>
+                      <td>1990-11-25</td>
+                      <td>Balcarce</td>
+                      <td>1987-10-25</td>
+                      <td>Pigüe</td>
+                    </tr>                     <tr>
+                      <td>Fabian Yannantuoni </td>
+                      <td>7</td>
+                      <td>2017-05-07</td>
+                      <td>Mendoza</td>
+                      <td>2003-09-21</td>
+                      <td>San Rafael</td>
+                    </tr>                     <tr>
+                      <td>Etchegaray </td>
+                      <td>6</td>
+                      <td>1995-06-11</td>
+                      <td>Rafaela</td>
+                      <td>1989-06-25</td>
+                      <td>Concordia</td>
+                    </tr>                     <tr>
+                      <td>Miguel A. Guerra </td>
+                      <td>6</td>
+                      <td>1996-08-18</td>
+                      <td>Bah&iacute;a Blanca</td>
+                      <td>1988-11-13</td>
+                      <td>Balcarce</td>
+                    </tr>                     <tr>
+                      <td>Luis Belloso </td>
+                      <td>6</td>
+                      <td>1998-09-20</td>
+                      <td>San Juan 2</td>
+                      <td>1993-09-12</td>
+                      <td>Rafaela</td>
+                    </tr>                     <tr>
+                      <td>Silvio Oltra </td>
+                      <td>5</td>
+                      <td>1989-05-07</td>
+                      <td>Buenos Aires</td>
+                      <td>1987-03-15</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Mariano Altuna </td>
+                      <td>5</td>
+                      <td>2018-11-04</td>
+                      <td>200 KM Bs As</td>
+                      <td>1999-08-29</td>
+                      <td>Trelew 2</td>
+                    </tr>                     <tr>
+                      <td>Ignacio Montenegro </td>
+                      <td>5</td>
+                      <td>2023-11-26</td>
+                      <td>Córdoba</td>
+                      <td>2022-08-14</td>
+                      <td>San Nicolás</td>
+                    </tr>                     <tr>
+                      <td>Damián Fineschi </td>
+                      <td>5</td>
+                      <td>2024-10-06</td>
+                      <td>200 Km de Buenos Aires</td>
+                      <td>2015-03-29</td>
+                      <td>Junín</td>
+                    </tr>                     <tr>
+                      <td>Facundo Aldrighetti </td>
+                      <td>5</td>
+                      <td>2024-08-10</td>
+                      <td>Río Cuarto</td>
+                      <td>2024-04-14</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Facundo Chapur </td>
+                      <td>4</td>
+                      <td>2018-07-05</td>
+                      <td>Rafaela</td>
+                      <td>2017-04-24</td>
+                      <td>Potrero de los Funes</td>
+                    </tr>                     <tr>
+                      <td>Tiago Pernia </td>
+                      <td>4</td>
+                      <td>2024-06-23</td>
+                      <td>San Juan Villicum</td>
+                      <td>2024-05-19</td>
+                      <td>San Nicolás</td>
+                    </tr>                     <tr>
+                      <td>Marcelo Ciarrocchi </td>
+                      <td>4</td>
+                      <td>2025-06-08</td>
+                      <td>Rosario</td>
+                      <td>2019-11-24</td>
+                      <td>Río Cuarto</td>
+                    </tr>                     <tr>
+                      <td>Emiliano Stang </td>
+                      <td>4</td>
+                      <td>2025-11-23</td>
+                      <td>Salta</td>
+                      <td>2025-05-04</td>
+                      <td>Oberá</td>
+                    </tr>                     <tr>
+                      <td>Ruben Daray </td>
+                      <td>4</td>
+                      <td>1985-06-15</td>
+                      <td>Buenos Aires</td>
+                      <td>1981-12-19</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Esteban Guerrieri </td>
+                      <td>3</td>
+                      <td>2017-06-11</td>
+                      <td>Termas</td>
+                      <td>2011-08-21</td>
+                      <td>La Plata</td>
+                    </tr>                     <tr>
+                      <td>Franco Morillo </td>
+                      <td>3</td>
+                      <td>2026-06-28</td>
+                      <td>San Nicolás</td>
+                      <td>2025-11-09</td>
+                      <td>Mercedes, Uruguay</td>
+                    </tr>                     <tr>
+                      <td>Facundo Marques </td>
+                      <td>3</td>
+                      <td>2023-08-08</td>
+                      <td>Río Cuarto</td>
+                      <td>2023-06-04</td>
+                      <td>San Jorge</td>
+                    </tr>                     <tr>
+                      <td>Gabriel Furlán </td>
+                      <td>3</td>
+                      <td>2004-09-05</td>
+                      <td>San Juan</td>
+                      <td>2000-03-09</td>
+                      <td>San Jorge</td>
+                    </tr>                     <tr>
+                      <td>Lucas Armellini </td>
+                      <td>3</td>
+                      <td>1999-05-12</td>
+                      <td>San Jorge 2</td>
+                      <td>1999-03-10</td>
+                      <td>General Roca 1</td>
+                    </tr>                     <tr>
+                      <td>José Manuel Urcera </td>
+                      <td>2</td>
+                      <td>2017-03-26</td>
+                      <td>Buenos Aires </td>
+                      <td>2016-05-29</td>
+                      <td>Cordoba</td>
+                    </tr>                     <tr>
+                      <td>Mauro Giallombardo </td>
+                      <td>2</td>
+                      <td>2010-07-20</td>
+                      <td>Buenos Aires</td>
+                      <td>2010-11-07</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Crocco </td>
+                      <td>2</td>
+                      <td>1984-12-23</td>
+                      <td>Buenos Aires</td>
+                      <td>1982-11-07</td>
+                      <td>Bah&iacute;a Blanca</td>
+                    </tr>                     <tr>
+                      <td>Gustavo Der Ohanessian </td>
+                      <td>2</td>
+                      <td>1997-04-06</td>
+                      <td>Rafaela 2</td>
+                      <td>1990-03-18</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Serafini </td>
+                      <td>2</td>
+                      <td>1985-03-17</td>
+                      <td>General Roca</td>
+                      <td>1984-06-17</td>
+                      <td>Rafaela</td>
+                    </tr>                     <tr>
+                      <td>Esteban Tuero </td>
+                      <td>2</td>
+                      <td>2000-06-25</td>
+                      <td>Ober&aacute;</td>
+                      <td>1999-12-05</td>
+                      <td>San Jorge 1</td>
+                    </tr>                     <tr>
+                      <td>Nicolás Vuyovich </td>
+                      <td>2</td>
+                      <td>2005-05-08</td>
+                      <td>San Juan</td>
+                      <td>2002-10-13</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Luis Soppelsa </td>
+                      <td>1</td>
+                      <td>1997-12-21</td>
+                      <td>Rafaela</td>
+                      <td>1997-12-21</td>
+                      <td>Rafaela</td>
+                    </tr>                     <tr>
+                      <td>Lucas Carabajal </td>
+                      <td>1</td>
+                      <td>2026-09-27</td>
+                      <td>El Zonda San Juan</td>
+                      <td>2026-09-27</td>
+                      <td>El Zonda San Juan</td>
+                    </tr>                     <tr>
+                      <td>Franco Riva </td>
+                      <td>1</td>
+                      <td>2026-03-15</td>
+                      <td>Callejero Parque de la Ciudad</td>
+                      <td>2026-03-15</td>
+                      <td>Callejero de Santa Fe</td>
+                    </tr>                     <tr>
+                      <td>Ricardo Risatti </td>
+                      <td>1</td>
+                      <td>2012-09-30</td>
+                      <td>Río Cuarto</td>
+                      <td>2012-09-30</td>
+                      <td>Río Cuarto</td>
+                    </tr>                     <tr>
+                      <td>Mariano Pernia </td>
+                      <td>1</td>
+                      <td>2023-07-16</td>
+                      <td>La Rioja</td>
+                      <td>2023-07-16</td>
+                      <td>La Rioja</td>
+                    </tr>                     <tr>
+                      <td>Del Campo Gv </td>
+                      <td>1</td>
+                      <td>1985-01-12</td>
+                      <td>Buenos Aires</td>
+                      <td>1985-01-12</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Soto </td>
+                      <td>1</td>
+                      <td>1986-05-10</td>
+                      <td>Pigüe</td>
+                      <td>1986-05-10</td>
+                      <td>Pigüe</td>
+                    </tr>                     <tr>
+                      <td>Zampa </td>
+                      <td>1</td>
+                      <td>1986-11-30</td>
+                      <td>Bah&iacute;a Blanca</td>
+                      <td>1986-11-30</td>
+                      <td>Bah&iacute;a Blanca</td>
+                    </tr>                     <tr>
+                      <td>Ezequiel Bosio </td>
+                      <td>1</td>
+                      <td>2007-07-10</td>
+                      <td>200 kms Buenos Aires</td>
+                      <td>2007-07-10</td>
+                      <td>200 kms Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Nelson García </td>
+                      <td>1</td>
+                      <td>1999-12-19</td>
+                      <td>Buenos Aires 2</td>
+                      <td>1999-12-19</td>
+                      <td>Buenos Aires 2</td>
+                    </tr>                     <tr>
+                      <td>Anibal Zaniratto </td>
+                      <td>1</td>
+                      <td>2001-07-29</td>
+                      <td>C&oacute;rdoba</td>
+                      <td>2001-07-29</td>
+                      <td>C&oacute;rdoba</td>
+                    </tr>                     <tr>
+                      <td>Matías Muñoz Marchesi </td>
+                      <td>1</td>
+                      <td>2014-10-05</td>
+                      <td>San Juan</td>
+                      <td>2014-10-05</td>
+                      <td>San Juan</td>
+                    </tr>                     <tr>
+                      <td>Nicolás Kern </td>
+                      <td>1</td>
+                      <td>2003-10-08</td>
+                      <td>Salta</td>
+                      <td>2003-10-08</td>
+                      <td>Salta</td>
+                    </tr>                     <tr>
+                      <td>P. Di Palma </td>
+                      <td>1</td>
+                      <td>2004-10-31</td>
+                      <td>200 kms Buenos Aires</td>
+                      <td>2004-10-31</td>
+                      <td>200 kms Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>L. Burti </td>
+                      <td>1</td>
+                      <td>2005-10-30</td>
+                      <td>200 kms Buenos Aires</td>
+                      <td>2005-10-30</td>
+                      <td>200 kms Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Diego Aventín </td>
+                      <td>1</td>
+                      <td>2005-10-30</td>
+                      <td>200 kms Buenos Aires</td>
+                      <td>2005-10-30</td>
+                      <td>200 kms Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Guido Falaschi </td>
+                      <td>1</td>
+                      <td>2011-07-17</td>
+                      <td>Termas de R&iacute;o Hondo</td>
+                      <td>2011-07-17</td>
+                      <td>Termas de R&iacute;o Hondo</td>
+                    </tr>                     <tr>
+                      <td>Menú Alain </td>
+                      <td>1</td>
+                      <td>2006-10-29</td>
+                      <td>200 kms Buenos Aires</td>
+                      <td>2006-10-29</td>
+                      <td>200 kms Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Reid, Anthony </td>
+                      <td>1</td>
+                      <td>2008-10-08</td>
+                      <td>200 kms Buenos Aires</td>
+                      <td>2008-10-08</td>
+                      <td>200 kms Buenos Aires</td>
+                    </tr>                 </tbody>
+              </table>
+            </div>
+            <div class="separador_rojo"></div>
+          </div>
+
+          <!-- VICTORIAS x MARCAS-->
+          <!--
+			  <div id="tabs-3">
+				<div>
+				<table cellpadding="0" cellspacing="0" class="tabla_resultados"> 
+					<thead>
+		              	<tr>
+		              		<td>Piloto</td><td>Marca</td><td>Modelo</td><td>Cantidad</td><td>Fecha &uacute;ltima</td><td>Lugar &uacute;ltima</td>
+		              	</tr>
+					</thead>
+					<tbody>
+										<tr>
+		                    <td>Jose Maria Lopez </td>
+		                    <td>Ford</td>
+		                    <td>Focus</td>
+		                    <td>155</td>
+			                <td>2012-09-09</td>
+			                <td>Mendoza</td>
+		                </tr> 						<tr>
+		                    <td>Leonel Pernia </td>
+		                    <td>Renault</td>
+		                    <td>Fluence </td>
+		                    <td>94</td>
+			                <td>2018-03-18</td>
+			                <td>Buenos Aires </td>
+		                </tr> 						<tr>
+		                    <td>Ricardo Risatti </td>
+		                    <td>Honda</td>
+		                    <td>Civic</td>
+		                    <td>88</td>
+			                <td>2012-09-30</td>
+			                <td>Río Cuarto</td>
+		                </tr> 						<tr>
+		                    <td>Emiliano Spataro </td>
+		                    <td>VW</td>
+		                    <td>Bora</td>
+		                    <td>64</td>
+			                <td>2005-07-24</td>
+			                <td>Curitiba</td>
+		                </tr> 						<tr>
+		                    <td>Agustin Canapino </td>
+		                    <td>Chevrolet</td>
+		                    <td>Nuevo Cruze</td>
+		                    <td>41</td>
+			                <td>2017-12-17</td>
+			                <td>Córdoba </td>
+		                </tr> 						<tr>
+		                    <td>Matias Rossi </td>
+		                    <td>Toyota</td>
+		                    <td>Corolla</td>
+		                    <td>40</td>
+			                <td>2016-11-26</td>
+			                <td>General Roca</td>
+		                </tr> 						<tr>
+		                    <td>Mariano Werner </td>
+		                    <td>Peugeot</td>
+		                    <td>408</td>
+		                    <td>32</td>
+			                <td>2017-11-05</td>
+			                <td>San Juan </td>
+		                </tr> 						<tr>
+		                    <td>Bernardo Llaver </td>
+		                    <td>Fiat</td>
+		                    <td>Linea</td>
+		                    <td>18</td>
+			                <td>2016-09-25</td>
+			                <td>La Pampa</td>
+		                </tr> 						<tr>
+		                    <td>Gabriel Furlán </td>
+		                    <td>Mitsubishi	</td>
+		                    <td>Lancer</td>
+		                    <td>3</td>
+			                <td>2004-05-09</td>
+			                <td>San Juan</td>
+		                </tr> 						<tr>
+		                    <td>Ernesto Bessone </td>
+		                    <td>Chrysler</td>
+		                    <td>Chrysler Neón</td>
+		                    <td>2</td>
+			                <td>2000-07-30</td>
+			                <td>Rafaela</td>
+		                </tr> 						<tr>
+		                    <td>Esteban Guerrieri </td>
+		                    <td>Citroën</td>
+		                    <td>C4 Lounge </td>
+		                    <td>2</td>
+			                <td>2017-06-11</td>
+			                <td>Termas </td>
+		                </tr> 					</tbody>
+				</table>
+				</div>
+				<div class="separador_rojo"></div>
+			  </div>
+-->
+
+
+          <div id="tabs-4">
+            <!-- POLES -->
+            <div>
+              <table cellpadding="0" cellspacing="0" class="tabla_resultados">
+                <thead>
+                  <tr>
+                    <td>Piloto</td>
+                    <td>Cantidad</td>
+                    <td>Fecha &uacute;ltima</td>
+                    <td>Lugar &uacute;ltima</td>
+                    <td>Fecha primera</td>
+                    <td>Lugar primera</td>
+                  </tr>
+                </thead>
+                <tbody>
+                                      <tr>
+                      <td>Juan María Traverso </td>
+                      <td>73</td>
+                      <td>2000-07-29</td>
+                      <td>Rafaela</td>
+                      <td>1980-09-27</td>
+                      <td>Las Flores</td>
+                    </tr>                     <tr>
+                      <td>Leonel Pernia </td>
+                      <td>39</td>
+                      <td>2025-09-27</td>
+                      <td>200 Km de Buenos Aires</td>
+                      <td>2009-10-04</td>
+                      <td>Callejero de Santa Fe</td>
+                    </tr>                     <tr>
+                      <td>Agustin Canapino </td>
+                      <td>34</td>
+                      <td>2022-11-12</td>
+                      <td>Concepción del Uruguay</td>
+                      <td>2011-06-25</td>
+                      <td>Córdoba</td>
+                    </tr>                     <tr>
+                      <td>Jose Maria Lopez </td>
+                      <td>31</td>
+                      <td>2013-05-12</td>
+                      <td>San Juan</td>
+                      <td>2007-09-02</td>
+                      <td>San Juan</td>
+                    </tr>                     <tr>
+                      <td>Matias Rossi </td>
+                      <td>30</td>
+                      <td>2026-09-05</td>
+                      <td>Junín</td>
+                      <td>2007-12-02</td>
+                      <td>San Luis</td>
+                    </tr>                     <tr>
+                      <td>Juan Manuel Silva </td>
+                      <td>29</td>
+                      <td>2008-11-02</td>
+                      <td>San Mart&iacute;n, Mendoza</td>
+                      <td>1998-05-30</td>
+                      <td>Olavarr&iacute;a 1</td>
+                    </tr>                     <tr>
+                      <td>Gabriel P. de Leon </td>
+                      <td>28</td>
+                      <td>2019-11-09</td>
+                      <td>Buenos Aires</td>
+                      <td>1998-10-30</td>
+                      <td>Río IV 2</td>
+                    </tr>                     <tr>
+                      <td>Daniel Cingolani </td>
+                      <td>26</td>
+                      <td>2001-07-06</td>
+                      <td>Ober&aacute;</td>
+                      <td>1991-04-13</td>
+                      <td>R&iacute;o IV</td>
+                    </tr>                     <tr>
+                      <td>Ernesto Bessone </td>
+                      <td>25</td>
+                      <td>1997-05-17</td>
+                      <td>Posadas 2</td>
+                      <td>1985-11-30</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Henry Martin </td>
+                      <td>24</td>
+                      <td>2000-08-19</td>
+                      <td>Buenos Aires</td>
+                      <td>1997-04-26</td>
+                      <td>R&iacute;o IV 2</td>
+                    </tr>                     <tr>
+                      <td>Facundo Ardusso </td>
+                      <td>22</td>
+                      <td>2023-09-09</td>
+                      <td>9 de Julio</td>
+                      <td>2010-04-10</td>
+                      <td>Mendoza</td>
+                    </tr>                     <tr>
+                      <td>Ruben L. Di Palma </td>
+                      <td>22</td>
+                      <td>1984-04-17</td>
+                      <td>Paran&aacute;</td>
+                      <td>1980-08-23</td>
+                      <td>R&iacute;o IV</td>
+                    </tr>                     <tr>
+                      <td>Omar Martínez </td>
+                      <td>18</td>
+                      <td>2003-01-11</td>
+                      <td>San Luis</td>
+                      <td>1994-10-15</td>
+                      <td>Salta</td>
+                    </tr>                     <tr>
+                      <td>Guillermo Maldonado </td>
+                      <td>17</td>
+                      <td>1996-09-14</td>
+                      <td>9 de Julio</td>
+                      <td>1989-10-21</td>
+                      <td>Pigue</td>
+                    </tr>                     <tr>
+                      <td>Martín Basso </td>
+                      <td>15</td>
+                      <td>2010-05-12</td>
+                      <td>Potrero de Los Funes</td>
+                      <td>2003-07-29</td>
+                      <td>R&iacute;o IV</td>
+                    </tr>                     <tr>
+                      <td>Guillermo Ortelli </td>
+                      <td>12</td>
+                      <td>2008-04-13</td>
+                      <td>Salta</td>
+                      <td>1984-08-13</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Mario Gayraud </td>
+                      <td>11</td>
+                      <td>1987-10-24</td>
+                      <td>Pigue</td>
+                      <td>1984-05-19</td>
+                      <td>M. Ju&aacute;rez</td>
+                    </tr>                     <tr>
+                      <td>Emiliano Spataro </td>
+                      <td>11</td>
+                      <td>2016-03-19</td>
+                      <td>Trelew</td>
+                      <td>2005-04-09</td>
+                      <td>Rafaela</td>
+                    </tr>                     <tr>
+                      <td>Franco Vivian </td>
+                      <td>10</td>
+                      <td>2026-10-31</td>
+                      <td>General Roca</td>
+                      <td>2014-05-03</td>
+                      <td>Alta Gracia</td>
+                    </tr>                     <tr>
+                      <td>Luis Belloso </td>
+                      <td>10</td>
+                      <td>1998-09-19</td>
+                      <td>San Juan 2</td>
+                      <td>1992-05-18</td>
+                      <td>R&iacute;o IV</td>
+                    </tr>                     <tr>
+                      <td>Mariano Werner </td>
+                      <td>9</td>
+                      <td>2016-06-18</td>
+                      <td>Termas de Río Hondo</td>
+                      <td>2009-09-06</td>
+                      <td>Neuquen</td>
+                    </tr>                     <tr>
+                      <td>Hernández </td>
+                      <td>9</td>
+                      <td>2001-09-29</td>
+                      <td>Mar de Aj&oacute;</td>
+                      <td>1997-04-05</td>
+                      <td>Rafaela 1</td>
+                    </tr>                     <tr>
+                      <td>Jorge O. del Río </td>
+                      <td>9</td>
+                      <td>1983-09-24</td>
+                      <td>Concordia</td>
+                      <td>1980-06-06</td>
+                      <td>Alta Gracia</td>
+                    </tr>                     <tr>
+                      <td>Fernandino </td>
+                      <td>8</td>
+                      <td>1987-12-09</td>
+                      <td>Las Parejas</td>
+                      <td>1980-12-13</td>
+                      <td>Buenos Aires</td>
+                    </tr>                     <tr>
+                      <td>Osvaldo López </td>
+                      <td>8</td>
+                      <td>1991-12-21</td>
+                      <td>Las Flores</td>
+                      <td>1988-04-02</td>
+                      <td>General Roca</td>
+                    </tr>                     <tr>
+                      <td>Nestor Girolami </td>
+                      <td>8</td>
+                      <td>2015-12-19</td>
+                      <td>San Luis</td>
+                      <td>2010-08-22</td>
+                      <td>San Juan</td>
+                    </tr>                     <tr>
+                      <td>Gabriel Furlán </td>
+                      <td>7</td>
+                      <td>2004-09-05</td>
+                      <td>San Juan</td>
+                      <td>2000-02-09</td>
+                      <td>San Jorge</td>
+                    </tr>                     <tr>
+                      <td>Norberto Fontana </td>
+                      <td>5</td>
+                      <td>2015-11-07</td>
+                      <td>Mendoza</td>
+                      <td>2002-05-04</td>
+                      <td>San Juan</td>
+                    </tr>                     <tr>
+                      <td>Bernardo Llaver </td>
+                      <td>5</td>
+                      <td>2024-03-02</td>
+                      <td>Concordia</td>
+                      <td>2018-05-19</td>
+                      <td>Potrero de los Funes</td>
+                    </tr>                     <tr>
+                      <td>Silvio Oltra </td>
+                      <td>5</td>
+                      <td>1991-06-29</td>
+                      <td>Tucum&aacute;n</td>
+                      <td>1987-10-03</td>
+                      <td>San Juan</td>
+                    </tr>                     <tr>
+                      <td>Nelson García </td>
+                      <td>5</td>
+                      <td>2004-08-08</td>
+                      <td>Concordia</td>
+                      <td>1999-06-26</td>
+                      <td>Olavarr&iacute;a 2</td>
+                    </tr>                     <tr>
+                      <td>Diego Aventín </td>
+                      <td>5</td>
+                      <td>2012-03-26</td>
+                      <td>San Luis</td>
+                      <td>2004-04-24</td>
+                      <td>Viedma</td>
+                    </tr>                     <tr>
+                      <td>Miguel A. Guerra </td>
+                      <td>4</td>
+                      <td>1996-07-20</td>
+                      <td>Paran&aacute;</td>
+                      <td>1989-04-15</td>
+                      <td>General Roca</td>
+                    </tr>                     <tr>
+                      <td>Zanatta </td>
+                      <td>4</td>
+                      <td>1994-12-17</td>
+                      <td>Rafaela</td>
+                      <td>1992-08-01</td>
+                      <td>Paran&aacute;</td>
+                    </tr>                     <tr>
+                      <td>Lucas Armellini </td>
+                      <td>4</td>
+                      <td>1999-03-10</td>
+                      <td>General Roca 2</td>
+                      <td>1999-08-22</td>
+                      <td>Bah&iacute;a Blanca 2</td>
+                    </tr>                     <tr>
+                      <td>Carlos Bueno </td>
+                      <td>4</td>
+                      <td>2012-03-10</td>
+                      <td>Alta Gracia</td>
+                      <td>2007-03-04</td>
+                      <td>Comodoro Rivadavia</td>
+                    </tr>                     <tr>
+                      <td>Ignacio Montenegro </td>
+                      <td>4</td>
+                      <td>2023-11-04</td>
+                      <td>Paraná</td>
+                      <td>2023-05-21</td>
+                      <td>Neuquén</td>
+                    </tr>                     <tr>
+                      <td>José Manuel Urcera </td>
+                      <td>3</td>
+                      <td>2017-03-25</td>
+                      <td>Buenos Aires </td>
+                      <td>2016-07-30</td>
+                      <td>Buenos Aires </td>
+                    </tr>                     <tr>
+                      <td>Crocco </td>
+                      <td>3</td>
+                      <td>1985-03-16</td>
+                      <td>General Roca</td>
+                      <td>2007-12-02</td>
+                      <td>R&iacute;o IV</td>
+                    </tr>                     <tr>
+                      <td>Marcelo Bugliotti </td>
+                      <td>3</td>
+                      <td>2004-06-20</td>
+                      <td>San Luis</td>
+                      <td>2001-07-28</td>
+                      <td>C&oacute;rdoba</td>
+                    </tr>                     <tr>
+                      <td>Damián Fineschi </td>
+                      <td>3</td>
+                      <td>2021-06-08</td>
+                      <td>Buenos Aires</td>
+                      <td>2015-07-26</td>
+                      <td>San Luis </td>
+                    </tr>                     <tr>
+                      <td>Facundo Aldrighetti </td>
+                      <td>3</td>
+                      <td>2026-08-08</td>
+                      <td>Toay, La Pampa</td>
+                      <td>2024-06-22</td>
+                      <td>San Juan Villicum</td>
+                    </tr>                     <tr>
+                      <td>Christian Ledesma </td>
+                      <td>2</td>
+                      <td>2012-04-01</td>
+                      <td>Buenos Aires</td>
+                      <td>2003-07-06</td>
+                      <td>Bah&iacute;a Blanca</td>
+                    </tr>                     <tr>
+                      <td>Facundo Chapur </td>
+                      <td>2</td>
+                      <td>2018-07-04</td>
+                      <td>Rafaela</td>
+                      <td>2015-06-06</td>
+                      <td>Termas de Río Hondo </td>
+                    </tr>                     <tr>
+                      <td>Mariano Altuna </td>
+                      <td>2</td>
+                      <td>2013-03-31</td>
+                      <td>Buenos Aires</td>
+                      <td>2011-03-13</td>
+                      <td>General Roca</td>
+                    </tr>                     <tr>
+                      <td>Marcelo Ciarrocchi </td>
+                      <td>2</td>
+                      <td>2025-10-11</td>
+                      <td>El Zonda San Juan</td>
+                      <td>2024-12-14</td>
+                      <td>Concordia</td>
+                    </tr>                     <tr>
+                      <td>Oscar Fineschi </td>
+                      <td>2</td>
+                      <td>2004-09-19</td>
+                      <td>San Rafael</td>
+                      <td>2001-07-07</td>
+                      <td>Ober&aacute;</td>
+                    </tr>                     <tr>
+                      <td>Ruben Daray </td>
+                      <td>2</td>
+                      <td>1986-02-22</td>
+                      <td>Balcarce</td>
+                      <td>1985-04-13</td>
+                      <td>Rafaela</td>
+                    </tr>                     <tr>
+                      <td>Etchegaray </td>
+                      <td>2</td>
+                      <td>1995-06-10</td>
+                      <td>Rafaela</td>
+                      <td>1994-09-17</td>
+                      <td>San Juan</td>
+                    </tr>                     <tr>
+                      <td>Facundo Marques </td>
+                      <td>1</td>
+                      <td>2023-06-04</td>
+                      <td>San Jorge</td>
+                      <td>2023-06-04</td>
+                      <td>San Jorge</td>
+                    </tr>                     <tr>
+                      <td>Emiliano Stang </td>
+                      <td>1</td>
+                      <td>2026-09-26</td>
+                      <td>El Zonda San Juan</td>
+                      <td>2026-09-26</td>
+                      <td>El Zonda San Juan</td>
+                    </tr>                     <tr>
+                      <td>Nicolás Traut </td>
+                      <td>1</td>
+                      <td>2026-10-10</td>
+                      <td>Toay, La Pampa</td>
+                      <td>2026-10-10</td>
+                      <td>Toay, La Pampa</td>
+                    </tr>                     <tr>
+                      <td>Fabián Flaqué </td>
+                      <td>1</td>
+                      <td>2005-07-24</td>
+                      <td>Curitiba</td>
+                      <td>2005-07-24</td>
+                      <td>Curitiva</td>
+                    </tr>                     <tr>
+                      <td>Fabian Yannantuoni </td>
+                      <td>1</td>
+                      <td>2005-03-27</td>
+                      <td>Paran&aacute;</td>
+                      <td>2005-03-27</td>
+                      <td>Paran&aacute;</td>
+                    </tr>                     <tr>
+                      <td>Esteban Tuero </td>
+                      <td>1</td>
+                      <td>2000-06-24</td>
+                      <td>Ober&aacute;</td>
+                      <td>2000-06-24</td>
+                      <td>Ober&aacute;</td>
+                    </tr>                     <tr>
+                      <td>Urretavizcaya, Roberto </td>
+                      <td>1</td>
+                      <td>1998-07-18</td>
+                      <td>Paran&aacute; 2</td>
+                      <td>1998-07-18</td>
+                      <td>Paran&aacute; 2</td>
+                    </tr>                     <tr>
+                      <td>Luis Soppelsa </td>
+                      <td>1</td>
+                      <td>1996-08-30</td>
+                      <td>Rafaela</td>
+                      <td>1996-08-30</td>
+                      <td>Rafaela</td>
+                    </tr>                     <tr>
+                      <td>Peón </td>
+                      <td>1</td>
+                      <td>1992-08-22</td>
+                      <td>Bah&iacute;a Blanca</td>
+                      <td>1992-08-22</td>
+                      <td>Bah&iacute;a Blanca</td>
+                    </tr>                     <tr>
+                      <td>Mustafa </td>
+                      <td>1</td>
+                      <td>1985-08-17</td>
+                      <td>Las Parejas</td>
+                      <td>1985-08-17</td>
+                      <td>Las Parejas</td>
+                    </tr>                     <tr>
+                      <td>Serafini </td>
+                      <td>1</td>
+                      <td>1984-08-25</td>
+                      <td>Santa Rosa</td>
+                      <td>1984-08-25</td>
+                      <td>Santa Rosa</td>
+                    </tr>                     <tr>
+                      <td>Pontoriero </td>
+                      <td>1</td>
+                      <td>1982-01-05</td>
+                      <td>Mendoza</td>
+                      <td>1982-01-05</td>
+                      <td>Mendoza</td>
+                    </tr>                 </tbody>
+              </table>
+            </div>
+            <div class="separador_rojo"></div>
+          </div>
+        </div>
+
+      </div>
+
+    
+</div>
+<!-- Boxes Campeonato -->
+
+<!-- Publicidad Internas Inferior A y B -->
+<div class="row">
+  <div class="col-md-12 col-sm-12 col-xs-12 m_t_10 m_b_15">
+
+      </div>
+</div>
+<!-- Fin Publicidad Internas Inferior A y B -->
+
+<!-- Boxes Banners Redes -->
+	<div class="row">
+		<div class="col-md-2 col-sm-0 col-xs-0 m_t_20 m_b_15"></div>
+		<div class="col-md-4 col-sm-6 col-xs-12 m_t_20 m_b_15">
+    	<h3>Tweets</h3>        
+		<a class="twitter-timeline" 
+		   href="https://twitter.com/SuperTC2000?ref_src=twsrc%5Etfw"
+		   data-chrome="noheader transparent"
+		   data-width="400"
+		   data-height="400">
+		   Tweets por el @SuperTC2000.
+		</a>
+		<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>           	
+		</div>
+		<div class="col-md-4 col-sm-6 col-xs-12 m_t_20 m_b_15">
+	    	<h3>Facebook</h3>        
+	    	<div class="fb-page" data-href="https://www.facebook.com/TC2000ok/" data-tabs="timeline" data-width="" data-height="320" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/TC2000ok/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TC2000ok/">TC2000</a></blockquote></div>
+		</div>
+		<div class="col-md-2 col-sm-0 col-xs-0 m_t_20 m_b_15"></div>
+	</div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0" nonce="ST53pcMG"></script>
+	<div class="row logos_sponsors">
+		<div class="col-md-12 col-sm-12 col-xs-12" style="padding:0;">
+			<ul>
+				<!--<li><img src="/assets/images/logo-pie-ypf.jpg" alt="YPF" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-pirelli.jpg" alt="Pirelli" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-rus.jpg" alt="RUS" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-frasle.jpg" alt="Frasle" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-ocasa.jpg" alt="Ocasa" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-skf.jpg" alt="SKF" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-honda.png" alt="Honda" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-suerox.png" alt="Suerox" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-bet-warrior.jpg" alt="Bet Warrior" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-kanji.jpg" alt="SKF" width="110"></li>-->
+				<li><img src="/assets/images/sponsors.png" alt="Sponsors" width="1000"></li>
+			</ul>
+		</div>
+	</div>
+	<style>
+	    @media (max-width: 767px) {
+         /* Estilos para móviles */
+        	.logos_sponsors li img {
+                width: 300px !important;
+            }
+        }
+        
+        @media (min-width: 768px) and (max-width: 1024px) {
+            /* Estilos para tablets */
+         	.logos_sponsors li img {
+                width: 600px !important;
+            }
+        }
+	</style><!-- Fin Banners Redes -->
+
+</div>
+<!--Fin Contenido Home -->
+
+	<footer>
+		<div class="container" id="contenedor_footer">
+			<div class="row">
+				<div class="col-md-6 col-sm-6 col-xs-6 m_t_5">
+					<img src="/assets/images/logo-tc2000-n2.png" title="TC2000" alt="TC2000" width="90"/>
+				</div>
+				<div class="col-md-6 col-sm-6 col-xs-6">
+					<h4 class="blanco float_r m_r_10 full t_right">SEGUINOS EN</h4>
+					<div class="redes_footer float_r m_r_10 full">
+						<a href="https://www.instagram.com/supertc2000/" target="_blank" class="float_r m_t_10" title="Instagram"><span class="iconos instagram_footer"><!-- Instagram --> </span></a>
+						<a href="https://www.youtube.com/channel/UCxNF1Upq53kiArZ1xWjfM0g/videos" target="_blank" class="float_r m_t_10" title="Youtube"><span class="iconos youtube_footer"><!-- Youtube --> </span></a>
+						<a href="https://twitter.com/SuperTc2000" target="_blank" class="float_r m_t_10" title="Twitter"><span class="iconos twitter_footer"><!-- Twitter --> </span></a>
+						<a href="https://www.facebook.com/TC2000ok/" target="_blank" class="float_r m_t_10" title="Facebook"><span class="iconos facebook_footer"><!-- Facebook --> </span></a>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12 float_l">
+				<p>Copyright &copy; 2003-2010 - Todos los derechos reservados - <a href="institucional.php?accion=contacto" title="Contacto Online">Contacto</a><br>
+				Contacto Comercial: 11 3567.6653 - <a href="/cdn-cgi/l/email-protection#96fce4f3efd6f7e3e2f9bbe5e6f9e4e2e5b8f5f9fbb8f7e4" title="Contacto Comercial"><span class="__cf_email__" data-cfemail="c4aeb6a1bd84a5b1b0abe9b7b4abb6b0b7eaa7aba9eaa5b6">[email&#160;protected]</span></a></p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	
+	<!-- Facebook SDK -->
+	<div id="fb-root"></div>
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = 'https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.11';
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<!-- Fin Facebook SDK -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"753aa59934a44cc2bdde04da4891ee7a","r":1,"spa":2}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a53607f6db9c1e76',t:'MTc5MzQ4NTA1OQ=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a53607f6db9c1e76',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

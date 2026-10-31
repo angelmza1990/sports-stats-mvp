@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TC2000 · Motorsport</title>
+  <meta name="description" content="Every champion of Argentina's TC2000 touring-car championship since 1979: titles by driver, make and team, the eras of each make, all-time race wins and poles, and the current season.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/tc2000.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Motorsport</p>
+    <h1>TC2000</h1>
+    <p class="lede">
+      Argentina's touring-car championship since 1979: every champion, the drivers, makes and teams that won the most, and every driver who has won a race. The top class was called Súper TC2000 from 2012 to 2021; like the category's own statistics, this page counts it as one championship.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most championships</h2>
+        <p>Titles season by season, by driver, by the champion's make or by the champion's team.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Count titles by" id="race-metric"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Season">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="eras">
+      <div class="block-head">
+        <h2>The eras of each make</h2>
+        <p>The champion's make every season. Renault's Fuego won eight titles in a row (1986–1993), Ford and Berta ruled the turn of the century, and Renault returned with the Fluence. Hover or tap a season for the champion and the car.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="era-legend"></div>
+        <div class="era-strip" id="era-strip" role="list"></div>
+        <div class="era-axis" id="era-axis" aria-hidden="true"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="era-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="champions">
+      <div class="block-head">
+        <h2>Every champion</h2>
+        <p>Drivers' champions, most recent first, with the car, the team and the races they won that season.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="champions-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="breakdown">
+      <div class="block-head">
+        <h2>Titles by driver, make, team and province</h2>
+        <p>Teams group the different sponsor names of the same outfit: the Renault Fuegos of Berta Sport and the Ford Escorts and Focuses of Ford YPF Berta Motorsport are all Oreste Berta's team. Hover a row for the seasons.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Group by" id="breakdown-tabs"></div>
+        </div>
+        <div id="breakdown-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="wins">
+      <div class="block-head">
+        <h2>Most race wins and poles</h2>
+        <p>Every driver who has won a race since 1980, with the first and the last win, and the drivers with the most pole positions. Includes the current season.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Ranking" id="wins-tabs"></div>
+        </div>
+        <div id="wins-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="season">
+      <div class="block-head">
+        <h2 id="season-title">The current season</h2>
+        <p id="season-lede"></p>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">Wins</h3>
+          <div id="season-wins"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Poles</h3>
+          <div id="season-poles"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="teams">
+      <div class="block-head">
+        <h2>Teams' championship in the Súper TC2000 era</h2>
+        <p>From 2012 to 2021 the category also crowned a champion team, which was not always the champion driver's.</p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="teams-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> Spanish Wikipedia's <span id="sources"></span> (CC BY-SA 4.0), and the category's <span id="site-sources"></span> at tc2000.com.ar. Updated automatically. <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> the category's statistics start in 1980, so the first champion (Osvaldo López, 1979) has no race count. Race wins count the main race of each round; in recent seasons the sprint race does not count. The Dodge 1500 became the Volkswagen 1500 after Volkswagen took over Chrysler's Argentine plant in 1980; the category counts the 1980 title for Dodge and 1981–1983 for Volkswagen. Makes and team names are trademarks of their owners. This project is not affiliated with TC2000 or Tango Sports Team.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

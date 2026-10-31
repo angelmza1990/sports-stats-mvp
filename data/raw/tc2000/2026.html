@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>TC2000</title>
+	<meta name="keywords" content="TC2000, sitio web oficial del TC2000" />
+	<meta name="description" content="TC2000, sitio web oficial del TC2000" />
+	<meta name="robots" content="index,follow" />
+	<meta name="copyright" content="TC2000" />
+	<meta property="og:url" content="https://tc2000.com.ar" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="TC2000" />
+	<meta property="og:description" content="TC2000 Noticias" />
+	<meta property="og:image" content="https://www.tc2000.com.ar/images/logo-TC2000.png" />
+	<link rel="canonical" href="https://tc2000.com.ar"/> 
+	<link rel="shortcut icon" href="favicon.ico" /> 
+
+	<!-- Theme de Bootstrap -->
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+
+	<!-- Fonts / Icons -->
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700italic' rel='stylesheet' type='text/css'>    
+	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+	<link href="/assets/tc2000/css/reset-min.css" rel="stylesheet" media="screen" type="text/css" />	 
+	<link href="/assets/tc2000/css/general-ns-v2.css" rel="stylesheet" media="screen" type="text/css" />	 
+	 
+	<!-- Javascript y Version compilada y comprimida del JavaScript de Bootstrap -->
+	<script src="https://code.jquery.com/jquery-1.9.0.js"></script>
+	<script src="https://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+	<script src="/assets/js/bootstrap-hover-dropdown.js"></script>
+
+	<!-- CAMBIO TAMAÑO DEL MENÚ -->
+	<script>
+	$(document).on("scroll",function(){
+	    if($(document).scrollTop()>100){
+	        $("header").removeClass("large").addClass("small");
+	    } else{
+	        $("header").removeClass("small").addClass("large");
+	    }
+	});
+	</script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110803672-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-110803672-1');
+	</script>
+</head>
+
+<style>
+.navbar-nav {
+    display: flex 
+    flex-wrap: nowrap 
+    width: 100% 
+}
+
+.navbar-nav > li {
+    flex: 1 
+    min-width: 0 
+}
+
+.navbar-nav > li > a {
+    white-space: nowrap 
+    overflow: hidden 
+    text-overflow: ellipsis 
+    padding: 15px 8px 
+    font-size: 13px 
+}
+
+/* Ajuste para los dropdowns */
+.navbar-nav .dropdown-menu {
+    min-width: 200px 
+}
+</style>
+
+<body>
+<header class="large">
+  <div id="contenedor_header">
+	<div class="row">
+		<!--Logo viejo: logo-tc2000-n2.png logo-tc2000-gorrito.png-->
+		<div class="col-md-4 col-sm-4 col-xs-4 m_b_10 col_logo">
+			<h1 class=" m_t_10"><a href="https://tc2000.com.ar/" title="Volver al Home"><img src="/assets/images/logo-tc2000-n2.png" title="TC2000" alt="TC2000" class="logo" width="180"/> </a></h1>
+		</div>		
+
+		<div class="col-md-8 col-sm-8 col-xs-8 m_b_10">
+			<div class="buscador">
+				<form>
+					<input type="text" placeholder="Buscar"/>
+					<a href=""><i class="fa fa-search" aria-hidden="true"></i></a>
+				</form>
+			</div>
+
+			<div class="menu_superior">
+				<h4>CATEGORIAS <i class="fa fa-caret-down" aria-hidden="true"></i></h4>
+				<div>
+				<a href="https://www.tc2000.com.ar/tc2000series" target="_blank" title="TC2000 Series">TC2000 Series</a>
+				<a href="https://www.formulanacional.com.ar" target="_blank" title="FORMULA NACIONAL">FORMULA NACIONAL</a>
+				</div>
+			</div>
+
+			<ul class="menu_redes">
+				<li><a href="https://www.facebook.com/TC2000ok/" target="_blank" class="float_l m_t_20" title="Facebook"><span class="iconos facebook"><!-- Facebook --> </span></a></li>
+				<li><a href="https://twitter.com/SuperTc2000" target="_blank" class="float_l m_t_20" title="Twitter"><span class="iconos twitter"><!-- Twitter --> </span></a></li>
+				<li><a href="https://www.youtube.com/channel/UCxNF1Upq53kiArZ1xWjfM0g/videos" target="_blank" class="float_l m_t_20" title="Youtube"><span class="iconos youtube"><!-- Youtube --> </span></a></li>
+				<li><a href="https://www.instagram.com/supertc2000/" target="_blank" class="float_l m_t_20" title="Instagram"><span class="iconos instagram"><!-- Instagram --> </span></a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="row">
+	  <nav class="navbar navbar-default">
+	    <div class="navbar-header">
+	      <button type="button" class="navbar-toggle button_bars" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+	        <span class="sr-only">Menú</span>
+	        <span class="icon-bar m_t_3"></span>
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	      </button>
+		</div>
+	  
+	    <div class="collapse navbar-collapse navbar-ex1-collapse">
+	      <ul class="nav navbar-nav">
+		  	<li><a href="https://tc2000.com.ar/carreras.php?evento=calendario" title="Calendario">Calendario</a></li>
+						<li><a href="https://www.passline.com/eventos/general-roca-recibe-al-tc2000" title="Entradas" target="_blank">Entradas</a></li>
+						<li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" title="Pilotos y Equipos">Pilotos y Equipos</a>
+	          <ul class="dropdown-menu">
+				<li><a href="https://tc2000.com.ar/equipos.php?accion=pilotos" title="Pilotos">Pilotos</a></li>
+		    	<li><a href="https://tc2000.com.ar/equipos.php?accion=equipos" title="Equipos">Equipos</a></li>
+	          </ul>
+			</li>
+			<li><a href="https://tc2000.com.ar/autos.php" title="Autos">Autos</a></li>
+			<li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" title="Estad&iacute;sticas">Posiciones Y Estad&iacute;sticas</a>
+	          <ul class="dropdown-menu">
+					<li><a href="https://tc2000.com.ar/estadisticas.php?accion=posiciones" title="Posiciones 2026">Posiciones 2026</a></li>
+					<li><a href="https://tc2000.com.ar/estadisticas.php?accion=copa-rookie-latam" title="Copa Rookie">Copa Rookie 2026</a></li>
+			    	<li><a href="https://tc2000.com.ar/estadisticas.php?accion=2026" title="Estad&iacute;sticas 2026">Estad&iacute;sticas 2026</a></li>
+					<!--<li><a href="https://tc2000.com.ar/estadisticas.php?accion=2025" title="Estad&iacute;sticas 2025">Estad&iacute;sticas 2025</a></li>-->
+					<li><a href="https://tc2000.com.ar/estadisticas.php?accion=historicas" title="Estad&iacute;sticas Hist&oacute;ricas">Estad&iacute;sticas Hist&oacute;ricas</a></li>
+					<li><a href="https://tc2000.com.ar/estadisticas.php?accion=temporadas&anio=2025" title="Temporadas Anteriores">Temporadas Anteriores</a></li>
+				</ul>
+			</li>
+			<li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" title="Multimedia">Multimedia</a>
+	          <ul class="dropdown-menu">
+					<li><a href="https://tc2000.com.ar/multimedia.php" title="Fotos 2026">Fotos</a></li>
+			    	<li><a href="https://www.youtube.com/channel/UCxNF1Upq53kiArZ1xWjfM0g/videos" title="Videos" target="_blank">Videos</a></li>
+	          </ul></li>
+			<li class="dropdown prensastc">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" title="Prensa">Prensa</a>
+				<ul class="dropdown-menu w_180">
+					<li><a href="https://tc2000.com.ar/noticias.php" title="Noticias">Noticias</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=reglamentos" title="Noticias">Reglamentos</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=historia" title="Historia">Historia</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=kit" title="Kit de Prensa">Kit de Prensa</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=revista_next_gen" title="Revista TC2000 Next Gen">Revista TC2000 Next Gen</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=resultados" title="Resultados">Resultados</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=acreditaciones" title="Acreditaciones">Acreditaciones</a></li>
+			        <li><a href="https://tc2000.com.ar/institucional.php?accion=contacto" title="Contacto">Contacto</a></li>
+				</ul>
+			</li>
+            <li class="rojo"><a href="https://speedhive.mylaps.com/livetiming/YLNSNDLQ-2147484293" title="Tiempos Online" target="_blank">Tiempos Online</a></li>
+	        <!---->
+	        <!--<li class="rojo btn_destacado"><a href="https://speedhive.mylaps.com/livetiming/YLNSNDLQ-2147484293" title="Tiempos Online" target="_blank">Tiempos Online</a></li>-->
+	        <!---->
+		</ul><!-- Termina .menu -->
+	    </div>
+	  </nav>	  
+   </div>
+  </div>
+<!-- </div> -->
+</header>
+
+
+<!-- Slide -->
+<div class="contenedor_slide2" style="background:url('https://www.tc2000.com.ar/images/banners/stc2000/banner-2026-05-23-resize-tc-banner-3.jpg') no-repeat; background-size:cover;">
+  <div class="content2">
+    <p>TC2000</p>
+    <h2>POSICIONES Y ESTADISTICAS</h2>
+  </div>
+</div>
+<!-- Slide -->
+
+<!-- Contenedor General -->
+<div class="container bg_white">
+
+  <!-- Publicidad Internas Slide A y B -->
+  <div class="row">
+    <div class="col-md-12 col-sm-12 col-xs-12 m_t_15">
+
+          </div>
+  </div>
+  <!-- Fin Publicidad Internas Slide A y B -->
+
+  <!-- Contenido Home -->
+
+  <!-- Listado Equipos y Pilotos -->
+  <!-- Boxes Resultados Encuentas -->
+  <script>
+    $(function() {
+      $("#tabs").tabs();
+    });
+  </script>
+      <div class="row tabs_estadisticas">
+      <div class="col-md-12 col-sm-12 col-xs-12 m_t_20">
+      
+              
+          <h2 class="rojo titulo-acreditacion">ESTAD&Iacute;STICAS 2026</h2>
+          <div id="tabs" class="tabs_li_back">
+            <ul>
+              <li class="otro_back">
+                <h4><a href="#tabs-1">VICTORIAS</a></h4>
+              </li>
+              <li class="otro_back">
+                <h4><a href="#tabs-2">POLES</a></h4>
+              </li>
+              <li class="otro_back">
+                <h4><a href="#tabs-3">RECORDS</a></h4>
+              </li>
+              <li class="otro_back">
+                <h4><a href="#tabs-4">1&deg; LUGAR PARTIDA</a></h4>
+              </li>
+              <li class="otro_back">
+                <h4><a href="#tabs-5">ASIST., VTAS y KMS</a></h4>
+              </li>
+            </ul>
+
+            <div id="tabs-1">
+              <!-- VICTORIAS -->
+              <div>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_chevrolet.png" title="Chevrolet" alt="Chevrolet"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Franco Morillo / <i class="estadisticas_lugares">
+                            Concordia - San Nicolás -                           </i></span></li>
+                      <li class="total rojo">2</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_chevrolet.png" title="Chevrolet" alt="Chevrolet"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Franco Vivian / <i class="estadisticas_lugares">
+                            Salta - La Pampa -                           </i></span></li>
+                      <li class="total rojo">2</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_toyota.png" title="Toyota" alt="Toyota"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Gabriel P. de Leon / <i class="estadisticas_lugares">
+                            La Pampa - Junín  -                           </i></span></li>
+                      <li class="total rojo">2</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_chevrolet.png" title="Chevrolet" alt="Chevrolet"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Franco Riva / <i class="estadisticas_lugares">
+                            Callejero de Buenos Aires -                           </i></span></li>
+                      <li class="total rojo">1</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_toyota.png" title="Toyota" alt="Toyota"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Matias Rossi / <i class="estadisticas_lugares">
+                            El Zonda Eduardo Copello -                           </i></span></li>
+                      <li class="total rojo">1</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_vw.png" title="VW" alt="VW"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Lucas Carabajal / <i class="estadisticas_lugares">
+                            El Zonda Eduardo Copello -                           </i></span></li>
+                      <li class="total rojo">1</li>
+                    </ul>
+                              </div>
+
+              <div class="separador_rojo"></div>
+              <!--<h2 class="rojo" style="margin:0px 0 0 25px; float:left; width:100%; font-size:23px; text-align:left;">LA VICTORIA EN LA CARRERA 1 O SPRINT NO SUMA PARA LAS ESTADÍSTICAS</h2>-->
+            </div>
+
+            <div id="tabs-2">
+              <!-- POLES -->
+              <div>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_toyota.png" title="Toyota" alt="Toyota"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Matias Rossi / <i class="estadisticas_lugares">
+                            Callejero de Buenos Aires - El Zonda Eduardo Copello - Salta - Junín  -                           </i></span></li>
+                      <li class="total azul">4</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_chevrolet.png" title="Chevrolet" alt="Chevrolet"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Franco Vivian / <i class="estadisticas_lugares">
+                            Concordia - San Nicolás -                           </i></span></li>
+                      <li class="total azul">2</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_honda.png" title="Honda" alt="Honda"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Facundo Aldrighetti / <i class="estadisticas_lugares">
+                            La Pampa -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_toyota.png" title="Toyota" alt="Toyota"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Emiliano Stang / <i class="estadisticas_lugares">
+                            El Zonda Eduardo Copello -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_chevrolet.png" title="Chevrolet" alt="Chevrolet"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Nicolás Traut / <i class="estadisticas_lugares">
+                            La Pampa -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                              </div>
+              <div class="separador_rojo"></div>
+            </div>
+
+            <div id="tabs-3">
+              <!-- RECORDS -->
+              <div>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_fiat.png" title="Fiat" alt="Fiat"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Marcelo Ciarrocchi / <i class="estadisticas_lugares">
+                            Concordia - La Pampa -                           </i></span></li>
+                      <li class="total azul">2</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_toyota.png" title="Toyota" alt="Toyota"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Matias Rossi / <i class="estadisticas_lugares">
+                            Junín  - El Zonda Eduardo Copello -                           </i></span></li>
+                      <li class="total azul">2</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_toyota.png" title="Toyota" alt="Toyota"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Valentín Yankelevich / <i class="estadisticas_lugares">
+                            Callejero de Buenos Aires -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_toyota.png" title="Toyota" alt="Toyota"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Gabriel P. de Leon / <i class="estadisticas_lugares">
+                            El Zonda Eduardo Copello -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_chevrolet.png" title="Chevrolet" alt="Chevrolet"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Franco Vivian / <i class="estadisticas_lugares">
+                            Salta -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_vw.png" title="VW" alt="VW"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Lucas Carabajal / <i class="estadisticas_lugares">
+                            San Nicolás -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_honda.png" title="Honda" alt="Honda"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Facundo Aldrighetti / <i class="estadisticas_lugares">
+                            La Pampa -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                              </div>
+              <div class="separador_rojo"></div>
+            </div>
+
+            <div id="tabs-4">
+              <!-- 1&deg; LUGAR PARTIDA -->
+              <div>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_fiat.png" title="Fiat" alt="Fiat"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Marcelo Ciarrocchi / <i class="estadisticas_lugares">
+                            Concordia - La Pampa - Junín  -                           </i></span></li>
+                      <li class="total azul">3</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_chevrolet.png" title="Chevrolet" alt="Chevrolet"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Franco Morillo / <i class="estadisticas_lugares">
+                            Salta - San Nicolás -                           </i></span></li>
+                      <li class="total azul">2</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_chevrolet.png" title="Chevrolet" alt="Chevrolet"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Franco Riva / <i class="estadisticas_lugares">
+                            Callejero de Buenos Aires -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_toyota.png" title="Toyota" alt="Toyota"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Tomás Fernandez / <i class="estadisticas_lugares">
+                            El Zonda Eduardo Copello -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_vw.png" title="VW" alt="VW"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Matias Rodriguez / <i class="estadisticas_lugares">
+                            El Zonda Eduardo Copello -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                                    <ul class="puntajes">
+                      <li class="marca"><img src="assets/images/logo_chevrolet.png" title="Chevrolet" alt="Chevrolet"></li>
+                      <li class="piloto piloto_tabs_estadisticas"><span>Franco Vivian / <i class="estadisticas_lugares">
+                            La Pampa -                           </i></span></li>
+                      <li class="total azul">1</li>
+                    </ul>
+                              </div>
+
+              <div class="separador_rojo"></div>
+            </div>
+
+            <div id="tabs-5">
+              <!-- ASIST., VTAS y KMS -->
+              <div>
+
+                <table cellpadding="0" cellspacing="0" class="tabla_resultados tabla_estadisticas">
+                  <thead>
+                    <tr>
+                      <td>Piloto</td>
+                      <td>Auto</td>
+                      <td>Carreras</td>
+                      <td>Vltas</td>
+                      <td>%</td>
+                      <td>Kms</td>
+                      <td>%</td>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    
+                      <tr>
+                        <td>Gabriel P. de Leon </td>
+                        <td>Toyota </td>
+                        <td>9 </td>
+                        <td>222 </td>
+                        <td>95.28% </td>
+                        <td>735.09</td>
+                        <td>95.33% </td>
+                      </tr> 
+                      <tr>
+                        <td>Matias Rossi </td>
+                        <td>Toyota </td>
+                        <td>9 </td>
+                        <td>221 </td>
+                        <td>94.85% </td>
+                        <td>771.06</td>
+                        <td>100.00% </td>
+                      </tr> 
+                      <tr>
+                        <td>Emiliano Stang </td>
+                        <td>Toyota </td>
+                        <td>9 </td>
+                        <td>216 </td>
+                        <td>92.70% </td>
+                        <td>715.22</td>
+                        <td>92.76% </td>
+                      </tr> 
+                      <tr>
+                        <td>Facundo Aldrighetti </td>
+                        <td>Honda </td>
+                        <td>9 </td>
+                        <td>206 </td>
+                        <td>88.41% </td>
+                        <td>681.89</td>
+                        <td>88.44% </td>
+                      </tr> 
+                      <tr>
+                        <td>Valentín Yankelevich </td>
+                        <td>Toyota </td>
+                        <td>9 </td>
+                        <td>192 </td>
+                        <td>82.40% </td>
+                        <td>614.64</td>
+                        <td>79.71% </td>
+                      </tr> 
+                      <tr>
+                        <td>Benjamín Squaglia </td>
+                        <td>Fiat </td>
+                        <td>9 </td>
+                        <td>191 </td>
+                        <td>81.97% </td>
+                        <td>585.16</td>
+                        <td>75.89% </td>
+                      </tr> 
+                      <tr>
+                        <td>Nicolás Palau </td>
+                        <td>Honda </td>
+                        <td>8 </td>
+                        <td>186 </td>
+                        <td>79.83% </td>
+                        <td>625.37</td>
+                        <td>81.11% </td>
+                      </tr> 
+                      <tr>
+                        <td>Nicolás Traut </td>
+                        <td>Chevrolet </td>
+                        <td>9 </td>
+                        <td>180 </td>
+                        <td>77.25% </td>
+                        <td>571.75</td>
+                        <td>74.15% </td>
+                      </tr> 
+                      <tr>
+                        <td>Franco Morillo </td>
+                        <td>Chevrolet </td>
+                        <td>8 </td>
+                        <td>167 </td>
+                        <td>71.67% </td>
+                        <td>542.18</td>
+                        <td>70.32% </td>
+                      </tr> 
+                      <tr>
+                        <td>Marcelo Ciarrocchi </td>
+                        <td>Fiat </td>
+                        <td>8 </td>
+                        <td>166 </td>
+                        <td>71.24% </td>
+                        <td>507.95</td>
+                        <td>65.88% </td>
+                      </tr> 
+                      <tr>
+                        <td>Lucas Carabajal </td>
+                        <td>VW </td>
+                        <td>6 </td>
+                        <td>157 </td>
+                        <td>67.38% </td>
+                        <td>583.42</td>
+                        <td>75.66% </td>
+                      </tr> 
+                      <tr>
+                        <td>Franco Vivian </td>
+                        <td>Chevrolet </td>
+                        <td>7 </td>
+                        <td>157 </td>
+                        <td>67.38% </td>
+                        <td>583.42</td>
+                        <td>75.66% </td>
+                      </tr> 
+                      <tr>
+                        <td>Tomás Fernandez </td>
+                        <td>Toyota </td>
+                        <td>8 </td>
+                        <td>153 </td>
+                        <td>65.67% </td>
+                        <td>445.76</td>
+                        <td>57.81% </td>
+                      </tr> 
+                      <tr>
+                        <td>Matias Rodriguez </td>
+                        <td>VW </td>
+                        <td>5 </td>
+                        <td>100 </td>
+                        <td>42.92% </td>
+                        <td>381.75</td>
+                        <td>49.51% </td>
+                      </tr> 
+                      <tr>
+                        <td>Franco Riva </td>
+                        <td>Chevrolet </td>
+                        <td>4 </td>
+                        <td>97 </td>
+                        <td>41.63% </td>
+                        <td>259.23</td>
+                        <td>33.62% </td>
+                      </tr> 
+                      <tr>
+                        <td>Francisco Monarca </td>
+                        <td>Chevrolet </td>
+                        <td>6 </td>
+                        <td>95 </td>
+                        <td>40.77% </td>
+                        <td>318.03</td>
+                        <td>41.25% </td>
+                      </tr> 
+                      <tr>
+                        <td>Lucas Vicino </td>
+                        <td>Honda </td>
+                        <td>3 </td>
+                        <td>70 </td>
+                        <td>30.04% </td>
+                        <td>248.59</td>
+                        <td>32.24% </td>
+                      </tr> 
+                      <tr>
+                        <td>Diego Ciantini </td>
+                        <td>Nissan </td>
+                        <td>3 </td>
+                        <td>59 </td>
+                        <td>25.32% </td>
+                        <td>107.74</td>
+                        <td>13.97% </td>
+                      </tr> 
+                      <tr>
+                        <td>Nicolás Gines </td>
+                        <td>Toyota </td>
+                        <td>2 </td>
+                        <td>28 </td>
+                        <td>12.02% </td>
+                        <td>0.00</td>
+                        <td>0.00% </td>
+                      </tr> 
+                      <tr>
+                        <td>Matías Capurro </td>
+                        <td>VW </td>
+                        <td>1 </td>
+                        <td>28 </td>
+                        <td>12.02% </td>
+                        <td>0.00</td>
+                        <td>0.00% </td>
+                      </tr> 
+                      <tr>
+                        <td>Henry Martin </td>
+                        <td>Toyota </td>
+                        <td>1 </td>
+                        <td>28 </td>
+                        <td>12.02% </td>
+                        <td>90.72</td>
+                        <td>11.77% </td>
+                      </tr> 
+                      <tr>
+                        <td>Evgenii Leonov </td>
+                        <td>Toyota </td>
+                        <td>1 </td>
+                        <td>27 </td>
+                        <td>11.59% </td>
+                        <td>0.00</td>
+                        <td>0.00% </td>
+                      </tr> 
+                      <tr>
+                        <td>Carlos Javier Merlo  </td>
+                        <td>Honda </td>
+                        <td>1 </td>
+                        <td>26 </td>
+                        <td>11.16% </td>
+                        <td>107.85</td>
+                        <td>13.99% </td>
+                      </tr> 
+                      <tr>
+                        <td>Figgo Bessone </td>
+                        <td>Honda </td>
+                        <td>1 </td>
+                        <td>25 </td>
+                        <td>10.73% </td>
+                        <td>105.00</td>
+                        <td>13.62% </td>
+                      </tr> 
+                      <tr>
+                        <td>Agustín Roberi </td>
+                        <td>Chevrolet </td>
+                        <td>1 </td>
+                        <td>2 </td>
+                        <td>0.86% </td>
+                        <td>6.48</td>
+                        <td>0.84% </td>
+                      </tr> 
+                      <tr>
+                        <td>Mateo Polakovich </td>
+                        <td>Nissan </td>
+                        <td>1 </td>
+                        <td>0 </td>
+                        <td>0.00% </td>
+                        <td>0.00</td>
+                        <td>0.00% </td>
+                      </tr> 
+                      <tr>
+                        <td>Juan Pablo Traverso </td>
+                        <td>Toyota </td>
+                        <td>1 </td>
+                        <td>0 </td>
+                        <td>0.00% </td>
+                        <td>0.00</td>
+                        <td>0.00% </td>
+                      </tr>                   </tbody>
+                </table>
+              </div>
+              <div class="separador_rojo"></div>
+            </div>
+
+          </div>
+
+        </div>
+      
+</div>
+<!-- Boxes Campeonato -->
+
+<!-- Publicidad Internas Inferior A y B -->
+<div class="row">
+  <div class="col-md-12 col-sm-12 col-xs-12 m_t_10 m_b_15">
+
+      </div>
+</div>
+<!-- Fin Publicidad Internas Inferior A y B -->
+
+<!-- Boxes Banners Redes -->
+	<div class="row">
+		<div class="col-md-2 col-sm-0 col-xs-0 m_t_20 m_b_15"></div>
+		<div class="col-md-4 col-sm-6 col-xs-12 m_t_20 m_b_15">
+    	<h3>Tweets</h3>        
+		<a class="twitter-timeline" 
+		   href="https://twitter.com/SuperTC2000?ref_src=twsrc%5Etfw"
+		   data-chrome="noheader transparent"
+		   data-width="400"
+		   data-height="400">
+		   Tweets por el @SuperTC2000.
+		</a>
+		<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>           	
+		</div>
+		<div class="col-md-4 col-sm-6 col-xs-12 m_t_20 m_b_15">
+	    	<h3>Facebook</h3>        
+	    	<div class="fb-page" data-href="https://www.facebook.com/TC2000ok/" data-tabs="timeline" data-width="" data-height="320" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/TC2000ok/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TC2000ok/">TC2000</a></blockquote></div>
+		</div>
+		<div class="col-md-2 col-sm-0 col-xs-0 m_t_20 m_b_15"></div>
+	</div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0" nonce="ST53pcMG"></script>
+	<div class="row logos_sponsors">
+		<div class="col-md-12 col-sm-12 col-xs-12" style="padding:0;">
+			<ul>
+				<!--<li><img src="/assets/images/logo-pie-ypf.jpg" alt="YPF" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-pirelli.jpg" alt="Pirelli" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-rus.jpg" alt="RUS" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-frasle.jpg" alt="Frasle" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-ocasa.jpg" alt="Ocasa" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-skf.jpg" alt="SKF" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-honda.png" alt="Honda" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-suerox.png" alt="Suerox" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-bet-warrior.jpg" alt="Bet Warrior" width="110"></li>-->
+				<!--<li><img src="/assets/images/logo-pie-kanji.jpg" alt="SKF" width="110"></li>-->
+				<li><img src="/assets/images/sponsors.png" alt="Sponsors" width="1000"></li>
+			</ul>
+		</div>
+	</div>
+	<style>
+	    @media (max-width: 767px) {
+         /* Estilos para móviles */
+        	.logos_sponsors li img {
+                width: 300px !important;
+            }
+        }
+        
+        @media (min-width: 768px) and (max-width: 1024px) {
+            /* Estilos para tablets */
+         	.logos_sponsors li img {
+                width: 600px !important;
+            }
+        }
+	</style><!-- Fin Banners Redes -->
+
+</div>
+<!--Fin Contenido Home -->
+
+	<footer>
+		<div class="container" id="contenedor_footer">
+			<div class="row">
+				<div class="col-md-6 col-sm-6 col-xs-6 m_t_5">
+					<img src="/assets/images/logo-tc2000-n2.png" title="TC2000" alt="TC2000" width="90"/>
+				</div>
+				<div class="col-md-6 col-sm-6 col-xs-6">
+					<h4 class="blanco float_r m_r_10 full t_right">SEGUINOS EN</h4>
+					<div class="redes_footer float_r m_r_10 full">
+						<a href="https://www.instagram.com/supertc2000/" target="_blank" class="float_r m_t_10" title="Instagram"><span class="iconos instagram_footer"><!-- Instagram --> </span></a>
+						<a href="https://www.youtube.com/channel/UCxNF1Upq53kiArZ1xWjfM0g/videos" target="_blank" class="float_r m_t_10" title="Youtube"><span class="iconos youtube_footer"><!-- Youtube --> </span></a>
+						<a href="https://twitter.com/SuperTc2000" target="_blank" class="float_r m_t_10" title="Twitter"><span class="iconos twitter_footer"><!-- Twitter --> </span></a>
+						<a href="https://www.facebook.com/TC2000ok/" target="_blank" class="float_r m_t_10" title="Facebook"><span class="iconos facebook_footer"><!-- Facebook --> </span></a>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12 float_l">
+				<p>Copyright &copy; 2003-2010 - Todos los derechos reservados - <a href="institucional.php?accion=contacto" title="Contacto Online">Contacto</a><br>
+				Contacto Comercial: 11 3567.6653 - <a href="/cdn-cgi/l/email-protection#4b21392e320b2a3e3f2466383b24393f3865282426652a39" title="Contacto Comercial"><span class="__cf_email__" data-cfemail="a5cfd7c0dce5c4d0d1ca88d6d5cad7d1d68bc6cac88bc4d7">[email&#160;protected]</span></a></p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	
+	<!-- Facebook SDK -->
+	<div id="fb-root"></div>
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = 'https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.11';
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<!-- Fin Facebook SDK -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"753aa59934a44cc2bdde04da4891ee7a","r":1,"spa":2}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a53608d619621e9e',t:'MTc5MzQ4NTA5NQ=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a53608d619621e9e',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

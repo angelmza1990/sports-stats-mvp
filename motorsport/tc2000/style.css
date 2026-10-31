@@ -1,0 +1,39 @@
+/* TC2000: one color per make, in a fixed order (validated categorical palette, light and dark steps). */
+:root {
+  --mk-renault: #2a78d6;
+  --mk-ford: #eb6834;
+  --mk-toyota: #1baf7a;
+  --mk-chevrolet: #eda100;
+  --mk-honda: #e87ba4;
+  --mk-volkswagen: #008300;
+  --mk-peugeot: #6250d6;
+  --mk-dodge: #e34948;
+  --mk-other: #8a8984;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --mk-renault: #3987e5; --mk-ford: #d95926; --mk-toyota: #199e70; --mk-chevrolet: #c98500;
+    --mk-honda: #d55181; --mk-volkswagen: #008300; --mk-peugeot: #9085e9; --mk-dodge: #e66767;
+  }
+}
+:root[data-theme="dark"] {
+  --mk-renault: #3987e5; --mk-ford: #d95926; --mk-toyota: #199e70; --mk-chevrolet: #c98500;
+  --mk-honda: #d55181; --mk-volkswagen: #008300; --mk-peugeot: #9085e9; --mk-dodge: #e66767;
+}
+
+/* The make of every champion, one cell per season, with the Súper TC2000 years bracketed. */
+.era-strip { display: grid; grid-template-columns: repeat(var(--n, 47), minmax(0, 1fr)); gap: 2px; margin-top: 12px; }
+.era-cell { height: 46px; border-radius: 4px; background: var(--c); position: relative; cursor: default; outline: none; }
+.era-cell:hover, .era-cell:focus-visible { box-shadow: 0 0 0 2px var(--ink, currentColor); }
+.era-cell.super::after { content: ""; position: absolute; left: 0; right: 0; bottom: -7px; height: 3px; border-radius: 2px; background: var(--ink-muted); }
+.era-axis { display: grid; grid-template-columns: repeat(var(--n, 47), minmax(0, 1fr)); gap: 2px; margin-top: 12px; font-size: 11px; color: var(--ink-muted); }
+.era-axis span { text-align: center; white-space: nowrap; overflow: visible; }
+.era-axis span.last { text-align: right; direction: rtl; }
+.era-axis .super-label { grid-column: var(--from) / var(--to); text-align: center; border-top: 1px solid var(--border); padding-top: 3px; }
+.make-dot { display: inline-block; width: 10px; height: 10px; border-radius: 3px; background: var(--c); margin-right: 6px; vertical-align: -1px; }
+.era-tag { display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 7px; border-radius: 99px; border: 1px solid var(--border); color: var(--ink-muted); white-space: nowrap; }
+.places { color: var(--ink-muted); font-size: 12.5px; }
+@media (max-width: 640px) {
+  .era-cell { height: 34px; }
+  .era-axis span.last { visibility: hidden; }
+}
