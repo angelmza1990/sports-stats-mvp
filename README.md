@@ -229,6 +229,10 @@ Every World Championship since 1886 (including the 1993–2006 split title), the
 
 Every World Champion since 1950: bar chart races of drivers', constructors' and nations' titles, every champion, titles by nationality and by constructor, and the all-time Grand Prix winners by driver, constructor and nationality.
 
+### 🏁 [TC2000](https://angelmza1990.github.io/sports-stats-mvp/motorsport/tc2000/)
+
+Argentina's touring-car championship since 1979, counting the Súper TC2000 years (2012–2021) as the category does: a bar chart race of titles by driver, make and team, the champion's make season by season, every champion with the car, team and wins that year, titles by driver, make, team and province, the all-time race winners and pole sitters with their first and last, the current season's wins and poles, and the Súper TC2000 teams' champions.
+
 ## How it works
 
 ```
@@ -254,6 +258,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 ├── baseball/world-series/        # World Series
 ├── chess/                        # Chess page
 ├── motorsport/formula-1/         # Formula 1 page
+├── motorsport/tc2000/            # TC2000 page
 ├── international/tournament.js   # Shared page for team tournaments
 ├── rugby|basketball|volleyball|hockey|handball/international/  # One page per sport (data/ per competition)
 ├── olympics/                     # Olympic Games page (Summer and Winter)
@@ -276,6 +281,7 @@ Every World Champion since 1950: bar chart races of drivers', constructors' and 
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
 │   ├── build_rivalries.py        # Great rivalries (54), with one source module per country (rivalries_*.py)
 │   ├── build_f1.py               # Formula 1 pipeline
+│   ├── build_tc2000.py           # TC2000 pipeline (Spanish Wikipedia + the category's statistics)
 │   ├── build_atp_records.py      # ATP and WTA career records pipeline
 │   ├── build_tour_finals.py      # ATP and WTA Finals: editions, matches, hosts
 │   ├── build_number_ones.py      # Every spell at world No. 1 (ATP and WTA)
@@ -326,6 +332,7 @@ python3 scripts/build_team_coaches.py         # winning coaches of the team spor
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
 python3 scripts/build_rivalries.py --refresh  # football: the 54 great rivalries, match by match
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
+python3 scripts/build_tc2000.py --refresh     # motorsport: TC2000
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
 python3 scripts/build_tennis_ages.py --refresh  # tennis: age records (after build_grand_slams.py)
 python3 scripts/build_number_ones.py --refresh  # tennis: every spell at world No. 1
@@ -379,6 +386,8 @@ Rules applied:
 **Ballon d'Or.** Winners, nationality and club come from Wikipedia's Ballon d'Or article; the youth academy is read from each winner's own article (the last youth club in the infobox, with youth sides such as "Sporting CP (youth)" credited to the parent club). The build checks the number of awards of the multiple winners and that every year is present.
 
 **Formula 1.** Drivers' and constructors' champions and the all-time race wins come from Wikipedia's F1 lists. The build checks one champion per season, the title counts of the record holders and the constructors' title totals.
+
+**TC2000.** Champions with their car and team, the makes' titles and the Súper TC2000 teams' champions come from Spanish Wikipedia's "Turismo Competición 2000" and "Súper TC2000" articles; the race wins and poles of every driver, and each champion's wins that season, come from the historic statistics on tc2000.com.ar, and the current season's from its yearly statistics page. Team sponsor names are grouped into the outfit behind them (Berta, Pro Racing, Ambrogio Racing, Toyota Gazoo Racing Argentina). The build checks one champion per season since 1979, that Wikipedia and the category name the same champion every year, the title counts of the record holders, Traverso's 68 wins and that every champion since 1980 appears among the race winners.
 
 **ATP & WTA Finals.** Every Finals match comes from the ATP and WTA match files, found by the tournament's name in each era (the Masters until 1989, then the Tour Finals, Masters Cup and the WTA's sponsor and host-city names), with walkovers left out of win-loss records. Wikipedia's list of finals gives every champion, checked against the match files edition by edition, plus the runners-up of the 1972–1974 women's editions the match files don't cover; host cities come from the venues tables. The build checks the title counts of the leaders, Federer's 59–17 record and 17 appearances, one champion per edition and a host for every year.
 

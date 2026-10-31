@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sports Stats</title>
-  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, football, the Olympic Games, swimming, basketball, American football, ice hockey, baseball, handball, rugby, volleyball, field hockey, chess and Formula 1.">
+  <meta name="description" content="Data-driven sports infographics by Angel Villanueva: tennis, football, the Olympic Games, swimming, basketball, American football, ice hockey, baseball, handball, rugby, volleyball, field hockey, chess, Formula 1 and TC2000.">
   <link rel="stylesheet" href="assets/theme.css">
   <script src="assets/theme.js"></script>
   <style>
@@ -729,8 +729,8 @@
     <section class="sport" data-sport="motorsport" id="motorsport">
       <div class="sport-head">
         <h2>Motorsport</h2>
-        <p>Every Formula 1 world champion.</p>
-        <span class="count">1 page</span>
+        <p>Every Formula 1 world champion, and Argentina's TC2000.</p>
+        <span class="count">2 pages</span>
       </div>
       <div class="gallery">
         <a class="tile" href="motorsport/formula-1/">
@@ -752,6 +752,25 @@
           <div class="body">
             <h3>Formula 1</h3>
             <p>Every World Champion since 1950: races of drivers', constructors' and nations' titles, plus the all-time Grand Prix winners.</p>
+          </div>
+        </a>
+        <a class="tile" href="motorsport/tc2000/">
+          <div class="art" style="--tint: linear-gradient(135deg, #1f5fa8, #74acdf)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <rect x="0" y="40" width="120" height="14" fill="#fff" opacity="0.85"/>
+              <circle cx="96" cy="26" r="9" fill="#f6b40e"/>
+              <path d="M10 86l8-16 14-6h34l14 8h20c6 0 10 4 10 8v6H10Z" fill="#f4f4f2"/>
+              <path d="M36 66h26l12 7H30Z" fill="#1f3550"/>
+              <path d="M10 80h100v6H10Z" fill="#e10600"/>
+              <text x="64" y="80" font-family="Arial, sans-serif" font-weight="700" font-size="10" fill="#1f3550">TC</text>
+              <circle cx="32" cy="88" r="10" fill="#111"/><circle cx="32" cy="88" r="4" fill="#999"/>
+              <circle cx="90" cy="88" r="10" fill="#111"/><circle cx="90" cy="88" r="4" fill="#999"/>
+            </svg>
+            <div class="stat" data-stat="tc2000"><strong>7</strong><span>Traverso titles</span></div>
+          </div>
+          <div class="body">
+            <h3>TC2000</h3>
+            <p>Argentina's touring-car champions since 1979: races of titles by driver, make and team, the eras of each make, all-time wins and poles, and the current season.</p>
           </div>
         </a>
       </div>
@@ -912,6 +931,10 @@
           return [String(n), `${d.teams[code].name} Olympic golds`];
         }],
         chess: ["chess/data/chess.json", (d) => [String(new Set(d.reigns.map((r) => r.name)).size), "world champions"]],
+        tc2000: ["motorsport/tc2000/data/tc2000.json", (d) => {
+          const [id, n] = most(d.champions, (c) => c.driver);
+          return [String(n), `${d.drivers[id].name.split(" ").slice(-1)[0]} titles`];
+        }],
         f1: ["motorsport/formula-1/data/formula-1.json", (d) => {
           const counts = new Map();
           d.champions.forEach((c) => counts.set(c.driver, (counts.get(c.driver) || 0) + 1));
