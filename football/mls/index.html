@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MLS · Football</title>
+  <meta name="description" content="Every MLS Cup champion since 1996: a titles bar chart race, titles by club, every Golden Boot winner and every final.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/mls.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Football</p>
+    <h1>MLS</h1>
+    <p class="lede">
+      Every Major League Soccer champion since the league's first season in 1996: the MLS Cup, the playoff final that decides the title. The Supporters' Shield for the best regular season is a separate trophy.
+      Also see the other leagues: <a href="../serie-a/">Serie A</a>, <a href="../la-liga/">La Liga</a>, <a href="../premier-league/">England</a>, <a href="../ligue-1/">Ligue 1</a>, <a href="../bundesliga/">Bundesliga</a>, <a href="../brasileirao/">Brasileirão</a>, <a href="../argentine-primera/">Argentina</a>, <a href="../liga-mx/">Liga MX</a>, <a href="../colombian-primera/">Colombia</a>, <a href="../chilean-primera/">Chile</a>.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most league titles</h2>
+        <p>MLS Cups won by each club, final by final.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Era" id="race-era"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Season">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <div class="filter-bar" id="era-bar">
+      <span class="filter-label">Era</span>
+      <div class="segmented" role="tablist" aria-label="Era" id="era-filter"></div>
+      <p class="filter-note">Applies to the titles table and the season list below.</p>
+    </div>
+
+    <section class="block tight" id="clubs">
+      <div class="block-head">
+        <h2>Titles by club</h2>
+        <p>MLS Cup wins and runner-up finishes by club.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="clubs-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="alltime">
+      <div class="block-head">
+        <h2>All-time table</h2>
+        <p></p>
+      </div>
+      <div class="card">
+        <p class="country-note" id="alltime-note"></p>
+        <div class="data-table tall" id="alltime-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="scorers">
+      <div class="block-head">
+        <h2>Top scorers</h2>
+        <p>The Golden Boot winner of every season and the club he played for, plus every player with 100 or more MLS goals.</p>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">Clubs with the most top scorers</h3>
+          <div id="scorer-clubs"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Most scoring titles</h3>
+          <div id="scorer-players"></div>
+        </div>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="View" id="scorers-tabs"></div>
+        </div>
+        <div class="data-table tall" id="scorers-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="seasons">
+      <div class="block-head">
+        <h2>Every champion</h2>
+        <p>All league titles, most recent first.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="seasons-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> <a href="https://en.wikipedia.org/wiki/List_of_MLS_Cup_finals">Wikipedia, List of MLS Cup finals</a> (CC BY-SA 4.0); top scorers from <a href="https://en.wikipedia.org/wiki/MLS_Golden_Boot">MLS Golden Boot</a> and <a href="https://en.wikipedia.org/wiki/List_of_Major_League_Soccer_players_with_100_or_more_goals">List of Major League Soccer players with 100 or more goals</a>.
+      Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p>
+      <strong>Notes:</strong> until 2004 the Golden Boot went to the player with the most points (two per goal and one per assist), not necessarily the most goals. Titles won under earlier names count for today's club (the Kansas City Wizards for Sporting Kansas City, the San Jose Clash for the Earthquakes). No complete all-time table is published on Wikipedia, so this page has none.
+      Every club's title count is checked against the totals table on the same Wikipedia page. Clubs that no longer exist or have no crest available show their initials.
+    </p>
+    <p>
+      Club names and crests are trademarks of their respective clubs, shown here for identification only (crests via ESPN's public CDN).
+      This project is not affiliated with Major League Soccer.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../common.js"></script>
+  <script src="../league.js"></script>
+</body>
+</html>

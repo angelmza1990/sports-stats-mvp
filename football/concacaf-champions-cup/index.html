@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CONCACAF Champions Cup · Football</title>
+  <meta name="description" content="Every CONCACAF Champions Cup title since 1962: a titles bar chart race, champions and runners-up, repeated finals, countries, all-time club records and top scorers.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/concacaf-champions-cup.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Football</p>
+    <h1>CONCACAF Champions Cup</h1>
+    <p class="lede">The club championship of North America, Central America and the Caribbean since 1962: the Champions' Cup until 2008, the Champions League until 2023 and the Champions Cup since 2024. Also see the <a href="../copa-libertadores/">Copa Libertadores</a>, the <a href="../champions-league/">Champions League</a>, <a href="../liga-mx/">Liga MX</a> and <a href="../mls/">MLS</a>.</p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most titles</h2>
+        <p>Titles won by each club, edition by edition since 1962. Bars are colored by the club's country.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="legend" id="race-legend"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Season">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="champions">
+      <div class="block-head">
+        <h2>Champions and runners-up</h2>
+        <p>Every club that has won the title or reached a final, or every edition one by one, including the titles awarded without a final.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="View" id="champions-tabs"></div>
+        </div>
+        <div class="data-table tall" id="champions-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="rivalries">
+      <div class="block-head">
+        <h2>The most repeated finals</h2>
+        <p>Matchups that met more than once with the trophy on the line.</p>
+      </div>
+      <div class="card">
+        <div class="pair-list" id="pairs-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="countries">
+      <div class="block-head">
+        <h2>Titles and runners-up by country</h2>
+        <p>Finals won and lost by each country's clubs, and how many different clubs have won it. Hover a row for the clubs.</p>
+      </div>
+      <div class="card">
+        <p class="country-note" id="country-note"></p>
+        <div id="countries-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="points">
+      <div class="block-head">
+        <h2>All-time points table</h2>
+        <p>Every club's accumulated record in the competition, ranked by points.</p>
+      </div>
+      <div class="card">
+        <p class="country-note" id="points-note"></p>
+        <div class="data-table tall" id="points-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="records">
+      <div class="block-head">
+        <h2>All-time club records</h2>
+        <p>From the competition's historical table of final-round matches since 1962, updated through 2023.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Record" id="records-tabs"></div>
+        </div>
+        <div id="records-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div id="records-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="players">
+      <div class="block-head">
+        <h2>Player records</h2>
+        <p>All-time top scorers of the competition, preliminary rounds included.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Record" id="players-tabs"></div>
+        </div>
+        <div class="data-table" id="players-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>
+      <strong>Data:</strong> <a href="https://en.wikipedia.org/wiki/List_of_CONCACAF_Champions_Cup_and_Champions_League_finals">Wikipedia: list of finals</a>, <a href="https://en.wikipedia.org/wiki/CONCACAF_Champions_Cup_and_Champions_League_records_and_statistics">records and statistics</a> (CC BY-SA 4.0). Updated automatically twice a year. <span id="data-through"></span>
+    </p>
+    <p><strong>Notes:</strong> “a.e.t.” means after extra time and “pens” a penalty shoot-out. Two-legged finals show the score of every leg; some editions were decided in a final group instead of a final. The 1968, 1970, 1973 and 1984 titles were awarded without a final, and in 1978 the final round was not played and three clubs (Leones Negros UdeG, Comunicaciones and Defence Force) were declared joint champions. Every club's title count is checked against the titles-by-club table on the same Wikipedia page. Clubs keep the country they represented; clubs with no crest available show their initials.</p>
+    <p>
+      Club names and crests are trademarks of their respective clubs, shown here for identification only (crests via ESPN's public CDN; flags by <a href="https://flagpedia.net">Flagpedia</a>).
+      This project is not affiliated with CONCACAF.
+    </p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../common.js"></script>
+  <script src="../football.js"></script>
+</body>
+</html>

@@ -3449,7 +3449,7 @@
   },
   {
    "id": "uanl",
-   "name": "UANL",
+   "name": "Tigres UANL",
    "country": "MEX",
    "espn": "232",
    "aliases": [
@@ -3747,6 +3747,766 @@
    "aliases": [
     "Deportivo Táchira",
     "Deportivo Táchira Fútbol Club"
+   ]
+  },
+  {
+   "id": "atlante",
+   "name": "Atlante",
+   "country": "MEX",
+   "espn": "226",
+   "aliases": [
+    "Atlante",
+    "Atlante F.C."
+   ]
+  },
+  {
+   "id": "atlas",
+   "name": "Atlas",
+   "country": "MEX",
+   "espn": "216",
+   "aliases": [
+    "Atlas",
+    "Atlas F.C."
+   ]
+  },
+  {
+   "id": "club-leon",
+   "name": "León",
+   "country": "MEX",
+   "espn": "228",
+   "aliases": [
+    "León",
+    "Club León"
+   ]
+  },
+  {
+   "id": "monterrey",
+   "name": "Monterrey",
+   "country": "MEX",
+   "espn": "220",
+   "aliases": [
+    "Monterrey",
+    "C.F. Monterrey",
+    "Rayados"
+   ]
+  },
+  {
+   "id": "atletico-morelia",
+   "name": "Morelia",
+   "country": "MEX",
+   "espn": "221",
+   "aliases": [
+    "Morelia",
+    "Atlético Morelia",
+    "Monarcas Morelia"
+   ]
+  },
+  {
+   "id": "necaxa",
+   "name": "Necaxa",
+   "country": "MEX",
+   "espn": "229",
+   "aliases": [
+    "Necaxa",
+    "Club Necaxa"
+   ]
+  },
+  {
+   "id": "club-puebla",
+   "name": "Puebla",
+   "country": "MEX",
+   "espn": "231",
+   "aliases": [
+    "Puebla",
+    "Club Puebla"
+   ]
+  },
+  {
+   "id": "pumas-unam",
+   "name": "Pumas UNAM",
+   "country": "MEX",
+   "espn": "233",
+   "aliases": [
+    "Pumas UNAM",
+    "UNAM",
+    "Pumas"
+   ]
+  },
+  {
+   "id": "santos-laguna",
+   "name": "Santos Laguna",
+   "country": "MEX",
+   "espn": "225",
+   "aliases": [
+    "Santos Laguna"
+   ]
+  },
+  {
+   "id": "club-tijuana",
+   "name": "Tijuana",
+   "country": "MEX",
+   "espn": "10125",
+   "aliases": [
+    "Tijuana",
+    "Club Tijuana"
+   ]
+  },
+  {
+   "id": "toluca",
+   "name": "Toluca",
+   "country": "MEX",
+   "espn": "223",
+   "aliases": [
+    "Toluca",
+    "Toluca FC",
+    "Deportivo Toluca F.C."
+   ]
+  },
+  {
+   "id": "queretaro",
+   "name": "Querétaro",
+   "country": "MEX",
+   "espn": "222",
+   "aliases": [
+    "Querétaro",
+    "Querétaro F.C."
+   ]
+  },
+  {
+   "id": "fc-juarez",
+   "name": "FC Juárez",
+   "country": "MEX",
+   "espn": "17851",
+   "aliases": [
+    "FC Juárez"
+   ]
+  },
+  {
+   "id": "atletico-san-luis",
+   "name": "Atlético San Luis",
+   "country": "MEX",
+   "espn": "15720",
+   "aliases": [
+    "Atlético San Luis",
+    "Atlético de San Luis"
+   ]
+  },
+  {
+   "id": "leones-negros-udeg",
+   "name": "Leones Negros UdeG",
+   "country": "MEX",
+   "espn": "10129",
+   "aliases": [
+    "Leones Negros UdeG"
+   ]
+  },
+  {
+   "id": "atlanta-united-fc",
+   "name": "Atlanta United",
+   "country": "USA",
+   "espn": "18418",
+   "aliases": [
+    "Atlanta United FC",
+    "Atlanta United"
+   ]
+  },
+  {
+   "id": "chicago-fire",
+   "name": "Chicago Fire",
+   "country": "USA",
+   "espn": "182",
+   "aliases": [
+    "Chicago Fire FC",
+    "Chicago Fire"
+   ]
+  },
+  {
+   "id": "colorado-rapids",
+   "name": "Colorado Rapids",
+   "country": "USA",
+   "espn": "184",
+   "aliases": [
+    "Colorado Rapids"
+   ]
+  },
+  {
+   "id": "columbus-crew",
+   "name": "Columbus Crew",
+   "country": "USA",
+   "espn": "183",
+   "aliases": [
+    "Columbus Crew",
+    "Columbus Crew SC"
+   ]
+  },
+  {
+   "id": "dc-united",
+   "name": "D.C. United",
+   "country": "USA",
+   "espn": "193",
+   "aliases": [
+    "D.C. United"
+   ]
+  },
+  {
+   "id": "houston-dynamo",
+   "name": "Houston Dynamo",
+   "country": "USA",
+   "espn": "6077",
+   "aliases": [
+    "Houston Dynamo FC",
+    "Houston Dynamo"
+   ]
+  },
+  {
+   "id": "sporting-kansas-city",
+   "name": "Sporting Kansas City",
+   "country": "USA",
+   "espn": "186",
+   "aliases": [
+    "Sporting Kansas City",
+    "Kansas City Wizards"
+   ]
+  },
+  {
+   "id": "los-angeles-fc",
+   "name": "LAFC",
+   "country": "USA",
+   "espn": "18966",
+   "aliases": [
+    "Los Angeles FC",
+    "LAFC"
+   ]
+  },
+  {
+   "id": "la-galaxy",
+   "name": "LA Galaxy",
+   "country": "USA",
+   "espn": "187",
+   "aliases": [
+    "LA Galaxy",
+    "Los Angeles Galaxy"
+   ]
+  },
+  {
+   "id": "new-york-city-fc",
+   "name": "New York City FC",
+   "country": "USA",
+   "espn": "17606",
+   "aliases": [
+    "New York City FC"
+   ]
+  },
+  {
+   "id": "new-york-red-bulls",
+   "name": "New York Red Bulls",
+   "country": "USA",
+   "espn": "190",
+   "aliases": [
+    "New York Red Bulls",
+    "MetroStars"
+   ]
+  },
+  {
+   "id": "portland-timbers",
+   "name": "Portland Timbers",
+   "country": "USA",
+   "espn": "9723",
+   "aliases": [
+    "Portland Timbers"
+   ]
+  },
+  {
+   "id": "real-salt-lake",
+   "name": "Real Salt Lake",
+   "country": "USA",
+   "espn": "4771",
+   "aliases": [
+    "Real Salt Lake"
+   ]
+  },
+  {
+   "id": "san-jose-earthquakes",
+   "name": "San Jose Earthquakes",
+   "country": "USA",
+   "espn": "191",
+   "aliases": [
+    "San Jose Earthquakes",
+    "San Jose Clash"
+   ]
+  },
+  {
+   "id": "seattle-sounders-fc",
+   "name": "Seattle Sounders FC",
+   "country": "USA",
+   "espn": "9726",
+   "aliases": [
+    "Seattle Sounders FC",
+    "Seattle Sounders"
+   ]
+  },
+  {
+   "id": "toronto-fc",
+   "name": "Toronto FC",
+   "country": "CAN",
+   "espn": "7318",
+   "aliases": [
+    "Toronto FC"
+   ]
+  },
+  {
+   "id": "vancouver-whitecaps",
+   "name": "Vancouver Whitecaps",
+   "country": "CAN",
+   "espn": "9727",
+   "aliases": [
+    "Vancouver Whitecaps FC",
+    "Vancouver Whitecaps"
+   ]
+  },
+  {
+   "id": "cf-montreal",
+   "name": "CF Montréal",
+   "country": "CAN",
+   "espn": "9720",
+   "aliases": [
+    "CF Montréal",
+    "Montreal Impact"
+   ]
+  },
+  {
+   "id": "philadelphia-union",
+   "name": "Philadelphia Union",
+   "country": "USA",
+   "espn": "10739",
+   "aliases": [
+    "Philadelphia Union"
+   ]
+  },
+  {
+   "id": "new-england-revolution",
+   "name": "New England Revolution",
+   "country": "USA",
+   "espn": "189",
+   "aliases": [
+    "New England Revolution"
+   ]
+  },
+  {
+   "id": "fc-dallas",
+   "name": "FC Dallas",
+   "country": "USA",
+   "espn": "185",
+   "aliases": [
+    "FC Dallas",
+    "Dallas Burn"
+   ]
+  },
+  {
+   "id": "orlando-city-sc",
+   "name": "Orlando City",
+   "country": "USA",
+   "espn": "12011",
+   "aliases": [
+    "Orlando City SC"
+   ]
+  },
+  {
+   "id": "nashville-sc",
+   "name": "Nashville SC",
+   "country": "USA",
+   "espn": "18986",
+   "aliases": [
+    "Nashville SC"
+   ]
+  },
+  {
+   "id": "fc-cincinnati",
+   "name": "FC Cincinnati",
+   "country": "USA",
+   "espn": "18267",
+   "aliases": [
+    "FC Cincinnati"
+   ]
+  },
+  {
+   "id": "minnesota-united-fc",
+   "name": "Minnesota United",
+   "country": "USA",
+   "espn": "17362",
+   "aliases": [
+    "Minnesota United FC"
+   ]
+  },
+  {
+   "id": "austin-fc",
+   "name": "Austin FC",
+   "country": "USA",
+   "espn": "20906",
+   "aliases": [
+    "Austin FC"
+   ]
+  },
+  {
+   "id": "charlotte-fc",
+   "name": "Charlotte FC",
+   "country": "USA",
+   "espn": "21300",
+   "aliases": [
+    "Charlotte FC"
+   ]
+  },
+  {
+   "id": "st-louis-city-sc",
+   "name": "St. Louis City",
+   "country": "USA",
+   "espn": "21812",
+   "aliases": [
+    "St. Louis City SC",
+    "St. Louis CITY SC"
+   ]
+  },
+  {
+   "id": "san-diego-fc",
+   "name": "San Diego FC",
+   "country": "USA",
+   "espn": "22529",
+   "aliases": [
+    "San Diego FC"
+   ]
+  },
+  {
+   "id": "atletico-bucaramanga",
+   "name": "Atlético Bucaramanga",
+   "country": "COL",
+   "espn": "6137",
+   "aliases": [
+    "Atlético Bucaramanga"
+   ]
+  },
+  {
+   "id": "deportes-quindio",
+   "name": "Deportes Quindío",
+   "country": "COL",
+   "espn": null,
+   "aliases": [
+    "Atlético Quindío",
+    "Deportes Quindío"
+   ]
+  },
+  {
+   "id": "boyaca-chico",
+   "name": "Boyacá Chicó",
+   "country": "COL",
+   "espn": "5480",
+   "aliases": [
+    "Boyacá Chicó F.C.",
+    "Boyacá Chicó"
+   ]
+  },
+  {
+   "id": "cucuta-deportivo",
+   "name": "Cúcuta Deportivo",
+   "country": "COL",
+   "espn": "6101",
+   "aliases": [
+    "Cúcuta Deportivo"
+   ]
+  },
+  {
+   "id": "deportes-tolima",
+   "name": "Deportes Tolima",
+   "country": "COL",
+   "espn": "5489",
+   "aliases": [
+    "Deportes Tolima"
+   ]
+  },
+  {
+   "id": "deportivo-pasto",
+   "name": "Deportivo Pasto",
+   "country": "COL",
+   "espn": "5485",
+   "aliases": [
+    "Deportivo Pasto"
+   ]
+  },
+  {
+   "id": "deportivo-pereira",
+   "name": "Deportivo Pereira",
+   "country": "COL",
+   "espn": "5486",
+   "aliases": [
+    "Deportivo Pereira"
+   ]
+  },
+  {
+   "id": "independiente-medellin",
+   "name": "Independiente Medellín",
+   "country": "COL",
+   "espn": "2690",
+   "aliases": [
+    "Independiente Medellín",
+    "DIM"
+   ]
+  },
+  {
+   "id": "millonarios",
+   "name": "Millonarios",
+   "country": "COL",
+   "espn": "5484",
+   "aliases": [
+    "Millonarios",
+    "Club Deportivo Los Millonarios",
+    "Millonarios F.C."
+   ]
+  },
+  {
+   "id": "independiente-santa-fe",
+   "name": "Santa Fe",
+   "country": "COL",
+   "espn": "5488",
+   "aliases": [
+    "Independiente Santa Fe",
+    "Santa Fe"
+   ]
+  },
+  {
+   "id": "audax-italiano",
+   "name": "Audax Italiano",
+   "country": "CHI",
+   "espn": "4138",
+   "aliases": [
+    "Audax Italiano"
+   ]
+  },
+  {
+   "id": "cobresal",
+   "name": "Cobresal",
+   "country": "CHI",
+   "espn": "4133",
+   "aliases": [
+    "C.D. Cobresal",
+    "Cobresal"
+   ]
+  },
+  {
+   "id": "coquimbo-unido",
+   "name": "Coquimbo Unido",
+   "country": "CHI",
+   "espn": "8186",
+   "aliases": [
+    "Coquimbo Unido"
+   ]
+  },
+  {
+   "id": "everton-vina",
+   "name": "Everton",
+   "country": "CHI",
+   "espn": "4129",
+   "aliases": [
+    "Everton de Viña del Mar",
+    "Everton (Chile)"
+   ]
+  },
+  {
+   "id": "huachipato",
+   "name": "Huachipato",
+   "country": "CHI",
+   "espn": "4134",
+   "aliases": [
+    "C.D. Huachipato",
+    "Huachipato"
+   ]
+  },
+  {
+   "id": "ohiggins",
+   "name": "O'Higgins",
+   "country": "CHI",
+   "espn": "6072",
+   "aliases": [
+    "O'Higgins F.C.",
+    "O'Higgins"
+   ]
+  },
+  {
+   "id": "palestino",
+   "name": "Palestino",
+   "country": "CHI",
+   "espn": "4422",
+   "aliases": [
+    "Club Deportivo Palestino",
+    "Palestino"
+   ]
+  },
+  {
+   "id": "union-la-calera",
+   "name": "Unión La Calera",
+   "country": "CHI",
+   "espn": "10144",
+   "aliases": [
+    "Unión La Calera"
+   ]
+  },
+  {
+   "id": "nublense",
+   "name": "Ñublense",
+   "country": "CHI",
+   "espn": "7427",
+   "aliases": [
+    "Ñublense",
+    "Club Deportivo Ñublense"
+   ]
+  },
+  {
+   "id": "deportes-la-serena",
+   "name": "Deportes La Serena",
+   "country": "CHI",
+   "espn": "4137",
+   "aliases": [
+    "Deportes La Serena"
+   ]
+  },
+  {
+   "id": "saprissa",
+   "name": "Saprissa",
+   "country": "CRC",
+   "espn": "858",
+   "aliases": [
+    "Deportivo Saprissa",
+    "Saprissa"
+   ]
+  },
+  {
+   "id": "alajuelense",
+   "name": "Alajuelense",
+   "country": "CRC",
+   "espn": "2057",
+   "aliases": [
+    "L.D. Alajuelense",
+    "Alajuelense"
+   ]
+  },
+  {
+   "id": "herediano",
+   "name": "Herediano",
+   "country": "CRC",
+   "espn": "862",
+   "aliases": [
+    "C.S. Herediano",
+    "Herediano"
+   ]
+  },
+  {
+   "id": "cartagines",
+   "name": "Cartaginés",
+   "country": "CRC",
+   "espn": "7239",
+   "aliases": [
+    "C.S. Cartaginés",
+    "Cartaginés"
+   ]
+  },
+  {
+   "id": "olimpia-honduras",
+   "name": "Olimpia",
+   "country": "HON",
+   "espn": "884",
+   "aliases": [
+    "C.D. Olimpia",
+    "Olimpia (Honduras)"
+   ]
+  },
+  {
+   "id": "motagua",
+   "name": "Motagua",
+   "country": "HON",
+   "espn": "7242",
+   "aliases": [
+    "F.C. Motagua",
+    "Motagua"
+   ]
+  },
+  {
+   "id": "marathon",
+   "name": "Marathón",
+   "country": "HON",
+   "espn": "7249",
+   "aliases": [
+    "C.D. Marathón",
+    "Marathón"
+   ]
+  },
+  {
+   "id": "real-espana-honduras",
+   "name": "Real España",
+   "country": "HON",
+   "espn": "7245",
+   "aliases": [
+    "Real C.D. España",
+    "Real España (Honduras)"
+   ]
+  },
+  {
+   "id": "comunicaciones",
+   "name": "Comunicaciones",
+   "country": "GUA",
+   "espn": "7257",
+   "aliases": [
+    "Comunicaciones F.C.",
+    "Comunicaciones"
+   ]
+  },
+  {
+   "id": "municipal-guatemala",
+   "name": "Municipal",
+   "country": "GUA",
+   "espn": "7258",
+   "aliases": [
+    "C.S.D. Municipal",
+    "Municipal (Guatemala)",
+    "CSD Municipal",
+    "Club Social y Deportivo Municipal"
+   ]
+  },
+  {
+   "id": "alianza-el-salvador",
+   "name": "Alianza",
+   "country": "SLV",
+   "espn": "7225",
+   "aliases": [
+    "Alianza F.C. (El Salvador)",
+    "Alianza FC (El Salvador)"
+   ]
+  },
+  {
+   "id": "fas",
+   "name": "FAS",
+   "country": "SLV",
+   "espn": "7229",
+   "aliases": [
+    "C.D. FAS",
+    "FAS"
+   ]
+  },
+  {
+   "id": "aguila",
+   "name": "Águila",
+   "country": "SLV",
+   "espn": "7226",
+   "aliases": [
+    "C.D. Águila",
+    "Águila"
+   ]
+  },
+  {
+   "id": "isidro-metapan",
+   "name": "Isidro Metapán",
+   "country": "SLV",
+   "espn": "7224",
+   "aliases": [
+    "A.D. Isidro Metapán",
+    "Isidro Metapán"
    ]
   }
  ]

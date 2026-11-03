@@ -1,0 +1,734 @@
+{{short description|Mexican association football league}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox football league
+|name       = Liga MX
+|logo       = Liga MX logo.svg
+|pixels     = 200px
+|organiser  = ''Liga Mexicana de Fútbol Profesional''
+|country    = [[Mexico]]
+|confed     = [[CONCACAF]]
+|founded    = {{start date and age|1943}} (Professional era)<br/>''as Liga Mayor''
+|relegation = [[Liga de Expansión MX]]<br/>(Suspended)
+|levels     = [[Mexican football league system|1]]
+|teams      = 18 
+|domest_cup = '''Super cup'''<br>[[Campeón de Campeones]]
+|confed_cup = '''Continental'''<br/>[[CONCACAF Champions Cup]]<br/>'''Subcontinental'''<br/>[[Leagues Cup]]<br/>[[Campeones Cup]]<!--International, but not at confederation level.-->
+|champions = [[Cruz Azul]]<br/>(10th title)
+|most successful club = [[Club América|América]]<br/>(16 titles)
+|most_appearances = [[Óscar Pérez (footballer, born 1973)|Óscar Pérez]] (745)
+|top_goalscorer = [[Cabinho (footballer)|Cabinho]] (312)
+|tv = '''Domestic'''<br/><onlyinclude>[[Claro (company)|Claro]]{{efn|includes [[Claro Sports]]}}<br/>[[ESPN (Latin America)|ESPN]]{{efn|includes [[ESPN 2 (Latin America)|ESPN 2]], [[ESPN 3 (Latin America)|ESPN 3]], [[ESPN+]], and [[Disney+]]}}<br/>[[Fox (Mexico)|Fox]]{{efn|Games are produced and streamed by Fox Deportes through [[Tubi]]}}<br/>[[Televisa]]{{efn|Includes [[Canal 5 (Mexico)|Canal 5]], [[Nueve (Mexican TV network)|Nueve]], [[Las Estrellas]], [[Sky Sports (Mexico)|Sky Sports]], [[Vix (streaming service)|Vix]], [[Televisa Deportes Network|TUDN]] and [[Izzi Telecom]].}}<br/>[[TV Azteca]]{{efn|includes [[Azteca 7]] and [[Azteca Uno]]}}</onlyinclude><br/>'''International'''<br/>[[OneFootball]] (Selected matches in selected markets outside of Mexico)
+|website = {{URL|http://www.ligamx.net/|ligamx.net}}
+|current = [[2026–27 Liga MX season#Torneo Apertura|Apertura 2026 Liga MX season]] 
+}}
+
+'''Liga MX''', officially as '''Liga BBVA MX''' for sponsorship reasons,<ref>{{cite web| title=Liga MX hace oficial su cambio de nombre y logo| url=https://www.mediotiempo.com/futbol/liga-mx/liga-bbva-mx-oficial-nombre-logo| work=MedioTiempo| language=es| date=18 June 2019| access-date=21 June 2019| archive-date=21 June 2019| archive-url=https://web.archive.org/web/20190621213501/https://www.mediotiempo.com/futbol/liga-mx/liga-bbva-mx-oficial-nombre-logo| url-status=live}}</ref> is a professional [[association football]] league in [[Mexico]] and the highest level of the [[Mexican football league system]]. The league is contested by 18 participating clubs, the season is divided into two tournaments: ''Apertura'' (from July to December) and ''Clausura'' (from January to May). The champions of each tournament are decided by a final knockout phase, commonly known as ''Liguilla''. Since 2020, [[promotion and relegation]] has been suspended.
+
+Formerly known as ''Liga Mayor'' (1943–1949), ''Campeonato de la Rama Profesional de la FMF'' (1949–1960) and ''Primera División Profesional de México'' (1960–2012). The league has been held in 115 editions, the inaugural season in the professional era was played in [[1943–44 Mexican Primera División season|1943–44]] with [[Asturias F.C.|Asturias]] crowned as the first champions.
+
+Liga MX currently ranks first in [[CONCACAF]]'s league ranking index.<ref>{{cite web|title=CONCACAF League Ranking Index|date=4 May 2023 |url=https://www.concacaf.com/en/rankings/league/|publisher=[[CONCACAF]]}}</ref> According to the [[International Federation of Football History & Statistics|IFFHS]], it was ranked as the 10th strongest league in the first decade of the 21st century.<ref>{{cite web| title=The strongest Leagues in the World in the first Decade of 21st Century| url=http://www.iffhs.de/?20fa3002f76857a72e00fa2d17f7370eff3702bb1c2bbb6e0d| publisher=IFFHS| access-date=29 June 2013| archive-date=26 October 2017| archive-url=https://web.archive.org/web/20171026110630/http://iffhs.de/?20fa3002f76857a72e00fa2d17f7370eff3702bb1c2bbb6e0d| url-status=live}}</ref> According to CONCACAF, the league with an average attendance of 25,557 during the [[2014–15 Liga MX season|2014–15 season]], draws the largest crowds on average of any football league in the Americas.<ref>{{cite web | title=Best attended domestic sports leagues in the world | url=http://www.sportingintelligence.com/finance-biz/business-intelligence/global-attendances/ | publisher=Sporting Intelligence | access-date=19 June 2017 | archive-date=22 August 2021 | archive-url=https://web.archive.org/web/20210822035059/http://www.sportingintelligence.com/finance-biz/business-intelligence/global-attendances/ | url-status=live }}</ref><ref>{{cite web|last=Shea|first=Bill|title=What could top the Super Bowl on U.S. TV? Soccer, aliens and not much else|url=https://www.nytimes.com/athletic/4173314/2023/02/09/super-bowl-tv-ratings-soccer/|quote=Major League Soccer ranks third in U.S. soccer viewership after the Premier League and Mexico’s top-flight Liga MX, leagues that have much longer histories.|work=[[The Athletic]]|date=9 February 2023|access-date=18 March 2023|archive-date=18 March 2023|archive-url=https://web.archive.org/web/20230318045856/https://theathletic.com/4173314/2023/02/09/super-bowl-tv-ratings-soccer/|url-status=live}}</ref>
+
+Twenty-four clubs have been champions at least once. [[Club América|América]] is the most successful club with sixteen titles, [[C.D. Guadalajara|Guadalajara]] and [[Toluca FC|Toluca]] with twelve titles each, [[Cruz Azul]] with ten titles, [[Tigres UANL]] and [[Club León|León]] with eight titles each.<ref name="campeones">{{cite web |title=Tigres campeón: ¿Cuántos campeonatos tiene cada equipo de la Liga MX? |url=https://www.tudn.com/futbol/liga-mx/cuantos-campeonatos-tiene-cada-equipo-de-liga-mx |website=TUDN |date=30 October 2022 |access-date=28 August 2023 |language=spanish}}</ref>
+
+==History==
+===Precursor amateur leagues===
+Prior to the beginning of the ''Liga Mayor'' in the professional era of Mexican football, there was no national and professional league in Mexico, and all football competitions were held within relatively small geographical regions. In 1902, an amateur association of football supporters known as ''Asociación de Aficionados de México en la Liga de Football'' created the first amateur football league in Mexico known as ''[[Primera Fuerza#Liga Mexicana de Football Amateur Association|Liga Mexicana de Football Amateur Association]]'', a local league of clubs near and around [[Mexico City]]. The league was held from 1902 to 1920, and the [[1902–03 Primera Fuerza season|inaugural season]] was contested by five clubs.
+
+In 1920, a separatist league known as ''[[Primera Fuerza#Liga Nacional|Liga Nacional]]'' was created by [[Real Club España]], after its withdrawal from the Liga Mexicana in 1919. The league was held for two seasons (1920–21 and 1921–22), and the inaugural season was contested by five clubs.
+
+The Liga Mexicana and the Liga Nacional are considered the two most relevant precursor amateur leagues, but not as direct predecessors of Liga MX. However, other regional and state leagues were also held in the country: [[Liga Occidental De Jalisco|Liga Amateur de Jalisco]], [[Liga Amateur de Veracruz]], Liga Amateur de Puebla, Liga Amateur del Bajío, Liga Amateur de Hidalgo and Liga Amateur Mexiquense.
+
+===Amateur era===
+====Campeonato de Primera Fuerza/Liga Mayor del Distrito Federal (1922–1943)====
+In 1922, the ''Federación de Football Association'' was founded as the first governing body for Mexican football, after the merger of the Liga Mexicana and the Liga Nacional. Inmediately they created the ''[[Primera Fuerza|Campeonato de Primera Fuerza]]'', a local league in Mexico City. The league was held from 1922 to 1943, and the [[1922–23 Primera Fuerza season|inaugural season]] was contested by eight clubs, however, all participating clubs were from Mexico City. From 1923 to 1927, the competition was organized by the defunct ''Federación Central de Fútbol''.
+
+Since the [[1927–28 Primera Fuerza season|1927–28 season]], the league was organized by the current ''[[Mexican Football Federation|Federación Mexicana de Fútbol]]'' officially established in 1927 and also taking control of the competition. In 1931, the FMF renamed the league as ''Liga Mayor del Distrito Federal'', and the first matches outside Mexico City were played in the [[1940–41 Primera Fuerza season|1940–41 season]] with the inclusion of [[U.D. Moctezuma de Orizaba|Moctezuma]] and [[Selección Jalisco]].
+
+Many club owners were keen to remain amateur although they paid players under the table. The increasing interest in football would not thwart a unified professional football system in the country.
+
+===Professional era===
+====Liga Mayor (1943–1949)====
+The professional era of the league was officially established in 1943.<ref>{{cite web| title=Historia del futbol en México| url=http://www.femexfut.org.mx/portalv2/(hjfqs545niz5yh55yipntw55)/default.aspx?s=135| publisher=[[Femexfut]]| access-date=29 July 2009| archive-date=11 October 2018| archive-url=https://web.archive.org/web/20181011031316/http://www.femexfut.org.mx/portalv2/(hjfqs545niz5yh55yipntw55)/default.aspx?s=135| url-status=live}}</ref> The FMF announced the beginning of a true national and professional league, incorporating clubs from other state local leagues. The league was known as ''Liga Mayor'' until 1949, and the [[1943–44 Mexican Primera División season|inaugural season]] was contested by ten founding clubs: six clubs from the amateur era of the Liga Mayor, two clubs from the Liga Amateur de Jalisco, and two clubs from the Liga Amateur de Veracruz.
+
+The ten founding clubs were: Asociación Deportiva Orizabeña, [[Club América|América]], [[Asturias F.C.|Asturias]], [[Atlante F.C.|Atlante]], [[Atlas F.C.|Atlas]], [[C.D. Guadalajara|Guadalajara]], [[Veracruz Sporting Club|Veracruz Sporting]], [[C.D. Marte|Marte]], [[U.D. Moctezuma de Orizaba|Moctezuma]] and [[Real Club España]].
+[[File:Asturias, Los Sports, 1927-04-08 (213).jpg|thumbnail|right|[[Asturias F.C.|Asturias]] in 1927.]]
+
+====Campeonato de la Rama Profesional de la FMF (1949–1960)====
+For administrative reasons, the Liga Mayor had decided to separate from the FMF, but after several negotiations they were unified again in 1948. This caused different reforms to completely separate and differentiate the profesional league and the amateur branch, due to this the FMF officially renamed the league as ''Campeonato de la Rama Profesional de la FMF'' in 1949.
+
+In 1950, another of the new reforms derived was the creation of a second-level professional league for Mexican football, creating the [[Liga Premier de México|Segunda División Profesional de México]]. In the 1950–51 season, the first club relegated from the top division was [[C.F. San Sebastián de León|San Sebastián de León]] and the first club promoted was [[Zacatepec F.C.|Zacatepec]].
+
+Throughout the late 1950s and early 1960s, many small clubs faced many economic difficulties which were attributed to the lack of international competition by Mexico's clubs and an unrewarding league format. Consequently, clubs from Mexico that placed high in the league standings could not afford to participate in the overarching continental competitions, such as the [[Copa Libertadores]]. 
+
+====Primera División Profesional de México (1960–2012)====
+In 1960, after the election of [[Guillermo Cañedo de la Bárcena]] as president of the FMF, statutes and regulations of Mexican football were modified. The league was officially renamed as ''Primera División Profesional de México'' and also had an autonomous and independent steering committe.
+
+The [[1970 FIFA World Cup|1970 World Cup]] held in Mexico was the first World Cup televised on a grand scale. The season following the FIFA World Cup, the FMF changed the league format and established a final knockout phase to determine the champions. This was done to regenerate interest and reward clubs that placed fairly high in the standings.  
+
+The final phase, known as ''Liguilla'', was played using various formats to determine the champions. The most common format was a straight knockout between the top eight clubs in the table. At other times the league was divided into groups with the top two in each group, often as well as the best 3rd placed clubs, qualifying for the liguilla and in some seasons the playoff matches themselves involved clubs playing in groups with the group winners playing off for the title. The format was changed from season to season to accommodate international club commitments and the schedule of the [[Mexico national football team|Mexico national team]].
+
+The change in the rules affected clubs that traditionally dominated the table, as talented clubs that had not performed well in the regular season were able to perform successfully in the final phase ([[Cruz Azul]] in the 1970s, [[Club América|América]] in the 1980s, and [[Toluca FC|Toluca]] in the 2000s).
+
+In 1994, the FMF implemented the creation of the [[Ascenso MX|Primera División 'A' Profesional de México]] as the new second-level professional league and an intermediate league between the First and Second Division. The first clubs relegated from the Primera División were [[Correcaminos UAT]] and [[Club Jaiba Brava|TM Gallos Blancos]], and the first club promoted was [[Atlético Celaya]].
+
+====Liga MX (2012–present)====
+Prior to the start of the [[2012–13 Liga MX season|2012–13 season]], the organization ''Liga MX-Ascenso MX'' was created to replace the FMF as the main organizing body of the competition. The league also announced a rebranding, with the introduction of a new name and a new logo, and officially renamed as ''Liga MX''.<ref>{{cite web |url=http://www.ligamx.net/cancha/corporativo |title=Corporativo |publisher=Liga MX |language=es |archive-url=https://web.archive.org/web/20160319142428/http://ligamx.net/cancha/corporativo |archive-date=19 March 2016 }}</ref>
+
+In August 2018, it was announced that Liga MX would begin testing the use of [[video assistant referee|VAR]] technology.<ref>{{cite web |title=Liga MX to run VAR test at U-20 matches, senior matches starting Week 13 |url=https://www.fmfstateofmind.com/2018/8/20/17757860/liga-mx-to-run-var-test-at-u-20-games-in-mexico |website=SBNation |date=20 August 2018 |access-date=20 August 2018 |archive-date=21 August 2018 |archive-url=https://web.archive.org/web/20180821223239/https://www.fmfstateofmind.com/2018/8/20/17757860/liga-mx-to-run-var-test-at-u-20-games-in-mexico |url-status=live }}</ref> The initial test run was conducted during U-20 matches played inside senior league stadiums, with live testing across senior Liga MX matches taking place during weeks 13 and 14 of the [[2018–19 Liga MX season#Torneo Apertura|Apertura tournament]]. The league needed final approval from FIFA to fully implement the technology.<ref>{{cite web |title=Liga MX tendrá VAR en jornadas 13 y 14 del Apertura 2018 |url=http://www.milenio.com/deportes/futbol/liga-mx-var-jornadas-13-14-apertura-2018 |trans-title=Liga MX will have VAR during weeks 13 and 14 of the Apertura 2018 |website=La Afición |date=20 August 2018 |publisher=Milenio |language=es |access-date=20 August 2018 |archive-date=21 August 2018 |archive-url=https://web.archive.org/web/20180821122024/http://www.milenio.com/deportes/futbol/liga-mx-var-jornadas-13-14-apertura-2018 |url-status=live }}</ref>
+
+In 2020, [[Ascenso MX]] was dissolved and the FMF created the [[Liga de Expansión MX]] as a development league and as the replacement in the second level of Mexican football. However, FMF and Liga MX suspended the promotion and relegation between both leagues, arguing for an economic stabilization project after the [[COVID-19 pandemic]] and prevent the disappearance of a second level league in Mexico.
+
+On April 2026, Liga MX officials convened and passed a historic decision, by fully separating the Liga MX from the FMF's control, and to make the league a separate company running the domestic competition, while FMF only retains regulation rights. The move took effect on 16 July the same year, creating the ''Liga Mexicana de Fútbol Profesional'' as a civil association operating within the FMF's legal framework, which is composed by the owners of the 18 Liga MX clubs and the FMF.<ref>{{Cite web|url=https://www.sportcal.com/news/liga-mx-separates-from-fmf-atlas-sold-mezatlan-dissolved-in-whirlwind-day/|title=Liga MX separates from FMF, Atlas sold, Mezatlan dissolved in whirlwind day – Sportcal|first=Alex|last=Donaldson|website=Sportcal.com|date=24 April 2026|access-date=25 July 2026}}</ref>
+
+==Competition format==
+[[File:Liga MX Trophy.jpg|thumb|180px|Liga MX Trophy.]]
+
+===Regular phase===
+Liga MX uses a single table of 18 clubs that play two short tournaments (Apertura and Clausura) resulting in two champions per season. The season opens with the ''Apertura'' from July to December, followed by the ''Clausura'' from January to May. This format matches other Latin American schedules and corresponds with FIFA world football calendar, which "opens" in July/August and "closes" in April/May of the next year. The top eight clubs advance to the final knockout phase for each tournament.
+
+From 1996 to 2002, the league followed a schedule consisting of two short tournaments in the season, ''Invierno'' and ''Verano'' tournaments. From 2002 to 2011, the 18 clubs were divided into three groups of six, with the top two  from each group and the two best third-place clubs qualifying for the Liguilla. The clubs played in the same group for each tournament. The qualification phase of the tournament lasted 17 matches, with all clubs playing each other once per tournament in a home and away series over both tournaments.
+
+===Final phase===
+The final phase of each tournament, commonly known as Liguilla, consisting of eight clubs that qualify for the tournament based on regular phase point totals.<ref name="Format 2023–24">{{cite web|url=https://www.ligamx.net/cancha/detallenoticia/43043 |title=Por unanimidad, la Asamblea de Clubes designa a Juan Carlos Rodríguez|website=Liga MX|access-date=9 October 2023}}</ref><ref name="ESPND">{{cite web|url=https://espndeportes.espn.com/futbol/mexico/nota/_/id/12090949/liga-mx-repechaje-continuara-en-apertura-2023-con-nuevo-formato|title=Liga MX: Repechaje continuará en Apertura 2023 con nuevo formato|website=ESPN Deportes|date=9 October 2023|access-date=9 October 2023}}</ref> The clubs are paired according to seeding, with the highest-seeded club playing the lowest-seeded and so on. Each tie is played over two legs with the winner on aggregate score progressing.
+
+The champions are awarded the Liga MX trophy, and the runners-up is awarded a smaller version of the trophy. The start of Liguilla in 1970 modernized the league despite the disagreements between the traditionalists and the modernists. Clubs that were near bankruptcy were now better able to compete and generate profits.
+
+====Tie-breaking criteria====
+If at least two clubs finish the regular season with an equal number of points, the following criteria are used to break the tie:<ref>{{Cite web|url=https://s3.amazonaws.com/lmxwebsite/docs/Reglamentos/Competencia/1_LIGA_MX/17_LIGA_MX_1_20231013154047.pdf|title=Liga MX regulations|access-date=27 November 2023}}</ref>
+
+* Goal difference
+* Number of goals scored
+* Number of away goals scored
+* Head-to-head matchup
+* Best placed in the general quotient table
+* Fair play points in all group matches (only one deduction could be applied to a player in a single match)
+** Yellow card: −1 points
+** Indirect red card by second yellow card: −3 points
+** Direct red card: −3 points
+** Yellow card and direct red card: −5 points
+* Drawing of lots.
+
+===Relegation===
+Originally at the end of a season, after the ''Apertura'' and ''Clausura'' tournaments, one club was relegated to the next lower division, [[Ascenso MX]], and one club from that division was promoted and took the place left open by the relegated team. The relegated club was determined by computing the points-per-game-played ratio for each club, considering all the games played by the club during the last three seasons (six short tournaments). The club with the lowest ratio is relegated; if the club that was in last place in the relegation table was among the 12 clubs qualifying for the Liguilla at the end of the ''Clausura'' tournament, the 13th place team qualified for the Liguilla instead. For clubs recently promoted, only the games played since their promotion are considered (two or four tournaments). The club promoted from Ascenso MX is the winner of the [[Ascenso MX#Campeón de Ascenso|Campeón de Ascenso]], the division's super cup between the ''Apertura'' and ''Clausura'' champions. If a club became the champions in both tournaments, it was automatically promoted.
+
+Prior to the start of the [[2017–18 Liga MX season|2017–18 season]], the rules for relegation and promotion changed: if a club wins promotion but does not meet certain Liga MX requirements (e.g. stadium infrastructure and a youth team) the relegated Liga MX club of that season will be obligated to pay the prize money to the Ascenso MX club ([[Mexican peso|MXN$]]120 million) for winning the promotion playoff, which should be utilized to fulfill necessary requirements for promotion within the next season, and remain in Ascenso MX,<ref>{{cite news |url=http://www.ascensomx.net/cancha/detallenoticia/21147/ascenso-bancomer-mx-informa |title=Ascenso Bancomer MX Informa |language=es |website=Ascensomx.net |date=20 July 2017 |access-date=2 August 2017 |archive-date=3 August 2017 |archive-url=https://web.archive.org/web/20170803095110/http://www.ascensomx.net/cancha/detallenoticia/21147/ascenso-bancomer-mx-informa |url-status=live }}</ref> and the relegated Liga MX club will remain in the top division. However, if the relegated Liga MX club cannot distribute the prize money to the promoted Ascenso MX club, both clubs will lose their right to play in Liga MX and must play in Ascenso MX the following season.<ref>{{cite web |title=Reglamento de Competencia 2017–18 |trans-title=Competition Regulation 2017–18 |url=http://administrador.ligamx.net/docs/Reglamentos/Competencia/2_ASCENSO_MX/07_Reglamento-de-Competencia-ASCENSO-MX-2017-2018_300517.pdf |language=es |website=ascensomx.net |publisher=Ascenso MX |access-date=29 July 2017 |archive-url=https://web.archive.org/web/20170730065347/http://administrador.ligamx.net/docs/Reglamentos/Competencia/2_ASCENSO_MX/07_Reglamento-de-Competencia-ASCENSO-MX-2017-2018_300517.pdf |archive-date=30 July 2017 |url-status=dead }}</ref>
+
+As of the [[2018–19 Liga MX season|2018–19 season]], only six clubs met the full requirements to be promoted to Liga MX, those clubs being [[Atlético San Luis]], [[Atlante F.C.|Atlante]], [[Celaya F.C.|Celaya]], [[FC Juárez|Juárez]], [[Dorados de Sinaloa|Sinaloa]], and [[Leones Negros UdeG]].<ref>{{cite news |url=http://www.record.com.mx/columnistas-luis-castillo/seis-equipos-con-derecho-al-ascenso |title=Seis equipos, con derecho al Ascenso |trans-title=Six teams, entitled to promotion |language=es |date=21 July 2017 |access-date=2 August 2017 |archive-date=2 August 2017 |archive-url=https://web.archive.org/web/20170802040840/http://www.record.com.mx/columnistas-luis-castillo/seis-equipos-con-derecho-al-ascenso |url-status=live }}</ref>
+
+On 16 April 2020, the Ascenso MX was folded due to the [[COVID-19 pandemic]] as well as the lack of financial resources. Liga MX President Enrique Bonilla later announced during a video meeting with the club owners of the league that promotion and relegation would be suspended for six years.<ref>{{cite web|url=https://www.espn.com/soccer/mexican-liga-bancomer/story/4086507/mexicos-liga-mx-suspends-promotion-relegation-for-next-five-years|title=Liga MX suspends pro/Rel for next five years|date=17 April 2020|access-date=30 June 2021|archive-date=10 May 2021|archive-url=https://web.archive.org/web/20210510191502/https://www.espn.com/soccer/mexican-liga-bancomer/story/4086507/mexicos-liga-mx-suspends-promotion-relegation-for-next-five-years|url-status=live}}</ref><ref>{{cite web|url= https://www.mediotiempo.com/futbol/ascenso-mx/ascenso-mx-clausura-2020-terminado-coronavirus-mexico|title= Ascenso MX da por terminado el C2020 por falta de recursos ante el coronavirus|website= Mediotiempo|date= 13 April 2020|language= es|access-date= 30 June 2021|archive-date= 18 December 2021|archive-url= https://web.archive.org/web/20211218144100/https://www.mediotiempo.com/futbol/ascenso-mx/ascenso-mx-clausura-2020-terminado-coronavirus-mexico|url-status= live}}</ref> During the suspension, the Ascenso MX was replaced with the [[Liga de Expansión MX]] although no club from that league will be promoted to Liga MX nor any Liga MX team that performs poorly will be relegated from the Liga MX for the time being.<ref>{{cite web |url=https://www.mediotiempo.com/futbol/liga-mx/liga-mx-aprueba-liga-desarrollo-salvar-ascenso |title=¡Se confirma! No habrá ascenso ni descenso en 6 años; aprueban Liga de Desarrollo |access-date=25 April 2020 |author=Enrique Martínez Villar |date=24 April 2020 |work=Mediotiempo |language=es |archive-date=25 April 2020 |archive-url=https://web.archive.org/web/20200425071651/https://www.mediotiempo.com/futbol/liga-mx/liga-mx-aprueba-liga-desarrollo-salvar-ascenso |url-status=live }}</ref>
+
+In May 2025, a group of ten league member clubs from the Liga de Expansión MX filed a lawsuit before the [[Court of Arbitration for Sport]] seeking the reinstatement of promotion and relegation between the Liga de Expansión MX and Liga MX;<ref>{{cite web |title=TAS confirma recurso de clubes de Expansión contra FMF por ascenso/descenso |url=https://www.record.com.mx/futbol-liga-mx-noticias/tas-confirma-demanda-de-clubes-de-expansion-fmf-y-liga-mx |website=RÉCORD |access-date=11 July 2025 |language=es |date=21 May 2025}}</ref> four clubs subsequently dropped the lawsuit, the six remaining clubs formed an opposing bloc within the league, which was formed with the aim of combating some of the measures that had occurred previously,<ref>{{cite web |title=¡No hay unión! Un cuarto club de la Liga de Expansión se baja del barco tras demandar a la FMF ante el TAS para exigir el regreso del ascenso |url=https://latinus.us/deportes/futbol-mexicano/2025/6/10/cimarrones-liga-expansion-desiste-demanda-fmf-tas-cuarto-equipo-quedan-seis-144048.html |website=LatinUS |access-date=11 July 2025 |language=es |date=10 June 2025}}</ref> their first triumph was the rejection of the relocation of [[Celaya F.C.]] to Veracruz and the sale of the affiliation certificate between [[Cimarrones de Sonora]] and [[Club Jaiba Brava]].<ref>{{cite web |title=Liga de Expansión MX niega mudanzas de Celaya y Cimarrones a Veracruz y Tampico |url=https://www.tudn.com/futbol/liga-mx/cambios-liga-expansion-regresa-club-irapuato |website=TUDN |access-date=11 July 2025 |language=es |date=9 July 2025}}</ref>
+
+On 4 September 2025, the [[Court of Arbitration for Sport]] issued its verdict on the dispute filed by the six Liga de Expansión MX clubs seeking to reinstate promotion to Liga MX. The ruling established the return of relegation on the Liga MX starting with the 2026–27 season;<ref>{{cite web |title=TAS confirma regreso del ascenso y descenso en la Liga MX a partir de 2026–27 |url=https://www.tudn.com/futbol/liga-mx/tas-confirma-el-regreso-del-ascenso-y-descenso-en-la-liga-mx-a-partir-de-2026-27 |website=TUDN |access-date=4 September 2025 |language=es |date=4 September 2025}}</ref> however, the CAS allowed the Mexican Football Federation to retain the authority to establish the requirements for clubs to be promoted to the top flight of Mexican football, returning to a situation similar to that in place before the creation of the Liga de Expansión MX in 2020.<ref>{{cite web |title=TAS rechaza apelación de clubes de la Liga de Expansión, pero ascenso y descenso en Liga MX ya tiene fecha de REGRESO |url=https://www.mediotiempo.com/futbol/liga-mx/tas-rechaza-reinstauracion-del-ascenso-y-descenso-en-liga-mx |website=Mediotiempo.com |access-date=4 September 2025 |language=es |date=4 September 2025}}</ref>
+
+===CONCACAF Champions Cup qualification===
+Each year, at least six clubs from Liga MX qualify for the [[CONCACAF Champions Cup]], the North American premier club competition; Liga MX itself is guaranteed six spots while teams from the league can earn three more spots via the [[Leagues Cup]] with [[Major League Soccer|MLS]] for a maximum of nine spots. Generally, the Apertura and Clausura champions and runners-up, as well as the next best two clubs in the aggregate table, qualify, with the higher ranking champion from the Apertura and Clausura tournaments earning a bye to the Round of 16. Liga MX would implement a formula for ensuring that the Apertura and Clausura had two qualifying clubs should one or more clubs reach the finals of both tournaments, devised when Liga MX sent 4 clubs to North America premier club competition:<ref>{{cite web|url=http://www.vavel.com/lat/mx/153993-america-monterrey-y-chivas-podrian-ir-a-la-concachampions-sin-llegar-a-la-final.html |archive-url=https://web.archive.org/web/20120504021737/http://www.vavel.com/lat/mx/153993-america-monterrey-y-chivas-podrian-ir-a-la-concachampions-sin-llegar-a-la-final.html |url-status=dead |archive-date=4 May 2012 |title=América, Monterrey y Chivas podrían ir a la ConcaChampions sin llegar a la final |publisher=vavel.com |date=5 March 2012 }}</ref>
+
+*If the same two clubs qualify for the finals of both tournaments, those two clubs will qualify along with the non-finalists with the best record in both the Apertura and Clausura.
+*If the same club wins both the Apertura and Clausura (facing two different clubs in the finals of each tournament), then the berth reserved for the Clausura champions is passed to the Clausura runners-up and the berth reserved for the Clausura runners-up is passed to the non-finalists with the best record in the Clausura. This occurred most recently in the [[2021–22 Liga MX season|2021–22 season]] ([[2023 CONCACAF Champions League]]) when [[Club Atlas|Atlas]] ([[2021-22 Liga MX season#Torneo Apertura|2021 Apertura]] and [[2021–22 Liga MX season#Torneo Clausura|Clausura 2022]] champions), [[C.F. Pachuca|Pachuca]] (Clausura 2022 runners-up) and  [[Club León|León]] (Apertura 2022 runners-up) were placed in Pot 1, while [[Tigres UANL|Tigres]] (non-finalists with the best record in the Clausura 2022) were placed in Pot 2 (at the time, the pot placings were determined via the CONCACAF Club Index, which ranked the performance of certain ''spots'' within the last 5 years). As of the [[2022–23 Liga MX season|2022–23 season]], the team that wins both the Apertura and Clausura also automatically qualifies for the Round of 16.
+*If the Apertura runners-up win the Clausura (facing two different clubs in the finals of each tournament), then the berth reserved for the Apertura runners-up is passed to the non-finalists with the best record in the Apertura. This occurred most recently in the [[2011–12 Mexican Primera División season|2011–12 season]] ([[2012–13 CONCACAF Champions League]]) when [[Tigres UANL|Tigres]] ([[2011–12 Mexican Primera División season#Torneo Apertura|Apertura 2011]] champions) and [[Santos Laguna]] (Apertura 2011 runners-up and [[2011–12 Mexican Primera División season#Torneo Clausura|Clausura 2012]] champions) were placed in Pot A, while [[C.D. Guadalajara|Guadalajara]] (non-finalists with the best record in the Apertura 2011) and [[C.F. Monterrey|Monterrey]] (Clausura 2012 runners-up) were placed in Pot B (at the time, the champions and runners-up were placed in different pots).
+*If the Apertura champions are runners-up in the Clausura (facing two different clubs in the finals of each tournament), then the berth reserved for the Clausura runners-up is passed to the non-finalists with the best record in the Clausura. This has not happened since Liga MX began using this qualification procedure.
+
+With Liga MX sending a minimum of six clubs to the Champions Cup (Liga MX can send a maximum of nine clubs if three Liga MX clubs all hold the top three spots in the Leagues Cup), these rules still generally apply, although if a club qualifies for the Champions Cup via Liga MX and the Leagues Cup, the spot is given to the next best club in the aggregate table. If a club is the highest-ranked tournament champion or the champion of both Apertura and Clausura tournaments and also wins the Leagues Cup for that same cycle, both the Apertura and Clausura champions qualify for the round of 16.<ref name="2024cccregulations">{{cite web |title=2024 Concacaf Champions Cup Regulations |url=https://stconcacafwp001.blob.core.windows.net/media/atwi3fxa/2024-concacaf-champions-cup-regulations-eng.pdf |website=Concacaf |access-date=1 November 2023 |pages=14–19 |date=25 October 2023 |url-status=live |archive-url=https://web.archive.org/web/20231026041930/https://stconcacafwp001.blob.core.windows.net/media/atwi3fxa/2024-concacaf-champions-cup-regulations-eng.pdf |archive-date=26 October 2023}}</ref>
+
+===Qualification for previous international competitions===
+* [[Campeonato Centroamericano|Championship of Central America and Mexico]] (1959)
+* [[Copa Interamericana]] (1969–1992)
+* [[CONCACAF Cup Winners Cup]] (1991–1995)
+* [[Copa Libertadores]] (1998–2016)
+* [[Copa Merconorte]] (2000–2001)
+* [[CONCACAF Giants Cup]] (2001)
+* [[Copa Sudamericana]] (2005–2008)
+
+==Participating clubs==
+{{Main|List of football clubs in Mexico}}
+
+===2026–27 season===
+The [[2026–27 Liga MX season]] has the following 18 participating clubs.
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!Club
+!Position [[2025–26 Liga MX season#Torneo Clausura|Clausura 2026]]
+!First season
+!Current spell
+!Consecutive seasons
+!Total seasons
+!Titles
+!Last title
+|-
+|[[Club América|América]]||8th||colspan=2|1943–44||colspan=2|115||16||Ape–2024
+|-
+|[[Atlante F.C.|Atlante]]||—||1943–44||2026–27||—||89||3||Ape–2007
+|-
+|[[Atlas F.C.|Atlas]]||6th||1943–44||1979–80||78||112||3||Cla–2022
+|-
+|{{nowrap|[[Atlético San Luis]]}}||14th||colspan=2|2019–20||colspan=2|14||0||—
+|-
+|[[Cruz Azul]]||3rd||colspan=2|1964–65||colspan=2|94||10||Cla–2026
+|-
+|[[C.D. Guadalajara|Guadalajara]]||2nd||colspan=2|1943–44||colspan=2|115||12||Cla–2017
+|-
+|[[FC Juárez|Juárez]]||12th||colspan=2|2019–20||colspan=2|14||0||—
+|-
+|[[Club León|León]]||10th||1944–45||2012–13||28||91||8||{{nowrap|Guard–2020}}
+|-
+|[[C.F. Monterrey|Monterrey]]||13th||1945–46||1960–61||98||100||5||Ape–2019
+|-
+|[[Club Necaxa|Necaxa]]||15th||1951–52||2016–17||20||85||3||Inv–1998
+|-
+|[[C.F. Pachuca|Pachuca]]||4th||1967–68||1998–99||56||66||7||Ape–2022
+|-
+|[[Club Puebla|Puebla]]||17th||1944–45||2007–08||38||95||2||1989–90
+|-
+|[[Pumas UNAM]]||1st||colspan=2|1962–63||colspan=2|96||7||Cla–2011
+|-
+|[[Querétaro F.C.|Querétaro]]||11th||1990–91||2009–10||34||44||0||—
+|-
+|[[Santos Laguna]]||18th||colspan=2|1988–89||colspan=2|68||6||Cla–2018
+|-
+|[[Tigres UANL]]||7th||1974–75||1997–98||58||81||8||Cla–2023
+|-
+|[[Club Tijuana|Tijuana]]||9th||colspan=2|2011–12||colspan=2|30||1||Ape–2012
+|-
+|[[Toluca FC|Toluca]]||5th||colspan=2|1953–54||colspan=2|105||12||Ape–2025
+|}
+
+==Stadiums and locations==
+{{Location map+ |Mexico |width=400 |float=left|caption=Location of Liga MX clubs in the 2026–27 season.|places=
+{{Location map~ |Mexico |lat=22.13901  |long= -100.950993|label={{small|[[Atlético San Luis|Atl. San Luis]]}} |position=right|mark=Blue pog.svg}}
+{{Location map~ |Mexico |lat=20.666667 |long=-103.35|label={{small|[[Club Atlas|Atlas]]<br/>[[C.D. Guadalajara|Guadalajara]]}} |position=left|mark=Blue pog.svg}}
+{{Location map~ |Mexico |lat=31.7394   |long= -106.48694 |label={{small|[[FC Juárez|Juárez]]}} |position=bottom|mark=Blue pog.svg}}
+{{Location map~ |Mexico |lat=21.116667 |long=-101.683333 |label={{small|[[Club León|León]]}}
+|position=right|mark=Blue pog.svg}}
+{{Location map~ |Mexico |lat=19.433333 |long=-99.133333 |label={{small|Mexico City}} |position=right|mark=Black pog.svg}}
+{{Location map~ |Mexico |lat=25.666667 |long=-100.3 |label={{small|[[C.F. Monterrey|Monterrey]]<br/>[[Tigres UANL]]}} 
+|position=right|mark=Blue pog.svg}}
+{{Location map~ |Mexico |lat=21.876    |long= -102.296 |label={{small|[[Club Necaxa|Necaxa]]}} |position=top|mark=Blue pog.svg}}
+{{Location map~ |Mexico |lat=20.121667 |long= -98.735833 |label={{small|[[C.F. Pachuca|Pachuca]]}} |position=right|mark=Blue pog.svg}}
+{{Location map~ |Mexico |lat=19.051389 |long= -98.217778 |label={{small|[[Club Puebla|Puebla]]}} |position=bottom|mark=Blue pog.svg}}
+{{Location map~ |Mexico |lat=20.5875   |long=-100.392778 |label={{small|[[Querétaro F.C.|Querétaro]]}} |position=right|mark=Blue pog.svg}}
+{{Location map~ |Mexico |lat=25.53935  |long=-103.448633 |label={{small|{{nowrap|[[Santos Laguna]]}}}} |position=top|mark=Blue pog.svg}}
+{{Location map~ |Mexico |lat=32.525    |long=-117.033333 |label={{small|[[Club Tijuana|Tijuana]]}} |position=bottom|mark=Blue pog.svg}}
+{{Location map~ |Mexico |lat=19.2925   |long= -99.656944 |label={{small|[[Toluca FC|Toluca]]}} |position=left|mark=Blue pog.svg}}
+
+{{Location map~ |Mexico|mark=TransparentPlaceholder.png |marksize=1 |lat=22|long=-110|label=<div style="font-size:100%;">{{small|{{nowrap|'''Mexico City clubs'''}}<br/>[[Club América|América]] [[File:Blue pog.svg|8px]]<br/>[[Atlante F.C.|Atlante]] [[File:Blue pog.svg|8px]]<br/>[[Cruz Azul]] [[File:Blue pog.svg|8px]]<br/>[[Pumas UNAM]]}} [[File:Blue pog.svg|8px]]
+</div>|position=left}}
+}}
+{{Location map+ |Greater Mexico City |width=250
+|float=right|caption=Location of clubs in Mexico City.|places=
+{{Location map~ |Greater Mexico City |lat=19.3313 |long= -99.1925
+|label={{small|[[Pumas UNAM]]}} |position=top}}
+{{Location map~ |Greater Mexico City |lat=19.3029 |long= -99.1505
+|label={{small|[[Club América|América]]}}
+|position=left}}
+{{Location map~ |Greater Mexico City |lat=19.3029 |long=-99.1505
+|label={{small|[[Atlante F.C.|Atlante]]}}
+|position=right}}
+{{Location map~ |Greater Mexico City |lat=19.3029 |long=-99.1505
+|label={{small|[[Cruz Azul]]}}
+|position=bottom}}
+}}
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!Club
+!City
+!Stadium
+!Capacity
+|-
+|[[Club América|América]]
+|rowspan=2|[[Mexico City]]
+|rowspan=2|[[Estadio Azteca|Azteca]]
+|rowspan=2|87,523
+|-
+|[[Atlante F.C.|Atlante]]
+|-
+|[[Atlas F.C.|Atlas]]
+|[[Guadalajara]]
+|[[Estadio Jalisco|Jalisco]]
+|56,713<ref name="EstadioAzteca">{{cite web|url=http://www.atlasfc.com.mx/static/estadio_jalisco|title=Estadio Jalisco|work=atlasfc.com.mx|access-date=21 May 2016|archive-date=15 March 2019|archive-url=https://web.archive.org/web/20190315204724/http://www.atlasfc.com.mx/static/estadio_jalisco|url-status=dead}}</ref>
+|-
+|{{nowrap|[[Atlético San Luis]]}}
+|[[San Luis Potosí (city)|San Luis Potosí]]
+|[[Estadio Libertad Financiera|Libertad Financiera]]
+|25,111
+|-
+|[[Cruz Azul]]
+|[[Mexico City]]
+|[[Estadio Azteca|Azteca]]
+|87,523
+|-
+|[[C.D. Guadalajara|Guadalajara]]
+|[[Guadalajara metropolitan area]]
+|[[Estadio Akron|Akron]]
+|45,364<ref>{{cite web|url=http://ligamx.net/cancha/club/7|title=Liga MX – Página Oficial de la Liga del Fútbol Profesional en México .: Bienvenido|publisher=Liga MX / Ascenso MX|access-date=21 May 2016|archive-date=14 April 2019|archive-url=https://web.archive.org/web/20190414211032/http://ligamx.net/cancha/club/7|url-status=live}}</ref>
+|-
+|[[FC Juárez|Juárez]]
+|[[Ciudad Juárez|Juárez]]
+|[[Estadio Olímpico Benito Juárez|Olímpico Benito Juárez]]
+|19,703<ref>{{cite web|url=http://www.ligabancomer.mx/cancha/club/10725|title=Liga MX – Página Oficial de la Liga del Fútbol Profesional en México .: Bienvenido|publisher=Liga MX / Ascenso MX|access-date=11 June 2019|archive-date=11 April 2019|archive-url=https://web.archive.org/web/20190411025845/http://www.ligabancomer.mx/cancha/club/10725|url-status=live}}</ref>
+|-
+|[[Club León|León]]
+|[[León, Guanajuato|León]]
+|[[Estadio León|León]]
+|31,297<ref>{{cite web|url=http://ligamx.net/cancha/club/9|title=Liga MX – Página Oficial de la Liga del Fútbol Profesional en México .: Bienvenido|publisher=Liga MX / Ascenso MX|access-date=21 May 2016|archive-date=14 April 2019|archive-url=https://web.archive.org/web/20190414212730/http://ligamx.net/cancha/club/9|url-status=live}}</ref>
+|-
+|[[C.F. Monterrey|Monterrey]]
+|[[Monterrey metropolitan area]]
+|[[Estadio BBVA|BBVA]]
+|53,500<ref>{{cite web|url=http://www.estadiobbvabancomer.com/rayados/estadio_historia|title=Historia|work=estadiobbvabancomer.com|access-date=21 May 2016|archive-date=30 May 2019|archive-url=https://web.archive.org/web/20190530191039/http://www.estadiobbvabancomer.com/rayados/estadio_historia|url-status=live}}</ref>
+|-
+|[[Club Necaxa|Necaxa]]
+|[[Aguascalientes (city)|Aguascalientes]]
+|[[Estadio Victoria|Victoria]]
+|25,500<ref>{{cite web|url=http://clubnecaxa.mx/v2/estadiovictoria/|title=Estadio Victoria|author=Click It – clubnecaxa.mx|archive-url=https://web.archive.org/web/20160626100136/http://clubnecaxa.mx/v2/estadiovictoria/|archive-date=26 June 2016|url-status=dead}}</ref>
+|-
+|[[C.F. Pachuca|Pachuca]]
+|[[Pachuca]]
+|[[Estadio Hidalgo|Hidalgo]]
+|25,922<ref>{{cite web|url=https://ligamx.net|title=Estadio Hidalgo|website=ligamx.net}}</ref>
+|-
+|[[Club Puebla|Puebla]]
+|[[Puebla (city)|Puebla]]
+|[[Estadio Cuauhtémoc|Cuauhtémoc]]
+|51,726<ref name="Cuauhtemoc">{{cite web |title=Estadio Cuauhtémoc |url=https://www.stadiumguide.com/cuauhtemoc/ |website=The Stadium Guide |access-date=9 January 2026}}</ref>
+|-
+|[[Pumas UNAM]]
+|[[Mexico City]]
+|[[Estadio Olímpico Universitario|Olímpico Universitario]]
+|72,000<ref name="CU">{{cite web|url=http://pumas.mx/instalaciones/estadio-olimpico-universitario|title=Estadio Olímpico Universitario|work=pumas.mx|access-date=21 May 2016|url-status=dead|archive-url=https://web.archive.org/web/20160512000406/http://pumas.mx/instalaciones/estadio-olimpico-universitario|archive-date=12 May 2016}}</ref><ref name="CU2">{{cite web|url=http://ligamx.net/cancha/estadio/7|title=Liga MX – Página Oficial de la Liga del Fútbol Profesional en México .: Bienvenido|publisher=Liga MX / Ascenso MX|access-date=21 May 2016|archive-date=23 March 2019|archive-url=https://web.archive.org/web/20190323210114/http://ligamx.net/cancha/estadio/7|url-status=live}}</ref>
+|-
+|[[Querétaro F.C.|Querétaro]]
+|[[Querétaro (city)|Querétaro]]
+|[[Estadio Corregidora|Corregidora]]
+|33,162<ref>{{cite web|url=http://ligamx.net/cancha/estadio/25|title=Liga MX – Página Oficial de la Liga del Fútbol Profesional en México .: Bienvenido|publisher=Liga MX / Ascenso MX|access-date=21 May 2016|archive-date=24 March 2019|archive-url=https://web.archive.org/web/20190324044118/http://ligamx.net/cancha/estadio/25|url-status=live}}</ref>
+|-
+|[[Santos Laguna]]
+|[[Torreón]]
+|[[Estadio Corona|Corona]]
+|30,000<ref>{{cite web|url=http://www.clubsantos.mx/contenidos/tsm_estadio_corona|title=ESTADIO CORONA|work=clubsantos.mx|access-date=21 May 2016|archive-date=30 July 2018|archive-url=https://web.archive.org/web/20180730052237/http://www.clubsantos.mx/contenidos/tsm_estadio_corona|url-status=dead}}</ref>
+|-
+|[[Tigres UANL]]
+|[[Monterrey metropolitan area]]
+|[[Estadio Universitario (UANL)|Universitario]]
+|42,000<ref>{{cite web|url=http://www.tigres.com.mx/el-club/instalaciones/estadio-universitario/|title=Estadio Universitario|work=tigres.com.mx|access-date=21 May 2016|archive-date=16 June 2018|archive-url=https://web.archive.org/web/20180616002813/http://www.tigres.com.mx/el-club/instalaciones/estadio-universitario/|url-status=dead}}</ref>
+|-
+|[[Club Tijuana|Tijuana]]
+|[[Tijuana]]
+|[[Estadio Caliente|Caliente]]
+|27,333<ref>{{cite web |url= http://www.el-mexicano.com.mx/informacion/noticias/1/84/xolos/2015/01/28/820920/estrenara-caliente-capacidad-el-viernes |title= Estrenará "Caliente" capacidad el viernes |work= el-mexicano.com.mx |access-date= 29 November 2016 |archive-date= 16 June 2018 |archive-url= https://web.archive.org/web/20180616041730/http://www.el-mexicano.com.mx/informacion/noticias/1/84/xolos/2015/01/28/820920/estrenara-caliente-capacidad-el-viernes |url-status= live }}</ref>
+|-
+|[[Toluca FC|Toluca]]
+|[[Toluca]]
+|[[Nemesio Diez Stadium|Nemesio Diez]]
+|30,000<ref>{{cite web |url= http://ligamx.net/cancha/estadio/6 |title= Estrenará "Caliente" capacidad el viernes |publisher= Liga MX / Ascenso MX |access-date= 21 May 2016 |archive-date= 23 March 2019 |archive-url= https://web.archive.org/web/20190323154945/http://ligamx.net/cancha/estadio/6 |url-status= live }}</ref>
+|}
+{{clear}}
+
+==Performances==
+{{See also|List of Mexican football champions}}
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!Rank
+!Club
+!Titles
+!{{nowrap|Runners-up}}
+!Winning years 
+|-
+|1||'''[[Club América|América]]'''||16||11||[[1965–66 Mexican Primera División season|1965–66]], [[1970–71 Mexican Primera División season|1970–71]], [[1975–76 Mexican Primera División season|1975–76]], [[1983–84 Mexican Primera División season|1983–84]], [[1984–85 Mexican Primera División season|1984–85]], {{nowrap|[[1985–86 Mexican Primera División season#Torneo Prode 1985|Prode–1985]]}}, [[1987–88 Mexican Primera División season|1987–88]], [[1988–89 Mexican Primera División season|1988–89]], [[Primera División de México Verano 2002|Ver–2002]], [[Primera División de México Clausura 2005|Cla–2005]], [[2012–13 Liga MX season#Torneo Clausura|Cla–2013]], [[2014–15 Liga MX season#Torneo Apertura|Ape–2014]], [[2018–19 Liga MX season#Torneo Apertura|Ape–2018]], [[2023–24 Liga MX season#Torneo Apertura|Ape–2023]], [[2023–24 Liga MX season#Torneo Clausura|Cla–2024]], [[2024–25 Liga MX season#Torneo Apertura|Ape–2024]]
+|-
+|rowspan=2|2||'''[[C.D. Guadalajara|Guadalajara]]'''||12||10||[[1956–57 Mexican Primera División season|1956–57]], [[1958–59 Mexican Primera División season|1958–59]], [[1959–60 Mexican Primera División season|1959–60]], [[1960–61 Mexican Primera División season|1960–61]], [[1961–62 Mexican Primera División season|1961–62]], [[1963–64 Mexican Primera División season|1963–64]], [[1964–65 Mexican Primera División season|1964–65]], [[1969–70 Mexican Primera División season|1969–70]], [[1986–87 Mexican Primera División season|1986–87]], [[1996–97 Mexican Primera División season#Torneo Verano|Ver–1997]], [[Primera División de México Apertura 2006|Ape–2006]], [[2016–17 Liga MX season#Torneo Clausura|Cla–2017]]
+|-
+|'''[[Toluca FC|Toluca]]'''||12||8||[[1966–67 Mexican Primera División season|1966–66]], [[1967–68 Mexican Primera División season|1967–68]], [[1974–75 Mexican Primera División season|1974–75]], [[Primera División de México Verano 1998|Ver–1998]], [[Primera División de México Verano 1999|Ver–1999]], [[Primera División de México Verano 2000|Ver–2000]], [[Primera División de México Apertura 2002|Ape–2002]], [[Primera División de México Apertura 2005|Ape–2005]], [[Primera División de México Apertura 2008|Ape–2008]], [[2009–10 Mexican Primera División season#Torneo Bicentenario|Bic–2010]], [[2024–25 Liga MX season#Torneo Clausura|Cla–2025]], [[2025–26 Liga MX season#Torneo Apertura|Ape–2025]]
+|-
+|4||'''[[Cruz Azul]]'''||10||12||[[1968–69 Mexican Primera División season|1968–69]], [[1970 Mexican Primera División season|Mex–1970]], [[1971–72 Mexican Primera División season|1971–72]], [[1972–73 Mexican Primera División season|1972–73]], [[1973–74 Mexican Primera División season|1973–74]], [[1978–79 Mexican Primera División season|1978–79]], [[1979–80 Mexican Primera División season|1979–80]], [[1997–98 Mexican Primera División season#Torneo Invierno|Inv–1997]], {{nowrap|[[2020–21 Liga MX season#Torneo Guard1anes 2021|Guard–2021]]}}, [[2025–26 Liga MX season#Torneo Clausura|Cla–2026]]
+|-
+|rowspan=2|5||'''[[Club León|León]]'''||8||7||[[1947–48 Mexican Primera División season|1947–48]], [[1948–49 Mexican Primera División season|1948–49]], [[1951–52 Mexican Primera División season|1951–52]], [[1955–56 Mexican Primera División season|1955–55]], [[1991–92 Mexican Primera División season|1991–92]], [[2013–14 Liga MX season#Torneo Apertura|Ape–2013]], [[2013–14 Liga MX season#Torneo Clausura|Cla–2014]], [[2020–21 Liga MX season#Torneo Guard1anes 2020|Guard–2020]] 
+|-
+|'''[[Tigres UANL]]'''||8||7||[[1977–78 Mexican Primera División season|1977–78]], [[1981–82 Mexican Primera División season|1981–82]], [[2011–12 Mexican Primera División season#Torneo Apertura|Ape–2011]], [[2015–16 Liga MX season#Torneo Apertura|Ape–2015]], [[2016–17 Liga MX season#Torneo Apertura|Ape–2016]], [[2017–18 Liga MX season#Torneo Apertura|Ape–2017]], [[2018–19 Liga MX season#Torneo Clausura|Cla–2019]], [[2022–23 Liga MX season#Torneo Clausura|Cla–2023]]
+|-
+|rowspan=2|7||'''[[Pumas UNAM]]'''||7||9||[[1976–77 Mexican Primera División season|1976–77]], [[1980–81 Mexican Primera División season|1980–81]], [[1990–91 Mexican Primera División season|1990–91]], [[Primera División de México Clausura 2004|Cla–2004]], [[Primera División de México Apertura 2004|Ape–2004]], [[Primera División de México Clausura 2009|Cla–2009]], [[2010–11 Mexican Primera División season#Torneo Clausura|Cla–2011]]
+|-
+|'''[[C.F. Pachuca|Pachuca]]'''||7||4||[[Primera División de México Invierno 1999|Inv–1999]], [[Primera División de México Invierno 2001|Inv–2001]], [[Primera División de México Apertura 2003|Ape–2003]], [[Primera División de México Clausura 2006|Cla–2006]], [[Primera División de México Clausura 2007|Cla–2007]], [[2015–16 Liga MX season#Torneo Clausura|Cla–2016]], [[2022–23 Liga MX season#Torneo Apertura|Ape–2022]]
+|-
+|9||'''[[Santos Laguna]]'''||6||6||[[1996–97 Mexican Primera División season#Torneo Invierno|Inv–1996]], [[Primera División de México Verano 2001|Ver–2001]], [[Primera División de México Clausura 2008|Cla–2008]], [[2011–12 Mexican Primera División season#Torneo Clausura|Cla–2012]], [[2014–15 Liga MX season#Torneo Clausura|Cla–2015]], [[2017–18 Liga MX season#Torneo Clausura|Cla–2018]]
+|-
+|10||'''[[C.F. Monterrey|Monterrey]]'''||5||7||[[1985–86 Mexican Primera División season#Torneo México 1986|Mex–1986]], [[Primera División de México Clausura 2003|Cla–2003]], [[2009–10 Mexican Primera División season#Torneo Apertura|Ape–2009]], [[2010–11 Mexican Primera División season#Torneo Apertura|Ape–2010]], [[2019–20 Liga MX season#Torneo Apertura|Ape–2019]]
+|-
+|rowspan=3|11||'''[[Atlante F.C.|Atlante]]'''||3||4||[[1946–47 Mexican Primera División season|1946–47]], [[1992–93 Mexican Primera División season|1992–93]], [[Primera División de México Apertura 2007|Ape–2007]]
+|-
+|'''[[Atlas F.C.|Atlas]]'''||3||3||[[1950–51 Mexican Primera División season|1950–51]], [[2021–22 Liga MX season#Torneo Apertura|Ape–2021]], [[2021–22 Liga MX season#Torneo Clausura|Cla–2022]]
+|-
+|'''[[Club Necaxa|Necaxa]]'''||3||3||[[1994–95 Mexican Primera División season|1994–95]], [[1995–96 Mexican Primera División season|1995–96]], [[Primera División de México Invierno 1998|Inv–1998]]
+|-
+|rowspan=3|14||'''[[Club Puebla|Puebla]]'''||2||2||[[1982–83 Mexican Primera División season|1982–83]], [[1989–90 Mexican Primera División season|1989–90]]
+|-
+|'''[[Zacatepec F.C.|Zacatepec]]'''{{sup|2}}||2||1||[[1954–55 Mexican Primera División season|1954–55]], [[1957–58 Mexican Primera División season|1957–58]]
+|-
+|'''[[C.D. Veracruz|Veracruz]]'''{{sup|5}}||2||0||[[1945–46 Mexican Primera División season|1945–46]], [[1949–50 Mexican Primera División season|1949–50]]
+|-
+|rowspan=8|17||'''[[C.D. Oro|Oro]]'''{{sup|3}}||1||5||[[1962–63 Mexican Primera División season|1962–63]]
+|-
+|'''[[Atlético Morelia|Monarcas Morelia]]'''{{sup|1}}||1||3||[[Primera División de México Invierno 2000|Inv–2000]]
+|-
+|'''[[Real Club España]]'''{{sup|5}}||1||1||[[1944–45 Mexican Primera División season|1944–45]]
+|-
+|'''[[Tecos F.C.|Tecos UAG]]'''{{sup|4}}||1||1||[[1993–94 Mexican Primera División season|1993–94]]
+|-
+|'''[[Asturias F.C.|Asturias]]'''{{sup|5}}||1||0||[[1943–44 Mexican Primera División season|1943–44]]
+|-
+|'''Tampico'''{{sup|5}}||1||0||[[1952–53 Mexican Primera División season|1952–53]]
+|-
+|'''[[C.D. Marte|Marte]]'''{{sup|5}}||1||0||[[1953–54 Mexican Primera División season|1953–54]]
+|-
+|'''[[Club Tijuana|Tijuana]]'''||1||0||[[2012–13 Liga MX season#Torneo Apertura|Ape–2012]]
+|-
+|rowspan=7|25||{{nowrap|[[Leones Negros UdeG]]}}{{sup|1}}||0||3||—
+|-
+|[[Club Jaiba Brava|Tampico Madero]]{{sup|1}}||0||2||—
+|-
+|[[Atlético Español F.C.|Atlético Español]]{{sup|5}}||0||1||—
+|-
+|[[Atlético Celaya]]{{sup|2}}||0||1||—
+|-
+|[[Toros Neza]]{{sup|4}}||0||1||—
+|-
+|[[San Luis F.C.|San Luis]]{{sup|5}}||0||1||—
+|-
+|[[Querétaro F.C.|Querétaro]]||0||1||—
+|}
+;Notes
+# Currently in [[Liga de Expansión MX]].
+# Currently in [[Liga Premier de México|Liga Premier]].
+# Currently in [[Liga TDP]].
+# Currently on hiatus.
+# Defunct.
+
+==Media coverage==
+All Liga MX clubs have the right to sell their own [[Broadcasting of sports events|broadcast rights]]. [[Televisa]], [[TV Azteca]], [[Imagen Televisión]], Claro Sports, [[Fox Sports (Mexican TV network)|Fox Sports]], and [[ESPN 2 (Latin American TV channel)|ESPN]] have broadcasting rights in México, while [[ESPN Deportes]], [[Fox Deportes]],  [[Univision]], and [[Telemundo]] have the rights in the United States, with [[Fox Sports 1|FS1]]/[[Fox Sports 2|FS2]] airing select matches with English commentary.
+
+In previous years, when a club was relegated, the club that was promoted could only negotiate with the company holding the television rights of the relegated club. This agreement was canceled by Liga MX in 2012 when the promotion of [[Club León]] caused a television rights dispute with Televisa.<ref>{{cite web |url= http://www.businessofsoccer.com/2013/05/21/carlos-slim-and-multi-ownership-in-mexico |title= Carlos Slim And Multi-Ownership In Mexico |publisher= businessofsoccer.com |access-date= 10 November 2013 |archive-date= 10 November 2013 |archive-url= https://web.archive.org/web/20131110220749/http://www.businessofsoccer.com/2013/05/21/carlos-slim-and-multi-ownership-in-mexico/ |url-status= dead }}</ref> Currently, Club León matches are broadcast in Mexico by Fox Sports and other online media sites, and in the United States by Univision (Telemundo from 2013 to 2016).<ref>{{cite web|url=http://www.merca20.com/fox-sports-adquiere-los-derechos-de-transmision-del-club-mexicano-leon-f-c/|title=Fox Sports adquiere los derechos de transmisión del Club Mexicano León F.C.|work=Revista Merca2.0|date=7 September 2012|access-date=21 May 2016|archive-date=4 March 2016|archive-url=https://web.archive.org/web/20160304031216/http://www.merca20.com/fox-sports-adquiere-los-derechos-de-transmision-del-club-mexicano-leon-f-c/|url-status=live}}</ref>
+
+[[Telelatino]] and [[Fox Sports World (Canada)|Fox Sports World]] formerly hold broadcasting rights in Canada. From 2019–20 until 2021–22, [[OneSoccer]] broadcast the league for Canada viewers.<ref>{{cite web|title=Mediapro Canada extends LigaMX rights|url=https://mediaprocanada.tv/en/news/mediapro_canada_extends_media_rights_deal_for_Mexico%27s_Liga_MX_for_two_more_seasons|access-date=7 August 2020|website=[[Mediapro]]|archive-date=13 April 2021|archive-url=https://web.archive.org/web/20210413005251/https://mediaprocanada.tv/en/news/mediapro_canada_extends_media_rights_deal_for_Mexico%27s_Liga_MX_for_two_more_seasons|url-status=live}}</ref><ref>{{cite web|date=11 July 2019|title=OneSoccer To Stream LigaMX|url=https://northerntribune.ca/onesoccer-liga-mx-stream/|access-date=7 August 2020|website=Northern Tribune|language=en-US|archive-date=7 February 2023|archive-url=https://web.archive.org/web/20230207210913/https://northerntribune.ca/onesoccer-liga-mx-stream/|url-status=live}}</ref> [[Fox Sports en Latinoamérica|Fox Sports]] is the only network that holds rights to broadcast selected matches in United States and South America. Additionally, Televisa-owned networks [[SKY México|Sky Sports]] and [[Televisa Deportes Network|TUDN]] hold exclusive broadcasting rights over selected matches throughout the regular season, although the majority of the most important ones are broadcast live on the national networks. The coverage also available for Central America viewers.
+
+Most of the Saturday afternoon and evening matches broadcast by Televisa are shown primarily on [[XEQ-TDT|Gala TV]], though Saturday games played by Televisa's club America, are broadcast on Televisa's flagship network, [[Canal de las Estrellas]]. However, a [[Blackout (broadcasting)|blackout]] policy is usually applied in selected markets where affiliates are forced to air alternate programming during the matches, Sunday noon and afternoon games broadcast by Televisa are shown on [[Canal de las Estrellas]]. All of the games broadcast by TV Azteca on Saturday and Sunday are shown on [[Azteca 13]]; Friday's matches however are shown on [[Azteca 7]].  Tuesday, Wednesday and Thursday (known in Mexico as ''Fecha Doble'' or ''Double Date'') matches picked by the national networks are shown on [[XHGC-TDT|Canal 5]] and [[Azteca 7]] and the rest of the matches air on [[SKY México|Sky Sports]] and [[Televisa Deportes Network|TDN]].
+
+Since 2011, the final match of every season is played on Sunday during [[prime time]], regardless of whether the club used to play local games in another timeslot, in order to capture more television audience during the game. This also prevents most playoff collusion, where one or both clubs already in the ''Liguilla'' put in lesser effort to lose or draw, in order to draw a more favorable opponent.
+
+For the Apertura 2016, and the majority of the Clausura 2017, Guadalajara home matches in Mexico were not shown on over-the-air television or cable and satellite operators. Instead, they were exclusively shown on an [[Streaming media|internet streaming]] service known as ''Chivas TV''. As of 8 April 2017, the matches are shown on both Televisa's [[Televisa Deportes Network|Televisa Deportes Network (TDN)]] and ''Chivas TV''.
+
+On 13 February 2017, it was announced [[Univision Deportes]] would live stream 46 games in English on [[Facebook]] in the United States.<ref>{{cite web|url=https://www.espn.com/soccer/mexican-liga-mx/story/3059930/univision-to-air-46-liga-mx-games-this-year-live-on-facebook-in-english|title=Liga MX to air live on Facebook in English|date=13 February 2017|website=ESPN.com|access-date=10 October 2021|archive-date=10 October 2021|archive-url=https://web.archive.org/web/20211010164401/https://www.espn.com/soccer/mexican-liga-mx/story/3059930/univision-to-air-46-liga-mx-games-this-year-live-on-facebook-in-english|url-status=live}}</ref> After the Clausura 2017 season, [[Azteca América]] sold the rights of Atlas, Morelia, Tijuana, and Veracruz matches to Univision. The network then held the rights of 17 of 18 clubs, only missing recently promoted [[Lobos BUAP]]. In September 2017, Univision began airing Lobos BUAP's home matches, thus holding the rights to all 18 Liga MX teams through the end of the Clausura 2018 season.
+
+In July 2017, [[Televisión Nacional de Chile|Televisión Nacional de Chile (TVN)]] announced it would show Liga MX matches involving Chilean players in Chile.<ref>{{Cite web |url=http://www.aztecadeportes.com/notas/liga-bancomer-mx/2017-07-15-14-33/liga-mx-se-vera-por-television-abierta-chilena/ |title=Liga MX se verá por televisión abierta chilena |access-date=15 January 2018 |archive-date=15 January 2018 |archive-url=https://web.archive.org/web/20180115184434/http://www.aztecadeportes.com/notas/liga-bancomer-mx/2017-07-15-14-33/liga-mx-se-vera-por-television-abierta-chilena/ |url-status=dead }}</ref> In October 2017, [[Fox Sports (Latin America)|Fox Sports]] announced that it acquired the long-term exclusive Spanish-language rights to Tijuana and Santos Laguna home matches in the United States, Mexico, and the rest of Latin America starting in the Apertura 2018 and Apertura 2019 respectively, thus ending Univision's monopoly.<ref name="FOX">{{cite web|url=https://www.foxsports.com/presspass/latest-news/2017/10/24/fox-deportes-adds-liga-mx-soccer-lineup|title=FOX Deportes Adds Liga MX to Soccer Lineup|website=Foxsports.com|date=24 October 2017|access-date=10 October 2021|archive-date=10 October 2021|archive-url=https://web.archive.org/web/20211010164402/https://www.foxsports.com/presspass/latest-news/2017/10/24/fox-deportes-adds-liga-mx-soccer-lineup|url-status=live}}</ref> The matches air on [[Fox Sports (Mexico)|Fox Sports]] in the United States (via [[Fox Deportes]]) and the rest of [[Fox Sports (Latin American TV network)|Latin America]] (including Mexico and excluding Brazil).<ref name="FOX"/>
+
+On 26 May 2018, Fox Sports announced it acquired the rights of [[C.F. Monterrey]]'s home matches in the United States and Latin America.<ref name="FOX2">{{Cite web |url=https://www.foxsports.com.mx/news/360020-fox-sports-latin-america-adquiere-derechos-globales-exclusivos-de-transmision-multiplataforma-de-club-rayados-de-monterrey |title=FOX Sports Latin America adquiere derechos de Rayados de Monterrey |access-date=27 May 2018 |archive-date=27 May 2018 |archive-url=https://web.archive.org/web/20180527201706/https://www.foxsports.com.mx/news/360020-fox-sports-latin-america-adquiere-derechos-globales-exclusivos-de-transmision-multiplataforma-de-club-rayados-de-monterrey |url-status=dead }}</ref> The network announced the matches would be shown in the United States on Fox Deportes in Spanish as well as the [[Fox Sports (United States)|Fox Sports]] family of networks in English.<ref name="FOX2"/>
+
+As of the Apertura 2019 season, via a sublicense agreement with Univision, [[ESPN Deportes]] airs the majority of León, Necaxa, Pachuca, Querétaro, and Tigres regular season home matches in the United States. The network also airs at least one home match of nine other clubs.<ref>{{cite web|title=Liga MX Returns to ESPN Deportes TV|author=Gabriela Nuñez|url=https://espnpressroom.com/us/press-releases/2016/10/liga-mx-returns-espn-deportes-tv/|website=espnpressroom.com|date=20 October 2016|access-date=1 August 2019|archive-date=1 August 2019|archive-url=https://web.archive.org/web/20190801054935/https://espnpressroom.com/us/press-releases/2016/10/liga-mx-returns-espn-deportes-tv/|url-status=live}}</ref> [[Televisa]] also sublicenses one match per week to [[ESPN (Latin America)|ESPN]] in Mexico and Central America.<ref>{{cite tweet |last=Sutcliffe |first=John |user=espnsutcliffe |number=1155644279852683264 |date=28 July 2019 |title=@SergioChecko @PumasMX @ClubNecaxa @Televisa nos está dando un ju3go x semana |language=es |access-date=31 December 2020}}</ref>
+
+In Brazil, [[DAZN]] broadcast the league for two seasons 2019–20 and 2020–21.<ref>{{cite web|date=3 October 2019|title=DAZN FECHA ACORDO E TRANSMITIRÁ A LIGA MEXICANA DE FUTEBOL|url=https://media.dazn.com/pt/press-releases-br/2019/10/dazn-fecha-acordo-e-transmitira-a-liga-mexicana-de-futebol/|access-date=7 August 2020|website=DAZN Media Centre|language=pt-BR|archive-date=30 November 2020|archive-url=https://web.archive.org/web/20201130181124/https://media.dazn.com/pt/press-releases-br/2019/10/dazn-fecha-acordo-e-transmitira-a-liga-mexicana-de-futebol/|url-status=live}}</ref> On 15 July 2021, [[OneFootball]] announced it would broadcast between two and five live matches as part of a deal covering the 2021/22 Liga MX season in selected international markets.<ref>{{cite web|title=Liga MX gets OneFootball global streaming deal|url=https://www.sportspromedia.com/news/liga-mx-onefootball-global-streaming-deal-mediapro-mexico/|website=sportspro.com|date=15 July 2021|access-date=19 January 2022|archive-date=17 July 2021|archive-url=https://web.archive.org/web/20210717151915/https://www.sportspromedia.com/news/liga-mx-onefootball-global-streaming-deal-mediapro-mexico|url-status=live}}</ref> On 16 August 2021, [[Eleven Sports]] announced it would broadcast the home Liga MX matches of [[C.D. Guadalajara]] for the 2021–22 season in more than 100 countries.<ref>{{cite web|title=Eleven secures multi-territory streaming rights to Chivas matches|author=Martin Ross|url=https://www.sportbusiness.com/news/eleven-secures-multi-territory-streaming-rights-to-chivas-matches/|website=Sportbusiness.com|date=16 August 2021|access-date=16 August 2021|archive-date=16 August 2021|archive-url=https://web.archive.org/web/20210816202830/https://www.sportbusiness.com/news/eleven-secures-multi-territory-streaming-rights-to-chivas-matches/|url-status=live}}</ref>
+
+===Broadcast rights===
+{| class="wikitable sortable" style="text-align:center
+|-
+!rowspan=2|Club
+!colspan=2|Television
+!colspan=2|Streaming
+|-
+!Mexico<ref>{{cite web|url=https://s3.amazonaws.com/lmxwebsite/docs/calendarios/1_LIGA_MX/154_LIGA_MX_1_20200310102609.pdf|title=CALENDARIO DE PARTIDOS|website=S3.amazonaws.com|access-date=20 February 2022|archive-date=16 December 2020|archive-url=https://web.archive.org/web/20201216060822/https://s3.amazonaws.com/lmxwebsite/docs/calendarios/1_LIGA_MX/154_LIGA_MX_1_20200310102609.pdf|url-status=live}}</ref>
+!United States<br /><ref>{{cite web|url=https://corporate.univision.com/blog/2021/07/21/univisions-tudn-announces-unparalleled-multi-platform-coverage-for-liga-mxs-2021-apertura/|title=Univision's TUDN Announces Unparalleled Multi-Platform Coverage for Liga MX's 2021 Apertura|website=Corporate.uinivision.com|date=21 July 2021|access-date=1 August 2021|archive-date=1 August 2021|archive-url=https://web.archive.org/web/20210801060116/https://corporate.univision.com/blog/2021/07/21/univisions-tudn-announces-unparalleled-multi-platform-coverage-for-liga-mxs-2021-apertura/|url-status=live}}</ref><ref>{{cite web|url=https://espndeportes.espn.com/futbol/mexico/nota/_/id/8984265/como-ver-monterrey-pumas-liga-mx-espn+|title=Cómo ver la Liga MX en ESPN+ a partir de este sábado|date=30 July 2021|website=ESPNdeportes.com|access-date=1 August 2021|archive-date=1 August 2021|archive-url=https://web.archive.org/web/20210801060115/https://espndeportes.espn.com/futbol/mexico/nota/_/id/8984265/como-ver-monterrey-pumas-liga-mx-espn+|url-status=live}}</ref><ref>{{cite web|url=https://soccer.nbcsports.com/2021/10/02/chivas-vs-atlas-how-to-watch-live-stream-start-time-tv-channel/|title=Chivas vs Atlas: How to watch live, stream link, TV channel|website=Soccer.nbcsports.com|date=2 October 2021|access-date=10 October 2021|archive-date=10 October 2021|archive-url=https://web.archive.org/web/20211010164402/https://soccer.nbcsports.com/2021/10/02/chivas-vs-atlas-how-to-watch-live-stream-start-time-tv-channel/|url-status=live}}</ref><ref>{{cite web|url=https://www.foxsports.com/presspass/latest-news/2021/07/23/monterrey-puebla-tijuana-tigres-open-torneo-apertura-fox-deportes-sunday|title=Monterrey-Puebla and Tijuana-Tigres Open Torneo Apertura on FOX Deportes on Sunday|website=Foxsports.com|date=23 July 2021|access-date=1 August 2021|archive-date=1 August 2021|archive-url=https://web.archive.org/web/20210801060115/https://www.foxsports.com/presspass/latest-news/2021/07/23/monterrey-puebla-tijuana-tigres-open-torneo-apertura-fox-deportes-sunday|url-status=live}}</ref><ref>{{cite web|url=https://www.paramountpressexpress.com/cbs-sports/shows/soccer/releases/?view=111688-cbs-sports-and-televisaunivision-announce-english-language-liga-mx-matches-to-air-across-cbs-sports-platforms|title=CBS Sports and TelevisaUnivision Announce English-Language Liga MX Matches to Air Across CBS Sports Platforms|website=CBS Sports|date=15 August 2025|access-date=15 August 2025}}</ref><ref>{{cite web|url=https://www.foxdeportes.com/liga-mx/nota/fox-deportes-presenta-su-calendario-para-el-torneo-apertura-2025|title=FOX Deportes presenta su calendario para el Torneo Apertura 2025|website=Fox Deportes|access-date=15 August 2025}}</ref><ref>{{Cite web|url=https://www.telemundo.com/deportes/futbol-estelar-liga-mx/atletico-san-luis-debuta-frente-a-tigres-en-vivo-j-rcna253317|title=Atlético San Luis vs. Tigres UANL se transmitirá por Telemundo Deportes Ahora|date=10 January 2026|website=Telemundo.com|access-date=7 June 2026}}</ref>
+!Mexico
+!{{nowrap|United States}}
+|-
+|América||rowspan=2|[[Televisa]]||rowspan=5|[[TelevisaUnivision|Univision]]||colspan=4 rowspan=2|[[Vix (streaming service)|Vix]]
+|-
+|Atlas
+|-
+|Atlante||TV Azteca<br/>[[ESPN (Latin America)|ESPN]]||[[Disney+]]||Vix
+|-
+|{{nowrap|Atlético San Luis}}||ESPN||Disney+<br/>Vix||Vix
+|-
+|Cruz Azul||Televisa||colspan=4 rowspan=1|Vix
+|-
+|Guadalajara||None{{efn|Guadalajara home matches in Mexico are not shown on over-the-air television or cable and satellite operators, instead they exclusively are shown on an [[Streaming media|internet streaming]] service named Chivas TV. The service is also available on [[Amazon Prime Video|Prime Video]].}}||[[Fox Sports (United States)|Fox Sports]]{{efn|Matches only air on tape delay.}}<br/>[[NBCUniversal Media Group#NBCUniversal Telemundo Enterprises|NBCUniversal]]{{efn|name=NBC|Matches air on the NBCUniversal family of networks ([[Telemundo]] and [[Universo (TV channel)|Universo]]).}}||Chivas TV<br/>[[Amazon Prime Video|Prime Video]]||[[Peacock (streaming service)|Peacock]]
+|-
+|Juárez||[[Fox (Mexico)|Fox]]<br/>[[TV Azteca]]||rowspan=1|[[Estrella TV]]<br/>Fox Sports{{efn|name=FOX|Matches are shown on [[Fox Deportes]] in Spanish as well as the [[Fox Sports]] family networks ([[Fox Sports 1|FS1]], [[Fox Sports 2|FS2]] and [[Fox Soccer Plus]].)}}<br/>NBCUniversal{{efn|name=NBC}}||[[Fox One]]<br/>[[Tubi]]||Estrella TV{{efn|name=EST|Estrella TV is available for streaming through various platforms, including [[Pluto TV]], [[The Roku Channel]], [[Tubi]] and the network's app.}}<br/>[[Fox One]]
+|-
+|León||Fox||rowspan=2|Univision||Fox One<br/>Tubi||Vix
+|-
+|Monterrey||Televisa||Vix
+|-
+|Necaxa||Fox||rowspan=1|Fox Sports||colspan=2|Fox One
+|-
+|Pachuca||Fox||rowspan=5|Univision||Fox One<br/>Tubi||Vix
+|-
+|Puebla||TV Azteca <br/> ESPN||TV Azteca Digital<br />Disney+||Vix
+|-
+|Pumas UNAM||Televisa||colspan=2|Vix
+|-
+|Querétaro||Fox||Fox One<br/>Tubi||Vix
+|-
+|Santos Laguna||ESPN<br/>Televisa||Disney+<br/>Vix||Vix
+|-
+|Tigres UANL||Fox<br/>TV Azteca||Estrella TV <br/>Fox Sports {{efn|name=FOX}}<br />NBCUniversal{{efn|name=NBC}}||Fox One<br/>Tubi||Estrella TV{{efn|name=EST}}<br/>Fox One
+|-
+|Tijuana||Fox||rowspan=2|Univision||Fox One<br/>Tubi||Vix
+|-
+|Toluca||Televisa<br/>TV Azteca<br/>Fox||Fox One<br />Tubi<br/>Vix||Vix
+|}
+
+==Sponsorship==
+[[File:BBVA 2019.svg|thumb|Since 2012, sponsor of the league.]]
+
+[[BBVA México]] has been the official main sponsor of the league since its rebranding in 2012, hence it is officially known as Liga BBVA MX. In July 2013, the league president Decio De María stated that the money generated from the sponsorship would be divided among the 18 clubs and to be invested in each club's youth teams.<ref>{{cite web |title=La Liga MX consiguió patrocinador |url=http://www.foxsports.com.mx/news/110612-la-liga-mx-consiguio-patrocinador |work=Fox Deportes |language=es |access-date=15 July 2013 |archive-date=9 December 2018 |archive-url=https://web.archive.org/web/20181209165221/https://www.foxsports.com.mx/news/110612-la-liga-mx-consiguio-patrocinador |url-status=live }}</ref><ref>{{cite web |title=Bancomer renueva patrocinio con la Liga MX |url=http://www.noticiasmvs.com/#!/noticias/bancomer-renueva-patrocinio-con-la-liga-mx-514 |publisher=Noticias MVS |language=es |access-date=18 September 2015 |archive-url=https://archive.today/20170410012211/http://www.noticiasmvs.com/%23!/noticias/confirma-pf-captura-en-jalisco-de-antonio-oseguera-hermano-de-el-mencho-397#!/noticias/bancomer-renueva-patrocinio-con-la-liga-mx-514 |archive-date=10 April 2017 |url-status=dead }}</ref><ref>{{cite web |title=Liga MX hace oficial su cambio de nombre y logo |url=https://www.mediotiempo.com/futbol/liga-mx/liga-bbva-mx-oficial-nombre-logo |website=Mediotiempo |access-date=23 June 2019 |language=es |date=18 June 2019 |archive-date=21 June 2019 |archive-url=https://web.archive.org/web/20190621213501/https://www.mediotiempo.com/futbol/liga-mx/liga-bbva-mx-oficial-nombre-logo |url-status=live }}</ref><ref>{{cite web |last1=Collazo |first1=Jonathan |title=Liga MX y BBVA firman por 3 años más e integran a la Liga Femenil |url=https://www.mediotiempo.com/futbol/liga-mx/liga-mx-bbva-firman-3-anos-integran-liga-femenil |website=Mediotiempo |access-date=5 July 2019 |language=es |date=4 July 2019 |archive-date=5 July 2019 |archive-url=https://web.archive.org/web/20190705005038/https://www.mediotiempo.com/futbol/liga-mx/liga-mx-bbva-firman-3-anos-integran-liga-femenil |url-status=live }}</ref> Since 1986, the official ball of the league is manufactured by [[Voit]].<ref>{{cite web|title=Renueva Voit patrocinio con Liga MX |url=http://www.radioformula.com.mx/notas.asp?Idn=381632 |work=Radio Fórmula |publisher=Grupo Fórmula |access-date=6 January 2014 |url-status=dead |archive-url=https://web.archive.org/web/20160818164229/http://www.radioformula.com.mx/notas.asp?Idn=381632 |archive-date=18 August 2016 }}</ref>
+
+==Managers==
+Current managers of Liga MX clubs:
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!Manager
+!Club
+!Appointed
+!Time as manager
+|-
+|align=left|{{flagicon|ARG}} {{sortname|Antonio|Mohamed}}||[[Toluca FC|Toluca]]||{{dts|format=dmy|2024|12|11}}||{{ayd|2024|12|11}}
+|-
+|align=left|{{flagicon|URU}} {{sortname|Sebastián|Abreu}}||[[Club Tijuana|Tijuana]]||{{dts|format=dmy|2025|04|30}}||{{ayd|2025|04|30}}
+|-
+|align=left|{{flagicon|ARG}} [[Gabriel Milito]]||[[C.D. Guadalajara|Guadalajara]]||{{dts|format=dmy|2025|05|26}}||{{ayd|2025|05|26}}
+|-
+|align=left|{{flagicon|CHI}} {{sortname|Esteban|González|Esteban González (Chilean footballer)}}||[[Querétaro F.C.|Querétaro]]||{{dts|format=dmy|2025|12|06}}||{{ayd|2025|12|06}}
+|-
+|align=left|{{flagicon|ARG}} {{sortname|Javier|Gandolfi}} ||[[Club León|León]]||{{dts|format=dmy|2026|03|20}}||{{ayd|2026|03|20}}
+|-
+|align=left|{{flagicon|MEX}} {{sortname|Joel|Huiqui}} ||[[Cruz Azul]]||{{dts|format=dmy|2026|04|22}}||{{ayd|2026|04|22}}
+|-
+|align=left|{{flagicon|MEX}} {{sortname|Miguel|Herrera}}|| [[Atlante F.C.|Atlante]]|| {{dts|format=dmy|2026|04|28}}|| {{ayd|2026|04|28}}
+|-
+|align=left|{{flagicon|MEX}} {{sortname|Gerardo|Espinoza}} ||[[Club Puebla|Puebla]]|| {{dts|format=dmy|2026|05|19}}||{{ayd|2026|05|19}}
+|-
+|align=left|{{flagicon|POR}} {{sortname|Renato|Paiva}} ||[[Santos Laguna]]|| {{dts|format=dmy|2026|05|19}}||{{ayd|2026|05|19}}
+|-
+|align=left|{{flagicon|ARG}} {{sortname|Matías|Almeyda}}||[[C.F. Monterrey|Monterrey]]|| {{dts|format=dmy|2026|05|21}}||{{ayd|2026|05|21}}
+|-
+|align=left|{{flagicon|MEX}} {{sortname|Diego|Mejía| Diego Mejía (footballer, born 1983)}}||{{nowrap|[[Atlético San Luis]]}}||{{dts|format=dmy|2026|05|31}}||{{ayd|2026|05|31}}
+|-
+|align=left|{{flagicon|URU}} {{sortname|Guillermo|Almada}}||[[Club América|América]]||{{dts|format=dmy|2026|06|07}}||{{ayd|2026|06|07}}
+|-
+|align=left|{{flagicon|MEX}} {{sortname|Benjamín|Mora}}||[[C.F. Pachuca|Pachuca]]||{{dts|format=dmy|2026|06|10}}||{{ayd|2026|06|10}}
+|-
+|align=left|{{flagicon|ARG}} {{sortname|Esteban|Solari}}||[[Pumas UNAM]]||{{dts|format=dmy|2026|06|21}}||{{ayd|2026|06|21}}
+|-
+|align=left|{{flagicon|ARG}} {{sortname|Hernán|Crespo}} ||[[Atlas F.C.|Atlas]]||{{dts|format=dmy|2026|07|16}}||{{ayd|2026|07|16}}
+|-
+|align=left|{{flagicon|MEX}} {{sortname|Víctor Manuel|Vucetich}} (interim)||[[Tigres UANL]]||{{dts|format=dmy|2026|08|20}}||{{ayd|2026|08|20}}
+|-
+|align=left|{{flagicon|ARG}} {{sortname|Gustavo|Lema}} ||[[FC Juárez|Juárez]]||{{dts|format=dmy|2026|09|02}}||{{ayd|2026|09|02}}
+|-
+|align=left|{{flagicon|PER}} {{sortname|Juan|Reynoso|Juan Reynoso (footballer)}}||[[Club Necaxa|Necaxa]]||{{dts|format=dmy|2026|09|14}}||{{ayd|2026|09|14}}
+|}
+
+==Player records==
+===Top appearances===
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank
+!Player
+!Years
+!Apps
+|-
+|1||{{flagicon|MEX}}<br>[[Óscar Pérez (footballer, born 1973)|Óscar Pérez]]||{{nowrap|1993–2019}}||741
+|-
+|2||{{flagicon|MEX}}<br>[[Oswaldo Sánchez]]||1993–2014||725
+|-
+|3||{{flagicon|MEX}}<br>[[Benjamín Galindo]]||1979–2001||700
+|-
+|4||{{flagicon|MEX}}<br>[[Juan Pablo Rodríguez]]||1997–2018||685
+|-
+|5||{{flagicon|MEX}}<br>[[José de Jesús Corona|Jesús Corona]]||2002–2025||682
+|-
+|6||{{flagicon|CHI}}<br>[[Rodrigo Ruiz]]||1994–2013||638
+|-
+|7||{{flagicon|MEX}}<br>[[Adolfo Ríos]]||1985–2004||635
+|-
+|8||{{flagicon|MEX}}<br>[[Miguel España]]||1983–2003||631
+|-
+|9||{{flagicon|MEX}}<br>[[Julio César Domínguez]]||2006–2026||629
+|-
+|10||{{flagicon|MEX}}<br>[[Alfonso Sosa]]||1985–2004||610
+|}
+
+===Top goalscorers===
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank
+!Player
+!Years
+!Goals
+!Apps
+!Ratio
+|-
+|1||{{flagicon|BRA}}<br>[[Evanivaldo Castro]]||{{nowrap|1974–1987}}||312||427||{{#expr:312/429round2}}
+|-
+|2||{{flagicon|MEX}}<br>[[Carlos Hermosillo]]||1984–2001||294||534||{{#expr:294/539round2}}
+|-
+|3||{{flagicon|MEX}}<br>[[Jared Borgetti]]||1994–2010||252||475||{{#expr:298/475round2}}
+|-
+|4||{{flagicon|PAR}}<br>[[José Saturnino Cardozo]]||1994–2005||249||332||{{#expr:249/332round2}}
+|-
+|5||{{flagicon|MEX}}<br>[[Horacio Casarín]]||1936–1957||238||326||{{#expr:238/326round2}}
+|-
+|6||{{flagicon|CHI}}<br>[[Osvaldo Castro]]||1971–1984||214||398||{{#expr:214/398round2}}
+|-
+|7||{{flagicon|MEX}}<br>[[Luís Roberto Alves]]||1986–2003||209||577||{{#expr:209/577round2}}
+|-
+|8||{{flagicon|MEX}}<br>[[Adalberto López]]||1942–1955||201||231||{{#expr:201/231round2}}
+|-
+|9||{{flagicon|BRA}}<br>[[Carlos Eloir Perucci]]||1972–1984||199||398||{{#expr:199/398round2}}
+|-
+|10||{{flagicon|FRA}}<br>[[André-Pierre Gignac]]||2015–2026||193||373||{{#expr:193/373round2}}
+|}
+
+==Promotion and relegation==
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!Club
+!Promoted
+!Relegated
+|-
+|[[Zacatepec F.C.|Zacatepec]]||'''5'''<br/>(1950–51, 1962–63, 1969–70, 1977–78, 1983–84)||'''5'''<br/>(1961–62, 1965–66, 1976–77, 1982–83, 1984–85)
+|-
+|[[C.F. Pachuca|Pachuca]]||'''4'''<br/>(1966–67, 1991–92, 1995–96, 1997–98)||'''3'''<br/>(1972–73, 1992–93, 1996–97)
+|-
+|[[C.D. Irapuato|Irapuato]]||'''4'''<br/>(1953–54, 1984–85, 1999–00, 2002–03)||'''2'''<br/>(1971–72, 1990–91)
+|-
+|[[San Luis F.C.|San Luis]]||'''4'''<br/>(1970–71, 1975–76, 2001–02, 2004–05)||'''2'''<br/>(1973–74, 2003–04)
+|-
+|[[Atlas F.C.|Atlas]]||'''3'''<br/>(1954–55, 1971–72, 1978–79)||'''3'''<br/>(1953–54, 1970–71, 1977–78)
+|-
+|[[Unión de Curtidores]]||'''3'''<br/>(1974–75, 1982–83, 1998–99{{efn|name=UDC|Puebla bought the franchise of Unión de Curtidores to remain in the league.}})||'''2'''<br/>(1980–81, 1983–84)
+|-
+|[[C.F. La Piedad|La Piedad]]||'''3'''<br/>(1951–52, 2000–01, 2012–13{{efn|Veracruz bought the franchise of La Piedad, taking its spot in the league.}})||'''1'''<br/>(1952–53)
+|-
+|[[C.D. Veracruz|Veracruz]]||'''2'''<br/>(1963–64, 2001–02)||'''5'''<br/>(1951–52, 1978–79, 1997–98, 2007–08, 2018–19{{efn|name=LMX|Veracruz remained in the league by paying a fine of 120 million pesos.}})
+|-
+|[[Atlante F.C.|Atlante]]||'''2'''<br/>(1976–77, 1990–91)||'''3'''<br/>(1975–76, 1989–90, 2013–14)
+|-
+|[[Querétaro F.C.|Querétaro]]||'''2'''<br/>(2005–06, 2008–09)||'''3'''<br/>(1993–94, 2006–07, 2012–13{{efn|Querétaro remained in the league by acquiring the franchise of Jaguares de Chiapas.}})
+|-
+|Deportivo Zamora||'''2'''<br/>(1954–55, 1956–57)||'''2'''<br/>(1955–56, 1959–60)
+|-
+|[[Petroleros de Ciudad Madero|Ciudad Madero/<br>Refinería Madero]]||'''2'''<br/>(1964–65, 1972–73)||'''2'''<br/>(1966–67, 1974–75)
+|-
+|[[C.F. Cobras de Querétaro|Cobras de Juárez/<br>Cobras de Querétaro]]||'''2'''<br/>(1985–86, 1987–88)||'''2'''<br/>(1986–87, 1991–92)
+|-
+|[[Club León|León]]||'''2'''<br/>(1989–90, 2011–12)||'''2'''<br/>(1986–87, 2001–02)
+|-
+|[[Dorados de Sinaloa]]||'''2'''<br/>(2003–04, 2014–15)||'''2'''<br/>(2005–06, 2015–16)
+|-
+|[[Club Necaxa|Necaxa]]||'''2'''<br/>(2009–10, 2015–16)||'''2'''<br/>(2008–09, 2010–11)
+|-
+|[[C.F. Monterrey|Monterrey]]||'''2'''<br/>(1955–56,1959–60)||'''1'''<br/>(1956–57)
+|-
+|[[Atlético Morelia|Morelia/<br>Atlético Morelia]]||'''2'''<br/>(1956–57, 1980–81)||'''1'''<br/>(1967–68)
+|-
+|[[Celaya F.C.|Celaya]]/<br>[[Atlético Celaya]]||'''2'''<br/>(1957–58, 1994–95)||'''1'''<br/>(1960–61)
+|-
+|[[Tigres UANL]]||'''2'''<br/>(1973–74, 1996–97)||'''1'''<br/>(1995–96)
+|-
+|Tampico||'''1'''<br/>(1958–59)||'''3'''<br/>(1957–58, 1962–63, 1981–82)
+|-
+|[[Correcaminos UAT]]||'''1'''<br/>(1986–87)||'''2'''<br/>(1987–88, 1994–95)
+|-
+|[[Club Puebla|Puebla]]||'''1'''<br/>(2006–07)||'''2'''<br/>(1998–99{{efn|name=UDC}}, 2004–05)
+|-
+|[[C.D. Cuautla|Cuautla]]||'''1'''<br/>(1954–55)||'''1'''<br />(1958–59)
+|-
+|[[Club Deportivo Nacional|Nacional]]||'''1'''<br/>(1960–61)||'''1'''<br/>(1964–65)
+|-
+|[[C.F. Jabatos de Nuevo León|Jabatos de Nuevo León]]||'''1'''<br/>(1965–66)||'''1'''<br/>(1968–69)
+|-
+|[[Atlético Potosino]]||'''1'''<br/>(1973–74)||'''1'''<br/>(1988–89)
+|-
+|[[Tecos F.C.|Tecos UAG/<br>Estudiantes Tecos]]||'''1'''<br/>(1974–75)||'''1'''<br/>(2011–12)
+|-
+|[[Toros Neza|Toros UTN/<br>Toros Neza]]||'''1'''<br/>(1992–93)||'''1'''<br/>(1999–00)
+|-
+|[[Club Jaiba Brava|Tampico Madero/<br>TM Gallos Blancos]]||'''1'''<br/>(1993–94)||'''1'''<br/>(1994–95)
+|-
+|[[Indios de Ciudad Juárez]]||'''1'''<br/>(2007–08)||'''1'''<br/>(2009–10)
+|-
+|[[Leones Negros UdeG]]||'''1'''<br/>(2013–14)||'''1'''<br/>(2014–15)
+|-
+|[[Lobos BUAP]]||'''1'''<br/>(2016–17)||'''1'''<br/>(2017–18{{efn|name=LMX}})
+|-
+|[[Toluca FC|Toluca]]||'''1'''<br/>(1952–53)||—
+|-
+|[[Pumas UNAM]]||'''1'''<br/>(1961–62)||—
+|-
+|[[Cruz Azul]]||'''1'''<br/>(1963–64)||—
+|-
+|[[San Isidro Laguna|Laguna]]||'''1'''<br/>(1967–68)||—
+|-
+|[[C.F. Torreón|Torreón]]||'''1'''<br/>(1968–69)||—
+|-
+|[[Atletas Campesinos]]||'''1'''<br/>(1979–80)||—
+|-
+|[[C.F. Oaxtepec|Oaxtepec-IMSS]]||'''1'''<br/>(1981–82)||—
+|-
+|[[Potros Neza]]||'''1'''<br/>(1988–89{{efn|Veracruz bought the franchise of Potros Neza, taking its spot in the league.}})||—
+|-
+|[[Club Tijuana|Tijuana]]||'''1'''<br/>(2010–11)||—
+|-
+|[[Atlético San Luis]]||'''1'''<br/>(2018–19)||—
+|-
+|{{nowrap|[[Cafetaleros de Chiapas|Cafetaleros de Tapachula]]}}||'''1'''<br/>(2017–18{{efn|Cafetaleros did not obtain certification for promotion.}})||—
+|-
+|[[C.F. San Sebastián de León|San Sebastián de León]]||—||'''1'''<br/>(1950–51)
+|-
+|[[C.D. Marte|Marte]]||—||'''1'''<br/>(1954–55)
+|-
+|[[Club Jalisco|Jalisco]]||—||'''1'''<br/>(1979–80)
+|-
+|[[Colibríes de Morelos]]||—||'''1'''<br/>(2002–03)
+|-
+|[[Jaguares F.C.|Jaguares de Chiapas]]||—||'''1'''<br/>(2016–17)
+|}
+
+==See also==
+{{Portal|Association football|Mexico|Sports}}
+* [[Sport in Mexico]]
+* [[Football in Mexico]]
+* [[Mexican football league system]]
+* [[Mexican Football Federation]]
+* [[Liga de Expansión MX]]
+* [[Liga Premier de México|Liga Premier]]
+* [[Liga TDP]]
+* [[Ascenso MX]]
+* [[Copa MX]]
+* [[Campeón de Campeones]]
+* [[Supercopa MX]]
+* [[Primera Fuerza]]
+* [[Liga Femenil]]
+* [[List of foreign Liga MX players]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Commons category-inline}}
+* {{Official website|http://www.ligamx.net/}} {{in lang|es}}
+** [https://ligamx.net/cancha/tablas/tablaGeneralClasificacion/sp/544f5bc44c6944 Liga MX standings]
+
+{{Mexican Primera División}}
+{{Football in Mexico}}
+{{CONCACAF Leagues}}
+
+[[Category:Liga MX| ]]
+[[Category:Football leagues in Mexico|1]]
+[[Category:Football club competitions in Mexico]]
+[[Category:Professional football leagues in Mexico]]
+[[Category:Men's top-level domestic association football leagues in North America|Mex]]
+[[Category:1943 establishments in Mexico]]
+[[Category:Sports leagues established in 1943]]

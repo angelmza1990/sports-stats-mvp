@@ -88,9 +88,9 @@ Every Stanley Cup Final since 1915, in the style of NBA Rings: a franchise bar c
 
 Every World Series since 1903: a franchise bar chart race, the American League against the National League by decade, every champion, titles by franchise for all 30 teams, the longest waits between titles (the Cubs' 108 years, the Red Sox's 86 and the droughts still running), the most repeated matchups, the most Series lost, series lengths, the World Series MVPs (since 1955) and the winning managers.
 
-### ⚽ [Copa Libertadores](https://angelmza1990.github.io/sports-stats-mvp/football/copa-libertadores/) and [Champions League](https://angelmza1990.github.io/sports-stats-mvp/football/champions-league/)
+### ⚽ [Copa Libertadores](https://angelmza1990.github.io/sports-stats-mvp/football/copa-libertadores/), [Champions League](https://angelmza1990.github.io/sports-stats-mvp/football/champions-league/) and [CONCACAF Champions Cup](https://angelmza1990.github.io/sports-stats-mvp/football/concacaf-champions-cup/)
 
-Two pages with the same structure, one per competition:
+Three pages with the same structure, one per competition (CONCACAF includes the titles awarded without a final and the shared 1978 title, and has no appearances table):
 
 - **The race for the most titles:** an animated bar chart race by club, with crests and flags
 - **Champions and runners-up:** by club, or every final with its score
@@ -117,9 +117,9 @@ The Intercontinental Cup (1960–2004), the FIFA Club World Cup and the FIFA Int
 
 Every league champion since 1891: a titles race with or without the amateur era, titles by club split by era, the all-time table (total, professional and amateur), the top scorer of every tournament and his club, the all-time scorers, the amateur years when rival associations crowned their own champions (1912–14, 1919–26, 1931–34), every season, a combined table of national titles (leagues and cups, amateur and professional) and every official national cup (25 of them, amateur and professional, from the 1900 Cup Tie Competition to the Supercopa Internacional) with a short description, its leading winners and every final.
 
-### ⚽ National leagues: [Serie A](https://angelmza1990.github.io/sports-stats-mvp/football/serie-a/), [La Liga](https://angelmza1990.github.io/sports-stats-mvp/football/la-liga/), [England](https://angelmza1990.github.io/sports-stats-mvp/football/premier-league/), [Ligue 1](https://angelmza1990.github.io/sports-stats-mvp/football/ligue-1/), [Germany](https://angelmza1990.github.io/sports-stats-mvp/football/bundesliga/) and [Brasileirão](https://angelmza1990.github.io/sports-stats-mvp/football/brasileirao/)
+### ⚽ National leagues: [Serie A](https://angelmza1990.github.io/sports-stats-mvp/football/serie-a/), [La Liga](https://angelmza1990.github.io/sports-stats-mvp/football/la-liga/), [England](https://angelmza1990.github.io/sports-stats-mvp/football/premier-league/), [Ligue 1](https://angelmza1990.github.io/sports-stats-mvp/football/ligue-1/), [Germany](https://angelmza1990.github.io/sports-stats-mvp/football/bundesliga/), [Brasileirão](https://angelmza1990.github.io/sports-stats-mvp/football/brasileirao/), [Liga MX](https://angelmza1990.github.io/sports-stats-mvp/football/liga-mx/), [MLS](https://angelmza1990.github.io/sports-stats-mvp/football/mls/), [Colombia](https://angelmza1990.github.io/sports-stats-mvp/football/colombian-primera/) and [Chile](https://angelmza1990.github.io/sports-stats-mvp/football/chilean-primera/)
 
-The Argentine page's format for six more countries, one page each with a shared front end: every national champion (Italy since 1898, England since 1888, France since 1894, Germany since 1903, Spain since 1929, Brazil since 1937), a titles race with and without the early era (before Serie A, the Premier League, the professional league, the Bundesliga or the 1971 Campeonato Brasileiro), titles by club, the all-time table where Wikipedia publishes one, the top scorer of every season and the all-time scorers.
+The Argentine page's format for ten more countries, one page each with a shared front end: every national champion (Italy since 1898, England since 1888, France since 1894, Germany since 1903, Spain since 1929, Brazil since 1937, Chile since 1933, Mexico since 1943–44, Colombia since 1948, and every MLS Cup since 1996), a titles race with and without the early era (before Serie A, the Premier League, the professional league, the Bundesliga or the 1971 Campeonato Brasileiro), titles by club, the all-time table where Wikipedia publishes one, the top scorer of every season and the all-time scorers.
 
 ### ⚔️ [Great Rivalries](https://angelmza1990.github.io/sports-stats-mvp/football/rivalries/)
 
@@ -275,7 +275,7 @@ Argentina's touring-car championship since 1979, counting the Súper TC2000 year
 │   ├── build_stanley_cup.py      # Stanley Cup Finals, Conn Smythe winners and coaches
 │   ├── build_world_series.py     # World Series, MVPs and managers
 │   ├── build_football.py         # Football club competitions pipeline
-│   ├── build_leagues.py          # Italy, Spain, England, France, Germany and Brazil leagues
+│   ├── build_leagues.py          # Italy, Spain, England, France, Germany, Brazil, Mexico, MLS, Colombia and Chile leagues
 │   ├── build_football_people.py  # Coaches and players with the most titles (cups and leagues)
 │   ├── build_team_coaches.py     # Winning coaches: World Cup, club world champions, NBA and team tournaments
 │   ├── build_world_cup.py        # FIFA World Cup pipeline
@@ -325,8 +325,8 @@ python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia 
 python3 scripts/build_super_bowl.py --refresh # NFL: Super Bowls, NFL champions since 1920, MVPs and coaches
 python3 scripts/build_stanley_cup.py --refresh  # NHL: Stanley Cup Finals since 1915, Conn Smythe and coaches
 python3 scripts/build_world_series.py --refresh # MLB: World Series since 1903, MVPs and managers
-python3 scripts/build_football.py --refresh   # football: club competitions and Argentine league
-python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, England, Ligue 1, Germany, Brasileirão
+python3 scripts/build_football.py --refresh   # football: club competitions (Champions League, Libertadores, CONCACAF) and Argentine league
+python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, England, Ligue 1, Germany, Brasileirão, Liga MX, MLS, Colombia, Chile
 python3 scripts/build_football_people.py --refresh  # football: coaches and players (after the two above)
 python3 scripts/build_team_coaches.py         # winning coaches of the team sports (only new editions are looked up)
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
@@ -379,7 +379,7 @@ Rules applied:
 
 **Winning coaches (team sports).** The World Cup, World Club Champions, NBA and every international team tournament page (rugby, basketball, volleyball, field hockey, handball, Olympic football) list the coaches with the most titles and every champion's coach. Lists of winning coaches are used where Wikipedia keeps one (World Cup, Intercontinental Cup, Club World Cup, FIBA World Cup, Rugby World Cup, NBA). Otherwise each edition is followed from the competition's editions table to its squads or rosters page, where the champion's section names its head coach (FIBA roster footers, coach tables, transcluded roster templates and team articles are read too); when no such page exists, the coach in office that year comes from the champion's national team article (or its German, French, Spanish or Italian version, with names mapped back to English Wikipedia). A year with a change of coach is left blank rather than guessed, and the page says how many titles have a known coach. Found coaches are saved in `data/raw/football/team_coaches.json`, so later runs only look up the editions still missing. Checks: Pozzo's 2 World Cups, Bianchi's 3 world club titles, Phil Jackson's 11 NBA titles, Krzyzewski's 2 World Cups and 3 Olympic golds, Jacobsen's 4 handball world titles, Bernardinho's 2 Olympic golds and others; a dataset with a coach for fewer than 40% of its titles isn't written.
 
-**National leagues.** One config per league (in `build_leagues.py`) names the Wikipedia list of champions, the top scorer pages and, where one exists, the all-time table (from Italian, Spanish or English Wikipedia). Every club's title count must match the totals table on the same page; the only documented exception is Rouen's 1944–45 wartime title, which the French totals table counts and the season list doesn't. Renamed clubs keep their titles through the aliases in `clubs.json` (Ambrosiana-Inter for Inter, Atlético Aviación for Atlético Madrid, SpVgg Fürth for Greuther Fürth), and a club's label only matches a club of the same country, so Chile's Everton or Arsenal de Sarandí never borrow an English crest.
+**National leagues.** One config per league (in `build_leagues.py`) names the Wikipedia list of champions, the top scorer pages and, where one exists, the all-time table (from Italian, Spanish or English Wikipedia). Every club's title count must match the totals table on the same page; the only documented exception is Rouen's 1944–45 wartime title, which the French totals table counts and the season list doesn't. Renamed clubs keep their titles through the aliases in `clubs.json` (Ambrosiana-Inter for Inter, Atlético Aviación for Atlético Madrid, SpVgg Fürth for Greuther Fürth), and a club's label only matches a club of the same country, so Chile's Everton or Arsenal de Sarandí never borrow an English crest. Liga MX's titles are checked against the titles table in the Liga MX article; Colombia and Chile read the top scorer of every championship from the "Leading goalscorer(s)" column of the champions table itself.
 
 **World Cup.** The script combines six Wikipedia pages (editions, finals, records and statistics, top goalscorers, team and player appearances) and checks that every edition since 1930 is present, that title counts match history and that each edition has its final, podium, hosts and tournament totals. Every match comes from the [Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup) through 2022 and, for later tournaments, from the football boxes of each tournament's Wikipedia group and knockout pages; the number of matches per tournament must match the records page.
 

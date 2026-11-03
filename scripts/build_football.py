@@ -47,7 +47,7 @@ COUNTRIES = {
     "TOG": ("Togo", "tg"), "CRC": ("Costa Rica", "cr"), "JPN": ("Japan", "jp"), "KOR": ("South Korea", "kr"),
     "AUS": ("Australia", "au"), "CAN": ("Canada", "ca"), "ALB": ("Albania", "al"), "MNE": ("Montenegro", "me"),
     "ARM": ("Armenia", "am"), "BLR": ("Belarus", "by"), "GDR": ("East Germany", None), "COD": ("DR Congo", "cd"),
-    "CYP": ("Cyprus", "cy"), "KAZ": ("Kazakhstan", "kz"), "ISL": ("Iceland", "is"), "HON": ("Honduras", "hn"),
+    "CYP": ("Cyprus", "cy"), "KAZ": ("Kazakhstan", "kz"), "ISL": ("Iceland", "is"), "HON": ("Honduras", "hn"), "SLV": ("El Salvador", "sv"), "GUA": ("Guatemala", "gt"), "HAI": ("Haiti", "ht"), "SUR": ("Suriname", "sr"), "NGY": ("Suriname", "sr"), "ANT": ("Netherlands Antilles", None), "CUB": ("Cuba", "cu"), "PUR": ("Puerto Rico", "pr"), "NCA": ("Nicaragua", "ni"), "BLZ": ("Belize", "bz"), "CUW": ("Curaçao", "cw"),
     "PAN": ("Panama", "pa"), "JAM": ("Jamaica", "jm"), "MKD": ("North Macedonia", "mk"), "KOS": ("Kosovo", "xk"),
     "KSA": ("Saudi Arabia", "sa"), "UAE": ("United Arab Emirates", "ae"), "QAT": ("Qatar", "qa"), "TUN": ("Tunisia", "tn"),
     "NZL": ("New Zealand", "nz"), "CHN": ("China", "cn"), "IRN": ("Iran", "ir"),
@@ -125,6 +125,28 @@ COMPETITIONS = {
             "Player records exclude qualifying rounds.",
         ],
     },
+    "concacaf-champions-cup": {
+        "name": "CONCACAF Champions Cup",
+        "output": ROOT / "football" / "concacaf-champions-cup" / "data" / "concacaf-champions-cup.json",
+        "finals": ("List of CONCACAF Champions Cup and Champions League finals", r"==\s*List of finals\s*==", 1),
+        "alltime": ("CONCACAF Champions Cup and Champions League records and statistics", r"==\s*Records and statistics\s*==", 0,
+                    {"club": 1, "country": 1, "pld": 2, "w": 3, "d": 4, "l": 5, "gf": 6, "ga": 7, "pts": 9}),
+        "scorers": ("CONCACAF Champions Cup and Champions League records and statistics", r"===\s*All-time top scorers\s*===", 0,
+                    {"nation": 1, "player": 1, "goals": 3, "clubs": 2}),
+        "appearances": None,
+        # "2013–14" (Champions League era) ends in 2014; the Champions' Cup and today's Champions Cup are single years.
+        "season_year": lambda s: int(s[:4]) + 1 if re.match(r"^\d{4}[–-]\d{2}", s) else int(s[:4]),
+        # Some titles were awarded without a final, and 1978 was shared by three clubs.
+        "no_final": True,
+        # The page's own titles-by-club table is the reference.
+        "history_table": ("List of CONCACAF Champions Cup and Champions League finals", r"===\s*By club\s*===", 0),
+        "pointsRule": "3 points per win, 1 per draw",
+        "alltimeScope": "the 50 clubs with the most points in the final rounds, through 2023",
+        "notes": [
+            "Titles awarded without a final (1968, 1970, 1973 and 1984) count as titles with no runner-up, and the 1978 title was shared by three clubs.",
+            "All-time club records come from Wikipedia's table of final-round matches, updated through 2023.",
+        ],
+    },
 }
 
 
@@ -194,18 +216,26 @@ def parse_finals(rows: list[list[dict]], comp: dict, clubs: ClubIndex) -> list[d
         note = next((v for k, v in LEG_NOTES.items() if k in score_attrs), None)
         score = re.sub(r"[*†‡&]", "", W.plain(cell(row, 3))).strip()
         leg = {"score": score, **({"note": note} if note else {})}
-        if season not in seasons:
-            seasons[season] = {
+        champion = clubs.resolve(champion_cell, c_country)
+        if season in seasons and comp.get("no_final") and seasons[season]["champion"] != champion and not seasons[season]["runnerUp"]:
+            season_key = f"{season}#{champion}"  # a shared title
+        else:
+            season_key = season
+        if season_key not in seasons:
+            seasons[season_key] = {
                 "season": season,
                 "year": comp["season_year"](season),
-                "champion": clubs.resolve(champion_cell, c_country),
+                "champion": champion,
                 "championCountry": c_country,
                 "runnerUp": clubs.resolve(runner_cell, r_country),
                 "runnerUpCountry": r_country,
-                "legs": [leg],
+                "legs": [leg] if leg["score"] else [],
             }
-        else:
-            seasons[season]["legs"].append(leg)
+            if not seasons[season_key]["runnerUp"]:
+                seasons[season_key]["runnerUpCountry"] = None
+                seasons[season_key]["noFinal"] = True
+        elif leg["score"]:
+            seasons[season_key]["legs"].append(leg)
     return sorted(seasons.values(), key=lambda s: s["year"])
 
 
@@ -221,7 +251,7 @@ def parse_alltime(rows: list[list[dict]], cols: dict, clubs: ClubIndex) -> list[
         out.append({
             "club": club,
             "country": country,
-            **{k: W.number(cell(row, cols[k])) for k in ("part", "pld", "w", "d", "l", "gf", "ga", "pts")},
+            **{k: W.number(cell(row, cols[k])) if k in cols else None for k in ("part", "pld", "w", "d", "l", "gf", "ga", "pts")},
         })
     return out
 
@@ -256,7 +286,13 @@ def build(key: str, refresh: bool) -> dict:
     finals = parse_finals(table(comp["finals"], refresh), comp, clubs)
     alltime = parse_alltime(table(comp["alltime"], refresh), comp["alltime"][3], clubs)
     scorers = parse_players(table(comp["scorers"], refresh), comp["scorers"][3])
-    appearances = parse_players(table(comp["appearances"], refresh), comp["appearances"][3])
+    appearances = parse_players(table(comp["appearances"], refresh), comp["appearances"][3]) if comp["appearances"] else []
+    history = None
+    if comp.get("history_table"):
+        history = Counter()
+        for row in table(comp["history_table"], refresh):
+            if not row[0]["header"] and W.links(cell(row, 0)) and W.number(cell(row, 1)) is not None:
+                history[clubs.resolve(cell(row, 0), W.flag_code(cell(row, 0)))] += W.number(cell(row, 1))
 
     # Keep the clubs that lead any all-time metric, plus every finalist.
     keep = set()
@@ -264,7 +300,7 @@ def build(key: str, refresh: bool) -> dict:
         keep |= {r["club"] for r in sorted(alltime, key=lambda r: -(r[metric] or 0))[:n]}
     if not comp.get("full_alltime"):
         alltime = [r for r in alltime if r["club"] in keep]
-    used = {f["champion"] for f in finals} | {f["runnerUp"] for f in finals} | {r["club"] for r in alltime}
+    used = {f["champion"] for f in finals} | {f["runnerUp"] for f in finals if f["runnerUp"]} | {r["club"] for r in alltime}
 
     codes = {f["championCountry"] for f in finals} | {f["runnerUpCountry"] for f in finals}
     codes |= {r["country"] for r in alltime} | {p["nation"] for p in scorers + appearances}
@@ -272,7 +308,7 @@ def build(key: str, refresh: bool) -> dict:
     codes.discard(None)
 
     # Only warn for clubs that are prominent on the page (finalists and the top of the table).
-    prominent = {f["champion"] for f in finals} | {f["runnerUp"] for f in finals}
+    prominent = {f["champion"] for f in finals} | {f["runnerUp"] for f in finals if f["runnerUp"]}
     prominent |= {r["club"] for r in sorted(alltime, key=lambda r: -(r["pts"] or 0))[:40]}
     unmapped = sorted(label for cid, label in clubs.unmapped.items() if cid in prominent)
     if unmapped:
@@ -284,9 +320,10 @@ def build(key: str, refresh: bool) -> dict:
             "competition": comp["name"],
             "through": finals[-1]["season"],
             "sources": [f"https://en.wikipedia.org/wiki/{t[0].replace(' ', '_')}" for t in
-                        (comp["finals"], comp["alltime"], comp["scorers"], comp["appearances"])],
+                        (comp["finals"], comp["alltime"], comp["scorers"], comp["appearances"]) if t],
             "notes": comp["notes"],
             "pointsRule": comp["pointsRule"],
+            **({"alltimeScope": comp["alltimeScope"]} if comp.get("alltimeScope") else {}),
         },
         "countries": {c: {"name": COUNTRIES[c][0], "flag": COUNTRIES[c][1]} if c in COUNTRIES else {"name": c, "flag": None}
                       for c in sorted(codes)},
@@ -296,6 +333,7 @@ def build(key: str, refresh: bool) -> dict:
         "alltime": alltime,
         "scorers": scorers,
         "appearances": appearances,
+        **({"_history": {c: n for c, n in history.items()}} if history is not None else {}),
     }
 
 
@@ -303,25 +341,34 @@ def validate(key: str, data: dict) -> list[str]:
     comp = COMPETITIONS[key]
     errors = []
     years = [f["year"] for f in data["finals"]]
-    if years != list(range(years[0], years[-1] + 1)):
+    if not comp.get("no_final") and years != list(range(years[0], years[-1] + 1)):
         errors.append("finals are not one per consecutive season")
+    if years != sorted(years):
+        errors.append("finals out of order")
     names = {cid: c["name"] for cid, c in data["clubs"].items()}
-    history = Counter(names[f["champion"]] for f in data["finals"] if f["year"] <= comp["history_through"])
-    if history != Counter(comp["history"]):
-        diff = {k: (history.get(k, 0), comp["history"].get(k, 0)) for k in set(history) | set(comp["history"])
-                if history.get(k, 0) != comp["history"].get(k, 0)}
-        errors.append(f"titles through {comp['history_through']} differ (got, expected): {diff}")
+    if "_history" in data:
+        got = Counter(f["champion"] for f in data["finals"])
+        expected = Counter(data.pop("_history"))
+        if got != expected:
+            diff = {names.get(k, k): (got.get(k, 0), expected.get(k, 0)) for k in set(got) | set(expected) if got.get(k, 0) != expected.get(k, 0)}
+            errors.append(f"titles differ from the page's titles-by-club table (got, expected): {diff}")
+    else:
+        history = Counter(names[f["champion"]] for f in data["finals"] if f["year"] <= comp["history_through"])
+        if history != Counter(comp["history"]):
+            diff = {k: (history.get(k, 0), comp["history"].get(k, 0)) for k in set(history) | set(comp["history"])
+                    if history.get(k, 0) != comp["history"].get(k, 0)}
+            errors.append(f"titles through {comp['history_through']} differ (got, expected): {diff}")
     for f in data["finals"]:
-        if not f["champion"] or not f["runnerUp"] or f["champion"] == f["runnerUp"]:
+        if not f["champion"] or f["champion"] == f["runnerUp"] or (not f["runnerUp"] and not f.get("noFinal")):
             errors.append(f"bad final {f['season']}")
-        if not f["championCountry"] or not f["runnerUpCountry"]:
+        if not f["championCountry"] or (f["runnerUp"] and not f["runnerUpCountry"]):
             errors.append(f"missing country in final {f['season']}")
     if len(data["alltime"]) < 20:
         errors.append(f"all-time table too short ({len(data['alltime'])} clubs)")
     for r in data["alltime"]:
         if r["pts"] is None or r["w"] is None:
             errors.append(f"all-time row without points: {r}")
-    for label in ("scorers", "appearances"):
+    for label in ("scorers", "appearances") if comp["appearances"] else ("scorers",):
         if len(data[label]) < 10 or any(p.get("goals" if label == "scorers" else "apps") is None for p in data[label]):
             errors.append(f"{label} table incomplete")
     return errors

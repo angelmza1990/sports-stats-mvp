@@ -7,6 +7,11 @@
   const F = Football(data);
   const { clubs, clubName, countryName, scoreText } = F;
   const finals = data.finals;
+  // Titles awarded without a final (CONCACAF in the 1960s–80s) have no runner-up.
+  const played = finals.filter((f) => f.runnerUp);
+  const resultText = (f) => (f.noFinal ? "no final" : scoreText(f));
+  const runnerLabel = (f) => (f.runnerUp ? F.clubLabel(f.runnerUp, true) : el("span", "muted", "–"));
+  const num = (n) => (n == null ? "–" : String(n));
 
   // West German clubs count for Germany in country totals (as on UEFA's own tables).
   const nation = (code) => ({ FRG: "GER" })[code] ?? code;
@@ -25,7 +30,9 @@
   const [leader, leaderN] = d3.greatest(titles, (d) => d[1]);
   const topNations = nationTitles.filter(([, v]) => v.n === nationTitles[0][1].n).map(([code]) => countryName(code));
   F.statTiles("stats", [
-    { label: "Finals played", value: String(finals.length), detail: `${finals[0].season} to ${finals[finals.length - 1].season}` },
+    played.length === finals.length
+      ? { label: "Finals played", value: String(finals.length), detail: `${finals[0].season} to ${finals[finals.length - 1].season}` }
+      : { label: "Titles awarded", value: String(finals.length), detail: `${finals[0].season} to ${finals[finals.length - 1].season}, ${finals.length - played.length} without a final` },
     { label: "Different champions", value: String(titles.size), detail: `${d3.sum(titles.values(), (v) => v === 1)} won it once` },
     { label: "Most titles", value: String(leaderN), detail: clubName(leader), club: leader },
     {
@@ -45,7 +52,7 @@
     colorOf: (id) => colorOf(clubs[id]?.country),
     emptyTicker: `Press play to start with the first final, ${finals[0].season}.`,
     ticker: (f) => [F.crest(f.champion), el("strong", null, `${f.season} · ${clubName(f.champion)}`),
-      document.createTextNode(` def. ${clubName(f.runnerUp)}, ${scoreText(f)}`)],
+      document.createTextNode(f.runnerUp ? ` def. ${clubName(f.runnerUp)}${f.legs.length ? `, ${scoreText(f)}` : ""}` : " · awarded without a final")],
   });
 
   /* ---------- Champions and runners-up ---------- */
@@ -54,7 +61,7 @@
     const root = document.getElementById("champions-table");
     const seasons = (list) => list.map((f) => f.season).join(", ") || "–";
     const byClub = () => {
-      const ids = new Set(finals.flatMap((f) => [f.champion, f.runnerUp]));
+      const ids = new Set(finals.flatMap((f) => [f.champion, f.runnerUp]).filter(Boolean));
       const rows = [...ids].map((id) => ({ id, won: finals.filter((f) => f.champion === id), lost: finals.filter((f) => f.runnerUp === id) }))
         .sort((a, b) => b.won.length - a.won.length || b.lost.length - a.lost.length || d3.ascending(clubName(a.id), clubName(b.id)));
       F.richTable(root, [
@@ -69,8 +76,8 @@
     const everyFinal = () => F.richTable(root, [
       { label: "Season", render: (f) => f.season },
       { label: "Champion", render: (f) => F.clubLabel(f.champion, true) },
-      { label: "Score", cls: "score", render: (f) => scoreText(f) },
-      { label: "Runner-up", render: (f) => F.clubLabel(f.runnerUp, true) },
+      { label: "Score", cls: "score", render: (f) => (f.legs.length ? scoreText(f) : resultText(f)) },
+      { label: "Runner-up", render: runnerLabel },
     ], finals.slice().reverse());
     Viz.segmented("champions-tabs", [{ key: "club", label: "By club" }, { key: "final", label: "Every final" }], "club",
       (k) => (k === "club" ? byClub() : everyFinal()));
@@ -79,12 +86,12 @@
 
   /* ---------- Most repeated finals ---------- */
 
-  F.repeatedFinals(document.getElementById("pairs-list"), finals, (f) => `${f.season} ${clubName(f.champion)} (${scoreText(f)})`);
+  F.repeatedFinals(document.getElementById("pairs-list"), played, (f) => `${f.season} ${clubName(f.champion)} (${scoreText(f)})`);
 
   /* ---------- Countries ---------- */
 
   (function countriesSection() {
-    const codes = new Set(finals.flatMap((f) => [nation(f.championCountry), nation(f.runnerUpCountry)]));
+    const codes = new Set(finals.flatMap((f) => [nation(f.championCountry), nation(f.runnerUpCountry)]).filter(Boolean));
     const groups = [...codes].map((code) => {
       const won = finals.filter((f) => nation(f.championCountry) === code);
       return {
@@ -104,12 +111,12 @@
   (function pointsTable() {
     const rows = data.alltime.slice().sort((a, b) => b.pts - a.pts || (b.gf - b.ga) - (a.gf - a.ga));
     document.getElementById("points-note").textContent =
-      `${data.meta.pointsRule}. ${rows.length} clubs${rows.length <= 25 ? " (the published top 25)" : ", every club that has taken part"}.`;
+      `${data.meta.pointsRule}. ${data.meta.alltimeScope ? `${rows.length} clubs: ${data.meta.alltimeScope}` : `${rows.length} clubs${rows.length <= 25 ? " (the published top 25)" : ", every club that has taken part"}`}.`;
     const sign = (n) => (n > 0 ? `+${n}` : String(n));
     F.richTable(document.getElementById("points-table"), [
       { label: "#", cls: "num rank", render: (r) => String(rows.indexOf(r) + 1) },
       { label: "Club", render: (r) => F.clubLabel(r.club, true) },
-      { label: "Seasons", short: "Ssn", cls: "num", render: (r) => String(r.part) },
+      ...(rows.some((r) => r.part != null) ? [{ label: "Seasons", short: "Ssn", cls: "num", render: (r) => num(r.part) }] : []),
       { label: "Played", short: "P", cls: "num", render: (r) => String(r.pld) },
       { label: "W", cls: "num", render: (r) => String(r.w) },
       { label: "D", cls: "num", render: (r) => String(r.d) },
@@ -129,7 +136,7 @@
       { key: "gf", label: "Most goals", unit: "goals" },
       { key: "part", label: "Most participations", unit: "seasons" },
       { key: "pts", label: "Most points", unit: "points" },
-    ];
+    ].filter((m) => data.alltime.some((r) => r[m.key] != null));
     let metric = "w";
     const top = () => data.alltime.slice().sort((a, b) => b[metric] - a[metric]).slice(0, 15);
     const container = d3.select("#records-chart");
@@ -158,13 +165,13 @@
       tooltipOn(g, (t, d) => {
         t.append(ttTitle(clubName(d.club)));
         t.append(Viz.ttRow("var(--ink-2)", d[metric], m.unit));
-        t.append(ttNote(`${d.part} seasons · ${d.pld} played · ${d.w}W ${d.d}D ${d.l}L · goals ${d.gf}–${d.ga} · ${d.pts} pts`));
+        t.append(ttNote(`${d.part != null ? `${d.part} seasons · ` : ""}${d.pld} played · ${d.w}W ${d.d}D ${d.l}L · goals ${d.gf}–${d.ga} · ${d.pts} pts`));
       });
     }
 
     function renderTable() {
       table("records-table", ["Club", "Country", "Seasons", "Played", "W", "D", "L", "GF", "GA", "Pts"],
-        top().map((r) => [clubName(r.club), countryName(r.country), String(r.part), String(r.pld), String(r.w), String(r.d), String(r.l), String(r.gf), String(r.ga), String(r.pts)]));
+        top().map((r) => [clubName(r.club), countryName(r.country), num(r.part), String(r.pld), String(r.w), String(r.d), String(r.l), String(r.gf), String(r.ga), String(r.pts)]));
     }
 
     const rerender = responsive("records-chart", draw);
@@ -207,8 +214,8 @@
         { label: "Clubs", cls: "years", render: (p) => p.clubs.join(", ") },
       ], ranked(data.appearances, "apps").slice(0, 25)),
     };
-    Viz.segmented("players-tabs", [{ key: "scorers", label: "Top scorers" }, { key: "appearances", label: "Most appearances" }], "scorers",
-      (k) => views[k]());
+    const tabs = [{ key: "scorers", label: "Top scorers" }, ...(data.appearances.length ? [{ key: "appearances", label: "Most appearances" }] : [])];
+    Viz.segmented("players-tabs", tabs, "scorers", (k) => views[k]());
     views.scorers();
   })();
 
