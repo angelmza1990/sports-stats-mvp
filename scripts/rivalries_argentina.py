@@ -766,8 +766,13 @@ NEWELLS, CENTRAL = "newell-s-old-boys", "rosario-central"
 LANUS, BANFIELD = "lanus", "banfield"
 COLON, UNION = "colon", "union"
 TALLERES, BELGRANO = "talleres-c", "belgrano"
+ATLETICO_T, SAN_MARTIN_T = "club-atletico-tucuman", "club-atletico-san-martin-tucuman"
+INSTITUTO = "instituto-atletico-central-cordoba"
+GIMNASIA_M, RIVADAVIA = "gimnasia-mendoza", "independiente-rivadavia"
 DERBY_ALIASES = {NEWELLS: ("newell",), CENTRAL: ("central",), LANUS: ("lanus",), BANFIELD: ("banfield",),
-                 COLON: ("colon",), UNION: ("union",), TALLERES: ("talleres",), BELGRANO: ("belgrano",)}
+                 COLON: ("colon",), UNION: ("union",), TALLERES: ("talleres",), BELGRANO: ("belgrano",),
+                 ATLETICO_T: ("atletico", "decano"), SAN_MARTIN_T: ("san martin", "santo"), INSTITUTO: ("instituto",),
+                 GIMNASIA_M: ("gimnasia",), RIVADAVIA: ("rivadavia",)}
 # (heading, stage): "local" for the city leagues and their cups, None to classify each row by its competition.
 DERBIES = {
     "newells-central": {"es": "Clásico rosarino", "sections": [
@@ -792,8 +797,17 @@ DERBIES = {
         (r"===== Campeonatos de Primera División =====", "local"), (r"===== Torneos Extras =====", "local"),
         (r"==== Asociación del Fútbol Argentino \(1974-act\.\) ====", None)],
         "scorers": r"==== Máximos goleadores \(oficiales\) ====", "apps": r"==== Más presencias ===="},
+    "atletico-san-martin": {"es": "Clásico tucumano", "sections": [
+        (r"=== Todos los resultados de clásicos tucumanos oficiales en Liga Tucumana ===", "local"),
+        (r"=== Todos los resultados de clásicos tucumanos oficiales en Copas Tucumanas ===", "local"),
+        (r"=== Todos los resultados de clásicos tucumanos oficiales a nivel regional ===", None),
+        (r"=== Todos los resultados de clásicos tucumanos oficiales a nivel nacional ===", None)],
+        "friendlies": r"=== Resultados de clásicos tucumanos amistosos ===", "scorers": r"== Goleadores =="},
 }
-LOCAL_NAMES = {"newells-central": "Liga Rosarina", "colon-union": "Liga Santafesina", "talleres-belgrano": "Liga Cordobesa"}
+LOCAL_NAMES = {"newells-central": "Liga Rosarina", "colon-union": "Liga Santafesina", "talleres-belgrano": "Liga Cordobesa",
+               "atletico-san-martin": "Liga Tucumana"}
+# Third-tier and regional tournaments of the interior (Regional, Argentino A, Federal A, Torneo del Interior).
+REGIONAL = r"regional|argentino [ab]|federal [ab]|torneo del interior|interior"
 
 
 def section_text(text: str, heading: str) -> str:
@@ -946,7 +960,9 @@ def derby(key: str, a: str, b: str):
                     m["comp"] = m["comp"] if re.search(r"liga|copa|torneo", m["comp"], re.I) else f"{LOCAL_NAMES[key]}: {m['comp']}"
             matches += rows
         for m in matches:
-            if m["stage"] == "league":
+            if m["stage"] == "league" and re.search(REGIONAL, m["comp"], re.I) and not re.search(r"nacional b|primera b", m["comp"], re.I):
+                m["comp"] = "Regional tournaments"
+            elif m["stage"] == "league":
                 m["comp"] = "Segunda División" if re.search(r"segunda|intermedia|ascenso|nacional b|primera b", m["comp"], re.I) else "Primera División"
             if m["stage"] == "local" and (not re.search(r"copa|torneo|trofeo", m["comp"], re.I) or re.match(r"copa campeonato", m["comp"], re.I)):
                 m["comp"] = LOCAL_NAMES[key]
@@ -968,4 +984,53 @@ def derby(key: str, a: str, b: str):
             data["appearances"] = derby_leaders(text, cfg["apps"], "apps", pair)
         return data
 
+    return builder
+
+
+# ---------------------------------------------------------------- derbies with published totals only
+
+def published_totals(text: str, heading: str, pair: Pair, first: str) -> dict:
+    """A totals table (competition, played, wins of the first club, draws, wins of the other, then goals or a
+    difference): the official competitions down to the "total oficial" row, which is the total."""
+    grid = W.parse_table(W.find_table(text, heading))
+    # Header cells can carry their attributes ('width=10% title="..."|GolGE'): read the label after the last bar.
+    head = [fold(W.plain(c["text"].split("|")[-1])).strip() for row in grid[:3] for c in row]
+    goals = sum(1 for h in head if h.startswith("gol")) >= 2
+    comps, total = [], None
+    for r in grid[1:]:
+        label = W.plain(r[0]["text"]).strip()
+        nums = [W.number(c["text"]) for c in r[1:]]
+        if any(c["header"] for c in r[1:]) or len(nums) < 4 or None in nums[:4]:
+            continue  # header rows, whose cell attributes ("width=10%") would read as numbers
+        row = {"comp": label, "n": nums[0], "a": nums[1], "d": nums[2], "b": nums[3],
+               "ga": nums[4] if goals and len(nums) > 5 else None, "gb": nums[5] if goals and len(nums) > 5 else None}
+        if first == pair.b:
+            row["a"], row["b"], row["ga"], row["gb"] = row["b"], row["a"], row["gb"], row["ga"]
+        if re.search(r"total", fold(label)):
+            total = {**row, "comp": "Total"}
+            break
+        comps.append(row)
+    if total is None:
+        raise SystemExit(f"{heading}: no official total row")
+    return {"comps": comps, "total": total}
+
+
+def summary_derby(title: str, heading: str, a: str, b: str, first: str, recent: str | None = None, note: str = ""):
+    def builder(refresh: bool) -> dict:
+        pair = Pair(a, DERBY_ALIASES[a], b, DERBY_ALIASES[b])
+        text = page(title, refresh, "es")
+        latest = []
+        if recent:
+            rows, _, _ = derby_rows(section_text(text, recent), pair, None)
+            latest = sorted(rows, key=lambda m: m["date"])[-12:]
+            for m in latest:
+                if m["stage"] == "league":
+                    m["comp"] = "Regional tournaments" if re.search(REGIONAL, m["comp"], re.I) and not re.search(r"nacional b|primera b", m["comp"], re.I) \
+                        else "Segunda División" if re.search(r"segunda|ascenso|nacional b|primera b|primera nacional", m["comp"], re.I) else "Primera División"
+        notes = ["Wikipedia publishes this rivalry's totals but lists only some of its matches, so there is no match-by-match history."]
+        if note:
+            notes.append(note)
+        return {"mode": "summary", "summary": published_totals(text, heading, pair, first), "recent": latest,
+                "source": {"label": f"Spanish Wikipedia, {title}", "url": "https://es.wikipedia.org/wiki/" + title.replace(" ", "_")},
+                "notes": notes}
     return builder

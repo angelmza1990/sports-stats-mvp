@@ -49,6 +49,9 @@ COLORS = {
     "lanus-banfield": ("#9e024a", "#05ab58", "#e85082", "#098b47"),
     "colon-union": ("#a20519", "#e04e24", "#ed5350", "#af2f02"),
     "talleres-belgrano": ("#3845bf", "#0a96d6", "#4252cd", "#0a96d6"),
+    "belgrano-instituto": ("#0a96d6", "#d33a3c", "#0a96d6", "#e54c4a"),
+    "atletico-san-martin": ("#0a96d6", "#d33a3c", "#0a96d6", "#e54c4a"),
+    "gimnasia-rivadavia": ("#ce9707", "#245fd4", "#b68611", "#245fd4"),
     "madrid-barcelona": ("#824fcf", "#b21557", "#824fcf", "#e85082"),
     "madrid-atletico": ("#824fcf", "#d33a3c", "#824fcf", "#e54c4a"),
     "barcelona-atletico": ("#245fd4", "#d33a3c", "#245fd4", "#e54c4a"),
@@ -111,6 +114,8 @@ GROUPS = [
     {"id": "arg-sur", "country": "ARG", "name": "Argentina", "region": "South of Buenos Aires", "label": ""},
     {"id": "arg-sfe", "country": "ARG", "name": "Argentina", "region": "Santa Fe", "label": ""},
     {"id": "arg-cba", "country": "ARG", "name": "Argentina", "region": "Córdoba", "label": ""},
+    {"id": "arg-tuc", "country": "ARG", "name": "Argentina", "region": "Tucumán", "label": ""},
+    {"id": "arg-mza", "country": "ARG", "name": "Argentina", "region": "Mendoza", "label": ""},
     {"id": "uru", "country": "URU", "name": "Uruguay", "label": ""},
     {"id": "esp", "country": "ESP", "name": "Spain", "region": "The big three", "label": "Spain's big three"},
     {"id": "esp-and", "country": "ESP", "name": "Spain", "region": "Andalusia", "label": ""},
@@ -157,6 +162,11 @@ COLON = {"id": "colon", "name": "Colón", "short": "Colón"}
 UNION = {"id": "union", "name": "Unión", "short": "Unión"}
 TALLERES = {"id": "talleres-c", "name": "Talleres", "short": "Talleres"}
 BELGRANO = {"id": "belgrano", "name": "Belgrano", "short": "Belgrano"}
+INSTITUTO = {"id": "instituto-atletico-central-cordoba", "name": "Instituto", "short": "Instituto"}
+ATLETICO_T = {"id": "club-atletico-tucuman", "name": "Atlético Tucumán", "short": "Atlético"}
+SAN_MARTIN_T = {"id": "club-atletico-san-martin-tucuman", "name": "San Martín de Tucumán", "short": "San Martín"}
+GIMNASIA_M = {"id": "gimnasia-mendoza", "name": "Gimnasia y Esgrima de Mendoza", "short": "Gimnasia"}
+RIVADAVIA = {"id": "independiente-rivadavia", "name": "Independiente Rivadavia", "short": "Independiente"}
 PALMEIRAS = {"id": "palmeiras", "name": "Palmeiras", "short": "Palmeiras"}
 SAO_PAULO = {"id": "sao-paulo", "name": "São Paulo", "short": "São Paulo"}
 CORINTHIANS = {"id": "corinthians", "name": "Corinthians", "short": "Corinthians"}
@@ -233,6 +243,14 @@ RIVALRIES = [
     R("colon-union", "Clásico santafesino", "Colón vs Unión", "arg-sfe", COLON, UNION, AR.derby("colon-union", "colon", "union"), 158),
     R("talleres-belgrano", "Clásico cordobés", "Talleres vs Belgrano", "arg-cba", TALLERES, BELGRANO,
       AR.derby("talleres-belgrano", "talleres-c", "belgrano"), 260),
+    R("belgrano-instituto", "Belgrano vs Instituto", "Belgrano vs Instituto", "arg-cba", BELGRANO, INSTITUTO,
+      AR.summary_derby("Clásico Belgrano-Instituto", r"=== Historial resumido ===", "belgrano", "instituto-atletico-central-cordoba", "belgrano"), 202),
+    R("atletico-san-martin", "Clásico tucumano", "Atlético Tucumán vs San Martín de Tucumán", "arg-tuc", ATLETICO_T, SAN_MARTIN_T,
+      AR.derby("atletico-san-martin", "club-atletico-tucuman", "club-atletico-san-martin-tucuman"), 281, leaders="scorers"),
+    R("gimnasia-rivadavia", "Clásico mendocino", "Gimnasia y Esgrima vs Independiente Rivadavia", "arg-mza", GIMNASIA_M, RIVADAVIA,
+      AR.summary_derby("Clásico mendocino", r"=== Resumen estadístico ===", "gimnasia-mendoza", "independiente-rivadavia", "gimnasia-mendoza",
+                       recent=r"=== En torneos oficiales de AFA ===[\s\S]*?==== Cronología de resultados ====",
+                       note="Most of the official meetings were in the Liga Mendocina; the latest matches are those played in AFA tournaments."), 268),
     R("penarol-nacional", "Uruguayan Clásico", "Peñarol vs Nacional", "uru", PENAROL, NACIONAL, UY.build_clasico, 431,
       leaders="scorers"),
     R("madrid-barcelona", "El Clásico", "Real Madrid vs Barcelona", "esp", MADRID, BARCA, ES.build_clasico, 265),

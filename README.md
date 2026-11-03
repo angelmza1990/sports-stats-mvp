@@ -123,7 +123,7 @@ The Argentine page's format for ten more countries, one page each with a shared 
 
 ### ⚔️ [Great Rivalries](https://angelmza1990.github.io/sports-stats-mvp/football/rivalries/)
 
-67 rivalries between the biggest clubs of twelve countries, picked by country: Argentina's big five (River, Boca, Independiente, Racing, San Lorenzo) and its derbies of Rosario, Santa Fe, Córdoba and the south of Buenos Aires, Uruguay's Peñarol vs Nacional, Brazil's big four of São Paulo and of Rio, the Grenal and the Clássico Mineiro, England's big six, Juventus, Inter and Milan, Spain's big three (Real Madrid, Barcelona, Atlético), the Seville derby and the Derbi de la Comunitat, Le Classique and Der Klassiker, Mexico's big four (América, Guadalajara, Cruz Azul, Pumas) and the Clásico Regiomontano, MLS's El Tráfico, Cascadia rivalry and Hudson River Derby, Colombia's Clásico Paisa, Clásico Vallecaucano and Nacional vs Millonarios, and Chile's big three (Colo-Colo, Universidad de Chile, Universidad Católica). For each one:
+70 rivalries between the biggest clubs of twelve countries, picked by country: Argentina's big five (River, Boca, Independiente, Racing, San Lorenzo) and its derbies of Rosario, Santa Fe, Córdoba (Talleres vs Belgrano and Belgrano vs Instituto), Tucumán, Mendoza and the south of Buenos Aires, Uruguay's Peñarol vs Nacional, Brazil's big four of São Paulo and of Rio, the Grenal and the Clássico Mineiro, England's big six, Juventus, Inter and Milan, Spain's big three (Real Madrid, Barcelona, Atlético), the Seville derby and the Derbi de la Comunitat, Le Classique and Der Klassiker, Mexico's big four (América, Guadalajara, Cruz Azul, Pumas) and the Clásico Regiomontano, MLS's El Tráfico, Cascadia rivalry and Hudson River Derby, Colombia's Clásico Paisa, Clásico Vallecaucano and Nacional vs Millonarios, and Chile's big three (Colo-Colo, Universidad de Chile, Universidad Católica). For each one:
 
 - **The lead, match by match:** a line of wins minus losses after every official match, with each side's biggest lead
 - **Competition by competition:** league, state championships, domestic cups, super cups and international competitions
@@ -151,6 +151,9 @@ The Argentine page's format for ten more countries, one page each with a shared 
 | Clásico del Sur: Lanús vs Banfield | Argentina (South of Buenos Aires) | 133 | 41 | 40 | 52 |
 | Clásico santafesino: Colón vs Unión ⁴ | Argentina (Santa Fe) | 158 | 48 | 53 | 57 |
 | Clásico cordobés: Talleres vs Belgrano ⁴ | Argentina (Córdoba) | 260 | 93 | 88 | 79 |
+| Belgrano vs Instituto ¹ | Argentina (Córdoba) | 202 | 87 | 54 | 61 |
+| Clásico tucumano: Atlético Tucumán vs San Martín ⁴ | Argentina (Tucumán) | 281 | 98 | 90 | 93 |
+| Clásico mendocino: Gimnasia y Esgrima vs Independiente Rivadavia ¹ | Argentina (Mendoza) | 268 | 90 | 88 | 90 |
 | Uruguayan Clásico: Peñarol vs Nacional | Uruguay | 433 | 153 | 143 | 137 |
 | Derby Paulista: Palmeiras vs Corinthians | Brazil (São Paulo) | 332 | 118 | 101 | 113 |
 | Choque-Rei: Palmeiras vs São Paulo | Brazil (São Paulo) | 313 | 109 | 97 | 107 |
@@ -208,7 +211,7 @@ The Argentine page's format for ten more countries, one page each with a shared 
 ¹ No source lists every match, so the page shows the head-to-head totals the source publishes, its knockout ties and finals and the latest matches.
 ² The source lists every meeting without its competition, so friendlies are included.
 ³ No source lists every match, so the list is put together from engsoccerdata (league), RSSSF's cup pages (to 1997) and Barcelona's season articles; it may miss a few matches.
-⁴ Official matches include the local league (Rosario, Santa Fe or Córdoba) and its cups, as Spanish Wikipedia counts them.
+⁴ Official matches include the local league (Rosario, Santa Fe, Córdoba or Tucumán) and its cups, as Spanish Wikipedia counts them.
 
 ### 🏅 [The Olympic Games](https://angelmza1990.github.io/sports-stats-mvp/olympics/)
 
@@ -343,7 +346,7 @@ python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, Engl
 python3 scripts/build_football_people.py --refresh  # football: coaches and players (after the two above)
 python3 scripts/build_team_coaches.py         # winning coaches of the team sports (only new editions are looked up)
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
-python3 scripts/build_rivalries.py --refresh  # football: the 67 great rivalries, match by match
+python3 scripts/build_rivalries.py --refresh  # football: the 70 great rivalries, match by match
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_tc2000.py --refresh     # motorsport: TC2000
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)

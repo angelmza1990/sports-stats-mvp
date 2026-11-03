@@ -4508,6 +4508,27 @@
     "A.D. Isidro Metapán",
     "Isidro Metapán"
    ]
+  },
+  {
+   "id": "gimnasia-mendoza",
+   "name": "Gimnasia y Esgrima (M)",
+   "country": "ARG",
+   "espn": "11972",
+   "aliases": [
+    "Gimnasia y Esgrima (M)",
+    "Club Atlético Gimnasia y Esgrima (Mendoza)",
+    "Gimnasia y Esgrima de Mendoza"
+   ]
+  },
+  {
+   "id": "independiente-rivadavia",
+   "name": "Independiente Rivadavia",
+   "country": "ARG",
+   "espn": "9744",
+   "aliases": [
+    "Independiente Rivadavia",
+    "Club Sportivo Independiente Rivadavia"
+   ]
   }
  ]
 }

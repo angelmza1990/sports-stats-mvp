@@ -1,0 +1,290 @@
+{{Ficha
+|titulo          = Clásico mendocino
+|colorfondotitulo= #dfdfdf
+|tipocabecera    = fútbol
+|estiloseccion   = background:#dfdfdf;
+|seccion1        = 
+|etiqueta1       = 
+|datos1          = {{Dos camisetas 
+                    |trama_izq1     = _black_stripes |color_izq1     = FFFFFF
+                    |trama_cuerpo1  = _whitestripes  |color_cuerpo1  = 000000
+                    |trama_der1     = _black_stripes |color_der1     = FFFFFF
+                    |trama_pantalón1=                |color_pantalón1= 000000 
+                    |trama_medias1  =                |color_medias1  = 000000
+                    |título1        = [[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia]]
+                    |trama_izq2     = _whiteborder   |color_izq2     = 000066
+                    |trama_cuerpo2  =                |color_cuerpo2  = 000066
+                    |trama_der2     = _whiteborder   |color_der2     = 000066
+                    |trama_pantalón2=                |color_pantalón2= FFFFFF
+                    |trama_medias2  =                |color_medias2  = 000066
+                    |título2        = [[Club Sportivo Independiente Rivadavia|Independiente]]
+                   }}
+|seccion2        = Datos generales
+|etiqueta3       = {{small|Ciudad o región}}
+|datos3          = {{bandera|Provincia de Mendoza|tamaño=13px}} {{small|[[Provincia de Mendoza|Mendoza]]}}
+|etiqueta4       = {{small|País}}
+|datos4          = {{Bandera|Argentina|tamaño=18px}} {{small|[[Argentina]]}}
+|etiqueta5       = {{small|Otros nombres}}
+|datos5          = {{small|Clásico de los clásicos<br />Clásico del Parque<br />Clásico más clásico<br />Superclásico mendocino}}
+|seccion6        = Estadísticas
+|etiqueta7       = {{small|{{abreviación|Enf.|Enfrentamientos}} oficiales}}
+|datos7          = {{small|268}}
+|etiqueta8       = {{small|Historial ({{abreviación|vict.|victorias}})}}
+|datos8          = {{small|Gimnasia (90)}}<br />{{small|Independiente (90)}} 
+|etiqueta9       = {{small|Primer encuentro}}
+|datos9          = {{small|13 de julio de 1913}}<br />{{small|Gimnasia 0:0 Independiente ([[Federación Mendocina de Football|FMF]])}}
+|etiqueta10      = {{small|Último encuentro}}
+|datos10         = {{small|26 de abril de 2026}}<br />{{small|Independiente 5:1 Gimnasia ([[Primera División de Argentina|PDA]])}}<br />{{small|27 de septiembre de 2026}}<br />{{small|Independiente 2:0 Gimnasia ([[Liga Mendocina de Fútbol|LMF]])}}
+|etiqueta11      = {{small|Mayores goleadas}}
+|datos11         = {{small|5 de agosto de 1928}}<br />{{small|Independiente 6:0 Gimnasia (LMF)}}<br />{{small|9 de abril de 2006}}<br />{{small|Independiente 2:7 Gimnasia (LMF)}}<br />{{small|26 de abril de 2026}}<br />{{small|Independiente 5:1 Gimnasia (PDA)}}
+<!--
+|seccion12       = Jugadores
+|etiqueta13      = {{small|Más encuentros}}
+|datos13         = [[XXX]] {{small|(XX encuentros)}}
+|etiqueta14      = {{small|Más goles}}
+|datos14         = [[XXX]] {{small|(XX goles)}}
+--->
+}}
+
+El '''Clásico mendocino''', popularmente llamado por los mendocinos como el «Clásico de los clásicos», «Clásico del Parque», «Clásico más clásico» o el «Superclásico mendocino», enfrenta a los dos [[Club de fútbol|equipos de fútbol]] más importantes de la [[Mendoza (Argentina)|ciudad capital]] de [[Provincia de Mendoza|Mendoza]]: [[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima]] e [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]].
+
+{| style="margin: 0 auto;"
+| [[Archivo:Escudo Club Atlético Gimnasia y Esgrima Mendoza.png|100px|Gimnasia y Esgrima|link=]]
+| [[Archivo:Escudo del Club Independiente Rivadavia.svg|122px|Independiente Rivadavia|link=]]
+|}
+<br />
+
+== Historia ==
+La cercanía existente entre las canchas de ambos equipos en el [[Parque General San Martín (Mendoza)|Parque General San Martín]], separadas por solo seis cuadras, y la indudable rivalidad producto de un largo historial de encuentros con atractivo popular, además de ser los dos clubes más ganadores de la [[Liga Mendocina de Fútbol]], convirtieron al duelo entre Gimnasia e Independiente en el «Clásico mendocino» de la [[Provincia de Mendoza|provincia cuyana]].
+
+La ''Lepra'' y el ''Lobo'' han logrado jugar en la [[Primera División de Argentina]], participando del antiguo [[Campeonato Nacional de fútbol (Argentina)|Campeonato Nacional]]. Gimnasia lo hizo en [[Campeonato Nacional 1970 (Argentina)|1970]], [[Campeonato Nacional 1971 (Argentina)|1971]], [[Campeonato Nacional 1972 (Argentina)|1972]], [[Campeonato Nacional 1975 (Argentina)|1975]], [[Campeonato Nacional 1978 (Argentina)|1978]], [[Campeonato Nacional 1981 (Argentina)|1981]], [[Campeonato Nacional 1982 (Argentina)|1982]], [[Campeonato Nacional 1983 (Argentina)|1983]] y [[Campeonato Nacional 1984 (Argentina)|1984]], mientras que Independiente tomó parte en [[Campeonato Nacional 1968 (Argentina)|1968]], [[Campeonato Nacional 1973 (Argentina)|1973]], [[Campeonato Nacional 1977 (Argentina)|1977]], [[Campeonato Nacional 1979 (Argentina)|1979]], [[Campeonato Nacional 1980 (Argentina)|1980]] y 1982.
+
+A nivel provincial la ''Lepra'' cosecha 25 títulos (33 títulos si se consideran los 8 ganados en el amateurismo, es decir, antes de ser creada la Liga Mendocina) y el ''Lobo'' cuenta con 20 campeonatos ganados en todo el historial.
+
+{{Imagen múltiple
+| posición_tabla   = center
+| dirección        = horizontal
+| ancho            = 210
+| foto1            = Los Famosos 33 (2008).jpg 
+| texto1           = Aficionados de '''Gimnasia'''. 
+| alineación_texto1= left 
+| foto2            = Hinchada de la Lepra de Mendoza.jpg
+| texto2           = Aficionados de '''Independiente'''.
+| alineación_texto2= left
+}}
+
+=== El primer clásico ===
+El primer clásico que se jugó fue el 3 de julio de 1913, cuando regía la [[Federación Mendocina de Football]] (amateurismo), partido que finalizó 0:0. En ese entonces el nombre de [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]] era el de «Club Atlético Independiente» cuya camiseta era a rayas y sus colores eran [[rojo]], [[verde]] y [[blanco]] y no [[azul]], color que usaría años más tarde.<ref name="Primero">{{cita web |url= http://www.diariouno.com.ar/deportes/Sabias-que...-el-primer-clasico-entre-Independiente-y-Gimnasia-fue-en-1913-20120118-0007.html |título= Sabías que... el primer clásico entre Independiente y Gimnasia fue en 1913 |fechaacceso= 17 de enero de 2013 |año= 2012 |editor= diariouno.com.ar |fechaarchivo= 17 de octubre de 2013 |urlarchivo= https://web.archive.org/web/20131017134101/http://www.diariouno.com.ar/deportes/Sabias-que...-el-primer-clasico-entre-Independiente-y-Gimnasia-fue-en-1913-20120118-0007.html |deadurl= yes }}</ref> Los equipos de ese año formaron así: {{cita|'''Independiente''': ''Linner, Romairone y Oliva; Macías, Capretti y Bossay; Franco, Burotto, Agüero, Barreto y Almados.''<br />'''Gimnasia y Esgrima''': '' Gargaro, Sartori y De Moro; Tregea, Desmery y Sosa; Sguazzini, Fachon, Realines, González y Segura.''}}
+
+El primer clásico jugado una vez creada la [[Liga Mendocina de Fútbol|Liga Mendocina]] (profesionalismo), fue el 1 de octubre de 1922, cuando Gimnasia de visitante derrotó a Independiente por 2:0.<ref name="Primero LMF">{{cita web |url= http://www.rsssf.com/tablesa/arg-mendoza22.html |título= Argentina - Mendoza 1922 |fechaacceso= 17 de enero de 2013 |año= 2011 |editor= rsssf.com |idioma= inglés}}</ref>
+
+=== El primer clásico en Primera División ===
+Las primeras veces que se enfrentaron fueron en los [[Campeonato Nacional de fútbol (Argentina)|Campeonatos Nacionales]], jugaron dos partidos en el [[Campeonato Nacional 1982 (Argentina)|Nacional de 1982]].<ref name="ppd">{{cita web |url= http://www.promiedos.com.ar/historialpartidos.php?equipo1=Gimnasia%20(M)&equipo2=Ind%20Rivadavia |título= Historial Gimnasia (M) vs Ind Rivadavia en Primera |fechaacceso= 16 de enero de 2013 |editor= promedios.com.ar |urlarchivo= https://web.archive.org/web/20120507120634/http://www.promiedos.com.ar/historialpartidos.php?equipo1=Gimnasia%20(M)&equipo2=Ind%20Rivadavia |fechaarchivo= 7 de mayo de 2012 }}</ref>
+
+{| class="wikitable center" style="text-align:center"
+!colspan=6 align=center|Fecha 5
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="190"|Local
+!Resultado
+!width="190"|Visitante
+!width="160"|Estadio
+!Fecha
+|-align=center
+|Gimnasia y Esgrima
+|bgcolor=#D0E7FF|'''2 - 2
+| Independiente Rivadavia
+|[[Estadio Malvinas Argentinas|Ciudad de Mendoza]]
+|7 de marzo
+|}
+<br />
+{| class="wikitable center" style="text-align:center"
+!colspan=6 align=center|Fecha 13
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="190"|Local
+!Resultado
+!width="190"|Visitante
+!width="160"|Estadio
+!Fecha
+|-align=center
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|'''2 - 0
+|Gimnasia y Esgrima
+|[[Estadio Malvinas Argentinas|Ciudad de Mendoza]]
+|25 de abril
+|}
+{{clear}}
+
+=== Actualidad ===
+En 2026, luego de la obtención del título de [[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima]] en la «[[Primera B Nacional]]», el clásico se disputa actualmente en la «[[Primera División de Argentina]]».
+
+== Historial de enfrentamientos ==
+[[Archivo:Gimnasia y Esgrima - Independiente Rivadavia (1923).png|thumb|200px|right|Capitanes: Mauricio Irisarri (del Lobo) y José Portillo (de la Lepra) en 1923.]]
+
+=== En Liga Mendocina de Fútbol ===
+{{AP|Anexo:El Clásico mendocino en Liga Mendocina de Fútbol|l1=El Clásico mendocino en Liga Mendocina de Fútbol}} 
+
+Por [[Liga Mendocina de Fútbol|Liga Mendocina]], [[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima]] supera a [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]], pero sumando los cotejos por competencias nacionales el historial es favorable a la ''Lepra''.
+
+El primer equipo que le ganó a su rival fue Independiente por 2:0 en el año 1914 durante el amateurismo, pero si se considera el profesionalismo a partir de la creación de la Liga Mendocina en 1921, Gimnasia fue el primero en ganar por igual marcador.<ref name="Primero"/><ref name="Primero LMF"/>
+
+La victoria más abultada de Independiente Rivadavia por sobre el ''Lobo'' fue 6:0 (en 1928) y la mayor goleada de Gimnasia y Esgrima a la ''Lepra'' fue 2:7 (en 2006).
+
+=== En torneos oficiales de AFA ===
+[[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]] tiene mayor ventaja en [[Competiciones oficiales del fútbol argentino|torneos de AFA]], con 12 victorias, 4 empates y 3 derrotas. El primer encuentro que disputaron a nivel nacional fue por el [[Campeonato Nacional 1982 (Argentina)|Nacional de 1982]] empatando ambos elencos 2:2.<ref name="ppd"/> Por el [[Torneo Argentino A]], en la [[Torneo Argentino A 2003-04|temporada 2003-04]] y [[Torneo Argentino A 2006-07|2006-07]], Gimnasia no pudo ganar ningún clásico, con el dato de que Independiente lo condenó al ''Lobo'' a bajar de categoría.<ref>{{cita web |url= http://www.diariouno.com.ar/edimpresa/2004/03/29/nota51690.html |título= La Lepra mandó al Lobo al descenso |fechaacceso= 16 de enero de 2013 |año= 2004 |editor= diariouno.com.ar |urlarchivo= https://web.archive.org/web/20141129151902/http://www.diariouno.com.ar/edimpresa/2004/03/29/nota51690.html |fechaarchivo= 29 de noviembre de 2014 }}</ref><ref>{{cita web |url= http://www.diariouno.com.ar/edimpresa/2007/04/22/nota145205.html |título= La Lepra condenó a Gimnasia |fechaacceso= 16 de enero de 2013 |año= 2007 |editor= diariouno.com.ar |urlarchivo= https://web.archive.org/web/20131017134108/http://www.diariouno.com.ar/edimpresa/2007/04/22/nota145205.html |fechaarchivo= 17 de octubre de 2013 }}</ref> Se jugaron 8 partidos en total, Independiente Rivadavia ganó 7 y empataron el partido restante. Por la [[Primera B Nacional]], el ''Lobo'' ganó 3 partidos y la ''Lepra'' 2 encuentros.<ref>{{cita web |url= http://mendozagol.com.ar/nota/14703/se-extiende-la-paternidad |título= Se agiganta la paternidad |fechaacceso= 24 de marzo de 2015 |editor= mendozagol.com.ar |fechaarchivo= 2 de abril de 2015 |urlarchivo= https://web.archive.org/web/20150402110344/http://mendozagol.com.ar/nota/14703/se-extiende-la-paternidad |deadurl= yes }}</ref><ref>{{cita web |url= https://www.diariouno.com.ar/ovacion/futbol/el-lobo-corto-la-racha-y-se-adueno-del-clasico-del-parque-09302018_rJraHuCtm |título= El Lobo cortó la racha y se adueñó del Clásico del Parque |fechaacceso= 30 de septiembre de 2018 |editor= diariouno.com.ar |fechaarchivo= 30 de septiembre de 2018 |urlarchivo= https://web.archive.org/web/20180930224534/https://www.diariouno.com.ar/ovacion/futbol/el-lobo-corto-la-racha-y-se-adueno-del-clasico-del-parque-09302018_rJraHuCtm |deadurl=  }}</ref> En la [[Campeonato de Primera Nacional 2022|temporada 2022]] el ''Blanquinegro'' eliminó al ''Azul'' en segunda fase (cuartos de final) y le imposibilitó seguir peleando por el ascenso.<ref>{{cita web |url= https://www.mendozapost.com/deportes/gimnasia-y-esgrima-independiente-rivadavia-cuartos-final-reducido-primera-nacional/ |título= ¡A semifinales! El Lobo le ganó un clásico histórico a la Lepra y sueña |fechaacceso= 22 de octubre de 2022 |editor= mendozapost.com}}</ref><ref>{{cita web |url= https://www.losandes.com.ar/mas-deportes/en-vivo-con-un-golazo-de-solari-gimnasia-pego-primero-y-le-gana-a-independiente-rivadavia-por-1-0/ |título= Histórico: Gimnasia y Esgrima eliminó a Independiente Rivadavia y se metió en las semifinales de la Primera Nacional |fechaacceso= 23 de octubre de 2022 |editor= losandes.com.ar |fechaarchivo= 25 de octubre de 2022 |urlarchivo= https://web.archive.org/web/20221025123359/https://www.losandes.com.ar/mas-deportes/en-vivo-con-un-golazo-de-solari-gimnasia-pego-primero-y-le-gana-a-independiente-rivadavia-por-1-0/ |deadurl=  }}</ref> En [[Copa Argentina (fútbol)|Copa Argentina]] se enfrentaron en una ocasión, con triunfo del ''Azul''.<ref>{{cita web |url= https://www.diariouno.com.ar/futbol/gimnasia-y-esgrima-e-independiente-rivadavia-se-miden-copa-argentina-n998666 |título= Independiente Rivadavia le ganó el Clásico del Parque a Gimnasia y Esgrima |fechaacceso= 24 de febrero de 2022 |editor= diariouno.com.ar |fechaarchivo= 24 de febrero de 2022 |urlarchivo= https://web.archive.org/web/20220224033310/https://www.diariouno.com.ar/futbol/gimnasia-y-esgrima-e-independiente-rivadavia-se-miden-copa-argentina-n998666 |deadurl=  }}</ref> En [[Primera División de Argentina|Primera División]], la ''Lepra'' ganó el hasta ahora único partido jugado.<ref>{{cita web |url= https://www.diariouno.com.ar/ovacion/futbol/independiente-rivadavia-y-gimnasia-y-esgrima-se-enfrentan-el-gargantini-un-esperado-clasico-n1549865 |título= Independiente Rivadavia, gigante: goleó a Gimnasia y Esgrima en el clásico y sigue firme arriba |fechaacceso= 26 de abril de 2026 |editor= diariouno.com.ar}}</ref>
+
+==== Cronología de resultados ====
+{| class="wikitable" style="width: 100%; margin: 0 left; font-size: 11px; white-space: nowrap;"
+|-
+! width=2%|#!! class="unsortable" width=6%|Fecha!! width=8%|Torneo!! width=8%|Local!! width=2%|Resultado!! width=8%|Visitante !! width=6%|Estadio
+|- style="text-align:center;"
+| 1 ||7 de marzo de 1982||[[Campeonato Nacional de fútbol (Argentina)|Campeonato Nacional]]||Gimnasia y Esgrima||style="color:#000000; background:#C0C0C0"|'''2–2'''||Independiente Rivadavia||[[Estadio Malvinas Argentinas|Ciudad de Mendoza]]
+|- style="text-align:center;"
+| 2 ||25 de abril de 1982||Campeonato Nacional||'''Independiente Rivadavia'''||style="color:#ffffff; background:#000066"|'''2–0'''||Gimnasia y Esgrima||Ciudad de Mendoza
+|- style="text-align:center;"
+| 3 ||1 de marzo de 1987||[[Torneo del Interior (1986-1995)|Torneo del Interior]]||Gimnasia y Esgrima||style="color:#000000; background:#C0C0C0"|'''0–0'''||Independiente Rivadavia||n/a
+|- style="text-align:center;"
+| 4 ||2 de mayo de 1987||Torneo del Interior||Independiente Rivadavia||style="color:#000000; background:#C0C0C0"|'''1–1'''||Gimnasia y Esgrima||n/a
+|- style="text-align:center;"
+| 5 ||14 de septiembre de 2003||[[Torneo Argentino A]]||'''Independiente Rivadavia'''||style="color:#ffffff; background:#000066"|'''3–0'''||Gimnasia y Esgrima||[[Estadio Malvinas Argentinas|Malvinas Argentinas]]
+|- style="text-align:center;"
+| 6 ||19 de octubre de 2003||Torneo Argentino A||Gimnasia y Esgrima||style="color:#ffffff; background:#000066"|'''3–4'''||'''Independiente Rivadavia'''||Malvinas Argentinas
+|- style="text-align:center;"
+| 7 ||22 de febrero de 2004||Torneo Argentino A||Gimnasia y Esgrima||style="color:#ffffff; background:#000066"|'''0–3'''||'''Independiente Rivadavia'''||Malvinas Argentinas
+|- style="text-align:center;"
+| 8 ||28 de marzo de 2004||Torneo Argentino A||'''Independiente Rivadavia'''||style="color:#ffffff; background:#000066"|'''1–0'''||Gimnasia y Esgrima||Malvinas Argentinas
+|- style="text-align:center;"
+| 9 ||17 de septiembre de 2006||Torneo Argentino A||Gimnasia y Esgrima||style="color:#000000; background:#C0C0C0"|'''1–1'''||Independiente Rivadavia||Malvinas Argentinas
+|- style="text-align:center;"
+| 10 ||4 de noviembre de 2006||Torneo Argentino A||'''Independiente Rivadavia'''||style="color:#ffffff; background:#000066"|'''1–0'''||Gimnasia y Esgrima||[[Estadio Bautista Gargantini|Bautista Gargantini]]
+|- style="text-align:center;"
+| 11 ||6 de marzo de 2007||Torneo Argentino A||'''Independiente Rivadavia'''||style="color:#ffffff; background:#000066"|'''3–1'''||Gimnasia y Esgrima||Bautista Gargantini
+|- style="text-align:center;"
+| 12 ||21 de abril de 2007||Torneo Argentino A||Gimnasia y Esgrima||style="color:#ffffff; background:#000066"|'''1–2'''||'''Independiente Rivadavia'''||Malvinas Argentinas
+|- style="text-align:center;"
+| 13 ||24 de marzo de 2015||[[Primera B Nacional]]||Gimnasia y Esgrima||style="color:#ffffff; background:#000066"|'''1–3'''||'''Independiente Rivadavia'''||[[Estadio Víctor Antonio Legrotaglie|Víctor A. Legrotaglie]]
+|- style="text-align:center;"
+| 14 ||11 de agosto de 2015||Primera B Nacional||'''Independiente Rivadavia'''||style="color:#ffffff; background:#000066"|'''4–2'''||Gimnasia y Esgrima||Bautista Gargantini
+|- style="text-align:center;"
+| 15 ||30 de septiembre de 2018||Primera B Nacional||'''Gimnasia y Esgrima'''||style="color:#ffffff; background:#000000"|'''1–0'''||Independiente Rivadavia||Víctor A. Legrotaglie
+|- style="text-align:center;"
+| 16 ||23 de febrero de 2022||[[Copa Argentina (fútbol)|Copa Argentina]]||'''Independiente Rivadavia'''||style="color:#ffffff; background:#000066"|'''2–0'''||Gimnasia y Esgrima||Malvinas Argentinas
+|- style="text-align:center;"
+| 17 ||3 de julio de 2022||[[Primera B Nacional|Primera Nacional]]||'''Gimnasia y Esgrima'''||style="color:#ffffff; background:#000000"|'''2–0'''||Independiente Rivadavia||Víctor A. Legrotaglie
+|- style="text-align:center;"
+| 18 ||22 de octubre de 2022||Primera Nacional||'''Gimnasia y Esgrima'''||style="color:#ffffff; background:#000000"|'''1–0'''||Independiente Rivadavia||Víctor A. Legrotaglie
+|- style="text-align:center;"
+| 19 ||26 de abril de 2026||[[Primera División de Argentina|Primera División]]||'''Independiente Rivadavia'''||style="color:#ffffff; background:#000066"|'''5–1'''||Gimnasia y Esgrima||Bautista Gargantini
+|}
+
+=== En amistosos ===
+El 21 de enero de 2012 como conmemoración de los 99 años del 24 de enero de la entidad ''Azul'', estos dos equipos se volvieron a enfrentar luego de 4 años y medio. El partido se jugó en el [[Estadio Bautista Gargantini]] ante más de 12 000 personas y finalizó 0:0. El encuentro se definió por penales a favor de [[Club Sportivo Independiente Rivadavia|Independiente]] por 3:1 ya que contó con la destacada actuación de su arquero [[Josué Ayala]], que contuvo 3 penales.<ref>{{cita web |url= http://www.losandes.com.ar/article/ayala-como-estandarte-lepra-festejo-tras-penales-619608 |título= Con Ayala como estandarte, la Lepra festejó tras los penales |fechaacceso= 1 de mayo de 2015 |año= 2012 |editor= losandes.com.ar |urlarchivo= https://web.archive.org/web/20160304211015/http://www.losandes.com.ar/article/ayala-como-estandarte-lepra-festejo-tras-penales-619608 |fechaarchivo= 4 de marzo de 2016 }}</ref>
+
+En enero de 2022, tanto la ''Lepra'' como el ''Lobo'', fueron invitados a participar en el torneo de verano [[uruguay]]o «[[Serie Río de La Plata]]» en el marco de la «Copa 90 años de fútbol profesional». El partido tuvo lugar en el [[Estadio Luis Franzini]] donde Gimnasia se impuso por 3:1 ante Independiente en los [[Tanda de penaltis|penales]] tras igualar 0:0 en los noventa minutos reglamentarios.<ref>{{cita web |url= https://www.losandes.com.ar/mas-deportes/gimnasia-festejo-en-el-clasico-ante-la-lepra-y-es-finalista-en-uruguay/ |título= Gimnasia festejó en el clásico ante la Lepra y es finalista en Uruguay |fechaacceso= 31 de enero de 2022 |año= 2022 |editor= losandes.com.ar |fechaarchivo= 31 de enero de 2022 |urlarchivo= https://web.archive.org/web/20220131043839/https://www.losandes.com.ar/mas-deportes/gimnasia-festejo-en-el-clasico-ante-la-lepra-y-es-finalista-en-uruguay/ |deadurl=  }}</ref>
+
+==== Cronología de resultados ====
+{| class="wikitable" style="width:100%; margin:0 left; font-size: 11px; white-space: nowrap;"
+|-
+! width=2%|#!! class="unsortable" width=6% | Fecha !! width=8%|Torneo!! width=8%|Local !! width=2%|Resultado !! width=8%|Visitante !! width=8%|Estadio
+|- style="text-align:center;"
+| 1 ||12 de octubre de 1942|| ||'''Independiente Rivadavia'''||style="color:#ffffff; background:#000066"|'''2–1'''||Gimnasia y Esgrima||
+|- style="text-align:center;"
+| 2 ||26 de noviembre de 1952||Triangular Nocturno||Gimnasia y Esgrima||style="color:#ffffff; background:#000066"|'''0–3'''||'''Independiente Rivadavia'''||
+|- style="text-align:center;"
+| 3 ||21 de enero de 2012||Copa Centenario||'''Independiente Rivadavia'''||style="color:#ffffff; background:#000066"|'''<small>(3)</small> 0–0 <small>(1)</small>'''||Gimnasia y Esgrima||[[Estadio Bautista Gargantini|Bautista Gargantini]]
+|- style="text-align:center;"
+| 4 ||30 de enero de 2022||{{abreviación|Copa 90 años de fútbol profesional|Serie Río de La Plata}}||Independiente Rivadavia||style="color:#ffffff; background:#000000"|'''<small>(1)</small> 0–0 <small>(3)</small>'''||'''Gimnasia y Esgrima'''||[[Estadio Luis Franzini|Luis Franzini]]
+|}
+
+=== Resumen estadístico ===
+{|width=100%
+|width=65%|
+{|align=center border=1 cellpadding="2" cellspacing="0" style="background: #f9f9f9; border: 2px #000 solid; border-collapse: collapse; font-size: 90%; text-align: center;"
+|+ <small><span style="color:red">Estadísticas hasta el {{fecha|27|09|2026}}.</span></small>
+|- align=center bgcolor=#006690 style="color:white;"
+! width=40%|Liga/Copa
+! width=10% style="cursor:help;" title="Partidos Jugados"|PJ
+! width=10% style="cursor:help;" title="Ganador Gimnasia y Esgrima"|GGE
+! width=10% style="cursor:help;" title="Empates"|E
+! width=10% style="cursor:help;" title="Ganador Independiente Rivadavia"|GIR
+! width=10% style="cursor:help;" title="Goles de Gimnasia y Esgrima"|GolGE
+! width=10% style="cursor:help;" title="Goles de Independiente Rivadavia"|GolIR
+|- align=center bgcolor=#FFFFFF
+|'''[[Primera División de Argentina|Primera División]]''' || 1 || 0 || 0 || 1 || 1 || 5
+|- align=center bgcolor=#FFFFFF
+|'''[[Campeonato Nacional de fútbol (Argentina)|Campeonato Nacional]]''' || 2 || 0 || 1 || 1 || 2 || 4
+|- align=center bgcolor=#FFFFFF
+|'''[[Copa Argentina (fútbol)|Copa Argentina]]''' || 1 || 0 || 0 || 1 || 0 || 2
+|- align=center bgcolor=#FFFFFF
+|'''[[Primera B Nacional|Primera Nacional]]''' || 5 || 3 || 0 || 2 || 7 || 7
+|- align=center bgcolor=#FFFFFF
+|'''[[Torneo Argentino A]]''' || 8 || 0 || 1 || 7 || 6 || 18
+|- align=center bgcolor=#FFFFFF
+|'''[[Torneo del Interior (1986-1995)|Torneo del Interior]]''' || 2 || 0 || 2 || 0 || 1 || 1
+|- align=center bgcolor=#FFFFFF
+|'''[[Liga Mendocina de Fútbol|Liga Mendocina]]''' || 242 || 83 || 83 || 76 || 303 || 297
+|- align=center bgcolor=#FFFFFF
+|'''Copa Competencia'''<ref group="n.">La Copa Competencia fue un torneo oficial, no regular, que se disputó en los años 1923, 1924, 1925, 1926, 1927, 1929, 1932, 1933 y 1938 a nivel [[Provincia de Mendoza|provincial]].</ref> || 7 || 4 || 1 || 2 || 6 || 7
+|- align=center bgcolor=#E0FFFF
+|'''TOTAL (Oficial)''' || '''268''' || '''90''' || '''88''' || '''90''' || '''326''' || '''341'''
+|- align=center bgcolor=#FFFFFF
+|'''[[Copa Hermandad]]<ref group="n.">La Copa Hermandad fue un torneo nacional no oficial y no regular que se jugó únicamente en 1977.</ref>''' || 1 || 0 || 0 || 1 || 0 || 1
+|- align=center bgcolor=#FFFFFF
+|'''Federación/Unión Mendocina<ref group="n.">La Federación y Unión Mendocina de Football fueron las precursoras de la actual Liga Mendocina de Fútbol, en la era amateur, entre los años 1913 y 1921.</ref>''' || 18 || 4 || 3 || 11 || 20 || 36
+|- align=center bgcolor=#FFFFFF
+|'''Copa Competencia (1917-1921)''' || 5 || 1 || 1 || 3 || 4 || 7 
+|- align=center bgcolor=#FFFFFF
+|'''Campeonato de Honor'''<ref group="n.">El Campeonato de Honor fue un torneo no oficial y no regular, que se disputó en 1936 a nivel provincial.</ref> || 1 || 0 || 0 || 1 || 0 || 2
+|- align=center bgcolor=#FFFFFF
+|'''Torneo Preparación'''<ref group="n.">El Torneo Preparación fue un torneo no oficial y no regular, que se disputó en los años 1942, 1945, 1946, 1949, 1950 y 1956 a nivel provincial.</ref> || 3 || 1 || 0 || 2 || 7 || 8
+|- align=center bgcolor=#FFFFFF
+|'''Torneo de Verano'''<ref group="n.">El Torneo de Verano fue un torneo no oficial y no regular, que se disputó en 1963-64, 1965 y 1966 a nivel provincial.</ref> || 2 || 2 || 0 || 0 || 9 || 2
+|- align=center bgcolor=#FFFFFF
+|'''Copa Vendimia'''<ref group="n.">La Copa Vendimia, también llamada Torneo Vendimia, es un torneo no oficial y no regular, que se disputa generalmente en los meses de julio o febrero a nivel provincial.</ref> || 21 || 10 || 4 || 7 || 29 || 28
+|- align=center bgcolor=#FFFFFF
+|'''Amistosos''' || 4 || 0 || 2 || 2 || 1 || 5
+|- align=center bgcolor=#D0E7FF
+|'''TOTAL (No oficial)''' || '''323''' || '''108'''|| '''98''' || '''117''' || '''396''' || '''430'''
+|}
+|width=35%|
+{|
+|align=center|'''PJ''': Partidos jugados
+|-
+|align=center|'''GGE''': Ganador Gimnasia y Esgrima
+|-
+|align=center|'''E''': Empates
+|-
+|align=center|'''GIR''': Ganador Independiente Rivadavia
+|-
+|align=center|'''GolGE''': Goles de Gimnasia y Esgrima
+|-
+|align=center|'''GolIR''': Goles de Independiente Rivadavia
+|}
+|}
+<small>'''Nota''': Datos obtenidos y recopilados de [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].<ref>{{cita web |url= https://www.rsssf.org/tablesg/gyeindriv.html |título= Gimnasia y Esgrima v Independiente Rivadavia - Mendoza Derby |fechaacceso= 2 de agosto de 2023 |autor= Ciullini, Pablo |editor= rsssf.com |idioma= inglés}}</ref></small>
+
+== Véase también ==
+* [[Clásicos del fútbol argentino]]
+* [[Anexo:El Clásico mendocino en Liga Mendocina de Fútbol|El Clásico mendocino en Liga Mendocina de Fútbol]]
+* [[Anexo:Fútbol en Mendoza|Fútbol en Mendoza]]
+* [[Liga Mendocina de Fútbol]]
+
+== Notas ==
+{{Listaref|grupo="n."}}
+
+== Referencias ==
+{{listaref|2}}
+
+== Enlaces externos ==
+* [https://web.archive.org/web/20120123030544/http://www.diariouno.com.ar/deportes/Todos-al-parque-la-Lepra-y-el-Lobo-se-miden-en-el-clasico-mas-clasico-20120121-0003.html Clásico mendocino] en [[Diario Uno (Mendoza)|Diario Uno]]
+* [https://www.mendozapost.com/nota/101142-este-es-el-verdadero-historial-completo-entre-el-lobo-y-la-lepra/ Clásico mendocino] en [[MendozaPost]]
+* [https://www.rsssf.org/tablesg/gyeindriv.html Clásico mendocino] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]]
+* [http://www.rsssf.com/tablesa/arg-mendozachamp.html Liga Mendocina de Fútbol] en RSSSF
+
+{{ORDENAR:Mendocino}}
+
+[[Categoría:Clásicos de fútbol de Argentina]]
+[[Categoría:Club Atlético Gimnasia y Esgrima (Mendoza)]]
+[[Categoría:Club Sportivo Independiente Rivadavia]]
+[[Categoría:Deporte en la Ciudad de Mendoza]]
+
+{{Control de autoridades}}
