@@ -1,5 +1,5 @@
 """Build the datasets used by football/rivalries: every match of the great rivalries between the biggest clubs of
-Argentina, Uruguay, Brazil, England, Spain, Italy, France and Germany.
+Argentina, Uruguay, Brazil, England, Spain, Italy, France, Germany, Mexico, MLS, Colombia and Chile.
 
 Each country has its own source module (scripts/rivalries_<country>.py). The sources are Wikipedia (CC BY-SA 4.0)
 in English, Spanish, Portuguese and Italian, RSSSF's head-to-head lists, engsoccerdata's English results and
@@ -21,6 +21,7 @@ import argparse
 import json
 import sys
 
+import rivalries_americas as AM
 import rivalries_argentina as AR
 import rivalries_brazil as BR
 import rivalries_england as EN
@@ -88,6 +89,20 @@ COLORS = {
     "botafogo-vasco": ("#ce9707", "#824fcf", "#b68611", "#824fcf"),
     "internacional-gremio": ("#d33a3c", "#0a96d6", "#e54c4a", "#0a96d6"),
     "cruzeiro-atletico": ("#245fd4", "#ce9707", "#245fd4", "#b68611"),
+    # Mexico, MLS, Colombia and Chile reuse validated pairs; black-and-white clubs take gold or purple, as Botafogo and Corinthians do.
+    "america-guadalajara": ("#ce9707", "#d33a3c", "#b68611", "#b71824"),
+    "america-cruz-azul": ("#ce9707", "#245fd4", "#b68611", "#245fd4"),
+    "america-pumas": ("#ce9707", "#824fcf", "#b68611", "#824fcf"),
+    "monterrey-tigres": ("#245fd4", "#ce9707", "#245fd4", "#b68611"),
+    "galaxy-lafc": ("#245fd4", "#ce9707", "#245fd4", "#b68611"),
+    "seattle-portland": ("#067e3f", "#ce9707", "#05ab58", "#996f09"),
+    "red-bulls-nycfc": ("#d33a3c", "#0a96d6", "#e54c4a", "#0a96d6"),
+    "nacional-medellin": ("#067e3f", "#fd736d", "#029d50", "#b71824"),
+    "america-deportivo-cali": ("#fd736d", "#067e3f", "#b71824", "#029d50"),
+    "nacional-millonarios": ("#067e3f", "#824fcf", "#098b47", "#824fcf"),
+    "colo-colo-u-de-chile": ("#ce9707", "#245fd4", "#b68611", "#245fd4"),
+    "colo-colo-catolica": ("#ce9707", "#245fd4", "#b68611", "#245fd4"),
+    "u-de-chile-catolica": ("#215cd0", "#079de0", "#1e59cd", "#1499da"),
 }
 
 GROUPS = [
@@ -108,6 +123,11 @@ GROUPS = [
     {"id": "bra-rj", "country": "BRA", "name": "Brazil", "region": "Rio de Janeiro", "label": "Rio's big four"},
     {"id": "bra-rs", "country": "BRA", "name": "Brazil", "region": "Rio Grande do Sul", "label": ""},
     {"id": "bra-mg", "country": "BRA", "name": "Brazil", "region": "Minas Gerais", "label": ""},
+    {"id": "mex", "country": "MEX", "name": "Mexico", "region": "The big four", "label": "Mexico's big four"},
+    {"id": "mex-mty", "country": "MEX", "name": "Mexico", "region": "Monterrey", "label": ""},
+    {"id": "usa", "country": "USA", "name": "MLS", "label": ""},
+    {"id": "col", "country": "COL", "name": "Colombia", "label": ""},
+    {"id": "chi", "country": "CHI", "name": "Chile", "label": "Chile's big three"},
 ]
 
 
@@ -162,6 +182,26 @@ ARSENAL = {"id": "arsenal", "name": "Arsenal", "short": "Arsenal"}
 CHELSEA = {"id": "chelsea", "name": "Chelsea", "short": "Chelsea"}
 CITY = {"id": "manchester-city", "name": "Manchester City", "short": "City"}
 SPURS = {"id": "tottenham-hotspur", "name": "Tottenham Hotspur", "short": "Spurs"}
+AMERICA = {"id": "club-america", "name": "América", "short": "América"}
+CHIVAS = {"id": "guadalajara", "name": "Guadalajara", "short": "Chivas"}
+CRUZ_AZUL = {"id": "cruz-azul", "name": "Cruz Azul", "short": "Cruz Azul"}
+PUMAS = {"id": "pumas-unam", "name": "Pumas UNAM", "short": "Pumas"}
+MONTERREY = {"id": "monterrey", "name": "Monterrey", "short": "Monterrey"}
+TIGRES = {"id": "uanl", "name": "Tigres UANL", "short": "Tigres"}
+GALAXY = {"id": "la-galaxy", "name": "LA Galaxy", "short": "Galaxy"}
+LAFC = {"id": "los-angeles-fc", "name": "LAFC", "short": "LAFC"}
+SEATTLE = {"id": "seattle-sounders-fc", "name": "Seattle Sounders", "short": "Seattle"}
+PORTLAND = {"id": "portland-timbers", "name": "Portland Timbers", "short": "Portland"}
+RED_BULLS = {"id": "new-york-red-bulls", "name": "New York Red Bulls", "short": "Red Bulls"}
+NYCFC = {"id": "new-york-city-fc", "name": "New York City FC", "short": "NYCFC"}
+NACIONAL_CO = {"id": "atletico-nacional", "name": "Atlético Nacional", "short": "Nacional"}
+MEDELLIN = {"id": "independiente-medellin", "name": "Independiente Medellín", "short": "Medellín"}
+AMERICA_CALI = {"id": "america-de-cali", "name": "América de Cali", "short": "América"}
+DEPORTIVO_CALI = {"id": "deportivo-cali", "name": "Deportivo Cali", "short": "Cali"}
+MILLONARIOS = {"id": "millonarios", "name": "Millonarios", "short": "Millonarios"}
+COLO_COLO = {"id": "colo-colo", "name": "Colo-Colo", "short": "Colo-Colo"}
+U_DE_CHILE = {"id": "universidad-de-chile", "name": "Universidad de Chile", "short": "La U"}
+CATOLICA = {"id": "universidad-catolica", "name": "Universidad Católica", "short": "Católica"}
 
 # The last number is the official matches through October 2026. A rebuild that finds fewer means a source
 # changed shape: fail and keep the previous data rather than publish a shorter history.
@@ -259,6 +299,28 @@ RIVALRIES += [
     BRA("botafogo-vasco", "Clássico da Amizade", "bra-rj", BOTAFOGO, VASCO, 311),
     BRA("internacional-gremio", "Grenal", "bra-rs", INTERNACIONAL, GREMIO, 379),
     BRA("cruzeiro-atletico", "Clássico Mineiro", "bra-mg", CRUZEIRO, ATLETICO, 518),
+]
+
+
+# Mexico, MLS, Colombia and Chile: counts through October 2026 (summaries check their published totals).
+RIVALRIES += [
+    R("america-guadalajara", "Súper Clásico", "América vs Guadalajara", "mex", AMERICA, CHIVAS, AM.build_super_clasico, 223, leaders=False),
+    R("america-cruz-azul", "Clásico Joven", "América vs Cruz Azul", "mex", AMERICA, CRUZ_AZUL, AM.build_clasico_joven, 181, leaders=False),
+    R("america-pumas", "Clásico Capitalino", "América vs Pumas UNAM", "mex", AMERICA, PUMAS, AM.build_capitalino, 145, leaders=False),
+    R("monterrey-tigres", "Clásico Regiomontano", "Monterrey vs Tigres UANL", "mex-mty", MONTERREY, TIGRES, AM.build_regiomontano, 129, leaders=False),
+    R("galaxy-lafc", "El Tráfico", "LA Galaxy vs LAFC", "usa", GALAXY, LAFC, AM.build_trafico, 28, leaders=False),
+    R("seattle-portland", "Cascadia rivalry", "Seattle Sounders vs Portland Timbers", "usa", SEATTLE, PORTLAND, AM.build_cascadia, 126, leaders=False),
+    R("red-bulls-nycfc", "Hudson River Derby", "New York Red Bulls vs New York City FC", "usa", RED_BULLS, NYCFC, AM.build_hudson, 32, leaders=False),
+    R("nacional-medellin", "Clásico Paisa", "Atlético Nacional vs Independiente Medellín", "col", NACIONAL_CO, MEDELLIN, AM.build_paisa, 344, leaders=False),
+    R("america-deportivo-cali", "Clásico Vallecaucano", "América de Cali vs Deportivo Cali", "col", AMERICA_CALI, DEPORTIVO_CALI,
+      AM.build_vallecaucano, 346, leaders=False),
+    R("nacional-millonarios", "Nacional vs Millonarios", "Atlético Nacional vs Millonarios", "col", NACIONAL_CO, MILLONARIOS,
+      AM.build_nacional_millonarios, 303, leaders=False),
+    R("colo-colo-u-de-chile", "Superclásico", "Colo-Colo vs Universidad de Chile", "chi", COLO_COLO, U_DE_CHILE, AM.build_superclasico_chile, 249,
+      leaders=False),
+    R("colo-colo-catolica", "Colo-Colo vs Católica", "Colo-Colo vs Universidad Católica", "chi", COLO_COLO, CATOLICA, AM.build_colo_uc, 188),
+    R("u-de-chile-catolica", "Clásico Universitario", "Universidad de Chile vs Universidad Católica", "chi", U_DE_CHILE, CATOLICA,
+      AM.build_universitario, 203),
 ]
 
 

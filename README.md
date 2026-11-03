@@ -123,7 +123,7 @@ The Argentine page's format for ten more countries, one page each with a shared 
 
 ### ⚔️ [Great Rivalries](https://angelmza1990.github.io/sports-stats-mvp/football/rivalries/)
 
-54 rivalries between the biggest clubs of eight countries, picked by country: Argentina's big five (River, Boca, Independiente, Racing, San Lorenzo) and its derbies of Rosario, Santa Fe, Córdoba and the south of Buenos Aires, Uruguay's Peñarol vs Nacional, Brazil's big four of São Paulo and of Rio, the Grenal and the Clássico Mineiro, England's big six, Juventus, Inter and Milan, Spain's big three (Real Madrid, Barcelona, Atlético), the Seville derby and the Derbi de la Comunitat, Le Classique and Der Klassiker. For each one:
+67 rivalries between the biggest clubs of twelve countries, picked by country: Argentina's big five (River, Boca, Independiente, Racing, San Lorenzo) and its derbies of Rosario, Santa Fe, Córdoba and the south of Buenos Aires, Uruguay's Peñarol vs Nacional, Brazil's big four of São Paulo and of Rio, the Grenal and the Clássico Mineiro, England's big six, Juventus, Inter and Milan, Spain's big three (Real Madrid, Barcelona, Atlético), the Seville derby and the Derbi de la Comunitat, Le Classique and Der Klassiker, Mexico's big four (América, Guadalajara, Cruz Azul, Pumas) and the Clásico Regiomontano, MLS's El Tráfico, Cascadia rivalry and Hudson River Derby, Colombia's Clásico Paisa, Clásico Vallecaucano and Nacional vs Millonarios, and Chile's big three (Colo-Colo, Universidad de Chile, Universidad Católica). For each one:
 
 - **The lead, match by match:** a line of wins minus losses after every official match, with each side's biggest lead
 - **Competition by competition:** league, state championships, domestic cups, super cups and international competitions
@@ -191,6 +191,19 @@ The Argentine page's format for ten more countries, one page each with a shared 
 | Juventus vs Milan: Juventus vs Milan | Italy | 247 | 94 | 82 | 71 |
 | Le Classique: Paris Saint-Germain vs Marseille | France | 113 | 54 | 24 | 35 |
 | Der Klassiker: Bayern Munich vs Borussia Dortmund | Germany | 140 | 70 | 37 | 33 |
+| Súper Clásico: América vs Guadalajara | Mexico | 223 | 82 | 71 | 70 |
+| Clásico Joven: América vs Cruz Azul | Mexico | 181 | 66 | 63 | 52 |
+| Clásico Capitalino: América vs Pumas UNAM | Mexico | 145 | 53 | 57 | 35 |
+| Clásico Regiomontano: Monterrey vs Tigres UANL | Mexico | 129 | 41 | 41 | 47 |
+| El Tráfico: LA Galaxy vs LAFC | United States | 28 | 10 | 8 | 10 |
+| Cascadia rivalry: Seattle Sounders vs Portland Timbers | United States | 126 | 56 | 22 | 48 |
+| Hudson River Derby: New York Red Bulls vs New York City FC | United States | 32 | 16 | 4 | 12 |
+| Clásico Paisa: Atlético Nacional vs Independiente Medellín | Colombia | 344 | 137 | 110 | 97 |
+| Clásico Vallecaucano: América de Cali vs Deportivo Cali | Colombia | 346 | 108 | 111 | 127 |
+| Nacional vs Millonarios: Atlético Nacional vs Millonarios | Colombia | 303 | 86 | 102 | 115 |
+| Superclásico: Colo-Colo vs Universidad de Chile | Chile | 249 | 112 | 71 | 66 |
+| Colo-Colo vs Católica¹: Colo-Colo vs Universidad Católica | Chile | 188 | 82 | 51 | 55 |
+| Clásico Universitario¹: Universidad de Chile vs Universidad Católica | Chile | 203 | 77 | 63 | 63 |
 
 ¹ No source lists every match, so the page shows the head-to-head totals the source publishes, its knockout ties and finals and the latest matches.
 ² The source lists every meeting without its competition, so friendlies are included.
@@ -330,7 +343,7 @@ python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, Engl
 python3 scripts/build_football_people.py --refresh  # football: coaches and players (after the two above)
 python3 scripts/build_team_coaches.py         # winning coaches of the team sports (only new editions are looked up)
 python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
-python3 scripts/build_rivalries.py --refresh  # football: the 54 great rivalries, match by match
+python3 scripts/build_rivalries.py --refresh  # football: the 67 great rivalries, match by match
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_tc2000.py --refresh     # motorsport: TC2000
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)

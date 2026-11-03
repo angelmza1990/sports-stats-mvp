@@ -6,9 +6,9 @@
   const index = await d3.json("data/index.json");
   const byId = new Map(index.rivalries.map((r) => [r.id, r]));
   const COLOR = { a: "var(--team-a)", b: "var(--team-b)", d: "var(--draw)" };
-  const STAGES = [["league", "League"], ["local", "Local leagues"], ["state", "State championships"], ["regional", "Interstate tournaments"], ["cup", "Domestic cups"],
+  const STAGES = [["league", "League"], ["local", "Local leagues"], ["state", "State championships"], ["regional", "Interstate tournaments"], ["playoff", "Playoffs"], ["cup", "Domestic cups"],
     ["super", "Super cups"], ["intl", "International"], ["all", "Every meeting"]];
-  const COUNTRIES = ["ARG", "URU", "BRA", "ENG", "ESP", "ITA", "FRA", "GER"].filter((c) => index.groups.some((g) => g.country === c));
+  const COUNTRIES = ["ARG", "URU", "BRA", "ENG", "ESP", "ITA", "FRA", "GER", "MEX", "USA", "COL", "CHI"].filter((c) => index.groups.some((g) => g.country === c));
   const fmtDate = d3.utcFormat("%-d %b %Y");
   const fmtMonth = d3.utcFormat("%b %Y");
   const parse = d3.utcParse("%Y-%m-%d");
@@ -187,10 +187,12 @@
     const list = index.rivalries.filter((r) => r.group === g.id);
     const clubs = [...new Set(list.flatMap((r) => r.teams.map((t) => t.id)))];
     const section = document.getElementById("group");
-    section.hidden = clubs.length < 3;
+    const pairing = (x, y) => list.find((r) => r.teams.some((t) => t.id === x) && r.teams.some((t) => t.id === y));
+    // Only groups where every club meets every other (a big three or five), not groups of separate derbies.
+    const complete = clubs.every((x) => clubs.every((y) => x === y || pairing(x, y)));
+    section.hidden = clubs.length < 3 || !complete;
     if (section.hidden) return;
     document.getElementById("group-title").textContent = `${g.label}, everyone against everyone`;
-    const pairing = (x, y) => list.find((r) => r.teams.some((t) => t.id === x) && r.teams.some((t) => t.id === y));
     const fromRow = (r, row) => (r.teams[0].id === row ? { w: r.record.a, d: r.record.d, l: r.record.b } : { w: r.record.b, d: r.record.d, l: r.record.a });
     const totals = new Map(clubs.map((c) => {
       const t = { w: 0, d: 0, l: 0 };
