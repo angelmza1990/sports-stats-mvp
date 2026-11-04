@@ -1,4 +1,4 @@
-/* National league champions (Serie A, La Liga, English top flight, Ligue 1, Bundesliga, Brasileirão).
+/* National league champions (Europe and the Americas: Serie A, La Liga, the Primeira Liga, the Brasileirão, Uruguay, Peru...).
    The page sets data-src. data.meta.eras holds at most one "modern era" split (e.g. the Premier League since 1992). */
 (async function () {
   "use strict";
@@ -34,7 +34,13 @@
   } else {
     tiles.push({ label: "Different champions", value: String(counts.size), detail: `${d3.sum(counts.values(), (n) => n === 1)} won it once` });
   }
-  tiles.push({ label: "All-time top scorer", value: String(topScorer.goals), detail: topScorer.player });
+  if (topScorer) {
+    tiles.push({ label: "All-time top scorer", value: String(topScorer.goals), detail: topScorer.player });
+  } else {
+    // Leagues with no published all-time scorers list: the player who led the scoring most often.
+    const [player, times] = d3.greatest(d3.rollups(data.scorers, (v) => v.length, (d) => d.player), (d) => d[1]);
+    tiles.push({ label: "Most times top scorer", value: String(times), detail: player });
+  }
   F.statTiles("stats", tiles);
 
   /* ---------- Bar chart race with an era switch ---------- */
@@ -178,7 +184,11 @@
         { label: "Per match", short: "Ratio", cls: "num", render: (d) => (d.matches ? (d.goals / d.matches).toFixed(2) : "–") },
       ], data.alltimeScorers),
     };
-    Viz.segmented("scorers-tabs", [{ key: "season", label: "Every season" }, { key: "alltime", label: "All-time scorers" }], "season", (k) => views[k]());
+    if (data.alltimeScorers.length) {
+      Viz.segmented("scorers-tabs", [{ key: "season", label: "Every season" }, { key: "alltime", label: "All-time scorers" }], "season", (k) => views[k]());
+    } else {
+      document.getElementById("scorers-tabs").closest(".controls").remove();
+    }
     views.season();
   })();
 

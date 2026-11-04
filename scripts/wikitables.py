@@ -134,10 +134,9 @@ def parse_table(table: str) -> list[list[dict]]:
             if not s or s.startswith("|+") or s.startswith("|}") or s.startswith("{|"):
                 continue
             if s[0] in "!|":
-                sep = "!!" if s[0] == "!" else "||"
-                for part in split_outside(s[1:], sep):
-                    if s[0] == "!":
-                        part = part
+                # A header line separates its cells with "!!" or "||" ("!4||Name||Goals" is three header cells).
+                parts = [q for p in split_outside(s[1:], "!!") for q in split_outside(p, "||")] if s[0] == "!" else split_outside(s[1:], "||")
+                for part in parts:
                     cells.append((s[0] == "!", part))
             elif cells:
                 head, prev = cells[-1]

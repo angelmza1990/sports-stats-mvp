@@ -21,8 +21,10 @@
       ["football/copa-libertadores/", "Copa Libertadores"], ["football/concacaf-champions-cup/", "CONCACAF Champions Cup"], ["football/world-club-champions/", "World Club Champions"],
       ["football/argentine-primera/", "Argentina"], ["football/serie-a/", "Serie A"], ["football/la-liga/", "La Liga"],
       ["football/premier-league/", "England"], ["football/ligue-1/", "Ligue 1"], ["football/bundesliga/", "Germany"],
-      ["football/brasileirao/", "Brasileirão"], ["football/liga-mx/", "Liga MX"], ["football/mls/", "MLS"],
-      ["football/colombian-primera/", "Colombia"], ["football/chilean-primera/", "Chile"], ["football/rivalries/", "Great Rivalries"],
+      ["football/primeira-liga/", "Portugal"], ["football/brasileirao/", "Brasileirão"], ["football/uruguayan-primera/", "Uruguay"],
+      ["football/paraguayan-primera/", "Paraguay"], ["football/chilean-primera/", "Chile"], ["football/colombian-primera/", "Colombia"],
+      ["football/ecuadorian-serie-a/", "Ecuador"], ["football/peruvian-primera/", "Peru"], ["football/bolivian-primera/", "Bolivia"],
+      ["football/liga-mx/", "Liga MX"], ["football/mls/", "MLS"], ["football/rivalries/", "Great Rivalries"],
     ] },
     { sport: "olympics", label: "Olympics", pages: [
       ["olympics/", "Olympic Games"], ["swimming/olympics/", "Swimming"], ["tennis/olympics/", "Tennis"],

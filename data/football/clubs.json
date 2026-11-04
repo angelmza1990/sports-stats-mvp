@@ -3713,7 +3713,6 @@
    "country": "URU",
    "espn": "2684",
    "aliases": [
-    "Club Nacional",
     "Club Nacional de Football",
     "Nacional"
    ]
@@ -4528,6 +4527,1441 @@
    "aliases": [
     "Independiente Rivadavia",
     "Club Sportivo Independiente Rivadavia"
+   ]
+  },
+  {
+   "id": "associacao-academica-de-coimbra-o-a-f",
+   "name": "Académica de Coimbra",
+   "country": "POR",
+   "espn": "3698",
+   "aliases": [
+    "Académica de Coimbra"
+   ]
+  },
+  {
+   "id": "atletico-clube-de-portugal",
+   "name": "Atlético CP",
+   "country": "POR",
+   "espn": "22051",
+   "aliases": [
+    "Atlético CP",
+    "Atlético Clube de Portugal"
+   ]
+  },
+  {
+   "id": "boavista-f-c",
+   "name": "Boavista",
+   "country": "POR",
+   "espn": "2256",
+   "aliases": [
+    "Boavista"
+   ]
+  },
+  {
+   "id": "c-d-nacional",
+   "name": "Nacional",
+   "country": "POR",
+   "espn": "3472",
+   "aliases": [
+    "Nacional"
+   ]
+  },
+  {
+   "id": "c-f-estrela-da-amadora",
+   "name": "Estrela da Amadora",
+   "country": "POR",
+   "espn": "3715",
+   "aliases": [
+    "C.F. Estrela da Amadora",
+    "Estrela da Amadora"
+   ]
+  },
+  {
+   "id": "c-f-os-belenenses",
+   "name": "Belenenses",
+   "country": "POR",
+   "espn": "3519",
+   "aliases": [
+    "Belenenses"
+   ]
+  },
+  {
+   "id": "c-s-maritimo",
+   "name": "Marítimo",
+   "country": "POR",
+   "espn": "552",
+   "aliases": [
+    "C.S. Marítimo",
+    "Marítimo"
+   ]
+  },
+  {
+   "id": "f-c-barreirense",
+   "name": "Barreirense",
+   "country": "POR",
+   "espn": null,
+   "aliases": [
+    "Barreirense",
+    "F.C. Barreirense"
+   ]
+  },
+  {
+   "id": "f-c-famalicao",
+   "name": "Famalicão",
+   "country": "POR",
+   "espn": "12698",
+   "aliases": [
+    "F.C. Famalicão",
+    "Famalicão"
+   ]
+  },
+  {
+   "id": "f-c-pacos-de-ferreira",
+   "name": "Paços de Ferreira",
+   "country": "POR",
+   "espn": "3713",
+   "aliases": [
+    "F.C. Paços de Ferreira",
+    "Paços de Ferreira"
+   ]
+  },
+  {
+   "id": "g-d-chaves",
+   "name": "Chaves",
+   "country": "POR",
+   "espn": "12705",
+   "aliases": [
+    "Chaves",
+    "G.D. Chaves"
+   ]
+  },
+  {
+   "id": "g-d-estoril-praia",
+   "name": "Estoril",
+   "country": "POR",
+   "espn": "12216",
+   "aliases": [
+    "Estoril",
+    "G.D. Estoril Praia"
+   ]
+  },
+  {
+   "id": "g-d-fabril",
+   "name": "CUF",
+   "country": "POR",
+   "espn": null,
+   "aliases": [
+    "CUF"
+   ]
+  },
+  {
+   "id": "gil-vicente-f-c",
+   "name": "Gil Vicente",
+   "country": "POR",
+   "espn": "3699",
+   "aliases": [
+    "Gil Vicente",
+    "Gil Vicente F.C."
+   ]
+  },
+  {
+   "id": "leixoes-s-c",
+   "name": "Leixões",
+   "country": "POR",
+   "espn": "2543",
+   "aliases": [
+    "Leixões",
+    "Leixões S.C."
+   ]
+  },
+  {
+   "id": "moreirense-f-c",
+   "name": "Moreirense",
+   "country": "POR",
+   "espn": "3696",
+   "aliases": [
+    "Moreirense",
+    "Moreirense F.C."
+   ]
+  },
+  {
+   "id": "portimonense-s-c",
+   "name": "Portimonense",
+   "country": "POR",
+   "espn": "3719",
+   "aliases": [
+    "Portimonense",
+    "Portimonense S.C."
+   ]
+  },
+  {
+   "id": "rio-ave-f-c",
+   "name": "Rio Ave",
+   "country": "POR",
+   "espn": "3822",
+   "aliases": [
+    "Rio Ave",
+    "Rio Ave F.C."
+   ]
+  },
+  {
+   "id": "s-c-beira-mar",
+   "name": "Beira-Mar",
+   "country": "POR",
+   "espn": "1423",
+   "aliases": [
+    "Beira-Mar"
+   ]
+  },
+  {
+   "id": "s-c-braga",
+   "name": "Braga",
+   "country": "POR",
+   "espn": "2994",
+   "aliases": [
+    "Braga"
+   ]
+  },
+  {
+   "id": "s-c-farense",
+   "name": "Farense",
+   "country": "POR",
+   "espn": "20740",
+   "aliases": [
+    "Farense"
+   ]
+  },
+  {
+   "id": "s-c-olhanense",
+   "name": "Olhanense",
+   "country": "POR",
+   "espn": "3712",
+   "aliases": [
+    "Olhanense",
+    "S.C. Olhanense"
+   ]
+  },
+  {
+   "id": "s-c-salgueiros",
+   "name": "Salgueiros",
+   "country": "POR",
+   "espn": "132772",
+   "aliases": [
+    "S.C. Salgueiros",
+    "Salgueiros"
+   ]
+  },
+  {
+   "id": "u-d-leiria",
+   "name": "União de Leiria",
+   "country": "POR",
+   "espn": "2724",
+   "aliases": [
+    "U.D. Leiria",
+    "União de Leiria"
+   ]
+  },
+  {
+   "id": "varzim-s-c",
+   "name": "Varzim",
+   "country": "POR",
+   "espn": "21611",
+   "aliases": [
+    "Varzim",
+    "Varzim S.C."
+   ]
+  },
+  {
+   "id": "vitoria-f-c",
+   "name": "Vitória de Setúbal",
+   "country": "POR",
+   "espn": "5308",
+   "aliases": [
+    "Vitória de Setúbal"
+   ]
+  },
+  {
+   "id": "vitoria-s-c",
+   "name": "Vitória de Guimarães",
+   "country": "POR",
+   "espn": "5309",
+   "aliases": [
+    "Vitória de Guimarães"
+   ]
+  },
+  {
+   "id": "albion-f-c",
+   "name": "Albion",
+   "country": "URU",
+   "espn": "21403",
+   "aliases": [
+    "Albion",
+    "Albion F.C."
+   ]
+  },
+  {
+   "id": "c-a-bella-vista",
+   "name": "Bella Vista",
+   "country": "URU",
+   "espn": "6155",
+   "aliases": [
+    "Bella Vista",
+    "C.A. Bella Vista"
+   ]
+  },
+  {
+   "id": "c-a-cerro",
+   "name": "Cerro",
+   "country": "URU",
+   "espn": "5490",
+   "aliases": [
+    "C.A. Cerro",
+    "Cerro"
+   ]
+  },
+  {
+   "id": "c-a-progreso",
+   "name": "Progreso",
+   "country": "URU",
+   "espn": "6866",
+   "aliases": [
+    "C.A. Progreso",
+    "Progreso"
+   ]
+  },
+  {
+   "id": "c-a-rentistas",
+   "name": "Rentistas",
+   "country": "URU",
+   "espn": "5497",
+   "aliases": [
+    "C.A. Rentistas",
+    "Rentistas"
+   ]
+  },
+  {
+   "id": "c-s-d-villa-espanola",
+   "name": "Villa Española",
+   "country": "URU",
+   "espn": "9908",
+   "aliases": [
+    "C.S.D. Villa Española",
+    "Villa Española"
+   ]
+  },
+  {
+   "id": "central-espanol",
+   "name": "Central Español",
+   "country": "URU",
+   "espn": "131688",
+   "aliases": [
+    "Central Español"
+   ]
+  },
+  {
+   "id": "centro-atletico-fenix",
+   "name": "Fénix",
+   "country": "URU",
+   "espn": "2689",
+   "aliases": [
+    "Centro Atlético Fénix",
+    "Fénix"
+   ]
+  },
+  {
+   "id": "club-atletico-river-plate-montevideo",
+   "name": "River Plate",
+   "country": "URU",
+   "espn": "5498",
+   "aliases": [
+    "Club Atlético River Plate (Montevideo)",
+    "River Plate"
+   ]
+  },
+  {
+   "id": "club-sportivo-cerrito",
+   "name": "Cerrito",
+   "country": "URU",
+   "espn": "4726",
+   "aliases": [
+    "Cerrito",
+    "Club Sportivo Cerrito"
+   ]
+  },
+  {
+   "id": "danubio-f-c",
+   "name": "Danubio",
+   "country": "URU",
+   "espn": "4817",
+   "aliases": [
+    "Danubio",
+    "Danubio F.C."
+   ]
+  },
+  {
+   "id": "defensor-sporting",
+   "name": "Defensor Sporting",
+   "country": "URU",
+   "espn": "1007",
+   "aliases": [
+    "Defensor Sporting"
+   ]
+  },
+  {
+   "id": "huracan-buceo",
+   "name": "Huracán Buceo",
+   "country": "URU",
+   "espn": null,
+   "aliases": [
+    "Huracán Buceo"
+   ]
+  },
+  {
+   "id": "liverpool-f-c-montevideo",
+   "name": "Liverpool",
+   "country": "URU",
+   "espn": "5492",
+   "aliases": [
+    "Liverpool",
+    "Liverpool F.C. (Montevideo)"
+   ]
+  },
+  {
+   "id": "miramar-misiones",
+   "name": "Miramar Misiones",
+   "country": "URU",
+   "espn": "5493",
+   "aliases": [
+    "Miramar Misiones"
+   ]
+  },
+  {
+   "id": "montevideo-wanderers-f-c",
+   "name": "Montevideo Wanderers",
+   "country": "URU",
+   "espn": "5501",
+   "aliases": [
+    "Montevideo Wanderers",
+    "Montevideo Wanderers F.C."
+   ]
+  },
+  {
+   "id": "racing-club-de-montevideo",
+   "name": "Racing",
+   "country": "URU",
+   "espn": "9903",
+   "aliases": [
+    "Racing",
+    "Racing Club de Montevideo"
+   ]
+  },
+  {
+   "id": "rampla-juniors",
+   "name": "Rampla Juniors",
+   "country": "URU",
+   "espn": "5496",
+   "aliases": [
+    "Rampla Juniors"
+   ]
+  },
+  {
+   "id": "river-plate-f-c",
+   "name": "River Plate",
+   "country": "URU",
+   "espn": null,
+   "aliases": [
+    "River Plate",
+    "River Plate F.C."
+   ]
+  },
+  {
+   "id": "rocha-f-c",
+   "name": "Rocha",
+   "country": "URU",
+   "espn": "5499",
+   "aliases": [
+    "Rocha",
+    "Rocha F.C."
+   ]
+  },
+  {
+   "id": "tacuarembo-f-c",
+   "name": "Tacuarembó",
+   "country": "URU",
+   "espn": "5500",
+   "aliases": [
+    "Tacuarembó",
+    "Tacuarembó F.C."
+   ]
+  },
+  {
+   "id": "universal-football-club",
+   "name": "Universal",
+   "country": "URU",
+   "espn": null,
+   "aliases": [
+    "Universal",
+    "Universal Football Club"
+   ]
+  },
+  {
+   "id": "atlantida-sport-club",
+   "name": "Atlántida",
+   "country": "PAR",
+   "espn": null,
+   "aliases": [
+    "Atlántida",
+    "Atlántida Sport Club"
+   ]
+  },
+  {
+   "id": "club-12-de-octubre",
+   "name": "12 de Octubre",
+   "country": "PAR",
+   "espn": "2677",
+   "aliases": [
+    "12 de Octubre",
+    "Club 12 de Octubre"
+   ]
+  },
+  {
+   "id": "club-atletico-colegiales-paraguay",
+   "name": "Colegiales",
+   "country": "PAR",
+   "espn": null,
+   "aliases": [
+    "Club Atlético Colegiales (Paraguay)",
+    "Colegiales"
+   ]
+  },
+  {
+   "id": "club-capitan-figari",
+   "name": "Capitán Figari",
+   "country": "PAR",
+   "espn": null,
+   "aliases": [
+    "Capitán Figari",
+    "Club Capitán Figari"
+   ]
+  },
+  {
+   "id": "club-presidente-hayes",
+   "name": "Presidente Hayes",
+   "country": "PAR",
+   "espn": null,
+   "aliases": [
+    "Club Presidente Hayes",
+    "Presidente Hayes"
+   ]
+  },
+  {
+   "id": "club-river-plate-asuncion",
+   "name": "River Plate",
+   "country": "PAR",
+   "espn": "18136",
+   "aliases": [
+    "Club River Plate (Asunción)",
+    "River Plate"
+   ]
+  },
+  {
+   "id": "club-rubio-nu",
+   "name": "Rubio Ñú",
+   "country": "PAR",
+   "espn": "10080",
+   "aliases": [
+    "Club Rubio Ñú",
+    "Rubio Ñú"
+   ]
+  },
+  {
+   "id": "club-sol-de-america",
+   "name": "Sol de América",
+   "country": "PAR",
+   "espn": "7465",
+   "aliases": [
+    "Club Sol de América",
+    "Sol de América"
+   ]
+  },
+  {
+   "id": "club-sportivo-luqueno",
+   "name": "Sportivo Luqueño",
+   "country": "PAR",
+   "espn": "5583",
+   "aliases": [
+    "Club Sportivo Luqueño",
+    "Sportivo Luqueño"
+   ]
+  },
+  {
+   "id": "club-sportivo-san-lorenzo",
+   "name": "San Lorenzo",
+   "country": "PAR",
+   "espn": "17671",
+   "aliases": [
+    "Club Sportivo San Lorenzo",
+    "San Lorenzo"
+   ]
+  },
+  {
+   "id": "independiente-f-b-c",
+   "name": "Independiente FBC",
+   "country": "PAR",
+   "espn": "18417",
+   "aliases": [
+    "Independiente F.B.C.",
+    "Independiente FBC"
+   ]
+  },
+  {
+   "id": "c-d-san-antonio-bulo-bulo",
+   "name": "San Antonio Bulo Bulo",
+   "country": "BOL",
+   "espn": "22137",
+   "aliases": [
+    "C.D. San Antonio Bulo Bulo",
+    "San Antonio Bulo Bulo"
+   ]
+  },
+  {
+   "id": "chaco-petrolero",
+   "name": "Chaco Petrolero",
+   "country": "BOL",
+   "espn": null,
+   "aliases": [
+    "Chaco Petrolero"
+   ]
+  },
+  {
+   "id": "club-31-de-octubre",
+   "name": "31 de Octubre",
+   "country": "BOL",
+   "espn": null,
+   "aliases": [
+    "31 de Octubre",
+    "Club 31 de Octubre"
+   ]
+  },
+  {
+   "id": "club-always-ready",
+   "name": "Always Ready",
+   "country": "BOL",
+   "espn": "19425",
+   "aliases": [
+    "Always Ready",
+    "Club Always Ready"
+   ]
+  },
+  {
+   "id": "club-atletico-ciclon",
+   "name": "Ciclón",
+   "country": "BOL",
+   "espn": "17916",
+   "aliases": [
+    "Ciclón",
+    "Club Atlético Ciclón"
+   ]
+  },
+  {
+   "id": "club-aurora",
+   "name": "Aurora",
+   "country": "BOL",
+   "espn": "6046",
+   "aliases": [
+    "Aurora",
+    "Club Aurora"
+   ]
+  },
+  {
+   "id": "club-blooming",
+   "name": "Blooming",
+   "country": "BOL",
+   "espn": "6047",
+   "aliases": [
+    "Blooming",
+    "Club Blooming"
+   ]
+  },
+  {
+   "id": "club-deportivo-guabira",
+   "name": "Guabirá",
+   "country": "BOL",
+   "espn": "9497",
+   "aliases": [
+    "Club Deportivo Guabirá",
+    "Guabirá"
+   ]
+  },
+  {
+   "id": "club-deportivo-litoral-cochabamba",
+   "name": "Litoral",
+   "country": "BOL",
+   "espn": null,
+   "aliases": [
+    "Cochabamba) (Club Deportivo Litoral (Cochabamba)",
+    "Litoral"
+   ]
+  },
+  {
+   "id": "club-deportivo-litoral-la-paz",
+   "name": "Litoral",
+   "country": "BOL",
+   "espn": null,
+   "aliases": [
+    "Club Deportivo Litoral (La Paz)",
+    "Litoral"
+   ]
+  },
+  {
+   "id": "club-jorge-wilstermann",
+   "name": "Jorge Wilstermann",
+   "country": "BOL",
+   "espn": "6054",
+   "aliases": [
+    "Club Jorge Wilstermann",
+    "Jorge Wilstermann"
+   ]
+  },
+  {
+   "id": "club-san-jose",
+   "name": "San José",
+   "country": "BOL",
+   "espn": "6052",
+   "aliases": [
+    "Club San José",
+    "San José"
+   ]
+  },
+  {
+   "id": "deportivo-municipal-de-la-paz",
+   "name": "Deportivo Municipal",
+   "country": "BOL",
+   "espn": null,
+   "aliases": [
+    "Deportivo Municipal",
+    "Deportivo Municipal de La Paz"
+   ]
+  },
+  {
+   "id": "independiente-petrolero",
+   "name": "Independiente Petrolero",
+   "country": "BOL",
+   "espn": "20889",
+   "aliases": [
+    "Independiente Petrolero"
+   ]
+  },
+  {
+   "id": "la-paz-f-c",
+   "name": "La Paz",
+   "country": "BOL",
+   "espn": "6050",
+   "aliases": [
+    "La Paz",
+    "La Paz F.C."
+   ]
+  },
+  {
+   "id": "mariscal-santa-cruz",
+   "name": "Mariscal Santa Cruz",
+   "country": "BOL",
+   "espn": null,
+   "aliases": [
+    "Mariscal Santa Cruz"
+   ]
+  },
+  {
+   "id": "municipal-real-mamore",
+   "name": "Real Mamoré",
+   "country": "BOL",
+   "espn": "7544",
+   "aliases": [
+    "Municipal Real Mamoré",
+    "Real Mamoré"
+   ]
+  },
+  {
+   "id": "oriente-petrolero",
+   "name": "Oriente Petrolero",
+   "country": "BOL",
+   "espn": "2682",
+   "aliases": [
+    "Oriente Petrolero"
+   ]
+  },
+  {
+   "id": "real-potosi",
+   "name": "Real Potosí",
+   "country": "BOL",
+   "espn": "6051",
+   "aliases": [
+    "Real Potosí"
+   ]
+  },
+  {
+   "id": "real-santa-cruz",
+   "name": "Real Santa Cruz",
+   "country": "BOL",
+   "espn": "20655",
+   "aliases": [
+    "Real Santa Cruz"
+   ]
+  },
+  {
+   "id": "sport-boys-warnes",
+   "name": "Sport Boys",
+   "country": "BOL",
+   "espn": "15513",
+   "aliases": [
+    "Sport Boys",
+    "Sport Boys Warnes"
+   ]
+  },
+  {
+   "id": "universitario-de-la-paz",
+   "name": "Universitario de La Paz",
+   "country": "BOL",
+   "espn": null,
+   "aliases": [
+    "Universitario de La Paz"
+   ]
+  },
+  {
+   "id": "universitario-de-sucre",
+   "name": "Universitario de Sucre",
+   "country": "BOL",
+   "espn": "6149",
+   "aliases": [
+    "Universitario de Sucre"
+   ]
+  },
+  {
+   "id": "america-de-manta",
+   "name": "América",
+   "country": "ECU",
+   "espn": null,
+   "aliases": [
+    "América",
+    "M) (América de Manta"
+   ]
+  },
+  {
+   "id": "america-de-quito",
+   "name": "América de Quito",
+   "country": "ECU",
+   "espn": "19413",
+   "aliases": [
+    "América de Quito"
+   ]
+  },
+  {
+   "id": "centro-deportivo-olmedo",
+   "name": "Olmedo",
+   "country": "ECU",
+   "espn": "4819",
+   "aliases": [
+    "Centro Deportivo Olmedo",
+    "Olmedo"
+   ]
+  },
+  {
+   "id": "club-9-de-octubre",
+   "name": "9 de Octubre",
+   "country": "ECU",
+   "espn": "20859",
+   "aliases": [
+    "9 de Octubre",
+    "Club 9 de Octubre"
+   ]
+  },
+  {
+   "id": "club-deportivo-cuenca",
+   "name": "Deportivo Cuenca",
+   "country": "ECU",
+   "espn": "4812",
+   "aliases": [
+    "Club Deportivo Cuenca",
+    "Deportivo Cuenca"
+   ]
+  },
+  {
+   "id": "club-deportivo-esmeraldas-petrolero",
+   "name": "Esmeraldas Petrolero",
+   "country": "ECU",
+   "espn": null,
+   "aliases": [
+    "Club Deportivo Esmeraldas Petrolero",
+    "Esmeraldas Petrolero"
+   ]
+  },
+  {
+   "id": "club-deportivo-espoli",
+   "name": "ESPOLI",
+   "country": "ECU",
+   "espn": "6126",
+   "aliases": [
+    "Club Deportivo ESPOLI",
+    "ESPOLI"
+   ]
+  },
+  {
+   "id": "club-deportivo-everest",
+   "name": "Everest",
+   "country": "ECU",
+   "espn": null,
+   "aliases": [
+    "Club Deportivo Everest",
+    "Everest"
+   ]
+  },
+  {
+   "id": "club-deportivo-filanbanco",
+   "name": "Filanbanco",
+   "country": "ECU",
+   "espn": null,
+   "aliases": [
+    "Club Deportivo Filanbanco",
+    "Filanbanco"
+   ]
+  },
+  {
+   "id": "club-deportivo-tecnico-universitario",
+   "name": "Técnico Universitario",
+   "country": "ECU",
+   "espn": "9292",
+   "aliases": [
+    "Club Deportivo Técnico Universitario",
+    "Técnico Universitario"
+   ]
+  },
+  {
+   "id": "club-deportivo-universidad-catolica-del-ecuador",
+   "name": "Universidad Católica",
+   "country": "ECU",
+   "espn": "9283",
+   "aliases": [
+    "Club Deportivo Universidad Católica del Ecuador",
+    "Universidad Católica"
+   ]
+  },
+  {
+   "id": "club-social-y-deportivo-independiente-jose-teran",
+   "name": "Independiente José Terán",
+   "country": "ECU",
+   "espn": "10391",
+   "aliases": [
+    "Club Social y Deportivo Independiente José Terán",
+    "Independiente José Terán"
+   ]
+  },
+  {
+   "id": "club-social-y-deportivo-macara",
+   "name": "Macará",
+   "country": "ECU",
+   "espn": "18439",
+   "aliases": [
+    "Club Social y Deportivo Macará",
+    "Macará"
+   ]
+  },
+  {
+   "id": "club-sport-patria",
+   "name": "Patria",
+   "country": "ECU",
+   "espn": null,
+   "aliases": [
+    "Club Sport Patria",
+    "Patria"
+   ]
+  },
+  {
+   "id": "delfin-sporting-club",
+   "name": "Delfín",
+   "country": "ECU",
+   "espn": "1011",
+   "aliases": [
+    "Delfín",
+    "Delfín Sporting Club"
+   ]
+  },
+  {
+   "id": "guayaquil-city-f-c",
+   "name": "Guayaquil City",
+   "country": "ECU",
+   "espn": "11124",
+   "aliases": [
+    "Guayaquil City",
+    "Guayaquil City F.C."
+   ]
+  },
+  {
+   "id": "liga-deportiva-universitaria-de-loja",
+   "name": "LDU Loja",
+   "country": "ECU",
+   "espn": "6018",
+   "aliases": [
+    "LDU Loja",
+    "Liga Deportiva Universitaria de Loja"
+   ]
+  },
+  {
+   "id": "liga-deportiva-universitaria-de-portoviejo",
+   "name": "LDU Portoviejo",
+   "country": "ECU",
+   "espn": "10306",
+   "aliases": [
+    "LDU Portoviejo",
+    "Liga Deportiva Universitaria de Portoviejo"
+   ]
+  },
+  {
+   "id": "manta-f-c",
+   "name": "Manta",
+   "country": "ECU",
+   "espn": "10307",
+   "aliases": [
+    "Manta",
+    "Manta F.C."
+   ]
+  },
+  {
+   "id": "mushuc-runa-s-c",
+   "name": "Mushuc Runa",
+   "country": "ECU",
+   "espn": "17176",
+   "aliases": [
+    "Mushuc Runa",
+    "Mushuc Runa S.C."
+   ]
+  },
+  {
+   "id": "sociedad-deportiva-aucas",
+   "name": "Aucas",
+   "country": "ECU",
+   "espn": "6017",
+   "aliases": [
+    "Aucas",
+    "Sociedad Deportiva Aucas"
+   ]
+  },
+  {
+   "id": "sociedad-deportivo-quito",
+   "name": "Deportivo Quito",
+   "country": "ECU",
+   "espn": "2089",
+   "aliases": [
+    "Deportivo Quito",
+    "Sociedad Deportivo Quito"
+   ]
+  },
+  {
+   "id": "valdez-sporting-club",
+   "name": "Valdez",
+   "country": "ECU",
+   "espn": null,
+   "aliases": [
+    "Valdez",
+    "Valdez Sporting Club"
+   ]
+  },
+  {
+   "id": "alfonso-ugarte-de-puno",
+   "name": "Alfonso Ugarte",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Alfonso Ugarte",
+    "Alfonso Ugarte de Puno"
+   ]
+  },
+  {
+   "id": "alianza-atletico",
+   "name": "Alianza Atlético",
+   "country": "PER",
+   "espn": "5267",
+   "aliases": [
+    "Alianza Atlético"
+   ]
+  },
+  {
+   "id": "asociacion-deportiva-san-agustin",
+   "name": "San Agustín",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Asociación Deportiva San Agustín",
+    "San Agustín"
+   ]
+  },
+  {
+   "id": "association-fbc",
+   "name": "Association FBC",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Association FBC"
+   ]
+  },
+  {
+   "id": "atletico-chalaco",
+   "name": "Atlético Chalaco",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Atlético Chalaco"
+   ]
+  },
+  {
+   "id": "atletico-peruano",
+   "name": "Atlético Peruano",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Atlético Peruano"
+   ]
+  },
+  {
+   "id": "atletico-torino",
+   "name": "Atlético Torino",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Atlético Torino"
+   ]
+  },
+  {
+   "id": "carlos-a-mannucci",
+   "name": "Carlos A. Mannucci",
+   "country": "PER",
+   "espn": "19433",
+   "aliases": [
+    "Carlos A. Mannucci"
+   ]
+  },
+  {
+   "id": "centro-iqueno",
+   "name": "Centro Iqueño",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Centro Iqueño"
+   ]
+  },
+  {
+   "id": "cienciano",
+   "name": "Cienciano",
+   "country": "PER",
+   "espn": "3372",
+   "aliases": [
+    "Cienciano"
+   ]
+  },
+  {
+   "id": "circolo-sportivo-italiano",
+   "name": "Circolo Sportivo Italiano",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Circolo Sportivo Italiano"
+   ]
+  },
+  {
+   "id": "club-deportivo-universidad-de-san-martin-de-porres",
+   "name": "Universidad San Martín",
+   "country": "PER",
+   "espn": "3359",
+   "aliases": [
+    "Club Deportivo Universidad de San Martín de Porres",
+    "Universidad San Martín"
+   ]
+  },
+  {
+   "id": "coronel-bolognesi",
+   "name": "Coronel Bolognesi",
+   "country": "PER",
+   "espn": "5566",
+   "aliases": [
+    "Coronel Bolognesi"
+   ]
+  },
+  {
+   "id": "cusco-fc",
+   "name": "Cusco FC",
+   "country": "PER",
+   "espn": "11995",
+   "aliases": [
+    "Cusco FC"
+   ]
+  },
+  {
+   "id": "defensor-arica",
+   "name": "Defensor Arica",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Defensor Arica"
+   ]
+  },
+  {
+   "id": "defensor-lima",
+   "name": "Defensor Lima",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Defensor Lima"
+   ]
+  },
+  {
+   "id": "deportivo-binacional-fc",
+   "name": "Binacional",
+   "country": "PER",
+   "espn": "18985",
+   "aliases": [
+    "Binacional",
+    "Deportivo Binacional FC"
+   ]
+  },
+  {
+   "id": "deportivo-garcilaso",
+   "name": "Deportivo Garcilaso",
+   "country": "PER",
+   "espn": "21819",
+   "aliases": [
+    "Deportivo Garcilaso"
+   ]
+  },
+  {
+   "id": "deportivo-municipal",
+   "name": "Deportivo Municipal",
+   "country": "PER",
+   "espn": "7548",
+   "aliases": [
+    "Deportivo Municipal"
+   ]
+  },
+  {
+   "id": "deportivo-wanka",
+   "name": "Deportivo Wanka",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Deportivo Wanka"
+   ]
+  },
+  {
+   "id": "fbc-melgar",
+   "name": "Melgar",
+   "country": "PER",
+   "espn": "7312",
+   "aliases": [
+    "FBC Melgar",
+    "Melgar"
+   ]
+  },
+  {
+   "id": "jorge-chavez-callao",
+   "name": "Jorge Chávez",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Jorge Chávez",
+    "Jorge Chávez (Callao)"
+   ]
+  },
+  {
+   "id": "jorge-chavez-no-1",
+   "name": "Jorge Chávez N°1",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Jorge Chávez No. 1",
+    "Jorge Chávez N°1"
+   ]
+  },
+  {
+   "id": "juan-aurich",
+   "name": "Juan Aurich",
+   "country": "PER",
+   "espn": "9446",
+   "aliases": [
+    "Juan Aurich"
+   ]
+  },
+  {
+   "id": "leon-de-huanuco",
+   "name": "León de Huánuco",
+   "country": "PER",
+   "espn": "10760",
+   "aliases": [
+    "León de Huánuco"
+   ]
+  },
+  {
+   "id": "lima-cricket-and-football-club",
+   "name": "Lima Cricket",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Lima Cricket",
+    "Lima Cricket and Football Club"
+   ]
+  },
+  {
+   "id": "mariscal-sucre",
+   "name": "Mariscal Sucre",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Mariscal Sucre"
+   ]
+  },
+  {
+   "id": "octavio-espinoza-de-ica",
+   "name": "Octavio Espinosa",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Octavio Espinosa",
+    "Octavio Espinoza de Ica"
+   ]
+  },
+  {
+   "id": "real-garcilaso",
+   "name": "Real Garcilaso",
+   "country": "PER",
+   "espn": "11995",
+   "aliases": [
+    "Real Garcilaso"
+   ]
+  },
+  {
+   "id": "saenz-pena-callao",
+   "name": "Sport Sáenz Peña",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Sport Sáenz Peña",
+    "Sáenz Peña (Callao)"
+   ]
+  },
+  {
+   "id": "sport-boys",
+   "name": "Sport Boys",
+   "country": "PER",
+   "espn": "5570",
+   "aliases": [
+    "Sport Boys"
+   ]
+  },
+  {
+   "id": "sport-huancayo",
+   "name": "Sport Huancayo",
+   "country": "PER",
+   "espn": "10318",
+   "aliases": [
+    "Sport Huancayo"
+   ]
+  },
+  {
+   "id": "sport-inca",
+   "name": "Sport Inca",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Sport Inca"
+   ]
+  },
+  {
+   "id": "sport-jose-galvez",
+   "name": "Sport José Gálvez",
+   "country": "PER",
+   "espn": "6127",
+   "aliases": [
+    "Sport José Gálvez"
+   ]
+  },
+  {
+   "id": "sport-juan-bielovucic",
+   "name": "Sport Juan Bielovucic",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Sport Juan Bielovucic"
+   ]
+  },
+  {
+   "id": "sport-progreso",
+   "name": "Sport Progreso",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Sport Progreso"
+   ]
+  },
+  {
+   "id": "sporting-tabaco",
+   "name": "Sporting Tabaco",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Sporting Tabaco"
+   ]
+  },
+  {
+   "id": "total-chalaco",
+   "name": "Total Chalaco",
+   "country": "PER",
+   "espn": "7447",
+   "aliases": [
+    "Total Chalaco"
+   ]
+  },
+  {
+   "id": "union-buenos-aires",
+   "name": "Unión Buenos Aires",
+   "country": "PER",
+   "espn": null,
+   "aliases": [
+    "Unión Buenos Aires"
+   ]
+  },
+  {
+   "id": "union-comercio",
+   "name": "Unión Comercio",
+   "country": "PER",
+   "espn": "11324",
+   "aliases": [
+    "Unión Comercio"
+   ]
+  },
+  {
+   "id": "union-huaral",
+   "name": "Unión Huaral",
+   "country": "PER",
+   "espn": "5571",
+   "aliases": [
+    "Unión Huaral"
+   ]
+  },
+  {
+   "id": "universidad-tecnica-de-cajamarca",
+   "name": "UTC",
+   "country": "PER",
+   "espn": "10122",
+   "aliases": [
+    "UTC",
+    "Universidad Técnica de Cajamarca"
+   ]
+  },
+  {
+   "id": "nacional-asuncion",
+   "name": "Nacional",
+   "country": "PAR",
+   "espn": "5584",
+   "aliases": [
+    "Club Nacional",
+    "Nacional Asunción"
    ]
   }
  ]

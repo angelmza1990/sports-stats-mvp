@@ -160,6 +160,72 @@ LEAGUES = {
         "alltimeScorers": {"page": "Liga de Primera", "needles": ("player", "goals", "years")},
         "alltime": None,
     },
+    "primeira-liga": {
+        "name": "Primeira Liga", "short": "Portugal", "country": "POR", "adjective": "Portuguese",
+        # The champions table has a "Clubs | Players" title row above its header, and the season's top scorer in its own columns.
+        "champions": {"page": "List of Portuguese football champions", "headerRow": 1,
+                      "section": (r"==\s*List of champions and top scorers\s*==", r"==\s*Performance by club\s*==")},
+        "eras": [],
+        "expected": {"Benfica": 38, "Porto": 31, "Sporting CP": 21},
+        "scorers": {"columns": r"top scorer"},
+        "alltimeScorers": {"page": "List of Primeira Liga top scorers", "needles": ("player", "goals", "apps", "first")},
+        "alltime": {
+            "lang": "en", "page": "Primeira Liga", "needles": ("team", "pts", "gp"),
+            "columns": {"S": "seasons", "Pts": "pts", "GP": "pld", "W": "w", "D": "d", "L": "l", "GF": "gf", "GA": "ga"},
+            "period": "Primeira Liga, 1934–35 to date",
+            "note": "Three points per win applied to every season.",
+        },
+    },
+    "uruguayan-primera": {
+        "name": "Uruguayan Primera División", "short": "Uruguay", "country": "URU", "adjective": "Uruguayan",
+        "champions": {"page": "Liga AUF Uruguaya", "section": (r"==\s*List of champions \(1900", r"==\s*Titles by club\s*==")},
+        "eras": [{"key": "modern", "label": "Professional era", "since": 1932, "tag": "Pro", "early": "Amateur era", "earlyTag": "Amateur"}],
+        # The AUF counts CURCC's titles for Peñarol.
+        "expected": {"Peñarol": 52, "Nacional": 50},
+        "sameClub": {"Central Uruguay Railway Cricket Club": "penarol"},
+        "scorers": {"page": "List of Uruguayan Primera División top scorers", "needles": ("season", "player", "club", "goals"), "tables": 1},
+        "alltimeScorers": {"page": "List of Uruguayan Primera División top scorers", "needles": ("player", "period", "goals")},
+        "alltime": None,
+    },
+    "paraguayan-primera": {
+        "name": "Paraguayan Primera División", "short": "Paraguay", "country": "PAR", "adjective": "Paraguayan",
+        "champions": {"page": "APF División de Honor", "section": (r"==\s*List of champions\s*==", r"==\s*Titles by club\s*==")},
+        # Apertura and Clausura became separate championships in 2008.
+        "eras": [{"key": "modern", "label": "Two titles a year", "since": 2008, "tag": "Since 2008", "early": "One title a year", "earlyTag": "1906–2007"}],
+        "expected": {"Olimpia": 48, "Cerro Porteño": 35, "Libertad": 25},
+        "scorers": {"page": "Primera División de Paraguay topscorers", "needles": ("year", "player", "club", "goals"), "tables": 1},
+        "alltimeScorers": None,
+        "alltime": None,
+    },
+    "bolivian-primera": {
+        "name": "Bolivian Primera División", "short": "Bolivia", "country": "BOL", "adjective": "Bolivian",
+        "champions": {"page": "FBF División Profesional", "section": (r"==\s*List of champions\s*==", r"==\s*Titles by club\s*==")},
+        "eras": [{"key": "modern", "label": "Liga del Fútbol Profesional", "since": 1977, "tag": "Since 1977", "early": "Before the professional league", "earlyTag": "1950–1976"}],
+        "expected": {"Bolívar": 31, "The Strongest": 16},
+        "scorers": {"inline": r"goalscorer", "minSeasons": 30},
+        "alltimeScorers": None,
+        "alltime": None,
+    },
+    "ecuadorian-serie-a": {
+        "name": "Ecuadorian Serie A", "short": "Ecuador", "country": "ECU", "adjective": "Ecuadorian",
+        "champions": {"page": "LigaPro Serie A", "section": (r"==\s*Champions by year\s*==", r"==\s*Titles by club\s*==")},
+        "eras": [],
+        "expected": {"Barcelona SC": 16, "Emelec": 14, "El Nacional": 13},
+        # A row per club a player scored for, with the player's total in the last column.
+        "scorers": {"inline": r"goalscorer"},
+        "alltimeScorers": {"page": "LigaPro Serie A", "needles": ("player", "years", "total goals"), "total": r"total goals", "min": 5},
+        "alltime": None,
+    },
+    "peruvian-primera": {
+        "name": "Peruvian Primera División", "short": "Peru", "country": "PER", "adjective": "Peruvian",
+        "champions": {"page": "List of Peruvian football champions", "section": (r"==\s*List of champions\s*==", r"==\s*Titles by club\s*==")},
+        "eras": [{"key": "modern", "label": "Professional era", "since": 1951, "tag": "Pro", "early": "Amateur era", "earlyTag": "Amateur"}],
+        "expected": {"Universitario": 29, "Alianza Lima": 25, "Sporting Cristal": 20},
+        "sameClub": {"Mariscal Sucre FC": "mariscal-sucre", "Mariscal Sucre de Deportes": "mariscal-sucre"},
+        "scorers": {"inline": r"goalscorer"},
+        "alltimeScorers": {"page": "Liga 1 (Peru)", "needles": ("name", "years", "goals")},
+        "alltime": None,
+    },
 }
 
 
@@ -189,13 +255,14 @@ class LeagueClubs(ClubIndex):
     """A ClubIndex that also remembers each club's label, so unlinked repeats ("Genoa (2)")
     and alternative link targets with the same label resolve to the same club."""
 
-    def __init__(self) -> None:
+    def __init__(self, same: dict[str, str] | None = None) -> None:
         super().__init__()
         self.labels: dict[str, str] = {}
+        self.same = same or {}  # link targets the league counts as another club
 
     def resolve(self, cell: str, country: str | None) -> str | None:
         target, text = W.links(cell)[0]
-        known = self.alias.get(target.lower()) or self.by_label(text, country)
+        known = self.same.get(target) or self.alias.get(target.lower()) or self.by_label(text, country)
         cid = known or self.labels.get(text.lower()) or super().resolve(cell, country)
         if cid in self.unmapped:
             self.clubs[cid]["name"] = W.plain(self.clubs[cid]["name"])  # labels like <span>CD Málaga</span>
@@ -205,7 +272,7 @@ class LeagueClubs(ClubIndex):
         return cid
 
 
-SKIP_CELL = re.compile(r"not (?:held|awarded|played)|no champion|suspended|cancel|abandon|unfinished|revoked|unknown|\bwar\b|"
+SKIP_CELL = re.compile(r"not (?:held|awarded|played|finished|considered)|no champion|no tournament|suspended|cancel|abandon|unfinished|revoked|unknown|\bwar\b|"
                        r"decoration|honorary|^[-–—]+$|^n/a$", re.I)
 
 
@@ -238,13 +305,22 @@ def parse_champions(cfg: dict, clubs: LeagueClubs, refresh: bool) -> tuple[list[
     a = re.search(start, text).start()
     b = re.search(end, text[a:]).start() + a
     titles, inline_scorers = [], []
-    inline = cfg["scorers"].get("inline")
+    inline, in_columns = cfg["scorers"].get("inline"), cfg["scorers"].get("columns")
+    head = cfg["champions"].get("headerRow", 0)
     for grid in W.all_tables(text[a:b]):
-        labels = W.header_labels(grid[0])
+        if len(grid) <= head:
+            continue
+        labels = W.header_labels(grid[head])
+        grid = grid[head:]
         season_i = column(labels, r"^season", r"^year")
         champ_i = column(labels, r"winner", r"champion")
         runner_i = column(labels, r"runner", r"second")
         scorer_i = column(labels, inline) if inline else None
+        # The season's top scorer in columns of its own: player, then club, then goals.
+        player_i = column(labels, in_columns) if in_columns else None
+        if player_i is not None:
+            club_i = next((i for i in range(player_i + 1, len(labels)) if re.match(r"club", labels[i], re.I)), None)
+            goals_i = next((i for i in range(player_i + 1, len(labels)) if re.match(r"goals", labels[i], re.I)), None)
         if season_i is None or champ_i is None:
             continue
         # Split seasons list the tournament in a second "Season" column ("2002" | "Apertura").
@@ -266,6 +342,8 @@ def parse_champions(cfg: dict, clubs: LeagueClubs, refresh: bool) -> tuple[list[
             titles.append({"season": season, "year": year, "champion": champion, "runnerUp": runner})
             if scorer_i is not None and len(row) > scorer_i:
                 inline_scorers += scorers_in_cell(row[scorer_i]["text"], season, year, clubs, cfg["country"])
+            if player_i is not None and goals_i is not None and len(row) > goals_i:
+                inline_scorers += scorers_in_columns(row, player_i, club_i, goals_i, season, year, clubs, cfg["country"])
     # The page's own count per club, for validation.
     official = {}
     totals = cfg["champions"].get("totals")
@@ -307,6 +385,24 @@ def scorers_in_cell(text: str, season: str, year: int, clubs: LeagueClubs, count
         ids = [cid for target, label in W.links(inside) for cid in [club_from_cell(f"[[{target}|{label}]]", clubs, country)] if cid]
         out.append({"season": season, "year": year, "player": re.sub(r"\s*\(.*$", "", name), "nation": nation_code(part),
                     "clubs": ids, "goals": int(goals.group(1)), "matches": None})
+    return out
+
+
+def scorers_in_columns(row: list[dict], player_i: int, club_i: int | None, goals_i: int, season: str, year: int,
+                       clubs: LeagueClubs, country: str) -> list[dict]:
+    """Top scorers in their own columns of the champions table, one per line when several tied."""
+    players = split_cell(row[player_i]["text"])
+    club_parts = split_cell(row[club_i]["text"]) if club_i is not None else []
+    goals = [int(n) for n in re.findall(r"\d+", W.plain(row[goals_i]["text"]))]
+    out = []
+    for k, cell in enumerate(players):
+        name = W.person(cell)
+        if not name or not goals:
+            continue
+        parts = [club_parts[k]] if len(club_parts) == len(players) else club_parts
+        out.append({"season": season, "year": year, "player": re.sub(r"\s*\(.*$", "", name), "nation": nation_code(cell),
+                    "clubs": [cid for part in parts for cid in [club_from_cell(part, clubs, country)] if cid],
+                    "goals": goals[k] if len(goals) == len(players) else max(goals), "matches": None})
     return out
 
 
@@ -354,11 +450,13 @@ def parse_scorers(cfg: dict, clubs: LeagueClubs, refresh: bool) -> list[dict]:
 
 def parse_alltime_scorers(cfg: dict, refresh: bool) -> list[dict]:
     sc = cfg["alltimeScorers"]
+    if not sc:
+        return []
     grid = tables_with(page(sc["page"], refresh), *sc["needles"])[0]
     labels = W.header_labels(grid[0])
-    player_i, goals_i = column(labels, r"^player"), column(labels, r"goals")
+    player_i, goals_i = column(labels, r"^player", r"^name"), column(*([labels, sc["total"]] if sc.get("total") else [labels, r"goals"]))
     nation_i = column(labels, r"^country", r"^nation")
-    apps_i = column(labels, r"^apps", r"^games", r"^played")
+    apps_i = column(labels, r"^apps", r"^games", r"^played", r"^matches")
     years_i, first_i, last_i = column(labels, r"years", r"period"), column(labels, r"^first"), column(labels, r"^last")
     out = []
     for row in grid[1:]:
@@ -376,6 +474,17 @@ def parse_alltime_scorers(cfg: dict, refresh: bool) -> list[dict]:
             "career": career.replace("-", "–"), "goals": W.number(row[goals_i]["text"]),
             "matches": W.number(row[apps_i]["text"]) if apps_i is not None else None,
         })
+    if sc.get("total"):
+        # One row per club a player scored for: keep one per player, with the career from the first to the last years.
+        merged: dict[str, dict] = {}
+        for r in out:
+            m = merged.setdefault(r["player"], {**r, "_years": []})
+            m["_years"] += [int(y) if len(y) == 4 else int(r["career"][:2] + y) for y in re.findall(r"\d{4}|(?<=–)\d{2}\b", r["career"])]
+        out = []
+        for m in merged.values():
+            years = m.pop("_years")
+            m["career"] = f"{min(years)}–{max(years)}" if years else m["career"]
+            out.append(m)
     return out
 
 
@@ -423,12 +532,12 @@ ITALIAN_NAMES = {"Inter": "Inter Milan"}
 
 def build(key: str, refresh: bool) -> dict:
     cfg = LEAGUES[key]
-    clubs = LeagueClubs()
+    clubs = LeagueClubs(cfg.get("sameClub"))
     titles, official, inline_scorers = parse_champions(cfg, clubs, refresh)
     eras = cfg["eras"]
     for t in titles:
         t["era"] = "modern" if eras and t["year"] >= eras[0]["since"] else "early"
-    scorers = inline_scorers if cfg["scorers"].get("inline") else parse_scorers(cfg, clubs, refresh)
+    scorers = inline_scorers if cfg["scorers"].get("inline") or cfg["scorers"].get("columns") else parse_scorers(cfg, clubs, refresh)
     alltime_scorers = parse_alltime_scorers(cfg, refresh)
     alltime = parse_alltime(cfg, clubs, refresh) if cfg["alltime"] else []
 
@@ -449,7 +558,7 @@ def build(key: str, refresh: bool) -> dict:
             "eras": eras,
             "sources": [f"https://en.wikipedia.org/wiki/{cfg['champions']['page'].replace(' ', '_')}"],
             "scorersSource": f"https://en.wikipedia.org/wiki/{cfg['scorers'].get('page', cfg['champions']['page']).replace(' ', '_')}",
-            "alltimeScorersSource": f"https://en.wikipedia.org/wiki/{cfg['alltimeScorers']['page'].replace(' ', '_')}",
+            "alltimeScorersSource": f"https://en.wikipedia.org/wiki/{cfg['alltimeScorers']['page'].replace(' ', '_')}" if cfg["alltimeScorers"] else None,
             "alltimeSource": f"https://{at['lang']}.wikipedia.org/wiki/{at['page'].replace(' ', '_')}" if at else None,
             "alltimePeriod": at["period"] if at else None,
             "alltimeNote": at["note"] if at else None,
@@ -482,7 +591,7 @@ def validate(key: str, data: dict) -> list[str]:
     seasons = [t["year"] for t in data["titles"]]
     if seasons != sorted(seasons):
         errors.append("seasons out of order")
-    if len(data["scorers"]) < cfg["scorers"].get("minSeasons", 40) or len(data["alltimeScorers"]) < 10:
+    if len(data["scorers"]) < cfg["scorers"].get("minSeasons", 40) or cfg["alltimeScorers"] and len(data["alltimeScorers"]) < cfg["alltimeScorers"].get("min", 10):
         errors.append(f"top scorers look incomplete ({len(data['scorers'])} seasons, {len(data['alltimeScorers'])} all-time)")
     if cfg["alltime"] and len(data["alltime"]) < 20:
         errors.append(f"all-time table looks incomplete ({len(data['alltime'])} rows)")
