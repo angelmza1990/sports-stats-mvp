@@ -22,6 +22,7 @@ import json
 import sys
 
 import rivalries_americas as AM
+import rivalries_south as SO
 import rivalries_argentina as AR
 import rivalries_brazil as BR
 import rivalries_england as EN
@@ -110,6 +111,16 @@ COLORS = {
     "colo-colo-u-de-chile": ("#ce9707", "#245fd4", "#b68611", "#245fd4"),
     "colo-colo-catolica": ("#ce9707", "#245fd4", "#b68611", "#245fd4"),
     "u-de-chile-catolica": ("#215cd0", "#079de0", "#1e59cd", "#1499da"),
+    "benfica-porto": ("#d33a3c", "#245fd4", "#e54c4a", "#245fd4"),
+    "benfica-sporting": ("#fd736d", "#067e3f", "#b71824", "#029d50"),
+    "porto-sporting": ("#245fd4", "#05ab58", "#245fd4", "#05ab58"),
+    "olimpia-cerro": ("#ce9707", "#245fd4", "#b68611", "#245fd4"),
+    "bolivar-strongest": ("#0a96d6", "#ce9707", "#0a96d6", "#b68611"),
+    "blooming-oriente": ("#0a96d6", "#067e3f", "#0a96d6", "#098b47"),
+    "barcelona-emelec": ("#ce9707", "#245fd4", "#b68611", "#245fd4"),
+    "barcelona-ldu": ("#ce9707", "#d33a3c", "#b68611", "#b71824"),
+    "universitario-alianza": ("#d33a3c", "#245fd4", "#e54c4a", "#245fd4"),
+    "alianza-cristal": ("#215cd0", "#079de0", "#1e59cd", "#1499da"),
 }
 
 GROUPS = [
@@ -126,6 +137,7 @@ GROUPS = [
     {"id": "esp-val", "country": "ESP", "name": "Spain", "region": "Valencian Community", "label": ""},
     {"id": "ita", "country": "ITA", "name": "Italy", "label": "The big three"},
     {"id": "eng", "country": "ENG", "name": "England", "label": "The big six"},
+    {"id": "por", "country": "POR", "name": "Portugal", "label": "The big three"},
     {"id": "fra", "country": "FRA", "name": "France", "label": ""},
     {"id": "ger", "country": "GER", "name": "Germany", "label": ""},
     {"id": "bra-sp", "country": "BRA", "name": "Brazil", "region": "São Paulo", "label": "São Paulo's big four"},
@@ -137,6 +149,11 @@ GROUPS = [
     {"id": "usa", "country": "USA", "name": "MLS", "label": ""},
     {"id": "col", "country": "COL", "name": "Colombia", "label": ""},
     {"id": "chi", "country": "CHI", "name": "Chile", "label": "Chile's big three"},
+    {"id": "par", "country": "PAR", "name": "Paraguay", "label": ""},
+    {"id": "bol", "country": "BOL", "name": "Bolivia", "region": "La Paz", "label": ""},
+    {"id": "bol-scz", "country": "BOL", "name": "Bolivia", "region": "Santa Cruz", "label": ""},
+    {"id": "ecu", "country": "ECU", "name": "Ecuador", "label": ""},
+    {"id": "per", "country": "PER", "name": "Peru", "label": ""},
 ]
 
 
@@ -218,6 +235,21 @@ MILLONARIOS = {"id": "millonarios", "name": "Millonarios", "short": "Millonarios
 COLO_COLO = {"id": "colo-colo", "name": "Colo-Colo", "short": "Colo-Colo"}
 U_DE_CHILE = {"id": "universidad-de-chile", "name": "Universidad de Chile", "short": "La U"}
 CATOLICA = {"id": "universidad-catolica", "name": "Universidad Católica", "short": "Católica"}
+BENFICA = {"id": "benfica", "name": "Benfica", "short": "Benfica"}
+PORTO = {"id": "porto", "name": "Porto", "short": "Porto"}
+SPORTING = {"id": "sporting-cp", "name": "Sporting CP", "short": "Sporting"}
+OLIMPIA = {"id": "olimpia", "name": "Olimpia", "short": "Olimpia"}
+CERRO = {"id": "cerro-porteno", "name": "Cerro Porteño", "short": "Cerro"}
+BOLIVAR = {"id": "bolivar", "name": "Bolívar", "short": "Bolívar"}
+STRONGEST = {"id": "the-strongest", "name": "The Strongest", "short": "The Strongest"}
+BLOOMING = {"id": "club-blooming", "name": "Blooming", "short": "Blooming"}
+ORIENTE = {"id": "oriente-petrolero", "name": "Oriente Petrolero", "short": "Oriente"}
+BARCELONA_SC = {"id": "barcelona-sc", "name": "Barcelona SC", "short": "Barcelona"}
+EMELEC = {"id": "emelec", "name": "Emelec", "short": "Emelec"}
+LDU = {"id": "ldu-quito", "name": "LDU Quito", "short": "Liga"}
+UNIVERSITARIO = {"id": "universitario", "name": "Universitario", "short": "La U"}
+ALIANZA = {"id": "alianza-lima", "name": "Alianza Lima", "short": "Alianza"}
+CRISTAL = {"id": "sporting-cristal", "name": "Sporting Cristal", "short": "Cristal"}
 
 # The last number is the official matches through October 2026. A rebuild that finds fewer means a source
 # changed shape: fail and keep the previous data rather than publish a shorter history.
@@ -355,6 +387,17 @@ RIVALRIES += [
     R("colo-colo-catolica", "Colo-Colo vs Católica", "Colo-Colo vs Universidad Católica", "chi", COLO_COLO, CATOLICA, AM.build_colo_uc, 188),
     R("u-de-chile-catolica", "Clásico Universitario", "Universidad de Chile vs Universidad Católica", "chi", U_DE_CHILE, CATOLICA,
       AM.build_universitario, 203),
+    R("benfica-porto", "O Clássico", "Benfica vs Porto", "por", BENFICA, PORTO, SO.portugal_summary("O Clássico", "Benfica", "Porto"), 261),
+    R("benfica-sporting", "Lisbon derby", "Benfica vs Sporting CP", "por", BENFICA, SPORTING, SO.portugal_summary("Lisbon derby", "Benfica", "Sporting"), 327),
+    R("porto-sporting", "Porto vs Sporting", "Porto vs Sporting CP", "por", PORTO, SPORTING, SO.build_porto_sporting, 257),
+    R("olimpia-cerro", "Superclásico", "Olimpia vs Cerro Porteño", "par", OLIMPIA, CERRO, SO.build_paraguay, 375),
+    R("bolivar-strongest", "Clásico paceño", "Bolívar vs The Strongest", "bol", BOLIVAR, STRONGEST, SO.build_paceno, 300, leaders=False),
+    R("blooming-oriente", "Clásico cruceño", "Blooming vs Oriente Petrolero", "bol-scz", BLOOMING, ORIENTE, SO.build_cruceno, 215, leaders=False),
+    R("barcelona-emelec", "Clásico del Astillero", "Barcelona SC vs Emelec", "ecu", BARCELONA_SC, EMELEC, SO.build_astillero, 303),
+    R("barcelona-ldu", "Barcelona vs Liga", "Barcelona SC vs LDU Quito", "ecu", BARCELONA_SC, LDU, SO.build_barcelona_ldu, 241),
+    R("universitario-alianza", "Clásico del fútbol peruano", "Universitario vs Alianza Lima", "per", UNIVERSITARIO, ALIANZA, SO.build_peru_clasico, 300,
+      leaders=False),
+    R("alianza-cristal", "Alianza vs Cristal", "Alianza Lima vs Sporting Cristal", "per", ALIANZA, CRISTAL, SO.build_alianza_cristal, 231),
 ]
 
 

@@ -24,7 +24,8 @@ OUT_DIR = ROOT / "football" / "rivalries" / "data"
 CLUBS = ROOT / "data" / "football" / "clubs.json"
 COUNTRY_NAMES = {"ARG": ("Argentina", "ar"), "URU": ("Uruguay", "uy"), "ESP": ("Spain", "es"), "ITA": ("Italy", "it"), "ENG": ("England", "gb-eng"),
                  "BRA": ("Brazil", "br"), "FRA": ("France", "fr"), "GER": ("Germany", "de"), "MEX": ("Mexico", "mx"),
-                 "USA": ("United States", "us"), "COL": ("Colombia", "co"), "CHI": ("Chile", "cl")}
+                 "USA": ("United States", "us"), "COL": ("Colombia", "co"), "CHI": ("Chile", "cl"),
+                 "POR": ("Portugal", "pt"), "PAR": ("Paraguay", "py"), "BOL": ("Bolivia", "bo"), "ECU": ("Ecuador", "ec"), "PER": ("Peru", "pe")}
 TODAY = date.today().isoformat()
 
 ES_MONTHS = {m: i + 1 for i, m in enumerate(

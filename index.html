@@ -93,7 +93,7 @@
     <h1>Sports<br>Stats</h1>
     <p class="lede">Interactive infographics on the numbers behind sport's great champions and rivalries, built with D3 and open data and updated twice a year.</p>
     <dl class="home-figures">
-      <div><dt>Infographics</dt><dd id="tile-count">50</dd></div>
+      <div><dt>Infographics</dt><dd id="tile-count">56</dd></div>
       <div><dt>Sports</dt><dd>14</dd></div>
       <div><dt>Seasons covered</dt><dd>1877–2026</dd></div>
     </dl>
@@ -215,8 +215,8 @@
     <section class="sport" data-sport="football" id="football">
       <div class="sport-head">
         <h2>Football</h2>
-        <p>World and continental competitions, the Ballon d'Or, eleven national leagues and 73 great rivalries.</p>
-        <span class="count">18 pages</span>
+        <p>World and continental competitions, the Ballon d'Or, seventeen national leagues and 83 great rivalries.</p>
+        <span class="count">24 pages</span>
       </div>
       <div class="gallery">
         <a class="tile" href="football/world-cup/">
@@ -372,13 +372,67 @@
             <p>Every Chilean champion since 1933, including the Apertura and Clausura years, every top scorer and every season.</p>
           </div>
         </a>
+        <a class="tile" href="football/primeira-liga/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-shield"/></svg>
+            <div class="stat" data-stat="portugal"><strong>38</strong><span>Benfica titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Portugal</h3>
+            <p>Every Portuguese champion since 1934–35, titles by club, the all-time table, every top scorer and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/uruguayan-primera/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-shield"/></svg>
+            <div class="stat" data-stat="uruguay"><strong>52</strong><span>Peñarol titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Uruguay</h3>
+            <p>Every Uruguayan champion since 1900, amateur and professional, titles by club, every top scorer and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/paraguayan-primera/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-shield"/></svg>
+            <div class="stat" data-stat="paraguay"><strong>48</strong><span>Olimpia titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Paraguay</h3>
+            <p>Every Paraguayan champion since 1906, one title a year and two since 2008, every top scorer and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/ecuadorian-serie-a/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-shield"/></svg>
+            <div class="stat" data-stat="ecuador"><strong>16</strong><span>Barcelona SC titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Ecuador</h3>
+            <p>Every Ecuadorian champion since 1957, titles by club, every top scorer, the all-time scorers and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/peruvian-primera/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-shield"/></svg>
+            <div class="stat" data-stat="peru"><strong>29</strong><span>Universitario titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Peru</h3>
+            <p>Every Peruvian champion since 1912, amateur and professional, titles by club, every top scorer and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/bolivian-primera/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-shield"/></svg>
+            <div class="stat" data-stat="bolivia"><strong>31</strong><span>Bolívar titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Bolivia</h3>
+            <p>Every Bolivian champion since 1950, the professional league since 1977, every top scorer and every season.</p>
+          </div>
+        </a>
         <a class="tile" href="football/rivalries/">
           <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-versus"/></svg>
-            <div class="stat" data-stat="rivalries"><strong>73</strong><span>rivalries</span></div>
+            <div class="stat" data-stat="rivalries"><strong>83</strong><span>rivalries</span></div>
           </div>
           <div class="body">
             <h3>Great Rivalries</h3>
-            <p>73 rivalries between the big clubs of Argentina, Uruguay, Brazil, England, Spain, Italy, France, Germany, Mexico, MLS, Colombia and Chile: every official match, the lead over time, results, knockout ties, finals, top scorers and friendlies.</p>
+            <p>83 rivalries between the big clubs of Argentina, Uruguay, Brazil, England, Spain, Portugal, Italy, France, Germany, Mexico, MLS and South America: every official match, the lead over time, results, knockout ties, finals, top scorers and friendlies.</p>
           </div>
         </a>
       </div>
@@ -734,6 +788,12 @@
         mls: ["football/mls/data/mls.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} MLS Cups`]; }],
         colombia: ["football/colombian-primera/data/colombian-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
         chile: ["football/chilean-primera/data/chilean-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
+        portugal: ["football/primeira-liga/data/primeira-liga.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
+        uruguay: ["football/uruguayan-primera/data/uruguayan-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
+        paraguay: ["football/paraguayan-primera/data/paraguayan-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
+        ecuador: ["football/ecuadorian-serie-a/data/ecuadorian-serie-a.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
+        peru: ["football/peruvian-primera/data/peruvian-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
+        bolivia: ["football/bolivian-primera/data/bolivian-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
         world: ["football/world-club-champions/data/world-club-champions.json", (d) => [String(d.finals.length), "world titles"]],
         argentina: ["football/argentine-primera/data/argentine-primera.json", (d) => {
           const [id, n] = most(d.titles, (t) => t.champion);

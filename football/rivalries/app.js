@@ -8,7 +8,7 @@
   const COLOR = { a: "var(--team-a)", b: "var(--team-b)", d: "var(--draw)" };
   const STAGES = [["league", "League"], ["local", "Local leagues"], ["state", "State championships"], ["regional", "Interstate tournaments"], ["playoff", "Playoffs"], ["cup", "Domestic cups"],
     ["super", "Super cups"], ["intl", "International"], ["all", "Every meeting"]];
-  const COUNTRIES = ["ARG", "URU", "BRA", "ENG", "ESP", "ITA", "FRA", "GER", "MEX", "USA", "COL", "CHI"].filter((c) => index.groups.some((g) => g.country === c));
+  const COUNTRIES = ["ARG", "URU", "BRA", "ENG", "ESP", "POR", "ITA", "FRA", "GER", "MEX", "USA", "COL", "CHI", "PAR", "BOL", "ECU", "PER"].filter((c) => index.groups.some((g) => g.country === c));
   const fmtDate = d3.utcFormat("%-d %b %Y");
   const fmtMonth = d3.utcFormat("%b %Y");
   const parse = d3.utcParse("%Y-%m-%d");
