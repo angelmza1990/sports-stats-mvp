@@ -1,0 +1,5 @@
+/* Liga Nacional de Básquet: shared football styles (bar race, rank lists, tables); clubs are drawn as lettered badges. */
+
+.rank-row .crest-badge {
+  font-size: 9px;
+}

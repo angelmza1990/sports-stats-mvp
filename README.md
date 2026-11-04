@@ -64,6 +64,17 @@ The same three pages for the WTA: every Open Era women's major, every final of t
 | Steffi Graf | 22 | 15 | 377 |
 | Martina Navratilova | 18 | 3 | 332 |
 
+### 🏀 [Liga Nacional de Básquet](https://angelmza1990.github.io/sports-stats-mvp/basketball/lnb/)
+
+Argentina's top basketball league since 1985, from Spanish Wikipedia:
+
+- **The race for the most titles:** an animated bar chart race of championships by club
+- **Every final:** champion, series, runner-up, coach, season MVP and finals MVP
+- **Titles by club, city, coach and player**, with the seasons of each
+- **How the finals were decided:** series results from sweeps to deciding games, and the repeated finals
+- **Scorers and all-time leaders:** each season's top scorer, career points and games, and the record in each statistic
+- **Seasons in the league:** the clubs with the most seasons, marking this season's teams
+
 ### 🏀 [NBA Rivalries](https://angelmza1990.github.io/sports-stats-mvp/basketball/nba-rivalries/)
 
 Sixteen great NBA rivalries (Celtics–Lakers, 76ers–Celtics, Celtics–Knicks, Celtics–Pistons, Celtics–Heat, Bulls–Pistons, Bulls–Knicks, Bulls–Cavaliers, Heat–Knicks, Knicks–Pacers, Lakers–Pistons, Lakers–Spurs, Kings–Lakers, Cavaliers–Warriors, Mavericks–Spurs, Rockets–Spurs), read from the season-by-season results of each rivalry's Wikipedia article and checked against the totals it publishes:
@@ -282,6 +293,7 @@ Argentina's touring-car championship since 1979, counting the Súper TC2000 year
 ├── tennis/age-records/           # Age records, men and women
 ├── basketball/nba-rings/         # NBA Rings infographic
 ├── basketball/nba-rivalries/     # NBA Rivalries
+├── basketball/lnb/               # Liga Nacional de Básquet (Argentina)
 ├── football/                     # Football pages (shared common.js, league.js for national leagues) + one folder per page
 ├── american-football/super-bowl/  # Super Bowl and NFL championships
 ├── ice-hockey/stanley-cup/       # Stanley Cup Finals
@@ -302,6 +314,7 @@ Argentina's touring-car championship since 1979, counting the Súper TC2000 year
 │   ├── build_masters.py          # ATP Masters 1000 and WTA 1000 pipeline
 │   ├── build_nba_rings.py        # NBA data pipeline
 │   ├── build_nba_rivalries.py    # NBA rivalries, season by season
+│   ├── build_lnb.py              # Liga Nacional de Básquet
 │   ├── build_super_bowl.py       # Super Bowls, NFL titles, MVPs and coaches
 │   ├── build_stanley_cup.py      # Stanley Cup Finals, Conn Smythe winners and coaches
 │   ├── build_world_series.py     # World Series, MVPs and managers
@@ -354,6 +367,7 @@ python3 scripts/build_grand_slams.py --refresh # tennis: Open Era Grand Slams, m
 python3 scripts/build_masters.py --refresh    # tennis: ATP Masters 1000 and WTA 1000
 python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia table
 python3 scripts/build_nba_rivalries.py --refresh  # NBA: the 16 rivalries' season-by-season results
+python3 scripts/build_lnb.py --refresh  # Argentina's Liga Nacional de Básquet
 python3 scripts/build_super_bowl.py --refresh # NFL: Super Bowls, NFL champions since 1920, MVPs and coaches
 python3 scripts/build_stanley_cup.py --refresh  # NHL: Stanley Cup Finals since 1915, Conn Smythe and coaches
 python3 scripts/build_world_series.py --refresh # MLB: World Series since 1903, MVPs and managers
