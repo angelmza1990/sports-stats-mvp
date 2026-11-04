@@ -1,0 +1,53 @@
+/* National teams: team pickers and the classics chips. */
+
+.pickers select {
+  font: inherit;
+  font-size: 15px;
+  background: var(--surface-raised);
+  color: var(--ink);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 7px 10px;
+  max-width: 44%;
+}
+
+.pickers .swap {
+  font: inherit;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--ink-2);
+  border-radius: 999px;
+  width: 34px;
+  height: 34px;
+  cursor: pointer;
+}
+
+.pickers .segmented {
+  margin-left: auto;
+}
+
+#classics .flag + .flag {
+  margin-left: -4px;
+}
+
+.rv-side .flag {
+  width: 48px;
+  height: 32px;
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+.result {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  .pickers .segmented {
+    margin-left: 0;
+  }
+}

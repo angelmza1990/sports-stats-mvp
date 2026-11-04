@@ -161,6 +161,16 @@ Every league champion since 1891: a titles race with or without the amateur era,
 
 The Argentine page's format for sixteen more countries, one page each with a shared front end: every national champion (England since 1888, France since 1894, Italy since 1898, Uruguay since 1900, Germany since 1903, Paraguay since 1906, Peru since 1912, Spain since 1929, Chile since 1933, Portugal since 1934–35, Brazil since 1937, Mexico since 1943–44, Colombia since 1948, Bolivia since 1950, Ecuador since 1957, and every MLS Cup since 1996), a titles race with and without the early era (before Serie A, the Premier League, the Bundesliga, the 1971 Campeonato Brasileiro, the professional leagues of Uruguay, Peru and Bolivia, or the split seasons of Colombia and Paraguay), titles by club, the all-time table where Wikipedia publishes one, the top scorer of every season and the all-time scorers where a list is published.
 
+### 🌍 [National Teams](https://angelmza1990.github.io/sports-stats-mvp/football/national-teams/)
+
+Every men's international since 1872 (48,000+ matches, from Mart Jürisoo's CC0 database of international results):
+
+- **Head to head** between any two national teams, with eighteen great rivalries one click away (Argentina–Brazil, England–Scotland, Germany–Netherlands, Mexico–United States...): wins, draws and goals, the lead match by match, the record by competition, biggest wins, runs and every match
+- **World Football Elo ratings** worked out match by match with eloratings.net's formula (newcomers start at the weakest quarter's level so ratings don't inflate): a chart of up to four teams since 1872, the world's best team at the end of every year, today's ranking, the highest peaks and the biggest upsets
+- **All-time table** of every team with 100 matches, with or without friendlies
+
+Built by `scripts/build_national_teams.py`.
+
 ### 🏆 [Continental Championships](https://angelmza1990.github.io/sports-stats-mvp/football/continental/) and [Women's Football](https://angelmza1990.github.io/sports-stats-mvp/football/womens/)
 
 Every Copa América (since 1916), European Championship, Africa Cup of Nations, Asian Cup and Gold Cup, and every FIFA Women's World Cup, Women's Euro and Copa América Femenina, on the shared international tournament page: a race of titles, finals and podiums, champions and every edition, hosts, the most repeated finals, all-time tables and player records where Wikipedia publishes them. Built by `scripts/build_tournaments.py`; the Copa América and the Africa Cup of Nations have no single results table, so their editions are rebuilt from each team's titles and top-four finishes and their final scores from the lists of finals.
