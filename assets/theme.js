@@ -17,7 +17,7 @@
       ["tennis/wta-records/", "WTA Records"], ["tennis/finals/", "ATP & WTA Finals"], ["tennis/number-one/", "World No. 1"], ["tennis/age-records/", "Age Records"],
     ] },
     { sport: "football", label: "Football", pages: [
-      ["football/world-cup/", "FIFA World Cup"], ["football/ballon-dor/", "Ballon d'Or"], ["football/champions-league/", "Champions League"],
+      ["football/world-cup/", "FIFA World Cup"], ["football/continental/", "Continental Championships"], ["football/womens/", "Women's Football"], ["football/ballon-dor/", "Ballon d'Or"], ["football/champions-league/", "Champions League"],
       ["football/copa-libertadores/", "Copa Libertadores"], ["football/concacaf-champions-cup/", "CONCACAF Champions Cup"], ["football/world-club-champions/", "World Club Champions"],
       ["football/argentine-primera/", "Argentina"], ["football/serie-a/", "Serie A"], ["football/la-liga/", "La Liga"],
       ["football/premier-league/", "England"], ["football/ligue-1/", "Ligue 1"], ["football/bundesliga/", "Germany"],

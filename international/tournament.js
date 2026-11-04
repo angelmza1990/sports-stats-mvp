@@ -17,9 +17,11 @@
   const teamLabel = (c) => F.clubLabel(c);
   const finish = (e, c) => (e.champion === c ? 1 : e.runnerUp === c ? 2 : e.third === c ? 3 : e.fourth === c ? 4 : 0);
   const PLACE = { 1: "Champion", 2: "Runner-up", 3: "Third", 4: "Fourth" };
+  const ed = (e) => e.label ?? String(e.year); // two Copas Américas were played in 1959
   const scoreText = (e) => (e.roundRobin ? "round robin" : e.score ? `${e.score}${e.note === "penalties" ? " pens" : e.note === "extra time" ? " a.e.t." : ""}` : "–");
 
   let data;
+  let single = false; // every champion from one continent (a continental championship): one bar color, no continent section
   let race;
   let raceKind = "titles";
 
@@ -40,7 +42,7 @@
         reached.set(t, i);
       });
       const ranked = [...tally].map(([id, n]) => ({ id, n, since: reached.get(id) })).sort((a, b) => b.n - a.n || a.since - b.since).slice(0, 10);
-      out.push({ label: String(e.year), event: e, ranked });
+      out.push({ label: ed(e), event: e, ranked });
     });
     return out;
   }
@@ -67,18 +69,19 @@
       { label: isOlympics ? "Olympic tournaments" : "Editions", value: String(eds.length), detail: `${eds[0].year} to ${last.year}` },
       { label: isOlympics ? "Gold medallists" : "Champions", value: String(titles.size), detail: `different ${isOlympics ? "teams" : "nations"}` },
       { label: `Most ${winWord}`, value: String(leaderN), detail: name(leader), club: leader },
-      { label: `Latest ${isOlympics ? "gold" : "champion"}`, value: name(last.champion), detail: `${last.year} · ${scoreText(last)} vs ${name(last.runnerUp)}`, club: last.champion },
+      { label: `Latest ${isOlympics ? "gold" : "champion"}`, value: name(last.champion), detail: `${ed(last)} · ${scoreText(last)} vs ${name(last.runnerUp)}`, club: last.champion },
     ]);
     document.querySelectorAll("[data-gender]").forEach((n) => (n.textContent = `${data.meta.label} · ${data.meta.gender}`));
 
+    single = new Set(eds.flatMap((e) => [e.champion, e.runnerUp]).map(continent)).size === 1;
     // Race
     if (race) race.setFrames(frames());
     else {
       race = F.race(frames(), {
-        colorOf: (id) => contColor(continent(id)),
+        colorOf: (id) => (single ? "var(--series-1)" : contColor(continent(id))),
         frameMs: 900,
         emptyTicker: "Press play to start with the first edition.",
-        ticker: (e) => [F.flag(e.champion), el("strong", null, ` ${e.year} · ${name(e.champion)}`),
+        ticker: (e) => [F.flag(e.champion), el("strong", null, ` ${ed(e)} · ${name(e.champion)}`),
           document.createTextNode(` def. ${name(e.runnerUp)} ${scoreText(e)} · hosts: ${e.hosts.map(name).join(", ") || e.hostText}`)],
       });
     }
@@ -87,7 +90,7 @@
     const ids = new Set(eds.flatMap((e) => [e.champion, e.runnerUp, e.third, e.fourth]).filter(Boolean));
     const byTeam = [...ids].map((id) => ({ id, places: [1, 2, 3, 4].map((p) => eds.filter((e) => finish(e, id) === p)) }))
       .sort((a, b) => d3.descending(a.places[0].length, b.places[0].length) || d3.descending(a.places[1].length, b.places[1].length) || d3.descending(a.places[2].length, b.places[2].length));
-    const years = (list) => list.map((e) => e.year).join(", ") || "–";
+    const years = (list) => list.map(ed).join(", ") || "–";
     const championsViews = {
       team: () => F.richTable(document.getElementById("champions-table"), [
         { label: "Team", render: (r) => F.withSub(teamLabel(r.id), `Won: ${years(r.places[0])} · Runner-up: ${years(r.places[1])}`) },
@@ -98,7 +101,7 @@
         { label: "Years won", cls: "years", render: (r) => years(r.places[0]) },
       ], byTeam),
       edition: () => F.richTable(document.getElementById("champions-table"), [
-        { label: "Year", render: (e) => String(e.year) },
+        { label: "Year", render: ed },
         { label: isOlympics ? "Gold" : "Champion", render: (e) => teamLabel(e.champion) },
         { label: "Final", cls: "score", render: (e) => scoreText(e) },
         { label: isOlympics ? "Silver" : "Runner-up", render: (e) => teamLabel(e.runnerUp) },
@@ -119,12 +122,13 @@
       return { label: c, icon, won, lost: eds.filter((e) => continent(e.runnerUp) === c), winners: d3.groups(won, (e) => e.champion).sort((a, b) => b[1].length - a[1].length) };
     }).sort((a, b) => b.won.length - a.won.length || b.lost.length - a.lost.length);
     F.groupRows(document.getElementById("continents-list"), contGroups, "Continent");
+    show("continents", !single);
     void conts;
 
     // Hosts
     const hostWins = eds.filter((e) => e.hosts.includes(e.champion));
     document.getElementById("hosts-note").textContent = hostWins.length
-      ? `${hostWins.length} ${hostWins.length === 1 ? "host has" : "hosts have"} won at home: ${hostWins.map((e) => `${name(e.champion)} ${e.year}`).join(", ")}.`
+      ? `${hostWins.length} ${hostWins.length === 1 ? "host has" : "hosts have"} won at home: ${hostWins.map((e) => `${name(e.champion)} ${ed(e)}`).join(", ")}.`
       : "No host has won at home yet.";
     const times = d3.rollups(eds.flatMap((e) => e.hosts.map((h) => ({ h, y: e.year }))), (v) => v.map((d) => d.y), (d) => d.h)
       .sort((a, b) => b[1].length - a[1].length || a[1][0] - b[1][0]);
@@ -136,7 +140,7 @@
       chips.append(chip);
     });
     F.richTable(document.getElementById("hosts-table"), [
-      { label: "Year", render: (e) => String(e.year) },
+      { label: "Year", render: ed },
       { label: "Host", render: (e) => { const w = el("span", "tags"); e.hosts.forEach((h) => w.append(F.flag(h))); w.append(document.createTextNode(e.hosts.map(name).join(", ") || e.hostText)); return w; } },
       { label: "Teams", cls: "num", render: (e) => String(e.teams ?? "–") },
       { label: "Host result", render: (e) => e.hosts.map((h) => (e.hosts.length > 1 ? `${name(h)}: ` : "") + (PLACE[finish(e, h)] ?? "Outside the top four")).join(" · ") || "–" },
@@ -145,7 +149,7 @@
 
     // Repeated finals
     F.repeatedFinals(document.getElementById("pairs-list"), eds.filter((e) => e.champion !== e.runnerUp && !e.roundRobin),
-      (e) => `${e.year} ${name(e.champion)} (${scoreText(e)})`);
+      (e) => `${ed(e)} ${name(e.champion)} (${scoreText(e)})`);
 
     // Growth
     const metrics = [
@@ -162,7 +166,7 @@
         const list = eds.filter((e) => metric.value(e));
         const height = 240;
         const margin = { top: 24, right: 8, bottom: 28, left: 44 };
-        const x = d3.scaleBand().domain(list.map((e) => e.year)).range([margin.left, width - margin.right]).padding(0.25);
+        const x = d3.scaleBand().domain(list.map(ed)).range([margin.left, width - margin.right]).padding(0.25);
         const y = d3.scaleLinear().domain([0, d3.max(list, metric.value)]).nice().range([height - margin.bottom, margin.top]);
         const svg = container.append("svg").attr("viewBox", `0 0 ${width} ${height}`).attr("role", "img").attr("aria-label", `${metric.label} per edition`);
         const axis = svg.append("g").attr("class", "axis");
@@ -172,14 +176,14 @@
         });
         const every = Math.ceil(list.length / (width < 560 ? 6 : 14));
         list.forEach((e, i) => {
-          if (i % every === 0 || i === list.length - 1) axis.append("text").attr("x", x(e.year) + x.bandwidth() / 2).attr("y", height - 8).attr("text-anchor", "middle").text(e.year);
+          if (i % every === 0 || i === list.length - 1) axis.append("text").attr("x", x(ed(e)) + x.bandwidth() / 2).attr("y", height - 8).attr("text-anchor", "middle").text(e.year);
         });
         const colW = Math.min(24, x.bandwidth());
-        const g = svg.selectAll("g.col").data(list).join("g").attr("class", "col mark-group").attr("transform", (e) => `translate(${x(e.year) + (x.bandwidth() - colW) / 2},0)`);
+        const g = svg.selectAll("g.col").data(list).join("g").attr("class", "col mark-group").attr("transform", (e) => `translate(${x(ed(e)) + (x.bandwidth() - colW) / 2},0)`);
         g.append("rect").attr("x", -4).attr("y", margin.top).attr("width", colW + 8).attr("height", height - margin.top - margin.bottom).attr("fill", "transparent");
         g.append("path").attr("class", "mark").attr("fill", "var(--series-1)").attr("d", (e) => columnPath(0, y(metric.value(e)), colW, y(0) - y(metric.value(e))));
         tooltipOn(g, (t, e) => {
-          t.append(ttTitle(`${e.year} · ${e.hosts.map(name).join(", ") || e.hostText}`));
+          t.append(ttTitle(`${ed(e)} · ${e.hosts.map(name).join(", ") || e.hostText}`));
           metrics.forEach((m) => m.value(e) && t.append(Viz.ttRow("var(--series-1)", d3.format(",")(m.value(e)), m.label.toLowerCase())));
         });
       };
@@ -219,7 +223,7 @@
       const rows = data.participation.slice().sort((a, b) => b.apps - a.apps || d3.ascending(name(a.team), name(b.team))).slice(0, 25);
       const best = (team) => {
         const places = eds.map((e) => finish(e, team)).filter(Boolean);
-        return places.length ? `${PLACE[Math.min(...places)]} (${eds.filter((e) => finish(e, team) === Math.min(...places)).map((e) => e.year).join(", ")})` : "Outside the top four";
+        return places.length ? `${PLACE[Math.min(...places)]} (${eds.filter((e) => finish(e, team) === Math.min(...places)).map(ed).join(", ")})` : "Outside the top four";
       };
       F.rankList(document.getElementById("participation-list"), rows.map((r) => ({
         icon: F.flag(r.team), label: name(r.team), value: r.apps, color: contColor(continent(r.team)),

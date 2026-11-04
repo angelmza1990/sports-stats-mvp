@@ -55,14 +55,15 @@ MORE_TEAMS = {
     "BAR": ("Barbados", "bb"), "GHA": ("Ghana", "gh"), "INA": ("Indonesia", "id"), "SGP": ("Singapore", "sg"), "SIN": ("Singapore", "sg"),
     "BAN": ("Bangladesh", "bd"), "SRI": ("Sri Lanka", "lk"), "KSA": ("Saudi Arabia", "sa"), "UAE": ("United Arab Emirates", "ae"),
     "KUW": ("Kuwait", "kw"), "BRN": ("Bahrain", "bh"), "IRQ": ("Iraq", "iq"), "SYR": ("Syria", "sy"), "MGL": ("Mongolia", "mn"),
-    "BHR": ("Bahrain", "bh"), "CPV": ("Cape Verde", "cv"), "MOZ": ("Mozambique", "mz"), "MLI": ("Mali", "ml"), "COD": ("DR Congo", "cd"), "RWA": ("Rwanda", "rw"),
+    "BHR": ("Bahrain", "bh"), "CPV": ("Cape Verde", "cv"), "BFA": ("Burkina Faso", "bf"), "ETH": ("Ethiopia", "et"), "UGA": ("Uganda", "ug"),
+    "ZAM": ("Zambia", "zm"), "MYA": ("Myanmar", "mm"), "EQG": ("Equatorial Guinea", "gq"), "VIE": ("Vietnam", "vn"), "MOZ": ("Mozambique", "mz"), "MLI": ("Mali", "ml"), "COD": ("DR Congo", "cd"), "RWA": ("Rwanda", "rw"),
 }
 
 CONTINENTS = {
     "Europe": "BGR GRC CIS IRE ROM ENG SCO WAL IRL NIR FRA ITA ESP POR GER FRG GDR NED BEL LUX SUI AUT POL CZE TCH SVK HUN ROU BUL GRE TUR YUG FRY SCG SRB CRO SLO SVN MNE BIH MKD ALB URS RUS UKR BLR EUN ROC LTU LAT EST FIN SWE NOR DEN ISL GEO ARM AZE ISR GBR BOH",
     "Americas": "USA CAN MEX CUB PUR DOM PAN CRC HON SLV GUA JAM TRI TTO HAI BAR BRA ARG URU PAR CHI PER BOL ECU COL VEN",
-    "Asia": "LIB PRC JPN KOR PRK CHN TPE HKG PHI THA MAS SIN SGP INA IND PAK BAN SRI IRN IRI IRQ KUW KSA QAT UAE BRN BHR JOR LBN SYR KAZ UZB MGL DEI",
-    "Africa": "LBA CAF DRC RSA EGY MAR ALG TUN NGR NGA SEN CIV CMR ANG ZIM RHO KEN GHA NAM CPV MOZ MLI COD ZAI SSD SUD RWA",
+    "Asia": "LIB PRC JPN KOR PRK CHN TPE HKG PHI THA MAS SIN SGP INA IND PAK BAN SRI IRN IRI IRQ KUW KSA QAT UAE BRN BHR JOR LBN SYR KAZ UZB MGL DEI MYA VIE TPE OMA YEM",
+    "Africa": "LBA CAF DRC RSA EGY MAR ALG TUN NGR NGA SEN CIV CMR ANG ZIM RHO KEN GHA NAM CPV MOZ MLI COD ZAI SSD SUD RWA ETH UGA ZAM BFA CGO EQG GAB GUI BEN TOG MAD MTN GAM SLE LBR",
     "Oceania": "TON AUS NZL FIJ SAM TGA PNG ANZ",
 }
 CONTINENT_OF = {code: cont for cont, codes in CONTINENTS.items() for code in codes.split()}
@@ -81,6 +82,11 @@ P = {  # Wikipedia pages
     "vb": "FIVB Men's Volleyball World Cup", "wvb": "FIVB Women's Volleyball World Cup", "olyvb": "Volleyball at the Summer Olympics",
     "hk": "Men's FIH Hockey World Cup", "whk": "Women's FIH Hockey World Cup", "olyhk": "Field hockey at the Summer Olympics",
     "olyfb": "Football at the Summer Olympics",
+    "ca": "Copa América", "ca_rec": "Copa América records and statistics", "ca_fin": "List of Copa América finals",
+    "euro": "UEFA European Championship", "euro_rec": "UEFA European Championship records and statistics",
+    "afcon": "Africa Cup of Nations", "afcon_fin": "List of Africa Cup of Nations finals", "asian": "AFC Asian Cup", "gold": "CONCACAF Gold Cup",
+    "wwc": "FIFA Women's World Cup", "wwc_rec": "FIFA Women's World Cup records and statistics",
+    "weuro": "UEFA Women's Championship", "cafem": "Copa América Femenina",
     "hb": "IHF World Men's Handball Championship", "whb": "IHF World Women's Handball Championship", "olyhb": "Handball at the Summer Olympics",
 }
 
@@ -217,6 +223,71 @@ COMPETITIONS = {
         "editions": ed(P["olyfb"], "year", "hosts", "gold medal match", nth=1, olympics=True),
         "history": {"USA": 5, "NOR": 1, "GER": 1, "CAN": 1}, "history_min": True, "history_through": 2024,
     },
+    # ---------- Football: continental championships (football/continental/) ----------
+    # Copa América and the Africa Cup of Nations have no single results table: their editions are rebuilt from the
+    # titles-by-team table (the years of every first to fourth place, hosts starred) and the finals' scores from the finals list.
+    "copa-america": {
+        "sport": "football", "folder": "football/continental", "label": "Copa América", "gender": "Men", "unit": "goals",
+        "podium": (P["ca"], ("team", "title(s)", "runners-up", "third place", "fourth place"), 0),
+        "hosts": (P["ca"], ("hosts", "editions hosted"), 0),
+        # The titles table links Ecuador's and Peru's 1959 fourth places to each other's edition (final standings of both).
+        "corrections": {"1959 (Argentina)": {"fourth": "PER"}, "1959 (Ecuador)": {"fourth": "ECU"}},
+        "finals": (P["ca_fin"], ("winners", "score", "runners-up", "venue"), 0),
+        "alltime": (P["ca_rec"], ("rank", "team", "part.", "pld"), 0,
+                    {"Team": "team", "Part.": "apps", "Pld": "pld", "W": "w", "D": "d", "L": "l", "GF": "pf", "GA": "pa", "Pts": "pts"}),
+        "players": [
+            ("Top scorers", P["ca_rec"], ("rank", "player", "country", "goals"), 0, {"Goals": "value", "Player": "name", "Country": "team"}),
+            ("Most matches", P["ca_rec"], ("rank", "player", "country", "matches", "tournaments"), 0,
+             {"Matches": "value", "Player": "name", "Country": "team", "Tournaments": "years"}),
+            ("Most assists", P["ca_rec"], ("rank", "player", "country", "assists"), 0, {"Assists": "value", "Player": "name", "Country": "team"}),
+        ],
+        "history": {"ARG": 16, "URU": 15, "BRA": 9, "PAR": 2, "CHI": 2, "PER": 2, "COL": 1, "BOL": 1}, "history_through": 2024,
+    },
+    "euro": {
+        "sport": "football", "folder": "football/continental", "label": "European Championship", "gender": "Men", "unit": "goals",
+        "editions": ed(P["euro"], "ed.", "year", "hosts", "final", "teams"),
+        "alltime": (P["euro_rec"], ("rank", "team", "part.", "pld"), 0,
+                    {"Team": "team", "Part.": "apps", "Pld": "pld", "W": "w", "D": "d", "L": "l", "GF": "pf", "GA": "pa", "Pts": "pts"}),
+        "history": {"ESP": 4, "FRG": 2, "GER": 1, "FRA": 2, "ITA": 2}, "history_through": 2024,
+    },
+    "afcon": {
+        "sport": "football", "folder": "football/continental", "label": "Africa Cup of Nations", "gender": "Men", "unit": "goals",
+        "podium": (P["afcon"], ("team", "winners", "runners-up", "third place", "fourth place"), 0),
+        "finals": (P["afcon_fin"], ("tournament", "winners", "score", "runners-up"), 0),
+        "history": {"EGY": 7, "CMR": 5, "GHA": 4, "NGR": 3, "CIV": 3, "ALG": 2}, "history_min": True, "history_through": 2024,
+    },
+    "asian-cup": {
+        "sport": "football", "folder": "football/continental", "label": "Asian Cup", "gender": "Men", "unit": "goals",
+        "editions": ed(P["asian"], "ed.", "year", "hosts", "final", "teams"),
+        "aliases": {"ROC": "TPE"},  # the Republic of China, today Chinese Taipei
+        "history": {"JPN": 4, "KSA": 3, "IRN": 3, "QAT": 2}, "history_through": 2023,
+    },
+    "gold-cup": {
+        "sport": "football", "folder": "football/continental", "label": "Gold Cup", "gender": "Men", "unit": "goals",
+        "editions": ed(P["gold"], "ed.", "year", "hosts", "final"),
+        "history": {"MEX": 10, "USA": 7, "CAN": 1}, "history_through": 2025,
+    },
+    # ---------- Women's football (football/womens/) ----------
+    "womens-world-cup": {
+        "sport": "football", "folder": "football/womens", "label": "Women's World Cup", "gender": "Women", "unit": "goals",
+        "editions": ed(P["wwc"], "ed.", "year", "hosts", "final", "no. of teams"),
+        "alltime": (P["wwc_rec"], ("rank", "team", "part", "pld"), 0,
+                    {"Team": "team", "Part": "apps", "Pld": "pld", "W": "w", "D": "d", "L": "l", "GF": "pf", "GA": "pa", "Pts": "pts"}),
+        "players": [("Top scorers", P["wwc"], ("rank", "player", "goals scored"), 0, {"Goals scored": "value", "Player": "name"})],
+        "history": {"USA": 4, "GER": 2, "NOR": 1, "JPN": 1, "ESP": 1}, "history_through": 2023,
+    },
+    "womens-euro": {
+        "sport": "football", "folder": "football/womens", "label": "Women's Euro", "gender": "Women", "unit": "goals",
+        "editions": ed(P["weuro"], "edition", "year", "host nation", "final"),
+        "history": {"GER": 7, "FRG": 1, "NOR": 2}, "history_min": True, "history_through": 2025,
+    },
+    "copa-america-femenina": {
+        "sport": "football", "folder": "football/womens", "label": "Copa América Femenina", "gender": "Women", "unit": "goals",
+        "editions": ed(P["cafem"], "ed.", "year", "host", "first place game"),
+        "alltime": (P["cafem"], ("rank", "team", "part", "m", "w"), 0,
+                    {"Team": "team", "Part": "apps", "M": "pld", "W": "w", "D": "d", "L": "l", "GF": "pf", "GA": "pa", "Points": "pts"}),
+        "history": {"BRA": 9, "ARG": 1}, "history_through": 2025,
+    },
     # ---------- Handball ----------
     "handball-wc-men": {
         "sport": "handball", "label": "World Championship", "gender": "Men", "unit": "goals",
@@ -287,7 +358,7 @@ def nth_table(text: str, needles: tuple, nth: int, exact_years: bool = False) ->
 
 
 # Older FIFA codes some football pages still use, as the IOC codes the rest of the site uses.
-CODE_ALIASES = {"CSK": "TCH", "DDR": "GDR", "SPA": "ESP", "SWI": "SUI"}
+CODE_ALIASES = {"CSK": "TCH", "DDR": "GDR", "SPA": "ESP", "SWI": "SUI", "QTR": "QAT", "LVA": "LAT", "HTI": "HAI"}
 
 SCORE = re.compile(r"(\d+)\s*[–-]\s*(\d+)")
 
@@ -345,6 +416,115 @@ def parse_editions(cfg: dict, refresh: bool) -> list[dict]:
             "teams": W.number(row[teams_col]["text"]) if teams_col is not None and teams_col < len(row) else None,
         }
     return [editions[y] for y in sorted(editions)]
+
+
+# A year, the edition's country when two were played that year ("1959~Ecuador"), and a host star.
+YEAR_MARK = re.compile(r"(?<!\d)(1[89]\d\d|20\d\d)(?:~([A-Za-z ]+))?\s*(\*?)")
+TWIN_LINK = re.compile(r"\[\[[^\]|]*?\((?!\d)([A-Za-z ]+)\)[^\]|]*\|((?:19|20)\d\d)\]\]")
+
+
+def parse_podium(cfg: dict, refresh: bool) -> list[dict]:
+    """Editions rebuilt from a titles-by-team table: one column of years per place, hosts starred (1921*)."""
+    title, needles, nth = cfg["podium"]
+    grid = nth_table(page(title, refresh), needles, nth)
+    editions: dict[tuple, dict] = {}
+    places = ("champion", "runnerUp", "third", "fourth")
+    for row in grid[1:]:
+        code = CODE_ALIASES.get(W.flag_code(row[0]["text"]) or "", W.flag_code(row[0]["text"])) if row else None
+        if not code:
+            continue
+        for place, cell in zip(places, row[1:5]):
+            # Links carry the year twice ([[1921 South American Championship|1921]]); read the visible text.
+            text = re.sub(r"\[\[#[^]|]*\|\*\]\]", "*", cell["text"])  # [[#1|*]] footnote links that mark the hosts
+            text = TWIN_LINK.sub(lambda m: f"{m.group(2)}~{m.group(1)}", text)
+            for m in YEAR_MARK.finditer(W.plain(text)):
+                year, twin = int(m.group(1)), (m.group(2) or "").strip()
+                e = editions.setdefault((year, twin), {"year": year, "hosts": [], "hostText": "", "champion": None, "runnerUp": None,
+                                                       "third": None, "fourth": None, "score": None, "note": None, "roundRobin": False, "teams": None})
+                if twin:
+                    e["label"] = f"{year} ({twin})"
+                if e[place] and e[place] != code:
+                    # A shared third place (no play-off): keep the first, the other goes fourth.
+                    if place == "third" and not e["fourth"]:
+                        e["fourth"] = code
+                        continue
+                    raise SystemExit(f"{title}: {m.group(1)} {place} is both {e[place]} and {code}")
+                e[place] = code
+                if m.group(3) and code not in e["hosts"]:
+                    e["hosts"].append(code)
+    finals = parse_finals(cfg, refresh)
+    hosts = parse_hosts(cfg, refresh)
+    out = []
+    # A year that only one edition was played in, but whose link names a country anyway, needs no label.
+    for (y, twin), e in editions.items():
+        if twin and sum(1 for k in editions if k[0] == y) == 1:
+            e.pop("label", None)
+    for key in sorted(editions):
+        e = editions[key]
+        y = e["year"]
+        if not (e["champion"] and e["runnerUp"]):
+            raise SystemExit(f"{title}: {e.get('label', y)} has no champion or runner-up")
+        e.update(cfg.get("corrections", {}).get(e.get("label", str(y)), {}))
+        listed = hosts.get((y, e.get("label", "").partition("(")[2].rstrip(")")))
+        if listed:
+            e["hosts"] = list(listed)  # the hosts table, which also names hosts that finished outside the top four
+        f = finals.get(y)
+        if f and not e["hosts"] and f.get("host") and "," not in f["score"]:
+            e["hosts"] = [f["host"]]  # the country of the final's venue
+        if f:
+            e["score"], e["note"] = f["score"], f["note"]
+        else:
+            e["roundRobin"] = bool(finals)  # no final that year: decided by a round robin
+        out.append(e)
+    return out
+
+
+def parse_hosts(cfg: dict, refresh: bool) -> dict[tuple, list[str]]:
+    """(year, twin country) -> hosts, from a table of each host and the years it hosted."""
+    if "hosts" not in cfg:
+        return {}
+    title, needles, nth = cfg["hosts"]
+    grid = nth_table(page(title, refresh), needles, nth)
+    out: dict[tuple, list[str]] = {}
+    for row in grid[1:]:
+        code = W.flag_code(row[0]["text"]) if row else None
+        if not code:
+            continue
+        for cell in row[1:]:
+            text = TWIN_LINK.sub(lambda m: f"{m.group(2)}~{m.group(1)}", cell["text"])
+            for m in YEAR_MARK.finditer(W.plain(text)):
+                out.setdefault((int(m.group(1)), (m.group(2) or "").strip()), []).append(CODE_ALIASES.get(code, code))
+    # A year with a single edition is also reachable without its country.
+    for (y, twin), codes in list(out.items()):
+        if twin and sum(1 for k in out if k[0] == y) == 1:
+            out.setdefault((y, ""), codes)
+    return out
+
+
+def parse_finals(cfg: dict, refresh: bool) -> dict[int, dict]:
+    """Final scores by year (every leg or replay, in order) from a list of finals."""
+    if "finals" not in cfg:
+        return {}
+    title, needles, nth = cfg["finals"]
+    grid = nth_table(page(title, refresh), needles, nth)
+    labels = [W.plain(l).strip().lower() for l in W.header_labels(grid[0])]
+    score_col = labels.index("score")
+    out: dict[int, dict] = {}
+    for row in grid[1:]:
+        if len(row) <= score_col:
+            continue
+        m = re.search(r"(?<!\d)(1[89]\d\d|20\d\d)(?!\d)", W.plain(" ".join(c["text"] for c in row[:2])))
+        s = SCORE.search(W.plain(row[score_col]["text"]))
+        if not m or not s:
+            continue
+        raw = row[score_col]["text"].lower()
+        note = "penalties" if ("pen" in raw or "shoot" in raw) else "extra time" if ("aet" in raw or "a.e.t" in raw) else None
+        loc = next((c for c, l in zip(row, labels) if l == "location"), None)
+        country = W.plain(loc["text"]).split(",")[-1].strip().lower() if loc else ""
+        f = out.setdefault(int(m.group(1)), {"scores": [], "note": None, "host": W.COUNTRY_NAMES.get(country)})
+        f["scores"].append(f"{s.group(1)}–{s.group(2)}")
+        f["note"] = note or f["note"]
+    return {y: {"score": ", ".join(f["scores"]), "note": f["note"], "host": f["host"]} for y, f in out.items()}
 
 
 def parse_stats(cfg: dict, refresh: bool) -> dict[int, dict]:
@@ -475,7 +655,7 @@ def parse_players(cfg: dict, refresh: bool) -> list[dict]:
 
 def build(key: str, refresh: bool) -> dict:
     cfg = COMPETITIONS[key]
-    editions = parse_editions(cfg, refresh)
+    editions = parse_podium(cfg, refresh) if "podium" in cfg else parse_editions(cfg, refresh)
     participation = parse_participation(cfg, refresh)
     for e in editions:
         e.update(parse_stats(cfg, refresh).get(e["year"], {}))
@@ -486,6 +666,15 @@ def build(key: str, refresh: bool) -> dict:
                 e["teams"] = sum(1 for p in participation if str(e["year"]) in p["results"]) or None
     alltime = parse_alltime(cfg, refresh)
     players = parse_players(cfg, refresh)
+    alias = {**CODE_ALIASES, **cfg.get("aliases", {})}
+    if alias:
+        fix = lambda c: alias.get(c, c)  # noqa: E731
+        for e in editions:
+            for k in ("champion", "runnerUp", "third", "fourth"):
+                e[k] = fix(e[k])
+            e["hosts"] = [fix(h) for h in e["hosts"]]
+        for r in (participation or []) + (alltime or []) + [r for p in players for r in p["rows"]]:
+            r["team"] = fix(r["team"])
     codes = set()
     for e in editions:
         codes |= {e["champion"], e["runnerUp"], e["third"], e["fourth"], *e["hosts"]}
@@ -495,7 +684,7 @@ def build(key: str, refresh: bool) -> dict:
     unknown = sorted(c for c in codes if team_info(c)["name"] == c)
     if unknown:
         print(f"{key}: teams without a name/flag: {unknown}", file=sys.stderr)
-    pages = {cfg["editions"]["page"]} | {cfg[k][0] for k in ("participation", "alltime") if k in cfg} | {p[1] for p in cfg.get("players", [])}
+    pages = {cfg["editions"]["page"] if "editions" in cfg else cfg["podium"][0]} | {cfg[k][0] for k in ("participation", "alltime", "finals") if k in cfg} | {p[1] for p in cfg.get("players", [])}
     return {
         "meta": {
             "generated": date.today().isoformat(), "key": key, "sport": cfg["sport"], "label": cfg["label"], "gender": cfg["gender"],
