@@ -520,6 +520,15 @@ h3.sub {
   display: none;
 }
 
+/* Tables whose second line (a date, a score, a share) matters at every width. */
+.data-table.with-sub .sub {
+  display: block;
+  margin-top: 2px;
+  font-size: 12px;
+  color: var(--ink-2);
+  white-space: normal;
+}
+
 @media (max-width: 640px) {
   .data-table th,
   .data-table td {
@@ -639,4 +648,69 @@ h3.sub {
   .card {
     padding: 16px;
   }
+}
+
+/* Toggle chips (pick up to four series), each pressed chip in its series color. */
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+
+.chips button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font: inherit;
+  font-size: 13px;
+  padding: 5px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--ink-2);
+  cursor: pointer;
+}
+
+.chips button:hover {
+  color: var(--ink);
+}
+
+.chips button[aria-pressed="true"] {
+  border-color: var(--c);
+  box-shadow: inset 0 0 0 1px var(--c);
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.chips button[aria-pressed="true"]::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  background: var(--c);
+}
+
+.chips .flag {
+  width: 18px;
+  height: 12px;
+}
+
+/* Line charts with a crosshair */
+
+.trend-line {
+  fill: none;
+  stroke-width: 2;
+  stroke-linejoin: round;
+}
+
+.trend-dot {
+  stroke: var(--surface);
+  stroke-width: 2;
+}
+
+.crosshair {
+  stroke: var(--axis);
+  stroke-dasharray: 3 3;
 }

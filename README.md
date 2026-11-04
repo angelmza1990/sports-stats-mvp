@@ -71,6 +71,8 @@ Every champion of Europe since the first FIBA European Champions Cup in 1958, fr
 - **The race for the most European titles** and **titles by club and by country**, checked club by club against Wikipedia's titles table
 - **Every final:** champion, score (or the games of two-legged and best-of finals), runner-up, host, finals MVP and champion coach
 - **All-time table of the EuroLeague era:** every club's games, wins, losses and points since 2000–01, with its European titles since 1958
+- **Elo ratings:** a rating for every club after every EuroLeague game since 2000–01 (K 25 with a margin-of-victory multiplier, 100 points for home court except at the Final Four, 90% kept between seasons; tuned for the lowest log loss), with the highest peaks, today's ranking, the best-rated team going into each season's playoffs against the champion, and the biggest upsets by the winner's pre-game chance
+- **Home court:** the home side's win share season by season (2020–21, played without fans, was the second lowest) and by stage
 - **The most decorated coaches and players:** titles and lost finals, with the winning years
 - **Great rivalries:** Real Madrid vs FC Barcelona, Panathinaikos vs Olympiacos, Fenerbahçe vs Anadolu Efes, Real Madrid vs Olympiacos, Panathinaikos vs Maccabi Tel Aviv, every EuroLeague game between them, the lead game by game, the finals they played and, for El Clásico and the Derby of the Eternal Enemies, their record in every competition
 

@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>EuroLeague · Basketball</title>
-  <meta name="description" content="Every European champion since 1958: a titles bar chart race, titles by club and country, every final, the all-time table, the coaches and players with the most titles, and the great rivalries of European basketball.">
+  <meta name="description" content="Every European champion since 1958: a titles bar chart race, titles by club and country, every final, the all-time table, Elo ratings of every club since 2000, the biggest upsets, home-court advantage, the coaches and players with the most titles, and the great rivalries of European basketball.">
   <link rel="stylesheet" href="../../assets/theme.css">
   <link rel="stylesheet" href="../../assets/viz.css">
   <link rel="stylesheet" href="../../football/football.css">
@@ -18,7 +18,7 @@
     <h1>EuroLeague</h1>
     <p class="lede">
       Every champion of Europe since the first FIBA European Champions Cup in 1958, through the Final Four era to today's EuroLeague:
-      who has won it, every final, the all-time table, the coaches and players with the most titles, and the rivalries that have shaped European basketball.
+      who has won it, every final, the all-time table, Elo ratings game by game, the value of home court, the coaches and players with the most titles, and the rivalries that have shaped European basketball.
     </p>
     <div class="stat-row" id="stats"></div>
   </header>
@@ -89,6 +89,60 @@
       </div>
     </section>
 
+    <section class="block" id="elo">
+      <div class="block-head">
+        <h2>Elo ratings: the strongest teams of the EuroLeague era</h2>
+        <p id="elo-lede">
+          A rating for every club after every EuroLeague game since 2000–01, the same system chess uses: beating a stronger team earns more points than beating a weaker one, and bigger wins earn more.
+          1500 is an average EuroLeague team. Pick up to four clubs.
+        </p>
+      </div>
+      <div class="card">
+        <div class="chips" id="elo-chips" role="group" aria-label="Clubs"></div>
+        <div class="legend" id="elo-legend"></div>
+        <div id="elo-chart" class="chart"></div>
+        <p class="chart-note" id="elo-note"></p>
+      </div>
+      <div class="grid-2" style="margin-top:16px">
+        <div class="card">
+          <h3 class="sub">The highest peaks</h3>
+          <div class="data-table with-sub" id="peaks-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">The ranking today</h3>
+          <div id="current-list"></div>
+        </div>
+      </div>
+      <div class="grid-2" style="margin-top:16px">
+        <div class="card">
+          <h3 class="sub">The best team going into the playoffs, and the champion</h3>
+          <div class="data-table tall with-sub" id="best-table"></div>
+          <p class="chart-note" id="best-note"></p>
+        </div>
+        <div class="card">
+          <h3 class="sub">The biggest upsets</h3>
+          <div class="data-table tall with-sub" id="upsets-table"></div>
+          <p class="chart-note">The winner's chance before the game, from the two ratings and home court.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="home">
+      <div class="block-head">
+        <h2>How much is home court worth?</h2>
+        <p id="home-lede">The share of games the home team won, season by season. Final Four games, played at a neutral venue, are left out.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="home-legend"></div>
+        <div id="home-chart" class="chart"></div>
+        <p class="chart-note" id="home-note"></p>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <h3 class="sub">By stage</h3>
+        <div class="data-table" id="home-phases"></div>
+      </div>
+    </section>
+
     <section class="block" id="people">
       <div class="block-head">
         <h2>The most decorated coaches and players</h2>
@@ -146,7 +200,7 @@
 
   <footer class="site-footer wrap">
     <p><strong>Data:</strong> <a href="https://en.wikipedia.org/wiki/EuroLeague_Championship_Game">Wikipedia, EuroLeague Championship Game</a> (CC BY-SA 4.0): every final, its awards, the titles by club and the coaches and players with the most titles;
-      every game since 2000–01, for the all-time table, the rivalries and the clubs' crests, from <a href="https://www.euroleaguebasketball.net/">Euroleague Basketball</a>'s public results; the rivalries' totals in every competition from their Wikipedia articles (<span id="rivalry-sources"></span>). <span id="data-through"></span></p>
+      every game since 2000–01, for the all-time table, the Elo ratings, home advantage, the rivalries and the clubs' crests, from <a href="https://www.euroleaguebasketball.net/">Euroleague Basketball</a>'s public results; the rivalries' totals in every competition from their Wikipedia articles (<span id="rivalry-sources"></span>). <span id="data-through"></span></p>
     <p><strong>Notes:</strong> the competition was the FIBA European Champions Cup until 1991, the FIBA European League until 2000 and the EuroLeague since; in 2000–01 the clubs split between FIBA's SuproLeague and the clubs' own Euroleague, and both champions count, as the source counts them. The 2019–20 season was cancelled because of the COVID-19 pandemic.
       Clubs are named, and their countries given, as the source's titles table lists them (the Soviet Union and Yugoslavia have no flag here); clubs that never won it go by their name without a sponsor. The all-time table counts every game from the regular season to the final, and its titles column counts every European title since 1958.</p>
     <p>Club names are trademarks of their owners. This project is not affiliated with Euroleague Basketball or FIBA.</p>
@@ -157,5 +211,6 @@
   <script src="../../assets/viz.js"></script>
   <script src="../../football/common.js"></script>
   <script src="app.js"></script>
+  <script src="elo.js"></script>
 </body>
 </html>
