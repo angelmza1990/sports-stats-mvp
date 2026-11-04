@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Formula 1 · Motorsport</title>
-  <meta name="description" content="Every Formula One World Champion since 1950: bar chart races of drivers', constructors' and nations' titles, titles by nationality and constructor, and all-time race wins.">
+  <meta name="description" content="Every Formula One World Champion since 1950: bar chart races of drivers', constructors' and nations' titles, titles by nationality and constructor, all-time race wins, how every title was won, driver and constructor records and the circuits.">
   <link rel="stylesheet" href="../../assets/theme.css">
   <link rel="stylesheet" href="../../assets/viz.css">
   <link rel="stylesheet" href="../../football/football.css">
@@ -15,7 +15,7 @@
     <p class="kicker"><a href="../../">Sports Stats</a> · Motorsport</p>
     <h1>Formula 1</h1>
     <p class="lede">
-      Every World Champion since the first championship in 1950: the drivers, the constructors and the countries behind them, plus the all-time race winners.
+      Every World Champion since the first championship in 1950: the drivers, the constructors and the countries behind them, the all-time race winners, how close every title fight was, the records and the circuits.
     </p>
     <div class="stat-row" id="stats"></div>
   </header>
@@ -91,6 +91,55 @@
         <div id="wins-list"></div>
       </div>
     </section>
+
+    <section class="block" id="margins">
+      <div class="block-head">
+        <h2>How the titles were won</h2>
+        <p>The champion's winning margin over the runner-up, as a share of the champion's points so that every points system compares. Darker bars went down to the last race. Hover or tap a season.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="margin-legend"></div>
+        <div id="margin-chart" class="chart"></div>
+        <p class="chart-note" id="margin-note"></p>
+      </div>
+      <div class="grid-2" style="margin-top:16px">
+        <div class="card">
+          <h3 class="sub">The closest titles</h3>
+          <div class="data-table with-sub" id="closest-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">The most dominant</h3>
+          <div class="data-table with-sub" id="dominant-table"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="records">
+      <div class="block-head">
+        <h2>Records</h2>
+        <p>The top ten of the main driver and constructor records, including the current season.</p>
+      </div>
+      <div class="controls">
+        <div class="segmented" role="tablist" aria-label="Records of" id="records-group"></div>
+        <select id="records-pick" aria-label="Record"></select>
+      </div>
+      <div class="card">
+        <div class="data-table with-sub" id="records-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="circuits">
+      <div class="block-head">
+        <h2>Circuits</h2>
+        <p id="circuits-lede">The circuits that have hosted the most World Championship Grands Prix, and the countries.</p>
+      </div>
+      <div class="controls">
+        <div class="segmented" role="tablist" aria-label="Group by" id="circuits-tabs"></div>
+      </div>
+      <div class="card">
+        <div id="circuits-list"></div>
+      </div>
+    </section>
   </main>
 
   <footer class="site-footer wrap">
@@ -108,5 +157,6 @@
   <script src="../../assets/viz.js"></script>
   <script src="../../football/common.js"></script>
   <script src="app.js"></script>
+  <script src="more.js"></script>
 </body>
 </html>

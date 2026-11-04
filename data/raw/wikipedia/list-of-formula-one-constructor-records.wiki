@@ -1,0 +1,5550 @@
+{{Short description|none}}
+{{Hatnote|This page is accurate as of the [[{{F1stat|UPTO}}]]. Constructors that have competed in the [[2026 Formula One World Championship]] are highlighted in '''bold'''.}}
+{{For|other records relating to Formula One|List of Formula One records (disambiguation){{!}}List of Formula One records}}
+{{use dmy dates|date=February 2024}}
+{{Formula One|records}}
+The [[World Constructors' Championship]] has been held since {{F1|1958}}. Constructor records listed here include all rounds which formed part of the World Championship since 1950: this includes the [[Indianapolis 500]] from 1950 to 1960 (although it was not run to [[Formula One]] rules), and the 1952 and 1953 World Championship Grands Prix (which were run to [[Formula Two]] rules). Formula One races that were not qualification rounds for the World Championship are not included, and [[Sprint (Formula One)|sprints]] are only included when specified.
+
+==Races entered and started==
+Constructors are considered to be entered into a race if they attempt to compete in at least one official practice session with the intent of participating in the race. These constructors are noted on the entry list for that race. A constructor is considered to have started a race if at least one of their drivers line up on the grid or at the pit lane exit for the start of the race. If a race is stopped and restarted, participation in any portion of the race is counted only if that portion was in any way counted towards the final classification (e.g. races stopped before the end of the leader's second lap were declared null and void prior to 2005).
+
+===Total races started===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Entries
+!scope="col"| Starts
+!scope="col"| Seasons
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1cstat|FER|entries}}
+|{{F1cstat|FER|starts}}
+|{{F1|1950}}–{{F1|2026}}
+|-
+!scope="row"| 2
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1cstat|MCL|entries}}
+|{{F1cstat|MCL|starts}}
+|{{F1|1966}}–{{F1|2026}}
+|-
+!scope="row"| 3
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1cstat|WIL|entries}}<!-- Williams had 11 additional entries as a customer team. -->
+|{{F1cstat|WIL|starts}}
+|{{F1|1978}}–{{F1|2026}}
+|-
+!scope="row"| 4
+|align="left"|{{flagicon|CHE}}/{{flagicon|DEU}} [[Sauber Motorsport|Sauber]]/[[BMW in Formula One#BMW Sauber|BMW Sauber]]<ref name="Sauber" group="N">Sauber held a [[List of Formula One constructors#Team's nationality|Swiss licence]] from {{F1|1993}}–{{F1|2005}}, {{F1|2010}}–{{F1|2018}} and from {{F1|2024}}–{{F1|2025}} (in 2010 as ''BMW Sauber'' and from 2024–2025 as ''Kick Sauber''), and a German licence (as ''BMW Sauber'') from {{F1|2006}}–{{F1|2009}}.</ref>
+|513
+|510
+|{{F1|1993}}–{{F1|2018}}, {{F1|2024}}–{{F1|2025}}
+|-
+!scope="row"| 5
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|491
+|489
+|{{F1|1958}}–{{F1|1994}}
+|-
+!scope="row"| 6
+|align="left"|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N">Red Bull held a [[List of Formula One constructors#Team's nationality|British licence]] from {{F1|2005}} to {{F1|2006}}, and an Austrian licence from {{F1|2007}} onwards</ref>
+|{{F1cstat|RBR|entries}}
+|{{F1cstat|RBR|starts}}
+|{{F1|2005}}–{{F1|2026}}
+|-
+!scope="row"| 7
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|433<!-- Only entries as a constructor are counted, entries as a customer team are excluded. -->
+|430
+|{{F1|1970}}–{{F1|1998}}
+|-
+!scope="row"| 8
+|align="left"|{{flagicon|FRA}}/{{flagicon|GBR}} [[Renault in Formula One|Renault]]<ref name="Renault" group="N">Renault held a [[List of Formula One constructors#Team's nationality|French licence]] from {{F1|1977}}–{{F1|1985}}, {{F1|2002}}–{{F1|2010}} and {{F1|2016}}–{{F1|2020}}, and a British licence in {{F1|2011}}.</ref> 
+|403
+|400
+|{{F1|1977}}–{{F1|1985}}, {{F1|2002}}–{{F1|2011}},{{F1|2016}}–{{F1|2020}}
+|-
+!scope="row"| 9
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|403
+|394
+|{{F1|1962}}–{{F1|1987}}, {{F1|1989}}–{{F1|1992}}
+|-
+!scope="row"| 10
+|align="left"|{{flagicon|GBR}} [[Arrows Grand Prix International|Arrows]]
+|394
+|382
+||{{F1|1978}}–{{F1|2002}}
+|-
+|colspan=5|{{small|Source:<ref name="GrandPrixNumber">{{cite web|title=Grands Prix number|url=http://www.statsf1.com/en/statistiques/constructeur/gp/nombre.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source combines [[Frank Williams Racing Cars|Williams FW]] of {{F1|1975}} and [[Frank Williams Racing Cars|Wolf–Williams Racing]] of {{F1|1976}} with [[Williams Grand Prix Engineering|Williams]]
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics.
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+* Source separates [[Arrows Grand Prix International|Arrows]] and [[Footwork Arrows]] statistics.
+
+== 1–2 finishes ==
+
+===Total 1–2 finishes===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| Races
+!scope="col"| 1–2s
+!scope="col"| Percentage
+|-
+!scope="row"| 1
+|align="left"| {{flagicon|ITA}}  '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1950}}–{{F1|2026}}
+|{{F1cstat|FER|starts}}
+|87
+|{{percentage|87|{{F1cstat|FER|starts}}|2|pad=yes}}
+|-
+!scope="row"| 2
+|align="left"| {{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{nowrap|{{F1|1954}}–{{F1|1955}},<br />{{F1|2010}}–{{F1|2026}}}}
+|{{F1cstat|MRC|starts}}
+|63
+|{{percentage|63|{{F1cstat|MRC|starts}}|2|pad=yes}}
+|-
+!scope="row"| 3
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1966}}–{{F1|2026}}
+|{{F1cstat|MCL|starts}}
+|56
+|{{percentage|56|{{F1cstat|MCL|starts}}|2|pad=yes}}
+|-
+!scope="row"| 4
+|align="left"| {{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1978}}–{{F1|2026}}
+|{{F1cstat|WIL|starts}}
+|33
+|{{percentage|33|{{F1cstat|WIL|starts}}|2|pad=yes}}
+|-
+!scope="row"| 5
+|align="left"|{{nowrap|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />}}
+|{{F1|2005}}–{{F1|2026}}
+|{{F1cstat|RBR|starts}}
+|31
+|{{percentage|31|{{F1cstat|RBR|starts}}|2|pad=yes}}
+|-
+!scope="row" rowspan=3|6
+|align=left| {{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1958}}–{{F1|1994}}
+|489
+|rowspan=3|8
+|{{percentage|8|489|2|pad=yes}}
+|-
+|align=left| {{flagicon|GBR}} [[Brabham]]
+|{{F1|1962}}–{{F1|1987}},<br />{{F1|1989}}–{{F1|1992}}
+|394
+|{{percentage|8|394|2|pad=yes}}
+|-
+|align="left"| {{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|{{F1|1970}}–{{F1|1998}}
+|430
+|{{percentage|8|430|2|pad=yes}}
+|-
+!scope="row"| 9
+|align="left"| {{flagicon|GBR}} [[Cooper Car Company|Cooper]]
+|{{F1|1950}}–{{F1|1969}}
+|129
+|6
+|{{percentage|6|129|2|pad=yes}}
+|-
+!scope="row"| 10
+|align="left"| {{flagicon|GBR}} [[British Racing Motors|BRM]]
+|{{F1|1951}}–{{F1|1977}}
+|197
+|5
+|{{percentage|5|197|2|pad=yes}}
+|-
+|colspan=6 align="center"| {{small|Source:<ref>{{cite web|title=Podiums by one-two|url=http://www.statsf1.com/en/statistiques/constructeur/podium/double.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Most 1–2 finishes in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Season
+!scope="col"| Races
+!scope="col"| 1–2s
+!scope="col"| Percentage
+|-
+!scope="row"| 1
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2015}}
+|19
+|12
+|63.16%
+|-
+!scope="row"| 2
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|19
+|11
+|57.89%
+|-
+!scope="row"| 3
+|align="left"| {{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1988}}
+|16
+|10
+|62.50%
+|-
+!scope="row" rowspan=2|4
+|align="left"| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2002}}
+|17
+|rowspan=2|9
+|52.94%
+|-
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2019}}
+|21
+|42.86%
+|-
+!scope="row" rowspan="2" |6
+|align="left"| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2004}}
+|18
+|scope="row" rowspan="2" |8
+|44.44%
+|-
+|align="left"| {{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2016}}
+|21
+|38.10%
+|-
+!scope="row"| 8
+|align="left"| {{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|2025}}
+|24
+|7
+|29.17%
+|-
+!scope="row" rowspan="4" |9
+|align="left"| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1952}}
+|8
+|rowspan="4" |6
+|75.00%
+|-
+|align="left" rowspan="2"| {{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1992}}
+|16
+|37.50%
+|-
+|{{F1|1996}}
+|16
+|37.50%
+|-
+|align="left"| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2023}}
+|22
+|27.27%
+|-
+|colspan=6| {{small|Source:<ref>{{cite web|title=Podiums one-two in a year|url=http://www.statsf1.com/en/statistiques/constructeur/podium/double-annee.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most consecutive 1–2 finishes===
+{|class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Season(s)
+!scope="col"| 1–2s
+!scope="col"| Races
+|-
+!scope="row" rowspan="5"| 1
+|rowspan=2|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align="center"|{{F1|1952}}
+| rowspan="5" align="center" |5
+|[[1952 Belgian Grand Prix]] – [[1952 Dutch Grand Prix]]
+|-
+|align="center"| {{F1|2002}}
+|[[2002 Hungarian Grand Prix]] – [[2002 Japanese Grand Prix]]
+|-
+|rowspan="3"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|{{F1|2014}}
+|[[2014 Malaysian Grand Prix]] – [[2014 Monaco Grand Prix]]
+|-
+|align="center"|{{F1|2015}}–{{F1|2016}}
+|{{nowrap|[[2015 United States Grand Prix]] – [[2016 Australian Grand Prix]]}}
+|-
+|align="center"|{{F1|2019}}
+|[[2019 Australian Grand Prix]] – [[2019 Spanish Grand Prix]]
+|-
+!scope="row" rowspan="6"| 6
+|rowspan="3"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center" |{{F1|1955}}
+|rowspan="6" align="center"| 4
+|[[1955 Belgian Grand Prix]] – [[1955 Italian Grand Prix]]
+|-
+|align="center"| {{F1|2014}}
+|[[2014 Japanese Grand Prix]] – [[2014 Brazilian Grand Prix]]
+|-
+|align="center"|{{F1|2016}}
+|[[2016 United States Grand Prix]] – [[2016 Abu Dhabi Grand Prix]]
+|-
+|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align="center"|{{F1|1980}}–{{F1|1981}}
+|[[1980 Canadian Grand Prix]] – [[1981 Brazilian Grand Prix]]
+|-
+|rowspan=2|{{flagicon|GBR}} '''[[McLaren]]'''
+|align="center"|{{F1|1988}}
+|[[1988 Mexican Grand Prix]] – [[1988 French Grand Prix]]
+|-
+|align="center"|{{F1|2025}}
+|[[2025 Austrian Grand Prix]] – [[2025 Hungarian Grand Prix]]
+|-
+|colspan=5 align="center"| {{small|Source:<ref>{{cite web|title=Podiums consecutive one-two|url=http://www.statsf1.com/en/statistiques/constructeur/podium/double-consecutif.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+==Wins==
+
+===Total wins===
+{{main|List of Formula One Grand Prix winners (constructors)#By constructor|l1=List of Formula One Grand Prix winners (constructors)}}
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| Starts
+!scope="col"| Wins
+!scope="col"| Percentage
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1950}}–{{F1|2026}}
+|{{F1cstat|FER|starts}}
+|{{F1cstat|FER|wins}}
+|{{percentage|{{F1cstat|FER|wins}}|{{F1cstat|FER|starts}}|2|pad=yes}}
+|-
+!scope="row"| 2
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1966}}–{{F1|2026}}
+|{{F1cstat|MCL|starts}}
+|{{F1cstat|MCL|wins}}
+|{{percentage|{{F1cstat|MCL|wins}}|{{F1cstat|MCL|starts}}|2|pad=yes}}
+|-
+!scope="row"| 3
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|1954}}–{{F1|1955}}, {{F1|2010}}–{{F1|2026}}
+|{{F1cstat|MRC|starts}}
+|{{F1cstat|MRC|wins}}
+|{{percentage|{{F1cstat|MRC|wins}}|{{F1cstat|MRC|starts}}|2|pad=yes}}
+|-
+!scope="row"| 4
+|align="left"|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|{{F1|2005}}–{{F1|2026}}
+|{{F1cstat|RBR|starts}}
+|{{F1cstat|RBR|wins}}
+|{{percentage|{{F1cstat|RBR|wins}}|{{F1cstat|RBR|starts}}|2|pad=yes}}
+|-
+!scope="row"| 5
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1978}}–{{F1|2026}}
+|{{F1cstat|WIL|starts}}
+|{{F1cstat|WIL|wins}}
+|{{percentage|{{F1cstat|WIL|wins}}|{{F1cstat|WIL|starts}}|2|pad=yes}}
+|-
+!scope="row"| 6
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1958}}–{{F1|1994}}
+|489
+|79
+|{{percentage|79|489|2|pad=yes}}
+|-
+!scope="row" rowspan=2|7
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|{{F1|1962}}–{{F1|1987}}, {{F1|1989}}–{{F1|1992}}
+|394
+|rowspan=2|35
+|{{percentage|35|394|2|pad=yes}}
+|-
+|align="left"|{{flagicon|FRA}}/{{flagicon|GBR}} [[Renault in Formula One|Renault]]<ref name="Renault" group="N" />
+|{{nowrap|{{F1|1977}}–{{F1|1985}}, {{F1|2002}}–{{F1|2011}}, {{F1|2016}}–{{F1|2020}}}}
+|400
+|{{percentage|35|400|2|pad=yes}}
+|-
+!scope="row"| 9
+|align="left"|{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N">Benetton held a [[List of Formula One constructors#Team's nationality|British licence]] from {{F1|1986}} to {{F1|1995}}, and an Italian licence from {{F1|1996}} to {{F1|2001}}</ref> 
+|{{F1|1986}}–{{F1|2001}}
+|260
+|27
+|{{percentage|27|260|2|pad=yes}}
+|-
+!scope="row"| 10
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|{{F1|1970}}–{{F1|1998}}
+|430
+|23
+|{{percentage|23|430|2|pad=yes}}
+|-
+|colspan=6|{{small|Source:<ref name="WinsByNumber">{{cite web|title=Wins by number|url=https://www.statsf1.com/en/statistiques/constructeur/victoire/nombre.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Percentage wins===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Races
+!scope="col"| Wins
+!scope="col"| Percentage
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|GBR}} [[Brawn GP|Brawn]]
+|17
+|8
+|{{percentage|8|17|2|pad=yes}}
+|-
+!scope="row"| 2
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1cstat|MRC|starts}}
+|{{F1cstat|MRC|wins}}
+|{{percentage|{{F1cstat|MRC|wins}}|{{F1cstat|MRC|starts}}|2|pad=yes}}
+|-
+!scope="row"| 3
+|align="left"|{{flagicon|GBR}} [[Vanwall]]
+|28
+|9
+|{{percentage|9|28|2|pad=yes}}
+|-
+!scope="row"| 4
+|align="left"|{{nowrap|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />}}
+|{{F1cstat|RBR|starts}}
+|{{F1cstat|RBR|wins}}
+|{{percentage|{{F1cstat|RBR|wins}}|{{F1cstat|RBR|starts}}|2|pad=yes}}
+|-
+!scope="row"| 5
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1cstat|FER|starts}}
+|{{F1cstat|FER|wins}}
+|{{percentage|{{F1cstat|FER|wins}}|{{F1cstat|FER|starts}}|2|pad=yes}}
+|-
+!scope="row"| 6
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1cstat|MCL|starts}}
+|{{F1cstat|MCL|wins}}
+|{{percentage|{{F1cstat|MCL|wins}}|{{F1cstat|MCL|starts}}|2|pad=yes}}
+|-
+!scope="row"| 7
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|489
+|79
+|{{percentage|79|489|2|pad=yes}}
+|-
+!scope="row"| 8
+|align="left"|{{flagicon|FRA}} [[Equipe Matra Sports|Matra]]
+|61
+|9
+|{{percentage|9|61|2|pad=yes}}
+|-
+!scope="row"| 9
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1cstat|WIL|starts}}
+|{{F1cstat|WIL|wins}}
+|{{percentage|{{F1cstat|WIL|wins}}|{{F1cstat|WIL|starts}}|2|pad=yes}}
+|-
+!scope="row"| 10
+|align="left"|{{flagicon|GBR}} [[Cooper Car Company|Cooper]]
+|129
+|16
+|{{percentage|16|129|2|pad=yes}}
+|-
+|colspan="5"|{{small|Source:<ref name="WinsByNumber" />}}
+|}
+
+;Notes
+* Source includes [[Kurtis Kraft]], [[Quin Epperly|Epperly]] and [[A. J. Watson|Watson]] in the top 10, but the [[Indianapolis 500]] did not count towards the International Cup for F1 Manufacturers.
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Most wins in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"|Constructor
+!scope="col"|Season
+!scope="col"|Races
+!scope="col"|Wins
+!scope="col"|Percentage
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2023}}
+|22
+|21
+|{{percentage|21|22|2|pad=yes}}
+|-
+!scope="row"| 2
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2016}}
+|21
+|19
+|{{percentage|19|21|2|pad=yes}}
+|-
+!scope="row"| 3
+| align="left" |{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2022}}
+|22
+|17
+|{{percentage|17|22|2|pad=yes}}
+|-
+!scope="row" rowspan="2" |4
+|rowspan=2 align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|19
+| rowspan="2" |16
+|{{percentage|16|19|2|pad=yes}}
+|-
+|{{F1|2015}}
+|19
+|{{percentage|16|19|2|pad=yes}}
+
+|-
+!scope="row" rowspan="4" |6
+| align="left" |{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1988}}
+|16
+| rowspan="4" |15
+|{{percentage|15|16|2|pad=yes}}
+|-
+|rowspan=2 align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2002}}
+|17
+|{{percentage|15|17|2|pad=yes}}
+|-
+|{{F1|2004}}
+|18
+|{{percentage|15|18|2|pad=yes}}
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2019}}
+|21
+|{{percentage|15|21|2|pad=yes}}
+|- align="center"
+!scope="row"|10
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|2025}}
+|24
+|14
+|{{percentage|14|24|2|pad=yes}}
+|-
+|colspan=6|{{small|Source:<ref name="SeasonWins">{{cite web|title=Wins in a year|url=https://www.statsf1.com/en/statistiques/constructeur/victoire/annee.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Highest percentage of wins in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Season
+!scope="col"| Races
+!scope="col"| Wins
+!scope="col"| Percentage
+|-
+!scope="row"| 1
+| align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2023}}
+|22
+|21
+|{{percentage|21|22|2|pad=yes}}
+|-
+!scope="row"| 2
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1988}}
+|16
+|15
+|{{percentage|15|16|2|pad=yes}}
+|-
+!scope="row"| 3
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2016}}
+|21
+|19
+|{{percentage|19|21|2|pad=yes}}
+|-
+!scope="row"| 4
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2002}}
+|17
+|15
+|{{percentage|15|17|2|pad=yes}}
+|-
+!scope="row"| 5
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1952}}
+|8
+|7
+|{{percentage|7|8|2|pad=yes}}
+|-
+!scope="row"| 6
+|align="left"|{{flagicon|ITA}} [[Alfa Romeo in Formula One|Alfa Romeo]]
+|{{F1|1950}}
+|7
+|6
+|{{percentage|6|7|2|pad=yes}}
+|-
+!scope="row" rowspan=2|7
+|rowspan=2 align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|19
+|16
+|rowspan="2"|{{percentage|16|19|2|pad=yes}}
+|-
+|{{F1|2015}}
+|19
+|16
+|-
+!scope="row"| 9
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2004}}
+|18
+|15
+|{{percentage|15|18|2|pad=yes}}
+|-
+!scope="row"| 10
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1953}}
+|9
+|7
+|{{percentage|7|9|2|pad=yes}}
+|-
+|colspan=6|{{small|Source:<ref name="SeasonWins" />}}
+|}
+
+=== Most seasons with a win ===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col" | Constructor
+! scope="col" | Seasons with a win
+|-
+! scope="row" | 1
+| align="left" |{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|60
+|-
+! scope="row" | 2
+| align="left" |{{flagicon|GBR}} '''[[McLaren]]'''
+|40
+|-
+! scope="row" | 3
+| align="left" |{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|23
+|-
+! scope="row" | 4
+| align="left" |{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|21
+|-
+! scope="row" | 5
+| align="left" |{{nowrap|{{flagicon|AUT}} '''[[Red Bull Racing]]'''}}
+|17
+|-
+! scope="row" | 6
+| align="left" |{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|16
+|-
+! scope="row" | 7
+| align="left" |{{flagicon|GBR}} [[Brabham]]
+|14
+|-
+! scope="row" | 8
+| align="left" |{{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|10
+|-
+! rowspan="3" scope="row" | 9
+| align="left" |{{flagicon|GBR}} [[British Racing Motors|BRM]]
+| rowspan="3" |9
+|-
+| align="left" |{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|-
+| align="left" |{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N" />
+|-
+| colspan="3" |{{small|Source:<ref name="u578">{{cite web | last=F1 | first=Stats | title=Wins | website=Statistics Constructors | url=https://www.statsf1.com/en/statistiques/constructeur/victoire/nb-annee.aspx/ | access-date=4 October 2026 }}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Most consecutive wins===
+{|class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Wins
+!scope="col"| Season(s)
+!scope="col"| Races
+|-
+!scope="row"| 1
+|{{flagicon|AUT}} ''' [[Red Bull Racing]]'''
+|align=center|15
+|align="center"|{{F1|2022}}–{{F1|2023}}
+|[[2022 Abu Dhabi Grand Prix]] – [[2023 Italian Grand Prix]]
+|-
+!scope="row"| 2
+|{{flagicon|GBR}} '''[[McLaren]]'''
+|align="center"|11
+|align="center"|{{F1|1988}}
+|[[1988 Brazilian Grand Prix]] – [[1988 Belgian Grand Prix]]
+|-
+!scope="row" rowspan="4" |3
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+| rowspan="4" align="center" |10
+|align="center"|{{F1|2002}}
+|[[2002 Canadian Grand Prix]] – [[2002 Japanese Grand Prix]]
+|-
+| rowspan="3" |{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|{{nowrap|{{F1|2015}}–{{F1|2016}}}}
+|[[2015 Japanese Grand Prix]] – [[2016 Russian Grand Prix]]
+|- 
+|align="center"| {{F1|2016}}
+|[[2016 Monaco Grand Prix]] – [[2016 Singapore Grand Prix]]
+|-
+|align="center"| {{F1|2018}}–{{F1|2019}}
+|[[2018 Brazilian Grand Prix]] – [[2019 French Grand Prix]]
+|-
+!scope="row" rowspan="3"| 7
+|rowspan="3"| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+| rowspan="3" align="center" |9
+|align="center"|{{F1|2013}}
+|[[2013 Belgian Grand Prix]] – [[2013 Brazilian Grand Prix]]
+|-
+| align="center" |{{F1|2022}}
+|[[2022 French Grand Prix]] – [[2022 Mexico City Grand Prix]]
+|-
+|align="center"|{{F1|2023}}–{{F1|2024}}
+|[[2023 Japanese Grand Prix]] – [[2024 Saudi Arabian Grand Prix]]
+|-
+!scope="row" rowspan="3"| 10
+|{{flagicon|GBR}} '''[[McLaren]]'''
+|rowspan="3" align="center"| 8
+|align="center"| {{F1|1984}}–{{F1|1985}}
+|[[1984 British Grand Prix]] – [[1985 Brazilian Grand Prix]]
+|-
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align="center"| {{F1|2003}}–{{F1|2004}}
+|[[2003 Italian Grand Prix]] – [[2004 Spanish Grand Prix]]
+|-
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|{{F1|2014}}–{{F1|2015}}
+|[[2014 Italian Grand Prix]] – [[2015 Australian Grand Prix]]
+|-
+|colspan=5 align=center|{{small|Source:<ref name="Consecutive Wins">{{cite web|title=Wins consecutively|url=http://www.statsf1.com/en/statistiques/constructeur/victoire/consecutive.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most consecutive wins from first race of season===
+{| class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Wins
+!scope="col"| Season
+!scope="col"| Races
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|AUT}} ''' [[Red Bull Racing]]'''
+|align=center|14
+|align="center"|{{F1|2023}}
+|[[2023 Bahrain Grand Prix]] – [[2023 Italian Grand Prix]]
+|-
+!scope="row"| 2
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center|11
+|align=center|{{F1|1988}}
+|[[1988 Brazilian Grand Prix]] – [[1988 Belgian Grand Prix]]
+|-
+!scope="row" | 3
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center |8
+|align=center|{{F1|2019}}
+|[[2019 Australian Grand Prix]] – [[2019 French Grand Prix]]
+|-
+!scope="row" rowspan=2| 4
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center rowspan=2|6
+|align=center|{{F1|2014}}
+|[[2014 Australian Grand Prix]] – [[2014 Monaco Grand Prix]]
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|{{F1|2026}}
+|[[2026 Australian Grand Prix]] – [[2026 Monaco Grand Prix]]
+|-
+!scope="row" rowspan=3|6
+|align="left" rowspan=2|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align=center rowspan=3|5
+|align=center|{{F1|1992}}
+|[[1992 South African Grand Prix]] – [[1992 San Marino Grand Prix]]
+|-
+|align=center|{{F1|1996}}
+|[[1996 Australian Grand Prix]] – [[1996 San Marino Grand Prix]]
+|-
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center|{{F1|2004}}
+|[[2004 Australian Grand Prix]] – [[2004 Spanish Grand Prix]]
+|-
+!scope="row" rowspan=5|9
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center rowspan=5|4
+|align=center|{{F1|1991}}
+|[[1991 United States Grand Prix]] – [[1991 Monaco Grand Prix]]
+|-
+|align="left"|{{Flagicon|GBR}} [[Benetton Formula|Benetton]]
+|align=center|{{F1|1994}}
+|[[1994 Brazilian Grand Prix]] – [[1994 Monaco Grand Prix]]
+|-
+|align="left"|{{Flagicon|FRA|variant=1974}} [[Renault in Formula One|Renault]]
+|align=center|{{F1|2005}}
+|[[2005 Australian Grand Prix]] – [[2005 San Marino Grand Prix]]
+|-
+|align="left" rowspan=2|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|{{F1|2016}}
+|[[2016 Australian Grand Prix]] – [[2016 Russian Grand Prix]]
+|-
+|align=center|{{F1|2020}}
+|[[2020 Austrian Grand Prix]] – [[2020 British Grand Prix]]
+|-
+|colspan=5 |{{center|{{small|Source:<ref>{{cite web|title=Wins Consecutively in early season|url=https://www.statsf1.com/en/statistiques/constructeur/victoire/consecutive-debut.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}}}
+|}
+
+===Most wins in the same Grand Prix===
+{|class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Wins
+!scope="col"| Grand Prix
+!scope="col"| Seasons
+|-
+!scope="row"|  1
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align="center"| 21
+| [[German Grand Prix]]
+| [[1951 German Grand Prix|1951]], [[1952 German Grand Prix|1952]], [[1953 German Grand Prix|1953]], [[1956 German Grand Prix|1956]], [[1959 German Grand Prix|1959]], [[1963 German Grand Prix|1963]], [[1964 German Grand Prix|1964]], [[1972 German Grand Prix|1972]], [[1974 German Grand Prix|1974]], [[1977 German Grand Prix|1977]], [[1982 German Grand Prix|1982]], [[1983 German Grand Prix|1983]], [[1985 German Grand Prix|1985]], [[1994 German Grand Prix|1994]], [[1999 German Grand Prix|1999]], [[2000 German Grand Prix|2000]], [[2002 German Grand Prix|2002]], [[2004 German Grand Prix|2004]], [[2006 German Grand Prix|2006]], [[2010 German Grand Prix|2010]], [[2012 German Grand Prix|2012]]
+|-
+!scope="row"| 2
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+| align="center"| 20
+| [[Italian Grand Prix]]
+| [[1951 Italian Grand Prix|1951]], [[1952 Italian Grand Prix|1952]], [[1960 Italian Grand Prix|1960]], [[1961 Italian Grand Prix|1961]], [[1964 Italian Grand Prix|1964]], [[1966 Italian Grand Prix|1966]], [[1970 Italian Grand Prix|1970]], [[1975 Italian Grand Prix|1975]], [[1979 Italian Grand Prix|1979]], [[1988 Italian Grand Prix|1988]], [[1996 Italian Grand Prix|1996]], [[1998 Italian Grand Prix|1998]], [[2000 Italian Grand Prix|2000]], [[2002 Italian Grand Prix|2002]], [[2003 Italian Grand Prix|2003]], [[2004 Italian Grand Prix|2004]], [[2006 Italian Grand Prix|2006]], [[2010 Italian Grand Prix|2010]], [[2019 Italian Grand Prix|2019]], [[2024 Italian Grand Prix|2024]]
+|-
+!3
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+| align="center" |19
+|[[British Grand Prix]]
+|[[1951 British Grand Prix|1951]], [[1952 British Grand Prix|1952]], [[1953 British Grand Prix|1953]], [[1954 British Grand Prix|1954]], [[1956 British Grand Prix|1956]], [[1958 British Grand Prix|1958]], [[1961 British Grand Prix|1961]], [[1976 British Grand Prix|1976]], [[1978 British Grand Prix|1978]], [[1990 British Grand Prix|1990]], [[1998 British Grand Prix|1998]], [[2002 British Grand Prix|2002]], [[2003 British Grand Prix|2003]], [[2004 British Grand Prix|2004]], [[2007 British Grand Prix|2007]], [[2011 British Grand Prix|2011]], [[2018 British Grand Prix|2018]], [[2022 British Grand Prix|2022]], [[2026 British Grand Prix|2026]]
+|-
+! scope="row" |4
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+| align="center" | 18
+| [[Belgian Grand Prix]]
+| [[1952 Belgian Grand Prix|1952]], [[1953 Belgian Grand Prix|1953]], [[1956 Belgian Grand Prix|1956]], [[1961 Belgian Grand Prix|1961]], [[1966 Belgian Grand Prix|1966]], [[1975 Belgian Grand Prix|1975]], [[1976 Belgian Grand Prix|1976]], [[1979 Belgian Grand Prix|1979]], [[1984 Belgian Grand Prix|1984]], [[1996 Belgian Grand Prix|1996]], [[1997 Belgian Grand Prix|1997]], [[2001 Belgian Grand Prix|2001]], [[2002 Belgian Grand Prix|2002]], [[2007 Belgian Grand Prix|2007]], [[2008 Belgian Grand Prix|2008]], [[2009 Belgian Grand Prix|2009]], [[2018 Belgian Grand Prix|2018]], [[2019 Belgian Grand Prix|2019]]
+|-
+!scope="row"| 5
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align="center"| 17
+| [[French Grand Prix]]
+| [[1952 French Grand Prix|1952]], [[1953 French Grand Prix|1953]], [[1956 French Grand Prix|1956]], [[1958 French Grand Prix|1958]], [[1959 French Grand Prix|1959]], [[1961 French Grand Prix|1961]], [[1968 French Grand Prix|1968]], [[1975 French Grand Prix|1975]], [[1990 French Grand Prix|1990]], [[1997 French Grand Prix|1997]], [[1998 French Grand Prix|1998]], [[2001 French Grand Prix|2001]], [[2002 French Grand Prix|2002]], [[2004 French Grand Prix|2004]], [[2006 French Grand Prix|2006]], [[2007 French Grand Prix|2007]], [[2008 French Grand Prix|2008]]
+|-
+!scope="row"| 6
+| {{flagicon|GBR}} '''[[McLaren]]'''
+|align="center"| 16
+| [[Monaco Grand Prix]]
+| [[1984 Monaco Grand Prix|1984]], [[1985 Monaco Grand Prix|1985]], [[1986 Monaco Grand Prix|1986]], [[1988 Monaco Grand Prix|1988]], [[1989 Monaco Grand Prix|1989]], [[1990 Monaco Grand Prix|1990]], [[1991 Monaco Grand Prix|1991]], [[1992 Monaco Grand Prix|1992]], [[1993 Monaco Grand Prix|1993]], [[1998 Monaco Grand Prix|1998]], [[2000 Monaco Grand Prix|2000]], [[2002 Monaco Grand Prix|2002]], [[2005 Monaco Grand Prix|2005]], [[2007 Monaco Grand Prix|2007]], [[2008 Monaco Grand Prix|2008]], [[2025 Monaco Grand Prix|2025]]
+|-
+!scope="row" rowspan=2| 7
+|rowspan=2| {{flagicon|GBR}} '''[[McLaren]]'''
+|align=center rowspan=2|15
+| [[British Grand Prix]]
+| [[1973 British Grand Prix|1973]], [[1975 British Grand Prix|1975]], [[1977 British Grand Prix|1977]], [[1981 British Grand Prix|1981]], [[1982 British Grand Prix|1982]], [[1984 British Grand Prix|1984]], [[1985 British Grand Prix|1985]], [[1988 British Grand Prix|1988]], [[1989 British Grand Prix|1989]], [[1999 British Grand Prix|1999]], [[2000 British Grand Prix|2000]], [[2001 British Grand Prix|2001]], [[2005 British Grand Prix|2005]], [[2008 British Grand Prix|2008]], [[2025 British Grand Prix|2025]]
+|-
+| [[Belgian Grand Prix]]
+| [[1968 Belgian Grand Prix|1968]], [[1974 Belgian Grand Prix|1974]], [[1982 Belgian Grand Prix|1982]], [[1987 Belgian Grand Prix|1987]], [[1988 Belgian Grand Prix|1988]], [[1989 Belgian Grand Prix|1989]], [[1990 Belgian Grand Prix|1990]], [[1991 Belgian Grand Prix|1991]], [[1999 Belgian Grand Prix|1999]], [[2000 Belgian Grand Prix|2000]], [[2004 Belgian Grand Prix|2004]], [[2005 Belgian Grand Prix|2005]], [[2010 Belgian Grand Prix|2010]], [[2012 Belgian Grand Prix|2012]], [[2025 Belgian Grand Prix|2025]]
+|-
+!scope="row"| 9
+|nowrap| {{flagicon|GBR}} '''[[McLaren]]'''
+|align="center"| 14
+|nowrap| [[Hungarian Grand Prix]]
+| [[1988 Hungarian Grand Prix|1988]], [[1991 Hungarian Grand Prix|1991]], [[1992 Hungarian Grand Prix|1992]], [[1999 Hungarian Grand Prix|1999]], [[2000 Hungarian Grand Prix|2000]], [[2005 Hungarian Grand Prix|2005]], [[2007 Hungarian Grand Prix|2007]], [[2008 Hungarian Grand Prix|2008]], [[2009 Hungarian Grand Prix|2009]], [[2011 Hungarian Grand Prix|2011]], [[2012 Hungarian Grand Prix|2012]], [[2024 Hungarian Grand Prix|2024]], [[2025 Hungarian Grand Prix|2025]], [[2026 Hungarian Grand Prix|2026]]
+|-
+!scope="row" rowspan="2"| 10
+|rowspan="2" nowrap| {{flagicon|GBR}} '''[[McLaren]]'''
+|rowspan="2" align="center"| 13
+| [[Canadian Grand Prix]]
+| [[1968 Canadian Grand Prix|1968]], [[1973 Canadian Grand Prix|1973]], [[1974 Canadian Grand Prix|1974]], [[1976 Canadian Grand Prix|1976]], [[1988 Canadian Grand Prix|1988]], [[1990 Canadian Grand Prix|1990]], [[1992 Canadian Grand Prix|1992]], [[1999 Canadian Grand Prix|1999]], [[2005 Canadian Grand Prix|2005]], [[2007 Canadian Grand Prix|2007]], [[2010 Canadian Grand Prix|2010]], [[2011 Canadian Grand Prix|2011]], [[2012 Canadian Grand Prix|2012]]
+|-
+|nowrap| [[Brazilian Grand Prix]]
+| [[1974 Brazilian Grand Prix|1974]], [[1984 Brazilian Grand Prix|1984]], [[1985 Brazilian Grand Prix|1985]], [[1987 Brazilian Grand Prix|1987]], [[1988 Brazilian Grand Prix|1988]], [[1991 Brazilian Grand Prix|1991]], [[1993 Brazilian Grand Prix|1993]], [[1998 Brazilian Grand Prix|1998]], [[1999 Brazilian Grand Prix|1999]], [[2001 Brazilian Grand Prix|2001]], [[2005 Brazilian Grand Prix|2005]], [[2012 Brazilian Grand Prix|2012]], [[2025 Brazilian Grand Prix|2025]]
+|-
+<!--
+|-
+| [[Australian Grand Prix]]
+| [[1986 Australian Grand Prix|1986]], [[1988 Australian Grand Prix|1988]], [[1991 Australian Grand Prix|1991]], [[1992 Australian Grand Prix|1992]], [[1993 Australian Grand Prix|1993]], [[1997 Australian Grand Prix|1997]], [[1998 Australian Grand Prix|1998]], [[2003 Australian Grand Prix|2003]], [[2008 Australian Grand Prix|2008]], [[2010 Australian Grand Prix|2010]], [[2012 Australian Grand Prix|2012]], [[2025 Australian Grand Prix|2025]]
+|-
+|rowspan="2"| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+| [[Spanish Grand Prix]]
+| [[1954 Spanish Grand Prix|1954]], [[1974 Spanish Grand Prix|1974]], [[1981 Spanish Grand Prix|1981]], [[1990 Spanish Grand Prix|1990]], [[1996 Spanish Grand Prix|1996]], [[2001 Spanish Grand Prix|2001]], [[2002 Spanish Grand Prix|2002]], [[2003 Spanish Grand Prix|2003]], [[2004 Spanish Grand Prix|2004]], [[2007 Spanish Grand Prix|2007]], [[2008 Spanish Grand Prix|2008]], [[2013 Spanish Grand Prix|2013]]
+|-
+| [[Canadian Grand Prix]]
+| [[1970 Canadian Grand Prix|1970]], [[1978 Canadian Grand Prix|1978]], [[1983 Canadian Grand Prix|1983]], [[1985 Canadian Grand Prix|1985]], [[1995 Canadian Grand Prix|1995]], [[1997 Canadian Grand Prix|1997]], [[1998 Canadian Grand Prix|1998]], [[2000 Canadian Grand Prix|2000]], [[2002 Canadian Grand Prix|2002]], [[2003 Canadian Grand Prix|2003]], [[2004 Canadian Grand Prix|2004]], [[2018 Canadian Grand Prix|2018]]
+|-
+-->
+|colspan="5" align="center"| {{small|Source:<ref>{{cite web|title=Wins by Grand Prix|url=http://www.statsf1.com/en/statistiques/constructeur/victoire/grandprix.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+Note: Source distinguishes between the [[Brazilian Grand Prix]] and the [[São Paulo Grand Prix]]
+
+=== Most consecutive seasons with a win ===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col" | Constructor
+!scope="col" | Seasons
+!scope="col" | Number of seasons
+|- align="center"
+!scope="row"|1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1994}}–{{F1|2013}}
+|20
+|-
+!scope="row"|2
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1981}}–{{F1|1993}}
+|13
+|-
+!scope="row" rowspan="3"| 3
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1960}}–{{F1|1970}}
+|rowspan="3"|11
+|-
+|align="left"|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2012}}–{{F1|2022}}
+|-
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2016}}–{{F1|2026}} {{small|(ongoing)}}
+|-
+!scope="row" rowspan="3"| 6
+|align="left" rowspan="2"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1979}}–{{F1|1987}}
+|rowspan="3"|9
+|-
+|{{F1|1989}}–{{F1|1997}}
+|-
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1997}}–{{F1|2005}}
+|-
+!scope="row"| 9
+|align="left"|{{flagicon|GBR}} [[Benetton Formula|Benetton]]
+|{{F1|1989}}–{{F1|1995}}
+|7
+|-
+|colspan="4"|{{small|Source:<ref>{{cite web|website=StatsF1|title=Wins Consecutives years| url=https://www.statsf1.com/en/statistiques/constructeur/victoire/annee-consecutive.aspx |access-date={{F1 records date}}}}</ref>}}
+|}
+
+=== Fewest starts before first win ===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col" | Constructor
+! scope="col" | Number of starts before first win
+|-
+!rowspan=4| 1
+| align="left"|{{flagicon|ITA}}/{{flagicon|CHE}} [[Alfa Romeo in Formula One|Alfa Romeo]]<ref name="Alfa Romeo" group="N">Alfa Romeo held an [[List of Formula One constructors#Team's nationality|Italian licence]] from {{F1|1950}}–{{F1|1951}} and {{F1|1979}}–{{F1|1985}}, and a Swiss licence from {{F1|2019}}–{{F1|2023}}.</ref>
+|rowspan=4|1
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|-
+|align="left"|{{flagicon|CAN}} [[Walter Wolf Racing|Wolf]]
+|-
+|align="left"|{{flagicon|GBR}} [[Brawn GP|Brawn]]
+|-
+!5
+|align="left"|{{flagicon|GBR}} [[March Engineering|March]]
+|2
+|-
+!6
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|5
+|-
+!rowspan="2"|7
+|align="left"|{{flagicon|FRA}} [[Equipe Matra Sports|Matra]]
+|rowspan="2"|8
+|-
+|align="left"|{{flagicon|ITA}} [[Scuderia AlphaTauri|AlphaTauri]]
+|-
+!9
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|9
+|-
+!10
+|align="left"|{{flagicon|JAP}} [[Honda in Formula One|Honda]]
+|11
+|-
+| colspan="3" | {{small|Source:<ref name="Wins GP Before">{{cite web | website=StatsF1 | title=Wins Grand Prix Before | url=https://www.statsf1.com/en/statistiques/constructeur/victoire/gp-avant.aspx | access-date=26 September 2026 }}</ref>}}
+|}
+
+;Notes
+* Source includes [[Quin Epperly|Epperly]], [[Kurtis Kraft]], [[Eddie Kuzma|Kuzma]] and [[A. J. Watson|Watson]] in the top 10, but the [[Indianapolis 500]] did not count towards the International Cup for F1 Manufacturers.
+
+=== Most races started before first win ===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col" | Constructor
+! scope="col" | Number of starts before first win
+|-
+! scope="row" | 1
+| align="left" |{{flagicon|IRL}} [[Jordan Grand Prix|Jordan]]
+|127
+|-
+! scope="row" | 2
+| align="left" |{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N"  />
+|74
+|-
+! scope="row" | 3
+| align="left" |{{flagicon|USA}}/{{flagicon|GBR}} [[Shadow Racing Cars|Shadow]]<ref name="Shadow" group="N">Shadow held an [[List of Formula One constructors#Team's nationality|American licence]] from {{F1|1973}}–{{F1|1975}}, and a British licence from {{F1|1976}}–{{F1|1980}}.</ref>
+|69
+|-
+! scope="row" | 4
+| align="left" |{{flagicon|GBR}} '''[[Williams Racing|Williams]]'''
+|50
+|-
+! scope="row" | 5
+| align="left" |{{flagicon|ITA}} [[Scuderia Toro Rosso|Toro Rosso]]
+|49
+|-
+! scope="row" | 6
+| align="left" |{{flagicon|GBR}} [[Stewart Grand Prix|Stewart]]
+|47
+|-
+! scope="row" | 7
+| align="left" |{{flagicon|GBR}} [[Racing Point F1 Team|Racing Point]]
+|37
+|-
+! scope="row" | 8
+| align="left" |{{flagicon|ITA}} [[Maserati in Formula One|Maserati]]
+|27
+|-
+! scope="row" | 9
+| align="left" |{{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|25
+|-
+! scope="row" | 10
+| align="left" |{{Flagicon|FRA|variant=1974}} [[Equipe Ligier|Ligier]]/[[Equipe Ligier|Talbot Ligier]]
+|24
+|-
+| colspan="3" | {{small|Source:<ref name="Wins GP Before"></ref>}}
+|}
+
+;Notes
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics.
+
+===Most races started without a win===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| Starts
+!scope="col"| Best result
+|-
+!scope="row"|1
+|align="left"|{{flagicon|GBR}} [[Arrows Grand Prix International|Arrows]]
+|{{F1|1978}}–{{F1|2002}}
+|382
+|2nd
+|-
+!scope="row"|2
+| align="left" |{{flagicon|ITA}} [[Minardi]]
+|{{F1|1985}}–{{F1|2005}}
+|340
+|2nd
+|-
+!scope="row"|3
+|align=left|{{flagicon|USA}} '''[[Haas F1 Team|Haas]]'''
+|{{F1|2016}}–{{F1|2026}}
+|{{F1cstat|HAA|starts}}
+|4th
+|-
+!scope="row"|4
+|align=left|{{nowrap|{{flagicon|IND}} [[Force India]]}}
+|{{F1|2008}}–{{F1|2018}}
+|212
+|2nd
+|-
+!scope="row"|5
+|align=left|{{nowrap|{{flagicon|GBR}} [[Lola Cars|Lola]]}}
+|{{F1|1962}}–{{F1|1963}}, {{F1|1967}}–{{F1|1968}}, {{F1|1974}}–{{F1|1975}}, {{F1|1985}}–{{F1|1991}}, {{F1|1993}}, {{F1|1997}}
+|149
+|2nd
+|-
+!scope="row"|6
+|align=left|{{flagicon|JPN}} [[Toyota in Formula One|Toyota]]
+|{{F1|2002}}–{{F1|2009}}
+|139
+|2nd
+|-
+!scope="row"|7
+| align="left" |{{flagicon|GBR}} '''[[Aston Martin in Formula One|Aston Martin]]'''
+|{{F1|1959}}–{{F1|1960}}, {{F1|2021}}–{{F1|2026}}
+|{{F1cstat|AST|starts}}
+|2nd
+|-
+!scope="row"|8
+| align="left" |{{flagicon|ITA}} [[Osella]]
+|{{F1|1980}}–{{F1|1990}}
+|132
+|4th
+|-
+!scope="row"|9
+| align="left" |{{nowrap|{{flagicon|GBR}} [[Surtees Racing Organisation|Surtees]]}}
+|{{F1|1970}}–{{F1|1978}}
+|118
+|2nd
+|-
+!scope="row"|10
+|align=left|{{nowrap|{{flagicon|GBR}} [[British American Racing|BAR]]}}
+|{{F1|1999}}–{{F1|2005}}
+|117
+|2nd
+|-
+|colspan="5"| {{small|Source:<ref>{{Cite web|title=Grands Prix without win|url=https://www.statsf1.com/en/statistiques/constructeur/gp/sans-victoire.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+;Notes
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics. Therefore, it has achieved its only win as [[BMW Sauber]].
+* Source separates [[Arrows Grand Prix International|Arrows]] and [[Footwork Arrows]] statistics.
+* Source unites [[Force India]] and [[Racing Point Force India]] statistics.
+* Source unites [[Aston Martin in Formula One|Aston Martin]] and Aston Martin Aramco statistics. The Aston Martin factory team competed as Aston Martin in 1959, 1960, and 2021, and is competing as Aston Martin Aramco from 2022 onwards.
+
+==Pole positions==
+
+===Total pole positions===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| Poles
+!scope="col"| Entries
+!scope="col"| Percentage
+|-
+!scope="row"| 1
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1950}}–{{F1|2026}}
+|{{F1cstat|FER|poles}}
+|{{F1cstat|FER|entries}}
+|{{percentage|{{F1cstat|FER|poles}}|{{F1cstat|FER|entries}}|2|pad=yes}}
+|-
+!scope="row"| 2
+|align=left|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1966}}–{{F1|2026}}
+|{{F1cstat|MCL|poles}}
+|{{F1cstat|MCL|entries}}
+|{{percentage|{{F1cstat|MCL|poles}}|{{F1cstat|MCL|entries}}|2|pad=yes}}
+|-
+!scope="row"| 3
+|align=left|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|1954}}–{{F1|1955}}, {{F1|2010}}–{{F1|2026}}
+|{{F1cstat|MRC|poles}}
+|{{F1cstat|MRC|entries}}
+|{{percentage|{{F1cstat|MRC|poles}}|{{F1cstat|MRC|entries}}|2|pad=yes}}
+|-
+!scope="row"| 4
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1978}}–{{F1|2026}}
+|{{F1cstat|WIL|poles}}
+|{{F1cstat|WIL|entries}}
+|{{percentage|{{F1cstat|WIL|poles}}|{{F1cstat|WIL|entries}}|2|pad=yes}}
+|-
+!scope="row"| 5
+|align="left"|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|{{F1|2005}}–{{F1|2026}}
+|{{F1cstat|RBR|poles}}
+|{{F1cstat|RBR|entries}}
+|{{percentage|{{F1cstat|RBR|poles}}|{{F1cstat|RBR|entries}}|2|pad=yes}}
+|-
+!scope="row"| 6
+|align=left|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1958}}–{{F1|1994}}
+|107
+|492
+|{{percentage|107|492|2|pad=yes}}
+|-
+!scope="row"| 7
+|align=left|{{flagicon|FRA}}/{{flagicon|GBR}} [[Renault in Formula One|Renault]]<ref name="Renault" group="N"  />
+|{{F1|1977}}–{{F1|1985}}, {{F1|2002}}–{{F1|2011}}, {{F1|2016}}–{{F1|2020}}
+|51
+|403
+|{{percentage|51|403|2|pad=yes}}
+|-
+!scope="row"| 8
+|align=left|{{flagicon|GBR}} [[Brabham]]
+|{{F1|1962}}–{{F1|1987}}, {{F1|1989}}–{{F1|1992}}
+|39
+|403
+|{{percentage|39|403|2|pad=yes}}
+|-
+!scope="row"| 9
+|align=left|{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N"/>
+|{{F1|1986}}–{{F1|2001}}
+|15
+|260
+|{{percentage|15|260|2|pad=yes}}
+|-
+!scope="row"| 10
+|align=left|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|{{F1|1970}}–{{F1|1998}}
+|14
+|433
+|{{percentage|14|433|2|pad=yes}}
+|-
+|colspan=6| {{small|Source:<ref name="PolePositionsByNumber">{{cite web|title=Pole positions by number|url=http://www.statsf1.com/en/statistiques/constructeur/pole/nombre.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Percentage of pole positions===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| Poles
+!scope="col"| Entries
+!scope="col"| Percentage
+|-
+!scope="row"| 1
+|align=left|{{flagicon|ITA}} [[Lancia]]
+|{{F1|1954}}–{{F1|1955}}
+|2
+|4
+|{{percentage|2|4|2|pad=yes}}
+|-
+!scope="row"| 2
+|align=left|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|1954}}–{{F1|1955}}, {{F1|2010}}–{{F1|2026}}
+|{{F1cstat|MRC|poles}}
+|{{F1cstat|MRC|entries}}
+|{{percentage|{{F1cstat|MRC|poles}}|{{F1cstat|MRC|entries}}|2|pad=yes}}
+|-
+!scope="row"| 3
+|align=left|{{flagicon|GBR}} [[Brawn GP|Brawn]]
+|{{F1|2009}}
+|5
+|17
+|{{percentage|5|17|2|pad=yes}}
+|-
+!scope="row"| 4
+|align="left"|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|{{F1|2005}}–{{F1|2026}}
+|{{F1cstat|RBR|poles}}
+|{{F1cstat|RBR|entries}}
+|{{percentage|{{F1cstat|RBR|poles}}|{{F1cstat|RBR|entries}}|2|pad=yes}}
+|-
+!scope="row"| 5
+|align=left|{{flagicon|GBR}} [[Vanwall]]
+|{{F1|1954}}–{{F1|1960}}
+|7
+|29
+|{{percentage|7|29|2|pad=yes}}
+|-
+!scope="row"| 6
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1950}}–{{F1|2026}}
+|{{F1cstat|FER|poles}}
+|{{F1cstat|FER|entries}}
+|{{percentage|{{F1cstat|FER|poles}}|{{F1cstat|FER|entries}}|2|pad=yes}}
+|-
+!scope="row"| 7
+|align=left|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1958}}–{{F1|1994}}
+|107
+|491
+|{{percentage|107|491|2|pad=yes}}
+|-
+!scope="row"| 8
+|align=left|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1966}}–{{F1|2026}}
+|{{F1cstat|MCL|poles}}
+|{{F1cstat|MCL|entries}}
+|{{percentage|{{F1cstat|MCL|poles}}|{{F1cstat|MCL|entries}}|2|pad=yes}}
+|-
+!scope="row"| 9
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1978}}–{{F1|2026}}
+|{{F1cstat|WIL|poles}}
+|{{F1cstat|WIL|entries}}
+|{{percentage|{{F1cstat|WIL|poles}}|{{F1cstat|WIL|entries}}|2|pad=yes}}
+|-
+!scope="row"| 10
+|align=left|{{flagicon|ITA}} [[Maserati in Formula One|Maserati]]
+|{{F1|1950}}–{{F1|1960}}
+|10
+|71
+|{{percentage|10|71|2|pad=yes}}
+|-
+|colspan="6" align="center"| {{small|Source:<ref name="PolePositionsByNumber"  />}}
+|}
+
+;Notes
+* Source includes [[Quin Epperly|Epperly]], [[Kurtis Kraft]] and [[A. J. Watson|Watson]] in the top 10, but the [[Indianapolis 500]] did not count towards the International Cup for F1 Manufacturers.
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Most pole positions in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Season
+!scope="col"| Races
+!scope="col"| Poles
+!scope="col"| Percentage
+|-
+!scope="row"| 1
+|align=left|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2016}}
+|21
+|20
+|{{percentage|20|21|2|pad=yes}}
+|-
+!scope="row" rowspan=3|2
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2011}}
+|19
+|rowspan=3|18
+|{{percentage|18|19|2|pad=yes}}
+|-
+|scope="row" align=left rowspan=2| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|19
+|{{percentage|18|19|2|pad=yes}}
+|-
+|{{F1|2015}}
+|19
+|{{percentage|18|19|2|pad=yes}}
+|-
+!scope="row" rowspan=7|5
+|align=left rowspan=2| {{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1988}}
+|16
+|rowspan=7|15
+|{{percentage|15|16|2|pad=yes}}
+|-
+|{{F1|1989}}
+|16
+|{{percentage|15|16|2|pad=yes}}
+|-
+|align=left rowspan=2| {{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1992}}
+|16
+|{{percentage|15|16|2|pad=yes}}
+|-
+|{{F1|1993}}
+|16
+|{{percentage|15|16|2|pad=yes}}
+|-
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2010}}
+|19
+|{{percentage|15|19|2|pad=yes}}
+|-
+|align=left rowspan=2|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2017}}
+|20
+|{{percentage|15|20|2|pad=yes}}
+|-
+|{{F1|2020}}
+|17
+|{{percentage|15|17|2|pad=yes}}
+|-
+|colspan=6| {{small|Source:<ref name="SeasonPoles" >{{cite web|title=Pole positions in a year|url=http://www.statsf1.com/en/statistiques/constructeur/pole/annee.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}<!--
+<nowiki>*</nowiki> Season still in progress-->
+
+===Highest percentage of pole positions in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Season
+!scope="col"| Races
+!scope="col"| Poles
+!scope="col"| Percentage
+|-
+!scope="row"|1
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2016}}
+|21
+|20
+|{{percentage|20|21|2|pad=yes}}
+|-
+!scope="row" rowspan="3"|2
+|align="left" rowspan="2"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|rowspan="3"|19
+|rowspan="3"|18
+|rowspan="3"|{{percentage|18|19|2|pad=yes}}
+|-
+|{{F1|2015}}
+|-
+| align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2011}}
+|-
+!scope="row" rowspan="4"|5
+|align="left" rowspan="2"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1992}}
+|rowspan="4"|16
+|rowspan="4"|15
+|rowspan="4"|{{percentage|15|16|2|pad=yes}}
+|-
+|{{F1|1993}}
+|-
+|align="left" rowspan="2"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1988}}
+|-
+|{{F1|1989}}
+|-
+!scope="row"|9
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2020}}
+|17
+|15
+|{{percentage|15|17|2|pad=yes}}
+|-
+!scope="row"|10
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1952}}
+|8
+|7
+|{{percentage|7|8|2|pad=yes}}
+|-
+|colspan=6|{{small|Source:<ref name="SeasonPoles" />}}
+|}
+
+===Most seasons with a pole position===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col" | Constructor
+! scope="col" | Seasons with a pole position
+|-
+! scope="row" | 1
+| align="left" |{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|58
+|-
+! scope="row" | 2
+| align="left" |{{flagicon|GBR}} '''[[McLaren]]'''
+|33
+|-
+! scope="row" | 3
+| align="left" |{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|25
+|-
+! scope="row" rowspan="2"| 4
+| align="left" |{{flagicon|GBR}} [[Brabham]]
+|rowspan="2"|17
+|-
+| align="left" |{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|-
+! scope="row" | 6
+| align="left" |{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|16
+|-
+! scope="row" | 7
+| align="left" |{{nowrap|{{flagicon|AUT}} '''[[Red Bull Racing]]'''}}
+|15
+|-
+! scope="row" | 8
+| align="left" |{{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|11
+|-
+! scope="row" | 9
+| align="left" |{{flagicon|GBR}} [[British Racing Motors|BRM]]
+|7
+|-
+! scope="row" | 10
+| align="left" |{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|6
+|-
+|colspan=3 align="center"| Source:<ref>{{cite web|title=Pole positions by number of years|url=https://www.statsf1.com/en/statistiques/constructeur/pole/nb-annee.aspx|website=Stats F1|access-date=1 November 2026}}</ref>
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+* Source includes [[Kurtis Kraft]] in the top 10, but the [[Indianapolis 500]] did not count towards the International Cup for F1 Manufacturers.
+
+===Most consecutive pole positions===
+{|class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Poles
+!scope="col"| Season(s)
+!scope="col"| Races
+|-
+!scope="row"| 1
+| {{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align="center"|24
+|{{F1|1992}}–{{F1|1993}}
+|[[1992 French Grand Prix]] – [[1993 Japanese Grand Prix]]
+|-
+!scope="row"| 2
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|23
+|{{F1|2014}}–{{F1|2015}}
+|[[2014 British Grand Prix]] – [[2015 Italian Grand Prix]]
+|-
+!scope="row"| 3
+| {{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|18
+|{{F1|2016}}–{{F1|2017}}
+|[[2016 Canadian Grand Prix]] – [[2017 Bahrain Grand Prix]]
+|-
+!scope="row"| 4
+| {{flagicon|GBR}} '''[[McLaren]]'''
+|align="center"|17
+|{{F1|1988}}–{{F1|1989}}
+|[[1988 German Grand Prix]] – [[1989 German Grand Prix]]
+|-
+!scope="row"| 5
+| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|align="center"|16
+|{{F1|2010}}–{{F1|2011}}
+|[[2010 Abu Dhabi Grand Prix]] – [[2011 Japanese Grand Prix]]
+|-
+!scope="row"| 6
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|14
+|{{F1|2019}}–{{F1|2020}}
+|[[2019 Abu Dhabi Grand Prix]] – [[2020 Emilia Romagna Grand Prix]]
+|-
+!scope="row"| 7
+| {{flagicon|GBR}} '''[[McLaren]]'''
+|align="center"|12
+|{{F1|1989}}–{{F1|1990}}
+|[[1989 Belgian Grand Prix]] – [[1990 Mexican Grand Prix]]
+|-
+!scope="row"| 8
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|11
+|{{F1|2015}}–{{F1|2016}}
+|[[2015 Japanese Grand Prix]] – [[2016 Spanish Grand Prix]]
+|-
+!scope="row" rowspan=3|9
+| {{flagicon|GBR}} [[Team Lotus|Lotus]]
+|align="center" rowspan=3|10
+|{{F1|1967}}–{{F1|1968}}
+|[[1967 Dutch Grand Prix]] – [[1968 South African Grand Prix]]
+|-
+| {{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1996}}–{{F1|1997}}
+|[[1996 Belgian Grand Prix]] – [[1997 Spanish Grand Prix]]
+|-
+|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|{{F1|2026}}
+|[[2026 Australian Grand Prix]] – [[2026 Belgian Grand Prix]]
+|-
+|colspan=5 align="center"| {{small|Source:<ref>{{cite web|title=Pole positions consecutively|url=http://www.statsf1.com/en/statistiques/constructeur/pole/consecutive.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Most consecutive pole positions from first race of season===
+{|class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Poles
+!scope="col"| Season
+!scope="col"| Races
+|-
+!scope="row" rowspan="2"| 1
+| {{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align="center" rowspan="2"|15
+|align=center|{{F1|1993}}
+|[[1993 South African Grand Prix]] – [[1993 Japanese Grand Prix]]
+|-
+| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|align=center|{{F1|2011}}
+|[[2011 Australian Grand Prix]] – [[2011 Japanese Grand Prix]]
+|-
+!scope="row"| 3
+| {{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|13
+|align=center|{{F1|2020}}
+|[[2020 Austrian Grand Prix]] – [[2020 Emilia Romagna Grand Prix]]
+|-
+!scope="row"| 4
+| {{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|12
+|align=center|{{F1|2015}}
+|[[2015 Australian Grand Prix]] – [[2015 Italian Grand Prix]]
+|-
+!scope="row"| 5
+| {{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|10
+|align=center|{{F1|2026}}
+|[[2026 Australian Grand Prix]] – [[2026 Belgian Grand Prix]]
+|-
+!scope="row" rowspan="2"| 6
+| {{flagicon|GBR}} '''[[McLaren]]'''
+|align="center" rowspan="2"|9
+|align=center|{{F1|1989}}
+|[[1989 Brazilian Grand Prix]] – [[1989 German Grand Prix]]
+|-
+| {{flagicon|GBR}} '''[[McLaren]]'''
+|align=center|{{F1|1998}}
+|[[1998 Australian Grand Prix]] – [[1998 British Grand Prix]]
+|-
+!scope="row" rowspan="4"| 8
+| {{flagicon|GBR}} '''[[McLaren]]'''
+|align="center" rowspan="4"|7
+|align=center|{{F1|1988}}
+|[[1988 Brazilian Grand Prix]] – [[1988 French Grand Prix]]
+|-
+| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|align=center|{{F1|2010}}
+|[[2010 Bahrain Grand Prix]] – [[2010 Turkish Grand Prix]]
+|-
+|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|{{F1|2014}}
+|[[2014 Australian Grand Prix]] – [[2014 Canadian Grand Prix]]
+|-
+| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|align=center|{{F1|2024}}
+|[[2024 Bahrain Grand Prix]] – [[2024 Emilia Romagna Grand Prix]]
+|-
+|colspan=5 align="center"| {{small|Source:<ref>{{cite web|title=Pole positions consecutively in early seasons|url=https://www.statsf1.com/en/statistiques/constructeur/pole/consecutive-debut.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most pole positions in the same Grand Prix===
+{|class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Poles
+!scope="col"| Grand Prix
+|-
+!scope="row"| 1
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center| 23
+| [[Italian Grand Prix]]
+|-
+!scope="row"| 2
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center| 20
+| [[German Grand Prix]]
+|-
+!scope="row"| 3
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center| 18
+| [[French Grand Prix]]
+|-
+!scope="row"| 4
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center| 17
+| [[Belgian Grand Prix]]
+|-
+!scope="row"| 5
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center| 16
+| [[British Grand Prix]]
+|-
+!scope="row"| 6
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center| 14
+| [[Spanish Grand Prix]]
+|-
+!scope="row" rowspan=2|7
+|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align=center rowspan=2| 13
+| [[British Grand Prix]]
+|-
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+| [[Monaco Grand Prix]]
+|-
+!scope="row" rowspan=5|9
+|rowspan=4|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center rowspan=5| 12
+| [[German Grand Prix]]
+|-
+| [[Italian Grand Prix]]
+|-
+| [[Monaco Grand Prix]]
+|-
+| [[Belgian Grand Prix]]
+|-
+|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+| [[British Grand Prix]]
+|-
+|colspan=4 align="center"| Source:<ref>{{cite web|title=Pole positions by Grand Prix|url=https://www.statsf1.com/en/statistiques/constructeur/pole/grandprix.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>
+|}
+
+===Most consecutive seasons with a pole position===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col" | Constructor
+!scope="col" | Seasons
+!scope="col" | Number of seasons
+|-align="center"
+!scope="row" rowspan="2"|1
+|align="left" |{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1994}}–{{F1|2008}}
+|rowspan="2"|15
+|-
+| align="left" |{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2012}}–{{F1|2026}} {{small|(ongoing)}}
+|-
+!scope="row"|3
+|align="left" |{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1960}}–{{F1|1970}}
+|11
+|-
+!scope="row"|4
+|align="left" |{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|2003}}–{{F1|2012}}
+|10
+|-
+!scope="row" rowspan="2"|5
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1989}}–{{F1|1997}}
+|rowspan="2"|9
+|-
+|align="left" |{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2018}}–{{F1|2026}} {{small|(ongoing)}}
+|-
+!scope="row" rowspan="6"|7
+|align="left" rowspan="3"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1951}}–{{F1|1956}}
+|rowspan="6"|6
+|-
+|{{F1|1974}}–{{F1|1979}}
+|-
+|{{F1|2021}}–{{F1|2026}} {{small|(ongoing)}}
+|-
+|align="left"|{{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|{{F1|1979}}–{{F1|1984}}
+|-
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|{{F1|1980}}–{{F1|1985}}
+|-
+|align="left" |{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1988}}–{{F1|1993}}
+|-
+| colspan="4" | {{small|Source:<ref>{{cite web | website=StatsF1 | title=Pole positions Consecutives years | url=https://www.statsf1.com/en/statistiques/constructeur/pole/annee-consecutive.aspx |access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Fewest starts before first pole position===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col" | Constructor
+! scope="col" | Number of starts before first pole position
+|-
+!rowspan=7|1
+|align="left"|{{flagicon|ITA}}/{{flagicon|CHE}} [[Alfa Romeo in Formula One|Alfa Romeo]]<ref name="Alfa Romeo" group="N"/>
+|rowspan=7|1
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|-
+|align=left|{{flagicon|ITA}} [[Lancia]]
+|-
+|align=left|{{nowrap|{{flagicon|GBR}} [[Lola Cars|Lola]]}}
+|-
+|align="left"|{{flagicon|GBR}} [[March Engineering|March]]
+|-
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|-
+|align="left"|{{flagicon|GBR}} [[Brawn GP|Brawn]]
+|-
+!8
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|9
+|-
+!9
+|align="left"|{{flagicon|CAN}} [[Walter Wolf Racing|Wolf]]
+|11
+|-
+!10
+|align=left|{{flagicon|GBR}} [[Benetton Formula|Benetton]]
+|12
+|-
+|colspan="3"| {{small|Source:<ref name="Pole Positions GP Before">{{citeweb|website=StatsF1|title=Pole Positions Grand Prix Before|url=https://www.statsf1.com/en/statistiques/constructeur/pole/gp-avant.aspx|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source includes [[Wayne Ewing|Ewing]], [[Kurtis Kraft]], [[Myron Stevens|Stevens]], [[Lesovsky]] and [[A. J. Watson|Watson]] in the top 10, but the [[Indianapolis 500]] did not count towards the International Cup for F1 Manufacturers.
+
+===Most races started before first pole position===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col" | Constructor
+!scope="col" | Number of starts before first pole position
+|-
+!scope="row"|1
+|align=left|{{flagicon|USA}} '''[[Haas F1 Team|Haas]]'''
+|143
+|-
+!scope="row"|2
+|align="left"|{{flagicon|FRA}} '''[[Alpine F1 Team|Alpine]]'''
+|127
+|-
+!scope="row"|3
+|align="left"|{{flagicon|GBR}} [[British American Racing|BAR]]
+|87
+|-
+!scope="row"|4
+|align="left"|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N"/>
+|74
+|-
+!scope="row"|5
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|67
+|-
+!scope="row" rowspan="2"|6
+|align="left"|{{flagicon|JPN}} [[Toyota in Formula One|Toyota]]
+|rowspan="2"|59
+|-
+|align="left"|{{flagicon|IRL}} [[Jordan Grand Prix|Jordan]]
+|-
+!scope="row" rowspan="2"|8
+|align=left|{{flagicon|GBR}} [[Toleman]]
+|rowspan="2"|50
+|-
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|-
+!scope="row"|10
+|align="left"|{{flagicon|ITA}} [[Scuderia Toro Rosso|Toro Rosso]]
+|49
+|-
+|colspan="3"| {{small|Source:<ref name="Pole Positions GP Before"/>}}
+|}
+
+;Notes
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics.
+
+===Most races started without a pole position===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| Starts
+!scope="col"| Best grid position
+|-
+!scope="row"| 1
+| align="left" |{{flagicon|ITA}} [[Minardi]]
+|{{F1|1985}}–{{F1|2005}}
+|340
+|2nd
+|-
+!scope="row"| 2
+| align="left" |{{flagicon|GBR}} '''[[Aston Martin in Formula One|Aston Martin]]'''
+|{{F1|1959}}–{{F1|1960}}, {{F1|2021}}–{{F1|2026}}
+|{{F1cstat|AST|starts}}
+|2nd
+|-
+!scope="row"| 3
+| align="left" |{{flagicon|ITA}} [[Osella]]
+|{{F1|1980}}–{{F1|1990}}
+|132
+|8th
+|-
+!scope="row"| 4
+| align="left" |{{nowrap|{{flagicon|GBR}} [[Surtees Racing Organisation|Surtees]]}}
+|{{F1|1970}}–{{F1|1978}}
+|118
+|2nd
+|-
+!scope="row"| 5
+| align="left" |{{nowrap|{{flagicon|GBR}} [[Ensign Racing|Ensign]]}}
+|{{F1|1973}}–{{F1|1982}}
+|98
+|3rd
+|-
+!scope="row"| 6
+| align="left" |{{flagicon|DEU}} [[ATS Wheels|ATS]]
+|{{F1|1977}}–{{F1|1984}}
+|89
+|4th
+|-
+!scope="row"| 7
+| align="left" |{{nowrap|{{flagicon|GBR}} [[Jaguar in Formula One|Jaguar]]}}
+|{{F1|2000}}–{{F1|2004}}
+|85
+|2nd
+|-
+!scope="row" rowspan=2|8
+| align="left" |{{Flagicon|FRA|variant=1974}} [[Prost Grand Prix|Prost]]
+|{{F1|1997}}–{{F1|2001}}
+|rowspan=2|83
+|3rd
+|-
+| align="left" |{{flagicon|ITA}} [[Scuderia AlphaTauri|AlphaTauri]]
+|{{F1|2020}}–{{F1|2023}}
+|2nd
+|-
+!scope="row"| 10
+| align="left" |{{flagicon|ITA}} [[Dallara]]
+|{{F1|1998}}–{{F1|1992}}
+|78
+|3rd
+|-
+|colspan="5"| {{small|Source:<ref>{{Cite web|title=Grands Prix without pole position|url=https://www.statsf1.com/en/statistiques/constructeur/gp/sans-pole.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics. Therefore, it has achieved its only pole position as [[BMW Sauber]].
+* Source separates [[Arrows Grand Prix International|Arrows]] and [[Footwork Arrows]] statistics.
+* Source unites [[Aston Martin in Formula One|Aston Martin]] and Aston Martin Aramco statistics. The Aston Martin factory team competed as Aston Martin in 1959, 1960, and 2021, and is competing as Aston Martin Aramco from 2022 onwards.
+
+===Percentage pole positions converted to wins (at least 10 poles)===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| Poles
+!scope="col"| Wins
+!scope="col"| Percentage
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|GBR}} [[Cooper Car Company|Cooper]]
+|{{F1|1950}}–{{F1|1969}}
+|11
+|10
+|{{percentage|10|11|2|pad=yes}}
+|-
+!scope="row"| 2
+|align=left|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|1954}}–{{F1|1955}}, {{F1|2010}}–{{F1|2026}}
+|{{F1cstat|MRC|poles}}
+|118
+|{{percentage|118|{{F1cstat|MRC|poles}}|2|pad=yes}}
+|-
+!scope="row"| 3
+| align="left" |{{flagicon|ITA}}/{{flagicon|CHE}} [[Alfa Romeo in Formula One|Alfa Romeo]]<ref name="Alfa Romeo" group="N">Alfa Romeo held an [[List of Formula One constructors#Team's nationality|Italian licence]] from {{F1|1950}}–{{F1|1951}} and {{F1|1979}}–{{F1|1985}}, and a Swiss licence from {{F1|2019}}–{{F1|2023}}.</ref>
+|{{F1|1950}}–{{F1|1951}}, {{F1|1979}}–{{F1|1985}}, {{F1|2019}}–{{F1|2023}}
+|12
+|9
+|{{percentage|9|12|2|pad=yes}}
+|-
+!scope="row"| 4
+|align="left"|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|{{F1|2005}}–{{F1|2026}}
+|{{F1cstat|RBR|poles}}
+|82
+|{{percentage|82|{{F1cstat|RBR|poles}}|2|pad=yes}}
+|-
+!scope="row"| 5
+|align="left"| {{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|{{F1|1970}}–{{F1|1998}}
+|14
+|10
+|{{percentage|10|14|2|pad=yes}}
+|-
+!scope="row"| 6
+|align=left|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1966}}–{{F1|2026}}
+|{{F1cstat|MCL|poles}}
+|106
+|{{percentage|106|{{F1cstat|MCL|poles}}|2|pad=yes}}
+|-
+!scope="row"| 7
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1978}}–{{F1|2026}}
+|{{F1cstat|WIL|poles}}
+|70
+|{{percentage|70|{{F1cstat|WIL|poles}}|2|pad=yes}}
+|-
+!scope="row"| 8
+|align="left"| {{Flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1950}}–{{F1|2026}}
+|{{F1cstat|FER|poles}}
+|137
+|{{percentage|137|{{F1cstat|FER|poles}}|2|pad=yes}}
+|-
+!scope="row"| 9
+|align=left|{{flagicon|ITA}} [[Maserati in Formula One|Maserati]]
+|{{F1|1950}}–{{F1|1960}}
+|10
+|5
+|{{percentage|5|10|2|pad=yes}}
+|-
+!scope="row"| 10
+|align=left|{{flagicon|FRA}}/{{flagicon|GBR}} [[Renault in Formula One|Renault]]<ref name="Renault" group="N"  />
+|{{F1|1977}}–{{F1|1985}}, {{F1|2002}}–{{F1|2011}}, {{F1|2016}}–{{F1|2020}}
+|51
+|24
+|{{percentage|24|51|2|pad=yes}}
+|-
+|colspan=6| {{small|Source:<ref>{{cite web|title=Pole positions-Pole position and win|url=https://www.statsf1.com/en/statistiques/constructeur/pole/et-victoire.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Total 1–2 qualifying results===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| 1–2s
+|- align="center"
+!scope="row"| 1
+| align="left" |{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|1954}}–{{F1|1955}}, {{F1|2010}}–{{F1|2026}}
+|88
+|-
+!scope="row"| 2
+| align="left" |{{flagicon|ITA}}  '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1950}}–{{F1|2026}}
+|83
+|-
+!scope="row"| 3
+| align="left" |{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1966}}–{{F1|2026}}
+|71
+|-
+!scope="row"| 4
+| align="left" |{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1978}}–{{F1|2026}}
+|62
+|-
+!scope="row"| 5
+| align="left" |{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N"  />
+|{{F1|2005}}–{{F1|2026}}
+|28
+|-
+!scope="row"| 6
+| align="left" |{{flagicon|FRA}}/{{flagicon|GBR}} [[Renault in Formula One|Renault]]<ref name="Renault" group="N"  />
+|{{F1|1977}}–{{F1|1985}}, {{F1|2002}}–{{F1|2011}}, {{F1|2016}}–{{F1|2020}}
+|22
+|-
+!scope="row"| 7
+| align="left" |{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1958}}–{{F1|1994}}
+|14
+|-
+!scope="row"| 8
+| align="left" |{{flagicon|ITA}}/{{flagicon|CHE}} [[Alfa Romeo in Formula One|Alfa Romeo]]<ref name="Alfa Romeo" group="N">Alfa Romeo held an [[List of Formula One constructors#Team's nationality|Italian licence]] from {{F1|1950}}–{{F1|1951}} and {{F1|1979}}–{{F1|1985}}, and a Swiss licence from {{F1|2019}}–{{F1|2023}}.</ref>
+|{{F1|1950}}–{{F1|1951}}, {{F1|1979}}–{{F1|1985}}, {{F1|2019}}–{{F1|2023}}
+|9
+|-
+!scope="row"| 9
+| align="left"|{{flagicon|GBR}} [[Brabham]]
+|{{F1|1962}}–{{F1|1987}},<br>{{F1|1989}}–{{F1|1992}}
+|6
+|-
+!scope="row"| 10
+| align="left" |{{Flagicon|FRA|variant=1974}} [[Equipe Ligier|Ligier]]/[[Equipe Ligier|Talbot Ligier]]
+|[[1976 Belgian Grand Prix|1976–]][[1996 Belgian Grand Prix|1996]]
+|5
+|-
+|colspan="4"| {{small|Source:<ref>{{cite web|title=Pole positions by one–two|url=https://www.statsf1.com/en/statistiques/constructeur/pole/double.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source includes [[Kurtis Kraft]] in top 10, but the [[Indianapolis 500]] did not count towards the International Cup for F1 Manufacturers.
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Total front-row lockouts===
+The "front row" refers to the cars at the front of each column of cars on the starting grid. Since the [[1973 German Grand Prix]], the starting grid has been formed of two columns of cars, so the front row has consisted of two cars. Previously, the front row consisted of either two, three, or four cars.
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Number
+|-
+!scope="row"| 1
+|align="left"| {{Flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|86
+|-
+!scope="row"| 2
+|align="left"| {{Flagicon|GBR}} '''[[McLaren]]'''
+|70
+|-
+!scope="row"| 3
+|align="left"| {{Flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|68
+|-
+!scope="row"| 4
+|align="left"| {{Flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|62
+|-
+!scope="row"| 5
+|align="left"| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|28
+|-
+!scope="row"| 6
+|align="left"| {{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|22
+|-
+!scope="row"| 7
+|align="left"| {{Flagicon|GBR}} [[Team Lotus|Lotus]]
+|9
+|-
+!scope="row"| 8
+|align="left"| {{Flagicon|FRA|variant=1974}} [[Equipe Ligier|Ligier]]/[[Equipe Ligier|Talbot Ligier]]
+|5
+|-
+!scope="row" rowspan="2"| 9
+|align="left"| {{flagicon|ITA}}/{{flagicon|CHE}} [[Alfa Romeo in Formula One|Alfa Romeo]]<ref name="Alfa Romeo" group="N"  />
+|rowspan="2"| 4
+|-
+|align="left"| {{Flagicon|GBR}} [[Brabham]]
+|-
+|colspan="3"| {{small|Source:<ref>{{Cite web|title=Grands Prix firsts rows locked|url=https://www.statsf1.com/en/statistiques/constructeur/gp/premiere-ligne-verouille.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+==Fastest laps==
+
+===Total fastest laps===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| Fastest laps
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1950}}–{{F1|2026}}
+|{{F1cstat|FER|fastestlaps}}
+|-
+!scope="row"| 2
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1966}}–{{F1|2026}}
+|{{F1cstat|MCL|fastestlaps}}
+|-
+!scope="row"| 3
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1978}}–{{F1|2026}}
+|{{F1cstat|WIL|fastestlaps}}
+|-
+!scope="row"| 4
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|1954}}–{{F1|1955}}, {{F1|2010}}–{{F1|2026}}
+|{{F1cstat|MRC|fastestlaps}}
+|-
+!scope="row"| 5
+|align="left"|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|{{F1|2005}}–{{F1|2026}}
+|{{F1cstat|RBR|fastestlaps}}
+|-
+!scope="row"| 6
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1958}}–{{F1|1994}}
+|71
+|-
+!scope="row"| 7
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|{{F1|1962}}–{{F1|1987}}, {{F1|1989}}–{{F1|1992}}
+|41
+|-
+!scope="row"| 8
+|align="left"|{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N"/>
+|{{F1|1986}}–{{F1|2001}}
+|36
+|-
+!scope="row"| 9
+|align="left"|{{flagicon|FRA}}/{{flagicon|GBR}} [[Renault in Formula One|Renault]]<ref name="Renault" group="N"  />
+|{{F1|1977}}–{{F1|1985}}, {{F1|2002}}–{{F1|2011}}, {{F1|2016}}–{{F1|2020}}
+|33
+|-
+!scope="row"| 10
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|{{F1|1970}}–{{F1|1998}}
+|20
+|-
+|colspan=4| {{small|Source:<ref>{{cite web|title=Fastest laps by number|url=http://www.statsf1.com/en/statistiques/constructeur/meilleurtour/nombre.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+;Notes
+* Source credits an extra fastest lap for '''[[McLaren]]''' in the [[1970 South African Grand Prix]].{{cn|date=April 2026}}
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Most fastest laps in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Season
+!scope="col"| Races
+!scope="col"| Fastest laps
+!scope="col"| Percentage
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2004}}
+|18
+|14
+|{{percentage|14|18|2|pad=yes}}
+|-
+!scope="row" rowspan="2"| 2
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2008}}
+|18
+|rowspan="2"| 13
+|{{percentage|13|18|2|pad=yes}}
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2015}}
+|19
+|{{percentage|13|19|2|pad=yes}}
+|-
+!scope="row" rowspan="7"| 4
+|align="left" rowspan="3"| {{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|2000}}
+|17
+|rowspan="7"| 12
+|{{percentage|12|17|2|pad=yes}}
+|-
+|{{F1|2005}}
+|19
+|{{percentage|12|19|2|pad=yes}}
+|-
+|{{F1|2025}}
+|24
+|{{percentage|12|24|2|pad=yes}}
+|-
+|align="left" rowspan="2"| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2002}}
+|17
+|{{percentage|12|17|2|pad=yes}}
+|-
+|{{F1|2007}}
+|17
+|{{percentage|12|17|2|pad=yes}}
+|-
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2013}}
+|19
+|{{percentage|12|19|2|pad=yes}}
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|19
+|{{percentage|12|19|2|pad=yes}}
+|-
+|colspan=6| {{small|Source:<ref name="SeasonFastestLaps" >{{cite web|title=Fastest laps in a year|url=https://www.statsf1.com/en/statistiques/constructeur/meilleurtour/annee.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Highest percentage of fastest laps in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Season
+!scope="col"| Races
+!scope="col"| Fastest laps
+!scope="col"| Percentage
+|-
+!scope="row" rowspan="2"|1
+|align="left" |{{flagicon|ITA}} [[Alfa Romeo in Formula One|Alfa Romeo]]
+|{{F1|1951}}
+|rowspan="2"|8
+|rowspan="2"|7
+|rowspan="2"|{{percentage|7|8|2|pad=yes}}
+|-
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1952}}
+|-
+!scope="row"|3
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2004}}
+|18
+|14
+|{{percentage|14|18|2|pad=yes}}
+|-
+!scope="row"|4
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2008}}
+|18
+|13
+|{{percentage|13|18|2|pad=yes}}
+|-
+!scope="row" rowspan="3"|5
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|2000}}
+|rowspan="3"|17
+|rowspan="3"|12
+|rowspan="3"|{{percentage|12|17|2|pad=yes}}
+|-
+|align="left" rowspan="2"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2002}}
+|-
+|{{F1|2007}}
+|-
+!scope="row" rowspan="3"|8
+|align="left" rowspan="3"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1986}}
+|rowspan="3"|16
+|rowspan="3"|11
+|rowspan="3"|{{percentage|11|16|2|pad=yes}}
+|-
+|{{F1|1992}}
+|-
+|{{F1|1996}}
+|-
+|colspan=6|{{small|Source:<ref name="SeasonFastestLaps" />}}
+|}
+
+===Most seasons with a fastest lap===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col" | Constructor
+! scope="col" | Seasons with a fastest lap
+|-
+! scope="row" | 1
+| align="left" |{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|59
+|-
+! scope="row" | 2
+| align="left" |{{flagicon|GBR}} '''[[McLaren]]'''
+|46
+|-
+! scope="row" | 3
+| align="left" |{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|27
+|-
+! scope="row" | 4
+| align="left" |{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|19
+|-
+! scope="row" | 5
+| align="left" |{{nowrap|{{flagicon|AUT}} '''[[Red Bull Racing]]'''}}
+|18
+|-
+! scope="row" rowspan="2"| 6
+| align="left" |{{flagicon|GBR}} [[Brabham]]
+|rowspan="2"|17
+|-
+| align="left" |{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|-
+! scope="row" rowspan="2"| 8
+| align="left" |{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N" />
+|rowspan="2"|12
+|-
+| align="left" |{{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|-
+! scope="row" rowspan="2"| 10
+| align="left" |{{flagicon|GBR}} [[British Racing Motors|BRM]]
+|rowspan="2"|9
+|-
+| align="left" |{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|-
+|colspan=3 align="center"| Source:<ref>{{cite web|title=Fastest laps by number of years|url=https://www.statsf1.com/en/statistiques/constructeur/meilleurtour/nb-annee.aspx|website=Stats F1|access-date=1 November 2026}}</ref>
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Most consecutive races with a fastest lap===
+{|class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Fastest Laps
+!scope="col"| Season(s)
+!scope="col"| Races
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|9
+|{{F1|2004}}
+|[[2004 Bahrain Grand Prix]] – [[2004 British Grand Prix]]
+|-
+!scope="row"| 2
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|8
+|{{F1|1970}}–{{F1|1971}}
+|[[1970 German Grand Prix]] – [[1971 Spanish Grand Prix]]
+|-
+!scope="row" rowspan=2|3
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|rowspan=2|7
+|{{F1|1952}}–{{F1|1953}}
+|[[1952 Belgian Grand Prix]] – [[1953 Argentine Grand Prix]]
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|[[2014 British Grand Prix]] – [[2014 Japanese Grand Prix]]
+|-
+!scope="row" rowspan=9|5
+|align="left"|{{flagicon|ITA}} [[Alfa Romeo in Formula One|Alfa Romeo]]
+|rowspan=9|6
+|{{F1|1951}}
+|[[1951 Belgian Grand Prix]] – [[1951 Spanish Grand Prix]]
+|-
+|align="left" rowspan=3|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1988}}
+|[[1988 San Marino Grand Prix]] – [[1988 French Grand Prix]]
+|-
+|{{F1|1999}}
+|[[1999 French Grand Prix]] – [[1999 Belgian Grand Prix]]
+|-
+|{{F1|2005}}
+|[[2005 French Grand Prix]] – [[2005 Italian Grand Prix]]
+|-
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1993}}
+|[[1993 Hungarian Grand Prix]] – [[1993 Australian Grand Prix]]
+|-
+|align="left" rowspan=4|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2002}}
+|[[2002 German Grand Prix]] – [[2002 Japanese Grand Prix]]
+|-
+|{{F1|2007}}
+|[[2007 United States Grand Prix]] – [[2007 Turkish Grand Prix]]
+|-
+|{{F1|2008}}
+|[[2008 Spanish Grand Prix]] – [[2008 British Grand Prix]]
+|-
+|{{F1|2008}}
+|[[2008 Hungarian Grand Prix]] – [[2008 Japanese Grand Prix]]
+|-
+|colspan=5 align="center"| {{small|Source:<ref>{{cite web|title=Fastest laps consecutively|url=https://www.statsf1.com/en/statistiques/constructeur/meilleurtour/consecutif.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most fastest laps in the same Grand Prix===
+{|class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Fastest laps
+!scope="col"| Grand Prix
+|-
+!scope="row"| 1
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center| 21
+| [[British Grand Prix]]
+|-
+!scope="row" rowspan=2|2
+|rowspan=2|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center rowspan=2| 19
+| [[Italian Grand Prix]]
+|-
+| [[Belgian Grand Prix]]
+|-
+!scope="row" rowspan=2|4
+|rowspan=2|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center rowspan=2| 17
+| [[German Grand Prix]]
+|-
+| [[Monaco Grand Prix]]
+|-
+!scope="row" rowspan=2|6
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center rowspan=2| 16
+| [[French Grand Prix]]
+|-
+|{{flagicon|GBR}} '''[[McLaren]]'''
+| [[Italian Grand Prix]]
+|-
+!scope="row"| 8
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center| 14
+| [[Spanish Grand Prix]]
+|-
+!scope="row"|9
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center| 13
+| [[United States Grand Prix]]
+|-
+!scope="row"|10
+|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center| 12
+| [[Monaco Grand Prix]]
+|-
+|colspan=4 align="center"| {{small|Source:<ref>{{cite web|title=Fastest laps by Grand Prix|url=https://www.statsf1.com/en/statistiques/constructeur/meilleurtour/grandprix.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most consecutive seasons with a fastest lap===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col" | Constructor
+!scope="col" | Seasons
+!scope="col" | Number of seasons
+|-align="center"
+!scope="row"|1
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2009}}–{{F1|2026}} {{small|(ongoing)}}
+|18
+|-
+!scope="row"|2
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1995}}–{{F1|2011}}
+|17
+|-
+!scope="row"|3
+| align="left"|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2012}}–{{F1|2026}} {{small|(ongoing)}}
+|15
+|-
+!scope="row" rowspan="2"|4
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1981}}–{{F1|1993}}
+|rowspan="2"|13
+|-
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1985}}–{{F1|1997}}
+|-
+!scope="row"|6
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1997}}–{{F1|2008}}
+|12
+|-
+!scope="row"|7
+|align="left"|{{flagicon|GBR}} [[Benetton Formula|Benetton]]
+|{{F1|1990}}–{{F1|1998}}
+|9
+|-
+!scope="row" rowspan="2"|8
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1970}}–{{F1|1977}}
+|rowspan="2"|8
+|-
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|{{F1|1977}}–{{F1|1984}}
+|-
+!scope="row" rowspan="4"|10
+|align="left"|{{Flagicon|ITA}} [[Maserati in Formula One|Maserati]]
+|{{F1|1952}}–{{F1|1958}}
+|rowspan="4"|7
+|-
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|{{F1|1971}}–{{F1|1977}}
+|-
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2013}}–{{F1|2019}}
+|-
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|2020}}–{{F1|2026}} {{small|(ongoing)}}
+|-
+| colspan="4" | {{small|Source:<ref>{{cite web | website=StatsF1 | title=Fastest laps Consecutives years | url=https://www.statsf1.com/en/statistiques/constructeur/meilleurtour/annee-consecutive.aspx|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source includes [[Kurtis Kraft]] in top 10, but the [[Indianapolis 500]] did not count towards the International Cup for F1 Manufacturers.
+
+===Fewest starts before first fastest lap===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col" | Constructor
+! scope="col" | Number of starts before first fastest lap 
+|-
+!rowspan=3|1
+|align="left"|{{flagicon|ITA}}/{{flagicon|CHE}} [[Alfa Romeo in Formula One|Alfa Romeo]]<ref name="Alfa Romeo" group="N"/>
+|rowspan=3|1
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|-
+|align=left|{{flagicon|ITA}} [[Lancia]]
+|-
+!4
+|align="left"|{{flagicon|GBR}} [[Brawn GP|Brawn]]
+|2
+|-
+!5
+|align="left"|{{flagicon|GBR}} [[March Engineering|March]]
+|4
+|-
+!6
+|align="left"|{{flagicon|FRA}} [[Equipe Matra Sports|Matra]]
+|5
+|-
+!rowspan=4|7
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|rowspan=4|6
+|-
+|align="left"|{{flagicon|USA}} [[Vel's Parnelli Jones Racing|Parnelli]]
+|-
+|align="left"|{{flagicon|CAN}} [[Walter Wolf Racing|Wolf]]
+|-
+|align=left|{{flagicon|GBR}} [[Toleman]]
+|-
+|colspan="3"| {{small|Source:<ref name="Fastests laps GP Before">{{citeweb|website=StatsF1|title=Fastests Laps Grand Prix Before|url=https://www.statsf1.com/en/statistiques/constructeur/meilleurtour/gp-avant.aspx|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source includes [[Quin Epperly|Epperly]] and [[Kurtis Kraft]] in the top 10, but the [[Indianapolis 500]] did not count towards the International Cup for F1 Manufacturers.
+
+===Most races started before first fastest lap===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col" | Constructor
+!scope="col" | Number of starts before first fastest lap
+|-
+!scope="row"|1
+|align="left"|{{flagicon|CHE}}/{{flagicon|DEU}} [[Sauber Motorsport|Sauber]]/[[BMW in Formula One#BMW Sauber|BMW Sauber]]<ref name="Sauber" group="N"/>
+|255
+|-
+!scope="row"|2
+|align="left"|{{flagicon|ITA}} [[Scuderia Toro Rosso|Toro Rosso]]
+|190
+|-
+!scope="row"|3
+|align="left"|{{flagicon|FRA}} '''[[Alpine F1 Team|Alpine]]'''
+|85
+|-
+!scope="row" rowspan="2"|4
+|align="left"|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N"/>
+|rowspan="2"|79
+|-
+|align=left|{{flagicon|GBR}} [[Ensign Racing|Ensign]]
+|-
+!scope="row"|6
+|align="left"|{{flagicon|JPN}} [[Toyota in Formula One|Toyota]]
+|66
+|-
+!scope="row"|7
+|align=left|{{flagicon|GBR}} '''[[Aston Martin in Formula One|Aston Martin]]'''
+|62
+|-
+!scope="row"|8
+|align=left|{{flagicon|USA}} '''[[Haas F1 Team|Haas]]'''
+|56
+|-
+!scope="row"|9
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|34
+|-
+!scope="row"|10
+|align="left"|{{flagicon|GBR}} [[Cooper Car Company|Cooper]]
+|32
+|-
+|colspan="3"| {{small|Source:<ref name="Fastests laps GP Before"/>}}
+|}
+
+;Notes
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics.
+
+===Most races started without a fastest lap===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| Starts
+|-
+!scope="row"|1
+|align="left"|{{flagicon|GBR}} [[Arrows Grand Prix International|Arrows]]
+|{{F1|1978}}–{{F1|2002}}
+|382
+|-
+!scope="row"|2
+|align="left"|{{flagicon|ITA}} [[Minardi]]
+|{{F1|1985}}–{{F1|2005}}
+|340
+|-
+!scope="row"|3
+|align=left|{{nowrap|{{flagicon|GBR}} [[Lola Cars|Lola]]}}
+|{{F1|1962}}–{{F1|1963}}, {{F1|1967}}–{{F1|1968}}, {{F1|1974}}–{{F1|1975}}, {{F1|1985}}–{{F1|1991}}, {{F1|1993}}, {{F1|1997}}
+|149
+|-
+!scope="row"|4
+|align="left"|{{flagicon|ITA}} [[Osella]]
+|{{F1|1980}}–{{F1|1990}}
+|132
+|-
+!scope="row"|5
+|align=left|{{nowrap|{{flagicon|GBR}} [[British American Racing|BAR]]}}
+|{{F1|1999}}–{{F1|2005}}
+|117
+|-
+!scope="row"|6
+|align="left"|{{flagicon|DEU}} [[ATS Wheels|ATS]]
+|{{F1|1977}}–{{F1|1984}}
+|89
+|-
+!scope="row"|7
+|align="left"|{{nowrap|{{flagicon|GBR}} [[Jaguar in Formula One|Jaguar]]}}
+|{{F1|2000}}–{{F1|2004}}
+|85
+|-
+!scope="row"|8
+|align="left"|{{Flagicon|FRA|variant=1974}} [[Prost Grand Prix|Prost]]
+|{{F1|1997}}–{{F1|2001}}
+|83
+|-
+!scope="row"|9
+|align="left"|{{flagicon|ITA}} [[Dallara]]
+|{{F1|1998}}–{{F1|1992}}
+|78
+|-
+!scope="row"|10
+|align="left"|{{flagicon|RUS}}/{{flagicon|GBR}} [[Marussia F1|Marussia]]<ref name="Marussia" group="N"/>
+|{{F1|2012}}–{{F1|2015}}
+|73
+|-
+|colspan="5"| {{small|Source:<ref>{{Cite web|title=Grands Prix without fastest lap|url=https://www.statsf1.com/en/statistiques/constructeur/gp/sans-meilleur-tour.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source separates [[Arrows Grand Prix International|Arrows]] and [[Footwork Arrows]] statistics.
+
+==Podiums==
+
+===Total podiums===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Podiums
+!scope="col"| Podium races<ref group="N" name="Podium races">Races in which the constructor scored one or more podium finishes.</ref>
+!scope="col"| Seasons
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1cstat|FER|podiums}}
+|{{F1cstat|FER|podiumsraces}}
+|{{F1|1950}}–{{F1|2026}}
+|-
+!scope="row"| 2
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1cstat|MCL|podiums}}
+|{{F1cstat|MCL|podiumsraces}}
+|{{F1|1966}}–{{F1|2026}}
+|-
+!scope="row"| 3
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1cstat|MRC|podiums}}
+|{{F1cstat|MRC|podiumsraces}}
+|{{F1|1954}}–{{F1|1955}}, {{F1|2010}}–{{F1|2026}}
+|-
+!scope="row"| 4
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1cstat|WIL|podiums}}
+|{{F1cstat|WIL|podiumsraces}}
+|{{F1|1978}}–{{F1|2026}}
+|-
+!scope="row"| 5
+|align="left"|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|{{F1cstat|RBR|podiums}}
+|{{F1cstat|RBR|podiumsraces}}
+|{{F1|2005}}–{{F1|2026}}
+|-
+!scope="row"| 6
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|172
+|157
+|{{F1|1958}}–{{F1|1994}}
+|-
+!scope="row"| 7
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|124
+|106
+|{{F1|1962}}–{{F1|1987}}, {{F1|1989}}–{{F1|1992}}
+|-
+!scope="row"| 8
+|align="left"|{{flagicon|FRA}}/{{flagicon|GBR}} [[Renault in Formula One|Renault]]<ref name="Renault" group="N"  />
+|103
+|91
+|{{F1|1977}}–{{F1|1985}}, {{F1|2002}}–{{F1|2011}}, {{F1|2016}}–{{F1|2020}}
+|- align="center"
+!scope="row"| 9
+|align="left"|{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N"  />
+|102
+|94
+|{{F1|1986}}–{{F1|2001}}
+|-
+!scope="row"| 10
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|77
+|66
+|{{F1|1970}}–{{F1|1998}}
+|-
+|colspan=5| {{small|Source:<ref>{{cite web|title=Podiums by number|url=http://www.statsf1.com/en/statistiques/constructeur/podium/nombre.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Most podiums in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Season
+!scope="col"| Podiums
+!scope="col"| Entries
+!scope="col"| Percentage
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|2025}}
+|34
+|48
+|{{percentage|34|48|2|pad=yes}}
+|-
+!scope="row"| 2
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2016}}
+|33
+|42
+|{{percentage|33|42|2|pad=yes}}
+|-
+!scope="row" rowspan="2"|3
+|align="left" rowspan="2"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2015}}
+|rowspan="2"|32
+|38
+|{{percentage|32|38|2|pad=yes}}
+|-
+|{{F1|2019}}
+|42
+|{{percentage|32|42|2|pad=yes}}
+|-
+!scope="row"|5
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|31
+|38
+|{{percentage|31|38|2|pad=yes}}
+|-
+!scope="row"|6
+|align="left"| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2023}}
+|30
+|44
+|{{percentage|30|44|2|pad=yes}}
+|-
+!scope="row"|7
+|align="left"| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2004}}
+|29
+|36
+|{{percentage|29|36|2|pad=yes}}
+|-
+!scope="row" rowspan="2"|8
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2021}}
+|rowspan="2"|28
+|44
+|{{percentage|28|44|2|pad=yes}}
+|-
+|align="left"| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2022}}
+|44
+|{{percentage|28|44|2|pad=yes}}
+|-
+!scope="row" rowspan="2"|10
+|align="left"| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2002}}
+|rowspan="2"|27
+|34
+|{{percentage|27|34|2|pad=yes}}
+|-
+|align="left"| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2011}}
+|38
+|{{percentage|27|38|2|pad=yes}}
+|-
+|colspan="6"| {{small|Source:<ref>{{cite web|title=Podiums in a year|url=http://www.statsf1.com/en/statistiques/constructeur/podium/annee.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most seasons with a podium===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col" | Constructor
+! scope="col" | Seasons with a podium
+|-
+! scope="row" | 1
+| align="left" |{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|75
+|-
+! scope="row" | 2
+| align="left" |{{flagicon|GBR}} '''[[McLaren]]'''
+|53
+|-
+! scope="row" | 3
+| align="left" |{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|38
+|-
+! scope="row" | 4
+| align="left" |{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|29
+|-
+! scope="row"| 5
+| align="left" |{{flagicon|GBR}} [[Brabham]]
+|22
+|-
+! scope="row" | 6
+| align="left" |{{nowrap|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />}}
+|21
+|-
+! scope="row" | 7
+| align="left" |{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|18
+|-
+! scope="row" | 8
+| align="left" |{{flagicon|FRA}}/{{flagicon|GBR}} [[Renault in Formula One|Renault]]<ref name="Renault" group="N"  />
+|17
+|-
+! scope="row" rowspan="2"| 9
+| align="left" |{{flagicon|GBR}} [[British Racing Motors|BRM]]
+|rowspan="2"|16
+|-
+| align="left" |{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N" />
+|-
+|colspan=3 align="center"| Source:<ref>{{cite web|title=Podium by number of years|url=https://www.statsf1.com/en/statistiques/constructeur/podium/nb-annee.aspx|website=Stats F1|access-date=1 November 2026}}</ref>
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Most consecutive races with a podium===
+{|class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Podiums
+!scope="col"| Season(s)
+!scope="col"| Races
+|-
+!scope="row"| 1
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align="center"|53
+|{{nowrap|{{F1|1999}}–{{F1|2002}}}}
+|[[1999 Malaysian Grand Prix]] – [[2002 Japanese Grand Prix]]
+|-
+!scope="row"| 2
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|28
+|{{F1|2014}}–{{F1|2015}}
+|[[2014 Australian Grand Prix]] – [[2015 British Grand Prix]]
+|-
+!scope="row" rowspan=2|3
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|rowspan=2 align="center"|22
+|{{F1|2003}}–{{F1|2005}}
+|[[2003 Italian Grand Prix]] – [[2005 Australian Grand Prix]]
+|-
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2017}}–{{F1|2018}}
+|[[2017 Canadian Grand Prix]] – [[2018 French Grand Prix]]
+|-
+!scope="row"| 5
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|21
+|{{F1|2016}}–{{F1|2017}}
+|[[2016 Monaco Grand Prix]] – [[2017 Spanish Grand Prix]]
+|-
+!scope="row" rowspan=4|6
+| {{flagicon|GBR}} '''[[McLaren]]'''
+|align="center" rowspan=4|19
+|{{F1|2007}}–{{F1|2008}}
+|[[2007 Australian Grand Prix]] – [[2008 Malaysian Grand Prix]]
+|-
+|rowspan=2| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2010}}–{{F1|2011}}
+|[[2010 Brazilian Grand Prix]] – [[2011 Indian Grand Prix]]
+|-
+|align="center"|{{F1|2022}}
+|[[2022 Saudi Arabian Grand Prix]] – [[2022 Mexico City Grand Prix]]
+|-
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|{{F1|2026}}
+|[[2026 Australian Grand Prix]] – [[2026 Mexico City Grand Prix]] (ongoing)
+|-
+!scope="row" rowspan=3|10
+| {{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align="center" rowspan=3|17
+|{{F1|1993}}–{{F1|1994}}
+|[[1993 South African Grand Prix]] – [[1994 Brazilian Grand Prix]]
+|-
+| {{Flagicon|FRA|variant=1974}} [[Renault in Formula One|Renault]]
+|{{F1|2005}}–{{F1|2006}}
+|[[2005 Turkish Grand Prix]] – [[2006 French Grand Prix]]
+|-
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align="center"|{{F1|2021}}–{{F1|2022}}
+|[[2021 French Grand Prix]] – [[2022 Bahrain Grand Prix]]
+|-
+|colspan=5 align="center"| {{small|Source:<ref>{{cite web|title=Podiums consecutively|url=http://www.statsf1.com/en/statistiques/constructeur/podium/consecutif.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most consecutive seasons with a podium===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col" | Constructor
+!scope="col" | Seasons
+!scope="col" | Number of seasons
+|-align="center"
+!scope="row"|1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1981}}–{{F1|2026}} {{small|(ongoing)}}
+|46
+|-
+!scope="row"|2
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1981}}–{{F1|2012}}
+|32
+|-
+!scope="row"|3
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1960}}–{{F1|1988}}
+|29
+|-
+!scope="row"|4
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1978}}–{{F1|2005}}
+|28
+|-
+!scope="row"|5
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1950}}–{{F1|1972}}
+|23
+|-
+!scope="row"|6
+|align="left"|{{nowrap|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />}}
+|{{F1|2006}}–{{F1|2026}} {{small|(ongoing)}}
+|21
+|-
+!scope="row"|7
+|align="left"|{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N"/>
+|{{F1|1986}}–{{F1|2001}}
+|16
+|-
+!scope="row" rowspan="2"|8
+|align="left"|{{flagicon|GBR}} [[British Racing Motors|BRM]]
+|{{F1|1958}}–{{F1|1972}}
+|rowspan="2"|15
+|-
+|align="left"|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2012}}–{{F1|2026}} {{small|(ongoing)}}
+|-
+!scope="row"|10
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1968}}–{{F1|1972}}
+|12
+|-
+|colspan="4"|{{small|Source:<ref>{{cite web| website=StatsF1|title=Podiums Consecutives years|url=https://www.statsf1.com/en/statistiques/constructeur/podium/annee-consecutive.aspx|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Fewest starts before first podium===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col" | Constructor
+! scope="col" | Number of starts before first podium 
+|-
+!rowspan=8|1
+|align="left"|{{flagicon|ITA}}/{{flagicon|CHE}} [[Alfa Romeo in Formula One|Alfa Romeo]]<ref name="Alfa Romeo" group="N"/>
+|rowspan=8|1
+|-
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|-
+|align="left"|{{flagicon|FRA}} [[Gordini]]
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|-
+|align="left"|{{flagicon|GBR}} [[March Engineering|March]]
+|-
+|align="left"|{{flagicon|CAN}} [[Walter Wolf Racing|Wolf]]
+|-
+|align="left"|{{flagicon|BRA}} [[Fittipaldi Automotive|Fittipaldi]]
+|-
+|align="left"|{{flagicon|GBR}} [[Brawn GP|Brawn]]
+|-
+!rowspan=3|9
+|align="left"|{{flagicon|ITA}} [[Maserati in Formula One|Maserati]]
+|rowspan=3|2
+|-
+|align="left"|{{flagicon|USA}} [[Shadow Racing Cars|Shadow]]
+|-
+|align="left"|{{flagicon|FRA}} [[Prost Grand Prix|Prost]]
+|-
+
+|colspan="3"| {{small|Source:<ref name="Podium GP Before">{{citeweb|website=StatsF1|title=Podiums Grand Prix Before|url=https://www.statsf1.com/en/statistiques/constructeur/podium/gp-avant.aspx|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source includes [[Emil Diedt|Diedt]], [[Kurtis Kraft]], [[Eddie Kuzma|Kuzma]], and [[Quin Epperly|Epperly]] in the top 15, but the [[Indianapolis 500]] did not count towards the International Cup for F1 Manufacturers.
+
+===Most races started before first podium===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col" | Constructor
+!scope="col" | Number of starts before first podium
+|-
+!scope="row"|1
+|align="left"|{{flagicon|JPN}} [[Toyota in Formula One|Toyota]]
+|53
+|-
+!scope="row"|2
+|align="left"|{{flagicon|IRL}} [[Jordan Grand Prix|Jordan]]
+|50
+|-
+!scope="row"|3
+|align="left"|{{flagicon|ITA}} [[Scuderia Toro Rosso|Toro Rosso]]
+|49
+|-
+!scope="row"|4
+|align="left"|{{flagicon|CHE}}/{{flagicon|DEU}} [[Sauber Motorsport|Sauber]]/[[BMW in Formula One#BMW Sauber|BMW Sauber]]<ref name="Sauber" group="N"/>
+|43
+|-
+!scope="row"|5
+|align="left"|{{flagicon|BRA}} [[Fittipaldi Automotive|Fittipaldi]]
+|42
+|-
+!scope="row"|6
+|align="left"|{{flagicon|GBR}} [[British American Racing|BAR]]
+|38
+|-
+!scope="row"|7
+|align=left|{{flagicon|GBR}} [[Toleman]]
+|34
+|-
+!scope="row"|8
+|align=left|{{nowrap|{{flagicon|IND}} [[Force India]]}}
+|30
+|-
+!scope="row"|9
+|align="left"|{{flagicon|GBR}} [[Racing Point F1 Team|Racing Point]]
+|29
+|-
+!scope="row"|10
+|align="left"|{{nowrap|{{flagicon|GBR}} [[Surtees Racing Organisation|Surtees]]}}
+|28
+|-
+|colspan="3"| {{small|Source:<ref name="Podium GP Before"/>}}
+|}
+
+;Notes
+* Source separates [[Arrows Grand Prix International|Arrows]] and [[Footwork Arrows]] statistics.
+* Source separates [[Fittipaldi Automotive|Copersucar]] and [[Fittipaldi Automotive|Fittipaldi]] statistics.
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics.
+
+===Most races started without a podium===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| Starts
+!scope="col"| Best finish
+|-
+!scope="row"| 1
+|align=left|{{flagicon|ITA}} [[Minardi]]
+|{{F1|1985}}–{{F1|2005}}
+|340
+|4th
+|-
+!scope="row"| 2
+|align=left|{{flagicon|USA}} '''[[Haas F1 Team|Haas]]'''
+|{{F1|2016}}–{{F1|2026}}
+|{{F1cstat|HAA|starts}}
+|4th
+|-
+!scope="row"| 3
+|align=left|{{flagicon|ITA}} [[Osella]]
+|{{F1|1980}}–{{F1|1990}}
+|132
+|4th
+|-
+!scope="row"| 4
+|align=left|{{flagicon|GBR}} [[Ensign Racing|Ensign]]
+|{{F1|1973}}–{{F1|1982}}
+|98
+|4th
+|-
+!scope="row"| 5
+|align=left|{{flagicon|DEU}} [[ATS Wheels|ATS]]
+|{{F1|1977}}–{{F1|1984}}
+|89
+|5th
+|-
+!scope="row"| 6
+|align=left|{{flagicon|RUS}}/{{flagicon|GBR}} [[Marussia F1|Marussia]]<ref name="Marussia" group="N">Marussia held a [[List of Formula One constructors#Team's nationality|Russian licence]] from {{F1|2012}} to {{F1|2014}}, and a British licence in {{F1|2015}}</ref>
+|{{F1|2012}}–{{F1|2015}}
+|73
+|9th
+|-
+!scope="row" rowspan=2|7
+|align=left|{{flagicon|SPA}} [[HRT Formula 1 Team|HRT]]
+|{{F1|2010}}–{{F1|2012}}
+|rowspan=2|56
+|13th
+|-
+|align=left|{{flagicon|MYS}} [[Caterham F1|Caterham]]
+|{{F1|2012}}–{{F1|2014}}
+|11th
+|-
+!scope="row"| 9
+|align=left|{{flagicon|DEU}} [[Zakspeed]]
+|{{F1|1985}}–{{F1|1989}}
+|53
+|5th
+|-
+!scope="row"| 10
+|align=left|{{flagicon|FRA}} [[Automobiles Gonfaronnaises Sportives|AGS]]
+|{{F1|1986}}–{{F1|1991}}
+|47
+|6th
+<!--
+|- align="center"
+!align="left" rowspan=2|10
+|align=left|{{flagicon|MYS}} [[Team Lotus (2010-11)|Lotus (2010–2011)]]
+|{{F1|2010}}–{{F1|2011}}
+|rowspan=2|38
+|12th place
+|- align="center"
+|align=left|{{flagicon|GBR}}/{{flagicon|RUS}} [[Virgin Racing|Virgin]]
+|{{F1|2010}}–{{F1|2011}}
+|14th place-->
+|-
+|colspan="5"| {{small|Source:<ref name=TotalNonPodiums>{{cite web|title=Grands Prix without podium|url=https://www.statsf1.com/en/statistiques/constructeur/gp/sans-podium.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+
+*Source indicates [[Ensign Racing|Ensign]] with an extra start, but DNQ in the [[1977 British Grand Prix]].
+
+===Most podiums without a win===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Seasons
+!scope="col"| Podiums
+|-
+!scope="row"| 1
+|align=left|{{nowrap|{{flagicon|GBR}} [[British American Racing|BAR]]}}
+|{{F1|1999}}–{{F1|2005}}
+|15
+|-
+!scope="row"| 2
+|align=left|{{flagicon|JPN}} [[Toyota in Formula One|Toyota]]
+|{{F1|2002}}–{{F1|2009}}
+|13
+|-
+!scope="row"| 3
+|align=left|{{flagicon|GBR}} '''[[Aston Martin in Formula One|Aston Martin]]'''
+|{{F1|1959}}–{{F1|1960}}, {{F1|2021}}–{{F1|2026}}
+|{{F1cstat|AST|podiums}}
+|-
+!scope="row"| 4
+|align=left|{{nowrap|{{flagicon|GBR}} [[Arrows Grand Prix International|Arrows]]}}
+|{{F1|1978}}–{{F1|2002}}
+|8
+|-
+!scope="row"| 5
+|align=left|{{nowrap|{{flagicon|IND}} [[Force India]]}}
+|{{F1|2008}}–{{F1|2018}}
+|6
+|-
+!scope="row" rowspan=4|6
+|align=left|{{nowrap|{{flagicon|GBR}} [[Lola Cars|Lola]]}}
+|{{F1|1962}}–{{F1|1963}}, {{F1|1967}}–{{F1|1968}}, {{F1|1974}}–{{F1|1975}}, {{F1|1985}}–{{F1|1991}}, {{F1|1993}}, {{F1|1997}}
+|rowspan=4|3
+|-
+|align=left|{{nowrap|{{flagicon|BRA|1968}} [[Fittipaldi Automotive|Fittipaldi]]}}
+|{{F1|1975}}–{{F1|1982}}
+|-
+|align=left|{{flagicon|GBR}} [[Toleman]]
+|{{F1|1981}}–{{F1|1985}}
+|-
+|align=left|{{Flagicon|FRA|variant=1974}} [[Prost Grand Prix|Prost]]
+|{{F1|1997}}–{{F1|2001}}
+|-
+!scope="row" rowspan=5|10
+|align=left|{{flagicon|FRA}} [[Talbot-Lago]]
+|{{F1|1950}}–{{F1|1951}}
+|rowspan=5|2
+|-
+|align=left|{{flagicon|FRA}} [[Gordini]]
+|{{F1|1952}}–{{F1|1956}}
+|-
+|align=left|{{flagicon|GBR}} [[Surtees Racing Organisation|Surtees]]
+|{{F1|1970}}–{{F1|1978}}
+|-
+|align=left|{{flagicon|ITA}} [[Dallara]]
+|{{F1|1988}}–{{F1|1992}}
+|-
+|align=left|{{nowrap|{{flagicon|GBR}} [[Jaguar in Formula One|Jaguar]]}}
+|{{F1|2000}}–{{F1|2004}}
+|-
+| colspan="4"| {{small|Source:<ref>{{Cite web|title=Podiums without win|url=http://www.statsf1.com/en/statistiques/constructeur/podium/sans-victoire.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source includes [[Emil Diedt|Diedt]] in the top 10, but the [[Indianapolis 500]] did not count towards the International Cup for F1 Manufacturers.
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics.
+* Source separates [[Arrows Grand Prix International|Arrows]] and [[Footwork Arrows]] statistics.
+* Source unites [[Force India]] and [[Racing Point Force India]] statistics.
+* Source unites [[Aston Martin in Formula One|Aston Martin]] and Aston Martin Aramco statistics. The Aston Martin factory team competed as Aston Martin in 1959, 1960, and 2021, and is competing as Aston Martin Aramco from 2022 onwards.
+
+==Points==
+Throughout the history of the World Championship, the points-scoring positions and the number of points awarded to each position have varied&nbsp;– see the [[List of Formula One World Championship points scoring systems]] for details.
+
+===Total points===
+{|class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| {{Abbr|WCC|World Constructors' Championship}} points
+|-
+!scope="row"| 1
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center|{{F1cstat|FER|totalpoints}}
+|-
+!scope="row"| 2
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|{{F1cstat|MRC|totalpoints}}
+|-
+!scope="row"| 3
+|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|align=center|{{F1cstat|RBR|totalpoints}}
+|-
+!scope="row"| 4
+|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center|{{F1cstat|MCL|totalpoints}}
+|-
+!scope="row"| 5
+|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align=center|{{F1cstat|WIL|totalpoints}}
+|-
+!scope="row"| 6
+|{{flagicon|FRA}}/{{flagicon|GBR}} [[Renault in Formula One|Renault]]<ref name="Renault" group="N"  />
+|align=center|1777
+|-
+!scope="row"| 7
+|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|align=center|1368
+|-
+!scope="row"| 8
+|{{flagicon|IND}} [[Force India]]
+|align=center|987
+|-
+!scope="row"| 9
+|{{flagicon|CHE}}/{{flagicon|DEU}} [[Sauber Motorsport|Sauber]]/[[BMW in Formula One#BMW Sauber|BMW Sauber]]<ref name="Sauber" group="N"  />
+|align=center|{{sum|865|{{f1cstat|STK|totalpoints}}}}
+|-
+!scope="row"| 10
+|{{flagicon|GBR}} [[Brabham]]
+|align=center|864
+|-
+|colspan=4 align="center"| {{Small|Source:<ref name="TotalWCCPoints">{{cite web|title=Points by number|url=http://www.statsf1.com/en/statistiques/constructeur/point/nombre.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+* Source unites [[Force India]] and [[Racing Point Force India]] statistics.
+* Source unites [[Williams Grand Prix Engineering|Williams]] and Atlassian Williams statistics. Williams Grand Prix Engineering has been competing as Williams for the majority of its history, but as Atlassian Williams from 2026 onwards.
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics.
+
+===Total points-scoring races===
+{|class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Points finishes
+|-
+!scope="row"|1
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center|893
+|-
+!scope="row"|2
+|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center|776
+|-
+!scope="row"|3
+|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align=center|516
+|-
+!scope="row"|4
+|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|align=center|386
+|-
+!scope="row"|5
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|334
+|-
+!scope="row"|6
+|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|align=center|294
+|-
+!scope="row"|7
+|{{flagicon|FRA}}/{{flagicon|GBR}} [[Renault in Formula One|Renault]]<ref name="Renault" group="N"  />
+|align=center|249
+|-
+!scope="row"|8
+|{{flagicon|CHE}}/{{flagicon|DEU}} [[Sauber Motorsport|Sauber]]/[[BMW in Formula One#BMW Sauber|BMW Sauber]]<ref name="Sauber" group="N"/>
+|align=center|222
+|-
+!scope="row"|9
+|{{flagicon|GBR}} [[Brabham]]
+|align=center|184
+|-
+!scope="row"|10
+|{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N" />
+|align=center|165
+|-
+|colspan=4 align="center"| {{Small|Source:<ref>{{cite web|title=Points GP in|url=https://www.statsf1.com/en/statistiques/constructeur/point/gp-dans.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+* Source unites [[Williams Grand Prix Engineering|Williams]] and Atlassian Williams statistics. Williams Grand Prix Engineering has been competing as Williams for the majority of its history, but as Atlassian Williams from 2026 onwards.
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics.
+
+===Most seasons with a point-scoring race===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col" | Constructor
+! scope="col" | Seasons with a point-scoring race
+|-
+! scope="row" | 1
+| align="left" |{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|69
+|-
+! scope="row" | 2
+| align="left" |{{flagicon|GBR}} '''[[McLaren]]'''
+|60
+|-
+! scope="row" | 3
+| align="left" |{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|49
+|-
+! scope="row" | 4
+| align="left" |{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|36
+|-
+! scope="row" | 5
+| align="left" |{{flagicon|GBR}} [[Brabham]]
+|29
+|-
+! scope="row" | 6
+|align="left"|{{flagicon|CHE}}/{{flagicon|DEU}} [[Sauber Motorsport|Sauber]]/[[BMW in Formula One#BMW Sauber|BMW Sauber]]<ref name="Sauber" group="N"/>
+|27
+|-
+! scope="row" | 7
+| align="left" |{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|25
+|-
+! scope="row" | 8
+|align="left"|{{flagicon|GBR}} [[Arrows Grand Prix International|Arrows]]
+|24
+|-
+! scope="row" | 9
+| align="left" |
+{{flagicon|FRA}}/{{flagicon|GBR}} [[Renault in Formula One|Renault]]<ref name="Renault" group="N"  />
+|23
+|-
+! scope="row" | 10
+| align="left" |{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|22
+|-
+|colspan=3 align="center"| Source:<ref>{{cite web|title=Points by number of years|url=https://www.statsf1.com/en/statistiques/constructeur/point/nb-annee.aspx|website=Stats F1|access-date=1 November 2026}}</ref>
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics.
+* Source separates [[Arrows Grand Prix International|Arrows]] and [[Footwork Arrows]] statistics.
+
+===Most championship points in a season===
+{|class="wikitable" style="text-align:center;"
+!
+!scope="col"| Constructor
+!scope="col"| Points
+!scope="col"| Season
+!scope="col"| {{Abbr|WCC|World Constructors' Championship}}
+!scope="col"| Races
+!scope="col"| {{Abbr|Average|Average number points scored per race}}
+|-
+!scope="row"| 1
+|align="left"| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|860
+|{{F1|2023}}
+|1st
+|22
+|39.09
+|-
+!scope="row"| 2
+|align="left"| {{flagicon|GBR}} '''[[McLaren]]'''
+|833
+|{{F1|2025}}
+|1st
+|24
+|34.71
+|-
+!scope="row"| 3
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|765
+|{{F1|2016}}
+|1st
+|21
+|36.42
+|-
+!scope="row"| 4
+|align="left"| {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|759
+|{{F1|2022}}
+|1st
+|22
+|34.50
+|-
+!scope="row"| 5
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|739
+|{{F1|2019}}
+|1st
+|21
+|35.19
+|-
+!scope="row"| 6
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|703
+|{{F1|2015}}
+|1st
+|19
+|37.00
+|-
+!scope="row"| 7
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|701
+|{{F1|2014}}
+|1st
+|19
+|36.89
+|-
+!scope="row"| 8
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|668
+|{{F1|2017}}
+|1st
+|20
+|33.40
+|-
+!9
+|align="left"| {{flagicon|GBR}} '''[[McLaren]]'''
+|666
+|{{F1|2024}}
+|1st
+|24
+|27.75
+|-
+!10
+|align="left"| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|655
+|{{F1|2018}}
+|1st
+|21
+|31.19
+|-
+|colspan=7| {{small|Source:<ref>{{cite web|title=Points in a year|url=http://www.statsf1.com/en/statistiques/constructeur/point/annee.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+=== Most consecutive points finishes ===
+{| class="wikitable"
+!
+!scope="col"|  Driver
+!scope="col"|  Points finishes
+!scope="col"|  Races
+|-
+!scope="row"| 1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center| 81
+|[[2010 German Grand Prix]] – [[2014 Singapore Grand Prix]]
+|-
+!scope="row"| 2
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|align=center| 77
+|[[2022 Saudi Arabian Grand Prix]] – [[2025 Canadian Grand Prix]]
+|-
+!scope="row"| 3
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center| 64
+|[[2010 Bahrain Grand Prix]] – [[2013 Monaco Grand Prix]] 
+|-
+!scope="row" rowspan=2|4
+|align="left" rowspan=2|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center rowspan=2|62
+|[[2012 Brazilian Grand Prix]] – [[2016 Russian Grand Prix]] 
+|-
+|[[2021 French Grand Prix]] – [[2024 Saudi Arabian Grand Prix]] 
+|-
+!scope="row"| 6
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center| 59
+| [[2023 Austrian Grand Prix]] – [[2025 São Paulo Grand Prix]]
+|-
+!scope="row" rowspan=2|7
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center rowspan=2|55
+|[[1999 Malaysian Grand Prix]] – [[2003 Malaysian Grand Prix]]
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|[[2018 British Grand Prix]] – [[2021 Monaco Grand Prix]]
+|-
+!scope="row" rowspan=2|9
+|align="left" rowspan=2|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center rowspan=2|46
+|[[2006 San Marino Grand Prix]] – [[2008 Italian Grand Prix]]
+|-
+|[[2017 Malaysian Grand Prix]] – [[2019 United States Grand Prix]]
+|-
+|colspan=4|{{center|{{small|Source:<ref>{{cite web|title=Points consecutively|url=https://www.statsf1.com/en/statistiques/constructeur/point/consecutif.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}}}
+|}
+
+===Most consecutive seasons with points finishes===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col" | Constructor
+!scope="col" | Seasons
+!scope="col" | Number of seasons
+|- align="center"
+!scope="row"|1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|1958}}–{{F1|2026}} {{small|(ongoing)}}
+|69
+|-
+!scope="row"|2
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1978}}–{{F1|2019}}
+|42
+|-
+!scope="row"|3
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1966}}–{{F1|2006}}
+|41
+|-
+!scope="row"|4
+|align=left|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1958}}–{{F1|1993}}
+|36
+|-
+!scope="row"|5
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|{{F1|1962}}–{{F1|1987}}
+|26
+|-
+!scope="row"|6
+|align="left"|{{nowrap|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />}}
+|{{F1|2005}}–{{F1|2026}} {{small|(ongoing)}}
+|22
+|-
+!scope="row"|7
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|2008}}–{{F1|2026}} {{small|(ongoing)}}
+|19
+|-
+!scope="row" rowspan="2"|8
+|align="left"| {{flagicon|GBR}} [[British Racing Motors|BRM]]
+|{{F1|1958}}–{{F1|1974}}
+|rowspan="2"|17
+|-
+|align="left"|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2010}}–{{F1|2026}} {{small|(ongoing)}}
+|-
+!scope="row"|10
+|align="left"|{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N"/>
+|{{F1|1986}}–{{F1|2001}}
+|16
+|-
+|colspan="4"|{{small|Source:<ref>{{cite web|website=StatsF1|title=Points Consecutives years|url=https://www.statsf1.com/en/statistiques/constructeur/point/annee-consecutive.aspx |access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most points without a World Constructors Championship===
+{|class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Points
+!scope="col"| Best {{Abbr|WCC|World Constructors' Championship}} finish
+|-
+!scope="row"|1
+|{{flagicon|IND}} [[Force India]]
+|align=center|987
+|4th in {{F1|2016}} and {{F1|2017}}
+|-
+!scope="row"|2
+|{{flagicon|CHE}}/{{flagicon|DEU}} [[Sauber Motorsport|Sauber]]/[[BMW in Formula One#BMW Sauber|BMW Sauber]]<ref name="Sauber" group="N"  />
+|align=center|{{sum|865|{{f1cstat|STK|totalpoints}}}}
+|2nd in {{F1|2007}}
+|-
+!scope="row"|3
+|{{flagicon|GBR}} [[Lotus F1]]
+|align=center|706
+|4th in {{F1|2012}} and {{F1|2013}}
+|-
+!scope="row"|4
+|{{flagicon|FRA}} '''[[Alpine F1 Team|Alpine]]'''
+|align=center|{{F1cstat|ALP|totalpoints}}
+|4th in {{F1|2022}}
+|-
+!scope="row"|5
+|{{flagicon|GBR}} '''[[Aston Martin in Formula One|Aston Martin]]'''
+|align=center|{{F1cstat|AST|totalpoints}}
+|5th in {{F1|2023}} and {{F1|2024}}
+|-
+!scope="row"|6
+|{{flagicon|ITA}} [[Scuderia Toro Rosso|Toro Rosso]]
+|align=center|500
+|6th in {{F1|2008}} and {{F1|2019}}
+|-
+!scope="row"|7
+|{{flagicon|USA}} '''[[Haas F1 Team|Haas]]'''
+|align=center|{{F1cstat|HAA|totalpoints}}
+|5th in {{F1|2018}}
+|-
+!scope="row"|8
+|{{Flagicon|FRA|variant=1974}} [[Equipe Ligier|Ligier]]/[[Equipe Ligier|Talbot Ligier]]
+|align=center|388
+|2nd in {{F1|1980}}
+|-
+!scope="row"|9
+|{{flagicon|ITA}} [[Scuderia AlphaTauri|AlphaTauri]]
+|align=center|309
+|6th in {{F1|2021}}
+|-
+!scope="row"|10
+|{{flagicon|IRL}} [[Jordan Grand Prix|Jordan]]
+|align=center|291
+|3th in {{F1|1999}}
+|-
+|colspan=4 align="center"| {{Small|Source:<ref name="TotalWCCPoints"/>}}
+|-
+|}
+;Notes
+* Source unites [[Force India]] and [[Racing Point Force India]] statistics.
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+* Source separates '''[[Racing Bulls]]''' and '''[[Racing Bulls|RB]]''' statistics.
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics.
+
+===Most points without a win===
+{| class="wikitable"
+!
+! Constructor
+! Points
+! Best finish
+|-
+!1
+|{{flagicon|IND}} [[Force India]]
+|987
+|align=center| 2nd place
+|-
+!2
+|{{flagicon|GBR}} '''[[Aston Martin in Formula One|Aston Martin]]'''
+|{{F1cstat|AST|totalpoints}}
+|align=center| 2nd place
+|-
+!3
+|align=left|{{flagicon|USA}} '''[[Haas F1 Team|Haas]]'''
+|{{F1cstat|HAA|totalpoints}}
+|align=center| 4th place
+|-
+!4
+|{{flagicon|JPN}} [[Toyota in Formula One|Toyota]]
+|278.5
+|align=center| 2nd place
+|-
+!5
+|{{flagicon|ITA}} '''[[Racing Bulls]]'''
+|{{F1cstat|RBT|totalpoints}}
+|align=center| 3rd place
+|-
+!6
+|{{flagicon|GBR}} [[British American Racing|BAR]]
+|227
+|align=center| 2nd place
+|-
+!7
+|{{flagicon|GBR}} [[Arrows Grand Prix International|Arrows]]
+|167
+|align=center| 2nd place
+|-
+!8
+|{{flagicon|GBR}} [[Surtees Racing Organisation|Surtees]]
+|53
+|align=center| 2nd place
+|-
+!9
+|{{flagicon|GBR}} [[Racing Point Force India]]
+|52
+|align=center| 5th place
+|-
+!10
+|{{flagicon|GBR}} [[Jaguar in Formula One|Jaguar]]
+|49
+|align=center| 3rd place
+<!--
+|-
+!11
+|{{flagicon|GBR}} [[Lola Cars|Lola]]
+|43
+|align=center| 2nd place
+|-
+!12
+|{{flagicon|BRA|1968}} [[Fittipaldi Automotive|Fittipaldi]]
+|44
+|align=center| 2nd place
+|-
+!13
+|align=left|{{nowrap|{{flagicon|ITA}} [[Minardi]]}}
+|38
+|align=center| 4th place
+-->
+|-
+! colspan="4" align="center"|Source:<ref>{{Cite web|title=Points without win|url=http://www.statsf1.com/en/statistiques/constructeur/point/sans-victoire.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>
+|}
+;Notes
+* Source unites [[Force India]] and [[Racing Point Force India]] statistics.
+* Source unites [[Aston Martin in Formula One|Aston Martin]] and Aston Martin Aramco statistics. The Aston Martin factory team competed as Aston Martin in 1959, 1960, and 2021, and is competing as Aston Martin Aramco from 2022 onwards.
+* Source separates [[Arrows Grand Prix International|Arrows]] and [[Footwork Arrows]] statistics.
+* Source separates '''[[Racing Bulls]]''' and '''[[Racing Bulls|RB]]''' statistics.
+* Source separates [[Sauber Motorsport|Sauber]], [[BMW in Formula One#BMW Sauber|BMW Sauber]] and [[Sauber Motorsport|Kick Sauber]] statistics. Therefore, it has achieved its only win as [[BMW in Formula One#BMW Sauber|BMW Sauber]].
+
+==Race leaders==
+
+===Led for at least one lap, total races===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Entries
+!scope="col"| Races led
+!scope="col"| Percentage
+|-
+!scope="row"|1
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1cstat|FER|entries}}
+|518
+|{{percentage|518|{{F1cstat|FER|entries}}|2|pad=yes}}
+|-
+!scope="row"|2
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1cstat|MCL|entries}}
+|374
+|{{percentage|374|{{F1cstat|MCL|entries}}|2|pad=yes}}
+|-
+!scope="row"|3
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1cstat|WIL|entries}}<!-- Williams had 11 additional entries as a customer team. -->
+|226
+|{{percentage|226|{{F1cstat|WIL|entries}}|2|pad=yes}}
+|-
+!scope="row"|4
+|align=left|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|{{F1cstat|RBR|entries}}
+|211
+|{{percentage|211|{{F1cstat|RBR|entries}}|2|pad=yes}}
+|-
+!scope="row"|5
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1cstat|MRC|entries}}
+|207
+|{{percentage|207|{{F1cstat|MRC|entries}}|2|pad=yes}}
+|-
+!scope="row"|6
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|491
+|146
+|{{percentage|146|491|2|pad=yes}}
+|-
+!scope="row"|7
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|403
+|91
+|{{percentage|91|403|2|pad=yes}}
+|-
+!scope="row"|8
+|align="left"|{{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|403
+|88
+|{{percentage|88|403|2|pad=yes}}
+|-
+!scope="row"|9
+|align="left"|{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N" />
+|260
+|55
+|{{percentage|55|260|2|pad=yes}}
+|-
+!scope="row"|10
+|align="left"|{{flagicon|GBR}} [[British Racing Motors|BRM]]
+|197
+|40
+|{{percentage|40|197|2|pad=yes}}
+|-
+|colspan=5|{{small|Source:<ref name="ConstructorLeadGPbyNo.">{{cite web|title=Lead by number of GP|url=https://www.statsf1.com/en/statistiques/constructeur/entete/gp.aspx|website=Stats F1|access-date=26 September 2026}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Total laps led===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Laps
+|-
+!scope="row"|1
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|16243
+|-
+!scope="row"|2
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|12057
+|-
+!scope="row"|3
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|8114
+|-
+!scope="row"|4
+|align=left|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|7652
+|-
+!scope="row"|5
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|7585
+|-
+!scope="row"|6
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|5499
+|-
+!scope="row"|7
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|2719
+|-
+!scope="row"|8
+|align="left"|{{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|2514
+|-
+!scope="row"|9
+|align="left"|{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N" />
+|1544
+|-
+!scope="row"|10
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|1493
+|-
+|colspan=3|{{small|Source:<ref name="ConstructorLeadByNoOfLaps">{{cite web|title=Lead by number of laps|url=https://www.statsf1.com/en/statistiques/constructeur/entete/tour.aspx|website=Stats F1|access-date=26 September 2026}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Total distance led===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Distance (km)
+|-
+!scope="row"|1
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|84179
+|-
+!scope="row"|2
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|57758
+|-
+!scope="row"|3
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|42238
+|-
+!scope="row"|4
+|align=left|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />
+|38470
+|-
+!scope="row"|5
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|35246
+|-
+!scope="row"|6
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|26179
+|-
+!scope="row"|7
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|13226
+|-
+!scope="row"|8
+|align="left"|{{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|12146
+|-
+!scope="row"|9
+|align="left"|{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N" />
+|7338
+|-
+!scope="row"|10
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|6737
+|-
+|colspan=3|{{small|Source:<ref name="ConstructorLeadByKM">{{cite web|title=Lead by number of km|url=https://www.statsf1.com/en/statistiques/constructeur/entete/kms.aspx|website=Stats F1|access-date=26 September 2026}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Most seasons with a race led===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col" | Constructor
+! scope="col" | Seasons with a race lead
+|-
+! scope="row" | 1
+| align="left" |{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|74
+|-
+! scope="row" | 2
+| align="left" |{{flagicon|GBR}} '''[[McLaren]]'''
+|51
+|-
+! scope="row" | 3
+| align="left" |{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|31
+|-
+! scope="row" | 4
+| align="left" |{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|23
+|-
+! scope="row" | 5
+| align="left" |{{nowrap|{{flagicon|GBR}}/{{flagicon|AUT}} '''[[Red Bull Racing]]'''<ref name="Red Bull" group="N" />}}
+|21
+|-
+! scope="row" | 6
+| align="left" |{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|19
+|-
+! scope="row" | 7
+| align="left" |{{flagicon|GBR}} [[Brabham]]
+|17
+|-
+! scope="row" | 8
+| align="left" |{{flagicon|GBR}} [[British Racing Motors|BRM]]
+|15
+|-
+! scope="row" rowspan="2"| 9
+| align="left" |{{flagicon|GBR}}/{{flagicon|ITA}} [[Benetton Formula|Benetton]]<ref name="Benetton" group="N" />
+|rowspan="2"|13
+|-
+| align="left" |{{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|-
+|colspan=3 align="center"| Source:<ref>{{cite web|title=Lead by number of years|url=https://www.statsf1.com/en/statistiques/constructeur/entete/nb-annee.aspx|website=Stats F1|access-date=1 November 2026}}</ref>
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Most consecutive races led for at least one lap===
+{| class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Races led
+!scope="col"| Races
+|-
+!scope="row"|1
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|39
+|[[2018 Brazilian Grand Prix]] – [[2020 Sakhir Grand Prix]]
+|-
+!scope="row"|2
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align=center|31
+|[[1995 French Grand Prix]] – [[1997 San Marino Grand Prix]]
+|-
+!scope="row" rowspan=2|3
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center rowspan=2|28
+|[[1988 Brazilian Grand Prix]] – [[1989 Italian Grand Prix]]
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|[[2014 Australian Grand Prix]] – [[2015 British Grand Prix]]
+|-
+!scope="row" rowspan=2|5
+|align="left" rowspan=2|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align=center rowspan=2|26
+|[[1986 Belgian Grand Prix]] – [[1987 Mexican Grand Prix]] 
+|-
+|[[1992 French Grand Prix]] – [[1994 Brazilian Grand Prix]]
+|-
+!scope="row"|7
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|align=center|24
+|[[2010 Japanese Grand Prix]] – [[2012 Australian Grand Prix]] 
+|-
+!scope="row"|8
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center|22
+|[[2003 Italian Grand Prix]] – [[2005 Australian Grand Prix]]
+|-
+!scope="row"|9
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|21
+|[[2016 Monaco Grand Prix]] – [[2017 Spanish Grand Prix]]
+|-
+!scope="row"|10
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center|18
+|[[2002 Canadian Grand Prix]] – [[2003 Canadian Grand Prix]]
+|-
+|colspan=4|{{center|{{small|Source:<ref>{{cite web|title=Lead consecutively (GP)|url=https://www.statsf1.com/en/statistiques/constructeur/entete/gp-consecutif.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}}}
+|}
+
+===Most consecutive laps in the lead===
+{| class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Laps led
+!scope="col"| Races
+|-
+!scope="row"|1
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center|477
+|[[1988 Brazilian Grand Prix]] – [[1988 French Grand Prix]]
+|-
+!scope="row"|2
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align=center|419
+|[[1993 Canadian Grand Prix]] – [[1993 Italian Grand Prix]]
+|-
+!scope="row"|3
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|413
+|[[2014 Australian Grand Prix]] – [[2014 Canadian Grand Prix]]
+|-
+!scope="row"|4
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align=center|407
+|[[1992 South African Grand Prix]] – [[1992 Monaco Grand Prix]]
+|-
+!scope="row"|5
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|align=center|344
+|[[2023 Azerbaijan Grand Prix]] – [[2023 Austrian Grand Prix]] 
+|-
+!scope="row"|6
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center|340
+|[[1975 Italian Grand Prix]] – [[1976 Spanish Grand Prix]]
+|-
+!scope="row"|7
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center|305
+|[[1952 Belgian Grand Prix]] – [[1952 Dutch Grand Prix]] 
+|-
+!scope="row"|8
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|284
+|[[2016 British Grand Prix]] – [[2016 Singapore Grand Prix]]
+|-
+!scope="row"|9
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center|282
+|[[1989 San Marino Grand Prix]] – [[1989 Canadian Grand Prix]]
+|-
+!scope="row"|10
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|276
+|[[1955 Belgian Grand Prix]] – [[1955 Italian Grand Prix]]
+|-
+|colspan=4|{{center|{{small|Source:<ref>{{cite web|title=Lead consecutively (laps)|url=https://www.statsf1.com/en/statistiques/constructeur/entete/tour-consecutif.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}}}
+|}
+
+===Most consecutive distance led===
+{| class="wikitable"
+!
+!scope="col"| Constructor
+!scope="col"| Distance (km)
+!scope="col"| Races
+|-
+!scope="row"|1
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align=center|2146
+|[[1993 Canadian Grand Prix]] – [[1993 Italian Grand Prix]]
+|-
+!scope="row"|2
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center|2075
+|[[1952 Belgian Grand Prix]] – [[1952 Dutch Grand Prix]]
+|-
+!scope="row"|3
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|align=center|2021
+|[[1988 Brazilian Grand Prix]] – [[1988 French Grand Prix]]
+|-
+!scope="row"|4
+|align=left|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|1979
+|[[2014 Australian Grand Prix]] – [[2014 Canadian Grand Prix]]
+|-
+!scope="row"|5
+|align=left|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|1862
+|[[1955 Belgian Grand Prix]] – [[1955 Italian Grand Prix]]
+|-
+!scope="row"|6
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|align=center|1763
+|[[1992 South African Grand Prix]] – [[1992 Monaco Grand Prix]]
+|-
+!scope="row"|7
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center|1625
+|[[1975 Italian Grand Prix]] – [[1976 Spanish Grand Prix]]
+|-
+!scope="row"|8
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|align=center|1579
+|[[2023 Azerbaijan Grand Prix]] – [[2023 Austrian Grand Prix]]
+|-
+!scope="row"|9
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|1509
+|[[2016 British Grand Prix]] – [[2016 Singapore Grand Prix]]
+|-
+!scope="row"|10
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center|1470
+|[[1953 French Grand Prix]] – [[1953 Italian Grand Prix]]
+|-
+|colspan=4|{{center|{{small|Source:<ref>{{cite web|title=Lead consecutively (km)|url=https://www.statsf1.com/en/statistiques/constructeur/entete/kms-consecutif.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}}}
+|}
+
+===Most laps led in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Season
+!scope="col"| Total laps
+!scope="col"| Laps led
+!scope="col"| Percentage
+|-
+!scope="row"|1
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2023}}
+|1325
+|1149
+|{{percentage|1149|1325|2|pad=yes}}
+|-
+!scope="row"|2
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2016}}
+|1268
+|1055
+|{{percentage|1055|1268|2|pad=yes}}
+|-
+!scope="row"|3
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1988}}
+|1031
+|1003
+|{{percentage|1003|1031|2|pad=yes}}
+|-
+!scope="row"|4
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|1134
+|978
+|{{percentage|978|1134|2|pad=yes}}
+|-
+!scope="row"|5
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2015}}
+|1149
+|936
+|{{percentage|936|1149|2|pad=yes}}
+|-
+!scope="row"|6
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1992}}
+|1036
+|867
+|{{percentage|867|1036|2|pad=yes}}
+|-
+!scope="row"|7
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2002}}
+|1090
+|865
+|{{percentage|865|1090|2|pad=yes}}
+|-
+!scope="row"|8
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2020}}
+|1037
+|860
+|{{percentage|860|1037|2|pad=yes}}
+|-
+!scope="row"|9
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|2025}}
+|1444
+|825
+|{{percentage|825|1444|2|pad=yes}}
+|-
+!scope="row"|10
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2011}}
+|1133
+|798
+|{{percentage|798|1133|2|pad=yes}}
+|-
+|colspan="6|{{small|Source:<ref name="ConstructorsLapsinYear">{{Cite web|title=Lead Laps in a year|url=https://www.statsf1.com/en/statistiques/constructeur/entete/tour-annee.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most races led in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Season
+!scope="col"| Total races
+!scope="col"| Races led
+!scope="col"| Percentage
+|-
+!scope="row" rowspan=2|1
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2019}}
+|21
+|rowspan=2|21
+|{{percentage|21|21|2|pad=yes}}
+|-
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2023}}
+|22
+|{{percentage|21|22|2|pad=yes}}
+|-
+!scope="row"|3
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2016}}
+|21
+|20
+|{{percentage|20|21|2|pad=yes}}
+|-
+!scope="row" rowspan=4|4
+|align="left" rowspan=2|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2011}}
+|19
+|rowspan=4|19
+|{{percentage|19|19|2|pad=yes}}
+|-
+|{{F1|2022}}
+|22
+|{{percentage|19|22|2|pad=yes}}
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|19
+|{{percentage|19|19|2|pad=yes}}
+|-
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|2025}}
+|24
+|{{percentage|19|24|2|pad=yes}}
+|-
+!scope="row" rowspan=4|8
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2004}}
+|18
+|rowspan=4|18
+|{{percentage|18|18|2|pad=yes}}
+|-
+|align="left" rowspan=2|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2013}}
+|19
+|{{percentage|18|19|2|pad=yes}}
+|-
+|{{F1|2021}}
+|22
+|{{percentage|18|22|2|pad=yes}}
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2026}}
+|19*
+|{{percentage|18|19|2|pad=yes}}*
+|-
+|colspan="6|{{small|Source:<ref>{{Cite web|title=Lead GP in a year|url=https://www.statsf1.com/en/statistiques/constructeur/entete/gp-annee.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+<nowiki>*</nowiki> Season still in progress.
+
+===Highest percentage of races led in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Season
+!scope="col"| Total races
+!scope="col"| Races led
+!scope="col"| Percentage
+|-
+!scope="row" rowspan="7"|1
+|align=left rowspan="2"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1993}}
+|16
+|16
+|rowspan="7"|100%
+|-
+|{{F1|1996}}
+|16
+|16
+|-
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1988}}
+|16
+|16
+|-
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2004}}
+|18
+|18
+|-
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2011}}
+|19
+|19
+|-
+|align="left" rowspan="2"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|19
+|19
+|-
+|{{F1|2019}}
+|21
+|21
+|-
+!scope="row"|8
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2023}}
+|22
+|21
+|95.45%
+|-
+!scope="row"|9
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2016}}
+|21
+|20
+|95.24%
+|-
+!scope="row" rowspan="2"|10
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2013}}
+|19
+|18
+|rowspan="2"|94.74%
+|-
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2026}}
+|19*
+|18
+|-
+|colspan="6|{{small|Source:<ref>{{cite web|title=Lead GP in a year|url=https://www.statsf1.com/en/statistiques/constructeur/entete/gp-annee.aspx|website=Stats F1|access-date=30 October 2026}}</ref>}}
+|}
+<nowiki>*</nowiki> Season still in progress.
+
+===Highest percentage of laps led in a season===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Season
+!scope="col"| Total laps
+!scope="col"| Laps led
+!scope="col"| Percentage
+|-
+!scope="row"|1
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1988}}
+|1031
+|1003
+|{{percentage|1003|1031|2|pad=yes}}
+|-
+!scope="row"|2
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|{{F1|2023}}
+|1325
+|1149
+|{{percentage|1149|1325|2|pad=yes}}
+|-
+!scope="row"|3
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2014}}
+|1134
+|978
+|{{percentage|978|1134|2|pad=yes}}
+|-
+!scope="row"|4
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1992}}
+|1036
+|867
+|{{percentage|867|1036|2|pad=yes}}
+|-
+!scope="row"|5
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2016}}
+|1268
+|1055
+|{{percentage|1055|1268|2|pad=yes}}
+|-
+!scope="row"|6
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2020}}
+|1037
+|860
+|{{percentage|860|1037|2|pad=yes}}
+|-
+!scope="row"|7
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|{{F1|2015}}
+|1149
+|936
+|{{percentage|936|1149|2|pad=yes}}
+|-
+!scope="row"|8
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|{{F1|2002}}
+|1090
+|865
+|{{percentage|865|1090|2|pad=yes}}
+|-
+!scope="row"|9
+|align=left|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|{{F1|1996}}
+|1014
+|765
+|{{percentage|765|1014|2|pad=yes}}
+|-
+!scope="row"|10
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1989}}
+|1039
+|745
+|{{percentage|745|1039|2|pad=yes}}
+|-
+|colspan="6|{{small|Source:<ref name="ConstructorsLapsinYear"/>}}
+|}
+
+==Multiple achievements at the same race==
+===Wins from pole position===
+This is sometimes referred to as a "double".
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Races
+|-
+!scope="row"|1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|137
+|-
+!scope="row"|2
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|118
+|-
+!scope="row"|3
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|106
+|-
+!scope="row"|4
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|82
+|-
+!scope="row"|5
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|70
+|-
+!scope="row"|6
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|47
+|-
+!scope="row"|7
+|align="left"|{{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|24
+|-
+!scope="row"|8
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|11
+|-
+!scope="row" rowspan="2"|9
+|align="left"|{{flagicon|GBR}} [[Cooper Car Company|Cooper]]
+|rowspan="2"|10
+|-
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|-
+|colspan=3|{{small|Source:<ref name="PoleandWin">{{cite web|title=Pole positions Pole position and win|url=https://www.statsf1.com/en/statistiques/constructeur/pole/et-victoire.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Pole, win, and fastest lap in same race===
+This is sometimes referred to as a "hat-trick" or "hat trick".
+
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Races
+|-
+!scope="row"|1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|90
+|-
+!scope="row"|2
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|63
+|-
+!scope="row"|3
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|59
+|-
+!scope="row"|4
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|52
+|-
+!scope="row"|5
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|42
+|-
+!scope="row"|6
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|26
+|-
+!scope="row"|7
+|align="left"|{{flagicon|FRA}} [[Renault in Formula One|Renault]]
+|11
+|-
+!scope="row" rowspan="2"|8
+|align="left"|{{flagicon|ITA}}/{{flagicon|CHE}} [[Alfa Romeo in Formula One|Alfa Romeo]]<ref name="Alfa Romeo" group="N"/>
+|rowspan="2"|9
+|-
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|-
+!scope="row"|10
+|align="left"|{{flagicon|GBR}} [[Cooper Car Company|Cooper]]
+|7
+|-
+|colspan=3|{{small|Source:<ref name="PoleandFLandWin">{{cite web|title=Grands Prix Hat trick (pole position, fastest lap and win)|url=https://www.statsf1.com/en/statistiques/constructeur/gp/hattrick.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+===Pole, win, fastest lap, and led every lap===
+{{main|Grand Slam (Formula One)}}
+This is sometimes referred to as a Grand Slam or a ''grand chelem''.
+{{anchor|Grand Slam|grand slam}}
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Races
+|-
+!scope="row"|1
+|align="left"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|42
+|-
+!scope="row"|2
+|align="left"|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|36
+|-
+!scope="row"|3
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|34
+|-
+!scope="row"|4
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|32
+|-
+!scope="row"|5
+|align="left"|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|20
+|-
+!scope="row"|6
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|16
+|-
+!scope="row"|7
+|align="left"|{{flagicon|GBR}} [[Brabham]]
+|6
+|-
+!scope="row" rowspan="2"|8
+|align="left"|{{flagicon|ITA}}/{{flagicon|CHE}} [[Alfa Romeo in Formula One|Alfa Romeo]]<ref name="Alfa Romeo" group="N"/>
+|rowspan="2"|5
+|-
+|align="left"|{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|-
+!scope="rowgroup"|10
+|align="left"|{{flagicon|GBR}} [[Cooper Car Company|Cooper]]
+|4
+|-
+|colspan=3|{{small|Source:<ref name="PoleandFLandWinandLead">{{cite web|title=Grands Prix Grand slam (pole position, fastest lap, win and lead from start to finish)|url=https://www.statsf1.com/en/statistiques/constructeur/gp/chelem.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source unites [[Team Lotus|Lotus]], [[Team Lotus (2010–2011)|Team Lotus]] and [[Lotus F1]] statistics.
+
+==Championships==
+===Total World Constructors' Championships===
+
+{| class="wikitable"
+!
+! Constructor
+! {{Abbr|WCC|World Constructors' Championship}}
+! Seasons
+|- align="center"
+! 1
+| align="left" | {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+| 16
+| align="left" | {{nowrap|{{F1|1961}}, {{F1|1964}}, {{F1|1975}}, {{F1|1976}}, {{F1|1977}}, {{F1|1979}}, {{F1|1982}}, {{F1|1983}}, {{F1|1999}}, {{F1|2000}}, {{F1|2001}}, {{F1|2002}}, {{F1|2003}}, {{F1|2004}}, {{F1|2007}}, {{F1|2008}} }}
+|- align="center"
+! 2
+| align="left" | {{flagicon|GBR}} '''[[McLaren]]'''
+| 10
+| align="left" | {{F1|1974}}, {{F1|1984}}, {{F1|1985}}, {{F1|1988}}, {{F1|1989}}, {{F1|1990}}, {{F1|1991}}, {{F1|1998}}, {{F1|2024}}, {{F1|2025}}
+|- align="center"
+! 3
+| align="left" | {{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+| 9
+| align="left" | {{F1|1980}}, {{F1|1981}}, {{F1|1986}}, {{F1|1987}}, {{F1|1992}}, {{F1|1993}}, {{F1|1994}}, {{F1|1996}}, {{F1|1997}}
+|- align="center"
+! 4
+| align="left" | {{nowrap|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''}}
+| 8
+| align="left" | {{F1|2014}}, {{F1|2015}}, {{F1|2016}}, {{F1|2017}}, {{F1|2018}}, {{F1|2019}}, {{F1|2020}}, {{F1|2021}}
+|- align="center"
+! 5
+| align="left" | {{flagicon|GBR}} [[Team Lotus|Lotus]]
+| 7
+| align="left" | {{F1|1963}}, {{F1|1965}}, {{F1|1968}}, {{F1|1970}}, {{F1|1972}}, {{F1|1973}}, {{F1|1978}}
+|- align="center"
+! 6
+| align="left" | {{flagicon|AUT}} '''[[Red Bull Racing]]'''
+| 6
+| align="left" | {{F1|2010}}, {{F1|2011}}, {{F1|2012}}, {{F1|2013}}, {{F1|2022}}, {{F1|2023}}
+|- align="center"
+! rowspan="3" | 7
+| align="left" | {{flagicon|GBR}} [[Cooper Car Company|Cooper]]
+| align="center" rowspan="3" | 2
+| align="left" | {{F1|1959}}, {{F1|1960}}
+|- align="center"
+| align="left" | {{flagicon|GBR}} [[Brabham]]
+| align="left" | {{F1|1966}}, {{F1|1967}}
+|- align="center"
+| align="left" | {{Flagicon|FRA|variant=1974}} [[Renault in Formula One|Renault]]
+| align="left" | {{F1|2005}}, {{F1|2006}}
+|- align="center"
+! rowspan="6" | 10
+| align="left" | {{flagicon|GBR}} [[Vanwall]]
+| align="center" rowspan="6" | 1
+| align="left" | {{F1|1958}}
+|- align="center"
+| align="left" | {{flagicon|GBR}} [[British Racing Motors|BRM]]
+| align="left" | {{F1|1962}}
+|- align="center"
+| align="left" | {{flagicon|FRA}} [[Equipe Matra Sports|Matra]]
+| align="left" | {{F1|1969}}
+|- align="center"
+| align="left" | {{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+| align="left" | {{F1|1971}}
+|- align="center"
+| align="left" | {{flagicon|GBR}} [[Benetton Formula|Benetton]]
+| align="left" | {{F1|1995}}
+|- align="center"
+| align="left" | {{flagicon|GBR}} [[Brawn GP|Brawn]]
+| align="left" | {{F1|2009}}
+|- align="center"
+| colspan="4" align="center" | Source:<ref>{{cite web|title=World Champion titles by number|url=http://www.statsf1.com/en/statistiques/constructeur/champion/nombre.aspx|website=Stats F1|access-date=8 March 2026}}</ref>
+|}
+
+=== Total World Drivers' Championships ===
+{{main|List of Formula One World Drivers' Champions#By chassis constructor}}
+
+{| class="wikitable"
+|+
+!
+!Constructor
+!{{Abbr|WDC|Number of world drivers' championships won with constructor}}
+!Seasons
+|-
+!1
+|{{Flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|align=center|15
+|{{f1|1952}}, {{f1|1953}}, {{f1|1956}}, {{f1|1958}}, {{f1|1961}}, {{f1|1964}}, {{f1|1975}}, {{f1|1977}}, {{f1|1979}}, {{f1|2000}}, {{f1|2001}}, {{f1|2002}}, {{f1|2003}}, {{f1|2004}}, {{f1|2007}}
+|-
+!2
+|{{Flagicon|GBR}} '''[[McLaren]]'''
+|align=center|13
+|{{f1|1974}}, {{f1|1976}}, {{f1|1984}}, {{f1|1985}}, {{f1|1986}}, {{f1|1988}}, {{f1|1989}}, {{f1|1990}}, {{f1|1991}}, {{f1|1998}}, {{f1|1999}}, {{f1|2008}}, {{f1|2025}}
+|-
+!3
+|{{Flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|align=center|10
+|{{f1|1954}} {{refn|name=Fangio 54|Fangio competed in the 1954 [[1954 Argentine Grand Prix|Argentine]] and [[1954 Belgian Grand Prix|Belgian]] {{not a typo|Grands Prix}} with [[Maserati in Formula One|Maserati]], then completed the season with [[Mercedes-Benz in Formula One|Mercedes]]. This shared championship is counted for each of these constructors.|group=N}}, {{f1|1955}}, {{f1|2014}}, {{f1|2015}}, {{f1|2016}}, {{f1|2017}}, {{f1|2018}}, {{f1|2019}}, {{f1|2020}}, {{f1|2026}}
+|-
+! 4
+|{{Flagicon|AUT}} '''[[Red Bull Racing]]'''
+| align="center" |8
+|{{f1|2010}}, {{f1|2011}}, {{f1|2012}}, {{f1|2013}}, {{f1|2021}}, {{f1|2022}}, {{f1|2023}}, {{f1|2024}}
+|-
+! 5
+|{{Flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+| align="center" |7
+|{{f1|1980}}, {{f1|1982}}, {{f1|1987}}, {{f1|1992}}, {{f1|1993}}, {{f1|1996}}, {{f1|1997}}
+|-
+!6
+|{{Flagicon|GBR}} [[Lotus F1|Lotus]]
+| align="center" |6
+|{{f1|1963}}, {{f1|1965}}, {{f1|1968}}, {{f1|1970}}, {{f1|1972}}, {{f1|1978}}
+|-
+!7
+|{{Flagicon|GBR}} [[Brabham]]
+|align=center|4
+|{{f1|1966}}, {{f1|1967}}, {{f1|1981}}, {{F1|1983}}
+|-
+! rowspan="6" |8
+|{{Flagicon|ITA}} [[Alfa Romeo in Formula One|Alfa Romeo]]
+|align=center rowspan="6" |2
+|{{f1|1950}}, {{f1|1951}}
+|-
+|{{Flagicon|ITA}} [[Maserati in Formula One|Maserati]]
+|{{f1|1954}} {{refn|name=Fangio 54|group=N}}, {{F1|1957}}
+|-
+|{{Flagicon|GBR}} [[Cooper Car Company|Cooper]]
+|{{f1|1959}}, {{f1|1960}}
+|-
+|{{Flagicon|GBR}} [[Tyrrell Racing|Tyrrell]]
+|{{f1|1971}}, {{f1|1973}}
+|-
+|{{Flagicon|GBR}} [[Benetton Formula|Benetton]]
+|{{f1|1994}}, {{f1|1995}}
+|-
+|{{Flagicon|FRA|variant=1974}} [[Renault in Formula One|Renault]]
+|{{F1|2005}}, {{f1|2006}}
+|-
+|colspan=4 align="center"|Source:<ref>{{cite web|title=World Champion titles driver titles|url=https://www.statsf1.com/en/statistiques/constructeur/champion/pilote.aspx|website=Stats F1|access-date=8 March 2026}}</ref>
+|}
+
+=== Most consecutive World Constructors' Championships ===
+{| class="wikitable"
+|-
+!
+! Constructor
+! Titles
+! Seasons
+|-
+! 1
+| {{Flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+| align=center | 8
+| {{F1|2014}}, {{F1|2015}}, {{F1|2016}}, {{F1|2017}}, {{F1|2018}}, {{F1|2019}}, {{F1|2020}}, {{F1|2021}}
+|-
+! 2
+| {{Flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+| align=center | 6
+| {{F1|1999}}, {{F1|2000}}, {{F1|2001}}, {{F1|2002}}, {{F1|2003}}, {{F1|2004}}
+|-
+! rowspan=2 | 3
+| {{Flagicon|GBR}} '''[[McLaren]]'''
+| rowspan=2 align=center | 4
+| {{F1|1988}}, {{F1|1989}}, {{F1|1990}}, {{F1|1991}}
+|-
+| {{Flagicon|AUT}} '''[[Red Bull Racing]]'''
+| {{F1|2010}}, {{F1|2011}}, {{F1|2012}}, {{F1|2013}}
+|-
+! rowspan=2 |4
+| | {{Flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+| rowspan=2 align=center | 3
+| {{F1|1975}}, {{F1|1976}}, {{F1|1977}}
+|-
+| {{Flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+| {{F1|1992}}, {{F1|1993}}, {{F1|1994}}
+|-
+! rowspan=12 | 7
+| {{Flagicon|GBR}} [[Cooper Car Company|Cooper]]
+| rowspan=12 align="center" | 2
+| {{F1|1959}}, {{F1|1960}}
+|-
+| {{Flagicon|GBR}} [[Brabham]]
+| {{F1|1966}}, {{F1|1967}}
+|-
+| {{Flagicon|GBR}} [[Team Lotus]]
+| {{F1|1972}}, {{F1|1973}}
+|-
+|rowspan=3|{{Flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+| {{F1|1980}}, {{F1|1981}}
+|-
+| {{F1|1986}}, {{F1|1987}}
+|-
+| {{F1|1996}}, {{F1|1997}}
+|-
+|rowspan=2|{{Flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+| {{F1|1982}}, {{F1|1983}}
+|-
+| {{F1|2007}}, {{F1|2008}}
+|-
+|rowspan=2|{{Flagicon|GBR}} '''[[McLaren]]'''
+| {{F1|1984}}, {{F1|1985}}
+|-
+| {{F1|2024}}, {{F1|2025}} {{small|(ongoing)}}
+|-
+| {{Flagicon|FRA|variant=1974}} [[Renault in Formula One|Renault]]
+| {{F1|2005}}, {{F1|2006}}
+|-
+| {{Flagicon|AUT}} '''[[Red Bull Racing]]'''
+| {{F1|2022}}, {{F1|2023}}
+|-
+|colspan=4 align="center"|Source:<ref>{{cite web |title=Statistics Constructors - World Champion titles - Consecutively |url=https://www.statsf1.com/en/statistiques/constructeur/champion/consecutif.aspx |website=www.statsf1.com |access-date=8 March 2026 }}</ref>
+|}
+
+===Largest gap between World Constructors' Championships===
+{| class="wikitable" style="text-align:center"
+!
+! scope="col"|Constructor
+! scope="col"|Seasons
+! scope="col" colspan=2|Years
+|-
+!scope="row"|1
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|26
+|{{F1|1998}}
+|{{F1|2024}}
+|-
+!scope="row"|2
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|16
+|{{F1|1983}}
+|{{F1|1999}}
+|-
+!scope="row"|3
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|11
+|{{F1|1964}}
+|{{F1|1975}}
+|-
+!scope="row"|4
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|10
+|{{F1|1974}}
+|{{F1|1984}}
+|-
+!scope="row"|5
+|align=left|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|9
+|{{F1|2013}}
+|{{F1|2022}}
+|-
+!scope="row"|6
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|7
+|{{F1|1991}}
+|{{F1|1998}}
+|-
+!scope="row" rowspan="3"|7
+|align=left rowspan="2"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|rowspan="3"|5
+|{{F1|1981}}
+|{{F1|1986}}
+|-
+|{{F1|1987}}
+|{{F1|1992}}
+|-
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1973}}
+|{{F1|1978}}
+|-
+!scope="row" rowspan="5"|10
+|align=left rowspan="3"|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|rowspan="5"|3
+|{{F1|1961}}
+|{{F1|1964}}
+|-
+|{{F1|1979}}
+|{{F1|1982}}
+|-
+|{{F1|2004}}
+|{{F1|2007}}
+|-
+|align="left"|{{flagicon|GBR}} [[Team Lotus|Lotus]]
+|{{F1|1965}}
+|{{F1|1968}}
+|-
+|align="left"|{{flagicon|GBR}} '''[[McLaren]]'''
+|{{F1|1985}}
+|{{F1|1988}}
+|-
+|colspan=5| {{small|Source:<ref>{{cite web|title=World Champion titles Interval between two|url=https://www.statsf1.com/en/statistiques/constructeur/champion/interval.aspx|website=Stats F1|access-date=31 October 2026}}</ref><ref>{{cite web|url=https://www.formula1.com/en/latest/article/facts-and-stats-mclarens-record-26-year-title-wait-ends-and-leclerc-scores.2eFJvtofZMatNNagF8f2NT/|title=FACTS AND STATS: McLaren's record 26-year title wait ends and Leclerc scores career-best performance|date=8 December 2024|access-date=8 March 2026}}</ref>}}
+|}
+
+==Sprints==
+Sprint races were introduced in 2021 as addition to select races; since 2022 the top eight finishers score points.
+
+===Most sprint wins===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Starts
+!scope="col"| Wins
+!scope="col"| Percentage
+|-
+!1
+|align=left|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|30
+|15
+|{{percentage|15|30|2|pad=yes}}
+|-
+!rowspan=2|2
+|align=left|{{flagicon|GBR}} '''[[McLaren]]'''
+|30
+|rowspan=2|7
+|{{percentage|7|30|2|pad=yes}}
+|-
+|align=left|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|30
+|{{percentage|7|30|2|pad=yes}}
+|-
+!4
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|30
+|1
+|{{percentage|1|30|2|pad=yes}}
+|-
+|colspan=5|{{small|Source:<ref>{{cite web|title=Sprint wins|url=https://www.statsf1.com/en/statistiques/constructeur/sprint/victoire.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most sprint pole positions===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Entries
+!scope="col"| Poles
+!scope="col"| Percentage
+|-
+!1
+|align=left|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|30
+|11
+|{{percentage|11|30|2|pad=yes}}
+|-
+!2
+|align=left|{{flagicon|GBR}} '''[[McLaren]]'''
+|30
+|9
+|{{percentage|9|30|2|pad=yes}}
+|-
+!3
+|align=left|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|30
+|6
+|{{percentage|6|30|2|pad=yes}}
+|-
+!4
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|30
+|3
+|{{percentage|3|30|2|pad=yes}}
+|-
+!5
+|align=left|{{flagicon|USA}} '''[[Haas F1 Team|Haas]]'''
+|30
+|1
+|{{percentage|1|30|2|pad=yes}}
+|-
+|colspan=5|{{small|Source:<ref>{{cite web|title=Sprint Pole positions|url=https://www.statsf1.com/en/statistiques/constructeur/sprint/pole.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most sprint fastest laps===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Starts
+!scope="col"| Fastest laps
+!scope="col"| Percentage
+|-
+!1
+|align=left|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|30
+|12
+|{{percentage|12|30|2|pad=yes}}
+|-
+!2
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|30
+|6
+|{{percentage|6|30|2|pad=yes}}
+|-
+!rowspan=2|3
+|align=left|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|30
+|rowspan=2|5
+|{{percentage|5|30|2|pad=yes}}
+|-
+|align=left|{{flagicon|GBR}} '''[[McLaren]]'''
+|30
+|{{percentage|5|30|2|pad=yes}}
+|-
+!rowspan=2|5
+|align=left|{{flagicon|USA}} '''[[Haas F1 Team|Haas]]'''
+|30
+|rowspan=2|1
+|{{percentage|1|30|2|pad=yes}}
+|-
+| align="left" |{{flagicon|FRA}} '''[[Alpine F1 Team|Alpine]]'''
+|30
+|{{percentage|1|30|2|pad=yes}}
+|-
+|colspan=5|{{small|Source:<ref>{{cite web|title=Sprint Fastest laps|url=https://www.statsf1.com/en/statistiques/constructeur/sprint/meilleur-tour.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most sprint podium finishes===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"|Podium<br>finishes
+!scope="col"|Podium<br>races <ref group="N" name="Podium races"/>
+|-
+!rowspan=2|1
+|align=left|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|25
+|19
+|-
+|align=left|{{flagicon|GBR}} '''[[McLaren]]'''
+|25
+|17
+|-
+!3
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|20
+|16
+|-
+!4
+|align=left|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|18
+|14
+|-
+!rowspan=2|5
+| align="left" |{{flagicon|FRA}} '''[[Alpine F1 Team|Alpine]]'''
+|rowspan=2|1
+|rowspan=2|1
+|-
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|-
+|colspan=5|{{small|Source:<ref>{{cite web|title=Sprint Podiums|url=https://www.statsf1.com/en/statistiques/constructeur/sprint/podium.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Most points scored in sprints===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Starts
+!scope="col"| Points
+!scope="col"| Average
+|-
+!scope="row"|1
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|30
+|235
+|{{#expr:235/30 round2}}
+|-
+!scope="row"|2
+|align=left|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|30
+|225
+|{{#expr:225/30 round2}}
+|-
+!scope="row"|3
+|align=left|{{flagicon|GBR}} '''[[McLaren]]'''
+|30
+|215
+|{{#expr:215/30 round2}}
+|-
+!scope="row"|4
+|align=left|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|30
+|209
+|{{#expr:209/30 round2}}
+|-
+!scope="row"|5
+|align=left|{{flagicon|USA}} '''[[Haas F1 Team|Haas]]'''
+|30
+|24
+|{{#expr:24/30 round2}}
+|-
+!scope="row"|6
+|align=left|{{nowrap|{{flagicon|GBR}} '''[[Aston Martin in Formula One|Aston Martin]]'''}}
+|30
+|23
+|{{#expr:23/30 round2}}
+|-
+!scope="row"|7
+| align="left" |{{flagicon|FRA}} '''[[Alpine F1 Team|Alpine]]'''
+|30
+|19
+|{{#expr:19/30 round2}}
+|-
+!scope="row"|8
+|align="left"|{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]'''
+|30
+|15
+|{{#expr:15/30 round2}}
+|-
+!scope="row"|9
+|align="left"|{{flagicon|ITA}} '''[[Racing Bulls]]'''
+|18
+|18
+|{{#expr:18/18 round2}}
+|-
+!scope="row"|10
+| align="left" |{{flagicon|ITA}} [[Scuderia AlphaTauri|AlphaTauri]]
+|12
+|3
+|{{#expr:3/12 round2}}
+|-
+|colspan=5|{{small|Source:<ref>{{cite web|title=Sprint Points|url=https://www.statsf1.com/en/statistiques/constructeur/sprint/point.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+;Notes
+* Source separates '''[[Racing Bulls]]''' and '''[[Racing Bulls|RB]]''' statistics.
+
+===Total sprint laps led===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Laps
+|-
+!1
+|align=left|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|263
+|-
+!2
+|align=left|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|145
+|-
+!3
+|align=left|{{flagicon|GBR}} '''[[McLaren]]'''
+|136
+|-
+!4
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|54
+|-
+!5
+|align=left|{{flagicon|USA}} '''[[Haas F1 Team|Haas]]'''
+|2
+|-
+|colspan=3|{{small|Source:<ref>{{cite web|title=Sprint Lap led|url=https://www.statsf1.com/en/statistiques/constructeur/sprint/entete-tour.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+===Total sprint distance led===
+{| class="wikitable" style="text-align:center"
+!
+!scope="col"| Constructor
+!scope="col"| Distance (km)
+|-
+!1
+|align=left|{{flagicon|AUT}} '''[[Red Bull Racing]]'''
+|1350
+|-
+!2
+|align=left|{{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|706
+|-
+!3
+|align=left|{{flagicon|GBR}} '''[[McLaren]]'''
+|689
+|-
+!4
+|align=left|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|290
+|-
+!5
+|align=left|{{flagicon|USA}} '''[[Haas F1 Team|Haas]]'''
+|9
+|-
+|colspan=3|{{small|Source:<ref>{{cite web|title=Sprint km led|url=https://www.statsf1.com/en/statistiques/constructeur/sprint/entete-km.aspx|website=Stats F1|access-date={{F1 records date}}}}</ref>}}
+|}
+
+==Other constructor records==
+===Race starts and entries, other===
+{| class="wikitable"
+|-
+! Description !! Record !! Details !! Ref
+|-
+| Longest time between successive starts
+| 60 years, 256 days
+| {{flagicon|GBR}} '''[[Aston Martin in Formula One|Aston Martin]]''' ([[1960 British Grand Prix]] – [[2021 Bahrain Grand Prix]])
+|<ref name="Grands Prix Interval between two">{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/gp/ecart.aspx/|title=Grands Prix Interval between two|website=Stats F1|access-date=8 March 2026}}</ref>
+|-
+| Most races between successive starts
+| 945
+| {{flagicon|GBR}} '''[[Aston Martin in Formula One|Aston Martin]]''' ([[1960 British Grand Prix]] – [[2021 Bahrain Grand Prix]])
+|<ref name="Grands Prix Interval between two"/>
+|-
+| Most seasons with a start
+| 77
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ({{F1|1950}}–{{F1|2026}})
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/gp/saison.aspx/|title=Grands Prix Number of seasons|website=Stats F1|access-date={{F1 records date}}}}</ref>
+|-
+| Most consecutive race starts 
+| 797
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ([[1982 Italian Grand Prix]] – [[2026 Mexico City Grand Prix]]) {{small|(ongoing)}}
+|<ref>{{cite web|url=https://www.formula1db.com/record/constructor/start/race/consecutive/all/race|title=Number of Consecutive Races with a Start - Constructor|website=formula1db|access-date={{F1 records date}}}}</ref>
+|-
+| Most starts with the same engine
+| {{F1cstat|FER|starts}}
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' 
+|<ref name="ConstructorStarts">{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/gp/meme-moteur.aspx|title=Grands Prix With the same engine|website=Stats F1|access-date={{F1 records date}}}}</ref>
+|-
+| Most entries with the same engine
+| {{F1cstat|FER|entries}}
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' 
+|<ref name="ConstructorStarts"/>
+|}
+
+===Wins, other===
+{| class="wikitable"
+|-
+! Description !! Record !! Details !! Ref
+|-
+|Wins at most different Grands Prix
+|37
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/victoire/grandprix-different.aspx/|title=Wins by different Grand Prix|website=Stats F1|access-date=3 May 2026}}</ref>
+|-
+|Wins at most different circuits
+|51
+|{{flagicon|GBR}} '''[[McLaren]]'''
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/victoire/circuit-different.aspx/|title=Wins by different circuit|website=Stats F1|access-date=8 March 2026}}</ref>
+|-
+|Most wins at the same circuit
+|20
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ([[Monza Circuit|Monza]])
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/victoire/circuit.aspx|title=Wins by circuit|website=Stats F1|access-date=29 October 2026}}</ref>
+|-
+|Longest time between first and last wins
+|74 years, <br> 356 days
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ([[1951 British Grand Prix]] – [[2026 British Grand Prix]])
+|<ref>{{cite web|url=https://www.formula1db.com/record/constructor/win/race/between/first-last/day|title=Date Interval between the First and Last Win at Races - Constructor|website=formula1db|access-date=5 July 2026}}</ref>
+|-
+|Longest time between successive wins
+|56 years, <br> 217 days
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[1955 Italian Grand Prix]] – [[2012 Chinese Grand Prix]])
+|<ref name="Wins Interval between two">{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/victoire/ecart.aspx/|title=Wins Interval between two|website=Stats F1|access-date=8 March 2026}}</ref>
+|-
+|Most races between successive wins
+|813
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[1955 Italian Grand Prix]] – [[2012 Chinese Grand Prix]])
+|<ref name="Wins Interval between two"/>
+|-
+|Most consecutive wins at the same Grand Prix
+|8 ([[F1 2014|2014]] - [[F1 2021|2021]]) 
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[Russian Grand Prix]]) {{small|(ongoing)}}
+|<ref>{{cite web|url=https://www.mercedesamgf1.com/news/quiz-streaks-and-records|title=Quiz: Streaks and Records|website=mercedesamgf1.com|access-date=8 March 2026}}</ref>
+|-
+|Most different constructor winners in a season
+|7 ({{F1|1982}})
+|{{flagicon|FRA}} [[Renault in Formula One|Renault]] – 4 wins <br> {{flagicon|GBR}} '''[[McLaren]]'''  – 4 wins <br> {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' – 3 wins <br> {{flagicon|GBR}} [[Brabham]] – 2 wins <br> {{flagicon|GBR}} [[Team Lotus|Lotus]] – 1 win <br>{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]''' – 1 win <br> {{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]] – 1 win
+|<ref>{{cite web|url=https://lat.motorsport.com/f1/news/temporada-impredecible-1982-formula1/4780456|title=La temporada más impredecible en la historia de la F1 moderna|language=es|website=motorsport|access-date=5 October 2026}}</ref>
+|-
+| Most different race winners in consecutive races
+|7 ({{F1|1982}} - {{F1|1983}})
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ([[1982 German Grand Prix]])<br>{{flagicon|GBR}} [[Team Lotus|Lotus]] ([[1982 Austrian Grand Prix]])<br>{{flagicon|GBR}} '''[[Williams Grand Prix Engineering|Williams]]''' ([[1982 Swiss Grand Prix]])<br>{{flagicon|FRA}} [[Renault in Formula One|Renault]] ([[1982 Italian Grand Prix]])<br>{{flagicon|GBR}} [[Tyrrell Racing|Tyrrell]] ([[1982 Caesars Palace Grand Prix]])<br>{{flagicon|GBR}} [[Brabham]] ([[1983 Brazilian Grand Prix]])<br>{{flagicon|GBR}} '''[[McLaren]]''' ([[1983 United States Grand Prix West]]) 
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/gp/different-consecutif.aspx/|title=Grands Prix Consecutively different winner|website=Stats F1|access-date=8 March 2026}}</ref>
+|-
+|Fewest wins in a World Championship-winning season
+|3
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ({{F1|1964}}, {{F1|1982}})
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/champion/victoire.aspx|title=World Champion titles Wins|website=Stats F1|access-date=29 October 2026}}</ref>
+|-
+|}
+
+===Pole positions, other===
+{| class="wikitable"
+|-
+! Description !! Record !! Details !! Ref
+|-
+| Pole positions at most different Grands Prix
+| 39
+| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]'''
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/pole/grandprix-different.aspx/|title=Pole Positions By different Grand Prix|website=Stats F1|access-date=14 June 2026}}</ref>
+|-
+| Pole positions at most different circuits
+| 53
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/pole/circuit-different.aspx/|title=Pole Positions By different circuit|website=Stats F1|access-date=8 March 2026}}</ref>
+|-
+|Most pole positions at the same circuit
+|23
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ([[Monza Circuit|Monza]])
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/pole/circuit.aspx|title=Pole positions by circuit|website=Stats F1|access-date=29 October 2026}}</ref>
+|-
+|Longest time between first and last pole positions
+|75 years, <br> 110 days
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ([[1951 British Grand Prix]] – [[2026 Mexico City Grand Prix]])
+|<ref>{{cite web|url=https://www.formula1db.com/record/constructor/pole-position/race/between/first-last/day|title=Date Interval between the First and Last Pole Position at Races - Constructor|website=formula1db|access-date=8 March 2026}}</ref>
+|-
+| Longest time between successive pole positions
+| 56 years, 217 days
+| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[1955 Italian Grand Prix]] – [[2012 Chinese Grand Prix]])
+|<ref name="Pole Positions Interval between two">{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/pole/ecart.aspx/|title=Pole Positions Interval between two|website=Stats F1|access-date=8 March 2026}}</ref>
+|-
+| Most races between successive pole positions
+| 813
+| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[1955 Italian Grand Prix]] – [[2012 Chinese Grand Prix]])
+|<ref name="Pole Positions Interval between two"/>
+|-
+|Most consecutive pole positions at the same Grand Prix
+|9 ([[F1 2013|2013]] - [[F1 2021|2021]])
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[Spanish Grand Prix]])
+|<ref>{{cite web|url=https://www.formula1db.com/record/constructor/pole-position/race/consecutive/grand-prix|title=Number of Consecutive Pole Positions at Races at a Single Grand Prix - Constructor|website=formula1db|access-date=8 March 2026}}</ref>
+|-
+|}
+
+===Fastest laps, other===
+{| class="wikitable"
+|-
+! Description !! Record !! Details !! Ref
+|-
+| Fastest laps at most different Grands Prix
+| 40
+| {{flagicon|GBR}} '''[[McLaren]]'''
+|<ref>{{cite web|url=https://www.formula1db.com/record/constructor/fastest-lap/race/number/grand-prix|title=Fastest Laps By different Grand Prix|website=formula1db|access-date=8 March 2026}}</ref>
+|-
+| Fastest laps at most different circuits
+| 54
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|<ref>{{cite web|url=https://www.formula1db.com/record/constructor/fastest-lap/race/number/circuit|title=Number of Circuits with a Fastest Lap at Races - Constructor|website=formula1db|access-date=8 March 2026}}</ref>
+|-
+|Most fastest laps at the same circuit
+|19
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ([[Monza Circuit|Monza]], [[Silverstone Circuit|Silverstone]])
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/meilleurtour/circuit.aspx|title=Fastest laps by circuit|website=Stats F1|access-date=29 October 2026}}</ref>
+|-
+|Longest time between first and last fastest laps
+|74 years, <br> 167 days
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ([[1952 Swiss Grand Prix]] – [[2026 Mexico City Grand Prix]])
+|<ref>{{cite web|url=https://www.formula1db.com/record/constructor/fastest-lap/race/between/first-last/day|title=Date Interval between the First and Last Fastest Lap at Races - Constructor|website=formula1db|access-date=23 August 2026}}</ref>
+|-
+| Longest time between successive fastest laps
+| 56 years, 287 days
+| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[1955 Italian Grand Prix]] – [[2012 European Grand Prix]])
+|<ref name="Fastest Laps Interval between two">{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/meilleurtour/ecart.aspx/|title=Fastest Laps Interval between two|website=Stats F1|access-date=8 March 2026}}</ref>
+|-
+| Most races between successive fastest laps
+| 818
+| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[1955 Italian Grand Prix]] – [[2012 European Grand Prix]])
+|<ref name="Fastest Laps Interval between two"/>
+|}
+
+===Podium finishes, other===
+{| class="wikitable"
+|-
+! Description !! Record !! Details !! Ref
+|-
+| Podiums at most different Grands Prix
+| 45
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|<ref>{{cite web|url=https://www.formula1db.com/record/constructor/podium/race/number/grand-prix|title=Number of Grands Prix with a Podium at Races - Constructor|website=formula1db|access-date=14 June 2026}}</ref>
+|-
+| Podiums at most different circuits
+| 70
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|<ref>{{cite web|url=https://www.formula1db.com/record/constructor/podium/race/number/circuit|title=Number of Grands Prix with a Podium at Races - Constructor|website=formula1db|access-date=8 March 2026}}</ref>
+|-
+|Longest time between first and last podiums
+|76 years, <br> 164 days
+|{{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ([[1950 Monaco Grand Prix]] – [[2026 Mexico City Grand Prix]])
+|<ref>{{cite web|url=https://www.formula1db.com/record/constructor/podium/race/between/first-last/day|title=Date Interval between the First and Last Podium at Races - Constructor|website=formula1db|access-date={{F1 records date}}}}</ref>
+|-
+| Longest time between successive podiums
+| 54 years, 206 days
+| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[1955 Italian Grand Prix]] – [[2010 Malaysian Grand Prix]])
+|<ref name="Podiums Interval between two">{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/podium/ecart.aspx|title=Podiums Interval between two|website=Stats F1|access-date=8 March 2026}}</ref>
+|-
+| Most races between successive podiums
+| 775
+| {{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[1955 Italian Grand Prix]] – [[2010 Malaysian Grand Prix]])
+|<ref name="Podiums Interval between two"/>
+|-
+| Most second places
+| 300
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/podium/2e.aspx|title=Podiums 2nd position|website=Stats F1|access-date={{F1 records date}}}}</ref>
+|-
+| Most third places
+| 299
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/podium/3e.aspx|title=Podiums 3rd position|website=Stats F1|access-date={{F1 records date}}}}</ref>
+|-
+| Most second and third places
+| 599
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]'''
+|<ref>{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/podium/2et3e.aspx|title=Podiums 2nd and 3rd position|website=Stats F1|access-date={{F1 records date}}}}</ref>
+|}
+
+===Points, other===
+{| class="wikitable"
+|-
+! Description !! Record !! Details !! Ref
+|-
+| Longest time between successive points finishes
+| 37 years, 129 days
+| {{flagicon|JAP}} [[Honda in Formula One|Honda]] ([[1968 Mexican Grand Prix]] – [[2006 Bahrain Grand Prix]])
+|<ref name="Points Interval between two">{{cite web|url=https://www.statsf1.com/en/statistiques/constructeur/point/ecart.aspx/|title=Points Interval between two|website=Stats F1|access-date=8 March 2026}}</ref>
+|-
+| Most races between successive points finishes
+| 595
+| {{flagicon|ITA}} [[Alfa Romeo in Formula One|Alfa Romeo]] ([[1984 European Grand Prix]] – [[2019 Australian Grand Prix]])
+|<ref name="Points Interval between two"/>
+|}
+
+===Championships, other===
+{| class="wikitable"
+|-
+! Description !! Record !! Details !! Ref
+|-
+| Most races left in a season when becoming World Constructors' Champions
+| 6
+| {{flagicon|AUT}} '''[[Red Bull Racing]]''' ({{F1|2023}})<br>{{flagicon|GBR}} '''[[McLaren]]''' ({{F1|2025}})
+| |<ref>{{Cite web|url=https://www.formula1.com/en/latest/article/in-numbers-the-key-stats-behind-mclarens-back-to-back-teams-championship.6MP7TP1wmpIi3UYy1kNl3n|title=IN NUMBERS: The key stats behind McLaren's back-to-back Teams' Championship wins|date=6 October 2025|access-date=8 March 2026}}</ref>
+|-
+| Most races as World Constructors' Championship leader
+| 240
+| {{flagicon|ITA}}  '''[[Scuderia Ferrari|Ferrari]]'''
+| |<ref>{{Cite web|url=https://www.statsf1.com/en/statistiques/constructeur/gp/championnat.aspx|title=Grands Prix Leads Championship|access-date=8 March 2026}}</ref>
+|-
+| Most consecutive races as World Constructors' Championship leader
+| 58
+| {{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[2014 Malaysian Grand Prix]] – [[2017 Australian Grand Prix]])
+| |<ref name="Grand Prix Leads Championship consecutively">{{Cite web|url=https://www.statsf1.com/en/statistiques/constructeur/gp/championnat-consecutif.aspx|title=Grand Prix Leads Championship consecutively|access-date=8 March 2026}}</ref>
+|-
+| Most consecutive days as World Constructors' Championship leader
+| 1092
+| {{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' ([[2014 Malaysian Grand Prix]] – [[2017 Australian Grand Prix]])
+| |<ref name="Grand Prix Leads Championship consecutively"/>
+|-
+| Most points between first and second in the World Constructors' Championship
+| 451 ({{F1|2023}})
+| {{flagicon|AUT}} '''[[Red Bull Racing]]''' (860 pts.) and {{flagicon|GER}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' (409 pts.)
+| |<ref>{{Cite web|url=https://www.formula1.com/en/latest/article/in-numbers-the-remarkable-records-verstappen-and-red-bull-broke-during-the.5rU6XbfSRwp1wH9Uzp4RxI|title=IN NUMBERS: The remarkable records Verstappen and Red Bull broke during the 2023 season|date=14 December 2023|access-date=8 March 2026}}</ref>
+|-
+| Fewest points between first and second in the World Constructors' Championship
+| 3 ({{F1|1964}})
+| {{flagicon|ITA}}  '''[[Scuderia Ferrari|Ferrari]]''' (45 pts.) and {{flagicon|GBR}} [[British Racing Motors|BRM]] (42 pts.)
+| |<ref>{{Cite web|url=https://www.statsf1.com/en/statistiques/constructeur/champion/ecart.aspx|title=World Champion titles Gap|access-date=8 March 2026}}</ref>
+|-
+| Longest time between successive World Drivers' Championships
+| 21 years, 29 days
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' ({{F1|1979}} and {{F1|2000}})
+| |<ref>{{cite web|url=https://www.racefans.net/2008/11/29/the-championship-droughts-of-ferrari-mclaren-williams-and-benettonrenault/|title=The championship droughts of Ferrari, McLaren, Williams and Benetton/Renault|date=29 November 2008|access-date=8 March 2026}}</ref>
+|-
+| Most World Constructors' Championship runners-up
+| 21
+| {{flagicon|ITA}}  '''[[Scuderia Ferrari|Ferrari]]''' ({{F1|1958}}, {{F1|1959}}, {{F1|1966}}, {{F1|1970}}, {{F1|1974}}, {{F1|1978}}, {{F1|1984}}, {{F1|1985}}, {{F1|1988}}, {{F1|1990}}, {{F1|1996}}, {{F1|1997}}, {{F1|1998}}, {{F1|2006}}, {{F1|2012}}, {{F1|2015}}, {{F1|2017}}, {{F1|2018}}, {{F1|2019}}, {{F1|2022}}, {{F1|2024}})
+| |<ref>{{Cite web|url=https://www.statsf1.com/en/statistiques/constructeur/champion/vice-champion.aspx|title=World Champion titles Vice-champion|access-date=29 October 2026}}</ref>
+|-
+|}
+
+===Sprints, other===
+{| class="wikitable"
+|-
+! Description !! Record !! Details !! Ref
+|-
+| Most sprint wins in a season
+| 5 
+| {{flagicon|AUT}} '''[[Red Bull Racing]]''' ({{F1|2023}})
+| |<ref>{{Cite web|url=https://www.planetf1.com/features/rb19-stats-red-bull-f1-2023-season|title=19 mighty stats from Red Bull’s ridiculous F1 2023 season|date=1 December 2023|access-date=8 March 2026}}</ref>
+|}
+
+===Other===
+{| class="wikitable"
+|-
+! Description !! Record !! Details !! Ref
+|-
+| Fastest pit stop
+| 1.80 s
+| {{flagicon|GBR}} '''[[McLaren]]''' for {{flagicon|GBR}} [[Lando Norris]] ({{flagicon|QAT}} [[2023 Qatar Grand Prix]], lap 27)
+|<ref>{{Cite web|url=https://inmotion.dhl/en/formula-1/fastest-pit-stop-award/|title=Formula 1 DHL Fastest Pit Stop Award|date=8 October 2023|access-date=8 March 2026}}</ref>
+|-
+| Slowest pit stop (Classified as DNF)
+| 43 h 15 min
+|{{flagicon|DEU}} '''[[Mercedes-Benz in Formula One|Mercedes]]''' for {{flagicon|FIN}} [[Valtteri Bottas]] ({{flagicon|MON}} [[2021 Monaco Grand Prix]], lap 30)
+|<ref>{{Cite web|url=https://www.sportskeeda.com/f1/5-longest-f1-pit-stops-time/|title=5 longest F1 pit stops of all time|date=29 September 2022|access-date=8 March 2026}}</ref>
+|-
+| Slowest pit stop (Finished the race)
+| 72 s
+| {{flagicon|ITA}} '''[[Scuderia Ferrari|Ferrari]]''' for {{flagicon|BRA}} [[Rubens Barrichello]] ({{flagicon|MYS}} [[2001 Malaysian Grand Prix]], lap 4)
+|<ref>{{Cite web|url=https://www.atlasf1.com/2001/mal/elizalde.html|title=The Malaysian GP Review|date=18 March 2001|access-date=8 March 2026}}</ref>
+|-
+|}
+
+==Notes==
+{{reflist|group="N"}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.statsf1.com StatsF1]
+
+{{Records}}
+
+[[Category:Formula One-related lists|Constructor ecords]]
+[[Category:Auto racing records|Formula One]]

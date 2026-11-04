@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+from html.parser import HTMLParser
 import sys
 import time
 import urllib.error
@@ -40,6 +41,125 @@ def fetch_raw(title: str, cache: Path, refresh: bool, pause: float = 3.0, lang: 
         cache.write_text(text, encoding="utf-8")
         time.sleep(pause)
     return cache.read_text(encoding="utf-8")
+
+
+HTML_URL = "https://{lang}.wikipedia.org/api/rest_v1/page/html/{title}"
+
+
+def fetch_html(title: str, cache: Path, refresh: bool, pause: float = 3.0, lang: str = "en") -> str:
+    """Rendered HTML of a page, cached on disk: for tables whose numbers come from templates the wikitext doesn't expand."""
+    if refresh or not cache.exists():
+        print(f"downloading Wikipedia HTML ({lang}): {title}", file=sys.stderr)
+        url = HTML_URL.format(lang=lang, title=urllib.parse.quote(title.replace(" ", "_"), safe=""))
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                text = resp.read().decode("utf-8")
+        except (urllib.error.URLError, TimeoutError, OSError) as err:
+            if cache.exists():
+                print(f"warning: could not download {title} ({err}); using the saved copy", file=sys.stderr)
+                return cache.read_text(encoding="utf-8")
+            raise
+        cache.parent.mkdir(parents=True, exist_ok=True)
+        cache.write_text(text, encoding="utf-8")
+        time.sleep(pause)
+    return cache.read_text(encoding="utf-8")
+
+
+class _HtmlTables(HTMLParser):
+    """Every top-level wikitable of a rendered page, with the heading above it. Cells: {"text", "flag"} where flag is
+    the country name of the first flag image in the cell ("Flag_of_Germany.svg" -> "Germany"). Rowspans are expanded."""
+
+    SKIP = {"style", "script"}
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.tables: list[tuple[str, list[list[dict]]]] = []
+        self.heading, self._in_heading, self._htext = "", 0, []
+        self.depth = 0  # table nesting
+        self._skip = 0  # inside a reference, a hidden sort key or a style block
+        self._stack: list[str] = []
+        self.rows: list[list[dict]] = []
+        self.row: list[dict] | None = None
+        self.cell: dict | None = None
+        self.spans: dict[int, list] = {}  # column -> [rows left, cell]
+
+    def handle_starttag(self, tag, attrs):
+        a = dict(attrs)
+        hidden = tag in self.SKIP or (tag == "sup" and "reference" in (a.get("class") or "")) or "display:none" in (a.get("style") or "").replace(" ", "")
+        if self._skip or hidden:
+            if tag not in ("img", "br", "meta", "link", "input"):
+                self._skip += 1
+            return
+        if tag in ("h2", "h3", "h4"):
+            self._in_heading, self._htext = 1, []
+        elif tag == "table":
+            self.depth += 1
+            if self.depth == 1:
+                self.is_wikitable = "wikitable" in (a.get("class") or "")
+                self.rows, self.spans = [], {}
+        elif self.depth == 1 and getattr(self, "is_wikitable", False):
+            if tag == "tr":
+                self.row = []
+            elif tag in ("td", "th") and self.row is not None:
+                self._fill_spans()
+                self.cell = {"text": "", "flag": None, "header": tag == "th", "rowspan": int(a.get("rowspan", "1").strip() or 1) if (a.get("rowspan") or "1").strip().isdigit() else 1,
+                             "colspan": int(a.get("colspan", "1")) if (a.get("colspan") or "1").strip().isdigit() else 1}
+            elif tag == "img" and self.cell is not None and not self.cell["flag"]:
+                m = re.search(r"Flag_of_(?:the_)?([^./]+?)(?:_\(\d+.*?\))?\.svg", a.get("src", ""))
+                if m:
+                    self.cell["flag"] = urllib.parse.unquote(m.group(1)).replace("_", " ")
+            elif tag == "br" and self.cell is not None:
+                self.cell["text"] += " "
+
+    def handle_endtag(self, tag):
+        if self._skip:
+            if tag not in ("img", "br", "meta", "link", "input"):
+                self._skip -= 1
+            return
+        if tag in ("h2", "h3", "h4") and self._in_heading:
+            self.heading, self._in_heading = " ".join("".join(self._htext).split()), 0
+        elif tag == "table":
+            if self.depth == 1 and getattr(self, "is_wikitable", False):
+                self.tables.append((self.heading, self.rows))
+            self.depth -= 1
+        elif self.depth == 1 and tag in ("td", "th") and self.cell is not None and self.row is not None:
+            self.cell["text"] = " ".join(self.cell["text"].split())
+            col = len(self.row)
+            for k in range(self.cell["colspan"]):
+                self.row.append(self.cell)
+                if self.cell["rowspan"] > 1:
+                    self.spans[col + k] = [self.cell["rowspan"] - 1, self.cell]
+            self.cell = None
+        elif self.depth == 1 and tag == "tr" and self.row is not None:
+            self._fill_spans()
+            if self.row:
+                self.rows.append(self.row)
+            self.row = None
+
+    def _fill_spans(self):
+        """Carry rowspanned cells from the rows above into the current position."""
+        while len(self.row) in self.spans:
+            left, cell = self.spans[len(self.row)]
+            self.row.append(cell)
+            if left <= 1:
+                del self.spans[len(self.row) - 1]
+            else:
+                self.spans[len(self.row) - 1][0] = left - 1
+
+    def handle_data(self, data):
+        if self._skip:
+            return
+        if self._in_heading:
+            self._htext.append(data)
+        elif self.cell is not None:
+            self.cell["text"] += data
+
+
+def html_tables(html: str) -> list[tuple[str, list[list[dict]]]]:
+    p = _HtmlTables()
+    p.feed(html)
+    return p.tables
 
 
 def split_outside(text: str, sep: str) -> list[str]:

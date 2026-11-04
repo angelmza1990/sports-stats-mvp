@@ -752,3 +752,8 @@ svg .badge-text {
     font-size: 12px;
   }
 }
+
+/* A column whose every value moved to the row's second line (long race lists in the F1 records). */
+.data-table .hide-all {
+  display: none;
+}

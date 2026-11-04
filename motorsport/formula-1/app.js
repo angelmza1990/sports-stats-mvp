@@ -167,7 +167,7 @@
   /* ---------- Footer ---------- */
 
   const src = document.getElementById("sources");
-  const LABELS = ["Drivers' Champions", "Constructors' Champions", "Grand Prix winners", "Grand Prix winners by constructor"];
+  const LABELS = ["Drivers' Champions", "Constructors' Champions", "Grand Prix winners", "Grand Prix winners by constructor", "circuits", "driver records", "constructor records"];
   raw.meta.sources.forEach((url, i) => {
     const a = el("a", null, LABELS[i] ?? url);
     a.href = url;

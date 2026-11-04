@@ -714,3 +714,14 @@ h3.sub {
   stroke: var(--axis);
   stroke-dasharray: 3 3;
 }
+
+/* A dropdown beside the tabs (long lists of records). */
+.controls > select {
+  font: inherit;
+  font-size: 14px;
+  background: var(--surface-raised);
+  color: var(--ink);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 12px;
+}

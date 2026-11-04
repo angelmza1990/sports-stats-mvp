@@ -327,6 +327,8 @@ Twenty great chess rivalries, from Steinitz–Chigorin and Capablanca–Alekhine
 
 Every World Champion since 1950: bar chart races of drivers', constructors' and nations' titles, every champion, titles by nationality and by constructor, and the all-time Grand Prix winners by driver, constructor and nationality.
 
+Also: **how every title was won** (the champion's margin as a share of his points, which titles went to the last race, the closest and most dominant), **driver and constructor records** (wins, poles, podiums, fastest laps, points, laps led, streaks, youngest and oldest winners, grand slams, one-two finishes...) read from Wikipedia's rendered records pages so active drivers' numbers are current, and **the circuits** and countries that have hosted the most Grands Prix.
+
 ### 🏁 [TC2000](https://angelmza1990.github.io/sports-stats-mvp/motorsport/tc2000/)
 
 Argentina's touring-car championship since 1979, counting the Súper TC2000 years (2012–2021) as the category does: a bar chart race of titles by driver, make and team, the champion's make season by season, every champion with the car, team and wins that year, titles by driver, make, team and province, the all-time race winners and pole sitters with their first and last, the current season's wins and poles, and the Súper TC2000 teams' champions.
