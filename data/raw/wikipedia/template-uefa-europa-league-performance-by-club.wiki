@@ -1,0 +1,427 @@
+{{#ifeq: {{{map|{{{1|}}}}}} |yes|
+{{Location map+ |Europe |width={{{map size|{{{2|650}}}}}} |float=right |caption=Locations of UEFA Cup and UEFA Europa League winning teams |places=
+{{Location map~|Europe|lat_deg=51.507222|lon_deg=-0.1275|label_size={{{label size|{{{3|80}}}}}}|label='''London'''|mark=Black pog.svg|position=left}}
+{{Location map~|Europe|lat_deg=53.430833|lon_deg=-2.960833|label_size={{{label size|{{{3|80}}}}}}|label=[[Liverpool F.C.|Liverpool]]|position=left}}
+{{Location map~|Europe|lat=52.4862|long=-1.8904|label_size=80|label=[[Aston Villa F.C.|Aston Villa]]|position=left}}
+{{Location map~|Europe|lat_deg=51.893894|lon_deg=4.523253|label_size={{{label size|{{{3|80}}}}}}|label=[[Feyenoord]]}}
+{{Location map~|Europe|lat_deg=51.45|lon_deg=6.883333|label_size={{{label size|{{{3|80}}}}}}|label='''Rhine-Ruhr'''|mark=Black pog.svg}}
+{{Location map~|Europe|lat_deg=45.109444|lon_deg=7.641111|label_size={{{label size|{{{3|80}}}}}}|label=[[Juventus FC|Juventus]]|position=left}}
+{{Location map~|Europe|lat_deg=51.441389|lon_deg=5.467611|label_size={{{label size|{{{3|80}}}}}}|label=[[PSV Eindhoven]]|position=bottom}}
+{{Location map~|Europe|lat_deg=50.068056|lon_deg=8.645806|label_size={{{label size|{{{3|80}}}}}}|label=[[Eintracht Frankfurt]]}}
+{{Location map~|Europe|lat_deg=52.055061|lon_deg=1.144831|label_size={{{label size|{{{3|80}}}}}}|label=[[Ipswich Town F.C.|Ipswich Town]]|position=top}}
+{{Location map~|Europe|lat_deg=57.70623|lon_deg=11.98014|label_size={{{label size|{{{3|80}}}}}}|label=[[IFK Göteborg]]}}
+{{Location map~|Europe|lat_deg=50.834194|lon_deg=4.298361|label_size={{{label size|{{{3|80}}}}}}|label=[[RSC Anderlecht|Anderlecht]]|position=left}}
+{{Location map~|Europe|lat_deg=40.416667|lon_deg=-3.7025|label_size={{{label size|{{{3|80}}}}}}|label='''Madrid'''|mark=Black pog.svg}}
+{{Location map~|Europe|lat_deg=40.827967|lon_deg=14.193008|label_size={{{label size|{{{3|80}}}}}}|label=[[SSC Napoli|Napoli]]}}
+{{Location map~|Europe|lat_deg=45.478055|lon_deg=9.123947|label_size={{{label size|{{{3|80}}}}}}|label=[[Inter Milan]]|position=top}}
+{{Location map~|Europe|lat_deg=52.314167|lon_deg=4.941944|label_size={{{label size|{{{3|80}}}}}}|label=[[AFC Ajax|Ajax]]|position=top}}
+{{Location map~|Europe|lat_deg=44.794917|lon_deg=10.338444|label_size={{{label size|{{{3|80}}}}}}|label=[[Parma Calcio 1913|Parma]]|position=bottom}}
+{{Location map~|Europe|lat_deg=48.101844|lon_deg=11.572778|label_size={{{label size|{{{3|80}}}}}}|label=[[FC Bayern Munich|Bayern Munich]]}}
+{{Location map~|Europe|lat_deg=41.102778|lon_deg=28.990556|label_size={{{label size|{{{3|80}}}}}}|label=[[Galatasaray S.K. (football)|Galatasaray]]}}
+{{Location map~|Europe|lat_deg=41.161758|lon_deg=-8.583933|label_size={{{label size|{{{3|80}}}}}}|label=[[FC Porto|Porto]]}}
+{{Location map~|Europe|lat_deg=39.474656|lon_deg=-0.358361|label_size={{{label size|{{{3|80}}}}}}|label=[[Valencia CF|Valencia]]|position=bottom}}
+{{Location map~|Europe|lat_deg=55.791389|lon_deg=37.516111|label_size={{{label size|{{{3|80}}}}}}|label=[[PFC CSKA Moscow|CSKA Moscow]]}}
+{{Location map~|Europe|lat_deg=37.384|lon_deg=-5.9705|label_size={{{label size|{{{3|80}}}}}}|label=[[Sevilla FC|Sevilla]]}}
+{{Location map~|Europe|lat_deg=59.973|lon_deg=30.2205|label_size={{{label size|{{{3|80}}}}}}|label=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]}}
+{{Location map~|Europe|lat_deg=48.020833|lon_deg=37.809722|label_size={{{label size|{{{3|80}}}}}}|label=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]}}
+{{Location map~|Europe|lat_deg=53.463056|lon_deg=-2.291389|label_size={{{label size|{{{3|80}}}}}}|label=[[Manchester United F.C.|Manchester United]]|position=top}}
+{{Location map~|Europe|lat_deg=39.944167|lon_deg=-0.103611|label_size={{{label size|{{{3|80}}}}}}|label=[[Villarreal CF|Villarreal]]}}
+{{Location map~|Europe|lat_deg=45.708889|lon_deg=9.680833|label_size={{{label size|{{{3|80}}}}}}|label=[[Atalanta BC|Atalanta]]}}
+{{Location map~ |Europe |mark=TransparentPlaceholder.png |marksize=1 |lat_deg=65 |lon_deg=55 |label_size={{{label size|{{{3|80}}}}}} |label={{nowrap|'''London teams'''}}<br />{{nowrap|[[File:Red pog.svg|8px]] [[Tottenham Hotspur F.C.|Tottenham Hotspur]]}}<br />{{nowrap|[[File:Red pog.svg|8px]] [[Chelsea F.C.|Chelsea]]}}<br /><br />{{nowrap|'''Rhine-Ruhr teams'''}}<br />{{nowrap|[[File:Red pog.svg|8px]] [[Borussia Mönchengladbach]]}}<br />{{nowrap|[[File:Red pog.svg|8px]] [[Bayer 04 Leverkusen|Bayer Leverkusen]]}}<br />{{nowrap|[[File:Red pog.svg|8px]] [[FC Schalke 04|Schalke 04]]}}<br /><br />{{nowrap|'''Madrid teams'''}}<br />{{nowrap|[[File:Red pog.svg|8px]] [[Real Madrid CF|Real Madrid]]}}<br />{{nowrap|[[File:Red pog.svg|8px]] [[Atlético Madrid]]}}|position=right}}|}}
+}}
+
+{| class="wikitable plainrowheaders sortable"
+|+{{align|left|{{navbar|UEFA Europa League performance by club|mini=1}}}} Performance in the UEFA Cup and UEFA Europa League by club
+|-
+!scope=col|Club
+!scope=col|Winners
+!scope=col|Runners-up
+!scope=col class="unsortable"|Years won
+!scope=col class="unsortable"|Years runner-up
+|-
+!scope=row|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|align=center|7
+|align=center|0
+|[[2005–06 UEFA Cup|2006]], [[2006–07 UEFA Cup|2007]], [[2013–14 UEFA Europa League|2014]], [[2014–15 UEFA Europa League|2015]], [[2015–16 UEFA Europa League|2016]], [[2019–20 UEFA Europa League|2020]], [[2022–23 UEFA Europa League|2023]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|ITA}} [[Inter Milan]]
+|align=center|3
+|align=center|2
+|[[1990–91 UEFA Cup|1991]], [[1993–94 UEFA Cup|1994]], [[1997–98 UEFA Cup|1998]]
+|[[1996–97 UEFA Cup|1997]], [[2019–20 UEFA Europa League|2020]]
+|-
+!scope=row|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|align=center|3
+|align=center|1
+|[[1971–72 UEFA Cup|1972]], [[1983–84 UEFA Cup|1984]], [[2024–25 UEFA Europa League|2025]]
+|[[1973–74 UEFA Cup|1974]]
+|-
+!scope="row" |{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|align="center" |3
+|align="center" |1
+|[[1972–73 UEFA Cup|1973]], [[1975–76 UEFA Cup|1976]], [[2000–01 UEFA Cup|2001]]
+|[[2015–16 UEFA Europa League|2016]]
+|-
+!scope=row|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|align=center|3
+|align=center|1
+|[[1976–77 UEFA Cup|1977]], [[1989–90 UEFA Cup|1990]], [[1992–93 UEFA Cup|1993]]
+|[[1994–95 UEFA Cup|1995]]
+|-
+!scope=row|{{fbaicon|ESP}} [[Atlético Madrid]]
+|align=center|3
+|align=center|0
+|[[2009–10 UEFA Europa League|2010]], [[2011–12 UEFA Europa League|2012]], [[2017–18 UEFA Europa League|2018]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|GER}} [[Borussia Mönchengladbach]]
+|align=center|2
+|align=center|2
+|[[1974–75 UEFA Cup|1975]], [[1978–79 UEFA Cup|1979]]
+|[[1972–73 UEFA Cup|1973]], [[1979–80 UEFA Cup|1980]]
+|-
+! scope="row" |{{fbaicon|NED}} [[Feyenoord]]
+| align="center" |2
+| align="center" |0
+|[[1973–74 UEFA Cup|1974]], [[2001–02 UEFA Cup|2002]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|GER}} [[Eintracht Frankfurt]]
+|align=center|2
+|align=center|0
+|[[1979–80 UEFA Cup|1980]], [[2021–22 UEFA Europa League|2022]]
+|{{Sdash}}
+|-
+! scope="row" |{{fbaicon|SWE}} [[IFK Göteborg]]
+| align="center" |2
+| align="center" |0
+|[[1981–82 UEFA Cup|1982]], [[1986–87 UEFA Cup|1987]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|align=center|2
+|align=center|0
+|[[1984–85 UEFA Cup|1985]], [[1985–86 UEFA Cup|1986]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|ITA}} [[Parma Calcio 1913|Parma]]
+|align=center|2
+|align=center|0
+|[[1994–95 UEFA Cup|1995]], [[1998–99 UEFA Cup|1999]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|POR}} [[FC Porto|Porto]]
+|align=center|2
+|align=center|0
+|[[2002–03 UEFA Cup|2003]], [[2010–11 UEFA Europa League|2011]] 
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|align=center|2
+|align=center|0
+|[[2012–13 UEFA Europa League|2013]], [[2018–19 UEFA Europa League|2019]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|align=center|1
+|align=center|2
+|[[2016–17 UEFA Europa League|2017]]
+|[[2020–21 UEFA Europa League|2021]], [[2024–25 UEFA Europa League|2025]]
+|-
+!scope=row|{{fbaicon|BEL}} [[RSC Anderlecht|Anderlecht]]
+|align=center|1
+|align=center|1
+|[[1982–83 UEFA Cup|1983]]
+|[[1983–84 UEFA Cup|1984]]
+|-
+!scope=row|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|align=center|1
+|align=center|1
+|[[1987–88 UEFA Cup|1988]]
+|[[2023–24 UEFA Europa League|2024]]
+|-
+!scope=row|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|align=center|1
+|align=center|1
+|[[1991–92 UEFA Cup|1992]]
+|[[2016–17 UEFA Europa League|2017]]
+|-
+!scope=row|{{fbaicon|NED}} [[PSV Eindhoven]]
+|align=center|1
+|align=center|0
+|[[1977–78 UEFA Cup|1978]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|ENG}} [[Ipswich Town F.C.|Ipswich Town]]
+|align=center|1
+|align=center|0
+|[[1980–81 UEFA Cup|1981]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|ITA}} [[SSC Napoli|Napoli]]
+|align=center|1
+|align=center|0
+|[[1988–89 UEFA Cup|1989]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|align=center|1
+|align=center|0
+|[[1995–96 UEFA Cup|1996]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|GER}} [[FC Schalke 04|Schalke 04]]
+|align=center|1
+|align=center|0
+|[[1996–97 UEFA Cup|1997]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|TUR}} [[Galatasaray S.K. (football)|Galatasaray]]
+|align=center|1
+|align=center|0
+|[[1999–2000 UEFA Cup|2000]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|align=center|1
+|align=center|0
+|[[2003–04 UEFA Cup|2004]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|align=center|1
+|align=center|0
+|[[2004–05 UEFA Cup|2005]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|align=center|1
+|align=center|0
+|[[2007–08 UEFA Cup|2008]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|align=center|1
+|align=center|0
+|[[2008–09 UEFA Cup|2009]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|align=center|1
+|align=center|0
+|[[2020–21 UEFA Europa League|2021]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|ITA}} [[Atalanta BC|Atalanta]]
+|align=center|1
+|align=center|0
+|[[2023–24 UEFA Europa League|2024]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+|align=center|1
+|align=center|0
+|[[2025–26 UEFA Europa League|2026]]
+|{{Sdash}}
+|-
+!scope=row|{{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|align=center|0
+|align=center|3
+|{{Sdash}}
+|[[1982–83 UEFA Cup|1983]], [[2012–13 UEFA Europa League|2013]], [[2013–14 UEFA Europa League|2014]]
+|-
+!scope=row|{{fbaicon|FRA|1974}} [[Olympique de Marseille|Marseille]]
+|align=center|0
+|align=center|3
+|{{Sdash}}
+|[[1998–99 UEFA Cup|1999]], [[2003–04 UEFA Cup|2004]], [[2017–18 UEFA Europa League|2018]]
+|-
+!scope="row"|{{fbaicon|ESP}} [[Athletic Bilbao]]
+|align="center"|0
+|align="center"|2
+|{{Sdash}}
+|[[1976–77 UEFA Cup|1977]], [[2011–12 UEFA Europa League|2012]]
+|-
+!scope="row"|{{fbaicon|ESP}} [[RCD Espanyol|Espanyol]]
+|align="center"|0
+|align="center"|2
+|{{Sdash}}
+|[[1987–88 UEFA Cup|1988]], [[2006–07 UEFA Cup|2007]]
+|-
+!scope=row|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|align=center|0
+|align=center|2
+|{{Sdash}}
+|[[1990–91 UEFA Cup|1991]], [[2022–23 UEFA Europa League|2023]]
+|-
+! scope="row" |{{fbaicon|GER}} [[Borussia Dortmund]]
+| align="center" |0
+| align="center" |2
+|{{Sdash}}
+|[[1992–93 UEFA Cup|1993]], [[2001–02 UEFA Cup|2002]]
+|-
+!scope=row|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|align=center|0
+|align=center|2
+|{{Sdash}}
+|[[1999–2000 UEFA Cup|2000]], [[2018–19 UEFA Europa League|2019]]
+|-
+!scope=row|{{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|align=center|0
+|align=center|2
+|{{Sdash}}
+|[[2007–08 UEFA Cup|2008]], [[2021–22 UEFA Europa League|2022]]
+|-
+!scope=row|{{fbaicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1971–72 UEFA Cup|1972]]
+|-
+!scope=row|{{fbaicon|NED}} [[FC Twente|Twente]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1974–75 UEFA Cup|1975]]
+|-
+!scope=row|{{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1975–76 UEFA Cup|1976]]
+|-
+!scope=row|{{fbaicon|FRA|1974}} [[SC Bastia|Bastia]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1977–78 UEFA Cup|1978]]
+|-
+!scope=row|{{fbaicon|YUG}} [[Red Star Belgrade]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1978–79 UEFA Cup|1979]]
+|-
+!scope=row|{{fbaicon|NED}} [[AZ Alkmaar|AZ]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1980–81 UEFA Cup|1981]]
+|-
+!scope=row|{{fbaicon|GER}} [[Hamburger SV]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1981–82 UEFA Cup|1982]]
+|-
+!scope=row|{{fbaicon|HUN}} [[Videoton FC Fehérvár|Videoton]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1984–85 UEFA Cup|1985]]
+|-
+!scope=row|{{fbaicon|GER}} [[1. FC Köln]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1985–86 UEFA Cup|1986]]
+|-
+!scope=row|{{fbaicon|SCO}} [[Dundee United F.C.|Dundee United]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1986–87 UEFA Cup|1987]]
+|-
+!scope=row|{{fbaicon|GER}} [[VfB Stuttgart]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1988–89 UEFA Cup|1989]]
+|-
+!scope=row|{{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1989–90 UEFA Cup|1990]]
+|-
+!scope=row|{{fbaicon|ITA}} [[Torino FC|Torino]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1991–92 UEFA Cup|1992]]
+|-
+!scope=row|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Austria Salzburg]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1993–94 UEFA Cup|1994]]
+|-
+!scope=row|{{fbaicon|FRA|1974}} [[FC Girondins de Bordeaux|Bordeaux]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1995–96 UEFA Cup|1996]]
+|-
+!scope=row|{{fbaicon|ITA}} [[SS Lazio|Lazio]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[1997–98 UEFA Cup|1998]]
+|-
+!scope=row|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[2000–01 UEFA Cup|2001]]
+|-
+!scope=row|{{fbaicon|SCO}} [[Celtic F.C.|Celtic]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[2002–03 UEFA Cup|2003]]
+|-
+!scope=row|{{fbaicon|POR}} [[Sporting CP]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[2004–05 UEFA Cup|2005]]
+|-
+!scope=row|{{fbaicon|ENG}} [[Middlesbrough F.C.|Middlesbrough]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[2005–06 UEFA Cup|2006]]
+|-
+!scope=row|{{fbaicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[2008–09 UEFA Cup|2009]]
+|-
+!scope=row|{{fbaicon|ENG}} [[Fulham F.C.|Fulham]] 
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[2009–10 UEFA Europa League|2010]]
+|-
+!scope=row|{{fbaicon|POR}} [[S.C. Braga|Braga]] 
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[2010–11 UEFA Europa League|2011]]
+|-
+!scope=row|{{fbaicon|UKR}} [[FC Dnipro|Dnipro Dnipropetrovsk]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[2014–15 UEFA Europa League|2015]]
+|-
+!scope=row|{{fbaicon|GER}} [[SC Freiburg]]
+|align=center|0
+|align=center|1
+|{{Sdash}}
+|[[2025–26 UEFA Europa League|2026]]
+|}<noinclude>
+[[Category:UEFA Europa League templates|performance by club]]
+</noinclude>

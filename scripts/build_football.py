@@ -125,6 +125,53 @@ COMPETITIONS = {
             "Player records exclude qualifying rounds.",
         ],
     },
+    "europa-league": {
+        "name": "UEFA Europa League",
+        "output": ROOT / "football" / "europa-league" / "data" / "europa-league.json",
+        "finals": ("List of UEFA Cup and Europa League finals", r"==\s*List of finals\s*==", 1),
+        "alltime": ("UEFA Cup and Europa League records and statistics", r"===\s*All-time points table\s*===", 0,
+                    {"club": 1, "country": 1, "part": 2, "pld": 3, "w": 4, "d": 5, "l": 6, "gf": 7, "ga": 8, "pts": 10}),
+        "scorers": ("List of UEFA Cup and Europa League top scorers", r"==\s*All-time top scorers \(group stage", 0,
+                    {"nation": 1, "player": 1, "goals": 2, "apps": 3, "years": 5, "clubs": 6}),
+        "appearances": None,
+        "season_year": lambda s: int(s[:4]) + 1,
+        # The finals page shows its titles-by-club table through this template.
+        "history_table": ("Template:UEFA Europa League performance by club", r"", 0),
+        "pointsRule": "3 points per win, 1 per draw",
+        "alltimeScope": "Wikipedia's top 30, from the group stage (or league phase) to the final",
+        "notes": [
+            "Includes the UEFA Cup (1971–2009). Seasons are labelled by the year of the final; finals were two-legged until 1997.",
+            "Player records count the group stage (or league phase) to the final, without qualifying rounds.",
+        ],
+    },
+    "copa-sudamericana": {
+        "name": "Copa Sudamericana",
+        "output": ROOT / "football" / "copa-sudamericana" / "data" / "copa-sudamericana.json",
+        "finals": ("List of Copa Sudamericana finals", r"==\s*List of finals\s*==", 1),
+        "alltime": None,
+        "scorers": None,
+        "appearances": None,
+        "season_year": lambda s: int(s[:4]),
+        "history_table": ("List of Copa Sudamericana finals", r"===\s*By club\s*===", 0),
+        "unplayed": ("2016",),  # awarded to Chapecoense after the LaMia crash
+        "no_final": True,
+        "pointsRule": "3 points per win, 1 per draw",
+        "notes": ["Finals were two-legged until 2018 and have been a single match since 2019.",
+                  "The 2016 final was not played after the crash of LaMia Flight 2933, which killed most of the Chapecoense team; CONMEBOL awarded the title to Chapecoense at Atlético Nacional's request."],
+    },
+    "womens-champions-league": {
+        "name": "UEFA Women's Champions League",
+        "output": ROOT / "football" / "womens-champions-league" / "data" / "womens-champions-league.json",
+        "finals": ("List of UEFA Women's Cup and Women's Champions League finals", r"==\s*List of finals\s*==", 1),
+        "alltime": None,
+        "scorers": ("UEFA Women's Champions League", r"===\s*All-time top scorers\s*===", 0,
+                    {"nation": 1, "player": 1, "goals": 2, "clubs": 3}),
+        "appearances": None,
+        "season_year": lambda s: int(s[:4]) + 1,
+        "history_table": ("List of UEFA Women's Cup and Women's Champions League finals", r"===\s*By teams\s*===", 0),
+        "pointsRule": "3 points per win, 1 per draw",
+        "notes": ["Includes the UEFA Women's Cup (2002–2009). Seasons are labelled by the year of the final; finals were two-legged until 2009."],
+    },
     "concacaf-champions-cup": {
         "name": "CONCACAF Champions Cup",
         "output": ROOT / "football" / "concacaf-champions-cup" / "data" / "concacaf-champions-cup.json",
@@ -192,7 +239,8 @@ class ClubIndex:
 
 def table(cfg: tuple, refresh: bool) -> list[list[dict]]:
     title, anchor, nth = cfg[:3]
-    text = W.fetch_raw(title, RAW_DIR / f"{slug(title)}.wiki", refresh)
+    # A leading newline lets a page that starts with its table (a template) be found like any other.
+    text = "\n" + W.fetch_raw(title, RAW_DIR / f"{slug(title)}.wiki", refresh).replace("<onlyinclude>{|", "<onlyinclude>\n{|")
     return W.parse_table(W.find_table(text, anchor, nth))
 
 
@@ -209,8 +257,12 @@ def parse_finals(rows: list[list[dict]], comp: dict, clubs: ClubIndex) -> list[d
         if not re.match(r"^\d{4}", season):
             continue
         champion_cell, runner_cell = cell(row, 2), cell(row, 4)
-        if not W.links(champion_cell):
-            continue  # upcoming final
+        if champion_cell == cell(row, 3):
+            continue  # a note spanning the row ("Final was suspended following the crash...")
+        if W.plain(cell(row, 0)).strip() in comp.get("unplayed", ()):
+            runner_cell = ""  # no final was played: a title without a runner-up
+        if not W.links(champion_cell) or W.plain(cell(row, 3)).strip().lower() in ("v", "vs", "vs."):
+            continue  # upcoming final (no clubs yet, or "v" for the score)
         c_country, r_country = W.flag_code(cell(row, 1)), W.flag_code(cell(row, 5))
         score_attrs = row[3]["attrs"].upper()
         note = next((v for k, v in LEG_NOTES.items() if k in score_attrs), None)
@@ -284,14 +336,15 @@ def build(key: str, refresh: bool) -> dict:
     comp = COMPETITIONS[key]
     clubs = ClubIndex()
     finals = parse_finals(table(comp["finals"], refresh), comp, clubs)
-    alltime = parse_alltime(table(comp["alltime"], refresh), comp["alltime"][3], clubs)
-    scorers = parse_players(table(comp["scorers"], refresh), comp["scorers"][3])
+    alltime = parse_alltime(table(comp["alltime"], refresh), comp["alltime"][3], clubs) if comp["alltime"] else []
+    scorers = parse_players(table(comp["scorers"], refresh), comp["scorers"][3]) if comp["scorers"] else []
     appearances = parse_players(table(comp["appearances"], refresh), comp["appearances"][3]) if comp["appearances"] else []
     history = None
     if comp.get("history_table"):
         history = Counter()
         for row in table(comp["history_table"], refresh):
-            if not row[0]["header"] and W.links(cell(row, 0)) and W.number(cell(row, 1)) is not None:
+            # Rows may lead with a header cell (scope=row); the column titles have no link.
+            if W.links(cell(row, 0)) and W.number(cell(row, 1)) is not None:
                 history[clubs.resolve(cell(row, 0), W.flag_code(cell(row, 0)))] += W.number(cell(row, 1))
 
     # Keep the clubs that lead any all-time metric, plus every finalist.
@@ -363,12 +416,12 @@ def validate(key: str, data: dict) -> list[str]:
             errors.append(f"bad final {f['season']}")
         if not f["championCountry"] or (f["runnerUp"] and not f["runnerUpCountry"]):
             errors.append(f"missing country in final {f['season']}")
-    if len(data["alltime"]) < 20:
+    if comp["alltime"] and len(data["alltime"]) < 20:
         errors.append(f"all-time table too short ({len(data['alltime'])} clubs)")
     for r in data["alltime"]:
         if r["pts"] is None or r["w"] is None:
             errors.append(f"all-time row without points: {r}")
-    for label in ("scorers", "appearances") if comp["appearances"] else ("scorers",):
+    for label in [k for k in ("scorers", "appearances") if comp[k]]:
         if len(data[label]) < 10 or any(p.get("goals" if label == "scorers" else "apps") is None for p in data[label]):
             errors.append(f"{label} table incomplete")
     return errors

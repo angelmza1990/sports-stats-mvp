@@ -109,6 +109,7 @@
   /* ---------- All-time points table ---------- */
 
   (function pointsTable() {
+    if (!document.getElementById("points-table")) return; // a page without this section
     const rows = data.alltime.slice().sort((a, b) => b.pts - a.pts || (b.gf - b.ga) - (a.gf - a.ga));
     document.getElementById("points-note").textContent =
       `${data.meta.pointsRule}. ${data.meta.alltimeScope ? `${rows.length} clubs: ${data.meta.alltimeScope}` : `${rows.length} clubs${rows.length <= 25 ? " (the published top 25)" : ", every club that has taken part"}`}.`;
@@ -131,6 +132,7 @@
   /* ---------- All-time club records ---------- */
 
   (function clubRecords() {
+    if (!document.getElementById("records-chart")) return; // a page without this section
     const METRICS = [
       { key: "w", label: "Most wins", unit: "wins" },
       { key: "gf", label: "Most goals", unit: "goals" },
@@ -186,6 +188,7 @@
   /* ---------- Players ---------- */
 
   (function players() {
+    if (!document.getElementById("players-table")) return; // a page without this section
     const root = document.getElementById("players-table");
     const playerCell = (p) => {
       const span = el("span", "club");

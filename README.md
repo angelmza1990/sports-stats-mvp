@@ -161,6 +161,10 @@ Every league champion since 1891: a titles race with or without the amateur era,
 
 The Argentine page's format for sixteen more countries, one page each with a shared front end: every national champion (England since 1888, France since 1894, Italy since 1898, Uruguay since 1900, Germany since 1903, Paraguay since 1906, Peru since 1912, Spain since 1929, Chile since 1933, Portugal since 1934–35, Brazil since 1937, Mexico since 1943–44, Colombia since 1948, Bolivia since 1950, Ecuador since 1957, and every MLS Cup since 1996), a titles race with and without the early era (before Serie A, the Premier League, the Bundesliga, the 1971 Campeonato Brasileiro, the professional leagues of Uruguay, Peru and Bolivia, or the split seasons of Colombia and Paraguay), titles by club, the all-time table where Wikipedia publishes one, the top scorer of every season and the all-time scorers where a list is published.
 
+### ⚽ [Europa League](https://angelmza1990.github.io/sports-stats-mvp/football/europa-league/), [Copa Sudamericana](https://angelmza1990.github.io/sports-stats-mvp/football/copa-sudamericana/) and [Women's Champions League](https://angelmza1990.github.io/sports-stats-mvp/football/womens-champions-league/)
+
+The same page as the Champions League for Europe's and South America's second club competitions and for the women's Champions League: a titles race, every final, repeated finals, countries and, where Wikipedia publishes them, the all-time table and top scorers. Titles are checked club by club against each finals page's own table.
+
 ### 🌍 [National Teams](https://angelmza1990.github.io/sports-stats-mvp/football/national-teams/)
 
 Every men's international since 1872 (48,000+ matches, from Mart Jürisoo's CC0 database of international results):

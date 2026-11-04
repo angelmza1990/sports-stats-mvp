@@ -5963,6 +5963,300 @@
     "Club Nacional",
     "Nacional Asunción"
    ]
+  },
+  {
+   "id": "az-alkmaar",
+   "name": "AZ",
+   "country": "NED",
+   "espn": "140",
+   "aliases": [
+    "AZ Alkmaar",
+    "AZ"
+   ]
+  },
+  {
+   "id": "twente",
+   "name": "Twente",
+   "country": "NED",
+   "espn": "152",
+   "aliases": [
+    "FC Twente",
+    "Twente"
+   ]
+  },
+  {
+   "id": "red-bull-salzburg",
+   "name": "Red Bull Salzburg",
+   "country": "AUT",
+   "espn": "2790",
+   "aliases": [
+    "FC Red Bull Salzburg",
+    "Austria Salzburg",
+    "Red Bull Salzburg"
+   ]
+  },
+  {
+   "id": "bastia",
+   "name": "Bastia",
+   "country": "FRA",
+   "espn": "173",
+   "aliases": [
+    "SC Bastia",
+    "Bastia"
+   ]
+  },
+  {
+   "id": "cska-moscow",
+   "name": "CSKA Moscow",
+   "country": "RUS",
+   "espn": "1963",
+   "aliases": [
+    "PFC CSKA Moscow",
+    "CSKA Moscow"
+   ]
+  },
+  {
+   "id": "zenit",
+   "name": "Zenit Saint Petersburg",
+   "country": "RUS",
+   "espn": "2533",
+   "aliases": [
+    "FC Zenit Saint Petersburg",
+    "Zenit Saint Petersburg",
+    "Zenit St. Petersburg"
+   ]
+  },
+  {
+   "id": "shakhtar-donetsk",
+   "name": "Shakhtar Donetsk",
+   "country": "UKR",
+   "espn": "493",
+   "aliases": [
+    "FC Shakhtar Donetsk",
+    "Shakhtar Donetsk"
+   ]
+  },
+  {
+   "id": "dnipro",
+   "name": "Dnipro",
+   "country": "UKR",
+   "espn": null,
+   "aliases": [
+    "FC Dnipro",
+    "Dnipro Dnipropetrovsk"
+   ]
+  },
+  {
+   "id": "dundee-united",
+   "name": "Dundee United",
+   "country": "SCO",
+   "espn": "264",
+   "aliases": [
+    "Dundee United F.C.",
+    "Dundee United"
+   ]
+  },
+  {
+   "id": "fenerbahce",
+   "name": "Fenerbahçe",
+   "country": "TUR",
+   "espn": "436",
+   "aliases": [
+    "Fenerbahçe S.K. (football)",
+    "Fenerbahçe S.K.",
+    "Fenerbahçe"
+   ]
+  },
+  {
+   "id": "ifk-goteborg",
+   "name": "IFK Göteborg",
+   "country": "SWE",
+   "espn": "2556",
+   "aliases": [
+    "IFK Göteborg"
+   ]
+  },
+  {
+   "id": "paok",
+   "name": "PAOK",
+   "country": "GRE",
+   "espn": "605",
+   "aliases": [
+    "PAOK FC",
+    "PAOK"
+   ]
+  },
+  {
+   "id": "slavia-prague",
+   "name": "Slavia Prague",
+   "country": "CZE",
+   "espn": "494",
+   "aliases": [
+    "SK Slavia Prague",
+    "Slavia Prague"
+   ]
+  },
+  {
+   "id": "fehervar",
+   "name": "Videoton",
+   "country": "HUN",
+   "espn": "6740",
+   "aliases": [
+    "Videoton FC Fehérvár",
+    "Fehérvár FC",
+    "Videoton"
+   ]
+  },
+  {
+   "id": "chapecoense",
+   "name": "Chapecoense",
+   "country": "BRA",
+   "espn": "9318",
+   "aliases": [
+    "Associação Chapecoense de Futebol",
+    "Chapecoense"
+   ]
+  },
+  {
+   "id": "ponte-preta",
+   "name": "Ponte Preta",
+   "country": "BRA",
+   "espn": "3459",
+   "aliases": [
+    "Associação Atlética Ponte Preta",
+    "Ponte Preta"
+   ]
+  },
+  {
+   "id": "ol-lyonnes",
+   "name": "OL Lyonnes",
+   "country": "FRA",
+   "espn": "19256",
+   "aliases": [
+    "OL Lyonnes",
+    "Olympique Lyonnais Féminin"
+   ]
+  },
+  {
+   "id": "barcelona-femeni",
+   "name": "Barcelona",
+   "country": "ESP",
+   "espn": "20091",
+   "aliases": [
+    "FC Barcelona Femení"
+   ]
+  },
+  {
+   "id": "wolfsburg-women",
+   "name": "VfL Wolfsburg",
+   "country": "GER",
+   "espn": "20107",
+   "aliases": [
+    "VfL Wolfsburg (women)"
+   ]
+  },
+  {
+   "id": "arsenal-women",
+   "name": "Arsenal",
+   "country": "ENG",
+   "espn": "19973",
+   "aliases": [
+    "Arsenal W.F.C.",
+    "Arsenal Women F.C."
+   ]
+  },
+  {
+   "id": "chelsea-women",
+   "name": "Chelsea",
+   "country": "ENG",
+   "espn": "19970",
+   "aliases": [
+    "Chelsea F.C. Women"
+   ]
+  },
+  {
+   "id": "psg-feminine",
+   "name": "Paris Saint-Germain",
+   "country": "FRA",
+   "espn": "19258",
+   "aliases": [
+    "Paris Saint-Germain Féminine",
+    "Paris Saint-Germain F.C. (women)"
+   ]
+  },
+  {
+   "id": "eintracht-frankfurt-women",
+   "name": "Eintracht Frankfurt",
+   "country": "GER",
+   "espn": "22092",
+   "aliases": [
+    "Eintracht Frankfurt (women)",
+    "1. FFC Frankfurt"
+   ]
+  },
+  {
+   "id": "fortuna-hjorring",
+   "name": "Fortuna Hjørring",
+   "country": "DEN",
+   "espn": "20116",
+   "aliases": [
+    "Fortuna Hjørring"
+   ]
+  },
+  {
+   "id": "djurgarden-women",
+   "name": "Djurgården/Älvsjö",
+   "country": "SWE",
+   "espn": "2339",
+   "aliases": [
+    "Djurgårdens IF Fotboll (women)",
+    "Djurgården/Älvsjö"
+   ]
+  },
+  {
+   "id": "umea-ik",
+   "name": "Umeå",
+   "country": "SWE",
+   "espn": null,
+   "aliases": [
+    "Umeå IK"
+   ]
+  },
+  {
+   "id": "turbine-potsdam",
+   "name": "Turbine Potsdam",
+   "country": "GER",
+   "espn": null,
+   "aliases": [
+    "1. FFC Turbine Potsdam"
+   ]
+  },
+  {
+   "id": "fcr-duisburg",
+   "name": "FCR Duisburg",
+   "country": "GER",
+   "espn": null,
+   "aliases": [
+    "FCR 2001 Duisburg"
+   ]
+  },
+  {
+   "id": "tyreso",
+   "name": "Tyresö",
+   "country": "SWE",
+   "espn": null,
+   "aliases": [
+    "Tyresö FF"
+   ]
+  },
+  {
+   "id": "zvezda-perm",
+   "name": "Zvezda Perm",
+   "country": "RUS",
+   "espn": null,
+   "aliases": [
+    "Zvezda-2005 Perm"
+   ]
   }
  ]
 }

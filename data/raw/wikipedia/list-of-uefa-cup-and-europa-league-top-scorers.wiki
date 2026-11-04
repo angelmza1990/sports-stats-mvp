@@ -1,0 +1,712 @@
+{{Short description|none}}
+The [[UEFA Europa League]], known until 2009 as the UEFA Cup, is an annual [[association football]] cup competition organised by [[UEFA]] since 1971, and it is the second most important club competition in Europe. Originally a knockout competition, it later evolved to include group stages and a series of qualifying rounds. This article lists both the competition's seasonal top scorers and overall top scorers, including a list of goals scored in the competition proper and a list of goals scored including qualifying rounds.
+
+==All-time top scorers (group stage/league phase to final)==
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col" | Rank
+! scope="col" | Player
+! scope="col" | Goal
+! scope="col" | Apps
+! scope="col" | Ratio
+! scope="col" | Years
+! scope="col" | Club (Goal/Match)
+|-
+| 1
+|align=left data-sort-value="Aubameyang, Pierre Emerick" | {{nowrap|{{flagicon|Gabon}} [[Pierre-Emerick Aubameyang]]}}
+| 34
+| 62
+| {{#expr:34/62 round 2}}
+| 2009-2024
+| style="text-align:left;" | {{nowrap|[[Lille OSC]] (0/7)}}, {{nowrap|[[Borussia Dortmund]] (8/10)}}, {{nowrap|[[Arsenal F.C.]] (14/26)}}, {{nowrap|[[FC Barcelona]] (2/6)}}, {{nowrap|[[Olympique de Marseille]] (10/13)}}
+|-
+| 2
+|align=left data-sort-value="Larsson, Henrik" | {{nowrap|{{flagicon|Sweden}} [[Henrik Larsson]]}}
+| 31
+| 45
+| {{#expr:31/45 round 2}}
+| {{nowrap|1996-2009}}
+| style="text-align:left;" | {{nowrap|[[Feyenoord]] (1/6)}}, {{nowrap|[[Celtic F.C.]] (24/31)}}, {{nowrap|[[Helsingborgs IF]] (6/8)}}
+|-
+| rowspan="2" | 3
+|align=left data-sort-value="Falcao, Radamel" | {{nowrap|{{flagicon|Colombia}} [[Radamel Falcao]]}}
+| rowspan="2" | 30
+| 31
+| {{#expr:30/31 round 2}}
+| 2010-2021
+| style="text-align:left;" | {{nowrap|[[FC Porto]] (17/14)}}, {{nowrap|[[Atlético Madrid]] (13/17)}}
+|-
+|align=left data-sort-value="Huntelaar, Klaas Jan" | {{nowrap|{{flagicon|Netherlands}} [[Klaas-Jan Huntelaar]]}}
+| 50
+| {{#expr:30/50 round 2}}
+| 2004-2020
+| style="text-align:left;" | {{nowrap|[[SC Heerenveen]] (5/13)}}, {{nowrap|[[AFC Ajax]] (11/15)}}, {{nowrap|[[FC Schalke 04]] (14/22)}}
+|-
+| 5
+|align=left data-sort-value="Muller, Dieter" | {{nowrap|{{flagicon|Germany}} [[Dieter Müller]]}}
+| 29
+| 36
+| {{#expr:29/36 round 2}}
+| 1973-1983
+| style="text-align:left;" | {{nowrap|[[1. FC Köln]] (25/31)}}, {{nowrap|[[VfB Stuttgart]] (1/2)}}, {{nowrap|[[FC Girondins de Bordeaux]] (3/3)}}
+|-
+| 6
+|align=left data-sort-value="Dzeko, Edin" | {{nowrap|{{flagicon|Bosnia and Herzegovina}} [[Edin Džeko]]}}
+| 28
+| 60
+| {{#expr:28/60 round 2}}
+| 2003-2025
+| style="text-align:left;" | {{nowrap|[[FK Željezničar Sarajevo]] (0/1)}}, {{nowrap|[[VfL Wolfsburg]] (5/14)}}, {{nowrap|[[Manchester City F.C.]] (3/7)}}, {{nowrap|[[AS Roma]] (17/26)}}, {{nowrap|[[Fenerbahçe S.K. (football)|Fenerbahçe S.K.]] (3/12)}}
+|-
+| rowspan="2" | 7
+|align=left data-sort-value="Lukaku, Romelu" | {{nowrap|{{flagicon|Belgium}} [[Romelu Lukaku]]}}
+| rowspan="2" | 27
+| 46
+| {{#expr:27/46 round 2}}
+| 2009-2024
+| style="text-align:left;" | {{nowrap|[[RSC Anderlecht]] (5/18)}}, {{nowrap|[[Everton F.C.]] (8/9)}}, {{nowrap|[[Inter Milan]] (7/6)}}, {{nowrap|[[AS Roma]] (7/13)}}
+|-
+|align=left data-sort-value="Fernandes, Bruno" | {{nowrap|{{flagicon|Portugal}} [[Bruno Fernandes]]}}
+| 58
+| {{#expr:27/58 round 2}}
+| 2018-2025
+| style="text-align:left;" | {{nowrap|[[Sporting CP]] (11/19)}}, {{nowrap|[[Manchester United F.C.]] (16/39)}}
+|-
+| rowspan="2" | 9
+|align=left data-sort-value="Aduriz, Aritz" | {{nowrap|{{flagicon|Spain}} [[Aritz Aduriz]]}}
+| rowspan="2" | 26
+| 39
+| {{#expr:26/39 round 2}}
+| 2012-2018
+| style="text-align:left;" | {{nowrap|[[Valencia CF]] (0/6)}}, {{nowrap|[[Athletic Bilbao]] (26/33)}}
+|-
+|align=left data-sort-value="Lacazette, Alexandre" | {{nowrap|{{flagicon|France}} [[Alexandre Lacazette]]}}
+| 58
+| {{#expr:26/58 round 2}}
+| 2012-2025
+| style="text-align:left;" | {{nowrap|[[Olympique Lyonnais]] (13/31)}}, {{nowrap|[[Arsenal F.C.]] (13/27)}}
+|-
+| 11
+|align=left data-sort-value="Altobelli, Alessandro" | {{nowrap|{{flagicon|Italy}} [[Alessandro Altobelli]]}}
+| 25
+| 58
+| {{#expr:25/58 round 2}}
+| 1977-1989
+| style="text-align:left;" | {{nowrap|[[Inter Milan]] (21/50)}}, {{nowrap|[[Juventus FC]] (4/8)}}
+|-
+| rowspan="3" | 12
+|align=left data-sort-value="Arveladze, Shota" | {{nowrap|{{flagicon|Georgia}} [[Shota Arveladze]]}}
+| rowspan="3" | 24
+| 41
+| {{#expr:25/41 round 2}}
+| 1994-2007
+| style="text-align:left;" | {{nowrap|[[FC Dinamo Tbilisi]] (1/2)}}, {{nowrap|[[Trabzonspor]] (2/2)}}, {{nowrap|[[AFC Ajax]] (10/13)}}, {{nowrap|[[Rangers F.C.]] (2/7)}}, {{nowrap|[[AZ Alkmaar]] (9/17)}}
+|-
+|align=left data-sort-value="Dabbur, Munas" | {{nowrap|{{flagicon|Israel}} [[Mu'nas Dabbur]]}}
+| 49
+| {{#expr:24/49 round 2}}
+| 2011-2021
+| style="text-align:left;" | {{nowrap|[[Maccabi Tel Aviv F.C.]] (1/8)}}, {{nowrap|[[FC Red Bull Salzburg]] (14/28)}}, {{nowrap|[[Sevilla FC]] (3/6)}}, {{nowrap|[[TSG 1899 Hoffenheim]] (6/7)}}
+|-
+|align=left data-sort-value="Gameiro, Kevin" | {{nowrap|{{flagicon|France}} [[Kevin Gameiro]]}}
+| 54
+| {{#expr:24/54 round 2}}
+| 2005-2019
+| style="text-align:left;" | {{nowrap|[[RC Strasbourg Alsace]] (2/3)}}, {{nowrap|[[Paris Saint-Germain F.C.]] (0/5)}}, {{nowrap|[[Sevilla FC]] (17/33)}}, {{nowrap|[[Atlético Madrid]] (2/5)}}, {{nowrap|[[Valencia CF]] (3/8)}}
+|-
+| rowspan="3" | 15
+|align=left data-sort-value="Heynckes, Jupp" | {{nowrap|{{flagicon|Germany}} [[Jupp Heynckes]]}}
+| rowspan="3" | 23
+| 21
+| {{#expr:23/21 round 2}}
+| 1972-1975
+| style="text-align:left;" | [[Borussia Mönchengladbach]]
+|-
+|align=left data-sort-value="Love, Vagner" | {{nowrap|{{flagicon|Brazil}} [[Vágner Love]]}}
+| 36
+| {{#expr:23/36 round 2}}
+| 2005-2021
+| style="text-align:left;" | {{nowrap|[[PFC CSKA Moscow]] (20/31)}}, {{nowrap|[[Beşiktaş J.K.]] (3/5)}}
+|-
+|align=left data-sort-value="Salpingidis, Dimitris" | {{nowrap|{{flagicon|Greece}} [[Dimitris Salpingidis]]}}
+| 67
+| {{#expr:23/67 round 2}}
+| 1999-2015
+| style="text-align:left;" | {{nowrap|[[PAOK FC]] (13/43)}}, {{nowrap|[[Panathinaikos F.C.]] (10/24)}}
+|-
+| rowspan="4" | 18
+|align=left data-sort-value="Chivers, Martin" | {{nowrap|{{flagicon|England}} [[Martin Chivers]]}}
+| rowspan="4" | 22
+| 34
+| {{#expr:22/34 round 2}}
+| 1971-1977
+| style="text-align:left;" | [[Tottenham Hotspur F.C.]]
+|-
+|align=left data-sort-value="Klinsmann, Jurgen" | {{nowrap|{{flagicon|Germany}} [[Jürgen Klinsmann]]}}
+| 36
+| {{#expr:22/36 round 2}}
+| 1988-1997
+| style="text-align:left;" | {{nowrap|[[VfB Stuttgart]] (4/8)}}, {{nowrap|[[Inter Milan]] (3/13)}}, {{nowrap|[[FC Bayern Munich]] (15/14)}}, {{nowrap|[[UC Sampdoria]] (0/1)}}
+|-
+|align=left data-sort-value="Bergkamp, Dennis" | {{nowrap|{{flagicon|Netherlands}} [[Dennis Bergkamp]]}}
+| 42
+| {{#expr:22/42 round 2}}
+| 1988-2000
+| style="text-align:left;" | {{nowrap|[[AFC Ajax]] (9/21)}}, {{nowrap|[[Inter Milan]] (9/13)}}, {{nowrap|[[Arsenal F.C.]] (4/8)}}
+|-
+|align=left data-sort-value="Rummenigge, KarlHeinz" | {{nowrap|{{flagicon|Germany}} [[Karl-Heinz Rummenigge]]}}
+| 49
+| {{#expr:22/49 round 2}}
+| 1977-1988
+| style="text-align:left;" | {{nowrap|[[FC Bayern Munich]] (13/22)}}, {{nowrap|[[Inter Milan]] (9/23)}}, {{nowrap|[[Servette FC]] (0/4)}}
+|}
+
+==All-time top scorers (including qualifying rounds)==
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col" | Rank
+! scope="col" | Player
+! scope="col" | Goal
+! scope="col" | Apps
+! scope="col" | Ratio
+! scope="col" | Years
+! scope="col" | Club (Goal/Match)
+|-
+| 1
+|align=left data-sort-value="Larsson, Henrik" | {{nowrap|{{flagicon|Sweden}} [[Henrik Larsson]]}}
+| 40
+| 56
+| {{#expr:40/56 round 2}}
+| {{nowrap|1996-2009}}
+| style="text-align:left;" | {{nowrap|[[Feyenoord]] (1/6)}}, {{nowrap|[[Celtic F.C.]] (27/35)}}, {{nowrap|[[Helsingborgs IF]] (12/15)}}
+|-
+| 2
+|align=left data-sort-value="Aubameyang, Pierre Emerick" | {{nowrap|{{flagicon|Gabon}} [[Pierre-Emerick Aubameyang]]}}
+| 37
+| 68
+| {{#expr:37/68 round 2}}
+| 2009-2024
+| style="text-align:left;" | {{nowrap|[[Lille OSC]] (0/9)}}, {{nowrap|[[Borussia Dortmund]] (11/14)}}, {{nowrap|[[Arsenal F.C.]] (14/26)}}, {{nowrap|[[FC Barcelona]] (2/6)}}, {{nowrap|[[Olympique de Marseille]] (10/13)}}
+|-
+| 3
+|align=left data-sort-value="Huntelaar, Klaas Jan" | {{nowrap|{{flagicon|Netherlands}} [[Klaas-Jan Huntelaar]]}}
+| 34
+| 54
+| {{#expr:34/54 round 2}}
+| 2004-2020
+| style="text-align:left;" | {{nowrap|[[SC Heerenveen]] (5/13)}}, {{nowrap|[[AFC Ajax]] (11/17)}}, {{nowrap|[[FC Schalke 04]] (18/24)}}
+|-
+| 4
+|align=left data-sort-value="Morelos, Alfredo" | {{nowrap|{{flagicon|Colombia}} [[Alfredo Morelos]]}}
+| 32
+| 62
+| {{#expr:32/62 round 2}}
+| 2016-2022
+| style="text-align:left;" | {{nowrap|[[Helsingin Jalkapalloklubi]] (4/6)}}, {{nowrap|[[Rangers F.C.]] (28/56)}}
+|-
+| rowspan="2" | 5
+|align=left data-sort-value="Falcao, Radamel" | {{nowrap|{{flagicon|Colombia}} [[Radamel Falcao]]}}
+| rowspan="2" | 31
+| 35
+| {{#expr:31/35 round 2}}
+| 2010-2021
+| style="text-align:left;" | {{nowrap|[[FC Porto]] (18/16)}}, {{nowrap|[[Atlético Madrid]] (13/17)}}, {{nowrap|[[Galatasaray S.K. (football)|Galatasaray S.K.]] (0/2)}}
+|-
+|align=left data-sort-value="Aduriz, Aritz" | {{nowrap|{{flagicon|Spain}} [[Aritz Aduriz]]}}
+| 47
+| {{#expr:31/47 round 2}}
+| 2012-2018
+| style="text-align:left;" | {{nowrap|[[Valencia CF]] (0/6)}}, {{nowrap|[[Athletic Bilbao]] (31/41)}}
+|-
+| 7
+|align=left data-sort-value="Muller, Dieter" | {{nowrap|{{flagicon|Germany}} [[Dieter Müller]]}}
+| 29
+| 36
+| {{#expr:29/36 round 2}}
+| 1973-1983
+| style="text-align:left;" | {{nowrap|[[1. FC Köln]] (25/31)}}, {{nowrap|[[VfB Stuttgart]] (1/2)}}, {{nowrap|[[FC Girondins de Bordeaux]] (3/3)}}
+|-
+| 8
+|align=left data-sort-value="Dzeko, Edin" | {{nowrap|{{flagicon|Bosnia and Herzegovina}} [[Edin Džeko]]}}
+| 28
+| 60
+| {{#expr:28/60 round 2}}
+| 2003-2025
+| style="text-align:left;" | {{nowrap|[[FK Željezničar Sarajevo]] (0/1)}}, {{nowrap|[[VfL Wolfsburg]] (5/14)}}, {{nowrap|[[Manchester City F.C.]] (3/7)}}, {{nowrap|[[AS Roma]] (17/26)}}, {{nowrap|[[Fenerbahçe S.K.     (football)|Fenerbahçe S.K.]] (3/12)}}
+|-
+| rowspan="5" | 9
+|align=left data-sort-value="Love, Vagner" | {{nowrap|{{flagicon|Brazil}} [[Vágner Love]]}}
+| rowspan="5" | 27
+| 44
+| {{#expr:27/44 round 2}}
+| 2005-2021
+| style="text-align:left;" | {{nowrap|[[PFC CSKA Moscow]] (20/32)}}, {{nowrap|[[Beşiktaş J.K.]] (4/8)}}, {{nowrap|[[FC Kairat]] (3/4)}}
+|-
+|align=left data-sort-value="Arveladze, Shota" | {{nowrap|{{flagicon|Georgia}} [[Shota Arveladze]]}}
+| 45
+| {{#expr:27/45 round 2}}
+| 1994-2007
+| style="text-align:left;" | {{nowrap|[[FC Dinamo Tbilisi]] (2/4)}}, {{nowrap|[[Trabzonspor]] (4/4)}}, {{nowrap|[[AFC Ajax]] (10/13)}}, {{nowrap|[[Rangers F.C.]] (2/7)}}, {{nowrap|[[AZ Alkmaar]] (9/17)}}
+|-
+|align=left data-sort-value="Lukaku, Romelu" | {{nowrap|{{flagicon|Belgium}} [[Romelu Lukaku]]}}
+| 46
+| {{#expr:27/46 round 2}}
+| 2009-2024
+| style="text-align:left;" | {{nowrap|[[RSC Anderlecht]] (5/18)}}, {{nowrap|[[Everton F.C.]] (8/9)}}, {{nowrap|[[Inter Milan]] (7/6)}}, {{nowrap|[[AS Roma]] (7/13)}}
+|-
+|align=left data-sort-value="Fernandes, Bruno" | {{nowrap|{{flagicon|Portugal}} [[Bruno Fernandes]]}}
+| 58
+| {{#expr:27/58 round 2}}
+| 2018-2025
+| style="text-align:left;" | {{nowrap|[[Sporting CP]] (11/19)}}, {{nowrap|[[Manchester United F.C.]] (16/39)}}
+|-
+|align=left data-sort-value="Lacazette, Alexandre" | {{flagicon|France}} [[Alexandre Lacazette]]
+| 62
+| {{#expr:27/62 round 2}}
+| 2012-2025
+| style="text-align:left;" |{{nowrap|[[Olympique Lyonnais]] (14/35)}}, {{nowrap|[[Arsenal F.C.]] (13/27)}}
+|-
+| rowspan="3" | 14
+|align=left data-sort-value="Dabbur, Munas" | {{nowrap|{{flagicon|Israel}} [[Mu'nas Dabbur]]}}
+| rowspan="3" | 26
+| 57
+| {{#expr:26/57 round 2}}
+| 2011-2021
+| style="text-align:left;" | {{nowrap|[[Maccabi Tel Aviv F.C.]] (1/12)}}, {{nowrap|[[FC Red Bull Salzburg]] (16/30)}}, {{nowrap|[[Grasshopper Club Zurich]] (0/2)}}, {{nowrap|[[Sevilla FC]] (3/6)}}, {{nowrap|[[TSG 1899 Hoffenheim]] (6/7)}}
+|-
+|align=left data-sort-value="Gameiro, Kevin" | {{flagicon|France}} [[Kevin Gameiro]]
+| 57
+| {{#expr:26/57 round 2}}
+| 2005-2019
+| style="text-align:left;" | {{nowrap|[[RC Strasbourg Alsace]] (2/3)}}, {{nowrap|[[Paris Saint-Germain F.C.]] (1/7)}}, {{nowrap|[[Sevilla FC]] (18/34)}}, {{nowrap|[[Atlético Madrid]] (2/5)}}, {{nowrap|[[Valencia CF]] (3/8)}}
+|-
+|align=left data-sort-value="Ricardo, Horta" | {{flagicon|Portugal}} [[Ricardo Horta]]
+| 82
+| {{#expr:26/82 round 2}}
+| 2016-2026
+| style="text-align:left;" | {{nowrap|[[S.C. Braga]] (26/82)}}
+|-
+| rowspan="3" | 17
+|align=left data-sort-value="Defoe, Jermain" | {{nowrap|{{flagicon|England}} [[Jermain Defoe]]}}
+| rowspan="3" | 25
+| 41
+| {{#expr:25/41 round 2}}
+| 2006-2020
+| style="text-align:left;" | {{nowrap|[[Tottenham Hotspur F.C.]] (20/29)}}, {{nowrap|[[Portsmouth F.C.]] (2/4)}}, {{nowrap|[[Rangers F.C.]] (3/8)}}
+|-
+|align=left data-sort-value="Altobelli, Alessandro" | {{nowrap|{{flagicon|Italy}} [[Alessandro Altobelli]]}}
+| 58
+| {{#expr:25/58 round 2}}
+| 1977-1989
+| style="text-align:left;" | {{nowrap|[[Inter Milan]] (21/50)}}, {{nowrap|[[Juventus FC]] (4/8)}}
+|-
+|align=left data-sort-value="Petric, Mladen" | {{nowrap|{{flagicon|Croatia}} [[Mladen Petrić]]}}
+| 72
+| {{#expr:25/72 round 2}}
+| 2001-2015
+| style="text-align:left;" | {{nowrap|[[Grasshopper Club Zurich]] (1/11)}}, {{nowrap|[[FC Basel]] (8/26)}}, {{nowrap|[[Hamburger SV]] (15/27)}}, {{nowrap|[[Panathinaikos F.C.]] (1/8)}}
+|-
+| rowspan="4" | 20
+|align=left data-sort-value="Pizarro, Claudio" | {{flagicon|Peru}} [[Claudio Pizarro]]
+| rowspan="4" | 24
+| 33
+| {{#expr:24/33 round 2}}
+| 1999-2010
+| style="text-align:left;" |{{nowrap|[[SV Werder Bremen]] (24/33)}}
+|-
+|align=left data-sort-value="Wolfswinkel, Ricky van" | {{flagicon|Netherlands}} [[Ricky van Wolfswinkel]]
+| 57
+| {{#expr:24/57 round 2}}
+| 2010-2025
+| style="text-align:left;" |{{nowrap|[[FC Utrecht]] (8/12)}}, {{nowrap|[[Sporting CP]] (9/20)}}, {{nowrap|[[AS Saint-Étienne]] (1/6)}}, {{nowrap|[[FC Basel]] (4/9)}}, {{nowrap|[[FC Twente]] (2/10)}}
+|-
+|align=left data-sort-value="Bacca, Carlos" | {{flagicon|Colombia}} [[Carlos Bacca]]
+| 60
+| {{#expr:24/60 round 2}}
+| 2012-2021
+| style="text-align:left;" |{{nowrap|[[Club Brugge KV]] (3/7)}}, {{nowrap|[[Sevilla FC]] (14/31)}}, {{nowrap|[[Villarreal CF]] (7/22)}}
+|-
+|align=left data-sort-value="Trichkovski, Ivan" | {{flagicon|North Macedonia}} [[Ivan Trichkovski]]
+| 67
+| {{#expr:24/67 round 2}}
+| 2005-2022
+| style="text-align:left;" |{{nowrap|[[FK Vardar]] (1/6)}}, {{nowrap|[[FK Rabotnicki]] (0/6)}}, {{nowrap|[[Red Star Belgrade]] (0/2)}}, {{nowrap|[[APOEL FC]] (1/5)}}, {{nowrap|[[Club Brugge KV]] (1/3)}}, {{nowrap|[[Legia Warsaw]] (0/6)}}, {{nowrap|[[AEK Larnaca FC]] (21/39)}}
+|}
+
+==Top scorers by country==
+{| class="wikitable"
+|-
+! Rank
+! Country
+! Title
+! Season
+|-
+|align=center|1||{{flagicon|GER}} [[Germany]]||align=center|10||1971-72, 1972-73, 1974-75, 1979-80, 1979-80, 1985-86, 1989-90, 1990-91, 1994-95, 1995-96
+|-
+| rowspan="2" align=center|2||{{flagicon|NED}} [[Netherlands]]|| rowspan="2" align=center |7||1972-73, 1973-74, 1975-76, 1977-78, 1986-87, 1993-94, 2001-02
+|-
+|{{flagicon|BRA}} [[Brazil]]||1986-87, 2002-03, 2003-04, 2008-09, 2014-15, 2016-17, 2025-26
+|-
+|align=center|4||{{flagicon|ESP}} [[Spain]]||align=center|5||2000-01, 2013-14, 2015-16, 2017-18, 2020-21
+|-
+| rowspan="2" align="center" |5||{{flagicon|ENG}} [[England]]|| rowspan="2" align="center" |4||1976-77, 2004-05, 2021-22, 2022-23
+|-
+|{{flagicon|ITA}} [[Italy]]||1996-97, 1998-99, 2007-08, 2017-18
+|-
+| rowspan="5" align="center" |7||{{flagicon|DEN}} [[Denmark]]|| rowspan="5" align="center" |3||1978-79, 1987-88, 2024-25
+|-
+|{{flagicon|HUN}} [[Hungary]]||1983-84, 1984-85, 1987-88
+|-
+|{{flagicon|FRA}} [[France]]||1992-93, 1997-98, 2018-19
+|-
+||{{flagicon|Serbia and Montenegro}} [[Serbia and Montenegro]]||1998-99, 1999-00, 2000-01
+|-
+|{{flagicon|POR}} [[Portugal]]||2019-20, 2020-21, 2024-25
+|-
+| rowspan="3" align=center |12||{{flagicon|Yugoslavia}} [[Yugoslavia]]|| rowspan="3" align=center|2||1982-83, 1984-85
+|-
+|{{flagicon|DDR}} [[East Germany]]||1988-89, 1989-90
+|-
+|{{flagicon|COL}} [[Colombia]]||2010-11, 2011-12
+|-
+| rowspan="20" align="center" |15||{{flagicon|SUI}} [[Switzerland]]|| rowspan="20" align="center" |1||1977-78
+|-
+|{{flagicon|SCO}} [[Scotland]]||1980-81
+|-
+|{{flagicon|SWE}} [[Sweden]]||1981-82
+|-
+|{{flagicon|FIN}} [[Finland]]||1986-87
+|-
+|{{flagicon|GRE}} [[Greece]]||1987-88
+|-
+|{{flagicon|WAL}} [[Wales]]||1991-92
+|-
+|{{flagicon|Poland}} [[Poland]]||2000-01
+|-
+|{{flagicon|ARG}} [[Argentina]]||2005-06
+|-
+|{{flagicon|URU}} [[Uruguay]]||2006-07
+|-
+|{{flagicon|RUS}} [[Russia]]||2007-08
+|-
+|{{flagicon|PER|football}} [[Peru]]||2009-10
+|-
+|{{flagicon|PAR}} [[Paraguay]]||2009-10
+|-
+|{{flagicon|CZE}} [[Czech Republic]]||2012-13
+|-
+|{{flagicon|BEL}} [[Belgium]]||2014-15
+|-
+|{{flagicon|BIH}} [[Bosnia and Herzegovina]]||2016-17
+|-
+|{{flagicon|TUR}} [[Turkey]]||2020-21
+|-
+|{{flagicon|NGA}} [[Nigeria]]||2022-23
+|-
+|{{flagicon|GAB}} [[Gabon]]||2023-24
+|-
+|{{flagicon|MAR}} [[Morocco]]||2024-25
+|-
+|{{flagicon|SRB}} [[Serbia]]||2025-26
+|}
+
+==Top scorers by season==
+{|
+|- valign="top"
+|
+{| class="wikitable" style="font-size:95%"
+|-
+!Season
+!Player
+!Goal
+|-
+!1971-72
+|{{flagicon|Germany}} [[Ludwig Bründl]]
+|align=center | 10
+|-
+! rowspan=2 valign="middle" |1972-73
+| {{flagicon|Netherlands}} [[Jan Jeuring]]
+| rowspan=2 align=center | 12
+|-
+|{{flagicon|Germany}} [[Jupp Heynckes]] 
+|-
+! 1973-74
+|{{flagicon|Netherlands}} [[Lex Schoenmaker]]
+|align=center | 9
+|-
+! 1974-75
+|{{flagicon|Germany}} [[Jupp Heynckes]] 
+|align=center | 11
+|-
+! 1975-76
+|{{flagicon|Netherlands}} [[Ruud Geels]]
+|align=center | 10
+|-
+! 1976-77
+|{{flagicon|England}} [[Stan Bowles]]
+|align=center | 11
+|-
+! rowspan=2 valign="middle" | 1977-78
+|{{flagicon|Netherlands}} [[Gerrie Deijkers]]
+| rowspan=2 align=center  | 8
+|-
+|{{flagicon|Switzerland}} [[Raimondo Ponte]]
+|-
+!1978-79
+|{{flagicon|Denmark}} [[Allan Simonsen]]
+|align=center | 9
+|-
+! rowspan=2 align=center  | 1979-80
+|{{flagicon|Germany}} [[Dieter Hoeneß]]
+| rowspan=2 align=center  | 7
+|-
+|{{flagicon|Germany}} [[Harald Nickel]]
+|-
+!1980-81
+|{{flagicon|Scotland}} [[John Wark]]
+|align=center | 14
+|-
+! 1981-82
+|{{flagicon|Sweden}} [[Torbjörn Nilsson]]
+|align=center | 9
+|-
+! 1982-83
+|{{flagicon|Yugoslavia}} [[Zoran Filipović]]
+|align=center | 8
+|-
+!1983-84
+|{{flagicon|Hungary}} [[Tibor Nyilasi]]
+|align=center | 9
+|-
+! rowspan=2 valign="middle" | 1984-85
+|{{flagicon|Hungary}} [[József Szabó (footballer, born 1956)|József Szabó]]
+| rowspan=2 align=center  | 7
+|-
+|{{flagicon|Yugoslavia}} [[Edin Bahtić]]
+|-
+!1985-86
+|{{flagicon|Germany}} [[Klaus Allofs]]
+|align=center | 9
+|-
+! rowspan=3 valign="middle" | 1986-87
+|{{flagicon|Finland}} [[Jari Rantanen]]
+| rowspan=3 align=center  | 5
+|-
+|{{flagicon|Netherlands}} [[Peter Houtman]]
+|-
+|{{flagicon|Brazil}} [[Paulinho Cascavel]]
+|-
+! rowspan=3 valign="middle" | 1987-88
+|{{flagicon|Hungary}} [[Kálmán Kovács (footballer, born 1965)|Kálmán Kovács]]
+| rowspan=3 align=center  | 6
+|-
+|{{flagicon|Denmark}} [[Kenneth Brylle]]
+|-
+|{{flagicon|Greece}} [[Dimitris Saravakos]]
+|-
+!1988-89
+|{{flagicon|East Germany}} [[Torsten Gütschow]]
+|align=center | 7
+|-
+! rowspan=2 valign="middle" | 1989-90
+|{{flagicon|Germany}} [[Karl-Heinz Riedle]]
+| rowspan=2 align=center  | 6
+|-
+|{{flagicon|East Germany}} [[Falko Götz]]
+|-
+!1990-91
+|{{flagicon|Germany}} [[Rudi Völler]]
+|align=center | 10
+|}
+|
+{| class="wikitable" style="font-size:95%"
+|-
+!Season
+!Player
+!Goal
+|-
+! 1991-92
+|{{flagicon|Wales}} [[Dean Saunders]]
+|align=center | 9
+|-
+!1992-93
+|{{flagicon|France}} [[Gérald Baticle]]
+|align=center | 8
+|-
+!1993-94
+|{{flagicon|Netherlands}} [[Dennis Bergkamp]]
+|align=center | 8
+|-
+! 1994-95
+|{{flagicon|Germany}} [[Ulf Kirsten]]
+|align=center | 10
+|-
+! 1995-96
+|{{flagicon|Germany}} [[Jürgen Klinsmann]]
+|align=center | 15
+|-
+! 1996-97
+|{{flagicon|Italy}} [[Maurizio Ganz]]
+|align=center | 8
+|-
+! 1997-98
+|{{flagicon|France}} [[Stéphane Guivarc'h]]
+|align=center | 7
+|-
+! rowspan=2 valign="middle" | 1998-99
+|{{flagicon|Italy}} [[Enrico Chiesa]]
+| rowspan=2 align=center  | 8
+|-
+|{{flagicon|Serbia and Montenegro}} [[Darko Kovačević]] 
+|-
+!1999-00
+|{{flagicon|Serbia and Montenegro}} [[Darko Kovačević]] 
+|align=center | 10
+|-
+! rowspan=3 valign="middle"| 2000-01
+|{{flagicon|Poland}} [[Marcin Kuźba]]
+| rowspan=3 align=center  | 6
+|-
+|{{flagicon|Serbia and Montenegro}} [[Goran Drulić]]
+|-
+|{{flagicon|Spain}} [[Javi Moreno (footballer, born 1974)|Javi Moreno]]
+|-
+! 2001-02
+|{{flagicon|Netherlands}} [[Pierre van Hooijdonk]]
+|align=center | 8
+|-
+! 2002-03
+|{{flagicon|Brazil}} [[Derlei]]
+|align=center | 12
+|-
+! 2003-04
+|{{flagicon|Brazil}} [[Sonny Anderson]]
+| align=center | 7
+|-
+! 2004-05  
+|{{flagicon|England}} [[Alan Shearer]]
+|align=center | 11
+|-
+! 2005-06
+|{{flagicon|Argentina}} [[Matías Emilio Delgado]]
+|align=center | 7
+|-
+! 2006-07
+|{{flagicon|Uruguay}} [[Walter Pandiani]]
+|align=center | 11
+|-
+! rowspan=2 valign="middle"| 2007-08
+|{{flagicon|Russia}} [[Pavel Pogrebnyak]]
+| rowspan=2 align=center | 10
+|-
+|{{flagicon|Italy}} [[Luca Toni]]
+|-
+! 2008-09
+|{{flagicon|Brazil}} [[Vágner Love]]
+|align=center | 11
+|-
+! rowspan=2 valign="middle"| 2009-10
+|{{flagicon|Peru}} [[Claudio Pizarro]]
+| rowspan=2 align=center | 9
+|-
+|{{flagicon|Paraguay}} [[Óscar Cardozo]]
+|-
+! 2010-11
+|{{flagicon|Colombia}} [[Radamel Falcao]] 
+|align=center | 17
+|}
+|
+{| class="wikitable" style="font-size:95%"
+|-
+!Season
+!Player
+!Goal
+|-
+! 2011-12
+|{{flagicon|Colombia}} [[Radamel Falcao]] 
+|align=center | 12
+|-
+! 2012-13
+|{{flagicon|Czech Republic}} [[Libor Kozák]]
+|align=center | 8
+|-
+! 2013-14
+|{{flagicon|Spain}} [[Jonathan Soriano]]
+| align="center" | 8
+|-
+! rowspan=2 valign="middle"| 2014-15
+|{{flagicon|Brazil}} [[Alan (footballer, born 1989)|Alan]]
+| rowspan=2 align=center | 8
+|-
+|{{flagicon|Belgium}} [[Romelu Lukaku]]
+|-
+! 2015-16
+|{{flagicon|Spain}} [[Aritz Aduriz]] 
+| align="center" | 10
+|-
+! rowspan=2 valign="middle"| 2016-17
+|{{flagicon|Bosnia and Herzegovina}} [[Edin Džeko]]
+| rowspan=2 align=center | 8
+|-
+|{{flagicon|Brazil}} [[Giuliano de Paula]]
+|-
+! rowspan=2 valign="middle"| 2017-18
+|{{flagicon|Spain}} [[Aritz Aduriz]] 
+| rowspan=2 align=center | 8
+|-
+|{{flagicon|Italy}} [[Ciro Immobile]]
+|-
+! valign="middle"| 2018-19
+|{{flagicon|France}} [[Olivier Giroud]]
+| align="center" | 11
+|-
+! valign="middle"| 2019-20
+| {{flagicon|Portugal}} [[Bruno Fernandes]] 
+| align=center | 8
+|-
+! rowspan=3 valign="middle"| 2020-21
+|{{flagicon|Turkey}} [[Yusuf Yazıcı]]
+| rowspan=3 align=center | 7
+|-
+|{{flagicon|Spain}} [[Borja Mayoral]]
+|-
+|{{flagicon|Portugal}} [[Pizzi (Portuguese footballer)|Pizzi]]
+|-
+! valign="middle"| 2021-22
+|{{flagicon|England}} [[James Tavernier]]
+| align="center" | 7
+|-
+! rowspan="2" valign="middle"| 2022-23
+|{{flagicon|Nigeria}} [[Victor Boniface]]
+| rowspan="2" align=center | 6
+|-
+|{{flagicon|England}} [[Marcus Rashford]]
+|-
+! valign="middle"| 2023-24
+|{{flagicon|Gabon}} [[Pierre-Emerick Aubameyang]]
+| align="center" | 10
+|-
+! rowspan="3" valign="middle" |2024-25
+|{{fbaicon|DEN}} [[Kasper Høgh]]
+| rowspan="3" align="center" |7
+|-
+|{{fbaicon|Morocco}} [[Ayoub El Kaabi]]
+|-
+|{{fbaicon|POR}} [[Bruno Fernandes]] 
+|-
+! rowspan="2" valign="middle"| 2025-26
+|{{flagicon|BRA}} [[Igor Jesus (footballer, born 2001)|Igor Jesus]]
+| rowspan=2 align=center | 7
+|-
+|{{flagicon|SRB}} [[Petar Stanić]]
+|}
+|}
+
+==See also==
+*[[List of UEFA Champions League top scorers]]
+*[[List of UEFA Cup Winners' Cup top scorers]]
+*[[List of UEFA Europa League hat-tricks]]
+
+[[Category:UEFA Europa League records and statistics|top]]
+[[Category:Lists of association football league top scorers (all-time)|UEFA Cup]]
+[[Category:Lists of association football league top scorers (by season)|UEFA Cup]]
