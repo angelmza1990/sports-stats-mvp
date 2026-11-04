@@ -1,0 +1,51 @@
+name: Deploy site
+
+# Publishes the site to GitHub Pages. Only the pages and their own data go up: the raw source
+# snapshots (data/raw, ~150 MB), the build inputs in data/ and the scripts stay in the repository,
+# so the upload is ~12 MB instead of the whole checkout.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# A newer push replaces a deploy still waiting in the queue.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      # Blobs are fetched only for the paths checked out, so data/raw is never downloaded.
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !/data/
+            !/scripts/
+            !/.github/
+
+      - name: Stage the site
+        run: |
+          mkdir _site
+          rsync -a --exclude='.git*' --exclude='_site' --exclude='README.md' ./ _site/
+          du -sh _site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
