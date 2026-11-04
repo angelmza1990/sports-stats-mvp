@@ -24,7 +24,7 @@
       ["football/primeira-liga/", "Portugal"], ["football/brasileirao/", "Brasileirão"], ["football/uruguayan-primera/", "Uruguay"],
       ["football/paraguayan-primera/", "Paraguay"], ["football/chilean-primera/", "Chile"], ["football/colombian-primera/", "Colombia"],
       ["football/ecuadorian-serie-a/", "Ecuador"], ["football/peruvian-primera/", "Peru"], ["football/bolivian-primera/", "Bolivia"],
-      ["football/liga-mx/", "Liga MX"], ["football/mls/", "MLS"], ["football/rivalries/", "Great Rivalries"],
+      ["football/liga-mx/", "Liga MX"], ["football/mls/", "MLS"], ["football/league-balance/", "League Balance"], ["football/rivalries/", "Great Rivalries"],
     ] },
     { sport: "olympics", label: "Olympics", pages: [
       ["olympics/", "Olympic Games"], ["swimming/olympics/", "Swimming"], ["tennis/olympics/", "Tennis"],

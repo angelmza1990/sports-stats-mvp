@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>League Balance · Football</title>
+  <meta name="description" content="How evenly are titles shared in seventeen national football leagues? The effective number of champions, the top two's share, decade by decade, the longest title streaks and the newest first-time champions.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../football.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/balance.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Football</p>
+    <h1>League balance</h1>
+    <p class="lede">
+      Which leagues belong to two clubs, and which are anyone's to win? Every national champion of seventeen leagues, from England's first season in 1888 to today, compared on the same measures.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="ranking">
+      <div class="block-head">
+        <h2>How even is each league?</h2>
+        <p>
+          The <strong>effective number of champions</strong> is how many equally successful clubs would share the titles the same way: one over the sum of each club's squared share of the titles.
+          A league whose titles all went to one club scores 1; one where ten clubs won the same number scores 10.
+        </p>
+      </div>
+      <div class="controls">
+        <div class="segmented" role="tablist" aria-label="Measure" id="metric-tabs"></div>
+        <div class="segmented" role="tablist" aria-label="Period" id="period-tabs"></div>
+      </div>
+      <div class="card">
+        <p class="chart-note" id="metric-note"></p>
+        <div id="ranking-list"></div>
+      </div>
+    </section>
+
+    <section class="block" id="decades">
+      <div class="block-head">
+        <h2>Decade by decade</h2>
+        <p>The share of each decade's titles won by that decade's two most successful clubs. Darker means fewer clubs shared the titles. Hover or tap a cell for its champions.</p>
+      </div>
+      <div class="card">
+        <div class="heat-key" id="heat-key"></div>
+        <div id="heat-chart" class="chart"></div>
+      </div>
+    </section>
+
+    <section class="block" id="trend">
+      <div class="block-head">
+        <h2>Is football getting more predictable?</h2>
+        <p>The effective number of champions in each league's last 20 titles, title by title, so that leagues with one and two champions a year compare on the same window. Pick up to four leagues.</p>
+      </div>
+      <div class="card">
+        <div class="chips" id="trend-chips" role="group" aria-label="Leagues"></div>
+        <div class="legend" id="trend-legend"></div>
+        <div id="trend-chart" class="chart"></div>
+        <p class="chart-note">A value of 2 means two clubs shared the last 20 titles evenly, or one club dominated with a few others; 20 would be twenty different champions in a row.</p>
+      </div>
+    </section>
+
+    <section class="block" id="streaks">
+      <div class="block-head">
+        <h2>The longest reigns</h2>
+        <p>The most consecutive titles won by one club in any of the seventeen leagues. Where a league crowns two champions a year, each tournament counts.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="streaks-table"></div>
+      </div>
+    </section>
+
+    <div class="grid-2">
+      <section class="block" id="dominant">
+        <div class="block-head">
+          <h2>The most dominant clubs</h2>
+          <p>Each league's most successful club and its share of all the titles the league has awarded.</p>
+        </div>
+        <div class="card">
+          <div id="dominant-list"></div>
+        </div>
+      </section>
+      <section class="block" id="newcomers">
+        <div class="block-head">
+          <h2>The newest first-time champions</h2>
+          <p>The last club in each league to win its first title, and how long ago that was.</p>
+        </div>
+        <div class="card">
+          <div class="data-table" id="newcomers-table"></div>
+        </div>
+      </section>
+    </div>
+
+    <section class="block" id="table">
+      <div class="block-head">
+        <h2>Every league, every measure</h2>
+        <p>All time, from each league's first recognised champion.</p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="summary-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> the champions of each league page on this site (<span id="league-links"></span>), from Wikipedia's lists of national champions (CC BY-SA 4.0).</p>
+    <p><strong>Notes:</strong> every recognised title counts once, including the amateur eras, the split associations of early Argentine football and the short tournaments of Mexico, Colombia, Paraguay and Argentina, each of which crowns its own champion.
+      A season shared by two champions counts as one title for each. The effective number of champions is the inverse of the Herfindahl–Hirschman index of the clubs' title shares; it grows with the number of titles a league has awarded, which is why the trend chart uses a fixed window of 20 titles.</p>
+    <p>Club names are trademarks of their owners. This project is not affiliated with any league or federation.</p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
