@@ -271,6 +271,8 @@ The seventeen national leagues side by side: how evenly each has shared its titl
 ⁴ Official matches include the local league (Rosario, Santa Fe, Córdoba or Tucumán) and its cups, as Spanish Wikipedia counts them.
 ⁵ No published head-to-head history: only the AFA matches ESPN records, from 2008 on. A partial record, labeled as such on the page and left out of the group's everyone-against-everyone table.
 
+**Every rivalry compared:** all of them side by side, the most played, the most even and the most one-sided, the most draws and goals, who rules the last 20 matches, and the longest winning and unbeaten runs and biggest wins (worked out by `scripts/build_rivalries.py` into `index.json`).
+
 ### 🏅 [The Olympic Games](https://angelmza1990.github.io/sports-stats-mvp/olympics/)
 
 Every Summer Games since 1896 and every Winter Games since 1924, separately or together: a race of gold (or all) medals by nation, the all-time medal table, the nation that topped the table at each Games, the full medal table of every Games, every host and how it did at home (plus the Games already awarded), and the most decorated Olympians, filterable by sport and by men and women.

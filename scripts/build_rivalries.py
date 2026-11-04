@@ -457,11 +457,44 @@ def build(cfg: dict, refresh: bool) -> dict:
     return data
 
 
+def records(data: dict) -> dict:
+    """For the comparison of every rivalry: the biggest win, the longest winning and unbeaten runs, the last 20 matches."""
+    a, b = (t["id"] for t in data["teams"])
+    side = {a: "a", b: "b"}
+    ms = [m for m in data["matches"] if m["hs"] is not None and m["as"] is not None]
+    winner = lambda m: m["home"] if m["hs"] > m["as"] else m["away"] if m["as"] > m["hs"] else None  # noqa: E731
+    big = max(ms, key=lambda m: (abs(m["hs"] - m["as"]), max(m["hs"], m["as"]), m["date"] or ""))
+
+    def longest(test) -> dict | None:
+        best, run = None, {}
+        for m in ms:
+            for club in (a, b):
+                if test(m, club):
+                    r = run.setdefault(club, {"side": side[club], "n": 0, "from": m["date"]})
+                    r["n"] += 1
+                    r["to"] = m["date"]
+                    if not best or r["n"] > best["n"]:
+                        best = dict(r)
+                else:
+                    run.pop(club, None)
+        return best
+
+    last = record(data, ms[-20:])
+    w = winner(big)
+    return {
+        "bigWin": {"side": side[w], "score": f"{max(big['hs'], big['as'])}–{min(big['hs'], big['as'])}", "date": big["date"], "comp": big.get("comp")} if w else None,
+        "winRun": longest(lambda m, c: winner(m) == c),
+        "unbeaten": longest(lambda m, c: winner(m) in (c, None)),
+        "last20": {k: last[k] for k in ("n", "a", "d", "b")},
+    }
+
+
 def index_entry(data: dict) -> dict:
     full = data["mode"] == "full"
     return {"id": data["id"], "name": data["name"], "subtitle": data["subtitle"], "group": data["group"],
             "teams": data["teams"], "colors": data["colors"], "mode": data["mode"],
             "record": record(data) if full else data["summary"]["total"],
+            "records": records(data) if full and len(data["matches"]) >= 20 else None,
             "first": data["matches"][0]["date"][:4] if full else data["summary"].get("since"),
             "allMeetings": bool(data.get("allMeetings")), "coverage": data.get("coverage"), "dataThrough": data.get("dataThrough")}
 
