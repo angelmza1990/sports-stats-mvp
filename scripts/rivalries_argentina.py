@@ -772,7 +772,7 @@ GIMNASIA_M, RIVADAVIA = "gimnasia-mendoza", "independiente-rivadavia"
 DERBY_ALIASES = {NEWELLS: ("newell",), CENTRAL: ("central",), LANUS: ("lanus",), BANFIELD: ("banfield",),
                  COLON: ("colon",), UNION: ("union",), TALLERES: ("talleres",), BELGRANO: ("belgrano",),
                  ATLETICO_T: ("atletico", "decano"), SAN_MARTIN_T: ("san martin", "santo"), INSTITUTO: ("instituto",),
-                 GIMNASIA_M: ("gimnasia",), RIVADAVIA: ("rivadavia",)}
+                 GIMNASIA_M: ("gimnasia",), RIVADAVIA: ("rivadavia",), "racing-c": ("racing",)}
 # (heading, stage): "local" for the city leagues and their cups, None to classify each row by its competition.
 DERBIES = {
     "newells-central": {"es": "Clásico rosarino", "sections": [

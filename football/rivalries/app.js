@@ -145,6 +145,7 @@
         const crests = el("span", "crests");
         r.teams.forEach((t) => crests.append(Fi.crest(t.id)));
         const meta = r.mode === "summary" ? `${r.record.n} matches · totals only`
+          : r.coverage ? `${r.record.n} AFA matches since ${r.first} · partial`
           : `${r.record.n} ${r.allMeetings ? "meetings" : "matches"} since ${r.first}`;
         b.append(crests, el("strong", null, r.name), el("small", null, meta));
         b.addEventListener("click", () => select(r.id));
@@ -184,7 +185,8 @@
 
   function groupMatrix() {
     const g = groupOf(byId.get(data.id));
-    const list = index.rivalries.filter((r) => r.group === g.id);
+    // A partial record (recent AFA matches only) would not add up with full histories.
+    const list = index.rivalries.filter((r) => r.group === g.id && !r.coverage);
     const clubs = [...new Set(list.flatMap((r) => r.teams.map((t) => t.id)))];
     const section = document.getElementById("group");
     const pairing = (x, y) => list.find((r) => r.teams.some((t) => t.id === x) && r.teams.some((t) => t.id === y));
@@ -320,7 +322,7 @@
       else break;
     }
     F.statTiles("stats", [
-      { label: "Official matches", value: String(r.n), detail: `${year(ms[0])}–${year(last)}` },
+      { label: data.coverage ? "AFA matches on record" : "Official matches", value: String(r.n), detail: `${year(ms[0])}–${year(last)}${data.coverage ? " · partial" : ""}` },
       { label: "Goals", value: String(r.ga + r.gb), detail: `${d3.format(".2f")((r.ga + r.gb) / r.n)} per match` },
       { label: "Latest match", value: `${last.hs}–${last.as}`, detail: `${scoreLine(last)} · ${fmtDate(last.when)}` },
       side
@@ -350,7 +352,7 @@
     });
     const now = pts[pts.length - 1].diff;
     const lead = (v) => (v > 0 ? `${short(A)} +${v}` : v < 0 ? `${short(B)} +${-v}` : "level");
-    document.getElementById("timeline-note").textContent =
+    document.getElementById("timeline-note").textContent = (data.coverage ? `Only the matches on record since ${year(ms[0])}: ` : "") +
       `${short(A)} led by as many as ${Math.max(0, maxA.diff)}${maxA.diff > 0 ? ` (${year(maxA.m)})` : ""}; ` +
       `${short(B)} by as many as ${Math.max(0, -maxB.diff)}${maxB.diff < 0 ? ` (${year(maxB.m)})` : ""}. ` +
       `The lead has changed hands ${plural(changes, "time")}. Today: ${lead(now)}.`;
@@ -927,7 +929,9 @@
     view = v;
     document.getElementById("official").hidden = v !== "official";
     document.getElementById("friendly").hidden = v !== "friendly";
-    document.getElementById("view-note").textContent = data.allMeetings
+    document.getElementById("view-note").textContent = data.coverage
+      ? `Partial record: ${data.coverage}, without the city league or earlier seasons.`
+      : data.allMeetings
       ? "The source lists every meeting without its competition, so friendlies are included."
       : v === "official" ? "Official matches only. Friendlies have their own tab." : "Friendlies don't count in the official record.";
   }

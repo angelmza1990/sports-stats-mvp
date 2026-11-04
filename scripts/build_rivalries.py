@@ -25,6 +25,7 @@ import rivalries_americas as AM
 import rivalries_argentina as AR
 import rivalries_brazil as BR
 import rivalries_england as EN
+import rivalries_espn as ESPN
 import rivalries_france as FR
 import rivalries_germany as DE
 import rivalries_italy as IT
@@ -52,6 +53,9 @@ COLORS = {
     "belgrano-instituto": ("#0a96d6", "#d33a3c", "#0a96d6", "#e54c4a"),
     "atletico-san-martin": ("#0a96d6", "#d33a3c", "#0a96d6", "#e54c4a"),
     "gimnasia-rivadavia": ("#ce9707", "#245fd4", "#b68611", "#245fd4"),
+    "talleres-instituto": ("#3845bf", "#d33a3c", "#4252cd", "#e54c4a"),
+    "instituto-racing-c": ("#d33a3c", "#0a96d6", "#e54c4a", "#0a96d6"),
+    "godoy-cruz-rivadavia": ("#0a96d6", "#3845bf", "#0a96d6", "#4252cd"),
     "madrid-barcelona": ("#824fcf", "#b21557", "#824fcf", "#e85082"),
     "madrid-atletico": ("#824fcf", "#d33a3c", "#824fcf", "#e54c4a"),
     "barcelona-atletico": ("#245fd4", "#d33a3c", "#245fd4", "#e54c4a"),
@@ -163,6 +167,8 @@ UNION = {"id": "union", "name": "Unión", "short": "Unión"}
 TALLERES = {"id": "talleres-c", "name": "Talleres", "short": "Talleres"}
 BELGRANO = {"id": "belgrano", "name": "Belgrano", "short": "Belgrano"}
 INSTITUTO = {"id": "instituto-atletico-central-cordoba", "name": "Instituto", "short": "Instituto"}
+RACING_C = {"id": "racing-c", "name": "Racing de Córdoba", "short": "Racing"}
+GODOY_CRUZ = {"id": "godoy-cruz", "name": "Godoy Cruz", "short": "Godoy Cruz"}
 ATLETICO_T = {"id": "club-atletico-tucuman", "name": "Atlético Tucumán", "short": "Atlético"}
 SAN_MARTIN_T = {"id": "club-atletico-san-martin-tucuman", "name": "San Martín de Tucumán", "short": "San Martín"}
 GIMNASIA_M = {"id": "gimnasia-mendoza", "name": "Gimnasia y Esgrima de Mendoza", "short": "Gimnasia"}
@@ -251,6 +257,16 @@ RIVALRIES = [
       AR.summary_derby("Clásico mendocino", r"=== Resumen estadístico ===", "gimnasia-mendoza", "independiente-rivadavia", "gimnasia-mendoza",
                        recent=r"=== En torneos oficiales de AFA ===[\s\S]*?==== Cronología de resultados ====",
                        note="Most of the official meetings were in the Liga Mendocina; the latest matches are those played in AFA tournaments."), 268),
+    R("instituto-racing-c", "Instituto vs Racing", "Instituto vs Racing de Córdoba", "arg-cba", INSTITUTO, RACING_C,
+      AR.summary_derby("Clásicos del fútbol argentino", r"== Clásico Instituto-Racing \(C\) ==[\s\S]*?=== Historial ===",
+                       "instituto-atletico-central-cordoba", "racing-c", "instituto-atletico-central-cordoba",
+                       note="They also played 54 friendlies (Instituto 23 wins, 14 draws, Racing 17), which the official totals leave out. "
+                            "Their last official meeting was in the 2001–02 Primera B Nacional."), 148),
+    # No published history: the AFA matches ESPN records (partial, labeled on the page and left out of the group matrix).
+    R("talleres-instituto", "Talleres vs Instituto", "Talleres vs Instituto", "arg-cba", TALLERES, INSTITUTO,
+      ESPN.espn_derby("talleres-instituto", "talleres-c", "instituto-atletico-central-cordoba", "Talleres"), 13, leaders=False),
+    R("godoy-cruz-rivadavia", "Godoy Cruz vs Independiente Rivadavia", "Godoy Cruz vs Independiente Rivadavia", "arg-mza", GODOY_CRUZ, RIVADAVIA,
+      ESPN.espn_derby("godoy-cruz-rivadavia", "godoy-cruz", "independiente-rivadavia", "Godoy Cruz"), 4, leaders=False),
     R("penarol-nacional", "Uruguayan Clásico", "Peñarol vs Nacional", "uru", PENAROL, NACIONAL, UY.build_clasico, 431,
       leaders="scorers"),
     R("madrid-barcelona", "El Clásico", "Real Madrid vs Barcelona", "esp", MADRID, BARCA, ES.build_clasico, 265),
@@ -404,7 +420,7 @@ def index_entry(data: dict) -> dict:
             "teams": data["teams"], "colors": data["colors"], "mode": data["mode"],
             "record": record(data) if full else data["summary"]["total"],
             "first": data["matches"][0]["date"][:4] if full else data["summary"].get("since"),
-            "allMeetings": bool(data.get("allMeetings")), "dataThrough": data.get("dataThrough")}
+            "allMeetings": bool(data.get("allMeetings")), "coverage": data.get("coverage"), "dataThrough": data.get("dataThrough")}
 
 
 def main() -> None:
