@@ -1,0 +1,2911 @@
+{
+"games": {
+"1982020016": {
+"as": 2,
+"away": "NYR",
+"date": "1982-10-08",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1982
+},
+"1982020320": {
+"as": 0,
+"away": "NJ",
+"date": "1982-12-12",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1982
+},
+"1982020394": {
+"as": 5,
+"away": "NYR",
+"date": "1982-12-30",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 1982
+},
+"1982020441": {
+"as": 3,
+"away": "NJ",
+"date": "1983-01-09",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1982
+},
+"1982020705": {
+"as": 6,
+"away": "NJ",
+"date": "1983-03-06",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1982
+},
+"1982020773": {
+"as": 2,
+"away": "NYR",
+"date": "1983-03-21",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1982
+},
+"1982020822": {
+"as": 3,
+"away": "NJ",
+"date": "1983-04-01",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1982
+},
+"1983020004": {
+"as": 2,
+"away": "NJ",
+"date": "1983-10-05",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1983
+},
+"1983020013": {
+"as": 3,
+"away": "NYR",
+"date": "1983-10-07",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 1983
+},
+"1983020158": {
+"as": 5,
+"away": "NYR",
+"date": "1983-11-08",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 1983
+},
+"1983020311": {
+"as": 7,
+"away": "NJ",
+"date": "1983-12-12",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1983
+},
+"1983020413": {
+"as": 3,
+"away": "NJ",
+"date": "1984-01-04",
+"end": "OT",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1983
+},
+"1983020676": {
+"as": 3,
+"away": "NYR",
+"date": "1984-02-28",
+"end": "OT",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1983
+},
+"1983020787": {
+"as": 5,
+"away": "NYR",
+"date": "1984-03-22",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1983
+},
+"1984020072": {
+"as": 11,
+"away": "NYR",
+"date": "1984-10-25",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 1984
+},
+"1984020182": {
+"as": 6,
+"away": "NJ",
+"date": "1984-11-18",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1984
+},
+"1984020339": {
+"as": 5,
+"away": "NYR",
+"date": "1984-12-22",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1984
+},
+"1984020410": {
+"as": 4,
+"away": "NJ",
+"date": "1985-01-06",
+"end": "OT",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1984
+},
+"1984020446": {
+"as": 2,
+"away": "NJ",
+"date": "1985-01-14",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1984
+},
+"1984020464": {
+"as": 9,
+"away": "NYR",
+"date": "1985-01-18",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 1984
+},
+"1984020737": {
+"as": 3,
+"away": "NJ",
+"date": "1985-03-17",
+"home": "NYR",
+"hs": 7,
+"playoff": false,
+"season": 1984
+},
+"1985020022": {
+"as": 3,
+"away": "NJ",
+"date": "1985-10-13",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1985
+},
+"1985020064": {
+"as": 1,
+"away": "NJ",
+"date": "1985-10-23",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1985
+},
+"1985020112": {
+"as": 5,
+"away": "NYR",
+"date": "1985-11-02",
+"end": "OT",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 1985
+},
+"1985020288": {
+"as": 4,
+"away": "NYR",
+"date": "1985-12-11",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 1985
+},
+"1985020709": {
+"as": 6,
+"away": "NYR",
+"date": "1986-03-11",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1985
+},
+"1985020777": {
+"as": 5,
+"away": "NYR",
+"date": "1986-03-25",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1985
+},
+"1985020804": {
+"as": 0,
+"away": "NJ",
+"date": "1986-03-31",
+"home": "NYR",
+"hs": 9,
+"playoff": false,
+"season": 1985
+},
+"1986020006": {
+"as": 5,
+"away": "NJ",
+"date": "1986-10-09",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1986
+},
+"1986020185": {
+"as": 2,
+"away": "NYR",
+"date": "1986-11-17",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1986
+},
+"1986020254": {
+"as": 5,
+"away": "NYR",
+"date": "1986-12-02",
+"home": "NJ",
+"hs": 8,
+"playoff": false,
+"season": 1986
+},
+"1986020356": {
+"as": 5,
+"away": "NJ",
+"date": "1986-12-23",
+"home": "NYR",
+"hs": 8,
+"playoff": false,
+"season": 1986
+},
+"1986020364": {
+"as": 7,
+"away": "NYR",
+"date": "1986-12-26",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1986
+},
+"1986020516": {
+"as": 3,
+"away": "NJ",
+"date": "1987-01-26",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1986
+},
+"1986020779": {
+"as": 8,
+"away": "NJ",
+"date": "1987-03-25",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1986
+},
+"1987020155": {
+"as": 3,
+"away": "NJ",
+"date": "1987-11-10",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1987
+},
+"1987020318": {
+"as": 3,
+"away": "NJ",
+"date": "1987-12-16",
+"home": "NYR",
+"hs": 9,
+"playoff": false,
+"season": 1987
+},
+"1987020363": {
+"as": 5,
+"away": "NYR",
+"date": "1987-12-26",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1987
+},
+"1987020623": {
+"as": 3,
+"away": "NYR",
+"date": "1988-02-19",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 1987
+},
+"1987020658": {
+"as": 2,
+"away": "NYR",
+"date": "1988-02-26",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 1987
+},
+"1987020711": {
+"as": 4,
+"away": "NJ",
+"date": "1988-03-08",
+"home": "NYR",
+"hs": 7,
+"playoff": false,
+"season": 1987
+},
+"1987020804": {
+"as": 2,
+"away": "NYR",
+"date": "1988-03-27",
+"home": "NJ",
+"hs": 7,
+"playoff": false,
+"season": 1987
+},
+"1988020027": {
+"as": 5,
+"away": "NJ",
+"date": "1988-10-10",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1988
+},
+"1988020146": {
+"as": 5,
+"away": "NYR",
+"date": "1988-11-06",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 1988
+},
+"1988020378": {
+"as": 1,
+"away": "NJ",
+"date": "1988-12-26",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1988
+},
+"1988020383": {
+"as": 7,
+"away": "NYR",
+"date": "1988-12-27",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 1988
+},
+"1988020439": {
+"as": 5,
+"away": "NJ",
+"date": "1989-01-09",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1988
+},
+"1988020633": {
+"as": 4,
+"away": "NJ",
+"date": "1989-02-20",
+"home": "NYR",
+"hs": 7,
+"playoff": false,
+"season": 1988
+},
+"1988020684": {
+"as": 3,
+"away": "NYR",
+"date": "1989-03-03",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 1988
+},
+"1989020211": {
+"as": 4,
+"away": "NYR",
+"date": "1989-11-17",
+"end": "OT",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 1989
+},
+"1989020295": {
+"as": 3,
+"away": "NJ",
+"date": "1989-12-06",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1989
+},
+"1989020386": {
+"as": 4,
+"away": "NJ",
+"date": "1989-12-26",
+"end": "OT",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1989
+},
+"1989020400": {
+"as": 2,
+"away": "NYR",
+"date": "1989-12-29",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1989
+},
+"1989020621": {
+"as": 2,
+"away": "NYR",
+"date": "1990-02-16",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 1989
+},
+"1989020637": {
+"as": 3,
+"away": "NJ",
+"date": "1990-02-19",
+"end": "OT",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1989
+},
+"1989020818": {
+"as": 4,
+"away": "NYR",
+"date": "1990-03-29",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 1989
+},
+"1990020078": {
+"as": 2,
+"away": "NYR",
+"date": "1990-10-19",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1990
+},
+"1990020176": {
+"as": 3,
+"away": "NYR",
+"date": "1990-11-09",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 1990
+},
+"1990020417": {
+"as": 2,
+"away": "NJ",
+"date": "1990-12-30",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1990
+},
+"1990020614": {
+"as": 3,
+"away": "NJ",
+"date": "1991-02-13",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1990
+},
+"1990020666": {
+"as": 2,
+"away": "NJ",
+"date": "1991-02-24",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1990
+},
+"1990020757": {
+"as": 2,
+"away": "NYR",
+"date": "1991-03-15",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 1990
+},
+"1990020809": {
+"as": 3,
+"away": "NJ",
+"date": "1991-03-26",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1990
+},
+"1991020062": {
+"as": 2,
+"away": "NJ",
+"date": "1991-10-16",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1991
+},
+"1991020384": {
+"as": 0,
+"away": "NJ",
+"date": "1991-12-23",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1991
+},
+"1991020437": {
+"as": 4,
+"away": "NYR",
+"date": "1992-01-04",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 1991
+},
+"1991020631": {
+"as": 2,
+"away": "NYR",
+"date": "1992-02-16",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1991
+},
+"1991020708": {
+"as": 7,
+"away": "NYR",
+"date": "1992-03-02",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 1991
+},
+"1991020717": {
+"as": 5,
+"away": "NJ",
+"date": "1992-03-04",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1991
+},
+"1991020806": {
+"as": 3,
+"away": "NJ",
+"date": "1992-03-22",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1991
+},
+"1991030131": {
+"as": 1,
+"away": "NJ",
+"date": "1992-04-19",
+"home": "NYR",
+"hs": 2,
+"playoff": true,
+"season": 1991,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1991030132": {
+"as": 7,
+"away": "NJ",
+"date": "1992-04-21",
+"home": "NYR",
+"hs": 3,
+"playoff": true,
+"season": 1991,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1991030133": {
+"as": 1,
+"away": "NYR",
+"date": "1992-04-23",
+"home": "NJ",
+"hs": 3,
+"playoff": true,
+"season": 1991,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1991030134": {
+"as": 3,
+"away": "NYR",
+"date": "1992-04-25",
+"home": "NJ",
+"hs": 0,
+"playoff": true,
+"season": 1991,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1991030135": {
+"as": 5,
+"away": "NJ",
+"date": "1992-04-27",
+"home": "NYR",
+"hs": 8,
+"playoff": true,
+"season": 1991,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1991030136": {
+"as": 3,
+"away": "NYR",
+"date": "1992-04-29",
+"home": "NJ",
+"hs": 5,
+"playoff": true,
+"season": 1991,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1991030137": {
+"as": 4,
+"away": "NJ",
+"date": "1992-05-01",
+"home": "NYR",
+"hs": 8,
+"playoff": true,
+"season": 1991,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1992020024": {
+"as": 2,
+"away": "NYR",
+"date": "1992-10-10",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1992
+},
+"1992020045": {
+"as": 1,
+"away": "NJ",
+"date": "1992-10-14",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1992
+},
+"1992020407": {
+"as": 3,
+"away": "NYR",
+"date": "1992-12-21",
+"home": "NJ",
+"hs": 0,
+"playoff": false,
+"season": 1992
+},
+"1992020418": {
+"as": 5,
+"away": "NJ",
+"date": "1992-12-23",
+"end": "OT",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1992
+},
+"1992020478": {
+"as": 3,
+"away": "NJ",
+"date": "1993-01-04",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1992
+},
+"1992020650": {
+"as": 4,
+"away": "NYR",
+"date": "1993-02-08",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 1992
+},
+"1992020959": {
+"as": 2,
+"away": "NYR",
+"date": "1993-04-07",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 1992
+},
+"1993020151": {
+"as": 1,
+"away": "NJ",
+"date": "1993-10-31",
+"home": "NYR",
+"hs": 4,
+"neutral": true,
+"playoff": false,
+"season": 1993
+},
+"1993020317": {
+"as": 3,
+"away": "NYR",
+"date": "1993-11-30",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 1993
+},
+"1993020346": {
+"as": 1,
+"away": "NJ",
+"date": "1993-12-05",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1993
+},
+"1993020458": {
+"as": 3,
+"away": "NJ",
+"date": "1993-12-26",
+"home": "NYR",
+"hs": 8,
+"playoff": false,
+"season": 1993
+},
+"1993020793": {
+"as": 3,
+"away": "NYR",
+"date": "1994-02-24",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 1993
+},
+"1993021014": {
+"as": 4,
+"away": "NYR",
+"date": "1994-04-02",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 1993
+},
+"1993030311": {
+"as": 4,
+"away": "NJ",
+"date": "1994-05-15",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": true,
+"season": 1993,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1993030312": {
+"as": 0,
+"away": "NJ",
+"date": "1994-05-17",
+"home": "NYR",
+"hs": 4,
+"playoff": true,
+"season": 1993,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1993030313": {
+"as": 3,
+"away": "NYR",
+"date": "1994-05-19",
+"end": "OT",
+"home": "NJ",
+"hs": 2,
+"playoff": true,
+"season": 1993,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1993030314": {
+"as": 1,
+"away": "NYR",
+"date": "1994-05-21",
+"home": "NJ",
+"hs": 3,
+"playoff": true,
+"season": 1993,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1993030315": {
+"as": 4,
+"away": "NJ",
+"date": "1994-05-23",
+"home": "NYR",
+"hs": 1,
+"playoff": true,
+"season": 1993,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1993030316": {
+"as": 4,
+"away": "NYR",
+"date": "1994-05-25",
+"home": "NJ",
+"hs": 2,
+"playoff": true,
+"season": 1993,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1993030317": {
+"as": 1,
+"away": "NJ",
+"date": "1994-05-27",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": true,
+"season": 1993,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1994020125": {
+"as": 1,
+"away": "NYR",
+"date": "1995-02-09",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1994
+},
+"1994020285": {
+"as": 4,
+"away": "NJ",
+"date": "1995-03-08",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1994
+},
+"1994020365": {
+"as": 5,
+"away": "NJ",
+"date": "1995-03-22",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1994
+},
+"1994020469": {
+"as": 0,
+"away": "NYR",
+"date": "1995-04-09",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 1994
+},
+"1995020288": {
+"as": 1,
+"away": "NJ",
+"date": "1995-11-27",
+"end": "OT",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1995
+},
+"1995020697": {
+"as": 0,
+"away": "NYR",
+"date": "1996-02-10",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1995
+},
+"1995020828": {
+"as": 2,
+"away": "NJ",
+"date": "1996-03-04",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1995
+},
+"1995020988": {
+"as": 1,
+"away": "NJ",
+"date": "1996-04-02",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1995
+},
+"1995021020": {
+"as": 2,
+"away": "NYR",
+"date": "1996-04-07",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1995
+},
+"1996020137": {
+"as": 6,
+"away": "NYR",
+"date": "1996-10-30",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 1996
+},
+"1996020562": {
+"as": 0,
+"away": "NJ",
+"date": "1997-01-12",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1996
+},
+"1996020749": {
+"as": 2,
+"away": "NJ",
+"date": "1997-02-17",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1996
+},
+"1996020761": {
+"as": 1,
+"away": "NYR",
+"date": "1997-02-19",
+"end": "OT",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 1996
+},
+"1996020963": {
+"as": 0,
+"away": "NYR",
+"date": "1997-03-27",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1996
+},
+"1996030211": {
+"as": 0,
+"away": "NYR",
+"date": "1997-05-02",
+"home": "NJ",
+"hs": 2,
+"playoff": true,
+"season": 1996,
+"series": {
+"letter": "I",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1996030212": {
+"as": 2,
+"away": "NYR",
+"date": "1997-05-04",
+"home": "NJ",
+"hs": 0,
+"playoff": true,
+"season": 1996,
+"series": {
+"letter": "I",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1996030213": {
+"as": 2,
+"away": "NJ",
+"date": "1997-05-06",
+"home": "NYR",
+"hs": 3,
+"playoff": true,
+"season": 1996,
+"series": {
+"letter": "I",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1996030214": {
+"as": 0,
+"away": "NJ",
+"date": "1997-05-08",
+"home": "NYR",
+"hs": 3,
+"playoff": true,
+"season": 1996,
+"series": {
+"letter": "I",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1996030215": {
+"as": 2,
+"away": "NYR",
+"date": "1997-05-11",
+"end": "OT",
+"home": "NJ",
+"hs": 1,
+"playoff": true,
+"season": 1996,
+"series": {
+"letter": "I",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1997020234": {
+"as": 3,
+"away": "NJ",
+"date": "1997-11-12",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1997
+},
+"1997020433": {
+"as": 3,
+"away": "NYR",
+"date": "1997-12-16",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1997
+},
+"1997020602": {
+"as": 1,
+"away": "NYR",
+"date": "1998-01-14",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1997
+},
+"1997020642": {
+"as": 3,
+"away": "NJ",
+"date": "1998-01-24",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1997
+},
+"1997020803": {
+"as": 3,
+"away": "NYR",
+"date": "1998-03-07",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 1997
+},
+"1997020813": {
+"as": 2,
+"away": "NJ",
+"date": "1998-03-09",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1997
+},
+"1998020035": {
+"as": 2,
+"away": "NJ",
+"date": "1998-10-16",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1998
+},
+"1998020135": {
+"as": 1,
+"away": "NYR",
+"date": "1998-11-03",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1998
+},
+"1998020375": {
+"as": 3,
+"away": "NYR",
+"date": "1998-12-16",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 1998
+},
+"1998020497": {
+"as": 5,
+"away": "NJ",
+"date": "1999-01-06",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1998
+},
+"1998021020": {
+"as": 1,
+"away": "NYR",
+"date": "1999-04-04",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1998
+},
+"1999020339": {
+"as": 2,
+"away": "NYR",
+"date": "1999-12-01",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 1999
+},
+"1999020485": {
+"as": 3,
+"away": "NJ",
+"date": "1999-12-26",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1999
+},
+"1999020725": {
+"as": 3,
+"away": "NJ",
+"date": "2000-02-02",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1999
+},
+"1999020745": {
+"as": 2,
+"away": "NJ",
+"date": "2000-02-08",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1999
+},
+"1999020751": {
+"as": 1,
+"away": "NYR",
+"date": "2000-02-09",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 1999
+},
+"2000020353": {
+"as": 2,
+"away": "NYR",
+"date": "2000-11-29",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 2000
+},
+"2000020606": {
+"as": 5,
+"away": "NJ",
+"date": "2001-01-06",
+"end": "OT",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 2000
+},
+"2000020834": {
+"as": 1,
+"away": "NJ",
+"date": "2001-02-11",
+"end": "OT",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2000
+},
+"2000021094": {
+"as": 0,
+"away": "NYR",
+"date": "2001-03-21",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 2000
+},
+"2000021165": {
+"as": 4,
+"away": "NYR",
+"date": "2001-03-31",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2000
+},
+"2001020085": {
+"as": 3,
+"away": "NJ",
+"date": "2001-10-17",
+"end": "OT",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2001
+},
+"2001020507": {
+"as": 2,
+"away": "NJ",
+"date": "2001-12-19",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2001
+},
+"2001020701": {
+"as": 4,
+"away": "NYR",
+"date": "2002-01-17",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 2001
+},
+"2001020884": {
+"as": 4,
+"away": "NJ",
+"date": "2002-02-26",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2001
+},
+"2001021013": {
+"as": 1,
+"away": "NYR",
+"date": "2002-03-16",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2001
+},
+"2002020287": {
+"as": 4,
+"away": "NYR",
+"date": "2002-11-21",
+"end": "OT",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 2002
+},
+"2002020506": {
+"as": 2,
+"away": "NJ",
+"date": "2002-12-23",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2002
+},
+"2002020935": {
+"as": 3,
+"away": "NYR",
+"date": "2003-02-25",
+"end": "OT",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2002
+},
+"2002021060": {
+"as": 1,
+"away": "NYR",
+"date": "2003-03-15",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2002
+},
+"2002021208": {
+"as": 2,
+"away": "NJ",
+"date": "2003-04-04",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2002
+},
+"2003020241": {
+"as": 0,
+"away": "NYR",
+"date": "2003-11-15",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 2003
+},
+"2003020662": {
+"as": 3,
+"away": "NJ",
+"date": "2004-01-15",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2003
+},
+"2003020833": {
+"as": 3,
+"away": "NYR",
+"date": "2004-02-11",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 2003
+},
+"2003020906": {
+"as": 7,
+"away": "NJ",
+"date": "2004-02-21",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2003
+},
+"2003021079": {
+"as": 3,
+"away": "NJ",
+"date": "2004-03-15",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2003
+},
+"2003021188": {
+"as": 0,
+"away": "NYR",
+"date": "2004-03-30",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 2003
+},
+"2005020030": {
+"as": 2,
+"away": "NYR",
+"date": "2005-10-08",
+"end": "OT",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2005020059": {
+"as": 1,
+"away": "NJ",
+"date": "2005-10-13",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2005
+},
+"2005020195": {
+"as": 4,
+"away": "NYR",
+"date": "2005-11-03",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 2005
+},
+"2005020206": {
+"as": 2,
+"away": "NJ",
+"date": "2005-11-05",
+"end": "SO",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2005020490": {
+"as": 3,
+"away": "NJ",
+"date": "2005-12-20",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2005
+},
+"2005020713": {
+"as": 1,
+"away": "NJ",
+"date": "2006-01-22",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2005020898": {
+"as": 1,
+"away": "NYR",
+"date": "2006-03-04",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 2005
+},
+"2005021162": {
+"as": 2,
+"away": "NYR",
+"date": "2006-04-09",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2005030131": {
+"as": 1,
+"away": "NYR",
+"date": "2006-04-22",
+"home": "NJ",
+"hs": 6,
+"playoff": true,
+"season": 2005,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2005030132": {
+"as": 1,
+"away": "NYR",
+"date": "2006-04-24",
+"home": "NJ",
+"hs": 4,
+"playoff": true,
+"season": 2005,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2005030133": {
+"as": 3,
+"away": "NJ",
+"date": "2006-04-26",
+"home": "NYR",
+"hs": 0,
+"playoff": true,
+"season": 2005,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2005030134": {
+"as": 4,
+"away": "NJ",
+"date": "2006-04-29",
+"home": "NYR",
+"hs": 2,
+"playoff": true,
+"season": 2005,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2006020073": {
+"as": 2,
+"away": "NJ",
+"date": "2006-10-16",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2006
+},
+"2006020255": {
+"as": 2,
+"away": "NJ",
+"date": "2006-11-14",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2006
+},
+"2006020488": {
+"as": 6,
+"away": "NJ",
+"date": "2006-12-17",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2006
+},
+"2006020591": {
+"as": 3,
+"away": "NYR",
+"date": "2007-01-02",
+"end": "SO",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 2006
+},
+"2006020690": {
+"as": 0,
+"away": "NYR",
+"date": "2007-01-16",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 2006
+},
+"2006020805": {
+"as": 2,
+"away": "NYR",
+"date": "2007-02-06",
+"end": "SO",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2006
+},
+"2006020900": {
+"as": 1,
+"away": "NYR",
+"date": "2007-02-20",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 2006
+},
+"2006020909": {
+"as": 3,
+"away": "NJ",
+"date": "2007-02-22",
+"end": "SO",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2006
+},
+"2007020132": {
+"as": 0,
+"away": "NJ",
+"date": "2007-10-25",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2007
+},
+"2007020191": {
+"as": 1,
+"away": "NJ",
+"date": "2007-11-03",
+"end": "SO",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2007
+},
+"2007020257": {
+"as": 4,
+"away": "NYR",
+"date": "2007-11-14",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 2007
+},
+"2007020430": {
+"as": 0,
+"away": "NJ",
+"date": "2007-12-09",
+"end": "OT",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2007
+},
+"2007020778": {
+"as": 3,
+"away": "NYR",
+"date": "2008-02-01",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 2007
+},
+"2007021104": {
+"as": 2,
+"away": "NYR",
+"date": "2008-03-19",
+"end": "SO",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 2007
+},
+"2007021155": {
+"as": 2,
+"away": "NJ",
+"date": "2008-03-27",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2007021224": {
+"as": 2,
+"away": "NYR",
+"date": "2008-04-06",
+"end": "SO",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2007030141": {
+"as": 4,
+"away": "NYR",
+"date": "2008-04-09",
+"home": "NJ",
+"hs": 1,
+"playoff": true,
+"season": 2007,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2007030142": {
+"as": 2,
+"away": "NYR",
+"date": "2008-04-11",
+"home": "NJ",
+"hs": 1,
+"playoff": true,
+"season": 2007,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2007030143": {
+"as": 4,
+"away": "NJ",
+"date": "2008-04-13",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": true,
+"season": 2007,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2007030144": {
+"as": 3,
+"away": "NJ",
+"date": "2008-04-16",
+"home": "NYR",
+"hs": 5,
+"playoff": true,
+"season": 2007,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2007030145": {
+"as": 5,
+"away": "NYR",
+"date": "2008-04-18",
+"home": "NJ",
+"hs": 3,
+"playoff": true,
+"season": 2007,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2008020034": {
+"as": 1,
+"away": "NJ",
+"date": "2008-10-13",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2008
+},
+"2008020222": {
+"as": 5,
+"away": "NYR",
+"date": "2008-11-12",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 2008
+},
+"2008020422": {
+"as": 5,
+"away": "NYR",
+"date": "2008-12-12",
+"home": "NJ",
+"hs": 8,
+"playoff": false,
+"season": 2008
+},
+"2008020520": {
+"as": 4,
+"away": "NJ",
+"date": "2008-12-27",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2008
+},
+"2008020793": {
+"as": 0,
+"away": "NYR",
+"date": "2009-02-09",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2008
+},
+"2008021134": {
+"as": 0,
+"away": "NJ",
+"date": "2009-03-30",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2008
+},
+"2009020024": {
+"as": 3,
+"away": "NYR",
+"date": "2009-10-05",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 2009
+},
+"2009020119": {
+"as": 4,
+"away": "NJ",
+"date": "2009-10-22",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2009
+},
+"2009020682": {
+"as": 1,
+"away": "NJ",
+"date": "2010-01-12",
+"end": "SO",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 2009
+},
+"2009020861": {
+"as": 1,
+"away": "NJ",
+"date": "2010-02-06",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2009
+},
+"2009020986": {
+"as": 3,
+"away": "NYR",
+"date": "2010-03-10",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 2009
+},
+"2009021097": {
+"as": 4,
+"away": "NYR",
+"date": "2010-03-25",
+"end": "SO",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2009
+},
+"2010020112": {
+"as": 1,
+"away": "NJ",
+"date": "2010-10-24",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2010
+},
+"2010020179": {
+"as": 3,
+"away": "NYR",
+"date": "2010-11-05",
+"home": "NJ",
+"hs": 0,
+"playoff": false,
+"season": 2010
+},
+"2010020545": {
+"as": 3,
+"away": "NYR",
+"date": "2010-12-29",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 2010
+},
+"2010020772": {
+"as": 3,
+"away": "NJ",
+"date": "2011-02-03",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2010
+},
+"2010020870": {
+"as": 0,
+"away": "NYR",
+"date": "2011-02-18",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 2010
+},
+"2010021215": {
+"as": 2,
+"away": "NJ",
+"date": "2011-04-09",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 2010
+},
+"2011020487": {
+"as": 4,
+"away": "NYR",
+"date": "2011-12-20",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 2011
+},
+"2011020737": {
+"as": 3,
+"away": "NYR",
+"date": "2012-01-31",
+"end": "SO",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 2011
+},
+"2011020786": {
+"as": 1,
+"away": "NJ",
+"date": "2012-02-07",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 2011
+},
+"2011020932": {
+"as": 0,
+"away": "NJ",
+"date": "2012-02-27",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2011
+},
+"2011020985": {
+"as": 1,
+"away": "NYR",
+"date": "2012-03-06",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 2011
+},
+"2011021083": {
+"as": 2,
+"away": "NJ",
+"date": "2012-03-19",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2011
+},
+"2011030311": {
+"as": 0,
+"away": "NJ",
+"date": "2012-05-14",
+"home": "NYR",
+"hs": 3,
+"playoff": true,
+"season": 2011,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2011030312": {
+"as": 3,
+"away": "NJ",
+"date": "2012-05-16",
+"home": "NYR",
+"hs": 2,
+"playoff": true,
+"season": 2011,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2011030313": {
+"as": 3,
+"away": "NYR",
+"date": "2012-05-19",
+"home": "NJ",
+"hs": 0,
+"playoff": true,
+"season": 2011,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2011030314": {
+"as": 1,
+"away": "NYR",
+"date": "2012-05-21",
+"home": "NJ",
+"hs": 4,
+"playoff": true,
+"season": 2011,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2011030315": {
+"as": 5,
+"away": "NJ",
+"date": "2012-05-23",
+"home": "NYR",
+"hs": 3,
+"playoff": true,
+"season": 2011,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2011030316": {
+"as": 2,
+"away": "NYR",
+"date": "2012-05-25",
+"end": "OT",
+"home": "NJ",
+"hs": 3,
+"playoff": true,
+"season": 2011,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2012020128": {
+"as": 1,
+"away": "NYR",
+"date": "2013-02-05",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2012
+},
+"2012020429": {
+"as": 3,
+"away": "NYR",
+"date": "2013-03-19",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 2012
+},
+"2012020671": {
+"as": 1,
+"away": "NJ",
+"date": "2013-04-21",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2012
+},
+"2012020714": {
+"as": 0,
+"away": "NJ",
+"date": "2013-04-27",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2012
+},
+"2013020116": {
+"as": 0,
+"away": "NYR",
+"date": "2013-10-19",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 2013
+},
+"2013020265": {
+"as": 3,
+"away": "NJ",
+"date": "2013-11-12",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2013
+},
+"2013020444": {
+"as": 4,
+"away": "NJ",
+"date": "2013-12-07",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2013
+},
+"2013020784": {
+"as": 7,
+"away": "NYR",
+"date": "2014-01-26",
+"home": "NJ",
+"hs": 3,
+"neutral": true,
+"playoff": false,
+"season": 2013
+},
+"2013021061": {
+"as": 2,
+"away": "NYR",
+"date": "2014-03-22",
+"home": "NJ",
+"hs": 0,
+"playoff": false,
+"season": 2013
+},
+"2014020080": {
+"as": 4,
+"away": "NYR",
+"date": "2014-10-21",
+"end": "OT",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2014
+},
+"2014020517": {
+"as": 1,
+"away": "NJ",
+"date": "2014-12-27",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2014
+},
+"2014021174": {
+"as": 1,
+"away": "NJ",
+"date": "2015-04-04",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 2014
+},
+"2014021190": {
+"as": 4,
+"away": "NYR",
+"date": "2015-04-07",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 2014
+},
+"2015020075": {
+"as": 2,
+"away": "NJ",
+"date": "2015-10-18",
+"end": "OT",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2015
+},
+"2015020745": {
+"as": 2,
+"away": "NYR",
+"date": "2016-02-02",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2015
+},
+"2015020790": {
+"as": 1,
+"away": "NJ",
+"date": "2016-02-08",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2015
+},
+"2015020893": {
+"as": 2,
+"away": "NYR",
+"date": "2016-02-23",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 2015
+},
+"2016020426": {
+"as": 0,
+"away": "NJ",
+"date": "2016-12-11",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 2016
+},
+"2016020475": {
+"as": 2,
+"away": "NJ",
+"date": "2016-12-18",
+"end": "SO",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2016
+},
+"2016020905": {
+"as": 4,
+"away": "NYR",
+"date": "2017-02-25",
+"end": "OT",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2016
+},
+"2016021077": {
+"as": 2,
+"away": "NYR",
+"date": "2017-03-21",
+"end": "OT",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2016
+},
+"2017020065": {
+"as": 3,
+"away": "NJ",
+"date": "2017-10-14",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2017
+},
+"2017020449": {
+"as": 2,
+"away": "NJ",
+"date": "2017-12-09",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 2017
+},
+"2017020530": {
+"as": 3,
+"away": "NYR",
+"date": "2017-12-21",
+"end": "SO",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 2017
+},
+"2017021229": {
+"as": 2,
+"away": "NYR",
+"date": "2018-04-03",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 2017
+},
+"2018020779": {
+"as": 4,
+"away": "NYR",
+"date": "2019-01-31",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2018
+},
+"2018020946": {
+"as": 2,
+"away": "NJ",
+"date": "2019-02-23",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 2018
+},
+"2018021053": {
+"as": 2,
+"away": "NJ",
+"date": "2019-03-09",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2018
+},
+"2018021222": {
+"as": 2,
+"away": "NYR",
+"date": "2019-04-01",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 2018
+},
+"2019020100": {
+"as": 2,
+"away": "NYR",
+"date": "2019-10-17",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 2019
+},
+"2019020403": {
+"as": 4,
+"away": "NYR",
+"date": "2019-11-30",
+"home": "NJ",
+"hs": 0,
+"playoff": false,
+"season": 2019
+},
+"2019020682": {
+"as": 3,
+"away": "NJ",
+"date": "2020-01-09",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 2019
+},
+"2019021055": {
+"as": 6,
+"away": "NJ",
+"date": "2020-03-07",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2019
+},
+"2020020046": {
+"as": 4,
+"away": "NJ",
+"date": "2021-01-19",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2020
+},
+"2020020180": {
+"as": 6,
+"away": "NYR",
+"date": "2021-03-04",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 2020
+},
+"2020020364": {
+"as": 5,
+"away": "NJ",
+"date": "2021-02-16",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2020
+},
+"2020020374": {
+"as": 6,
+"away": "NYR",
+"date": "2021-03-06",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2020
+},
+"2020020666": {
+"as": 3,
+"away": "NYR",
+"date": "2021-04-13",
+"home": "NJ",
+"hs": 0,
+"playoff": false,
+"season": 2020
+},
+"2020020676": {
+"as": 0,
+"away": "NJ",
+"date": "2021-04-15",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2020
+},
+"2020020691": {
+"as": 3,
+"away": "NJ",
+"date": "2021-04-17",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 2020
+},
+"2020020702": {
+"as": 5,
+"away": "NYR",
+"date": "2021-04-18",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2020
+},
+"2021020226": {
+"as": 3,
+"away": "NJ",
+"date": "2021-11-14",
+"end": "SO",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2021
+},
+"2021020875": {
+"as": 1,
+"away": "NJ",
+"date": "2022-03-04",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2021
+},
+"2021021005": {
+"as": 4,
+"away": "NYR",
+"date": "2022-03-22",
+"home": "NJ",
+"hs": 7,
+"playoff": false,
+"season": 2021
+},
+"2021021117": {
+"as": 3,
+"away": "NYR",
+"date": "2022-04-05",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 2021
+},
+"2022020346": {
+"as": 5,
+"away": "NJ",
+"date": "2022-11-28",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2022
+},
+"2022020450": {
+"as": 3,
+"away": "NJ",
+"date": "2022-12-12",
+"end": "OT",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2022
+},
+"2022020628": {
+"as": 3,
+"away": "NYR",
+"date": "2023-01-07",
+"end": "OT",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 2022
+},
+"2022021191": {
+"as": 1,
+"away": "NYR",
+"date": "2023-03-30",
+"home": "NJ",
+"hs": 2,
+"playoff": false,
+"season": 2022
+},
+"2022030141": {
+"as": 5,
+"away": "NYR",
+"date": "2023-04-18",
+"home": "NJ",
+"hs": 1,
+"playoff": true,
+"season": 2022,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2022030142": {
+"as": 5,
+"away": "NYR",
+"date": "2023-04-20",
+"home": "NJ",
+"hs": 1,
+"playoff": true,
+"season": 2022,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2022030143": {
+"as": 2,
+"away": "NJ",
+"date": "2023-04-22",
+"end": "OT",
+"home": "NYR",
+"hs": 1,
+"playoff": true,
+"season": 2022,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2022030144": {
+"as": 3,
+"away": "NJ",
+"date": "2023-04-24",
+"home": "NYR",
+"hs": 1,
+"playoff": true,
+"season": 2022,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2022030145": {
+"as": 0,
+"away": "NYR",
+"date": "2023-04-27",
+"home": "NJ",
+"hs": 4,
+"playoff": true,
+"season": 2022,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2022030146": {
+"as": 2,
+"away": "NJ",
+"date": "2023-04-29",
+"home": "NYR",
+"hs": 5,
+"playoff": true,
+"season": 2022,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2022030147": {
+"as": 0,
+"away": "NYR",
+"date": "2023-05-01",
+"home": "NJ",
+"hs": 4,
+"playoff": true,
+"season": 2022,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2023020261": {
+"as": 5,
+"away": "NYR",
+"date": "2023-11-18",
+"home": "NJ",
+"hs": 3,
+"playoff": false,
+"season": 2023
+},
+"2023020891": {
+"as": 5,
+"away": "NYR",
+"date": "2024-02-22",
+"home": "NJ",
+"hs": 1,
+"playoff": false,
+"season": 2023
+},
+"2023021028": {
+"as": 1,
+"away": "NJ",
+"date": "2024-03-11",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2023
+},
+"2023021198": {
+"as": 3,
+"away": "NJ",
+"date": "2024-04-03",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2023
+},
+"2024020393": {
+"as": 5,
+"away": "NJ",
+"date": "2024-12-02",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2024
+},
+"2024020545": {
+"as": 0,
+"away": "NYR",
+"date": "2024-12-23",
+"home": "NJ",
+"hs": 5,
+"playoff": false,
+"season": 2024
+},
+"2024020656": {
+"as": 2,
+"away": "NJ",
+"date": "2025-01-09",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2024
+},
+"2024021209": {
+"as": 0,
+"away": "NYR",
+"date": "2025-04-05",
+"home": "NJ",
+"hs": 4,
+"playoff": false,
+"season": 2024
+},
+"2025020991": {
+"as": 3,
+"away": "NYR",
+"date": "2026-03-07",
+"home": "NJ",
+"hs": 6,
+"playoff": false,
+"season": 2025
+},
+"2025021077": {
+"as": 6,
+"away": "NJ",
+"date": "2026-03-18",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2025
+},
+"2025021182": {
+"as": 1,
+"away": "NJ",
+"date": "2026-03-31",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2025
+},
+"2026020113": {
+"as": 1,
+"away": "NYR",
+"date": "2026-10-15",
+"home": "NJ",
+"hs": 7,
+"playoff": false,
+"season": 2026
+}
+},
+"seasons": [
+1982,
+1983,
+1984,
+1985,
+1986,
+1987,
+1988,
+1989,
+1990,
+1991,
+1992,
+1993,
+1994,
+1995,
+1996,
+1997,
+1998,
+1999,
+2000,
+2001,
+2002,
+2003,
+2004,
+2005,
+2006,
+2007,
+2008,
+2009,
+2010,
+2011,
+2012,
+2013,
+2014,
+2015,
+2016,
+2017,
+2018,
+2019,
+2020,
+2021,
+2022,
+2023,
+2024
+]
+}

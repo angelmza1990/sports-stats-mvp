@@ -17,10 +17,10 @@ import json
 import re
 import sys
 import unicodedata
-from datetime import date
 from pathlib import Path
 
 import wikitables as W
+from rivalries_us import write
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "data" / "raw" / "wikipedia" / "nba-rivalries"
@@ -243,12 +243,7 @@ def main() -> None:
         print(f"{r['name']}: regular season {reg[0]}–{reg[1]} in {len(r['seasons'])} seasons, playoffs {po[0]}–{po[1]}, "
               f"series {sw[0]}–{sw[1]}", file=sys.stderr)
         built.append(r)
-    used = {t for r in built for t in r["teams"]}
-    out = {"updated": date.today().isoformat(), "rivalries": built,
-           "franchises": {fid: {k: franchises[fid][k] for k in ("name", "short", "logo")} for fid in sorted(used)}}
-    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
-    print(f"wrote {OUTPUT.relative_to(ROOT)}: {len(built)} rivalries", file=sys.stderr)
+    write(OUTPUT, built, franchises, "nba")
 
 
 if __name__ == "__main__":

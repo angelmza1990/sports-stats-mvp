@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chess Rivalries · Chess</title>
+  <meta name="description" content="Twenty great chess rivalries, from Steinitz–Chigorin and Capablanca–Alekhine to Karpov–Kasparov and Carlsen–Nakamura: every game between them in classical, rapid and blitz, the lead game by game, year by year, with each color, their World Championship matches and the events where they met most.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="../../football/rivalries/style.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/chess-rivalries.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Chess</p>
+    <h1>Chess Rivalries</h1>
+    <p class="lede">
+      Twenty of chess's great rivalries, from the first World Championship matches to Karpov–Kasparov and Carlsen–Nakamura:
+      every game between them in their game files, classical, rapid and blitz, who leads and how the lead moved, and the matches they played for the title.
+    </p>
+    <div class="rivalry-picker" id="picker"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block tight" id="summary">
+      <div class="card versus-card">
+        <div class="rv-head" id="rv-versus"></div>
+        <div class="rv-split" id="rv-split" aria-hidden="true"></div>
+        <div class="rv-goals" id="rv-detail"></div>
+      </div>
+      <p class="blurb" id="blurb"></p>
+      <div class="stat-row" id="stats"></div>
+    </section>
+
+    <div class="filter-bar">
+      <span class="filter-label">Games</span>
+      <div class="segmented" role="tablist" aria-label="Time control" id="mode-tabs"></div>
+      <p class="filter-note" id="mode-note"></p>
+    </div>
+
+    <section class="block" id="timeline">
+      <div class="block-head">
+        <h2>The lead, game by game</h2>
+        <p>Wins minus losses after every decisive game. Above the line, the first player leads; below it, the second. Draws leave it where it was.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="timeline-legend"></div>
+        <div id="timeline-chart" class="chart"></div>
+        <p class="chart-note" id="timeline-note"></p>
+      </div>
+    </section>
+
+    <section class="block" id="years">
+      <div class="block-head">
+        <h2>Year by year</h2>
+        <p>The games of each year: the first player's wins, the draws and the second player's wins. Hover or tap a year for the events.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="years-legend"></div>
+        <div id="years-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View every game</summary>
+          <div class="data-table tall" id="games-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <div class="grid-2">
+      <section class="block" id="colors">
+        <div class="block-head">
+          <h2>With each color</h2>
+          <p id="colors-lede">Each player's results with the white and with the black pieces.</p>
+        </div>
+        <div class="card">
+          <div class="data-table" id="colors-table"></div>
+        </div>
+      </section>
+      <section class="block" id="events">
+        <div class="block-head">
+          <h2>Where they met</h2>
+          <p>The events with the most games between them.</p>
+        </div>
+        <div class="card">
+          <div id="events-list"></div>
+        </div>
+      </section>
+    </div>
+
+    <section class="block" id="title">
+      <div class="block-head">
+        <h2>Matches for the World Championship</h2>
+        <p id="title-lede"></p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="title-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> <a id="source"></a>, the game files of each player, merged so a game in both files counts once; World Championship matches from Wikipedia (CC BY-SA 4.0). <span id="data-through"></span></p>
+    <p><strong>Notes:</strong> the files don't hold every game a player ever played, above all the casual and online games of the early years, so the totals are of the games on record. Games are split into classical, rapid and blitz by their event, as on the <a href="../">chess page</a>; Chess960, blindfold, simultaneous and odds games are left out. Exhibition and casual matches with a normal time control count as classical.</p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

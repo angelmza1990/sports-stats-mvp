@@ -1,0 +1,30 @@
+/* Chess Rivalries: the football rivalries' cards and head-to-head card (football/rivalries/style.css), with flags for players. */
+
+.rivalry-picker .crests img.flag {
+  width: 24px;
+  height: 17px;
+  border-radius: 2px;
+  object-fit: cover;
+  box-shadow: 0 0 0 1px var(--border);
+}
+
+.rv-side img.rv-flag {
+  width: 56px;
+  height: 40px;
+  border-radius: 4px;
+  object-fit: cover;
+  box-shadow: 0 0 0 1px var(--border);
+}
+
+.blurb {
+  margin: 14px 2px 0;
+  color: var(--ink-2);
+  font-size: 15px;
+}
+
+@media (max-width: 640px) {
+  .rv-side img.rv-flag {
+    width: 36px;
+    height: 26px;
+  }
+}

@@ -489,7 +489,7 @@ H2H_PLAYERS = [
     ("botvinnik", "Mikhail Botvinnik", "URS", "Botvinnik", r"Botvinnik,\s*M"), ("keres", "Paul Keres", "URS", "Keres", r"Keres,\s*P"),
     ("smyslov", "Vasily Smyslov", "URS", "Smyslov", r"Smyslov,\s*V"), ("bronstein", "David Bronstein", "URS", "Bronstein", r"Bronstein,\s*D"),
     ("tal", "Mikhail Tal", "URS", "Tal", r"Tal,\s*M"), ("petrosian", "Tigran Petrosian", "URS", "Petrosian", r"Petrosian,\s*Tigran\s*V|Petrosian,\s*T$"),
-    ("spassky", "Boris Spassky", "URS", "Spassky", r"Spassky,\s*B"), ("korchnoi", "Viktor Korchnoi", "SUI", "Korchnoi", r"Korchnoi,\s*V"),
+    ("spassky", "Boris Spassky", "URS", "Spassky", r"Spassky,\s*B"), ("korchnoi", "Viktor Korchnoi", "SUI", "Korchnoi", r"Korchnoi,\s*V|Kortschnoj"),
     ("fischer", "Bobby Fischer", "USA", "Fischer", r"Fischer,\s*R"), ("karpov", "Anatoly Karpov", "URS", "Karpov", r"Karpov,\s*An"),
     ("kasparov", "Garry Kasparov", "URS", "Kasparov", r"Kasparov,\s*(?:G$|G\.|Gar)"), ("ivanchuk", "Vasyl Ivanchuk", "UKR", "Ivanchuk", r"Ivanchuk,\s*V"),
     ("anand", "Viswanathan Anand", "IND", "Anand", r"Anand,\s*(?:V$|Vis)"), ("kramnik", "Vladimir Kramnik", "RUS", "Kramnik", r"Kramnik,\s*V"),

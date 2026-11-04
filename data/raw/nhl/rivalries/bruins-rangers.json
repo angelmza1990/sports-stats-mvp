@@ -1,0 +1,6961 @@
+{
+"games": {
+"1926020036": {
+"as": 1,
+"away": "NYR",
+"date": "1926-12-07",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1926
+},
+"1926020044": {
+"as": 1,
+"away": "BOS",
+"date": "1926-12-12",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1926
+},
+"1926020106": {
+"as": 3,
+"away": "NYR",
+"date": "1927-01-18",
+"home": "BOS",
+"hs": 7,
+"playoff": false,
+"season": 1926
+},
+"1926020109": {
+"as": 2,
+"away": "BOS",
+"date": "1927-01-20",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1926
+},
+"1926020161": {
+"as": 1,
+"away": "BOS",
+"date": "1927-02-20",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1926
+},
+"1926020219": {
+"as": 3,
+"away": "NYR",
+"date": "1927-03-26",
+"end": "OT",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1926
+},
+"1926030221": {
+"as": 0,
+"away": "NYR",
+"date": "1927-04-02",
+"home": "BOS",
+"hs": 0,
+"playoff": true,
+"season": 1926,
+"series": {
+"letter": "J",
+"need": 0,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1926030222": {
+"as": 3,
+"away": "BOS",
+"date": "1927-04-04",
+"home": "NYR",
+"hs": 1,
+"playoff": true,
+"season": 1926,
+"series": {
+"letter": "J",
+"need": 0,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1927020023": {
+"as": 1,
+"away": "BOS",
+"date": "1927-11-27",
+"end": "OT",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1927
+},
+"1927020049": {
+"as": 3,
+"away": "NYR",
+"date": "1927-12-13",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1927
+},
+"1927020072": {
+"as": 0,
+"away": "NYR",
+"date": "1927-12-27",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1927
+},
+"1927020100": {
+"as": 2,
+"away": "BOS",
+"date": "1928-01-12",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1927
+},
+"1927020161": {
+"as": 2,
+"away": "BOS",
+"date": "1928-02-19",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1927
+},
+"1927020194": {
+"as": 3,
+"away": "NYR",
+"date": "1928-03-10",
+"end": "OT",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1927
+},
+"1927030221": {
+"as": 1,
+"away": "BOS",
+"date": "1928-03-31",
+"home": "NYR",
+"hs": 1,
+"playoff": true,
+"season": 1927,
+"series": {
+"letter": "J",
+"need": 0,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1927030222": {
+"as": 4,
+"away": "NYR",
+"date": "1928-04-03",
+"home": "BOS",
+"hs": 1,
+"playoff": true,
+"season": 1927,
+"series": {
+"letter": "J",
+"need": 0,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1928020036": {
+"as": 0,
+"away": "NYR",
+"date": "1928-12-04",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1928
+},
+"1928020079": {
+"as": 0,
+"away": "BOS",
+"date": "1928-12-30",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1928
+},
+"1928020110": {
+"as": 1,
+"away": "NYR",
+"date": "1929-01-15",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1928
+},
+"1928020134": {
+"as": 2,
+"away": "BOS",
+"date": "1929-01-27",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1928
+},
+"1928020198": {
+"as": 1,
+"away": "NYR",
+"date": "1929-03-05",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1928
+},
+"1928020207": {
+"as": 3,
+"away": "BOS",
+"date": "1929-03-10",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1928
+},
+"1928030211": {
+"as": 0,
+"away": "NYR",
+"date": "1929-03-28",
+"home": "BOS",
+"hs": 2,
+"playoff": true,
+"season": 1928,
+"series": {
+"letter": "I",
+"need": 2,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1928030212": {
+"as": 2,
+"away": "BOS",
+"date": "1929-03-29",
+"home": "NYR",
+"hs": 1,
+"playoff": true,
+"season": 1928,
+"series": {
+"letter": "I",
+"need": 2,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1929020010": {
+"as": 2,
+"away": "NYR",
+"date": "1929-11-19",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1929
+},
+"1929020077": {
+"as": 4,
+"away": "BOS",
+"date": "1929-12-26",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1929
+},
+"1929020096": {
+"as": 0,
+"away": "NYR",
+"date": "1930-01-07",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1929
+},
+"1929020145": {
+"as": 3,
+"away": "BOS",
+"date": "1930-02-02",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1929
+},
+"1929020180": {
+"as": 3,
+"away": "BOS",
+"date": "1930-02-23",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1929
+},
+"1929020219": {
+"as": 2,
+"away": "NYR",
+"date": "1930-03-18",
+"home": "BOS",
+"hs": 9,
+"playoff": false,
+"season": 1929
+},
+"1930020063": {
+"as": 4,
+"away": "BOS",
+"date": "1930-12-18",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1930
+},
+"1930020069": {
+"as": 2,
+"away": "NYR",
+"date": "1930-12-20",
+"end": "OT",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1930
+},
+"1930020088": {
+"as": 4,
+"away": "BOS",
+"date": "1931-01-01",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1930
+},
+"1930020107": {
+"as": 2,
+"away": "NYR",
+"date": "1931-01-13",
+"end": "OT",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1930
+},
+"1930020135": {
+"as": 4,
+"away": "BOS",
+"date": "1931-01-29",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1930
+},
+"1930020190": {
+"as": 1,
+"away": "NYR",
+"date": "1931-03-03",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1930
+},
+"1931020012": {
+"as": 1,
+"away": "BOS",
+"date": "1931-11-19",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1931
+},
+"1931020047": {
+"as": 2,
+"away": "NYR",
+"date": "1931-12-15",
+"end": "OT",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1931
+},
+"1931020089": {
+"as": 5,
+"away": "NYR",
+"date": "1932-01-12",
+"end": "OT",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1931
+},
+"1931020094": {
+"as": 1,
+"away": "BOS",
+"date": "1932-01-14",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1931
+},
+"1931020112": {
+"as": 4,
+"away": "BOS",
+"date": "1932-01-28",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1931
+},
+"1931020130": {
+"as": 1,
+"away": "NYR",
+"date": "1932-02-09",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1931
+},
+"1931020149": {
+"as": 2,
+"away": "NYR",
+"date": "1932-02-23",
+"end": "OT",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1931
+},
+"1931020154": {
+"as": 3,
+"away": "BOS",
+"date": "1932-02-25",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1931
+},
+"1932020029": {
+"as": 6,
+"away": "NYR",
+"date": "1932-11-29",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1932
+},
+"1932020048": {
+"as": 1,
+"away": "BOS",
+"date": "1932-12-11",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1932
+},
+"1932020100": {
+"as": 1,
+"away": "BOS",
+"date": "1933-01-12",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1932
+},
+"1932020145": {
+"as": 1,
+"away": "NYR",
+"date": "1933-02-07",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1932
+},
+"1932020185": {
+"as": 2,
+"away": "BOS",
+"date": "1933-03-05",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1932
+},
+"1932020213": {
+"as": 2,
+"away": "NYR",
+"date": "1933-03-21",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1932
+},
+"1933020040": {
+"as": 3,
+"away": "NYR",
+"date": "1933-12-02",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1933
+},
+"1933020066": {
+"as": 2,
+"away": "BOS",
+"date": "1933-12-17",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1933
+},
+"1933020136": {
+"as": 2,
+"away": "BOS",
+"date": "1934-01-28",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1933
+},
+"1933020139": {
+"as": 1,
+"away": "NYR",
+"date": "1934-01-30",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1933
+},
+"1933020162": {
+"as": 6,
+"away": "NYR",
+"date": "1934-02-13",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1933
+},
+"1933020211": {
+"as": 3,
+"away": "BOS",
+"date": "1934-03-15",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1933
+},
+"1934020055": {
+"as": 1,
+"away": "BOS",
+"date": "1934-12-16",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1934
+},
+"1934020059": {
+"as": 3,
+"away": "NYR",
+"date": "1934-12-18",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1934
+},
+"1934020080": {
+"as": 0,
+"away": "BOS",
+"date": "1934-12-30",
+"end": "OT",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1934
+},
+"1934020082": {
+"as": 2,
+"away": "NYR",
+"date": "1935-01-01",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1934
+},
+"1934020176": {
+"as": 0,
+"away": "BOS",
+"date": "1935-02-24",
+"end": "OT",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1934
+},
+"1934020190": {
+"as": 1,
+"away": "NYR",
+"date": "1935-03-05",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1934
+},
+"1935020019": {
+"as": 0,
+"away": "BOS",
+"date": "1935-11-24",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1935
+},
+"1935020030": {
+"as": 0,
+"away": "NYR",
+"date": "1935-12-01",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1935
+},
+"1935020059": {
+"as": 1,
+"away": "BOS",
+"date": "1935-12-22",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1935
+},
+"1935020063": {
+"as": 3,
+"away": "NYR",
+"date": "1935-12-25",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1935
+},
+"1935020087": {
+"as": 6,
+"away": "BOS",
+"date": "1936-01-12",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1935
+},
+"1935020128": {
+"as": 0,
+"away": "BOS",
+"date": "1936-02-09",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1935
+},
+"1935020149": {
+"as": 4,
+"away": "NYR",
+"date": "1936-02-23",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1935
+},
+"1935020191": {
+"as": 3,
+"away": "NYR",
+"date": "1936-03-22",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1935
+},
+"1936020015": {
+"as": 6,
+"away": "NYR",
+"date": "1936-11-17",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1936
+},
+"1936020032": {
+"as": 2,
+"away": "BOS",
+"date": "1936-11-28",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1936
+},
+"1936020072": {
+"as": 2,
+"away": "BOS",
+"date": "1936-12-31",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1936
+},
+"1936020078": {
+"as": 2,
+"away": "NYR",
+"date": "1937-01-03",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1936
+},
+"1936020114": {
+"as": 3,
+"away": "NYR",
+"date": "1937-01-26",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1936
+},
+"1936020117": {
+"as": 1,
+"away": "BOS",
+"date": "1937-01-28",
+"end": "OT",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1936
+},
+"1936020145": {
+"as": 2,
+"away": "NYR",
+"date": "1937-02-16",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1936
+},
+"1936020170": {
+"as": 1,
+"away": "BOS",
+"date": "1937-03-07",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1936
+},
+"1937020011": {
+"as": 2,
+"away": "NYR",
+"date": "1937-11-14",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1937
+},
+"1937020040": {
+"as": 0,
+"away": "BOS",
+"date": "1937-12-05",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1937
+},
+"1937020070": {
+"as": 2,
+"away": "NYR",
+"date": "1937-12-28",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1937
+},
+"1937020073": {
+"as": 3,
+"away": "BOS",
+"date": "1937-12-31",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1937
+},
+"1937020111": {
+"as": 3,
+"away": "NYR",
+"date": "1938-01-25",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1937
+},
+"1937020143": {
+"as": 3,
+"away": "BOS",
+"date": "1938-02-17",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1937
+},
+"1937020148": {
+"as": 2,
+"away": "NYR",
+"date": "1938-02-20",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1937
+},
+"1937020180": {
+"as": 2,
+"away": "BOS",
+"date": "1938-03-13",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1937
+},
+"1938020022": {
+"as": 2,
+"away": "NYR",
+"date": "1938-11-22",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1938
+},
+"1938020043": {
+"as": 3,
+"away": "BOS",
+"date": "1938-12-11",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1938
+},
+"1938020060": {
+"as": 1,
+"away": "NYR",
+"date": "1938-12-25",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1938
+},
+"1938020067": {
+"as": 1,
+"away": "BOS",
+"date": "1938-12-31",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1938
+},
+"1938020118": {
+"as": 4,
+"away": "BOS",
+"date": "1939-02-09",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1938
+},
+"1938020123": {
+"as": 3,
+"away": "NYR",
+"date": "1939-02-12",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1938
+},
+"1938020150": {
+"as": 3,
+"away": "NYR",
+"date": "1939-03-05",
+"end": "OT",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1938
+},
+"1938020159": {
+"as": 4,
+"away": "BOS",
+"date": "1939-03-12",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1938
+},
+"1938030111": {
+"as": 2,
+"away": "BOS",
+"date": "1939-03-21",
+"end": "OT",
+"home": "NYR",
+"hs": 1,
+"playoff": true,
+"season": 1938,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1938030112": {
+"as": 2,
+"away": "NYR",
+"date": "1939-03-23",
+"end": "OT",
+"home": "BOS",
+"hs": 3,
+"playoff": true,
+"season": 1938,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1938030113": {
+"as": 1,
+"away": "NYR",
+"date": "1939-03-26",
+"home": "BOS",
+"hs": 4,
+"playoff": true,
+"season": 1938,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1938030114": {
+"as": 1,
+"away": "BOS",
+"date": "1939-03-28",
+"home": "NYR",
+"hs": 2,
+"playoff": true,
+"season": 1938,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1938030115": {
+"as": 2,
+"away": "NYR",
+"date": "1939-03-30",
+"end": "OT",
+"home": "BOS",
+"hs": 1,
+"playoff": true,
+"season": 1938,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1938030116": {
+"as": 1,
+"away": "BOS",
+"date": "1939-04-01",
+"home": "NYR",
+"hs": 3,
+"playoff": true,
+"season": 1938,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1938030117": {
+"as": 1,
+"away": "NYR",
+"date": "1939-04-02",
+"end": "OT",
+"home": "BOS",
+"hs": 2,
+"playoff": true,
+"season": 1938,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1939020025": {
+"as": 2,
+"away": "NYR",
+"date": "1939-11-26",
+"end": "OT",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1939
+},
+"1939020043": {
+"as": 2,
+"away": "BOS",
+"date": "1939-12-10",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1939
+},
+"1939020067": {
+"as": 0,
+"away": "BOS",
+"date": "1939-12-29",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1939
+},
+"1939020074": {
+"as": 6,
+"away": "NYR",
+"date": "1940-01-02",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1939
+},
+"1939020098": {
+"as": 2,
+"away": "BOS",
+"date": "1940-01-21",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1939
+},
+"1939020118": {
+"as": 2,
+"away": "NYR",
+"date": "1940-02-06",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1939
+},
+"1939020161": {
+"as": 1,
+"away": "NYR",
+"date": "1940-03-12",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1939
+},
+"1939020163": {
+"as": 0,
+"away": "BOS",
+"date": "1940-03-14",
+"end": "OT",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1939
+},
+"1939030111": {
+"as": 0,
+"away": "BOS",
+"date": "1940-03-19",
+"home": "NYR",
+"hs": 4,
+"playoff": true,
+"season": 1939,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1939030112": {
+"as": 2,
+"away": "NYR",
+"date": "1940-03-21",
+"home": "BOS",
+"hs": 4,
+"playoff": true,
+"season": 1939,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1939030113": {
+"as": 3,
+"away": "NYR",
+"date": "1940-03-24",
+"home": "BOS",
+"hs": 4,
+"playoff": true,
+"season": 1939,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1939030114": {
+"as": 0,
+"away": "BOS",
+"date": "1940-03-26",
+"home": "NYR",
+"hs": 1,
+"playoff": true,
+"season": 1939,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1939030115": {
+"as": 1,
+"away": "NYR",
+"date": "1940-03-28",
+"home": "BOS",
+"hs": 0,
+"playoff": true,
+"season": 1939,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1939030116": {
+"as": 1,
+"away": "BOS",
+"date": "1940-03-30",
+"home": "NYR",
+"hs": 4,
+"playoff": true,
+"season": 1939,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1940020023": {
+"as": 2,
+"away": "BOS",
+"date": "1940-11-23",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1940
+},
+"1940020043": {
+"as": 2,
+"away": "NYR",
+"date": "1940-12-10",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1940
+},
+"1940020055": {
+"as": 3,
+"away": "BOS",
+"date": "1940-12-19",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1940
+},
+"1940020071": {
+"as": 2,
+"away": "NYR",
+"date": "1940-12-31",
+"end": "OT",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1940
+},
+"1940020092": {
+"as": 2,
+"away": "BOS",
+"date": "1941-01-16",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1940
+},
+"1940020098": {
+"as": 3,
+"away": "NYR",
+"date": "1941-01-21",
+"end": "OT",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1940
+},
+"1940020125": {
+"as": 5,
+"away": "BOS",
+"date": "1941-02-13",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1940
+},
+"1940020142": {
+"as": 2,
+"away": "NYR",
+"date": "1941-02-25",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1940
+},
+"1941020012": {
+"as": 2,
+"away": "BOS",
+"date": "1941-11-15",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1941
+},
+"1941020014": {
+"as": 1,
+"away": "NYR",
+"date": "1941-11-16",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1941
+},
+"1941020043": {
+"as": 4,
+"away": "BOS",
+"date": "1941-12-07",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1941
+},
+"1941020062": {
+"as": 2,
+"away": "NYR",
+"date": "1941-12-23",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1941
+},
+"1941020097": {
+"as": 4,
+"away": "NYR",
+"date": "1942-01-20",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1941
+},
+"1941020117": {
+"as": 1,
+"away": "BOS",
+"date": "1942-02-05",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1941
+},
+"1941020141": {
+"as": 4,
+"away": "NYR",
+"date": "1942-02-24",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1941
+},
+"1941020160": {
+"as": 2,
+"away": "BOS",
+"date": "1942-03-12",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1941
+},
+"1942020014": {
+"as": 3,
+"away": "NYR",
+"date": "1942-11-14",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1942
+},
+"1942020016": {
+"as": 4,
+"away": "BOS",
+"date": "1942-11-15",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1942
+},
+"1942020032": {
+"as": 2,
+"away": "BOS",
+"date": "1942-11-29",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1942
+},
+"1942020039": {
+"as": 4,
+"away": "NYR",
+"date": "1942-12-06",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1942
+},
+"1942020050": {
+"as": 7,
+"away": "BOS",
+"date": "1942-12-17",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1942
+},
+"1942020065": {
+"as": 5,
+"away": "NYR",
+"date": "1942-12-29",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1942
+},
+"1942020083": {
+"as": 5,
+"away": "NYR",
+"date": "1943-01-16",
+"home": "BOS",
+"hs": 7,
+"playoff": false,
+"season": 1942
+},
+"1942020085": {
+"as": 6,
+"away": "BOS",
+"date": "1943-01-17",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1942
+},
+"1942020100": {
+"as": 7,
+"away": "BOS",
+"date": "1943-01-31",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1942
+},
+"1942020148": {
+"as": 5,
+"away": "NYR",
+"date": "1943-03-16",
+"home": "BOS",
+"hs": 11,
+"playoff": false,
+"season": 1942
+},
+"1943020017": {
+"as": 6,
+"away": "BOS",
+"date": "1943-11-13",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1943
+},
+"1943020030": {
+"as": 2,
+"away": "NYR",
+"date": "1943-11-25",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1943
+},
+"1943020045": {
+"as": 6,
+"away": "NYR",
+"date": "1943-12-11",
+"home": "BOS",
+"hs": 9,
+"playoff": false,
+"season": 1943
+},
+"1943020048": {
+"as": 4,
+"away": "BOS",
+"date": "1943-12-12",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1943
+},
+"1943020068": {
+"as": 13,
+"away": "BOS",
+"date": "1944-01-02",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1943
+},
+"1943020081": {
+"as": 5,
+"away": "NYR",
+"date": "1944-01-15",
+"home": "BOS",
+"hs": 7,
+"playoff": false,
+"season": 1943
+},
+"1943020084": {
+"as": 6,
+"away": "BOS",
+"date": "1944-01-16",
+"home": "NYR",
+"hs": 8,
+"playoff": false,
+"season": 1943
+},
+"1943020103": {
+"as": 2,
+"away": "NYR",
+"date": "1944-02-05",
+"home": "BOS",
+"hs": 7,
+"playoff": false,
+"season": 1943
+},
+"1943020129": {
+"as": 9,
+"away": "NYR",
+"date": "1944-03-04",
+"home": "BOS",
+"hs": 10,
+"playoff": false,
+"season": 1943
+},
+"1943020134": {
+"as": 4,
+"away": "BOS",
+"date": "1944-03-05",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1943
+},
+"1944020018": {
+"as": 5,
+"away": "BOS",
+"date": "1944-11-12",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1944
+},
+"1944020033": {
+"as": 4,
+"away": "NYR",
+"date": "1944-11-26",
+"home": "BOS",
+"hs": 8,
+"playoff": false,
+"season": 1944
+},
+"1944020047": {
+"as": 5,
+"away": "NYR",
+"date": "1944-12-12",
+"home": "BOS",
+"hs": 7,
+"playoff": false,
+"season": 1944
+},
+"1944020066": {
+"as": 2,
+"away": "BOS",
+"date": "1944-12-31",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1944
+},
+"1944020077": {
+"as": 1,
+"away": "BOS",
+"date": "1945-01-11",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1944
+},
+"1944020088": {
+"as": 3,
+"away": "NYR",
+"date": "1945-01-21",
+"home": "BOS",
+"hs": 14,
+"playoff": false,
+"season": 1944
+},
+"1944020105": {
+"as": 3,
+"away": "NYR",
+"date": "1945-02-04",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1944
+},
+"1944020117": {
+"as": 1,
+"away": "NYR",
+"date": "1945-02-17",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1944
+},
+"1944020118": {
+"as": 1,
+"away": "BOS",
+"date": "1945-02-18",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1944
+},
+"1944020125": {
+"as": 4,
+"away": "BOS",
+"date": "1945-02-25",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1944
+},
+"1945020018": {
+"as": 7,
+"away": "BOS",
+"date": "1945-11-11",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1945
+},
+"1945020035": {
+"as": 1,
+"away": "NYR",
+"date": "1945-11-28",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1945
+},
+"1945020054": {
+"as": 7,
+"away": "NYR",
+"date": "1945-12-19",
+"home": "BOS",
+"hs": 8,
+"playoff": false,
+"season": 1945
+},
+"1945020073": {
+"as": 2,
+"away": "BOS",
+"date": "1946-01-06",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1945
+},
+"1945020083": {
+"as": 2,
+"away": "NYR",
+"date": "1946-01-16",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1945
+},
+"1945020084": {
+"as": 4,
+"away": "BOS",
+"date": "1946-01-17",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1945
+},
+"1945020113": {
+"as": 2,
+"away": "BOS",
+"date": "1946-02-14",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1945
+},
+"1945020115": {
+"as": 6,
+"away": "NYR",
+"date": "1946-02-16",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1945
+},
+"1945020141": {
+"as": 3,
+"away": "BOS",
+"date": "1946-03-12",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1945
+},
+"1945020142": {
+"as": 5,
+"away": "NYR",
+"date": "1946-03-13",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1945
+},
+"1946020012": {
+"as": 1,
+"away": "NYR",
+"date": "1946-10-26",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1946
+},
+"1946020015": {
+"as": 3,
+"away": "BOS",
+"date": "1946-10-30",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1946
+},
+"1946020028": {
+"as": 4,
+"away": "BOS",
+"date": "1946-11-10",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1946
+},
+"1946020047": {
+"as": 2,
+"away": "NYR",
+"date": "1946-11-27",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1946
+},
+"1946020059": {
+"as": 6,
+"away": "NYR",
+"date": "1946-12-08",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1946
+},
+"1946020068": {
+"as": 2,
+"away": "NYR",
+"date": "1946-12-18",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1946
+},
+"1946020082": {
+"as": 2,
+"away": "BOS",
+"date": "1946-12-29",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1946
+},
+"1946020086": {
+"as": 1,
+"away": "NYR",
+"date": "1947-01-01",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1946
+},
+"1946020094": {
+"as": 3,
+"away": "BOS",
+"date": "1947-01-08",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1946
+},
+"1946020134": {
+"as": 1,
+"away": "NYR",
+"date": "1947-02-12",
+"home": "BOS",
+"hs": 10,
+"playoff": false,
+"season": 1946
+},
+"1946020141": {
+"as": 0,
+"away": "BOS",
+"date": "1947-02-19",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1946
+},
+"1946020154": {
+"as": 3,
+"away": "BOS",
+"date": "1947-03-02",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1946
+},
+"1947020006": {
+"as": 1,
+"away": "NYR",
+"date": "1947-10-19",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1947
+},
+"1947020014": {
+"as": 3,
+"away": "BOS",
+"date": "1947-10-29",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1947
+},
+"1947020029": {
+"as": 8,
+"away": "BOS",
+"date": "1947-11-12",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1947
+},
+"1947020056": {
+"as": 5,
+"away": "NYR",
+"date": "1947-12-06",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1947
+},
+"1947020069": {
+"as": 2,
+"away": "BOS",
+"date": "1947-12-17",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1947
+},
+"1947020085": {
+"as": 3,
+"away": "BOS",
+"date": "1947-12-31",
+"home": "NYR",
+"hs": 7,
+"playoff": false,
+"season": 1947
+},
+"1947020087": {
+"as": 1,
+"away": "NYR",
+"date": "1948-01-01",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1947
+},
+"1947020115": {
+"as": 4,
+"away": "NYR",
+"date": "1948-01-25",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1947
+},
+"1947020136": {
+"as": 4,
+"away": "NYR",
+"date": "1948-02-14",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1947
+},
+"1947020146": {
+"as": 1,
+"away": "BOS",
+"date": "1948-02-22",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1947
+},
+"1947020165": {
+"as": 3,
+"away": "NYR",
+"date": "1948-03-10",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1947
+},
+"1947020173": {
+"as": 6,
+"away": "BOS",
+"date": "1948-03-16",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1947
+},
+"1948020011": {
+"as": 1,
+"away": "NYR",
+"date": "1948-10-24",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1948
+},
+"1948020019": {
+"as": 0,
+"away": "BOS",
+"date": "1948-10-31",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1948
+},
+"1948020038": {
+"as": 4,
+"away": "NYR",
+"date": "1948-11-21",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1948
+},
+"1948020057": {
+"as": 2,
+"away": "BOS",
+"date": "1948-12-07",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1948
+},
+"1948020084": {
+"as": 2,
+"away": "BOS",
+"date": "1948-12-31",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1948
+},
+"1948020086": {
+"as": 1,
+"away": "NYR",
+"date": "1949-01-01",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1948
+},
+"1948020107": {
+"as": 5,
+"away": "BOS",
+"date": "1949-01-19",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1948
+},
+"1948020123": {
+"as": 3,
+"away": "NYR",
+"date": "1949-02-02",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1948
+},
+"1948020137": {
+"as": 2,
+"away": "NYR",
+"date": "1949-02-12",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1948
+},
+"1948020149": {
+"as": 3,
+"away": "BOS",
+"date": "1949-02-23",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1948
+},
+"1948020166": {
+"as": 1,
+"away": "NYR",
+"date": "1949-03-09",
+"home": "BOS",
+"hs": 8,
+"playoff": false,
+"season": 1948
+},
+"1948020172": {
+"as": 4,
+"away": "BOS",
+"date": "1949-03-15",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1948
+},
+"1949020006": {
+"as": 2,
+"away": "NYR",
+"date": "1949-10-16",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1949
+},
+"1949020015": {
+"as": 2,
+"away": "BOS",
+"date": "1949-10-26",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1949
+},
+"1949020041": {
+"as": 1,
+"away": "BOS",
+"date": "1949-11-16",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1949
+},
+"1949020057": {
+"as": 1,
+"away": "NYR",
+"date": "1949-11-27",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1949
+},
+"1949020083": {
+"as": 3,
+"away": "NYR",
+"date": "1949-12-17",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1949
+},
+"1949020100": {
+"as": 1,
+"away": "BOS",
+"date": "1949-12-31",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1949
+},
+"1949020103": {
+"as": 0,
+"away": "NYR",
+"date": "1950-01-01",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1949
+},
+"1949020120": {
+"as": 4,
+"away": "BOS",
+"date": "1950-01-18",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1949
+},
+"1949020134": {
+"as": 2,
+"away": "NYR",
+"date": "1950-01-28",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1949
+},
+"1949020142": {
+"as": 2,
+"away": "NYR",
+"date": "1950-02-01",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1949
+},
+"1949020157": {
+"as": 2,
+"away": "BOS",
+"date": "1950-02-15",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1949
+},
+"1949020173": {
+"as": 3,
+"away": "BOS",
+"date": "1950-02-26",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1949
+},
+"1949020174": {
+"as": 1,
+"away": "NYR",
+"date": "1950-03-04",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1949
+},
+"1949020194": {
+"as": 4,
+"away": "BOS",
+"date": "1950-03-15",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1949
+},
+"1950020014": {
+"as": 0,
+"away": "NYR",
+"date": "1950-10-22",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1950
+},
+"1950020016": {
+"as": 1,
+"away": "BOS",
+"date": "1950-10-25",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1950
+},
+"1950020041": {
+"as": 4,
+"away": "BOS",
+"date": "1950-11-15",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1950
+},
+"1950020055": {
+"as": 3,
+"away": "NYR",
+"date": "1950-11-25",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1950
+},
+"1950020065": {
+"as": 3,
+"away": "NYR",
+"date": "1950-12-02",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1950
+},
+"1950020068": {
+"as": 5,
+"away": "BOS",
+"date": "1950-12-03",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1950
+},
+"1950020091": {
+"as": 4,
+"away": "BOS",
+"date": "1950-12-20",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1950
+},
+"1950020104": {
+"as": 0,
+"away": "BOS",
+"date": "1950-12-31",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1950
+},
+"1950020106": {
+"as": 2,
+"away": "NYR",
+"date": "1951-01-01",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1950
+},
+"1950020125": {
+"as": 3,
+"away": "BOS",
+"date": "1951-01-17",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1950
+},
+"1950020132": {
+"as": 1,
+"away": "NYR",
+"date": "1951-01-21",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1950
+},
+"1950020152": {
+"as": 2,
+"away": "NYR",
+"date": "1951-02-07",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1950
+},
+"1950020169": {
+"as": 2,
+"away": "BOS",
+"date": "1951-02-21",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1950
+},
+"1950020180": {
+"as": 3,
+"away": "NYR",
+"date": "1951-03-03",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1950
+},
+"1951020014": {
+"as": 1,
+"away": "NYR",
+"date": "1951-10-21",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1951
+},
+"1951020016": {
+"as": 3,
+"away": "BOS",
+"date": "1951-10-24",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1951
+},
+"1951020051": {
+"as": 3,
+"away": "BOS",
+"date": "1951-11-21",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1951
+},
+"1951020059": {
+"as": 1,
+"away": "NYR",
+"date": "1951-11-27",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1951
+},
+"1951020070": {
+"as": 3,
+"away": "BOS",
+"date": "1951-12-05",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1951
+},
+"1951020076": {
+"as": 2,
+"away": "NYR",
+"date": "1951-12-11",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1951
+},
+"1951020077": {
+"as": 3,
+"away": "BOS",
+"date": "1951-12-12",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1951
+},
+"1951020105": {
+"as": 4,
+"away": "NYR",
+"date": "1952-01-01",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1951
+},
+"1951020130": {
+"as": 3,
+"away": "NYR",
+"date": "1952-01-22",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1951
+},
+"1951020153": {
+"as": 4,
+"away": "NYR",
+"date": "1952-02-09",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1951
+},
+"1951020158": {
+"as": 2,
+"away": "BOS",
+"date": "1952-02-13",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1951
+},
+"1951020171": {
+"as": 2,
+"away": "BOS",
+"date": "1952-02-24",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1951
+},
+"1951020183": {
+"as": 1,
+"away": "NYR",
+"date": "1952-03-04",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1951
+},
+"1951020204": {
+"as": 4,
+"away": "BOS",
+"date": "1952-03-19",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1951
+},
+"1952020016": {
+"as": 2,
+"away": "NYR",
+"date": "1952-10-19",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1952
+},
+"1952020018": {
+"as": 3,
+"away": "BOS",
+"date": "1952-10-22",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1952
+},
+"1952020062": {
+"as": 1,
+"away": "NYR",
+"date": "1952-11-27",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1952
+},
+"1952020078": {
+"as": 4,
+"away": "BOS",
+"date": "1952-12-10",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1952
+},
+"1952020086": {
+"as": 0,
+"away": "BOS",
+"date": "1952-12-17",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1952
+},
+"1952020097": {
+"as": 2,
+"away": "NYR",
+"date": "1952-12-25",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1952
+},
+"1952020109": {
+"as": 2,
+"away": "BOS",
+"date": "1953-01-04",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1952
+},
+"1952020135": {
+"as": 0,
+"away": "NYR",
+"date": "1953-01-24",
+"home": "BOS",
+"hs": 9,
+"playoff": false,
+"season": 1952
+},
+"1952020138": {
+"as": 2,
+"away": "NYR",
+"date": "1953-01-25",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1952
+},
+"1952020161": {
+"as": 4,
+"away": "NYR",
+"date": "1953-02-14",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1952
+},
+"1952020167": {
+"as": 2,
+"away": "BOS",
+"date": "1953-02-18",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1952
+},
+"1952020175": {
+"as": 1,
+"away": "BOS",
+"date": "1953-02-25",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1952
+},
+"1952020189": {
+"as": 2,
+"away": "NYR",
+"date": "1953-03-07",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1952
+},
+"1952020203": {
+"as": 2,
+"away": "BOS",
+"date": "1953-03-18",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1952
+},
+"1953020016": {
+"as": 2,
+"away": "NYR",
+"date": "1953-10-18",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1953
+},
+"1953020019": {
+"as": 3,
+"away": "BOS",
+"date": "1953-10-22",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1953
+},
+"1953020061": {
+"as": 3,
+"away": "BOS",
+"date": "1953-11-25",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1953
+},
+"1953020064": {
+"as": 2,
+"away": "NYR",
+"date": "1953-11-26",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1953
+},
+"1953020090": {
+"as": 3,
+"away": "BOS",
+"date": "1953-12-16",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1953
+},
+"1953020105": {
+"as": 6,
+"away": "BOS",
+"date": "1953-12-29",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1953
+},
+"1953020108": {
+"as": 2,
+"away": "NYR",
+"date": "1954-01-01",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1953
+},
+"1953020131": {
+"as": 3,
+"away": "BOS",
+"date": "1954-01-20",
+"home": "NYR",
+"hs": 8,
+"playoff": false,
+"season": 1953
+},
+"1953020136": {
+"as": 4,
+"away": "NYR",
+"date": "1954-01-23",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1953
+},
+"1953020139": {
+"as": 1,
+"away": "NYR",
+"date": "1954-01-24",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1953
+},
+"1953020162": {
+"as": 0,
+"away": "NYR",
+"date": "1954-02-13",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1953
+},
+"1953020168": {
+"as": 1,
+"away": "BOS",
+"date": "1954-02-17",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1953
+},
+"1953020176": {
+"as": 5,
+"away": "BOS",
+"date": "1954-02-24",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1953
+},
+"1953020195": {
+"as": 0,
+"away": "NYR",
+"date": "1954-03-11",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1953
+},
+"1954020009": {
+"as": 3,
+"away": "NYR",
+"date": "1954-10-14",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1954
+},
+"1954020015": {
+"as": 2,
+"away": "BOS",
+"date": "1954-10-20",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1954
+},
+"1954020047": {
+"as": 2,
+"away": "BOS",
+"date": "1954-11-17",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1954
+},
+"1954020057": {
+"as": 1,
+"away": "BOS",
+"date": "1954-11-24",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1954
+},
+"1954020060": {
+"as": 2,
+"away": "NYR",
+"date": "1954-11-25",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1954
+},
+"1954020072": {
+"as": 3,
+"away": "NYR",
+"date": "1954-12-04",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1954
+},
+"1954020106": {
+"as": 1,
+"away": "BOS",
+"date": "1954-12-30",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1954
+},
+"1954020109": {
+"as": 0,
+"away": "NYR",
+"date": "1955-01-01",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1954
+},
+"1954020112": {
+"as": 3,
+"away": "BOS",
+"date": "1955-01-02",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1954
+},
+"1954020138": {
+"as": 1,
+"away": "NYR",
+"date": "1955-01-22",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1954
+},
+"1954020141": {
+"as": 2,
+"away": "NYR",
+"date": "1955-01-23",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1954
+},
+"1954020164": {
+"as": 5,
+"away": "NYR",
+"date": "1955-02-12",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1954
+},
+"1954020169": {
+"as": 2,
+"away": "BOS",
+"date": "1955-02-16",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1954
+},
+"1954020186": {
+"as": 2,
+"away": "BOS",
+"date": "1955-03-02",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1954
+},
+"1955020015": {
+"as": 1,
+"away": "NYR",
+"date": "1955-10-16",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1955
+},
+"1955020029": {
+"as": 1,
+"away": "BOS",
+"date": "1955-10-29",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1955
+},
+"1955020042": {
+"as": 1,
+"away": "NYR",
+"date": "1955-11-10",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1955
+},
+"1955020059": {
+"as": 0,
+"away": "BOS",
+"date": "1955-11-23",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1955
+},
+"1955020062": {
+"as": 5,
+"away": "NYR",
+"date": "1955-11-24",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1955
+},
+"1955020096": {
+"as": 3,
+"away": "BOS",
+"date": "1955-12-21",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1955
+},
+"1955020109": {
+"as": 2,
+"away": "BOS",
+"date": "1955-12-31",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1955
+},
+"1955020110": {
+"as": 4,
+"away": "NYR",
+"date": "1956-01-01",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1955
+},
+"1955020137": {
+"as": 1,
+"away": "NYR",
+"date": "1956-01-22",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1955
+},
+"1955020152": {
+"as": 1,
+"away": "NYR",
+"date": "1956-02-04",
+"home": "BOS",
+"hs": 7,
+"playoff": false,
+"season": 1955
+},
+"1955020158": {
+"as": 3,
+"away": "BOS",
+"date": "1956-02-08",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1955
+},
+"1955020173": {
+"as": 3,
+"away": "BOS",
+"date": "1956-02-19",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1955
+},
+"1955020185": {
+"as": 2,
+"away": "BOS",
+"date": "1956-02-29",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1955
+},
+"1955020190": {
+"as": 2,
+"away": "NYR",
+"date": "1956-03-03",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1955
+},
+"1956020009": {
+"as": 0,
+"away": "BOS",
+"date": "1956-10-17",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1956
+},
+"1956020030": {
+"as": 1,
+"away": "NYR",
+"date": "1956-11-04",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1956
+},
+"1956020032": {
+"as": 4,
+"away": "BOS",
+"date": "1956-11-07",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1956
+},
+"1956020046": {
+"as": 4,
+"away": "BOS",
+"date": "1956-11-17",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1956
+},
+"1956020053": {
+"as": 4,
+"away": "NYR",
+"date": "1956-11-22",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1956
+},
+"1956020060": {
+"as": 1,
+"away": "BOS",
+"date": "1956-11-28",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1956
+},
+"1956020106": {
+"as": 3,
+"away": "NYR",
+"date": "1957-01-01",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1956
+},
+"1956020137": {
+"as": 5,
+"away": "NYR",
+"date": "1957-01-26",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1956
+},
+"1956020149": {
+"as": 1,
+"away": "NYR",
+"date": "1957-02-03",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1956
+},
+"1956020151": {
+"as": 2,
+"away": "BOS",
+"date": "1957-02-06",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1956
+},
+"1956020169": {
+"as": 2,
+"away": "BOS",
+"date": "1957-02-20",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1956
+},
+"1956020182": {
+"as": 3,
+"away": "NYR",
+"date": "1957-03-02",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1956
+},
+"1956020196": {
+"as": 2,
+"away": "BOS",
+"date": "1957-03-13",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1956
+},
+"1956020208": {
+"as": 4,
+"away": "NYR",
+"date": "1957-03-23",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1956
+},
+"1957020008": {
+"as": 1,
+"away": "NYR",
+"date": "1957-10-13",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1957
+},
+"1957020010": {
+"as": 6,
+"away": "BOS",
+"date": "1957-10-16",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1957
+},
+"1957020028": {
+"as": 3,
+"away": "NYR",
+"date": "1957-10-31",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1957
+},
+"1957020031": {
+"as": 0,
+"away": "BOS",
+"date": "1957-11-02",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1957
+},
+"1957020060": {
+"as": 5,
+"away": "BOS",
+"date": "1957-11-27",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1957
+},
+"1957020063": {
+"as": 0,
+"away": "NYR",
+"date": "1957-11-28",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1957
+},
+"1957020090": {
+"as": 3,
+"away": "NYR",
+"date": "1957-12-19",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1957
+},
+"1957020112": {
+"as": 7,
+"away": "BOS",
+"date": "1958-01-04",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1957
+},
+"1957020126": {
+"as": 3,
+"away": "NYR",
+"date": "1958-01-16",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1957
+},
+"1957020143": {
+"as": 1,
+"away": "BOS",
+"date": "1958-01-29",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1957
+},
+"1957020150": {
+"as": 3,
+"away": "NYR",
+"date": "1958-02-02",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1957
+},
+"1957020166": {
+"as": 2,
+"away": "BOS",
+"date": "1958-02-16",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1957
+},
+"1957020197": {
+"as": 4,
+"away": "NYR",
+"date": "1958-03-15",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1957
+},
+"1957020202": {
+"as": 1,
+"away": "BOS",
+"date": "1958-03-19",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1957
+},
+"1957030121": {
+"as": 3,
+"away": "BOS",
+"date": "1958-03-25",
+"home": "NYR",
+"hs": 5,
+"playoff": true,
+"season": 1957,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1957030122": {
+"as": 4,
+"away": "BOS",
+"date": "1958-03-27",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": true,
+"season": 1957,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1957030123": {
+"as": 0,
+"away": "NYR",
+"date": "1958-03-29",
+"home": "BOS",
+"hs": 5,
+"playoff": true,
+"season": 1957,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1957030124": {
+"as": 5,
+"away": "NYR",
+"date": "1958-04-01",
+"home": "BOS",
+"hs": 2,
+"playoff": true,
+"season": 1957,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1957030125": {
+"as": 1,
+"away": "NYR",
+"date": "1958-04-03",
+"home": "BOS",
+"hs": 6,
+"playoff": true,
+"season": 1957,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1957030126": {
+"as": 2,
+"away": "NYR",
+"date": "1958-04-05",
+"home": "BOS",
+"hs": 8,
+"playoff": true,
+"season": 1957,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1958020005": {
+"as": 4,
+"away": "NYR",
+"date": "1958-10-11",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1958
+},
+"1958020009": {
+"as": 4,
+"away": "BOS",
+"date": "1958-10-15",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1958
+},
+"1958020027": {
+"as": 2,
+"away": "BOS",
+"date": "1958-10-29",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1958
+},
+"1958020040": {
+"as": 5,
+"away": "NYR",
+"date": "1958-11-09",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1958
+},
+"1958020046": {
+"as": 2,
+"away": "BOS",
+"date": "1958-11-15",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1958
+},
+"1958020064": {
+"as": 1,
+"away": "NYR",
+"date": "1958-11-27",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1958
+},
+"1958020067": {
+"as": 3,
+"away": "BOS",
+"date": "1958-11-29",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1958
+},
+"1958020105": {
+"as": 3,
+"away": "BOS",
+"date": "1958-12-31",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1958
+},
+"1958020108": {
+"as": 5,
+"away": "NYR",
+"date": "1959-01-01",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1958
+},
+"1958020140": {
+"as": 8,
+"away": "NYR",
+"date": "1959-01-25",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1958
+},
+"1958020157": {
+"as": 1,
+"away": "NYR",
+"date": "1959-02-08",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1958
+},
+"1958020159": {
+"as": 5,
+"away": "BOS",
+"date": "1959-02-11",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1958
+},
+"1958020195": {
+"as": 4,
+"away": "NYR",
+"date": "1959-03-12",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1958
+},
+"1958020203": {
+"as": 5,
+"away": "BOS",
+"date": "1959-03-18",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1958
+},
+"1959020005": {
+"as": 4,
+"away": "NYR",
+"date": "1959-10-10",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1959
+},
+"1959020009": {
+"as": 4,
+"away": "BOS",
+"date": "1959-10-14",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1959
+},
+"1959020043": {
+"as": 3,
+"away": "BOS",
+"date": "1959-11-11",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1959
+},
+"1959020060": {
+"as": 3,
+"away": "BOS",
+"date": "1959-11-25",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1959
+},
+"1959020063": {
+"as": 3,
+"away": "NYR",
+"date": "1959-11-26",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1959
+},
+"1959020083": {
+"as": 4,
+"away": "NYR",
+"date": "1959-12-12",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1959
+},
+"1959020086": {
+"as": 3,
+"away": "BOS",
+"date": "1959-12-13",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1959
+},
+"1959020103": {
+"as": 4,
+"away": "BOS",
+"date": "1959-12-29",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1959
+},
+"1959020106": {
+"as": 3,
+"away": "NYR",
+"date": "1960-01-01",
+"home": "BOS",
+"hs": 7,
+"playoff": false,
+"season": 1959
+},
+"1959020124": {
+"as": 0,
+"away": "NYR",
+"date": "1960-01-14",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1959
+},
+"1959020166": {
+"as": 0,
+"away": "NYR",
+"date": "1960-02-14",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1959
+},
+"1959020175": {
+"as": 2,
+"away": "BOS",
+"date": "1960-02-21",
+"home": "NYR",
+"hs": 7,
+"playoff": false,
+"season": 1959
+},
+"1959020195": {
+"as": 3,
+"away": "NYR",
+"date": "1960-03-10",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1959
+},
+"1959020203": {
+"as": 3,
+"away": "BOS",
+"date": "1960-03-16",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1959
+},
+"1960020001": {
+"as": 1,
+"away": "BOS",
+"date": "1960-10-05",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1960
+},
+"1960020029": {
+"as": 4,
+"away": "NYR",
+"date": "1960-10-27",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1960
+},
+"1960020054": {
+"as": 3,
+"away": "BOS",
+"date": "1960-11-16",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1960
+},
+"1960020061": {
+"as": 3,
+"away": "BOS",
+"date": "1960-11-23",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1960
+},
+"1960020064": {
+"as": 5,
+"away": "NYR",
+"date": "1960-11-24",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1960
+},
+"1960020083": {
+"as": 3,
+"away": "NYR",
+"date": "1960-12-10",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1960
+},
+"1960020086": {
+"as": 2,
+"away": "BOS",
+"date": "1960-12-11",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1960
+},
+"1960020123": {
+"as": 4,
+"away": "NYR",
+"date": "1961-01-12",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1960
+},
+"1960020139": {
+"as": 1,
+"away": "BOS",
+"date": "1961-01-25",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1960
+},
+"1960020153": {
+"as": 2,
+"away": "NYR",
+"date": "1961-02-04",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1960
+},
+"1960020156": {
+"as": 2,
+"away": "BOS",
+"date": "1961-02-05",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1960
+},
+"1960020165": {
+"as": 3,
+"away": "NYR",
+"date": "1961-02-12",
+"home": "BOS",
+"hs": 8,
+"playoff": false,
+"season": 1960
+},
+"1960020185": {
+"as": 1,
+"away": "BOS",
+"date": "1961-03-01",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1960
+},
+"1960020203": {
+"as": 2,
+"away": "NYR",
+"date": "1961-03-15",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1960
+},
+"1961020001": {
+"as": 6,
+"away": "NYR",
+"date": "1961-10-11",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1961
+},
+"1961020003": {
+"as": 3,
+"away": "BOS",
+"date": "1961-10-12",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1961
+},
+"1961020037": {
+"as": 4,
+"away": "BOS",
+"date": "1961-11-08",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1961
+},
+"1961020056": {
+"as": 4,
+"away": "NYR",
+"date": "1961-11-23",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1961
+},
+"1961020068": {
+"as": 1,
+"away": "NYR",
+"date": "1961-12-02",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1961
+},
+"1961020071": {
+"as": 1,
+"away": "BOS",
+"date": "1961-12-03",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1961
+},
+"1961020104": {
+"as": 7,
+"away": "BOS",
+"date": "1961-12-31",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1961
+},
+"1961020106": {
+"as": 4,
+"away": "NYR",
+"date": "1962-01-01",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1961
+},
+"1961020141": {
+"as": 0,
+"away": "BOS",
+"date": "1962-01-31",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1961
+},
+"1961020144": {
+"as": 5,
+"away": "NYR",
+"date": "1962-02-01",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1961
+},
+"1961020160": {
+"as": 5,
+"away": "NYR",
+"date": "1962-02-11",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1961
+},
+"1961020170": {
+"as": 2,
+"away": "BOS",
+"date": "1962-02-21",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1961
+},
+"1961020179": {
+"as": 2,
+"away": "BOS",
+"date": "1962-02-28",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1961
+},
+"1961020205": {
+"as": 4,
+"away": "NYR",
+"date": "1962-03-22",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1961
+},
+"1962020031": {
+"as": 4,
+"away": "NYR",
+"date": "1962-11-04",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1962
+},
+"1962020043": {
+"as": 2,
+"away": "BOS",
+"date": "1962-11-14",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1962
+},
+"1962020050": {
+"as": 2,
+"away": "BOS",
+"date": "1962-11-21",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1962
+},
+"1962020053": {
+"as": 7,
+"away": "NYR",
+"date": "1962-11-22",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1962
+},
+"1962020074": {
+"as": 3,
+"away": "NYR",
+"date": "1962-12-08",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1962
+},
+"1962020077": {
+"as": 4,
+"away": "BOS",
+"date": "1962-12-09",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1962
+},
+"1962020097": {
+"as": 2,
+"away": "NYR",
+"date": "1962-12-25",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1962
+},
+"1962020099": {
+"as": 3,
+"away": "BOS",
+"date": "1962-12-27",
+"home": "NYR",
+"hs": 9,
+"playoff": false,
+"season": 1962
+},
+"1962020128": {
+"as": 5,
+"away": "NYR",
+"date": "1963-01-19",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1962
+},
+"1962020150": {
+"as": 6,
+"away": "BOS",
+"date": "1963-02-03",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1962
+},
+"1962020159": {
+"as": 3,
+"away": "NYR",
+"date": "1963-02-12",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1962
+},
+"1962020169": {
+"as": 3,
+"away": "BOS",
+"date": "1963-02-20",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1962
+},
+"1962020204": {
+"as": 1,
+"away": "BOS",
+"date": "1963-03-20",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1962
+},
+"1962020205": {
+"as": 2,
+"away": "NYR",
+"date": "1963-03-21",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1962
+},
+"1963020015": {
+"as": 1,
+"away": "BOS",
+"date": "1963-10-20",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1963
+},
+"1963020016": {
+"as": 2,
+"away": "NYR",
+"date": "1963-10-24",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1963
+},
+"1963020025": {
+"as": 3,
+"away": "BOS",
+"date": "1963-10-30",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1963
+},
+"1963020049": {
+"as": 1,
+"away": "BOS",
+"date": "1963-11-20",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1963
+},
+"1963020058": {
+"as": 3,
+"away": "NYR",
+"date": "1963-11-28",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1963
+},
+"1963020071": {
+"as": 6,
+"away": "NYR",
+"date": "1963-12-07",
+"home": "BOS",
+"hs": 8,
+"playoff": false,
+"season": 1963
+},
+"1963020074": {
+"as": 2,
+"away": "BOS",
+"date": "1963-12-08",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1963
+},
+"1963020113": {
+"as": 5,
+"away": "NYR",
+"date": "1964-01-09",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1963
+},
+"1963020130": {
+"as": 4,
+"away": "BOS",
+"date": "1964-01-22",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1963
+},
+"1963020141": {
+"as": 3,
+"away": "NYR",
+"date": "1964-01-30",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1963
+},
+"1963020149": {
+"as": 3,
+"away": "BOS",
+"date": "1964-02-05",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1963
+},
+"1963020151": {
+"as": 0,
+"away": "NYR",
+"date": "1964-02-06",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1963
+},
+"1963020177": {
+"as": 4,
+"away": "NYR",
+"date": "1964-02-27",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1963
+},
+"1963020196": {
+"as": 5,
+"away": "BOS",
+"date": "1964-03-11",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1963
+},
+"1964020001": {
+"as": 6,
+"away": "NYR",
+"date": "1964-10-12",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1964
+},
+"1964020020": {
+"as": 1,
+"away": "BOS",
+"date": "1964-10-28",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1964
+},
+"1964020037": {
+"as": 2,
+"away": "BOS",
+"date": "1964-11-11",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1964
+},
+"1964020054": {
+"as": 1,
+"away": "NYR",
+"date": "1964-11-26",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1964
+},
+"1964020065": {
+"as": 3,
+"away": "NYR",
+"date": "1964-12-05",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1964
+},
+"1964020088": {
+"as": 3,
+"away": "NYR",
+"date": "1964-12-25",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1964
+},
+"1964020092": {
+"as": 2,
+"away": "BOS",
+"date": "1964-12-26",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1964
+},
+"1964020107": {
+"as": 2,
+"away": "BOS",
+"date": "1965-01-06",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1964
+},
+"1964020117": {
+"as": 2,
+"away": "NYR",
+"date": "1965-01-14",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1964
+},
+"1964020133": {
+"as": 2,
+"away": "BOS",
+"date": "1965-01-27",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1964
+},
+"1964020146": {
+"as": 2,
+"away": "NYR",
+"date": "1965-02-06",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1964
+},
+"1964020149": {
+"as": 3,
+"away": "BOS",
+"date": "1965-02-07",
+"home": "NYR",
+"hs": 8,
+"playoff": false,
+"season": 1964
+},
+"1964020176": {
+"as": 6,
+"away": "BOS",
+"date": "1965-03-03",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1964
+},
+"1964020179": {
+"as": 4,
+"away": "NYR",
+"date": "1965-03-04",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1964
+},
+"1965020011": {
+"as": 8,
+"away": "NYR",
+"date": "1965-10-30",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1965
+},
+"1965020023": {
+"as": 2,
+"away": "BOS",
+"date": "1965-11-10",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1965
+},
+"1965020041": {
+"as": 1,
+"away": "BOS",
+"date": "1965-11-24",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1965
+},
+"1965020042": {
+"as": 2,
+"away": "NYR",
+"date": "1965-11-25",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1965
+},
+"1965020082": {
+"as": 2,
+"away": "NYR",
+"date": "1965-12-25",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1965
+},
+"1965020085": {
+"as": 4,
+"away": "BOS",
+"date": "1965-12-26",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1965
+},
+"1965020102": {
+"as": 3,
+"away": "BOS",
+"date": "1966-01-09",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1965
+},
+"1965020116": {
+"as": 3,
+"away": "NYR",
+"date": "1966-01-22",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1965
+},
+"1965020134": {
+"as": 3,
+"away": "NYR",
+"date": "1966-02-05",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1965
+},
+"1965020144": {
+"as": 2,
+"away": "BOS",
+"date": "1966-02-12",
+"home": "NYR",
+"hs": 9,
+"playoff": false,
+"season": 1965
+},
+"1965020167": {
+"as": 3,
+"away": "BOS",
+"date": "1966-03-02",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1965
+},
+"1965020170": {
+"as": 5,
+"away": "NYR",
+"date": "1966-03-03",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1965
+},
+"1965020186": {
+"as": 3,
+"away": "BOS",
+"date": "1966-03-16",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1965
+},
+"1965020193": {
+"as": 3,
+"away": "NYR",
+"date": "1966-03-20",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1965
+},
+"1966020018": {
+"as": 7,
+"away": "NYR",
+"date": "1966-11-03",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1966
+},
+"1966020026": {
+"as": 3,
+"away": "BOS",
+"date": "1966-11-09",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1966
+},
+"1966020036": {
+"as": 3,
+"away": "NYR",
+"date": "1966-11-19",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1966
+},
+"1966020043": {
+"as": 4,
+"away": "BOS",
+"date": "1966-11-23",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1966
+},
+"1966020056": {
+"as": 2,
+"away": "NYR",
+"date": "1966-12-03",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1966
+},
+"1966020061": {
+"as": 2,
+"away": "BOS",
+"date": "1966-12-07",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1966
+},
+"1966020079": {
+"as": 1,
+"away": "BOS",
+"date": "1966-12-21",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1966
+},
+"1966020106": {
+"as": 3,
+"away": "NYR",
+"date": "1967-01-12",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1966
+},
+"1966020118": {
+"as": 2,
+"away": "NYR",
+"date": "1967-01-21",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1966
+},
+"1966020123": {
+"as": 1,
+"away": "BOS",
+"date": "1967-01-25",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1966
+},
+"1966020135": {
+"as": 4,
+"away": "NYR",
+"date": "1967-02-04",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1966
+},
+"1966020141": {
+"as": 2,
+"away": "BOS",
+"date": "1967-02-08",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1966
+},
+"1966020172": {
+"as": 4,
+"away": "NYR",
+"date": "1967-03-04",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1966
+},
+"1966020192": {
+"as": 1,
+"away": "BOS",
+"date": "1967-03-19",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1966
+},
+"1967020070": {
+"as": 6,
+"away": "BOS",
+"date": "1967-11-08",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1967
+},
+"1967020093": {
+"as": 1,
+"away": "NYR",
+"date": "1967-11-18",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1967
+},
+"1967020108": {
+"as": 2,
+"away": "NYR",
+"date": "1967-11-23",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1967
+},
+"1967020144": {
+"as": 1,
+"away": "NYR",
+"date": "1967-12-07",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1967
+},
+"1967020184": {
+"as": 4,
+"away": "BOS",
+"date": "1967-12-23",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1967
+},
+"1967020213": {
+"as": 5,
+"away": "BOS",
+"date": "1968-01-03",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1967
+},
+"1967020266": {
+"as": 1,
+"away": "BOS",
+"date": "1968-01-24",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1967
+},
+"1967020295": {
+"as": 3,
+"away": "NYR",
+"date": "1968-02-03",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1967
+},
+"1967020393": {
+"as": 2,
+"away": "BOS",
+"date": "1968-03-13",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1967
+},
+"1967020431": {
+"as": 5,
+"away": "NYR",
+"date": "1968-03-28",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1967
+},
+"1968020106": {
+"as": 1,
+"away": "NYR",
+"date": "1968-11-23",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1968
+},
+"1968020124": {
+"as": 4,
+"away": "NYR",
+"date": "1968-11-30",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1968
+},
+"1968020151": {
+"as": 2,
+"away": "BOS",
+"date": "1968-12-11",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1968
+},
+"1968020213": {
+"as": 4,
+"away": "BOS",
+"date": "1969-01-02",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1968
+},
+"1968020358": {
+"as": 0,
+"away": "BOS",
+"date": "1969-02-23",
+"home": "NYR",
+"hs": 9,
+"playoff": false,
+"season": 1968
+},
+"1968020372": {
+"as": 5,
+"away": "NYR",
+"date": "1969-03-01",
+"home": "BOS",
+"hs": 8,
+"playoff": false,
+"season": 1968
+},
+"1968020434": {
+"as": 2,
+"away": "BOS",
+"date": "1969-03-23",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1968
+},
+"1968020444": {
+"as": 3,
+"away": "NYR",
+"date": "1969-03-27",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1968
+},
+"1969020006": {
+"as": 1,
+"away": "NYR",
+"date": "1969-10-12",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1969
+},
+"1969020084": {
+"as": 6,
+"away": "NYR",
+"date": "1969-11-15",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1969
+},
+"1969020109": {
+"as": 0,
+"away": "BOS",
+"date": "1969-11-26",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1969
+},
+"1969020147": {
+"as": 2,
+"away": "BOS",
+"date": "1969-12-10",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1969
+},
+"1969020152": {
+"as": 1,
+"away": "NYR",
+"date": "1969-12-11",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1969
+},
+"1969020257": {
+"as": 1,
+"away": "BOS",
+"date": "1970-01-24",
+"home": "NYR",
+"hs": 8,
+"playoff": false,
+"season": 1969
+},
+"1969020347": {
+"as": 3,
+"away": "NYR",
+"date": "1970-02-26",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1969
+},
+"1969020422": {
+"as": 3,
+"away": "BOS",
+"date": "1970-03-25",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1969
+},
+"1969030121": {
+"as": 2,
+"away": "NYR",
+"date": "1970-04-08",
+"home": "BOS",
+"hs": 8,
+"playoff": true,
+"season": 1969,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1969030122": {
+"as": 3,
+"away": "NYR",
+"date": "1970-04-09",
+"home": "BOS",
+"hs": 5,
+"playoff": true,
+"season": 1969,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1969030123": {
+"as": 3,
+"away": "BOS",
+"date": "1970-04-11",
+"home": "NYR",
+"hs": 4,
+"playoff": true,
+"season": 1969,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1969030124": {
+"as": 2,
+"away": "BOS",
+"date": "1970-04-12",
+"home": "NYR",
+"hs": 4,
+"playoff": true,
+"season": 1969,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1969030125": {
+"as": 2,
+"away": "NYR",
+"date": "1970-04-14",
+"home": "BOS",
+"hs": 3,
+"playoff": true,
+"season": 1969,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1969030126": {
+"as": 4,
+"away": "BOS",
+"date": "1970-04-16",
+"home": "NYR",
+"hs": 1,
+"playoff": true,
+"season": 1969,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1970020063": {
+"as": 0,
+"away": "NYR",
+"date": "1970-10-31",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1970
+},
+"1970020145": {
+"as": 3,
+"away": "BOS",
+"date": "1970-11-28",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1970
+},
+"1970020329": {
+"as": 2,
+"away": "BOS",
+"date": "1971-01-27",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1970
+},
+"1970020370": {
+"as": 3,
+"away": "NYR",
+"date": "1971-02-09",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1970
+},
+"1970020515": {
+"as": 6,
+"away": "NYR",
+"date": "1971-03-27",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1970
+},
+"1970020520": {
+"as": 1,
+"away": "BOS",
+"date": "1971-03-28",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1970
+},
+"1971020008": {
+"as": 4,
+"away": "NYR",
+"date": "1971-10-10",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1971
+},
+"1971020015": {
+"as": 6,
+"away": "BOS",
+"date": "1971-10-13",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1971
+},
+"1971020210": {
+"as": 1,
+"away": "NYR",
+"date": "1971-12-16",
+"home": "BOS",
+"hs": 8,
+"playoff": false,
+"season": 1971
+},
+"1971020259": {
+"as": 4,
+"away": "BOS",
+"date": "1972-01-02",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1971
+},
+"1971020352": {
+"as": 2,
+"away": "BOS",
+"date": "1972-02-02",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1971
+},
+"1971020510": {
+"as": 1,
+"away": "NYR",
+"date": "1972-03-23",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1971
+},
+"1971030311": {
+"as": 5,
+"away": "NYR",
+"date": "1972-04-30",
+"home": "BOS",
+"hs": 6,
+"playoff": true,
+"season": 1971,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1971030312": {
+"as": 1,
+"away": "NYR",
+"date": "1972-05-02",
+"home": "BOS",
+"hs": 2,
+"playoff": true,
+"season": 1971,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1971030313": {
+"as": 2,
+"away": "BOS",
+"date": "1972-05-04",
+"home": "NYR",
+"hs": 5,
+"playoff": true,
+"season": 1971,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1971030314": {
+"as": 3,
+"away": "BOS",
+"date": "1972-05-07",
+"home": "NYR",
+"hs": 2,
+"playoff": true,
+"season": 1971,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1971030315": {
+"as": 3,
+"away": "NYR",
+"date": "1972-05-09",
+"home": "BOS",
+"hs": 2,
+"playoff": true,
+"season": 1971,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1971030316": {
+"as": 3,
+"away": "BOS",
+"date": "1972-05-11",
+"home": "NYR",
+"hs": 0,
+"playoff": true,
+"season": 1971,
+"series": {
+"letter": "M",
+"need": 4,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1972020039": {
+"as": 1,
+"away": "BOS",
+"date": "1972-10-18",
+"home": "NYR",
+"hs": 7,
+"playoff": false,
+"season": 1972
+},
+"1972020236": {
+"as": 2,
+"away": "NYR",
+"date": "1972-12-14",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1972
+},
+"1972020380": {
+"as": 2,
+"away": "BOS",
+"date": "1973-01-24",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1972
+},
+"1972020413": {
+"as": 7,
+"away": "NYR",
+"date": "1973-02-03",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1972
+},
+"1972020588": {
+"as": 0,
+"away": "NYR",
+"date": "1973-03-24",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1972
+},
+"1972020604": {
+"as": 6,
+"away": "BOS",
+"date": "1973-03-28",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1972
+},
+"1972030121": {
+"as": 6,
+"away": "NYR",
+"date": "1973-04-04",
+"home": "BOS",
+"hs": 2,
+"playoff": true,
+"season": 1972,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1972030122": {
+"as": 4,
+"away": "NYR",
+"date": "1973-04-05",
+"home": "BOS",
+"hs": 2,
+"playoff": true,
+"season": 1972,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1972030123": {
+"as": 4,
+"away": "BOS",
+"date": "1973-04-07",
+"home": "NYR",
+"hs": 2,
+"playoff": true,
+"season": 1972,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1972030124": {
+"as": 0,
+"away": "BOS",
+"date": "1973-04-08",
+"home": "NYR",
+"hs": 4,
+"playoff": true,
+"season": 1972,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1972030125": {
+"as": 6,
+"away": "NYR",
+"date": "1973-04-10",
+"home": "BOS",
+"hs": 3,
+"playoff": true,
+"season": 1972,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1973020092": {
+"as": 3,
+"away": "BOS",
+"date": "1973-11-07",
+"home": "NYR",
+"hs": 7,
+"playoff": false,
+"season": 1973
+},
+"1973020122": {
+"as": 2,
+"away": "NYR",
+"date": "1973-11-15",
+"home": "BOS",
+"hs": 10,
+"playoff": false,
+"season": 1973
+},
+"1973020291": {
+"as": 4,
+"away": "BOS",
+"date": "1974-01-04",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1973
+},
+"1973020545": {
+"as": 2,
+"away": "NYR",
+"date": "1974-03-17",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1973
+},
+"1973020578": {
+"as": 3,
+"away": "BOS",
+"date": "1974-03-27",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1973
+},
+"1974020177": {
+"as": 5,
+"away": "BOS",
+"date": "1974-11-23",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1974
+},
+"1974020284": {
+"as": 3,
+"away": "NYR",
+"date": "1974-12-19",
+"home": "BOS",
+"hs": 11,
+"playoff": false,
+"season": 1974
+},
+"1974020605": {
+"as": 3,
+"away": "NYR",
+"date": "1975-03-11",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1974
+},
+"1974020656": {
+"as": 5,
+"away": "BOS",
+"date": "1975-03-23",
+"home": "NYR",
+"hs": 7,
+"playoff": false,
+"season": 1974
+},
+"1975020190": {
+"as": 6,
+"away": "BOS",
+"date": "1975-11-26",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1975
+},
+"1975020254": {
+"as": 5,
+"away": "NYR",
+"date": "1975-12-11",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1975
+},
+"1975020540": {
+"as": 5,
+"away": "BOS",
+"date": "1976-02-22",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1975
+},
+"1975020647": {
+"as": 1,
+"away": "NYR",
+"date": "1976-03-20",
+"home": "BOS",
+"hs": 8,
+"playoff": false,
+"season": 1975
+},
+"1976020029": {
+"as": 5,
+"away": "BOS",
+"date": "1976-10-13",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1976
+},
+"1976020084": {
+"as": 4,
+"away": "BOS",
+"date": "1976-10-27",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1976
+},
+"1976020309": {
+"as": 3,
+"away": "NYR",
+"date": "1976-12-23",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1976
+},
+"1976020582": {
+"as": 4,
+"away": "BOS",
+"date": "1977-03-03",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1976
+},
+"1976020612": {
+"as": 3,
+"away": "NYR",
+"date": "1977-03-10",
+"home": "BOS",
+"hs": 10,
+"playoff": false,
+"season": 1976
+},
+"1977020175": {
+"as": 2,
+"away": "NYR",
+"date": "1977-11-26",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1977
+},
+"1977020240": {
+"as": 8,
+"away": "BOS",
+"date": "1977-12-11",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1977
+},
+"1977020353": {
+"as": 3,
+"away": "NYR",
+"date": "1978-01-10",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1977
+},
+"1977020620": {
+"as": 6,
+"away": "BOS",
+"date": "1978-03-18",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1977
+},
+"1977020686": {
+"as": 3,
+"away": "NYR",
+"date": "1978-04-02",
+"home": "BOS",
+"hs": 8,
+"playoff": false,
+"season": 1977
+},
+"1978020204": {
+"as": 3,
+"away": "BOS",
+"date": "1978-12-03",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1978
+},
+"1978020253": {
+"as": 1,
+"away": "NYR",
+"date": "1978-12-16",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1978
+},
+"1978020261": {
+"as": 4,
+"away": "BOS",
+"date": "1978-12-17",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1978
+},
+"1978020456": {
+"as": 1,
+"away": "BOS",
+"date": "1979-02-14",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1978
+},
+"1978020576": {
+"as": 7,
+"away": "NYR",
+"date": "1979-03-15",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1978
+},
+"1979020347": {
+"as": 4,
+"away": "BOS",
+"date": "1979-12-23",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1979
+},
+"1979020463": {
+"as": 3,
+"away": "NYR",
+"date": "1980-01-19",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1979
+},
+"1979020649": {
+"as": 5,
+"away": "NYR",
+"date": "1980-02-28",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1979
+},
+"1979020663": {
+"as": 1,
+"away": "BOS",
+"date": "1980-03-02",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1979
+},
+"1980020001": {
+"as": 2,
+"away": "NYR",
+"date": "1980-10-09",
+"home": "BOS",
+"hs": 7,
+"playoff": false,
+"season": 1980
+},
+"1980020222": {
+"as": 4,
+"away": "BOS",
+"date": "1980-11-26",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1980
+},
+"1980020555": {
+"as": 3,
+"away": "NYR",
+"date": "1981-02-05",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1980
+},
+"1980020743": {
+"as": 2,
+"away": "BOS",
+"date": "1981-03-18",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1980
+},
+"1981020111": {
+"as": 3,
+"away": "NYR",
+"date": "1981-10-31",
+"home": "BOS",
+"hs": 7,
+"playoff": false,
+"season": 1981
+},
+"1981020287": {
+"as": 4,
+"away": "BOS",
+"date": "1981-12-09",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1981
+},
+"1981020658": {
+"as": 6,
+"away": "NYR",
+"date": "1982-02-27",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1981
+},
+"1982020465": {
+"as": 0,
+"away": "NYR",
+"date": "1983-01-15",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1982
+},
+"1982020511": {
+"as": 3,
+"away": "BOS",
+"date": "1983-01-24",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1982
+},
+"1982020766": {
+"as": 4,
+"away": "BOS",
+"date": "1983-03-20",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1982
+},
+"1983020204": {
+"as": 6,
+"away": "NYR",
+"date": "1983-11-19",
+"end": "OT",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 1983
+},
+"1983020424": {
+"as": 2,
+"away": "NYR",
+"date": "1984-01-07",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1983
+},
+"1983020775": {
+"as": 6,
+"away": "BOS",
+"date": "1984-03-20",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1983
+},
+"1984020086": {
+"as": 6,
+"away": "BOS",
+"date": "1984-10-28",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1984
+},
+"1984020288": {
+"as": 3,
+"away": "BOS",
+"date": "1984-12-12",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1984
+},
+"1984020401": {
+"as": 3,
+"away": "NYR",
+"date": "1985-01-05",
+"end": "OT",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1984
+},
+"1985020084": {
+"as": 1,
+"away": "BOS",
+"date": "1985-10-27",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1985
+},
+"1985020298": {
+"as": 2,
+"away": "NYR",
+"date": "1985-12-14",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1985
+},
+"1985020554": {
+"as": 3,
+"away": "NYR",
+"date": "1986-02-08",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1985
+},
+"1986020445": {
+"as": 1,
+"away": "NYR",
+"date": "1987-01-12",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1986
+},
+"1986020544": {
+"as": 4,
+"away": "BOS",
+"date": "1987-02-01",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1986
+},
+"1986020710": {
+"as": 2,
+"away": "BOS",
+"date": "1987-03-11",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1986
+},
+"1987020259": {
+"as": 3,
+"away": "NYR",
+"date": "1987-12-03",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1987
+},
+"1987020370": {
+"as": 1,
+"away": "BOS",
+"date": "1987-12-27",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1987
+},
+"1987020536": {
+"as": 4,
+"away": "NYR",
+"date": "1988-01-30",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1987
+},
+"1988020166": {
+"as": 4,
+"away": "BOS",
+"date": "1988-11-11",
+"end": "OT",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1988
+},
+"1988020303": {
+"as": 1,
+"away": "NYR",
+"date": "1988-12-10",
+"end": "OT",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1988
+},
+"1988020694": {
+"as": 5,
+"away": "BOS",
+"date": "1989-03-05",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 1988
+},
+"1989020467": {
+"as": 3,
+"away": "NYR",
+"date": "1990-01-13",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1989
+},
+"1989020557": {
+"as": 2,
+"away": "NYR",
+"date": "1990-02-03",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1989
+},
+"1989020670": {
+"as": 1,
+"away": "BOS",
+"date": "1990-02-26",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1989
+},
+"1990020157": {
+"as": 3,
+"away": "BOS",
+"date": "1990-11-05",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1990
+},
+"1990020276": {
+"as": 5,
+"away": "NYR",
+"date": "1990-12-01",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1990
+},
+"1990020385": {
+"as": 5,
+"away": "BOS",
+"date": "1990-12-23",
+"end": "OT",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1990
+},
+"1991020001": {
+"as": 3,
+"away": "NYR",
+"date": "1991-10-03",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1991
+},
+"1991020021": {
+"as": 1,
+"away": "BOS",
+"date": "1991-10-07",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1991
+},
+"1991020309": {
+"as": 0,
+"away": "BOS",
+"date": "1991-12-08",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1991
+},
+"1992020164": {
+"as": 2,
+"away": "NYR",
+"date": "1992-11-07",
+"end": "OT",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1992
+},
+"1992020430": {
+"as": 5,
+"away": "BOS",
+"date": "1992-12-27",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 1992
+},
+"1992020838": {
+"as": 3,
+"away": "BOS",
+"date": "1993-03-15",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1992
+},
+"1993020001": {
+"as": 4,
+"away": "BOS",
+"date": "1993-10-05",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1993
+},
+"1993020670": {
+"as": 3,
+"away": "NYR",
+"date": "1994-02-03",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 1993
+},
+"1993020786": {
+"as": 6,
+"away": "BOS",
+"date": "1994-02-23",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1993
+},
+"1993020878": {
+"as": 2,
+"away": "NYR",
+"date": "1994-03-10",
+"end": "OT",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1993
+},
+"1994020022": {
+"as": 2,
+"away": "BOS",
+"date": "1995-01-23",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1994
+},
+"1994020420": {
+"as": 3,
+"away": "NYR",
+"date": "1995-04-01",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1994
+},
+"1994020496": {
+"as": 3,
+"away": "BOS",
+"date": "1995-04-14",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1994
+},
+"1994020553": {
+"as": 4,
+"away": "NYR",
+"date": "1995-04-23",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1994
+},
+"1995020380": {
+"as": 2,
+"away": "BOS",
+"date": "1995-12-13",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1995
+},
+"1995020616": {
+"as": 5,
+"away": "NYR",
+"date": "1996-01-27",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1995
+},
+"1995020797": {
+"as": 3,
+"away": "BOS",
+"date": "1996-02-28",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 1995
+},
+"1995020928": {
+"as": 5,
+"away": "NYR",
+"date": "1996-03-23",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1995
+},
+"1996020004": {
+"as": 4,
+"away": "NYR",
+"date": "1996-10-05",
+"end": "OT",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1996
+},
+"1996020156": {
+"as": 5,
+"away": "NYR",
+"date": "1996-11-02",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1996
+},
+"1996020666": {
+"as": 3,
+"away": "BOS",
+"date": "1997-02-02",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1996
+},
+"1996021001": {
+"as": 4,
+"away": "BOS",
+"date": "1997-04-03",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1996
+},
+"1997020501": {
+"as": 3,
+"away": "BOS",
+"date": "1997-12-28",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1997
+},
+"1997020681": {
+"as": 2,
+"away": "NYR",
+"date": "1998-01-31",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 1997
+},
+"1997020841": {
+"as": 1,
+"away": "NYR",
+"date": "1998-03-14",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1997
+},
+"1997020951": {
+"as": 4,
+"away": "BOS",
+"date": "1998-04-01",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1997
+},
+"1998020194": {
+"as": 3,
+"away": "BOS",
+"date": "1998-11-13",
+"end": "OT",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 1998
+},
+"1998020679": {
+"as": 2,
+"away": "NYR",
+"date": "1999-02-07",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 1998
+},
+"1998020848": {
+"as": 3,
+"away": "NYR",
+"date": "1999-03-07",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 1998
+},
+"1998020879": {
+"as": 5,
+"away": "BOS",
+"date": "1999-03-12",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 1998
+},
+"1999020236": {
+"as": 5,
+"away": "BOS",
+"date": "1999-11-13",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 1999
+},
+"1999020259": {
+"as": 3,
+"away": "NYR",
+"date": "1999-11-18",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 1999
+},
+"1999020764": {
+"as": 2,
+"away": "BOS",
+"date": "2000-02-11",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 1999
+},
+"1999021082": {
+"as": 2,
+"away": "NYR",
+"date": "2000-04-01",
+"end": "OT",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 1999
+},
+"2000020155": {
+"as": 1,
+"away": "BOS",
+"date": "2000-10-29",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 2000
+},
+"2000020422": {
+"as": 4,
+"away": "NYR",
+"date": "2000-12-09",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 2000
+},
+"2000020650": {
+"as": 1,
+"away": "NYR",
+"date": "2001-01-13",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 2000
+},
+"2000021125": {
+"as": 3,
+"away": "BOS",
+"date": "2001-03-25",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2000
+},
+"2001020149": {
+"as": 2,
+"away": "NYR",
+"date": "2001-10-27",
+"end": "OT",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 2001
+},
+"2001020745": {
+"as": 4,
+"away": "BOS",
+"date": "2002-01-23",
+"home": "NYR",
+"hs": 8,
+"playoff": false,
+"season": 2001
+},
+"2001020992": {
+"as": 3,
+"away": "BOS",
+"date": "2002-03-13",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2001
+},
+"2001021163": {
+"as": 6,
+"away": "NYR",
+"date": "2002-04-06",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 2001
+},
+"2002020156": {
+"as": 2,
+"away": "NYR",
+"date": "2002-11-02",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 2002
+},
+"2002020405": {
+"as": 4,
+"away": "BOS",
+"date": "2002-12-08",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2002
+},
+"2002020950": {
+"as": 1,
+"away": "BOS",
+"date": "2003-02-27",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2002
+},
+"2002021163": {
+"as": 3,
+"away": "NYR",
+"date": "2003-03-29",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 2002
+},
+"2003020493": {
+"as": 2,
+"away": "BOS",
+"date": "2003-12-22",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2003
+},
+"2003020691": {
+"as": 2,
+"away": "NYR",
+"date": "2004-01-19",
+"home": "BOS",
+"hs": 5,
+"playoff": false,
+"season": 2003
+},
+"2003020698": {
+"as": 4,
+"away": "BOS",
+"date": "2004-01-20",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2003
+},
+"2003020997": {
+"as": 1,
+"away": "NYR",
+"date": "2004-03-04",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 2003
+},
+"2005020309": {
+"as": 2,
+"away": "BOS",
+"date": "2005-11-20",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2005020704": {
+"as": 3,
+"away": "NYR",
+"date": "2006-01-21",
+"end": "SO",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 2005
+},
+"2005021010": {
+"as": 2,
+"away": "BOS",
+"date": "2006-03-20",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 2005
+},
+"2005021147": {
+"as": 4,
+"away": "NYR",
+"date": "2006-04-08",
+"end": "OT",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2006020665": {
+"as": 1,
+"away": "BOS",
+"date": "2007-01-13",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2006
+},
+"2006020754": {
+"as": 6,
+"away": "NYR",
+"date": "2007-01-29",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 2006
+},
+"2006021072": {
+"as": 0,
+"away": "BOS",
+"date": "2007-03-17",
+"home": "NYR",
+"hs": 7,
+"playoff": false,
+"season": 2006
+},
+"2006021116": {
+"as": 2,
+"away": "NYR",
+"date": "2007-03-24",
+"end": "SO",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 2006
+},
+"2007020102": {
+"as": 0,
+"away": "NYR",
+"date": "2007-10-20",
+"end": "SO",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 2007
+},
+"2007020705": {
+"as": 3,
+"away": "NYR",
+"date": "2008-01-19",
+"end": "SO",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 2007
+},
+"2007020716": {
+"as": 3,
+"away": "BOS",
+"date": "2008-01-20",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2007
+},
+"2007021037": {
+"as": 0,
+"away": "BOS",
+"date": "2008-03-09",
+"end": "SO",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2007
+},
+"2008020245": {
+"as": 2,
+"away": "BOS",
+"date": "2008-11-15",
+"end": "SO",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2008
+},
+"2008020731": {
+"as": 0,
+"away": "NYR",
+"date": "2009-01-31",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 2008
+},
+"2008020980": {
+"as": 3,
+"away": "BOS",
+"date": "2009-03-08",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2008
+},
+"2008021164": {
+"as": 0,
+"away": "NYR",
+"date": "2009-04-04",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 2008
+},
+"2009020191": {
+"as": 0,
+"away": "BOS",
+"date": "2009-11-01",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2009
+},
+"2009020627": {
+"as": 2,
+"away": "BOS",
+"date": "2010-01-04",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2009
+},
+"2009020660": {
+"as": 3,
+"away": "NYR",
+"date": "2010-01-09",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 2009
+},
+"2009021068": {
+"as": 1,
+"away": "NYR",
+"date": "2010-03-21",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 2009
+},
+"2010020098": {
+"as": 3,
+"away": "NYR",
+"date": "2010-10-23",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 2010
+},
+"2010020258": {
+"as": 3,
+"away": "BOS",
+"date": "2010-11-17",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2010
+},
+"2010021116": {
+"as": 1,
+"away": "NYR",
+"date": "2011-03-26",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 2010
+},
+"2010021182": {
+"as": 3,
+"away": "BOS",
+"date": "2011-04-04",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 2010
+},
+"2011020699": {
+"as": 3,
+"away": "NYR",
+"date": "2012-01-21",
+"end": "OT",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 2011
+},
+"2011020837": {
+"as": 3,
+"away": "NYR",
+"date": "2012-02-14",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 2011
+},
+"2011020975": {
+"as": 3,
+"away": "BOS",
+"date": "2012-03-04",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2011
+},
+"2011021182": {
+"as": 2,
+"away": "BOS",
+"date": "2012-04-01",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2011
+},
+"2012020004": {
+"as": 1,
+"away": "NYR",
+"date": "2013-01-19",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 2012
+},
+"2012020037": {
+"as": 3,
+"away": "BOS",
+"date": "2013-01-23",
+"end": "OT",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2012
+},
+"2012020179": {
+"as": 4,
+"away": "NYR",
+"date": "2013-02-12",
+"end": "SO",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 2012
+},
+"2012030221": {
+"as": 2,
+"away": "NYR",
+"date": "2013-05-16",
+"end": "OT",
+"home": "BOS",
+"hs": 3,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2012030222": {
+"as": 2,
+"away": "NYR",
+"date": "2013-05-19",
+"home": "BOS",
+"hs": 5,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2012030223": {
+"as": 2,
+"away": "BOS",
+"date": "2013-05-21",
+"home": "NYR",
+"hs": 1,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2012030224": {
+"as": 3,
+"away": "BOS",
+"date": "2013-05-23",
+"end": "OT",
+"home": "NYR",
+"hs": 4,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2012030225": {
+"as": 1,
+"away": "NYR",
+"date": "2013-05-25",
+"home": "BOS",
+"hs": 3,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2013020317": {
+"as": 2,
+"away": "BOS",
+"date": "2013-11-19",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2013
+},
+"2013020380": {
+"as": 2,
+"away": "NYR",
+"date": "2013-11-29",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 2013
+},
+"2013020916": {
+"as": 6,
+"away": "BOS",
+"date": "2014-03-02",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2013
+},
+"2014020644": {
+"as": 0,
+"away": "NYR",
+"date": "2015-01-15",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 2014
+},
+"2014020756": {
+"as": 2,
+"away": "BOS",
+"date": "2015-02-04",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2014
+},
+"2014021116": {
+"as": 2,
+"away": "NYR",
+"date": "2015-03-28",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 2014
+},
+"2015020330": {
+"as": 3,
+"away": "NYR",
+"date": "2015-11-27",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 2015
+},
+"2015020630": {
+"as": 1,
+"away": "BOS",
+"date": "2016-01-11",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2015
+},
+"2015021100": {
+"as": 2,
+"away": "BOS",
+"date": "2016-03-23",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 2015
+},
+"2016020095": {
+"as": 2,
+"away": "BOS",
+"date": "2016-10-26",
+"home": "NYR",
+"hs": 5,
+"playoff": false,
+"season": 2016
+},
+"2016020162": {
+"as": 5,
+"away": "NYR",
+"date": "2016-11-05",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 2016
+},
+"2016020936": {
+"as": 2,
+"away": "NYR",
+"date": "2017-03-02",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 2016
+},
+"2017020233": {
+"as": 2,
+"away": "BOS",
+"date": "2017-11-08",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2017
+},
+"2017020497": {
+"as": 3,
+"away": "NYR",
+"date": "2017-12-16",
+"end": "OT",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 2017
+},
+"2017020824": {
+"as": 6,
+"away": "BOS",
+"date": "2018-02-07",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2017
+},
+"2018020742": {
+"as": 3,
+"away": "NYR",
+"date": "2019-01-19",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 2018
+},
+"2018020822": {
+"as": 3,
+"away": "BOS",
+"date": "2019-02-06",
+"end": "SO",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2018
+},
+"2018021186": {
+"as": 3,
+"away": "NYR",
+"date": "2019-03-27",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 2018
+},
+"2019020174": {
+"as": 7,
+"away": "BOS",
+"date": "2019-10-27",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2019
+},
+"2019020391": {
+"as": 2,
+"away": "NYR",
+"date": "2019-11-29",
+"end": "OT",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 2019
+},
+"2019020907": {
+"as": 3,
+"away": "BOS",
+"date": "2020-02-16",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2019
+},
+"2020020212": {
+"as": 3,
+"away": "BOS",
+"date": "2021-02-10",
+"end": "OT",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2020
+},
+"2020020228": {
+"as": 1,
+"away": "BOS",
+"date": "2021-02-12",
+"home": "NYR",
+"hs": 0,
+"playoff": false,
+"season": 2020
+},
+"2020020323": {
+"as": 2,
+"away": "BOS",
+"date": "2021-02-26",
+"home": "NYR",
+"hs": 6,
+"playoff": false,
+"season": 2020
+},
+"2020020342": {
+"as": 4,
+"away": "BOS",
+"date": "2021-02-28",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2020
+},
+"2020020415": {
+"as": 0,
+"away": "NYR",
+"date": "2021-03-11",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 2020
+},
+"2020020430": {
+"as": 4,
+"away": "NYR",
+"date": "2021-03-13",
+"home": "BOS",
+"hs": 0,
+"playoff": false,
+"season": 2020
+},
+"2020020838": {
+"as": 0,
+"away": "NYR",
+"date": "2021-05-06",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 2020
+},
+"2020020854": {
+"as": 5,
+"away": "NYR",
+"date": "2021-05-08",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 2020
+},
+"2021020304": {
+"as": 5,
+"away": "NYR",
+"date": "2021-11-26",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 2021
+},
+"2021021248": {
+"as": 1,
+"away": "NYR",
+"date": "2022-04-23",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 2021
+},
+"2021021263": {
+"as": 1,
+"away": "BOS",
+"date": "2022-02-15",
+"end": "SO",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2021
+},
+"2022020161": {
+"as": 5,
+"away": "BOS",
+"date": "2022-11-03",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2022
+},
+"2022020718": {
+"as": 3,
+"away": "BOS",
+"date": "2023-01-19",
+"home": "NYR",
+"hs": 1,
+"playoff": false,
+"season": 2022
+},
+"2022020991": {
+"as": 2,
+"away": "NYR",
+"date": "2023-03-04",
+"home": "BOS",
+"hs": 4,
+"playoff": false,
+"season": 2022
+},
+"2023020308": {
+"as": 4,
+"away": "BOS",
+"date": "2023-11-25",
+"home": "NYR",
+"hs": 7,
+"playoff": false,
+"season": 2023
+},
+"2023020462": {
+"as": 2,
+"away": "NYR",
+"date": "2023-12-16",
+"end": "OT",
+"home": "BOS",
+"hs": 1,
+"playoff": false,
+"season": 2023
+},
+"2023021098": {
+"as": 5,
+"away": "NYR",
+"date": "2024-03-21",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 2023
+},
+"2024020604": {
+"as": 1,
+"away": "BOS",
+"date": "2025-01-02",
+"home": "NYR",
+"hs": 2,
+"playoff": false,
+"season": 2024
+},
+"2024020827": {
+"as": 3,
+"away": "NYR",
+"date": "2025-02-01",
+"home": "BOS",
+"hs": 6,
+"playoff": false,
+"season": 2024
+},
+"2024020859": {
+"as": 2,
+"away": "BOS",
+"date": "2025-02-05",
+"home": "NYR",
+"hs": 3,
+"playoff": false,
+"season": 2024
+},
+"2025020376": {
+"as": 6,
+"away": "NYR",
+"date": "2025-11-28",
+"home": "BOS",
+"hs": 2,
+"playoff": false,
+"season": 2025
+},
+"2025020697": {
+"as": 2,
+"away": "NYR",
+"date": "2026-01-10",
+"home": "BOS",
+"hs": 10,
+"playoff": false,
+"season": 2025
+},
+"2025020826": {
+"as": 3,
+"away": "BOS",
+"date": "2026-01-26",
+"end": "OT",
+"home": "NYR",
+"hs": 4,
+"playoff": false,
+"season": 2025
+},
+"2026020003": {
+"as": 0,
+"away": "NYR",
+"date": "2026-09-29",
+"home": "BOS",
+"hs": 3,
+"playoff": false,
+"season": 2026
+}
+},
+"seasons": [
+1926,
+1927,
+1928,
+1929,
+1930,
+1931,
+1932,
+1933,
+1934,
+1935,
+1936,
+1937,
+1938,
+1939,
+1940,
+1941,
+1942,
+1943,
+1944,
+1945,
+1946,
+1947,
+1948,
+1949,
+1950,
+1951,
+1952,
+1953,
+1954,
+1955,
+1956,
+1957,
+1958,
+1959,
+1960,
+1961,
+1962,
+1963,
+1964,
+1965,
+1966,
+1967,
+1968,
+1969,
+1970,
+1971,
+1972,
+1973,
+1974,
+1975,
+1976,
+1977,
+1978,
+1979,
+1980,
+1981,
+1982,
+1983,
+1984,
+1985,
+1986,
+1987,
+1988,
+1989,
+1990,
+1991,
+1992,
+1993,
+1994,
+1995,
+1996,
+1997,
+1998,
+1999,
+2000,
+2001,
+2002,
+2003,
+2004,
+2005,
+2006,
+2007,
+2008,
+2009,
+2010,
+2011,
+2012,
+2013,
+2014,
+2015,
+2016,
+2017,
+2018,
+2019,
+2020,
+2021,
+2022,
+2023,
+2024
+]
+}

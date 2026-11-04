@@ -33,10 +33,10 @@
       ["handball/international/", "Handball"], ["rugby/international/", "Rugby"], ["volleyball/international/", "Volleyball"],
       ["hockey/international/", "Field hockey"],
     ] },
-    { sport: "american-football", label: "NFL", pages: [["american-football/super-bowl/", "Super Bowl"]] },
-    { sport: "ice-hockey", label: "NHL", pages: [["ice-hockey/stanley-cup/", "Stanley Cup"]] },
+    { sport: "american-football", label: "NFL", pages: [["american-football/super-bowl/", "Super Bowl"], ["american-football/nfl-rivalries/", "NFL Rivalries"]] },
+    { sport: "ice-hockey", label: "NHL", pages: [["ice-hockey/stanley-cup/", "Stanley Cup"], ["ice-hockey/nhl-rivalries/", "NHL Rivalries"]] },
     { sport: "baseball", label: "MLB", pages: [["baseball/world-series/", "World Series"]] },
-    { sport: "chess", label: "Chess", pages: [["chess/", "Chess"]] },
+    { sport: "chess", label: "Chess", pages: [["chess/", "Chess"], ["chess/rivalries/", "Chess Rivalries"]] },
     { sport: "motorsport", label: "Motorsport", pages: [["motorsport/formula-1/", "Formula 1"], ["motorsport/tc2000/", "TC2000"]] },
   ];
   // Sport accents follow the page's first folder (swimming pages count as Olympics in the menu).

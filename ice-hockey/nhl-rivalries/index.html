@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NHL Rivalries · Ice hockey</title>
+  <meta name="description" content="Sixteen great NHL rivalries, from Canadiens–Maple Leafs and Bruins–Canadiens to the Battle of Alberta and Penguins–Flyers: every game since 1917 from the NHL's own schedules, the head to head, how the lead has moved season by season, every playoff series and the biggest wins.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="../../football/rivalries/style.css">
+  <link rel="stylesheet" href="../../assets/league-rivalries.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/nhl-rivalries.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · NHL</p>
+    <h1>NHL Rivalries</h1>
+    <p class="lede">
+      Sixteen of the NHL's great rivalries, from the Original Six to the Battle of Alberta and the Battle of Quebec, game by game from the league's own schedules:
+      who leads the head to head, how the lead has moved season by season, every playoff series and the biggest wins.
+    </p>
+    <div class="rivalry-picker" id="picker"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block tight" id="summary">
+      <div class="card versus-card">
+        <div class="rv-head" id="rv-versus"></div>
+        <div class="rv-split" id="rv-split" aria-hidden="true"></div>
+        <div class="rv-goals" id="rv-detail"></div>
+      </div>
+      <div class="stat-row" id="stats"></div>
+    </section>
+
+    <section class="block" id="timeline">
+      <div class="block-head">
+        <h2>The lead, season by season</h2>
+        <p>Wins minus losses in every game between them, regular season and playoffs, after each season. Above the line, one side leads the head to head; below it, the other.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="timeline-legend"></div>
+        <div id="timeline-chart" class="chart"></div>
+        <p class="chart-note" id="timeline-note"></p>
+      </div>
+    </section>
+
+    <section class="block" id="seasons">
+      <div class="block-head">
+        <h2>Every season</h2>
+        <p>Regular-season wins of each side, season by season: one team's above the line, the other's below. A dot above a season marks a playoff series, in the winner's color, with a ring for the Stanley Cup Final. Hover or tap a season for the details.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="seasons-legend"></div>
+        <div id="seasons-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div class="data-table tall" id="seasons-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="playoffs">
+      <div class="block-head">
+        <h2>Every playoff series</h2>
+        <p id="playoffs-lede">Most recent first, with the games each side won.</p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="series-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="biggest" hidden>
+      <div class="block-head">
+        <h2>Biggest wins</h2>
+        <p>The five widest margins of each side, regular season and playoffs.</p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="biggest-table"></div>
+        <p class="chart-note" id="biggest-note"></p>
+      </div>
+    </section>
+
+    <section class="block" id="venues">
+      <div class="block-head">
+        <h2>Home and away</h2>
+        <p>Wins of each side by where the game was played. In the early decades some games were played at neutral sites.</p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="venue-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> <span id="source"></span>, every game of the two teams. Updated automatically. <span id="data-through"></span></p>
+    <p id="notes"><strong>Notes:</strong> franchises count with their earlier names (the Toronto Arenas and St. Patricks, the Detroit Cougars and Falcons); the Canadiens–Nordiques rivalry counts the Quebec years only. Ties were part of the game until 2005; since then a game level after overtime is decided by a shootout, and counts as a win for the side that took it. A few early playoff series were decided on total goals. Seasons are named by the years they span.</p>
+    <p>Team names and logos are trademarks of their owners. This project is not affiliated with the NHL.</p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../assets/league-rivalries.js"></script>
+</body>
+</html>

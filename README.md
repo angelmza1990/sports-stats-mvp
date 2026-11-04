@@ -101,9 +101,17 @@ Every NBA championship since 1947:
 
 Every Super Bowl since 1967 and every NFL championship since 1920, in the style of NBA Rings: a franchise bar chart race (Super Bowls or all NFL titles), AFC vs NFC by decade, every champion, titles by franchise for all 32 teams, the most repeated Super Bowls, the most Super Bowls lost, margins of victory with the biggest and closest games, the Super Bowl MVP leaders, host cities and stadiums, and the winning coaches (most titles and most Super Bowls).
 
+### 🏈 [NFL Rivalries](https://angelmza1990.github.io/sports-stats-mvp/american-football/nfl-rivalries/)
+
+Seventeen great NFL rivalries (Bears–Packers, Cowboys–Eagles, Cowboys–Giants, Commanders–Cowboys, Eagles–Giants, Packers–Vikings, Bears–Lions, Lions–Packers, Ravens–Steelers, Browns–Steelers, Chiefs–Raiders, Broncos–Raiders, Broncos–Chiefs, Jets–Patriots, Bills–Dolphins, Falcons–Saints, 49ers–Rams), game by game from the season-by-season results of each rivalry's Wikipedia article, checked against the article's running total: the head to head with ties, the lead season by season, every season's games, every playoff meeting, the biggest wins and the home and away split. The page shares its front end with NBA Rivalries.
+
 ### 🏒 [Stanley Cup](https://angelmza1990.github.io/sports-stats-mvp/ice-hockey/stanley-cup/)
 
 Every Stanley Cup Final since 1915, in the style of NBA Rings: a franchise bar chart race, Canada vs the United States by decade, every champion, Cups by franchise for all 32 teams, the most repeated Finals, the most Finals lost, series lengths since the best-of-seven format (1939), the Conn Smythe Trophy leaders and the winning coaches (most Cups and most Finals).
+### 🏒 [NHL Rivalries](https://angelmza1990.github.io/sports-stats-mvp/ice-hockey/nhl-rivalries/)
+
+Sixteen great NHL rivalries (the Original Six pairings, Flyers–Penguins, Flyers–Rangers, Islanders–Rangers, Devils–Rangers, the Battle of Alberta, the Battle of Quebec, Avalanche–Red Wings, Capitals–Penguins, Maple Leafs–Senators, Kings–Ducks), every regular-season and playoff game since 1917 from the NHL's own schedule API: the head to head with ties and overtime, the lead season by season, every playoff series, the biggest wins and the home and away split.
+
 ### ⚾ [World Series](https://angelmza1990.github.io/sports-stats-mvp/baseball/world-series/)
 
 Every World Series since 1903: a franchise bar chart race, the American League against the National League by decade, every champion, titles by franchise for all 30 teams, the longest waits between titles (the Cubs' 108 years, the Red Sox's 86 and the droughts still running), the most repeated matchups, the most Series lost, series lengths, the World Series MVPs (since 1955) and the winning managers.
@@ -265,6 +273,10 @@ Each shows a race of titles, finals or podiums, champions and podium finishes, r
 
 Every World Championship since 1886 (including the 1993–2006 split title), the reigns of the world champions, the rivalries for the title, the world number ones month by month in classical, rapid and blitz (open and women's), head-to-head records of 40 of the greatest players split by time control, the rapid, blitz and women's world champions, records (ratings, youngest grandmasters, longest reigns) and nations, plus the Candidates Tournament and World Cup winners.
 
+### ♟️ [Chess Rivalries](https://angelmza1990.github.io/sports-stats-mvp/chess/rivalries/)
+
+Twenty great chess rivalries, from Steinitz–Chigorin and Capablanca–Alekhine to Karpov–Kasparov, Carlsen–Nakamura and Ding–Gukesh: every game between them in PGN Mentor's game files (classical, rapid and blitz, filterable), the lead game by game, year by year, each player's results with white and black, the events where they met most and their World Championship matches.
+
 ### 🏎️ [Formula 1](https://angelmza1990.github.io/sports-stats-mvp/motorsport/formula-1/)
 
 Every World Champion since 1950: bar chart races of drivers', constructors' and nations' titles, every champion, titles by nationality and by constructor, and the all-time Grand Prix winners by driver, constructor and nationality.
@@ -296,9 +308,11 @@ Argentina's touring-car championship since 1979, counting the Súper TC2000 year
 ├── basketball/lnb/               # Liga Nacional de Básquet (Argentina)
 ├── football/                     # Football pages (shared common.js, league.js for national leagues) + one folder per page
 ├── american-football/super-bowl/  # Super Bowl and NFL championships
+├── american-football/nfl-rivalries/  # NFL Rivalries (front end shared with NBA and NHL: assets/league-rivalries.js)
 ├── ice-hockey/stanley-cup/       # Stanley Cup Finals
+├── ice-hockey/nhl-rivalries/     # NHL Rivalries
 ├── baseball/world-series/        # World Series
-├── chess/                        # Chess page
+├── chess/                        # Chess page; chess/rivalries/ for the great rivalries
 ├── motorsport/formula-1/         # Formula 1 page
 ├── motorsport/tc2000/            # TC2000 page
 ├── international/tournament.js   # Shared page for team tournaments
@@ -316,6 +330,8 @@ Argentina's touring-car championship since 1979, counting the Súper TC2000 year
 │   ├── build_nba_rivalries.py    # NBA rivalries, season by season
 │   ├── build_lnb.py              # Liga Nacional de Básquet
 │   ├── build_super_bowl.py       # Super Bowls, NFL titles, MVPs and coaches
+│   ├── build_nfl_rivalries.py    # NFL rivalries, game by game (shared helpers in rivalries_us.py)
+│   ├── build_nhl_rivalries.py    # NHL rivalries from the NHL's schedule API
 │   ├── build_stanley_cup.py      # Stanley Cup Finals, Conn Smythe winners and coaches
 │   ├── build_world_series.py     # World Series, MVPs and managers
 │   ├── build_football.py         # Football club competitions pipeline
@@ -336,6 +352,7 @@ Argentina's touring-car championship since 1979, counting the Súper TC2000 year
 │   ├── olympic_events.py         # Shared parsing of Olympic medalists, event by event
 │   ├── build_olympic_sports.py   # Olympic tennis and boxing
 │   ├── build_chess.py            # Chess: world titles, number ones, records and head-to-head
+│   ├── build_chess_rivalries.py  # Chess rivalries, game by game
 │   ├── fetch_flags.py            # Local copies of every flag in use
 │   ├── check_pages.mjs           # Headless check of every page
 │   └── wikitables.py             # Generic Wikipedia table parser
@@ -370,6 +387,8 @@ python3 scripts/build_nba_rivalries.py --refresh  # NBA: the 16 rivalries' seaso
 python3 scripts/build_lnb.py --refresh  # Argentina's Liga Nacional de Básquet
 python3 scripts/build_super_bowl.py --refresh # NFL: Super Bowls, NFL champions since 1920, MVPs and coaches
 python3 scripts/build_stanley_cup.py --refresh  # NHL: Stanley Cup Finals since 1915, Conn Smythe and coaches
+python3 scripts/build_nfl_rivalries.py --refresh  # NFL: 17 rivalries, game by game
+python3 scripts/build_nhl_rivalries.py --refresh  # NHL: 16 rivalries; re-reads only the last two seasons
 python3 scripts/build_world_series.py --refresh # MLB: World Series since 1903, MVPs and managers
 python3 scripts/build_football.py --refresh   # football: club competitions (Champions League, Libertadores, CONCACAF) and Argentine league
 python3 scripts/build_leagues.py --refresh    # football: Serie A, La Liga, England, Ligue 1, Germany, Brasileirão, Liga MX, MLS, Colombia, Chile
@@ -388,6 +407,7 @@ python3 scripts/build_swimming.py --refresh     # swimming: Olympic medalists
 python3 scripts/build_olympics.py --refresh     # Olympic Games (Summer and Winter)
 python3 scripts/build_olympic_sports.py --refresh  # Olympic tennis and boxing (after build_olympics.py)
 python3 scripts/build_chess.py --refresh       # chess: also re-downloads the PGN Mentor player files
+python3 scripts/build_chess_rivalries.py      # chess rivalries (after build_chess.py)
 python3 scripts/fetch_flags.py                  # download any flag a dataset now needs
 ```
 

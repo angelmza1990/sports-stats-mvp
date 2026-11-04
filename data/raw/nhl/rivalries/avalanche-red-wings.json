@@ -1,0 +1,1399 @@
+{
+"games": {
+"1995020001": {
+"as": 2,
+"away": "DET",
+"date": "1995-10-06",
+"home": "COL",
+"hs": 3,
+"playoff": false,
+"season": 1995
+},
+"1995020584": {
+"as": 2,
+"away": "COL",
+"date": "1996-01-17",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1995
+},
+"1995020847": {
+"as": 4,
+"away": "DET",
+"date": "1996-03-08",
+"home": "COL",
+"hs": 2,
+"playoff": false,
+"season": 1995
+},
+"1995020923": {
+"as": 0,
+"away": "COL",
+"date": "1996-03-22",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 1995
+},
+"1995030321": {
+"as": 3,
+"away": "COL",
+"date": "1996-05-19",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1995,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1995030322": {
+"as": 3,
+"away": "COL",
+"date": "1996-05-21",
+"home": "DET",
+"hs": 0,
+"playoff": true,
+"season": 1995,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1995030323": {
+"as": 6,
+"away": "DET",
+"date": "1996-05-23",
+"home": "COL",
+"hs": 4,
+"playoff": true,
+"season": 1995,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1995030324": {
+"as": 2,
+"away": "DET",
+"date": "1996-05-25",
+"home": "COL",
+"hs": 4,
+"playoff": true,
+"season": 1995,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1995030325": {
+"as": 2,
+"away": "COL",
+"date": "1996-05-27",
+"home": "DET",
+"hs": 5,
+"playoff": true,
+"season": 1995,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1995030326": {
+"as": 1,
+"away": "DET",
+"date": "1996-05-29",
+"home": "COL",
+"hs": 4,
+"playoff": true,
+"season": 1995,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1996020219": {
+"as": 4,
+"away": "COL",
+"date": "1996-11-13",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1996
+},
+"1996020411": {
+"as": 3,
+"away": "DET",
+"date": "1996-12-17",
+"home": "COL",
+"hs": 4,
+"playoff": false,
+"season": 1996
+},
+"1996020909": {
+"as": 2,
+"away": "DET",
+"date": "1997-03-16",
+"home": "COL",
+"hs": 4,
+"playoff": false,
+"season": 1996
+},
+"1996020958": {
+"as": 5,
+"away": "COL",
+"date": "1997-03-26",
+"end": "OT",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1996
+},
+"1996030321": {
+"as": 1,
+"away": "DET",
+"date": "1997-05-15",
+"home": "COL",
+"hs": 2,
+"playoff": true,
+"season": 1996,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1996030322": {
+"as": 4,
+"away": "DET",
+"date": "1997-05-17",
+"home": "COL",
+"hs": 2,
+"playoff": true,
+"season": 1996,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1996030323": {
+"as": 1,
+"away": "COL",
+"date": "1997-05-19",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1996,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1996030324": {
+"as": 0,
+"away": "COL",
+"date": "1997-05-22",
+"home": "DET",
+"hs": 6,
+"playoff": true,
+"season": 1996,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1996030325": {
+"as": 0,
+"away": "DET",
+"date": "1997-05-24",
+"home": "COL",
+"hs": 6,
+"playoff": true,
+"season": 1996,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1996030326": {
+"as": 1,
+"away": "COL",
+"date": "1997-05-26",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 1996,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1997020230": {
+"as": 2,
+"away": "COL",
+"date": "1997-11-11",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1997
+},
+"1997020440": {
+"as": 2,
+"away": "DET",
+"date": "1997-12-17",
+"end": "OT",
+"home": "COL",
+"hs": 2,
+"playoff": false,
+"season": 1997
+},
+"1997020955": {
+"as": 0,
+"away": "COL",
+"date": "1998-04-01",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1997
+},
+"1997021057": {
+"as": 3,
+"away": "DET",
+"date": "1998-04-18",
+"home": "COL",
+"hs": 4,
+"playoff": false,
+"season": 1997
+},
+"1998020301": {
+"as": 2,
+"away": "DET",
+"date": "1998-12-02",
+"home": "COL",
+"hs": 4,
+"playoff": false,
+"season": 1998
+},
+"1998020520": {
+"as": 2,
+"away": "COL",
+"date": "1999-01-09",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1998
+},
+"1998020669": {
+"as": 3,
+"away": "COL",
+"date": "1999-02-05",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1998
+},
+"1998020897": {
+"as": 3,
+"away": "DET",
+"date": "1999-03-14",
+"home": "COL",
+"hs": 1,
+"playoff": false,
+"season": 1998
+},
+"1998030241": {
+"as": 3,
+"away": "DET",
+"date": "1999-05-07",
+"end": "OT",
+"home": "COL",
+"hs": 2,
+"playoff": true,
+"season": 1998,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1998030242": {
+"as": 4,
+"away": "DET",
+"date": "1999-05-09",
+"home": "COL",
+"hs": 0,
+"playoff": true,
+"season": 1998,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1998030243": {
+"as": 5,
+"away": "COL",
+"date": "1999-05-11",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 1998,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1998030244": {
+"as": 6,
+"away": "COL",
+"date": "1999-05-13",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1998,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1998030245": {
+"as": 0,
+"away": "DET",
+"date": "1999-05-16",
+"home": "COL",
+"hs": 3,
+"playoff": true,
+"season": 1998,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1998030246": {
+"as": 5,
+"away": "COL",
+"date": "1999-05-18",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1998,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1999020139": {
+"as": 3,
+"away": "COL",
+"date": "1999-10-27",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1999
+},
+"1999020438": {
+"as": 2,
+"away": "COL",
+"date": "1999-12-17",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1999
+},
+"1999020782": {
+"as": 4,
+"away": "DET",
+"date": "2000-02-13",
+"home": "COL",
+"hs": 3,
+"playoff": false,
+"season": 1999
+},
+"1999021002": {
+"as": 4,
+"away": "DET",
+"date": "2000-03-18",
+"home": "COL",
+"hs": 3,
+"playoff": false,
+"season": 1999
+},
+"1999021146": {
+"as": 2,
+"away": "DET",
+"date": "2000-04-09",
+"home": "COL",
+"hs": 3,
+"playoff": false,
+"season": 1999
+},
+"1999030241": {
+"as": 0,
+"away": "DET",
+"date": "2000-04-27",
+"home": "COL",
+"hs": 2,
+"playoff": true,
+"season": 1999,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1999030242": {
+"as": 1,
+"away": "DET",
+"date": "2000-04-29",
+"home": "COL",
+"hs": 3,
+"playoff": true,
+"season": 1999,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1999030243": {
+"as": 1,
+"away": "COL",
+"date": "2000-05-01",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 1999,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1999030244": {
+"as": 3,
+"away": "COL",
+"date": "2000-05-03",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1999,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"1999030245": {
+"as": 2,
+"away": "DET",
+"date": "2000-05-05",
+"home": "COL",
+"hs": 4,
+"playoff": true,
+"season": 1999,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2000020464": {
+"as": 5,
+"away": "DET",
+"date": "2000-12-15",
+"home": "COL",
+"hs": 3,
+"playoff": false,
+"season": 2000
+},
+"2000020616": {
+"as": 3,
+"away": "COL",
+"date": "2001-01-07",
+"end": "OT",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2000
+},
+"2000021072": {
+"as": 3,
+"away": "DET",
+"date": "2001-03-17",
+"home": "COL",
+"hs": 5,
+"playoff": false,
+"season": 2000
+},
+"2000021220": {
+"as": 3,
+"away": "COL",
+"date": "2001-04-07",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2000
+},
+"2001020412": {
+"as": 4,
+"away": "COL",
+"date": "2001-12-05",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2001
+},
+"2001020622": {
+"as": 1,
+"away": "COL",
+"date": "2002-01-05",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2001
+},
+"2001020813": {
+"as": 3,
+"away": "DET",
+"date": "2002-02-04",
+"home": "COL",
+"hs": 1,
+"playoff": false,
+"season": 2001
+},
+"2001021069": {
+"as": 2,
+"away": "DET",
+"date": "2002-03-23",
+"home": "COL",
+"hs": 0,
+"playoff": false,
+"season": 2001
+},
+"2001030321": {
+"as": 3,
+"away": "COL",
+"date": "2002-05-18",
+"home": "DET",
+"hs": 5,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2001030322": {
+"as": 4,
+"away": "COL",
+"date": "2002-05-20",
+"end": "OT",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2001030323": {
+"as": 2,
+"away": "DET",
+"date": "2002-05-22",
+"end": "OT",
+"home": "COL",
+"hs": 1,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2001030324": {
+"as": 2,
+"away": "DET",
+"date": "2002-05-25",
+"home": "COL",
+"hs": 3,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2001030325": {
+"as": 2,
+"away": "COL",
+"date": "2002-05-27",
+"end": "OT",
+"home": "DET",
+"hs": 1,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2001030326": {
+"as": 2,
+"away": "DET",
+"date": "2002-05-29",
+"home": "COL",
+"hs": 0,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2001030327": {
+"as": 0,
+"away": "COL",
+"date": "2002-05-31",
+"home": "DET",
+"hs": 7,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2002020673": {
+"as": 4,
+"away": "DET",
+"date": "2003-01-16",
+"home": "COL",
+"hs": 2,
+"playoff": false,
+"season": 2002
+},
+"2002020800": {
+"as": 1,
+"away": "COL",
+"date": "2003-02-06",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 2002
+},
+"2002020812": {
+"as": 3,
+"away": "DET",
+"date": "2003-02-08",
+"home": "COL",
+"hs": 5,
+"playoff": false,
+"season": 2002
+},
+"2002021062": {
+"as": 3,
+"away": "COL",
+"date": "2003-03-15",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2002
+},
+"2003020821": {
+"as": 3,
+"away": "DET",
+"date": "2004-02-05",
+"end": "OT",
+"home": "COL",
+"hs": 2,
+"playoff": false,
+"season": 2003
+},
+"2003020855": {
+"as": 5,
+"away": "COL",
+"date": "2004-02-14",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2003
+},
+"2003021154": {
+"as": 3,
+"away": "DET",
+"date": "2004-03-25",
+"home": "COL",
+"hs": 1,
+"playoff": false,
+"season": 2003
+},
+"2003021163": {
+"as": 0,
+"away": "COL",
+"date": "2004-03-27",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2003
+},
+"2005020328": {
+"as": 3,
+"away": "COL",
+"date": "2005-11-23",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 2005
+},
+"2005020702": {
+"as": 4,
+"away": "DET",
+"date": "2006-01-21",
+"home": "COL",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2005020802": {
+"as": 3,
+"away": "DET",
+"date": "2006-02-04",
+"home": "COL",
+"hs": 0,
+"playoff": false,
+"season": 2005
+},
+"2005020861": {
+"as": 3,
+"away": "COL",
+"date": "2006-02-12",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 2005
+},
+"2006020644": {
+"as": 4,
+"away": "DET",
+"date": "2007-01-09",
+"end": "SO",
+"home": "COL",
+"hs": 3,
+"playoff": false,
+"season": 2006
+},
+"2006020724": {
+"as": 1,
+"away": "DET",
+"date": "2007-01-20",
+"home": "COL",
+"hs": 3,
+"playoff": false,
+"season": 2006
+},
+"2006020751": {
+"as": 1,
+"away": "COL",
+"date": "2007-01-28",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2006
+},
+"2006020984": {
+"as": 4,
+"away": "COL",
+"date": "2007-03-04",
+"end": "OT",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2006
+},
+"2007020551": {
+"as": 4,
+"away": "DET",
+"date": "2007-12-27",
+"home": "COL",
+"hs": 2,
+"playoff": false,
+"season": 2007
+},
+"2007020633": {
+"as": 0,
+"away": "COL",
+"date": "2008-01-08",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2007
+},
+"2007020781": {
+"as": 0,
+"away": "COL",
+"date": "2008-02-01",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2007
+},
+"2007020900": {
+"as": 4,
+"away": "DET",
+"date": "2008-02-18",
+"home": "COL",
+"hs": 0,
+"playoff": false,
+"season": 2007
+},
+"2007030231": {
+"as": 3,
+"away": "COL",
+"date": "2008-04-24",
+"home": "DET",
+"hs": 4,
+"playoff": true,
+"season": 2007,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2007030232": {
+"as": 1,
+"away": "COL",
+"date": "2008-04-26",
+"home": "DET",
+"hs": 5,
+"playoff": true,
+"season": 2007,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2007030233": {
+"as": 4,
+"away": "DET",
+"date": "2008-04-29",
+"home": "COL",
+"hs": 3,
+"playoff": true,
+"season": 2007,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2007030234": {
+"as": 8,
+"away": "DET",
+"date": "2008-05-01",
+"home": "COL",
+"hs": 2,
+"playoff": true,
+"season": 2007,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2008020444": {
+"as": 3,
+"away": "COL",
+"date": "2008-12-15",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2008
+},
+"2008020524": {
+"as": 3,
+"away": "DET",
+"date": "2008-12-27",
+"end": "SO",
+"home": "COL",
+"hs": 4,
+"playoff": false,
+"season": 2008
+},
+"2008020837": {
+"as": 6,
+"away": "COL",
+"date": "2009-02-15",
+"end": "SO",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2008
+},
+"2008020954": {
+"as": 3,
+"away": "DET",
+"date": "2009-03-04",
+"home": "COL",
+"hs": 2,
+"playoff": false,
+"season": 2008
+},
+"2009020099": {
+"as": 4,
+"away": "COL",
+"date": "2009-10-17",
+"end": "SO",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2009
+},
+"2009020141": {
+"as": 1,
+"away": "DET",
+"date": "2009-10-24",
+"home": "COL",
+"hs": 3,
+"playoff": false,
+"season": 2009
+},
+"2009020600": {
+"as": 2,
+"away": "COL",
+"date": "2009-12-31",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2009
+},
+"2009020922": {
+"as": 3,
+"away": "DET",
+"date": "2010-03-01",
+"home": "COL",
+"hs": 2,
+"playoff": false,
+"season": 2009
+},
+"2010020034": {
+"as": 5,
+"away": "COL",
+"date": "2010-10-12",
+"end": "SO",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2010
+},
+"2010020239": {
+"as": 1,
+"away": "COL",
+"date": "2010-11-13",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2010
+},
+"2010020533": {
+"as": 4,
+"away": "DET",
+"date": "2010-12-27",
+"end": "OT",
+"home": "COL",
+"hs": 3,
+"playoff": false,
+"season": 2010
+},
+"2010020630": {
+"as": 4,
+"away": "DET",
+"date": "2011-01-10",
+"home": "COL",
+"hs": 5,
+"playoff": false,
+"season": 2010
+},
+"2011020018": {
+"as": 3,
+"away": "DET",
+"date": "2011-10-08",
+"home": "COL",
+"hs": 0,
+"playoff": false,
+"season": 2011
+},
+"2011020207": {
+"as": 2,
+"away": "COL",
+"date": "2011-11-08",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2011
+},
+"2011020384": {
+"as": 2,
+"away": "DET",
+"date": "2011-12-04",
+"home": "COL",
+"hs": 4,
+"playoff": false,
+"season": 2011
+},
+"2011020922": {
+"as": 4,
+"away": "COL",
+"date": "2012-02-25",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2011
+},
+"2012020331": {
+"as": 1,
+"away": "COL",
+"date": "2013-03-05",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2012
+},
+"2012020525": {
+"as": 2,
+"away": "COL",
+"date": "2013-04-01",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2012
+},
+"2012020556": {
+"as": 3,
+"away": "DET",
+"date": "2013-04-05",
+"end": "OT",
+"home": "COL",
+"hs": 2,
+"playoff": false,
+"season": 2012
+},
+"2013020107": {
+"as": 4,
+"away": "DET",
+"date": "2013-10-17",
+"home": "COL",
+"hs": 2,
+"playoff": false,
+"season": 2013
+},
+"2013020940": {
+"as": 3,
+"away": "COL",
+"date": "2014-03-06",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2013
+},
+"2014020491": {
+"as": 2,
+"away": "COL",
+"date": "2014-12-21",
+"end": "SO",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2014
+},
+"2014020765": {
+"as": 3,
+"away": "DET",
+"date": "2015-02-05",
+"home": "COL",
+"hs": 0,
+"playoff": false,
+"season": 2014
+},
+"2015020821": {
+"as": 3,
+"away": "COL",
+"date": "2016-02-12",
+"end": "SO",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2015
+},
+"2015020927": {
+"as": 5,
+"away": "DET",
+"date": "2016-02-27",
+"home": "COL",
+"hs": 3,
+"neutral": true,
+"playoff": false,
+"season": 2015
+},
+"2016021035": {
+"as": 1,
+"away": "DET",
+"date": "2017-03-15",
+"home": "COL",
+"hs": 3,
+"playoff": false,
+"season": 2016
+},
+"2016021053": {
+"as": 1,
+"away": "COL",
+"date": "2017-03-18",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2016
+},
+"2017020306": {
+"as": 4,
+"away": "COL",
+"date": "2017-11-19",
+"end": "OT",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2017
+},
+"2017021108": {
+"as": 1,
+"away": "DET",
+"date": "2018-03-18",
+"home": "COL",
+"hs": 5,
+"playoff": false,
+"season": 2017
+},
+"2018020410": {
+"as": 2,
+"away": "COL",
+"date": "2018-12-02",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 2018
+},
+"2018021026": {
+"as": 3,
+"away": "DET",
+"date": "2019-03-05",
+"end": "OT",
+"home": "COL",
+"hs": 4,
+"playoff": false,
+"season": 2018
+},
+"2019020759": {
+"as": 3,
+"away": "DET",
+"date": "2020-01-20",
+"home": "COL",
+"hs": 6,
+"playoff": false,
+"season": 2019
+},
+"2019021017": {
+"as": 2,
+"away": "COL",
+"date": "2020-03-02",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2019
+},
+"2021020415": {
+"as": 3,
+"away": "DET",
+"date": "2021-12-10",
+"home": "COL",
+"hs": 7,
+"playoff": false,
+"season": 2021
+},
+"2021020490": {
+"as": 5,
+"away": "COL",
+"date": "2022-02-23",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2021
+},
+"2022020696": {
+"as": 3,
+"away": "DET",
+"date": "2023-01-16",
+"home": "COL",
+"hs": 6,
+"playoff": false,
+"season": 2022
+},
+"2022021095": {
+"as": 5,
+"away": "COL",
+"date": "2023-03-18",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2022
+},
+"2023020890": {
+"as": 1,
+"away": "COL",
+"date": "2024-02-22",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2023
+},
+"2023020991": {
+"as": 2,
+"away": "DET",
+"date": "2024-03-06",
+"home": "COL",
+"hs": 7,
+"playoff": false,
+"season": 2023
+},
+"2024020432": {
+"as": 2,
+"away": "COL",
+"date": "2024-12-07",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2024
+},
+"2024021136": {
+"as": 2,
+"away": "DET",
+"date": "2025-03-25",
+"home": "COL",
+"hs": 5,
+"playoff": false,
+"season": 2024
+},
+"2025020860": {
+"as": 5,
+"away": "COL",
+"date": "2026-01-31",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 2025
+},
+"2025020883": {
+"as": 2,
+"away": "DET",
+"date": "2026-02-02",
+"home": "COL",
+"hs": 0,
+"playoff": false,
+"season": 2025
+}
+},
+"seasons": [
+1995,
+1996,
+1997,
+1998,
+1999,
+2000,
+2001,
+2002,
+2003,
+2004,
+2005,
+2006,
+2007,
+2008,
+2009,
+2010,
+2011,
+2012,
+2013,
+2014,
+2015,
+2016,
+2017,
+2018,
+2019,
+2020,
+2021,
+2022,
+2023,
+2024
+]
+}

@@ -1,0 +1,1739 @@
+{
+"games": {
+"1993020331": {
+"as": 2,
+"away": "ANA",
+"date": "1993-12-02",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 1993
+},
+"1993020462": {
+"as": 3,
+"away": "LA",
+"date": "1993-12-26",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 1993
+},
+"1993020648": {
+"as": 1,
+"away": "ANA",
+"date": "1994-01-29",
+"home": "LA",
+"hs": 5,
+"playoff": false,
+"season": 1993
+},
+"1993020720": {
+"as": 5,
+"away": "LA",
+"date": "1994-02-11",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 1993
+},
+"1993020916": {
+"as": 2,
+"away": "LA",
+"date": "1994-03-16",
+"home": "ANA",
+"hs": 5,
+"playoff": false,
+"season": 1993
+},
+"1993020998": {
+"as": 5,
+"away": "ANA",
+"date": "1994-03-30",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 1993
+},
+"1994020106": {
+"as": 3,
+"away": "ANA",
+"date": "1995-02-05",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 1994
+},
+"1994020361": {
+"as": 3,
+"away": "LA",
+"date": "1995-03-21",
+"end": "OT",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 1994
+},
+"1994020473": {
+"as": 1,
+"away": "LA",
+"date": "1995-04-09",
+"home": "ANA",
+"hs": 5,
+"playoff": false,
+"season": 1994
+},
+"1994020559": {
+"as": 2,
+"away": "ANA",
+"date": "1995-04-23",
+"end": "OT",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 1994
+},
+"1994020604": {
+"as": 1,
+"away": "ANA",
+"date": "1995-04-30",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 1994
+},
+"1995020209": {
+"as": 4,
+"away": "LA",
+"date": "1995-11-13",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 1995
+},
+"1995020462": {
+"as": 1,
+"away": "ANA",
+"date": "1995-12-27",
+"home": "LA",
+"hs": 7,
+"playoff": false,
+"season": 1995
+},
+"1995020488": {
+"as": 2,
+"away": "LA",
+"date": "1995-12-31",
+"end": "OT",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 1995
+},
+"1995020626": {
+"as": 4,
+"away": "ANA",
+"date": "1996-01-27",
+"home": "LA",
+"hs": 5,
+"playoff": false,
+"season": 1995
+},
+"1995020741": {
+"as": 2,
+"away": "ANA",
+"date": "1996-02-17",
+"end": "OT",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 1995
+},
+"1995020863": {
+"as": 2,
+"away": "LA",
+"date": "1996-03-10",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 1995
+},
+"1996020194": {
+"as": 4,
+"away": "LA",
+"date": "1996-11-08",
+"home": "ANA",
+"hs": 7,
+"playoff": false,
+"season": 1996
+},
+"1996020625": {
+"as": 2,
+"away": "ANA",
+"date": "1997-01-25",
+"end": "OT",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 1996
+},
+"1996020770": {
+"as": 1,
+"away": "ANA",
+"date": "1997-02-20",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 1996
+},
+"1996020924": {
+"as": 2,
+"away": "LA",
+"date": "1997-03-19",
+"home": "ANA",
+"hs": 6,
+"playoff": false,
+"season": 1996
+},
+"1996021039": {
+"as": 1,
+"away": "LA",
+"date": "1997-04-09",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 1996
+},
+"1997020598": {
+"as": 2,
+"away": "ANA",
+"date": "1998-01-12",
+"end": "OT",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 1997
+},
+"1997020650": {
+"as": 3,
+"away": "LA",
+"date": "1998-01-24",
+"end": "OT",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 1997
+},
+"1997020737": {
+"as": 5,
+"away": "LA",
+"date": "1998-02-07",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 1997
+},
+"1997020819": {
+"as": 3,
+"away": "ANA",
+"date": "1998-03-09",
+"end": "OT",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 1997
+},
+"1997021061": {
+"as": 4,
+"away": "ANA",
+"date": "1998-04-18",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 1997
+},
+"1998020212": {
+"as": 1,
+"away": "LA",
+"date": "1998-11-16",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 1998
+},
+"1998020366": {
+"as": 0,
+"away": "LA",
+"date": "1998-12-13",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 1998
+},
+"1998020734": {
+"as": 3,
+"away": "ANA",
+"date": "1999-02-15",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 1998
+},
+"1998020828": {
+"as": 1,
+"away": "LA",
+"date": "1999-03-03",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 1998
+},
+"1998020917": {
+"as": 4,
+"away": "ANA",
+"date": "1999-03-18",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 1998
+},
+"1998021088": {
+"as": 3,
+"away": "ANA",
+"date": "1999-04-15",
+"end": "OT",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 1998
+},
+"1999020355": {
+"as": 1,
+"away": "LA",
+"date": "1999-12-03",
+"end": "OT",
+"home": "ANA",
+"hs": 1,
+"playoff": false,
+"season": 1999
+},
+"1999020749": {
+"as": 5,
+"away": "ANA",
+"date": "2000-02-08",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 1999
+},
+"1999020981": {
+"as": 2,
+"away": "LA",
+"date": "2000-03-15",
+"end": "OT",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 1999
+},
+"1999021023": {
+"as": 5,
+"away": "ANA",
+"date": "2000-03-21",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 1999
+},
+"1999021091": {
+"as": 1,
+"away": "ANA",
+"date": "2000-04-01",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 1999
+},
+"1999021147": {
+"as": 4,
+"away": "LA",
+"date": "2000-04-09",
+"end": "OT",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 1999
+},
+"2000020114": {
+"as": 5,
+"away": "LA",
+"date": "2000-10-23",
+"end": "OT",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2000
+},
+"2000020129": {
+"as": 2,
+"away": "ANA",
+"date": "2000-10-25",
+"home": "LA",
+"hs": 6,
+"playoff": false,
+"season": 2000
+},
+"2000020390": {
+"as": 0,
+"away": "LA",
+"date": "2000-12-03",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2000
+},
+"2000020986": {
+"as": 0,
+"away": "LA",
+"date": "2001-03-04",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2000
+},
+"2000021123": {
+"as": 3,
+"away": "ANA",
+"date": "2001-03-24",
+"end": "OT",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2000
+},
+"2001020098": {
+"as": 1,
+"away": "ANA",
+"date": "2001-10-18",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2001
+},
+"2001020494": {
+"as": 3,
+"away": "LA",
+"date": "2001-12-16",
+"end": "OT",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2001
+},
+"2001020561": {
+"as": 2,
+"away": "ANA",
+"date": "2001-12-27",
+"end": "OT",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2001
+},
+"2001020738": {
+"as": 4,
+"away": "LA",
+"date": "2002-01-21",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2001
+},
+"2001021230": {
+"as": 0,
+"away": "ANA",
+"date": "2002-04-14",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 2001
+},
+"2002020046": {
+"as": 4,
+"away": "LA",
+"date": "2002-10-16",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2002
+},
+"2002020338": {
+"as": 2,
+"away": "LA",
+"date": "2002-11-29",
+"end": "OT",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2002
+},
+"2002020484": {
+"as": 4,
+"away": "ANA",
+"date": "2002-12-19",
+"home": "LA",
+"hs": 5,
+"playoff": false,
+"season": 2002
+},
+"2002020716": {
+"as": 5,
+"away": "LA",
+"date": "2003-01-22",
+"home": "ANA",
+"hs": 6,
+"playoff": false,
+"season": 2002
+},
+"2002020989": {
+"as": 2,
+"away": "ANA",
+"date": "2003-03-04",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 2002
+},
+"2003020609": {
+"as": 4,
+"away": "LA",
+"date": "2004-01-07",
+"end": "OT",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2003
+},
+"2003020739": {
+"as": 2,
+"away": "ANA",
+"date": "2004-01-24",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2003
+},
+"2003020760": {
+"as": 4,
+"away": "LA",
+"date": "2004-01-28",
+"end": "OT",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2003
+},
+"2003020959": {
+"as": 1,
+"away": "ANA",
+"date": "2004-02-28",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2003
+},
+"2003020970": {
+"as": 3,
+"away": "LA",
+"date": "2004-02-29",
+"home": "ANA",
+"hs": 6,
+"playoff": false,
+"season": 2003
+},
+"2003021073": {
+"as": 1,
+"away": "ANA",
+"date": "2004-03-14",
+"home": "LA",
+"hs": 5,
+"playoff": false,
+"season": 2003
+},
+"2005020137": {
+"as": 1,
+"away": "ANA",
+"date": "2005-10-25",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2005020467": {
+"as": 4,
+"away": "LA",
+"date": "2005-12-16",
+"end": "SO",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2005020629": {
+"as": 2,
+"away": "LA",
+"date": "2006-01-09",
+"home": "ANA",
+"hs": 6,
+"playoff": false,
+"season": 2005
+},
+"2005020723": {
+"as": 2,
+"away": "ANA",
+"date": "2006-01-23",
+"end": "SO",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2005020755": {
+"as": 6,
+"away": "ANA",
+"date": "2006-01-28",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2005
+},
+"2005020772": {
+"as": 3,
+"away": "LA",
+"date": "2006-01-30",
+"end": "OT",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2005
+},
+"2005021124": {
+"as": 2,
+"away": "LA",
+"date": "2006-04-04",
+"home": "ANA",
+"hs": 6,
+"playoff": false,
+"season": 2005
+},
+"2005021149": {
+"as": 4,
+"away": "ANA",
+"date": "2006-04-08",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2005
+},
+"2006020018": {
+"as": 3,
+"away": "LA",
+"date": "2006-10-06",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2006
+},
+"2006020118": {
+"as": 3,
+"away": "ANA",
+"date": "2006-10-22",
+"end": "SO",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2006
+},
+"2006020378": {
+"as": 4,
+"away": "ANA",
+"date": "2006-12-02",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2006
+},
+"2006020392": {
+"as": 3,
+"away": "LA",
+"date": "2006-12-03",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2006
+},
+"2006020884": {
+"as": 3,
+"away": "ANA",
+"date": "2007-02-17",
+"end": "SO",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2006
+},
+"2006020890": {
+"as": 4,
+"away": "LA",
+"date": "2007-02-18",
+"end": "SO",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2006
+},
+"2006020966": {
+"as": 3,
+"away": "ANA",
+"date": "2007-03-01",
+"end": "OT",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2006
+},
+"2006021085": {
+"as": 5,
+"away": "LA",
+"date": "2007-03-18",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2006
+},
+"2007020001": {
+"as": 1,
+"away": "ANA",
+"date": "2007-09-29",
+"home": "LA",
+"hs": 4,
+"neutral": true,
+"playoff": false,
+"season": 2007
+},
+"2007020002": {
+"as": 1,
+"away": "LA",
+"date": "2007-09-30",
+"home": "ANA",
+"hs": 4,
+"neutral": true,
+"playoff": false,
+"season": 2007
+},
+"2007020256": {
+"as": 3,
+"away": "LA",
+"date": "2007-11-13",
+"end": "SO",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2007
+},
+"2007020270": {
+"as": 6,
+"away": "ANA",
+"date": "2007-11-15",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2007020339": {
+"as": 2,
+"away": "LA",
+"date": "2007-11-25",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2007020752": {
+"as": 1,
+"away": "ANA",
+"date": "2008-01-24",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2007021153": {
+"as": 1,
+"away": "LA",
+"date": "2008-03-26",
+"end": "SO",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2007
+},
+"2007021218": {
+"as": 4,
+"away": "ANA",
+"date": "2008-04-05",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2008020042": {
+"as": 3,
+"away": "ANA",
+"date": "2008-10-14",
+"home": "LA",
+"hs": 6,
+"playoff": false,
+"season": 2008
+},
+"2008020176": {
+"as": 1,
+"away": "ANA",
+"date": "2008-11-04",
+"end": "OT",
+"home": "LA",
+"hs": 0,
+"playoff": false,
+"season": 2008
+},
+"2008020256": {
+"as": 0,
+"away": "LA",
+"date": "2008-11-16",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2008
+},
+"2008020595": {
+"as": 1,
+"away": "LA",
+"date": "2009-01-06",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2008
+},
+"2008020608": {
+"as": 3,
+"away": "ANA",
+"date": "2009-01-08",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2008
+},
+"2008020858": {
+"as": 4,
+"away": "LA",
+"date": "2009-02-18",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2008
+},
+"2009020392": {
+"as": 4,
+"away": "LA",
+"date": "2009-12-01",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2009
+},
+"2009020703": {
+"as": 0,
+"away": "ANA",
+"date": "2010-01-14",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2009
+},
+"2009020849": {
+"as": 4,
+"away": "ANA",
+"date": "2010-02-04",
+"home": "LA",
+"hs": 6,
+"playoff": false,
+"season": 2009
+},
+"2009020875": {
+"as": 2,
+"away": "LA",
+"date": "2010-02-08",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2009
+},
+"2009021174": {
+"as": 2,
+"away": "ANA",
+"date": "2010-04-03",
+"end": "SO",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 2009
+},
+"2009021192": {
+"as": 5,
+"away": "LA",
+"date": "2010-04-06",
+"end": "SO",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2009
+},
+"2010020352": {
+"as": 0,
+"away": "LA",
+"date": "2010-11-29",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2010
+},
+"2010020529": {
+"as": 1,
+"away": "ANA",
+"date": "2010-12-26",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2010
+},
+"2010020908": {
+"as": 3,
+"away": "LA",
+"date": "2011-02-23",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2010
+},
+"2010021078": {
+"as": 2,
+"away": "ANA",
+"date": "2011-03-19",
+"end": "OT",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 2010
+},
+"2010021214": {
+"as": 1,
+"away": "LA",
+"date": "2011-04-08",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2010
+},
+"2010021224": {
+"as": 3,
+"away": "ANA",
+"date": "2011-04-09",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 2010
+},
+"2011020259": {
+"as": 1,
+"away": "ANA",
+"date": "2011-11-16",
+"end": "SO",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2011
+},
+"2011020269": {
+"as": 5,
+"away": "LA",
+"date": "2011-11-17",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2011
+},
+"2011020400": {
+"as": 2,
+"away": "LA",
+"date": "2011-12-06",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2011
+},
+"2011020507": {
+"as": 2,
+"away": "ANA",
+"date": "2011-12-22",
+"end": "SO",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2011
+},
+"2011020972": {
+"as": 2,
+"away": "ANA",
+"date": "2012-03-03",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2011
+},
+"2011021064": {
+"as": 4,
+"away": "LA",
+"date": "2012-03-16",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2011
+},
+"2012020117": {
+"as": 4,
+"away": "LA",
+"date": "2013-02-02",
+"home": "ANA",
+"hs": 7,
+"playoff": false,
+"season": 2012
+},
+"2012020274": {
+"as": 2,
+"away": "ANA",
+"date": "2013-02-25",
+"home": "LA",
+"hs": 5,
+"playoff": false,
+"season": 2012
+},
+"2012020576": {
+"as": 3,
+"away": "LA",
+"date": "2013-04-07",
+"end": "SO",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2012
+},
+"2012020620": {
+"as": 1,
+"away": "ANA",
+"date": "2013-04-13",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2012
+},
+"2013020418": {
+"as": 3,
+"away": "LA",
+"date": "2013-12-03",
+"end": "SO",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2013
+},
+"2013020767": {
+"as": 1,
+"away": "LA",
+"date": "2014-01-23",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2013
+},
+"2013020782": {
+"as": 3,
+"away": "ANA",
+"date": "2014-01-25",
+"home": "LA",
+"hs": 0,
+"neutral": true,
+"playoff": false,
+"season": 2013
+},
+"2013021012": {
+"as": 2,
+"away": "ANA",
+"date": "2014-03-15",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 2013
+},
+"2013021220": {
+"as": 4,
+"away": "ANA",
+"date": "2014-04-12",
+"end": "SO",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2013
+},
+"2013030241": {
+"as": 3,
+"away": "LA",
+"date": "2014-05-03",
+"end": "OT",
+"home": "ANA",
+"hs": 2,
+"playoff": true,
+"season": 2013,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "2nd Round"
+}
+},
+"2013030242": {
+"as": 3,
+"away": "LA",
+"date": "2014-05-05",
+"home": "ANA",
+"hs": 1,
+"playoff": true,
+"season": 2013,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "2nd Round"
+}
+},
+"2013030243": {
+"as": 3,
+"away": "ANA",
+"date": "2014-05-08",
+"home": "LA",
+"hs": 2,
+"playoff": true,
+"season": 2013,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "2nd Round"
+}
+},
+"2013030244": {
+"as": 2,
+"away": "ANA",
+"date": "2014-05-10",
+"home": "LA",
+"hs": 0,
+"playoff": true,
+"season": 2013,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "2nd Round"
+}
+},
+"2013030245": {
+"as": 3,
+"away": "LA",
+"date": "2014-05-12",
+"home": "ANA",
+"hs": 4,
+"playoff": true,
+"season": 2013,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "2nd Round"
+}
+},
+"2013030246": {
+"as": 1,
+"away": "ANA",
+"date": "2014-05-14",
+"home": "LA",
+"hs": 2,
+"playoff": true,
+"season": 2013,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "2nd Round"
+}
+},
+"2013030247": {
+"as": 6,
+"away": "LA",
+"date": "2014-05-16",
+"home": "ANA",
+"hs": 2,
+"playoff": true,
+"season": 2013,
+"series": {
+"letter": "L",
+"need": 4,
+"round": 2,
+"title": "2nd Round"
+}
+},
+"2014020232": {
+"as": 5,
+"away": "LA",
+"date": "2014-11-12",
+"end": "SO",
+"home": "ANA",
+"hs": 6,
+"playoff": false,
+"season": 2014
+},
+"2014020250": {
+"as": 2,
+"away": "ANA",
+"date": "2014-11-15",
+"end": "OT",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2014
+},
+"2014020670": {
+"as": 3,
+"away": "ANA",
+"date": "2015-01-17",
+"end": "SO",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2014
+},
+"2014020922": {
+"as": 2,
+"away": "LA",
+"date": "2015-02-27",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2014
+},
+"2014021052": {
+"as": 2,
+"away": "LA",
+"date": "2015-03-18",
+"end": "OT",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2014
+},
+"2015020676": {
+"as": 3,
+"away": "LA",
+"date": "2016-01-17",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2015
+},
+"2015020770": {
+"as": 4,
+"away": "ANA",
+"date": "2016-02-04",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2015
+},
+"2015020935": {
+"as": 2,
+"away": "LA",
+"date": "2016-02-28",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2015
+},
+"2015020972": {
+"as": 3,
+"away": "ANA",
+"date": "2016-03-05",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2015
+},
+"2015021213": {
+"as": 1,
+"away": "ANA",
+"date": "2016-04-07",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2015
+},
+"2016020142": {
+"as": 4,
+"away": "ANA",
+"date": "2016-11-01",
+"home": "LA",
+"hs": 0,
+"playoff": false,
+"season": 2016
+},
+"2016020275": {
+"as": 3,
+"away": "LA",
+"date": "2016-11-20",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2016
+},
+"2016020878": {
+"as": 0,
+"away": "LA",
+"date": "2017-02-19",
+"home": "ANA",
+"hs": 1,
+"playoff": false,
+"season": 2016
+},
+"2016020904": {
+"as": 1,
+"away": "ANA",
+"date": "2017-02-25",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2016
+},
+"2016021229": {
+"as": 3,
+"away": "LA",
+"date": "2017-04-09",
+"end": "OT",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2016
+},
+"2017020231": {
+"as": 4,
+"away": "LA",
+"date": "2017-11-07",
+"end": "OT",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2017
+},
+"2017020358": {
+"as": 1,
+"away": "ANA",
+"date": "2017-11-25",
+"end": "SO",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2017
+},
+"2017020677": {
+"as": 4,
+"away": "ANA",
+"date": "2018-01-13",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2017
+},
+"2017020707": {
+"as": 1,
+"away": "LA",
+"date": "2018-01-19",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2017
+},
+"2017021204": {
+"as": 1,
+"away": "LA",
+"date": "2018-03-30",
+"end": "OT",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2017
+},
+"2018020222": {
+"as": 1,
+"away": "ANA",
+"date": "2018-11-06",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2018
+},
+"2018021064": {
+"as": 3,
+"away": "LA",
+"date": "2019-03-10",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2018
+},
+"2018021163": {
+"as": 3,
+"away": "ANA",
+"date": "2019-03-23",
+"end": "SO",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2018
+},
+"2018021256": {
+"as": 2,
+"away": "LA",
+"date": "2019-04-05",
+"home": "ANA",
+"hs": 5,
+"playoff": false,
+"season": 2018
+},
+"2019020423": {
+"as": 2,
+"away": "LA",
+"date": "2019-12-02",
+"home": "ANA",
+"hs": 4,
+"playoff": false,
+"season": 2019
+},
+"2019020497": {
+"as": 2,
+"away": "LA",
+"date": "2019-12-12",
+"home": "ANA",
+"hs": 1,
+"playoff": false,
+"season": 2019
+},
+"2019020804": {
+"as": 3,
+"away": "ANA",
+"date": "2020-02-01",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 2019
+},
+"2020020161": {
+"as": 3,
+"away": "ANA",
+"date": "2021-02-02",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 2020
+},
+"2020020400": {
+"as": 5,
+"away": "LA",
+"date": "2021-03-08",
+"end": "OT",
+"home": "ANA",
+"hs": 6,
+"playoff": false,
+"season": 2020
+},
+"2020020414": {
+"as": 5,
+"away": "LA",
+"date": "2021-03-10",
+"home": "ANA",
+"hs": 1,
+"playoff": false,
+"season": 2020
+},
+"2020020724": {
+"as": 1,
+"away": "ANA",
+"date": "2021-04-20",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2020
+},
+"2020020765": {
+"as": 1,
+"away": "ANA",
+"date": "2021-04-26",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2020
+},
+"2020020780": {
+"as": 3,
+"away": "ANA",
+"date": "2021-04-28",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2020
+},
+"2020020795": {
+"as": 2,
+"away": "LA",
+"date": "2021-04-30",
+"home": "ANA",
+"hs": 1,
+"playoff": false,
+"season": 2020
+},
+"2020020810": {
+"as": 2,
+"away": "LA",
+"date": "2021-05-01",
+"home": "ANA",
+"hs": 6,
+"playoff": false,
+"season": 2020
+},
+"2021020345": {
+"as": 5,
+"away": "ANA",
+"date": "2021-11-30",
+"end": "SO",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2021
+},
+"2021020828": {
+"as": 4,
+"away": "LA",
+"date": "2022-02-25",
+"home": "ANA",
+"hs": 1,
+"playoff": false,
+"season": 2021
+},
+"2021021226": {
+"as": 2,
+"away": "LA",
+"date": "2022-04-19",
+"home": "ANA",
+"hs": 1,
+"playoff": false,
+"season": 2021
+},
+"2021021258": {
+"as": 2,
+"away": "ANA",
+"date": "2022-04-23",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2021
+},
+"2022020516": {
+"as": 1,
+"away": "ANA",
+"date": "2022-12-20",
+"home": "LA",
+"hs": 4,
+"playoff": false,
+"season": 2022
+},
+"2022020882": {
+"as": 6,
+"away": "LA",
+"date": "2023-02-17",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2022
+},
+"2022021310": {
+"as": 5,
+"away": "LA",
+"date": "2023-04-13",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2022
+},
+"2023020299": {
+"as": 5,
+"away": "LA",
+"date": "2023-11-24",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2023
+},
+"2023020915": {
+"as": 2,
+"away": "ANA",
+"date": "2024-02-24",
+"end": "SO",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2023
+},
+"2023021249": {
+"as": 1,
+"away": "LA",
+"date": "2024-04-09",
+"home": "ANA",
+"hs": 3,
+"playoff": false,
+"season": 2023
+},
+"2023021281": {
+"as": 1,
+"away": "ANA",
+"date": "2024-04-13",
+"home": "LA",
+"hs": 3,
+"playoff": false,
+"season": 2023
+},
+"2024020090": {
+"as": 4,
+"away": "LA",
+"date": "2024-10-20",
+"home": "ANA",
+"hs": 1,
+"playoff": false,
+"season": 2024
+},
+"2024020370": {
+"as": 2,
+"away": "LA",
+"date": "2024-11-29",
+"home": "ANA",
+"hs": 1,
+"playoff": false,
+"season": 2024
+},
+"2024020888": {
+"as": 2,
+"away": "ANA",
+"date": "2025-02-08",
+"end": "SO",
+"home": "LA",
+"hs": 1,
+"playoff": false,
+"season": 2024
+},
+"2024021259": {
+"as": 1,
+"away": "ANA",
+"date": "2025-04-10",
+"home": "LA",
+"hs": 6,
+"playoff": false,
+"season": 2024
+},
+"2025020384": {
+"as": 4,
+"away": "LA",
+"date": "2025-11-28",
+"end": "SO",
+"home": "ANA",
+"hs": 5,
+"playoff": false,
+"season": 2025
+},
+"2025020597": {
+"as": 1,
+"away": "ANA",
+"date": "2025-12-27",
+"home": "LA",
+"hs": 6,
+"playoff": false,
+"season": 2025
+},
+"2025020753": {
+"as": 3,
+"away": "ANA",
+"date": "2026-01-16",
+"end": "SO",
+"home": "LA",
+"hs": 2,
+"playoff": false,
+"season": 2025
+},
+"2025020766": {
+"as": 1,
+"away": "LA",
+"date": "2026-01-17",
+"end": "OT",
+"home": "ANA",
+"hs": 2,
+"playoff": false,
+"season": 2025
+}
+},
+"seasons": [
+1993,
+1994,
+1995,
+1996,
+1997,
+1998,
+1999,
+2000,
+2001,
+2002,
+2003,
+2004,
+2005,
+2006,
+2007,
+2008,
+2009,
+2010,
+2011,
+2012,
+2013,
+2014,
+2015,
+2016,
+2017,
+2018,
+2019,
+2020,
+2021,
+2022,
+2023,
+2024
+]
+}

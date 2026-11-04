@@ -1,0 +1,1896 @@
+{
+"games": {
+"1992020074": {
+"as": 3,
+"away": "OTT",
+"date": "1992-10-20",
+"home": "TOR",
+"hs": 5,
+"neutral": true,
+"playoff": false,
+"season": 1992
+},
+"1992020178": {
+"as": 3,
+"away": "TOR",
+"date": "1992-11-09",
+"home": "OTT",
+"hs": 1,
+"playoff": false,
+"season": 1992
+},
+"1992020393": {
+"as": 1,
+"away": "OTT",
+"date": "1992-12-19",
+"home": "TOR",
+"hs": 5,
+"playoff": false,
+"season": 1992
+},
+"1993020521": {
+"as": 3,
+"away": "OTT",
+"date": "1994-01-06",
+"home": "TOR",
+"hs": 6,
+"playoff": false,
+"season": 1993
+},
+"1993020817": {
+"as": 4,
+"away": "TOR",
+"date": "1994-02-28",
+"home": "OTT",
+"hs": 1,
+"playoff": false,
+"season": 1993
+},
+"1995020334": {
+"as": 1,
+"away": "OTT",
+"date": "1995-12-05",
+"home": "TOR",
+"hs": 4,
+"playoff": false,
+"season": 1995
+},
+"1995020619": {
+"as": 2,
+"away": "TOR",
+"date": "1996-01-27",
+"end": "OT",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 1995
+},
+"1996020185": {
+"as": 2,
+"away": "TOR",
+"date": "1996-11-07",
+"home": "OTT",
+"hs": 6,
+"playoff": false,
+"season": 1996
+},
+"1996020660": {
+"as": 2,
+"away": "OTT",
+"date": "1997-02-01",
+"home": "TOR",
+"hs": 1,
+"playoff": false,
+"season": 1996
+},
+"1997020118": {
+"as": 6,
+"away": "OTT",
+"date": "1997-10-22",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 1997
+},
+"1997020717": {
+"as": 2,
+"away": "TOR",
+"date": "1998-02-05",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 1997
+},
+"1998020200": {
+"as": 1,
+"away": "OTT",
+"date": "1998-11-14",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 1998
+},
+"1998020277": {
+"as": 2,
+"away": "OTT",
+"date": "1998-11-28",
+"end": "OT",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 1998
+},
+"1998020842": {
+"as": 1,
+"away": "TOR",
+"date": "1999-03-06",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 1998
+},
+"1998021034": {
+"as": 2,
+"away": "OTT",
+"date": "1999-04-07",
+"home": "TOR",
+"hs": 4,
+"playoff": false,
+"season": 1998
+},
+"1998021042": {
+"as": 1,
+"away": "TOR",
+"date": "1999-04-08",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 1998
+},
+"1999020040": {
+"as": 3,
+"away": "TOR",
+"date": "1999-10-09",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 1999
+},
+"1999020415": {
+"as": 3,
+"away": "OTT",
+"date": "1999-12-13",
+"home": "TOR",
+"hs": 1,
+"playoff": false,
+"season": 1999
+},
+"1999020666": {
+"as": 3,
+"away": "OTT",
+"date": "2000-01-24",
+"end": "OT",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 1999
+},
+"1999020952": {
+"as": 4,
+"away": "TOR",
+"date": "2000-03-11",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 1999
+},
+"1999021032": {
+"as": 2,
+"away": "TOR",
+"date": "2000-03-23",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 1999
+},
+"1999030131": {
+"as": 0,
+"away": "OTT",
+"date": "2000-04-12",
+"home": "TOR",
+"hs": 2,
+"playoff": true,
+"season": 1999,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"1999030132": {
+"as": 1,
+"away": "OTT",
+"date": "2000-04-15",
+"home": "TOR",
+"hs": 5,
+"playoff": true,
+"season": 1999,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"1999030133": {
+"as": 3,
+"away": "TOR",
+"date": "2000-04-17",
+"home": "OTT",
+"hs": 4,
+"playoff": true,
+"season": 1999,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"1999030134": {
+"as": 1,
+"away": "TOR",
+"date": "2000-04-19",
+"home": "OTT",
+"hs": 2,
+"playoff": true,
+"season": 1999,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"1999030135": {
+"as": 1,
+"away": "OTT",
+"date": "2000-04-22",
+"end": "OT",
+"home": "TOR",
+"hs": 2,
+"playoff": true,
+"season": 1999,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"1999030136": {
+"as": 4,
+"away": "TOR",
+"date": "2000-04-24",
+"home": "OTT",
+"hs": 2,
+"playoff": true,
+"season": 1999,
+"series": {
+"letter": "C",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2000020053": {
+"as": 4,
+"away": "OTT",
+"date": "2000-10-14",
+"home": "TOR",
+"hs": 0,
+"playoff": false,
+"season": 2000
+},
+"2000020162": {
+"as": 3,
+"away": "TOR",
+"date": "2000-10-31",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2000
+},
+"2000020327": {
+"as": 4,
+"away": "OTT",
+"date": "2000-11-25",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2000
+},
+"2000020972": {
+"as": 3,
+"away": "OTT",
+"date": "2001-03-03",
+"end": "OT",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2000
+},
+"2000021217": {
+"as": 3,
+"away": "TOR",
+"date": "2001-04-07",
+"home": "OTT",
+"hs": 5,
+"playoff": false,
+"season": 2000
+},
+"2000030121": {
+"as": 1,
+"away": "TOR",
+"date": "2001-04-13",
+"end": "OT",
+"home": "OTT",
+"hs": 0,
+"playoff": true,
+"season": 2000,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2000030122": {
+"as": 3,
+"away": "TOR",
+"date": "2001-04-14",
+"home": "OTT",
+"hs": 0,
+"playoff": true,
+"season": 2000,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2000030123": {
+"as": 2,
+"away": "OTT",
+"date": "2001-04-16",
+"end": "OT",
+"home": "TOR",
+"hs": 3,
+"playoff": true,
+"season": 2000,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2000030124": {
+"as": 1,
+"away": "OTT",
+"date": "2001-04-18",
+"home": "TOR",
+"hs": 3,
+"playoff": true,
+"season": 2000,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2001020001": {
+"as": 5,
+"away": "OTT",
+"date": "2001-10-03",
+"home": "TOR",
+"hs": 4,
+"playoff": false,
+"season": 2001
+},
+"2001020289": {
+"as": 1,
+"away": "TOR",
+"date": "2001-11-17",
+"end": "OT",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2001
+},
+"2001020618": {
+"as": 1,
+"away": "OTT",
+"date": "2002-01-05",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2001
+},
+"2001020634": {
+"as": 3,
+"away": "TOR",
+"date": "2002-01-07",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2001
+},
+"2001021216": {
+"as": 5,
+"away": "TOR",
+"date": "2002-04-13",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2001
+},
+"2001030221": {
+"as": 5,
+"away": "OTT",
+"date": "2002-05-02",
+"home": "TOR",
+"hs": 0,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2001030222": {
+"as": 2,
+"away": "OTT",
+"date": "2002-05-04",
+"end": "OT",
+"home": "TOR",
+"hs": 3,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2001030223": {
+"as": 2,
+"away": "TOR",
+"date": "2002-05-06",
+"home": "OTT",
+"hs": 3,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2001030224": {
+"as": 2,
+"away": "TOR",
+"date": "2002-05-08",
+"home": "OTT",
+"hs": 1,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2001030225": {
+"as": 4,
+"away": "OTT",
+"date": "2002-05-10",
+"home": "TOR",
+"hs": 2,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2001030226": {
+"as": 4,
+"away": "TOR",
+"date": "2002-05-12",
+"home": "OTT",
+"hs": 3,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2001030227": {
+"as": 0,
+"away": "OTT",
+"date": "2002-05-14",
+"home": "TOR",
+"hs": 3,
+"playoff": true,
+"season": 2001,
+"series": {
+"letter": "J",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2002020018": {
+"as": 2,
+"away": "OTT",
+"date": "2002-10-12",
+"home": "TOR",
+"hs": 1,
+"playoff": false,
+"season": 2002
+},
+"2002020311": {
+"as": 0,
+"away": "TOR",
+"date": "2002-11-25",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2002
+},
+"2002020861": {
+"as": 1,
+"away": "OTT",
+"date": "2003-02-15",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2002
+},
+"2002020981": {
+"as": 1,
+"away": "TOR",
+"date": "2003-03-04",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2002
+},
+"2002021217": {
+"as": 3,
+"away": "OTT",
+"date": "2003-04-05",
+"home": "TOR",
+"hs": 1,
+"playoff": false,
+"season": 2002
+},
+"2003020338": {
+"as": 2,
+"away": "TOR",
+"date": "2003-11-29",
+"home": "OTT",
+"hs": 1,
+"playoff": false,
+"season": 2003
+},
+"2003020780": {
+"as": 1,
+"away": "OTT",
+"date": "2004-01-31",
+"home": "TOR",
+"hs": 5,
+"playoff": false,
+"season": 2003
+},
+"2003020816": {
+"as": 5,
+"away": "TOR",
+"date": "2004-02-05",
+"end": "OT",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2003
+},
+"2003020976": {
+"as": 7,
+"away": "OTT",
+"date": "2004-01-08",
+"home": "TOR",
+"hs": 1,
+"playoff": false,
+"season": 2003
+},
+"2003021167": {
+"as": 2,
+"away": "OTT",
+"date": "2004-03-27",
+"end": "OT",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2003
+},
+"2003021218": {
+"as": 6,
+"away": "TOR",
+"date": "2004-04-03",
+"home": "OTT",
+"hs": 0,
+"playoff": false,
+"season": 2003
+},
+"2003030141": {
+"as": 4,
+"away": "OTT",
+"date": "2004-04-08",
+"home": "TOR",
+"hs": 2,
+"playoff": true,
+"season": 2003,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2003030142": {
+"as": 0,
+"away": "OTT",
+"date": "2004-04-10",
+"home": "TOR",
+"hs": 2,
+"playoff": true,
+"season": 2003,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2003030143": {
+"as": 2,
+"away": "TOR",
+"date": "2004-04-12",
+"home": "OTT",
+"hs": 0,
+"playoff": true,
+"season": 2003,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2003030144": {
+"as": 1,
+"away": "TOR",
+"date": "2004-04-14",
+"home": "OTT",
+"hs": 4,
+"playoff": true,
+"season": 2003,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2003030145": {
+"as": 0,
+"away": "OTT",
+"date": "2004-04-16",
+"home": "TOR",
+"hs": 2,
+"playoff": true,
+"season": 2003,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2003030146": {
+"as": 1,
+"away": "TOR",
+"date": "2004-04-18",
+"end": "OT",
+"home": "OTT",
+"hs": 2,
+"playoff": true,
+"season": 2003,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2003030147": {
+"as": 1,
+"away": "OTT",
+"date": "2004-04-20",
+"home": "TOR",
+"hs": 4,
+"playoff": true,
+"season": 2003,
+"series": {
+"letter": "D",
+"need": 4,
+"round": 1,
+"title": "Conference Quarterfinals"
+}
+},
+"2005020006": {
+"as": 3,
+"away": "OTT",
+"date": "2005-10-05",
+"end": "SO",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2005
+},
+"2005020044": {
+"as": 5,
+"away": "TOR",
+"date": "2005-10-10",
+"end": "SO",
+"home": "OTT",
+"hs": 6,
+"playoff": false,
+"season": 2005
+},
+"2005020160": {
+"as": 8,
+"away": "OTT",
+"date": "2005-10-29",
+"home": "TOR",
+"hs": 0,
+"playoff": false,
+"season": 2005
+},
+"2005020469": {
+"as": 2,
+"away": "TOR",
+"date": "2005-12-17",
+"home": "OTT",
+"hs": 8,
+"playoff": false,
+"season": 2005
+},
+"2005020705": {
+"as": 0,
+"away": "TOR",
+"date": "2006-01-21",
+"home": "OTT",
+"hs": 7,
+"playoff": false,
+"season": 2005
+},
+"2005020718": {
+"as": 3,
+"away": "TOR",
+"date": "2006-01-23",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2005
+},
+"2005020895": {
+"as": 4,
+"away": "OTT",
+"date": "2006-03-04",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2005
+},
+"2005021201": {
+"as": 1,
+"away": "OTT",
+"date": "2006-04-15",
+"home": "TOR",
+"hs": 5,
+"playoff": false,
+"season": 2005
+},
+"2006020002": {
+"as": 4,
+"away": "OTT",
+"date": "2006-10-04",
+"home": "TOR",
+"hs": 1,
+"playoff": false,
+"season": 2006
+},
+"2006020004": {
+"as": 6,
+"away": "TOR",
+"date": "2006-10-05",
+"home": "OTT",
+"hs": 0,
+"playoff": false,
+"season": 2006
+},
+"2006020126": {
+"as": 6,
+"away": "OTT",
+"date": "2006-10-24",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2006
+},
+"2006020137": {
+"as": 2,
+"away": "TOR",
+"date": "2006-10-26",
+"home": "OTT",
+"hs": 7,
+"playoff": false,
+"season": 2006
+},
+"2006020570": {
+"as": 3,
+"away": "OTT",
+"date": "2006-12-30",
+"end": "OT",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2006
+},
+"2006020788": {
+"as": 3,
+"away": "TOR",
+"date": "2007-02-03",
+"end": "SO",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2006
+},
+"2006021008": {
+"as": 1,
+"away": "TOR",
+"date": "2007-03-08",
+"home": "OTT",
+"hs": 5,
+"playoff": false,
+"season": 2006
+},
+"2006021023": {
+"as": 3,
+"away": "OTT",
+"date": "2007-03-10",
+"end": "OT",
+"home": "TOR",
+"hs": 4,
+"playoff": false,
+"season": 2006
+},
+"2007020005": {
+"as": 4,
+"away": "OTT",
+"date": "2007-10-03",
+"end": "OT",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2007020008": {
+"as": 2,
+"away": "TOR",
+"date": "2007-10-04",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2007020212": {
+"as": 1,
+"away": "TOR",
+"date": "2007-11-06",
+"home": "OTT",
+"hs": 5,
+"playoff": false,
+"season": 2007
+},
+"2007020279": {
+"as": 0,
+"away": "OTT",
+"date": "2007-11-17",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2007020786": {
+"as": 2,
+"away": "OTT",
+"date": "2008-02-02",
+"home": "TOR",
+"hs": 4,
+"playoff": false,
+"season": 2007
+},
+"2007020949": {
+"as": 5,
+"away": "TOR",
+"date": "2008-02-25",
+"home": "OTT",
+"hs": 0,
+"playoff": false,
+"season": 2007
+},
+"2007021128": {
+"as": 5,
+"away": "TOR",
+"date": "2008-03-22",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2007
+},
+"2007021203": {
+"as": 8,
+"away": "OTT",
+"date": "2008-04-03",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2007
+},
+"2008020106": {
+"as": 2,
+"away": "OTT",
+"date": "2008-10-25",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2008
+},
+"2008020321": {
+"as": 1,
+"away": "TOR",
+"date": "2008-11-27",
+"end": "SO",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2008
+},
+"2008020568": {
+"as": 1,
+"away": "OTT",
+"date": "2009-01-03",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2008
+},
+"2008020927": {
+"as": 4,
+"away": "TOR",
+"date": "2009-02-28",
+"end": "OT",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2008
+},
+"2008020987": {
+"as": 1,
+"away": "TOR",
+"date": "2009-03-09",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2008
+},
+"2008021220": {
+"as": 2,
+"away": "OTT",
+"date": "2009-04-11",
+"home": "TOR",
+"hs": 5,
+"playoff": false,
+"season": 2008
+},
+"2009020026": {
+"as": 2,
+"away": "OTT",
+"date": "2009-10-06",
+"home": "TOR",
+"hs": 1,
+"playoff": false,
+"season": 2009
+},
+"2009020291": {
+"as": 2,
+"away": "TOR",
+"date": "2009-11-17",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2009
+},
+"2009020481": {
+"as": 2,
+"away": "OTT",
+"date": "2009-12-14",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2009
+},
+"2009020859": {
+"as": 0,
+"away": "OTT",
+"date": "2010-02-06",
+"home": "TOR",
+"hs": 5,
+"playoff": false,
+"season": 2009
+},
+"2009020957": {
+"as": 2,
+"away": "TOR",
+"date": "2010-03-06",
+"end": "SO",
+"home": "OTT",
+"hs": 1,
+"playoff": false,
+"season": 2009
+},
+"2009021031": {
+"as": 4,
+"away": "TOR",
+"date": "2010-03-16",
+"home": "OTT",
+"hs": 1,
+"playoff": false,
+"season": 2009
+},
+"2010020014": {
+"as": 1,
+"away": "OTT",
+"date": "2010-10-09",
+"home": "TOR",
+"hs": 5,
+"playoff": false,
+"season": 2010
+},
+"2010020160": {
+"as": 3,
+"away": "OTT",
+"date": "2010-11-02",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2010
+},
+"2010020337": {
+"as": 0,
+"away": "TOR",
+"date": "2010-11-27",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2010
+},
+"2010020568": {
+"as": 5,
+"away": "TOR",
+"date": "2011-01-01",
+"home": "OTT",
+"hs": 1,
+"playoff": false,
+"season": 2010
+},
+"2010020878": {
+"as": 1,
+"away": "OTT",
+"date": "2011-02-19",
+"end": "SO",
+"home": "TOR",
+"hs": 0,
+"playoff": false,
+"season": 2010
+},
+"2010021168": {
+"as": 4,
+"away": "TOR",
+"date": "2011-04-02",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2010
+},
+"2011020011": {
+"as": 5,
+"away": "OTT",
+"date": "2011-10-08",
+"home": "TOR",
+"hs": 6,
+"playoff": false,
+"season": 2011
+},
+"2011020154": {
+"as": 2,
+"away": "TOR",
+"date": "2011-10-30",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2011
+},
+"2011020230": {
+"as": 5,
+"away": "OTT",
+"date": "2011-11-12",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2011
+},
+"2011020670": {
+"as": 3,
+"away": "OTT",
+"date": "2012-01-17",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2011
+},
+"2011020771": {
+"as": 5,
+"away": "TOR",
+"date": "2012-02-04",
+"home": "OTT",
+"hs": 0,
+"playoff": false,
+"season": 2011
+},
+"2011021069": {
+"as": 3,
+"away": "TOR",
+"date": "2012-03-17",
+"home": "OTT",
+"hs": 1,
+"playoff": false,
+"season": 2011
+},
+"2012020205": {
+"as": 0,
+"away": "OTT",
+"date": "2013-02-16",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2012
+},
+"2012020256": {
+"as": 2,
+"away": "TOR",
+"date": "2013-02-23",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2012
+},
+"2012020335": {
+"as": 4,
+"away": "OTT",
+"date": "2013-03-06",
+"home": "TOR",
+"hs": 5,
+"playoff": false,
+"season": 2012
+},
+"2012020513": {
+"as": 4,
+"away": "TOR",
+"date": "2013-03-30",
+"home": "OTT",
+"hs": 0,
+"playoff": false,
+"season": 2012
+},
+"2012020663": {
+"as": 4,
+"away": "TOR",
+"date": "2013-04-20",
+"home": "OTT",
+"hs": 1,
+"playoff": false,
+"season": 2012
+},
+"2013020022": {
+"as": 4,
+"away": "OTT",
+"date": "2013-10-05",
+"end": "SO",
+"home": "TOR",
+"hs": 5,
+"playoff": false,
+"season": 2013
+},
+"2013020440": {
+"as": 4,
+"away": "TOR",
+"date": "2013-12-07",
+"end": "SO",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2013
+},
+"2013020828": {
+"as": 3,
+"away": "OTT",
+"date": "2014-02-01",
+"home": "TOR",
+"hs": 6,
+"playoff": false,
+"season": 2013
+},
+"2013021215": {
+"as": 0,
+"away": "TOR",
+"date": "2014-04-12",
+"home": "OTT",
+"hs": 1,
+"playoff": false,
+"season": 2013
+},
+"2014020089": {
+"as": 5,
+"away": "TOR",
+"date": "2014-11-09",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2014
+},
+"2014020691": {
+"as": 3,
+"away": "TOR",
+"date": "2015-01-21",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2014
+},
+"2014021070": {
+"as": 3,
+"away": "TOR",
+"date": "2015-03-21",
+"home": "OTT",
+"hs": 5,
+"playoff": false,
+"season": 2014
+},
+"2014021121": {
+"as": 3,
+"away": "OTT",
+"date": "2015-03-28",
+"end": "OT",
+"home": "TOR",
+"hs": 4,
+"playoff": false,
+"season": 2014
+},
+"2014021182": {
+"as": 2,
+"away": "OTT",
+"date": "2015-04-05",
+"end": "SO",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2014
+},
+"2015020019": {
+"as": 5,
+"away": "OTT",
+"date": "2015-10-10",
+"end": "SO",
+"home": "TOR",
+"hs": 4,
+"playoff": false,
+"season": 2015
+},
+"2015020780": {
+"as": 1,
+"away": "TOR",
+"date": "2016-02-06",
+"home": "OTT",
+"hs": 6,
+"playoff": false,
+"season": 2015
+},
+"2015020974": {
+"as": 3,
+"away": "OTT",
+"date": "2016-03-05",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2015
+},
+"2015021022": {
+"as": 0,
+"away": "TOR",
+"date": "2016-03-12",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2015
+},
+"2016020001": {
+"as": 4,
+"away": "TOR",
+"date": "2016-10-12",
+"end": "OT",
+"home": "OTT",
+"hs": 5,
+"playoff": false,
+"season": 2016
+},
+"2016020643": {
+"as": 4,
+"away": "TOR",
+"date": "2017-01-14",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2016
+},
+"2016020693": {
+"as": 3,
+"away": "OTT",
+"date": "2017-01-21",
+"end": "SO",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2016
+},
+"2016020861": {
+"as": 6,
+"away": "OTT",
+"date": "2017-02-18",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2016
+},
+"2017020113": {
+"as": 3,
+"away": "TOR",
+"date": "2017-10-21",
+"home": "OTT",
+"hs": 6,
+"playoff": false,
+"season": 2017
+},
+"2017020660": {
+"as": 4,
+"away": "OTT",
+"date": "2018-01-10",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2017
+},
+"2017020713": {
+"as": 4,
+"away": "TOR",
+"date": "2018-01-20",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2017
+},
+"2017020844": {
+"as": 3,
+"away": "OTT",
+"date": "2018-02-10",
+"home": "TOR",
+"hs": 6,
+"playoff": false,
+"season": 2017
+},
+"2018020018": {
+"as": 5,
+"away": "OTT",
+"date": "2018-10-06",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2018
+},
+"2018020821": {
+"as": 4,
+"away": "OTT",
+"date": "2019-02-06",
+"home": "TOR",
+"hs": 5,
+"playoff": false,
+"season": 2018
+},
+"2018021104": {
+"as": 2,
+"away": "TOR",
+"date": "2019-03-16",
+"home": "OTT",
+"hs": 6,
+"playoff": false,
+"season": 2018
+},
+"2018021205": {
+"as": 2,
+"away": "TOR",
+"date": "2019-03-30",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2018
+},
+"2019020001": {
+"as": 3,
+"away": "OTT",
+"date": "2019-10-02",
+"home": "TOR",
+"hs": 5,
+"playoff": false,
+"season": 2019
+},
+"2019020795": {
+"as": 1,
+"away": "OTT",
+"date": "2020-02-01",
+"end": "OT",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2019
+},
+"2019020901": {
+"as": 4,
+"away": "TOR",
+"date": "2020-02-15",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2019
+},
+"2020020021": {
+"as": 3,
+"away": "TOR",
+"date": "2021-01-15",
+"home": "OTT",
+"hs": 5,
+"playoff": false,
+"season": 2020
+},
+"2020020027": {
+"as": 3,
+"away": "TOR",
+"date": "2021-01-16",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2020
+},
+"2020020247": {
+"as": 6,
+"away": "OTT",
+"date": "2021-02-15",
+"end": "OT",
+"home": "TOR",
+"hs": 5,
+"playoff": false,
+"season": 2020
+},
+"2020020262": {
+"as": 1,
+"away": "OTT",
+"date": "2021-02-17",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2020
+},
+"2020020270": {
+"as": 3,
+"away": "OTT",
+"date": "2021-02-18",
+"home": "TOR",
+"hs": 7,
+"playoff": false,
+"season": 2020
+},
+"2020020443": {
+"as": 3,
+"away": "TOR",
+"date": "2021-03-14",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2020
+},
+"2020020521": {
+"as": 3,
+"away": "TOR",
+"date": "2021-03-25",
+"end": "OT",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2020
+},
+"2020020646": {
+"as": 5,
+"away": "OTT",
+"date": "2021-04-10",
+"home": "TOR",
+"hs": 6,
+"playoff": false,
+"season": 2020
+},
+"2020020833": {
+"as": 3,
+"away": "TOR",
+"date": "2021-05-12",
+"end": "OT",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2020
+},
+"2021020008": {
+"as": 2,
+"away": "TOR",
+"date": "2021-10-14",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2021
+},
+"2021020022": {
+"as": 1,
+"away": "OTT",
+"date": "2021-10-16",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2021
+},
+"2021020567": {
+"as": 0,
+"away": "OTT",
+"date": "2022-01-01",
+"home": "TOR",
+"hs": 6,
+"playoff": false,
+"season": 2021
+},
+"2021021199": {
+"as": 5,
+"away": "TOR",
+"date": "2022-04-16",
+"end": "OT",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2021
+},
+"2022020030": {
+"as": 2,
+"away": "OTT",
+"date": "2022-10-15",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2022
+},
+"2022020782": {
+"as": 6,
+"away": "OTT",
+"date": "2023-01-27",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2022
+},
+"2022021102": {
+"as": 5,
+"away": "TOR",
+"date": "2023-03-18",
+"end": "SO",
+"home": "OTT",
+"hs": 4,
+"playoff": false,
+"season": 2022
+},
+"2022021210": {
+"as": 3,
+"away": "TOR",
+"date": "2023-04-01",
+"home": "OTT",
+"hs": 0,
+"playoff": false,
+"season": 2022
+},
+"2023020190": {
+"as": 6,
+"away": "OTT",
+"date": "2023-11-08",
+"home": "TOR",
+"hs": 3,
+"playoff": false,
+"season": 2023
+},
+"2023020395": {
+"as": 4,
+"away": "TOR",
+"date": "2023-12-07",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2023
+},
+"2023020531": {
+"as": 4,
+"away": "OTT",
+"date": "2023-12-27",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2023
+},
+"2023020812": {
+"as": 3,
+"away": "TOR",
+"date": "2024-02-10",
+"home": "OTT",
+"hs": 5,
+"playoff": false,
+"season": 2023
+},
+"2024020245": {
+"as": 3,
+"away": "OTT",
+"date": "2024-11-12",
+"home": "TOR",
+"hs": 0,
+"playoff": false,
+"season": 2024
+},
+"2024020780": {
+"as": 1,
+"away": "TOR",
+"date": "2025-01-25",
+"home": "OTT",
+"hs": 2,
+"playoff": false,
+"season": 2024
+},
+"2024021059": {
+"as": 4,
+"away": "OTT",
+"date": "2025-03-15",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2024
+},
+"2024030111": {
+"as": 2,
+"away": "OTT",
+"date": "2025-04-20",
+"home": "TOR",
+"hs": 6,
+"playoff": true,
+"season": 2024,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2024030112": {
+"as": 2,
+"away": "OTT",
+"date": "2025-04-22",
+"end": "OT",
+"home": "TOR",
+"hs": 3,
+"playoff": true,
+"season": 2024,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2024030113": {
+"as": 3,
+"away": "TOR",
+"date": "2025-04-24",
+"end": "OT",
+"home": "OTT",
+"hs": 2,
+"playoff": true,
+"season": 2024,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2024030114": {
+"as": 3,
+"away": "TOR",
+"date": "2025-04-26",
+"end": "OT",
+"home": "OTT",
+"hs": 4,
+"playoff": true,
+"season": 2024,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2024030115": {
+"as": 4,
+"away": "OTT",
+"date": "2025-04-29",
+"home": "TOR",
+"hs": 0,
+"playoff": true,
+"season": 2024,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2024030116": {
+"as": 4,
+"away": "TOR",
+"date": "2025-05-01",
+"home": "OTT",
+"hs": 2,
+"playoff": true,
+"season": 2024,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "1st Round"
+}
+},
+"2025020590": {
+"as": 5,
+"away": "OTT",
+"date": "2025-12-27",
+"home": "TOR",
+"hs": 7,
+"playoff": false,
+"season": 2025
+},
+"2025020939": {
+"as": 5,
+"away": "OTT",
+"date": "2026-02-28",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2025
+},
+"2025021106": {
+"as": 2,
+"away": "TOR",
+"date": "2026-03-21",
+"home": "OTT",
+"hs": 5,
+"playoff": false,
+"season": 2025
+},
+"2025021304": {
+"as": 1,
+"away": "TOR",
+"date": "2026-04-15",
+"home": "OTT",
+"hs": 3,
+"playoff": false,
+"season": 2025
+},
+"2026020023": {
+"as": 3,
+"away": "OTT",
+"date": "2026-10-03",
+"home": "TOR",
+"hs": 2,
+"playoff": false,
+"season": 2026
+}
+},
+"seasons": [
+1992,
+1993,
+1994,
+1995,
+1996,
+1997,
+1998,
+1999,
+2000,
+2001,
+2002,
+2003,
+2004,
+2005,
+2006,
+2007,
+2008,
+2009,
+2010,
+2011,
+2012,
+2013,
+2014,
+2015,
+2016,
+2017,
+2018,
+2019,
+2020,
+2021,
+2022,
+2023,
+2024
+]
+}

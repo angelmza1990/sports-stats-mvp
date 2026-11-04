@@ -1,0 +1,8232 @@
+{
+"games": {
+"1926020015": {
+"as": 1,
+"away": "DET",
+"date": "1926-11-24",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1926
+},
+"1926020065": {
+"as": 0,
+"away": "DET",
+"date": "1926-12-25",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1926
+},
+"1926020130": {
+"as": 3,
+"away": "CHI",
+"date": "1927-02-01",
+"end": "OT",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1926
+},
+"1926020160": {
+"as": 4,
+"away": "CHI",
+"date": "1927-02-19",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1926
+},
+"1926020188": {
+"as": 4,
+"away": "CHI",
+"date": "1927-03-08",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1926
+},
+"1926020212": {
+"as": 3,
+"away": "DET",
+"date": "1927-03-22",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1926
+},
+"1927020020": {
+"as": 0,
+"away": "DET",
+"date": "1927-11-26",
+"end": "OT",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1927
+},
+"1927020029": {
+"as": 1,
+"away": "CHI",
+"date": "1927-12-01",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1927
+},
+"1927020110": {
+"as": 0,
+"away": "DET",
+"date": "1928-01-18",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1927
+},
+"1927020127": {
+"as": 2,
+"away": "CHI",
+"date": "1928-01-29",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1927
+},
+"1927020162": {
+"as": 2,
+"away": "CHI",
+"date": "1928-02-19",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1927
+},
+"1927020209": {
+"as": 7,
+"away": "DET",
+"date": "1928-03-17",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1927
+},
+"1928020080": {
+"as": 1,
+"away": "CHI",
+"date": "1928-12-30",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1928
+},
+"1928020081": {
+"as": 2,
+"away": "DET",
+"date": "1929-01-01",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1928
+},
+"1928020094": {
+"as": 3,
+"away": "DET",
+"date": "1929-01-06",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1928
+},
+"1928020149": {
+"as": 1,
+"away": "CHI",
+"date": "1929-02-05",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1928
+},
+"1928020183": {
+"as": 0,
+"away": "DET",
+"date": "1929-02-24",
+"end": "OT",
+"home": "CHI",
+"hs": 0,
+"neutral": true,
+"playoff": false,
+"season": 1928
+},
+"1928020187": {
+"as": 0,
+"away": "CHI",
+"date": "1929-02-26",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1928
+},
+"1929020022": {
+"as": 0,
+"away": "DET",
+"date": "1929-11-24",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1929
+},
+"1929020066": {
+"as": 3,
+"away": "CHI",
+"date": "1929-12-19",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1929
+},
+"1929020095": {
+"as": 4,
+"away": "DET",
+"date": "1930-01-05",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1929
+},
+"1929020099": {
+"as": 1,
+"away": "CHI",
+"date": "1930-01-09",
+"end": "OT",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1929
+},
+"1929020144": {
+"as": 4,
+"away": "CHI",
+"date": "1930-02-02",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1929
+},
+"1929020179": {
+"as": 2,
+"away": "DET",
+"date": "1930-02-23",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1929
+},
+"1930020046": {
+"as": 2,
+"away": "DET",
+"date": "1930-12-07",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1930
+},
+"1930020051": {
+"as": 0,
+"away": "CHI",
+"date": "1930-12-09",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1930
+},
+"1930020093": {
+"as": 2,
+"away": "DET",
+"date": "1931-01-04",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1930
+},
+"1930020172": {
+"as": 5,
+"away": "DET",
+"date": "1931-02-20",
+"end": "OT",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1930
+},
+"1930020177": {
+"as": 1,
+"away": "CHI",
+"date": "1931-02-22",
+"end": "OT",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1930
+},
+"1930020220": {
+"as": 2,
+"away": "CHI",
+"date": "1931-03-22",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1930
+},
+"1931020048": {
+"as": 1,
+"away": "DET",
+"date": "1931-12-16",
+"end": "OT",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1931
+},
+"1931020050": {
+"as": 1,
+"away": "CHI",
+"date": "1931-12-17",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1931
+},
+"1931020080": {
+"as": 2,
+"away": "DET",
+"date": "1932-01-06",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1931
+},
+"1931020092": {
+"as": 0,
+"away": "CHI",
+"date": "1932-01-14",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1931
+},
+"1931020111": {
+"as": 1,
+"away": "DET",
+"date": "1932-01-27",
+"end": "OT",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1931
+},
+"1931020113": {
+"as": 2,
+"away": "CHI",
+"date": "1932-01-28",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1931
+},
+"1931020137": {
+"as": 1,
+"away": "CHI",
+"date": "1932-02-14",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1931
+},
+"1931020181": {
+"as": 1,
+"away": "DET",
+"date": "1932-03-16",
+"end": "OT",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1931
+},
+"1932020003": {
+"as": 1,
+"away": "CHI",
+"date": "1932-11-10",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1932
+},
+"1932020044": {
+"as": 1,
+"away": "DET",
+"date": "1932-12-08",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1932
+},
+"1932020071": {
+"as": 0,
+"away": "CHI",
+"date": "1932-12-25",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1932
+},
+"1932020142": {
+"as": 0,
+"away": "CHI",
+"date": "1933-02-05",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1932
+},
+"1932020148": {
+"as": 4,
+"away": "DET",
+"date": "1933-02-09",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1932
+},
+"1932020210": {
+"as": 4,
+"away": "DET",
+"date": "1933-03-19",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1932
+},
+"1933020037": {
+"as": 1,
+"away": "CHI",
+"date": "1933-11-30",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1933
+},
+"1933020057": {
+"as": 1,
+"away": "CHI",
+"date": "1933-12-12",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1933
+},
+"1933020061": {
+"as": 0,
+"away": "DET",
+"date": "1933-12-14",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1933
+},
+"1933020154": {
+"as": 1,
+"away": "DET",
+"date": "1934-02-08",
+"end": "OT",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1933
+},
+"1933020200": {
+"as": 3,
+"away": "DET",
+"date": "1934-03-08",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1933
+},
+"1933020204": {
+"as": 2,
+"away": "CHI",
+"date": "1934-03-11",
+"end": "OT",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1933
+},
+"1933030211": {
+"as": 2,
+"away": "CHI",
+"date": "1934-04-03",
+"end": "OT",
+"home": "DET",
+"hs": 1,
+"playoff": true,
+"season": 1933,
+"series": {
+"letter": "I",
+"need": 3,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1933030212": {
+"as": 4,
+"away": "CHI",
+"date": "1934-04-05",
+"home": "DET",
+"hs": 1,
+"playoff": true,
+"season": 1933,
+"series": {
+"letter": "I",
+"need": 3,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1933030213": {
+"as": 5,
+"away": "DET",
+"date": "1934-04-08",
+"home": "CHI",
+"hs": 2,
+"playoff": true,
+"season": 1933,
+"series": {
+"letter": "I",
+"need": 3,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1933030214": {
+"as": 0,
+"away": "DET",
+"date": "1934-04-10",
+"end": "OT",
+"home": "CHI",
+"hs": 1,
+"playoff": true,
+"season": 1933,
+"series": {
+"letter": "I",
+"need": 3,
+"round": 3,
+"title": "Stanley Cup Final"
+}
+},
+"1934020048": {
+"as": 0,
+"away": "DET",
+"date": "1934-12-11",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1934
+},
+"1934020072": {
+"as": 2,
+"away": "CHI",
+"date": "1934-12-25",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1934
+},
+"1934020095": {
+"as": 2,
+"away": "DET",
+"date": "1935-01-08",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1934
+},
+"1934020159": {
+"as": 3,
+"away": "CHI",
+"date": "1935-02-14",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1934
+},
+"1934020183": {
+"as": 1,
+"away": "CHI",
+"date": "1935-02-28",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1934
+},
+"1934020208": {
+"as": 4,
+"away": "DET",
+"date": "1935-03-14",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1934
+},
+"1935020005": {
+"as": 0,
+"away": "CHI",
+"date": "1935-11-14",
+"end": "OT",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1935
+},
+"1935020044": {
+"as": 3,
+"away": "DET",
+"date": "1935-12-12",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1935
+},
+"1935020062": {
+"as": 2,
+"away": "CHI",
+"date": "1935-12-25",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1935
+},
+"1935020073": {
+"as": 4,
+"away": "DET",
+"date": "1936-01-01",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1935
+},
+"1935020094": {
+"as": 1,
+"away": "DET",
+"date": "1936-01-16",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1935
+},
+"1935020113": {
+"as": 4,
+"away": "CHI",
+"date": "1936-01-30",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1935
+},
+"1935020124": {
+"as": 1,
+"away": "DET",
+"date": "1936-02-06",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1935
+},
+"1935020188": {
+"as": 3,
+"away": "CHI",
+"date": "1936-03-19",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1935
+},
+"1936020031": {
+"as": 2,
+"away": "CHI",
+"date": "1936-11-26",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1936
+},
+"1936020050": {
+"as": 2,
+"away": "DET",
+"date": "1936-12-13",
+"end": "OT",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1936
+},
+"1936020064": {
+"as": 1,
+"away": "CHI",
+"date": "1936-12-25",
+"end": "OT",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1936
+},
+"1936020075": {
+"as": 2,
+"away": "DET",
+"date": "1937-01-01",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1936
+},
+"1936020101": {
+"as": 2,
+"away": "DET",
+"date": "1937-01-17",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1936
+},
+"1936020103": {
+"as": 2,
+"away": "CHI",
+"date": "1937-01-19",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 1936
+},
+"1936020153": {
+"as": 0,
+"away": "CHI",
+"date": "1937-02-21",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1936
+},
+"1936020159": {
+"as": 3,
+"away": "DET",
+"date": "1937-02-25",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1936
+},
+"1937020019": {
+"as": 1,
+"away": "DET",
+"date": "1937-11-18",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1937
+},
+"1937020028": {
+"as": 1,
+"away": "CHI",
+"date": "1937-11-25",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1937
+},
+"1937020055": {
+"as": 1,
+"away": "DET",
+"date": "1937-12-16",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1937
+},
+"1937020072": {
+"as": 2,
+"away": "CHI",
+"date": "1937-12-30",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1937
+},
+"1937020104": {
+"as": 2,
+"away": "CHI",
+"date": "1938-01-20",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1937
+},
+"1937020113": {
+"as": 3,
+"away": "DET",
+"date": "1938-01-27",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1937
+},
+"1937020149": {
+"as": 1,
+"away": "DET",
+"date": "1938-02-20",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1937
+},
+"1937020181": {
+"as": 1,
+"away": "CHI",
+"date": "1938-03-13",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1937
+},
+"1938020025": {
+"as": 2,
+"away": "CHI",
+"date": "1938-11-24",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1938
+},
+"1938020032": {
+"as": 4,
+"away": "DET",
+"date": "1938-12-01",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1938
+},
+"1938020056": {
+"as": 3,
+"away": "DET",
+"date": "1938-12-22",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1938
+},
+"1938020065": {
+"as": 1,
+"away": "CHI",
+"date": "1938-12-29",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1938
+},
+"1938020101": {
+"as": 1,
+"away": "DET",
+"date": "1939-01-26",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1938
+},
+"1938020119": {
+"as": 4,
+"away": "CHI",
+"date": "1939-02-09",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1938
+},
+"1938020127": {
+"as": 1,
+"away": "DET",
+"date": "1939-02-16",
+"end": "OT",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1938
+},
+"1938020168": {
+"as": 2,
+"away": "CHI",
+"date": "1939-03-19",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1938
+},
+"1939020001": {
+"as": 2,
+"away": "DET",
+"date": "1939-11-02",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1939
+},
+"1939020024": {
+"as": 4,
+"away": "CHI",
+"date": "1939-11-26",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1939
+},
+"1939020072": {
+"as": 0,
+"away": "DET",
+"date": "1940-01-01",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1939
+},
+"1939020104": {
+"as": 1,
+"away": "CHI",
+"date": "1940-01-26",
+"end": "OT",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1939
+},
+"1939020114": {
+"as": 1,
+"away": "DET",
+"date": "1940-02-04",
+"end": "OT",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1939
+},
+"1939020122": {
+"as": 3,
+"away": "CHI",
+"date": "1940-02-09",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1939
+},
+"1939020164": {
+"as": 4,
+"away": "CHI",
+"date": "1940-03-15",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1939
+},
+"1939020166": {
+"as": 1,
+"away": "DET",
+"date": "1940-03-17",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1939
+},
+"1940020030": {
+"as": 1,
+"away": "CHI",
+"date": "1940-11-29",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1940
+},
+"1940020037": {
+"as": 5,
+"away": "DET",
+"date": "1940-12-05",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1940
+},
+"1940020068": {
+"as": 1,
+"away": "CHI",
+"date": "1940-12-29",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1940
+},
+"1940020072": {
+"as": 4,
+"away": "DET",
+"date": "1941-01-01",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1940
+},
+"1940020087": {
+"as": 1,
+"away": "DET",
+"date": "1941-01-12",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1940
+},
+"1940020126": {
+"as": 1,
+"away": "CHI",
+"date": "1941-02-14",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1940
+},
+"1940020143": {
+"as": 0,
+"away": "DET",
+"date": "1941-02-27",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1940
+},
+"1940020161": {
+"as": 2,
+"away": "CHI",
+"date": "1941-03-13",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1940
+},
+"1940030141": {
+"as": 1,
+"away": "CHI",
+"date": "1941-03-27",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 1940,
+"series": {
+"letter": "D",
+"need": 2,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1940030142": {
+"as": 2,
+"away": "DET",
+"date": "1941-03-30",
+"end": "OT",
+"home": "CHI",
+"hs": 1,
+"playoff": true,
+"season": 1940,
+"series": {
+"letter": "D",
+"need": 2,
+"round": 2,
+"title": "Semifinals"
+}
+},
+"1941020013": {
+"as": 2,
+"away": "DET",
+"date": "1941-11-16",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1941
+},
+"1941020029": {
+"as": 1,
+"away": "CHI",
+"date": "1941-11-27",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1941
+},
+"1941020075": {
+"as": 3,
+"away": "DET",
+"date": "1942-01-01",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1941
+},
+"1941020086": {
+"as": 5,
+"away": "DET",
+"date": "1942-01-11",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1941
+},
+"1941020109": {
+"as": 0,
+"away": "CHI",
+"date": "1942-01-29",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1941
+},
+"1941020126": {
+"as": 2,
+"away": "DET",
+"date": "1942-02-12",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1941
+},
+"1941020134": {
+"as": 1,
+"away": "CHI",
+"date": "1942-02-19",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1941
+},
+"1941020167": {
+"as": 4,
+"away": "CHI",
+"date": "1942-03-19",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1941
+},
+"1942020009": {
+"as": 3,
+"away": "CHI",
+"date": "1942-11-08",
+"end": "OT",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1942
+},
+"1942020021": {
+"as": 2,
+"away": "DET",
+"date": "1942-11-19",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1942
+},
+"1942020051": {
+"as": 3,
+"away": "DET",
+"date": "1942-12-17",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1942
+},
+"1942020062": {
+"as": 1,
+"away": "CHI",
+"date": "1942-12-27",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1942
+},
+"1942020077": {
+"as": 1,
+"away": "DET",
+"date": "1943-01-10",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1942
+},
+"1942020082": {
+"as": 1,
+"away": "CHI",
+"date": "1943-01-16",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1942
+},
+"1942020086": {
+"as": 2,
+"away": "DET",
+"date": "1943-01-17",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1942
+},
+"1942020136": {
+"as": 0,
+"away": "CHI",
+"date": "1943-03-06",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1942
+},
+"1942020138": {
+"as": 3,
+"away": "DET",
+"date": "1943-03-07",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1942
+},
+"1942020149": {
+"as": 5,
+"away": "CHI",
+"date": "1943-03-18",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1942
+},
+"1943020026": {
+"as": 2,
+"away": "CHI",
+"date": "1943-11-21",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1943
+},
+"1943020029": {
+"as": 3,
+"away": "DET",
+"date": "1943-11-25",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1943
+},
+"1943020056": {
+"as": 1,
+"away": "DET",
+"date": "1943-12-22",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1943
+},
+"1943020076": {
+"as": 2,
+"away": "CHI",
+"date": "1944-01-09",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1943
+},
+"1943020086": {
+"as": 3,
+"away": "CHI",
+"date": "1944-01-20",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1943
+},
+"1943020098": {
+"as": 2,
+"away": "DET",
+"date": "1944-01-30",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1943
+},
+"1943020130": {
+"as": 2,
+"away": "CHI",
+"date": "1944-03-04",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1943
+},
+"1943020133": {
+"as": 1,
+"away": "DET",
+"date": "1944-03-05",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1943
+},
+"1943020147": {
+"as": 3,
+"away": "CHI",
+"date": "1944-03-18",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1943
+},
+"1943020150": {
+"as": 0,
+"away": "DET",
+"date": "1944-03-19",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1943
+},
+"1943030121": {
+"as": 2,
+"away": "CHI",
+"date": "1944-03-21",
+"home": "DET",
+"hs": 1,
+"playoff": true,
+"season": 1943,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1943030122": {
+"as": 1,
+"away": "CHI",
+"date": "1944-03-23",
+"home": "DET",
+"hs": 4,
+"playoff": true,
+"season": 1943,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1943030123": {
+"as": 0,
+"away": "DET",
+"date": "1944-03-26",
+"home": "CHI",
+"hs": 2,
+"playoff": true,
+"season": 1943,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1943030124": {
+"as": 1,
+"away": "DET",
+"date": "1944-03-28",
+"home": "CHI",
+"hs": 7,
+"playoff": true,
+"season": 1943,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1943030125": {
+"as": 5,
+"away": "CHI",
+"date": "1944-03-30",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1943,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1944020032": {
+"as": 4,
+"away": "CHI",
+"date": "1944-11-25",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 1944
+},
+"1944020034": {
+"as": 5,
+"away": "DET",
+"date": "1944-11-26",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1944
+},
+"1944020052": {
+"as": 1,
+"away": "DET",
+"date": "1944-12-17",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1944
+},
+"1944020065": {
+"as": 2,
+"away": "CHI",
+"date": "1944-12-31",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1944
+},
+"1944020067": {
+"as": 4,
+"away": "DET",
+"date": "1945-01-01",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1944
+},
+"1944020095": {
+"as": 1,
+"away": "CHI",
+"date": "1945-01-27",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1944
+},
+"1944020097": {
+"as": 4,
+"away": "DET",
+"date": "1945-01-28",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1944
+},
+"1944020123": {
+"as": 2,
+"away": "CHI",
+"date": "1945-02-24",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1944
+},
+"1944020126": {
+"as": 3,
+"away": "DET",
+"date": "1945-02-25",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1944
+},
+"1944020150": {
+"as": 5,
+"away": "CHI",
+"date": "1945-03-18",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1944
+},
+"1945020023": {
+"as": 2,
+"away": "CHI",
+"date": "1945-11-15",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1945
+},
+"1945020027": {
+"as": 5,
+"away": "DET",
+"date": "1945-11-18",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1945
+},
+"1945020052": {
+"as": 4,
+"away": "DET",
+"date": "1945-12-16",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1945
+},
+"1945020056": {
+"as": 6,
+"away": "CHI",
+"date": "1945-12-22",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1945
+},
+"1945020058": {
+"as": 4,
+"away": "DET",
+"date": "1945-12-23",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1945
+},
+"1945020074": {
+"as": 2,
+"away": "CHI",
+"date": "1946-01-06",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1945
+},
+"1945020116": {
+"as": 3,
+"away": "CHI",
+"date": "1946-02-16",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1945
+},
+"1945020118": {
+"as": 2,
+"away": "DET",
+"date": "1946-02-17",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1945
+},
+"1945020143": {
+"as": 4,
+"away": "DET",
+"date": "1946-03-13",
+"home": "CHI",
+"hs": 9,
+"playoff": false,
+"season": 1945
+},
+"1945020145": {
+"as": 3,
+"away": "CHI",
+"date": "1946-03-14",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 1945
+},
+"1946020009": {
+"as": 6,
+"away": "CHI",
+"date": "1946-10-23",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1946
+},
+"1946020036": {
+"as": 2,
+"away": "CHI",
+"date": "1946-11-17",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1946
+},
+"1946020038": {
+"as": 8,
+"away": "DET",
+"date": "1946-11-20",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1946
+},
+"1946020055": {
+"as": 0,
+"away": "DET",
+"date": "1946-12-04",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1946
+},
+"1946020067": {
+"as": 2,
+"away": "DET",
+"date": "1946-12-18",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1946
+},
+"1946020095": {
+"as": 6,
+"away": "CHI",
+"date": "1947-01-09",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1946
+},
+"1946020113": {
+"as": 2,
+"away": "CHI",
+"date": "1947-01-23",
+"home": "DET",
+"hs": 8,
+"playoff": false,
+"season": 1946
+},
+"1946020136": {
+"as": 1,
+"away": "CHI",
+"date": "1947-02-15",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1946
+},
+"1946020139": {
+"as": 2,
+"away": "DET",
+"date": "1947-02-16",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1946
+},
+"1946020155": {
+"as": 3,
+"away": "DET",
+"date": "1947-03-02",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1946
+},
+"1946020169": {
+"as": 3,
+"away": "CHI",
+"date": "1947-03-15",
+"home": "DET",
+"hs": 8,
+"playoff": false,
+"season": 1946
+},
+"1946020172": {
+"as": 10,
+"away": "DET",
+"date": "1947-03-16",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1946
+},
+"1947020001": {
+"as": 2,
+"away": "CHI",
+"date": "1947-10-15",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1947
+},
+"1947020015": {
+"as": 5,
+"away": "DET",
+"date": "1947-10-29",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1947
+},
+"1947020042": {
+"as": 5,
+"away": "CHI",
+"date": "1947-11-22",
+"home": "DET",
+"hs": 8,
+"playoff": false,
+"season": 1947
+},
+"1947020044": {
+"as": 9,
+"away": "DET",
+"date": "1947-11-23",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1947
+},
+"1947020065": {
+"as": 3,
+"away": "CHI",
+"date": "1947-12-13",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1947
+},
+"1947020070": {
+"as": 7,
+"away": "DET",
+"date": "1947-12-17",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1947
+},
+"1947020084": {
+"as": 0,
+"away": "CHI",
+"date": "1947-12-31",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1947
+},
+"1947020088": {
+"as": 4,
+"away": "DET",
+"date": "1948-01-01",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1947
+},
+"1947020107": {
+"as": 5,
+"away": "CHI",
+"date": "1948-01-18",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1947
+},
+"1947020126": {
+"as": 4,
+"away": "DET",
+"date": "1948-02-03",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1947
+},
+"1947020164": {
+"as": 1,
+"away": "DET",
+"date": "1948-03-09",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1947
+},
+"1947020166": {
+"as": 2,
+"away": "CHI",
+"date": "1948-03-10",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 1947
+},
+"1948020001": {
+"as": 1,
+"away": "CHI",
+"date": "1948-10-13",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1948
+},
+"1948020031": {
+"as": 3,
+"away": "DET",
+"date": "1948-11-14",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1948
+},
+"1948020045": {
+"as": 5,
+"away": "CHI",
+"date": "1948-11-27",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1948
+},
+"1948020047": {
+"as": 9,
+"away": "DET",
+"date": "1948-11-28",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1948
+},
+"1948020068": {
+"as": 1,
+"away": "DET",
+"date": "1948-12-15",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1948
+},
+"1948020087": {
+"as": 3,
+"away": "DET",
+"date": "1949-01-01",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1948
+},
+"1948020089": {
+"as": 3,
+"away": "CHI",
+"date": "1949-01-02",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1948
+},
+"1948020108": {
+"as": 1,
+"away": "CHI",
+"date": "1949-01-19",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1948
+},
+"1948020124": {
+"as": 4,
+"away": "CHI",
+"date": "1949-02-02",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1948
+},
+"1948020126": {
+"as": 4,
+"away": "DET",
+"date": "1949-02-03",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1948
+},
+"1948020160": {
+"as": 5,
+"away": "CHI",
+"date": "1949-03-05",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1948
+},
+"1948020163": {
+"as": 6,
+"away": "DET",
+"date": "1949-03-06",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1948
+},
+"1949020013": {
+"as": 3,
+"away": "CHI",
+"date": "1949-10-23",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1949
+},
+"1949020017": {
+"as": 3,
+"away": "DET",
+"date": "1949-10-27",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1949
+},
+"1949020040": {
+"as": 1,
+"away": "CHI",
+"date": "1949-11-16",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1949
+},
+"1949020051": {
+"as": 3,
+"away": "DET",
+"date": "1949-11-24",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1949
+},
+"1949020054": {
+"as": 7,
+"away": "CHI",
+"date": "1949-11-26",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1949
+},
+"1949020085": {
+"as": 5,
+"away": "DET",
+"date": "1949-12-18",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1949
+},
+"1949020121": {
+"as": 5,
+"away": "DET",
+"date": "1950-01-18",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1949
+},
+"1949020126": {
+"as": 3,
+"away": "CHI",
+"date": "1950-01-21",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1949
+},
+"1949020150": {
+"as": 2,
+"away": "CHI",
+"date": "1950-02-08",
+"home": "DET",
+"hs": 9,
+"playoff": false,
+"season": 1949
+},
+"1949020158": {
+"as": 0,
+"away": "DET",
+"date": "1950-02-15",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1949
+},
+"1949020172": {
+"as": 4,
+"away": "DET",
+"date": "1950-02-26",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1949
+},
+"1949020188": {
+"as": 1,
+"away": "CHI",
+"date": "1950-03-11",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1949
+},
+"1949020191": {
+"as": 4,
+"away": "DET",
+"date": "1950-03-12",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1949
+},
+"1949020208": {
+"as": 5,
+"away": "CHI",
+"date": "1950-03-26",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1949
+},
+"1950020020": {
+"as": 1,
+"away": "CHI",
+"date": "1950-10-28",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1950
+},
+"1950020043": {
+"as": 5,
+"away": "DET",
+"date": "1950-11-16",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1950
+},
+"1950020056": {
+"as": 1,
+"away": "CHI",
+"date": "1950-11-25",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1950
+},
+"1950020059": {
+"as": 0,
+"away": "DET",
+"date": "1950-11-26",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1950
+},
+"1950020089": {
+"as": 1,
+"away": "CHI",
+"date": "1950-12-19",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1950
+},
+"1950020109": {
+"as": 0,
+"away": "CHI",
+"date": "1951-01-04",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1950
+},
+"1950020124": {
+"as": 4,
+"away": "DET",
+"date": "1951-01-17",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1950
+},
+"1950020127": {
+"as": 2,
+"away": "CHI",
+"date": "1951-01-18",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1950
+},
+"1950020133": {
+"as": 8,
+"away": "DET",
+"date": "1951-01-23",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1950
+},
+"1950020153": {
+"as": 3,
+"away": "CHI",
+"date": "1951-02-07",
+"home": "DET",
+"hs": 11,
+"playoff": false,
+"season": 1950
+},
+"1950020154": {
+"as": 4,
+"away": "DET",
+"date": "1951-02-08",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1950
+},
+"1950020192": {
+"as": 7,
+"away": "DET",
+"date": "1951-03-11",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1950
+},
+"1950020199": {
+"as": 2,
+"away": "CHI",
+"date": "1951-03-17",
+"home": "DET",
+"hs": 8,
+"playoff": false,
+"season": 1950
+},
+"1950020202": {
+"as": 4,
+"away": "DET",
+"date": "1951-03-18",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1950
+},
+"1951020010": {
+"as": 6,
+"away": "DET",
+"date": "1951-10-18",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1951
+},
+"1951020043": {
+"as": 1,
+"away": "CHI",
+"date": "1951-11-15",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1951
+},
+"1951020055": {
+"as": 6,
+"away": "CHI",
+"date": "1951-11-24",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1951
+},
+"1951020058": {
+"as": 5,
+"away": "DET",
+"date": "1951-11-25",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1951
+},
+"1951020082": {
+"as": 0,
+"away": "CHI",
+"date": "1951-12-15",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1951
+},
+"1951020089": {
+"as": 6,
+"away": "DET",
+"date": "1951-12-20",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1951
+},
+"1951020101": {
+"as": 1,
+"away": "CHI",
+"date": "1951-12-29",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1951
+},
+"1951020136": {
+"as": 3,
+"away": "CHI",
+"date": "1952-01-26",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1951
+},
+"1951020139": {
+"as": 2,
+"away": "DET",
+"date": "1952-01-27",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1951
+},
+"1951020160": {
+"as": 3,
+"away": "DET",
+"date": "1952-02-14",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1951
+},
+"1951020172": {
+"as": 2,
+"away": "DET",
+"date": "1952-02-24",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1951
+},
+"1951020182": {
+"as": 2,
+"away": "CHI",
+"date": "1952-03-03",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1951
+},
+"1951020198": {
+"as": 1,
+"away": "CHI",
+"date": "1952-03-15",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1951
+},
+"1951020201": {
+"as": 4,
+"away": "DET",
+"date": "1952-03-16",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1951
+},
+"1952020008": {
+"as": 1,
+"away": "DET",
+"date": "1952-10-14",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1952
+},
+"1952020011": {
+"as": 0,
+"away": "CHI",
+"date": "1952-10-16",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 1952
+},
+"1952020033": {
+"as": 2,
+"away": "DET",
+"date": "1952-12-06",
+"home": "CHI",
+"hs": 0,
+"neutral": true,
+"playoff": false,
+"season": 1952
+},
+"1952020055": {
+"as": 1,
+"away": "CHI",
+"date": "1952-11-22",
+"home": "DET",
+"hs": 10,
+"playoff": false,
+"season": 1952
+},
+"1952020058": {
+"as": 0,
+"away": "DET",
+"date": "1952-11-23",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1952
+},
+"1952020098": {
+"as": 3,
+"away": "CHI",
+"date": "1952-12-25",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1952
+},
+"1952020110": {
+"as": 3,
+"away": "CHI",
+"date": "1953-01-04",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1952
+},
+"1952020142": {
+"as": 5,
+"away": "DET",
+"date": "1953-01-29",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1952
+},
+"1952020145": {
+"as": 0,
+"away": "CHI",
+"date": "1953-01-31",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1952
+},
+"1952020164": {
+"as": 4,
+"away": "DET",
+"date": "1953-02-15",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1952
+},
+"1952020165": {
+"as": 1,
+"away": "CHI",
+"date": "1953-02-16",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1952
+},
+"1952020177": {
+"as": 3,
+"away": "DET",
+"date": "1953-03-21",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1952
+},
+"1952020198": {
+"as": 3,
+"away": "CHI",
+"date": "1953-03-14",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1952
+},
+"1952020201": {
+"as": 0,
+"away": "DET",
+"date": "1953-03-15",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1952
+},
+"1953020010": {
+"as": 2,
+"away": "DET",
+"date": "1953-10-16",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1953
+},
+"1953020013": {
+"as": 1,
+"away": "CHI",
+"date": "1953-10-17",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1953
+},
+"1953020066": {
+"as": 0,
+"away": "CHI",
+"date": "1953-11-28",
+"home": "DET",
+"hs": 9,
+"playoff": false,
+"season": 1953
+},
+"1953020069": {
+"as": 9,
+"away": "DET",
+"date": "1953-11-29",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1953
+},
+"1953020079": {
+"as": 5,
+"away": "CHI",
+"date": "1953-12-06",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1953
+},
+"1953020092": {
+"as": 1,
+"away": "CHI",
+"date": "1953-12-17",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1953
+},
+"1953020093": {
+"as": 3,
+"away": "DET",
+"date": "1953-12-18",
+"home": "CHI",
+"hs": 1,
+"neutral": true,
+"playoff": false,
+"season": 1953
+},
+"1953020109": {
+"as": 2,
+"away": "DET",
+"date": "1954-01-01",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1953
+},
+"1953020145": {
+"as": 2,
+"away": "CHI",
+"date": "1954-01-30",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1953
+},
+"1953020147": {
+"as": 5,
+"away": "DET",
+"date": "1954-01-31",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1953
+},
+"1953020165": {
+"as": 5,
+"away": "DET",
+"date": "1954-02-14",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1953
+},
+"1953020166": {
+"as": 2,
+"away": "CHI",
+"date": "1954-02-15",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1953
+},
+"1953020178": {
+"as": 3,
+"away": "DET",
+"date": "1954-02-25",
+"home": "CHI",
+"hs": 2,
+"neutral": true,
+"playoff": false,
+"season": 1953
+},
+"1953020196": {
+"as": 2,
+"away": "CHI",
+"date": "1954-03-11",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1953
+},
+"1954020014": {
+"as": 5,
+"away": "DET",
+"date": "1954-10-17",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1954
+},
+"1954020020": {
+"as": 4,
+"away": "CHI",
+"date": "1954-10-23",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1954
+},
+"1954020052": {
+"as": 0,
+"away": "CHI",
+"date": "1954-11-20",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1954
+},
+"1954020055": {
+"as": 1,
+"away": "DET",
+"date": "1954-11-21",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1954
+},
+"1954020075": {
+"as": 1,
+"away": "CHI",
+"date": "1954-12-05",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1954
+},
+"1954020086": {
+"as": 4,
+"away": "DET",
+"date": "1954-12-12",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1954
+},
+"1954020119": {
+"as": 0,
+"away": "CHI",
+"date": "1955-01-08",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1954
+},
+"1954020122": {
+"as": 6,
+"away": "DET",
+"date": "1955-01-09",
+"home": "CHI",
+"hs": 2,
+"neutral": true,
+"playoff": false,
+"season": 1954
+},
+"1954020147": {
+"as": 2,
+"away": "DET",
+"date": "1955-01-29",
+"home": "CHI",
+"hs": 2,
+"neutral": true,
+"playoff": false,
+"season": 1954
+},
+"1954020167": {
+"as": 5,
+"away": "DET",
+"date": "1955-02-13",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1954
+},
+"1954020168": {
+"as": 2,
+"away": "CHI",
+"date": "1955-02-15",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1954
+},
+"1954020184": {
+"as": 3,
+"away": "DET",
+"date": "1955-02-27",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1954
+},
+"1954020188": {
+"as": 1,
+"away": "CHI",
+"date": "1955-03-03",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1954
+},
+"1954020199": {
+"as": 2,
+"away": "CHI",
+"date": "1955-03-12",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1954
+},
+"1955020002": {
+"as": 3,
+"away": "CHI",
+"date": "1955-10-06",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1955
+},
+"1955020012": {
+"as": 4,
+"away": "DET",
+"date": "1955-10-15",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1955
+},
+"1955020018": {
+"as": 2,
+"away": "CHI",
+"date": "1955-10-20",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1955
+},
+"1955020037": {
+"as": 3,
+"away": "DET",
+"date": "1955-11-05",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1955
+},
+"1955020043": {
+"as": 2,
+"away": "CHI",
+"date": "1955-11-10",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1955
+},
+"1955020055": {
+"as": 1,
+"away": "CHI",
+"date": "1955-11-19",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1955
+},
+"1955020058": {
+"as": 1,
+"away": "DET",
+"date": "1955-11-20",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1955
+},
+"1955020111": {
+"as": 1,
+"away": "CHI",
+"date": "1956-01-01",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1955
+},
+"1955020124": {
+"as": 3,
+"away": "DET",
+"date": "1956-01-14",
+"home": "CHI",
+"hs": 1,
+"neutral": true,
+"playoff": false,
+"season": 1955
+},
+"1955020141": {
+"as": 7,
+"away": "DET",
+"date": "1956-01-27",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1955
+},
+"1955020156": {
+"as": 2,
+"away": "CHI",
+"date": "1956-02-07",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1955
+},
+"1955020174": {
+"as": 3,
+"away": "DET",
+"date": "1956-02-19",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1955
+},
+"1955020199": {
+"as": 0,
+"away": "CHI",
+"date": "1956-03-10",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1955
+},
+"1955020202": {
+"as": 3,
+"away": "DET",
+"date": "1956-03-11",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1955
+},
+"1956020002": {
+"as": 1,
+"away": "CHI",
+"date": "1956-10-11",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1956
+},
+"1956020018": {
+"as": 1,
+"away": "CHI",
+"date": "1956-10-25",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1956
+},
+"1956020040": {
+"as": 3,
+"away": "DET",
+"date": "1956-11-11",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1956
+},
+"1956020056": {
+"as": 2,
+"away": "CHI",
+"date": "1956-11-24",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1956
+},
+"1956020059": {
+"as": 3,
+"away": "DET",
+"date": "1956-11-25",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1956
+},
+"1956020083": {
+"as": 1,
+"away": "CHI",
+"date": "1956-12-15",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1956
+},
+"1956020086": {
+"as": 1,
+"away": "DET",
+"date": "1956-12-16",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1956
+},
+"1956020129": {
+"as": 3,
+"away": "DET",
+"date": "1957-01-19",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1956
+},
+"1956020134": {
+"as": 2,
+"away": "CHI",
+"date": "1957-01-24",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1956
+},
+"1956020156": {
+"as": 0,
+"away": "CHI",
+"date": "1957-02-09",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1956
+},
+"1956020159": {
+"as": 2,
+"away": "DET",
+"date": "1957-02-10",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1956
+},
+"1956020173": {
+"as": 3,
+"away": "DET",
+"date": "1957-02-23",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1956
+},
+"1956020195": {
+"as": 4,
+"away": "DET",
+"date": "1957-03-12",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1956
+},
+"1956020198": {
+"as": 2,
+"away": "CHI",
+"date": "1957-03-14",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1956
+},
+"1957020023": {
+"as": 3,
+"away": "CHI",
+"date": "1957-10-27",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1957
+},
+"1957020024": {
+"as": 0,
+"away": "DET",
+"date": "1957-10-29",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1957
+},
+"1957020048": {
+"as": 1,
+"away": "DET",
+"date": "1957-11-16",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1957
+},
+"1957020051": {
+"as": 3,
+"away": "CHI",
+"date": "1957-11-17",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1957
+},
+"1957020093": {
+"as": 5,
+"away": "DET",
+"date": "1957-12-21",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1957
+},
+"1957020096": {
+"as": 0,
+"away": "CHI",
+"date": "1957-12-22",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1957
+},
+"1957020106": {
+"as": 2,
+"away": "CHI",
+"date": "1957-12-31",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1957
+},
+"1957020108": {
+"as": 3,
+"away": "DET",
+"date": "1958-01-01",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1957
+},
+"1957020121": {
+"as": 1,
+"away": "CHI",
+"date": "1958-01-11",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1957
+},
+"1957020127": {
+"as": 2,
+"away": "CHI",
+"date": "1958-01-16",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1957
+},
+"1957020158": {
+"as": 2,
+"away": "DET",
+"date": "1958-02-09",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1957
+},
+"1957020187": {
+"as": 3,
+"away": "DET",
+"date": "1958-03-08",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1957
+},
+"1957020204": {
+"as": 4,
+"away": "DET",
+"date": "1958-03-20",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1957
+},
+"1957020207": {
+"as": 6,
+"away": "CHI",
+"date": "1958-03-22",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1957
+},
+"1958020011": {
+"as": 7,
+"away": "CHI",
+"date": "1958-10-16",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1958
+},
+"1958020014": {
+"as": 3,
+"away": "DET",
+"date": "1958-10-18",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1958
+},
+"1958020038": {
+"as": 4,
+"away": "CHI",
+"date": "1958-11-08",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1958
+},
+"1958020049": {
+"as": 2,
+"away": "DET",
+"date": "1958-11-16",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1958
+},
+"1958020076": {
+"as": 4,
+"away": "DET",
+"date": "1958-12-06",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1958
+},
+"1958020079": {
+"as": 2,
+"away": "CHI",
+"date": "1958-12-07",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1958
+},
+"1958020095": {
+"as": 2,
+"away": "DET",
+"date": "1958-12-21",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1958
+},
+"1958020106": {
+"as": 4,
+"away": "CHI",
+"date": "1958-12-31",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1958
+},
+"1958020134": {
+"as": 3,
+"away": "DET",
+"date": "1959-01-21",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1958
+},
+"1958020137": {
+"as": 0,
+"away": "CHI",
+"date": "1959-01-24",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1958
+},
+"1958020171": {
+"as": 2,
+"away": "CHI",
+"date": "1959-02-21",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1958
+},
+"1958020181": {
+"as": 1,
+"away": "DET",
+"date": "1959-03-01",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1958
+},
+"1958020201": {
+"as": 4,
+"away": "DET",
+"date": "1959-03-15",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1958
+},
+"1958020202": {
+"as": 0,
+"away": "CHI",
+"date": "1959-03-17",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1958
+},
+"1959020010": {
+"as": 2,
+"away": "DET",
+"date": "1959-10-14",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1959
+},
+"1959020012": {
+"as": 1,
+"away": "CHI",
+"date": "1959-10-15",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1959
+},
+"1959020033": {
+"as": 1,
+"away": "CHI",
+"date": "1959-11-01",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1959
+},
+"1959020051": {
+"as": 3,
+"away": "DET",
+"date": "1959-11-15",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1959
+},
+"1959020052": {
+"as": 2,
+"away": "CHI",
+"date": "1959-11-16",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1959
+},
+"1959020079": {
+"as": 2,
+"away": "DET",
+"date": "1959-12-09",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1959
+},
+"1959020089": {
+"as": 2,
+"away": "CHI",
+"date": "1959-12-17",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1959
+},
+"1959020107": {
+"as": 4,
+"away": "DET",
+"date": "1960-01-01",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1959
+},
+"1959020122": {
+"as": 2,
+"away": "DET",
+"date": "1960-01-13",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1959
+},
+"1959020127": {
+"as": 1,
+"away": "CHI",
+"date": "1960-01-16",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1959
+},
+"1959020158": {
+"as": 0,
+"away": "CHI",
+"date": "1960-02-07",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1959
+},
+"1959020182": {
+"as": 2,
+"away": "DET",
+"date": "1960-02-28",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1959
+},
+"1959020201": {
+"as": 1,
+"away": "DET",
+"date": "1960-03-13",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1959
+},
+"1959020202": {
+"as": 3,
+"away": "CHI",
+"date": "1960-03-15",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1959
+},
+"1960020002": {
+"as": 1,
+"away": "DET",
+"date": "1960-10-05",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1960
+},
+"1960020004": {
+"as": 4,
+"away": "CHI",
+"date": "1960-10-06",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1960
+},
+"1960020034": {
+"as": 1,
+"away": "CHI",
+"date": "1960-10-30",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1960
+},
+"1960020051": {
+"as": 1,
+"away": "DET",
+"date": "1960-11-13",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1960
+},
+"1960020052": {
+"as": 2,
+"away": "CHI",
+"date": "1960-11-15",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1960
+},
+"1960020094": {
+"as": 3,
+"away": "DET",
+"date": "1960-12-18",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1960
+},
+"1960020101": {
+"as": 3,
+"away": "CHI",
+"date": "1960-12-25",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1960
+},
+"1960020108": {
+"as": 3,
+"away": "CHI",
+"date": "1960-12-31",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1960
+},
+"1960020111": {
+"as": 0,
+"away": "DET",
+"date": "1961-01-01",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1960
+},
+"1960020121": {
+"as": 2,
+"away": "DET",
+"date": "1961-01-11",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1960
+},
+"1960020141": {
+"as": 2,
+"away": "CHI",
+"date": "1961-01-26",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1960
+},
+"1960020158": {
+"as": 2,
+"away": "DET",
+"date": "1961-02-08",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1960
+},
+"1960020183": {
+"as": 1,
+"away": "CHI",
+"date": "1961-02-28",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1960
+},
+"1960020204": {
+"as": 2,
+"away": "DET",
+"date": "1961-03-15",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1960
+},
+"1960030211": {
+"as": 2,
+"away": "DET",
+"date": "1961-04-06",
+"home": "CHI",
+"hs": 3,
+"playoff": true,
+"season": 1960,
+"series": {
+"letter": "I",
+"need": 4,
+"round": 2,
+"title": "Stanley Cup Final"
+}
+},
+"1960030212": {
+"as": 1,
+"away": "CHI",
+"date": "1961-04-08",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 1960,
+"series": {
+"letter": "I",
+"need": 4,
+"round": 2,
+"title": "Stanley Cup Final"
+}
+},
+"1960030213": {
+"as": 1,
+"away": "DET",
+"date": "1961-04-10",
+"home": "CHI",
+"hs": 3,
+"playoff": true,
+"season": 1960,
+"series": {
+"letter": "I",
+"need": 4,
+"round": 2,
+"title": "Stanley Cup Final"
+}
+},
+"1960030214": {
+"as": 1,
+"away": "CHI",
+"date": "1961-04-12",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1960,
+"series": {
+"letter": "I",
+"need": 4,
+"round": 2,
+"title": "Stanley Cup Final"
+}
+},
+"1960030215": {
+"as": 3,
+"away": "DET",
+"date": "1961-04-14",
+"home": "CHI",
+"hs": 6,
+"playoff": true,
+"season": 1960,
+"series": {
+"letter": "I",
+"need": 4,
+"round": 2,
+"title": "Stanley Cup Final"
+}
+},
+"1960030216": {
+"as": 5,
+"away": "CHI",
+"date": "1961-04-16",
+"home": "DET",
+"hs": 1,
+"playoff": true,
+"season": 1960,
+"series": {
+"letter": "I",
+"need": 4,
+"round": 2,
+"title": "Stanley Cup Final"
+}
+},
+"1961020006": {
+"as": 3,
+"away": "CHI",
+"date": "1961-10-14",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1961
+},
+"1961020009": {
+"as": 2,
+"away": "DET",
+"date": "1961-10-15",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1961
+},
+"1961020046": {
+"as": 0,
+"away": "DET",
+"date": "1961-11-15",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1961
+},
+"1961020061": {
+"as": 1,
+"away": "DET",
+"date": "1961-11-26",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1961
+},
+"1961020078": {
+"as": 0,
+"away": "CHI",
+"date": "1961-12-09",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1961
+},
+"1961020081": {
+"as": 3,
+"away": "DET",
+"date": "1961-12-10",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1961
+},
+"1961020100": {
+"as": 2,
+"away": "CHI",
+"date": "1961-12-28",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1961
+},
+"1961020109": {
+"as": 1,
+"away": "CHI",
+"date": "1962-01-04",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1961
+},
+"1961020142": {
+"as": 1,
+"away": "DET",
+"date": "1962-01-31",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1961
+},
+"1961020145": {
+"as": 7,
+"away": "CHI",
+"date": "1962-02-01",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1961
+},
+"1961020171": {
+"as": 4,
+"away": "DET",
+"date": "1962-02-21",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1961
+},
+"1961020174": {
+"as": 6,
+"away": "CHI",
+"date": "1962-02-24",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1961
+},
+"1961020202": {
+"as": 1,
+"away": "CHI",
+"date": "1962-03-18",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1961
+},
+"1961020203": {
+"as": 0,
+"away": "DET",
+"date": "1962-03-20",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1961
+},
+"1962020006": {
+"as": 0,
+"away": "DET",
+"date": "1962-10-13",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1962
+},
+"1962020017": {
+"as": 1,
+"away": "CHI",
+"date": "1962-10-21",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1962
+},
+"1962020032": {
+"as": 1,
+"away": "CHI",
+"date": "1962-11-04",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1962
+},
+"1962020044": {
+"as": 2,
+"away": "DET",
+"date": "1962-11-14",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1962
+},
+"1962020056": {
+"as": 1,
+"away": "DET",
+"date": "1962-11-24",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1962
+},
+"1962020059": {
+"as": 2,
+"away": "CHI",
+"date": "1962-11-25",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1962
+},
+"1962020083": {
+"as": 1,
+"away": "CHI",
+"date": "1962-12-15",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1962
+},
+"1962020106": {
+"as": 2,
+"away": "DET",
+"date": "1963-01-01",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1962
+},
+"1962020138": {
+"as": 3,
+"away": "CHI",
+"date": "1963-01-26",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1962
+},
+"1962020152": {
+"as": 3,
+"away": "DET",
+"date": "1963-02-06",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1962
+},
+"1962020170": {
+"as": 5,
+"away": "CHI",
+"date": "1963-02-21",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1962
+},
+"1962020173": {
+"as": 2,
+"away": "DET",
+"date": "1963-02-23",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1962
+},
+"1962020201": {
+"as": 2,
+"away": "CHI",
+"date": "1963-03-17",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1962
+},
+"1962020202": {
+"as": 5,
+"away": "DET",
+"date": "1963-03-19",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1962
+},
+"1962030121": {
+"as": 4,
+"away": "DET",
+"date": "1963-03-26",
+"home": "CHI",
+"hs": 5,
+"playoff": true,
+"season": 1962,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1962030122": {
+"as": 2,
+"away": "DET",
+"date": "1963-03-28",
+"home": "CHI",
+"hs": 5,
+"playoff": true,
+"season": 1962,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1962030123": {
+"as": 2,
+"away": "CHI",
+"date": "1963-03-31",
+"home": "DET",
+"hs": 4,
+"playoff": true,
+"season": 1962,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1962030124": {
+"as": 1,
+"away": "CHI",
+"date": "1963-04-02",
+"home": "DET",
+"hs": 4,
+"playoff": true,
+"season": 1962,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1962030125": {
+"as": 4,
+"away": "DET",
+"date": "1963-04-04",
+"home": "CHI",
+"hs": 2,
+"playoff": true,
+"season": 1962,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1962030126": {
+"as": 4,
+"away": "CHI",
+"date": "1963-04-07",
+"home": "DET",
+"hs": 7,
+"playoff": true,
+"season": 1962,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1963020003": {
+"as": 3,
+"away": "CHI",
+"date": "1963-10-10",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1963
+},
+"1963020017": {
+"as": 2,
+"away": "CHI",
+"date": "1963-10-24",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1963
+},
+"1963020023": {
+"as": 1,
+"away": "DET",
+"date": "1963-10-29",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1963
+},
+"1963020050": {
+"as": 2,
+"away": "DET",
+"date": "1963-11-20",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1963
+},
+"1963020081": {
+"as": 4,
+"away": "CHI",
+"date": "1963-12-14",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1963
+},
+"1963020084": {
+"as": 4,
+"away": "DET",
+"date": "1963-12-15",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1963
+},
+"1963020114": {
+"as": 3,
+"away": "CHI",
+"date": "1964-01-09",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1963
+},
+"1963020116": {
+"as": 3,
+"away": "DET",
+"date": "1964-01-11",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1963
+},
+"1963020135": {
+"as": 3,
+"away": "CHI",
+"date": "1964-01-25",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1963
+},
+"1963020140": {
+"as": 2,
+"away": "DET",
+"date": "1964-01-29",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1963
+},
+"1963020150": {
+"as": 2,
+"away": "DET",
+"date": "1964-02-05",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1963
+},
+"1963020152": {
+"as": 0,
+"away": "CHI",
+"date": "1964-02-06",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1963
+},
+"1963020178": {
+"as": 2,
+"away": "DET",
+"date": "1964-02-27",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1963
+},
+"1963020202": {
+"as": 3,
+"away": "CHI",
+"date": "1964-03-15",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1963
+},
+"1963030121": {
+"as": 1,
+"away": "DET",
+"date": "1964-03-26",
+"home": "CHI",
+"hs": 4,
+"playoff": true,
+"season": 1963,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1963030122": {
+"as": 5,
+"away": "DET",
+"date": "1964-03-29",
+"home": "CHI",
+"hs": 4,
+"playoff": true,
+"season": 1963,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1963030123": {
+"as": 0,
+"away": "CHI",
+"date": "1964-03-31",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 1963,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1963030124": {
+"as": 3,
+"away": "CHI",
+"date": "1964-04-02",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1963,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1963030125": {
+"as": 2,
+"away": "DET",
+"date": "1964-04-05",
+"home": "CHI",
+"hs": 3,
+"playoff": true,
+"season": 1963,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1963030126": {
+"as": 2,
+"away": "CHI",
+"date": "1964-04-07",
+"home": "DET",
+"hs": 7,
+"playoff": true,
+"season": 1963,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1963030127": {
+"as": 4,
+"away": "DET",
+"date": "1964-04-09",
+"home": "CHI",
+"hs": 2,
+"playoff": true,
+"season": 1963,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1964020007": {
+"as": 2,
+"away": "DET",
+"date": "1964-10-17",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1964
+},
+"1964020010": {
+"as": 2,
+"away": "CHI",
+"date": "1964-10-18",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1964
+},
+"1964020045": {
+"as": 1,
+"away": "DET",
+"date": "1964-11-18",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1964
+},
+"1964020073": {
+"as": 3,
+"away": "CHI",
+"date": "1964-12-12",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1964
+},
+"1964020076": {
+"as": 0,
+"away": "DET",
+"date": "1964-12-13",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1964
+},
+"1964020097": {
+"as": 1,
+"away": "CHI",
+"date": "1964-12-31",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1964
+},
+"1964020111": {
+"as": 7,
+"away": "CHI",
+"date": "1965-01-09",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1964
+},
+"1964020114": {
+"as": 2,
+"away": "DET",
+"date": "1965-01-10",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1964
+},
+"1964020137": {
+"as": 1,
+"away": "CHI",
+"date": "1965-01-30",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1964
+},
+"1964020151": {
+"as": 2,
+"away": "DET",
+"date": "1965-02-10",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1964
+},
+"1964020152": {
+"as": 3,
+"away": "CHI",
+"date": "1965-02-11",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1964
+},
+"1964020169": {
+"as": 2,
+"away": "DET",
+"date": "1965-02-24",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1964
+},
+"1964020177": {
+"as": 2,
+"away": "DET",
+"date": "1965-03-03",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1964
+},
+"1964020202": {
+"as": 1,
+"away": "CHI",
+"date": "1965-03-21",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1964
+},
+"1964030111": {
+"as": 3,
+"away": "CHI",
+"date": "1965-04-01",
+"home": "DET",
+"hs": 4,
+"playoff": true,
+"season": 1964,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1964030112": {
+"as": 3,
+"away": "CHI",
+"date": "1965-04-04",
+"home": "DET",
+"hs": 6,
+"playoff": true,
+"season": 1964,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1964030113": {
+"as": 2,
+"away": "DET",
+"date": "1965-04-06",
+"home": "CHI",
+"hs": 5,
+"playoff": true,
+"season": 1964,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1964030114": {
+"as": 1,
+"away": "DET",
+"date": "1965-04-08",
+"home": "CHI",
+"hs": 2,
+"playoff": true,
+"season": 1964,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1964030115": {
+"as": 2,
+"away": "CHI",
+"date": "1965-04-11",
+"home": "DET",
+"hs": 4,
+"playoff": true,
+"season": 1964,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1964030116": {
+"as": 0,
+"away": "DET",
+"date": "1965-04-13",
+"home": "CHI",
+"hs": 4,
+"playoff": true,
+"season": 1964,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1964030117": {
+"as": 4,
+"away": "CHI",
+"date": "1965-04-15",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1964,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1965020008": {
+"as": 5,
+"away": "CHI",
+"date": "1965-10-28",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1965
+},
+"1965020024": {
+"as": 2,
+"away": "DET",
+"date": "1965-11-10",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1965
+},
+"1965020039": {
+"as": 3,
+"away": "CHI",
+"date": "1965-11-23",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1965
+},
+"1965020043": {
+"as": 1,
+"away": "DET",
+"date": "1965-11-25",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1965
+},
+"1965020074": {
+"as": 1,
+"away": "CHI",
+"date": "1965-12-18",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1965
+},
+"1965020077": {
+"as": 4,
+"away": "DET",
+"date": "1965-12-19",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1965
+},
+"1965020089": {
+"as": 4,
+"away": "CHI",
+"date": "1965-12-31",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1965
+},
+"1965020125": {
+"as": 4,
+"away": "DET",
+"date": "1966-01-29",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1965
+},
+"1965020128": {
+"as": 5,
+"away": "CHI",
+"date": "1966-01-30",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1965
+},
+"1965020139": {
+"as": 1,
+"away": "DET",
+"date": "1966-02-09",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1965
+},
+"1965020162": {
+"as": 4,
+"away": "CHI",
+"date": "1966-02-26",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1965
+},
+"1965020168": {
+"as": 4,
+"away": "DET",
+"date": "1966-03-02",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1965
+},
+"1965020187": {
+"as": 1,
+"away": "DET",
+"date": "1966-03-16",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1965
+},
+"1965020201": {
+"as": 1,
+"away": "CHI",
+"date": "1966-03-27",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1965
+},
+"1965030121": {
+"as": 1,
+"away": "DET",
+"date": "1966-04-07",
+"home": "CHI",
+"hs": 2,
+"playoff": true,
+"season": 1965,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1965030122": {
+"as": 7,
+"away": "DET",
+"date": "1966-04-10",
+"home": "CHI",
+"hs": 0,
+"playoff": true,
+"season": 1965,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1965030123": {
+"as": 2,
+"away": "CHI",
+"date": "1966-04-12",
+"home": "DET",
+"hs": 1,
+"playoff": true,
+"season": 1965,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1965030124": {
+"as": 1,
+"away": "CHI",
+"date": "1966-04-14",
+"home": "DET",
+"hs": 5,
+"playoff": true,
+"season": 1965,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1965030125": {
+"as": 5,
+"away": "DET",
+"date": "1966-04-17",
+"home": "CHI",
+"hs": 3,
+"playoff": true,
+"season": 1965,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1965030126": {
+"as": 2,
+"away": "CHI",
+"date": "1966-04-19",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 1965,
+"series": {
+"letter": "B",
+"need": 4,
+"round": 1,
+"title": "Semifinals"
+}
+},
+"1966020005": {
+"as": 7,
+"away": "CHI",
+"date": "1966-10-22",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1966
+},
+"1966020008": {
+"as": 1,
+"away": "DET",
+"date": "1966-10-23",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1966
+},
+"1966020028": {
+"as": 0,
+"away": "CHI",
+"date": "1966-11-10",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1966
+},
+"1966020037": {
+"as": 2,
+"away": "DET",
+"date": "1966-11-19",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1966
+},
+"1966020059": {
+"as": 1,
+"away": "DET",
+"date": "1966-12-04",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1966
+},
+"1966020080": {
+"as": 4,
+"away": "DET",
+"date": "1966-12-21",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1966
+},
+"1966020098": {
+"as": 4,
+"away": "CHI",
+"date": "1967-01-05",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1966
+},
+"1966020105": {
+"as": 1,
+"away": "DET",
+"date": "1967-01-11",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1966
+},
+"1966020107": {
+"as": 1,
+"away": "CHI",
+"date": "1967-01-12",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1966
+},
+"1966020125": {
+"as": 4,
+"away": "CHI",
+"date": "1967-01-26",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1966
+},
+"1966020147": {
+"as": 2,
+"away": "DET",
+"date": "1967-02-12",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1966
+},
+"1966020151": {
+"as": 5,
+"away": "CHI",
+"date": "1967-02-16",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1966
+},
+"1966020201": {
+"as": 2,
+"away": "CHI",
+"date": "1967-03-26",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1966
+},
+"1966020202": {
+"as": 2,
+"away": "DET",
+"date": "1967-03-28",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1966
+},
+"1967020048": {
+"as": 1,
+"away": "CHI",
+"date": "1967-10-29",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1967
+},
+"1967020099": {
+"as": 2,
+"away": "DET",
+"date": "1967-11-19",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1967
+},
+"1967020161": {
+"as": 3,
+"away": "CHI",
+"date": "1967-12-14",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1967
+},
+"1967020221": {
+"as": 2,
+"away": "DET",
+"date": "1968-01-06",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1967
+},
+"1967020242": {
+"as": 4,
+"away": "CHI",
+"date": "1968-01-13",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1967
+},
+"1967020267": {
+"as": 4,
+"away": "DET",
+"date": "1968-01-24",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1967
+},
+"1967020334": {
+"as": 7,
+"away": "CHI",
+"date": "1968-02-17",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1967
+},
+"1967020338": {
+"as": 1,
+"away": "DET",
+"date": "1968-02-18",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1967
+},
+"1967020432": {
+"as": 1,
+"away": "CHI",
+"date": "1968-03-28",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1967
+},
+"1967020442": {
+"as": 5,
+"away": "DET",
+"date": "1968-03-31",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1967
+},
+"1968020040": {
+"as": 3,
+"away": "CHI",
+"date": "1968-10-27",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1968
+},
+"1968020062": {
+"as": 6,
+"away": "DET",
+"date": "1968-11-06",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1968
+},
+"1968020175": {
+"as": 2,
+"away": "CHI",
+"date": "1968-12-19",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1968
+},
+"1968020210": {
+"as": 1,
+"away": "DET",
+"date": "1969-01-01",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1968
+},
+"1968020310": {
+"as": 1,
+"away": "CHI",
+"date": "1969-02-06",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1968
+},
+"1968020396": {
+"as": 3,
+"away": "DET",
+"date": "1969-02-08",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1968
+},
+"1968020448": {
+"as": 1,
+"away": "CHI",
+"date": "1969-03-29",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1968
+},
+"1968020454": {
+"as": 5,
+"away": "DET",
+"date": "1969-03-30",
+"home": "CHI",
+"hs": 9,
+"playoff": false,
+"season": 1968
+},
+"1969020011": {
+"as": 4,
+"away": "DET",
+"date": "1969-10-15",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1969
+},
+"1969020119": {
+"as": 4,
+"away": "CHI",
+"date": "1969-11-29",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1969
+},
+"1969020144": {
+"as": 1,
+"away": "DET",
+"date": "1969-12-07",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1969
+},
+"1969020212": {
+"as": 0,
+"away": "CHI",
+"date": "1970-01-04",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1969
+},
+"1969020218": {
+"as": 0,
+"away": "DET",
+"date": "1970-01-07",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1969
+},
+"1969020254": {
+"as": 4,
+"away": "CHI",
+"date": "1970-01-22",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1969
+},
+"1969020425": {
+"as": 1,
+"away": "CHI",
+"date": "1970-03-26",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1969
+},
+"1969020441": {
+"as": 5,
+"away": "DET",
+"date": "1970-04-01",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1969
+},
+"1969030111": {
+"as": 2,
+"away": "DET",
+"date": "1970-04-08",
+"home": "CHI",
+"hs": 4,
+"playoff": true,
+"season": 1969,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1969030112": {
+"as": 2,
+"away": "DET",
+"date": "1970-04-09",
+"home": "CHI",
+"hs": 4,
+"playoff": true,
+"season": 1969,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1969030113": {
+"as": 4,
+"away": "CHI",
+"date": "1970-04-11",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1969,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1969030114": {
+"as": 4,
+"away": "CHI",
+"date": "1970-04-12",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1969,
+"series": {
+"letter": "A",
+"need": 4,
+"round": 1,
+"title": "Quarterfinals"
+}
+},
+"1970020017": {
+"as": 2,
+"away": "CHI",
+"date": "1970-10-15",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1970
+},
+"1970020074": {
+"as": 2,
+"away": "DET",
+"date": "1970-11-04",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1970
+},
+"1970020247": {
+"as": 8,
+"away": "CHI",
+"date": "1970-12-31",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1970
+},
+"1970020311": {
+"as": 0,
+"away": "DET",
+"date": "1971-01-21",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1970
+},
+"1970020499": {
+"as": 0,
+"away": "DET",
+"date": "1971-03-21",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1970
+},
+"1970020537": {
+"as": 4,
+"away": "CHI",
+"date": "1971-04-03",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1970
+},
+"1971020009": {
+"as": 1,
+"away": "DET",
+"date": "1971-10-10",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1971
+},
+"1971020057": {
+"as": 5,
+"away": "CHI",
+"date": "1971-10-26",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1971
+},
+"1971020344": {
+"as": 2,
+"away": "DET",
+"date": "1972-01-30",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1971
+},
+"1971020387": {
+"as": 3,
+"away": "CHI",
+"date": "1972-02-12",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1971
+},
+"1971020481": {
+"as": 3,
+"away": "CHI",
+"date": "1972-03-12",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1971
+},
+"1971020543": {
+"as": 1,
+"away": "DET",
+"date": "1972-04-02",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1971
+},
+"1972020124": {
+"as": 1,
+"away": "DET",
+"date": "1972-11-12",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1972
+},
+"1972020183": {
+"as": 3,
+"away": "DET",
+"date": "1972-11-29",
+"home": "CHI",
+"hs": 8,
+"playoff": false,
+"season": 1972
+},
+"1972020354": {
+"as": 6,
+"away": "CHI",
+"date": "1973-01-17",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1972
+},
+"1972020574": {
+"as": 2,
+"away": "DET",
+"date": "1973-03-18",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1972
+},
+"1972020616": {
+"as": 2,
+"away": "CHI",
+"date": "1973-03-31",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1972
+},
+"1973020189": {
+"as": 8,
+"away": "CHI",
+"date": "1973-12-05",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1973
+},
+"1973020325": {
+"as": 1,
+"away": "DET",
+"date": "1974-01-13",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1973
+},
+"1973020496": {
+"as": 6,
+"away": "CHI",
+"date": "1974-03-03",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1973
+},
+"1973020591": {
+"as": 2,
+"away": "CHI",
+"date": "1974-03-30",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1973
+},
+"1973020621": {
+"as": 4,
+"away": "DET",
+"date": "1974-04-07",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1973
+},
+"1974020005": {
+"as": 1,
+"away": "CHI",
+"date": "1974-10-09",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1974
+},
+"1974020282": {
+"as": 5,
+"away": "DET",
+"date": "1974-12-18",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1974
+},
+"1974020645": {
+"as": 6,
+"away": "CHI",
+"date": "1975-03-20",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1974
+},
+"1974020660": {
+"as": 4,
+"away": "DET",
+"date": "1975-03-23",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1974
+},
+"1975020030": {
+"as": 4,
+"away": "DET",
+"date": "1975-10-15",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1975
+},
+"1975020097": {
+"as": 3,
+"away": "CHI",
+"date": "1975-11-01",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1975
+},
+"1975020453": {
+"as": 1,
+"away": "CHI",
+"date": "1976-01-31",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1975
+},
+"1975020655": {
+"as": 6,
+"away": "DET",
+"date": "1976-03-21",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1975
+},
+"1976020099": {
+"as": 4,
+"away": "CHI",
+"date": "1976-10-30",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1976
+},
+"1976020329": {
+"as": 3,
+"away": "DET",
+"date": "1976-12-29",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1976
+},
+"1976020424": {
+"as": 3,
+"away": "CHI",
+"date": "1977-01-22",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1976
+},
+"1976020549": {
+"as": 2,
+"away": "DET",
+"date": "1977-02-23",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1976
+},
+"1977020219": {
+"as": 2,
+"away": "CHI",
+"date": "1977-12-06",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1977
+},
+"1977020390": {
+"as": 2,
+"away": "CHI",
+"date": "1978-01-19",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1977
+},
+"1977020425": {
+"as": 1,
+"away": "DET",
+"date": "1978-01-28",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1977
+},
+"1977020682": {
+"as": 0,
+"away": "DET",
+"date": "1978-04-01",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1977
+},
+"1978020068": {
+"as": 2,
+"away": "CHI",
+"date": "1978-10-28",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 1978
+},
+"1978020234": {
+"as": 3,
+"away": "DET",
+"date": "1978-12-10",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1978
+},
+"1978020594": {
+"as": 4,
+"away": "DET",
+"date": "1979-03-18",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1978
+},
+"1978020598": {
+"as": 3,
+"away": "CHI",
+"date": "1979-03-20",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1978
+},
+"1979020115": {
+"as": 0,
+"away": "CHI",
+"date": "1979-11-03",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1979
+},
+"1979020317": {
+"as": 3,
+"away": "DET",
+"date": "1979-12-16",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1979
+},
+"1979020438": {
+"as": 2,
+"away": "DET",
+"date": "1980-01-13",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1979
+},
+"1979020830": {
+"as": 3,
+"away": "CHI",
+"date": "1980-04-05",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1979
+},
+"1980020093": {
+"as": 2,
+"away": "CHI",
+"date": "1980-10-28",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1980
+},
+"1980020303": {
+"as": 3,
+"away": "CHI",
+"date": "1980-12-13",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 1980
+},
+"1980020683": {
+"as": 3,
+"away": "DET",
+"date": "1981-03-04",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1980
+},
+"1980020801": {
+"as": 3,
+"away": "DET",
+"date": "1981-03-29",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1980
+},
+"1981020165": {
+"as": 5,
+"away": "DET",
+"date": "1981-11-11",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1981
+},
+"1981020179": {
+"as": 3,
+"away": "CHI",
+"date": "1981-11-14",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1981
+},
+"1981020411": {
+"as": 3,
+"away": "DET",
+"date": "1982-01-03",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1981
+},
+"1981020488": {
+"as": 5,
+"away": "DET",
+"date": "1982-01-20",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1981
+},
+"1981020560": {
+"as": 4,
+"away": "CHI",
+"date": "1982-02-04",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1981
+},
+"1981020765": {
+"as": 4,
+"away": "CHI",
+"date": "1982-03-20",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1981
+},
+"1981020780": {
+"as": 4,
+"away": "DET",
+"date": "1982-03-24",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1981
+},
+"1982020062": {
+"as": 4,
+"away": "DET",
+"date": "1982-10-17",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1982
+},
+"1982020183": {
+"as": 3,
+"away": "CHI",
+"date": "1982-11-13",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1982
+},
+"1982020221": {
+"as": 0,
+"away": "DET",
+"date": "1982-11-21",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1982
+},
+"1982020398": {
+"as": 1,
+"away": "CHI",
+"date": "1982-12-31",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1982
+},
+"1982020476": {
+"as": 2,
+"away": "DET",
+"date": "1983-01-16",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1982
+},
+"1982020571": {
+"as": 4,
+"away": "CHI",
+"date": "1983-02-05",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1982
+},
+"1982020724": {
+"as": 2,
+"away": "CHI",
+"date": "1983-03-10",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1982
+},
+"1982020805": {
+"as": 0,
+"away": "DET",
+"date": "1983-03-27",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1982
+},
+"1983020028": {
+"as": 4,
+"away": "DET",
+"date": "1983-10-09",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1983
+},
+"1983020136": {
+"as": 4,
+"away": "CHI",
+"date": "1983-11-03",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 1983
+},
+"1983020310": {
+"as": 2,
+"away": "DET",
+"date": "1983-12-11",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1983
+},
+"1983020401": {
+"as": 3,
+"away": "CHI",
+"date": "1983-12-31",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1983
+},
+"1983020629": {
+"as": 0,
+"away": "CHI",
+"date": "1984-02-18",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1983
+},
+"1983020670": {
+"as": 4,
+"away": "DET",
+"date": "1984-02-26",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1983
+},
+"1983020831": {
+"as": 4,
+"away": "CHI",
+"date": "1984-03-31",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1983
+},
+"1983020839": {
+"as": 3,
+"away": "DET",
+"date": "1984-04-01",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1983
+},
+"1984020007": {
+"as": 3,
+"away": "DET",
+"date": "1984-10-11",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1984
+},
+"1984020054": {
+"as": 4,
+"away": "CHI",
+"date": "1984-10-20",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 1984
+},
+"1984020268": {
+"as": 4,
+"away": "CHI",
+"date": "1984-12-07",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1984
+},
+"1984020293": {
+"as": 1,
+"away": "DET",
+"date": "1984-12-12",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1984
+},
+"1984020598": {
+"as": 4,
+"away": "CHI",
+"date": "1985-02-16",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 1984
+},
+"1984020605": {
+"as": 4,
+"away": "DET",
+"date": "1985-02-17",
+"end": "OT",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1984
+},
+"1984020639": {
+"as": 2,
+"away": "DET",
+"date": "1985-02-24",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1984
+},
+"1984020829": {
+"as": 2,
+"away": "CHI",
+"date": "1985-04-06",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1984
+},
+"1984030161": {
+"as": 5,
+"away": "DET",
+"date": "1985-04-10",
+"home": "CHI",
+"hs": 9,
+"playoff": true,
+"season": 1984,
+"series": {
+"letter": "F",
+"need": 3,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1984030162": {
+"as": 1,
+"away": "DET",
+"date": "1985-04-11",
+"home": "CHI",
+"hs": 6,
+"playoff": true,
+"season": 1984,
+"series": {
+"letter": "F",
+"need": 3,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1984030163": {
+"as": 8,
+"away": "CHI",
+"date": "1985-04-13",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1984,
+"series": {
+"letter": "F",
+"need": 3,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1985020053": {
+"as": 6,
+"away": "CHI",
+"date": "1985-10-19",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1985
+},
+"1985020311": {
+"as": 4,
+"away": "DET",
+"date": "1985-12-15",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1985
+},
+"1985020340": {
+"as": 6,
+"away": "CHI",
+"date": "1985-12-21",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1985
+},
+"1985020426": {
+"as": 9,
+"away": "CHI",
+"date": "1986-01-10",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1985
+},
+"1985020473": {
+"as": 4,
+"away": "DET",
+"date": "1986-01-19",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1985
+},
+"1985020681": {
+"as": 8,
+"away": "DET",
+"date": "1986-03-05",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1985
+},
+"1985020766": {
+"as": 4,
+"away": "CHI",
+"date": "1986-03-22",
+"home": "DET",
+"hs": 8,
+"playoff": false,
+"season": 1985
+},
+"1985020783": {
+"as": 3,
+"away": "DET",
+"date": "1986-03-26",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1985
+},
+"1986020018": {
+"as": 3,
+"away": "CHI",
+"date": "1986-10-11",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1986
+},
+"1986020099": {
+"as": 2,
+"away": "CHI",
+"date": "1986-10-29",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1986
+},
+"1986020350": {
+"as": 4,
+"away": "DET",
+"date": "1986-12-21",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1986
+},
+"1986020358": {
+"as": 1,
+"away": "CHI",
+"date": "1986-12-23",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1986
+},
+"1986020443": {
+"as": 3,
+"away": "DET",
+"date": "1987-01-11",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1986
+},
+"1986020561": {
+"as": 4,
+"away": "DET",
+"date": "1987-02-04",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1986
+},
+"1986020632": {
+"as": 2,
+"away": "DET",
+"date": "1987-02-22",
+"end": "OT",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1986
+},
+"1986020765": {
+"as": 0,
+"away": "CHI",
+"date": "1987-03-21",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1986
+},
+"1986030161": {
+"as": 1,
+"away": "CHI",
+"date": "1987-04-08",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 1986,
+"series": {
+"letter": "F",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1986030162": {
+"as": 1,
+"away": "CHI",
+"date": "1987-04-09",
+"home": "DET",
+"hs": 5,
+"playoff": true,
+"season": 1986,
+"series": {
+"letter": "F",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1986030163": {
+"as": 4,
+"away": "DET",
+"date": "1987-04-11",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": true,
+"season": 1986,
+"series": {
+"letter": "F",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1986030164": {
+"as": 3,
+"away": "DET",
+"date": "1987-04-12",
+"home": "CHI",
+"hs": 1,
+"playoff": true,
+"season": 1986,
+"series": {
+"letter": "F",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1987020064": {
+"as": 5,
+"away": "CHI",
+"date": "1987-10-21",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1987
+},
+"1987020163": {
+"as": 3,
+"away": "DET",
+"date": "1987-11-11",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1987
+},
+"1987020266": {
+"as": 0,
+"away": "CHI",
+"date": "1987-12-04",
+"home": "DET",
+"hs": 12,
+"playoff": false,
+"season": 1987
+},
+"1987020519": {
+"as": 6,
+"away": "CHI",
+"date": "1988-01-26",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1987
+},
+"1987020557": {
+"as": 6,
+"away": "DET",
+"date": "1988-02-03",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1987
+},
+"1987020618": {
+"as": 4,
+"away": "DET",
+"date": "1988-02-17",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1987
+},
+"1987020631": {
+"as": 1,
+"away": "CHI",
+"date": "1988-02-20",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1987
+},
+"1987020705": {
+"as": 4,
+"away": "DET",
+"date": "1988-03-06",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1987
+},
+"1988020060": {
+"as": 3,
+"away": "CHI",
+"date": "1988-10-18",
+"end": "OT",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1988
+},
+"1988020372": {
+"as": 2,
+"away": "DET",
+"date": "1988-12-23",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 1988
+},
+"1988020448": {
+"as": 2,
+"away": "DET",
+"date": "1989-01-11",
+"end": "OT",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1988
+},
+"1988020492": {
+"as": 3,
+"away": "CHI",
+"date": "1989-01-20",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1988
+},
+"1988020619": {
+"as": 5,
+"away": "CHI",
+"date": "1989-02-17",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1988
+},
+"1988020659": {
+"as": 0,
+"away": "CHI",
+"date": "1989-02-25",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1988
+},
+"1988020664": {
+"as": 4,
+"away": "DET",
+"date": "1989-02-26",
+"end": "OT",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1988
+},
+"1988020769": {
+"as": 3,
+"away": "DET",
+"date": "1989-03-19",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1988
+},
+"1988030151": {
+"as": 2,
+"away": "CHI",
+"date": "1989-04-05",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 1988,
+"series": {
+"letter": "E",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1988030152": {
+"as": 5,
+"away": "CHI",
+"date": "1989-04-06",
+"end": "OT",
+"home": "DET",
+"hs": 4,
+"playoff": true,
+"season": 1988,
+"series": {
+"letter": "E",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1988030153": {
+"as": 2,
+"away": "DET",
+"date": "1989-04-08",
+"home": "CHI",
+"hs": 4,
+"playoff": true,
+"season": 1988,
+"series": {
+"letter": "E",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1988030154": {
+"as": 2,
+"away": "DET",
+"date": "1989-04-09",
+"home": "CHI",
+"hs": 3,
+"playoff": true,
+"season": 1988,
+"series": {
+"letter": "E",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1988030155": {
+"as": 4,
+"away": "CHI",
+"date": "1989-04-11",
+"home": "DET",
+"hs": 6,
+"playoff": true,
+"season": 1988,
+"series": {
+"letter": "E",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1988030156": {
+"as": 1,
+"away": "DET",
+"date": "1989-04-13",
+"home": "CHI",
+"hs": 7,
+"playoff": true,
+"season": 1988,
+"series": {
+"letter": "E",
+"need": 4,
+"round": 1,
+"title": "Division Semifinals"
+}
+},
+"1989020056": {
+"as": 0,
+"away": "DET",
+"date": "1989-10-15",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1989
+},
+"1989020096": {
+"as": 5,
+"away": "CHI",
+"date": "1989-10-24",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1989
+},
+"1989020287": {
+"as": 4,
+"away": "DET",
+"date": "1989-12-03",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1989
+},
+"1989020339": {
+"as": 4,
+"away": "CHI",
+"date": "1989-12-15",
+"home": "DET",
+"hs": 8,
+"playoff": false,
+"season": 1989
+},
+"1989020585": {
+"as": 8,
+"away": "CHI",
+"date": "1990-02-08",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1989
+},
+"1989020745": {
+"as": 3,
+"away": "DET",
+"date": "1990-03-13",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1989
+},
+"1989020797": {
+"as": 3,
+"away": "CHI",
+"date": "1990-03-24",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1989
+},
+"1989020803": {
+"as": 2,
+"away": "DET",
+"date": "1990-03-25",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1989
+},
+"1990020062": {
+"as": 2,
+"away": "CHI",
+"date": "1990-10-16",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1990
+},
+"1990020200": {
+"as": 3,
+"away": "CHI",
+"date": "1990-11-14",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1990
+},
+"1990020270": {
+"as": 5,
+"away": "DET",
+"date": "1990-11-29",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1990
+},
+"1990020284": {
+"as": 3,
+"away": "CHI",
+"date": "1990-12-01",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1990
+},
+"1990020391": {
+"as": 2,
+"away": "DET",
+"date": "1990-12-23",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1990
+},
+"1990020422": {
+"as": 4,
+"away": "CHI",
+"date": "1990-12-31",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1990
+},
+"1990020633": {
+"as": 3,
+"away": "DET",
+"date": "1991-02-17",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1990
+},
+"1990020837": {
+"as": 1,
+"away": "DET",
+"date": "1991-03-31",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1990
+},
+"1991020003": {
+"as": 3,
+"away": "DET",
+"date": "1991-10-03",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1991
+},
+"1991020223": {
+"as": 1,
+"away": "CHI",
+"date": "1991-11-19",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1991
+},
+"1991020321": {
+"as": 3,
+"away": "CHI",
+"date": "1991-12-10",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1991
+},
+"1991020412": {
+"as": 6,
+"away": "DET",
+"date": "1991-12-29",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1991
+},
+"1991020663": {
+"as": 1,
+"away": "CHI",
+"date": "1992-02-22",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1991
+},
+"1991020689": {
+"as": 2,
+"away": "DET",
+"date": "1992-02-27",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1991
+},
+"1991020849": {
+"as": 3,
+"away": "CHI",
+"date": "1992-03-31",
+"end": "OT",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1991
+},
+"1991020876": {
+"as": 2,
+"away": "DET",
+"date": "1992-04-12",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1991
+},
+"1991030231": {
+"as": 2,
+"away": "CHI",
+"date": "1992-05-02",
+"home": "DET",
+"hs": 1,
+"playoff": true,
+"season": 1991,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Division Finals"
+}
+},
+"1991030232": {
+"as": 3,
+"away": "CHI",
+"date": "1992-05-04",
+"home": "DET",
+"hs": 1,
+"playoff": true,
+"season": 1991,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Division Finals"
+}
+},
+"1991030233": {
+"as": 4,
+"away": "DET",
+"date": "1992-05-06",
+"home": "CHI",
+"hs": 5,
+"playoff": true,
+"season": 1991,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Division Finals"
+}
+},
+"1991030234": {
+"as": 0,
+"away": "DET",
+"date": "1992-05-08",
+"home": "CHI",
+"hs": 1,
+"playoff": true,
+"season": 1991,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Division Finals"
+}
+},
+"1992020105": {
+"as": 2,
+"away": "DET",
+"date": "1992-10-25",
+"home": "CHI",
+"hs": 8,
+"playoff": false,
+"season": 1992
+},
+"1992020221": {
+"as": 4,
+"away": "CHI",
+"date": "1992-11-17",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1992
+},
+"1992020335": {
+"as": 3,
+"away": "CHI",
+"date": "1992-12-08",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1992
+},
+"1992020436": {
+"as": 4,
+"away": "DET",
+"date": "1992-12-27",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1992
+},
+"1992020446": {
+"as": 6,
+"away": "CHI",
+"date": "1992-12-29",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1992
+},
+"1992020644": {
+"as": 0,
+"away": "CHI",
+"date": "1993-02-03",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1992
+},
+"1992020686": {
+"as": 5,
+"away": "DET",
+"date": "1993-02-14",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1992
+},
+"1992020755": {
+"as": 2,
+"away": "CHI",
+"date": "1993-02-27",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1992
+},
+"1992020926": {
+"as": 3,
+"away": "DET",
+"date": "1993-04-01",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1992
+},
+"1993020108": {
+"as": 2,
+"away": "DET",
+"date": "1993-10-23",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1993
+},
+"1993020437": {
+"as": 1,
+"away": "CHI",
+"date": "1993-12-21",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1993
+},
+"1993020616": {
+"as": 5,
+"away": "CHI",
+"date": "1994-01-25",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1993
+},
+"1993020629": {
+"as": 4,
+"away": "DET",
+"date": "1994-01-27",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1993
+},
+"1993020947": {
+"as": 1,
+"away": "CHI",
+"date": "1994-03-22",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1993
+},
+"1993020980": {
+"as": 3,
+"away": "DET",
+"date": "1994-03-27",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1993
+},
+"1994020003": {
+"as": 1,
+"away": "CHI",
+"date": "1995-01-20",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1994
+},
+"1994020209": {
+"as": 4,
+"away": "DET",
+"date": "1995-02-23",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1994
+},
+"1994020470": {
+"as": 4,
+"away": "DET",
+"date": "1995-04-09",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1994
+},
+"1994020501": {
+"as": 3,
+"away": "DET",
+"date": "1995-04-14",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1994
+},
+"1994020601": {
+"as": 4,
+"away": "CHI",
+"date": "1995-04-30",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 1994
+},
+"1994030321": {
+"as": 1,
+"away": "CHI",
+"date": "1995-06-01",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1994,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1994030322": {
+"as": 2,
+"away": "CHI",
+"date": "1995-06-04",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 1994,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1994030323": {
+"as": 4,
+"away": "DET",
+"date": "1995-06-06",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": true,
+"season": 1994,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1994030324": {
+"as": 2,
+"away": "DET",
+"date": "1995-06-08",
+"home": "CHI",
+"hs": 5,
+"playoff": true,
+"season": 1994,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1994030325": {
+"as": 1,
+"away": "CHI",
+"date": "1995-06-11",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 1994,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"1995020381": {
+"as": 1,
+"away": "CHI",
+"date": "1995-12-13",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1995
+},
+"1995020520": {
+"as": 0,
+"away": "CHI",
+"date": "1996-01-06",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1995
+},
+"1995020622": {
+"as": 5,
+"away": "DET",
+"date": "1996-01-27",
+"end": "OT",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1995
+},
+"1995020823": {
+"as": 6,
+"away": "DET",
+"date": "1996-03-03",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1995
+},
+"1995021022": {
+"as": 4,
+"away": "DET",
+"date": "1996-04-07",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1995
+},
+"1995021049": {
+"as": 3,
+"away": "CHI",
+"date": "1996-04-12",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1995
+},
+"1996020071": {
+"as": 1,
+"away": "DET",
+"date": "1996-10-17",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1996
+},
+"1996020113": {
+"as": 2,
+"away": "CHI",
+"date": "1996-10-25",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1996
+},
+"1996020384": {
+"as": 2,
+"away": "CHI",
+"date": "1996-12-12",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 1996
+},
+"1996020524": {
+"as": 5,
+"away": "DET",
+"date": "1997-01-05",
+"end": "OT",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1996
+},
+"1996020558": {
+"as": 3,
+"away": "CHI",
+"date": "1997-01-11",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 1996
+},
+"1996020944": {
+"as": 3,
+"away": "DET",
+"date": "1997-03-23",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 1996
+},
+"1997020264": {
+"as": 3,
+"away": "DET",
+"date": "1997-11-16",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1997
+},
+"1997020545": {
+"as": 1,
+"away": "DET",
+"date": "1998-01-04",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1997
+},
+"1997020836": {
+"as": 0,
+"away": "CHI",
+"date": "1998-03-12",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1997
+},
+"1997020901": {
+"as": 5,
+"away": "CHI",
+"date": "1998-03-23",
+"end": "OT",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1997
+},
+"1997020973": {
+"as": 3,
+"away": "DET",
+"date": "1998-04-04",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 1997
+},
+"1998020334": {
+"as": 2,
+"away": "CHI",
+"date": "1998-12-08",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1998
+},
+"1998020479": {
+"as": 2,
+"away": "CHI",
+"date": "1999-01-02",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1998
+},
+"1998020483": {
+"as": 3,
+"away": "DET",
+"date": "1999-01-03",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1998
+},
+"1998020708": {
+"as": 2,
+"away": "DET",
+"date": "1999-02-12",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 1998
+},
+"1998021006": {
+"as": 3,
+"away": "CHI",
+"date": "1999-04-02",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 1998
+},
+"1998021098": {
+"as": 2,
+"away": "DET",
+"date": "1999-04-17",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 1998
+},
+"1999020120": {
+"as": 1,
+"away": "DET",
+"date": "1999-10-23",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 1999
+},
+"1999020149": {
+"as": 4,
+"away": "CHI",
+"date": "1999-10-29",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 1999
+},
+"1999020354": {
+"as": 7,
+"away": "DET",
+"date": "1999-12-03",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 1999
+},
+"1999020520": {
+"as": 4,
+"away": "CHI",
+"date": "1999-12-31",
+"end": "OT",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 1999
+},
+"1999020596": {
+"as": 5,
+"away": "CHI",
+"date": "2000-01-13",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 1999
+},
+"1999020825": {
+"as": 4,
+"away": "DET",
+"date": "2000-02-20",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 1999
+},
+"2000020041": {
+"as": 4,
+"away": "DET",
+"date": "2000-10-12",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 2000
+},
+"2000020185": {
+"as": 6,
+"away": "CHI",
+"date": "2000-11-03",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2000
+},
+"2000020345": {
+"as": 6,
+"away": "CHI",
+"date": "2000-11-27",
+"end": "OT",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2000
+},
+"2000020551": {
+"as": 2,
+"away": "DET",
+"date": "2000-12-29",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2000
+},
+"2000020901": {
+"as": 7,
+"away": "DET",
+"date": "2001-02-21",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2000
+},
+"2001020210": {
+"as": 4,
+"away": "DET",
+"date": "2001-11-04",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 2001
+},
+"2001020350": {
+"as": 4,
+"away": "CHI",
+"date": "2001-11-25",
+"end": "OT",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2001
+},
+"2001020497": {
+"as": 2,
+"away": "CHI",
+"date": "2001-12-17",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 2001
+},
+"2001020540": {
+"as": 5,
+"away": "DET",
+"date": "2001-12-23",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 2001
+},
+"2001021196": {
+"as": 3,
+"away": "CHI",
+"date": "2002-04-10",
+"end": "OT",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2001
+},
+"2002020181": {
+"as": 2,
+"away": "CHI",
+"date": "2002-11-05",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 2002
+},
+"2002020597": {
+"as": 4,
+"away": "DET",
+"date": "2003-01-05",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2002
+},
+"2002020654": {
+"as": 4,
+"away": "CHI",
+"date": "2003-01-13",
+"end": "OT",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2002
+},
+"2002020668": {
+"as": 1,
+"away": "DET",
+"date": "2003-01-15",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2002
+},
+"2002021222": {
+"as": 3,
+"away": "DET",
+"date": "2003-04-06",
+"end": "OT",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2002
+},
+"2003020212": {
+"as": 0,
+"away": "CHI",
+"date": "2003-11-10",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2003
+},
+"2003020239": {
+"as": 4,
+"away": "DET",
+"date": "2003-11-14",
+"end": "OT",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2003
+},
+"2003020421": {
+"as": 3,
+"away": "DET",
+"date": "2003-12-11",
+"end": "OT",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2003
+},
+"2003020475": {
+"as": 2,
+"away": "CHI",
+"date": "2003-12-19",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2003
+},
+"2003020533": {
+"as": 0,
+"away": "DET",
+"date": "2003-12-28",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2003
+},
+"2003020659": {
+"as": 2,
+"away": "CHI",
+"date": "2004-01-14",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2003
+},
+"2005020149": {
+"as": 2,
+"away": "CHI",
+"date": "2005-10-27",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2005
+},
+"2005020168": {
+"as": 4,
+"away": "DET",
+"date": "2005-10-29",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 2005
+},
+"2005020181": {
+"as": 1,
+"away": "CHI",
+"date": "2005-11-01",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2005
+},
+"2005020519": {
+"as": 3,
+"away": "DET",
+"date": "2005-12-23",
+"end": "OT",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 2005
+},
+"2005020949": {
+"as": 4,
+"away": "CHI",
+"date": "2006-03-11",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 2005
+},
+"2005020958": {
+"as": 5,
+"away": "DET",
+"date": "2006-03-12",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2005021091": {
+"as": 3,
+"away": "CHI",
+"date": "2006-03-31",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2005
+},
+"2005021191": {
+"as": 7,
+"away": "DET",
+"date": "2006-04-13",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2005
+},
+"2006020186": {
+"as": 2,
+"away": "DET",
+"date": "2006-11-02",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 2006
+},
+"2006020463": {
+"as": 3,
+"away": "DET",
+"date": "2006-12-14",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 2006
+},
+"2006020672": {
+"as": 3,
+"away": "CHI",
+"date": "2007-01-13",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 2006
+},
+"2006020907": {
+"as": 2,
+"away": "CHI",
+"date": "2007-02-21",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2006
+},
+"2006020952": {
+"as": 4,
+"away": "DET",
+"date": "2007-02-27",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 2006
+},
+"2006020970": {
+"as": 2,
+"away": "CHI",
+"date": "2007-03-02",
+"home": "DET",
+"hs": 6,
+"playoff": false,
+"season": 2006
+},
+"2006021206": {
+"as": 2,
+"away": "DET",
+"date": "2007-04-05",
+"end": "SO",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2006
+},
+"2006021215": {
+"as": 2,
+"away": "CHI",
+"date": "2007-04-07",
+"home": "DET",
+"hs": 7,
+"playoff": false,
+"season": 2006
+},
+"2007020031": {
+"as": 3,
+"away": "DET",
+"date": "2007-10-06",
+"end": "SO",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2007
+},
+"2007020058": {
+"as": 3,
+"away": "CHI",
+"date": "2007-10-12",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2007
+},
+"2007020245": {
+"as": 2,
+"away": "DET",
+"date": "2007-11-11",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2007020283": {
+"as": 5,
+"away": "CHI",
+"date": "2007-11-17",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2007020623": {
+"as": 3,
+"away": "DET",
+"date": "2008-01-06",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 2007
+},
+"2007021053": {
+"as": 1,
+"away": "CHI",
+"date": "2008-03-11",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2007
+},
+"2007021200": {
+"as": 2,
+"away": "DET",
+"date": "2008-04-02",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 2007
+},
+"2007021226": {
+"as": 1,
+"away": "CHI",
+"date": "2008-04-06",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2007
+},
+"2008020115": {
+"as": 6,
+"away": "DET",
+"date": "2008-10-25",
+"end": "SO",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 2008
+},
+"2008020386": {
+"as": 4,
+"away": "CHI",
+"date": "2008-12-06",
+"end": "SO",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2008
+},
+"2008020543": {
+"as": 0,
+"away": "CHI",
+"date": "2008-12-30",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2008
+},
+"2008020554": {
+"as": 6,
+"away": "DET",
+"date": "2009-01-01",
+"home": "CHI",
+"hs": 4,
+"neutral": true,
+"playoff": false,
+"season": 2008
+},
+"2008021216": {
+"as": 4,
+"away": "CHI",
+"date": "2009-04-11",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2008
+},
+"2008021230": {
+"as": 0,
+"away": "DET",
+"date": "2009-04-12",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2008
+},
+"2008030321": {
+"as": 2,
+"away": "CHI",
+"date": "2009-05-17",
+"home": "DET",
+"hs": 5,
+"playoff": true,
+"season": 2008,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2008030322": {
+"as": 2,
+"away": "CHI",
+"date": "2009-05-19",
+"end": "OT",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 2008,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2008030323": {
+"as": 3,
+"away": "DET",
+"date": "2009-05-22",
+"end": "OT",
+"home": "CHI",
+"hs": 4,
+"playoff": true,
+"season": 2008,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2008030324": {
+"as": 6,
+"away": "DET",
+"date": "2009-05-24",
+"home": "CHI",
+"hs": 1,
+"playoff": true,
+"season": 2008,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2008030325": {
+"as": 1,
+"away": "CHI",
+"date": "2009-05-27",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 2008,
+"series": {
+"letter": "N",
+"need": 4,
+"round": 3,
+"title": "Conference Finals"
+}
+},
+"2009020041": {
+"as": 2,
+"away": "CHI",
+"date": "2009-10-08",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2009
+},
+"2009020529": {
+"as": 0,
+"away": "DET",
+"date": "2009-12-20",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2009
+},
+"2009020553": {
+"as": 3,
+"away": "CHI",
+"date": "2009-12-23",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 2009
+},
+"2009020720": {
+"as": 4,
+"away": "CHI",
+"date": "2010-01-17",
+"end": "SO",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2009
+},
+"2009020971": {
+"as": 5,
+"away": "DET",
+"date": "2010-03-07",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2009
+},
+"2009021225": {
+"as": 3,
+"away": "DET",
+"date": "2010-04-11",
+"end": "OT",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 2009
+},
+"2010020021": {
+"as": 3,
+"away": "DET",
+"date": "2010-10-09",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 2010
+},
+"2010020471": {
+"as": 1,
+"away": "DET",
+"date": "2010-12-17",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2010
+},
+"2010020713": {
+"as": 4,
+"away": "CHI",
+"date": "2011-01-22",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2010
+},
+"2010021132": {
+"as": 3,
+"away": "CHI",
+"date": "2011-03-28",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2010
+},
+"2010021206": {
+"as": 4,
+"away": "CHI",
+"date": "2011-04-08",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2010
+},
+"2010021229": {
+"as": 4,
+"away": "DET",
+"date": "2011-04-10",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2010
+},
+"2011020555": {
+"as": 2,
+"away": "DET",
+"date": "2011-12-30",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2011
+},
+"2011020612": {
+"as": 3,
+"away": "DET",
+"date": "2012-01-08",
+"end": "OT",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 2011
+},
+"2011020647": {
+"as": 2,
+"away": "CHI",
+"date": "2012-01-14",
+"end": "OT",
+"home": "DET",
+"hs": 3,
+"playoff": false,
+"season": 2011
+},
+"2011020893": {
+"as": 1,
+"away": "DET",
+"date": "2012-02-21",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 2011
+},
+"2011020976": {
+"as": 2,
+"away": "CHI",
+"date": "2012-03-04",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2011
+},
+"2011021220": {
+"as": 3,
+"away": "CHI",
+"date": "2012-04-07",
+"end": "SO",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2011
+},
+"2012020069": {
+"as": 1,
+"away": "DET",
+"date": "2013-01-27",
+"end": "OT",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 2012
+},
+"2012020311": {
+"as": 2,
+"away": "CHI",
+"date": "2013-03-03",
+"end": "SO",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2012
+},
+"2012020517": {
+"as": 7,
+"away": "CHI",
+"date": "2013-03-31",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2012
+},
+"2012020608": {
+"as": 2,
+"away": "DET",
+"date": "2013-04-12",
+"end": "SO",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2012
+},
+"2012030231": {
+"as": 1,
+"away": "DET",
+"date": "2013-05-15",
+"home": "CHI",
+"hs": 4,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2012030232": {
+"as": 4,
+"away": "DET",
+"date": "2013-05-18",
+"home": "CHI",
+"hs": 1,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2012030233": {
+"as": 1,
+"away": "CHI",
+"date": "2013-05-20",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2012030234": {
+"as": 0,
+"away": "CHI",
+"date": "2013-05-23",
+"home": "DET",
+"hs": 2,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2012030235": {
+"as": 1,
+"away": "DET",
+"date": "2013-05-25",
+"home": "CHI",
+"hs": 4,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2012030236": {
+"as": 4,
+"away": "CHI",
+"date": "2013-05-27",
+"home": "DET",
+"hs": 3,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2012030237": {
+"as": 1,
+"away": "DET",
+"date": "2013-05-29",
+"end": "OT",
+"home": "CHI",
+"hs": 2,
+"playoff": true,
+"season": 2012,
+"series": {
+"letter": "K",
+"need": 4,
+"round": 2,
+"title": "Conference Semifinals"
+}
+},
+"2013020757": {
+"as": 4,
+"away": "CHI",
+"date": "2014-01-22",
+"end": "SO",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2013
+},
+"2013021020": {
+"as": 1,
+"away": "DET",
+"date": "2014-03-16",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2013
+},
+"2014020245": {
+"as": 1,
+"away": "CHI",
+"date": "2014-11-14",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2014
+},
+"2014020854": {
+"as": 3,
+"away": "DET",
+"date": "2015-02-18",
+"end": "SO",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 2014
+},
+"2015020952": {
+"as": 5,
+"away": "CHI",
+"date": "2016-03-02",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2015
+},
+"2015020983": {
+"as": 1,
+"away": "DET",
+"date": "2016-03-06",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2015
+},
+"2016020617": {
+"as": 3,
+"away": "DET",
+"date": "2017-01-10",
+"end": "OT",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2016
+},
+"2016020996": {
+"as": 2,
+"away": "CHI",
+"date": "2017-03-10",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2016
+},
+"2017020681": {
+"as": 4,
+"away": "DET",
+"date": "2018-01-14",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 2017
+},
+"2017020751": {
+"as": 5,
+"away": "CHI",
+"date": "2018-01-25",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2017
+},
+"2018020857": {
+"as": 2,
+"away": "DET",
+"date": "2019-02-10",
+"home": "CHI",
+"hs": 5,
+"playoff": false,
+"season": 2018
+},
+"2018020925": {
+"as": 5,
+"away": "CHI",
+"date": "2019-02-20",
+"end": "OT",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2018
+},
+"2019020657": {
+"as": 2,
+"away": "DET",
+"date": "2020-01-05",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2019
+},
+"2019021044": {
+"as": 1,
+"away": "CHI",
+"date": "2020-03-06",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2019
+},
+"2020020069": {
+"as": 1,
+"away": "DET",
+"date": "2021-01-22",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2020
+},
+"2020020084": {
+"as": 2,
+"away": "DET",
+"date": "2021-01-24",
+"home": "CHI",
+"hs": 6,
+"playoff": false,
+"season": 2020
+},
+"2020020246": {
+"as": 3,
+"away": "CHI",
+"date": "2021-02-15",
+"end": "OT",
+"home": "DET",
+"hs": 2,
+"playoff": false,
+"season": 2020
+},
+"2020020261": {
+"as": 2,
+"away": "CHI",
+"date": "2021-02-17",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 2020
+},
+"2020020331": {
+"as": 5,
+"away": "DET",
+"date": "2021-02-27",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2020
+},
+"2020020343": {
+"as": 2,
+"away": "DET",
+"date": "2021-02-28",
+"home": "CHI",
+"hs": 7,
+"playoff": false,
+"season": 2020
+},
+"2020020681": {
+"as": 1,
+"away": "CHI",
+"date": "2021-04-15",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2020
+},
+"2020020695": {
+"as": 4,
+"away": "CHI",
+"date": "2021-04-17",
+"home": "DET",
+"hs": 0,
+"playoff": false,
+"season": 2020
+},
+"2021020080": {
+"as": 6,
+"away": "DET",
+"date": "2021-10-24",
+"home": "CHI",
+"hs": 3,
+"playoff": false,
+"season": 2021
+},
+"2021020753": {
+"as": 8,
+"away": "CHI",
+"date": "2022-01-26",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2021
+},
+"2022020072": {
+"as": 3,
+"away": "DET",
+"date": "2022-10-21",
+"end": "OT",
+"home": "CHI",
+"hs": 4,
+"playoff": false,
+"season": 2022
+},
+"2022021022": {
+"as": 3,
+"away": "CHI",
+"date": "2023-03-08",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2022
+},
+"2023020342": {
+"as": 1,
+"away": "CHI",
+"date": "2023-11-30",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2023
+},
+"2023020920": {
+"as": 3,
+"away": "DET",
+"date": "2024-02-25",
+"end": "OT",
+"home": "CHI",
+"hs": 2,
+"playoff": false,
+"season": 2023
+},
+"2024020206": {
+"as": 4,
+"away": "DET",
+"date": "2024-11-06",
+"home": "CHI",
+"hs": 1,
+"playoff": false,
+"season": 2024
+},
+"2024020664": {
+"as": 3,
+"away": "CHI",
+"date": "2025-01-10",
+"home": "DET",
+"hs": 5,
+"playoff": false,
+"season": 2024
+},
+"2025020244": {
+"as": 5,
+"away": "CHI",
+"date": "2025-11-09",
+"home": "DET",
+"hs": 1,
+"playoff": false,
+"season": 2025
+},
+"2025020504": {
+"as": 4,
+"away": "DET",
+"date": "2025-12-13",
+"home": "CHI",
+"hs": 0,
+"playoff": false,
+"season": 2025
+},
+"2026020203": {
+"as": 1,
+"away": "CHI",
+"date": "2026-10-29",
+"home": "DET",
+"hs": 4,
+"playoff": false,
+"season": 2026
+}
+},
+"seasons": [
+1926,
+1927,
+1928,
+1929,
+1930,
+1931,
+1932,
+1933,
+1934,
+1935,
+1936,
+1937,
+1938,
+1939,
+1940,
+1941,
+1942,
+1943,
+1944,
+1945,
+1946,
+1947,
+1948,
+1949,
+1950,
+1951,
+1952,
+1953,
+1954,
+1955,
+1956,
+1957,
+1958,
+1959,
+1960,
+1961,
+1962,
+1963,
+1964,
+1965,
+1966,
+1967,
+1968,
+1969,
+1970,
+1971,
+1972,
+1973,
+1974,
+1975,
+1976,
+1977,
+1978,
+1979,
+1980,
+1981,
+1982,
+1983,
+1984,
+1985,
+1986,
+1987,
+1988,
+1989,
+1990,
+1991,
+1992,
+1993,
+1994,
+1995,
+1996,
+1997,
+1998,
+1999,
+2000,
+2001,
+2002,
+2003,
+2004,
+2005,
+2006,
+2007,
+2008,
+2009,
+2010,
+2011,
+2012,
+2013,
+2014,
+2015,
+2016,
+2017,
+2018,
+2019,
+2020,
+2021,
+2022,
+2023,
+2024
+]
+}
