@@ -28,7 +28,7 @@
       ["olympics/", "Olympic Games"], ["swimming/olympics/", "Swimming"], ["tennis/olympics/", "Tennis"],
       ["football/olympics/", "Football"], ["boxing/olympics/", "Boxing"],
     ] },
-    { sport: "basketball", label: "Basketball", pages: [["basketball/nba-rings/", "NBA Rings"], ["basketball/international/", "World Cup & Olympics"]] },
+    { sport: "basketball", label: "Basketball", pages: [["basketball/nba-rings/", "NBA Rings"], ["basketball/nba-rivalries/", "NBA Rivalries"], ["basketball/international/", "World Cup & Olympics"]] },
     { sport: "team", label: "Team sports", pages: [
       ["handball/international/", "Handball"], ["rugby/international/", "Rugby"], ["volleyball/international/", "Volleyball"],
       ["hockey/international/", "Field hockey"],

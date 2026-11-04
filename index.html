@@ -594,7 +594,7 @@
       <div class="sport-head">
         <h2>Basketball</h2>
         <p>The NBA and the international game.</p>
-        <span class="count">2 pages</span>
+        <span class="count">3 pages</span>
       </div>
       <div class="gallery">
         <a class="tile" href="basketball/nba-rings/">
@@ -610,6 +610,22 @@
           <div class="body">
             <h3>NBA Rings</h3>
             <p>Every championship since 1947: the franchise race, East vs West, every champion, repeated Finals and the Finals MVP leaders.</p>
+          </div>
+        </a>
+        <a class="tile" href="basketball/nba-rivalries/">
+          <div class="art" style="--tint: linear-gradient(135deg, #0b6b3a, #552583)">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle cx="38" cy="60" r="26" fill="#e8742a"/>
+              <path d="M12 60h52M38 34v52M20 42c10 8 10 28 0 36M56 42c-10 8-10 28 0 36" fill="none" stroke="#3b1d0e" stroke-width="2.5"/>
+              <circle cx="84" cy="60" r="26" fill="#e8742a"/>
+              <path d="M58 60h52M84 34v52M66 42c10 8 10 28 0 36M102 42c-10 8-10 28 0 36" fill="none" stroke="#3b1d0e" stroke-width="2.5"/>
+              <text x="61" y="104" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">VS</text>
+            </svg>
+            <div class="stat" data-stat="nbaRivalries"><strong>16</strong><span>rivalries</span></div>
+          </div>
+          <div class="body">
+            <h3>NBA Rivalries</h3>
+            <p>Celtics–Lakers, Bulls–Pistons, Heat–Knicks and 13 more: the head to head in the regular season and the playoffs, the lead season by season and every playoff series.</p>
           </div>
         </a>
         <a class="tile" href="basketball/international/">
@@ -875,6 +891,7 @@
           const [id, n] = most(d.seasons, (s) => s.champion);
           return [String(n), `${d.franchises.find((f) => f.id === id).short} rings`];
         }],
+        nbaRivalries: ["basketball/nba-rivalries/data/nba-rivalries.json", (d) => [String(d.rivalries.length), "rivalries"]],
         worldCup: ["football/world-cup/data/world-cup.json", (d) => [String(d.editions.length), "World Cups"]],
         ballon: ["football/ballon-dor/data/ballon-dor.json", (d) => {
           const [name, n] = most(d.winners, (w) => w.player);

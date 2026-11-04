@@ -64,6 +64,15 @@ The same three pages for the WTA: every Open Era women's major, every final of t
 | Steffi Graf | 22 | 15 | 377 |
 | Martina Navratilova | 18 | 3 | 332 |
 
+### 🏀 [NBA Rivalries](https://angelmza1990.github.io/sports-stats-mvp/basketball/nba-rivalries/)
+
+Sixteen great NBA rivalries (Celtics–Lakers, 76ers–Celtics, Celtics–Knicks, Celtics–Pistons, Celtics–Heat, Bulls–Pistons, Bulls–Knicks, Bulls–Cavaliers, Heat–Knicks, Knicks–Pacers, Lakers–Pistons, Lakers–Spurs, Kings–Lakers, Cavaliers–Warriors, Mavericks–Spurs, Rockets–Spurs), read from the season-by-season results of each rivalry's Wikipedia article and checked against the totals it publishes:
+
+- **The head to head:** every game, the regular season and the playoffs, playoff series and NBA Finals
+- **The lead, season by season:** wins minus losses after every season, with each side's biggest lead
+- **Every season:** regular-season wins of each side, with every playoff series marked in the winner's color
+- **Every playoff series** and the **home and away** split
+
 ### 🏀 [NBA Rings](https://angelmza1990.github.io/sports-stats-mvp/basketball/nba-rings/)
 
 Every NBA championship since 1947:
@@ -272,6 +281,7 @@ Argentina's touring-car championship since 1979, counting the Súper TC2000 year
 ├── tennis/number-one/            # World No. 1, men and women
 ├── tennis/age-records/           # Age records, men and women
 ├── basketball/nba-rings/         # NBA Rings infographic
+├── basketball/nba-rivalries/     # NBA Rivalries
 ├── football/                     # Football pages (shared common.js, league.js for national leagues) + one folder per page
 ├── american-football/super-bowl/  # Super Bowl and NFL championships
 ├── ice-hockey/stanley-cup/       # Stanley Cup Finals
@@ -291,6 +301,7 @@ Argentina's touring-car championship since 1979, counting the Súper TC2000 year
 │   ├── build_grand_slams.py      # Grand Slams data pipeline (men and women)
 │   ├── build_masters.py          # ATP Masters 1000 and WTA 1000 pipeline
 │   ├── build_nba_rings.py        # NBA data pipeline
+│   ├── build_nba_rivalries.py    # NBA rivalries, season by season
 │   ├── build_super_bowl.py       # Super Bowls, NFL titles, MVPs and coaches
 │   ├── build_stanley_cup.py      # Stanley Cup Finals, Conn Smythe winners and coaches
 │   ├── build_world_series.py     # World Series, MVPs and managers
@@ -342,6 +353,7 @@ python3 scripts/build_big_three.py --refresh  # tennis: re-downloads the raw mat
 python3 scripts/build_grand_slams.py --refresh # tennis: Open Era Grand Slams, men and women
 python3 scripts/build_masters.py --refresh    # tennis: ATP Masters 1000 and WTA 1000
 python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia table
+python3 scripts/build_nba_rivalries.py --refresh  # NBA: the 16 rivalries' season-by-season results
 python3 scripts/build_super_bowl.py --refresh # NFL: Super Bowls, NFL champions since 1920, MVPs and coaches
 python3 scripts/build_stanley_cup.py --refresh  # NHL: Stanley Cup Finals since 1915, Conn Smythe and coaches
 python3 scripts/build_world_series.py --refresh # MLB: World Series since 1903, MVPs and managers

@@ -1,0 +1,64 @@
+/* NBA Rivalries: the football rivalries' cards and head-to-head card (football/rivalries/style.css), with NBA logos. */
+
+.logo {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  flex: none;
+}
+
+.badge {
+  display: inline-grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--wash);
+  border: 1px solid var(--border);
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--ink-2);
+  flex: none;
+}
+
+.rv-side .badge {
+  width: 56px;
+  height: 56px;
+  font-size: 15px;
+}
+
+.rivalry-picker .crests .badge {
+  width: 24px;
+  height: 24px;
+  font-size: 9px;
+}
+
+.logo-sm {
+  width: 22px;
+  height: 22px;
+}
+
+.stat .value .stat-logo {
+  width: 32px;
+  height: 32px;
+  margin-right: 8px;
+  vertical-align: -4px;
+}
+
+.who {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.data-table tr.final-row td {
+  font-weight: 650;
+}
+
+.data-table caption.caption-note {
+  caption-side: bottom;
+  text-align: left;
+  padding-top: 8px;
+  color: var(--ink-muted);
+  font-size: 12.5px;
+}

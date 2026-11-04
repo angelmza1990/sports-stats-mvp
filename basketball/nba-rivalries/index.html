@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NBA Rivalries · Basketball</title>
+  <meta name="description" content="Sixteen great NBA rivalries, from Celtics–Lakers to Bulls–Pistons and Heat–Knicks: the head to head in the regular season and the playoffs, how the lead has changed hands season by season, and every playoff series between them.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="../../football/rivalries/style.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body>
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Basketball</p>
+    <h1>NBA Rivalries</h1>
+    <p class="lede">
+      Sixteen of the NBA's great rivalries, from Celtics–Lakers, the league's most played Finals, to the Bad Boys and the Bulls, Heat–Knicks and Knicks–Pacers:
+      who leads the head to head in the regular season and the playoffs, how the lead has moved season by season, and every playoff series between them.
+    </p>
+    <div class="rivalry-picker" id="picker"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block tight" id="summary">
+      <div class="card versus-card">
+        <div class="rv-head" id="rv-versus"></div>
+        <div class="rv-split" id="rv-split" aria-hidden="true"></div>
+        <div class="rv-goals" id="rv-detail"></div>
+      </div>
+      <div class="stat-row" id="stats"></div>
+    </section>
+
+    <section class="block" id="timeline">
+      <div class="block-head">
+        <h2>The lead, season by season</h2>
+        <p>Wins minus losses in every game between them, regular season and playoffs, after each season. Above the line, one side leads the head to head; below it, the other.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="timeline-legend"></div>
+        <div id="timeline-chart" class="chart"></div>
+        <p class="chart-note" id="timeline-note"></p>
+      </div>
+    </section>
+
+    <section class="block" id="seasons">
+      <div class="block-head">
+        <h2>Every season</h2>
+        <p>Regular-season wins of each side, season by season: one team's above the line, the other's below. A dot above a season marks a playoff series, in the winner's color, with a ring for the Finals. Hover or tap a season for the details.</p>
+      </div>
+      <div class="card">
+        <div class="legend" id="seasons-legend"></div>
+        <div id="seasons-chart" class="chart"></div>
+        <details class="table-view">
+          <summary>View data table</summary>
+          <div class="data-table tall" id="seasons-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="block" id="playoffs">
+      <div class="block-head">
+        <h2>Every playoff series</h2>
+        <p id="playoffs-lede">Most recent first, with the games each side won.</p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="series-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="venues">
+      <div class="block-head">
+        <h2>Home and away</h2>
+        <p>Wins of each side by where the game was played. In the early decades some games were played at neutral sites.</p>
+      </div>
+      <div class="card">
+        <div class="data-table" id="venue-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> <span id="source"></span> (CC BY-SA 4.0), the season-by-season results of each rivalry's article. Updated automatically. <span id="data-through"></span></p>
+    <p id="notes"><strong>Notes:</strong> franchises count with their earlier names and cities (the Minneapolis Lakers, the Syracuse Nationals, the Rochester and Cincinnati Royals, the Fort Wayne Pistons). Seasons are named by the year they start; a playoff series belongs to the season it ends. The 1950s round-robins count their games but are not series.</p>
+    <p>Team names and logos are trademarks of their owners. This project is not affiliated with the NBA.</p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
