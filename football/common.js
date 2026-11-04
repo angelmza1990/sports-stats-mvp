@@ -17,7 +17,8 @@ window.Football = function (data) {
   /* ---------- Crests and flags ---------- */
 
   const CREST = "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer";
-  const crestUrl = (id, dark = Viz.isDark()) => `${CREST}/${dark ? "500-dark" : "500"}/${id}.png&h=80&w=80`;
+  // An ESPN logo id, or a full image URL (EuroLeague crests).
+  const crestUrl = (id, dark = Viz.isDark()) => (String(id).startsWith("https://") ? id : `${CREST}/${dark ? "500-dark" : "500"}/${id}.png&h=80&w=80`);
   const initials = (name) => name.replace(/\(.*?\)/g, "").replace(/[^A-Za-zÀ-ÿ ]/g, "").split(" ").filter(Boolean).slice(0, 3).map((w) => w[0]).join("").toUpperCase();
 
   function crest(id, cls = "crest") {

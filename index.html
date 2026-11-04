@@ -93,7 +93,7 @@
     <h1>Sports<br>Stats</h1>
     <p class="lede">Interactive infographics on the numbers behind sport's great champions and rivalries, built with D3 and open data and updated twice a year.</p>
     <dl class="home-figures">
-      <div><dt>Infographics</dt><dd id="tile-count">56</dd></div>
+      <div><dt>Infographics</dt><dd id="tile-count">57</dd></div>
       <div><dt>Sports</dt><dd>14</dd></div>
       <div><dt>Seasons covered</dt><dd>1877–2026</dd></div>
     </dl>
@@ -496,8 +496,8 @@
     <section class="sport" data-sport="basketball" id="basketball">
       <div class="sport-head">
         <h2>Basketball</h2>
-        <p>The NBA and the international game.</p>
-        <span class="count">4 pages</span>
+        <p>The NBA, Argentina, the EuroLeague and the international game.</p>
+        <span class="count">5 pages</span>
       </div>
       <div class="gallery">
         <a class="tile" href="basketball/nba-rings/">
@@ -525,6 +525,15 @@
           <div class="body">
             <h3>Liga Nacional de Básquet</h3>
             <p>Argentina's league since 1985: every final and MVP, titles by club, city, coach and player, top scorers, all-time records and seasons in the league.</p>
+          </div>
+        </a>
+        <a class="tile" href="basketball/euroleague/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-trophy"/></svg>
+            <div class="stat" data-stat="euroleague"><strong>11</strong><span>Real Madrid titles</span></div>
+          </div>
+          <div class="body">
+            <h3>EuroLeague</h3>
+            <p>Every European champion since 1958, every final, the all-time table of the EuroLeague era, the most decorated coaches and players and five great rivalries.</p>
           </div>
         </a>
         <a class="tile" href="basketball/international/">
@@ -761,6 +770,10 @@
         nflRivalries: ["american-football/nfl-rivalries/data/nfl-rivalries.json", (d) => [String(d.rivalries.length), "rivalries"]],
         nhlRivalries: ["ice-hockey/nhl-rivalries/data/nhl-rivalries.json", (d) => [String(d.rivalries.length), "rivalries"]],
         chessRivalries: ["chess/rivalries/data/chess-rivalries.json", (d) => [String(d.rivalries.length), "rivalries"]],
+        euroleague: ["basketball/euroleague/data/euroleague.json", (d) => {
+          const [id, n] = most(d.finals, (f) => f.champion);
+          return [String(n), `${d.clubs[id].name} titles`];
+        }],
         lnb: ["basketball/lnb/data/lnb.json", (d) => {
           const [id, n] = most(d.finals, (f) => f.champion);
           return [String(n), `${d.clubs[id].name} titles`];

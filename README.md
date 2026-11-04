@@ -64,6 +64,16 @@ The same three pages for the WTA: every Open Era women's major, every final of t
 | Steffi Graf | 22 | 15 | 377 |
 | Martina Navratilova | 18 | 3 | 332 |
 
+### 🏆 [EuroLeague](https://angelmza1990.github.io/sports-stats-mvp/basketball/euroleague/)
+
+Every champion of Europe since the first FIBA European Champions Cup in 1958, from English Wikipedia, and every EuroLeague game since 2000–01 from Euroleague Basketball's own results:
+
+- **The race for the most European titles** and **titles by club and by country**, checked club by club against Wikipedia's titles table
+- **Every final:** champion, score (or the games of two-legged and best-of finals), runner-up, host, finals MVP and champion coach
+- **All-time table of the EuroLeague era:** every club's games, wins, losses and points since 2000–01, with its European titles since 1958
+- **The most decorated coaches and players:** titles and lost finals, with the winning years
+- **Great rivalries:** Real Madrid vs FC Barcelona, Panathinaikos vs Olympiacos, Fenerbahçe vs Anadolu Efes, Real Madrid vs Olympiacos, Panathinaikos vs Maccabi Tel Aviv, every EuroLeague game between them, the lead game by game, the finals they played and, for El Clásico and the Derby of the Eternal Enemies, their record in every competition
+
 ### 🏀 [Liga Nacional de Básquet](https://angelmza1990.github.io/sports-stats-mvp/basketball/lnb/)
 
 Argentina's top basketball league since 1985, from Spanish Wikipedia:
@@ -316,6 +326,7 @@ Argentina's touring-car championship since 1979, counting the Súper TC2000 year
 ├── basketball/nba-rings/         # NBA Rings infographic
 ├── basketball/nba-rivalries/     # NBA Rivalries
 ├── basketball/lnb/               # Liga Nacional de Básquet (Argentina)
+├── basketball/euroleague/        # EuroLeague
 ├── football/                     # Football pages (shared common.js, league.js for national leagues) + one folder per page
 ├── american-football/super-bowl/  # Super Bowl and NFL championships
 ├── american-football/nfl-rivalries/  # NFL Rivalries (front end shared with NBA and NHL: assets/league-rivalries.js)
@@ -339,6 +350,7 @@ Argentina's touring-car championship since 1979, counting the Súper TC2000 year
 │   ├── build_nba_rings.py        # NBA data pipeline
 │   ├── build_nba_rivalries.py    # NBA rivalries, season by season
 │   ├── build_lnb.py              # Liga Nacional de Básquet
+│   ├── build_euroleague.py       # EuroLeague: finals, all-time table, coaches, players, rivalries
 │   ├── build_super_bowl.py       # Super Bowls, NFL titles, MVPs and coaches
 │   ├── build_nfl_rivalries.py    # NFL rivalries, game by game (shared helpers in rivalries_us.py)
 │   ├── build_nhl_rivalries.py    # NHL rivalries from the NHL's schedule API
@@ -395,6 +407,7 @@ python3 scripts/build_masters.py --refresh    # tennis: ATP Masters 1000 and WTA
 python3 scripts/build_nba_rings.py --refresh  # NBA: re-downloads the Wikipedia table
 python3 scripts/build_nba_rivalries.py --refresh  # NBA: the 16 rivalries' season-by-season results
 python3 scripts/build_lnb.py --refresh  # Argentina's Liga Nacional de Básquet
+python3 scripts/build_euroleague.py --refresh  # EuroLeague (Wikipedia and Euroleague Basketball's results)
 python3 scripts/build_super_bowl.py --refresh # NFL: Super Bowls, NFL champions since 1920, MVPs and coaches
 python3 scripts/build_stanley_cup.py --refresh  # NHL: Stanley Cup Finals since 1915, Conn Smythe and coaches
 python3 scripts/build_nfl_rivalries.py --refresh  # NFL: 17 rivalries, game by game

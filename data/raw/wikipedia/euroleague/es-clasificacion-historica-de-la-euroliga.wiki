@@ -1,0 +1,749 @@
+{{AP|Euroliga}}
+
+== Clasificación histórica ==
+
+Los 1&nbsp;051 puntos logrados por el Real Madrid le sitúan como líder la clasificación histórica de la competición entre los 352 equipos que alguna vez han participado en la misma. 35 puntos por debajo se encuentra el segundo clasificado, el israelí [[Maccabi Tel Aviv Basketball Club]], quien a su vez se sitúa 18 puntos por encima del tercero, el [[PBC CSKA Moscú|P. B. K. CSKA]].<ref>{{cita web|editor=Portal digital Sathenasias-Basketball (Bravepages)|título=Clasificación histórica de la Copa de Europa (1957-01)|url=http://sathanasias.bravepages.com/b-teams/bt-trank-fsl.html|fechaacceso=22 de enero de 2017|idioma=inglés|urlarchivo=https://web.archive.org/web/20161106133803/http://sathanasias.bravepages.com/b-teams/bt-trank-fsl.html|fechaarchivo=6 de noviembre de 2016}}</ref><ref>{{cita web|editor=Portal digital Sathenasias-Basketball (Bravepages)|título=Clasificación histórica de la Euroliga (2001-07)|url=http://sathanasias.bravepages.com/b-teams/bt-trank-uel.html|fechaacceso=22 de enero de 2017|idioma=inglés|urlarchivo=https://web.archive.org/web/20170202003448/http://sathanasias.bravepages.com/b-teams/bt-trank-uel.html|fechaarchivo=2 de febrero de 2017}}</ref><!-- https://basketnews.com/leagues/25-euroleague/statistics.html?fgroup=teams&fseason=all&fmonth=0&stage=0&fpos=pts&sort=total&games_type=all -->
+
+Ellos son junto al [[Panathinaikos BC|Panathinaikós Athlitikos Omilos]] los equipos más laureados de la competición, sumando entre los cuatro veintiocho de los sesenta títulos disputados, casi un 50% de los mismos entre los 352 participantes históricos.
+
+<!--Roguemos actualicen los datos al final de la temporada correspondiente para un mejor seguimiento por parte de todos los editores. Si localizas un equipo que debiera estar incluido en esta clasificación, por favor notifícalo en la página de discusión para su inclusión. Temporada 2016-17 en proceso--><center>
+<small><center>Nota: Sistema de puntuación histórico de 2 puntos por victoria. En ''cursiva'' equipos sin participación en la edición 2023-24.</small></center>
+{| class="sortable" border=1 width=100% cellpadding="2" cellspacing="0" style="background: #f9f9f9; border: 1px solid; border-collapse: collapse; font-size: 90%; text-align: left;" width=100%
+|- align="center" bgcolor=#F69B59 style="color:black;"
+! class="unsortable" width="3" | Pos
+! class="unsortable" width="140" | Club
+! width="40" | Temporadas
+! width="40" | Puntos
+! width="30" | PJ
+! width="30" | PG
+! width="30" | PE
+! width="30" | PP
+! width="80" | {{abreviación|Pts. x3|Puntuación contando cada partido con el actual sistema de 3 puntos por victoria}}
+! width="40" | Títulos
+! width="40" | {{abreviación|% Éxito 1|Porcentaje de éxito en la historia del torneo}}
+! width="40" | {{abreviación|% Éxito 2|Porcentaje de éxito en sus participaciones}}
+|- align=center bgcolor="#f9f9f9"
+| '''1
+| align=left|{{nowrap|{{bandera|tamaño=18px|España}} '''[[Real Madrid de Baloncesto|Real Madrid]]}}
+| '''54
+| '''1051|| 776|| '''524|| '''3|| 249|| '''1575|| '''11
+| '''{{#expr: (10 / 65)*100 round 2}}<!--Títulos logrados / Ediciones del torneo-->
+| '''{{#expr: (10 / 54)*100 round 2}}<!--Títulos logrados / Ediciones disputadas-->
+|- align=center
+| 2
+| align="left" |{{bandera|tamaño=18px|Israel}} [[Maccabi Tel Aviv Basketball Club|Maccabi Tel Aviv B. C.]]
+| '''54
+| '''1016'''|| '''832|| 508|| 0|| '''324|| 1524|| 6
+| {{#expr: (6 / 60)*100 round 2}}.00
+| {{#expr: (6 / 54)*100 round 2}}
+|- align=center bgcolor="#f9f9f9"
+| 3
+| align=left|{{bandera|tamaño=18px|Rusia}} ''[[PBC CSKA Moscú|P. B. K. CSKA]]
+| 43
+| '''998'''|| 697|| 499|| 0|| 198|| 1497|| 7
+| {{#expr: (7 / 60)*100 round 2}}
+| {{#expr: (7 / 43)*100 round 2}}
+|- align=center
+| 4
+| align=left|{{bandera|tamaño=18px|España}} [[Fútbol Club Barcelona (baloncesto)|F. C. Barcelona]]
+| 31
+| '''864'''|| 639|| 432|| 0|| 207|| 1296|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 31)*100 round 2}}
+|- align=center bgcolor="#f9f9f9"
+| 5
+| align=left|{{bandera|tamaño=18px|Grecia}} [[Panathinaikos BC|Panathinaikós A. O.]]
+| 37
+| '''765'''|| 582|| 382|| 1|| 199|| 1147|| 6
+| {{#expr: (6 / 60)*100 round 2}}.00
+| {{#expr: (6 / 37)*100 round 2}}
+|- align=center
+| 6
+| align=left|{{bandera|tamaño=18px|Grecia}} [[Olympiacos B.C.|Olympiakós Pireás]]
+| 28
+| '''690'''|| 564|| 345|| 0|| 219|| 1032|| 3
+| {{#expr: (3 / 60)*100 round 2}}.00
+| {{#expr: (3 / 28)*100 round 2}}
+|- align=center bgcolor="#f9f9f9"
+| 7
+| align=left|{{bandera|tamaño=18px|Turquía}} [[Anadolu Efes S.K.|Anadolu Efes S. K.]]
+| 27
+| '''540'''|| 481 || 270 || 0 || 211|| 810|| -
+| {{#expr: (0 / 60)*100 round 2}}
+| {{#expr: (0 / 27)*100 round 2}}
+|- align=center
+| 8
+| align=left|{{bandera|tamaño=18px|Italia}} [[Pallacanestro Olimpia Milano|P. O. Milano]]
+| 27
+| '''397'''|| 365|| 198|| 1|| 166|| 594|| 3
+| {{#expr: (3 / 60)*100 round 2}}.00
+| {{#expr: (3 / 27)*100 round 2}}
+|- align=center bgcolor="#f9f9f9"
+| 9
+| align=left|{{bandera|tamaño=18px|Croacia}} ''[[Cibona Zagreb|K. K. Cibona]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 10
+| align=left|{{bandera|tamaño=18px|Italia}} [[Virtus Bolonia|V. P. Bologna]]
+| 17
+| '''338'''|| 284|| 169|| 0|| 115|| 507|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 17)*100 round 2}}
+|- align=center bgcolor="#f9f9f9"
+| 11
+| align=left|{{bandera|tamaño=18px|Turquía}} [[Fenerbahçe Spor Kulübü (baloncesto)|Fenerbahçe S. K.]]
+| 16
+| '''270'''|| 254|| 135|| 0|| 119|| 405|| -
+| {{#expr: (0 / 60)*100 round 2}}
+| {{#expr: (0 / 16)*100 round 2}}
+|- align=center
+| 12
+| align=left|{{bandera|tamaño=18px|Francia}} [[ASVEL Lyon-Villeurbanne|ASVEL Basket]]
+| 19
+| '''228'''|| 231 || 114 || 0 || 117|| 342|| -
+| {{#expr: (0 / 60)*100 round 2}}
+| {{#expr: (0 / 19)*100 round 2}}
+|- align=center bgcolor="#f9f9f9"
+| 13
+| align=left|{{bandera|tamaño=18px|Italia}} ''[[Pallacanestro Varese]]
+| 14
+| '''222'''|| 168 || 111 || 0 || 57|| 333|| 5
+| {{#expr: (5 / 60)*100 round 2}}
+| {{#expr: (5 / 14)*100 round 2}}
+|- align=center
+| 14
+| align=left|{{bandera|tamaño=18px|Croacia}} ''[[KK Split|K. K. Split]]
+| 12
+| '''194'''|| 164 || 97 || 0 || 67|| 291|| 3
+| {{#expr: (3 / 60)*100 round 2}}.00
+| {{#expr: (3 / 12)*100 round 2}}.00
+|- align=center bgcolor="#f9f9f9"
+| 15
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[CSP Limoges|C. S. P. Limoges]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 16
+| align=left|{{bandera|tamaño=18px|España}} [[Saski Baskonia]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 17
+| align=left|{{bandera|tamaño=18px|Lituania}} [[Žalgiris Kaunas]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 18
+| align=left|{{bandera|tamaño=18px|España}} ''[[Club Baloncesto Málaga|C. B. Málaga]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 19
+| align=left|{{bandera|tamaño=18px|Serbia}} [[Estrella Roja de Belgrado (baloncesto)|K. K. Crvena Zvezda]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 20
+| align=left|{{bandera|tamaño=18px|Serbia}} [[KK Partizan|K. K. Partizan]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 21
+| align=left|{{bandera|tamaño=18px|Alemania}} [[Bayern de Múnich (baloncesto)|Bayern de Múnich]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 22
+| align=left|{{bandera|tamaño=18px|Alemania}} [[ALBA Berlín]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 23
+| align=left|{{bandera|tamaño=18px|Rusia}} ''[[BK Jimki|B. C. Khimki]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 24
+| align=left|{{bandera|tamaño=18px|Italia}} ''[[Mens Sana Basketball Academy|Mens Sana Basket]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 25
+| align=left|{{bandera|tamaño=18px|España}} [[Valencia Basket]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 26
+| align=left|{{bandera|tamaño=18px|Alemania}} ''[[Brose Bamberg]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 27
+| align=left|{{bandera|tamaño=18px|Polonia}} ''[[Arka Gdynia (baloncesto)|Arka Gdynia]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 28
+| align=left|{{bandera|tamaño=18px|Eslovenia}} ''[[Košarkarski klub Union Olimpija|K. K. Union Olimpija]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 29
+| align=left|{{bandera|tamaño=18px|Turquía}} ''[[Galatasaray Spor Kulübü (baloncesto)|Galatasaray S. K.]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 30
+| align=left|{{bandera|tamaño=18px|Italia}} ''[[Pallacanestro Virtus Roma]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 31
+| align=left|{{bandera|tamaño=18px|Francia}} [[AS Mónaco Basket]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 32
+| align=left|{{bandera|tamaño=18px|Rusia}} ''[[Zenit de San Petersburgo (baloncesto)|BC Zenit San Petersburgo]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 33
+| align=left|{{bandera|tamaño=18px|Turquía}} ''[[Darüşşafaka S.K.|Darüşşafaka S. K.]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 34
+| align=left|{{bandera|tamaño=18px|Lituania}} ''[[BC Rytas]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 35
+| align=left|{{bandera|tamaño=18px|Rusia}} ''[[UNICS Kazán]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 36
+| align=left|{{bandera|tamaño=18px|Italia}} ''[[Treviso Basket]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 37
+| align=left|{{bandera|tamaño=18px|Italia}} ''[[Fortitudo Bologna]]
+| 17
+| '''338'''|| 284|| 169|| 0|| 115|| 507|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 17)*100 round 2}}
+|- align=center
+| 38
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[ÉB Pau-Orthez]]
+| 17
+| '''338'''|| 284|| 169|| 0|| 115|| 507|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 17)*100 round 2}}
+|- align=center
+| 39
+| align=left|{{bandera|tamaño=18px|Turquía}} ''[[Ülker G.S.K.]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 40
+| align=left|{{bandera|tamaño=18px|Rusia}} ''[[Lokomotiv Kuban]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 41
+| align=left|{{bandera|tamaño=18px|Grecia}} ''[[AEK (baloncesto)|A. E. K. Atenas]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 42
+| align=left|{{bandera|tamaño=18px|Croacia}} ''[[KK Cedevita|K. K. Cedevita]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 43
+| align=left|{{bandera|tamaño=18px|Grecia}} ''[[Aris Salónica BC]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 44
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[Le Mans Sarthe Basket]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 45
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[Strasbourg IG]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 46
+| align=left|{{bandera|tamaño=18px|España}} ''[[Club Baloncesto Gran Canaria|C. B. Gran Canaria]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 47
+| align=left|{{bandera|tamaño=18px|España}} ''[[Club Joventut Badalona]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 48
+| align=left|{{bandera|tamaño=18px|Montenegro}} ''[[KK Budućnost Podgorica|K. K. Budućnost Podgorica]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 49
+| align=left|{{bandera|tamaño=18px|Italia}} ''[[Pallacanestro Cantù]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 50
+| align=left|{{bandera|tamaño=18px|Rusia}} ''[[BC Nizhni Nóvgorod]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 51
+| align=left|{{bandera|tamaño=18px|Turquía}} ''[[Beşiktaş Jimnastik Kulübü (baloncesto)|Beşiktaş J. K.]]
+| 13
+| '''183'''|| 193 || 91 || 1 || 101|| 274|| 1
+| {{#expr: (1 / 60)*100 round 2}}
+| {{#expr: (1 / 13)*100 round 2}}
+|- align=center
+| 52
+| align=left|{{bandera|tamaño=18px|Italia}} ''[[Victoria Libertas Pesaro]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 53
+| align=left|{{bandera|tamaño=18px|Rusia}} ''[[MBC Dinamo Moscú]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 54
+| align=left|{{bandera|tamaño=18px|España}} ''[[Bilbao Basket]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 55
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[SLUC Nancy Basket]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 56
+| align=left|{{bandera|tamaño=18px|Italia}} ''[[Dinamo Basket Sassari]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 57
+| align=left|{{bandera|tamaño=18px|Bélgica}} ''[[Spirou Basket Club]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 58
+| align=left|{{bandera|tamaño=18px|Polonia}} ''[[Basket Zielona Góra]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 59
+| align=left|{{bandera|tamaño=18px|Grecia}} ''[[Maroussi BC]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 60
+| align=left|{{bandera|tamaño=18px|Polonia}} ''[[Śląsk Wrocław (baloncesto)|WKS Śląsk Wrocław]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 61
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[Chorale Roanne Basket]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 62
+| align=left|{{bandera|tamaño=18px|España}} ''[[Club Estudiantes de Baloncesto|Club Estudiantes]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 63
+| align=left|{{bandera|tamaño=18px|Italia}} ''[[S.S. Basket Napoli]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 64
+| align=left|{{bandera|tamaño=18px|Alemania}} ''[[Köln 99ers]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 65
+| align=left|{{bandera|tamaño=18px|Alemania}} ''[[Skyliners Fráncfort]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 66
+| align=left|{{bandera|tamaño=18px|Eslovenia}} ''[[KK Krka Novo Mesto]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 67
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[Élan Sportif Chalonnais]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 68
+| align=left|{{bandera|tamaño=18px|Polonia}} ''[[Turów Zgorzelec]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 69
+| align=left|{{bandera|tamaño=18px|Lituania}} ''[[BC Neptūnas Klaipėda]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 70
+| align=left|{{bandera|tamaño=18px|Italia}} ''[[Felice Scandone Basket Avellino|S. S. Felice Scandone]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 71
+| align=left|{{bandera|tamaño=18px|Ucrania}} ''[[BC Budivelnyk]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 72
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[Orléans Loiret Basket]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 73
+| align=left|{{bandera|tamaño=18px|Croacia}} ''[[KK Zagreb]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 74
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[Cholet Basket]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 75
+| align=left|{{bandera|tamaño=18px|Turquía}} ''[[Karşıyaka Basket]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 76
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[Nanterre 92]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 77
+| align=left|{{bandera|tamaño=18px|Grecia}} ''[[Panionios BC]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 78
+| align=left|{{bandera|tamaño=18px|Alemania}} ''[[EWE Baskets Oldemburgo]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 79
+| align=left|{{bandera|tamaño=18px|Turquía}} ''[[Tofaş Spor Kulübü|Tofaş S. K.]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 80
+| align=left|{{bandera|tamaño=18px|Eslovenia}} ''[[KK Zlatorog Laško]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 81
+| align=left|{{bandera|tamaño=18px|España}} ''[[Real Betis Baloncesto|C. B. Sevilla]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 82
+| align=left|{{bandera|tamaño=18px|Grecia}} ''[[PAOK Salónica BC]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 83
+| align=left|{{bandera|tamaño=18px|España}} ''[[Bàsquet Manresa]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 84
+| align=left|{{bandera|tamaño=18px|Rusia}} ''[[BK Samara]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 85
+| align=left|{{bandera|tamaño=18px|Rusia}} ''[[BC Avtodor Saratov]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 86
+| align=left|{{bandera|tamaño=18px|Turquía}} ''[[Türk Telekom Basketbol Kulubü|Türk Telekom B. K.]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 87
+| align=left|{{bandera|tamaño=18px|Portugal}} ''[[FC Porto (baloncesto)|F. C. Porto]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 88
+| align=left|{{bandera|tamaño=18px|Israel}} ''[[Hapoel Jerusalem B.C.]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 89
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[Paris Basket Racing]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 90
+| align=left|{{bandera|tamaño=18px|Alemania}} ''[[Bayer Giants Leverkusen]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 91
+| align=left|{{bandera|tamaño=18px|Grecia}} ''[[Iraklis BC]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 92
+| align=left|{{bandera|tamaño=18px|Francia}} ''[[Olympique d'Antibes Juan-les-Pins|Olympique d'Antibes]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 93
+| align=left|{{bandera|tamaño=18px|Portugal}} ''[[Sport Lisboa e Benfica (baloncesto)|S. L. Benfica]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 94
+| align=left|{{bandera|tamaño=18px|Bélgica}} ''[[Racing Club Mechelen|Maes Pils]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 95
+| align=left|{{bandera|tamaño=18px|Inglaterra}} ''[[Guildford Kings]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 96
+| align=left|{{bandera|tamaño=18px|Estonia}} ''[[KK Kalev]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 97
+| align=left|{{bandera|tamaño=18px|Países Bajos}} ''[[Den Helder Kings]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 98
+| align=left|{{bandera|tamaño=18px|Italia}} ''[[Sporting Club Juvecaserta]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 99
+| align=left|{{bandera|tamaño=18px|Polonia}} ''[[Lech Poznań (baloncesto)|Lech Poznań]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 100
+| align=left|{{bandera|tamaño=18px|Países Bajos}} ''[[Heroes Den Bosch]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 101
+| align=left|{{bandera|tamaño=18px|Alemania}} ''[[BSC Saturn Colonia]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|- align=center
+| 102
+| align=left|{{bandera|tamaño=18px|BIH}} ''[[Bosna Sarajevo|K. K. Bosna]]
+| 23
+| '''354'''|| 367|| 177|| 0|| 190|| 521|| 2
+| {{#expr: (2 / 60)*100 round 2}}
+| {{#expr: (2 / 23)*100 round 2}}0
+|}
+</center>
+<center><small>''Actualizado al último partido jugado por alguno de los implicados el '''{{fecha2|24|3|2017}}'''.''</small></center>
+
+== Referencias ==
+{{listaref|}}
+=== Notas ===
+{{listaref|group="n"}}
+
+{{Control de autoridades}}
+[[Categoría:Euroleague Basketball]]

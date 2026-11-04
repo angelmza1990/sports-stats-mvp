@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EuroLeague · Basketball</title>
+  <meta name="description" content="Every European champion since 1958: a titles bar chart race, titles by club and country, every final, the all-time table, the coaches and players with the most titles, and the great rivalries of European basketball.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <link rel="stylesheet" href="../../football/rivalries/style.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/euroleague.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Basketball</p>
+    <h1>EuroLeague</h1>
+    <p class="lede">
+      Every champion of Europe since the first FIBA European Champions Cup in 1958, through the Final Four era to today's EuroLeague:
+      who has won it, every final, the all-time table, the coaches and players with the most titles, and the rivalries that have shaped European basketball.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most European titles</h2>
+        <p>European titles won by each club, final by final.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Season">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <div class="grid-2">
+      <section class="block" id="clubs">
+        <div class="block-head">
+          <h2>Titles by club</h2>
+          <p>European titles and lost finals. Hover or tap a club for its winning seasons.</p>
+        </div>
+        <div class="card">
+          <div id="clubs-list"></div>
+        </div>
+      </section>
+      <section class="block" id="nations">
+        <div class="block-head">
+          <h2>Titles by country</h2>
+          <p>European titles by the champions' country, and how many of its clubs won one.</p>
+        </div>
+        <div class="card">
+          <div id="nations-list"></div>
+        </div>
+      </section>
+    </div>
+
+    <section class="block" id="finals">
+      <div class="block-head">
+        <h2>Every final</h2>
+        <p>Most recent first: the score (or the games of a two-legged or best-of final), the host, the finals MVP and the champion coach.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="finals-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="alltime">
+      <div class="block-head">
+        <h2>All-time table of the EuroLeague era</h2>
+        <p id="alltime-lede">Every club's games since the first Euroleague Basketball season, 2000–01, ranked by wins.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall" id="alltime-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="people">
+      <div class="block-head">
+        <h2>The most decorated coaches and players</h2>
+        <p>European titles won as head coach and as player, with the finals they lost. Hover or tap a name for the winning years.</p>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">Coaches</h3>
+          <div id="coaches-list"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Players</h3>
+          <div id="players-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="rivalries">
+      <div class="block-head">
+        <h2>Great rivalries</h2>
+        <p>Five of the EuroLeague's great rivalries: every EuroLeague game between them since 2000–01, the lead game by game, the finals they have played and, where the source publishes it, their record in every competition.</p>
+      </div>
+      <div class="controls">
+        <div class="segmented" role="tablist" aria-label="Rivalry" id="rivalry-tabs"></div>
+      </div>
+      <div class="card versus-card">
+        <div class="rv-head" id="rv-versus"></div>
+        <div class="rv-split" id="rv-split" aria-hidden="true"></div>
+        <div class="rv-goals" id="rv-detail"></div>
+      </div>
+      <div class="card" style="margin-top:16px" id="lead-card">
+        <h3 class="sub">The lead, game by game</h3>
+        <div class="legend" id="lead-legend"></div>
+        <div id="lead-chart" class="chart"></div>
+        <p class="chart-note" id="lead-note"></p>
+      </div>
+      <div class="grid-2" style="margin-top:16px">
+        <div class="card">
+          <h3 class="sub">EuroLeague games by stage</h3>
+          <div class="data-table" id="phase-table"></div>
+          <p class="chart-note" id="finals-note"></p>
+        </div>
+        <div class="card" id="allcomp-card">
+          <h3 class="sub">In every competition</h3>
+          <div class="data-table" id="comp-table"></div>
+          <p class="chart-note" id="rivalry-note"></p>
+        </div>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <h3 class="sub" id="euro-title">Their EuroLeague games</h3>
+        <div class="data-table tall" id="euro-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> <a href="https://en.wikipedia.org/wiki/EuroLeague_Championship_Game">Wikipedia, EuroLeague Championship Game</a> (CC BY-SA 4.0): every final, its awards, the titles by club and the coaches and players with the most titles;
+      every game since 2000–01, for the all-time table, the rivalries and the clubs' crests, from <a href="https://www.euroleaguebasketball.net/">Euroleague Basketball</a>'s public results; the rivalries' totals in every competition from their Wikipedia articles (<span id="rivalry-sources"></span>). <span id="data-through"></span></p>
+    <p><strong>Notes:</strong> the competition was the FIBA European Champions Cup until 1991, the FIBA European League until 2000 and the EuroLeague since; in 2000–01 the clubs split between FIBA's SuproLeague and the clubs' own Euroleague, and both champions count, as the source counts them. The 2019–20 season was cancelled because of the COVID-19 pandemic.
+      Clubs are named, and their countries given, as the source's titles table lists them (the Soviet Union and Yugoslavia have no flag here); clubs that never won it go by their name without a sponsor. The all-time table counts every game from the regular season to the final, and its titles column counts every European title since 1958.</p>
+    <p>Club names are trademarks of their owners. This project is not affiliated with Euroleague Basketball or FIBA.</p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

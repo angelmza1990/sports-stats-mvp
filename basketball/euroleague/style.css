@@ -1,0 +1,18 @@
+/* EuroLeague: shared football styles (bar race, rank lists, tables) and the football rivalries' versus card; clubs are lettered badges. */
+
+.rank-row .crest-badge {
+  font-size: 9px;
+}
+
+#comp-table tr.highlight td:first-child {
+  font-weight: 600;
+}
+
+#comp-table tr.total td {
+  font-weight: 600;
+  border-top: 1px solid var(--border);
+}
+
+#rivalry-tabs {
+  flex-wrap: wrap;
+}
