@@ -3,12 +3,14 @@
   "use strict";
 
   const { el, responsive, tooltipOn, tooltipOnNode, ttTitle, ttNote, ttRow, barPath, columnPath } = Viz;
-  const index = await d3.json("data/index.json");
+  const index = await d3.json("data/index.json", { cache: "no-cache" });
   const byId = new Map(index.rivalries.map((r) => [r.id, r]));
   const COLOR = { a: "var(--team-a)", b: "var(--team-b)", d: "var(--draw)" };
   const STAGES = [["league", "League"], ["local", "Local leagues"], ["state", "State championships"], ["regional", "Interstate tournaments"], ["playoff", "Playoffs"], ["cup", "Domestic cups"],
     ["super", "Super cups"], ["intl", "International"], ["all", "Every meeting"]];
-  const COUNTRIES = ["ARG", "URU", "BRA", "ENG", "ESP", "POR", "ITA", "FRA", "GER", "MEX", "USA", "COL", "CHI", "PAR", "BOL", "ECU", "PER"].filter((c) => index.groups.some((g) => g.country === c));
+  // Countries in a preferred order; any other country in the index follows, so a new one never goes missing.
+  const ORDER = ["ARG", "URU", "BRA", "ENG", "ESP", "POR", "ITA", "FRA", "GER", "MEX", "USA", "COL", "CHI", "PAR", "BOL", "ECU", "PER"];
+  const COUNTRIES = [...new Set([...ORDER, ...index.groups.map((g) => g.country)])].filter((c) => index.groups.some((g) => g.country === c));
   const fmtDate = d3.utcFormat("%-d %b %Y");
   const fmtMonth = d3.utcFormat("%b %Y");
   const parse = d3.utcParse("%Y-%m-%d");
@@ -17,7 +19,7 @@
 
   async function load(id) {
     if (!files.has(id)) {
-      const d = await d3.json(`data/${id}.json`);
+      const d = await d3.json(`data/${id}.json`, { cache: "no-cache" });
       [...d.matches, ...d.friendlies, ...(d.recent ?? [])].forEach((m) => (m.when = parse(m.date)));
       files.set(id, d);
     }
