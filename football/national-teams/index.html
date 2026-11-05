@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>National Teams · Football</title>
-  <meta name="description" content="Every men's international football match since 1872: the head to head between any two national teams, the great international rivalries, World Football Elo ratings, the world's best team year by year and the all-time table.">
+  <meta name="description" content="Every men's international football match since 1872: the head to head between any two national teams, the great international rivalries, World Football Elo ratings, the world's best team year by year, the top scorers, the penalty shoot-outs and the all-time table.">
   <link rel="stylesheet" href="../../assets/theme.css">
   <link rel="stylesheet" href="../../assets/viz.css">
   <link rel="stylesheet" href="../football.css">
@@ -17,7 +17,7 @@
     <p class="kicker"><a href="../../">Sports Stats</a> · Football</p>
     <h1>National teams</h1>
     <p class="lede">
-      Every men's international since Scotland and England drew 0–0 in Glasgow in 1872: the head to head between any two national teams, ratings of every team match by match, and who was the best in the world each year.
+      Every men's international since Scotland and England drew 0–0 in Glasgow in 1872: the head to head between any two national teams, ratings of every team match by match, who was the best in the world each year, the top scorers and the penalty shoot-outs.
       Also see the <a href="../world-cup/">World Cup</a> and the <a href="../continental/">continental championships</a>.
     </p>
     <div class="stat-row" id="stats"></div>
@@ -104,6 +104,61 @@
       </div>
     </section>
 
+    <section class="block" id="goals">
+      <div class="block-head">
+        <h2>The goalscorers</h2>
+        <p id="goals-lede">The scorers of the competitive internationals.</p>
+      </div>
+      <div class="controls">
+        <div class="segmented" role="tablist" aria-label="Competition" id="goals-scope"></div>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">Top scorers</h3>
+          <div class="data-table tall with-sub" id="scorers-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">When the goals come</h3>
+          <div id="minutes-root" class="chart"></div>
+          <p class="chart-note" id="minutes-note"></p>
+        </div>
+      </div>
+      <div class="grid-2" style="margin-top:16px">
+        <div class="card">
+          <h3 class="sub">A team's top scorers</h3>
+          <div class="controls"><select id="team-scorers-pick" aria-label="Team"></select></div>
+          <div id="team-scorers"></div>
+          <p class="chart-note">Competitive goals only, for every team with at least 100 matches.</p>
+        </div>
+        <div class="card">
+          <h3 class="sub">Most goals in one match</h3>
+          <div class="data-table with-sub" id="hat-table"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="shootouts">
+      <div class="block-head">
+        <h2>Penalty shoot-outs</h2>
+        <p id="so-lede">Every penalty shoot-out between national teams.</p>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">Records by team</h3>
+          <div class="controls">
+            <div class="segmented" role="tablist" aria-label="Sort" id="so-sort"></div>
+            <div class="segmented" role="tablist" aria-label="Competition" id="so-scope"></div>
+          </div>
+          <div class="data-table" id="so-table"></div>
+          <p class="chart-note" id="so-note"></p>
+        </div>
+        <div class="card">
+          <h3 class="sub">Every shoot-out at the World Cup and the continental championships</h3>
+          <div class="data-table tall with-sub" id="so-major"></div>
+        </div>
+      </div>
+    </section>
+
     <section class="block" id="alltime">
       <div class="block-head">
         <h2>All-time table</h2>
@@ -120,7 +175,7 @@
   </main>
 
   <footer class="site-footer wrap">
-    <p><strong>Data:</strong> <a href="https://github.com/martj42/international_results">Mart Jürisoo's international football results</a> (CC0): every full men's international with its score, competition and venue, and the penalty shoot-outs. <span id="data-through"></span></p>
+    <p><strong>Data:</strong> <a href="https://github.com/martj42/international_results">Mart Jürisoo's international football results</a> (CC0): every full men's international with its score, competition and venue, the penalty shoot-outs and the scorers of the competitive matches. <span id="data-through"></span></p>
     <p><strong>Notes:</strong> the head to head counts results after extra time; a match decided on penalties counts as a draw, and the shoot-out winner is noted. Teams of FIFA and of the confederations are included (and historical ones such as East Germany and South Vietnam); matches of regional and unrecognised sides are left out.
       Teams go by the database's names: Germany includes West Germany and Russia includes the Soviet Union, while Czechoslovakia, Yugoslavia and East Germany are teams of their own.
       The Elo ratings follow eloratings.net's formula (K 60 for the World Cup, 50 for continental championships, 40 for qualifiers and the Nations Leagues, 30 for other tournaments, 20 for friendlies, 100 points of home advantage) but are worked out here from this database: the first twenty teams start at 1500 and every later team at the 25th percentile of the teams already rated, so the numbers differ somewhat from that site's.</p>
@@ -132,5 +187,6 @@
   <script src="../../assets/viz.js"></script>
   <script src="../common.js"></script>
   <script src="app.js"></script>
+  <script src="goals.js"></script>
 </body>
 </html>

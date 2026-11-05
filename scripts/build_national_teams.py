@@ -6,6 +6,7 @@ national teams of FIFA and of the confederations (and historical ones such as Ea
 
   data/matches.json  every match, compacted, for the head-to-head explorer and the all-time table
   data/elo.json      World Football Elo ratings worked out here, match by match (eloratings.net's formula)
+  data/goals.json    the scorers of the competitive matches (the database has no scorers for friendlies) and the shoot-outs
 
 Usage:
     python3 scripts/build_national_teams.py            # use the saved copy if present
@@ -58,6 +59,19 @@ ELO_START, ELO_HOME = 1500, 100
 # every newcomer at 1500 hands points to the established teams as the newcomers lose, and inflates the ratings over time.
 NEWCOMER_QUANTILE = 0.25
 CHART_MIN = 300  # teams with fewer matches get no line in the Elo chart
+TEAM_SCORERS_MIN = 100  # teams with this many matches get their own top-scorer list
+SHOOTOUT_MIN = 5  # shoot-outs a team needs for the best-record ranking
+
+
+def scope(t: str) -> str:
+    """The goals section's competitions: the World Cup, the continental championships, qualifiers and the rest."""
+    if t == "FIFA World Cup":
+        return "wc"
+    if t in MAJOR and t != "Confederations Cup":
+        return "cont"
+    if "qualification" in t:
+        return "qual"
+    return "other"
 
 
 def weight(t: str) -> int:
@@ -183,6 +197,7 @@ def build(refresh: bool) -> None:
                       for t in recent), key=lambda c: -c["rating"])[:40]
 
     OUT.mkdir(parents=True, exist_ok=True)
+    goals = goals_and_shootouts(rows, fetch("goalscorers", refresh), fetch("shootouts", refresh), idx, played)
     meta = {"generated": date.today().isoformat(), "day0": "1872-01-01", "through": rows[-1]["date"],
             "source": {"label": "Mart Jürisoo, international football results from 1872", "url": "https://github.com/martj42/international_results"}}
     (OUT / "matches.json").write_text(json.dumps({
@@ -197,12 +212,91 @@ def build(refresh: bool) -> None:
         "current": current,
         "upsets": sorted(upsets, key=lambda u: u["p"])[:20],
     }, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    (OUT / "goals.json").write_text(json.dumps({"meta": meta, "teams": [{"name": n, "flag": flags[n]} for n in names], **goals},
+                                               ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     top = sorted(peaks.values(), key=lambda p: -p["rating"])[:5]
     print(f"{len(matches)} matches of {len(names)} teams through {rows[-1]['date']}; dropped {len(results) - len(rows)}; "
           f"peaks {[(names[p['team']], p['rating'], p['date'][:4]) for p in top]}; now {[(names[c['team']], c['rating']) for c in current[:5]]}",
           file=sys.stderr)
-    for path in ("matches.json", "elo.json"):
+    for path in ("matches.json", "elo.json", "goals.json"):
         print(f"wrote {(OUT / path).relative_to(ROOT)} ({(OUT / path).stat().st_size // 1024} KB)", file=sys.stderr)
+
+
+def goals_and_shootouts(rows: list[dict], scorers: list[dict], shootouts: list[dict], idx: dict[str, int], played: Counter) -> dict:
+    """Top scorers by competition and by team, goals by minute, hat-tricks, and every team's shoot-out record."""
+    by_match = {(r["date"], r["home_team"], r["away_team"]): r for r in rows}
+    goals = [g for g in scorers if (g["date"], g["home_team"], g["away_team"]) in by_match and g["team"] in idx]
+    named = lambda g: g["scorer"] not in ("NA", "")  # a few goals have no scorer on record
+    covered = {(g["date"], g["home_team"], g["away_team"]) for g in goals}
+    players: dict[tuple, dict] = {}
+    minutes = {k: [0] * 121 for k in ("all", "wc", "cont", "qual")}
+    hat_tricks = []
+    per_match = Counter()
+    for g in goals:
+        r = by_match[(g["date"], g["home_team"], g["away_team"])]
+        sc = scope(r["tournament"])
+        if g["minute"].isdigit() and 0 < int(g["minute"]) <= 120:
+            for k in ("all", sc):
+                if k in minutes:
+                    minutes[k][int(g["minute"])] += 1
+        if g["own_goal"] == "TRUE" or not named(g):
+            continue
+        key = (g["scorer"], g["team"])
+        p = players.setdefault(key, {"name": g["scorer"], "team": idx[g["team"]], "goals": Counter(), "pens": 0, "hat": 0,
+                                     "first": g["date"][:4], "last": g["date"][:4]})
+        p["goals"]["all"] += 1
+        p["goals"][sc] += 1
+        p["pens"] += g["penalty"] == "TRUE"
+        p["last"] = g["date"][:4]
+        per_match[(key, g["date"])] += 1
+    for (key, day), n in per_match.items():
+        if n >= 3:
+            players[key]["hat"] += 1
+            r = next(r for k, r in by_match.items() if k[0] == day and key[1] in k[1:])
+            hat_tricks.append({"date": day, "name": key[0], "team": idx[key[1]], "goals": n, "tournament": r["tournament"],
+                               "opponent": idx[r["away_team"] if r["home_team"] == key[1] else r["home_team"]],
+                               "score": f"{r['home_score']}–{r['away_score']}" if r["home_team"] == key[1] else f"{r['away_score']}–{r['home_score']}"})
+
+    def row(p: dict, k: str) -> dict:
+        return {"name": p["name"], "team": p["team"], "goals": p["goals"][k], "pens": p["pens"], "hat": p["hat"], "years": f"{p['first']}–{p['last']}"}
+    top = {k: [row(p, k) for p in sorted(players.values(), key=lambda p: (-p["goals"][k], p["name"])) if p["goals"][k]][:30]
+           for k in ("all", "wc", "cont", "qual")}
+    by_team: dict[int, list] = {}
+    for p in sorted(players.values(), key=lambda p: -p["goals"]["all"]):
+        if played[next(n for n, i in idx.items() if i == p["team"])] >= TEAM_SCORERS_MIN and len(by_team.setdefault(p["team"], [])) < 10:
+            by_team[p["team"]].append(row(p, "all"))
+
+    # Shoot-outs: every team's record, overall and in the World Cup and continental championships.
+    record: dict[str, dict] = {}
+    so_list, first_known, first_won = [], 0, 0
+    for s in shootouts:
+        r = by_match.get((s["date"], s["home_team"], s["away_team"]))
+        if not r or s["winner"] not in (r["home_team"], r["away_team"]):
+            continue
+        major = scope(r["tournament"]) in ("wc", "cont")
+        for t in (r["home_team"], r["away_team"]):
+            rec = record.setdefault(t, {"team": idx[t], "all": [0, 0], "major": [0, 0]})
+            won = s["winner"] == t
+            rec["all"][0 if won else 1] += 1
+            if major:
+                rec["major"][0 if won else 1] += 1
+        if s["first_shooter"] in (r["home_team"], r["away_team"]):
+            first_known += 1
+            first_won += s["first_shooter"] == s["winner"]
+        if major:
+            loser = r["away_team"] if s["winner"] == r["home_team"] else r["home_team"]
+            so_list.append({"date": s["date"], "winner": idx[s["winner"]], "loser": idx[loser], "score": f"{r['home_score']}–{r['away_score']}",
+                            "tournament": r["tournament"]})
+    return {
+        "coverage": {"matches": len(covered), "competitive": sum(1 for r in rows if r["tournament"] != "Friendly"),
+                     "goals": len(goals), "pens": sum(g["penalty"] == "TRUE" for g in goals), "own": sum(g["own_goal"] == "TRUE" for g in goals)},
+        "scorers": top,
+        "byTeam": by_team,
+        "minutes": minutes,
+        "hatTricks": sorted(hat_tricks, key=lambda h: (-h["goals"], h["date"]))[:20],
+        "shootouts": {"teams": sorted(record.values(), key=lambda r: -sum(r["all"])), "major": so_list[::-1],
+                      "firstKnown": first_known, "firstWon": first_won, "min": SHOOTOUT_MIN},
+    }
 
 
 def main() -> None:

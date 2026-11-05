@@ -171,6 +171,8 @@ Every men's international since 1872 (48,000+ matches, from Mart Jürisoo's CC0 
 
 - **Head to head** between any two national teams, with eighteen great rivalries one click away (Argentina–Brazil, England–Scotland, Germany–Netherlands, Mexico–United States...): wins, draws and goals, the lead match by match, the record by competition, biggest wins, runs and every match
 - **World Football Elo ratings** worked out match by match with eloratings.net's formula (newcomers start at the weakest quarter's level so ratings don't inflate): a chart of up to four teams since 1872, the world's best team at the end of every year, today's ranking, the highest peaks and the biggest upsets
+- **Goalscorers** of the competitive matches (the database has none for friendlies): the top scorers overall, at the World Cup, the continental championships and the qualifiers, every team's top ten, goals by minute and the most goals in one match
+- **Penalty shoot-outs**: every team's record (most, best, worst; all or only the World Cup and continental championships), every shoot-out at those tournaments, and how often the team kicking first wins
 - **All-time table** of every team with 100 matches, with or without friendlies
 
 Built by `scripts/build_national_teams.py`.
