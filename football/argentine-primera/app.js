@@ -378,5 +378,38 @@
     render("all");
   })();
 
+  /* ---------- Relegation and seasons in the top flight ---------- */
+
+  (function relegation() {
+    const rel = data.relegation;
+    const down = rel.moves.filter((m) => m.down > 0).sort((a, b) => b.down - a.down || d3.ascending(clubName(a.club), clubName(b.club)));
+    F.rankList(document.getElementById("relegation-list"), down.slice(0, 20).map((m) => ({
+      icon: F.crest(m.club), label: clubName(m.club), value: m.down, second: `${m.up} up`, color: "var(--series-1)",
+      tip: (t) => t.append(ttTitle(clubName(m.club)), ttNote(`${m.down} relegation${m.down === 1 ? "" : "s"} and ${m.up} promotion${m.up === 1 ? "" : "s"} (or readmissions) since 1931`)),
+    })), ["Club", "Down", ""]);
+    const seasons = new Map(rel.seasons.map((s) => [s.club, s]));
+    // Clubs of today never relegated in the professional era, with most of a century in the top flight.
+    const never = rel.moves.filter((m) => m.down === 0 && (seasons.get(m.club)?.seasons ?? 0) >= 50).map((m) => clubName(m.club));
+    const big = ["river-plate", "independiente", "racing", "san-lorenzo"].filter((c) => rel.moves.some((m) => m.club === c && m.down > 0));
+    document.getElementById("relegation-note").textContent =
+      `${rel.moves.filter((m) => m.down > 0).length} clubs relegated at least once, through ${rel.through}. ` +
+      `${never.join(", ")} ${never.length === 1 ? "is the only one" : "are the only ones"} of the big clubs never relegated; ${big.map(clubName).join(", ")} all went down at least once.`;
+    const run = (s) => (s.since === "-" || !s.run ? s.seasons : s.run);
+    const VIEWS = {
+      total: (s) => s.seasons,
+      run,
+    };
+    function render(view) {
+      const list = rel.seasons.slice().sort((a, b) => VIEWS[view](b) - VIEWS[view](a)).slice(0, 30);
+      F.rankList(document.getElementById("topflight-list"), list.map((s) => ({
+        icon: F.crest(s.club), label: clubName(s.club), value: VIEWS[view](s),
+        second: view === "total" ? `since ${s.first.slice(0, 4)}` : s.since === "-" ? (s.seasons > 1 ? "never left" : "first season") : `since ${s.since.slice(0, 4)}`, color: "var(--series-1)",
+        tip: (t) => t.append(ttTitle(clubName(s.club)), ttNote(`${s.seasons} seasons in the Primera División, first in ${s.first}; ${s.since === "-" ? (s.seasons > 1 ? "never relegated" : "its first season") : `back since ${s.since}, ${s.run} seasons in a row`}`)),
+      })), ["Club", "Seasons", ""]);
+    }
+    Viz.segmented("seasons-tabs", [{ key: "total", label: "All seasons" }, { key: "run", label: "Current run" }], "total", render);
+    render("total");
+  })();
+
   document.getElementById("data-through").textContent = `Covers every title through ${data.meta.through}.`;
 })();

@@ -585,7 +585,8 @@
    "espn": "18",
    "aliases": [
     "San Lorenzo",
-    "San Lorenzo de Almagro"
+    "San Lorenzo de Almagro",
+    "Club Atlético San Lorenzo de Almagro"
    ]
   },
   {
@@ -653,7 +654,8 @@
    "espn": "19",
    "aliases": [
     "Talleres (C)",
-    "Talleres de Córdoba"
+    "Talleres de Córdoba",
+    "Club Atlético Talleres (Córdoba)"
    ]
   },
   {
@@ -6415,6 +6417,60 @@
     "İstanbul Başakşehir F.K.",
     "İstanbul Başakşehir",
     "Başakşehir"
+   ]
+  },
+  {
+   "id": "aldosivi",
+   "name": "Aldosivi",
+   "country": "ARG",
+   "espn": "9739",
+   "aliases": [
+    "Club Atlético Aldosivi",
+    "Aldosivi"
+   ]
+  },
+  {
+   "id": "central-cordoba-sde",
+   "name": "Central Córdoba (SdE)",
+   "country": "ARG",
+   "espn": "11989",
+   "aliases": [
+    "Club Atlético Central Córdoba (Santiago del Estero)",
+    "Central Córdoba (SdE)",
+    "Central Córdoba de Santiago del Estero"
+   ]
+  },
+  {
+   "id": "deportivo-riestra",
+   "name": "Deportivo Riestra",
+   "country": "ARG",
+   "espn": "17702",
+   "aliases": [
+    "Club Deportivo Riestra",
+    "Deportivo Riestra",
+    "Riestra"
+   ]
+  },
+  {
+   "id": "sarmiento-junin",
+   "name": "Sarmiento (J)",
+   "country": "ARG",
+   "espn": "10158",
+   "aliases": [
+    "Club Atlético Sarmiento (Junín)",
+    "Sarmiento (J)",
+    "Sarmiento de Junín"
+   ]
+  },
+  {
+   "id": "estudiantes-rio-cuarto",
+   "name": "Estudiantes (RC)",
+   "country": "ARG",
+   "espn": "19685",
+   "aliases": [
+    "Asociación Atlética Estudiantes",
+    "Estudiantes de Río Cuarto",
+    "Estudiantes (RC)"
    ]
   }
  ]

@@ -603,10 +603,12 @@ def build_argentina(key: str, refresh: bool) -> dict:
     alltime, periods = argentina_alltime(clubs, refresh)
     scorers, alltime_scorers = argentina_scorers(clubs, refresh)
     cups, cup_official = argentina_cups(clubs, refresh)
+    relegation = argentina_relegation(clubs, refresh)
     used = {t["champion"] for t in titles} | {t["runnerUp"] for t in titles if t["runnerUp"]}
     used |= {r["club"] for rows in alltime.values() for r in rows}
     used |= {c for sc in scorers for c in sc["clubs"]}
     used |= {c for cup in cups for e in cup["editions"] for c in (e["champion"], e["runnerUp"]) if c}
+    used |= {r["club"] for rows in (relegation["moves"], relegation["seasons"]) for r in rows}
     top = {r["club"] for rows in alltime.values() for r in sorted(rows, key=lambda r: -r["pts"])[:40]}
     unmapped = sorted(label for cid, label in clubs.unmapped.items() if cid in top | {t["champion"] for t in titles})
     if unmapped:
@@ -621,8 +623,10 @@ def build_argentina(key: str, refresh: bool) -> dict:
             "alltimePeriods": periods,
             "alltimeSource": f"https://es.wikipedia.org/wiki/{ARG_ALLTIME_PAGE.replace(' ', '_')}",
             "cupsSource": f"https://es.wikipedia.org/wiki/{ARG_CUPS_PAGE.replace(' ', '_')}",
+            "relegationSources": [f"https://es.wikipedia.org/wiki/{t.replace(' ', '_')}" for t in (ARG_MOVES_PAGE, ARG_ES_PAGE)],
         },
         "cups": cups,
+        "relegation": relegation,
         "alltime": alltime,
         "scorers": scorers,
         "alltimeScorers": alltime_scorers,
@@ -791,6 +795,51 @@ def argentina_cups(clubs: ClubIndex, refresh: bool) -> tuple[list[dict], dict]:
     return out, official
 
 
+ARG_MOVES_PAGE = "Anexo:Movilidad entre la primera y la segunda división del fútbol argentino"
+ARG_ES_PAGE = "Primera División de Argentina"
+
+
+def argentina_relegation(clubs: ClubIndex, refresh: bool) -> dict:
+    """Relegations and promotions per club in the professional era, and the top-flight seasons of today's clubs (Spanish Wikipedia)."""
+    def club(text: str) -> str | None:
+        cid = club_from_cell(text, clubs)
+        if cid in clubs.unmapped:
+            # Spanish Wikipedia links clubs by their full names: try the short name ("Asociación Atlética Argentinos Juniors").
+            name = re.sub(r"^(?:Club|Asociación|Associação)\s+(?:(?:Atlético|Atlética|Social y Deportivo|Deportivo|Sportivo|Mutual|Atlético y Social)\s+)?",
+                          "", W.plain(W.links(text)[0][1] if W.links(text) else text))
+            name = re.sub(r"\s*\((?:Santiago del Estero)\)", " (SdE)", name)
+            known = clubs.by_label(name, "ARG")
+            if known:
+                clubs.unmapped.pop(cid)
+                clubs.used.add(known)
+                return known
+        return cid
+    text = W.fetch_raw(ARG_MOVES_PAGE, RAW_DIR / f"es-{slug(ARG_MOVES_PAGE)}.wiki", refresh, lang="es")
+    section = text[re.search(r"==\s*Resumen estadístico por equipos en el profesionalismo", text).start():]
+    through = re.search(r"hasta el torneo (\d{4})", section)
+    moves = []
+    for row in W.parse_table(W.find_table(section, r"profesionalismo", 0))[1:]:
+        if len(row) < 3:
+            continue
+        cid = club(re.sub(r"<ref[^>]*/>|<ref[^>]*>.*?</ref>", "", row[0]["text"], flags=re.S))
+        if cid:
+            moves.append({"club": cid, "down": W.number(row[1]["text"]) or 0, "up": W.number(row[2]["text"]) or 0})
+    page = W.fetch_raw(ARG_ES_PAGE, RAW_DIR / f"es-{slug(ARG_ES_PAGE)}.wiki", refresh, lang="es")
+    seasons = []
+    grid = W.table_with_headers(page, "equipo", "ciudad", "temporadas")
+    labels = [W.plain(c["text"]).lower() for c in grid[0]]
+    col = lambda needle: next(i for i, l in enumerate(labels) if needle in l)
+    first_i, total_i, back_i, run_i = col("primera"), col("totales"), col("último retorno"), col("consecutivas")
+    for row in grid[1:]:
+        if len(row) <= run_i or W.number(row[total_i]["text"]) is None:
+            continue
+        cid = club(row[0]["text"])
+        if cid:
+            seasons.append({"club": cid, "first": W.plain(row[first_i]["text"]), "seasons": W.number(row[total_i]["text"]),
+                            "since": W.plain(row[back_i]["text"]), "run": W.number(row[run_i]["text"]) or 0})
+    return {"through": through.group(1) if through else None, "moves": moves, "seasons": seasons}
+
+
 def validate_argentina(key: str, data: dict) -> list[str]:
     errors = []
     official = data.pop("_official")
@@ -801,6 +850,8 @@ def validate_argentina(key: str, data: dict) -> list[str]:
                 for c in set(got) | set(expected) if got.get(c, 0) != expected.get(c, 0)}
         if diff:
             errors.append(f"{era} cups differ from the page's own totals (got, expected): {diff}")
+    if len(data["relegation"]["moves"]) < 50 or len(data["relegation"]["seasons"]) < 25:
+        errors.append(f"relegation tables look incomplete ({len(data['relegation']['moves'])} clubs, {len(data['relegation']['seasons'])} current clubs)")
     if len(data["cups"]) < 20:
         errors.append(f"only {len(data['cups'])} cups")
     counted = Counter(t["champion"] for t in data["titles"])

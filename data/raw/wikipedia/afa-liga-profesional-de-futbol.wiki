@@ -1,0 +1,316 @@
+{{short description|Argentine association football league}}
+{{infobox football league
+| name     = Argentine Primera División 
+| logo     = Liga Profesional de Fútbol (Argentina) logo.svg
+| pixels   = 250
+| country  = [[Argentina]]
+| organiser = [[Argentine Football Association|AFA]]
+| founded   = {{Start date and age|df=yes|1891|4|12}}<ref name=clarin120>[https://www.clarin.com/deportes/futbol/Hace-futbol-primer-torneo-local_0_ryRB30XpwQl.html "Hace 120 años, el fútbol tenía su primer torneo local"] {{Webarchive|url=https://web.archive.org/web/20170807021753/https://www.clarin.com/deportes/futbol/Hace-futbol-primer-torneo-local_0_ryRB30XpwQl.html |date=2017-08-07 }} by Oscar Barnade, ''Clarín'', 12 April 2011</ref><ref name=rsssf>{{Cite web |url=https://www.rsssf.org/tablesa/arg1891.html |title=1891 Argentine Primera División at RSSSF.com |access-date=2023-02-02 |archive-date=2009-02-28 |archive-url=https://web.archive.org/web/20090228072450/http://www.rsssf.com/tablesa/arg1891.html |url-status=live}}</ref>
+| first     = [[1891 Argentine Primera División|1891]]
+| folded    = 
+| confed    = [[CONMEBOL]]
+| divisions =
+| teams     = 30
+| feeds     =
+| promotion =
+| relegation = [[Primera Nacional]]
+| levels    = 1
+| domest_cups = [[Copa Argentina]]<br />[[Supercopa Argentina]]<br />[[Trofeo de Campeones de la Liga Profesional|Trofeo de Campeones]]<br />[[Supercopa Internacional]]
+| league_cup  = 
+| confed_cup  = [[Copa Libertadores]]<br />[[Copa Sudamericana]]
+| champions   = {{plainlist|
+* [[Club Atlético Belgrano|Belgrano]]<br />([[2026 AFA Liga Profesional de Fútbol|2026 Apertura]]) {{small|(1st title)}}
+* [[Estudiantes de La Plata|Estudiantes LP]]<br />([[2025 AFA Liga Profesional de Fútbol|2025 Clausura]]) {{small|(7th title)}}<!--<br />Clausura:[[Team]] {{small|(nth title)}}-->
+* [[Rosario Central]] <br />([[2025 AFA Liga Profesional de Fútbol|2025 Liga]]) {{small|(5th title)}}
+}}
+| most_champs = [[Club Atlético River Plate|River Plate]] (38 titles)<ref name=champions>{{Cite web |url=http://www.afa.com.ar/institucional/campeones-primera-division.php |title=Campeones de Primera División at AFA website |access-date=2015-06-17 |archive-url=https://web.archive.org/web/20150617061659/http://www.afa.com.ar/institucional/campeones-primera-division.php |archive-date=2015-06-17 |url-status=dead }}</ref><ref name=sobrefutbol>{{Cite web |url=http://www.sobrefutbol.com/torneos/torneo_argentino_equipo.htm |title="Torneo Argentino de Primera División – Títulos por Equipo", SobreFutbol.com |access-date=2013-07-30 |archive-date=2013-08-15 |archive-url=https://web.archive.org/web/20130815041058/http://www.sobrefutbol.com/torneos/torneo_argentino_equipo.htm |url-status=live }}</ref>
+| most_prems     = 
+| most_mlscups   = 
+| most_shields   = 
+| most_appearances  = [[Hugo Gatti]] (765)<ref>[http://www.lanacion.com.ar/1741454-el-abuelo-y-tapicero-que-se-convertira-en-el-jugador-con-mas-partidos-en-el-futbol-argentino El abuelo y tapicero que se convertirá en el jugador con más partidos en el fútbol argentino] {{Webarchive|url=https://web.archive.org/web/20171010213532/http://www.lanacion.com.ar/1741454-el-abuelo-y-tapicero-que-se-convertira-en-el-jugador-con-mas-partidos-en-el-futbol-argentino |date=2017-10-10 }}, ''La Nación'', 5 Nov 2014</ref><ref>[http://www.teaydeportea.edu.ar/archivos/a-30-anos-del-record-inalcanzable-de-hugo-gatti/ A 30 AÑOS DEL RÉCORD INALCANZABLE DE HUGO GATTI] {{Webarchive|url=https://web.archive.org/web/20171010212807/http://www.teaydeportea.edu.ar/archivos/a-30-anos-del-record-inalcanzable-de-hugo-gatti/ |date=2017-10-10 }}, Deportea</ref>
+| top_goalscorer = [[Ángel Labruna]] (295)<ref>{{Cite web|url=https://www.ole.com.ar/futbol-primera/angel-labruna-arsenio-erico-supero-estudio-convierte-maximo-goleador-liga-futbol-argentino-river-independiente_0_4K3kqT8mTG.html|title=Un estudio convierte a Ángel Labruna en el máximo goleador de Liga en el fútbol argentino, arriba de Arsenio Erico|first=Diario Deportivo|last=Olé|date=Oct 17, 2025|website=Ole.com.ar|access-date=June 12, 2026}}</ref><ref>{{Cite web|url=https://www.clarin.com/deportes/fin-discusion-supo-goleador-historico-liga-futbol-argentino-arsenio-erico_0_TwnaPIiOM9.html|title=Fin de la discusión: se supo quién es el goleador histórico de Liga en el fútbol argentino y no es Arsenio Erico|first=Oscar|last=Barnade|date=Oct 17, 2025|website=Clarín.com|access-date=June 12, 2026}}</ref>
+| tv= [[ESPN (Latin America)|ESPN Premium]] <br /> [[TNT Sports (Argentina)]]<ref name=tv2017>[http://www.lanacion.com.ar/1993052-fox-y-turner-son-los-nuevos-duenos-del-futbol-por-tv-en-la-argentina Fox y Turner son los nuevos dueños del fútbol por TV en la Argentina] {{Webarchive|url=https://web.archive.org/web/20170817170250/http://www.lanacion.com.ar/1993052-fox-y-turner-son-los-nuevos-duenos-del-futbol-por-tv-en-la-argentina |date=2017-08-17 }} by Alejandro González, ''La Nación'', 14 Mar 2017</ref> 
+| website= {{URL|https://www.ligaprofesional.ar/|ligaprofesional.ar}}
+| current= [[2026 AFA Liga Profesional de Fútbol|2026]]
+}}
+
+The '''Primera División''' ({{IPA|es|pɾiˈmeɾa ðiβiˈsjon}}; {{langx|en|"First Division"}}), known officially as '''Liga Profesional de Fútbol''', or '''Torneo "Mercado Libre"''' ('''Torneo MELI''') for sponsorship reasons, is a professional [[association football]] league in [[Argentina]] and the highest level of the [[Argentine football league system]].<ref>{{Cite web |url=http://www.goalazo.com/category/argentina-primera-division/ |title=Argentina Primera Division |access-date=2014-06-11 |archive-url=https://web.archive.org/web/20140704171557/http://www.goalazo.com/category/argentina-primera-division/ |archive-date=2014-07-04 |url-status=dead }}</ref> Organised by the [[Argentine Football Association]] (AFA), it operates on a system of [[promotion and relegation]] with the [[Primera B Nacional|Primera Nacional]] (Second Division).  The teams placed lowest at the end of the season are relegated.
+
+Argentina held its first championship in [[1891 Argentine Primera División|1891]],<ref name="iwa">{{cite book |last=Iwanczuk |first=Jorge |title=Historia del Fútbol Amateur en la Argentina |title-link=Historia del Fútbol Amateur en la Argentina |date=1992 |publisher=[[Centro para la Investigación de la Historia del Fútbol]] |isbn=978-950-43-4384-4 |edition=1st |language=es |trans-title=History of amateur football in Argentina}}</ref><ref>{{Cite news |url=https://www.theguardian.com/sport/2006/jun/04/worldcup2006.football3 |title="Salvation army", ''The Guardian'', 4 June 2006 |newspaper=The Observer |date=3 June 2006 |access-date=13 December 2016 |archive-date=30 August 2017 |archive-url=https://web.archive.org/web/20170830200715/https://www.theguardian.com/sport/2006/jun/04/worldcup2006.football3 |url-status=live |last1=Pears |first1=Tim }}</ref> making it the first country outside the [[United Kingdom]] to establish a football league. [[English Football League|The Football League]] had debuted in [[England]] in 1888, followed by the [[Scottish Football League|Scottish]] and [[Northern Ireland Football League|Irish]] leagues in 1890.<ref name=give1>[https://www.givemesport.com/oldest-football-soccer-competitions-history/ The 7 Oldest Football Competitions in the World] by Alex McMonnies at givemesport.com. 23 Mar 2024</ref><ref>[https://topsoccerblog.com/oldest-football-leagues-world/ 10 Oldest Football Leagues In The World] by Collins Nwokolo at Top Soccer Blog. 28 Nov 2025</ref> In the early years, only teams from [[Buenos Aires Province|Buenos Aires]], [[Greater Buenos Aires]], [[La Plata]], [[Rosario, Argentina|Rosario]], [[Santa Fe, Argentina|Santa Fe]] and [[Córdoba, Argentina|Córdoba]]<ref>[http://historiayfutbol.obolog.es/argentina-1ra-division-1894-161838 Argentina – 1ra. División 1894] {{Webarchive|url=https://web.archive.org/web/20200617040504/http://historiayfutbol.obolog.es/argentina-1ra-division-1894-161838 |date=2020-06-17 }} by José Carluccio, 19 Nov 2008</ref> were affiliated to the national association. Teams from other cities would join in later years.
+
+In [[1933 Argentine Primera División|1931]], the Primera División became professional when 18 clubs left the amateur leagues to form their own professional competition.
+
+The Argentine championship was ranked as one of the top ten strongest leagues worldwide for the 2015 calendar year by the [[International Federation of Football History & Statistics]] (IFFHS). Argentina placed 4th after [[La Liga]] (Spain), [[Serie A]] (Italy), and [[Bundesliga]] (Germany), but has since descended to 19th in the 2021 list.<ref>[http://iffhs.de/the-strongest-league-in-the-world-2015/ "The Strongest League in the World 2015", IFFHS], retrieved 2016-06-11 {{Webarchive|url=https://web.archive.org/web/20160621142844/http://iffhs.de/the-strongest-league-in-the-world-2015/ |date=21 June 2016 }}</ref> In 2023, the IFFHS ranked Liga Profesional in the 10th. place with 966,5 points (Italian [[Serie A]] was first with 1619,5 points).<ref>[https://www.pagina12.com.ar/708679-el-ranking-de-las-10-mejores-ligas-del-mundo-que-puesto-ocup/ El ranking de las 10 mejores ligas del mundo: ¿qué puesto ocupa el torneo argentino?] at ''Página/12''. 30 Jan 2024</ref>
+
+== Format and teams ==
+=== Championship ===
+{{main|2026 AFA Liga Profesional de Fútbol}}
+The competition format for this season consists of three tournaments (Torneo Apertura, Torneo Clausura and Campeón de Liga) each with five stages. In the first stage, the thirty teams were divided into two groups of fifteen teams each and will play in a single [[Round-robin tournament|round-robin]] format. Additionally, each team will play two inter-zone matches: against its [[Football rivalries in Argentina|rival]] from the other zone, and the second against a second team, determined by a draw. The top eight teams in each group will advance to the round of 16.
+
+The final stages (round of 16, quarter-finals, semi-finals and final) will be played on a single-leg basis. In addition, the team that accumulates the most points in the aggregate table will obtain the official title of 'Campeón de Liga'.<ref>{{cite web|url=https://www.tycsports.com/liga-profesional-de-futbol/como-se-va-a-jugar-la-liga-profesional-en-2026-id699960.html |title=AFA anunció cómo se va a jugar la Liga Profesional en 2026 |publisher=TyC Sports |date=21 November 2025 |language=es}}</ref>
+
+=== Relegation ===
+Relegation is based on an [[average|averaging]] system.<ref>{{Cite web |url=https://southamerican-futbol.blogspot.com/2011/03/promedios-argentine-relegation-system.html |title="Promedios: The Argentine relegation system explained" |access-date=2011-03-23 |archive-date=2011-04-29 |archive-url=https://web.archive.org/web/20110429235058/http://southamerican-futbol.blogspot.com/2011/03/promedios-argentine-relegation-system.html |url-status=live }}</ref> At the end of the season, the two teams with the worst three-year averages are relegated, while the winner and runner-up of Primera Nacional championship are promoted to Primera.
+
+===Domestic cups===
+{{main|List of Argentine football national cups}}
+
+The Primera División champion gains a place to play the [[Trofeo de Campeones de la Liga Profesional]], where winners of Apertura and Clausura tournament play to define a cup champion.<ref>{{cite web|url=https://www.ligaprofesional.ar/wp-content/uploads/2025/07/Reglamento-de-Torneos-LPF-2025.pdf |title=Reglamento de torneos de la temporada 2025 Primera División Liga Profesional de Fútbol de AFA |publisher=Liga Profesional de Fútbol |date=July 2025 |language=Spanish}}</ref>
+
+===International cups===
+{{main|Qualifying method of Copa Libertadores in Argentina}}
+
+As of [[2026 AFA Liga Profesional de Fútbol]], six clubs from Argentina are eligible to play the [[Copa Libertadores]]. The champions of Apertura and Clausura automatically qualify for the tournament. Besides, four clubs placed 2nd to 5th in the aggregate table also qualify to the competition. The 6th. team eligible to Copa Libertadores is the winner of [[Copa Argentina]].
+
+For the [[Copa Sudamericana]], six teams are eligible. Clubs placed 6th to 11th in the table at the end of the tournament, gain a place to play the cup.
+
+==History==
+
+===Round-robin amateur tournaments (1891–1931)===
+[[File:Copa campeonato trofeo.png|thumb|150px|The ''Copa Campeonato'' was the first trophy awarded by the [[Argentine Football Association|AFA]], then abandoned<ref>{{Cite web |url=http://biblioteca.afa.org.ar/libros/libro_12/ |title=''Memoria y Balance 1935'' – Argentine Football Association Library |access-date=2014-10-28 |archive-date=2014-04-07 |archive-url=https://web.archive.org/web/20140407120250/http://biblioteca.afa.org.ar/libros/libro_12/ |url-status=live }}</ref> and re-issued from 2013<ref>{{Cite web |url=http://www.diariouno.com.ar/deportes/Un-Copa-con-mucha-historia-20130627-0024.html |title="Una Copa con mucha historia", ''Diario Uno'', 27 June 2013 |access-date=14 June 2014 |archive-date=14 July 2014 |archive-url=https://web.archive.org/web/20140714131938/http://www.diariouno.com.ar/deportes/Un-Copa-con-mucha-historia-20130627-0024.html |url-status=dead }}</ref> to 2015.]]
+
+In 1891 the ''Association Argentine Football League'' was established, with Alex Lamont of [[St. Andrew's Scots School]] as one of its board members.<ref>''Historia del Fútbol Amateur en la Argentina'', by Jorge Iwanczuk. Published by Autores Editores (1992) – {{ISBN|9504343848}}</ref> The AAFL was the first football league outside of the British Isles.,<ref>{{Cite news |url=https://www.theguardian.com/sport/2006/jun/04/worldcup2006.football3 |title="Salvation Army", ''The Guardian'', 4 June 2006 |newspaper=The Observer |date=3 June 2006 |access-date=13 December 2016 |archive-date=30 August 2017 |archive-url=https://web.archive.org/web/20170830200715/https://www.theguardian.com/sport/2006/jun/04/worldcup2006.football3 |url-status=live |last1=Pears |first1=Tim }}</ref> to establish a football league. The first amateur Primera División matches were played on 12 April 1891: Buenos Aires FC vs. [[St. Andrew's Athletic Club|St. Andrew's]] and [[Old Caledonians Football Club|Old Caledonians]] vs. Belgrano FC.<ref name="clarin120"/><ref name="rsssf"/>
+
+===Professional era tournaments (1931–1966)===
+A single double [[round-robin tournament]] was played each year, and the team with the most points was crowned as champion, except for [[1936 Argentine Primera División|1936]], during that year the winners of ''Copa de Honor'' and the ''Campeonato'' played a match for the championship title. The single tournament arrangement lasted until 1966.
+
+During this period, the traditional "[[Big Five (Argentine football)|Big Five]]" clubs, namely, [[Club Atlético River Plate|River Plate]], [[Boca Juniors]], [[Club Atlético Independiente|Independiente]], [[Racing Club de Avellaneda|Racing]] and [[San Lorenzo de Almagro|San Lorenzo]] dominated Argentine football. No other team besides them had won the league championship in these 36 years.<ref>{{Cite web |url=https://www.rsssf.org/tablesa/arghist-pro1930s.html |title="Final Tables Argentina 1931–1940 (Professional)" at RSSSF |access-date=2023-02-02 |archive-date=2011-05-11 |archive-url=https://web.archive.org/web/20110511095935/http://www.rsssf.com/tablesa/arghist-pro1930s.html |url-status=live }}</ref><ref>{{Cite web |url=https://www.rsssf.org/tablesa/arghist-pro1940s.html |title="Final Tables Argentina 1941–1950" at RSSSF |access-date=2023-02-02 |archive-date=2022-11-30 |archive-url=https://web.archive.org/web/20221130100507/https://www.rsssf.org/tablesa/arghist-pro1940s.html |url-status=live }}</ref><ref name=autogenerated3>{{Cite web |url=https://www.rsssf.org/tablesa/arghist-pro1950s.html |title="Final Tables Argentina 1951–1960" at RSSSF |access-date=2023-02-02 |archive-date=2022-11-30 |archive-url=https://web.archive.org/web/20221130114839/https://www.rsssf.org/tablesa/arghist-pro1950s.html |url-status=live }}</ref><ref name=autogenerated2>{{Cite web |url=https://www.rsssf.org/tablesa/arghist-pro1960s.html |title="Final Tables Argentina 1961–1970" at RSSSF |access-date=2023-02-02 |archive-date=2022-11-30 |archive-url=https://web.archive.org/web/20221130111818/https://www.rsssf.org/tablesa/arghist-pro1960s.html |url-status=live }}</ref> The most serious title challenge came from [[Club Atlético Banfield|Banfield]] in 1951, when they finished with the same number of points as Racing Club in the league table. However, they lost 1–0 in the two-legged first place playoffs and gave the title to Racing.<ref name=autogenerated3 />
+
+The [[average|averaging]] system for relegations was implemented for the first time in the [[1957 Argentine Primera División|1957]] championship,<ref name=prom1/> with [[Ferro Carril Oeste]] becoming the first team to be relegated under that system.<ref>[https://www.rsssf.org/tablesa/arg57.html Argentina 1957] {{Webarchive|url=https://web.archive.org/web/20221130072831/https://www.rsssf.org/tablesa/arg57.html |date=2022-11-30 }} by Osvaldo J. Gorgazzi at RSSSF.com</ref> Averaging continued until [[1963 Argentine Primera División|1963]], when the championship returned to its old format (with the worst placed teams being relegated).<ref>[http://www.goal.com/es-ar/news/4455/primera-divisi%C3%B3n/2017/07/13/37053492/la-historia-de-los-promedios-en-el-f%C3%BAtbol-argentino-c%C3%B3mo-y La historia de los promedios en el fútbol argentino: cómo y cuándo se inventaron] {{Webarchive|url=https://web.archive.org/web/20170717145401/http://www.goal.com/es-ar/news/4455/primera-divisi%C3%B3n/2017/07/13/37053492/la-historia-de-los-promedios-en-el-f%C3%BAtbol-argentino-c%C3%B3mo-y |date=2017-07-17 }}, Goal.com, 13 Jul 2017</ref> Nevertheless, there were no relegations until [[1967 Argentine Primera División|1967]] (with [[Unión de Santa Fe|Unión (SF)]] and [[Deportivo Español]] being sent to [[Primera B Metropolitana|Primera B]] after playing a relegation tournament contested by teams of First and Second divisions to define the promotions and relegations).<ref>[https://www.rsssf.org/tablesa/arg67.html Argentina 1967] {{Webarchive|url=https://web.archive.org/web/20230203101911/https://www.rsssf.org/tablesa/arg67.html |date=2023-02-03 }} at RSSSF.com</ref>
+
+===Metropolitano and Nacional (1967–1985)===
+{{main|Metropolitano championship|Nacional championship}}
+
+In 1967, the single tournament format was abandoned and replaced by two championships in each year: the [[Metropolitano championship|Metropolitano]] and the [[Nacional championship|Nacional]]. The Metropolitano only allowed clubs competing in the old tournament to participate, while the Nacional was open to teams from regional tournaments.<ref name=autogenerated2 /> The format of competition was also altered, with the double round-robin tournament replaced by the two-group championship Metropolitano and single round-robin Nacional in that year.
+
+This change revolutionized Argentine football, allowing smaller clubs—such as Estudiantes de La Plata, Vélez Sarsfield, and Chacarita Juniors—to challenge the dominance of the five clubs that had previously won all championships.
+
+Between 1967 and 1969, the Metropolitano and Nacional had gone through several format changes. In the first three years, the Metropolitano was a two-group championship, with the best two teams from each group competing the semi-finals of the knock-out stage.<ref name=autogenerated2 />
+
+The six best teams of each group would advance to the Nacional, with four more teams coming from regional tournaments, to compete for the Nacional championship in a single round-robin format. The seventh and eighth team of each group, alongside four teams from regional tournaments, played the Promocional tournament, which, in 1969, was replaced by the Petit tournament contested without regional teams. The ninth to twelfth teams of each group entered the Reclasificatorio tournament to determine the relegating teams.<ref name=autogenerated2 />
+
+In 1970, the format of the Metropolitano and Nacional underwent a reform. Since that year, and until 1985, the Nacional had become a group tournament with playoffs, while the Metropolitano had been competed under a single or double round-robin system, except for the 1974, 1976 and 1979 edition, which were also contested as a group tournament with playoffs.<ref name=autogenerated1 /><ref>{{Cite web |url=https://www.rsssf.org/tablesa/arghist-pro1970s.html |title="Final Tables Argentina 1971–1980" at RSSSF |access-date=2023-02-02 |archive-date=2022-11-30 |archive-url=https://web.archive.org/web/20221130104123/https://www.rsssf.org/tablesa/arghist-pro1970s.html |url-status=live }}</ref>
+
+Despite the format change in 1970, teams still entered the Nacional championship, Petit tournament and Reclasificatorio tournament according to their rankings in the Metropolitano in that year. However, in 1971, the tournaments were separated. Teams did not enter the Nacional by finishing at the top ranks of Metropolitano. On the other hand, the Petit tournament and Reclasificatorio tournament were abandoned. The Metropolitano and Nacional became two truly individual tournaments. Although the old system was reused in 1972, the separation was instituted again in 1973 and was adopted throughout the remaining Metropolitano and Nacional era.
+
+The Metropolitano was always played first, until the order of the tournaments was reversed in 1982.<ref name=autogenerated1>{{Cite web |url=https://www.rsssf.org/tablesa/arghist-pro1980s.html |title="Final Tables Argentina 1981–1990" at RSSSF |access-date=2023-02-02 |archive-date=2022-11-30 |archive-url=https://web.archive.org/web/20221130100850/https://www.rsssf.org/tablesa/arghist-pro1980s.html |url-status=live }}</ref>
+
+After 20 years since the last time it had been used, the average system for relegations returned in the [[1983 Argentine Primera División|1983 Metropolitano]] championship,<ref name=prom1/> two years after [[San Lorenzo de Almagro|San Lorenzo]] was relegated. That year, [[Club Atlético River Plate|River Plate]] finished 18° out of 19 teams and would have been relegated under the old system, along with [[Racing de Córdoba]]. The first teams to be relegated on average were [[Racing Club de Avellaneda|Racing]] and [[Club Atlético Nueva Chicago|Nueva Chicago]].<ref name=autogenerated1/> [[Boca Juniors]] was also struggling at that time and had a dismal [[1984 Argentine Primera División|1984]] season. These facts have led to speculation that the averaging system was instituted to minimize the chance of big teams being relegated.<ref name=prom1>[http://www.infobae.com/2007/05/31/319564-la-verdadera-historia-la-creacion-los-promedios8206/ La verdadera historia de la creación de los promedios] {{Webarchive|url=https://web.archive.org/web/20170808154932/http://www.infobae.com/2007/05/31/319564-la-verdadera-historia-la-creacion-los-promedios8206/ |date=2017-08-08 }} on Infobae, 31 May 2007</ref>
+
+===European-styled seasons (1985–1991)===
+Following the advice of [[Argentina national football team]]'s then coach [[Carlos Salvador Bilardo]], the structure of play was modified in 1985. Traditionally, like other countries in Southern Hemisphere, football season began and ended according to the calendar year. However, upon the reform, European style season was adopted for the first time among all the South American countries. Moreover, instead of holding two championships every year, only one double [[round-robin tournament]] was contested, like football leagues in Europe. The team topping the table at the end of season was crowned the champion.
+
+In 1985, after the Nacional was played, the Metropolitano was not held, while the new single tournament (1985/86) was played for the first time.
+
+In 1988–89 season, three points were given to match winners. If a draw occurred, A [[Penalty shootout (association football)|penalty shootout]] took place and the winner of the shootout would get two points while the loser still had one. This format was scrapped in the following season.
+
+===Apertura and Clausura (1991–2012)===
+{{main|Apertura and Clausura}}
+
+Five years later, the single championship was split into two single-round tournaments, giving birth to the [[Apertura and Clausura in Argentine football|Apertura and Clausura]] arrangement.<ref>[https://elpais.com/deportes/2012/05/09/actualidad/1336580905_160403.html El fin del Apertura y el fin del Clausura] {{Webarchive|url=https://web.archive.org/web/20190227060214/https://elpais.com/deportes/2012/05/09/actualidad/1336580905_160403.html |date=2019-02-27 }} by Alejandro Rebossion on ''El País'', 9 May 2012</ref> In 1991 the two champions played winner-take-all matches. This practice was very controversial, especially since one of the biggest teams, [[Boca Juniors]], lost the finals against [[Newell's Old Boys]], costing them their first official championship since 1981 despite an unbeaten run in the ''Clausura''. In 1992 the game was held as well (this time between [[Newell's Old Boys]] and [[Club Atlético River Plate|River Plate]]), but regardless of the result (which favored [[Club Atlético River Plate|River Plate]]) both teams were awarded the title of ''Champion''. After 1992, the practice was quickly abandoned, so that two champions (on equal footing) were crowned every season and no deciding game is played.
+
+Originally, two points were given to match winners except in the [[1989–90 Argentine Primera División|1989–90]] season. Starting in [[1995–96 Argentine Primera División|1995–96]], the rule was changed and three points were given for a win, one for a draw and none for a loss.
+
+The [[1999–2000 Argentine Primera División|1999–2000]] season introduced the [[promotion and relegation]] system for the first time, where the two clubs placed 1st and 2nd within the four teams with the lowest average, had to play a two-leg series with teams from [[Primera B Nacional]] to keep their place in the division.<ref>[https://www.infobae.com/2012/07/01/656565-la-promocion-una-definicion-dramatica-que-se-despide-del-futbol-argentino/ La Promoción, una definición dramática que se despide del fútbol argentino] {{Webarchive|url=https://web.archive.org/web/20190225044823/https://www.infobae.com/2012/07/01/656565-la-promocion-una-definicion-dramatica-que-se-despide-del-futbol-argentino/ |date=2019-02-25 }}, Infobae, 1 Jul 2012</ref>
+
+===Inicial and Final (2012–2014)===
+For the 2012–13 season, the Torneo Apertura and Clausura became "Torneo Inicial" and "Torneo Final," being disputed with the same format as before but proclaiming only one champion each season, unlike the last format that had two champions (Apertura and Clausura, respectively).<ref>{{Cite web |url=http://www.continental.com.ar/noticias/deportes/afa-se-aprobaron-los-cambios-en-los-torneos-de-futbol/20120509/nota/1684705.aspx |title="AFA: Se aprobaron los cambios en los torneos de fútbol", Radio Continental web, 9 May 2012 |date=9 May 2012 |access-date=7 August 2012 |archive-date=14 July 2014 |archive-url=https://web.archive.org/web/20140714122220/http://www.continental.com.ar/noticias/deportes/afa-se-aprobaron-los-cambios-en-los-torneos-de-futbol/20120509/nota/1684705.aspx |url-status=live }}</ref>
+
+Before those changes, a controversial project for the 2012–13 season had been proposed: it consisted in a new tournament that would contain both the Primera División and Primera B Nacional teams: the former was not going to have any relegated team in its 2011–12 season and include sixteen teams from the latter, Primera B Nacional. The tournament would also include a team from the Primera B Metropolitana and one from the Torneo Argentino A, creating a 38-team league. These changes were strongly opposed by the media and the people, and finally the tournament was called off. However, the project for the new format was successfully picked up starting from the 2015 season.
+
+=== Superfinal (2013–2014) ===
+{{main|Copa Campeonato}}
+
+Once the initial and final tournaments had finished, both winners had to play a match for the [[Copa Campeonato]] (familiarly known as ''Superfinal''). The [[Argentine Football Association|AFA]] had previously determined that the first edition (played in 2013) would be considered as a Primera División official title (2012–13 season), therefore [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] was awarded its 10th official championship after defeating [[Newell's Old Boys|Newell's]].<ref name=firstsuper>{{Cite web |url=http://deportes.clarin.com/Supercampeon_0_946705641.html |title="Vélez venció a Newell's y es el Supercampeón", ''Clarín'', 29 Dec 2013 |access-date=24 September 2015 |archive-date=24 January 2020 |archive-url=https://web.archive.org/web/20200124043245/https://www.clarin.com/deportes/ |url-status=live }}</ref>
+
+Nevertheless, from the 2014 edition it was determined that the ''Superfinal'' would not be considered as a Primera División title but an official cup.<ref>{{Cite web |url=http://canchallena.lanacion.com.ar/1695307-la-afa-homologo-la-superfinal-de-river-como-una-copa-nacional |title="La AFA homologó la final de River como una copa nacional", Cancha Llena, 28 May 2014 |access-date=14 June 2014 |archive-date=4 March 2016 |archive-url=https://web.archive.org/web/20160304003108/http://canchallena.lanacion.com.ar/1695307-la-afa-homologo-la-superfinal-de-river-como-una-copa-nacional |url-status=dead }}</ref>
+
+Due to this the 2015 and 2016 seasons were played as single tournaments with only one champion per season, the Copa Campeonato has not been held since then.
+
+=== 2014–20: One tournament again and Superliga ===
+Starting August 2014, the "Torneo de Transición" was held, with 20 teams participating (17 from the [[2013–14 Argentine Primera División season|2013–14 season]] and 3 promoted from the [[2013–14 Primera B Nacional]]). No teams were relegated at the end of the championship.<ref>{{Cite web |url=http://www.infobae.com/2014/06/03/1569964-se-sorteo-el-fixture-del-torneo-transicion-que-arrancara-agosto-y-el-super-la-10 |title=Se sorteó el Fixture del Torneo de Transición, que arrancará en agosto y el 'Súper' en la 10ª |access-date=2014-06-14 |archive-date=2014-06-08 |archive-url=https://web.archive.org/web/20140608180054/http://www.infobae.com/2014/06/03/1569964-se-sorteo-el-fixture-del-torneo-transicion-que-arrancara-agosto-y-el-super-la-10 |url-status=live }}</ref>
+
+In 2015, the format switched to a tournament with 30 teams. The first five clubs of the Zonas A & B of [[2014 Primera B Nacional]] season promoted to the Primera División. Those 10 teams, with the addition of the 20 clubs currently participating in the top division, qualified to contest the next season.<ref>[http://442.perfil.com/2014-11-11-320121-confirmado-el-proximo-torneo-de-afa-sera-con-30-equipos/ "Confirmado: El próximo torneo será con 30 equipos" on Perfil.com] {{Webarchive|url=https://web.archive.org/web/20141112213434/http://442.perfil.com/2014-11-11-320121-confirmado-el-proximo-torneo-de-afa-sera-con-30-equipos/ |date=2014-11-12 }}, 11 Nov 2014</ref>
+
+That same year, the [[Argentine Football Association|AFA]] announced the format for the next five seasons of the Primera División:<ref>{{cite web|url=http://www.afa.org.ar/upload/boletines/BOL_Comite_Ejecutivo_4978.pdf|title=Asociación del Fútbol Argentino Boletín 4978|access-date=14 October 2015 |publisher=AFA |language=es |archive-url=https://web.archive.org/web/20150920023943/http://www.afa.org.ar/upload/boletines/BOL_Comite_Ejecutivo_4978.pdf |archive-date=20 September 2015 |url-status=live }}</ref>
+
+* In [[2016 Argentine Primera División|the first half of 2016]], the league was contested by 30 teams. One team was relegated to and one team was promoted from Primera B Nacional.
+* From [[2016–17 Argentine Primera División|August 2016 to June 2017]], the league was also contested by 30 teams. Four teams were relegated to and two teams were promoted from Primera B Nacional.
+* From [[2017–18 Argentine Primera División|August 2017 to June 2018]], the league was contested by 28 teams. Four teams will be relegated to and two teams will be promoted from Primera B Nacional. This season was also the first "Superliga Argentina", organised by the homonymous entity, that is administered independently and has its own statute. Therefore, the AFA focused exclusively in the [[Argentina national football team|Argentina national teams]]. The [[2017–18 Argentine Primera División|2017–18]] season was the first championship organised by the body.
+* From [[2018–19 Argentine Primera División|August 2018 to June 2019]], the Superliga was contested by 26 teams. Four teams were relegated to and two teams were promoted from Primera B Nacional.
+
+=== 2020–present ===
+In February 2020, President of AFA [[Claudio Tapia]] stated that the Superliga had been established to position Argentine football as a product, but it failed in that purpose. As a result, the AFA would take over the organisation of Primera División championships, according to Tapia's statement.<ref name="finsuperliga">[https://www.infobae.com/deportes/2020/02/26/reunion-clave-en-el-futbol-argentino-tapia-recibio-a-los-principales-dirigentes-de-primera-con-la-idea-de-ponerle-fin-a-la-superliga/ Reunión clave en el fútbol argentino: Tapia recibió a los principales dirigentes de Primera con la idea de ponerle fin a la Superliga] {{Webarchive|url=https://web.archive.org/web/20200726080839/https://www.infobae.com/deportes/2020/02/26/reunion-clave-en-el-futbol-argentino-tapia-recibio-a-los-principales-dirigentes-de-primera-con-la-idea-de-ponerle-fin-a-la-superliga/ |date=2020-07-26 }} on Infobae, 26 February 2020.</ref> One month after those announcements, the president of the Superliga, Mariano Elizondo, resigned.<ref name=renun>[https://www.infobae.com/deportes-2/2020/03/10/mariano-elizondo-renuncio-como-presidente-de-la-superliga/ Renunció Mariano Elizondo] {{Webarchive|url=https://web.archive.org/web/20200328042736/https://www.infobae.com/deportes-2/2020/03/10/mariano-elizondo-renuncio-como-presidente-de-la-superliga/ |date=2020-03-28 }}, Infobae, 10 March 2020</ref>
+
+The Superliga was replaced by a similar body, named "Liga Profesional de Fútbol", directly linked to AFA and presided by [[Marcelo Tinelli]].<ref name=quienes>[https://www.pressreader.com/argentina/clarin/20200519/282089163964322 Quién es quién en la AFA] {{Webarchive|url=https://web.archive.org/web/20200607140337/https://www.pressreader.com/argentina/clarin/20200519/282089163964322 |date=2020-06-07 }}, ''Clarín'', 19 May 2020</ref> It was expected that Superliga was dissolved once the [[2020 Copa de la Superliga|2020 edition]] of [[Copa de la Superliga Argentina]] finished,<ref name=renun/> but due to the [[COVID-19 pandemic in Argentina|COVID-19 pandemic]] the cup was cancelled, accelerating times. In May 2020, the LPF was launched by the AFA.<ref name=quienes/>
+
+[[2025 AFA Liga Profesional de Fútbol|2025]] saw the return of Apertura and Clausura tournaments, crowning two champions within the season. The championship also featured a new format (similar to defunct [[Copa de la Liga Profesional]]) with clubs divided into two zones and post-season playoffs.<ref>{{cite web|url=https://www.afa.com.ar/es/posts/formato-de-los-torneos-de-lpf-para-2025 |title=Formato de los torneos de LPF para 2025 |publisher=AFA |date=13 December 2024 |language=es}}</ref>
+
+== Division levels ==
+{| class="wikitable sortable"
+|-
+! width= | Year
+! width= | Level
+! width=220px| Relegation to
+|-
+| 1891–1898 || {{center|1}} || style=background:#efefef| ''(None)'' 
+|-
+| 1899–1910 || {{center|1}} || [[Primera B Metropolitana|Segunda División]] 
+|-
+| 1911–1926 || {{center|1}} || [[Argentine División Intermedia|División Intermedia]]
+|-
+| 1927–1932 || {{center|1}} || [[Primera B Metropolitana|Primera División B]]
+|-
+| 1933–1948 || {{center|1}} || [[Primera B Metropolitana|Segunda División]] 
+|-
+| 1949–1966 || {{center|1}} || [[Primera B Metropolitana|Primera División B]]
+|-
+| 1967–1986 || {{center|1}} || [[Primera B Metropolitana|Primera División B]]<hr/>[[Torneo Regional (1967–1986)|Torneo Regional]] 
+|-
+| 1986–present || {{center|1}} || [[Primera Nacional|Primera B Nacional]] 
+|-
+|}
+
+== Clubs ==
+{{main|List of football clubs in Argentina}}
+
+As of [[2024 Argentine Primera División|2024]], twenty-eight teams are competing in the league, the 26 teams that took part in the [[2023 Argentine Primera División|previous season]] as well as two promoted teams from the [[2023 Primera Nacional]].<ref>{{cite web |url=https://www.afa.com.ar/es/posts/primera-nacional-barracas-central-y-quilmes-van-en-busca-del-ascenso-a-la-maxima-categoria |title=Barracas Central ascendió a primera división por primera vez tras vencer a Quilmes por penales |publisher=AFA |date=20 December 2021 |language=Spanish |access-date=3 April 2022 |archive-date=23 April 2022 |archive-url=https://web.archive.org/web/20220423003203/https://www.afa.com.ar/es/posts/primera-nacional-barracas-central-y-quilmes-van-en-busca-del-ascenso-a-la-maxima-categoria |url-status=live }}</ref>
+
+== Champions ==
+<!-- NOTES TO EDITORS: 
+1) This list details only the winning years, not "runner-up", which is not a title at all. Please DO NOT add the "runner-up years" to this table.
+2) despite of some recent media news, the Argentine Association defines Copa de la Liga Profesional as a "national/domestic cup" (see source: https://www.afa.com.ar/es/pages/campeones-de-primera-division) NOT awarding a league title to past winners. Therefore Boca Juniors still have 35 league titles. Moreover, AFA Bulletin #6405 (https://www.afa.com.ar/upload/torneo/Placas%20categor%C3%ADas/2023/Diciembre/Bolet%C3%ADn%20Comit%C3%A9%20Ejecutivo%206405%20(19-12-2023).pdf) officially proclaimed River Plate as "2023 Primera División champion" and Rosario Central "2023 Copa LPF champion", with no mention of changes at all. -->
+
+{{see also|List of Argentine Primera División champions}}
+Since the [[1891 in Argentine football|first championship held in 1891]], 30 clubs have won the Primera División title at least once. The list include all the titles won by each club since the first Primera División championship held in 1891. Clubs in ''italic'' no longer exist or are currently disaffiliated from the AFA.
+    
+{| class="wikitable sortable"
+|-
+! Rank
+! width=200px| Club
+! width=50px | {{abbr|Titles}}
+! width=800px| Winning seasons
+|-
+|align="center"|1
+| [[Club Atlético River Plate|River Plate]] ||{{center|38}}|| [[1920 Argentine Primera División|1920 <small>AAmF</small>]], [[1932 Argentine Primera División|1932 <small>LAF</small>]], [[1936 Argentine Primera División|1936 (Copa Campeonato), 1936 (Copa de Oro)]],{{refn|The Association awarded River Plate both titles, Copa Campeonato and Copa de Oro, as individual titles.|group=note2|name=1936controv}} [[1937 Argentine Primera División|1937]], [[1941 Argentine Primera División|1941]], [[1942 Argentine Primera División|1942]], [[1945 Argentine Primera División|1945]], [[1947 Argentine Primera División|1947]], [[1952 Argentine Primera División|1952]], [[1953 Argentine Primera División|1953]], [[1955 Argentine Primera División|1955]], [[1956 Argentine Primera División|1956]], [[1957 Argentine Primera División|1957]], [[1975 Argentine Primera División#Campeonato Metropolitano|1975 Metropolitano]], [[1975 Argentine Primera División#Campeonato Nacional|1975 Nacional]], [[1977 Argentine Primera División#Campeonato Metropolitano|1977 Metropolitano]], [[1979 Argentine Primera División#Campeonato Metropolitano|1979 Metropolitano]], [[1979 Argentine Primera División#Campeonato Nacional|1979 Nacional]], [[1980 Argentine Primera División#Campeonato Metropolitano|1980 Metropolitano]], [[1981 Argentine Primera División#Campeonato Nacional|1981 Nacional]], [[1985–86 Argentine Primera División|1985–86]], [[1989–90 Argentine Primera División|1989–90]], [[1991–92 Argentine Primera División#Torneo Apertura|1991 Apertura]], [[1993–94 Argentine Primera División#Torneo Apertura|1993 Apertura]], [[1994–95 Argentine Primera División#Torneo Apertura|1994 Apertura]], [[1996–97 Argentine Primera División#Torneo Apertura|1996 Apertura]], [[1997–98 Argentine Primera División#Torneo Apertura|1997 Apertura]], [[1996–97 Argentine Primera División#Torneo Clausura .28.22Closing.22 Tournament.29|1997 Clausura]], [[1999–2000 Argentine Primera División|1999 Apertura]], [[1999–2000 Argentine Primera División#Torneo Clausura|2000 Clausura]], [[2001–02 Argentine Primera División|2002 Clausura]], [[2002–03 Argentine Primera División|2003 Clausura]], [[2003–04 Argentine Primera División|2004 Clausura]], [[2007–08 Argentine Primera División|2008 Clausura]], [[2013–14 Argentine Primera División season|2014 Final]], [[2021 Argentine Primera División|2021]], [[2023 Argentine Primera División|2023]]
+|-
+|align="center"|2
+| [[Boca Juniors]] ||{{center|35}} ||  [[1919 Argentine Primera División|1919]], [[1920 Argentine Primera División|1920]], [[1923 Argentine Primera División|1923]], [[1924 Argentine Primera División|1924]], [[1926 Argentine Primera División|1926]], [[1930 Argentine Primera División|1930]], [[1931 Argentine Primera División|1931 <small>LAF</small>]], [[1934 Argentine Primera División|1934 <small>LAF</small>]], [[1935 Argentine Primera División|1935]], [[1940 Argentine Primera División|1940]], [[1943 Argentine Primera División|1943]], [[1944 Argentine Primera División|1944]], [[1954 Argentine Primera División|1954]], [[1962 Argentine Primera División|1962]], [[1964 Argentine Primera División|1964]], [[1965 Argentine Primera División|1965]], [[1969 Argentine Primera División#Campeonato Nacional|1969 Nacional]], [[1970 Argentine Primera División#Campeonato Nacional|1970 Nacional]], [[1976 Argentine Primera División#Metropolitano Championship|1976 Metropolitano]], [[1976 Argentine Primera División#Campeonato Nacional|1976 Nacional]], [[1981 Argentine Primera División#Metropolitano championship|1981 Metropolitano]], [[1992–93 Argentine Primera División#Torneo Apertura|1992 Apertura]], [[1998–99 Argentine Primera División#Torneo Apertura|1998 Apertura]], [[1998–99 Argentine Primera División#Torneo Clausura|1999 Clausura]], [[2000–01 Argentine Primera División#Torneo Apertura|2000 Apertura]], [[2003–04 Argentine Primera División#Torneo Apertura|2003 Apertura]], [[2005–06 Argentine Primera División#Torneo Apertura|2005 Apertura]], [[2005–06 Argentine Primera División#Torneo Clausura|2006 Clausura]], [[2008–09 Argentine Primera División season#Torneo Apertura|2008 Apertura]], [[2011–12 Argentine Primera División season#Torneo Apertura|2011 Apertura]], [[2015 Argentine Primera División|2015]], [[2016–17 Argentine Primera División|2016–17]], [[2017–18 Argentine Primera División|2017–18]], [[2019–20 Argentine Primera División|2019–20]], [[2022 Argentine Primera División|2022]]
+|-
+|align="center"|3
+|[[Racing Club de Avellaneda|Racing]]||{{center|18}} ||  [[1913 Argentine Primera División|1913]], [[1914 Argentine Primera División|1914]], [[1915 Argentine Primera División|1915]], [[1916 Argentine Primera División|1916]], [[1917 Argentine Primera División|1917]], [[1918 Argentine Primera División|1918]], [[1919 Argentine Primera División|1919 <small>AAmF</small>]], [[1921 Argentine Primera División|1921 <small>AAmF</small>]], [[1925 Argentine Primera División|1925 <small>AAmF</small>]], [[1949 Argentine Primera División|1949]], [[1950 Argentine Primera División|1950]], [[1951 Argentine Primera División|1951]], [[1958 Argentine Primera División|1958]], [[1961 Argentine Primera División|1961]], [[1966 Argentine Primera División|1966]], [[2001–02 Argentine Primera División#Torneo Apertura|2001 Apertura]], [[2014 Argentine Primera División season|2014]], [[2018–19 Argentine Primera División|2018–19]]
+|-
+|align="center"|4
+| [[Club Atlético Independiente|Independiente]] ||{{center|16}} ||  [[1922 Argentine Primera División|1922 <small>AAmF</small>]], [[1926 Argentine Primera División|1926 <small>AAmF</small>]], [[1938 Argentine Primera División|1938]], [[1939 Argentine Primera División|1939]], [[1948 Argentine Primera División|1948]], [[1960 Argentine Primera División|1960]], [[1963 Argentine Primera División|1963]], [[1967 Argentine Primera División#Campeonato Nacional|1967 Nacional]], [[1970 Argentine Primera División#Campeonato Metropolitano|1970 Metropolitano]], [[1971 Argentine Primera División#Campeonato Metropolitano|1971 Metropolitano]], [[1977 Argentine Primera División#Campeonato Nacional|1977 Nacional]], [[1978 Argentine Primera División#Campeonato Nacional|1978 Nacional]], [[1983 Argentine Primera División#Campeonato Metropolitano|1983 Metropolitano]], [[1988–89 Argentine Primera División|1988–1989]], [[1993–94 Argentine Primera División#Torneo Clausura|1994 Clausura]], [[2002–03 Argentine Primera División#Torneo Apertura|2002 Apertura]]
+|-
+|align="center"|5
+| [[San Lorenzo de Almagro|San Lorenzo]] ||{{center|15}} ||  [[1923 Argentine Primera División|1923 <small>AAmF</small>]], [[1924 Argentine Primera División|1924 <small>AAmF</small>]], [[1927 Argentine Primera División|1927]], [[1933 Argentine Primera División|1933 <small>LAF</small>]], [[1936 Argentine Primera División|1936 (Copa de Honor)]],{{refn|group=note2|name=1936controv}} [[1946 Argentine Primera División|1946]], [[1959 Argentine Primera División|1959]], [[1968 Argentine Primera División#Campeonato Metropolitano|1968 Metropolitano]], [[1972 Argentine Primera División#Campeonato Metropolitano|1972 Metropolitano]], [[1972 Argentine Primera División#Campeonato Nacional|1972 Nacional]], [[1974 Argentine Primera División#Campeonato Nacional|1974 Nacional]], [[1994–95 Argentine Primera División#Torneo Clausura|1995 Clausura]], [[2000–01 Argentine Primera División#Torneo Clausura|2001 Clausura]], [[2006–07 Argentine Primera División#Torneo Clausura|2007 Clausura]], [[2013–14 Argentine Primera División season#Torneo Inicial|2013 Inicial]]
+|-
+| {{center|6}}
+| [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] ||{{center|11}} ||  [[1968 Argentine Primera División#Campeonato Nacional|1968 Nacional]], [[1992–93 Argentine Primera División#Torneo Clausura|1993 Clausura]], [[1995–96 Argentine Primera División#Torneo Apertura|1995 Apertura]], [[1995–96 Argentine Primera División#Torneo Clausura|1996 Clausura]], [[1997–98 Argentine Primera División#Torneo Clausura|1998 Clausura]], [[2004–05 Argentine Primera División#Torneo Clausura|2005 Clausura]], [[2008–09 Argentine Primera División#Torneo Clausura|2009 Clausura]], [[2010–11 Argentine Primera División season#Torneo Clausura|2011 Clausura]], [[2012–13 Argentine Primera División season#Torneo Inicial|2012 Inicial]], [[2012–13 Argentine Primera División season|2012–13 Superfinal]], [[2024 Argentine Primera División|2024]]
+|-
+| {{center|7}} || ''[[Alumni Athletic Club|Alumni]]'' ||{{center|10}} || [[1900 Argentine Primera División|1900]],{{refn|Under the name "English High School AC"|group=note2|name=oldname}} [[1901 Argentine Primera División|1901]], [[1902 Argentine Primera División|1902]], [[1903 Argentine Primera División|1903]], [[1905 Argentine Primera División|1905]], [[1906 Argentine Primera División|1906]], [[1907 Argentine Primera División|1907]], [[1909 Argentine Primera División|1909]], [[1910 Argentine Primera División|1910]], [[1911 Argentine Primera División|1911]]
+|-
+| {{center|8}}
+| [[Estudiantes de La Plata|Estudiantes (LP)]] ||{{center|7}} ||[[1913 Argentine Primera División|1913 <small>FAF</small>]], [[1967 Argentine Primera División#Campeonato Metropolitano|1967 Metropolitano]], [[1982 Argentine Primera División#Campeonato Metropolitano|1982 Metropolitano]], [[1983 Argentine Primera División#Campeonato Nacional|1983 Nacional]], [[2006–07 Argentine Primera División#Torneo Apertura|2006 Apertura]], [[2010-11 Argentine Primera División season#Torneo Apertura|2010 Apertura]], [[2025 AFA Liga Profesional de Fútbol#Torneo Clausura|2025 Clausura]]
+|-
+| {{center|9}}
+| [[Newell's Old Boys]] ||{{center|6}} ||[[1974 Argentine Primera División|1974 Metropolitano]], [[1987–88 Argentine Primera División|1987–88]], [[1990–91 Argentine Primera División|1990–91]], [[1991–92 Argentine Primera División#Torneo Clausura|1992 Clausura]], [[2004–05 Argentine Primera División#Torneo Apertura|2004 Apertura]], [[2012–13 Argentine Primera División season#Torneo Final|2013 Final]]
+|-
+| rowspan="3"| {{center|10}} || [[Club Atlético Huracán|Huracán]] ||{{center|5}} || [[1921 Argentine Primera División|1921]], [[1922 Argentine Primera División|1922]], [[1925 Argentine Primera División|1925]], [[1928 Argentine Primera División|1928]], [[1973 Argentine Primera División#Campeonato Metropolitano|1973 Metropolitano]]
+|-
+|  [[Rosario Central]] ||{{center|5}}|| [[1971 Argentine Primera División#Campeonato Nacional|1971 Nacional]], [[1973 Argentine Primera División#Campeonato Nacional|1973 Nacional]], [[1980 Argentine Primera División#Campeonato Nacional|1980 Nacional]], [[1986–87 Argentine Primera División|1986–87]], [[2025 AFA Liga Profesional de Fútbol#Aggregate table|2025 Liga]]  
+|-
+|''[[Lomas Athletic Club|Lomas Athletic]]'' ||align=center| 5 ||  [[1893 Argentine Primera División|1893]], [[1894 Argentine Primera División|1894]], [[1895 Argentine Primera División|1895]], [[1897 Argentine Primera División|1897]], [[1898 Argentine Primera División|1898]]
+|-
+| rowspan="2" |{{center|13}}
+| [[Argentinos Juniors]] || align="center" | 3 ||  [[1984 Argentine Primera División#Campeonato Metropolitano|1984 Metropolitano]], [[1985 Argentine Primera División#Campeonato Nacional|1985 Nacional]], [[2009–10 Argentine Primera División season#Torneo Clausura|2010 Clausura]]
+|-
+| ''[[Belgrano Athletic Club|Belgrano Athletic]]''|| align="center" | 3 ||  [[1899 Argentine Primera División|1899]], [[1904 Argentine Primera División|1904]], [[1908 Argentine Primera División|1908]]
+|-
+| rowspan="5" |{{center|15}}
+|''[[Estudiantil Porteño]]''||{{center|2}}||[[1931 Argentine Primera División|1931]], [[1934 Argentine Primera División|1934]]
+|-
+| [[Club Ferro Carril Oeste|Ferro Carril Oeste]]||{{center|2}}||  [[1982 Argentine Primera División#Campeonato Nacional|1982 Nacional]], [[1984 Argentine Primera División#Campeonato Nacional|1984 Nacional]]
+|-
+| [[Club Atlético Lanús|Lanús]] ||{{center|2}} || [[2007–08 Argentine Primera División season#Torneo Apertura|2007 Apertura]], [[2016 Argentine Primera División|2016]]
+|-
+| ''[[Club Atlético Porteño|Porteño]]'' ||{{center|2}} ||  [[1912 Argentine Primera División|1912 <small>FAF</small>]], [[1914 Argentine Primera División|1914 <small>FAF</small>]]
+|-
+| [[Quilmes Atlético Club|Quilmes]] ||{{center|2}} ||[[1912 Argentine Primera División|1912]], [[1978 Argentine Primera División#Campeonato Metropolitano|1978 Metropolitano]]
+|-
+| rowspan="11" |{{center|20}}
+| [[Arsenal de Sarandí|Arsenal]]|| align="center" | 1 ||  [[2011–12 Argentine Primera División season#Torneo Apertura|2012 Clausura]]
+|-
+| [[Club Atlético Banfield|Banfield]] ||{{center|1}} ||  [[2009–10 Argentine Primera División season#Torneo Apertura|2009 Apertura]]
+|-
+| [[Club Atlético Belgrano|Belgrano]] || {{center|1}}||  [[2026 AFA Liga Profesional de Fútbol|2026 Apertura]]
+|-
+| [[Chacarita Juniors]] ||{{center|1}} ||  [[1969 Argentine Primera División#Campeonato Metropolitano|1969 Metropolitano]]
+|-
+| [[Sportivo Dock Sud|Dock Sud]] ||{{center|1}} ||  [[1933 Argentine Primera División|1933]]
+|-
+| [[Gimnasia y Esgrima La Plata|Gimnasia y Esgrima (LP)]] ||{{center|1}} ||  [[1929 Argentine Primera División|1929]]
+|-
+|''[[Lomas Academy]]'' ||{{center|1}} || [[1896 Argentine Primera División|1896]]
+|-
+|''[[Old Caledonians Football Club|Old Caledonians]]'' || align="center" | 1  ||  [[1891 Argentine Primera División|1891]]
+|-
+| [[Club Atlético Platense|Platense]] || {{center|1}}||  [[2025 Argentine Primera División|2025 Apertura]]
+|-
+| [[Sportivo Barracas]] ||{{center|1}} ||   [[1932 Argentine Primera División|1932]]
+|-
+|''[[St. Andrew's Athletic Club|St. Andrew's]]'' ||{{center|1}}||  [[1891 Argentine Primera División|1891]]
+|}
+;Notes
+{{reflist|group=note2}}
+
+== Top scorers ==
+{{main|List of Argentine Primera División top scorers}}
+
+The all-time top scorer of Primera División Argentina is [[forward (association football)|forward]] [[Arsenio Erico]] with 295 goals.<ref name="Erico">{{Cite web|url=https://www.conmebol.com/noticias/arsenio-erico-un-paraguayo-cuya-dimension-futbolistica-pervive-en-el-tiempo/|title=
+Arsenio Erico, un paraguayo cuya dimensión futbolística pervive en el tiempo|trans-title=Arsenio Erico, a Paraguayan whose football dimension survives over time|date=30 March 2015|publisher=[[CONMEBOL]]|access-date=5 May 2024|language=spanish}}</ref> Most players on the all-time top scorers table had their golden age before the 1970s, with all of the top five all-time scorers having retired before 1973. The only player retired after that year in the top twenty list is [[Martín Palermo]], who played for [[Estudiantes de La Plata|Estudiantes (LP)]] and [[Boca Juniors]] in Primera División.
+
+== Records and facts ==
+{{main|Argentine Primera División records and statistics}}
+
+== Media coverage ==
+<!-- please add a "main" tag when the article has been created {{main|List of Argentine Primera División broadcasters}} -->
+In Argentina, matches are broadcast by [[United States|American]] companies [[ESPN (Latin America)|ESPN]] and [[Turner Broadcasting System|Turner]], which signed a contract for 5 years where both companies agreed to pay [[Argentine Peso|A$]] 3,200 million per year. Local company [[Torneos y Competencias|Torneos]], who was formerly the official broadcaster of the Argentine championship from 1985 until 2009, will take over the content production of the games for Fox and La Corte will handle content production for Turner while [[Cablevisión (Argentina)|Cablevisión]], [[DirecTV]] and Telecentro will be the TV operators.<ref name=tv2017/><ref>{{cite news|title=Ya están las ofertas por los derechos de TV del fútbol argentino|url=http://www.goal.com/es-ar/news/4459/f%C3%BAtbol-internacional/2017/02/20/32891952/ya-est%C3%A1n-las-ofertas-por-los-derechos-de-tv-del-f%C3%BAtbol|access-date=23 February 2017|archive-date=23 February 2017|archive-url=https://web.archive.org/web/20170223085216/http://www.goal.com/es-ar/news/4459/f%C3%BAtbol-internacional/2017/02/20/32891952/ya-est%C3%A1n-las-ofertas-por-los-derechos-de-tv-del-f%C3%BAtbol|url-status=live}}</ref>
+
+Until the agreement with Fox and Turner was signed, Argentine football matches were broadcast nationally by [[El Trece]], [[Telefe]], [[America TV]], and [[TV Pública Digital (Argentina)|Channel 7]]. Games were free in [[Argentina]] from 2009 to 2016 thanks to the "Fútbol para Todos" (''Football for Everyone'') program, when the [[Government of Argentina|National Government]] and AFA decided rescind the agreement. The Government paid A$9,500 million for 7 years.<ref>{{cite news|title=Sin Fútbol para Todos, la TV del fútbol argentino es una incógnita|url=http://www.cronista.com/economiapolitica/El-fin-de-Futbol-para-Todos-al-Gobierno-le-costo--5-millones-por-dia-en-2016-20170103-0041.html|access-date=9 January 2017|archive-date=9 January 2017|archive-url=https://web.archive.org/web/20170109184218/http://www.cronista.com/economiapolitica/El-fin-de-Futbol-para-Todos-al-Gobierno-le-costo--5-millones-por-dia-en-2016-20170103-0041.html|url-status=live}}</ref>
+
+The league attracts television audiences beyond [[South America]], [[Europe]], [[Africa]] and [[MENA]]. The matches are broadcast in over 80 countries. In Latin America the matches are broadcast live by [[ESPN]] (three matches per week), [[TyC Sports|TyC Sports International]] (all the matches per week) and another streaming platforms like [[Prende TV]], [[Star+]] and Fanatiz (together with AFA Play). In the United States, the matches are streamed on [[Paramount+]] since 2021.<ref>{{Cite web|url=https://www.sportspromedia.com/news/paramount-plus-us-soccer-streaming-rights-concacaf-viacom-cbs|title=Paramount+ adds Concacaf soccer rights ahead of US launch - SportsPro Media|date=25 February 2021 |access-date=2021-02-25|archive-date=2021-02-27|archive-url=https://web.archive.org/web/20210227174656/https://www.sportspromedia.com/news/paramount-plus-us-soccer-streaming-rights-concacaf-viacom-cbs|url-status=live}}</ref> [[BeIN Sports]] broadcasts the games live in France [[Dubai Sports]] broadcasts the games live in MENA regions. [[ITV (TV network)|ITV]] showed highlights on a regional basis with the introduction of overnight broadcasting in 1988–89. [[Channel 5 (UK)|Channel 5]] showed highlights from 1999 to 2003, while [[Premier Sports]] showed live games across 2011 and 2012.
+
+In the United States, in the 2004–05 season, [[ESPN Deportes]] (instead of Fox Sports networks), broadcast some matches from ''El Clásico del Domingo'' (Like other football competitions as [[German Bundesliga|Bundesliga]], [[Ligue 1]] or [[Copa Libertadores]]).
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+* {{official website}} {{in lang|es}}
+
+{{Argentine Primera División}}
+{{navboxes
+|titlestyle= background:#ccccff
+|list = 
+{{Argentine Primera División venues}}
+{{Primera División de Argentina managers}}
+{{Argentine Primera División winning managers}}
+{{Argentine Primera División top scorers}}
+{{Argentine Primera División former clubs}}
+{{Original Argentine Primera División clubs}}
+{{Top sport leagues in Argentina}}
+{{CONMEBOL leagues}}
+{{Football in Argentina}}
+}}
+
+{{DEFAULTSORT:Argentine Primera Division}}
+[[Category:Argentine Primera División| ]]
+[[Category:1891 establishments in Argentina]]
+[[Category:Football leagues in Argentina|1]]
+[[Category:Professional football leagues in Argentina]]
+[[Category:Argentine Football Association competitions]]
+[[Category:Sports leagues established in 1891]]
+[[Category:Top-level domestic association football leagues in South America|Argentina]]
