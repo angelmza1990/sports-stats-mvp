@@ -719,6 +719,7 @@ h3.sub {
 .controls > select {
   font: inherit;
   font-size: 14px;
+  max-width: 100%; /* long option names would otherwise set the width */
   background: var(--surface-raised);
   color: var(--ink);
   border: 1px solid var(--border);
