@@ -413,6 +413,14 @@ svg .badge-text {
   font-size: 14px;
 }
 
+.rank-head > span,
+.rank-row > .num:last-child {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis; /* a wide header never pushes the page sideways */
+  white-space: nowrap;
+}
+
 .rank-head {
   font-size: 12px;
   font-weight: 600;
