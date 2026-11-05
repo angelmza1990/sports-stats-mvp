@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Majors · Golf</title>
+  <meta name="description" content="Every winner of the four men's major golf championships, the Masters, the U.S. Open, The Open and the PGA Championship: a race of majors by golfer and nation, the most successful, the career Grand Slam and the best seasons.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/champions.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Golf</p>
+    <h1>Golf's majors</h1>
+    <p class="lede">
+      Every champion of the four men's majors: The Open since 1860, the U.S. Open since 1895, the PGA Championship since 1916 and the Masters since 1934. Jack Nicklaus won 18, Tiger Woods 15.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most wins</h2>
+        <p>Majors won, year by year, by golfer or by nation, in one major or all four.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Competition" id="race-comp"></div>
+          <div class="segmented" role="tablist" aria-label="Count wins by" id="race-metric"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Year">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="leaders">
+      <div class="block-head">
+        <h2>The most successful</h2>
+        <p>The golfers and nations with the most majors, in all four or in one.</p>
+      </div>
+      <div class="controls"><div class="segmented" role="tablist" aria-label="Competition" id="leaders-comp"></div></div>
+      <div class="grid-2">
+        <div class="card">
+          <div class="data-table tall with-sub" id="people-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Nations</h3>
+          <div id="nations-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="extras">
+      <div class="block-head">
+        <h2>The career Grand Slam and the best seasons</h2>
+        <p id="extras-lede">The golfers who won all four majors, and the most majors in one year.</p>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">The career Grand Slam</h3>
+          <div class="data-table with-sub" id="slam-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Most majors in one year</h3>
+          <div class="data-table tall with-sub" id="seasons-table"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="winners">
+      <div class="block-head">
+        <h2>Every winner</h2>
+        <p>Most recent first.</p>
+      </div>
+      <div class="controls"><div class="segmented" role="tablist" aria-label="Competition" id="winners-comp"></div></div>
+      <div class="card">
+        <div class="data-table tall with-sub" id="winners-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> Wikipedia (CC BY-SA 4.0): <a href="https://en.wikipedia.org/wiki/Chronological_list_of_men's_major_golf_champions">Chronological list of men's major golf champions</a>, checked golfer by golfer against <a href="https://en.wikipedia.org/wiki/List_of_men's_major_championships_winning_golfers">List of men's major championships winning golfers</a>. Updated automatically twice a year. <span id="data-through"></span></p>
+    <p><strong>Notes:</strong> The four majors as they are counted today; the U.S. Amateur and The Amateur Championship, once counted by some, are left out. Nations are the golfer's own (England, Scotland, Wales and Northern Ireland separately).</p>
+    <p>This project is not affiliated with Augusta National, the USGA, The R&amp;A or the PGA of America. Flags by <a href="https://flagpedia.net">Flagpedia</a>.</p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="../../assets/champions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -40,7 +40,8 @@
     { sport: "ice-hockey", label: "NHL", pages: [["ice-hockey/stanley-cup/", "Stanley Cup"], ["ice-hockey/nhl-rivalries/", "NHL Rivalries"]] },
     { sport: "baseball", label: "MLB", pages: [["baseball/world-series/", "World Series"]] },
     { sport: "chess", label: "Chess", pages: [["chess/", "Chess"], ["chess/rivalries/", "Chess Rivalries"]] },
-    { sport: "motorsport", label: "Motorsport", pages: [["motorsport/formula-1/", "Formula 1"], ["motorsport/tc2000/", "TC2000"]] },
+    { sport: "motorsport", label: "Motorsport", pages: [["motorsport/formula-1/", "Formula 1"], ["motorsport/motogp/", "MotoGP"], ["motorsport/dakar/", "Dakar Rally"], ["motorsport/tc2000/", "TC2000"]] },
+    { sport: "cycling", label: "Cycling & golf", pages: [["cycling/grand-tours/", "Grand Tours"], ["golf/majors/", "Golf Majors"]] },
   ];
   // Sport accents follow the page's first folder (swimming pages count as Olympics in the menu).
   const here = location.href.startsWith(SITE.href) ? location.href.slice(SITE.href.length).replace(/index\.html$/, "").split(/[?#]/)[0] : "";

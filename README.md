@@ -335,6 +335,24 @@ Also: **how every title was won** (the champion's margin as a share of his point
 
 Argentina's touring-car championship since 1979, counting the Súper TC2000 years (2012–2021) as the category does: a bar chart race of titles by driver, make and team, the champion's make season by season, every champion with the car, team and wins that year, titles by driver, make, team and province, the all-time race winners and pole sitters with their first and last, the current season's wins and poles, and the Súper TC2000 teams' champions.
 
+### 🏍️ [MotoGP](https://angelmza1990.github.io/sports-stats-mvp/motorsport/motogp/)
+
+Every premier-class world champion since 1949 (500cc, then MotoGP from 2002): a race of titles by rider, nation or constructor, the most successful, the most dominant seasons (the share of Grands Prix the champion won) and every champion.
+
+### 🏜️ [Dakar Rally](https://angelmza1990.github.io/sports-stats-mvp/motorsport/dakar/)
+
+Every winner since 1979 in cars, bikes, trucks and quads: a race of wins by driver or rider, nation or make, in one category or all, the most successful, the winners in more than one category (Peterhansel, six on a bike and eight in a car), every Argentine win and every winner with the vehicle.
+
+### 🚴 [Grand Tours](https://angelmza1990.github.io/sports-stats-mvp/cycling/grand-tours/)
+
+Every general classification winner of the Tour de France, the Giro d'Italia and the Vuelta a España: a race of wins by rider or nation, the most successful in all three or in one, the doubles in one season, the riders who won all three, the closest finishes and every winner with the margin.
+
+### ⛳ [Golf Majors](https://angelmza1990.github.io/sports-stats-mvp/golf/majors/)
+
+Every champion of the four men's majors (The Open since 1860, the U.S. Open, the PGA Championship and the Masters): a race of majors by golfer or nation, the most successful, the career Grand Slam, the most majors in one year and every champion.
+
+The four winners pages share one front end (`assets/champions.js`) and one builder (`scripts/build_champions.py`), which reads each sport's Wikipedia lists and checks every winner's count against the totals the same pages publish.
+
 ## How it works
 
 ```
@@ -394,6 +412,7 @@ Argentina's touring-car championship since 1979, counting the Súper TC2000 year
 │   ├── build_rivalries.py        # Great rivalries (54), with one source module per country (rivalries_*.py)
 │   ├── build_f1.py               # Formula 1 pipeline
 │   ├── build_tc2000.py           # TC2000 pipeline (Spanish Wikipedia + the category's statistics)
+│   ├── build_champions.py        # Grand Tours, golf majors, MotoGP and Dakar winners (Wikipedia)
 │   ├── build_atp_records.py      # ATP and WTA career records pipeline
 │   ├── build_tour_finals.py      # ATP and WTA Finals: editions, matches, hosts
 │   ├── build_number_ones.py      # Every spell at world No. 1 (ATP and WTA)
@@ -451,6 +470,7 @@ python3 scripts/build_world_cup.py --refresh  # football: FIFA World Cup
 python3 scripts/build_rivalries.py --refresh  # football: the 83 great rivalries, match by match
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_tc2000.py --refresh     # motorsport: TC2000
+python3 scripts/build_champions.py --refresh  # Grand Tours, golf majors, MotoGP and the Dakar
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
 python3 scripts/build_tennis_ages.py --refresh  # tennis: age records (after build_grand_slams.py)
 python3 scripts/build_number_ones.py --refresh  # tennis: every spell at world No. 1

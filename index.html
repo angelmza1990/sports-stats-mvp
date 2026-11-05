@@ -87,6 +87,8 @@
     <symbol id="i-knight" viewBox="0 0 24 24"><path d="M7 21h11M8.5 21c.2-3 1.6-4.8 3.6-6.3-2.1.6-4.2-.1-5.1-1.6l3.4-3.2c-.4-2 .5-4.4 2.6-5.9l1 2c3 1 4.6 4 4.6 8.2V21"/><path d="M12.6 8.6h.01"/></symbol>
     <symbol id="i-flag" viewBox="0 0 24 24"><path d="M5 21V4M5 4.5h13l-2.4 3.8L18 12H5"/></symbol>
     <symbol id="i-gauge" viewBox="0 0 24 24"><path d="M4 17a8 8 0 1 1 16 0M12 17l4.2-5.2M4 17h16"/></symbol>
+    <symbol id="i-bike" viewBox="0 0 24 24"><circle cx="6" cy="16" r="4"/><circle cx="18" cy="16" r="4"/><path d="M6 16l4-8h5l3 8M10 8l2 8h-6M14 5h3"/></symbol>
+    <symbol id="i-golf" viewBox="0 0 24 24"><path d="M9 21V3l8 3.5L9 10M5 21h10"/></symbol>
   </svg>
   <header class="wrap home-hero">
     <p class="kicker">Portfolio · Data visualization</p>
@@ -790,8 +792,8 @@
     <section class="sport" data-sport="motorsport" id="motorsport">
       <div class="sport-head">
         <h2>Motorsport</h2>
-        <p>Every Formula 1 world champion, and Argentina's TC2000.</p>
-        <span class="count">2 pages</span>
+        <p>Every Formula 1 and MotoGP world champion, every Dakar winner, and Argentina's TC2000.</p>
+        <span class="count">4 pages</span>
       </div>
       <div class="gallery">
         <a class="tile" href="motorsport/formula-1/">
@@ -803,6 +805,24 @@
             <p>Every World Champion since 1950: races of drivers', constructors' and nations' titles, plus the all-time Grand Prix winners.</p>
           </div>
         </a>
+        <a class="tile" href="motorsport/motogp/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-flag"/></svg>
+            <div class="stat" data-stat="motogp"><strong>8</strong><span>Agostini titles</span></div>
+          </div>
+          <div class="body">
+            <h3>MotoGP</h3>
+            <p>Every premier-class world champion since 1949, 500cc and MotoGP: races of titles by rider, nation and constructor, and the most dominant seasons.</p>
+          </div>
+        </a>
+        <a class="tile" href="motorsport/dakar/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-flag"/></svg>
+            <div class="stat" data-stat="dakar"><strong>14</strong><span>Peterhansel wins</span></div>
+          </div>
+          <div class="body">
+            <h3>Dakar Rally</h3>
+            <p>Every winner since 1979 in cars, bikes, trucks and quads: wins by driver, nation and make, winners in more than one category and every Argentine win.</p>
+          </div>
+        </a>
         <a class="tile" href="motorsport/tc2000/">
           <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-gauge"/></svg>
             <div class="stat" data-stat="tc2000"><strong>7</strong><span>Traverso titles</span></div>
@@ -810,6 +830,34 @@
           <div class="body">
             <h3>TC2000</h3>
             <p>Argentina's touring-car champions since 1979: races of titles by driver, make and team, the eras of each make, all-time wins and poles, and the current season.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <section class="sport" data-sport="cycling" id="cycling">
+      <div class="sport-head">
+        <h2>Cycling and golf</h2>
+        <p>Every Grand Tour winner since 1903 and every men's major champion since 1860.</p>
+        <span class="count">2 pages</span>
+      </div>
+      <div class="gallery">
+        <a class="tile" href="cycling/grand-tours/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-bike"/></svg>
+            <div class="stat" data-stat="grandtours"><strong>11</strong><span>Merckx wins</span></div>
+          </div>
+          <div class="body">
+            <h3>Grand Tours</h3>
+            <p>Every winner of the Tour de France, the Giro and the Vuelta: wins by rider and nation, doubles, the riders who won all three and the closest finishes.</p>
+          </div>
+        </a>
+        <a class="tile" href="golf/majors/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-golf"/></svg>
+            <div class="stat" data-stat="golf"><strong>18</strong><span>Nicklaus majors</span></div>
+          </div>
+          <div class="body">
+            <h3>Golf Majors</h3>
+            <p>Every champion of the Masters, the U.S. Open, The Open and the PGA Championship: majors by golfer and nation, the career Grand Slam and the best seasons.</p>
           </div>
         </a>
       </div>
@@ -891,6 +939,10 @@
         mls: ["football/mls/data/mls.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} MLS Cups`]; }],
         colombia: ["football/colombian-primera/data/colombian-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
         chile: ["football/chilean-primera/data/chilean-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
+        motogp: ["motorsport/motogp/data/champions.json", (d) => { const [id, n] = most(d.events, (e) => e.winner); return [String(n), `${d.people[id].name.split(" ").slice(-1)[0]} titles`]; }],
+        dakar: ["motorsport/dakar/data/champions.json", (d) => { const [id, n] = most(d.events, (e) => e.winner); return [String(n), `${d.people[id].name.split(" ").slice(-1)[0]} wins`]; }],
+        grandtours: ["cycling/grand-tours/data/champions.json", (d) => { const [id, n] = most(d.events, (e) => e.winner); return [String(n), `${d.people[id].name.split(" ").slice(-1)[0]} wins`]; }],
+        golf: ["golf/majors/data/champions.json", (d) => { const [id, n] = most(d.events, (e) => e.winner); return [String(n), `${d.people[id].name.split(" ").slice(-1)[0]} majors`]; }],
         portugal: ["football/primeira-liga/data/primeira-liga.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
         netherlands: ["football/eredivisie/data/eredivisie.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
         scotland: ["football/scottish-premiership/data/scottish-premiership.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],

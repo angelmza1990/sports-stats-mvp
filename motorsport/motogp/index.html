@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MotoGP · Motorsport</title>
+  <meta name="description" content="Every world champion of the premier class of Grand Prix motorcycle racing, the 500cc and MotoGP, since 1949: a race of titles by rider, nation and constructor, the most successful and the most dominant seasons.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/champions.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Motorsport</p>
+    <h1>MotoGP</h1>
+    <p class="lede">
+      Every world champion of the premier class, the 500cc from 1949 and MotoGP since 2002: Giacomo Agostini won eight, Valentino Rossi and Marc Márquez seven each.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most wins</h2>
+        <p>World titles, season by season, by rider, nation or the champion's constructor.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          
+          <div class="segmented" role="tablist" aria-label="Count wins by" id="race-metric"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Year">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="leaders">
+      <div class="block-head">
+        <h2>The most successful</h2>
+        <p>The riders, nations and constructors with the most premier-class titles.</p>
+      </div>
+      <div class="controls"></div>
+      <div class="grid-2">
+        <div class="card">
+          <div class="data-table tall with-sub" id="people-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Nations</h3>
+          <div id="nations-list"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Constructors</h3>
+          <div id="teams-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="extras">
+      <div class="block-head">
+        <h2>The most dominant seasons</h2>
+        <p id="extras-lede">The champions who won the biggest share of the season's Grands Prix.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall with-sub" id="dominant-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="winners">
+      <div class="block-head">
+        <h2>Every winner</h2>
+        <p>Most recent first.</p>
+      </div>
+      <div class="controls"></div>
+      <div class="card">
+        <div class="data-table tall with-sub" id="winners-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> Wikipedia (CC BY-SA 4.0): <a href="https://en.wikipedia.org/wiki/List_of_500cc/MotoGP_World_Riders'_Champions">List of 500cc/MotoGP World Riders' Champions</a>, checked rider by rider against the titles table on the same page. Updated automatically twice a year. <span id="data-through"></span></p>
+    <p><strong>Notes:</strong> The premier class only (500cc until 2001, MotoGP since 2002); the smaller classes have champions of their own. The constructor is the champion's motorcycle.</p>
+    <p>This project is not affiliated with Dorna Sports, MotoGP or the FIM. Flags by <a href="https://flagpedia.net">Flagpedia</a>.</p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="../../assets/champions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

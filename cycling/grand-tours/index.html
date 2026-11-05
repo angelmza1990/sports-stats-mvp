@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Grand Tours · Cycling</title>
+  <meta name="description" content="Every general classification winner of the Tour de France, the Giro d'Italia and the Vuelta a España: a race of wins by rider and nation, the most successful, the closest finishes, doubles and the riders who won all three.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/champions.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Cycling</p>
+    <h1>The Grand Tours</h1>
+    <p class="lede">
+      Every winner of cycling's three-week stage races: the Tour de France since 1903, the Giro d'Italia since 1909 and the Vuelta a España since 1935. Eddy Merckx won eleven of them; only a handful of riders have won all three.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="race">
+      <div class="block-head">
+        <h2>The race for the most wins</h2>
+        <p>General classification wins, year by year, by rider or by nation, in one Grand Tour or all three.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Competition" id="race-comp"></div>
+          <div class="segmented" role="tablist" aria-label="Count wins by" id="race-metric"></div>
+          <div class="race-date" id="race-date"></div>
+        </div>
+        <div id="race-chart" class="chart"></div>
+        <p class="race-ticker" id="race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="race-play" aria-label="Play">▶</button>
+          <input type="range" id="race-scrub" min="0" max="0" value="0" aria-label="Year">
+          <select id="race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="leaders">
+      <div class="block-head">
+        <h2>The most successful</h2>
+        <p>The riders and nations with the most Grand Tour wins, in all three or in one.</p>
+      </div>
+      <div class="controls"><div class="segmented" role="tablist" aria-label="Competition" id="leaders-comp"></div></div>
+      <div class="grid-2">
+        <div class="card">
+          <div class="data-table tall with-sub" id="people-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Nations</h3>
+          <div id="nations-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="extras">
+      <div class="block-head">
+        <h2>Doubles, the triple crown and the closest finishes</h2>
+        <p id="extras-lede">Riders who won two Grand Tours in one season, those who won all three in their career, and the smallest winning margins.</p>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">Two Grand Tours in one season</h3>
+          <div class="data-table tall with-sub" id="doubles-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Winners of all three</h3>
+          <div class="data-table with-sub" id="triple-table"></div>
+        </div>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <h3 class="sub">The closest finishes</h3>
+        <div class="data-table tall with-sub" id="closest-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="winners">
+      <div class="block-head">
+        <h2>Every winner</h2>
+        <p>Most recent first.</p>
+      </div>
+      <div class="controls"><div class="segmented" role="tablist" aria-label="Competition" id="winners-comp"></div></div>
+      <div class="card">
+        <div class="data-table tall with-sub" id="winners-table"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> Wikipedia (CC BY-SA 4.0): <a href="https://en.wikipedia.org/wiki/List_of_Tour_de_France_general_classification_winners">List of Tour de France general classification winners</a>, <a href="https://en.wikipedia.org/wiki/List_of_Giro_d'Italia_general_classification_winners">List of Giro d'Italia general classification winners</a> and <a href="https://en.wikipedia.org/wiki/List_of_Vuelta_a_España_general_classification_winners">List of Vuelta a España general classification winners</a>; every rider's count is checked against the totals on the same pages. Updated automatically twice a year. <span id="data-through"></span></p>
+    <p><strong>Notes:</strong> Titles stripped for doping are left out as the organisers do: the Tour has no winner from 1999 to 2005 (Lance Armstrong), and the 2011 Vuelta counts for Chris Froome after Juan José Cobo was stripped of it. Nations are the rider's at the time (West Germany, the Soviet Union).</p>
+    <p>This project is not affiliated with the Amaury Sport Organisation, RCS Sport or the UCI. Flags by <a href="https://flagpedia.net">Flagpedia</a>.</p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="../../assets/champions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

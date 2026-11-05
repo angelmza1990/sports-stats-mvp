@@ -48,6 +48,8 @@
   --baseball: #a3302a;
   --boxing: #b91c1c;
   --chess: #8a5a2b;
+  --cycling: #b07d00;
+  --golf: #2e7d32;
 
   /* Medal colors */
   --gold: #c9971a;
@@ -89,6 +91,10 @@
     --baseball: #e0726a;
     --boxing: #ef4444;
     --chess: #d29a5c;
+  --cycling: #e0b030;
+  --golf: #62bf66;
+    --cycling: #e0b030;
+    --golf: #62bf66;
     --gold: #d6a730;
     --silver: #a9aeb5;
     --bronze: #c07a45;
@@ -148,6 +154,8 @@
 [data-sport="american-football"] { --sport: var(--american-football); }
 [data-sport="ice-hockey"] { --sport: var(--ice-hockey); }
 [data-sport="baseball"] { --sport: var(--baseball); }
+[data-sport="cycling"] { --sport: var(--cycling); }
+[data-sport="golf"] { --sport: var(--golf); }
 
 *,
 *::before,

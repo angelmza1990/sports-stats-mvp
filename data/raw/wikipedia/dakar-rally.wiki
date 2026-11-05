@@ -1,0 +1,2236 @@
+{{short description|Off-road rally raid}}
+{{redirect|Paris-Dakar Rally|the video game|Paris-Dakar Rally (video game)}}
+{{Infobox motorsport championship
+| logo            = Dakar logo.svg{{!}}class=skin-invert
+| image-size      = 180px
+| caption         =
+| category        = [[Rally raid]]
+| region          = {{nowrap|Europe and Africa}} (1979–2007, 2027–present) <br />South America (2009–2019)<br />Saudi Arabia & Middle East (2020–2026)
+| inaugural       = 1979
+| folded          =
+| drivers         =
+| teams           =
+| champion driver = {{nowrap|{{flagicon|QAT}} [[Nasser Al-Attiyah]] (Cars)<br />{{flagicon|ARG}} [[Luciano Benavides]] (Bikes)<br />{{flagicon|LIT}} [[Vaidotas Žala]] (Trucks)<br />{{flagicon|ESP}} Pau Navarro (Challenger (T3))<br />{{flagicon|USA}} [[Brock Heger]] (SSV (T4))<br />{{flagicon|LIT}} [[Karolis Raišys]] ([[Dakar Classic|Classics]])<br />{{flagicon|ESP}} [[Jordi Juvanteny]] (Mission 1000)}}
+| website         = {{URL|https://www.dakar.com/en/|dakar.com}}
+| current_season  = 2026 Dakar Rally
+}}
+{{multiple image
+| align             = right
+| direction         = vertical
+| image1            = Paris - Dakar route (1981) ru.svg
+| caption1          = The Paris – Dakar route for the 1981 edition
+| image2            = Thierry Sabine 2.jpg
+| caption2          = [[Thierry Sabine]], founder of the Dakar Rally, pictured in 1986
+| image3            = Routes mythiques, Paris Motor Show 2018, Paris (1Y7A1934).jpg
+| caption3          = 1981 Dakar competitor [[Rolls-Royce Corniche]].
+| image4            = Dakar Africa Rally countries.svg
+| caption4          = Countries the rally has been through from 1979 to 2007. Orange countries were only travelled through in the 1992 race to [[Cape Town]]; that year, participants used maritime transport to get from the [[Republic of the Congo]] to [[Angola]], bypassing [[Zaire]].
+| image5            = Dakar Rally South America countries.svg
+| caption5          = Countries through which the Dakar Rally has been from 2009 to 2018 since it was moved from the previous Paris-Dakar route due to security concerns. Cities included are major start/end points.
+| image6            = Dakar traces mauritanie.jpg
+| caption6          = Tracks through the [[Sahara]] desert in [[Mauritania]]
+| image7            = Dakar-rally-paris-1992.jpg
+| caption7          = Cars on display in 1992 in Paris
+| image8            = Camion dakar.jpg
+| caption8          = A support truck during the 2004 Dakar
+| image9            = Dakar Rally 2011 prize.JPG
+| caption9          = 2011 Dakar Rally personal main prize (trucks T4)
+}}
+
+The '''Dakar Rally''' ({{langx|fr|Le Rallye Dakar}}) or simply "'''The Dakar'''" ({{langx|fr|Le Dakar|links=no|label=none}}), formerly known as the '''Paris–Dakar Rally''' ({{langx|fr|Le Rallye Paris-Dakar|links=no|label=none}}), is an annual [[Rallying|rally]] organised by the [[Amaury Sport Organisation]] (ASO). It is a [[rally raid]], an off-road endurance race, traversing terrains notably more demanding than prepared roads used in [[Off-road racing|traditional stage rally competitions]], and the [[off-road vehicles|vehicles]] used are purposefully built to perform [[off-road]]: cars, [[Group T5|trucks]], [[quad bike|quads]] and [[Enduro motorcycle|motorcycles]] intentionally designed to endure cross‑country journeys on [[Unpaved road|unpaved terrain]]. Most timed competitive segments, known as {{gloss|special stages}}, consist of crossing [[dune]]s, [[Mud bogging|mud]], [[Cymbopogon schoenanthus|camel grass]], [[Rock crawling|rocks]], and [[erg (landform)|erg]]. Individual stages range in length from several dozen kilometres to as much as {{convert|800|{{en dash}}|900|km}} per day. Hallmarks of the Dakar Rally are the [[exertion|physical]] and [[cognitive demand|cognitive]] demands of prolonged driving, [[Land navigation|navigation]] and [[Allostatic load|environmental stressors]] that the competitors are subjected to. Insufficient [[Procedural knowledge|experience]] with [[Desert racing|desert navigation]], mechanical [[troubleshooting]] or endurance racing techniques, combined with the [[Directed attention fatigue|fatigue]] and the rough terrain, often result in accidents and serious injuries.
+
+The event began in 1978 as a rally from [[Paris]], [[France]], to [[Dakar]], [[Senegal]]. Between 1992 and 2007 some editions did not start in Paris or did not arrive in Dakar, but the rally kept its name. Security threats in [[Mauritania]] led to the cancellation of the [[2008 Dakar Rally|2008 rally]], and from 2009 to 2019 the rally was held in [[South America]].<ref>{{cite news|url=http://www.clutchandchrome.com/News/0901/News0901005.htm |title=Motorcycle competitors race away as Dakar Rally leaves Buenos Aires |date=2009-01-03 |publisher=Clutch & Chrome |access-date=2009-01-03 |url-status=dead |archive-url=https://web.archive.org/web/20090120210942/http://www.clutchandchrome.com/News/0901/News0901005.htm |archive-date=January 20, 2009 }}</ref><ref>{{cite news |date=2009-02-24 |title=Dakar in Argentia, Chile and Peru |url=https://www.dakar.com/2010/DAK/presentation/us/r3_1-news.html#art27615 |access-date=2009-03-05 |publisher=ASO}}</ref><ref name="autosport.com">{{cite news| url=http://www.autosport.com/news/report.php/id/82314 |title=Dakar stays in South America for 2011 | work=Autosport | date=2010-03-23}}</ref> Since 2020, the rally has been held in [[Saudi Arabia]]. The rally is open to amateurs and professionals, with professionals typically making up about eighty percent of participants. Since 2022, it is part of the [[World Rally-Raid Championship]] (W2RC) calendar.
+
+== History ==
+
+===Predecessors===
+
+The Mediterranean Rally (also known as [[Algiers-Cape Town Rally]]) was a trans-Africa rally run in 5 editions between 1951 and 1961.<ref>{{cite web|url=http://crankhandleclub.co.za/wp-content/uploads/2017/11/201712CHC-trans-africa-rallies.pdf|title=The Trans-Africa Rallies|publisher=crankhandleclub.co.za |date=2017-12-12 |access-date=2022-04-01}}</ref> It evolved from the original mixed road and off-road rally to a fully off-road endurance event, during the pioneer years of trans-Africa rallies.
+
+===Crossing the Sahara===
+The race originated in December 1977, a year after [[Thierry Sabine]] got lost in the [[Ténéré desert]] whilst competing in the 1975 "Rallye Côte-Côte" between Abidjan and Nice<ref>{{cite web|url=https://www.nicematin.com/insolite/quatre-choses-que-vous-ignorez-sans-doute-sur-le-raid-abidjan-nice-lancetre-du-dakar-198909?t=MzdhNGU3ZWM0MjE0MmUzZmI1MGQ4MjNiMDdlODczNGZfMTYwMDgxNjk2NDI5N18xOTg5MDk%3D&tp=viewpay|title=Four things you probably didn't know about the Abidjan-Nice raid, the ancestor of the Dakar|first=Benoit|last=Guglielmi|date=12 January 2018|publisher=Nice Matin| archive-url = https://web.archive.org/web/20180112133733/https://www.nicematin.com/insolite/quatre-choses-que-vous-ignorez-sans-doute-sur-le-raid-abidjan-nice-lancetre-du-dakar-198909 | archive-date = 2018-01-12 | language=fr}}</ref> and decided that the desert would be a good location for a regular rally, on the lines of the [[1974 London–Sahara–Munich World Cup Rally]], the first automobile race to cross the [[Sahara Desert]] twice.<ref name="History">{{cite web|url=https://www.dakar.com/dakar/2014/us/history.html|title=History|publisher=Dakar.com |access-date=2014-01-07}}</ref><ref name=WC>{{Cite web|url=http://www.londoncapetownrally.com/worldcups.html|title=The E.R.A. – London to Cape Town Rally – World Cup Rally Series|website=www.londoncapetownrally.com}}</ref>
+
+In 1971, ex-[[Cream (band)|Cream]] drummer [[Ginger Baker]] used the unproven [[Range Rover]] to drive from [[Algeria]] to [[Lagos, Nigeria]] to set up a recording studio and jam with [[Fela Kuti]]. Predating the Paris-Dakar Rally the subsequent documentary is replete with such terrain, and documents the vehicle's endurance.<ref>Ginger Baker in Africa (1971) https://www.youtube.com/watch?v=80LfQZUxeP0</ref>
+
+===Early growth===
+182 vehicles took the start of the [[1979 Dakar Rally|inaugural rally]] in Paris, with 74 surviving the {{convert|10,000|km|adj = on}} trip to the [[Senegal]]ese capital of [[Dakar]]. [[Cyril Neveu]] was the event's first winner, riding a [[Yamaha Motor Company|Yamaha]] motorcycle. The event rapidly grew in popularity, with 216 vehicles taking the start in [[1980 Dakar Rally|1980]] and 291 in [[1981 Dakar Rally|1981]].<ref name="retrospective">{{cite web|url=http://netstorage.lequipe.fr/ASO/dakar/2015/historique/historique-dakar-1979-2014_fr.pdf|title=Dakar: Retrospective, 1979-2014|publisher=Dakar.com|access-date=2016-01-16|archive-url=https://web.archive.org/web/20160303215219/http://netstorage.lequipe.fr/ASO/dakar/2015/historique/historique-dakar-1979-2014_fr.pdf|archive-date=2016-03-03|url-status=dead}}</ref> The [[privateer]] spirit of early racers tackling the event with limited resources encouraged such entrants as Thierry de Montcorgé in a Rolls-Royce and [[Formula One|Formula 1]] driver [[Jacky Ickx]] with actor [[Claude Brasseur]] in a [[Citroën CX]], in the 1981 race won by two-time winner [[Hubert Auriol]].<ref name="History"/>
+
+In [[1982 Dakar Rally|1982]], there were 382 racers, more than double the number that took the start in 1979. Neveu won the event for a third time, this time riding a [[Honda]] motorcycle, while victory in the car class went to the Marreau brothers, driving a privately entered [[Renault 20]]. Auriol captured his second bikes class victory in 1983, the first year that Japanese manufacturer [[Mitsubishi Motors|Mitsubishi]] competed in the rally, beginning an association that would last until 2009.
+
+At the behest of 1983 car class winner Jacky Ickx, [[Porsche]] entered the Dakar in [[1984 Dakar Rally|1984]], with the total number of entries now at 427.<ref name="retrospective"/> The German marque won the event at their first attempt courtesy of [[René Metge]], who had previously won in the car category in 1981, whilst Ickx finished sixth. [[Gaston Rahier]] meanwhile continued BMW's success in the motorcycle category with back-to-back wins in 1984 and [[1985 Dakar Rally|1985]], the year of Mitsubishi's first victory of 12 in the car category, {{ill|Patrick Zaniroli|fr}} taking the spoils. The [[1986 Dakar Rally|1986 event]], won by Metge and Neveu, was marred by the death of event founder Sabine in a helicopter crash, his father Gilbert taking over organisation of the rally.
+
+===Peugeot and Citroën domination===
+
+The [[1987 Dakar Rally|1987 rally]] marked the start of an era of increased official factory participation in the car category, as French manufacturer [[Peugeot]] arrived and won the event with former [[World Rally Championship|World Rally]] champion [[Ari Vatanen]]. The 1987 event was also notable for a ferocious head-to-head duel between Neveu and Auriol in the motorcycle category, the former taking his fifth victory after Auriol was forced to drop out of the rally after breaking both ankles in a fall.<ref name="retrospective"/> The [[1988 Dakar Rally|1988 event]] reached its zenith in terms of entry numbers, with 603 starters. Vatanen's title defence was derailed when his Peugeot was stolen from the service area at [[Bamako]]. Though it was later found, Vatanen was subsequently disqualified from the event, victory instead going to compatriot and teammate [[Juha Kankkunen]].<ref name="retrospective"/>
+
+Peugeot and Vatanen returned to winning ways in [[1989 Dakar Rally|1989]] and [[1990 Dakar Rally|1990]], the latter marking Peugeot's final year of rally competition before switching to the [[World Sportscar Championship]]. Sister brand [[Citroën]] took Peugeot's place, Vatanen taking a third consecutive victory in [[1991 Dakar Rally|1991]]. The 1991 event also saw [[Stéphane Peterhansel]] take his first title in the motorcycle category with Yamaha, marking the beginning of an era of domination by the Frenchman.
+
+For the [[1992 Dakar Rally|1992 event]], the finish line moved to [[Cape Town]], South Africa in a bid to combat a declining number of competitors (also coinciding with end of [[apartheid]] in South Africa), where [[Global Positioning System|GPS]] technology was used for the first time.<ref name="retrospective"/> Auriol became the first person to win in multiple classes after taking Mitsubishi's second victory in the car class, while Peterhansel successfully defended his motorcycle category title. The [[1993 Dakar Rally|1993 rally]] entry list slumped back to 153 competitors, around half of the preceding year's figure and around a quarter of that of 1988. The event was the last to be organised by Gilbert Sabine and the [[Amaury Sport Organisation]] took over the following year. With the finish line now back in its traditional location of Dakar, [[Bruno Saby]] won a third title for Mitsubishi and Peterhansel took a third straight success in the motorcycle category.
+
+The [[1994 Dakar Rally|1994 event]] returned to Paris after reaching Dakar, resulting in a particularly grueling event. [[Pierre Lartigue]] took Citroën's second win in acrimonious circumstances, as Mitsubishi's leading drivers were forced to withdraw from exhaustion after traversing some particularly demanding sand dunes in the Mauritanian desert that the Citroën crews had opted to skip.<ref>{{cite web|url=http://www.mitsubishi-motors.co.jp/motorsports/history/1994.html|title=1994 Paris-Dakar-Paris|publisher=Mitsubishi Motors|access-date=2014-01-07|archive-url=https://web.archive.org/web/20140108041107/http://www.mitsubishi-motors.co.jp/motorsports/history/1994.html|archive-date=2014-01-08|url-status=dead}}</ref> Peterhansel's did not compete due to a disagreement between Yamaha and the race organizers over the regulations. [[Edi Orioli]] claimed a third title in the bikes category.<ref name="retrospective"/> The [[1995 Dakar Rally|1995]] and [[1996 Dakar Rally|1996]] events begin in the Spanish city of [[Granada]], with Lartigue racking up wins for Citroën in both years. Peterhansel returned to take a fourth bikes category win in 1995, but lost to Orioli in 1996 because of refuelling problems.<ref name="retrospective"/>
+
+===Mitsubishi in the ascendancy===
+
+The [[1997 Dakar Rally|1997 rally]] ran exclusively in Africa for the first time, with the route running from Dakar to [[Agadez]], [[Niger]] and back to Dakar. Citroën's withdrawal due to a rule change paved the way for Mitsubishi to take a fourth victory. Japan's [[Kenjiro Shinozuka]] became the first non-European to win the event. Peterhansel equalled Neveu's record of five motorcycle category wins in 1997, before going one better in [[1998 Dakar Rally|1998]], when the event returned to its traditional Paris-Dakar route. That year, Dakar veteran {{ill|Jean-Pierre Fontenay|fr}} posted another win for Mitsubishi in the car class.
+
+[[1999 Dakar Rally|1999]] started in Granada and was a maiden success for former [[Formula One]] and sports car driver [[Jean-Louis Schlesser]], who had been constructing his own buggies since 1992. With the help of [[Renault]] backing, Schlesser overcame the works Mitsubishi and [[Nissan Motor Company|Nissan]] crews to win, whilst Peterhansel's decision to switch to the car category allowed [[Richard Sainct]] to take BMW's first title in the bikes category since 1985. Schlesser and Sainct both successfully defended their titles in [[2000 Dakar Rally|2000]], traversing the route from Dakar to the [[Egypt]]ian capital of [[Cairo]].
+
+[[2001 Dakar Rally|2001]] was the final time that the rally used the familiar Paris-Dakar route, and was notable for Mitsubishi's [[Jutta Kleinschmidt]], as she was the first woman to win the rally – albeit only after Schlesser was penalised one hour for unsportsmanlike conduct.<ref>{{cite news|url=http://news.bbc.co.uk/sport1/hi/motorsport/1128131.stm|title=Schlesser penalised after taking lead|date=20 January 2001|work=BBC Sport|access-date=2009-02-28}}</ref> [[Fabrizio Meoni]] took the first Dakar win for Austrian manufacturer [[KTM]], beginning a winning streak that lasted through 2019. The [[2002 Dakar Rally|2002]] began in the French town of [[Arras]] and long-time Dakar participant [[Hiroshi Masuoka (rally driver)|Hiroshi Masuoka]] won the event for Mitsubishi (Masouka had led for much of the previous year's rally.) The [[2003 Dakar Rally|2003 rally]] featured an unorthodox route from [[Marseille]] to [[Sharm El Sheikh]]. Masuoka defend his title after teammate and long-time leader Peterhansel was plagued by mechanical problems in the penultimate stage.<ref>{{cite news|url=http://news.bbc.co.uk/sport1/hi/motorsport/2671901.stm|title=Peterhansel's Dakar dream dies|date=18 January 2003|work=BBC Sport|access-date=2009-02-28}}</ref> Sainct meanwhile took honours in the motorcycle category, the third title for both him and KTM.
+
+===Mid-2000s===
+By [[2004 Dakar Rally|2004]], the entry list had increased to 595, up from 358 in 2001, with a record 688 competitors starting in [[2005 Dakar Rally|2005]].<ref name="retrospective"/> Alongside Mitsubishi and Nissan, [[Volkswagen]] now boasted a full factory effort, while Schlesser's [[Ford Motor Company|Ford]]-powered buggies and [[BMW]]s of the German [[X-raid]] team proved thorns in the side of the big budget works teams. The 2004 route was from [[Clermont-Ferrand]] to Dakar, and was the year Peterhansel emulated Hubert Auriol's feat of winning the rally on both two wheels and four. The Frenchman defended his title in 2005, when the rally began for the first time in [[Barcelona]]. In the bikes category, KTM continued their success with [[Nani Roma]] in 2004, who switched to the car category the following year, and [[Cyril Despres]] in 2005.
+
+The [[2006 Dakar Rally|2006]] event moved to [[Lisbon]]. Nissan pulled out having failed to provide effective opposition to Mitsubishi, who took a sixth consecutive victory, this time with former skiing champion [[Luc Alphand]] after Peterhansel committed a series of errors late in the rally.<ref>{{cite news|url=http://news.bbc.co.uk/sport1/hi/motorsport/world_rally/4606600.stm|title= Alphand takes charge with victory|date=12 January 2006|work=BBC Sport|access-date=2009-03-01}}</ref> Peterhansel made amends in [[2007 Dakar Rally|2007]], however, taking his third title in the car category for Mitsubishi after a close contest with Alphand after the increasingly competitive Volkswagens retired with mechanical problems. In what would be the final African event of the Dakar, Despres took his second title in the bikes category, having conceded victory in 2006 to [[Marc Coma]] after suffering an injury.
+
+===2008: Hungary and Romania as a temporary replacement===
+The [[2008 Dakar Rally|2008 event]], due to start in Lisbon, was cancelled on 4 January 2008 amid fears of attacks in Mauritania following the [[2007 killing of French tourists in Mauritania|2007 killing of four French tourists]].<ref name=":0">{{Cite news|last=Hamilos|first=Paul|date=2008-01-05|title=Dakar rally cancelled at last minute over terrorist threat|language=en-GB|work=The Guardian|url=https://www.theguardian.com/world/2008/jan/05/france.sport|access-date=2020-05-08|issn=0261-3077}}</ref> Chile and Argentina offered to host subsequent events,<ref>{{cite web |url=http://motoring.iafrica.com/worldsport/dakar/776184.htm |title=world motorsport &#124; dakar Chile offers to host Dakar 2008 |publisher=motoring.iafrica.com |access-date=2011-08-08 |archive-url=https://web.archive.org/web/20120225130107/http://motoring.iafrica.com/worldsport/dakar/776184.htm |archive-date=2012-02-25 |url-status=dead }}</ref><ref>{{cite web |url=http://index.hu/sport/dakarali0105/ |title=Index – Két pótvesennyel pótolnák idén a Dakart |publisher=Index.hu |access-date=2011-08-08 |url-status=dead |archive-url=https://web.archive.org/web/20080305161834/http://index.hu/sport/dakarali0105/ |archive-date=2008-03-05 }}</ref> which were later accepted by the ASO for the [[2009 Dakar Rally|2009 event]].<ref>{{Cite news|date=2008-02-11|title=2009 Dakar Rally moves to South America|language=en-US|work=The New York Times|url=https://www.nytimes.com/2008/02/11/sports/11iht-rally11.9940680.html|access-date=2020-05-08|issn=0362-4331}}</ref>
+
+Later in the year the ASO created a new event, the [[2008 Central Europe Rally]], to fill the void created by the cancellation of 2008 edition of the Dakar.<ref name=":0" /> The ASO legally deferred all entries for 2008 Dakar to this event which served as the legal 2008 edition of the Dakar in [[Hungary]] and [[Romania]]. It was intended to be part of a series known as the [[Dakar Series]].<ref name="motor">{{Cite web |url=https://www.motorsport.com/dakar/news/dakar-winners-cars-list/4624302/ |title=Gallery: Dakar winners in cars since 1979 |date=2024-01-19 |access-date=2025-02-10 |website=motorsport.com}}</ref><ref>{{Cite web |url=https://www.motosport.com.pt/tt/dakar-de-neveu-a-brabec-todos-os-vencedores-do-rally-dakar/ |title=Dakar: De Neveu a Brabec, todos os vencedores do Rally Dakar |last=Ferreira |first=Ricardo |date=2024-12-27 |access-date=2025-02-10 |website=motosport |language=pt}}</ref>
+
+===South America===
+
+The [[2009 Dakar Rally|2009 event]], the first held in South America with a respectable 501 competitors, saw Volkswagen take its first win in the Dakar as a works entrant courtesy of [[Giniel de Villiers]]. Initially, teammate and former WRC champion [[Carlos Sainz Sr.|Carlos Sainz]] led the race comfortably until crashing out,<ref>{{cite web|url=http://www.autosport.com/news/report.php/id/72796|title=Sainz crashes out of Dakar Rally|publisher=autosport.com |date=2009-01-15 |access-date=2014-01-08}}</ref> but went on to win the event in [[2010 Dakar Rally|2010]]. After a poor showing in 2009, Mitsubishi withdrew from the competition and left Volkswagen as the sole works entrant. The German marque won the race for a third time in [[2011 Dakar Rally|2011]], this time with [[Nasser Al-Attiyah]], before they withdrew to focus on their upcoming WRC entry and leaving the Dakar with no factory participants in the car class. In the bikes, Despres and Coma stretched KTM's incredible unbroken run of success. Both tied on three victories apiece after Coma's third win in 2011.
+
+[[File:Global IPCS (Camiones) - Dakar 2018 - Perú - Kamaz.jpg|thumb|2018 rally in [[Peru]]]]
+[[File:20170809 Bolivia 1510 Uyuni sRGB (37980059441).jpg|thumb|The route passed through the [[Salar de Uyuni]] in [[Bolivia]], the world's largest salt desert.]]
+In the [[2012 Dakar Rally|2012 rally]], the [[X-raid]] team came to the fore, now using [[Mini (marque)|Minis]] in lieu of BMWs. Peterhansel had joined the team in 2010 after Mitsubishi's departure, but had been unable to challenge the Volkswagen drivers. Following Volkswagen's withdrawal, Peterhansel was able to secure his fourth win in the car category and his tenth in total, his main opposition coming from within his own team. Peterhansel successfully defended his title in [[2013 Dakar Rally|2013]] as the Damen Jefferies buggies of Sainz and Al-Attiyah failed to last the distance. Despres also racked up a further two wins for KTM in the bikes class in 2012 and 2013, bringing his tally to five, aided by Coma's absence due to injury in the latter year. Coma struck back on his return to the Dakar in [[2014 Dakar Rally|2014]], taking a comfortable fourth title and a 13th in succession for KTM, whilst [[Nani Roma]] emulated Auriol and Peterhansel by taking his maiden title in the cars class a decade on from his victory on two wheels – albeit only after team orders by X-raid slowed Peterhansel.<ref>[http://www.autosport.com/news/report.php/id/112186 Stephane Peterhansel frustrated by controversial finish] ''autosport.com''. Retrieved January 18, 2014.</ref>
+
+Peugeot returned for the [[2015 Dakar Rally|2015]] event with an all-new, diesel-powered, two-wheel drive contender, but failed to make an impact as X-raid's Minis once more dominated. Al-Attiyah won the event in his second year for the team, while Coma racked up a fifth title in the bikes after the defection of long-time rival Despres to the car class and Peugeot. Peugeot did however see success in [[2016 Dakar Rally|2016]] with Peterhansel behind the wheel, racking up his 6th win in the car category, and again in 2017 and 2018 until Peugeot decide to officially leave the competition. In [[2019 Dakar Rally|2019]], which was the first Dakar Rally to be held in just one country (Peru), [[Toyota]] won for the first time with [[Nasser Al-Attiyah]] (in his third victory with three different manufacturers). The bike category saw the KTM works team rider, Australian Toby Price, take his first Dakar victory, winning his second title in 2019. [[Sam Sunderland]] and [[Matthias Walkner]] won the 2017 and 2018 edition also for the team from Mattighofen (18 overall victories as in 2019).
+
+===Saudi Arabia===
+Following the ASO's increasingly deteriorating relationships with South American governments, which culminated in the controversial 2019 disqualification of Bolivian quad rider Juan Carlos Salvatierra which was appealed by his team but the decision was not overturned,<ref>{{cite web|url=https://www.motorsport.com/dakar/news/dakar-rally-director-lavigne-castera/4349111/
+|website=Motorsport.com
+|title=Dakar Rally 2020. New Safari Design Team Presentation
+|date=2019-03-09
+|access-date=2020-01-07
+}}</ref> the rally has been held in Saudi Arabia since 2020.
+
+Further editions were planned to also feature other Middle Eastern countries starting from 2021, as the contract with the country was only exclusive for the first year. However, the effects of the [[COVID-19 pandemic]] prevented such an expansion from happening.<ref>{{Cite web|last=Lillo|first=Sergio|title=Dakar 2021 to run entirely in Saudi Arabia, but on "100% new" route|url=https://www.autosport.com/dakar/news/149907/dakar-2021-to-run-entirely-in-saudi-arabia|access-date=2020-07-13|website=Autosport.com|language=en}}</ref>
+
+The 2027 edition of the Dakar Rally will not be held in Saudi Arabia due to increased hostilities in the Middle East surrounding the [[2026 Iran war]], and will instead take place in a different area as a one-off. Plans are for the 2028 Rally to return to Saudi Arabia to celebrate its 50th running.<ref>{{cite news |title=Dakar Rally 2027 will not be held in Saudi Arabia, organisers say |url=https://www.reuters.com/sports/dakar-rally-2027-will-not-be-held-saudi-arabia-organisers-say-2026-10-25/ |access-date=25 October 2026 |work=Reuters |agency=Reuters |date=25 October 2026 |language=en}}</ref>
+
+Since 2022, it is part of the [[World Rally-Raid Championship]] (W2RC) calendar.
+
+==Vehicles and classes==
+The five competitive groups in the Dakar are the [[motorcycle]]s, [[quad bike|quads]], the [[car]]s class (which ranges from [[dune buggy|buggies]] to small [[Sport utility vehicle|SUV]]s), [[Side-by-side (vehicle)|UTVs]], and the [[truck]]s class. Many vehicle manufacturers use the rally's harsh environment as both a testing ground and an opportunity to show off their vehicles' durability even though most vehicles are heavily modified from their production specification or purpose-built.
+
+===Motorbikes===
+[[File:Joan Barreda Piloto Amv Dakar 2016 (137839365).jpeg|thumb|[[Joan Barreda]] racing a Honda motorcycle at the 2016 Dakar Rally]]
+For the 2005 rally regulations introduced a limit of 450cc for twin cylinder motorbikes. Single cylinder motorbikes were still open class with no capacity limit.<ref>{{cite web|url=https://www.motorcycledaily.com/2004/07/01july04_bigtwins/ |title=No Big Twins for Dakar Rally In '05 |date=July 2004 |archive-url=https://web.archive.org/web/20220221122543/https://www.motorcycledaily.com/2004/07/01july04_bigtwins/ |archive-date=2022-02-21 |access-date=2022-02-21}}</ref>
+
+As of 2011, the engine displacement limit for all motorbikes competing in the Dakar Rally is 450cc. Engines may be either single or twin cylinder. Riders are divided into two groups, RallyGP and Rally2.<ref name="Bike-quad">{{cite web |url=http://www.dakar.com/dakar/2014/docs/ReglementDakar2014MotoQuadUSavecVisa.pdf|title=Dakar Bike-Quad regulations |archive-url=https://web.archive.org/web/20140108131950/http://www.dakar.com/dakar/2014/docs/ReglementDakar2014MotoQuadUSavecVisa.pdf |archive-date=2014-01-08 |url-status=dead }}</ref>
+
+A subcategory is the "Original by [[Motul (company)|Motul]]" category (formerly named "Malle Moto" due to the only piece of luggage competitors were allowed to take with them was a "malle", the French term for a [[steamer trunk]]), which refers to motorbikes and quads competing without any kind of assistance. The organization provides assistance for this category with 4 people dedicated to the transportation of the competitors' gear between [[Bivouac shelter|bivouac]] sites plus any additional equipment or belongings. This includes: 1 trunk, 1 set of wheels, 1 sleeping tent, 1 travel bag, 1 set of tyres, free use of the generators, compressors and tool-boxes, and easy access to race information.<ref>{{Cite web|url=https://www.dakar.com/en/the-competitors/practical-information/original-by-motul|title=Original by Motul|website=Dakar|url-status=dead|archive-url=https://web.archive.org/web/20200116125958/https://www.dakar.com/en/the-competitors/practical-information/original-by-motul|archive-date=2020-01-16|access-date=2020-01-16}}</ref> Since these competitors are not allowed to receive any outside support, each rider must service their own vehicle. It is often called the category for the toughest of the tough, and one for the Dakar purists.<ref>{{Cite web|url=https://www.msn.com/fr-ca/sports/tennis/dakar-2020-educational-video-original-motul/vp-BBYU1tY|title=Dakar 2020 – Educational Video – Original by Motul|website=MSN Sports|access-date=2020-01-16}}</ref>
+
+[[KTM]] has dominated the motorcycle class in recent years, although [[Honda]], [[Yamaha Motor Company|Yamaha]], [[Sherco]], Hero, 
+[[Husqvarna Motorcycles|Husqvarna]], and [[Gas Gas]] also compete currently. [[BMW Motorrad|BMW]] and [[Cagiva]] have also enjoyed success in the past.
+
+===Quads===
+Prior to 2009, Quads were a subdivision of the motorbike category, but they were granted their own separate classification in 2009 and are designated Group 3 in the current regulations. They are divided into two subgroups – Group 3.1, which features two-wheel drive quads with a single cylinder engine with a maximum displacement of 750cc, and Group 3.2, which permits four-wheel drive quads with a maximum engine displacement of 900cc, in either single or twin cylinder layout.<ref name="Bike-quad"/>
+
+Yamaha went unbeaten in the Quad category as an official class, with their main opposition coming courtesy of Honda and [[Can-Am Off-Road|Can-Am]].
+
+Quads were dropped from the Dakar in 2025 due to declining manufacturer support.<ref>{{cite news|url=https://www.advpulse.com/adv-news/dakar-pulls-the-plug-on-the-quad-class-for-2025/|title=Dakar Pulls The Plug On The Quad Class For 2025|website=ADV Pulse|date=4 April 2024|access-date=4 September 2024}}</ref>
+
+===Cars===
+{{see also|Group T1|Group T2}}
+The car class is made up of vehicles weighing less than {{convert|3500|kg|lb|0|abbr=on}}, which are subdivided into several categories. T1 is made up of "Improved Cross-Country Vehicles", subdivided according to engine type (petrol or diesel) and drive type (two-wheel or four-wheel drive), while T2 is made up of "Cross-Country Series Production Vehicles", which are subdivided into petrol and diesel categories. There is also an "Open" category catering for vehicles conforming to [[SCORE International]] regulations.<ref name="Car-truck">{{cite web |url=http://www.dakar.com/dakar/2014/docs/Reglement_Auto_Camion_Dakar_2014_US.pdf|title=Dakar Car-Truck regulations |archive-url=https://web.archive.org/web/20140108132116/http://www.dakar.com/dakar/2014/docs/Reglement_Auto_Camion_Dakar_2014_US.pdf |archive-date=2014-01-08 |url-status=dead }}</ref>
+
+[[Mini (marque)|Mini]] have been the most successful marque in the car category in recent years, thanks to the efforts of the non-factory [[X-raid]] team, with limited involvement currently coming from [[Toyota]], [[Ford Motor Company|Ford]] and [[Great Wall Motors|Haval]]. Several constructors also produce bespoke buggies for the event, most notably SMG and Damen Jefferies.
+
+[[Mitsubishi Motors|Mitsubishi]] is historically the most successful manufacturer in the car class, with [[Volkswagen]], [[Citroën]], [[Peugeot]] and [[Porsche]] having all tasted success in the past with factory teams. [[Jean-Louis Schlesser]] has also won the event twice with his [[Renault]]-supported buggies. Factory teams from [[Nissan Motor Company|Nissan]] and [[SEAT]] have also won stages, as has [[BMW]], courtesy of the [[X-raid]] team.
+
+===Trucks===
+{{see also|Group T5}}
+[[Image:Vladimir Chagin.jpg|upright|thumb|[[Vladimir Chagin]], the "Tsar of Dakar", is the most successful truck driver.]]
+The Truck class, first run as a separate category in 1980, is made up of vehicles weighing more than {{convert|3500|kg|lb|0|abbr=on}}. Trucks participating in the competition are subdivided into "Series Production" trucks (T4.1) and "Modified" trucks (T4.2), whilst Group T4.3 (formerly known as T5) trucks are [[rally support truck]]s – meaning they travel from bivouac to bivouac to support the competition vehicles.<ref name="Car-truck"/> These were introduced to the rally in 1998. The truck event was not run in 1989 after it was decided the vehicles, by this stage with twin engines generating in excess of 1000 horsepower, were too dangerous following the death of a [[DAF Trucks|DAF]] crew member in an accident during the 1988 rally.<ref name="retrospective"/>
+
+[[Kamaz]] has dominated the truck category since the turn of the century, although it has come under increasing pressure from rivals such as [[Iveco]], [[MAN SE|MAN]], [[Renault Trucks|Renault]], and [[Tatra (company)|Tatra]], which enjoyed much success in the 1990s. [[Hino Motors|Hino]], [[DAF Trucks|DAF]], [[Perlini]], and [[Mercedes-Benz]] have also been among the winners in the past.
+
+===UTVs===
+{{see also|Group T3|Group T4}}
+The [[Side-by-side (vehicle)|utility task vehicle]] (UTV) category was introduced in 2017. Before this, UTVs ran under the car category as the T3 class. The class rapidly gained in popularity, and in 2021 the class was further subdivided into separate T3 light prototypes category, and T4 SSVs, which are based on production vehicles.<ref>{{Cite web|url=https://www.dakar.com/en/dakar-world/categories|title = Categories}}</ref>
+
+===Classics===
+{{main|Dakar Classic}}
+A new Dakar Classic class was introduced in 2021 for cars and trucks manufactured before 2000, or new vehicles built to original pre-2000 specification. For the fifth edition in 2025, rules allowed another five years where 2005 became the latest specification year for the class, effectively making the rule 20 years for classification as classics.<ref>{{cite web|url=https://storage-aso.lequipe.fr/ASO/motorSports_ccr/dak25-plaquette-dakar-classic-uk-v1.pdf|title=2025 Dakar Classic|website=Dakar Rally|publisher=[[Amaury Sport Organisation]]|access-date=4 September 2024}}</ref>
+
+These vehicles share the same bivouac and the organization but run in a parallel, yet different route, suitable for historic vehicles. The scoreboard is not based on fastest time, but rather on [[regularity rally]] point scoring system. The class feature a reduced entry fee, yet the same rules and fees apply for the assistance.<ref>{{cite web|url=https://netstorage.lequipe.fr/ASO/motorSports_dak/e-dakar-tour-en.pdf
+|website=dakar.com
+|title=Dakar 2021 Presentation
+|access-date=2020-11-06
+}}</ref>
+
+===Mission 1000===
+Mission 1000 is a category for alternative power sources such as [[electric vehicle|electric]], [[hydrogen vehicle|hydrogen]], and [[hybrid vehicle]]s. It is part of the ASO's "Dakar Future" program that debuted in 2022, while Mission 1000 was introduced in 2024.<ref>{{cite news|url=https://rallytracks.nl/en/2025/12/dakar-future-mission-1000-advancing-on-two-and-four-wheels/|title=Dakar Future Mission 1000: Advancing on two and four wheels|publisher=RallyTracks|date=17 December 2025|access-date=16 February 2026}}</ref>
+
+Each Mission 1000 stage takes place across roughly 100 kilometers. Completing a stage earns 100 points, and bonus points are awarded if one can beat a given benchmark time. Points are also given out for the fastest vehicle from a [[standing start]] and for winning a fan vote during the Dakar Rally's rest day.<ref>{{cite news|last=Elkin|first=John|url=https://www.atv.com/atv/dakar-rally-mission-1000-2025-44734474|title=The Dakar Rally's Mission 1000 Pushes the Limits of Alternative Fuels|publisher=ATV.com|date=18 January 2025|access-date=16 February 2026}}</ref><ref>{{cite news|last=Nguyen|first=Justin|url=https://131offroad.com/2026/01/10/segway-wins-mission-1000-fan-vote/|title=Segway wins Mission 1000 fan vote|publisher=131 Off-Road|date=10 January 2026|access-date=16 February 2026}}</ref>
+
+==List of winners==
+===Cars, bikes and trucks===
+{| class="wikitable" style="font-size:85%;"
+!rowspan=2|Year
+!rowspan=2|Route
+!colspan=2|Cars
+!colspan=2|Bikes
+!colspan=2|Trucks
+|-
+!Driver<br /> Co-driver
+!Make & model
+!Rider
+!Make & model
+!Driver<br /> Co-driver<br /> Technician
+!Make & model
+|-
+![[2027 Dakar Rally|2027]]
+|[[Algarve]] ([[Loulé]]/[[Faro, Portugal|Faro]])–[[Marrakesh]]
+|
+|
+|
+|
+|
+|
+|-
+![[2026 Dakar Rally|2026]]
+|[[Yanbu]]-[[Yanbu]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]]<br /> {{flagicon|BEL}} {{ill|Fabian Lurquin|fr}}
+|[[Dacia Sandrider]]
+|{{flagicon|ARG}} [[Luciano Benavides]]
+|[[KTM 450 Rally|KTM 450 Rally Factory]]
+|{{flagicon|LIT}} [[Vaidotas Žala]]<br /> {{flagicon|POR}} Paulo Fiuza<br /> {{flagicon|NED}}  Max Van Grol
+|Iveco Powerstar
+|-
+![[2025 Dakar Rally|2025]]
+|[[Bisha]]-[[Shaybah|Shubaytah]]
+|{{flagicon|SAU}} [[Yazeed Al-Rajhi]]<br /> {{flagicon|DEU}} [[Timo Gottschalk]]
+|[[Toyota Hilux Dakar|Toyota Hilux Overdrive]]
+|{{flagicon|AUS}} [[Daniel Sanders (motorcyclist)|Daniel Sanders]]
+|[[KTM 450 Rally|KTM 450 Rally Factory]]
+|{{flagicon|CZE}} [[Martin Macík]]<br /> {{flagicon|CZE}} František Tomášek<br />  {{flagicon|CZE}}  David Švanda
+|Iveco Powerstar
+|-
+![[2024 Dakar Rally|2024]]
+|[[al-Ula]]–[[Yanbu]]
+|{{flagicon|ESP}} [[Carlos Sainz Sr.|Carlos Sainz]]<br /> {{flagicon|ESP}} [[Lucas Cruz]]
+|[[Audi RS Q e-tron]]
+|{{flagicon|USA}} [[Ricky Brabec]]
+|[[Honda CRF series|Honda CRF 450 Rally]]
+|{{flagicon|CZE}} [[Martin Macík]]<br /> {{flagicon|CZE}} František Tomášek<br /> {{flagicon|CZE}}  David Švanda
+|[[Iveco PowerStar]]
+|-
+![[2023 Dakar Rally|2023]]
+|near [[Yanbu]]–[[Dammam]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]]<br /> {{flagicon|FRA}} [[Mathieu Baumel]]
+|[[Toyota Hilux Dakar|Toyota GR DKR Hilux]]
+|{{flagicon|ARG}} [[Kevin Benavides]]
+|[[KTM 450 Rally]] Factory Replica
+|{{flagicon|NED}} [[Janus van Kasteren]]<br /> {{flagicon|POL}} [[Darek Rodewald]]<br /> {{flagicon|NED}} [[Marcel Snijders]]
+|[[Iveco PowerStar]]
+|-
+![[2022 Dakar Rally|2022]]
+|[[Ḥaʼil]]–[[Jeddah]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]]<br /> {{flagicon|FRA}} [[Mathieu Baumel]]
+|[[Toyota Hilux Dakar|Toyota GR DKR Hilux]]
+|{{flagicon|GBR}} [[Sam Sunderland]]
+|[[KTM 450 Rally|Gas Gas 450 Rally]]
+|{{flagg|cnua|image=Russian Automobile Federation flag.svg}} [[Dmitry Sotnikov]]<br /> {{flagg|cnua|image=Russian Automobile Federation flag.svg}} [[Ruslan Amkhmadeev]]<br /> {{flagg|cnua|image=Russian Automobile Federation flag.svg}} [[Ilgiz Akhmetzianov]]
+|[[Kamaz]] K5 435091
+|-
+![[2021 Dakar Rally|2021]]
+|[[Jeddah]]–[[Ḥaʼil]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]]<br /> {{flagicon|FRA}} {{ill|Édouard Boulanger|fr}}
+|[[Mini John Cooper Works Buggy]]
+|{{flagicon|ARG}} [[Kevin Benavides]]
+|[[Honda CRF series|Honda CRF 450 Rally]]
+|{{flagicon|RUS}} [[Dmitry Sotnikov]]<br /> {{flagicon|RUS}} [[Ruslan Amkhmadeev]]<br /> {{flagicon|RUS}} [[Ilgiz Akhmetzianov]]
+|[[Kamaz]] 43509
+|-
+![[2020 Dakar Rally|2020]]
+|[[Jeddah]]–[[Riyadh]]–[[Qiddiya City]]
+|{{flagicon|ESP}} [[Carlos Sainz Sr.|Carlos Sainz]]<br /> {{flagicon|ESP}} [[Lucas Cruz]]
+|[[Mini John Cooper Works Buggy]]
+|{{flagicon|USA}} [[Ricky Brabec]]
+|[[Honda CRF series|Honda CRF 450 Rally]]
+|{{flagicon|RUS}} [[Andrey Karginov]]<br /> {{flagicon|RUS}} [[Andrey Mokeev]]<br /> {{flagicon|RUS}} [[Igor Leonov]]
+|[[Kamaz]] 43509
+|-
+![[2019 Dakar Rally|2019]]
+|[[Lima]]–Lima
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]]<br /> {{flagicon|FRA}} [[Mathieu Baumel]]
+|[[Toyota Hilux Dakar]]
+|{{flagicon|AUS}} [[Toby Price]]
+|[[KTM 450 Rally]]
+|{{flagicon|RUS}} [[Eduard Nikolaev]]<br /> {{flagicon|RUS}} [[Evgeny Yakovlev]]<br /> {{flagicon|RUS}} [[Vladimir Rybakov (co-driver)|Vladimir Rybakov]]
+|[[Kamaz]] 43509
+|-
+![[2018 Dakar Rally|2018]]
+|[[Lima]]–[[La Paz]]–[[Córdoba, Argentina|Córdoba]]
+|{{flagicon|ESP}} [[Carlos Sainz Sr.|Carlos Sainz]]<br /> {{flagicon|ESP}} [[Lucas Cruz]]
+|[[Peugeot 3008 DKR Maxi]]
+|{{flagicon|AUT}} [[Matthias Walkner]]
+|[[KTM 450 Rally]]
+|{{flagicon|RUS}} [[Eduard Nikolaev]]<br /> {{flagicon|RUS}} [[Evgeny Yakovlev]]<br /> {{flagicon|RUS}} [[Vladimir Rybakov (co-driver)|Vladimir Rybakov]]
+|{{ill|Kamaz 4326-9|ru|КамАЗ-4326-9}}
+|-
+![[2017 Dakar Rally|2017]]
+|[[Asunción]]–[[La Paz]]–[[Buenos Aires]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]]<br /> {{flagicon|FRA}} [[Jean-Paul Cottret]]
+|[[Peugeot 3008 DKR]]
+|{{flagicon|GBR}} [[Sam Sunderland]]
+|[[KTM 450 Rally]]
+|{{flagicon|RUS}} [[Eduard Nikolaev]]<br /> {{flagicon|RUS}} [[Evgeny Yakovlev]]<br /> {{flagicon|RUS}} [[Vladimir Rybakov (co-driver)|Vladimir Rybakov]]
+|{{ill|Kamaz 4326-9|ru|КамАЗ-4326-9}}
+|-
+![[2016 Dakar Rally|2016]]
+|[[Buenos Aires]]–[[Salta]]-[[Rosario]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]]<br /> {{flagicon|FRA}} [[Jean-Paul Cottret]]
+|[[Peugeot 2008 DKR]]
+|{{flagicon|AUS}} [[Toby Price]]
+|[[KTM 450 Rally]]
+|{{flagicon|NED}} [[Gerard de Rooy]]<br /> {{flagicon|ESP}} [[Moi Torrallardona]]<br /> {{flagicon|POL}} [[Darek Rodewald]]
+|[[Iveco PowerStar]]
+|-
+![[2015 Dakar Rally|2015]]
+|[[Buenos Aires]]–[[Iquique]]-Buenos Aires
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]]<br /> {{flagicon|FRA}} [[Mathieu Baumel]]
+|[[Mini All 4 Racing]]
+|{{flagicon|ESP}} [[Marc Coma]]
+|[[KTM 450 Rally]]
+|{{flagicon|RUS}} [[Ayrat Mardeev]]<br /> {{flagicon|RUS}} [[Aydar Belyaev]]<br /> {{flagicon|RUS}} [[Dmitriy Svistunov]]
+|{{ill|Kamaz 4326-9|ru|КамАЗ-4326-9}}
+|-
+![[2014 Dakar Rally|2014]]
+|[[Rosario]]-[[Salta]]–[[Valparaíso]]
+|{{flagicon|ESP}} [[Nani Roma]]<br /> {{flagicon|FRA}} [[Michel Périn]]
+|[[Mini All 4 Racing]]
+|{{flagicon|ESP}} [[Marc Coma]]
+|[[KTM 450 Rally]]
+|{{flagicon|RUS}} [[Andrey Karginov]]<br /> {{flagicon|RUS}} [[Andrey Mokeev]]<br /> {{flagicon|RUS}} [[Igor Devyatkin]]
+|{{ill|Kamaz 4326-9|ru|КамАЗ-4326-9}}
+|-
+![[2013 Dakar Rally|2013]]
+|[[Lima]]–[[San Miguel de Tucumán|Tucumán]]–[[Santiago]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]]<br /> {{flagicon|FRA}} [[Jean-Paul Cottret]]
+|[[Mini All 4 Racing]]
+|{{flagicon|FRA}} [[Cyril Despres]]
+|[[KTM 450 Rally]]
+|{{flagicon|RUS}} [[Eduard Nikolaev]]<br /> {{flagicon|RUS}} [[Sergey Savostin]]<br /> {{flagicon|RUS}} [[Vladimir Rybakov (co-driver)|Vladimir Rybakov]]
+|{{ill|Kamaz 4326-9|ru|КамАЗ-4326-9}}
+|-
+![[2012 Dakar Rally|2012]]
+|[[Mar del Plata]]–[[Arica]]–[[Lima]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]]<br /> {{flagicon|FRA}} [[Jean-Paul Cottret]]
+|[[Mini All 4 Racing]]
+|{{flagicon|FRA}} [[Cyril Despres]]
+|[[KTM 450 Rally]]
+|{{flagicon|NLD}} [[Gerard de Rooy]]<br /> {{flagicon|BEL}} {{ill|Tom Colsoul|fr}}<br /> {{flagicon|POL}} [[Darek Rodewald]]
+|[[Iveco PowerStar]]
+|-
+![[2011 Dakar Rally|2011]]
+|Buenos Aires–Arica–Buenos Aires
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]]<br /> {{flagicon|DEU}} [[Timo Gottschalk]]
+|[[Volkswagen Race Touareg 3]]
+|{{flagicon|ESP}} [[Marc Coma]]
+|[[KTM 450 Rally]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br /> {{flagicon|RUS}} [[Sergey Savostin]]<br /> {{flagicon|RUS}}  [[Ildar Shaysultanov]]
+|{{ill|Kamaz 4326-9|ru|КамАЗ-4326-9}}
+|-
+![[2010 Dakar Rally|2010]]
+|[[Buenos Aires]]–[[Antofagasta]]–Buenos Aires
+|{{flagicon|ESP}} [[Carlos Sainz Sr.|Carlos Sainz]]<br /> {{flagicon|ESP}} [[Lucas Cruz]]
+|[[Volkswagen Race Touareg 2]]
+|{{flagicon|FRA}} [[Cyril Despres]]
+|[[KTM 690 Enduro|KTM 690 Rally]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br /> {{flagicon|RUS}} [[Sergey Savostin]]<br /> {{flagicon|RUS}} [[Eduard Nikolaev]]
+|{{ill|Kamaz 4326-9|ru|КамАЗ-4326-9}}
+|-
+![[2009 Dakar Rally|2009]]
+|[[Buenos Aires]]–[[Valparaíso]]–Buenos Aires
+|{{flagicon|ZAF}} [[Giniel de Villiers]]<br /> {{flagicon|DEU}} [[Dirk von Zitzewitz]]
+|[[Volkswagen Race Touareg 2]]
+|{{flagicon|ESP}} [[Marc Coma]]
+|[[KTM 690 Enduro|KTM 690 Rally]]
+|{{flagicon|RUS}} [[Firdaus Kabirov]]<br /> {{flagicon|RUS}} [[Aydar Belyaev]]<br /> {{flagicon|RUS}} [[Andrey Mokeev]]
+|{{ill|Kamaz 4326-9|ru|КамАЗ-4326-9}}
+|-
+![[2008 Dakar Rally|2008]]
+|[[Lisbon]]–[[Dakar]]
+|bgcolor=lightgrey colspan="7" style="text-align:center;"|''Cancelled''<ref name="motor"/>
+|-
+![[2007 Dakar Rally|2007]]
+|[[Lisbon]]–[[Dakar]]
+|{{nowrap|{{flagicon|FRA}} [[Stéphane Peterhansel]]}}<br /> {{flagicon|FRA}} [[Jean-Paul Cottret]]
+|[[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Cyril Despres]]
+|[[KTM 690 Enduro|KTM 690 Rally]]
+|{{flagicon|NLD}} [[Hans Stacey]]<br /> {{flagicon|BEL}} [[Charly Gotlib]]<br /> {{flagicon|NLD}} [[Bernard der Kinderen]]
+|[[MAN TG-range|MAN TGA]]
+|-
+![[2006 Dakar Rally|2006]]
+|[[Lisbon]]–Dakar
+|{{flagicon|FRA}} [[Luc Alphand]]<br /> {{flagicon|FRA}} {{ill|Gilles Picard|fr}}
+|[[Mitsubishi Pajero Evolution]]
+|{{flagicon|ESP}} [[Marc Coma]]
+|[[KTM LC4 660R]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br /> {{flagicon|RUS}} [[Semen Yakubov]]<br /> {{flagicon|RUS}} [[Sergey Savostin]]
+|{{ill|Kamaz 4911|ru|КАМАЗ 4911}}
+|-
+![[2005 Dakar Rally|2005]]
+|[[Barcelona]]–Dakar
+|{{flagicon|FRA}} [[Stéphane Peterhansel]]<br /> {{flagicon|FRA}} [[Jean-Paul Cottret]]
+|[[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Cyril Despres]]
+|[[KTM LC4 660R]]
+|{{flagicon|RUS}} [[Firdaus Kabirov]]<br /> {{flagicon|RUS}} [[Aydar Belyaev]]<br /> {{flagicon|RUS}} [[Andrey Mokeev]]
+|{{ill|Kamaz 4911|ru|КАМАЗ 4911}}
+|-
+![[2004 Dakar Rally|2004]]
+|{{nowrap|[[Clermont-Ferrand]]–}}Dakar
+|{{flagicon|FRA}} [[Stéphane Peterhansel]]<br /> {{flagicon|FRA}} [[Jean-Paul Cottret]]
+|[[Mitsubishi Pajero Evolution]]
+|{{flagicon|ESP}} [[Nani Roma]]
+|[[KTM LC4 660R]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br /> {{flagicon|RUS}} [[Semen Yakubov]]<br /> {{flagicon|RUS}} [[Sergey Savostin]]
+|{{ill|Kamaz 4911|ru|КАМАЗ 4911}}
+|-
+![[2003 Dakar Rally|2003]]
+|[[Marseille]]–[[Sharm el Sheikh]]
+|{{flagicon|JPN}} [[Hiroshi Masuoka (rally driver)|Hiroshi Masuoka]]<br /> {{flagicon|DEU}} [[Andreas Schulz (co-driver)|Andreas Schulz]]
+|[[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Richard Sainct]]
+|[[KTM LC4 660R]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br /> {{flagicon|RUS}} [[Semen Yakubov]]<br /> {{flagicon|RUS}} [[Sergey Savostin]]
+|{{ill|Kamaz 4911|ru|КАМАЗ 4911}}
+|-
+![[2002 Dakar Rally|2002]]
+|[[Arras, France|Arras]]–[[Madrid]]–Dakar
+|{{flagicon|JPN}} [[Hiroshi Masuoka (rally driver)|Hiroshi Masuoka]]<br /> {{flagicon|FRA}} {{ill|Pascal Maimon|fr}}
+|[[Mitsubishi Pajero Evolution]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]]
+|[[KTM LC8 950R]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br /> {{flagicon|RUS}} [[Semen Yakubov]]<br /> {{flagicon|RUS}} [[Sergey Savostin]]
+|{{ill|Kamaz 49256|ru|КАМАЗ 49256}}
+|-
+![[2001 Dakar Rally|2001]]
+|Paris–Dakar
+|{{flagicon|DEU}} [[Jutta Kleinschmidt]]<br /> {{flagicon|DEU}} [[Andreas Schulz (co-driver)|Andreas Schulz]]
+|[[Mitsubishi Pajero Evolution]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]]
+|[[KTM LC4 660R]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br /> {{flagicon|CZE}} [[Josef Kalina]]<br /> {{flagicon|CZE}} [[Petr Hamerla]]
+|[[Tatra 815]]
+|-
+![[2000 Dakar Rally|2000]]
+|Dakar–[[Cairo]]
+|{{flagicon|FRA}} [[Jean-Louis Schlesser]]<br /> {{flagicon|AND}} {{ill|Henri Magne|fr}}
+|[[Buggy Schlesser]] - [[Renault Sport|Renault]]
+|{{flagicon|FRA}} [[Richard Sainct]]
+|[[BMW F650 single|BMW F650RR]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br /> {{flagicon|RUS}} [[Semen Yakubov]]<br /> {{flagicon|RUS}} [[Sergey Savostin]]
+|{{ill|Kamaz 49252|ru|КАМАЗ 49252}}
+|-
+![[1999 Dakar Rally|1999]]
+|[[Granada]]–Dakar
+|{{flagicon|FRA}} [[Jean-Louis Schlesser]]<br /> {{flagicon|FRA}} [[Philippe Monnet]]
+|[[Buggy Schlesser]] - [[Renault Sport|Renault]]
+|{{flagicon|FRA}} [[Richard Sainct]]
+|[[BMW F650 single|BMW F650RR]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br /> {{flagicon|CZE}} [[Radomir Stachura]]<br /> {{flagicon|CZE}} [[Josef Kalina]]
+|[[Tatra 815]]
+|-
+![[1998 Dakar Rally|1998]]
+|Paris–Granada–Dakar
+|{{nowrap|{{flagicon|FRA}} {{ill|Jean-Pierre Fontenay|fr}}}}<br /> {{flagicon|FRA}} {{ill|Gilles Picard|fr}}
+|[[Mitsubishi Pajero Evolution]]
+|{{nowrap|{{flagicon|FRA}} [[Stéphane Peterhansel]]}}
+|[[Yamaha YZE 850T|Yamaha XTR850R]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br /> {{flagicon|CZE}} [[Radomir Stachura]]<br /> {{flagicon|CZE}} [[Jan Cermak]]
+|[[Tatra 815]]
+|-
+![[1997 Dakar Rally|1997]]
+|Dakar–[[Agades]]–Dakar
+|{{flagicon|JPN}} [[Kenjiro Shinozuka]]<br /> {{flagicon|FRA}} {{ill|Henri Magne|fr}}
+|[[Mitsubishi Pajero Evolution|Mitsubishi Pajero Type 2]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]]
+|[[Yamaha YZE 850T|Yamaha XTR850R]]
+|{{flagicon|AUT}} {{ill|Peter Reif|fr}}<br /> {{flagicon|AUT}} [[Johann Deinhofer]]
+|[[Hino Ranger]]
+|-
+![[1996 Dakar Rally|1996]]
+|Granada–Dakar
+|{{flagicon|FRA}} [[Pierre Lartigue]]<br /> {{flagicon|FRA}} [[Michel Périn]]
+|[[Citroën ZX]]
+|{{flagicon|ITA}} [[Edi Orioli]]
+|[[Yamaha YZE 850T|Yamaha XTR850R]]
+|{{nowrap|{{flagicon|RUS}} {{ill|Viktor Moskovskikh|fr}}}}<br /> {{flagicon|RUS}} [[Anatoli Kouzmine]]<br /> {{flagicon|RUS}} [[Nail Bagavetdinov]]
+|{{ill|Kamaz 49252|ru|КАМАЗ 49252}}
+|-
+![[1995 Dakar Rally|1995]]
+|Granada–Dakar
+|{{flagicon|FRA}} [[Pierre Lartigue]]<br /> {{flagicon|FRA}} [[Michel Périn]]
+|[[Citroën ZX]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]]
+|[[Yamaha YZE 850T|Yamaha XTR850R]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br /> {{flagicon|CZE}} [[Radomir Stachura]]<br /> {{flagicon|CZE}} [[Tomas Tomecek]]
+|[[Tatra 815]]
+|-
+![[1994 Dakar Rally|1994]]
+|Paris–Dakar–Paris
+|{{flagicon|FRA}} [[Pierre Lartigue]]<br /> {{flagicon|FRA}} [[Michel Périn]]
+|[[Citroën ZX]]
+|{{flagicon|ITA}} [[Edi Orioli]]
+|{{ill|Cagiva Elefant|it}}
+|{{flagicon|CZE}} [[Karel Loprais]]<br /> {{flagicon|CZE}} [[Radomir Stachura]]<br /> {{flagicon|CZE}} [[Josef Kalina]]
+|[[Tatra 815]]
+|-
+![[1993 Dakar Rally|1993]]
+|Paris–Dakar
+|{{flagicon|FRA}} [[Bruno Saby]]<br /> {{flagicon|FRA}} {{ill|Dominique Serieys|fr}}
+|[[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]]
+|[[Yamaha YZE 850T]]
+|{{flagicon|ITA}} {{ill|Francesco Perlini|fr}}<br /> {{flagicon|ITA}} [[Giorgio Albiero]]<br /> {{flagicon|ITA}} [[Claudio Vinante]]
+|[[Perlini]] 105F
+|-
+![[1992 Dakar Rally|1992]]
+|Paris–[[Sirte]]–[[Cape Town]]
+|{{flagicon|FRA}} [[Hubert Auriol]]<br /> {{flagicon|FRA}} [[Philippe Monnet]]
+|[[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]]
+|[[Yamaha YZE 850T]]
+|{{flagicon|ITA}} {{ill|Francesco Perlini|fr}}<br /> {{flagicon|ITA}} [[Giorgio Albiero]]<br /> {{flagicon|ITA}} [[Claudio Vinante]]
+|Perlini 105F
+|-
+![[1991 Dakar Rally|1991]]
+|Paris–[[Tripoli, Libya|Tripoli]]–Dakar
+|{{flagicon|FIN}} [[Ari Vatanen]]<br /> {{flagicon|SWE}} {{ill|Bruno Berglund|fr}}
+|[[Citroën ZX]]
+|{{nowrap|{{flagicon|FRA}} [[Stéphane Peterhansel]]}}
+|[[Yamaha YZE 750]]T
+|{{flagicon|FRA}} {{ill|Jacques Houssat|fr}}<br /> {{flagicon|FRA}} [[Thierry de Saulieu]]<br /> {{flagicon|ITA}} [[Danilo Bottaro]]
+|Perlini 105F
+|-
+![[1990 Dakar Rally|1990]]
+|Paris–Tripoli–Dakar
+|{{flagicon|FIN}} [[Ari Vatanen]]<br /> {{flagicon|SWE}} {{ill|Bruno Berglund|fr}}
+|[[Peugeot 405 Turbo-16|Peugeot 405 T16]]
+|{{flagicon|ITA}} [[Edi Orioli]]
+|{{ill|Cagiva Elefant|it}}
+|{{flagicon|ITA}} {{ill|Giorgio Villa|fr}}<br /> {{flagicon|ITA}} [[Giorgio Delfino]]<br /> {{flagicon|ITA}} [[Claudio Vinante]]
+|Perlini 105F
+|-
+![[1989 Dakar Rally|1989]]
+|Paris–[[Tunis]]–Dakar
+|{{flagicon|FIN}} [[Ari Vatanen]]<br /> {{flagicon|SWE}} {{ill|Bruno Berglund|fr}}
+|[[Peugeot 405 T16]]
+|{{flagicon|FRA}} [[Gilles Lalay]]
+|[[Honda]] NXR800V
+|colspan="2" align="center"|''Not held''
+|-
+![[1988 Dakar Rally|1988]]
+|Paris–[[Algiers|Alger]]–Dakar
+|{{flagicon|FIN}} [[Juha Kankkunen]]<br /> {{flagicon|FIN}} {{ill|Juha Piironen|fr}}
+|[[Peugeot 205 T16]]
+|{{flagicon|ITA}} [[Edi Orioli]]
+|Honda NXR800V
+|{{flagicon|CSK}} [[Karel Loprais]]<br /> {{flagicon|CZE}} [[Radomir Stachura]]<br /> {{flagicon|CZE}} [[Tomas Muck]]
+|[[Tatra 815]]
+|-
+![[1987 Dakar Rally|1987]]
+|Paris-Alger–Dakar
+|{{flagicon|FIN}} [[Ari Vatanen]]<br /> {{flagicon|FRA}} {{ill|Bernard Giroux|fr}}
+|[[Peugeot 205 T16]]
+|{{flagicon|FRA}} [[Cyril Neveu]]
+|Honda NXR750V
+|{{flagicon|NLD}} [[Jan de Rooy (rally driver)|Jan de Rooy]]<br /> {{flagicon|BEL}} [[Yvo Geusens]]<br /> {{flagicon|NLD}} [[Theo van de Rijt]]
+|[[DAF Trucks|DAF]] TurboTwin II
+|-
+![[1986 Dakar Rally|1986]]
+|Paris-Alger–Dakar
+|{{flagicon|FRA}} [[René Metge]]<br /> {{flagicon|FRA}} [[Dominique Lemoyne]]
+|[[Porsche 959#Racing|Porsche 959]]
+|{{flagicon|FRA}} [[Cyril Neveu]]
+|Honda NXR750V
+|{{flagicon|ITA}} {{ill|Giacomo Vismara|it}}<br /> {{flagicon|ITA}} [[Giulio Minelli]]
+|[[Unimog 435|Mercedes-Benz U 1300 L]]
+|-
+![[1985 Dakar Rally|1985]]
+|Paris-Alger–Dakar
+|{{flagicon|FRA}} {{ill|Patrick Zaniroli|fr}}<br /> {{flagicon|FRA}} {{ill|Jean da Silva|fr}}
+|[[Mitsubishi Pajero Evolution]]
+|{{flagicon|BEL}} [[Gaston Rahier]]
+|[[BMW R80G/S]]
+|{{nowrap|{{flagicon|DEU}} {{ill|Karl-Friedrich Capito|fr}}}}<br /> {{flagicon|DEU}} [[Jost Capito]]<br /> {{flagicon|DEU}} [[Klaus Schweikarl]]
+|Mercedes-Benz 1936 AK
+|-
+![[1984 Dakar Rally|1984]]
+|Paris-Alger–Dakar
+|{{flagicon|FRA}} [[René Metge]]<br /> {{flagicon|FRA}} {{ill|Dominique Lemoyne|fr}}
+|[[Porsche 953|Porsche 911 (953)]]
+|{{flagicon|BEL}} [[Gaston Rahier]]
+|[[BMW R80G/S]]
+|{{flagicon|FRA}} {{ill|Pierre Laleu|fr}}<br /> {{flagicon|FRA}} [[Daniel Durce]]<br /> {{flagicon|FRA}} [[Patrick Venturini]]
+|Mercedes-Benz 1936 AK
+|-
+![[1983 Dakar Rally|1983]]
+|Paris-Alger–Dakar
+|{{flagicon|BEL}} [[Jacky Ickx]]<br /> {{flagicon|FRA}} [[Claude Brasseur]]
+|[[Mercedes-Benz G-Class|Mercedes 280 GE]]
+|{{flagicon|FRA}} [[Hubert Auriol]]
+|[[BMW R80G/S]]
+|{{flagicon|FRA}} {{ill|Georges Groine|fr}}<br /> {{flagicon|FRA}} [[Thierry de Saulieu]]<br /> {{flagicon|FRA}} [[Bernard Malferiol]]
+|Mercedes-Benz 1936 AK
+|-
+![[1982 Dakar Rally|1982]]
+|Paris-Alger–Dakar
+|{{flagicon|FRA}} {{ill|Claude Marreau|fr}}<br /> {{flagicon|FRA}} {{ill|Bernard Marreau|fr}}
+|[[Renault 20/30|Renault 20 Turbo 4X4]]
+|{{flagicon|FRA}} [[Cyril Neveu]]
+|Honda XR550
+|{{flagicon|FRA}} {{ill|Georges Groine|fr}}<br /> {{flagicon|FRA}} [[Thierry de Saulieu]]<br /> {{flagicon|FRA}} [[Bernard Malferiol]]
+|[[Unimog 435|Mercedes-Benz U 1700 L]]
+|-
+![[1981 Dakar Rally|1981]]
+|Paris–Dakar
+|{{flagicon|FRA}} [[René Metge]]<br /> {{flagicon|FRA}} {{ill|Bernard Giroux|fr}}
+|[[Range Rover Classic|Range Rover]]
+|{{flagicon|FRA}} [[Hubert Auriol]]
+|[[BMW R80G/S]]
+|{{flagicon|FRA}} {{ill|Adrien Villette|fr}}<br /> {{flagicon|FRA}} [[Henri Gabrelle]]<br /> {{flagicon|FRA}} [[Alain Voillereau]]
+|ill|[[ACMAT|ALM/ACMAT]]
+|-
+![[1980 Dakar Rally|1980]]
+|Paris–Dakar
+|{{flagicon|SWE}} [[Freddy Kottulinsky]]<br /> {{flagicon|DEU}} [[Gerd Löffelmann]]
+||[[Volkswagen Iltis]]
+|{{flagicon|FRA}} [[Cyril Neveu]]
+|[[Yamaha XT500]]
+|{{flagicon|DZA}} {{ill|Miloud Ataouat|fr}}<br /> {{flagicon|DZA}} [[Hadj Daou Boukrif]]<br /> {{flagicon|DZA}} [[Mahiedine Kaloua]]
+|[[Sonacome]] M210
+|-
+![[1979 Dakar Rally|1979]]
+|Paris–Dakar
+|{{flagicon|FRA}} [[Alain Génestier]]<br /> {{flagicon|FRA}} [[Joseph Terbiaut]]<br /> {{flagicon|FRA}} [[Jean Lemordant]]
+|[[Range Rover Classic|Range Rover]]
+|{{flagicon|FRA}} [[Cyril Neveu]]
+|Yamaha XT500
+|colspan="2" align="center"|''Not held''
+|}
+
+Source:<ref name="auto">{{cite web|title=Dakar Retrospective 1979-2009|url=http://www.dakar.com/2011/DAK/presentation/docs/historique-dakar-1979-2009_us.pdf|work=Official website of the Dakar rally raid|publisher=Amaury Sport Organisation|access-date=19 July 2013|url-status=dead|archive-url=https://web.archive.org/web/20130614234211/http://www.dakar.com/2011/DAK/presentation/docs/historique-dakar-1979-2009_us.pdf|archive-date=14 June 2013}}</ref>
+
+=== Quads ===
+{| class="wikitable" style="font-size:85%;"
+!rowspan=2|Year
+!rowspan=2 style="width: 11em;"|Route
+!colspan=2|Quads
+|-
+!style="width: 13em;"|Rider
+!style="width: 7.5em;"|Make & model
+|-
+![[2024 Dakar Rally|2024]]
+|[[Al-'Ula]]–[[Yanbu]]
+|{{flagicon|ARG}} [[Manuel Andújar (motocyclist)|Manuel Andújar]]
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2023 Dakar Rally|2023]]
+|near [[Yanbu]]–[[Dammam]]
+|{{flagicon|FRA}} [[Alexandre Giroud]]
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2022 Dakar Rally|2022]]
+|[[Ḥaʼil]]–[[Jeddah]]
+|{{flagicon|FRA}} [[Alexandre Giroud]]
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2021 Dakar Rally|2021]]
+|[[Jeddah]]–[[Ḥaʼil]]
+|{{flagicon|ARG}} [[Manuel Andújar (motocyclist)|Manuel Andújar]]
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2020 Dakar Rally|2020]]
+|[[Jeddah]]–[[Riyadh]]–[[Qiddiya City]]
+|{{flagicon|CHI}} [[Ignacio Casale]]
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2019 Dakar Rally|2019]]
+|[[Lima]]–Lima
+|{{nowrap|{{flagicon|ARG}} [[Nicolás Cavigliasso]]}}
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2018 Dakar Rally|2018]]
+|[[Lima]]–[[La Paz]]–[[Córdoba, Argentina|Córdoba]]
+|{{flagicon|CHI}} [[Ignacio Casale]]
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2017 Dakar Rally|2017]]
+|[[Asunción]]–[[La Paz]]–[[Buenos Aires]]
+|{{flagicon|RUS}} [[Sergey Karyakin (racing driver)|Sergey Karyakin]]
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2016 Dakar Rally|2016]]
+|[[Buenos Aires]]–[[Salta]]-[[Rosario]]
+|{{flagicon|ARG}} [[Marcos Patronelli]]
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2015 Dakar Rally|2015]]
+|[[Buenos Aires]]–[[Iquique]]-Buenos Aires
+|{{flagicon|POL}} [[Rafał Sonik]]
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2014 Dakar Rally|2014]]
+|[[Rosario]]-[[Salta]]–[[Valparaíso]]
+|{{nowrap|{{flagicon|CHL}} [[Ignacio Casale]]}}
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2013 Dakar Rally|2013]]
+|[[Lima]]–[[San Miguel de Tucumán|Tucumán]]–[[Santiago]]
+|{{nowrap|{{flagicon|ARG}} [[Marcos Patronelli]]}}
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2012 Dakar Rally|2012]]
+|[[Mar del Plata]]–[[Arica]]–Lima
+|{{nowrap|{{flagicon|ARG}} [[Alejandro Patronelli]]}}
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2011 Dakar Rally|2011]]
+|Buenos Aires–Arica–Buenos Aires
+|{{nowrap|{{flagicon|ARG}} [[Alejandro Patronelli]]}}
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2010 Dakar Rally|2010]]
+|Buenos Aires–[[Antofagasta]]–Buenos Aires
+|{{nowrap|{{flagicon|ARG}} [[Marcos Patronelli]]}}
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|-
+![[2009 Dakar Rally|2009]]
+|Buenos Aires–Valparaíso–Buenos Aires
+|{{flagicon|CZE}} [[Josef Macháček]]
+|[[Yamaha Raptor 700R|Yamaha Raptor 700]]
+|}
+
+=== SSVs, Light Prototypes and Stock ===
+{| class="wikitable" style="font-size:85%;"
+!rowspan=2|Year
+!rowspan=2|Route
+!colspan=2|SSVs (UTVs until 2022)
+!colspan=2|Light Prototypes (T3)
+!colspan=2|Stock
+|-
+!Rider
+!Make & model
+!Driver<br /> Co-driver
+!Make & model
+!style="width: 10em;"|Driver<br /> Co-driver
+!style="width: 7em;"|Make & model
+|-
+![[2026 Dakar Rally|2026]]
+|[[Yanbu]]–[[Yanbu]]
+|{{flagicon|USA}} [[Brock Heger]]<br /> {{flagicon|USA}} Max Eddy
+|[[Polaris RZR|Polaris RZR Pro R]]
+|{{flagicon|ESP}} [[Pau Navarro (racing driver)|Pau Navarro]]<br /> {{flagicon|ESP}} Jan Rosa Viña
+|Taurus T3 Max
+|{{flagicon|LIT}} [[Rokas Baciuška]]<br /> {{flagicon|ESP}} Oriol Vidal
+|[[Land Rover Defender (L663)|Defender Dakar D7X-R]]
+|-
+![[2025 Dakar Rally|2025]]
+|[[Bisha]]–[[Shubaytah]]
+|{{flagicon|USA}} [[Brock Heger]]<br /> {{flagicon|USA}} Max Eddy
+|[[Polaris RZR|Polaris RZR Pro R]]
+|{{flagicon|ARG}} [[Nicolás Cavigliasso]]<br /> {{flagicon|ARG}} Valentina Pertegarini
+|Taurus T3 Max
+| colspan="2" rowspan="9" align="center" |''Not held''
+|-
+![[2024 Dakar Rally|2024]]
+|[[Al-'Ula]]–[[Yanbu]]
+|{{flagicon|FRA}} [[Xavier de Soultrait]]<br /> {{flagicon|FRA}} Martin Bonnet
+|[[Polaris RZR|Polaris RZR Pro R]]
+|{{flagicon|ESP}} [[Cristina Gutiérrez]]<br /> {{flagicon|ESP}} Pablo Moreno Huete
+|Taurus T3 Max
+|-
+![[2023 Dakar Rally|2023]]
+|near [[Yanbu]]–[[Dammam]]
+|{{flagicon|POL}} [[Eryk Goczał]]<br /> {{flagicon|ESP}} [[Oriol Mena]]
+|[[Can-Am Off-Road|Can-Am]] Maverick X3
+|{{flagicon|USA}} [[Austin Jones (racing driver)|Austin Jones]]<br /> {{flagicon|BRA}} [[Gustavo Gugelmin]]
+|[[Can-Am motorcycles|Can-Am]] Maverick XRS
+|-
+![[2022 Dakar Rally|2022]]
+|[[Ḥaʼil]]–[[Jeddah]]
+|{{flagicon|USA}} [[Austin Jones (racing driver)|Austin Jones]]<br /> {{flagicon|BRA}} [[Gustavo Gugelmin]]
+|[[Can-Am Off-Road|Can-Am]] Maverick X3
+|{{flagicon|CHI}} [[Francisco López Contardo]]<br /> {{nowrap|{{flagicon|CHI}} [[Juan Pablo Latrach Vinagre]]}}
+|[[Can-Am motorcycles|Can-Am]] XRS
+|-
+![[2021 Dakar Rally|2021]]
+|[[Jeddah]]–[[Ḥaʼil]]
+|{{flagicon|CHI}} [[Francisco López Contardo]]<br /> {{nowrap|{{flagicon|CHI}} [[Juan Pablo Latrach Vinagre]]}}
+|[[Can-Am Off-Road|Can-Am]] Maverick X3
+|{{flagicon|CZE}} [[Josef Macháček]]<br /> {{flagicon|CZE}} [[Pavel Vyoral]]
+|[[Can-Am motorcycles|Can-Am]]
+|-
+![[2020 Dakar Rally|2020]]
+|[[Jeddah]]–[[Riyadh]]–[[Qiddiya City]]
+|{{flagicon|USA}} [[Casey Currie]]<br /> {{flagicon|USA}} [[Sean Berriman]]
+|[[Can-Am Off-Road|Can-Am]] Maverick X3
+| colspan="2" rowspan="4" align="center" |''Not held''
+|-
+![[2019 Dakar Rally|2019]]
+|[[Lima]]–Lima
+|{{flagicon|CHI}} [[Francisco López Contardo]]<br /> {{flagicon|CHI}} [[Alvaro Quintanilla]]
+|[[Can-Am Off-Road|Can-Am]] Maverick X3
+|-
+![[2018 Dakar Rally|2018]]
+|[[Lima]]–[[La Paz]]–[[Córdoba, Argentina|Córdoba]]
+|{{flagicon|BRA}} [[Reinaldo Varela]]<br /> {{flagicon|BRA}} [[Gustavo Gugelmin]]
+|[[Can-Am Off-Road|Can-Am]] Maverick X3
+|-
+![[2017 Dakar Rally|2017]]
+|[[Asunción]]–[[La Paz]]–[[Buenos Aires]]
+|{{flagicon|BRA}} [[Leandro Torres (racing driver)|Leandro Torres]]<br /> {{flagicon|BRA}} [[Lourival Roldan]]
+|[[Polaris RZR]] 1000 XP
+|}
+
+===Classics and Mission 1000 ===
+{| class="wikitable" style="font-size:85%;"
+!rowspan=2|Year
+!rowspan=2|Route
+!colspan=2|Classics
+!colspan=2|Mission 1000
+|-
+!Driver<br /> Co-driver
+!Make & model
+!Driver<br /> Co-driver
+!Make & model
+|-
+! [[2026 Dakar Rally|2026]]
+| [[Yanbu]]–[[Yanbu]]
+| {{flagicon|LIT}} [[Karolis Raišys]]<br /> {{flagicon|FRA}} Christophe Marques
+| [[Land Rover series|Land Rover Series III 109]]
+| {{flagicon|ESP}} [[Jordi Juvanteny]]<br /> {{flagicon|ESP}} José Luis Criado<br /> {{flagicon|ESP}} Xavier Ribas
+| [[MAN TG-range|MAN TGA]]
+|-
+! [[2025 Dakar Rally|2025]]
+| [[Bisha]]–[[Shubaytah]]
+| {{flagicon|ESP}} [[Carlos Santaolalla]]<br /> {{flagicon|ESP}} Jan Rosa i Viñas
+| [[Toyota Land Cruiser|Toyota Land Cruiser HDJ80]]
+| {{flagicon|ESP}} [[Jordi Juvanteny]]<br /> {{flagicon|ESP}} José Luis Criado<br /> {{flagicon|ESP}} Xavier Ribas
+| [[MAN TG-range|MAN TGA 26.480]]
+|-
+! [[2024 Dakar Rally|2024]]
+| [[Al-'Ula]]–[[Yanbu]]
+| {{flagicon|ESP}} [[Carlos Santaolalla]]<br /> {{flagicon|ESP}} Jan Rosa i Viñas
+| [[Toyota Land Cruiser|Toyota Land Cruiser HDJ80]]
+| {{flagicon|ESP}} [[Jordi Juvanteny]]<br /> {{flagicon|ESP}} José Luis Criado<br /> {{flagicon|ESP}} Xavier Ribas
+| [[MAN TG-range|MAN TGA 26.480]]
+|-
+! [[2023 Dakar Rally|2023]]
+|near [[Yanbu]]–[[Dammam]]
+| {{flagicon|ESP}} [[Juan Morera (rally driver)|Juan Morera]]<br /> {{flagicon|ESP}} [[Lidia Ruba]]
+| [[Toyota Land Cruiser|Toyota Land Cruiser HDJ80]]
+| rowspan="3" colspan="2" align="center"|''Not held''
+|-
+! [[2022 Dakar Rally|2022]]
+| [[Ḥaʼil]]–[[Jeddah]]
+| {{flagicon|FRA}} [[Serge Mogno]]<br /> {{flagicon|FRA}} [[Florent Drulhon]]
+| [[Toyota Land Cruiser|Toyota Land Cruiser HDJ80]]
+|-
+! [[2021 Dakar Rally|2021]]
+| [[Jeddah]]–[[Ḥaʼil]]
+| {{flagicon|FRA}} [[Marc Douton]]<br /> {{flagicon|FRA}} [[Emilien Etienne]]
+| [[Sunhill Buggy]]
+|}
+
+==Podium==
+===Cars===
+{| class="wikitable sortable" style="font-size:85%; text-align:left;"
+|-
+! rowspan=2 width=4%|Year
+!colspan=2 style="width:32%; background:gold"|1st
+!colspan=2 style="width:32%; background:silver"|2nd
+!colspan=2 style="width:32%; background:#cc9966"| 3rd
+|-
+!width=17%|Driver!!width=15%|Car
+!width=17%|Driver!!width=15%|Car
+!width=17%|Driver!!width=15%|Car
+|-
+|align=center|[[1979 Paris–Dakar Rally|1979]]
+|{{flagicon|FRA}} [[Alain Génestier]] || [[Range Rover V8]]
+|{{flagicon|FRA}} [[Claude Marreau]]|| [[Renault 4 Sinpar]]
+|{{flagicon|ITA}} [[Cesare Giraudo]]|| [[Fiat Campagnola]]
+|-
+|align=center|[[1980 Paris–Dakar Rally|1980]]
+|{{flagicon|SWE}} [[Freddy Kottulinsky]] || [[Volkswagen Iltis]]
+|{{flagicon|FRA}} [[Patrick Zaniroli]]|| [[Volkswagen Iltis]]
+|{{flagicon|FRA}} [[Claude Marreau]]|| [[Renault 4 Sinpar]]
+|-
+|align=center|[[1981 Paris–Dakar Rally|1981]]
+|{{flagicon|FRA}} [[René Metge]] || [[Range Rover V8]]
+|{{flagicon|FRA}} [[Hervé Cotel]]|| [[Buggy Cotel]]
+|{{flagicon|FRA}} [[Jean-Claude Briavoine]]|| [[Lada Niva]]
+|-
+|align=center|[[1982 Paris–Dakar Rally|1982]]
+|{{flagicon|FRA}} [[Claude Marreau]]|| [[Renault 20 Turbo]]
+|{{flagicon|FRA}} [[Jean-Claude Briavoine]]|| [[Lada Niva]]
+|{{flagicon|FRA}} [[Jean-Pierre Jaussaud]] || [[Mercedes 280 GE]]
+|-
+|align=center|[[1983 Paris–Dakar Rally|1983]]
+|{{flagicon|BEL}} [[Jacky Ickx]] || [[Mercedes 280 GE]]
+|{{flagicon|FRA}} [[André Trossat]]|| [[Lada Niva]]
+|{{flagicon|FRA}} [[Pierre Lartigue]] || [[Range Rover V8]]
+|-
+|align=center|[[1984 Paris–Dakar Rally|1984]]
+|{{flagicon|FRA}} [[René Metge]] || [[Porsche 911]]
+|{{flagicon|FRA}} [[Patrick Zaniroli]]|| [[Range Rover V8]]
+|{{flagicon|GBR}} [[Andrew Cowan]] || [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[1985 Paris–Dakar Rally|1985]]
+|{{flagicon|FRA}} [[Patrick Zaniroli]]|| [[Mitsubishi Pajero Evolution]]
+|{{flagicon|GBR}} [[Andrew Cowan]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Pierre Fougerouse]]|| [[Toyota FJ 60]]
+|-
+|align=center|[[1986 Paris–Dakar Rally|1986]]
+|{{flagicon|FRA}} [[René Metge]] || [[Porsche 959]]
+|{{flagicon|BEL}} [[Jacky Ickx]] || [[Porsche 959]]
+|{{flagicon|FRA}} [[Pascal Rigal]]|| [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[1987 Paris–Dakar Rally|1987]]
+|{{flagicon|FIN}} [[Ari Vatanen]] || [[Peugeot 205 Turbo 16]]
+|{{flagicon|FRA}} [[Patrick Zaniroli]]|| [[Range Rover V8]]
+|{{flagicon|JPN}} [[Kenjiro Shinozuka]] || [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[1988 Paris–Dakar Rally|1988]]
+|{{flagicon|FIN}} [[Juha Kankkunen]] || [[Peugeot 205 Turbo 16]]
+|{{flagicon|JPN}} [[Kenjiro Shinozuka]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Patrick Tambay]] || [[Range Rover V8]]
+|-
+|align=center|[[1989 Paris–Dakar Rally|1989]]
+|{{flagicon|FIN}} [[Ari Vatanen]] || [[Peugeot 405 Turbo 16]]
+|{{flagicon|BEL}} [[Jacky Ickx]] || [[Peugeot 405 Turbo 16]]
+|{{flagicon|FRA}} [[Patrick Tambay]] || [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[1990 Paris–Dakar Rally|1990]]
+|{{flagicon|FIN}} [[Ari Vatanen]] || [[Peugeot 405 Turbo 16]]
+|{{flagicon|SWE}} [[Björn Waldegård]] || [[Peugeot 405 Turbo 16]]
+|{{flagicon|FRA}} [[Alain Ambrosino]] || [[Peugeot 405 Turbo 16]]
+|-
+|align=center|[[1991 Paris–Dakar Rally|1991]]
+|{{flagicon|FIN}} [[Ari Vatanen]] || {{ill|Citroën ZX Rallye-Raid|fr}}
+|{{flagicon|FRA}} [[Pierre Lartigue]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Jean Pierre Fontenay]]|| [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[1991 Paris–Dakar Rally|1992]]
+|{{flagicon|FRA}} [[Hubert Auriol]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|GER}} [[Erwin Weber]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|JPN}} [[Kenjiro Shinozuka]] || [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[1991 Paris–Dakar Rally|1993]]
+|{{flagicon|FRA}} [[Bruno Saby]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Pierre Lartigue]] || [[Citroën ZX Rallye-Raid]]
+|{{flagicon|FRA}} [[Hubert Auriol]] || [[Citroën ZX Rallye-Raid]]
+|-
+|align=center|[[1994 Paris–Dakar Rally|1994]]
+|{{flagicon|FRA}} [[Pierre Lartigue]] || [[Citroën ZX Rallye-Raid]]
+|{{flagicon|FRA}} [[Hubert Auriol]] || [[Citroën ZX Rallye-Raid]]
+|{{flagicon|FRA}} [[Philippe Wambergue]]|| [[Buggy Bourgoin]]
+|-
+|align=center|[[1995 Granada–Dakar Rally|1995]]
+|{{flagicon|FRA}} [[Pierre Lartigue]] || [[Citroën ZX Rallye-Raid]]
+|{{flagicon|FRA}} [[Bruno Saby]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|JPN}} [[Kenjiro Shinozuka]] || [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[1996 Granada–Dakar Rally|1996]]
+|{{flagicon|FRA}} [[Pierre Lartigue]] || [[Citroën ZX Rallye-Raid]]
+|{{flagicon|FRA}} [[Philippe Wambergue]]|| [[Citroën ZX Rallye-Raid]]
+|{{flagicon|FRA}} [[Jean Pierre Fontenay]]|| [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[1997 Paris–Dakar Rally|1997]]
+|{{flagicon|JPN}} [[Kenjiro Shinozuka]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Jean-Pierre Fontenay]]|| [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Bruno Saby]] || [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[1998 Paris–Granada–Dakar Rally|1998]]
+|{{flagicon|FRA}} [[Jean-Pierre Fontenay]]|| [[Mitsubishi Pajero Evolution]]
+|{{flagicon|JPN}} [[Kenjiro Shinozuka]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Bruno Saby]] || [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[1999 Granada–Dakar Rally|1999]]
+|{{flagicon|FRA}} [[Jean-Louis Schlesser]] || [[Buggy Schlesser]]
+|{{flagicon|ESP}} [[Miguel Prieto]]|| [[Mitsubishi Pajero Evolution]]
+|{{flagicon|GER}} [[Jutta Kleinschmidt]] || [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[2000 Paris–Dakar–Cairo Rally|2000]]
+|{{flagicon|FRA}} [[Jean-Louis Schlesser]] || [[Buggy Schlesser]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Mega Desert]]
+|{{flagicon|FRA}} [[Jean-Pierre Fontenay]]|| [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[2001 Paris–Dakar Rally|2001]]
+|{{flagicon|GER}} [[Jutta Kleinschmidt]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|JPN}} [[Hiroshi Masuoka (rally driver)|Hiroshi Masuoka]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Jean-Louis Schlesser]] || [[Buggy Schlesser]]
+|-
+|align=center|[[2002 Arras–Madrid–Dakar Rally|2002]]
+|{{flagicon|JPN}} [[Hiroshi Masuoka (rally driver)|Hiroshi Masuoka]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|GER}} [[Jutta Kleinschmidt]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|JPN}} [[Kenjiro Shinozuka]] || [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[2003 Dakar Rally|2003]]
+|{{flagicon|JPN}} [[Hiroshi Masuoka (rally driver)|Hiroshi Masuoka]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Jean-Pierre Fontenay]]|| [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[2004 Dakar Rally|2004]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|JPN}} [[Hiroshi Masuoka (rally driver)|Hiroshi Masuoka]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Jean-Louis Schlesser]] || [[Buggy Schlesser]]
+|-
+|align=center|[[2005 Dakar Rally|2005]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Luc Alphand]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|GER}} [[Jutta Kleinschmidt]] || <small>[[Volkswagen Race Touareg 2]]</small>
+|-
+|align=center|[[2006 Dakar Rally|2006]]
+|{{flagicon|FRA}} [[Luc Alphand]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|RSA}} [[Giniel de Villiers]] || <small>[[Volkswagen Race Touareg 2]]</small>
+|{{flagicon|ESP}} [[Nani Roma]] || [[Mitsubishi Pajero Evolution]]
+|-
+|align=center|[[2007 Dakar Rally|2007]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Luc Alphand]] || [[Mitsubishi Pajero Evolution]]
+|{{flagicon|FRA}} [[Jean-Louis Schlesser]] || [[Buggy Schlesser]]
+|-
+![[2008 Dakar Rally|2008]]
+|bgcolor=lightgrey colspan="6" style="text-align:center;"|''Cancelled''<ref name="motor"/>
+|-
+|align=center|[[2009 Dakar Rally|2009]]
+|{{flagicon|RSA}} [[Giniel de Villiers]] || <small>[[Volkswagen Race Touareg 2]]</small>
+|{{flagicon|USA}} [[Mark Miller (racer)|Mark Miller]] || <small>[[Volkswagen Race Touareg 2]]</small>
+|{{flagicon|USA}} [[Robby Gordon]] || [[Hummer H3]]
+|-
+|align=center|[[2010 Dakar Rally|2010]]
+|{{flagicon|ESP}} [[Carlos Sainz Sr.|Carlos Sainz]] || <small>[[Volkswagen Race Touareg 2]]</small>
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || <small>[[Volkswagen Race Touareg 2]]</small>
+|{{flagicon|USA}} [[Mark Miller (racer)|Mark Miller]] || <small>[[Volkswagen Race Touareg 2]]</small>
+|-
+|align=center|[[2011 Dakar Rally|2011]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || <small>[[Volkswagen Race Touareg 3]]</small>
+|{{flagicon|RSA}} [[Giniel de Villiers]] || <small>[[Volkswagen Race Touareg 3]]</small>
+|{{flagicon|ESP}} [[Carlos Sainz Sr.|Carlos Sainz]] || <small>[[Volkswagen Race Touareg 3]]</small>
+|-
+|align=center|[[2012 Dakar Rally|2012]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Mini All4 Racing]]
+|{{flagicon|ESP}} [[Nani Roma]] || [[Mini All4 Racing]]
+|{{flagicon|RSA}} [[Giniel de Villiers]] || [[Toyota Hilux Dakar]]
+|-
+|align=center|[[2013 Dakar Rally|2013]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Mini All4 Racing]]
+|{{flagicon|RSA}} [[Giniel de Villiers]] || [[Toyota Hilux Dakar]]
+|{{flagicon|RUS}} [[Leonid Novitskiy]] || [[Mini All4 Racing]]
+|-
+|align=center|[[2014 Dakar Rally|2014]]
+|{{flagicon|ESP}} [[Nani Roma]] || [[Mini All4 Racing]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Mini All4 Racing]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || [[Mini All4 Racing]]
+|-
+|align=center|[[2015 Dakar Rally|2015]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || [[Mini All4 Racing]]
+|{{flagicon|RSA}} [[Giniel de Villiers]] || [[Toyota Hilux Dakar]]
+|{{flagicon|POL}} [[Krzysztof Hołowczyc]] || [[Mini All4 Racing]]
+|-
+|align=center|[[2016 Dakar Rally|2016]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Peugeot 2008 DKR]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || [[Mini All4 Racing]]
+|{{flagicon|RSA}} [[Giniel de Villiers]] || [[Toyota Hilux Dakar]]
+|-
+|align=center|[[2017 Dakar Rally|2017]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Peugeot 3008 DKR]]
+|{{flagicon|FRA}} [[Sébastien Loeb]] || [[Peugeot 3008 DKR]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[Peugeot 3008 DKR]]
+|-
+|align=center|[[2018 Dakar Rally|2018]]
+|{{flagicon|ESP}} [[Carlos Sainz Sr.|Carlos Sainz]] || [[Peugeot 3008 DKR]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || [[Toyota Hilux Dakar]]
+|{{flagicon|RSA}} [[Giniel de Villiers]] || [[Toyota Hilux Dakar]]
+|-
+|align=center|[[2019 Dakar Rally|2019]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || [[Toyota Hilux Dakar]]
+|{{flagicon|ESP}} [[Nani Roma]] || [[Mini All4 Racing]]
+|{{flagicon|FRA}} [[Sébastien Loeb]] || [[Peugeot 3008 DKR]]
+|-
+|align=center|[[2020 Dakar Rally|2020]]
+|{{flagicon|ESP}} [[Carlos Sainz Sr.|Carlos Sainz]] || [[Mini John Cooper Works Buggy]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || [[Toyota Hilux Dakar]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Mini John Cooper Works Buggy]]
+|-
+|align=center|[[2021 Dakar Rally|2021]]
+|{{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Mini John Cooper Works Buggy]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || [[Toyota Hilux Dakar]]
+|{{flagicon|ESP}} [[Carlos Sainz Sr.|Carlos Sainz]] || [[Mini John Cooper Works Buggy]]
+|-
+|align=center|[[2022 Dakar Rally|2022]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || [[Toyota Hilux Dakar|Toyota GR DKR Hilux]]
+|{{flagicon|FRA}} [[Sébastien Loeb]] || [[Prodrive|BRX Hunter T1+]]
+|{{flagicon|KSA}} [[Yazeed Al-Rajhi]] || [[Toyota Hilux Dakar|Toyota Hilux Overdrive]]
+|-
+|align=center|[[2023 Dakar Rally|2023]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || [[Toyota Hilux Dakar|Toyota GR DKR Hilux]]
+|{{flagicon|FRA}} [[Sébastien Loeb]] || [[Prodrive|Prodrive Hunter T1+]]
+|{{flagicon|BRA}} [[Lucas Moraes]]|| [[Toyota Hilux Dakar|Toyota Hilux Overdrive]]
+|-
+|align=center|[[2024 Dakar Rally|2024]]
+|{{flagicon|ESP}} [[Carlos Sainz Sr.|Carlos Sainz]] || [[Audi RS Q e-tron]]
+|{{flagicon|BEL}} [[Guillaume De Mévius]] ||[[Toyota Hilux Dakar|Toyota Hilux Overdrive]]
+|{{flagicon|FRA}} [[Sébastien Loeb]] ||[[Prodrive|Prodrive Hunter T1+]]
+|-
+|align=center|[[2025 Dakar Rally|2025]]
+|{{flagicon|KSA}} [[Yazeed Al-Rajhi]] || [[Toyota Hilux Dakar|Toyota Hilux Overdrive]]
+|{{flagicon|RSA}} [[Henk Lategan]] || [[Toyota GR DKR Hilux]]
+|{{flagicon|SWE}} [[Mattias Ekström]] ||[[Ford Raptor|Ford Raptor T1+]]
+|-
+|align=center|[[2026 Dakar Rally|2026]]
+|{{flagicon|QAT}} [[Nasser Al-Attiyah]] || [[Dacia Sandrider]]
+|{{flagicon|ESP}} [[Nani Roma]] || [[Ford Raptor|Ford Raptor T1+]]
+|{{flagicon|SWE}} [[Mattias Ekström]] || [[Ford Raptor|Ford Raptor T1+]]
+|}
+
+===Bikes===
+{| class="wikitable" style="font-size:85%; text-align:left;"
+|-
+! rowspan=2 width=4%|Year
+!colspan=2 style="width:32%; background:gold"|1st
+!colspan=2 style="width:32%; background:silver"|2nd
+!colspan=2 style="width:32%; background:#cc9966"| 3rd
+|-
+!width=17%|Driver!!width=15%|Bike
+!width=17%|Driver!!width=15%|Bike
+!width=17%|Driver!!width=15%|Bike
+|-
+|align=center|[[1979 Paris–Dakar Rally|1979]]
+|{{flagicon|FRA}} [[Cyril Neveu]] || [[Yamaha XT 500]]
+|{{flagicon|FRA}} [[Gilles Comte]]|| [[Yamaha XT 500]]
+|{{flagicon|FRA}} [[Philippe Vassard]]|| [[Honda XL 250]]
+|-
+|align=center|[[1980 Paris–Dakar Rally|1980]]
+|{{flagicon|FRA}} [[Cyril Neveu]] || [[Yamaha XT 500]]
+|{{flagicon|FRA}} [[Michel Merel]]|| [[Yamaha XT 500]]
+|{{flagicon|FRA}} [[Jean-Noël Pineau]]|| [[Yamaha XT 500]]
+|-
+|align=center|[[1981 Paris–Dakar Rally|1981]]
+|{{flagicon|FRA}} [[Hubert Auriol]] || [[BMW R80 G/S]]
+|{{flagicon|FRA}} [[Serge Bacou]]|| [[Yamaha XT 500]]
+|{{flagicon|FRA}} [[Michel Merel]]|| [[Yamaha XT 500]]
+|-
+|align=center|[[1982 Paris–Dakar Rally|1982]]
+|{{flagicon|FRA}} [[Cyril Neveu]] || [[Honda XR 550]]
+|{{flagicon|FRA}} [[Philippe Vassard]]|| [[Honda XR 550]]
+|{{flagicon|FRA}} [[Grégoire Verhaeghe]]|| [[Barigo 500]]
+|-
+|align=center|[[1983 Paris–Dakar Rally|1983]]
+|{{flagicon|FRA}} [[Hubert Auriol]] || [[BMW R80 G/S]]
+|{{flagicon|FRA}} [[Patrick Drobecq]]|| [[Honda XR 600]]
+|{{flagicon|FRA}} [[Marc Joineau]]|| [[Suzuki DR 500]]
+|-
+|align=center|[[1984 Paris–Dakar Rally|1984]]
+|{{flagicon|BEL}} [[Gaston Rahier]] || [[BMW R80 G/S]]
+|{{flagicon|FRA}} [[Hubert Auriol]] || [[BMW R80 G/S]]
+|{{flagicon|FRA}} [[Philippe Vassard]]|| [[Honda XLR 600]]
+|-
+|align=center|[[1985 Paris–Dakar Rally|1985]]
+|{{flagicon|BEL}} [[Gaston Rahier]] || [[BMW R80 G/S]]
+|{{flagicon|FRA}} [[Jean-Claude Olivier]] || [[Yamaha 660 Proto]]
+|{{flagicon|ITA}} [[Franco Picco]] || [[Yamaha 600 XT]]
+|-
+|align=center|[[1986 Paris–Dakar Rally|1986]]
+|{{flagicon|FRA}} [[Cyril Neveu]] || [[Honda NXR 780]]
+|{{flagicon|FRA}} [[Gilles Lalay]] || [[Honda NXR 780]]
+|{{flagicon|ITA}} [[Andrea Balestrieri]]|| [[Honda XL 600]]
+|-
+|align=center|[[1987 Paris–Dakar Rally|1987]]
+| {{flagicon|FRA}} [[Cyril Neveu]] || [[Honda NXR 750]]
+|{{flagicon|ITA}} [[Edi Orioli]] || [[Honda XL 600]]
+|{{flagicon|BEL}} [[Gaston Rahier]] || [[BMW R80 GS]]
+|-
+|align=center|[[1988 Paris–Dakar Rally|1988]]
+| {{flagicon|ITA}} [[Edi Orioli]] || [[Honda NXR 800V]]
+|{{flagicon|ITA}} [[Franco Picco]] || [[Yamaha YZE 750]]
+|{{flagicon|FRA}} [[Gilles Lalay]] || [[Honda NXR 750]]
+|-
+|align=center|[[1989 Paris–Dakar Rally|1989]]
+| {{flagicon|FRA}} [[Gilles Lalay]] || [[Honda NXR 800V]]
+|{{flagicon|ITA}} [[Franco Picco]] || [[Yamaha YZE 750]]
+|{{flagicon|FRA}} [[Marc Morales]]|| [[Honda NXR 750]]
+|-
+|align=center|[[1990 Paris–Dakar Rally|1990]]
+| {{flagicon|ITA}} [[Edi Orioli]] || [[Cagiva Elefant 900]]
+|{{flagicon|ESP}} [[Carles Mas]] || [[Yamaha YZE 750]]
+|{{flagicon|ITA}} [[Alessandro De Petri]]|| [[Cagiva Elefant 900]]
+|-
+|align=center|[[1991 Paris–Dakar Rally|1991]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 750T]]
+| {{flagicon|FRA}} [[Gilles Lalay]] || [[Yamaha YZE 750T]]
+| {{flagicon|FRA}} [[Thierry Magnaldi]]|| [[Yamaha YZE 750T]]
+|-
+|align=center|[[1991 Paris–Dakar Rally|1992]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 850T]]
+|{{flagicon|USA}} [[Danny LaPorte]] || [[Cagiva Elefant 900]]
+|{{flagicon|ESP}} [[Jordi Arcarons]] || [[Cagiva Elefant 900]]
+|-
+|align=center|[[1991 Paris–Dakar Rally|1993]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 850T]]
+|{{flagicon|FRA}} [[Thierry Charbonnier]]|| [[Yamaha YZE 850T]]
+|{{flagicon|ESP}} [[Jordi Arcarons]] || [[Yamaha YZE 850T]]
+|-
+|align=center|[[1994 Paris–Dakar Rally|1994]]
+| {{flagicon|ITA}} [[Edi Orioli]] || [[Cagiva Elefant 900]]
+|{{flagicon|ESP}} [[Jordi Arcarons]] || [[Cagiva Elefant 900]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]] || [[Honda EXP-2]]
+|-
+|align=center|[[1995 Granada–Dakar Rally|1995]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 850T]]
+| {{flagicon|ESP}} [[Jordi Arcarons]] || [[Cagiva Elefant 900]]
+| {{flagicon|ITA}} [[Edi Orioli]] || [[Cagiva Elefant 900]]
+|-
+|align=center|[[1996 Granada–Dakar Rally|1996]]
+| {{flagicon|ITA}} [[Edi Orioli]] || [[Yamaha YZE 850T]]
+| {{flagicon|ESP}} [[Jordi Arcarons]] || [[KTM LC4]]
+| {{flagicon|ESP}} [[Carlos Sotelo]]|| [[KTM LC4]]
+|-
+|align=center|[[1997 Paris–Dakar Rally|1997]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 850T]]
+|{{flagicon|ESP}} [[Oscar Gallardo (motorcyclist)|Oscar Gallardo]] || [[Cagiva Elefant 900]]
+|{{flagicon|FRA}} [[David Castera]]|| [[Yamaha YZE 850T]]
+|-
+|align=center|[[1998 Paris–Granada–Dakar Rally|1998]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 850T]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]] || [[KTM LC4]]
+|{{flagicon|AUS}} [[Andrew Haydon (motorcyclist)|Andrew Haydon]]|| [[KTM LC4]]
+|-
+|align=center|[[1999 Granada–Dakar Rally|1999]]
+|{{flagicon|FRA}} [[Richard Sainct]] || [[BMW F650 RR]]
+|{{flagicon|FRA}} [[Thierry Magnaldi]]|| [[KTM LC4]]
+|{{flagicon|RSA}} [[Alfie Cox]]|| [[KTM LC4]]
+|-
+|align=center|[[2000 Paris–Dakar–Cairo Rally|2000]]
+|{{flagicon|FRA}} [[Richard Sainct]] || [[BMW F650 RR]]
+|{{flagicon|ESP}} [[Oscar Gallardo (motorcyclist)|Oscar Gallardo]] || [[BMW F650 RR]]
+|{{flagicon|USA}} [[Jimmy Lewis (motorcyclist)|Jimmy Lewis]]|| [[BMW R900 GS]]
+|-
+|align=center|[[2001 Paris–Dakar Rally|2001]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]] || [[KTM LC4 660R]]
+|{{flagicon|ESP}} [[Jordi Arcarons]] || [[KTM LC4 660R]]
+|{{flagicon|CHI}} [[Carlo de Gavardo]] || [[KTM LC4 660R]]
+|-
+|align=center|[[2002 Arras–Madrid–Dakar Rally|2002]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]] || [[KTM LC8 950R]]
+|{{flagicon|RSA}} [[Alfie Cox]]|| [[KTM LC4 660R]]
+|{{flagicon|FRA}} [[Richard Sainct]] || [[KTM LC4 660R]]
+|-
+|align=center|[[2003 Dakar Rally|2003]]
+|{{flagicon|FRA}} [[Richard Sainct]] || [[KTM LC4 660R]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM LC4 660R]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]] || [[KTM LC8 950R]]
+|-
+|align=center|[[2004 Dakar Rally|2004]]
+|{{flagicon|ESP}} [[Nani Roma]] || [[KTM LC4 660R]]
+|{{flagicon|FRA}} [[Richard Sainct]] || [[KTM LC4 660R]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM LC4 660R]]
+|-
+|align=center|[[2005 Dakar Rally|2005]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM LC4 660R]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM LC4 660R]]
+|{{flagicon|RSA}} [[Alfie Cox]]|| [[KTM LC4 660R]]
+|-
+|align=center|[[2006 Dakar Rally|2006]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM LC4 660R]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM LC4 660R]]
+|{{flagicon|ITA}} [[Giovanni Sala]] || [[KTM LC4 660R]]
+|-
+|align=center|[[2007 Dakar Rally|2007]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 690 Rally]]
+|{{flagicon|FRA}} [[David Casteu]]|| [[KTM 690 Rally]]
+|{{flagicon|USA}} [[Chris Blais]] || [[KTM 660 Rally]]
+|-
+![[2008 Dakar Rally|2008]]
+|bgcolor=lightgrey colspan="6" style="text-align:center;"|''Cancelled''<ref name="motor"/>
+|-
+|align=center|[[2009 Dakar Rally|2009]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM 690 Rally]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 690 Rally]]
+|{{flagicon|FRA}} [[David Frétigné]]|| [[Yamaha WR 450]]
+|-
+|align=center|[[2010 Dakar Rally|2010]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 690 Rally]]
+|{{flagicon|NOR}} [[Pål Anders Ullevålseter]] || [[KTM 690 Rally]]
+|{{flagicon|CHI}} [[Francisco López Contardo|Francisco López]] || [[Aprilia RXV 450]]
+|-
+|align=center|[[2011 Dakar Rally|2011]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM 450 Rally]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 450 Rally]]
+|{{flagicon|POR}} [[Hélder Rodrigues (motorcyclist)|Hélder Rodrigues]] || [[Yamaha WR 450F]]
+|-
+|align=center|[[2012 Dakar Rally|2012]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 450 Rally]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM 450 Rally]]
+|{{flagicon|POR}} [[Hélder Rodrigues (motorcyclist)|Hélder Rodrigues]] || [[Yamaha WR 450F]]
+|-
+|align=center|[[2013 Dakar Rally|2013]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 450 Rally]]
+|{{flagicon|POR}} [[Ruben Faria]] || [[KTM 450 Rally]]
+|{{flagicon|CHI}} [[Francisco López Contardo|Francisco López]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2014 Dakar Rally|2014]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM 450 Rally]]
+|{{flagicon|ESP}} [[Jordi Viladoms]]|| [[KTM 450 Rally]]
+|{{flagicon|FRA}} [[Olivier Pain]] || [[Yamaha WR 450F]]
+|-
+|align=center|[[2015 Dakar Rally|2015]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM 450 Rally]]
+|{{flagicon|POR}} [[Paulo Gonçalves (motorcyclist)|Paulo Gonçalves]] || [[Honda CRF 450]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2016 Dakar Rally|2016]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|{{flagicon|SVK}} [[Štefan Svitko]] || [[KTM 450 Rally]]
+|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Husqvarna FR 450]]
+|-
+|align=center|[[2017 Dakar Rally|2017]]
+|{{flagicon|GBR}} [[Sam Sunderland]] || [[KTM 450 Rally]]
+|{{flagicon|AUT}} [[Matthias Walkner]] || [[KTM 450 Rally]]
+|{{flagicon|ESP}} [[Gerard Farrés]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2018 Dakar Rally|2018]]
+|{{flagicon|AUT}} [[Matthias Walkner]] || [[KTM 450 Rally]]
+|{{flagicon|ARG}} [[Kevin Benavides]] || [[Honda CRF 450]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2019 Dakar Rally|2019]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|{{flagicon|AUT}} [[Matthias Walkner]] || [[KTM 450 Rally]]
+|{{flagicon|GBR}} [[Sam Sunderland]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2020 Dakar Rally|2020]]
+|{{flagicon|USA}} [[Ricky Brabec]] || [[Honda CRF 450 Rally]]
+|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Husqvarna FR 450]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2021 Dakar Rally|2021]]
+|{{flagicon|ARG}} [[Kevin Benavides]] || [[Honda CRF 450 Rally]]
+|{{flagicon|USA}} [[Ricky Brabec]] || [[Honda CRF 450 Rally]]
+|{{flagicon|GBR}} [[Sam Sunderland]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2022 Dakar Rally|2022]]
+|{{flagicon|GBR}} [[Sam Sunderland]] || [[Gas Gas|Gas Gas 450 Rally]]
+|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Honda CRF450R|Honda CRF450 Rally]]
+|{{flagicon|AUT}} [[Matthias Walkner]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2023 Dakar Rally|2023]]
+|{{flagicon|ARG}} [[Kevin Benavides]] ||  [[KTM 450 Rally]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|{{flagicon|USA}} [[Skyler Howes]]|| [[Husqvarna Motorcycles|Husqvarna 450 Rally]]
+|-
+|align=center|[[2024 Dakar Rally|2024]]
+|{{flagicon|USA}} [[Ricky Brabec]] || [[Honda CRF 450 Rally]]
+|{{flagicon|BWA}} [[Ross Branch (motorcyclist)|Ross Branch]] || [[Hero 450 Rally]]
+|{{flagicon|FRA}} [[Adrien Van Beveren]]|| [[Honda CRF 450 Rally]]
+|-
+|align=center|[[2025 Dakar Rally|2025]]
+|{{flagicon|AUS}} [[Daniel Sanders (motorcyclist)|Daniel Sanders]] || [[KTM 450 Rally]]
+|{{flagicon|ESP}} [[Tosha Schareina]] || [[Honda CRF 450 Rally]]
+|{{flagicon|FRA}} [[Adrien Van Beveren]]|| [[Honda CRF 450 Rally]]
+|-
+|align=center|[[2026 Dakar Rally|2026]]
+|{{flagicon|ARG}} [[Luciano Benavides]] || [[KTM 450 Rally]]
+|{{flagicon|USA}} [[Ricky Brabec]] || [[Honda CRF 450 Rally]]
+|{{flagicon|ESP}} [[Tosha Schareina]] || [[Honda CRF 450 Rally]]
+|}
+
+===Trucks===
+{| class="wikitable" style="font-size:85%; text-align:left;"
+|-
+!rowspan=2 width=4%|Year
+!colspan=2 style="width:32%; background:gold"|1st
+!colspan=2 style="width:32%; background:silver"|2nd
+!colspan=2 style="width:32%; background:#cc9966"| 3rd
+|-
+!Crew!!Truck
+!Crew!!Truck
+!Crew!!Truck
+|-
+|align=center|[[1980 Dakar Rally|1980]]
+|{{flagicon|ALG}} [[Miloud Ataouat]]<br>{{flagicon|ALG}} Hadj Daou Boukrif<br>{{flagicon|ALG}} Mahiedine Kaloua || [[Sonacome]]
+|{{flagicon|FRA}} [[Bernard Heu]]<br>{{flagicon|FRA}} Daniel Delobel<br>{{flagicon|FRA}} Gilbert Versino || [[MAN SE|MAN]]
+|{{flagicon|ALG}} [[Mokran Bouzid]]<br>{{flagicon|ALG}} Daid<br>{{flagicon|ALG}} Mekhelef || [[Sonacome]]
+|-
+|align=center|[[1981 Dakar Rally|1981]]
+|{{flagicon|FRA}} [[Adrien Villette]]<br>{{flagicon|FRA}} Henri Gabrelle<br>{{flagicon|FRA}} Alain Voillereau || [[ACMAT|ALM-ACMAT]]
+|{{flagicon|FRA}} [[Jacques Briy]]<br>{{flagicon|FRA}} Jean Salou<br>{{flagicon|FRA}} Gustave Peu || [[Ford Motor Company|Ford]]
+|{{flagicon|FRA}} [[Georges Groine]]<br>{{flagicon|FRA}} Thierry de Saulieu<br>{{flagicon|FRA}} Bernard Malferiol || [[Mercedes-Benz]]
+|-
+|align=center|[[1982 Dakar Rally|1982]]
+|{{flagicon|FRA}} [[Georges Groine]]<br>{{flagicon|FRA}} Thierry de Saulieu<br>{{flagicon|FRA}} Bernard Malferiol || [[Mercedes-Benz]]
+|{{flagicon|FRA}} [[Pierre Laleu]]<br>{{flagicon|FRA}} Bernard Langlois || [[Mercedes-Benz]]
+|{{flagicon|NLD}} [[Jan de Rooy (rally driver)|Jan de Rooy]]<br>{{flagicon|NLD}} Gérard Straetmans || [[DAF Trucks|DAF]]
+|-
+|align=center|[[1983 Dakar Rally|1983]]
+|{{flagicon|FRA}} [[Georges Groine]]<br>{{flagicon|FRA}} Thierry de Saulieu<br>{{flagicon|FRA}} Bernard Malferiol || [[Mercedes-Benz]]
+|{{flagicon|SWE}} [[Hasse Henriksson]]<br>{{flagicon|SWE}} Sture Bernhardsson<br>{{flagicon|SWE}} John Granäng || [[Volvo C303]]
+|{{flagicon|NLD}} [[Jan de Rooy (rally driver)|Jan de Rooy]]<br>{{flagicon|NLD}} Joop Roggeband<br>{{flagicon|BEL}} Yvo Geusens || [[DAF Trucks|DAF]]
+|-
+|align=center|[[1984 Dakar Rally|1984]]
+|{{flagicon|FRA}} [[Pierre Laleu]]<br>{{flagicon|FRA}} Daniel Durce<br>{{flagicon|FRA}} Patrick Venturini || [[Mercedes-Benz]]
+|{{flagicon|ITA}} [[Paolo Bonera]]<br>{{flagicon|ITA}} Valerio Grassi<br>{{flagicon|ITA}} Paolo Travaglia || [[Mercedes-Benz]]
+|{{flagicon|FRA}} [[Henri Gabrelle]]<br>{{flagicon|FRA}} Alain Voillereau<br>{{flagicon|GER}} Adolf Dirl || [[MAN SE|MAN]]
+|-
+|align=center|[[1985 Dakar Rally|1985]]
+|{{flagicon|GER}} [[Karl Friedrich Capito]]<br>{{flagicon|GER}} [[Jost Capito]]<br>{{flagicon|GER}} Klaus Schweikarl || [[Mercedes-Benz]]
+|{{flagicon|NLD}} [[Jan de Rooy (rally driver)|Jan de Rooy]]<br>{{flagicon|FRA}} Thierry de Saulieu<br>{{flagicon|NLD}} Martinus Ketelaars || [[DAF Trucks|DAF]]
+|{{flagicon|GER}} [[Karl Wilhelm Strohmann]]<br>{{flagicon|GER}} Volker Capito<br>{{flagicon|GER}} Heinz Schnepf || [[Mercedes-Benz]]
+|-
+|align=center|[[1986 Dakar Rally|1986]]
+|{{flagicon|ITA}} [[Giacomo Vismara]]<br>{{flagicon|ITA}} Giulio Minelli || [[Mercedes-Benz]]
+|{{flagicon|GER}} [[Hans Heyer]]<br>{{flagicon|GER}} Aldo Winkler || [[MAN SE|MAN]]
+|{{flagicon|ESP}} [[Salvador Cañellas]]<br>{{flagicon|ESP}} Domenech Ferran || [[Pegaso]]
+|-
+|align=center|[[1987 Dakar Rally|1987]]
+|{{flagicon|NLD}} [[Jan de Rooy (rally driver)|Jan de Rooy]]<br>{{flagicon|BEL}} Yvo Geusens <br>{{flagicon|NLD}} Theo van de Rijt|| [[DAF Trucks|DAF]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br>{{flagicon|CZE}} Radomír Stachura <br>{{flagicon|CZE}} Jaroslav Krpec || [[Tatra 815|Tatra]]
+|{{flagicon|CZE}} [[Jiří Moskal]]<br>{{flagicon|CZE}} Jaroslav Joklík<br>{{flagicon|CZE}} Pavel Záleský || [[LIAZ (Czech Republic)|LIAZ]]
+|-
+|align=center|[[1988 Dakar Rally|1988]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br>{{flagicon|CZE}} Radomír Stachura <br>{{flagicon|CZE}} Tomáš Mück || [[Tatra 815|Tatra]]
+|{{flagicon|CZE}} [[Jiří Moskal]]<br>{{flagicon|CZE}} František Vojtíšek<br>{{flagicon|CZE}} Pavel Záleský || [[LIAZ (Czech Republic)|LIAZ]]
+|{{flagicon|GER}} [[Lutz Bernau]]<br>{{flagicon|GER}} Egmont Bartmann<br>{{flagicon|GER}} Andreas Kluge || [[Tatra 815|Tatra]]
+|-
+|align=center|[[1989 Dakar Rally|1989]]
+|bgcolor=lightgrey align=center colspan=6| ''Category not held''
+|-
+|align=center|[[1990 Dakar Rally|1990]]
+|{{flagicon|ITA}} [[Giorgio Villa]]<br>{{flagicon|ITA}} Giorgio Delfino<br>{{flagicon|ITA}} Claudio Vinante || [[Perlini]]
+|{{flagicon|FRA}} [[Jacques Houssat]]<br>{{flagicon|FRA}} Thierry De Saulieu<br>{{flagicon|ITA}} Danilo Bottaro || [[Perlini]]
+|{{flagicon|CZE}} [[Zdeněk Kahánek]]<br>{{flagicon|CZE}} Jaroslav Krpec <br>{{flagicon|CZE}} Jiří Havlík || [[Tatra 815|Tatra]]
+|-
+|align=center|[[1991 Dakar Rally|1991]]
+|{{flagicon|FRA}} [[Jacques Houssat]]<br>{{flagicon|FRA}} Thierry de Saulieu<br>{{flagicon|ITA}} Danilo Bottaro || [[Perlini]]
+|{{flagicon|RUS}} [[Vladimir Goltsov]]<br>{{flagicon|RUS}} Firdaus Kabirov<br>{{flagicon|RUS}} Valery Koblukov || [[Kamaz]]
+|{{flagicon|EST}} [[Joel Tammeka]]<br>{{flagicon|EST}} Juhan Anupõld <br>{{flagicon|EST}} Enno Piirsalu || [[Kamaz]]
+|-
+|align=center|[[1992 Dakar Rally|1992]]
+|{{flagicon|ITA}} [[Francesco Perlini]]<br>{{flagicon|ITA}} Giorgio Albiero<br>{{flagicon|ITA}} Claudio Vinante || [[Perlini]]
+|{{flagicon|FRA}} [[Jacques Houssat]]<br>{{flagicon|FRA}} Thierry de Saulieu<br>{{flagicon|ITA}} Danilo Bottaro || [[Perlini]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br>{{flagicon|CZE}} Josef Kalina <br>{{flagicon|CZE}} Radomír Stachura || [[Tatra 815|Tatra]]
+|-
+|align=center|[[1993 Dakar Rally|1993]]
+|{{flagicon|ITA}} [[Francesco Perlini]]<br>{{flagicon|ITA}} Giorgio Albiero<br>{{flagicon|ITA}} Claudio Vinante || [[Perlini]]
+|{{flagicon|FRA}} [[Jacques Houssat]]<br>{{flagicon|FRA}} Patrick Sarliève<br>{{flagicon|ITA}} Livio Diamante || [[Perlini]]
+|{{flagicon|FRA}} [[Gilbert Versino]]<br>{{flagicon|FRA}} Raphaël Gimbre<br>{{flagicon|ITA}} Christian Versino || [[Mercedes-Benz]]
+|-
+|align=center|[[1994 Dakar Rally|1994]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br>{{flagicon|CZE}} Radomír Stachura <br>{{flagicon|CZE}} Josef Kalina || [[Tatra 815|Tatra]]
+|{{flagicon|JPN}} [[Yoshimasa Sugawara]]<br>{{flagicon|JPN}} Hideki Shibata || [[Hino Motors|Hino]]
+|{{flagicon|FRA}} [[Jacques Marvy]]<br>{{flagicon|FRA}} M. Pons<br>{{flagicon|FRA}} J.P. Dujon || [[Perlini]]
+|-
+|align=center|[[1995 Dakar Rally|1995]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br>{{flagicon|CZE}} Radomír Stachura <br>{{flagicon|CZE}} Josef Kalina || [[Tatra 815|Tatra]]
+|{{flagicon|JPN}} [[Yoshimasa Sugawara]]<br>{{flagicon|JPN}} Hideki Shibata || [[Hino Motors|Hino]]
+|{{flagicon|CZE}} [[Vlastimil Buchtyár]]<br>{{flagicon|CZE}} Milan Kořený<br>{{flagicon|CZE}} Jaroslav Krpec || [[Tatra 815|Tatra]]
+|-
+|align=center|[[1996 Dakar Rally|1996]]
+|{{flagicon|RUS}} [[Viktor Moskovskikh]]<br>{{flagicon|RUS}} Anatoly Kuzmin<br>{{flagicon|RUS}} Nail Bagavetdinov || [[Kamaz]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br>{{flagicon|CZE}} Tomáš Tomeček<br>{{flagicon|CZE}} Radomír Stachura || [[Tatra 815|Tatra]]
+|{{flagicon|CZE}} [[Ladislav Fajtl]]<br>{{flagicon|CZE}} Jiří Janoušek<br>{{flagicon|CZE}}František Wurst || [[Tatra 815|Tatra]]
+|-
+|align=center|[[1997 Dakar Rally|1997]]
+|{{flagicon|AUT}} [[Peter Reif]]<br>{{flagicon|AUT}} Johann Deinhofer Roth || [[Hino Motors|Hino]]
+|{{flagicon|JPN}} [[Yoshimasa Sugawara]]<br>{{flagicon|JPN}} Naoko Matsumoto<br>{{flagicon|JPN}} Katsumi Hamura || [[Hino Motors|Hino]]
+|{{flagicon|BEL}} [[Joseph Petit]]<br>{{flagicon|FRA}} Jean-Christophe Wagner<br>{{flagicon|JPN}} Takeshi Hashimoto || [[Hino Motors|Hino]]
+|-
+|align=center|[[1998 Dakar Rally|1998]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br>{{flagicon|CZE}} Radomír Stachura <br>{{flagicon|CZE}} Jan Čermák || [[Tatra 815|Tatra]]
+|{{flagicon|JPN}} [[Yoshimasa Sugawara]]<br>{{flagicon|JPN}} Naoko Matsumoto<br>{{flagicon|JPN}} Takashi Ushioda || [[Hino Motors|Hino]]
+|{{flagicon|CZE}} [[Milan Kořený]]<br>{{flagicon|CZE}} Jaroslav Lamač <br>{{flagicon|CZE}} Martin Kahánek || [[Tatra 815|Tatra]]
+|-
+|align=center|[[1999 Dakar Rally|1999]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br>{{flagicon|CZE}} Radomír Stachura <br>{{flagicon|CZE}} Josef Kalina || [[Tatra 815|Tatra]]
+|{{flagicon|RUS}} [[Viktor Moskovskikh]]<br>{{flagicon|RUS}} [[Vladimir Chagin]] <br>{{flagicon|RUS}} Semen Yakubov || [[Kamaz]]
+|{{flagicon|BRA}} [[André de Azevedo]]<br>{{flagicon|CZE}} Tomáš Tomeček <br>{{flagicon|BRA}} [[Leilane Neubarth]] || [[Tatra 815|Tatra]]
+|-
+|align=center|[[2000 Dakar Rally|2000]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br>{{flagicon|RUS}} Semen Yakubov <br>{{flagicon|RUS}} Sergey Savostin || [[Kamaz]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br>{{flagicon|CZE}} Radomír Stachura <br>{{flagicon|CZE}} Petr Gilar || [[Tatra 815|Tatra]]
+|{{flagicon|RUS}} [[Firdaus Kabirov]]<br>{{flagicon|RUS}} Aydar Belyaev <br>{{flagicon|RUS}} Vladimir Goloub || [[Kamaz]]
+|-
+|align=center|[[2001 Dakar Rally|2001]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br>{{flagicon|CZE}} Josef Kalina <br>{{flagicon|CZE}} Petr Hamerla || [[Tatra 815|Tatra]]
+|{{flagicon|JPN}} [[Yoshimasa Sugawara]]<br>{{flagicon|JPN}} Seiichi Suzuki<br>{{flagicon|JPN}} Teruhito Sugawara || [[Hino Motors|Hino]]
+|{{flagicon|AUT}} [[Peter Reif]]<br>{{flagicon|AUT}} Gunther Pichlbauer<br>{{flagicon|GER}} Holger Hermann Roth || [[MAN SE|MAN]]
+|-
+|align=center|[[2002 Dakar Rally|2002]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br>{{flagicon|RUS}} Semen Yakubov <br>{{flagicon|RUS}} Sergey Savostin || [[Kamaz]]
+|{{flagicon|CZE}} [[Karel Loprais]]<br>{{flagicon|CZE}} Josef Kalina <br>{{flagicon|CZE}} Petr Hamerla || [[Tatra 815|Tatra]]
+|{{flagicon|JPN}} [[Yoshimasa Sugawara]]<br>{{flagicon|JPN}} Naoko Matsumoto<br>{{flagicon|JPN}} Seiichi Suzuki || [[Hino Motors|Hino]]
+|-
+|align=center|[[2003 Dakar Rally|2003]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br>{{flagicon|RUS}} Semen Yakubov <br>{{flagicon|RUS}} Sergey Savostin || [[Kamaz]]
+|{{flagicon|BRA}} [[André de Azevedo]]<br>{{flagicon|CZE}} Tomáš Tomeček <br>{{flagicon|CZE}} Jaromír Martinec || [[Tatra 815|Tatra]]
+|{{flagicon|RUS}} [[Firdaus Kabirov]]<br>{{flagicon|RUS}} Aydar Belyaev <br>{{flagicon|RUS}} Ilgizar Mardeev || [[Kamaz]]
+|-
+|align=center|[[2004 Dakar Rally|2004]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br>{{flagicon|RUS}} Semen Yakubov <br>{{flagicon|RUS}} Sergey Savostin || [[Kamaz]]
+|{{flagicon|RUS}} [[Firdaus Kabirov]]<br>{{flagicon|RUS}} Aydar Belyaev <br>{{flagicon|RUS}} Dzhamil Kamalov || [[Kamaz]]
+|{{flagicon|NLD}} [[Gerard de Rooy]]<br>{{flagicon|BEL}} Tom Colsoul <br>{{flagicon|NLD}} Arno Slaats || [[DAF Trucks|DAF]]
+|-
+|align=center|[[2005 Dakar Rally|2005]]
+|{{flagicon|RUS}} [[Firdaus Kabirov]]<br>{{flagicon|RUS}} Aydar Belyaev <br>{{flagicon|RUS}} Andrey Mokeev || [[Kamaz]]
+|{{flagicon|JPN}} [[Yoshimasa Sugawara]]<br>{{flagicon|JPN}} Katsumi Hamura || [[Hino Motors|Hino]]
+|{{flagicon|ITA}} [[Giacomo Vismara]]<br>{{flagicon|ITA}} Mario Cambiaghi <br>{{flagicon|ITA}} Claudio Bellina || [[Mercedes-Benz]]
+|-
+|align=center|[[2006 Dakar Rally|2006]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br>{{flagicon|RUS}} Semen Yakubov <br>{{flagicon|RUS}} Sergey Savostin || [[Kamaz]]
+|{{flagicon|NLD}} [[Hans Stacey]]<br>{{flagicon|BEL}} Charly Gotlib <br>{{flagicon|NLD}} Bernard der Kinderen || [[MAN SE|MAN]]
+|{{flagicon|RUS}} [[Firdaus Kabirov]]<br>{{flagicon|RUS}} Aydar Belyaev <br>{{flagicon|RUS}} Andrey Mokeev || [[Kamaz]]
+|-
+|align=center|[[2007 Dakar Rally|2007]]
+|{{flagicon|NLD}} [[Hans Stacey]]<br>{{flagicon|BEL}} Charly Gotlib <br>{{flagicon|NLD}} Bernard der Kinderen || [[MAN SE|MAN]]
+|{{flagicon|RUS}} [[Ilgizar Mardeev]]<br>{{flagicon|RUS}} Aydar Belyaev <br>{{flagicon|RUS}} [[Eduard Nikolaev]] || [[Kamaz]]
+|{{flagicon|CZE}} [[Aleš Loprais]]<br>{{flagicon|CZE}} Petr Gilar || [[Tatra 815|Tatra]]
+|-
+![[2008 Dakar Rally|2008]]
+|bgcolor=lightgrey colspan="6" style="text-align:center;"|''Cancelled''<ref name="motor"/>
+|-
+|align=center|[[2009 Dakar Rally|2009]]
+|{{flagicon|RUS}} [[Firdaus Kabirov]]<br>{{flagicon|RUS}} Aydar Belyaev <br>{{flagicon|RUS}} Andrey Mokeev || [[Kamaz]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br>{{flagicon|RUS}} Sergey Savostin <br>{{flagicon|RUS}} [[Eduard Nikolaev]] || [[Kamaz]]
+|{{flagicon|NLD}} [[Gerard de Rooy]]<br>{{flagicon|BEL}} Tom Colsoul <br>{{flagicon|NLD}} Marcel van Melis || [[GINAF]]
+|-
+|align=center|[[2010 Dakar Rally|2010]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br>{{flagicon|RUS}} Sergey Savostin <br>{{flagicon|RUS}} [[Eduard Nikolaev]] || [[Kamaz]]
+|{{flagicon|RUS}} [[Firdaus Kabirov]]<br>{{flagicon|RUS}} Aydar Belyaev <br>{{flagicon|RUS}} Andrey Mokeev || [[Kamaz]]
+|{{flagicon|NLD}} [[Marcel van Vliet]]<br>{{flagicon|NLD}} Herman Vaanholt <br>{{flagicon|NLD}} Gerard van Veenendaal || [[GINAF]]
+|-
+|align=center|[[2011 Dakar Rally|2011]]
+|{{flagicon|RUS}} [[Vladimir Chagin]]<br>{{flagicon|RUS}} Sergey Savostin <br>{{flagicon|RUS}} Ildar Shaysultanov || [[Kamaz]]
+|{{flagicon|RUS}} [[Firdaus Kabirov]]<br>{{flagicon|RUS}} Aydar Belyaev <br>{{flagicon|RUS}} Andrey Mokeev || [[Kamaz]]
+|{{flagicon|RUS}} [[Eduard Nikolaev]]<br>{{flagicon|RUS}} Viatcheslav Mizyukaev <br>{{flagicon|RUS}} Vladimir Rybakov || [[Kamaz]]
+|-
+|align=center|[[2012 Dakar Rally|2012]]
+|{{flagicon|NLD}} [[Gerard de Rooy]]<br>{{flagicon|BEL}} Tom Colsoul <br>{{flagicon|POL}} Dariusz Rodewald || [[Iveco]]
+|{{flagicon|NLD}} [[Hans Stacey]]<br>{{flagicon|NLD}} Hans van Goor <br>{{flagicon|NLD}} Bernard der Kinderen || [[Iveco]]
+|{{flagicon|KAZ}} [[Artur Ardavichus]]<br>{{flagicon|RUS}} Alexey Kuzmich  <br>{{flagicon|KAZ}} Nurlan Turlubaev || [[Kamaz]]
+|-
+|align=center|[[2013 Dakar Rally|2013]]
+|{{flagicon|RUS}} [[Eduard Nikolaev]]<br>{{flagicon|RUS}} Sergey Savostin <br>{{flagicon|RUS}} Vladimir Rybakov || [[Kamaz]]
+|{{flagicon|RUS}} [[Airat Mardeev]]<br>{{flagicon|RUS}} Aydar Belyaev<br>{{flagicon|RUS}} Anton Mirniy || [[Kamaz]]
+|{{flagicon|RUS}} [[Andrey Karginov]]<br>{{flagicon|RUS}} Andrey Mokeev <br>{{flagicon|RUS}} Igor Devyatkin || [[Kamaz]]
+|-
+|align=center|[[2014 Dakar Rally|2014]]
+|{{flagicon|RUS}} [[Andrey Karginov]]<br>{{flagicon|RUS}} Andrey Mokeev <br>{{flagicon|RUS}} Igor Devyatkin || [[Kamaz]]
+|{{flagicon|NLD}} [[Gerard de Rooy]]<br>{{flagicon|BEL}} Tom Colsoul <br>{{flagicon|NLD}} Darek Rodewald || [[Iveco]]
+|{{flagicon|RUS}} [[Eduard Nikolaev]]<br>{{flagicon|RUS}} Sergey Savostin <br>{{flagicon|RUS}} Vladimir Rybakov || [[Kamaz]]
+|-
+|align=center|[[2015 Dakar Rally|2015]]
+|{{flagicon|RUS}} [[Airat Mardeev]]<br>{{flagicon|RUS}} Aydar Belyaev<br>{{flagicon|RUS}} Dmitriy Svistunov || [[Kamaz]]
+|{{flagicon|RUS}} [[Eduard Nikolaev]]<br>{{flagicon|RUS}} Evgeny Yakovlev<br>{{flagicon|RUS}} Vladimir Rybakov || [[Kamaz]]
+|{{flagicon|RUS}} [[Andrey Karginov]]<br>{{flagicon|RUS}} Andrey Mokeev <br>{{flagicon|RUS}} Igor Leonov || [[Kamaz]]
+|-
+|align=center|[[2016 Dakar Rally|2016]]
+|{{flagicon|NLD}} [[Gerard de Rooy]]<br>{{flagicon|ESP}} Moisès Torrallardona<br>{{flagicon|POL}} Darek Rodewald || [[Iveco]]
+|{{flagicon|RUS}} [[Airat Mardeev]]<br>{{flagicon|RUS}} Aydar Belyaev<br>{{flagicon|RUS}} Dmitriy Svistunov || [[Kamaz]]
+|{{flagicon|ARG}} [[Federico Villagra]]<br>{{flagicon|ARG}} Jorge Pérez Companc<br>{{flagicon|ARG}} Andrés Memi || [[Iveco]]
+|-
+|align=center|[[2017 Dakar Rally|2017]]
+|{{flagicon|RUS}} [[Eduard Nikolaev]]<br>{{flagicon|RUS}} Evgeny Yakovlev<br>{{flagicon|RUS}} Vladimir Rybakov || [[Kamaz]]
+|{{flagicon|RUS}} [[Dmitry Sotnikov]]<br>{{flagicon|RUS}} Ruslan Akhmadeev<br>{{flagicon|RUS}} Igor Leonov || [[Kamaz]]
+|{{flagicon|NLD}} [[Gerard de Rooy]]<br>{{flagicon|ESP}} Moisès Torrallardona<br>{{flagicon|POL}} Darek Rodewald || [[Iveco]]
+|-
+|align=center|[[2018 Dakar Rally|2018]]
+|{{flagicon|RUS}} [[Eduard Nikolaev]]<br>{{flagicon|RUS}} Evgeny Yakovlev<br>{{flagicon|RUS}} Vladimir Rybakov || [[Kamaz]]
+|{{flagicon|BLR}} [[Siarhei Viazovich]]<br>{{flagicon|BLR}} Pavel Haranin<br>{{flagicon|BLR}} Andrei Zhyhulin || [[Minsk Automobile Plant|MAZ]]
+|{{flagicon|RUS}} [[Airat Mardeev]]<br>{{flagicon|RUS}} Aydar Belyaev<br>{{flagicon|RUS}} Dmitriy Svistunov || [[Kamaz]]
+|-
+|align=center|[[2019 Dakar Rally|2019]]
+|{{flagicon|RUS}} [[Eduard Nikolaev]]<br>{{flagicon|RUS}} Evgeny Yakovlev<br>{{flagicon|RUS}} Vladimir Rybakov || [[Kamaz]]
+|{{flagicon|RUS}} [[Dmitry Sotnikov]]<br>{{flagicon|RUS}} Dmitry Nikitin<br>{{flagicon|RUS}} Ilnur Mustafin || [[Kamaz]]
+|{{flagicon|NLD}} [[Gerard de Rooy]]<br>{{flagicon|ESP}} Moisès Torrallardona<br>{{flagicon|POL}} Darek Rodewald || [[Iveco]]
+|-
+|align=center|[[2020 Dakar Rally|2020]]
+|{{flagicon|RUS}} [[Andrey Karginov]]<br>{{flagicon|RUS}} [[Andrey Mokeev]]<br>{{flagicon|RUS}} [[Igor Leonov]]|| [[Kamaz]]
+|{{flagicon|RUS}} [[Anton Shibalov]]<br>{{flagicon|RUS}} Dmitry Nikitin<br>{{flagicon|RUS}} Ivan Tatarinov || [[Kamaz]]
+|{{flagicon|BLR}} [[Siarhei Viazovich]]<br>{{flagicon|BLR}} Pavel Haranin<br>{{flagicon|BLR}} Anton Zaparoshchanka || [[Minsk Automobile Plant|MAZ]]
+|-
+|align=center|[[2021 Dakar Rally|2021]]
+|{{flagicon|RUS}} [[Dmitry Sotnikov]]<br>{{flagicon|RUS}} [[Ruslan Akhamadeev]]<br>{{flagicon|RUS}} [[Ilgiz Akhmetzianov]]|| [[Kamaz]]
+|{{flagicon|RUS}} [[Anton Shibalov]]<br>{{flagicon|RUS}} Dmitri Nikitin<br>{{flagicon|RUS}} Ivan Tatarinov || [[Kamaz]]
+|{{flagicon|RUS}} [[Airat Mardeev]]<br>{{flagicon|RUS}} Dmitry Svistunov<br>{{flagicon|RUS}} Akhmet Galiautdinov || [[Kamaz]]
+|-
+|align=center|[[2022 Dakar Rally|2022]]
+|{{flagg|cnua|image=Russian Automobile Federation flag.svg}} [[Dmitry Sotnikov]]<br>{{flagg|cnua|image=Russian Automobile Federation flag.svg}} [[Ruslan Akhamadeev]]<br>{{flagg|cnua|image=Russian Automobile Federation flag.svg}} [[Ilgiz Akhmetzianov]]|| [[Kamaz]]
+|{{flagg|cnua|image=Russian Automobile Federation flag.svg}} [[Eduard Nikolaev]]<br>{{flagg|cnua|image=Russian Automobile Federation flag.svg}} Evgeny Yakovlev<br>{{flagg|cnua|image=Russian Automobile Federation flag.svg}} Vladimir Rybakov || [[Kamaz]]
+|{{flagg|cnua|image=Russian Automobile Federation flag.svg}} [[Anton Shibalov]]<br>{{flagg|cnua|image=Russian Automobile Federation flag.svg}} Dmitri Nikitin<br>{{flagg|cnua|image=Russian Automobile Federation flag.svg}} Ivan Tatarinov || [[Kamaz]]
+|-
+|align=center|[[2023 Dakar Rally|2023]]
+|{{flagicon|NLD}} [[Janus van Kasteren]]<br />{{flagicon|POL}} [[Darek Rodewald]]<br />{{flagicon|NLD}} [[Marcel Snijders]]|| [[Iveco]]
+|{{flagicon|CZE}} [[Martin Macík]]<br />{{flagicon|CZE}} [[František Tomášek (co-driver)|František Tomášek]]<br />{{flagicon|CZE}} [[David Švanda]]|| [[Iveco]]
+|{{flagicon|NLD}} [[Martin van den Brink]]<br />{{flagicon|NLD}} [[Erik Kofman]]<br />{{flagicon|NLD}} [[Rijk Mouw]]|| [[Iveco]]
+|-
+|align=center|[[2024 Dakar Rally|2024]]
+|{{flagicon|CZE}} [[Martin Macík]]<br />{{flagicon|CZE}} [[František Tomášek (co-driver)|František Tomášek]]<br />{{flagicon|CZE}} [[David Švanda]]
+|[[Iveco]]
+|{{flagicon|CZE}} [[Aleš Loprais]]<br>{{flagicon|CZE}} Jaroslav Valtr Jr  <br>{{flagicon|CZE}} Jiří Stross
+|[[Praga (company)|Praga]]
+|{{flagicon|NLD}} Mitchel van den Brink <br />{{flagicon|NLD}} Jarno van de Pol <br />{{flagicon|ESP}} Moises Torrallardona
+|[[Iveco]]
+|-
+|align=center|[[2025 Dakar Rally|2025]]
+|{{flagicon|CZE}} [[Martin Macík]]<br />{{flagicon|CZE}} [[František Tomášek (co-driver)|František Tomášek]]<br />{{flagicon|CZE}} [[David Švanda]]
+|[[Iveco]]
+|{{flagicon|NLD}} [[Mitchel van den Brink]]<br />{{flagicon|ESP}} Moises Torrallardona<br />{{flagicon|NLD}} Jarno van de Pol
+|[[Iveco]]
+|{{flagicon|CZE}} [[Aleš Loprais]]<br>{{flagicon|CZE}} David Kripal<br>{{flagicon|POL}} Darek Rodewald
+|[[Iveco]]
+|-
+|align=center|[[2026 Dakar Rally|2026]]
+|{{flagicon|LIT}} [[Vaidotas Žala]]<br />{{flagicon|POR}} [[Paulo Fiuza]]<br />{{flagicon|NED}} [[Max Van Grol]]
+|[[Iveco]]
+|{{flagicon|CZE}} [[Aleš Loprais]]<br>{{flagicon|CZE}} David Kripal<br>{{flagicon|CZE}} Jiri Stross
+|[[Iveco]]
+|{{flagicon|NLD}} [[Mitchel van den Brink]]<br />{{flagicon|NLD}} Bart Van Heun<br />{{flagicon|NLD}} Jarno van de Pol
+|[[Iveco]]
+|}
+
+===Quads===
+{| class="wikitable" style="font-size:85%; text-align:left;"
+|-
+! rowspan=2 width=4%|Year
+!colspan=2 style="width:32%; background:gold"|1st
+!colspan=2 style="width:32%; background:silver"|2nd
+!colspan=2 style="width:32%; background:#cc9966"| 3rd
+|-
+!width=20%|Rider!!width=8%|Quad
+!width=20%|Rider!!width=8%|Quad
+!width=20%|Rider!!width=8%|Quad
+|-
+|align=center|[[2009 Dakar Rally|2009]]
+|{{flagicon|CZE}} [[Josef Macháček]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Marcos Patronelli]] || [[Can-Am motorcycles|Can-Am]]
+|{{flagicon|POL}} [[Rafał Sonik]] || [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2010 Dakar Rally|2010]]
+|{{flagicon|ARG}} [[Marcos Patronelli]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Alejandro Patronelli]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ESP}} [[Juan Manuel González Corominas|Juan Manuel González]] || [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2011 Dakar Rally|2011]]
+|{{flagicon|ARG}} [[Alejandro Patronelli]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Sebastián Halpern]]|| [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|POL}} [[Łukasz Łaskawiec]]|| [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2012 Dakar Rally|2012]]
+|{{flagicon|ARG}} [[Alejandro Patronelli]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Marcos Patronelli]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Tomas Maffei]]|| [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2013 Dakar Rally|2013]]
+|{{flagicon|ARG}} [[Marcos Patronelli]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|CHL}} [[Ignacio Casale]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|POL}} [[Rafał Sonik]] || [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2014 Dakar Rally|2014]]
+|{{flagicon|CHL}} [[Ignacio Casale]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|POL}} [[Rafał Sonik]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|NLD}} [[Sebastian Husseini]]|| [[Honda]]
+|-
+|align=center|[[2015 Dakar Rally|2015]]
+|{{flagicon|POL}} [[Rafał Sonik]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Jeremías González]]|| [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|BOL}} [[Walter Nosiglia]]|| [[Honda]]
+|-
+|align=center|[[2016 Dakar Rally|2016]]
+|{{flagicon|ARG}} [[Marcos Patronelli]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Alejandro Patronelli]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|RSA}} [[Brian Baragwanath]]|| [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2017 Dakar Rally|2017]]
+|{{flagicon|RUS}} [[Sergey Karyakin (racing driver)|Sergey Karyakin]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|CHL}} [[Ignacio Casale]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Pablo Copetti]]|| [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2018 Dakar Rally|2018]]
+|{{flagicon|CHL}} [[Ignacio Casale]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Nicolás Cavigliasso]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Jeremías González]]|| [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2019 Dakar Rally|2019]]
+|{{flagicon|ARG}} [[Nicolás Cavigliasso]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Jeremías González]]|| [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Gustavo Gallego]]|| [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2020 Dakar Rally|2020]]
+|{{flagicon|CHL}} [[Ignacio Casale]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|FRA}} [[Simon Vitse]]|| [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|POL}} [[Rafał Sonik]] || [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2021 Dakar Rally|2021]]
+|{{flagicon|ARG}} [[Manuel Andújar (motocyclist)|Manuel Andújar]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|CHL}} [[Giovanni Enrico]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|USA}} [[Pablo Copetti]]|| [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2022 Dakar Rally|2022]]
+|{{flagicon|FRA}} [[Alexandre Giroud]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} Francisco Moreno|| [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|POL}} Kamil Wiśniewski|| [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2023 Dakar Rally|2023]]
+|{{flagicon|FRA}} [[Alexandre Giroud]] || [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|ARG}} [[Francisco Moreno Flores]]|| [[Yamaha Motor Company|Yamaha]]
+|{{flagicon|USA}} [[Pablo Copetti]]|| [[Yamaha Motor Company|Yamaha]]
+|-
+|align=center|[[2024 Dakar Rally|2024]]
+|{{flagicon|ARG}} [[Manuel Andújar (motocyclist)|Manuel Andújar]]
+|[[Yamaha Motor Company|Yamaha]]
+|{{flagicon|FRA}} [[Alexandre Giroud]]
+|[[Yamaha Motor Company|Yamaha]]
+|{{flagicon|SVK}} Juraj Varga
+|[[Yamaha Motor Company|Yamaha]]
+|}
+
+===SSVs (UTVs until 2022)===
+{| class="wikitable" style="font-size:85%; text-align:left;"
+|-
+! rowspan=2 width=4%|Year
+!colspan=2 style="width:32%; background:gold"|1st
+!colspan=2 style="width:32%; background:silver"|2nd
+!colspan=2 style="width:32%; background:#cc9966"| 3rd
+|-
+!width=20%|Crew!!width=8%|UTV
+!width=20%|Crew!!width=8%|UTV
+!width=20%|Crew!!width=8%|UTV
+|-
+|align=center|[[2017 Dakar Rally|2017]]
+|{{flagicon|BRA}} [[Leandro Torres (racing driver)|Leandro Torres]]<br>{{flagicon|BRA}} [[Lourival Roldan]]|| [[Polaris Industries|Polaris]]
+|{{flagicon|CHN}} [[Wang Fujiang]]<br>{{flagicon|CHN}} Li Wei || [[Polaris Industries|Polaris]]
+|{{flagicon|RUS}} [[Ravil Maganov]]<br>{{flagicon|RUS}} Kirill Shubin || [[Polaris Industries|Polaris]]
+|-
+|align=center|[[2018 Dakar Rally|2018]]
+|{{flagicon|BRA}} [[Reinaldo Varela]]<br>{{flagicon|BRA}} [[Gustavo Gugelmin]]|| [[Can-Am motorcycles|Can-Am]]
+|{{flagicon|FRA}} [[Patrice Garrouste]]<br>{{flagicon|SUI}} Steven Griener || [[Polaris Industries|Polaris]]
+|{{flagicon|FRA}} {{ill|Claude Fournier (rally driver)|fr|Claude Fournier (pilote)|lt=Claude Fournier}}<br>{{flagicon|POL}} [[Szymon Gospodarczyk]]|| [[Polaris Industries|Polaris]]
+|-
+|align=center|[[2019 Dakar Rally|2019]]
+|{{flagicon|CHI}} [[Francisco López Contardo]]<br>{{flagicon|CHI}} [[Alvaro Quintanilla]]||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|ESP}} [[Gerard Farrés]]<br>{{flagicon|ESP}} Daniel Oliveras ||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|BRA}} [[Reinaldo Varela]]<br>{{flagicon|BRA}} [[Gustavo Gugelmin]]|| [[Can-Am motorcycles|Can-Am]]
+|-
+|align=center|[[2020 Dakar Rally|2020]]
+|{{flagicon|USA}} [[Casey Currie]]<br>{{flagicon|USA}} [[Sean Berriman]]||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|RUS}} [[Sergey Karyakin (racing driver)|Sergey Karyakin]]<br>{{flagicon|RUS}} Anton Vlasiuk ||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|CHI}} [[Francisco López Contardo]]<br>{{flagicon|CHI}} [[Juan Pablo Latrach Vinagre]]||[[Can-Am motorcycles|Can-Am]]
+|-
+|align=center|[[2021 Dakar Rally|2021]]
+|{{flagicon|CHL}} [[Francisco Lopez Contardo]]<br>{{flagicon|CHL}} [[Juan Pablo Latrach Vinagre]]||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|USA}} [[Austin Jones (racing driver)|Austin Jones]]<br>{{flagicon|BRA}} [[Gustavo Gugelmin]]||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|POL}} [[Aron Domżała]]<br>{{flagicon|POL}} [[Maciej Marton]]||[[Can-Am motorcycles|Can-Am]]
+|-
+|align=center|[[2022 Dakar Rally|2022]]
+|{{flagicon|USA}} [[Austin Jones (racing driver)|Austin Jones]]<br>{{flagicon|BRA}} [[Gustavo Gugelmin]]||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|ESP}} [[Gerard Farrés]]<br>{{flagicon|ESP}} Diego Ortega Gil ||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|LIT}} [[Rokas Baciuška]]<br>{{flagicon|ESP}} Oriol Mena ||[[Can-Am motorcycles|Can-Am]]
+|-
+|align=center|[[2023 Dakar Rally|2023]]
+|{{flagicon|POL}} [[Eryk Goczał]]<br />{{flagicon|ESP}} [[Oriol Mena]]|| [[Can-Am Off-Road|Can-Am]]
+|{{flagicon|LIT}} [[Rokas Baciuška]]<br />{{flagicon|ESP}} [[Oriol Vidal Montijano]]|| [[Can-Am Off-Road|Can-Am]]
+|{{flagicon|POL}} [[Marek Goczał]]<br />{{flagicon|POL}} [[Maciej Marton]]|| [[Can-Am Off-Road|Can-Am]]
+|-
+|align=center|[[2024 Dakar Rally|2024]]
+|{{flagicon|FRA}} [[Xavier de Soultrait]]<br>{{flagicon|FRA}} Martin Bonnet
+|[[Polaris Industries|Polaris]]
+|{{flagicon|SUI}} [[Jérôme de Sadeleer]]<br>{{flagicon|FRA}} Michaël Metge
+|[[Can-Am Off-Road|Can-Am]]
+|{{flagicon|KSA}} Yasir Seaidan<br>{{flagicon|FRA}} Adrien Metge
+|[[Can-Am Off-Road|Can-Am]]
+|-
+|align=center|[[2025 Dakar Rally|2025]]
+|{{flagicon|USA}} [[Brock Heger]]<br>{{flagicon|USA}} [[Max Eddy]]||[[Polaris Industries|Polaris]]
+|{{flagicon|CHI}} [[Francisco López Contardo]]<br>{{flagicon|CHI}} [[Juan Pablo Latrach Vinagre]]||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|POR}} [[Alexandre Pinto (racing driver)|Alexandre Pinto]]<br>{{flagicon|POR}} Bernardo Oliveira ||[[Can-Am motorcycles|Can-Am]]
+|-
+|align=center|[[2026 Dakar Rally|2026]]
+|{{flagicon|USA}} [[Brock Heger]]<br>{{flagicon|USA}} [[Max Eddy]]||[[Polaris Industries|Polaris]]
+|{{flagicon|USA}} Kyle Chaney<br>{{flagicon|USA}} Jacob Argubright||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|FRA}} [[Xavier de Soultrait]]<br>{{flagicon|FRA}} Martin Bonnet ||[[Polaris Industries|Polaris]]
+|}
+
+===Light Prototypes (Challenger/T3)===
+{| class="wikitable" style="font-size:85%; text-align:left;"
+|-
+! rowspan=2 width=4%|Year
+!colspan=2 style="width:32%; background:gold"|1st
+!colspan=2 style="width:32%; background:silver"|2nd
+!colspan=2 style="width:32%; background:#cc9966"| 3rd
+|-
+!width=20%|Crew!!width=8%|Make
+!width=20%|Crew!!width=8%|Make
+!width=20%|Crew!!width=8%|Make
+|-
+|align=center|[[2021 Dakar Rally|2021]]
+|{{flagicon|CZE}} [[Josef Macháček]]<br>{{flagicon|CZE}} [[Pavel Vyoral]]||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|ITA}} [[Camelia Liparoti]]<br>{{flagicon|GER}} [[Annett Fischer]]||[[Yamaha Motor Company|Yamaha]]
+|{{flagicon|FRA}} [[Philippe Pinchedez]] <br>{{flagicon|FRA}} [[Vincent Ferri]]||[[Pinch Racing]]
+|-
+|align=center|[[2022 Dakar Rally|2022]]
+|{{flagicon|CHL}} [[Francisco Lopez Contardo]]<br>{{flagicon|CHL}} [[Juan Pablo Latrach Vinagre]]||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|SWE}} Sebastian Eriksson<br>{{flagicon|NED}} Wouter Rosegaar||[[Can-Am motorcycles|Can-Am]]
+|{{flagicon|ESP}} [[Cristina Gutiérrez]]<br>{{flagicon|FRA}} Francois Cazalet||OT3
+|-
+|align=center|[[2023 Dakar Rally|2023]]
+|{{flagicon|USA}} [[Austin Jones (racing driver)|Austin Jones]]<br />{{flagicon|BRA}} [[Gustavo Gugelmin]]|| [[Can-Am Off-Road|Can-Am]]
+|{{flagicon|USA}} [[Seth Quintero]]<br />{{flagicon|DEU}} [[Dennis Zenz]]|| [[Can-Am Off-Road|Can-Am]]
+|{{flagicon|BEL}} [[Guillaume De Mévius]]<br />{{flagicon|FRA}} [[François Cazalet]]|| OT3
+|-
+|align=center|[[2024 Dakar Rally|2024]]
+|{{flagicon|ESP}} [[Cristina Gutiérrez]]<br />{{flagicon|ESP}} Pablo Moreno Huete
+|[[Taurus UTV|Taurus]]
+|{{flagicon|USA}} Mitch Guthrie<br />{{flagicon|USA}} Kellon Walch
+|[[Taurus UTV|Taurus]]
+|{{flagicon|LIT}} [[Rokas Baciuška]]<br>{{flagicon|ESP}} Oriol Vidal Montijano
+|[[Can-Am Off-Road|Can-Am]]
+|-
+|align=center|[[2025 Dakar Rally|2025]]
+|{{flagicon|ARG}} [[Nicolás Cavigliasso]]<br>{{flagicon|ARG}} Valentina Pertegarini
+|[[Taurus UTV|Taurus]]
+|{{flagicon|POR}} Gonçalo Guerreiro<br>{{flagicon|BRA}} Cadu Sachs
+|[[Taurus UTV|Taurus]]
+|{{flagicon|ESP}} [[Pau Navarro (racing driver)|Pau Navarro]]<br>{{flagicon|ARG}} Lisandro Sisterna
+|[[Taurus UTV|Taurus]]
+|-
+|align=center|[[2026 Dakar Rally|2026]]
+|{{flagicon|ESP}} [[Pau Navarro (racing driver)|Pau Navarro]]<br>{{flagicon|ESP}} Jan Rosa
+|[[Taurus UTV|Taurus]]
+|{{flagicon|KSA}} Yasir Seaidan<br>{{flagicon|FRA}} Xavier Flick
+|[[Can-Am Off-Road|Can-Am]]
+|{{flagicon|ARG}} [[Nicolás Cavigliasso]]<br>{{flagicon|ARG}} Valentina Pertegarini
+|[[Taurus UTV|Taurus]]
+|}
+
+===Stock===
+{| class="wikitable" style="font-size:85%; text-align:left;"
+|-
+! rowspan=2 width=4%|Year
+!colspan=2 style="width:32%; background:gold"|1st
+!colspan=2 style="width:32%; background:silver"|2nd
+!colspan=2 style="width:32%; background:#cc9966"| 3rd
+|-
+!width=20%|Crew!!width=11%|Car
+!width=20%|Crew!!width=11%|Car
+!width=20%|Crew!!width=11%|Car
+|-
+| align="center" | [[2026 Dakar Rally|2026]]
+| {{flagicon|LTU}} [[Rokas Baciuška]]
+| [[Land Rover Defender (L663)|Defender Dakar D7X-R]]
+| {{flagicon|USA}} [[Sara Price]]
+| [[Land Rover Defender (L663)|Defender Dakar D7X-R]]
+| {{flagicon|FRA}} Ronald Basso
+| [[Toyota Land Cruiser|Toyota Land Cruiser GR Sport]]
+|}
+
+===Classics===
+{| class="wikitable" style="font-size:85%; text-align:left;"
+|-
+!rowspan=2 width=4%|Year
+!colspan=2 style="width:32%; background:gold"|1st
+!colspan=2 style="width:32%; background:silver"|2nd
+!colspan=2 style="width:32%; background:#cc9966"| 3rd
+|-
+!width=20%|Crew!!width=11%|Make
+!width=20%|Crew!!width=11%|Make
+!width=20%|Crew!!width=11%|Make
+|-
+|align=center|[[2021 Dakar Rally|2021]]
+|{{flagicon|FRA}} [[Marc Douton]]<br>{{flagicon|FRA}} [[Emilien Etienne]]||[[Sunhill Buggy]]
+|{{flagicon|ESP}} [[Juan Donatiu]]<br>{{flagicon|ESP}} [[Pere Serrat Puig]]||[[Mitsubishi Pajero|Mitsubishi Montero]]
+|{{flagicon|FRA}} [[Lilian Harichoury]]<br>{{flagicon|FRA}} [[Luc Fertin]]<br>{{flagicon|FRA}} [[Laurent Correia]]||[[Renault Trucks]]
+|-
+|align=center|[[2022 Dakar Rally|2022]]
+|{{flagicon|FRA}} [[Serge Mogno]]<br>{{flagicon|FRA}} Florent Drulhon||[[Toyota Land Cruiser|Toyota Land Cruiser HDJ80]]
+|{{flagicon|FRA}} [[Arnaud Euvrard]]<br>{{flagicon|FRA}} Adeline Euvrard||[[Mercedes-Benz GLE-Class|Mercedes ML]]
+|{{flagicon|ESP}} [[Jesus Fuster Pliego]]<br>{{flagicon|ESP}} [[Juan Carlos Ramirez Moure]]||[[Mercedes-Benz G-Class|Mercedes G-320]]
+|-
+|align=center|[[2023 Dakar Rally|2023]]
+|{{flagicon|ESP}} [[Juan Morera (rally driver)|Juan Morera]]<br />{{flagicon|ESP}} [[Lidia Ruba]]|| [[Toyota Land Cruiser|Toyota Land Cruiser HDJ80]]
+|{{flagicon|ESP}} [[Carlos Santaolalla]]<br />{{flagicon|ESP}} [[Aran Sol I Juanola]]|| [[Toyota Land Cruiser|Toyota Land Cruiser HDJ80]]
+|{{flagicon|ITA}} [[Paolo Bedeschi]]<br />{{flagicon|ITA}} [[Daniele Bottallo]]|| [[Toyota Land Cruiser|Toyota Land Cruiser BJ71]]
+|-
+|align=center|[[2024 Dakar Rally|2024]]
+|{{flagicon|ESP}} [[Carlos Santaolalla]]<br />{{flagicon|ESP}} [[Aran Sol I Juanola]]
+|[[Toyota Land Cruiser|Toyota Land Cruiser HDJ80]]
+|{{flagicon|ITA}} Lorenzo Traglio<br />{{flagicon|ITA}} Rudy Briani
+|[[Nissan Pathfinder]]
+|{{flagicon|ITA}} [[Paolo Bedeschi]]<br />{{flagicon|ITA}} [[Daniele Bottallo]]
+|[[Toyota Land Cruiser|Toyota Land Cruiser BJ71]]
+|-
+|align=center|[[2025 Dakar Rally|2025]]
+|{{flagicon|ESP}} [[Carlos Santaolalla]]<br />{{flagicon|ESP}} [[Aran Sol I Juanola]]
+|[[Toyota Land Cruiser|Toyota Land Cruiser HDJ80]]
+|{{flagicon|ITA}} Lorenzo Traglio<br />{{flagicon|ITA}} Rudy Briani
+|[[Nissan Terrano II|Nissan Terrano Pick-Up]]
+|{{flagicon|LTU}} [[Karolis Raišys]]<br />{{flagicon|LTU}} Ignas Daunoravičius
+|[[Land-Rover series#Series III|Land-Rover Series III]]
+|-
+|align=center|[[2026 Dakar Rally|2026]]
+|{{flagicon|LTU}} [[Karolis Raišys]]<br />{{flagicon|FRA}} Christophe Marques
+|[[Land-Rover Defender|Land-Rover Series III]]
+|{{flagicon|CZE}} Ondřej Klymčiw<br />{{flagicon|CZE}} Josef Broz
+|[[Mitsubishi Pajero]]
+|{{flagicon|ITA}} Josef Unterholzner<br />{{flagicon|ITA}} Franco Gaioni
+|[[Mitsubishi Pajero]]
+|}
+
+===Mission 1000===
+{| class="wikitable" style="font-size:85%; text-align:left;"
+|-
+!rowspan=2 width=4%|Year
+!colspan=2 style="width:32%; background:gold"|1st
+!colspan=2 style="width:32%; background:silver"|2nd
+!colspan=2 style="width:32%; background:#cc9966"| 3rd
+|-
+!width=20%|Crew!!width=11%|Make
+!width=20%|Crew!!width=11%|Make
+!width=20%|Crew!!width=11%|Make
+|-
+| align="center" | [[2024 Dakar Rally|2024]]
+| {{flagicon|ESP}} [[Jordi Juvanteny]]<br /> {{flagicon|ESP}} José Luis Criado<br />{{flagicon|ESP}} Xavier Ribas
+| [[MAN SE|MAN]]
+| {{flagicon|FRA}} Jean-Michel Paulhe<br /> {{flagicon|FRA}} Gauthier Gibert
+| [[Can-Am Off-Road|Can-Am]]
+| {{flagicon|CHN}} Wenmin Su
+| Arctic Leopard
+|-
+| align="center" | [[2025 Dakar Rally|2025]]
+| {{flagicon|ESP}} [[Jordi Juvanteny]]<br /> {{flagicon|ESP}} José Luis Criado<br />{{flagicon|ESP}} Xavier Ribas
+| [[MAN SE|MAN]]
+| {{flagicon|JPN}} Yoshio Ikemachi<br /> {{flagicon|PRT}} Paulo Marques
+| HySE
+| {{flagicon|ARG}} Benjamin Pascual
+| [[Segway Inc.|Segway]]
+|-
+| align="center" | [[2026 Dakar Rally|2026]]
+| {{flagicon|ESP}} [[Jordi Juvanteny]]<br /> {{flagicon|ESP}} José Luis Criado<br />{{flagicon|ESP}} Xavier Ribas
+| [[MAN SE|MAN]]
+| {{flagicon|ESP}} Fran Gómez Pallas
+| Arctic Leopard
+| {{flagicon|ARG}} Benjamin Pascual
+| [[Segway Inc.|Segway]]
+|}
+
+==Records==
+{{Further|List of Dakar Rally records}}
+
+==Television coverage==
+The rally is broadcast on television in more than 190 countries. A live feed of the event and a roundup of each day's race progress is made into a 26-minute programme.<ref>{{Cite web|title=Media offers|url=https://www.dakar.com/en/the-competitors/practical-information/media-offers|website=www.dakar.com|language=en|access-date=2020-05-08}}</ref> This has been commentated on by [[Toby Moody]] for ten years, and more recently by [[Neil Cole]].<ref>{{Cite web|title=Toby Moody – Eurosport's MotoGP Commentator and Huge Cycling Fan|url=https://www.veloveritas.co.uk/2012/11/07/toby-moody-interview/|last=Williamson|first=Martin|date=2012-11-07|website=VeloVeritas|language=en-GB|access-date=2020-05-08}}</ref> Since 2024 the world feed has been commentated on by Andrew Smith, Jeremy Klayman, Jack Nicholls and Hannah Walker.
+
+The rally organizers and their television crews provide 20 edit stations along the route for various countries to produce their own programmes about the rally. There are four TV helicopters, six stage cameras, and three bivouac crews to make over 1,000 hours of TV over the two-week period.{{Citation needed|date=May 2020}}
+
+A 2006 television documentary ''[[Race to Dakar]]'' described the experiences of a team, including the English actor [[Charley Boorman]], in preparation for and entry into the 2006 Dakar Rally.<ref>{{Cite web|title=Charley Boorman's long and winding road|url=https://www.independent.ie/entertainment/books/charley-boormans-long-and-winding-road-35697402.html|website=independent|date=11 May 2017 |language=en|access-date=2020-05-08}}</ref>
+
+=== Broadcasters ===
+{| class="wikitable"
+|+List of TV broadcasters as of 2022<ref>{{Cite web |date=2022 |title=Dakar Broadcasters 2022 |url=https://www.dakar.com/en/dakar-world/therace/broadcast-2022 |access-date=2023-08-25 |website=www.dakar.com |language=en}}</ref>
+![[Region]]
+![[Country]]
+![[TV Network]]
+|-
+| rowspan="17" |[[Western Europe]]
+| rowspan="2" |{{Flag|France}}
+|[[France Info (TV channel)|Franceinfo]]
+|-
+|[[France 2]] / [[France 3]] / [[France 4]]
+|-
+| rowspan="4" |{{Flag|Spain}}
+|[[La 1 (Spanish TV channel)|La 1]]
+|-
+|[[Teledeporte]]
+|-
+|[[TV3 (Catalonia)|TV3]]
+|-
+|[[Esport3]]
+|-
+| rowspan="2" |{{Flag|Netherlands}}
+|[[RTL 4]]
+|-
+|[[RTL 7]]
+|-
+|{{Flag|Belgium}}
+|[[VTM (TV channel)|VTM]]
+|-
+|
+|[[RTBF]]
+|-
+| rowspan="2" |{{Flag|Austria}}
+|[[ORF Sport +]]
+|-
+|[[ServusTV]]
+|-
+| rowspan="4" |{{Flag|Italy}}
+|[[Sport Mediaset]]
+[[:it:Sport Mediaset]]
+|-
+|[[RAI]]
+|-
+|[[Sky Italia|Sky Sport 24]]
+|-
+|[[Italia 1]]
+|-
+|{{Flag|Germany}}
+|[[ZDF]]
+|-
+| rowspan="8" |[[Eastern Europe]]
+|{{Flag|Estonia}}
+|[[TV6 (Estonian TV channel)|TV6]]
+|-
+| rowspan="2" |{{Flag|Poland}}
+|[[Polsat]]
+|-
+|[[TVP1]] / [[TVP2]] / [[TVN (Polish TV channel)|TVN]]
+|-
+| rowspan="3" |{{Flag|Czech Republic}}
+|[[TV Nova (Czech Republic)|Nova]]
+|-
+|[[Prima televize|Prima]]
+|-
+|[[Czech TV]]
+|-
+|{{Flag|Lithuania}}
+|[[LNK (television station)|LNK]]
+|-
+|{{Flag|Slovakia}}
+|[[RTVS]]
+|-
+|[[Europe]]
+|{{Flagicon|EU}} [[Europe|Pan-Europe]]
+|[[Eurosport 2|Eurosport]]
+|-
+| rowspan="2" |[[Middle East]]
+|{{flagicon|unknown}} [[Middle East]]
+|[[BeIN Sports]]
+|-
+|{{Flag|Saudi Arabia}}
+|[[KSA Sport|SSC sport]]
+|-
+|[[Latin America]]
+|{{flagicon|unknown}} [[Pan-Americanism|Pan-Latin America]]
+|[[ESPN]]
+|-
+| rowspan="11" |[[Americas]]
+|{{Flag|USA}}
+|[[MavTV]]<ref>{{cite web | url=https://www.roadracingworld.com/news/mavtv-airing-2024-dakar-rally-coverage/ | title=MAVTV Airing 2024 Dakar Rally Coverage (Updated) | date=15 December 2023 }}</ref>
+|-
+|{{Flag|Canada}}
+|[[FloSports]]
+|-
+| rowspan="6" |{{Flag|Argentina}}
+|[[:es:Canal 12 (Córdoba)|Canal 12 (Cordoba)]]
+|-
+|[[America TV]]
+|-
+|[[Televisión del Principado de Asturias 2|TPA]]
+|-
+|[[C5N]]
+|-
+|[[El Trece]]
+|-
+|[[Telefe]]
+|-
+|{{Flag|Brazil}}
+|[[ESPN (Brazil)|ESPN]]
+|-
+|{{Flag|Colombia}}
+|[[Caracol TV]]
+|-
+|{{Flag|Mexico}}
+|[[Fox Sports (Mexican TV network)|Fox Sports]]
+|-
+| rowspan="6" |[[Asia]] and [[Oceania]]
+|{{flagicon|unknown}} [[Asia]] and [[Oceania]]
+|[[Eurosport|Eurosport Asia]]
+|-
+|{{Flag|Australia}}
+|[[SBS (Australian TV channel)|SBS]]
+|-
+|{{Flag|New Zealand}}
+|[[Sky Sport (New Zealand)|Sky Sport]]
+|-
+|{{Flag|China}}
+|Zhibo.tv
+|-
+|{{Flag|Japan}}
+|[[J Sports]]
+|-
+|{{Flag|India}}
+|[[1Sports]]
+|-
+| rowspan="3" |[[Africa]]
+| rowspan="2" |{{Flag|South Africa}}
+|[[SABC]]
+|-
+|[[eNCA]]
+|-
+|{{flagicon|unknown}} [[Africa]]
+|Supersoft
+|-
+| rowspan="6" |World
+| rowspan="6" |{{flagicon|unknown}} World
+|[[Red Bull TV]]
+|-
+|[[Motor Trend]]
+|-
+|[[Motorsport.com]]
+|-
+|[[France 24]]
+|-
+|[[24 Horas (Spanish TV channel)|Canal 24 Horas]]
+|-
+|[[Al Jazeera Media Network|Al Jazeera]]
+|}
+
+==Video games==
+{| class="wikitable sortable"
+|-
+!Release date
+!Title
+!Genre
+!Platform
+!Developer
+!Publisher
+|-
+|1988
+|''Paris-Dakar Rally Special''
+| [[Rallying|Rally]]
+| [[Famicom]]
+| [[ISCO (videogame developer)|ISCO]]
+| [[Sony Music Entertainment Japan|CBS/Sony Group]]
+|-
+|1997
+|''Dakar '97''
+|[[Rallying|Rally]]
+|[[PlayStation (console)]]
+|[[Elecom|Elcom Co., Ltd.]]
+|[[Virgin Interactive|Virgin Interactive Entertainment (Japan), Inc.]]
+|-
+|2001
+|''[[Paris-Dakar Rally (video game)|Paris-Dakar Rally]]''
+| [[Rallying|Rally]]
+| [[Microsoft Windows]], [[PlayStation 2]]
+| [[Broadsword Interactive]]
+| [[Acclaim Entertainment]]
+|-
+|2003
+|''[[Dakar 2: The World's Ultimate Rally]]''
+| [[Rallying|Rally]]
+| [[PlayStation 2]], [[Xbox]], [[GameCube]]
+| [[Acclaim Entertainment|Acclaim Studios Cheltenham]]
+| [[Acclaim Entertainment]]
+|-
+|2018
+|''[[Dakar 18]]''
+| [[Rallying|Rally]]
+| [[Microsoft Windows]], [[PlayStation 4]], [[Xbox One]]
+| [[Saber Porto|Bigmoon Entertainment]]
+| [[Deep Silver]]
+|-
+|2022
+|''Dakar Desert Rally''<ref>{{Cite web |date=2021-12-10 |title=Dakar Desert Rally announced for PS5, Xbox Series, PS4, Xbox One, and PC |url=https://www.gematsu.com/2021/12/dakar-desert-rally-announced-for-ps5-xbox-series-ps4-xbox-one-and-pc |access-date=2022-07-31 |website=Gematsu |language=en-US}}</ref>
+| [[Rallying|Rally]]
+| [[Microsoft Windows]], [[PlayStation 4]], [[PlayStation 5]], [[Xbox One]], [[Xbox Series X/S]]
+| [[Saber Interactive]]
+| [[Saber Interactive]]
+|}
+
+==Incidents==
+{{main|List of Dakar Rally fatal accidents}}
+
+In 1982, [[Mark Thatcher]], son of the then [[Prime Minister of the United Kingdom|British Prime Minister]] [[Margaret Thatcher]], along with his French co-driver [[Anny-Charlotte Verney]] and their mechanic, disappeared for six days. On 9 January, the trio became separated from a convoy of vehicles after they stopped to make repairs to a faulty [[steering|steering arm]]. They were declared missing on 12 January. After a large-scale search was instigated, an [[Military of Algeria|Algerian military]] [[Lockheed L-100]] (a version of the [[C-130 Hercules]]) search plane spotted their white [[Peugeot 504]] some {{convert|50|km}} off course. Thatcher, Verney, and the mechanic were all unharmed.
+
+The organiser of the rally, [[Thierry Sabine]], was killed when his [[Ecureuil]] helicopter ("Squirrel-copter") crashed at 7:30&nbsp;p.m. on Tuesday 14 January 1986, into a dune at Mali during a sudden sand-storm. Also killed onboard was the singer-songwriter [[Daniel Balavoine]], helicopter pilot François-Xavier Bagnoud, journalist Nathalie Odent, and Jean-Paul Lefur who was a radiophonic engineer for French radio broadcaster [[RTL (French radio)|RTL (formerly Radio Luxembourg)]].<ref>{{cite web|author=The Motorsport Memorial Team|url=http://www.motorsportmemorial.org/focus.php?db=ct&n=3580 |title=Motorsport Memorial |publisher=Motorsport Memorial |access-date=2011-08-08}}</ref>
+
+Six people were killed during the 1988 race, three participants and three local residents. In one incident, Baye Sibi, a 10-year-old Malian girl, was killed by a racer while she crossed a road. A film crew's vehicle killed a mother and daughter in [[Mauritania]] on the last day of the race. The race participants killed, in three separate crashes, were a Dutch navigator on the [[DAF Trucks]] team, a French [[privateer (motorsport)|privateer]], and a French [[motorcycle|rider]]. Racers were also blamed for starting a [[wildfire]] that caused a panic on a train running between Dakar and [[Bamako]], where three more people were killed.<ref>{{cite magazine |last=Brown |first=Robert Carlton |date=1988-02-01 |title=Disastrous days in the desert |magazine=[[Sports Illustrated]] |volume=68 |issue=5 |pages=20(4)}}</ref>
+
+In 2003, French driver Daniel Nebot both rolled and crashed his Toyota heavily at high speed killing his co-driver Bruno Cauvy.<ref>{{cite web|url=http://www.highbeam.com/doc/1P1-70955196.html |archive-url=https://web.archive.org/web/20110511201230/http://www.highbeam.com/doc/1P1-70955196.html |url-status=usurped |archive-date=2011-05-11 |title=French Driver Dies in Paris-Dakar Rally |publisher=  AP Online |via=[[HighBeam Research]] |url-access=subscription |access-date=}}</ref><ref>{{cite web|author=The Motorsport Memorial Team|url=http://www.motorsportmemorial.org/focus.php?db=ct&n=1715 |title=Motorsport Memorial |publisher=Motorsport Memorial |access-date=2011-08-08}}</ref>
+
+In 2005, Spanish motorcyclist [[José Manuel Pérez (motorcyclist)|José Manuel Pérez]] died in a Spanish hospital on Monday 10 January after crashing the week before on the 7th stage. Italian motorcyclist [[Fabrizio Meoni]], a two-time winner of the event, became the second Dakar Rally rider to die in two days, following Pérez on 11 January on stage 11. Meoni was the 11th motorcyclist and the 45th person overall to die in the history of the race. On 13 January a five-year-old [[Senegal]]ese girl was hit and killed by a [[service lorry]] after wandering onto a main road, bringing the total deaths to five.
+
+In 2006, 41-year-old Australian [[KTM]] motorcyclist [[Andy Caldecott]], in his third time in the Dakar, died on 9 January as a result of neck injuries sustained in a crash approximately {{convert|250|km}} into stage 9, between [[Nouakchott]] and [[Kiffa]], only a few kilometers (miles) from the location where Meoni had his fatal wreck the year before. He won the third stage of the 2006 event between [[Nador]] and [[Er Rachidia]] only a few days before his death. The death occurred despite efforts by the event organisers to improve competitor safety, including limiting speed, mandatory rest at fuel stops, and reduced fuel tank capacity for the bike classes. On 13 January a 10-year-old boy died while crossing the course after being hit by a car driven by Latvian [[Māris Saukāns]], while on 14 January a 12-year-old boy was killed after being hit by a support lorry.<ref>{{cite news |title=Second boy dies during Dakar |url=http://www.motoring.co.za/index.php?fArticleId=3065770 |publisher=motoring.co.za |date=2006-01-14 |access-date=2008-01-04 }}</ref>
+
+In 2007, 29-year-old South African motor racer [[Elmer Symons]] died of injuries sustained in a crash during the fourth stage of the Rally. Symons crashed with his bike in the desert between [[Er Rachidia]] and [[Ouarzazate]], Morocco.<ref>{{cite web |archive-url= https://web.archive.org/web/20070113021750/http://www.eurosport.co.uk/rallyraid/dakar/2007/sport_sto1050160.shtml |archive-date=January 13, 2007 |title=Symons dies after crash |url=http://www.eurosport.co.uk/rallyraid/dakar/2007/sport_sto1050160.shtml |date=January 1, 2007 |publisher=eurosport.co.uk |access-date=March 1, 2016}}</ref> Another death occurred on 20 January, the night before the race's finish, when 42-year-old motorcyclist [[Eric Aubijoux]] died suddenly. The cause of death was initially believed to be a heart attack,<ref name="guardian">{{cite news |url=https://www.reuters.com/article/us-rallying-dakar-idUSLA56190920070120 |title=Dakar hit by second death on eve of finish |newspaper=Reuters |date=2007-01-20 |location=Dakar }}</ref> but it was later suggested that Aubijoux had died of internal injuries sustained in a crash earlier that day while competing in the 14th stage of the race.
+
+The [[2008 Dakar Rally]] was cancelled due to security concerns after [[al-Qaeda]]'s murder of four French tourists on Christmas Eve in December 2007 in Mauritania (a country in which the rally spent eight days), various accusations against the rally calling it "neo-colonialist", and al-Qaeda's accusations against Mauritania calling it a supporter of "crusaders, apostates and infidels". The French-based [[Amaury Sport Organisation]] in charge of the {{convert|6000|km|mi|-2|adj=on}} rally said in a statement that they had been advised by the French government to cancel the race, which had been due to begin on 5 January 2008 from Lisbon. They said direct threats had also been made against the event by al-Qaeda related organisations.<ref>{{cite news | url=http://africa.reuters.com/top/news/usnBAN648110.html | work=Reuters | title=News – Africa | url-status=dead | archive-url=https://web.archive.org/web/20080108151924/http://africa.reuters.com/top/news/usnBAN648110.html | archive-date=2008-01-08 }}</ref><ref>{{Cite web|url=http://www.thetimes.co.za/News/Article.aspx?id=673196|archiveurl=https://web.archive.org/web/20081223164633/http://www.thetimes.co.za/News/Article.aspx?id=673196|url-status=dead|title=The Times – Article|archivedate=December 23, 2008}}</ref>
+
+[[Omar Osama bin Laden]], the son of [[Osama bin Laden]], attracted news coverage in 2008 by promoting himself as an "ambassador of peace" and proposing a {{convert|3000|mi|km|adj=on}} horse race across North Africa as a replacement to the Dakar Rally, with sponsors' money going to support child victims of war, saying ''"I heard the rally was stopped because of al-Qaida.  I don't think they are going to stop me."''<ref name="Schemm">{{cite web |last=Florer |first=John |date=2024-01-23 |title=Audi Makes History at the Dakar Rally |url=https://audispeed.com/audi-makes-history-at-the-dakar-rally/ |website=AudiSpeed}}</ref>
+
+On 7 January 2009, the body of 49-year-old motorcyclist {{ill|Pascal Terry|es}} from France was found. He had been missing for three days and his body lay on a remote part of the second stage between Santa Rosa de la Pampa and Puerto Madryn.
+
+On 4 January 2010, a woman watching the Dakar Rally was killed when a vehicle taking part in the race veered off the course and hit her during the opening stage.
+
+On 1 January 2012, motorcyclist [[Jorge Andrés Martínez Boero]] of Argentina died after suffering a cardiac arrest after a fall. He was treated by medical staff within five minutes of the accident, but died on the way to hospital.
+
+On 7 January 2015, motorcycle rider Michal Hernik died in unknown circumstances during Stage 3 of the 2015 rally.<ref>{{cite news | url=http://www.foxnews.com/leisure/2015/01/07/polish-rider-dies-in-argentina-during-dakar-rally/ | work=Fox News | title=Polish rider dies in Argentina during Dakar Rally | url-status=dead | archive-url=https://web.archive.org/web/20150112135314/http://www.foxnews.com/leisure/2015/01/07/polish-rider-dies-in-argentina-during-dakar-rally/ | archive-date=2015-01-12 }}</ref>
+
+On 12 January 2020, Portuguese motorcycle rider [[Paulo Gonçalves (motorcyclist)|Paulo Gonçalves]] died after suffering a heart attack due to a crash on the seventh stage.<ref>{{cite news | url = https://www.dakar.com/en/news/2020/portuguese-rider-paulo-goncalves-passed-away-1/165577 | title = Portuguese rider Paulo Gonçalves passed away | date = January 12, 2020 | work = Dakar | access-date = January 12, 2020}}</ref>
+
+On 15 January 2021, motorcyclist Pierre Cherpin of France died. The 52-year-old Frenchman fell off his motorcycle on 10 January, and a rescue team in a helicopter found him unconscious in the desert. He was rushed to a hospital in Saudi Arabia where he was treated for his injuries. He sustained serious head injuries and cracked ribs, and one of his lungs also collapsed.  Cherpin underwent emergency neurosurgery and was placed in an artificial coma. Doctors were initially optimistic about his recovery path and there were no complications after the surgery. He died during the medical transfer from Jeddah to France.
+
+Overall, 76 people, including 31 competitors, have died in the Dakar Rally.
+
+==Criticism==
+When the race was held in Africa, it was subject to criticism from several sources, generally focusing on the race's impact on the inhabitants of the African countries through which it passed. Some African residents along the race's course in previous years have said they saw limited benefits from the race; that race participants spent little money on the goods and services local residents can offer. The racers produced substantial amounts of dust along the course, and were blamed for hitting and killing livestock, in addition to occasionally injuring or killing people.<ref>{{cite news |last=Doggett |first=Gina |date=2004-01-18 |title=Paris-Dakar rally brings 'little but dust', Senegalese villagers say |publisher=Agence France-Presse}}</ref>
+
+After the 1988 race, when three Africans were killed in collisions with vehicles involved in the race, [[Panafrican News Agency|PANA]], a Dakar-based [[news agency]], wrote that the deaths were "insignificant for the [race's] organisers". The [[Vatican City]] newspaper ''[[L'Osservatore Romano]]'' called the race a "vulgar display of power and wealth in places where men continue to die from hunger and thirst."<ref>{{cite news |last=Brooke |first=James |date=1988-03-13 |title=Dangerous Paris-Dakar race is endangered |newspaper=The New York Times |page=8}}</ref> During a 2002 protest at the race's start in [[Arras, France|Arras]], France, a [[The Greens (France)|Green Party]] of France statement described the race as "[[colonialism]] that needs to be eradicated".<ref>{{cite news |last=Paterne |first=Elodie |date=2001-12-28 |title=Protests overshadow start of Paris-Dakar race |publisher=[[Agence France-Presse]]}}</ref>
+
+The rally was criticised before 2000 for crossing through the [[List of territorial disputes|disputed territory]] of [[Western Sahara]], which has been occupied by [[Morocco]] since 1975, without the approval of the [[Polisario Front]] independence movement, which considers itself the representative of the indigenous [[Sahrawi people]].<ref>{{cite news |title=Dakar rally gathers Saharan war clouds |url=https://www.theguardian.com/world/2001/jan/08/rorycarroll |work=The Guardian |date=8 January 2001}}</ref><ref>{{cite news |title=Paris-Dakar rally defies war threats in Sahara |url=https://www.news24.com/xArchive/Archive/Paris-Dakar-rally-defies-war-threats-in-Sahara-20010107 |work=News24 |date=8 January 2001 |access-date=1 January 2020 |archive-date=1 January 2020 |archive-url=https://web.archive.org/web/20200101094933/https://www.news24.com/xArchive/Archive/Paris-Dakar-rally-defies-war-threats-in-Sahara-20010107 |url-status=dead }}</ref> After the race officials gained formal permission from the Polisario from 2000 onwards this ceased to be an issue.<ref>{{cite news |title=Dakar rally crosses Western Sahara with Polisario blessing |url=http://www.afrol.com/articles/15144 |work=afrol News }}</ref>
+
+The environmental impact of the race has been another area of criticism. This criticism of the race is the topic of the song "''500 connards sur la ligne de départ''" ("500 Arseholes at the Starting Line"), on the 1991 album ''[[Marchand de cailloux]]'' by French singer [[Renaud]]. In 2014, the Dakar rally was criticized for damage done to archaeological sites in Chile.<ref>{{cite web|url=https://www.theguardian.com/world/2014/jan/16/chile-dakar-rally-protests-archaeologists-indigenous-groups-environmentalists|title=Chile's Dakar Rally criticised by greens, archaeologists and indigenous groups|first=Jonathan|last=Watts|date=16 January 2014|website=the Guardian}}</ref>
+
+The move to [[Saudi Arabia]] for the 2020 Dakar Rally was under heavy criticism because of the situation of [[human rights in Saudi Arabia]] and the position of women in that country.<ref>{{cite news |title=Saudi Arabia: Repressive Site for Dakar Rally |url=https://www.hrw.org/news/2020/01/03/saudi-arabia-repressive-site-dakar-rally |work=Human Rights Watch |date=3 January 2020}}</ref> It is one of several allegations of the Saudi Arabian efforts at [[sportswashing]] that have been directed at the Saudi royal family. Despite the criticism from human rights organizations against the choice of host country for the 2020 season, the [[2021 Dakar Rally|Dakar Rally]] was organized in Saudi Arabia for another consecutive year. The race organizers have defended their decision to maintain a partnership with Saudi Arabia amidst the criticism.<ref>{{cite web|url=https://www.france24.com/en/live-news/20210102-dakar-rally-set-for-second-saudi-outing-despite-sportswashing-row|title=Dakar Rally set for second Saudi outing despite 'sportswashing' row|access-date=2 January 2020|website=France 24}}</ref>
+
+==See also==
+* [[Africa Eco Race]] – Rally raid launched in 2009 in response to the Dakar's move to South America
+* [[Budapest-Bamako]] – Desert rally
+* [[Silk Way Rally]]
+* [[Rally dos Sertões]]
+* [[Mint 400]]
+* [[Rallye des Pharaons]]
+* [[Peking to Paris]]
+* [[Te Te rally]]
+* ''[[Umi e, See You]]'' – A 1988 fictional Japanese film about the Dakar Rally
+
+== Notes ==
+<references group="lower-alpha" />
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category|Dakar Rally}}
+*{{Official website|https://www.dakar.com/en/}} {{in lang|en|ar|es|fr}}
+
+{{Dakar Rally}}
+{{Dakar Rally winners}}
+{{Dakar Rally bikes winners}}
+{{Rally raids}}
+
+{{Authority control}}
+
+[[Category:Dakar Rally| ]]
+[[Category:1979 establishments in France]]
+[[Category:1979 establishments in Senegal]]
+[[Category:Off-road racing]]
+[[Category:Recurring sporting events established in 1979]]
+[[Category:Motorcycle races]]
+[[Category:Motorsport in Africa]]
+[[Category:Motorsport in South America]]
+[[Category:International sports competitions in Paris]]
+[[Category:Sports competitions in Dakar]]
+[[Category:Motorsport in France]]
+[[Category:Motorsport in Senegal]]
+[[Category:Sports controversies]]
+[[Category:Controversies in Africa]]
+[[Category:Controversies in Saudi Arabia]]
+[[Category:Deserts]]
