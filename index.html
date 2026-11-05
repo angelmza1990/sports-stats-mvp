@@ -216,7 +216,7 @@
       <div class="sport-head">
         <h2>Football</h2>
         <p>The World Cup, every international since 1872, every continental championship, women's football, club competitions, the Ballon d'Or, seventeen national leagues compared side by side and 83 great rivalries.</p>
-        <span class="count">31 pages</span>
+        <span class="count">34 pages</span>
       </div>
       <div class="gallery">
         <a class="tile" href="football/world-cup/">
@@ -433,6 +433,33 @@
           <div class="body">
             <h3>Portugal</h3>
             <p>Every Portuguese champion since 1934–35, titles by club, the all-time table, every top scorer and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/eredivisie/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-shield"/></svg>
+            <div class="stat" data-stat="netherlands"><strong>36</strong><span>Ajax titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Netherlands</h3>
+            <p>Every Dutch champion since 1888–89, before and since the Eredivisie, titles by club, the all-time table, every top scorer and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/scottish-premiership/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-shield"/></svg>
+            <div class="stat" data-stat="scotland"><strong>56</strong><span>Celtic titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Scotland</h3>
+            <p>Every Scottish champion since 1890–91, the Old Firm's 111 titles, every top scorer and every season.</p>
+          </div>
+        </a>
+        <a class="tile" href="football/super-lig/">
+          <div class="art"><svg class="icon" aria-hidden="true"><use href="#i-shield"/></svg>
+            <div class="stat" data-stat="turkey"><strong>26</strong><span>Galatasaray titles</span></div>
+          </div>
+          <div class="body">
+            <h3>Turkey</h3>
+            <p>Every Turkish champion since the Federation Cup of 1956–57 and the Süper Lig, titles by club, every top scorer and every season.</p>
           </div>
         </a>
         <a class="tile" href="football/uruguayan-primera/">
@@ -865,6 +892,9 @@
         colombia: ["football/colombian-primera/data/colombian-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
         chile: ["football/chilean-primera/data/chilean-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
         portugal: ["football/primeira-liga/data/primeira-liga.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
+        netherlands: ["football/eredivisie/data/eredivisie.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
+        scotland: ["football/scottish-premiership/data/scottish-premiership.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
+        turkey: ["football/super-lig/data/super-lig.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
         uruguay: ["football/uruguayan-primera/data/uruguayan-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
         paraguay: ["football/paraguayan-primera/data/paraguayan-primera.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],
         ecuador: ["football/ecuadorian-serie-a/data/ecuadorian-serie-a.json", (d) => { const [id, n] = most(d.titles, (t) => t.champion); return [String(n), `${d.clubs[id].name} titles`]; }],

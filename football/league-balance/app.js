@@ -1,4 +1,4 @@
-/* League balance: how evenly seventeen national leagues have shared their titles. */
+/* League balance: how evenly twenty national leagues have shared their titles. */
 (async function () {
   "use strict";
 

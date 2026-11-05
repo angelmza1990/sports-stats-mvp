@@ -226,6 +226,44 @@ LEAGUES = {
         "alltimeScorers": {"page": "Liga 1 (Peru)", "needles": ("name", "years", "goals")},
         "alltime": None,
     },
+    "scottish-premiership": {
+        "name": "Scottish top flight", "short": "Scotland", "country": "SCO", "adjective": "Scottish",
+        # A "Top scorer(s)" title row above the player and goals columns.
+        "champions": {"page": "List of Scottish football champions", "headerRow": 1,
+                      "section": (r"==\s*Champions\s*==", r"==\s*Total titles won\s*==")},
+        "eras": [{"key": "modern", "label": "Premier era", "since": 1975, "tag": "Premier", "early": "Division One era", "earlyTag": "Division One"}],
+        "expected": {"Celtic": 56, "Rangers": 55, "Aberdeen": 4},
+        "scorers": {"columns": r"^player"},
+        "alltimeScorers": {"page": "Scottish Premiership", "needles": ("player", "goals", "apps", "ratio")},
+        "alltime": None,
+    },
+    "eredivisie": {
+        "name": "Eredivisie", "short": "Netherlands", "country": "NED", "adjective": "Dutch",
+        "champions": {"page": "List of Dutch football champions", "section": (r"==\s*List of champions\s*==", r"==\s*Most titles\s*==")},
+        "eras": [{"key": "modern", "label": "Eredivisie era", "since": 1956, "tag": "Eredivisie", "early": "Before the Eredivisie", "earlyTag": "Pre-Eredivisie"}],
+        "expected": {"Ajax": 36, "PSV Eindhoven": 26, "Feyenoord": 16},
+        # The champions list links the 1956 and 1958 champions to today's clubs; the totals table to the clubs of the time.
+        "sameClub": {"Roda JC": "roda-jc-kerkrade", "FC Utrecht": "vv-dos"},
+        "scorers": {"page": "Eredivisie", "needles": ("season", "top scorer", "goals", "club"), "tables": 1},
+        "alltimeScorers": {"page": "Eredivisie", "needles": ("player", "goals", "apps", "ratio"), "min": 5},
+        "alltime": {
+            "lang": "en", "page": "Eredivisie", "needles": ("club", "seasons", "played", "points"),
+            "columns": {"Seasons": "seasons", "Points": "pts", "Played": "pld", "Won": "w", "Drawn": "d", "Lost": "l"},
+            "period": "Eredivisie, 1956–57 to date",
+            "note": "Eredivisie seasons only (since 1956–57), as published.",
+        },
+    },
+    "super-lig": {
+        "name": "Süper Lig", "short": "Turkey", "country": "TUR", "adjective": "Turkish",
+        "champions": {"page": "List of Turkish football champions", "section": (r"===\s*Federation Cup", r"==\s*Performances\s*=="),
+                      "totals": ("List of Turkish football champions", r"===\s*Performance since 1959\s*===")},
+        "eras": [],
+        # The Federation Cup (1956–1959), the first national league, counts as two Beşiktaş titles.
+        "expected": {"Galatasaray": 25, "Fenerbahçe": 19, "Beşiktaş": 16},
+        "scorers": {"columns": r"goalscorer"},
+        "alltimeScorers": {"page": "Süper Lig", "needles": ("player", "goals", "apps", "rate")},
+        "alltime": None,
+    },
 }
 
 
@@ -246,7 +284,8 @@ def tables_with(text: str, *needles: str) -> list[list[list[dict]]]:
 def column(labels: list[str], *patterns: str) -> int | None:
     for pattern in patterns:
         for i, label in enumerate(labels):
-            if re.search(pattern, label.strip("| "), re.I):
+            # Labels can keep the cell's attributes ('style="width:40px;"|Apps').
+            if re.search(pattern, label.split("|")[-1].strip(), re.I):
                 return i
     return None
 
@@ -264,6 +303,9 @@ class LeagueClubs(ClubIndex):
         target, text = W.links(cell)[0]
         known = self.same.get(target) or self.alias.get(target.lower()) or self.by_label(text, country)
         cid = known or self.labels.get(text.lower()) or super().resolve(cell, country)
+        if cid not in self.clubs:  # a sameClub id the club list doesn't have yet
+            self.clubs[cid] = {"id": cid, "name": text, "country": country, "espn": None, "aliases": []}
+            self.unmapped[cid] = f"{text} ({target})"
         if cid in self.unmapped:
             self.clubs[cid]["name"] = W.plain(self.clubs[cid]["name"])  # labels like <span>CD Málaga</span>
         self.used.add(cid)
@@ -339,6 +381,11 @@ def parse_champions(cfg: dict, clubs: LeagueClubs, refresh: bool) -> tuple[list[
             if not champion:
                 continue
             runner = club_from_cell(row[runner_i]["text"], clubs, cfg["country"]) if runner_i is not None and len(row) > runner_i else None
+            if runner_i is not None and len(row) > runner_i and row[runner_i] is row[champ_i]:
+                # A title shared by two clubs, in one cell spanning the runner-up column: a title for each.
+                for part in re.split(r"\s+and\s*<br\s*/?>", row[champ_i]["text"])[1:]:
+                    titles.append({"season": season, "year": year, "champion": club_from_cell(part, clubs, cfg["country"]), "runnerUp": None})
+                runner = None
             titles.append({"season": season, "year": year, "champion": champion, "runnerUp": runner})
             if scorer_i is not None and len(row) > scorer_i:
                 inline_scorers += scorers_in_cell(row[scorer_i]["text"], season, year, clubs, cfg["country"])
@@ -400,6 +447,9 @@ def scorers_in_columns(row: list[dict], player_i: int, club_i: int | None, goals
         if not name or not goals:
             continue
         parts = [club_parts[k]] if len(club_parts) == len(players) else club_parts
+        if club_i is None:
+            # No club column: the club goes in brackets after the player ("[[Metin Oktay]] (Galatasaray)").
+            parts = re.findall(r"\(([^()]+)\)", W.plain(cell))
         out.append({"season": season, "year": year, "player": re.sub(r"\s*\(.*$", "", name), "nation": nation_code(cell),
                     "clubs": [cid for part in parts for cid in [club_from_cell(part, clubs, country)] if cid],
                     "goals": goals[k] if len(goals) == len(players) else max(goals), "matches": None})
@@ -418,7 +468,7 @@ def parse_scorers(cfg: dict, clubs: LeagueClubs, refresh: bool) -> list[dict]:
     skip = sc.get("skipTables", 0)
     for grid in tables_with(page(sc["page"], refresh), *sc["needles"])[skip:skip + sc["tables"]]:
         labels = W.header_labels(grid[0])
-        season_i, player_i = column(labels, r"season", r"year"), column(labels, r"player", r"footballer")
+        season_i, player_i = column(labels, r"season", r"year"), column(labels, r"player", r"footballer", r"scorer")
         nat_i, club_i = column(labels, r"nationality"), column(labels, r"club")
         goals_i, apps_i = column(labels, r"goals"), column(labels, r"^apps", r"^matches", r"^played")
         for row in grid[1:]:
@@ -465,7 +515,8 @@ def parse_alltime_scorers(cfg: dict, refresh: bool) -> list[dict]:
         if years_i is not None:
             career = W.plain(re.sub(r"<br\s*/?>", ", ", row[years_i]["text"]))
         elif first_i is not None and last_i is not None:
-            career = f"{W.plain(row[first_i]['text'])}–{W.plain(row[last_i]['text'])}"
+            first, last = W.plain(row[first_i]["text"]), W.plain(row[last_i]["text"])
+            career = f"{first} to {last}" if "–" in first + last else f"{first}–{last}"
         else:
             career = ""
         out.append({

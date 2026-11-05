@@ -1,0 +1,994 @@
+{{short description|Scottish association football league}}
+{{For|the top division of women's football in Scotland|Scottish Women's Premier League}}
+{{For|the former Scottish football division (1998–2013)|Scottish Premier League}}
+{{about|the top division of Scottish men's football since 2013}}
+{{Use dmy dates|date=September 2015}}
+{{Use British English|date=July 2013}}
+{{infobox football league
+| organisers = [[Scottish Professional Football League|SPFL]]
+| name       = Scottish Premiership 
+| logo       = Scottish Premiership logo.svg
+| pixels     = 
+| country    = Scotland
+| confed     = [[UEFA]]
+| founded    = {{start date and age|df=yes|2013}}
+| folded     = 
+| teams      = 12
+| levels     = [[Scottish football league system|1]]
+| pyramid    = Scottish football league system
+| relegation = [[Scottish Championship]]
+| domest_cup = [[Scottish Cup]]
+| league_cup = [[Scottish League Cup]]
+| confed_cup = [[UEFA Champions League]]<br />[[UEFA Europa League]]<br />[[UEFA Conference League]]
+| champions  = [[Celtic F.C.|Celtic]]<ref name="history" group ="note">The Scottish Premiership has only existed since 2013. For a complete record of clubs that have won Scottish league championships, see [[list of Scottish football champions]].</ref>
+| season = [[2025–26 Scottish Premiership|2025–26]]
+| most successful club = Celtic (12 titles)<ref name="history" group ="note" />
+| tv         = [[Sky Sports]]<br />[[Premier Sports]]<br />[[BBC Alba]]<br />[[BBC Scotland]]<br><small>List of international broadcasters</small>
+| website    = {{URL|https://spfl.co.uk/}}
+| current    = [[2026–27 Scottish Premiership]]
+}}
+
+The '''Scottish Premiership''', also known as the '''[[William Hill (bookmaker)|William Hill]] Premiership''' for sponsorship reasons,<ref>{{cite web |url=https://spfl.co.uk/news/william-hill-and-spfl-agree-landmark-title-spons |title=William Hill and SPFL Agree Landmark Title Sponsorship Deal |date=7 June 2024 |access-date=7 June 2024|publisher=Scottish Professional Football League}}</ref> is a professional [[association football]] league in [[Scotland]] and the highest level of the [[Scottish football league system]]. The top division of the [[Scottish Professional Football League]] (SPFL), the Scottish Premiership was established in July 2013, after the SPFL was formed by a merger of the [[Scottish Premier League]] and [[Scottish Football League]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/23435136|title=SPFL: New Scottish league brands unveiled|date=24 July 2013|access-date=24 July 2013|publisher=BBC Sport}}</ref> There are 12 teams in this division, with each team playing 38 matches per season. Seventeen clubs have played in the Scottish Premiership since its creation in the [[2013–14 Scottish Premiership|2013–14 season]].
+
+==Competition format==
+Teams receive [[three points for a win]] and one point for a draw. No points are awarded for a loss. Teams are ranked by total points, then [[goal difference]], and then goals scored. At the end of each season, the club with the most points is crowned [[list of Scottish football champions|league champion]]. If the points, goal difference, goals scored, and head-to-head results between teams are equal, a play-off game held at a neutral venue shall be played to determine the final placings. The play-off will only occur when the position of the teams affects the outcome of the title, European qualification, relegation, or second stage group allocation and shall not occur otherwise.<ref name="SPFL rules">{{cite web|date=12 January 2022|title=The Rules and Regulations of the Scottish Professional Football League|url=https://spfl.co.uk/admin/filemanager/images/shares/pdfs/SPFL%20Rules%20and%20Regulations%2012-Jan-22%20(MASTER%20COPY)%20CLEAN.pdf|access-date=2 February 2022|publisher=Scottish Professional Football League|pages=}}</ref>
+
+===Split===
+The top flight of Scottish football has contained 12 clubs since the [[2000–01 in Scottish football|2000–01 season]], the longest period without change in the history of the [[Scottish football league system]].<ref name="statistics" /> During this period the Scottish Premier League, and now the Scottish Premiership, has operated a "split" format, that is, split in two phases as is explained below. This is used to prevent the need for a 44-game schedule, based on playing each other four times. That format was used in the [[Scottish Football League Premier Division|Scottish Premier Division]] in the mid-1980s and early 1990s, but it is now too high a number of games in a league season.
+
+A season, which runs from August until May, is divided into two phases. During the first phase, each club plays three games against every other team, either once at home and twice away or vice versa. After this first phase of matches, by which time all clubs have played 33 games, the league splits into two halves – a "top six" section and a "bottom six" section. Each club plays a further five matches, one against each of the other five teams in their own section. Points achieved during the first phase of 33 matches are carried forward to the second phase, but the teams compete only within their own sections during the second phase. After the first phase is completed, clubs cannot move out of their own half in the league, even if they achieve more or fewer points than a higher or lower ranked team, respectively.
+
+At the beginning of each season, the SPFL 'predicts' the likely positions of each club in order to produce a fixture schedule that ensures the best possible chance of all clubs playing each other twice at home and twice away. This is known as the league 'seeding' and is based on clubs' performance in the previous season.<ref name="SPL stand by their split decision">{{cite news|url=http://www.highbeam.com/doc/1P2-18987329.html |archive-url=https://web.archive.org/web/20140610083438/http://www.highbeam.com/doc/1P2-18987329.html |url-status=usurped |archive-date=10 June 2014 |first=Michael |last=Grant |newspaper=[[Sunday Herald]] |title=SPL stand by their split decision |date=8 August 1999 |via=[[HighBeam Research]] |url-access=subscription |access-date=11 December 2013}}</ref> If the clubs do not finish in the half where they are predicted to finish, then anomalies can be created in the fixture list. Clubs sometimes play another three times at home and once away (or vice versa),<ref name="SPL stand by their split decision" /><ref name="delayed">{{cite web|url=https://www.bbc.co.uk/sport/football/43641382|title=SPFL: Announcement on last round of fixtures delayed until after weekend|publisher=[[BBC Sport]]|date=4 April 2018|access-date=6 April 2018}}</ref> or a club can end up playing 20 home (or away) games in a season.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/39584406 |title=Scottish Premiership post-split: Ross County play extra away games |publisher=BBC Sport |date=13 April 2017 |access-date=6 April 2018}}</ref>
+
+===Promotion and relegation===
+The bottom placed Premiership club at the end of the season is relegated and swaps places with the winner of the [[Scottish Championship]],<ref name="SPFL rules" /> provided that the winner satisfies Premiership entry criteria. With the creation of the SPFL, [[promotion and relegation]] play-offs involving the top flight were introduced for the first time in seventeen years.<ref name="statistics">{{cite news |url=https://www.scotsman.com/sport/football/scottish-premiership-201314-numbers-1566804|title=The Scottish Premiership 2013/14 in numbers |first=Craig |last=Anderson |newspaper=The Scotsman |date=24 July 2013}}</ref><ref>{{cite news |url=https://www.bbc.co.uk/sport/football/23079880 |title=The new Scottish Professional Football League survives hitch |first=Chris |last=McLaughlin |publisher=BBC Sport}}</ref> The Premiership club in eleventh place plays the Championship play-off winners over two legs, with the winner earning the right to play in the Scottish Premiership the following season.<ref>{{cite web|last=McGuiness|first=Nathan|title=The Scottish Professional Football League|url=http://spfl.co.uk/spfl/|access-date=6 April 2014|archive-date=6 December 2015|archive-url=https://web.archive.org/web/20151206141748/http://spfl.co.uk/spfl/|url-status=dead}}</ref> This enables two clubs to be relegated from the Premiership each season, with two being promoted. Prior to the creation of the Scottish Premiership, only a single club could be relegated each season – with only the second tier champions being promoted. The [[Scottish Football League]] had used play-offs amongst its three divisions since 2007.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/22353579 |title=Scottish Premier League considers play-off introduction |publisher=BBC Sport |first=Andy |last=Campbell |date=30 April 2013 |access-date=11 December 2013}}</ref>
+
+===European qualification===
+{| class="wikitable floatright" style="font-size:97%"
+|+[[UEFA coefficients#Men's association coefficient|UEFA country coefficient]] 2021–26
+|- style="font-size: 88%;"
+! Rank
+! Association
+! Coefficient
+|-
+|{{rise|b|1}} 16
+|{{flagicon|SUI}} [[Swiss Football Association|Switzerland]]
+|31.700
+|-
+|{{rise|b|2}} 17
+|{{flagicon|CYP}} [[Cyprus Football Association|Cyprus]]
+|29.787
+|-
+|'''{{fall|b|-4}} 18'''
+|'''{{flagicon|SCO}} [[Scottish Football Association|Scotland]]'''
+|'''29.050'''
+|-
+|{{rise|b|1}} 19
+|{{flagicon|SWE}} [[Swedish Football Association|Sweden]]
+|28.872
+|-
+|{{fall|b|-2}} 20
+|{{flagicon|ISR}} [[Israel Football Association|Israel]]
+|27.500
+|}
+[[UEFA]] grants European places to the [[Scottish Football Association]], determined by Scotland's position in the [[UEFA coefficients#Men's Country coefficient|UEFA country coefficient]] rankings. The Scottish Football Association in turn allocates a number of these European places to final Scottish Premiership positions. At the end of the 2020–21 season, Scotland was ranked 11th in Europe—granting them two teams in the [[UEFA Champions League]], one team in the [[UEFA Europa League]], and two teams in the [[UEFA Europa Conference League]].
+
+At the end of the [[2022–23 Scottish Premiership|2022–23 season]], the Scottish Premiership winners (Celtic FC) gained qualification to the UEFA Champions League group stage, whilst the second placed team (Rangers FC) entered at the third qualifying round. The third placed team (Aberdeen FC) entered the Europa League in the playoff round, while the fourth place (Heart Of Midlothian FC) got UEFA Europa Conference League 3rd Qualifying Round and fifth place (Hibernian FC) got UEFA Europa Conference League 2nd Qualifying Round.
+
+Scotland's place in the Europa League is awarded to the winners of the [[Scottish Cup]]. Should the winners of that competition have already qualified for European competition, then the fifth placed team also enters the Europa Conference League second qualifying round, while third placed team (unless they are cup winners themselves) are promoted from Europa Conference League to the Europa League third qualifying round.
+
+===Financial disparity===
+The 2017 'Global Sports Salaries Survey' report found a large variation between the wages offered by teams in the Scottish Premiership, with champions Celtic paying an average annual salary of £735,040, per player, whilst traditional rivals Rangers could only pay £329,600 and league runners-up Aberdeen offered £136,382.<ref name="survey17">{{cite web | url=https://www.bbc.co.uk/sport/football/42141794 | title=Celtic: PSG average salary almost nine times that of Scottish champions | publisher=BBC Sport | date=27 November 2017 | access-date=27 November 2017}}</ref> The lowest salary offered by any of the twelve member clubs was Hamilton's £41,488—one seventeenth that of Celtic, whose wages were close to the sum of the other eleven clubs combined.<ref name="survey17" />
+
+The report stated that this disparity was the third-greatest from the 18 leagues surveyed, and that the Scottish Premiership offered the third-lowest salaries of those leagues; by contrast, Celtic's opponents in the Champions League that year paid average wages of £6.5m ([[Paris Saint-Germain F.C.|Paris Saint-Germain]]) and £5.2m ([[FC Bayern Munich|Bayern Munich]]), seven times higher than the Scottish club.<ref name="survey17" />
+
+==Clubs==
+The 12 clubs listed below will compete in the Scottish Premiership during the [[2025–26 Scottish Premiership|2025–26]] season.
+
+{| class="wikitable sortable" style="text-align: left"
+|-
+! Club
+! Location
+! Position in [[2025–26 Scottish Premiership|2025–26]]
+! First season in<br />top division
+! No. of seasons in top division
+! First season of current<br />spell in top division
+! No. of seasons of current spell
+! [[List of Scottish football champions|National titles]]
+! Last title
+|-
+| [[Aberdeen F.C.|Aberdeen]]
+| [[Aberdeen]]
+| {{ntsh|9}}9th, Scottish Premiership
+| [[1905–06 in Scottish football|1905–06]]
+| 115
+| [[1905–06 in Scottish football|1905–06]]
+| 115
+| 4
+| [[1984–85 in Scottish football|1984–85]]
+|-
+| [[Celtic F.C.|Celtic]]
+| [[Glasgow]] {{small|([[Parkhead]])}}
+| {{ntsh|1}}1st, Scottish Premiership (champions)
+| [[1890–91 in Scottish football|1890–91]]
+| 130
+| [[1890–91 in Scottish football|1890–91]]
+| 130
+| 56
+| [[2025-26 in Scottish football|2025–26]]
+|-
+| [[Dundee F.C.|Dundee]]
+| [[Dundee]]
+| {{ntsh|8}}8th, Scottish Premiership
+| [[1893–94 in Scottish football|1893–94]]
+| 102
+| [[2023–24 in Scottish football|2023–24]]
+| 4
+| 1
+| [[1961–62 in Scottish football|1961–62]]
+|-
+| [[Dundee United F.C.|Dundee United]]
+| [[Dundee]]
+| {{ntsh|7}}7th, Scottish Premiership  
+| [[1925–26 in Scottish football|1925–26]]
+| 65
+| [[2024–25 in Scottish football|2024–25]]
+| 3
+| 1
+| [[1982–83 in Scottish football|1982–83]]
+|-
+| [[Falkirk F.C.|Falkirk]]
+| [[Falkirk]]
+| {{ntsh|6}}6th, Scottish Premiership 
+| [[1905–06 in Scottish football|1905–06]]
+| 69
+| [[2025–26 in Scottish football|2025–26]]
+| 2
+| &nbsp;—
+| &nbsp;—
+|-
+| [[Heart of Midlothian F.C.|Heart of Midlothian]]
+| [[Edinburgh]] {{small|([[Gorgie]])}}
+| {{ntsh|2}}2nd, Scottish Premiership
+| [[1890–91 in Scottish football|1890–91]]
+| 124
+| [[2021–22 in Scottish football|2021–22]]
+| 6
+| 4
+| [[1959–60 in Scottish football|1959–60]]
+|-
+| [[Hibernian F.C.|Hibernian]]
+| [[Edinburgh]] {{small|([[Leith]])}}
+| {{ntsh|5}}5th, Scottish Premiership
+| [[1895–96 in Scottish football|1895–96]]
+| 120
+| [[2017–18 in Scottish football|2017–18]]
+| 10
+| 4
+| [[1951–52 in Scottish football|1951–52]]
+|-
+| [[Kilmarnock F.C.|Kilmarnock]]
+| [[Kilmarnock]]
+| {{ntsh|10}}10th, Scottish Premiership
+| [[1899–1900 in Scottish football|1899–1900]]
+| 97
+| [[2022–23 in Scottish football|2022–23]]
+| 5
+| 1
+| [[1964–65 in Scottish football|1964–65]]
+|-
+| [[Motherwell F.C.|Motherwell]]
+| [[Motherwell]]
+| {{ntsh|4}}4th, Scottish Premiership
+| [[1903–04 in Scottish football|1903–04]]
+| 111
+| [[1985–86 in Scottish football|1985–86]]
+| 42
+| 1
+| [[1931–32 in Scottish football|1931–32]]
+|-
+| [[Rangers F.C.|Rangers]]
+| [[Glasgow]] {{small|([[Ibrox, Glasgow|Ibrox]])}}
+| {{ntsh|3}}3rd, Scottish Premiership
+| [[1890–91 in Scottish football|1890–91]]
+| 126
+| [[2016–17 in Scottish football|2016–17]]
+| 11
+| 55
+| [[2020–21 in Scottish football|2020–21]]
+|-
+| [[St Johnstone F.C.|St Johnstone]]
+| [[Perth, Scotland|Perth]]
+| {{ntsh|12}} 1st Scottish Championship (promoted)
+| [[1924–25 in Scottish football|1924–25]]
+| 55
+| [[2026–27 in Scottish football|2026–27]]
+| 1
+| &nbsp;—
+| &nbsp;—
+|-
+| [[St Mirren F.C.|St Mirren]]
+| [[Paisley, Renfrewshire|Paisley]]
+| {{ntsh|11}}11th, Scottish Premiership 
+| [[1890–91 in Scottish football|1890–91]]
+| 116
+| [[2018–19 in Scottish football|2018–19]]
+| 9
+| &nbsp;—
+| &nbsp;—
+|-
+|}
+{{Col-begin}}
+{{Col-2}}
+{{Location map+ |UK Scotland|width=500 |float=left |caption=Location of teams in the '''2026–27 Scottish Premiership'''|places=
+{{location map~ |UK Scotland |marksize=7 |lat=56.474722 |long=-2.971250 |label='''Dundee'''|position=top|mark=Blue pog.svg}}
+{{location map~ |UK Scotland |marksize=7 |lat=55.950417 |long=-3.198889 |label='''Edinburgh'''|position=right|mark=Blue pog.svg}}
+{{location map~ |UK Scotland |marksize=7 |lat=55.851456 |long=-4.257329 |label='''Glasgow'''|position=top|mark=Blue pog.svg}}
+{{Location map~ |UK Scotland |marksize=7 |lat=57.159387 |long=-2.088979 |label=[[Aberdeen F.C.|Aberdeen]]|position=left}}
+{{Location map~ |UK Scotland |marksize=7 |lat=56.005278 |long=-3.752778 |label=[[Falkirk F.C.|Falkirk]]|position=top}}
+{{Location map~ |UK Scotland |marksize=7 |lat=55.604321 |long=-4.508300 |label=[[Kilmarnock F.C.|Kilmarnock]]|position=bottom}}
+{{Location map~ |UK Scotland |marksize=7 |lat=55.780279 |long=-3.980205 |label=[[Motherwell F.C.|Motherwell]]|position=bottom}}
+{{Location map~ |UK Scotland |marksize=7 |lat=55.850556 |long=-4.443889 |label=[[St Mirren F.C.|St Mirren]]|position=left}}
+{{Location map~ |UK Scotland |marksize=7 |lat=56.389979 |long=-3.476840 |label={{nowrap|[[St Johnstone F.C.|St Johnstone]]}} |position=left}}
+
+<!--DISPLAY OF DUNDEE TEAMS IN UPPER LEFT CORNER-->
+{{Location map~ |UK Scotland |mark=TransparentPlaceholder.png |marksize=1 |lat=60.75 |long=-8.5 |label_size=80|label='''{{nowrap|[[Dundee#Football|Dundee]] teams:}}'''<br/>
+[[Dundee F.C.|Dundee]]<br/>
+[[Dundee United F.C.|Dundee United]]}}
+
+<!--DISPLAY OF EDINBURGH TEAMS IN UPPER LEFT CORNER-->
+{{Location map~ |UK Scotland |mark=TransparentPlaceholder.png |marksize=1 |lat=60.30 |long=-8.5 |label_size=80|label='''{{nowrap|[[Edinburgh#Football|Edinburgh]] teams:}}'''<br/>
+[[Heart of Midlothian F.C.|{{nowrap|Hearts of Midlothian}}]]<br/>
+[[Hibernian F.C.|Hibernian]]}}
+
+<!--DISPLAY OF GLASGOW TEAMS IN UPPER LEFT CORNER-->
+{{Location map~ |UK Scotland |mark=TransparentPlaceholder.png |marksize=1 |lat=59.85 |long=-8.5 |label_size=80|label='''{{nowrap|[[Glasgow#Football|Glasgow]] teams:}}'''<br/>
+[[Celtic F.C.|Celtic]]<br/>
+[[Rangers F.C.|Rangers]]}}
+|position=right}}
+{{col-2}}
+{{Location map+|Scotland Dundee
+ |width=170
+ |float=right
+ |caption=Premiership football clubs in Dundee
+ |alt=Premiership football clubs in Dundee
+ |places =
+ {{Location map~ |Scotland Dundee |marksize=6 |lat=56.474722 |long=-2.973611 |label='''[[Dundee F.C.|Dundee]]'''|position=left}}
+ {{Location map~ |Scotland Dundee |marksize=6 |lat=56.474722 |long=-2.968889 |label='''[[Dundee United F.C.|Dundee United]]'''|position=right}}
+}}
+{{Location map+|Edinburgh
+ |width=170
+ |float=right
+ |caption=Premiership football clubs in Edinburgh
+ |alt=Premiership football clubs in Edinburgh
+ |places =
+ {{Location map~ |Edinburgh |marksize=6 |lat=55.939167 |long=-3.232222 |label='''[[Heart of Midlothian F.C.|Heart of Midlothian]]'''|position=bottom}}
+ {{Location map~ |Edinburgh |marksize=6 |lat=55.961667 |long=-3.165556 |label='''[[Hibernian F.C.|Hibernian]]'''|position=left}}
+}}
+{{Location map+|Scotland Glasgow
+ |width=170
+ |float=right
+ |caption=Premiership football clubs in Glasgow
+ |alt=Premiership football clubs in Glasgow
+ |places =
+ {{Location map~ |Scotland Glasgow |marksize=6 |lat=55.849705 |long=-4.205414 |label='''[[Celtic F.C.|Celtic]]'''|position=top}}
+ {{Location map~ |Scotland Glasgow |marksize=6 |lat=55.853207 |long=-4.309243 |label='''[[Rangers F.C.|Rangers]]'''|position=bottom}}
+}}
+{{col-end}}
+
+{| class="wikitable" style="text-align:center"
+|-
+! [[Aberdeen F.C.|Aberdeen]]
+! [[Celtic F.C.|Celtic]]
+! [[Dundee F.C.|Dundee]]
+! [[Dundee United F.C.|Dundee United]]
+! [[Falkirk F.C.|Falkirk]]
+! [[Heart of Midlothian F.C.|Heart of Midlothian]]
+|-
+| [[Pittodrie Stadium]]
+| [[Celtic Park]]
+| [[Dens Park]]
+| [[Tannadice Park]]
+| [[Falkirk Stadium]]
+| [[Tynecastle Park]]
+|-
+| Capacity: '''20,866'''
+| Capacity: '''60,411'''
+| Capacity: '''11,775'''
+| Capacity: '''14,223'''
+| Capacity: '''7,937'''
+| Capacity: '''19,852'''
+|-
+| [[File:Pittodrie from Block Y, May 2015.jpg|150px]]
+| [[File:Celtic Park3.jpg|150px]]
+| [[File:Dens stand.jpg|150px]]
+| [[File:East Stand Tannadice.jpg|150px]]
+| [[File:TheFalkirkStadium.jpg|150px]]
+| [[File:Tynecastle Park, January 2018.jpg|150px]]
+|}
+
+{| class="wikitable" style="text-align:center"
+|-
+! [[Hibernian F.C.|Hibernian]]
+! [[Kilmarnock F.C.|Kilmarnock]]
+! [[Motherwell F.C.|Motherwell]]
+! [[Rangers F.C.|Rangers]] 
+! [[St Johnstone F.C.|St Johnstone]] 
+! [[St Mirren F.C.|St Mirren]]
+|-
+| [[Easter Road]]
+| [[Rugby Park]]
+| [[Fir Park]]
+| [[Ibrox Stadium]]
+| [[McDiarmid Park]]
+| [[St Mirren Park]]
+|-
+| Capacity: '''20,421'''
+| Capacity: '''15,003'''
+| Capacity: '''13,677'''
+| Capacity: '''51,700'''
+| Capacity: '''10,696'''
+| Capacity: '''7,937'''
+|-
+| [[File:Easter Road - West Stand.jpg|150px]]
+| [[File:Rugby Park, Kilmarnock.jpg|150px]]
+| [[File:Firpark.jpg|150px]]
+| [[File:Ibrox Inside.jpg|150px]]
+| [[File:McDiarmid Park.jpg|150px]]
+| [[File:StMirren(2).jpg|150px]]
+|}
+;Club ranking:
+UEFA 5-year Club Ranking after 2024/25 season:<ref>{{Cite web|url=http://www.90minut.pl/ranking_uefa.php?i=1&id_sezon=97|title=90minut.pl|website=90minut.pl}}</ref>
+*  25. {{rise|b|1}}  [[Rangers F.C.|Rangers]] (71.250) 
+*  59. {{same position|b|0}} [[Celtic F.C.|Celtic]] (38.000)
+* 138. {{rise|b|51}} [[Heart of Midlothian F.C.|Heart of Midlothian]] (11.500)
+* 161. {{fall|b|-35}} [[Aberdeen F.C.|Aberdeen]] (9.500)
+* 205. {{fall|b|-7}} [[Kilmarnock F.C.|Kilmarnock]] (2.500)
+* 206 {{rise|b|500}} [[St Mirren F.C.|St Mirren]] (2.000)
+* 207. {{fall|b|-17}} [[Hibernian F.C.|Hibernian]] (4.500)
+* 208. {{fall|b|-15}} [[Dundee United F.C.|Dundee United]] (2.000)
+* 209. {{fall|b|-15}} [[Motherwell F.C.|Motherwell]] (3.500)
+* 210. {{fall|b|-15}} [[St Johnstone F.C.|St Johnstone]] (2.500)
+
+===Seasons in Scottish top flight===
+There are 46 teams that have taken part in 130 Scottish top flight championships (the [[Scottish Football League|Scottish Football League Division One]], [[Scottish Football League Premier Division]], [[Scottish Premier League]], and Scottish Premiership) that were played from the [[1890–91 Scottish Football League|1890–91 season]] until the [[2026–27 Scottish Premiership|2026–27 season]]. The teams in bold compete in the Scottish Premiership currently, while the teams in italics have never competed in the Scottish Premiership. The year in parentheses represents the most recent year of participation at this level. [[Celtic F.C.|Celtic]] is the only team that has played Scottish top flight football in every season.
+
+{{div col}}
+* '''130''' seasons: '''[[Celtic F.C.|Celtic]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''126''' seasons: '''[[Rangers F.C.|Rangers]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''124''' seasons: '''[[Heart of Midlothian F.C.|Heart of Midlothian]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''118''' seasons: '''[[Hibernian F.C.|Hibernian]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''113''' seasons: '''[[Aberdeen F.C.|Aberdeen]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''111''' seasons: '''[[Motherwell F.C.|Motherwell]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''106''' seasons: '''[[St Mirren F.C.|St Mirren]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''102''' seasons: '''[[Dundee F.C.|Dundee]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''98''' seasons: '''[[Kilmarnock F.C.|Kilmarnock]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''85''' seasons: [[Partick Thistle F.C.|Partick Thistle]] ([[2017–18 Scottish Premiership|2018]])
+* '''70''' seasons: '''[[Falkirk F.C.|Falkirk]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''65''' seasons: '''[[Dundee United F.C.|Dundee United]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''63''' seasons: ''[[Clyde F.C.|Clyde]]'' ([[1974–75 Scottish Division One|1975]])
+* '''60''' seasons: ''[[Airdrieonians F.C. (1878)|Airdrieonians]]'' ([[1992–93 Scottish Premier Division|1993]])
+* '''58''' seasons: ''[[Third Lanark F.C.|Third Lanark]]'' ([[1964–65 Scottish Division One|1965]])
+* '''55''' seasons: '''[[St Johnstone F.C.|St Johnstone]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''54''' seasons: ''[[Greenock Morton F.C.|Greenock Morton]]'' ([[1987–88 Scottish Premier Division|1988]])
+* '''48''' seasons: [[Hamilton Academical F.C.|Hamilton Academical]] ([[2020–21 Scottish Premiership|2021]])
+* '''42''' seasons: ''[[Queen's Park F.C.|Queen's Park]]'' ([[1957–58 Scottish Division One|1958]])
+* '''38''' seasons: ''[[Dunfermline Athletic F.C.|Dunfermline Athletic]]'' ([[2011–12 Scottish Premier League|2012]])
+* '''37''' seasons: ''[[Raith Rovers F.C.|Raith Rovers]]'' ([[1996–97 Scottish Premier Division|1997]])
+* '''35''' seasons: ''[[Ayr United F.C.|Ayr United]]'' ([[1977–78 Scottish Premier Division|1978]])
+* '''20''' seasons: ''[[Queen of the South F.C.|Queen of the South]]'' ([[1963–64 Scottish Division One|1964]])
+* '''19''' seasons: ''[[Dumbarton F.C.|Dumbarton]]'' ([[1984–85 Scottish Premier Division|1985]])
+* '''14''' seasons: ''[[East Fife F.C.|East Fife]]'' ([[1973–74 Scottish Division One|1974]])
+* '''12''' seasons: [[Inverness Caledonian Thistle F.C.|Inverness Caledonian Thistle]] ([[2016–17 Scottish Premiership|2017]]), [[Ross County F.C.|Ross County]] ([[2024–25 Scottish Premiership|2025]]), [[Livingston F.C.|Livingston]] ([[2025–26 Scottish Premiership|2026]])
+* '''11''' seasons: ''[[Stirling Albion F.C.|Stirling Albion]]'' ([[1967–68 Scottish Division One|1968]]), ''[[Cowdenbeath F.C.|Cowdenbeath]]'' ([[1970–71 Scottish Division One|1971]])
+* '''9''' seasons: ''[[Albion Rovers F.C.|Albion Rovers]]'' ([[1948–49 Scottish Division A|1949]]), ''[[Arbroath F.C.|Arbroath]]'' ([[1974–75 Scottish Division One|1975]])
+* '''8''' seasons: ''[[Port Glasgow Athletic F.C.|Port Glasgow Athletic]]'' ([[1909–10 Scottish Division One|1910]])
+* '''7''' seasons: ''[[St Bernard's F.C.|St Bernard's]]'' ([[1899–1900 Scottish Division One|1900]]), ''[[Clydebank F.C. (1914)|Clydebank (1914)]]'' ([[1925–26 Scottish Division One|1926]])
+* '''6''' seasons: ''[[Leith Athletic F.C.|Leith Athletic]]'' ([[1931–32 Scottish Division One|1932]])
+* '''4''' seasons: ''[[Renton F.C.|Renton]]'' ([[1893–94 Scottish Division One|1894]]), ''[[Abercorn F.C.|Abercorn]]'' ([[1896–97 Scottish Division One|1897]])
+* '''3''' seasons: ''[[Clydebank F.C. (1965)|Clydebank (1965)]]'' ([[1986–87 Scottish Premier Division|1987]])
+* '''2''' seasons: ''[[Cambuslang F.C.|Cambuslang]]'' ([[1891–92 Scottish Football League|1892]]), ''[[Vale of Leven F.C.|Vale of Leven]]'' ([[1891–92 Scottish Football League|1892]]), ''[[East Stirlingshire F.C.|East Stirlingshire]]'' ([[1963–64 Scottish Division One|1964]])
+* '''1''' season: ''[[Cowlairs F.C.|Cowlairs]]'' ([[1890–91 Scottish Football League|1891]]), ''[[Alloa Athletic F.C.|Alloa Athletic]]'' ([[1922–23 Scottish Division One|1923]]), ''[[Bo'ness F.C.|Bo'ness]]'' ([[1927–28 Scottish Division One|1928]]), ''[[Gretna F.C.|Gretna]]'' ([[2007–08 Scottish Premier League|2008]])
+{{div col end}}
+
+===Seasons in Scottish Premiership===
+There are 17 teams that have taken part in 14 Scottish Premiership championships that were played from the [[2013–14 Scottish Premiership|2013–14 season]] until the [[2026–27 Scottish Premiership|2026–27 season]]. The teams in bold compete in the Scottish Premiership currently. The year in parentheses represents the most recent year of participation at this level. [[Aberdeen F.C.|Aberdeen]], [[Celtic F.C.|Celtic]], and [[Motherwell F.C.|Motherwell]] are the only teams that have played Scottish Premiership football in every season.
+
+{{div col}}
+* '''14''' seasons: '''[[Aberdeen F.C.|Aberdeen]]''' ([[2026–27 Scottish Premiership|2027]]), '''[[Celtic F.C.|Celtic]]''' ([[2026–27 Scottish Premiership|2027]]), '''[[Motherwell F.C.|Motherwell]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''13''' seasons: '''[[Kilmarnock F.C.|Kilmarnock]]''' ([[2026–27 Scottish Premiership|2027]]), '''[[St Johnstone F.C.|St Johnstone]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''12''' seasons: '''[[Heart of Midlothian F.C.|Heart of Midlothian]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''11''' seasons: [[Ross County F.C.|Ross County]] ([[2024–25 Scottish Premiership|2025]]), '''[[Hibernian F.C.|Hibernian]]''' ([[2026–27 Scottish Premiership|2027]]), '''[[Rangers F.C.|Rangers]]''' ([[2026–27 Scottish Premiership|2027]]), '''[[St Mirren F.C.|St Mirren]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''10''' seasons: '''[[Dundee F.C.|Dundee]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''9''' seasons: '''[[Dundee United F.C.|Dundee United]]''' ([[2026–27 Scottish Premiership|2027]])
+* '''7''' seasons: [[Hamilton Academical F.C.|Hamilton Academical]] ([[2020–21 Scottish Premiership|2021]]), [[Livingston F.C.|Livingston]] ([[2025–26 Scottish Premiership|2026]])
+* '''5''' seasons: [[Partick Thistle F.C.|Partick Thistle]] ([[2017–18 Scottish Premiership|2018]])
+* '''4''' seasons: [[Inverness Caledonian Thistle F.C.|Inverness Caledonian Thistle]] ([[2016–17 Scottish Premiership|2017]])
+* '''2''' seasons: '''[[Falkirk F.C.|Falkirk]]''' ([[2026–27 Scottish Premiership|2027]])
+{{div col end}}
+
+== Managers ==
+{{see also|List of Scottish Professional Football League managers}}
+''Italics'' indicate interim managers.
+{| class="wikitable sortable plainrowheaders"
+|+Current Scottish Premiership managers
+! scope="col" |Manager
+! scope="col" |Nationality
+! scope="col" |Club
+! scope="col" |Appointed
+! scope="col" |Time as manager
+|-
+! scope="row" |[[John McGlynn (Scottish footballer)|John McGlynn]]
+|{{Flagu|Scotland}}
+|[[Falkirk F.C.|Falkirk]]
+|{{dts|2022|5|4|format=dmy}}
+|{{ayd|2022|5|4}}
+|-
+! scope="row" |[[Jim Goodwin]]
+|{{Flagu|Ireland}}
+|[[Dundee United F.C.|Dundee United]]
+|{{dts|2023|3|1|format=dmy}}
+|{{ayd|2023|3|1}}
+|-
+! scope="row" |[[David Gray (footballer, born 1988)|David Gray]]
+|{{Flagu|Scotland}}
+|[[Hibernian F.C.|Hibernian]]
+|{{dts|2024|5|14|format=dmy}}
+|{{ayd|2024|5|14}}
+|-
+! scope="row" |[[Simo Valakari]]
+|{{Flagu|Finland}}
+|[[St Johnstone F.C.|St Johnstone]]
+|{{dts|2024|10|1|format=dmy}}
+|{{ayd|2024|10|1}}
+|-
+! scope="row" |[[Steven Pressley]]
+|{{Flagu|Scotland}}
+|[[Dundee F.C.|Dundee]]
+|{{dts|2025|6|2|format=dmy}}
+|{{ayd|2025|6|2}}
+|-
+! scope="row" |[[Martin O'Neill]]
+|{{Flagu|Northern Ireland}}
+|[[Celtic F.C.|Celtic]]
+|{{dts|2026|1|5|format=dmy}}
+|{{ayd|2026|1|5}}
+|-
+! scope="row" |[[Neil McCann]]
+|{{Flagu|Scotland}}
+|[[Kilmarnock F.C.|Kilmarnock]]
+|{{dts|2026|1|6|format=dmy}}
+|{{ayd|2026|1|6}}
+|-
+! scope="row" |[[Stephen Robinson (footballer)|Stephen Robinson]]
+|{{Flagu|Northern Ireland}}
+|[[Aberdeen F.C.|Aberdeen]]
+|{{dts|2026|3|12|format=dmy}}
+|{{ayd|2026|3|12}}
+|-
+! scope="row" | Craig McLeish
+|{{Flagu|Scotland}}
+|[[St Mirren F.C.|St Mirren]]
+|{{dts|2026|3|12|format=dmy}}
+|{{ayd|2026|3|12}}
+|-
+! scope="row" |[[Derek McInnes]]
+|{{Flagu|Scotland}}
+|[[Rangers F.C.|Rangers]]
+|{{dts|2026|06|17|format=dmy}}
+|{{ayd|2026|06|17}}
+|-
+! scope="row" |[[Alfred Johansson (football manager)|Alfred Johansson]]
+|{{Flagu|Sweden}}
+|[[Motherwell F.C.|Motherwell]]
+|{{dts|2026|6|18|format=dmy}}
+|{{ayd|2026|6|18}}
+|-
+! scope="row" |[[Wouter Vrancken]]
+|{{Flagu|Belgium}}
+|[[Heart of Midlothian F.C.|Heart of Midlothian]]
+|{{dts|2026|6|25|format=dmy}}
+|{{ayd|2026|06|25}}
+|}
+
+==Statistics==
+
+===Championships===
+{{main|List of Scottish football champions}}
+
+{| class="wikitable"
+|-
+!Season
+!Winners
+!Runners-up
+!Third place
+!Tartan Boot
+![[PFA Scotland Players' Player of the Year|Players' Player of the Year]]
+![[SFWA Footballer of the Year|Writers' Player of the Year]]
+![[Scottish Professional Football League yearly awards|SPFL Premiership Player of the Year]]
+|-
+|[[2013–14 Scottish Premiership|2013–14]]
+|[[Celtic F.C.|Celtic]]
+|[[Motherwell F.C.|Motherwell]]
+|[[Aberdeen F.C.|Aberdeen]]
+|[[Kris Commons]], '''27''' (Celtic)
+|Kris Commons (Celtic)
+|Kris Commons (Celtic)
+|''Not awarded''
+|-
+|[[2014–15 Scottish Premiership|2014–15]]
+|[[Celtic F.C.|Celtic]]
+|[[Aberdeen F.C.|Aberdeen]]
+|[[Inverness Caledonian Thistle F.C.|Inverness CT]]
+|[[Adam Rooney]], '''20''' (Aberdeen)
+|[[Stefan Johansen]] (Celtic)
+|[[Craig Gordon]] (Celtic)
+|''Not awarded''
+|-
+|[[2015–16 Scottish Premiership|2015–16]]
+|[[Celtic F.C.|Celtic]]
+|[[Aberdeen F.C.|Aberdeen]]
+|[[Heart of Midlothian F.C.|Heart of Midlothian]]
+|[[Leigh Griffiths]], '''31''' (Celtic)
+|Leigh Griffiths (Celtic)
+|Leigh Griffiths (Celtic)
+|Leigh Griffiths (Celtic)
+|-
+|[[2016–17 Scottish Premiership|2016–17]]
+|[[Celtic F.C.|Celtic]]
+|[[Aberdeen F.C.|Aberdeen]]
+|[[Rangers F.C.|Rangers]]
+|[[Liam Boyce]], '''23''' (Ross County)
+|[[Scott Sinclair]] (Celtic)
+|Scott Sinclair (Celtic)
+|[[Scott Brown (footballer, born June 1985)|Scott Brown]] (Celtic)
+|-
+|[[2017–18 Scottish Premiership|2017–18]]
+|[[Celtic F.C.|Celtic]]
+|[[Aberdeen F.C.|Aberdeen]]
+|[[Rangers F.C.|Rangers]]
+|[[Kris Boyd]], '''18''' (Kilmarnock)
+|[[Scott Brown (footballer, born June 1985)|Scott Brown]] (Celtic)
+|Scott Brown (Celtic)
+|Scott Brown (Celtic)
+|-
+|[[2018–19 Scottish Premiership|2018–19]]
+|[[Celtic F.C.|Celtic]]
+|[[Rangers F.C.|Rangers]]
+|[[Kilmarnock F.C.|Kilmarnock]]
+|[[Alfredo Morelos]], '''18''' (Rangers)
+|[[James Forrest (footballer, born 1991)|James Forrest]] (Celtic)
+|James Forrest (Celtic)
+|James Forrest (Celtic)
+|-
+|[[2019–20 Scottish Premiership|2019–20]]{{efn|The [[2019–20 Scottish Premiership]] was suspended in March 2020 due to the [[COVID-19 pandemic in Scotland]]. The season was subsequently curtailed on 18 May 2020 and a points per game average was used to calculate a final table.<ref name="ends20">{{cite news| url= https://www.bbc.co.uk/sport/football/52646282| title=Celtic champions & Hearts relegated after SPFL ends season| publisher=[[BBC Sport]]| date=18 May 2020| access-date=18 May 2020}}</ref>}}
+|[[Celtic F.C.|Celtic]]
+|[[Rangers F.C.|Rangers]]
+|[[Motherwell F.C.|Motherwell]]
+|[[Odsonne Édouard]], '''22''' (Celtic)
+|''Not awarded''
+|Odsonne Édouard (Celtic)
+|''Not'' 
+''awarded''
+|-
+|[[2020–21 Scottish Premiership|2020–21]]
+|[[Rangers F.C.|Rangers]]
+|[[Celtic F.C.|Celtic]]
+|[[Hibernian F.C.|Hibernian]]
+|[[Odsonne Édouard]], '''18''' (Celtic)
+|[[James Tavernier]] (Rangers)
+|[[Steven Davis]] (Rangers)
+|[[Allan McGregor]] (Rangers)
+|-
+|[[2021–22 Scottish Premiership|2021–22]]
+|[[Celtic F.C.|Celtic]]
+|[[Rangers F.C.|Rangers]]
+|[[Heart of Midlothian F.C.|Heart of Midlothian]]
+|[[Regan Charles-Cook]], '''13''' (Ross County)<br/ >[[Giorgos Giakoumakis]], '''13''' (Celtic)
+|[[Callum McGregor]] (Celtic)
+|[[Craig Gordon]] (Heart of Midlothian)
+|Craig Gordon (Heart of Midlothian)
+|-
+|[[2022–23 Scottish Premiership|2022–23]]
+|[[Celtic F.C.|Celtic]]
+|[[Rangers F.C.|Rangers]]
+|[[Aberdeen F.C.|Aberdeen]]
+|[[Kyōgo Furuhashi]], '''27''' (Celtic)
+|Kyōgo Furuhashi (Celtic)
+|Kyōgo Furuhashi (Celtic)
+|Kyōgo Furuhashi (Celtic)
+|-
+|[[2023–24 Scottish Premiership|2023–24]]
+|[[Celtic F.C.|Celtic]]
+|[[Rangers F.C.|Rangers]]
+|[[Heart of Midlothian F.C.|Heart of Midlothian]]
+|[[Lawrence Shankland]], '''24''' (Heart of Midlothian)
+|Lawrence Shankland (Heart of Midlothian)
+|Lawrence Shankland (Heart of Midlothian)
+|Lawrence Shankland (Heart of Midlothian)
+|-
+|[[2024–25 Scottish Premiership|2024–25]]
+|[[Celtic F.C.|Celtic]]
+|[[Rangers F.C.|Rangers]]
+|[[Hibernian F.C.|Hibernian]]
+|[[Cyriel Dessers]], '''18''' (Rangers)
+|[[Daizen Maeda]] (Celtic)
+|Daizen Maeda (Celtic)
+|Daizen Maeda (Celtic)
+|-
+|[[2025–26 Scottish Premiership|2025–26]]
+|[[Celtic F.C.|Celtic]]
+|[[Heart of Midlothian F.C.|Heart of Midlothian]]
+|[[Rangers F.C.|Rangers]]
+|[[Tawanda Maswanhise]], '''17''' (Motherwell)
+|[[Cláudio Braga (footballer)|Cláudio Braga]] (Heart of Midlothian)
+|Cláudio Braga (Heart of Midlothian)
+||Cláudio Braga (Heart of Midlothian)
+|}
+
+As of 2026, Scotland's top-flight league championship has been won 56 times by [[Celtic F.C.|Celtic]] and 55 times by [[Rangers F.C.|Rangers]]. Nine other clubs have won the remaining 19 championships, with three clubs tied for third place with 4 apiece. The last time the championship was won by a club other than Rangers or Celtic was in [[1984–85 Scottish Premier Division|1984–85]], by Aberdeen.
+
+===Records and awards===
+<!--
+; Most consecutive wins:
+; Most consecutive games unbeaten:
+; Most consecutive defeats:
+; Most consecutive games without a win:
+; Oldest player:
+; Most consecutive clean sheets:
+; Most clean sheets in a season:
+; Most appearances:
+; Highest attendance:
+; Lowest attendance:
+; Highest average attendance:
+; Lowest average attendance:
+-->
+; Biggest home win: Rangers 8–0 Hamilton Academical, 8 November 2020<ref>{{cite web |url=https://www.bbc.co.uk/sport/live/football/54773457 |title=Rangers 8–0 Hamilton |publisher=BBC Sport |date=8 November 2020 |access-date=8 November 2020}}</ref>
+; Biggest away win: Dundee United 0–9 Celtic, 28 August 2022
+; Most goals in a game: Hibernian 5–5 Rangers, 13 May 2018
+; Most points in a season: 106; Celtic, 2016–17<ref name="celtic 17" />
+; Fewest points in a season: 21; Dundee, 2018–19; Livingston, 2025–26
+; Most wins in a season: 34; Celtic, 2016–17<ref name="celtic 17" />
+; Fewest wins in a season: 2; Livingston, 2025–26
+; Most draws in a season: 15; Dundee, 2015–16; Dundee United, 2025–26
+; Fewest draws in a season: 3; St Mirren, 2014–15; Celtic, 2022–23; Aberdeen, 2022–23
+; Most defeats in a season: 27; Dundee, 2018–19
+; Fewest defeats in a season: 0; Celtic, 2016–17;<ref name="celtic 17">{{cite web |url=https://www.bbc.co.uk/sport/football/39911911 |title=Celtic 2–0 Heart of Midlothian |publisher=BBC Sport |date=21 May 2017 |access-date=21 May 2017 |first=Andy |last=Campbell}}</ref> Rangers, 2020–21<ref name="rangers 21">{{cite web |url=https://www.bbc.co.uk/sport/football/57034862 |title=Rangers 4–0 Aberdeen |first=Clive |last=Lindsay |publisher=BBC Sport |date=15 May 2021 |access-date=15 May 2021}}</ref>
+; Most goals scored in a season: 114; Celtic, 2022–23
+; Fewest goals scored in a season: 24; St Johnstone, 2021–22<ref group="note">St Mirren scored 24 goals in the curtailed 2019–20 season.</ref>
+; Most goals conceded in a season: 78; Dundee, 2018–19
+; Fewest goals conceded in a season: 13; Rangers, 2020–21<ref name="rangers 21" />
+; Fastest goal: [[Kris Boyd]], for Kilmarnock against Ross County, 10 seconds, 28 January 2017<ref>{{cite web|title=BBC|url=https://www.bbc.co.uk/sport/av/scotland/38791562|publisher=BBC Sport|access-date=4 March 2017|archive-date=31 January 2017|archive-url=https://web.archive.org/web/20170131071456/http://www.bbc.com/sport/scotland/38791562|url-status=dead}}</ref>
+; Highest transfer fee paid: [[Arne Engels]], from [[FC Augsburg]] to Celtic, £10.8 million, 30 August 2024<ref>{{cite news |url=https://www.thenational.scot/sport/24551125.celtic-confirm-signing-arne-engels-record-breaking-deal/ |title=Celtic confirm signing of Arne Engels in record-breaking deal |website=The National |date=30 August 2024 |access-date=20 September 2024}}</ref>
+; Highest transfer fee received:[[Matt O'Riley]], from Celtic to [[Brighton and Hove Albion F.C.|Brighton]], £30 million, 26 August 2024<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/articles/crkm72xy7mvo|title=Brighton sign Celtic midfielder O'Riley for £25m |date=26 August 2024|access-date=20 September 2024}}</ref>
+; [[List of Scottish Professional Football League hat-tricks|Most hat-tricks]]: [[Liam Boyce]] and [[Leigh Griffiths]], 4 each
+; Youngest player: [[Dylan Reid]], for St Mirren v Rangers, 16 years and 5 days, 6 March 2021<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/56219996|title=Rangers a point from title after victory|publisher=BBC Sport}}</ref>
+; Youngest goalscorer: [[Jack Aitchison]], for Celtic v Motherwell, 16 years and 71 days<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/36240114 |first=Tom |last=English |title=Celtic 7–0 Motherwell |publisher=BBC Sport |date=15 May 2016 |access-date=16 May 2016}}</ref>
+; Longest-serving manager: [[David Martindale]], for [[Livingston F.C.|Livingston]], 26 November 2020 – 1 February 2026
+
+===Top scorers===
+[[File:20170701 SK Rapid Wien vs Celtic FC 1570.jpg|150px|thumb|upright|[[Leigh Griffiths]], the Scottish Premiership's all-time joint top goalscorer]]
+
+* '''Bold''' shows players still playing in the Scottish Premiership.
+* ''Italics'' show players still playing professional football in other leagues.
+
+{{updated|matches played on 03 September 2026}}
+
+{| class="wikitable sortable" style="text-align:center"
+! scope="col" |Rank
+! scope="col" width=175px|Player
+! scope="col" |Goals
+! scope="col" |{{Abbr|Apps|Appearances}}
+! scope="col" |{{Abbr|Ratio|Goals per game}}
+! scope="col" |{{Abbr|First|First Scottish Premiership appearance}}
+! scope="col" |{{Abbr|Last|Last Scottish Premiership appearance}}
+! class="unsortable" |{{Tooltip|Club(s) (goals/apps)|Scottish Premiership clubs only}}
+! class="unsortable"|Notes
+|-
+|rowspan="2"|1
+|style="text-align:left"|{{flagicon|SCO}} ''[[Leigh Griffiths]]''
+|92
+|188
+|{{#expr:92/188 round 2}}
+|2014
+|2022
+|style="text-align:left"|{{nowrap|[[Celtic F.C|Celtic]] (90/173)}}, {{nowrap|[[Dundee F.C.|Dundee]] (2/15)}}
+|<ref group="note" name="SPL">Player also scored goal(s) in the [[Scottish Premier League]].</ref>
+|-
+|style="text-align:left"|{{flagicon|ENG}} [[James Tavernier]]
+|92
+|346
+|{{#expr:92/346 round 2}}
+|2016
+|2026
+|style="text-align:left"|[[Rangers F.C.|Rangers]]
+|
+|-
+|3
+|style="text-align:left"|{{flagicon|SCO}} '''[[Lawrence Shankland]]'''
+|83
+|189
+|{{#expr:83/189 round 2}}
+|2013
+|2026
+|style="text-align:left"|{{nowrap|[[Aberdeen F.C.|Aberdeen]] (0/17)}}, {{nowrap|[[Dundee United F.C.|Dundee United]] (8/33)}}, {{nowrap|[[Heart of Midlothian F.C.|Heart of Midlothian]] (72/135)}}, {{nowrap|'''[[Rangers F.C.|Rangers]]''' (3/4)}}
+|
+|-
+|4
+|style="text-align:left"|{{flagicon|COL}} ''[[Alfredo Morelos]]''
+|78
+|178
+|{{#expr:78/178 round 2}}
+|2017
+|2023
+|style="text-align:left"|[[Rangers F.C.|Rangers]]
+|
+|-
+|5
+|style="text-align:left"|{{flagicon|AUS}} '''[[Martin Boyle]]'''
+|68
+|264
+|{{#expr:68/264 round 2}}
+|2014
+|2026
+|style="text-align:left"|{{nowrap|[[Dundee F.C.|Dundee]] (0/18)}}, {{nowrap|'''[[Hibernian F.C.|Hibernian]]''' (68/246)}}
+|<ref group="note" name="SPL" />
+|-
+|rowspan="2"|6
+|style="text-align:left"|{{flagicon|FRA}} ''[[Odsonne Édouard]]''
+|66
+|116
+|{{#expr:66/116 round 2}}
+|2017
+|2021
+|style="text-align:left"|[[Celtic F.C|Celtic]]
+|
+|-
+|style="text-align:left"|{{flagicon|IRL}} ''[[Adam Rooney]]''
+|66
+|151
+|{{#expr:66/151 round 2}}
+|2014
+|2018
+|style="text-align:left"|[[Aberdeen F.C.|Aberdeen]]
+|<ref group="note" name="SPL" />
+|-
+|8
+|style="text-align:left"|{{flagicon|JPN}} ''[[Kyōgo Furuhashi]]''
+|63
+|116
+|{{#expr:63/116 round 2}}
+|2021
+|2025
+|style="text-align:left"|[[Celtic F.C|Celtic]]
+|
+|-
+|9
+|style="text-align:left"|{{flagicon|NIR}} ''[[Liam Boyce]]''
+|62
+|166
+|{{#expr:62/166 round 2}}
+|2014
+|2025
+|style="text-align:left"|{{nowrap|[[Ross County F.C.|Ross County]] (48/99)}}, {{nowrap|[[Heart of Midlothian F.C.|Heart of Midlothian]] (14/67)}}
+|
+|-
+|10
+|style="text-align:left"|{{flagicon|SCO}} '''[[James Forrest (footballer, born 1991)|James Forrest]]'''
+|60
+|302
+|{{#expr:60/302 round 2}}
+|2013
+|2026
+|style="text-align:left"|'''[[Celtic F.C.|Celtic]]'''
+|<ref group="note" name="SPL" />
+|-
+|}
+
+==Broadcasting rights==
+The SPFL's domestic TV broadcast deal currently ranks 16th in Europe among European leagues.
+
+{| class="wikitable" border="1"
+|-
+! Country/region
+! Broadcaster
+! Language
+! Summary
+|-
+| rowspan="5" |'''{{UK}}'''
+|'''[[Sky Sports]]'''
+| rowspan="4" |English
+|Up to 60 live Premiership matches per season from 2024 to 2029 and the play-off final. Saturday-night goal highlights on [[Sky Sports News]].<ref>{{cite press release |title=New Deal with Sky Sports |url=https://spfl.co.uk/news/press-release-new-deal-with-sky-sports|access-date=27 September 2022|publisher=SPFL}}</ref><ref>{{cite web |url=https://spfl.co.uk/news/play-off-games-on-bbc |title=SPFL Play-offs on BBC Scotland |date=5 May 2021 |access-date=24 May 2021 |publisher=Scottish Professional Football League}}</ref>
+|-
+|'''[[Premier Sports]]'''
+|20 live Premiership pre-split matches per season from 2024 to 2029 and 2 live bottom six post-split matches from 2025 to 2029.<ref>{{cite news|url=https://www.broadbandtvnews.com/2024/07/03/premier-sports-to-stream-extra-games-from-the-scottish-league-cup/|title=Premier Sports to stream extra games from the Scottish League Cup|last=Clover|first=Julian|date=3 July 2024|website=Broadband TV News}}</ref><ref>{{cite news|url=https://spfl.co.uk/news/spfl-agree-expanded-premier-sports-deal#:~:text=The%20SPFL%20has%20agreed%20changes,Sports%20from%20season%202025%2F26./|title=SPFL agree expanded Premier Sports deal}}</ref> This is in addition to live Scottish Cup, Scottish League Cup.
+|-
+|'''[[BBC Sport|BBC Sport Scotland]]'''
+|Saturday-night Scottish Premiership Highlights of matches from that day. Extended Sunday-night Scottish Premiership highlights with full weekend review, 30 live Friday-night Scottish Championship matches,<ref>{{Cite web | title=BBC Scotland to increase SPFL coverage in 2025 with more live games & highlights |publisher=BBC Sport | url=https://www.bbc.co.uk/sport/football/articles/c4gz8wk2v1no#:~:text=BBC%20Scotland%20has%20agreed%20a,live%20Championship%20games%20every%20season. | access-date=2025-08-21}}</ref> the Scottish Premiership Play-Off quarter-final and semi-final, and every Scotland Men's National Team match matches live, until the 2026 FIFA World Cup. Friday night magazine programme ''[[A View from the Terrace]]''. Online and social media highlights also.
+|-
+|[[STV (TV channel)|'''STV''']]
+|Goal clips during the sport section of their ''[[STV News|STV News at Six]]'' programme.
+|-
+|'''[[BBC Alba]]'''
+|Gaelic 
+|38 delayed matches on Saturday evenings, 10 live League one matches and live Championship and League One playoff matches.
+|-
+|Worldwide
+|[[YouTube]]
+|English (N/A)
+|6–10 minute highlights of all Premiership matches as well as Championship, League One and League Two goals available without commentary/narration via the [https://www.youtube.com/spfl SPFL YouTube channel.] 
+|}
+
+=== International ===
+{| class="wikitable" border="1"
+|-
+! Country/region
+! Broadcaster
+|-
+|'''{{ALB}}'''
+| Tring Sport
+|-
+|'''{{AUS}}'''
+| rowspan=2| [[beIN Sports (Australian TV network)|beIN Sports]]
+|-
+|'''{{NZL}}'''
+|-
+|'''{{ARM}}'''
+| rowspan="13" |[[Setanta Sports]]
+|-
+|'''{{AZE}}'''
+|-
+|'''{{BLR}}'''
+|-
+|'''{{EST}}'''
+|-
+|'''{{GEO}}'''
+|-
+|'''{{KAZ}}'''
+|-
+|'''{{KGZ}}'''
+|-
+|'''{{LVA}}'''
+|-
+|'''{{LTU}}'''
+|- 
+|'''{{MDA}}'''
+|-
+|'''{{TJK}}'''
+|-
+|'''{{UZB}}'''
+|-
+|'''{{UKR}}'''
+|- 
+|'''{{AUT}}'''
+|[[Sportdigital (Germany)|Sportdigital]]
+|-
+| align="left" |'''{{flag|Bosnia and Herzegovina}}'''
+| rowspan="6" |[[Arena Sport]]
+|- 
+| align="left" |'''{{flag|Croatia}}'''
+|- 
+| align="left" |'''{{flag|Montenegro}}'''
+|- 
+| align="left" |'''{{flag|North Macedonia}}'''
+|-
+| align="left" |'''{{flag|Serbia}}'''
+|-
+|align="left" |'''{{flag|Slovenia}}'''
+|-
+|'''{{BRA}}'''
+|Canal GOAT
+|- 
+|'''{{noflag}} Caribbean'''
+|[[ESPN Caribbean|ESPN]]
+|-
+|'''{{CHN}}'''
+|Zhibo.tv
+|-
+|'''{{flag|Czech Republic}}'''
+| rowspan="2" | Premier Sport
+|-
+|'''{{flag|Slovakia}}'''
+|-
+|'''{{DEN}}'''
+| rowspan="5" |[[Viaplay Group|Viaplay]]
+|-
+|'''{{FIN}}'''
+|-
+|'''{{ISL}}'''
+|-
+|'''{{NOR}}'''
+|-
+|'''{{SWE}}'''
+|-
+|'''{{GER}}'''
+|[[Sportdigital (Germany)|Sportdigital]]
+|-
+|'''{{GRE}}'''
+|[[Cosmote Sport]]
+|-
+|'''{{HUN}}'''
+|Arena4
+|-
+|'''{{IRL}}'''
+|[[Sky Sports]]
+|-
+|'''{{ISR}}'''
+|[[Sport 5]]
+|-
+|'''{{ITA}}'''
+|[[Mola (streaming service)|Como TV]]
+|-
+|'''{{noflag}} Latin America'''
+|[[ESPN Latin America|ESPN]]
+|-
+|'''{{LIE}}'''
+|[[Sport1 (Germany)|Sport1]]
+|-
+|'''{{Flag|MENA}}'''
+|Sharjah Sports
+|-
+|'''{{NED}}'''
+|[[Ziggo Sport Totaal|Ziggo Sport]]
+|-
+|'''{{POL}}'''
+|[[Polsat Sport]]
+|-
+|'''{{POR}}'''
+|[[Sport TV]]
+|-
+|'''{{ROU}}'''
+|[[Digi Sport (Romania)|Digi Sport]]
+|-
+|'''{{RUS}}'''
+|[[Match TV]]
+|-
+|'''{{noflag}} Sub-Saharan Africa'''
+|[[ESPN Africa|ESPN]]
+|-
+|'''{{SUI}}'''
+|Sportdigital
+|-
+|'''{{TWN}}'''
+|ELTA
+|-
+|'''{{THA}}'''
+|[[True Sports]]
+|-
+|'''{{TUR}}'''
+|S Sport, [[Turkish Radio and Television Corporation|TRT Spor]]
+|-
+|'''{{USA}}'''
+| rowspan=2| [[CBS Sports Network]] / [[Paramount+#Sports programming|Paramount+]]<ref>{{cite web |url=https://www.cbssports.com/soccer/news/cbs-sports-and-paramount-welcome-the-scottish-professional-football-league-to-the-family/ |title=CBS Sports and Paramount+ welcome the Scottish Professional Football League to the family |first=Jonathan |last=Johnson |publisher=CBS Sports |date=28 July 2021 |access-date=28 July 2021}}</ref>
+|-
+|'''{{PUR}}'''
+|}
+
+==Notes==
+<references group="note" />
+{{notelist}}
+
+== See also ==
+
+* [[List of association football competitions]]
+* [[List of professional sports teams in the United Kingdom]]
+* [[Scottish Women's Premier League]]
+* [[Premier League]], the top tier of men's football in England
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{official website}}
+
+{{Scottish Premiership}}
+{{Football in Scotland}}
+{{UEFA leagues}}
+
+[[Category:Scottish Premiership| ]]
+[[Category:Scottish Professional Football League competitions|1]]
+[[Category:Top-level domestic association football leagues in Europe]]
+[[Category:2013 establishments in Scotland]]
+[[Category:Sports leagues established in 2013]]
+
+[[pt:Scottish Premiership]]

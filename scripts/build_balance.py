@@ -1,4 +1,4 @@
-"""Build football/league-balance/data/balance.json: every national champion of the 17 league pages, side by side.
+"""Build football/league-balance/data/balance.json: every national champion of the 20 league pages, side by side.
 
 Reads the datasets written by build_leagues.py and build_football.py (no downloads), keeps each title's year,
 season and champion, and the names, crests and countries of the champions. The page computes the measures
@@ -23,6 +23,9 @@ LEAGUES = {
     "bundesliga": ("Germany", "GER"),
     "ligue-1": ("France", "FRA"),
     "primeira-liga": ("Portugal", "POR"),
+    "eredivisie": ("Netherlands", "NED"),
+    "scottish-premiership": ("Scotland", "SCO"),
+    "super-lig": ("Turkey", "TUR"),
     "argentine-primera": ("Argentina", "ARG"),
     "brasileirao": ("Brazil", "BRA"),
     "uruguayan-primera": ("Uruguay", "URU"),

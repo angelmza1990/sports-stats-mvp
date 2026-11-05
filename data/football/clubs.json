@@ -6257,6 +6257,165 @@
    "aliases": [
     "Zvezda-2005 Perm"
    ]
+  },
+  {
+   "id": "aberdeen",
+   "name": "Aberdeen",
+   "country": "SCO",
+   "espn": "263",
+   "aliases": [
+    "Aberdeen F.C.",
+    "Aberdeen"
+   ]
+  },
+  {
+   "id": "dumbarton",
+   "name": "Dumbarton",
+   "country": "SCO",
+   "espn": null,
+   "aliases": [
+    "Dumbarton F.C.",
+    "Dumbarton"
+   ]
+  },
+  {
+   "id": "dundee",
+   "name": "Dundee",
+   "country": "SCO",
+   "espn": "261",
+   "aliases": [
+    "Dundee F.C.",
+    "Dundee"
+   ]
+  },
+  {
+   "id": "heart-of-midlothian",
+   "name": "Heart of Midlothian",
+   "country": "SCO",
+   "espn": "262",
+   "aliases": [
+    "Heart of Midlothian F.C.",
+    "Heart of Midlothian",
+    "Hearts"
+   ]
+  },
+  {
+   "id": "hibernian",
+   "name": "Hibernian",
+   "country": "SCO",
+   "espn": "258",
+   "aliases": [
+    "Hibernian F.C.",
+    "Hibernian"
+   ]
+  },
+  {
+   "id": "kilmarnock",
+   "name": "Kilmarnock",
+   "country": "SCO",
+   "espn": "260",
+   "aliases": [
+    "Kilmarnock F.C.",
+    "Kilmarnock"
+   ]
+  },
+  {
+   "id": "motherwell",
+   "name": "Motherwell",
+   "country": "SCO",
+   "espn": "266",
+   "aliases": [
+    "Motherwell F.C.",
+    "Motherwell"
+   ]
+  },
+  {
+   "id": "third-lanark",
+   "name": "Third Lanark",
+   "country": "SCO",
+   "espn": null,
+   "aliases": [
+    "Third Lanark A.C.",
+    "Third Lanark"
+   ]
+  },
+  {
+   "id": "excelsior-rotterdam",
+   "name": "Excelsior",
+   "country": "NED",
+   "espn": "2566",
+   "aliases": [
+    "Excelsior Rotterdam",
+    "SBV Excelsior"
+   ]
+  },
+  {
+   "id": "fc-groningen",
+   "name": "FC Groningen",
+   "country": "NED",
+   "espn": "145",
+   "aliases": [
+    "FC Groningen"
+   ]
+  },
+  {
+   "id": "fortuna-sittard",
+   "name": "Fortuna Sittard",
+   "country": "NED",
+   "espn": "143",
+   "aliases": [
+    "Fortuna Sittard"
+   ]
+  },
+  {
+   "id": "nec-nijmegen",
+   "name": "NEC",
+   "country": "NED",
+   "espn": "147",
+   "aliases": [
+    "N.E.C.",
+    "NEC Nijmegen"
+   ]
+  },
+  {
+   "id": "pec-zwolle",
+   "name": "PEC Zwolle",
+   "country": "NED",
+   "espn": "2565",
+   "aliases": [
+    "PEC Zwolle"
+   ]
+  },
+  {
+   "id": "besiktas",
+   "name": "Beşiktaş",
+   "country": "TUR",
+   "espn": "1895",
+   "aliases": [
+    "Beşiktaş J.K.",
+    "Beşiktaş J.K. (football)",
+    "Beşiktaş"
+   ]
+  },
+  {
+   "id": "trabzonspor",
+   "name": "Trabzonspor",
+   "country": "TUR",
+   "espn": "997",
+   "aliases": [
+    "Trabzonspor"
+   ]
+  },
+  {
+   "id": "istanbul-basaksehir",
+   "name": "İstanbul Başakşehir",
+   "country": "TUR",
+   "espn": "7914",
+   "aliases": [
+    "İstanbul Başakşehir F.K.",
+    "İstanbul Başakşehir",
+    "Başakşehir"
+   ]
   }
  ]
 }
