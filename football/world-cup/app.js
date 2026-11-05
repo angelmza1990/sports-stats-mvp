@@ -481,11 +481,38 @@
         { label: "In squad", short: "Squad", cls: "num", render: (p) => String(p.squads) },
         { label: "Years", cls: "years", render: (p) => p.tournaments },
       ], ranked(raw.playerTournaments, "played").slice(0, 30)),
+      knockout: () => F.richTable(root, [
+        { label: "#", cls: "num rank", render: (p) => String(p.rank) },
+        { label: "Player", render: (p) => playerCell({ ...p, tournaments: p.years }) },
+        { label: "Knockout goals", short: "Goals", cls: "num strong", render: (p) => String(p.goals) },
+        { label: "Knockout matches", short: "Apps", cls: "num", render: (p) => String(p.matches) },
+      ], ranked(raw.knockoutScorers, "goals")),
+      finals: () => F.richTable(root, [
+        { label: "#", cls: "num rank", render: (p) => String(p.rank) },
+        { label: "Player", render: (p) => playerCell({ ...p, tournaments: p.years }) },
+        { label: "Goals in finals", short: "Goals", cls: "num strong", render: (p) => String(p.goals) },
+        { label: "Finals played", short: "Finals", cls: "num", render: (p) => String(p.matches) },
+      ], ranked(raw.finalScorers, "goals")),
+      multi: () => F.richTable(root, [
+        { label: "#", cls: "num rank", render: (p) => String(p.rank) },
+        { label: "Player", render: (p) => playerCell({ ...p, tournaments: p.years }) },
+        { label: "Tournaments with a goal", short: "Tourn.", cls: "num strong", render: (p) => String(p.tournaments) },
+        { label: "Goals", cls: "num", render: (p) => String(p.goals) },
+      ], ranked(raw.multiScorers, "tournaments").slice(0, 30)),
+      hats: () => F.richTable(root, [
+        { label: "Year", render: (h) => String(h.year) },
+        { label: "Player", render: (h) => playerCell({ ...h, tournaments: `${h.result} vs ${name(h.against)} · ${h.round}` }) },
+        { label: "Goals", cls: "num strong", render: (h) => String(h.goals) },
+      ], raw.hatTricks.slice().reverse()),
     };
     Viz.segmented("players-tabs", [
       { key: "scorers", label: "Top scorers" },
       { key: "matches", label: "Most matches" },
       { key: "tournaments", label: "Most tournaments" },
+      { key: "knockout", label: "Knockout goals" },
+      { key: "finals", label: "Goals in finals" },
+      { key: "multi", label: "Scored at most tournaments" },
+      { key: "hats", label: `Hat-tricks (${raw.hatTricks.length})` },
     ], "scorers", (k) => views[k]());
     views.scorers();
   })();

@@ -175,13 +175,51 @@
     <section class="block" id="players">
       <div class="block-head">
         <h2>Player records</h2>
-        <p>All-time top scorers, most matches played and most tournaments.</p>
+        <p>All-time top scorers, most matches played and most tournaments, goals in the knockout rounds and in finals, scoring at the most tournaments, and every hat-trick.</p>
       </div>
       <div class="card">
         <div class="controls">
           <div class="segmented" role="tablist" aria-label="Record" id="players-tabs"></div>
         </div>
         <div class="data-table tall" id="players-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="defending">
+      <div class="block-head">
+        <h2>The defending champions</h2>
+        <p id="defending-lede">How far each champion went at the next World Cup.</p>
+      </div>
+      <div class="card">
+        <div class="data-table tall with-sub" id="defending-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="shootouts">
+      <div class="block-head">
+        <h2>Penalty shoot-outs</h2>
+        <p id="so-lede">Every World Cup match decided on penalties since the first, in 1982.</p>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">Records by team</h3>
+          <div class="data-table tall" id="so-teams"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Every shoot-out</h3>
+          <div class="data-table tall with-sub" id="so-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="record">
+      <div class="block-head">
+        <h2>The scoring record</h2>
+        <p>Every player who held or equalled the record for the most World Cup goals, from the first goals of 1930 to today.</p>
+      </div>
+      <div class="card">
+        <div id="record-chart" class="chart"></div>
+        <div class="data-table tall with-sub" id="record-table" style="margin-top:12px"></div>
       </div>
     </section>
 
@@ -213,6 +251,7 @@
   <script src="../../assets/viz.js"></script>
   <script src="../common.js"></script>
   <script src="app.js"></script>
+  <script src="more.js"></script>
   <script src="../people.js"></script>
 </body>
 </html>

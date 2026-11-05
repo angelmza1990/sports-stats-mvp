@@ -32,6 +32,7 @@ PAGES = {
     "scorers": "List of FIFA World Cup top goalscorers",
     "teams": "National team appearances in the FIFA World Cup",
     "players": "List of players who have appeared in the most FIFA World Cups",
+    "hattricks": "List of FIFA World Cup hat-tricks",
 }
 
 # National teams that are not in the shared COUNTRIES table: (name, flagcdn code or None).
@@ -312,6 +313,8 @@ def build(refresh: bool) -> dict:
                             "squads": int(num(row[2]["text"])), "played": int(num(row[3]["text"]) or 0),
                             "tournaments": W.plain(row[4]["text"])})
 
+    scoring = scoring_records(scorers_page, fetch("hattricks", refresh))
+
     eds = [editions[y] for y in sorted(editions)]
     known = {c: team_name(c)[0] for c in set(TEAMS) | set(COUNTRIES)}
     matches = fjelstul_matches(refresh, known)
@@ -324,6 +327,7 @@ def build(refresh: bool) -> dict:
         codes |= {s["team"] for s in e.get("topScorers", [])}
     codes |= {r["team"] for r in alltime} | {a["team"] for a in appearances}
     codes |= {p["team"] for p in scorers + matches_played + tournaments}
+    codes |= {r["team"] for rows in scoring.values() for r in rows} | {r["against"] for r in scoring["hatTricks"]}
     codes |= {m[3] for m in matches} | {m[4] for m in matches}
     codes.discard(None)
     unknown = sorted(c for c in codes if c not in TEAMS and c not in COUNTRIES)
@@ -348,7 +352,43 @@ def build(refresh: bool) -> dict:
         "playerMatches": matches_played,
         "matches": matches,
         "playerTournaments": tournaments,
+        **scoring,
     }
+
+
+def dts(cell: str) -> str | None:
+    """An ISO date from {{dts|1930|7|13}} (any format= argument)."""
+    m = re.search(r"\{\{\s*dts\s*\|(?:[^|}]*=[^|}]*\|)*\s*(\d{4})\s*\|\s*(\d{1,2})\s*\|\s*(\d{1,2})", cell)
+    return f"{m.group(1)}-{int(m.group(2)):02d}-{int(m.group(3)):02d}" if m else None
+
+
+def scoring_records(scorers_page: str, hat_page: str) -> dict:
+    """Goals in the knockout rounds and in finals, goals at the most tournaments, how the scoring record grew, every hat-trick."""
+    def rows(*needles: str) -> list[list[dict]]:
+        return [r for r in W.table_with_headers(scorers_page, *needles)[1:] if len(r) >= len(needles) and num(r[3]["text"]) is not None]
+    knockout = [{"player": W.person(r[1]["text"]), "team": W.flag_code(r[2]["text"]), "goals": int(num(r[3]["text"])),
+                 "matches": int(num(r[4]["text"]) or 0), "years": W.plain(r[6]["text"])}
+                for r in rows("rank", "player", "team", "goals scored", "matches played", "ratio", "years")]
+    finals = [{"player": W.person(r[1]["text"]), "team": W.flag_code(r[2]["text"]), "goals": int(num(r[3]["text"])),
+               "matches": int(num(r[4]["text"]) or 0), "years": re.sub(r"\s*\(\d\)", "", W.plain(r[6]["text"]))}
+              for r in rows("rank", "player", "team", "goals scored", "final matches")]
+    multi = [{"player": W.person(r[1]["text"]), "team": W.flag_code(r[2]["text"]), "tournaments": int(num(r[3]["text"])),
+              "goals": int(num(r[4]["text"])), "years": W.plain(r[7]["text"])}
+             for r in rows("rank", "player", "team", "tournamentswith") if len(r) > 7]
+    timeline = []
+    for r in W.table_with_headers(scorers_page, "goals", "date", "player", "team", "opponent")[1:]:
+        if len(r) >= 8 and num(r[0]["text"]) is not None and dts(r[1]["text"]):
+            timeline.append({"goals": int(num(r[0]["text"])), "date": dts(r[1]["text"]), "player": W.person(r[2]["text"]),
+                             "team": W.flag_code(r[3]["text"]), "tournament": W.plain(r[7]["text"]).split(",")[0]})
+    hats = []
+    for r in W.table_with_headers(hat_page, "tournament", "player", "for", "against", "date")[1:]:
+        if len(r) < 10 or not dts(r[9]["text"]):
+            continue
+        n = re.match(r"\s*(\d+)", W.plain(r[3]["text"]))
+        hats.append({"year": int(dts(r[9]["text"])[:4]), "date": dts(r[9]["text"]), "player": re.sub(r"\s*\(\d+\)$", "", W.person(r[2]["text"]) or ""),
+                     "team": W.flag_code(r[4]["text"]), "goals": int(n.group(1)) if n else 3, "result": W.plain(r[6]["text"]),
+                     "against": W.flag_code(r[7]["text"]), "round": W.plain(r[8]["text"])})
+    return {"knockoutScorers": knockout, "finalScorers": finals, "multiScorers": multi, "recordTimeline": timeline, "hatTricks": hats}
 
 
 def validate(data: dict) -> list[str]:

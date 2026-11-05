@@ -1,0 +1,717 @@
+{{Short description|None}}
+{{About|hat-tricks at the men's World Cup|hat-tricks at the Women's World Cup|List of FIFA Women's World Cup hat-tricks}}
+{{Multiple image
+| align             = right
+| direction         = vertical
+| image1            = Gabriel_batistuta.jpg
+| width1            = 150px
+| caption1          = [[Gabriel Batistuta]] of [[Argentina national football team|Argentina]] is the only player to score a hat-trick at two World Cups.
+| image2            = O.Salenko.JPG
+| width2            = 150px
+| caption2          = [[Oleg Salenko]] of [[Russia national football team|Russia]] scored a record five goals in a match against [[Cameroon national football team|Cameroon]] at the [[1994 FIFA World Cup|1994 World Cup]].
+| image3            = Bert Patenaude.jpg
+| width3            = 150px
+| caption3          = [[Bert Patenaude]] of the [[United States men's national soccer team|United States]] scored the first hat-trick in tournament history in a match against [[Paraguay national football team|Paraguay]] at the [[1930 FIFA World Cup]].
+}}
+The [[FIFA World Cup]] is an international [[association football]] competition established in [[1930 FIFA World Cup|1930]]. It is contested by the [[List of men's national association football teams|men's national teams]] of the members of the [[FIFA]], the sport's global governing body. The tournament has taken place organised every four years, except in 1942 and 1946, when the competition was cancelled due to [[World War II]]. A [[hat-trick]] occurs when a player scores three or more goals in a single match and it is considered an achievement, especially while playing at the largest international football tournament in the world. Across the over 1,000 matches at the 23 tournaments of the FIFA World Cup, 58 hat-tricks have been scored. The first hat-trick was scored by [[Bert Patenaude]] of the [[United States men's national soccer team|United States]], playing against [[Paraguay national football team|Paraguay]] in 1930; the most recent was by [[Bukayo Saka]] of [[England national football team|England]], playing against [[France national football team|France]] on 18 July [[2026 FIFA World Cup|2026]]. The only World Cup not to have at least one hat-trick scored was the [[2006 FIFA World Cup]] in Germany. The record number of hat-tricks in a single World Cup tournament is eight, during the [[1954 FIFA World Cup]] in Switzerland.
+
+Only four players have scored more than one hat-trick at the FIFA World Cup: [[Sándor Kocsis]] (two in [[1954 FIFA World Cup|1954]]), [[Just Fontaine]] (two in [[1958 FIFA World Cup|1958]]), [[Gerd Müller]] (two in [[1970 FIFA World Cup|1970]]) and [[Gabriel Batistuta]] ([[1994 FIFA World Cup|1994]] and [[1998 FIFA World Cup|1998]]) — the latter being the only player in history to score hat-tricks at two World Cups. 20 players have scored a hat-trick in the knockout stage of the FIFA World Cup. Two were playing in their first ever World Cup match, [[Edmund Conen]] and [[Angelo Schiavio]], both in [[1934 FIFA World Cup|1934]], a tournament without a group stage. [[Geoff Hurst]] (1966) and [[Kylian Mbappé]] (2022), who also scored 2 penalties, are the only players to have scored a hat-trick in [[List of FIFA World Cup finals|the final]]. Two players have scored a hat-trick in the second group stage of the World Cup, [[Paolo Rossi]] and [[Zbigniew Boniek]], both in [[1982 FIFA World Cup|1982]].
+
+==List==
+{| class="wikitable plainrowheaders"
+|-
+! colspan="2" scope="col"|Key
+|-
+!align="left" scope="row"|Player <small>(X)</small>
+|align="left"|Number of times player scored a hat-trick (only for players with multiple hat-tricks)
+|-
+!align="left" scope="row" style="background:#ffbbbb"| 
+|align="left"|Player's team lost the match
+|-
+!align="left" scope="row" style="background:#ffff90"| 
+|align="left"|Player's team drew the match (a penalty shoot-out is recorded as a draw regardless of shoot-out results)
+|}
+{{Sticky header}}
+{| class="wikitable plainrowheaders sortable sticky-header"
+|+FIFA World Cup hat-tricks
+|-
+!scope=col| No.
+!scope=col| Tournament
+!scope=col| Player
+!scope=col| Number <br> and time <br> of goals
+!scope=col| For
+!scope=col class="unsortable"| Goals
+!scope=col class="unsortable"| Result
+!scope=col| Against
+!scope=col| Round
+!scope=col| Date
+!scope=col class="unsortable"| FIFA<br>report
+|-
+|align="right"| {{nts|1}}.
+|rowspan=3| [[1930 FIFA World Cup|1930, Uruguay]]
+!scope=row data-sort-value="Patenaude, Bert"| [[Bert Patenaude]]
+| '''3''' – 10', 15', 50'
+|{{fb|USA|1912}}
+|'''1'''–0, '''2'''–0, '''3'''–0
+|align=center| [[1930 FIFA World Cup Group 4#United States vs Paraguay|3–0]]
+|{{fb|PAR|1842}}
+|rowspan=2| {{Hs|8}}[[1930 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|1930|7|17}}
+|<ref>{{cite web |title=1930 FIFA World Cup: United States 3–0 Paraguay |url=http://www.fifa.com/worldcup/matches/round=201/match=1097/index.html |publisher=[[FIFA]] |archive-date=25 February 2015 |archive-url=https://web.archive.org/web/20150225145652/http://www.fifa.com/worldcup/matches/round=201/match=1097/index.html |date=17 July 1930 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|2}}.
+!scope=row data-sort-value="Stabile, Guillermo"| [[Guillermo Stábile]]
+| '''3''' – 8', 17', 80'
+|{{fb|ARG|1861}}
+|'''1'''–0, '''3'''–0, '''6'''–3
+|align=center| [[1930 FIFA World Cup Group 1#Argentina vs Mexico|6–3]]
+|{{fb|MEX|1916}}
+|{{dts|format=dmy|1930|7|19}}
+|<ref>{{cite web |title=1930 FIFA World Cup: Argentina 6–3 Mexico |url=http://www.fifa.com/worldcup/matches/round=201/match=1086/index.html |publisher=FIFA |archive-date=25 February 2015 |archive-url=https://web.archive.org/web/20150225154824/http://www.fifa.com/worldcup/matches/round=201/match=1086/index.html |date=19 July 1930 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|3}}.
+!scope=row data-sort-value="Cea, Pedro"| [[Pedro Cea]]
+| '''3''' – 18', 67', 72'
+|{{fb|URU}}
+|'''1'''–1, '''5'''–1, '''6'''–1
+|align=center| [[1930 FIFA World Cup knockout stage#Uruguay vs Yugoslavia|6–1]]
+|{{fb|Kingdom of Yugoslavia}}
+|{{Hs|3}}[[1930 FIFA World Cup#Semi-finals 2|Semi-finals]]
+|{{dts|format=dmy|1930|7|27}}
+|<ref>{{cite web |title=1930 FIFA World Cup: Uruguay 6–1 Yugoslavia |url=http://www.fifa.com/worldcup/matches/round=202/match=1101/index.html |publisher=FIFA |archive-date=25 February 2015 |archive-url=https://web.archive.org/web/20150225150540/http://www.fifa.com/worldcup/matches/round=202/match=1101/index.html |date=27 July 1930 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|4}}.
+|rowspan=3| [[1934 FIFA World Cup|1934, Italy]]
+!scope=row data-sort-value="Schiavio, Angelo"| [[Angelo Schiavio]]
+| '''3''' – 18', 29', 64'
+|{{fb|ITA|1861}}
+|'''1'''–0, '''3'''–0, '''5'''–1
+|align=center| [[1934 FIFA World Cup final tournament#Italy vs United States|7–1]]
+|{{fb|USA|1912}}
+|rowspan=2| {{Hs|7}}[[1934 FIFA World Cup#Round of 16|Round of 16]]
+|rowspan=2| {{dts|format=dmy|1934|5|27}}
+|<ref>{{cite web |title=1934 FIFA World Cup: Italy 7–1 United States |url=http://www.fifa.com/worldcup/matches/round=204/match=1135/index.html |publisher=FIFA |archive-date=3 April 2016 |archive-url=https://web.archive.org/web/20160403213016/http://www.fifa.com/worldcup/matches/round=204/match=1135/index.html |date=27 May 1934 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|5}}.
+!scope=row data-sort-value="Conen, Edmund"| [[Edmund Conen]]
+| '''3''' – 66', 70', 87'
+|{{fb|GER|empire}}
+|'''3'''–2, '''4'''–2, '''5'''–2
+|align=center| [[1934 FIFA World Cup final tournament#Germany vs Belgium|5–2]]
+|{{fb|BEL}}
+|<ref>{{cite web |title=1934 FIFA World Cup: Germany 5–2 Belgium |url=http://www.fifa.com/worldcup/matches/round=204/match=1108/index.html |publisher=FIFA |archive-date=15 July 2015 |archive-url=https://web.archive.org/web/20150715164515/http://www.fifa.com/worldcup/matches/round=204/match=1108/index.html |date=27 May 1934 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|6}}.
+!scope=row data-sort-value="Nejedly, Oldrich"| [[Oldřich Nejedlý]]
+| '''3''' – 19', 71', 80'
+|{{fb|TCH}}
+|'''1'''–0, '''2'''–1, '''3'''–1
+|align=center| [[1934 FIFA World Cup final tournament#Czechoslovakia vs Germany|3–1]]
+|{{fb|GER|1933}}
+|{{Hs|3}}[[1934 FIFA World Cup#Semi-finals|Semi-finals]]
+|{{dts|format=dmy|1934|6|3}}
+|<ref>{{cite web |title=1934 FIFA World Cup: Czechoslovakia 3–1 Germany |url=http://www.fifa.com/worldcup/matches/round=3492/match=1130/index.html |publisher=FIFA |archive-date=12 February 2015 |archive-url=https://web.archive.org/web/20150212023432/http://www.fifa.com/worldcup/matches/round=3492/match=1130/index.html |date=3 June 1934 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|7}}.
+|rowspan=4| [[1938 FIFA World Cup|1938, France]]
+!scope=row data-sort-value="Wilimowski, Ernst"| [[Ernst Wilimowski]]
+| '''4''' – 53', 59', 89', 118'
+|{{fb|POL|1928}}
+|'''2'''–3, '''3'''–3, '''4'''–4, '''5'''–6
+|align="center" {{failure|[[Brazil v Poland (1938 FIFA World Cup)|5–6]] [[Overtime (sports)#Association football|aet]]|align=|style=|color=}}
+|{{fb|BRA|1889}}
+|rowspan=2| {{Hs|7}}[[1938 FIFA World Cup#Round of 16|Round of 16]]
+|rowspan=2| {{dts|format=dmy|1938|6|5}}
+|rowspan=2| <ref>{{cite web |title=1938 FIFA World Cup: Brazil 6–5 Poland |url=http://www.fifa.com/worldcup/matches/round=206/match=1150/index.html |publisher=FIFA |archive-date=16 February 2015 |archive-url=https://web.archive.org/web/20150216132611/http://www.fifa.com/worldcup/matches/round=206/match=1150/index.html|date=5 June 1938 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|8}}.
+!scope=row data-sort-value="Leonidas"| [[Leônidas (footballer, born 1913)|Leônidas]]
+| '''3''' – 18', 93', 104'
+|{{fb|BRA|1889}}
+|'''1'''–0, '''5'''–4, '''6'''–4
+|align=center|[[Brazil v Poland (1938 FIFA World Cup)|6–5]] [[Overtime (sports)#Association football|aet]]
+|{{fb|POL|1928}}
+|-
+|align="right"| {{nts|9}}.
+!scope=row data-sort-value="Wetterstrom, Gustav"| [[Gustav Wetterström]]
+| '''3''' – 32', 37', 44'
+| rowspan="2" |{{fb|SWE}}
+|'''2'''–0, '''3'''–0, '''4'''–0
+| rowspan="2" align="center" |[[1938 FIFA World Cup final tournament#Sweden vs Cuba|8–0]]
+| rowspan="2" |{{fb|CUB}}
+|rowspan=2| {{Hs|5}}[[1938 FIFA World Cup#Qfinals|Quarter-finals]]
+|rowspan=2| {{dts|format=dmy|1938|6|12}}
+|rowspan=2| <ref>{{cite web |title=1938 FIFA World Cup: Sweden 8–0 Cuba |url=http://www.fifa.com/worldcup/matches/round=429/match=1158/index.html |publisher=FIFA |archive-date=5 September 2015 |archive-url=https://web.archive.org/web/20150905145119/http://www.fifa.com/worldcup/matches/round=429/match=1158/index.html|date=12 June 1938 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|10}}.
+!scope=row data-sort-value="Andersson, Harry"| [[Harry Andersson]]
+| '''3''' – 9', 81', 89'
+|'''1'''–0, '''6'''–0, '''8'''–0
+|-
+|align="right"| {{nts|11}}.
+|rowspan=2| [[1950 FIFA World Cup|1950, Brazil]]
+!scope=row data-sort-value="Miguez, Oscar"| [[Óscar Míguez]]
+| '''3''' – 14', 45', 56'
+|{{fb|URU}}
+|'''1'''–0, '''4'''–0, '''5'''–0
+|align=center| [[1950 FIFA World Cup Group 4#Uruguay vs Bolivia|8–0]]
+|{{fb|BOL}}
+|{{Hs|8}}[[1950 FIFA World Cup#Group stage|First group stage]]
+|{{dts|format=dmy|1950|7|2}}
+|<ref>{{cite web |title=1950 FIFA World Cup: Uruguay 8–0 Bolivia |url=http://www.fifa.com/worldcup/matches/round=208/match=1185/index.html |publisher=FIFA |archive-date=8 April 2015 |archive-url=https://web.archive.org/web/20150408115048/http://www.fifa.com/worldcup/matches/round=208/match=1185/index.html |date=2 July 1950 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|12}}.
+!scope=row data-sort-value="Ademir"| [[Ademir de Menezes|Ademir]]
+| '''4''' – 17', 36', 52', 58'
+|{{fb|BRA|1889}}
+|'''1'''–0, '''2'''–0, '''4'''–0, '''5'''–0
+|align=center| [[1950 FIFA World Cup final round#Brazil vs Sweden|7–1]]
+|{{fb|SWE}}
+|{{Hs|2}}[[1950 FIFA World Cup#Final round|Final group stage]]
+|{{dts|format=dmy|1950|7|9}}
+|<ref>{{cite web |title=1950 FIFA World Cup: Brazil 7–1 Sweden |url=http://www.fifa.com/worldcup/matches/round=209/match=1189/index.html |publisher=FIFA |archive-date=21 July 2015 |archive-url=https://web.archive.org/web/20150721142916/http://www.fifa.com/worldcup/matches/round=209/match=1189/index.html |date=9 July 1950 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|13}}.
+|rowspan=8| [[1954 FIFA World Cup|1954, Switzerland]]
+!scope=row data-sort-value="Kocsis, Sandor"| [[Sándor Kocsis]] <small>(1)</small>
+| '''3''' – 24', 36', 50'
+|{{fb|HUN|1949}}
+|'''3'''–0, '''4'''–0, '''5'''–0
+|align=center| [[1954 FIFA World Cup Group 2#Hungary vs South Korea|9–0]]
+|{{fb|KOR|1949}}
+|rowspan=6| {{Hs|8}}[[1954 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|1954|6|17}}
+|<ref>{{cite web |title=1954 FIFA World Cup: Hungary 9–0 South Korea |url=http://www.fifa.com/worldcup/matches/round=211/match=1294/index.html |publisher=FIFA |archive-date=14 April 2015 |archive-url=https://web.archive.org/web/20150414150300/http://www.fifa.com/worldcup/matches/round=211/match=1294/index.html |date=17 June 1954 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|14}}.
+!scope=row data-sort-value="Probst, Erich"| [[Erich Probst]]
+| '''3''' – 4', 21', 24'
+|{{fb|AUT}}
+|'''2'''–0, '''3'''–0, '''4'''–0
+|align=center| [[1954 FIFA World Cup Group 3#Austria vs Czechoslovakia|5–0]]
+|{{fb|TCH}}
+|rowspan=2| {{dts|format=dmy|1954|6|19}}
+|<ref>{{cite web |title=1954 FIFA World Cup: Austria 5–0 Czechoslovakia |url=http://www.fifa.com/worldcup/matches/round=211/match=1238/index.html |publisher=FIFA |archive-date=14 June 2015 |archive-url=https://web.archive.org/web/20150614025341/http://www.fifa.com/worldcup/matches/round=211/match=1238/index.html |date=19 June 1954 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|15}}.
+!scope=row data-sort-value="Borges, Carlos"| [[Carlos Borges]]
+| '''3''' – 17', 47', 57'
+|{{fb|URU}}
+|'''1'''–0, '''3'''–0, '''5'''–0
+|align=center| [[1954 FIFA World Cup Group 3#Uruguay vs Scotland|7–0]]
+|{{fb|SCO}}
+|<ref>{{cite web |title=1954 FIFA World Cup: Uruguay 7–0 Scotland |url=http://www.fifa.com/worldcup/matches/round=211/match=1313/index.html |publisher=FIFA |archive-date=12 April 2015 |archive-url=https://web.archive.org/web/20150412225821/http://www.fifa.com/worldcup/matches/round=211/match=1313/index.html |date=19 June 1954 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|16}}.
+!scope=row data-sort-value="Kocsis, Sandor"| [[Sándor Kocsis]] <small>(2)</small>
+| '''4''' – 3', 21', 67', 78'
+|{{fb|HUN|1949}}
+|'''1'''–0, '''3'''–0, '''6'''–1, '''8'''–2
+|align=center| [[1954 FIFA World Cup Group 2#Hungary vs West Germany|8–3]]
+|data-sort-value="Germany"| {{fb|FRG}}
+|rowspan=2| {{dts|format=dmy|1954|6|20}}
+|<ref>{{cite web |title=1954 FIFA World Cup: Hungary 8–3 West Germany |url=http://www.fifa.com/worldcup/matches/round=211/match=1277/index.html |publisher=FIFA |archive-date=6 September 2015 |archive-url=https://web.archive.org/web/20150906085910/http://www.fifa.com/worldcup/matches/round=211/match=1277/index.html |date=20 June 1954 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|17}}.
+!scope=row data-sort-value="Sargin, Burhan"| [[Burhan Sargın]]
+| '''3''' – 37', 64', 70'
+|{{fb|TUR}}
+|'''4'''–0, '''5'''–0, '''6'''–0
+|align=center| [[1954 FIFA World Cup Group 2#Turkey vs South Korea|7–0]]
+|{{fb|KOR|1949}}
+|<ref>{{cite web |title=1954 FIFA World Cup: Turkey 7–0 South Korea |url=http://www.fifa.com/worldcup/matches/round=211/match=1304/index.html |publisher=FIFA |archive-date=15 June 2015 |archive-url=https://web.archive.org/web/20150615220635/http://www.fifa.com/worldcup/matches/round=211/match=1304/index.html |date=20 June 1954 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|18}}.
+!scope=row data-sort-value="Morlock, Max"| [[Max Morlock]]
+| '''3''' – 30', 60', 77'
+|data-sort-value="Germany"| {{fb|FRG}}
+|'''3'''–1, '''4'''–1, '''6'''–1
+|align=center| [[1954 FIFA World Cup Group 2#Play-off: West Germany vs Turkey|7–2]]
+|{{fb|TUR}}
+|{{dts|format=dmy|1954|6|23}}
+|<ref>{{cite web |title=1954 FIFA World Cup: West Germany 7–2 Turkey |url=http://www.fifa.com/worldcup/matches/round=211/match=1284/index.html |publisher=FIFA |archive-date=6 September 2015 |archive-url=https://web.archive.org/web/20150906153654/http://www.fifa.com/worldcup/matches/round=211/match=1284/index.html |date=23 June 1954 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|19}}.
+!scope=row data-sort-value="Wagner, Theodor"| [[Theodor Wagner]]
+| '''3''' – 25', 27', 53'
+|{{fb|AUT}}
+|'''1'''–3, '''3'''–3, '''6'''–4
+|align=center| [[Austria v Switzerland (1954 FIFA World Cup)|7–5]]
+|{{fb|SUI}}
+|rowspan=2| {{Hs|5}}[[1954 FIFA World Cup#Quarter-finals|Quarter-finals]]
+|rowspan=2| {{dts|format=dmy|1954|6|26}}
+|rowspan=2| <ref>{{cite web |title=1954 FIFA World Cup: Austria 7–5 Switzerland |url=http://www.fifa.com/worldcup/matches/round=212/match=1237/index.html |publisher=FIFA |archive-date=20 February 2015 |archive-url=https://web.archive.org/web/20150220092419/http://www.fifa.com/worldcup/matches/round=212/match=1237/index.html |date=26 June 1954 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|20}}.
+!scope=row data-sort-value="Hugi, Josef"| [[Josef Hügi]]
+| '''3''' – 17', 19', 58'
+|{{fb|SUI}}
+|'''2'''–0, '''3'''–0, '''5'''–6
+|align="center" {{failure|[[Austria v Switzerland (1954 FIFA World Cup)|5–7]]|align=|style=|color=}}
+|{{fb|AUT}}
+|-
+|align="right"| {{nts|21}}.
+|rowspan=3| {{Hs|8}}[[1958 FIFA World Cup|1958, Sweden]]
+!scope=row data-sort-value="Fontaine, Just"| [[Just Fontaine]] <small>(1)</small>
+| '''3''' – 24', 30', 67'
+|{{fb|FRA|1794}}
+|'''1'''–1, '''2'''–1, '''5'''–3
+|align=center| [[1958 FIFA World Cup Group 2#France vs Paraguay|7–3]]
+|{{fb|PAR|1954}}
+|{{Hs|8}}[[1958 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|1958|6|8}}
+|<ref>{{cite web |title=1958 FIFA World Cup: France 7–3 Paraguay |url=http://www.fifa.com/worldcup/matches/round=220/match=1386/index.html |publisher=FIFA |archive-date=8 April 2015 |archive-url=https://web.archive.org/web/20150408104156/http://www.fifa.com/worldcup/matches/round=220/match=1386/index.html |date=8 June 1958 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|22}}.
+!scope=row data-sort-value="Pele"| [[Pelé]]
+| '''3''' – 52', 64', 75'
+|{{fb|BRA|1889}}
+|'''3'''–1, '''4'''–1, '''5'''–1
+|align=center| [[1958 FIFA World Cup knockout stage#Brazil vs France|5–2]]
+|{{fb|FRA|1794}}
+|{{Hs|3}}[[1958 FIFA World Cup#Semi-finals|Semi-finals]]
+|{{dts|format=dmy|1958|6|24}}
+|<ref>{{cite web |title=1958 FIFA World Cup: Brazil 5–2 France |url=http://www.fifa.com/worldcup/matches/round=488/match=1340/index.html |publisher=FIFA |archive-date=9 April 2015 |archive-url=https://web.archive.org/web/20150409002834/http://www.fifa.com/worldcup/matches/round=488/match=1340/index.html |date=24 June 1958 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|23}}.
+!scope=row data-sort-value="Fontaine, Just"| [[Just Fontaine]] <small>(2)</small>
+| '''4''' – 16', 36', 78', 89'
+|{{fb|FRA|1794}}
+|'''1'''–0, '''3'''–1, '''4'''–1, '''6'''–3
+|align=center| [[1958 FIFA World Cup knockout stage#Match for third place|6–3]]
+|data-sort-value="Germany"| {{fb|FRG}}
+|{{Hs|3.5}}[[1958 FIFA World Cup#Match for third place|Match for third place]]
+|{{dts|format=dmy|1958|6|28}}
+|<ref>{{cite web |title=1958 FIFA World Cup: France 6–3 West Germany |url=http://www.fifa.com/worldcup/matches/round=3483/match=1382/index.html |publisher=FIFA |archive-date=5 September 2015 |archive-url=https://web.archive.org/web/20150905070114/http://www.fifa.com/worldcup/matches/round=3483/match=1382/index.html |date=28 June 1958 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|24}}.
+|[[1962 FIFA World Cup|1962, Chile]]
+!scope=row data-sort-value="Albert, Florian"| [[Flórián Albert]]
+| '''3''' – 1', 6', 53'
+|{{fb|HUN}}
+|'''1'''–0, '''2'''–0, '''5'''–0
+|align=center| [[1962 FIFA World Cup Group 4#Hungary vs Bulgaria|6–1]]
+|{{fb|BUL|1946}}
+|{{Hs|8}}[[1962 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|1962|6|3}}
+|<ref>{{cite web |title=1962 FIFA World Cup: Hungary 6–1 Bulgaria |url=http://www.fifa.com/worldcup/matches/round=231/match=1470/index.html |publisher=FIFA |archive-date=2 April 2015 |archive-url=https://web.archive.org/web/20150402090922/http://www.fifa.com/worldcup/matches/round=231/match=1470/index.html |date=3 June 1962 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|25}}.
+|rowspan=2| [[1966 FIFA World Cup|1966, England]]
+!scope=row data-sort-value="Eusebio"| [[Eusébio]]
+| '''4''' – 27', 43' ([[Penalty kick (association football)|p]]), 56', 59' ([[Penalty kick (association football)|p]])
+|{{fb|POR}}
+|'''1'''–3, '''2'''–3, '''3'''–3, '''4'''–3
+|align=center| [[1966 FIFA World Cup knockout stage#Portugal vs North Korea|5–3]]
+|{{fb|PRK|1948}}
+|{{Hs|5}}[[1966 FIFA World Cup#Quarter-finals|Quarter-finals]]
+|{{dts|format=dmy|1966|7|23}}
+|<ref>{{cite web |title=1966 FIFA World Cup: Portugal 5–3 North Korea |url=http://www.fifa.com/worldcup/matches/round=239/match=1702/index.html |publisher=FIFA |archive-date=5 September 2015 |archive-url=https://web.archive.org/web/20150905071703/http://www.fifa.com/worldcup/matches/round=239/match=1702/index.html |date=23 July 1966 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|26}}.
+!scope=row data-sort-value="Hurst, Geoff"| [[Geoff Hurst]]
+| '''3''' – 18', 98', 120'
+|{{fb|ENG}}
+|'''1'''–1, '''3'''–2, '''4'''–2
+|align=center| [[1966 FIFA World Cup final|4–2]] [[Overtime (sports)#Association football|aet]]
+|data-sort-value="Germany"| {{fb|FRG}}
+|{{Hs|1}}[[1966 FIFA World Cup#Final 2|Final]]
+|{{dts|format=dmy|1966|7|30}}
+|<ref>{{cite web |title=1966 FIFA World Cup: England 4–2 West Germany |url=http://www.fifa.com/worldcup/matches/round=3478/match=1633/index.html |publisher=FIFA |archive-date=2 April 2015 |archive-url=https://web.archive.org/web/20150402154222/http://www.fifa.com/worldcup/matches/round=3478/match=1633/index.html |date=30 July 1966 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|27}}.
+|rowspan=2| [[1970 FIFA World Cup|1970, Mexico]]
+!scope=row data-sort-value="Muller, Gerd"| [[Gerd Müller]] <small>(1)</small>
+| '''3''' – 27', 52' ([[Penalty kick (association football)|p]]), 88'
+|data-sort-value="Germany"| {{fb|FRG}}
+|'''2'''–1, '''3'''–1, '''5'''–1
+|align=center| [[1970 FIFA World Cup Group 4#West Germany vs Bulgaria|5–2]]
+|{{fb|BUL|1967}}
+|rowspan=2| {{Hs|8}}[[1970 FIFA World Cup#Group stage 2|Group stage]]
+|{{dts|format=dmy|1970|6|7}}
+|<ref>{{cite web |title=1970 FIFA World Cup: West Germany 5–2 Bulgaria |url=http://www.fifa.com/worldcup/matches/round=250/match=1774/index.html |publisher=FIFA |archive-date=24 February 2015 |archive-url=https://web.archive.org/web/20150224144625/http://www.fifa.com/worldcup/matches/round=250/match=1774/index.html |date=7 June 1970 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|28}}.
+!scope=row data-sort-value="Muller, Gerd"| [[Gerd Müller]] <small>(2)</small>
+| '''3''' – 19', 26', 39'
+|data-sort-value="Germany"| {{fb|FRG}}
+|'''1'''–0, '''2'''–0, '''3'''–0
+|align=center| [[1970 FIFA World Cup Group 4#West Germany vs Peru|3–1]]
+|{{fb|PER}}
+|{{dts|format=dmy|1970|6|10}}
+|<ref>{{cite web |title=1970 FIFA World Cup: West Germany 3–1 Peru |url=http://www.fifa.com/worldcup/matches/round=250/match=1840/index.html |publisher=FIFA |archive-date=24 February 2015 |archive-url=https://web.archive.org/web/20150224145304/http://www.fifa.com/worldcup/matches/round=250/match=1840/index.html |date=10 June 1970 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|29}}.
+|rowspan=2| [[1974 FIFA World Cup|1974, West Germany]]
+!scope=row data-sort-value="Bajevic, Dusan"| [[Dušan Bajević]]
+| '''3''' – 8', 30', 81'
+|{{fb|YUG}}
+|'''1'''–0, '''5'''–0, '''9'''–0
+|align=center| [[1974 FIFA World Cup Group 2#Yugoslavia vs Zaire|9–0]]
+|{{fb|ZAI}}
+|rowspan=2| {{Hs|8}}[[1974 FIFA World Cup#First group stage|First group stage]]
+|{{dts|format=dmy|1974|6|18}}
+|<ref>{{cite web |title=1974 FIFA World Cup: Yugoslavia 9–0 Zaire |url=http://www.fifa.com/worldcup/matches/round=262/match=2186/index.html |publisher=FIFA |archive-date=14 April 2015 |archive-url=https://web.archive.org/web/20150414004327/http://www.fifa.com/worldcup/matches/round=262/match=2186/index.html |date=18 June 1974 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|30}}.
+!scope=row data-sort-value="Szarmach, Andrzej"| [[Andrzej Szarmach]]
+| '''3''' – 30', 34', 50'
+|{{fb|POL|1928}}
+|'''3'''–0, '''5'''–0, '''6'''–0
+|align=center| [[1974 FIFA World Cup Group 4#Haiti vs Poland|7–0]]
+|{{fb|HAI|1964}}
+|{{dts|format=dmy|1974|6|19}}
+|<ref>{{cite web |title=1974 FIFA World Cup: Haiti 0–7 Poland |url=http://www.fifa.com/worldcup/matches/round=262/match=2085/index.html |publisher=FIFA |archive-date=9 April 2015 |archive-url=https://web.archive.org/web/20150409005355/http://www.fifa.com/worldcup/matches/round=262/match=2085/index.html |date=19 June 1974 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|31}}.
+|rowspan=2| [[1978 FIFA World Cup|1978, Argentina]]
+!scope=row data-sort-value="Rensenbrink, Rob"| [[Rob Rensenbrink]]
+| '''3''' – 40' ([[Penalty kick (association football)|p]]), 62', 79' ([[Penalty kick (association football)|p]])
+|{{fb|NED}}
+|'''1'''–0, '''2'''–0, '''3'''–0
+|align=center| [[1978 FIFA World Cup Group 4#Netherlands vs Iran|3–0]]
+|{{fb|IRN|1964}}
+|rowspan=2| {{Hs|8}}[[1978 FIFA World Cup#First group stage|First group stage]]
+|{{dts|format=dmy|1978|6|3}}
+|<ref>{{cite web |title=1978 FIFA World Cup: Netherlands 3–0 Iran |url=http://www.fifa.com/worldcup/matches/round=278/match=2388/index.html |publisher=FIFA |archive-date=4 August 2015 |archive-url=https://web.archive.org/web/20150804110131/http://www.fifa.com/worldcup/matches/round=278/match=2388/index.html |date=3 June 1978 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|32}}.
+!scope=row data-sort-value="Cubillas, Teofilo"| [[Teófilo Cubillas]]
+| '''3''' – 36' ([[Penalty kick (association football)|p]]), 39' ([[Penalty kick (association football)|p]]), 79'
+|{{fb|PER}}
+|'''2'''–0, '''3'''–0, '''4'''–1
+|align=center| [[1978 FIFA World Cup Group 4#Peru vs Iran|4–1]]
+|{{fb|IRN|1964}}
+|{{dts|format=dmy|1978|6|11}}
+|<ref>{{cite web |title=1978 FIFA World Cup: Peru 4–1 Iran |url=http://www.fifa.com/worldcup/matches/round=278/match=2405/index.html |publisher=FIFA |archive-date=7 April 2015 |archive-url=https://web.archive.org/web/20150407220408/http://www.fifa.com/worldcup/matches/round=278/match=2405/index.html |date=11 June 1978 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|33}}.
+|rowspan=4| [[1982 FIFA World Cup|1982, Spain]]
+!scope=row data-sort-value="Kiss, Laszlo"| [[László Kiss (footballer)|László Kiss]]
+| '''3''' – 69', 72', 76'
+|{{fb|HUN}}
+|'''6'''–1, '''8'''–1, '''9'''–1
+|align=center| [[Hungary v El Salvador (1982 FIFA World Cup)|10–1]]
+|{{fb|SLV}}
+|rowspan=2| {{Hs|8}}[[1982 FIFA World Cup#First group stage|First group stage]]
+|{{dts|format=dmy|1982|6|15}}
+|<ref>{{cite web |title=1982 FIFA World Cup: Hungary 10–1 El Salvador |url=http://www.fifa.com/worldcup/matches/round=293/match=896/index.html |publisher=FIFA |archive-date=15 April 2015 |archive-url=https://web.archive.org/web/20150415111137/http://www.fifa.com/worldcup/matches/round=293/match=896/index.html |date=15 June 1982 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|34}}.
+!scope=row data-sort-value="Rummenigge, Karl-Heinz"| [[Karl-Heinz Rummenigge]]
+| '''3''' – 9', 57', 66'
+|data-sort-value="Germany"| {{fb|FRG}}
+|'''1'''–0, '''2'''–0, '''3'''–0
+|align=center| [[1982 FIFA World Cup Group 2#West Germany vs Chile|4–1]]
+|{{fb|CHI}}
+|{{dts|format=dmy|1982|6|20}}
+|<ref>{{cite web |title=1982 FIFA World Cup: West Germany 4–1 Chile |url=http://www.fifa.com/worldcup/matches/round=293/match=813/index.html |publisher=FIFA |archive-date=19 May 2015 |archive-url=https://web.archive.org/web/20150519132646/http://www.fifa.com/worldcup/matches/round=293/match=813/index.html |date=20 June 1982 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|35}}.
+!scope=row data-sort-value="Boniek, Zbigniew"| [[Zbigniew Boniek]]
+| '''3''' – 4', 26', 53'
+|{{fb|POL}}
+|'''1'''–0, '''2'''–0, '''3'''–0
+|align=center| [[1982 FIFA World Cup Group A#Poland vs Belgium|3–0]]
+|{{fb|BEL}}
+|rowspan=2| {{Hs|6}}[[1982 FIFA World Cup#Second group stage|Second group stage]]
+|{{dts|format=dmy|1982|6|28}}
+|<ref>{{cite web |title=1982 FIFA World Cup: Poland 3–0 Belgium |url=http://www.fifa.com/worldcup/matches/round=294/match=782/index.html |publisher=FIFA |archive-date=7 April 2015 |archive-url=https://web.archive.org/web/20150407231435/http://www.fifa.com/worldcup/matches/round=294/match=782/index.html |date=28 June 1982 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|36}}.
+!scope=row data-sort-value="Rossi, Paolo"| [[Paolo Rossi]]
+| '''3''' – 5', 25', 74'
+|{{fb|ITA|1946}}
+|'''1'''–0, '''2'''–1, '''3'''–2
+|align=center| [[Italy v Brazil (1982 FIFA World Cup)|3–2]]
+|{{fb|BRA|1968}}
+|{{dts|format=dmy|1982|7|5}}
+|<ref>{{cite web |title=1982 FIFA World Cup: Italy 3–2 Brazil |url=http://www.fifa.com/worldcup/matches/round=294/match=788/index.html |publisher=FIFA |archive-date=18 June 2015 |archive-url=https://web.archive.org/web/20150618002812/http://www.fifa.com/worldcup/matches/round=294/match=788/index.html |date=5 July 1982 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|37}}.
+|rowspan=4| [[1986 FIFA World Cup|1986, Mexico]]
+!scope=row data-sort-value="Elkjaer, Preben"| [[Preben Elkjær]]
+| '''3''' – 11', 67', 80'
+|{{fb|DEN}}
+|'''1'''–0, '''4'''–1, '''5'''–1
+|align=center| [[1986 FIFA World Cup Group E#Denmark vs Uruguay|6–1]]
+|{{fb|URU}}
+|rowspan=2| {{Hs|8}}[[1986 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|1986|6|8}}
+|<ref>{{cite web |title=1986 FIFA World Cup: Denmark 6–1 Uruguay |url=http://www.fifa.com/worldcup/matches/round=308/match=522/index.html |publisher=FIFA |archive-date=3 July 2015 |archive-url=https://web.archive.org/web/20150703083530/http://www.fifa.com/worldcup/matches/round=308/match=522/index.html |date=8 June 1986 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|38}}.
+!scope=row data-sort-value="Lineker, Gary"| [[Gary Lineker]]
+| '''3''' – 9', 14', 34'
+|{{fb|ENG}}
+|'''1'''–0, '''2'''–0, '''3'''–0
+|align=center| [[1986 FIFA World Cup Group F#England vs Poland|3–0]]
+|{{fb|POL}}
+|{{dts|format=dmy|1986|6|11}}
+|<ref>{{cite web |title=1986 FIFA World Cup: England 3–0 Poland |url=http://www.fifa.com/worldcup/matches/round=308/match=537/index.html |publisher=FIFA |archive-date=14 February 2015 |archive-url=https://web.archive.org/web/20150214002644/http://www.fifa.com/worldcup/matches/round=308/match=537/index.html |date=11 June 1986 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|39}}.
+!scope=row data-sort-value="Belanov, Igor"| [[Igor Belanov]]
+| '''3''' – 27', 70', 111' ([[Penalty kick (association football)|p]])
+|{{fb|URS}}
+|'''1'''–0, '''2'''–1, '''3'''–4
+|align="center" {{failure|[[1986 FIFA World Cup knockout stage#Soviet Union vs Belgium|3–4]] [[Overtime (sports)#Association football|aet]]}}
+|{{fb|BEL}}
+|rowspan=2| {{Hs|7}}[[1986 FIFA World Cup#Round of 16|Round of 16]]
+|{{dts|format=dmy|1986|6|15}}
+|<ref>{{cite web |title=1986 FIFA World Cup: Soviet Union 3–4 Belgium |url=http://www.fifa.com/worldcup/matches/round=309/match=432/index.html |publisher=FIFA |archive-date=21 July 2015 |archive-url=https://web.archive.org/web/20150721202412/http://www.fifa.com/worldcup/matches/round=309/match=432/index.html |date=15 June 1986 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|40}}.
+!scope=row data-sort-value="Butragueno, Emilio"| [[Emilio Butragueño]]
+| '''4''' – 43', 56', 80', 88' ([[Penalty kick (association football)|p]])
+|{{fb|ESP}}
+|'''1'''–1, '''2'''–1, '''4'''–1, '''5'''–1
+|align=center| [[1986 FIFA World Cup knockout stage#Denmark vs Spain|5–1]]
+|{{fb|DEN}}
+|{{dts|format=dmy|1986|6|18}}
+|<ref>{{cite web |title=1986 FIFA World Cup: Denmark 1–5 Spain |url=http://www.fifa.com/worldcup/matches/round=309/match=511/index.html |publisher=FIFA |archive-date=28 May 2015 |archive-url=https://web.archive.org/web/20150528102416/http://www.fifa.com/worldcup/matches/round=309/match=511/index.html |date=18 June 1986 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|41}}.
+|rowspan=2| [[1990 FIFA World Cup|1990, Italy]]
+!scope=row data-sort-value="Michel"| [[Míchel (footballer, born 1963)|Míchel]]
+| '''3''' – 22', 61', 81'
+|{{fb|ESP}}
+|'''1'''–0, '''2'''–1, '''3'''–1
+|align=center| [[1990 FIFA World Cup Group E#South Korea vs Spain|3–1]]
+|{{fb|KOR|1984}}
+|{{Hs|8}}[[1990 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|1990|6|17}}
+|<ref>{{cite web |title=1990 FIFA World Cup: South Korea 1–3 Spain |url=http://www.fifa.com/worldcup/matches/round=322/match=175/index.html |publisher=FIFA |archive-date=4 August 2015 |archive-url=https://web.archive.org/web/20150804110144/http://www.fifa.com/worldcup/matches/round=322/match=175/index.html |date=17 June 1990 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|42}}.
+!scope=row data-sort-value="Skuhravy, Tomas"| [[Tomáš Skuhravý]]
+| '''3''' – 12', 63', 82'
+|{{fb|TCH}}
+|'''1'''–0, '''2'''–1, '''4'''–1
+|align=center| [[1990 FIFA World Cup knockout stage#Czechoslovakia vs Costa Rica|4–1]]
+|{{fb|CRC}}
+|{{Hs|7}}[[1990 FIFA World Cup#Round of 16|Round of 16]]
+|{{dts|format=dmy|1990|6|23}}
+|<ref>{{cite web |title=1990 FIFA World Cup: Czechoslovakia 4–1 Costa Rica |url=http://www.fifa.com/worldcup/matches/round=323/match=129/index.html |publisher=FIFA |archive-date=16 July 2015 |archive-url=https://web.archive.org/web/20150716130824/http://www.fifa.com/worldcup/matches/round=323/match=129/index.html |date=23 June 1990 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|43}}.
+|rowspan=2| [[1994 FIFA World Cup|1994, United States]]
+!scope=row data-sort-value="Batistuta, Gabriel"| [[Gabriel Batistuta]] <small>(1)</small>
+| '''3''' – 2', 44', 89' ([[Penalty kick (association football)|p]])
+|{{fb|ARG|1861}}
+|'''1'''–0, '''2'''–0, '''4'''–0
+|align=center| [[1994 FIFA World Cup Group D#Argentina vs Greece|4–0]]
+|{{fb|GRE}}
+|rowspan=2| {{Hs|8}}[[1994 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|1994|6|21}}
+|<ref>{{cite web |title=1994 FIFA World Cup: Argentina 4–0 Greece |url=http://www.fifa.com/worldcup/matches/round=337/match=3059/index.html |publisher=FIFA |archive-date=23 February 2015 |archive-url=https://web.archive.org/web/20150223034735/http://www.fifa.com/worldcup/matches/round=337/match=3059/index.html |date=21 June 1994 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|44}}.
+!scope=row data-sort-value="Salenko, Oleg"| [[Oleg Salenko]]
+| '''5''' – 14', 41', 44' ([[Penalty kick (association football)|p]]), 72', 75'
+|{{fb|RUS}}
+|'''1'''–0, '''2'''–0, '''3'''–0, '''4'''–1, '''5'''–1
+|align=center| [[1994 FIFA World Cup Group B#Russia vs Cameroon|6–1]]
+|{{fb|CMR}}
+|{{dts|format=dmy|1994|6|28}}
+|<ref>{{cite web |title=1994 FIFA World Cup: Russia 6–1 Cameroon |url=http://www.fifa.com/worldcup/matches/round=337/match=3079/index.html |publisher=FIFA |archive-date=23 February 2015 |archive-url=https://web.archive.org/web/20150223035027/http://www.fifa.com/worldcup/matches/round=337/match=3079/index.html |date=28 June 1994 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|45}}.
+|[[1998 FIFA World Cup|1998, France]]
+!scope=row data-sort-value="Batistuta, Gabriel"| [[Gabriel Batistuta]] <small>(2)</small>
+| '''3''' – 73', 78', 83' ([[Penalty kick (association football)|p]])
+|{{fb|ARG|1861}}
+|'''3'''–0, '''4'''–0, '''5'''–0
+|align=center| [[1998 FIFA World Cup Group H#Argentina vs Jamaica|5–0]]
+|{{fb|JAM}}
+|{{Hs|8}}[[1998 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|1998|6|21}}
+|<ref>{{cite web |title=1998 FIFA World Cup: Argentina 5–0 Cameroon |url=http://www.fifa.com/worldcup/matches/round=1014/match=8752/index.html |publisher=FIFA |archive-date=19 February 2015 |archive-url=https://web.archive.org/web/20150219025745/http://www.fifa.com/worldcup/matches/round=1014/match=8752/index.html |date=21 June 1998 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|46}}.
+|rowspan=2| [[2002 FIFA World Cup|2002, South Korea & Japan]]
+!scope=row data-sort-value="Klose, Miroslav"| [[Miroslav Klose]]
+| '''3''' – 20', 25', 70'
+|{{fb|GER}}
+|'''1'''–0, '''2'''–0, '''5'''–0
+|align=center| [[2002 FIFA World Cup Group E#Germany vs Saudi Arabia|8–0]]
+|{{fb|KSA}}
+|rowspan=2| {{Hs|8}}[[2002 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|2002|6|1}}
+|<ref>{{cite web |title=2002 FIFA World Cup: Germany 8–0 Saudi Arabia |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950004/index.html |publisher=FIFA |archive-date=21 February 2015 |archive-url=https://web.archive.org/web/20150221150844/http://www.fifa.com/worldcup/matches/round=43950100/match=43950004/index.html |date=1 June 2002 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|47}}.
+!scope=row data-sort-value="Pauleta"| [[Pauleta]]
+| '''3''' – 14', 65', 77'
+|{{fb|POR}}
+|'''1'''–0, '''2'''–0, '''3'''–0
+|align=center| [[2002 FIFA World Cup Group D#Portugal vs Poland|4–0]]
+|{{fb|POL}}
+|{{dts|format=dmy|2002|6|10}}
+|<ref>{{cite web |title=2002 FIFA World Cup: Portugal 4–0 Poland |url=http://www.fifa.com/worldcup/matches/round=43950100/match=43950032/index.html |publisher=FIFA |archive-date=22 May 2015 |archive-url=https://web.archive.org/web/20150522105903/http://www.fifa.com/worldcup/matches/round=43950100/match=43950032/index.html |date=10 June 2002 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|48}}.
+|[[2010 FIFA World Cup|2010, South Africa]]
+!scope=row data-sort-value="Higuain, Gonzalo"| [[Gonzalo Higuaín]]
+| '''3''' – 33', 76', 80'
+|{{fb|ARG|1861}}
+|'''2'''–0, '''3'''–1, '''4'''–1
+|align=center| [[2010 FIFA World Cup Group B#Argentina vs South Korea|4–1]]
+|{{fb|KOR|1997}}
+|{{Hs|8}}[[2010 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|2010|6|17}}
+|<ref>{{cite web |title=2010 FIFA World Cup: Argentina 4–1 South Korea |url=http://www.fifa.com/worldcup/matches/round=249722/match=300061458/index.html |publisher=FIFA |archive-date=26 June 2010 |archive-url=https://web.archive.org/web/20100626140228/http://www.fifa.com/worldcup/matches/round=249722/match=300061458/index.html |date=17 June 2010 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|49}}.
+|rowspan=2| [[2014 FIFA World Cup|2014, Brazil]]
+!scope=row data-sort-value="Muller, Thomas"| [[Thomas Müller]]
+| '''3''' – 12' ([[Penalty kick (association football)|p]]), 45', 78'
+|{{fb|GER}}
+|'''1'''–0, '''3'''–0, '''4'''–0
+|align=center| [[2014 FIFA World Cup Group G#Germany vs Portugal|4–0]]
+|{{fb|POR}}
+|rowspan=2| {{Hs|8}}[[2014 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|2014|6|16}}
+|<ref>{{cite web |title=2014 FIFA World Cup: Germany 4–0 Portugal |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186475/index.html |publisher=FIFA |archive-date=14 July 2017 |archive-url=https://web.archive.org/web/20170714132416/http://www.fifa.com/worldcup/matches/round=255931/match=300186475/index.html |date=16 June 2014 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|50}}.
+!scope=row data-sort-value="Shaqiri, Xherdan"| [[Xherdan Shaqiri]]
+| '''3''' – 6', 31', 71'
+|{{fb|SUI}}
+|'''1'''–0, '''2'''–0, '''3'''–0
+|align=center| [[2014 FIFA World Cup Group E#Honduras vs Switzerland|3–0]]
+|{{fb|HON|1949}}
+|{{dts|format=dmy|2014|6|25}}
+|<ref>{{cite web |title=2014 FIFA World Cup: Honduras 0–3 Switzerland |url=http://www.fifa.com/worldcup/matches/round=255931/match=300186482/index.html |publisher=FIFA |archive-date=10 November 2017 |archive-url=https://web.archive.org/web/20171110095106/http://www.fifa.com/worldcup/matches/round=255931/match=300186482/index.html |date=25 June 2014 |url-status=unfit}}</ref>
+|-
+|align="right"| {{nts|51}}.
+|rowspan=2| [[2018 FIFA World Cup|2018, Russia]]
+!scope=row data-sort-value="Ronaldo, Cristiano"| [[Cristiano Ronaldo]]
+| '''3''' – 4' ([[Penalty kick (association football)|p]]), 44', 88'
+|{{fb|POR}}
+|'''1'''–0, '''2'''–1, '''3'''–3
+| {{maybe|[[2018 FIFA World Cup Group B#Portugal vs Spain|3–3]]}}
+|{{fb|ESP}}
+|rowspan=2| {{Hs|8}}[[2018 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|2018|6|15}}
+|<ref>{{cite web |title=2018 FIFA World Cup: Portugal 3–3 Spain |url=https://www.fifa.com/tournaments/mens/worldcup/2018russia/match-center/300331524 |publisher=FIFA |archive-date=18 March 2022 |archive-url=https://web.archive.org/web/20220318145351/https://www.fifa.com/tournaments/mens/worldcup/2018russia/match-center/300331524 |date=15 June 2018 |url-status=live}}</ref>
+|-
+|align="right"| {{nts|52}}.
+!scope=row data-sort-value="Kane, Harry"| [[Harry Kane]]
+| '''3''' – 22' ([[Penalty kick (association football)|p]]), {{Nts|45+1}}' ([[Penalty kick (association football)|p]]), 62'
+|{{fb|ENG}}
+|'''2'''–0, '''5'''–0, '''6'''–0
+|align=center| [[2018 FIFA World Cup Group G#England vs Panama|6–1]]
+|{{fb|PAN}}
+|{{dts|format=dmy|2018|6|24}}
+|<ref>{{cite web |title=2018 FIFA World Cup: England 6–1 Panama |url=https://www.fifa.com/tournaments/mens/worldcup/2018russia/match-center/300331546 |publisher=FIFA |archive-date=3 July 2022 |archive-url=https://web.archive.org/web/20220703183148/https://www.fifa.com/tournaments/mens/worldcup/2018russia/match-center/300331546 |date=24 June 2018 |url-status=live}}</ref>
+|-
+|align="right"| {{nts|53}}.
+|rowspan=2| [[2022 FIFA World Cup|2022, Qatar]]
+!scope=row data-sort-value="Ramos, Gonçalo"| [[Gonçalo Ramos]]
+| '''3''' – 17', 51', 67'
+|{{fb|POR}}
+|'''1'''–0, '''3'''–0, '''5'''–1
+|align=center| [[2022 FIFA World Cup knockout stage#Portugal vs Switzerland|6–1]]
+|{{fb|SUI}}
+|{{Hs|7}}[[2022 FIFA World Cup knockout stage#Round of 16|Round of 16]]
+|{{dts|format=dmy|2022|12|6}}
+|<ref>{{cite web |title=2022 FIFA World Cup: Portugal 6–1 Switzerland |url=https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285073/400128130 |publisher=FIFA |archive-date=12 December 2022 |archive-url=https://web.archive.org/web/20221212005353/https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285073/400128130 |date=6 December 2022 |url-status=live}}</ref>
+|-
+|align="right"| {{nts|54}}.
+!scope=row data-sort-value="Mbappé, Kylian"| [[Kylian Mbappé]]
+| '''3''' – 80' ([[Penalty kick (association football)|p]]), 81', 118' ([[Penalty kick (association football)|p]])
+|{{fb|FRA}}
+|'''1'''–2, '''2'''–2, '''3'''–3
+| {{maybe|[[2022 FIFA World Cup final|3–3]] [[Overtime (sports)#Association football|aet]]}}
+|{{fb|ARG}}
+|{{Hs|1}}[[2022 FIFA World Cup knockout stage#Final|Final]]
+|{{dts|format=dmy|2022|12|18}}
+|<ref>{{cite web |title=2022 FIFA World Cup: Argentina 3–3 France |url=https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285077/400128145 |publisher=FIFA |archive-date=19 December 2022 |archive-url=https://web.archive.org/web/20221219050818/https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285077/400128145 |date=18 December 2022 |url-status=live}}</ref>
+|-
+|align="right"| {{nts|55}}.
+| rowspan="4" | [[2026 FIFA World Cup|2026, Canada, Mexico & United States]]
+!scope=row data-sort-value="Messi, Lionel"| [[Lionel Messi]]
+| '''3''' – 17', 60', 76'
+|{{fb|ARG}}
+|'''1'''–0, '''2'''–0, '''3'''–0
+|align=center| [[2026 FIFA World Cup Group J#Argentina vs Algeria|3–0]]
+|{{fb|ALG}}
+| rowspan="3" | {{Hs|8}}[[2026 FIFA World Cup#Group stage|Group stage]]
+|{{dts|format=dmy|2026|6|16}}
+|<ref name=":0">{{cite web |title=2026 FIFA World Cup: Argentina 3–0 Algeria |url=https://www.fifa.com/en/match-centre/match/17/285023/289273/400021496 |publisher=FIFA |date=16 June 2026 |access-date=16 June 2026}}</ref>
+|-
+|align="right"| {{nts|56}}.
+!scope=row data-sort-value="David, Jonathan"| [[Jonathan David]]
+| '''3''' – 29', {{nts|45+3}}', {{nts|90+2}}'
+|{{fb|CAN}}
+|'''2'''–0, '''3'''–0, '''6'''–0
+|align=center| [[2026 FIFA World Cup Group B#Canada vs Qatar|6–0]]
+|{{fb|QAT}}
+|{{dts|format=dmy|2026|6|18}}
+|<ref>{{cite web |title=2026 FIFA World Cup: Canada 6–0 Qatar |url=https://www.fifa.com/en/match-centre/match/17/285023/289273/400021450 |publisher=FIFA |date=18 June 2026 |access-date=18 June 2026}}</ref>
+|-
+| align="right" | {{nts|57}}.
+!scope=row data-sort-value="Dembélé, Ousmane"| [[Ousmane Dembélé]]
+|'''3''' – 7', 20', 32'
+|{{fb|FRA}}
+|'''1'''–0, '''2'''–0, '''3'''–1
+| align="center" | [[2026 FIFA World Cup Group I#Norway vs France|4–1]]
+|{{fb|NOR}}
+|26 June 2026
+|<ref>{{Cite web |title=2026 FIFA World Cup: Norway 1–4 France |url=https://www.fifa.com/en/match-centre/match/17/285023/289273/400021489 |date=26 June 2026 |access-date=26 June 2026 |publisher=FIFA}}</ref>
+|-
+| align="right" | {{nts|58}}.
+!scope=row data-sort-value="Saka, Bukayo"| [[Bukayo Saka]]
+|'''3''' – 37', 45+1', 87' ([[Penalty kick (association football)|p]])
+|{{fb|ENG}}
+|'''3'''–0, '''4'''–0, '''5'''–3 ([[Penalty kick (association football)|p]])
+| align="center" | [[2026 FIFA World Cup knockout stage#France vs England|6–4]]
+|{{fb|FRA}}
+| {{Hs|8}}[[2026 FIFA World Cup knockout stage#Match for third place|Match for third place]]
+|18 July 2026
+|<ref>{{Cite news |date=2026-07-18 |title=Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff |url=https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report |access-date=2026-07-18 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+|}
+
+==Notable World Cup hat-tricks==
+{{hatnote|This section features records and notable hat-tricks relating to the men's World Cup. For notable hat-tricks at the Women's World Cup, see [[List of FIFA Women's World Cup hat-tricks#Notable World Cup hat-tricks]].}}
+
+*[[Bert Patenaude]] was the '''first player to score a hat-trick''' in a World Cup match, on 17 July 1930 against [[Paraguay national football team|Paraguay]]. However, until 10 November 2006 the first hat-trick that FIFA acknowledged had been scored by [[Guillermo Stábile]] of [[Argentina national football team|Argentina]], two days after Patenaude. In 2006, FIFA announced that Patenaude's claim to being the first hat-trick scorer was valid, as teammate [[Tom Florie]]'s goal in the match against Paraguay was re-attributed to him.<ref>{{cite news |url=https://www.fifa.com/world-match-centre/news/newsid/107/499/ |archive-url=https://web.archive.org/web/20140415092621/http://www.fifa.com/world-match-centre/news/newsid/107/499/ |url-status=dead |archive-date=April 15, 2014 |title=American Bert Patenaude credited with first hat trick in FIFA World Cup history |date=19 November 2006 |access-date=23 June 2014 |publisher=FIFA Official Website}}</ref><ref>{{cite news |url=https://www.fifa.com/fifaplus/en/articles/bert-patenaude-and-world-cups-first-ever-hat-trick |title=Bert Patenaude and World Cup's first-ever hat-trick |date=1 May 2023 |access-date=13 March 2024 |publisher=FIFA Official Website |archive-date=13 March 2024 |archive-url=https://web.archive.org/web/20240313081900/https://www.fifa.com/fifaplus/en/articles/bert-patenaude-and-world-cups-first-ever-hat-trick |url-status=live }}</ref>
+*Four players have scored '''two hat-tricks''' in World Cup matches: [[Sándor Kocsis]] (both [[1954 FIFA World Cup|1954]]); [[Just Fontaine]] (both [[1958 FIFA World Cup|1958]]); [[Gerd Müller]] (both [[1970 FIFA World Cup|1970]]); and [[Gabriel Batistuta]] ([[1994 FIFA World Cup|1994]] and [[1998 FIFA World Cup|1998]]).<ref name="HeroicHT">{{cite news |url=https://www.fifa.com/newscentre/features/news/newsid=1409096/ |archive-url=https://web.archive.org/web/20140709174545/http://www.fifa.com/newscentre/features/news/newsid=1409096/ |url-status=dead |archive-date=July 9, 2014 |title=A handful of heroic hat-tricks |date=2 April 2011 |access-date=23 June 2014 |publisher=FIFA Official Website}}</ref> Batistuta is thus the only person to score hat-tricks in two World Cups. He has another unique record of scoring hat-tricks, both were achieved on 21 June of the year, against World Cup finals debutants (Greece and Jamaica), and each time the third goal was a penalty.<ref>[https://web.archive.org/web/20081203015017/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-301_02a_fwc_goals_22689.pdf FIFA.com]</ref> Kocsis and Müller scored their hat-tricks in consecutive matches.
+*[[Oleg Salenko]] is the only player in World Cup history to have '''scored five goals in a single match'''. He did this during the [[1994 FIFA World Cup]] match between [[Russia national football team|Russia]] and [[Cameroon national football team|Cameroon]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/0/football/26252836 |title=World Cup moments: Five for Salenko |date=30 April 2014 |access-date=23 June 2014 |publisher=BBC |archive-url=https://web.archive.org/web/20140430141948/http://www.bbc.com/sport/0/football/26252836 |archive-date=30 April 2014 |url-status=dead }}</ref>
+*One player has scored a '''hat-trick on his international début''': [[Guillermo Stábile]] ([[1930 FIFA World Cup|1930]]).<ref>{{cite news |url=http://www1.skysports.com/football/news/18529/6132521/guillermo-stabile |title=Guillermo Stabile |date=14 May 2010 |access-date=23 June 2014 |publisher=[[Sky Sports]] |archive-url=https://web.archive.org/web/20160305065401/http://www.skysports.com/football/news/18529/6132521/guillermo-stabile |archive-date=5 March 2016 |url-status=dead }}</ref>
+*One player has scored '''four goals for the losing side''': [[Ernst Wilimowski]] (5–6, [[1938 FIFA World Cup|1938]]).<ref>{{cite news |url=http://www.fourfourtwo.com/features/38-best-wc-game-you-never-saw |title=The best World Cup game you never saw |date=8 June 2010 |access-date=23 June 2014 |publisher=[[Four Four Two]] |archive-url=https://web.archive.org/web/20150924015352/http://www.fourfourtwo.com/features/38-best-wc-game-you-never-saw |archive-date=24 September 2015 |url-status=live }}</ref>
+*Two players have scored a '''hat-trick for the losing side''': [[Josef Hügi]] (5–7, [[1954 FIFA World Cup|1954]]) and [[Igor Belanov]] (3–4, [[1986 FIFA World Cup|1986]]).
+*Two other players have scored a '''hat-trick in a game that their side did not win''': [[Cristiano Ronaldo]] (3–3, [[2018 FIFA World Cup|2018]])<ref>{{Cite web|url=https://www.theguardian.com/football/2018/jun/15/spain-portugal-world-cup-group-b-match-report|title=Cristiano Ronaldo hits hat-trick as Portugal deny Spain in six-goal thriller|first1=Sid|last1=Lowe|work=The Guardian |date=June 15, 2018|via=www.theguardian.com|archive-url=https://web.archive.org/web/20180615224845/https://www.theguardian.com/football/2018/jun/15/spain-portugal-world-cup-group-b-match-report|archive-date=June 15, 2018|url-status=live}}</ref> and [[Kylian Mbappé]] (3–3, losing 4–2 on penalties, [[2022 FIFA World Cup|2022]]).
+*There have been three occasions when '''two hat-tricks have been scored in the same match'''. Two occurred during the [[1938 FIFA World Cup]]: when [[Sweden men's national football team|Sweden]] defeated [[Cuba national football team|Cuba]], [[Gustav Wetterström]] and [[Harry Andersson]], both playing for Sweden, scored three goals, with the former completing his in the first half. In the [[Brazil national football team|Brazil]] vs [[Poland national football team|Poland]], [[Leônidas (footballer, born 1913)|Leônidas]] did it for Brazil and [[Ernst Wilimowski]] for Poland. One occurred in [[1954 FIFA World Cup|1954]]: when [[Austria national football team|Austria]] defeated [[Switzerland national football team|Switzerland]], [[Theodor Wagner (footballer)|Theodor Wagner]] and [[Josef Hügi]] scored hat-tricks for Austria and Switzerland respectively.
+*Two players have scored '''hat-tricks in World Cup Finals'''. [[Geoff Hurst]] scored three goals for [[England national football team|England]] against [[Germany national football team|West Germany]] in the [[1966 FIFA World Cup final|1966 final]].<ref name="HeroicHT"/><ref>{{cite news |url=http://www.thefa.com/England/All-Teams/Players/H/Geoff-Hurst |title=Geoff Hurst Biography |access-date=23 June 2014 |publisher=[[The Football Association]] Official Website |archive-url=https://web.archive.org/web/20101127001035/http://www.thefa.com/England/All-Teams/Players/H/Geoff-Hurst |archive-date=27 November 2010 |url-status=dead }}</ref> This is also the '''longest hat-trick''' to be completed — most time between the first and third goals. His first goal came at 18', while the second and third goals were in [[Overtime (sports)|extra time]] at 98' and 120'. [[Kylian Mbappé]] scored the other World Cup finals' hat-trick in the [[2022 FIFA World Cup]] [[2022 FIFA World Cup final|final]] for [[France national football team|France]] against [[Argentina national football team|Argentina]]. His goals were scored at the 80th, 81st and 118th minute marks. Two of his goals - 80th and 118th - were successful penalty kicks. 
+*The '''quickest hat-trick''' by a player is [[Erich Probst]], who scored at 4', 21', and 24' in [[1954 FIFA World Cup|1954]], playing for [[Austria national football team|Austria]] against [[Czechoslovakia national football team|Czechoslovakia]] in the first round.  
+*The '''briefest hat-trick''' to be completed — that is, the shortest time between the first and third goals — is the one by [[László Kiss (footballer)|László Kiss]] in [[1982 FIFA World Cup|1982]] against [[El Salvador national football team|El Salvador]]. He scored at 69', 72', and 76', making the time between his first and third 7 minutes. This is also the '''only hat-trick scored by a substitute'''.
+* The only players to have '''scored from three headers''' in a single match are [[Tomáš Skuhravý]] in [[1990 FIFA World Cup|1990]] and [[Miroslav Klose]] in [[2002 FIFA World Cup|2002]].<ref name="HeroicHT"/>
+*The '''youngest player''' to score a hat-trick is [[Pelé]], at 17 years, 244 days ([[1958 FIFA World Cup knockout stage#Brazil vs France|5–2]] against [[France national football team|France]] in [[1958 FIFA World Cup|1958]]).
+*The '''oldest player''' to score a hat-trick is [[Lionel Messi]], at 38 years, 357 days ([[2026 FIFA World Cup Group J#Argentina vs Algeria|3–0]] against [[Algeria national football team|Algeria]] in [[2026 FIFA World Cup|2026]]).<ref name=":0" />
+*Germany (incl. West Germany) holds the record for '''most hat-tricks scored''' with 7. Germany also shares with South Korea the record for '''most hat-tricks conceded''' with 4.
+
+== See also ==
+{{portal|Association football}}
+* [[FIFA World Cup records and statistics]]
+* [[FIFA World Cup]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{refbegin}}
+*{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mcwc/ip-301%5f02a%5ffwc%5fgoals%5f22689.pdf|archive-url=https://web.archive.org/web/20081203015017/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-301_02a_fwc_goals_22689.pdf|url-status=dead|archive-date=December 3, 2008|title=FIFA Facts: World Cup Goals|pages=2–3|access-date=2007-12-06|publisher=[[FIFA]]}}
+*{{cite web|url=https://www.rsssf.org/tablest/trivia.html|title=World Cup Trivia - Hat-tricks|website=[[RSSSF]]|access-date=2006-10-09|archive-date=2022-07-27|archive-url=https://web.archive.org/web/20220727154832/https://www.rsssf.org/tablest/trivia.html|url-status=live}}
+{{refend}}
+
+{{FIFA World Cup}}
+{{International football statistics}}
+
+{{Featured list}}
+
+[[Category:FIFA World Cup-related lists|Hat-tricks]]
+[[Category:FIFA World Cup records and statistics|FIFA World Cup hat-tricks]]
+[[Category:International association football competition hat-tricks|FIFA World Cup]]
+[[Category:Association football player non-biographical articles|FIFA World Cup]]
