@@ -1,0 +1,760 @@
+{{Short description|None}}
+{{distinguish|Men's pole vault indoor world record progression}}
+The first '''[[world record]]''' in the '''men's [[pole vault]]''' was recognized by the [[International Association of Athletics Federations]] in 1912.<ref name=iaaf>
+{{cite web
+ |title       = 12th IAAF World Championships In Athletics: IAAF Statistics Handbook. Berlin 2009.
+ |url         = http://www.iaaf.org/mm/document/competitions/competition/05/15/63/20090706014834_httppostedfile_p345-688_11303.pdf
+ |publisher   = IAAF Media & Public Relations Department
+ |location    = Monte Carlo
+ |pages       = Pages 546, 555–6
+ |year        = 2009
+ |access-date  = August 5, 2009
+ |archive-url  =https://web.archive.org/web/20110629134819/http://www.iaaf.org/mm/document/competitions/competition/05/15/63/20090706014834_httppostedfile_p345-688_11303.pdf 
+ |archive-date=June 29, 2011
+ }}
+</ref>
+
+As of April 20, 2024, 80 world records have been ratified by the IAAF (now World Athletics) in the event. Since 2000, World Athletics makes no distinction between indoor and outdoor settings when establishing pole vault world records. This new rule was not applied retroactively. The introduction in the early 1950s of flexible vaulting poles made from composites such as fiberglass or carbon fiber allowed vaulters to achieve greater height.<ref name=iaaf/><ref name="first">{{cite news|url=https://news.google.com/newspapers?id=CWxPAAAAIBAJ&sjid=MwUEAAAAIBAJ&pg=4887%2C840268 |work=Ocala Star-Banner |location=Ocala, Florida |agency=Associated Press |title=Man who broke 15 feet defends fiberglass pole |date=February 7, 1962 |page=10}}</ref><ref name=wrprgr>{{cite news |url=https://news.google.com/newspapers?id=Fg8nAAAAIBAJ&sjid=_-IDAAAAIBAJ&pg=4842%2C4359233 |work=Eugene Register-Guard |location=Oregon |agency=(table) |title=World record progression in pole vault |date=May 23, 1963 |page=3D}}</ref> The present record of {{T&Fcalc|6.31}} was set by [[Armand Duplantis]], competing at the Mondo Classic in [[Uppsala]], Sweden.<ref>{{Cite web |title=Ratified: world records for Sawe, Ehammer, Charlton and more |url=https://worldathletics.org/news/press-releases/ratified-world-records-sawe-ehammer-charlton-mcrae-yan-duplantis-assefa |date=2026-07-23 |access-date=2026-09-16 |website=worldathletics.org |language=en}}</ref>
+
+== Record progression ==
+This table lists jumps ratified by [[World Athletics]] (formerly the International Association of Athletics Federations (IAAF)) as world records, which includes tying or surpassing the existing record.
+{| class="wikitable" style="text-align: left;"
+|-
+| style="width:10px;"| || Ratified
+|-
+| style="width:10px; background:#fef6e7;"| || Not ratified
+|-
+| style="width:10px; background:#fee7e6;"| || Ratified but later rescinded
+|-
+| style="width:10px; background:#cef6f5;"| || Pending ratification
+|}
+
+{| class="wikitable"
+! Mark
+! Athlete
+! Nation
+! Venue
+! Date
+! #{{efn|The numbered occurrence of the athlete breaking the world record, in other words "#7" would indicate the 7th time the athlete broke the world record.}}
+|-
+| {{T&Fcalc|3.15}}
+| [[Francis Temple]]
+| rowspan=23| {{Flag|United Kingdom}}
+| [[Woolwich]]
+| October 6, 1849<ref name=brinkster>{{cite web|url=http://trackfield.brinkster.net/RecProgression.asp?RecCode=WR&EventCode=MF2&P=R|url-access=registration|title=Main > Men, Pole Vault > World Records Progression|website={{ill|Track and Field Statistics|qid=Q29384941|s=1}}}}</ref>
+| 1
+|-
+| {{T&Fcalc|3.21}}
+| [[Robert Mitchell (pole vaulter)|Robert Mitchell]]
+| [[London]]
+| June 19, 1868<ref name=brinkster />
+| 1
+|-
+| rowspan=6| {{T&Fcalc|3.225}}
+| rowspan=2| [[Edwin Woodburn]]
+| [[Newton-le-Willows|Newton]]
+| August 31, 1872<ref name=brinkster />
+| 1
+|-
+| [[Lancaster, Lancashire|Lancaster]]
+| June 2, 1873<ref name=brinkster />
+| 2
+|-
+| [[William Kelsey (pole vaulter)|William Kelsey]]
+| rowspan=2| [[Sheffield]]
+| rowspan=2| July 7, 1873<ref name=brinkster />
+| 1
+|-
+| [[John Wigfull]]
+| 1
+|-
+| [[Edwin Woodburn]]
+| [[London]]
+| March 30, 1874<ref name=brinkster />
+| 3
+|-
+| [[John Wigfull]]
+| [[Sheffield]]
+| July 5, 1875<ref name=brinkster />
+| 2
+|-
+| rowspan=2| {{T&Fcalc|3.38}}
+| [[A. Hammond]]
+| [[Bury St.Edmunds]]
+| March 30, 1876<ref name=brinkster />
+| 1
+|-
+| [[Edwin Woodburn]]
+| rowspan=2| [[Ulverston]]
+| July 21, 1876<ref name=brinkster />
+| 4
+|-
+| {{T&Fcalc|3.42}}
+| rowspan=9| [[Thomas Ray (pole vaulter)|Thomas Ray]]
+| September 19, 1879<ref name=brinkster />
+| 1
+|-
+| {{T&Fcalc|3.43}}
+| [[Birmingham]]
+| July 16, 1881<ref name=brinkster />
+| 2
+|-
+| rowspan=2| {{T&Fcalc|3.455}}
+| [[Bradford]]
+| August 12, 1882<ref name=brinkster />
+| 3
+|-
+| [[Nottingham]]
+| June 16, 1883<ref name=brinkster />
+| 4
+|-
+| {{T&Fcalc|3.465}}
+| [[Preston, Lancashire|Preston]]
+| August 18, 1883<ref name=brinkster />
+| 5
+|-
+| {{T&Fcalc|3.48}}
+| [[Grasmere (village)|Grasmere]]
+| August 20, 1885<ref name=brinkster />
+| 6
+|-
+| {{T&Fcalc|3.485}}
+| [[Whitehaven]]
+| August 13, 1886<ref name=brinkster />
+| 7
+|-
+| {{T&Fcalc|3.505}}
+| [[Grasmere (village)|Grasmere]]
+| August 18, 1887<ref name=brinkster />
+| 8
+|-
+| {{T&Fcalc|3.52}}
+| [[Whitehaven]]
+| August 19, 1887<ref name=brinkster />
+| 9
+|-
+| {{T&Fcalc|3.53}}
+| [[Ernest Stones]]
+| [[Southport]]
+| June 2, 1888<ref name=brinkster />
+| 1
+|-
+| {{T&Fcalc|3.555}}
+| [[Thomas Ray (pole vaulter)|Thomas Ray]]
+| [[Barrow-in-Furness|Barrow]]
+| September 22, 1888<ref name=brinkster />
+| 10
+|-
+| {{T&Fcalc|3.57}}
+| [[Ernest Stones]]
+| [[Grasmere (village)|Grasmere]]
+| August 23, 1889<ref name=brinkster />
+| 2
+|-
+| {{T&Fcalc|3.58}}
+| [[Richard Dickenson]]
+| [[Kidderminster]]
+| July 4, 1891<ref name=brinkster />
+| 1
+|-
+| {{T&Fcalc|3.62}}
+| [[Raymond Clapp]]
+| rowspan=2| {{Flag|United States|1896}}
+| [[Chicago]]
+| June 16, 1898<ref name=brinkster />
+| 1
+|-
+| {{T&Fcalc|3.69}}
+| [[Norman Dole]]
+| [[Berkeley, California|Berkeley]]
+| April 23, 1904<ref name=brinkster />
+| 1
+|-
+| {{T&Fcalc|3.69}}
+| rowspan=2| [[Fernand Gonder]]
+| rowspan=2| {{Flag|France|1830}}
+| [[Paris]]
+| June 26, 1904<ref name=brinkster />
+| 1
+|-
+| {{T&Fcalc|3.74}}
+| [[Gradignan]]
+| June 4, 1905<ref name=brinkster />
+| 2
+|-
+| {{T&Fcalc|3.78}}
+| [[Leroy Samse]]
+| rowspan="11" | {{Flag|United States|1896}}
+| [[Chicago]]
+| June 2, 1906<ref name=brinkster />
+| 1
+|-
+| {{T&Fcalc|3.79}}
+| rowspan=2| [[Walter Dray]]
+| [[New Haven]]
+| May 18, 1907<ref name=brinkster />
+| 1
+|-
+| {{T&Fcalc|3.82}}
+| rowspan=2| [[Philadelphia]]
+| April 25, 1908<ref name=brinkster />
+| 2
+|-
+| {{T&Fcalc|3.855}}
+| rowspan=2| [[Alfred Carlton Gilbert|Alfred Gilbert]]
+| June 6, 1908<ref name=brinkster />
+| 1
+|-
+| {{T&Fcalc|3.86}}
+| [[New Haven]]
+| June 12, 1908<ref name=brinkster />
+| 2
+|-
+| {{T&Fcalc|3.90}}
+| [[Walter Dray]]
+| [[Danbury]]
+| June 13, 1908<ref name=brinkster />
+| 3
+|-
+| {{T&Fcalc|3.91}}
+| rowspan=2| [[Leland Scott]]
+| [[Berkeley, California|Berkeley]]
+| April 30, 1910<ref name=brinkster />
+| 1
+|-
+| {{T&Fcalc|3.93}}
+| [[Boulder, Colorado|Boulder]]
+| May 27, 1910<ref name=brinkster />
+| 2
+|-
+| {{T&Fcalc|3.985}}
+| [[Robert Gardner (golfer)|Robert Gardner]]
+| [[Philadelphia]]
+| June 1, 1912<ref name=brinkster />
+| 1
+|-
+| {{T&Fcalc|4.02}}
+| [[Marc Wright]]
+| [[Cambridge, Massachusetts|Cambridge]], [[United States|U.S.]]
+| June 8, 1912<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.09}}
+| [[Frank Foss (athlete)|Frank Foss]]
+| [[Antwerp]], [[Belgium]]
+| August 20, 1920<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.12}}
+| rowspan=4| [[Charles Hoff]]
+| rowspan=4| {{Flag|Norway|1900}}
+| rowspan=2| [[Copenhagen]], [[Denmark]]
+| September 22, 1922<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.21}}
+| July 22, 1923<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|4.23}}
+| [[Oslo]], [[Norway]]
+| August 13, 1925<ref name=iaaf/>
+| 3
+|-
+| {{T&Fcalc|4.25}}
+| [[Turku]], [[Finland]]
+| September 27, 1925<ref name=iaaf/>
+| 4
+|-
+| {{T&Fcalc|4.27}}
+| [[Sabin Carr]]
+| rowspan="15" | {{Flag|United States|1912}}
+| [[Philadelphia]], [[United States|U.S.]]
+| May 28, 1927<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.30}}
+| [[Lee Barnes]]
+| [[Fresno, California|Fresno]], [[United States|U.S.]]
+| April 28, 1928<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.37}}
+| [[William Graber]]
+| [[Palo Alto]], [[United States|U.S.]]
+| July 16, 1932<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.39}}
+| [[Keith Brown (pole vaulter)|Keith Brown]]
+| [[Boston]], [[United States|U.S.]]
+| June 1, 1935<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.43}}
+| [[George Varoff]]
+| [[Princeton, New Jersey]], U.S.
+| July 4, 1936<ref name=iaaf/>
+| 1
+|-
+| rowspan=2| {{T&Fcalc|4.54}}
+| [[Bill Sefton]]
+| rowspan=2| [[Los Angeles]], [[United States|U.S.]]
+| rowspan=2| May 29, 1937<ref name=iaaf/>
+| 1
+|-
+| [[Earle Meadows]]
+| 1
+|-
+| {{T&Fcalc|4.60}}
+| rowspan=3| [[Cornelius Warmerdam]]
+| [[Fresno, California|Fresno]], [[United States|U.S.]]
+| June 29, 1940<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.72}}
+| [[Compton, California|Compton]], [[United States|U.S.]]
+| June 26, 1941<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|4.77}}
+| [[Modesto, California|Modesto]], [[United States|U.S.]]
+| May 23, 1942<ref name=iaaf/>
+| 3
+|-
+| {{T&Fcalc|4.78}}
+| [[Bob Gutowski|Robert Gutowski]]
+| rowspan=2| [[Palo Alto]], [[United States|U.S.]]
+| April 27, 1957<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.80}}
+| [[Don Bragg (pole vaulter)|Don Bragg]]
+| July 2, 1960<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.83}}
+| [[George Davies (athlete)|George Davies]]
+| [[Boulder, Colorado|Boulder]], [[United States|U.S.]]
+| May 20, 1961<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.89}}
+| [[John Uelses]]
+| [[Santa Barbara, California|Santa Barbara]], [[United States|U.S.]]
+| March 31, 1962<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.93}}
+| [[Dave Tork]]
+| [[Walnut, California|Walnut]], [[United States|U.S.]]
+| April 28, 1962<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|4.94}}
+| [[Pentti Nikula]]
+| {{Flag|Finland}}
+| [[Kauhava]], [[Finland]]
+| June 22, 1962<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.00}}
+| rowspan=2| [[Brian Sternberg]]
+| rowspan=12| {{Flag|United States|1960}}
+| [[Philadelphia]], [[United States|U.S.]]
+| April 27, 1963<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.08}}
+| [[Compton, California|Compton]], [[United States|U.S.]]
+| June 7, 1963<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|5.13}}
+| rowspan=2| [[John Pennel]]
+| [[London]], England
+| August 5, 1963<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.20}}
+| [[Coral Gables, Florida|Coral Gables]], [[United States|U.S.]]
+| August 24, 1963<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|5.23}}
+| rowspan=2| [[Fred Hansen]]
+| [[San Diego]], [[United States|U.S.]]
+| June 13, 1964<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.28}}
+| [[Los Angeles]], [[United States|U.S.]]
+| July 25, 1964<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|5.32}}
+| [[Bob Seagren]]
+| [[Fresno, California|Fresno]], [[United States|U.S.]]
+| May 14, 1966<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.34}}
+| [[John Pennel]]
+| [[Los Angeles]], [[United States|U.S.]]
+| July 23, 1966<ref name=iaaf/>
+| 3
+|-
+| {{T&Fcalc|5.36}}
+| [[Bob Seagren]]
+| [[San Diego]], [[United States|U.S.]]
+| June 10, 1967<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|5.38}}
+| [[Paul Wilson (pole vaulter)|Paul Wilson]]
+| [[Bakersfield]], [[United States|U.S.]]
+| June 23, 1967<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.41}} {{AthAbbr|A}}
+| [[Bob Seagren]]
+| [[Echo Summit]], [[United States|U.S.]]
+| September 12, 1968<ref name=iaaf/>
+| 3
+|-
+| {{T&Fcalc|5.44}}
+| [[John Pennel]]
+| [[Sacramento]], [[United States|U.S.]]
+| June 21, 1969<ref name=iaaf/>
+| 4
+|-
+| {{T&Fcalc|5.45}}
+| rowspan=2| [[Wolfgang Nordwig]]
+| rowspan=2| {{Flag|East Germany}}
+| [[Berlin]], [[Germany]]
+| June 17, 1970<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.46}}
+| [[Turin]], [[Italy]]
+| September 3, 1970<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|5.49}}
+| [[Christos Papanikolaou]]
+| {{Flag|Greece|old}}
+| [[Athens]], [[Greece]]
+| October 24, 1970<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.51}}
+| rowspan=3| [[Kjell Isaksson]]
+| rowspan=3| {{Flag|Sweden}}
+| [[Austin, Texas|Austin]], [[United States|U.S.]]
+| April 8, 1972<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.54}}
+| [[Los Angeles]], [[United States|U.S.]]
+| April 15, 1972<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|5.55}}
+| [[Helsingborg]], [[Sweden]]
+| June 12, 1972<ref name=iaaf/>
+| 3
+|-
+| {{T&Fcalc|5.63}}
+| [[Bob Seagren]]
+| rowspan=4| {{Flag|United States}}
+| [[Eugene, Oregon|Eugene]], [[United States|U.S.]]
+| July 2, 1972<ref name=iaaf/>
+| 4
+|-
+| {{T&Fcalc|5.65}}
+| [[David Roberts (pole vaulter)|David Roberts]]
+| [[Gainesville, Florida|Gainesville]], [[United States|U.S.]]
+| March 28, 1975<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.67}}
+| [[Earl Bell (athlete)|Earl Bell]]
+| [[Wichita, Kansas|Wichita]], [[United States|U.S.]]
+| May 29, 1976<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.70}}
+| [[David Roberts (pole vaulter)|David Roberts]]
+| [[Eugene, Oregon|Eugene]], [[United States|U.S.]]
+| June 22, 1976<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|5.72}}
+| [[Władysław Kozakiewicz]]
+| {{Flag|Poland|1928}}
+| [[Milan]], [[Italy]]
+| May 11, 1980<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.75}}
+| rowspan=2| [[Thierry Vigneron]]
+| rowspan=3| {{Flag|France|1974}}
+| [[Paris]], [[France]]
+| June 1, 1980<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.75}}
+| [[Lille]], [[France]]
+| June 29, 1980<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|5.77}}
+| [[Philippe Houvion]]
+| [[Paris]], [[France]]
+| July 17, 1980<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.78}}
+| [[Władysław Kozakiewicz]]
+| {{Flag|Poland}}
+| [[Moscow]], [[Soviet Union]]
+| July 30, 1980<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|5.80}}
+| [[Thierry Vigneron]]
+| {{Flag|France|1974}}
+| [[Mâcon]], [[France]]
+| June 20, 1981<ref name=iaaf/>
+| 3
+|-
+| {{T&Fcalc|5.81}}
+| [[Vladimir Polyakov (pole vaulter)|Vladimir Polyakov]]
+| {{Flag|Soviet Union}}
+| [[Tbilisi]], [[Soviet Union]]
+| June 26, 1981<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.82}}
+| [[Pierre Quinon]]
+| rowspan=2| {{Flag|France|1974}}
+| [[Cologne]], [[Germany]]
+| August 28, 1983<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.83}}
+| [[Thierry Vigneron]]
+| [[Rome]], [[Italy]]
+| September 1, 1983<ref name=iaaf/>
+| 4
+|-
+| {{T&Fcalc|5.85}}
+| rowspan=3| [[Sergey Bubka]]
+| rowspan=3| {{Flag|Soviet Union}}
+| [[Bratislava]], [[Czechoslovakia]]
+| May 26, 1984<ref name=iaaf/>
+| 1
+|-
+| {{T&Fcalc|5.88}}
+| [[Paris]], [[France]]
+| June 2, 1984<ref name=iaaf/>
+| 2
+|-
+| {{T&Fcalc|5.90}}
+| [[London]], England
+| July 13, 1984<ref name=iaaf/>
+| 3
+|-
+| {{T&Fcalc|5.91}}
+| [[Thierry Vigneron]]
+| {{Flag|France|1974}}
+| rowspan=2| [[Rome]], [[Italy]]
+| rowspan=2| August 31, 1984<ref name=iaaf/>
+| 5
+|-
+| {{T&Fcalc|5.94}}
+| rowspan=14| [[Sergey Bubka]]
+| rowspan=10| {{Flag|Soviet Union}}
+| 4
+|-
+| {{T&Fcalc|6.00}}
+| [[Paris]], [[France]]
+| July 13, 1985<ref name=iaaf/>
+| 5
+|-
+| {{T&Fcalc|6.01}}
+| [[Moscow]], [[Soviet Union]]
+| July 8, 1986<ref name=iaaf/>
+| 6
+|-
+| {{T&Fcalc|6.03}}
+| [[Prague]], [[Czechoslovakia]]
+| June 23, 1987<ref name=iaaf/>
+| 7
+|-
+| {{T&Fcalc|6.05}}
+| [[Bratislava]], [[Czechoslovakia]]
+| June 9, 1988<ref name=iaaf/>
+| 8
+|-
+| {{T&Fcalc|6.06}}
+| [[Nice]], [[France]]
+| July 10, 1988<ref name=iaaf/>
+| 9
+|-
+| {{T&Fcalc|6.07}}
+| [[Shizuoka City|Shizuoka]], [[Japan]]
+| May 6, 1991<ref name=iaaf/>
+| 10
+|-
+| {{T&Fcalc|6.08}}
+| [[Moscow]], [[Soviet Union]]
+| June 9, 1991<ref name=iaaf/>
+| 11
+|-
+| {{T&Fcalc|6.09}}
+| [[Formia]], [[Italy]]
+| July 8, 1991<ref name=iaaf/>
+| 12
+|-
+| {{T&Fcalc|6.10}}
+| [[Malmö]], [[Sweden]]
+| August 5, 1991<ref name=iaaf/>
+| 13
+|-
+| {{T&Fcalc|6.11}}
+| rowspan=4| {{Flag|Ukraine}}
+| [[Dijon]], [[France]]
+| June 13, 1992<ref name=iaaf/>
+| 14
+|-
+| {{T&Fcalc|6.12}}
+| [[Padua]], [[Italy]]
+| August 30, 1992<ref name=iaaf/>
+| 15
+|-
+| {{T&Fcalc|6.13}}
+| [[Tokyo]], Japan
+| September 19, 1992<ref name=iaaf/>
+| 16
+|-
+| {{T&Fcalc|6.14}} {{AthAbbr|A}}{{efn|"From 2000, [[IAAF]] Rule 260.18s (formerly 260.6.a) was amended to say [[world record]]s (as opposed to indoor world records) can be set in a facility 'with or without a roof.' So far, only one event - the women's pole vault - has been affected by this change, which was not applied retrospectively."<ref>{{cite web|url=http://www.iaaf.org/mm/document/competitions/competition/05/15/63/20090706014834_httppostedfile_p345-688_11303.pdf |title=Berlin 2009: Past results / Africa Champs, Asian Games | publisher= IAAF |access-date=2009-08-05 |url-status=dead |archive-url=https://web.archive.org/web/20110629134819/http://www.iaaf.org/mm/document/competitions/competition/05/15/63/20090706014834_httppostedfile_p345-688_11303.pdf |page=546|archive-date=2011-06-29 }}</ref> Sergey Bubka set an indoor record of {{T&Fcalc|6.15}} on February 21, 1993, in excess of the outdoor record, before this rule came into effect. Lavillenie's indoor world record was set after the rule came into effect, and thus since it exceeded Bubka's {{T&Fcalc|6.14}} set outdoors, it also became the outright world record, the first indoor mark to do so in this event.}}
+| [[Sestriere]], [[Italy]]
+| July 31, 1994<ref name=iaaf/>
+| 17
+|-
+| {{T&Fcalc|6.16}} {{AthAbbr|i}}<ref>{{cite web
+ |title = Progression of IAAF World Records — 2015 edition
+ |url = http://iaaf-ebooks.s3.amazonaws.com/2015/Progression-of-IAAF-World-Records-2015/index.htm
+ |publisher = [[IAAF]]
+ |location = Monte Carlo
+ |pages = 163–171
+ |format = pdf
+ |year = 2015
+ |access-date = 16 August 2016
+ }}</ref>
+| [[Renaud Lavillenie]]
+| {{Flag|France|1974}}
+| [[Donetsk]], [[Ukraine]]
+| February 15, 2014
+| 1
+|-
+| {{T&Fcalc|6.17}} {{AthAbbr|i}}
+| rowspan="15" | [[Armand Duplantis]]
+| rowspan="15" | {{Flag|Sweden}}
+| [[Toruń]], [[Poland]]
+| February 8, 2020
+| 1
+|-
+| {{T&Fcalc|6.18}} {{AthAbbr|i}}
+| [[Glasgow]], [[UK]]
+| February 15, 2020
+| 2
+|-
+| {{T&Fcalc|6.19}} {{AthAbbr|i}}
+| rowspan=2| [[Belgrade]], [[Serbia]]
+| March 7, 2022
+| 3
+|-
+| {{T&Fcalc|6.20}} {{AthAbbr|i}}
+| [[2022 World Athletics Indoor Championships – Men's pole vault|March 20, 2022]]
+| 4
+|-
+| {{T&Fcalc|6.21}}
+| [[Eugene, Oregon|Eugene]], [[United States|U.S.]]
+| [[2022 World Athletics Championships – Men's pole vault|July 24, 2022]]
+| 5
+|-
+| {{T&Fcalc|6.22}} {{AthAbbr|i}}
+| [[Clermont-Ferrand]], [[France]]
+| February 25, 2023
+| 6
+|-
+| {{T&Fcalc|6.23}}
+| [[Eugene, Oregon|Eugene]], [[United States|U.S.]]
+| September 17, 2023
+| 7
+|-
+| {{T&Fcalc|6.24}}
+| [[Xiamen]], [[China]]
+| [[2024 Xiamen Diamond League|April 20, 2024]]
+| 8
+|-
+|{{T&Fcalc|6.25}}
+|[[Paris]], [[France]]
+| [[Athletics at the 2024 Summer Olympics – Men's pole vault|August 5, 2024]]
+| 9
+|-
+|{{T&Fcalc|6.26}}
+|[[Chorzów]], [[Poland]]
+|[[2024 Kamila Skolimowska Memorial|August 25, 2024]]
+|10
+|-
+|{{T&Fcalc|6.27}} {{AthAbbr|i}}
+|[[Clermont-Ferrand]], [[France]]
+|February 28, 2025
+| 11
+|-
+|{{T&Fcalc|6.28}}
+|[[Stockholm]], [[Sweden]]
+|[[2025 BAUHAUS-galan|June 15, 2025]]<ref>{{cite web|title=Men's Pole Vault Results|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/STOCKHOLM_2025/PDF_ATHMPLEVAULTDIAMOND---FNL-000100--_C73G2.PDF?h=TRUTlMvX9nERs1wVQBt14Q1q+Ezc+6R74FxXgiM5JUI=|website=swisstiming.com|date=15 June 2025|access-date=24 June 2025}}</ref>
+| 12
+|-
+|{{T&Fcalc|6.29}}
+|[[Budapest]], [[Hungary]]
+|[[Istvan Gyulai Memorial|August 12, 2025]]<ref>{{cite web|title=Mondo Duplantis raises his pole vault world record to 6.29 meters in Budapest|url=https://apnews.com/article/duplantis-world-record-pole-vault-c413d9cc454f808eaa0abd656733b839|date=12 August 2025|access-date=12 August 2025}}</ref>
+| 13
+|-
+|6.30 m (20 ft 8 in)
+|[[Tokyo]], Japan
+|[[2025 World Athletics Championships – Men's pole vault|September 15, 2025]]<ref>[https://www.theguardian.com/sport/live/2025/sep/15/world-athletics-championships-2025-armand-duplantis-goes-for-pole-vault-gold-hurdles-finals-and-more-live#block-68c818f68f086519d3272908 World Athletics Championships 2025: Duplantis soars to pole vault gold and new world record – live] The Guardian</ref>
+| 14
+|-
+|{{T&Fcalc|6.31}} {{AthAbbr|i}}
+|[[Uppsala]], Sweden
+|March 12th, 2026<ref>{{Cite web |title=FLASH: Duplantis breaks world pole vault record in Uppsala {{!}} REPORTS {{!}} World Athletics |url=https://worldathletics.org/competitions/world-athletics-indoor-tour/news/duplantis-breaks-world-pole-vault-record-in-uppsala |access-date=2026-03-12 |website=worldathletics.org}}</ref>
+|15
+|-
+| colspan = "6" | '''Notes:'''<br/>{{notelist}}
+|}
+
+== See also ==
+* [[Men's pole vault indoor world record progression]]
+* [[Women's pole vault world record progression]]
+* [[Pole vault#Six metres club|List of pole vaulters who reached 6 metres]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* {{usurped|1={{Deprecated archive|url=https://archive.today/20130112231127/http://athletix.org/?p=693|title=athletix.org data|sec=el}}}}
+* [https://web.archive.org/web/20071114184220/http://multimedia.olympic.org/pdf/en_report_92.pdf IOC data]
+* [http://trackandfield.about.com/od/worldrecords/fl/Menrsquos-Pole-Vault-World-Records.htm About]
+
+{{Athletics record progressions}}
+{{Records in athletics}}
+
+[[Category:Men's sport of athletics world record progressions|Jumping 3]]
+[[Category:Pole vault|World record men]]
+[[Category:World records in athletic jumping|Pole vault, men]]
+[[Category:Men's sport of athletics|World record pole vault]]

@@ -1,0 +1,756 @@
+{{Short description|List of world records for the mile run}}
+The [[List of world records in athletics|world record]] in the [[mile run]] is currently held by runners [[Josh Kerr (runner)|Josh Kerr]], the current men's world record holder, with a time of 3:42.66<ref>{{cite web|url=http://iaaf.org/statistics/records/gender=M/allrecords/discipline=MILE/index.html |title=International Association of Athletics Federations |publisher=IAAF |access-date=2013-10-23}}</ref> set on July 18, 2026, and [[Faith Kipyegon]], the current women's record holder, with a time of 4:07.64<ref>{{cite web|title=Mile run - women - senior - outdoor|url=https://worldathletics.org/records/all-time-toplists/middle-long/one-mile/outdoor/women/senior|publisher=World Athletics|access-date=23 July 2023}}</ref> set on June 26, 2025. Since 1976, the [[mile]] has been the only non-[[Metric system|metric]] distance recognized by World Athletics (formerly the International Association of Athletics Federations (IAAF)) for record purposes. In international competitions such as the Olympics the term "[[metric mile]]" is sometimes used to refer to a distance of 1,500 meters, which is 109.344 meters shorter than an Imperial mile,  even though four "full" laps of a 400 meter track is equal to 1,600 meters.
+
+Accurate times for the mile run (1.609344&nbsp;km) have been recorded since 1850, when the first precisely measured [[running track]]s were built.{{citation needed|date=June 2019}} Progression of the mile record accelerated in the 1930s as [[newsreel]] coverage greatly popularized the sport, making stars out of milers such as [[Jules Ladoumègue]], [[Jack Lovelock]], and [[Glenn Cunningham (runner)|Glenn Cunningham]]. In the 1940s, Swedes [[Arne Andersson]] and [[Gunder Hägg]] lowered the record to 4:01.4 while racing was curtailed during World War II in the combatant countries. After the war, [[Roger Bannister]] of the United Kingdom and [[John Landy]] of Australia vied to be the first to break the fabled [[four-minute mile]] barrier. Roger Bannister did it first on May 6, 1954, and John Landy followed 46 days later.
+
+On the women's side, the first sub-5:00 mile was achieved by the UK's [[Diane Leather]] 23 days after Bannister's first sub-4:00 mile. However, the [[International Association of Athletics Federations]] (IAAF) did not recognize women's records for the distance until 1967, when [[Anne Smith (middle-distance runner)|Anne Smith]] of the UK ran 4:37.0.<ref name="Sears2015">{{cite book|author=Edward S. Sears|title=Running Through the Ages, 2d ed.|url=https://books.google.com/books?id=UMDeCQAAQBAJ&pg=PA261|date=8 June 2015|publisher=McFarland|isbn=978-1-4766-2086-2|pages=261–}}</ref>
+
+== Men ==
+<timeline>
+#>
+The chart is clipped at 3:20 (200 seconds), and magnified by 3 (three pixels height equal 1 second)
+<#
+ImageSize  = width:700 height:300 # The width can be changed without much harm (remember to change the PlotArea below too)
+PlotArea   = width:650 height:280 left:25 bottom:20
+
+DateFormat = dd/mm/yyyy
+Period     = from:1850 till:2026
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1850
+
+Colors=
+  id:grid value: gray(0.5)
+
+LineData=
+  width: 0.1
+  color: grid
+  from: start till: end atpos: 30
+  from: start till: end atpos: 60
+  from: start till: end atpos: 90
+  from: start till: end atpos: 120
+  from: start till: end atpos: 150
+  from: start till: end atpos: 180
+  from: start till: 01/01/1960 atpos: 210
+  from: start till: 01/01/1960 atpos: 240
+  from: start till: end atpos: 270
+TextData=
+  pos:(0,30) text: "3:30"
+  pos:(0,60) text: "3:40"
+  pos:(0,90) text: "3:50"
+  pos:(0,120) text: "4:00"
+  pos:(0,150) text: "4:10"
+  pos:(0,180) text: "4:20"
+  pos:(0,210) text: "4:30"
+  pos:(0,240) text: "4:40"
+  pos:(0,270) text: "4:50"
+
+TextData=
+  fontsize: M
+  pos:(520,250)  textcolor: blue text: Amateurs
+  pos:(520,220)  textcolor: red text: Professionals
+  pos:(520,190)  textcolor: orange text: IAAF
+
+LineData=
+  width: 0.2
+  color: red
+  at: 26/07/1852 tillpos: 204
+  at: 28/09/1857 tillpos: 204
+  at: 12/07/1858 tillpos: 189
+  at: 27/10/1860 tillpos: 186.75
+  at: 11/07/1863 tillpos: 185.25
+  at: 23/04/1864 tillpos: 181.5
+  at: 19/08/1865 tillpos: 171.75
+  at: 19/08/1865 tillpos: 171.75
+  at: 14/05/1881 tillpos: 168.6
+  at: 23/08/1886 tillpos: 158.25
+
+LineData=
+  width: 0.2
+  color: blue
+  at: 02/09/1852 tillpos: 276.0
+  at: 03/11/1858 tillpos: 255.0
+  at: 15/11/1858 tillpos: 255.0
+  at: 24/11/1859 tillpos: 240.0
+  at: 23/05/1862 tillpos: 219.0
+  at: 10/03/1868 tillpos: 208.8
+  at: 03/04/1868 tillpos: 206.4
+  at: 31/03/1873 tillpos: 205.8
+  at: 30/05/1874 tillpos: 198.0
+  at: 19/06/1875 tillpos: 193.5
+  at: 16/08/1880 tillpos: 189.6
+  at: 03/06/1882 tillpos: 178.2
+  at: 21/06/1884 tillpos: 175.2
+  at: 26/08/1893 tillpos: 173.4
+  at: 06/07/1895 tillpos: 171.0
+  at: 28/08/1895 tillpos: 166.8
+  at: 27/05/1911 tillpos: 154.2
+LineData=
+  width: 0.2
+  color: orange
+  at: 31/05/1913 tillpos: 163.2
+  at: 16/07/1915 tillpos: 157.8
+  at: 23/08/1923 tillpos: 151.2
+  at: 04/10/1931 tillpos: 147.6
+  at: 15/07/1933 tillpos: 142.8
+  at: 16/06/1934 tillpos: 140.4
+  at: 28/08/1937 tillpos: 139.2
+  at: 01/07/1942 tillpos: 138.6
+  at: 10/07/1942 tillpos: 138.6
+  at: 04/09/1942 tillpos: 133.8
+  at: 01/07/1943 tillpos: 127.8
+  at: 18/07/1944 tillpos: 124.8
+  at: 17/07/1945 tillpos: 124.2
+  at: 06/05/1954 tillpos: 118.2
+  at: 21/06/1954 tillpos: 114.0
+  at: 19/07/1957 tillpos: 111.6
+  at: 06/08/1958 tillpos: 103.5
+  at: 27/01/1962 tillpos: 103.2
+  at: 17/11/1964 tillpos: 102.3
+  at: 09/06/1965 tillpos: 100.8
+  at: 17/07/1966 tillpos: 93.9
+  at: 23/06/1967 tillpos: 93.3
+  at: 17/05/1975 tillpos: 93.0
+  at: 12/08/1975 tillpos: 88.2
+  at: 17/07/1979 tillpos: 87.0
+  at: 01/07/1980 tillpos: 86.4
+  at: 19/08/1981 tillpos: 85.59
+  at: 26/08/1981 tillpos: 85.2
+  at: 28/08/1981 tillpos: 81.99
+  at: 27/07/1985 tillpos: 78.96
+  at: 05/09/1993 tillpos: 73.17
+  at: 07/07/1999 tillpos: 69.39
+  at: 18/07/2026 tillpos: 67.98
+
+</timeline>
+
+=== Pre-IAAF ===
+
+=== Professionals ===
+
+{| class="wikitable"
+|-
+!Time !!Athlete !!Nationality !!Date !!Venue
+|-
+|'''4:28'''|| [[Charles Westhall]]|| {{GBR}} || 26 July 1855|| [[London]] 
+|-
+|'''4:28'''|| [[Thomas Horspool]] || {{GBR}} || 28 September 1857 || [[Manchester]]
+|-
+|'''4:23'''|| Thomas Horspool || {{GBR}} || 12 July 1858|| Manchester 
+|-
+|'''4:22{{frac|1|4}}'''|| [[Siah Albison]] || {{GBR}} || 27 October 1860|| Manchester
+|-
+|'''4:21{{frac|3|4}}'''|| [[William Lang (British athlete)|William Lang]]|| {{GBR}} || 11 July 1863 || Manchester
+|-
+|'''4:20{{frac|1|2}}'''|| Edward Mills|| {{GBR}} || 23 April 1864 || Manchester
+|-
+|'''4:20'''|| Edward Mills|| {{GBR}} || 25 June 1864|| Manchester 
+|-
+|'''4:17{{frac|1|4}}'''|| William Lang|| {{GBR}} || 19 August 1865|| Manchester 
+|-
+|'''4:17{{frac|1|4}}'''|| William Richards|| {{GBR}} || 19 August 1865|| Manchester
+|-
+|'''4:16{{frac|1|5}}'''|| [[William Cummings (athlete)|William Cummings]] || {{GBR}} || 14 May 1881|| Preston
+|-
+|'''4:12{{frac|3|4}}'''|| [[Walter George (athlete)|Walter George]]|| {{GBR}} || 23 August 1886|| London 
+|}
+
+=== Amateurs ===
+
+{| class="wikitable"
+|-
+!Time !!Athlete !!Nationality !!Date !!Venue
+|-
+|'''4:55'''|| [[J. Heaviside]]|| {{GBR|1801}} || 1 April 1861|| [[Dublin]]
+|-
+|'''4:49'''|| J. Heaviside || {{GBR|1801}} || 27 May 1861|| Dublin 
+|-
+|'''4:46'''|| [[Matthew Greene]]|| {{GBR|1801}} || 27 May 1861|| Dublin 
+|-
+|'''4:33'''|| [[George Farran]]|| {{GBR|1801}} || 23 May 1862|| Dublin 
+|-
+|'''4:29{{frac|3|5}}'''|| [[Walter Chinnery]]|| {{GBR|1801}} || 10 March 1868|| London
+ 
+|-
+|'''4:28{{frac|4|5}}'''|| [[Walter Gibbs]]|| {{GBR|1801}} || 3 April 1868|| London 
+|-
+|'''4:28{{frac|3|5}}'''|| [[Charles Gunton]]|| {{GBR|1801}} || 31 March 1873|| London 
+|-
+|'''4:26{{frac|0|5}}'''|| [[Walter Slade]] || {{GBR|1801}} || 30 May 1874 || London
+|-
+|'''4:24{{frac|1|2}}'''|| Walter Slade || {{GBR|1801}} || 1 June 1875|| London 
+|-
+|'''4:23{{frac|1|5}}'''|| Walter George || {{GBR|1801}} || 16 August 1880|| London 
+|-
+|'''4:19{{frac|2|5}}'''|| Walter George || {{GBR|1801}} || 3 June 1882|| London 
+|-
+|'''4:18{{frac|2|5}}'''|| Walter George || {{GBR|1801}} || 21 June 1884|| [[Birmingham]] 
+|-
+|'''4:17{{frac|4|5}}'''|| [[Thomas Conneff]] || {{GBR|1801}} || 26 August 1893|| [[Cambridge, Massachusetts|Cambridge]]
+|-
+|'''4:17{{frac|0|5}}'''|| [[Fred Bacon]] || {{GBR|1801}} || 6 July 1895|| London 
+|-
+|'''4:15{{frac|3|5}}'''|| Thomas Conneff || {{GBR|1801}} || 28 August 1895|| [[New York City]]
+|-
+|'''4:15{{frac|2|5}}'''|| [[John Paul Jones (athlete)|John Paul Jones]] || {{Flag|United States|1908}}|| 27 May 1911|| [[Cambridge, Massachusetts|Cambridge]]
+|}
+
+As there was no recognized official sanctioning body until 1912, there are several versions of the mile progression before that year. One version starts with Richard Webster (GBR) who ran 4:36.5 in 1865, surpassed by Chinnery in 1868.<ref>{{cite web|url=http://www.berkshiresports.org/index.php?ID=milerecordprogression |title=World Mile Record Progression |publisher=Berkshire Sports |access-date=2011-09-04}}</ref>
+
+Another variation of the amateur record progression pre-1862 is as follows:<ref>{{cite web|url=http://www.stat.colostate.edu/~jah/teach/st540/data/mile.info |title=Progression of world record times for males |work=sta.colostate.edu |access-date=2012-08-15}}</ref>
+
+{| class="wikitable"
+|-
+!Time !!Athlete !!Nationality !!Date !!Venue
+|-
+|'''4:52'''|| [[Cadet Marshall]]|| {{GBR|1801}} || 2 September 1852|| Addiscombe 
+|-
+|'''4:45'''|| [[Thomas Finch (runner)|Thomas Finch]]|| {{GBR|1801}} || 3 November 1858|| Oxford 
+|-
+|'''4:45'''|| [[St. Vincent Hammick]]|| {{GBR|1801}} || 15 November 1858|| Oxford 
+|-
+|'''4:40'''|| [[Gerald Surman]]|| {{GBR|1801}} || 24 November 1859|| Oxford 
+|-
+|'''4:33'''|| [[George Farran]]|| {{GBR|1801}} || 23 May 1862|| Dublin 
+|}
+
+=== IAAF / World Athletics era ===
+The first [[world record]] in the mile for men ([[athletics (sport)|athletics]]) was recognized by the International Amateur Athletics Federation (later known as the International Association of Athletics Federations and currently known as [[World Athletics]]) in 1913.
+
+To June 21, 2009, the IAAF has ratified 32 world records in the event.<ref name=iaaf>
+{{cite web
+ |title       = 12th IAAF World Championships In Athletics: IAAF Statistics Handbook. Berlin 2009.
+ |url         = http://www.iaaf.org/mm/document/competitions/competition/05/15/63/20090706014834_httppostedfile_p345-688_11303.pdf
+ |publisher   = IAAF Media & Public Relations Department
+ |location    = Monte Carlo
+ |pages       = Pages 546, 549–50
+ |year        = 2009
+ |access-date  = August 4, 2009
+ |archive-url  = https://web.archive.org/web/20110629134819/http://www.iaaf.org/mm/document/competitions/competition/05/15/63/20090706014834_httppostedfile_p345-688_11303.pdf 
+ |archive-date=June 29, 2011
+ }}
+</ref>
+
+{| class="wikitable" style="text-align: left;"
+|-
+| style="width:10px;"| || Ratified
+|-
+| style="width:10px; background:#fef6e7;"| || Not ratified
+|-
+| style="width:10px; background:#fee7e6;"| || Ratified but later rescinded
+|-
+| style="width:10px; background:#cef6f5;"| || Pending ratification
+|}
+
+{| class="wikitable"
+|-
+!Time !!Auto !!Athlete !!Nationality !!Date !!Venue
+|-
+|'''4:14.4'''|| || [[John Paul Jones (athlete)|John Paul Jones]] || {{Flag|United States|1912}}|| 31 May 1913<ref name=iaaf/> || Allston, Mass. 
+|-
+|'''4:12.6'''|| || [[Norman Taber]] || {{Flag|United States|1912}}|| 16 July 1915<ref name=iaaf/>|| Allston, Mass. 
+|-
+|'''4:10.4'''|| || [[Paavo Nurmi]] || {{FIN}} || 23 August 1923<ref name=iaaf/>|| [[Stockholm]] 
+|-
+|'''4:09.2'''|| || [[Jules Ladoumègue]] || {{FRA}} || 4 October 1931<ref name=iaaf/>|| Paris 
+|-
+|'''4:07.6'''|| || [[Jack Lovelock]] || {{NZL}} || 15 July 1933<ref name=iaaf/><ref name=epchal>{{cite news |url=https://news.google.com/newspapers?id=53AbAAAAIBAJ&sjid=cksEAAAAIBAJ&pg=5029%2C1280308 |work=Pittsburgh Press |agency=United Press |last=McLemore |first=Henry |title=Epochal run breaks mark |date=July 16, 1933 |page=1, sports}}</ref> || [[Palmer Stadium|Princeton, N.J.]]
+|-
+|'''4:06.8'''|| || [[Glenn Cunningham (runner)|Glenn Cunningham]] || {{Flag|United States|1912}}|| 16 June 1934<ref name=iaaf/><ref name=sethm>{{cite news |url=https://news.google.com/newspapers?id=S-QcAAAAIBAJ&sjid=No4EAAAAIBAJ&pg=5399%2C4684094 |work=Pittsburgh Press |agency=United Press |title=Cunningham and Eastman set world's records in mile, half-mile |date=June 17, 1934 |page=1, sports}}</ref> || Princeton, N.J.
+|-
+|'''4:06.4'''|| || [[Sydney Wooderson]] || {{GBR2}} || 28 August 1937<ref name=iaaf/><ref name=mrecmk>{{cite news |url=https://news.google.com/newspapers?id=_MoaAAAAIBAJ&sjid=EkwEAAAAIBAJ&pg=2250%2C829515 |work=Pittsburgh Press |agency=United Press |title=Wooderson cracks mile record mark |date=August 29, 1937 |page=1, sports}}</ref> || [[Motspur Park]] 
+|-
+|'''4:06.2'''|| || [[Gunder Hägg]] || {{SWE}} || 1 July 1942<ref name=iaaf/>|| Gothenburg
+|-
+|'''4:06.2'''|| || [[Arne Andersson]] || {{SWE}} || 10 July 1942<ref name=iaaf/>|| Stockholm 
+|-
+|'''4:04.6'''|| || Gunder Hägg (2) || {{SWE}} || 4 September 1942<ref name=iaaf/>|| Stockholm 
+|-
+|'''4:02.6'''|| || Arne Andersson (2)|| {{SWE}} || 1 July 1943<ref name=iaaf/>|| Gothenburg 
+|-
+|'''4:01.6'''|| || Arne Andersson (3) || {{SWE}} || 18 July 1944<ref name=iaaf/>|| [[Malmö IP|Malmö]] 
+|-
+|'''4:01.4'''|| || Gunder Hägg (3) || {{SWE}} || 17 July 1945<ref name=iaaf/>|| Malmö 
+|- 
+|'''3:59.4'''|| || [[Roger Bannister]] || {{GBR2}} || 6 May 1954<ref name=iaaf/><ref name=rgrbnppg>{{cite news |url=https://news.google.com/newspapers?id=tX5IAAAAIBAJ&sjid=5GoDAAAAIBAJ&pg=3296%2C1589926 |work=Pittsburgh Post-Gazette |agency=Associated Press |title=4-minute mile cracked by British speedster |date= 7 May 1954 |page=1}}</ref>|| [[Roger Bannister running track|Oxford]] 
+|-
+|'''3:58.0'''|| || [[John Landy]] || {{AUS}} || 21 June 1954<ref name=iaaf/><ref name=lcminfe>{{cite news |url=https://news.google.com/newspapers?id=oZspAAAAIBAJ&sjid=TOYDAAAAIBAJ&pg=1041%2C4074678 |work=Spokesman-Review |location=Spokane, Washington |agency=Associated Press |last=Haeggblom |first=Stig |title=Landy cracks mark in 3:58 |date=June 22, 1954 |page=14}}</ref> || [[Paavo Nurmi Stadium|Turku]]
+|-
+|'''3:57.2'''|| || [[Derek Ibbotson]] || {{GBR2}} || 19 July 1957<ref name=iaaf/><ref name=wmrfibb>{{cite news |url=https://news.google.com/newspapers?id=AX1AAAAAIBAJ&sjid=rKMMAAAAIBAJ&pg=5114%2C2484081 |work=Glasgow Herald |title=World mile record for Ibbotson |date=July 20, 1957 |page=5}}</ref><ref name=hwfst>{{cite news |url=https://news.google.com/newspapers?id=JflVAAAAIBAJ&sjid=sOIDAAAAIBAJ&pg=6861%2C2838182 |work=Eugene Register-Guard |location=Oregon |agency=Associated Press |title=World wondering how fast a man can run a mile |date=July 20, 1957 |page=7}}</ref> || [[White City Stadium|London]] 
+|-
+|'''3:54.5'''|| || [[Herb Elliott]] || {{AUS}} || 6 August 1958<ref name=iaaf/><ref name=glsgher>{{cite news |url=https://news.google.com/newspapers?id=nxY1AAAAIBAJ&sjid=-qULAAAAIBAJ&pg=5950%2C4084097 |work=Glasgow Herald |title=Australian runner's mile record |date=August 7, 1958 |page=5}}</ref><ref name=wrdmi>{{cite news |url=https://news.google.com/newspapers?id=-PVVAAAAIBAJ&sjid=fuIDAAAAIBAJ&pg=6635%2C818241 |work=Eugene Register-Guard |location=Oregon |agency=Associated Press |title=Herb Elliott runs 3:54.5 world record mile |date=August 6, 1958 |page=3B}}</ref> || [[Morton Stadium|Dublin]]
+|-
+|'''3:54.4'''|| || [[Peter Snell]] || {{NZL}} || 27 January 1962<ref name=iaaf/><ref name=crcks>{{cite news |url=https://news.google.com/newspapers?id=2PpVAAAAIBAJ&sjid=z-IDAAAAIBAJ&pg=6793%2C4282218 |work=Eugene Register-Guard |location=Oregon |agency=Associated Press |title=Snell cracks Elloitt's mile record with clocking of 3:54.4 on grass |date=January 28, 1962 |page=1B}}</ref> || [[Cooks Gardens|Wanganui]] 
+|-
+|'''3:54.1'''|| 3:54.04 || Peter Snell (2) || {{NZL}} || 17 November 1964<ref name=iaaf/><ref>{{cite news |url=https://news.google.com/newspapers?id=SP1VAAAAIBAJ&sjid=9-IDAAAAIBAJ&pg=6094%2C3357303 |work=Eugene Register-Guard |location=Oregon |agency=Associated Press |title=Snell snaps his own mile mark with 3:54.1 clocking |date=November 17, 1964 |page=3B}}</ref> || [[Western Springs Stadium|Auckland]] 
+|-
+|'''3:53.6'''|| || [[Michel Jazy]] || {{FRA}} || 9 June 1965<ref name=iaaf/><ref name=trmles>{{cite news |url=https://news.google.com/newspapers?id=DvxVAAAAIBAJ&sjid=NuMDAAAAIBAJ&pg=5659%2C2109310 |work=Eugene Register-Guard |location=Oregon |agency=Associated Press |title=The record miles – and now 3:53.6! |date=June 10, 1965 |page=1D}}</ref> || [[Rennes]] 
+|-
+|'''3:51.3'''|| || [[Jim Ryun]] || {{USA}} || 17 July 1966<ref name=iaaf/><ref name=phrwmm>{{cite news |url=https://news.google.com/newspapers?id=DudVAAAAIBAJ&sjid=UOEDAAAAIBAJ&pg=5470%2C3735494 |work=Eugene Register-Guard |location=Oregon |agency=Associated Press |title=Poles help Ryun with mile mark|date=July 18, 1966 |page=2B}}</ref><ref name=thrku>{{cite news |url=https://news.google.com/newspapers?id=a81TAAAAIBAJ&sjid=nTgNAAAAIBAJ&pg=5022%2C1662238 |work=Lawrence Journal-World |location=Kansas |last=Engel |first=Lou |title=Ryun's record performance thrills KU trach coaches |date=July 18, 1966 |page=10}}</ref>|| [[Edwards Stadium|Berkeley, Cal.]] 
+|-
+|'''3:51.1'''|| || Jim Ryun (2) || {{USA}} || 23 June 1967<ref name=iaaf/><ref name=chptr>{{cite news |url=https://news.google.com/newspapers?id=0MxTAAAAIBAJ&sjid=yDgNAAAAIBAJ&pg=7191%2C6140153 |work=Lawrence Journal-World |location=Kansas |agency=Associated Press |title=Ryun writes 3:51.1 chapter to mile story |date=June 24, 1967 |page=10}}</ref> || [[1967 USA Outdoor Track and Field Championships|Bakersfield, Cal.]] 
+|-
+|'''3:51.0'''|| || [[Filbert Bayi]] || {{TAN}} || 17 May 1975<ref name=iaaf/><ref name=lmmk>{{cite news |url=https://news.google.com/newspapers?id=CtZVAAAAIBAJ&sjid=_dcDAAAAIBAJ&pg=6471%2C4726005 |work=Eugene Register-Guard |location=Oregon |agency=Associated Press |title=Bayi lowers mile mark to 3:51 |date=May 18, 1975 |page=1B}}</ref> || [[Independence Park (Jamaica)|Kingston]] 
+|-
+|'''3:49.4'''|| || [[John Walker (runner)|John Walker]] || {{NZL}} || 12 August 1975<ref name=iaaf/><ref name=wprfrc>{{cite news |url=https://news.google.com/newspapers?id=ZK1VAAAAIBAJ&sjid=J-ADAAAAIBAJ&pg=2208%2C3288793 |work=Eugene Register-Guard |location=Oregon |agency=Associated Press |title=Walker's 3:49.4 "perfect race" |date=August 13, 1975 |page=1D}}</ref><ref name=wrrcm>{{cite news |url=https://news.google.com/newspapers?id=u8IxAAAAIBAJ&sjid=SuUFAAAAIBAJ&pg=6904%2C1565008 |work=Lawrence Journal-World |location=Kansas |agency=Associated Press |title=Walker runs record 3:49.4 mile |date=August 13, 1975 |page=13}}</ref>|| [[Slottsskogsvallen|Gothenburg]]
+|-
+|'''3:49.0'''|| 3:48.95 || [[Sebastian Coe]] || {{GBR2}} || 17 July 1979<ref name=iaaf/><ref name=miceair>{{cite news |url=https://news.google.com/newspapers?id=NYMyAAAAIBAJ&sjid=YucFAAAAIBAJ&pg=6706%2C3984125 |work=Lawrence Journal-World |location=Kansas |agency=Associated Press |title='Nice air' Coe's only explanation for record mile |date=July 18, 1979 |page=24}}</ref> || [[Bislett Stadium|Oslo]] 
+|-
+|'''3:48.8'''|| || [[Steve Ovett]] || {{GBR2}} || 1 July 1980<ref name=iaaf/><ref name=lwovt>{{cite news |url=https://news.google.com/newspapers?id=MAtWAAAAIBAJ&sjid=7eEDAAAAIBAJ&pg=4640%2C473065|work=Eugene Register-Guard |location=Oregon |agency=wire service reports |title=Coe loses world mile record to Ovett |date=July 2, 1980 |page=1D}}</ref> || Oslo 
+|-
+|'''3:48.53'''|| || Sebastian Coe (2) || {{GBR2}} || 19 August 1981<ref name=iaaf/><ref name=conehmi>{{cite news |url=https://news.google.com/newspapers?id=wB1OAAAAIBAJ&sjid=UBMEAAAAIBAJ&pg=3286%2C4266549 |work=Wilmington Morning Star |location=North Carolina |agency=Associated Press |title=Coe, Nehemiah set records |date=August 20, 1981 |page=1D}}</ref>|| [[Weltklasse Zürich|Zürich]] 
+|-
+|'''3:48.40'''|| || Steve Ovett (2) || {{GBR2}} || 26 August 1981<ref name=iaaf/><ref name=snaprno>{{cite news |url=https://news.google.com/newspapers?id=QhVWAAAAIBAJ&sjid=VeIDAAAAIBAJ&pg=6022%2C7552088 |work=Eugene Register-Guard |location=Oregon |agency=wire service reports |title=Ovett snaps mile record; Rono's back |date=August 27, 1981 |page=1C}}</ref> || [[Koblenz]] 
+|-
+|'''3:47.33'''|| || Sebastian Coe (3) || {{GBR2}} || 28 August 1981<ref name=iaaf/><ref name=ctrmmo>{{cite news |url=https://news.google.com/newspapers?id=Z0tOAAAAIBAJ&sjid=du4DAAAAIBAJ&pg=5395%2C5885774 |work=Spokesman-Review |location=Spokane, Washington |agency=Associated Press |title=Coe trims mile mark once again |date=August 29, 1981 |page=17}}</ref>|| [[King Baudouin Stadium|Brussels]]
+|-
+|'''3:46.32'''|| || [[Steve Cram]] || {{GBR2}} || 27 July 1985<ref name=iaaf/><ref name=thwtrec>{{cite news |url=https://news.google.com/newspapers?id=YO5VAAAAIBAJ&sjid=g-EDAAAAIBAJ&pg=6896%2C6326264 |work=Eugene Register-Guard |location=Oregon |agency=Associated Press |title=Three world track records fall at Oslo |date=July 28, 1985 |page=1B}}</ref>|| Oslo 
+|-
+|'''3:44.39'''|| || [[Noureddine Morceli]] || {{ALG}} || 5 September 1993<ref name=iaaf/><ref name=shttrti>{{cite news |url=https://news.google.com/newspapers?id=XEZWAAAAIBAJ&sjid=duoDAAAAIBAJ&pg=6366%2C1419378 |work=Eugene Register-Guard |location=Oregon |agency=Associated Press |title=Morceli shatters mile record |date=September 6, 1993 |page=1D}}</ref> || [[Rieti Meeting|Rieti]] 
+|-
+|'''3:43.13'''|| || [[Hicham El Guerrouj]] || {{MAR}} || 7 July 1999<ref name=iaaf/><ref name=miractrk>{{cite news |url=https://news.google.com/newspapers?id=UlNWAAAAIBAJ&sjid=vesDAAAAIBAJ&pg=6139%2C1966413 |work=Eugene Register-Guard |location=Oregon |agency=Associated Press |title=El Guerrouj breaks mile mark on 'miracle track'|date=July 8, 1999 |page=1D}}</ref> || [[Golden Gala|Rome]]
+|- bgcolor="#cef6f5"
+|'''3:42.66'''|| || [[Josh Kerr (runner)|Josh Kerr]] || {{GBR2}} || 18 July 2026<ref>{{Cite web |title=Kerr breaks world mile record with 3:42.66 in London {{!}} REPORTS {{!}} World Athletics |url=https://worldathletics.org/competitions/diamond-league/news/london-athletics-meet-2026-josh-kerr-world-mile-record |access-date=2026-07-18 |website=worldathletics.org}}</ref>|| [[London Athletics Meet|London]]
+|}
+
+The "Time" column indicates the ratified mark; the "Auto" column indicates a fully automatic time that was also recorded in the event when hand-timed marks were used for official records, or which was the basis for the official mark, rounded to the 10th of a second, depending on the rules then in place.
+
+Records for the mile were rounded up to the nearest tenth of a second commencing January 1, 1957. Previously, records were rounded up to the nearest fifth of a second. Those rounded-up marks were: Cunningham's 4:06.8 (timed at 4:06.7); Hägg's 4:06.2 (4:06.1); Hägg's 4:01.4 (4:01.3); Landy's 3:58.0 (3:57.9). Landy's mark was not retroactively adjusted when the new rule came into effect.<ref name="wrp">{{cite web |url=http://iaaf-ebooks.s3.amazonaws.com/2015/Progression-of-IAAF-World-Records-2015/projet/IAAF-WRPB-2015.pdf |title=IAAF World Records Progression |edition=2015 |author1=Hymans, Richard |author2=Matrahazi, Imre |publisher=[[International Association of Athletics Federations]] |access-date=November 6, 2017}}</ref>{{rp|vii; 69–70}} Auto times to the hundredth of a second were accepted by the IAAF for events up to and including 10,000 m beginning in 1981.<ref name=iaaf/>
+
+During the world record-setting race in 1999, [[Noah Ngeny]] came in second place to Hicham El Guerrouj with a time of 3:43.40, which stood as the second fastest mile in history until the new record was set by Josh Kerr in July 2026.<ref>{{Citation |title=Hicham El Guerrouj sets a world record in the mile |url=https://www.youtube.com/watch?v=XvCsj7eJKKA |language=en |work=www.youtube.com |access-date=2023-02-27}}</ref>
+
+== Men's indoor ==
+
+=== Men indoor pre-IAAF ===
+{| class="wikitable"
+|-
+!Time !!Auto !!Athlete !!Nationality !!Date !!Venue
+|-
+|'''4:39.2'''|| || [[Lawrence Myers]] || {{Flag|United States|1877}}||  April 25, 1885 || [[New York City|New York]], N.Y.
+|-
+|'''4:39.2'''|| || [[Ernest Hjertberg]]|| {{Flag|United States|1877}}|| May 10, 1889 || [[New York City|New York]], N.Y.
+|-
+|'''4:31.4'''|| || [[William Day (athlete)|William Day]]|| {{Flag|United States|1877}}||  February 5, 1890 || [[Brooklyn]], N.Y.
+|-
+|'''4:28.4'''|| || [[Ernest Hjertberg]]|| {{Flag|United States|1891}}||  February 13, 1892 || [[Boston]], Mass.
+|-
+|'''4:26.0'''|| || [[Andrew Walsh (athlete)|Andrew Walsh]]|| {{Flag|United States|1896}}||  November 30, 1895 || [[Brooklyn]], N.Y.
+|-
+|'''4:25.2'''|| || [[Melvin Sheppard]] || {{Flag|United States|1896}}||  January 26, 1906 || [[New York City|New York]], N.Y.
+|-
+|'''4:23.8'''|| || [[Melvin Sheppard]] || {{Flag|United States|1896}}||  March 30, 1906 || [[New York City|New York]], N.Y.
+|-
+|'''4:19.8'''|| || [[Herbert Trube]] || {{Flag|United States|1908}}||  February 13, 1909 || [[New York City|New York]], N.Y.
+|-
+|'''4:19.8'''|| || [[Oscar Hedlund]] || {{Flag|United States|1908}}||  February 22, 1912 || [[Troy, New York|Troy]], N.Y.
+|-
+|'''4:18.8'''|| || [[Oscar Hedlund]] || {{Flag|United States|1912}}||  February 12, 1913 || [[New York City|New York]], N.Y.
+|-
+|'''4:18.2'''|| || [[Abel Kiviat]] || {{Flag|United States|1912}}||  February 15, 1913 || [[New York City|New York]], N.Y.
+|-
+|'''4:16.0'''|| || [[John W. Overton|John Overton]] || {{Flag|United States|1912}}||  March 10, 1917 || [[Philadelphia]], Pa.
+|-
+|'''4:14.6'''|| || [[Joie Ray (athlete)|Joseph Ray]] || {{Flag|United States|1912}}|| April 12, 1919 || [[Chicago]], Ill.
+|-
+|'''4:13.6'''|| || [[Paavo Nurmi]] || {{FIN}} ||  January 6, 1925 || [[New York City|New York]], N.Y.
+|-
+|'''4:13.4'''|| || [[Lloyd Hahn]] || {{Flag|United States|1912}}||  February 14, 1925 || [[New York City|New York]], N.Y.
+|-
+|'''4:12.0'''|| || [[Paavo Nurmi]] || {{FIN}} ||  March 7, 1925 || [[Buffalo, New York|Buffalo]], N.Y.
+|-
+|'''4:12.0'''|| || [[Joie Ray (athlete)|Joseph Ray]] || {{Flag|United States|1912}}||  March 17, 1925 || [[New York City|New York]], N.Y.
+|-
+|'''4:11.2'''|| || [[Gene Venzke]] || {{Flag|United States|1912}}||  February 6, 1932 || [[New York City|New York]], N.Y.
+|-
+|'''4:10.0'''|| || [[Gene Venzke]] || {{Flag|United States|1912}}||  February 17, 1932 || [[New York City|New York]], N.Y.
+|-
+|'''4:09.8'''|| || [[Glenn Cunningham (athlete)|Glenn Cunningham]] || {{Flag|United States|1912}}||  March 25, 1933 || [[Chicago]], Ill.
+|-
+|'''4:08.4'''|| || [[Glenn Cunningham (athlete)|Glenn Cunningham]] || {{Flag|United States|1912}}||  March 17, 1934 || [[New York City|New York]], N.Y.
+|-bgcolor=pink
+|colspan=2|'''4:04.4''' {{AthAbbr|OT}} || [[Glenn Cunningham (runner)|Glenn Cunningham]] || {{Flag|United States|1912}}|| March 3, 1938<ref name=iaaf/>|| [[Hanover, New Hampshire|Hanover]], N.H.
+|-
+|'''4:07.4'''|| || [[Glenn Cunningham (athlete)|Glenn Cunningham]] || {{Flag|United States|1912}}||  March 12, 1938 || [[New York City|New York]], N.Y.
+|-
+|'''4:07.4'''|| || [[Charles Fenske]]|| {{Flag|United States|1912}}||  February 3, 1940 || [[New York City|New York]], N.Y.
+|-
+|'''4:07.4'''|| || [[Charles Fenske]]|| {{Flag|United States|1912}}||  February 17, 1940 || [[New York City|New York]], N.Y.
+|-
+|'''4:07.4'''|| || [[Leslie MacMitchell]] || {{Flag|United States|1912}}||  February 15, 1941 || [[New York City|New York]], N.Y.
+|-
+|'''4:07.4'''|| || [[Walter Mehl]]|| {{Flag|United States|1912}}||  February 15, 1941 || [[New York City|New York]], N.Y.
+|-
+|'''4:07.3'''|| || [[Gilbert Dodds]] || {{Flag|United States|1912}}||  March 11, 1944 || [[New York City|New York]], N.Y.
+|-
+|'''4:06.4'''|| || [[Gilbert Dodds]] || {{Flag|United States|1912}}||  March 18, 1944 || [[Chicago]], Ill.
+|-
+|'''4:05.3'''|| || [[Gilbert Dodds]] || {{Flag|United States|1912}}||  January 31, 1948 || [[Wanamaker Mile|New York]], N.Y.
+|-
+|'''4:04.9'''|| || [[Wes Santee]] || {{Flag|United States|1912}}||  February 15, 1954 || [[East Lansing]], Mich.
+|-
+|'''4:03.8'''|| || [[Wes Santee]] || {{Flag|United States|1912}}||  January 29, 1955 || [[Boston]], Mass.
+|-
+|'''4:03.6'''|| || [[Gunnar Nielsen (athlete)|Gunnar Nielsen]] || {{DEN}} ||  February 5, 1955 || [[New York City|New York]], N.Y.
+|-
+|'''4:03.4'''|| || [[Ron Delany]] || {{IRL}} ||  March 14, 1958 || [[Chicago]], Ill.
+|-
+|'''4:02.5'''|| || [[Ron Delany]] || {{IRL}} ||  February 21, 1959 || [[New York City|New York]], N.Y.
+|-
+|'''4:01.4'''|| || [[Ron Delany]] || {{IRL}} ||  March 7, 1959 || [[New York City|New York]], N.Y.
+|-
+|'''3:58.9'''|| || [[Jim Beatty]] || {{USA}} ||  February 10, 1962 || [[Sunkist Invitational|Los Angeles]], Cal.
+|-
+|'''3:58.6'''|| || [[Jim Beatty]] || {{USA}} ||  February 15, 1963 || [[Wanamaker Mile|New York]], N.Y.
+|-
+|'''3:56.6'''|| || [[Tom O'Hara (runner)|Tom O'Hara]] || {{USA}} ||  February 13, 1964 || [[Wanamaker Mile|New York]], N.Y.
+|-
+|'''3:56.4'''|| || [[Tom O'Hara (runner)|Tom O'Hara]] || {{USA}} ||  March 6, 1964 || [[Chicago]], Ill.
+|-
+|'''3:56.4'''|| || [[Jim Ryun]] || {{USA}} ||  February 19, 1971 || [[San Diego]], Cal.
+|-
+|'''3:55.0'''|| || [[Tony Waldrop]] || {{USA}}||  February 17, 1974 || [[San Diego]], Cal.
+|-
+|'''3:55.0''' || 3:54.93|| [[Dick Buerkle]] || {{USA}} || January 13, 1978 || [[University of Maryland, College Park|College Park]], Md.
+|-
+|'''3:52.6'''|| || [[Eamonn Coghlan]] || {{IRL}} ||  February 16, 1979 || [[San Diego]], Cal.
+|-
+|'''3:50.6'''|| || [[Eamonn Coghlan]] || {{IRL}} ||  February 20, 1981 || [[San Diego]], Cal.
+|}
+
+=== Men indoor IAAF era ===
+
+The IAAF started to recognize indoor world records in 1987, with the then world's best time, Coghlan's 3:49.78, ratified as the inaugural record for the mile.<ref>{{Cite web |url=https://bringbackthemile.com/history/progressions |title = Progressions - Mile History |work=bringbackthemile.com}}</ref>
+
+{| class="wikitable"
+|-
+!Time !!Athlete !!Nationality !!Date !!Venue
+|-
+|'''3:49.78''' || [[Eamonn Coghlan]] || {{IRL}} || February 27, 1983 || [[East Rutherford]]
+|-
+|'''3:48.45''' || [[Hicham El Guerrouj]] || {{MAR}} || February 12, 1997 || [[Ghent]]
+|-
+|'''3:47.01''' || [[Yomif Kejelcha]] || {{ETH}} || March 3, 2019 || [[Boston]]
+|-
+|'''3:46.63''' || [[Yared Nuguse]] || {{USA}} || February 8, 2025 || [[New York City|New York]]
+|-
+|'''3:45.14'''
+|[[Jakob Ingebrigtsen]]
+|{{NOR}}
+|February 13, 2025
+|[[Liévin]]
+|}
+
+== Road men ==
+
+=== IAAF era ===
+The Road Mile became an official world record event after September 1, 2023, on World Athletics Certified Courses only (i.e: elevation gradient must not exceed one meter per kilometer, start and finish line must not be more than half a mile apart). Faster times have been recorded in non-compliant events such as the [[Fifth Avenue Mile]]. The winning times from the 2023 U.S. Road Mile Championships, on 25 April, were ratified by World Athletics as the inaugural road mile world records.<ref name=":0">{{Cite web |title=Ratified: world road mile records for Hiltz and Prakel {{!}} PRESS-RELEASES {{!}} World Athletics |url=https://worldathletics.org/news/press-releases/ratified-world-road-mile-records-hiltz-prakel# |access-date=2024-09-05 |website=worldathletics.org}}</ref><ref name=":1">{{Cite web |title=Stats {{!}} World Athletics {{!}} World Athletics |url=https://worldathletics.org/records/certified-roadevents |access-date=2024-09-05 |website=worldathletics.org}}</ref>
+
+'''Key:'''
+{{Legend|#cef6f5|Awaiting ratification}}
+
+''h = hand-timed''
+
+Source:<ref>{{Cite web |title=Stats {{!}} World Athletics {{!}} World Athletics |url=https://worldathletics.org/records/by-progression/217856?type=1 |access-date=2024-09-05 |website=worldathletics.org}}</ref>
+{| class="wikitable"
+|-
+!Time !!Athlete !!Nationality !!Date !!Venue !!{{Abbr|Ref.|Reference}}
+|-
+|'''4:01.21'''|| [[Sam Prakel|Samuel Prakel]] || {{USA}} ||  April 25, 2023 || [[Des Moines, Iowa|Des Moines]]
+|-
+|'''3:56.13''' || [[Hobbs Kessler]] || {{USA}} ||  October 1, 2023 || [[Riga]]
+|-
+|'''3:54.6h''' || [[Emmanuel Wanyonyi]] || {{Flag|Kenya}} ||  April 27, 2024 || [[Herzogenaurach]]
+|-
+|'''3:51.3h''' || [[Elliot Giles]] || {{GBR}} ||  September 1, 2024 || [[Düsseldorf]] || <ref>{{cite web|title=Ratified: world records for Fisher, Giles and Nuguse|url=https://worldathletics.org/news/press-releases/ratified-world-records-fisher-giles-nuguse-mehary-myers|website=World Athletics|date=21 March 2025|access-date=14 July 2025}}</ref>
+|}
+
+== Women ==
+<timeline>
+#>
+The chart is clipped at 4:00 (240 seconds), and magnified by 3 (three pixels height equal 1 second)
+<#
+ImageSize  = width:650 height:450 # The width can be changed without much harm (remember to change the PlotArea below too)
+PlotArea   = width:600 height:430 left:25 bottom:20
+
+DateFormat = dd/mm/yyyy
+Period     = from:1920 till:2025
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1920
+
+Colors=
+  id:grid value: gray(0.5)
+
+LineData=
+  width: 0.1
+  color: grid
+  from: start till: end atpos: 30
+  from: start till: end atpos: 60
+  from: start till: end atpos: 90
+  from: start till: end atpos: 120
+  from: start till: end atpos: 150
+  from: start till: end atpos: 180
+  from: start till: 01/01/1980 atpos: 210
+  from: start till: 01/01/1980 atpos: 240
+  from: start till: 01/01/1980 atpos: 270
+  from: start till: end atpos: 300
+  from: start till: end atpos: 330
+  from: start till: end atpos: 360
+  from: start till: end atpos: 390
+  from: start till: end atpos: 420
+TextData=
+  pos:(0,30) text: "4:00"
+  pos:(0,60) text: "4:10"
+  pos:(0,90) text: "4:20"
+  pos:(0,120) text: "4:30"
+  pos:(0,150) text: "4:40"
+  pos:(0,180) text: "4:50"
+  pos:(0,210) text: "5:00"
+  pos:(0,240) text: "5:10"
+  pos:(0,270) text: "5:20"
+  pos:(0,300) text: "5:30"
+  pos:(0,330) text: "5:40"  
+  pos:(0,360) text: "5:50"
+  pos:(0,390) text: "6:00"
+  pos:(0,420) text: "6:10"
+  pos:(0,450) text: "6:20"
+
+TextData=
+  fontsize: M
+  pos:(520,250)  textcolor: blue text: pre-IAAF
+  pos:(520,220)  textcolor: orange text: IAAF
+
+LineData=
+  width: 0.2
+  color: blue
+  at: 24/06/1921 tillpos: 429.6
+  at: 20/08/1932 tillpos: 292.5
+  at: 01/06/1936 tillpos: 282
+  at: 18/07/1936 tillpos: 279
+  at: 08/06/1937 tillpos: 272
+  at: 22/07/1939 tillpos: 255.9
+  at: 14/06/1952 tillpos: 243
+  at: 04/06/1953 tillpos: 239.4
+  at: 12/09/1953 tillpos: 234
+  at: 30/09/1953 tillpos: 217.8
+  at: 01/11/1953 tillpos: 210.9
+  at: 26/05/1954 tillpos: 210.6
+  at: 29/05/1954 tillpos: 208.8
+  at: 24/05/1955 tillpos: 182.4
+  at: 21/09/1955 tillpos: 165.0
+  at: 08/12/1962 tillpos: 154.2
+  at: 13/05/1967 tillpos: 147.6
+
+LineData=
+  width: 0.2
+  color: orange
+  at: 03/06/1967 tillpos: 141
+  at: 14/06/1969 tillpos: 140.4
+  at: 20/08/1971 tillpos: 135.9
+  at: 08/08/1973 tillpos: 118.5
+  at: 21/05/1977 tillpos: 101.4
+  at: 27/01/1979 tillpos: 96.3
+  at: 26/01/1980 tillpos: 95.1
+  at: 12/09/1981 tillpos: 92.67
+  at: 09/07/1982 tillpos: 84.24
+  at: 09/09/1982 tillpos: 82.32
+  at: 21/08/1985 tillpos: 80.13
+  at: 10/07/1989 tillpos: 76.83
+  at: 14/08/1996 tillpos: 67.68
+  at: 12/07/2019 tillpos: 66.99
+  at: 21/07/2023 tillpos: 52.92
+
+</timeline>
+
+=== Pre-IAAF ===
+
+{| class="wikitable"
+|-
+!Time !!Athlete !!Nationality !!Date !!Venue
+|-
+|'''6:13.2'''|| Elizabeth Atkinson || {{GBR}} || 24 June 1921 || Manchester 
+|-
+|'''5:27.5'''|| [[Ruth Christmas]] || {{GBR}} || 20 August 1932 || London 
+|-
+|'''5:24.0 '''|| [[Gladys Lunn]] || {{GBR}} || 1 June 1936 || Brentwood 
+|-
+|'''5:23.0 '''|| Gladys Lunn || {{GBR}} || 18 July 1936 || London 
+|-
+|'''5:20.8 '''|| Gladys Lunn || {{GBR}} || 8 May 1937 || Dudley 
+|-
+|'''5:17.0 '''|| Gladys Lunn || {{GBR}} || 7 August 1937 || London 
+|-
+|'''5:15.3 '''|| Evelyn Forster || {{GBR}} || 22 July 1939 || London 
+|-
+|'''5:11.0 '''|| Anne Oliver || {{GBR}} || 14 June 1952 || London 
+|-
+|'''5:09.8 '''|| Enid Harding || {{GBR}} || 4 June 1953 || London 
+|-
+|'''5:08.0 '''|| [[Anne Oliver]] || {{GBR}} || 12 September 1953 || Consett 
+|-
+|'''5:02.6 '''|| [[Diane Leather]] || {{GBR}} || 30 September 1953 || London 
+|-
+|'''5:00.3 '''|| [[Edith Treybal]]|| {{Flag|Romania|1952}}|| 1 November 1953 || Timișoara 
+|-
+|'''5:00.2 '''||[[Diane Leather]] || {{GBR}} || 26 May 1954 || Birmingham 
+|-
+|'''4:59.6 '''|| [[Diane Leather]] || {{GBR}} || 29 May 1954 || Birmingham 
+|-
+|'''4:50.8 '''|| [[Diane Leather]] || {{GBR}} || 24 May 1955 || London 
+|-
+|'''4:45.0 '''|| [[Diane Leather]] || {{GBR}} || 21 September 1955 || London 
+|-
+|'''4:41.4 '''|| [[Marise Chamberlain]] || {{NZL}} || 8 December 1962 || Perth 
+|-
+|'''4:39.2 '''|| [[Anne Smith (middle-distance runner)|Anne Smith]] || {{GBR}} || 13 May 1967 || London 
+|}
+
+=== Women's IAAF era ===
+
+The first '''[[world record]]''' in the '''mile for women''' ([[athletics (sport)|athletics]]) was recognized by the International Amateur Athletics Federation (later known as the International Association of Athletics Federations and currently known as [[International Association of Athletics Federations|World Athletics]]), in 1967. To June 21, 2009, the IAAF has ratified 13 world records in the event.<ref name=iaaf2>
+{{cite web
+ |title=12th IAAF World Championships In Athletics: IAAF Statistics Handbook. Berlin 2009. 
+ |url=http://www.iaaf.org/mm/document/competitions/competition/05/15/63/20090706014834_httppostedfile_p345-688_11303.pdf 
+ |publisher=IAAF Media & Public Relations Department 
+ |location=Monte Carlo 
+ |pages=Pages 546, 642 
+ |year=2009 
+ |access-date=August 4, 2009 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20110629134819/http://www.iaaf.org/mm/document/competitions/competition/05/15/63/20090706014834_httppostedfile_p345-688_11303.pdf 
+ |archive-date=June 29, 2011 
+}}
+</ref>
+
+{| class="wikitable"
+|-
+!Time !!Auto !!Athlete !!Nationality !!Date !!Venue
+|-
+|'''4:37.0'''|| || [[Anne Smith (middle-distance runner)|Anne Smith]] || {{GBR}} || 3 June 1967<ref name=iaaf2/> || London 
+|-
+|'''4:36.8'''|| || [[Maria Gommers]] || {{NED}} || 14 June 1969<ref name=iaaf2/> || Leicester 
+|-
+|'''4:35.3'''|| || [[Ellen Tittel]] || {{FRG}} || 20 August 1971<ref name=iaaf2/> || Sittard 
+|-
+|'''4:29.5'''|| || [[Paola Pigni]] || {{ITA}} || 8 August 1973<ref name=iaaf2/> || Viareggio 
+|-
+|'''4:23.8'''|| || [[Natalia Mărășescu]] || {{Flag|Romania|1965}}|| 21 May 1977<ref name=iaaf2/> || Bucharest 
+|-
+|'''4:22.1'''|| 4:22.09 || [[Natalia Mărășescu]] || {{Flag|Romania|1965}}|| 27 January 1979<ref name=iaaf2/>|| Auckland 
+|-
+|'''4:21.7'''|| 4:21.68 || [[Mary Slaney|Mary Decker]] || {{USA}} || 26 January 1980<ref name=iaaf2/>|| Auckland 
+|-
+|'''4:20.89'''|| || [[Lyudmila Veselkova]] || {{URS}} || 12 September 1981<ref name=iaaf2/>||  Bologna 
+|-
+|'''4:18.08'''|| ||  [[Mary Decker|Mary Decker-Tabb]] || {{USA}} || 9 July 1982<ref name=iaaf2/>|| Paris 
+|-
+|'''4:17.44'''|| ||  [[Maricica Puică]] || {{Flag|Romania|1965}}|| 9 September 1982<ref name=iaaf2/>|| Rieti 
+|-
+|'''4:16.71'''|| ||  [[Mary Decker|Mary Decker-Slaney]] || {{USA}} || 21 August 1985<ref name=iaaf2/>|| Zürich 
+|-
+|'''4:15.61'''|| ||  [[Paula Ivan]] || {{Flag|Romania|1965}}|| 10 July 1989<ref name=iaaf2/>|| Nice 
+|-
+|'''4:12.56'''|| || [[Svetlana Masterkova]] || {{RUS}} || 14 August 1996<ref name=iaaf2/>|| Zürich 
+|-
+|'''4:12.33'''||  || [[Sifan Hassan]] || {{NED}} || 12 July 2019 || Monaco
+|-
+|'''4:07.64'''||  || [[Faith Kipyegon]] || {{KEN}} || 21 July 2023<ref>{{cite web|title=Mile Run Results|url=https://livecache.sportresult.com/node/binaryData/ATH_PROD/MONACO2023/PDF_ATHW1MILE---DIAMOND---FNL-000100--_C73C1.PDF?h=4TUWNaAhaz6E9nRWFHTt/sCKsp4=/|publisher=sportresult.com|date=21 July 2023|access-date=21 July 2023}}</ref> || Monaco
+|}
+
+The "Time" column indicates the ratified mark; the "Auto" column indicates a fully automatic time that was also recorded in the event when hand-timed marks were used for official records, or which was the basis for the official mark, rounded to the 10th of a second, depending on the rules then in place.
+
+The IAAF recognized times to the hundredth of a second starting in 1981.<ref name=iaaf2/>
+
+Note:
+* Decker ran 4:17.55 indoors in Houston on 16 February 1980, but this time was rejected as a record due to an oversized track.
+* [[Natalya Artyomova]] (Soviet Union) ran 4:15.8 in Leningrad on 6 August 1984, but this time was rejected as a record due to there being no international judges.
+[[File:Women_World_Record_Times_by_Age.png|thumb|This chart showcases women's world record times and their progression by age.]]
+
+== Women's indoor ==
+
+=== Women indoor pre-IAAF ===
+{| class="wikitable"
+|-
+!Time !!Athlete !!Nationality !!Date !!Venue
+|-
+| '''5:17.2''' || [[Brenda Cook]]|| {{GBR}} ||  February 5, 1966 || [[Cosford, Shropshire|Cosford]] {{GBR}}
+|-
+| '''5:03.6''' || [[Joyce Smith]] || {{GBR}} ||  February 12, 1966 || [[Cosford, Shropshire|Cosford]] {{GBR}}
+|-
+| '''4:52.0''' || [[Doris Brown Heritage|Doris Brown]] || {{USA}} ||  February 19, 1966 || [[Vancouver, British Columbia|Vancouver]] {{CAN}}
+|-
+| '''4:40.4''' || [[Doris Brown Heritage|Doris Brown]] || {{USA}} ||  February 18, 1967 || [[Vancouver, British Columbia|Vancouver]] {{CAN}}
+|-
+| '''4:38.5''' || [[Debbie Heald]] || {{USA}} ||  March 17, 1972 || [[Richmond, Virginia|Richmond]] {{USA}}
+|-
+| '''4:35.6''' || [[Francie Larrieu]] || {{USA}} ||  February 17, 1973 || [[San Diego]] {{USA}}
+|-
+| '''4:34.6''' || [[Francie Larrieu]] || {{USA}} ||  February 2, 1974 || [[Seattle]] {{USA}}
+|-
+| '''4:29.0''' || [[Francie Larrieu]] || {{USA}} ||  February 15, 1975 || [[San Diego]] {{USA}}
+|-
+| '''4:28.5''' || [[Francie Larrieu]] || {{USA}} ||  March 3, 1975 || [[Richmond, Virginia|Richmond]] {{USA}}
+|-
+| '''4:24.6''' || [[Mary Decker]] || {{USA}} ||  January 22, 1982 || [[Los Angeles]] {{USA}}
+|-
+| '''4:21.47''' || [[Mary Decker]] || {{USA}} ||  February 12, 1982 || [[New York City|New York]] {{USA}}
+|}
+
+=== Women indoor IAAF era ===
+{| class="wikitable"
+|-
+!Time !!Athlete !!Nationality !!Date !!Venue
+|-
+|'''4:20.5'''|| [[Mary Decker]] || {{USA}} ||  February 19, 1982 || [[San Diego]] {{USA}}
+|-
+|'''4:18.86''' || [[Doina Melinte]] || {{ROU}} ||  February 13, 1988 || [[East Rutherford]] {{USA}}
+|-
+|'''4:17.14''' || [[Doina Melinte]] || {{ROU}} ||  February 9, 1990 || [[East Rutherford]] {{USA}}
+|-
+|'''4:13.31''' || [[Genzebe Dibaba]] || {{ETH}} ||  February 17, 2016 || [[Stockholm]] {{SWE}}
+|}
+
+== Road women ==
+
+=== IAAF era ===
+Note: The Road Mile became an official world record event after September 1, 2023, on World Athletics Certified Courses only (i.e: elevation gradient must not exceed one meter per kilometer, start and finish line must not be more than half a mile apart). The winning times from the 2023 U.S. Road Mile Championships, on 25 April, were ratified by World Athletics as the inaugural road mile world records.<ref name=":0" /><ref name=":1" />
+
+'''Key:'''
+{{Legend|#cef6f5|Awaiting ratification}}
+
+''Wo = Women Only Race''
+
+Source:<ref>{{Cite web |title=Stats {{!}} World Athletics {{!}} World Athletics |url=https://worldathletics.org/records/by-progression/218811?type=1 |access-date=2024-09-05 |website=worldathletics.org}}</ref>
+{| class="wikitable"
+|-
+!Time !!Athlete !!Nationality !!Date !!Venue
+|-
+|'''4:27.97 Wo'''|| [[Nikki Hiltz]] || {{USA}} ||  April 25, 2023 || [[Des Moines, Iowa|Des Moines]]
+|-
+|'''4:20.98 Wo''' || [[Diribe Welteji|Deribe Welteji]] || {{ETH}} ||  October 1, 2023 || [[Riga]]
+|}
+
+== See also ==
+* [[1500 metres world record progression]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* {{Cite book |last=Bascomb |first=Neil |year=2004 |title=The Perfect Mile: Three Athletes, One Goal, and Less than Four Minutes to Achieve It |url=https://archive.org/details/perfectmilethree0000basc |url-access=registration |location=London |publisher=CollinsWillow |isbn=978-0-0071737-3-0 |oclc=224331414}}
+* {{Cite book |last=Bryant |first=John |year=2004 |title=3:59.4: The Quest to Break the Four Minute Mile |location=London |publisher=Hutchinson |isbn=978-0-0918003-3-8 |oclc=55005184}}
+* {{Cite book |last1=Nelson |first1=Cordner |last2=Quercetani |first2=Roberto |year=1985 |title=The Milers |url=https://archive.org/details/milers0000nels |url-access=registration |location=Los Altos, Calif. |publisher=Tafnews Press |isbn=0-911521-15-1 |oclc=12898871}}
+* {{Cite book |last=Phillips |first=Bob |year=2004 |title=3:59.4: The Quest for the Four-Minute Mile |url=https://archive.org/details/3594questforfour0000phil |url-access=registration |location=Manchester, UK |publisher=The Parrs Wood Press |isbn=978-1-9031584-9-4 |oclc=56458924}}
+
+== External links ==
+* [http://www.stat.colostate.edu/~jah/teach/st540/data/mile.info ''Runner's World'' data]
+* [https://web.archive.org/web/20080329011913/http://runningtimes.com/rt/articles/?id=6385 ''Running Times'' Magazine data]
+* [https://web.archive.org/web/20090607005109/http://user.uni-frankfurt.de/~khg/Rekorde/progtkwm.htm Frankfurt University] {{in lang|de}} ([[Internet Archive]])
+* [http://www.apulanta.fi/matti/yu/wrprogr_Women.html#Mile Women's progression] (www.apulanta.fi)
+* [http://www.saunalahti.fi/~sut/eng/wwrrun.html#mile Another women's mile progression] (www.saunalahti.fi)
+* [https://web.archive.org/web/20090829134934/http://user.uni-frankfurt.de/~khg/Rekorde/progtkww.htm Frankfurt University (Women's progression)] {{in lang|de}} (Internet Archive)
+* [https://www.youtube.com/watch?v=uz3ZLpCmKCM Clips of Bannister's 4 minute mile] (YouTube)
+* [https://www.youtube.com/watch?v=XvCsj7eJKKA Hicham El Guerrouj sets a world record in the mile] (video)
+
+{{Athletics record progressions}}
+
+[[Category:Sport of athletics world record progressions|01609]]
+[[Category:Mile (athletics)]]

@@ -540,7 +540,7 @@
   /* ---------- Footer ---------- */
 
   const src = document.getElementById("sources");
-  const LABELS = ["World Cup article", "list of finals", "records and statistics", "top goalscorers", "team appearances", "player appearances"];
+  const LABELS = ["World Cup article", "list of finals", "records and statistics", "top goalscorers", "team appearances", "player appearances", "hat-tricks"];
   raw.meta.sources.forEach((url, i) => {
     const a = el("a", null, LABELS[i] ?? url);
     a.href = url;

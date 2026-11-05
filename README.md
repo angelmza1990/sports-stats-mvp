@@ -351,6 +351,10 @@ Every general classification winner of the Tour de France, the Giro d'Italia and
 
 Every champion of the four men's majors (The Open since 1860, the U.S. Open, the PGA Championship and the Masters): a race of majors by golfer or nation, the most successful, the career Grand Slam, the most majors in one year and every champion.
 
+### ⏱️ [Athletics World Records](https://angelmza1990.github.io/sports-stats-mvp/athletics/world-records/)
+
+The world record progression of the 100 m, the mile, the marathon, the long jump, the high jump and the pole vault, for men and women where the data exists: a step chart of every record, every record holder with how long the mark stood, the oldest records standing today and the athletes who set the most. Built by `scripts/build_records.py` from Wikipedia's progression tables.
+
 The four winners pages share one front end (`assets/champions.js`) and one builder (`scripts/build_champions.py`), which reads each sport's Wikipedia lists and checks every winner's count against the totals the same pages publish.
 
 ## How it works
@@ -471,6 +475,7 @@ python3 scripts/build_rivalries.py --refresh  # football: the 83 great rivalries
 python3 scripts/build_f1.py --refresh         # motorsport: Formula 1
 python3 scripts/build_tc2000.py --refresh     # motorsport: TC2000
 python3 scripts/build_champions.py --refresh  # Grand Tours, golf majors, MotoGP and the Dakar
+python3 scripts/build_records.py --refresh    # athletics world record progressions
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
 python3 scripts/build_tennis_ages.py --refresh  # tennis: age records (after build_grand_slams.py)
 python3 scripts/build_number_ones.py --refresh  # tennis: every spell at world No. 1

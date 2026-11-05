@@ -143,6 +143,7 @@
 [data-sport="football"] { --sport: var(--football); }
 [data-sport="basketball"] { --sport: var(--basketball); }
 [data-sport="olympics"] { --sport: var(--olympics); }
+[data-sport="athletics"] { --sport: var(--olympics); }
 [data-sport="swimming"] { --sport: var(--swimming); }
 [data-sport="handball"] { --sport: var(--handball); }
 [data-sport="rugby"] { --sport: var(--rugby); }

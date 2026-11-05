@@ -1,0 +1,903 @@
+{{Short description|List of world records for men's 100m sprint}}
+{{Use British English|date=August 2016}}
+{{Use mdy dates|date=August 2016}}
+[[Image:World record progression 100m men.svg|thumb|400px|IAAF-ratified world record progression for the men's 100 m. In 1977 the IAAF began requiring fully automatic timing, accounting for both the increase in measured times and the decrease in measurement uncertainty.]]
+The first '''[[world record]] in the [[100 metres]] for men''' ([[athletics (sport)|athletics]]) was recognised by the International Amateur Athletics Federation, now known as [[World Athletics]], in 1912.
+
+{{As of|2011|6|21}}, the IAAF has ratified 67 records in the event, not including rescinded records.<ref name = iaaf2011/>
+
+==Unofficial progression before the IAAF==
+{{clear}}
+{| class="wikitable"
+|+Unofficial world records and best known times up to 1912<ref name="wrp"/>
+|-
+! Time 
+! Athlete
+! Nationality
+! Location of races
+! Date
+|- 
+| rowspan="16" style="vertical-align:top;"| 10.8
+| Luther Cary
+| {{Flag|United States|1891}}
+| [[Paris]], France
+| 4 July 1891
+|-
+| [[Cecil Lee]]
+| {{GBR}} 
+| [[Brussels]], Belgium
+| 25 September 1892
+|-
+| [[Étienne De Ré]]
+| {{BEL}} 
+| Brussels, Belgium
+| 4 August 1893
+|-
+| [[L. Atcherley]]
+| {{GBR}} 
+| [[Frankfurt|Frankfurt/Main]], Germany
+| 13 April 1895
+|-
+| [[Harry Beaton]]
+| {{GBR}} 
+| [[Rotterdam]], Netherlands
+| 28 August 1895
+|-
+| [[Harald Anderson-Arbin]]
+| {{SWE}} 
+| [[Helsingborg]], Sweden
+| 9 August 1896
+|-
+| rowspan="2" style="vertical-align:top;"| [[Isaac Westergren]]
+| {{SWE}} 
+| [[Gävle]], Sweden
+| 11 September 1898
+|-
+| {{SWE}} 
+| Gävle, Sweden
+| 10 September 1899
+|-
+| [[Frank Jarvis (athlete)|Frank Jarvis]]
+| {{Flag|United States|1896}}
+| [[Paris]], France
+| 14 July 1900
+|-
+| [[Walter Tewksbury]]
+| {{Flag|United States|1896}}
+| Paris, France
+| 14 July 1900
+|-
+| [[Carl Ljung]]
+| {{SWE}} 
+| [[Stockholm]], Sweden
+| 23 September 1900
+|-
+| Walter Tewksbury
+| {{Flag|United States|1896}}
+| [[Philadelphia]], United States
+| 6 October 1900
+|-
+| [[André Passat]]
+| {{FRA}} 
+| [[Bordeaux]], France
+| 14 June 1903
+|-
+| [[Louis Kuhn]]
+| {{SUI}} 
+| Bordeaux, France
+| 14 June 1903
+|-
+| [[Harald Grønfeldt]]
+| {{DEN}} 
+| [[Aarhus]], Denmark
+| 5 July 1903
+|-
+| [[Eric Frick]]
+| {{SWE}} 
+| [[Jönköping]], Sweden
+| 9 August 1903
+|-
+| 10.6
+| [[Knut Lindberg]]
+| {{SWE}} 
+| [[Gothenburg]], Sweden
+| 26 August 1906
+|-
+| rowspan="4" style="vertical-align:top;"| 10.5
+| [[Emil Ketterer]]
+| {{flag|German Empire|name=Germany}} 
+| [[Karlsruhe]], Germany
+| 9 July 1911
+|-
+| [[Richard Rau]]
+| {{flag|German Empire|name=Germany}} 
+| [[Braunschweig]], Germany
+| 13 August 1911
+|-
+| [[Richard Rau]]
+| {{flag|German Empire|name=Germany}} 
+| [[Munich]], Germany
+| 12 May 1912
+|-
+| [[Erwin Kern]]
+| {{flag|German Empire|name=Germany}} 
+| Munich, Germany
+| 26 May 1912
+|}
+
+==IAAF record progression==
+
+{| class="wikitable" style="text-align: left;"
+|-
+| style="width:10px;"| || Ratified
+|-
+|  style="width:10px; background:#fec;"| || Not ratified
+|-
+|  style="width:10px; background:#ffd0bd;"| || Ratified but later rescinded
+|}
+
+"Wind" in these tables refers to [[wind assistance]], the [[velocity]] of the [[wind]] ''[[Parallel (geometry)|parallel]]'' to the runner - positive values are from the starting line towards the finish line, negative are from the finish line towards the starting line, 0 is no wind in either direction, and all values are measured in [[metre per second|metres per second]].  Any wind ''[[perpendicular]]'' to the runners (from left to right, right to left, or up to down or down to up, although the conditions of the track generally preclude those wind directions) is ''ignored'' and not listed.
+
+"Auto" refers to [[Fully automatic timing|automatic timing]], and for the purposes of these lists, indicates auto times which were either also taken for hand-timed records, or were rounded to the tenth or hundredth of a second (depending on the rounding rules then in effect) for the official record time.
+
+===Records 1912–1976===
+
+{| class="wikitable"
+|-
+! Time
+! Wind
+! Auto
+! Athlete
+! Nationality
+! Location of race
+! Date
+! {{Abbr|Ref.|Reference}}
+|-
+| rowspan="2" style="vertical-align:center;"| 10.6
+| 
+| 
+| [[Donald Lippincott]]
+| rowspan="5" | {{Flag|United States|1912}}
+| rowspan="2" style="vertical-align:center;"| [[Stockholm Olympic Stadium|Stockholm]], [[Sweden]]
+| 6 July 1912
+|<ref name = iaaf>
+{{cite web
+ |title       = 12th IAAF World Championships In Athletics: IAAF Statistics Handbook. Berlin 2009.
+ |url         = http://www.iaaf.org/mm/document/competitions/competition/05/15/63/20090706014834_httppostedfile_p345-688_11303.pdf
+ |publisher   = IAAF Media & Public Relations Department
+ |location    = Monte Carlo
+ |pages       = Pages 546, 547
+ |year        = 2009
+ |access-date  = July 29, 2009
+ |archive-url  = https://web.archive.org/web/20110629134819/http://www.iaaf.org/mm/document/competitions/competition/05/15/63/20090706014834_httppostedfile_p345-688_11303.pdf 
+ |archive-date=June 29, 2011 }}
+</ref>
+|-
+| 
+| 
+| [[Jackson Scholz]]
+| 16 September 1920
+|<ref name = iaaf/>
+|-
+| rowspan="3" style="vertical-align:center;"| 10.4
+|
+| 
+| [[Charley Paddock]]
+| [[Redlands, California|Redlands]], USA
+| 23 April 1921
+|<ref name = iaaf/>
+|-
+| ±0.0
+| 
+| rowspan="2" style="vertical-align:center;"| [[Eddie Tolan]]
+| Stockholm, Sweden
+| 8 August 1929
+|<ref name = iaaf/>
+|-
+| 
+| 
+| [[Copenhagen]], [[Denmark]]
+| 25 August 1929
+|<ref name = iaaf/>
+|-
+| rowspan="8" style="vertical-align:center;"| 10.3
+| 
+| 
+| [[Percy Williams (sprinter)|Percy Williams]]
+| {{flag|Canada|1921}}
+| [[Toronto]], Canada
+| 9 August 1930
+|<ref name = iaaf/>
+|-
+| +0.4
+| 10.38
+| [[Eddie Tolan]]
+| rowspan="3" | {{Flag|United States|1912}}
+| [[Los Angeles Memorial Coliseum|Los Angeles]], USA
+| [[Athletics at the 1932 Summer Olympics – Men's 100 metres|1 August 1932]]
+|<ref name = iaaf/>
+|-
+| 
+| 
+| [[Ralph Metcalfe]]
+| [[Budapest]], [[Hungary]]
+| 12 August 1933
+|<ref name = iaaf/>
+|-
+| 
+| 
+| [[Eulace Peacock]]
+| [[Oslo]], [[Norway]]
+| 6 August 1934
+|<ref name = iaaf/>
+|-
+| 
+| 
+| [[Chris Berger]]
+| {{NED}}
+| [[Amsterdam]], Netherlands
+| 26 August 1934
+|<ref name = iaaf/>
+|-
+| 
+| 
+| rowspan="2" style="vertical-align:center;"| [[Ralph Metcalfe]]
+| rowspan="2" style="vertical-align:center;"| {{Flag|United States|1912}}
+| [[Osaka]], Japan
+| 15 September 1934
+|<ref name = iaaf/>
+|-
+| +2.0
+| 
+| [[Dalian|Dairen]], Japan
+| 23 September 1934
+|<ref name = iaaf/>
+|-
+| +2.5
+| 
+| [[Takayoshi Yoshioka]]
+| {{Flag|Empire of Japan|name=Japan}}
+| [[Tokyo]], Japan
+| 15 June 1935
+|<ref name = iaaf/>
+|-
+| rowspan="1" style="vertical-align:center;"| 10.2
+| +1.2
+| 
+| [[Jesse Owens]]
+| {{Flag|United States|1912}}
+| [[Chicago]], USA
+| 20 June 1936
+|<ref name = iaaf/>
+|- style="background: #ffd0bd"
+| rowspan="1" style="vertical-align:center;"| 10.3
+| +0.5
+| 
+| [[Lennart Strandberg]]
+| {{SWE}}
+| [[Malmö]], Sweden
+| 26 September 1936
+|<ref group=note name="Strandberg">Lennart Strandberg ran 10.3 to tie the then-extant world record on September 26, 1936, and this was ratified as a world record. On February 28, 1938, the IAAF ratified Jesse Owens' 10.2 from June 20, 1936, meaning Strandberg's mark, achieved after Owens', was rescinded as a record.</ref><ref name="wrp">{{cite web |url=https://iaaf-ebooks.s3.amazonaws.com/2015/Progression-of-IAAF-World-Records-2015/projet/IAAF-WRPB-2015.pdf#page=32 |archive-url=https://web.archive.org/web/20151117024013/https://iaaf-ebooks.s3.amazonaws.com/2015/Progression-of-IAAF-World-Records-2015/projet/IAAF-WRPB-2015.pdf#page=32 |archive-date=2015-11-17 |url-status=live |title=IAAF World Records Progression |edition=2015 |author1=Hymans, Richard |author2=Matrahazi, Imre |publisher=[[International Association of Athletics Federations]] |pages=22–34 |access-date=October 20, 2015}}</ref>{{rp|26}} 
+|-
+| rowspan="10" style="vertical-align:center;"| 10.2
+| −0.9
+| 
+| [[Harold Davis (sprinter)|Harold Davis]]
+| {{Flag|United States|1912}}
+| [[Compton, California|Compton]], USA
+| 6 June 1941
+|<ref name = iaaf/>
+|-
+| +0.7
+| 
+| [[Lloyd LaBeach]]
+| {{PAN}}
+| [[Fresno, California|Fresno]], USA
+| 15 May 1948
+|<ref name = iaaf/>
+|-
+| 
+| 10.35
+| [[Barney Ewell]]
+| {{Flag|United States|1912}}
+| [[Evanston, Illinois|Evanston]], [[United States]]
+| 9 July 1948
+|<ref name = iaaf/>
+|-
+| ±0.0
+| 
+| [[McDonald Bailey]]
+| {{GBR2}}
+| [[Belgrade]], [[Socialist Federal Republic of Yugoslavia|Yugoslavia]]
+| 25 August 1951
+|<ref name = iaaf/>
+|-
+| +1.1
+| 
+| [[Heinz Fütterer]]
+| {{FRG}}
+| [[Yokohama]], Japan
+| 31 October 1954
+|<ref name = iaaf/>
+|-
+| +0.9
+| 
+| [[Bobby Morrow]]
+| rowspan="10" | {{Flag|United States|1912}}
+| [[Houston]], USA
+| 19 May 1956
+|<ref name = iaaf/>
+|-
+| −1.0
+|
+| [[Ira Murchison]]
+| Compton, USA
+| 1 June 1956
+|<ref name = iaaf/>
+|-
+| ±0.0
+| 
+| [[Bobby Morrow]]
+| [[Bakersfield, California|Bakersfield]], USA
+| 22 June 1956
+|<ref name = iaaf/>
+|-
+| −1.3
+| 
+| [[Ira Murchison]]
+| rowspan="2" style="vertical-align:center;"| Los Angeles, USA
+| rowspan="2" style="vertical-align:center;"| 29 June 1956
+|<ref name = iaaf/>
+|-
+| −0.4
+| 
+| [[Bobby Morrow]]
+|
+|-
+| rowspan="5" style="vertical-align:center;"| 10.1
+| +0.7
+| 
+| [[Willie Williams (athlete)|Willie Williams]]
+| rowspan="2" | [[Berlin]], Germany
+| 3 August 1956
+|<ref name = iaaf/>
+|-
+| +1.0
+| 
+| [[Ira Murchison]]
+| 4 August 1956
+|<ref name = iaaf/>
+|-
+| +1.5
+| 
+| rowspan="2" style="vertical-align:center;"| [[Leamon King]]
+| [[Ontario, California|Ontario]], USA
+| 20 October 1956
+|<ref name = iaaf/>
+|-
+| +0.9
+| 
+| [[Santa Ana, California|Santa Ana]], USA
+| 27 October 1956
+|<ref name = iaaf/>
+|-
+| +1.3
+| 
+| [[Ray Norton]]
+| [[San Jose, California|San Jose]], USA
+| 18 April 1959
+|<ref name = iaaf/>
+|-
+| rowspan="10" style="vertical-align:center;"| 10.0
+| +0.9
+| 10.25
+| [[Armin Hary]]
+| {{FRG}}
+| [[Zürich]], [[Switzerland]]
+| 21 June 1960
+|<ref name = iaaf/>
+|-
+| +1.8
+| 
+| [[Harry Jerome]]
+| {{flag|Canada|1957}}
+| [[Saskatoon]], Canada
+| 15 July 1960
+|<ref name = iaaf/>
+|-
+| ±0.0
+| 
+| [[Horacio Esteves]]
+| {{Flag|Venezuela|1930}}
+| [[Caracas]], Venezuela
+| 15 August 1964
+|<ref name = iaaf/>
+|-
+| +1.3
+| 10.06
+| [[Bob Hayes]]
+| {{USA}}
+| [[National Stadium (Tokyo, 1958)|Tokyo, Japan]]
+| [[Athletics at the 1964 Summer Olympics – Men's 100 metres|15 October 1964]]
+|<ref name = iaaf/>
+|-
+| +2.0
+| 10.17
+| [[Jim Hines]]
+| {{USA}}
+| [[Modesto, California|Modesto]], USA
+| 27 May 1967
+|<ref name = iaaf/>
+|-
+| +1.8
+| 
+| [[Enrique Figuerola]]
+| {{CUB}}
+| Budapest, Hungary
+| 17 June 1967
+|<ref name = iaaf/>
+|-
+| ±0.0
+| 
+| [[Paul Nash (athlete)|Paul Nash]]
+| {{flagcountry|RSA|1928}}
+| [[Krugersdorp]], South Africa
+| 2 April 1968
+|<ref name = iaaf/>
+|-
+| +1.1
+| 
+| [[Oliver Ford (sprinter)|Oliver Ford]]
+| rowspan="2" | {{USA}}
+| [[Albuquerque, New Mexico|Albuquerque]], USA
+| 31 May 1968
+|<ref name = iaaf/>
+|-
+| +2.0
+| 10.20
+| [[Charles Greene (athlete)|Charles Greene]]
+| rowspan="5" style="vertical-align:center;"| [[1968 USA Outdoor Track and Field Championships|Sacramento]], USA
+| rowspan="5" style="vertical-align:center;"| [[Night of Speed|20 June 1968]]
+|<ref name = iaaf/>
+|-
+| +2.0
+| 10.28
+| [[Roger Bambuck]]
+| {{FRA}}
+|
+|-
+| rowspan="14" style="vertical-align:center;"| 9.9
+| +0.8
+| 10.03
+| [[Jim Hines]]
+| rowspan="7" | {{USA}}
+|<ref name = iaaf/>
+|-
+| +0.8
+| 10.14
+| [[Ronnie Ray Smith]]
+|
+|-
+| +0.9
+| 10.10
+| [[Charles Greene (athlete)|Charles Greene]]
+|
+|-
+| +0.3
+| 9.95
+| [[Jim Hines]]
+| [[Estadio Olímpico Universitario|Mexico City]], [[Mexico]]
+| [[Athletics at the 1968 Summer Olympics – Men's 100 metres|14 October 1968]]
+|<ref name = iaaf/>
+|-
+| ±0.0
+|
+| [[Eddie Hart (athlete)|Eddie Hart]]
+| rowspan="2" style="vertical-align:center;"| [[Eugene, Oregon|Eugene]], USA
+| rowspan="2" style="vertical-align:center;"| 1 July 1972
+|<ref name = iaaf/>
+|-
+| ±0.0
+| 
+| [[Rey Robinson]]
+|
+|-
+| +1.3
+| 
+| [[Steve Williams (athlete)|Steve Williams]]
+| Los Angeles, USA
+| 21 June 1974
+|<ref name = iaaf/>
+|-
+| +1.7
+| 
+| [[Silvio Leonard]]
+| {{CUB}}
+| [[Ostrava]], [[Czechoslovakia]]
+| 5 June 1975
+|<ref name = iaaf/>
+|-
+| ±0.0
+| 
+| rowspan="3" style="vertical-align:center;"| [[Steve Williams (athlete)|Steve Williams]]
+| rowspan="5" style="vertical-align:center;" | {{USA}}
+| [[Siena]], Italy
+| 16 July 1975
+|<ref name = iaaf/>
+|-
+| −0.2
+| 
+| Berlin, Germany
+| 22 August 1975
+|<ref name = iaaf/>
+|-
+| +0.7
+| 
+| [[Gainesville, Florida|Gainesville]], USA
+| 27 March 1976
+|<ref name = iaaf/>
+|-
+| +0.7
+| 
+| rowspan="2" style="vertical-align:center;"| [[Harvey Glance]]
+| [[Columbia, South Carolina|Columbia]], USA
+| 3 April 1976
+|<ref name = iaaf/>
+|-
+| 
+| 
+| [[Baton Rouge, Louisiana|Baton Rouge]], USA
+| 1 May 1976
+|<ref name = iaaf/>
+|-
+| +1.7
+| 
+| [[Don Quarrie]]
+| {{JAM}}
+| [[Modesto, California|Modesto]], USA
+| 22 May 1976
+|<ref name = iaaf/>
+|}
+
+The first manual time of 9.9 seconds was recorded for Bob Hayes in the final of the 100 metres at the 1964 Olympics. Hayes' official time of 10.0 seconds was determined by rounding down the electronic time of 10.06 to the nearest tenth of a second, giving the appearance of a manual time. This method was unique to the Olympics of 1964 and 1968, and the officials at the track recorded Hayes' time as 9.9 seconds.<ref>[https://web.archive.org/web/20131113125002/http://www.trackandfieldnews.com/discussion/viewtopic.php?f=5&t=52318 revisionist history: men's 100 WR]. Track and Field News. November 1, 2013</ref> Similarly, the [[Amateur Athletic Union]]'s introduction of FAT at [[1975 USA Outdoor Track and Field Championships|its 1975 championships]] meant that Steve Williams' manual 9.8 seconds in the 100 metres semifinal was discounted in favour of the FAT of 10.19 seconds.<ref name="wrp"/>
+
+===Records since 1977===
+Since 1975, the IAAF has accepted separate automatically electronically timed records for events up to 400 metres. Starting on January 1, 1977, the IAAF has required [[fully automatic timing]] to the hundredth of a second for these events.<ref name = iaaf/>
+
+Jim Hines' October 1968 Olympic gold medal run was the fastest recorded fully electronic 100 metre race up to that date, at 9.95 seconds.<ref name = iaaf/> ''[[Track and Field News]]'' has compiled an unofficial list of automatically timed records starting with the [[1964 Summer Olympics|1964 Olympics]] and [[Bob Hayes]]' gold medal performance there. Those marks are included in the progression.
+
+The event is linked on some of the dates. 
+{| class="wikitable"
+|-
+! Time
+! Wind
+! Auto
+! Athlete
+! Nationality
+! Location of race
+! Date
+! Notes<ref group="note">"A" stands for records set more than 1,000 metres above sea level, "OR" stands for [[Olympic record]], "CR" stands for [[List of World Athletics Championships records|World Championships record]]</ref>
+!!data-sort-type="number"|Duration of record
+|- style="background: #fec"
+| 10.06
+| +1.3
+|
+| [[Bob Hayes]]
+| rowspan="3" | {{USA}}
+| [[National Stadium (Tokyo, 1958)|Tokyo]], [[Japan]]
+| [[Athletics at the 1964 Summer Olympics – Men's 100 metres|15 October 1964]]
+| <ref name=TrackAndFieldNews>{{Cite journal|title=Stat Corner: 100 WR Progression|journal=Track & Field News|volume=61|issue=7|page=55|date=July 2008}}</ref>
+|data-sort-value="{{age in days|1964|10|15|1968|6|20}}" | {{Age in years, months and days|1964|10|15|1968|6|20}} 
+|- style="background: #fec"
+| 10.03
+| +0.8
+|
+| [[Jim Hines]]
+| [[Sacramento, California|Sacramento]], USA
+| [[Night of Speed|20 June 1968]]
+| <ref name=TrackAndFieldNews/>
+|data-sort-value="{{age in days|1968|6|20|1968|10|13}}" | {{Age in years, months and days|1968|6|20|1968|10|13}} 
+|- style="background: #fec"
+| 10.02
+| +2.0
+|
+| [[Charles Greene (athlete)|Charles Greene]]
+| [[Estadio Olímpico Universitario|Mexico City]], [[Mexico]]
+| [[Athletics at the 1968 Summer Olympics – Men's 100 metres|13 October 1968]]
+| {{AthAbbr|A}}<ref name=TrackAndFieldNews/>
+|data-sort-value="{{age in days|1968|10|13|1968|10|14}}" | {{Age in years, months and days|1968|10|13|1968|10|14}} 
+|-
+| 9.95
+| +0.3
+|
+| [[Jim Hines]]
+| rowspan="2" | {{USA}}
+| Mexico City, Mexico
+| [[Athletics at the 1968 Summer Olympics – Men's 100 metres|14 October 1968]]
+| {{AthAbbr|OR}}, {{AthAbbr|A}}<ref name = iaaf/>
+|data-sort-value="{{age in days|1968|10|14|1983|7|3}}" | {{Age in years, months and days|1968|10|14|1983|7|3}} 
+|-
+| 9.93
+| +1.4
+|
+| [[Calvin Smith]]
+| [[Colorado Springs, Colorado|Colorado Springs]], USA
+| 3 July 1983
+| {{AthAbbr|A}}<ref name = iaaf/>
+|data-sort-value="{{age in days|1983|7|3|1987|8|30}}" | {{Age in years, months and days|1983|7|3|1987|8|30}} 
+|- style="background: #ffd0bd"
+| ''9.83''
+| +1.0
+|
+| [[Ben Johnson (Canadian sprinter)|Ben Johnson]]
+| {{CAN}}
+| [[Stadio Olimpico|Rome]], Italy
+| [[1987 World Championships in Athletics – Men's 100 metres|30 August 1987]]
+|<ref group=note name="Johnson">[[Ben Johnson (Canadian sprinter)|Ben Johnson]]'s time of 9.79 on September 24, 1988 was disallowed and never ratified as a record as he tested positive for [[stanozolol]] after the race. Johnson subsequently admitted to [[steroid]] use between 1981 and 1988, and his world record of 9.83 set on August 30, 1987 was rescinded by the IAAF Council in September 1989.(Track and Field News, November 1989, vol. 42, #11, p. 37)</ref>
+|data-sort-value="{{age in days|1987|8|30|1987|8|30}}" | {{Age in years, months and days|1987|8|30|1987|8|30}} 
+|- style="background: #fec"
+| rowspan="2" style="vertical-align:center;"| 9.93 
+| +1.0
+|
+| rowspan="2" style="vertical-align:center;"| [[Carl Lewis]]
+| rowspan="2" style="vertical-align:center;"| {{USA}}
+| [[Stadio Olimpico|Rome]], Italy
+| [[1987 World Championships in Athletics – Men's 100 metres|30 August 1987]]
+|<ref name=TrackAndFieldNews/><ref>''Track and Field News'', November 1989, vol. 42, #11, p. 37</ref><ref group=note>Carl Lewis's times of 9.93 were deemed by the IAAF to have equalled the world record after Ben Johnson's 9.83 time was rescinded, but were never ratified as world records, and his time of 9.92 to win the gold medal at the Seoul Olympics after Johnson was disqualified was recognized as the world record from January 1, 1990.</ref>
+|data-sort-value="{{age in days|1987|8|30|1988|8|17}}" | {{Age in years, months and days|1987|8|30|1988|8|17}} 
+|- style="background: #fec"
+| +1.1
+|
+| [[Letzigrund|Zürich]], [[Switzerland]]
+| 17 August 1988
+| <ref name = iaaf/>
+|data-sort-value="{{age in days|1988|8|17|1988|9|24}}" | {{Age in years, months and days|1988|8|17|1988|9|24}} 
+|- style="background: #fec"
+| 9.79
+| +1.1
+|
+| [[Ben Johnson (Canadian sprinter)|Ben Johnson]]
+| {{CAN}}
+| [[Olympic Stadium (Seoul)|Seoul]], South Korea
+| [[Athletics at the 1988 Summer Olympics – Men's 100 metres|24 September 1988]]
+| <ref group=note name="Johnson">[[Ben Johnson (Canadian sprinter)|Ben Johnson]]'s time of 9.79 on September 24, 1988 was disallowed and never ratified as a record as he tested positive for [[stanozolol]] after the race. Johnson subsequently admitted to [[steroid]] use between 1981 and 1988, and his world record of 9.83 set on August 30, 1987 was rescinded by the IAAF Council in September 1989.(Track and Field News, November 1989, vol. 42, #11, p. 37)</ref><ref name = iaaf/>
+|data-sort-value="{{age in days|1988|9|24|1988|9|24}}" | {{Age in years, months and days|1988|9|24|1988|9|24}} 
+|-
+| 9.92
+| +1.1
+|
+| [[Carl Lewis]]
+| rowspan="4" | {{USA}}
+| [[Olympic Stadium (Seoul)|Seoul]], South Korea
+| [[Athletics at the 1988 Summer Olympics – Men's 100 metres|24 September 1988]]
+| {{AthAbbr|OR}}<ref group=note name="Johnson"/><ref name = iaaf/>
+|data-sort-value="{{age in days|1988|9|24|1991|6|14}}" | {{Age in years, months and days|1988|9|24|1991|6|14}} 
+|-
+| 9.90
+| +1.9
+|
+| [[Leroy Burrell]]
+| [[New York City|New York]], USA
+| [[1991 World Championships in Athletics – Men's 100 metres|14 June 1991]]
+|<ref name = iaaf/>
+|data-sort-value="{{age in days|1991|6|14|1991|8|25}}" | {{Age in years, months and days|1991|6|14|1991|8|25}} 
+|-
+| 9.86
+| +1.2{{efn|per IAAF profile; +1.0 m/s per IAAF statistic handbook}}
+|
+| [[Carl Lewis]]
+| [[National Stadium (Tokyo, 1958)|Tokyo, Japan]]
+| 25 August 1991
+|<ref name = iaaf/>
+|data-sort-value="{{age in days|1991|8|25|1994|7|6}}" | {{Age in years, months and days|1991|8|25|1994|7|6}} 
+|-
+| 9.85
+| +1.2
+| 9.848
+| [[Leroy Burrell]]
+| [[Stade Olympique de la Pontaise|Lausanne]], Switzerland
+| 6 July 1994
+|<ref name = iaaf/>
+|data-sort-value="{{age in days|1994|7|6|1996|7|27}}" | {{Age in years, months and days|1994|7|6|1996|7|27}} 
+|-
+| 9.84
+| +0.7
+| 9.835
+| [[Donovan Bailey]]
+| {{CAN}}
+| [[Centennial Olympic Stadium|Atlanta]], USA
+| [[Athletics at the 1996 Summer Olympics – Men's 100 metres|27 July 1996]]
+| {{AthAbbr|OR}}<ref name = iaaf/><ref>{{cite web|url=http://myweb.lmu.edu/jmureika/track/splits/splits.html#96og |title=10m Splits for Various 100m Final Events |website=Myweb.lmu.edu |access-date=2016-05-23}}</ref>
+|data-sort-value="{{age in days|1996|7|27|1999|6|16}}" | {{Age in years, months and days|1996|7|27|1999|6|16}} 
+|-
+| 9.79
+| +0.1
+| 
+| [[Maurice Greene (athlete)|Maurice Greene]]
+| rowspan="2" | {{USA}}
+| [[Athens]], [[Greece]]
+| 16 June 1999
+|<ref name = iaaf/>
+|data-sort-value="{{age in days|1999|6|16|2002|9|14}}" | {{Age in years, months and days|1999|6|16|2002|9|14}} 
+|- style="background: #ffd0bd"
+| ''9.78''
+| +2.0
+| 
+| [[Tim Montgomery]]
+| [[Stade Sébastien Charléty|Paris]], France
+| 14 September 2002
+|<ref>{{cite web |url=http://www2.iaaf.org/GPF02/News/getnews.asp?Code=5733&imgh=searchnews |title=100m World Record falls to Montgomery - 9.78! |publisher=IAAF |date=14 September 2002 |access-date=2008-09-03 |url-status=dead |archive-url=https://web.archive.org/web/20080912045348/http://www2.iaaf.org/GPF02/News/getnews.asp?Code=5733&imgh=searchnews |archive-date=September 12, 2008 |df=mdy-all }}</ref><ref group="note">[[Tim Montgomery]]'s time of 9.78 on September 14, 2002 was rescinded after a 2005 ruling on his involvement with [[Bay Area Laboratory Co-operative|BALCO]] scandal ordered his results from 2001-2005 struck from the records and ordered him to forfeit medals and prizes from that time. By that time, however, it had been surpassed by [[Asafa Powell]].[http://www.iaaf.org/news/kind=101/newsid=32920.html]</ref>
+|data-sort-value="{{age in days|2002|9|14|2006|5|12}}" | {{Age in years, months and days|2002|9|14|2005|6|14}} 
+|-
+| rowspan="4" style="vertical-align:center;"| 9.77
+| +1.6
+| 9.768
+| [[Asafa Powell]]
+| {{JAM}}
+| [[Olympic Stadium (Athens)|Athens]], [[Greece]]
+| 14 June 2005
+|<ref name = iaaf/>
+|data-sort-value="{{age in days|2005|6|14|2006|5|12}}" | {{Age in years, months and days|2005|6|14|2006|5|12}} 
+|-  style="background: #ffd0bd"
+| +1.7
+| 9.766
+| [[Justin Gatlin]]
+| {{USA}}
+| [[Doha]], [[Qatar]]
+| 12 May 2006
+|<ref name=TrackAndFieldNews/><ref>{{cite news|url=https://www.nytimes.com/2006/05/18/sports/othersports/18track.html |title=Gatlin Must Share 100-Meter Record |newspaper=New York Times |author=Frank Litsky |date=May 18, 2006 |access-date=2008-09-03}}</ref><ref group="note">[[Justin Gatlin]] was briefly credited with a new world record time of 9.76, but five days later the [[IAAF]] announced that the official timers, Tissot Timing, had discovered Gatlin's time of 9.766 had erroneously been rounded down to the nearest hundredth instead of rounded up. This time instead made Gatlin co-world record holder with Asafa Powell,[http://www.iaaf.org/history/GP/season=2006/news/kind=101/newsid=34686.html] but this was rescinded in 2007 after Gatlin failed a doping test.[https://web.archive.org/web/20110726002443/http://www.usantidoping.org/files/active/resources/press_releases/PRESS%20RELEASE%20-%20Gatlin%20-%20January%201,%202008.pdf]</ref>
+|data-sort-value="{{age in days|2006|5|12|2006|6|11}}" | {{Age in years, months and days|2006|5|12|2006|6|11}} 
+|-
+| +1.5
+| 9.763
+| rowspan="3" style="vertical-align:Center;" | [[Asafa Powell]]
+| rowspan="6" style="vertical-align:center;" | {{JAM}}
+| [[Gateshead International Stadium|Gateshead]], United Kingdom
+| 11 June 2006
+|<ref name = iaaf/>
+|data-sort-value="{{age in days|2006|6|11|2006|8|18}}" | {{Age in years, months and days|2006|6|11|2006|8|18}} 
+|-
+| +1.0
+| 9.762
+| [[Letzigrund|Zürich]], [[Switzerland]] 
+| 18 August 2006
+|<ref name = iaaf/>
+| data-sort-value="{{age in days|2006|8|18|2007|9|9}}" | {{Age in years, months and days|2006|8|18|2007|9|9}} 
+|-
+| style="vertical-align:top;"| 9.74
+| +1.7
+| 9.735
+| [[Stadio Raul Guidobaldi|Rieti]], Italy
+| 9 September 2007
+|<ref name=iaaf2011>
+{{cite web
+ |title       = IAAF World Championships: IAAF Statistics Handbook. Daegu 2011.
+ |url         = http://www.iaaf.org/mm/Document/06/10/33/61033_PDF_English.pdf
+ |publisher   = IAAF Media & Public Relations Department
+ |location    = Monte Carlo
+ |pages       = Pages 595, 596
+ |year        = 2011
+ |access-date  = August 3, 2011
+ |archive-url  = https://web.archive.org/web/20120818100742/http://www.iaaf.org/mm/Document/06/10/33/61033_PDF_English.pdf
+ |archive-date = August 18, 2012
+ |url-status     = dead
+}}
+</ref><ref>{{cite web
+ |title       = Progression of IAAF World Records, 2015 Edition
+ |url         = http://iaaf-ebooks.s3.amazonaws.com/2015/Progression-of-IAAF-World-Records-2015/projet/IAAF-WRPB-2015.pdf
+ |pages       = 33
+ |year        = 2015
+ |access-date  = February 24, 2018
+}}
+</ref>
+|data-sort-value="{{age in days|2007|9|9|2008|5|31}}" | {{Age in years, months and days|2007|9|9|2008|5|31}} 
+|-
+| 9.72
+| +1.7
+| 9.715
+| rowspan="3"| [[Usain Bolt]]
+| [[Icahn Stadium|New York]], USA
+| 31 May 2008
+|<ref name = iaaf/>
+|data-sort-value="{{age in days|2008|5|31|2008|8|16}}" | {{Age in years, months and days|2008|5|31|2008|8|16}} 
+|-
+| 9.69
+| ±0.0
+| 9.683
+| [[Beijing National Stadium|Beijing]], [[China]]
+| [[Athletics at the 2008 Summer Olympics – Men's 100 metres|16 August 2008]]
+| {{AthAbbr|OR}}<ref name = iaaf/>
+| data-sort-value="{{age in days|2008|8|16|2009|8|16}}" | {{Age in years, months and days|2008|8|16|2009|8|16}} 
+|-
+| 9.58
+| +0.9
+| 9.572
+| [[Olympic Stadium, Berlin|Berlin]], Germany
+| [[2009 World Championships in Athletics – Men's 100 metres|16 August 2009]]
+| [[IAAF World Championships in Athletics|CR]]<ref name = iaaf2011/><ref name="IAAF2">{{cite web |url=http://berlin.iaaf.org/news/kind=100/newsid=53047.html |title=12th IAAF World Championships in Athletics - Berlin 2009 - Bolt again! 9.58 World record in Berlin! |publisher=Berlin.iaaf.org |date=2009-08-16 |access-date=2010-06-07 |archive-url=https://web.archive.org/web/20100612090507/http://berlin.iaaf.org/news/kind%3D100/newsid%3D53047.html |archive-date=June 12, 2010 |url-status=dead }}</ref><ref>{{cite web|url=http://www.iaaf.org/news/kind=101/newsid=54523.html |title=World records set at Berlin World Championships have been ratified |publisher=iaaf.org |date=2009-09-30 |access-date=2010-06-07}}</ref>
+|data-sort-value="{{age in days|2009|8|16}}" | {{Age in years, months and days |2009|8|16}}
+|}
+<!-- IMPORTANT NOTE: Please do not add Usain Bolt's time from the 2012 Olympics. It was not a World Record, and therefore does not belong in this article. -->
+
+===Low-altitude record progression 1968–1987===
+
+The IAAF considers marks set at high altitude as acceptable for record consideration. However, high altitude can significantly assist [[Sprint (running)|sprint]] performances.<ref>{{cite web |url=http://www.brianmac.co.uk/sprints/altwind.htm |title=Effect of wind speed and altitude on sprint times |publisher=www.brianmac.co.uk |access-date=2011-04-28 }}</ref> One estimate suggests times in the 200 m sprint can be assisted by between 0.09s and 0.14s with the maximum allowable tailing wind of 2.0&nbsp;m/s, and gain 0.3s at altitudes over 2000m.<ref>{{cite web |url=http://www.ingentaconnect.com/content/nrc/cjp/2003/00000081/00000007/art00001 |title=IngentaConnect Modeling wind and altitude effects in the 200 m sprint |publisher=www.ingentaconnect.com |access-date=2010-05-28 }}</ref> For this reason, unofficial low-altitude record lists have been compiled.
+
+After the IAAF started to recognise only electronic times in 1977, the then-current record and subsequent record were both set at altitude. It was not until 1987 that the world record was equalled or surpassed by a low-altitude performance. The following progression of low-altitude records therefore starts with Hines's low-altitude "record" when the IAAF started to recognise only electronic timing in 1977, and continues to Lewis's low-altitude performance that equalled the high-altitude world record in 1987. ([[Ben Johnson (Canadian sprinter)|Ben Johnson]]'s 9.95 run in 1986 and 9.83 run in 1987 are omitted.)
+
+{| class="wikitable"
+|-
+! Time
+! Athlete
+! Nationality
+! Location of race
+! Date
+|-
+| 10.03
+| [[Jim Hines]]<ref name=TrackAndFieldNews/>
+| {{USA}}
+| Sacramento, USA
+| 20 June 1968
+|-
+| 10.03
+| [[Silvio Leonard]]<ref name=TrackAndFieldNews/>
+| {{CUB}}
+| [[Havana]], [[Cuba]]
+| 13 September 1977
+|-
+| 10.02
+| [[James Sanford (athlete)|James Sanford]]<ref name=TrackAndFieldNews/>
+| rowspan="7" | {{USA}}
+| [[Westwood, Los Angeles, California|Westwood]], USA
+| 11 May 1980
+|-
+| 10.00
+| rowspan="3" | [[Carl Lewis]]<ref name=TrackAndFieldNews/>
+| [[Dallas]], USA
+| 16 May 1981
+|-
+| 10.00
+| [[Modesto, California|Modesto]], USA
+| 15 May 1982
+|-
+| 9.97
+| [[Modesto, California|Modesto]], USA
+| 14 May 1983
+|-
+| 9.97
+| [[Calvin Smith]]<ref name=TrackAndFieldNews/>
+| Zürich, Switzerland
+| 24 August 1983
+|-
+| 9.96
+| [[Mel Lattany]]<ref name=TrackAndFieldNews/>
+| [[Athens, Georgia|Athens]], USA
+| 5 May 1984
+|-
+| 9.93
+| [[Carl Lewis]]<ref name=TrackAndFieldNews/>
+| Rome, Italy
+| 30 August 1987
+|}
+
+==See also==
+* [[Women's 100 metres world record progression]]
+* [[Men's 200 metres world record progression]]
+* [[100-yard dash]]
+
+==Notes==
+{{notelist}}
+{{reflist|group=note|30em}}
+
+==References==
+{{Reflist|30em}}
+
+{{Athletics record progressions}}
+{{records in athletics}}
+{{records|state=uncollapsed}}
+
+{{DEFAULTSORT:Men's 100 Metres World Record Progression}}
+[[Category:Men's sport of athletics world record progressions|100]]
+[[Category:100 metres]]
+
+[[de:100-Meter-Lauf#Weltrekordentwicklung]]

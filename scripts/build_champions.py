@@ -31,14 +31,16 @@ from build_football import COUNTRIES, RAW_DIR, ROOT, slug
 EXTRA_COUNTRIES = {
     "ZAF": ("South Africa", "za"), "SVN": ("Slovenia", "si"), "LTU": ("Lithuania", "lt"), "FIJ": ("Fiji", "fj"),
     "ZIM": ("Zimbabwe", "zw"), "SAU": ("Saudi Arabia", "sa"), "IND": ("India", "in"), "LUX": ("Luxembourg", "lu"),
-    "TPE": ("Chinese Taipei", "tw"), "RHO": ("Rhodesia", "zw"), "JER": ("Jersey", "je"), "NIR": ("Northern Ireland", "gb-nir"),
+    "TPE": ("Chinese Taipei", "tw"), "RHO": ("Rhodesia", "zw"), "JER": ("Jersey", "je"), "ETH": ("Ethiopia", "et"), "KEN": ("Kenya", "ke"), "TAN": ("Tanzania", "tz"), "NIR": ("Northern Ireland", "gb-nir"),
 }
 NAME_CODES = {"french third republic": "FRA", "france": "FRA", "kingdom of italy": "ITA", "italy": "ITA", "belgium": "BEL",
               "luxembourg": "LUX", "spain": "ESP", "francoist spain": "ESP", "switzerland": "SUI", "netherlands": "NED",
               "united states": "USA", "uk": "GBR", "united kingdom": "GBR", "great britain": "GBR", "west germany": "FRG",
               "germany": "GER", "ireland": "IRL", "colombia": "COL", "denmark": "DEN", "australia": "AUS", "slovenia": "SVN",
-              "russia": "RUS", "soviet union": "URS", "rhodesia and nyasaland": "RHO", "rhodesia": "RHO", "kazakhstan": "KAZ", "ecuador": "ECU", "portugal": "POR"}
-CODE_FIX = {"SLO": "SVN", "LIT": "LTU", "RSA": "ZAF", "UK": "GBR", "DEU": "GER", "CHL": "CHI", "NLD": "NED"}
+              "russia": "RUS", "soviet union": "URS", "kenya": "KEN", "ethiopia": "ETH", "japan": "JPN", "korea": "KOR", "south korea": "KOR",
+              "republic of china": "TPE", "taiwan": "TPE", "romania": "ROU", "poland": "POL", "east germany": "GDR", "bulgaria": "BUL",
+              "sweden": "SWE", "haiti": "HAI", "canada": "CAN", "ukraine": "UKR", "south africa": "ZAF", "finland": "FIN", "rhodesia and nyasaland": "RHO", "rhodesia": "RHO", "kazakhstan": "KAZ", "ecuador": "ECU", "portugal": "POR"}
+CODE_FIX = {"IRE": "IRL", "ROM": "ROU", "SLO": "SVN", "LIT": "LTU", "RSA": "ZAF", "UK": "GBR", "DEU": "GER", "CHL": "CHI", "NLD": "NED"}
 
 
 def country(code: str) -> tuple[str, str | None]:
@@ -47,15 +49,22 @@ def country(code: str) -> tuple[str, str | None]:
 
 def nation(text: str) -> str | None:
     """A country code from a flag template, a {{XXX}} code or a country name in the cell."""
-    m = re.search(r"\{\{\s*flag(?:icon|country)?\s*\|\s*([^|{}]+?)\s*(?:\|[^{}]*)?\}\}", text, re.I)
+    m = re.search(r"\{\{\s*flag(?:icon|country|u|deco)?\s*\|\s*([^|{}]+?)\s*(?:\|[^{}]*)?\}\}", text, re.I)
     if m:
         named = re.search(r"name\s*=\s*([^|}]+)", m.group(0))
         key = (named.group(1) if named else m.group(1)).strip().lower()
         if key in NAME_CODES:
             return NAME_CODES[key]
-    m = re.search(r"\{\{\s*flagathlete\s*\|.*\|\s*([A-Z]{3})\s*\}\}", text)
+    m = re.search(r"\{\{\s*(?:flagathlete|flai)\s*\|(?:\[\[[^\]]*\]\]|\{\{[^{}]*\}\}|[^|{}])*\|\s*([A-Z]{3})\s*(?:\|[^{}]*)?\}\}", text)
     if m:
         return CODE_FIX.get(m.group(1), m.group(1))
+    m = re.search(r"\{\{\s*(?:flagathlete|flai)\s*\|(?:\[\[[^\]]*\]\]|[^|{}])*\|\s*([A-Za-z ]+?)\s*(?:\|[^{}]*)?\}\}", text)
+    if m and m.group(1).strip().lower() in NAME_CODES:
+        return NAME_CODES[m.group(1).strip().lower()]
+    if re.search(r"\{\{\s*ROC-TW\s*\}\}", text):
+        return "TPE"
+    if re.search(r"Korea under Japanese rule", text):
+        return "JPN"  # Sohn Kee-chung ran for Japan, as Korea was then under Japanese rule
     m = re.search(r"\{\{\s*(UK)\s*\}\}", text)
     if m:
         return "GBR"

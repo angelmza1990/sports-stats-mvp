@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World Records · Athletics</title>
+  <meta name="description" content="How the world records of athletics came down, mark by mark: the 100 metres, the mile, the marathon, the long jump, the high jump and the pole vault, for men and women, with every record holder and how long each record stood.">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <link rel="stylesheet" href="../../assets/viz.css">
+  <link rel="stylesheet" href="../../football/football.css">
+  <script src="../../assets/theme.js"></script>
+</head>
+<body data-src="data/records.json">
+  <header class="hero wrap">
+    <p class="kicker"><a href="../../">Sports Stats</a> · Athletics</p>
+    <h1>World records</h1>
+    <p class="lede">
+      How the world records of the classic events of athletics came down, or went up, mark by mark: from Donald Lippincott's 10.6 in 1912 to Usain Bolt's 9.58, from Johnny Hayes's 2:55 marathon in 1908 to the first under two hours, and Armand Duplantis's pole vault records.
+      Also see the <a href="../../olympics/">Olympic Games</a>.
+    </p>
+    <div class="stat-row" id="stats"></div>
+  </header>
+
+  <main class="wrap">
+    <section class="block" id="progression">
+      <div class="block-head">
+        <h2>The progression</h2>
+        <p id="event-note">Pick an event.</p>
+      </div>
+      <div class="controls">
+        <div class="segmented" role="tablist" aria-label="Event" id="event-tabs"></div>
+        <div class="segmented" role="tablist" aria-label="Men or women" id="sex-tabs"></div>
+      </div>
+      <div class="card">
+        <div class="stat-row" id="event-stats"></div>
+        <div id="progression-chart" class="chart" style="margin-top:12px"></div>
+        <p class="chart-note">Every world record, as a step: the line stays flat while a record stands. Hover or tap a mark for the athlete.</p>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <h3 class="sub">Every record</h3>
+        <div class="data-table tall with-sub" id="records-table"></div>
+      </div>
+    </section>
+
+    <section class="block" id="standing">
+      <div class="block-head">
+        <h2>The records today</h2>
+        <p>Every event's current world record and how long it has stood, and the athletes who set the most records.</p>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <h3 class="sub">The oldest records</h3>
+          <div class="data-table with-sub" id="today-table"></div>
+        </div>
+        <div class="card">
+          <h3 class="sub">Most records set</h3>
+          <div id="setters-list"></div>
+          <p class="chart-note">Records broken or equalled, in the events on this page.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p><strong>Data:</strong> Wikipedia's world record progressions (CC BY-SA 4.0) for each event, linked under the chart. Updated automatically twice a year.</p>
+    <p><strong>Notes:</strong> the records ratified by the IAAF, now World Athletics, from its first list in 1912 (earlier marks where the page lists them, as in the pole vault since 1849); the marathon shows the world bests before World Athletics began ratifying records in 2004. The 100 metres switch from hand timing to electronic timing in 1977. Nations are the athlete's at the time.</p>
+    <p>This project is not affiliated with World Athletics. Flags by <a href="https://flagpedia.net">Flagpedia</a>.</p>
+    <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
+  </footer>
+
+  <script src="../../assets/vendor/d3.v7.9.0.min.js"></script>
+  <script src="../../assets/viz.js"></script>
+  <script src="../../football/common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
