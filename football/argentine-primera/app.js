@@ -266,45 +266,154 @@
     ], rows.reverse());
   })();
 
-  /* ---------- All national titles: leagues and cups ---------- */
+  /* ---------- Every title: leagues, national cups and international ---------- */
 
-  (function nationalTitles() {
+  (async function allTitles() {
+    const intl = await d3.json("data/international.json");
+    const compName = Object.fromEntries(intl.competitions.map((c) => [c.key, c.label]));
+    Object.entries(intl.clubs).forEach(([id, c]) => (data.clubs[id] ??= { ...c, country: "ARG" }));
+    const KINDS = { league: "League", cup: "National cup", intl: "International" };
     const all = [
-      ...titles.map((t) => ({ club: t.champion, era: t.era, kind: "league", label: t.season })),
-      ...data.cups.flatMap((c) => c.editions.map((e) => ({ club: e.champion, era: e.era, kind: "cup", label: `${c.name} ${e.season}` }))),
-    ];
-    const count = (list, era, kind) => list.filter((t) => (!era || t.era === era) && (!kind || t.kind === kind)).length;
-    const cell = (list, era) => {
-      const n = count(list, era);
-      if (!n) return el("span", "muted", "–");
-      const wrap = el("span");
-      wrap.append(el("small", "muted", `${count(list, era, "league")} L · ${count(list, era, "cup")} C  `), el("strong", null, String(n)));
-      return wrap;
-    };
-    document.getElementById("titles-total").textContent =
-      `${all.length} titles: ${count(all, null, "league")} leagues and ${count(all, null, "cup")} cups. L = league titles, C = cups.`;
+      ...titles.map((t) => ({ club: t.champion, era: t.era, kind: "league", year: t.year, label: `League ${t.season}` })),
+      ...data.cups.flatMap((c) => c.editions.map((e) => ({ club: e.champion, era: e.era, kind: "cup", year: e.year, label: `${c.name} ${e.season}` }))),
+      ...intl.titles.map((t) => ({ club: t.club, era: t.era, kind: "intl", year: t.year, label: `${compName[t.comp]} ${t.season}` })),
+    ].sort((a, b) => a.year - b.year || ["league", "cup", "intl"].indexOf(a.kind) - ["league", "cup", "intl"].indexOf(b.kind));
+    const state = { era: "all", kind: "all" };
+    const scoped = () => all.filter((t) => (state.era === "all" || t.era === state.era) && (state.kind === "all" || t.kind === state.kind));
+    const count = (list, kind, era) => list.filter((t) => (!kind || t.kind === kind) && (!era || t.era === era)).length;
+    const total = document.getElementById("titles-total");
+    total.textContent = `${all.length} titles: ${count(all, "league")} leagues, ${count(all, "cup")} national cups and ${count(all, "intl")} international titles.`;
 
-    function render(era) {
-      const scoped = all.filter((t) => era === "all" || t.era === era);
-      const rows = d3.groups(scoped, (t) => t.club).map(([club, list]) => ({ club, list: all.filter((t) => t.club === club), scoped: list }))
-        .sort((a, b) => b.scoped.length - a.scoped.length || count(b.scoped, null, "league") - count(a.scoped, null, "league")
-          || d3.ascending(clubName(a.club), clubName(b.club)));
+    // The race: every title in order, one frame per title.
+    const framesFor = () => F.titleFrames(scoped().map((t) => ({ ...t, champion: t.club })), (t) => String(t.year), String(scoped()[0]?.year - 1 || ""));
+    const race = F.race(framesFor(), {
+      prefix: "titles-race",
+      colorOf: (id) => `var(--series-${{ league: 1, cup: 3, intl: 2 }[state.kind] ?? 1})`,
+      emptyTicker: "Press play to start with the first title.",
+      ticker: (t) => [el("strong", null, `${t.year} · ${clubName(t.club)}`), document.createTextNode(` · ${t.label}`)],
+      frameMs: 300,
+    });
+
+    // The line chart: titles by the end of each year, for up to four clubs.
+    const SLOTS = ["var(--series-1)", "var(--series-2)", "var(--series-3)", "var(--series-4)"];
+    const picked = new Map(["river-plate", "boca-juniors", "independiente", "racing"].map((c, i) => [c, i]));
+    const chipClubs = d3.groups(all, (t) => t.club).sort((a, b) => b[1].length - a[1].length).slice(0, 16).map(([c]) => c);
+    const chips = new Map();
+    chipClubs.forEach((c) => {
+      const b = el("button");
+      b.type = "button";
+      b.append(F.crest(c), document.createTextNode(clubName(c)));
+      b.addEventListener("click", () => {
+        if (picked.has(c)) picked.delete(c);
+        else {
+          if (picked.size >= SLOTS.length) picked.delete(picked.keys().next().value);
+          const used = new Set(picked.values());
+          picked.set(c, SLOTS.findIndex((_, s) => !used.has(s)));
+        }
+        syncChips();
+        rerenderLine();
+      });
+      chips.set(c, b);
+      document.getElementById("titles-chips").append(b);
+    });
+    function syncChips() {
+      chips.forEach((b, c) => {
+        b.setAttribute("aria-pressed", String(picked.has(c)));
+        if (picked.has(c)) b.style.setProperty("--c", SLOTS[picked.get(c)]);
+      });
+      Viz.legend("titles-legend", [...picked].sort((x, y) => x[1] - y[1]).map(([c, s]) => ({ label: clubName(c), color: SLOTS[s] })), "line");
+    }
+    syncChips();
+
+    function renderLine(width) {
+      const root = document.getElementById("titles-line");
+      const chosen = [...picked].sort((x, y) => x[1] - y[1]);
+      if (!chosen.length) return root.replaceChildren(el("p", "chart-note", "Pick a club above."));
+      const list = scoped();
+      const narrow = width < 640;
+      const height = narrow ? 260 : 360;
+      const m = { t: 10, r: narrow ? 12 : 110, b: 26, l: 36 };
+      const first = state.era === "professional" ? 1931 : 1891;
+      const last = d3.max(all, (t) => t.year);
+      const yearsAll = d3.range(first, last + 1);
+      const lines = chosen.map(([c, s]) => {
+        let n = 0;
+        const byYear = d3.rollup(list.filter((t) => t.club === c), (v) => v.length, (t) => t.year);
+        return { c, s, pts: yearsAll.map((yr) => ({ yr, n: (n += byYear.get(yr) ?? 0) })) };
+      });
+      const x = d3.scaleLinear().domain([first, last]).range([m.l, width - m.r]);
+      const y = d3.scaleLinear().domain([0, Math.max(1, d3.max(lines, (l) => l.pts[l.pts.length - 1].n))]).nice().range([height - m.b, m.t]);
+      const svg = d3.create("svg").attr("viewBox", `0 0 ${width} ${height}`).attr("role", "img").attr("aria-label", "Titles won by the end of each year");
+      const yt = y.ticks(6);
+      svg.append("g").selectAll("line").data(yt).join("line").attr("class", (d) => (d === 0 ? "baseline" : "gridline")).attr("x1", m.l).attr("x2", width - m.r).attr("y1", y).attr("y2", y);
+      svg.append("g").attr("class", "axis").selectAll("text").data(yt).join("text").attr("x", m.l - 6).attr("y", (d) => y(d) + 4).attr("text-anchor", "end").text((d) => d);
+      svg.append("g").attr("class", "axis").attr("transform", `translate(0,${height - m.b})`)
+        .call(d3.axisBottom(x).ticks(narrow ? 5 : 12).tickFormat(d3.format("d")).tickSize(0).tickPadding(8)).call((g) => g.select(".domain").remove());
+      const line = d3.line().curve(d3.curveStepAfter).x((p) => x(p.yr)).y((p) => y(p.n));
+      lines.forEach((l) => svg.append("path").attr("class", "trend-line").attr("stroke", SLOTS[l.s]).attr("d", line(l.pts)));
+      if (!narrow) {
+        // End labels, nudged apart so close totals don't overlap.
+        const ends = lines.map((l) => ({ l, n: l.pts[l.pts.length - 1].n, y: y(l.pts[l.pts.length - 1].n) + 4 })).sort((a, b) => a.y - b.y);
+        ends.forEach((e, i) => { if (i && e.y - ends[i - 1].y < 14) e.y = ends[i - 1].y + 14; });
+        svg.append("g").selectAll("text").data(ends).join("text").attr("class", "label-muted")
+          .attr("x", width - m.r + 6).attr("y", (e) => e.y).text((e) => `${clubName(e.l.c)} ${e.n}`);
+      }
+      const hair = svg.append("line").attr("class", "crosshair").attr("y1", m.t).attr("y2", height - m.b).style("display", "none");
+      const dots = svg.append("g");
+      svg.append("rect").attr("x", m.l).attr("y", m.t).attr("width", width - m.l - m.r).attr("height", height - m.t - m.b).attr("fill", "transparent")
+        .on("pointermove", (event) => {
+          const yr = Math.max(first, Math.min(last, Math.round(x.invert(d3.pointer(event)[0]))));
+          const hits = lines.map((l) => ({ ...l, p: l.pts[yr - first] }));
+          hair.style("display", null).attr("x1", x(yr)).attr("x2", x(yr));
+          dots.selectAll("circle").data(hits).join("circle").attr("class", "trend-dot").attr("r", 4).attr("cx", (h) => x(h.p.yr)).attr("cy", (h) => y(h.p.n)).attr("fill", (h) => SLOTS[h.s]);
+          Viz.showTip(event, (t) => {
+            t.append(ttTitle(`By the end of ${yr}`));
+            hits.slice().sort((p, q) => q.p.n - p.p.n).forEach((h) => t.append(Viz.ttRow(SLOTS[h.s], h.p.n, ` ${clubName(h.c)}`)));
+            const won = list.filter((t2) => t2.year === yr && picked.has(t2.club));
+            if (won.length) t.append(ttNote(won.map((t2) => `${clubName(t2.club)}: ${t2.label}`).join(" · ")));
+          });
+        })
+        .on("pointerleave", () => { hair.style("display", "none"); dots.selectAll("circle").remove(); Viz.hideTip(); });
+      root.replaceChildren(svg.node());
+    }
+    const rerenderLine = Viz.responsive("titles-line", renderLine);
+
+    // The table: every club with a title, broken down by kind and era.
+    function renderTable() {
+      const list = scoped();
+      const rows = d3.groups(list, (t) => t.club).map(([club, mine]) => ({ club, mine, every: all.filter((t) => t.club === club) }))
+        .sort((a, b) => b.mine.length - a.mine.length || count(b.mine, "league") - count(a.mine, "league") || d3.ascending(clubName(a.club), clubName(b.club)));
+      let rank = 0;
+      rows.forEach((r, i) => (r.rank = i && rows[i - 1].mine.length === r.mine.length ? rank : (rank = i + 1)));
+      const both = state.era === "all";
+      const num = (n) => (n ? String(n) : "–");
       F.richTable(document.getElementById("titles-table"), [
-        { label: "#", cls: "num rank", render: (r) => String(rows.indexOf(r) + 1) },
+        { label: "#", cls: "num rank", render: (r) => String(r.rank) },
         { label: "Club", render: (r) => F.clubLabel(r.club) },
-        { label: "Titles", cls: "num strong", render: (r) => String(r.scoped.length) },
-        { label: "Leagues", short: "L", cls: "num", render: (r) => String(count(r.scoped, null, "league")) },
-        { label: "Cups", short: "C", cls: "num", render: (r) => String(count(r.scoped, null, "cup")) },
-        ...(era === "all" ? [
-          { label: "Amateur era", short: "Am.", cls: "num hide-sm", render: (r) => cell(r.list, "amateur") },
-          { label: "Professional era", short: "Pro", cls: "num hide-sm", render: (r) => cell(r.list, "professional") },
+        ...Object.entries(KINDS).filter(([k]) => state.kind === "all" || state.kind === k).map(([k, label]) => ({
+          label: label === "League" ? "Leagues" : `${label}s`, short: { league: "Lg", cup: "Cup", intl: "Intl" }[k], cls: "num", render: (r) => num(count(r.mine, k)),
+        })),
+        ...(both ? [
+          { label: "Amateur", short: "Am.", cls: "num hide-sm", render: (r) => num(count(r.mine, null, "amateur")) },
+          { label: "Professional", short: "Pro", cls: "num hide-sm", render: (r) => num(count(r.mine, null, "professional")) },
         ] : []),
+        { label: "Total", cls: "num strong", render: (r) => String(r.mine.length) },
       ], rows);
     }
+
+    const rerender = () => {
+      d3.selectAll("#titles-race-chart g.row").remove();
+      race.setFrames(framesFor());
+      rerenderLine();
+      renderTable();
+    };
     Viz.segmented("titles-era", [
-      { key: "all", label: "All eras" }, { key: "professional", label: "Professional era" }, { key: "amateur", label: "Amateur era" },
-    ], "all", render);
-    render("all");
+      { key: "all", label: "All eras" }, { key: "professional", label: "Professional" }, { key: "amateur", label: "Amateur" },
+    ], "all", (k) => { state.era = k; rerender(); });
+    Viz.segmented("titles-kind", [
+      { key: "all", label: "All titles" }, { key: "league", label: "Leagues" }, { key: "cup", label: "National cups" }, { key: "intl", label: "International" },
+    ], "all", (k) => { state.kind = k; rerender(); });
+    renderTable();
   })();
 
   /* ---------- National cups ---------- */

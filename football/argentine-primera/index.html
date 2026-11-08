@@ -116,13 +116,43 @@
 
     <section class="block" id="national-titles">
       <div class="block-head">
-        <h2>All national titles</h2>
-        <p>League titles and national cups together, split between the amateur and the professional eras. <span id="titles-total"></span></p>
+        <h2>Every title: leagues, national cups and international</h2>
+        <p>Every official title of the Argentine clubs: league championships, national cups and international cups, from CONMEBOL and FIFA competitions to the Río de la Plata cups of the early years. <span id="titles-total"></span></p>
       </div>
-      <div class="controls">
+      <div class="filter-bar">
+        <span class="filter-label">Era</span>
         <div class="segmented" role="tablist" aria-label="Era" id="titles-era"></div>
+        <span class="filter-label">Titles</span>
+        <div class="segmented" role="tablist" aria-label="Titles counted" id="titles-kind"></div>
+        <p class="filter-note">Applies to the race, the chart and the table below.</p>
       </div>
       <div class="card">
+        <h3 class="sub">The race for the most titles</h3>
+        <div class="controls">
+          <div class="race-date" id="titles-race-date"></div>
+        </div>
+        <div id="titles-race-chart" class="chart"></div>
+        <p class="race-ticker" id="titles-race-ticker"></p>
+        <div class="player">
+          <button class="btn-play" id="titles-race-play" aria-label="Play">▶</button>
+          <input type="range" id="titles-race-scrub" min="0" max="0" value="0" aria-label="Title">
+          <select id="titles-race-speed" aria-label="Playback speed">
+            <option value="0.5">0.5×</option>
+            <option value="1" selected>1×</option>
+            <option value="2">2×</option>
+            <option value="4">4×</option>
+          </select>
+        </div>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <h3 class="sub">Titles over time</h3>
+        <div class="chips" id="titles-chips" role="group" aria-label="Clubs"></div>
+        <div class="legend" id="titles-legend"></div>
+        <div id="titles-line" class="chart"></div>
+        <p class="chart-note" id="titles-line-note">Titles won by the end of each year. Pick up to four clubs.</p>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <h3 class="sub">Every club's titles</h3>
         <div class="data-table tall" id="titles-table"></div>
       </div>
     </section>
@@ -178,7 +208,7 @@
 
   <footer class="site-footer wrap">
     <p>
-      <strong>Data:</strong> <a href="https://en.wikipedia.org/wiki/List_of_Argentine_Primera_Divisi%C3%B3n_champions">Wikipedia, List of Argentine Primera División champions</a> (CC BY-SA 4.0), following the AFA's official list; relegations and seasons in the top flight from Spanish Wikipedia's <a href="https://es.wikipedia.org/wiki/Anexo:Movilidad_entre_la_primera_y_la_segunda_divisi%C3%B3n_del_f%C3%BAtbol_argentino">Movilidad entre la primera y la segunda división</a> and <a href="https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Argentina">Primera División de Argentina</a>.
+      <strong>Data:</strong> <a href="https://en.wikipedia.org/wiki/List_of_Argentine_Primera_Divisi%C3%B3n_champions">Wikipedia, List of Argentine Primera División champions</a> (CC BY-SA 4.0), following the AFA's official list; the international titles from <a href="https://en.wikipedia.org/wiki/List_of_CONMEBOL_club_competition_winners">List of CONMEBOL club competition winners</a> (and each cup's article) and Spanish Wikipedia's <a href="https://es.wikipedia.org/wiki/Campeonatos_rioplatenses_de_f%C3%BAtbol">Campeonatos rioplatenses de fútbol</a>; relegations and seasons in the top flight from Spanish Wikipedia's <a href="https://es.wikipedia.org/wiki/Anexo:Movilidad_entre_la_primera_y_la_segunda_divisi%C3%B3n_del_f%C3%BAtbol_argentino">Movilidad entre la primera y la segunda división</a> and <a href="https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Argentina">Primera División de Argentina</a>.
       Updated automatically twice a year. <span id="data-through"></span>
     </p>
     <p>
@@ -186,6 +216,7 @@
       Domestic cups (such as the Copa de la Liga Profesional) are not league titles; they have their own section, from
       <a href="https://es.wikipedia.org/wiki/Copas_nacionales_del_f%C3%BAtbol_argentino">Spanish Wikipedia's list of national cups</a>, with each club's total checked against that page's own table.
       A cup counts as amateur or professional by the era it was played in; the Copa Ibarguren was played in both. Shared titles (the 1952 Copa Ibarguren) count for both clubs, and unfinished editions are left out.
+      International titles count from 1931 as professional. They include the Río de la Plata cups against the Uruguayan clubs that the AFA lists as official (1905–1946; the 1941 Copa Escobar-Gerona, whose second leg was never played, was not awarded) and every CONMEBOL and FIFA club title, checked club by club against the totals of both pages.
       Top scorers come from Wikipedia's <a href="https://en.wikipedia.org/wiki/List_of_Argentine_Primera_Divisi%C3%B3n_top_scorers">list of Primera División top scorers</a>; tournaments with joint top scorers list each of them.
       The all-time tables come from <a id="alltime-source" href="https://es.wikipedia.org/wiki/Anexo:Clasificaci%C3%B3n_hist%C3%B3rica_de_la_Primera_Divisi%C3%B3n_de_Argentina_de_f%C3%BAtbol">Spanish Wikipedia</a> (based on RSSSF) and are shown as published: two points per win until 1994–95 and three since, with deducted points subtracted. A few totals in the source don't add up exactly. The 1891 title was shared by St. Andrew's and Old Caledonians.
       Clubs that no longer exist or have no crest available show their initials.

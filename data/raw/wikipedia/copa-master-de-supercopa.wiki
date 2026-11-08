@@ -1,0 +1,351 @@
+{{Infobox football tournament
+| name                 = Copa Master de Supercopa
+| image = Copa master supercopa trophy.png
+| imagesize            = 99px
+| alt                  =
+| caption              = The trophy given to champion
+| organiser            = [[CONMEBOL]]
+| founded              = 1992
+| abolished            = {{Start date and age|1995}}
+| region               = [[South America]]
+| number of teams      = 4 (1992)<br />2 (1995)
+| qualifier for        =
+| related comps        = [[Supercopa Libertadores]]
+| domestic cup         =
+| confed cup           = 
+| current champions    = 
+| most successful club = {{flagicon|ARG}} [[Boca Juniors]]<br>{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]<br>(1 title each)
+| broadcasters         =
+| motto                =
+| website              =
+| current              =
+| American             = yes
+}}
+
+The '''Copa Master de Supercopa''' was a [[association football|football]] competition contested by clubs that had previously won the [[Supercopa Libertadores]]. It was organized by [[CONMEBOL]] and only played in 1992 and 1995. A third edition was scheduled to be played in 1998, but it was initially delayed and eventually cancelled due to a lack of sponsors.
+
+The format of the tournament was different in both editions. The first edition in 1992 featured all 4 champions at the time. It was played in [[Buenos Aires]] and won by [[Boca Juniors]]. The second edition was to be played in 1994 but moved to 1995. Only two eligible teams accepted the invitation to play. The cup was played over two legs and won by [[Cruzeiro Esporte Clube|Cruzeiro]].
+
+The winners of the competitions were also given the chance to participate in a following-season grand [[super cup]] called the [[Copa de Oro]]. This competition was played three times. The first two competitions featured the respective Copa Master de Supercopa champion; however, as no Copa Master de Supercopa was contested in 1996, the vacant berth for the [[1996 Copa de Oro]] went to the [[Copa Master de CONMEBOL|1996 Copa Master de CONMEBOL]] champion.
+
+== Records and statistics ==
+===List of finals===
+{{small div|
+;Keys
+* aet: [[overtime (sports)|after extra time]]
+* p: defined on [[penalty shoot-out (association football)|penalty shoot-out]]
+* {{colorbox|#d0e7ff|border=silver}} Match decided by a [[Penalty shootout (association football)|penalty shootout]] after extra time
+* {{colorbox|#ccffcc|border=silver}} Match playoff after the series ended tied on aggregate
+* {{colorbox|#BAF5FA|border=silver}} Defined on [[penalty shoot-out (association football)|penalty shoot-out]] in the second leg
+}}
+{| class="wikitable sortable"
+|-
+! style= "width:;" | {{abbr|Ed.|Edition}}
+!Year
+! Winners
+! width= |1st.<br>leg
+! width= |2nd.<br>leg
+! width= |{{tooltip|Playoff/<br>Agg.|playoff match (if necessary) – since 1968, it was defined by average goal}}
+! Runner-up
+! width=| Venue <br>(1st leg)
+! width=| City <br>(1st leg)
+! width=| Venue <br>(2nd leg)
+! width=| City <br>(2nd leg)
+|-
+| {{center|1}} || [[Copa_Master_de_Supercopa#1992_Supercopa_Masters|1992]] || {{flagicon|ARG}} [[Boca Juniors]]|| colspan="3" | {{center|2–1}}  ||{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]  || [[José Amalfitani Stadium|José Amalfitani]] || [[Buenos Aires]] || colspan=2 style=background:#efefef| {{center|–}} 
+|-
+| {{center|2}} || [[Copa_Master_de_Supercopa#1995_Supercopa_Masters|1995]]
+|{{flagicon|BRA}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]''' || {{center|0–0}}|| {{center|1–0}} || {{center|–}}  || {{flagicon|PAR}} [[Club Olimpia|Olimpia]]  || [[Estadio Defensores del Chaco|Defensores del Chaco]] || [[Asunción]] || [[Mineirão]] ||  [[Belo Horizonte]]
+|-
+| {{center|–}} || [[Copa_Master_de_Supercopa#1998_Supercopa_Masters|1998]]
+|style=background:#efefef colspan=9| {{center|''Tournament cancelled''}}
+|}
+
+===Performances by club===
+{| class="wikitable sortable"
+|-
+!Team
+!Winner
+!Runner-up
+!Years won
+!Years runner-up
+|-
+|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]||align=center|1||align=center|1||1995||1992
+|-
+|{{flagicon|ARG}} [[Boca Juniors]]||align=center|1||align=center|0||1992|| {{center|—}}
+|-
+|{{flagicon|PAR}} [[Club Olimpia|Olimpia]]||align=center|0||align=center|1|| {{center|—}} || 1995 
+|}
+
+===Performances by nation===
+{| class="wikitable sortable"
+|-
+!|Country
+!Won
+!Runners-up
+!class="unsortable"|Winning Clubs
+!class="unsortable"|Runners-Up
+|-
+| {{flag|Brazil}}
+|align=center| 1
+|align=center| 1
+| [[Cruzeiro Esporte Clube|Cruzeiro]] (1)
+| [[Cruzeiro Esporte Clube|Cruzeiro]] (1)
+|-
+| {{flag|Argentina}}
+|align=center| 1
+|align=center| 0
+| [[Boca Juniors]] (1)
+| {{center|—}}
+|-
+|}
+
+==1992 Supercopa Masters==
+{{Infobox International Football Competition
+| tourney_name=Supercopa Masters
+| year=1992
+| city=[[Buenos Aires]]
+| country=Argentina
+| dates=27 May – 31 May
+| num_teams=4
+| confederations=1
+| venues=1
+| cities=1
+| champion_other={{flagicon|ARG}} [[Boca Juniors]]
+| count=1
+| second_other={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| third_other={{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+| fourth_other={{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+| matches = 4
+| goals=9
+}}
+The 1992 Supercopa Masters featured the four previous winners of the time. It was played in Buenos Aires at [[Estadio José Amalfitani]].
+===Participants===
+{| class="wikitable"
+|- 
+!width=150px|Team
+!Supercopa champion
+|-
+|{{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]] || [[1988 Supercopa Sudamericana|1988]]
+|-
+|{{flagicon|ARG}} [[Boca Juniors]] || [[1989 Supercopa Sudamericana|1989]]
+|-
+|{{flagicon|PAR}} [[Club Olimpia|Olimpia]] || [[1990 Supercopa Sudamericana|1990]]
+|-
+|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]] || [[1991 Supercopa Sudamericana|1991]]
+|}
+
+{{main|1992 Copa Master Final}}
+
+===Bracket===
+{{Round4-with third
+|27 May – [[Estadio José Amalfitani|Buenos Aires]]|{{flagicon|ARG}} '''[[Boca Juniors]]'''|'''1'''|{{flagicon|PAR}} [[Club Olimpia|Olimpia]]|0
+|29 May - [[Estadio José Amalfitani|Buenos Aires]]|{{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]|1 (1)|{{flagicon|BRA}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]''' (pen)|'''1 (3)'''
+|31 May – [[Estadio José Amalfitani|Buenos Aires]]|{{flagicon|ARG}} '''[[Boca Juniors]]'''|'''2'''|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]|1
+|31 May – [[Estadio José Amalfitani|Buenos Aires]]|{{flagicon|PAR}} '''[[Club Olimpia|Olimpia]]'''|'''2'''|{{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]|1
+}}
+
+==1995 Supercopa Masters==
+{{Infobox International Football Competition
+| tourney_name=Supercopa Masters
+| year=1995
+| dates=3 May – 16 May
+| num_teams=2
+| confederations=1
+| champion_other={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| count=1
+| second_other={{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+| matches=2
+| goals=1
+}}
+The 1995 Supercopa Masters was a two-legged match between two previous Supercopa Sudamericana champions. It was to be played in 1994 but was postponed until 1995.
+
+===Participants===
+{| class="wikitable"
+|- 
+!width=140|Team
+!Champion
+|-
+|{{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|[[1990 Supercopa Sudamericana|1990]]
+|-
+|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|[[1991 Supercopa Sudamericana|1991]], [[1992 Supercopa Sudamericana|1992]]
+|}
+
+===First leg===
+{{footballbox 
+|date=3 March 1995 
+| team1=[[Club Olimpia|Olimpia]] {{flagicon|PAR}} 
+| score=0–0 
+| report=[https://www.rsssf.org/sacups/sasupmas94.html Report]
+| team2={{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| stadium= [[Estadio Defensores del Chaco]], [[Asunción]] 
+| referee  = Alberto Tejada (Peru)
+| attendance = 
+}}
+----
+===Second leg===
+{{footballbox | date=16 March 1995 | team1=[[Cruzeiro Esporte Clube|Cruzeiro]] {{flagicon|BRA}} | score=1–0 | report=[https://www.rsssf.org/sacups/sasupmas94.html Report] | team2={{flagicon|PAR}} [[Club Olimpia|Olimpia]] | goals1=Marcelo {{goal|76}} | stadium=[[Mineirão]], [[Belo Horizonte]] | attendance=20,000 | referee=[[Javier Castrilli]] ([[Argentine Football Association|Argentina]])
+}}
+{| width=80% |
+|-
+|width="130"|&nbsp;
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _collar
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _blueband
+ |leftarm    = 0000cc
+ |body       = 0000cc
+ |rightarm   = 0000cc
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Cruzeiro
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  =_blackhorizontal
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so =
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |title      = Olimpia
+}}
+|}
+{| width="80%" |
+|-
+|width="160"|&nbsp;
+|valign="top" width="40%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"| 
+|-
+!width=25| !!width=25|
+|-
+|GK|| ||{{flagicon|CMR}} [[Bassey William Andem|William Andem]]
+|-
+|RB|| ||{{flagicon|BRA}} [[Rodrigo Silva Reis dos Santos|Rodrigo Silva]]
+|-
+|CB|| ||{{flagicon|BRA}} [[Pedro Sartori Júnior|Júnior]]
+|-
+|CB|| ||{{flagicon|BRA}} [[Rogério Moraes Lourenço|Rogério]]
+|-
+|LB|| ||{{flagicon|BRA}} [[Raimundo Nonato da Silva|Nonato]]
+|-
+|DM|| ||{{flagicon|BRA}} [[Ademir Roque Kaefer|Ademir]]
+|-
+|DM|| ||{{flagicon|BRA}} [[Pingo (footballer)|Pingo]]
+|-
+|MF|| ||{{flagicon|BRA}} [[Ricardo Alexandre dos Santos|Ricardinho]] || || {{suboff|a}}
+|-
+|MF|| ||{{flagicon|BRA}} [[Luís Fernando Rosa Flores|Luís Fernando Flores]]
+|-
+|FW|| ||{{flagicon|BRA}} [[Cleisson Edson Assunção|Cleisson]] || || {{suboff|b}}
+|-
+|FW|| ||{{flagicon|BRA}} [[Marcelo Ramos (footballer, born 1973)|Marcelo Ramos]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|FW|| ||{{flagicon|BRA}} [[Volcemar Silva de Lima|Tiganá]] || || {{subon|a}}
+|-
+|FW|| ||{{flagicon|BRA}} [[Claudinei Alexandre Pires|Dinei]] || || {{subon|b}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|BRA}} [[Carlos Alberto Silva]]
+|}
+|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"| 
+|-
+!width=25| !!width=25|
+|-
+|GK|| ||{{flagicon|URU}} [[Claudio Arbiza|Arbiza]]
+|-
+|RB|| ||{{flagicon|PRY}} [[Virginio Cáceres|Cáceres]]
+|-
+|CB|| ||{{flagicon|PRY}} Saravia
+|-
+|CB|| ||{{flagicon|PRY}} Caballero
+|-
+|LB|| ||{{flagicon|PRY}} [[Silvio Suárez|Suárez]] || || {{suboff|a}}
+|-
+|DM|| ||{{flagicon|PRY}} Fernández
+|-
+|DM|| ||{{flagicon|PRY}} [[Vidal Sanabria]]
+|-
+|MF|| ||{{flagicon|PRY}} [[Adolfo Jara|Jara]]
+|-
+|MF|| ||{{flagicon|PRY}} [[Francisco Esteche|Esteche]]
+|-
+|FW|| ||{{flagicon|PRY}} [[Richart Báez|Báez]]
+|-
+|FW|| ||{{flagicon|PRY}} [[Adriano Samaniego|Samaniego]]
+|-
+|colspan=3|'''Substitutes:'''
+|-
+|MF|| ||{{flagicon|PRY}} [[Jorge Luis Campos|Campos]] || || {{subon|a}}
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan=4|{{flagicon|URU}} [[Miguel Ángel Piazza]]
+|}
+|}
+''Cruzeiro won 1–0 on aggregate.''
+
+==1998 Supercopa Masters==
+The 1998 Supercopa Masters was to feature all previous Supercopa Sudamericana winners. It was to be played between 28 May and 7 June in [[Avellaneda]], [[Argentina]] but was postponed due to a lack of sponsors. It was to be played after the World Cup but was later dropped.
+
+===Participants===
+{| class="wikitable"
+|- 
+!width=140|Team
+!Champion
+|-
+|{{flagicon|ARG}} [[Racing Club de Avellaneda|Racing]]
+|[[1988 Supercopa Sudamericana|1988]]
+|-
+|{{flagicon|ARG}} [[Boca Juniors]]
+|[[1989 Supercopa Sudamericana|1989]]
+|-
+|{{flagicon|PAR}} [[Club Olimpia|Olimpia]]
+|[[1990 Supercopa Sudamericana|1990]]
+|-
+|{{flagicon|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|[[1991 Supercopa Sudamericana|1991]], [[1992 Supercopa Sudamericana|1992]]
+|-
+|{{flagicon|BRA}} [[São Paulo FC|São Paulo]]
+|[[1993 Supercopa Sudamericana|1993]]
+|-
+|{{flagicon|ARG}} [[Club Atlético Independiente|Independiente]]
+|[[1994 Supercopa Sudamericana|1994]], [[1995 Supercopa Sudamericana|1995]]
+|-
+|{{flagicon|ARG}} [[Club Atlético Vélez Sársfield|Vélez Sársfield]]
+|[[1996 Supercopa Sudamericana|1996]]
+|-
+|{{flagicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|[[1997 Supercopa Sudamericana|1997]]
+|}
+
+==See also==
+*[[Copa de Oro]]
+*[[Copa Master de CONMEBOL]]
+*[[Copa Libertadores]]
+*[[Supercopa Libertadores]]
+
+==External links==
+*[https://www.rsssf.org/sacups/samisc.html RSSSF]
+
+{{South American Football}}{{International Club Football}}
+[[Category:Defunct CONMEBOL club competitions]]
+[[Category:Men's continental association football competitions in South America]]
+[[Category:Supercopa Libertadores]]
+[[Category:Recurring sporting events established in 1992]]
+[[Category:Recurring sporting events established in 1998]]
+[[Category:1992 establishments in South America]]
+[[Category:1998 disestablishments in South America]]

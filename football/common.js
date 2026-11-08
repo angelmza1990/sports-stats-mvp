@@ -208,24 +208,26 @@ window.Football = function (data) {
 
   /**
    * frames: [{label, event, ranked: [{id, n}]}]
-   * opts: {chartId, colorOf(id), ticker(event) -> Node[] | string, emptyTicker, frameMs, top}
+   * opts: {chartId, prefix, colorOf(id), ticker(event) -> Node[] | string, emptyTicker, frameMs, top}
    * Returns {setFrames(frames)} so a page can swap datasets (e.g. with/without an era).
    */
   function race(frames, opts) {
     const TOP = opts.top ?? 10;
     const state = { frames, idx: Viz.reduceMotion ? frames.length - 1 : 0, playing: false, timer: null };
-    const dateEl = document.getElementById("race-date");
-    const tickerEl = document.getElementById("race-ticker");
-    const playBtn = document.getElementById("race-play");
-    const scrub = document.getElementById("race-scrub");
-    const speedSel = document.getElementById("race-speed");
+    // A page with a second race gives its controls another prefix ("titles-race-date"...).
+    const prefix = opts.prefix ?? "race";
+    const dateEl = document.getElementById(`${prefix}-date`);
+    const tickerEl = document.getElementById(`${prefix}-ticker`);
+    const playBtn = document.getElementById(`${prefix}-play`);
+    const scrub = document.getElementById(`${prefix}-scrub`);
+    const speedSel = document.getElementById(`${prefix}-speed`);
 
     const rowH = 38;
     const barH = 24;
     const crestSize = 28;
     const margin = { top: 24, right: 64, bottom: 8, left: 200 };
     const height = margin.top + rowH * TOP + margin.bottom;
-    const svg = d3.select(`#${opts.chartId ?? "race-chart"}`).append("svg").attr("role", "img");
+    const svg = d3.select(`#${opts.chartId ?? `${prefix}-chart`}`).append("svg").attr("role", "img");
     const grid = svg.append("g");
     const bars = svg.append("g");
     let width = 0;
@@ -322,7 +324,7 @@ window.Football = function (data) {
     });
 
     scrub.max = frames.length - 1;
-    Viz.responsive(opts.chartId ?? "race-chart", (w) => {
+    Viz.responsive(opts.chartId ?? `${prefix}-chart`, (w) => {
       width = w;
       narrow = w < 560;
       margin.left = narrow ? 150 : 200;
@@ -337,7 +339,7 @@ window.Football = function (data) {
           if (state.idx === 0) play();
         }
       }, { threshold: 0.6 });
-      io.observe(document.getElementById(opts.chartId ?? "race-chart"));
+      io.observe(document.getElementById(opts.chartId ?? `${prefix}-chart`));
     }
 
     return {

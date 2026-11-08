@@ -94,6 +94,11 @@ jobs:
         continue-on-error: true
         run: python3 scripts/build_balance.py
 
+      # After the Libertadores, Sudamericana and world titles: every international title of the Argentine clubs.
+      - name: Rebuild football (Argentine international titles)
+        continue-on-error: true
+        run: python3 scripts/build_argentine_titles.py --refresh
+
       # After the club and league pages: every coach's title is matched to their champions.
       - name: Rebuild football coaches and players
         id: people
