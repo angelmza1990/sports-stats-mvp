@@ -201,7 +201,9 @@
       const rows = data.alltime.slice().sort((a, b) => (b.pts ?? b.w) - (a.pts ?? a.w) || b.w - a.w);
       const has = (k) => rows.some((r) => r[k] != null);
       const unit = data.meta.unit;
-      document.getElementById("alltime-note").textContent = `${rows.length} teams, ranked by ${has("pts") ? "points" : "wins"}.`;
+      // Football tables (three points per win) also show the effectiveness; other sports score differently.
+      const football = location.pathname.includes("/football/");
+      document.getElementById("alltime-note").textContent = `${rows.length} teams, ranked by ${has("pts") ? "points" : "wins"}.${football && has("d") ? ` ${F.EFFECTIVENESS_NOTE}` : ""}`;
       F.richTable(document.getElementById("alltime-table"), [
         { label: "#", cls: "num rank", render: (r) => String(rows.indexOf(r) + 1) },
         { label: "Team", render: (r) => teamLabel(r.team) },
@@ -214,6 +216,7 @@
           { label: "Against", short: "A", cls: "num hide-sm", render: (r) => d3.format(",")(r.pa ?? 0) }] : []),
         { label: "Win %", cls: "num", render: (r) => `${((100 * r.w) / r.pld).toFixed(1)}%` },
         ...(has("pts") ? [{ label: "Points", short: "Pts", cls: "num strong", render: (r) => String(r.pts) }] : []),
+        ...(football && has("d") ? [F.effColumn] : []),
       ], rows);
     }
 

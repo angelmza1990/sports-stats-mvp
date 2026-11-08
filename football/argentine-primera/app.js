@@ -108,7 +108,7 @@
       const note = { total: "Amateur and professional eras combined", professional: "Professional era", amateur: "Amateur era" }[key];
       const off = rows.filter((r) => r.pld !== r.w + r.d + r.l).length;
       document.getElementById("alltime-note").textContent = `${note}, ${periods[key] ?? ""}: ${rows.length} clubs.` +
-        (off ? ` In ${off} rows the source's wins, draws and losses don't add up to matches played; figures are shown as published.` : "");
+        (off ? ` In ${off} rows the source's wins, draws and losses don't add up to matches played; figures are shown as published.` : "") + ` ${F.EFFECTIVENESS_NOTE}`;
       F.richTable(document.getElementById("alltime-table"), [
         { label: "#", cls: "num rank", render: (r) => String(rows.indexOf(r) + 1) },
         { label: "Club", render: (r) => F.clubLabel(r.club) },
@@ -121,6 +121,7 @@
         { label: "GD", cls: "num hide-sm", render: (r) => sign(r.gf - r.ga) },
         ...(key === "total" ? [{ label: "Titles", cls: "num", render: (r) => String(counts.get(r.club) ?? 0) }] : []),
         { label: "Points", short: "Pts", cls: "num strong", render: (r) => String(r.pts) },
+        F.effColumn,
       ], rows);
     }
     Viz.segmented("alltime-tabs", TABS, "total", render);

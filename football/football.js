@@ -112,7 +112,7 @@
     if (!document.getElementById("points-table")) return; // a page without this section
     const rows = data.alltime.slice().sort((a, b) => b.pts - a.pts || (b.gf - b.ga) - (a.gf - a.ga));
     document.getElementById("points-note").textContent =
-      `${data.meta.pointsRule}. ${data.meta.alltimeScope ? `${rows.length} clubs: ${data.meta.alltimeScope}` : `${rows.length} clubs${rows.length <= 25 ? " (the published top 25)" : ", every club that has taken part"}`}.`;
+      `${data.meta.pointsRule}. ${data.meta.alltimeScope ? `${rows.length} clubs: ${data.meta.alltimeScope}` : `${rows.length} clubs${rows.length <= 25 ? " (the published top 25)" : ", every club that has taken part"}`}. ${F.EFFECTIVENESS_NOTE}`;
     const sign = (n) => (n > 0 ? `+${n}` : String(n));
     F.richTable(document.getElementById("points-table"), [
       { label: "#", cls: "num rank", render: (r) => String(rows.indexOf(r) + 1) },
@@ -126,6 +126,7 @@
       { label: "GA", cls: "num hide-sm", render: (r) => String(r.ga) },
       { label: "GD", cls: "num", render: (r) => sign(r.gf - r.ga) },
       { label: "Points", short: "Pts", cls: "num strong", render: (r) => String(r.pts) },
+      F.effColumn,
     ], rows);
   })();
 

@@ -372,6 +372,7 @@
     { key: "pld", label: "Matches", value: (r) => r.n },
     { key: "w", label: "Wins", value: (r) => r.w },
     { key: "pct", label: "Win %", value: (r) => r.w / r.n },
+    { key: "eff", label: "Effectiveness", value: (r) => (3 * r.w + r.d) / (3 * r.n) },
     { key: "gd", label: "Goal difference", value: (r) => r.gf - r.ga },
   ];
   const tableState = { sort: "w", kind: "all" };
@@ -388,7 +389,7 @@
     const s = SORTS.find((x) => x.key === tableState.sort);
     const list = rows.filter((r) => r.n >= 100).sort((p, q) => s.value(q) - s.value(p) || q.n - p.n);
     document.getElementById("alltime-lede").textContent =
-      `${list.length} national teams with at least 100 ${tableState.kind === "competitive" ? "competitive matches (friendlies left out)" : "matches"}.`;
+      `${list.length} national teams with at least 100 ${tableState.kind === "competitive" ? "competitive matches (friendlies left out)" : "matches"}. ${F.EFFECTIVENESS_NOTE}`;
     F.richTable(document.getElementById("alltime-table"), [
       { label: "#", cls: "rank", render: (r) => String(list.indexOf(r) + 1) },
       { label: "Team", render: (r) => label(r.i) },
@@ -398,6 +399,7 @@
       { label: "L", cls: "num hide-sm", render: (r) => String(r.l) },
       { label: "Goals", cls: "num hide-sm", render: (r) => `${d3.format(",")(r.gf)}–${d3.format(",")(r.ga)}` },
       { label: "Win %", cls: "num", render: (r) => pct(r.w / r.n, 1) },
+      { ...F.effColumn, render: (r) => pct((3 * r.w + r.d) / (3 * r.n), 1) },
     ], list);
   }
   Viz.segmented("alltime-sort", SORTS, tableState.sort, (k) => { tableState.sort = k; renderTable(); });

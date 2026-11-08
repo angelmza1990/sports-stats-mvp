@@ -97,6 +97,14 @@ window.Football = function (data) {
     if (iso) g.append("image").attr("href", Viz.flagUrl(iso)).attr("width", 20).attr("height", 15).attr("preserveAspectRatio", "xMidYMid slice");
   }
 
+  // Effectiveness: the share of the points available, at three per win and one per draw whatever the table's own rule,
+  // so tables published with two points per win compare with the rest.
+  const EFFECTIVENESS_NOTE = "Effectiveness is the share of the points available, at three points per win and one per draw.";
+  const effColumn = {
+    label: "Effectiveness", short: "Eff.", cls: "num",
+    render: (r) => (r.pld ? `${((100 * (3 * r.w + (r.d ?? 0))) / (3 * r.pld)).toFixed(1)}%` : "–"),
+  };
+
   function clubLabel(id, withFlag = false) {
     const span = el("span", "club");
     if (withFlag && !nations) span.append(flag(clubs[id]?.country));
@@ -399,6 +407,6 @@ window.Football = function (data) {
   return {
     rankList,
     clubs, countries, clubName, countryName, fit, scoreText, crest, svgCrest, flag, svgFlag, clubLabel,
-    richTable, withSub, statTiles, repeatedFinals, groupRows, race, titleFrames,
+    richTable, withSub, statTiles, repeatedFinals, groupRows, race, titleFrames, effColumn, EFFECTIVENESS_NOTE,
   };
 };

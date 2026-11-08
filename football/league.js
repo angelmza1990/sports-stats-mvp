@@ -110,7 +110,7 @@
     const rows = data.alltime.slice().sort((a, b) => b.pts - a.pts || (b.gf - b.ga) - (a.gf - a.ga));
     const has = (k) => rows.some((r) => r[k] != null);
     const sign = (n) => (n > 0 ? `+${n}` : String(n));
-    document.getElementById("alltime-note").textContent = `${data.meta.alltimePeriod}: ${rows.length} clubs. ${data.meta.alltimeNote}`;
+    document.getElementById("alltime-note").textContent = `${data.meta.alltimePeriod}: ${rows.length} clubs. ${data.meta.alltimeNote} ${F.EFFECTIVENESS_NOTE}`;
     F.richTable(document.getElementById("alltime-table"), [
       { label: "#", cls: "num rank", render: (r) => String(rows.indexOf(r) + 1) },
       { label: "Club", render: (r) => F.clubLabel(r.club) },
@@ -126,6 +126,7 @@
       ] : []),
       { label: "Titles", cls: "num", render: (r) => String(counts.get(r.club) ?? 0) },
       { label: "Points", short: "Pts", cls: "num strong", render: (r) => String(r.pts) },
+      F.effColumn,
     ], rows);
     const src = document.getElementById("alltime-source");
     src.href = data.meta.alltimeSource;
