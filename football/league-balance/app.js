@@ -334,6 +334,41 @@
     links.append(a, document.createTextNode(i < leagues.length - 2 ? ", " : i === leagues.length - 2 ? " and " : ""));
   });
 
+  /* ---------- Amateur and professional eras ---------- */
+
+  (function professional() {
+    const TREAT = {
+      all: "Amateur titles count",
+      "pro-only": "Only professional titles count",
+      debated: "Debated",
+      none: "No amateur national league",
+    };
+    const rows = leagues.map((l) => {
+      const p = l.professional;
+      const isAmateur = (t) => t[0] < p.since || l.amateurSeasons.includes(t[2]);
+      const amateur = l.titles.filter(isAmateur);
+      const pro = l.titles.filter((t) => !isAmateur(t));
+      return { l, p, amateur, pro, top: measures(l.titles).counts[0], topPro: pro.length ? measures(pro).counts[0] : null };
+    }).sort((a, b) => a.p.since - b.p.since || d3.ascending(a.l.label, b.l.label));
+    const n = (k) => rows.filter((r) => r.p.treatment === k).length;
+    document.getElementById("pro-lede").textContent =
+      `When football turned professional in each league, and whether the titles from before still count. ${n("all")} of the ${rows.length} leagues count their amateur titles like the rest, ${n("pro-only")} count only the professional ones, ${n("debated")} are debated, and ${n("none")} had no amateur national league.`;
+    const leader = (c) => (c ? F.withSub(document.createTextNode(clubName(c[0])), `${c[1]} titles`) : "–");
+    function render(filter) {
+      const list = rows.filter((r) => filter === "every" || r.p.treatment === filter);
+      F.richTable(document.getElementById("pro-table"), [
+        { label: "League", render: (r) => F.withSub(leagueLabel(r.l), r.l.competition) },
+        { label: "Professional since", short: "Pro", cls: "num strong", render: (r) => String(r.p.since) },
+        { label: "Amateur titles", short: "Am.", cls: "num", render: (r) => (r.amateur.length ? F.withSub(document.createTextNode(String(r.amateur.length)), `${r.amateur[0][0]}–${r.amateur[r.amateur.length - 1][0]}`) : "–") },
+        { label: "How they count", render: (r) => F.withSub(el("strong", null, TREAT[r.p.treatment]), `${r.p.milestone}. ${r.p.note}`) },
+        { label: "Most titles, all eras", cls: "hide-sm", render: (r) => leader(r.top) },
+        { label: "Professional era only", cls: "hide-sm", render: (r) => (r.amateur.length ? leader(r.topPro) : "same") },
+      ], list);
+    }
+    Viz.segmented("pro-filter", [{ key: "every", label: "All leagues" }, ...Object.entries(TREAT).map(([key, label]) => ({ key, label }))], "every", render);
+    render("every");
+  })();
+
   Viz.onThemeChange(() => {
     renderKey();
     rerenderHeat();

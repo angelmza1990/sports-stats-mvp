@@ -183,7 +183,7 @@ Every Copa América (since 1916), European Championship, Africa Cup of Nations, 
 
 ### ⚖️ [League Balance](https://angelmza1990.github.io/sports-stats-mvp/football/league-balance/)
 
-The twenty national leagues side by side: how evenly each has shared its titles (the effective number of champions, the inverse of the Herfindahl–Hirschman index of the clubs' title shares, and the top two clubs' share), all time and since 1990 and 2010, a heatmap of the top two's share decade by decade, the effective number of champions over each league's last 20 titles, the longest title streaks, each league's most dominant club and its newest first-time champion. Built by `scripts/build_balance.py` from the league datasets, with no downloads.
+The twenty national leagues side by side: how evenly each has shared its titles (the effective number of champions, the inverse of the Herfindahl–Hirschman index of the clubs' title shares, and the top two clubs' share), all time and since 1990 and 2010, a heatmap of the top two's share decade by decade, the effective number of champions over each league's last 20 titles, the longest title streaks, each league's most dominant club and its newest first-time champion, and a table of when each league turned professional, how many amateur titles it has and whether its federation counts them, with the leader counting every era and only the professional one. Built by `scripts/build_balance.py` from the league datasets, with no downloads.
 
 ### ⚔️ [Great Rivalries](https://angelmza1990.github.io/sports-stats-mvp/football/rivalries/)
 

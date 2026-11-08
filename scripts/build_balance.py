@@ -39,10 +39,14 @@ LEAGUES = {
     "mls": ("United States", "USA"),
 }
 OUT = ROOT / "football" / "league-balance" / "data" / "balance.json"
+# When each league turned professional and how its amateur titles are treated (written by hand, with sources in the page).
+PROFESSIONALISM = ROOT / "data" / "manual" / "professionalism.json"
 
 
 def main() -> None:
     leagues, clubs, countries = [], {}, {}
+    pro = json.loads(PROFESSIONALISM.read_text())["leagues"]
+    assert set(pro) == set(LEAGUES), set(pro) ^ set(LEAGUES)
     for key, (label, country) in LEAGUES.items():
         data = json.loads((ROOT / "football" / key / "data" / f"{key}.json").read_text())
         titles = [[t["year"], t["champion"], t["season"]] for t in data["titles"]]
@@ -56,6 +60,9 @@ def main() -> None:
             "key": key, "label": label, "country": country, "competition": data["meta"]["competition"],
             "through": data["meta"].get("through"), "eras": data["meta"].get("eras") or [],
             "titles": [[y, f"{key}/{cid}", s] for y, cid, s in titles],
+            "professional": pro[key],
+            # Amateur titles of professional years (Argentina's amateur association until 1934), as the league page marks them.
+            "amateurSeasons": [t["season"] for t in data["titles"] if t.get("era") == "amateur" and t["year"] >= pro[key]["since"]],
         })
     out = {"meta": {"generated": date.today().isoformat()}, "countries": countries, "clubs": clubs, "leagues": leagues}
     OUT.parent.mkdir(parents=True, exist_ok=True)
