@@ -47,6 +47,27 @@
       </div>
     </section>
 
+    <section class="block" id="honours" data-src="data/honours.json">
+      <div class="block-head">
+        <h2>Every trophy by club</h2>
+        <p>League titles, national cups and international titles of the clubs with the most, side by side.</p>
+      </div>
+      <div class="card">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Trophies" id="honours-kind"></div>
+        </div>
+        <div class="legend" id="honours-legend"></div>
+        <div id="honours-chart" class="chart"></div>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <div class="controls">
+          <div class="segmented" role="tablist" aria-label="Columns" id="honours-view"></div>
+        </div>
+        <p class="country-note" id="honours-note"></p>
+        <div class="data-table tall with-sub" id="honours-table"></div>
+      </div>
+    </section>
+
     <div class="filter-bar" id="era-bar">
       <span class="filter-label">Era</span>
       <div class="segmented" role="tablist" aria-label="Era" id="era-filter"></div>
@@ -62,6 +83,7 @@
         <div class="data-table tall" id="clubs-table"></div>
       </div>
     </section>
+
 
     <section class="block" id="alltime">
       <div class="block-head">
@@ -122,6 +144,9 @@
       Club names and crests are trademarks of their respective clubs, shown here for identification only (crests via ESPN's public CDN).
       This project is not affiliated with the DFB or the DFL.
     </p>
+    <p>
+      <strong>Trophies by club:</strong> the cups from Wikipedia (CC BY-SA 4.0): <a href="https://en.wikipedia.org/wiki/List_of_DFB-Pokal_finals">DFB-Pokal</a>, <a href="https://en.wikipedia.org/wiki/Franz_Beckenbauer_Supercup">German Super Cup</a>, <a href="https://en.wikipedia.org/wiki/DFL-Ligapokal">DFL-Ligapokal (1972–2007)</a>; international titles from <a href="https://en.wikipedia.org/wiki/List_of_UEFA_club_competition_winners">List of UEFA club competition winners</a> and this site's own data for the world titles. Each cup table is checked against the years it lists, and the international lists against this site's finals.
+    </p>
     <p><a href="https://github.com/angelmza1990/sports-stats-mvp">Source code on GitHub</a></p>
   </footer>
 
@@ -129,5 +154,6 @@
   <script src="../../assets/viz.js"></script>
   <script src="../common.js"></script>
   <script src="../league.js"></script>
+  <script src="../honours.js"></script>
 </body>
 </html>

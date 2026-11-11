@@ -99,6 +99,11 @@ jobs:
         continue-on-error: true
         run: python3 scripts/build_argentine_titles.py --refresh
 
+      # After the league, continental and world pages: every trophy of each league's clubs.
+      - name: Rebuild football (trophies by club)
+        continue-on-error: true
+        run: python3 scripts/build_honours.py --refresh
+
       # After the club and league pages: every coach's title is matched to their champions.
       - name: Rebuild football coaches and players
         id: people

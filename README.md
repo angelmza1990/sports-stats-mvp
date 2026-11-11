@@ -477,6 +477,7 @@ python3 scripts/build_tc2000.py --refresh     # motorsport: TC2000
 python3 scripts/build_champions.py --refresh  # Grand Tours, golf majors, MotoGP and the Dakar
 python3 scripts/build_records.py --refresh    # athletics world record progressions
 python3 scripts/build_argentine_titles.py --refresh  # international titles of the Argentine clubs
+python3 scripts/build_honours.py --refresh           # every trophy by club on each league page
 python3 scripts/build_atp_records.py --refresh  # tennis: ATP and WTA career records (after build_masters.py)
 python3 scripts/build_tennis_ages.py --refresh  # tennis: age records (after build_grand_slams.py)
 python3 scripts/build_number_ones.py --refresh  # tennis: every spell at world No. 1
