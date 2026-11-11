@@ -404,9 +404,46 @@ window.Football = function (data) {
     });
   }
 
+  // How long each league champion has gone without the title, and its longest wait between two titles.
+  // Waits are in years, from the year each season started; seasons that weren't played count as years.
+  function droughts(prefix, titles, extra = "") {
+    const last = d3.max(titles, (t) => t.year);
+    const lastSeason = titles.filter((t) => t.year === last).pop().season;
+    const rows = d3.groups(titles, (t) => t.champion).map(([club, list]) => {
+      const won = list.slice().sort((a, b) => a.year - b.year);
+      const latest = won[won.length - 1];
+      let longest = { n: last - latest.year, from: latest, to: null }; // the current wait, still going
+      won.forEach((t, i) => {
+        const next = won[i + 1];
+        if (next && next.year - t.year > longest.n) longest = { n: next.year - t.year, from: t, to: next };
+      });
+      return { club, won, latest, current: last - latest.year, longest };
+    });
+    const years = (n) => (n === 1 ? "1 year" : `${n} years`);
+    const note = document.getElementById(`${prefix}-note`);
+    const waiting = rows.filter((r) => r.current >= 10).length;
+    note.textContent = `${rows.length} clubs have won the league; ${waiting} of them have gone ten years or more without the title. ` +
+      `Waits are counted in years from the start of each season through ${lastSeason}, so seasons that weren't played count too.${extra ? ` ${extra}` : ""}`;
+    function render(order) {
+      const list = rows.slice().sort(order === "current"
+        ? (a, b) => b.current - a.current || b.won.length - a.won.length
+        : (a, b) => b.longest.n - a.longest.n || b.current - a.current);
+      richTable(document.getElementById(`${prefix}-table`), [
+        { label: "#", cls: "num rank hide-sm", render: (r) => String(list.indexOf(r) + 1) },
+        { label: "Club", render: (r) => withSub(clubLabel(r.club), `${r.won.length} title${r.won.length > 1 ? "s" : ""} · last ${r.latest.season}`) },
+        { label: "Without the title", short: "Wait", cls: `num${order === "current" ? " strong" : ""}`, render: (r) => (r.current ? years(r.current) : "Champion") },
+        { label: "Longest wait", short: "Longest", cls: `num${order === "longest" ? " strong" : ""}`,
+          render: (r) => withSub(document.createTextNode(r.longest.n ? years(r.longest.n) : "–"),
+            r.longest.to ? `${r.longest.from.season} to ${r.longest.to.season}` : r.longest.n ? `since ${r.longest.from.season}, still going` : "") },
+      ], list);
+    }
+    Viz.segmented(`${prefix}-tabs`, [{ key: "current", label: "Current wait" }, { key: "longest", label: "Longest wait ever" }], "current", render);
+    render("current");
+  }
+
   return {
     rankList,
     clubs, countries, clubName, countryName, fit, scoreText, crest, svgCrest, flag, svgFlag, clubLabel,
-    richTable, withSub, statTiles, repeatedFinals, groupRows, race, titleFrames, effColumn, EFFECTIVENESS_NOTE,
+    richTable, withSub, statTiles, repeatedFinals, groupRows, race, titleFrames, effColumn, EFFECTIVENESS_NOTE, droughts,
   };
 };

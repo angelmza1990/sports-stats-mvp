@@ -78,6 +78,24 @@
     const list = scoped();
     const kinds = KINDS.filter((k) => state.kind === "all" || k.key === state.kind);
     const club = { label: "Club", render: (r) => F.withSub(F.clubLabel(r.club), kinds.filter((k) => k.key !== "league").map((k) => detail(r, k.key)).filter(Boolean).join(" · ") || " ") };
+    // Each club's part of the titles of each kind won by the clubs of this league (cup tables include the odd foreign winner).
+    const pct = (n, of) => (n ? ((100 * n) / of).toFixed(1) : "–"); // the header says %
+    const sum = (f) => d3.sum(rows, f);
+    const domestic = (r) => r.by.league + (r.by.cup ?? 0);
+    const shares = [
+      // On phones the international share gives way to the domestic one.
+      ...kinds.map((k) => ({ label: `${k.label} %`, short: k.short, cls: k.key === "intl" && state.kind === "all" ? "num hide-sm" : "num", render: (r) => pct(r.by[k.key], sum((q) => q.by[k.key])) })),
+      ...(state.kind === "all" && KINDS.some((k) => k.key === "cup") ? [{ label: "League and cups %", short: "Dom", cls: "num", render: (r) => pct(domestic(r), sum(domestic)) }] : []),
+      ...(state.kind === "all" ? [{ label: "All trophies %", short: "All", cls: "num strong", render: (r) => pct(r.total, sum((q) => q.total)) }] : []),
+    ];
+    if (state.view === "share") {
+      F.richTable(document.getElementById("honours-table"), [
+        { label: "#", cls: "num rank hide-sm", render: (r) => String(r.rank) },
+        { label: "Club", render: (r) => F.clubLabel(r.club) },
+        ...shares,
+      ], list);
+      return;
+    }
     const columns = state.view === "summary" ? [
       ...kinds.map((k) => ({ label: k.label, short: k.short, cls: "num", render: (r) => num(r.by[k.key]) })),
     ] : comps.filter((c) => state.kind === "all" || c.kind === state.kind).map((c) => ({
@@ -101,11 +119,12 @@
   const note = document.getElementById("honours-note");
   note.textContent = `${d3.sum(rows, (r) => r.total)} trophies won by ${rows.length} clubs: ${KINDS.map((k) => `${count(k.key)} ${k.label.toLowerCase()}`).join(", ")}. ` +
     `Counted: ${lists.join("; ")}. ${data.meta.notes.join(" ")} ` +
+    "Share (%): each club's part of all the titles of each kind; \"League and cups\" covers every tournament played in the country, international titles are shared among this league's clubs. " +
     "Shared titles count for each club; friendly and invitational trophies are left out" +
     (comps.some((c) => c.key === "ucl") ? ", and so is the Inter-Cities Fairs Cup, which UEFA does not count as one of its competitions." : ".");
 
   const redraw = () => { rerender(); table(); };
   Viz.segmented("honours-kind", [{ key: "all", label: "All trophies" }, ...KINDS.map((k) => ({ key: k.key, label: k.label }))], "all", (k) => { state.kind = k; redraw(); });
-  Viz.segmented("honours-view", [{ key: "summary", label: "By kind" }, { key: "competition", label: "By competition" }], "summary", (k) => { state.view = k; table(); });
+  Viz.segmented("honours-view", [{ key: "summary", label: "By kind" }, { key: "share", label: "Share (%)" }, { key: "competition", label: "By competition" }], "summary", (k) => { state.view = k; table(); });
   table();
 })();

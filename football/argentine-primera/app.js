@@ -92,6 +92,7 @@
 
   Viz.segmented("era-filter", ERAS, "all", render);
   render("all");
+  F.droughts("droughts", titles.filter((t) => t.era === "professional"), "Professional titles only (since 1931), so the clubs of the amateur years, most of them long gone, don't crowd the list.");
 
   /* ---------- All-time tables (total, professional, amateur) ---------- */
 
@@ -389,7 +390,7 @@
       const both = state.era === "all";
       const num = (n) => (n ? String(n) : "–");
       F.richTable(document.getElementById("titles-table"), [
-        { label: "#", cls: "num rank", render: (r) => String(r.rank) },
+        { label: "#", cls: "num rank hide-sm", render: (r) => String(r.rank) },
         { label: "Club", render: (r) => F.clubLabel(r.club) },
         ...Object.entries(KINDS).filter(([k]) => state.kind === "all" || state.kind === k).map(([k, label]) => ({
           label: label === "League" ? "Leagues" : `${label}s`, short: { league: "Lg", cup: "Cup", intl: "Intl" }[k], cls: "num", render: (r) => num(count(r.mine, k)),
@@ -399,6 +400,7 @@
           { label: "Professional", short: "Pro", cls: "num hide-sm", render: (r) => num(count(r.mine, null, "professional")) },
         ] : []),
         { label: "Total", cls: "num strong", render: (r) => String(r.mine.length) },
+        { label: "Share %", short: "%", cls: "num", render: (r) => ((100 * r.mine.length) / list.length).toFixed(1) },
       ], rows);
     }
 

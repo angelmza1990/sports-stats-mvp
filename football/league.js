@@ -99,6 +99,8 @@
   }
   render("all");
 
+  F.droughts("droughts", titles);
+
   /* ---------- All-time table ---------- */
 
   (function allTime() {
