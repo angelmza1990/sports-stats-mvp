@@ -491,6 +491,14 @@ python3 scripts/build_chess_rivalries.py      # chess rivalries (after build_che
 python3 scripts/fetch_flags.py                  # download any flag a dataset now needs
 ```
 
+### Bar chart race videos
+
+`scripts/make_race_video.mjs` renders a title race as a 1920×1080 MP4 for YouTube (Argentine league titles, Liga MX titles, NBA rings), naming each tournament as it is won. It needs Chrome, `puppeteer-core` and ffmpeg; the videos go to `videos/`, which is not committed.
+
+```
+FFMPEG=/path/to/ffmpeg node scripts/make_race_video.mjs argentina|liga-mx|nba [--preview]
+```
+
 Leave out `--refresh` to rebuild from the saved copies in `data/raw/`, with no network access.
 
 To check every page locally: `npm install --no-save puppeteer-core@23.11.1 && CHROME=/path/to/chrome node scripts/check_pages.mjs`.
