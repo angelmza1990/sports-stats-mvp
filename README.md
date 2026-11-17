@@ -493,10 +493,10 @@ python3 scripts/fetch_flags.py                  # download any flag a dataset no
 
 ### Bar chart race videos
 
-`scripts/make_race_video.mjs` renders a title race as a 1920×1080 MP4 for YouTube (Argentine league titles, Liga MX titles, NBA rings), naming each tournament as it is won. It needs Chrome, `puppeteer-core` and ffmpeg; the videos go to `videos/`, which is not committed.
+`scripts/make_race_video.mjs` renders a title race as a 1920×1080 MP4 for YouTube (Argentine league titles, Liga MX titles, NBA rings, NFL championships, Stanley Cups, Copa Libertadores, Champions League), naming each tournament as it is won. It needs Chrome, `puppeteer-core` and ffmpeg; the videos go to `videos/`, which is not committed.
 
 ```
-FFMPEG=/path/to/ffmpeg node scripts/make_race_video.mjs argentina|liga-mx|nba [--preview]
+FFMPEG=/path/to/ffmpeg node scripts/make_race_video.mjs argentina|liga-mx|nba|nfl|nhl|libertadores|champions-league [--preview]
 ```
 
 Leave out `--refresh` to rebuild from the saved copies in `data/raw/`, with no network access.

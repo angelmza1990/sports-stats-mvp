@@ -1,7 +1,7 @@
 // Render a bar chart race of titles as an MP4 (1920×1080, 30 fps) for YouTube.
 //
 //   npm install --no-save puppeteer-core@23.11.1
-//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|liga-mx|nba [--preview]
+//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|liga-mx|nba|nfl|nhl|libertadores|champions-league [--preview]
 //
 // Each title is one step: the winner's bar grows by one while the panel names the tournament, the champion and
 // the runner-up. --preview renders a few still frames as PNG instead of the whole video. Output goes to videos/
@@ -18,6 +18,7 @@ const FPS = 30;
 const json = (path) => JSON.parse(readFileSync(resolve(ROOT, path), "utf8"));
 const CREDIT = "Datos: Wikipedia (CC BY-SA 4.0) · angelmza1990.github.io/sports-stats-mvp";
 const soccerLogo = (id) => (id ? `https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500-dark/${id}.png&h=160&w=160` : null);
+const proLogo = (league, code) => (code ? `https://a.espncdn.com/combiner/i?img=/i/teamlogos/${league}/500-dark/${code}.png&h=160&w=160` : null);
 const nbaLogo = (code) => (code ? `https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500-dark/${code}.png&h=160&w=160` : null);
 
 // Bar fills in club colors (stripes and sashes as gradients); other clubs get a muted color of their own.
@@ -67,6 +68,46 @@ const COLORS = {
     "club-puebla": "linear-gradient(115deg, #f1f1f1 0 42%, #1f4fb5 42% 58%, #f1f1f1 58%)",
     "c-d-veracruz": halves("#d0021b", "#0b2a6b"),
     "zacatepec-f-c": stripes("#0b7a3b", "#f1f1f1"),
+  },
+  nfl: {
+    GB: "linear-gradient(#203731 0 65%, #ffb612 65%)", CHI: "linear-gradient(#0b162a 0 65%, #c83803 65%)", NYG: "linear-gradient(#0b2265 0 70%, #a71930 70%)",
+    PIT: "linear-gradient(#ffb612 0 65%, #101820 65%)", NE: "linear-gradient(#002244 0 70%, #c60c30 70%)", WAS: "linear-gradient(#5a1414 0 65%, #ffb612 65%)",
+    SF: "linear-gradient(#aa0000 0 65%, #b3995d 65%)", DAL: "linear-gradient(#003594 0 70%, #869397 70%)", PHI: "#004c54", LV: "linear-gradient(#a5acaf 0 65%, #000000 65%)",
+    DEN: "linear-gradient(#fb4f14 0 65%, #002244 65%)", KC: "linear-gradient(#e31837 0 70%, #ffb81c 70%)", LAR: "linear-gradient(#003594 0 65%, #ffd100 65%)",
+    BAL: "#241773", IND: "#002c5f", MIA: "linear-gradient(#008e97 0 70%, #fc4c02 70%)", TB: "linear-gradient(#d50a0a 0 70%, #34302b 70%)",
+    SEA: "linear-gradient(#002244 0 70%, #69be28 70%)", NYJ: "#125740", NO: "linear-gradient(#d3bc8d 0 65%, #101820 65%)", DET: "#0076b6",
+    CLE: "linear-gradient(#ff3c00 0 65%, #311d00 65%)", ARI: "#97233f", MIN: "linear-gradient(#4f2683 0 70%, #ffc62f 70%)", BUF: "#00338d",
+    CIN: "#fb4f14", HOU: "#03202f", JAX: "#006778", TEN: "#4b92db", LAC: "#0080c6", ATL: "#a71930", CAR: "#0085ca",
+  },
+  nhl: {
+    MTL: band("#af1e2d", "#192168"), TOR: "#00205b", DET: "#ce1126", BOS: "linear-gradient(#ffb81c 0 65%, #111111 65%)", CHI: "#cf0a2c",
+    EDM: "linear-gradient(#041e42 0 65%, #ff4c00 65%)", PIT: "linear-gradient(#fcb514 0 65%, #111111 65%)", NYI: "linear-gradient(#00539b 0 70%, #f47d30 70%)",
+    NYR: "linear-gradient(#0038a8 0 70%, #ce1126 70%)", TB: "#002868", COL: "linear-gradient(#6f263d 0 65%, #236192 65%)", NJ: halves("#ce1126", "#111111"),
+    LA: "#a2aaad", ANA: "#f47a38", DAL: "#006847", CAR: "#ce1126", PHI: "#f74902", STL: "linear-gradient(#002f87 0 70%, #fcb514 70%)",
+    WSH: "linear-gradient(#c8102e 0 70%, #041e42 70%)", CGY: "linear-gradient(#c8102e 0 70%, #f1be48 70%)", VGK: "linear-gradient(#b4975a 0 70%, #333f42 70%)",
+    FLA: "linear-gradient(#c8102e 0 70%, #041e42 70%)", OTS: halves("#111111", "#c8102e"), OTT: halves("#111111", "#c8102e"), MTM: "#8a1538", VMI: "#6a2c5b", SMT: "#2b6cb0", VAN: "#00205b", NSH: "#ffb81c",
+  },
+  libertadores: {
+    independiente: "#d0021b", "boca-juniors": band("#0b3d91", "#f2c200"), penarol: stripes("#f6c400", "#111111"),
+    estudiantes: stripes("#d71920", "#f1f1f1", 90, 12), flamengo: stripes("#c8102e", "#111111", 0, 8),
+    "river-plate": "linear-gradient(115deg, #f1f1f1 0 42%, #d71920 42% 58%, #f1f1f1 58%)", santos: "linear-gradient(#f1f1f1 0 75%, #111111 75%)",
+    nacional: "linear-gradient(#f1f1f1 0 70%, #1b3f8b 70%)", olimpia: band("#f1f1f1", "#111111"), gremio: stripes("#0d80bf", "#111111", 90, 12),
+    "sao-paulo": "linear-gradient(#f1f1f1 0 40%, #d71920 40% 55%, #111111 55% 70%, #f1f1f1 70%)", palmeiras: "#006437", cruzeiro: "#1b3f8b",
+    "atletico-nacional": stripes("#0b7a3b", "#f1f1f1"), internacional: "#c8102e", "velez-sarsfield": band("#f1f1f1", "#1b4fa0"),
+    "colo-colo": "linear-gradient(#f1f1f1 0 75%, #111111 75%)", "argentinos-juniors": "#e2231a", racing: stripes("#7cc3ea", "#f1f1f1"),
+    "san-lorenzo": stripes("#1b3f8b", "#c8102e", 90, 14), corinthians: "linear-gradient(#f1f1f1 0 75%, #111111 75%)",
+    fluminense: stripes("#8a1538", "#0b7a3b", 90, 12), "atletico-mineiro": stripes("#111111", "#f1f1f1"), botafogo: stripes("#111111", "#f1f1f1", 90, 12),
+    "ldu-quito": "linear-gradient(#f1f1f1 0 75%, #c8102e 75%)", "once-caldas": "#f1f1f1", vasco: "linear-gradient(115deg, #111111 0 42%, #f1f1f1 42% 58%, #111111 58%)",
+  },
+  "champions-league": {
+    "real-madrid": "linear-gradient(#f1f1f1 0 78%, #c9a227 78%)", milan: stripes("#d0021b", "#111111"), "bayern-munich": "#dc052d",
+    liverpool: "#c8102e", barcelona: stripes("#a50044", "#004d98"), ajax: band("#f1f1f1", "#d2122e"), "inter-milan": stripes("#0068a8", "#111111"),
+    "manchester-united": "#da291c", benfica: "#e30613", "nottingham-forest": "#dd0000", juventus: stripes("#111111", "#f1f1f1"),
+    porto: stripes("#00428c", "#f1f1f1"), chelsea: "#034694", "paris-saint-germain": band("#004170", "#da291c"),
+    "borussia-dortmund": "linear-gradient(#fde100 0 75%, #111111 75%)", "manchester-city": "#6cabdd", celtic: stripes("#018749", "#f1f1f1", 0, 7),
+    "hamburger-sv": "linear-gradient(#f1f1f1 0 70%, #0a3a7c 70%)", "aston-villa": "linear-gradient(#670e36 0 70%, #95bfe5 70%)",
+    psv: stripes("#ed1c24", "#f1f1f1"), "red-star-belgrade": stripes("#c8102e", "#f1f1f1"), marseille: "linear-gradient(#f1f1f1 0 75%, #2faee0 75%)",
+    feyenoord: halves("#f1f1f1", "#d0021b"), "steaua-bucuresti": halves("#1b3f8b", "#d0021b"),
   },
   nba: {
     ATL: "#e03a3e", BOS: "linear-gradient(#007a33 0 75%, #ba9653 75%)", BKN: "#a7a9ac", CHA: "#00788c", CHI: "#ce1141",
@@ -162,7 +203,83 @@ function nba() {
     credit: CREDIT, text: { ...TEXT, unit: "anillos" } };
 }
 
-const BUILDERS = { argentina, "liga-mx": ligaMx, nba };
+// The NFL title of every season since 1920: the NFL Championship until 1969, the Super Bowl since 1970.
+function nfl() {
+  const d = json("american-football/super-bowl/data/super-bowl.json");
+  const fr = Object.fromEntries(json("data/nfl/franchises.json").franchises.map((f) => [f.id, f]));
+  const games = Object.fromEntries(d.games.map((g) => [g.number, g]));
+  const events = d.leagueTitles.map((t) => {
+    const sb = t.via.startsWith("Super Bowl") ? games[t.via.replace("Super Bowl ", "")] : null;
+    return {
+      winner: t.champion, big: String(t.season), name: sb ? `${t.via} (temporada ${t.season})` : `Campeonato de la NFL ${t.season}`,
+      short: sb ? t.via.replace("Super Bowl", "SB") : String(t.season), winnerName: t.championName,
+      tag: sb ? "Era del Super Bowl" : "Antes del Super Bowl",
+      note: `${sb ? `${sb.winPts}–${sb.losePts} ` : ""}ante ${t.runnerUpName ?? "–"}${fr[t.champion] && fr[t.champion].name !== t.championName ? ` · hoy ${fr[t.champion].name}` : ""}`,
+    };
+  });
+  const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => {
+    const f = fr[id] ?? { name: d.leagueTitles.find((t) => t.champion === id).championName };
+    return [id, { name: f.short ?? f.name, logo: proLogo("nfl", f.logo), color: COLORS.nfl[id] ?? muted(id) }];
+  }));
+  const last = d.leagueTitles[d.leagueTitles.length - 1];
+  return { file: "nfl-campeonatos", secondsPerEvent: 0.85, events, teams,
+    title: "NFL: campeonatos por franquicia",
+    subtitle: `Cada campeón desde 1920: el Campeonato de la NFL hasta 1969 y el Super Bowl desde 1970 (${last.via}, temporada ${last.season})`,
+    credit: CREDIT, text: { ...TEXT, unit: "títulos" } };
+}
+
+function nhl() {
+  const d = json("ice-hockey/stanley-cup/data/stanley-cup.json");
+  const fr = Object.fromEntries(json("data/nhl/franchises.json").franchises.map((f) => [f.id, f]));
+  const events = d.seasons.map((s) => ({
+    winner: s.champion, big: String(s.year), name: `Final de la Stanley Cup ${s.year}`, short: String(s.year), winnerName: s.championName,
+    tag: s.league && s.league !== "NHL" ? `Campeón de la ${s.league}` : "NHL",
+    note: `${s.result} ante ${s.runnerUpName}${fr[s.champion] && fr[s.champion].name !== s.championName ? ` · hoy ${fr[s.champion].name}` : ""}`,
+  }));
+  const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => {
+    const f = fr[id] ?? { name: d.seasons.find((s) => s.champion === id).championName };
+    return [id, { name: f.short ?? f.name, logo: proLogo("nhl", f.logo), color: COLORS.nhl[id] ?? muted(id) }];
+  }));
+  return { file: "nhl-stanley-cup", secondsPerEvent: 0.85, events, teams,
+    title: "NHL: Stanley Cups por franquicia",
+    subtitle: `Cada campeón desde ${d.seasons[0].year} hasta ${d.seasons[d.seasons.length - 1].year} · 1919 y 2005 no se jugaron`,
+    credit: CREDIT, text: { ...TEXT, unit: "copas" } };
+}
+
+const COUNTRY_ES = {
+  ARG: "Argentina", BRA: "Brasil", URU: "Uruguay", PAR: "Paraguay", COL: "Colombia", CHI: "Chile", ECU: "Ecuador", PER: "Perú", BOL: "Bolivia",
+  ESP: "España", ITA: "Italia", ENG: "Inglaterra", GER: "Alemania", FRG: "Alemania Occidental", NED: "Países Bajos", POR: "Portugal",
+  FRA: "Francia", SCO: "Escocia", ROU: "Rumania", YUG: "Yugoslavia", SRB: "Serbia", BEL: "Bélgica",
+};
+const CLUB_ES = { "bayern-munich": "Bayern Múnich", "inter-milan": "Inter", "red-star-belgrade": "Estrella Roja", "steaua-bucuresti": "Steaua Bucarest" };
+
+// A continental cup from its finals: the score of each leg, the runner-up and the champion's country.
+function cup(folder, opts) {
+  const d = json(`football/${folder}/data/${folder}.json`);
+  const name = (id) => CLUB_ES[id] ?? d.clubs[id]?.name ?? id;
+  const events = d.finals.map((f) => {
+    const legs = (f.legs ?? []).map((l) => l.score + (l.note === "penalties" ? " (pen.)" : "")).join(" y ");
+    return { winner: f.champion, big: String(f.year), name: opts.name(f), short: opts.short(f), tag: COUNTRY_ES[f.championCountry] ?? d.countries[f.championCountry]?.name ?? "",
+      note: `${legs ? `${legs} ante ` : "Ante "}${f.runnerUp ? name(f.runnerUp) : "–"}` };
+  });
+  const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => [id, {
+    name: name(id), logo: soccerLogo(d.clubs[id]?.crest), color: COLORS[opts.colors][id] ?? muted(id),
+  }]));
+  return { ...opts.meta(d), events, teams, credit: CREDIT, text: { ...TEXT, unit: "títulos" } };
+}
+
+const libertadores = () => cup("copa-libertadores", { colors: "libertadores",
+  name: (f) => `Final de la Copa Libertadores ${f.season}`, short: (f) => f.season,
+  meta: (d) => ({ file: "copa-libertadores-campeones", secondsPerEvent: 1.0, title: "Copa Libertadores: campeones por club",
+    subtitle: `Todas las finales, ${d.finals[0].season} a ${d.finals[d.finals.length - 1].season}` }),
+});
+const championsLeague = () => cup("champions-league", { colors: "champions-league",
+  name: (f) => `Final de la ${f.year < 1993 ? "Copa de Europa" : "Champions League"} ${f.season}`, short: (f) => f.season,
+  meta: (d) => ({ file: "champions-league-campeones", secondsPerEvent: 1.0, title: "Champions League: campeones por club",
+    subtitle: `Todas las finales de la Copa de Europa y la Champions League, ${d.finals[0].season} a ${d.finals[d.finals.length - 1].season}` }),
+});
+
+const BUILDERS = { argentina, "liga-mx": ligaMx, nba, nfl, nhl, libertadores, "champions-league": championsLeague };
 const key = process.argv[2];
 if (!BUILDERS[key]) {
   console.error(`usage: node scripts/make_race_video.mjs ${Object.keys(BUILDERS).join("|")} [--preview]`);
