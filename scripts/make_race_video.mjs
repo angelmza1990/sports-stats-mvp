@@ -1,7 +1,7 @@
 // Render a bar chart race of titles as an MP4 (1920×1080, 30 fps) for YouTube; --vertical makes a 1080×1920 Short.
 //
 //   npm install --no-save puppeteer-core@23.11.1
-//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|argentina-pro|argentina-nacional[-pro]|argentina-total[-pro]|liga-mx|nba|nfl|nhl|libertadores|champions-league|tenis-slams-atp|tenis-slams-wta|tenis-masters|tenis-numero-1-atp|tenis-numero-1-wta [--vertical] [--preview]
+//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|argentina-pro|argentina-nacional[-pro]|argentina-total[-pro]|liga-mx|nba|nfl|nhl|libertadores|champions-league|tenis-slams-atp|tenis-slams-wta|tenis-masters|tenis-numero-1-atp|tenis-numero-1-wta [--vertical] [--en] [--preview]
 //
 // Each title is one step: the winner's bar grows by one while the panel names the tournament, the champion and
 // the runner-up. --preview renders a few still frames as PNG instead of the whole video. Output goes to videos/
@@ -15,8 +15,11 @@ const ROOT = resolve(new URL("..", import.meta.url).pathname);
 const CHROME = process.env.CHROME || "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
 const FFMPEG = process.env.FFMPEG || "ffmpeg";
 const FPS = 30;
+// --en writes every text in English (files end in -en); Spanish otherwise.
+const EN = process.argv.includes("--en");
+const L = (es, en) => (EN ? en : es);
 const json = (path) => JSON.parse(readFileSync(resolve(ROOT, path), "utf8"));
-const CREDIT = "Datos: Wikipedia (CC BY-SA 4.0)";
+const CREDIT = L("Datos: Wikipedia (CC BY-SA 4.0)", "Data: Wikipedia (CC BY-SA 4.0)");
 const soccerLogo = (id) => (id ? `https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500-dark/${id}.png&h=160&w=160` : null);
 const proLogo = (league, code) => (code ? `https://a.espncdn.com/combiner/i?img=/i/teamlogos/${league}/500-dark/${code}.png&h=160&w=160` : null);
 const nbaLogo = (code) => (code ? `https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500-dark/${code}.png&h=160&w=160` : null);
@@ -139,32 +142,41 @@ const COLORS = {
   },
 };
 
-const TEXT = { recent: "Últimos campeones", champion: "Campeón", unit: "títulos" };
+const TEXT = { recent: L("Últimos campeones", "Latest champions"), champion: L("Campeón", "Champion"), unit: L("títulos", "titles") };
+const vs = L("ante", "vs");
+const now = (name) => ` · ${L("hoy", "now")} ${name}`;
+const runnerUp = (name) => `${L("Subcampeón", "Runner-up")}: ${name}`;
 
 function argentina({ proOnly = false } = {}) {
   const d = json("football/argentine-primera/data/argentine-primera.json");
   const titles = proOnly ? d.titles.filter((t) => t.era === "professional") : d.titles;
+  const rival = L("torneo paralelo", "rival league");
   const ASSOC = {
-    AAmF: "Asociación Amateurs de Football (torneo paralelo)",
-    FAF: "Federación Argentina de Football (torneo paralelo)",
-    LAF: "Liga Argentina de Football (profesional)",
+    AAmF: `Asociación Amateurs de Football (${rival})`,
+    FAF: `Federación Argentina de Football (${rival})`,
+    LAF: `Liga Argentina de Football (${L("profesional", "professional")})`,
   };
-  const KIND = {
+  const KIND = EN ? {
+    "": "Primera División championship", Apertura: "Apertura tournament", Clausura: "Clausura tournament", Nacional: "Nacional championship",
+    Metropolitano: "Metropolitano championship", Inicial: "Inicial tournament", Final: "Final tournament", "Transición": "Transición tournament",
+    Liga: "League champion (annual table)", "(H)": "Copa de Honor", "(C)": "Copa Campeonato", "(O)": "Copa de Oro",
+  } : {
     "": "Campeonato de Primera División", Apertura: "Torneo Apertura", Clausura: "Torneo Clausura", Nacional: "Campeonato Nacional",
     Metropolitano: "Campeonato Metropolitano", Inicial: "Torneo Inicial", Final: "Torneo Final", "Transición": "Torneo de Transición",
     Liga: "Campeón de Liga (tabla anual)", "(H)": "Copa de Honor", "(C)": "Copa Campeonato", "(O)": "Copa de Oro",
   };
+  const SHORT = { "(H)": "Copa de Honor", "(C)": "Copa Campeonato", "(O)": "Copa de Oro", Liga: L("Liga (anual)", "League (annual)") };
   const events = titles.map((t) => {
     const suffix = t.season.replace(/^\d{4}(–\d{2,4})?\s*/, "");
     const year = t.season.match(/^\d{4}(–\d{2,4})?/)[0];
     let name = ASSOC[suffix] ?? KIND[suffix] ?? suffix;
-    if (!ASSOC[suffix] && t.split && !suffix) name = "Asociación Argentina de Football (año de cisma)";
-    const shortName = ASSOC[suffix] ? suffix : suffix === "Liga" ? "Liga (anual)" : KIND[suffix] && suffix ? KIND[suffix].replace(/^(Torneo|Campeonato) (de )?/, "") : "";
+    if (!ASSOC[suffix] && t.split && !suffix) name = `Asociación Argentina de Football (${L("año de cisma", "split year")})`;
+    const shortName = SHORT[suffix] ?? suffix;
     return {
       winner: t.champion, big: year, name, short: `${year} ${shortName}`.trim(), era: t.era,
       when: Number(year.replace(/^(\d\d)(\d\d)–(\d\d)$/, "$1$3").replace(/^(\d{4})–(\d{4})$/, "$2")),
-      tag: proOnly ? "" : t.era === "professional" ? "Era profesional" : "Era amateur",
-      note: t.runnerUp ? `Subcampeón: ${d.clubs[t.runnerUp]?.name ?? t.runnerUp}` : "",
+      tag: proOnly ? "" : t.era === "professional" ? L("Era profesional", "Professional era") : L("Era amateur", "Amateur era"),
+      note: t.runnerUp ? runnerUp(d.clubs[t.runnerUp]?.name ?? t.runnerUp) : "",
     };
   });
   const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => [id, {
@@ -172,39 +184,38 @@ function argentina({ proOnly = false } = {}) {
   }]));
   const first = titles[0].year, last = titles[titles.length - 1].season;
   if (proOnly) return { file: "argentina-titulos-era-profesional", secondsPerEvent: 0.55, events, teams,
-    title: "Fútbol argentino: campeones de la era profesional",
-    subtitle: `Todos los títulos de Primera División desde el profesionalismo, ${first} a ${last}`,
-    credit: CREDIT, text: { ...TEXT, unit: "títulos" } };
+    title: L("Fútbol argentino: campeones de la era profesional", "Argentine football: champions of the professional era"),
+    subtitle: L(`Todos los títulos de Primera División desde el profesionalismo, ${first} a ${last}`, `Every Primera División title since the game turned professional, ${first} to ${last}`),
+    credit: CREDIT, text: TEXT };
   return { file: "argentina-titulos-primera-division", secondsPerEvent: 0.55, events, teams,
-    title: "Fútbol argentino: campeones de Primera División",
-    subtitle: `Todos los títulos de liga, ${first} a ${last} · eras amateur y profesional, como los cuenta la AFA`,
-    credit: CREDIT, text: { ...TEXT, unit: "títulos" } };
+    title: L("Fútbol argentino: campeones de Primera División", "Argentine football: Primera División champions"),
+    subtitle: L(`Todos los títulos de liga, ${first} a ${last} · eras amateur y profesional, como los cuenta la AFA`, `Every league title, ${first} to ${last} · amateur and professional eras, as the AFA counts them`),
+    credit: CREDIT, text: TEXT };
 }
 
 function ligaMx() {
   const d = json("football/liga-mx/data/liga-mx.json");
-  const NAMES = { Ape: "Apertura", Cla: "Clausura", Inv: "Invierno", Ver: "Verano", Guard: "Guard1anes", Bic: "Bicentenario", Prode: "Prode", Mex: "México" };
+  const NAMES = { Ape: "Apertura", Cla: "Clausura", Inv: L("Invierno", "Winter"), Ver: L("Verano", "Summer"), Guard: "Guard1anes", Bic: "Bicentenario", Prode: "Prode", Mex: L("México", "Mexico") };
   const events = titles.map((t) => {
     const m = t.season.match(/^([A-Za-z]+)–(\d{4})$/);
     let big, name, short;
     if (m) {
       const label = m[1] === "Mex" || m[1] === "Prode" ? `${NAMES[m[1]]} ${m[2].slice(2)}` : `${NAMES[m[1]] ?? m[1]} ${m[2]}`;
-      big = m[2]; name = `Torneo ${label}`; short = label;
+      big = m[2]; name = L(`Torneo ${label}`, `${label} tournament`); short = label;
     } else {
-      big = t.season; name = `Temporada ${t.season}`; short = t.season;
+      big = t.season; name = L(`Temporada ${t.season}`, `${t.season} season`); short = t.season;
     }
-    return { winner: t.champion, big, name, short, tag: m ? "Torneos cortos" : "Temporadas largas",
-      note: t.runnerUp ? `Subcampeón: ${d.clubs[t.runnerUp]?.name ?? t.runnerUp}` : "" };
+    // The short tournaments began in 1996; the 1970 and 1986 World Cup years and Prode 85 were short ones too.
+    const tag = !m ? L("Temporadas largas", "Long seasons") : Number(big) < 1996 ? L("Torneo especial", "Special tournament") : L("Torneos cortos", "Short tournaments");
+    return { winner: t.champion, big, name, short, tag, note: t.runnerUp ? runnerUp(d.clubs[t.runnerUp]?.name ?? t.runnerUp) : "" };
   });
-  // The short tournaments began in 1996; the 1970 and 1986 World Cup years and Prode 85 were short ones too.
-  events.forEach((e, i) => { if (e.tag === "Torneos cortos" && Number(e.big) < 1996) e.tag = "Torneo especial"; });
   const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => [id, {
     name: d.clubs[id].name, logo: soccerLogo(d.clubs[id].crest), color: COLORS["liga-mx"][id] ?? muted(id),
   }]));
   return { file: "liga-mx-campeones", secondsPerEvent: 0.7, events, teams,
-    title: "Fútbol mexicano: campeones de liga",
-    subtitle: `Todos los títulos de la era profesional, ${d.titles[0].season} a ${short(d.titles[d.titles.length - 1].season)}`,
-    credit: CREDIT, text: { ...TEXT, unit: "títulos" } };
+    title: L("Fútbol mexicano: campeones de liga", "Mexican football: league champions"),
+    subtitle: L(`Todos los títulos de la era profesional, ${d.titles[0].season} a ${short(d.titles[d.titles.length - 1].season)}`, `Every title of the professional era, ${d.titles[0].season} to ${short(d.titles[d.titles.length - 1].season)}`),
+    credit: CREDIT, text: TEXT };
   function short(s) { const m = s.match(/^([A-Za-z]+)–(\d{4})$/); return m ? `${NAMES[m[1]]} ${m[2]}` : s; }
 }
 
@@ -212,18 +223,20 @@ function nba() {
   const d = json("basketball/nba-rings/data/nba-rings.json");
   const fr = Object.fromEntries(d.franchises.map((f) => [f.id, f]));
   const events = d.seasons.map((s) => ({
-    winner: s.champion, big: String(s.year), name: `Finales de la NBA ${s.year}`, short: String(s.year),
-    winnerName: s.championName, tag: s.conference === "East" ? (s.year < 1971 ? "División Este" : "Conferencia Este") : (s.year < 1971 ? "División Oeste" : "Conferencia Oeste"),
-    note: `${s.result} ante ${s.runnerUpName}${fr[s.champion] && fr[s.champion].name !== s.championName ? ` · hoy ${fr[s.champion].name}` : ""}`,
+    winner: s.champion, big: String(s.year), name: L(`Finales de la NBA ${s.year}`, `${s.year} NBA Finals`), short: String(s.year),
+    winnerName: s.championName, tag: EN ? `${s.conference === "East" ? "Eastern" : "Western"} ${s.year < 1971 ? "Division" : "Conference"}`
+      : `${s.year < 1971 ? "División" : "Conferencia"} ${s.conference === "East" ? "Este" : "Oeste"}`,
+    note: `${s.result} ${vs} ${s.runnerUpName}${fr[s.champion] && fr[s.champion].name !== s.championName ? now(fr[s.champion].name) : ""}`,
   }));
   const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => {
     const f = fr[id] ?? { name: d.seasons.find((s) => s.champion === id).championName };
     return [id, { name: f.short ?? f.name, logo: nbaLogo(f.logo), color: COLORS.nba[id] ?? muted(id) }];
   }));
   return { file: "nba-anillos", secondsPerEvent: 0.9, events, teams,
-    title: "NBA: anillos de campeón por franquicia",
-    subtitle: `Todos los campeones, ${d.seasons[0].year} a ${d.seasons[d.seasons.length - 1].year} · los títulos cuentan para la franquicia actual`,
-    credit: CREDIT, text: { ...TEXT, unit: "anillos" } };
+    title: L("NBA: anillos de campeón por franquicia", "NBA: championship rings by franchise"),
+    subtitle: L(`Todos los campeones, ${d.seasons[0].year} a ${d.seasons[d.seasons.length - 1].year} · los títulos cuentan para la franquicia actual`,
+      `Every champion, ${d.seasons[0].year} to ${d.seasons[d.seasons.length - 1].year} · titles count for the current franchise`),
+    credit: CREDIT, text: { ...TEXT, unit: L("anillos", "rings") } };
 }
 
 // The NFL title of every season since 1920: the NFL Championship until 1969, the Super Bowl since 1970.
@@ -234,10 +247,10 @@ function nfl() {
   const events = d.leagueTitles.map((t) => {
     const sb = t.via.startsWith("Super Bowl") ? games[t.via.replace("Super Bowl ", "")] : null;
     return {
-      winner: t.champion, big: String(t.season), name: sb ? `${t.via} (temporada ${t.season})` : `Campeonato de la NFL ${t.season}`,
+      winner: t.champion, big: String(t.season), name: sb ? L(`${t.via} (temporada ${t.season})`, `${t.via} (${t.season} season)`) : L(`Campeonato de la NFL ${t.season}`, `${t.season} NFL Championship`),
       short: sb ? t.via.replace("Super Bowl", "SB") : String(t.season), winnerName: t.championName,
-      tag: sb ? "Era del Super Bowl" : "Antes del Super Bowl",
-      note: `${sb ? `${sb.winPts}–${sb.losePts} ` : ""}ante ${t.runnerUpName ?? "–"}${fr[t.champion] && fr[t.champion].name !== t.championName ? ` · hoy ${fr[t.champion].name}` : ""}`,
+      tag: sb ? L("Era del Super Bowl", "Super Bowl era") : L("Antes del Super Bowl", "Before the Super Bowl"),
+      note: `${sb ? `${sb.winPts}–${sb.losePts} ` : ""}${vs} ${t.runnerUpName ?? "–"}${fr[t.champion] && fr[t.champion].name !== t.championName ? now(fr[t.champion].name) : ""}`,
     };
   });
   const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => {
@@ -246,27 +259,29 @@ function nfl() {
   }));
   const last = d.leagueTitles[d.leagueTitles.length - 1];
   return { file: "nfl-campeonatos", secondsPerEvent: 0.85, events, teams,
-    title: "NFL: campeonatos por franquicia",
-    subtitle: `Cada campeón desde 1920: el Campeonato de la NFL hasta 1969 y el Super Bowl desde 1970 (${last.via}, temporada ${last.season})`,
-    credit: CREDIT, text: { ...TEXT, unit: "títulos" } };
+    title: L("NFL: campeonatos por franquicia", "NFL: championships by franchise"),
+    subtitle: L(`Cada campeón desde 1920: el Campeonato de la NFL hasta 1969 y el Super Bowl desde 1970 (${last.via}, temporada ${last.season})`,
+      `Every champion since 1920: the NFL Championship until 1969, the Super Bowl since 1970 (${last.via}, ${last.season} season)`),
+    credit: CREDIT, text: TEXT };
 }
 
 function nhl() {
   const d = json("ice-hockey/stanley-cup/data/stanley-cup.json");
   const fr = Object.fromEntries(json("data/nhl/franchises.json").franchises.map((f) => [f.id, f]));
   const events = d.seasons.map((s) => ({
-    winner: s.champion, big: String(s.year), name: `Final de la Stanley Cup ${s.year}`, short: String(s.year), winnerName: s.championName,
-    tag: s.league && s.league !== "NHL" ? `Campeón de la ${s.league}` : "NHL",
-    note: `${s.result} ante ${s.runnerUpName}${fr[s.champion] && fr[s.champion].name !== s.championName ? ` · hoy ${fr[s.champion].name}` : ""}`,
+    winner: s.champion, big: String(s.year), name: L(`Final de la Stanley Cup ${s.year}`, `${s.year} Stanley Cup Final`), short: String(s.year), winnerName: s.championName,
+    tag: s.league && s.league !== "NHL" ? L(`Campeón de la ${s.league}`, `${s.league} champion`) : "NHL",
+    note: `${s.result} ${vs} ${s.runnerUpName}${fr[s.champion] && fr[s.champion].name !== s.championName ? now(fr[s.champion].name) : ""}`,
   }));
   const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => {
     const f = fr[id] ?? { name: d.seasons.find((s) => s.champion === id).championName };
     return [id, { name: f.short ?? f.name, logo: proLogo("nhl", f.logo), color: COLORS.nhl[id] ?? muted(id) }];
   }));
   return { file: "nhl-stanley-cup", secondsPerEvent: 0.85, events, teams,
-    title: "NHL: Stanley Cups por franquicia",
-    subtitle: `Cada campeón desde ${d.seasons[0].year} hasta ${d.seasons[d.seasons.length - 1].year} · 1919 y 2005 no se jugaron`,
-    credit: CREDIT, text: { ...TEXT, unit: "copas" } };
+    title: L("NHL: Stanley Cups por franquicia", "NHL: Stanley Cups by franchise"),
+    subtitle: L(`Cada campeón desde ${d.seasons[0].year} hasta ${d.seasons[d.seasons.length - 1].year} · 1919 y 2005 no se jugaron`,
+      `Every champion from ${d.seasons[0].year} to ${d.seasons[d.seasons.length - 1].year} · not played in 1919 and 2005`),
+    credit: CREDIT, text: { ...TEXT, unit: L("copas", "cups") } };
 }
 
 const COUNTRY_ES = {
@@ -279,27 +294,29 @@ const CLUB_ES = { "bayern-munich": "Bayern Múnich", "inter-milan": "Inter", "re
 // A continental cup from its finals: the score of each leg, the runner-up and the champion's country.
 function cup(folder, opts) {
   const d = json(`football/${folder}/data/${folder}.json`);
-  const name = (id) => CLUB_ES[id] ?? d.clubs[id]?.name ?? id;
+  const name = (id) => (EN ? null : CLUB_ES[id]) ?? d.clubs[id]?.name ?? id;
   const events = d.finals.map((f) => {
-    const legs = (f.legs ?? []).map((l) => l.score + (l.note === "penalties" ? " (pen.)" : "")).join(" y ");
-    return { winner: f.champion, big: String(f.year), name: opts.name(f), short: opts.short(f), tag: COUNTRY_ES[f.championCountry] ?? d.countries[f.championCountry]?.name ?? "",
-      note: `${legs ? `${legs} ante ` : "Ante "}${f.runnerUp ? name(f.runnerUp) : "–"}` };
+    const legs = (f.legs ?? []).map((l) => l.score + (l.note === "penalties" ? " (pen.)" : "")).join(L(" y ", " and "));
+    const country = (EN ? (f.championCountry === "FRG" ? "West Germany" : null) : COUNTRY_ES[f.championCountry]) ?? d.countries[f.championCountry]?.name ?? "";
+    return { winner: f.champion, big: String(f.year), name: opts.name(f), short: opts.short(f), tag: country,
+      note: `${legs ? `${legs} ${vs} ` : L("Ante ", "vs ")}${f.runnerUp ? name(f.runnerUp) : "–"}` };
   });
   const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => [id, {
     name: name(id), logo: soccerLogo(d.clubs[id]?.crest), color: COLORS[opts.colors][id] ?? muted(id),
   }]));
-  return { ...opts.meta(d), events, teams, credit: CREDIT, text: { ...TEXT, unit: "títulos" } };
+  return { ...opts.meta(d), events, teams, credit: CREDIT, text: TEXT };
 }
 
 const libertadores = () => cup("copa-libertadores", { colors: "libertadores",
-  name: (f) => `Final de la Copa Libertadores ${f.season}`, short: (f) => f.season,
-  meta: (d) => ({ file: "copa-libertadores-campeones", secondsPerEvent: 1.0, title: "Copa Libertadores: campeones por club",
-    subtitle: `Todas las finales, ${d.finals[0].season} a ${d.finals[d.finals.length - 1].season}` }),
+  name: (f) => L(`Final de la Copa Libertadores ${f.season}`, `${f.season} Copa Libertadores final`), short: (f) => f.season,
+  meta: (d) => ({ file: "copa-libertadores-campeones", secondsPerEvent: 1.0, title: L("Copa Libertadores: campeones por club", "Copa Libertadores: champions by club"),
+    subtitle: L(`Todas las finales, ${d.finals[0].season} a ${d.finals.at(-1).season}`, `Every final, ${d.finals[0].season} to ${d.finals.at(-1).season}`) }),
 });
 const championsLeague = () => cup("champions-league", { colors: "champions-league",
-  name: (f) => `Final de la ${f.year < 1993 ? "Copa de Europa" : "Champions League"} ${f.season}`, short: (f) => f.season,
-  meta: (d) => ({ file: "champions-league-campeones", secondsPerEvent: 1.0, title: "Champions League: campeones por club",
-    subtitle: `Todas las finales de la Copa de Europa y la Champions League, ${d.finals[0].season} a ${d.finals[d.finals.length - 1].season}` }),
+  name: (f) => L(`Final de la ${f.year < 1993 ? "Copa de Europa" : "Champions League"} ${f.season}`, `${f.season} ${f.year < 1993 ? "European Cup" : "Champions League"} final`), short: (f) => f.season,
+  meta: (d) => ({ file: "champions-league-campeones", secondsPerEvent: 1.0, title: L("Champions League: campeones por club", "Champions League: champions by club"),
+    subtitle: L(`Todas las finales de la Copa de Europa y la Champions League, ${d.finals[0].season} a ${d.finals.at(-1).season}`,
+      `Every European Cup and Champions League final, ${d.finals[0].season} to ${d.finals.at(-1).season}`) }),
 });
 
 // Every title of the Argentine clubs, in order: league titles and national cups, and optionally the international
@@ -308,28 +325,28 @@ function argentinaAll({ proOnly = false, intl = false } = {}) {
   const d = json("football/argentine-primera/data/argentine-primera.json");
   const x = json("football/argentine-primera/data/international.json");
   const keep = (e) => !proOnly || e.era === "professional";
-  const eraTag = (era) => (proOnly ? "" : era === "professional" ? " · era profesional" : " · era amateur");
-  const CUP_ES = {
+  const eraTag = (era) => (proOnly ? "" : era === "professional" ? L(" · era profesional", " · professional era") : L(" · era amateur", " · amateur era"));
+  const CUP_ES = EN ? {} : {
     "copa-de-competencia-chevallier-boutell": "Copa de Competencia Chevallier Boutell",
   };
   const INTL_ES = {
     libertadores: "Copa Libertadores", sudamericana: "Copa Sudamericana", supercopa: "Supercopa Libertadores", recopa: "Recopa Sudamericana",
     conmebol: "Copa CONMEBOL", mercosur: "Copa Mercosur", oro: "Copa de Oro", master: "Copa Master de Supercopa",
-    interamericana: "Copa Interamericana", suruga: "Copa Suruga Bank", "tie-cup": "Tie Cup (Copa de Competencia rioplatense)",
+    interamericana: "Copa Interamericana", suruga: "Copa Suruga Bank", "tie-cup": L("Tie Cup (Copa de Competencia rioplatense)", "Tie Cup (Río de la Plata)"),
     cusenier: "Copa de Honor Cusenier", aldao: "Copa Aldao", "rio-de-la-plata": "Copa Campeonato del Río de la Plata",
     "escobar-gerona": "Copa Escobar-Gerona",
   };
   const league = argentina({ proOnly }).events.map((e, i) => ({ ...e, order: [e.when, 0, i],
-    tag: `Liga${eraTag(e.era)}`, short: e.short.replace(/ (LAF|AAmF|FAF)$/, "") }));
+    tag: `${L("Liga", "League")}${eraTag(e.era)}`, short: e.short.replace(/ (LAF|AAmF|FAF)$/, "") }));
   const cups = d.cups.flatMap((c) => c.editions.filter(keep).map((e, i) => ({
     winner: e.champion, big: e.season, name: CUP_ES[c.key] ?? c.name, short: `${e.season} ${(CUP_ES[c.key] ?? c.name).replace(/^Copa (de )?/, "")}`,
-    tag: `Copa nacional${eraTag(e.era)}`, note: e.runnerUp ? `Subcampeón: ${d.clubs[e.runnerUp]?.name ?? e.runnerUp}` : "",
+    tag: `${L("Copa nacional", "National cup")}${eraTag(e.era)}`, note: e.runnerUp ? runnerUp(d.clubs[e.runnerUp]?.name ?? e.runnerUp) : "",
     order: [e.year, 1, i],
   })));
-  const world = (y) => (y < 2005 ? "Copa Intercontinental" : "Mundial de Clubes FIFA");
+  const world = (y) => (y < 2005 ? L("Copa Intercontinental", "Intercontinental Cup") : L("Mundial de Clubes FIFA", "FIFA Club World Cup"));
   const abroad = intl ? x.titles.filter(keep).map((t, i) => {
     const name = t.comp === "intercontinental" ? world(t.year) : INTL_ES[t.comp];
-    return { winner: t.club, big: t.season, name, short: `${t.season} ${name.replace(/^Copa /, "")}`, tag: `Internacional${eraTag(t.era)}`, note: "", order: [t.year, 2, i] };
+    return { winner: t.club, big: t.season, name, short: `${t.season} ${name.replace(/^Copa /, "")}`, tag: `${L("Internacional", "International")}${eraTag(t.era)}`, note: "", order: [t.year, 2, i] };
   }) : [];
   const cmp = (a, b) => a.order[0] - b.order[0] || a.order[1] - b.order[1] || a.order[2] - b.order[2];
   const events = [...league, ...cups, ...abroad].sort(cmp);
@@ -337,14 +354,15 @@ function argentinaAll({ proOnly = false, intl = false } = {}) {
   const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => [id, {
     name: club(id).name, logo: soccerLogo(club(id).crest) ?? OLD_CRESTS[id] ?? null, color: COLORS.argentina[id] ?? muted(id),
   }]));
-  const span = `${events[0].big.slice(0, 4)} a ${String(events.at(-1).order[0])}`;
-  const what = intl ? "Ligas, copas nacionales e internacionales" : "Ligas y copas nacionales";
+  const span = `${events[0].big.slice(0, 4)} ${L("a", "to")} ${String(events.at(-1).order[0])}`;
+  const what = intl ? L("Ligas, copas nacionales e internacionales", "Leagues, national cups and international titles") : L("Ligas y copas nacionales", "Leagues and national cups");
+  const pro = L(" de la era profesional", " of the professional era");
   return {
     file: `argentina-titulos-${intl ? "totales" : "nacionales"}${proOnly ? "-era-profesional" : ""}`, secondsPerEvent: 0.4,
     events, teams,
-    title: intl ? `Fútbol argentino: todos los títulos${proOnly ? " de la era profesional" : ""}` : `Fútbol argentino: títulos nacionales${proOnly ? " de la era profesional" : ""}`,
-    subtitle: `${what}${proOnly ? " desde el profesionalismo" : ", eras amateur y profesional"}, ${span} · ${events.length} títulos`,
-    credit: CREDIT, text: { ...TEXT, unit: "títulos" },
+    title: `${intl ? L("Fútbol argentino: todos los títulos", "Argentine football: every title") : L("Fútbol argentino: títulos nacionales", "Argentine football: national titles")}${proOnly ? pro : ""}`,
+    subtitle: `${what}${proOnly ? L(" desde el profesionalismo", " since the professional era began") : L(", eras amateur y profesional", ", amateur and professional eras")}, ${span} · ${events.length} ${TEXT.unit}`,
+    credit: CREDIT, text: TEXT,
   };
 }
 
@@ -362,14 +380,18 @@ const PLAYER_COLORS = {
   "Caroline Wozniacki": "#e11d48", "Amelie Mauresmo": "#2563eb", "Jelena Jankovic": "#9333ea", "Dinara Safina": "#7c3aed", "Simona Halep": "#facc15",
   "Angelique Kerber": "#16a34a", "Kim Clijsters": "#f97316", "Naomi Osaka": "#ef4444", "Jim Courier": "#f97316", "Marat Safin": "#ef4444",
 };
-const SURFACE_ES = { Hard: "Pista dura", Clay: "Polvo de ladrillo", Grass: "Césped", Carpet: "Carpeta" };
+// The No. 1 list spells some names differently.
+Object.assign(PLAYER_COLORS, { "Björn Borg": PLAYER_COLORS["Bjorn Borg"], "Iga Świątek": PLAYER_COLORS["Iga Swiatek"],
+  "Evonne Goolagong Cawley": PLAYER_COLORS["Evonne Goolagong"], "Amélie Mauresmo": PLAYER_COLORS["Amelie Mauresmo"], "Marcelo Ríos": PLAYER_COLORS["Marcelo Rios"] });
+const SURFACE_ES = EN ? { Hard: "Hard court", Clay: "Clay", Grass: "Grass", Carpet: "Carpet" } : { Hard: "Pista dura", Clay: "Polvo de ladrillo", Grass: "Césped", Carpet: "Carpeta" };
 function players(events, nations) {
   return Object.fromEntries([...new Set(events.map((e) => e.winner))].map((name) => {
     const ioc = events.findLast((e) => e.winner === name).ioc;
     return [name, { name, logo: flag(nations[ioc]?.flag), color: PLAYER_COLORS[name] ?? muted(name) }];
   }));
 }
-function tennisTitles(path, { file, title, subtitle, names = {}, unit = "títulos", secondsPerEvent = 0.4 }) {
+function tennisTitles(path, { file, title, subtitle, names = {}, unit = TEXT.unit, secondsPerEvent = 0.4 }) {
+  if (EN) names = {};
   const d = json(path);
   const events = d.editions.filter((e) => e.champion).map((e) => ({
     winner: e.champion, ioc: e.championIoc, big: String(e.year), name: names[e.event] ?? e.event,
@@ -380,15 +402,18 @@ function tennisTitles(path, { file, title, subtitle, names = {}, unit = "título
     subtitle: subtitle(d.editions[0].year, d.meta.through, events.length), credit: TENNIS_CREDIT,
     text: { ...TEXT, unit } };
 }
-const TENNIS_CREDIT = "Datos: Jeff Sackmann / Tennis Abstract (CC BY-NC-SA 4.0) y Wikipedia (CC BY-SA 4.0)";
+const TENNIS_CREDIT = L("Datos: Jeff Sackmann / Tennis Abstract (CC BY-NC-SA 4.0) y Wikipedia (CC BY-SA 4.0)", "Data: Jeff Sackmann / Tennis Abstract (CC BY-NC-SA 4.0) and Wikipedia (CC BY-SA 4.0)");
 const SLAMS_ES = { "Australian Open": "Abierto de Australia", "Roland Garros": "Roland Garros", Wimbledon: "Wimbledon", "US Open": "US Open" };
 const MASTERS_ES = { "Monte Carlo": "Montecarlo", Rome: "Roma", Canada: "Canadá", Paris: "París", Hamburg: "Hamburgo", Stockholm: "Estocolmo" };
 const slamsAtp = () => tennisTitles("tennis/grand-slams/data/grand-slams.json", { file: "tenis-grand-slams-atp", names: SLAMS_ES,
-  title: "Grand Slams: campeones de la Era Abierta", subtitle: (a, b, n) => `Individual masculino, de Roland Garros ${a} al ${b} · ${n} torneos` });
+  title: L("Grand Slams: campeones de la Era Abierta", "Grand Slams: Open Era champions"),
+  subtitle: (a, b, n) => L(`Individual masculino, de Roland Garros ${a} al ${b} · ${n} torneos`, `Men's singles, Roland Garros ${a} to ${b} · ${n} tournaments`) });
 const slamsWta = () => tennisTitles("tennis/grand-slams-women/data/grand-slams-women.json", { file: "tenis-grand-slams-wta", names: SLAMS_ES,
-  title: "Grand Slams: campeonas de la Era Abierta", subtitle: (a, b, n) => `Individual femenino, de Roland Garros ${a} al ${b} · ${n} torneos` });
+  title: L("Grand Slams: campeonas de la Era Abierta", "Grand Slams: Open Era champions"),
+  subtitle: (a, b, n) => L(`Individual femenino, de Roland Garros ${a} al ${b} · ${n} torneos`, `Women's singles, Roland Garros ${a} to ${b} · ${n} tournaments`) });
 const masters = () => tennisTitles("tennis/masters-1000/data/masters-1000.json", { file: "tenis-masters-1000", names: MASTERS_ES, secondsPerEvent: 0.3,
-  title: "Masters 1000: todos los campeones", subtitle: (a, b, n) => `Desde la creación de la categoría en ${a} hasta ${b.replace("Shanghai", "Shanghái")} · ${n} torneos` });
+  title: L("Masters 1000: todos los campeones", "Masters 1000: every champion"),
+  subtitle: (a, b, n) => L(`Desde la creación de la categoría en ${a} hasta ${b.replace("Shanghai", "Shanghái")} · ${n} torneos`, `Since the series began in ${a}, through ${b} · ${n} tournaments`) });
 
 // Weeks at No. 1, in steps of one player and one calendar year: a spell's weeks are spread over its days.
 function numberOne(tour) {
@@ -402,15 +427,17 @@ function numberOne(tour) {
       const upto = Math.min(b, Date.UTC(y + 1, 0, 1));
       const total = Math.round((s.weeks * (upto - a)) / span);
       if (total > done) events.push({ winner: s.name, ioc: s.nation, add: total - done, big: String(y), tag: "",
-        name: `Número 1 del ranking ${tour.toUpperCase()}`, note: `+${total - done} semana${total - done === 1 ? "" : "s"} en ${y}`, short: String(y) });
+        name: L(`Número 1 del ranking ${tour.toUpperCase()}`, `${tour.toUpperCase()} world No. 1`),
+        note: L(`+${total - done} semana${total - done === 1 ? "" : "s"} en ${y}`, `+${total - done} week${total - done === 1 ? "" : "s"} in ${y}`), short: String(y) });
       done = total;
     }
   }
   const women = tour === "wta";
   return { file: `tenis-semanas-numero-1-${tour}`, secondsPerEvent: 0.45, events, teams: players(events, d.nations),
-    title: `Semanas como número 1 de la ${tour.toUpperCase()}`,
-    subtitle: `Todas las semanas al frente del ranking ${women ? "femenino, desde 1975" : "masculino, desde 1973"} hasta ${d.tours[tour].spells.at(-1).end.slice(0, 4)}`,
-    credit: "Datos: Wikipedia (CC BY-SA 4.0)", text: { ...TEXT, champion: "Número 1", unit: "" } };
+    title: L(`Semanas como número 1 de la ${tour.toUpperCase()}`, `Weeks at No. 1 in the ${tour.toUpperCase()} rankings`),
+    subtitle: L(`Todas las semanas al frente del ranking ${women ? "femenino, desde 1975" : "masculino, desde 1973"} hasta ${d.tours[tour].spells.at(-1).end.slice(0, 4)}`,
+      `Every week at the top of the ${women ? "women's rankings, 1975" : "men's rankings, 1973"} to ${d.tours[tour].spells.at(-1).end.slice(0, 4)}`),
+    credit: CREDIT, text: { ...TEXT, champion: L("Número 1", "No. 1"), unit: "" } };
 }
 
 const BUILDERS = { argentina, "argentina-pro": () => argentina({ proOnly: true }),
@@ -420,7 +447,7 @@ const BUILDERS = { argentina, "argentina-pro": () => argentina({ proOnly: true }
   "tenis-numero-1-atp": () => numberOne("atp"), "tenis-numero-1-wta": () => numberOne("wta"), "liga-mx": ligaMx, nba, nfl, nhl, libertadores, "champions-league": championsLeague };
 const key = process.argv[2];
 if (!BUILDERS[key]) {
-  console.error(`usage: node scripts/make_race_video.mjs ${Object.keys(BUILDERS).join("|")} [--vertical] [--preview]`);
+  console.error(`usage: node scripts/make_race_video.mjs ${Object.keys(BUILDERS).join("|")} [--vertical] [--en] [--preview]`);
   process.exit(1);
 }
 const preview = process.argv.includes("--preview");
@@ -428,6 +455,7 @@ const vertical = process.argv.includes("--vertical");
 const config = BUILDERS[key]();
 // Shorts: 1080×1920, 59 seconds.
 if (vertical) Object.assign(config, { vertical: true, file: `${config.file}-short` });
+if (EN) config.file += "-en";
 const [W, H] = vertical ? [1080, 1920] : [1920, 1080];
 const out = resolve(ROOT, "videos");
 mkdirSync(out, { recursive: true });
