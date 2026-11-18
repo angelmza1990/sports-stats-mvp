@@ -196,7 +196,7 @@ function argentina({ proOnly = false } = {}) {
 function ligaMx() {
   const d = json("football/liga-mx/data/liga-mx.json");
   const NAMES = { Ape: "Apertura", Cla: "Clausura", Inv: L("Invierno", "Winter"), Ver: L("Verano", "Summer"), Guard: "Guard1anes", Bic: "Bicentenario", Prode: "Prode", Mex: L("México", "Mexico") };
-  const events = titles.map((t) => {
+  const events = d.titles.map((t) => {
     const m = t.season.match(/^([A-Za-z]+)–(\d{4})$/);
     let big, name, short;
     if (m) {
