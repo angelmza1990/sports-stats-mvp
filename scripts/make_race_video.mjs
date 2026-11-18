@@ -1,7 +1,7 @@
-// Render a bar chart race of titles as an MP4 (1920×1080, 30 fps) for YouTube.
+// Render a bar chart race of titles as an MP4 (1920×1080, 30 fps) for YouTube; --vertical makes a 1080×1920 Short.
 //
 //   npm install --no-save puppeteer-core@23.11.1
-//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|liga-mx|nba|nfl|nhl|libertadores|champions-league [--preview]
+//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|argentina-pro|liga-mx|nba|nfl|nhl|libertadores|champions-league [--vertical] [--preview]
 //
 // Each title is one step: the winner's bar grows by one while the panel names the tournament, the champion and
 // the runner-up. --preview renders a few still frames as PNG instead of the whole video. Output goes to videos/
@@ -124,8 +124,9 @@ const COLORS = {
 
 const TEXT = { recent: "Últimos campeones", champion: "Campeón", unit: "títulos" };
 
-function argentina() {
+function argentina({ proOnly = false } = {}) {
   const d = json("football/argentine-primera/data/argentine-primera.json");
+  const titles = proOnly ? d.titles.filter((t) => t.era === "professional") : d.titles;
   const ASSOC = {
     AAmF: "Asociación Amateurs de Football (torneo paralelo)",
     FAF: "Federación Argentina de Football (torneo paralelo)",
@@ -136,7 +137,7 @@ function argentina() {
     Metropolitano: "Campeonato Metropolitano", Inicial: "Torneo Inicial", Final: "Torneo Final", "Transición": "Torneo de Transición",
     Liga: "Campeón de Liga (tabla anual)", "(H)": "Copa de Honor", "(C)": "Copa Campeonato", "(O)": "Copa de Oro",
   };
-  const events = d.titles.map((t) => {
+  const events = titles.map((t) => {
     const suffix = t.season.replace(/^\d{4}(–\d{2,4})?\s*/, "");
     const year = t.season.match(/^\d{4}(–\d{2,4})?/)[0];
     let name = ASSOC[suffix] ?? KIND[suffix] ?? suffix;
@@ -144,14 +145,18 @@ function argentina() {
     const shortName = ASSOC[suffix] ? suffix : suffix === "Liga" ? "Liga (anual)" : KIND[suffix] && suffix ? KIND[suffix].replace(/^(Torneo|Campeonato) (de )?/, "") : "";
     return {
       winner: t.champion, big: year, name, short: `${year} ${shortName}`.trim(),
-      tag: t.era === "professional" ? "Era profesional" : "Era amateur",
+      tag: proOnly ? "" : t.era === "professional" ? "Era profesional" : "Era amateur",
       note: t.runnerUp ? `Subcampeón: ${d.clubs[t.runnerUp]?.name ?? t.runnerUp}` : "",
     };
   });
   const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => [id, {
     name: d.clubs[id].name, logo: soccerLogo(d.clubs[id].crest), color: COLORS.argentina[id] ?? muted(id),
   }]));
-  const first = d.titles[0].year, last = d.titles[d.titles.length - 1].season;
+  const first = titles[0].year, last = titles[titles.length - 1].season;
+  if (proOnly) return { file: "argentina-titulos-era-profesional", secondsPerEvent: 0.55, events, teams,
+    title: "Fútbol argentino: campeones de la era profesional",
+    subtitle: `Todos los títulos de Primera División desde el profesionalismo, ${first} a ${last}`,
+    credit: CREDIT, text: { ...TEXT, unit: "títulos" } };
   return { file: "argentina-titulos-primera-division", secondsPerEvent: 0.55, events, teams,
     title: "Fútbol argentino: campeones de Primera División",
     subtitle: `Todos los títulos de liga, ${first} a ${last} · eras amateur y profesional, como los cuenta la AFA`,
@@ -161,7 +166,7 @@ function argentina() {
 function ligaMx() {
   const d = json("football/liga-mx/data/liga-mx.json");
   const NAMES = { Ape: "Apertura", Cla: "Clausura", Inv: "Invierno", Ver: "Verano", Guard: "Guard1anes", Bic: "Bicentenario", Prode: "Prode", Mex: "México" };
-  const events = d.titles.map((t) => {
+  const events = titles.map((t) => {
     const m = t.season.match(/^([A-Za-z]+)–(\d{4})$/);
     let big, name, short;
     if (m) {
@@ -279,21 +284,25 @@ const championsLeague = () => cup("champions-league", { colors: "champions-leagu
     subtitle: `Todas las finales de la Copa de Europa y la Champions League, ${d.finals[0].season} a ${d.finals[d.finals.length - 1].season}` }),
 });
 
-const BUILDERS = { argentina, "liga-mx": ligaMx, nba, nfl, nhl, libertadores, "champions-league": championsLeague };
+const BUILDERS = { argentina, "argentina-pro": () => argentina({ proOnly: true }), "liga-mx": ligaMx, nba, nfl, nhl, libertadores, "champions-league": championsLeague };
 const key = process.argv[2];
 if (!BUILDERS[key]) {
-  console.error(`usage: node scripts/make_race_video.mjs ${Object.keys(BUILDERS).join("|")} [--preview]`);
+  console.error(`usage: node scripts/make_race_video.mjs ${Object.keys(BUILDERS).join("|")} [--vertical] [--preview]`);
   process.exit(1);
 }
 const preview = process.argv.includes("--preview");
+const vertical = process.argv.includes("--vertical");
 const config = BUILDERS[key]();
+// Shorts: 1080×1920 and under a minute or so, so the titles go by faster.
+if (vertical) Object.assign(config, { vertical: true, file: `${config.file}-short`, secondsPerEvent: Number(process.env.SECONDS_PER_EVENT) || 0.33 });
+const [W, H] = vertical ? [1080, 1920] : [1920, 1080];
 const out = resolve(ROOT, "videos");
 mkdirSync(out, { recursive: true });
 
 const browser = await puppeteer.launch({ executablePath: CHROME, headless: true, args: ["--no-sandbox"] });
 const page = await browser.newPage();
 page.on("pageerror", (e) => console.error("page error:", e.message));
-await page.setViewport({ width: 1920, height: 1080, deviceScaleFactor: 1 });
+await page.setViewport({ width: W, height: H, deviceScaleFactor: 1 });
 await page.goto(`file://${resolve(ROOT, "scripts/video/race.html")}`);
 await page.evaluate((c) => window.setup(c), config);
 
@@ -305,9 +314,9 @@ if (preview) {
   }
   console.log(`wrote previews to ${out}`);
 } else {
-  // Hold the first frame two seconds, play every title, hold the final standings six seconds.
+  // Hold the first frame (2 s, 1 s on Shorts), play every title, hold the final standings (6 s, 4 s on Shorts).
   const per = Math.round(config.secondsPerEvent * FPS);
-  const times = [...Array(2 * FPS).fill(0), ...Array.from({ length: n * per }, (_, i) => i / per), ...Array(6 * FPS).fill(n)];
+  const times = [...Array((vertical ? 1 : 2) * FPS).fill(0), ...Array.from({ length: n * per }, (_, i) => i / per), ...Array((vertical ? 4 : 6) * FPS).fill(n)];
   const file = `${out}/${config.file}.mp4`;
   const ff = spawn(FFMPEG, ["-y", "-loglevel", "error", "-f", "image2pipe", "-framerate", String(FPS), "-i", "-",
     "-c:v", "libx264", "-preset", "medium", "-crf", "18", "-pix_fmt", "yuv420p", "-movflags", "+faststart", file], { stdio: ["pipe", "inherit", "inherit"] });
