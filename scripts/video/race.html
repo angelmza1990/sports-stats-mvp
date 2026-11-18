@@ -111,7 +111,7 @@ function badge(team) {
   return b;
 }
 
-// The standings before each event: counts, and when each team reached its count (earlier ranks first on ties).
+// The standings before each event (an event adds one title, or e.add, such as weeks at No. 1): counts, and when each team reached its count (earlier ranks first on ties).
 function buildStates() {
   const count = {}, reached = {};
   const out = [];
@@ -121,7 +121,7 @@ function buildStates() {
   };
   snap();
   C.events.forEach((e, i) => {
-    count[e.winner] = (count[e.winner] || 0) + 1;
+    count[e.winner] = (count[e.winner] || 0) + (e.add ?? 1);
     reached[e.winner] = i;
     snap();
   });
@@ -173,7 +173,7 @@ window.frame = async (t) => {
     const w = (v / max) * BAR_MAX;
     row.querySelector(".bar").style.width = `${w}px`;
     row.querySelector(".bar-end").style.left = `${NAME_W + w + 14}px`;
-    row.querySelector(".bar-value").textContent = String((p > 0.5 ? after : before).count[id] || 0);
+    row.querySelector(".bar-value").textContent = String(Math.round(v));
   }
   // The panel: the event being awarded, and the latest champions before it.
   const ev = t < 0 ? -1 : k;
@@ -199,7 +199,7 @@ window.frame = async (t) => {
       row.append(when, logo(C.teams[r.winner]), who);
       return row;
     }));
-    $("counter").textContent = e ? `${ev + 1} / ${n} ${C.text.unit}` : "";
+    $("counter").textContent = e && C.text.unit ? `${ev + 1} / ${n} ${C.text.unit}` : "";
     // New logos in the panel: decoded before the frame is captured.
     await Promise.all([...document.images].map((img) => img.decode().catch(() => null)));
   }

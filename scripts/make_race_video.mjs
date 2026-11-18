@@ -1,7 +1,7 @@
 // Render a bar chart race of titles as an MP4 (1920×1080, 30 fps) for YouTube; --vertical makes a 1080×1920 Short.
 //
 //   npm install --no-save puppeteer-core@23.11.1
-//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|argentina-pro|argentina-nacional[-pro]|argentina-total[-pro]|liga-mx|nba|nfl|nhl|libertadores|champions-league [--vertical] [--preview]
+//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|argentina-pro|argentina-nacional[-pro]|argentina-total[-pro]|liga-mx|nba|nfl|nhl|libertadores|champions-league|tenis-slams-atp|tenis-slams-wta|tenis-masters|tenis-numero-1-atp|tenis-numero-1-wta [--vertical] [--preview]
 //
 // Each title is one step: the winner's bar grows by one while the panel names the tournament, the champion and
 // the runner-up. --preview renders a few still frames as PNG instead of the whole video. Output goes to videos/
@@ -341,7 +341,6 @@ function argentinaAll({ proOnly = false, intl = false } = {}) {
   const what = intl ? "Ligas, copas nacionales e internacionales" : "Ligas y copas nacionales";
   return {
     file: `argentina-titulos-${intl ? "totales" : "nacionales"}${proOnly ? "-era-profesional" : ""}`, secondsPerEvent: 0.4,
-    shortPace: { "false,false": 0.24, "true,false": 0.3, "false,true": 0.2, "true,true": 0.25 }[[proOnly, intl].join()],
     events, teams,
     title: intl ? `Fútbol argentino: todos los títulos${proOnly ? " de la era profesional" : ""}` : `Fútbol argentino: títulos nacionales${proOnly ? " de la era profesional" : ""}`,
     subtitle: `${what}${proOnly ? " desde el profesionalismo" : ", eras amateur y profesional"}, ${span} · ${events.length} títulos`,
@@ -349,9 +348,76 @@ function argentinaAll({ proOnly = false, intl = false } = {}) {
   };
 }
 
+// Tennis: one step per title (Grand Slams, Masters 1000), or per player and calendar year for the weeks at No. 1.
+// Players wear their flag; the leading players a color of their own, the others their country's.
+const flag = (code) => (code ? `https://flagcdn.com/w160/${code}.png` : null);
+const PLAYER_COLORS = {
+  "Novak Djokovic": "#2f6db5", "Rafael Nadal": "#e8a317", "Roger Federer": "#d52b1e", "Pete Sampras": "#5a6fd6", "Bjorn Borg": "#3fa7d6",
+  "Jimmy Connors": "#8b5cf6", "Ivan Lendl": "#16a34a", "Andre Agassi": "#ec4899", "John McEnroe": "#14b8a6", "Mats Wilander": "#facc15",
+  "Carlos Alcaraz": "#f97316", "Jannik Sinner": "#22c55e", "Boris Becker": "#b91c1c", "Stefan Edberg": "#60a5fa", "Andy Murray": "#6366f1",
+  "Serena Williams": "#a855f7", "Steffi Graf": "#ef4444", "Chris Evert": "#f59e0b", "Martina Navratilova": "#3b82f6", "Margaret Court": "#10b981",
+  "Monica Seles": "#f472b6", "Billie Jean King": "#0ea5e9", "Evonne Goolagong": "#84cc16", "Venus Williams": "#c084fc", "Justine Henin": "#eab308",
+  "Iga Swiatek": "#dc2626", "Martina Hingis": "#fb7185", "Aryna Sabalenka": "#f43f5e", "Ashleigh Barty": "#14b8a6", "Lindsay Davenport": "#818cf8",
+  "Thomas Muster": "#b45309", "Lleyton Hewitt": "#059669", "Gustavo Kuerten": "#facc15", "Marcelo Rios": "#e11d48", "Daniil Medvedev": "#64748b",
+  "Caroline Wozniacki": "#e11d48", "Amelie Mauresmo": "#2563eb", "Jelena Jankovic": "#9333ea", "Dinara Safina": "#7c3aed", "Simona Halep": "#facc15",
+  "Angelique Kerber": "#16a34a", "Kim Clijsters": "#f97316", "Naomi Osaka": "#ef4444", "Jim Courier": "#f97316", "Marat Safin": "#ef4444",
+};
+const SURFACE_ES = { Hard: "Pista dura", Clay: "Polvo de ladrillo", Grass: "Césped", Carpet: "Carpeta" };
+function players(events, nations) {
+  return Object.fromEntries([...new Set(events.map((e) => e.winner))].map((name) => {
+    const ioc = events.findLast((e) => e.winner === name).ioc;
+    return [name, { name, logo: flag(nations[ioc]?.flag), color: PLAYER_COLORS[name] ?? muted(name) }];
+  }));
+}
+function tennisTitles(path, { file, title, subtitle, names = {}, unit = "títulos", secondsPerEvent = 0.4 }) {
+  const d = json(path);
+  const events = d.editions.filter((e) => e.champion).map((e) => ({
+    winner: e.champion, ioc: e.championIoc, big: String(e.year), name: names[e.event] ?? e.event,
+    short: `${e.year} ${names[e.event] ?? e.event}`, tag: SURFACE_ES[e.surface] ?? e.surface,
+    note: e.runnerUp ? `Final: ${e.runnerUp}${e.score ? ` · ${e.score.replaceAll("-", "\u2011")}` : ""}` : "", // no break inside a set
+  }));
+  return { file, secondsPerEvent, events, teams: players(events, d.countries), title,
+    subtitle: subtitle(d.editions[0].year, d.meta.through, events.length), credit: TENNIS_CREDIT,
+    text: { ...TEXT, unit } };
+}
+const TENNIS_CREDIT = "Datos: Jeff Sackmann / Tennis Abstract (CC BY-NC-SA 4.0) y Wikipedia (CC BY-SA 4.0)";
+const SLAMS_ES = { "Australian Open": "Abierto de Australia", "Roland Garros": "Roland Garros", Wimbledon: "Wimbledon", "US Open": "US Open" };
+const MASTERS_ES = { "Monte Carlo": "Montecarlo", Rome: "Roma", Canada: "Canadá", Paris: "París", Hamburg: "Hamburgo", Stockholm: "Estocolmo" };
+const slamsAtp = () => tennisTitles("tennis/grand-slams/data/grand-slams.json", { file: "tenis-grand-slams-atp", names: SLAMS_ES,
+  title: "Grand Slams: campeones de la Era Abierta", subtitle: (a, b, n) => `Individual masculino, de Roland Garros ${a} al ${b} · ${n} torneos` });
+const slamsWta = () => tennisTitles("tennis/grand-slams-women/data/grand-slams-women.json", { file: "tenis-grand-slams-wta", names: SLAMS_ES,
+  title: "Grand Slams: campeonas de la Era Abierta", subtitle: (a, b, n) => `Individual femenino, de Roland Garros ${a} al ${b} · ${n} torneos` });
+const masters = () => tennisTitles("tennis/masters-1000/data/masters-1000.json", { file: "tenis-masters-1000", names: MASTERS_ES, secondsPerEvent: 0.3,
+  title: "Masters 1000: todos los campeones", subtitle: (a, b, n) => `Desde la creación de la categoría en ${a} hasta ${b.replace("Shanghai", "Shanghái")} · ${n} torneos` });
+
+// Weeks at No. 1, in steps of one player and one calendar year: a spell's weeks are spread over its days.
+function numberOne(tour) {
+  const d = json("tennis/number-one/data/number-one.json");
+  const day = (s) => Date.parse(`${s}T00:00:00Z`);
+  const events = [];
+  for (const s of d.tours[tour].spells.filter((x) => x.name)) { // the 2020 freeze counts for nobody
+    const a = day(s.start), b = day(s.end), span = Math.max(1, b - a);
+    let done = 0;
+    for (let y = new Date(a).getUTCFullYear(); y <= new Date(b).getUTCFullYear(); y++) {
+      const upto = Math.min(b, Date.UTC(y + 1, 0, 1));
+      const total = Math.round((s.weeks * (upto - a)) / span);
+      if (total > done) events.push({ winner: s.name, ioc: s.nation, add: total - done, big: String(y), tag: "",
+        name: `Número 1 del ranking ${tour.toUpperCase()}`, note: `+${total - done} semana${total - done === 1 ? "" : "s"} en ${y}`, short: String(y) });
+      done = total;
+    }
+  }
+  const women = tour === "wta";
+  return { file: `tenis-semanas-numero-1-${tour}`, secondsPerEvent: 0.45, events, teams: players(events, d.nations),
+    title: `Semanas como número 1 de la ${tour.toUpperCase()}`,
+    subtitle: `Todas las semanas al frente del ranking ${women ? "femenino, desde 1975" : "masculino, desde 1973"} hasta ${d.tours[tour].spells.at(-1).end.slice(0, 4)}`,
+    credit: "Datos: Wikipedia (CC BY-SA 4.0)", text: { ...TEXT, champion: "Número 1", unit: "" } };
+}
+
 const BUILDERS = { argentina, "argentina-pro": () => argentina({ proOnly: true }),
   "argentina-nacional": () => argentinaAll(), "argentina-nacional-pro": () => argentinaAll({ proOnly: true }),
-  "argentina-total": () => argentinaAll({ intl: true }), "argentina-total-pro": () => argentinaAll({ proOnly: true, intl: true }), "liga-mx": ligaMx, nba, nfl, nhl, libertadores, "champions-league": championsLeague };
+  "argentina-total": () => argentinaAll({ intl: true }), "argentina-total-pro": () => argentinaAll({ proOnly: true, intl: true }),
+  "tenis-slams-atp": slamsAtp, "tenis-slams-wta": slamsWta, "tenis-masters": masters,
+  "tenis-numero-1-atp": () => numberOne("atp"), "tenis-numero-1-wta": () => numberOne("wta"), "liga-mx": ligaMx, nba, nfl, nhl, libertadores, "champions-league": championsLeague };
 const key = process.argv[2];
 if (!BUILDERS[key]) {
   console.error(`usage: node scripts/make_race_video.mjs ${Object.keys(BUILDERS).join("|")} [--vertical] [--preview]`);
@@ -360,8 +426,8 @@ if (!BUILDERS[key]) {
 const preview = process.argv.includes("--preview");
 const vertical = process.argv.includes("--vertical");
 const config = BUILDERS[key]();
-// Shorts: 1080×1920 and under a minute or so, so the titles go by faster.
-if (vertical) Object.assign(config, { vertical: true, file: `${config.file}-short`, secondsPerEvent: Number(process.env.SECONDS_PER_EVENT) || config.shortPace || 0.33 });
+// Shorts: 1080×1920, 59 seconds.
+if (vertical) Object.assign(config, { vertical: true, file: `${config.file}-short` });
 const [W, H] = vertical ? [1080, 1920] : [1920, 1080];
 const out = resolve(ROOT, "videos");
 mkdirSync(out, { recursive: true });
@@ -381,9 +447,11 @@ if (preview) {
   }
   console.log(`wrote previews to ${out}`);
 } else {
-  // Hold the first frame (2 s, 1 s on Shorts), play every title, hold the final standings (6 s, 4 s on Shorts).
-  const per = Math.round(config.secondsPerEvent * FPS);
-  const times = [...Array((vertical ? 1 : 2) * FPS).fill(0), ...Array.from({ length: n * per }, (_, i) => i / per), ...Array((vertical ? 4 : 6) * FPS).fill(n)];
+  // Hold the first frame two seconds, play every event, hold the final standings six seconds. A Short lasts 59 s
+  // whatever the number of events (1 s hold, 55 s race, 3 s hold), so it also fits Instagram stories and TikTok.
+  const [hold0, hold1] = vertical ? [1, 3] : [2, 6];
+  const raceFrames = vertical ? 55 * FPS : n * Math.round(config.secondsPerEvent * FPS);
+  const times = [...Array(hold0 * FPS).fill(0), ...Array.from({ length: raceFrames }, (_, i) => (i * n) / raceFrames), ...Array(hold1 * FPS).fill(n)];
   const file = `${out}/${config.file}.mp4`;
   const ff = spawn(FFMPEG, ["-y", "-loglevel", "error", "-f", "image2pipe", "-framerate", String(FPS), "-i", "-",
     "-c:v", "libx264", "-preset", "medium", "-crf", "18", "-pix_fmt", "yuv420p", "-movflags", "+faststart", file], { stdio: ["pipe", "inherit", "inherit"] });
