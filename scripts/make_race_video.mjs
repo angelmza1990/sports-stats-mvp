@@ -1,7 +1,7 @@
 // Render a bar chart race of titles as an MP4 (1920×1080, 30 fps) for YouTube; --vertical makes a 1080×1920 Short.
 //
 //   npm install --no-save puppeteer-core@23.11.1
-//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|argentina-pro|liga-mx|nba|nfl|nhl|libertadores|champions-league [--vertical] [--preview]
+//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|argentina-pro|argentina-nacional[-pro]|argentina-total[-pro]|liga-mx|nba|nfl|nhl|libertadores|champions-league [--vertical] [--preview]
 //
 // Each title is one step: the winner's bar grows by one while the panel names the tournament, the champion and
 // the runner-up. --preview renders a few still frames as PNG instead of the whole video. Output goes to videos/
@@ -16,10 +16,27 @@ const CHROME = process.env.CHROME || "/Applications/Google Chrome.app/Contents/M
 const FFMPEG = process.env.FFMPEG || "ffmpeg";
 const FPS = 30;
 const json = (path) => JSON.parse(readFileSync(resolve(ROOT, path), "utf8"));
-const CREDIT = "Datos: Wikipedia (CC BY-SA 4.0) · angelmza1990.github.io/sports-stats-mvp";
+const CREDIT = "Datos: Wikipedia (CC BY-SA 4.0)";
 const soccerLogo = (id) => (id ? `https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500-dark/${id}.png&h=160&w=160` : null);
 const proLogo = (league, code) => (code ? `https://a.espncdn.com/combiner/i?img=/i/teamlogos/${league}/500-dark/${code}.png&h=160&w=160` : null);
 const nbaLogo = (code) => (code ? `https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500-dark/${code}.png&h=160&w=160` : null);
+
+// Crests of old and small Argentine clubs that ESPN doesn't have, from Wikimedia Commons (and Tiro Federal's from
+// English Wikipedia).
+const WM = "https://upload.wikimedia.org/wikipedia/";
+const OLD_CRESTS = {
+  alumni: `${WM}commons/thumb/c/c7/Escudo_Alumni.png/250px-Escudo_Alumni.png`,
+  "belgrano-ac": `${WM}commons/thumb/1/14/Belgrano_ac_logo.svg/250px-Belgrano_ac_logo.svg.png`,
+  "club-atletico-central-cordoba-rosario": `${WM}commons/thumb/9/9b/Club_Atl%C3%A9tico_Central_C%C3%B3rdoba_Rosario%29.svg/250px-Club_Atl%C3%A9tico_Central_C%C3%B3rdoba_Rosario%29.svg.png`,
+  "estudiantil-porteno": `${WM}commons/6/6c/Escudo_de_Estudiantil_Porte%C3%B1o.png`,
+  "club-atletico-patronato-de-la-juventud-catolica": `${WM}commons/thumb/3/3c/Logo_of_CA_Patronato_%282023%29.png/250px-Logo_of_CA_Patronato_%282023%29.png`,
+  porteno: `${WM}commons/thumb/b/ba/Escudo-porte%C3%B1o.png/250px-Escudo-porte%C3%B1o.png`,
+  "club-sportivo-balcarce": `${WM}commons/thumb/3/3b/Sportivo_balcarce_logo.png/250px-Sportivo_balcarce_logo.png`,
+  "lomas-ac": `${WM}commons/thumb/c/ca/Lomas_ac_newlogo.png/250px-Lomas_ac_newlogo.png`,
+  "rosario-ac": `${WM}commons/thumb/b/bb/Atlet_rosario_logo.svg/250px-Atlet_rosario_logo.svg.png`,
+  "san-isidro": `${WM}commons/thumb/6/6f/CA_san_isidro_logo.svg/250px-CA_san_isidro_logo.svg.png`,
+  "club-atletico-tiro-federal-argentino": `${WM}en/thumb/b/b1/Tiro_federal_rosario_logo.png/250px-Tiro_federal_rosario_logo.png`,
+};
 
 // Bar fills in club colors (stripes and sashes as gradients); other clubs get a muted color of their own.
 const stripes = (a, b, angle = 90, w = 16) => `repeating-linear-gradient(${angle}deg, ${a} 0 ${w}px, ${b} ${w}px ${2 * w}px)`;
@@ -144,13 +161,14 @@ function argentina({ proOnly = false } = {}) {
     if (!ASSOC[suffix] && t.split && !suffix) name = "Asociación Argentina de Football (año de cisma)";
     const shortName = ASSOC[suffix] ? suffix : suffix === "Liga" ? "Liga (anual)" : KIND[suffix] && suffix ? KIND[suffix].replace(/^(Torneo|Campeonato) (de )?/, "") : "";
     return {
-      winner: t.champion, big: year, name, short: `${year} ${shortName}`.trim(),
+      winner: t.champion, big: year, name, short: `${year} ${shortName}`.trim(), era: t.era,
+      when: Number(year.replace(/^(\d\d)(\d\d)–(\d\d)$/, "$1$3").replace(/^(\d{4})–(\d{4})$/, "$2")),
       tag: proOnly ? "" : t.era === "professional" ? "Era profesional" : "Era amateur",
       note: t.runnerUp ? `Subcampeón: ${d.clubs[t.runnerUp]?.name ?? t.runnerUp}` : "",
     };
   });
   const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => [id, {
-    name: d.clubs[id].name, logo: soccerLogo(d.clubs[id].crest), color: COLORS.argentina[id] ?? muted(id),
+    name: d.clubs[id].name, logo: soccerLogo(d.clubs[id].crest) ?? OLD_CRESTS[id] ?? null, color: COLORS.argentina[id] ?? muted(id),
   }]));
   const first = titles[0].year, last = titles[titles.length - 1].season;
   if (proOnly) return { file: "argentina-titulos-era-profesional", secondsPerEvent: 0.55, events, teams,
@@ -284,7 +302,56 @@ const championsLeague = () => cup("champions-league", { colors: "champions-leagu
     subtitle: `Todas las finales de la Copa de Europa y la Champions League, ${d.finals[0].season} a ${d.finals[d.finals.length - 1].season}` }),
 });
 
-const BUILDERS = { argentina, "argentina-pro": () => argentina({ proOnly: true }), "liga-mx": ligaMx, nba, nfl, nhl, libertadores, "champions-league": championsLeague };
+// Every title of the Argentine clubs, in order: league titles and national cups, and optionally the international
+// titles (CONMEBOL, FIFA and the Río de la Plata cups the AFA counts), all eras or the professional one only.
+function argentinaAll({ proOnly = false, intl = false } = {}) {
+  const d = json("football/argentine-primera/data/argentine-primera.json");
+  const x = json("football/argentine-primera/data/international.json");
+  const keep = (e) => !proOnly || e.era === "professional";
+  const eraTag = (era) => (proOnly ? "" : era === "professional" ? " · era profesional" : " · era amateur");
+  const CUP_ES = {
+    "copa-de-competencia-chevallier-boutell": "Copa de Competencia Chevallier Boutell",
+  };
+  const INTL_ES = {
+    libertadores: "Copa Libertadores", sudamericana: "Copa Sudamericana", supercopa: "Supercopa Libertadores", recopa: "Recopa Sudamericana",
+    conmebol: "Copa CONMEBOL", mercosur: "Copa Mercosur", oro: "Copa de Oro", master: "Copa Master de Supercopa",
+    interamericana: "Copa Interamericana", suruga: "Copa Suruga Bank", "tie-cup": "Tie Cup (Copa de Competencia rioplatense)",
+    cusenier: "Copa de Honor Cusenier", aldao: "Copa Aldao", "rio-de-la-plata": "Copa Campeonato del Río de la Plata",
+    "escobar-gerona": "Copa Escobar-Gerona",
+  };
+  const league = argentina({ proOnly }).events.map((e, i) => ({ ...e, order: [e.when, 0, i],
+    tag: `Liga${eraTag(e.era)}`, short: e.short.replace(/ (LAF|AAmF|FAF)$/, "") }));
+  const cups = d.cups.flatMap((c) => c.editions.filter(keep).map((e, i) => ({
+    winner: e.champion, big: e.season, name: CUP_ES[c.key] ?? c.name, short: `${e.season} ${(CUP_ES[c.key] ?? c.name).replace(/^Copa (de )?/, "")}`,
+    tag: `Copa nacional${eraTag(e.era)}`, note: e.runnerUp ? `Subcampeón: ${d.clubs[e.runnerUp]?.name ?? e.runnerUp}` : "",
+    order: [e.year, 1, i],
+  })));
+  const world = (y) => (y < 2005 ? "Copa Intercontinental" : "Mundial de Clubes FIFA");
+  const abroad = intl ? x.titles.filter(keep).map((t, i) => {
+    const name = t.comp === "intercontinental" ? world(t.year) : INTL_ES[t.comp];
+    return { winner: t.club, big: t.season, name, short: `${t.season} ${name.replace(/^Copa /, "")}`, tag: `Internacional${eraTag(t.era)}`, note: "", order: [t.year, 2, i] };
+  }) : [];
+  const cmp = (a, b) => a.order[0] - b.order[0] || a.order[1] - b.order[1] || a.order[2] - b.order[2];
+  const events = [...league, ...cups, ...abroad].sort(cmp);
+  const club = (id) => d.clubs[id] ?? x.clubs[id];
+  const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => [id, {
+    name: club(id).name, logo: soccerLogo(club(id).crest) ?? OLD_CRESTS[id] ?? null, color: COLORS.argentina[id] ?? muted(id),
+  }]));
+  const span = `${events[0].big.slice(0, 4)} a ${String(events.at(-1).order[0])}`;
+  const what = intl ? "Ligas, copas nacionales e internacionales" : "Ligas y copas nacionales";
+  return {
+    file: `argentina-titulos-${intl ? "totales" : "nacionales"}${proOnly ? "-era-profesional" : ""}`, secondsPerEvent: 0.4,
+    shortPace: { "false,false": 0.24, "true,false": 0.3, "false,true": 0.2, "true,true": 0.25 }[[proOnly, intl].join()],
+    events, teams,
+    title: intl ? `Fútbol argentino: todos los títulos${proOnly ? " de la era profesional" : ""}` : `Fútbol argentino: títulos nacionales${proOnly ? " de la era profesional" : ""}`,
+    subtitle: `${what}${proOnly ? " desde el profesionalismo" : ", eras amateur y profesional"}, ${span} · ${events.length} títulos`,
+    credit: CREDIT, text: { ...TEXT, unit: "títulos" },
+  };
+}
+
+const BUILDERS = { argentina, "argentina-pro": () => argentina({ proOnly: true }),
+  "argentina-nacional": () => argentinaAll(), "argentina-nacional-pro": () => argentinaAll({ proOnly: true }),
+  "argentina-total": () => argentinaAll({ intl: true }), "argentina-total-pro": () => argentinaAll({ proOnly: true, intl: true }), "liga-mx": ligaMx, nba, nfl, nhl, libertadores, "champions-league": championsLeague };
 const key = process.argv[2];
 if (!BUILDERS[key]) {
   console.error(`usage: node scripts/make_race_video.mjs ${Object.keys(BUILDERS).join("|")} [--vertical] [--preview]`);
@@ -294,7 +361,7 @@ const preview = process.argv.includes("--preview");
 const vertical = process.argv.includes("--vertical");
 const config = BUILDERS[key]();
 // Shorts: 1080×1920 and under a minute or so, so the titles go by faster.
-if (vertical) Object.assign(config, { vertical: true, file: `${config.file}-short`, secondsPerEvent: Number(process.env.SECONDS_PER_EVENT) || 0.33 });
+if (vertical) Object.assign(config, { vertical: true, file: `${config.file}-short`, secondsPerEvent: Number(process.env.SECONDS_PER_EVENT) || config.shortPace || 0.33 });
 const [W, H] = vertical ? [1080, 1920] : [1920, 1080];
 const out = resolve(ROOT, "videos");
 mkdirSync(out, { recursive: true });
