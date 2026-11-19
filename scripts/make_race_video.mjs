@@ -7,7 +7,8 @@
 // the runner-up. --preview renders a few still frames as PNG instead of the whole video. Output goes to videos/
 // (not committed). Team names and logos are trademarks of their owners; the logos come from ESPN's public CDN.
 import { spawn } from "node:child_process";
-import { mkdirSync, readFileSync } from "node:fs";
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { metadata } from "./video/metadata.mjs";
 import { resolve } from "node:path";
 import puppeteer from "puppeteer-core";
 
@@ -440,6 +441,17 @@ function numberOne(tour) {
     credit: CREDIT, text: { ...TEXT, champion: L("Número 1", "No. 1"), unit: "" } };
 }
 
+// The background of each video: the sport's own (a pitch, a court, a rink) or a plain one, so that a Short and a
+// video, or the Spanish and English cuts, of the same race never look the same.
+const SPORT_THEME = { argentina: "pitch", "liga-mx": "pitch", libertadores: "pitch", "champions-league": "pitch", tenis: "court", nhl: "rink" };
+const PLAIN_THEMES = ["arena", "dusk", "grain", "night"];
+function theme(key) {
+  const sport = SPORT_THEME[key] ?? SPORT_THEME[key.split("-")[0]];
+  const cut = (vertical ? 1 : 0) + (EN ? 2 : 0); // 0 Spanish video, 1 Spanish Short, 2 English video, 3 English Short
+  if (sport && (cut === 0 || cut === 3)) return sport;
+  return PLAIN_THEMES[(Object.keys(BUILDERS).indexOf(key) + cut) % PLAIN_THEMES.length];
+}
+
 const BUILDERS = { argentina, "argentina-pro": () => argentina({ proOnly: true }),
   "argentina-nacional": () => argentinaAll(), "argentina-nacional-pro": () => argentinaAll({ proOnly: true }),
   "argentina-total": () => argentinaAll({ intl: true }), "argentina-total-pro": () => argentinaAll({ proOnly: true, intl: true }),
@@ -456,9 +468,18 @@ const config = BUILDERS[key]();
 // Shorts: 1080×1920, 59 seconds.
 if (vertical) Object.assign(config, { vertical: true, file: `${config.file}-short` });
 if (EN) config.file += "-en";
+config.theme = theme(key);
 const [W, H] = vertical ? [1080, 1920] : [1920, 1080];
-const out = resolve(ROOT, "videos");
+const out = resolve(ROOT, "videos", EN ? "en" : "es", vertical ? "shorts" : "videos");
 mkdirSync(out, { recursive: true });
+
+// --meta writes the title, description and hashtags for the upload next to the video, and renders nothing.
+if (process.argv.includes("--meta")) {
+  const m = metadata(key, config);
+  writeFileSync(`${out}/${config.file}.txt`, `${m.title}\n\n${m.description}\n\n${m.hashtags}\n`);
+  console.log(JSON.stringify({ file: `${config.file}.mp4`, ...m }));
+  process.exit(0);
+}
 
 const browser = await puppeteer.launch({ executablePath: CHROME, headless: true, args: ["--no-sandbox"] });
 const page = await browser.newPage();
