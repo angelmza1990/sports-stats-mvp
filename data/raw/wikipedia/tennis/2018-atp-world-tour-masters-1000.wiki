@@ -87,14 +87,14 @@ The twenty-ninth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 {|class="wikitable plainrowheaders"
 |-
 ! scope="col"|Masters
-! scope="col" style="width:11em"| Singles champions
+! scope="col" style="width:13em"| Singles champions
 ! scope="col" style="width:11em"| Runners-up
 ! scope="col" style="width:11em"| Score
-! scope="col" style="width:11em"| Doubles champions
-! scope="col" style="width:11em"| Runners-up
+! scope="col" style="width:13em"| Doubles champions
+! scope="col" style="width:13em"| Runners-up
 ! scope="col" style="width:10em"| Score
 |-
-! scope="row"|{{nowrap|[[2018 BNP Paribas Open|'''Indian Wells''']]}}<br />{{small|[[2018 BNP Paribas Open – Men's singles|Singles]] – [[2018 BNP Paribas Open – Men's doubles|Doubles]]}}
+! scope="row"|{{nowrap|[[2018 BNP Paribas Open|'''Indian Wells''']]}}<br /><small>[[2018 BNP Paribas Open – Men's singles|Singles]] – [[2018 BNP Paribas Open – Men's doubles|Doubles]]</small>
 |style="background:#ddfddd"|{{flagicon|ARG}} [[Juan Martin del Potro]]*
 |{{flagicon|SUI}} Roger Federer
 |6–4, 6–7<sup>(8–10)</sup>, 7–6<sup>(7–2)</sup>
@@ -102,7 +102,7 @@ The twenty-ninth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{flagicon|USA}} Bob Bryan <br />{{flagicon|USA}} Mike Bryan
 |7–6<sup>(7–4)</sup>, 7–6<sup>(7–2)</sup>
 |-
-! scope="row"|[[2018 Miami Open|'''Miami''']]<br />{{small|[[2018 Miami Open – Men's singles|Singles]] – [[2018 Miami Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2018 Miami Open|'''Miami''']]<br /><small>[[2018 Miami Open – Men's singles|Singles]] – [[2018 Miami Open – Men's doubles|Doubles]]</small>
 |style="background:#ddfddd"|{{flagicon|USA}} [[John Isner]]*
 |{{flagicon|GER}} Alexander Zverev
 |6–7<sup>(4–7)</sup>, 6–4, 6–4
@@ -110,7 +110,7 @@ The twenty-ninth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{flagicon|RUS}} [[Karen Khachanov]] <br /> {{flagicon|RUS}} [[Andrey Rublev (tennis)|Andrey Rublev]]
 |4–6, 7–6 <sup>(7–5)</sup>, [10–4]
 |-
-! scope="row"| {{nowrap|[[2018 Monte-Carlo Masters|'''Monte Carlo''']]}}<br />{{small|[[2018 Monte-Carlo Masters – Singles|Singles]] – [[2018 Monte-Carlo Masters – Doubles|Doubles]]}}
+! scope="row"| {{nowrap|[[2018 Monte-Carlo Masters|'''Monte Carlo''']]}}<br /><small>[[2018 Monte-Carlo Masters – Singles|Singles]] – [[2018 Monte-Carlo Masters – Doubles|Doubles]]</small>
 |{{flagicon|ESP}} Rafael Nadal
 |{{flagicon|JPN}} Kei Nishikori
 |6–3, 6–2
@@ -118,7 +118,7 @@ The twenty-ninth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{flagicon|AUT}} [[Oliver Marach]] <br /> {{flagicon|CRO}} [[Mate Pavić]]
 |7–6 <sup>(7–5)</sup>, 6–3
 |-
-! rowspan="2" scope="row" |[[2018 Mutua Madrid Open|'''Madrid''']]<br />{{small|[[2018 Mutua Madrid Open – Men's singles|Singles]] – [[2018 Mutua Madrid Open – Men's doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2018 Mutua Madrid Open|'''Madrid''']]<br /><small>[[2018 Mutua Madrid Open – Men's singles|Singles]] – [[2018 Mutua Madrid Open – Men's doubles|Doubles]]</small>
 | rowspan="2" |{{flagicon|GER}} Alexander Zverev
 | rowspan="2" |{{flagicon|AUT}} Dominic Thiem
 | rowspan="2" |6–4, 6–4
@@ -128,7 +128,7 @@ The twenty-ninth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |-
 | style="background:#ddfddd"|{{flagicon|CRO}} [[Nikola Mektić]]*
 |-
-! scope="row" |[[2018 Italian Open (tennis)|'''Rome''']]<br />{{small|[[2018 Italian Open – Men's singles|Singles]] – [[2018 Italian Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2018 Italian Open (tennis)|'''Rome''']]<br /><small>[[2018 Italian Open – Men's singles|Singles]] – [[2018 Italian Open – Men's doubles|Doubles]]</small>
 ||{{flagicon|ESP}} Rafael Nadal
 |{{flagicon|GER}} Alexander Zverev
 |6–1, 1–6, 6–3
@@ -136,7 +136,7 @@ The twenty-ninth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{flagicon|ESP}} [[Pablo Carreño Busta]] <br /> {{flagicon|POR}} [[João Sousa]]
 |3–6, 6–4, [10–4]
 |-
-! scope="row" |[[2018 Rogers Cup|'''Toronto''']]<br />{{small|[[2018 Rogers Cup – Men's singles|Singles]] – [[2018 Rogers Cup – Men's doubles|Doubles]]}}
+! scope="row" |[[2018 Rogers Cup|'''Toronto''']]<br /><small>[[2018 Rogers Cup – Men's singles|Singles]] – [[2018 Rogers Cup – Men's doubles|Doubles]]</small>
 ||{{flagicon|ESP}} Rafael Nadal
 |{{flagicon|GRE}} [[Stefanos Tsitsipas]]
 |6–2, 7–6<sup>(7–4)</sup>
@@ -144,7 +144,7 @@ The twenty-ninth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{flagicon|RSA}} [[Raven Klaasen]] <br /> {{flagicon|NZL}} [[Michael Venus (tennis)|Michael Venus]]
 |6–2, 6–7 <sup>(7–9)</sup>, [10–6]
 |-
-! rowspan="2" scope="row" |[[2018 Western & Southern Open|'''Cincinnati''']]<br />{{small|[[2018 Western & Southern Open – Men's singles|Singles]] – [[2018 Western & Southern Open – Men's doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2018 Western & Southern Open|'''Cincinnati''']]<br /><small>[[2018 Western & Southern Open – Men's singles|Singles]] – [[2018 Western & Southern Open – Men's doubles|Doubles]]</small>
 | rowspan="2" style="background:#ffef98" |{{flagicon|SRB}} Novak Djokovic<sup>§</sup>
 | rowspan="2" |{{flagicon|SUI}} Roger Federer
 | rowspan="2" |6–4, 6–4
@@ -154,7 +154,7 @@ The twenty-ninth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |-
 |{{flagicon|BRA}} Bruno Soares
 |-
-! scope="row" |[[2018 Shanghai Rolex Masters|'''Shanghai''']]<br />{{small|[[2018 Shanghai Rolex Masters – Singles|Singles]] – [[2018 Shanghai Rolex Masters – Doubles|Doubles]]}}
+! scope="row" |[[2018 Shanghai Rolex Masters|'''Shanghai''']]<br /><small>[[2018 Shanghai Rolex Masters – Singles|Singles]] – [[2018 Shanghai Rolex Masters – Doubles|Doubles]]</small>
 |{{flagicon|SRB}} Novak Djokovic
 |{{flagicon|CRO}} [[Borna Ćorić]]
 |6–3, 6–4
@@ -162,7 +162,7 @@ The twenty-ninth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{flagicon|GBR}} Jamie Murray <br />{{flagicon|BRA}} Bruno Soares
 |6–4, 6–2
 |-
-! scope="row" |[[2018 Rolex Paris Masters|'''Paris''']]<br />{{small|[[2018 Rolex Paris Masters – Singles|Singles]] – [[2018 Rolex Paris Masters – Doubles|Doubles]]}}
+! scope="row" |[[2018 Rolex Paris Masters|'''Paris''']]<br /><small>[[2018 Rolex Paris Masters – Singles|Singles]] – [[2018 Rolex Paris Masters – Doubles|Doubles]]</small>
 | style="background:#ddfddd" |{{flagicon|RUS}} [[Karen Khachanov]]*
 |{{flagicon|SRB}} [[Novak Djokovic]]
 |7–5, 6–4
@@ -1285,7 +1285,7 @@ The twenty-ninth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 | RD1-score1-3=
 | RD1-seed2=
 | RD1-team2='''{{flagicon|ESP}} [[Marcel Granollers]] <br />{{flagicon|USA}} [[Rajeev Ram]]'''
-| RD1-score2-1={{small|w/o}}
+| RD1-score2-1=<small>w/o</small>
 | RD1-score2-2=
 | RD1-score2-3=
 

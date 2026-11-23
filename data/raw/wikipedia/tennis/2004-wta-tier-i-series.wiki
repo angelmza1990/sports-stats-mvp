@@ -100,7 +100,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -111,7 +111,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2004 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[2004 Toray Pan Pacific Open – Singles|Singles]] – [[2004 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[2004 Toray Pan Pacific Open – Singles|Singles]] – [[2004 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Lindsay Davenport]]
 | {{#invoke:flag|icon|BUL}} [[Magdalena Maleeva]]
 | 6–4, 6–1
@@ -120,7 +120,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–0, 6–1
 |-
 ! scope="row" | '''[[2004 Pacific Life Open|Indian Wells]]'''
-{{small|[[2004 Pacific Life Open – Women's singles|Singles]] – [[2004 Pacific Life Open – Women's doubles|Doubles]]}}
+<small>[[2004 Pacific Life Open – Women's singles|Singles]] – [[2004 Pacific Life Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|BEL}} [[Justine Henin]]
 | {{#invoke:flag|icon|USA}} Lindsay Davenport
 | 6–1, 6–4
@@ -129,7 +129,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–1, 6–2
 |-
 ! scope="row" | '''[[2004 NASDAQ-100 Open|Miami]]'''
-{{small|[[2004 NASDAQ-100 Open – Women's singles|Singles]] – [[2004 NASDAQ-100 Open – Women's doubles|Doubles]]}}
+<small>[[2004 NASDAQ-100 Open – Women's singles|Singles]] – [[2004 NASDAQ-100 Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Serena Williams]]
 | {{#invoke:flag|icon|RUS}} [[Elena Dementieva]]
 | 6–1, 6–1
@@ -138,44 +138,44 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–2, 6–3
 |-
 ! scope="row" | '''[[2004 Family Circle Cup|Charleston]]'''
-{{small|[[2004 Family Circle Cup – Singles|Singles]] – [[2004 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[2004 Family Circle Cup – Singles|Singles]] – [[2004 Family Circle Cup – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Venus Williams]]
 | {{#invoke:flag|icon|ESP}} [[Conchita Martínez]]
 | 2–6, 6–2, 6–1
-| {{#invoke:flag|icon|ESP}} Virginia Ruano Pascual <br /> {{#invoke:flag|icon|ARG}} Paola Suárez
+| {{#invoke:flag|icon|ESP}} Virginia Ruano Pascual <small>(2)</small> <br /> {{#invoke:flag|icon|ARG}} Paola Suárez <small>(2)</small>
 | {{#invoke:flag|icon|USA}} [[Martina Navratilova]] <br /> {{#invoke:flag|icon|USA}} [[Lisa Raymond]]
 | 6–4, 6–1
 |-
 ! scope="row" | '''[[2004 Ladies German Open|Berlin]]'''
-{{small|[[2004 WTA German Open – Singles|Singles]] – [[2004 WTA German Open – Doubles|Doubles]]}}
+<small>[[2004 WTA German Open – Singles|Singles]] – [[2004 WTA German Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|FRA}} [[Amélie Mauresmo]]
 | {{#invoke:flag|icon|USA}} Venus Williams
 | Walkover
-| {{#invoke:flag|icon|RUS}} Nadia Petrova <br /> {{#invoke:flag|icon|USA}} Meghann Shaughnessy
+| {{#invoke:flag|icon|RUS}} Nadia Petrova <small>(2)</small> <br /> {{#invoke:flag|icon|USA}} Meghann Shaughnessy <small>(2)</small>
 | {{#invoke:flag|icon|SVK}} [[Janette Husárová]] <br /> {{#invoke:flag|icon|ESP}} Conchita Martínez
 | 6–2, 2–6, 6–1
 |-
 ! scope="row" | '''[[2004 Italian Open (tennis)|Rome]]'''
-{{small|[[2004 Italian Open – Women's singles|Singles]] – [[2004 Italian Open – Women's doubles|Doubles]]}}
-| {{#invoke:flag|icon|FRA}} Amélie Mauresmo
+<small>[[2004 Italian Open – Women's singles|Singles]] – [[2004 Italian Open – Women's doubles|Doubles]]</small>
+| {{#invoke:flag|icon|FRA}} Amélie Mauresmo <small>(2)</small>
 | {{#invoke:flag|icon|USA}} [[Jennifer Capriati]]
 | 3–6, 6–3, 7–6<sup>(8–6)</sup>
-| {{#invoke:flag|icon|RUS}} Nadia Petrova <br /> {{#invoke:flag|icon|USA}} Meghann Shaughnessy
+| {{#invoke:flag|icon|RUS}} Nadia Petrova <small>(3)</small> <br /> {{#invoke:flag|icon|USA}} Meghann Shaughnessy <small>(3)</small> 
 | {{#invoke:flag|icon|ESP}} Virginia Ruano Pascual <br /> {{#invoke:flag|icon|ARG}} Paola Suárez
 | 2–6, 6–3, 6–3
 |-
 ! scope="row" | '''[[2004 Acura Classic|San Diego]]'''
-{{small|[[2004 Acura Classic – Singles|Singles]] – [[2004 Acura Classic – Doubles|Doubles]]}}
-| {{#invoke:flag|icon|USA}} Lindsay Davenport
+<small>[[2004 Acura Classic – Singles|Singles]] – [[2004 Acura Classic – Doubles|Doubles]]</small>
+| {{#invoke:flag|icon|USA}} Lindsay Davenport <small>(2)</small>
 | {{#invoke:flag|icon|RUS}} Anastasia Myskina
 | 6–1, 6–1
-| {{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|AUS}} Rennae Stubbs
+| {{#invoke:flag|icon|ZIM}} Cara Black <small>(2)</small> <br /> {{#invoke:flag|icon|AUS}} Rennae Stubbs <small>(2)</small> 
 | {{#invoke:flag|icon|ESP}} Virginia Ruano Pascual <br /> {{#invoke:flag|icon|ARG}} Paola Suárez
 | 4–6, 6–1, 6–4
 |-
 ! scope="row" rowspan=2| '''[[2004 Canada Masters and the Rogers AT&T Cup|Montréal]]'''
-{{small|[[2004 Rogers AT&T Cup – Singles|Singles]] – [[2004 Rogers AT&T Cup – Doubles|Doubles]]}}
-| rowspan="2" | {{#invoke:flag|icon|FRA}} Amélie Mauresmo
+<small>[[2004 Rogers AT&T Cup – Singles|Singles]] – [[2004 Rogers AT&T Cup – Doubles|Doubles]]</small>
+| rowspan="2" | {{#invoke:flag|icon|FRA}} Amélie Mauresmo <small>(3)</small> 
 | rowspan="2" | {{#invoke:flag|icon|RUS}} Elena Likhovtseva
 | rowspan="2" | 6–1, 6–0
 | style="background:#ddfddd"| {{#invoke:flag|icon|JPN}} [[Shinobu Asagoe]]*
@@ -185,7 +185,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|JPN}} [[Ai Sugiyama]]
 |-
 ! scope="row" | '''[[2004 Kremlin Cup|Moscow]]'''
-{{small|[[2004 Kremlin Cup – Women's singles|Singles]] – [[2004 Kremlin Cup – Women's doubles|Doubles]]}}
+<small>[[2004 Kremlin Cup – Women's singles|Singles]] – [[2004 Kremlin Cup – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|RUS}} Anastasia Myskina
 | {{#invoke:flag|icon|RUS}} Elena Dementieva
 | 7–5, 6–0
@@ -194,11 +194,11 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–3, 4–6, 6–2
 |-
 ! scope="row" | '''[[2004 Swisscom Challenge|Zürich]]'''
-{{small|[[2004 Swisscom Challenge – Singles|Singles]] – [[2004 Swisscom Challenge – Doubles|Doubles]]}}
+<small>[[2004 Swisscom Challenge – Singles|Singles]] – [[2004 Swisscom Challenge – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|AUS}} [[Alicia Molik]]*
 | {{#invoke:flag|icon|RUS}} [[Maria Sharapova]]
 | 4–6, 6–2, 6–3
-| {{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|AUS}} Rennae Stubbs
+| {{#invoke:flag|icon|ZIM}} Cara Black <small>(3)</small> <br /> {{#invoke:flag|icon|AUS}} Rennae Stubbs <small>(3)</small> 
 | {{#invoke:flag|icon|ESP}} Virginia Ruano Pascual <br /> {{#invoke:flag|icon|ARG}} Paola Suárez
 | 6–4, 6–4
 |}

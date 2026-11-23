@@ -86,7 +86,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -97,7 +97,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[1994 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[1994 Toray Pan Pacific Open – Singles|Singles]] – [[1994 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[1994 Toray Pan Pacific Open – Singles|Singles]] – [[1994 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|GER}} [[Steffi Graf]]
 | {{#invoke:flag|icon|USA}} [[Martina Navratilova]]
 | 6–2, 6–4
@@ -106,7 +106,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 3–6, 7–6<sup>(7–3)</sup>
 |-
 ! scope="row" | '''[[1994 Lipton Championships|Miami]]'''
-{{small|[[1994 Lipton Championships – Women's singles|Singles]] – [[1994 Lipton Championships – Women's doubles|Doubles]]}}
+<small>[[1994 Lipton Championships – Women's singles|Singles]] – [[1994 Lipton Championships – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|GER}} Steffi Graf
 | {{#invoke:flag|icon|BLR|1991}} [[Natasha Zvereva]]
 | 4–6, 6–1, 6–2
@@ -115,7 +115,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 6–1
 |-
 ! scope="row" | '''[[1994 Family Circle Cup|Hilton Head]]'''
-{{small|[[1994 Family Circle Cup – Singles|Singles]] – [[1994 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[1994 Family Circle Cup – Singles|Singles]] – [[1994 Family Circle Cup – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} [[Conchita Martínez]]
 | {{#invoke:flag|icon|BLR|1991}} Natasha Zvereva
 | 6–4, 6–0
@@ -124,7 +124,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–4, 4–1, ret.
 |-
 ! scope="row" | '''[[1994 Italian Open (tennis)|Rome]]'''
-{{small|[[1994 Italian Open – Women's singles|Singles]] – [[1994 Italian Open – Women's doubles|Doubles]]}}
+<small>[[1994 Italian Open – Women's singles|Singles]] – [[1994 Italian Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} Conchita Martínez
 | {{#invoke:flag|icon|USA}} Martina Navratilova
 | 7–6<sup>(7–5)</sup>, 6–4
@@ -133,7 +133,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–1, 6–3
 |-
 ! scope="row" | '''[[1994 WTA German Open|Berlin]]'''
-{{small|[[1994 WTA German Open – Singles|Singles]] – [[1994 WTA German Open – Doubles|Doubles]]}}
+<small>[[1994 WTA German Open – Singles|Singles]] – [[1994 WTA German Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|GER}} Steffi Graf
 | {{#invoke:flag|icon|NED}} Brenda Schultz
 | 7–6<sup>(8–6)</sup>, 6–4
@@ -142,7 +142,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 7–6<sup>(7–2)</sup>
 |-
 ! scope="row" rowspan=2| '''[[1994 Canadian Open (tennis)|Montréal]]'''
-{{small|[[1994 Canadian Open – Women's singles|Singles]] – [[1994 Canadian Open – Women's doubles|Doubles]]}}
+<small>[[1994 Canadian Open – Women's singles|Singles]] – [[1994 Canadian Open – Women's doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|ESP}} Arantxa Sánchez Vicario
 | rowspan="2" | {{#invoke:flag|icon|GER}} Steffi Graf
 | rowspan="2" | 7–5, 1–6, 7–6<sup>(7–4)</sup>
@@ -153,7 +153,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|ESP}} Arantxa Sánchez Vicario
 |-
 ! scope="row" | '''[[1994 European Indoors|Zürich]]'''
-{{small|[[1994 European Indoors – Singles|Singles]] – [[1994 European Indoors – Doubles|Doubles]]}}
+<small>[[1994 European Indoors – Singles|Singles]] – [[1994 European Indoors – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|BUL}} [[Magdalena Maleeva]]*
 | {{#invoke:flag|icon|BLR|1991}} Natasha Zvereva
 | 7–5, 3–6, 6–4
@@ -162,7 +162,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |7–6<sup>(7–3)</sup>, 6–1
 |-
 ! scope="row" | '''[[1994 Virginia Slims of Philadelphia|Philadelphia]]'''
-{{small|[[1994 Virginia Slims of Philadelphia – Singles|Singles]] – [[1994 Virginia Slims of Philadelphia – Doubles|Doubles]]}}
+<small>[[1994 Virginia Slims of Philadelphia – Singles|Singles]] – [[1994 Virginia Slims of Philadelphia – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|GER}} [[Anke Huber]]*
 | {{#invoke:flag|icon|FRA}} [[Mary Pierce]]
 | 6–0, 6–7<sup>(4–7)</sup>, 7–5

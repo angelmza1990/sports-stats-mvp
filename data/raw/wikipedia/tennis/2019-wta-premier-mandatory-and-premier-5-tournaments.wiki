@@ -93,7 +93,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2019 Dubai Tennis Championships|Dubai]]'''
-{{small|[[2019 Dubai Tennis Championships – Women's singles|Singles]] – [[2019 Dubai Tennis Championships – Women's doubles|Doubles]]}}
+<small>[[2019 Dubai Tennis Championships – Women's singles|Singles]] – [[2019 Dubai Tennis Championships – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SUI}} [[Belinda Bencic]]
 | {{#invoke:flag|icon|CZE}} [[Petra Kvitová]]
 | 6–3, 1–6, 6–2
@@ -113,7 +113,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |6–4, 6–4
 |-
 ! scope="row" rowspan=2| '''[[2019 BNP Paribas Open|Indian Wells]]'''
-{{small|[[2019 BNP Paribas Open – Women's singles|Singles]] – [[2019 BNP Paribas Open – Women's doubles|Doubles]]}}
+<small>[[2019 BNP Paribas Open – Women's singles|Singles]] – [[2019 BNP Paribas Open – Women's doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|CAN}} [[Bianca Andreescu]]*
 | rowspan="2" | {{#invoke:flag|icon|GER}} [[Angelique Kerber]]
 | rowspan="2" | 6–4, 3–6, 6–4
@@ -124,25 +124,25 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |style="background:#ddfddd"| {{#invoke:flag|icon|BLR}} [[Aryna Sabalenka]]*
 |-
 ! scope="row" | '''[[2019 Miami Open|Miami]]'''
-{{small|[[2019 Miami Open – Women's singles|Singles]] – [[2019 Miami Open – Women's doubles|Doubles]]}}
+<small>[[2019 Miami Open – Women's singles|Singles]] – [[2019 Miami Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|AUS}} [[Ashleigh Barty]]*
 | {{#invoke:flag|icon|CZE}} [[Karolína Plíšková]]
 |7–6<sup>(7–1)</sup>, 6–3
-| {{#invoke:flag|icon|BEL}} Elise Mertens <br /> {{#invoke:flag|icon|BLR}} Aryna Sabalenka
+| {{#invoke:flag|icon|BEL}} Elise <small>(2)</small> <br /> {{#invoke:flag|icon|BLR}} Aryna Sabalenka <small>(2)</small> 
 | {{#invoke:flag|icon|AUS}} [[Samantha Stosur]] <br /> {{#invoke:flag|icon|CHN}} [[Zhang Shuai (tennis)|Zhang Shuai]]
 |7–6<sup>(7–5)</sup>, 6–2
 |-
 ! scope="row" | '''[[2019 Mutua Madrid Open|Madrid]]'''
-{{small|[[2019 Mutua Madrid Open – Women's singles|Singles]] – [[2019 Mutua Madrid Open – Women's doubles|Doubles]]}}
+<small>[[2019 Mutua Madrid Open – Women's singles|Singles]] – [[2019 Mutua Madrid Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|NED}} [[Kiki Bertens]]
 | {{#invoke:flag|icon|ROU}} [[Simona Halep]]
 |6–4, 6–4
-| {{#invoke:flag|icon|TPE}} Hsieh Su-wei <br /> {{#invoke:flag|icon|CZE}} Barbora Strýcová
+| {{#invoke:flag|icon|TPE}} Hsieh Su-wei <small>(2)</small> <br /> {{#invoke:flag|icon|CZE}} Barbora Strýcová <small>(2)</small> 
 | {{#invoke:flag|icon|CAN}} [[Gabriela Dabrowski]] <br /> {{#invoke:flag|icon|CHN}} [[Xu Yifan]]
 |6–3, 6–1
 |-
 ! scope="row" | '''[[2019 Italian Open (tennis)|Rome]]'''
-{{small|[[2019 Italian Open – Women's singles|Singles]] – [[2019 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2019 Italian Open – Women's singles|Singles]] – [[2019 Italian Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|CZE}} Karolína Plíšková
 | {{#invoke:flag|icon|GBR}} [[Johanna Konta]]
 |6–3, 6–4
@@ -151,8 +151,8 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |4–6, 6–0, [10–3]
 |-
 ! scope="row" | '''[[2019 Rogers Cup|Toronto]]'''
-{{small|[[2019 Rogers Cup – Women's singles|Singles]] – [[2019 Rogers Cup – Women's doubles|Doubles]]}}
-| {{#invoke:flag|icon|CAN}} Bianca Andreescu
+<small>[[2019 Rogers Cup – Women's singles|Singles]] – [[2019 Rogers Cup – Women's doubles|Doubles]]</small>
+| {{#invoke:flag|icon|CAN}} Bianca Andreescu <small>(2)</small> 
 | {{#invoke:flag|icon|USA}} [[Serena Williams]]
 |3–1, ret.
 | style="background:#ddfddd"| {{#invoke:flag|icon|CZE}} [[Barbora Krejčíková]]* <br /> {{#invoke:flag|icon|CZE}} [[Kateřina Siniaková]]*
@@ -160,7 +160,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |7–5, 6–0
 |-
 ! scope="row" rowspan=2| '''[[2019 Western & Southern Open|Cincinnati]]'''
-{{small|[[2019 Western & Southern Open – Women's singles|Singles]] – [[2019 Western & Southern Open – Women's doubles|Doubles]]}}
+<small>[[2019 Western & Southern Open – Women's singles|Singles]] – [[2019 Western & Southern Open – Women's doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|USA}} [[Madison Keys]]*
 | rowspan="2" | {{#invoke:flag|icon|RUS}} [[Svetlana Kuznetsova]]
 | rowspan="2" |7–5, 7–6<sup>(7–5)</sup>
@@ -171,7 +171,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |style="background:#ddfddd"| {{#invoke:flag|icon|SLO}} [[Andreja Klepač]]*
 |-
 ! scope="row" | '''[[2019 Wuhan Open|Wuhan]]'''
-{{small|[[2019 Wuhan Open – Singles|Singles]] – [[2019 Wuhan Open – Doubles|Doubles]]}}
+<small>[[2019 Wuhan Open – Singles|Singles]] – [[2019 Wuhan Open – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|BLR}} Aryna Sabalenka
 |{{#invoke:flag|icon|USA}} [[Alison Riske-Amritraj|Alison Riske]]
 |6–3, 3–6, 6–1
@@ -180,7 +180,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |7–6<sup>(7–3)</sup>, 6–2
 |-
 ! scope="row" rowspan=2| '''[[2019 China Open (tennis)|Beijing]]'''
-{{small|[[2019 China Open – Women's singles|Singles]] – [[2019 China Open – Women's doubles|Doubles]]}}
+<small>[[2019 China Open – Women's singles|Singles]] – [[2019 China Open – Women's doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|JPN}} [[Naomi Osaka]]
 | rowspan="2" |{{#invoke:flag|icon|AUS}} Ashleigh Barty
 | rowspan="2" |3–6, 6–3, 6–2

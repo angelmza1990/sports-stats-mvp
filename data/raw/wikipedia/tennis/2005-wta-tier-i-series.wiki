@@ -100,7 +100,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -111,7 +111,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2005 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[2005 Toray Pan Pacific Open – Singles|Singles]] – [[2005 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[2005 Toray Pan Pacific Open – Singles|Singles]] – [[2005 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|RUS}} [[Maria Sharapova]]*
 | {{#invoke:flag|icon|USA}} [[Lindsay Davenport]]
 | 6–1, 3–6, 7–6<sup>(7–5)</sup>
@@ -120,7 +120,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–4, 6–3
 |-
 ! scope="row" | '''[[2005 Pacific Life Open|Indian Wells]]'''
-{{small|[[2005 Pacific Life Open – Women's singles|Singles]] – [[2005 Pacific Life Open – Women's doubles|Doubles]]}}
+<small>[[2005 Pacific Life Open – Women's singles|Singles]] – [[2005 Pacific Life Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|BEL}} [[Kim Clijsters]]
 | {{#invoke:flag|icon|USA}} Lindsay Davenport
 | 6–4, 4–6, 6–2
@@ -129,8 +129,8 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 7–6<sup>(7–3)</sup>, 6–1
 |-
 ! scope="row" rowspan=2| '''[[2005 NASDAQ-100 Open|Miami]]'''
-{{small|[[2005 NASDAQ-100 Open – Women's singles|Singles]] – [[2005 NASDAQ-100 Open – Women's doubles|Doubles]]}}
-| rowspan="2" | {{#invoke:flag|icon|BEL}} Kim Clijsters
+<small>[[2005 NASDAQ-100 Open – Women's singles|Singles]] – [[2005 NASDAQ-100 Open – Women's doubles|Doubles]]</small>
+| rowspan="2" | {{#invoke:flag|icon|BEL}} Kim Clijsters <small>(2)</small>
 | rowspan="2" | {{#invoke:flag|icon|RUS}} Maria Sharapova
 | rowspan="2" | 7–5, 6–3
 | {{#invoke:flag|icon|RUS}} [[Svetlana Kuznetsova]]
@@ -140,25 +140,25 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |style="background:#ddfddd"| {{#invoke:flag|icon|AUS}} [[Alicia Molik]]*
 |-
 ! scope="row" | '''[[2005 Family Circle Cup|Charleston]]'''
-{{small|[[2005 Family Circle Cup – Singles|Singles]] – [[2005 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[2005 Family Circle Cup – Singles|Singles]] – [[2005 Family Circle Cup – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|BEL}} [[Justine Henin]]
 | {{#invoke:flag|icon|RUS}} [[Elena Dementieva]]
 | 7–5, 6–4
-| {{#invoke:flag|icon|ESP}} [[Conchita Martínez]] <br /> {{#invoke:flag|icon|ESP}} Virginia Ruano Pascual
+| {{#invoke:flag|icon|ESP}} [[Conchita Martínez]] <br /> {{#invoke:flag|icon|ESP}} Virginia Ruano Pascual <small>(2)</small> 
 | {{#invoke:flag|icon|CZE}} [[Iveta Benešová]] <br /> {{#invoke:flag|icon|CZE}} [[Květa Peschke]]
 | 6–1, 6–4
 |-
 ! scope="row" | '''[[2005 Qatar Total German Open|Berlin]]'''
-{{small|[[2005 WTA German Open – Singles|Singles]] – [[2005 WTA German Open – Doubles|Doubles]]}}
-| {{#invoke:flag|icon|BEL}} Justine Henin
+<small>[[2005 WTA German Open – Singles|Singles]] – [[2005 WTA German Open – Doubles|Doubles]]</small>
+| {{#invoke:flag|icon|BEL}} Justine Henin <small>(2)</small>
 | {{#invoke:flag|icon|RUS}} Nadia Petrova
 | 6–3, 4–6, 6–3
-| {{#invoke:flag|icon|RUS}} Elena Likhovtseva <br /> {{#invoke:flag|icon|RUS}} [[Vera Zvonareva]]
+| {{#invoke:flag|icon|RUS}} Elena Likhovtseva <small>(2)</small> <br /> {{#invoke:flag|icon|RUS}} [[Vera Zvonareva]] 
 | {{#invoke:flag|icon|ZIM}} [[Cara Black]] <br /> {{#invoke:flag|icon|RSA}} [[Liezel Huber]]
 | 4–6, 6–4, 6–3
 |-
 ! scope="row" | '''[[2005 Italian Open (tennis)|Rome]]'''
-{{small|[[2005 Italian Open – Women's singles|Singles]] – [[2005 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2005 Italian Open – Women's singles|Singles]] – [[2005 Italian Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|FRA}} [[Amélie Mauresmo]]
 | {{#invoke:flag|icon|SUI}} [[Patty Schnyder]]
 | 2–6, 6–3, 6–4
@@ -167,17 +167,17 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–0, 4–6, 6–1
 |-
 ! scope="row" | '''[[2005 Acura Classic|San Diego]]'''
-{{small|[[2005 Acura Classic – Singles|Singles]] – [[2005 Acura Classic – Doubles|Doubles]]}}
+<small>[[2005 Acura Classic – Singles|Singles]] – [[2005 Acura Classic – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|FRA}} [[Mary Pierce]]
 | {{#invoke:flag|icon|JPN}} [[Ai Sugiyama]]
 | 6–3, 6–0
-| {{#invoke:flag|icon|ESP}} Conchita Martínez <br /> {{#invoke:flag|icon|ESP}} Virginia Ruano Pascual
+| {{#invoke:flag|icon|ESP}} Conchita Martínez <small>(2)</small> <br /> {{#invoke:flag|icon|ESP}} Virginia Ruano Pascual <small>(3)</small> 
 | {{#invoke:flag|icon|SVK}} [[Daniela Hantuchová]] <br /> {{#invoke:flag|icon|JPN}} Ai Sugiyama
 | 6–7<sup>(7–9)</sup>, 6–1, 7–5
 |-
 ! scope="row" rowspan=2| '''[[2005 Rogers Cup|Toronto]]'''
-{{small|[[2005 Rogers Cup – Singles|Singles]] – [[2005 Rogers Cup – Doubles|Doubles]]}}
-| rowspan="2" | {{#invoke:flag|icon|BEL}} Kim Clijsters
+<small>[[2005 Rogers Cup – Singles|Singles]] – [[2005 Rogers Cup – Doubles|Doubles]]</small>
+| rowspan="2" | {{#invoke:flag|icon|BEL}} Kim Clijsters <small>(3)</small>
 | rowspan="2" | {{#invoke:flag|icon|BEL}} Justine Henin
 | rowspan="2" | 7–5, 6–1
 | style="background:#ddfddd"| {{#invoke:flag|icon|GER}} [[Anna-Lena Grönefeld]]*
@@ -187,8 +187,8 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|USA}} [[Martina Navratilova]]
 |-
 ! scope="row" rowspan=2| '''[[2005 Kremlin Cup|Moscow]]'''
-{{small|[[2005 Kremlin Cup – Women's singles|Singles]] – [[2005 Kremlin Cup – Women's doubles|Doubles]]}}
-| rowspan="2" | {{#invoke:flag|icon|FRA}} Mary Pierce
+<small>[[2005 Kremlin Cup – Women's singles|Singles]] – [[2005 Kremlin Cup – Women's doubles|Doubles]]</small>
+| rowspan="2" | {{#invoke:flag|icon|FRA}} Mary Pierce <small>(2)</small> 
 | rowspan="2" | {{#invoke:flag|icon|ITA}} [[Francesca Schiavone]]
 | rowspan="2" | 6–4, 6–3
 | {{#invoke:flag|icon|USA}} Lisa Raymond
@@ -198,11 +198,11 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |style="background:#ddfddd"| {{#invoke:flag|icon|AUS}} [[Samantha Stosur]]*
 |-
 ! scope="row" | '''[[2005 Zurich Open|Zürich]]'''
-{{small|[[2005 Zurich Open – Singles|Singles]] – [[2005 Zurich Open – Doubles|Doubles]]}}
+<small>[[2005 Zurich Open – Singles|Singles]] – [[2005 Zurich Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} Lindsay Davenport
 | {{#invoke:flag|icon|SUI}} Patty Schnyder
 | 7–6, 6–3
-| {{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|AUS}} Rennae Stubbs
+| {{#invoke:flag|icon|ZIM}} Cara Black <small>(2)</small> <br /> {{#invoke:flag|icon|AUS}} Rennae Stubbs
 | {{#invoke:flag|icon|SVK}} Daniela Hantuchová <br /> {{#invoke:flag|icon|JPN}} Ai Sugiyama
 | 6–7<sup>(6–8)</sup>, 7–6<sup>(7–4)</sup>, 6–3
 |}

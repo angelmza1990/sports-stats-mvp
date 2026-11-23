@@ -6,17 +6,17 @@
 | logo =
 | founded = {{start date and age|df=yes|1972}}
 | editions = 54 (2025)
-| current = 
+| current = 2026 WTA Finals 
 | country = [[Indian Wells, California|Indian Wells]], United States (2026)
 | venue = [[Indian Wells Tennis Garden]]
 | tier = WTA Finals<ref>{{Cite web |title=WTA Tour 2021 Media Guide |url=http://wtafiles.wtatennis.com/pdf/publications/2021WTAMediaGuide/2021MG_FrontTournament_FINAL.pdf |url-status=live |archive-url=https://web.archive.org/web/20210213183447/http://wtafiles.wtatennis.com/pdf/publications/2021WTAMediaGuide/2021MG_FrontTournament_FINAL.pdf |archive-date=13 February 2021 |archive-format=PDF |access-date=18 November 2021 |website=WTA Tour |page=20}}</ref>
 | surface = [[Hardcourt|Hard]] - indoors
 | draw = 8{{abbr|S|Singles}}  / 8{{abbr|D|Doubles}} (since 2014)
-| prize money = $15.5M <ref>{{cite web |date=28 October 2025 |title=WTA Finals 2025: Schedule, groups, prize money and everything you need to know|url=https://www.wtatennis.com/news/4389831/wta-finals-2025-riyadh-schedule-groups-prize-money-and-everything-you-need-to-know |website=[[Women's Tennis Association|WTA]]}}</ref>
+| prize money = $10M <ref>{{cite web |date=4 November 2026 |title=WTA Finals 2026: Schedule, groups, prize money and everything you need to know|url=https://www.wtatennis.com/news/4599683/wta-finals-indian-wells-2026-everything-you-need-to-know-schedule-groups-prize-money |website=[[Women's Tennis Association|WTA]]}}</ref>
 | website = [http://www.wtafinals.com wtafinals.com]
-| completed event = [[2025 WTA Finals|2025]] 
-| singles = {{flagicon|KAZ}} [[Elena Rybakina]]
-| doubles = {{flagicon|}} [[Veronika Kudermetova]] {{efn|name=RUS|On 1 March 2022, the [[Women's Tennis Association|WTA]] announced that players from [[Russia]] will not be allowed to compete under the name or flag of Russia following the 2022 [[Russian invasion of Ukraine]]. Veronika Kudermetova and Vera Zvonareva thus competed as neutral players since then, so Kudermetova's two titles and Zvonareva's one title are not attributed to Russia in the "Titles by country" list.<ref name="wtatennis.com">{{Cite web |date=1 March 2022 |title=Joint Statement by the International Governing Bodies of Tennis |url=https://www.wtatennis.com/news/2510418/joint-statement-by-the-international-governing-bodies-of-tennis |access-date=29 December 2022 |website=WTA Tour}}</ref>}} <br/> {{flagicon|BEL}} [[Elise Mertens]]
+| completed event = [[2026 WTA Finals|2026]] 
+| singles = {{flagicon|}} [[Mirra Andreeva]] {{efn|name=RUS|On 1 March 2022, the [[Women's Tennis Association|WTA]] announced that players from [[Russia]] will not be allowed to compete under the name or flag of Russia following the 2022 [[Russian invasion of Ukraine]]. Mirra Andreeva, Veronika Kudermetova and Vera Zvonareva thus competed as neutral players since then, so Andreeva's one singles title, Kudermetova's two doubles titles and Zvonareva's one doubles title are not attributed to Russia in the "Titles by country" list.<ref name="wtatennis.com">{{Cite web |date=1 March 2022 |title=Joint Statement by the International Governing Bodies of Tennis |url=https://www.wtatennis.com/news/2510418/joint-statement-by-the-international-governing-bodies-of-tennis |access-date=29 December 2022 |website=WTA Tour}}</ref>}}
+| doubles = {{flagicon|CZE}} [[Kateřina Siniaková]] <br/> {{flagicon|USA}} [[Taylor Townsend]]
 }}
 {{WTA Tour sidebar}}
 
@@ -164,14 +164,14 @@ In singles, point totals are calculated by combining points from up to 18 tourna
 |align=left|{{Flagicon|Saudi Arabia}} Saudi Arabia
 |King Saud University Indoor Arena
 |Hard (i)
-| align="right" |
+| align="right" |4,000
 |-
 |2026
 |align=left|[[Indian Wells, California|Indian Wells]]
 |align=left|{{Flagicon|USA}} United States
 |[[Indian Wells Tennis Garden]]
 |Hard
-| align="right" | 16,100
+| align="right" | {{Tooltip|8,000|Stadium 2}}
 |-
 |2027–29
 |align=left|[[Charlotte, North Carolina|Charlotte]]<ref>[https://www.wtatennis.com/news/4577350/wta-announces-new-host-for-2027-2029-wta-finals WTA announces new host for 2027-2029 WTA Finals]</ref>
@@ -183,44 +183,82 @@ In singles, point totals are calculated by combining points from up to 18 tourna
 {{notelist}}
 
 ==Prize money and points==
-The total prize money for the 2025 WTA Finals was a record US$15,250,000.<ref>{{Cite web |date=2025-10-28 |title=WTA Finals 2025: Schedule, groups, prize money and everything you need to know |url=https://www.wtatennis.com/news/4389831/wta-finals-2025-riyadh-schedule-groups-prize-money-and-everything-you-need-to-know |access-date=2025-12-09 |website=Women's Tennis Association |language=en}}</ref> The tables below break down the prize money, participation fees are prorated on a per match basis.
 
-{|class=wikitable style="text-align:center"
+The total prize money for the 2026 WTA Finals is US$10,000,000, with $8 million allocated to singles and $2 million to doubles.<ref name="WTA2026">{{Cite web |last=Bambini |first=Cole |date=2026-11-04 |title=WTA Finals 2026: Schedule, groups, prize money and everything you need to know |url=https://www.wtatennis.com/news/4599683/wta-finals-indian-wells-2026-everything-you-need-to-know-schedule-groups-prize-money |website=Women's Tennis Association |access-date=2026-11-04}}</ref> This represents a decrease of 35.48%, or $5.5 million, compared with the $15,500,000 offered at the 2025 WTA Finals in Riyadh.<ref name="WTA2025">{{Cite web |last=Bambini |first=Cole |date=2025-10-28 |title=WTA Finals 2025: Schedule, groups, prize money and everything you need to know |url=https://www.wtatennis.com/news/4389831/wta-finals-2025-riyadh-schedule-groups-prize-money-and-everything-you-need-to-know |website=Women's Tennis Association |access-date=2026-11-04}}</ref><ref name="PerfectTennisWTA2026">{{Cite web |title=WTA Finals, Indian Wells Prize Money 2026 |url=https://www.perfect-tennis.com/prize-money/wta-finals/ |website=Perfect Tennis |archive-url=https://web.archive.org/web/20261104203311/https://www.perfect-tennis.com/prize-money/wta-finals/ |archive-date=2026-11-04 |access-date=2026-11-04 |url-status=live}}</ref>
+
+An undefeated singles champion can earn a maximum of $3,370,000, down 35.63% from $5,235,000 in 2025, while an undefeated doubles team can earn $725,000, a decrease of 36.35% from the previous year.<ref name="PerfectTennisWTA2026"/>
+
+By comparison, the 2026 ATP Finals offers total prize money of $15,750,000, an increase of 1.61% from 2025.<ref name="PerfectTennisATP2026">{{Cite web |title=Nitto ATP Finals Prize Money 2026 |url=https://www.perfect-tennis.com/prize-money/atp-finals/ |website=Perfect Tennis |archive-url=https://web.archive.org/web/20261104203852/https://www.perfect-tennis.com/prize-money/atp-finals/ |archive-date=2026-11-04 |access-date=2026-11-04 |url-status=live}}</ref><ref name="ATP2026">{{Cite web |title=Points and Prize Money |url=https://www.nittoatpfinals.com/en/event/points-and-prize-money |website=Nitto ATP Finals |access-date=2026-11-04}}</ref> The ATP Finals prize fund is therefore $5,750,000, or 57.50%, higher than that of the WTA Finals in 2026, following equal total prize money at the two tournaments in 2024 and 2025.<ref name="PerfectTennisATP2026"/><ref name="PerfectTennisWTA2026"/>
+
+The following table details the 2026 prize money and ranking points for singles and doubles. Participation fees are prorated according to the number of round-robin matches played.
+
+{| class="wikitable" style="text-align:center"
 |-
-!scope=col rowspan=2|Stage
-!scope=col colspan=2|Prize money
-!scope=col rowspan=2|Points
+! scope=col rowspan=2 | Stage
+! scope=col colspan=2 | Prize money
+! scope=col rowspan=2 | Points
 |-
-!scope=row|Singles
-!Doubles{{efn|name=doublesmoney|Prize money for doubles is per team.}}
+! scope=col | Singles
+! scope=col | Doubles{{efn|name=doublesmoney|Prize money for doubles is per team.}}
 |-
-!scope=row|Champion 
-|{{Tooltip|RR|Refers to prize money won in the round robin stage}} + $2,540,000 
-|{{Tooltip|RR|Refers to prize money won in the round robin stage}} + $524,000|| {{Tooltip|RR|Refers to points won in the round robin stage}} + 900
+! scope=row | Champion
+| RR{{efn|name=Rrobin|RR means prize money or points won in the round-robin stage.}} + $2,460,000
+| RR{{efn|name=Rrobin}} + $485,000
+| RR + 900
 |-
-!scope=row|Runner-up 
-|RR + $1,290,000 
-|RR + $257,000	|| RR + 400
+! scope=row | Runner-up
+| RR + $820,000
+| RR + $155,000
+| RR + 400
 |-
-!scope=row|Round robin win per match
-| +$355,000
-| +$72,000||  200
-|- 
-!scope=row|Participation Fee
-|<!--3 matches = -->$340,000<!--<br /> 2 matches = $280,000 <br /> 1 match = $230,000-->
-|<!--3 matches = -->$142,000<!--<br /> 2 matches = $116,000 <br /> 1 match = $95,000-->||{{n/a}} 
+! scope=row | Round-robin win per match
+| +$230,000
+| +$50,000
+| 200
 |-
-!scope=row|Alternates
-|<!--2 matches = -->$260,000<!--<br /> 1 matches = $210,000 <br /> 0 match = $150,000-->
-|<!--2 matches = -->$109,000<!--<br /> 1 matches = $88,000 <br /> 0 match = $63,000-->
-|{{n/a}} 
+! scope=row | Participation fee
+| $220,000
+| $90,000
+| {{n/a}}
+|-
+! scope=row | Alternates
+| $100,000
+| $40,000
+| {{n/a}}
 |}
-{{notelist}}
-* An undefeated champion would earn the maximum 1,500 points and $5,235,000 in singles or $1,139,000 in doubles.
-* Participation fees are prorated on a per match basis. Singles: 1 match = $230,000 2 matches = $280,000 and 3 matches = $340,000. Doubles: 1 match = $95,000 2 matches = $116,000 and 3 matches = $142,000.
-* Alternate fees are also prorated on a per-match basis. Singles: 0 matches = $150,000, 1 match = $210,000, 2 matches = $260,000. Doubles: 0 matches= $63,000, 1 match = $88,000, 2 matches= $109,000
 
-Since 2014, the singles and doubles winners of the tournament receive the Billie Jean King Trophy, made by Thomas Lyte,<ref>{{Cite web |date=30 June 2014 |title=BILLIE JEAN KING NAMED OFFICIAL AMBASSADOR OF WTA FINALS IN SINGAPORE |url=http://www.africansportsmonthly.com/1/post/2014/06/billie-jean-king-named-official-ambassador-of-wta-finals-in-singapore.html |access-date=2021-11-08 |website=AFRICAN SPORTS MONTHLY |language=en}}</ref><ref>{{Cite web |title=Makers of Billie Jean King Trophy {{!}} WTA Finals {{!}} Tennis {{!}} Thomas Lyte - Thomas Lyte |url=https://www.thomaslyte.com/makers-of-the-billie-jean-king-trophy/p |access-date=2021-11-08 |website=www.thomaslyte.com}}</ref> and the Martina Navratilova trophy,<ref>{{Cite web |last=Merrell |first=Chloe |date=7 November 2021 |title=WTA Tour Finals 2021 preview: everything you need to know |url=https://olympics.com/en/news/wta-tour-finals-2021-preview |access-date=2021-11-08 |website=Olympics.com}}</ref><ref>{{Cite web |date=4 November 2021 |title=Evert, Navratilova to serve as WTA Finals legend ambassadors |url=https://www.wtatennis.com/news/2336935/evert-navratilova-to-serve-as-wta-finals-legend-ambassadors |access-date=2021-11-08 |website=Women's Tennis Association |language=en}}</ref> respectively.
+{{notelist}}
+
+* An undefeated champion would earn the maximum 1,500 ranking points and $3,370,000 in singles or $725,000 in doubles.
+* Participation fees are prorated according to the number of matches played. In singles, the fees are $150,000 for one match, $180,000 for two matches and $220,000 for three matches. In doubles, the corresponding fees are $60,000, $75,000 and $90,000 per team.
+* Alternate fees are also prorated according to the number of matches played. In singles, alternates receive $100,000 for zero matches, $140,000 for one match and $170,000 for two matches. In doubles, the corresponding amounts are $40,000, $55,000 and $70,000 per team.<ref name="PerfectTennisWTA2026"/>
+
+===Comparison with ATP Finals===
+
+The total prize money at the WTA Finals and ATP Finals was equal in both 2024 and 2025. In 2026, the WTA Finals prize fund decreased by 35.48%, while the ATP Finals prize fund increased by 1.61%, resulting in the ATP Finals offering 57.50% more total prize money than the WTA Finals.<ref name="PerfectTennisWTA2026"/><ref name="PerfectTennisATP2026"/>
+
+{| class="wikitable" style="text-align:center"
+|-
+! scope=col | Year
+! scope=col | WTA Finals
+! scope=col | ATP Finals
+! scope=col | ATP premium over WTA
+|-
+! scope=row | 2024
+| $15,250,000
+| $15,250,000
+| 0.00%
+|-
+! scope=row | 2025
+| $15,500,000
+| $15,500,000
+| 0.00%
+|-
+! scope=row | 2026
+| $10,000,000
+| $15,750,000
+| +57.50%
+|}
 
 ==List of finals==
 ===Singles ===
@@ -504,6 +542,11 @@ Since 2014, the singles and doubles winners of the tournament receive the Billie
 |{{flagicon|KAZ}} [[Elena Rybakina]] {{small|(1/1)}}
 |{{flagicon|}} [[Aryna Sabalenka]] {{efn|name=BLR}}
 |6–3, 7–6<sup>(7–0)</sup>
+|-
+|[[2026 WTA Finals – Singles|2026]]
+|{{flagicon|}} [[Mirra Andreeva]] {{efn|name=RUS}} {{small|(1/1)}}
+|{{flagicon|UKR}} [[Elina Svitolina]]
+|7–5, 6–3
 |}
 
 ===Doubles===
@@ -760,12 +803,12 @@ Since 2014, the singles and doubles winners of the tournament receive the Billie
 |bgcolor=f5f5f5 align=center colspan=3|''No competition due to the [[COVID-19 pandemic]]''
 |-
 |[[2021 WTA Finals – Doubles|2021]]
-|{{flagicon|CZE}} [[Barbora Krejčíková]] {{small|(1/1)}}<br />{{flagicon|CZE}} [[Kateřina Siniaková]] {{small|(1/1)}}
+|{{flagicon|CZE}} [[Barbora Krejčíková]] {{small|(1/1)}}<br />{{flagicon|CZE}} [[Kateřina Siniaková]] {{small|(1/2)}}
 |{{flagicon|TPE}} [[Hsieh Su-wei]]<br />{{flagicon|BEL}} [[Elise Mertens]]
 |6–3, 6–4
 |-
 |[[2022 WTA Finals – Doubles|2022]]
-|{{flagicon|}} [[Veronika Kudermetova]] {{efn|name=RUS|On 1 March 2022, the [[Women's Tennis Association|WTA]] announced that players from [[Russia]] will not be allowed to compete under the name or flag of Russia following the [[2022 Russian invasion of Ukraine]]. Veronika Kudermetova and Vera Zvonareva thus competed as neutral players since then, so Kudermetova's two titles and Zvonareva's one title are not attributed to Russia in the "Titles by country" list.<ref name="wtatennis.com">{{Cite web |date=1 March 2022 |title=Joint Statement by the International Governing Bodies of Tennis |url=https://www.wtatennis.com/news/2510418/joint-statement-by-the-international-governing-bodies-of-tennis |access-date=29 December 2022 |website=WTA Tour}}</ref>}} {{small|(1/2)}}<br />{{flagicon|BEL}} [[Elise Mertens]] {{small|(1/2)}}
+|{{flagicon|}} [[Veronika Kudermetova]] {{efn|name=RUS|On 1 March 2022, the [[Women's Tennis Association|WTA]] announced that players from [[Russia]] will not be allowed to compete under the name or flag of Russia following the [[2022 Russian invasion of Ukraine]]. Mirra Andreeva, Veronika Kudermetova and Vera Zvonareva thus competed as neutral players since then, so Andreeva's one singles title, Kudermetova's two doubles titles and Zvonareva's one doubles title are not attributed to Russia in the "Titles by country" list.<ref name="wtatennis.com">{{Cite web |date=1 March 2022 |title=Joint Statement by the International Governing Bodies of Tennis |url=https://www.wtatennis.com/news/2510418/joint-statement-by-the-international-governing-bodies-of-tennis |access-date=29 December 2022 |website=WTA Tour}}</ref>}} {{small|(1/2)}}<br />{{flagicon|BEL}} [[Elise Mertens]] {{small|(1/2)}}
 |{{flagicon|CZE}} [[Barbora Krejčíková]]<br />{{flagicon|CZE}} [[Kateřina Siniaková]]
 |6–2, 4–6, [11–9]
 |-
@@ -783,14 +826,18 @@ Since 2014, the singles and doubles winners of the tournament receive the Billie
 |{{flagicon|}} [[Veronika Kudermetova]] {{efn|name=RUS}} {{small|(2/2)}}<br />{{flagicon|BEL}} [[Elise Mertens]] {{small|(2/2)}}
 |{{flagicon|HUN}} [[Tímea Babos]]<br />{{flagicon|BRA}} [[Luisa Stefani]]
 |7–6<sup>(7–4)</sup>, 6–1
+|-
+|[[2026 WTA Finals – Doubles|2026]]
+|{{flagicon|CZE}} [[Kateřina Siniaková]] {{small|(2/2)}}<br />{{flagicon|USA}} [[Taylor Townsend]] {{small|(1/1)}}
+|{{flagicon|ITA}} [[Sara Errani]]<br />{{flagicon|ITA}} [[Jasmine Paolini]]
+|6–4, 6–3
 |}
 {{notelist}}
 
 ==List of champions==
-* Current through [[2025 WTA Finals]] (active players in '''bold''').
-{|
-|-style="vertical-align:top"
-|
+* Current through [[2026 WTA Finals]] (active players in '''bold''').
+{{col-begin}}
+{{col-break}}
 ===Singles===
 {| class="wikitable nowrap" style="font-size: 95%"
 !Titles!!Player!!Years
@@ -820,7 +867,7 @@ Since 2014, the singles and doubles winners of the tournament receive the Billie
 |-
 |{{flagicon|BEL}} [[Justine Henin]]||2006–07
 |-
-! rowspan="18" align=center|1
+! rowspan="19" align=center|1
 |{{flagicon|USA}} [[Tracy Austin]]
 |1980
 |-
@@ -851,7 +898,7 @@ Since 2014, the singles and doubles winners of the tournament receive the Billie
 |{{flagicon|SVK}} [[Dominika Cibulková]]
 |2016
 |-
-|{{flagicon|DEN}} '''[[Caroline Wozniacki]]'''
+|{{flagicon|DEN}} [[Caroline Wozniacki]]
 |2017
 |-
 |{{flagicon|UKR}} '''[[Elina Svitolina]]'''
@@ -875,19 +922,21 @@ Since 2014, the singles and doubles winners of the tournament receive the Billie
 |{{flagicon|KAZ}} '''[[Elena Rybakina]]'''
 |2025
 |-
+|{{flagicon|}} '''[[Mirra Andreeva]]''' {{efn|name=RUS}}
+|2026
+|-
 |}
 
 {{col-break|gap=2em}}
-
 ===Doubles===
 {| class="wikitable nowrap" style="font-size: 95%"
 !Titles!!Player!!Years
 |-
 !align=center|13
-|{{flagicon|USA}} [[Martina Navratilova]]||1977–78, 80–86<sup>(Nov.)</sup>,{{efn|name=NovemberEdition}} 87–89, 91
+|{{flagicon|USA}} [[Martina Navratilova]]||1977–78, 80–85, 86<sup>(Nov.)</sup>{{efn|name=NovemberEdition}}, 87–89, 91
 |-
 !align=center|10
-|{{flagicon|USA}} [[Pam Shriver]]||1981–86<sup>(Nov.)</sup>,{{efn|name=NovemberEdition}} 87–89, 91
+|{{flagicon|USA}} [[Pam Shriver]]||1981–85, 86<sup>(Nov.)</sup>{{efn|name=NovemberEdition}}, 87–89, 91
 |-
 ! rowspan="2" align=center|4
 |{{flagicon|USA}} [[Billie Jean King]]||1974, 76, 78, 80
@@ -909,7 +958,7 @@ Since 2014, the singles and doubles winners of the tournament receive the Billie
 |-
 |{{flagicon|HUN}} [[Tímea Babos]]||2017–19
 |-
-! rowspan="11" |2
+! rowspan="12" |2
 |{{flagicon|USA}} [[Rosemary Casals]]
 |1973–74
 |-
@@ -941,12 +990,15 @@ Since 2014, the singles and doubles winners of the tournament receive the Billie
 |2018–19
 |-
 |{{plainlist|
-* {{flagicon|}} '''[[Veronika Kudermetova]]''' {{efn|name=RUS|On 1 March 2022, the [[Women's Tennis Association|WTA]] announced that players from [[Russia]] will not be allowed to compete under the name or flag of Russia following the [[2022 Russian invasion of Ukraine]]. Veronika Kudermetova and Vera Zvonareva thus competed as neutral players since then, so Kudermetova's two titles and Zvonareva's one title are not attributed to Russia in the "Titles by country" list.<ref name="wtatennis.com">{{Cite web |date=1 March 2022 |title=Joint Statement by the International Governing Bodies of Tennis |url=https://www.wtatennis.com/news/2510418/joint-statement-by-the-international-governing-bodies-of-tennis |access-date=29 December 2022 |website=WTA Tour}}</ref>}}
+* {{flagicon|}} '''[[Veronika Kudermetova]]''' {{efn|name=RUS|On 1 March 2022, the [[Women's Tennis Association|WTA]] announced that players from [[Russia]] will not be allowed to compete under the name or flag of Russia following the [[2022 Russian invasion of Ukraine]]. Mirra Andreeva, Veronika Kudermetova and Vera Zvonareva thus competed as neutral players since then, so Andreeva's one singles title, Kudermetova's two doubles titles and Zvonareva's one doubles title are not attributed to Russia in the "Titles by country" list.<ref name="wtatennis.com">{{Cite web |date=1 March 2022 |title=Joint Statement by the International Governing Bodies of Tennis |url=https://www.wtatennis.com/news/2510418/joint-statement-by-the-international-governing-bodies-of-tennis |access-date=29 December 2022 |website=WTA Tour}}</ref>}}
 * {{flagicon|BEL}} '''[[Elise Mertens]]'''
 }}
 |2022, 25
 |-
-! rowspan="19" align="center" |1
+|{{flagicon|CZE}} '''[[Kateřina Siniaková]]'''
+|2021, 26
+|-
+! rowspan="20" align="center" |1
 |{{flagicon|GBR}} [[Virginia Wade]]
 |1975
 |-
@@ -1021,7 +1073,6 @@ Since 2014, the singles and doubles winners of the tournament receive the Billie
 |-
 |{{plainlist|
 * {{flagicon|CZE}} '''[[Barbora Krejčiková]]'''
-* {{flagicon|CZE}} '''[[Kateřina Siniaková]]'''
 }}
 |2021
 |-
@@ -1036,8 +1087,13 @@ Since 2014, the singles and doubles winners of the tournament receive the Billie
 * {{flagicon|NZL}} '''[[Erin Routliffe]]'''
 }}
 |2024
+|-
+|{{plainlist|
+* {{flagicon|USA}} '''[[Taylor Townsend]]'''
+}}
+|2026
 |}
-|}
+{{col-end}}
 {{notelist|refs=
 {{efn|name=MarchEdition|In 1986 the WTA adopted a January–November playing season, thereby the event switched to being held at the end of each year. Consequently, there were two championships held in 1986. First edition was played in March.<ref name="1986 editions">{{Cite web |title=About WTA Finals |url=https://wtafinalsgdl.com/en/about-wta-finals/ |url-status=live |archive-url=https://web.archive.org/web/20211111150343/https://wtafinalsgdl.com/en/about-wta-finals/ |archive-date=2021-11-11 |website=Akron WTA Finals Guadalajara |language=en}}</ref>}}
 {{efn|name=NovemberEdition|Second edition was played in November.}}
@@ -1140,7 +1196,7 @@ Note: Active players indicated in '''bold'''.
 |[[1999 WTA Tour Championships – Doubles|1999]]
 |-
 !style="text-align:left;"|Oldest
-|{{flagicon|}} [[Vera Zvonareva]] {{efn|name=RUS|On 1 March 2022, the [[Women's Tennis Association|WTA]] announced that players from [[Russia]] will not be allowed to compete under the name or flag of Russia following the [[2022 Russian invasion of Ukraine]]. Veronika Kudermetova and Vera Zvonareva thus competed as neutral players since then, so Kudermetova's two titles and Zvonareva's one title are not attributed to Russia in the "Titles by country" list.<ref name="wtatennis.com">{{Cite web |date=1 March 2022 |title=Joint Statement by the International Governing Bodies of Tennis |url=https://www.wtatennis.com/news/2510418/joint-statement-by-the-international-governing-bodies-of-tennis |access-date=29 December 2022 |website=WTA Tour}}</ref>}}
+|{{flagicon|}} [[Vera Zvonareva]] {{efn|name=RUS|On 1 March 2022, the [[Women's Tennis Association|WTA]] announced that players from [[Russia]] will not be allowed to compete under the name or flag of Russia following the [[2022 Russian invasion of Ukraine]]. Mirra Andreeva, Veronika Kudermetova and Vera Zvonareva thus competed as neutral players since then, so Andreeva's one singles title, Kudermetova's two doubles titles and Zvonareva's one doubles title are not attributed to Russia in the "Titles by country" list.<ref name="wtatennis.com">{{Cite web |date=1 March 2022 |title=Joint Statement by the International Governing Bodies of Tennis |url=https://www.wtatennis.com/news/2510418/joint-statement-by-the-international-governing-bodies-of-tennis |access-date=29 December 2022 |website=WTA Tour}}</ref>}}
 |{{age ym| 1984|9|7|2023|11|6}}
 |[[2023 WTA Finals – Doubles|2023]]
 |}
@@ -1344,16 +1400,16 @@ Winning the Year-end championships in both '''singles''' and '''doubles''' in th
 }}
 {{tb2|2|width=40|text-size=100|text={{nowrap|{{flagcountry|ARG}} {{small|(1 player)}}, {{flagcountry|CZE}} {{small|(2 players)}}, {{flagcountry|FRA}} {{small|(2 players)}}, {{flagcountry|POL}} {{small|(2 players)}}, {{flagcountry|SUI}} {{small|(1 player)}}}}
 }}
-{{tb2|1|width=20|text-size=100|text={{nowrap|{{flagcountry|DEN}}, {{flagcountry|KAZ}}, {{flagcountry|RUS}}, {{flagcountry|SVK}}, {{flagcountry|ESP}}, {{flagcountry|UKR}}}}
+{{tb2|1|width=20|text-size=100|text={{nowrap|{{flagcountry|DEN}}, {{flagcountry|KAZ}}, {{flagcountry|RUS}}{{efn|name=RUS}}, {{flagcountry|SVK}}, {{flagcountry|ESP}}, {{flagcountry|UKR}}}}
 }}
 
 ===Doubles===
 ''Note: Titles won by a team of players from the '''same country''', count as one title, '''not''' two.''
-{{tb2|29|width=580|text-size=100|text={{nowrap|{{flagcountry|USA}} {{small|(11 players)}}}}
+{{tb2|30|width=600|text-size=100|text={{nowrap|{{flagcountry|USA}} {{small|(12 players)}}}}
 }}
-{{tb2|7|width=140|text-size=100|text={{nowrap|{{flagcountry|AUS}} {{small|(5 players)}}}}
+{{tb2|7|width=140|text-size=100|text={{nowrap|{{flagcountry|AUS}} {{small|(5 players)}}, {{flagicon|CZE}} ''[[Czechoslovakia]]'' / [[Czech Republic]] {{small|(6 players)}}}}
 }}
-{{tb2|6|width=120|text-size=100|text={{nowrap|{{flagicon|CZE}} ''[[Czechoslovakia]]'' / [[Czech Republic]] {{small|(6 players)}}, {{flagcountry|RUS}} {{small|(6 players)}}{{efn|name=RUS|On 1 March 2022, the [[Women's Tennis Association|WTA]] announced that players from [[Russia]] will not be allowed to compete under the name or flag of Russia following the [[2022 Russian invasion of Ukraine]]. Veronika Kudermetova and Vera Zvonareva thus competed as neutral players since then, so Kudermetova's two titles and Zvonareva's one title are not attributed to Russia in the "Titles by country" list.<ref name="wtatennis.com">{{Cite web |date=1 March 2022 |title=Joint Statement by the International Governing Bodies of Tennis |url=https://www.wtatennis.com/news/2510418/joint-statement-by-the-international-governing-bodies-of-tennis |access-date=29 December 2022 |website=WTA Tour}}</ref>}}}}
+{{tb2|6|width=120|text-size=100|text={{nowrap|{{flagcountry|RUS}} {{small|(6 players)}}{{efn|name=RUS|On 1 March 2022, the [[Women's Tennis Association|WTA]] announced that players from [[Russia]] will not be allowed to compete under the name or flag of Russia following the [[2022 Russian invasion of Ukraine]]. Mirra Andreeva, Veronika Kudermetova and Vera Zvonareva thus competed as neutral players since then, so Andreeva's one singles title, Kudermetova's two doubles titles and Zvonareva's one doubles title are not attributed to Russia in the "Titles by country" list.<ref name="wtatennis.com">{{Cite web |date=1 March 2022 |title=Joint Statement by the International Governing Bodies of Tennis |url=https://www.wtatennis.com/news/2510418/joint-statement-by-the-international-governing-bodies-of-tennis |access-date=29 December 2022 |website=WTA Tour}}</ref>}}}}
 }}
 {{tb2|4|width=80|text-size=100|text={{nowrap|{{flagcountry|ESP}} {{small|(4 players)}}}}
 }}

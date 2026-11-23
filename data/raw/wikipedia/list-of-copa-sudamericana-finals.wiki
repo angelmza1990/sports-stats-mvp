@@ -2,9 +2,9 @@
 {{Expand Portuguese|Lista de campeões da Copa Sul-Americanal|date=February 2026}}
 The [[Copa Sudamericana]] is an annual [[association football]] tournament established in 2002.<ref>{{cite web|url=https://www.rsssf.org/miscellaneous/torre-sac-best.html |title=South American Competitions |website=RSSSF |access-date=28 March 2010 |url-status=live |archive-url=https://web.archive.org/web/20100201210855/http://www.rsssf.com/miscellaneous/torre-sac-best.html |archive-date=1 February 2010 }}</ref> The competition is organized by the South American Football Confederation, or [[CONMEBOL]], and it is contested by 56 clubs from its member association.<ref name=Sudamericana>{{cite web|url=http://conmebol.com/conmebol/activeCompetition.html?x=46&sub=8&type=1 |title=Nissan South American Cup |publisher=CONMEBOL |access-date=28 March 2010 }}</ref> From 2004 to 2008, clubs from the [[CONCACAF]] were invited to participate.<ref name=Sudamericana/> Until 2018, the final was contested over [[Two-legged match|two legs]], one at each participating club's stadium. From 2019, the format was changed, with the final being a single game played at a predetermined venue. [[Club Atlético San Lorenzo de Almagro|San Lorenzo]] won the inaugural competition in [[2002 Copa Sudamericana finals|2002]], defeating [[Atlético Nacional]].<ref name="San Lorenzo" />
 
-Eighteen different clubs have won the competition since its inception. [[Boca Juniors]], [[Club Atlético Independiente|Independiente]], [[Club Atlético Lanús|Lanús]], [[Club Athletico Paranaense|Athletico Paranaense]], [[Independiente del Valle]], and [[LDU Quito]] share the record for the most victories, winning the competition two times each. Boca Juniors is also the only club to have successfully defended their title. Teams from Argentina have won the competition the most, with eleven titles among them.
+Eighteen different clubs have won the competition since its inception. [[Boca Juniors]] holds the record for the most victories, winning the competition three times. Boca Juniors is also the only club to have successfully defended their title. Teams from Argentina have won the competition the most, with twelve titles among them.
 
-The current champion is Lanús, who defeated [[Clube Atlético Mineiro|Atlético Mineiro]] in the [[2025 Copa Sudamericana final|2025 final]].
+The current champion is Boca Juniors, who defeated [[Clube Atlético Mineiro|Atlético Mineiro]] in the [[2026 Copa Sudamericana final|2026 final]].
 
 ==List of finals==
 {|class="wikitable" style="text-align:center"
@@ -344,6 +344,16 @@ The current champion is Lanús, who defeated [[Clube Atlético Mineiro|Atlético
 |{{flagicon|PAR}} [[Estadio Defensores del Chaco]], [[Asunción]]{{efn|The match was originally planned to be held at the [[Estadio Ramón Tahuichi Aguilera]], [[Santa Cruz de la Sierra]], Bolivia, but it was moved to [[Estadio Defensores del Chaco]] in [[Asunción]], Paraguay due to the original stadium not meeting the previously required adjustments.}}
 |align=center| 44,164
 |
+|-
+!scope="row" style="text-align:center"|[[2026 Copa Sudamericana|2026]]
+|{{fba|ARG}}
+|[[Boca Juniors]]
+|align=center |[[2026 Copa Sudamericana final|2–0]]
+|[[Clube Atlético Mineiro|Atlético Mineiro]]
+|{{fba|BRA}}
+|{{flagicon|COL}} [[Estadio Metropolitano Roberto Meléndez|Estadio Metropolitano]], [[Barranquilla]]
+|align=center| 
+|
 |- class="sortbottom"
 !colspan="9"|Upcoming matches
 |- class="sortbottom"
@@ -356,16 +366,6 @@ The current champion is Lanús, who defeated [[Clube Atlético Mineiro|Atlético
 !scope="col"|Venue
 !scope="col"|Attendance
 !scope="col"|Refs
-|- class="sortbottom"
-!scope="row" style="text-align:center"|[[2026 Copa Sudamericana|2026]]
-|{{fba|BRA}}
-|[[Clube Atlético Mineiro|Atlético Mineiro]]
-|align=center |[[2026 Copa Sudamericana final|v]]
-|[[Boca Juniors]]
-|{{fba|ARG}}
-|{{flagicon|COL}} [[Estadio Metropolitano Roberto Meléndez|Estadio Metropolitano]], [[Barranquilla]]
-|align=center|
-|align=center|
 |- class="sortbottom"
 !scope="row" style="text-align:center"|[[2027 Copa Sudamericana|2027]]
 |
@@ -390,11 +390,11 @@ The current champion is Lanús, who defeated [[Clube Atlético Mineiro|Atlético
 !class="unsortable" |Years won
 !class="unsortable" |Years lost
 |-
+|{{fbaicon|ARG}} [[Boca Juniors]]||align=center|3||align=center|0||[[2004 Copa Sudamericana finals|2004]], [[2005 Copa Sudamericana finals|2005]], [[2026 Copa Sudamericana final|2026]]||{{center|—}}
+|-
 |{{fbaicon|ECU}} [[LDU Quito]]|| align="center" |2|| align="center" |1||[[2009 Copa Sudamericana finals|2009]], [[2023 Copa Sudamericana final|2023]]||[[2011 Copa Sudamericana finals|2011]]
 |-
 |{{fbaicon|ARG}} [[Club Atlético Lanús|Lanús]] ||align=center|2||align=center|1||[[2013 Copa Sudamericana finals|2013]], [[2025 Copa Sudamericana final|2025]]||[[2020 Copa Sudamericana final|2020]]
-|-
-|{{fbaicon|ARG}} [[Boca Juniors]]||align=center|2||align=center|0||[[2004 Copa Sudamericana finals|2004]], [[2005 Copa Sudamericana finals|2005]]||{{center|—}}
 |-
 |{{fbaicon|ARG}} [[Club Atlético Independiente|Independiente]]||align=center|2||align=center|0||[[2010 Copa Sudamericana finals|2010]], [[2017 Copa Sudamericana finals|2017]]||{{center|—}}
 |-
@@ -428,6 +428,8 @@ The current champion is Lanús, who defeated [[Clube Atlético Mineiro|Atlético
 |-
 |{{fbaicon|COL}} [[Atlético Nacional]]||align=center|0||align=center|3||{{center|—}}||[[2002 Copa Sudamericana finals|2002]], [[2014 Copa Sudamericana finals|2014]], [[2016 Copa Sudamericana finals|2016]]
 |-
+|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]||align=center|0||align=center|2||{{center|—}}||[[2025 Copa Sudamericana final|2025]], [[2026 Copa Sudamericana final|2026]]
+|-
 |{{fbaicon|BOL}} [[Club Bolívar|Bolívar]]||align=center|0||align=center|1||{{center|—}}||[[2004 Copa Sudamericana finals|2004]]
 |-
 |{{fbaicon|MEX}} [[Pumas UNAM]]||align=center|0||align=center|1||{{center|—}}||[[2005 Copa Sudamericana finals|2005]]
@@ -459,8 +461,6 @@ The current champion is Lanús, who defeated [[Clube Atlético Mineiro|Atlético
 |{{fbaicon|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]||align=center|0||align=center|1||{{center|—}}||[[2023 Copa Sudamericana final|2023]]
 |-
 |{{fbaicon|BRA}} [[Cruzeiro EC|Cruzeiro]]||align=center|0||align=center|1||{{center|—}}||[[2024 Copa Sudamericana final|2024]]
-|-
-|{{fbaicon|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]||align=center|0||align=center|1||{{center|—}}||[[2025 Copa Sudamericana final|2025]]
 |}
 
 ===By country===
@@ -473,10 +473,10 @@ The current champion is Lanús, who defeated [[Clube Atlético Mineiro|Atlético
 !scope="col"|Total
 |-
 !scope=row|{{fba|Argentina}}
-|align=center|11 ||align=center|6 ||align=center|17
+|align=center|12 ||align=center|6 ||align=center|18
 |-
 !scope=row|{{fba|Brazil}}
-|align=center|5||align=center|9||align=center|14
+|align=center|5||align=center|10||align=center|15
 |-
 !scope=row|{{fba|Ecuador}}
 |align=center|4||align=center|1||align=center|5

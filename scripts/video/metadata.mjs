@@ -4,7 +4,7 @@
 const COPY = {
   argentina: {
     es: { title: "Todos los campeones del fútbol argentino (1891–2026)", short: "¿Quién es el más campeón del fútbol argentino? 🇦🇷🏆",
-      hook: "Más de 130 años de Primera División en un minuto: de los clubes ingleses de la era amateur al River–Boca de hoy.",
+      hook: "Más de 130 años de Primera División, título a título: de los clubes ingleses de la era amateur al River–Boca de hoy.",
       ask: "¿Sabías que Alumni fue el club con más títulos de la era amateur? Contanos qué campeonato te sorprendió más 👇",
       tags: ["#futbolargentino", "#riverplate", "#bocajuniors", "#ligaprofesional", "#AFA"] },
     en: { title: "Every Argentine football champion (1891–2026)", short: "Who has won the most titles in Argentina? 🇦🇷🏆",

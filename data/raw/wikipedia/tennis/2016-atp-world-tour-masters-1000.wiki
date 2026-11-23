@@ -87,13 +87,13 @@ The twenty-seventh edition of the [[ATP Masters]] Series.<ref>[https://www.atpto
 |-
 ! scope="col"|Masters
 ! scope="col" style="width:11em"| Singles champions
-! scope="col" style="width:11em"| Runners-up
+! scope="col" style="width:13em"| Runners-up
 ! scope="col" style="width:11em"| Score
-! scope="col" style="width:11em"| Doubles champions
-! scope="col" style="width:11em"| Runners-up
+! scope="col" style="width:13em"| Doubles champions
+! scope="col" style="width:13em"| Runners-up
 ! scope="col" style="width:11em"| Score
 |-
-! scope="row"| {{nowrap|[[2016 BNP Paribas Open|'''Indian Wells''']]}}<br />{{small|[[2016 BNP Paribas Open – Men's singles|Singles]] – [[2016 BNP Paribas Open – Men's doubles|Doubles]]}}
+! scope="row"| {{nowrap|[[2016 BNP Paribas Open|'''Indian Wells''']]}}<br /><small>[[2016 BNP Paribas Open – Men's singles|Singles]] – [[2016 BNP Paribas Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|CAN}} Milos Raonic
 |6–2, 6–0
@@ -101,7 +101,7 @@ The twenty-seventh edition of the [[ATP Masters]] Series.<ref>[https://www.atpto
 |{{#invoke:flag|icon|CAN}} Vasek Pospisil <br />{{#invoke:flag|icon|USA}} Jack Sock
 |6–3, 7–6<sup>(7–5)</sup>
 |-
-! scope="row"|[[2016 Miami Open|'''Miami''']]<br />{{small|[[2016 Miami Open – Men's singles|Singles]] – [[2016 Miami Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2016 Miami Open|'''Miami''']]<br /><small>[[2016 Miami Open – Men's singles|Singles]] – [[2016 Miami Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|JPN}} Kei Nishikori
 |6–3, 6–3
@@ -109,7 +109,7 @@ The twenty-seventh edition of the [[ATP Masters]] Series.<ref>[https://www.atpto
 |{{#invoke:flag|icon|RSA}} [[Raven Klaasen]] <br />{{#invoke:flag|icon|USA}} [[Rajeev Ram]]
 |5–7, 6–1, [10–7]
 |-
-! scope="row"| {{nowrap|[[2016 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br />{{small|[[2016 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2016 Monte-Carlo Rolex Masters – Doubles|Doubles]]}}
+! scope="row"| {{nowrap|[[2016 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br /><small>[[2016 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2016 Monte-Carlo Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|FRA}} Gaël Monfils
 |7–5, 5–7, 6–0
@@ -117,7 +117,7 @@ The twenty-seventh edition of the [[ATP Masters]] Series.<ref>[https://www.atpto
 |{{#invoke:flag|icon|GRB}} [[Jamie Murray]] <br />{{#invoke:flag|icon|BRA}} Bruno Soares
 |4–6, 6–0, [10–6]
 |-
-! scope="row"|[[2016 Mutua Madrid Open|'''Madrid''']]<br />{{small|[[2016 Mutua Madrid Open – Men's singles|Singles]] – [[2016 Mutua Madrid Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2016 Mutua Madrid Open|'''Madrid''']]<br /><small>[[2016 Mutua Madrid Open – Men's singles|Singles]] – [[2016 Mutua Madrid Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|GBR}} Andy Murray
 |6–2, 3–6, 6–3
@@ -125,7 +125,7 @@ The twenty-seventh edition of the [[ATP Masters]] Series.<ref>[https://www.atpto
 |{{#invoke:flag|icon|IND}} Rohan Bopanna <br /> {{#invoke:flag|icon|ROU}} Florin Mergea
 |6–4, 7–6<sup>(7–5)</sup>
 |-
-! scope="row"|[[2016 Italian Open (tennis)|'''Rome''']]<br />{{small|[[2016 Italian Open – Men's singles|Singles]] – [[2016 Italian Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2016 Italian Open (tennis)|'''Rome''']]<br /><small>[[2016 Italian Open – Men's singles|Singles]] – [[2016 Italian Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|GBR}} Andy Murray
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |6–3, 6–3
@@ -133,7 +133,7 @@ The twenty-seventh edition of the [[ATP Masters]] Series.<ref>[https://www.atpto
 |{{#invoke:flag|icon|CAN}} Vasek Pospisil <br />{{#invoke:flag|icon|USA}} Jack Sock
 |2–6, 6–3, [10–7]
 |-
-! scope="row"|[[2016 Rogers Cup|'''Toronto''']]<br />{{small|[[2016 Rogers Cup – Men's singles|Singles]] – [[2016 Rogers Cup – Men's doubles|Doubles]]}}
+! scope="row"|[[2016 Rogers Cup|'''Toronto''']]<br /><small>[[2016 Rogers Cup – Men's singles|Singles]] – [[2016 Rogers Cup – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|JPN}} Kei Nishikori
 |6–3, 7–5
@@ -141,7 +141,7 @@ The twenty-seventh edition of the [[ATP Masters]] Series.<ref>[https://www.atpto
 |{{#invoke:flag|icon|GBR}} Jamie Murray <br />{{#invoke:flag|icon|BRA}} Bruno Soares
 |6–4, 6–4
 |-
-! scope="row"|[[2016 Western & Southern Open|'''Cincinnati''']]<br />{{small|[[2016 Western & Southern Open – Men's singles|Singles]] – [[2016 Western & Southern Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2016 Western & Southern Open|'''Cincinnati''']]<br /><small>[[2016 Western & Southern Open – Men's singles|Singles]] – [[2016 Western & Southern Open – Men's doubles|Doubles]]</small>
 |style="background:#ddfddd"|{{#invoke:flag|icon|CRO}} [[Marin Čilić]]*
 |{{#invoke:flag|icon|GBR}} Andy Murray
 |6–4, 7–5
@@ -149,7 +149,7 @@ The twenty-seventh edition of the [[ATP Masters]] Series.<ref>[https://www.atpto
 |{{#invoke:flag|icon|NED}} Jean-Julien Rojer <br />{{#invoke:flag|icon|ROU}} Horia Tecau
 |7–6<sup>(7–5)</sup>, 6–7<sup>(5–7)</sup>, [10–6]
 |-
-! scope="row"|[[2016 Shanghai Rolex Masters|'''Shanghai''']]<br />{{small|[[2016 Shanghai Rolex Masters – Singles|Singles]] – [[2016 Shanghai Rolex Masters – Doubles|Doubles]]}}
+! scope="row"|[[2016 Shanghai Rolex Masters|'''Shanghai''']]<br /><small>[[2016 Shanghai Rolex Masters – Singles|Singles]] – [[2016 Shanghai Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|GBR}} Andy Murray
 |{{#invoke:flag|icon|ESP}} [[Roberto Bautista Agut]]
 |7–6<sup>(7–1)</sup>, 6–1
@@ -157,7 +157,7 @@ The twenty-seventh edition of the [[ATP Masters]] Series.<ref>[https://www.atpto
 |{{#invoke:flag|icon|FIN}} Henri Kontinen<br />{{#invoke:flag|icon|AUS}} John Peers
 |6–4, 6–4
 |-
-! scope="row"|[[2016 BNP Paribas Masters|'''Paris''']]<br />{{small|[[2016 BNP Paribas Masters – Singles|Singles]] – [[2016 BNP Paribas Masters – Doubles|Doubles]]}}
+! scope="row"|[[2016 BNP Paribas Masters|'''Paris''']]<br /><small>[[2016 BNP Paribas Masters – Singles|Singles]] – [[2016 BNP Paribas Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|GBR}} Andy Murray
 |{{#invoke:flag|icon|USA}} John Isner
 |6–3, 6–7<sup>(4–7)</sup>, 6–4
@@ -1255,7 +1255,7 @@ The twenty-seventh edition of the [[ATP Masters]] Series.<ref>[https://www.atpto
 |RD2-score3-3=
 |RD2-seed4=2
 |RD2-team4='''{{flagicon|GBR}} [[Andy Murray]]'''
-|RD2-score4-1={{small|w/o}}
+|RD2-score4-1=<small>w/o</small>
 |RD2-score4-2=
 |RD2-score4-3=
 

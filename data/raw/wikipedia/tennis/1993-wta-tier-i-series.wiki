@@ -86,12 +86,12 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament !! scope="col"| Singles champions !! scope="col"| Runners-up !! scope="col"| Score !! scope="col"| Doubles champions !! scope="col"| Runners-up !! scope="col"| Score
 |-
 ! scope="row" | '''[[1993 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[1993 Toray Pan Pacific Open – Singles|Singles]] – [[1993 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[1993 Toray Pan Pacific Open – Singles|Singles]] – [[1993 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Martina Navratilova]]
 | {{#invoke:flag|icon|LAT}} [[Larisa Neiland|Larisa Savchenko-Neiland]]
 | 6–2, 6–2
@@ -100,7 +100,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–4, 6–3
 |-
 ! scope="row" | '''[[1993 Lipton Championships|Miami]]'''
-{{small|[[1993 Lipton Championships – Women's singles|Singles]] – [[1993 Lipton Championships – Women's doubles|Doubles]]}}
+<small>[[1993 Lipton Championships – Women's singles|Singles]] – [[1993 Lipton Championships – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} [[Arantxa Sánchez Vicario]]
 | {{#invoke:flag|icon|GER}} [[Steffi Graf]]
 | 6–4, 3–6, 6–3
@@ -109,7 +109,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–2, 7–5
 |-
 ! scope="row" rowspan=2| '''[[1993 Family Circle Cup|Hilton Head]]'''
-{{small|[[1993 Family Circle Cup – Singles|Singles]] – [[1993 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[1993 Family Circle Cup – Singles|Singles]] – [[1993 Family Circle Cup – Doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|GER}} Steffi Graf
 | rowspan="2" | {{#invoke:flag|icon|ESP}} Arantxa Sánchez Vicario
 | rowspan="2" | 7–6<sup>(10–8)</sup>, 6–1
@@ -120,7 +120,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|BLR|1991}} [[Natasha Zvereva]]
 |-
 ! scope="row" | '''[[1993 Italian Open (tennis)|Rome]]'''
-{{small|[[1993 Italian Open – Women's singles|Singles]] – [[1993 Italian Open – Women's doubles|Doubles]]}}
+<small>[[1993 Italian Open – Women's singles|Singles]] – [[1993 Italian Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|ESP}} [[Conchita Martínez]]*
 | {{#invoke:flag|icon|ARG}} [[Gabriela Sabatini]]
 | 7–5, 6–1
@@ -129,7 +129,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–4, 6–2
 |-
 ! scope="row" | '''[[1993 WTA German Open|Berlin]]'''
-{{small|[[1993 WTA German Open – Singles|Singles]] – [[1993 WTA German Open – Doubles|Doubles]]}}
+<small>[[1993 WTA German Open – Singles|Singles]] – [[1993 WTA German Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|GER}} Steffi Graf
 | {{#invoke:flag|icon|ARG}} Gabriela Sabatini
 | 7–6<sup>(7–3)</sup>, 2–6, 6–4
@@ -138,7 +138,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–1, 6–3
 |-
 ! scope="row" | '''[[1993 Canadian Open (tennis)|Toronto]]'''
-{{small|[[1993 Canadian Open – Women's singles|Singles]] – [[1993 Canadian Open – Women's doubles|Doubles]]}}
+<small>[[1993 Canadian Open – Women's singles|Singles]] – [[1993 Canadian Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|GER}} Steffi Graf
 | {{#invoke:flag|icon|USA}} [[Jennifer Capriati]]
 | 6–1, 0–6, 6–3
@@ -147,7 +147,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–1, 6–2
 |-
 ! scope="row" | '''[[1993 Barilla Indoors|Zürich]]'''
-{{small|[[1993 Barilla Indoors – Singles|Singles]] – [[1993 Barilla Indoors – Doubles|Doubles]]}}
+<small>[[1993 Barilla Indoors – Singles|Singles]] – [[1993 Barilla Indoors – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|SUI}} [[Manuela Maleeva]]*
 | {{#invoke:flag|icon|USA}} Martina Navratilova
 | 6–3, 7–6<sup>(7–1)</sup>
@@ -156,7 +156,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 5–7, 6–3
 |-
 ! scope="row" | '''[[1993 Virginia Slims of Philadelphia|Philadelphia]]'''
-{{small|[[1993 Virginia Slims of Philadelphia – Singles|Singles]] – [[1993 Virginia Slims of Philadelphia – Doubles|Doubles]]}}
+<small>[[1993 Virginia Slims of Philadelphia – Singles|Singles]] – [[1993 Virginia Slims of Philadelphia – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} Conchita Martínez
 | {{#invoke:flag|icon|GER}} Steffi Graf
 | 6–3, 6–3

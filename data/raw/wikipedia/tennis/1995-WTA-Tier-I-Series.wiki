@@ -87,7 +87,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -98,7 +98,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[1995 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[1995 Toray Pan Pacific Open – Singles|Singles]] – [[1995 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[1995 Toray Pan Pacific Open – Singles|Singles]] – [[1995 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|JPN}} [[Kimiko Date]]*
 | {{#invoke:flag|icon|USA}} [[Lindsay Davenport]]
 | 6–1, 6–2
@@ -107,7 +107,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–0, 6–3
 |-
 ! scope="row" | '''[[1995 Lipton Championships|Miami]]'''
-{{small|[[1995 Lipton Championships – Women's singles|Singles]] – [[1995 Lipton Championships – Women's doubles|Doubles]]}}
+<small>[[1995 Lipton Championships – Women's singles|Singles]] – [[1995 Lipton Championships – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|GER}} [[Steffi Graf]]
 | {{#invoke:flag|icon|JPN}} Kimiko Date
 | 6–1, 6–4
@@ -116,7 +116,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |7–5, 2–6, 6–3
 |-
 ! scope="row" rowspan=2| '''[[1995 Family Circle Cup|Hilton Head]]'''
-{{small|[[1995 Family Circle Cup – Singles|Singles]] – [[1995 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[1995 Family Circle Cup – Singles|Singles]] – [[1995 Family Circle Cup – Doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|ESP}} [[Conchita Martínez]]
 | rowspan="2" | {{#invoke:flag|icon|BUL}} [[Magdalena Maleeva]]
 | rowspan="2" | 6–1, 6–1
@@ -127,7 +127,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|NED}} [[Manon Bollegraf]]
 |-
 ! scope="row" | '''[[1995 Italian Open (tennis)|Rome]]'''
-{{small|[[1995 Italian Open – Women's singles|Singles]] – [[1995 Italian Open – Women's doubles|Doubles]]}}
+<small>[[1995 Italian Open – Women's singles|Singles]] – [[1995 Italian Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} Conchita Martínez
 | {{#invoke:flag|icon|ESP}} Arantxa Sánchez Vicario
 | 6–3, 6–1
@@ -136,7 +136,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |3–6, 7–6, 6–4
 |-
 ! scope="row" | '''[[1995 WTA German Open|Berlin]]'''
-{{small|[[1995 WTA German Open – Singles|Singles]] – [[1995 WTA German Open – Doubles|Doubles]]}}
+<small>[[1995 WTA German Open – Singles|Singles]] – [[1995 WTA German Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} Arantxa Sánchez Vicario
 | {{#invoke:flag|icon|BUL}} Magdalena Maleeva
 | 6–4, 6–1
@@ -145,7 +145,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |4–6, 7–6, 6–2
 |-
 ! scope="row" rowspan=2| '''[[1995 Canadian Open (tennis)|Toronto]]'''
-{{small|[[1995 Canadian Open – Women's singles|Singles]] – [[1995 Canadian Open – Women's doubles|Doubles]]}}
+<small>[[1995 Canadian Open – Women's singles|Singles]] – [[1995 Canadian Open – Women's doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|USA}} [[Monica Seles]]
 | rowspan="2" | {{#invoke:flag|icon|RSA}} Amanda Coetzer
 | rowspan="2" | 6–0, 6–1
@@ -156,7 +156,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |style="background:#ddfddd"| {{#invoke:flag|icon|NED}} [[Brenda Schultz-McCarthy]]*
 |-
 ! scope="row" | '''[[1995 European Indoors|Zürich]]'''
-{{small|[[1995 European Indoors – Singles|Singles]] – [[1995 European Indoors – Doubles|Doubles]]}}
+<small>[[1995 European Indoors – Singles|Singles]] – [[1995 European Indoors – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|CRO}} [[Iva Majoli]]*
 | {{#invoke:flag|icon|FRA}} [[Mary Pierce]]
 | 6–4, 6–4
@@ -165,7 +165,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–4, 6–7<sup>(4–7)</sup>, 6–4
 |-
 ! scope="row" | '''[[1995 Advanta Championships of Philadelphia|Philadelphia]]'''
-{{small|[[1995 Advanta Championships of Philadelphia – Singles|Singles]] – [[1995 Advanta Championships of Philadelphia – Doubles|Doubles]]}}
+<small>[[1995 Advanta Championships of Philadelphia – Singles|Singles]] – [[1995 Advanta Championships of Philadelphia – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|GER}} Steffi Graf
 | {{#invoke:flag|icon|USA}} [[Lori McNeil]]
 | 6–1, 4–6, 6–3

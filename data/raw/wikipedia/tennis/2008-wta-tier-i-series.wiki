@@ -93,7 +93,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2008 Qatar Ladies Open|Doha]]'''
-{{small|[[2008 Qatar Ladies Open – Singles|Singles]] – [[2008 Qatar Ladies Open – Doubles|Doubles]]}}
+<small>[[2008 Qatar Ladies Open – Singles|Singles]] – [[2008 Qatar Ladies Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|RUS}} [[Maria Sharapova]]
 | {{#invoke:flag|icon|RUS}} [[Vera Zvonareva]]
 | 6–1, 2–6, 6–0
@@ -113,7 +113,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–1, 5–7, [10–7]
 |-
 ! scope="row" | '''[[2008 Pacific Life Open|Indian Wells]]'''
-{{small|[[2008 Pacific Life Open – Women's singles|Singles]] – [[2008 Pacific Life Open – Women's singles|Doubles]]}}
+<small>[[2008 Pacific Life Open – Women's singles|Singles]] – [[2008 Pacific Life Open – Women's singles|Doubles]]</small>
 | {{#invoke:flag|icon|SRB}} [[Ana Ivanovic]]
 | {{#invoke:flag|icon|RUS}} [[Svetlana Kuznetsova]]
 | 6–4, 6–3
@@ -122,7 +122,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–1, 1–6, [10–8]
 |-
 ! scope="row" | '''[[2008 Sony Ericsson Open|Miami]]'''
-{{small|[[2008 Sony Ericsson Open – Women's singles|Singles]] – [[2008 Sony Ericsson Open – Women's doubles|Doubles]]}}
+<small>[[2008 Sony Ericsson Open – Women's singles|Singles]] – [[2008 Sony Ericsson Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Serena Williams]]
 | {{#invoke:flag|icon|SRB}} [[Jelena Janković]]
 | 6–1, 5–7, 6–3
@@ -131,16 +131,16 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |7–5, 4–6, [10–3]
 |-
 ! scope="row" | '''[[2008 Family Circle Cup|Charleston]]'''
-{{small|[[2008 Family Circle Cup – Singles|Singles]] – [[2008 Family Circle Cup – Doubles|Doubles]]}}
-| {{#invoke:flag|icon|USA}} Serena Williams
+<small>[[2008 Family Circle Cup – Singles|Singles]] – [[2008 Family Circle Cup – Doubles|Doubles]]</small>
+| {{#invoke:flag|icon|USA}} Serena Williams <small>(2)</small>
 | {{#invoke:flag|icon|RUS}} Vera Zvonareva
 | 6–4, 3–6, 6–3
-| {{#invoke:flag|icon|SLO}} Katarina Srebotnik <br /> {{#invoke:flag|icon|JPN}} Ai Sugiyama
+| {{#invoke:flag|icon|SLO}} Katarina Srebotnik <small>(2)</small> <br /> {{#invoke:flag|icon|JPN}} Ai Sugiyama <small>(2)</small>
 | {{#invoke:flag|icon|ROM}} [[Edina Gallovits-Hall|Edina Gallovits]] <br /> {{#invoke:flag|icon|BLR}} [[Olga Govortsova]]
 |6–2, 6–2
 |-
 ! scope="row" | '''[[2008 Qatar Telecom German Open|Berlin]]'''
-{{small|[[2008 Qatar Telecom German Open – Singles|Singles]] – [[2008 Qatar Telecom German Open – Doubles|Doubles]]}}
+<small>[[2008 Qatar Telecom German Open – Singles|Singles]] – [[2008 Qatar Telecom German Open – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|RUS}} [[Dinara Safina]]*
 | {{#invoke:flag|icon|RUS}} [[Elena Dementieva]]
 | 3–6, 6–2, 6–2
@@ -149,7 +149,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |3–6, 6–2, [10–2]
 |-
 ! scope="row" | '''[[2008 Italian Open (tennis)|Rome]]'''
-{{small|[[2008 Italian Open – Women's singles|Singles]] – [[2008 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2008 Italian Open – Women's singles|Singles]] – [[2008 Italian Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SRB}} Jelena Janković
 | {{#invoke:flag|icon|FRA}} [[Alizé Cornet]]
 | 6–2, 6–2
@@ -158,17 +158,17 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |7–6<sup>(7–5)</sup>, 6–3
 |-
 ! scope="row" | '''[[2008 Rogers Cup|Montréal]]'''
-{{small|[[2008 Rogers Cup – Singles|Singles]] – [[2008 Rogers Cup – Doubles|Doubles]]}}
-| {{#invoke:flag|icon|RUS}} Dinara Safina
+<small>[[2008 Rogers Cup – Singles|Singles]] – [[2008 Rogers Cup – Doubles|Doubles]]</small>
+| {{#invoke:flag|icon|RUS}} Dinara Safina <small>(2)</small>
 | {{#invoke:flag|icon|SVK}} [[Dominika Cibulková]]
 | 6–2, 6–1
-| {{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|USA}} Liezel Huber
+| {{#invoke:flag|icon|ZIM}} Cara Black <small>(2)</small> <br /> {{#invoke:flag|icon|USA}} Liezel Huber <small>(2)</small>
 | {{#invoke:flag|icon|RUS}} [[Maria Kirilenko]] <br /> {{#invoke:flag|icon|ITA}} [[Flavia Pennetta]]
 |6–1, 6–1
 |-
 ! scope="row" rowspan=2| '''[[2008 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[2008 Toray Pan Pacific Open – Singles|Singles]] – [[2008 Toray Pan Pacific Open – Doubles|Doubles]]}}
-| rowspan="2" | {{#invoke:flag|icon|RUS}} Dinara Safina
+<small>[[2008 Toray Pan Pacific Open – Singles|Singles]] – [[2008 Toray Pan Pacific Open – Doubles|Doubles]]</small>
+| rowspan="2" | {{#invoke:flag|icon|RUS}} Dinara Safina <small>(3)</small>
 | rowspan="2" | {{#invoke:flag|icon|RUS}} Svetlana Kuznetsova
 | rowspan="2" | 6–1, 6–3
 | style="background:#ddfddd"| {{#invoke:flag|icon|USA}} [[Vania King]]*
@@ -178,11 +178,11 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|RUS}} [[Nadia Petrova]]
 |-
 ! scope="row" | '''[[2008 Kremlin Cup|Moscow]]'''
-{{small|[[2008 Kremlin Cup – Women's singles|Singles]] – [[2008 Kremlin Cup – Women's doubles|Doubles]]}}
-| {{#invoke:flag|icon|SRB}} Jelena Janković
+<small>[[2008 Kremlin Cup – Women's singles|Singles]] – [[2008 Kremlin Cup – Women's doubles|Doubles]]</small>
+| {{#invoke:flag|icon|SRB}} Jelena Janković <small>(2)</small>
 | {{#invoke:flag|icon|RUS}} Vera Zvonareva
 | 6–2, 6–4
-| {{#invoke:flag|icon|RUS}} Nadia Petrova <br /> {{#invoke:flag|icon|SLO}} Katarina Srebotnik
+| {{#invoke:flag|icon|RUS}} Nadia Petrova <small>(2)</small> <br /> {{#invoke:flag|icon|SLO}} Katarina Srebotnik <small>(3)</small>
 | {{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|USA}} Liezel Huber
 |6–4, 6–4
 |}

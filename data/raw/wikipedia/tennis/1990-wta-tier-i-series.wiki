@@ -70,7 +70,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
 ! scope="col"| Runners-up
@@ -80,7 +80,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[1990 Virginia Slims of Chicago|Chicago Open]]'''
-{{small|[[1990 Virginia Slims of Chicago – Singles|Singles]] – [[1990 Virginia Slims of Chicago – Doubles|Doubles]]}}
+<small>[[1990 Virginia Slims of Chicago – Singles|Singles]] – [[1990 Virginia Slims of Chicago – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|USA}} [[Martina Navratilova]]*
 |{{#invoke:flag|icon|SUI}} [[Manuela Maleeva]]
 |6–3, 6–2
@@ -89,7 +89,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–7<sup>(9–11)</sup>, 6–4, 6–3
 |-
 ! scope="row" | '''[[1990 Lipton International Players Championships|Miami Open]]'''
-{{small|[[1990 Lipton International Players Championships – Women's singles|Singles]] – [[1990 Lipton International Players Championships – Women's doubles|Doubles]]}}
+<small>[[1990 Lipton International Players Championships – Women's singles|Singles]] – [[1990 Lipton International Players Championships – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|YUG}} [[Monica Seles]]*
 |{{#invoke:flag|icon|AUT}} [[Judith Wiesner]]
 |6–1, 6–2
@@ -98,7 +98,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–4, 6–3
 |-
 ! scope="row" rowspan=2| '''[[1990 Family Circle Cup|Hilton Head Open]]'''
-{{small|[[1990 Family Circle Cup – Singles|Singles]] – [[1990 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[1990 Family Circle Cup – Singles|Singles]] – [[1990 Family Circle Cup – Doubles|Doubles]]</small>
 |rowspan=2| {{#invoke:flag|icon|USA}} Martina Navratilova
 |rowspan=2| {{#invoke:flag|icon|USA}} [[Jennifer Capriati]]
 |rowspan=2| 6–2, 6–4
@@ -109,7 +109,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |style="background:#ddfddd"| {{#invoke:flag|icon|ESP}} [[Arantxa Sánchez Vicario]]*
 |-
 ! scope="row" | '''[[1990 Italian Open (tennis)|Italian Open]]'''
-{{small|[[1990 Italian Open – Women's singles|Singles]] – [[1990 Italian Open – Women's doubles|Doubles]]}}
+<small>[[1990 Italian Open – Women's singles|Singles]] – [[1990 Italian Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|YUG}} Monica Seles
 |{{#invoke:flag|icon|USA}} Martina Navratilova
 |6–1, 6–1
@@ -118,7 +118,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 6–4
 |-
 ! scope="row" | '''[[1990 Lufthansa Cup German Open|German Open]]'''
-{{small|[[1990 Lufthansa Cup German Open – Singles|Singles]] – [[1990 Lufthansa Cup German Open – Doubles|Doubles]]}}
+<small>[[1990 Lufthansa Cup German Open – Singles|Singles]] – [[1990 Lufthansa Cup German Open – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|YUG}} Monica Seles
 |{{#invoke:flag|icon|FRG}} Steffi Graf
 |6–4, 6–3
@@ -127,7 +127,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–2, 6–1
 |-
 ! scope="row" | '''[[1990 Canadian Open (tennis)|Canadian Open]]'''
-{{small|[[1990 Canadian Open – Women's singles|Singles]] – [[1990 Canadian Open – Women's doubles|Doubles]]}}
+<small>[[1990 Canadian Open – Women's singles|Singles]] – [[1990 Canadian Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|GER}} [[Steffi Graf]]*
 |{{#invoke:flag|icon|BUL}} [[Katerina Maleeva]]
 |6–1, 6–7<sup>(6–8)</sup>, 6–3

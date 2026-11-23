@@ -495,8 +495,11 @@ python3 scripts/fetch_flags.py                  # download any flag a dataset no
 
 `scripts/make_race_video.mjs` renders a title race as a 1920×1080 MP4 for YouTube (Argentine league titles, Liga MX titles, NBA rings, NFL championships, Stanley Cups, Copa Libertadores, Champions League, men's and women's Grand Slams, Masters 1000, weeks at No. 1), naming each tournament as it is won; `argentina-pro` covers the professional era only (since 1931), `argentina-nacional` adds the national cups and `argentina-total` the international titles too (each with a `-pro` variant), and `--vertical` makes a 1080×1920 Short of 59 seconds whatever the number of titles, so it also fits Instagram stories and TikTok; `--en` writes every text in English (the file names end in `-en`). Videos go to `videos/<es|en>/<shorts|videos>/`, each race on a background of its own (a pitch, a court, a rink or a plain texture); `--meta` writes the upload title, description and hashtags next to the video instead of rendering it. It needs Chrome, `puppeteer-core` and ffmpeg; the videos go to `videos/`, which is not committed.
 
+`scripts/video/add_music.py` gives the long videos an instrumental soundtrack: by default an original track synthesized for each file (key, tempo, chords and sounds picked from its name, so no two uploads share the music), building up during the race and fading out over the closing hold; `--track song.mp3` uses a track of your own instead (looped, faded and levelled to -16 LUFS). The video stream is copied untouched. It needs numpy and ffmpeg.
+
 ```
 FFMPEG=/path/to/ffmpeg node scripts/make_race_video.mjs argentina|argentina-pro|argentina-nacional[-pro]|argentina-total[-pro]|liga-mx|nba|nfl|nhl|libertadores|champions-league|tenis-slams-atp|tenis-slams-wta|tenis-masters|tenis-numero-1-atp|tenis-numero-1-wta [--vertical] [--en] [--meta] [--preview]
+FFMPEG=/path/to/ffmpeg python3 scripts/video/add_music.py videos/es/videos/*.mp4 [--track song.mp3]
 ```
 
 Leave out `--refresh` to rebuild from the saved copies in `data/raw/`, with no network access.

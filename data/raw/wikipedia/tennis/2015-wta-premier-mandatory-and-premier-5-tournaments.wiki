@@ -93,7 +93,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 ! scope="col"| Score
 |-
 ! scope="row" rowspan=2| '''[[2015 Dubai Tennis Championships|Dubai]]'''
-{{small|[[2015 Dubai Tennis Championships – Women's singles|Singles]] – [[2015 Dubai Tennis Championships – Women's doubles|Doubles]]}}
+<small>[[2015 Dubai Tennis Championships – Women's singles|Singles]] – [[2015 Dubai Tennis Championships – Women's doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|ROU}} [[Simona Halep]]
 | rowspan="2" | {{#invoke:flag|icon|CZE}} [[Karolína Plíšková]]
 | rowspan="2" | 6–4, 7–6<sup>(7–4)</sup>
@@ -115,8 +115,8 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |{{#invoke:flag|icon|FRA}} [[Kristina Mladenovic]]
 |-
 ! scope="row" | '''[[2015 BNP Paribas Open|Indian Wells]]'''
-{{small|[[2015 BNP Paribas Open – Women's singles|Singles]] – [[2015 BNP Paribas Open – Women's doubles|Doubles]]}}
-| {{#invoke:flag|icon|ROU}} Simona Halep
+<small>[[2015 BNP Paribas Open – Women's singles|Singles]] – [[2015 BNP Paribas Open – Women's doubles|Doubles]]</small>
+| {{#invoke:flag|icon|ROU}} Simona Halep <small>(2)</small> 
 | {{#invoke:flag|icon|SRB}} [[Jelena Janković]]
 | 2–6, 7–5, 6–4
 | {{#invoke:flag|icon|SUI}} [[Martina Hingis]] <br /> {{#invoke:flag|icon|IND}} [[Sania Mirza]]
@@ -124,16 +124,16 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |6–3, 6–4
 |-
 ! scope="row" | '''[[2015 Miami Open|Miami]]'''
-{{small|[[2015 Miami Open – Women's singles|Singles]] – [[2015 Miami Open – Women's doubles|Doubles]]}}
+<small>[[2015 Miami Open – Women's singles|Singles]] – [[2015 Miami Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Serena Williams]]
 | {{#invoke:flag|icon|ESP}} Carla Suárez Navarro
 |6–2, 6–0
-| {{#invoke:flag|icon|SUI}} Martina Hingis <br /> {{#invoke:flag|icon|IND}} Sania Mirza
+| {{#invoke:flag|icon|SUI}} Martina Hingis <small>(2)</small>  <br /> {{#invoke:flag|icon|IND}} Sania Mirza <small>(2)</small> 
 | {{#invoke:flag|icon|RUS}} Ekaterina Makarova <br /> {{#invoke:flag|icon|RUS}} Elena Vesnina
 |7–5, 6–1
 |-
 ! scope="row" rowspan=2| '''[[2015 Mutua Madrid Open|Madrid]]'''
-{{small|[[2015 Mutua Madrid Open – Women's singles|Singles]] – [[2015 Mutua Madrid Open – Women's doubles|Doubles]]}}
+<small>[[2015 Mutua Madrid Open – Women's singles|Singles]] – [[2015 Mutua Madrid Open – Women's doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|CZE}} [[Petra Kvitová]]
 | rowspan="2" | {{#invoke:flag|icon|RUS}} [[Svetlana Kuznetsova]]
 | rowspan="2" |6–1, 6–2
@@ -144,16 +144,16 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |{{#invoke:flag|icon|KAZ}} [[Yaroslava Shvedova]]
 |-
 ! scope="row" | '''[[2015 Italian Open (tennis)|Rome]]'''
-{{small|[[2015 Italian Open – Women's singles|Singles]] – [[2015 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2015 Italian Open – Women's singles|Singles]] – [[2015 Italian Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|RUS}} [[Maria Sharapova]]
 | {{#invoke:flag|icon|ESP}} Carla Suárez Navarro
 |7–6, 7–5, 6–1
-| {{#invoke:flag|icon|HUN}} Tímea Babos <br /> {{#invoke:flag|icon|FRA}} Kristina Mladenovic
+| {{#invoke:flag|icon|HUN}} Tímea Babos <small>(2)</small> <br /> {{#invoke:flag|icon|FRA}} Kristina Mladenovic <small>(2)</small> 
 | {{#invoke:flag|icon|SUI}} Martina Hingis <br /> {{#invoke:flag|icon|IND}} Sania Mirza
 |6–4, 6–3
 |-
 ! scope="row" rowspan=2| '''[[2015 Rogers Cup|Toronto]]'''
-{{small|[[2015 Rogers Cup – Women's singles|Singles]] – [[2015 Rogers Cup – Women's doubles|Doubles]]}}
+<small>[[2015 Rogers Cup – Women's singles|Singles]] – [[2015 Rogers Cup – Women's doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|SUI}} [[Belinda Bencic]]*
 | rowspan="2" | {{#invoke:flag|icon|ROU}} Simona Halep
 | rowspan="2" |7–6<sup>(7–5)</sup>, 6–7<sup>(4–7)</sup>, 3–0, ret.
@@ -164,8 +164,8 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |{{#invoke:flag|icon|CZE}} [[Lucie Šafářová]]
 |-
 ! scope="row" rowspan=2| '''[[2015 Western & Southern Open|Cincinnati]]'''
-{{small|[[2015 Western & Southern Open – Women's singles|Singles]] – [[2015 Western & Southern Open – Women's doubles|Doubles]]}}
-| rowspan="2" | {{#invoke:flag|icon|USA}} Serena Williams
+<small>[[2015 Western & Southern Open – Women's singles|Singles]] – [[2015 Western & Southern Open – Women's doubles|Doubles]]</small>
+| rowspan="2" | {{#invoke:flag|icon|USA}} Serena Williams <small>(2)</small>
 | rowspan="2" | {{#invoke:flag|icon|ROU}} Simona Halep
 | rowspan="2" |6–3, 7–6<sup>(7–5)</sup>
 | style="background:#ddfddd"| {{#invoke:flag|icon|TPE}} [[Chan Hao-ching]]*
@@ -175,20 +175,20 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |{{#invoke:flag|icon|TPE}} [[Latisha Chan|Chan Latisha]]
 |-
 ! scope="row" | '''[[2015 Wuhan Open|Wuhan]]'''
-{{small|[[2015 Wuhan Open – Singles|Singles]] – [[2015 Wuhan Open – Doubles|Doubles]]}}
+<small>[[2015 Wuhan Open – Singles|Singles]] – [[2015 Wuhan Open – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|USA}} Venus Williams
 |{{#invoke:flag|icon|ESP}} Garbiñe Muguruza
 |6–3, 3–0, ret.
-|{{#invoke:flag|icon|SUI}} Martina Hingis <br /> {{#invoke:flag|icon|IND}} Sania Mirza
+|{{#invoke:flag|icon|SUI}} Martina Hingis <small>(3)</small> <br /> {{#invoke:flag|icon|IND}} Sania Mirza <small>(3)</small>
 |{{#invoke:flag|icon|ROU}} [[Irina-Camelia Begu]] <br /> {{#invoke:flag|icon|ROU}} [[Monica Niculescu]]
 |6–2, 6–3
 |-
 ! scope="row" | '''[[2015 China Open (tennis)|Beijing]]'''
-{{small|[[2015 China Open – Women's singles|Singles]] – [[2015 China Open – Women's doubles|Doubles]]}}
+<small>[[2015 China Open – Women's singles|Singles]] – [[2015 China Open – Women's doubles|Doubles]]</small>
 |style="background:#ddfddd"| {{#invoke:flag|icon|ESP}} [[Garbiñe Muguruza]]*
 |{{#invoke:flag|icon|SUI}} [[Timea Bacsinszky]]
 |7–5, 6–4
-|{{#invoke:flag|icon|SUI}} Martina Hingis <br /> {{#invoke:flag|icon|IND}} Sania Mirza
+|{{#invoke:flag|icon|SUI}} Martina Hingis <small>(4)</small> <br /> {{#invoke:flag|icon|IND}} Sania Mirza <small>(4)</small>
 |{{#invoke:flag|icon|TPE}} Chan Hao-ching <br /> {{#invoke:flag|icon|TPE}} Chan Latisha
 |6–7<sup>(9–11)</sup>, 6–1, [10–8]
 |}

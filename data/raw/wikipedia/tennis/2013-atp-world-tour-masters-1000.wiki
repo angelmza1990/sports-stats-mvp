@@ -93,7 +93,7 @@ The twenty-fourth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 ! scope="col" style="width:12em"| Runners-up
 ! scope="col" style="width:11em"| Score
 |-
-! scope="row"| {{nowrap|[[2013 BNP Paribas Open|'''Indian Wells''']]}}<br />{{small|[[2013 BNP Paribas Open – Men's singles|Singles]] – [[2013 BNP Paribas Open – Men's doubles|Doubles]]}}
+! scope="row"| {{nowrap|[[2013 BNP Paribas Open|'''Indian Wells''']]}}<br /><small>[[2013 BNP Paribas Open – Men's singles|Singles]] – [[2013 BNP Paribas Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|ARG}} Juan Martín del Potro
 |4–6, 6–3, 6–4
@@ -101,7 +101,7 @@ The twenty-fourth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|PHI}} [[Treat Huey]] <br /> {{#invoke:flag|icon|POL}} [[Jerzy Janowicz]]
 |6–3, 3–6, [10–6]
 |-
-! scope="row" rowspan=2|[[2013 Sony Open Tennis|'''Miami''']]<br />{{small|[[2013 Sony Open Tennis – Men's singles|Singles]] – [[2013 Sony Open Tennis – Men's doubles|Doubles]]}}
+! scope="row" rowspan=2|[[2013 Sony Open Tennis|'''Miami''']]<br /><small>[[2013 Sony Open Tennis – Men's singles|Singles]] – [[2013 Sony Open Tennis – Men's doubles|Doubles]]</small>
 | rowspan=2|{{#invoke:flag|icon|GBR}} Andy Murray
 | rowspan=2|{{#invoke:flag|icon|ESP}} [[David Ferrer]]
 | rowspan=2|2–6, 6–4, 7–6<sup>(7–1)</sup>
@@ -111,7 +111,7 @@ The twenty-fourth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |-
 |style="background:#ddfddd"|{{#invoke:flag|icon|NED}} [[Jean-Julien Rojer]]*
 |-
-! scope="row"| {{nowrap|[[2013 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br />{{small|[[2013 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2013 Monte-Carlo Rolex Masters – Doubles|Doubles]]}}
+! scope="row"| {{nowrap|[[2013 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br /><small>[[2013 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2013 Monte-Carlo Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} [[Novak Djokovic]]
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |6–2, 7–6<sup>(7–1)</sup>
@@ -119,7 +119,7 @@ The twenty-fourth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|USA}} Bob Bryan <br /> {{#invoke:flag|icon|USA}} Mike Bryan
 |4–6, 7–6<sup>(7–4)</sup>, [14–12]
 |-
-! scope="row"|[[2013 Mutua Madrid Open|'''Madrid''']]<br />{{small|[[2013 Mutua Madrid Open – Men's singles|Singles]] – [[2013 Mutua Madrid Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2013 Mutua Madrid Open|'''Madrid''']]<br /><small>[[2013 Mutua Madrid Open – Men's singles|Singles]] – [[2013 Mutua Madrid Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|SUI}} Stan Wawrinka
 |6–2, 6–4
@@ -127,7 +127,7 @@ The twenty-fourth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|AUT}} Alexander Peya <br /> {{#invoke:flag|icon|BRA}} Bruno Soares
 |6–2, 6–3
 |-
-! scope="row"|[[2013 Italian Open (tennis)|'''Rome''']]<br />{{small|[[2013 Italian Open – Men's singles|Singles]] – [[2013 Italian Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2013 Italian Open (tennis)|'''Rome''']]<br /><small>[[2013 Italian Open – Men's singles|Singles]] – [[2013 Italian Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |6–1, 6–3
@@ -135,7 +135,7 @@ The twenty-fourth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|IND}} Mahesh Bhupathi<br />{{#invoke:flag|icon|IND}} Rohan Bopanna
 |6–2, 6–3
 |-
-! scope="row"|[[2013 Rogers Cup|'''Montreal''']]<br />{{small|[[2013 Rogers Cup – Men's singles|Singles]] – [[2013 Rogers Cup – Men's doubles|Doubles]]}}
+! scope="row"|[[2013 Rogers Cup|'''Montreal''']]<br /><small>[[2013 Rogers Cup – Men's singles|Singles]] – [[2013 Rogers Cup – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|CAN}} [[Milos Raonic]]
 | 6–2, 6–2
@@ -143,7 +143,7 @@ The twenty-fourth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|GBR}} [[Colin Fleming]] <br /> {{#invoke:flag|icon|GBR}} [[Andy Murray]]
 | 6–4, 7–6<sup>(7–4)</sup>
 |-
-! scope="row"|[[2013 Western & Southern Open|'''Cincinnati''']]<br />{{small|[[2013 Western & Southern Open – Men's singles|Singles]] – [[2013 Western & Southern Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2013 Western & Southern Open|'''Cincinnati''']]<br /><small>[[2013 Western & Southern Open – Men's singles|Singles]] – [[2013 Western & Southern Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|USA}} John Isner
 | 7–6<sup>(10–8)</sup>, 7–6<sup>(7–3)</sup>
@@ -151,7 +151,7 @@ The twenty-fourth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|ESP}} Marcel Granollers <br /> {{#invoke:flag|icon|ESP}} Marc López
 | 6–4, 4–6, [10–4]
 |-
-! scope="row"|[[2013 Shanghai Rolex Masters|'''Shanghai''']]<br />{{small|[[2013 Shanghai Rolex Masters – Singles|Singles]] – [[2013 Shanghai Rolex Masters – Doubles|Doubles]]}}
+! scope="row"|[[2013 Shanghai Rolex Masters|'''Shanghai''']]<br /><small>[[2013 Shanghai Rolex Masters – Singles|Singles]] – [[2013 Shanghai Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|ARG}} Juan Martín del Potro
 | 6–1, 3–6, 7–6<sup>(7–3)</sup>
@@ -159,7 +159,7 @@ The twenty-fourth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|ESP}} [[David Marrero]] <br /> {{#invoke:flag|icon|ESP}} [[Fernando Verdasco]]
 | 7–6<sup>(7–2)</sup>, 6–7<sup>(6–8)</sup>, [10–2]
 |-
-! scope="row"|[[2013 BNP Paribas Masters|'''Paris''']]<br />{{small|[[2013 BNP Paribas Masters – Singles|Singles]] – [[2013 BNP Paribas Masters – Doubles|Doubles]]}}
+! scope="row"|[[2013 BNP Paribas Masters|'''Paris''']]<br /><small>[[2013 BNP Paribas Masters – Singles|Singles]] – [[2013 BNP Paribas Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|ESP}} David Ferrer
 | 7–5, 7–5
@@ -1318,7 +1318,7 @@ The twenty-fourth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 }}
 
 == See also ==
-* [[ATP Tour Masters 1000]]
+* [[ATP Masters 1000 tournaments]]
 * [[2013 ATP Tour]]
 * [[2013 WTA Premier Mandatory and Premier 5 tournaments]]
 * [[2013 WTA Tour]]

@@ -90,10 +90,10 @@ The twenty-first edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 ! scope="col" style="width:11em"| Runners-up
 ! scope="col" style="width:11em"| Score
 ! scope="col" style="width:11em"| Doubles champions
-! scope="col" style="width:11em"| Runners-up
+! scope="col" style="width:12em"| Runners-up
 ! scope="col" style="width:10em"| Score
 |-
-! rowspan="2" scope="row" | {{nowrap|[[2010 BNP Paribas Open|'''Indian Wells''']]}}<br />{{small|[[2010 BNP Paribas Open – Men's singles|Singles]] – [[2010 BNP Paribas Open – Men's doubles|Doubles]]}}
+! rowspan="2" scope="row" | {{nowrap|[[2010 BNP Paribas Open|'''Indian Wells''']]}}<br /><small>[[2010 BNP Paribas Open – Men's singles|Singles]] – [[2010 BNP Paribas Open – Men's doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" |{{#invoke:flag|icon|CRO}} [[Ivan Ljubičić]]*
 | rowspan="2" |{{#invoke:flag|icon|USA}} Andy Roddick
 | rowspan="2" |7–6<sup>(7–3)</sup>, 7–6<sup>(7–5)</sup>
@@ -103,7 +103,7 @@ The twenty-first edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |-
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |-
-! rowspan="2" scope="row" |[[2010 Sony Ericsson Open|'''Miami''']]<br />{{small|[[2010 Sony Ericsson Open – Men's singles|Singles]] – [[2010 Sony Ericsson Open – Men's doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2010 Sony Ericsson Open|'''Miami''']]<br /><small>[[2010 Sony Ericsson Open – Men's singles|Singles]] – [[2010 Sony Ericsson Open – Men's doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|USA}} Andy Roddick
 | rowspan="2" |{{#invoke:flag|icon|CZE}} Tomáš Berdych
 | rowspan="2" |7–5, 6–4
@@ -113,7 +113,7 @@ The twenty-first edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |-
 |{{#invoke:flag|icon|IND}} Leander Paes
 |-
-! scope="row" | {{nowrap|[[2010 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br />{{small|[[2010 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2010 Monte-Carlo Rolex Masters – Doubles|Doubles]]}}
+! scope="row" | {{nowrap|[[2010 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br /><small>[[2010 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2010 Monte-Carlo Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|ESP}} [[Fernando Verdasco]]
 |6–0, 6–1
@@ -121,7 +121,7 @@ The twenty-first edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|IND}} Mahesh Bhupathi <br /> {{#invoke:flag|icon|BLR}} Max Mirnyi
 |6–3, 2–0 ret.
 |-
-! scope="row" |[[2010 Italian Open (tennis)|'''Rome''']]<br />{{small|[[2010 Italian Open – Men's singles|Singles]] – [[2010 Italian Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2010 Italian Open (tennis)|'''Rome''']]<br /><small>[[2010 Italian Open – Men's singles|Singles]] – [[2010 Italian Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|ESP}} [[David Ferrer]]
 |7–5, 6–2
@@ -129,7 +129,7 @@ The twenty-first edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|USA}} [[John Isner]] <br /> {{#invoke:flag|icon|USA}} [[Sam Querrey]]
 |6–2, 6–3
 |-
-! scope="row" |[[2010 Mutua Madrileña Madrid Open|'''Madrid''']]<br />{{small|[[2010 Mutua Madrileña Madrid Open – Men's singles|Singles]] – [[2010 Mutua Madrileña Madrid Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2010 Mutua Madrileña Madrid Open|'''Madrid''']]<br /><small>[[2010 Mutua Madrileña Madrid Open – Men's singles|Singles]] – [[2010 Mutua Madrileña Madrid Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |6–4, 7–6<sup>(7–5)</sup>
@@ -137,7 +137,7 @@ The twenty-first edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|CAN}} Daniel Nestor <br /> {{#invoke:flag|icon|SRB|2004}} Nenad Zimonjić
 |6–3, 6–4
 |-
-! scope="row" |[[2010 Rogers Cup|'''Toronto''']]<br />{{small|[[2010 Rogers Cup – Men's singles|Singles]] – [[2010 Rogers Cup – Men's doubles|Doubles]]}}
+! scope="row" |[[2010 Rogers Cup|'''Toronto''']]<br /><small>[[2010 Rogers Cup – Men's singles|Singles]] – [[2010 Rogers Cup – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|GBR}} Andy Murray
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |7–5, 7–5
@@ -145,7 +145,7 @@ The twenty-first edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|FRA}} Julien Benneteau<br />{{#invoke:flag|icon|FRA}} Michaël Llodra
 |7–5, 6–3
 |-
-! scope="row" |[[2010 Western & Southern Financial Group Masters and Women's Open|'''Cincinnati''']]<br />{{small|[[2010 Western & Southern Financial Group Masters – Singles|Singles]] – [[2010 Western & Southern Financial Group Masters – Doubles|Doubles]]}}
+! scope="row" |[[2010 Western & Southern Financial Group Masters and Women's Open|'''Cincinnati''']]<br /><small>[[2010 Western & Southern Financial Group Masters – Singles|Singles]] – [[2010 Western & Southern Financial Group Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |{{#invoke:flag|icon|USA}} Mardy Fish
 |6–7<sup>(5–7)</sup>, 7–6<sup>(7–1)</sup>, 6–4
@@ -153,7 +153,7 @@ The twenty-first edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|IND}} Mahesh Bhupathi <br /> {{#invoke:flag|icon|BLR}} Max Mirnyi
 |6–3, 6–4.
 |-
-! rowspan="2" scope="row" |[[2010 Shanghai Rolex Masters|'''Shanghai''']]<br />{{small|[[2010 Shanghai Rolex Masters – Singles|Singles]] – [[2010 Shanghai Rolex Masters – Doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2010 Shanghai Rolex Masters|'''Shanghai''']]<br /><small>[[2010 Shanghai Rolex Masters – Singles|Singles]] – [[2010 Shanghai Rolex Masters – Doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|GBR}} Andy Murray
 | rowspan="2" |{{#invoke:flag|icon|SUI}} Roger Federer
 | rowspan="2" |6–3, 6–2
@@ -163,7 +163,7 @@ The twenty-first edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |-
 |{{#invoke:flag|icon|IND}} Leander Paes
 |-
-! scope="row" |[[2010 BNP Paribas Masters|'''Paris''']]<br />{{small|[[2010 BNP Paribas Masters – Singles|Singles]] – [[2010 BNP Paribas Masters – Doubles|Doubles]]}}
+! scope="row" |[[2010 BNP Paribas Masters|'''Paris''']]<br /><small>[[2010 BNP Paribas Masters – Singles|Singles]] – [[2010 BNP Paribas Masters – Doubles|Doubles]]</small>
 | style="background:#ddfddd" |{{#invoke:flag|icon|SWE}} [[Robin Söderling]]*
 |{{#invoke:flag|icon|FRA}} Gaël Monfils
 |6–1, 7–6<sup>(7–1)</sup>

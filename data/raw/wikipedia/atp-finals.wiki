@@ -12,10 +12,10 @@
 | surface   = [[Tennis court#Indoor courts|Hard (indoor)]]
 | draw      = 8 singles / 8 doubles
 | website   = [https://www.nittoatpfinals.com/ nittoatpfinals.com]
-| prize money      = {{US$|15,250,000|link=yes}} (2024)
-| completed event  = [[2025 ATP Finals|2025]]
-| singles          = {{flagicon|ITA}} [[Jannik Sinner]]
-| doubles          = {{flagicon|FIN}} [[Harri Heliövaara]]<br />{{flagicon|GBR}} [[Henry Patten]]
+| prize money      = {{US$|15,750,000|link=yes}} (2026)
+| completed event  = [[2026 ATP Finals|2026]]
+| singles          = {{flagicon|ESP}} [[Carlos Alcaraz]]
+| doubles          = {{flagicon|FRA}} [[Théo Arribagé]]<br />{{flagicon|FRA}} [[Albano Olivetti]]
 }}
 {{ATP sidebar navbox}}
 The '''ATP Finals''' is the season-ending championship of the [[ATP Tour]]. It is the most significant [[tennis]] event in the men's annual calendar after the four [[Grand Slam (tennis)#Tournaments|majors]], as it features the top eight singles players and top eight doubles teams based on their results throughout the season. The eighth spot is reserved, if needed, for a player or team who won a major in the current year and is ranked from ninth to twentieth.
@@ -24,7 +24,7 @@ The tournament uses a unique format not seen in other ATP Tour events, where the
 
 The tournament was first held in 1970, shortly after the beginning of the [[Open Era]]. [[Novak Djokovic]] holds the record for the most singles titles with seven, while the doubles team of [[Peter Fleming (tennis)|Peter Fleming]] and [[John McEnroe]] jointly hold the record for the most doubles titles with seven (which the pair won consecutively, 1978–1984).
 
-In the tournament's current format, the champion can earn a maximum of 1,500 ranking points, if they win the event after going undefeated in the round-robin stage. By winning the [[2025 ATP Finals – Singles|2025]] title, [[Jannik Sinner|Sinner]] earned a record $5,071,000, the highest payout for an ATP tournament winner in tennis.<ref>{{Cite web |title=Jannik Sinner defeats great rival Carlos Alcaraz for Nitto ATP Finals title {{!}} ATP Tour {{!}} Tennis |url=http://www.atptour.com/en/news/alcaraz-sinner-nitto-atp-finals-2025-sunday |access-date=2025-11-25 |website=ATP Tour |language=en}}</ref>
+In the tournament's current format, the champion can earn a maximum of 1,500 ranking points, if they win the event after going undefeated in the round-robin stage. By winning the [[2026 ATP Finals – Singles|2026]] title, [[Carlos Alcaraz]] earned a record $5,171,000, the highest payout for an ATP tournament winner in tennis.<ref>{{Cite web |title=Alcaraz dispatches Zverev, wins first Nitto ATP Finals crown {{!}} ATP Tour {{!}} Tennis |url=https://www.atptour.com/en/news/alcaraz-zverev-nitto-atp-finals-2026-sunday |access-date=2026-11-22 |website=ATP Tour |language=en}}</ref>
 {{TOC limit|3}}
 
 == Tournament ==
@@ -195,8 +195,9 @@ ATP Finals is the men's premier indoor event of the season, only in three editio
 |}
 {{notelist}}
 
+
 == Prize money, ranking points and trophies ==
-The 2025 ATP Finals offers the following  prize money pool of $15,550,000.<ref>{{cite web |date=2025-11-01 |title=ATP Finals Prize Money Breakdown 2025 |url=https://www.perfect-tennis.com/prize-money/atp-finals/ |access-date=2025-11-16 |website=Perfect Tennis}}</ref> The tournament rewards the following points and prize money, per victory (Doubles' prize money is per team): (Doubles' prize money is per team):<ref>{{Cite web |title=Points And Prize Money {{!}} Nitto ATP Finals {{!}} Tennis |url=https://www.nittoatpfinals.com/en/event/points-and-prize-money |website=Nitto ATP Finals}}</ref>
+The 2026 ATP Finals offers a total prize money pool of $15,750,000, an increase of 1.61% compared to 2025.<ref>{{cite web |title=Nitto ATP Finals Prize Money 2026 |url=https://www.perfect-tennis.com/prize-money/atp-finals/ |website=Perfect Tennis |archive-url=https://web.archive.org/web/20261027134157/https://www.perfect-tennis.com/prize-money/atp-finals/ |archive-date=27 October 2026 |url-status=live |access-date=2026-10-27}}</ref> The tournament awards the following ranking points and prize money, per victory (doubles prize money is per team):<ref>{{Cite web |title=Points And Prize Money {{!}} Nitto ATP Finals {{!}} Tennis |url=https://www.nittoatpfinals.com/en/event/points-and-prize-money |website=Nitto ATP Finals |access-date=2026-10-27}}</ref>
 {| class="wikitable" style="text-align:center"
 ! width=150|Stage
 ! width=150|Singles
@@ -204,36 +205,36 @@ The 2025 ATP Finals offers the following  prize money pool of $15,550,000.<ref>{
 ! width=120|Points
 |-
 !Final win
-|$2,367,000
+|$2,412,000
 |$356,800
 |500
 |-
 !Semi-final win
-|$1,183,500
+|$1,206,000
 |$178,500
 |400
 |-
 !Round-robin match win
-|$396,500
+|$405,000
 |$96,600
 |200
 |-
 !Participation fee
-|3 matches = $331,000 <br /> 2 matches = $248,250 <br /> 1 match = $165,500
+|3 matches = $338,000 <br /> 2 matches = $253,000 <br /> 1 match = $169,000
 |3 matches = $134,200 <br /> 2 matches = $100,650 <br /> 1 match = $67,100
 |{{n/a}}
 |-
 !Alternates
-|$155,000
+|$156,000
 |$51,700
 |{{n/a}}
 |-
 !Undefeated Champion
-|$5,071,000 
+|$5,171,000
 |$959,300
 |1,500
 |}
-* An undefeated champion would earn the maximum 1,500 points, and $5,071,000 in singles or $959,300 in doubles.
+* An undefeated champion would earn the maximum 1,500 points, and $5,171,000 in singles or $959,300 in doubles.
 
 ==Past finals==
 ===Singles===
@@ -351,6 +352,8 @@ The 2025 ATP Finals offers the following  prize money pool of $15,550,000.<ref>{
 |[[2024 ATP Finals – Singles|2024]] || {{flagicon|ITA}} [[Jannik Sinner]] {{small|(1/2)}} || {{flagicon|USA}} [[Taylor Fritz]] || 6–4, 6–4
 |-
 |[[2025 ATP Finals – Singles|2025]] || {{flagicon|ITA}} [[Jannik Sinner]] {{small|(2/2)}} || {{flagicon|ESP}} [[Carlos Alcaraz]] || 7–6<sup>(7–4)</sup>, 7–5
+|-
+|[[2026 ATP Finals – Singles|2026]] ||  {{flagicon|ESP}} [[Carlos Alcaraz]] {{small|(1/1)}}|| {{flagicon|GER}} [[Alexander Zverev]] || 6–2, 7–6<sup>(9–7)</sup>
 |}
 
 ===Doubles===
@@ -462,10 +465,12 @@ The 2025 ATP Finals offers the following  prize money pool of $15,550,000.<ref>{
 |[[2024 ATP Finals – Doubles|2024]] || {{flagicon|GER}} [[Kevin Krawietz]] {{small|(1/1)}}<br />{{flagicon|GER}} [[Tim Pütz]] {{small|(1/1)}} || {{flagicon|ESA}} [[Marcelo Arévalo]]<br />{{flagicon|CRO}} [[Mate Pavić]]||7–6<sup>(7–5)</sup>, 7–6<sup>(8–6)</sup>
 |-
 |[[2025 ATP Finals – Doubles|2025]] || {{flagicon|FIN}} [[Harri Heliövaara]] {{small|(1/1)}}<br />{{flagicon|GBR}} [[Henry Patten]] {{small|(1/1)}} || {{flagicon|GBR}} [[Joe Salisbury]]<br />{{flagicon|GBR}} [[Neal Skupski]]||7–5, 6–3
+|-
+|[[2026 ATP Finals – Doubles|2026]] || {{flagicon|FRA}} [[Théo Arribagé]] {{small|(1/1)}}<br />{{flagicon|FRA}} [[Albano Olivetti]] {{small|(1/1)}}|| {{flagicon|ESA}} [[Marcelo Arévalo]]<br />{{flagicon|CRO}} [[Mate Pavić]]||3–6, 7–6<sup>(7–2)</sup>, [10–6]
 |}
 
 == List of champions ==
-* Current through [[2025 ATP Finals]] (active players in '''bold''').
+* Current through [[2026 ATP Finals]] (active players in '''bold''').
 {|
 |-style="vertical-align:top"
 |
@@ -502,7 +507,7 @@ The 2025 ATP Finals offers the following  prize money pool of $15,550,000.<ref>{
 |{{flagicon|ITA}} '''[[Jannik Sinner]]'''
 |2024–25
 |-
-! rowspan="15" |1
+! rowspan="16" |1
 |{{flagicon|USA}} [[Stan Smith]]
 |1970
 |-
@@ -547,6 +552,9 @@ The 2025 ATP Finals offers the following  prize money pool of $15,550,000.<ref>{
 |-
 |{{flagicon|RUS}} '''[[Daniil Medvedev]]'''
 |2020
+|-
+|{{flagicon|ESP}} '''[[Carlos Alcaraz]]'''
+|2026
 |}
 {{col-break|gap=2.5em}}
 
@@ -613,7 +621,7 @@ The 2025 ATP Finals offers the following  prize money pool of $15,550,000.<ref>{
 }}
 |2022–23
 |-
-! rowspan="24" |1
+! rowspan="25" |1
 |{{plainlist|
 * {{flagicon|USA}} [[Stan Smith]]
 * {{flagicon|USA}} [[Arthur Ashe]]
@@ -729,6 +737,12 @@ The 2025 ATP Finals offers the following  prize money pool of $15,550,000.<ref>{
 * {{flagicon|GBR}} '''[[Henry Patten]]'''
 }}
 |2025
+|-
+|{{plainlist|
+* {{flagicon|FRA}} '''[[Théo Arribagé]]'''
+* {{flagicon|FRA}} '''[[Albano Olivetti]]'''
+}}
+|2026
 |}
 |}
 
@@ -984,6 +998,8 @@ The 2025 ATP Finals offers the following  prize money pool of $15,550,000.<ref>{
 | style="text-align:left;"|{{flagicon|GRE}} [[Stefanos Tsitsipas]]||[[2018 Next Gen ATP Finals|2018]]||[[2019 ATP Finals|2019]]
 |-
 | style="text-align:left;"|{{flagicon|ITA}} [[Jannik Sinner]]||[[2019 Next Gen ATP Finals|2019]]||[[2024 ATP Finals|2024]]
+|-
+| style="text-align:left;"|{{flagicon|ESP}} [[Carlos Alcaraz]]||[[2021 Next Gen ATP Finals|2021]]||[[2026 ATP Finals|2026]]
 |}
 
 ==Titles by country==
@@ -998,9 +1014,9 @@ The 2025 ATP Finals offers the following  prize money pool of $15,550,000.<ref>{
 }}
 {{tb2|4|width=80|text-size=100|text={{nowrap|{{flagcountry|ROU}} {{small|(1 player)}}}}
 }}
-{{tb2|3|width=60|text-size=100|text={{nowrap|{{flagcountry|SWE}} {{small|(2 players)}}}}
+{{tb2|3|width=60|text-size=100|text={{nowrap|{{flagcountry|ESP}} {{small|(3 players)}}, {{flagcountry|SWE}} {{small|(2 players)}}}}
 }}
-{{tb2|2|width=40|text-size=100|text={{nowrap|{{flagcountry|ARG}} {{small|(2 players)}}, {{flagcountry|AUS}} {{small|(1 player)}}, {{flagcountry|ITA}} {{small|(1 player)}}, {{flagcountry|RUS}} {{small|(2 players)}}, {{flagcountry|ESP}} {{small|(2 players)}}}}
+{{tb2|2|width=40|text-size=100|text={{nowrap|{{flagcountry|ARG}} {{small|(2 players)}}, {{flagcountry|AUS}} {{small|(1 player)}}, {{flagcountry|ITA}} {{small|(1 player)}}, {{flagcountry|RUS}} {{small|(2 players)}}}}
 }}
 {{tb2|1|width=20|text-size=100|text={{nowrap|{{flagcountry|BRA}}, {{flagcountry|BUL}}, {{flagcountry|GBR}}, {{flagcountry|GRE}}}}
 }}
@@ -1011,9 +1027,9 @@ The 2025 ATP Finals offers the following  prize money pool of $15,550,000.<ref>{
 }}
 {{tb2|6|width=120|text-size=100|text={{nowrap|{{flagcountry|CAN}} {{small|(3 players)}}}}
 }}
-{{tb2|5|width=100|text-size=100|text={{nowrap|{{flagcountry|AUS}} {{small|(4 players)}}, {{flagcountry|SWE}} {{small|(4 players)}}}}
+{{tb2|5|width=100|text-size=100|text={{nowrap|{{flagcountry|AUS}} {{small|(4 players)}}, {{flagcountry|FRA}} {{small|(7 players)}}, {{flagcountry|SWE}} {{small|(4 players)}}}}
 }}
-{{tb2|4|width=80|text-size=100|text={{nowrap|{{flagcountry|FRA}} {{small|(5 players)}}, {{flagcountry|NED}} {{small|(4 players)}}}}
+{{tb2|4|width=80|text-size=100|text={{nowrap|{{flagcountry|NED}} {{small|(4 players)}}}}
 }}
 {{tb2|3|width=60|text-size=100|text={{nowrap|{{flagcountry|FIN}} {{small|(2 players)}}, {{flagcountry|GBR}} {{small|(2 players)}}, {{flagcountry|RSA}} {{small|(4 players)}}, {{flagcountry|ESP}} {{small|(6 players)}}}}
 }}

@@ -91,10 +91,10 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 ! scope="col" style="width:11em"| Runners-up
 ! scope="col" style="width:11em"| Score
 ! scope="col" style="width:11em"| Doubles champions
-! scope="col" style="width:12em"| Runners-up
+! scope="col" style="width:13em"| Runners-up
 ! scope="col" style="width:10em"| Score
 |-
-! scope="row"| {{nowrap|[[2014 BNP Paribas Open|'''Indian Wells''']]}}<br />{{small|[[2014 BNP Paribas Open – Men's singles|Singles]] – [[2014 BNP Paribas Open – Men's doubles|Doubles]]}}
+! scope="row"| {{nowrap|[[2014 BNP Paribas Open|'''Indian Wells''']]}}<br /><small>[[2014 BNP Paribas Open – Men's singles|Singles]] – [[2014 BNP Paribas Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |3–6, 6–3, 7–6<sup>(7–3)</sup>
@@ -102,7 +102,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|AUT}} Alexander Peya <br /> {{#invoke:flag|icon|BRA}} Bruno Soares
 |6–4, 6–3
 |-
-! scope="row"|[[2014 Sony Open Tennis|'''Miami''']]<br />{{small|[[2014 Sony Open Tennis – Men's singles|Singles]] – [[2014 Sony Open Tennis – Men's doubles|Doubles]]}}
+! scope="row"|[[2014 Sony Open Tennis|'''Miami''']]<br /><small>[[2014 Sony Open Tennis – Men's singles|Singles]] – [[2014 Sony Open Tennis – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |6–3, 6–3
@@ -110,7 +110,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|COL}} [[Juan Sebastián Cabal]] <br /> {{#invoke:flag|icon|COL}} [[Robert Farah Maksoud|Robert Farah]]
 | 7–6<sup>(10–8)</sup>, 6–4
 |-
-! scope="row"| {{nowrap|[[2014 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br />{{small|[[2014 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2014 Monte-Carlo Rolex Masters – Doubles|Doubles]]}}
+! scope="row"| {{nowrap|[[2014 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br /><small>[[2014 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2014 Monte-Carlo Rolex Masters – Doubles|Doubles]]</small>
 |style="background:#ddfddd"|{{#invoke:flag|icon|SUI}} [[Stan Wawrinka]]*
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |4–6, 7–6<sup>(7–5)</sup>, 6–2
@@ -118,7 +118,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|CRO}} [[Ivan Dodig]] <br /> {{#invoke:flag|icon|BRA}} [[Marcelo Melo]]
 |6–3, 3–6, [10–8]
 |-
-! scope="row"|[[2014 Mutua Madrid Open|'''Madrid''']]<br />{{small|[[2014 Mutua Madrid Open – Men's singles|Singles]] – [[2014 Mutua Madrid Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2014 Mutua Madrid Open|'''Madrid''']]<br /><small>[[2014 Mutua Madrid Open – Men's singles|Singles]] – [[2014 Mutua Madrid Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|JPN}} [[Kei Nishikori]]
 |2–6, 6–4, 3–0 ret.
@@ -126,7 +126,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|USA}} Bob Bryan <br />{{#invoke:flag|icon|USA}} Mike Bryan
 |6–4, 6–2
 |-
-! scope="row"|[[2014 Italian Open (tennis)|'''Rome''']]<br />{{small|[[2014 Italian Open – Men's singles|Singles]] – [[2014 Italian Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2014 Italian Open (tennis)|'''Rome''']]<br /><small>[[2014 Italian Open – Men's singles|Singles]] – [[2014 Italian Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |4–6, 6–3, 6–3
@@ -134,7 +134,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|NED}} [[Robin Haase]] <br /> {{#invoke:flag|icon|ESP}} [[Feliciano López]]
 |6–4, 7–6<sup>(7–2)</sup>
 |-
-! scope="row"|[[2014 Rogers Cup|'''Toronto''']]<br />{{small|[[2014 Rogers Cup – Men's singles|Singles]] – [[2014 Rogers Cup – Men's doubles|Doubles]]}}
+! scope="row"|[[2014 Rogers Cup|'''Toronto''']]<br /><small>[[2014 Rogers Cup – Men's singles|Singles]] – [[2014 Rogers Cup – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|FRA}} Jo-Wilfried Tsonga
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |7–5, 7–6<sup>(7–3)</sup>
@@ -142,7 +142,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|CRO}} Ivan Dodig <br /> {{#invoke:flag|icon|BRA}} Marcelo Melo
 |6–4, 6–3
 |-
-! scope="row"|[[2014 Western & Southern Open|'''Cincinnati''']]<br />{{small|[[2014 Western & Southern Open – Men's singles|Singles]] – [[2014 Western & Southern Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2014 Western & Southern Open|'''Cincinnati''']]<br /><small>[[2014 Western & Southern Open – Men's singles|Singles]] – [[2014 Western & Southern Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |{{#invoke:flag|icon|ESP}} David Ferrer
 |6–3, 1–6, 6–2
@@ -150,7 +150,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|CAN}} [[Vasek Pospisil]] <br /> {{#invoke:flag|icon|USA}} Jack Sock
 |6–3, 6–2
 |-
-! scope="row"|[[2014 Shanghai Rolex Masters|'''Shanghai''']]<br />{{small|[[2014 Shanghai Rolex Masters – Singles|Singles]] – [[2014 Shanghai Rolex Masters – Doubles|Doubles]]}}
+! scope="row"|[[2014 Shanghai Rolex Masters|'''Shanghai''']]<br /><small>[[2014 Shanghai Rolex Masters – Singles|Singles]] – [[2014 Shanghai Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |{{#invoke:flag|icon|FRA}} Gilles Simon
 |7–6<sup>(8–6)</sup>, 7–6<sup>(7–2)</sup>
@@ -158,7 +158,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|FRA}} Julien Benneteau <br /> {{#invoke:flag|icon|FRA}} [[Edouard Roger-Vasselin]]
 |6–3, 7–6<sup>(7–3)</sup>
 |-
-! scope="row"|[[2014 BNP Paribas Masters|'''Paris''']]<br />{{small|[[2014 BNP Paribas Masters – Singles|Singles]] – [[2014 BNP Paribas Masters – Doubles|Doubles]]}}
+! scope="row"|[[2014 BNP Paribas Masters|'''Paris''']]<br /><small>[[2014 BNP Paribas Masters – Singles|Singles]] – [[2014 BNP Paribas Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|CAN}} Milos Raonic
 | 6–2, 6–3
@@ -353,7 +353,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 
 |RD2-seed1=1
 |RD2-team1='''{{flagicon|ESP}} [[Rafael Nadal]]'''
-|RD2-score1-1={{small|w/o}}
+|RD2-score1-1=<small>w/o</small>
 |RD2-score1-2=
 |RD2-score1-3=
 |RD2-seed2=7
@@ -369,7 +369,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |RD2-score3-3=
 |RD2-seed4=2
 |RD2-team4='''{{flagicon|SRB}} [[Novak Djokovic]]'''
-|RD2-score4-1={{small|w/o}}
+|RD2-score4-1=<small>w/o</small>
 |RD2-score4-2=
 |RD2-score4-3=
 
@@ -462,7 +462,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 | RD1-score5-1='''6'''
 | RD1-score5-2=6<sup>6</sup>
 | RD1-score5-3=1
-| RD1-seed6={{small|4/WC}}
+| RD1-seed6=<small>4/WC</small>
 | RD1-team6='''{{flagicon|SUI}} [[Roger Federer]]'''
 | RD1-score6-1=2
 | RD1-score6-2='''7<sup>8</sup>'''
@@ -490,7 +490,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 | RD2-score2-2='''7<sup>7</sup>'''
 | RD2-score2-3=
 
-| RD2-seed3={{small|4/WC}}
+| RD2-seed3=<small>4/WC</small>
 | RD2-team3='''{{flagicon|SUI}} [[Roger Federer]]'''
 | RD2-score3-1='''7'''
 | RD2-score3-2='''6'''
@@ -506,7 +506,7 @@ The twenty-fifth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 | RD3-score1-1=4
 | RD3-score1-2='''7<sup>7</sup>'''
 | RD3-score1-3='''6'''
-| RD3-seed2={{small|4/WC}}
+| RD3-seed2=<small>4/WC</small>
 | RD3-team2={{flagicon|SUI}} [[Roger Federer]]
 | RD3-score2-1='''6'''
 | RD3-score2-2=6<sup>5</sup>

@@ -70,7 +70,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
 ! scope="col"| Runners-up
@@ -80,7 +80,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[1991 Virginia Slims of Florida|Boca Raton]]'''
-{{small|[[1991 Virginia Slims of Florida – Singles|Singles]] – [[1991 Virginia Slims of Florida – Doubles|Doubles]]}}
+<small>[[1991 Virginia Slims of Florida – Singles|Singles]] – [[1991 Virginia Slims of Florida – Doubles|Doubles]]</small>
 |style="background:#ddfddd"| {{#invoke:flag|icon|ARG}} [[Gabriela Sabatini]]*
 |{{#invoke:flag|icon|GER}} [[Steffi Graf]]
 |6–4, 7–6<sup>(8–6)</sup>
@@ -89,7 +89,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–4, 7–6 <sup>(7–3)</sup>
 |-
 ! scope="row" | '''[[1991 Lipton International Players Championships|Miami]]'''
-{{small|[[1991 Lipton International Players Championships – Women's singles|Singles]] – [[1991 Lipton International Players Championships – Women's doubles|Doubles]]}}
+<small>[[1991 Lipton International Players Championships – Women's singles|Singles]] – [[1991 Lipton International Players Championships – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|YUG}} [[Monica Seles]]
 |{{#invoke:flag|icon|ARG}} Gabriela Sabatini
 |6–3, 7–5
@@ -98,7 +98,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–4, 6–3
 |-
 ! scope="row" rowspan=2| '''[[1991 Family Circle Cup|Hilton Head]]'''
-{{small|[[1991 Family Circle Cup – Singles|Singles]] – [[1991 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[1991 Family Circle Cup – Singles|Singles]] – [[1991 Family Circle Cup – Doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|ARG}} Gabriela Sabatini
 | rowspan="2" |{{#invoke:flag|icon|URS}} [[Leila Meskhi]]
 | rowspan="2" |6–1, 6–1
@@ -109,7 +109,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|URS}} Natasha Zvereva
 |-
 ! scope="row" rowspan=2| '''[[1991 Italian Open (tennis)|Rome]]'''
-{{small|[[1991 Italian Open – Women's singles|Singles]] – [[1991 Italian Open – Women's doubles|Doubles]]}}
+<small>[[1991 Italian Open – Women's singles|Singles]] – [[1991 Italian Open – Women's doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|ARG}} Gabriela Sabatini
 | rowspan="2" |{{#invoke:flag|icon|YUG}} Monica Seles
 | rowspan="2" |6–3, 6–2
@@ -120,7 +120,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|YUG}} [[Monica Seles]]
 |-
 ! scope="row" | '''[[1991 Lufthansa Cup German Open|Berlin]]'''
-{{small|[[1991 Lufthansa Cup German Open – Singles|Singles]] – [[1991 Lufthansa Cup German Open – Doubles|Doubles]]}}
+<small>[[1991 Lufthansa Cup German Open – Singles|Singles]] – [[1991 Lufthansa Cup German Open – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|GER}} Steffi Graf
 |{{#invoke:flag|icon|ESP}} [[Arantxa Sánchez Vicario]]
 |6–3, 4–6, 7–6<sup>(8–6)</sup>
@@ -129,7 +129,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 6–3
 |-
 ! scope="row" | '''[[1991 Canadian Open (tennis)|Toronto]]'''
-{{small|[[1991 Canadian Open – Women's singles|Singles]] – [[1991 Canadian Open – Women's doubles|Doubles]]}}
+<small>[[1991 Canadian Open – Women's singles|Singles]] – [[1991 Canadian Open – Women's doubles|Doubles]]</small>
 |style="background:#ddfddd"| {{#invoke:flag|icon|USA}} [[Jennifer Capriati]]*
 |{{#invoke:flag|icon|BUL}} [[Katerina Maleeva]]
 |6–2, 6–3

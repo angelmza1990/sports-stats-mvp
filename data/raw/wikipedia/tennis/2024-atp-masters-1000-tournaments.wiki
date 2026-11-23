@@ -101,7 +101,7 @@ The '''2024 ATP Tour Masters 1000''' is the thirty-fifth edition of the [[ATP 10
 ! scope="col" style="width:12em"| Runners-up
 ! scope="col" style="width:10em"| Score
 |-
-!scope="row" |{{nowrap|[[2024 BNP Paribas Open|'''Indian Wells Open''']]}} <br /> {{small|[[2024 BNP Paribas Open – Men's singles|Singles]] – [[2024 BNP Paribas Open – Men's doubles|Doubles]]}}
+!scope="row" |{{nowrap|[[2024 BNP Paribas Open|'''Indian Wells Open''']]}} <br /> <small>[[2024 BNP Paribas Open – Men's singles|Singles]] – [[2024 BNP Paribas Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} [[Carlos Alcaraz]]
 |{{flagg|}} [[Daniil Medvedev]]
 |7–6<sup>(7–5)</sup>, 6–1
@@ -109,7 +109,7 @@ The '''2024 ATP Tour Masters 1000''' is the thirty-fifth edition of the [[ATP 10
 |{{#invoke:flag|icon|ESP}} [[Marcel Granollers]]<br />{{#invoke:flag|icon|ARG}} [[Horacio Zeballos]]
 |7–6<sup>(7–2)</sup>, 7–6<sup>(7–4)</sup>
 |-
-! scope="row" |[[2024 Miami Open|'''Miami Open''']] <br /> {{small|[[2024 Miami Open – Men's singles|Singles]] – [[2024 Miami Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2024 Miami Open|'''Miami Open''']] <br /> <small>[[2024 Miami Open – Men's singles|Singles]] – [[2024 Miami Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ITA}} [[Jannik Sinner]]
 |{{#invoke:flag|icon|BUL}} [[Grigor Dimitrov]]
 |6–3, 6–1
@@ -117,7 +117,7 @@ The '''2024 ATP Tour Masters 1000''' is the thirty-fifth edition of the [[ATP 10
 |{{#invoke:flag|icon|CRO}} [[Ivan Dodig]] <br />{{#invoke:flag|icon|USA}} [[Austin Krajicek]]
 |6–7<sup>(3–7)</sup>, 6–3, [10–6]
 |-
-! scope="row" |{{nowrap|[[2024 Monte-Carlo Masters|'''Monte-Carlo Masters''']]}} <br /> {{small|[[2024 Monte-Carlo Masters – Singles|Singles]] – [[2024 Monte-Carlo Masters – Doubles|Doubles]]}}
+! scope="row" |{{nowrap|[[2024 Monte-Carlo Masters|'''Monte-Carlo Masters''']]}} <br /> <small>[[2024 Monte-Carlo Masters – Singles|Singles]] – [[2024 Monte-Carlo Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|GRE}} [[Stefanos Tsitsipas]]
 |{{#invoke:flag|icon|NOR}} [[Casper Ruud]]
 |6–1, 6–4
@@ -125,7 +125,7 @@ The '''2024 ATP Tour Masters 1000''' is the thirty-fifth edition of the [[ATP 10
 |{{#invoke:flag|icon|BRA}} [[Marcelo Melo]]<br />{{#invoke:flag|icon|GER}} [[Alexander Zverev]]
 |5–7, 6–3, [10–5]
 |-
-! scope="row" |[[2024 Mutua Madrid Open|'''Madrid Open''']] <br /> {{small|[[2024 Mutua Madrid Open – Men's singles|Singles]] – [[2024 Mutua Madrid Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2024 Mutua Madrid Open|'''Madrid Open''']] <br /> <small>[[2024 Mutua Madrid Open – Men's singles|Singles]] – [[2024 Mutua Madrid Open – Men's doubles|Doubles]]</small>
 |{{flagg|}} [[Andrey Rublev]]
 |{{#invoke:flag|icon|CAN}} [[Félix Auger-Aliassime]]
 |4–6, 7–5, 7–5
@@ -133,7 +133,7 @@ The '''2024 ATP Tour Masters 1000''' is the thirty-fifth edition of the [[ATP 10
 |{{#invoke:flag|icon|URU}} [[Ariel Behar]]<br />{{#invoke:flag|icon|CZE}} [[Adam Pavlásek]]
 |6–3, 7–6<sup>(9–7)</sup>
 |-
-! scope="row" |[[2024 Italian Open (tennis)|'''Italian Open''']] <br /> {{small|[[2024 Italian Open – Men's singles|Singles]] – [[2024 Italian Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2024 Italian Open (tennis)|'''Italian Open''']] <br /> <small>[[2024 Italian Open – Men's singles|Singles]] – [[2024 Italian Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|GER}} Alexander Zverev
 |{{#invoke:flag|icon|CHI}} [[Nicolás Jarry]]
 |6–4, 7–5
@@ -141,7 +141,7 @@ The '''2024 ATP Tour Masters 1000''' is the thirty-fifth edition of the [[ATP 10
 |{{#invoke:flag|icon|ESA}} [[Marcelo Arévalo]]<br />{{#invoke:flag|icon|CRO}} [[Mate Pavić]]
 |6–2, 6–2
 |-
-! scope="row" |[[2024 National Bank Open|'''Canadian Open''']] <br /> {{small|[[2024 National Bank Open – Men's singles|Singles]] – [[2024 National Bank Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2024 National Bank Open|'''Canadian Open''']] <br /> <small>[[2024 National Bank Open – Men's singles|Singles]] – [[2024 National Bank Open – Men's doubles|Doubles]]</small>
 |style="background:#ddfddd"|{{#invoke:flag|icon|AUS}} [[Alexei Popyrin]]*
 |{{flagg|}} Andrey Rublev
 |6–2, 6–4
@@ -149,7 +149,7 @@ The '''2024 ATP Tour Masters 1000''' is the thirty-fifth edition of the [[ATP 10
 |{{#invoke:flag|icon|USA}} [[Rajeev Ram]]<br />{{#invoke:flag|icon|GBR}} [[Joe Salisbury]]
 |6–2, 7–6<sup>(7–4)</sup>
 |-
-! scope="row" |[[2024 Cincinnati Open|'''Cincinnati Open''']] <br /> {{small|[[2024 Cincinnati Open – Men's singles|Singles]] – [[2024 Cincinnati Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2024 Cincinnati Open|'''Cincinnati Open''']] <br /> <small>[[2024 Cincinnati Open – Men's singles|Singles]] – [[2024 Cincinnati Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ITA}} Jannik Sinner
 |{{#invoke:flag|icon|USA}} [[Frances Tiafoe]]
 |7–6<sup>(7–4)</sup>, 6–2
@@ -157,7 +157,7 @@ The '''2024 ATP Tour Masters 1000''' is the thirty-fifth edition of the [[ATP 10
 |{{#invoke:flag|icon|USA}} [[Mackenzie McDonald]] <br /> {{#invoke:flag|icon|USA}} [[Alex Michelsen]]
 |6–2, 6–4
 |-
-! scope="row" |[[2024 Rolex Shanghai Masters|'''Shanghai Masters''']] <br /> {{small|[[2024 Rolex Shanghai Masters – Singles|Singles]] – [[2024 Rolex Shanghai Masters – Doubles|Doubles]]}}
+! scope="row" |[[2024 Rolex Shanghai Masters|'''Shanghai Masters''']] <br /> <small>[[2024 Rolex Shanghai Masters – Singles|Singles]] – [[2024 Rolex Shanghai Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ITA}} Jannik Sinner
 |{{#invoke:flag|icon|SRB}} [[Novak Djokovic]]
 |7–6<sup>(7–4)</sup>, 6–3
@@ -165,7 +165,7 @@ The '''2024 ATP Tour Masters 1000''' is the thirty-fifth edition of the [[ATP 10
 |{{#invoke:flag|icon|ARG}} [[Máximo González]]<br />{{#invoke:flag|icon|ARG}} [[Andrés Molteni]]
 | 6–4, 6–4
 |-
-!scope="row" |[[2024 Rolex Paris Masters|'''Paris Masters''']] <br /> {{small|[[2024 Rolex Paris Masters – Singles|Singles]] – [[2024 Rolex Paris Masters – Doubles|Doubles]]}}
+!scope="row" |[[2024 Rolex Paris Masters|'''Paris Masters''']] <br /> <small>[[2024 Rolex Paris Masters – Singles|Singles]] – [[2024 Rolex Paris Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|GER}} Alexander Zverev
 |{{#invoke:flag|icon|FRA}} [[Ugo Humbert]]
 |6–2, 6–2

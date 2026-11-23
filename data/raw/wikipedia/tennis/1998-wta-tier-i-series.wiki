@@ -93,7 +93,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" rowspan=2| '''[[1998 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[1998 Toray Pan Pacific Open – Singles|Singles]] – [[1998 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[1998 Toray Pan Pacific Open – Singles|Singles]] – [[1998 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|USA}} [[Lindsay Davenport]]
 | rowspan="2" | {{#invoke:flag|icon|SUI}} [[Martina Hingis]]
 | rowspan="2" | 6–3, 6–3
@@ -115,7 +115,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |style="background:#ddfddd"| {{#invoke:flag|icon|CRO}} [[Mirjana Lučić-Baroni|Mirjana Lučić]]*
 |-
 ! scope="row" | '''[[1998 Newsweek Champions Cup and the State Farm Evert Cup|Indian Wells]]'''
-{{small|[[1998 State Farm Evert Cup – Singles|Singles]] – [[1998 State Farm Evert Cup – Doubles|Doubles]]}}
+<small>[[1998 State Farm Evert Cup – Singles|Singles]] – [[1998 State Farm Evert Cup – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SUI}} Martina Hingis
 | {{#invoke:flag|icon|USA}} Lindsay Davenport
 | 6–3, 6–4
@@ -124,7 +124,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–4, 2–6, 6–4
 |-
 ! scope="row" | '''[[1998 Lipton Championships|Miami]]'''
-{{small|[[1998 Lipton Championships – Women's singles|Singles]] – [[1998 Lipton Championships – Women's doubles|Doubles]]}}
+<small>[[1998 Lipton Championships – Women's singles|Singles]] – [[1998 Lipton Championships – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|USA}} [[Venus Williams]]*
 | {{#invoke:flag|icon|RUS}} [[Anna Kournikova]]
 | 2–6, 6–4, 6–1
@@ -133,7 +133,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–2, 3–6, 6–3
 |-
 ! scope="row" | '''[[1998 Family Circle Cup|Hilton Head]]'''
-{{small|[[1998 Family Circle Cup – Singles|Singles]] – [[1998 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[1998 Family Circle Cup – Singles|Singles]] – [[1998 Family Circle Cup – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|RSA}} [[Amanda Coetzer]]*
 | {{#invoke:flag|icon|ROM}} [[Irina Spîrlea]]
 | 6–3, 6–4
@@ -142,7 +142,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |3–6, 6–4, 6–4
 |-
 ! scope="row" | '''[[1998 Italian Open (tennis)|Rome]]'''
-{{small|[[1998 Italian Open – Women's singles|Singles]] – [[1998 Italian Open – Women's doubles|Doubles]]}}
+<small>[[1998 Italian Open – Women's singles|Singles]] – [[1998 Italian Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SUI}} Martina Hingis
 | {{#invoke:flag|icon|USA}} [[Venus Williams]]
 | 6–3, 2–6, 6–3
@@ -151,7 +151,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |7–6<sup>(7–1)</sup>, 6–4
 |-
 ! scope="row" | '''[[1998 WTA German Open|Berlin]]'''
-{{small|[[1998 WTA German Open – Singles|Singles]] – [[1998 WTA German Open – Doubles|Doubles]]}}
+<small>[[1998 WTA German Open – Singles|Singles]] – [[1998 WTA German Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} Conchita Martínez
 | {{#invoke:flag|icon|FRA}} [[Amélie Mauresmo]]
 | 6–4, 6–4
@@ -160,7 +160,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 6–0
 |-
 ! scope="row" | '''[[1998 du Maurier Open|Montréal]]'''
-{{small|[[1998 du Maurier Open – Women's singles|Singles]] – [[1998 du Maurier Open – Women's doubles|Doubles]]}}
+<small>[[1998 du Maurier Open – Women's singles|Singles]] – [[1998 du Maurier Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Monica Seles]]
 | {{#invoke:flag|icon|ESP}} Arantxa Sánchez Vicario
 | 6–3, 6–2
@@ -169,7 +169,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 6–4
 |-
 ! scope="row" | '''[[1998 Swisscom Challenge|Zürich]]'''
-{{small|[[1998 Swisscom Challenge – Singles|Singles]] – [[1998 Swisscom Challenge – Doubles|Doubles]]}}
+<small>[[1998 Swisscom Challenge – Singles|Singles]] – [[1998 Swisscom Challenge – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} Lindsay Davenport
 | {{#invoke:flag|icon|USA}} Venus Williams
 | 6–3, 6–4
@@ -178,7 +178,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |5–7, 6–1, 6–3
 |-
 ! scope="row" rowspan=2| '''[[1998 Kremlin Cup|Moscow]]'''
-{{small|[[1998 Kremlin Cup – Women's singles|Singles]] – [[1998 Kremlin Cup – Women's doubles|Doubles]]}}
+<small>[[1998 Kremlin Cup – Women's singles|Singles]] – [[1998 Kremlin Cup – Women's doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|FRA}} Mary Pierce
 | rowspan="2" | {{#invoke:flag|icon|USA}} Monica Seles
 | rowspan="2" | 7–6<sup>(7–2)</sup>, 6–3

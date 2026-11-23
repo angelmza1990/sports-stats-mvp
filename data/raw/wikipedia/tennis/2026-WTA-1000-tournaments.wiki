@@ -88,7 +88,7 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -98,7 +98,7 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 ! scope="col"| Runners-up
 ! scope="col"| Score
 |-
-!rowspan="2" scope="row"| '''[[2026 Qatar TotalEnergies Open|Qatar Open]]''' <br /> {{small|[[2026 Qatar TotalEnergies Open – Singles|Singles]] – [[2026 Qatar TotalEnergies Open – Doubles|Doubles]]}}
+!rowspan="2" scope="row"| '''[[2026 Qatar TotalEnergies Open|Qatar Open]]''' <br /> <small>[[2026 Qatar TotalEnergies Open – Singles|Singles]] – [[2026 Qatar TotalEnergies Open – Doubles|Doubles]]</small>
 |rowspan="2" style="background:#ddfddd;"|{{#invoke:flag|icon|CZE}} [[Karolína Muchová]]*
 |rowspan="2"|{{#invoke:flag|icon|CAN}} [[Victoria Mboko]]
 |rowspan="2"|6–4, 7–5
@@ -108,7 +108,7 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 |-
 |style="background:#ddfddd;"|{{#invoke:flag|icon|SRB}} [[Aleksandra Krunić]]*
 |-
-! scope="row"| '''[[2026 Dubai Tennis Championships|Dubai Championships]]''' <br /> {{small|[[2026 Dubai Tennis Championships – Women's singles|Singles]] – [[2026 Dubai Tennis Championships – Women's doubles|Doubles]]}}
+! scope="row"| '''[[2026 Dubai Tennis Championships|Dubai Championships]]''' <br /> <small>[[2026 Dubai Tennis Championships – Women's singles|Singles]] – [[2026 Dubai Tennis Championships – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|USA}} [[Jessica Pegula]]
 |{{#invoke:flag|icon|UKR}} [[Elina Svitolina]]
 |6–2, 6–4
@@ -116,31 +116,31 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 |{{#invoke:flag|icon|GER}} [[Laura Siegemund]] <br /> {{flagicon|}} [[Vera Zvonareva]]
 |6–1, 6–3
 |-
-! scope="row"| '''[[2026 BNP Paribas Open|Indian Wells Open]]''' <br /> {{small|[[2026 BNP Paribas Open – Women's singles|Singles]] – [[2026 BNP Paribas Open – Women's doubles|Doubles]]}}
-|{{flagicon|}} [[Aryna Sabalenka]]
+! scope="row"| '''[[2026 BNP Paribas Open|Indian Wells Open]]''' <br /> <small>[[2026 BNP Paribas Open – Women's singles|Singles]] – [[2026 BNP Paribas Open – Women's doubles|Doubles]]</small>
+|{{flagicon|}} [[Aryna Sabalenka]] 
 |{{#invoke:flag|icon|KAZ}} [[Elena Rybakina]]
 |3–6, 6–3, 7–6<sup>(8–6)</sup>
 |{{#invoke:flag|icon|CZE}} [[Kateřina Siniaková]] <br /> {{#invoke:flag|icon|USA}} [[Taylor Townsend]]
 |{{#invoke:flag|icon|KAZ}} [[Anna Danilina]] <br /> {{#invoke:flag|icon|SRB}} [[Aleksandra Krunić]]
 |7–6<sup>(7–4)</sup>, 6–4
 |-
-! scope="row"| '''[[2026 Miami Open|Miami Open]]''' <br /> {{small|[[2026 Miami Open – Women's singles|Singles]] – [[2026 Miami Open – Women's doubles|Doubles]]}}
-|{{flagicon|}} Aryna Sabalenka
+! scope="row"| '''[[2026 Miami Open|Miami Open]]''' <br /> <small>[[2026 Miami Open – Women's singles|Singles]] – [[2026 Miami Open – Women's doubles|Doubles]]</small>
+|{{flagicon|}} Aryna Sabalenka <small>(2)</small> 
 |{{#invoke:flag|icon|USA}} [[Coco Gauff]]
 |6–2, 4–6, 6–3
-|{{#invoke:flag|icon|CZE}} Kateřina Siniaková <br /> {{#invoke:flag|icon|USA}} Taylor Townsend
+|{{#invoke:flag|icon|CZE}} Kateřina Siniaková <small>(2)</small> <br /> {{#invoke:flag|icon|USA}} Taylor Townsend <small>(2)</small> 
 |{{#invoke:flag|icon|ITA}} [[Sara Errani]] <br /> {{#invoke:flag|icon|ITA}} [[Jasmine Paolini]]
 |7–6<sup>(7–0)</sup>, 6–1
 |-
-! scope="row"| '''[[2026 Mutua Madrid Open|Madrid Open]]''' <br /> {{small|[[2026 Mutua Madrid Open – Women's singles|Singles]] – [[2026 Mutua Madrid Open – Women's doubles|Doubles]]}}
+! scope="row"| '''[[2026 Mutua Madrid Open|Madrid Open]]''' <br /> <small>[[2026 Mutua Madrid Open – Women's singles|Singles]] – [[2026 Mutua Madrid Open – Women's doubles|Doubles]]</small>
 |style="background:#ddfddd;"|{{#invoke:flag|icon|UKR}} [[Marta Kostyuk]]*
 |{{flagicon|}} [[Mirra Andreeva]]
 |6–3, 7–5
-|{{#invoke:flag|icon|CZE}} Kateřina Siniaková <br /> {{#invoke:flag|icon|USA}} Taylor Townsend
+|{{#invoke:flag|icon|CZE}} Kateřina Siniaková <small>(3)</small> <br /> {{#invoke:flag|icon|USA}} Taylor Townsend <small>(3)</small> 
 |{{flagicon|}} Mirra Andreeva <br /> {{flagicon|}} [[Diana Shnaider]]
 |7–6<sup>(7–2)</sup>, 6–2
 |-
-! scope="row"| '''[[2026 Italian Open|Italian Open]]''' <br /> {{small|[[2026 Italian Open – Women's singles|Singles]] – [[2026 Italian Open – Women's doubles|Doubles]]}}
+! scope="row"| '''[[2026 Italian Open|Italian Open]]''' <br /> <small>[[2026 Italian Open – Women's singles|Singles]] – [[2026 Italian Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|UKR}} Elina Svitolina
 |{{#invoke:flag|icon|USA}} Coco Gauff
 |6–4, 6–7<sup>(3–7)</sup>, 6–2
@@ -148,15 +148,15 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 |{{#invoke:flag|icon|ESP}} [[Cristina Bucșa]] <br /> {{#invoke:flag|icon|USA}} [[Nicole Melichar-Martinez]]
 |6–3, 6–3
 |-
-! scope="row"| '''[[2026 National Bank Open|Canadian Open]]''' <br /> {{small|[[2026 National Bank Open – Women's singles|Singles]] – [[2026 National Bank Open – Women's doubles|Doubles]]}}
+! scope="row"| '''[[2026 National Bank Open|Canadian Open]]''' <br /> <small>[[2026 National Bank Open – Women's singles|Singles]] – [[2026 National Bank Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|POL}} [[Iga Świątek]]
 |{{#invoke:flag|icon|KAZ}} Elena Rybakina
 |6–2, 6–3
-|{{#invoke:flag|icon|CZE}} Kateřina Siniaková <br /> {{#invoke:flag|icon|CHN}} [[Zhang Shuai]]
+|{{#invoke:flag|icon|CZE}} Kateřina Siniaková <small>(4)</small> <br /> {{#invoke:flag|icon|CHN}} [[Zhang Shuai]]
 |{{#invoke:flag|icon|ITA}} Sara Errani <br /> {{#invoke:flag|icon|USA}} Nicole Melichar-Martinez
 |6–3, 6–4
 |-
-!rowspan="2" scope="row"| '''[[2026 Cincinnati Open|Cincinnati Open]]''' <br /> {{small|[[2026 Cincinnati Open – Women's singles|Singles]] – [[2026 Cincinnati Open – Women's doubles|Doubles]]}}
+!rowspan="2" scope="row"| '''[[2026 Cincinnati Open|Cincinnati Open]]''' <br /> <small>[[2026 Cincinnati Open – Women's singles|Singles]] – [[2026 Cincinnati Open – Women's doubles|Doubles]]</small>
 |rowspan="2"|{{#invoke:flag|icon|USA}} Coco Gauff
 |rowspan="2"|{{#invoke:flag|icon|USA}} Jessica Pegula
 |rowspan="2"|6–2, 6–4
@@ -166,19 +166,19 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 |-
 |style="background:#ddfddd;"|{{#invoke:flag|icon|CZE}} [[Linda Nosková]]*
 |-
-! scope="row"| '''[[2026 China Open (tennis)|China Open]]''' <br /> {{small|[[2026 China Open – Women's singles|Singles]] – [[2026 China Open – Women's doubles|Doubles]]}}
+! scope="row"| '''[[2026 China Open (tennis)|China Open]]''' <br /> <small>[[2026 China Open – Women's singles|Singles]] – [[2026 China Open – Women's doubles|Doubles]]</small>
 |style="background:#ddfddd;"|{{#invoke:flag|icon|CHN}} [[Zheng Qinwen]]*
 |{{flagicon|}} Mirra Andreeva
 |7–5, 6–4
-|{{#invoke:flag|icon|CAN}} Gabriela Dabrowski <br /> {{#invoke:flag|icon|BRA}} Luisa Stefani
+|{{#invoke:flag|icon|CAN}} Gabriela Dabrowski <small>(2)</small> <br /> {{#invoke:flag|icon|BRA}} Luisa Stefani <small>(2)</small> 
 |{{#invoke:flag|icon|CZE}} Kateřina Siniaková <br /> {{#invoke:flag|icon|CHN}} Zhang Shuai
 |6–1, 6–2
 |-
-! scope="row"| '''[[2026 Wuhan Open|Wuhan Open]]''' <br /> {{small|[[2026 Wuhan Open – Singles|Singles]] – [[2026 Wuhan Open – Doubles|Doubles]]}}
+! scope="row"| '''[[2026 Wuhan Open|Wuhan Open]]''' <br /> <small>[[2026 Wuhan Open – Singles|Singles]] – [[2026 Wuhan Open – Doubles|Doubles]]</small>
 |style="background:#ddfddd;"|{{#invoke:flag|icon|POL}} [[Maja Chwalińska]]*
 |{{flagicon|GBR}} [[Sonay Kartal]]
 |2–6, 6–4, 6–2
-|{{#invoke:flag|icon|CAN}} Gabriela Dabrowski <br /> {{#invoke:flag|icon|BRA}} Luisa Stefani
+|{{#invoke:flag|icon|CAN}} Gabriela Dabrowski <small>(3)</small> <br /> {{#invoke:flag|icon|BRA}} Luisa Stefani <small>(3)</small> 
 |{{#invoke:flag|icon|CZE}} Kateřina Siniaková <br /> {{#invoke:flag|icon|AUS}} [[Storm Hunter]]
 |7–5, 6–4
 |}
@@ -310,4 +310,4 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 {{2026 WTA Tour}}
 {{DEFAULTSORT:2026 WTA 1000 tournaments}}
 [[Category:WTA 1000 tournaments seasons]]
-[[Category:2026 WTA Tour]]
+[[Category:2026 WTA Tour|1000 tournaments]]

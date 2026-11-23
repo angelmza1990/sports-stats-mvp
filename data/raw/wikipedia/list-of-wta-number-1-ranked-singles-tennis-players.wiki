@@ -696,7 +696,7 @@ The rankings are sourced by the ''WTA Media Guide'' and the WTA website (which u
 |28
 |35
 |- style="background-color: #ededed"
-|{{sort|zz|''{{center|Rankings [[Impact of the 2019–20 coronavirus pandemic on sports#Tennis|frozen]]}}''}}
+|{{sort|zz|''{{center|Rankings [[Impact of the 2019–20 coronavirus pandemic on sports#Tennis|frozen]] (COVID-19)}}''}}
 |{{dts|2020|03|23|abbr=on}}
 |{{dts|2020|08|9|abbr=on}}
 | colspan="2" scope="row" |20
@@ -807,9 +807,9 @@ Active players in '''bold'''.
 |-
 |26 || style="text-align:left"|{{flagicon|USA}} '''[[Venus Williams]]''' ||11
 |-
-|27 || style="text-align:left"|{{flagicon|CZE}} '''[[Karolína Plíšková]]''' ||8
+|27 || style="text-align:left" style="background:#ddfddd;text-align:left"|{{flagicon|KAZ}} '''[[Elena Rybakina]]'''||'''{{Sum|{{Age in weeks|2026|09|14}}+1}}'''
 |-
-|28 || style="text-align:left" style="background:#ddfddd;text-align:left"|{{flagicon|KAZ}} '''[[Elena Rybakina]]'''||'''{{Sum|{{Age in weeks|2026|09|14}}+1}}'''
+|28 || style="text-align:left"|{{flagicon|CZE}} '''[[Karolína Plíšková]]''' ||8
 |-
 |29 || style="text-align:left"|{{flagicon|ESP}} [[Garbiñe Muguruza]] ||4
 |-
@@ -834,7 +834,7 @@ Active players in '''bold'''.
 |-
 |5 || style="text-align:left"|{{flagicon|USA}} [[Chris Evert]] ||113
 |-
-|6 || style="text-align:left"|{{flagicon|}} '''[[Aryna Sabalenka]]'''||99
+|6 || style="text-align:left"|{{flagicon|}} [[Aryna Sabalenka]]||99
 |-
 |7 || style="text-align:left"|{{flagicon|GER}} Steffi Graf {{small|(2)}} ||94
 |-
@@ -881,7 +881,7 @@ Active players in '''bold'''.
 ! style="width:145" scope="col"|Player
 |-
 |[[1975 WTA Tour|1975]]
-|{{flagathlete|'''[[Chris Evert]]'''|USA}}
+! style=text-align:left; |{{flagathlete|'''[[Chris Evert]]'''|USA}}
 |-
 |[[1976 WTA Tour|1976]]
 |{{flagicon|USA}} Chris Evert {{small|(2)}}
@@ -889,7 +889,7 @@ Active players in '''bold'''.
 |style="background:#ffffcf"|[[1977 WTA Tour|1977]]<sup>*</sup>||{{flagicon|USA}} Chris Evert {{small|(3)}}
 |-
 |[[1978 WTA Tour|1978]]
-|{{flagathlete|'''[[Martina Navratilova]]'''|USA}}
+! style=text-align:left; |{{flagathlete|'''[[Martina Navratilova]]'''|USA}}
 |-
 |[[1979 WTA Tour|1979]]
 |{{flagicon|USA}} Martina Navratilova {{small|(2)}}
@@ -912,7 +912,7 @@ Active players in '''bold'''.
 |style="background:#ffffcf"|[[1986 WTA Tour|1986]]<sup>*</sup>||{{flagicon|USA}} Martina Navratilova {{small|(7)}}
 |-
 |[[1987 WTA Tour|1987]]
-|{{flagathlete|'''[[Steffi Graf]]'''|FRG}}
+! style=text-align:left; |{{flagathlete|'''[[Steffi Graf]]'''|FRG}}
 |-
 |style="background:#ffffcf"|[[1988 WTA Tour|1988]]<sup>*</sup>||{{flagicon|FRG}} Steffi Graf {{small|(2)}}
 |-
@@ -921,7 +921,7 @@ Active players in '''bold'''.
 |style="background:#ffffcf"|[[1990 WTA Tour|1990]]<sup>*</sup>||{{flagicon|GER}} Steffi Graf {{small|(4)}}
 |-
 |[[1991 WTA Tour|1991]]
-|{{flagathlete|'''[[Monica Seles]]'''|YUG}}
+! style=text-align:left; |{{flagathlete|'''[[Monica Seles]]'''|YUG}}
 |-
 |style="background:#ffffcf"|[[1992 WTA Tour|1992]]<sup>*</sup>||{{flagicon|FR Yugoslavia}} Monica Seles {{small|(2)}}
 |-
@@ -937,13 +937,16 @@ Active players in '''bold'''.
 |style="background:#ffffcf"|[[1996 WTA Tour|1996]]<sup>*</sup>||{{flagicon|GER}} Steffi Graf {{small|(8)}}
 |-
 |[[1997 WTA Tour|1997]]
-|{{flagathlete|'''[[Martina Hingis]]'''|SUI}}
+! style=text-align:left; |{{flagathlete|'''[[Martina Hingis]]'''|SUI}}
 |-
 |[[1998 WTA Tour|1998]]
-|{{flagathlete|'''[[Lindsay Davenport]]'''|USA}}
+! style=text-align:left; |{{flagathlete|'''[[Lindsay Davenport]]'''|USA}}
 |-
 |[[1999 WTA Tour|1999]]
 |{{flagicon|SUI}} Martina Hingis {{small|(2)}}
+|-
+|[[2000 WTA Tour|2000]]
+|{{flagicon|SUI}} Martina Hingis {{small|(3)}}
 |}
 {{Col-break|gap=3em}}
 
@@ -952,17 +955,14 @@ Active players in '''bold'''.
 !scope="col"|Year
 ! style="width:145" |Player
 |-
-|[[2000 WTA Tour|2000]]
-|{{flagicon|SUI}} Martina Hingis {{small|(3)}}
-|-
 |[[2001 WTA Tour|2001]]
 |{{flagicon|USA}} Lindsay Davenport {{small|(2)}}
 |-
 |[[2002 WTA Tour|2002]]
-|{{flagathlete|'''[[Serena Williams]]'''|USA}}
+! style=text-align:left; |{{flagathlete|'''[[Serena Williams]]'''|USA}}
 |-
 |[[2003 WTA Tour|2003]]
-|{{flagathlete|'''[[Justine Henin]]'''|BEL}}
+! style=text-align:left; |{{flagathlete|'''[[Justine Henin]]'''|BEL}}
 |-
 |[[2004 WTA Tour|2004]]
 |{{flagicon|USA}} Lindsay Davenport {{small|(3)}}
@@ -977,19 +977,19 @@ Active players in '''bold'''.
 |{{flagicon|BEL}} Justine Henin {{small|(3)}}
 |-
 |[[2008 WTA Tour|2008]]
-|{{flagathlete|'''[[Jelena Janković]]'''|SRB}}
+! style=text-align:left; |{{flagathlete|'''[[Jelena Janković]]'''|SRB}}
 |-
 |[[2009 WTA Tour|2009]]
 |{{flagicon|USA}} Serena Williams {{small|(2)}}
 |-
 |[[2010 WTA Tour|2010]]
-|{{flagathlete|'''[[Caroline Wozniacki]]'''|DEN}}
+! style=text-align:left; |{{flagathlete|'''[[Caroline Wozniacki]]'''|DEN}}
 |-
 |[[2011 WTA Tour|2011]]
 |{{flagicon|DEN}} Caroline Wozniacki {{small|(2)}}
 |-
 |[[2012 WTA Tour|2012]]
-|{{flagathlete|'''[[Victoria Azarenka]]'''|BLR}}
+! style=text-align:left; |{{flagathlete|'''[[Victoria Azarenka]]'''|BLR}}
 |-
 |[[2013 WTA Tour|2013]]
 |{{flagicon|USA}} Serena Williams {{small|(3)}}
@@ -999,31 +999,34 @@ Active players in '''bold'''.
 |style="background:#ffffcf"|[[2015 WTA Tour|2015]]<sup>*</sup>||{{flagicon|USA}} Serena Williams {{small|(5)}}
 |-
 |[[2016 WTA Tour|2016]]
-|{{flagathlete|'''[[Angelique Kerber]]'''|GER}}
+! style=text-align:left; |{{flagathlete|'''[[Angelique Kerber]]'''|GER}}
 |-
 |[[2017 WTA Tour|2017]]
-|{{flagathlete|'''[[Simona Halep]]'''|ROU}}
+! style=text-align:left; |{{flagathlete|'''[[Simona Halep]]'''|ROU}}
 |-
 |[[2018 WTA Tour|2018]]
 |{{flagicon|ROU}} Simona Halep {{small|(2)}}
 |-
 |[[2019 WTA Tour|2019]]
-|{{flagathlete|'''[[Ashleigh Barty]]'''|AUS}}
+! style=text-align:left; |{{flagathlete|'''[[Ashleigh Barty]]'''|AUS}}
 |-
 |style="background:#ffffcf"|[[2020 WTA Tour|2020]]<sup>*</sup>||{{flagicon|AUS}} Ashleigh Barty {{small|(2)}}
 |-
 |style="background:#ffffcf"|[[2021 WTA Tour|2021]]<sup>*</sup>||{{flagicon|AUS}} Ashleigh Barty {{small|(3)}}
 |-
 |[[2022 WTA Tour|2022]]
-|{{flagathlete|'''[[Iga Świątek]]'''|POL}}
+! style=text-align:left; |{{flagathlete|'''[[Iga Świątek]]'''|POL}}
 |-
 |[[2023 WTA Tour|2023]]
 |{{flagicon|POL}} Iga Świątek {{small|(2)}}
 |-
 |[[2024 WTA Tour|2024]]
-|{{flagicon|}} '''[[Aryna Sabalenka]]''' {{efn|name=rusblrban}}
+! style=text-align:left; |{{flagicon|}} '''[[Aryna Sabalenka]]''' {{efn|name=rusblrban}}
 |-
 |style="background:#ffffcf"|[[2025 WTA Tour|2025]]<sup>*</sup>||{{flagicon|}} Aryna Sabalenka {{small|(2)}}
+|-
+|[[2026 WTA Tour|2026]]
+! style=text-align:left; |{{flagathlete|'''[[Elena Rybakina]]'''|KAZ}}
 |}
 |}
 
@@ -1065,14 +1068,16 @@ Active players in '''bold'''.
 |-
 |{{flagicon|POL}} [[Iga Świątek]]
 |-
-|{{flagicon|BLR}} [[Aryna Sabalenka]]{{efn|name=rusblrban}}
+|{{flagicon|}} [[Aryna Sabalenka]]{{efn|name=rusblrban}}
 |-
-!scope="row" rowspan="3" |1
+!scope="row" rowspan="4" |1
 |{{flagicon|SRB}} [[Jelena Janković]]
 |-
 |{{flagicon|BLR}} [[Victoria Azarenka]]
 |-
 |{{flagicon|GER}} [[Angelique Kerber]]
+|-
+|{{flagicon|KAZ}} [[Elena Rybakina]]
 |}
 {{Col-break|gap=3em}}
 {| class="wikitable nowrap"
@@ -1317,17 +1322,17 @@ Active players in '''bold'''.
 |Sep 7, 2008
 |{{ayd|1987|11|6|2008|9|7}}
 |-
-|{{ayd|2017|7|17|2017|9|10}}||{{sort|Plíšková|{{flagicon|CZE}} '''[[Karolína Plíšková]]'''}}
-|Jul 17, 2017
-|{{ayd|1992|3|21|2017|7|17}}
-|Sep 10, 2017
-|{{ayd|1992|3|21|2017|9|10}}
-|-
 |{{ayd|2026|9|14| | | }}||style="text-align:left; background:#ddfddd;" |{{sort|Rybakina|{{flagicon|KAZ}} '''[[Elena Rybakina]]'''}}
 |Sep 14, 2026
 |{{ayd|1999|6|17|2026|9|14}}
 |{{date|2=MDY}}
 |{{ayd|1999|6|17| | | }}
+|-
+|{{ayd|2017|7|17|2017|9|10}}||{{sort|Plíšková|{{flagicon|CZE}} '''[[Karolína Plíšková]]'''}}
+|Jul 17, 2017
+|{{ayd|1992|3|21|2017|7|17}}
+|Sep 10, 2017
+|{{ayd|1992|3|21|2017|9|10}}
 |-
 |{{ayd|2017|9|11|2017|10|8}}||{{sort|Muguruza |{{flagicon|ESP}} [[Garbiñe Muguruza]]}}
 |Sep 11, 2017
@@ -1372,10 +1377,12 @@ Active players in '''bold'''.
 {{tb2|26|width=26|text=[[Dinara Safina|Safina]]}}
 {{tb2|19|width=19|text=[[Kim Clijsters|Clijsters]]}}
 {{tb2|18|width=18|text=[[Jelena Janković|Janković]]}}
-{{tb2|17|width=17|text=[[Jennifer Capriati|Capriati]], [[Maria Sharapova|Sharapova]]}}
+{{tb2|17|width=17|text=[[Jennifer Capriati|Capriati]]}}
+{{tb2|17|width=17|text=[[Maria Sharapova|Sharapova]]}}
 {{tb2|12|width=12|text=&nbsp;[[Ana Ivanovic|Ivanovic]]}}
 {{tb2|11|width=11|text=&nbsp;[[Venus Williams|V Williams]]}}
 {{col-2}}
+
 === 2010s ===
 {{tb2|236|width=236|text='''[[Serena Williams|S Williams]]'''}}
 {{tb2|71|width=71|text=[[Caroline Wozniacki|Wozniacki]]}}
@@ -1385,8 +1392,10 @@ Active players in '''bold'''.
 {{tb2|25|width=25|text=[[Naomi Osaka|Osaka]]}}
 {{tb2|24|width=24|text=[[Ashleigh Barty|Barty]]}}
 {{tb2|8|width=8|text=[[Karolína Plíšková|Plíšková]]}}
-{{tb2|4|width=4|text=&nbsp;[[Garbiñe Muguruza|Muguruza]], [[Maria Sharapova|Sharapova]]}}
+{{tb2|4|width=4|text=&nbsp;[[Maria Sharapova|Sharapova]]}}
+{{tb2|4|width=4|text=&nbsp;[[Garbiñe Muguruza|Muguruza]]}}
 {{tb2|1|width=1|text=&nbsp;[[Kim Clijsters|Clijsters]]}}
+
 === 2020s ===
 <small>WTA rankings were frozen from March 23, 2020 to August 9, 2020.</small>
 {{tb2|125|width=125|text='''[[Iga Świątek|Świątek]]'''}}
@@ -1413,10 +1422,7 @@ Active players in '''bold'''.
 |209
 | style="text-align:left" |{{SUI}}|| style="text-align:left" |[[Martina Hingis]]
 |-
-|158
-| style="text-align:left" |{{BLR}}{{efn|name=rusblrban}}|| style="text-align:left" |[[Victoria Azarenka]], [[Aryna Sabalenka]]
-|-
-| 143
+|143
 | style="text-align:left" |{{nowrap|{{flagicon|SFR Yugoslavia}}/{{flagicon|FR Yugoslavia}}/{{flagicon|SRB}} [[Yugoslavia]]/[[Serbia]]}}|| style="text-align:left" |Monica Seles*, [[Ana Ivanovic]], [[Jelena Janković]]
 |-
 |137
@@ -1434,6 +1440,9 @@ Active players in '''bold'''.
 |64
 | style="text-align:left" |{{ROU}}|| style="text-align:left" |[[Simona Halep]]
 |-
+|51
+| style="text-align:left" |{{BLR}}{{efn|name=rusblrban}}|| style="text-align:left" |[[Victoria Azarenka]]
+|-
 |47
 | style="text-align:left" |{{RUS}}|| style="text-align:left" |[[Maria Sharapova]], [[Dinara Safina]]
 |-
@@ -1446,11 +1455,11 @@ Active players in '''bold'''.
 |16
 | style="text-align:left" |{{ESP}}|| style="text-align:left" |[[Arantxa Sánchez Vicario]], [[Garbiñe Muguruza]]
 |-
-|8
-| style="text-align:left" |{{CZE}}|| style="text-align:left" |[[Karolína Plíšková]]
-|-
 |'''{{sum|{{age in weeks|2026|09|14}}+1}}'''
 |style="text-align:left" |'''{{KAZ}}'''||style="text-align:left" |'''[[Elena Rybakina]]'''
+|-
+|8
+| style="text-align:left" |{{CZE}}|| style="text-align:left" |[[Karolína Plíšková]]
 |}
 {{small|Weeks are updated automatically.<br />
 <nowiki>*</nowiki> Monica Seles is included twice due to change of citizenship.}}

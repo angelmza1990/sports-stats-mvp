@@ -93,7 +93,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2000 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[2000 Toray Pan Pacific Open – Singles|Singles]] – [[2000 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[2000 Toray Pan Pacific Open – Singles|Singles]] – [[2000 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SUI}} [[Martina Hingis]]
 | {{#invoke:flag|icon|FRA}} [[Sandrine Testud]]
 | 6–3, 7–5
@@ -113,7 +113,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–4, 6–1
 |-
 ! scope="row" rowspan=2| '''[[2000 Indian Wells Masters|Indian Wells]]'''
-{{small|[[2000 Indian Wells Masters – Women's singles|Singles]] – [[2000 Indian Wells Masters – Women's doubles|Doubles]]}}
+<small>[[2000 Indian Wells Masters – Women's singles|Singles]] – [[2000 Indian Wells Masters – Women's doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|USA}} [[Lindsay Davenport]]
 | rowspan="2" | {{#invoke:flag|icon|SUI}} Martina Hingis
 | rowspan="2" | 4–6, 6–4, 6–0
@@ -124,7 +124,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |style="background:#ddfddd"| {{#invoke:flag|icon|USA}} [[Corina Morariu]]*
 |-
 ! scope="row" | '''[[2000 Ericsson Open|Miami]]'''
-{{small|[[2000 Ericsson Open – Women's singles|Singles]] – [[2000 Ericsson Open – Women's doubles|Doubles]]}}
+<small>[[2000 Ericsson Open – Women's singles|Singles]] – [[2000 Ericsson Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SUI}} Martina Hingis
 | {{#invoke:flag|icon|USA}} Lindsay Davenport
 | 6–3, 6–2
@@ -133,7 +133,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |4–6, 7–5, 6–4
 |-
 ! scope="row" | '''[[2000 Family Circle Cup|Hilton Head]]'''
-{{small|[[2000 Family Circle Cup – Singles|Singles]] – [[2000 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[2000 Family Circle Cup – Singles|Singles]] – [[2000 Family Circle Cup – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|FRA}} [[Mary Pierce]]
 | {{#invoke:flag|icon|ESP}} [[Arantxa Sánchez Vicario]]
 | 6–1, 6–0
@@ -142,7 +142,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |7–5, 6–3
 |-
 ! scope="row" | '''[[2000 WTA German Open|Berlin]]'''
-{{small|[[2000 WTA German Open – Singles|Singles]] – [[2000 WTA German Open – Doubles|Doubles]]}}
+<small>[[2000 WTA German Open – Singles|Singles]] – [[2000 WTA German Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} Conchita Martínez
 | {{#invoke:flag|icon|RSA}} [[Amanda Coetzer]]
 | 6–1, 6–2
@@ -151,7 +151,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |3–6, 6–2, 7–6<sup>(9–7)</sup>
 |-
 ! scope="row" | '''[[2000 Italian Open (tennis)|Rome]]'''
-{{small|[[2000 Italian Open – Women's singles|Singles]] – [[2000 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2000 Italian Open – Women's singles|Singles]] – [[2000 Italian Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Monica Seles]]
 | {{#invoke:flag|icon|FRA}} [[Amélie Mauresmo]]
 | 6–2, 7–6<sup>(7–4)</sup>
@@ -160,7 +160,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 4–6, 6–3
 |-
 ! scope="row" | '''[[2000 du Maurier Open|Montréal]]'''
-{{small|[[2000 du Maurier Open – Women's singles|Singles]] – [[2000 du Maurier Open – Women's doubles|Doubles]]}}
+<small>[[2000 du Maurier Open – Women's singles|Singles]] – [[2000 du Maurier Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SUI}} Martina Hingis
 | {{#invoke:flag|icon|USA}} [[Serena Williams]]
 | 0–6, 6–3, 3–0, ret.
@@ -169,7 +169,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 3–6, 6–4
 |-
 ! scope="row" | '''[[2000 Swisscom Challenge|Zürich]]'''
-{{small|[[2000 Swisscom Challenge – Singles|Singles]] – [[2000 Swisscom Challenge – Doubles|Doubles]]}}
+<small>[[2000 Swisscom Challenge – Singles|Singles]] – [[2000 Swisscom Challenge – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SUI}} Martina Hingis
 | {{#invoke:flag|icon|USA}} Lindsay Davenport
 | 6–2, 4–6, 7–5
@@ -178,7 +178,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 6–4
 |-
 ! scope="row" | '''[[2000 Kremlin Cup|Moscow]]'''
-{{small|[[2000 Kremlin Cup – Women's singles|Singles]] – [[2000 Kremlin Cup – Women's doubles|Doubles]]}}
+<small>[[2000 Kremlin Cup – Women's singles|Singles]] – [[2000 Kremlin Cup – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SUI}} Martina Hingis
 | {{#invoke:flag|icon|RUS}} Anna Kournikova
 | 6–3, 6–1

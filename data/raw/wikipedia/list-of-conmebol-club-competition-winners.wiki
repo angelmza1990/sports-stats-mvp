@@ -107,48 +107,48 @@ The following table lists the total number of CONMEBOL club competitions won by 
 !Total
 |-
 !1
-!scope="row"|[[Club Atlético Independiente|Independiente]]
+! scope="row" |[[Boca Juniors]]
 |{{flag|Argentina}}
-|align=center| 7
-|align=center| 2 
-|align=center| 0
-|align=center| 0
-|align=center| 2
-|align=center| 2
-|align=center| 0
-|align=center| 1
-|align=center| 0
-|align=center| 1
-|align=center| 0
-|align=center| 0
-|align=center| 0
-|align=center| 0
-|align=center| 0
-|align=center| 0
-|align=center| 3
-|align=center| '''18'''
+| align="center" | 6
+| align="center" | 3
+| align="center" | 0
+| align="center" | 0
+| align="center" | 3
+| align="center" | 1
+| align="center" | 0
+| align="center" | 4
+| align="center" | 0
+| align="center" | 0
+| align="center" | 0
+| align="center" | 0
+| align="center" | 1
+| align="center" | 1
+| align="center" | 0
+| align="center" | 0
+| align="center" | 0
+| align="center" | '''19'''
 |-
 !2
-!scope="row"|[[Boca Juniors]]
+! scope="row" |[[Club Atlético Independiente|Independiente]]
 |{{flag|Argentina}}
-|align=center| 6
-|align=center| 3
-|align=center| 0
-|align=center| 0
-|align=center| 2
-|align=center| 1
-|align=center| 0
-|align=center| 4
-|align=center| 0
-|align=center| 0
-|align=center| 0
-|align=center| 0
-|align=center| 1
-|align=center| 1
-|align=center| 0
-|align=center| 0
-|align=center| 0
-|align=center| '''18'''
+| align="center" | 7
+| align="center" | 2 
+| align="center" | 0
+| align="center" | 0
+| align="center" | 2
+| align="center" | 2
+| align="center" | 0
+| align="center" | 1
+| align="center" | 0
+| align="center" | 1
+| align="center" | 0
+| align="center" | 0
+| align="center" | 0
+| align="center" | 0
+| align="center" | 0
+| align="center" | 0
+| align="center" | 3
+| align="center" | '''18'''
 |-
 !3
 ! scope="row" |[[Club Atlético River Plate|River Plate]]
@@ -1141,7 +1141,7 @@ The following table lists the total number of titles won by clubs from each coun
 |align=center| 9
 |align=center| 0
 |align=center| 0
-|align=center| 11
+|align=center| 12
 |align=center| 6
 |align=center| 3
 |align=center| 12
@@ -1154,7 +1154,7 @@ The following table lists the total number of titles won by clubs from each coun
 |align=center| 0
 |align=center| 0
 |align=center| 7
-| align="center" | '''79'''
+| align="center" | '''80'''
 |-
 !scope=row|{{BRA}}
 |align=center| 25

@@ -106,7 +106,7 @@ Russian and Belarus players competed under no nationality due to the [[2022 Russ
 ! scope="col" style="width:14em"| Runners-up
 ! scope="col" style="width:10em"| Score
 |-
-! rowspan=2 scope="row" |{{nowrap|[[2023 BNP Paribas Open|'''Indian Wells Open''']]}} <br /> {{small|[[2023 BNP Paribas Open – Men's singles|Singles]] – [[2023 BNP Paribas Open – Men's doubles|Doubles]]}}
+! rowspan=2 scope="row" |{{nowrap|[[2023 BNP Paribas Open|'''Indian Wells Open''']]}} <br /> <small>[[2023 BNP Paribas Open – Men's singles|Singles]] – [[2023 BNP Paribas Open – Men's doubles|Doubles]]</small>
 |rowspan=2|{{#invoke:flag|icon|ESP}} [[Carlos Alcaraz]]
 |rowspan=2|{{flagg|}} Daniil Medvedev
 |rowspan=2|6–3, 6–2
@@ -116,7 +116,7 @@ Russian and Belarus players competed under no nationality due to the [[2022 Russ
 |-
 | style="background:#ddfddd"|{{#invoke:flag|icon|AUS}} [[Matthew Ebden]]*
 |-
-! rowspan="2" scope="row" |[[2023 Miami Open|'''Miami Open''']] <br /> {{small|[[2023 Miami Open – Men's singles|Singles]] – [[2023 Miami Open – Men's doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2023 Miami Open|'''Miami Open''']] <br /> <small>[[2023 Miami Open – Men's singles|Singles]] – [[2023 Miami Open – Men's doubles|Doubles]]</small>
 | rowspan="2" |{{flagg|}} [[Daniil Medvedev]]
 | rowspan="2" | {{#invoke:flag|icon|ITA}} Jannik Sinner
 | rowspan="2" |7–5, 6–3
@@ -126,7 +126,7 @@ Russian and Belarus players competed under no nationality due to the [[2022 Russ
 |-
 |{{#invoke:flag|icon|FRA}} [[Édouard Roger-Vasselin]]
 |-
-! rowspan="2" scope="row" |{{nowrap|[[2023 Monte-Carlo Masters|'''Monte-Carlo Masters''']]}} <br /> {{small|[[2023 Monte-Carlo Masters – Singles|Singles]] – [[2023 Monte-Carlo Masters – Doubles|Doubles]]}}
+! rowspan="2" scope="row" |{{nowrap|[[2023 Monte-Carlo Masters|'''Monte-Carlo Masters''']]}} <br /> <small>[[2023 Monte-Carlo Masters – Singles|Singles]] – [[2023 Monte-Carlo Masters – Doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd"|{{flagg|}} [[Andrey Rublev]]*
 | rowspan="2" |{{#invoke:flag|icon|DEN}} [[Holger Rune]]
 | rowspan="2" | 5–7, 6–2, 7–5
@@ -136,7 +136,7 @@ Russian and Belarus players competed under no nationality due to the [[2022 Russ
 |-
 | style="background:#ddfddd"|{{#invoke:flag|icon|USA}} [[Austin Krajicek]]*
 |-
-! scope="row" |[[2023 Mutua Madrid Open|'''Madrid Open''']] <br /> {{small|[[2023 Mutua Madrid Open – Men's singles|Singles]] – [[2023 Mutua Madrid Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2023 Mutua Madrid Open|'''Madrid Open''']] <br /> <small>[[2023 Mutua Madrid Open – Men's singles|Singles]] – [[2023 Mutua Madrid Open – Men's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} Carlos Alcaraz
 | {{#invoke:flag|icon|GER}} [[Jan-Lennard Struff]]
 | 6–4, 3–6, 6–3
@@ -144,7 +144,7 @@ Russian and Belarus players competed under no nationality due to the [[2022 Russ
 |{{#invoke:flag|icon|IND}} Rohan Bopanna<br />{{#invoke:flag|icon|AUS}} Matthew Ebden
 |6–3, 3–6, [10–3]
 |-
-! scope="row" |[[2023 Italian Open (tennis)|'''Italian Open''']] <br /> {{small|[[2023 Italian Open – Men's singles|Singles]] – [[2023 Italian Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2023 Italian Open (tennis)|'''Italian Open''']] <br /> <small>[[2023 Italian Open – Men's singles|Singles]] – [[2023 Italian Open – Men's doubles|Doubles]]</small>
 |{{flagg|}} Daniil Medvedev
 |{{#invoke:flag|icon|DEN}} Holger Rune
 |7–5, 7–5
@@ -152,7 +152,7 @@ Russian and Belarus players competed under no nationality due to the [[2022 Russ
 |{{#invoke:flag|icon|NED}} [[Robin Haase]] <br /> {{#invoke:flag|icon|NED}} [[Botic van de Zandschulp]]
 |7–5, 6–1
 |-
-! scope="row" rowspan=2|[[2023 National Bank Open|'''Canadian Open''']] <br /> {{small|[[2023 National Bank Open – Men's singles|Singles]] – [[2023 National Bank Open – Men's doubles|Doubles]]}}
+! scope="row" rowspan=2|[[2023 National Bank Open|'''Canadian Open''']] <br /> <small>[[2023 National Bank Open – Men's singles|Singles]] – [[2023 National Bank Open – Men's doubles|Doubles]]</small>
 |rowspan=2 style="background:#ddfddd"|{{#invoke:flag|icon|ITA}} [[Jannik Sinner]]*
 |rowspan=2|{{#invoke:flag|icon|AUS}} [[Alex de Minaur]]
 |rowspan=2|6–4, 6–1
@@ -162,7 +162,7 @@ Russian and Belarus players competed under no nationality due to the [[2022 Russ
 |-
 |{{#invoke:flag|icon|NED}} [[Jean-Julien Rojer]]
 |-
-! scope="row" |[[2023 Western & Southern Open|'''Cincinnati Open''']] <br /> {{small|[[2023 Western & Southern Open – Men's singles|Singles]] – [[2023 Western & Southern Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2023 Western & Southern Open|'''Cincinnati Open''']] <br /> <small>[[2023 Western & Southern Open – Men's singles|Singles]] – [[2023 Western & Southern Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} [[Novak Djokovic]]
 |{{#invoke:flag|icon|ESP}} Carlos Alcaraz
 |5–7, 7–6<sup>(9–7)</sup>, 7–6<sup>(7–4)</sup>
@@ -170,7 +170,7 @@ Russian and Belarus players competed under no nationality due to the [[2022 Russ
 |{{#invoke:flag|icon|GBR}} [[Jamie Murray]] <br /> {{#invoke:flag|icon|NZL}} [[Michael Venus (tennis)|Michael Venus]]
 |3–6, 6–1, [11–9]
 |-
-! scope="row" |[[2023 Rolex Shanghai Masters|'''Shanghai Masters''']] <br /> {{small|[[2023 Rolex Shanghai Masters – Singles|Singles]] – [[2023 Rolex Shanghai Masters – Doubles|Doubles]]}}
+! scope="row" |[[2023 Rolex Shanghai Masters|'''Shanghai Masters''']] <br /> <small>[[2023 Rolex Shanghai Masters – Singles|Singles]] – [[2023 Rolex Shanghai Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|POL}} [[Hubert Hurkacz]]
 |{{flagg|}} Andrey Rublev
 |6–3, 3–6, 7–6<sup>(10–8)</sup>
@@ -178,7 +178,7 @@ Russian and Belarus players competed under no nationality due to the [[2022 Russ
 |{{#invoke:flag|icon|IND}} Rohan Bopanna <br /> {{#invoke:flag|icon|AUS}} Matthew Ebden
 |5–7, 6–2, [10–7]
 |-
-!scope="row" |[[2023 Rolex Paris Masters|'''Paris Masters''']] <br /> {{small|[[2023 Rolex Paris Masters – Singles|Singles]] – [[2023 Rolex Paris Masters – Doubles|Doubles]]}}
+!scope="row" |[[2023 Rolex Paris Masters|'''Paris Masters''']] <br /> <small>[[2023 Rolex Paris Masters – Singles|Singles]] – [[2023 Rolex Paris Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|BUL}} [[Grigor Dimitrov]]
 |6–4, 6–3

@@ -93,7 +93,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -117,7 +117,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 | style="background:#ededed"| Beijing
 |-
 ! scope="row" | '''[[2020 Qatar Total Open|Doha]]'''
-{{small|[[2020 Qatar Total Open – Singles|Singles]] – [[2020 Qatar Total Open – Doubles|Doubles]]}}
+<small>[[2020 Qatar Total Open – Singles|Singles]] – [[2020 Qatar Total Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|BLR}} [[Aryna Sabalenka]]
 | {{#invoke:flag|icon|CZE}} [[Petra Kvitová]]
 |6–3, 6–3
@@ -126,7 +126,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |6–2, 5–7, [10–2]
 |-
 ! scope="row" | '''[[2020 Western & Southern Open|Cincinnati]]'''
-{{small|[[2020 Western & Southern Open – Women's singles|Singles]] – [[2020 Western & Southern Open – Women's doubles|Doubles]]}}
+<small>[[2020 Western & Southern Open – Women's singles|Singles]] – [[2020 Western & Southern Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|BLR}} [[Victoria Azarenka]]
 | {{#invoke:flag|icon|JPN}} [[Naomi Osaka]]
 |Walkover
@@ -135,11 +135,11 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |6–1, 4–6, [10–4]
 |-
 ! scope="row" | '''[[2020 Italian Open (tennis)|Rome]]'''
-{{small|[[2020 Italian Open – Women's singles|Singles]] – [[2020 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2020 Italian Open – Women's singles|Singles]] – [[2020 Italian Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ROU}} [[Simona Halep]]
 |{{#invoke:flag|icon|CZE}} [[Karolína Plíšková]]
 |6–0, 2–1, ret.
-|{{#invoke:flag|icon|TPE}} Hsieh Su-wei <br /> {{#invoke:flag|icon|CZE}} Barbora Strýcová
+|{{#invoke:flag|icon|TPE}} Hsieh Su-wei <small>(2)</small> <br /> {{#invoke:flag|icon|CZE}} Barbora Strýcová <small>(2)</small>
 |{{#invoke:flag|icon|GER}} [[Anna-Lena Friedsam]] <br /> {{#invoke:flag|icon|ROU}} [[Raluca Olaru]]
 |6–2, 6–2
 |}

@@ -91,7 +91,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
 ! scope="col"| Runners-up
@@ -101,7 +101,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[1999 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[1999 Toray Pan Pacific Open – Singles|Singles]] – [[1999 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[1999 Toray Pan Pacific Open – Singles|Singles]] – [[1999 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SUI}} [[Martina Hingis]]
 |{{#invoke:flag|icon|RSA}} [[Amanda Coetzer]]
 | 6–2, 6–1
@@ -110,7 +110,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–2, 6–3
 |-
 ! scope="row" rowspan=2| '''[[1999 Newsweek Champions Cup and the Evert Cup|Indian Wells]]'''
-{{small|[[1999 Evert Cup – Singles|Singles]] – [[1999 Evert Cup – Doubles|Doubles]]}}
+<small>[[1999 Evert Cup – Singles|Singles]] – [[1999 Evert Cup – Doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|USA}} [[Serena Williams]]*
 | rowspan="2" |{{#invoke:flag|icon|GER}} [[Steffi Graf]]
 | rowspan="2" | 6–3, 3–6, 7–5
@@ -121,7 +121,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |style="background:#ddfddd"| {{#invoke:flag|icon|RUS}} [[Anna Kournikova]]*
 |-
 ! scope="row" | '''[[1999 Lipton Championships|Miami]]'''
-{{small|[[1999 Lipton Championships – Women's singles|Singles]] – [[1999 Lipton Championships – Women's doubles|Doubles]]}}
+<small>[[1999 Lipton Championships – Women's singles|Singles]] – [[1999 Lipton Championships – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|USA}} [[Venus Williams]]
 |{{#invoke:flag|icon|USA}} Serena Williams
 | 6–1, 4–6, 6–4
@@ -130,7 +130,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 0–6, 6–4, 7–6<sup>(7–1)</sup>
 |-
 ! scope="row" rowspan=2| '''[[1999 Family Circle Cup|Hilton Head]]'''
-{{small|[[1999 Family Circle Cup – Singles|Singles]] – [[1999 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[1999 Family Circle Cup – Singles|Singles]] – [[1999 Family Circle Cup – Doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|SUI}} Martina Hingis
 | rowspan="2" |{{#invoke:flag|icon|RUS}} Anna Kournikova
 | rowspan="2" | 6–4, 6–3
@@ -141,7 +141,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|CZE}} Jana Novotná
 |-
 ! scope="row" | '''[[1999 Italian Open (tennis)|Rome]]'''
-{{small|[[1999 Italian Open – Women's singles|Singles]] – [[1999 Italian Open – Women's doubles|Doubles]]}}
+<small>[[1999 Italian Open – Women's singles|Singles]] – [[1999 Italian Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|USA}} Venus Williams
 |{{#invoke:flag|icon|FRA}} [[Mary Pierce]]
 | 6–4, 6–2
@@ -150,7 +150,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–2, 6–2
 |-
 ! scope="row" | '''[[1999 WTA German Open|Berlin]]'''
-{{small|[[1999 WTA German Open – Singles|Singles]] – [[1999 WTA German Open – Doubles|Doubles]]}}
+<small>[[1999 WTA German Open – Singles|Singles]] – [[1999 WTA German Open – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SUI}} Martina Hingis
 | {{#invoke:flag|icon|FRA}} [[Julie Halard-Decugis]]
 | 6–0, 6–1
@@ -159,7 +159,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–3, 7–5
 |-
 ! scope="row" | '''[[1999 du Maurier Open|Toronto]]'''
-{{small|[[1999 du Maurier Open – Women's singles|Singles]] – [[1999 du Maurier Open – Women's doubles|Doubles]]}}
+<small>[[1999 du Maurier Open – Women's singles|Singles]] – [[1999 du Maurier Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SUI}} Martina Hingis
 |{{#invoke:flag|icon|USA}} Monica Seles
 | 6–4, 6–4
@@ -168,7 +168,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–3, 2–6, 6–3
 |-
 ! scope="row" rowspan=2| '''[[1999 Swisscom Challenge|Zürich]]'''
-{{small|[[1999 Swisscom Challenge – Singles|Singles]] – [[1999 Swisscom Challenge – Doubles|Doubles]]}}
+<small>[[1999 Swisscom Challenge – Singles|Singles]] – [[1999 Swisscom Challenge – Doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|USA}} Venus Williams
 | rowspan="2" |{{#invoke:flag|icon|SUI}} Martina Hingis
 | rowspan="2" | 6–3, 6–4
@@ -179,7 +179,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|AUS}} [[Rennae Stubbs]]
 |-
 ! scope="row" | '''[[1999 Kremlin Cup|Moscow]]'''
-{{small|[[1999 Kremlin Cup – Women's singles|Singles]] – [[1999 Kremlin Cup – Women's doubles|Doubles]]}}
+<small>[[1999 Kremlin Cup – Women's singles|Singles]] – [[1999 Kremlin Cup – Women's doubles|Doubles]]</small>
 |style="background:#ddfddd"| {{#invoke:flag|icon|FRA}} [[Nathalie Tauziat]]*
 |{{#invoke:flag|icon|AUT}} Barbara Schett
 | 2–6, 6–4, 6–1

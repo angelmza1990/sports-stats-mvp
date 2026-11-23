@@ -97,7 +97,7 @@ The '''2022 ATP Masters 1000''' season is the thirty-third edition of the [[ATP 
 ! scope="col" style="width:14em"| Runners-up
 ! scope="col" style="width:10em"| Score
 |-
-! scope="row"|{{nowrap|[[2022 BNP Paribas Open|'''Indian Wells Open''']] <br />{{small|[[2022 BNP Paribas Open – Men's singles|Singles]] – [[2022 BNP Paribas Open – Men's doubles|Doubles]]}}}}
+! scope="row"|{{nowrap|[[2022 BNP Paribas Open|'''Indian Wells Open''']] <br /><small>[[2022 BNP Paribas Open – Men's singles|Singles]] – [[2022 BNP Paribas Open – Men's doubles|Doubles]]</small>}}
 |style="background:#ddfddd"|{{#invoke:flag|icon|USA}} [[Taylor Fritz]]*
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |6–3, 7–6<sup>(7–5)</sup>
@@ -105,7 +105,7 @@ The '''2022 ATP Masters 1000''' season is the thirty-third edition of the [[ATP 
 |{{#invoke:flag|icon|MEX}} [[Santiago González (tennis)|Santiago González]]<br />{{#invoke:flag|icon|FRA}} Édouard Roger-Vasselin
 |7–6<sup>(7–4)</sup>, 6–3
 |-
-! scope="row"|[[2022 Miami Open|'''Miami Open''']] <br />{{small|[[2022 Miami Open – Men's singles|Singles]] – [[2022 Miami Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2022 Miami Open|'''Miami Open''']] <br /><small>[[2022 Miami Open – Men's singles|Singles]] – [[2022 Miami Open – Men's doubles|Doubles]]</small>
 |style="background:#ddfddd"|{{#invoke:flag|icon|ESP}} [[Carlos Alcaraz]]*
 |{{#invoke:flag|icon|NOR}} [[Casper Ruud]]
 |7–5, 6–4
@@ -113,7 +113,7 @@ The '''2022 ATP Masters 1000''' season is the thirty-third edition of the [[ATP 
 |{{#invoke:flag|icon|NED}} Wesley Koolhof<br />{{#invoke:flag|icon|GBR}} Neal Skupski
 |7–6<sup>(7–5)</sup>, 6–4
 |-
-! scope="row"|[[2022 Monte-Carlo Masters|'''Monte-Carlo Masters''']]<br />{{small|[[2022 Monte-Carlo Masters – Singles|Singles]] – [[2022 Monte-Carlo Masters – Doubles|Doubles]]}}
+! scope="row"|[[2022 Monte-Carlo Masters|'''Monte-Carlo Masters''']]<br /><small>[[2022 Monte-Carlo Masters – Singles|Singles]] – [[2022 Monte-Carlo Masters – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|GRE}} Stefanos Tsitsipas
 | {{#invoke:flag|icon|ESP}} [[Alejandro Davidovich Fokina]]
 |6–3, 7–6<sup>(7–3)</sup>
@@ -122,7 +122,7 @@ The '''2022 ATP Masters 1000''' season is the thirty-third edition of the [[ATP 
 |{{#invoke:flag|icon|COL}} Juan Sebastián Cabal<br />{{#invoke:flag|icon|COL}} Robert Farah
 |6–4, 3–6, [10–7]
 |-
-! scope="row"|[[2022 Mutua Madrid Open|'''Madrid Open''']] <br />{{small|[[2022 Mutua Madrid Open – Men's singles|Singles]] – [[2022 Mutua Madrid Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2022 Mutua Madrid Open|'''Madrid Open''']] <br /><small>[[2022 Mutua Madrid Open – Men's singles|Singles]] – [[2022 Mutua Madrid Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Carlos Alcaraz
 |{{#invoke:flag|icon|GER}} Alexander Zverev
 |6–3, 6–1
@@ -130,7 +130,7 @@ The '''2022 ATP Masters 1000''' season is the thirty-third edition of the [[ATP 
 |{{#invoke:flag|icon|COL}} Juan Sebastián Cabal<br />{{#invoke:flag|icon|COL}} Robert Farah
 |7–6<sup>(7–4)</sup>, 4–6, [10–5]
 |-
-! scope="row"|[[2022 Italian Open (tennis)|'''Italian Open''']] <br />{{small|[[2022 Italian Open – Men's singles|Singles]] – [[2022 Italian Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2022 Italian Open (tennis)|'''Italian Open''']] <br /><small>[[2022 Italian Open – Men's singles|Singles]] – [[2022 Italian Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|GRE}} Stefanos Tsitsipas
 |6–0, 7–6<sup>(7–5)</sup>
@@ -138,7 +138,7 @@ The '''2022 ATP Masters 1000''' season is the thirty-third edition of the [[ATP 
 |{{#invoke:flag|icon|USA}} John Isner<br />{{#invoke:flag|icon|ARG}} Diego Schwartzman
 |6–2, 6–7<sup>(6–8)</sup>, [12–10]
 |-
-! scope="row"|[[2022 Canadian Open (tennis)|'''Canadian Open''']] <br />{{small|[[2022 National Bank Open – Men's singles|Singles]] – [[2022 National Bank Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2022 Canadian Open (tennis)|'''Canadian Open''']] <br /><small>[[2022 National Bank Open – Men's singles|Singles]] – [[2022 National Bank Open – Men's doubles|Doubles]]</small>
 |style="background:#ddfddd"|{{#invoke:flag|icon|ESP}} [[Pablo Carreño Busta]]*
 |{{#invoke:flag|icon|POL}} Hubert Hurkacz
 |3–6, 6–3, 6–3
@@ -146,7 +146,7 @@ The '''2022 ATP Masters 1000''' season is the thirty-third edition of the [[ATP 
 |{{#invoke:flag|icon|GBR}} [[Dan Evans (tennis)|Dan Evans]]<br />{{#invoke:flag|icon|AUS}} John Peers
 |6–2, 4–6, [10–6]
 |-
-! scope="row"|[[2022 Western & Southern Open|'''Cincinnati Open''']] <br />{{small|[[2022 Western & Southern Open – Men's singles|Singles]] – [[2022 Western & Southern Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2022 Western & Southern Open|'''Cincinnati Open''']] <br /><small>[[2022 Western & Southern Open – Men's singles|Singles]] – [[2022 Western & Southern Open – Men's doubles|Doubles]]</small>
 |style="background:#ddfddd"|{{#invoke:flag|icon|CRO}} [[Borna Ćorić]]*
 |{{#invoke:flag|icon|GRE}} Stefanos Tsitsipas
 |7–6<sup>(7–0)</sup>, 6–2
@@ -157,7 +157,7 @@ The '''2022 ATP Masters 1000''' season is the thirty-third edition of the [[ATP 
 ! scope="row"|'''Shanghai Masters'''
 |colspan="6" {{N/A|''Not held due to the [[COVID-19 pandemic in Shanghai|COVID-19 pandemic]].''}}
 |-
-!scope="row"|[[2022 Rolex Paris Masters|'''Paris Masters''']] <br />{{small|[[2022 Rolex Paris Masters – Singles|Singles]] – [[2022 Rolex Paris Masters – Doubles|Doubles]]}}
+!scope="row"|[[2022 Rolex Paris Masters|'''Paris Masters''']] <br /><small>[[2022 Rolex Paris Masters – Singles|Singles]] – [[2022 Rolex Paris Masters – Doubles|Doubles]]</small>
 |style="background:#ddfddd"|{{#invoke:flag|icon|DEN}} [[Holger Rune]]*
 |{{#invoke:flag|icon|SRB}} [[Novak Djokovic]]
 |3–6, 6–3, 7–5

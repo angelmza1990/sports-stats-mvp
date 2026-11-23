@@ -86,7 +86,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -97,7 +97,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[1996 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[1996 Toray Pan Pacific Open – Singles|Singles]] – [[1996 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[1996 Toray Pan Pacific Open – Singles|Singles]] – [[1996 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|CRO}} [[Iva Majoli]]
 | {{#invoke:flag|icon|ESP}} [[Arantxa Sánchez Vicario]]
 | 6–4, 6–1
@@ -106,7 +106,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |7–6, 6–3
 |-
 ! scope="row" rowspan=2| '''[[1996 Newsweek Champions Cup and the State Farm Evert Cup|Indian Wells]]'''
-{{small|[[1996 State Farm Evert Cup – Singles|Singles]] – [[1996 State Farm Evert Cup – Doubles|Doubles]]}}
+<small>[[1996 State Farm Evert Cup – Singles|Singles]] – [[1996 State Farm Evert Cup – Doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|GER}} [[Steffi Graf]]
 | rowspan="2" | {{#invoke:flag|icon|ESP}} [[Conchita Martínez]]
 | rowspan="2" | 7–6<sup>(7–5)</sup>, 7–6<sup>(7–5)</sup>
@@ -117,7 +117,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|NED}} [[Brenda Schultz-McCarthy]]
 |-
 ! scope="row" | '''[[1996 Lipton Championships|Miami]]'''
-{{small|[[1996 Lipton Championships – Women's singles|Singles]] – [[1996 Lipton Championships – Women's doubles|Doubles]]}}
+<small>[[1996 Lipton Championships – Women's singles|Singles]] – [[1996 Lipton Championships – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|GER}} Steffi Graf
 | {{#invoke:flag|icon|USA}} Chanda Rubin
 | 6–1, 6–3
@@ -126,7 +126,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–4, 6–4
 |-
 ! scope="row" | '''[[1996 Family Circle Cup|Hilton Head]]'''
-{{small|[[1996 Family Circle Cup – Singles|Singles]] – [[1996 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[1996 Family Circle Cup – Singles|Singles]] – [[1996 Family Circle Cup – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} Arantxa Sánchez Vicario
 | {{#invoke:flag|icon|AUT}} [[Barbara Paulus]]
 | 6–2, 2–6, 6–2
@@ -135,7 +135,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–2, 6–3
 |-
 ! scope="row" rowspan=2| '''[[1996 Italian Open (tennis)|Rome]]'''
-{{small|[[1996 Italian Open – Women's singles|Singles]] – [[1996 Italian Open – Women's doubles|Doubles]]}}
+<small>[[1996 Italian Open – Women's singles|Singles]] – [[1996 Italian Open – Women's doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|ESP}} Conchita Martínez
 | rowspan="2" | {{#invoke:flag|icon|SUI}} Martina Hingis
 | rowspan="2" | 6–2, 6–3
@@ -146,7 +146,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |style="background:#ddfddd"| {{#invoke:flag|icon|ROM}} [[Irina Spîrlea]]*
 |-
 ! scope="row" | '''[[1996 WTA German Open|Berlin]]'''
-{{small|[[1996 WTA German Open – Singles|Singles]] – [[1996 WTA German Open – Doubles|Doubles]]}}
+<small>[[1996 WTA German Open – Singles|Singles]] – [[1996 WTA German Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|GER}} Steffi Graf
 | {{#invoke:flag|icon|SVK}} [[Karina Habšudová]]
 | 4–6, 6–2, 7–5
@@ -155,7 +155,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–1, 5–7, 7–6<sup>(7–4)</sup>
 |-
 ! scope="row" | '''[[1996 du Maurier Open|Montréal]]'''
-{{small|[[1996 du Maurier Open – Women's singles|Singles]] – [[1996 du Maurier Open – Women's doubles|Doubles]]}}
+<small>[[1996 du Maurier Open – Women's singles|Singles]] – [[1996 du Maurier Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Monica Seles]]
 | {{#invoke:flag|icon|ESP}} Arantxa Sánchez Vicario
 | 6–1, 7–6<sup>(7–2)</sup>
@@ -164,7 +164,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |7–6, 6–1
 |-
 ! scope="row" rowspan=2| '''[[1996 European Indoors|Zürich]]'''
-{{small|[[1996 European Indoors – Singles|Singles]] – [[1996 European Indoors – Doubles|Doubles]]}}
+<small>[[1996 European Indoors – Singles|Singles]] – [[1996 European Indoors – Doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|CZE}} [[Jana Novotná]]*
 | rowspan="2" | {{#invoke:flag|icon|SUI}} Martina Hingis
 | rowspan="2" | 6–2, 6–2

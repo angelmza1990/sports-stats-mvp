@@ -93,7 +93,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2017 Dubai Tennis Championships|Dubai]]'''
-{{small|[[2017 Dubai Tennis Championships – Women's singles|Singles]] – [[2017 Dubai Tennis Championships – Women's doubles|Doubles]]}}
+<small>[[2017 Dubai Tennis Championships – Women's singles|Singles]] – [[2017 Dubai Tennis Championships – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|UKR}} [[Elina Svitolina]]*
 | {{#invoke:flag|icon|DEN}} [[Caroline Wozniacki]]
 | 6–4, 6–2
@@ -113,7 +113,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |6–2, 4–6, [10–7]
 |-
 ! scope="row" | '''[[2017 BNP Paribas Open|Indian Wells]]'''
-{{small|[[2017 BNP Paribas Open – Women's singles|Singles]] – [[2017 BNP Paribas Open – Women's doubles|Doubles]]}}
+<small>[[2017 BNP Paribas Open – Women's singles|Singles]] – [[2017 BNP Paribas Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|RUS}} [[Elena Vesnina]]*
 | {{#invoke:flag|icon|RUS}} [[Svetlana Kuznetsova]]
 | 6–7<sup>(6–8)</sup>, 7–5, 6–4
@@ -122,7 +122,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |7–6<sup>(7–4)</sup>, 6–2
 |-
 ! scope="row" | '''[[2017 Miami Open|Miami]]'''
-{{small|[[2017 Miami Open – Women's singles|Singles]] – [[2017 Miami Open – Women's doubles|Doubles]]}}
+<small>[[2017 Miami Open – Women's singles|Singles]] – [[2017 Miami Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|GBR}} [[Johanna Konta]]*
 | {{#invoke:flag|icon|DEN}} Caroline Wozniacki
 |6–4, 6–3
@@ -131,56 +131,56 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |6–4, 6–3
 |-
 ! scope="row" | '''[[2017 Mutua Madrid Open|Madrid]]'''
-{{small|[[2017 Mutua Madrid Open – Women's singles|Singles]] – [[2017 Mutua Madrid Open – Women's doubles|Doubles]]}}
+<small>[[2017 Mutua Madrid Open – Women's singles|Singles]] – [[2017 Mutua Madrid Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ROU}} [[Simona Halep]]
 | {{#invoke:flag|icon|FRA}} [[Kristina Mladenovic]]
 |7–5, 6–7<sup>(5–7)</sup>, 6–2
-| {{#invoke:flag|icon|TPE}} Latisha Chan<br /> {{#invoke:flag|icon|SUI}} Martina Hingis
+| {{#invoke:flag|icon|TPE}} Latisha Chan <small>(2)</small> <br /> {{#invoke:flag|icon|SUI}} Martina Hingis <small>(2)</small> 
 | {{#invoke:flag|icon|HUN}} [[Tímea Babos]] <br /> {{#invoke:flag|icon|CZE}} Andrea Hlaváčková
 |6–4, 6–3
 |-
 ! scope="row" | '''[[2017 Italian Open (tennis)|Rome]]'''
-{{small|[[2017 Italian Open – Women's singles|Singles]] – [[2017 Italian Open – Women's doubles|Doubles]]}}
-| {{#invoke:flag|icon|UKR}} Elina Svitolina
+<small>[[2017 Italian Open – Women's singles|Singles]] – [[2017 Italian Open – Women's doubles|Doubles]]</small>
+| {{#invoke:flag|icon|UKR}} Elina Svitolina <small>(2)</small> 
 | {{#invoke:flag|icon|ROU}} Simona Halep
 |4–6, 7–5, 6–1
-| {{#invoke:flag|icon|TPE}} Latisha Chan<br /> {{#invoke:flag|icon|SUI}} Martina Hingis
+| {{#invoke:flag|icon|TPE}} Latisha Chan <small>(3)</small>  <br /> {{#invoke:flag|icon|SUI}} Martina Hingis <small>(3)</small> 
 | {{#invoke:flag|icon|RUS}} Ekaterina Makarova <br /> {{#invoke:flag|icon|RUS}} Elena Vesnina
 |7–5, 7–6<sup>(7–4)</sup>
 |-
 ! scope="row" | '''[[2017 Rogers Cup|Toronto]]'''
-{{small|[[2017 Rogers Cup – Women's singles|Singles]] – [[2017 Rogers Cup – Women's doubles|Doubles]]}}
-| {{#invoke:flag|icon|UKR}} Elina Svitolina
+<small>[[2017 Rogers Cup – Women's singles|Singles]] – [[2017 Rogers Cup – Women's doubles|Doubles]]</small>
+| {{#invoke:flag|icon|UKR}} Elina Svitolina <small>(3)</small> 
 | {{#invoke:flag|icon|DEN}} Caroline Wozniacki
 |6–4, 6–0
-| {{#invoke:flag|icon|RUS}} Ekaterina Makarova <br /> {{#invoke:flag|icon|RUS}} Elena Vesnina
+| {{#invoke:flag|icon|RUS}} Ekaterina Makarova <small>(2)</small> <br /> {{#invoke:flag|icon|RUS}} Elena Vesnina <small>(2)</small> 
 | {{#invoke:flag|icon|GER}} [[Anna-Lena Grönefeld]] <br /> {{#invoke:flag|icon|CZE}} [[Květa Peschke]]
 |6–0, 6–4
 |-
 ! scope="row" | '''[[2017 Western & Southern Open|Cincinnati]]'''
-{{small|[[2017 Western & Southern Open – Women's singles|Singles]] – [[2017 Western & Southern Open – Women's doubles|Doubles]]}}
+<small>[[2017 Western & Southern Open – Women's singles|Singles]] – [[2017 Western & Southern Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} [[Garbiñe Muguruza]]
 | {{#invoke:flag|icon|ROU}} Simona Halep
 |6–1, 6–0
-| {{#invoke:flag|icon|TPE}} Latisha Chan<br /> {{#invoke:flag|icon|SUI}} Martina Hingis
+| {{#invoke:flag|icon|TPE}} Latisha Chan <small>(4)</small>  <br /> {{#invoke:flag|icon|SUI}} Martina Hingis <small>(4)</small> 
 | {{#invoke:flag|icon|TPE}} [[Hsieh Su-wei]] <br /> {{#invoke:flag|icon|ROU}} [[Monica Niculescu]]
 |4–6, 6–4, [10–7]
 |-
 ! scope="row" | '''[[2017 Wuhan Open|Wuhan]]'''
-{{small|[[2017 Wuhan Open – Singles|Singles]] – [[2017 Wuhan Open – Doubles|Doubles]]}}
+<small>[[2017 Wuhan Open – Singles|Singles]] – [[2017 Wuhan Open – Doubles|Doubles]]</small>
 |style="background:#ddfddd"| {{#invoke:flag|icon|FRA}} [[Caroline Garcia]]*
 |{{#invoke:flag|icon|AUS}} [[Ashleigh Barty]]
 |6–7<sup>(3–7)</sup>, 7–6<sup>(7–4)</sup>, 6–2
-|{{#invoke:flag|icon|TPE}} Latisha Chan<br /> {{#invoke:flag|icon|SUI}} Martina Hingis
+|{{#invoke:flag|icon|TPE}} Latisha Chan <small>(5)</small> <br /> {{#invoke:flag|icon|SUI}} Martina Hingis <small>(5)</small> 
 |{{#invoke:flag|icon|JPN}} [[Shuko Aoyama]] <br /> {{#invoke:flag|icon|CHN}} [[Yang Zhaoxuan]]
 |7–6<sup>(7–5)</sup>, 3–6, [10–4]
 |-
 ! scope="row" | '''[[2017 China Open (tennis)|Beijing]]'''
-{{small|[[2017 China Open – Women's singles|Singles]] – [[2017 China Open – Women's doubles|Doubles]]}}
-|{{#invoke:flag|icon|FRA}} Caroline Garcia
+<small>[[2017 China Open – Women's singles|Singles]] – [[2017 China Open – Women's doubles|Doubles]]</small>
+|{{#invoke:flag|icon|FRA}} Caroline Garcia <small>(2)</small> 
 |{{#invoke:flag|icon|ROU}} Simona Halep
 |6–4, 7–6<sup>(7–3)</sup>
-|{{#invoke:flag|icon|TPE}} Latisha Chan<br /> {{#invoke:flag|icon|SUI}} Martina Hingis
+|{{#invoke:flag|icon|TPE}} Latisha Chan <small>(6)</small> <br /> {{#invoke:flag|icon|SUI}} Martina Hingis <small>(6)</small> 
 |{{#invoke:flag|icon|HUN}} Tímea Babos <br /> {{#invoke:flag|icon|CZE}} Andrea Hlaváčková
 |6–1, 6–4
 |}

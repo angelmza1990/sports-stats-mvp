@@ -93,7 +93,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2014 Qatar Total Open|Doha]]'''
-{{small|[[2014 Qatar Total Open – Singles|Singles]] – [[2014 Qatar Total Open – Doubles|Doubles]]}}
+<small>[[2014 Qatar Total Open – Singles|Singles]] – [[2014 Qatar Total Open – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|ROU}} [[Simona Halep]]*
 | {{#invoke:flag|icon|GER}} [[Angelique Kerber]]
 | 6–2, 6–3
@@ -113,16 +113,16 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |6–4, 6–0
 |-
 ! scope="row" | '''[[2014 BNP Paribas Open|Indian Wells]]'''
-{{small|[[2014 BNP Paribas Open – Women's singles|Singles]] – [[2014 BNP Paribas Open – Women's doubles|Doubles]]}}
+<small>[[2014 BNP Paribas Open – Women's singles|Singles]] – [[2014 BNP Paribas Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|ITA}} [[Flavia Pennetta]]*
 | {{#invoke:flag|icon|POL}} [[Agnieszka Radwańska]]
 | 6–2, 6–1
-| {{#invoke:flag|icon|TPE}} Hsieh Su-wei <br /> {{#invoke:flag|icon|CHN}} Peng Shuai
+| {{#invoke:flag|icon|TPE}} Hsieh Su-wei <small>(2)</small> <br /> {{#invoke:flag|icon|CHN}} Peng Shuai <small>(2)</small> 
 | {{#invoke:flag|icon|ZIM}} [[Cara Black]] <br /> {{#invoke:flag|icon|IND}} [[Sania Mirza]]
 |7–6<sup>(7–5)</sup>, 6–2
 |-
 ! scope="row" rowspan=2| '''[[2014 Sony Open Tennis|Miami]]'''
-{{small|[[2014 Sony Open Tennis – Women's singles|Singles]] – [[2014 Sony Open Tennis – Women's doubles|Doubles]]}}
+<small>[[2014 Sony Open Tennis – Women's singles|Singles]] – [[2014 Sony Open Tennis – Women's doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|USA}} [[Serena Williams]]
 | rowspan="2" | {{#invoke:flag|icon|CHN}} [[Li Na (tennis)|Li Na]]
 | rowspan="2" |7–5, 6–1
@@ -133,7 +133,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |style="background:#ddfddd"| {{#invoke:flag|icon|GER}} [[Sabine Lisicki]]*
 |-
 ! scope="row" | '''[[2014 Mutua Madrid Open|Madrid]]'''
-{{small|[[2014 Mutua Madrid Open – Women's singles|Singles]] – [[2014 Mutua Madrid Open – Women's doubles|Doubles]]}}
+<small>[[2014 Mutua Madrid Open – Women's singles|Singles]] – [[2014 Mutua Madrid Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|RUS}} [[Maria Sharapova]]
 | {{#invoke:flag|icon|ROU}} Simona Halep
 |1–6, 6–2, 6–3
@@ -142,8 +142,8 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |6–4, 6–4
 |-
 ! scope="row" | '''[[2014 Italian Open (tennis)|Rome]]'''
-{{small|[[2014 Italian Open – Women's singles|Singles]] – [[2014 Italian Open – Women's doubles|Doubles]]}}
-| {{#invoke:flag|icon|USA}} Serena Williams
+<small>[[2014 Italian Open – Women's singles|Singles]] – [[2014 Italian Open – Women's doubles|Doubles]]</small>
+| {{#invoke:flag|icon|USA}} Serena Williams <small>(2)</small>
 | {{#invoke:flag|icon|ITA}} Sara Errani
 |6–3, 6–0
 | {{#invoke:flag|icon|CZE}} Květa Peschke <br /> {{#invoke:flag|icon|SLO}} Katarina Srebotnik
@@ -151,17 +151,17 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |4–0, ret.
 |-
 ! scope="row" | '''[[2014 Rogers Cup|Montréal]]'''
-{{small|[[2014 Rogers Cup – Women's singles|Singles]] – [[2014 Rogers Cup – Women's doubles|Doubles]]}}
+<small>[[2014 Rogers Cup – Women's singles|Singles]] – [[2014 Rogers Cup – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|POL}} Agnieszka Radwańska
 | {{#invoke:flag|icon|USA}} [[Venus Williams]]
 |6–4, 6–2
-| {{#invoke:flag|icon|ITA}} Sara Errani <br /> {{#invoke:flag|icon|ITA}} Roberta Vinci
+| {{#invoke:flag|icon|ITA}} Sara Errani <small>(2)</small> <br /> {{#invoke:flag|icon|ITA}} Roberta Vinci <small>(2)</small> 
 | {{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|IND}} Sania Mirza
 |7–6<sup>(7–4)</sup>, 6–3
 |-
 ! scope="row" | '''[[2014 Western & Southern Open|Cincinnati]]'''
-{{small|[[2014 Western & Southern Open – Women's singles|Singles]] – [[2014 Western & Southern Open – Women's doubles|Doubles]]}}
-| {{#invoke:flag|icon|USA}} Serena Williams
+<small>[[2014 Western & Southern Open – Women's singles|Singles]] – [[2014 Western & Southern Open – Women's doubles|Doubles]]</small>
+| {{#invoke:flag|icon|USA}} Serena Williams <small>(3)</small>
 | {{#invoke:flag|icon|SRB}} [[Ana Ivanovic]]
 |6–4, 6–1
 | {{#invoke:flag|icon|USA}} [[Raquel Atawo|Raquel Kops-Jones]] <br /> {{#invoke:flag|icon|USA}} [[Abigail Spears]]
@@ -169,20 +169,20 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |6–1, 2–0, ret.
 |-
 ! scope="row" | '''[[2014 Wuhan Open|Wuhan]]'''
-{{small|[[2014 Wuhan Open – Singles|Singles]] – [[2014 Wuhan Open – Doubles|Doubles]]}}
+<small>[[2014 Wuhan Open – Singles|Singles]] – [[2014 Wuhan Open – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|CZE}} [[Petra Kvitová]]
 |{{#invoke:flag|icon|CAN}} [[Eugenie Bouchard]]
 |6–3, 6–4
-|{{#invoke:flag|icon|SUI}} Martina Hingis <br /> {{#invoke:flag|icon|ITA}} Flavia Pennetta
+|{{#invoke:flag|icon|SUI}} Martina Hingis <small>(2)</small> <br /> {{#invoke:flag|icon|ITA}} Flavia Pennetta
 |{{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|FRA}} [[Caroline Garcia]]
 |6–4, 5–7, [12–10]
 |-
 ! scope="row" | '''[[2014 China Open (tennis)|Beijing]]'''
-{{small|[[2014 China Open – Women's singles|Singles]] – [[2014 China Open – Women's doubles|Doubles]]}}
-|{{#invoke:flag|icon|RUS}} Maria Sharapova
+<small>[[2014 China Open – Women's singles|Singles]] – [[2014 China Open – Women's doubles|Doubles]]</small>
+|{{#invoke:flag|icon|RUS}} Maria Sharapova <small>(2)</small>
 |{{#invoke:flag|icon|CZE}} Petra Kvitová
 |6–4, 2–6, 6–3
-|{{#invoke:flag|icon|CZE}} [[Andrea Sestini Hlaváčková|Andrea Hlaváčková]] <br /> {{#invoke:flag|icon|CHN}} Peng Shuai
+|{{#invoke:flag|icon|CZE}} [[Andrea Sestini Hlaváčková|Andrea Hlaváčková]] <br /> {{#invoke:flag|icon|CHN}} Peng Shuai <small>(3)</small> 
 |{{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|IND}} Sania Mirza
 |6–4, 6–4
 |}

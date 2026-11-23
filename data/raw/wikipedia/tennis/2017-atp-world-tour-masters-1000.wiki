@@ -87,13 +87,13 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |-
 ! scope="col"|Masters
 ! scope="col" style="width:11em"| Singles champions
-! scope="col" style="width:11em"| Runners-up
+! scope="col" style="width:12em"| Runners-up
 ! scope="col" style="width:11em"| Score
-! scope="col" style="width:11em"| Doubles champions
-! scope="col" style="width:11em"| Runners-up
+! scope="col" style="width:14em"| Doubles champions
+! scope="col" style="width:14em"| Runners-up
 ! scope="col" style="width:10em"| Score
 |-
-! rowspan="2" scope="row" | {{nowrap|[[2017 BNP Paribas Open|'''Indian Wells''']]}}<br />{{small|[[2017 BNP Paribas Open – Men's singles|Singles]] – [[2017 BNP Paribas Open – Men's doubles|Doubles]]}}
+! rowspan="2" scope="row" | {{nowrap|[[2017 BNP Paribas Open|'''Indian Wells''']]}}<br /><small>[[2017 BNP Paribas Open – Men's singles|Singles]] – [[2017 BNP Paribas Open – Men's doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|SUI}} Roger Federer
 | rowspan="2" |{{#invoke:flag|icon|SUI}} Stan Wawrinka
 | rowspan="2" |6–4, 7–5
@@ -103,7 +103,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |-
 | style="background:#ddfddd"|{{#invoke:flag|icon|USA}} [[Rajeev Ram]]*
 |-
-! rowspan="2" scope="row" |[[2017 Miami Open|'''Miami''']]<br />{{small|[[2017 Miami Open – Men's singles|Singles]] – [[2017 Miami Open – Men's doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2017 Miami Open|'''Miami''']]<br /><small>[[2017 Miami Open – Men's singles|Singles]] – [[2017 Miami Open – Men's doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|SUI}} Roger Federer
 | rowspan="2" |{{#invoke:flag|icon|ESP}} Rafael Nadal
 | rowspan="2" |6–3, 6–4
@@ -113,7 +113,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |-
 |{{#invoke:flag|icon|BRA}} Marcelo Melo
 |-
-! scope="row" | {{nowrap|[[2017 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br />{{small|[[2017 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2017 Monte-Carlo Rolex Masters – Doubles|Doubles]]}}
+! scope="row" | {{nowrap|[[2017 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br /><small>[[2017 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2017 Monte-Carlo Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|ESP}} [[Albert Ramos Viñolas]]
 |6–1, 6–3
@@ -121,7 +121,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|ESP}} Feliciano López <br />{{#invoke:flag|icon|ESP}} Marc López
 |6–3, 3–6, [10–4]
 |-
-! scope="row" |[[2017 Mutua Madrid Open|'''Madrid''']]<br />{{small|[[2017 Mutua Madrid Open – Men's singles|Singles]] – [[2017 Mutua Madrid Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2017 Mutua Madrid Open|'''Madrid''']]<br /><small>[[2017 Mutua Madrid Open – Men's singles|Singles]] – [[2017 Mutua Madrid Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |{{#invoke:flag|icon|AUT}} [[Dominic Thiem]]
 |7–6<sup>(10–8)</sup>, 6–4
@@ -129,7 +129,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|FRA}} Nicolas Mahut <br />{{#invoke:flag|icon|FRA}} Édouard Roger-Vasselin
 |7–5, 6–3
 |-
-! scope="row" |[[2017 Italian Open (tennis)|'''Rome''']]<br />{{small|[[2017 Italian Open – Men's singles|Singles]] – [[2017 Italian Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2017 Italian Open (tennis)|'''Rome''']]<br /><small>[[2017 Italian Open – Men's singles|Singles]] – [[2017 Italian Open – Men's doubles|Doubles]]</small>
 | style="background:#ddfddd" |{{#invoke:flag|icon|GER}} [[Alexander Zverev Jr.|Alexander Zverev]]*
 |{{#invoke:flag|icon|SER}} Novak Djokovic
 |6–4, 6–3
@@ -137,7 +137,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|CRO}} Ivan Dodig<br />{{#invoke:flag|icon|ESP}} Marcel Granollers
 |4–6, 6–4, [10–3]
 |-
-! scope="row" |[[2017 Rogers Cup|'''Montreal''']]<br />{{small|[[2017 Rogers Cup – Men's singles|Singles]] – [[2017 Rogers Cup – Men's doubles|Doubles]]}}
+! scope="row" |[[2017 Rogers Cup|'''Montreal''']]<br /><small>[[2017 Rogers Cup – Men's singles|Singles]] – [[2017 Rogers Cup – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|GER}} Alexander Zverev
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |6–3, 6–4
@@ -145,7 +145,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|CRO}} Ivan Dodig <br />{{#invoke:flag|icon|IND}} Rohan Bopanna
 |6–4, 3–6, [10–6]
 |-
-! scope="row" |[[2017 Western & Southern Open|'''Cincinnati''']]<br />{{small|[[2017 Western & Southern Open – Men's singles|Singles]] – [[2017 Western & Southern Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2017 Western & Southern Open|'''Cincinnati''']]<br /><small>[[2017 Western & Southern Open – Men's singles|Singles]] – [[2017 Western & Southern Open – Men's doubles|Doubles]]</small>
 | style="background:#ddfddd" |{{#invoke:flag|icon|BUL}} [[Grigor Dimitrov]]*
 |{{#invoke:flag|icon|AUS}} [[Nick Kyrgios]]
 |6–3, 7–5
@@ -153,7 +153,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|GBR}} Jamie Murray <br />{{#invoke:flag|icon|BRA}} Bruno Soares
 |7–6<sup>(8–6)</sup>, 6–4
 |-
-! scope="row" |[[2017 Shanghai Rolex Masters|'''Shanghai''']]<br />{{small|[[2017 Shanghai Rolex Masters – Singles|Singles]] – [[2017 Shanghai Rolex Masters – Doubles|Doubles]]}}
+! scope="row" |[[2017 Shanghai Rolex Masters|'''Shanghai''']]<br /><small>[[2017 Shanghai Rolex Masters – Singles|Singles]] – [[2017 Shanghai Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |6–4, 6–3
@@ -161,7 +161,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|POL}} Łukasz Kubot <br />{{#invoke:flag|icon|BRA}} Marcelo Melo
 |6–4, 6–2
 |-
-! scope="row"|[[2017 Rolex Paris Masters|'''Paris''']]<br />{{small|[[2017 Rolex Paris Masters – Singles|Singles]] – [[2017 Rolex Paris Masters – Doubles|Doubles]]}}
+! scope="row"|[[2017 Rolex Paris Masters|'''Paris''']]<br /><small>[[2017 Rolex Paris Masters – Singles|Singles]] – [[2017 Rolex Paris Masters – Doubles|Doubles]]</small>
 |style="background:#ddfddd"|{{#invoke:flag|icon|USA}} [[Jack Sock]]*
 |{{#invoke:flag|icon|SRB}} [[Filip Krajinović]]
 |5–7, 6–4, 6–1
@@ -216,7 +216,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 
 |RD1-seed7=9
 |RD1-team7={{flagicon|SUI}} '''[[Roger Federer]]'''
-|RD1-score7-1={{small|w/o}}
+|RD1-score7-1=<small>w/o</small>
 |RD1-score7-2=
 |RD1-score7-3=
 |RD1-seed8=15
@@ -601,7 +601,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |RD1-score7-3=
 |RD1-seed8=2
 |RD1-team8='''{{flagicon|SRB}} [[Novak Djokovic]]'''
-|RD1-score8-1={{small|w/o}}
+|RD1-score8-1=<small>w/o</small>
 |RD1-score8-2=
 |RD1-score8-3=
 
@@ -659,7 +659,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 
 | RD1-seed3=4
 | RD1-team3='''{{flagicon|POL}} [[Łukasz Kubot]]<br />{{flagicon|BRA}} [[Marcelo Melo]]'''
-| RD1-score3-1={{small|w/o}}
+| RD1-score3-1=<small>w/o</small>
 | RD1-score3-2=
 | RD1-score3-3=
 | RD1-seed4=
@@ -1207,7 +1207,7 @@ The twenty-eighth edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |RD1-score1-3=
 |RD1-seed2=Q
 |RD1-team2='''{{flagicon|SRB}} [[Filip Krajinović]]'''
-|RD1-score2-1={{small|w/o}}
+|RD1-score2-1=<small>w/o</small>
 |RD1-score2-2=
 |RD1-score2-3=
 

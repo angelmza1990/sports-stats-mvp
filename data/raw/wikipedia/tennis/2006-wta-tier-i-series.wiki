@@ -100,7 +100,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -111,7 +111,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2006 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[2006 Toray Pan Pacific Open – Singles|Singles]] – [[2006 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[2006 Toray Pan Pacific Open – Singles|Singles]] – [[2006 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|RUS}} [[Elena Dementieva]]*
 | {{#invoke:flag|icon|SUI}} [[Martina Hingis]]
 | 6–2, 6–0
@@ -120,35 +120,35 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–2, 6–1
 |-
 ! scope="row" | '''[[2006 Pacific Life Open|Indian Wells]]'''
-{{small|[[2006 Pacific Life Open – Women's singles|Singles]] – [[2006 Pacific Life Open – Women's doubles|Doubles]]}}
+<small>[[2006 Pacific Life Open – Women's singles|Singles]] – [[2006 Pacific Life Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|RUS}} [[Maria Sharapova]]
 | {{#invoke:flag|icon|RUS}} Elena Dementieva
 | 6–1, 6–2
-| {{#invoke:flag|icon|USA}} Lisa Raymond <br /> {{#invoke:flag|icon|AUS}} Samantha Stosur
+| {{#invoke:flag|icon|USA}} Lisa Raymond <small>(2)</small> <br /> {{#invoke:flag|icon|AUS}} Samantha Stosur <small>(2)</small>
 | {{#invoke:flag|icon|ESP}} [[Virginia Ruano Pascual]] <br /> {{#invoke:flag|icon|USA}} [[Meghann Shaughnessy]]
 |6–2, 7–5
 |-
 ! scope="row" | '''[[2006 NASDAQ-100 Open|Miami]]'''
-{{small|[[2006 NASDAQ-100 Open – Women's singles|Singles]] – [[2006 NASDAQ-100 Open – Women's doubles|Doubles]]}}
+<small>[[2006 NASDAQ-100 Open – Women's singles|Singles]] – [[2006 NASDAQ-100 Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|RUS}} [[Svetlana Kuznetsova]]*
 | {{#invoke:flag|icon|RUS}} Maria Sharapova
 | 6–4, 6–3
-| {{#invoke:flag|icon|USA}} Lisa Raymond <br /> {{#invoke:flag|icon|AUS}} Samantha Stosur
+| {{#invoke:flag|icon|USA}} Lisa Raymond <small>(3)</small> <br /> {{#invoke:flag|icon|AUS}} Samantha Stosur <small>(3)</small>
 | {{#invoke:flag|icon|RSA}} [[Liezel Huber]] <br /> {{#invoke:flag|icon|USA}} [[Martina Navratilova]]
 |6–4, 7–5
 |-
 ! scope="row" | '''[[2006 Family Circle Cup|Charleston]]'''
-{{small|[[2006 Family Circle Cup – Singles|Singles]] – [[2006 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[2006 Family Circle Cup – Singles|Singles]] – [[2006 Family Circle Cup – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|RUS}} [[Nadia Petrova]]*
 | {{#invoke:flag|icon|SUI}} [[Patty Schnyder]]
 | 6–3, 4–6, 6–1
-| {{#invoke:flag|icon|USA}} Lisa Raymond <br /> {{#invoke:flag|icon|AUS}} Samantha Stosur
+| {{#invoke:flag|icon|USA}} Lisa Raymond <small>(4)</small> <br /> {{#invoke:flag|icon|AUS}} Samantha Stosur <small>(4)</small> 
 | {{#invoke:flag|icon|ESP}} Virginia Ruano Pascual <br /> {{#invoke:flag|icon|USA}} Meghann Shaughnessy
 |3–6, 6–1, 6–1
 |-
 ! scope="row" | '''[[2006 Qatar Telecom German Open|Berlin]]'''
-{{small|[[2006 Qatar Telecom German Open – Singles|Singles]] – [[2006 Qatar Telecom German Open – Doubles|Doubles]]}}
-| {{#invoke:flag|icon|RUS}} Nadia Petrova
+<small>[[2006 Qatar Telecom German Open – Singles|Singles]] – [[2006 Qatar Telecom German Open – Doubles|Doubles]]</small>
+| {{#invoke:flag|icon|RUS}} Nadia Petrova <small>(2)</small>
 | {{#invoke:flag|icon|BEL}} [[Justine Henin]]
 | 4–6, 6–4, 7–5
 | style="background:#ddfddd"| {{#invoke:flag|icon|CHN}} [[Yan Zi (tennis)|Yan Zi]]* <br /> {{#invoke:flag|icon|CHN}} [[Zheng Jie]]*
@@ -156,7 +156,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–2, 6–3
 |-
 ! scope="row" rowspan=2| '''[[2006 Internazionali BNL d'Italia|Rome]]'''
-{{small|[[2006 Italian Open – Women's singles|Singles]] – [[2006 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2006 Italian Open – Women's singles|Singles]] – [[2006 Italian Open – Women's doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|SUI}} Martina Hingis
 | rowspan="2" | {{#invoke:flag|icon|RUS}} [[Dinara Safina]]
 | rowspan="2" | 6–2, 7–5
@@ -167,8 +167,8 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|JPN}} [[Ai Sugiyama]]
 |-
 ! scope="row" | '''[[2006 Acura Classic|San Diego]]'''
-{{small|[[2006 Acura Classic – Singles|Singles]] – [[2006 Acura Classic – Doubles|Doubles]]}}
-| {{#invoke:flag|icon|RUS}} Maria Sharapova
+<small>[[2006 Acura Classic – Singles|Singles]] – [[2006 Acura Classic – Doubles|Doubles]]</small>
+| {{#invoke:flag|icon|RUS}} Maria Sharapova <small>(2)</small>
 | {{#invoke:flag|icon|BEL}} [[Kim Clijsters]]
 | 7–5, 7–5
 | {{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|AUS}} Rennae Stubbs
@@ -176,7 +176,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–2, 6–2
 |-
 ! scope="row" | '''[[2006 Rogers Cup|Montréal]]'''
-{{small|[[2006 Rogers Cup – Singles|Singles]] – [[2006 Rogers Cup – Doubles|Doubles]]}}
+<small>[[2006 Rogers Cup – Singles|Singles]] – [[2006 Rogers Cup – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|Serbia}} [[Ana Ivanovic]]*
 | {{#invoke:flag|icon|SUI}} Martina Hingis
 | 6–2, 6–3
@@ -185,7 +185,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–1, 6–2
 |-
 ! scope="row" | '''[[2006 Kremlin Cup|Moscow]]'''
-{{small|[[2006 Kremlin Cup – Women's singles|Singles]] – [[2006 Kremlin Cup – Women's doubles|Doubles]]}}
+<small>[[2006 Kremlin Cup – Women's singles|Singles]] – [[2006 Kremlin Cup – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|RUS}} [[Anna Chakvetadze]]*
 | {{#invoke:flag|icon|RUS}} Nadia Petrova
 | 6–4, 6–4
@@ -194,11 +194,11 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–4, 6–7<sup>(4–7)</sup>, 6–1
 |-
 ! scope="row" | '''[[2006 Zurich Open|Zürich]]'''
-{{small|[[2006 Zurich Open – Singles|Singles]] – [[2006 Zurich Open – Doubles|Doubles]]}}
-|{{#invoke:flag|icon|RUS}} Maria Sharapova
+<small>[[2006 Zurich Open – Singles|Singles]] – [[2006 Zurich Open – Doubles|Doubles]]</small>
+|{{#invoke:flag|icon|RUS}} Maria Sharapova <small>(3)</small>
 |{{#invoke:flag|icon|SVK}} Daniela Hantuchová
 |6–1, 4–6, 6–3
-|{{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|AUS}} Rennae Stubbs
+|{{#invoke:flag|icon|ZIM}} Cara Black <small>(2)</small> <br /> {{#invoke:flag|icon|AUS}} Rennae Stubbs <small>(2)</small> 
 |{{#invoke:flag|icon|RSA}} Liezel Huber <br /> {{#invoke:flag|icon|SLO}} [[Katarina Srebotnik]]
 |7–5, 7–5
 |}

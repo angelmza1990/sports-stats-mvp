@@ -91,11 +91,11 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 ! scope="col" style="width:11em"| Singles champions
 ! scope="col" style="width:11em"| Runners-up
 ! scope="col" style="width:11em"| Score
-! scope="col" style="width:12em"| Doubles champions
+! scope="col" style="width:13em"| Doubles champions
 ! scope="col" style="width:11em"| Runners-up
 ! scope="col" style="width:10em"| Score
 |-
-! scope="row" | {{nowrap|[[2011 BNP Paribas Open|'''Indian Wells''']]}}<br />{{small|[[2011 BNP Paribas Open – Men's singles|Singles]] – [[2011 BNP Paribas Open – Men's doubles|Doubles]]}}
+! scope="row" | {{nowrap|[[2011 BNP Paribas Open|'''Indian Wells''']]}}<br /><small>[[2011 BNP Paribas Open – Men's singles|Singles]] – [[2011 BNP Paribas Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |4–6, 6–3, 6–2
@@ -103,7 +103,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|SUI}} Roger Federer <br /> {{#invoke:flag|icon|SUI}} [[Stan Wawrinka]]
 |6–4, 6–7<sup>(5–7)</sup>, [10–7]
 |-
-! scope="row" |[[2011 Sony Ericsson Open|'''Miami''']]<br />{{small|[[2011 Sony Ericsson Open – Men's singles|Singles]] – [[2011 Sony Ericsson Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2011 Sony Ericsson Open|'''Miami''']]<br /><small>[[2011 Sony Ericsson Open – Men's singles|Singles]] – [[2011 Sony Ericsson Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |4–6, 6–3, 7–6<sup>(7–4)</sup>
@@ -111,7 +111,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|BLR}} Max Mirnyi <br /> {{#invoke:flag|icon|CAN}} Daniel Nestor
 |6–7<sup>(5–7)</sup>, 6–2, [10–5]
 |-
-! scope="row" | {{nowrap|[[2011 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br />{{small|[[2011 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2011 Monte-Carlo Rolex Masters – Doubles|Doubles]]}}
+! scope="row" | {{nowrap|[[2011 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br /><small>[[2011 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2011 Monte-Carlo Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} [[Rafael Nadal]]
 |{{#invoke:flag|icon|ESP}} David Ferrer
 |6–4, 7–5
@@ -119,7 +119,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|ARG}} Juan Ignacio Chela<br /> {{#invoke:flag|icon|BRA}} Bruno Soares
 |6–3, 6–2
 |-
-! scope="row" |[[2011 Mutua Madrid Open|'''Madrid''']]<br />{{small|[[2011 Mutua Madrid Open – Men's singles|Singles]] – [[2011 Mutua Madrid Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2011 Mutua Madrid Open|'''Madrid''']]<br /><small>[[2011 Mutua Madrid Open – Men's singles|Singles]] – [[2011 Mutua Madrid Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |7–5, 6–4
@@ -127,7 +127,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|FRA}} Michaël Llodra <br /> {{#invoke:flag|icon|SRB}} Nenad Zimonjić
 |6–3, 6–3
 |-
-! scope="row" |[[2011 Italian Open (tennis)|'''Rome''']]<br />{{small|[[2011 Italian Open – Men's singles|Singles]] – [[2011 Italian Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2011 Italian Open (tennis)|'''Rome''']]<br /><small>[[2011 Italian Open – Men's singles|Singles]] – [[2011 Italian Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|ESP}} Rafael Nadal
 |6–4, 6–4
@@ -135,7 +135,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|USA}} [[Mardy Fish]] <br /> {{#invoke:flag|icon|USA}} Andy Roddick
 |W/O
 |-
-! scope="row" |[[2011 Rogers Cup|'''Montreal''']]<br />{{small|[[2011 Rogers Cup – Men's singles|Singles]] – [[2011 Rogers Cup – Men's doubles|Doubles]]}}
+! scope="row" |[[2011 Rogers Cup|'''Montreal''']]<br /><small>[[2011 Rogers Cup – Men's singles|Singles]] – [[2011 Rogers Cup – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|USA}} Mardy Fish
 |6–2, 3–6, 6–4
@@ -143,7 +143,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|USA}} Bob Bryan <br /> {{#invoke:flag|icon|USA}} Mike Bryan
 |6–4, 6–7<sup>(5–7)</sup>, [10–5]
 |-
-! scope="row" |[[2011 Western & Southern Open|'''Cincinnati''']]<br />{{small|[[2011 Western & Southern Open – Men's singles|Singles]] – [[2011 Western & Southern Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2011 Western & Southern Open|'''Cincinnati''']]<br /><small>[[2011 Western & Southern Open – Men's singles|Singles]] – [[2011 Western & Southern Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|GBR}} [[Andy Murray]]
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |6–4, 3–0 ret.
@@ -151,7 +151,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |{{#invoke:flag|icon|FRA}} Michaël Llodra <br /> {{#invoke:flag|icon|SRB}} Nenad Zimonjić
 |7–6<sup>(7–4)</sup>, 7–6<sup>(7–2)</sup>
 |-
-! rowspan="2" scope="row" |[[2011 Shanghai Rolex Masters|'''Shanghai''']]<br />{{small|[[2011 Shanghai Rolex Masters – Singles|Singles]] – [[2011 Shanghai Rolex Masters – Doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2011 Shanghai Rolex Masters|'''Shanghai''']]<br /><small>[[2011 Shanghai Rolex Masters – Singles|Singles]] – [[2011 Shanghai Rolex Masters – Doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|GBR}} Andy Murray
 | rowspan="2" |{{#invoke:flag|icon|ESP}} David Ferrer
 | rowspan="2" |7–5, 6–4
@@ -161,7 +161,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 |-
 | style="background:#ffef98" |{{#invoke:flag|icon|CAN}} Daniel Nestor<sup>§</sup>
 |-
-! scope="row" |[[2011 BNP Paribas Masters|'''Paris''']]<br />{{small|[[2011 BNP Paribas Masters – Singles|Singles]] – [[2011 BNP Paribas Masters – Doubles|Doubles]]}}
+! scope="row" |[[2011 BNP Paribas Masters|'''Paris''']]<br /><small>[[2011 BNP Paribas Masters – Singles|Singles]] – [[2011 BNP Paribas Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |{{#invoke:flag|icon|FRA}} Jo-Wilfried Tsonga
 |6–1, 7–6<sup>(7–3)</sup>
@@ -195,7 +195,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 
 | RD1-seed3=PR
 | RD1-team3={{flagicon|ARG}} '''[[Juan Martín del Potro]]'''
-| RD1-score3-1={{small|w/o}}
+| RD1-score3-1=<small>w/o</small>
 | RD1-score3-2=&nbsp;
 | RD1-score3-3=&nbsp;
 | RD1-seed4=25
@@ -449,7 +449,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 | RD1-score2-2=3
 | RD1-score2-3=&nbsp;
 
-| RD1-seed3={{small|3/WC}}
+| RD1-seed3=<small>3/WC</small>
 | RD1-team3={{flagicon|GBR}} '''[[Andy Murray]]'''
 | RD1-score3-1='''6'''
 | RD1-score3-2='''6'''
@@ -487,7 +487,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 | RD2-score1-1='''6'''
 | RD2-score1-2=2
 | RD2-score1-3='''6'''
-| RD2-seed2={{small|3/WC}}
+| RD2-seed2=<small>3/WC</small>
 | RD2-team2={{flagicon|GBR}} [[Andy Murray]]
 | RD2-score2-1=4
 | RD2-score2-2='''6'''
@@ -808,7 +808,7 @@ The twenty-second edition of the [[ATP Masters]] Series.<ref>[https://www.atptou
 | RD2-score1-3=
 | RD2-seed2=
 | RD2-team2='''{{flagicon|USA}} [[John Isner]]<br />{{flagicon|USA}} [[Sam Querrey]]'''
-| RD2-score2-1={{small|w/o}}
+| RD2-score2-1=<small>w/o</small>
 | RD2-score2-2=
 | RD2-score2-3=
 }}

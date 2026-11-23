@@ -93,7 +93,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 ! scope="col"| Score
 |-
 ! scope="row" rowspan=2| '''[[2018 Qatar Total Open|Doha]]'''
-{{small|[[2018 Qatar Total Open – Singles|Singles]] – [[2018 Qatar Total Open – Doubles|Doubles]]}}
+<small>[[2018 Qatar Total Open – Singles|Singles]] – [[2018 Qatar Total Open – Doubles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|CZE}} [[Petra Kvitová]]
 | rowspan="2" | {{#invoke:flag|icon|ESP}} [[Garbiñe Muguruza]]
 | rowspan="2" | 3–6, 6–3, 6–4
@@ -115,7 +115,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |style="background:#ddfddd"| {{#invoke:flag|icon|LAT}} [[Jeļena Ostapenko]]*
 |-
 ! scope="row" | '''[[2018 BNP Paribas Open|Indian Wells]]'''
-{{small|[[2018 BNP Paribas Open – Women's singles|Singles]] – [[2018 BNP Paribas Open – Women's doubles|Doubles]]}}
+<small>[[2018 BNP Paribas Open – Women's singles|Singles]] – [[2018 BNP Paribas Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|JPN}} [[Naomi Osaka]]*
 | {{#invoke:flag|icon|RUS}} [[Daria Kasatkina]]
 | 6–3, 6–2
@@ -124,7 +124,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |6–4, 6–4
 |-
 ! scope="row" rowspan=2| '''[[2018 Miami Open|Miami]]'''
-{{small|[[2018 Miami Open – Women's singles|Singles]] – [[2018 Miami Open – Women's doubles|Doubles]]}}
+<small>[[2018 Miami Open – Women's singles|Singles]] – [[2018 Miami Open – Women's doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|USA}} [[Sloane Stephens]]*
 | rowspan="2" | {{#invoke:flag|icon|LAT}} Jeļena Ostapenko
 | rowspan="2" |7–6<sup>(7–5)</sup>, 6–1
@@ -135,8 +135,8 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |{{#invoke:flag|icon|USA}} [[CoCo Vandeweghe]]
 |-
 ! scope="row" | '''[[2018 Mutua Madrid Open|Madrid]]'''
-{{small|[[2018 Mutua Madrid Open – Women's singles|Singles]] – [[2018 Mutua Madrid Open – Women's doubles|Doubles]]}}
-| {{#invoke:flag|icon|CZE}} Petra Kvitová
+<small>[[2018 Mutua Madrid Open – Women's singles|Singles]] – [[2018 Mutua Madrid Open – Women's doubles|Doubles]]</small>
+| {{#invoke:flag|icon|CZE}} Petra Kvitová <small>(2)</small> 
 | {{#invoke:flag|icon|NED}} [[Kiki Bertens]]
 |7–6<sup>(8–6)</sup>, 4–6, 6–3
 | {{#invoke:flag|icon|RUS}} Ekaterina Makarova <br /> {{#invoke:flag|icon|RUS}} Elena Vesnina
@@ -144,36 +144,37 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |2–6, 6–4, [10–8]
 |-
 ! scope="row" rowspan=2| '''[[2018 Italian Open (tennis)|Rome]]'''
-{{small|[[2018 Italian Open – Women's singles|Singles]] – [[2018 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2018 Italian Open – Women's singles|Singles]] – [[2018 Italian Open – Women's doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|UKR}} [[Elina Svitolina]]
 | rowspan="2" |{{#invoke:flag|icon|ROU}} [[Simona Halep]]
 | rowspan="2" |6–0, 6–4
-| {{#invoke:flag|icon|AUS}} Ashleigh Barty
+| {{#invoke:flag|icon|AUS}} Ashleigh Barty <small>(2)</small>
 | rowspan="2" |{{#invoke:flag|icon|CZE}} [[Andrea Sestini Hlaváčková]] <br /> {{#invoke:flag|icon|CZE}} Barbora Strýcová
 | rowspan="2" |6–3, 6–4
 |-
 | style="background:#ddfddd"| {{#invoke:flag|icon|NED}} [[Demi Schuurs]]*
 |-
 ! scope="row" | '''[[2018 Rogers Cup|Montréal]]'''
-{{small|[[2018 Rogers Cup – Women's singles|Singles]] – [[2018 Rogers Cup – Women's doubles|Doubles]]}}
+<small>[[2018 Rogers Cup – Women's singles|Singles]] – [[2018 Rogers Cup – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ROU}} Simona Halep
 | {{#invoke:flag|icon|USA}} Sloane Stephens
 |7–6<sup>(8–6)</sup>, 3–6, 6–4
-| {{#invoke:flag|icon|AUS}} Ashleigh Barty <br /> {{#invoke:flag|icon|NED}} Demi Schuurs
+| {{#invoke:flag|icon|AUS}} Ashleigh Barty <small>(3)</small> <br /> {{#invoke:flag|icon|NED}} Demi Schuurs <small>(2)</small> 
+
 | {{#invoke:flag|icon|TPE}} [[Latisha Chan]] <br /> {{#invoke:flag|icon|RUS}} Ekaterina Makarova
 |4–6, 6–3, [10–8]
 |-
 ! scope="row" | '''[[2018 Western & Southern Open|Cincinnati]]'''
-{{small|[[2018 Western & Southern Open – Women's singles|Singles]] – [[2018 Western & Southern Open – Women's doubles|Doubles]]}}
+<small>[[2018 Western & Southern Open – Women's singles|Singles]] – [[2018 Western & Southern Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|NED}} [[Kiki Bertens]]*
 | {{#invoke:flag|icon|ROU}} Simona Halep
 |2–6, 7–6<sup>(8–6)</sup>, 6–2
-| {{#invoke:flag|icon|CZE}} [[Lucie Hradecká]] <br /> {{#invoke:flag|icon|RUS}} Ekaterina Makarova
+| {{#invoke:flag|icon|CZE}} [[Lucie Hradecká]] <br /> {{#invoke:flag|icon|RUS}} Ekaterina Makarova <small>(2)</small> 
 | {{#invoke:flag|icon|BEL}} Elise Mertens <br /> {{#invoke:flag|icon|NED}} Demi Schuurs
 |6–2, 7–5
 |-
 ! scope="row" rowspan=2| '''[[2018 Wuhan Open|Wuhan]]'''
-{{small|[[2018 Wuhan Open – Singles|Singles]] – [[2018 Wuhan Open – Doubles|Doubles]]}}
+<small>[[2018 Wuhan Open – Singles|Singles]] – [[2018 Wuhan Open – Doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|BLR}} [[Aryna Sabalenka]]*
 | rowspan="2" |{{#invoke:flag|icon|EST}} [[Anett Kontaveit]]
 | rowspan="2" |6–3, 6–3
@@ -181,14 +182,14 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 | rowspan="2" |{{#invoke:flag|icon|CZE}} Andrea Sestini Hlaváčková <br /> {{#invoke:flag|icon|CZE}} Barbora Strýcová
 | rowspan="2" |6–3, 6–3
 |-
-|{{#invoke:flag|icon|NED}} Demi Schuurs
+|{{#invoke:flag|icon|NED}} Demi Schuurs <small>(3)</small> 
 |-
 ! scope="row" | '''[[2018 China Open (tennis)|Beijing]]'''
-{{small|[[2018 China Open – Women's singles|Singles]] – [[2018 China Open – Women's doubles|Doubles]]}}
+<small>[[2018 China Open – Women's singles|Singles]] – [[2018 China Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|DEN}} [[Caroline Wozniacki]]
 |{{#invoke:flag|icon|LAT}} [[Anastasija Sevastova]]
 |6–3, 6–3
-|{{#invoke:flag|icon|CZE}} Andrea Sestini Hlaváčková <br /> {{#invoke:flag|icon|CZE}} Barbora Strýcová
+|{{#invoke:flag|icon|CZE}} Andrea Sestini Hlaváčková <br /> {{#invoke:flag|icon|CZE}} Barbora Strýcová <small>(2)</small> 
 |{{#invoke:flag|icon|CAN}} Gabriela Dabrowski <br /> {{#invoke:flag|icon|CHN}} [[Xu Yifan]]
 |4–6, 6–4, [10–8]
 |}

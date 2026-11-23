@@ -93,7 +93,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2002 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[2002 Toray Pan Pacific Open – Singles|Singles]] – [[2002 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[2002 Toray Pan Pacific Open – Singles|Singles]] – [[2002 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SUI}} [[Martina Hingis]]
 | {{#invoke:flag|icon|USA}} [[Monica Seles]]
 | 7–6<sup>(8–6)</sup>, 4–6, 6–3
@@ -113,7 +113,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–1, 6–1
 |-
 ! scope="row" | '''[[2002 Pacific Life Open|Indian Wells]]'''
-{{small|[[2002 Pacific Life Open – Women's singles|Singles]] – [[2002 Pacific Life Open – Women's doubles|Doubles]]}}
+<small>[[2002 Pacific Life Open – Women's singles|Singles]] – [[2002 Pacific Life Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|SVK}} [[Daniela Hantuchová]]*
 | {{#invoke:flag|icon|SUI}} Martina Hingis
 | 6–3, 6–4
@@ -122,7 +122,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 7–5, 6–0
 |-
 ! scope="row" | '''[[2002 NASDAQ-100 Open|Miami]]'''
-{{small|[[2002 NASDAQ-100 Open – Women's singles|Singles]] – [[2002 NASDAQ-100 Open – Women's doubles|Doubles]]}}
+<small>[[2002 NASDAQ-100 Open – Women's singles|Singles]] – [[2002 NASDAQ-100 Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Serena Williams]]
 | {{#invoke:flag|icon|USA}} [[Jennifer Capriati]]
 | 7–5, 7–6
@@ -131,7 +131,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 7–6<sup>(7–4)</sup>, 6–7<sup>(4–7)</sup>, 6–3
 |-
 ! scope="row" | '''[[2002 Family Circle Cup|Charleston]]'''
-{{small|[[2002 Family Circle Cup – Singles|Singles]] – [[2002 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[2002 Family Circle Cup – Singles|Singles]] – [[2002 Family Circle Cup – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|CRO}} Iva Majoli
 | {{#invoke:flag|icon|SUI}} Patty Schnyder
 | 6–3, 6–4
@@ -140,7 +140,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–4, 3–6, 7–6<sup>(7–4)</sup>
 |-
 ! scope="row" | '''[[2002 Eurocard German Open|Berlin]]'''
-{{small|[[2002 WTA German Open – Singles|Singles]] – [[2002 WTA German Open – Doubles|Doubles]]}}
+<small>[[2002 WTA German Open – Singles|Singles]] – [[2002 WTA German Open – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|BEL}} [[Justine Henin]]*
 | {{#invoke:flag|icon|USA}} Serena Williams
 | 6–2, 1–6, 7–6<sup>(7–5)</sup>
@@ -149,7 +149,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 0–6, 7–6<sup>(7–3)</sup>, 6–2
 |-
 ! scope="row" | '''[[2002 Italian Open (tennis)|Rome]]'''
-{{small|[[2002 Italian Open – Women's singles|Singles]] – [[2002 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2002 Italian Open – Women's singles|Singles]] – [[2002 Italian Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} Serena Williams
 | {{#invoke:flag|icon|BEL}} Justine Henin
 | 7–6, 6–4
@@ -158,7 +158,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–3, 6–4
 |-
 ! scope="row" | '''[[2002 Canada Masters and the Rogers AT&T Cup|Montréal]]'''
-{{small|[[2002 Rogers AT&T Cup – Singles|Singles]] – [[2002 Rogers AT&T Cup – Doubles|Doubles]]}}
+<small>[[2002 Rogers AT&T Cup – Singles|Singles]] – [[2002 Rogers AT&T Cup – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|FRA}} [[Amélie Mauresmo]]
 | {{#invoke:flag|icon|USA}} Jennifer Capriati
 | 6–4, 6–1
@@ -167,7 +167,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–4, 7–6<sup>(7–4)</sup>
 |-
 ! scope="row" | '''[[2002 Kremlin Cup|Moscow]]'''
-{{small|[[2002 Kremlin Cup – Women's singles|Singles]] – [[2002 Kremlin Cup – Women's doubles|Doubles]]}}
+<small>[[2002 Kremlin Cup – Women's singles|Singles]] – [[2002 Kremlin Cup – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|BUL}} [[Magdalena Maleeva]]
 | {{#invoke:flag|icon|USA}} [[Lindsay Davenport]]
 | 5–7, 6–3, 7–6<sup>(7–4)</sup>
@@ -176,7 +176,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 2–6, 6–3, 7–6<sup>(9–7)</sup>
 |-
 ! scope="row" | '''[[2002 Swisscom Challenge|Zürich]]'''
-{{small|[[2002 Swisscom Challenge – Singles|Singles]] – [[2002 Swisscom Challenge – Doubles|Doubles]]}}
+<small>[[2002 Swisscom Challenge – Singles|Singles]] – [[2002 Swisscom Challenge – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|SUI}} [[Patty Schnyder]]*
 | {{#invoke:flag|icon|USA}} Lindsay Davenport
 | 6–7<sup>(5–7)</sup>, 7–6<sup>(10–8)</sup>, 6–3

@@ -89,11 +89,11 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 ! scope="col" style="width:11em"| Singles champions
 ! scope="col" style="width:11em"| Runners-up
 ! scope="col" style="width:11em"| Score
-! scope="col" style="width:11em"| Doubles champions
-! scope="col" style="width:11em"| Runners-up
+! scope="col" style="width:14em"| Doubles champions
+! scope="col" style="width:13em"| Runners-up
 ! scope="col" style="width:10em"| Score
 |-
-! scope="row"| {{nowrap|[[2015 BNP Paribas Open|'''Indian Wells''']]}}<br />{{small|[[2015 BNP Paribas Open – Men's singles|Singles]] – [[2015 BNP Paribas Open – Men's doubles|Doubles]]}}
+! scope="row"| {{nowrap|[[2015 BNP Paribas Open|'''Indian Wells''']]}}<br /><small>[[2015 BNP Paribas Open – Men's singles|Singles]] – [[2015 BNP Paribas Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |6–3, 6–7<sup>(5–7)</sup>, 6–2
@@ -101,7 +101,7 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|ITA}} [[Simone Bolelli]]<br />{{#invoke:flag|icon|ITA}} [[Fabio Fognini]]
 |6–4, 6–7<sup>(3–7)</sup>, [10–7]
 |-
-! scope="row"|[[2015 Miami Open|'''Miami''']]<br />{{small|[[2015 Miami Open – Men's singles|Singles]] – [[2015 Miami Open – Men's doubles|Doubles]]}}
+! scope="row"|[[2015 Miami Open|'''Miami''']]<br /><small>[[2015 Miami Open – Men's singles|Singles]] – [[2015 Miami Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|GBR}} Andy Murray
 |7–6<sup>(7–3)</sup>, 4–6, 6–0
@@ -109,7 +109,7 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|CAN}} Vasek Pospisil<br />{{#invoke:flag|icon|USA}} Jack Sock
 |6–3, 1–6, [10–8]
 |-
-! scope="row"| {{nowrap|[[2015 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br />{{small|[[2015 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2015 Monte-Carlo Rolex Masters – Doubles|Doubles]]}}
+! scope="row"| {{nowrap|[[2015 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br /><small>[[2015 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2015 Monte-Carlo Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|CZE}} Tomáš Berdych
 |7–5, 4–6, 6–3
@@ -117,7 +117,7 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|ITA}} Simone Bolelli<br />{{#invoke:flag|icon|ITA}} Fabio Fognini
 |7–6<sup>(7–3)</sup>, 6–1
 |-
-! rowspan="2" scope="row" |[[2015 Mutua Madrid Open|'''Madrid''']]<br />{{small|[[2015 Mutua Madrid Open – Men's singles|Singles]] – [[2015 Mutua Madrid Open – Men's doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2015 Mutua Madrid Open|'''Madrid''']]<br /><small>[[2015 Mutua Madrid Open – Men's singles|Singles]] – [[2015 Mutua Madrid Open – Men's doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|GBR}} Andy Murray
 | rowspan="2" |{{#invoke:flag|icon|ESP}} Rafael Nadal
 | rowspan="2" |6–3, 6–2
@@ -127,7 +127,7 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |-
 | style="background:#ddfddd"|{{#invoke:flag|icon|ROU}} [[Florin Mergea]]*
 |-
-! scope="row" |[[2015 Italian Open (tennis)|'''Rome''']]<br />{{small|[[2015 Italian Open – Men's singles|Singles]] – [[2015 Italian Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2015 Italian Open (tennis)|'''Rome''']]<br /><small>[[2015 Italian Open – Men's singles|Singles]] – [[2015 Italian Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |6–4, 6–3
@@ -135,7 +135,7 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|ESP}} Marcel Granollers<br />{{#invoke:flag|icon|ESP}} Marc López
 |6–4, 7–5
 |-
-! scope="row"| [[2015 Rogers Cup|'''Montreal''']]<br />{{small|[[2015 Rogers Cup – Men's singles|Singles]] – [[2015 Rogers Cup – Men's doubles|Doubles]]}}
+! scope="row"| [[2015 Rogers Cup|'''Montreal''']]<br /><small>[[2015 Rogers Cup – Men's singles|Singles]] – [[2015 Rogers Cup – Men's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|GBR}} Andy Murray
 | {{#invoke:flag|icon|SRB}} Novak Djokovic
 | 6–4, 4–6, 6–3
@@ -143,7 +143,7 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 | {{#invoke:flag|icon|CAN}} Daniel Nestor<br />{{#invoke:flag|icon|FRA}} Edouard Roger-Vasselin
 | 7–6<sup>(7–5)</sup>, 3–6, [10–6]
 |-
-! rowspan="2" scope="row" |[[2015 Western & Southern Open|'''Cincinnati''']]<br />{{small|[[2015 Western & Southern Open – Men's singles|Singles]] – [[2015 Western & Southern Open – Men's doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2015 Western & Southern Open|'''Cincinnati''']]<br /><small>[[2015 Western & Southern Open – Men's singles|Singles]] – [[2015 Western & Southern Open – Men's doubles|Doubles]]</small>
 | rowspan="2"|{{#invoke:flag|icon|SUI}} Roger Federer
 | rowspan="2" |{{#invoke:flag|icon|SRB}} Novak Djokovic
 | rowspan="2" |7–6<sup>(7–1)</sup>, 6–3
@@ -153,7 +153,7 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |-
 | style="background:#ddfddd"|{{#invoke:flag|icon|FRA}} [[Edouard Roger-Vasselin]]*
 |-
-! rowspan="2" scope="row" |[[2015 Shanghai Rolex Masters|'''Shanghai''']]<br />{{small|[[2015 Shanghai Rolex Masters – Singles|Singles]] – [[2015 Shanghai Rolex Masters – Doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2015 Shanghai Rolex Masters|'''Shanghai''']]<br /><small>[[2015 Shanghai Rolex Masters – Singles|Singles]] – [[2015 Shanghai Rolex Masters – Doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|SRB}} Novak Djokovic
 | rowspan="2" |{{#invoke:flag|icon|FRA}} Jo-Wilfried Tsonga
 | rowspan="2" |6–2, 6–4
@@ -163,7 +163,7 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |-
 |{{#invoke:flag|icon|BRA}} Marcelo Melo
 |-
-! scope="row" |[[2015 BNP Paribas Masters|'''Paris''']]<br />{{small|[[2015 BNP Paribas Masters – Singles|Singles]] – [[2015 BNP Paribas Masters – Doubles|Doubles]]}}
+! scope="row" |[[2015 BNP Paribas Masters|'''Paris''']]<br /><small>[[2015 BNP Paribas Masters – Singles|Singles]] – [[2015 BNP Paribas Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|GBR}} Andy Murray
 |6–2, 6–4
@@ -184,7 +184,7 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |score-width=
 |RD1-seed1=1
 |RD1-team1={{flagicon|SRB}} '''[[Novak Djokovic]]'''
-|RD1-score1-1={{small|w/o}}
+|RD1-score1-1=<small>w/o</small>
 |RD1-score1-2=
 |RD1-score1-3=
 |RD1-seed2=32
@@ -473,7 +473,7 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 | RD1-score7-1=1
 | RD1-score7-2=3
 | RD1-score7-3=
-| RD1-seed8={{small|14/WC}}
+| RD1-seed8=<small>14/WC</small>
 | RD1-team8='''{{flagicon|FRA}} [[Gaël Monfils]]'''
 | RD1-score8-1='''6'''
 | RD1-score8-2='''6'''
@@ -495,7 +495,7 @@ The twenty-sixth edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 | RD2-score3-1='''6'''
 | RD2-score3-2='''6'''
 | RD2-score3-3=
-| RD2-seed4={{small|14/WC}}
+| RD2-seed4=<small>14/WC</small>
 | RD2-team4={{flagicon|FRA}} [[Gaël Monfils]]
 | RD2-score4-1=1
 | RD2-score4-2=4

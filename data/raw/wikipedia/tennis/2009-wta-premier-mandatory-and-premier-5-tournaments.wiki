@@ -93,7 +93,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2009 Dubai Tennis Championships|Dubai]]'''
-{{small|[[2009 Dubai Tennis Championships – Women's singles|Singles]] – [[2009 Dubai Tennis Championships – Women's doubles|Doubles]]}}
+<small>[[2009 Dubai Tennis Championships – Women's singles|Singles]] – [[2009 Dubai Tennis Championships – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|USA}} [[Venus Williams]]
 |{{#invoke:flag|icon|FRA}} [[Virginie Razzano]]
 |6–4, 6–2
@@ -113,7 +113,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |6–3, 6–3
 |-
 ! scope="row" rowspan=2| '''[[2009 BNP Paribas Open|Indian Wells]]'''
-{{small|[[2009 BNP Paribas Open – Women's singles|Singles]] – [[2009 BNP Paribas Open – Women's doubles|Doubles]]}}
+<small>[[2009 BNP Paribas Open – Women's singles|Singles]] – [[2009 BNP Paribas Open – Women's doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|RUS}} [[Vera Zvonareva]]*
 | rowspan="2" | {{#invoke:flag|icon|SRB}} [[Ana Ivanovic]]
 | rowspan="2" | 7–6<sup>(7–5)</sup>, 6–2
@@ -124,7 +124,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |{{#invoke:flag|icon|RUS}} Vera Zvonareva
 |-
 ! scope="row" rowspan=2| '''[[2009 Sony Ericsson Open|Miami]]'''
-{{small|[[2009 Sony Ericsson Open – Women's singles|Singles]] – [[2009 Sony Ericsson Open – Women's doubles|Doubles]]}}
+<small>[[2009 Sony Ericsson Open – Women's singles|Singles]] – [[2009 Sony Ericsson Open – Women's doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|BLR}} [[Victoria Azarenka]]*
 | rowspan="2" | {{#invoke:flag|icon|USA}} [[Serena Williams]]
 | rowspan="2" | 6–3, 6–1
@@ -135,7 +135,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |style="background:#ddfddd"| {{#invoke:flag|icon|FRA}} [[Amélie Mauresmo]]*
 |-
 ! scope="row" | '''[[2009 Italian Open (tennis)|Rome]]'''
-{{small|[[2009 Italian Open – Women's singles|Singles]] – [[2009 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2009 Italian Open – Women's singles|Singles]] – [[2009 Italian Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|RUS}} [[Dinara Safina]]
 |{{#invoke:flag|icon|RUS}} Svetlana Kuznetsova
 |6–3, 6–2
@@ -144,25 +144,25 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |7–5, 7–6<sup>(7–5)</sup>
 |-
 ! scope="row" | '''[[2009 Mutua Madrileña Masters Madrid|Madrid]]'''
-{{small|[[2009 Mutua Madrileña Madrid Open – Women's singles|Singles]] – [[2009 Mutua Madrileña Madrid Open – Women's doubles|Doubles]]}}
-| {{#invoke:flag|icon|RUS}} Dinara Safina
+<small>[[2009 Mutua Madrileña Madrid Open – Women's singles|Singles]] – [[2009 Mutua Madrileña Madrid Open – Women's doubles|Doubles]]</small>
+| {{#invoke:flag|icon|RUS}} Dinara Safina <small>(2)</small>
 | {{#invoke:flag|icon|DEN}} [[Caroline Wozniacki]]
 | 6–2, 6–4
-| {{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|USA}} Liezel Huber
+| {{#invoke:flag|icon|ZIM}} Cara Black <small>(2)</small> <br /> {{#invoke:flag|icon|USA}} Liezel Huber <small>(2)</small>
 | {{#invoke:flag|icon|CZE}} Květa Peschke <br /> {{#invoke:flag|icon|USA}} Lisa Raymond
 |4–6, 6–3, [10–6]
 |-
 ! scope="row" | '''[[2009 Western & Southern Financial Group Masters and Women's Open|Cincinnati]]'''
-{{small|[[2009 Western & Southern Financial Group Women's Open – Singles|Singles]] – [[2009 Western & Southern Financial Group Women's Open – Doubles|Doubles]]}}
+<small>[[2009 Western & Southern Financial Group Women's Open – Singles|Singles]] – [[2009 Western & Southern Financial Group Women's Open – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} [[Jelena Janković]]
 |{{#invoke:flag|icon|RUS}} Dinara Safina
 |6–4, 6–2
-|{{#invoke:flag|icon|ZIM}} Cara Black <br /> {{#invoke:flag|icon|USA}} Liezel Huber
+|{{#invoke:flag|icon|ZIM}} Cara Black <small>(3)</small> <br /> {{#invoke:flag|icon|USA}} Liezel Huber <small>(3)</small> 
 |{{#invoke:flag|icon|ESP}} Nuria Llagostera Vives <br /> {{#invoke:flag|icon|ESP}} María José Martínez Sánchez
 |6–3, 0–6, [10–2]
 |-
 ! scope="row" | '''[[2009 Rogers Cup|Toronto]]'''
-{{small|[[2009 Rogers Cup – Women's singles|Singles]] – [[2009 Rogers Cup – Women's doubles|Doubles]]}}
+<small>[[2009 Rogers Cup – Women's singles|Singles]] – [[2009 Rogers Cup – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|RUS}} [[Elena Dementieva]]
 |{{#invoke:flag|icon|RUS}} [[Maria Sharapova]]
 |6–4, 6–3
@@ -171,7 +171,7 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |2–6, 7–5, [11–9]
 |-
 ! scope="row" rowspan=2| '''[[2009 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[2009 Toray Pan Pacific Open – Singles|Singles]] – [[2009 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[2009 Toray Pan Pacific Open – Singles|Singles]] – [[2009 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|RUS}} Maria Sharapova
 | rowspan="2" |{{#invoke:flag|icon|SRB}} Jelena Janković
 | rowspan="2" |5–2, ret.
@@ -182,11 +182,11 @@ The WTA Premier Mandatory and Premier 5 tournaments, which are part of the [[WTA
 |{{#invoke:flag|icon|ITA}} [[Francesca Schiavone]]
 |-
 ! scope="row" | '''[[2009 China Open (tennis)|Beijing]]'''
-{{small|[[2009 China Open – Women's singles|Singles]] – [[2009 China Open – Women's doubles|Doubles]]}}
+<small>[[2009 China Open – Women's singles|Singles]] – [[2009 China Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|RUS}} Svetlana Kuznetsova
 |{{#invoke:flag|icon|POL}} Agnieszka Radwańska
 |6–2, 6–4
-|{{#invoke:flag|icon|TPE}} Hsieh Su-wei <br /> {{#invoke:flag|icon|CHN}} Peng Shuai
+|{{#invoke:flag|icon|TPE}} Hsieh Su-wei <small>(2)</small> <br /> {{#invoke:flag|icon|CHN}} Peng Shuai <small>(2)</small>
 |{{#invoke:flag|icon|RUS}} [[Alla Kudryavtseva]] <br /> {{#invoke:flag|icon|RUS}} [[Ekaterina Makarova]]
 |6–3, 6–1
 |}

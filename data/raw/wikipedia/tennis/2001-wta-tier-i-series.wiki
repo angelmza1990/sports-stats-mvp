@@ -93,7 +93,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2001 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[2001 Toray Pan Pacific Open – Singles|Singles]] – [[2001 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[2001 Toray Pan Pacific Open – Singles|Singles]] – [[2001 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Lindsay Davenport]]
 | {{#invoke:flag|icon|SUI}} [[Martina Hingis]]
 | 6–7<sup>(4–7)</sup>, 6–4, 6–2
@@ -113,7 +113,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 7–6<sup>(7–5)</sup>, 2–6, 7–6<sup>(8–6)</sup>
 |-
 ! scope="row" | '''[[2001 Indian Wells Masters|Indian Wells]]'''
-{{small|[[2001 Indian Wells Masters – Women's singles|Singles]] – [[2001 Indian Wells Masters – Women's doubles|Doubles]]}}
+<small>[[2001 Indian Wells Masters – Women's singles|Singles]] – [[2001 Indian Wells Masters – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Serena Williams]]
 | {{#invoke:flag|icon|BEL}} [[Kim Clijsters]]
 | 4–6, 6–4, 6–2
@@ -122,7 +122,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–4, 6–4
 |-
 ! scope="row" | '''[[2001 Ericsson Open|Miami]]'''
-{{small|[[2001 Ericsson Open – Women's singles|Singles]] – [[2001 Ericsson Open – Women's doubles|Doubles]]}}
+<small>[[2001 Ericsson Open – Women's singles|Singles]] – [[2001 Ericsson Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} [[Venus Williams]]
 | {{#invoke:flag|icon|USA}} [[Jennifer Capriati]]
 | 4–6, 6–1, 7–6<sup>(7–4)</sup>
@@ -131,7 +131,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–0, 6–4
 |-
 ! scope="row" | '''[[2001 Family Circle Cup|Charleston]]'''
-{{small|[[2001 Family Circle Cup – Singles|Singles]] – [[2001 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[2001 Family Circle Cup – Singles|Singles]] – [[2001 Family Circle Cup – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} Jennifer Capriati
 | {{#invoke:flag|icon|SUI}} Martina Hingis
 | 6–0, 4–6, 6–4
@@ -140,7 +140,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 5–7, 7–6<sup>(7–5)</sup>, 6–3
 |-
 ! scope="row" | '''[[2001 Eurocard Ladies German Open|Berlin]]'''
-{{small|[[2001 Eurocard Ladies German Open – Singles|Singles]] – [[2001 Eurocard Ladies German Open – Doubles|Doubles]]}}
+<small>[[2001 Eurocard Ladies German Open – Singles|Singles]] – [[2001 Eurocard Ladies German Open – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|FRA}} [[Amélie Mauresmo]]*
 | {{#invoke:flag|icon|USA}} Jennifer Capriati
 | 6–4, 2–6, 6–3
@@ -149,7 +149,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–4, 6–3
 |-
 ! scope="row" rowspan=2| '''[[2001 Italian Open (tennis)|Rome]]'''
-{{small|[[2001 Italian Open – Women's singles|Singles]] – [[2001 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2001 Italian Open – Women's singles|Singles]] – [[2001 Italian Open – Women's doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|SCG}} [[Jelena Dokić]]*
 | rowspan="2" | {{#invoke:flag|icon|FRA}} Amélie Mauresmo
 | rowspan="2" | 7–6<sup>(7–3)</sup>, 6–1
@@ -160,7 +160,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|RUS}} Elena Likhovtseva
 |-
 ! scope="row" | '''[[2001 Canada Masters and the Rogers AT&T Cup|Toronto]]'''
-{{small|[[2001 Rogers AT&T Cup – Singles|Singles]] – [[2001 Rogers AT&T Cup – Doubles|Doubles]]}}
+<small>[[2001 Rogers AT&T Cup – Singles|Singles]] – [[2001 Rogers AT&T Cup – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} Serena Williams
 | {{#invoke:flag|icon|USA}} Jennifer Capriati
 | 6–1, 6–7<sup>(7–9)</sup>, 6–3
@@ -169,7 +169,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 6–3, 6–1
 |-
 ! scope="row" | '''[[2001 Kremlin Cup|Moscow]]'''
-{{small|[[2001 Kremlin Cup – Women's singles|Singles]] – [[2001 Kremlin Cup – Women's doubles|Doubles]]}}
+<small>[[2001 Kremlin Cup – Women's singles|Singles]] – [[2001 Kremlin Cup – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SCG}} Jelena Dokić
 | {{#invoke:flag|icon|RUS}} [[Elena Dementieva]]
 | 6–3, 6–3
@@ -178,7 +178,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 | 7–6<sup>(7–1)</sup>, 6–3
 |-
 ! scope="row" | '''[[2001 Swisscom Challenge|Zürich]]'''
-{{small|[[2001 Swisscom Challenge – Singles|Singles]] – [[2001 Swisscom Challenge – Doubles|Doubles]]}}
+<small>[[2001 Swisscom Challenge – Singles|Singles]] – [[2001 Swisscom Challenge – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} Lindsay Davenport
 | {{#invoke:flag|icon|FR Yugoslavia}} Jelena Dokić
 | 6–3, 6–1

@@ -89,7 +89,7 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -100,7 +100,7 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2025 Qatar TotalEnergies Open|Qatar Open]]'''
-{{small|[[2025 Qatar TotalEnergies Open – Singles|Singles]] – [[2025 Qatar TotalEnergies Open – Doubles|Doubles]]}}
+<small>[[2025 Qatar TotalEnergies Open – Singles|Singles]] – [[2025 Qatar TotalEnergies Open – Doubles|Doubles]]</small>
 |style="background:#ddfddd;"|{{#invoke:flag|icon|USA}} [[Amanda Anisimova]]*
 |{{#invoke:flag|icon|LAT}} [[Jeļena Ostapenko]]
 |6–4, 6–3
@@ -109,7 +109,7 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 |7–5, 7–6<sup>(12–10)</sup>
 |-
 ! scope="row"| '''[[2025 Dubai Tennis Championships|Dubai Open]]'''
-{{small|[[2025 Dubai Tennis Championships – Women's singles|Singles]] – [[2025 Dubai Tennis Championships – Women's doubles|Doubles]]}}
+<small>[[2025 Dubai Tennis Championships – Women's singles|Singles]] – [[2025 Dubai Tennis Championships – Women's doubles|Doubles]]</small>
 |style="background:#ddfddd;"|{{flagicon|}} [[Mirra Andreeva]]*
 |{{#invoke:flag|icon|DEN}} [[Clara Tauson]]
 |7–6<sup>(7–1)</sup>, 6–1
@@ -118,8 +118,8 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 |7–6<sup>(7–5)</sup>, 6–4
 |-
 ! scope="row"| '''[[2025 BNP Paribas Open|Indian Wells Open]]'''
-{{small|[[2025 BNP Paribas Open – Women's singles|Singles]] – [[2025 BNP Paribas Open – Women's doubles|Doubles]]}}
-|{{flagicon|}} Mirra Andreeva
+<small>[[2025 BNP Paribas Open – Women's singles|Singles]] – [[2025 BNP Paribas Open – Women's doubles|Doubles]]</small>
+|{{flagicon|}} Mirra Andreeva <small>(2)</small>
 |{{flagicon|}} [[Aryna Sabalenka]]
 |2–6, 6–4, 6–3
 |{{#invoke:flag|icon|USA}} [[Asia Muhammad]] <br /> {{#invoke:flag|icon|NED}} [[Demi Schuurs]]
@@ -127,7 +127,7 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 |6–2, 7–6<sup>(7–4)</sup>
 |-
 ! scope="row"| '''[[2025 Miami Open|Miami Open]]'''
-{{small|[[2025 Miami Open – Women's singles|Singles]] – [[2025 Miami Open – Women's doubles|Doubles]]}}
+<small>[[2025 Miami Open – Women's singles|Singles]] – [[2025 Miami Open – Women's doubles|Doubles]]</small>
 |{{flagicon|}} Aryna Sabalenka
 |{{#invoke:flag|icon|USA}} [[Jessica Pegula]]
 |7–5, 6–2
@@ -136,8 +136,8 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 |6–3, 6–7<sup>(5–7)</sup>, [10–2]
 |-
 ! scope="row"| '''[[2025 Mutua Madrid Open|Madrid Open]]'''
-{{small|[[2025 Mutua Madrid Open – Women's singles|Singles]] – [[2025 Mutua Madrid Open – Women's doubles|Doubles]]}}
-|{{flagicon|}} Aryna Sabalenka
+<small>[[2025 Mutua Madrid Open – Women's singles|Singles]] – [[2025 Mutua Madrid Open – Women's doubles|Doubles]]</small>
+|{{flagicon|}} Aryna Sabalenka <small>(2)</small>
 |{{#invoke:flag|icon|USA}} [[Coco Gauff]]
 |6–3, 7–6<sup>(7–3)</sup>
 |style="background:#ddfddd;"|{{#invoke:flag|icon|ROU}} [[Sorana Cîrstea]]* <br /> {{flagicon|}} [[Anna Kalinskaya]]*
@@ -145,16 +145,16 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 |6–7<sup>(10–12)</sup>, 6–2, [12–10]
 |-
 ! scope="row"| '''[[2025 Italian Open|Italian Open]]'''
-{{small|[[2025 Italian Open – Women's singles|Singles]] – [[2025 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2025 Italian Open – Women's singles|Singles]] – [[2025 Italian Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ITA}} Jasmine Paolini
 |{{#invoke:flag|icon|USA}} Coco Gauff
 |6–4, 6–2
-|{{#invoke:flag|icon|ITA}} Sara Errani <br /> {{#invoke:flag|icon|ITA}} Jasmine Paolini
+|{{#invoke:flag|icon|ITA}} Sara Errani <small>(2)</small> <br /> {{#invoke:flag|icon|ITA}} Jasmine Paolini <small>(2)</small>
 |{{flagicon|}} Veronika Kudermetova <br /> {{#invoke:flag|icon|BEL}} Elise Mertens
 |6–4, 7–5
 |-
 !rowspan="2" scope="row"| '''[[2025 National Bank Open|Canadian Open]]'''
-{{small|[[2025 National Bank Open – Women's singles|Singles]] – [[2025 National Bank Open – Women's doubles|Doubles]]}}
+<small>[[2025 National Bank Open – Women's singles|Singles]] – [[2025 National Bank Open – Women's doubles|Doubles]]</small>
 |rowspan="2" style="background:#ddfddd;"|{{#invoke:flag|icon|CAN}} [[Victoria Mboko]]*
 |rowspan="2"| {{#invoke:flag|icon|JPN}} [[Naomi Osaka]]
 |rowspan="2"| 2–6, 6–4, 6–1
@@ -165,7 +165,7 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 |style="background:#ddfddd;"| {{#invoke:flag|icon|USA}} [[McCartney Kessler]]*
 |-
 ! scope="row"| '''[[2025 Cincinnati Open|Cincinnati Open]]'''
-{{small|[[2025 Cincinnati Open – Women's singles|Singles]] – [[2025 Cincinnati Open – Women's doubles|Doubles]]}}
+<small>[[2025 Cincinnati Open – Women's singles|Singles]] – [[2025 Cincinnati Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|POL}} [[Iga Świątek]]
 | {{#invoke:flag|icon|ITA}} Jasmine Paolini
 | 7–5, 6–4
@@ -174,20 +174,20 @@ The [[WTA 1000 tournaments]], make up the elite tour for professional women's [[
 | 6–4, 6–3
 |-
 ! scope="row"| '''[[2025 China Open (tennis)|China Open]]'''
-{{small|[[2025 China Open – Women's singles|Singles]] – [[2025 China Open – Women's doubles|Doubles]]}}
-|{{#invoke:flag|icon|USA}} Amanda Anisimova
+<small>[[2025 China Open – Women's singles|Singles]] – [[2025 China Open – Women's doubles|Doubles]]</small>
+|{{#invoke:flag|icon|USA}} Amanda Anisimova  <small>(2)</small>
 |{{#invoke:flag|icon|CZE}} [[Linda Nosková]]
 |6–0, 2–6, 6–2
-|{{#invoke:flag|icon|ITA}} Sara Errani <br /> {{#invoke:flag|icon|ITA}} Jasmine Paolini
+|{{#invoke:flag|icon|ITA}} Sara Errani <small>(3)</small> <br /> {{#invoke:flag|icon|ITA}} Jasmine Paolini  <small>(3)</small>
 |{{#invoke:flag|icon|JPN}} Miyu Kato <br /> {{#invoke:flag|icon|HUN}} [[Fanny Stollár]]
 |6–7<sup>(1–7)</sup>, 6–3, [10–2]
 |-
 ! scope="row"| '''[[2025 Wuhan Open|Wuhan Open]]'''
-{{small|[[2025 Wuhan Open – Singles|Singles]] – [[2025 Wuhan Open – Doubles|Doubles]]}}
+<small>[[2025 Wuhan Open – Singles|Singles]] – [[2025 Wuhan Open – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|USA}} Coco Gauff
 |{{#invoke:flag|icon|USA}} Jessica Pegula
 |6–4, 7–5
-|{{#invoke:flag|icon|AUS}} [[Storm Hunter]]<br/>{{#invoke:flag|icon|CZE}} Kateřina Siniaková
+|{{#invoke:flag|icon|AUS}} [[Storm Hunter]]<br/>{{#invoke:flag|icon|CZE}} Kateřina Siniaková <small>(2)</small>
 |{{flagicon|KAZ}} [[Anna Danilina]]<br/>{{flagicon|SRB}} [[Aleksandra Krunić]]
 |6–3, 6–2
 |}

@@ -93,7 +93,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2021 Dubai Tennis Championships|Dubai]]'''
-{{small|[[2021 Dubai Tennis Championships – Women's singles|Singles]] – [[2021 Dubai Tennis Championships – Women's doubles|Doubles]]}}
+<small>[[2021 Dubai Tennis Championships – Women's singles|Singles]] – [[2021 Dubai Tennis Championships – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ESP}} [[Garbiñe Muguruza]]
 | {{#invoke:flag|icon|CZE}} [[Barbora Krejčíková]]
 | 7–6<sup>(8–6)</sup>, 6–3
@@ -113,7 +113,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |6–0, 6–3
 |-
 ! scope="row" | '''[[2021 Miami Open|Miami]]'''
-{{small|[[2021 Miami Open – Women's singles|Singles]] – [[2021 Miami Open – Women's doubles|Doubles]]}}
+<small>[[2021 Miami Open – Women's singles|Singles]] – [[2021 Miami Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|AUS}} [[Ashleigh Barty]]
 | {{#invoke:flag|icon|CAN}} [[Bianca Andreescu]]
 | 6–3, 4–0, ret.
@@ -122,7 +122,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |6–2, 7–5
 |-
 ! scope="row" | '''[[2021 Mutua Madrid Open|Madrid]]'''
-{{small|[[2021 Mutua Madrid Open – Women's singles|Singles]] – [[2021 Mutua Madrid Open – Women's doubles|Doubles]]}}
+<small>[[2021 Mutua Madrid Open – Women's singles|Singles]] – [[2021 Mutua Madrid Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|BLR}} [[Aryna Sabalenka]]
 | {{#invoke:flag|icon|AUS}} Ashleigh Barty
 | 6–0, 3–6, 6–4
@@ -131,7 +131,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |6–4, 6–3
 |-
 ! scope="row" | '''[[2021 Italian Open (tennis)|Rome]]'''
-{{small|[[2021 Italian Open – Women's singles|Singles]] – [[2021 Italian Open – Women's doubles|Doubles]]}}
+<small>[[2021 Italian Open – Women's singles|Singles]] – [[2021 Italian Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|POL}} [[Iga Świątek]]*
 | {{#invoke:flag|icon|CZE}} [[Karolína Plíšková]]
 | 6–0, 6–0
@@ -140,7 +140,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |4–6, 7–5, [10–5]
 |-
 ! scope="row" rowspan=2| '''[[2021 National Bank Open|Montréal]]'''
-{{small|[[2021 National Bank Open – Women's singles|Singles]] – [[2021 National Bank Open – Women's doubles|Doubles]]}}
+<small>[[2021 National Bank Open – Women's singles|Singles]] – [[2021 National Bank Open – Women's doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|ITA}} [[Camila Giorgi]]*
 | rowspan="2" | {{#invoke:flag|icon|CZE}} Karolína Plíšková
 | rowspan="2" | 6–3, 7–5
@@ -151,8 +151,8 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |style="background:#ddfddd"| {{#invoke:flag|icon|BRA}} [[Luisa Stefani]]*
 |-
 ! scope="row" rowspan=2| '''[[2021 Western & Southern Open|Cincinnati]]'''
-{{small|[[2021 Western & Southern Open – Women's singles|Singles]] – [[2021 Western & Southern Open – Women's doubles|Doubles]]}}
-| rowspan="2" | {{#invoke:flag|icon|AUS}} Ashleigh Barty
+<small>[[2021 Western & Southern Open – Women's singles|Singles]] – [[2021 Western & Southern Open – Women's doubles|Doubles]]</small>
+| rowspan="2" | {{#invoke:flag|icon|AUS}} Ashleigh Barty <small>(2)</small> 
 | rowspan="2" | {{#invoke:flag|icon|SUI}} [[Jil Teichmann]]
 | rowspan="2" | 6–3, 6–1
 | {{#invoke:flag|icon|AUS}} Samantha Stosur
@@ -162,7 +162,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |style="background:#ddfddd"| {{#invoke:flag|icon|CHN}} [[Zhang Shuai]]*
 |-
 ! scope="row" | '''[[2021 BNP Paribas Open|Indian Wells]]'''
-{{small|[[2021 BNP Paribas Open – Women's singles|Singles]] – [[2021 BNP Paribas Open – Women's doubles|Doubles]]}}
+<small>[[2021 BNP Paribas Open – Women's singles|Singles]] – [[2021 BNP Paribas Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|ESP}} [[Paula Badosa]]*
 | {{#invoke:flag|icon|BLR}} [[Victoria Azarenka]]
 | 7–6<sup>(7–5)</sup>, 2–6, 7–6<sup>(7–2)</sup>

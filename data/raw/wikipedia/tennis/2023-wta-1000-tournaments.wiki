@@ -94,7 +94,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -105,7 +105,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 ! scope="col"| Score
 |-
 ! scope="row" rowspan="2"| '''[[2023 Dubai Tennis Championships|Dubai]]'''
-{{small|[[2023 Dubai Tennis Championships – Women's singles|Singles]] – [[2023 Dubai Tennis Championships – Women's doubles|Doubles]]}}
+<small>[[2023 Dubai Tennis Championships – Women's singles|Singles]] – [[2023 Dubai Tennis Championships – Women's doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd;"|  {{#invoke:flag|icon|CZE}} [[Barbora Krejčíková]]*
 | rowspan="2" | {{#invoke:flag|icon|POL}} [[Iga Świątek]]
 | rowspan="2" | 6–4, 6–2
@@ -116,7 +116,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 | style="background:#ddfddd;"| {{flagg|}} [[Liudmila Samsonova]]*
 |-
 ! scope="row"| '''[[2023 BNP Paribas Open|Indian Wells]]'''
-{{small|[[2023 BNP Paribas Open – Women's singles|Singles]] – [[2023 BNP Paribas Open – Women's doubles|Doubles]]}}
+<small>[[2023 BNP Paribas Open – Women's singles|Singles]] – [[2023 BNP Paribas Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd;" | {{#invoke:flag|icon|KAZ}} [[Elena Rybakina]]*
 |{{flagg|}} [[Aryna Sabalenka]]
 |7–6<sup>(13–11)</sup>, 6–4
@@ -125,7 +125,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |6–1, 6–7<sup>(3–7)</sup>, [10–7]
 |-
 ! scope="row"| '''[[2023 Miami Open|Miami]]'''
-{{small|[[2023 Miami Open – Women's singles|Singles]] – [[2023 Miami Open – Women's doubles|Doubles]]}}
+<small>[[2023 Miami Open – Women's singles|Singles]] – [[2023 Miami Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|CZE}} [[Petra Kvitová]]
 |{{#invoke:flag|icon|KAZ}} Elena Rybakina
 |7–6<sup>(16–14)</sup>, 6–2
@@ -134,7 +134,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |7–6<sup>(8–6)</sup>, 6–2
 |-
 ! scope="row" rowspan="2"| '''[[2023 Mutua Madrid Open|Madrid]]'''
-{{small|[[2023 Mutua Madrid Open – Women's singles|Singles]] – [[2023 Mutua Madrid Open – Women's doubles|Doubles]]}}
+<small>[[2023 Mutua Madrid Open – Women's singles|Singles]] – [[2023 Mutua Madrid Open – Women's doubles|Doubles]]</small>
 |rowspan="2" |{{flagg|}} Aryna Sabalenka
 |rowspan="2" |{{#invoke:flag|icon|POL}} Iga Świątek
 |rowspan="2" |6–3, 3–6, 6–3
@@ -145,8 +145,8 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 | style="background:#ddfddd;"| {{#invoke:flag|icon|BRA}} [[Beatriz Haddad Maia]]*
 |-
 ! scope="row"| '''[[2023 Italian Open (tennis)|Rome]]'''
-{{small|[[2023 Italian Open – Women's singles|Singles]] – [[2023 Italian Open – Women's doubles|Doubles]]}}
-|{{#invoke:flag|icon|KAZ}} Elena Rybakina
+<small>[[2023 Italian Open – Women's singles|Singles]] – [[2023 Italian Open – Women's doubles|Doubles]]</small>
+|{{#invoke:flag|icon|KAZ}} Elena Rybakina <small>(2)</small> 
 |{{#invoke:flag|icon|UKR}} [[Anhelina Kalinina]]
 |6–4, 1–0, ret.
 |{{#invoke:flag|icon|AUS}} [[Storm Hunter]] <br /> {{#invoke:flag|icon|BEL}} [[Elise Mertens]]
@@ -154,7 +154,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |6–4, 6–4
 |-
 ! scope="row"| '''[[2023 National Bank Open|Montréal]]'''
-{{small|[[2023 National Bank Open – Women's singles|Singles]] – [[2023 National Bank Open – Women's doubles|Doubles]]}}
+<small>[[2023 National Bank Open – Women's singles|Singles]] – [[2023 National Bank Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|USA}} [[Jessica Pegula]]
 |{{flagg|}} Liudmila Samsonova
 |6–1, 6–0
@@ -163,7 +163,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |6–4, 4–6, [13–11]
 |-
 ! scope="row"| '''[[2023 Western & Southern Open|Cincinnati]]'''
-{{small|[[2023 Western & Southern Open – Women's singles|Singles]] – [[2023 Western & Southern Open – Women's doubles|Doubles]]}}
+<small>[[2023 Western & Southern Open – Women's singles|Singles]] – [[2023 Western & Southern Open – Women's doubles|Doubles]]</small>
 |style="background:#ddfddd;"| {{#invoke:flag|icon|USA}} [[Coco Gauff]]*
 |{{#invoke:flag|icon|CZ}} [[Karolína Muchová]]
 |6–3, 6–4
@@ -172,16 +172,16 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |6–7<sup>(1–7)</sup>, 6–4, [10–6]
 |-
 ! scope="row"| '''[[2023 Guadalajara Open Akron|Guadalajara]]'''
-{{small|[[2023 Guadalajara Open Akron – Singles|Singles]] – [[2023 Guadalajara Open Akron – Doubles|Doubles]]}}
+<small>[[2023 Guadalajara Open Akron – Singles|Singles]] – [[2023 Guadalajara Open Akron – Doubles|Doubles]]</small>
 |style="background:#ddfddd;"| {{#invoke:flag|icon|GRE}} [[Maria Sakkari]]*
 |{{#invoke:flag|icon|USA}} [[Caroline Dolehide]]
 |7–5, 6–1
-|{{#invoke:flag|icon|AUS}} Storm Hunter <br /> {{#invoke:flag|icon|BEL}} Elise Mertens
+|{{#invoke:flag|icon|AUS}} Storm Hunter <small>(2)</small> <br /> {{#invoke:flag|icon|BEL}} Elise Mertens <small>(2)</small>
 |{{#invoke:flag|icon|CAN}} [[Gabriela Dabrowski]] <br /> {{#invoke:flag|icon|NZL}} [[Erin Routliffe]]
 |3–6, 6–2, [10–4]
 |-
 ! scope="row"| '''[[2023 China Open (tennis)|Beijing]]'''
-{{small|[[2023 China Open – Women's singles|Singles]] – [[2023 China Open – Women's doubles|Doubles]]}}
+<small>[[2023 China Open – Women's singles|Singles]] – [[2023 China Open – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|POL}} Iga Świątek
 |{{flagg|}} Liudmila Samsonova
 |6–2, 6–2

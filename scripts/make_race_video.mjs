@@ -160,11 +160,11 @@ function argentina({ proOnly = false } = {}) {
   const KIND = EN ? {
     "": "Primera División championship", Apertura: "Apertura tournament", Clausura: "Clausura tournament", Nacional: "Nacional championship",
     Metropolitano: "Metropolitano championship", Inicial: "Inicial tournament", Final: "Final tournament", "Transición": "Transición tournament",
-    Liga: "League champion (annual table)", "(H)": "Copa de Honor", "(C)": "Copa Campeonato", "(O)": "Copa de Oro",
+    Liga: "League champion on the annual table", "(H)": "Copa de Honor", "(C)": "Copa Campeonato", "(O)": "Copa de Oro",
   } : {
     "": "Campeonato de Primera División", Apertura: "Torneo Apertura", Clausura: "Torneo Clausura", Nacional: "Campeonato Nacional",
     Metropolitano: "Campeonato Metropolitano", Inicial: "Torneo Inicial", Final: "Torneo Final", "Transición": "Torneo de Transición",
-    Liga: "Campeón de Liga (tabla anual)", "(H)": "Copa de Honor", "(C)": "Copa Campeonato", "(O)": "Copa de Oro",
+    Liga: "Campeón de Liga por tabla anual", "(H)": "Copa de Honor", "(C)": "Copa Campeonato", "(O)": "Copa de Oro",
   };
   const SHORT = { "(H)": "Copa de Honor", "(C)": "Copa Campeonato", "(O)": "Copa de Oro", Liga: L("Liga (anual)", "League (annual)") };
   const events = titles.map((t) => {
@@ -183,7 +183,7 @@ function argentina({ proOnly = false } = {}) {
   const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => [id, {
     name: d.clubs[id].name, logo: soccerLogo(d.clubs[id].crest) ?? OLD_CRESTS[id] ?? null, color: COLORS.argentina[id] ?? muted(id),
   }]));
-  const first = titles[0].year, last = titles[titles.length - 1].season;
+  const first = titles[0].year, last = titles[titles.length - 1].year;
   if (proOnly) return { file: "argentina-titulos-era-profesional", secondsPerEvent: 0.55, events, teams,
     title: L("Fútbol argentino: campeones de la era profesional", "Argentine football: champions of the professional era"),
     subtitle: L(`Todos los títulos de Primera División desde el profesionalismo, ${first} a ${last}`, `Every Primera División title since the game turned professional, ${first} to ${last}`),
@@ -379,7 +379,7 @@ const PLAYER_COLORS = {
   "Iga Swiatek": "#dc2626", "Martina Hingis": "#fb7185", "Aryna Sabalenka": "#f43f5e", "Ashleigh Barty": "#14b8a6", "Lindsay Davenport": "#818cf8",
   "Thomas Muster": "#b45309", "Lleyton Hewitt": "#059669", "Gustavo Kuerten": "#facc15", "Marcelo Rios": "#e11d48", "Daniil Medvedev": "#64748b",
   "Caroline Wozniacki": "#e11d48", "Amelie Mauresmo": "#2563eb", "Jelena Jankovic": "#9333ea", "Dinara Safina": "#7c3aed", "Simona Halep": "#facc15",
-  "Angelique Kerber": "#16a34a", "Kim Clijsters": "#f97316", "Naomi Osaka": "#ef4444", "Jim Courier": "#f97316", "Marat Safin": "#ef4444",
+  "Angelique Kerber": "#16a34a", "Kim Clijsters": "#f97316", "Naomi Osaka": "#ef4444", "Jim Courier": "#f97316", "Marat Safin": "#ef4444", "Alexander Zverev": "#38bdf8", "Elena Rybakina": "#06b6d4",
 };
 // The No. 1 list spells some names differently.
 Object.assign(PLAYER_COLORS, { "Björn Borg": PLAYER_COLORS["Bjorn Borg"], "Iga Świątek": PLAYER_COLORS["Iga Swiatek"],

@@ -351,8 +351,10 @@ En el período profesional, que se inició en 1931, se disputaron (o disputan) l
 |- bgcolor="#F5FAFF"
 |[[Trofeo de Campeones de la Liga Profesional 2025|2025]]||[[Trofeo de Campeones de la Liga Profesional de Fútbol|Trofeo de Campeones de la Liga Profesional]]||'''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''||[[Club Atlético Platense|Platense]]
 |- bgcolor=#D0E7FF
-|[[Supercopa Internacional 2026|2025]]||[[Supercopa Internacional]]||'''[[Club Atlético Rosario Central|Rosario Central]]'''||[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|[[Supercopa Internacional 2025|2025]]||[[Supercopa Internacional]]||'''[[Club Atlético Rosario Central|Rosario Central]]'''||[[Club Estudiantes de La Plata|Estudiantes (LP)]]
 |- bgcolor="#F5FAFF"
+|[[Supercopa Argentina 2025|2025]]||[[Supercopa Argentina]]||'''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''||[[Club Sportivo Independiente Rivadavia|Independiente Rivadavia (M)]]
+|- bgcolor=#D0E7FF
 |}
 {{listaref|group="n."}}
 
@@ -365,11 +367,12 @@ En el período profesional, que se inició en 1931, se disputaron (o disputan) l
 |-
 |align="left"| [[Club Atlético River Plate|River Plate]]||'''15'''
 |-
-|align="left"| [[Club Atlético Boca Juniors|Boca Juniors]]||'''9'''
+|align="left"| [[Club Atlético Boca Juniors|Boca Juniors]]||'''11'''
 |-
-|align="left"| [[Racing Club]]||rowspan=2|'''6
+|align="left"| [[Club Estudiantes de La Plata|Estudiantes (LP)]]||'''7'''
 |-
-|align="left"| [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|align="left"| [[Racing Club]]
+|'''6'''
 |-
 |align="left"| [[Club Atlético Huracán|Huracán]]||'''5
 |-
@@ -438,7 +441,7 @@ En el período profesional, que se inició en 1931, se disputaron (o disputan) l
 |- bgcolor=#F5FAFF
 |align=left|Alumni||8||1
 |- bgcolor=#D0E7FF
-|align=left|Estudiantes (LP)||6||6
+|align=left|Estudiantes (LP)||7||6
 |- bgcolor=#F5FAFF
 |align=left|San Isidro||4||0
 |- bgcolor=#D0E7FF
@@ -488,7 +491,7 @@ En el período profesional, que se inició en 1931, se disputaron (o disputan) l
 |- bgcolor="#D0E7FF"
 |align="left"|Patronato||1||1
 |- bgcolor=#F5FAFF
-|align=left|Independiente Rivadavia||1||0
+|align=left|Independiente Rivadavia||1||1
 |- bgcolor="#D0E7FF"
 |align="left"|Liga Mendocina||1||0
 |- bgcolor=#F5FAFF
@@ -1014,4 +1017,3 @@ El desenlace definitivo del trofeo ocurrió en enero de 1977. Tras la histórica
 {{Control de autoridades}}
 [[Categoría:Copas nacionales de fútbol|Argentina]]
 [[Categoría:Campeonatos de fútbol entre clubes de Argentina| ]]
-|}

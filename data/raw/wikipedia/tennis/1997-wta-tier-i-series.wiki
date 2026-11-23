@@ -93,7 +93,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -104,7 +104,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 ! scope="col"| Score
 |-
 ! scope="row" rowspan=2| '''[[1997 Toray Pan Pacific Open|Tokyo]]'''
-{{small|[[1997 Toray Pan Pacific Open – Singles|Singles]] – [[1997 Toray Pan Pacific Open – Doubles|Doubles]]}}
+<small>[[1997 Toray Pan Pacific Open – Singles|Singles]] – [[1997 Toray Pan Pacific Open – Doubles|Doubles]]</small>
 | rowspan="2" style="background:#ddfddd" | {{#invoke:flag|icon|SUI}} [[Martina Hingis]]*
 | rowspan="2" | {{#invoke:flag|icon|GER}} [[Steffi Graf]]
 | rowspan="2" | Walkover
@@ -115,7 +115,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |{{#invoke:flag|icon|BLR}} [[Natasha Zvereva]]
 |-
 ! scope="row" | '''[[1997 Newsweek Champions Cup and the State Farm Evert Cup|Indian Wells]]'''
-{{small|[[1997 State Farm Evert Cup – Singles|Singles]] – [[1997 State Farm Evert Cup – Doubles|Doubles]]}}
+<small>[[1997 State Farm Evert Cup – Singles|Singles]] – [[1997 State Farm Evert Cup – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|USA}} [[Lindsay Davenport]]*
 | {{#invoke:flag|icon|ROM}} [[Irina Spîrlea]]
 | 6–2, 6–1
@@ -124,7 +124,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 6–2
 |-
 ! scope="row" | '''[[1997 Lipton Championships|Miami]]'''
-{{small|[[1997 Lipton Championships – Women's singles|Singles]] – [[1997 Lipton Championships – Women's doubles|Doubles]]}}
+<small>[[1997 Lipton Championships – Women's singles|Singles]] – [[1997 Lipton Championships – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SUI}} Martina Hingis
 | {{#invoke:flag|icon|USA}} [[Monica Seles]]
 | 6–2, 6–1
@@ -133,7 +133,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–2, 6–3
 |-
 ! scope="row" | '''[[1997 Family Circle Cup|Hilton Head]]'''
-{{small|[[1997 Family Circle Cup – Singles|Singles]] – [[1997 Family Circle Cup – Doubles|Doubles]]}}
+<small>[[1997 Family Circle Cup – Singles|Singles]] – [[1997 Family Circle Cup – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|SUI}} Martina Hingis
 | {{#invoke:flag|icon|USA}} Monica Seles
 | 3–6, 6–3, 7–6<sup>(7–5)</sup>
@@ -142,7 +142,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |7–5, 4–6, 6–1
 |-
 ! scope="row" | '''[[1997 Italian Open (tennis)|Rome]]'''
-{{small|[[1997 Italian Open – Women's singles|Singles]] – [[1997 Italian Open – Women's doubles|Doubles]]}}
+<small>[[1997 Italian Open – Women's singles|Singles]] – [[1997 Italian Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|FRA}} [[Mary Pierce]]*
 | {{#invoke:flag|icon|ESP}} [[Conchita Martínez]]
 | 6–4, 6–0
@@ -151,7 +151,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–2, 6–4
 |-
 ! scope="row" | '''[[1997 WTA German Open|Berlin]]'''
-{{small|[[1997 WTA German Open – Singles|Singles]] – [[1997 WTA German Open – Doubles|Doubles]]}}
+<small>[[1997 WTA German Open – Singles|Singles]] – [[1997 WTA German Open – Doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|USA}} [[Mary Joe Fernández]]*
 | {{#invoke:flag|icon|FRA}} Mary Pierce
 | 6–4, 6–2
@@ -160,7 +160,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |6–3, 3–6, 6–2
 |-
 ! scope="row" | '''[[1997 du Maurier Open|Toronto]]'''
-{{small|[[1997 du Maurier Open – Women's singles|Singles]] – [[1997 du Maurier Open – Women's doubles|Doubles]]}}
+<small>[[1997 du Maurier Open – Women's singles|Singles]] – [[1997 du Maurier Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} Monica Seles
 | {{#invoke:flag|icon|GER}} [[Anke Huber]]
 | 6–2, 6–4
@@ -169,7 +169,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |3–6, 7–5, 6–4
 |-
 ! scope="row" | '''[[1997 European Indoors|Zürich]]'''
-{{small|[[1997 European Indoors – Singles|Singles]] – [[1997 European Indoors – Doubles|Doubles]]}}
+<small>[[1997 European Indoors – Singles|Singles]] – [[1997 European Indoors – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|USA}} Lindsay Davenport
 | {{#invoke:flag|icon|FRA}} [[Nathalie Tauziat]]
 | 7–6<sup>(7–3)</sup>, 7–5
@@ -178,7 +178,7 @@ The [[WTA Tier I events]] are part of the elite tour for professional women's [[
 |4–6, 6–4, 6–1
 |-
 ! scope="row" | '''[[1997 Kremlin Cup|Moscow]]'''
-{{small|[[1997 Kremlin Cup – Women's singles|Singles]] – [[1997 Kremlin Cup – Women's doubles|Doubles]]}}
+<small>[[1997 Kremlin Cup – Women's singles|Singles]] – [[1997 Kremlin Cup – Women's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|CZE}} Jana Novotná
 |{{#invoke:flag|icon|JPN}} [[Ai Sugiyama]]
 |6–3, 6–4

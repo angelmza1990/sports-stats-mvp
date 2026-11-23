@@ -91,7 +91,7 @@ The twenty-third edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 ! scope="col" style="width:12em"| Runners-up
 ! scope="col" style="width:10em"| Score
 |-
-! scope="row"| {{nowrap|[[2012 BNP Paribas Open|'''Indian Wells''']]}}<br />{{small|[[2012 BNP Paribas Open – Men's singles|Singles]] – [[2012 BNP Paribas Open – Men's doubles|Doubles]]}}
+! scope="row"| {{nowrap|[[2012 BNP Paribas Open|'''Indian Wells''']]}}<br /><small>[[2012 BNP Paribas Open – Men's singles|Singles]] – [[2012 BNP Paribas Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |{{#invoke:flag|icon|USA}} [[John Isner]]
 |7–6<sup>(9–7)</sup>, 6–3
@@ -99,7 +99,7 @@ The twenty-third edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|USA}} John Isner <br /> {{#invoke:flag|icon|USA}} Sam Querrey
 |6–2, 7–6<sup>(7–3)</sup>
 |-
-! rowspan="2" scope="row" |[[2012 Sony Ericsson Open|'''Miami''']]<br />{{small|[[2012 Sony Ericsson Open – Men's singles|Singles]] – [[2012 Sony Ericsson Open – Men's doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2012 Sony Ericsson Open|'''Miami''']]<br /><small>[[2012 Sony Ericsson Open – Men's singles|Singles]] – [[2012 Sony Ericsson Open – Men's doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|SRB}} Novak Djokovic
 | rowspan="2" |{{#invoke:flag|icon|GBR}} Andy Murray
 | rowspan="2" |6–1, 7–6<sup>(7–4)</sup>
@@ -109,7 +109,7 @@ The twenty-third edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |-
 | style="background:#ddfddd"|{{#invoke:flag|icon|CZE}} [[Radek Štěpánek]]*
 |-
-! scope="row" | {{nowrap|[[2012 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br />{{small|[[2012 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2012 Monte-Carlo Rolex Masters – Doubles|Doubles]]}}
+! scope="row" | {{nowrap|[[2012 Monte-Carlo Rolex Masters|'''Monte Carlo''']]}}<br /><small>[[2012 Monte-Carlo Rolex Masters – Singles|Singles]] – [[2012 Monte-Carlo Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|ESP}} [[Rafael Nadal]]
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |6–3, 6–1
@@ -117,7 +117,7 @@ The twenty-third edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|BLR}} Max Mirnyi <br /> {{#invoke:flag|icon|CAN}} Daniel Nestor
 |6–2, 6–3
 |-
-! scope="row" |[[2012 Mutua Madrid Open|'''Madrid''']]<br />{{small|[[2012 Mutua Madrid Open – Men's singles|Singles]] – [[2012 Mutua Madrid Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2012 Mutua Madrid Open|'''Madrid''']]<br /><small>[[2012 Mutua Madrid Open – Men's singles|Singles]] – [[2012 Mutua Madrid Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |{{#invoke:flag|icon|CZE}} Tomáš Berdych
 |3–6, 7–5, 7–5
@@ -125,7 +125,7 @@ The twenty-third edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|SWE}} [[Robert Lindstedt]] <br /> {{#invoke:flag|icon|ROU}} [[Horia Tecău]]
 |6–3, 6–4
 |-
-! rowspan="2" scope="row" |[[2012 Italian Open (tennis)|'''Rome''']]<br />{{small|[[2012 Italian Open – Men's singles|Singles]] – [[2012 Italian Open – Men's doubles|Doubles]]}}
+! rowspan="2" scope="row" |[[2012 Italian Open (tennis)|'''Rome''']]<br /><small>[[2012 Italian Open – Men's singles|Singles]] – [[2012 Italian Open – Men's doubles|Doubles]]</small>
 | rowspan="2" |{{#invoke:flag|icon|ESP}} Rafael Nadal
 | rowspan="2" |{{#invoke:flag|icon|SRB}} Novak Djokovic
 | rowspan="2" |7–5, 6–3
@@ -135,7 +135,7 @@ The twenty-third edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |-
 |{{#invoke:flag|icon|ESP}} Marc López
 |-
-! scope="row" |[[2012 Rogers Cup|'''Toronto''']]<br />{{small|[[2012 Rogers Cup – Men's singles|Singles]] – [[2012 Rogers Cup – Men's doubles|Doubles]]}}
+! scope="row" |[[2012 Rogers Cup|'''Toronto''']]<br /><small>[[2012 Rogers Cup – Men's singles|Singles]] – [[2012 Rogers Cup – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|FRA}} Richard Gasquet
 | 6–3, 6–2
@@ -143,7 +143,7 @@ The twenty-third edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|ESP}} Marcel Granollers <br /> {{#invoke:flag|icon|ESP}} [[Marc López]]
 | 6–1, 4–6, [12–10]
 |-
-! scope="row" |[[2012 Western & Southern Open|'''Cincinnati''']]<br />{{small|[[2012 Western & Southern Open – Men's singles|Singles]] – [[2012 Western & Southern Open – Men's doubles|Doubles]]}}
+! scope="row" |[[2012 Western & Southern Open|'''Cincinnati''']]<br /><small>[[2012 Western & Southern Open – Men's singles|Singles]] – [[2012 Western & Southern Open – Men's doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SUI}} Roger Federer
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 | 6–0, 7–6<sup>(9–7)</sup>
@@ -151,7 +151,7 @@ The twenty-third edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|IND}} Mahesh Bhupathi <br /> {{#invoke:flag|icon|IND}} Rohan Bopanna
 | 6–4, 6–4
 |-
-! scope="row" |[[2012 Shanghai Rolex Masters|'''Shanghai''']]<br />{{small|[[2012 Shanghai Rolex Masters – Singles|Singles]] – [[2012 Shanghai Rolex Masters – Doubles|Doubles]]}}
+! scope="row" |[[2012 Shanghai Rolex Masters|'''Shanghai''']]<br /><small>[[2012 Shanghai Rolex Masters – Singles|Singles]] – [[2012 Shanghai Rolex Masters – Doubles|Doubles]]</small>
 |{{#invoke:flag|icon|SRB}} Novak Djokovic
 |{{#invoke:flag|icon|GBR}} Andy Murray
 | 5–7, 7–6<sup>(13–11)</sup>, 6–3
@@ -159,7 +159,7 @@ The twenty-third edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 |{{#invoke:flag|icon|IND}} Mahesh Bhupathi <br /> {{#invoke:flag|icon|IND}} Rohan Bopanna
 | 6–7<sup>(7–9)</sup>, 6–3, [10–5]
 |-
-! scope="row" |[[2012 BNP Paribas Masters|'''Paris''']]<br />{{small|[[2012 BNP Paribas Masters – Singles|Singles]] – [[2012 BNP Paribas Masters – Doubles|Doubles]]}}
+! scope="row" |[[2012 BNP Paribas Masters|'''Paris''']]<br /><small>[[2012 BNP Paribas Masters – Singles|Singles]] – [[2012 BNP Paribas Masters – Doubles|Doubles]]</small>
 | style="background:#ddfddd" |{{#invoke:flag|icon|ESP}} [[David Ferrer]]*
 |{{#invoke:flag|icon|POL}} [[Jerzy Janowicz]]
 | 6–4, 6–3
@@ -357,7 +357,7 @@ The twenty-third edition of the [[ATP Masters]] Series.<ref>[https://www.atptour
 
 |RD2-seed3=4
 |RD2-team3='''{{flagicon|GRB}} [[Andy Murray]]'''
-|RD2-score3-1={{small|w/o}}
+|RD2-score3-1=<small>w/o</small>
 |RD2-score3-2=
 |RD2-score3-3=
 |RD2-seed4=2

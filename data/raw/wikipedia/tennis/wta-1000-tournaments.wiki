@@ -63,6 +63,7 @@ When the WTA 1000 category was originally established, there were four mandatory
 
 The 2024 season saw all WTA 1000 tournaments become mandatory.<ref name="2024points" /> Wuhan returned whilst Guadalajara was demoted to a WTA 500 tournament. Doha and Dubai, which had been alternating between WTA 1000 and WTA 500 status every year since 2015, both became permanent WTA 1000 tournaments.
 
+===Current===
 {| class="wikitable"
 |-
 !scope="col"| Tournament
@@ -129,6 +130,77 @@ The 2024 season saw all WTA 1000 tournaments become mandatory.<ref name="2024poi
 | 6–12 October
 |}
 {{notelist}}
+
+===Past===
+{{Incomplete list|date=November 2026}}
+{| class="wikitable plainrowheaders"
+|-
+!scope=col|Tournament
+! scope="col" | Location
+!scope="col" |Venue
+!scope="col" |Surface
+!scope="col" |Status
+|-
+!scope=row|[[Ameritech Cup]]
+|[[Chicago]], 
+|
+|
+|
+|-
+!scope=row|[[Virginia Slims of Florida]]
+|[[Boca Raton]]
+|
+|
+|
+|-
+!scope=row|[[Pan Pacific Open]]
+|[[Tokyo]], 
+|
+|
+|
+|-
+!scope=row|[[Charleston Open]]
+|[[Hilton Head]]/[[Charleston, South Carolina|Charleston]]
+|
+|
+|
+|-
+!scope=row|[[German Open (WTA)|German Open]]
+|[[Berlin]], 
+|
+|
+|
+|-
+!scope=row|[[Advanta Championships of Philadelphia|Advanta Championships<br />of Philadelphia]]
+|[[Philadelphia]], 
+|
+|
+|
+|-
+!scope=row|[[Kremlin Cup]]
+|[[Moscow]], 
+|
+|
+|
+|-
+!scope=row|[[Zurich Open]]
+|[[Zurich]]
+|
+|
+|
+|-
+!scope=row|[[San Diego Open (tennis)|San Diego Open]]
+|[[San Diego]]
+|
+|
+|
+|-
+!scope=row|[[Guadalajara Open Akron]]
+|[[Guadalajara]], 
+|
+|
+|
+|}
 
 {{location map+|Earth|float=center|width=650|caption={{center|Location map of current WTA 1000 events.}}|places=
 {{Location map~|background=#ead2ac8a|Earth|lat=25.286667|long=51.533333  |label=[[WTA Qatar Open|Doha]]|mark=Blue pog.svg|position=left}}
@@ -309,9 +381,9 @@ The 2024 season saw all WTA 1000 tournaments become mandatory.<ref name="2024poi
 {|
 |-style=vertical-align:top
 |
-{{#section-h:WTA 1000 Series doubles records and statistics|Different tournaments won}}
+{{#section-h:WTA 1000 Series doubles records and statistics|Different titles won}}
 {{Col break|gap=2em}}
-{{#section-h:WTA 1000 Series singles records and statistics|Different tournaments won}}
+{{#section-h:WTA 1000 Series singles records and statistics|Different titles won}}
 |}
 
 === Double crown ===

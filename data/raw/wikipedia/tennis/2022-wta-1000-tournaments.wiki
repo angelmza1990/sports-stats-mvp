@@ -92,7 +92,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 == Results ==
 <noinclude>{{Legend|#ddfddd|text=<nowiki>*</nowiki>|First-time champion}}</noinclude>
 
-{| class="wikitable plainrowheaders"
+{|class="wikitable nowrap" style=text-align:center;font-size:88%
 |-
 ! scope="col" style="min-width:7em"| Tournament
 ! scope="col"| Singles champions
@@ -103,7 +103,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 ! scope="col"| Score
 |-
 ! scope="row" | '''[[2022 Qatar Total Open|Doha]]'''
-{{small|[[2022 Qatar Total Open – Singles|Singles]] – [[2022 Qatar Total Open – Doubles|Doubles]]}}
+<small>[[2022 Qatar Total Open – Singles|Singles]] – [[2022 Qatar Total Open – Doubles|Doubles]]</small>
 | {{#invoke:flag|icon|POL}} [[Iga Świątek]]
 | {{#invoke:flag|icon|EST}} [[Anett Kontaveit]]
 | 6–2, 6–0
@@ -112,8 +112,8 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |3–6, 7–5, [10–5]
 |-
 ! scope="row" rowspan=2| '''[[2022 BNP Paribas Open|Indian Wells]]'''
-{{small|[[2022 BNP Paribas Open – Women's singles|Singles]] – [[2022 BNP Paribas Open – Women's doubles|Doubles]]}}
-| rowspan="2" | {{#invoke:flag|icon|POL}} Iga Świątek
+<small>[[2022 BNP Paribas Open – Women's singles|Singles]] – [[2022 BNP Paribas Open – Women's doubles|Doubles]]</small>
+| rowspan="2" | {{#invoke:flag|icon|POL}} Iga Świątek <small>(2)</small>
 | rowspan="2" | {{#invoke:flag|icon|GRE}} [[Maria Sakkari]]
 | rowspan="2" | 6–4, 6–1
 | {{#invoke:flag|icon|CHN}} [[Xu Yifan]]
@@ -123,8 +123,8 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |style="background:#ddfddd"| {{#invoke:flag|icon|CHN}} [[Yang Zhaoxuan]]*
 |-
 ! scope="row" rowspan=2| '''[[2022 Miami Open|Miami]]'''
-{{small|[[2022 Miami Open – Women's singles|Singles]] – [[2022 Miami Open – Women's doubles|Doubles]]}}
-| rowspan="2" | {{#invoke:flag|icon|POL}} Iga Świątek
+<small>[[2022 Miami Open – Women's singles|Singles]] – [[2022 Miami Open – Women's doubles|Doubles]]</small>
+| rowspan="2" | {{#invoke:flag|icon|POL}} Iga Świątek <small>(3)</small> 
 | rowspan="2" | {{#invoke:flag|icon|JPN}} [[Naomi Osaka]]
 | rowspan="2" | 6–4, 6–0
 | style="background:#ddfddd"| {{#invoke:flag|icon|GER}} [[Laura Siegemund]]*
@@ -134,7 +134,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |{{flagg|}} [[Vera Zvonareva]]
 |-
 ! scope="row" | '''[[2022 Mutua Madrid Open|Madrid]]'''
-{{small|[[2022 Mutua Madrid Open – Women's singles|Singles]] – [[2022 Mutua Madrid Open – Women's doubles|Doubles]]}}
+<small>[[2022 Mutua Madrid Open – Women's singles|Singles]] – [[2022 Mutua Madrid Open – Women's doubles|Doubles]]</small>
 | style="background:#ddfddd"| {{#invoke:flag|icon|TUN}} [[Ons Jabeur]]*
 | {{#invoke:flag|icon|USA}} [[Jessica Pegula]]
 | 7–5, 0–6, 6–2
@@ -143,8 +143,8 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |7–6<sup>(7–1)</sup>, 5–7, [10–7]
 |-
 ! scope="row" | '''[[2022 Italian Open (tennis)|Rome]]'''
-{{small|[[2022 Italian Open – Women's singles|Singles]] – [[2022 Italian Open – Women's doubles|Doubles]]}}
-| {{#invoke:flag|icon|POL}} Iga Świątek
+<small>[[2022 Italian Open – Women's singles|Singles]] – [[2022 Italian Open – Women's doubles|Doubles]]</small>
+| {{#invoke:flag|icon|POL}} Iga Świątek <small>(4)</small>
 | {{#invoke:flag|icon|TUN}} Ons Jabeur
 | 6–2, 6–2
 | {{flagg|}} Veronika Kudermetova <br /> {{flagg|}} [[Anastasia Pavlyuchenkova]]
@@ -152,16 +152,16 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |1–6, 6–4, [10–7]
 |-
 ! scope="row" | '''[[2022 National Bank Open|Toronto]]'''
-{{small|[[2022 National Bank Open – Women's singles|Singles]] – [[2022 National Bank Open – Women's doubles|Doubles]]}}
+<small>[[2022 National Bank Open – Women's singles|Singles]] – [[2022 National Bank Open – Women's doubles|Doubles]]</small>
 | {{#invoke:flag|icon|ROU}} [[Simona Halep]]
 | {{#invoke:flag|icon|BRA}} [[Beatriz Haddad Maia]]
 | 6–3, 2–6, 6–3
-| {{#invoke:flag|icon|USA}} Coco Gauff <br /> {{#invoke:flag|icon|USA}} Jessica Pegula
+| {{#invoke:flag|icon|USA}} Coco Gauff <small>(2)</small> <br /> {{#invoke:flag|icon|USA}} Jessica Pegula <small>(2)</small>
 | {{#invoke:flag|icon|USA}} [[Nicole Melichar-Martinez]] <br /> {{#invoke:flag|icon|AUS}} [[Ellen Perez]]
 |6–4, 6–7<sup>(5–7)</sup>, [10–5]
 |-
 ! scope="row" rowspan=2| '''[[2022 Western & Southern Open|Cincinnati]]'''
-{{small|[[2022 Western & Southern Open – Women's singles|Singles]] – [[2022 Western & Southern Open – Women's singles|Doubles]]}}
+<small>[[2022 Western & Southern Open – Women's singles|Singles]] – [[2022 Western & Southern Open – Women's singles|Doubles]]</small>
 | rowspan="2" | {{#invoke:flag|icon|FRA}} [[Caroline Garcia]]
 | rowspan="2" | {{#invoke:flag|icon|CZE}} [[Petra Kvitová]]
 | rowspan="2" | 6–2, 6–4
@@ -172,7 +172,7 @@ The WTA 1000 Mandatory and non-Mandatory tournaments, which are part of the [[WT
 |{{#invoke:flag|icon|LAT}} [[Jeļena Ostapenko]]
 |-
 ! scope="row" rowspan=2| '''[[2022 Guadalajara Open Akron|Guadalajara]]'''
-{{small|[[2022 Guadalajara Open Akron – Singles|Singles]] – [[2022 Guadalajara Open Akron – Doubles|Doubles]]}}
+<small>[[2022 Guadalajara Open Akron – Singles|Singles]] – [[2022 Guadalajara Open Akron – Doubles|Doubles]]</small>
 | style="background:#ddfddd;" rowspan=2| {{#invoke:flag|icon|USA}} [[Jessica Pegula]]
 | rowspan=2|{{#invoke:flag|icon|GRE}} Maria Sakkari
 | rowspan=2|6–2, 6–3
