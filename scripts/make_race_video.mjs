@@ -1,7 +1,7 @@
 // Render a bar chart race of titles as an MP4 (1920×1080, 30 fps) for YouTube; --vertical makes a 1080×1920 Short.
 //
 //   npm install --no-save puppeteer-core@23.11.1
-//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|argentina-pro|argentina-nacional[-pro]|argentina-total[-pro]|liga-mx|nba|nfl|nhl|libertadores|champions-league|tenis-slams-atp|tenis-slams-wta|tenis-masters|tenis-numero-1-atp|tenis-numero-1-wta [--vertical] [--en] [--preview]
+//   FFMPEG=/path/to/ffmpeg CHROME=/path/to/chrome node scripts/make_race_video.mjs argentina|argentina-pro|argentina-nacional[-pro]|argentina-total[-pro]|liga-mx|nba|nfl|nhl|libertadores|champions-league|argentina-internacional|sudamerica-internacional|tenis-slams-atp|tenis-slams-wta|tenis-masters|tenis-numero-1-atp|tenis-numero-1-wta [--vertical] [--en] [--preview]
 //
 // Each title is one step: the winner's bar grows by one while the panel names the tournament, the champion and
 // the runner-up. --preview renders a few still frames as PNG instead of the whole video. Output goes to videos/
@@ -367,6 +367,59 @@ function argentinaAll({ proOnly = false, intl = false } = {}) {
   };
 }
 
+// Every international title, year by year: of the Argentine clubs only, or of every South American club. CONMEBOL
+// cups, the Intercontinental Cup and Club World Cup and the other FIFA trophies, and the Río de la Plata cups.
+function intlTitles({ continent = false } = {}) {
+  const x = continent ? json("football/copa-libertadores/data/conmebol-titles.json") : json("football/argentine-primera/data/international.json");
+  const COMP = {
+    libertadores: "Copa Libertadores", sudamericana: "Copa Sudamericana", supercopa: "Supercopa Libertadores", recopa: "Recopa Sudamericana",
+    conmebol: "Copa CONMEBOL", mercosur: "Copa Mercosur", merconorte: "Copa Merconorte", oro: "Copa de Oro", master: L("Copa Máster de Supercopa", "Copa Master de Supercopa"),
+    cmc: L("Copa Máster de CONMEBOL", "Copa Master de CONMEBOL"), cgc: L("Copa Ganadores de Copa", "CONMEBOL Cup Winners' Cup"),
+    interamericana: "Copa Interamericana", suruga: "Copa Suruga Bank", sci: L("Supercopa de Campeones Intercontinentales", "Intercontinental Champions' Supercup"),
+    challenger: L("Copa Challenger FIFA", "FIFA Challenger Cup"), derby: L("Derbi de las Américas FIFA", "FIFA Derby of the Americas"),
+    "tie-cup": L("Tie Cup (Copa de Competencia rioplatense)", "Tie Cup (Río de la Plata)"), cusenier: "Copa de Honor Cusenier", aldao: "Copa Aldao",
+    "rio-de-la-plata": "Copa Campeonato del Río de la Plata", "escobar-gerona": "Copa Escobar-Gerona",
+  };
+  const SHORT_NAME = { libertadores: "Libertadores", sudamericana: "Sudamericana", supercopa: "Supercopa", recopa: "Recopa", conmebol: "Conmebol",
+    mercosur: "Mercosur", merconorte: "Merconorte", oro: L("Copa de Oro", "Copa de Oro"), master: L("Máster", "Master"), cmc: L("Máster Conmebol", "Conmebol Master"),
+    cgc: L("Ganadores de Copa", "Cup Winners' Cup"), interamericana: "Interamericana", suruga: "Suruga", sci: L("Supercopa Intercont.", "Intercont. Supercup"),
+    challenger: "Challenger", derby: L("Derbi Américas", "Derby Americas"), "tie-cup": "Tie Cup", cusenier: "Cusenier", aldao: "Aldao",
+    "rio-de-la-plata": L("Río de la Plata", "Río de la Plata"), "escobar-gerona": "Escobar-Gerona" };
+  const world = (t) => {
+    const ev = t.event ?? (t.year < 2005 ? "IC" : "CWC");
+    return ev === "IC" ? [L("Copa Intercontinental", "Intercontinental Cup"), "Intercontinental"]
+      : ev === "FIC" ? [L("Copa Intercontinental FIFA", "FIFA Intercontinental Cup"), L("Intercont. FIFA", "FIFA Intercont.")]
+      : [L("Mundial de Clubes FIFA", "FIFA Club World Cup"), L("Mundial de Clubes", "Club World Cup")];
+  };
+  const NATION = { ARG: "Argentina", BOL: "Bolivia", BRA: L("Brasil", "Brazil"), CHI: "Chile", COL: "Colombia", ECU: "Ecuador",
+    PAR: "Paraguay", PER: L("Perú", "Peru"), URU: "Uruguay", VEN: "Venezuela" };
+  const KIND = { conmebol: "CONMEBOL", fifa: "FIFA", intercontinental: L("Intercontinental", "Intercontinental"), rioplatense: L("Rioplatense", "Río de la Plata") };
+  const kindOf = Object.fromEntries(x.competitions.map((c) => [c.key, c.kind]));
+  const events = x.titles.map((t) => {
+    const [name, short] = t.comp === "intercontinental" ? world(t) : [COMP[t.comp], SHORT_NAME[t.comp]];
+    return { winner: t.club, big: t.season, name, short: `${t.season} ${short}`,
+      tag: continent ? NATION[t.nation] ?? t.nation : KIND[kindOf[t.comp]], note: continent ? KIND[kindOf[t.comp]] : "" };
+  });
+  const EXTRA = { "montevideo-wanderers-f-c": stripes("#111111", "#f1f1f1", 90, 12), "athletico-paranaense": stripes("#c8102e", "#111111"),
+    "independiente-del-valle": band("#111111", "#1b4fa0"), "river-plate-football-club": "#d71920", lanus: "#7a1f3d" };
+  const teams = Object.fromEntries([...new Set(events.map((e) => e.winner))].map((id) => [id, {
+    name: x.clubs[id].name, logo: soccerLogo(x.clubs[id].crest) ?? OLD_CRESTS[id] ?? null,
+    color: COLORS.argentina[id] ?? COLORS.libertadores[id] ?? EXTRA[id] ?? muted(id),
+  }]));
+  const span = `${x.titles[0].year} ${L("a", "to")} ${x.titles.at(-1).year}`;
+  return {
+    file: continent ? "sudamerica-titulos-internacionales" : "argentina-titulos-internacionales", secondsPerEvent: 0.6, events, teams,
+    title: continent ? L("Sudamérica: títulos internacionales por club", "South America: international titles by club")
+      : L("Fútbol argentino: títulos internacionales", "Argentine football: international titles"),
+    subtitle: continent
+      ? L(`Libertadores, Sudamericana, Intercontinental, Recopa, Mercosur y todas las demás, ${span} · ${events.length} títulos`,
+        `Libertadores, Sudamericana, Intercontinental, Recopa, Mercosur and every other, ${span} · ${events.length} titles`)
+      : L(`Copas CONMEBOL, intercontinentales y rioplatenses, ${span} · ${events.length} títulos`,
+        `CONMEBOL, intercontinental and Río de la Plata cups, ${span} · ${events.length} titles`),
+    credit: CREDIT, text: TEXT,
+  };
+}
+
 // Tennis: one step per title (Grand Slams, Masters 1000), or per player and calendar year for the weeks at No. 1.
 // Players wear their flag; the leading players a color of their own, the others their country's.
 const flag = (code) => (code ? `https://flagcdn.com/w160/${code}.png` : null);
@@ -443,7 +496,7 @@ function numberOne(tour) {
 
 // The background of each video: the sport's own (a pitch, a court, a rink) or a plain one, so that a Short and a
 // video, or the Spanish and English cuts, of the same race never look the same.
-const SPORT_THEME = { argentina: "pitch", "liga-mx": "pitch", libertadores: "pitch", "champions-league": "pitch", tenis: "court", nhl: "rink" };
+const SPORT_THEME = { argentina: "pitch", sudamerica: "pitch", "liga-mx": "pitch", libertadores: "pitch", "champions-league": "pitch", tenis: "court", nhl: "rink" };
 const PLAIN_THEMES = ["arena", "dusk", "grain", "night"];
 function theme(key) {
   const sport = SPORT_THEME[key] ?? SPORT_THEME[key.split("-")[0]];
@@ -456,7 +509,8 @@ const BUILDERS = { argentina, "argentina-pro": () => argentina({ proOnly: true }
   "argentina-nacional": () => argentinaAll(), "argentina-nacional-pro": () => argentinaAll({ proOnly: true }),
   "argentina-total": () => argentinaAll({ intl: true }), "argentina-total-pro": () => argentinaAll({ proOnly: true, intl: true }),
   "tenis-slams-atp": slamsAtp, "tenis-slams-wta": slamsWta, "tenis-masters": masters,
-  "tenis-numero-1-atp": () => numberOne("atp"), "tenis-numero-1-wta": () => numberOne("wta"), "liga-mx": ligaMx, nba, nfl, nhl, libertadores, "champions-league": championsLeague };
+  "tenis-numero-1-atp": () => numberOne("atp"), "tenis-numero-1-wta": () => numberOne("wta"), "liga-mx": ligaMx, nba, nfl, nhl, libertadores, "champions-league": championsLeague,
+  "argentina-internacional": () => intlTitles(), "sudamerica-internacional": () => intlTitles({ continent: true }) };
 const key = process.argv[2];
 if (!BUILDERS[key]) {
   console.error(`usage: node scripts/make_race_video.mjs ${Object.keys(BUILDERS).join("|")} [--vertical] [--en] [--preview]`);

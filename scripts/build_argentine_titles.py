@@ -1,4 +1,5 @@
 """Build football/argentine-primera/data/international.json: every international title won by an Argentine club.
+Also writes football/copa-libertadores/data/conmebol-titles.json, the same for every South American club.
 
 Two sources, both checked club by club against a totals table:
 
@@ -156,16 +157,160 @@ def build(refresh: bool) -> tuple[dict, list[str]]:
     return data, errors
 
 
+# ---------- Every international title won by a South American club ----------
+
+CONTINENT_OUT = ROOT / "football" / "copa-libertadores" / "data" / "conmebol-titles.json"
+CONMEBOL_NATIONS = {"ARG": "Argentina", "BOL": "Bolivia", "BRA": "Brazil", "CHI": "Chile", "COL": "Colombia",
+                    "ECU": "Ecuador", "PAR": "Paraguay", "PER": "Peru", "URU": "Uruguay", "VEN": "Venezuela"}
+NATION_NAMES = {**{v.lower(): k for k, v in CONMEBOL_NATIONS.items()}, "perú": "PER", "brasil": "BRA"}
+MORE_PAGES = [("merconorte", "Copa Merconorte", "MN", "Copa Merconorte")]
+# Competitions of one or two editions, with no by-club table to read: the CONMEBOL list has their totals, which
+# the validation checks these against.
+SINGLE = [
+    ("sci", "Intercontinental Champions' Supercup", "SCI", [(1968, "[[Santos FC|Santos]]"), (1969, "[[Peñarol]]")]),
+    ("cmc", "Copa Master de CONMEBOL", "CMC", [(1996, "[[São Paulo FC|São Paulo]]")]),
+    ("cgc", "Copa Ganadores de Copa", "CGC", [(1970, "[[Club Deportivo Mariscal Santa Cruz|Mariscal Santa Cruz]]")]),
+    ("challenger", "FIFA Challenger Cup", "CHA", [(2025, "[[CR Flamengo|Flamengo]]")]),
+    ("derby", "FIFA Derby of the Americas", "DA", [(2025, "[[CR Flamengo|Flamengo]]")]),
+]
+
+
+def nation_of(cell: str) -> str | None:
+    m = re.search(r"(?:bandera2?|flagicon|flag|fbaicon|fba)\s*\|\s*([^|}]+)", cell) or re.search(r"\{\{\s*([A-Z]{3})\s*\}\}", cell)
+    if not m:
+        return None
+    v = m.group(1).strip()
+    return v if v in CONMEBOL_NATIONS else NATION_NAMES.get(v.lower())
+
+
+def build_continent(refresh: bool) -> tuple[dict, list[str]]:
+    clubs = ClubIndex()
+    names: dict[str, dict] = {}
+    titles = []
+    errors = []
+
+    def club(cell: str, nat: str) -> str:
+        cid = clubs.resolve(cell, nat) if W.links(cell) else clubs.by_label(W.plain(cell), nat) or slug(W.plain(cell))
+        if cid not in clubs.clubs:
+            clubs.clubs[cid] = {"id": cid, "name": W.plain(cell), "country": nat, "espn": None, "aliases": []}
+        return cid
+
+    for key, label, _, folder in FROM_DATA:
+        data = json.loads((ROOT / "football" / folder / "data" / f"{folder}.json").read_text(encoding="utf-8"))
+        for f in data["finals"]:
+            if f["championCountry"] in CONMEBOL_NATIONS:
+                titles.append({"year": f["year"], "season": f["season"], "comp": key, "club": f["champion"], "nation": f["championCountry"], **({"event": f["competition"]} if "competition" in f else {})})
+                names[f["champion"]] = {"name": data["clubs"][f["champion"]]["name"], "crest": data["clubs"][f["champion"]].get("crest")}
+
+    for key, label, _, title in FROM_PAGES + MORE_PAGES:
+        grid = by_club_table(page(title, refresh))
+        labels = [W.plain(c["text"]).lower() for c in grid[0]]
+        club_i = next(i for i, l in enumerate(labels) if l in ("club", "team"))
+        won_i = next(i for i, l in enumerate(labels) if re.match(r"(seasons|years) won", l))
+        for row in grid[1:]:
+            nat = nation_of(row[club_i]["text"]) if len(row) > won_i else None
+            if not nat:
+                continue
+            cid = club(row[club_i]["text"], nat)
+            for year in re.findall(r"\b(19[5-9]\d|20[0-4]\d)\b", W.plain(row[won_i]["text"])):
+                titles.append({"year": int(year), "season": year, "comp": key, "club": cid, "nation": nat})
+
+    for key, label, _, wins in SINGLE:
+        for year, cell in wins:
+            nat = "BOL" if key == "cgc" else "URU" if "Peñarol" in cell else "BRA"
+            titles.append({"year": year, "season": str(year), "comp": key, "club": club(cell, nat), "nation": nat})
+
+    # Checked club by club against the CONMEBOL list's totals.
+    conmebol = page("List of CONMEBOL club competition winners", refresh)
+    grid = W.table_with_headers(conmebol, "rank", "club", "country", "cl", "total")
+    labels = [W.plain(c["text"]) for c in grid[0]]
+    listed = set()
+    for row in grid[1:]:
+        nat = nation_of(row[2]["text"]) if len(row) >= len(labels) else None
+        if not nat:
+            continue
+        cid = club(row[1]["text"], nat)
+        listed.add(cid)
+        for key, _, code, *_ in FROM_DATA + FROM_PAGES + MORE_PAGES + SINGLE:
+            want = W.number(row[labels.index(code)]["text"]) or 0
+            got = sum(1 for t in titles if t["comp"] == key and t["club"] == cid)
+            if got != want:
+                errors.append(f"{W.plain(row[1]['text'])} {code}: {got} titles, the CONMEBOL list has {want}")
+    for cid in {t["club"] for t in titles} - listed:
+        errors.append(f"{cid}: has titles but is not in the CONMEBOL list")
+
+    # The Río de la Plata cups, which the AFA and the AUF count as official.
+    text = re.sub(r"<ref[^>]*/>|<ref[^>]*>.*?</ref>", "", page(RIOPLATENSE_PAGE, refresh, "es"), flags=re.S)
+    rio = []
+    for anchor, key, label in RIOPLATENSE:
+        grid = W.parse_table(W.find_table(text, anchor, 0))
+        for row in grid[1:]:
+            if len(row) < 4:
+                continue
+            year = re.search(r"\b(19\d\d)\b", W.plain(row[0]["text"]))
+            winner = row[1]["text"]
+            nat = nation_of(winner)
+            if year and nat and not re.search(r"no se disputó la revancha", W.plain(row[2]["text"]), re.I):
+                first = re.split(r"<br\s*/?>", winner)[0]
+                rio.append({"year": int(year.group(1)), "season": year.group(1), "comp": key, "club": club(first if W.links(first) else winner, nat), "nation": nat})
+    # The 1945 Escobar-Gerona was shared: Boca Juniors and Nacional finished level and both were declared champions.
+    rio.append({"year": 1945, "season": "1945", "comp": "escobar-gerona", "club": club("[[Club Nacional de Football|Nacional]]", "URU"), "nation": "URU"})
+    # The page credits CURCC's titles to Peñarol, and links the Uruguayan River Plate two ways.
+    same = {"central-uruguay-railway-cricket-club": club("[[Club Atlético Peñarol|Peñarol]]", "URU"), "river-plate-f-c": "river-plate-football-club"}
+    for t in rio:
+        t["club"] = same.get(t["club"], t["club"])
+    official = Counter()
+    for row in W.table_with_headers(text, "club", "títulos", "ediciones ganadas")[1:]:
+        nat = nation_of(row[0]["text"]) if len(row) >= 2 else None
+        if nat:
+            cid = club(row[0]["text"], nat)
+            official[same.get(cid, cid)] += W.number(row[1]["text"]) or 0
+    got = Counter(t["club"] for t in rio)
+    for cid in set(got) | set(official):
+        if got[cid] != official[cid]:
+            errors.append(f"Río de la Plata cups, {cid}: {got[cid]} titles, the page's totals say {official[cid]}")
+    titles += rio
+
+    for t in titles:
+        if t["club"] not in names:
+            c = clubs.clubs[t["club"]]
+            names[t["club"]] = {"name": c["name"], "crest": c.get("espn")}
+        names[t["club"]]["nation"] = t["nation"]
+    titles.sort(key=lambda t: (t["year"], t["comp"]))
+    comps = [{"key": k, "label": l, "kind": "conmebol"} for k, l, *_ in FROM_DATA + FROM_PAGES + MORE_PAGES + SINGLE]
+    for c in comps:
+        if c["key"] in ("intercontinental", "sci", "challenger", "derby"):
+            c["kind"] = "fifa" if c["key"] != "sci" else "intercontinental"
+    comps += [{"key": k, "label": l, "kind": "rioplatense"} for _, k, l in RIOPLATENSE]
+    return {
+        "meta": {"generated": date.today().isoformat(),
+                 "sources": ["https://en.wikipedia.org/wiki/List_of_CONMEBOL_club_competition_winners",
+                             f"https://es.wikipedia.org/wiki/{RIOPLATENSE_PAGE.replace(' ', '_')}"],
+                 "notes": ["Every title won by a club of a CONMEBOL nation: CONMEBOL competitions, the Intercontinental Cup and "
+                           "Club World Cup and the other intercontinental trophies the CONMEBOL list counts, plus the Río de la "
+                           "Plata cups the Argentine and Uruguayan associations count as official."]},
+        "competitions": comps,
+        "clubs": names,
+        "titles": titles,
+    }, errors
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--refresh", action="store_true")
-    data, errors = build(ap.parse_args().refresh)
-    if errors:
-        print("validation failed:\n  " + "\n  ".join(errors), file=sys.stderr)
+    refresh = ap.parse_args().refresh
+    failed = False
+    for out, builder in ((OUT, build), (CONTINENT_OUT, build_continent)):
+        data, errors = builder(refresh)
+        if errors:
+            print(f"{out.name}: validation failed:\n  " + "\n  ".join(errors), file=sys.stderr)
+            failed = True
+            continue
+        out.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        by = Counter(data["clubs"][t["club"]]["name"] for t in data["titles"])
+        print(f"wrote {out.relative_to(ROOT)}: {len(data['titles'])} titles; {by.most_common(8)}")
+    if failed:
         sys.exit(1)
-    OUT.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    by = Counter(data["clubs"][t["club"]]["name"] for t in data["titles"])
-    print(f"wrote {OUT.relative_to(ROOT)}: {len(data['titles'])} titles; {by.most_common(8)}")
 
 
 if __name__ == "__main__":
